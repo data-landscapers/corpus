@@ -1,0 +1,12 @@
+{"slug": "2026-05-17-mwi-malawi-needs-a-startup-act-like-yesterday", "studies": {
+"civilserviceskills": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document says nothing on civil-servant digital-skills training."}}},
+"digitalskills": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Mentions hub training and bootcamps generally, no national public digital-skills programme or count."}}},
+"digitalstrategy": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document does not discuss a national digital strategy."}}},
+"nonstatefinance": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Says angel and venture capital are scarce; names no amount or deal."}}},
+"startups": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "startuppolicy", "aspect": "law", "value": "draft", "fact": "Tech Trends Malawi says that in 2024 Malawi proposed a Digital Innovation and Entrepreneurship Bill for a legal framework for startups, hubs and early-stage investment, but the bill never became law.", "as_of": "2024", "date_precision": "year", "system": "Digital Innovation and Entrepreneurship Bill", "class": "startuppolicy"}
+], "systems": [{"system": "Digital Innovation and Entrepreneurship Bill", "country_label": "Malawi", "class": "startuppolicy", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"techhubs": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "Tech Trends Malawi says Malawi has several innovation hubs, some of which run incubation programmes, mHub being an early pioneer, though most depend on donor funding.", "as_of": "2026-05-17", "date_precision": "day", "system": "mHub", "class": "hub"}
+], "systems": [{"system": "mHub", "country_label": "Malawi", "class": "hub", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+}}

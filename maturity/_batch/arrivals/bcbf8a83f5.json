@@ -1,0 +1,216 @@
+{
+ "slug": "2026-05-01-mwi-unlocking-data-newsletter-may-edition",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The newsletter says a DHIS2-based cohort tracking prototype, described as a component of Malawi's EMIS, is running in four pilot schools, with validation expected by end-June 2026 before presentation to Ministry management for adoption.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "DHIS2-based cohort tracking prototype",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DHIS2-based cohort tracking prototype",
+       "country_label": "Malawi",
+       "class": "emis",
+       "platform": "DHIS2 with KoboCollect",
+       "owner": "HISP Malawi build, Unlocking Data Initiative",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The newsletter states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "schools",
+       "value": "pilot",
+       "fact": "The newsletter says the DHIS2-based cohort tracking prototype, using KoboCollect for offline data entry, is running in four pilot schools in Machinga and Dedza districts, with validation due by end-June 2026.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "DHIS2-based cohort tracking prototype",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DHIS2-based cohort tracking prototype",
+       "country_label": "Malawi",
+       "class": "emis",
+       "platform": "DHIS2 with KoboCollect",
+       "owner": "HISP Malawi build, Unlocking Data Initiative",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

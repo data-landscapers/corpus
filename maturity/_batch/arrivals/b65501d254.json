@@ -1,0 +1,133 @@
+{
+ "slug": "2024-11-06-tza-assessing-the-performance-of-primary-school-information-management-sys",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is an academic abstract on PReM at two Temeke primary schools; it states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is an academic abstract on PReM at two Temeke primary schools; it states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is an academic abstract on PReM at two Temeke primary schools; it states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is an academic abstract on PReM at two Temeke primary schools; it states nothing this study asks."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is an academic abstract on PReM at two Temeke primary schools; it states nothing this study asks."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is an academic abstract on PReM at two Temeke primary schools; it states nothing this study asks."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PReM (Primary School Information Management System)",
+       "country_label": "Tanzania",
+       "class": "other",
+       "platform": "",
+       "owner": "NECTA",
+       "tiers": ""
+      }
+     ],
+     "note": "Document is an academic abstract on PReM at two Temeke primary schools; it states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is an academic abstract on PReM at two Temeke primary schools; it states nothing this study asks."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is an academic abstract on PReM at two Temeke primary schools; it states nothing this study asks."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is an academic abstract on PReM at two Temeke primary schools; it states nothing this study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "levels",
+       "value": "P",
+       "fact": "The Mmole and Banele study assesses the PReM primary school information management system, used for student data collection, at two public primary schools (Mtoni Kijichi and Bwawani) in Temeke, Dar es Salaam.",
+       "as_of": "2024-11-06",
+       "date_precision": "day",
+       "system": "PReM",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PReM (Primary School Information Management System)",
+       "country_label": "Tanzania",
+       "class": "emis",
+       "platform": "",
+       "owner": "NECTA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

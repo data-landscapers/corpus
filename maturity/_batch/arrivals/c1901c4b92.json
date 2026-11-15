@@ -1,0 +1,63 @@
+{
+ "slug": "2023-12-17-dza-technology-parks",
+ "studies": {
+  "startups": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on a startup law or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The Ministry of Post and Telecommunications page says the Sidi-Abdellah cyberpark incubator supports young entrepreneurs and startups with training, workshops, workspace and coaching.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Sidi-Abdellah cyberpark incubator",
+       "class": "hub"
+      },
+      {
+       "sub_indicator": "hub",
+       "aspect": "cities",
+       "value": "several",
+       "fact": "The ministry page says incubators operate at Sidi-Abdellah, Bordj Bou Arr\u00e9ridj and Oran.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "ANPT incubators",
+       "class": "hub"
+      },
+      {
+       "sub_indicator": "hub",
+       "aspect": "park",
+       "value": "tenants",
+       "fact": "The ministry page says the Sidi-Abdellah cyberpark is in operation and currently hosts over thirty companies.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Sidi-Abdellah cyberpark",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Sidi-Abdellah cyberpark",
+       "country_label": "Algeria",
+       "class": "hub",
+       "platform": "",
+       "owner": "ANPT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

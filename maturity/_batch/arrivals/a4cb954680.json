@@ -1,0 +1,12 @@
+{"slug": "2025-04-15-moz-avaliacao-expoe-fragilidades-no-subsidio-social-basico-e-recomenda-ref", "studies": {
+"businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection for digital finance."}}},
+"crossborderpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"digitaldivides": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on rural internet programmes or rural/urban use."}}},
+"g2ppayments": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "Programa de Subsidio Social Basico (PSSB)", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "INAS", "tiers": ""}], "note": "Digital payment via M-Pesa or e-Mola is only recommended for piloting; the document does not say it is under way or in service."}}},
+"paymentsuptake": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No account-ownership survey figure stated."}}},
+"retailpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "M-Pesa and e-Mola are named only as proposed payment channels; no statement of licensing or service."}}},
+"revenuecollection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}},
+"socialprotection": {"countries": {"MOZ": {"facts": [{"sub_indicator": "socialmis", "aspect": "system", "value": "inservice", "fact": "O Economico reports that the e-INAS electronic platform, introduced to modernise and speed up management of the Programa de Subsidio Social Basico (about 450,000 beneficiaries), is in use but does not yet ensure efficient, transparent coverage in all provinces, per an IGM programme evaluation.", "as_of": "2025-04-15", "date_precision": "day", "system": "e-INAS", "class": "socialmis"}], "systems": [{"system": "e-INAS", "country_label": "Mozambique", "class": "socialmis", "platform": "electronic platform", "owner": "INAS", "tiers": ""}], "note": ""}}}
+}}

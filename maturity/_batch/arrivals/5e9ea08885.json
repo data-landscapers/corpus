@@ -1,0 +1,32 @@
+{
+ "slug": "2024-10-10-mli-mali-lamrtp-annonce-la-levee-temporaire-de-la-suspension-des-kits-star",
+ "studies": {
+  "qualitystandards": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on national IT standards; equipment homologation is the regulator's approval, which is other."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Starlink",
+       "class": "other",
+       "platform": "low-orbit satellite",
+       "owner": "SpaceX",
+       "tiers": ""
+      }
+     ],
+     "note": "Suspension lifted for six months on conditions (registration, homologation, user identification) not yet met; no licence or sale stated."
+    }
+   }
+  }
+ }
+}

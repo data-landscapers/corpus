@@ -1,0 +1,117 @@
+{
+ "slug": "2024-02-12-sle-orange-money-facilitates-payment-to-35-000-beneficiary-households",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SLE."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SLE."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SLE."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SLE."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SLE."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SLE."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no programme information system; only payments through Orange Money."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Satellite News reports NaCSA's Third Cohort Contingency Emergency Cash Transfer, begun 25 January 2024, paying 35,005 beneficiary households NLe 2,660 each electronically through Orange Money.",
+       "as_of": "2024-01-25",
+       "date_precision": "day",
+       "system": "Contingency Emergency Cash Transfer (NaCSA)",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money",
+       "country_label": "Sierra Leone",
+       "class": "other",
+       "platform": "mobile money",
+       "owner": "Orange",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Satellite News reports that payments in the January 2024 cash transfer round are made electronically through Orange Money, to 35,005 households.",
+       "as_of": "2024-01-25",
+       "date_precision": "day",
+       "system": "Orange Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

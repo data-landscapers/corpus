@@ -1,0 +1,186 @@
+{
+ "slug": "2025-12-01-lbr-orange-mtn-mobile-money-users-to-enjoy-instant-cross-network-transfers",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "The Central Bank of Liberia says it licenses, supervises and oversees all financial institutions, including mobile money operators and fintechs.",
+       "as_of": "2025-11-28",
+       "date_precision": "day",
+       "system": "Central Bank of Liberia",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The Central Bank of Liberia's Payment System Department presents IIPS as a national switch connecting Orange Money and MTN Mobile Money, with banks and eleven fintechs, and says salaries now settle through it.",
+       "as_of": "2025-11-28",
+       "date_precision": "day",
+       "system": "IIPS (Instant Inclusive Payment System)",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IIPS (Instant Inclusive Payment System)",
+       "country_label": "Liberia",
+       "class": "other",
+       "platform": "national instant payment switch",
+       "owner": "Central Bank of Liberia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a general statement that the regulatory framework ensures consumer protection; no rule or body named."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Central Bank of Liberia says civil servants and public sector workers now receive salaries in 10 to 15 seconds through IIPS, instead of up to seven days.",
+       "as_of": "2025-11-28",
+       "date_precision": "day",
+       "system": "IIPS (Instant Inclusive Payment System)",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "quarter",
+       "fact": "A Central Bank of Liberia official cites the World Bank as putting Liberia's financial inclusion rate at about 52%.",
+       "as_of": "2025-12-01",
+       "date_precision": "day",
+       "system": "World Bank",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Orange Money and Lonestar MTN Mobile Money are described as the two dominant mobile money providers in Liberia, with 11 fintechs also connected.",
+       "as_of": "2025-11-28",
+       "date_precision": "day",
+       "system": "Orange Money / MTN Mobile Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money",
+       "country_label": "Liberia",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Orange Liberia",
+       "tiers": ""
+      },
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Liberia",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Lonestar MTN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Central Bank of Liberia says taxes paid by mobile money are routed through IIPS to the Central Bank.",
+       "as_of": "2025-11-28",
+       "date_precision": "day",
+       "system": "IIPS (Instant Inclusive Payment System)",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

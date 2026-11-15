@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-09-stp-elaboracao-da-nova-estrategia-nacional-de-desenvolvimento-estatistico",
+ "studies": {
+  "statisticsstrategy": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "preparing",
+       "fact": "AFAP reports that the INE held the official launch workshop for the new ENDE 2025-2029, presenting the roadmap for its preparation.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "ENDE 2025-2029",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ENDE 2025-2029",
+       "country_label": "ENDE 2025-2029",
+       "class": "strategy",
+       "platform": "",
+       "owner": "INE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

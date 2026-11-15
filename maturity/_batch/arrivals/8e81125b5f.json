@@ -1,0 +1,11 @@
+{"slug":"2026-07-27-ben-interconnexion-des-plateformes-mobile-money-aux-reseaux-des-operateurs","studies":{
+"businesspayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document does not mention public procurement."}}},
+"centralbank":{"countries":{"BEN":{"facts":[],"systems":[],"note":"ARCEP is the telecoms regulator; the document states no central bank role."}}},
+"consumerprotection":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No consumer-protection rule or complaints body for digital finance is stated."}}},
+"crossborderpayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document does not mention cross-border payments."}}},
+"g2ppayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document does not mention government payments to people."}}},
+"paymentslaw":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Names no payments law or e-money rules, only regulatory enforcement by a telecoms regulator."}}},
+"paymentsuptake":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No survey share of adults with accounts is given."}}},
+"retailpayments":{"countries":{"BEN":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"ARCEP Benin says MTN Mobile Money, Moov Money and Celtiis Cash are in service, offering deposits, withdrawals, transfers and bill payments, and since January 2025 any mobile number can hold wallets with all three.","as_of":"2025-01","date_precision":"month","system":"MTN Mobile Money, Moov Money, Celtiis Cash","class":"retail"}],"systems":[{"system":"MTN Mobile Money","country_label":"Benin","class":"retail","platform":"USSD *880#","owner":"MTN Benin","tiers":""},{"system":"Moov Money","country_label":"Benin","class":"retail","platform":"USSD *855#","owner":"Moov Africa Benin","tiers":""},{"system":"Celtiis Cash","country_label":"Benin","class":"retail","platform":"USSD *889#","owner":"Celtiis","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document does not mention tax or fee payment."}}}
+}}

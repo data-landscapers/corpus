@@ -1,0 +1,34 @@
+{"slug":"2026-07-01-ben-fact-sheet-benin-january-june-2026","studies":{
+"addressregister":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on addressing."}}},
+"authentication":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on authentication services."}}},
+"birthidlink":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document names a UNICEF and ANIP birth registration pilot but states no record exchange between civil register and ID system."}}},
+"businesspayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on e-procurement."}}},
+"businessregister":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on business registration."}}},
+"centralbank":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on the central bank."}}},
+"civilregister":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The birth registration pilot is described by rates only, with no digital system stated."}}},
+"consumerprotection":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on cross-border payments."}}},
+"electoralregister":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on the voters' roll."}}},
+"g2ppayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Cash assistance named is by WFP and UNICEF, not a government programme."}}},
+"idcoverage":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No count or share of the population holding a national ID is stated."}}},
+"idfrombirth":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No ID number at birth is stated; the pilot gives birth registration rates only."}}},
+"idmaintenance":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on public registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on the national ID system's issuance, biometrics or audit."}}},
+"landregister":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document mentions land access for farming only, no register."}}},
+"localgov":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on local government connection."}}},
+"paymentsuptake":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No survey share of adults with an account is stated."}}},
+"populationregister":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The RNPP is named only as the target of a refugee enrolment roadmap, with no statement that it is in service."}}},
+"refugees":{"countries":{"BEN":{"facts":[
+{"sub_indicator":"displaced","aspect":"registration","value":"documented","fact":"UNHCR says that as of 30 June 2026 around 30,400 refugees and asylum-seekers in Benin were individually registered, and that under the World Bank-supported COSO project 8,481 asylum-seekers were registered and 2,337 issued vital protection documents in northern Benin, while 2,450 in the south hold valid documents.","as_of":"2026-06-30","date_precision":"day","system":"COSO registration and verification","class":"displaced"},
+{"sub_indicator":"displaced","aspect":"registration","value":"underway","fact":"UNHCR says it convened two quadripartite meetings with SP-CNRA, WURI and ANIP in January 2026 to validate terms of reference and set a roadmap for biometric enrolment of refugees and asylum-seekers in the National Registry of Physical Persons, still to be operationalised in the second half of 2026.","as_of":"2026-01","date_precision":"month","system":"RNPP biometric enrolment roadmap","class":"displaced"}
+],"systems":[
+{"system":"COSO registration and verification","country_label":"Benin","class":"displaced","platform":"","owner":"SP-CNRA with UNHCR","tiers":""},
+{"system":"National Registry of Physical Persons (RNPP)","country_label":"Benin","class":"other","platform":"","owner":"ANIP","tiers":""}
+],"note":""}}},
+"registry":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on digital entry of births or deaths at local offices."}}},
+"retailpayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on mobile money or retail payments."}}},
+"revenuecollection":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on electronic tax payment."}}},
+"socialregistry":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on a social registry."}}},
+"taxregister":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Document states nothing on the taxpayer register."}}}
+}}

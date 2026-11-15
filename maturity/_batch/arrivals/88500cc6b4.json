@@ -1,0 +1,9 @@
+{"slug":"2025-09-30-ben-liste-des-fournisseurs-d-acces-a-internet-autorises-au-benin","studies":{
+"exchangepoints":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document is a register of authorised ISPs and states nothing about exchange points."}}},
+"fibrebackbone":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document is a register of authorised ISPs and states nothing about a national fibre backbone."}}},
+"internationalbandwidth":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document is a register of authorised ISPs and states nothing about international fibre routes."}}},
+"internetusage":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document gives no share of people using the internet."}}},
+"localgov":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document says nothing about local government office connections."}}},
+"mobilepenetration":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document gives no mobile phone ownership figure."}}},
+"satellitebroadband":{"countries":{"BEN":{"facts":[{"sub_indicator":"satellite","aspect":"service","value":"licensed","fact":"ARCEP Benin's register of authorised internet access providers dated 30 September 2025 lists Starlink Benin SARL as authorised for all 77 communes.","as_of":"2025-09-30","date_precision":"day","system":"Starlink","class":"satellite"}],"systems":[{"system":"Starlink","country_label":"Starlink Benin SARL","class":"satellite","platform":"low-orbit satellite","owner":"Starlink Benin SARL","tiers":"national, all 77 communes"}],"note":""}}}
+}}

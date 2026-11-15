@@ -1,0 +1,12 @@
+{"slug": "2025-03-06-dji-djibouti-operational-update-06-march-2025", "studies": {
+"authentication": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Operational update states nothing on authentication services."}}},
+"birthidlink": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on a civil register and ID system link."}}},
+"idcoverage": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No national ID enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the national ID system."}}},
+"idregisters": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on public registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on the national ID system itself; refugee identity cards are not the national ID."}}},
+"refugees": {"countries": {"DJI": {"facts": [
+{"sub_indicator": "displaced", "aspect": "registration", "value": "documented", "fact": "UNHCR, with ONARS, registered 24 new-arrival households (29 people) in the period reviewed and issued 199 certificates and 14 identity cards in the Holl-Holl camps and Djibouti-ville.", "as_of": "2025-03-06", "date_precision": "day", "system": "UNHCR-ONARS refugee registration", "class": "displaced"}
+], "systems": [{"system": "UNHCR-ONARS refugee registration", "country_label": "Djibouti", "class": "displaced", "platform": "", "owner": "ONARS and UNHCR", "tiers": ""}], "note": ""}}}
+}}

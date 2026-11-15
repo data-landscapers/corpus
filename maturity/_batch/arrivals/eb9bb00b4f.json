@@ -1,0 +1,15 @@
+{"slug":"2025-04-16-mwi-digital-payment-volumes-rise-gaps-still-remain-data-shows","studies":{
+"businesspayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Reserve Bank compiles a payments report, but no mandate, licensing, switch oversight or PAPSS statement."}}},
+"civilserviceskills":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Nothing on civil servant training."}}},
+"consumerprotection":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Nothing on consumer protection rules or redress."}}},
+"crossborderpayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"digitalskills":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Digital literacy mentioned only in passing; no programme or measured share."}}},
+"g2ppayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Gives subscriber and transaction counts, no survey share of adults with accounts."}}},
+"retailpayments":{"countries":{"MWI":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Reserve Bank of Malawi's 2024 payments report, as reported by Nation Online, shows mobile money in service, with volumes up 40.4 percent and values up 80.9 percent to K19.5 trillion in 2024.","as_of":"2024","date_precision":"year","system":"mobile money","class":"retail"},
+{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"The Reserve Bank of Malawi's 2024 report credits improved interoperability through the National Switch, a central platform for interoperable payments that processed 33.5 million transactions worth K5 trillion in 2024.","as_of":"2024","date_precision":"year","system":"National Switch","class":"retail"}],
+"systems":[{"system":"National Switch","country_label":"Malawi","class":"retail","platform":"central platform for interoperable payments","owner":"","tiers":""},{"system":"mobile money","country_label":"Malawi","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}},
+"schoolinternet":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Nothing on schools."}}}}}

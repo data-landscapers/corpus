@@ -1,0 +1,19 @@
+{"slug": "2025-01-01-mdg-miary-digital-45-nouvelles-startups-incubees-dans-la-2e-cohorte-du-pro", "studies": {
+"businesspayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document does not mention the central bank or payments."}}},
+"consumerprotection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document does not mention consumer protection."}}},
+"crossborderpayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document does not mention cross-border payments."}}},
+"g2ppayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document does not mention government payments to people."}}},
+"paymentsuptake": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document gives no account-ownership survey."}}},
+"retailpayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document does not mention retail payments."}}},
+"revenuecollection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Document does not mention revenue collection."}}},
+"startups": {"countries": {"MDG": {"facts": [], "systems": [], "note": "A government incubation and grant programme is described, but no startup act or strategy, labelling or fund under one is stated."}}},
+"techhubs": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "PIC3 says three regional incubators, NextA (North), Orange Digital Center (South) and Zafy Tody (East), will run 9 to 11 month incubation programmes for a second cohort of 45 startups selected after a call launched on 20 January 2025.", "as_of": "2025", "date_precision": "year", "system": "MIARY Digital", "class": "hub"}
+], "systems": [
+{"system": "MIARY Digital", "country_label": "Madagascar", "class": "hub", "platform": "", "owner": "Projet PIC3 (Ministry of Economy and Finance)", "tiers": ""},
+{"system": "NextA", "country_label": "Madagascar", "class": "hub", "platform": "", "owner": "", "tiers": ""},
+{"system": "Orange Digital Center", "country_label": "Madagascar", "class": "hub", "platform": "", "owner": "Orange", "tiers": ""},
+{"system": "Zafy Tody", "country_label": "Madagascar", "class": "hub", "platform": "", "owner": "", "tiers": ""}
+], "note": "No cities are named, so no several-cities fact."}}}
+}}

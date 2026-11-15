@@ -1,0 +1,43 @@
+{
+ "slug": "2025-05-12-ben-labellisation-des-startups-resultats-du-premier-appel-a-candidatures",
+ "studies": {
+  "startups": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "labelled",
+       "value": "labelled",
+       "fact": "The Ministry of Digital Affairs states that after the call of 2-12 December 2024, 15 MSMEs were granted the startup label for three years under decree 2023-095.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "Startup label (decree 2023-095)",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup label (decree 2023-095)",
+       "country_label": "BEN",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Ministere du Numerique et de la Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on hubs, incubators or parks."
+    }
+   }
+  }
+ }
+}

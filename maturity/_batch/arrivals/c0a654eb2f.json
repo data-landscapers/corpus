@@ -1,0 +1,124 @@
+{
+ "slug": "2026-03-01-lby-tripoli-business-hub-opens-to-support-capital-s-startups",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Libya."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Libya."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Libya."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Libya."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Libya."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Libya."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Libya."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Libya."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Libya."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Libya."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Libya Herald reports Tripoli Business Hub, a municipal centre of Tripoli Central Municipality, officially opened on 11 March 2026 and will offer incubation programmes, with no cohort stated.",
+       "as_of": "2026-03-11",
+       "date_precision": "day",
+       "system": "Tripoli Business Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tripoli Business Hub",
+       "country_label": "Libya",
+       "class": "hub",
+       "platform": "",
+       "owner": "Tripoli Central Municipality",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

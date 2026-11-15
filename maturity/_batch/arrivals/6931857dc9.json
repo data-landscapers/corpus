@@ -1,0 +1,43 @@
+{
+ "slug": "2025-10-20-cpv-dia-mundial-da-estatistica-presidente-do-conselho-nacional-de-estatist",
+ "studies": {
+  "statisticslaw": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The CNEST president says a report on the application of the 2019 national statistical system law is due to the National Assembly by December 2025, treating that law as existing.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "Lei do sistema estatístico nacional de 2019",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Lei do sistema estatístico nacional de 2019",
+       "country_label": "Lei SEN 2019",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a proposed statistical development fund law and the 2019 SEN law are named; no strategy is stated."
+    }
+   }
+  }
+ }
+}

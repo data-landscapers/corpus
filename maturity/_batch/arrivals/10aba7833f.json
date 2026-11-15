@@ -1,0 +1,229 @@
+{
+ "slug": "2025-08-22-sle-nra-hits-100-digital-tax-filing-compliance-as-sierra-leone-s-revenue-r",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "revenue",
+       "value": "inuse",
+       "fact": "The NRA Commissioner General says ITAS has been fully operational since 2021 for income tax and GST filing.",
+       "as_of": "2025-08-22",
+       "date_precision": "day",
+       "system": "ITAS",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ITAS",
+       "country_label": "Sierra Leone",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "National Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The NRA Commissioner General says 100% of excise taxpayers file and pay electronically and non-tax government fees are paid by mobile money through an NRA app.",
+       "as_of": "2025-08-22",
+       "date_precision": "day",
+       "system": "ITAS",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ITAS",
+       "country_label": "Sierra Leone",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "National Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": "Customs duties paid electronically are not stated, so no main fact."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The NRA Commissioner General says everyone who files income tax and GST does so digitally on ITAS, fully operational since 2021, with no manual filing.",
+       "as_of": "2025-08-22",
+       "date_precision": "day",
+       "system": "ITAS",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The NRA says 100% of excise taxpayers file and pay taxes electronically.",
+       "as_of": "2025-08-22",
+       "date_precision": "day",
+       "system": "ITAS",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "uptake",
+       "value": "most",
+       "fact": "The NRA Commissioner General says all income tax and GST filers file digitally and there is no more manual filing.",
+       "as_of": "2025-08-22",
+       "date_precision": "day",
+       "system": "ITAS",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ITAS",
+       "country_label": "Sierra Leone",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "National Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

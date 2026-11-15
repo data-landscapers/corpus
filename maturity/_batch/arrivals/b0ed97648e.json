@@ -1,0 +1,9 @@
+{"slug":"2025-08-20-nam-seedr-namibia-2-0-unveils-namibia-s-next-generation-of-innovators","studies":{
+"aiabuse":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Document states no AI rule or authority."}}},
+"aigovernment":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No government body AI use stated."}}},
+"aisectoral":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Student AI prototypes are not a public sector system in service."}}},
+"aisystems":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Pitched AI products only; no model, dataset or AI computing stated."}}},
+"digitaldivides":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No rural access programme or rural/urban figures stated."}}},
+"startups":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Seed Capital Fund of Namibia investment is named with no startup law or strategy; not a stated scheme under one."}}},
+"techhubs":{"countries":{"NAM":{"facts":[{"sub_indicator":"hub","aspect":"hubs","value":"inservice","fact":"CcHUB says its Namibia hub ran the Seedr Namibia 2.0 AI Edition with nine teams at a 16 August 2025 demo day, and two winners entered a 3-month incubation programme.","as_of":"2025-08-16","date_precision":"day","system":"CcHUB Namibia","class":"hub"}],"systems":[{"system":"CcHUB Namibia","country_label":"Namibia","class":"hub","platform":"","owner":"CcHUB","tiers":""}],"note":""}}}
+}}

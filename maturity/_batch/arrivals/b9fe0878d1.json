@@ -1,0 +1,12 @@
+{"slug": "2024-09-05-mus-media-release-bank-of-mauritius-launches-its-innovation-hub-the-innov8", "studies": {
+"businesspayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Release states nothing on e-procurement."}}},
+"centralbank": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Release states no licensing, switch oversight or PAPSS role; it covers an innovation hub."}}},
+"consumerprotection": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Release states nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Release states no cross-border payment corridor or regional payment system."}}},
+"g2ppayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Release states nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Release gives no survey of account ownership."}}},
+"retailpayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Release states nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Release states nothing on tax or fee payment."}}},
+"startups": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Release states no startup law, strategy or public fund."}}},
+"techhubs": {"countries": {"MUS": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The Bank of Mauritius launched its Innovation Hub, Innov8, with a co-working space, a sandbox and access to mentors, and the release names no incubation or acceleration programme or startup cohort.", "as_of": "2024-09-05", "date_precision": "day", "system": "Innov8", "class": "hub"}], "systems": [{"system": "Innov8", "country_label": "Mauritius", "class": "hub", "platform": "", "owner": "Bank of Mauritius", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,399 @@
+{
+ "slug": "2024-09-01-egy-nsds-status-of-countries-progress-report-as-of-september-2024",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "The table says nothing on international standards bodies or standards."
+    },
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The table says nothing on international standards bodies or standards."
+    },
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The table says nothing on international standards bodies or standards."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The table says nothing on international standards bodies or standards."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The table says nothing on international standards bodies or standards."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The table says nothing on international standards bodies or standards."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "The table says nothing on international standards bodies or standards."
+    },
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The table says nothing on international standards bodies or standards."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The table says nothing on international standards bodies or standards."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The table says nothing on international standards bodies or standards."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The table says nothing on international standards bodies or standards."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The table says nothing on international standards bodies or standards."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The table says nothing on international standards bodies or standards."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The table says nothing on international standards bodies or standards."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "PARIS21's September 2024 table lists its strategy as in implementation (NSDS 2015-2019); the stated period is 2015-19.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "NSDS 2015-2019",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NSDS 2015-2019",
+       "country_label": "NSDS 2015-2019",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "PARIS21's September 2024 table lists its strategy as in implementation (NSDS 2018-2022), continued after expiration.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "NSDS 2018-2022",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NSDS 2018-2022",
+       "country_label": "NSDS 2018-2022",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "preparing",
+       "fact": "PARIS21's September 2024 table lists Egypt's 2017-21 NSDS as expired and its next NSDS as being finalised.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "NSDS 2017-2021",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NSDS 2017-2021",
+       "country_label": "NSDS 2017-2021",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Master plan for development economics statistics 2010-14",
+       "country_label": "Master plan for development economics statistics 2010-14",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Table lists only an expired 2010-14 master plan and no next plan in progress."
+    },
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "PARIS21's September 2024 table lists the Ethiopian Statistical Development Program 2023/24-2025/26 as in implementation.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Ethiopian Statistical Development Program 2023/24-2025/26",
+       "class": "strategy"
+      },
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "preparing",
+       "fact": "PARIS21's September 2024 table lists Ethiopia's next NSDS as being designed with funding secured.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Ethiopian Statistical Development Program 2023/24-2025/26",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ethiopian Statistical Development Program 2023/24-2025/26",
+       "country_label": "Ethiopian Statistical Development Program 2023/24-2025/26",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "PARIS21's September 2024 table lists its strategy as in implementation (NSDS 2021-2024).",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "NSDS 2021-2024",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NSDS 2021-2024",
+       "country_label": "NSDS 2021-2024",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "PARIS21's September 2024 table lists its strategy as in implementation (ENDE 2022-2026).",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "ENDE 2022-2026",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ENDE 2022-2026",
+       "country_label": "ENDE 2022-2026",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "preparing",
+       "fact": "PARIS21's September 2024 table lists Libya's 2018-2023 NSDS as completed and awaiting adoption.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "NSDS 2018-2023",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NSDS 2018-2023",
+       "country_label": "NSDS 2018-2023",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "PARIS21's September 2024 table lists its strategy as in implementation (SNDDS 2021-2030).",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "SNDDS 2021-2030",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SNDDS 2021-2030",
+       "country_label": "SNDDS 2021-2030",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NSDS 2017-2021",
+       "country_label": "NSDS 2017-2021",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Table lists the 2017-21 strategy as expired with the next only planned."
+    },
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "PARIS21's September 2024 table lists its strategy as in implementation (NSDS 2 2024-2029).",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "NSDS 2 2024-2029",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NSDS 2 2024-2029",
+       "country_label": "NSDS 2 2024-2029",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "STP": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NSDS 2018-21",
+       "country_label": "NSDS 2018-21",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Table lists the 2018-21 strategy as expired with the next only planned."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NBS Strategic Plan",
+       "country_label": "NBS Strategic Plan",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Table lists only the statistics bureau's own strategic plan, completed and awaiting adoption."
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "PARIS21's September 2024 table lists its strategy as in implementation (SNDS2 2022-2026).",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "SNDS2 2022-2026",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SNDS2 2022-2026",
+       "country_label": "SNDS2 2022-2026",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

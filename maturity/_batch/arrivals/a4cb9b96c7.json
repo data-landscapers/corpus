@@ -1,0 +1,15 @@
+{"slug":"2026-06-23-gmb-gra-hosts-workshop-on-itas","studies":{
+"businesspayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Document concerns tax administration, not e-procurement."}}},
+"centralbank":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No consumer protection rules or redress stated."}}},
+"coresystems":{"countries":{"GMB":{"facts":[],"systems":[{"system":"Integrated Tax Administration System (ITAS)","country_label":"ITAS","class":"other","platform":"","owner":"Gambia Revenue Authority","tiers":""}],"note":"ITAS is described as introduced ahead of full rollout, not as a tax system in use."}}},
+"crossborderpayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"digitalstrategy":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No national digital strategy stated."}}},
+"egovservices":{"countries":{"GMB":{"facts":[],"systems":[],"note":"ITAS is a tax agency's own system, not a government services portal."}}},
+"g2ppayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"paymentsuptake":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No account-ownership survey figure."}}},
+"publicconsultation":{"countries":{"GMB":{"facts":[],"systems":[],"note":"Taxpayer workshop concerns a tax system, not a named digital law or policy."}}},
+"retailpayments":{"countries":{"GMB":{"facts":[],"systems":[],"note":"No retail payment service stated."}}},
+"revenuecollection":{"countries":{"GMB":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"underway","fact":"The Gambia Revenue Authority says its new ITAS, being introduced ahead of full rollout, will let taxpayers file returns and make payments online (e-filing, e-payment).","as_of":"2026-06-23","date_precision":"day","system":"Integrated Tax Administration System (ITAS)","class":"revenue"}],"systems":[{"system":"Integrated Tax Administration System (ITAS)","country_label":"ITAS","class":"revenue","platform":"World Bank-funded Public Administration Modernisation for Citizen-Centric Service Delivery Project","owner":"Gambia Revenue Authority","tiers":""}],"note":""}}},
+"taxadmin":{"countries":{"GMB":{"facts":[{"sub_indicator":"taxsystem","aspect":"filing","value":"underway","fact":"The Gambia Revenue Authority and Ministry of Finance introduced a new Integrated Tax Administration System with e-registration, e-filing and e-payment at a stakeholder workshop, with taxpayer input sought before full implementation.","as_of":"2026-06-23","date_precision":"day","system":"Integrated Tax Administration System (ITAS)","class":"taxsystem"}],"systems":[{"system":"Integrated Tax Administration System (ITAS)","country_label":"ITAS","class":"taxsystem","platform":"World Bank-funded Public Administration Modernisation for Citizen-Centric Service Delivery Project","owner":"Gambia Revenue Authority","tiers":""}],"note":""}}}
+}}

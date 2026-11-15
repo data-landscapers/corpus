@@ -1,0 +1,14 @@
+{"slug": "2026-11-11-zwe-data-systems-transform-zimbabwe-s-schools", "studies": {
+"coresystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Document states nothing on finance, tax or payroll systems."}}},
+"educationexchange": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only a submission of enrolment figures to the Ministry of Finance is stated, not a link between education systems."}}},
+"educationmis": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "emis", "aspect": "system", "value": "inservice", "fact": "The Ministry of Primary and Secondary Education says it submits school enrolment figures compiled through the revised EMIS to the Ministry of Finance for annual education budgets, and 12,324 schools nationwide have been equipped to use it (GPE blog by UNICEF Zimbabwe).", "as_of": "2026-11-11", "date_precision": "day", "system": "revised EMIS", "class": "emis"}
+], "systems": [{"system": "revised EMIS", "country_label": "Education Management Information System", "class": "emis", "platform": "online tool with Excel version for poor connectivity", "owner": "Ministry of Primary and Secondary Education", "tiers": ""}], "note": ""}}},
+"health": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Document is about education and states nothing on health systems."}}},
+"justice": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Document is about education and states nothing on court systems."}}},
+"schools": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The revised EMIS is administered at school level and run by the Ministry of Primary and Secondary Education, whose provincial focal person describes it, with GPE US$2.9m (2023-2026) and UNICEF implementation support.", "as_of": "2026-11-11", "date_precision": "day", "system": "revised EMIS", "class": "emis"},
+{"sub_indicator": "emis", "aspect": "schools", "value": "count:1444", "fact": "The ministry's Masvingo provincial EMIS focal person says all 1,444 public schools in Masvingo Province use the new EMIS, and 12,324 schools nationwide have been equipped to use it.", "as_of": "2026-11-11", "date_precision": "day", "system": "revised EMIS", "class": "emis"},
+{"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "The blog reports the revised EMIS replacing paper-based records at schools such as Masvingo Government Primary School, with 12,324 schools equipped nationwide.", "as_of": "2026-11-11", "date_precision": "day", "system": "revised EMIS", "class": "emis"}
+], "systems": [{"system": "revised EMIS", "country_label": "Education Management Information System", "class": "emis", "platform": "online tool with Excel version", "owner": "Ministry of Primary and Secondary Education", "tiers": ""}], "note": ""}}}
+}}

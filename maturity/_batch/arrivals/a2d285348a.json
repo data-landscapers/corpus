@@ -1,0 +1,79 @@
+{
+ "slug": "2024-05-02-gab-technologie-la-sing-annonce-sa-nouvelle-cohorte-innovation-4-0",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "SING selected 22 of 30 startups for its TechClinic acceleration programme running May-June 2024.",
+       "as_of": "2024-04",
+       "date_precision": "month",
+       "system": "TechClinic (SING)",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SING",
+       "country_label": "Gabon",
+       "class": "hub",
+       "platform": "",
+       "owner": "Societe d'incubation numerique du Gabon",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

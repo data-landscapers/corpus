@@ -1,0 +1,136 @@
+{
+ "slug": "2024-07-23-gnb-tecnicos-da-dgci-e-contribuintes-debatem-a-introducao-de-impostos-na-p",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for GNB."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for GNB."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for GNB."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for GNB."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for GNB."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for GNB."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for GNB."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The DGCI's Kontaktu platform lets taxpayers declare and pay taxes at any time by bank transfer, Orange Money and Mobile Money, per O Democrata GB.",
+       "as_of": "2024-07-23",
+       "date_precision": "day",
+       "system": "Kontaktu",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Kontaktu",
+       "country_label": "Guinea-Bissau",
+       "class": "revenue",
+       "platform": "web",
+       "owner": "DGCI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The DGCI's Kontaktu platform lets taxpayers declare their taxes online, per O Democrata GB.",
+       "as_of": "2024-07-23",
+       "date_precision": "day",
+       "system": "Kontaktu",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "Kontaktu lets taxpayers pay taxes by bank transfer, Orange Money and Mobile Money, per O Democrata GB.",
+       "as_of": "2024-07-23",
+       "date_precision": "day",
+       "system": "Kontaktu",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Kontaktu",
+       "country_label": "Guinea-Bissau",
+       "class": "taxsystem",
+       "platform": "web",
+       "owner": "DGCI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

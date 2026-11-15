@@ -1,0 +1,41 @@
+{
+ "slug": "2026-05-01-mwi-malawi-demonstrates-sustainable-business-model-with-connectivity-credi",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "School-connectivity pilot only; rural and urban figures are school rates, not internet use, and no rural programme is stated."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "No budget line, amount or law assigning a fund to digital programmes is stated; USF levy description is generic."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Starlink backhaul is for ISPs in a pilot; no licence or sale to households or businesses is stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The 14% school figure is an unsourced page figure, not the UNESCO official value; no compulsory curriculum stated."
+    }
+   }
+  }
+ }
+}

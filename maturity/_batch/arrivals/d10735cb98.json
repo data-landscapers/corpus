@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-19-egy-takaful-karama-database-linked-to-over-20-state-bodies",
+ "studies": {
+  "socialprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Minister Maya Morsy told parliament's plan and budget committee that, after 10 years, Takaful and Karama has integrated databases and a network link from its database to more than 20 state bodies, reaching about 4.7 million families.",
+       "as_of": "2026-05-19",
+       "date_precision": "day",
+       "system": "Takaful and Karama database",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Takaful and Karama database",
+       "country_label": "Egypt",
+       "class": "socialmis",
+       "platform": "",
+       "owner": "Ministry of Social Solidarity",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

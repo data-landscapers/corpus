@@ -1,0 +1,43 @@
+{
+ "slug": "2026-01-29-nam-namibia-launches-boostup-programme-to-bridge-innovation-gaps",
+ "studies": {
+  "startups": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "BOOSTUP is a support programme; no startup law, label or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "NCRST's BOOSTUP 2025/26, run with incubators Basecamp, CcHUB Namibia and NUST-i, began its Hunt Programme on 19 January 2026 for a cohort of 20 startups.",
+       "as_of": "2026-01-19",
+       "date_precision": "day",
+       "system": "BOOSTUP",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BOOSTUP 2025/26",
+       "country_label": "Namibia",
+       "class": "hub",
+       "platform": "",
+       "owner": "NCRST",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

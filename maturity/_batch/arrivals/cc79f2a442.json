@@ -1,0 +1,69 @@
+{
+ "slug": "2025-10-02-cod-rdc-7-incubateurs-tech-qui-faconnent-l-avenir-numerique-du-pays",
+ "studies": {
+  "startups": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No state startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Numerico.cd says Silikin Village in Kinshasa accompanied 103 startups in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Silikin Village",
+       "class": "hub"
+      },
+      {
+       "sub_indicator": "hub",
+       "aspect": "cities",
+       "value": "several",
+       "fact": "Numerico.cd says the seventh Orange Corners RDC cohort in 2025 supported young entrepreneurs in Kinshasa, Goma and Lubumbashi.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Orange Corners RDC",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Silikin Village",
+       "country_label": "DRC",
+       "class": "hub",
+       "platform": "",
+       "owner": "Texaf",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Corners RDC",
+       "country_label": "DRC",
+       "class": "hub",
+       "platform": "",
+       "owner": "Ingenious City",
+       "tiers": ""
+      },
+      {
+       "system": "KivuTech",
+       "country_label": "DRC",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

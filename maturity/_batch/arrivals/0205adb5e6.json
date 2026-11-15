@@ -1,0 +1,108 @@
+{
+ "slug": "2026-11-05-ben-benin-plans-digital-fabrication-hubs-to-boost-local-innovation",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI harm rule or authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI system stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy mentioned only in passing, with no status or date."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Benin's Council of Ministers approved a pilot in which each Innobox hub (Parakou, Porto-Novo) will help collect datasets in national languages for AI applications.",
+       "as_of": "2026-11-04",
+       "date_precision": "day",
+       "system": "Innobox",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government office connection."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Benin's Council of Ministers approved on 4 November 2026 a pilot to build two Innobox digital fabrication and innovation hubs in Parakou and Porto-Novo.",
+       "as_of": "2026-11-04",
+       "date_precision": "day",
+       "system": "Innobox",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Innobox",
+       "country_label": "Benin",
+       "class": "hub",
+       "platform": "",
+       "owner": "Government of Benin",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

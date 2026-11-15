@@ -1,0 +1,72 @@
+{
+ "slug": "2024-11-01-gin-tdr-pour-le-recrutement-d-un-consultant-international-pour-l-evaluatio",
+ "studies": {
+  "g2ppayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "The terms of reference say ANIES signed a collaboration protocol with FDSI on 24 June 2024 to extract its beneficiaries from the raw RSU database for the Guichet Choc Alimentaire project.",
+       "as_of": "2024-06-24",
+       "date_precision": "day",
+       "system": "ANIES-FDSI protocol on the RSU",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "The terms of reference say Guinea's Registre Social Unifi\u00e9, created by decree in 2019, covered the whole national territory in registration operations from 2022.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Registre Social Unifi\u00e9 (RSU)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre Social Unifi\u00e9 (RSU)",
+       "country_label": "Guinea",
+       "class": "social",
+       "platform": "",
+       "owner": "FDSI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-03-21-gnq-inege-realiza-una-gira-sobre-la-estrategia-de-desarrollo-estadistico-2",
+ "studies": {
+  "statisticsstrategy": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Oficina de Información y Prensa reports that Decree 103 of 19 July (year not given) approves the national statistical development strategy, valid for 2022-2026.",
+       "as_of": "2024-03-21",
+       "date_precision": "day",
+       "system": "ENDE 2022-2026",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ENDE 2022-2026",
+       "country_label": "ENDE 2022-2026",
+       "class": "strategy",
+       "platform": "",
+       "owner": "INEGE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

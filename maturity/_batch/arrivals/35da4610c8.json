@@ -1,0 +1,115 @@
+{
+ "slug": "2026-08-10-civ-cote-divoire-la-startup-act-entre-dans-sa-phase-operationnelle",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for CIV on this study's questions."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for CIV on this study's questions."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for CIV on this study's questions."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for CIV on this study's questions."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for CIV on this study's questions."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for CIV on this study's questions."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for CIV on this study's questions."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "CDC-CI Capital and Agence Emploi Jeunes are state bodies; their FCFA 1.05bn programme is public money, not private."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for CIV on this study's questions."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Socialnetlink states Cote d'Ivoire's law promoting digital startups (Loi n° 2023-901) was adopted on 23 November 2023, setting up a national label and incentives.",
+       "as_of": "2023-11-23",
+       "date_precision": "day",
+       "system": "Loi n° 2023-901 on digital startups (Startup Act)",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup Act (Loi n° 2023-901)",
+       "country_label": "CIV",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Government of Cote d'Ivoire",
+       "tiers": ""
+      }
+     ],
+     "note": "No count of labelled startups and no investments by a public fund are stated; the 1.05bn FCFA programme and the 100bn fund are agreements or announcements."
+    }
+   }
+  }
+ }
+}

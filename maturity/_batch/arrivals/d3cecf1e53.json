@@ -1,0 +1,135 @@
+{
+ "slug": "2025-11-18-gin-rose-pola-pricemou-la-guinee-mise-sur-le-numerique-pour-construire-son",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The minister's interview states nothing that answers this study's questions for Guinea."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The minister's interview states nothing that answers this study's questions for Guinea."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The minister's interview states nothing that answers this study's questions for Guinea."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The minister's interview states nothing that answers this study's questions for Guinea."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A national Tier III data centre is named but not said to rent to other organisations."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The minister's interview states nothing that answers this study's questions for Guinea."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The minister's interview states nothing that answers this study's questions for Guinea."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "Minister Rose Pola Pricemou says regional interconnections are in effect with Mali, Sierra Leone and Cote d'Ivoire, with a second submarine cable still being connected.",
+       "as_of": "2025-11-18",
+       "date_precision": "day",
+       "system": "regional interconnections",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A national Tier III data centre is named but not said to be for hire."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The minister's interview states nothing that answers this study's questions for Guinea."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Startup Act only said to be under revision; a prize programme is not a law or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Minister Rose Pola Pricemou says a national technopole (Symphonia, 20 hectares) is being designed and regional digital hubs are being set up in each regional capital.",
+       "as_of": "2025-11-18",
+       "date_precision": "day",
+       "system": "Symphonia technopole",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

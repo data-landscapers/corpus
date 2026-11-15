@@ -1,0 +1,218 @@
+{
+ "slug": "2024-03-01-dji-djibouti-operational-update-mars-2024",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "UNHCR says refugee teachers helped by MENFOP, the education ministry, to open bank accounts are now paid salaries by bank transfer.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "salary payment by bank transfer",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "documented",
+       "fact": "UNHCR Djibouti reports it renewed 128 documents under continuous registration in March 2024, 121 family attestations and 7 refugee identity cards.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "UNHCR continuous registration",
+       "class": "displaced"
+      },
+      {
+       "sub_indicator": "displaced",
+       "aspect": "access",
+       "value": "open",
+       "fact": "UNHCR reports MENFOP helped 158 refugee teachers in Ali Addeh and Holl-Holl open bank accounts at East Africa Bank.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "East Africa Bank accounts",
+       "class": "displaced"
+      },
+      {
+       "sub_indicator": "displaced",
+       "aspect": "counted",
+       "value": "counted",
+       "fact": "UNHCR reports 158 refugee teachers were helped to open East Africa Bank accounts.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "East Africa Bank accounts",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNHCR continuous registration",
+       "country_label": "Djibouti",
+       "class": "displaced",
+       "platform": "",
+       "owner": "UNHCR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Djibouti."
+    }
+   }
+  }
+ }
+}

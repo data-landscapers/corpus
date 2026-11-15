@@ -1,0 +1,26 @@
+{"slug": "2024-10-19-uga-private-schools-on-the-spot-for-delayed-digital-registration", "studies": {
+"admindata": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only a planned statistical abstract for December 2024 is mentioned; a plan is not published statistics."}}},
+"authentication": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on authentication."}}},
+"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on a civil register and ID link."}}},
+"coresystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on core government systems."}}},
+"educationexchange": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No exchange between education systems is stated; the NIN requirement is not an exchange."}}},
+"educationmis": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "emis", "aspect": "system", "value": "inservice", "fact": "The Observer reports that Uganda's web-based EMIS, revamped and rolled out in September 2022, had registered 13.3 million learners from 75,850 schools by 3 October 2024, per the Education ministry.", "as_of": "2024-10-03", "date_precision": "day", "system": "EMIS", "class": "emis"}
+], "systems": [{"system": "EMIS", "country_label": "Education Management Information System", "class": "emis", "platform": "web-based", "owner": "Ministry of Education and Sports", "tiers": ""}], "note": ""}}},
+"health": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on health data."}}},
+"healthmis": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on health information systems."}}},
+"idcoverage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID is stated."}}},
+"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on a number at birth."}}},
+"idmaintenance": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on who operates the ID system."}}},
+"idregisters": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The NIN is required to register on EMIS, but the document does not say a public register is keyed on it."}}},
+"idrobustness": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on the national ID system itself."}}},
+"justice": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on courts."}}},
+"localgov": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on local government office connection."}}},
+"police": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated on police."}}},
+"refugees": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Refugee parents' missing refugee numbers block learner registration, but no registration or digital service for refugees is stated."}}},
+"schools": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The Observer reports that the Education ministry's commissioner of Education Planning, Robert Bellarmine Okudi, speaks for the ministry running the EMIS, which institutions must use to register learners, staff and infrastructure.", "as_of": "2024-10-19", "date_precision": "day", "system": "EMIS", "class": "emis"},
+{"sub_indicator": "emis", "aspect": "schools", "value": "count:43892", "fact": "Ministry figures cited by The Observer give 43,892 primary schools (12,579 government, 31,313 private) registered on EMIS at 3 October 2024, with a 59.6% non-response rate among private primary schools and 0.2% among public.", "as_of": "2024-10-03", "date_precision": "day", "system": "EMIS", "class": "emis"}
+], "systems": [{"system": "EMIS", "country_label": "Education Management Information System", "class": "emis", "platform": "web-based", "owner": "Ministry of Education and Sports", "tiers": ""}], "note": ""}}},
+"taxadmin": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only schools' fear of taxation through EMIS data is stated; nothing on tax filing or payment."}}}
+}}

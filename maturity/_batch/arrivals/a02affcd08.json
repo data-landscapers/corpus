@@ -1,0 +1,52 @@
+{
+ "slug": "2026-01-28-swz-rstp-empowers-young-entrepreneurs-through-business-incubator",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Seed award is undated and no startup act or strategy is stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Over 20 participants took part in the Royal Science and Technology Park Business Incubator programme, which helps entrepreneurs register companies, per the park's communications officer.",
+       "as_of": "2026-01-28",
+       "date_precision": "day",
+       "system": "RSTP Business Incubator",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RSTP Business Incubator",
+       "country_label": "Eswatini",
+       "class": "hub",
+       "platform": "",
+       "owner": "Royal Science and Technology Park",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

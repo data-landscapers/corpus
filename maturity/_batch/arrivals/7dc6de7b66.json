@@ -1,0 +1,8 @@
+{"slug":"2026-05-21-tgo-togo-tests-integrated-approach-to-child-nutrition-and-early-developmen","studies":{
+"birthidlink":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No national ID system or civil-to-ID link is named."}}},
+"civilregister":{"countries":{"TGO":{"facts":[],"systems":[{"system":"Naissance Keva","country_label":"Togo","class":"other","platform":"app","owner":"Maritime Region Directorate of Health","tiers":"Vo prefecture pilot"}],"note":"The app only lets maternity wards pass newborn data to civil registry offices; it states no digital civil register for births or deaths."}}},
+"idfrombirth":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No unique ID number at birth is mentioned."}}},
+"localgov":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No local government office connection is stated."}}},
+"registry":{"countries":{"TGO":{"facts":[],"systems":[{"system":"Naissance Keva","country_label":"Togo","class":"notification","platform":"app","owner":"Maritime Region Directorate of Health","tiers":"Vo prefecture, four municipalities, since 2026-02"}],"note":"The app links maternity wards to civil registry services after the facility head validates data; it does not say the registry office makes the digital record, so it is notification."}}},
+"startups":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Nothing on startup law or funding."}}},
+"techhubs":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Nothing on technology hubs or parks."}}}}}

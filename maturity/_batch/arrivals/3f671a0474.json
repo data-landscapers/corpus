@@ -1,0 +1,54 @@
+{
+ "slug": "2026-09-29-sle-sierra-leone-startup-ecosystem-stakeholders-convene-to-strengthen-supp",
+ "studies": {
+  "publicconsultation": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "TechReviewAfrica says MoCTI with ITC held a startup ecosystem policy validation workshop in Freetown with entrepreneurs, investors, universities and private-sector actors, feeding the emerging Startup Act.",
+       "as_of": "2026-09-29",
+       "date_precision": "day",
+       "system": "Startup Ecosystem Policy validation workshop",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "TechReviewAfrica says the MoCTI consultation will contribute to developing Sierra Leone's emerging Startup Act.",
+       "as_of": "2026-09-29",
+       "date_precision": "day",
+       "system": "Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  }
+ }
+}

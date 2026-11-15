@@ -1,0 +1,17 @@
+{"slug":"2026-06-08-ken-kenya-startup-bill-status-and-what-it-means","studies":{
+"businesspayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Mentions an AGPO tender portal only; no e-procurement system or figures stated."}}},
+"businessregister":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Only says to register with the Business Registration Service; nothing on online registration."}}},
+"centralbank":{"countries":{"KEN":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"Hackhouse says payment service providers in Kenya are authorised and overseen by the Central Bank under the National Payment System Regulations 2014.","as_of":"2026-06-08","date_precision":"day","system":"National Payment System Regulations 2014","class":"oversight"}],"systems":[],"note":""}}},
+"consumerprotection":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on consumer protection for digital finance."}}},
+"crossborderpayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"dataprotectionlaw":{"countries":{"KEN":{"facts":[{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"Hackhouse says section 18 of Kenya's Data Protection Act 2019 requires data controllers and processors above set thresholds to register with the Data Commissioner.","as_of":"2026-06-08","date_precision":"day","system":"Data Protection Act 2019","class":"general"}],"systems":[],"note":""}}},
+"disabilityaccess":{"countries":{"KEN":{"facts":[],"systems":[],"note":"AGPO procurement quota for persons with disabilities is not digital accessibility."}}},
+"g2ppayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentslaw":{"countries":{"KEN":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"Hackhouse says Kenyan payment service providers are authorised and overseen by the Central Bank under the National Payment System Regulations 2014.","as_of":"2026-06-08","date_precision":"day","system":"National Payment System Regulations 2014","class":"law"}],"systems":[],"note":""}}},
+"paymentsuptake":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No account-ownership survey figure."}}},
+"publicconsultation":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Only generic advice to respond to consultations; no named digital consultation held."}}},
+"retailpayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on mobile money or retail payment services."}}},
+"revenuecollection":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on electronic payment of taxes."}}},
+"startups":{"countries":{"KEN":{"facts":[{"sub_indicator":"startuppolicy","aspect":"law","value":"draft","fact":"The Senate Bills Tracker as at 29 May 2026, reported by Hackhouse, shows Kenya's Startup Bill (Senate Bill No. 14 of 2022) in a mediation committee after the Senate rejected National Assembly amendments on 23 July 2025; it is not law.","as_of":"2026-05-29","date_precision":"day","system":"Startup Bill (Senate Bill No. 14 of 2022)","class":"startuppolicy"}],"systems":[],"note":""}}},
+"techhubs":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Hackhouse is mentioned only as a private builders' hub; no programme or cohort stated."}}}
+}}

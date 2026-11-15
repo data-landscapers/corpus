@@ -1,0 +1,34 @@
+{
+ "slug": "2024-10-09-gha-ghana-kicks-off-ecowas-free-roaming-with-togo-and-benin",
+ "studies": {
+  "regionalpolicy": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "Ghana's NCA says bilateral ECOWAS free roaming between Ghana and Benin was launched on 9 October 2024, with no extra roaming fees for the first 30 consecutive days of a stay.",
+       "as_of": "2024-10-09",
+       "date_precision": "day",
+       "system": "ECOWAS free roaming",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ECOWAS free roaming",
+       "country_label": "Benin",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "ARCEP Benin, NCA Ghana",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

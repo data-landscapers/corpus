@@ -1,0 +1,227 @@
+{
+ "slug": "2025-01-01-mus-individual-e-filing-guide-season-2025",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The MRA says individual income tax can be paid electronically, by direct debit or credit card, and electronic payment is a legal obligation for the 2025 season.",
+       "as_of": "2025-01-01",
+       "date_precision": "year",
+       "system": "Individual Income Tax e-Filing (MRA)",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Individual Income Tax e-Filing (MRA)",
+       "country_label": "Mauritius",
+       "class": "revenue",
+       "platform": "MRA Taxpayer Portal",
+       "owner": "Mauritius Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The Mauritius Revenue Authority guide describes individuals filing income tax returns online through its portal for the 2025 season, with pre-filled forms.",
+       "as_of": "2025-01-01",
+       "date_precision": "year",
+       "system": "Individual Income Tax e-Filing (MRA)",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The MRA says income tax due can be paid electronically, by direct debit or by credit card up to Rs 25,000.",
+       "as_of": "2025-01-01",
+       "date_precision": "year",
+       "system": "Individual Income Tax e-Filing (MRA)",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "uptake",
+       "value": "most",
+       "fact": "The MRA states it is now a legal obligation for individuals to submit income tax returns and pay electronically, due 15 October 2025.",
+       "as_of": "2025-01-01",
+       "date_precision": "year",
+       "system": "Individual Income Tax e-Filing (MRA)",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Individual Income Tax e-Filing (MRA)",
+       "country_label": "Mauritius",
+       "class": "taxsystem",
+       "platform": "MRA Taxpayer Portal",
+       "owner": "Mauritius Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

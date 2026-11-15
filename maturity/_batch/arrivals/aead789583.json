@@ -1,0 +1,135 @@
+{
+ "slug": "2026-02-04-cog-accompagnement-intensif-de-24-mois-pour-la-premiere-entreprise-laureat",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "private",
+       "aspect": "money",
+       "value": "committed",
+       "fact": "Vox Congo reports that Bantulab holds a 655 million FCFA investment vehicle financed with the L'Archer group, supporting startups such as Smartmbongo.",
+       "as_of": "2026-02-04",
+       "date_precision": "day",
+       "system": "Bantulab investment vehicle",
+       "class": "private"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Bantulab is a private incubator and investment vehicle, no public startup scheme stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Vox Congo reports that the Bantulab incubator in Brazzaville selected its first laureate, Smartmbongo, which entered a 24-month intensive programme on 4 February 2026.",
+       "as_of": "2026-02-04",
+       "date_precision": "day",
+       "system": "Bantulab",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Bantulab",
+       "country_label": "Congo",
+       "class": "hub",
+       "platform": "",
+       "owner": "Fondation BantuHub / groupe L'Archer",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

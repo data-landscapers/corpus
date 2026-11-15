@@ -1,0 +1,43 @@
+{
+ "slug": "2025-10-30-mus-a-massive-milestone-launching-the-new-incubation-centre-for-women-entr",
+ "studies": {
+  "startups": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, strategy, labelling or public fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "COMFWB's National Women Entrepreneur Council opened a new incubation centre in Mauritius offering mentoring, coaching and workshops, with no cohort programme stated.",
+       "as_of": "2025-10-30",
+       "date_precision": "day",
+       "system": "NWEC Incubation Centre",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NWEC Incubation Centre",
+       "country_label": "MUS",
+       "class": "hub",
+       "platform": "incubator",
+       "owner": "National Women Entrepreneur Council (COMFWB)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

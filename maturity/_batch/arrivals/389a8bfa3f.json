@@ -1,0 +1,22 @@
+{"slug": "2025-08-05-com-e-shiyo-et-e-msomo-deux-plateformes-pour-transformer-l-education-grace", "studies": {
+"authentication": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on authentication services."}}},
+"birthidlink": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on a civil register to ID link."}}},
+"censuses": {"countries": {"COM": {"facts": [], "systems": [], "note": "Only cites MICS 2022 for a book-access figure, dated before the survey window; no census or survey release stated."}}},
+"idcoverage": {"countries": {"COM": {"facts": [], "systems": [], "note": "No national ID coverage figure stated."}}},
+"idfrombirth": {"countries": {"COM": {"facts": [], "systems": [], "note": "A unique pupil identifier is not a number given at birth registration."}}},
+"idmaintenance": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not concern the national ID system."}}},
+"idregisters": {"countries": {"COM": {"facts": [], "systems": [], "note": "No public register keyed on the national ID number stated."}}},
+"idrobustness": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not concern the national ID system."}}},
+"schools": {"countries": {"COM": {
+"facts": [
+{"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "UNICEF Comores says e-Msomo, the school management platform, allows online entry of pupils' grades, automatic report cards and a unique identifier for each pupil.", "as_of": "2025-06-05", "date_precision": "day", "system": "e-Msomo", "class": "emis"},
+{"sub_indicator": "emis", "aspect": "schools", "value": "pilot", "fact": "UNICEF Comores says a pilot phase of e-Msomo is currently deployed in several public schools, with national extension in prospect.", "as_of": "2025-08-05", "date_precision": "day", "system": "e-Msomo", "class": "emis"},
+{"sub_indicator": "emis", "aspect": "governance", "value": "finance:donor", "fact": "UNICEF Comores says it gives strategic and financial support to e-Msomo, led by the Ministry of National Education with ANADEN handling technical development and deployment.", "as_of": "2025-06-05", "date_precision": "day", "system": "e-Msomo", "class": "emis"},
+{"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "UNICEF Comores says the Ministry of National Education initiated and leads e-Msomo, with ANADEN in charge of its technical development.", "as_of": "2025-06-05", "date_precision": "day", "system": "e-Msomo", "class": "emis"}
+],
+"systems": [
+{"system": "e-Msomo", "country_label": "e-Msomo 2025", "class": "emis", "platform": "", "owner": "Ministry of National Education with ANADEN", "tiers": "pilot in several public schools"},
+{"system": "e-Shiyo", "country_label": "e-Shiyo 2025", "class": "learning", "platform": "", "owner": "Ministry of National Education", "tiers": "online library of official textbooks"}
+],
+"note": ""}}}
+}}

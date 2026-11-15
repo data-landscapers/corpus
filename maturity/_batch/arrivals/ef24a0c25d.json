@@ -1,0 +1,59 @@
+{
+ "slug": "2026-10-27-uga-nita-u-s-udap-project-supports-financial-intelligence-authority-toward",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "ISO/IEC 27001 certification of one agency is not adoption as a national standard or a membership; other."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training and support to MDAs, no named system run or built by government staff."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "ISO/IEC 27001 certificate handed to FIA names no certifier accredited in the country; no standards body or national standard stated."
+    }
+   }
+  }
+ }
+}

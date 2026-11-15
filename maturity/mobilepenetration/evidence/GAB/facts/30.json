@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-01-gab-mobile-money-au-gabon-tr3-arcep-gabon",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mobile penetration rate",
+   "country_label": "about 143% (SIM-based penetration)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a SIM-based penetration rate is given, not a share of people owning a phone."
+}

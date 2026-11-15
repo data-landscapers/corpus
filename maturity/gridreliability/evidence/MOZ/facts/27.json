@@ -1,0 +1,15 @@
+{
+ "slug": "2024-09-16-moz-impact-of-access-to-sustainable-energy-survey-2022",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IASES 2022",
+   "country_label": "65.9% of consumers report more than fourteen power cuts a week (2022)",
+   "class": "other",
+   "platform": "",
+   "owner": "INE Mozambique",
+   "tiers": ""
+  }
+ ],
+ "note": "Gives power cuts per week and hours available, not outages a month."
+}

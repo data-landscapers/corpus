@@ -1,0 +1,43 @@
+{
+ "slug": "2024-03-01-mli-le-technopole-du-mali-folkecenter-nyetaa-un-hub-d-innovation-tech-et-v",
+ "studies": {
+  "startups": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no startup law, strategy or public fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The Technopole du Mali-Folkecenter Nyetaa in Bamako, funded by the Swedish embassy under Innov-ReC, runs pre-incubation and incubation programmes (Bootstrap-Mali, BoostUp-Mali) for young entrepreneurs.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "Technopole du Mali-Folkecenter Nyetaa",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Technopole du Mali-Folkecenter Nyetaa",
+       "country_label": "Mali",
+       "class": "hub",
+       "platform": "",
+       "owner": "Mali-Folkecenter Nyetaa",
+       "tiers": "Bamako hub plus five local resource poles"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

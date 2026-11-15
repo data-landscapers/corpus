@@ -1,0 +1,34 @@
+{
+ "slug": "2024-09-17-sle-global-internet-service-provider-starlink-now-licensed-to-operate-in-s",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "NatCA announced that Starlink is now licensed to operate in Sierra Leone, though no resellers or retailers are yet authorised.",
+       "as_of": "2024-09-17",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Sierra Leone",
+       "class": "satellite",
+       "platform": "LEO satellite",
+       "owner": "Starlink",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

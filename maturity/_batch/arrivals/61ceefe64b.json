@@ -1,0 +1,52 @@
+{
+ "slug": "2026-09-24-ben-programme-cyberincub-trois-startups-beninoises-de-cybersecurite-recomp",
+ "studies": {
+  "itcapacity": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Grants are from a programme, not a startup act or strategy-backed fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The ADPME and ASIN, with LuxDev support, ran CyberIncub, described as the first national cybersecurity incubation programme, taking ten projects from twenty shortlisted through six months of support, and closed it in Cotonou with three winners.",
+       "as_of": "2026-09-24",
+       "date_precision": "day",
+       "system": "CyberIncub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CyberIncub",
+       "country_label": "CyberIncub",
+       "class": "hub",
+       "platform": "",
+       "owner": "ADPME; ASIN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

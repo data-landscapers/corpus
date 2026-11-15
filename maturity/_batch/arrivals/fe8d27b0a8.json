@@ -1,0 +1,43 @@
+{
+ "slug": "2024-11-01-bdi-burundi-country-brief",
+ "studies": {
+  "ruralelectrification": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "rural",
+       "aspect": "access",
+       "value": "official:3",
+       "fact": "GOGLA's brief states only 3% of Burundi's rural population have electricity access, from World Bank data for 2020.",
+       "as_of": "2020",
+       "date_precision": "year",
+       "system": "World Bank rural electrification rate",
+       "class": "ruralpower"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "No hubs stated."
+    }
+   }
+  }
+ }
+}

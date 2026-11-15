@@ -1,0 +1,180 @@
+{
+ "slug": "2026-07-01-gin-l-ecosysteme-startup-au-cur-de-la-future-strategie-nationale-de-gouver",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Guinee Alliance Startup says the national economy directorate (DNEN) and UN Economic Commission for Africa held a consultation with it as part of drawing up Guinea's National Data Governance Strategy.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Stratégie Nationale de Gouvernance des Données",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Stratégie Nationale de Gouvernance des Données",
+       "country_label": "Guinea",
+       "class": "policy",
+       "platform": "",
+       "owner": "DNEN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "Guinee Alliance Startup reminds the authorities of the urgency of getting the draft Startup Act bill ('projet de loi Startup Act') passed.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Startup Act (draft bill)",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "slug": "2025-04-02-bdi-two-unicef-partner-ministries-appreciate-the-effects-of-interoperabili",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no figure or service this study asks; it describes health-facility civil registration interoperability with manual archiving."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no figure or service this study asks; it describes health-facility civil registration interoperability with manual archiving."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no figure or service this study asks; it describes health-facility civil registration interoperability with manual archiving."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no figure or service this study asks; it describes health-facility civil registration interoperability with manual archiving."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no figure or service this study asks; it describes health-facility civil registration interoperability with manual archiving."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no figure or service this study asks; it describes health-facility civil registration interoperability with manual archiving."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no figure or service this study asks; it describes health-facility civil registration interoperability with manual archiving."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no figure or service this study asks; it describes health-facility civil registration interoperability with manual archiving."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "made",
+       "value": "paper",
+       "fact": "UNICEF Burundi says civil registrars placed at 52 Kirundo health centres register births on site, but the archiving of records remains manual, awaiting digital solutions.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "civil registry and health facility interoperability approach",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "civil registry and health facility interoperability approach",
+       "country_label": "Burundi",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of the Interior, Community Development and Public Security",
+       "tiers": "52 health centres in Kirundo, 25 in Muyinga, 15 in Kayanza"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

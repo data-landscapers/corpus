@@ -1,0 +1,278 @@
+{
+ "slug": "2025-01-01-nam-southern-africa-operational-update-october-december-2024",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing for this study."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "UNHCR and Angola's Service for Migration and Foreigners held the first joint registration missions in the southern provinces, registering 7,200 refugees; documentation is described as the Government's pledge, with no documents issued stated.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "Joint registration missions",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only statelessness mobile court hearings for 17,000 people, not refugee registration or digital access."
+    },
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "UNHCR reports more than 1,100 asylum-seekers from Mozambique registered in Malawi's Nsanje District by end of December 2024, with no documents stated.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "Nsanje asylum-seeker registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "Namibia's Ministry of Home Affairs began registering refugees in Osire Settlement in October 2024 to issue ID cards, capturing biometrics of 238 refugees with UNHCR's IMAGO machine.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "Osire refugee ID card registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

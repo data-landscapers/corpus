@@ -1,0 +1,200 @@
+{
+ "slug": "2025-10-12-eth-ethiopia-moves-toward-full-digitalization-of-civil-and-family-registra",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The Director General says the initiative is expected to link civil registration data with the National Digital ID, passport and other government services.",
+       "as_of": "2025-10-12",
+       "date_precision": "day",
+       "system": "Digital civil and family registration software",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "Immigration and Citizenship Service Director General Selamawit Dawit says the agency, with the Artificial Intelligence Institute, is developing civil registration software and preparation is underway to launch a pilot in 6,200 kebeles.",
+       "as_of": "2025-10-12",
+       "date_precision": "day",
+       "system": "Digital civil and family registration software",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital civil and family registration software",
+       "country_label": "Ethiopia civil and family registration software",
+       "class": "civil",
+       "platform": "",
+       "owner": "Immigration and Citizenship Service with the Artificial Intelligence Institute",
+       "tiers": "federal to kebele"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "The Immigration and Citizenship Service, the registrar agency, is developing the digital civil and family registration software with the Artificial Intelligence Institute, per its Director General.",
+       "as_of": "2025-10-12",
+       "date_precision": "day",
+       "system": "Digital civil and family registration software",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital civil and family registration software",
+       "country_label": "Ethiopia civil and family registration software",
+       "class": "civil",
+       "platform": "",
+       "owner": "Immigration and Citizenship Service with the Artificial Intelligence Institute",
+       "tiers": "federal to kebele"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

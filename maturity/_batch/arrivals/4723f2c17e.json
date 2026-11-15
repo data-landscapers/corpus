@@ -1,0 +1,44 @@
+{
+ "slug": "2025-07-23-mus-smart-africa-statement-on-the-coordinated-continental-response-safegua",
+ "studies": {
+  "digitalsovereignty": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "AFRINIC measures are not state data rules."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Names a Seychelles-registered company only; no state data fact."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Smart Africa says the Government of Mauritius took part in its 18 July 2025 ministerial meeting of ICT ministers on the AFRINIC crisis.",
+       "as_of": "2025-07-18",
+       "date_precision": "day",
+       "system": "Smart Africa",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Seychelles government not mentioned; only a company registered there."
+    }
+   }
+  }
+ }
+}

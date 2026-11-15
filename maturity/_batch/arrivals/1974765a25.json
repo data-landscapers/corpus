@@ -1,0 +1,165 @@
+{
+ "slug": "2026-10-01-lso-from-data-entry-to-data-leadership-lessons-from-lesotho-s-dhis2-for-ed",
+ "studies": {
+  "datalocalisation": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on data localisation."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "A Data Protection Commission is mentioned only as a member of a proposed task team; no appointment or ruling stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The brief refers to Lesotho's Data Protection Act, 2011 (Act No. 5 of 2012) as the standard MoET guidance on device security should align with.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Data Protection Act, 2011",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "No data exchange between education systems stated."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The brief says Lesotho has adopted DHIS2 for Education as the platform for its national education management information system (LEMIS), covering school-level and individual learner and staff records, with all 365 secondary schools reporting through it.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "LEMIS",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LEMIS (DHIS2 for Education)",
+       "country_label": "Lesotho",
+       "class": "emis",
+       "platform": "DHIS2",
+       "owner": "Ministry of Education and Training",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Education system only; nothing on health."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Education system only; nothing on health."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on courts."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "No local research institution stated; JMERC training is not research on digital policy."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "levels",
+       "value": "S",
+       "fact": "The brief says all 365 secondary schools report through DHIS2 for Education (LEMIS), and a training of 30 September to 4 October 2026 covered individual teacher records, class management and attendance.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "LEMIS",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "The brief names the Ministry of Education and Training as running LEMIS, with AU-IPED and JMERC giving training support under GPE-KIX.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "LEMIS",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LEMIS (DHIS2 for Education)",
+       "country_label": "Lesotho",
+       "class": "emis",
+       "platform": "DHIS2",
+       "owner": "Ministry of Education and Training",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on tax."
+    }
+   }
+  }
+ }
+}

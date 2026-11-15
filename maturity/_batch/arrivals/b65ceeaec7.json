@@ -1,0 +1,202 @@
+{
+ "slug": "2026-01-01-dza-main-measures-of-the-2026-finance-law",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The booklet on Algeria's 2026 Finance Law says taxpayers under the real-profit regime in tax services equipped with IT solutions must file electronically with the option to pay taxes and duties electronically, and IFU taxpayers may file and pay electronically.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "DGI information system",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DGI information system",
+       "country_label": "Algeria",
+       "class": "revenue",
+       "platform": "",
+       "owner": "General Directorate of Taxes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "labelled",
+       "value": "labelled",
+       "fact": "The 2026 Finance Law extends startups' tax exemptions to two years on renewal of their label, and renews incubator-label exemptions at each renewal.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "Startup label",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The 2026 Finance Law requires real-regime taxpayers in IT-equipped tax services to file returns electronically, and wealth-tax filers to file through the DGI information system's automated calculation.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "DGI information system",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The booklet says real-regime taxpayers may settle taxes and duties electronically, and IFU taxpayers may file and pay electronically, in IT-equipped tax services.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "DGI information system",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "uptake",
+       "value": "most",
+       "fact": "The 2026 Finance Law makes electronic filing mandatory for real-regime taxpayers, G29 payroll declarations and wealth tax filers under DGI-equipped tax offices.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "DGI information system",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DGI information system",
+       "country_label": "Algeria",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "General Directorate of Taxes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,297 @@
+{
+ "slug": "2026-11-13-ken-data-protection-law-ai-era-test",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulation 60 on AI lending is not stated to be in force."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned platform for AI agents is mentioned."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulation 60 not stated to be in force; guidance is draft and non-binding."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated beyond a breach investigation."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Credit regulations not stated to be in force."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "TechTrendsKE says the ODPC was established under the Data Protection Act 2019 and Immaculate Kassait served as Kenya's first Data Commissioner until her successor's nomination on 10 November 2026.",
+       "as_of": "2026-11-10",
+       "date_precision": "day",
+       "system": "Office of the Data Protection Commissioner",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "body",
+       "aspect": "rulings",
+       "value": "ruled",
+       "fact": "Kassait says the ODPC took enforcement actions against the Ministry of Agriculture and Migori County Assembly, with no date given.",
+       "as_of": "2026-11-13",
+       "date_precision": "day",
+       "system": "Office of the Data Protection Commissioner",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "body",
+       "aspect": "rulings",
+       "value": "reported",
+       "fact": "TechTrendsKE reports an April 2025 analysis counting 51 ODPC determinations in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Office of the Data Protection Commissioner",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Office of the Data Protection Commissioner",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The ODPC established under the Data Protection Act 2019 is operating, with Kassait as outgoing commissioner and a successor nominated on 10 November 2026.",
+       "as_of": "2026-11-10",
+       "date_precision": "day",
+       "system": "Office of the Data Protection Commissioner",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "TechTrendsKE says the Data Protection Act 2019 has been implemented for six years, with Kassait seeking amendments.",
+       "as_of": "2026-11-13",
+       "date_precision": "day",
+       "system": "Data Protection Act 2019",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "applied",
+       "fact": "Kassait says the ODPC took enforcement actions against the Ministry of Agriculture and Migori County Assembly, undated.",
+       "as_of": "2026-11-13",
+       "date_precision": "day",
+       "system": "Office of the Data Protection Commissioner",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "reported",
+       "fact": "TechTrendsKE reports an April 2025 analysis counting 51 ODPC determinations in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Office of the Data Protection Commissioner",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Office of the Data Protection Commissioner",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "TechTrendsKE says the Data Protection Act 2019 has been implemented for six years.",
+       "as_of": "2026-11-13",
+       "date_precision": "day",
+       "system": "Data Protection Act 2019",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "Kassait is the ODPC's outgoing first Data Commissioner and a successor was nominated on 10 November 2026.",
+       "as_of": "2026-11-10",
+       "date_precision": "day",
+       "system": "Office of the Data Protection Commissioner",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "ruling",
+       "fact": "Kassait says the ODPC took enforcement actions against the Ministry of Agriculture and Migori County Assembly, and issued 459 determinations in six years.",
+       "as_of": "2026-11-13",
+       "date_precision": "day",
+       "system": "Office of the Data Protection Commissioner",
+       "class": "system"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Office of the Data Protection Commissioner",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only eCitizen datasets proposal mentioned."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  }
+ }
+}

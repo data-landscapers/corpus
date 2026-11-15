@@ -1,0 +1,23 @@
+{
+ "slug": "2025-09-29-stp-bringing-clean-reliable-energy-to-sao-tome-and-principe",
+ "studies": {
+  "gridreliability": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage figure stated."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Says about 70% of rural areas are electrified, an area share, not people with access."
+    }
+   }
+  }
+ }
+}

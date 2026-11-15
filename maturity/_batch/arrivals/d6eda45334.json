@@ -1,0 +1,97 @@
+{
+ "slug": "2026-02-27-lbr-the-government-of-liberia-launches-coordinated-biometric-id-framework",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Liberia."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Liberia."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Liberia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Liberia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Liberia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Liberia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Liberia."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "LRRRC, the Immigration Service and the National Identification Registry signed a tripartite MoU on 25 February 2026 under which NIR captures and verifies refugee biometrics and eligible refugees will be issued biometric Resident Permits and Specialized Refugee Identification Cards.",
+       "as_of": "2026-02-25",
+       "date_precision": "day",
+       "system": "Tripartite refugee biometric ID framework (LRRRC, LIS, NIR)",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Registry",
+       "country_label": "Liberia",
+       "class": "other",
+       "platform": "",
+       "owner": "NIR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

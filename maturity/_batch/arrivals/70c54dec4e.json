@@ -1,0 +1,14 @@
+{"slug":"2026-10-15-mdg-recrutement-d-un-cabinet-pour-la-conception-le-developpement-et-l-acco","studies":{
+"businessregister":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document does not concern business registers."}}},
+"civilregister":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document does not concern civil registration."}}},
+"dataexchange":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Qualifications mention data exchange platforms only as past experience required of bidders; no platform stated."}}},
+"electoralregister":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document does not concern voter rolls."}}},
+"g2ppayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"landregister":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document does not concern land registers."}}},
+"opendatapolicy":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document does not concern open data policy."}}},
+"opendatause":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No published datasets stated."}}},
+"registry":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document does not concern civil registration offices."}}},
+"socialexchange":{"countries":{"MDG":{"facts":[],"systems":[{"system":"MIS RSU","country_label":"Madagascar","class":"other","platform":"national platform for the Registre Social Unique","owner":"Ministere de la Population et des Solidarites","tiers":""}],"note":"No link between systems stated, only a platform to be built."}}},
+"socialprotection":{"countries":{"MDG":{"facts":[],"systems":[{"system":"MIS RSU","country_label":"Madagascar","class":"other","platform":"national platform for the Registre Social Unique","owner":"Ministere de la Population et des Solidarites","tiers":""}],"note":"The system procured is for the social registry, not a programme's beneficiary management or payment."}}},
+"socialregistry":{"countries":{"MDG":{"facts":[{"sub_indicator":"social","aspect":"registry","value":"underway","fact":"The Ministere de la Population et des Solidarites issued a call for expressions of interest, published 15 October 2026 and closing 29 October 2026, for a firm to design and build the information system (MIS RSU) of the Registre Social Unique under the World Bank-funded PFSR project.","as_of":"2026-10-15","date_precision":"day","system":"Registre Social Unique (MIS RSU)","class":"social"}],"systems":[{"system":"Registre Social Unique (MIS RSU)","country_label":"Madagascar","class":"social","platform":"national platform managing the RSU data lifecycle","owner":"Ministere de la Population et des Solidarites","tiers":""}],"note":""}}}
+}}

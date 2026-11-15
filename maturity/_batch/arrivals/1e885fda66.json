@@ -1,0 +1,43 @@
+{
+ "slug": "2025-07-29-ken-empowering-quality-trade-and-digital-security-kenas-accredits-kebs-to",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names no ISO or IEC membership, adopted standard or rule."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "certification",
+       "value": "offered",
+       "fact": "KENAS says it extended KEBS's accreditation so KEBS can certify organisations to ISO/IEC 27001:2022, making information security certification available locally.",
+       "as_of": "2025-07-29",
+       "date_precision": "day",
+       "system": "Kenya Bureau of Standards ISMS certification",
+       "class": "body"
+      }
+     ],
+     "systems": [
+      {
+       "system": "KEBS ISO/IEC 27001 certification",
+       "country_label": "KEBS",
+       "class": "body",
+       "platform": "",
+       "owner": "Kenya Bureau of Standards",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "2026-11-13-cod-bcc-fin-transactions-cash-9-avril-2027",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a BCC ban on foreign-currency cash payments from 2027-04-09; states no study fact (POS interoperability only sought)."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a BCC ban on foreign-currency cash payments from 2027-04-09; states no study fact (POS interoperability only sought)."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a BCC ban on foreign-currency cash payments from 2027-04-09; states no study fact (POS interoperability only sought)."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a BCC ban on foreign-currency cash payments from 2027-04-09; states no study fact (POS interoperability only sought)."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a BCC ban on foreign-currency cash payments from 2027-04-09; states no study fact (POS interoperability only sought)."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a BCC ban on foreign-currency cash payments from 2027-04-09; states no study fact (POS interoperability only sought)."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a BCC ban on foreign-currency cash payments from 2027-04-09; states no study fact (POS interoperability only sought)."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a BCC ban on foreign-currency cash payments from 2027-04-09; states no study fact (POS interoperability only sought)."
+    }
+   }
+  }
+ }
+}

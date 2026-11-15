@@ -1,0 +1,16 @@
+{"slug": "2026-07-08-mwi-securing-childrens-future-through-digital-birth-registration-in-malawi", "studies": {
+"authentication": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document states nothing on authentication services."}}},
+"birthidlink": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No link between the civil register and the ID system is stated."}}},
+"civilregister": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "UNDP Malawi says 74 health facilities now issue instant birth certificates through the Nzika digital platform, run with the National Registration Bureau under the IDT4M project.", "as_of": "2026-07-08", "date_precision": "day", "system": "Nzika", "class": "civil"}
+], "systems": [{"system": "Nzika digital platform", "country_label": "Malawi", "class": "civil", "platform": "Nzika", "owner": "National Registration Bureau", "tiers": "health facilities"}], "note": ""}}},
+"idcoverage": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Gives births registered, not people holding a national ID."}}},
+"idfrombirth": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No ID number at birth is stated."}}},
+"idmaintenance": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"registry": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "UNDP Malawi says parents at 74 health facilities register births on the Nzika platform and receive the certificate before leaving.", "as_of": "2026-07-08", "date_precision": "day", "system": "Nzika", "class": "civil"},
+{"sub_indicator": "civil", "aspect": "offices", "value": "count:74", "fact": "UNDP Malawi says 74 health facilities now issue instant birth certificates through the Nzika platform, with no total of offices given.", "as_of": "2026-07-08", "date_precision": "day", "system": "Nzika", "class": "civil"}
+], "systems": [{"system": "Nzika digital platform", "country_label": "Malawi", "class": "civil", "platform": "Nzika", "owner": "National Registration Bureau", "tiers": "health facilities"}], "note": ""}}}
+}}

@@ -1,0 +1,12 @@
+{"slug":"2024-02-28-mdg-mwc-24-barcelone-madagascar-rejoint-l-alliance-strategique-pour-l-afri","studies":{
+"businesspayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document does not mention e-procurement."}}},
+"centralbank":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document does not mention the central bank."}}},
+"consumerprotection":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document does not mention consumer protection."}}},
+"crossborderpayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document names digital payments only as a general domain of the alliance, with no corridor or system."}}},
+"datatransfers":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document mentions cross-border use of data and digital identities only as the alliance's aim, with no transfer rule."}}},
+"g2ppayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document does not mention government payments to people."}}},
+"paymentsuptake":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document gives no account survey figure."}}},
+"regionalpolicy":{"countries":{"MDG":{"facts":[{"sub_indicator":"cooperation","aspect":"part","value":"active","fact":"L'Express de Madagascar reports Madagascar formally signed its accession to the Smart Africa Trust Alliance (SATA), an AfCFTA-linked initiative, after a Smart Africa steering committee meeting at MWC Barcelona, represented by its digital minister.","as_of":"2024-02-27","date_precision":"day","system":"Smart Africa Trust Alliance (SATA)","class":"cooperation"}],"systems":[{"system":"Smart Africa Trust Alliance (SATA)","country_label":"Madagascar","class":"cooperation","platform":"","owner":"Smart Africa","tiers":""}],"note":""}}},
+"retailpayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document does not mention mobile money or retail payment services."}}},
+"revenuecollection":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document does not mention tax or fee payment."}}}
+}}

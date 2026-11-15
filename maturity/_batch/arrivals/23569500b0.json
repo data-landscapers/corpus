@@ -1,0 +1,10 @@
+{"slug": "2025-02-04-mdg-internet-stephanie-delmotte-attend-plus-dinvestissements-economiques-e", "studies": {
+"agrisatellite": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The document states nothing on satellite data in farming."}}},
+"aigovernment": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The document states nothing on AI in government administration."}}},
+"metsatellite": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The document states nothing on satellite data in the weather service."}}},
+"satellitebroadband": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "satellite", "aspect": "service", "value": "licensed", "fact": "The 2424.mg article says Starlink obtained its satellite licence in Madagascar for 100,000 dollars paid to the communications regulator.", "as_of": "2025-02-04", "date_precision": "day", "system": "Starlink", "class": "satellite"},
+{"sub_indicator": "satellite", "aspect": "service", "value": "sale", "fact": "The minister of digital development says Starlink is sold in Madagascar, at 1,585,000 ariary for equipment and 266,000 ariary a month, with about 5,900 subscribers.", "as_of": "2025-02-04", "date_precision": "day", "system": "Starlink", "class": "satellite"}
+], "systems": [{"system": "Starlink", "country_label": "Madagascar", "class": "satellite", "platform": "low-orbit satellite", "owner": "Starlink", "tiers": ""}], "note": "Subscriber figure is the minister's estimate, not a regulator count."}}},
+"schoolinternet": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The document states nothing on school internet or curriculum."}}}
+}}

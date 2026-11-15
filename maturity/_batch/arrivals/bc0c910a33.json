@@ -1,0 +1,12 @@
+{"slug": "2025-11-27-tcd-unhcr-chad-flash-info-journee-lancement-enrolement-biometrique-anats-h", "studies": {
+"authentication": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states no authentication service."}}},
+"birthidlink": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document states no link between the civil register and the ID system."}}},
+"digitalidlaw": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document names no identity law."}}},
+"idcoverage": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Only enrolment targets are stated, no count or share of the population holding an ID."}}},
+"idfrombirth": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document says nothing about numbers at birth."}}},
+"idmaintenance": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document does not say who operates, maintains or owns the system."}}},
+"idregisters": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document names no public register keyed on the ID number."}}},
+"idrobustness": {"countries": {"TCD": {"facts": [], "systems": [{"system": "base de donnees nationale / Numero National d'Identification (NNI)", "country_label": "Chad", "class": "idsystem", "platform": "", "owner": "ANATS", "tiers": ""}], "note": "The document names the national database and NNI but does not state that it issues unique credentials, checks biometrics for duplicates, or is certified."}}},
+"police": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document is not about police stations."}}},
+"refugees": {"countries": {"TCD": {"facts": [{"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "UNHCR, with ANATS and CNARR, launched at the Abeche one-stop desk on 21 November 2025 an EU-funded biometric enrolment of Sudanese refugees into the national database to assign adult refugees a National Identification Number (NNI), targeting 15,000 by end-2025 and 50,000 by the end of the PADERCA project.", "as_of": "2025-11-21", "date_precision": "day", "system": "National database / NNI enrolment of refugees", "class": "displaced"}], "systems": [{"system": "National database / NNI enrolment of refugees", "country_label": "Chad", "class": "displaced", "platform": "", "owner": "ANATS, CNARR, UNHCR", "tiers": ""}], "note": ""}}}
+}}

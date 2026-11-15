@@ -1,0 +1,97 @@
+{
+ "slug": "2024-09-01-gmb-bloom-bank-africa-gambia-partners-with-accountant-general-s-department",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "Bloom Bank Africa Gambia says it signed an MoU with the Accountant General's Department on 2024-09-30 to support a phased rollout of a digital payment gateway for revenue collection, starting with digitised cash and later bank transfers, online payments, mobile money and POS.",
+       "as_of": "2024-09-30",
+       "date_precision": "day",
+       "system": "digital payment gateway",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "digital payment gateway",
+       "country_label": "Gambia",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Accountant General's Department",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

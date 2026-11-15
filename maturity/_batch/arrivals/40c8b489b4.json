@@ -1,0 +1,43 @@
+{
+ "slug": "2024-02-01-sdn-new-transformative-paths-for-300-start-up-in-kassala-and-port-sudan",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Funding is EU, not a Sudanese public fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Microfinanza states that the EU-funded WE-RISE! incubation and acceleration programme launched on 24 February 2024 in Kassala and Port Sudan for over 300 startups and MSMEs in six cohorts per city, with AICS Khartoum and SAVANNAH Innovation Labs.",
+       "as_of": "2024-02-24",
+       "date_precision": "day",
+       "system": "WE-RISE!",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "WE-RISE!",
+       "country_label": "Sudan",
+       "class": "other",
+       "platform": "",
+       "owner": "AICS Khartoum and UN Women",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

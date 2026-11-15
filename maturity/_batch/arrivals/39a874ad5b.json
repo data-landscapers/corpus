@@ -1,0 +1,285 @@
+{
+ "slug": "2026-05-02-bfa-actualites-kix-seeds-burkina-faso",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "KIX-ALERTE and the chatbot sit in an education pilot, a sector system, not general administration."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Over 400 education actors trained in digital skills under a university-led project; no government programme for civil servants stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a mention of CIL compliance; no law or its standing stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "KIX-DHIS2 link is to the national DHIS2 and integration with SIGE is only planned; no education-system link stated in service."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Burkina Faso."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "KIX-SEEDS says its KIX-ALERTE machine-learning module for early prediction of school dropout and a KIX-CHATBOT IA for querying education data are tools of its pilot in the communes of Manga and Bingo, with generalisation of the alert system to all communes still to come.",
+       "as_of": "2026-05-02",
+       "date_precision": "day",
+       "system": "KIX-ALERTE",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "KIX-ALERTE",
+       "country_label": "Burkina Faso",
+       "class": "sectorai",
+       "platform": "seeds.bf",
+       "owner": "ISSP / Universite Joseph KI-ZERBO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "KIX-SEEDS, led by ISSP / Universite Joseph KI-ZERBO, says it designed the KIX-ALERTE dropout-prediction machine-learning module and the KIX-CHATBOT IA on its seeds.bf platform, used in the pilot communes of Manga and Bingo.",
+       "as_of": "2026-05-02",
+       "date_precision": "day",
+       "system": "KIX-ALERTE",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "KIX-ALERTE",
+       "country_label": "Burkina Faso",
+       "class": "localai",
+       "platform": "seeds.bf",
+       "owner": "ISSP / Universite Joseph KI-ZERBO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "KIX-SEEDS says its pilot in the communes of Manga and Bingo follows over 12,000 pupils individually by unique identifier on a digital platform with modules for teachers' grades, school management and public statistics, with integration into the national SIGE still to come.",
+       "as_of": "2026-05-02",
+       "date_precision": "day",
+       "system": "KIX-SEEDS platform",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "KIX-SEEDS says its KIX-DHIS2 module is an interoperability interface with the national DHIS2 system in its pilot platform.",
+       "as_of": "2026-05-02",
+       "date_precision": "day",
+       "system": "KIX-DHIS2",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "KIX-SEEDS platform",
+       "country_label": "Burkina Faso",
+       "class": "emis",
+       "platform": "seeds.bf",
+       "owner": "ISSP / Universite Joseph KI-ZERBO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "kept",
+       "value": "routine",
+       "fact": "KIX-SEEDS says teachers in its pilot enter pupils' marks in an offline-capable Android app and report cards are produced the day of entry, while school heads follow attendance and performance in real time.",
+       "as_of": "2026-05-02",
+       "date_precision": "day",
+       "system": "KIX-SEEDS platform",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "schools",
+       "value": "pilot",
+       "fact": "KIX-SEEDS says the system runs in the pilot communes of Manga and Bingo, with extension to several regions still planned.",
+       "as_of": "2026-05-02",
+       "date_precision": "day",
+       "system": "KIX-SEEDS platform",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "KIX-SEEDS platform",
+       "country_label": "Burkina Faso",
+       "class": "emis",
+       "platform": "seeds.bf",
+       "owner": "ISSP / Universite Joseph KI-ZERBO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{"slug":"2025-11-01-swz-2-home-affairs-employees-fired-over-id-fraud","studies":{
+"authentication":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Document states nothing on authentication services."}}},
+"birthidlink":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No link between civil register and ID system is stated."}}},
+"civilregister":{"countries":{"SWZ":{"facts":[],"systems":[{"system":"National Population Registry","country_label":"Eswatini","class":"other","platform":"","owner":"Ministry of Home Affairs","tiers":""}],"note":"Birth certificates are issued via the registry's user logins, but no digital civil registration system, rollout or national scope is stated."}}},
+"idcoverage":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No enrolment count or share is stated."}}},
+"idfrombirth":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No ID number at birth is stated."}}},
+"idmaintenance":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Nothing on who operates, maintains or owns the ID system."}}},
+"idregisters":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No register keyed on the ID number is stated."}}},
+"idrobustness":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Fraud story only; no biometric checks, certification or audit of the ID system itself stated (the audit was a user-login trail)."}}},
+"populationregister":{"countries":{"SWZ":{"facts":[{"sub_indicator":"population","aspect":"register","value":"inservice","fact":"The Times of Eswatini reports that an audit of the National Population Registry traced irregular birth certificates and documents to specific typist and registrar user logins, showing the registry is in operation.","as_of":"2025-11","date_precision":"month","system":"National Population Registry","class":"population"}],"systems":[{"system":"National Population Registry","country_label":"Eswatini","class":"population","platform":"","owner":"Ministry of Home Affairs","tiers":""}],"note":""}}}
+}}

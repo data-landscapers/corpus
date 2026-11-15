@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-22-gin-guinee-internet-meme-interdit-starlink-tisse-sa-toile-qui-arrange-les",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "none",
+       "fact": "Le360 reports Starlink use is strictly forbidden by Guinea's authorities and no licence has been granted to the company.",
+       "as_of": "2026-04-22",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not mention schools."
+    }
+   }
+  }
+ }
+}

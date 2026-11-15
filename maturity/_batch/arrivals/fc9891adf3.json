@@ -1,0 +1,52 @@
+{
+ "slug": "2025-11-26-gin-electrification-rurale-un-plan-a-3-6-milliards-de-dollars-pour-sortir",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about electricity; no internet programme or rural/urban internet figure."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government office connection."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "rural",
+       "aspect": "access",
+       "value": "official:25.7",
+       "fact": "Figures presented at the PNER financing round table put rural access to electricity at 25.7% (51.1% nationally); the AGER director general separately cited 23% for rural people.",
+       "as_of": "2025-11-26",
+       "date_precision": "day",
+       "system": "PNER",
+       "class": "ruralpower"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PNER",
+       "country_label": "Guinea",
+       "class": "ruralpower",
+       "platform": "",
+       "owner": "AGER",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

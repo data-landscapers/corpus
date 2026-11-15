@@ -1,0 +1,50 @@
+{
+ "slug": "2023-12-20-swz-eighth-african-country-gets-starlink-before-south-africa-with-rand-pri",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "MyBroadband reports Starlink is available across Eswatini with residential service at R950 a month, per the Starlink availability map.",
+       "as_of": "2023-12",
+       "date_precision": "month",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Eswatini",
+       "class": "satellite",
+       "platform": "low-orbit",
+       "owner": "SpaceX",
+       "tiers": "residential, business"
+      }
+     ],
+     "note": ""
+    },
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "none",
+       "fact": "MyBroadband reports Starlink has not officially launched in South Africa, and Icasa ordered an ISP in August 2023 to stop offering it.",
+       "as_of": "2023-12",
+       "date_precision": "month",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

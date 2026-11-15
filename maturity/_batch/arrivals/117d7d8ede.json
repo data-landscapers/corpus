@@ -1,0 +1,43 @@
+{
+ "slug": "2024-06-28-ben-octroi-du-label-startup-aux-mpme-du-benin-le-comite-technique-de-label",
+ "studies": {
+  "startups": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "The Benin digital ministry states a decree on granting the Startup Label to MPMEs was adopted in March 2023 and that the technical labelling committee was installed on 25 June 2024.",
+       "as_of": "2023-03",
+       "date_precision": "month",
+       "system": "Startup Label decree 2023-095",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup Label",
+       "country_label": "Benin",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Ministry of Digital Affairs and Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": "No label yet granted; first call for applications only expected by September 2024."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on hubs."
+    }
+   }
+  }
+ }
+}

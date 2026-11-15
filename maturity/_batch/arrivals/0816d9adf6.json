@@ -1,0 +1,52 @@
+{
+ "slug": "2026-09-17-mar-communique-de-presse-celebration-des-resultats-du-fonds-innov-invest",
+ "studies": {
+  "nonstatefinance": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Four VC funds' MAD 500m is undated and no 2024-or-later signing is stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "funded",
+       "value": "funded",
+       "fact": "TAMWILCOM says the public Fonds Innov Invest, backed by the World Bank, has financed over 500 startups with more than MAD 590m in grants, loans and investments since 2017, and four funds it helped structure invested over MAD 500m in about 40 startups.",
+       "as_of": "2026-09-17",
+       "date_precision": "day",
+       "system": "Fonds Innov Invest",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fonds Innov Invest",
+       "country_label": "Morocco",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "TAMWILCOM for the Ministry of Economy and Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park is described."
+    }
+   }
+  }
+ }
+}

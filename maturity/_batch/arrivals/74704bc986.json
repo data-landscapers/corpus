@@ -1,0 +1,64 @@
+{
+ "slug": "2024-03-18-tza-statistical-master-plan-implementation-on-track",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says the master plan intends to strengthen administrative data; nothing published or under way."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "The Statistician General says Tanzania released its census report within 45 days of data collection in 2022.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "2022 census",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Daily News says TSMP II began in August 2022 and runs 2022-2027 with World Bank financing.",
+       "as_of": "2022-08",
+       "date_precision": "month",
+       "system": "TSMP II 2022-2027",
+       "class": "strategy"
+      },
+      {
+       "sub_indicator": "strategy",
+       "aspect": "review",
+       "value": "reviewed",
+       "fact": "The Statistician General says 80 per cent of year-two TSMP II activities are done, at a seven-day NBS and World Bank meeting assessing implementation.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "TSMP II 2022-2027",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

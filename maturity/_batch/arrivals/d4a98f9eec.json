@@ -1,0 +1,12 @@
+{"slug":"2024-06-19-sle-sierra-leone-bets-on-150-million-digital-hub-strategy","studies":{
+"civilserviceskills":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No civil-service digital-skills training stated."}}},
+"datacentres":{"countries":{"SLE":{"facts":[],"systems":[{"system":"Africell Tech City data centre","country_label":"Sierra Leone","class":"other","platform":"","owner":"Africell Sierra Leone","tiers":""}],"note":"Africell's data centre is a pledge, not in service."}}},
+"digitalskills":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Only a planned USD 50 million digital transformation with literacy promotion; no programme delivered."}}},
+"digitalstrategy":{"countries":{"SLE":{"facts":[{"sub_indicator":"national","aspect":"standing","value":"drafting","fact":"Semafor reports the early stages of Sierra Leone's digital innovation hub strategy were rolled out at the June 2024 Tech Summit while the plan is still being finalized by the government.","as_of":"2024-06","date_precision":"month","system":"Digital innovation hub strategy","class":"national"}],"systems":[{"system":"Digital innovation hub strategy","country_label":"Sierra Leone","class":"other","platform":"","owner":"Ministry of Technology and Innovation","tiers":""}],"note":""}}},
+"ictproduction":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Device assembly lines only a Tech City aim; no figure or plant in production."}}},
+"nationaldatacentres":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Africell data centre only committed; no ownership or service stated."}}},
+"policyresearch":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No local research institution on digital policy named."}}},
+"schoolinternet":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No school internet figure or compulsory curriculum stated."}}},
+"startups":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No startup law, labelling or fund stated; strategy is a hub plan seeking funding."}}},
+"techhubs":{"countries":{"SLE":{"facts":[{"sub_indicator":"hub","aspect":"hubs","value":"underway","fact":"Minister Salima Bah told Semafor that the Tech City in a 130-acre special economic zone at Tikonko, Bo District, is being adapted to support startups and innovators.","as_of":"2024-06-19","date_precision":"day","system":"Tech City","class":"hub"}],"systems":[{"system":"Tech City","country_label":"Sierra Leone","class":"hub","platform":"","owner":"Government of Sierra Leone","tiers":""}],"note":""}}}
+}}

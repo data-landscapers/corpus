@@ -1,0 +1,235 @@
+{
+ "slug": "2025-06-01-eth-over-9-000-sudanese-refugees-receive-digital-ids-in-ethiopia",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The National ID Program issues unique Fayda identification numbers and QR codes electronically, under Proclamation 1284/2023, with 65,169 refugees numbered by June 2025.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Fayda ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda national ID",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "documented",
+       "fact": "As of June 2025, over 65,169 refugees had received Fayda numbers on new refugee ID cards or Proof of Registration documents, including 9,619 Sudanese refugees, per the Development Action Platform page.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Fayda ID / proGres",
+       "class": "displaced"
+      },
+      {
+       "sub_indicator": "displaced",
+       "aspect": "counted",
+       "value": "counted",
+       "fact": "As of June 2025, 65,169 refugees held national Fayda ID numbers, including 9,619 Sudanese refugees, according to the page.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Fayda ID",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda national ID",
+       "country_label": "Ethiopia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National ID Program (NIDP)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Ethiopia."
+    }
+   }
+  }
+ }
+}

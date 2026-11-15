@@ -1,0 +1,10 @@
+{"slug": "2025-03-15-sdn-telecommunications-ministry-launches-service-allowing-citizens-to-acce", "studies": {
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Document does not mention procurement."}}},
+"centralbank": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Central Bank of Sudan is only named as a coordinating partner; no licensing, switch oversight or mandate is stated."}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No consumer rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Domestic USSD banking only; nothing cross-border."}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No government payments to people stated; family assistance programmes are only mentioned as a supported aim."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No survey share of adults with accounts stated."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "underway", "fact": "On 15 March 2025 the Ministry of Digital Transformation and Telecommunications announced that USSD banking access (P2P bank transfers, balance inquiries, transaction summaries) would start the following week, with TPRA and the Central Bank of Sudan.", "as_of": "2025-03-15", "date_precision": "day", "system": "USSD banking service", "class": "retail"}], "systems": [{"system": "USSD banking service", "country_label": "Sudan", "class": "retail", "platform": "USSD", "owner": "Ministry of Digital Transformation and Telecommunications with TPRA and Central Bank of Sudan", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

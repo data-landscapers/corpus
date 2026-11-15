@@ -1,0 +1,124 @@
+{
+ "slug": "2024-10-24-cmr-un-partenariat-pour-l-installation-de-kiosques-numeriques-au-camp-de-r",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "UNHCR, JRS and IHS Cameroun signed an MoU on 23 October 2024 to install digital kiosks with internet and Mobile Money services at Minawao refugee camp.",
+       "as_of": "2024-10-23",
+       "date_precision": "day",
+       "system": "Minawao digital kiosks",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Minawao digital kiosks",
+       "country_label": "Cameroon",
+       "class": "displaced",
+       "platform": "internet kiosks with Mobile Money",
+       "owner": "UNHCR, JRS, IHS Cameroun",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  }
+ }
+}

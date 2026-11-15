@@ -1,0 +1,18 @@
+{"slug":"2025-01-01-nga-3-8-2-refugees-asylum-seekers-and-idps","studies":{
+"authentication":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Document states nothing on authentication services."}}},
+"birthidlink":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No link between civil register and ID system stated."}}},
+"civilregister":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Only Benue technical issues with digital registration for displaced people; no national digital civil register status stated."}}},
+"g2ppayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Cash assistance figures are UNHCR's own, not a government payment programme."}}},
+"idcoverage":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No population-wide ID share stated; only shares for displaced groups."}}},
+"idfrombirth":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No public register keyed on the national ID number stated."}}},
+"idrobustness":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on ID system biometrics, certification or population reach."}}},
+"refugees":{"countries":{"NGA":{"facts":[
+{"sub_indicator":"displaced","aspect":"registration","value":"documented","fact":"UNHCR, relayed by EUAA, says that in 2024 51.78% of IDPs and 46.01% of refugees and asylum seekers held legally recognised identity documents or credentials.","as_of":"2024","date_precision":"year","system":"legal identity documents","class":"displaced"},
+{"sub_indicator":"displaced","aspect":"access","value":"open","fact":"UNHCR, relayed by EUAA, says about 1,950 refugees in the South-South region were enrolled in state social registers, giving access to the Nigerian Identification Number and bank accounts.","as_of":"2024","date_precision":"year","system":"state social registers; NIN","class":"displaced"},
+{"sub_indicator":"displaced","aspect":"counted","value":"counted","fact":"UNHCR, relayed by EUAA, gives the share with a bank account in 2024 as 0.42% of IDPs and 29.22% of refugees and asylum seekers.","as_of":"2024","date_precision":"year","system":"bank accounts","class":"displaced"}
+],"systems":[{"system":"Nigerian Identification Number (NIN)","country_label":"Nigeria","class":"other","platform":"","owner":"","tiers":""}],"note":""}}},
+"registry":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No statement on how local civil registration offices make records; Benue digital registration issue concerns displaced people only."}}},
+"socialprotection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"State social registers named only as an enrolment route for refugees; no programme MIS stated."}}}
+}}

@@ -1,0 +1,9 @@
+{"slug":"2026-05-26-uga-africanenda-tor-bnps-instant-payment-system-blueprint","studies":{
+"businesspayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"UGA":{"facts":[],"systems":[{"system":"Bank of Uganda National Payment Switch (BNPS)","country_label":"Uganda","class":"oversight","platform":"","owner":"Bank of Uganda","tiers":""}],"note":"BNPS is being implemented, not in service; no licensing or drafting stated."}}},
+"consumerprotection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Consumer protection appears only as a task for the consultancy, not as rules in force or a complaints body."}}},
+"crossborderpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"EAPS and REPSS links are expected future integration, not in service."}}},
+"g2ppayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"G2P is only a priority use case to be assessed."}}},
+"paymentsuptake":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No survey share of adults stated."}}},
+"retailpayments":{"countries":{"UGA":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Terms of Reference describe Uganda's payment landscape as fragmented, with telecom-led mobile money services operating largely on isolated systems alongside banks and fintechs.","as_of":"2026-05-26","date_precision":"day","system":"mobile money","class":"retail"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on revenue collection."}}}}}

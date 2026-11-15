@@ -1,0 +1,135 @@
+{
+ "slug": "2024-03-18-lso-10-enterprises-awarded-more-than-m130k-seed-funding",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "funded",
+       "value": "funded",
+       "fact": "Public Eye reports that the CAFI Lesotho Entrepreneurship Hub and Seed Financing Facility, funded by the World Bank through the government's CAFI project, awarded US$7,000 (M134,675.80) seed funding each to 10 enterprises.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "Lesotho Entrepreneurship Hub & Seed Financing Facility",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Lesotho Entrepreneurship Hub & Seed Financing Facility",
+       "country_label": "Lesotho",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Government of Lesotho CAFI Project (World Bank IDA)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Public Eye reports that Limkokwing University's LEAP incubator ran a six-month incubation programme for 10 enterprises, one of five CAFI-trained enterprise support organisations including NUL Innovation Hub, BEDCO, TEN and Gem Institute.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "Limkokwing Entrepreneurship Acceleration Platform (LEAP)",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Limkokwing Entrepreneurship Acceleration Platform (LEAP)",
+       "country_label": "Lesotho",
+       "class": "hub",
+       "platform": "",
+       "owner": "Limkokwing University",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

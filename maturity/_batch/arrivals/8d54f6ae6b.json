@@ -1,0 +1,194 @@
+{
+ "slug": "2026-02-25-cod-gabon-drc-to-scrap-cross-border-roaming-charges-from-june-2026",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Roaming cut is regional policy, not shared infrastructure."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Bilateral roaming agreement is not a signed African legal text on the study's terms."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Bilateral roaming agreement is not a signed African legal text on the study's terms."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Gabon and the DRC signed a mobile roaming agreement eliminating cross-border charges on the sidelines of ARTAC's 10th session in Kinshasa, reported by Ecofin Agency, taking effect 30 June 2026.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Gabon-DRC roaming agreement",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ARTAC",
+       "country_label": "DRC",
+       "class": "other",
+       "platform": "",
+       "owner": "Central African Telecommunications Regulators Conference",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Gabon and the DRC signed a mobile roaming agreement eliminating cross-border charges on the sidelines of ARTAC's 10th session in Kinshasa, reported by Ecofin Agency, taking effect 30 June 2026.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Gabon-DRC roaming agreement",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ARTAC",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "",
+       "owner": "Central African Telecommunications Regulators Conference",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

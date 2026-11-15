@@ -1,0 +1,148 @@
+{
+ "slug": "2024-01-01-cod-rapport-pilier-iii-premier-semestre-2024",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "The Banque Centrale du Congo licensed Orange Money RDC SA as an electronic money institution on 29 September 2016, per Orange Money RDC's own report.",
+       "as_of": "2016-09-29",
+       "date_precision": "day",
+       "system": "Orange Money RDC",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions international transfers but names no corridor or regional system."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Orange Money RDC says it is governed by the e-money regulation in force in the DRC and BCC instructions for e-money institutions, including Instruction 55.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "BCC e-money regulation",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "non-bank",
+       "fact": "Orange Money RDC SA, a company owned by Orange RDC SA and CECOM, holds a BCC e-money institution licence granted 29 September 2016.",
+       "as_of": "2016-09-29",
+       "date_precision": "day",
+       "system": "BCC e-money institution licence",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Provider figures only, no survey of adults."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Orange Money RDC reports transaction volume up 120% and value up 114% in H1 2024, with active clients growing 2.8% on the previous quarter.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Orange Money",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Orange Money RDC reports CDF 6.8bn of receivables arising from interoperability with Airtel Money and M-Pesa at 30 June 2024.",
+       "as_of": "2024-06-30",
+       "date_precision": "day",
+       "system": "Orange Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money",
+       "country_label": "COD",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Orange Money RDC SA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  }
+ }
+}

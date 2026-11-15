@@ -1,0 +1,12 @@
+{"slug":"2026-11-09-bdi-turning-entrepreneurial-potential-into-lasting-impact","studies":{
+"businesspayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Document says nothing on e-procurement."}}},
+"centralbank":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Document says nothing on central bank payments role."}}},
+"consumerprotection":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Document says nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Document says nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Document says nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Document gives no account-ownership survey figure."}}},
+"retailpayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Document says nothing on retail digital payments."}}},
+"revenuecollection":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Document says nothing on revenue collection."}}},
+"startups":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Document names no startup law, strategy or public fund."}}},
+"techhubs":{"countries":{"BDI":{"facts":[{"sub_indicator":"hub","aspect":"hubs","value":"inservice","fact":"KIT Digital Innovation HUB, with Lakarmissionen / LM International support, is incubating 13 Shark Tank Burundi startups under its ICANZO TECH programme, after diagnostic assessments of several of them.","as_of":"2026-11-09","date_precision":"day","system":"ICANZO TECH programme (KIT Digital Innovation HUB)","class":"hub"}],"systems":[{"system":"KIT Digital Innovation HUB","country_label":"Burundi","class":"hub","platform":"","owner":"KIT Digital Innovation HUB","tiers":""}],"note":""}}}
+}}

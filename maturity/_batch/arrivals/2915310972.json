@@ -1,0 +1,13 @@
+{"slug": "2026-10-05-sen-satellite-et-reseaux-terrestres-le-senegal-ajuste-son-cadre-reglementa", "studies": {
+"datalocalisation": {"countries": {"SEN": {"facts": [], "systems": [], "note": "ARTP only asks whether data localisation obligations should be imposed on satellite operators; no rule or drafting is stated."}}},
+"digitaldivides": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on rural programmes or rural-urban internet use."}}},
+"digitalsovereignty": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on state data control."}}},
+"domesticfinancing": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on state budget for digital programmes; Sonatel's FDSUT contributions are an operator's, not a budget line."}}},
+"publicconsultation": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The telecoms regulator ARTP opened a national consultation, open until 21 October 2026, to gather views of sector actors on the regime (licence, authorisation or declaration) and obligations for satellite operators.", "as_of": "2026-10", "date_precision": "month", "system": "ARTP national consultation on satellite regulatory framework", "class": "consultation"}
+], "systems": [], "note": ""}}},
+"satellitebroadband": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "satellite", "aspect": "service", "value": "licensed", "fact": "The document says an authorisation was granted to Starlink in Senegal, which Sonatel challenged in court and which the unions queried in February 2026.", "as_of": "2026-02", "date_precision": "month", "system": "Starlink", "class": "satellite"},
+{"sub_indicator": "satellite", "aspect": "service", "value": "none", "fact": "The Supreme Court ordered the provisional suspension of Starlink's authorisation on 7 September 2026, finding a serious doubt over its legality.", "as_of": "2026-09-07", "date_precision": "day", "system": "Starlink", "class": "satellite"}
+], "systems": [{"system": "Starlink", "country_label": "Senegal", "class": "satellite", "platform": "low-orbit satellite", "owner": "Starlink", "tiers": ""}], "note": ""}}}
+}}

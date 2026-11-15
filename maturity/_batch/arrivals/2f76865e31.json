@@ -1,0 +1,136 @@
+{
+ "slug": "2023-11-30-tcd-economie-la-direction-generale-des-impots-appelle-les-contribuables-a",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The director general of taxes says E-Tax, in place since 2022 and officially launched on 12 September 2023, lets all taxpayers file returns and pay taxes online.",
+       "as_of": "2023-11-30",
+       "date_precision": "day",
+       "system": "E-Tax",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The tax directorate and UBA Tchad say taxes can be paid through E-Tax by mobile banking, internet banking or bank card, with an electronic receipt.",
+       "as_of": "2023-11-30",
+       "date_precision": "day",
+       "system": "E-Tax",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "E-Tax",
+       "country_label": "Chad",
+       "class": "taxsystem",
+       "platform": "https://sigi.finances.gouv.td/portail",
+       "owner": "Direction generale des impots",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The director general of taxes and UBA Tchad say taxes can be paid online through E-Tax via mobile banking, internet banking or bank card.",
+       "as_of": "2023-11-30",
+       "date_precision": "day",
+       "system": "E-Tax",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "E-Tax",
+       "country_label": "Chad",
+       "class": "revenue",
+       "platform": "https://sigi.finances.gouv.td/portail",
+       "owner": "Direction generale des impots",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

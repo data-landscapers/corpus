@@ -1,0 +1,45 @@
+{
+ "slug": "2024-03-13-bdi-burundi-ratifies-atu-constitution-convention-30th-country",
+ "studies": {
+  "regionallaw": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "ratified",
+       "fact": "Burundi deposited instruments of ratification of the ATU Constitution and Convention at ATU headquarters in Nairobi, the ATU says.",
+       "as_of": "2024-03-12",
+       "date_precision": "day",
+       "system": "ATU Constitution and Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Burundi became the 30th of 52 states to ratify the ATU Constitution and Convention, giving it full engagement in Union activities, the ATU says.",
+       "as_of": "2024-03-12",
+       "date_precision": "day",
+       "system": "African Telecommunications Union",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

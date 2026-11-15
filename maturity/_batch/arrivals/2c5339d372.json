@@ -1,0 +1,108 @@
+{
+ "slug": "2026-07-02-zmb-govt-claims-k1-4-billion-released-as-social-cash-transfers-to-vulnerab",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Zambia's MCDSS Permanent Secretary says the Social Cash Transfer payment cycle began on 29 June 2026, with 92 percent of beneficiary households receiving transfers through mobile money or bank accounts.",
+       "as_of": "2026-06-29",
+       "date_precision": "day",
+       "system": "Social Cash Transfer",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "payments",
+       "value": "electronic",
+       "fact": "Zambia's MCDSS Permanent Secretary says 92 percent of Social Cash Transfer beneficiary households now receive transfers through mobile money or bank accounts.",
+       "as_of": "2026-07-02",
+       "date_precision": "day",
+       "system": "Social Cash Transfer",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

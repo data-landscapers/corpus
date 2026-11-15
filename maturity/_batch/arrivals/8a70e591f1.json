@@ -1,0 +1,68 @@
+{
+ "slug": "2025-11-22-bfa-le-burkina-faso-et-ses-voisins-renforcent-la-connectivite-transfrontal",
+ "studies": {
+  "regionalinfrastructure": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Roaming and spectrum coordination only; no shared infrastructure named."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "ARCEP Burkina and Ghana's NCA finalised and signed a border frequency coordination agreement, and Burkina Faso signed the AES border frequency coordination framework drafted at Niamey in October 2025, ARCEP says.",
+       "as_of": "2025-11-22",
+       "date_precision": "day",
+       "system": "ARCEP-NCA frequency coordination agreement",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ARCEP-NCA frequency coordination agreement",
+       "country_label": "Burkina Faso",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "ARCEP; NCA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Niger hosted the Niamey meeting in October 2025 where the AES border frequency coordination framework was drafted with Mali and Burkina Faso.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "AES frequency coordination framework",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AES frequency coordination framework",
+       "country_label": "Niger",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "AES",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

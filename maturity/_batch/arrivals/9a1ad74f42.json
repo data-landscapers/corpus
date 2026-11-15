@@ -1,0 +1,8 @@
+{"slug":"2026-11-14-xwa-ecowas-women-in-cybersecurity-rabat-apanews","studies":{
+"aiabuse":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing on AI harms."}}},
+"aigovernment":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing on AI in administration."}}},
+"aisectoral":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing on sectoral AI."}}},
+"aisystems":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing on AI built in the country."}}},
+"cybersecurity":{"countries":{"MAR":{"facts":[],"systems":[{"system":"DGSSI","country_label":"Direction générale de la sécurité des systèmes d'information","class":"other","platform":"","owner":"Morocco","tiers":""}],"note":"Forward notice of a training programme; no incident, designation or body creation stated."}}},
+"regionalpolicy":{"countries":{"MAR":{"facts":[{"sub_indicator":"cooperation","aspect":"part","value":"member","fact":"The DGSSI says its Director General, Abdellah Boutrig, is Vice-President of the African Network of Cybersecurity Authorities (ANCA).","as_of":"2026-11-14","date_precision":"day","system":"ANCA","class":"cooperation"}],"systems":[],"note":""}}}
+}}

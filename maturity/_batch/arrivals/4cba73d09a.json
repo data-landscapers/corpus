@@ -1,0 +1,172 @@
+{
+ "slug": "2026-09-04-moz-facim-2026-bau-pushes-digitalisation-to-ease-small-business-formalisat",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "The BAU one-stop business registration centre operates across 129 service points nationwide, per its director-general Daniel Bay.",
+       "as_of": "2026-09-03",
+       "date_precision": "day",
+       "system": "Balc\u00e3o de Atendimento \u00danico (BAU)",
+       "class": "business"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "shared",
+       "value": "shared",
+       "fact": "Per Daniel Bay, the BAU lets firms go from name reservation to obtaining a Tax Identification Number (NUIT) and registering employees with social security at one point.",
+       "as_of": "2026-09-03",
+       "date_precision": "day",
+       "system": "Balc\u00e3o de Atendimento \u00danico (BAU)",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Balc\u00e3o de Atendimento \u00danico (BAU)",
+       "country_label": "Mozambique",
+       "class": "business",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "shared",
+       "value": "shared",
+       "fact": "Per Daniel Bay, firms obtain the Tax Identification Number (NUIT) at the BAU one-stop business registration centre.",
+       "as_of": "2026-09-03",
+       "date_precision": "day",
+       "system": "Balc\u00e3o de Atendimento \u00danico (BAU)",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Balc\u00e3o de Atendimento \u00danico (BAU)",
+       "country_label": "Mozambique",
+       "class": "business",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-11-12-mar-l-acces-a-l-electricite-au-maroc-pratiquement-generalise-dans-le-rural",
+ "studies": {
+  "localgov": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Rural electrification article; no local government office connection stated."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "rural",
+       "aspect": "access",
+       "value": "official:99.88",
+       "fact": "ONEE's annual report puts rural electrification access at 99.88% at end-2023, as reported by Le Matin.",
+       "as_of": "2023-12",
+       "date_precision": "month",
+       "system": "PERG",
+       "class": "ruralpower"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

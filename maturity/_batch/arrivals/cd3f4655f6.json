@@ -1,0 +1,256 @@
+{
+ "slug": "2024-08-26-som-somalia-introduces-modern-digital-identification-to-enhance-banking-se",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The data centre is said only to be nearing completion; not in service."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "The World Bank's Somalia country manager says over 85 per cent of Somalis currently lack official identification.",
+       "as_of": "2024-08-26",
+       "date_precision": "day",
+       "system": "Somali National ID system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Somali National ID system (NIRA)",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Somalia has introduced a national digital identification run by NIRA, with a Unique Identification Number that the central bank governor says will serve as the primary reference for credit assessments.",
+       "as_of": "2024-08-26",
+       "date_precision": "day",
+       "system": "Somali National ID system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Somali National ID system (NIRA)",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "NIRA and the Somali Bankers Association signed a partnership agreement to integrate the national ID system with the banking sector.",
+       "as_of": "2024-08-26",
+       "date_precision": "day",
+       "system": "Somali National ID system",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Somali National ID system (NIRA)",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The data centre is said only to be nearing completion; not in service."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Somalia."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The Deputy Minister of Finance announced the upcoming launch of a Tax Identification Number linked to the National ID System.",
+       "as_of": "2024-08-26",
+       "date_precision": "day",
+       "system": "Tax Identification Number",
+       "class": "tax"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "slug": "2026-05-07-ken-kra-to-link-real-time-tax-systems-to-m-pesa-for-easier-compliance",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "KRA says it is deploying AI-driven analytics and risk profiling engines to detect non-compliance, as stated by its Commissioner for Micro and Small Taxpayers.",
+       "as_of": "2026-05-07",
+       "date_precision": "day",
+       "system": "KRA risk profiling and AI analytics",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "revenue",
+       "value": "inuse",
+       "fact": "KRA's iTax is described as having long served as Kenya's primary tax administration platform, per KRA.",
+       "as_of": "2026-05-07",
+       "date_precision": "day",
+       "system": "iTax",
+       "class": "core"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "KRA plans to integrate eTIMS with M-Pesa and other providers to auto-generate payment registration numbers and enable instant tax settlement; no go-live date is given.",
+       "as_of": "2026-05-07",
+       "date_precision": "day",
+       "system": "eTIMS",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eTIMS",
+       "country_label": "eTIMS",
+       "class": "other",
+       "platform": "",
+       "owner": "Kenya Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "underway",
+       "fact": "KRA plans a full overhaul of iTax into an integrated revenue management system with prepopulated returns built from eTIMS data, per its Commissioner.",
+       "as_of": "2026-05-07",
+       "date_precision": "day",
+       "system": "iTax",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

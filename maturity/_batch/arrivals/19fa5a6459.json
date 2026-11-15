@@ -1,0 +1,54 @@
+{
+ "slug": "2026-01-14-ssd-bureau-of-statistics-launches-new-website-as-south-sudan-s-data-capaci",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "preparing",
+       "fact": "With UNFPA support the South Sudan Bureau of Statistics developed a census dossier and an operations manual in 2025 in preparation for the next national census.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Next national census",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "preparing",
+       "fact": "The Bureau reports work began in 2025 on the second National Strategy for the Development of Statistics, NSDS II, with consultants and training sessions.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "NSDS II",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Strategy for the Development of Statistics II",
+       "country_label": "NSDS II",
+       "class": "strategy",
+       "platform": "",
+       "owner": "National Bureau of Statistics",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

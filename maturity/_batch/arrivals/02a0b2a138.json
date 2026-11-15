@@ -1,0 +1,9 @@
+{"slug": "2026-11-14-lby-pilot-electronic-registration-foreign-companies", "studies": {
+"addressregister": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document says nothing about addressing."}}},
+"businessregister": {"countries": {"LBY": {"facts": [{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "Libya's Ministry of Economy and Trade announced a pilot launch of an electronic registration system for branches of foreign companies, built by the Economic Information and Documentation Centre, with seven stages, 11 sectors and licences up to five years, before full operation.", "as_of": "2026-11-14", "date_precision": "day", "system": "electronic registration system for branches of foreign companies", "class": "business"}], "systems": [{"system": "Electronic registration system for foreign company branches", "country_label": "Libya", "class": "business", "platform": "online application and tracking portal", "owner": "Ministry of Economy and Trade; built by Economic Information and Documentation Centre", "tiers": ""}], "note": ""}}},
+"civilregister": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document says nothing about civil registration."}}},
+"electoralregister": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document says nothing about a voters' roll."}}},
+"landregister": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document says nothing about land registration."}}},
+"registry": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document says nothing about civil registration offices."}}},
+"socialregistry": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document says nothing about a social registry."}}}
+}}

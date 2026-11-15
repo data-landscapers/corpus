@@ -1,0 +1,43 @@
+{
+ "slug": "2023-11-28-com-innov-lab-fosters-a-thriving-entrepreneurial-ecosystem-in-comoros",
+ "studies": {
+  "startups": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on a startup law or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "We Are Tech reports that Innov'Lab, the UCCIA incubator founded in February 2017, runs pre-incubation, a two-year incubation programme and acceleration, and has incubated over 60 companies.",
+       "as_of": "2023-11-28",
+       "date_precision": "day",
+       "system": "Innov'Lab",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Innov'Lab",
+       "country_label": "Comoros",
+       "class": "hub",
+       "platform": "",
+       "owner": "UCCIA",
+       "tiers": "pre-incubation, incubation, acceleration"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-04-08-zaf-bad-news-for-rural-internet-services-in-south-africa",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No government rural programme or survey split stated; the article is about commercial services."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "MyBroadband says Eutelsat OneWeb is the only approved LEO service operating in South Africa, focused solely on large businesses and enterprises.",
+       "as_of": "2025-04-08",
+       "date_precision": "day",
+       "system": "Eutelsat OneWeb",
+       "class": "satellite"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

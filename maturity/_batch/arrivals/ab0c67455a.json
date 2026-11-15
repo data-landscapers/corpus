@@ -1,0 +1,122 @@
+{
+ "slug": "2026-01-26-mrt-mauritania-launches-tender-for-satellite-communications-licenses",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No e-procurement stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no central bank role."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No consumer protection stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No cross-border payments stated."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural programme or rural/urban figures stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No government payments stated."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a 2023 ITU figure (37.4%), outside the 2024-or-later window."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No account survey stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No retail payments stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No revenue payment stated."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a licence tender and LEO not yet authorised; no licence granted or service on sale stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup policy stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No hubs stated."
+    }
+   }
+  }
+ }
+}

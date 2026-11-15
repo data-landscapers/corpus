@@ -1,0 +1,32 @@
+{
+ "slug": "2023-12-13-lby-eutelsat-oneweb-signs-multi-million-dollar-exclusive-distribution-agre",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural programme or rural/urban survey figures stated."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Eutelsat OneWeb",
+       "country_label": "Libya",
+       "class": "satellite",
+       "platform": "LEO",
+       "owner": "Eutelsat Group",
+       "tiers": ""
+      }
+     ],
+     "note": "Distribution agreement with services due early 2024; no licence or sale stated."
+    }
+   }
+  }
+ }
+}

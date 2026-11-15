@@ -1,0 +1,32 @@
+{
+ "slug": "2025-05-01-ascent-sudan-project-appraisal-worldbank",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a project grievance redress mechanism in the implementer's safeguards system; no public-service feedback channel stated."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a generic reference to compliance with international good practice in the safeguards system; no standards body, adopted standard or mandate."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a mention of stakeholder engagement in the safeguards procedures; no digital law or policy consultation stated."
+    }
+   }
+  }
+ }
+}

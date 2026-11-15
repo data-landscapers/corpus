@@ -1,0 +1,12 @@
+{"slug": "2025-04-09-cpv-startup-jovem-100-garantia", "studies": {
+"businesspayments": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Programme page on youth startup loans; nothing on e-procurement."}}},
+"centralbank": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on consumer protection for digital finance."}}},
+"crossborderpayments": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"retailpayments": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"startups": {"countries": {"CPV": {"facts": [], "systems": [{"system": "Startup Jovem 100% Garantia", "country_label": "Cabo Verde", "class": "other", "platform": "", "owner": "Government of Cabo Verde / Pro Empresa", "tiers": ""}], "note": "A government youth loan programme with a Pro Garante guarantee; no startup act or strategy, no labelling, and no investments named or counted."}}},
+"techhubs": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No hub, incubator or park named."}}}
+}}

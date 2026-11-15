@@ -1,0 +1,63 @@
+{
+ "slug": "2024-06-27-gin-guinee-accord-strategique-historique-entre-le-fdsi-et-l-anies-pour-sou",
+ "studies": {
+  "socialexchange": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "FDSI and ANIES signed a protocol on 27 June 2024 under which FDSI gives ANIES a list of 51,259 indigent households extracted from the RSU database.",
+       "as_of": "2024-06-27",
+       "date_precision": "day",
+       "system": "RSU",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre social unique",
+       "country_label": "Guinée",
+       "class": "social",
+       "platform": "",
+       "owner": "FDSI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "FDSI says the RSU database holds 977,610 households and 4,860,075 individuals as of June 2024.",
+       "as_of": "2024-06-27",
+       "date_precision": "day",
+       "system": "RSU",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre social unique",
+       "country_label": "Guinée",
+       "class": "social",
+       "platform": "",
+       "owner": "FDSI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

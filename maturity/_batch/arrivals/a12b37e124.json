@@ -1,0 +1,10 @@
+{"slug": "2025-01-01-sen-senegal-rights-mapping-and-analysis-platform", "studies": {
+"authentication": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The page states nothing on authentication, e-signature or digital ID services."}}},
+"birthidlink": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The page states nothing on links between the civil register and the ID system."}}},
+"idcoverage": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The page gives no count or share of the population holding a national ID."}}},
+"idfrombirth": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The page states nothing on an ID number given at birth."}}},
+"idmaintenance": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The page states nothing on who operates, maintains or owns the national ID system."}}},
+"idregisters": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The page states nothing on public registers keyed on the national ID number."}}},
+"idrobustness": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The page states nothing on the national ID system itself."}}},
+"refugees": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The page says refugee cards are issued with delays and asylum claims register only in Dakar, but states no number registered or documented and nothing on SIM, mobile money or digital ID access."}}}
+}}

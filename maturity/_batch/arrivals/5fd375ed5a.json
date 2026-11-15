@@ -1,0 +1,43 @@
+{
+ "slug": "2024-04-01-cmr-seminaire-artac-et-smart-africa-sur-le-free-roaming-en-afrique-central",
+ "studies": {
+  "police": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about roaming; states nothing on police records."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Names CEMAC Regulation 04/20-UEAC-CM-35 for the sub-region but does not name Cameroon as signatory or bound."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "ARTAC announces a free-roaming seminar with Smart Africa, held in Yaounde, Cameroon, on 22-23 April 2024 alongside its 9th Conference of Regulators.",
+       "as_of": "2024-04-22",
+       "date_precision": "day",
+       "system": "ARTAC and Smart Africa free roaming seminar",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

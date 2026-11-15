@@ -1,0 +1,59 @@
+{
+ "slug": "2026-11-12-mten-doha-partenariats-numeriques-nigeria-france",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Names a Director General of AI but no government AI system in use."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing stated."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Interconnection with Nigeria only discussed; accords still to be finalised, no agreement or building."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Bilateral talks and ITU candidacy support only; ITU is global, no African body agreement signed."
+    }
+   }
+  }
+ }
+}

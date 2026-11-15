@@ -1,0 +1,62 @@
+{
+ "slug": "2025-10-02-lbr-after-starlink-liberia-now-seeks-amazon-satellite-internet-entry",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural programme or rural/urban survey stated."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a DataReportal figure, which is not used."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "Starlink was granted a one-year provisional licence in Liberia in October 2024, per Ecofin Agency.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "Starlink",
+       "class": "satellite"
+      },
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "Starlink officially entered Liberia in January 2025 with subscriptions at $40-50 a month and equipment at $390, per Ecofin Agency.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Liberia",
+       "class": "satellite",
+       "platform": "low-orbit",
+       "owner": "SpaceX",
+       "tiers": "$40-50 per month"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

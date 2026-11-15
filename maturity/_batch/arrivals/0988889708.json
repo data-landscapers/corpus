@@ -1,0 +1,173 @@
+{
+ "slug": "2025-01-01-moz-integration-of-sis-cove-and-crvs-in-mozambique",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes linking the SIS-COVE community mortality surveillance to the e-SIRCEV civil register in 9 districts, and does not state anything this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes linking the SIS-COVE community mortality surveillance to the e-SIRCEV civil register in 9 districts, and does not state anything this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-SIRCEV",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice",
+       "tiers": ""
+      },
+      {
+       "system": "SIS-COVE",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "DHIS2/OpenHIE",
+       "owner": "National Institute of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "The document describes linking the SIS-COVE community mortality surveillance to the e-SIRCEV civil register in 9 districts, and does not state anything this study asks."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes linking the SIS-COVE community mortality surveillance to the e-SIRCEV civil register in 9 districts, and does not state anything this study asks."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes linking the SIS-COVE community mortality surveillance to the e-SIRCEV civil register in 9 districts, and does not state anything this study asks."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-SIRCEV",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice",
+       "tiers": ""
+      },
+      {
+       "system": "SIS-COVE",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "DHIS2/OpenHIE",
+       "owner": "National Institute of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "The document describes linking the SIS-COVE community mortality surveillance to the e-SIRCEV civil register in 9 districts, and does not state anything this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes linking the SIS-COVE community mortality surveillance to the e-SIRCEV civil register in 9 districts, and does not state anything this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes linking the SIS-COVE community mortality surveillance to the e-SIRCEV civil register in 9 districts, and does not state anything this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes linking the SIS-COVE community mortality surveillance to the e-SIRCEV civil register in 9 districts, and does not state anything this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes linking the SIS-COVE community mortality surveillance to the e-SIRCEV civil register in 9 districts, and does not state anything this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes linking the SIS-COVE community mortality surveillance to the e-SIRCEV civil register in 9 districts, and does not state anything this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes linking the SIS-COVE community mortality surveillance to the e-SIRCEV civil register in 9 districts, and does not state anything this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-SIRCEV",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice",
+       "tiers": ""
+      },
+      {
+       "system": "SIS-COVE",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "DHIS2/OpenHIE",
+       "owner": "National Institute of Health",
+       "tiers": ""
+      }
+     ],
+     "note": "The document describes linking the SIS-COVE community mortality surveillance to the e-SIRCEV civil register in 9 districts, and does not state anything this study asks."
+    }
+   }
+  }
+ }
+}

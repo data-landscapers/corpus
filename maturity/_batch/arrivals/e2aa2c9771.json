@@ -1,0 +1,43 @@
+{
+ "slug": "2024-10-01-gin-allocution-du-chef-de-la-delegation-de-la-republique-de-guinee-75eme-s",
+ "studies": {
+  "idrobustness": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on a national ID system."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on police station records."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "Guinea's government told UNHCR's EXCOM in October 2024 that it counts 2,322 refugees, that new asylum seekers go through refugee status determination, and that digitising and biometric capture of refugee documents is still a challenge.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "refugee status determination",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "2024-05-31-com-comoros-and-central-african-republic-join-smart-africa-trust-alliance",
+ "studies": {
+  "datatransfers": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on rules for sending data abroad."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "TechAfrica News reports the Central African Republic signed the Smart Africa Trust Alliance declaration on 31 May 2024, as the 13th country to join.",
+       "as_of": "2024-05-31",
+       "date_precision": "day",
+       "system": "Smart Africa Trust Alliance",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Trust Alliance",
+       "country_label": "CAF",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "TechAfrica News reports Comoros signed the Smart Africa Trust Alliance declaration on 31 May 2024, as the 14th country to join.",
+       "as_of": "2024-05-31",
+       "date_precision": "day",
+       "system": "Smart Africa Trust Alliance",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Trust Alliance",
+       "country_label": "COM",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

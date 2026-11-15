@@ -1,0 +1,115 @@
+{
+ "slug": "2026-07-02-zwe-zimbabwe-moves-to-criminalise-malicious-ai-generated-deepfakes",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Deepfake criminalisation is a pledge, no draft published."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on government AI use."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on sectoral AI."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI built at home."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a proposed fusion centre; no body, strategy or incident stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a data protection law."
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on data protection law or authority."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on shared infrastructure."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Malabo ratification is only a pledge; nothing signed or ratified stated."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "ITU drill is a global body, not an African body."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The article says Zimbabwe's National Artificial Intelligence Strategy (2026-2030) was launched in March 2026.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "National Artificial Intelligence Strategy (2026-2030)",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

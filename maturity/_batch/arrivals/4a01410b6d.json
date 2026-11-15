@@ -1,0 +1,43 @@
+{
+ "slug": "2024-01-27-stp-ministerio-da-juventude-conta-com-apoio-do-pnud-para-impulsionar-o-emp",
+ "studies": {
+  "startups": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states bears on this study."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Radio Nacional reports that REINA, the Network of Business Incubators and Accelerators created in March 2022 by the youth ministry and UNDP, has served over 700 people through training and support to growing businesses, with no cohort programme described.",
+       "as_of": "2024-01-27",
+       "date_precision": "day",
+       "system": "REINA",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "REINA",
+       "country_label": "Sao Tome and Principe",
+       "class": "hub",
+       "platform": "",
+       "owner": "Ministry of Youth and UNDP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,14 @@
+{"slug":"2024-10-15-cpv-techpark-de-cabo-verde-escolhe-parceiros-para-incubacao-de-startups","studies":{
+"businesspayments":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Nothing on central bank payments role."}}},
+"consumerprotection":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"datacentres":{"countries":{"CPV":{"facts":[],"systems":[{"system":"Techpark de Cabo Verde","country_label":"Cabo Verde","class":"other","platform":"","owner":"","tiers":""}],"note":"Data centres are only a planned component of a park being installed; none stated in service."}}},
+"g2ppayments":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"nationaldatacentres":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No data centre in service or owner stated."}}},
+"paymentsuptake":{"countries":{"CPV":{"facts":[],"systems":[],"note":"No account survey figure."}}},
+"retailpayments":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Nothing on retail payments."}}},
+"revenuecollection":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Nothing on revenue collection."}}},
+"startups":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Digital economy strategy named, but no startup law, strategy or fund stated."}}},
+"techhubs":{"countries":{"CPV":{"facts":[{"sub_indicator":"hub","aspect":"hubs","value":"underway","fact":"Jornal Economico (Lusa) reports Techpark de Cabo Verde launched a tender for private partners to run an incubation programme for 100 startups, within a technology park being installed in Praia.","as_of":"2024-10-15","date_precision":"day","system":"Techpark de Cabo Verde","class":"hub"}],"systems":[{"system":"Techpark de Cabo Verde","country_label":"Cabo Verde","class":"hub","platform":"","owner":"","tiers":""}],"note":""}}}
+}}

@@ -1,0 +1,23 @@
+{
+ "slug": "2025-03-31-nam-eduvision-giga-poog-om-skole-aan-die-internet-te-verbind",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Schools programmes only; no rural/urban survey figures or government rural programme counts."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives all-school connection counts, not the UNESCO secondary-school figure; no compulsory curriculum stated."
+    }
+   }
+  }
+ }
+}

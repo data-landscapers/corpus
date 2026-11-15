@@ -1,0 +1,153 @@
+{
+ "slug": "2025-01-01-rwa-social-protection-project-spp-rwanda-factsheet",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "GIZ says nine government systems are now integrated with the Imibereho Dynamic Social Registry and actively exchanging data.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "Imibereho Dynamic Social Registry",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Imibereho Dynamic Social Registry",
+       "country_label": "Rwanda",
+       "class": "social",
+       "platform": "",
+       "owner": "MINALOC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "GIZ says the government launched the Imibereho Dynamic Social Registry to identify households eligible for social protection programmes, and it is operationalised.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "Imibereho Dynamic Social Registry",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Imibereho Dynamic Social Registry",
+       "country_label": "Rwanda",
+       "class": "social",
+       "platform": "",
+       "owner": "MINALOC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

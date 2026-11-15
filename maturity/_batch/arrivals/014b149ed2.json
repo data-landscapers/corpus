@@ -1,1 +1,23 @@
-{"slug": "2026-04-14-com-un-moment-historique-pour-les-comores-au-rcmrd-nairobi", "studies": {"addressregister": {"countries": {"COM": {"facts": [], "systems": [], "note": "Post covers GIS training and a land information system, not addressing."}}}, "agrisatellite": {"countries": {"COM": {"facts": [], "systems": [], "note": "No farming use of satellite data stated."}}}, "businessregister": {"countries": {"COM": {"facts": [], "systems": [], "note": "Nothing on a business register."}}}, "civilregister": {"countries": {"COM": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}}, "electoralregister": {"countries": {"COM": {"facts": [], "systems": [], "note": "Nothing on a voters' roll."}}}, "metsatellite": {"countries": {"COM": {"facts": [], "systems": [], "note": "Nothing on weather service satellite data."}}}, "populationregister": {"countries": {"COM": {"facts": [], "systems": [{"system": "Système d'Information Foncier", "country_label": "Comoros land information system, in preparation", "class": "other", "platform": "", "owner": "Cellule de Cartographie", "tiers": ""}], "note": "Only a land information system is named, which is not a population register."}}}}}
+{
+ "slug": "2026-04-14-com-un-moment-historique-pour-les-comores-au-rcmrd-nairobi",
+ "studies": {
+  "registry": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Land information system only; nothing on civil or social registers."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Land information system only; nothing on civil or social registers."
+    }
+   }
+  }
+ }
+}

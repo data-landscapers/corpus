@@ -1,0 +1,11 @@
+{"slug":"2026-03-31-ner-point-de-presse-a-la-direction-generale-des-douanes-les-operations-de","studies":{
+"businesspayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"NER":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"customs":{"countries":{"NER":{"facts":[{"sub_indicator":"customs","aspect":"system","value":"inservice","fact":"Niger's customs director general said duty payment receipts are generated automatically in the automated customs system SYDONIA, where users print the payment quittance for goods release.","as_of":"2026-03-30","date_precision":"day","system":"SYDONIA","class":"customs"}],"systems":[{"system":"SYDONIA","country_label":"Niger","class":"customs","platform":"SYDONIA","owner":"Direction Generale des Douanes","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"NER":{"facts":[],"systems":[],"note":"No survey share of adults with accounts."}}},
+"retailpayments":{"countries":{"NER":{"facts":[],"systems":[{"system":"Mynita","country_label":"Niger","class":"other","platform":"","owner":"","tiers":""},{"system":"Amanata","country_label":"Niger","class":"other","platform":"","owner":"","tiers":""}],"note":"Wallets named only as payment channels, no service status stated."}}},
+"revenuecollection":{"countries":{"NER":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"Niger's customs director general announced customs duties and taxes on declarations are paid electronically through SONIBANK counters, payment terminals and ATMs from 1 April 2026, initially at offices where SONIBANK has counters.","as_of":"2026-04-01","date_precision":"day","system":"SONIBANK electronic customs payment","class":"revenue"}],"systems":[{"system":"SONIBANK electronic customs payment","country_label":"Niger","class":"revenue","platform":"SONIBANK","owner":"Direction Generale des Douanes","tiers":""}],"note":""}}}
+}}

@@ -1,0 +1,43 @@
+{
+ "slug": "2024-08-12-gin-la-premiere-cohorte-du-programme-dincubation-dorange-fab-est-lancee",
+ "studies": {
+  "startups": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no startup law, label or public fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Orange states its Orange Fab incubation programme at Orange Digital Center Guinée launched a first cohort of five startups for six months of incubation, with laptops handed over on 9 August 2024.",
+       "as_of": "2024-08-09",
+       "date_precision": "day",
+       "system": "Orange Fab incubation programme",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Fab",
+       "country_label": "Guinea",
+       "class": "hub",
+       "platform": "",
+       "owner": "Orange Digital Center Guinée",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

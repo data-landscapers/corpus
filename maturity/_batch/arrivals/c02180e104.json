@@ -1,0 +1,32 @@
+{
+ "slug": "2024-09-18-stp-pnud-financia-em-90-mil-dolares-programa-empreende-para-projetos-ambie",
+ "studies": {
+  "startups": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Empreende +",
+       "country_label": "STP",
+       "class": "other",
+       "platform": "",
+       "owner": "UNDP with Ministry of Youth and Sport and REINA",
+       "tiers": ""
+      }
+     ],
+     "note": "UNDP-funded competition, not a state startup law or public fund; strategy mention is for entrepreneurship generally."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "REINA is named only as venue and partner; no incubation programme or cohort stated."
+    }
+   }
+  }
+ }
+}

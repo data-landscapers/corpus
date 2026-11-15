@@ -1,0 +1,11 @@
+{"slug": "2025-03-26-cmr-unhcr-applauds-cameroon-s-inclusive-approach-to-displacement-and-calls", "studies": {
+"authentication": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on authentication services."}}},
+"birthidlink": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on a civil register to ID link."}}},
+"disabilityaccess": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Only a national disability card is named, nothing on information or digital access."}}},
+"idcoverage": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No count or share of the population holding a national ID."}}},
+"idfrombirth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on a number given at birth."}}},
+"idmaintenance": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on who operates, maintains or owns the ID system."}}},
+"idregisters": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on public registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on the national ID system's issuance, biometrics or certification."}}},
+"refugees": {"countries": {"CMR": {"facts": [{"sub_indicator": "displaced", "aspect": "registration", "value": "documented", "fact": "UNHCR says a biometric identification programme in Cameroon has already given 25,000 refugees legal identification, and that a February 2025 framework issues identity documents including biometric cards to refugees.", "as_of": "2025-03-26", "date_precision": "day", "system": "biometric identification programme for refugees", "class": "displaced"}], "systems": [{"system": "biometric identification programme for refugees", "country_label": "Cameroon", "class": "displaced", "platform": "", "owner": "Government of Cameroon with UNHCR", "tiers": ""}], "note": ""}}}
+}}

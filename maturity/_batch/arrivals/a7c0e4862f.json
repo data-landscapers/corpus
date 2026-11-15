@@ -1,0 +1,61 @@
+{
+ "slug": "2025-05-19-cog-affaires-sociales-des-menages-vulnerables-recoivent-des-transferts-mon",
+ "studies": {
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "ADIAC reports the PNFS coordinator saying households paid from 19 May 2025 were selected from the social registry database and updated social-map lists for Brazzaville.",
+       "as_of": "2025-05-19",
+       "date_precision": "day",
+       "system": "Registre social unique",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre social unique",
+       "country_label": "Congo",
+       "class": "social",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

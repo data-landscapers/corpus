@@ -1,0 +1,43 @@
+{
+ "slug": "2025-09-12-gab-l-association-pivot-4-0-et-siiag-lancent-la-phase-d-incubation-du-prog",
+ "studies": {
+  "startups": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "No state startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Pivot 4.0 Association and SIIAG launched on 12 September 2025 a nine-month Agri'Futur incubation programme for 10 agritech startups chosen from 110 applicants, each given 500,000 CFA working capital and kits.",
+       "as_of": "2025-09-12",
+       "date_precision": "day",
+       "system": "Agri'Futur incubation programme",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Agri'Futur",
+       "country_label": "Gabon",
+       "class": "hub",
+       "platform": "",
+       "owner": "Pivot 4.0 / SIIAG",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "2024-07-09-lso-lesotho-nsds-ii-funding-strategy",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "preparing",
+       "fact": "Lesotho's Bureau of Statistics says it conducted a workshop on modernizing administrative data for official statistics, financed and supported by the Economic Commission for Africa.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "Modernizing administrative data workshop",
+       "class": "admin"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "preparing",
+       "fact": "The Bureau of Statistics lists pre-2026 population and housing census activities done with UNFPA support: a project document developed and GIS software procured.",
+       "as_of": "2024-07-09",
+       "date_precision": "day",
+       "system": "2026 PHC",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Lists domestic and international private finance only as funding mechanisms, with no amount."
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Says only that the 2001 Statistics Act was reviewed and instructions drafted for the Parliamentary Counsel; no draft bill or force stated."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Bureau of Statistics presents NSDS II for 2022-2026/27, with a funding strategy of 2022.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "NSDS II 2022-2026/27",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

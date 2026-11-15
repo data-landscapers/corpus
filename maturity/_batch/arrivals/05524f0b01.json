@@ -1,0 +1,5 @@
+{"slug": "2024-04-16-stp-afap-fornecimento-e-instalacao-de-equipamentos-e-consumiveis-nas-escol", "studies": {
+"educationexchange": {"countries": {"STP": {"facts": [], "systems": [], "note": "The notice states no data link between education systems."}}},
+"educationmis": {"countries": {"STP": {"facts": [], "systems": [{"system": "SIGE", "country_label": "Sao Tome and Principe", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "A tender for school equipment to access SIGE is not the ministry procuring or building an EMIS."}}},
+"schools": {"countries": {"STP": {"facts": [], "systems": [{"system": "SIGE", "country_label": "Sao Tome and Principe", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "SIGE is given by name only, so it is unclassified."}}}
+}}

@@ -1,0 +1,203 @@
+{
+ "slug": "2026-04-15-lbr-lra-hosts-first-digital-symposium-to-showcase-technology-driving-tax-c",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Liberia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Liberia."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Liberia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Liberia."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Liberia."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Liberia."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Liberia."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for Liberia."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The LRA's Assistant Commissioner for MIS says LITAS lets taxpayers register, file returns, generate payment slips and pay in real time.",
+       "as_of": "2026-04-15",
+       "date_precision": "day",
+       "system": "LITAS",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LITAS",
+       "country_label": "Liberia",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Liberia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The LRA's Assistant Commissioner for MIS says LITAS lets taxpayers register, file returns, generate payment slips and pay in real time.",
+       "as_of": "2026-04-15",
+       "date_precision": "day",
+       "system": "LITAS",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The LRA's Assistant Commissioner for MIS says LITAS lets taxpayers register, file returns, generate payment slips and pay in real time.",
+       "as_of": "2026-04-15",
+       "date_precision": "day",
+       "system": "LITAS",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LITAS",
+       "country_label": "Liberia",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Liberia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "revenue",
+       "value": "inuse",
+       "fact": "The LRA's Assistant Commissioner for MIS says LITAS, the tax administration system, handles registration, filing and real-time payment.",
+       "as_of": "2026-04-15",
+       "date_precision": "day",
+       "system": "LITAS",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LITAS",
+       "country_label": "Liberia",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Liberia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The LRA's Assistant Commissioner for MIS cites the deployment of ASYCUDA for customs operations.",
+       "as_of": "2026-04-15",
+       "date_precision": "day",
+       "system": "ASYCUDA",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASYCUDA",
+       "country_label": "Liberia",
+       "class": "customs",
+       "platform": "",
+       "owner": "Liberia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

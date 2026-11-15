@@ -1,0 +1,77 @@
+{
+ "slug": "2026-11-13-sle-raic-ifd-mou-sabi-salone-access-to-information",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only mentions RAIC's unspecified legal mandate; no law, rules or application stated."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI harm rules or authority."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Sabi Salone is run by a non-government institute; no government body stated using AI in service."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "No sector system using AI stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Sabi Salone is an AI platform by a private institute, with no model, dataset or compute stated as built or hosted."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "MoU on proactive disclosure is not an open data policy."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "No dataset publication by a public body for download stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "No named digital law or policy consultation stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "slug": "2025-11-12-zmb-infratel-unza-launches-new-innovation-hub-to-power-digital-future-and",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zambia."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zambia."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zambia."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zambia."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zambia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zambia."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zambia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zambia."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zambia."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zambia."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zambia."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zambia."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zambia."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The University of Zambia and INFRATEL officially launched the UNZA-INFRATEL iHub, which is to offer incubation, acceleration and seed funding, with no programme cohort named.",
+       "as_of": "2025-11-12",
+       "date_precision": "day",
+       "system": "UNZA-INFRATEL Innovation Hub (iHub)",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNZA-INFRATEL Innovation Hub (iHub)",
+       "country_label": "Zambia",
+       "class": "hub",
+       "platform": "",
+       "owner": "University of Zambia and INFRATEL",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

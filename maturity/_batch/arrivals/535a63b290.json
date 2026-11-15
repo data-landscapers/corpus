@@ -1,0 +1,14 @@
+{"slug": "2024-02-07-zmb-zra-adopts-advanced-technology-system-in-income-collection", "studies": {
+"businesspayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document is about tax payment, not e-procurement."}}},
+"centralbank": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "States nothing on the central bank's mandate, licensing, switch or PAPSS."}}},
+"consumerprotection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "States nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "States nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Payments to government only, no G2P."}}},
+"paymentsuptake": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No adult account survey figure."}}},
+"retailpayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Tax payment channels only; no retail wallet service or interoperability stated."}}},
+"revenuecollection": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "ZRA says it has digitalised its payment processes, with about 99 percent of payments performed electronically, through platforms including TaxOnApp, TaxOnPhone, TaxOnline Portal and WhatsApp Payment.", "as_of": "2024-02", "date_precision": "month", "system": "Integrated Payment System", "class": "revenue"},
+{"sub_indicator": "revenue", "aspect": "main", "value": "main", "fact": "ZRA says that in December 2023 it implemented the Integrated Payment System, introducing customs payments on mobile platforms alongside its tax payment platforms.", "as_of": "2023-12", "date_precision": "month", "system": "Integrated Payment System", "class": "revenue"},
+{"sub_indicator": "revenue", "aspect": "reported", "value": "reported", "fact": "ZRA's Oliver Nzala says about 99 percent of payments were performed electronically, and electronic adoption reached 80 percent after working with all banks and three mobile network providers by 2020.", "as_of": "2024-02", "date_precision": "month", "system": "ZRA electronic payments", "class": "revenue"}
+], "systems": [{"system": "Integrated Payment System", "country_label": "Zambia", "class": "revenue", "platform": "TaxOnApp, TaxOnPhone, Customs Portal, TaxOnline Portal, WhatsApp Payment", "owner": "Zambia Revenue Authority", "tiers": ""}], "note": ""}}}
+}}

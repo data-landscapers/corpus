@@ -1,0 +1,25 @@
+{
+ "slug": "2025-09-06-cog-electricite-rurale-les-partenaires-techniques-et-financiers-invites-a",
+ "studies": {
+  "ruralelectrification": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "rural",
+       "aspect": "access",
+       "value": "official:1",
+       "fact": "The energy minister said the access rate based on E2C's 494,313 low-voltage subscriber policies is 1% in rural areas, and no more than 10% even counting clandestine connections.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "E2C subscriber file",
+       "class": "ruralpower"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{"slug": "2025-10-29-tgo-grit-lome-fait-vibrer-la-tech-africaine", "studies": {
+"addressregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The document says nothing about addressing."}}},
+"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated; the AI strategy's ethical governance axis is a plan."}}},
+"aigovernment": {"countries": {"TGO": {"facts": [], "systems": [], "note": "A panel title on AI in public services is named, but no government AI system is stated."}}},
+"aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aistrategy": {"countries": {"TGO": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Minister Cina Lawson said Togo is finalising its national AI strategy, built on six axes including skills, infrastructure, a sovereign dataset, sectoral adoption, applied research and ethical governance.", "as_of": "2025-10-29", "date_precision": "day", "system": "National AI Strategy", "class": "strategy"}], "systems": [{"system": "National AI Strategy", "country_label": "Togo", "class": "strategy", "platform": "", "owner": "Ministry of Public Service Efficiency and Digital Transformation", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"TGO": {"facts": [], "systems": [{"system": "Togo Data Lab", "country_label": "Togo", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Togo Data Lab is named as a skills partnership with Berkeley, and the sovereign dataset is a strategy axis, with no model, dataset or compute stated as built."}}},
+"businessregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The national startup registry is a planned Startup Act component, not the business register."}}},
+"civilregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The document says nothing about civil registration."}}},
+"electoralregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The document says nothing about the voters' roll."}}},
+"landregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The document says nothing about land registration."}}},
+"populationregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The document says nothing about a population register."}}},
+"socialregistry": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The document says nothing about a social registry."}}},
+"startups": {"countries": {"TGO": {"facts": [{"sub_indicator": "startuppolicy", "aspect": "law", "value": "draft", "fact": "Minister Cina Lawson described the Togolese Startup Act as currently being adopted, with a national promotion programme, regulatory sandboxes, official incubator labels, a support fund for labelled firms (FSEL) and a national startup registry.", "as_of": "2025-10-29", "date_precision": "day", "system": "Togolese Startup Act", "class": "startuppolicy"}], "systems": [{"system": "Togolese Startup Act", "country_label": "Togo", "class": "startuppolicy", "platform": "", "owner": "Ministry of Public Service Efficiency and Digital Transformation", "tiers": ""}], "note": ""}}},
+"taxregister": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The document says nothing about a taxpayer register."}}},
+"techhubs": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The GRIT event and an ambition to be a tech hub are stated, but no hub, incubator or park is described as operating."}}}
+}}

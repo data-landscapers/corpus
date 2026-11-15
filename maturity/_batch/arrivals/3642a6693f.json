@@ -1,0 +1,23 @@
+{
+ "slug": "2025-02-26-bwa-govt-commits-to-renewable-energy",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Electricity programme only; nothing on internet access."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives 25 per cent of rural communities on the grid, not the share of rural people with electricity."
+    }
+   }
+  }
+ }
+}

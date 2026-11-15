@@ -1,0 +1,14 @@
+{"slug": "2025-08-27-com-comores-vers-une-interoperabilite-complete-des-transactions-financiere", "studies": {
+"businesspayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention e-procurement."}}},
+"centralbank": {"countries": {"COM": {"facts": [], "systems": [{"system": "National Payment Switch", "country_label": "Comoros", "class": "oversight", "platform": "PayLogic", "owner": "", "tiers": ""}], "note": "Switch is announced by PayLogic; document does not say the central bank runs or oversees it or licenses providers."}}},
+"consumerprotection": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention consumer protection rules or redress."}}},
+"crossborderpayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Diaspora transfers are mentioned with no named corridor or regional system."}}},
+"g2ppayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention government payments to people."}}},
+"internetusage": {"countries": {"COM": {"facts": [], "systems": [], "note": "35.7% internet penetration is an unattributed early-2025 figure of the DataReportal kind, not a survey or ITU estimate."}}},
+"paymentsuptake": {"countries": {"COM": {"facts": [], "systems": [], "note": "Only a 50% banked target for end-2025 is given, no survey figure."}}},
+"retailpayments": {"countries": {"COM": {"facts": [
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "PayLogic announced on 25 August 2025 that the Comoros National Payment Switch is in service, providing interoperability between banks, microfinance institutions and mobile money operators.", "as_of": "2025-08-25", "date_precision": "day", "system": "National Payment Switch", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "PayLogic says the national payment switch, now operational, handles real-time transfers, merchant payments and diaspora remittances across banks, microfinance institutions and mobile money operators.", "as_of": "2025-08-25", "date_precision": "day", "system": "National Payment Switch", "class": "retail"}
+], "systems": [{"system": "National Payment Switch", "country_label": "Comoros", "class": "retail", "platform": "PayLogic", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document does not mention tax or fee payment."}}}
+}}

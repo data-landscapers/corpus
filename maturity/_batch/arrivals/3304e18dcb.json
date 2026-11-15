@@ -1,0 +1,11 @@
+{"slug":"2025-02-10-mli-atelier-de-validation-du-rapport-d-evaluation-du-3eme-schema-directeur","studies":{
+"aiabuse":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Document does not mention AI harms rules or authority."}}},
+"aigovernment":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Only a recommendation to consider AI for data users; no government AI use stated."}}},
+"aisectoral":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No sectoral AI tool stated."}}},
+"aisystems":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No AI model, dataset or computing stated."}}},
+"localgov":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Nothing on local government office connection."}}},
+"publicconsultation":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Statistics workshop, not a digital law or policy; no named outside participant."}}},
+"statisticsstrategy":{"countries":{"MLI":{"facts":[
+{"sub_indicator":"strategy","aspect":"evaluation","value":"evaluated","fact":"INSTAT reports that two specialised commissions of the National Statistics Council validated the final evaluation report of the third Schema Directeur de la Statistique (SDS 2020-2024) on 6-7 February 2025.","as_of":"2025-02-07","date_precision":"day","system":"SDS 2020-2024","class":"strategy"},
+{"sub_indicator":"strategy","aspect":"standing","value":"preparing","fact":"INSTAT's Director General asked statistical bodies to list their activities and indicators in prelude to drawing up the action plan of the SDS 2025-2029.","as_of":"2025-02-10","date_precision":"day","system":"SDS 2025-2029","class":"strategy"}],
+"systems":[{"system":"SDS 2020-2024","country_label":"SDS 2020-2024","class":"strategy","platform":"","owner":"INSTAT","tiers":""}],"note":""}}}}}

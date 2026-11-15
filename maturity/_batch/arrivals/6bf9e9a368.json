@@ -1,0 +1,43 @@
+{
+ "slug": "2026-05-06-cog-programme-yasika-pour-soutenir-lentrepreneuriat-congolais-eni-au-cur-d",
+ "studies": {
+  "startups": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Corporate programme; no public startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Eni Joule's Yasika second edition, launched in Brazzaville, runs an incubation programme for 13 selected startups plus a 22-person upskilling track, per Eni.",
+       "as_of": "2026-05-06",
+       "date_precision": "day",
+       "system": "Yasika",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Yasika",
+       "country_label": "Congo",
+       "class": "hub",
+       "platform": "",
+       "owner": "Eni Joule",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

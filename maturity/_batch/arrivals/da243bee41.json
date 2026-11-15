@@ -1,0 +1,124 @@
+{
+ "slug": "2024-02-06-ago-over-one-million-vulnerable-families-registered-with-siips",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Local Development Institute's director said 1,485,532 vulnerable households in 87 municipalities were registered in SIIPS under the Kwenda programme, with 1,029,393 already receiving monetary transfers.",
+       "as_of": "2024-02-06",
+       "date_precision": "day",
+       "system": "SIIPS",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIIPS (Integrated Social Protection Information System)",
+       "country_label": "Angola",
+       "class": "socialmis",
+       "platform": "",
+       "owner": "Local Development Institute (FAS)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

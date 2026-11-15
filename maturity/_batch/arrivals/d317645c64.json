@@ -1,0 +1,25 @@
+{
+ "slug": "2025-02-07-stp-pagamento-via-transferencia-bancaria",
+ "studies": {
+  "revenuecollection": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Direcção dos Impostos says taxes can now be paid by bank transfer, with the form and proof of payment exchanged by email.",
+       "as_of": "2025-02-07",
+       "date_precision": "day",
+       "system": "Pagamento via transferência bancária",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug":"2026-11-13-dji-adi-corridor-djibouti-ethiopie-paiement-mobile-numero-vert","studies":{
+"businesspayments":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"DJI":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"DJI":{"facts":[],"systems":[{"system":"5151 hotline (DPCR SA, via La Poste de Djibouti call centre)","country_label":"Djibouti","class":"other","platform":"call centre","owner":"DPCR SA","tiers":""}],"note":"Hotline is a road company's own customer service, not a financial regulator's complaints body."}}},
+"crossborderpayments":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Road-fee payment is not a cross-border digital payment channel."}}},
+"g2ppayments":{"countries":{"DJI":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"DJI":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"DJI":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"DPCR SA announced that the road-use fee on the Djibouti-Ethiopia corridor is now paid by Mobile Money, with cash no longer accepted at collection points.","as_of":"2026-11-13","date_precision":"day","system":"Mobile Money","class":"retail"}],"systems":[{"system":"Mobile Money","country_label":"Djibouti","class":"retail","platform":"","owner":"","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"DJI":{"facts":[],"systems":[{"system":"DPCR SA road-use fee payment by Mobile Money","country_label":"Djibouti","class":"other","platform":"Mobile Money","owner":"DPCR SA","tiers":""}],"note":"Fee is collected by a corridor company; document does not say it is a state tax or fee."}}}
+}}

@@ -1,0 +1,77 @@
+{
+ "slug": "2024-10-01-gin-guinea-submission-by-the-united-nations-high-commissioner-for-refugees",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for GIN."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for GIN."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for GIN."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for GIN."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for GIN."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for GIN."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for GIN."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a 2018 law providing biometric refugee ID cards with no implementing decree; no registration with documents issued is stated."
+    }
+   }
+  }
+ }
+}

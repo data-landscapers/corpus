@@ -1,0 +1,201 @@
+{
+ "slug": "2026-11-11-nga-cbn-faq-data-localisation-circular",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "cloudstrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "The CBN FAQ says that on survey evidence there is currently sufficient local data centre and cloud capacity for a significant proportion of financial-sector workloads, over 75% of data centres being in Lagos.",
+       "as_of": "2026-11-11",
+       "date_precision": "day",
+       "system": "Nigerian data centres",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Central Bank of Nigeria's FAQ says its 15 June 2026 circular requires regulated institutions' payment transaction data, including backups and disaster-recovery sites, to be stored and managed in Nigeria, with the 1 January 2027 implementation date in force.",
+       "as_of": "2026-06-15",
+       "date_precision": "day",
+       "system": "CBN data localisation circular of 15 June 2026",
+       "class": "rule"
+      },
+      {
+       "sub_indicator": "rule",
+       "aspect": "use",
+       "value": "enforcer",
+       "fact": "The CBN, which issued the circular for the institutions it regulates, says compliance is a regulatory requirement with no automatic grace period and a strict enforcement framework.",
+       "as_of": "2026-11-11",
+       "date_precision": "day",
+       "system": "CBN data localisation circular of 15 June 2026",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "The CBN FAQ says multiple subsea cables land on the shores of Lagos, giving Nigeria massive international bandwidth.",
+       "as_of": "2026-11-11",
+       "date_precision": "day",
+       "system": "Subsea cables landing at Lagos",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  }
+ }
+}

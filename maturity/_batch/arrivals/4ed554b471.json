@@ -1,0 +1,239 @@
+{
+ "slug": "2025-01-01-egy-financial-digitization",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The CBE launched the Instant Payment Network in March 2022, linking all banks in Egypt via an interoperability system open to fintechs.",
+       "as_of": "2022-03",
+       "date_precision": "month",
+       "system": "Instant Payment Network (IPN)",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Instant Payment Network (IPN)",
+       "country_label": "Central Bank of Egypt",
+       "class": "other",
+       "platform": "",
+       "owner": "Central Bank of Egypt",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "In June 2024 the CBE began piloting instant receipt of inbound remittances into Egyptian bank accounts through the IPN, with several local banks licensed to provide it.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "IPN inbound remittances",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The CBE says at least 29 e-wallets operate in the Egyptian market, backed by 21 local banks and four mobile network operators.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "e-wallets",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The CBE's IPN links all banks in Egypt, and InstaPay enables direct transfers between users' bank accounts or the Meeza card.",
+       "as_of": "2022-03",
+       "date_precision": "month",
+       "system": "InstaPay / IPN",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "In September 2024 EG Bank launched the MINT fintech accelerator, backed by USAID's Business Egypt Program, to support fintech startups with funding, training and mentorship.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "MINT fintech accelerator",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

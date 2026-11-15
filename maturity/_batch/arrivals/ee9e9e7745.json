@@ -1,0 +1,12 @@
+{"slug":"2026-03-03-lbr-lta-pledges-lasting-impact-as-imei-consultations-continue-in-grand-bas","studies":{
+"businesspayments":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document states nothing on a central bank role."}}},
+"consumerprotection":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document is about IMEI regulations, not digital financial services protection."}}},
+"crossborderpayments":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document states nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document states nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"LBR":{"facts":[],"systems":[],"note":"No survey account share given."}}},
+"publicconsultation":{"countries":{"LBR":{"facts":[{"sub_indicator":"consultation","aspect":"hearing","value":"held","fact":"The Liberia Telecommunications Authority was holding a two-day public consultation in Grand Bassa County with mobile phone owners and equipment users on its proposed IMEI Regulations.","as_of":"2026-03-03","date_precision":"day","system":"IMEI Regulations consultation","class":"consultation"}],"systems":[],"note":""}}},
+"retailpayments":{"countries":{"LBR":{"facts":[{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"LTA Commissioner Ben Fofana pointed to the interoperability of mobile money services between Orange Liberia and Lonestar Cell MTN as a significant step.","as_of":"2026-03-03","date_precision":"day","system":"mobile money interoperability","class":"retail"}],"systems":[{"system":"mobile money interoperability","country_label":"Liberia","class":"retail","platform":"","owner":"Orange Liberia; Lonestar Cell MTN","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document states nothing on revenue payment."}}},
+"satellitebroadband":{"countries":{"LBR":{"facts":[{"sub_indicator":"satellite","aspect":"service","value":"licensed","fact":"LTA Commissioner Ben Fofana said Starlink holds a one-year provisional licence which LTA plans to convert to a full operational licence in the coming months.","as_of":"2026-03-03","date_precision":"day","system":"Starlink","class":"satellite"}],"systems":[{"system":"Starlink","country_label":"Liberia","class":"satellite","platform":"","owner":"Starlink","tiers":""}],"note":""}}}
+}}

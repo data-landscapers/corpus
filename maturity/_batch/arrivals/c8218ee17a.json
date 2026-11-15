@@ -1,0 +1,70 @@
+{
+ "slug": "2026-01-17-mdg-madagascar-registre-social-unique-pres-de-deux-millions-de-menages-ins",
+ "studies": {
+  "g2ppayments": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "Madagascar's Registre Social Unique held 1,820,920 households in 23 regions, 114 districts and 1,046 communes at 31 December 2025, per allAfrica.",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "Registre Social Unique (RSU)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre Social Unique (RSU)",
+       "country_label": "Madagascar",
+       "class": "social",
+       "platform": "",
+       "owner": "Minist\u00e8re de la Population et des Solidarit\u00e9s",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

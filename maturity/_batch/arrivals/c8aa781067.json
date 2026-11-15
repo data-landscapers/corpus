@@ -1,0 +1,10 @@
+{"slug":"2025-04-03-xaf-smart-africa-steering-committee-convenes-in-kigali-and-endorses-the-es","studies":{
+"aiabuse":{"countries":{"RWA":{"facts":[],"systems":[],"note":"Document names no rule or authority on AI harms for Rwanda; the Africa AI Council is continental and only endorsed in principle."}}},
+"aigovernment":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No government AI use in Rwanda stated."}}},
+"aisectoral":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No sectoral AI tool in Rwanda stated."}}},
+"aistrategy":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No Rwandan national AI strategy stated; the Africa AI Council is a continental body."}}},
+"aisystems":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No AI model, dataset or computing in Rwanda stated."}}},
+"digitalstrategy":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No Rwandan national digital strategy stated."}}},
+"regionalpolicy":{"countries":{"RWA":{"facts":[{"sub_indicator":"cooperation","aspect":"part","value":"active","fact":"Smart Africa says its 20th Steering Committee Meeting was held in Kigali, Rwanda, on 2 April 2025, co-chaired by the ITU Secretary and the African Union Commissioner for energy and infrastructure.","as_of":"2025-04-02","date_precision":"day","system":"Smart Africa Steering Committee","class":"cooperation"}],"systems":[{"system":"Smart Africa","country_label":"Rwanda","class":"cooperation","platform":"","owner":"Smart Africa Alliance","tiers":""}],"note":""}}},
+"schoolinternet":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No school internet figure or curriculum statement for Rwanda; the bulk purchase initiative is a connectivity programme."}}}
+}}

@@ -1,0 +1,32 @@
+{
+ "slug": "2024-10-10-lby-alsabaah-unified-social-registry-higher-committee",
+ "studies": {
+  "socialexchange": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "No data link stated."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Unified Social Registry",
+       "country_label": "Libya",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry of Social Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Higher committee only tasked a team to draft the final project document; a plan, nothing built."
+    }
+   }
+  }
+ }
+}

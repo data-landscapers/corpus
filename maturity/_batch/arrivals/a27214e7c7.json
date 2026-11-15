@@ -1,0 +1,59 @@
+{
+ "slug": "2025-01-10-mar-bientot-une-solution-numerique-pour-les-avis-de-naissance",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The link described is health facilities to the civil register, not civil register to the ID system."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Système numérique central de l'état civil",
+       "country_label": "Maroc",
+       "class": "civil",
+       "platform": "",
+       "owner": "civil status",
+       "tiers": ""
+      }
+     ],
+     "note": "Central digital civil register named but no rollout or events in service stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Birth pre-declaration and birth notice information system",
+       "country_label": "Maroc",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health and Social Protection with UNICEF",
+       "tiers": ""
+      }
+     ],
+     "note": "The health system only notifies the civil register, which is notification, not assessed."
+    }
+   }
+  }
+ }
+}

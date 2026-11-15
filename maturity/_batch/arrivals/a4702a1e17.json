@@ -1,0 +1,79 @@
+{
+ "slug": "2024-03-28-cod-la-rdc-dotee-du-systeme-d-information-de-gestion-du-registre-social-un",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a forthcoming personal data sharing protocol is mentioned; no law stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No payments stated."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned partnership agreement and data sharing protocol; no exchange stated."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "RSU MIS",
+       "country_label": "DRC",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Social Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "The MIS described is the social registry's, not a programme MIS."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "ACP reports UNICEF formally handed the management information system of the Registre social unique to the Ministry of Social Affairs, with the minister calling it a step towards institutionalising the registry.",
+       "as_of": "2024-03-28",
+       "date_precision": "day",
+       "system": "Registre social unique (RSU)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre social unique (RSU)",
+       "country_label": "DRC",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry of Social Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

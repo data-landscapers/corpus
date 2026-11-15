@@ -1,0 +1,12 @@
+{"slug": "2026-03-20-rwa-african-startups-are-over-mentored-over-trained-rwanda-wants-to-fix-th", "studies": {
+"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only a public procurement regulation for innovation is mentioned, no e-procurement system."}}},
+"centralbank": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document does not mention the central bank or payments."}}},
+"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document does not mention consumer protection."}}},
+"crossborderpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document does not mention cross-border payments."}}},
+"g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document does not mention government payments to people."}}},
+"paymentsuptake": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document gives no account-ownership survey."}}},
+"retailpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document does not mention retail payments."}}},
+"revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document does not mention revenue collection."}}},
+"startups": {"countries": {"RWA": {"facts": [], "systems": [{"system": "Innovate Rwanda", "country_label": "Rwanda", "class": "other", "platform": "digital platform", "owner": "MINICT", "tiers": ""}], "note": "Only a startup directory platform, a grant programme and an innovation procurement regulation are described; no startup act or strategy, labelling or fund under one."}}},
+"techhubs": {"countries": {"RWA": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "MINICT's Esther Kunda says the ministry is building innovation hubs outside Kigali to support innovators outside the capital.", "as_of": "2026-03-20", "date_precision": "day", "system": "innovation hubs outside Kigali", "class": "hub"}], "systems": [], "note": ""}}}
+}}

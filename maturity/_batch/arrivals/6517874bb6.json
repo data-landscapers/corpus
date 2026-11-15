@@ -1,0 +1,12 @@
+{"slug":"2025-12-02-cmr-cameroon-enovation-factory-partners-with-undp-to-support-local-startup","studies":{
+"businesspayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on central bank payments role."}}},
+"consumerprotection":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on government payments."}}},
+"paymentsuptake":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document gives no account-ownership survey figure."}}},
+"retailpayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on retail payments."}}},
+"revenuecollection":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on revenue collection."}}},
+"startups":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Programme is a private incubator with UNDP; no state startup law, strategy or public fund stated."}}},
+"techhubs":{"countries":{"CMR":{"facts":[{"sub_indicator":"hub","aspect":"hubs","value":"inservice","fact":"Enovation Factory, a Cameroon-based incubator and accelerator, with UNDP Cameroon launched Scale 32, a 14-month programme of training, mentorship and workspace for 32 tech startups in two 2026 cohorts, with 12 months of alumni support.","as_of":"2025-12-02","date_precision":"day","system":"Enovation Factory","class":"hub"}],"systems":[{"system":"Enovation Factory","country_label":"Cameroon","class":"hub","platform":"","owner":"Enovation Factory","tiers":"Newbie and Cracker streams"}],"note":""}}}
+}}

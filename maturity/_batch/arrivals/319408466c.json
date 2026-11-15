@@ -1,0 +1,13 @@
+{"slug": "2025-11-21-mar-fonds-startups-un-mecanisme-inedit-pour-booster-l-innovation", "studies": {
+"businesspayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document concerns a startup fund mechanism, nothing on e-procurement."}}},
+"centralbank": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on central bank payments mandate, switch or PAPSS."}}},
+"consumerprotection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on consumer protection for digital finance."}}},
+"crossborderpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"nonstatefinance": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Fund managers only preselected and amount is a projection including state contributions; no signed private amount to a digital business."}}},
+"paymentsuptake": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"retailpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on retail digital payments."}}},
+"revenuecollection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}},
+"startups": {"countries": {"MAR": {"facts": [], "systems": [{"system": "dispositif catalytique de soutien aux fonds startups", "country_label": "Maroc", "class": "other", "platform": "", "owner": "Ministry of Digital Transition with FM6I, CDG and TAMWILCOM", "tiers": ""}], "note": "Convention signed 2025-11-21 and nine managers preselected, but no fund is stated to have financed startups, and no startup act or strategy adoption or labelling is stated."}}},
+"techhubs": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on hubs, incubators or technology parks."}}}
+}}

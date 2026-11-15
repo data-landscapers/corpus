@@ -1,0 +1,10 @@
+{"slug": "2024-06-01-som-somalia-egriss", "studies": {
+"birthidlink": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document does not mention a link between civil register and ID system."}}},
+"censuses": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Mentions only an intention to include IDPs in MICS-7 and survey inclusion in general; no census or published survey stated."}}},
+"civilregister": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Only a passing mention of use of civil registration data; no digital register stated."}}},
+"idfrombirth": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document does not mention a number at birth."}}},
+"publicconsultation": {"countries": {"SOM": {"facts": [], "systems": [], "note": "A validation workshop is mentioned with no outside-government participant named; no consultation on a digital law or policy stated."}}},
+"refugees": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Only IDP statistics planning; no registration, documents or digital access stated."}}},
+"registry": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document does not describe local civil registration offices."}}},
+"statisticsstrategy": {"countries": {"SOM": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "preparing", "fact": "EGRISS states Somalia's NSDSII, covering 2024-2029, was validated in October 2023.", "as_of": "2023-10", "date_precision": "month", "system": "NSDSII 2024-2029", "class": "strategy"}], "systems": [{"system": "NSDSII 2024-2029", "country_label": "NSDSII 2024-2029", "class": "strategy", "platform": "", "owner": "Somalia National Bureau of Statistics", "tiers": ""}], "note": ""}}}
+}}

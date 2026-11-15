@@ -1,0 +1,137 @@
+{
+ "slug": "2024-10-23-cod-modalites-dutilisation-des-canaux-digitaux-dans-le-processus-de-paieme",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says digital collection must follow Central Bank of Congo instructions; no licensing or switch stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The article says that under the law on the national payment system only banks may remit digitally collected sums to the Treasury general account through the national payment system.",
+       "as_of": "2024-10-23",
+       "date_precision": "day",
+       "system": "Loi sur le systeme national de paiement",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The circular has taxpayers pay public revenue from e-money wallets run by e-money institutions, which transfer the sum instantly to a payment bank.",
+       "as_of": "2024-01-18",
+       "date_precision": "day",
+       "system": "E-money institution wallets",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Ministerial Circular No. 001 of 18 January 2024 lets banks and e-money institutions collect central-government taxes, duties and fees through digital channels, with banks remitting to the Treasury within 24 hours via the ISYS-Regies software, for DGI, DGDA and DGRAD.",
+       "as_of": "2024-01-18",
+       "date_precision": "day",
+       "system": "Circulaire ministerielle N°001 digital collection (ISYS-Regies)",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

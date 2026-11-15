@@ -1,0 +1,11 @@
+{"slug": "2026-01-01-mli-operational-update-unhcr-mali-oct-nov-dec-2025", "studies": {
+"birthidlink": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document states nothing on a link between the civil register and the ID system."}}},
+"civilregister": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document states nothing on a digital civil register; it only mentions civil registry actors at an statelessness workshop."}}},
+"idfrombirth": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document states nothing on an ID number given at birth."}}},
+"idrobustness": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document states nothing on a national ID system."}}},
+"opendatause": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document states nothing on public bodies publishing downloadable data; the UNHCR operational data portal is an international body's."}}},
+"refugees": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "UNHCR states that 13,628 refugees were registered with biometric data collected by the national refugee commission (CNCR) with UNHCR support in October-December 2025, and that 10,345 refugees in Mali remain unregistered, out of 276,698 (government, CNCR).", "as_of": "2025-12", "date_precision": "month", "system": "CNCR and UNHCR biometric refugee registration", "class": "displaced"}
+], "systems": [{"system": "CNCR and UNHCR biometric refugee registration", "country_label": "Mali", "class": "displaced", "platform": "", "owner": "Commission nationale chargee des refugies (CNCR) with UNHCR", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document states nothing on how local civil registration offices record births or deaths."}}}
+}}

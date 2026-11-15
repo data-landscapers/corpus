@@ -1,0 +1,10 @@
+{"slug": "2026-09-24-dza-algeria-s-djezzy-moves-into-electronic-payments-market", "studies": {
+"businesspayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"DZA": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "Ecofin Agency reports the Bank of Algeria authorized Djezzy Payment Services to incorporate as a payment service provider on 23 September 2026, with a licence still required before operating, under Regulation No. 25-02 of April 2025 setting incorporation, licensing and operating requirements.", "as_of": "2026-09-23", "date_precision": "day", "system": "Payment service provider regime (Regulation No. 25-02)", "class": "oversight"}], "systems": [{"system": "Djezzy Payment Services", "country_label": "Algeria", "class": "other", "platform": "", "owner": "Optimum Telecom Algerie", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states no consumer-protection rules or complaints body."}}},
+"crossborderpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Transaction and merchant counts only; no survey of adults with accounts."}}},
+"retailpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Online and terminal card payment figures only; no mobile money or e-money service in service is stated, Djezzy PSP not yet licensed."}}},
+"revenuecollection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states nothing on tax or fee payment."}}}
+}}

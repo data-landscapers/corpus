@@ -1,0 +1,8 @@
+{"slug":"2026-06-01-mli-the-journey-to-maliren-connectivity","studies":{
+"aisystems":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Mentions HPC equipment contributions and a MaliREN data center only as slide captions, with no AI model, dataset or AI computing stated."}}},
+"datacentres":{"countries":{"MLI":{"facts":[],"systems":[{"system":"MaliREN Data Center","country_label":"MaliREN Data Center","class":"other","platform":"","owner":"MaliREN","tiers":""}],"note":"A MaliREN data center is shown as a caption only; no statement that it rents to others or its Tier."}}},
+"fibrebackbone":{"countries":{"MLI":{"facts":[],"systems":[],"note":"The 2016 backbone vision connecting seven regions is described as stalled ('elusive'); no contract, works or service stated."}}},
+"itcapacity":{"countries":{"MLI":{"facts":[],"systems":[],"note":"Document is about the research network and states nothing on government technical staff running systems."}}},
+"nationaldatacentres":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No nationally owned data centre for hire is stated."}}},
+"stemgraduates":{"countries":{"MLI":{"facts":[{"sub_indicator":"graduates","aspect":"nren","value":"service","fact":"MaliREN, in its June 2026 deck, says the national research and education network has 16 members including several universities and that the 'network in place' needs upgrades.","as_of":"2026-06","date_precision":"month","system":"MaliREN","class":"stemgraduates"}],"systems":[{"system":"MaliREN","country_label":"MaliREN","class":"stemgraduates","platform":"","owner":"MaliREN (non-profit, created June 2012)","tiers":""}],"note":""}}}
+}}

@@ -1,0 +1,82 @@
+{
+ "slug": "2026-10-01-dza-paiement-des-impots-en-ligne-en-algerie-ce-que-le-guide-jibayatic-de-l",
+ "studies": {
+  "revenuecollection": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The DGI guide says any tax, duty or levy declared online on the Jibaya'tic portal can be paid online by bank transfer or CIB/Edahabia card.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Jibaya'tic",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Jibaya'tic",
+       "country_label": "Algeria",
+       "class": "revenue",
+       "platform": "web portal",
+       "owner": "DGI",
+       "tiers": "DGE mandatory; CDI, CPI, inspections voluntary"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on school internet or curriculum."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The DGI guide says taxes, duties and levies declared online on the Jibaya'tic portal can be paid online.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Jibaya'tic",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The DGI guide says online payment via Jibaya'tic by bank transfer or CIB/Edahabia card is available for declared obligations.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Jibaya'tic",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no taxpayer register."
+    }
+   }
+  }
+ }
+}

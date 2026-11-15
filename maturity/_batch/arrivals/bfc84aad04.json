@@ -1,0 +1,43 @@
+{
+ "slug": "2024-03-12-bfa-burkina-registre-social-unique-le-secretariat-technique-dresse-le-bila",
+ "studies": {
+  "socialexchange": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document describes rural pilot enrolment into the RSU, no link to another system."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "The RSU secretariat says the rural pilot in Centre-Ouest and Centre-Est enrolled 143,000 households (about 900,000 people) into the RSU database against 210,440 planned, with scale-up still to come.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "Registre social unique",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre social unique",
+       "country_label": "Burkina Faso",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry in charge of humanitarian action",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

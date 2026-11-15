@@ -1,0 +1,116 @@
+{
+ "slug": "2026-03-16-gha-refugee-registration-exercise-expands-to-western-and-volta-regions",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "IMS, with the NIA, Ghana Refugee Board and UNHCR, expanded the refugee national ID registration exercise to the Western and Volta regions, after a 2023 rollout in Greater Accra; no number registered is stated.",
+       "as_of": "2026-03-16",
+       "date_precision": "day",
+       "system": "Refugee Ghana Card registration exercise",
+       "class": "displaced"
+      },
+      {
+       "sub_indicator": "displaced",
+       "aspect": "access",
+       "value": "open",
+       "fact": "Refugees in Ghana can obtain the national identity card under the programme, with the cost subsidised for them, per IMS.",
+       "as_of": "2026-03-16",
+       "date_precision": "day",
+       "system": "Refugee Ghana Card registration exercise",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Refugee Ghana Card registration exercise",
+       "country_label": "Ghana",
+       "class": "displaced",
+       "platform": "",
+       "owner": "Identity Management Systems with National Identification Authority, Ghana Refugee Board, UNHCR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

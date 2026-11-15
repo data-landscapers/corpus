@@ -1,0 +1,54 @@
+{
+ "slug": "2026-03-01-eth-strengthening-ethiopia-s-startup-ecosystem",
+ "studies": {
+  "startups": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "GIZ states Ethiopia ratified its first Startup Proclamation in July 2025, recognising startups under a dedicated regulatory framework.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Startup Proclamation",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup Proclamation",
+       "country_label": "Ethiopia",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Ministry of Innovation and Technology",
+       "tiers": ""
+      }
+     ],
+     "note": "No statement that startups have been labelled or that a fund has financed them."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "GIZ states 13 incubators and one accelerator run incubation and acceleration programmes, with 1,750 startups participating in 2020-2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Ethiopian incubators and accelerators",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": "No statement of hubs in several cities or a technology park with tenants."
+    }
+   }
+  }
+ }
+}

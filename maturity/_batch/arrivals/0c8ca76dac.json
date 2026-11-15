@@ -1,0 +1,106 @@
+{
+ "slug": "2024-07-11-sle-how-the-un-is-connecting-the-world-s-classrooms",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "announced",
+       "fact": "Sierra Leone's DSTI head of project design Kahil Ali said Freetown is developing legislation to address data protection and cybersecurity risks.",
+       "as_of": "2024-07-11",
+       "date_precision": "day",
+       "system": "data protection legislation",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only 'less than half' use the internet, no figure."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Starlink said to be operational but no licence or sale to customers is stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Figures are a government statement, not UNESCO SDG 4.a.1."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sierra Leone."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "2026-06-19-swz-no-more-guesswork-imbeleko-set-to-transform-how-emaswati-receive-suppo",
+ "studies": {
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Cash transfers are mentioned only as future matches; no payment stated."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No link with ID, payment provider or programme is stated."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the registry is described; no programme system named."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "The Deputy Prime Minister said Imbeleko, the National Dynamic Social Registry, is being rolled out, with enumerators trained in March 2025 and households registered across Shiselweni in June-July 2025 in a pilot phase.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Imbeleko",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Imbeleko",
+       "country_label": "SWZ",
+       "class": "social",
+       "platform": "",
+       "owner": "Deputy Prime Minister's Office",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

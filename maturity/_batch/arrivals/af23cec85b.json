@@ -1,1 +1,64 @@
-{"slug": "2026-01-01-nga-from-birth-to-nin-how-lagos-is-building-legal-identity-for-every-child", "studies": {"admindata": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No statistics from administrative records stated."}}}, "agrisatellite": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on satellite data in farming."}}}, "authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only a generic mention of authentication and verification systems; no service described."}}}, "birthidlink": {"countries": {"NGA": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "The Lagos e-Birth registration platform, launched 13 November 2025 by UNICEF and the Lagos State Government, automatically links a newborn to a National Identification Number where at least one parent already has one, the NPC's Lagos commissioner says.", "as_of": "2025-11-13", "date_precision": "day", "system": "e-Birth Registration platform (e-CRVS)", "class": "crvslink"}], "systems": [], "note": ""}}}, "civilregister": {"countries": {"NGA": {"facts": [{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "The e-CRVS platform was launched by President Tinubu on 8 November 2023, and the NPC says e-birth registration is rolling out state by state, already launched in Lagos (13 November 2025), Nasarawa, Kano, Borno and Enugu.", "as_of": "2025-11-13", "date_precision": "day", "system": "e-CRVS / e-Birth Registration platform", "class": "civil"}], "systems": [{"system": "e-CRVS / e-Birth Registration platform", "country_label": "Nigeria", "class": "civil", "platform": "digital tools and mobile applications", "owner": "National Population Commission", "tiers": "federal, state"}], "note": ""}}}, "dataprotectionlaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only a lawyer's passing reference to data protection laws, with no instrument, date or standing stated."}}}, "idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID given."}}}, "idfrombirth": {"countries": {"NGA": {"facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "In Lagos and other launched states the e-Birth platform links each newborn registered to the NIN from birth, Governor Sanwo-Olu and the NPC commissioner said at and after the 13 November 2025 launch.", "as_of": "2025-11-13", "date_precision": "day", "system": "e-Birth Registration platform (e-CRVS)", "class": "birthnumber"}], "systems": [], "note": ""}}}, "idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on who operates, maintains or owns the ID system."}}}, "idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No public register keyed on the NIN stated beyond birth registration."}}}, "idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on enrolment, biometrics or certification of the national ID system."}}}, "localgov": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}}}}
+{
+ "slug": "2026-01-01-nga-from-birth-to-nin-how-lagos-is-building-legal-identity-for-every-child",
+ "studies": {
+  "registry": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "made",
+       "value": "connected",
+       "fact": "The Lagos e-Birth platform, launched 13 November 2025, registers births at NPC offices, local government secretariats and primary healthcare centres, replacing handwritten entries, and links each newborn to the NIN, per the NPC Lagos commissioner.",
+       "as_of": "2025-11-13",
+       "date_precision": "day",
+       "system": "e-Birth registration platform (e-CRVS)",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "events",
+       "value": "B",
+       "fact": "The e-Birth platform described covers birth registration, per the NPC Lagos commissioner.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "e-Birth registration platform (e-CRVS)",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "offices",
+       "value": "count:144",
+       "fact": "The NPC Lagos state director says Lagos has 144 functional registration centres, in health facilities and NPC and local government offices, with at least four in every local government area.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "e-Birth registration platform (e-CRVS)",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "last12",
+       "value": "advancing",
+       "fact": "UNICEF and the Lagos State Government launched the e-Birth platform in Lagos on 13 November 2025, part of a nationwide rollout begun in 2024 that has also reached Nasarawa, Kano, Borno and Enugu, per the commissioner.",
+       "as_of": "2025-11-13",
+       "date_precision": "day",
+       "system": "e-Birth registration platform (e-CRVS)",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Birth registration platform (e-CRVS)",
+       "country_label": "Nigeria",
+       "class": "civil",
+       "platform": "e-CRVS",
+       "owner": "National Population Commission",
+       "tiers": "national, state (Lagos)"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

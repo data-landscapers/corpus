@@ -1,0 +1,106 @@
+{
+ "slug": "2026-11-10-swz-ers-targets-multiple-income-earners-ahead-of-deadline",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Eswatini Daily News reports ERS officials saying 2025/26 income tax returns must be filed electronically through eFiling and tax can be paid by EFT, bank deposit, Mobile Money or card, with a 30 November 2026 deadline.",
+       "as_of": "2026-11-10",
+       "date_precision": "day",
+       "system": "eFiling",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eFiling",
+       "country_label": "Eswatini",
+       "class": "revenue",
+       "platform": "ERS eFiling",
+       "owner": "Eswatini Revenue Service",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

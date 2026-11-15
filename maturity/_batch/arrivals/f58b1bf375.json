@@ -1,0 +1,157 @@
+{
+ "slug": "2026-11-01-papss-payments-network-coverage-november-2026",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "live",
+       "fact": "PAPSS lists Djibouti among countries with live participants that send and receive payments, in its November 2026 coverage sheet.",
+       "as_of": "2026-11",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Djibouti",
+       "class": "oversight",
+       "platform": "pan-African payment and settlement system",
+       "owner": "PAPSS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Guinea-Bissau appears only in the incoming-payments list, not as a live send-and-receive country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "PAPSS lists Djibouti among countries with live participants that send and receive payments, in its November 2026 coverage sheet.",
+       "as_of": "2026-11",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Djibouti",
+       "class": "crossborder",
+       "platform": "pan-African payment and settlement system",
+       "owner": "PAPSS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Guinea-Bissau appears only in the incoming-payments list, not as a live send-and-receive country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

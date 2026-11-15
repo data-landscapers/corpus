@@ -1,0 +1,34 @@
+{
+ "slug": "2024-02-23-mrt-vente-d-appareils-radioelectriques-non-homologues-et-exploitation-de-r",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "none",
+       "fact": "Mauritania's regulator ARE says Starlink satellite internet is operating as an unauthorised network and that an individual licence is required.",
+       "as_of": "2024-02-23",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Mauritania",
+       "class": "satellite",
+       "platform": "LEO satellite",
+       "owner": "SpaceX",
+       "tiers": ""
+      }
+     ],
+     "note": "No regulator subscriber count is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "slug": "2025-02-10-lby-lana-social-affairs-civil-registry-data-link",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Civil Status Authority link for wife-and-children grant",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Social Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states a social affairs ministry data link to the Civil Status Authority for a grant payment; it does not state a register keyed on the national number, nor any ID system fact this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Civil Status Authority link for wife-and-children grant",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Social Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states a social affairs ministry data link to the Civil Status Authority for a grant payment; it does not state a register keyed on the national number, nor any ID system fact this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Civil Status Authority link for wife-and-children grant",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Social Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states a social affairs ministry data link to the Civil Status Authority for a grant payment; it does not state a register keyed on the national number, nor any ID system fact this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Civil Status Authority link for wife-and-children grant",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Social Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states a social affairs ministry data link to the Civil Status Authority for a grant payment; it does not state a register keyed on the national number, nor any ID system fact this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Civil Status Authority link for wife-and-children grant",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Social Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states a social affairs ministry data link to the Civil Status Authority for a grant payment; it does not state a register keyed on the national number, nor any ID system fact this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Civil Status Authority link for wife-and-children grant",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Social Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states a social affairs ministry data link to the Civil Status Authority for a grant payment; it does not state a register keyed on the national number, nor any ID system fact this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Civil Status Authority link for wife-and-children grant",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Social Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states a social affairs ministry data link to the Civil Status Authority for a grant payment; it does not state a register keyed on the national number, nor any ID system fact this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Civil Status Authority link for wife-and-children grant",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Social Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states a social affairs ministry data link to the Civil Status Authority for a grant payment; it does not state a register keyed on the national number, nor any ID system fact this study asks."
+    }
+   }
+  }
+ }
+}

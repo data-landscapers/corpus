@@ -1,0 +1,18 @@
+{"slug": "2026-11-05-tgo-togo-e-vital-un-projet-pour-moderniser-lenregistrement-des-naissances", "studies": {
+"authentication": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing on authentication or digital ID."}}},
+"birthidlink": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Health-to-civil-status transmission only; no link to the ID system stated."}}},
+"civilregister": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "The e-Vital Togo project, started August 2026, pilots in four communes (Golfe 3, Agoe-Nyive 1, Kozah 1, Bassar 1) entry of births and deaths in health facilities and electronic transmission to civil-status services, per the Ministry of Health project lead.", "as_of": "2026-11-05", "date_precision": "day", "system": "e-Vital Togo", "class": "civil"}
+], "systems": [{"system": "e-Vital Togo", "country_label": "Togo", "class": "civil", "platform": "", "owner": "Ministry of Health (Direction du systeme national d'information sanitaire), funded by Vital Strategies", "tiers": "health facilities; municipal civil-status services; INSEED"}, {"system": "e-MCCOD module in DHIS2", "country_label": "Togo", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""}], "note": ""}}},
+"dataexchange": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Data-sharing protocols for one project only; no government exchange platform stated."}}},
+"ecommercelaw": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing on e-commerce law."}}},
+"health": {"countries": {"TGO": {"facts": [], "systems": [], "note": "e-MCCOD cause-of-death module in DHIS2 is a single-function module; no HMIS or EMR fact on tiers or clinics."}}},
+"healthmis": {"countries": {"TGO": {"facts": [], "systems": [], "note": "e-MCCOD sits inside DHIS2 and states no national reporting, link or completeness."}}},
+"idfrombirth": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No ID number at birth stated."}}},
+"localgov": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No office connection stated for local governments."}}},
+"publicconsultation": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Validation workshop on a project, with no named digital law or policy and no named outside participants."}}},
+"registry": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The e-Vital Togo pilot covers four communes (Golfe 3, Agoe-Nyive 1, Kozah 1, Bassar 1), where facilities send births and deaths electronically to civil-status offices that verify, print and sign the act.", "as_of": "2026-11-05", "date_precision": "day", "system": "e-Vital Togo", "class": "civil"},
+{"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "Togoscoop reports the one-year e-Vital Togo project is financed by Vital Strategies under project GGP 166.", "as_of": "2026-11-05", "date_precision": "day", "system": "e-Vital Togo", "class": "civil"}
+], "systems": [{"system": "e-Vital Togo", "country_label": "Togo", "class": "civil", "platform": "", "owner": "Ministry of Health, funded by Vital Strategies", "tiers": "health facilities; municipal civil-status services"}], "note": ""}}}
+}}

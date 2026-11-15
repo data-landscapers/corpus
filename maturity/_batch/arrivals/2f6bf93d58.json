@@ -1,0 +1,113 @@
+{
+ "slug": "2025-10-11-cog-forum-wef-inclusion-et-programme-genius-au-congo",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Congo."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Congo."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Congo."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Congo."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Congo."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Congo."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Congo."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Congo."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Congo."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for Congo."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Genius",
+       "country_label": "Congo",
+       "class": "other",
+       "platform": "",
+       "owner": "Chambre nationale des femmes cheffes d'entreprises",
+       "tiers": ""
+      }
+     ],
+     "note": "Genius incubation (1,000 women, 3 months) and acceleration (200) are planned, run by a business chamber; no delivered hub or cohort stated."
+    }
+   }
+  }
+ }
+}

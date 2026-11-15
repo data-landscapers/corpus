@@ -1,0 +1,105 @@
+{
+ "slug": "2026-11-13-som-feisal-mohamed-hashi-the-vision-behind-somalia-s-revenue-reforms",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ITAS",
+       "country_label": "Somalia",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Somali Revenue Authority",
+       "tiers": ""
+      },
+      {
+       "system": "SOMCAS",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "Customs",
+       "tiers": ""
+      }
+     ],
+     "note": "ITAS is not yet rolled out, so it is other for core systems."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "underway",
+       "fact": "An opinion piece by Adan Omar Hashi says rollout of the ITAS tax platform, covering registration, filing and payment, is due to begin at the end of 2026 and run into 2027.",
+       "as_of": "2026-11-13",
+       "date_precision": "day",
+       "system": "ITAS",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ITAS",
+       "country_label": "Somalia",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Somali Revenue Authority",
+       "tiers": ""
+      },
+      {
+       "system": "SOMCAS",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "Customs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "An opinion piece by Adan Omar Hashi says the ITAS rollout, due from end-2026, will bring registration and a single record of every taxpayer onto one platform.",
+       "as_of": "2026-11-13",
+       "date_precision": "day",
+       "system": "ITAS",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ITAS",
+       "country_label": "Somalia",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Somali Revenue Authority",
+       "tiers": ""
+      },
+      {
+       "system": "SOMCAS",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "Customs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

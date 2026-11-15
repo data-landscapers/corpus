@@ -1,0 +1,5 @@
+{"slug": "2024-12-13-zmb-new-dawn-as-zambia-breaks-ground-on-the-timbuktoo-minetech-hub", "studies": {
+"ictjobs": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on ICT employment or graduate unemployment."}}},
+"startups": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No Zambian startup law or public startup fund stated."}}},
+"techhubs": {"countries": {"ZMB": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "UNDP says ground was broken on 12 December 2024 in Lusaka for the timbuktoo MineTech Hub, hosted at the National Institute for Scientific and Industrial Research, with construction beginning.", "as_of": "2024-12-12", "date_precision": "day", "system": "timbuktoo MineTech Hub", "class": "hub"}], "systems": [{"system": "timbuktoo MineTech Hub", "country_label": "Zambia", "class": "hub", "platform": "", "owner": "NISIR / UNDP", "tiers": ""}], "note": ""}}}
+}}

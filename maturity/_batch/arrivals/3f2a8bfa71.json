@@ -1,0 +1,43 @@
+{
+ "slug": "2025-11-25-zaf-request-for-expression-of-interest-individual-consultancy-to-develop-t",
+ "studies": {
+  "schoolinternet": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Not about schools."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "preparing",
+       "fact": "SADC Secretariat's re-advertised request of 25 November 2025 seeks an individual consultant, over 8 months, to develop a draft NSDS for South Africa.",
+       "as_of": "2025-11-25",
+       "date_precision": "day",
+       "system": "NSDS of South Africa",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NSDS of South Africa (in development)",
+       "country_label": "NSDS (draft, no period stated)",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Statistics South Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

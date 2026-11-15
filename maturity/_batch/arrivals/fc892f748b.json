@@ -1,0 +1,11 @@
+{"slug":"2024-08-30-bwa-refugees-to-have-ids","studies":{
+"authentication":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Document states nothing on authentication services."}}},
+"birthidlink":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Document states nothing on a civil register to ID link."}}},
+"idcoverage":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No count or share of the population holding an ID is given."}}},
+"idfrombirth":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Nothing on the national ID system's issue, biometrics or certification."}}},
+"idverification":{"countries":{"BWA":{"facts":[],"systems":[],"note":"KYC is cited only as a reason for refugee IDs; no service checking against the national ID is described."}}},
+"refugees":{"countries":{"BWA":{"facts":[{"sub_indicator":"displaced","aspect":"registration","value":"underway","fact":"Botswana's Justice Minister says Clause 25 of Bill No. 23 of 2024, then before Parliament, would have every recognised refugee and their family members issued an ID by the minister responsible for civil and national registration.","as_of":"2024-08-30","date_precision":"day","system":"Refugee (Recognition and Control) Act amendment, Bill No. 23 of 2024","class":"displaced"}],"systems":[{"system":"Refugee (Recognition and Control) Act amendment, Bill No. 23 of 2024","country_label":"Botswana","class":"displaced","platform":"","owner":"Ministry of Justice","tiers":""}],"note":""}}}
+}}

@@ -1,0 +1,197 @@
+{
+ "slug": "2025-03-25-cmr-unlocking-the-potential-of-cameroon-s-startup-ecosystem-strategies-for",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Cameroon."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "The Nkafu Policy Institute paper says a Startup Act is proposed in Cameroon but has not yet been adopted or implemented.",
+       "as_of": "2025-03-25",
+       "date_precision": "day",
+       "system": "Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The Nkafu Policy Institute paper names the Silicon Mountain hub in Buea and the upcoming Silicon River hub in Yaounde, with no programme described.",
+       "as_of": "2025-03-25",
+       "date_precision": "day",
+       "system": "Silicon Mountain; Silicon River",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Silicon Mountain",
+       "country_label": "Cameroon",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Silicon River",
+       "country_label": "Cameroon",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

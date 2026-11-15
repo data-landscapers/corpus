@@ -1,0 +1,8 @@
+{"slug": "2026-03-15-dza-startups-plus-de-100-000-demandes-de-labellisation-enregistrees-sur-la", "studies": {
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document is about startup labelling and states nothing on AI harms."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states no government use of AI."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states no sectoral AI system."}}},
+"aisystems": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states no AI built or hosted in Algeria."}}},
+"startups": {"countries": {"DZA": {"facts": [{"sub_indicator": "startuppolicy", "aspect": "labelled", "value": "labelled", "fact": "Algeria's national labelling committee, chaired by the ministry's startups director Chamseddine Benmoussat, awards the startup label, with about 15% of over 100,000 applications on start-up.dz obtaining it.", "as_of": "2026-03-14", "date_precision": "day", "system": "Comite national de labellisation / start-up.dz", "class": "startuppolicy"}], "systems": [{"system": "start-up.dz", "country_label": "Algeria", "class": "startuppolicy", "platform": "start-up.dz online platform", "owner": "Ministry of Knowledge Economy, Startups and Micro-enterprises", "tiers": "four labels: innovative project, start-up, incubator, scale-up"}], "note": ""}}},
+"techhubs": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Incubator label is mentioned but no hub, programme or park is described."}}}
+}}

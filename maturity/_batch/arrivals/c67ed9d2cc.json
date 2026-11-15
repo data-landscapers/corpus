@@ -1,0 +1,53 @@
+{
+ "slug": "2024-06-12-sle-starlink-goes-live-in-sierra-leone-a-year-after-receiving-licence",
+ "studies": {
+  "internetusage": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a 2020 and 2023 share and a 2024 projection, none a survey or ITU estimate for 2024."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "Sierra Leone granted Starlink an operational licence in June 2023.",
+       "as_of": "2023-06",
+       "date_precision": "month",
+       "system": "Starlink",
+       "class": "satellite"
+      },
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "Techpoint Africa reports Starlink went live in Sierra Leone in June 2024.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "2026-10-31-caf-la-fafeca-inaugure-son-incubateur-numerique-a-bangui-en-presence-du-mi",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "FAFECA officially launched its digital incubator for women entrepreneurs in Bangui, financed by the EU and AFD; no programme or cohort is described.",
+       "as_of": "2026-10-30",
+       "date_precision": "day",
+       "system": "FAFECA incubateur numérique",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "FAFECA incubateur numérique",
+       "country_label": "Central African Republic",
+       "class": "hub",
+       "platform": "",
+       "owner": "FAFECA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

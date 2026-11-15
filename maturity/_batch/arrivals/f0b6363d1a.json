@@ -1,0 +1,5 @@
+{"slug": "2026-11-01-ago-cursos-de-stem-representam-menos-de-30-da-oferta-formativa", "studies": {
+"ictjobs": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on ICT employment or graduate unemployment."}}},
+"schoolinternet": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on secondary school internet."}}},
+"stemgraduates": {"countries": {"AGO": {"facts": [{"sub_indicator": "graduates", "aspect": "stem", "value": "official:10", "fact": "Expansao reports that 10% (19,907) of the 218,544 university graduates in Angola from 2014 to 2024 were in science, technology, engineering and mathematics.", "as_of": "2024", "date_precision": "year", "system": "Angola tertiary graduates by field", "class": "stemgraduates"}], "systems": [], "note": ""}}}
+}}

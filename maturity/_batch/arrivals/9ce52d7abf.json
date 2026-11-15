@@ -1,0 +1,209 @@
+{
+ "slug": "2026-11-14-orange-egypte-parquet-general-services-numeriques-ia",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Orange Egypt says phase two of its Public Prosecution partnership brings an AI digital assistant into the user experience, guiding citizens to the right service and procedure.",
+       "as_of": "2026-11-14",
+       "date_precision": "day",
+       "system": "AI digital assistant",
+       "class": "govai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The AI assistant is a general service-guidance tool, not a sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Orange Egypt says its cooperation with the Social Solidarity Ministry and the Public Prosecution to ease persons with disabilities' electronic access to services continues in phase two.",
+       "as_of": "2026-11-14",
+       "date_precision": "day",
+       "system": "Public Prosecution digital services for persons with disabilities",
+       "class": "accessibility"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Orange Egypt says Public Prosecution family-prosecution guardianship services (payment petitions, bank transactions, sale and purchase requests, account statements) can be filed, tracked and paid for through Max it and Orange Cash.",
+       "as_of": "2026-11-14",
+       "date_precision": "day",
+       "system": "Max it and Orange Cash",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Max it",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "app",
+       "owner": "Orange Egypt",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Cash",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "wallet app",
+       "owner": "Orange Egypt",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Orange Egypt says guardians can pay Public Prosecution family-prosecution fees digitally through Max it and Orange Cash.",
+       "as_of": "2026-11-14",
+       "date_precision": "day",
+       "system": "Max it and Orange Cash",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Max it",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "app",
+       "owner": "Orange Egypt",
+       "tiers": ""
+      },
+      {
+       "system": "Orange Cash",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "wallet app",
+       "owner": "Orange Egypt",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

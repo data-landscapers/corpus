@@ -1,0 +1,12 @@
+{"slug":"2026-02-21-bdi-burundi-diy-et-pin-appellent-pour-la-ratification-de-la-convention-de","studies":{
+"aiabuse":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Only a plan to add AI to the law later; no AI-harm rule stated."}}},
+"aigovernment":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No government AI use stated."}}},
+"aisectoral":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No sectoral AI use stated."}}},
+"aisystems":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No AI built in the country stated."}}},
+"cybersecuritylaw":{"countries":{"BDI":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"Gako News reports the Burundi cybercrime law is under continuing application, discussed at a 19-20 February 2026 workshop.","as_of":"2026-02","date_precision":"month","system":"cybercrime law","class":"law"}],"systems":[],"note":""}}},
+"dataprotectionlaw":{"countries":{"BDI":{"facts":[{"sub_indicator":"general","aspect":"standing","value":"enacted","fact":"Gako News reports two government employees presenting law no 1/10 of 16 March 2022 as the dedicated personal data protection law Burundi has just instituted, with implementation still a challenge.","as_of":"2022-03-16","date_precision":"day","system":"loi no 1/10 du 16 Mars 2022","class":"general"}],"systems":[],"note":""}}},
+"dataprotectionreadiness":{"countries":{"BDI":{"facts":[{"sub_indicator":"system","aspect":"treaty","value":"none","fact":"Gako News reports civil-society speakers urging Burundi to sign and ratify the Malabo Convention, which it has done neither.","as_of":"2026-02-21","date_precision":"day","system":"Malabo Convention","class":"system"}],"systems":[],"note":""}}},
+"digitalstrategy":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No national digital strategy stated."}}},
+"policyresearch":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Workshop was run by an advocacy NGO with a foreign backer; no research institution or publication stated."}}},
+"regionallaw":{"countries":{"BDI":{"facts":[{"sub_indicator":"harmonisation","aspect":"accepted","value":"none","fact":"Gako News reports a workshop asking the President to sign and ratify the Malabo Convention, which Burundi has neither signed nor ratified.","as_of":"2026-02-21","date_precision":"day","system":"Malabo Convention","class":"harmonisation"}],"systems":[],"note":""}}}
+}}

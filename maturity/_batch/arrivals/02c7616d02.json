@@ -1,0 +1,32 @@
+{
+ "slug": "2025-03-21-gmb-national-assembly-considers-bill-to-boost-research-innovation",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Bill only mentions equal opportunity for persons with disabilities in fund access; nothing on information or digital access."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The bill is a research and innovation fund, not a startup law or strategy; startups are not named."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on hubs, incubators or parks."
+    }
+   }
+  }
+ }
+}

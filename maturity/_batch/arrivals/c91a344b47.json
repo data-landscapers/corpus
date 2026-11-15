@@ -1,0 +1,52 @@
+{
+ "slug": "2025-08-20-rwa-central-africa-how-rwanda-s-digital-hub-project-could-boost-tech-start",
+ "studies": {
+  "nonstatefinance": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Funding is World Bank and AIIB to the state project; no private money stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "funded",
+       "value": "funded",
+       "fact": "The Ministry of ICT and Innovation says about Rwf935.7 million in early-stage startup funding has been approved under the Rwanda Digital Acceleration Project, with startups applying through Hanga Venture Ignite for up to $50,000 or $100,000.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Hanga Venture Ignite",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Hanga Venture Ignite",
+       "country_label": "RWA",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Ministry of ICT and Innovation",
+       "tiers": "tier 1 up to $50,000; tier 2 up to $100,000"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grants to ESOs stated, but no incubation programme with a cohort named."
+    }
+   }
+  }
+ }
+}

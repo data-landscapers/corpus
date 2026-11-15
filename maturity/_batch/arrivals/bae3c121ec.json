@@ -1,0 +1,17 @@
+{"slug": "2026-09-08-sen-bourses-familiales-le-rnu-compte-1-000-649-menages-apres-la-recertific", "studies": {
+"addressregister": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states nothing on addressing."}}},
+"birthidlink": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states nothing on a civil register to ID link."}}},
+"businessregister": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states nothing on a business register."}}},
+"civilregister": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states nothing on civil registration systems."}}},
+"electoralregister": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states nothing on a voters' roll."}}},
+"g2ppayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document gives the transfer amount (35,000 F CFA a quarter) but not that it is paid digitally."}}},
+"idfrombirth": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states nothing on a number at birth."}}},
+"landregister": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states nothing on land registration."}}},
+"opendiscussion": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states no criticism of a named policy, cut or punishment."}}},
+"populationregister": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states nothing on a population register."}}},
+"registry": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states nothing on civil registration offices."}}},
+"socialexchange": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Interoperability with other social systems is only a stated priority, not in service or being built."}}},
+"socialprotection": {"countries": {"SEN": {"facts": [], "systems": [{"system": "Registre national unique (RNU)", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Ministere de la Famille, de l'Action sociale et des Solidarites", "tiers": ""}], "note": "Only the RNU registry is described; no programme management information system or electronic payment is stated."}}},
+"socialregistry": {"countries": {"SEN": {"facts": [{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "Senegal's Registre national unique (RNU), set up in 2015, now holds 1,000,649 households and is used to identify beneficiaries of the family security grants programme, according to the programme's director of social safety net management.", "as_of": "2026", "date_precision": "year", "system": "Registre national unique (RNU)", "class": "social"}], "systems": [{"system": "Registre national unique (RNU)", "country_label": "Senegal", "class": "social", "platform": "", "owner": "Ministere de la Famille, de l'Action sociale et des Solidarites", "tiers": ""}], "note": ""}}},
+"taxregister": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states nothing on a taxpayer register."}}}
+}}

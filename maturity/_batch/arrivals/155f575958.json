@@ -1,0 +1,115 @@
+{
+ "slug": "2024-03-18-gnb-ecowas-participation-in-the-digital-transformation-for-africa-western",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "ECOWAS says Guinea-Bissau is a key implementing partner of the DTfA/WARDIP regional digital integration programme, alongside ECOWAS, Smart Africa and the African Union Commission.",
+       "as_of": "2024-03-18",
+       "date_precision": "day",
+       "system": "DTfA/WARDIP",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  }
+ }
+}

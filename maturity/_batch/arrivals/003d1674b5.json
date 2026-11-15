@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-26-mdg-madagascar-energy-factsheet",
+ "studies": {
+  "gridreliability": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage figure stated."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "rural",
+       "aspect": "access",
+       "value": "official:7",
+       "fact": "The African Development Bank factsheet says rural areas of Madagascar have only 7% access to electricity, against 57% in urban areas.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "AfDB Madagascar Energy Factsheet",
+       "class": "ruralpower"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

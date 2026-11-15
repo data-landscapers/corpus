@@ -1,0 +1,34 @@
+{
+ "slug": "2024-06-10-bdi-decret-n100-091-du-30-mai-2024-portant-octroi-d-une-licence-d-etabliss",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "Burundi's ARCT notice says a decree signed 30 May 2024 granted Starlink Services Burundi a licence to establish and operate a satellite internet network.",
+       "as_of": "2024-05-30",
+       "date_precision": "day",
+       "system": "Starlink Services Burundi",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink Services Burundi",
+       "country_label": "Burundi",
+       "class": "satellite",
+       "platform": "LEO satellite",
+       "owner": "Starlink Services Burundi",
+       "tiers": ""
+      }
+     ],
+     "note": "No regulator subscriber count is stated."
+    }
+   }
+  }
+ }
+}

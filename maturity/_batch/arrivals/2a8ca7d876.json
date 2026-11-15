@@ -1,0 +1,7 @@
+{"slug": "2026-11-14-moz-mznews-inatro-atdi-carta-conducao-registo-veiculos", "studies": {
+"datacentres": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "An INATRO-ATDI memorandum plans data centres for INATRO; no data centre for hire in service or cloud region is stated."}}},
+"dataprotectionlaw": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Data protection is named only as a cooperation area; no law, authority, regulation or application is stated."}}},
+"egovservices": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "A memorandum to modernise INATRO systems; no online government service, gateway or usage figure is stated."}}},
+"idrobustness": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Mentions biometric driving licence systems only, a sectoral credential, not a national ID system."}}},
+"nationaldatacentres": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire in service is stated; data centres are only a planned cooperation area."}}}
+}}

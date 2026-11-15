@@ -1,0 +1,171 @@
+{
+ "slug": "2026-09-24-tun-tunisias-state-startup-fund-looks-beyond-capital-city-tech-elites",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "private",
+       "aspect": "money",
+       "value": "committed",
+       "fact": "The article says German development bank KfW subscribed EUR 20mn to the ANAVA fund of funds, which invests in startup funds, as part of a EUR 60mn first closing.",
+       "as_of": "2026-09-24",
+       "date_precision": "day",
+       "system": "ANAVA",
+       "class": "private"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "funded",
+       "value": "funded",
+       "fact": "The CDC director-general said in a July interview that the CDC had financed 10 investment funds under ANAVA, with 70 Tunisian startups benefiting from financing through the fund of funds and its funds.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "ANAVA",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANAVA",
+       "country_label": "Tunisia",
+       "class": "startuppolicy",
+       "platform": "fund of funds",
+       "owner": "Caisse des Depots et Consignations, managed by Smart Capital",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tunisia."
+    }
+   }
+  }
+ }
+}

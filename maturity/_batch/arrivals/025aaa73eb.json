@@ -1,0 +1,41 @@
+{
+ "slug": "2025-07-03-lso-lesotho-draws-inspiration-from-eswatini-to-establish-tech-hub",
+ "studies": {
+  "startups": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, strategy or fund stated."
+    }
+   }
+  },
+  "stemgraduates": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "No STEM graduate figure or research network stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Royal Science and Technology Park (planned)",
+       "country_label": "Lesotho",
+       "class": "other",
+       "platform": "",
+       "owner": "Department of Appropriate Technology Services",
+       "tiers": ""
+      }
+     ],
+     "note": "Lesotho is only working to establish a Royal Science and Technology Park, a plan with nothing stated as being built."
+    }
+   }
+  }
+ }
+}

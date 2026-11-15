@@ -1,0 +1,8 @@
+{"slug":"2024-11-29-eth-undp-partners-with-ethiopia-s-industry-ministry-to-launch-pan-african","studies":{
+"eparticipation":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Consultation on the startup proclamation is not stated to be online."}}},
+"publicconsultation":{"countries":{"ETH":{"facts":[],"systems":[],"note":"Startup proclamation consultation is not a stated digital law, and who took part is not said."}}},
+"startups":{"countries":{"ETH":{"facts":[
+{"sub_indicator":"startuppolicy","aspect":"law","value":"draft","fact":"The document says the call for applications to the timbuktoo ManuTech Hub was announced at a public consultation of Ethiopia's startup proclamation.","as_of":"2024-11","date_precision":"month","system":"startup proclamation","class":"startuppolicy"}],"systems":[],"note":""}}},
+"techhubs":{"countries":{"ETH":{"facts":[
+{"sub_indicator":"hub","aspect":"hubs","value":"underway","fact":"The document says UNDP and the Ministry of Industry launched the timbuktoo ManuTech Hub in Addis Ababa, with space to be completed in early 2025 and a first cohort then.","as_of":"2024-11-29","date_precision":"day","system":"timbuktoo ManuTech Hub","class":"hub"}],
+"systems":[{"system":"timbuktoo ManuTech Hub","country_label":"Ethiopia","class":"hub","platform":"","owner":"UNDP and Ministry of Industry","tiers":""}],"note":""}}}}}

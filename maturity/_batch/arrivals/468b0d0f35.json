@@ -1,0 +1,43 @@
+{
+ "slug": "2025-07-10-civ-cote-divoire-aip-ivoire-tech-forum-un-fonds-ivoirien-de-linnovation-te",
+ "studies": {
+  "startups": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "AIP reports the 2023 adoption of the Loi sur la promotion des startups numeriques, cited by the digital minister.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Loi sur la promotion des startups numeriques",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Loi sur la promotion des startups numeriques",
+       "country_label": "Cote d'Ivoire",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Government",
+       "tiers": ""
+      }
+     ],
+     "note": "Fund and labelling committee only announced, not delivered."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no hub or park."
+    }
+   }
+  }
+ }
+}

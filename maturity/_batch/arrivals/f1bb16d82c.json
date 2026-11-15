@@ -1,0 +1,46 @@
+{
+ "slug": "2024-02-23-lby-regulatory-approvals-for-starlink-services-in-mena-countries",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "none",
+       "fact": "Eicon says no Starlink approvals have been granted by Libya's ministry.",
+       "as_of": "2024-02-23",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "none",
+       "fact": "Eicon says Sudan's regulator TPRA has banned the use of Starlink services.",
+       "as_of": "2024-02-23",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a three-month pilot agreed in August 2023; no licence or sale stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,20 @@
+{"slug": "2025-01-01-mar-le-hub-digital-au-service-des-paiements-electroniques-au-maroc", "studies": {
+"businesspayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "Switch Al Maghrib says new payment institutions licensed by Bank Al-Maghrib were connected to its Switch Mobile hub, bringing members to 18 at end-2023.", "as_of": "2023-12", "date_precision": "month", "system": "Switch Mobile", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "Switch Al Maghrib says it is authorised by Bank Al-Maghrib to run switching and the interoperability of payment transactions, as one of the country's five financial market infrastructures.", "as_of": "2025", "date_precision": "year", "system": "Switch National", "class": "oversight"}
+], "systems": [{"system": "Switch National (Switch Al Maghrib)", "country_label": "Morocco", "class": "other", "platform": "Switch Carte and Switch Mobile", "owner": "Switch Al Maghrib", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"dataprotectionlaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on a data protection law or its application."}}},
+"g2ppayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"paymentslaw": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Switch Al Maghrib says new payment institutions licensed by Bank Al-Maghrib were connected to the Switch Mobile hub, 18 members in total at end-2023.", "as_of": "2023-12", "date_precision": "month", "system": "Switch Mobile", "class": "law"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No survey of adults with accounts is given."}}},
+"retailpayments": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Switch Al Maghrib says the Wallet payment means and mobile payment were launched in Morocco in 2018.", "as_of": "2018", "date_precision": "year", "system": "Switch Mobile", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "Switch Al Maghrib says its Switch Mobile infrastructure ensures interoperability of the mobile payment ecosystem, with 18 connected members at end-2023.", "as_of": "2023-12", "date_precision": "month", "system": "Switch Mobile", "class": "retail"}
+], "systems": [{"system": "Switch Mobile", "country_label": "Morocco", "class": "retail", "platform": "Switch Al Maghrib hub", "owner": "Switch Al Maghrib", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on tax or fee payment."}}}
+}}

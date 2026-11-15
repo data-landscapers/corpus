@@ -1,0 +1,50 @@
+{
+ "slug": "2026-05-01-gnb-national-social-protection-and-disaster-risk-management-in-guinea-biss",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says INM-GB forecasts depend on regional and international products; no satellite data reception or use stated."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "social registry",
+       "country_label": "Guinea-Bissau",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Women, Family and Social Solidarity",
+       "tiers": ""
+      }
+     ],
+     "note": "Document says no shared beneficiary data or link in service; only a planned registry and emerging systems."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "social registry",
+       "country_label": "Guinea-Bissau",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Women, Family and Social Solidarity",
+       "tiers": ""
+      }
+     ],
+     "note": "Document says only initial foundations of a social registry and that a functional one is still to be established; not procured, piloted or populated."
+    }
+   }
+  }
+ }
+}

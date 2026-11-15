@@ -1,0 +1,126 @@
+{
+ "slug": "2026-04-03-dza-alger-saihi-en-visite-dinspection-a-lagence-cnas-de-la-wilaya-et-a-lag",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The labour ministry's communiqué says the CNAS and CNR agencies were checked for readiness to integrate into the national Dzaïr Digital Services portal, supervised by the High Commissioner for Digitalisation.",
+       "as_of": "2026-04-02",
+       "date_precision": "day",
+       "system": "Dzaïr Digital Services",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Dzaïr Digital Services",
+       "country_label": "Algeria",
+       "class": "eservices",
+       "platform": "",
+       "owner": "High Commission for Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "The labour ministry's communiqué says database interoperability resting on the national identification number (NIN) allows instant, secure exchange of information between sectors, in the context of the CNAS and CNR social-security bodies.",
+       "as_of": "2026-04-02",
+       "date_precision": "day",
+       "system": "NIN-based database interoperability",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "slug": "2025-01-01-gin-termes-de-reference-pour-l-analyse-du-profil-socio-demographique-et-so",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "FDSI and ANIES signed a partnership on 27 June 2024 to extract ANIES beneficiaries from the RSU raw base and share a list of indigent households for the IMF-funded Guichet Choc Alimentaire project.",
+       "as_of": "2024-06-27",
+       "date_precision": "day",
+       "system": "Registre Social Unifié (RSU)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre Social Unifié (RSU)",
+       "country_label": "Guinea",
+       "class": "social",
+       "platform": "",
+       "owner": "FDSI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "FDSI's terms of reference say the RSU, created by decree in 2019 and confirmed in 2024, holds 977,610 households and 4,860,075 individuals per the FDSI website.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Registre Social Unifié (RSU)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre Social Unifié (RSU)",
+       "country_label": "Guinea",
+       "class": "social",
+       "platform": "",
+       "owner": "FDSI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

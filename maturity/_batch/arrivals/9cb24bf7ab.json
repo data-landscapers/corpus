@@ -1,0 +1,49 @@
+{
+  "slug": "2025-03-18-rwa-leveraging-interoperability-for-social-impact-in-rwanda",
+  "studies": {
+    "authentication": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document names no authentication, e-signature or digital ID service."}}},
+    "birthidlink": {"countries": {"RWA": {"facts": [
+      {"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "The information-systems table lists both the common identification system and the civil registration system as live with the National Identification Agency (NIDA) as the responsible institution, so one body holds both registers (SPDCI deck, MINALOC presenters).", "as_of": "2025-03-18", "date_precision": "day", "system": "NIDA common identification system and civil registration system", "class": "crvslink"}
+    ], "systems": [], "note": ""}}},
+    "censuses": {"countries": {"RWA": {"facts": [
+      {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The deck gives Rwanda's population as 13,246,394 individuals and 3,312,743 households from the 2022 Census.", "as_of": "2022", "date_precision": "year", "system": "Population and Housing Census 2022", "class": "census"}
+    ], "systems": [], "note": "Results are cited as figures without saying preliminary or final, so no results fact."}}},
+    "civilregister": {"countries": {"RWA": {"facts": [
+      {"sub_indicator": "civil", "aspect": "births", "value": "inservice", "fact": "The civil registration system is listed as live, run by NIDA, in the MINALOC deck's information-systems landscape.", "as_of": "2025-03-18", "date_precision": "day", "system": "Civil registration system", "class": "civil"},
+      {"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "The deck gives 90.04% births registration and 41.8% deaths registration in 2023, as a national rate not tied to the digital system.", "as_of": "2023", "date_precision": "year", "system": "Civil registration system", "class": "civil"}
+    ], "systems": [{"system": "Civil registration system", "country_label": "Civil registration system", "class": "civil", "platform": "", "owner": "National Identification Agency (NIDA)", "tiers": ""}], "note": ""}}},
+    "dataexchange": {"countries": {"RWA": {"facts": [
+      {"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The deck says some systems are already integrated with the government enterprise service bus, which the social registry uses to share data with NIDA, CRVS, RRA, LAND, SDMS, LODA and RSSB systems, with Kafka for real-time streaming.", "as_of": "2025-03-18", "date_precision": "day", "system": "Government enterprise service bus", "class": "exchange"}
+    ], "systems": [{"system": "Government enterprise service bus", "country_label": "Government enterprise service bus", "class": "exchange", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+    "disabilityaccess": {"countries": {"RWA": {"facts": [
+      {"sub_indicator": "accessibility", "aspect": "delivered", "value": "delivered", "fact": "The deck lists the Assistive Devices programme for people with disabilities, led by the National Council of People with Disabilities, as covering 5,943 people who received assistive devices.", "as_of": "2025-03-18", "date_precision": "day", "system": "Assistive Devices programme", "class": "accessibility"}
+    ], "systems": [], "note": ""}}},
+    "feedbackportals": {"countries": {"RWA": {"facts": [
+      {"sub_indicator": "feedback", "aspect": "channel", "value": "underway", "fact": "The deck lists a grievance redressal platform, run by MINALOC, as under development.", "as_of": "2025-03-18", "date_precision": "day", "system": "Grievance redressal platform", "class": "feedback"}
+    ], "systems": [{"system": "Grievance redressal platform", "country_label": "Grievance redressal platform", "class": "feedback", "platform": "", "owner": "MINALOC", "tiers": ""}], "note": ""}}},
+    "idcoverage": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The only share given is above 98% of the eligible population aged 16 and over, not of the whole population."}}},
+    "idfrombirth": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document says nothing of a number given at birth."}}},
+    "idmaintenance": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document says nothing of who operates, maintains or owns the ID system."}}},
+    "idregisters": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document says the social registry validates identity against NIDA but does not say a register is keyed on the ID number."}}},
+    "idrobustness": {"countries": {"RWA": {"facts": [
+      {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The deck lists the common identification system, run by NIDA, as live and covering above 98% of the eligible population aged 16 and over.", "as_of": "2025-03-18", "date_precision": "day", "system": "Common identification system", "class": "idsystem"}
+    ], "systems": [{"system": "Common identification system", "country_label": "Common identification system", "class": "idsystem", "platform": "", "owner": "National Identification Agency (NIDA)", "tiers": ""}], "note": ""}}},
+    "interoperabilitystandards": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only the social registry's own data dictionary and ERDs are described, not government standards."}}},
+    "landregister": {"countries": {"RWA": {"facts": [
+      {"sub_indicator": "land", "aspect": "register", "value": "inservice", "fact": "The deck lists the land registry, held by the National Land Authority, as a live information system.", "as_of": "2025-03-18", "date_precision": "day", "system": "Land registry", "class": "land"}
+    ], "systems": [], "note": ""}}},
+    "localgov": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document says nothing of local government office connections."}}},
+    "publicconsultation": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document describes no consultation on a digital law or policy."}}},
+    "registry": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document says nothing of digital entry at local civil registration offices."}}},
+    "socialexchange": {"countries": {"RWA": {"facts": [
+      {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The deck says the Imibereho social registry validates identification and access data from integrated NIDA, CRVS, RRA, LAND and SDMS systems and shares beneficiaries with LODA (MEIS) and RSSB (CBHI) through the government service bus.", "as_of": "2025-03-18", "date_precision": "day", "system": "Imibereho social registry", "class": "exchange"},
+      {"sub_indicator": "exchange", "aspect": "linked", "value": "linked", "fact": "The deck says the social registry is integrated with NIDA (ID) and CRVS, the disability and land registries and RRA, giving dynamic targeting with real-time updates.", "as_of": "2025-03-18", "date_precision": "day", "system": "Imibereho social registry", "class": "exchange"}
+    ], "systems": [], "note": ""}}},
+    "socialprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document describes the social registry and a common payments platform, not a programme MIS with electronic payment named."}}},
+    "socialregistry": {"countries": {"RWA": {"facts": [
+      {"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "The deck says the Imibereho social registry, run by MINALOC and launched in 2024, is live with 3,286,600 households registered (99.2% of households).", "as_of": "2025-03-18", "date_precision": "day", "system": "Imibereho social registry", "class": "social"},
+      {"sub_indicator": "social", "aspect": "linked", "value": "linked", "fact": "The deck says the social registry is integrated with NIDA, CRVS and other systems to validate identification and update targeting in real time.", "as_of": "2025-03-18", "date_precision": "day", "system": "Imibereho social registry", "class": "social"}
+    ], "systems": [{"system": "Imibereho social registry", "country_label": "Imibereho 2024", "class": "social", "platform": "Spring Boot, PostgreSQL, Angular", "owner": "MINALOC", "tiers": ""}], "note": ""}}},
+    "statisticsstrategy": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document names no statistics strategy."}}}
+  }
+}

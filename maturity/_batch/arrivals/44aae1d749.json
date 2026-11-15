@@ -1,0 +1,70 @@
+{
+ "slug": "2025-11-22-sen-senegal-activates-startup-act-program-targets-150-000-jobs-by-2034",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on data centres."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on data centres."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on satellite broadband for Senegal."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says the initiative will connect incubators with startups; no hub described."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Ecofin Agency reports Senegal's government launched its Startup Ecosystem initiative, implementing a startup law passed in January 2020.",
+       "as_of": "2020-01",
+       "date_precision": "month",
+       "system": "Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup Ecosystem label",
+       "country_label": "Startup Ecosystem",
+       "class": "startuppolicy",
+       "platform": "online portal",
+       "owner": "Government of Senegal",
+       "tiers": ""
+      }
+     ],
+     "note": "Labelling is a target of 500+ startups; none stated as labelled."
+    }
+   }
+  }
+ }
+}

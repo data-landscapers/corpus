@@ -1,0 +1,10 @@
+{"slug":"2024-07-04-zmb-artificial-intelligence-strategy-to-be-launched-on-independence-day","studies":{
+"aiabuse":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Document states nothing on rules or an authority against AI harms."}}},
+"aigovernment":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Document states no government use of AI."}}},
+"aisectoral":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Document states no sectoral AI tool."}}},
+"aistrategy":{"countries":{"ZMB":{"facts":[{"sub_indicator":"strategy","aspect":"standing","value":"draft","fact":"Technology and Science Minister Felix Mutati said the government is preparing an AI strategy with the Tony Blair Institute and the Finnish Government, to be launched on Independence Day 2024.","as_of":"2024-07-04","date_precision":"day","system":"Zambia Artificial Intelligence Strategy","class":"strategy"}],"systems":[{"system":"Artificial Intelligence Strategy","country_label":"Zambia","class":"strategy","platform":"","owner":"Ministry of Technology and Science","tiers":""}],"note":""}}},
+"aisystems":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Document states no AI model, dataset or computing built in the country."}}},
+"nonstatefinance":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Document states no private money amount."}}},
+"startups":{"countries":{"ZMB":{"facts":[{"sub_indicator":"startuppolicy","aspect":"law","value":"draft","fact":"Minister Felix Mutati said the government is working on a Start Up Bill that will seek to create a Venture Capital Fund for start-ups.","as_of":"2024-07-04","date_precision":"day","system":"Start Up Bill","class":"startuppolicy"}],"systems":[{"system":"Start Up Bill","country_label":"Zambia","class":"startuppolicy","platform":"","owner":"Ministry of Technology and Science","tiers":""}],"note":""}}},
+"techhubs":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Document states nothing on hubs or parks."}}}
+}}

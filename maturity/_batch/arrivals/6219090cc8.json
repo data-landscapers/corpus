@@ -1,0 +1,68 @@
+{
+ "slug": "2026-07-01-ago-coopstat-news-janeiro-julho-2026",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on AI harms rules for Angola."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no government AI use in Angola."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no sectoral AI in Angola."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no AI built in Angola."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no Angolan data protection law."
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says the SEN law was under revision in March 2026; no draft published and no law stated in force."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says the NSDS was under revision in March 2026; no adoption, period or draft stage stated."
+    }
+   }
+  }
+ }
+}

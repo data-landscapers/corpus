@@ -1,0 +1,10 @@
+{"slug": "2024-10-01-zwe-statement-by-the-deputy-minister-of-public-service-labour-and-social-w", "studies": {
+"authentication": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Statement says nothing on authentication services."}}},
+"birthidlink": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Statement does not describe any link between the civil register and the ID system."}}},
+"idcoverage": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No count or share of the population holding a national ID is given."}}},
+"idfrombirth": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No number issued at birth is described."}}},
+"idmaintenance": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on who operates, maintains or owns the ID system."}}},
+"idregisters": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No public register keyed on the national ID number is mentioned."}}},
+"idrobustness": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No statement on the national ID system's issuance, biometrics or certification."}}},
+"refugees": {"countries": {"ZWE": {"facts": [{"sub_indicator": "displaced", "aspect": "access", "value": "open", "fact": "Zimbabwe's Deputy Minister told UNHCR's 75th ExCom that all migrants in Zimbabwe, including refugees, have access to birth and national identity card registration.", "as_of": "2024-10", "date_precision": "month", "system": "national identity card registration", "class": "displaced"}], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,13 @@
+{"slug":"2024-04-19-bwa-in-conversation-diane-mongudi-acting-ceo-botswana-digital-innovation-h","studies":{
+"aiabuse":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Document does not mention AI harms."}}},
+"aigovernment":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No government AI use stated."}}},
+"aisectoral":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No sectoral AI system stated."}}},
+"aisystems":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Only an AI-software lab (SmartBots Lab) planned with no model, dataset or AI computing named."}}},
+"digitaldivides":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No rural access programme or rural/urban figures stated."}}},
+"digitalskills":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Training mentioned has no stated count of people trained."}}},
+"nonstatefinance":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No private amount stated."}}},
+"schoolinternet":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No school internet figure or compulsory curriculum stated."}}},
+"startups":{"countries":{"BWA":{"facts":[{"sub_indicator":"startuppolicy","aspect":"funded","value":"funded","fact":"Acting CEO Diane Mongudi of the Botswana Digital & Innovation Hub says the Botswana Innovation Fund provides seed funding to startups, with some funded projects already going to market.","as_of":"2024-04-19","date_precision":"day","system":"Botswana Innovation Fund","class":"startuppolicy"}],"systems":[{"system":"Botswana Innovation Fund","country_label":"Botswana","class":"startuppolicy","platform":"","owner":"Botswana Digital & Innovation Hub","tiers":""}],"note":""}}},
+"stemgraduates":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No STEM graduate share or research network stated."}}},
+"techhubs":{"countries":{"BWA":{"facts":[{"sub_indicator":"hub","aspect":"hubs","value":"inservice","fact":"Acting CEO Diane Mongudi says the Botswana Digital & Innovation Hub has run an incubation programme, begun in 2011 as the First Step Venture Centre, taking startups from ideation to market entry, with graduates now needing commercialisation help.","as_of":"2024-04-19","date_precision":"day","system":"First Step Venture Centre","class":"hub"}],"systems":[{"system":"Botswana Digital & Innovation Hub","country_label":"Botswana","class":"hub","platform":"","owner":"Government","tiers":""}],"note":""}}}
+}}

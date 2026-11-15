@@ -1,0 +1,7 @@
+{"slug": "2024-05-08-ssd-using-edtech-to-monitor-enrolment", "studies": {
+"educationmis": {"countries": {"SSD": {"facts": [], "systems": [{"system": "Schools' Attendance Monitoring System (SAMS)", "country_label": "South Sudan", "class": "other", "platform": "tablets syncing to SAMS", "owner": "GESS programme", "tiers": ""}], "note": "SAMS is the GESS programme's own system, no ministry education information system stated."}}},
+"g2ppayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "GESS cash transfers are a programme's own payments, no government role or digital payment channel stated."}}},
+"idregisters": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No register keyed on a national ID number is mentioned."}}},
+"schools": {"countries": {"SSD": {"facts": [{"sub_indicator": "emis", "aspect": "governance", "value": "owner:partner", "fact": "Girls' Education South Sudan says its staff collect enrolment data on tablets that sync to SAMS from 2023, in GESS-supported schools.", "as_of": "2023", "date_precision": "year", "system": "Schools' Attendance Monitoring System (SAMS)", "class": "emis"}], "systems": [{"system": "Schools' Attendance Monitoring System (SAMS)", "country_label": "South Sudan", "class": "other", "platform": "tablets", "owner": "GESS programme", "tiers": ""}], "note": ""}}},
+"socialprotection": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Cash transfer validation is a GESS programme process, no government programme system stated."}}}
+}}

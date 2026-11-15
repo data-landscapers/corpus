@@ -1,0 +1,214 @@
+{
+ "slug": "2026-08-01-tgo-togo-fact-sheet-january-june-2026",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "UNHCR says CNAR has run a biometric registration exercise in the Savanes region since 24 May 2026, registering 3,999 previously unregistered people, with 1,958 still unregistered at end June 2026, while identity card issuance is stalled for lack of materials.",
+       "as_of": "2026-05-24",
+       "date_precision": "day",
+       "system": "CNAR biometric registration exercise, Savanes",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNAR registration (Coordination Nationale d'Assistance aux Refugies)",
+       "country_label": "Togo",
+       "class": "displaced",
+       "platform": "biometric verification",
+       "owner": "CNAR with UNHCR support",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The UNHCR fact sheet states nothing for this study."
+    }
+   }
+  }
+ }
+}

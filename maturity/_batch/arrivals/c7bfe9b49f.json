@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-13-mus-communique-implementation-of-new-format-for-birth-stillbirth-marriage",
+ "studies": {
+  "registry": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Civil Status Database",
+       "country_label": "Mauritius",
+       "class": "certificate",
+       "platform": "",
+       "owner": "Civil Status Division",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a certificate format change; no statement on where events are entered."
+    }
+   }
+  }
+ }
+}

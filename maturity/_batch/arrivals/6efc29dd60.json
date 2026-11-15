@@ -1,0 +1,14 @@
+{"slug": "2023-11-19-moz-national-switch-fully-operational-communique", "studies": {
+"businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "SIMORede", "country_label": "Mozambique", "class": "oversight", "platform": "Euronet", "owner": "", "tiers": ""}], "note": "Communique names the national switch but does not say the central bank runs or oversees it, licenses providers or states a mandate."}}},
+"consumerprotection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"internationalstandards": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Only says the platform is aligned with international payment standards; a system built to a standard places nothing."}}},
+"paymentsuptake": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No survey share of adults with accounts stated."}}},
+"retailpayments": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "Banco de Moçambique states the new SIMORede platform offers interoperability (interconnection) between MNOs, banks and other financial service providers, with all banks and MNOs integrated since 19 November 2023.", "as_of": "2023-11-19", "date_precision": "day", "system": "SIMORede", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "Banco de Moçambique states all commercial banks and mobile network operators have been fully integrated into the National Switch and operate exclusively on the Euronet-provided SIMORede platform since 19 November 2023.", "as_of": "2023-11-19", "date_precision": "day", "system": "SIMORede", "class": "retail"}
+], "systems": [{"system": "SIMORede", "country_label": "Mozambique", "class": "retail", "platform": "Euronet", "owner": "Banco de Moçambique", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on tax or fee payment."}}}
+}}

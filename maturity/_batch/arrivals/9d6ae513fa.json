@@ -1,0 +1,34 @@
+{
+ "slug": "2024-11-21-ner-internet-le-niger-accorde-a-la-societe-starlink-niger-sarlu-une-licenc",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "The council of ministers granted Starlink Niger SARLU a licence to operate a public fixed low-orbit satellite internet network, on ARCEP's recommendation.",
+       "as_of": "2024-11-21",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Niger",
+       "class": "satellite",
+       "platform": "Starlink",
+       "owner": "Starlink Niger SARLU",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

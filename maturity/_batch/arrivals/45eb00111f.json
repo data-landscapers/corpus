@@ -1,0 +1,43 @@
+{
+ "slug": "2024-03-22-eth-innobiz-k-ethiopia-incubation-center-inaugurated",
+ "studies": {
+  "startups": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no startup law or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Innobiz-K Ethiopia, an incubation centre in the ICT Park jointly managed by the Ministry of Innovation and Technology and KOICA, was inaugurated on 22 March 2024, with no programme or cohort described.",
+       "as_of": "2024-03-22",
+       "date_precision": "day",
+       "system": "Innobiz-K Ethiopia",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Innobiz-K Ethiopia",
+       "country_label": "Ethiopia",
+       "class": "hub",
+       "platform": "",
+       "owner": "Ministry of Innovation and Technology and KOICA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "slug": "2026-07-07-ago-fim-do-papel-agt-exige-via-digital-para-pagamento-de-impostos-e-reclam",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Angola's AGT directed that payment of taxes be made electronically as a general rule through the Portal do Contribuinte, with office help only where internet access or digital literacy is lacking.",
+       "as_of": "2026-07-07",
+       "date_precision": "day",
+       "system": "Portal do Contribuinte",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Portal do Contribuinte",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "web portal",
+       "owner": "AGT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "Angola's AGT determined that tax payments be made electronically as a general rule through the Portal do Contribuinte.",
+       "as_of": "2026-07-07",
+       "date_precision": "day",
+       "system": "Portal do Contribuinte",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Portal do Contribuinte",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "web portal",
+       "owner": "AGT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

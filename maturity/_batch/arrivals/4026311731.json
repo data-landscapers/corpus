@@ -1,0 +1,43 @@
+{
+ "slug": "2024-10-22-lso-vodacom-lesotho-launches-software-factory-hub-to-empower-local-tech-st",
+ "studies": {
+  "startups": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on startup law, labelling or public fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Vodacom Lesotho launched its four-month Software Factory Hub incubation programme in Maseru, with five start-ups shortlisted from 37 applicants.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "Software Factory Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Software Factory Hub",
+       "country_label": "LSO",
+       "class": "hub",
+       "platform": "",
+       "owner": "Vodacom Lesotho",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

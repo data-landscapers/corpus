@@ -1,0 +1,223 @@
+{
+ "slug": "2026-05-15-moz-sadc-avanca-para-quadro-regional-unificado-de-governacao-de-dados",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Mozambique."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Seychelles."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "INTIC says Mozambique took part in the SADC Data Governance Forum in Seychelles, where member states validated the region's first unified data governance framework.",
+       "as_of": "2026-05-15",
+       "date_precision": "day",
+       "system": "SADC Data Governance Forum",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "INTIC says Seychelles took part in the SADC Data Governance Forum in Seychelles, where member states validated the region's first unified data governance framework.",
+       "as_of": "2026-05-15",
+       "date_precision": "day",
+       "system": "SADC Data Governance Forum",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

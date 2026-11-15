@@ -1,0 +1,15 @@
+{"slug": "2026-11-03-zaf-le-shift-lab-welcomes-14-start-ups-to-its-incubation-cohort", "studies": {
+"aisectoral": {"countries": {
+"MWI": {"facts": [], "systems": [], "note": "Startup products using AI for farmers; no public sector system uses AI."},
+"ZAF": {"facts": [], "systems": [], "note": "Startup products only; no public sector system uses AI."}}},
+"digitaldivides": {"countries": {
+"MWI": {"facts": [], "systems": [], "note": "Nothing on rural internet programmes or use."},
+"ZAF": {"facts": [], "systems": [], "note": "Nothing on rural internet programmes or use."}}},
+"startups": {"countries": {
+"MWI": {"facts": [], "systems": [], "note": "No startup law, label or public fund stated."},
+"ZAF": {"facts": [], "systems": [], "note": "An embassy incubation programme is a hub's own programme, not state startup law or fund."}}},
+"techhubs": {"countries": {
+"MWI": {"facts": [], "systems": [], "note": "Two Malawi startups joined the cohort; the programme and hub are in South Africa, none stated in Malawi."},
+"ZAF": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "The French Embassy and Wits University's Tshimologong Digital Innovation Precinct selected 14 start-ups from South Africa and Malawi for the first cohort of the Le Shift Lab incubation programme, with mentorship and workshops.", "as_of": "2026-11-03", "date_precision": "day", "system": "Le Shift Lab", "class": "hub"}],
+"systems": [{"system": "Le Shift Lab", "country_label": "South Africa", "class": "hub", "platform": "", "owner": "Embassy of France with Wits Tshimologong Digital Innovation Precinct", "tiers": ""}], "note": ""}}}
+}}

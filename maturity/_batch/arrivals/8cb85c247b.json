@@ -1,0 +1,52 @@
+{
+ "slug": "2026-05-08-tgo-djanta-tech-hub-le-togo-lance-son-premier-hub-technologique",
+ "studies": {
+  "startups": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Fonds Start",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "",
+       "owner": "Djanta Tech Hub",
+       "tiers": ""
+      }
+     ],
+     "note": "Planned Fonds Start grants sit inside one hub; no startup law, labelling or public startup fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The ministry inaugurated the 3,000 m2 Djanta Tech Hub in Lome on 7 May 2026, dedicated to incubation, acceleration and mentoring of tech startups and managed by CcHUB.",
+       "as_of": "2026-05-07",
+       "date_precision": "day",
+       "system": "Djanta Tech Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Djanta Tech Hub",
+       "country_label": "Togo",
+       "class": "hub",
+       "platform": "",
+       "owner": "Ministry of Public Service Efficiency and Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-06-11-sle-how-to-order-and-pay-for-starlink-internet-subscription-in-sierra-leon",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "Sierraloaded says Starlink has begun service in Sierra Leone and can be ordered at NLe1,020 a month with NLe7,860 hardware.",
+       "as_of": "2024-06-11",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Sierra Leone",
+       "class": "satellite",
+       "platform": "LEO satellite",
+       "owner": "SpaceX",
+       "tiers": "Standard, Mobile"
+      }
+     ],
+     "note": "No regulator subscriber count is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,7 @@
+{"slug": "2026-11-12-cpv-aila-ai-readiness-diagnostic-validation", "studies": {
+"aiabuse": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Names legal-framework gaps only; no rule, draft, authority or enforcement on AI harms stated."}}},
+"aigovernment": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Mentions digitised public services but no AI system in use or piloted in administration."}}},
+"aisectoral": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Names tourism and blue economy as potential only; no sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"CPV": {"facts": [], "systems": [], "note": "An AI readiness diagnostic (AILA) is an assessment, not a strategy; no strategy drafting stated."}}},
+"aisystems": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing stated as built or hosted in the country."}}}
+}}

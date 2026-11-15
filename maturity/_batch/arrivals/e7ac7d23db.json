@@ -1,0 +1,43 @@
+{
+ "slug": "2026-03-06-egy-egypt-un-experts-raise-alarm-over-violations-against-refugees-and-migr",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "documented",
+       "fact": "UN Special Procedures experts state 1,098,311 refugees and asylum seekers were registered with UNHCR in Egypt by December 2025, including 834,201 Sudanese.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "UNHCR registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNHCR registration",
+       "country_label": "Egypt",
+       "class": "displaced",
+       "platform": "",
+       "owner": "UNHCR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

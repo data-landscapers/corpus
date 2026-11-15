@@ -1,0 +1,12 @@
+{"slug":"2026-02-13-tza-ict-launches-tiered-start-ups-scheme-picks-161-innovators","studies":{
+"businesspayments":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Mentions government procurement programmes only as a platform link for startups; no e-procurement system stated."}}},
+"centralbank":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Nothing on central bank payments role."}}},
+"consumerprotection":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No account-ownership survey figure."}}},
+"retailpayments":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Nothing on retail payments."}}},
+"revenuecollection":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Nothing on revenue collection."}}},
+"startups":{"countries":{"TZA":{"facts":[{"sub_indicator":"startuppolicy","aspect":"labelled","value":"labelled","fact":"The ICTC director general said a government programme registers ICT start-ups (over 400 registered, 161 qualified) and labels them in tanzanite, gold and silver tiers, with the first labelled batch to be published in February 2026.","as_of":"2026-02-12","date_precision":"day","system":"ICTC start-up registration and tiered labelling programme","class":"startuppolicy"}],"systems":[{"system":"ICTC start-up registration and tiered labelling programme","country_label":"Tanzania","class":"startuppolicy","platform":"","owner":"Information and Communications Technology Commission","tiers":"tanzanite, gold, silver"}],"note":""}}},
+"techhubs":{"countries":{"TZA":{"facts":[{"sub_indicator":"hub","aspect":"hubs","value":"underway","fact":"The ICTC director general said more than 95 innovation hubs had been established nationwide by the end of 2025, with no cohort programme described for them.","as_of":"2025-12","date_precision":"month","system":"innovation hubs","class":"hub"}],"systems":[],"note":""}}}
+}}

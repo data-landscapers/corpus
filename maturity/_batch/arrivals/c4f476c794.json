@@ -1,0 +1,13 @@
+{"slug":"2026-01-23-tcd-tchad-l-etat-opte-pour-une-gestion-publique-100-numerique-des-2026","studies":{
+"businesspayments":{"countries":{"TCD":{"facts":[],"systems":[{"system":"FEN (Facturation Electronique Normalisee)","country_label":"FEN","class":"other","platform":"","owner":"Ministry of Finance","tiers":""}],"note":"FEN e-invoicing is not an e-procurement system; no tender system stated."}}},
+"centralbank":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Document states nothing on the central bank."}}},
+"consumerprotection":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"coresystems":{"countries":{"TCD":{"facts":[{"sub_indicator":"core","aspect":"finance","value":"inuse","fact":"The finance ministry's circular N°002/MFBEPCI/2026 says all 2026 public financial operations, commitment to payment, must be executed in SIGFiP.","as_of":"2026-01-01","date_precision":"day","system":"SIGFiP","class":"core"}],"systems":[{"system":"SIGFiP","country_label":"SIGFiP","class":"core","platform":"","owner":"Ministry of Finance","tiers":""}],"note":""}}},
+"crossborderpayments":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"customs":{"countries":{"TCD":{"facts":[],"systems":[{"system":"SYDONIA World","country_label":"SYDONIA World","class":"customs","platform":"ASYCUDA","owner":"","tiers":""}],"note":"SYDONIA named only as a revenue channel; declaration processing not stated."}}},
+"g2ppayments":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Payment rules cover public spending generally, no named programme paying people."}}},
+"paymentsuptake":{"countries":{"TCD":{"facts":[],"systems":[],"note":"No survey figure."}}},
+"retailpayments":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Mobile Money named only as an allowed government payment channel; no service status stated."}}},
+"revenuecollection":{"countries":{"TCD":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"The finance ministry's circular says cash collection of revenue by Taxes, Customs and Domains is banned from 2026 and receipts must pass through e-Tax, SYDONIA World and bank interfaces.","as_of":"2026-01-01","date_precision":"day","system":"e-Tax","class":"revenue"}],"systems":[{"system":"e-Tax","country_label":"e-Tax","class":"revenue","platform":"","owner":"Ministry of Finance","tiers":""}],"note":""}}},
+"taxadmin":{"countries":{"TCD":{"facts":[],"systems":[{"system":"e-Tax","country_label":"e-Tax","class":"taxsystem","platform":"","owner":"Ministry of Finance","tiers":""}],"note":"e-Tax named as a revenue channel; online filing not stated."}}}
+}}

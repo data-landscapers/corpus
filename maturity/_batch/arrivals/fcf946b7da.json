@@ -1,0 +1,494 @@
+{
+ "slug": "2025-02-01-ben-gulf-of-guinea-joint-response-plan-2024-regional-report",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "UNHCR reports that registration capacities were gradually strengthened in Benin and Togo in 2024, and about 6,200 IDPs were registered in Togo and Benin during the year.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "UNHCR refugee and IDP registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "UNHCR reports that registration of refugees and asylum-seekers was initiated in host communities in Ghana outside Zini and Tarikom in the second half of 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "UNHCR refugee registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "UNHCR reports that registration capacities were gradually strengthened in Benin and Togo in 2024, and about 6,200 IDPs were registered in Togo and Benin during the year.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "UNHCR refugee and IDP registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2024-08-28-bwa-starlink-launches-in-botswana-three-months-after-securing-licence",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "Starlink obtained an operating licence from BOCRA in May 2024, according to TechCabal.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "Starlink",
+       "class": "satellite"
+      },
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "Starlink is now available in Botswana, with hardware at P4,820 and P688 a month, according to TechCabal.",
+       "as_of": "2024-08-28",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Botswana",
+       "class": "satellite",
+       "platform": "LEO satellite",
+       "owner": "Starlink",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

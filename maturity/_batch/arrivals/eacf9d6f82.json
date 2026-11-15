@@ -1,0 +1,160 @@
+{
+ "slug": "2026-09-02-stp-pagamento-electronico-obrigatorio-nos-servicos-aduaneiros",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Autoridade Geral Aduaneira says electronic payment of customs declarations through participating banks, using a 20-digit reference, entered operation on 1 September 2026, with electronic channels mandatory from 1 October 2026.",
+       "as_of": "2026-09-01",
+       "date_precision": "day",
+       "system": "AGA electronic payment of customs declarations",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AGA electronic payment of customs declarations",
+       "country_label": "Sao Tome and Principe",
+       "class": "revenue",
+       "platform": "participating banks, 20-digit reference on Boletim de Liquidacao",
+       "owner": "Autoridade Geral Aduaneira",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

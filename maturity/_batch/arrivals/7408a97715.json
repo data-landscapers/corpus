@@ -1,0 +1,43 @@
+{
+ "slug": "2026-07-02-tun-tunisia-refugees-and-asylum-seekers-trapped-in-cycle-of-abuse-after-au",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "none",
+       "fact": "Amnesty International says authorities ordered UNHCR in June 2024 to suspend asylum registrations and refugee status determinations.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "UNHCR registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNHCR registration",
+       "country_label": "Tunisia",
+       "class": "displaced",
+       "platform": "",
+       "owner": "UNHCR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

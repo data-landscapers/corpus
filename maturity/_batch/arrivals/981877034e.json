@@ -1,0 +1,10 @@
+{"slug": "2026-07-01-gab-l-arcep-gabon-a-lagos-pour-l-integration-numerique-africaine-cap-sur-l", "studies": {
+"digitalsovereignty": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Document states nothing on state data control."}}},
+"exchangepoints": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Only advocacy for national IXPs; no Gabon exchange point stated in service."}}},
+"regionalinfrastructure": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No shared cable, exchange or storage facility named; roadmap on IXPs is intent."}}},
+"regionallaw": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No African legal text signed, ratified or transposed is named."}}},
+"regionalpolicy": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Gabon's regulator ARCEP, as One Africa Network lead country, took part in the 2-4 June 2026 ECOWAS, ARTAO and Smart Africa workshop in Lagos, and the document says the DRC joined the OAN in April 2026 by signing a bilateral memorandum of understanding.", "as_of": "2026-04", "date_precision": "month", "system": "One Africa Network", "class": "cooperation"},
+{"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "ARCEP Gabon reports free roaming in the CEMAC zone covers 100% of operators in Congo and Equatorial Guinea, 87% in Cameroon, 85% in the Central African Republic and 83% in Chad, and a 91% overall OAN implementation rate for Gabon.", "as_of": "2026-06", "date_precision": "month", "system": "One Africa Network free roaming", "class": "cooperation"}
+], "systems": [{"system": "One Africa Network", "country_label": "Gabon", "class": "cooperation", "platform": "mobile roaming", "owner": "Smart Africa / regional regulators", "tiers": ""}], "note": ""}}}
+}}

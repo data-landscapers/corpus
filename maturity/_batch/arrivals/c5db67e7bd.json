@@ -1,0 +1,10 @@
+{"slug": "2024-03-26-lso-central-bank-of-lesotho-and-fintech-launch-leswitch", "studies": {
+"businesspayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document does not mention procurement."}}},
+"centralbank": {"countries": {"LSO": {"facts": [{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The Lesotho Tribune reports the Central Bank of Lesotho, with Fintech, introduced LESWITCH, a national platform enabling transactions between mobile money wallets.", "as_of": "2024-03-26", "date_precision": "day", "system": "LESWITCH", "class": "oversight"}], "systems": [{"system": "LESWITCH", "country_label": "Lesotho", "class": "oversight", "platform": "national payment switch", "owner": "Central Bank of Lesotho", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document does not mention consumer protection."}}},
+"crossborderpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document states no cross-border corridor or regional link."}}},
+"g2ppayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document does not mention government payments to people."}}},
+"paymentsuptake": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document gives no survey account-ownership figure."}}},
+"retailpayments": {"countries": {"LSO": {"facts": [{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "The Lesotho Tribune reports LESWITCH enables transactions between mobile money accounts including Mpesa, Ecocash, My Wallet, C-Pay and Khetsi, letting users send money to other wallets.", "as_of": "2024-03-26", "date_precision": "day", "system": "LESWITCH", "class": "retail"}], "systems": [{"system": "LESWITCH", "country_label": "Lesotho", "class": "retail", "platform": "national payment switch", "owner": "Central Bank of Lesotho", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document does not mention tax or fee payment."}}}
+}}

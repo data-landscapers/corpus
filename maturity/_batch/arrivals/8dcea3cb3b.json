@@ -1,0 +1,32 @@
+{
+ "slug": "2026-11-12-ben-transit-transport-digitalisation-quatre-chantiers",
+ "studies": {
+  "customs": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "GUCE",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Names a GUCE-customs link as a priority to examine; no statement that a system or single window is in service."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on school internet or the curriculum."
+    }
+   }
+  }
+ }
+}

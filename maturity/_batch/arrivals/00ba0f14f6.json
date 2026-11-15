@@ -1,0 +1,13 @@
+{"slug": "2026-10-07-bwa-botswana-tech-fund-announces-first-cohort-of-accelerator-program", "studies": {
+"businesspayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Document states nothing on the central bank or payments oversight."}}},
+"consumerprotection": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "The only corridor named is South Africa-Zimbabwe, for a Zimbabwean startup, not Botswana."}}},
+"g2ppayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
+"nonstatefinance": {"countries": {"BWA": {"facts": [], "systems": [{"system": "Botswana Tech Fund", "country_label": "Botswana", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Fund terms and selected startups only; no signed investment or amount put in is stated."}}},
+"paymentsuptake": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Document gives no account-holding survey."}}},
+"retailpayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Document states nothing on Botswana's retail payments."}}},
+"revenuecollection": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}},
+"startups": {"countries": {"BWA": {"facts": [], "systems": [{"system": "Botswana Tech Fund", "country_label": "Botswana", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "No startup law or public scheme stated; the fund is not shown as public or public-backed."}}},
+"techhubs": {"countries": {"BWA": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "Botswana Tech Fund announced seven startups, three from Botswana, for its first three-month accelerator cohort, with sessions to be held in Gaborone and a demo day, per BW TechZone.", "as_of": "2026-10-07", "date_precision": "day", "system": "Botswana Tech Fund accelerator programme", "class": "hub"}], "systems": [{"system": "Botswana Tech Fund accelerator programme", "country_label": "Botswana", "class": "hub", "platform": "", "owner": "Botswana Tech Fund", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,210 @@
+{
+ "slug": "2026-10-31-uga-can-ugandas-national-payment-switch-bring-down-digital-transaction-cos",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "The Bank of Uganda annual report 2025/26, as relayed, says it licensed ten institutions as payment service providers or payment system operators during the year.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Bank of Uganda payment service provider licensing",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Bank of Uganda National Payment Switch (proposed, under consultation)",
+       "country_label": "Uganda",
+       "class": "other",
+       "platform": "",
+       "owner": "Bank of Uganda",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The document says Bank of Uganda initiated a review of the National Payment Systems Regulations after industry feedback, with amendments to be finalised in FY2026/27.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "National Payment Systems Regulations",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "non-bank",
+       "fact": "The document says Bank of Uganda licensed ten institutions as payment service providers or payment system operators during FY2025/26.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "National Payment Systems Regulations",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The document describes MTN mobile money wallets in use, with a published agent withdrawal fee of UGX1,925.",
+       "as_of": "2026-10-31",
+       "date_precision": "day",
+       "system": "MTN MoMo",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The document says Airtel has partnered with 25 commercial banks, credit institutions and microfinance institutions to enable movement between bank accounts and its wallets.",
+       "as_of": "2026-10-31",
+       "date_precision": "day",
+       "system": "Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN MoMo",
+       "country_label": "Uganda",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN MoMo Uganda",
+       "tiers": ""
+      },
+      {
+       "system": "Airtel Money",
+       "country_label": "Uganda",
+       "class": "retail",
+       "platform": "",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-02-06-gha-unhcr-welcomes-ghanas-granting-of-prima-facie-refugee-status-to-displa",
+ "studies": {
+  "refugees": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "documented",
+       "fact": "UNHCR says the Ghana Refugee Board with UNHCR had biometrically registered 9,625 displaced Burkinabes of an estimated 17,000 as of 6 February 2025, after prima facie refugee status was gazetted on 30 January 2025.",
+       "as_of": "2025-02-06",
+       "date_precision": "day",
+       "system": "Ghana Refugee Board biometric registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana Refugee Board biometric registration",
+       "country_label": "Ghana",
+       "class": "displaced",
+       "platform": "",
+       "owner": "Ghana Refugee Board",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

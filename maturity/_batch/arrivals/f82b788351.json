@@ -1,0 +1,10 @@
+{"slug":"2026-01-01-mdg-technopole-madagascar-entrepreneuriat-numerique","studies":{
+"aiabuse":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document says nothing on rules or authority against AI harms."}}},
+"aigovernment":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document says nothing on government use of AI."}}},
+"aisectoral":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document says nothing on AI in a public sector system."}}},
+"aisystems":{"countries":{"MDG":{"facts":[],"systems":[{"system":"Technopole Madagascar","country_label":"Madagascar","class":"other","platform":"","owner":"Technopole Madagascar","tiers":""}],"note":"Future AI research centre is only a stated intention; no AI model, dataset or computing is stated."}}},
+"localgov":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document says nothing on local government connection."}}},
+"policyresearch":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Only a future AI research centre is announced; no research held or published."}}},
+"startups":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Document states no startup law, labelling or public fund."}}},
+"techhubs":{"countries":{"MDG":{"facts":[{"sub_indicator":"hub","aspect":"hubs","value":"underway","fact":"Technopole Madagascar says its roughly 6,000 m2 AI and tech campus at Andohatapenaka, Antananarivo, is under construction, with ramp-up planned for 2027 and full launch forecast for Q1 2028.","as_of":"2026","date_precision":"year","system":"Technopole Madagascar","class":"hub"}],"systems":[{"system":"Technopole Madagascar","country_label":"Madagascar","class":"hub","platform":"","owner":"Technopole Madagascar","tiers":""}],"note":""}}}
+}}

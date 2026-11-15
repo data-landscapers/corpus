@@ -1,0 +1,43 @@
+{
+ "slug": "2024-06-28-gin-l-acces-a-l-energie-un-levier-pour-accelerer-la-realisation-des-object",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "rural",
+       "aspect": "access",
+       "value": "official:7",
+       "fact": "The UN System in Guinea says rural household access to electricity rose from 2 percent in 2018 to 7 percent in 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Rural household electricity access",
+       "class": "ruralpower"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

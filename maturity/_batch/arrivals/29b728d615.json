@@ -1,0 +1,9 @@
+{"slug": "2025-07-09-uga-lisa-transforming-refugee-verification-through-self-service", "studies": {
+"civilserviceskills": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document states nothing on civil-service digital skills training."}}},
+"dataprotectionlaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document states nothing on a data protection law, only UNHCR's own standards."}}},
+"digitalskills": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document states no programme teaching the public digital skills."}}},
+"digitalstrategy": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document names no Ugandan national digital strategy."}}},
+"idrobustness": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document concerns UNHCR refugee verification, not the national ID system."}}},
+"refugees": {"countries": {"UGA": {"facts": [{"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "UNHCR says its LISA self-service biometric kiosk for refugees to verify their presence completed user testing in Kampala, with a pilot launch planned for late 2025.", "as_of": "2025-07", "date_precision": "month", "system": "LISA (Localized Identification & Self-service Access)", "class": "displaced"}], "systems": [{"system": "LISA", "country_label": "Uganda", "class": "displaced", "platform": "self-service biometric kiosk, interoperable with UNHCR registration systems", "owner": "UNHCR", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document states nothing on school internet or curriculum."}}}
+}}

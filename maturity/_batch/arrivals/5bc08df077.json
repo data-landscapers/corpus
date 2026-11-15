@@ -1,0 +1,6 @@
+{"slug": "2024-01-19-cog-congo-numerique-caria-tech-village-un-incubateur-pour-assurer-lemploya", "studies": {
+"civilserviceskills": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on civil servants."}}},
+"digitalskills": {"countries": {"COG": {"facts": [], "systems": [], "note": "No public digital-skills programme stated."}}},
+"startups": {"countries": {"COG": {"facts": [{"sub_indicator": "startuppolicy", "aspect": "law", "value": "adopted", "fact": "Congo's digital minister said on 17 January 2024 that young innovators with good projects pay no taxes for five years under the startups law.", "as_of": "2024-01-17", "date_precision": "day", "system": "Startups law", "class": "startuppolicy"}], "systems": [], "note": ""}}},
+"techhubs": {"countries": {"COG": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "Congo's digital minister launched construction of the Caria Tech village technology park at Kintele on 17 January 2024, a planned five-storey building.", "as_of": "2024-01-17", "date_precision": "day", "system": "Caria Tech village", "class": "hub"}], "systems": [{"system": "Caria Tech village", "country_label": "Congo", "class": "hub", "platform": "", "owner": "Ministry in charge of digital economy", "tiers": ""}], "note": ""}}}
+}}

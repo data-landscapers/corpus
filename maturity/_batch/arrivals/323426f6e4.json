@@ -1,0 +1,39 @@
+{"slug": "2025-01-01-eth-digital-public-goods-in-use-applications-of-openg2p-in-ethiopia", "studies": {
+"agrisatellite": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Satellite images are named only as a data source for the farmer registry, with no farming service stated."}}},
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No authentication service in use is stated; Fayda verification at issue is not described as a service."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Civil register and ID link not mentioned."}}},
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Procurement not mentioned."}}},
+"centralbank": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Central bank not mentioned."}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Consumer protection not mentioned."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Cross-border payments not mentioned."}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "underway", "fact": "OpenG2P says interaction with a payment system to disburse funds of the Ministry of Women and Social Affairs' Urban Destitute Programme is in progress.", "as_of": "2025", "date_precision": "year", "system": "OpenG2P Disbursement Bridge", "class": "g2p"}
+], "systems": [{"system": "OpenG2P Disbursement Bridge", "country_label": "Ethiopia", "class": "g2p", "platform": "OpenG2P", "owner": "Ministry of Women and Social Affairs", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No count or share of the population holding Fayda is given."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No number at birth mentioned."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Who operates, maintains or owns the ID system is not stated."}}},
+"idregisters": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "OpenG2P says it seeded its social registry, which holds about 300,000 relief registrants for the Ethiopian Disaster Risk Management Commission, with Fayda IDs.", "as_of": "2025", "date_precision": "year", "system": "OpenG2P Social Registry", "class": "register"},
+{"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "OpenG2P says the Agricultural Transformation Institute's farmer registry is in a pre-pilot with 1,846 farmers registered and is being integrated with Fayda ID.", "as_of": "2025", "date_precision": "year", "system": "OpenG2P Farmer Registry", "class": "register"}
+], "systems": [{"system": "OpenG2P Social Registry", "country_label": "Ethiopia", "class": "register", "platform": "OpenG2P", "owner": "Ethiopian Disaster Risk Management Commission", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on biometrics, certification or assurance of the ID system."}}},
+"idverification": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No other system is said to check people against the ID in service."}}},
+"localgov": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Local government offices not mentioned."}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"refugees": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "displaced", "aspect": "registration", "value": "documented", "fact": "OpenG2P says the Ethiopian Disaster Risk Management Commission's pilot registered 18,809 IDPs and 274,071 returnees, with Fayda ID registration in IDP camps.", "as_of": "2025", "date_precision": "year", "system": "OpenG2P Social Registry", "class": "displaced"}
+], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Retail payments not mentioned."}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Revenue collection not mentioned."}}},
+"socialexchange": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "OpenG2P says the social registry for the Ethiopian Disaster Risk Management Commission's relief programme is seeded with Fayda ID from the National ID Program, with Fayda integrated to keep the registry clean.", "as_of": "2025", "date_precision": "year", "system": "OpenG2P Social Registry", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"socialprotection": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "socialmis", "aspect": "system", "value": "inservice", "fact": "OpenG2P says its platform has registered about 300,000 people for the Ethiopian Disaster Risk Management Commission's Emergency Relief Programme, ranked by a Food Security Score.", "as_of": "2025", "date_precision": "year", "system": "OpenG2P Program and Beneficiary Management System", "class": "socialmis"}
+], "systems": [], "note": ""}}},
+"socialregistry": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "OpenG2P says its platform has registered about 300,000 individuals for the Ethiopian Disaster Risk Management Commission's relief programmes.", "as_of": "2025", "date_precision": "year", "system": "OpenG2P Social Registry", "class": "social"},
+{"sub_indicator": "social", "aspect": "registry", "value": "underway", "fact": "OpenG2P says the Ministry of Women and Social Affairs is setting up a National Social Registry, with a pilot that registered 821 individuals in Addis Ababa.", "as_of": "2025", "date_precision": "year", "system": "OpenG2P Social Registry", "class": "social"},
+{"sub_indicator": "social", "aspect": "linked", "value": "linked", "fact": "OpenG2P says it seeded its social registry with Fayda IDs issued by the National ID Program.", "as_of": "2025", "date_precision": "year", "system": "OpenG2P Social Registry", "class": "social"}
+], "systems": [{"system": "OpenG2P Social Registry", "country_label": "Ethiopia", "class": "social", "platform": "OpenG2P", "owner": "Ethiopian Disaster Risk Management Commission; Ministry of Women and Social Affairs", "tiers": ""}], "note": ""}}}
+}}

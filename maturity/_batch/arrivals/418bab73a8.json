@@ -1,0 +1,8 @@
+{"slug":"2026-02-17-stp-protecao-social-lanca-inquerito-piloto-para-a-ii-recertificacao-e-atua","studies":{
+"landregister":{"countries":{"STP":{"facts":[],"systems":[],"note":"Says nothing on land registers."}}},
+"socialexchange":{"countries":{"STP":{"facts":[],"systems":[],"note":"No link between systems is stated."}}},
+"socialregistry":{"countries":{"STP":{"facts":[
+{"sub_indicator":"social","aspect":"registry","value":"inservice","fact":"The DPSSF press note describes the Cadastro Social Único as the country's largest social protection database, being recertified and expanded, with a pilot survey on digital tools from 17 to 20 February 2026 in three districts.","as_of":"2026-02-17","date_precision":"day","system":"Cadastro Social Único","class":"social"},
+{"sub_indicator":"social","aspect":"programmes","value":"several","fact":"The DPSSF says the Cadastro Social Único is the reference instrument for several programmes, among them Programa Família Vulnerável and the Apoio à Criação do Próprio Emprego component.","as_of":"2026-02-17","date_precision":"day","system":"Cadastro Social Único","class":"social"}
+],"systems":[{"system":"Cadastro Social Único","country_label":"São Tomé e Príncipe","class":"social","platform":"","owner":"DPSSF, Ministry of Labour, Solidarity and Social Security","tiers":""}],"note":""}}}
+}}

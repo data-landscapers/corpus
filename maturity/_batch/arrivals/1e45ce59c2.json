@@ -1,0 +1,10 @@
+{"slug": "2026-03-11-ken-central-bank-of-kenya-and-national-bank-of-rwanda-sign-mou-on-licence", "studies": {
+"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document does not state that the National Bank of Rwanda licenses providers, runs a switch or is on PAPSS; it speaks only of a planned passporting framework."}}},
+"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document gives no account-ownership survey figure."}}},
+"regionallaw": {"countries": {"RWA": {"facts": [{"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The National Bank of Rwanda and the Central Bank of Kenya signed an MoU on 11 March 2026 committing to develop a licence passporting framework for payment service providers, anchored on the EAC Cross-Border Payment System Masterplan.", "as_of": "2026-03-11", "date_precision": "day", "system": "CBK-NBR Licence Passporting Framework MoU", "class": "harmonisation"}], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document names licensed PSPs in Rwanda only in passing and states no mobile money or retail service in service."}}},
+"revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}}
+}}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-03-13-civ-rci-un-label-pour-les-startups-numeriques-institue",
+ "studies": {
+  "startups": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Law 2023-901 of 23 November 2023 on promotion of digital startups, as cited by APAnews, instituted the labelling committee.",
+       "as_of": "2023-11-23",
+       "date_precision": "day",
+       "system": "Loi 2023-901 portant promotion des startups numeriques",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": "No startup was stated as labelled or funded; the decree only sets up the labelling committee."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub stated."
+    }
+   }
+  }
+ }
+}

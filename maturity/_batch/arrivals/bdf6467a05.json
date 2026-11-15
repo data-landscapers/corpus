@@ -1,0 +1,43 @@
+{
+ "slug": "2025-10-11-civ-atelier-de-validation-du-rapport-de-la-snds-2026-2030-une-etape-cle-po",
+ "studies": {
+  "publicconsultation": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop was on a statistics strategy, not a named digital law or policy."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "preparing",
+       "fact": "A workshop validated the action plan of the SNDS 2026-2030 on 10 October 2025, with adoption by the Council of Ministers still to follow, according to Abidjan Economie.",
+       "as_of": "2025-10-10",
+       "date_precision": "day",
+       "system": "SNDS 2026-2030",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SNDS 2026-2030",
+       "country_label": "SNDS 2026-2030",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Ministry of Economy, Plan and Development",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

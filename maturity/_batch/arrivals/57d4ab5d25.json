@@ -1,0 +1,43 @@
+{
+ "slug": "2024-06-23-dji-lancement-de-linitiative-bootcamp-startup-djibouti",
+ "studies": {
+  "startups": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no startup law, label or public fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "La Nation reports that the ministry's Centre de Leadership et de l'Entrepreneuriat launched its first bootcamp under its new incubation (IGNITE) and acceleration (BUILD) programmes, with 15 of 44 shortlisted projects going to a 3-month incubation.",
+       "as_of": "2024-06-21",
+       "date_precision": "day",
+       "system": "IGNITE incubation programme (CLE)",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup Djibouti / CLE IGNITE and BUILD",
+       "country_label": "Djibouti",
+       "class": "hub",
+       "platform": "",
+       "owner": "Centre de Leadership et de l'Entrepreneuriat (MDENI)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

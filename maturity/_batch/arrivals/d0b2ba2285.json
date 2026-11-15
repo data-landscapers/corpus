@@ -1,0 +1,234 @@
+{
+ "slug": "2026-11-12-parliament-commits-data-protection-bill-to-legislative-committee-by-ja",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Parliament approved the second reading of the Data Protection and Right to Access Information Bill, 2026, which would also give the public a right to access information held by public institutions, and committed it to the Legislative Committee (Concord Times).",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "Data Protection and Right to Access Information Bill, 2026",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "tabled",
+       "fact": "Parliament approved the second reading of the Data Protection and Right to Access Information Bill, 2026, and committed it to the Legislative Committee, with the Speaker directing a public call for position papers (Concord Times).",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "Data Protection and Right to Access Information Bill, 2026",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,18 @@
+{"slug":"2025-08-12-zwe-rbz-reports-record-us-44-9-billion-in-electronic-transactions-in-6-mon","studies":{
+"businesspayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"ZWE":{"facts":[
+{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"The RBZ says it has revised licensing and fee rules for money transfer and mobile banking operators.","as_of":"2025-08-12","date_precision":"day","system":"RBZ licensing rules","class":"oversight"},
+{"sub_indicator":"centralbank","aspect":"regional","value":"joined","fact":"The article says Zimbabwe's participation in PAPSS is expanding, with local banks processing ZAR 2.41 billion in SADC-RTGS transactions, but gives no PAPSS send-and-receive flows.","as_of":"2025-08-12","date_precision":"day","system":"PAPSS","class":"oversight"}],
+"systems":[{"system":"PAPSS","country_label":"Zimbabwe","class":"other","platform":"","owner":"","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing on consumer rules or redress."}}},
+"crossborderpayments":{"countries":{"ZWE":{"facts":[
+{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"The article says local banks processed ZAR 2.41 billion in SADC-RTGS transactions within Zimbabwe's expanding PAPSS participation.","as_of":"2025-08-12","date_precision":"day","system":"SADC-RTGS","class":"crossborder"},
+{"sub_indicator":"crossborder","aspect":"reported","value":"reported","fact":"The article reports ZAR 2.41 billion in SADC-RTGS transactions by local banks, with platform volumes down 23%.","as_of":"2025-08-12","date_precision":"day","system":"SADC-RTGS","class":"crossborder"}],
+"systems":[],"note":""}}},
+"g2ppayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No survey account-ownership share stated."}}},
+"retailpayments":{"countries":{"ZWE":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The RBZ says 381 million electronic transactions worth ZWG1.2 trillion in H1 2025 ran through channels including mobile money.","as_of":"2025-08-12","date_precision":"day","system":"mobile money","class":"retail"},
+{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"Governor Mushayavanhu says mobile money interoperability and instant payments are transforming how Zimbabweans transact and pay bills.","as_of":"2025-08-12","date_precision":"day","system":"mobile money interoperability","class":"retail"}],
+"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}}}

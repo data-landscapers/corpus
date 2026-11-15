@@ -1,0 +1,10 @@
+{"slug":"2026-11-13-cndp-north-africa-igf-data-protection-digital-sovereignty","studies":{
+"aiabuse":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document does not address AI harms."}}},
+"aigovernment":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document does not mention AI in administration."}}},
+"aisectoral":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document does not mention sectoral AI."}}},
+"aisystems":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document does not mention AI built in the country."}}},
+"dataprotectionauthority":{"countries":{"MAR":{"facts":[{"sub_indicator":"body","aspect":"standing","value":"constituted","fact":"CNDP's head of control and investigation, Mohamed Bakri, said the commission studies declarations, grants authorisations, frames transfers of data abroad, monitors compliance and handles complaints from data subjects.","as_of":"2026-11","date_precision":"month","system":"CNDP","class":"authority"}],"systems":[{"system":"CNDP","country_label":"Morocco","class":"authority","platform":"","owner":"Morocco","tiers":""}],"note":""}}},
+"dataprotectionlaw":{"countries":{"MAR":{"facts":[{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"CNDP's Mohamed Bakri cited Law 09.08 as the basis for classifying data and for prior declaration or authorisation of certain processing.","as_of":"2026-11","date_precision":"month","system":"Law 09.08","class":"general"},{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"CNDP, represented by Mohamed Bakri, took part in the 10th North Africa IGF in Rabat as a participating member and described its duties of authorisation, oversight and complaint handling.","as_of":"2026-11","date_precision":"month","system":"CNDP","class":"general"}],"systems":[],"note":""}}},
+"digitalsovereignty":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Only personal data under Law 09.08 and a speech on sovereignty in general; no rule on government data stated."}}},
+"egovservices":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document does not mention online government services."}}}
+}}

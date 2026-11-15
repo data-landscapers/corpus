@@ -1,0 +1,50 @@
+{
+ "slug": "2026-07-23-sdn-sudan-surveys-poverty-with-new-mechanisms",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Displaced people named only as a priority group; no registration or digital service stated."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Unified social registry named only as an intended use of survey results; no stated build or service."
+    }
+   }
+  }
+ }
+}

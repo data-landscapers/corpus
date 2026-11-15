@@ -732,7 +732,7 @@ SSD,26,2019-05-08-ssd-south-sudan-launches-civil-registry,2026-11-13,old,2026-11
 SWZ,40,2026-10-01-swz-2026-esccom-annual-report,2026-11-13,instrument,2026-11-13
 TGO,40,2026-11-07-tgo-conseil-des-ministres-du-06-novembre-2026,2026-11-13,nothing,2026-11-13
 UGA,67,2024-11-27-uga-watchdog-nrm-manifesto-week-customary-land-ownership,2026-11-13,nothing,2026-11-13
-BEN,85,2026-07-01-ben-fact-sheet-benin-january-june-2026,2026-11-13,,
+BEN,85,2026-07-01-ben-fact-sheet-benin-january-june-2026,2026-11-13,nothing,2026-11-15
 BFA,38,2025-01-01-bfa-catalogue-des-normes-abnorm-2025,2026-11-13,instrument,2026-11-13
 CIV,83,2025-10-13-civ-politique-s-de-l-etat-civil-les-enjeux-sociopolitiques-de-l-identifica,2026-11-13,instrument,2026-11-13
 CIV,84,2020-05-01-civ-rapport-annuel-sur-l-inclusion-financiere-2019,2026-11-13,instrument,2026-11-13
@@ -762,7 +762,7 @@ CIV,86,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-
 COD,45,2026-05-04-cod-fast-delivery-without-roots-hard-lessons-from-the-collapse-of-the-drc,2026-11-14,capped,2026-11-14
 COD,46,2023-12-01-cod-expanding-and-improving-social-safety-nets-through-digitalization-conc,2026-11-14,instrument,2026-11-14
 COD,47,2022-09-08-cod-ordonnance-loi-n-22-030-du-8-septembre-2022-relative-a-la-promotion-de,2026-11-14,instrument,2026-11-14
-COM,27,2026-11-09-com-le-gouvernement-comorien-et-la-banque-mondiale-renforcent-leur-partena,2026-11-14,,
+COM,27,2026-11-09-com-le-gouvernement-comorien-et-la-banque-mondiale-renforcent-leur-partena,2026-11-14,nothing,2026-11-15
 CPV,14,2023-06-01-cpv-termos-de-referencia-assistencia-tecnica-para-a-analise-do-custo-benef,2026-11-14,old,2026-11-14
 DJI,28,2023-10-01-dji-la-celebration-de-la-journee-internationale-de-l-identite-a-djibouti,2026-11-14,old,2026-11-14
 DJI,29,2025-03-01-dji-forum-mondial-sur-la-transparence-et-l-echange-de-renseignements-a-des,2026-11-14,instrument,2026-11-14
@@ -781,7 +781,7 @@ KEN,58,2023-05-01-ken-supporting-effective-access-to-social-protection-the-role-
 KEN,59,2020-06-01-ken-opportunities-of-and-obstacles-to-the-utilisation-of-the-enhanced-sing,2026-11-14,instrument,2026-11-14
 LBR,36,2025-01-01-lbr-national-development-plan-2025-2029-arrest-agenda-for-inclusive-develo,2026-11-14,instrument,2026-11-14
 LBR,37,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
-LBY,29,2026-08-11-lby-social-affairs-minister-reviews-unified-social-registry-progress,2026-11-14,,
+LBY,29,2026-08-11-lby-social-affairs-minister-reviews-unified-social-registry-progress,2026-11-14,nothing,2026-11-15
 LSO,35,2021-01-01-lso-lesotho-national-social-protection-strategy-ii-2021-2031,2026-11-14,instrument,2026-11-14
 MDG,20,2026-01-01-mdg-le-regime-malgache-de-securite-sociale,2026-11-14,instrument,2026-11-14
 MLI,38,2024-04-01-mli-mali-note-sur-la-situation-economique-chapitre-special-les-filets-soci,2026-11-14,instrument,2026-11-14
@@ -798,8 +798,8 @@ NGA,65,2026-10-22-nga-fg-links-15-6m-nigerians-to-nin-in-social-register,2026-11
 NGA,66,2021-11-23-nga-project-appraisal-document-national-social-safety-net-program-scale-up,2026-11-14,instrument,2026-11-14
 NGA,67,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
 SDN,13,2025-02-28-sudan-family-support-project-icr-worldbank,2026-11-14,instrument,2026-11-14
-SEN,77,2026-09-08-sen-bourses-familiales-le-rnu-compte-1-000-649-menages-apres-la-recertific,2026-11-14,,
-SEN,78,2026-06-22-sen-protection-sociale-le-gouvernement-accelere-la-reforme-du-registre-nat,2026-11-14,,
+SEN,77,2026-09-08-sen-bourses-familiales-le-rnu-compte-1-000-649-menages-apres-la-recertific,2026-11-14,nothing,2026-11-15
+SEN,78,2026-06-22-sen-protection-sociale-le-gouvernement-accelere-la-reforme-du-registre-nat,2026-11-14,nothing,2026-11-15
 SEN,79,2026-09-18-sen-bourses-de-securite-familiale-la-dgpsn-alerte-sur-une-arnaque-aux-insc,2026-11-14,capped,2026-11-15
 SEN,80,2026-09-07-sen-bourses-de-securite-familiale-le-nombre-de-beneficiaires-passe-de-355,2026-11-14,capped,2026-11-14
 SEN,81,2023-10-01-sen-atelier-technique-multi-pays-sur-les-registres-sociaux-2-5-octobre-202,2026-11-14,instrument,2026-11-14
@@ -809,11 +809,11 @@ SEN,84,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-
 SLE,25,2026-09-25-sle-nspa-seeks-nle187-8m-for-2027-budget,2026-11-14,capped,2026-11-15
 SLE,26,2022-01-01-sle-national-social-protection-strategy-for-sierra-leone-2022-2026,2026-11-14,instrument,2026-11-14
 SLE,27,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
-STP,27,2026-08-31-stp-dpssf-inicia-4-o-pagamento-a-6-mil-familias-vulneraveis-em-stp,2026-11-14,,
+STP,27,2026-08-31-stp-dpssf-inicia-4-o-pagamento-a-6-mil-familias-vulneraveis-em-stp,2026-11-14,nothing,2026-11-15
 STP,28,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
 SYC,21,2026-02-05-syc-seychelles-modernizing-audit-process-and-tax-administration-system-map,2026-11-14,instrument,2026-11-14
 TCD,23,2022-12-01-tcd-linking-humanitarian-cash-assistance-and-national-social-protection-sy,2026-11-14,instrument,2026-11-14
-TGO,41,2025-10-29-tgo-grit-lome-fait-vibrer-la-tech-africaine,2026-11-14,,
+TGO,41,2025-10-29-tgo-grit-lome-fait-vibrer-la-tech-africaine,2026-11-14,nothing,2026-11-15
 TGO,42,2023-12-01-cod-expanding-and-improving-social-safety-nets-through-digitalization-conc,2026-11-14,instrument,2026-11-14
 TGO,43,2023-11-01-bfa-the-challenge-of-coordination-and-inclusion-use-of-social-registries-a,2026-11-14,instrument,2026-11-14
 TUN,66,2019-04-05-tun-le-nouveau-registre-d-entreprise-vers-une-meilleure-transparence-des-t,2026-11-14,old,2026-11-14
@@ -822,10 +822,10 @@ TUN,68,2020-06-01-tun-tunisia-first-resilience-and-recovery-emergency-developmen
 ZMB,35,2025-01-01-zmb-2025-national-social-protection-policy,2026-11-14,instrument,2026-11-14
 ZMB,36,2023-01-01-zmb-towards-a-more-adaptive-social-protection-system-in-zambia,2026-11-14,instrument,2026-11-14
 ZWE,36,2026-06-24-zwe-zimbabwe-social-registry-support-project-project-paper-report-no-pphi0,2026-11-14,instrument,2026-11-14
-BFA,41,2026-11-13-bfa-cefore-preparer-votre-creation-d-entreprise,2026-11-15,,
+BFA,41,2026-11-13-bfa-cefore-preparer-votre-creation-d-entreprise,2026-11-15,nothing,2026-11-15
 COG,40,2020-03-12-cog-arrete-n5327-du-12-mars-2020-fixant-les-modalites-d-attribution-et-d-u,2026-11-15,old,2026-11-15
-LBY,30,2026-11-14-lby-pilot-electronic-registration-foreign-companies,2026-11-15,,
+LBY,30,2026-11-14-lby-pilot-electronic-registration-foreign-companies,2026-11-15,nothing,2026-11-15
 LBY,31,2026-11-12-ministry-of-economy-trade-launches-e-system-for-inquiring-about-commercial-agencies,2026-11-15,capped,2026-11-15
 SEN,85,2026-10-25-sen-mefp-clarification-bourses-securite-familiale-35-a-70-milliards,2026-11-15,capped,2026-11-15
 SWZ,41,2025-07-19-swz-we-are-on-the-right-path-says-groening-as-ers-revenue-hits-record-high,2026-11-15,capped,2026-11-15
-ZWE,37,2026-11-13-zwe-undp-shared-health-record-registries-hie-rfp,2026-11-15,,
+ZWE,37,2026-11-13-zwe-undp-shared-health-record-registries-hie-rfp,2026-11-15,nothing,2026-11-15

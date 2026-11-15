@@ -1,0 +1,171 @@
+{
+ "slug": "2024-12-31-bfa-list-of-electronic-money-issuing-institutions-as-of-december-31-2024",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "BCEAO's register of e-money issuing initiatives at 31 December 2024 lists eight in Burkina Faso, including Orange Money, Moov Money, Coris Money and Wave, on cell phones.",
+       "as_of": "2024-12-31",
+       "date_precision": "day",
+       "system": "Orange Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money",
+       "country_label": "Burkina Faso",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "BCEAO's register of e-money issuing initiatives at 31 December 2024 lists two in Guinea-Bissau, MTN Mobile Money and Orange Money, on cell phones.",
+       "as_of": "2024-12-31",
+       "date_precision": "day",
+       "system": "MTN Mobile Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Guinea-Bissau",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Register of e-money issuers states nothing this study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2025-08-27-moz-zambezi-tech-hub-nears-completion-empowering-youth-led-smes-in-central",
+ "studies": {
+  "startups": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no startup law or public fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Jembi says the Zambezi Tech Hub in Quelimane, at INEP's Zambezia delegation, is in final infrastructure installation and due to operate in about two months (VAMOZ DIGITAL!, EU-funded via AICS).",
+       "as_of": "2025-08-27",
+       "date_precision": "day",
+       "system": "Zambezi Tech Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Zambezi Tech Hub",
+       "country_label": "Mozambique",
+       "class": "hub",
+       "platform": "",
+       "owner": "Jembi / INEP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

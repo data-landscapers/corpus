@@ -1,0 +1,70 @@
+{
+ "slug": "2025-01-10-lbr-starlink-goes-live-in-liberia",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Starlink licence is a commercial roll-out; no government rural programme stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "No strategy stated."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an unsourced 30% penetration remark, not a stated survey or ITU share of people."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "No local government office connection stated."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "Space in Africa reports the Liberia Telecommunications Authority signed a one-year licensing agreement with Starlink, which is announced as officially operational.",
+       "as_of": "2025-01-10",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Liberia",
+       "class": "satellite",
+       "platform": "LEO satellite",
+       "owner": "SpaceX",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

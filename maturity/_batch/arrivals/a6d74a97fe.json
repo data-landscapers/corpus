@@ -1,0 +1,60 @@
+{
+ "slug": "2024-10-22-tza-19th-eac-sectoral-council-on-transport-communications-and-meteorology",
+ "studies": {
+  "regionalpolicy": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "The EAC Deputy Secretary General told the 19th Sectoral Council that Burundi has joined the EAC One Network Area.",
+       "as_of": "2024-10-22",
+       "date_precision": "day",
+       "system": "EAC One Network Area",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The EAC Deputy Secretary General told the 19th Sectoral Council that Tanzania has joined the EAC One Network Area.",
+       "as_of": "2024-10-22",
+       "date_precision": "day",
+       "system": "EAC One Network Area",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "The EAC says Tanzania has joined the One Network Area roaming framework, asking other states to onboard it so the framework is fully effective.",
+       "as_of": "2024-10-22",
+       "date_precision": "day",
+       "system": "EAC One Network Area",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "EAC One Network Area",
+       "country_label": "Tanzania",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "East African Community",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

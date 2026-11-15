@@ -1,0 +1,11 @@
+{"slug":"2026-03-31-cmr-vers-une-douane-sans-cash-visa-bgfibank-le-guce-et-trustpayway-misent","studies":{
+"businesspayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on a central bank role."}}},
+"consumerprotection":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on consumer rules or redress."}}},
+"crossborderpayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on cross-border payments."}}},
+"customs":{"countries":{"CMR":{"facts":[],"systems":[{"system":"GUCE","country_label":"Cameroon","class":"other","platform":"","owner":"","tiers":""}],"note":"Document covers payment of duties by card, not declaration processing or a single window run."}}},
+"g2ppayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document gives no adult account survey figure for Cameroon."}}},
+"retailpayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document concerns a business card, not retail wallets or switches."}}},
+"revenuecollection":{"countries":{"CMR":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"Visa's Cameroon country manager says customs-duty payment through the GUCE x BGFIBank Business Card, linked to GUCE, Trustpayway and Visa systems, is now fully digital.","as_of":"2026-03-31","date_precision":"day","system":"Carte Business GUCE x BGFIBank","class":"revenue"}],"systems":[{"system":"Carte Business GUCE x BGFIBank","country_label":"Cameroon","class":"revenue","platform":"Visa, Trustpayway","owner":"GUCE, BGFIBank Cameroun","tiers":""}],"note":""}}}
+}}

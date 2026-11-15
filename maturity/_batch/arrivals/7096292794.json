@@ -1,0 +1,61 @@
+{
+ "slug": "2026-01-30-tza-certified-clients-under-iso-27001-2022-information-security-management",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Certificate list; no online service stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a national ID."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A certificate places nothing for this study."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Certificate scope is coordination and regulation, not staff running systems."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "certification",
+       "value": "public-body",
+       "fact": "The Tanzania Bureau of Standards lists the e-Government Authority (Dar es Salaam, Iringa and Dodoma offices) as certified under ISO 27001:2022 since 2026-01-30, certificate TZ-ISMS-01, expiring 2029-01-29.",
+       "as_of": "2026-01-30",
+       "date_precision": "day",
+       "system": "ISO 27001:2022 ISMS certification",
+       "class": "body"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

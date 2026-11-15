@@ -1,0 +1,329 @@
+{
+ "slug": "2026-02-01-ken-february-newsletter-edition",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "CCTPMIS link to civil registration is a social MIS link, not a civil register to national ID link."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The newsletter says the CCTPMIS facilitates efficient electronic disbursements for Kenya's Inua Jamii cash transfers.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "CCTPMIS",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CCTPMIS",
+       "country_label": "Kenya",
+       "class": "socialmis",
+       "platform": "MIS",
+       "owner": "Government (Inua Jamii)",
+       "tiers": ""
+      },
+      {
+       "system": "Enhanced Single Registry (ESR)",
+       "country_label": "Kenya",
+       "class": "social",
+       "platform": "registry",
+       "owner": "Government",
+       "tiers": ""
+      },
+      {
+       "system": "HSNP MIS",
+       "country_label": "Kenya",
+       "class": "socialmis",
+       "platform": "MIS",
+       "owner": "National Drought Management Authority",
+       "tiers": ""
+      },
+      {
+       "system": "CDMIS",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "web",
+       "owner": "Directorate of Social Development",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "The newsletter says the CCTPMIS has linkages to the Civil Registration Services for automatic identification of deceased beneficiaries and exit management.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "CCTPMIS",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "registry",
+       "value": "shared",
+       "fact": "The newsletter says the ESR integrates data from core cash transfer programmes under the National Safety Net Programme and the Hunger Safety Net Programme.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Enhanced Single Registry (ESR)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CCTPMIS",
+       "country_label": "Kenya",
+       "class": "socialmis",
+       "platform": "MIS",
+       "owner": "Government (Inua Jamii)",
+       "tiers": ""
+      },
+      {
+       "system": "Enhanced Single Registry (ESR)",
+       "country_label": "Kenya",
+       "class": "social",
+       "platform": "registry",
+       "owner": "Government",
+       "tiers": ""
+      },
+      {
+       "system": "HSNP MIS",
+       "country_label": "Kenya",
+       "class": "socialmis",
+       "platform": "MIS",
+       "owner": "National Drought Management Authority",
+       "tiers": ""
+      },
+      {
+       "system": "CDMIS",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "web",
+       "owner": "Directorate of Social Development",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "CHASP Advisory's February 2026 newsletter describes the CCTPMIS as the primary operational MIS for Kenya's Inua Jamii cash transfers, managing targeting, enrolment, case management and payments.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "CCTPMIS",
+       "class": "socialmis"
+      },
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "payments",
+       "value": "electronic",
+       "fact": "The newsletter says the CCTPMIS facilitates efficient electronic disbursements for Inua Jamii.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "CCTPMIS",
+       "class": "socialmis"
+      },
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "integrated",
+       "value": "several",
+       "fact": "The newsletter says the CCTPMIS delivers regular cash transfers across three core schemes, CT-OVC, OP-CT and PWSD-CT.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "CCTPMIS",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CCTPMIS",
+       "country_label": "Kenya",
+       "class": "socialmis",
+       "platform": "MIS",
+       "owner": "Government (Inua Jamii)",
+       "tiers": ""
+      },
+      {
+       "system": "Enhanced Single Registry (ESR)",
+       "country_label": "Kenya",
+       "class": "social",
+       "platform": "registry",
+       "owner": "Government",
+       "tiers": ""
+      },
+      {
+       "system": "HSNP MIS",
+       "country_label": "Kenya",
+       "class": "socialmis",
+       "platform": "MIS",
+       "owner": "National Drought Management Authority",
+       "tiers": ""
+      },
+      {
+       "system": "CDMIS",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "web",
+       "owner": "Directorate of Social Development",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "The newsletter says the ESR serves as Kenya's national socio-economic database for households, used to target and enrol across programmes.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Enhanced Single Registry (ESR)",
+       "class": "social"
+      },
+      {
+       "sub_indicator": "social",
+       "aspect": "programmes",
+       "value": "several",
+       "fact": "The newsletter says the ESR integrates data from the core cash transfer programmes under the National Safety Net Programme and the Hunger Safety Net Programme.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Enhanced Single Registry (ESR)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CCTPMIS",
+       "country_label": "Kenya",
+       "class": "socialmis",
+       "platform": "MIS",
+       "owner": "Government (Inua Jamii)",
+       "tiers": ""
+      },
+      {
+       "system": "Enhanced Single Registry (ESR)",
+       "country_label": "Kenya",
+       "class": "social",
+       "platform": "registry",
+       "owner": "Government",
+       "tiers": ""
+      },
+      {
+       "system": "HSNP MIS",
+       "country_label": "Kenya",
+       "class": "socialmis",
+       "platform": "MIS",
+       "owner": "National Drought Management Authority",
+       "tiers": ""
+      },
+      {
+       "system": "CDMIS",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "web",
+       "owner": "Directorate of Social Development",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

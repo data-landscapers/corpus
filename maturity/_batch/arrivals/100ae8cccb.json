@@ -1,0 +1,12 @@
+{"slug":"2025-12-03-com-le-comite-de-pilotage-du-projet-amecc-ii","studies":{
+"authentication":{"countries":{"COM":{"facts":[],"systems":[],"note":"No authentication service stated."}}},
+"birthidlink":{"countries":{"COM":{"facts":[],"systems":[],"note":"No link between civil register and ID stated."}}},
+"censuses":{"countries":{"COM":{"facts":[],"systems":[],"note":"Census only described as planned by INSEED with UNFPA support; no mapping, funding or date stated."}}},
+"civilregister":{"countries":{"COM":{"facts":[],"systems":[{"system":"AMECC II civil registration modernisation","country_label":"AMECC II","class":"other","platform":"","owner":"Ministry of Interior with UNICEF","tiers":""}],"note":"Only a preparatory study for digitisation is stated; no system procured, piloted or rolled out."}}},
+"idcoverage":{"countries":{"COM":{"facts":[],"systems":[],"note":"No ID enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"COM":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"COM":{"facts":[],"systems":[],"note":"No ID system operation or ownership stated."}}},
+"idregisters":{"countries":{"COM":{"facts":[],"systems":[],"note":"No register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"COM":{"facts":[],"systems":[],"note":"No national ID system stated; only a study on biometric enrolment for civil registration is upcoming."}}},
+"registry":{"countries":{"COM":{"facts":[{"sub_indicator":"civil","aspect":"governance","value":"plan:current","fact":"The AMECC II steering committee of 2 December 2025 discussed mobilising resources to finance the 2024-2028 strategic plan for civil registration modernisation, with the ANEC statutes decree finalised.","as_of":"2025-12-02","date_precision":"day","system":"AMECC II","class":"civil"}],"systems":[{"system":"AMECC II","country_label":"AMECC II","class":"civil","platform":"","owner":"Ministry of Interior, with UNICEF and France","tiers":""}],"note":""}}}
+}}

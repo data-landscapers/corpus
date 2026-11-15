@@ -1,0 +1,68 @@
+{
+ "slug": "2026-11-12-mrt-ami-atelier-ia-droits-numeriques",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop by a civil-society forum; no rule, authority, deployment or law stated for MRT."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Speaker notes AI opportunities for public services only; no deployed system stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Forum proposes to enrich the national AI strategy 2025-2029, but the document does not say it is adopted, drafted or funded."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No local AI build or compute stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Privacy named as a challenge only; no law stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Not about police."
+    }
+   }
+  }
+ }
+}

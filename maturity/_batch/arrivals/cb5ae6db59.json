@@ -1,0 +1,124 @@
+{
+ "slug": "2024-04-02-mli-commercialisation-incontrolee-et-illicite-de-kit-starlink-le-gouvernem",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about unlicensed Starlink kits; it states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about unlicensed Starlink kits; it states nothing this study asks."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about unlicensed Starlink kits; it states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about unlicensed Starlink kits; it states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about unlicensed Starlink kits; it states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about unlicensed Starlink kits; it states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about unlicensed Starlink kits; it states nothing this study asks."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about unlicensed Starlink kits; it states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about unlicensed Starlink kits; it states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about unlicensed Starlink kits; it states nothing this study asks."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "none",
+       "fact": "Mali's Council of Ministers communique, reported 2024-04-02, says Starlink kits were introduced and sold without authorisation and without homologation in Mali, and the government will dismantle and ban the terminals nationwide.",
+       "as_of": "2024-04-02",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Mali",
+       "class": "satellite",
+       "platform": "low-orbit satellite",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

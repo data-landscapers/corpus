@@ -1,0 +1,196 @@
+{
+ "slug": "2024-04-01-sdn-the-digital-exclusion-of-refugees-and-idps-in-sudan",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "none",
+       "fact": "Forced Migration Review (Wala Mohammed) says Sudanese refugee ID cards do not meet the recognised-ID requirement to register a SIM card, and AML/CFT rules create legal barriers for refugees and asylum-seekers to formal financial institutions and mobile money.",
+       "as_of": "2024-04",
+       "date_precision": "month",
+       "system": "SIM registration and AML/CFT rules",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Sudan."
+    }
+   }
+  }
+ }
+}

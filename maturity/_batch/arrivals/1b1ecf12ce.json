@@ -1,0 +1,93 @@
+{
+ "slug": "2025-03-17-syc-seychelles-sadc-regional-workshop-on-the-use-of-administrative-data-so",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "admin",
+       "aspect": "use",
+       "value": "preparing",
+       "fact": "Seychelles' NBS says it has an MOU with the Seychelles Revenue Commission on wages, behind its Employment and Earnings Bulletin, while no MOUs exist yet for immigration and labour migration records.",
+       "as_of": "2025-03-17",
+       "date_precision": "day",
+       "system": "Employment and Earnings Bulletin",
+       "class": "admin"
+      },
+      {
+       "sub_indicator": "admin",
+       "aspect": "source",
+       "value": "other",
+       "fact": "NBS says migration and border crossing data from the Immigration Department are included in its Migration and Tourism Report.",
+       "as_of": "2025-03-17",
+       "date_precision": "day",
+       "system": "Migration and Tourism Report",
+       "class": "admin"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Migration and Tourism Report",
+       "country_label": "Migration and Tourism Report",
+       "class": "admin",
+       "platform": "",
+       "owner": "NBS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "The presentation shows a labour market overview drawn from Census 2022.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Census 2022",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Names a Civil Status Section of 12 staff in the Immigration Department; nothing on how events are recorded."
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "NBS says the National Bureau of Statistics Act, 2010 was passed on 6 July 2010, repealing and replacing the 2005 Act.",
+       "as_of": "2010-07-06",
+       "date_precision": "day",
+       "system": "National Bureau of Statistics Act 2010",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

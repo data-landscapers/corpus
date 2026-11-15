@@ -1,0 +1,106 @@
+{
+ "slug": "2024-04-01-mli-unhcr-mali-factsheet-april-2024",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Mali."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Mali."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Mali."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Mali."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Mali."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Mali."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Mali."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Mali."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "documented",
+       "fact": "UNHCR Mali reports that as of April 2024 1,031 households of 2,347 individuals were registered and 1,031 refugee certificates were issued to households by the National Commission in Charge of Refugees (CNCR), after a registration operation launched in February 2024 with the CNCR.",
+       "as_of": "2024-04",
+       "date_precision": "month",
+       "system": "UNHCR-CNCR refugee registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNHCR-CNCR refugee registration and certificates",
+       "country_label": "Mali",
+       "class": "displaced",
+       "platform": "",
+       "owner": "CNCR with UNHCR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

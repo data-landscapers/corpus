@@ -1,0 +1,10 @@
+{"slug": "2024-07-29-lso-rsl-adds-new-digital-tax-payment-platform", "studies": {
+"businesspayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document does not mention e-procurement."}}},
+"centralbank": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No consumer protection rules or redress stated."}}},
+"crossborderpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No cross-border payment stated."}}},
+"g2ppayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Payment is from taxpayers to government, not to people."}}},
+"paymentsuptake": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No survey share of adults with accounts stated."}}},
+"retailpayments": {"countries": {"LSO": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Newsday reports that EcoCash, a mobile money transfer service run by Sasai Econet Financial Services, facilitates bill payments and money transfers across Lesotho.", "as_of": "2024-07-29", "date_precision": "day", "system": "EcoCash", "class": "retail"}], "systems": [{"system": "EcoCash", "country_label": "Lesotho", "class": "retail", "platform": "mobile money", "owner": "Sasai Econet Financial Services", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"LSO": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Newsday reports Revenue Services Lesotho launched an e-payment solution with Sasai Econet Financial Services letting taxpayers pay taxes and customs duties through the RSL website with EcoCash wallets, processed in real time.", "as_of": "2024-07", "date_precision": "month", "system": "RSL e-payment (EcoCash integration)", "class": "revenue"}], "systems": [{"system": "RSL e-payment (EcoCash integration)", "country_label": "Lesotho", "class": "revenue", "platform": "RSL website", "owner": "Revenue Services Lesotho", "tiers": ""}], "note": ""}}}
+}}

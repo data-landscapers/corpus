@@ -1,0 +1,43 @@
+{
+ "slug": "2026-03-08-lby-sudan-regional-refugee-response-plan-in-libya-january-december-2026",
+ "studies": {
+  "refugees": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "documented",
+       "fact": "UNHCR says it has registered 89,153 Sudanese at its Tripoli registration centre, as of the end of 2025.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "UNHCR registration centre, Tripoli",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Security Registration Card",
+       "country_label": "Libya",
+       "class": "displaced",
+       "platform": "",
+       "owner": "authorities in the East",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Plan names birth registration only as a child protection priority; no civil registration office system is stated."
+    }
+   }
+  }
+ }
+}

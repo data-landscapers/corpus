@@ -1,0 +1,11 @@
+{"slug": "2025-05-30-ssd-south-sudan-joins-smart-africa-trust-alliance-as-17th-member-boosting", "studies": {
+"authentication": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document names no authentication service for South Sudan."}}},
+"birthidlink": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document states nothing on a civil register to ID link."}}},
+"dataprotectionlaw": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document states nothing on a South Sudan data protection law."}}},
+"idcoverage": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document gives no ID coverage figure."}}},
+"idfrombirth": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document states nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document states nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document states nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document describes no national ID system for South Sudan."}}},
+"regionalpolicy": {"countries": {"SSD": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "TechAfrica News reports South Sudan's ICT minister signed the Smart Africa Trust Alliance declaration with Smart Africa's CEO, as the 17th signatory.", "as_of": "2025-05-30", "date_precision": "day", "system": "Smart Africa Trust Alliance (SATA)", "class": "cooperation"}], "systems": [{"system": "Smart Africa Trust Alliance (SATA)", "country_label": "South Sudan", "class": "cooperation", "platform": "", "owner": "Smart Africa", "tiers": ""}], "note": ""}}}
+}}

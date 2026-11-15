@@ -1,0 +1,52 @@
+{
+ "slug": "2026-08-01-syc-seychelles-launches-an-incubator-for-coral-positive-and-nature-based-e",
+ "studies": {
+  "publicconsultation": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "SeyCCAT says NISTI's new Business, Technology & Innovation Incubator opened applications for its inaugural 2026 cohort, with a 15 September 2026 deadline.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "BTI Incubator",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Business, Technology & Innovation Incubator (BTI)",
+       "country_label": "BTI Incubator",
+       "class": "hub",
+       "platform": "",
+       "owner": "NISTI",
+       "tiers": "12-month cohort"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

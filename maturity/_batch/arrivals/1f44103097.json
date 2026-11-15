@@ -1,0 +1,20 @@
+{"slug":"2026-11-13-togotimes-togo-paiements-instantanes-pi-spi","studies":{
+"businesspayments":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"centralbank","aspect":"switch","value":"overseen","fact":"BCEAO developed and runs the PI-SPI instant payment platform, in service in Togo with 17 connected providers and 24-hour operation, per TogoTimes.","as_of":"2026-10","date_precision":"month","system":"PI-SPI","class":"oversight"},
+{"sub_indicator":"centralbank","aspect":"regional","value":"regional","fact":"Togo's providers are connected to the WAEMU-wide PI-SPI, with about 3.9 million Togo users at end-October 2026, per TogoTimes.","as_of":"2026-10","date_precision":"month","system":"PI-SPI","class":"oversight"}],
+"systems":[{"system":"PI-SPI","country_label":"Togo","class":"other","platform":"BCEAO instant payment platform","owner":"BCEAO","tiers":"banks, e-money issuers, microfinance institutions, payment institutions"}],"note":""}}},
+"consumerprotection":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Fee rules only; no consumer-protection rule or complaints body stated."}}},
+"crossborderpayments":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"Togo takes part in the BCEAO's PI-SPI, which links providers across the WAEMU, with 17 Togo providers connected at end-October 2026, per TogoTimes.","as_of":"2026-10","date_precision":"month","system":"PI-SPI","class":"crossborder"}],
+"systems":[],"note":""}}},
+"g2ppayments":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentslaw":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"law","aspect":"reach","value":"connect","fact":"Since 2 November 2026 interoperable e-money transactions between individuals in the WAEMU must go through PI-SPI, per TogoTimes.","as_of":"2026-11-02","date_precision":"day","system":"PI-SPI","class":"law"}],
+"systems":[],"note":""}}},
+"paymentsuptake":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Wallet counts only, no survey of adults."}}},
+"retailpayments":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Togo e-money transactions in 2025 reached CFAF 4,435 billion in 409.7 million operations, with 5.69 million active wallets, per TogoTimes.","as_of":"2025","date_precision":"year","system":"e-money","class":"retail"},
+{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"PI-SPI allows instant transfers between different providers including banks and e-money issuers, and is mandatory for interoperable person-to-person e-money since 2 November 2026, per TogoTimes.","as_of":"2026-11-02","date_precision":"day","system":"PI-SPI","class":"retail"}],
+"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}}}

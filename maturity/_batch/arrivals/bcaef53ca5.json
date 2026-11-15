@@ -1,0 +1,7 @@
+{"slug": "2025-05-29-cod-entrepreneuriat-des-decrets-pour-activer-le-soutien-aux-startups-en-rd", "studies": {
+"civilserviceskills": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document says nothing on civil-servant digital-skills training."}}},
+"startups": {"countries": {"COD": {"facts": [
+{"sub_indicator": "startuppolicy", "aspect": "law", "value": "adopted", "fact": "The document says the Startup Act, ordonnance-loi no. 22/030 of 8 September 2022 on promoting entrepreneurship and startups, is in force, and that cabinet adopted four draft implementing decrees on 23 May 2025.", "as_of": "2025-05-23", "date_precision": "day", "system": "Startup Act (ordonnance-loi 22/030)", "class": "startuppolicy"}
+], "systems": [{"system": "Startup Act (ordonnance-loi 22/030)", "country_label": "Democratic Republic of the Congo", "class": "startuppolicy", "platform": "", "owner": "Ministry of Industry and SMEs", "tiers": ""}], "note": "Labelling is only provided for in draft decrees creating a national labelling committee, and no label or fund is shown delivered."}}},
+"techhubs": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document names no hub, incubator or park in service; it only mentions approval of private support bodies by decree."}}}
+}}

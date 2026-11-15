@@ -1,0 +1,142 @@
+{
+ "slug": "2026-06-25-cog-execution-du-budget-de-l-etat-les-deputes-s-impregnent-du-fonctionneme",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "Congo's finance ministry demonstrated Fouta to the Assembly finance committee on 23 June 2026, with real tax and customs e-filing and e-payment operations via Banque postale, BGFI and BOA and an emailed receipt, but the document does not say it is in service.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Fouta",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fouta",
+       "country_label": "Congo",
+       "class": "other",
+       "platform": "national payment switch / e-filing and e-payment application",
+       "owner": "Ministry of Finance, Budget and Public Portfolio",
+       "tiers": ""
+      },
+      {
+       "system": "Guichet unique du paiement (GUP)",
+       "country_label": "Congo",
+       "class": "other",
+       "platform": "single payment window",
+       "owner": "Banque postale",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "underway",
+       "fact": "Congo's finance ministry demonstrated Fouta online tax and customs declaration and payment to deputies on 23 June 2026, without stating it is in service.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Fouta",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fouta",
+       "country_label": "Congo",
+       "class": "other",
+       "platform": "national payment switch / e-filing and e-payment application",
+       "owner": "Ministry of Finance, Budget and Public Portfolio",
+       "tiers": ""
+      },
+      {
+       "system": "Guichet unique du paiement (GUP)",
+       "country_label": "Congo",
+       "class": "other",
+       "platform": "single payment window",
+       "owner": "Banque postale",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

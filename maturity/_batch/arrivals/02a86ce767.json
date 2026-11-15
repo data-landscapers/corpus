@@ -1,0 +1,50 @@
+{
+ "slug": "2026-02-27-lby-rawafed-strengthens-digital-backbone-of-libya-s-oil-and-gas-fields",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Data centres mentioned only as solutions Rawafed develops for oil and gas; no statement they rent to others or Tier."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on government staff or systems."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "No national-owned data centre for hire stated."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Eutelsat OneWeb",
+       "country_label": "OneWeb",
+       "class": "satellite",
+       "platform": "LEO",
+       "owner": "Eutelsat",
+       "tiers": ""
+      }
+     ],
+     "note": "OneWeb carries oil-field backbone and backup; residential services named without saying they are satellite, no licence stated."
+    }
+   }
+  }
+ }
+}

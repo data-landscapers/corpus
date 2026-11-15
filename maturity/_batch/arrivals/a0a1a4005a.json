@@ -1,0 +1,25 @@
+{
+ "slug": "2025-10-20-uga-govt-halts-asylum-seeker-registrations-amid-aid-cuts",
+ "studies": {
+  "refugees": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "none",
+       "fact": "A senior Office of the Prime Minister official said on 14 October 2025 that registration of new asylum seekers from Somalia, Ethiopia and Eritrea had been closed.",
+       "as_of": "2025-10-14",
+       "date_precision": "day",
+       "system": "Asylum seeker registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2026-05-17-tcd-projiace-onape-mise-sur-25-talents",
+ "studies": {
+  "startups": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on startup law, labelling or a public startup fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "ONAPE's PROJIACE retained 25 projects from over 600 applications on 15 May 2026, 8 for an acceleration track and 17 for incubation.",
+       "as_of": "2026-05-15",
+       "date_precision": "day",
+       "system": "PROJIACE",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PROJIACE",
+       "country_label": "Chad",
+       "class": "hub",
+       "platform": "",
+       "owner": "ONAPE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

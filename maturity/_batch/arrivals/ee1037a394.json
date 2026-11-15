@@ -1,0 +1,193 @@
+{
+ "slug": "2026-09-29-dza-algeria-is-opening-the-door-to-telco-led-mobile-money-can-it-work",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "The Conseil Monetaire et Bancaire, chaired by the Bank of Algeria governor, authorised Djezzy Payment Services to be constituted as a payment service provider on 23 September 2026, the first such authorisation; an operating licence from the Bank of Algeria is still to follow.",
+       "as_of": "2026-09-23",
+       "date_precision": "day",
+       "system": "Payment service provider authorisation",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Djezzy Payment Services",
+       "country_label": "Algeria",
+       "class": "retail",
+       "platform": "",
+       "owner": "Optimum Telecom Algerie",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Regulation 25-02 of 14 April 2025, under law 23-09 of June 2023, sets the rules for payment service providers, per TechCabal.",
+       "as_of": "2025-04-14",
+       "date_precision": "day",
+       "system": "Regulation 25-02",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "non-bank",
+       "fact": "Law 23-09 created payment service providers as a category separate from banks, and the Conseil Monetaire et Bancaire authorised Djezzy Payment Services as the first on 23 September 2026, per TechCabal.",
+       "as_of": "2026-09-23",
+       "date_precision": "day",
+       "system": "Regulation 25-02",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "quarter",
+       "fact": "TechCabal says Global Findex 2025 puts adults holding an account at about 35%.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Global Findex 2025",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "Djezzy Payment Services was authorised on 23 September 2026 to constitute as a payment service provider, with a licence still to apply for within 12 months and no mobile money service yet in service, per TechCabal.",
+       "as_of": "2026-09-23",
+       "date_precision": "day",
+       "system": "Djezzy Payment Services",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Djezzy Payment Services",
+       "country_label": "Algeria",
+       "class": "retail",
+       "platform": "",
+       "owner": "Optimum Telecom Algerie",
+       "tiers": ""
+      },
+      {
+       "system": "GIE Monetique",
+       "country_label": "Algeria",
+       "class": "other",
+       "platform": "interbank switch",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

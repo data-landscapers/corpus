@@ -1,0 +1,155 @@
+{
+ "slug": "2026-09-23-com-programme-de-transferts-monetaires-sociaux-msaanda-23-483-menages-vuln",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The Msaanda social cash transfer programme, launched in Ngazidja on 23 September 2026, will pay 75,000 KMF per household through Mvola and Huri Money, the mobile payment operators selected for it.",
+       "as_of": "2026-09-23",
+       "date_precision": "day",
+       "system": "Msaanda",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Msaanda",
+       "country_label": "Comoros",
+       "class": "g2p",
+       "platform": "Mvola; Huri Money",
+       "owner": "PFSS-RRC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Msaanda programme digitises the whole chain from identification to registration, payment and monitoring, per the article.",
+       "as_of": "2026-09-23",
+       "date_precision": "day",
+       "system": "Msaanda",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "The Msaanda phase rests on making the single social registry (RSU) operational to identify and target households, according to the article.",
+       "as_of": "2026-09-23",
+       "date_precision": "day",
+       "system": "Registre social unique (RSU)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre social unique (RSU)",
+       "country_label": "Comoros",
+       "class": "social",
+       "platform": "",
+       "owner": "PFSS-RRC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

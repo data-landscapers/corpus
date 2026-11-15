@@ -1,0 +1,8 @@
+{"slug": "2026-04-07-som-somalia-s-road-to-a-startup-nation-building-a-national-innovation-ecos", "studies": {
+"businessregister": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Only calls for simpler and online registration; states nothing in service or under way."}}},
+"nonstatefinance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Opinion piece proposing funds and investors; no amount or deal stated."}}},
+"opendatapolicy": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Mentions open government data platforms only in general terms; no policy stated."}}},
+"opendatause": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No dataset or portal publishing stated."}}},
+"startups": {"countries": {"SOM": {"facts": [{"sub_indicator": "startuppolicy", "aspect": "law", "value": "none", "fact": "Ibrahim Isse Abdulle writes that Somalia currently lacks a formal legal definition of startup enterprises and proposes a National Startup Act.", "as_of": "2026-04-07", "date_precision": "day", "system": "Startup Act (proposed)", "class": "startuppolicy"}], "systems": [], "note": ""}}},
+"techhubs": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Hubs and a technology park are only proposed; SIMAD University promotion is not a hub programme."}}}
+}}

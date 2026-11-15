@@ -1,0 +1,10 @@
+{"slug":"2026-11-14-govt-to-set-up-24-7-cybersecurity-centre-after-attacks","studies":{
+"cloudstrategy":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"States no hosting or cloud policy."}}},
+"coresystems":{"countries":{"SWZ":{"facts":[{"sub_indicator":"core","aspect":"finance","value":"down","fact":"The ICT ministry told Parliament the September 2026 National Data Centre incident disrupted at least 12 government platforms including the IFMIS, with 75% of services restored.","as_of":"2026-09","date_precision":"month","system":"IFMIS","class":"core"}],"systems":[{"system":"IFMIS","country_label":"Integrated Financial Management Information System","class":"core","platform":"National Data Centre, RSTP","owner":"Government of Eswatini","tiers":""}],"note":""}}},
+"cybersecurity":{"countries":{"SWZ":{"facts":[],"systems":[{"system":"Security Operations Centre (planned)","country_label":"24-hour SOC","class":"other","platform":"","owner":"Ministry of ICT","tiers":""}],"note":"SOC is only planned; no national body, strategy, response or designation stated."}}},
+"datacentres":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"National Data Centre named but no hire, Tier or cloud region stated."}}},
+"datalocalisation":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No localisation rule stated."}}},
+"egovservices":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Platforms named only as disrupted; no count, gateway or usage stated."}}},
+"nationaldatacentres":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Ownership and tier of the National Data Centre not stated."}}},
+"offsitebackup":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Geographically separated recovery facilities only planned."}}},
+"techhubs":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"RSTP named but no hub programme or tenants stated."}}}}}

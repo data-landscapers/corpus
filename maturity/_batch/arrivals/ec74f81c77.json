@@ -1,0 +1,43 @@
+{
+ "slug": "2024-02-20-tun-tunisie-refonte-ou-amendement-du-startup-act",
+ "studies": {
+  "startups": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "L'Economiste Maghrebin quotes the head of Smart Tunisian Technoparks saying Tunisia has the Startup Act, in application for six years, and that ministries are working on an amendment.",
+       "as_of": "2024-02-20",
+       "date_precision": "day",
+       "system": "Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup Act",
+       "country_label": "Tunisia",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states bears on this study."
+    }
+   }
+  }
+ }
+}

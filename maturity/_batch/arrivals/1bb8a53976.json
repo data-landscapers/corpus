@@ -1,0 +1,13 @@
+{"slug":"2024-10-30-moz-cabo-delgado-mais-4-mil-deslocados-recebem-bilhetes-de-identificacao","studies":{
+"authentication":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Document states nothing on authentication services."}}},
+"birthidlink":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Document states no link between civil register and ID system."}}},
+"civilregister":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Document states nothing on a digital civil register."}}},
+"civilserviceskills":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Document states nothing on civil servant digital skills training."}}},
+"idcoverage":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Gives ID applications from displaced families only, not a population share."}}},
+"idfrombirth":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Birth registration project mentioned with no number at birth stated."}}},
+"idmaintenance":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Document states nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Document states nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Document states nothing on biometrics, certification or population coverage."}}},
+"refugees":{"countries":{"MOZ":{"facts":[{"sub_indicator":"displaced","aspect":"registration","value":"documented","fact":"Cabo Delgado's provincial civil identification service, with partners including IOM and UNHCR, registered about 12,478 ID card applications from families displaced by terrorism in under nine months, produced 5,516 cards and delivered 4,764, per provincial official Rui Chichanga.","as_of":"2024-10-29","date_precision":"day","system":"Bilhete de Identidade (provincial civil identification service project)","class":"displaced"}],"systems":[],"note":""}}},
+"registry":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Document states nothing on digital entry at local civil registration offices."}}}
+}}

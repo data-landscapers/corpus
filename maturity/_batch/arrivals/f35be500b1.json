@@ -1,0 +1,124 @@
+{
+ "slug": "2025-05-05-gmb-from-data-to-impact-the-digital-transformation-of-the-gambia-s-social",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the Gambia."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the Gambia."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the Gambia."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the Gambia."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the Gambia."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the Gambia."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the Gambia."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Nafa cash transfer",
+       "country_label": "Nafa",
+       "class": "other",
+       "platform": "",
+       "owner": "National Social Protection Secretariat",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing this study asks for the Gambia."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the Gambia."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "The National Social Protection Secretariat says the Gambia Social Registry, held in the SRIS platform, has collected household data by census approach in all regions except Kanifing and Banjul.",
+       "as_of": "2025-05-05",
+       "date_precision": "day",
+       "system": "Gambia Social Registry (GamSR/SRIS)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Gambia Social Registry (SRIS)",
+       "country_label": "GamSR",
+       "class": "social",
+       "platform": "SRIS",
+       "owner": "National Social Protection Secretariat",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

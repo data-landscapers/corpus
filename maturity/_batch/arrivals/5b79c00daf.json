@@ -1,0 +1,14 @@
+{"slug": "2026-03-01-bwa-bocra-ona-press-release", "studies": {
+"mobileaffordability": {"countries": {
+"BWA": {"facts": [], "systems": [], "note": "Roaming tariffs only; no 5 GB monthly domestic data price or share of income."},
+"MOZ": {"facts": [], "systems": [], "note": "Roaming tariffs only; no domestic data price stated."},
+"NAM": {"facts": [], "systems": [], "note": "Roaming tariffs only; no domestic data price stated."},
+"ZMB": {"facts": [], "systems": [], "note": "Roaming tariffs only; no domestic data price stated."}}},
+"regionalinfrastructure": {"countries": {
+"MOZ": {"facts": [], "systems": [], "note": "Document is about roaming tariffs; no shared digital infrastructure stated."}}},
+"regionalpolicy": {"countries": {
+"BWA": {"facts": [{"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "BOCRA says Botswana implemented the One Network Area framework jointly with Malawi, Lesotho, Zambia and Zimbabwe, cutting mobile roaming tariffs by 10% to 98.6%, following the Botswana/Namibia rates of August 2024.", "as_of": "2026-03", "date_precision": "month", "system": "One Network Area (ONA) framework", "class": "cooperation"}], "systems": [{"system": "One Network Area (ONA) framework", "country_label": "Botswana", "class": "cooperation", "platform": "", "owner": "SADC member states", "tiers": ""}], "note": ""},
+"MOZ": {"facts": [], "systems": [], "note": "Document says engagements with Mozambique are ongoing, so no roaming arrangement in effect is stated for it."},
+"NAM": {"facts": [{"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "BOCRA says Botswana and Namibia were the first in SADC to implement reduced and harmonised roaming rates, in August 2024.", "as_of": "2024-08", "date_precision": "month", "system": "One Network Area (ONA) framework", "class": "cooperation"}], "systems": [], "note": ""},
+"ZMB": {"facts": [{"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "BOCRA says Zambia implemented the One Network Area framework jointly with Botswana, with Botswana operators' roaming data prices to Zambian networks cut by 82% to 93%.", "as_of": "2026-03", "date_precision": "month", "system": "One Network Area (ONA) framework", "class": "cooperation"}], "systems": [], "note": ""}}}
+}}

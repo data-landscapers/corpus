@@ -1,0 +1,25 @@
+{
+ "slug": "2026-05-05-gha-tripartite-ecowas-roaming-meeting-concludes-with-key-commitments-nca",
+ "studies": {
+  "regionalpolicy": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Ghana's NCA says Liberia signed bilateral free-roaming MoUs with Ghana and Sierra Leone at the tripartite ECOWAS roaming meeting in Accra, aligned with revised ECOWAS regulations.",
+       "as_of": "2026-04-30",
+       "date_precision": "day",
+       "system": "ECOWAS free roaming initiative",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

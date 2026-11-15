@@ -1,0 +1,32 @@
+{
+ "slug": "2026-04-23-civ-eutelsat-and-mtn-cote-d-ivoire-sign-konnect-agreement",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Konnect deal is an operator's commercial agreement with community hotspots planned, no government programme or counts."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Eutelsat Konnect",
+       "country_label": "Cote d'Ivoire",
+       "class": "satellite",
+       "platform": "Konnect GEO 7E",
+       "owner": "Eutelsat",
+       "tiers": ""
+      }
+     ],
+     "note": "Agreement announced for future services; no licence or sale stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "slug": "2025-10-22-ssd-revenue-collection-hits-ssp-130-billion",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no electronic payment, filing, or other fact the study asks; it gives a total revenue figure not described as electronic and a signed agreement for a digital assurance system."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no electronic payment, filing, or other fact the study asks; it gives a total revenue figure not described as electronic and a signed agreement for a digital assurance system."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no electronic payment, filing, or other fact the study asks; it gives a total revenue figure not described as electronic and a signed agreement for a digital assurance system."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no electronic payment, filing, or other fact the study asks; it gives a total revenue figure not described as electronic and a signed agreement for a digital assurance system."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no electronic payment, filing, or other fact the study asks; it gives a total revenue figure not described as electronic and a signed agreement for a digital assurance system."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no electronic payment, filing, or other fact the study asks; it gives a total revenue figure not described as electronic and a signed agreement for a digital assurance system."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no electronic payment, filing, or other fact the study asks; it gives a total revenue figure not described as electronic and a signed agreement for a digital assurance system."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Ensoft digital assurance system",
+       "country_label": "South Sudan",
+       "class": "other",
+       "platform": "Ensoft",
+       "owner": "SSRA and NCA",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states no electronic payment, filing, or other fact the study asks; it gives a total revenue figure not described as electronic and a signed agreement for a digital assurance system."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Ensoft digital assurance system",
+       "country_label": "South Sudan",
+       "class": "other",
+       "platform": "Ensoft",
+       "owner": "SSRA and NCA",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states no electronic payment, filing, or other fact the study asks; it gives a total revenue figure not described as electronic and a signed agreement for a digital assurance system."
+    }
+   }
+  }
+ }
+}

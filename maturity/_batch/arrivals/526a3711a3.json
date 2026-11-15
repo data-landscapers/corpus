@@ -1,0 +1,43 @@
+{
+ "slug": "2025-11-25-gha-ghana-and-burkina-faso-sign-mou-to-drive-affordable-cross-border-mobil",
+ "studies": {
+  "regionalinfrastructure": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Roaming MoU only; no shared infrastructure named."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "ARCEP Burkina Faso and Ghana's NCA signed a free roaming MoU on 21 November 2025 in Ouagadougou, the NCA says; launch is planned for April 2026.",
+       "as_of": "2025-11-21",
+       "date_precision": "day",
+       "system": "Ghana-Burkina Faso free roaming MoU",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana-Burkina Faso free roaming MoU",
+       "country_label": "Burkina Faso",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "ARCEP; NCA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

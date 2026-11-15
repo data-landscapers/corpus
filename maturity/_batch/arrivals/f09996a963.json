@@ -1,0 +1,107 @@
+{
+ "slug": "2025-04-08-com-lancement-de-la-plate-forme-e-msomo-vers-la-digitalisation-du-systeme",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "The Ministry of Education, with Anaden, launched the e-Msomo platform for online entry of grades and a unique pupil identifier, per the ministry's secretary general.",
+       "as_of": "2025-04-07",
+       "date_precision": "day",
+       "system": "e-Msomo",
+       "class": "emis"
+      },
+      {
+       "sub_indicator": "emis",
+       "aspect": "last12",
+       "value": "advancing",
+       "fact": "The e-Msomo platform was launched on 7 April 2025 for public schools, with operationalisation said to be planned for the last quarter.",
+       "as_of": "2025-04-07",
+       "date_precision": "day",
+       "system": "e-Msomo",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Msomo",
+       "country_label": "Comoros",
+       "class": "emis",
+       "platform": "",
+       "owner": "Ministry of Education with Anaden",
+       "tiers": "public schools first"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

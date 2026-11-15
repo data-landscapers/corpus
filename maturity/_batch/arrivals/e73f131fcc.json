@@ -1,0 +1,10 @@
+{"slug": "2026-08-02-nga-mobile-money-transactions-surge-81-to-n372tn-cbn-report", "studies": {
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document does not mention e-procurement."}}},
+"centralbank": {"countries": {"NGA": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "The CBN 2025 Annual Report, as reported by Punch, shows Nigeria had 84 licensed Payment Service Providers at end-2025, including eight Mobile Money Operators and seven Switching and Processing companies.", "as_of": "2025-12", "date_precision": "month", "system": "CBN payment service provider licensing", "class": "oversight"}], "systems": [{"system": "Mobile Money Operators", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "OPay, PalmPay, Paga and others", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document states no consumer-protection rule, complaints body or enforcement."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document does not mention cross-border payments."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document does not mention government payments to people."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No survey of adults with accounts; only transaction counts and values."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The CBN 2025 Annual Report, as reported by Punch, says Mobile Money Operators processed 28,741.83 million transactions worth N372.14tn in 2025.", "as_of": "2025", "date_precision": "year", "system": "Mobile Money Operators", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document does not mention tax or fee payment."}}}
+}}

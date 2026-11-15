@@ -1,0 +1,52 @@
+{
+ "slug": "2026-09-28-bwa-govt-seeks-shift-from-welfare-dependence",
+ "studies": {
+  "localgov": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "Ministry of Local Government's social protection director Manne said the Single Social Registry is 96 per cent complete and has captured 18 social protection programmes.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Single Social Registry",
+       "class": "social"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

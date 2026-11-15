@@ -1,0 +1,61 @@
+{
+ "slug": "2026-01-10-nga-can-nigeria-achieve-100-electricity-access-by-2030-as-pledged-in-new-n",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NBS household survey",
+       "country_label": "6.7 blackouts a week per household",
+       "class": "other",
+       "platform": "",
+       "owner": "National Bureau of Statistics",
+       "tiers": ""
+      }
+     ],
+     "note": "Grid collapses and a household blackout rate per week are not a whole-grid interruption frequency."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "rural",
+       "aspect": "access",
+       "value": "official:40.4",
+       "fact": "The National Bureau of Statistics is cited as saying 40.4 percent of rural households are connected to power, against 82.2 percent of urban households.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "NBS household electricity connection",
+       "class": "ruralpower"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

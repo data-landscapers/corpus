@@ -1,0 +1,43 @@
+{
+ "slug": "2025-12-02-ner-tahoua-inauguration-du-centre-incubateur-des-jeunes-entrepreneurs-sani",
+ "studies": {
+  "startups": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, strategy, labelling or public fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The SANIN HANYA incubator in Tahoua, inaugurated 27 November 2025 and funded via Enabel, is on its second cohort with 10 trained and 5 financed, per a ministry official.",
+       "as_of": "2025-11-27",
+       "date_precision": "day",
+       "system": "SANIN HANYA",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SANIN HANYA",
+       "country_label": "NER",
+       "class": "hub",
+       "platform": "incubator",
+       "owner": "REEL MAHITA / Enabel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

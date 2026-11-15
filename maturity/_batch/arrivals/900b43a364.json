@@ -1,0 +1,133 @@
+{
+ "slug": "2023-12-15-nam-92-000-birth-certificates-issued-for-2023",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Namibia."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Namibia."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Namibia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Namibia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Namibia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Namibia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Namibia."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-birth and e-death notification system",
+       "country_label": "Namibia",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Facility e-notification and backlog capture of historic records are not digital civil registration at the office."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-birth and e-death notification system",
+       "country_label": "Namibia",
+       "class": "notification",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Facilities notify births and deaths (notification) and historic records are back-captured (archive); neither is assessed."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The deputy minister said historic marriage and death records are \"not on the National Population Register System\", which implies the register is in service.",
+       "as_of": "2023-12-15",
+       "date_precision": "day",
+       "system": "National Population Register System",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Register System",
+       "country_label": "Namibia",
+       "class": "population",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

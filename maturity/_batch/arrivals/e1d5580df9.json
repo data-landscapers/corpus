@@ -1,0 +1,226 @@
+{
+ "slug": "2025-12-19-cmr-cameroun-la-commune-de-dschang-delivre-ses-premiers-actes-de-naissance",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "Digital Business Africa reports Dschang commune issued its first computerised birth certificates on 17 December 2025, data going into the BUNEC-run SIGEC, after Nitoukou, Garoua II and Bikok.",
+       "as_of": "2025-12-17",
+       "date_precision": "day",
+       "system": "SIGEC",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGEC",
+       "country_label": "Cameroon",
+       "class": "civil",
+       "platform": "SIGEC",
+       "owner": "BUNEC with MINDDEVEL",
+       "tiers": "commune"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "events",
+       "value": "B",
+       "fact": "Dschang commune issued its first computerised birth certificates on 17 December 2025, following Nitoukou (650 acts, 14 March 2025), Garoua II and Bikok, as reported by Digital Business Africa.",
+       "as_of": "2025-12-17",
+       "date_precision": "day",
+       "system": "SIGEC",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "made",
+       "value": "connected",
+       "fact": "The source says data from the communes' computerised birth acts are integrated into the central SIGEC platform run by BUNEC and MINDDEVEL.",
+       "as_of": "2025-12-17",
+       "date_precision": "day",
+       "system": "SIGEC",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGEC",
+       "country_label": "Cameroon",
+       "class": "civil",
+       "platform": "SIGEC",
+       "owner": "BUNEC with MINDDEVEL",
+       "tiers": "commune"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

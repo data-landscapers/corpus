@@ -1,0 +1,17 @@
+{"slug": "2024-02-27-moz-mobile-financial-services-up-10-5-in-three-months", "studies": {
+"businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Cites a Banco de Mocambique statistical report but states no licensing, switch or mandate."}}},
+"consumerprotection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentslaw": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "States no law or rules on e-money."}}},
+"paymentsuptake": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Gives account and agent counts, not a survey share of adults."}}},
+"retailpayments": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Mozambique has three electronic money institutions, mKesh (Tmcel, 2012), M-Pesa (Vodacom, 2013) and e-Mola (Movitel, 2014), which the Bank of Mozambique reports handled over 400 million transactions in 2023 through 224,700 agents.", "as_of": "2023-12", "date_precision": "month", "system": "mobile money (mKesh, M-Pesa, e-Mola)", "class": "retail"}
+], "systems": [
+{"system": "mKesh", "country_label": "Mozambique", "class": "retail", "platform": "mobile wallet", "owner": "Tmcel", "tiers": ""},
+{"system": "M-Pesa", "country_label": "Mozambique", "class": "retail", "platform": "mobile wallet", "owner": "Vodacom", "tiers": ""},
+{"system": "e-Mola", "country_label": "Mozambique", "class": "retail", "platform": "mobile wallet", "owner": "Movitel", "tiers": ""}
+], "note": ""}}},
+"revenuecollection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Only a plan to tax e-money agents' commissions, not electronic payment of taxes."}}}
+}}

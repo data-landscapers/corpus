@@ -1,0 +1,172 @@
+{
+ "slug": "2026-07-17-lbr-liberia-launches-free-roaming-service-with-ghana-sierra-leone-and-the",
+ "studies": {
+  "regionalinfrastructure": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Roaming only; no shared infrastructure named."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Bilateral roaming MoUs are not shared digital law."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Bilateral roaming MoUs are not shared digital law."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Liberia signed free roaming MoUs with Sierra Leone and The Gambia in mid-2025 and with Ghana in May 2026, under the ECOWAS initiative, the New Dawn reports.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "ECOWAS Free Roaming Initiative",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "Liberia's Telecommunications Authority launched free roaming with Ghana, Sierra Leone and The Gambia on 17 July 2026, the New Dawn reports.",
+       "as_of": "2026-07-17",
+       "date_precision": "day",
+       "system": "ECOWAS Free Roaming Initiative",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ECOWAS Free Roaming Initiative",
+       "country_label": "Liberia",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "ECOWAS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Ghana concluded a free roaming agreement with Liberia in May 2026, the New Dawn reports.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "ECOWAS Free Roaming Initiative",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "Liberian subscribers can roam in Ghana without roaming charges from the launch announced on 17 July 2026.",
+       "as_of": "2026-07-17",
+       "date_precision": "day",
+       "system": "ECOWAS Free Roaming Initiative",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ECOWAS Free Roaming Initiative",
+       "country_label": "Ghana",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "ECOWAS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "The Gambia signed a free roaming MoU with Liberia in mid-2025, the New Dawn reports.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "ECOWAS Free Roaming Initiative",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "Liberian subscribers can roam in The Gambia without roaming charges from the launch announced on 17 July 2026.",
+       "as_of": "2026-07-17",
+       "date_precision": "day",
+       "system": "ECOWAS Free Roaming Initiative",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ECOWAS Free Roaming Initiative",
+       "country_label": "The Gambia",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "ECOWAS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Sierra Leone signed a free roaming MoU with Liberia in mid-2025, the New Dawn reports.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "ECOWAS Free Roaming Initiative",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "Liberian subscribers can roam in Sierra Leone without roaming charges from the launch announced on 17 July 2026.",
+       "as_of": "2026-07-17",
+       "date_precision": "day",
+       "system": "ECOWAS Free Roaming Initiative",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ECOWAS Free Roaming Initiative",
+       "country_label": "Sierra Leone",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "ECOWAS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

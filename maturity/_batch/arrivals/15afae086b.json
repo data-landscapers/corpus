@@ -1,0 +1,14 @@
+{"slug": "2026-09-23-cmr-alphonse-nafack-structure-douala-tech-park-en-sas-au-cameroun", "studies": {
+"authentication": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document says nothing on authentication."}}},
+"birthidlink": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document says nothing on a civil register to ID link."}}},
+"civilregister": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document says nothing on digital civil registration; a linked headline is not stated in the text."}}},
+"ecommercelaw": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document says nothing on an e-commerce or electronic transactions law."}}},
+"idfrombirth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document says nothing on an ID number at birth."}}},
+"localgov": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document says nothing on local government connection."}}},
+"nonstatefinance": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Only a FCFA 5m company capital and a fund not yet set up; no amount lent or invested."}}},
+"registry": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document says nothing on civil registration offices."}}},
+"startups": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A private venture with no public startup law, strategy or fund stated; the investment fund is not yet set up."}}},
+"techhubs": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "Africtelegraph reports the Douala Tech Park technology centre was inaugurated in October 2024 on the JFN Hightech University Institute campus in Douala, with training, prototyping, incubation and acceleration infrastructure already operational, but names no programme or cohort of startups.", "as_of": "2024-10", "date_precision": "month", "system": "Douala Tech Park", "class": "hub"}
+], "systems": [{"system": "Douala Tech Park", "country_label": "Cameroon", "class": "hub", "platform": "", "owner": "Douala Tech Park SAS (Alphonse Nafack, president)", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,52 @@
+{
+ "slug": "2024-11-01-caf-rca-inauguration-du-premier-incubateur-d-entreprise-pour-la-jeunesse",
+ "studies": {
+  "publicconsultation": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "President Touadera inaugurated the first youth business incubator in Bangui on 30 October 2024, run by Fondation Bangui Hub with French embassy funding; no programme or cohort is reported.",
+       "as_of": "2024-10-30",
+       "date_precision": "day",
+       "system": "Fondation Bangui Hub incubator",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fondation Bangui Hub incubator",
+       "country_label": "Central African Republic",
+       "class": "hub",
+       "platform": "",
+       "owner": "Fondation Bangui Hub",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{"slug":"2026-08-11-lby-social-affairs-minister-reviews-unified-social-registry-progress","studies":{
+"addressregister":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document says nothing on addressing."}}},
+"birthidlink":{"countries":{"LBY":{"facts":[],"systems":[],"note":"The civil registry head attends the meeting, but no link between civil register and ID is stated."}}},
+"civilregister":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document says nothing on digital civil registration."}}},
+"electoralregister":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document says nothing on a voters' roll."}}},
+"idfrombirth":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document says nothing on an ID number at birth."}}},
+"landregister":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document says nothing on land registration."}}},
+"registry":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document says nothing on local civil registration offices."}}},
+"socialexchange":{"countries":{"LBY":{"facts":[],"systems":[{"system":"Unified Social Registry project","country_label":"Libya","class":"social","platform":"","owner":"Ministry of Social Affairs","tiers":""}],"note":"No link to ID, payment provider or another programme is stated."}}},
+"socialregistry":{"countries":{"LBY":{"facts":[{"sub_indicator":"social","aspect":"registry","value":"underway","fact":"Libya's Minister of Social Affairs reviewed implementation of the unified social registry project with its oversight committee, formed by a 2024 prime-minister decision, and the steps to complete the registry system (Libyan News Agency).","as_of":"2026-08-11","date_precision":"day","system":"Unified Social Registry project","class":"social"}],"systems":[{"system":"Unified Social Registry project","country_label":"Libya","class":"social","platform":"","owner":"Ministry of Social Affairs","tiers":""}],"note":""}}}
+}}

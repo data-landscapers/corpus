@@ -1,0 +1,6 @@
+{"slug":"2026-09-24-sdn-civil-registry-statistical-dashboard-launch","studies":{
+"admindata":{"countries":{"SDN":{"facts":[],"systems":[{"system":"Civil Registry statistical digital dashboard","country_label":"Sudan","class":"other","platform":"interactive dashboard","owner":"Ministry of Interior, General Directorate of Civil Registry","tiers":"state"}],"note":"Document launches an interactive dashboard of indicators by state; it names no published yearbook, bulletin or report and does not say figures are drawn from records as a published edition."}}},
+"birthidlink":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document states no link or exchange between the civil register and the ID system."}}},
+"civilregister":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document gives general digital transformation of the civil registry but no births or deaths digital registration in service, pilot or coverage."}}},
+"idfrombirth":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document says nothing on a number given at birth."}}},
+"registry":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document describes a statistics dashboard, not digital entry of events at local offices."}}}}}

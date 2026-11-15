@@ -1,0 +1,61 @@
+{
+ "slug": "2023-12-21-mrt-le-projet-de-loi-startup-act-mauritanie-adopte-a-lassemblee-nationale",
+ "studies": {
+  "opendatause": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Open data is only a planned measure of the bill; no data published."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Cridem reports the Startup Act bill no. 23-024 was voted and adopted in plenary by the National Assembly on 18 December 2023.",
+       "as_of": "2023-12-18",
+       "date_precision": "day",
+       "system": "Startup ACT Mauritanie",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup ACT Mauritanie",
+       "country_label": "Mauritania",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Ministry of Digital Transformation, Innovation and Administration Modernisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Hub Ibtikar is only a planned measure of the bill."
+    }
+   }
+  }
+ }
+}

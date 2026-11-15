@@ -1,0 +1,62 @@
+{
+ "slug": "2026-08-13-nga-unlocking-the-nigerian-startup-act-nitda-calls-for-seamless-inter-agen",
+ "studies": {
+  "publicconsultation": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Startup Consultative Forum is only said to be set up; no named digital law or policy put to it."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "NITDA says the Nigerian Startup Act was signed into law on 19 October 2022.",
+       "as_of": "2022-10-19",
+       "date_precision": "day",
+       "system": "Nigerian Startup Act",
+       "class": "startuppolicy"
+      },
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "labelled",
+       "value": "labelled",
+       "fact": "NITDA's ONDI lists improved startup labelling timelines among progress under the Act, with a startup labelling system investors depend on.",
+       "as_of": "2026-08-13",
+       "date_precision": "day",
+       "system": "Nigerian Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nigerian Startup Act",
+       "country_label": "Nigerian Startup Act",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "NITDA/ONDI",
+       "tiers": ""
+      }
+     ],
+     "note": "No fund financing startups stated; the Seed Fund is only a framework."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  }
+ }
+}

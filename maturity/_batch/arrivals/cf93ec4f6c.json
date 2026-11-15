@@ -1,0 +1,32 @@
+{
+ "slug": "2025-01-01-gnq-identic-celebra-su-primera-junta-de-patronos-2025-aprobando-un-plan-es",
+ "studies": {
+  "startups": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IDENTIC",
+       "country_label": "Equatorial Guinea",
+       "class": "other",
+       "platform": "",
+       "owner": "Fundacion IDENTIC",
+       "tiers": ""
+      }
+     ],
+     "note": "Incubation programme is only to be launched under a 2025-2030 plan; nothing built or running."
+    }
+   }
+  }
+ }
+}

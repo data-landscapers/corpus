@@ -1,0 +1,43 @@
+{
+ "slug": "2025-07-01-mwi-unlocking-potential-growth-accelerator-cohort-10-puts-women-at-the-cen",
+ "studies": {
+  "startups": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor-funded grants via UNDP, no state startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "UNDP Malawi's Growth Accelerator launched cohorts 9 and 10 in Lilongwe on 1 April 2025 with six-month advisory and up to USD 40,000 co-financing, after eight earlier cohorts since 2018 (UN in Malawi).",
+       "as_of": "2025-04-01",
+       "date_precision": "day",
+       "system": "Growth Accelerator",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Growth Accelerator",
+       "country_label": "Malawi",
+       "class": "hub",
+       "platform": "",
+       "owner": "UNDP Malawi",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

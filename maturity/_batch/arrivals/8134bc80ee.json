@@ -1,0 +1,64 @@
+{
+ "slug": "2026-08-28-mus-communique-individual-income-tax-returns-e-filing-season-2026",
+ "studies": {
+  "revenuecollection": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The MRA communique says facilities to pay individual income tax are available on its website.",
+       "as_of": "2026-08-28",
+       "date_precision": "day",
+       "system": "MRA website e-filing",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The MRA says individuals file income tax returns online on its website with NID, NCID or TAN.",
+       "as_of": "2026-08-28",
+       "date_precision": "day",
+       "system": "MRA website e-filing",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "The MRA says individuals can pay income tax on its website.",
+       "as_of": "2026-08-28",
+       "date_precision": "day",
+       "system": "MRA website e-filing",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MRA website e-filing",
+       "country_label": "Mauritius",
+       "class": "taxsystem",
+       "platform": "web",
+       "owner": "MRA",
+       "tiers": "standard and simplified returns"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

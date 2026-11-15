@@ -1,0 +1,63 @@
+{
+ "slug": "2025-01-01-dza-kick-start-2025-startups-incubation-program",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "labelled",
+       "value": "labelled",
+       "fact": "The page says the ministry's Innovative Project label is held by project holders eligible for the programme, which also helps them file for the ministry's startup label.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Innovative Project label",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The incubator Advalians, with Algeria Venture and the startups ministry, runs a 12-month Kick Start 2025 incubation programme for 8 selected project holders.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Advalians Kick Start incubation programme",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Advalians",
+       "country_label": "Algeria",
+       "class": "hub",
+       "platform": "",
+       "owner": "Advalians (private incubator)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

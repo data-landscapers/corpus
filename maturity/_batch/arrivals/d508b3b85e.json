@@ -1,0 +1,54 @@
+{
+ "slug": "2024-09-29-dji-instad-tenue-de-la-6eme-reunion-du-comite-de-programme-statistique-et",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "La Nation reports the sixth CPSM of 25 September 2024 was to present the results of the third RGPH.",
+       "as_of": "2024-09-25",
+       "date_precision": "day",
+       "system": "RGPH-3 2024",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ictjobs": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "preparing",
+       "fact": "The sixth CPSM of 25 September 2024 presented the roadmap for formulating the third SNDS, after the SNDS 2018-2022, says La Nation.",
+       "as_of": "2024-09-25",
+       "date_precision": "day",
+       "system": "SNDS3",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

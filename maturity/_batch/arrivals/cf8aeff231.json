@@ -1,0 +1,162 @@
+{
+ "slug": "2025-01-01-gin-la-banque-centrale-de-la-republique-de-guinee-lance-le-switch-monetiqu",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Guinea."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Guinea."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The BCRG, with the government and the World Bank, launched the national card and digital payments switch run by GuiM on 15 January 2025, saying it played an active role as regulator.",
+       "as_of": "2025-01-15",
+       "date_precision": "day",
+       "system": "Switch National Monétique et Digital",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Switch National Monétique et Digital",
+       "country_label": "Guinea",
+       "platform": "",
+       "owner": "Guinéenne de Monétique (GuiM) / BCRG",
+       "tiers": "",
+       "class": "oversight"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Guinea."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Guinea."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Guinea."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Guinea."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Guinea."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Guinea."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "The BCRG states it launched on 15 January 2025 a national switch to connect banks, e-money institutions, microfinance institutions, payment operators and fintechs.",
+       "as_of": "2025-01-15",
+       "date_precision": "day",
+       "system": "Switch National Monétique et Digital",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Switch National Monétique et Digital",
+       "country_label": "Guinea",
+       "platform": "",
+       "owner": "Guinéenne de Monétique (GuiM) / BCRG",
+       "tiers": "",
+       "class": "retail"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Guinea."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Guinea."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Guinea."
+    }
+   }
+  }
+ }
+}

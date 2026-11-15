@@ -1,0 +1,124 @@
+{
+ "slug": "2025-05-05-cpv-ulisses-correia-e-silva-inaugura-parque-tecnologico-da-praia-e-do-mind",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cabo Verde."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cabo Verde."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cabo Verde."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cabo Verde."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cabo Verde."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cabo Verde."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cabo Verde."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cabo Verde."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cabo Verde."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cabo Verde."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "park",
+       "value": "tenants",
+       "fact": "Prime Minister Ulisses Correia e Silva inaugurated the Praia Technology Park and said 23 companies from seven countries with over 300 staff are already installed there.",
+       "as_of": "2025-05-05",
+       "date_precision": "day",
+       "system": "Parque Tecnologico da Praia",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Parque Tecnologico da Praia",
+       "country_label": "Cabo Verde",
+       "class": "hub",
+       "platform": "",
+       "owner": "Governo de Cabo Verde",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

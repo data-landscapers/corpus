@@ -1,0 +1,13 @@
+{"slug": "2024-01-01-moz-promoting-legal-identity-in-northern-mozambique-iom-mz-legal-identity", "studies": {
+"authentication": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on authentication services."}}},
+"birthidlink": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states no link between civil register and ID system."}}},
+"civilregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Mobile brigades issue certificates; no digital civil register is described."}}},
+"disabilityaccess": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Transport to registration sites for disabled people is not a digital accessibility measure."}}},
+"idcoverage": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Gives cards issued to IDPs and hosts, not a share of the population enrolled."}}},
+"idfrombirth": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Birth certificates issued; no ID number at birth is stated."}}},
+"idmaintenance": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Cards issued are counted, but nothing on the ID system's operation, biometrics or certification."}}},
+"refugees": {"countries": {"MOZ": {"facts": [{"sub_indicator": "displaced", "aspect": "registration", "value": "documented", "fact": "IOM Mozambique reports 54,631 birth certificates and 1,001 identity cards issued to internally displaced people and host communities in 13 northern districts, delivered with the Ministry of Justice and the Ministry of Interior.", "as_of": "2024-01", "date_precision": "month", "system": "IOM legal identity programme with Ministry of Justice and Ministry of Interior", "class": "displaced"}], "systems": [], "note": ""}}},
+"registry": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Civil registration and identification mobile brigades are named, with no statement on digital entry at local offices."}}}
+}}

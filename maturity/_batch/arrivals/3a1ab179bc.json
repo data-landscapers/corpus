@@ -1,0 +1,174 @@
+{
+ "slug": "2026-09-01-lso-guide-on-e-payments",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a tax payment guide and states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a tax payment guide and states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a tax payment guide and states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a tax payment guide and states nothing this study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a tax payment guide and states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a tax payment guide and states nothing this study asks."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a tax payment guide and states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a tax payment guide and states nothing this study asks."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a tax payment guide and states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Revenue Services Lesotho's guide says taxpayers can pay through EcoCash or M-Pesa mobile money on its e-Payments platform.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "EcoCash / M-Pesa",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Revenue Services Lesotho says taxpayers pay domestic (inland) taxes on its e-Payments platform by EcoCash, M-Pesa or bank channels.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "RSL e-Payments platform",
+       "class": "revenue"
+      },
+      {
+       "sub_indicator": "revenue",
+       "aspect": "main",
+       "value": "main",
+       "fact": "Revenue Services Lesotho says both domestic (inland) taxes and customs duties can be paid on its e-Payments platform by mobile money or bank channels.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "RSL e-Payments platform",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RSL e-Payments platform",
+       "country_label": "Lesotho",
+       "class": "revenue",
+       "platform": "RSL website",
+       "owner": "Revenue Services Lesotho",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "Revenue Services Lesotho says taxes can be paid online through its e-Payments platform by mobile money and bank channels, with payments reflected instantly in the RSL system.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "RSL e-Payments platform",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RSL e-Payments platform",
+       "country_label": "Lesotho",
+       "class": "revenue",
+       "platform": "RSL website",
+       "owner": "Revenue Services Lesotho",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

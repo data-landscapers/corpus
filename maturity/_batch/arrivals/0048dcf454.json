@@ -1,0 +1,11 @@
+{"slug":"2024-10-04-nam-mtc-targets-over-50-of-namibians-who-are-unbanked-with-maris-offering","studies":{
+"businesspayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"NAM":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"The Brief reports MTC Maris operates under Bank of Namibia regulation and follows MTC securing an electronic money licence from the Bank of Namibia in November.","as_of":"2024-10-04","date_precision":"day","system":"MTC Maris","class":"oversight"}],"systems":[{"system":"MTC Maris","country_label":"Namibia","class":"other","platform":"mobile wallet","owner":"MTC","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No consumer rules or complaints body stated."}}},
+"crossborderpayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing cross-border."}}},
+"g2ppayments":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on government payments."}}},
+"idrobustness":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Biometric registration is for a wallet, not a national ID."}}},
+"paymentslaw":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No law or rules named; only that Bank of Namibia regulates and licensed MTC."}}},
+"paymentsuptake":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Gives 22% financially excluded, not an account share of adults."}}},
+"retailpayments":{"countries":{"NAM":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Brief reports MTC launched the MTC Maris mobile money service, with send, receive, cash-in/out at agents, airtime and merchant payments within the MTC network.","as_of":"2024-10-04","date_precision":"day","system":"MTC Maris","class":"retail"}],"systems":[{"system":"MTC Maris","country_label":"Namibia","class":"retail","platform":"mobile money wallet","owner":"MTC (WGA Proprietary Limited)","tiers":""}],"note":"Bank links only at talks stage; no interoperability."}}},
+"revenuecollection":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}}}

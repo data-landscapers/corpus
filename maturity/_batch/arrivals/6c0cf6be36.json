@@ -1,0 +1,79 @@
+{
+ "slug": "2024-09-01-zmb-unhcr-zambia-factsheet-september-2024",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital civil registration appears only as a 2023 pledge, not as a system delivered."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "UNHCR's factsheet says the Government registered 10,194 individuals between 1 January and 31 August 2024, including birth registrations, 6,485 new arrivals and in-situ registrations.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "Government refugee registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government refugee registration (Office of the Commissioner for Refugees)",
+       "country_label": "Zambia",
+       "class": "displaced",
+       "platform": "",
+       "owner": "Commissioner for Refugees, Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  }
+ }
+}

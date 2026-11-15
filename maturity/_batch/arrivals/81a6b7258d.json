@@ -1,0 +1,11 @@
+{"slug":"2026-11-14-nam-techreviewafrica-dpi-financial-sector-pki-eid","studies":{
+"authentication":{"countries":{"NAM":{"facts":[{"sub_indicator":"authentication","aspect":"service","value":"underway","fact":"Namibia's Ministry of ICT told the Financial Sector Council Advisory Body it is ready to implement Electronic Identification and to launch a Public Key Infrastructure for legally recognised electronic signatures.","as_of":"2026-11-14","date_precision":"day","system":"Public Key Infrastructure / Electronic Identification","class":"authentication"}],"systems":[{"system":"Public Key Infrastructure","country_label":"Namibia","class":"authentication","platform":"","owner":"MICT","tiers":""}],"note":""}}},
+"birthidlink":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Document says nothing on civil register and ID links."}}},
+"digitalstrategy":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Names only a financial sector strategy 2025-2035, not a national digital strategy."}}},
+"ecommercelaw":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No law named; only says PKI enables legally recognised e-signatures, no law or draft stated."}}},
+"idcoverage":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Electronic ID is only prepared for implementation; no system issuing unique credentials is stated."}}}
+}}

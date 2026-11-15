@@ -1,0 +1,12 @@
+{"slug": "2025-09-26-mwi-electronic-payment-improves-efficiency-of-cash-transfers", "studies": {
+"businesspayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document does not mention e-procurement."}}},
+"centralbank": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No consumer protection rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No cross-border payment stated."}}},
+"g2ppayments": {"countries": {"MWI": {"facts": [{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "Nation Online reports M'Mbelwa District Council now pays Social Cash Transfer Programme beneficiaries' monthly stipends electronically through Kaku Mobile Money Service, replacing cash pay parades, with EU support.", "as_of": "2025-09-26", "date_precision": "day", "system": "Kaku Mobile Money Service", "class": "g2p"}], "systems": [{"system": "Kaku Mobile Money Service", "country_label": "Malawi", "class": "g2p", "platform": "mobile money", "owner": "Kaku Mobile Money Service", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No local government office connection stated."}}},
+"paymentsuptake": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No survey share of adults with accounts stated."}}},
+"retailpayments": {"countries": {"MWI": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Nation Online reports Kaku Mobile Money Service is in service in M'Mbelwa district, where beneficiaries cash stipends at trading centres, with TNM and Airtel networks named.", "as_of": "2025-09-26", "date_precision": "day", "system": "Kaku Mobile Money Service", "class": "retail"}], "systems": [{"system": "Kaku Mobile Money Service", "country_label": "Malawi", "class": "retail", "platform": "mobile money", "owner": "Kaku Mobile Money Service", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No revenue payment stated."}}},
+"socialprotection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document names no programme management information system, only e-payment through a provider."}}}
+}}

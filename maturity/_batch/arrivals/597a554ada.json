@@ -1,0 +1,64 @@
+{
+ "slug": "2025-09-30-xaf-24-african-countries-that-got-starlink-before-south-africa",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Listed as no planned launch date; no licence or sale stated."
+    },
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Listed as no planned launch date; no licence or sale stated."
+    },
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "MyBroadband says Starlink's availability map showed Guinea-Bissau as Available on 29 September 2025.",
+       "as_of": "2025-09-29",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Guinea-Bissau",
+       "class": "satellite",
+       "platform": "LEO",
+       "owner": "SpaceX",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Listed with a 2026 estimated launch; not yet available."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Listed with a 2025 estimated launch; not yet available."
+    },
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Listed with a 2025 estimated launch; not yet available."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Starlink approval held up by ownership rules; no statement that no provider is licensed or banned."
+    }
+   }
+  }
+ }
+}

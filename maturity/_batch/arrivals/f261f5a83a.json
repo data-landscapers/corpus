@@ -1,0 +1,43 @@
+{
+ "slug": "2025-01-21-ken-mps-pass-startup-bill-to-support-innovation-empower-entrepreneurs",
+ "studies": {
+  "startups": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "Nairobi Business Monthly reports the National Assembly passed the Startup Bill 2022, which awaits presidential assent.",
+       "as_of": "2025-01-21",
+       "date_precision": "day",
+       "system": "Startup Bill 2022",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Startup Bill 2022",
+       "country_label": "Kenya",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "National Assembly",
+       "tiers": ""
+      }
+     ],
+     "note": "Labelling criteria and Startup Fund are bill provisions, not applied."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Bill mandates an incubation framework; no hub in service stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug":"2025-03-05-tgo-enhancing-climate-resilience-with-smarter-data-the-role-of-dynamic-soc","studies":{
+"agrisatellite":{"countries":{
+"GMB":{"facts":[],"systems":[],"note":"Names no farming use of satellite data for The Gambia."},
+"MRT":{"facts":[],"systems":[],"note":"Names no farming use of satellite data for Mauritania."}}},
+"socialexchange":{"countries":{
+"GMB":{"facts":[],"systems":[],"note":"States no link or data exchange for The Gambia's registry."},
+"MRT":{"facts":[],"systems":[],"note":"States no link or data exchange for Mauritania's registry."}}},
+"socialregistry":{"countries":{
+"GMB":{"facts":[{"sub_indicator":"social","aspect":"registry","value":"underway","fact":"The World Bank blog says The Gambia is implementing a universal social registry covering the entire population.","as_of":"2025-03-05","date_precision":"day","system":"universal social registry","class":"social"}],"systems":[{"system":"universal social registry","country_label":"The Gambia","class":"social","platform":"","owner":"","tiers":""}],"note":""},
+"MRT":{"facts":[{"sub_indicator":"social","aspect":"registry","value":"underway","fact":"The World Bank blog says Mauritania is implementing a universal social registry covering the entire population.","as_of":"2025-03-05","date_precision":"day","system":"universal social registry","class":"social"}],"systems":[{"system":"universal social registry","country_label":"Mauritania","class":"social","platform":"","owner":"","tiers":""}],"note":""}}}}}

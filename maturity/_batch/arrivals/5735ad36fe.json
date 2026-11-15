@@ -1,0 +1,63 @@
+{
+ "slug": "2026-07-06-zaf-south-african-startup-growth-trails-regional-peers",
+ "studies": {
+  "nonstatefinance": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "private",
+       "aspect": "money",
+       "value": "committed",
+       "fact": "A SiMODiSA and Allan & Gill Gray Philanthropy report, via Business Day, estimates fresh early-stage venture capital in South Africa at R3.3bn in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "",
+       "class": "private"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the AU startup model law is mentioned, which is not a digital law text with a South African signature."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "none",
+       "fact": "Business Day says South Africa does not currently have a dedicated, enacted Startup Act; one is proposed.",
+       "as_of": "2026-07-06",
+       "date_precision": "day",
+       "system": "SA Startup Act (proposed)",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Cape Town and Johannesburg are named as startup hubs only in passing, with no programme or cohort."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-10-06-bwa-botswana-makes-strides-in-bridging-energy-demand-gap",
+ "studies": {
+  "gridreliability": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage count; only that scheduled load shedding last occurred in 2015."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "rural",
+       "aspect": "access",
+       "value": "official:58",
+       "fact": "The article cites 2024 World Bank reports as putting rural access to electricity in Botswana at 58 per cent in 2022.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "World Bank rural access series",
+       "class": "ruralpower"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

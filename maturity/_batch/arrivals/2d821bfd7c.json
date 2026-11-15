@@ -1,0 +1,155 @@
+{
+ "slug": "2026-03-01-gha-electronic-communications-numbering-resources-registration-faqs",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The Ministry of Communication says its new SIM registration platform will verify biometrics in real time against the National Identification Authority database, with the operator still to be procured.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "NIA real-time biometric verification",
+       "class": "authentication"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil register link stated."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a SIM-exercise check of company data; no register status stated."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Rural support is for SIM registration only."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "86% is of eligible residents, not the whole population."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No public register keyed on the ID stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on the ID system's robustness stated."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The Ministry of Communication says the new SIM registration exercise will verify every registration in real time against the NIA database, with no entity yet engaged and procurement pending.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "SIM (Numbering Resources) Registration",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIM (Numbering Resources) Registration",
+       "country_label": "Ghana",
+       "class": "relying",
+       "platform": "",
+       "owner": "National Communications Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "access",
+       "value": "open",
+       "fact": "The Ministry of Communication FAQ lists refugees among those who must register SIMs, using the Refugee Non Citizen ID.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "SIM (Numbering Resources) Registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil registration stated."
+    }
+   }
+  }
+ }
+}

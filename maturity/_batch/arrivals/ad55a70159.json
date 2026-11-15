@@ -1,0 +1,74 @@
+{
+ "slug": "2026-07-02-zmb-smart-africa-and-zambia-advance-digital-entrepreneurship-policy-throug",
+ "studies": {
+  "publicconsultation": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "Smart Africa and Zambia's Ministry of Technology and Science convened a Lusaka validation workshop on the Digital Entrepreneurship and Innovation Country Assessment with private sector representatives and entrepreneurs, reviewing the proposed Startup Bill.",
+       "as_of": "2026-07-02",
+       "date_precision": "day",
+       "system": "Digital Entrepreneurship and Innovation Policy workshop",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Zambia's ministry partnered with Smart Africa on a national workshop under the AEDIB 2.0 programme, per Smart Africa.",
+       "as_of": "2026-07-02",
+       "date_precision": "day",
+       "system": "Smart Africa",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "The workshop assessed progress on the proposed Startup Bill, per the report.",
+       "as_of": "2026-07-02",
+       "date_precision": "day",
+       "system": "Startup Bill",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

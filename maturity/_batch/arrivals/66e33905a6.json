@@ -1,0 +1,176 @@
+{
+ "slug": "2026-03-01-cpv-the-importance-of-interoperability-for-stronger-social-protection",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Interoperability platform is only a planned part of the national DPI approach; no platform stated in service."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for Cabo Verde."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Registry will feed a unified portal; a plan, no exchange stated in service."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Registry is named but the document does not state it in service, programmes or links."
+    }
+   }
+  }
+ }
+}

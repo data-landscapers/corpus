@@ -1,0 +1,8 @@
+{"slug": "2026-11-13-ben-mahuna-akplogan-forum-paris-paix-souverainete-ia", "studies": {
+"aiabuse": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Minister's remarks on AI sovereignty state no rule, draft or authority on AI harms."}}},
+"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only AI technical advisers placed in ministries are described; no AI system in use or piloted in administration is stated."}}},
+"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No AI tool in a sector's public system is stated; only online visa and criminal record services, which are not AI."}}},
+"aistrategy": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Minister is described as in charge of the national AI strategy and defends an approach, but the document gives no draft, adoption, named body tied to it or funding."}}},
+"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Local tools and computing capacity are called a need; no model, dataset or AI computing built or planned with a named builder is stated."}}},
+"police": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document does not mention police station records."}}}
+}}

@@ -1,0 +1,43 @@
+{
+ "slug": "2023-11-23-civ-loi-n-2023-901-du-23-novembre-2023-portant-promotion-des-startups-nume",
+ "studies": {
+  "startups": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Loi n\u00b0 2023-901 of 23 November 2023, adopted by the National Assembly and Senate and promulgated by the President, sets rules for promoting digital startups and creates a Startup label.",
+       "as_of": "2023-11-23",
+       "date_precision": "day",
+       "system": "Loi n\u00b0 2023-901 portant promotion des startups num\u00e9riques",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Label Startup num\u00e9rique",
+       "country_label": "C\u00f4te d'Ivoire",
+       "class": "startuppolicy",
+       "platform": "",
+       "owner": "Ministry of Digital Economy",
+       "tiers": "pre-label (1 year), label (up to 5 years)"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Law names support structures but states no hub in service or under way."
+    }
+   }
+  }
+ }
+}

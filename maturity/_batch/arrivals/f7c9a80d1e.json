@@ -1,0 +1,20 @@
+{"slug":"2024-05-01-gab-mobile-money-au-gabon-tr3-arcep-gabon","studies":{
+"businesspayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Document does not mention e-procurement."}}},
+"centralbank":{"countries":{"GAB":{"facts":[
+{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"ARCEP Gabon says Gabon Telecom and Airtel Money provide mobile money through the banks UGB and BGFIBank, which hold COBAC approvals to issue electronic money.","as_of":"2024-05","date_precision":"month","system":"COBAC e-money issuer approval","class":"oversight"},
+{"sub_indicator":"centralbank","aspect":"regional","value":"regional","fact":"ARCEP Gabon says COBAC ensures interoperability of mobile payment systems in the CEMAC zone through its GIMACPAY platform.","as_of":"2024-05","date_precision":"month","system":"GIMACPAY","class":"oversight"}],
+"systems":[{"system":"GIMACPAY","country_label":"Gabon","class":"oversight","platform":"GIMAC","owner":"COBAC/GIMAC","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Document states no consumer protection rules or redress body."}}},
+"crossborderpayments":{"countries":{"GAB":{"facts":[
+{"sub_indicator":"crossborder","aspect":"corridor","value":"inservice","fact":"ARCEP Gabon reports mobile money transfers within the CEMAC zone of 1.489 billion FCFA in 2022, up 66.6% on 2021.","as_of":"2022","date_precision":"year","system":"Mobile money transfers, CEMAC zone","class":"crossborder"},
+{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"ARCEP Gabon says mobile payment interoperability in the CEMAC zone runs through the GIMACPAY platform.","as_of":"2024-05","date_precision":"month","system":"GIMACPAY","class":"crossborder"},
+{"sub_indicator":"crossborder","aspect":"reported","value":"reported","fact":"ARCEP Gabon, citing the Ministry of Economy, gives CEMAC-zone mobile money transfers as 0.894 billion FCFA in 2021 and 1.489 billion FCFA in 2022.","as_of":"2022","date_precision":"year","system":"Mobile money transfers, CEMAC zone","class":"crossborder"}],
+"systems":[],"note":""}}},
+"g2ppayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Document does not mention government payments to people."}}},
+"mobilepenetration":{"countries":{"GAB":{"facts":[],"systems":[{"system":"Mobile penetration rate","country_label":"about 143% (SIM-based penetration)","class":"other","platform":"","owner":"","tiers":""}],"note":"Only a SIM-based penetration rate is given, not a share of people owning a phone."}}},
+"paymentsuptake":{"countries":{"GAB":{"facts":[],"systems":[{"system":"Mobile money accounts","country_label":"3,169,109 accounts in 2022","class":"other","platform":"","owner":"","tiers":""}],"note":"Only account counts are given, no survey share of adults."}}},
+"retailpayments":{"countries":{"GAB":{"facts":[
+{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"ARCEP Gabon says mobile money has operated in Gabon since 2012, led by Airtel Gabon with an 82% client share in 2023, alongside Moov Africa Gabon Telecom.","as_of":"2023","date_precision":"year","system":"Airtel Money","class":"retail"}],
+"systems":[{"system":"Airtel Money","country_label":"Gabon","class":"retail","platform":"","owner":"Airtel Gabon","tiers":""},{"system":"Moov Money","country_label":"Gabon","class":"retail","platform":"","owner":"Gabon Telecom","tiers":""}],"note":"National interoperability stated as still being addressed, so no interop fact."}}},
+"revenuecollection":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Document does not mention electronic payment of taxes or fees."}}}
+}}

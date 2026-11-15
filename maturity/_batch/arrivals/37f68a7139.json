@@ -1,0 +1,13 @@
+{"slug":"2025-11-08-mwi-mse-touts-project-for-nurturing-smes","studies":{
+"businesspayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Document says nothing on e-procurement."}}},
+"centralbank":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Only a general remark that RBM is enhancing its regulatory framework; no payments mandate, licensing, switch or PAPSS stated."}}},
+"consumerprotection":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Document says nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Document says nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Document says nothing on government payments to people."}}},
+"nonstatefinance":{"countries":{"MWI":{"facts":[],"systems":[],"note":"World Bank-funded Fines project financing is named with no amount; no private money stated."}}},
+"paymentsuptake":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Document gives no account-holding survey figure."}}},
+"retailpayments":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Document says nothing on retail digital payments."}}},
+"revenuecollection":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Document says nothing on revenue collection."}}},
+"startups":{"countries":{"MWI":{"facts":[],"systems":[],"note":"No startup law, strategy or public fund stated; the incubator is a stock exchange programme."}}},
+"techhubs":{"countries":{"MWI":{"facts":[{"sub_indicator":"hub","aspect":"hubs","value":"inservice","fact":"The Malawi Stock Exchange's Mzinga Incubation Programme, launched 28 July 2023, graduated its first cohort of six companies in Blantyre, with mentorship and training, per the Nation Online report.","as_of":"2025-11","date_precision":"month","system":"Mzinga Incubation Programme","class":"hub"}],"systems":[{"system":"Mzinga Incubation Programme","country_label":"Malawi","class":"hub","platform":"","owner":"Malawi Stock Exchange","tiers":""}],"note":""}}}
+}}

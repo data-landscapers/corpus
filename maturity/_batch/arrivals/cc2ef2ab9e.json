@@ -1,0 +1,34 @@
+{
+ "slug": "2025-02-28-gnq-sexta-sesion-ordinaria-del-comite-de-programas-estadisticos",
+ "studies": {
+  "statisticsstrategy": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "review",
+       "value": "reviewed",
+       "fact": "INEGE reports that at the sixth ordinary session of the Statistical Programmes Committee it presented the 2024 implementation report on the ENDE, a 30% overall execution rate, and the committee adopted it with amendments.",
+       "as_of": "2025-02-27",
+       "date_precision": "day",
+       "system": "ENDE",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ENDE",
+       "country_label": "ENDE",
+       "class": "strategy",
+       "platform": "",
+       "owner": "INEGE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

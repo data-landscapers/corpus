@@ -1,0 +1,8 @@
+{"slug": "2026-11-04-mus-la-turbine-innovation-challenge-2026-seven-start-ups-present-their-sol", "studies": {
+"aiabuse": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No government body using AI is stated."}}},
+"aisectoral": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No public sector AI system is stated."}}},
+"aisystems": {"countries": {"MUS": {"facts": [], "systems": [], "note": "WillPost is a startup's AI-using product with no stated local model, dataset or computing."}}},
+"startups": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Document states no startup law, labelling or public fund."}}},
+"techhubs": {"countries": {"MUS": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "La Turbine, ER Group's incubator founded in 2016, ran its 2026 Innovation Challenge, a two-month programme launched 17 September 2026 with seven selected start-ups, and says it has helped create 35 start-ups since inception.", "as_of": "2026-09-17", "date_precision": "day", "system": "La Turbine", "class": "hub"}], "systems": [{"system": "La Turbine", "country_label": "Mauritius", "class": "hub", "platform": "", "owner": "ER Group", "tiers": ""}], "note": ""}}}
+}}

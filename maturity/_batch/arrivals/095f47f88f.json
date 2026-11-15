@@ -1,0 +1,61 @@
+{
+ "slug": "2026-06-12-sen-les-centres-d-etat-civil-digitalises-a-hauteur-de-66-directeur",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "no link, birth number or register status stated"
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "no births or deaths register status stated"
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "no link, birth number or register status stated"
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "offices",
+       "value": "equipped:66%",
+       "fact": "ANEC's director general said the 629 civil-status centres have a digitalisation rate of 66%.",
+       "as_of": "2026-06-11",
+       "date_precision": "day",
+       "system": "ANEC civil-status digitalisation",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANEC consular civil-status system",
+       "country_label": "Sénégal",
+       "class": "other",
+       "platform": "",
+       "owner": "ANEC",
+       "tiers": "consular"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

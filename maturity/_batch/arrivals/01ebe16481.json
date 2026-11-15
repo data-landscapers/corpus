@@ -1,0 +1,189 @@
+{
+ "slug": "2025-08-21-zwe-beyond-the-headlines-uncovering-the-untapped-potential-of-zimbabwe-s-s",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The authors say the development of a national AI Policy is under way in Zimbabwe, signalling intent to align with global standards.",
+       "as_of": "2025-08-21",
+       "date_precision": "day",
+       "system": "National AI Policy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for ZWE."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The authors name hubs operating in Zimbabwe including Stanbic Bank's Incubation Hub, ZB Innovation Hub, Eight2Five and Impact Hub Harare, giving early-stage support and mentorship, with no programme cohort stated.",
+       "as_of": "2025-08-21",
+       "date_precision": "day",
+       "system": "Stanbic Bank Incubation Hub; ZB Innovation Hub; Eight2Five Innovation Hub; Impact Hub Harare",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

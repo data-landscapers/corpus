@@ -1,0 +1,9 @@
+{"slug":"2026-01-01-cpv-incentivos-fiscais-as-tics","studies":{
+"landregister":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Tax incentive deck; says nothing on land registers."}}},
+"localgov":{"countries":{"CPV":{"facts":[],"systems":[],"note":"Tax incentive deck; says nothing on local government connection."}}},
+"startups":{"countries":{"CPV":{"facts":[
+{"sub_indicator":"startuppolicy","aspect":"law","value":"adopted","fact":"The Ministry of Finance (DGCI) deck says startups benefit from financial incentives, skills support and other institutional support provided in Law 70/VIII/2014 of 26 August.","as_of":"2026","date_precision":"year","system":"Lei n.º 70/VIII/2014","class":"startuppolicy"},
+{"sub_indicator":"startuppolicy","aspect":"labelled","value":"labelled","fact":"The Ministry of Finance (DGCI) deck says the 2026 State Budget applies a 5% IRPC rate (2.5% for ICT startups and those outside Praia, Sal, Sao Vicente and Boa Vista) to startups for their first five years, with stamp-duty and import-duty relief.","as_of":"2026","date_precision":"year","system":"Incentivos às startups – jovem e TICs","class":"startuppolicy"}
+],"systems":[],"note":"No public fund financing startups is stated; the 25% digital-services reservation is a procurement measure, not a fund."}}},
+"techhubs":{"countries":{"CPV":{"facts":[],"systems":[],"note":"The deck mentions ZEET registration for tech startups but names no hub, incubator or park in operation."}}}
+}}

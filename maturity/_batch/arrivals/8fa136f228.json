@@ -1,0 +1,11 @@
+{"slug":"2025-02-18-uga-uganda-joins-smart-africa-trust-alliance","studies":{
+"authentication":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on authentication services."}}},
+"birthidlink":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on civil register and ID links."}}},
+"dataprotectionlaw":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document names no Ugandan data protection law."}}},
+"idcoverage":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document gives no ID enrolment count or share."}}},
+"idfrombirth":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on ID numbers at birth."}}},
+"idmaintenance":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on who operates the ID system."}}},
+"idregisters":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on the national ID system."}}},
+"regionalpolicy":{"countries":{"UGA":{"facts":[{"sub_indicator":"cooperation","aspect":"part","value":"active","fact":"TechReviewAfrica reports Uganda officially joined the Smart Africa Trust Alliance, becoming the 16th country to sign the SATA declaration, announced at a meeting between Smart Africa's CEO and Uganda's ICT Minister.","as_of":"2025-02-18","date_precision":"day","system":"Smart Africa Trust Alliance declaration","class":"cooperation"}],"systems":[{"system":"Smart Africa Trust Alliance (SATA)","country_label":"Uganda","class":"cooperation","platform":"","owner":"Smart Africa","tiers":""}],"note":"Document says Uganda ratified the Smart Africa Protocol Agreement but gives no date and no effect at home."}}}
+}}

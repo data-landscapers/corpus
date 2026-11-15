@@ -1,0 +1,62 @@
+{
+ "slug": "2026-06-26-lso-starlink-s-reach-in-lesotho-extends-to-police-and-disaster-management",
+ "studies": {
+  "internetusage": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a DataReportal figure, which is not used."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Starlink connectivity for police stations",
+       "country_label": "Lesotho",
+       "class": "enabling",
+       "platform": "Starlink",
+       "owner": "Starlink",
+       "tiers": ""
+      }
+     ],
+     "note": "Starlink gives police stations connectivity only; no station record system stated."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "The Lesotho Communications Authority granted Starlink a 10-year Network Service Licence.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Starlink",
+       "class": "satellite"
+      },
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "Starlink launched in Lesotho in June 2025 and offers residential service and kit (ZAR 7,400; Minikit ZAR 3,800 nationwide) to individuals and businesses.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,186 @@
+{
+ "slug": "2025-06-26-rwa-newsletter-vol-3-released-technical-cooperation-project-digital-innova",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "JICA says RISA is preparing implementation of a fourth proof of concept, an e-public procurement system for the Ministry of Finance and Economic Planning.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "e-public procurement system",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-public procurement system (4th PoC)",
+       "country_label": "e-public procurement system",
+       "class": "procurement",
+       "platform": "",
+       "owner": "MINECOFIN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on finance, tax or payroll systems in use."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an executive training programme for ICT officials; civil servants only."
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "sector",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "JICA says the Government of Rwanda's ICT Sector Strategic Plan 2024-2029 was released on 10 August 2024.",
+       "as_of": "2024-08-10",
+       "date_precision": "day",
+       "system": "ICT Sector Strategic Plan 2024-2029",
+       "class": "sector"
+      },
+      {
+       "sub_indicator": "sector",
+       "aspect": "period",
+       "value": "to:2029",
+       "fact": "JICA gives the ICT Sector Strategic Plan's period as 2024-2029.",
+       "as_of": "2024-08-10",
+       "date_precision": "day",
+       "system": "ICT Sector Strategic Plan 2024-2029",
+       "class": "sector"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ICT Sector Strategic Plan 2024-2029",
+       "country_label": "ICT Sector Strategic Plan (SSP)",
+       "class": "sector",
+       "platform": "",
+       "owner": "MINICT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement of who runs or builds government systems; contractor and donor-supported work only."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "JICA says the World Bank-supported Revenue Improvement Action Plan aims to introduce an e-tax system.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "e-tax system (RIAP)",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No school internet figure or curriculum statement."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Startup support programme and procurement scheme named, but no startup law, strategy, labelling or fund stated."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "E-tax system only aimed for under a plan; none procured, piloted or built per the document."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "JICA says the Hanga Hub innovation hubs in Musanze and Huye ran an Ideation programme from 21 February to 11 March 2025 with 100 participants, 19 ideas moving to pre-incubation.",
+       "as_of": "2025-03",
+       "date_precision": "month",
+       "system": "Hanga Hub",
+       "class": "hub"
+      },
+      {
+       "sub_indicator": "hub",
+       "aspect": "cities",
+       "value": "several",
+       "fact": "JICA says programmes ran at the innovation hubs in both Musanze and Huye, including business idea contests on 14 and 17 January 2025.",
+       "as_of": "2025-03",
+       "date_precision": "month",
+       "system": "Hanga Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Hanga Hub (Musanze, Huye)",
+       "country_label": "Hanga Hub",
+       "class": "hub",
+       "platform": "",
+       "owner": "RISA with EU",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,7 @@
+{"slug":"2024-11-14-ken-how-ericsson-and-unicef-are-connecting-over-500-kenyan-schools-to-the","studies":{
+"broadbandstrategy":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Names Kenya's National Broadband Strategy only in passing as the basis of a school speed target; states nothing on its adoption, funding or review."}}},
+"civilserviceskills":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on civil-service digital skills training."}}},
+"digitaldivides":{"countries":{"KEN":{"facts":[],"systems":[{"system":"Giga Kenya school connectivity","country_label":"Kenya","class":"other","platform":"","owner":"UNICEF and Ericsson (Giga)","tiers":""}],"note":"Only a schools connectivity programme with an urban-rural remark; no rural programme by government or fund, no rural/urban use figures."}}},
+"digitalskills":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on a public digital-skills programme or a measured skills share."}}},
+"schoolinternet":{"countries":{"KEN":{"facts":[],"systems":[{"system":"Giga Kenya school connectivity","country_label":"Kenya","class":"other","platform":"","owner":"UNICEF and Ericsson (Giga)","tiers":""}],"note":"Secondary school internet share of 34% is for 2020 and from UNICEF, not a 2023-or-later official figure; no compulsory curriculum statement."}}}
+}}

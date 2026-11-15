@@ -1,0 +1,61 @@
+{
+ "slug": "2026-04-24-civ-registre-social-unique-rsu-des-menages-pauvres-et-vulnerables-plus-de",
+ "studies": {
+  "g2ppayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No payment is mentioned."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No data link between systems is stated."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the registry information system is described; no programme management system."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "BCP Filets Sociaux reports 1,356 implementers were trained from 22 March to 23 April 2026 on the updated SIG-RSU, ahead of enrolling over 250,000 new households in the registry nationwide.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "SIG-RSU",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIG-RSU",
+       "country_label": "CIV",
+       "class": "social",
+       "platform": "",
+       "owner": "BCP Filets Sociaux",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

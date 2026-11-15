@@ -1,0 +1,61 @@
+{
+ "slug": "2026-06-01-moz-uem-gradua-12-startups-tecnologicas-prontas-para-entrar-no-mercado",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "UEM's business incubator graduated 12 tech startups incubated under the MDITecHub programme run with Italian cooperation agency AICS and CIES.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "UEM Incubadora de Negócios / MDITecHub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UEM Incubadora de Negócios",
+       "country_label": "Mozambique",
+       "class": "hub",
+       "platform": "",
+       "owner": "Universidade Eduardo Mondlane",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

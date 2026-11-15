@@ -1,0 +1,6 @@
+{"slug": "2026-03-04-mus-turbine-welcomes-10-start-ups-into-incubation-and-strengthens-its-comm", "studies": {
+"aisectoral": {"countries": {"MUS": {"facts": [], "systems": [{"system": "Tibok", "country_label": "Mauritius", "class": "other", "platform": "AI-powered telemedicine platform", "owner": "Tibok (start-up in Turbine incubation)", "tiers": ""}], "note": "Tibok is a start-up's product; no public sector system is said to use AI."}}},
+"internationalstandards": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only a start-up's wish to support companies towards international standards; no standards body fact."}}},
+"startups": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Describes an incubator's programme; no startup law, strategy, labelling or public fund is stated."}}},
+"techhubs": {"countries": {"MUS": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "Turbine, an incubator, says it is welcoming ten Mauritian start-ups into its incubation programme, eight from the 2025 Innovation Challenge, with structured support over several months.", "as_of": "2026-03-04", "date_precision": "day", "system": "Turbine", "class": "hub"}], "systems": [{"system": "Turbine", "country_label": "Mauritius", "class": "hub", "platform": "incubator", "owner": "Turbine Incubator", "tiers": ""}], "note": ""}}}
+}}

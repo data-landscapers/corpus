@@ -1,0 +1,43 @@
+{
+ "slug": "2026-03-02-zmb-bongohive-launch-the-greentech4ce-digital-economy-incubator-and-accele",
+ "studies": {
+  "startups": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "EU co-funded hub programme, no public startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "BongoHive says it launched the EU co-funded 12-month GreenTech4CE incubator and accelerator programme for 40 digital startups.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "GreenTech4CE Digital Economy Incubator and Accelerator",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GreenTech4CE Digital Economy Incubator and Accelerator",
+       "country_label": "Zambia",
+       "class": "hub",
+       "platform": "",
+       "owner": "BongoHive",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

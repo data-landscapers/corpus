@@ -1,0 +1,12 @@
+{"slug":"2026-09-29-cod-rdc-le-cegft-propose-six-mesures-pour-accompagner-la-bcc-sur-linterope","studies":{
+"businesspayments":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"COD":{"facts":[],"systems":[],"note":"Mosolo is named but the document does not say the BCC runs or oversees it in service."}}},
+"consumerprotection":{"countries":{"COD":{"facts":[],"systems":[],"note":"Fee and rate disclosure are proposals only; no rule or complaints body stated."}}},
+"crossborderpayments":{"countries":{"COD":{"facts":[],"systems":[],"note":"No cross-border corridor stated; Bakong is Cambodia's."}}},
+"g2ppayments":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentslaw":{"countries":{"COD":{"facts":[{"sub_indicator":"law","aspect":"reach","value":"connect","fact":"The article states BCC Instruction n°58 of 4 September 2024 provides for interoperability of banks, microfinance institutions, fintechs and e-money institutions and their connection to the national switch Mosolo.","as_of":"2024-09-04","date_precision":"day","system":"BCC Instruction n°58","class":"law"}],"systems":[{"system":"BCC Instruction n°58","country_label":"RDC","class":"law","platform":"","owner":"Banque centrale du Congo","tiers":""}],"note":""}}},
+"paymentsuptake":{"countries":{"COD":{"facts":[],"systems":[],"note":"No account-ownership survey figure."}}},
+"policyresearch":{"countries":{"COD":{"facts":[{"sub_indicator":"research","aspect":"research","value":"publishing","fact":"The CEGFT, a Congolese centre on financial governance and transparency, published six proposals on implementing BCC Instruction n°58 on payment interoperability.","as_of":"2026-09-29","date_precision":"day","system":"CEGFT","class":"research"}],"systems":[{"system":"CEGFT","country_label":"RDC","class":"research","platform":"","owner":"","tiers":""}],"note":""}}},
+"retailpayments":{"countries":{"COD":{"facts":[],"systems":[{"system":"Mosolo","country_label":"RDC","class":"retail","platform":"national switch","owner":"","tiers":""}],"note":"Interoperability and Mosolo connection are described as provided for and proposed, not as in service."}}},
+"revenuecollection":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}
+}}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-01-gab-el-ministerio-de-telecomunicaciones-acelera-el-roaming-cero-en-la-cema",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Direct fibre interconnection CAB-4 is only to be advanced; no route stated in service."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Zero roaming is a regional policy matter; the CAB-4 fibre interconnection is only to be advanced, with no dated agreement or partner body named."
+    }
+   }
+  }
+ }
+}

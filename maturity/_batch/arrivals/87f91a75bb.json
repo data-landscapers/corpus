@@ -1,0 +1,55 @@
+{
+ "slug": "2025-09-11-xea-eac-partner-states-push-to-cut-roaming-costs-and-boost-cross-border-co",
+ "studies": {
+  "domesticfinancing": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on state money for digital programmes."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on state money for digital programmes."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Burundi's Permanent Secretary for Communication, Information Technologies and Media spoke at the EAC EARDIP national consultations of August 2025 on the One Network Area roaming framework.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "EAC One Network Area",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Somalia, a full EAC member since 4 March 2024, took part in the August 2025 EARDIP consultations, where its National Communications Authority called joining the One Network Area urgent.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "EAC One Network Area",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

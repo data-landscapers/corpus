@@ -1,0 +1,34 @@
+{
+ "slug": "2025-11-08-sen-decret-2025-1559-admission-statut-refugie-apatride",
+ "studies": {
+  "refugees": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "Decree 2025-1559 provides that asylum applications may be filed electronically, receive a receipt and are recorded in the refugee and stateless database, with a refugee identity card issued on admission.",
+       "as_of": "2025-09-17",
+       "date_precision": "day",
+       "system": "CNGRA refugee and stateless database",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNGRA refugee and stateless database",
+       "country_label": "Senegal",
+       "class": "displaced",
+       "platform": "",
+       "owner": "CNGRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

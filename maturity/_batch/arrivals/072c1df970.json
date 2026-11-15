@@ -1,0 +1,7 @@
+{"slug":"2025-03-18-zwe-sadc-ministers-unite-in-harare-to-help-shape-africa-s-digital-future","studies":{
+"digitalstrategy":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"The document states nothing about a Zimbabwean national digital strategy."}}},
+"exchangepoints":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"IXPs are only discussed as a regional priority; no Zimbabwe exchange point is stated in service."}}},
+"policyresearch":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No local research institution is named."}}},
+"regionalinfrastructure":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Only a SADC Shared Satellite System framework in development; no agreement or facility naming Zimbabwe."}}},
+"regionalpolicy":{"countries":{"ZWE":{"facts":[{"sub_indicator":"cooperation","aspect":"part","value":"member","fact":"TechAfrica News reports SADC ministers convened in Harare, where SADC endorsed 2030 broadband targets and a harmonised cybersecurity framework.","as_of":"2025-03-18","date_precision":"day","system":"SADC ICT ministers' meeting","class":"cooperation"}],"systems":[{"system":"SADC","country_label":"Zimbabwe","class":"other","platform":"","owner":"SADC","tiers":""}],"note":""}}}
+}}

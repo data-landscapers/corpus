@@ -1,0 +1,12 @@
+{"slug": "2025-02-17-moz-economic-and-policy-aspects-of-providing-high-speed-internet-connectiv", "studies": {
+"datacentres": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The deck mentions data centers for POPs only as a jobs point; it states no data centre for hire in Mozambique."}}},
+"digitaldivides": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "States no rural connection programme with counted sites and no rural and urban survey figures; the Gorongosa Park VSAT case is not a government programme."}}},
+"nationaldatacentres": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "States nothing about a nationally owned data centre for hire."}}},
+"satellitebroadband": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "satellite", "aspect": "service", "value": "licensed", "fact": "INCM (Joaquim Zindoga) states Starlink was approved in under a year, the first in Africa, under fast-track licensing.", "as_of": "2025-02-17", "date_precision": "day", "system": "Starlink", "class": "satellite"},
+{"sub_indicator": "satellite", "aspect": "service", "value": "choice", "fact": "INCM states the market is hybrid, with SATCOM (500+ VSATs, established 1999) competing with Starlink, whose rural broadband it contrasts with SATCOM's.", "as_of": "2025-02-17", "date_precision": "day", "system": "Starlink and SATCOM VSAT", "class": "satellite"}
+], "systems": [
+{"system": "Starlink", "country_label": "Mozambique", "class": "satellite", "platform": "LEO", "owner": "SpaceX", "tiers": ""},
+{"system": "SATCOM", "country_label": "Mozambique", "class": "satellite", "platform": "VSAT", "owner": "SATCOM", "tiers": ""}
+], "note": ""}}}
+}}

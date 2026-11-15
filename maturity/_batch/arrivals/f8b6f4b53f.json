@@ -1,0 +1,61 @@
+{
+ "slug": "2025-05-21-bfa-burkina-le-programme-alimentaire-mondial-soutient-le-deploiement-du-re",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "RSU enumeration of one commune is not a population census or national survey."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Displaced households were included in the RSU enumeration but no registration or documents of displaced people are stated."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "No link to ID, payment provider or another programme is stated."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "underway",
+       "fact": "leFaso.net reports the Registre Social Unique rollout in Ouahigouya commune, with enumeration from 13 February to 10 March 2025 covering 62,360 households, of which 16,461 poor and vulnerable households (103,312 people) were retained, run by the ST-RSU with WFP support.",
+       "as_of": "2025-03-10",
+       "date_precision": "day",
+       "system": "Registre Social Unique (RSU)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre Social Unique (RSU)",
+       "country_label": "RSU",
+       "class": "social",
+       "platform": "",
+       "owner": "ST-RSU, Ministry of Humanitarian Action and National Solidarity",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

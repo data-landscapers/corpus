@@ -1,0 +1,54 @@
+{
+ "slug": "2024-10-14-ken-starlink-becomes-kenya-s-tenth-largest-isp-one-year-after-launch",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "Kenya's Communications Authority says Starlink Internet Services Kenya was licensed earlier in the financial year to provide satellite internet.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Starlink",
+       "class": "satellite"
+      },
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "Starlink has over 8,000 subscribers in Kenya per the Communications Authority, with plans priced from KES 1,300.",
+       "as_of": "2024-06-30",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      },
+      {
+       "sub_indicator": "satellite",
+       "aspect": "counted",
+       "value": "counted",
+       "fact": "The Communications Authority reports Starlink's Kenyan market share as 0.5 percent at 30 June 2024, with over 8,000 subscribers.",
+       "as_of": "2024-06-30",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Kenya",
+       "class": "satellite",
+       "platform": "Starlink",
+       "owner": "Starlink Internet Services Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

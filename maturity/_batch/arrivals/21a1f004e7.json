@@ -1,0 +1,8 @@
+{"slug": "2025-11-01-tza-tanzania-s-social-protection-profile", "studies": {
+"disabilityaccess": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Mentions disability grants and welfare services only; nothing on information or digital accessibility."}}},
+"g2ppayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States no digital payment fact; PSSN cash transfers named without payment method."}}},
+"ruralelectrification": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Gives only a household connection fee, no rural access share."}}},
+"socialexchange": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Notes absence of an integrated system but states nothing on data exchange between systems."}}},
+"socialprotection": {"countries": {"TZA": {"facts": [], "systems": [{"system": "Productive Social Safety Net (PSSN)", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "PMO-LYED", "tiers": ""}], "note": "No programme management information system is described."}}},
+"socialregistry": {"countries": {"TZA": {"facts": [{"sub_indicator": "social", "aspect": "registry", "value": "none", "fact": "PMO-LYED lists the absence of an integrated social protection system, i.e. a Unified Social Registry, among Tanzania's challenges.", "as_of": "2025-11", "date_precision": "month", "system": "Unified Social Registry", "class": "social"}], "systems": [], "note": ""}}}
+}}

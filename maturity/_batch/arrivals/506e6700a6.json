@@ -1,0 +1,11 @@
+{"slug": "2026-04-13-gmb-aps-wallet-partners-accountant-general-s-department-to-enhance-digital", "studies": {
+"businesspayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Article covers revenue collection, not procurement."}}},
+"centralbank": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No consumer protection rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No cross-border payments stated."}}},
+"g2ppayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Article covers payments to government, not to people."}}},
+"internationalstandards": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Only a passing reference to international standards by APS; no adoption stated."}}},
+"paymentsuptake": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No survey figure stated."}}},
+"retailpayments": {"countries": {"GMB": {"facts": [], "systems": [{"system": "APS Wallet", "country_label": "Gambia", "class": "other", "platform": "", "owner": "Approved Services (APS)", "tiers": ""}], "note": "APS Wallet is named but the article does not say a mobile money or e-money service is licensed or in service."}}},
+"revenuecollection": {"countries": {"GMB": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Deputy Accountant General Ousman Darboe says APS Wallet joins banks and microfinance companies already connected to the GovPay payment gateway used to collect government fees, and the Accountant General says citizens and businesses can pay taxes, fees and levies through it.", "as_of": "2026-04-13", "date_precision": "day", "system": "GovPay", "class": "revenue"}], "systems": [{"system": "GovPay", "country_label": "Gambia", "class": "revenue", "platform": "payment gateway", "owner": "Accountant General's Department", "tiers": ""}], "note": ""}}}
+}}

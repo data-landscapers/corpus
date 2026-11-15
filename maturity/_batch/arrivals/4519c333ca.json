@@ -1,0 +1,81 @@
+{
+ "slug": "2026-01-02-tcd-implementation-status-results-report-chad-refugees-and-host-communitie",
+ "studies": {
+  "g2ppayments": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "documented",
+       "fact": "The World Bank report says 100 percent of eligible refugees have identity documents issued by CNARR, and 283,448 refugees were registered in the social registry, at 22 December 2025.",
+       "as_of": "2025-12-22",
+       "date_precision": "day",
+       "system": "CNARR identity documents",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "The World Bank report says 1,094,784 beneficiaries, including 283,448 refugees, were registered in Chad's Unified Social Registry by 22 December 2025.",
+       "as_of": "2025-12-22",
+       "date_precision": "day",
+       "system": "Unified Social Registry",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Unified Social Registry",
+       "country_label": "Chad",
+       "class": "social",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

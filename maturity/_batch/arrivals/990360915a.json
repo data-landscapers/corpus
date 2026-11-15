@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-07-sdn-business-hub-opens-in-khartoum",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, labelling or public fund is stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Sudan Business reports that Business Hub is open in Khartoum with consulting and workspaces, with incubation and acceleration programmes only expected to follow.",
+       "as_of": "2026-09-07",
+       "date_precision": "day",
+       "system": "Business Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Business Hub",
+       "country_label": "Sudan",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

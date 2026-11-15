@@ -1,0 +1,13 @@
+{"slug":"2024-05-06-cmr-legal-identity-1-340-birth-certificates-and-national-identity-cards-fo","studies":{
+"authentication":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on authentication services."}}},
+"birthidlink":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states no link between civil register and ID system."}}},
+"civilregister":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document describes reconstituted paper civil status documents, no digital register."}}},
+"idcoverage":{"countries":{"CMR":{"facts":[],"systems":[],"note":"No enrolment count or share of the population given."}}},
+"idfrombirth":{"countries":{"CMR":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"CMR":{"facts":[],"systems":[],"note":"No register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Nothing on the national ID system's operation, biometrics or certification."}}},
+"localgov":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Nothing on local government office connection."}}},
+"refugees":{"countries":{"CMR":{"facts":[{"sub_indicator":"displaced","aspect":"registration","value":"documented","fact":"IOM says that in April 2024, with BUNEC and funding from France and the UN Peacebuilding Fund, 507 reconstituted birth certificates were handed to IDPs and vulnerable people in Bertoua, 683 legal identification documents in Yaoundé 3 and 6, and 100 birth certificates and 50 national identity cards in Littoral communes.","as_of":"2024-04","date_precision":"month","system":"BUNEC civil status document reconstitution for IDPs","class":"displaced"}],"systems":[],"note":""}}},
+"registry":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document describes reconstitution of paper documents, not digital entry at registry offices."}}}
+}}

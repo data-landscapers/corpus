@@ -1,0 +1,110 @@
+{
+ "slug": "2026-05-01-cod-access-to-electricity-who-remains-without-power",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Ethiopia Socioeconomic Panel Survey",
+       "country_label": "outages down 50% in some regions 2019-22, no count",
+       "class": "other",
+       "platform": "",
+       "owner": "Ethiopian Statistical Service and World Bank",
+       "tiers": ""
+      }
+     ],
+     "note": "No outage count stated."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Nigeria General Household Survey Panel Wave 5",
+       "country_label": "about 7 outages a week, 12 hours each, household-reported",
+       "class": "other",
+       "platform": "",
+       "owner": "National Bureau of Statistics",
+       "tiers": ""
+      }
+     ],
+     "note": "Household survey, not utility or Enterprise Survey figure."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "rural",
+       "aspect": "access",
+       "value": "official:1",
+       "fact": "The World Bank Atlas says DRC rural electricity access remained extremely low, around 1 percent, between 2015 and 2023.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "World Bank electricity access",
+       "class": "ruralpower"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Says almost half of rural people have access, no figure."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural figure stated."
+    }
+   }
+  }
+ }
+}

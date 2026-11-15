@@ -1,0 +1,8 @@
+{"slug": "2026-08-24-mar-reforme-du-systeme-statistique-ce-qui-change-au-maroc", "studies": {
+"admindata": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document only lists reinforced access to administrative data as a reform aim; it states no published statistics or work under way."}}},
+"ailaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on AI legislation."}}},
+"interoperabilitylaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only a passing mention of reinforced access to administrative data in the statistics reform; no law on public bodies sharing data is described."}}},
+"police": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on police station records."}}},
+"statisticslaw": {"countries": {"MAR": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Law 046.26 on official statistics was promulgated by dahir of 28 July 2026 and published in the Bulletin officiel of 10 August 2026, but per Medias24 as relayed by Canal212 it enters into force only at the first meeting of the deliberative organ of the future Conseil national de l'information statistique.", "as_of": "2026-08-10", "date_precision": "day", "system": "Loi 046.26", "class": "law"}], "systems": [{"system": "Loi 046.26", "country_label": "Loi 046.26 on official statistics (2026)", "class": "law", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"statisticsstrategy": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No national statistics strategy is mentioned."}}}
+}}

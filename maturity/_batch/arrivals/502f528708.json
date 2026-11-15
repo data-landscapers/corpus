@@ -1,0 +1,73 @@
+{
+ "slug": "2025-03-26-dza-algerie-les-principales-mesures-importantes-de-la-loi-de-finances-pour",
+ "studies": {
+  "localrecords": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Loi 24-08 of 24 November 2024 (Finance Law 2025) grants startups and incubators a transfer-duty exemption and extends incubators' IRG/IBS exemptions by two years, per Deloitte Soci\u00e9t\u00e9 d'Avocats.",
+       "as_of": "2024-11-24",
+       "date_precision": "day",
+       "system": "Loi de Finances 2025",
+       "class": "startuppolicy"
+      },
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "labelled",
+       "value": "labelled",
+       "fact": "Finance Law 2025 exempts registration duties on company-formation deeds for holders of the 'projets innovants' label, per Deloitte Soci\u00e9t\u00e9 d'Avocats.",
+       "as_of": "2024-11-24",
+       "date_precision": "day",
+       "system": "Loi de Finances 2025",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Finance Law 2025 extends incubators' IRG/IBS exemptions two years subject to label renewal, per Deloitte Soci\u00e9t\u00e9 d'Avocats; no programme or cohort stated.",
+       "as_of": "2024-11-24",
+       "date_precision": "day",
+       "system": "labelled incubators",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

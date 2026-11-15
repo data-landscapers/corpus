@@ -1,0 +1,123 @@
+{
+ "slug": "2025-03-13-cmr-universite-inter-etat-congo-cameroun-le-centre-d-incubation-des-innova",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Minister's promise of financial support to 16 startups is a pledge, not a fund that has financed startups."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Cameroon's higher-education minister inaugurated the Centre d'Incubation des Innovations et des Entreprises Digitales of the Inter-State University Congo-Cameroon on 13 March 2025, a FCFA 450 million CEMAC FODEC-funded building offering student-entrepreneurs support, with four startups presenting projects, and no cohort programme stated.",
+       "as_of": "2025-03-13",
+       "date_precision": "day",
+       "system": "Centre d'Incubation des Innovations et des Entreprises Digitales",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Centre d'Incubation des Innovations et des Entreprises Digitales",
+       "country_label": "Cameroon",
+       "class": "hub",
+       "platform": "",
+       "owner": "Université Inter-États Congo-Cameroun",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The centre is not placed in Congo by the document."
+    }
+   }
+  }
+ }
+}

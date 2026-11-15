@@ -1,0 +1,104 @@
+{
+ "slug": "2026-10-15-tza-serikali-yaziita-startups-kuchangamkia-mkopo-wa-sh5-bilioni",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Loan application only requires a NIDA number or TIN; nothing on the study's question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Loan application only requires a NIDA number or TIN; nothing on the study's question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Loan application only requires a NIDA number or TIN; nothing on the study's question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Loan application only requires a NIDA number or TIN; nothing on the study's question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Loan application only requires a NIDA number or TIN; nothing on the study's question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Loan application only requires a NIDA number or TIN; nothing on the study's question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Loan application only requires a NIDA number or TIN; nothing on the study's question."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Loan application only requires a NIDA number or TIN; nothing on the study's question."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Loan application only requires a NIDA number or TIN; nothing on the study's question."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Startups Wezesha Fund",
+       "country_label": "Tanzania",
+       "class": "other",
+       "platform": "jamiihunt.mawasiliano.go.tz",
+       "owner": "Ministry of Information, Communication and Information Technology with ICTC",
+       "tiers": ""
+      }
+     ],
+     "note": "TZS 5bn released and applications opened to 30 May 2027, but no startup is stated financed, so funded is not met; no law, strategy or labelling stated."
+    }
+   }
+  }
+ }
+}

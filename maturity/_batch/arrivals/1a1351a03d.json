@@ -1,0 +1,124 @@
+{
+ "slug": "2024-10-31-ssd-starlink-au-soudan-du-sud-une-petite-avancee-dans-l-un-des-pays-les-mo",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No share of people using the internet stated."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only Starlink hardware and subscription prices, not a 5 GB mobile data price."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a bank-account share with no survey named; no mobile money share."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "Le Monde reports Starlink has been officially accessible in South Sudan since 22 August 2024, authorised by the authorities, with 1,300 terminals in use and four resellers approved by the NCA.",
+       "as_of": "2024-08-22",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "South Sudan",
+       "class": "satellite",
+       "platform": "low-orbit satellite",
+       "owner": "SpaceX",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

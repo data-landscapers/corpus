@@ -1,0 +1,32 @@
+{
+ "slug": "2026-08-26-sdn-wfp-feasibility-study-national-social-registry",
+ "studies": {
+  "socialexchange": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No data exchange stated."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No programme MIS stated."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a proposed WFP feasibility study; no registry stage stated as procured, piloted or in service."
+    }
+   }
+  }
+ }
+}

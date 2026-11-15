@@ -1,0 +1,50 @@
+{
+ "slug": "2026-02-09-gin-appel-a-manifestation-d-interet-pour-le-recrutement-d-une-firme-pour-l",
+ "studies": {
+  "gridreliability": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Call for a NREN feasibility study; no outage figure."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A World Bank-financed national project tender; no agreement, membership or meeting stated."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not about satellite broadband."
+    }
+   }
+  },
+  "stemgraduates": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NREN Guinee (planned)",
+       "country_label": "Guinea national research and education network, feasibility study tendered Feb 2026",
+       "class": "other",
+       "platform": "",
+       "owner": "MCENI / WARDIP-Guinee",
+       "tiers": ""
+      }
+     ],
+     "note": "The NREN is only to be studied; none is in service and no STEM share is given."
+    }
+   }
+  }
+ }
+}

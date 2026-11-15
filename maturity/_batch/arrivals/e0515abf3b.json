@@ -1,0 +1,10 @@
+{"slug":"2026-02-10-tza-mobile-money-accounts-double-in-five-years","studies":{
+"businesspayments":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No e-procurement stated."}}},
+"centralbank":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Only says Bank of Tanzania regulates the financial sector; TCRA licences operators, a telecoms regulator."}}},
+"consumerprotection":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No consumer protection rules or complaints stated."}}},
+"crossborderpayments":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No cross-border payments stated."}}},
+"g2ppayments":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No government payments to people stated."}}},
+"paymentsuptake":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Gives mobile money account counts, not a survey share of adults."}}},
+"retailpayments":{"countries":{"TZA":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"TCRA's December 2025 sector status report, as reported by Daily News, shows 76,466,691 mobile money accounts and 6.3 billion transactions, with M-Pesa, Airtel, Mixx, Halopesa, Azam Pesa and T-Pesa operating.","as_of":"2025-12","date_precision":"month","system":"Mobile money","class":"retail"}],"systems":[{"system":"M-Pesa","country_label":"Tanzania","class":"retail","platform":"mobile money","owner":"Vodacom","tiers":""}],"note":""}}},
+"revenuecollection":{"countries":{"TZA":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

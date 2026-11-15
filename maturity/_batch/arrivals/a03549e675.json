@@ -1,0 +1,13 @@
+{"slug": "2026-08-18-civ-ama-ouattara-hub-ivoire-tech-le-but-de-notre-incubateur-est-de-deceler", "studies": {
+"businesspayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The interview is about a startup incubator and states nothing on e-procurement."}}},
+"centralbank": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The interview states nothing on the central bank or payment oversight."}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The interview states nothing on consumer protection for digital finance."}}},
+"crossborderpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The interview states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The interview states nothing on government payments to people."}}},
+"nonstatefinance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A venture fund ran training sessions but no amount of private money is stated."}}},
+"paymentsuptake": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The interview states no account-holding survey figure."}}},
+"retailpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The interview states nothing on retail digital payments."}}},
+"revenuecollection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The interview states nothing on tax or fee payment."}}},
+"startups": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The interview names the 2026-2030 national development plan as a selection criterion but states no startup law, strategy or public fund."}}},
+"techhubs": {"countries": {"CIV": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "Hub Ivoire Tech, an incubator attached to the presidency in Abidjan, admitted its first cohort of 10 startups from about 20 applicants and ran a capacity-building programme with a venture fund, per its operations director.", "as_of": "2026-06", "date_precision": "month", "system": "Hub Ivoire Tech", "class": "hub"}], "systems": [{"system": "Hub Ivoire Tech", "country_label": "Cote d'Ivoire", "class": "hub", "platform": "", "owner": "Presidency of Cote d'Ivoire", "tiers": ""}], "note": ""}}}
+}}

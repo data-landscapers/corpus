@@ -1,0 +1,9 @@
+{"slug":"2024-10-01-lbr-empowering-teachers-for-all-learners-to-thrive-interview-with-edwin-my","studies":{
+"censuses":{"countries":{"LBR":{"facts":[],"systems":[],"note":"No population census or household survey stated."}}},
+"datagovernance":{"countries":{"LBR":{"facts":[{"sub_indicator":"policy","aspect":"standing","value":"none","fact":"Liberia's EMIS director says the country currently has no core policy document on data collection, utilization and governance, and that a KIX-supported policy dialogue planned for November 2023 was postponed.","as_of":"2023-10","date_precision":"month","system":"national data policy","class":"policy"}],"systems":[],"note":""}}},
+"educationexchange":{"countries":{"LBR":{"facts":[],"systems":[],"note":"No data exchange between education systems stated."}}},
+"educationmis":{"countries":{"LBR":{"facts":[],"systems":[{"system":"EMIS (annual school census; EMIS 2.0 planned)","country_label":"Liberia EMIS","class":"other","platform":"","owner":"Ministry of Education","tiers":""}],"note":"Only an annual school census and a planned EMIS 2.0 with school-based collection are stated; no system built or run through an EMIS."}}},
+"policyresearch":{"countries":{"LBR":{"facts":[],"systems":[],"note":"No local digital policy research stated."}}},
+"publicconsultation":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Only a postponed policy dialogue is mentioned, with no named digital policy consulted on."}}},
+"schools":{"countries":{"LBR":{"facts":[],"systems":[{"system":"annual school census","country_label":"Liberia annual school census","class":"census","platform":"","owner":"Ministry of Education","tiers":""}],"note":"Census only; school-based data collection is a plan, no learner records stated."}}}
+}}

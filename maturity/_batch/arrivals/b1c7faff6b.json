@@ -1,0 +1,142 @@
+{
+ "slug": "2024-01-01-civ-mobile-money-s-economic-impact-cote-d-ivoire-country-brief-2024",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "The brief, citing Global Findex 2021, says 79% of adults had an account in 2021.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "Global Findex",
+       "class": "survey"
+      },
+      {
+       "sub_indicator": "uptake",
+       "aspect": "target",
+       "value": "target",
+       "fact": "The brief, citing Global Findex 2021, says 79% of adults had an account in 2021.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "Global Findex",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "GSMA says registered mobile money accounts in Côte d'Ivoire grew from 30 million in 2013 to 81 million in 2023, with seven providers listed.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money",
+       "country_label": "Côte d'Ivoire",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "MTN MoMo",
+       "country_label": "Côte d'Ivoire",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "Côte d'Ivoire",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Wave Mobile Money",
+       "country_label": "Côte d'Ivoire",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  }
+ }
+}

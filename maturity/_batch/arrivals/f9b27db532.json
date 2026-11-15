@@ -1,0 +1,32 @@
+{
+ "slug": "2025-09-07-gnq-equatorial-guinea-dreams-hub-xapiens-partners-with-bioko-chamber-to-dr",
+ "studies": {
+  "startups": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "No state startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Dreams Hub",
+       "country_label": "Equatorial Guinea",
+       "class": "other",
+       "platform": "",
+       "owner": "Xapiens",
+       "tiers": ""
+      }
+     ],
+     "note": "MoU only; the dedicated incubation space is a plan, no cohort programme stated."
+    }
+   }
+  }
+ }
+}

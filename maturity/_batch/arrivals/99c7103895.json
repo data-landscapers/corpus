@@ -1,0 +1,126 @@
+{
+ "slug": "2025-08-12-mwi-nlgfc-applauds-e-payment-in-dowa",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Names payment through TNM Mpamba but no programme management information system."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "NLGFC's e-payment specialist said Social Cash Transfer and Climate Smart beneficiaries in Dowa are paid digitally, now through TNM Mpamba, with 16,725 and 23,900 beneficiaries.",
+       "as_of": "2025-08-06",
+       "date_precision": "day",
+       "system": "TNM Mpamba",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TNM Mpamba",
+       "country_label": "MWI",
+       "class": "g2p",
+       "platform": "mobile money",
+       "owner": "TNM",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The document says Social Cash Transfer beneficiaries in Dowa will be paid through TNM Mpamba mobile money.",
+       "as_of": "2025-08-06",
+       "date_precision": "day",
+       "system": "TNM Mpamba",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

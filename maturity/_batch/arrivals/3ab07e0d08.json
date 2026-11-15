@@ -1,0 +1,68 @@
+{
+ "slug": "2026-11-06-ben-benin-develops-national-action-plan-to-strengthen-education-data-produ",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No census or survey stated."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Interoperability only proposed in an action plan."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "EducMaster",
+       "country_label": "EducMaster",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Nursery and Primary Education",
+       "tiers": ""
+      }
+     ],
+     "note": "EducMaster named as existing platform; no census or learner records stated."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "EducMaster",
+       "country_label": "EducMaster",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Nursery and Primary Education",
+       "tiers": ""
+      }
+     ],
+     "note": "School census digitisation only proposed."
+    }
+   }
+  },
+  "statisticslaw": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Implementing decree of the national statistical law only proposed; law's standing not stated."
+    }
+   }
+  }
+ }
+}

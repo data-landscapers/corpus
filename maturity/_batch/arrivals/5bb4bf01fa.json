@@ -1,0 +1,178 @@
+{
+ "slug": "2026-06-01-gha-fintech-sector-report-2026-q1",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report states nothing on this study's questions."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report states nothing on this study's questions."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report states nothing on this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report states nothing on this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Inward remittance is a product line but no named corridor, volume or cost is stated."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report states nothing on this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report states nothing on this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "The Bank of Ghana report lists 63 approved fintech entities as of March 2026 across DEMI and PSP licence categories.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Bank of Ghana fintech licensing",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "non-bank",
+       "fact": "The Bank of Ghana report lists 63 approved non-bank entities, dedicated e-money issuers and payment service providers in several licence categories, as of March 2026.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "DEMI and PSP licence categories",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Bank of Ghana reports 25.8m active mobile money wallets in March 2026 and 2.81bn industry transactions in Q1 2026.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Mobile money",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The Bank of Ghana reports domestic bank-to-wallet and wallet-to-bank transfers and off-net peer-to-peer transfers among mobile money transactions in Q1 2026.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Bank of Ghana reports person-to-government wallet payments, including tax, port and duty payments, as a product in service in Q1 2026.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Mobile money P2G",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Bank of Ghana report defines government-to-person wallet transfers such as government salary and shows G2P offered by 15% of approved providers in Q1 2026.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Mobile money G2P",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

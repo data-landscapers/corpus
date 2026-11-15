@@ -1,0 +1,43 @@
+{
+ "slug": "2025-04-15-eth-venture-meda-job-creation-through-incubation-and-acceleration-in-ethio",
+ "studies": {
+  "startups": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on startup law, labelling or public fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Addis Insight reports iceaddis's Venture Meda accelerator, backed by the Mastercard Foundation, selected eight startups for its third cohort with mentorship and workshops.",
+       "as_of": "2025-04-15",
+       "date_precision": "day",
+       "system": "Venture Meda",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Venture Meda",
+       "country_label": "ETH",
+       "class": "hub",
+       "platform": "",
+       "owner": "iceaddis",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

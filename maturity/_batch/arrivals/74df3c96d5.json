@@ -1,0 +1,43 @@
+{
+ "slug": "2026-01-01-mdg-incubateur-d-energie-durable-ied",
+ "studies": {
+  "startups": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Energy incubator cohort; no startup law, label or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The UNIDO-led Incubateur d'Energie Durable announces its 2nd cohort of 30 companies (20 startups, 10 SMEs) for a six-month incubation programme.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "Incubateur d'Energie Durable (IED)",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Incubateur d'Energie Durable (IED)",
+       "country_label": "Madagascar",
+       "class": "hub",
+       "platform": "",
+       "owner": "UNIDO Madagascar",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

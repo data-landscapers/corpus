@@ -1,0 +1,15 @@
+{"slug": "2026-04-09-swz-untouchables-legal-bottlenecks-cripple-corruption-fight-acc-advisor", "studies": {
+"cybersecuritylaw": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "MPs ask why few arrests for false information online; no cybercrime law is named or stated."}}},
+"dataprotectionlaw": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Officials told MPs that a legal framework for data protection is already in place and operational (\"now that we have a law\").", "as_of": "2026-04-09", "date_precision": "day", "system": "data protection law", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Officials said the data protection office, established in 2023, is already operating.", "as_of": "2026-04-09", "date_precision": "day", "system": "data protection office", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "Officials said the office is holding offenders accountable while educating the public, with no named decision or count given.", "as_of": "2026-04-09", "date_precision": "day", "system": "data protection office", "class": "general"}
+], "systems": [{"system": "data protection office", "country_label": "Eswatini", "class": "authority", "platform": "", "owner": "government", "tiers": ""}], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "Officials told MPs that a data protection law is in place and operational.", "as_of": "2026-04-09", "date_precision": "day", "system": "data protection law", "class": "system"},
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "Officials said the data protection office, established in 2023, is already operating.", "as_of": "2026-04-09", "date_precision": "day", "system": "data protection office", "class": "system"},
+{"sub_indicator": "system", "aspect": "practice", "value": "implementing", "fact": "Officials said the office educates the public and acts on breaches that individuals report to it.", "as_of": "2026-04-09", "date_precision": "day", "system": "data protection office", "class": "system"}
+], "systems": [], "note": ""}}},
+"opendiscussion": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "MPs criticise the Anti-Corruption Commission, an institution, not a named government policy; no cut or punishment stated."}}},
+"regionallaw": {"countries": {"SWZ": {"facts": [], "systems": [{"system": "Malabo Convention", "country_label": "Eswatini", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "MPs' workshop on ratifying the Malabo, Budapest and Tampere conventions; no signature or ratification is reported."}}}
+}}

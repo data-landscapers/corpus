@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-01-cod-access-to-electricity-who-remains-without-power",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ethiopia Socioeconomic Panel Survey",
+   "country_label": "outages down 50% in some regions 2019-22, no count",
+   "class": "other",
+   "platform": "",
+   "owner": "Ethiopian Statistical Service and World Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "No outage count stated."
+}

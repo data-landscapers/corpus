@@ -1,0 +1,10 @@
+{"slug": "2025-12-04-lby-national-unity-ministry-of-finance-requires-customs-and-tax-authoritie", "studies": {
+"businesspayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The document says nothing on e-procurement."}}},
+"centralbank": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The document is a finance ministry instruction with no central bank role stated."}}},
+"consumerprotection": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The document states no consumer rules or complaints body."}}},
+"crossborderpayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The document says nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The document concerns payments to government, not to people."}}},
+"paymentsuptake": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The document gives no account-ownership survey figure."}}},
+"retailpayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The document names no mobile money or retail payment service."}}},
+"revenuecollection": {"countries": {"LBY": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Libya's National Unity Ministry of Finance instructed customs and tax offices on 4 December 2025 to collect amounts over 500 dinars only by certified cheque or electronic payment methods.", "as_of": "2025-12-04", "date_precision": "day", "system": "electronic payment of taxes and customs duties", "class": "revenue"}], "systems": [{"system": "electronic payment of taxes and customs duties", "country_label": "Libya", "class": "revenue", "platform": "", "owner": "Ministry of Finance (Government of National Unity)", "tiers": ""}], "note": ""}}}
+}}

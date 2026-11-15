@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-11-ner-deploiement-de-starlink-au-niger-l-arcep-met-en-garde-contre-l-illegal",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural programme or rural/urban survey figures stated."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "The article says Starlink was granted a licence as satellite operator by decree of 21 November 2024.",
+       "as_of": "2024-11-21",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

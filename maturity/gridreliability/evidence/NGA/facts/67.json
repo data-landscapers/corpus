@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-01-cod-access-to-electricity-who-remains-without-power",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nigeria General Household Survey Panel Wave 5",
+   "country_label": "about 7 outages a week, 12 hours each, household-reported",
+   "class": "other",
+   "platform": "",
+   "owner": "National Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "Household survey, not utility or Enterprise Survey figure."
+}

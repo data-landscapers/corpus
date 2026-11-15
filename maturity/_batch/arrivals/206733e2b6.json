@@ -1,0 +1,61 @@
+{
+ "slug": "2025-05-16-mar-lancement-a-khemisset-des-travaux-de-construction-d-un-technopark-dedi",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this study."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Construction of the Khemisset Technopark (MAD 15.2m, 34 start-up offices, room for 58 start-ups, about 10 months' work) began on 15 May 2025, per the regional executing agency.",
+       "as_of": "2025-05-15",
+       "date_precision": "day",
+       "system": "Technopark de Khemisset",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Technopark de Khemisset",
+       "country_label": "Maroc",
+       "class": "hub",
+       "platform": "",
+       "owner": "Rabat-Sale-Kenitra region / AREP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

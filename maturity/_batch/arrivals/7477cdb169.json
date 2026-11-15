@@ -1,0 +1,34 @@
+{
+ "slug": "2023-12-07-gha-starlink-operations-are-illegal-in-ghana",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "none",
+       "fact": "Ghana's NCA says it has neither licensed Starlink nor type-approved its equipment, and directs sellers and operators to cease.",
+       "as_of": "2023-12-07",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Ghana",
+       "class": "satellite",
+       "platform": "low-orbit",
+       "owner": "SpaceX",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

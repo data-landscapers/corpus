@@ -1,0 +1,43 @@
+{
+ "slug": "2024-07-05-cpv-cabo-verde-afdb-supported-tech-park-impresses-international-delegation",
+ "studies": {
+  "startups": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no startup law, label or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "park",
+       "value": "tenants",
+       "fact": "The African Development Bank says the Cabo Verde Tech Park, open since November 2023, has full occupancy and a startup ecosystem, with capacity for over 1,000 innovators and employees when completed.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "Cabo Verde Tech Park",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cabo Verde Tech Park",
+       "country_label": "Cabo Verde",
+       "class": "hub",
+       "platform": "",
+       "owner": "Government of Cabo Verde",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

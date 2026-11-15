@@ -1,0 +1,230 @@
+{
+ "slug": "2026-08-22-egy-social-registry-13m-households-law-12-unified-source",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The ministry says the social registry is interlinked using the national number with partner government databases, with 13 million households registered.",
+       "as_of": "2026-08-22",
+       "date_precision": "day",
+       "system": "Social registry",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Social registry (Ministry of Social Solidarity)",
+       "country_label": "Egypt",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry of Social Solidarity",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "The ministry says the social registry is interlinked by national number with databases of partner government bodies providing social protection services.",
+       "as_of": "2026-08-22",
+       "date_precision": "day",
+       "system": "Social registry",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "registry",
+       "value": "shared",
+       "fact": "The ministry says Law 12 of 2025 adopted the social registry databases as the unified source for all cash-transfer beneficiary databases.",
+       "as_of": "2026-08-22",
+       "date_precision": "day",
+       "system": "Social registry",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Social registry (Ministry of Social Solidarity)",
+       "country_label": "Egypt",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry of Social Solidarity",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "The Ministry of Social Solidarity, in a report carried by al-Masry al-Youm, says the social registry databases hold 13 million registered households, about half the population.",
+       "as_of": "2026-08-22",
+       "date_precision": "day",
+       "system": "Social registry",
+       "class": "social"
+      },
+      {
+       "sub_indicator": "social",
+       "aspect": "programmes",
+       "value": "several",
+       "fact": "The ministry says Social Security Law 12 of 2025 adopted the programme's social registry databases as the unified source for all cash-transfer beneficiary databases in Egypt, serving Takaful and Karama.",
+       "as_of": "2026-08-22",
+       "date_precision": "day",
+       "system": "Social registry",
+       "class": "social"
+      },
+      {
+       "sub_indicator": "social",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The ministry says the registry is interlinked by national number with the databases of partner government bodies.",
+       "as_of": "2026-08-22",
+       "date_precision": "day",
+       "system": "Social registry",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Social registry (Ministry of Social Solidarity)",
+       "country_label": "Egypt",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry of Social Solidarity",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Egypt."
+    }
+   }
+  }
+ }
+}

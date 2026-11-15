@@ -1,0 +1,43 @@
+{
+ "slug": "2026-01-30-egy-sudan-experts-warn-of-illegal-crackdown-on-sudanese-refugees-in-egypt",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing the study asks."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "documented",
+       "fact": "Radio Dabanga reports 691,000 Sudanese were registered with UNHCR as of April 2025, holders of the UNHCR Yellow Card as a temporary substitute for residency.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "UNHCR Yellow Card",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNHCR Yellow Card",
+       "country_label": "Egypt",
+       "class": "displaced",
+       "platform": "",
+       "owner": "UNHCR",
+       "tiers": ""
+      }
+     ],
+     "note": "Bank, transfer and SIM barring is stated but the access aspect has no value for a bar."
+    }
+   }
+  }
+ }
+}

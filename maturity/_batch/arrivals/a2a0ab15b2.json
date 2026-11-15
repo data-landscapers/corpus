@@ -1,0 +1,115 @@
+{
+ "slug": "2026-07-24-ben-mtn-benin-selects-five-startups-for-second-innovation-lab-cohort",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "MTN Benin's Innovation Lab, which presented its first cohort's results on 24 July 2026, selected five startups for a second cohort receiving six to eight months of technical and commercial support, per Ecofin Agency.",
+       "as_of": "2026-07-24",
+       "date_precision": "day",
+       "system": "MTN Benin Innovation Lab",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN Benin Innovation Lab",
+       "country_label": "Benin",
+       "class": "hub",
+       "platform": "",
+       "owner": "MTN Benin",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

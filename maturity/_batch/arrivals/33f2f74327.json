@@ -1,0 +1,616 @@
+{
+ "slug": "2025-02-17-cog-partage-d-experience-sur-l-itinerance-mobile-internationale-et-regiona",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "ARCEP Gabon says mobile money can be used in roaming within CEMAC through the GIMACPAY platform.",
+       "as_of": "2025-02-17",
+       "date_precision": "day",
+       "system": "GIMACPAY",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "signed",
+       "fact": "ARCEP Gabon says the CEMAC roaming Regulation 04/20-UEAC-CM-35, adopted 8 September 2020 by the community's telecoms ministers, is being applied by member states including Gabon.",
+       "as_of": "2020-09-08",
+       "date_precision": "day",
+       "system": "CEMAC Regulation 04/20-UEAC-CM-35",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "ARCEP Gabon says Gabon signed a roaming protocol of agreement with the Central African Republic in 2021; opening is planned short term.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+       "country_label": "Central African Republic",
+       "class": "other",
+       "platform": "direct SIP links between operators",
+       "owner": "national regulators and operators",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "ARCEP Gabon says Gabon has opened free roaming with Cameroon, in operation on the Gabon side only.",
+       "as_of": "2025-02-17",
+       "date_precision": "day",
+       "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+       "country_label": "Cameroon",
+       "class": "other",
+       "platform": "direct SIP links between operators",
+       "owner": "national regulators and operators",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "ARCEP Gabon says Gabon and Congo signed roaming protocols, with SMS and data added in 2021.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "ARCEP Gabon says free roaming with Congo went into service for voice on 15 October 2019 and was extended to SMS and data.",
+       "as_of": "2019-10-15",
+       "date_precision": "day",
+       "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+       "country_label": "Congo",
+       "class": "other",
+       "platform": "direct SIP links between operators",
+       "owner": "national regulators and operators",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Gabon's regulator ARCEP says Gabon signed roaming protocols of agreement with Congo, the Central African Republic and Chad in 2021, under the CEMAC regulation.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "ARCEP Gabon says Gabon has opened free roaming with Rwanda, Congo, Togo and Cameroon.",
+       "as_of": "2025-02-17",
+       "date_precision": "day",
+       "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "direct SIP links between operators",
+       "owner": "national regulators and operators",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "ARCEP Gabon says Gabon and Rwanda officially launched reduced-rate roaming in July 2016.",
+       "as_of": "2016-07",
+       "date_precision": "month",
+       "system": "One Africa Network free roaming",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+       "country_label": "Rwanda",
+       "class": "other",
+       "platform": "direct SIP links between operators",
+       "owner": "national regulators and operators",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "ARCEP Gabon says Gabon signed a roaming protocol of agreement with Chad in 2021; the free roaming service with Chad was interrupted.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+       "country_label": "Chad",
+       "class": "other",
+       "platform": "direct SIP links between operators",
+       "owner": "national regulators and operators",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "ARCEP Gabon says free roaming between Gabon and Togo went into service in 2022.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "One Africa Network free roaming",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Free roaming under CEMAC Regulation 04/20-UEAC-CM-35",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "direct SIP links between operators",
+       "owner": "national regulators and operators",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

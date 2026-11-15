@@ -1,0 +1,124 @@
+{
+ "slug": "2026-06-22-sen-protection-sociale-le-gouvernement-accelere-la-reforme-du-registre-nat",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital payment of family grants is an announced pilot, not contracted or in service."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No programme management information system is named; the grant payment pilot is only announced."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "The government says the Registre national unique now lists 996,194 poor or vulnerable households, up from 545,000, after an update and extension finished in early 2026.",
+       "as_of": "2026-06-22",
+       "date_precision": "day",
+       "system": "Registre national unique (RNU)",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national unique (RNU)",
+       "country_label": "Senegal",
+       "class": "social",
+       "platform": "",
+       "owner": "Government of Senegal",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

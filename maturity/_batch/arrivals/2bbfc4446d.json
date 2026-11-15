@@ -1,0 +1,12 @@
+{"slug":"2026-11-13-ner-actuniger-soniloga-amana-guan-paiement-numerique","studies":{
+"businesspayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Document covers fee payment at the vehicle one-stop shop, not e-procurement."}}},
+"centralbank":{"countries":{"NER":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"NER":{"facts":[],"systems":[],"note":"No consumer protection rules or redress stated."}}},
+"crossborderpayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"No cross-border payment stated."}}},
+"g2ppayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Payments are from users to government, not to people."}}},
+"itcapacity":{"countries":{"NER":{"facts":[],"systems":[],"note":"No statement on who builds or runs government systems."}}},
+"nonstatefinance":{"countries":{"NER":{"facts":[],"systems":[],"note":"No amount of private money stated."}}},
+"paymentsuptake":{"countries":{"NER":{"facts":[],"systems":[],"note":"No survey figure stated."}}},
+"retailpayments":{"countries":{"NER":{"facts":[],"systems":[{"system":"AmanaTa","country_label":"AmanaTa","class":"other","platform":"app","owner":"Amana Transfert d'Argent SA","tiers":""}],"note":"AmanaTa is not described as mobile money or e-money service in service."}}},
+"revenuecollection":{"countries":{"NER":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"SONILOGA and Amana Transfert d'Argent signed a convention on 12 November 2026 letting users of the Guichet unique automobile pay fees tied to vehicle import, clearance and registration remotely through the AmanaTa app, adding to NITA as a payment partner.","as_of":"2026-11-12","date_precision":"day","system":"GUAN payment via AmanaTa","class":"revenue"}],"systems":[{"system":"Guichet unique automobile (GUAN)","country_label":"GUAN","class":"revenue","platform":"","owner":"SONILOGA S.A.","tiers":""}],"note":""}}}
+}}

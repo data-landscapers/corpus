@@ -1,0 +1,131 @@
+{
+ "slug": "2026-04-02-stp-gender-data-landscape-sao-tome-and-principe-2026-edition",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Gender factsheet states nothing on this topic for STP."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Gender factsheet states nothing on this topic for STP."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Gender factsheet states nothing on this topic for STP."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Gender factsheet states nothing on this topic for STP."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Gender factsheet states nothing on this topic for STP."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Gender factsheet states nothing on this topic for STP."
+    }
+   }
+  },
+  "ictjobs": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Gender factsheet states nothing on this topic for STP."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Factsheet gives no STP value for individuals using the internet; only regional comparators."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Gender factsheet states nothing on this topic for STP."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Account ownership shows NA for STP."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Gender factsheet states nothing on this topic for STP."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Gender factsheet states nothing on this topic for STP."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Gender factsheet states nothing on this topic for STP."
+    }
+   }
+  },
+  "stemgraduates": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Female STEM graduate share is NA; no UNESCO STEM share or research network stated."
+    }
+   }
+  }
+ }
+}

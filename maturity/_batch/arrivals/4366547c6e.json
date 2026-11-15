@@ -1,0 +1,70 @@
+{
+ "slug": "2026-08-03-uga-can-mission-300-close-uganda-s-electricity-access-gap",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "EPRC Business Climate Index survey",
+       "country_label": "42% of businesses had electricity instability Apr-Jun 2025",
+       "class": "other",
+       "platform": "",
+       "owner": "Economic Policy Research Centre",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a share of businesses reporting instability; no outage count."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a US$9.4bn private capital target in the Energy Compact; a plan, not money put in."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "rural",
+       "aspect": "access",
+       "value": "official:9.1",
+       "fact": "The Community Climate and Energy Shield Initiative's opinion piece says rural electricity access lags at just 9.1 percent (national grid access 25.3 percent).",
+       "as_of": "2026-08-03",
+       "date_precision": "day",
+       "system": "Uganda rural grid electricity access",
+       "class": "ruralpower"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

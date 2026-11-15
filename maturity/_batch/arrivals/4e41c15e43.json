@@ -1,0 +1,44 @@
+{
+ "slug": "2024-09-19-zwe-zim-s-telone-becomes-starlink-authorised-reseller",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "POTRAZ issued Starlink Zimbabwe (Pvt) Ltd a network-services licence and a national ISP licence in September 2024, per ITWeb Africa.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Starlink",
+       "class": "satellite"
+      },
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "TelOne, Paratus, Aura, Frampol and Dandemutande are authorised Starlink resellers in Zimbabwe, per ITWeb Africa.",
+       "as_of": "2024-09-19",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Zimbabwe",
+       "class": "satellite",
+       "platform": "LEO satellite",
+       "owner": "Starlink",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

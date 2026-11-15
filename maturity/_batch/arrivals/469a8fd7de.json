@@ -1,0 +1,61 @@
+{
+ "slug": "2026-10-21-nam-amutse-sets-80-electricity-access-target",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "New Era reports national electricity access figures drawn from the 2023 Population and Housing Census.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Population and Housing Census 2023",
+       "class": "census"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Population and Housing Census",
+       "country_label": "Census 2023",
+       "class": "census",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage frequency stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural access share stated; only about 212 000 rural households without electricity."
+    }
+   }
+  }
+ }
+}

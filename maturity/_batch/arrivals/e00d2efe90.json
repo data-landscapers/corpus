@@ -1,0 +1,13 @@
+{"slug":"2026-11-09-com-le-gouvernement-comorien-et-la-banque-mondiale-renforcent-leur-partena","studies":{
+"addressregister":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing on addressing."}}},
+"businessregister":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing on a business register."}}},
+"civilregister":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing on civil registration."}}},
+"electoralregister":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing on a voters' roll."}}},
+"g2ppayments":{"countries":{"COM":{"facts":[{"sub_indicator":"g2p","aspect":"payment","value":"inservice","fact":"PFSS-RRC states that Projet Mayendeleyo operations, from household enrolment and beneficiary validation to payment of the cash transfers, rest on digital mechanisms.","as_of":"2026-11-09","date_precision":"day","system":"Projet Mayendeleyo social cash transfers","class":"g2p"}],"systems":[{"system":"Projet Mayendeleyo social cash transfers","country_label":"Comoros","class":"g2p","platform":"","owner":"PFSS-RRC","tiers":""}],"note":""}}},
+"landregister":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing on land registration."}}},
+"populationregister":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing on a population register."}}},
+"registry":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document states nothing on local civil registration offices."}}},
+"socialexchange":{"countries":{"COM":{"facts":[],"systems":[],"note":"Document names no data link between systems."}}},
+"socialprotection":{"countries":{"COM":{"facts":[{"sub_indicator":"socialmis","aspect":"system","value":"inservice","fact":"PFSS-RRC states that Projet Mayendeleyo operations, from household enrolment to beneficiary validation and payment, rest on digital mechanisms, with transfers planned for 55,000 households.","as_of":"2026-11-09","date_precision":"day","system":"Projet Mayendeleyo","class":"socialmis"}],"systems":[],"note":""}}},
+"socialregistry":{"countries":{"COM":{"facts":[{"sub_indicator":"social","aspect":"registry","value":"inservice","fact":"PFSS-RRC states the Registre social unique holds 81,075 households, with operations in 152 of 319 localities, used as a targeting instrument for public aid.","as_of":"2026-11-09","date_precision":"day","system":"Registre social unique (RSU)","class":"social"}],"systems":[{"system":"Registre social unique (RSU)","country_label":"Comoros","class":"social","platform":"","owner":"Government of Comoros / PFSS-RRC","tiers":""}],"note":""}}}
+}}

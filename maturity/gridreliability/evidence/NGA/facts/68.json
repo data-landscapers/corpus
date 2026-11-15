@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-10-nga-can-nigeria-achieve-100-electricity-access-by-2030-as-pledged-in-new-n",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NBS household survey",
+   "country_label": "6.7 blackouts a week per household",
+   "class": "other",
+   "platform": "",
+   "owner": "National Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "Grid collapses and a household blackout rate per week are not a whole-grid interruption frequency."
+}

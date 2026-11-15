@@ -1,0 +1,12 @@
+{"slug":"2025-06-10-cmr-7-startups-camerounaises-beneficiaires-du-programme-orangefab-by-orang","studies":{
+"businesspayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on central bank payments role."}}},
+"consumerprotection":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document gives no account-ownership survey figure."}}},
+"retailpayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Only a startup app taking mobile money deposits; no statement on a mobile money service's status."}}},
+"revenuecollection":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on tax or fee payment."}}},
+"startups":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document describes a private operator's programme, no state startup law or fund."}}},
+"techhubs":{"countries":{"CMR":{"facts":[{"sub_indicator":"hub","aspect":"hubs","value":"inservice","fact":"EcoMatin reports that Orange Digital Center's OrangeFab acceleration programme, launched in 2022, presented its third cohort of seven startups at an Innovation Day in Douala on 4 June 2025 after six months of coaching.","as_of":"2025-06-04","date_precision":"day","system":"OrangeFab by Orange Digital Center","class":"hub"}],"systems":[{"system":"Orange Digital Center Cameroun (OrangeFab)","country_label":"Cameroon","class":"hub","platform":"accelerator programme","owner":"Orange","tiers":""}],"note":""}}}
+}}

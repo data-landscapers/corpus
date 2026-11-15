@@ -1,0 +1,97 @@
+{
+ "slug": "2025-07-21-gha-watra-working-groups-convene-in-accra-to-strengthen-sub-regional-regul",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Ghana's National Communications Authority hosted a four-day WATRA working group meeting in Accra starting 21 July 2025, with WATRA's Executive Secretary and member states attending.",
+       "as_of": "2025-07-21",
+       "date_precision": "day",
+       "system": "West Africa Telecommunications Regulators Assembly (WATRA)",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

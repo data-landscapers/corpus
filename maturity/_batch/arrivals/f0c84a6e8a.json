@@ -1,0 +1,164 @@
+{
+ "slug": "2026-07-06-nga-nigeria-s-tech-hubs-top-10-cities-fueling-the-startup-talent-pool-in-2",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Nairametrics refers to the federal Nigeria Startup Act 2022, which Enugu is translating into state-level legislation.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Nigeria Startup Act 2022",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Nairametrics reports Ken Saro-Wiwa Innovation Hub in Port Harcourt runs incubation programmes jointly with RIMA and the Chamber of Commerce, and Genesys Tech Hub in Enugu runs a developer fellowship.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Ken Saro-Wiwa Innovation Hub",
+       "class": "hub"
+      },
+      {
+       "sub_indicator": "hub",
+       "aspect": "cities",
+       "value": "several",
+       "fact": "Nairametrics ranks Nigerian cities by active tech hubs, with programme-running hubs in Lagos, Abuja, Port Harcourt, Enugu, Kano, Ibadan, Kaduna, Uyo, Akure and Jos.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Nigerian tech hubs",
+       "class": "hub"
+      },
+      {
+       "sub_indicator": "hub",
+       "aspect": "park",
+       "value": "tenants",
+       "fact": "Nairametrics says Vibranium Valley, a 2,600 square-metre tech campus in Ikeja launched in 2018, houses over 30 technology companies.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Vibranium Valley",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

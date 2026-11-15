@@ -1,0 +1,11 @@
+{"slug":"2025-04-10-sdn-customs-electronic-payment-unified-government-channel","studies":{
+"businesspayments":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document states nothing on a central bank role."}}},
+"consumerprotection":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document states nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document states nothing on cross-border payments."}}},
+"customs":{"countries":{"SDN":{"facts":[],"systems":[{"system":"unified electronic payment channel","country_label":"Sudan","class":"other","platform":"","owner":"Ministry of Finance and Economic Planning","tiers":""}],"note":"Only e-payment of duties and a single window as a future project are stated; no declaration processing or window in service."}}},
+"g2ppayments":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document states nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document gives no survey account share."}}},
+"retailpayments":{"countries":{"SDN":{"facts":[],"systems":[],"note":"Document states nothing on mobile money or retail payments."}}},
+"revenuecollection":{"countries":{"SDN":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"Sudan's customs director general says electronic payment has been applied within customs clearance procedures through a unified channel for government fees run under the Ministry of Finance.","as_of":"2025-04-10","date_precision":"day","system":"unified electronic payment channel","class":"revenue"}],"systems":[{"system":"unified electronic payment channel","country_label":"Sudan","class":"revenue","platform":"","owner":"Ministry of Finance and Economic Planning","tiers":""}],"note":""}}}
+}}

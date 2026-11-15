@@ -1,0 +1,61 @@
+{
+ "slug": "2024-11-01-moz-mozambique-dhis2",
+ "studies": {
+  "educationexchange": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "DHIS2 profile says Mozambique's DHIS2 for Education has run in two provinces since 2019, with the Basic Education Department piloting DHIS2-DEMIS at district level.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "DHIS2-DEMIS",
+       "class": "emis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

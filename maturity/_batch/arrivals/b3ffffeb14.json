@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-16-cmr-cameroon-s-journey-toward-affordable-reliable-and-universal-electricit",
+ "studies": {
+  "nonstatefinance": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The US$1 billion private capital is for the Nachtigal hydropower plant, not a digital business."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "rural",
+       "aspect": "access",
+       "value": "official:25",
+       "fact": "The World Bank says 75% of rural Cameroonians remain without electricity, so about 25% have access.",
+       "as_of": "2025-01-16",
+       "date_precision": "day",
+       "system": "",
+       "class": "ruralpower"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

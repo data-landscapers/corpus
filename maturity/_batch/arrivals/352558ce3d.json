@@ -1,0 +1,8 @@
+{"slug": "2025-09-22-moz-mozambiques-incm-launches-thinklab-to-drive-startup-innovation-and-dig", "studies": {
+"civilserviceskills": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on civil-servant digital training."}}},
+"digitalskills": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No public digital-skills programme stated."}}},
+"ruralelectrification": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No rural electricity figure."}}},
+"schoolinternet": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"startups": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "A regulator's incubator only; no startup law or fund stated."}}},
+"techhubs": {"countries": {"MOZ": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "Mozambique's communications regulator INCM inaugurated the ThinkLab incubator, whose first incubation programme selected 12 startups from 51 applications, per INCM's head of studies and statistics.", "as_of": "2025-09-22", "date_precision": "day", "system": "ThinkLab", "class": "hub"}], "systems": [{"system": "ThinkLab", "country_label": "Mozambique", "class": "hub", "platform": "", "owner": "INCM", "tiers": ""}], "note": ""}}}
+}}

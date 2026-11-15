@@ -1,0 +1,17 @@
+{"slug": "2026-01-21-cod-drc-to-roll-out-national-interbank-payments-platform-by-end-march-2026", "studies": {
+"businesspayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"COD": {"facts": [], "systems": [], "note": "Names no central bank mandate, licensing or oversight role; the interbank group is a planned launch with IFC support."}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "No consumer protection rules or redress stated."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentslaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "No payments law or e-money rules stated."}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "Gives financial inclusion of 50% without naming an adult account survey; not an account-share figure."}}},
+"retailpayments": {"countries": {"COD": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The IMF, as reported by Bankable, says Visa Pay was launched in the DRC in September 2025, alongside promotion of the Mosolo national card, to improve digital financial services.", "as_of": "2025-09", "date_precision": "month", "system": "Visa Pay", "class": "retail"}
+], "systems": [
+{"system": "Visa Pay", "country_label": "DRC", "class": "retail", "platform": "", "owner": "", "tiers": ""},
+{"system": "Mosolo national card", "country_label": "DRC", "class": "other", "platform": "", "owner": "", "tiers": ""},
+{"system": "Interbank electronic payments group", "country_label": "DRC", "class": "other", "platform": "", "owner": "", "tiers": ""}
+], "note": ""}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

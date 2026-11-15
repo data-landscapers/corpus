@@ -1,0 +1,23 @@
+{"slug":"2026-03-25-nam-namibia-sets-the-pace-in-african-e-birth-systems","studies":{
+"admindata":{"countries":{"NAM":{"facts":[],"systems":[],"note":"States no statistics drawn from administrative records."}}},
+"aiabuse":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Says nothing on AI harms rules or authority."}}},
+"aigovernment":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Only a minister's general line on AI in the health system; no government body's AI system is named."}}},
+"aisectoral":{"countries":{"NAM":{"facts":[],"systems":[],"note":"AI in health is named only in a minister's general statement, with no tool, pilot or output."}}},
+"aisystems":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No AI model, dataset or computing built in the country is stated."}}},
+"authentication":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No authentication service is stated."}}},
+"birthidlink":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Notifications feed civil registration, but no link to the ID system is stated."}}},
+"civilregister":{"countries":{"NAM":{"facts":[{"sub_indicator":"civil","aspect":"coverage","value":"general","fact":"The article says birth registration countrywide is sustained at a rate surpassing 99%, without tying that rate to a digital register.","as_of":"2026-03-25","date_precision":"day","system":"e-Birth notification system","class":"civil"}],"systems":[{"system":"e-Birth and e-Death notification system","country_label":"Namibia","class":"other","platform":"","owner":"Ministry of Home Affairs, Immigration, Safety and Security with Ministry of Health and Social Services","tiers":"153 facilities: state and private hospitals, police mortuaries, old age homes"}],"note":""}}},
+"civilserviceskills":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No civil servant digital-skills training is stated; health workforce literacy appears only as a policy pillar."}}},
+"dataprotectionlaw":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Only a policy pillar on a data protection framework for health information; no law is stated."}}},
+"digitalskills":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Digital literacy for communities is named only as a policy pillar, with no programme or count."}}},
+"digitalstrategy":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Names only a health-sector digital policy, which is not a national strategy."}}},
+"idcoverage":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No ID enrolment count or share is stated."}}},
+"idfrombirth":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No ID number at birth is stated."}}},
+"idmaintenance":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Says nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No register keyed on the ID number is stated."}}},
+"idrobustness":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No national ID system detail is stated."}}},
+"policyresearch":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No local research institution on digital policy is named."}}},
+"regionallaw":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No regional digital legal text is named for Namibia."}}},
+"registry":{"countries":{"NAM":{"facts":[],"systems":[{"system":"e-Birth and e-Death notification system","country_label":"Namibia","class":"other","platform":"","owner":"Ministry of Home Affairs, Immigration, Safety and Security with Ministry of Health and Social Services","tiers":"153 facilities: state and private hospitals, police mortuaries, old age homes"}],"note":"Health-facility notifications that feed civil registration are class notification; the article does not say the registry office makes the digital record."}}},
+"schoolinternet":{"countries":{"NAM":{"facts":[],"systems":[],"note":"No school internet figure or compulsory subject is stated."}}}
+}}

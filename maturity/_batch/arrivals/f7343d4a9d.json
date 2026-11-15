@@ -1,0 +1,41 @@
+{
+ "slug": "2026-01-23-zwe-consultant-to-conduct-the-end-term-evaluation-of-nsds-iii-and-design-t",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on international standards."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only consultations with statistics users and producers, not a digital law or policy."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NSDS III",
+       "country_label": "NSDS III 2021-2025",
+       "class": "strategy",
+       "platform": "",
+       "owner": "ZimStat",
+       "tiers": ""
+      }
+     ],
+     "note": "A consultant recruitment for an end-term evaluation and successor design is a plan, not an evaluation or a strategy in preparation; NSDS III adoption date not stated."
+    }
+   }
+  }
+ }
+}

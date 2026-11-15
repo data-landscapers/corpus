@@ -1,0 +1,10 @@
+{"slug":"2026-10-16-swz-eswatini-targets-education-data-gaps-with-15-month-action-plan","studies":{
+"admindata":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Only a proposed yearbook and bulletin; no administrative statistics published or work stated under way."}}},
+"civilserviceskills":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Nothing on civil servant digital-skills training; only EMIS focal person training proposed."}}},
+"digitalskills":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Nothing on public digital skills."}}},
+"disabilityaccess":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Only proposed analysis of learners with disabilities; nothing on digital accessibility."}}},
+"educationexchange":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"Data-sharing protocol and teacher record linking are proposals only."}}},
+"educationmis":{"countries":{"SWZ":{"facts":[{"sub_indicator":"emis","aspect":"system","value":"inservice","fact":"The article says Eswatini has an existing EMIS with a termly EMIS reporting tool, which the Ministry of Education and Training's draft Data Use Action Brief aims to strengthen.","as_of":"2026-10-16","date_precision":"day","system":"EMIS","class":"emis"}],"systems":[{"system":"EMIS","country_label":"Eswatini EMIS (termly reporting tool)","class":"emis","platform":"","owner":"Ministry of Education and Training","tiers":""}],"note":""}}},
+"schoolinternet":{"countries":{"SWZ":{"facts":[],"systems":[],"note":"No internet-in-schools figure or compulsory digital curriculum stated."}}},
+"schools":{"countries":{"SWZ":{"facts":[],"systems":[{"system":"EMIS","country_label":"Eswatini EMIS (termly reporting tool)","class":"census","platform":"","owner":"Ministry of Education and Training","tiers":""}],"note":"Termly school returns only; no statement of learner records, levels, or share of schools."}}}
+}}

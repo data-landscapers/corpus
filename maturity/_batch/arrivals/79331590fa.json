@@ -1,0 +1,52 @@
+{
+ "slug": "2024-01-01-stp-programa-empreende",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Page mentions inclusive businesses with disabled people only as a criterion; nothing on accessible information or digital services."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "STP": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "funded",
+       "value": "funded",
+       "fact": "The Ministry of Youth and Sport's entrepreneurship directorate, REINA and UNDP ran Empreende+, in which 3 to 9 winning businesses received financing of 222,000 to 666,000 dobras under contract with UNDP.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "Programa Empreende+",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Programa Empreende+",
+       "country_label": "Programa Empreende+",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Youth and Sport with REINA and UNDP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "REINA co-ran a competition for businesses of two years or more; no hub programme with a startup cohort is stated."
+    }
+   }
+  }
+ }
+}

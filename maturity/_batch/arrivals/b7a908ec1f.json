@@ -1,0 +1,34 @@
+{
+ "slug": "2024-11-21-civ-audience-du-ministre-de-la-transition-numerique-et-de-la-digitalisatio",
+ "studies": {
+  "regionalpolicy": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Cote d'Ivoire's digital minister signed the Smart Africa Declaration with Smart Africa's Director General on 21 November 2024, becoming the 15th country to adhere, per the ministry.",
+       "as_of": "2024-11-21",
+       "date_precision": "day",
+       "system": "Smart Africa Declaration",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa",
+       "country_label": "Cote d'Ivoire",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

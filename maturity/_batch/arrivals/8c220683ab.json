@@ -1,0 +1,43 @@
+{
+ "slug": "2026-03-10-nam-a-new-era-of-connectivity-q-kon-s-partners-secure-leo-licenses-to-laun",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Rural access only via a commercial licence or operator offer, no government rural programme or survey figures."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "CRAN awarded service operating licences for OneWeb LEO services to Echo Namibia, Oblixx Communication Networks and RocketNet Namibia, per Q-KON.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Eutelsat OneWeb",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Eutelsat OneWeb",
+       "country_label": "Namibia",
+       "class": "satellite",
+       "platform": "LEO satellite",
+       "owner": "Eutelsat",
+       "tiers": "Business Broadband"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

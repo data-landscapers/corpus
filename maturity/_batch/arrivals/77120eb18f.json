@@ -1,0 +1,25 @@
+{
+ "slug": "2026-05-03-ken-kenya-s-refugee-population-grows-by-300-000-in-five-years-knbs",
+ "studies": {
+  "refugees": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "The KNBS Economic Survey 2026 says registration of new arrivals in Dadaab resumed in May 2023, the first since 2016, and the backlog has been cleared.",
+       "as_of": "2023-05",
+       "date_precision": "month",
+       "system": "Dadaab refugee registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

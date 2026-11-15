@@ -1,0 +1,9 @@
+{"slug":"2026-09-09-tgo-edtech-9-startups-togolaises-achevent-leur-parcours-d-incubation","studies":{
+"aiabuse":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Document states nothing on rules or authority against AI harms."}}},
+"aigovernment":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Document states nothing on government use of AI."}}},
+"aisectoral":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Document states nothing on AI in a public sector system."}}},
+"aisystems":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Document states nothing on AI models, datasets or computing built in Togo; e-learning with AI was only course content."}}},
+"disabilityaccess":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Digital accessibility appears only as course content in an Austrian programme; no law, policy or delivery stated."}}},
+"startups":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Incubation programme only; no startup law, labelling or public fund stated."}}},
+"techhubs":{"countries":{"TGO":{"facts":[{"sub_indicator":"hub","aspect":"hubs","value":"inservice","fact":"Techs Togo reports that nine Togolese EdTech startups, chosen from 39 applicants, completed an international incubation programme with Austria's Common Sense, closing with a consolidation phase at Djanta Tech Hub in Lome on 4 September 2026.","as_of":"2026-09-04","date_precision":"day","system":"Djanta Tech Hub","class":"hub"}],"systems":[{"system":"Djanta Tech Hub","country_label":"Togo","class":"hub","platform":"","owner":"","tiers":""}],"note":""}}}
+}}

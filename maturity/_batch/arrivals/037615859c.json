@@ -1,0 +1,37 @@
+{"slug":"2026-07-01-zwe-legislative-and-regulatory-reform-in-zimbabwes-digital-sector-a-rights","studies":{
+"aiabuse":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Only government concern about deepfakes and a strategy governance pillar; no rule or authority on AI harms stated."}}},
+"aigovernment":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No government body's use of AI is described."}}},
+"ailaw":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Only an AI strategy with a risk-based approach and a data protection act; neither places a binding AI rule."}}},
+"aisectoral":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No sectoral AI tool is described."}}},
+"aistrategy":{"countries":{"ZWE":{"facts":[
+{"sub_indicator":"strategy","aspect":"standing","value":"adopted","fact":"MISA Regional's analysis says Zimbabwe has recently launched its National AI Strategy 2026-2030.","as_of":"2026-07-01","date_precision":"day","system":"National AI Strategy 2026-2030","class":"strategy"},
+{"sub_indicator":"strategy","aspect":"use","value":"body","fact":"MISA Regional says the strategy's governance names the AI Strategy Implementation Office (AISIO) as central coordinating body, with a Steering Committee housed within POTRAZ and the President-chaired National Digital Regulatory Committee.","as_of":"2026-07-01","date_precision":"day","system":"AI Strategy Implementation Office (AISIO)","class":"strategy"}],
+"systems":[{"system":"National AI Strategy 2026-2030","country_label":"Zimbabwe","class":"strategy","platform":"","owner":"Government of Zimbabwe","tiers":""}],"note":""}}},
+"aisystems":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No AI model, dataset or computing is described."}}},
+"civilserviceskills":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No civil-service training is described."}}},
+"dataprotectionauthority":{"countries":{"ZWE":{"facts":[
+{"sub_indicator":"body","aspect":"standing","value":"provided","fact":"MISA Regional says the 2021 Cyber and Data Protection Act designates the Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ) as the data protection authority.","as_of":"2021","date_precision":"year","system":"POTRAZ","class":"authority"}],
+"systems":[{"system":"POTRAZ","country_label":"Zimbabwe","class":"authority","platform":"","owner":"Government of Zimbabwe","tiers":""}],"note":""}}},
+"dataprotectionlaw":{"countries":{"ZWE":{"facts":[
+{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"MISA Regional says Zimbabwe enacted the Cyber and Data Protection Act in 2021, which it describes as providing guidance on collection, storage, use and transfer of personal data.","as_of":"2021","date_precision":"year","system":"Cyber and Data Protection Act","class":"general"},
+{"sub_indicator":"general","aspect":"authority","value":"provided","fact":"MISA Regional says the Act designates POTRAZ as the data protection authority.","as_of":"2021","date_precision":"year","system":"POTRAZ","class":"general"}],
+"systems":[{"system":"Cyber and Data Protection Act","country_label":"Zimbabwe","class":"general","platform":"","owner":"Government of Zimbabwe","tiers":""}],"note":""}}},
+"dataprotectionreadiness":{"countries":{"ZWE":{"facts":[
+{"sub_indicator":"system","aspect":"law","value":"in-force","fact":"MISA Regional says Zimbabwe enacted the Cyber and Data Protection Act in 2021 and treats it as the operating data protection framework.","as_of":"2021","date_precision":"year","system":"Cyber and Data Protection Act","class":"system"},
+{"sub_indicator":"system","aspect":"treaty","value":"signed","fact":"MISA Regional says Zimbabwe is a signatory to the Malabo Convention but is among 39 African countries that have not ratified it.","as_of":"2026-07-01","date_precision":"day","system":"Malabo Convention","class":"system"}],
+"systems":[],"note":""}}},
+"digitaldivides":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Only a bill broadening the Universal Service Fund; no rural programme or count stated."}}},
+"digitalskills":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No public digital-skills programme is described."}}},
+"disabilityaccess":{"countries":{"ZWE":{"facts":[
+{"sub_indicator":"accessibility","aspect":"rule","value":"underway","fact":"MISA Regional says the Postal and Telecommunications Amendment Bill, 2025 would broaden the Universal Service Fund to support ICT access for persons with disabilities.","as_of":"2025","date_precision":"year","system":"Postal and Telecommunications Amendment Bill, 2025","class":"accessibility"}],
+"systems":[],"note":""}}},
+"domesticfinancing":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"A bill diverting 10% of the Universal Service Fund to the ministry is no budget line or amount."}}},
+"idrobustness":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No national ID system is described."}}},
+"internationalstandards":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No standards body membership or adopted standard is stated."}}},
+"opendiscussion":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No named in-country group criticising a named policy, no cut or punishment stated; the analysis is by a regional body."}}},
+"publicconsultation":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No consultation on a named digital law is reported."}}},
+"regionallaw":{"countries":{"ZWE":{"facts":[
+{"sub_indicator":"harmonisation","aspect":"accepted","value":"signed","fact":"MISA Regional says Zimbabwe is a signatory to the African Union Malabo Convention but has not ratified it.","as_of":"2026-07-01","date_precision":"day","system":"Malabo Convention","class":"harmonisation"}],
+"systems":[{"system":"Malabo Convention","country_label":"Zimbabwe","class":"harmonisation","platform":"","owner":"African Union","tiers":""}],"note":""}}},
+"schoolinternet":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"No school internet figure or curriculum rule is stated."}}}
+}}

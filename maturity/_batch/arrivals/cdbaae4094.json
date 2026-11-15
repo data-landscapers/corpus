@@ -1,0 +1,34 @@
+{
+ "slug": "2024-07-09-ssd-south-sudan-unveils-approved-starlink-tariffs",
+ "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "South Sudan's NCA says it granted Starlink a provisional licence and approved four tariff plans, with service preparing to launch.",
+       "as_of": "2024-07-09",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "South Sudan",
+       "class": "satellite",
+       "platform": "LEO satellite",
+       "owner": "SpaceX",
+       "tiers": "Standard, Priority, Mobile, Mobile Priority"
+      }
+     ],
+     "note": "No regulator subscriber count is stated."
+    }
+   }
+  }
+ }
+}

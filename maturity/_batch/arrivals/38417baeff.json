@@ -1,0 +1,62 @@
+{
+ "slug": "2024-09-29-sdn-in-war-torn-sudan-a-displaced-startup-incubator-returns-to-fuel-innova",
+ "studies": {
+  "refugees": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on registration or digital inclusion of displaced people."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No state startup law, strategy or fund is stated; the grants come from an EU and Italian-agency financed programme run by an incubator."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "TechCrunch reports Savannah Innovation Labs resumed operations in Port Sudan and Kassala after a six-month hiatus, running its We-Rise bootcamp with 100 finalists.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Savannah Innovation Labs",
+       "class": "hub"
+      },
+      {
+       "sub_indicator": "hub",
+       "aspect": "cities",
+       "value": "several",
+       "fact": "TechCrunch reports Savannah Innovation Labs operating in both Port Sudan and Kassala.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Savannah Innovation Labs",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Savannah Innovation Labs",
+       "country_label": "Sudan",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

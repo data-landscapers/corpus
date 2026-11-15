@@ -1,0 +1,79 @@
+{
+ "slug": "2025-09-15-moz-incm-celebra-33-anos-com-nova-incubadora-tecnologica-thinklab",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "INCM inaugurated the ThinkLab incubator in Maputo on 15 September 2025, with 12 incubated projects.",
+       "as_of": "2025-09-15",
+       "date_precision": "day",
+       "system": "ThinkLab",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ThinkLab",
+       "country_label": "Mozambique",
+       "class": "hub",
+       "platform": "",
+       "owner": "INCM",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

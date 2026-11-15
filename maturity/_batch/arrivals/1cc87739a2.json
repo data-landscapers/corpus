@@ -1,0 +1,177 @@
+{
+ "slug": "2026-11-14-egy-public-prosecution-ai-data-centre-smart-justice-protocol",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no rule or authority on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Egypt's Public Prosecution signed a cooperation protocol with MCIT, social solidarity, Orange and e-finance that includes an AI-supported digital assistant to help court-appointed guardians submit requests (Arqam News).",
+       "as_of": "2026-11-14",
+       "date_precision": "day",
+       "system": "AI digital assistant for guardians",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI digital assistant for guardians",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "Orange app",
+       "owner": "Public Prosecution",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The protocol signed with the Public Prosecution provides an AI digital assistant for guardianship-of-funds family prosecution services (Arqam News).",
+       "as_of": "2026-11-14",
+       "date_precision": "day",
+       "system": "AI digital assistant for guardians",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "The Public Prosecution opened its AI data centre at the Prosecutor-General's office, and attendees toured it and the services it offers (Arqam News).",
+       "as_of": "2026-11-14",
+       "date_precision": "day",
+       "system": "Public Prosecution AI data centre",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Public Prosecution AI data centre",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "",
+       "owner": "Public Prosecution",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "AI data centre is the Prosecution's own; no hire to others, tier or cloud region stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a general mention of data protection; no law stated."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural internet programme or rural-urban figure stated."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "The protocol signed by social solidarity, MCIT, the Public Prosecution, Orange and e-finance aims to ease disabled persons' electronic access to Prosecution services at reduced cost, per the social solidarity minister (Arqam News).",
+       "as_of": "2026-11-14",
+       "date_precision": "day",
+       "system": "Prosecution services cooperation protocol",
+       "class": "accessibility"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Family prosecution guardianship-of-funds services are being made available online through Orange's app with e-finance, with free SIM cards for guardians (Arqam News).",
+       "as_of": "2026-11-14",
+       "date_precision": "day",
+       "system": "Orange app family prosecution services",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange app family prosecution services",
+       "country_label": "Egypt",
+       "class": "eservices",
+       "platform": "Orange app",
+       "owner": "Public Prosecution / Orange / e-finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre for hire or national hosting of state data stated."
+    }
+   }
+  }
+ }
+}

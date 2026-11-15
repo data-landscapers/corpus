@@ -1,0 +1,13 @@
+{"slug": "2025-05-09-rwa-the-innovation-hub-at-cmu-africa-boosts-new-tech-entrepreneurs", "studies": {
+"aisectoral": {"countries": {
+"RWA": {"facts": [], "systems": [], "note": "AI products are startups' own; no public sector system uses AI."}}},
+"disabilityaccess": {"countries": {
+"RWA": {"facts": [], "systems": [], "note": "Startup assistive devices only; no government law, policy or programme."}}},
+"opendiscussion": {"countries": {
+"RWA": {"facts": [], "systems": [], "note": "Nothing on public debate, cuts or punishment."}}},
+"startups": {"countries": {
+"RWA": {"facts": [], "systems": [], "note": "A hub's own programme; no startup law, label or public fund stated."}}},
+"techhubs": {"countries": {
+"RWA": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "Carnegie Mellon University Africa says its Innovation Hub runs a year-long incubation programme with seed grant and mentorship, and its fourth cohort since 2020 has 15 startups.", "as_of": "2025-05-09", "date_precision": "day", "system": "Innovation Hub at CMU-Africa", "class": "hub"}],
+"systems": [{"system": "Innovation Hub at CMU-Africa", "country_label": "Rwanda", "class": "hub", "platform": "", "owner": "Carnegie Mellon University Africa", "tiers": ""}], "note": ""}}}
+}}

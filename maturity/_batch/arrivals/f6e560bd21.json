@@ -1,0 +1,34 @@
+{
+ "slug": "2024-12-23-tun-migration-in-tunisia-the-government-s-doublespeak",
+ "studies": {
+  "refugees": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "none",
+       "fact": "UNHCR said in a May 2024 report that pre-registration operations in Tunisia had been temporarily suspended, leaving unregistered asylum seekers accumulating, and Nawaat reports asylum seeker cards unissued or unrenewed.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "UNHCR pre-registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNHCR pre-registration and asylum seeker card",
+       "country_label": "Tunisia",
+       "class": "displaced",
+       "platform": "",
+       "owner": "UNHCR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

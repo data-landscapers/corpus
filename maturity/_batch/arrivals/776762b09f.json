@@ -1,0 +1,6 @@
+{"slug":"2024-05-03-mdg-starlink-madagascar-obtient-sa-licence-internet-satellite-moyennant-10","studies":{
+"agrisatellite":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Article is about a Starlink licence; nothing on farming."}}},
+"metsatellite":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Nothing on weather service satellite data."}}},
+"satellitebroadband":{"countries":{"MDG":{"facts":[
+{"sub_indicator":"satellite","aspect":"service","value":"licensed","fact":"Madagascar's regulator ARTEC signed a five-year licence for Starlink Madagascar on 29 April 2024 to operate broadband, VSAT and GMPC satellite networks, per 2424.mg.","as_of":"2024-04-29","date_precision":"day","system":"Starlink","class":"satellite"}],
+"systems":[{"system":"Starlink","country_label":"Madagascar","class":"satellite","platform":"LEO constellation","owner":"Starlink Madagascar","tiers":""}],"note":"Service expected from Q3 2024, not yet on sale."}}}}}

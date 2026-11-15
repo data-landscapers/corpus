@@ -1,0 +1,169 @@
+{
+ "slug": "2026-05-25-tgo-projet-de-loi-sur-l-innovation-au-togo-une-ambition-necessaire-mais-un",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "draft",
+       "fact": "Opposition deputy Brigitte Adjamagbo-Johnson writes that Togo is about to adopt a bill on the innovation ecosystem, which provides a labelling mechanism, tax advantages and a support fund for labelled firms.",
+       "as_of": "2026-05-25",
+       "date_precision": "day",
+       "system": "Projet de loi sur le developpement de l'ecosysteme d'innovation",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is an opinion piece on Togo's innovation bill and states nothing this study asks."
+    }
+   }
+  }
+ }
+}

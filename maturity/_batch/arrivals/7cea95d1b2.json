@@ -1,0 +1,52 @@
+{
+ "slug": "2025-05-31-cod-monthly-statistics-of-refugees-and-asylum-seekers-democratic-republic",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on accessibility."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Refugee register only, not the national ID."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "documented",
+       "fact": "UNHCR/CNR say 391,764 refugees and asylum seekers are registered in proGres, all with at least one protection document, with 222,068 aged 5+ registered biometrically, as of 31 May 2025.",
+       "as_of": "2025-05-31",
+       "date_precision": "day",
+       "system": "proGres",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "proGres",
+       "country_label": "COD",
+       "class": "displaced",
+       "platform": "UNHCR proGres",
+       "owner": "UNHCR/CNR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{"slug":"2024-05-23-tgo-operation-d-enregistrement-et-de-distribution-de-cartes-aux-demandeurs","studies":{
+"authentication":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No authentication service stated."}}},
+"birthidlink":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No civil register to ID link stated."}}},
+"idcoverage":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No count or share of the population holding an ID stated."}}},
+"idfrombirth":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No register keyed on the national ID number stated."}}},
+"idrobustness":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No statement on the national ID system's issuance, biometrics or certification."}}},
+"police":{"countries":{"TGO":{"facts":[],"systems":[],"note":"Nothing on police station records."}}},
+"refugees":{"countries":{"TGO":{"facts":[{"sub_indicator":"displaced","aspect":"registration","value":"underway","fact":"CNAR, PURS and ANID began on 10 May 2024 an operation (2 May to 29 August 2024) to register new Burkinabe asylum-seekers and distribute identification cards to displaced people already enrolled, updating the CNAR proGres v4 database.","as_of":"2024-05-10","date_precision":"day","system":"proGres v4","class":"displaced"}],"systems":[{"system":"proGres v4","country_label":"Togo","class":"displaced","platform":"proGres v4","owner":"CNAR","tiers":""}],"note":""}}}
+}}

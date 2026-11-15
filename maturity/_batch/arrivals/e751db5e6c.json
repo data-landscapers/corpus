@@ -1,0 +1,144 @@
+{
+ "slug": "2026-04-05-dza-securite-sociale-la-cnas-lance-de-nouveaux-services-pour-les-employeur",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "The article states that CNAS and CNR (the pensions fund) now exchange information instantly and securely over the national identification number (NIN) through the Dzaïr Digital Services portal.",
+       "as_of": "2026-04-05",
+       "date_precision": "day",
+       "system": "Dzaïr Digital Services",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Dzaïr Digital Services",
+       "country_label": "Algeria",
+       "class": "other",
+       "platform": "national portal",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The article states that CNAS and CNR (social insurance bodies) exchange information using the national identification number (NIN) via Dzaïr Digital Services.",
+       "as_of": "2026-04-05",
+       "date_precision": "day",
+       "system": "Dzaïr Digital Services",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Dzaïr Digital Services",
+       "country_label": "Algeria",
+       "class": "other",
+       "platform": "national portal",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

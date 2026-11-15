@@ -1,0 +1,117 @@
+{
+ "slug": "2026-11-12-papss-bets-on-local-currencies-to-unlock-kenyas-africa-trade",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "joined",
+       "fact": "Capital FM reports Kenya is among early PAPSS adopters, with KCB Group and Equity Bank connected to the network, per PAPSS CEO Mike Ogbalu.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "Afreximbank/PAPSS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Capital FM reports Kenya is among early PAPSS adopters, with KCB Group and Equity Bank connected to the network, per PAPSS CEO Mike Ogbalu.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "Pan-African Payment and Settlement System",
+       "owner": "Afreximbank/PAPSS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Kenya."
+    }
+   }
+  }
+ }
+}

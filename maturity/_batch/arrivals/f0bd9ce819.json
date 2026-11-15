@@ -1,0 +1,62 @@
+{
+ "slug": "2026-06-16-tun-inauguration-des-centres-elife-sidi-bouzid-et-elife-tozeur",
+ "studies": {
+  "ictjobs": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No ICT employment share or graduate unemployment figure stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, labelling or public startup fund stated; only a donor-funded centre programme."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The Fondation Tunisie pour le Developpement says its ELIFE network has six operational technology centres offering coworking, startup incubation and certified digital training, with Sidi Bouzid opened 16 June 2026 and Tozeur 17 June 2026.",
+       "as_of": "2026-06-17",
+       "date_precision": "day",
+       "system": "ELIFE centres",
+       "class": "hub"
+      },
+      {
+       "sub_indicator": "hub",
+       "aspect": "cities",
+       "value": "several",
+       "fact": "The document says the six operational ELIFE centres are in Sidi Bouzid, Tozeur, Siliana, Beja, Le Kef and Djerba.",
+       "as_of": "2026-06-17",
+       "date_precision": "day",
+       "system": "ELIFE centres",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ELIFE centres",
+       "country_label": "TUN",
+       "class": "hub",
+       "platform": "",
+       "owner": "Fondation Tunisie pour le Developpement",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

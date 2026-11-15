@@ -1,0 +1,94 @@
+{
+ "slug": "2025-10-03-nga-3-years-on-how-well-has-nigeria-s-startup-act-shaped-the-tech-ecosyste",
+ "studies": {
+  "nonstatefinance": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "private",
+       "aspect": "money",
+       "value": "committed",
+       "fact": "Technext24 reports Nigerian startups raised US$410 million in 2024, with Moniepoint and Moove each securing US$110 million.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "",
+       "class": "private"
+      },
+      {
+       "sub_indicator": "private",
+       "aspect": "money",
+       "value": "committed",
+       "fact": "Technext24 reports more than US$100 million flowed into Nigerian startups in the first quarter of 2025, led by LemFi's US$53 million Series B.",
+       "as_of": "2025-03",
+       "date_precision": "month",
+       "system": "",
+       "class": "private"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the 2021 co-creation of the Startup Act is mentioned, outside the three-year window."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Technext24 says President Buhari signed the Nigeria Startup Act into law on 19 October 2022.",
+       "as_of": "2022-10-19",
+       "date_precision": "day",
+       "system": "Nigeria Startup Act",
+       "class": "startuppolicy"
+      },
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "labelled",
+       "value": "labelled",
+       "fact": "Technext24 says the Startup Portal reported 12,948 startups registered for labelling under the Act by April 2024.",
+       "as_of": "2024-04",
+       "date_precision": "month",
+       "system": "Nigeria Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Technext24 says the Tertiary Education Trust Fund announced 48 innovation centres, 12 operational, 18 in final procurement and 18 expected by 2025.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "TETFund innovation centres",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

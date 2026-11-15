@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-12-nga-businessday-papss-cbn-reforms-boost-adoption",
+ "studies": {
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "PAPSS deputy CEO John Sebabi told BusinessDay that CBN rules and its approval of fintechs support Nigerian transactions through PAPSS, which is present in 32 African countries.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Nigeria",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Afreximbank/PAPSS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

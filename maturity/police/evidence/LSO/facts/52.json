@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-26-lso-starlink-s-reach-in-lesotho-extends-to-police-and-disaster-management",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink connectivity for police stations",
+   "country_label": "Lesotho",
+   "class": "enabling",
+   "platform": "Starlink",
+   "owner": "Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": "Starlink gives police stations connectivity only; no station record system stated."
+}

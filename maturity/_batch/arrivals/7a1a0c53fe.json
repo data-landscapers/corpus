@@ -1,0 +1,78 @@
+{
+ "slug": "2026-08-28-gab-incubation-numerique-au-gabon-la-grande-restructuration-sous-pression",
+ "studies": {
+  "digitalsovereignty": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a body's mission to guarantee data sovereignty is stated; no rule, hosting or contract terms."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement of who runs or builds government systems."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a cumulative figure since 2018; no amount dated 2024 or later."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, label or public fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Échos de l'Éco says SING SA and SPIN, public-private incubators, support startups through the Cohorte 4.0 programme, with over 300 startups accompanied since 2018.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "SING SA",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SING SA",
+       "country_label": "Société d'incubation numérique du Gabon",
+       "class": "hub",
+       "platform": "",
+       "owner": "PPP, SPIN holds 30%",
+       "tiers": ""
+      },
+      {
+       "system": "Centre Gabonais de l'Innovation",
+       "country_label": "CGI, Batterie 4",
+       "class": "other",
+       "platform": "",
+       "owner": "state",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

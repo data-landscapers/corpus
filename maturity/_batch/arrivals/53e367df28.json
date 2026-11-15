@@ -1,0 +1,198 @@
+{
+ "slug": "2023-12-18-tgo-otr-la-creation-du-numero-dimmatriculation-fiscale-et-le-paiement-de-l",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "OTR announced on 18 December 2023 the launch of two platforms, one letting individuals create their tax number online (nif.otr.tg) and one to pay the motor vehicle tax by mobile app and web.",
+       "as_of": "2023-12-18",
+       "date_precision": "day",
+       "system": "nif.otr.tg",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "nif.otr.tg",
+       "country_label": "Togo",
+       "class": "tax",
+       "platform": "web",
+       "owner": "OTR",
+       "tiers": ""
+      },
+      {
+       "system": "OTR TVM",
+       "country_label": "Togo",
+       "class": "revenue",
+       "platform": "mobile app and web",
+       "owner": "OTR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "OTR announced the OTR TVM mobile app and web platform for paying the motor vehicle tax via Flooz or Tmoney, with a downloadable receipt.",
+       "as_of": "2023-12-18",
+       "date_precision": "day",
+       "system": "OTR TVM",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "nif.otr.tg",
+       "country_label": "Togo",
+       "class": "tax",
+       "platform": "web",
+       "owner": "OTR",
+       "tiers": ""
+      },
+      {
+       "system": "OTR TVM",
+       "country_label": "Togo",
+       "class": "revenue",
+       "platform": "mobile app and web",
+       "owner": "OTR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "OTR launched nif.otr.tg, letting individuals with a valid national ID card or Togolese passport create their tax registration number (NIF) online.",
+       "as_of": "2023-12-18",
+       "date_precision": "day",
+       "system": "nif.otr.tg",
+       "class": "tax"
+      },
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "nationalid",
+       "value": "linked",
+       "fact": "OTR says entering an identity document number and birth date makes the system detect whether the person already holds a NIF.",
+       "as_of": "2023-12-18",
+       "date_precision": "day",
+       "system": "nif.otr.tg",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "nif.otr.tg",
+       "country_label": "Togo",
+       "class": "tax",
+       "platform": "web",
+       "owner": "OTR",
+       "tiers": ""
+      },
+      {
+       "system": "OTR TVM",
+       "country_label": "Togo",
+       "class": "revenue",
+       "platform": "mobile app and web",
+       "owner": "OTR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

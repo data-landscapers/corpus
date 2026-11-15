@@ -1,0 +1,11 @@
+{"slug": "2024-11-01-gha-frequently-asked-questions-starlink-ghana", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Starlink FAQ states nothing on e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Starlink FAQ states nothing on central bank payment oversight."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only the provider's own support line is named, which is not a consumer-protection rule or body."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Starlink FAQ states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Starlink FAQ states nothing on government payments."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No account-ownership survey figure stated."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Mobile money is named only as a way to buy a Starlink kit, which says nothing of a mobile money service's status."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Starlink FAQ states nothing on tax or fee payment."}}},
+"satellitebroadband": {"countries": {"GHA": {"facts": [{"sub_indicator": "satellite", "aspect": "service", "value": "sale", "fact": "The National Communications Authority's Starlink FAQ says customers in Ghana can buy the Starlink kit online or from four named resellers and retailers, with Standard Plan service for households at GHS 770 a month.", "as_of": "2024-11", "date_precision": "month", "system": "Starlink", "class": "satellite"}], "systems": [{"system": "Starlink", "country_label": "Ghana", "class": "satellite", "platform": "low-orbit satellite", "owner": "Starlink", "tiers": "Standard, Priority, Mobile, Mobile Priority"}], "note": ""}}}
+}}
