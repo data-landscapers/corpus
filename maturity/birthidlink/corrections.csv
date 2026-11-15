@@ -11,3 +11,4 @@ MOZ,002,link,inservice,revalued: link:underway,Housekeeping 73: ID cards issued 
 TCD,005,link,inservice,revalued: link:underway,Housekeeping 73: one hospital desk issuing an NNI with the birth keeps the link at pilot scale
 TCD,006,link,inservice,revalued: link:underway,Housekeeping 73: TASDJIL birth certificates carrying an NNI from maternity units keep the link at pilot scale
 TCD,007,link,inservice,revalued: link:underway,Housekeeping 73: one provincial hospital entering births with an NNI keeps the link at pilot scale
+MUS,001,link,inservice,revalued: events:both,"Housekeeping 73: card validity ended at death registration, checked against the civil identity register, beside the ID number generated at birth registration (MUS-002), is records passing for both events"
