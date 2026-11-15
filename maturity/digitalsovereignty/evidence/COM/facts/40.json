@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-20-com-journee-mondiale-des-telecommunications-i-une-journee-pour-une-double",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "ANADEN and Comores Cables officially launched the public administration's data centre on 19 May 2025, which the promoters frame as a step for digital sovereignty.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "Data center de l'administration publique",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data center de l'administration publique",
+   "country_label": "Comoros",
+   "class": "sovereignty",
+   "platform": "data centre",
+   "owner": "ANADEN and Comores Cables",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
