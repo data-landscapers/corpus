@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-14-orange-egypte-parquet-general-services-numeriques-ia",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Orange Egypt says phase two of its Public Prosecution partnership brings an AI digital assistant into the user experience, guiding citizens to the right service and procedure.",
+   "as_of": "2026-11-14",
+   "date_precision": "day",
+   "system": "AI digital assistant",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
