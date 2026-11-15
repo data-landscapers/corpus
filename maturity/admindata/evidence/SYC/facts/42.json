@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-17-syc-seychelles-sadc-regional-workshop-on-the-use-of-administrative-data-so",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "Seychelles' NBS says it has an MOU with the Seychelles Revenue Commission on wages, behind its Employment and Earnings Bulletin, while no MOUs exist yet for immigration and labour migration records.",
+   "as_of": "2025-03-17",
+   "date_precision": "day",
+   "system": "Employment and Earnings Bulletin",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "source",
+   "value": "other",
+   "fact": "NBS says migration and border crossing data from the Immigration Department are included in its Migration and Tourism Report.",
+   "as_of": "2025-03-17",
+   "date_precision": "day",
+   "system": "Migration and Tourism Report",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Migration and Tourism Report",
+   "country_label": "Migration and Tourism Report",
+   "class": "admin",
+   "platform": "",
+   "owner": "NBS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
