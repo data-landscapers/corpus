@@ -12,3 +12,4 @@ ZWE,Health Information Exchange Platform,Zimbabwe,exchange,,UNDP Zimbabwe (procu
 ZWE,Impilo EHR,Zimbabwe,other,,Ministry of Health and Child Care,over 700 facilities,2025-01-01-zwe-integration-and-interoperability-of-impilo-electronic-health-record-eh
 ZWE,DHIS2,Zimbabwe,other,DHIS2,,,2025-01-01-zwe-integration-and-interoperability-of-impilo-electronic-health-record-eh
 ZWE,Impilo EHR to DHIS2 FHIR integration,Zimbabwe,exchange,FHIR; OpenHIE,,,2025-01-01-zwe-integration-and-interoperability-of-impilo-electronic-health-record-eh
+ZWE,Health Information Exchange (HIE),Zimbabwe,exchange,core platform with mediators and secure channels,,,2026-11-13-zwe-undp-hie-architecture-core-platform-rfp
