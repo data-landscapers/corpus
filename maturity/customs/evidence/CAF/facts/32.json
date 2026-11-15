@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-27-caf-centrafrique-malgre-la-mauvaise-connectivite-du-pays-les-autorites-opt",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Ecomatin states customs operations were digitised in 2024 through the operational Sydonia software, which it credits with raising customs revenue from 10% to 25%.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Sydonia",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sydonia",
+   "country_label": "Central African Republic",
+   "class": "customs",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
