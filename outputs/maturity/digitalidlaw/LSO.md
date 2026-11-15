@@ -8,4 +8,4 @@
 
 ***Also on file***. [National Identity Register](<https://lesotholii.org/akn/ls/act/2011/9/eng@2011-03-21>); [SIM card registration](<https://lca.org.ls/final-call-for-sim-registration/>).
 
-***Not found***. No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.
+***Not found***. No regulation or decree applying the law has been found from the last three years. Nor has any rule made under it that others must check identity against the system.

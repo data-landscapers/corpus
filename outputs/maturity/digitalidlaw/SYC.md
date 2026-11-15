@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.
+***Not found***. No source found says the law in force provides for a biometric register or an identity number unique to each person. None says it provides for an identity that can be checked electronically.

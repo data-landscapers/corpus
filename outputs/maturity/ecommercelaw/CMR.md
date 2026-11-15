@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No accreditation, licence, registration or penalty under the law in the last three years is dated in the sources found.
+***Not found***. The sources found date no accreditation, licence, registration or penalty under the law to the last three years.

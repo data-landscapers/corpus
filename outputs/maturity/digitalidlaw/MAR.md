@@ -8,4 +8,4 @@
 
 ***Also on file***. [Registre national de la population](<https://faolex.fao.org/docs/pdf/mor204689.pdf>).
 
-***Not found***. No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.
+***Not found***. No regulation or decree applying the law has been found from the last three years. Nor has any rule made under it that others must check identity against the system.

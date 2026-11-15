@@ -8,4 +8,4 @@
 
 ***Also on file***. [Carte nationale d'identité biométrique](<https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/>); [Mobile ID](<https://www.lanation.dj/le-ministere-de-linterieur-accelere-le-virage-de-lidentite-numerique/>).
 
-***Not found***. No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.
+***Not found***. No regulation or decree applying the law has been found from the last three years. Nor has any rule made under it that others must check identity against the system.

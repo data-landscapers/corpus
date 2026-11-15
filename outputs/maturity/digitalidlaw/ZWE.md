@@ -8,4 +8,4 @@
 
 ***Also on file***. [Register of residents (National Registration Act)](<https://zimlii.org/akn/zw/act/1976/36>); [national population database](<https://www.zbcnews.co.zw/registrar-general-to-take-over-voters-roll-under-constitutional-reforms/>); [Zimbabwe Population Registry System (ZPRS)](<https://www.newsday.co.zw/southerneye/local/article/200055327/minister-denies-id-backlog-amid-growing-public-outcry>); [national digital ID](<https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform>).
 
-***Not found***. No source found says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.
+***Not found***. No source found says the law in force provides for a biometric register or an identity number unique to each person. None says it provides for an identity that can be checked electronically.

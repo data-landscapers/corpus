@@ -8,4 +8,4 @@
 
 ***Also on file***. [Carte nationale d'Identité biométrique sécurisée](<https://sgg-mali.ml/JO/2022/mali-jo-2022-35.pdf>); [NINA (Numéro d'Identification Nationale)](<https://sgg-mali.ml/JO/2022/mali-jo-2022-35.pdf>); [Répertoire national (NINA file)](<https://sgg-mali.ml/JO/2006/mali-jo-2006-33.pdf>); [NINA](<https://www.maliweb.net/societe/le-ministere-de-la-justice-a-lere-du-numerique-voici-le-casier-et-la-nationalite-en-ligne-3113977.html>).
 
-***Not found***. No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.
+***Not found***. No regulation or decree applying the law has been found from the last three years. Nor has any rule made under it that others must check identity against the system.

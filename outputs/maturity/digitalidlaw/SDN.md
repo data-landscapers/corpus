@@ -8,4 +8,4 @@
 
 ***Also on file***. [SudaPass (Sudanese Digital Identity)](<https://sudapass.gov.sd/terms?lang=en>); [Civil Registry Information System / National Number](<https://citizenshiprightsafrica.org/wp-content/uploads/2011/01/Sudan-Civil-Registration-Act-2011-EN.pdf>).
 
-***Not found***. No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.
+***Not found***. No regulation or decree applying the law has been found from the last three years. Nor has any rule made under it that others must check identity against the system.
