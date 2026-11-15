@@ -1,6 +1,7 @@
 iso3,source_slug,read,merged_on
 AGO,2002-08-16-lei-11-02-lei-de-acesso-aos-documentos-administrativos,,2026-10-19
 AGO,2021-01-01-plano-estrategico-do-instituto-de-modernizacao-administrativa-peima-27,,2026-10-19
+AGO,2025-01-01-nam-southern-africa-operational-update-october-december-2024,,2026-11-15
 AGO,2025-02-21-nj-minttics-ainda-nao-corrigiu-pac-2025-zeros-a-mais,,2026-10-19
 AGO,2025-10-23-pada-plano-eas-as-portal-de-dados-abertos,,2026-10-19
 AGO,2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos,,2026-10-19
@@ -60,6 +61,7 @@ BFA,2026-10-16-bfa-insd-licence-donnees-ouvertes,,2026-10-19
 BWA,2025-10-17-bwa-digital-services-act-2025,,2026-10-19
 BWA,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
 BWA,2025-12-10-bwa-the-botswana-digital-innovation-hub-yesterday-convened-stakeholders-fr,,2026-11-12
+BWA,2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate,,2026-11-15
 BWA,2026-03-14-bwa-haus-open-data-hackathon-tor-phase2,,2026-10-19
 BWA,2026-03-31-open-data-hackathon-botswana-techreviewafrica,,2026-10-19
 BWA,2026-04-15-tourism-statistics-dashboard,,2026-10-19
@@ -114,6 +116,7 @@ CMR,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
 CMR,2026-04-08-bdi-odp-1-0-reunion-des-points-focaux-open-data-d-afrique-francophone-en-p,,2026-11-12
 CMR,2026-04-24-cameroons-national-artificial-intelligence-strategy-snia,,2026-10-19
 CMR,2026-04-24-cmr-cameroun-l-ins-simplifie-l-acces-aux-donnees,,2026-11-13
+CMR,2026-05-01-mwi-unlocking-data-newsletter-may-edition,,2026-11-15
 CMR,2026-05-07-cmr-bold-initiatives-are-being-undertaken-at-accelerating-digital-transfor,,2026-11-12
 CMR,2026-06-01-cmr-cameroun-financement-du-projet-digi-cor-l-etat-recherche-92-milliards,,2026-11-12
 CMR,2026-07-30-odw-agcsf-2026-yaounde-recap,,2026-10-19
@@ -132,6 +135,7 @@ COD,2026-10-23-cod-itie-rdc-donnees-et-divulgation-systematique,,2026-10-24
 COD,2026-11-09-xaf-african-union-concludes-6th-ordinary-session-stc-education-science-technology,,2026-11-11
 COD,2026-11-12-cod-donnees-ouvertes-itie-rdc,,2026-11-12
 COG,2024-01-01-cog-donnees-ouvertes,,2026-11-12
+COG,2025-01-01-nam-southern-africa-operational-update-october-december-2024,,2026-11-15
 COG,2025-11-29-adiac-ins-atelier-validation-indicateurs-rgph-5,,2026-10-19
 COG,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
 COG,2026-01-09-congo-hiswaca-plateforme-statistiques,,2026-10-19
@@ -144,6 +148,7 @@ COG,2026-08-01-cog-qwen-vl-lingala-ocr-dataset,,2026-10-24
 COG,2026-08-09-congo-cntr-transparency-code-evaluation-platform,,2026-10-19
 COG,2026-08-12-congo-ign-pratic-geospatial-data-digitisation,,2026-10-19
 COG,2026-09-20-cemac-data-governance-roadmap-gabonactu,,2026-10-19
+COG,2026-10-01-cog-calendrier-de-publication-des-statistiques-officielles-2026,,2026-11-15
 COG,2026-10-09-au-stc-cict-6th-ordinary-session-libreville,,2026-10-19
 COM,2024-09-02-com-acceleration-des-odd-presentation-du-portail-des-donnees,,2026-11-12
 COM,2025-01-01-jointsdgfund-comoros-accelerating-sdg-digitized-statistics,,2026-10-19
@@ -247,12 +252,14 @@ GIN,2025-09-01-gnb-wacren-connects-six-new-countries-and-sets-foundation-for-cli
 GIN,2025-10-01-guinea-global-findex-2025-microdata,,2026-10-19
 GIN,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
 GIN,2026-05-12-eiti-guinea-2026-validation-report,,2026-10-19
+GIN,2026-07-01-gin-l-ecosysteme-startup-au-cur-de-la-future-strategie-nationale-de-gouver,,2026-11-15
 GIN,2026-07-01-ins-atelier-sdmx-migration-odp-2-0,,2026-10-19
 GMB,2024-01-01-gmb-weather-impact-dcas-gee-platform,,2026-10-22
 GMB,2025-01-01-gmb-national-records-commission-launches-online-information-access-portal,,2026-11-06
 GMB,2025-01-01-mocde-data-governance-trends-gambia,,2026-10-19
 GMB,2025-09-01-gnb-wacren-connects-six-new-countries-and-sets-foundation-for-climate-prog,,2026-11-11
 GMB,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
+GMB,2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate,,2026-11-15
 GMB,2026-04-02-world-bank-gambia-gender-data-landscape-2026,,2026-10-19
 GMB,2026-06-09-open-budget-survey-2025-gambia-country-results,,2026-10-19
 GMB,2026-07-02-gmb-gbos-microdata-catalog,,2026-10-19
@@ -282,6 +289,7 @@ KEN,2025-01-01-nga-transparency-and-accountability-as-trust-builders-in-the-afri
 KEN,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
 KEN,2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026,,2026-10-19
 KEN,2026-04-19 Rethinking Ownership Authorship and Value Creation in IP Policy for African AI,,2026-10-19
+KEN,2026-05-01-mwi-unlocking-data-newsletter-may-edition,,2026-11-15
 KEN,2026-05-26 A Year After USAID Reclaiming Control of Data Systems – Development Gateway An IREX Venture – Data and digital solutions for international development,,2026-10-19
 KEN,2026-06-07-state-plans-ecitizen-data-sale-nation,,2026-10-19
 KEN,2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated,,2026-10-19
@@ -328,11 +336,13 @@ LBY,2026-09-29-lby-gia-gender-comparison-2025-dataset,,2026-10-19
 LBY,2026-09-29-lby-gia-ict-workforce-indicator-2025,,2026-10-19
 LBY,2026-10-15-lby-gia-draft-national-open-data-ai-policy-meeting,,2026-10-19
 LBY,2026-11-11-lby-gia-open-data-platform-terms,,2026-11-12
+LBY,2026-11-14-lby-lana-gia-digital-transformation-competitiveness-forum,,2026-11-15
 LSO,2021-09-01-lesotho-data-use-statistical-capacity-assessment,,2026-10-19
 LSO,2024-12-30-lesotho-national-digital-policy-2024-2035,,2026-10-19
 LSO,2025-04-01-lso-bos-publications,,2026-10-19
 LSO,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
 LSO,2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026,,2026-10-19
+LSO,2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate,,2026-11-15
 LSO,2026-10-09-au-stc-cict-6th-ordinary-session-libreville,,2026-10-19
 MAR,2020-01-01-mar-ogp-open-data-commitment-national-data-policy,,2026-10-19
 MAR,2021-04-01-add-maroc-ouverture-donnees-publiques-manuel-responsables-open-data,,2026-10-19
@@ -355,14 +365,18 @@ MAR,2026-08-08-data-gov-ma-gouvernance-plan-actions-national-open-data,,2026-10-
 MAR,2026-10-28-la-mauritanie-explore-l-exp-rience-marocaine-pour-interconnecter-ses-a,,2026-10-29
 MDG,2025-02-04-mdg-portes-transparence-des-donnees-et-informations-socioeconomiques-a-mad,,2026-11-12
 MDG,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
+MDG,2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate,,2026-11-15
 MDG,2026-08-09-madagascar-assemblee-nationale-open-data-api,,2026-10-19
 MDG,2026-08-09-madagascar-instat-microdata-platform,,2026-10-19
 MDG,2026-08-09-madagascar-opendata-mg-portal,,2026-10-19
 MDG,2026-10-08-lexpress-mg-transparence-budgetaire-informations-accessibles,,2026-10-19
+MDG,2026-10-15-mdg-recrutement-d-un-cabinet-pour-la-conception-le-developpement-et-l-acco,,2026-11-15
 MDG,2026-10-30-xea-comesa-idea-national-consultations-least-cost-digital-infrastructure,,2026-11-06
 MDG,2026-10-31-mdg-justice-595-arrets-selectionnes-pour-enrichir-la-jurisprudence,,2026-11-06
+MLI,2025-04-01-mli-operational-update-january-march-2025-unhcr-mali,,2026-11-15
 MLI,2025-05-28-tcd-improving-access-to-quality-data-in-fragility-and-conflict-contexts-th,,2026-11-12
 MLI,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
+MLI,2026-01-01-mli-operational-update-unhcr-mali-oct-nov-dec-2025,,2026-11-15
 MLI,2026-04-01-evaluation-mise-en-oeuvre-loi-acces-information-mali,,2026-10-19
 MLI,2026-04-08-bdi-odp-1-0-reunion-des-points-focaux-open-data-d-afrique-francophone-en-p,,2026-11-12
 MLI,2026-06-30-instat-mali-atelier-sdmx-migration-odp-2-0,,2026-10-19
@@ -385,6 +399,7 @@ MRT,2019-06-01-primature-decret-2019-141-pm-divulgation-systematique-donnees-ind
 MRT,2023-01-01-apd-plan-strategique-2023-2026-protection-donnees,,2026-10-19
 MRT,2023-06-01-mauritania-strategie-nationale-donnees-ouvertes-interoperables,,2026-10-19
 MRT,2023-11-07-worldbank-dtfa-wardip-sop1-pad4756,,2026-10-19
+MRT,2023-12-21-mrt-le-projet-de-loi-startup-act-mauritanie-adopte-a-lassemblee-nationale,,2026-11-15
 MRT,2024-11-12-eiti-board-decision-mauritania-moderate-score-2019-eiti-standard,,2026-10-19
 MRT,2025-05-29-mrt-le-ministre-de-la-transformation-numerique-mon-departement-semploie-a,,2026-11-12
 MRT,2025-08-05-mrt-de-grands-projets-porteurs-de-modernisation-de-l-administration,,2026-10-26
@@ -409,6 +424,7 @@ MUS,2026-10-28-mus-undp-and-statistics-mauritius-maustats-platform-phase-2,,2026
 MWI,2022-06-01-malawi-open-data-policy,,2026-10-19
 MWI,2024-03-30-mwi-nasa-harvest-partners-with-fao-to-improve-agricultural-monitoring-acro,,2026-10-22
 MWI,2024-07-31-mwi-observed-temperature-for-malawi,,2026-11-13
+MWI,2025-01-01-nam-southern-africa-operational-update-october-december-2024,,2026-11-15
 MWI,2025-01-22 National payment system registers growth in 2024 Quarter 3,,2026-10-19
 MWI,2025-06-08 MEC Rejects Observer Coalition's Electronic Voter Register Access Request,,2026-10-19
 MWI,2025-07-01-mwi-about-us-mip-1-dashboard,,2026-11-13
@@ -419,6 +435,7 @@ MWI,2025-12-02-au-validation-data-governance-frameworks,,2026-10-19
 MWI,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
 MWI,2026-01-22-mwi-introducing-the-malawi-voice-data-commons,,2026-10-24
 MWI,2026-03-06-govt-issues-circular-on-mandatory-use-of-maneps,,2026-10-19
+MWI,2026-05-01-mwi-unlocking-data-newsletter-may-edition,,2026-11-15
 MWI,2026-06-24-chichewa-ai-language-data-trust-techafricanews,,2026-10-19
 MWI,2026-07-06-mwi-education-data-portal-edap,,2026-10-19
 MWI,2026-07-31-malawi-real-time-cdf-dashboard-council-oversight,,2026-10-19
@@ -428,6 +445,7 @@ NAM,2015-03-06-namibia-nsdi-policy-gazette-5684,,2026-10-19
 NAM,2022-12-28-namibia-access-to-information-act-8-of-2022,,2026-10-19
 NAM,2024-03-30-mwi-nasa-harvest-partners-with-fao-to-improve-agricultural-monitoring-acro,,2026-10-22
 NAM,2024-12-09-namibia-information-commissioner-appointment-regulations,,2026-10-19
+NAM,2025-01-01-nam-southern-africa-operational-update-october-december-2024,,2026-11-15
 NAM,2025-08-20-nam-bank-of-namibia-launches-datasphere-platform-for-economic-data,,2026-11-13
 NAM,2025-10-13-nsa-nsdi-geoportal-redesign-tender,,2026-10-19
 NAM,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
@@ -443,6 +461,7 @@ NER,2025-05-28-tcd-improving-access-to-quality-data-in-fragility-and-conflict-co
 NER,2025-09-18-anp-pnin-portail-web-renove,,2026-10-19
 NER,2025-09-18-ner-la-plateforme-nationale-d-information-pour-la-nutrition-du-niger-lance,,2026-11-12
 NER,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
+NER,2026-01-01-ner-mise-a-jour-operationnelle-trimestrielle-octobre-decembre-2025-niger,,2026-11-15
 NER,2026-04-08-bdi-odp-1-0-reunion-des-points-focaux-open-data-d-afrique-francophone-en-p,,2026-11-12
 NER,2026-06-10-un-ai-human-security-capacity-illimi-140-cadres-lesahel,,2026-10-19
 NGA,2018-07-01-nigeria-open-data-policy,,2026-10-19
@@ -478,6 +497,7 @@ RWA,2025-11-28-rwanda-national-data-governance-framework-2025,,2026-10-19
 RWA,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
 RWA,2026-01-01-rwa-rwanda-advancing-science-through-the-development-of-artificial-intelli,,2026-11-12
 RWA,2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026,,2026-10-19
+RWA,2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate,,2026-11-15
 RWA,2026-07-30-rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy,,2026-10-19
 RWA,2026-10-01-rwa-rwanda-public-procurement-authority-rppa,,2026-10-24
 RWA,2026-10-22-rwa-rwanda-can-be-korea-s-ai-entry-point-to-africa-minister,,2026-10-26
@@ -497,6 +517,7 @@ SEN,2025-10-07-anads-ansd-rnu-2025-enquete-mise-a-jour-extension,,2026-10-19
 SEN,2025-11-13-geosenegal-lancement-geoportail-information-geospatiale,,2026-10-19
 SEN,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
 SEN,2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026,,2026-10-19
+SEN,2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate,,2026-11-15
 SEN,2026-03-01-sen-eiti-country-page-senegal,,2026-10-24
 SEN,2026-04-08-bdi-odp-1-0-reunion-des-points-focaux-open-data-d-afrique-francophone-en-p,,2026-11-12
 SEN,2026-05-26 A Year After USAID Reclaiming Control of Data Systems – Development Gateway An IREX Venture – Data and digital solutions for international development,,2026-10-19
@@ -526,11 +547,14 @@ SLE,2026-10-18-sle-sierra-leone-establishes-ifap-national-committee-during-iduai
 SLE,2026-11-06-sle-information-minister-tables-two-major-bills-in-parliament,,2026-11-11
 SLE,2026-11-09-sle-eu-wfp-school-feeding-data,,2026-11-11
 SLE,2026-11-09-xaf-african-union-concludes-6th-ordinary-session-stc-education-science-technology,,2026-11-11
+SLE,2026-11-13-sle-raic-ifd-mou-sabi-salone-access-to-information,,2026-11-15
 SOM,2024-07-13-somalia-open-data-portal-terms-of-use,,2026-10-19
 SOM,2025-01-01-som-local-consultant-for-the-development-of-artificial-intelligence-strate,,2026-10-22
 SOM,2025-03-01-som-open-data-archives-bareedo-platform-somalia,,2026-11-12
 SOM,2025-03-28-som-somalia-open-data-day-2025-unlocking-transparency-for-a-better-future,,2026-11-12
 SOM,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
+SOM,2026-01-22-mdg-the-data-revolution-and-the-nsds-evolution-how-have-25-years-of-strate,,2026-11-15
+SOM,2026-04-07-som-somalia-s-road-to-a-startup-nation-building-a-national-innovation-ecos,,2026-11-15
 SOM,2026-09-01-xaf-ria-datacipation-data-policy-project,,2026-10-24
 SOM,2026-09-10-som-dawan-somaliren-datacite-national-consortium,,2026-10-19
 SOM,2026-11-10-som-ministry-of-finance-federal-government-of-somalia,,2026-11-12
@@ -547,6 +571,7 @@ STP,2025-11-01-stp-ager-itu-conectividade-universal-significativa,,2026-10-19
 STP,2025-12-01-cipstp-orcamento-do-cidadao-stp-2026,,2026-10-19
 STP,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
 STP,2026-03-31-stp-sao-tome-and-principe-s-national-msg-hosts-partners-roundtable-present,,2026-11-13
+STP,2026-04-02-stp-gender-data-landscape-sao-tome-and-principe-2026-edition,,2026-11-15
 STP,2026-06-01-stp-eiti-country-page-sao-tome-and-principe,,2026-10-26
 STP,2026-06-18-stp-portal-de-monitoria-cidada-financas-publicas-crise-energetica-em-stp,,2026-11-12
 SWZ,2024-11-01-eswatini-digital-readiness-assessment,,2026-10-19
@@ -590,6 +615,7 @@ TGO,2025-11-18-togofirst-observatoire-national-du-numerique,,2026-10-19
 TGO,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
 TGO,2026-04-30-inseed-atelier-sdmx-plateforme-odp2-0,,2026-10-19
 TGO,2026-06-18-tgo-l-afrique-n-est-pas-dans-votre-llm-togolm,,2026-10-24
+TGO,2026-08-01-tgo-togo-fact-sheet-january-june-2026,,2026-11-15
 TGO,2026-11-11-tgo-opendata-gouv-tg-cgu-licence-ouverte,,2026-11-12
 TUN,2016-09-01-iati-46002-g-tn-i00-zzz-002-tunisia-economic-social-reforms-inclusive-growth,,2026-10-19
 TUN,2021-01-06-tunisie-decret-gouvernemental-2021-3-donnees-publiques-ouvertes,,2026-10-19
@@ -602,6 +628,7 @@ TUN,2025-03-19-tun-lancement-de-l-enquete-publique-en-ligne-sur-l-elaboration-de
 TUN,2025-09-24-tun-organisation-d-un-atelier-de-presentation-des-resultats-du-diagnostic,,2026-11-12
 TUN,2025-11-19-tun-comite-general-du-controle-des-depenses-publiques-la-strategie-digital,,2026-11-06
 TUN,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
+TUN,2026-01-01-tun-tunisia-operational-update-january-2026,,2026-11-15
 TUN,2026-03-26-tunisie-strategie-nationale-gouvernance-donnees-ouvertes-atelier,,2026-10-19
 TUN,2026-07-23-tunisie-portail-industries-agroalimentaires-lancement,,2026-10-19
 TUN,2026-07-26-tunisie-portail-agroalimentaire-veille-economique-giz,,2026-10-19
@@ -613,6 +640,7 @@ TZA,2015-06-23-44000-p133798-open-government-and-public-financial-man,,2026-10-1
 TZA,2018-06-25-tza-worldbank-sogdat-year3-open-data-policy,,2026-10-19
 TZA,2023-03-01-tza-teiti-open-data-policy,,2026-10-19
 TZA,2024-09-01-nbs-dissemination-policy-2024,,2026-10-19
+TZA,2024-11-06-tza-assessing-the-performance-of-primary-school-information-management-sys,,2026-11-15
 TZA,2025-01-01-ppra-ocds-publication-policy,,2026-10-19
 TZA,2025-06-01-tza-wsis-20-country-report-tanzania,,2026-11-06
 TZA,2025-12-09-statistical-performance-indicators-2026-11-10,,2026-11-11
@@ -636,6 +664,7 @@ UGA,2026-07-17-national-sdg-task-force-july-2026,,2026-10-19
 UGA,2026-10-01-uga-uganda-public-procurement-and-disposal-of-public-assets-authority-ppda,,2026-11-12
 UGA,2026-10-30-xea-comesa-idea-national-consultations-least-cost-digital-infrastructure,,2026-11-06
 ZAF,2024-01-17-popia-protection-personal-information-act,,2026-10-19
+ZAF,2024-04-01-zaf-theme-1-introduction-and-awareness-introduction-to-sa-sams-modernisati,,2026-11-15
 ZAF,2025-01-01-nga-transparency-and-accountability-as-trust-builders-in-the-african-data,,2026-11-12
 ZAF,2025-06-02-zaf-opening-remarks-by-the-deputy-minister-of-communications-and-digital-t,,2026-11-12
 ZAF,2025-09-17-zaf-south-african-national-species-checklist-catalogue-of-life-in-south-af,,2026-11-13

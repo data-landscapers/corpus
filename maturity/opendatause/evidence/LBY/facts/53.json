@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-14-lby-lana-gia-digital-transformation-competitiveness-forum",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The General Information Authority presented its open data platform, which holds 166 datasets, at the Libyan Permanent Economic Forum in Tripoli, as reported by LANA.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Open data platform",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open data platform",
+   "country_label": "Libya open data platform",
+   "class": "open",
+   "platform": "",
+   "owner": "General Information Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
