@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-13-syc-2027-budget-book-part-1-estimates-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The 2027 Appropriation Bill schedule gives the Department of Information Communications Technology SCR 186.4m.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Department of Information Communications Technology",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Department of Information Communications Technology",
+   "country_label": "DICT",
+   "class": "financing",
+   "platform": "",
+   "owner": "Government of Seychelles",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

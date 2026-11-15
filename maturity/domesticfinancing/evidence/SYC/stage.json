@@ -8,10 +8,10 @@
       "commitment": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SYC-002;SYC-003",
-      "gaps": "The money for digital transformation was lower in the latest budget than in the one before, or the same.",
-      "note": "Counted from the four questions by study-ladder-domesticfinancing.py.",
-      "as_at": "2026-11-01"
+      "stage_sources": "SYC-006;SYC-003",
+      "gaps": "The digital lines fell 8.9 per cent from 2025 to 2026; the 2027 bill's ICT department figure has no 2026 amount beside it, so no rise is shown. The 2023 fund is not shown collecting or paying.",
+      "note": "The 2027 bill gives the ICT department money, a yes to question 1, but no amount for the year before, so the 2026 fall still answers question 2. Counted as study-ladder-domesticfinancing.py does.",
+      "as_at": "2026-11-15"
     }
   ]
 }

@@ -379,7 +379,7 @@ The 2024 budget gives 33,599,219 dobras to digital lines, but the year before an
 
 Seychelles cut its digital budget by 8.9 per cent for 2026 and its universal service fund is not shown collecting or paying.
 
-- Budget tables: the budget for 2026 gives 239,570,000 SCR to 25 digital line(s). Dated by the budget document ([source, 2026-03-30](https://www.gazette.sc/sites/default/files/2026-03/Act%201%202026%20-%20Appropriation%20Act%202026.pdf)).
+- The 2027 Appropriation Bill schedule gives the Department of Information Communications Technology SCR 186.4m ([source, 2026-11](https://www.finance.gov.sc/wp-content/uploads/2026/11/2027-BUDGET-BOOK-PART-1-ESTIMATES-OF-REVENUE-AND-EXPENDITURE-FOR-THE-FISCAL-YEAR-ENDING-31ST-DECEMBER-2027-1.pdf)).
 - Budget tables: the 12 digital line(s) held in both years total 84,802,000 SCR for 2026 against 93,076,000 for 2025, -8.9 per cent; 25 lines are held for 2026. Dated by the budget document ([source, 2026-03-30](https://www.gazette.sc/sites/default/files/2026-03/Act%201%202026%20-%20Appropriation%20Act%202026.pdf)).
 
 ### South Sudan: 2 Nascent
