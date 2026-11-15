@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "2",
-      "platform": "underway",
+      "stage": "3",
+      "platform": "inservice",
       "reach": "",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-003;RWA-004",
-      "gaps": "No source found says a government exchange platform is in service carrying data between public bodies' systems; Irembo, a citizen services portal, is noted, not staged.",
-      "note": "Rebuild 2026-10-28, lowered from 4: Irembo is a citizen services portal, which the study notes and does not stage (study file §1), so its 35 partners set nothing. RISA's Shared Government Data Hub and Data Interoperability Platform are in procurement and implementation, and the interim Data Sharing Platform is described only as data discovery and access.",
-      "as_at": "2026-10-28"
+      "stage_sources": "RWA-010;RWA-009",
+      "gaps": "No source found counts ten or more institutions or systems connected to the Government Enterprise Service Bus; seven are named. No figure for exchanges through it. Irembo, a citizen services portal, is noted, not staged.",
+      "note": "Arrival 2026-11-15, raised from 2: in March 2025 the social registry shared data with other institutions through the Government Enterprise Service Bus, which the government reported in use, so a platform carries data between public bodies' systems. The seven systems named fall short of ten, and the Shared Government Data Hub is still being procured.",
+      "as_at": "2026-11-15"
     }
   ]
 }

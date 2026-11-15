@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 2 |
-| 3 Established | 7 |
-| 2 Nascent | 26 |
+| 3 Established | 8 |
+| 2 Nascent | 25 |
 | 1 Absent | 3 |
 | Unplaced | 3 |
 | No evidence | 7 |
@@ -129,6 +129,13 @@ A government data exchange platform was in service in 2024; no source found says
 
 - Cybernetica says an ESTDEV-funded project begun in 2024 continues scaling the Nam-X platform, developing two digital services for it, and was expected to end in March 2025; no count of connected bodies is given ([source, 2024](https://cyber.ee/resources/case-studies/namibia/)).
 - Cybernetica says that in 2014 it and the e-Governance Academy introduced an interoperability platform, known locally as Nam-X, connecting databases of different entities, and that Namibia has implemented it for secure data exchange between organisations ([source, 2014](https://cyber.ee/resources/case-studies/namibia/)).
+
+### Rwanda: 3 Established
+
+Rwanda's social registry shared data with other institutions through a government service bus in 2025; how many systems it connects is not known.
+
+- The deck says some systems are already integrated with the government enterprise service bus, which the social registry uses to share data with NIDA, CRVS, RRA, LAND, SDMS, LODA and RSSB systems, with Kafka for real-time streaming ([source, 2025-03-18](https://spdci.org/wp-content/uploads/2025/03/Talking-Interoperability-18-Rwanda_vFinal_Updated.pdf)).
+- The government told the World Bank's GovTech survey (2025) that its Government Enterprise Service Bus (GESB) is a government service bus platform in use, dated 2023 by the survey and linked to the platform's own site ([source, 2023](https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset)).
 
 ### Tunisia: 3 Established
 
@@ -257,13 +264,6 @@ A government data exchange platform was under way in 2026; none in service is on
 
 - The Government Service Portal, soft-launched with KOICA and Galaxy Backbone, is in a pilot that has run since 2025 and integrates some government institutions before nationwide rollout, with a key feature of integration with the Nigerian Digital Exchange so agencies can share data among them ([source, 2026-07-30](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services)).
 - The Nigerian government is preparing to launch the NGDX data-sharing platform between government agencies and businesses, expected operational by end 2025, as discussed at an Abuja workshop on 25 August 2025 ([source, 2025-08-25](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-to-launch-national-data-exchange-platform-to-boost-digital-econom)).
-
-### Rwanda: 2 Nascent
-
-Rwanda was procuring a government data hub and interoperability platform in 2025 and 2026; none in service is on record.
-
-- The New Times reports that, according to RISA, the Shared Government Data Hub and a Data Interoperability Platform are being worked on, with the Data Hub moving into implementation ([source, 2026-10-02](https://www.newtimes.co.rw/article/39395/news/health/africa-needs-to-take-charge-of-its-digital-health-systems-says-minister)).
-- RISA held an early market engagement session on its draft RFP for the Shared Government Data Hub and Data Interoperability Platform, stating a 9-month implementation period, 12 months of post-deployment support, and a final RFP to be published before the end of 2025 ([source, 2025-11-21](https://www.risa.gov.rw/index.php?eID=dumpFile&f=151133&t=f&token=ea2f00488a3d4ebb4cde95d0c365c403869d9fb7)).
 
 ### Sao Tome and Principe: 2 Nascent
 

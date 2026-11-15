@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-20-mwi-malawi-launches-data-sharing-app-for-social-registry",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Sharing App for the Malawi Social Registry",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "app",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "The app handles requests for registry data; no platform carrying data between public bodies' systems is stated."
+}

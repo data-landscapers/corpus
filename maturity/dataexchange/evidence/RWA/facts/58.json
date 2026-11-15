@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-18-rwa-leveraging-interoperability-for-social-impact-in-rwanda",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The deck says some systems are already integrated with the government enterprise service bus, which the social registry uses to share data with NIDA, CRVS, RRA, LAND, SDMS, LODA and RSSB systems, with Kafka for real-time streaming.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "Government enterprise service bus",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government enterprise service bus",
+   "country_label": "Government enterprise service bus",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

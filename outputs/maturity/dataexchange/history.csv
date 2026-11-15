@@ -85,3 +85,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-13,BWA,dpi.exchange--national-data-exchange-system,fact,no evidence,2,BWA-001,"DPI Map (2026-11): a data exchange system implemented and in use (checked October 2024), no connected bodies named: no evidence to 2"
 2026-11-13,SWZ,dpi.exchange--national-data-exchange-system,fact,no evidence,2,SWZ-001,DPI Map (2026-11): a data exchange system planned or piloted (checked October 2024): no evidence to 2
 2026-11-13,TCD,dpi.exchange--national-data-exchange-system,fact,no evidence,2,TCD-001,DPI Map (2026-11): a data exchange system planned or piloted (checked October 2024): no evidence to 2
+2026-11-15,RWA,dpi.exchange--national-data-exchange-system,fact,2,3,RWA-010;RWA-009,"DCI deck of March 2025: the social registry shares data with other institutions through the Government Enterprise Service Bus; in service, 2 to 3"
