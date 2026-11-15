@@ -1,16 +1,17 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-004",
-   "gaps": "No source found names a decree, regulation or order made under the law.",
-   "note": "Counted from the four questions by study-ladder-statisticslaw.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-005;MAR-004",
+      "gaps": "No source found names a decree, regulation or order made under the law; law 046.26 has no start date yet, as it takes effect at the first meeting of the national statistics council's deliberative organ.",
+      "note": "Law 046.26 was promulgated on 28 July 2026 and published on 10 August 2026 (MAR-005), a yes to question 2 though not yet in effect, beside the 1968 decree-law (MAR-004). No rule made under either is held, so the cell stays at 3.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

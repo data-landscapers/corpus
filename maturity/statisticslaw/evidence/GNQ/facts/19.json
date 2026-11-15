@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-01-gnq-entrega-de-nombramientos-a-los-tecnicos-de-estadisticas-de-los-departa",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Equatorial Guinea press office reports the national statistics institute director saying a new statistics law was promulgated in 2020, after Law 3/2001 regulating statistical activity.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Ley estadistica 2020 (Ley 3/2001 before)",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "applied",
+   "fact": "The press office reports 133 trained statisticians were appointed to ministerial statistics units on 10 December 2024 under the INEGE ministerial statistical services project, 'as the law stipulates'.",
+   "as_of": "2024-12-10",
+   "date_precision": "day",
+   "system": "Ley estadistica 2020 / INEGE",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ley estadistica 2020",
+   "country_label": "Equatorial Guinea",
+   "class": "law",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,16 +1,17 @@
 {
- "iso3": "COG",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COG-002;COG-001",
-   "gaps": "No source found names a decree, regulation or order made under the law.",
-   "note": "Counted from the four questions by study-ladder-statisticslaw.py."
-  }
- ]
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COG-003;COG-002",
+      "gaps": "No source found names a decree, regulation or order made under the law.",
+      "note": "Law 36-2018 is in force (COG-002, COG-003), and the October 2026 release calendar issued under it (COG-004) applies the law. No rule made under it is held, so the cell cannot pass 3 (ruling 114).",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

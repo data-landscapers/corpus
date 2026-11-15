@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-cpv-coopstat-janeiro-julho-january-july-2024",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "INE Portugal's COOPSTAT n.º 25 says its mission supported revision of the current Law of the National Statistical System of Cabo Verde, which establishes how the system functions.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Lei do Sistema Estatístico Nacional",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

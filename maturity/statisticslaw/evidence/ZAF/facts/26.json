@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-05-zaf-learner-unit-record-information-and-tracking-system-data-2024",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "DataFirst states data collection by organs of state in South Africa is authorised by the Statistics Act 1999.",
+   "as_of": "1999",
+   "date_precision": "year",
+   "system": "Statistics Act 1999",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

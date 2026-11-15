@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-06-caf-icasees-reunion-de-relecture-du-projet-de-la-loi-statistique-actualise",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ICASEES states the statistics law currently in force is Loi n°01.008 of 16 July 2001.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "Loi n°01.008 du 16 juillet 2001",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "ICASEES says the 58-article, 6-chapter draft statistics law was validated internally in March 2026 and at a national validation workshop on 23 April 2026, then reviewed on 6 May 2026 before transmission for adoption.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "Avant-projet de Loi portant organisation et réglementation des activités statistiques",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

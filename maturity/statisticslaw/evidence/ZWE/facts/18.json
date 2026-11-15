@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-22-zwe-request-for-expression-of-interest-individual-consultancy-to-review-th",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "A SADC Secretariat notice of 22 April 2025 tenders a consultancy to review Zimbabwe's current Statistics Act and draft a revised one.",
+   "as_of": "2025-04-22",
+   "date_precision": "day",
+   "system": "Statistics Act of Zimbabwe",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Statistics Act of Zimbabwe",
+   "country_label": "Zimbabwe",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -180,8 +180,8 @@ The Comoros' statistics law was adopted and promulgated in 2011 and is in force;
 
 Congo's 2018 law on official statistics is in force; no source found reports rules made under it.
 
+- INS Congo's October 2026 release calendar states that loi n° 36-2018 sur la statistique officielle is the national legal framework on which the calendar rests ([source, 2018](https://www.ins-congo.cg/uploads/publications/ins_6ad8553134ba03.75061568.pdf)).
 - The Journal officiel no. 42 of 18 October 2018 carries the text of law no. 36-2018 on official statistics; the date given is the issue's publication date, as the passages show no promulgation date for this law ([source, 2018-10-18](https://www.sgg.cg/JO/2018/congo-jo-2018-42.pdf)).
-- The national statistics strategy 2022-2026 states that statistical activity in Congo is governed by statistics law no. 36-2018 of 5 October 2018 on official statistics ([source, 2018-10-05](https://www.afristat.org/wp-content/uploads/2023/06/SNDS_2022-2026_Congo.pdf)).
 
 ### DR Congo: 3 Established
 
@@ -278,8 +278,9 @@ Mauritius's Statistics Act of 2000 is in force and was amended in 2025 and Augus
 
 ### Morocco: 3 Established
 
-Morocco's 1968 decree-law on statistics is in force; parliament adopted its replacement in July 2026, and no source found says whether that is promulgated.
+Morocco promulgated a new statistics law in July 2026, starting when its statistics council first meets; the 1968 decree-law applies meanwhile; rules not known.
 
+- Law 046.26 on official statistics was promulgated by dahir of 28 July 2026 and published in the Bulletin officiel of 10 August 2026, but per Medias24 as relayed by Canal212 it enters into force only at the first meeting of the deliberative organ of the future Conseil national de l'information statistique ([source, 2026-08-10](https://canal212.ma/hcp-statistiques-gouvernance-reforme-maroc/)).
 - This is the text of Royal Decree-Law no. 370-67 of 5 August 1968 on statistical studies, published in Bulletin Officiel no. 2911 of 14 August 1968 and in force from 15 August 1968 ([source, 1968-08-05](https://unstats.un.org/unsd/dnss/docViewer.aspx?docID=46)).
 
 ### Mozambique: 3 Established

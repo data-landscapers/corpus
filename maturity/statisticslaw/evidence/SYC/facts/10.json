@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-17-syc-seychelles-sadc-regional-workshop-on-the-use-of-administrative-data-so",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "NBS says the National Bureau of Statistics Act, 2010 was passed on 6 July 2010, repealing and replacing the 2005 Act.",
+   "as_of": "2010-07-06",
+   "date_precision": "day",
+   "system": "National Bureau of Statistics Act 2010",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

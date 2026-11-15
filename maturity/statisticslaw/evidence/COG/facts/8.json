@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-01-cog-calendrier-de-publication-des-statistiques-officielles-2026",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "INS Congo's October 2026 release calendar states that loi n° 36-2018 sur la statistique officielle is the national legal framework on which the calendar rests.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "loi n° 36-2018 sur la statistique officielle",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "applied",
+   "fact": "INS Congo issued its 2026 advance release calendar in October 2026, stating it answers the requirements of loi n° 36-2018.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "loi n° 36-2018 sur la statistique officielle",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
