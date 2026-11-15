@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-24-eth-ethiopia-unhcr-operational-update-august-2024",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "UNHCR says that since March 2024 the Ethiopian government has issued digital ID cards to refugees, each with a unique Fayda number to prevent duplication, 9,669 issued by August 2024.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ethiopian government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-21-ssd-unhcr-eu-pledge-continued-support-as-thousands-of-returning-south-suda",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "UNHCR says more than 17,400 former refugees were recently issued national identity cards in an exercise led by the DCRNPI with a UNHCR-EU project.",
+   "as_of": "2024-11-21",
+   "date_precision": "day",
+   "system": "national identity cards (DCRNPI)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National identity card",
+   "country_label": "South Sudan",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DCRNPI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

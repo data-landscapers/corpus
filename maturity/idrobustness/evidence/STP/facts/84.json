@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-11-stp-ministra-da-justica-anuncia-o-sistema-de-identificacao-pessoal-a-ser-d",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Justice Minister Vera Cravid said the government is developing a new identification system and a new personal ID document holding all of a person's identifiers.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "novo sistema de identificação pessoal",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "novo sistema de identificação pessoal",
+   "country_label": "São Tomé e Príncipe",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Government of STP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-27-tcd-unhcr-chad-flash-info-journee-lancement-enrolement-biometrique-anats-h",
+ "facts": [],
+ "systems": [
+  {
+   "system": "base de donnees nationale / Numero National d'Identification (NNI)",
+   "country_label": "Chad",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": "The document names the national database and NNI but does not state that it issues unique credentials, checks biometrics for duplicates, or is certified."
+}

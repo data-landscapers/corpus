@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-17-rwa-rwanda-la-carte-biometrique-qui-pourrait-changer-la-vie-des-refugies",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The document says Rwanda is progressively rolling out a new biometric ID card, with photo, fingerprint and iris data collected into a central database, with transition to June 2027 after which old cards are deactivated.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "national digital ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
