@@ -1,0 +1,44 @@
+{
+ "slug": "2026-02-28-ago-pagamentos-via-rupe-ja-valem-36-das-receitas-correntes-do-estado",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Expansao reports that RUPE, a 20-digit reference generated through the AGT system, is in service for paying taxes, fees and state services, with 12.5 million operations in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RUPE",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "Expansao, from EMIS data, calculates that about Kz 6.7 trillion, roughly 36% of Kz 18.9 trillion current revenue, was paid through RUPE in 2025, excluding oil taxes.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RUPE",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RUPE",
+   "country_label": "Angola",
+   "class": "revenue",
+   "platform": "AGT system / EMIS Multicaixa channels",
+   "owner": "AGT / EMIS",
+   "tiers": ""
+  },
+  {
+   "system": "Kwik",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "EMIS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

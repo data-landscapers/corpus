@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-01-lso-guide-on-e-payments",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Revenue Services Lesotho says taxpayers pay domestic (inland) taxes on its e-Payments platform by EcoCash, M-Pesa or bank channels.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "RSL e-Payments platform",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "main",
+   "value": "main",
+   "fact": "Revenue Services Lesotho says both domestic (inland) taxes and customs duties can be paid on its e-Payments platform by mobile money or bank channels.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "RSL e-Payments platform",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RSL e-Payments platform",
+   "country_label": "Lesotho",
+   "class": "revenue",
+   "platform": "RSL website",
+   "owner": "Revenue Services Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

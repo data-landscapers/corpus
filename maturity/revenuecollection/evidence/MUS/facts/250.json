@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-01-mus-tax-basics-for-newly-incorporated-companies",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The MRA says companies pay corporate tax, VAT, PAYE, APS and TDS electronically, including PRGF e-payment through its website.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "MRA e-filing",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

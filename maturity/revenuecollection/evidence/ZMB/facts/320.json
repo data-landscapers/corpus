@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-09-zmb-zambia-visa-sign-mou-to-accelerate-digital-payments-push",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Ecofin Agency reports Zambia's Zampay portal lets citizens pay taxes, fees and government bills online by card, mobile money or online banking.",
+   "as_of": "2025-10-09",
+   "date_precision": "day",
+   "system": "Zampay",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zampay",
+   "country_label": "Zampay",
+   "class": "revenue",
+   "platform": "national payments portal",
+   "owner": "Government of Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

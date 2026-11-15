@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-10-gha-ghana-s-cashless-property-tax-lifts-revenue-exposes-weak-enforcement",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The article says the GRA with MMDAs launched the Unified Common Property Rate Platform in January 2023, where property owners are billed and pay entirely digitally by mobile money, bank transfer or card.",
+   "as_of": "2023-01",
+   "date_precision": "month",
+   "system": "Unified Common Property Rate Platform",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Common Property Rate Platform",
+   "country_label": "Ghana",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": "MMDAs"
+  }
+ ],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "3",
+      "stage": "5",
       "payment": "inservice",
       "main": "",
-      "reported": "",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-001;BEN-002",
+      "stage_sources": "BEN-010;BEN-009",
       "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed 2026-11-15: a March 2026 release says nearly a third of state revenue is collected through digital channels (BEN-010), which answers question 4, and BEN-009 shows taxes declared and paid online. Under the later-yes rule that is stage 5, though customs duties are not shown.",
+      "as_at": "2026-11-15"
     }
   ]
 }

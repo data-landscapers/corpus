@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-mus-individual-e-filing-guide-season-2025",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The MRA says individual income tax can be paid electronically, by direct debit or credit card, and electronic payment is a legal obligation for the 2025 season.",
+   "as_of": "2025-01-01",
+   "date_precision": "year",
+   "system": "Individual Income Tax e-Filing (MRA)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Individual Income Tax e-Filing (MRA)",
+   "country_label": "Mauritius",
+   "class": "revenue",
+   "platform": "MRA Taxpayer Portal",
+   "owner": "Mauritius Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

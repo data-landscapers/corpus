@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-31-cmr-vers-une-douane-sans-cash-visa-bgfibank-le-guce-et-trustpayway-misent",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Visa's Cameroon country manager says customs-duty payment through the GUCE x BGFIBank Business Card, linked to GUCE, Trustpayway and Visa systems, is now fully digital.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "Carte Business GUCE x BGFIBank",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Carte Business GUCE x BGFIBank",
+   "country_label": "Cameroon",
+   "class": "revenue",
+   "platform": "Visa, Trustpayway",
+   "owner": "GUCE, BGFIBank Cameroun",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-07-ago-fim-do-papel-agt-exige-via-digital-para-pagamento-de-impostos-e-reclam",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Angola's AGT directed that payment of taxes be made electronically as a general rule through the Portal do Contribuinte, with office help only where internet access or digital literacy is lacking.",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "Portal do Contribuinte",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portal do Contribuinte",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "web portal",
+   "owner": "AGT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

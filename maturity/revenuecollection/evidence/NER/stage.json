@@ -1,17 +1,18 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "3",
-   "payment": "inservice",
-   "main": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NER-002",
-   "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "payment": "inservice",
+      "main": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-002;NER-005",
+      "gaps": "Customs duties have been paid electronically through SONIBANK since April 2026, but at first only at offices where it has counters, and no source says customs declarations or the main taxes are filed online; no figure for revenue paid electronically has been found.",
+      "note": "Reassessed 2026-11-15: e-sisic takes tax declaration and payment (NER-002) and customs duties have been paid through SONIBANK since 1 April 2026 (NER-005). Customs payment covers only some offices and filing of the main taxes and customs is not shown, so rung 4's whole row is not met.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

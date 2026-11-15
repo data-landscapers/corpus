@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-28-mus-communique-individual-income-tax-returns-e-filing-season-2026",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The MRA communique says facilities to pay individual income tax are available on its website.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "MRA website e-filing",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-gha-fintech-sector-report-2026-q1",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Bank of Ghana reports person-to-government wallet payments, including tax, port and duty payments, as a product in service in Q1 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Mobile money P2G",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

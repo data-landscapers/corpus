@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-11-gab-e-tax-le-gabon-passe-au-paiement-mobile-des-impots",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The DGI with Moov Africa Gabon Telecom launched e-Tax on 10 July 2025, letting taxpayers under 30m FCFA turnover pay taxes via Moov Money, first in Akanda, Owendo and Port-Gentil.",
+   "as_of": "2025-07-10",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "Gabon",
+   "class": "revenue",
+   "platform": "Moov Money",
+   "owner": "Direction générale des impôts",
+   "tiers": "small taxpayers"
+  }
+ ],
+ "note": ""
+}

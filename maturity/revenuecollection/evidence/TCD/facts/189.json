@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-21-tcd-digitalisation-et-simplification-des-procedures",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Director General of Taxes says the 2023 E-taxe module allows online payment of spontaneous tax payments.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "E-taxe",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-taxe",
+   "country_label": "Tchad",
+   "class": "other",
+   "platform": "sigi.finance.gouvt.td portal",
+   "owner": "Direction Generale des Impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-14-eth-ethiopia-expands-mobile-tax-payments-nationwide-through-telebirr",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Ethio telecom's update, reported by TechTrends Africa, says taxpayers can pay the federal Ministry of Revenues and twelve regional and city revenue authorities through telebirr app or USSD.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "telebirr",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "telebirr",
+   "country_label": "Ethiopia",
+   "class": "revenue",
+   "platform": "mobile money app and USSD",
+   "owner": "Ethio telecom",
+   "tiers": "federal and regional"
+  }
+ ],
+ "note": ""
+}

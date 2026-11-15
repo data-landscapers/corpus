@@ -1,0 +1,34 @@
+{
+ "slug": "2023-12-18-tgo-otr-la-creation-du-numero-dimmatriculation-fiscale-et-le-paiement-de-l",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "OTR announced the OTR TVM mobile app and web platform for paying the motor vehicle tax via Flooz or Tmoney, with a downloadable receipt.",
+   "as_of": "2023-12-18",
+   "date_precision": "day",
+   "system": "OTR TVM",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "nif.otr.tg",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "web",
+   "owner": "OTR",
+   "tiers": ""
+  },
+  {
+   "system": "OTR TVM",
+   "country_label": "Togo",
+   "class": "revenue",
+   "platform": "mobile app and web",
+   "owner": "OTR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

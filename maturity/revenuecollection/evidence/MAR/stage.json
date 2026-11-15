@@ -9,10 +9,10 @@
       "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-004",
-      "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MAR-013;MAR-004",
+      "gaps": "No source found since October 2023 names customs duties among the revenue filed and paid electronically.",
+      "note": "Reassessed 2026-11-15: the DGI's 2025 activity report puts tax revenue paid by tele-payment at 91.4% (MAR-013), renewing the 2023 figure of 91.1% (MAR-004). A reported share reaches stage 5 though customs duties are not shown paid electronically (later_yes).",
+      "as_at": "2026-11-15"
     }
   ]
 }

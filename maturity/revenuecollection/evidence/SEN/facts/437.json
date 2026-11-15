@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-09-sen-do-electronic-filing-and-payment-increase-tax-compliance-evidence-from",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The ICTD research brief says Senegal's Etax system lets taxpayers file and pay remotely, and it became mandatory in July 2017 for firms managed by the Large Taxpayers Centre.",
+   "as_of": "2017-07",
+   "date_precision": "month",
+   "system": "Etax",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Etax",
+   "country_label": "Etax",
+   "class": "revenue",
+   "platform": "",
+   "owner": "DGID Senegal",
+   "tiers": "Large Taxpayers Centre firms"
+  }
+ ],
+ "note": ""
+}

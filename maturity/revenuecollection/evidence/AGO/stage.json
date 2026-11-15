@@ -1,18 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "3",
-   "payment": "inservice",
-   "main": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-002",
-   "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-   "note": "First pass, reassessed 2026-10-27: the UN's 2025 survey reports electronic payment of customs duties partly in place, so some payment is in service. Nothing found says the main taxes are filed and paid electronically.",
-   "as_at": "2026-10-27"
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "5",
+      "payment": "inservice",
+      "main": "",
+      "reported": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-004;AGO-005",
+      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically. Customs e-payment was partial in 2025 (AGO-002).",
+      "note": "Reassessed 2026-11-15: Expansão's figure of about Kz 6.7 trillion, roughly 36% of 2025 current revenue, paid through RUPE (AGO-004) answers question 4, and AGO-005 and AGO-003 show taxes paid electronically. Under the later-yes rule that is stage 5, though the main taxes and duties are not shown filed and paid.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

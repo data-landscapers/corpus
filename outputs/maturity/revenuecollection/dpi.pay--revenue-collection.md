@@ -1,6 +1,6 @@
 # Revenue collection: revenue collection
 
-*As at 2026-11-04.*
+*As at 2026-11-15.*
 
 ## The norm
 
@@ -20,15 +20,29 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
-| 4 Operating | 3 |
-| 3 Established | 39 |
+| 5 Leading | 10 |
+| 4 Operating | 6 |
+| 3 Established | 34 |
 | 2 Nascent | 2 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 2 |
 
 ## Countries
+
+### Angola: 5 Leading
+
+In 2025 about 36% of current revenue, oil taxes excluded, was paid through the state payment reference; customs e-payment was only partial.
+
+- Expansao, from EMIS data, calculates that about Kz 6.7 trillion, roughly 36% of Kz 18.9 trillion current revenue, was paid through RUPE in 2025, excluding oil taxes ([source, 2025](https://expansao.co.ao/economia/detalhe/pagamentos-via-rupe-ja-valem-36-das-receitas-correntes-do-estado-70130.html)).
+- Angola's AGT directed that payment of taxes be made electronically as a general rule through the Portal do Contribuinte, with office help only where internet access or digital literacy is lacking ([source, 2026-07-07](https://valoreconomico.co.ao/artigo/fim-do-papel-agt-exige-via-digital-para-pagamento-de-impostos-e-reclamacoes)).
+
+### Benin: 5 Leading
+
+Nearly a third of state revenue was collected through digital channels in 2026; whether customs duties are paid electronically is not known.
+
+- The release says nearly a third of state revenue is now collected through digital channels ([source, 2026-03-25](https://anssfd.bj/benin-la-digitalisation-des-paiements-publics-double-les-ressources-de-letat-et-accelere-linclusion-financiere/)).
+- The release says taxpayers can now declare and pay taxes online, by automated bank transfer or mobile money, with instant receipts ([source, 2026-03-25](https://anssfd.bj/benin-la-digitalisation-des-paiements-publics-double-les-ressources-de-letat-et-accelere-linclusion-financiere/)).
 
 ### Cote d'Ivoire: 5 Leading
 
@@ -67,8 +81,9 @@ A figure for revenue paid electronically was reported in 2026.
 
 ### Morocco: 5 Leading
 
-A figure for revenue paid electronically was reported in 2023.
+In 2025, 91.4% of tax revenue was paid electronically; whether customs duties are paid electronically is not known.
 
+- The DGI 2025 activity report, as reported by le360, puts the share of tax revenue paid by tele-payment at 91.4% in 2025 (91.2% in 2024) ([source, 2025](https://fr.le360.ma/economie/impots-914-des-recettes-fiscales-encaissees-par-telepaiement-en-2025_UYH2TYM6ENA5HCQIPRGMWZML44/)).
 - The DGI figures show 91.1% of 2023 receipts were paid online (telepayee) ([source, 2023](https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl)).
 
 ### Togo: 5 Leading
@@ -79,10 +94,18 @@ A figure for revenue paid electronically was reported in 2025.
 
 ### Zambia: 5 Leading
 
-A figure for revenue paid electronically was reported in 2026.
+In 2024 the revenue authority said about 99 percent of its payments, customs included, were made electronically.
 
-- The Ministry of Finance and National Planning data cited say about K21.7 million was collected through the Government Services Bus in the month since the June 2026 rollout to eight councils ([source, 2026-07](https://zambianbusinesstimes.com/k22-million-collected-from-8-councils-via-electronic-payments/)).
+- ZRA's Oliver Nzala says about 99 percent of payments were performed electronically, and electronic adoption reached 80 percent after working with all banks and three mobile network providers by 2020 ([source, 2024-02](https://www.dailynationzambia.com/2024/02/zra-adopts-advanced-technology-system-in-income-collection/)).
+- ZRA says that in December 2023 it implemented the Integrated Payment System, introducing customs payments on mobile platforms alongside its tax payment platforms ([source, 2023-12](https://www.dailynationzambia.com/2024/02/zra-adopts-advanced-technology-system-in-income-collection/)).
 - The Office of the Accountant General says Zambia's digital payment and service platforms have collected more than K8.8 billion (US$488 million) ([source, 2026-07-10](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2)).
+
+### Cameroon: 4 Operating
+
+In 2026 taxes were declared and paid online and customs duties could be paid digitally; the electronic share is not reported.
+
+- An editorial says the tax directorate has for several years dematerialised all its procedures so that tax declaration and payment are made online, now including the local taxes unified as the Impot General Synthetique ([source, 2026-06-01](https://actucameroun.com/2026/06/02/recouvrement-des-impots-locaux-le-coup-de-pouce-salutaire-de-ladministration-fiscale/)).
+- Visa's Cameroon country manager says customs-duty payment through the GUCE x BGFIBank Business Card, linked to GUCE, Trustpayway and Visa systems, is now fully digital ([source, 2026-03-31](https://haurizonnews.com/vers-une-douane-sans-cash-visa-bgfibank-le-guce-et-trustpayway-misent-sur-la-digitalisation-du-paiement)).
 
 ### Cape Verde: 4 Operating
 
@@ -99,11 +122,25 @@ Chad's main taxes are filed and paid online and customs duties paid electronical
 - Chad's customs e-payment system, launched 21 February 2024, lets all customs duties and taxes be paid electronically by SYDONIA World tele-payment, bank transfer or mobile money, with an automatic receipt ([source, 2024-02-21](https://douanes.td/e-douane/e-paiement/)).
 - The Director General of Taxes said that through the E-Tax platform, launched in 2022, anyone can declare and pay taxes online, with banks and mobile operators facilitating electronic payments ([source, 2025-08-29](https://tchadinfos.com/2025/08/29/la-direction-generale-des-impots-lance-une-campagne-nationale-de-sensibilisation-sur-le-civisme-fiscal-et-la-plateforme-e-tax/)).
 
+### Congo: 4 Operating
+
+Since 2026 taxes and customs duties are filed and paid online through a national switch; the electronic share is not reported.
+
+- Since 3 August 2026 Congolese taxpayers can pay taxes, levies and customs duties online through the Fouta national switch after filing on the E-Tax or Sydonia platforms, with an electronic Treasury receipt issued, according to L'Economie ([source, 2026-08-03](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/)).
+- MTN Congo's page says taxpayers fill in their tax declaration on impots.gouv.cg and pay e-tax and e-douane bills by MTN Mobile Money, free of charge, from 1 to 750,000 FCFA ([source, 2024-11-20](https://www.mtn.cg/momo/particuliers/e-pay-for-e-tax-e-douane/)).
+
 ### Lesotho: 4 Operating
 
 The main taxes and customs duties were filed and paid electronically in 2026; the electronic share is not reported.
 
 - Revenue Services Lesotho says individuals and businesses can pay Corporate Income Tax, PAYE, VAT and customs duties electronically through the new RSL-SLB e-payment system ([source, 2026-02-11](https://www.lena.gov.ls/rsl-slb-launch-e-payment-integration)).
+
+### Mauritius: 4 Operating
+
+In 2025 the main taxes and customs duties were paid electronically; the share of revenue paid electronically is not known.
+
+- The MRA says companies pay corporate tax, VAT, PAYE, APS and TDS electronically, including PRGF e-payment through its website ([source, 2025-04](https://www.mra.mu/download/TaxBasicsForNewlyIncorporatedCompanies.pdf)).
+- The TradeNet portal page of Mauritius Network Services says commercial banks are linked to it, enabling electronic payment of duties and taxes, and a 10 March 2025 notice says electronic payment instructions are processed on it ([source, 2025-03-10](https://tradenetmns.mu/WEBVEHICLE/Index)).
 
 ### Algeria: 3 Established
 
@@ -111,19 +148,6 @@ Some taxes or fees could be paid electronically in 2026; no source found reports
 
 - The DGI's Jibayatic platform lets taxpayers file declarations and pay taxes and duties online by bank transfer or CIB or Edahabia card, mandatory for large enterprises and optional for others, for taxes from electronic declarations only ([source, 2026-08](https://www.echoroukonline.com/bank-cards-and-transfers-introduced-for-tax-payments)).
 - The GIE Monetique director says electronic payment in the public sector is almost fully generalised, covering payment of taxes, bills, insurance, fees and administrative documents ([source, 2026-08-20](https://www.elmoudjahid.dz/fr/economie/assia-benchabla-queiroz-directrice-du-gie-de-nombreux-obstacles-entravent-le-paiement-electronique-en-algerie-236510)).
-
-### Angola: 3 Established
-
-Angola's customs duties could partly be paid electronically in 2025; no source found says whether the main taxes are filed and paid electronically.
-
-- The UN Global Survey 2025 round reports electronic payment of customs duties in Angola as partially implemented ([source, 2025](https://www.untfsurvey.org/economy?id=AGO)).
-
-### Benin: 3 Established
-
-Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
-
-- SIRATPay, run by SIRAT SA with the ministries of Living Environment and of Economy and Finance, lets Benin motorists pay road tolls and penalties remotely without cash, per Fraternité ([source, 2026-03-19](https://fraternite.bj/siratpay-le-paiement-numerique-simplifie-les-peages-au-benin/)).
-- The Senegalese finance minister said PI-SPI, launched 30 September 2025, facilitates payments of taxes, duties and fees among other operations ([source, 2025-09-30](https://lanation.bj/economie/lancement-du-systeme-de-paiement-instantane-interoperable-la-pi-spi-une-solution-rapide-et-inclusive-au-profit-des-citoyens-uemoa)).
 
 ### Botswana: 3 Established
 
@@ -145,26 +169,12 @@ Some taxes or fees could be paid electronically in 2026; no source found reports
 - Burundi's finance and digital economy minister said the E-Kori tax collection platform, supported by the World Bank-funded PAFEN project, already allows online payment and online filing for some taxpayers ([source, 2026-06-11](https://burundi-eco.com/le-gouvernement-accelere-t-il-la-digitalisation-des-services-publics/)).
 - The OBR launched the e-KORI platform for online tax filing and the payment of taxes and fees on 19 January 2026 ([source, 2026-01-19](https://techafricanews.com/2026/01/22/burundi-modernizes-tax-and-non-tax-revenue-collection-with-ekori-launch)).
 
-### Cameroon: 3 Established
-
-Some taxes or fees could be paid electronically in 2025; no source found reports the main taxes and duties.
-
-- The Ministry of Finance's Tresor Pay lets citizens pay non-tax revenues online by mobile money, bank card or Campost counters, and a Prime Minister's order of 28 May 2025 requires departments to use it exclusively within three months ([source, 2025-05-28](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-mandates-digital-payment-platform-for-non-tax-revenues)).
-- AfricaNenda says GIMACPAY enables tax payments and e-government services, and the treasury of Cameroon is the only treasury connected to date ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
-
 ### Central African Republic: 3 Established
 
 Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
 
 - Orange Centrafrique, Webb Fontaine and NGSER launched automated payment of the DPI (prior import declaration) customs fee through Orange Money, with receipts passed in real time to the SYDONIA customs system ([source, 2026-07-03](https://investirencentrafrique.com/2026/07/03/orange-centrafrique-et-webb-fontaine-lancent-le-paiement-automatise-de-la-redevance-dpi-via-orange-money/)).
 - Agence Ecofin reports that the Central African tax administration launched the e-Tax platform on 24 March 2025 for online payment of taxes, with online tax information, declaration and payment, in four modules including registration for the unique taxpayer identification number (NIU) ([source, 2025-03-24](https://www.agenceecofin.com/actualites-numerique/2503-126985-la-centrafrique-lance-officiellement-e-tax-sa-plateforme-de-paiement-d-impots-en-ligne)).
-
-### Congo: 3 Established
-
-Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
-
-- Since 3 August 2026 Congolese taxpayers can pay taxes, levies and customs duties online through the Fouta national switch after filing on the E-Tax or Sydonia platforms, with an electronic Treasury receipt issued, according to L'Economie ([source, 2026-08-03](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/)).
-- Arrete no. 1009 of 22 May 2026 makes payment of public revenue exclusively electronic through the FOUTA platform, described as a national switch for tax and customs collection, with a 60-day compliance period ([source, 2026-05-22](https://sgg.cg/JO/2026/congo-jo-2026-24-2.pdf)).
 
 ### DR Congo: 3 Established
 
@@ -175,9 +185,10 @@ Two provinces put provincial tax payment online in 2026; whether the main taxes 
 
 ### Eswatini: 3 Established
 
-Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
+In 2026 income tax was filed and paid online and customs duties paid through a bank; whether VAT is filed online is not known.
 
-- Eswatini Positive News reports the Eswatini Revenue Service launched the Tax Ease portal, working from 4 March 2024, with integrated payments for taxpayers to pay their taxes ([source, 2024-03-04](https://eswatinipositivenews.com/ers-launches-tax-portal/)).
+- ERS says filing and payment of the 2026 annual returns is 100 per cent online through Tax-Ease or the TaxPAL app, with payment by EFT, bank deposit, MoMo Pay or speed point, and no manual returns accepted ([source, 2026-10-19](https://swazidailynews.com/11479/national/your-side-hustle-could-cost-you-if-you-dont-file-ers-warns/)).
+- Eswatini Daily News reports ERS officials saying 2025/26 income tax returns must be filed electronically through eFiling and tax can be paid by EFT, bank deposit, Mobile Money or card, with a 30 November 2026 deadline ([source, 2026-11-10](https://swazidailynews.com/11962/business/ers-targets-multiple-income-earners-ahead-of-deadline/)).
 - The Eswatini Revenue Service launched its Integrated Payment Solution with FNB Eswatini on 12 June 2026, so customs duties and import VAT can be paid through the bank; domestic tax payments are the next phase ([source, 2026-06-12](https://www.linkedin.com/posts/brightwell-nkambule-9997209_today-we-launched-the-ers-integrated-payment-activity-7471306041775849472-7YZM)).
 
 ### Ethiopia: 3 Established
@@ -247,13 +258,6 @@ Some taxes or fees could be paid electronically in 2026; no source found reports
 
 - The guide says mobile money is integrated into public service delivery, such as paying Digital ID renewal fees ([source, 2026-06-08](https://www.trade.gov/country-commercial-guides/malawi-digital-economy)).
 
-### Mauritius: 3 Established
-
-In 2025 Mauritian taxpayers filed income tax returns online and paid customs duties electronically; no source found shows all main taxes filed and paid online.
-
-- The Mauritius Revenue Authority states that VAT charged or collected by foreign digital-service suppliers must be remitted electronically to the MRA, and lists online VAT registration, electronic submission of VAT returns and electronic payment of VAT due as available facilities from 1 January 2026 ([source, 2026-01-01](https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers)).
-- The TradeNet portal page of Mauritius Network Services says commercial banks are linked to it, enabling electronic payment of duties and taxes, and a 10 March 2025 notice says electronic payment instructions are processed on it ([source, 2025-03-10](https://tradenetmns.mu/WEBVEHICLE/Index)).
-
 ### Mozambique: 3 Established
 
 Some taxes or fees could be paid electronically in 2023; no source found reports the main taxes and duties.
@@ -268,9 +272,10 @@ Some taxes or fees could be paid electronically in 2025; no source found reports
 
 ### Niger: 3 Established
 
-Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
+Taxes are filed and paid online, and since 2026 customs duties are paid through a bank at some offices; nationwide coverage is not known.
 
 - The Niger Direction Générale des Impôts states that its e-sisic portal for electronic declaration and payment of taxes has been operational since 13 September 2019 ([source, 2026-08-05](https://finances.gouv.ne/index.php/communiques-de-presse/666-communique-de-la-direction-generale-des-impots-relatif-a-la-declaration-et-au-paiement-des-impots-et-taxes-par-voie-electronique)).
+- Niger's customs director general announced customs duties and taxes on declarations are paid electronically through SONIBANK counters, payment terminals and ATMs from 1 April 2026, initially at offices where SONIBANK has counters ([source, 2026-04-01](https://www.lesahel.org/point-de-presse-a-la-direction-generale-des-douanes-les-operations-de-paiement-electronique-en-banque-des-droits-et-taxes-liquides-en-douanes-reprennent-le-1er-avril-2026/)).
 
 ### Nigeria: 3 Established
 
@@ -286,8 +291,9 @@ Fees for public services were paid online by mobile money in 2026; whether the m
 
 ### Sao Tome and Principe: 3 Established
 
-Some taxes or fees could be paid electronically in 2025; no source found reports the main taxes and duties.
+Customs duties must be paid electronically from October 2026; whether the main taxes are filed and paid online is not known.
 
+- The Autoridade Geral Aduaneira says electronic payment of customs declarations through participating banks, using a 20-digit reference, entered operation on 1 September 2026, with electronic channels mandatory from 1 October 2026 ([source, 2026-09-01](https://www.kezir.st/announcements/750389679240511488)).
 - The Minister of State, Economy and Finance said the new Sydonia introduced real-time electronic payments with direct integration with national banks, for customs revenue ([source, 2025-05-23](https://rstp.st/2025/05/27/autoridade-geral-aduaneira-avanca-na-reforma-digital-com-nova-versao-do-sydonia-world/)).
 
 ### Senegal: 3 Established

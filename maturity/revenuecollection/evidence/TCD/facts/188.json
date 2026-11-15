@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-30-tcd-economie-la-direction-generale-des-impots-appelle-les-contribuables-a",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The director general of taxes and UBA Tchad say taxes can be paid online through E-Tax via mobile banking, internet banking or bank card.",
+   "as_of": "2023-11-30",
+   "date_precision": "day",
+   "system": "E-Tax",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Tax",
+   "country_label": "Chad",
+   "class": "revenue",
+   "platform": "https://sigi.finances.gouv.td/portail",
+   "owner": "Direction generale des impots",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

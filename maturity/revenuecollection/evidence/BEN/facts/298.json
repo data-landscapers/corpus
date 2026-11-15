@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-25-ben-benin-la-digitalisation-des-paiements-publics-double-les-ressources-de",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The release says taxpayers can now declare and pay taxes online, by automated bank transfer or mobile money, with instant receipts.",
+   "as_of": "2026-03-25",
+   "date_precision": "day",
+   "system": "Plateforme Nationale des Paiements Electroniques (PNPE)",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The release says nearly a third of state revenue is now collected through digital channels.",
+   "as_of": "2026-03-25",
+   "date_precision": "day",
+   "system": "Plateforme Nationale des Paiements Electroniques (PNPE)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plateforme Nationale des Paiements Electroniques (PNPE)",
+   "country_label": "Benin",
+   "class": "revenue",
+   "platform": "multichannel payments platform",
+   "owner": "Government of Benin",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

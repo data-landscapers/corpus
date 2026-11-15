@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "3",
+      "stage": "4",
       "payment": "inservice",
-      "main": "",
+      "main": "main",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-001;MUS-004",
-      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically; no figure for revenue paid electronically has been found.",
-      "note": "Reassessed 2026-11-13: some taxes and customs duties are paid electronically, but no source names the main taxes filed and paid online, as Lesotho and Chad have; staged with Burkina Faso, Cabo Verde and Namibia at 3.",
-      "as_at": "2026-11-13"
+      "stage_sources": "MUS-009;MUS-004",
+      "gaps": "No source found since October 2023 gives a figure for revenue paid electronically.",
+      "note": "Reassessed 2026-11-15: the MRA says companies pay corporate tax, VAT, PAYE, APS and TDS electronically (MUS-009, April 2025), and customs duties and taxes are paid through TradeNet (MUS-004), the pair Chad and Cameroon hold at 4. No figure for the electronic share has been found.",
+      "as_at": "2026-11-15"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-11-caf-fiscalite-bangui-menace-de-sanctionner-les-grandes-entreprises-qui-bou",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The finance minister's communiqué of 7 August 2025 says e-Tax, the online filing and payment platform, was officially launched more than five months earlier and that taxes are to be paid online through it, though over half of the large taxpayers concerned do not yet use it.",
+   "as_of": "2025-08-07",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "Central African Republic",
+   "class": "revenue",
+   "platform": "online filing and payment platform",
+   "owner": "Ministry of Finance and Budget",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

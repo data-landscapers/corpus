@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-07-ken-kra-to-link-real-time-tax-systems-to-m-pesa-for-easier-compliance",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "KRA plans to integrate eTIMS with M-Pesa and other providers to auto-generate payment registration numbers and enable instant tax settlement; no go-live date is given.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "eTIMS",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eTIMS",
+   "country_label": "eTIMS",
+   "class": "other",
+   "platform": "",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

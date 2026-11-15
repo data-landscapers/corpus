@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-dza-main-measures-of-the-2026-finance-law",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The booklet on Algeria's 2026 Finance Law says taxpayers under the real-profit regime in tax services equipped with IT solutions must file electronically with the option to pay taxes and duties electronically, and IFU taxpayers may file and pay electronically.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "DGI information system",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DGI information system",
+   "country_label": "Algeria",
+   "class": "revenue",
+   "platform": "",
+   "owner": "General Directorate of Taxes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

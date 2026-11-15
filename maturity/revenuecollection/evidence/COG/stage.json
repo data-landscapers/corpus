@@ -1,17 +1,18 @@
 {
- "iso3": "COG",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "3",
-   "payment": "inservice",
-   "main": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COG-001;COG-003",
-   "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
-  }
- ]
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "4",
+      "payment": "inservice",
+      "main": "main",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COG-001;COG-007",
+      "gaps": "No source found since October 2023 gives a figure for revenue paid electronically. Fouta was still rolling out to all taxpayers by the end of 2026 (COG-002).",
+      "note": "Reassessed 2026-11-15: COG-001 (August 2026) has taxpayers filing on E-Tax or Sydonia and paying taxes and customs duties online through Fouta, and COG-007 (2024) has e-tax and e-douane bills paid by mobile money, so the main taxes and customs duties are filed and paid electronically. No figure for revenue paid electronically, so not stage 5.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

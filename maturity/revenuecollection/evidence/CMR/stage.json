@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "3",
-   "payment": "inservice",
-   "main": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-001;CMR-003",
-   "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "4",
+      "payment": "inservice",
+      "main": "main",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-008;CMR-009",
+      "gaps": "No source found since October 2023 gives a figure for revenue paid electronically.",
+      "note": "Reassessed 2026-11-15: CMR-008 (June 2026, tax declarations and payments online) with CMR-009 (March 2026, customs duties paid digitally through the GUCE card) shows the main taxes filed and paid and customs duties paid electronically, the pairing CPV holds stage 4 on. No figure for revenue paid electronically, so not stage 5.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

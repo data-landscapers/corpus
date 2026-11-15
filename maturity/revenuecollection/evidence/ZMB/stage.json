@@ -1,17 +1,18 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "5",
-   "payment": "inservice",
-   "main": "main",
-   "reported": "reported",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-002;ZMB-004",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "5",
+      "payment": "inservice",
+      "main": "main",
+      "reported": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-010;ZMB-009;ZMB-004",
+      "gaps": "",
+      "note": "Reassessed 2026-11-15: the revenue authority said in February 2024 that about 99 percent of its payments are electronic (ZMB-010) and that customs payments joined its tax payment platforms in December 2023 (ZMB-009). Every rung is now shown by its own row.",
+      "as_at": "2026-11-15"
+    }
+  ]
 }

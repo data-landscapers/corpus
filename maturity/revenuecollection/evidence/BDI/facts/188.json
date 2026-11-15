@@ -1,0 +1,34 @@
+{
+ "slug": "2025-08-01-bdi-lancement-du-paiement-des-impots-et-taxes-via-la-plateforme-cashtel-ce",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Office Burundais des Recettes says small and micro taxpayers can pay taxes and non-tax revenue by e-money through CASHTEL agents, launched 6 August 2025, and CASHTEL's head says over 70 types of tax can be paid by mobile phone.",
+   "as_of": "2025-08-06",
+   "date_precision": "day",
+   "system": "CASHTEL",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CASHTEL",
+   "country_label": "Burundi",
+   "class": "revenue",
+   "platform": "e-money agents",
+   "owner": "CASHTEL (OBR partner)",
+   "tiers": ""
+  },
+  {
+   "system": "e-kori",
+   "country_label": "Burundi",
+   "class": "revenue",
+   "platform": "online filing and payment",
+   "owner": "OBR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

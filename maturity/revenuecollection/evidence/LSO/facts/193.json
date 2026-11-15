@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-16-lso-implementation-progress-and-results-lesotho-tax-modernisation-project",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The AfDB implementation report of September 2025 says the project developed VAT, PAYE and CIT e-filing, e-registration and e-payment integration with a payment gateway for Revenue Services Lesotho.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "e-tax engine with e-filing and payment gateway integration",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-tax engine (VAT, PAYE, CIT e-filing, e-registration, payment gateway)",
+   "country_label": "Lesotho",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Revenue Services Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

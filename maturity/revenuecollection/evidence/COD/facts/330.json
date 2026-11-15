@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-23-cod-modalites-dutilisation-des-canaux-digitaux-dans-le-processus-de-paieme",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Ministerial Circular No. 001 of 18 January 2024 lets banks and e-money institutions collect central-government taxes, duties and fees through digital channels, with banks remitting to the Treasury within 24 hours via the ISYS-Regies software, for DGI, DGDA and DGRAD.",
+   "as_of": "2024-01-18",
+   "date_precision": "day",
+   "system": "Circulaire ministerielle N°001 digital collection (ISYS-Regies)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

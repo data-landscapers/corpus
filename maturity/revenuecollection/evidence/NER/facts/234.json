@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-13-ner-actuniger-soniloga-amana-guan-paiement-numerique",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "SONILOGA and Amana Transfert d'Argent signed a convention on 12 November 2026 letting users of the Guichet unique automobile pay fees tied to vehicle import, clearance and registration remotely through the AmanaTa app, adding to NITA as a payment partner.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "GUAN payment via AmanaTa",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guichet unique automobile (GUAN)",
+   "country_label": "GUAN",
+   "class": "revenue",
+   "platform": "",
+   "owner": "SONILOGA S.A.",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

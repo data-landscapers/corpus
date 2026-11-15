@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-01-lbr-orange-mtn-mobile-money-users-to-enjoy-instant-cross-network-transfers",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Central Bank of Liberia says taxes paid by mobile money are routed through IIPS to the Central Bank.",
+   "as_of": "2025-11-28",
+   "date_precision": "day",
+   "system": "IIPS (Instant Inclusive Payment System)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

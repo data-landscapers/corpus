@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-12-som-wasiirka-maaliyadda-oo-shaaciyay-dhaqangalinta-hannaan-casri-ah-oo-can",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Finance Minister Biixi Iimaan Cige announced the ministry has implemented a modern system to collect sales tax electronically, with the official move to it still to come.",
+   "as_of": "2024-07-12",
+   "date_precision": "day",
+   "system": "electronic sales-tax collection system",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-29-lso-rsl-adds-new-digital-tax-payment-platform",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Newsday reports Revenue Services Lesotho launched an e-payment solution with Sasai Econet Financial Services letting taxpayers pay taxes and customs duties through the RSL website with EcoCash wallets, processed in real time.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "RSL e-payment (EcoCash integration)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RSL e-payment (EcoCash integration)",
+   "country_label": "Lesotho",
+   "class": "revenue",
+   "platform": "RSL website",
+   "owner": "Revenue Services Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -4,3 +4,5 @@ NER,e-sisic,Niger,revenue,e-sisic portal (Système Informatisé de Suivi des Imp
 NER,Terminaux de paiement electronique (TPE),Niger,revenue,,Ville de Niamey / Programme Village Intelligent,,2025-08-21-ner-100-terminaux-de-paiement-electronique-pour-niamey
 NER,PAPSS,Niger,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 NER,GUCE-Niger,Guichet Unique du Commerce Exterieur,revenue,Webb Fontaine Single Window,Government of Niger,,2026-09-09-ner-niger-is-transforming-foreign-trade-procedures-with-webb-single-window
+NER,SONIBANK electronic customs payment,Niger,revenue,SONIBANK,Direction Generale des Douanes,,2026-03-31-ner-point-de-presse-a-la-direction-generale-des-douanes-les-operations-de
+NER,Guichet unique automobile (GUAN),GUAN,revenue,,SONILOGA S.A.,,2026-11-13-ner-actuniger-soniloga-amana-guan-paiement-numerique

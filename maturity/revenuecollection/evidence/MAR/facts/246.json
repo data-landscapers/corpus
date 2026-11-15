@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-04-mar-impots-91-4-des-recettes-fiscales-encaissees-par-telepaiement-en-2025",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Morocco's DGI says SIMPL teleservices let taxpayers declare and pay taxes electronically, with 12,304,943 tele-payments in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SIMPL",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The DGI 2025 activity report, as reported by le360, puts the share of tax revenue paid by tele-payment at 91.4% in 2025 (91.2% in 2024).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SIMPL",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIMPL",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "web",
+   "owner": "DGI",
+   "tiers": ""
+  }
+ ],
+ "note": "Customs duties not stated, so no fact for the main aspect."
+}

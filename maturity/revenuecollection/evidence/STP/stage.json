@@ -9,10 +9,10 @@
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "STP-001",
-      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "STP-002;STP-001",
+      "gaps": "Customs declarations are paid through banks, mandatory from October 2026, but no source says the main taxes are filed online: taxes are paid by bank transfer with forms exchanged by email. No figure for revenue paid electronically.",
+      "note": "Reassessed 2026-11-15: electronic payment of customs declarations began on 1 September 2026 and is mandatory from 1 October (STP-002), and taxes are paid by bank transfer (STP-003). The main taxes are not shown filed and paid online, so rung 4's whole row is not met.",
+      "as_at": "2026-11-15"
     }
   ]
 }

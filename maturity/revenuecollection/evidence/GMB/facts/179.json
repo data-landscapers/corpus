@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-23-gmb-gra-hosts-workshop-on-itas",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Gambia Revenue Authority says its new ITAS, being introduced ahead of full rollout, will let taxpayers file returns and make payments online (e-filing, e-payment).",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Integrated Tax Administration System (ITAS)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Tax Administration System (ITAS)",
+   "country_label": "ITAS",
+   "class": "revenue",
+   "platform": "World Bank-funded Public Administration Modernisation for Citizen-Centric Service Delivery Project",
+   "owner": "Gambia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

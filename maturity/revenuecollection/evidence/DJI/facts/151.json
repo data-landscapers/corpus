@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-13-dji-adi-corridor-djibouti-ethiopie-paiement-mobile-numero-vert",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DPCR SA road-use fee payment by Mobile Money",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "Mobile Money",
+   "owner": "DPCR SA",
+   "tiers": ""
+  }
+ ],
+ "note": "Fee is collected by a corridor company; document does not say it is a state tax or fee."
+}

@@ -8,3 +8,7 @@ TCD,012,payment,inservice,revalued: main:main,Rebuild 2026-11-13: E-Tax pays all
 TCD,013,payment,inservice,revalued: main:main,Rebuild 2026-11-13: customs e-payment takes all duties and taxes since February 2024; with TCD-012 the rung-4 row
 SDN,010,main,main,revalued: payment:inservice,"Rebuild 2026-11-13: Isali collects budgeted fees and links to ASYCUDA, but SDN-013 says tax e-payment channels are still being activated; no filing and payment of the main taxes shown"
 CPV,002,payment,inservice,revalued: main:main,"Housekeeping 68: customs clearance paid online by DUC reference; with CPV-001, tax returns filed and taxes paid through the DNRE portal, the rung-4 pair"
+CMR,009,payment,inservice,revalued: main:main,"Stage 4c 2026-11-15: customs duties paid digitally through the GUCE card; with CMR-008, tax declarations and payments online, the rung-4 pair"
+COG,001,payment,inservice,revalued: main:main,"Stage 4c 2026-11-15: taxpayers file on E-Tax or Sydonia and pay taxes and customs duties online through Fouta; with COG-007, the rung-4 row"
+MUS,009,payment,inservice,revalued: main:main,"Stage 4c 2026-11-15: companies pay corporate tax, VAT, PAYE, APS and TDS electronically; with MUS-004, customs duties and taxes paid electronically through TradeNet, the rung-4 pair"
+RWA,006,payment,underway,removed,"Stage 4c 2026-11-15: a JICA newsletter's passing account of a World Bank plan to introduce an e-tax system; RRA e-filing and payment have been in service since 2013 (RWA-001, RWA-002), so it is not a fact about how Rwanda's taxes are paid"

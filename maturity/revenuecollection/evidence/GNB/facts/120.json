@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-01 Guinea-Bissau - Further Improvements in Tax Compliance (IMF technical assistance)",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The IMF says electronic tax payment options in Guinea-Bissau rose from zero to six since March 2022.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Kontaktu",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
