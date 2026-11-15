@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-23-tcd-tchad-l-etat-opte-pour-une-gestion-publique-100-numerique-des-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "FEN (Facturation Electronique Normalisee)",
+   "country_label": "FEN",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "FEN e-invoicing is not an e-procurement system; no tender system stated."
+}

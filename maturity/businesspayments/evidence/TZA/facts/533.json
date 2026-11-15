@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-16-tza-govt-accelerates-digital-revolution-in-100-days",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The ministry says registered start-ups can now compete for public tenders after the Safari Hunt System was integrated with the National Electronic Public Procurement System (NeST).",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "NeST",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NeST",
+   "country_label": "Tanzania",
+   "class": "procurement",
+   "platform": "National Electronic Public Procurement System",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

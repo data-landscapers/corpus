@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-17-gin-guinea-at-the-heart-of-africa-s-digital-transformation-smart-africa-an",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Smart Africa's release says Guinea's Chief of Staff to the Presidency officially launched TELEMO, a national e-procurement platform, on behalf of the Head of State at the Transform Africa Summit in Conakry.",
+   "as_of": "2025-11-17",
+   "date_precision": "day",
+   "system": "TELEMO",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TELEMO",
+   "country_label": "Guinea",
+   "class": "procurement",
+   "platform": "national e-procurement platform",
+   "owner": "Government of Guinea",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-12-swz-build-supportive-ecosystem-for-entrepreneurship",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Times of Eswatini, reporting the World Bank's 2025 Eswatini Economic Update, refers to Eswatini's existing electronic government procurement (e-GP) system and urges tailoring it to connect start-ups and SMEs with public procurement opportunities.",
+   "as_of": "2025-08-12",
+   "date_precision": "day",
+   "system": "e-GP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-GP",
+   "country_label": "electronic government procurement system",
+   "class": "procurement",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-26-rwa-newsletter-vol-3-released-technical-cooperation-project-digital-innova",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "JICA says RISA is preparing implementation of a fourth proof of concept, an e-public procurement system for the Ministry of Finance and Economic Planning.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "e-public procurement system",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-public procurement system (4th PoC)",
+   "country_label": "e-public procurement system",
+   "class": "procurement",
+   "platform": "",
+   "owner": "MINECOFIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
