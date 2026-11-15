@@ -27,6 +27,9 @@ evidence under `maturity/{id}/evidence/`, and holds them to what the method prom
   URL held in `raw/`. A cell with no stage needs only its section and the closing lines.
 - **The typology.** `systems.csv` has its columns, real countries and classes in the list.
 - **The ids.** Each sub-indicator's id is the row it redraws (`adding-an-indicator.md` §2).
+- **The ladder agrees** (housekeeping 73). Where the study's ladder script counts by
+  `study_first_ladder`, it gives each country the published stage, counted at the cell's own
+  as-at, save the cells `LADDER_HELD` names with the ruling they stand on.
 
 Prose quality is not counted here: `house-style.md` and `AI-speak.md` are a reader's job.
 
@@ -228,6 +231,60 @@ def systems_problems(study: dict, rows: list[dict], countries: dict) -> list[str
     return out
 
 
+# Cells whose published stage stands on a ruling the ladder script does not count, or waits on
+# one (housekeeping 73). A held cell the script now agrees with fails as stale: strike it here.
+LADDER_HELD = {
+    ("civilserviceskills", "CMR"): "Bill, message 32: a programme open to all civil servants reaches across government",
+    ("educationexchange", "SEN"): "Bill, message 68: SEN unplaced",
+    ("disabilityaccess", "BEN"): "waits on messages-for-bill 144",
+    ("disabilityaccess", "LSO"): "waits on messages-for-bill 144",
+    ("disabilityaccess", "SWZ"): "waits on messages-for-bill 144",
+    ("disabilityaccess", "TUN"): "waits on messages-for-bill 144",
+}
+
+
+def ladder_problems(sid: str, study: dict, rows: list[dict]) -> list[str]:
+    """**The ladder agrees with the page** (housekeeping 73): where `study-ladder-{id}.py` counts
+    by `study_first_ladder`, its stage for each country, counted at the cell's own as-at, is the
+    published one. A disagreement means a row valued against its fact, a rule the script lacks or
+    a published cell that is wrong, and a full ladder run would silently move it."""
+    import datetime as dt
+    import importlib.util
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), f"study-ladder-{sid}.py")
+    try:
+        src = open(path, encoding="utf-8").read()
+    except OSError:
+        return []
+    if "study_first_ladder" not in src:
+        return []
+    import study_first_ladder as sfl
+    spec = importlib.util.spec_from_file_location("ladder_" + sid, path)
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    stager = getattr(mod, "stage", None) if "stager=stage" in src else sfl.stage
+    dates = [r["as_at"] for r in rows if r.get("as_at")]
+    if not dates:
+        return []
+    as_at = dt.date.fromisoformat(min(dates))   # the study's own; a logged cell carries a later one
+    here = study_lib.study_dir(sid)
+    fixes = study_lib.read_csv(os.path.join(here, "corrections.csv"))
+    out = []
+    for iso in sorted(study_lib.countries()):
+        ev, _ = sfl.correct(study_lib.read_csv(os.path.join(here, "evidence", iso, "evidence.csv")),
+                            [f for f in fixes if f["iso3"] == iso])
+        sp = os.path.join(here, "evidence", iso, "stage.json")
+        cell = study_lib.held_cells(sp).get(mod.SUB)
+        at = study_lib.counted_at(sp, as_at, mod.SUB)
+        got = str(stager(study, sfl.carried(ev, cell), at, mod.GAPS, mod.EMPTY, mod.UNPLACED)["stage"])
+        pub = str((cell or {}).get("stage", "(none)"))
+        held = LADDER_HELD.get((sid, iso))
+        if got != pub and not held:
+            out.append(f"{iso} at {at}: the ladder counts {got}, the page says {pub}")
+        elif got == pub and held:
+            out.append(f"{iso}: held in LADDER_HELD ({held}) but the ladder now agrees; strike it")
+    return out
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description="A maturity study's outputs, held to the method.")
     ap.add_argument("study")
@@ -290,6 +347,7 @@ def main(argv=None) -> int:
         problems += long_problems(study, iso, text, staged, urls, held)
     problems += systems_problems(study, study_lib.read_csv(os.path.join(out_dir, "systems.csv")),
                                  countries)
+    problems += ladder_problems(a.study, study, rows)
 
     for p in problems:
         print(f"lint-study: FAIL - {p}")
