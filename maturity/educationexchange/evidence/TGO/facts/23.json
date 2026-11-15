@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-31-tgo-using-dhis2-to-plan-teacher-deployment-and-school-construction-in-togo",
+ "facts": [],
+ "systems": [
+  {
+   "system": "StatEduc / DHIS2",
+   "country_label": "StatEduc and DHIS2 analytical layer (2026)",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of National Education",
+   "tiers": ""
+  }
+ ],
+ "note": "StatEduc to DHIS2 interoperability is only a mission recommendation; transfer is described as manual steps today."
+}

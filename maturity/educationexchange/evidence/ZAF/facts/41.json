@@ -1,0 +1,15 @@
+{
+ "slug": "2024-04-01-zaf-theme-1-introduction-and-awareness-introduction-to-sa-sams-modernisati",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SA-SAMS",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "OpenEMIS",
+   "owner": "Department of Basic Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Integration with other government systems is stated only as a capability the modernised system will have."
+}

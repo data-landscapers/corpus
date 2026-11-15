@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-03-ken-serikali-yatupa-nemis-ya-uhuru-yazindua-kemis-kusajili-wanafunzi-gredi",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Taifa Leo reports that a learner must hold a birth certificate to be registered on NEMIS, the ministry's learner system.",
+   "as_of": "2025-06-03",
+   "date_precision": "day",
+   "system": "NEMIS",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NEMIS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  },
+  {
+   "system": "KEMIS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

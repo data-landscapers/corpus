@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-05-zaf-learner-unit-record-information-and-tracking-system-data-2024",
+ "facts": [],
+ "systems": [
+  {
+   "system": "LURITS",
+   "country_label": "Learner Unit Record Information and Tracking System",
+   "class": "exchange",
+   "platform": "SA-SAMS",
+   "owner": "Department of Basic Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Names no link or data exchange with another education system or the national ID."
+}
