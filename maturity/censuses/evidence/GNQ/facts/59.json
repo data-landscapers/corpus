@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-21-gnq-vi-sesion-ordinaria-del-consejo-nacional-de-estadistica",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "At its 21 March 2025 session INEGE proposed to the Consejo Nacional de Estadistica a resolution creating the scientific committee of the V Censo General de Poblacion y Viviendas 2025.",
+   "as_of": "2025-03-21",
+   "date_precision": "day",
+   "system": "V Censo General de Poblacion y Viviendas 2025",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

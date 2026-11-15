@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-07-zaf-question-nw432-to-the-minister-of-electricity-and-energy",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The Minister of Electricity and Energy cites Census 2022 results giving 17.8 million households in South Africa.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Census 2022",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Census 2022",
+   "country_label": "Census 2022",
+   "class": "census",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

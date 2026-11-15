@@ -56,3 +56,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,EGY,data.statistics--censuses-and-surveys,fact,2,3,EGY-004;EGY-006,External claims (housekeeping 58): WDI and SPI list a census inside ten years; restaged to 3
 2026-11-11,BEN,data.statistics--censuses-and-surveys,fact,2,2,BEN-004;BEN-005,"External claims (housekeeping 58): WDI and SPI list a 2023 census, but INStaD began RGPH5 mapping in March 2024; both rows removed, stays 2"
 2026-11-12,KEN,data.statistics--censuses-and-surveys,fact,3,5,KEN-006;KEN-005;KEN-002,"Pollicy (2025) says the open data portal serves the 2019 census: results published; with the 2022 DHS published in 2024, every step is met"
+2026-11-15,TZA,data.statistics--censuses-and-surveys,fact,3,5,TZA-001;TZA-008;TZA-002,"Statistician General says the 2022 census report was released within 45 days of collection: results published, and with the ILFS 2025 survey the cell reaches 5"
+2026-11-15,RWA,data.statistics--censuses-and-surveys,fact,3,5,RWA-003;RWA-002;RWA-007,"A 2025 deck cites final 2022 census figures; read with NISR's February 2023 Main Indicators Report, results are published and with the 2025 DHS the cell reaches 5"
+2026-11-15,ETH,data.statistics--censuses-and-surveys,fact,unplaced,unplaced,,"Addis Fortune (June 2026) says no census since 2007 but calls it delayed, not abandoned; rung 1 not met, stays unplaced"
+2026-11-15,SSD,data.statistics--censuses-and-surveys,fact,2,2,SSD-007;SSD-004,"Census dossier and operations manual prepared in 2025 with UNFPA: preparation confirmed, stays at 2"

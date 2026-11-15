@@ -1,0 +1,27 @@
+{
+ "slug": "2024-09-25-dji-instad-evaluation-du-ssn-une-etape-cle-pour-le-renforcement-des-capaci",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "La Nation says INSTAD recently completed the third RGPH, with provisional results published in early September 2024.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "RGPH-3 2024",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "preliminary",
+   "fact": "La Nation says provisional results of the third RGPH were published in early September 2024.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "RGPH-3 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

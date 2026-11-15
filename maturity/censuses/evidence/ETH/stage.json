@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "The last census on record was counted in 2007. No census counted since October 2016 or in preparation since October 2023 has been found, and no source dated in the last three years says there is none.",
-      "note": "Only the 2007 census and its reports are held, outside the ten years, and no preparation of a successor has been found, so no rung is reached. No source says there is no census, so not stage 1.",
-      "as_at": "2026-10-24"
+      "gaps": "The last census on record was counted in 2007, and a June 2026 source says none has been completed since. No census in preparation since October 2023 has been found, and no source says none is being prepared.",
+      "note": "Addis Fortune (ETH-008, June 2026) says there has been no census since 2007 but calls the census delayed, not abandoned, so the whole of rung 1 is not met. No census counted in ten years or in preparation is held, so no rung is reached.",
+      "as_at": "2026-11-15"
     }
   ]
 }

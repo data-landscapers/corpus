@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-18-rwa-leveraging-interoperability-for-social-impact-in-rwanda",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The deck gives Rwanda's population as 13,246,394 individuals and 3,312,743 households from the 2022 Census.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Population and Housing Census 2022",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": "Results are cited as figures without saying preliminary or final, so no results fact."
+}

@@ -2,7 +2,7 @@
 
 ## Censuses and surveys
 
-**A census taken or in preparation.** [Radio Tamazuj quotes the NBS chair saying the Council of Ministers approved the budget for the census, which is still awaiting funding](<https://www.radiotamazuj.org/en/news/article/qa-census-should-be-rolled-out-before-elections-dr-ting>). [The last census, the 2008 Sudan Housing and Population Census, recorded a disability prevalence of 5.1% in South Sudan](<https://mgcsw.gov.ss/wp-content/uploads/2021/03/national-diability-plan-of-Action.pdf>). [That was 424,000 of 8.28 million people, in a census the plan calls controversial](<https://mgcsw.gov.ss/wp-content/uploads/2021/03/national-diability-plan-of-Action.pdf>).
+**A census taken or in preparation.** [With UNFPA support the Bureau of Statistics prepared a census dossier and an operations manual in 2025](<https://amnon.co.uk/2026/01/14/bureau-of-statistics-launches-new-website-as-south-sudans-data-capacity-grows/>). [Radio Tamazuj quotes the NBS chair saying the Council of Ministers approved the budget for the census, which is still awaiting funding](<https://www.radiotamazuj.org/en/news/article/qa-census-should-be-rolled-out-before-elections-dr-ting>). [The last census, the 2008 Sudan Housing and Population Census, recorded a disability prevalence of 5.1% in South Sudan](<https://mgcsw.gov.ss/wp-content/uploads/2021/03/national-diability-plan-of-Action.pdf>). [That was 424,000 of 8.28 million people, in a census the plan calls controversial](<https://mgcsw.gov.ss/wp-content/uploads/2021/03/national-diability-plan-of-Action.pdf>).
 
 **Results published.** No source found reports preliminary or final results of a census counted since October 2016. The nearest held fact: [Radio Tamazuj quotes the NBS chair saying the Council of Ministers approved the budget for the census, which is still awaiting funding](<https://www.radiotamazuj.org/en/news/article/qa-census-should-be-rolled-out-before-elections-dr-ting>).
 
@@ -10,4 +10,4 @@
 
 ***Also on file***. [Annual Education Census 2023](<https://mogei.gov.ss/super/assets/documents/resources/2023%20Nat-Education%20Census%20Report_Final.pdf>); [Census Development Tool](<https://www.eyeradio.org/statistics-bureau-develops-population-data-collection-tool-ahead-of-2026-elections/>); [Food Security and Livelihood Cluster household survey 2016](<https://mgcsw.gov.ss/wp-content/uploads/2021/03/national-diability-plan-of-Action.pdf>); [NBS population projection to 2030](<https://www.onecitizendaily.com/index.php/2026/07/23/south-sudans-population-is-projected-to-reach-20-million-by-2030/>).
 
-***Not found***. No census counted since October 2016 has been found, and the approved census budget was still awaiting funding in 2024.
+***Not found***. No census counted since October 2016 has been found, and no date for the next one is known.

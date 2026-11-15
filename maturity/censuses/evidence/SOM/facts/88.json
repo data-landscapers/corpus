@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-22-som-somalia-energy-and-electricity",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The US International Trade Administration's guide cites the 2023 Somali Household Budget Survey (Somali Government Integrated Household Budget Survey) as estimating 61.9 percent of the population had access to electricity.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Somali Integrated Household Budget Survey 2023",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somali Integrated Household Budget Survey",
+   "country_label": "Household Budget Survey 2023",
+   "class": "census",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

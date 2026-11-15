@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-17-syc-seychelles-sadc-regional-workshop-on-the-use-of-administrative-data-so",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The presentation shows a labour market overview drawn from Census 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Census 2022",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "census",
-      "stage": "3",
+      "stage": "5",
       "census": "taken",
-      "results": "",
-      "survey": "",
+      "results": "final",
+      "survey": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-002",
-      "gaps": "No source found reports preliminary or final results of the census published.",
-      "note": "Counted from the four questions by study-ladder-censuses.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "RWA-003;RWA-002;RWA-007",
+      "gaps": "",
+      "note": "The 2022 census was counted in August 2022 and its Main Indicators Report published in February 2023 (RWA-002), and the 2025 DHS final report was published in 2026 (RWA-003), so all four questions are yes.",
+      "as_at": "2026-11-15"
     }
   ]
 }

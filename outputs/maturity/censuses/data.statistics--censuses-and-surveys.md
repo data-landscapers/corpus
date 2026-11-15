@@ -20,9 +20,9 @@ The African Charter on Statistics (2009) and SHaSA 2 ask each country to produce
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 10 |
+| 5 Leading | 12 |
 | 4 Operating | 12 |
-| 3 Established | 21 |
+| 3 Established | 19 |
 | 2 Nascent | 8 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
@@ -60,12 +60,28 @@ A national household survey published results in 2026, after final census result
 - HCP published the first Q1 2026 results of the new national labour force survey (EMO2026), which replaces the Enquete nationale sur l'emploi and has an annual sample of 135,000 households ([source, 2026-05-04](https://www.hcp.ma/Situation-du-marche-du-travail-au-Maroc-au-premier-trimestre-de-2026-a-partir-de-la-nouvelle-enquete-sur-la-main-d_a4309.html)).
 - The government adopted decree 2.24.1009 fixing the legal population by region, province and commune from the RGPH 2024 results; date is the document's published date ([source, 2024-11-07](https://www.hcp.ma/Population-legale-du-Royaume-du-Maroc-repartie-par-regions-provinces-et-prefectures-et-communes-selon-les-resultats-du_a3974.html)).
 
+### Rwanda: 5 Leading
+
+The 2022 census was counted and its main results published in 2023, and a demographic and health survey published results in 2026.
+
+- The final report of the 2025 Rwanda Demographic and Health Survey (seventh round), run by NISR with the Ministry of Health and ICF and covering over 14,000 households nationwide, was published; the document gives its date as August 2026 (cover reads June 2026) ([source, 2026-08](https://dhsprogram.com/pubs/pdf/FR401/FR401.pdf)).
+- NISR states the Fifth Rwanda Population and Housing Census was enumerated in fieldwork from 16 to 30 August 2022; a Main Indicators Report followed in February 2023 ([source, 2022-08-30](http://alpha.statistics.gov.rw/sites/default/files/documents/2025-02/RPHC5_MainIndicatorsReport_Final.pdf)).
+- The deck gives Rwanda's population as 13,246,394 individuals and 3,312,743 households from the 2022 Census ([source, 2022](https://spdci.org/wp-content/uploads/2025/03/Talking-Interoperability-18-Rwanda_vFinal_Updated.pdf)).
+
 ### South Africa: 5 Leading
 
 A national household survey published results in 2026, after final census results.
 
 - Statistics South Africa released the Quarterly Labour Force Survey Q2 2026 (P0211, fieldwork April to June 2026), a household-based sample survey of about 30,000 dwellings, reporting an unemployment rate of 33.6% ([source, 2026-08-11](https://www.statssa.gov.za/publications/P0211/P02112ndQuarter2026.pdf)).
 - Statistics South Africa released the first phase of Census 2022 results in October 2023 and has since published thematic reports, withholding some themes such as income and labour ([source, 2023-10](https://www.gov.za/news/media-statements/statistics-south-africa-census-2022-results-october-2023-22-aug-2024)).
+
+### Tanzania: 5 Leading
+
+The 2022 census report came out within weeks and a labour force survey published results in 2026; whether census results were final is not known.
+
+- The NBS microdata catalogue released the Integrated Labour Force Survey 2025 (14,232 households, fieldwork January to December 2025, 99.63 percent response) on 15 July 2026 as edited final data for public use, with a 2026 NBS key-indicators report cited ([source, 2026-07-15](https://microdata.nbs.go.tz/index.php/catalog/65)).
+- The Statistician General says Tanzania released its census report within 45 days of data collection in 2022 ([source, 2022](https://dailynews.co.tz/statistical-master-plan-implementation-on-track/)).
+- The ILFS 2025 sampling frame was derived from the inventory of enumeration areas compiled during the 2022 Population and Housing Census; the document gives no enumeration date, so the year 2022 is used ([source, 2022](https://microdata.nbs.go.tz/index.php/catalog/65)).
 
 ### Togo: 5 Leading
 
@@ -298,25 +314,12 @@ The Census 2017 was counted in 2017; no results of it are known to be out.
 - INE's estimate cites the last census in 2017 as having recorded just over 26 million inhabitants; no enumeration date is given ([source, 2017](https://www.diarioeconomico.co.mz/2026/08/02/desenvolvimento-2/governo-testa-piloto-digital-do-censo-populacional-investimento-de-430-mil-dolares/)).
 - The last census in 2017 recorded just over 26 million inhabitants, per INE; no enumeration date is given ([source, 2017](https://360mozambique.com/innovation/tech/mozambique-invests-430000-in-digital-census-pilot-ahead-of-2027-count/)).
 
-### Rwanda: 3 Established
-
-The RPHC5 2022 was counted in 2022; no results of it are known to be out.
-
-- NISR states the Fifth Rwanda Population and Housing Census was enumerated in fieldwork from 16 to 30 August 2022; a Main Indicators Report followed in February 2023 ([source, 2022-08-30](http://alpha.statistics.gov.rw/sites/default/files/documents/2025-02/RPHC5_MainIndicatorsReport_Final.pdf)).
-
 ### Senegal: 3 Established
 
 The RGPH-5 2023 was counted in 2023; no results of it are known to be out.
 
 - ANSD's national data archive lists the fifth general population and housing census, Senegal 2023 (RGPH-5), as a catalogued dataset with licensed files and 19,910 views; no enumeration date is given, so the year is used ([source, 2023](http://anads.ansd.sn/index.php/catalog)).
 - The ANEC director general cites RGPH-5 data showing 5.3% of the population and 8.9% of under-5s have no birth certificate, so the fifth census has been taken; the document gives no enumeration date and the year 2023 is inferred from his comparison with 2023 survey data ([source, 2023](https://www.seneweb.com/fr/news/Dossier/enquete-nes-mais-invisibles-33-un-enfant-sur-cinq-nest-toujours-pas-enregistre-a-letat-civil-au-senegal-les-eclairages-du-dg-de-lanec_n_500404.html)).
-
-### Tanzania: 3 Established
-
-The Population and Housing Census 2022 was counted in 2022; no results of it are known to be out.
-
-- The ILFS 2025 sampling frame was derived from the inventory of enumeration areas compiled during the 2022 Population and Housing Census; the document gives no enumeration date, so the year 2022 is used ([source, 2022](https://microdata.nbs.go.tz/index.php/catalog/65)).
-- The article refers to voter-eligibility estimates derived from the 2022 Population and Housing Census, showing a census was counted in 2022; it gives no enumeration date, so the year is used ([source, 2022](https://thechanzo.com/2025/08/04/inec-tanzania-responds-to-concerns-over-voter-register-numbers/)).
 
 ### Benin: 2 Nascent
 
@@ -367,8 +370,9 @@ A population census was being prepared in 2025; none counted since 2016 is known
 
 ### South Sudan: 2 Nascent
 
-A population census was being prepared in 2024; none counted since 2016 is known.
+A population census was being prepared in 2025; none counted since 2016 is known, and no date for it is set.
 
+- With UNFPA support the South Sudan Bureau of Statistics developed a census dossier and an operations manual in 2025 in preparation for the next national census ([source, 2025](https://amnon.co.uk/2026/01/14/bureau-of-statistics-launches-new-website-as-south-sudans-data-capacity-grows/)).
 - Radio Tamazuj quotes the NBS chair saying the Council of Ministers approved the budget for the census, which is still awaiting funding ([source, 2024-09-16](https://www.radiotamazuj.org/en/news/article/qa-census-should-be-rolled-out-before-elections-dr-ting)).
 
 ### Eritrea: 1 Absent
@@ -381,7 +385,7 @@ A 2026 source says no census has been counted in ten years and none is being pre
 
 The last census on record was counted in 2007; none since 2016 or in preparation is known, so no stage is set.
 
-Not established: The last census on record was counted in 2007. No census counted since October 2016 or in preparation since October 2023 has been found, and no source dated in the last three years says there is none.
+Not established: The last census on record was counted in 2007, and a June 2026 source says none has been completed since. No census in preparation since October 2023 has been found, and no source says none is being prepared.
 
 ### Sudan: Unplaced
 

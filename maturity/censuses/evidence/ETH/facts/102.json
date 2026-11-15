@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-07-eth-national-census-delay-opens-a-new-fight-over-who-controls-the-facts",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "none",
+   "fact": "Addis Fortune says Ethiopia has had no national census since its third count in 2007.",
+   "as_of": "2026-06-07",
+   "date_precision": "day",
+   "system": "Population and housing census",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

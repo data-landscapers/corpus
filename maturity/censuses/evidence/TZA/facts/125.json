@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-18-tza-statistical-master-plan-implementation-on-track",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The Statistician General says Tanzania released its census report within 45 days of data collection in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "2022 census",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-14-ssd-bureau-of-statistics-launches-new-website-as-south-sudan-s-data-capaci",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "With UNFPA support the South Sudan Bureau of Statistics developed a census dossier and an operations manual in 2025 in preparation for the next national census.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Next national census",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

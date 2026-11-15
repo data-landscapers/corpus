@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "census",
-      "stage": "3",
+      "stage": "5",
       "census": "taken",
-      "results": "",
-      "survey": "",
+      "results": "preliminary",
+      "survey": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-002;TZA-003",
-      "gaps": "No source found reports preliminary or final results of the census published.",
-      "note": "Counted from the four questions by study-ladder-censuses.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "TZA-001;TZA-008;TZA-002",
+      "gaps": "No source found says whether the census report released in 2022 gave preliminary or final results.",
+      "note": "The Statistician General says the 2022 census report came out within 45 days of data collection (TZA-008), and the Integrated Labour Force Survey 2025 was released in July 2026 (TZA-001), so all four questions are yes.",
+      "as_at": "2026-11-15"
     }
   ]
 }

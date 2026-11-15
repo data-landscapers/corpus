@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-25-ago-implementation-status-results-report-angola-strengthening-statistical",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Business Census (REMPE)",
+   "country_label": "REMPE",
+   "class": "other",
+   "platform": "",
+   "owner": "INE",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a business census is added to the project; the population census cartography is stated as future and no survey results are stated published."
+}
