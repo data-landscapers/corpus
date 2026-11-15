@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "2",
-      "hubs": "underway",
+      "stage": "3",
+      "hubs": "inservice",
       "cities": "",
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-001;TGO-002",
-      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-      "note": "Rebuild 2026-11-13: at its official launch in May 2026 Djanta Tech Hub's two programmes were still to be deployed (TGO-001), the newest fact, and the March 2026 report of its incubator names no cohort (TGO-002), so 3 to 2.",
-      "as_at": "2026-11-13"
+      "stage_sources": "TGO-004",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
+      "note": "Stage 4c 2026-11-15: nine EdTech startups completed an incubation programme ending at Djanta Tech Hub in Lome in September 2026 (TGO-004), so 2 to 3. Every hub on record is in Lome, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

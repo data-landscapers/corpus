@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-08-mdg-transformation-digitale-26-startups-issues-de-huit-regions-subventionn",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Under Miary Digital, 45 selected projects went through an incubation course of more than nine months before 26 received grants.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Miary Digital incubation",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

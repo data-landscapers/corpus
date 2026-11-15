@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-05-cpv-ulisses-correia-e-silva-inaugura-parque-tecnologico-da-praia-e-do-mind",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "park",
+   "value": "tenants",
+   "fact": "Prime Minister Ulisses Correia e Silva inaugurated the Praia Technology Park and said 23 companies from seven countries with over 300 staff are already installed there.",
+   "as_of": "2025-05-05",
+   "date_precision": "day",
+   "system": "Parque Tecnologico da Praia",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Parque Tecnologico da Praia",
+   "country_label": "Cabo Verde",
+   "class": "hub",
+   "platform": "",
+   "owner": "Governo de Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

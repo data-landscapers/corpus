@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-02-cmr-cameroon-enovation-factory-partners-with-undp-to-support-local-startup",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Enovation Factory, a Cameroon-based incubator and accelerator, with UNDP Cameroon launched Scale 32, a 14-month programme of training, mentorship and workspace for 32 tech startups in two 2026 cohorts, with 12 months of alumni support.",
+   "as_of": "2025-12-02",
+   "date_precision": "day",
+   "system": "Enovation Factory",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Enovation Factory",
+   "country_label": "Cameroon",
+   "class": "hub",
+   "platform": "",
+   "owner": "Enovation Factory",
+   "tiers": "Newbie and Cracker streams"
+  }
+ ],
+ "note": ""
+}

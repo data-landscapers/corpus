@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-26-ago-angola-government-and-african-development-bank-launch-science-and-tech",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Angolan government and African Development Bank inaugurated the Luanda Science and Technology Park (Luanda Tech), with no programme or tenants stated.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "Luanda Science and Technology Park",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Luanda Science and Technology Park",
+   "country_label": "Luanda Tech",
+   "class": "hub",
+   "platform": "",
+   "owner": "Government of Angola / AfDB STDP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-17-dza-inauguration-de-l-incubateur-de-l-agence-spatiale-algerienne-au-sein-d",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Algerian Space Agency (ASAL) inaugurated its incubator, with ENSIA and ENSM, at the Sidi Abdellah science and technology hub on 17 October 2025; no cohort or programme is described.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": "ASAL incubator",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASAL incubator",
+   "country_label": "Algeria",
+   "class": "hub",
+   "platform": "",
+   "owner": "Agence Spatiale Algerienne",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

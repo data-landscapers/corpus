@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-08-mwi-mse-touts-project-for-nurturing-smes",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The Malawi Stock Exchange's Mzinga Incubation Programme, launched 28 July 2023, graduated its first cohort of six companies in Blantyre, with mentorship and training, per the Nation Online report.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Mzinga Incubation Programme",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mzinga Incubation Programme",
+   "country_label": "Malawi",
+   "class": "hub",
+   "platform": "",
+   "owner": "Malawi Stock Exchange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

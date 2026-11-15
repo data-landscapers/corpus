@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-bwa-mit-bdih-launch-startup-accelerator",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "BDIH, with MIT's Kuo Sharper Innovation Centre, launched an accelerator programme for 31 local SMMEs that began with a three-day bootcamp at BDIH headquarters (Mmegi).",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "BDIH accelerator programme",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Botswana Digital and Innovation Hub accelerator",
+   "country_label": "Botswana",
+   "class": "hub",
+   "platform": "",
+   "owner": "BDIH",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

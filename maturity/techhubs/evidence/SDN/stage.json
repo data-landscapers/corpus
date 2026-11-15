@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "3",
+      "stage": "4",
       "hubs": "inservice",
-      "cities": "",
+      "cities": "several",
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SDN-002;SDN-003",
-      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "Rebuild 2026-11-13: 249Startups ran the sixth Orange Corners Sudan demo day for eight startups in December 2025 (SDN-003), so 3 holds. No fact places hubs with programmes in a second city, so not 4.",
-      "as_at": "2026-11-13"
+      "stage_sources": "SDN-006;SDN-007;SDN-003",
+      "gaps": "No source found since October 2023 says a science or technology park is in service with tenants.",
+      "note": "Stage 4c 2026-11-15: Savannah Innovation Labs runs WE-RISE! incubation cohorts in both Port Sudan and Kassala (SDN-006, SDN-007, 2024), beside 249Startups' Orange Corners cohort (SDN-003), so hubs with programmes run in two cities: 3 to 4. No park with tenants is on record, so not 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

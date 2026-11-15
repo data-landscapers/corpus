@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-23-lbr-digital-skills-crucial-for-liberias-future",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The University Innovation Pod-Liberia (UniPod), a makerspace with digital media labs and workstations run by iCampus Liberia with UNDP, was officially launched by Vice President Koung; no incubation cohort is described.",
+   "as_of": "2024-07-17",
+   "date_precision": "day",
+   "system": "University Innovation Pod-Liberia (UniPod)",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "University Innovation Pod-Liberia (UniPod)",
+   "country_label": "Liberia",
+   "class": "hub",
+   "platform": "makerspace",
+   "owner": "University of Liberia with iCampus Liberia and UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

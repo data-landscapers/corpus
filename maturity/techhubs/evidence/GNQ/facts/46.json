@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-01-gnq-dreams-hub-culmina-un-exitoso-demo-day-y-lanza-el-fondo-dreams-de-inno",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Dreams Hub, per the Equatorial Guinea government press office, ran a 12-week training programme for 15 finalist startups funded by the OIF, ending in a Demo Day.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Dreams Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dreams Hub",
+   "country_label": "GNQ",
+   "class": "hub",
+   "platform": "incubator",
+   "owner": "Dreams Hub",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-02-zaf-gauteng-to-break-ground-on-r83-1-million-innovation-hub-expansion-via",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Innovation Hub Management Company announced a sod-turning on 4 June 2025 for the R83.1 million Enterprise Building 3 expansion of The Innovation Hub in Pretoria, with the Water Research Commission as anchor tenant.",
+   "as_of": "2025-06-04",
+   "date_precision": "day",
+   "system": "The Innovation Hub Enterprise Building 3",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "The Innovation Hub",
+   "country_label": "South Africa",
+   "class": "hub",
+   "platform": "innovation precinct",
+   "owner": "The Innovation Hub Management Company",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

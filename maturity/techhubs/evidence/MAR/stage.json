@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "2",
-      "hubs": "underway",
-      "cities": "",
-      "park": "",
+      "stage": "5",
+      "hubs": "inservice",
+      "cities": "several",
+      "park": "tenants",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-001",
-      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-      "note": "Rebuild 2026-11-13: the AI Garden programme with Technopark Maroc names no cohort (MAR-001, April 2026), so 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "MAR-007;MAR-003;MAR-004",
+      "gaps": "How many startups are tenants of the technoparks, and whether the Khemisset technopark has opened, is not stated.",
+      "note": "Stage 4c 2026-11-15: the Morocco Accelerator at Technopark Casablanca closed a 19-startup cohort in July 2026 (MAR-003), Agadir Technopark runs three programmes for startups (MAR-004), and the Essaouira technopark is home to startups and SMEs (MAR-007), so every rung is met: 2 to 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

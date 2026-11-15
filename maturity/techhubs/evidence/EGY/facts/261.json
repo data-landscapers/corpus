@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-egy-financial-digitization",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "In September 2024 EG Bank launched the MINT fintech accelerator, backed by USAID's Business Egypt Program, to support fintech startups with funding, training and mentorship.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "MINT fintech accelerator",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

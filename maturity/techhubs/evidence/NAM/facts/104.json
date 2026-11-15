@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-09-nam-cchub-invests-n-1-million-supports-over-200-namibian-startups",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "CcHUB Director Jude Adejuwon says more than 200 Namibian startups have benefited from its training and acceleration programmes since 2021.",
+   "as_of": "2026-04-09",
+   "date_precision": "day",
+   "system": "CcHUB Namibia",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CcHUB Namibia",
+   "country_label": "Namibia",
+   "class": "hub",
+   "platform": "",
+   "owner": "Co-Creation Hub",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

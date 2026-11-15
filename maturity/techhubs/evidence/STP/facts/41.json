@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-12-stp-um-novo-capitulo-para-a-inovacao-em-sao-tome-e-principe",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "REINA, a network of business incubators and accelerators, says it was selected for the Timbuktoo pan-African incubator network; no programme or cohort is described.",
+   "as_of": "2026-03-12",
+   "date_precision": "day",
+   "system": "REINA",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "REINA",
+   "country_label": "Sao Tome and Principe",
+   "class": "hub",
+   "platform": "",
+   "owner": "REINA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

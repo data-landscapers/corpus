@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-14-zaf-the-innovation-hub-fostering-innovation-for-business-growth-in-gauteng",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The Innovation Hub Management Company runs the Maxum, Climate Innovation Centre, BioPark and eKasiLabs incubators giving business-development support to startups, and reports nine companies graduating from incubation and 389 jobs created through incubated companies in FY2023/24.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "The Innovation Hub Management Company (TIHMC)",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "cities",
+   "value": "several",
+   "fact": "The Innovation Hub in Tshwane runs its eKasiLabs incubator programme through micro-innovation hub facilities in Gauteng townships including Soweto, Tembisa, Alexandra, Mamelodi and Sebokeng.",
+   "as_of": "2025-02-14",
+   "date_precision": "day",
+   "system": "eKasiLabs Incubator",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "The Innovation Hub Management Company (TIHMC)",
+   "country_label": "South Africa",
+   "class": "hub",
+   "platform": "Science and Technology Park with incubators",
+   "owner": "Gauteng",
+   "tiers": "Maxum, Climate Innovation Centre, BioPark, eKasiLabs"
+  }
+ ],
+ "note": "No fact on park tenants: the document names no companies or startups as tenants of the park."
+}

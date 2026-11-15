@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "2",
-      "hubs": "underway",
+      "stage": "3",
+      "hubs": "inservice",
       "cities": "",
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TCD-003;TCD-001",
-      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-      "note": "Rebuild 2026-11-13: the N'Djamena technology innovation centre launched in October 2025 with no programme (TCD-001), and Chad Innovation Hub's tenants name no cohort (TCD-003), so 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "TCD-006",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
+      "note": "Stage 4c 2026-11-15: ONAPE's PROJIACE incubator and accelerator programme took a cohort of 25 projects in May 2026 (TCD-006), so a programme runs with a cohort: 2 to 3. No hub with a programme is placed outside N'Djamena, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

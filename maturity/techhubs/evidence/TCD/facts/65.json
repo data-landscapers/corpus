@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-24-tcd-chad-investment-agency-chad-innovation-hub-partner-to-promote-tech-inn",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "We Are Tech reports Chad Innovation Hub, a youth entrepreneurship incubator, signed an MoU with ANIE announced 23 January 2024; no programme or cohort is described.",
+   "as_of": "2024-01-23",
+   "date_precision": "day",
+   "system": "Chad Innovation Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chad Innovation Hub",
+   "country_label": "Chad",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

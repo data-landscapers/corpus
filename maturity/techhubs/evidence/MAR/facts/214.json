@@ -1,0 +1,36 @@
+{
+ "slug": "2023-11-28-mar-technopark-morocco-inaugurates-its-6th-site-in-essaouira",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "cities",
+   "value": "several",
+   "fact": "IASP reports Technopark Morocco has six sites across the country, including the newly inaugurated Essaouira site and Tangier, hosting startups.",
+   "as_of": "2023-11-28",
+   "date_precision": "day",
+   "system": "Technopark Morocco",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "park",
+   "value": "tenants",
+   "fact": "IASP reports the new Essaouira Technopark site is home to startups and SMEs in ICT, green tech and cultural industries.",
+   "as_of": "2023-11-28",
+   "date_precision": "day",
+   "system": "Technopark Morocco",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Technopark Morocco",
+   "country_label": "Morocco",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": "six sites"
+  }
+ ],
+ "note": ""
+}

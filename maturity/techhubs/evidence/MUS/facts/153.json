@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-27-mus-reading-mauritius-startup-ecosystem-beyond-the-headlines",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "La Plage Factory says six incubators are currently operating in Mauritius and over 350 companies have been through incubation, and its current Growth & Innovation incubation cohort runs with MRIC NSIS support and Punch by MCB sponsorship.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "La Plage Factory Growth & Innovation Incubation programme",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "La Plage Factory",
+   "country_label": "Mauritius",
+   "class": "hub",
+   "platform": "",
+   "owner": "La Plage Factory",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

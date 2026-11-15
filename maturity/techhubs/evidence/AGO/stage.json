@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "2",
-      "hubs": "underway",
+      "stage": "3",
+      "hubs": "inservice",
       "cities": "",
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-001;AGO-002",
-      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-      "note": "Rebuild 2026-11-13: the Luanda Science and Technology Park was inaugurated in June 2026 (AGO-001) and a decree set up its managing company (AGO-002); the incubation and acceleration schemes on record name no cohort of startups, so 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "AGO-005",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
+      "note": "Stage 4c 2026-11-15: Digital.ao graduated a first cohort of seven startups in March 2025 and chose 50 projects for its next cycle (AGO-005), so a hub runs programmes: 2 to 3. No hub with programmes is on record in a second city, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

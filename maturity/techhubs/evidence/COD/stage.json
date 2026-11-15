@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "3",
+      "stage": "4",
       "hubs": "inservice",
-      "cities": "",
+      "cities": "several",
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COD-002;COD-003",
-      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "Rebuild 2026-11-13: Silikin Village in Kinshasa runs incubation and a first acceleration cohort of five (COD-002, COD-003), so 3 holds. No hub with programmes is on record outside Kinshasa, so not 4.",
-      "as_at": "2026-11-13"
+      "stage_sources": "COD-006;COD-002",
+      "gaps": "No source found since October 2023 says a science or technology park is in service with tenants.",
+      "note": "Stage 4c 2026-11-15: the seventh Orange Corners cohort supported entrepreneurs in Kinshasa, Goma and Lubumbashi in 2025 (COD-006), beside Silikin Village in Kinshasa (COD-002), so hubs with programmes run in several cities: 3 to 4. The Kinshasa Technopark is a project, so not 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

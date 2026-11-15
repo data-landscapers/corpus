@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-01-eth-strengthening-ethiopia-s-startup-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "GIZ states 13 incubators and one accelerator run incubation and acceleration programmes, with 1,750 startups participating in 2020-2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Ethiopian incubators and accelerators",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": "No statement of hubs in several cities or a technology park with tenants."
+}

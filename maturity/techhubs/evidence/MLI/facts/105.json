@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-01-mli-bamako-ihub-supports-and-finances-green-technology-projects-in-mali",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "We are Tech states that Bamako IHub, set up by Mali Folkecenter Nyetaa, runs pre-incubation (Bootstrap-Mali), incubation and acceleration (BoostUp-Mali) programmes for tech and green startups, plus a fablab and coworking space.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Bamako IHub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bamako IHub",
+   "country_label": "Mali",
+   "class": "hub",
+   "platform": "",
+   "owner": "Mali Folkecenter Nyetaa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

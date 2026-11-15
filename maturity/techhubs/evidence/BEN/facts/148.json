@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-ben-benin-plans-digital-fabrication-hubs-to-boost-local-innovation",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Benin's Council of Ministers approved on 4 November 2026 a pilot to build two Innobox digital fabrication and innovation hubs in Parakou and Porto-Novo.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "Innobox",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Innobox",
+   "country_label": "Benin",
+   "class": "hub",
+   "platform": "",
+   "owner": "Government of Benin",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2025-09-17-tun-les-technoparks-moteurs-de-l-innovation-et-de-la-competitivite-en-tuni",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "park",
+   "value": "tenants",
+   "fact": "Entreprises Magazine says El Ghazela Technopark hosts nearly 90 firms and Manouba technopark more than 200 firms, 103 of them foreign.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Technoparks",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "El Ghazela Technopark",
+   "country_label": "Tunisia",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Manouba technopark",
+   "country_label": "Tunisia",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Smart Tunisian Technoparks",
+   "country_label": "Tunisia",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

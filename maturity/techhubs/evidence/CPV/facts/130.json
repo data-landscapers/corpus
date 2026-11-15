@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-10-cpv-techparkcv-cabo-verde-inaugura-oficialmente-os-parques-tecnologicos-da",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "park",
+   "value": "tenants",
+   "fact": "Startup Blog reports TechParkCV, in operation since November 2023, hosts 23 national and international companies, with poles in Praia and Mindelo inaugurated 5-6 May 2025.",
+   "as_of": "2025-05-10",
+   "date_precision": "day",
+   "system": "TechParkCV",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TechParkCV",
+   "country_label": "CPV",
+   "class": "hub",
+   "platform": "",
+   "owner": "Government of Cabo Verde",
+   "tiers": "Praia, Mindelo"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-mdg-technopole-madagascar-entrepreneuriat-numerique",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Technopole Madagascar says its roughly 6,000 m2 AI and tech campus at Andohatapenaka, Antananarivo, is under construction, with ramp-up planned for 2027 and full launch forecast for Q1 2028.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Technopole Madagascar",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Technopole Madagascar",
+   "country_label": "Madagascar",
+   "class": "hub",
+   "platform": "",
+   "owner": "Technopole Madagascar",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

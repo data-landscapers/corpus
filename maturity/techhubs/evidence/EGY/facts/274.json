@@ -1,0 +1,27 @@
+{
+ "slug": "2024-10-05-egy-creativa-23-digital-innovation-centres",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Egypt's communications minister says 23 Creativa digital innovation centres have been completed across governorates to support entrepreneurs, with training, mentoring and labs for startups.",
+   "as_of": "2024-10-05",
+   "date_precision": "day",
+   "system": "Creativa digital innovation centres",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "cities",
+   "value": "several",
+   "fact": "The minister says 23 Creativa centres are complete in different governorates, with the rest to follow in 2025 for one per governorate.",
+   "as_of": "2024-10-05",
+   "date_precision": "day",
+   "system": "Creativa digital innovation centres",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

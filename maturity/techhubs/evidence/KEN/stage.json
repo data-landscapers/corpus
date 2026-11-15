@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "2",
-      "hubs": "underway",
+      "stage": "3",
+      "hubs": "inservice",
       "cities": "",
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-003;KEN-001",
-      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-      "note": "Rebuild 2026-11-13: the Kenya AI Accelerator call (KEN-003) and Konza's AWS centre (KEN-001) are under way, and BetaLab's incubation focus names no cohort (KEN-006), so 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "KEN-007",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
+      "note": "Stage 4c 2026-11-15: iHUB's Spark Accelerator took a second cohort of ten startups in October 2025 (KEN-007), so a hub runs a programme: 2 to 3. Nothing places a second hub with a programme in another city, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

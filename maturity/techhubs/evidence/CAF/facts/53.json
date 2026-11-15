@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-13-caf-centrafrique-une-table-ronde-sur-l-entrepreneuriat-et-le-developpement",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Centra News reports the Bangui Hub foundation's incubator has already trained over 800 young entrepreneurs, as of its 13 March 2026 round table.",
+   "as_of": "2026-03-13",
+   "date_precision": "day",
+   "system": "Bangui Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bangui Hub",
+   "country_label": "Bangui Hub",
+   "class": "hub",
+   "platform": "",
+   "owner": "Fondation Bangui Hub",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

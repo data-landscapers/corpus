@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "2",
-      "hubs": "underway",
+      "stage": "3",
+      "hubs": "inservice",
       "cities": "",
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NER-002;NER-001",
-      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-      "note": "Rebuild 2026-11-13: UNIPOD Niger called for its first incubation cohort in August 2026 (NER-002), an intake not yet made, so 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "NER-005",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities. UNIPOD Niger's first cohort was still being called for in August 2026.",
+      "note": "Stage 4c 2026-11-15: ESCEP's ICT incubator CITIC took a second cohort of 20 project holders in Niamey in April 2024 (NER-005), so a hub runs a programme: 2 to 3. No hub with a programme is placed in a second city, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

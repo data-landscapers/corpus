@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-25-gab-sing-sa-dix-ans-314-startups-550-millions-de-fcfa-et-zero-evaluation-i",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Echos de l'Eco reports that SING SA, set up under the World Bank-funded eGabon project, claims over 314 startups supported since 2018, though one of three planned incubators was built and its future is in doubt.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "SING SA",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SING SA",
+   "country_label": "Gabon",
+   "class": "hub",
+   "platform": "",
+   "owner": "State, 30% via SPIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

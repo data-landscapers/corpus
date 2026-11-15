@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "2",
-      "hubs": "underway",
+      "stage": "3",
+      "hubs": "inservice",
       "cities": "",
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-007;SLE-006",
-      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-      "note": "Rebuild 2026-11-13: the FinTech Innovation Lab at Fourah Bay College was launched in November 2026 with no cohort yet on record (SLE-007), so 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "SLE-008",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
+      "note": "Stage 4c 2026-11-15: Limkokwing University's Innovation Hub took the third cohort of its Startup Incubation Program in October 2025 (SLE-008), so a hub runs a programme: 2 to 3. No second city has a hub with a programme, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

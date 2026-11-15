@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-25-tun-tunisie-le-pole-d-innovation-de-sousse-vise-a-devenir-un-hub-de-la-mec",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Sousse Innovation Hub has created an incubator and an accelerator for Industry 4.0 supporting about fifty startups, according to the AGI report quoting director general Hichem Turki.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "Sousse Innovation Hub incubator and accelerator",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "park",
+   "value": "tenants",
+   "fact": "Novation City manages a 250-hectare technopark, services and industrial zones where European firms including German development centres such as Draxlmaier are already installed, per director general Hichem Turki.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "Novation City technopark",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Novation City (Pole de competitivite de Sousse)",
+   "country_label": "Tunisie",
+   "class": "hub",
+   "platform": "technopark, incubator, accelerator",
+   "owner": "public-private partnership",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

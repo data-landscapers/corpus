@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-22-tcd-tchad-l-universite-de-n-djamena-lance-son-premier-incubateur-pour-jeun",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Le N'Djam Post reports the University of N'Djamena launched its first university incubator on the Toukra campus and opened a call for its first cohort of 25 founders on 22 August 2025.",
+   "as_of": "2025-08-22",
+   "date_precision": "day",
+   "system": "University of N'Djamena incubator",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "University of N'Djamena incubator",
+   "country_label": "TCD",
+   "class": "hub",
+   "platform": "",
+   "owner": "University of N'Djamena",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

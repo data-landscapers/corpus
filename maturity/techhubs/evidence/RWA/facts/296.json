@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-26-rwa-newsletter-vol-3-released-technical-cooperation-project-digital-innova",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "JICA says the Hanga Hub innovation hubs in Musanze and Huye ran an Ideation programme from 21 February to 11 March 2025 with 100 participants, 19 ideas moving to pre-incubation.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Hanga Hub",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "cities",
+   "value": "several",
+   "fact": "JICA says programmes ran at the innovation hubs in both Musanze and Huye, including business idea contests on 14 and 17 January 2025.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Hanga Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hanga Hub (Musanze, Huye)",
+   "country_label": "Hanga Hub",
+   "class": "hub",
+   "platform": "",
+   "owner": "RISA with EU",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

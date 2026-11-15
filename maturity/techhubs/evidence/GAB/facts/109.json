@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-27-gab-gabon-lancement-de-la-4eme-edition-du-programme-cohorte-innovation-4-0",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Gabonmediatime reports that on 26 January 2024 the 4th edition of the Cohorte Innovation 4.0 acceleration programme launched at the SING digital incubation company, with 20 start-ups admitted and 10 to get seed funding, followed by the Panthere incubation programme.",
+   "as_of": "2024-01-26",
+   "date_precision": "day",
+   "system": "Cohorte Innovation 4.0 / SING",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SING SA",
+   "country_label": "Gabon",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

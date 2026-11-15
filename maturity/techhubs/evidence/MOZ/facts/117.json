@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-22-moz-mozambiques-incm-launches-thinklab-to-drive-startup-innovation-and-dig",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Mozambique's communications regulator INCM inaugurated the ThinkLab incubator, whose first incubation programme selected 12 startups from 51 applications, per INCM's head of studies and statistics.",
+   "as_of": "2025-09-22",
+   "date_precision": "day",
+   "system": "ThinkLab",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ThinkLab",
+   "country_label": "Mozambique",
+   "class": "hub",
+   "platform": "",
+   "owner": "INCM",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,hub,hubs,coverage,inservice,2025-07-01,CMR-003,CMR-005=underway;CMR-001=underway;CMR-002=underway,
+CMR,hub,hubs,coverage,inservice,2025-12-02,CMR-003;CMR-008;CMR-009,CMR-005=underway;CMR-001=underway;CMR-010=underway;CMR-007=underway;CMR-002=underway;CMR-006=underway,
 CMR,hub,cities,coverage,several,2025-07-01,CMR-004,,
-CMR,hub,park,coverage,,,,,nothing held
+CMR,hub,park,coverage,,,,,nothing found

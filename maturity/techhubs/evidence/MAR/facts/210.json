@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-15-mar-agadir-the-new-innovation-hub-powered-by-technopark-and-cism",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Yabiladi says Agadir Technopark, open since December 2021, has supported 142 startups and digital firms through three programmes (N-MOON, BOOST UP LAB, TIWIZI).",
+   "as_of": "2025-12-15",
+   "date_precision": "day",
+   "system": "Agadir Technopark",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agadir Technopark",
+   "country_label": "Morocco",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Souss Massa Innovation City",
+   "country_label": "Morocco",
+   "class": "hub",
+   "platform": "",
+   "owner": "Ibn Zohr University",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

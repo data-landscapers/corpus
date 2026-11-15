@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-gha-ghana-awards-100-000-to-ten-agritech-startups-to-expand-agricultural-b",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Business Tech Africa reports the Kosmos Innovation Center, with the Mastercard Foundation, named ten winners of the 2026 AgriTech Challenge Pro on 29 October 2026, who now enter KIC's Incubation Programme.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "Kosmos Innovation Center Incubation Programme",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kosmos Innovation Center",
+   "country_label": "Ghana",
+   "class": "hub",
+   "platform": "",
+   "owner": "KIC",
+   "tiers": "incubation"
+  }
+ ],
+ "note": ""
+}

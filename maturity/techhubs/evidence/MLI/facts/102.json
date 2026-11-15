@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-01-mli-le-mali-lance-un-accelerateur-pour-dynamiser-l-ecosysteme-numerique",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Malian government inaugurated the Mali Digital Accélérateur on Thursday 20 March, a programme to give startups support, financing and market access; no cohort is stated.",
+   "as_of": "2025-03-20",
+   "date_precision": "day",
+   "system": "Mali Digital Accélérateur",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mali Digital Accélérateur",
+   "country_label": "Mali",
+   "class": "hub",
+   "platform": "accelerator programme",
+   "owner": "Government of Mali",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

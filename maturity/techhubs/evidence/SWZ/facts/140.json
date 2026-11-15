@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-28-swz-from-opportunity-to-impact",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "UNDP Eswatini says the Royal Science and Technology Park's incubation services, with UNDP seed funding, have supported 29 youth-led start-ups since 2017.",
+   "as_of": "2025-05-28",
+   "date_precision": "day",
+   "system": "Royal Science and Technology Park incubation",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Royal Science and Technology Park",
+   "country_label": "Eswatini",
+   "class": "hub",
+   "platform": "",
+   "owner": "RSTP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

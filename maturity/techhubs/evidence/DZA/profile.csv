@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,hub,hubs,coverage,underway,2026-08-06,DZA-001;DZA-002;DZA-003,,
-DZA,hub,cities,coverage,,,,,nothing found
-DZA,hub,park,coverage,,,,,nothing found
+DZA,hub,hubs,coverage,inservice,2026-05,DZA-006;DZA-007;DZA-008,DZA-002=underway;DZA-001=underway;DZA-004=underway;DZA-003=underway;DZA-005=underway,
+DZA,hub,cities,coverage,several,2026-05,DZA-009,,
+DZA,hub,park,coverage,tenants,2026-05,DZA-010,,

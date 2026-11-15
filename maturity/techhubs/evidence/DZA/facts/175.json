@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-24-dza-ooredoo-algerie-accompagne-l-emergence-de-quatre-projets-innovants",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Ooredoo Algerie says its T-Start incubation programme, running since 2013, has incubated 72 startups, has 21 incubated now, and took four more on 23 December 2025.",
+   "as_of": "2025-12-23",
+   "date_precision": "day",
+   "system": "T-Start",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "T-Start",
+   "country_label": "Algeria",
+   "class": "hub",
+   "platform": "",
+   "owner": "Ooredoo Algerie",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

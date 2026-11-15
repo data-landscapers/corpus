@@ -1,0 +1,50 @@
+{
+ "slug": "2025-01-01-mdg-miary-digital-45-nouvelles-startups-incubees-dans-la-2e-cohorte-du-pro",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "PIC3 says three regional incubators, NextA (North), Orange Digital Center (South) and Zafy Tody (East), will run 9 to 11 month incubation programmes for a second cohort of 45 startups selected after a call launched on 20 January 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "MIARY Digital",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MIARY Digital",
+   "country_label": "Madagascar",
+   "class": "hub",
+   "platform": "",
+   "owner": "Projet PIC3 (Ministry of Economy and Finance)",
+   "tiers": ""
+  },
+  {
+   "system": "NextA",
+   "country_label": "Madagascar",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Digital Center",
+   "country_label": "Madagascar",
+   "class": "hub",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  },
+  {
+   "system": "Zafy Tody",
+   "country_label": "Madagascar",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No cities are named, so no several-cities fact."
+}

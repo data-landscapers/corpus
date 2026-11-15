@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-12-mar-how-morocco-unlocked-private-capital-for-startups",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The World Bank says InnovInvest accredited sixteen incubators and accelerators in Morocco, and close to 1,000 entrepreneurs received pre-seed grants, soft loans or mentoring.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "InnovInvest accredited incubators and accelerators",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

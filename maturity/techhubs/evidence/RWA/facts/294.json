@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-rwa-rwanda-s-transition-to-a-knowledge-based-economy-pathways-and-policy-p",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The brief lists the creation of innovation clusters such as Kigali Innovation City among Rwanda's groundwork, and proposes regional innovation hubs in Musanze, Huye and Rubavu.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Kigali Innovation City",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kigali Innovation City",
+   "country_label": "Kigali Innovation City",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

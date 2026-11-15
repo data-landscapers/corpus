@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-dza-kick-start-2025-startups-incubation-program",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The incubator Advalians, with Algeria Venture and the startups ministry, runs a 12-month Kick Start 2025 incubation programme for 8 selected project holders.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Advalians Kick Start incubation programme",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Advalians",
+   "country_label": "Algeria",
+   "class": "hub",
+   "platform": "",
+   "owner": "Advalians (private incubator)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

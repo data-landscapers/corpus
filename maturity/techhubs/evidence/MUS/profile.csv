@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MUS,hub,hubs,coverage,inservice,2024-10,MUS-001;MUS-004,MUS-003=underway;MUS-002=underway,
-MUS,hub,cities,coverage,,,,,nothing held
-MUS,hub,park,coverage,,,,,nothing held
+MUS,hub,hubs,coverage,inservice,2026-09-17,MUS-001;MUS-004;MUS-005;MUS-006;MUS-007,MUS-003=underway;MUS-002=underway;MUS-008=underway;MUS-009=underway,
+MUS,hub,cities,coverage,,,,,nothing found
+MUS,hub,park,coverage,,,,,nothing found

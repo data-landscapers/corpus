@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-07-bwa-botswana-tech-fund-announces-first-cohort-of-accelerator-program",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Botswana Tech Fund announced seven startups, three from Botswana, for its first three-month accelerator cohort, with sessions to be held in Gaborone and a demo day, per BW TechZone.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "Botswana Tech Fund accelerator programme",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Botswana Tech Fund accelerator programme",
+   "country_label": "Botswana",
+   "class": "hub",
+   "platform": "",
+   "owner": "Botswana Tech Fund",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

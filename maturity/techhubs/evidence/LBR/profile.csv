@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,hub,hubs,coverage,underway,2026-06-30,LBR-001,,
-LBR,hub,cities,coverage,,,,,nothing held
-LBR,hub,park,coverage,,,,,nothing held
+LBR,hub,hubs,coverage,underway,2026-06-30,LBR-001;LBR-002,,
+LBR,hub,cities,coverage,,,,,nothing found
+LBR,hub,park,coverage,,,,,nothing found

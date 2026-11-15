@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-07-sle-startup-incubation-program-cohort-3-orientation",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Limkokwing University's Innovation Hub in Sierra Leone welcomed the third cohort of its Startup Incubation Program at an orientation session.",
+   "as_of": "2025-10-06",
+   "date_precision": "day",
+   "system": "Limkokwing Innovation Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Limkokwing Innovation Hub",
+   "country_label": "SLE",
+   "class": "hub",
+   "platform": "incubator",
+   "owner": "Limkokwing University of Creative Technology, Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -9,10 +9,10 @@
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-002",
+      "stage_sources": "NAM-005;NAM-006",
       "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "Stage 4c 2026-11-12: CcHub Namibia mentored nine teams and took two into a 33-month incubation programme in 2025 (NAM-002), so a hub runs programmes. Nothing places hubs with programmes in two or more cities, so not 4.",
-      "as_at": "2026-11-12"
+      "note": "Stage 4c 2026-11-15: BOOSTUP took a cohort of 20 startups through incubators including CcHUB Namibia in January 2026 (NAM-005), after CcHUB's 2025 Seedr cohort (NAM-006), so 3 holds. No city is given for any of the incubators, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

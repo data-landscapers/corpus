@@ -9,10 +9,10 @@
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MRT-002;MRT-001",
-      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "Rebuild 2026-11-13: the Central Bank's DigiLab gives selected teams three months of incubation (MRT-002, October 2026), so 3 holds. Every hub on record is in Nouakchott, so not 4.",
-      "as_at": "2026-11-13"
+      "stage_sources": "MRT-003;MRT-002",
+      "gaps": "No source found since October 2023 places hubs with programmes in two or more cities; InnovRIM's incubation at Bassiknou and Dar Naim is planned, and no technology park is on record.",
+      "note": "Stage 4c 2026-11-15: the Hadina RIMTIC incubator launched a programme for nine selected startups in October 2026 (MRT-003) and the central bank's DigiLab incubates selected teams (MRT-002), so 3 holds. InnovRIM's incubation outside Nouakchott is still planned (MRT-005), so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-20-cpv-boost-cv-acolhe-57-startups-cabo-verdianas-no-lancamento-dos-grupos-1",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Cabo Verde Digital says the Government-run, World Bank-funded BOOST.CV accelerator launched cohorts (Groups 1 and 2) of 57 tech and digital startups, with mentoring.",
+   "as_of": "2025-08-20",
+   "date_precision": "day",
+   "system": "BOOST.CV",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BOOST.CV",
+   "country_label": "Cabo Verde",
+   "class": "hub",
+   "platform": "",
+   "owner": "Ministry of Digital Economy, Pro Empresa, Cabo Verde Digital; implemented by Djassi Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-29-eth-undp-partners-with-ethiopia-s-industry-ministry-to-launch-pan-african",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The document says UNDP and the Ministry of Industry launched the timbuktoo ManuTech Hub in Addis Ababa, with space to be completed in early 2025 and a first cohort then.",
+   "as_of": "2024-11-29",
+   "date_precision": "day",
+   "system": "timbuktoo ManuTech Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "timbuktoo ManuTech Hub",
+   "country_label": "Ethiopia",
+   "class": "hub",
+   "platform": "",
+   "owner": "UNDP and Ministry of Industry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

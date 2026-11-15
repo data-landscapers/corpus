@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-20-mrt-hadina-rimtic-annonce-l-ouverture-des-candidatures-pour-la-2e-cohorte",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Cridem reports Hadina-RIMTIC, a business incubator founded in 2014, opened applications to 26 May 2025 for the second cohort of its CATAL1.5T pre-acceleration programme in Mauritania and Niger.",
+   "as_of": "2025-05-20",
+   "date_precision": "day",
+   "system": "Hadina-RIMTIC",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hadina-RIMTIC",
+   "country_label": "MRT",
+   "class": "hub",
+   "platform": "",
+   "owner": "Hadina-RIMTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-11-bfa-orange-digital-center-cinq-start-ups-retenues-pour-la-quatrieme-saison",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Orange Digital Center's Orange Fab accelerator in Ouagadougou selected 5 start-ups from 15 applicants (12 shortlisted) on 10 April 2025 for its nine-month fourth season, per Faso7.",
+   "as_of": "2025-04-10",
+   "date_precision": "day",
+   "system": "Orange Fab (Orange Digital Center)",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Digital Center / Orange Fab",
+   "country_label": "Burkina Faso",
+   "class": "hub",
+   "platform": "",
+   "owner": "Orange Burkina Faso",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

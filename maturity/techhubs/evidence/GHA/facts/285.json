@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-13-gha-unicef-ghana-welcomes-20-social-impact-startups-into-2026-start-up-lab",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "UNICEF Ghana says the UNICEF Start-up Lab, established in 2019 and implemented by MEST Africa with KOICA support, welcomed its sixth cohort of 20 startups on 13 April 2026 into a six-month, six-module accelerator programme, having supported over 100 startups.",
+   "as_of": "2026-04-13",
+   "date_precision": "day",
+   "system": "UNICEF Start-up Lab",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNICEF Start-up Lab",
+   "country_label": "Ghana",
+   "class": "hub",
+   "platform": "",
+   "owner": "UNICEF Ghana with KOICA, implemented by MEST Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

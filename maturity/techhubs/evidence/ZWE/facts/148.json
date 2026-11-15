@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-21-zwe-20-zimbabwean-startups-advance-to-the-vcc5-incubation-stage",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Eight2Five Innovation Hub announced 20 startups entering the incubation stage of the fifth Value Creation Challenge, with training and mentorship (The Next Africa).",
+   "as_of": "2025-07-21",
+   "date_precision": "day",
+   "system": "Eight2Five Innovation Hub VCC5",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eight2Five Innovation Hub",
+   "country_label": "Zimbabwe",
+   "class": "hub",
+   "platform": "",
+   "owner": "Eight2Five",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

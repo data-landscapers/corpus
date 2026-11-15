@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-18-eth-edi-launches-idisrupthub-to-accelerate-startups-and-drive-ethiopia-s-e",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The Entrepreneurship Development Institute launched iDisruptHub on 18 May 2026, offering incubation, seed funding and acceleration tracks for startups.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "iDisruptHub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iDisruptHub",
+   "country_label": "Ethiopia",
+   "class": "hub",
+   "platform": "",
+   "owner": "Entrepreneurship Development Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-03-zaf-le-shift-lab-welcomes-14-start-ups-to-its-incubation-cohort",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The French Embassy and Wits University's Tshimologong Digital Innovation Precinct selected 14 start-ups from South Africa and Malawi for the first cohort of the Le Shift Lab incubation programme, with mentorship and workshops.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Le Shift Lab",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Le Shift Lab",
+   "country_label": "South Africa",
+   "class": "hub",
+   "platform": "",
+   "owner": "Embassy of France with Wits Tshimologong Digital Innovation Precinct",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

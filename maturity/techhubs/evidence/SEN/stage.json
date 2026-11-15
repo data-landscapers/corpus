@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "2",
-      "hubs": "underway",
+      "stage": "3",
+      "hubs": "inservice",
       "cities": "",
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-002;SEN-001",
-      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-      "note": "Rebuild 2026-11-13: the Diamniadio digital park is being built (SEN-001) and the AI Scaling Hub launched in October 2026 names no cohort (SEN-002), so 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "SEN-004;SEN-005",
+      "gaps": "No cohort is placed at a hub outside Dakar: the directory's Teranga Tech Incub names four cities and no cohort. No source found since October 2023 says a science or technology park is in service with tenants.",
+      "note": "Stage 4c 2026-11-15: the AIMS Jemmal Incubator ran a first cohort of 13 startups in Dakar to October 2026 (SEN-004), so a hub runs a programme: 2 to 3. No cohort is placed in a second city, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

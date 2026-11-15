@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-02-ken-the-spark-accelerator-program-unveils-the-second-cohort-to-drive-innov",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "iHUB, with Safaricom, M-PESA Africa and Sumitomo, runs the Spark Accelerator, a three-month programme taking a second cohort of 10 startups from over 200 applicants.",
+   "as_of": "2025-10-02",
+   "date_precision": "day",
+   "system": "Spark Accelerator Program",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Spark Accelerator Program",
+   "country_label": "Kenya",
+   "class": "hub",
+   "platform": "",
+   "owner": "iHUB (Safaricom, M-PESA Africa, Sumitomo)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

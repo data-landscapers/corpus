@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-egy-creativa-incubator-fifth-cycle-egp10-8m",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Masr Times reports Egypt's Digital Creativa Innovation Hubs launched the fifth cycle of the Creativa incubation programme run by ITIDA's technology innovation and entrepreneurship centre, with EGP 10.8 million in funding and up to EGP 360,000 per pre-seed startup.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Creativa incubator (ITIDA)",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Creativa incubator",
+   "country_label": "Egypt",
+   "class": "hub",
+   "platform": "",
+   "owner": "ITIDA",
+   "tiers": "pre-seed incubation"
+  }
+ ],
+ "note": ""
+}

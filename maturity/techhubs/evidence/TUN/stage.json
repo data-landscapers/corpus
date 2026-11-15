@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "3",
+      "stage": "5",
       "hubs": "inservice",
-      "cities": "",
-      "park": "",
+      "cities": "several",
+      "park": "tenants",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-004;TUN-001",
-      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "Rebuild 2026-11-13: The Dot has run two Dot Landing cohorts and incubated 140 startups (TUN-001, TUN-004), so 3 holds. No fact places hubs with programmes in a second city, so not 4.",
-      "as_at": "2026-11-13"
+      "stage_sources": "TUN-013;TUN-010;TUN-008;TUN-009",
+      "gaps": "How many of the technoparks' tenants are startups is not stated.",
+      "note": "Stage 4c 2026-11-15: Orange Fab's cohort in Tunis (TUN-013) beside Sousse Innovation Hub's fifty startups (TUN-010) is hubs with programmes in two cities, and the Sfax, El Ghazela and Manouba technoparks host companies (TUN-008, TUN-009), so 3 to 5.",
+      "as_at": "2026-11-15"
     }
   ]
 }

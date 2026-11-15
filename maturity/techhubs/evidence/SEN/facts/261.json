@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-01-sen-aims-jemmal-incubator-la-premiere-cohorte-franchit-la-ligne-d-arrivee",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "AIMS Senegal says its AIMS Jëmmal Incubator at the Dakar campus ran a first cohort of 13 startups in seven sectors from March to September 2026, ending with a Demo Day, and closed the cohort on 30 October 2026.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "AIMS Jëmmal Incubator",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AIMS Jëmmal Incubator",
+   "country_label": "Senegal",
+   "class": "hub",
+   "platform": "",
+   "owner": "AIMS Sénégal",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

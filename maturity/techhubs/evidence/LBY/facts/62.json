@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-10-lby-municipality-led-tripoli-business-hub-open-to-fuel-local-economic-grow",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "UNDP states the Tripoli Business Hub, Libya's first municipality-led business hub, officially opened on 10 August 2025 with EU and Italian support, and will offer co-working, mentorship and training for start-ups.",
+   "as_of": "2025-08-10",
+   "date_precision": "day",
+   "system": "Tripoli Business Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tripoli Business Hub",
+   "country_label": "Libya",
+   "class": "hub",
+   "platform": "",
+   "owner": "Municipality of Tripoli Centre",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

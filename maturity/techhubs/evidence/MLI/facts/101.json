@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-01-mli-mali-s-tech-hubs-upgrade-their-skills",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "ITC says nine Malian tech hubs and incubators, including Impact Hub Bamako, took part in a training programme in late 2024; no incubation cohort is described.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Impact Hub Bamako and eight other Malian incubators",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Impact Hub Bamako",
+   "country_label": "Mali",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

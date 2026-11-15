@@ -6,13 +6,13 @@
       "stage": "3",
       "hubs": "inservice",
       "cities": "",
-      "park": "",
+      "park": "tenants",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-001",
+      "stage_sources": "GHA-003;GHA-004",
       "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "Rebuild 2026-11-13: the MoMo Fintech Lab launched a three-month incubation programme for fintech innovators in August 2026 (GHA-001), so 3 holds. No fact places hubs with programmes in a second city, so not 4.",
-      "as_at": "2026-11-13"
+      "note": "Stage 4c 2026-11-15: the Kosmos Innovation Center took ten agritech startups into its incubation in October 2026 (GHA-003) and the Accra Digital Centre hosts over 60 technology companies (GHA-006), so 3 holds with a park on record. Every hub with a programme is in Accra, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

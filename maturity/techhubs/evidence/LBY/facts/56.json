@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-01-lby-ten-startups-win-a-total-of-100-000-euros-in-seed-funding-at-asarya-st",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "SPARK states the Asarya Business Incubator in Benghazi, founded January 2024, ran a six-month incubation for a cohort of 26 startups, closing 3 August 2024.",
+   "as_of": "2024-08-03",
+   "date_precision": "day",
+   "system": "Asarya Business Incubator",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Asarya Business Incubator",
+   "country_label": "Libya",
+   "class": "hub",
+   "platform": "",
+   "owner": "SPARK",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

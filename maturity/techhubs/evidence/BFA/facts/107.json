@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-09-bfa-l-innovation-passe-a-la-vitesse-superieure",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Orange Digital Center Burkina Faso says five startups were selected for the cohort of the fifth Orange Fab acceleration season and will receive strategic and operational support over the coming months.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Orange Fab",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Fab",
+   "country_label": "Burkina Faso",
+   "class": "hub",
+   "platform": "",
+   "owner": "Orange Burkina Faso",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

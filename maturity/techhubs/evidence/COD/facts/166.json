@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-10-cod-startups-in-dr-congo-are-building-africa-s-overlooked-digital-frontier",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "TechCabal says Silikin Village, a 9,500 m2 hub in Kinshasa inaugurated in October 2024, offers coworking and an acceleration programme.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "Silikin Village",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Silikin Village",
+   "country_label": "DR Congo",
+   "class": "hub",
+   "platform": "",
+   "owner": "TEXAF Digital",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

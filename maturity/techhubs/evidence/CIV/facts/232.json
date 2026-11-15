@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-06-civ-des-start-ups-africaines-selectionnees-pour-la-premiere-cohorte-du-pro",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Africa Global Logistics unveiled on 3 October 2024 six start-ups for the first cohort of its Accelerate programme at its Yiri innovation centre in Abidjan, chosen from 91 applications.",
+   "as_of": "2024-10-03",
+   "date_precision": "day",
+   "system": "Accelerate at Yiri innovation centre",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Yiri innovation centre",
+   "country_label": "CIV",
+   "class": "hub",
+   "platform": "",
+   "owner": "Africa Global Logistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

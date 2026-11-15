@@ -1,0 +1,42 @@
+{
+ "slug": "2024-10-12-mdg-pic-3-miary-digital-impulse-linnovation-numerique-a-madagascar",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Three partner incubators, Orange Digital Center Madagascar, NextA and Zafy Tody, gave the 43 Miary Digital startups a year of intensive support, the document reports.",
+   "as_of": "2024-10-11",
+   "date_precision": "day",
+   "system": "Orange Digital Center Madagascar, NextA, Zafy Tody",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Digital Center Madagascar",
+   "country_label": "Madagascar",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "NextA",
+   "country_label": "Madagascar",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Zafy Tody",
+   "country_label": "Madagascar",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "First cohort concentrated in Analamanga; no second city stated."
+}

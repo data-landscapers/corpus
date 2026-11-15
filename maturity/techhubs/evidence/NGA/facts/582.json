@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-15-nga-ihatch-cohort-5-ondi-unveils-selected-innovation-hubs-across-36-states",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "ONDI says it has selected one hub in each of the 36 states and the FCT, 37 in all, for iHatch Cohort 5, to serve as local support partners.",
+   "as_of": "2026-04-15",
+   "date_precision": "day",
+   "system": "iHatch Cohort 5",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iHatch",
+   "country_label": "Nigeria",
+   "class": "hub",
+   "platform": "",
+   "owner": "ONDI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

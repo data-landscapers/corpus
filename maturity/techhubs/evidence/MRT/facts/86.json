@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-mrt-lancement-du-programme-d-accompagnement-des-startups-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "GIZ Mauritanie says the Hadina RIMTIC incubator launches in October 2026 a support programme for nine selected startups, including three Gouvathon winners.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Hadina RIMTIC Incubator",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hadina RIMTIC Incubator",
+   "country_label": "Mauritania",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

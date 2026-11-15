@@ -1,0 +1,52 @@
+{
+ "slug": "2026-08-04-sen-incubateurs-d-entreprises-au-senegal",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The directory says CTIC Dakar runs pre-incubation, incubation and acceleration programmes, and Orange Digital Center runs 6 to 9 month startup programmes.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "CTIC Dakar",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "cities",
+   "value": "several",
+   "fact": "The directory says Teranga Tech Incub runs a 6-month incubation programme deployed in Dakar, Saint-Louis, Kaolack and Ziguinchor.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Teranga Tech Incub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CTIC Dakar",
+   "country_label": "Senegal",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Teranga Tech Incub",
+   "country_label": "Senegal",
+   "class": "hub",
+   "platform": "",
+   "owner": "French Embassy in Senegal",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Digital Center Senegal",
+   "country_label": "Senegal",
+   "class": "hub",
+   "platform": "",
+   "owner": "Sonatel and Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -9,10 +9,10 @@
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-004;MUS-001",
-      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "Rebuild 2026-11-13: the National SME Incubator Scheme's six incubators run incubation and acceleration (MUS-004) and Turbine runs cohorts (MUS-001), so 3 holds. No fact places them in two or more cities, so not 4.",
-      "as_at": "2026-11-13"
+      "stage_sources": "MUS-005;MUS-007;MUS-006",
+      "gaps": "No source found since October 2023 places hubs with programmes in two or more cities; only Turbine is placed, in Port Louis, and no technology park with tenants is on record.",
+      "note": "Stage 4c 2026-11-15: Turbine took ten start-ups into incubation in March 2026 and ran a seven-start-up programme from September 2026 (MUS-007, MUS-005), and La Plage Factory runs an incubation cohort (MUS-006), so 3 holds. The Ebène AI Innovation Lab has no programme on record (MUS-002) and no other hub is placed, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

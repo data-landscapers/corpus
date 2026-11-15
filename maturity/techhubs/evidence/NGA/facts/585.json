@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-04-nga-japan-govt-initiates-ihatch-program-to-harness-potential-of-nigeria-s",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "NITDA's ONDI runs the 5-month iHatch incubation programme with JICA, hosted at NCAIR in Abuja, holding the 2nd cohort demo day and opening a 3rd cohort of 8 startups.",
+   "as_of": "2023-12-04",
+   "date_precision": "day",
+   "system": "iHatch",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iHatch",
+   "country_label": "Nigeria",
+   "class": "hub",
+   "platform": "",
+   "owner": "ONDI (NITDA) with JICA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

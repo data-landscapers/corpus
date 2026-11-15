@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-15-cpv-techpark-de-cabo-verde-escolhe-parceiros-para-incubacao-de-startups",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Jornal Economico (Lusa) reports Techpark de Cabo Verde launched a tender for private partners to run an incubation programme for 100 startups, within a technology park being installed in Praia.",
+   "as_of": "2024-10-15",
+   "date_precision": "day",
+   "system": "Techpark de Cabo Verde",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Techpark de Cabo Verde",
+   "country_label": "Cabo Verde",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

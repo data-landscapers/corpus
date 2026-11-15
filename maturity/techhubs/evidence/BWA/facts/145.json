@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-19-bwa-in-conversation-diane-mongudi-acting-ceo-botswana-digital-innovation-h",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Acting CEO Diane Mongudi says the Botswana Digital & Innovation Hub has run an incubation programme, begun in 2011 as the First Step Venture Centre, taking startups from ideation to market entry, with graduates now needing commercialisation help.",
+   "as_of": "2024-04-19",
+   "date_precision": "day",
+   "system": "First Step Venture Centre",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Botswana Digital & Innovation Hub",
+   "country_label": "Botswana",
+   "class": "hub",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

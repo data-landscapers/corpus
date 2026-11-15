@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-17-zmb-zambia-set-to-boost-innovation-with-ai-strategy-and-startup-bill",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Minister Felix Mutati said the Zambian government has invested $3 million, with UNDP's $6 million, in the Minetech mining-technology centre of excellence, whose launch is upcoming.",
+   "as_of": "2024-10-17",
+   "date_precision": "day",
+   "system": "Minetech",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Minetech",
+   "country_label": "Zambia",
+   "class": "hub",
+   "platform": "",
+   "owner": "Government of Zambia and UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-15-ner-lancement-de-la-2eme-cohorte-du-centre-incubateur-de-lescep-20-nouveau",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The Niger communication minister launched on 15 April 2024 the second cohort of 20 selected project holders at ESCEP's ICT incubator CITIC, after a first cohort.",
+   "as_of": "2024-04-15",
+   "date_precision": "day",
+   "system": "CITIC (Centre Incubateur des projets des TIC de l'ESCEP)",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CITIC",
+   "country_label": "Niger",
+   "class": "hub",
+   "platform": "",
+   "owner": "ESCEP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

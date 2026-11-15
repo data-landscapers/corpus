@@ -1,0 +1,34 @@
+{
+ "slug": "2025-03-25-cmr-unlocking-the-potential-of-cameroon-s-startup-ecosystem-strategies-for",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The Nkafu Policy Institute paper names the Silicon Mountain hub in Buea and the upcoming Silicon River hub in Yaounde, with no programme described.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "Silicon Mountain; Silicon River",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Silicon Mountain",
+   "country_label": "Cameroon",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Silicon River",
+   "country_label": "Cameroon",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

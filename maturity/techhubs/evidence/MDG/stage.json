@@ -9,10 +9,10 @@
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MDG-001",
-      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "Rebuild 2026-11-13: Orange Digital Center Madagascar incubated ten startups over nine months (MDG-001, January 2026), so 3 holds. The second Digital Center is still to be built, so not 4.",
-      "as_at": "2026-11-13"
+      "stage_sources": "MDG-003;MDG-007;MDG-001",
+      "gaps": "The cities of the three regional incubators (north, south and east) are not named, so hubs with programmes in two or more cities are not shown; no technology park is in service with tenants.",
+      "note": "Stage 4c 2026-11-15: Miary Digital's second cohort of 45 went through nine months' incubation (MDG-003, January 2026) and its three partner incubators supported the first (MDG-007), so 3 holds. The incubators are placed by region only and Technopole Madagascar's campus is still being built (MDG-005), so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

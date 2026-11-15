@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-27-nga-ihs-nigeria-kickoff-programs-at-the-ilorin-innovation-hub",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "IHS Nigeria announced on 27 February 2025 the commencement of incubation and acceleration programs at the newly built Ilorin Innovation Hub, a Kwara State Government initiative, with Co-creation Hub and Future Africa as program managers; no startup cohort is stated.",
+   "as_of": "2025-02-27",
+   "date_precision": "day",
+   "system": "Ilorin Innovation Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ilorin Innovation Hub",
+   "country_label": "Nigeria",
+   "class": "hub",
+   "platform": "",
+   "owner": "Kwara State Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-21-bdi-burundi-bujahub-fosters-a-thriving-digital-entrepreneurship-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "BujaHub, a Bujumbura NGO founded in 2019, offers an incubator and an acceleration program for startups and says it has supported over 100 startups and launched more than 25 programs.",
+   "as_of": "2023-11-21",
+   "date_precision": "day",
+   "system": "BujaHub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BujaHub",
+   "country_label": "Burundi",
+   "class": "hub",
+   "platform": "",
+   "owner": "YADF and SAY",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

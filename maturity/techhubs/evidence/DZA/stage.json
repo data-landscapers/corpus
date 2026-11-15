@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "2",
-      "hubs": "underway",
+      "stage": "3",
+      "hubs": "inservice",
       "cities": "",
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-001;DZA-002",
-      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-      "note": "Rebuild 2026-11-13: Algeria's AI start-up cluster opened in April 2026 with no cohort named (DZA-001), and the drone platform's intake is a target (DZA-003), so 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "DZA-007",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities: the ministry names incubators at Bordj Bou Arreridj and Oran with no programme or cohort. The Sidi-Abdellah cyberpark's thirty companies cannot count while that rung is unmet.",
+      "note": "Parent check 2026-11-15: Ooredoo's T-Start incubates 21 startups and took four more in December 2025 (DZA-007), so 2 to 3. The ministry page names incubators in Bordj Bou Arreridj and Oran with no programme or cohort (DZA-009), so not 4, and the cyberpark's tenants (DZA-010) cannot reach 5 past it.",
+      "as_at": "2026-11-15"
     }
   ]
 }

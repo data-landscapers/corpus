@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-06-tun-orange-fab-tunisie-lance-sa-8eme-cohorte-une-edition-100-ia",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Orange Tunisie says its Orange Fab accelerator, in Tunis, took five startups into its 8th cohort, bringing the total accelerated since April 2019 to 45.",
+   "as_of": "2026-03-06",
+   "date_precision": "day",
+   "system": "Orange Fab Tunisie",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Fab Tunisie",
+   "country_label": "Tunisia",
+   "class": "hub",
+   "platform": "",
+   "owner": "Orange Tunisie",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

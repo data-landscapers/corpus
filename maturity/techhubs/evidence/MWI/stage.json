@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hub",
-      "stage": "2",
-      "hubs": "underway",
+      "stage": "3",
+      "hubs": "inservice",
       "cities": "",
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-002;MWI-001",
-      "gaps": "No source found since October 2023 says a hub runs an incubation or acceleration programme with a cohort of startups: the Digital Malawi Project's 10 tech hubs are reported for digital-skills training and seed funding to some beneficiaries, not for a startup cohort.",
-      "note": "Ten government tech hubs are open, but the programme on record is skills training and seed grants, not incubation of a startup cohort, so stage 2. Not stage 3 until a hub's incubation or acceleration cohort is held.",
-      "as_at": "2026-10-24"
+      "stage_sources": "MWI-007;MWI-006",
+      "gaps": "No source found since October 2023 says hubs with programmes for tech startups are in service in two or more cities: the Blantyre programme is the stock exchange's incubation of SMEs, not shown to be for tech startups. No technology park with tenants is on record.",
+      "note": "Stage 4c 2026-11-15: UNDP's Growth Accelerator launched its ninth and tenth cohorts in Lilongwe in April 2025 (MWI-007) and the stock exchange's Mzinga programme graduated a first cohort in Blantyre (MWI-006), so 2 to 3. Mzinga incubates SMEs for listing rather than tech startups, so the second city is not shown and not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-22-zmb-bongohive-announces-top-10-founders-advancing-to-the-women-in-tech-zam",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "BongoHive announced on 22 June 2026 that 10 of 20 boot camp founders advance to a 12-week Women in Tech Zambia Cohort 6 accelerator.",
+   "as_of": "2026-06-22",
+   "date_precision": "day",
+   "system": "BongoHive",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BongoHive",
+   "country_label": "Zambia",
+   "class": "hub",
+   "platform": "",
+   "owner": "BongoHive",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

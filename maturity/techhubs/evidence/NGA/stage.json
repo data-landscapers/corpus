@@ -9,10 +9,10 @@
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-003",
-      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "Rebuild 2026-11-13: the ACE Startup Academy began founder training for 50 teams in Abuja in August 2026, leading to incubation for ten (NGA-003), so 3 holds. No hub with programmes is placed outside Abuja, so not 4.",
-      "as_at": "2026-11-13"
+      "stage_sources": "NGA-003;NGA-017",
+      "gaps": "No cohort is named at a hub outside Abuja: the Port Harcourt, Enugu and Ilorin programmes are described without one. No science or technology park with tenants is held; Vibranium Valley (NGA-012) is a single tech campus.",
+      "note": "Stage 4c 2026-11-15: the ACE Startup Academy (NGA-003) and iHatch (NGA-017) took cohorts in Abuja, so 3 holds. Nairametrics's ranking names hubs with programmes in other cities but no cohort, read as Cabo Verde's AfriLabs listing is, so not 4.",
+      "as_at": "2026-11-15"
     }
   ]
 }

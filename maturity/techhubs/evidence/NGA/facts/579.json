@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-18-nga-nigeria-jica-partner-to-launch-11-2-million-innovation-hub-bolster-sta",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "NITDA states it has begun an 11.2 million dollar JICA-funded innovation hub in Abuja, with consultants set to start preliminary design.",
+   "as_of": "2025-06-18",
+   "date_precision": "day",
+   "system": "Abuja Startup Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Abuja Startup Hub",
+   "country_label": "NGA",
+   "class": "hub",
+   "platform": "",
+   "owner": "NITDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
