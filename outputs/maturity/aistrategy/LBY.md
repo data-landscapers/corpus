@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found names a body set up or named to carry out the strategy: a council, office, agency, committee or ministry unit.
+***Not found***. No council, office, agency, committee or ministry unit has been found named to carry out the strategy.

@@ -4,4 +4,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No strategy current or in preparation is on record, and no source dated in the last three years says the country has none.
+***Not found***. No strategy current or in preparation has been found. No source dated in the last three years says the country has none.

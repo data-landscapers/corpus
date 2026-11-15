@@ -2,7 +2,7 @@
 
 ## Censuses and surveys
 
-**A census taken or in preparation.** [UNECA's synopsis of African population statistics (August 2026) states that Eritrea has not conducted a population census since independence](<https://datalab.uneca.org/docs-acs/sites/default/files/ood-documents/Population-Summary.pdf>). It is the only fact held on the country's census and surveys: no news story or official notice read for this study says more, and the census and survey reports themselves were not read.
+**A census taken or in preparation.** [UNECA's synopsis of African population statistics (August 2026) states that Eritrea has not conducted a population census since independence](<https://datalab.uneca.org/docs-acs/sites/default/files/ood-documents/Population-Summary.pdf>).
 
 **Results published.** No source found reports preliminary or final results of a census counted since October 2016. The nearest held fact: [UNECA's synopsis of African population statistics (August 2026) states that Eritrea has not conducted a population census since independence](<https://datalab.uneca.org/docs-acs/sites/default/files/ood-documents/Population-Summary.pdf>).
 

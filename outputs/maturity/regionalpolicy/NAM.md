@@ -8,4 +8,4 @@
 
 ***Also on file***. [AI for Good Global Commission](<https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/>); [Abuja Ministerial Declaration on Meaningful Connectivity for Africa](<https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/>).
 
-***Not found***. No source found gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.
+***Not found***. No source from the last three years gives figures of use or a decision of a joint body. None reviews what an agreement has delivered.

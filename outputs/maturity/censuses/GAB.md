@@ -2,9 +2,9 @@
 
 ## Censuses and surveys
 
-**A census taken or in preparation.** [The national population and housing census (RGPL) has been enumerated, with the Estuaire governor reporting coverage above 95% in her province](<https://www.gabonreview.com/rgpl-la-cour-constitutionnelle-lance-la-verification-des-chiffres-dans-les-neuf-provinces/>). It is the only fact held on the country's census and surveys: no news story or official notice read for this study says more, and the census and survey reports themselves were not read.
+**A census taken or in preparation.** [Gabon's national population and housing census (RGPL) has been enumerated](<https://www.gabonreview.com/rgpl-la-cour-constitutionnelle-lance-la-verification-des-chiffres-dans-les-neuf-provinces/>). The governor of Estuaire province reports census coverage above 95% in her province. No count of the population from the census has been found.
 
-**Results published.** No source found reports preliminary or final results of a census counted since October 2016. The nearest held fact: [The national population and housing census (RGPL) has been enumerated, with the Estuaire governor reporting coverage above 95% in her province](<https://www.gabonreview.com/rgpl-la-cour-constitutionnelle-lance-la-verification-des-chiffres-dans-les-neuf-provinces/>).
+**Results published.** No source found reports preliminary or final results of a census counted since October 2016. The nearest fact found is that [Gabon's national population and housing census (RGPL) has been enumerated](<https://www.gabonreview.com/rgpl-la-cour-constitutionnelle-lance-la-verification-des-chiffres-dans-les-neuf-provinces/>). The governor of Estuaire province reports census coverage above 95% in her province.
 
 **A household survey published.** No source found reports results of a national household survey published since October 2023. The nearest fact: [in August 2026 the Estuaire governor reported census coverage above 95% in her province](<https://www.gabonreview.com/rgpl-la-cour-constitutionnelle-lance-la-verification-des-chiffres-dans-les-neuf-provinces/>).
 

@@ -4,4 +4,4 @@
 
 ***Also on file***. *None found.*
 
-***Not found***. Nothing found says government policy is criticised in public inside the country, that the internet was cut, or that anyone was punished for what they said.
+***Not found***. Nothing found says government policy is criticised in public inside the country. Nothing found says the internet was cut, or that anyone was punished for what they said.

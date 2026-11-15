@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found says a national AI strategy is adopted and still running, or names a body to carry one out or money allocated to it.
+***Not found***. No source found says a national AI strategy is adopted and still running. None names a body to carry one out or money allocated to it.

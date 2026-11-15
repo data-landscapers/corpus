@@ -8,6 +8,6 @@
 
 **Use reported.** IMIJ [counted more than 30 million data requests on SNIAC and over 50 connected services](<https://imij.gov.cv/noticias/cms-noticia-44>) in May 2026. The Autentika page [says more than 95,000 users use the platform daily](<https://portal-autentika.gov.cv/>) to reach work applications.
 
-***Also on file***. [Cartão Nacional de Identificação (CNI) / SNIAC](<https://sniac.cv/cartao-nacional-de-identificacao/>); [Chave Móvel Digital de Cabo Verde (CMDCV)](<https://sniac.cv/cartao-nacional-de-identificacao/>); [Autentika](<https://sniac.cv/cartao-nacional-de-identificacao/>); [Cartão Nacional de Identificação (CNI)](<https://portal-autentika.gov.cv/>); [PDEX](<https://pdex.gov.cv/>); [Portal de Serviços Públicos Digitais Integrados do Estado](<https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/>).
+***Also on file***. [Cartão Nacional de Identificação (CNI) / SNIAC](<https://sniac.cv/cartao-nacional-de-identificacao/>). [Chave Móvel Digital de Cabo Verde (CMDCV)](<https://sniac.cv/cartao-nacional-de-identificacao/>). [Autentika](<https://sniac.cv/cartao-nacional-de-identificacao/>). [Cartão Nacional de Identificação (CNI)](<https://portal-autentika.gov.cv/>). [PDEX](<https://pdex.gov.cv/>). [Portal de Serviços Públicos Digitais Integrados do Estado](<https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/>).
 
 ***Not found***. Nothing further is asked of this indicator.

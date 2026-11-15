@@ -6,7 +6,7 @@
 
 **Results published.** [Tanzania released its 2022 census report within 45 days of data collection](<https://dailynews.co.tz/statistical-master-plan-implementation-on-track/>), the Statistician General said in March 2024.
 
-**A household survey published.** [The NBS microdata catalogue released the Integrated Labour Force Survey 2025 (14,232 households, fieldwork January to December 2025, 99.63 percent response) on 15 July 2026 as edited final data for public use, with a 2026 NBS key-indicators report cited](<https://microdata.nbs.go.tz/index.php/catalog/65>).
+**A household survey published.** [The NBS microdata catalogue released the Integrated Labour Force Survey 2025 on 15 July 2026 as edited final data for public use](<https://microdata.nbs.go.tz/index.php/catalog/65>). The survey covered 14,232 households, with fieldwork from January to December 2025 and a 99.63 percent response. A 2026 NBS key-indicators report is cited.
 
 ***Also on file***. [Permanent voter register](<https://thechanzo.com/2025/08/04/inec-tanzania-responds-to-concerns-over-voter-register-numbers/>); [Agricultural surveys (50x2030)](<https://blogs.worldbank.org/en/opendata/can-today-s-agricultural-surveys-power-tomorrow-s-agricultural-a>); [Annual Agricultural Sample Survey 2023/24](<https://www.nbs.go.tz/uploads/statistics/documents/en-1760643333-KEY%20FINDINGS%20REPORT_AASS%202023-24_ENGLISH.pdf>).
 

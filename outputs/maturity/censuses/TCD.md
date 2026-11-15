@@ -2,9 +2,9 @@
 
 ## Censuses and surveys
 
-**A census taken or in preparation.** [INSEED states that collection operations of the third general population and housing census (RGPH-3) officially ended on 6 August 2026, the country's first fully digital census](<https://www.inseed.td/>). [A few days before the close of the RGPH-3 count, the national coordinator for nomadic populations found in Batha that no enumerator had yet reached one herder camp and ordered a team sent; enumeration was still under way](<https://lendjampost.com/rgph-3-dans-le-batha-une-mission-de-terrain-pour-ne-laisser-aucun-nomade-de-cote/>).
+**A census taken or in preparation.** [INSEED states that collection operations of the third general population and housing census (RGPH-3) officially ended on 6 August 2026](<https://www.inseed.td/>). It was the country's first fully digital census. [A few days before the count closed, the national coordinator for nomadic populations found in Batha that no enumerator had yet reached one herder camp](<https://lendjampost.com/rgph-3-dans-le-batha-une-mission-de-terrain-pour-ne-laisser-aucun-nomade-de-cote/>). The coordinator ordered a team sent, and enumeration was still under way.
 
-**Results published.** No source found reports preliminary or final results of a census counted since October 2016. The nearest held fact: [INSEED states that collection operations of the third general population and housing census (RGPH-3) officially ended on 6 August 2026, the country's first fully digital census](<https://www.inseed.td/>).
+**Results published.** No source found reports preliminary or final results of a census counted since October 2016. [INSEED states that collection operations of the third general population and housing census (RGPH-3) officially ended on 6 August 2026](<https://www.inseed.td/>). It was the country's first fully digital census.
 
 **A household survey published.** [The 2019 MICS6 survey put birth registration at 25.5% nationally, 50% urban and 21.1% rural](<https://gffklportal.org/staying-connected/enregistrement-des-statistiques-et-faits-detat-civil-au-tchad/>). [UNICEF's deputy representative cited MICS-6 2019: 74% of children under five were not registered](<https://tchadinfos.com/2023/11/16/tchad-la-campagne-denregistrement-universel-a-letat-civil-des-naissances-de-la-ville-de-ndjamena-est-officiellement-lancee/>).
 
