@@ -56,7 +56,7 @@ Read its output in `prep/scope/{ISO3}/`; re-derive nothing by hand.
 ### Stage 3 — the parent assembles
 
 1. `python scripts/status-assemble.py {ISO3} --hub-reviewed {date} --intersections {n}`.
-2. `python scripts/status-acquire.py {ISO3} --compiled {date}`, then re-run the assemble. Commit other standing work in the share first, under its own subject; push after each commit.
+2. **Ask for the gaps.** Every unheld source dated 2024 or later goes in one `[ACT]` note for the country in `C:\corpus-osint-xfer\notes-for-osint.md`, one URL a line. Commit and push the share at once.
 3. **Verify**: checks A to K on the assembled file.
 4. `python scripts/status-progress.py`.
 5. Report on two lines: `{ISO3} · sections written NN of 39 · not established NN · sources cited NN · acquire lines NN`, and the run cost.
@@ -76,7 +76,7 @@ Read its output in `prep/scope/{ISO3}/`; re-derive nothing by hand.
 For a URL the catalogue does not hold:
 
 - **dated before 2024** — state the fact, link it, nothing owed;
-- **dated 2024 or later** — state it, link it, and add one line to `C:\corpus-osint-xfer\africa-acquire.csv` (`iso3,published,publisher,title,url,sub_section,found,status,notes`). A run rewrites only its own country's rows; `status` and `notes` are Bill's. Read `acquire-done.csv` too: a closed row does not come back.
+- **dated 2024 or later** — state it, link it, and list it in the country's note (stage 3, step 2), unless the share's `documentation\archived\acquire-done.csv` already closed it.
 
 **No disagreement is narrated.** Where a fact is unestablished, one plain dated sentence about the country — *"No dedicated data protection law had been enacted as at August 2026"* — never about the evidence.
 

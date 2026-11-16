@@ -5,7 +5,7 @@ status-stage.py — screen, fetch and stage one country's rows of the acquire fe
     python scripts/status-stage.py STP              # screen, fetch, stage, write the drop list
     python scripts/status-stage.py STP --ready      # after lint-staged-queue passes: write READY
 
-**The screen is OSINT's, stated for Corpus in `X:\status-acquire.md`** (strategic review 4,
+**The screen is OSINT's, stated for Corpus in `X:\documentation\archived\status-acquire.md`** (strategic review 4,
 R22a); this implements it and adds nothing. Cheap mechanical exclusion from the row alone,
 before a fetch is spent: `held` and `rejected` are lookups against OSINT's `lookups/`, keyed
 on the normalisation that file states; `not-a-document` is a URL shape OSINT has already
@@ -59,7 +59,7 @@ THIN = 400
 
 
 def norm(url: str) -> str:
-    """`X:\\status-acquire.md` -> *Matching*: decode, drop scheme, `www.` and fragment and
+    """`X:\\documentation\\archived\\status-acquire.md` -> *Matching*: decode, drop scheme, `www.` and fragment and
     tracking parameters, lower-case the host only, strip a trailing slash."""
     u = up.unquote(url.strip())
     u = re.sub(r"^[a-z][a-z0-9+.-]*://", "", u, flags=re.I).split("#")[0]

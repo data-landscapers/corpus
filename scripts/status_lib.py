@@ -59,7 +59,7 @@ ACQUIRE_CSV = os.path.join(EXCHANGE, "africa-acquire.csv")
 # feed and files them here with a `status` of `staged` or `dropped` and a `closed` date
 # (first run, AGO, 2026-08-24). A row that has left the feed is settled, not forgotten, so
 # both files have to be read to know whether a URL owes an acquisition.
-ACQUIRE_DONE_CSV = os.path.join(EXCHANGE, "acquire-done.csv")
+ACQUIRE_DONE_CSV = os.path.join(EXCHANGE, "documentation", "archived", "acquire-done.csv")
 OUTLINE = os.path.join(REPO, "documentation", "status-outline.md")
 # The outline is split across three files to keep each under the spec cap (review 5 R92; R151
 # moved Governance out when its indicators were listed); each chapter's headings live in exactly
