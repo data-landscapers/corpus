@@ -20,7 +20,7 @@ The AU Charter on the Principles of Public Service and Administration asks for s
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 4 |
 | 3 Established | 8 |
 | 2 Nascent | 40 |
@@ -30,7 +30,7 @@ The AU Charter on the Principles of Public Service and Administration asks for s
 
 ## Countries
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 Federal civil servants were required in 2025 to take a digital-literacy course; about 79% enrolled and over 40% completed by 2026.
 

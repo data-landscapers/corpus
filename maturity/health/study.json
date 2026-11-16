@@ -23,7 +23,7 @@
       "indicator_id": "digital.rural--digitalisation-of-rural-health-clinics-hmis",
       "norm_short": "Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Framework (2025–26): 100,000 facilities connected by 2030 and 90 per cent digitally enabled primary care by 2035.",
       "class": "hmis",
-      "criteria_of": "59e98fa2a7dd",
+      "criteria_of": "9ecb3244bb74",
       "criteria": [
         "A dated source states that routine health reporting is not entered digitally at any level of the health system.",
         "A digital reporting system is used by hospitals only or in some districts, or a national rollout is contracted or being prepared: staff trained, equipment delivered or an agreement signed. Primary clinics do not use it, beyond pilot sites.",
@@ -40,7 +40,7 @@
       "indicator_id": "digital.rural--digitalisation-of-rural-health-clinics-emr",
       "norm_short": "Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Framework (2025–26): 100,000 facilities connected by 2030 and 90 per cent digitally enabled primary care by 2035.",
       "class": "emr",
-      "criteria_of": "68551e02eaa7",
+      "criteria_of": "a2fd07da20a5",
       "criteria": [
         "A dated source states that patient records are kept on paper at every level of the health system.",
         "Electronic patient records are in use in some hospitals or pilot facilities, or a national system is procured or being prepared: staff trained, equipment delivered or an agreement signed. Primary clinics do not use them, beyond pilot sites.",

@@ -20,7 +20,7 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 10 |
+| 5 Mature | 10 |
 | 4 Operating | 6 |
 | 3 Established | 34 |
 | 2 Nascent | 2 |
@@ -30,34 +30,34 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 
 ## Countries
 
-### Angola: 5 Leading
+### Angola: 5 Mature
 
 In 2025 about 36% of current revenue, oil taxes excluded, was paid through the state payment reference; customs e-payment was only partial.
 
 - Expansao, from EMIS data, calculates that about Kz 6.7 trillion, roughly 36% of Kz 18.9 trillion current revenue, was paid through RUPE in 2025, excluding oil taxes ([source, 2025](https://expansao.co.ao/economia/detalhe/pagamentos-via-rupe-ja-valem-36-das-receitas-correntes-do-estado-70130.html)).
 - Angola's AGT directed that payment of taxes be made electronically as a general rule through the Portal do Contribuinte, with office help only where internet access or digital literacy is lacking ([source, 2026-07-07](https://valoreconomico.co.ao/artigo/fim-do-papel-agt-exige-via-digital-para-pagamento-de-impostos-e-reclamacoes)).
 
-### Benin: 5 Leading
+### Benin: 5 Mature
 
 Nearly a third of state revenue was collected through digital channels in 2026; whether customs duties are paid electronically is not known.
 
 - The release says nearly a third of state revenue is now collected through digital channels ([source, 2026-03-25](https://anssfd.bj/benin-la-digitalisation-des-paiements-publics-double-les-ressources-de-letat-et-accelere-linclusion-financiere/)).
 - The release says taxpayers can now declare and pay taxes online, by automated bank transfer or mobile money, with instant receipts ([source, 2026-03-25](https://anssfd.bj/benin-la-digitalisation-des-paiements-publics-double-les-ressources-de-letat-et-accelere-linclusion-financiere/)).
 
-### Cote d'Ivoire: 5 Leading
+### Cote d'Ivoire: 5 Mature
 
 TresorPay collected FCFA 36 billion in 2024; whether the main taxes and duties are paid electronically is not known.
 
 - Minister Adama Coulibaly gives collections via TresorPay as FCFA 3 billion in 2021 and FCFA 36 billion in 2024 ([source, 2024](https://www.koaci.com/article/2025/09/15/cote-divoire/economie/cote-divoire-modernisation-des-finances-de-letat-le-tresor-public-accroit-ses-performances-grace-a-un-systeme-de-digitalisation-efficace-et-transparent_190194.html)).
 - Minister Adama Coulibaly says collections via TresorPay reached FCFA 36 billion from 2.5 million transactions in 2024 ([source, 2024](https://www.koaci.com/article/2025/09/15/cote-divoire/economie/cote-divoire-modernisation-des-finances-de-letat-le-tresor-public-accroit-ses-performances-grace-a-un-systeme-de-digitalisation-efficace-et-transparent_190194.html)).
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 A figure for revenue paid electronically was reported in 2024.
 
 - The Ministry of Finance gives EGP 2.5 trillion of e-payment and collection for July 2023 to May 2024, with electronic tax collection of EGP 613.1 billion and customs collection of EGP 284.3 billion ([source, 2024-05](https://english.ahram.org.eg/NewsContent/3/12/525882/Business/Economy/Epayment,-collection-services-in-Egypt-rise-to-EGP.aspx)).
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 About GH¢1.6 billion passed through the government's payment portal from 2019 to 2024; whether the main taxes and duties are paid electronically is not known.
 
@@ -65,34 +65,34 @@ About GH¢1.6 billion passed through the government's payment portal from 2019 t
 - Ghana Police say traffic fines notified under TraffiTech-GH from 1 November 2026 can be paid electronically by mobile money or card within 14 days ([source, 2026-11-01](https://www.wearetech.africa/fr/fils/actualites/tech/ghana-la-police-deploie-des-cameras-connectees-pour-automatiser-le-controle-routier)).
 - The Ghana Revenue Authority says domestic taxpayers pay taxes on the Ghana.gov platform by bank card, QR code, mobile money USSD and bank transfers, and at 22 designated banks, from 1 May 2021 ([source, 2021-04-21](https://gra.gov.gh/cashless-policy/)).
 
-### Mali: 5 Leading
+### Mali: 5 Mature
 
 A figure for revenue paid electronically was reported in 2026.
 
 - The ministry reported nearly FCFA 200 million collected for local authorities through digital payment between July 2024 and May 2026 ([source, 2026-05](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/)).
 - The DGI director-general says electronic receipts reached 300 billion FCFA in 2024, 30% of receipts against 2% in 2022 and up 34% on 2023 ([source, 2024](https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html)).
 
-### Mauritania: 5 Leading
+### Mauritania: 5 Mature
 
 A figure for revenue paid electronically was reported in 2026.
 
 - The finance minister said more than 500 taxpayers joined the DGI electronic platform, which contributed 36.45% of DGI revenue during 2026 ([source, 2026-07-30](https://www.ami.mr/archives/265398)).
 - The finance minister says more than 500 taxpayers joined the DGI electronic platform, which contributed to collecting 36.45% of the directorate's revenue in 2026 ([source, 2026-07-30](https://ami.mr/fr/archives/300004)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 In 2025, 91.4% of tax revenue was paid electronically; whether customs duties are paid electronically is not known.
 
 - The DGI 2025 activity report, as reported by le360, puts the share of tax revenue paid by tele-payment at 91.4% in 2025 (91.2% in 2024) ([source, 2025](https://fr.le360.ma/economie/impots-914-des-recettes-fiscales-encaissees-par-telepaiement-en-2025_UYH2TYM6ENA5HCQIPRGMWZML44/)).
 - The DGI figures show 91.1% of 2023 receipts were paid online (telepayee) ([source, 2023](https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl)).
 
-### Togo: 5 Leading
+### Togo: 5 Mature
 
 A figure for revenue paid electronically was reported in 2025.
 
 - OTR publishes electronic declaration and payment rates by directorate for 2020 to 2025, with telepaiement at 24% for DCIG/DOFAN/DOFR in 2025, up from 13% in 2024 ([source, 2025](https://www.otr.tg/index.php/fr/impots/statistiques-performances/teledeclaration-et-telepaiement.html)).
 
-### Zambia: 5 Leading
+### Zambia: 5 Mature
 
 In 2024 the revenue authority said about 99 percent of its payments, customs included, were made electronically.
 

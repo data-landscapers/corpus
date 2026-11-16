@@ -20,7 +20,7 @@ The African Union's Digital Transformation Strategy asks for an electronic busin
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 4 |
 | 3 Established | 31 |
 | 2 Nascent | 16 |

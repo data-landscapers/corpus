@@ -56,7 +56,7 @@ At phone width the sidebar stacks below the map and the changes box below the si
 | 2 | Preparing | `#e66a2c` |
 | 3 | Establishing | `#f2c12e` |
 | 4 | Operating | `#67a9cf` |
-| 5 | Leading | `#2166ac` |
+| 5 | Mature | `#2166ac` |
 | — | Unplaced | `#d4d4d4` |
 | — | No evidence | `#ffffff`, outlined |
 

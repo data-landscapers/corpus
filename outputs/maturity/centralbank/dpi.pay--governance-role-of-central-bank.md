@@ -20,7 +20,7 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Mature | 7 |
 | 4 Operating | 42 |
 | 3 Established | 5 |
 | 2 Nascent | 0 |
@@ -30,20 +30,20 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 
 ## Countries
 
-### Djibouti: 5 Leading
+### Djibouti: 5 Mature
 
 Djibouti's central bank licensed two e-money issuers and ran an automated clearing house in 2024; two Djiboutian banks were live on PAPSS in 2026.
 
 - PAPSS lists Djibouti as a country with live send-and-receive participants: East African Bank and Salaam African Bank ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
 
-### Gambia: 5 Leading
+### Gambia: 5 Mature
 
 The Gambia's central bank authorises mobile money providers, led the BANTABA 2.0 switch in 2025, and seven Gambian banks were live on PAPSS in 2026.
 
 - PAPSS lists Gambia as a country with live send-and-receive participants: seven banks (Access, AGIB, Bloom, Ecobank, First Bank, Trust Bank, Vista) ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
 - The PAPSS April 2026 coverage list shows Gambia as a country where PAPSS transfers are available, with live commercial banks AGIB Bank, Bloom Bank, Ecobank, First Bank, Trust Bank and Vista Bank ([source, 2026-04](https://papss.com/wp-content/uploads/2026/03/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_APRIL2026.pdf)).
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 The Bank of Ghana licensed payment providers, oversaw the national payment switch and linked mobile wallets to a regional payment system in 2026.
 
@@ -51,26 +51,26 @@ The Bank of Ghana licensed payment providers, oversaw the national payment switc
 - The Bank of Ghana's head of fintech says the Bank established GhIPSS in 2007 as a neutral, interoperable national payment infrastructure, publicly owned, connecting banks, mobile money operators and other payment service providers ([source, 2026-10-22](https://channelonenewsonline.com/2026/10/22/bank-of-ghana-pushes-for-seamless-african-cross-border-payments/)).
 - Bank of Ghana Governor Asiama said PAPSS has been extended to mobile wallets along the Ghana-Nigeria corridor ([source, 2026-10-13](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html)).
 
-### Liberia: 5 Leading
+### Liberia: 5 Mature
 
 The central bank took part in a regional or continental payment system in 2025.
 
 - The Central Bank of Liberia's Executive Governor said PAPSS was officially launched in Liberia on 27 March 2025, with the central bank as settlement agent ([source, 2025-03-27](https://www.cbl.org.lr/media/features-articles/eg-saamoi-speaks-joint-launch-fined-papss-monrovia)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 Nigeria's central bank licenses payment providers, part-owns the NIBSS switch and backed its National Payment Stack in 2026; Nigerian banks are live on PAPSS.
 
 - Bank of Ghana Governor Asiama said PAPSS has been extended to mobile wallets along the Ghana-Nigeria corridor ([source, 2026-10-13](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html)).
 - PAPSS CEO Mike Ogbalu said Nigeria was the first chair of the PAPSS Governing Council, made up of central bank governors, and continues to lead its rollout ([source, 2026-09](https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with)).
 
-### Sierra Leone: 5 Leading
+### Sierra Leone: 5 Mature
 
 Sierra Leone's central bank licensed eight fintechs by 2025, runs the national switch, and eight Sierra Leonean banks were live on PAPSS in 2025.
 
 - PAPSS lists eight Sierra Leonean banks (UBA, SLCB, Access, Bloom, Rokel, GTBank, Vista, FBNBank) as live, update May 2025 ([source, 2025-05](https://papss.com/wp-content/uploads/2025/05/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_19052025.pdf)).
 
-### Zimbabwe: 5 Leading
+### Zimbabwe: 5 Mature
 
 Zimbabwe's Reserve Bank licenses payment providers and regulates the ZIPIT switch (2024); Zimbabwe was processing payments through PAPSS in 2026.
 

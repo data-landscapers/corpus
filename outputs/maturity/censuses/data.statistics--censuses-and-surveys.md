@@ -20,7 +20,7 @@ The African Charter on Statistics (2009) and SHaSA 2 ask each country to produce
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 12 |
+| 5 Mature | 12 |
 | 4 Operating | 12 |
 | 3 Established | 19 |
 | 2 Nascent | 8 |
@@ -30,7 +30,7 @@ The African Charter on Statistics (2009) and SHaSA 2 ask each country to produce
 
 ## Countries
 
-### Angola: 5 Leading
+### Angola: 5 Mature
 
 Final results of the RGPH 2024 were published in 2025, and results of the 2023 household health survey were out by 2026.
 
@@ -38,14 +38,14 @@ Final results of the RGPH 2024 were published in 2025, and results of the 2023 h
 - INE states the definitive national results of the RGPH 2024 were published on 20 November 2025, and this Icolo e Bengo provincial report followed ([source, 2025-11-20](https://censo2024.ine.gov.ao/ICOLE%20E%20BENGO.pdf)).
 - The Countdown 2030 Angola synthesis report compares health-facility data with results of the DHS 2023 survey, which it uses for coverage estimates ([source, 2023](https://www.countdown2030.org/wp-content/uploads/2026/09/Angola.pdf)).
 
-### Gambia: 5 Leading
+### Gambia: 5 Mature
 
 The 2024 census's preliminary report came out in September 2024, and a 2026 labour force survey was published.
 
 - The Gambia Bureau of Statistics lists the Gambia Labour Force Survey GLFS 2026 (Q1), alongside the 2019/20 DHS, MICS6 and IHS 2020, with reports and microdata for download ([source, 2026-10-16](https://www.gbosdata.org/downloads)).
 - UNFPA The Gambia reports that the Gambia Bureau of Statistics launched the preliminary report of the 2024 digital population and housing census on 17 September 2024, giving a population of 2.4 million, over 300,000 more than in 2013 ([source, 2024-09-17](https://gambia.unfpa.org/en/news/unfpa-joins-gambia-bureau-statistics-and-partners-launch-2024-digital-population-and-housing)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 Kenya's 2019 census data were on its open data portal in 2025, and its 2022 household health survey was published in 2024.
 
@@ -53,14 +53,14 @@ Kenya's 2019 census data were on its open data portal in 2025, and its 2022 hous
 - Pollicy says the Kenya Open Data Initiative portal provides data such as the 2019 census ([source, 2019](https://pollicy.org/wp-content/uploads/2025/04/Policy-brief-13-Mar.pdf)).
 - The Communications Authority and KNBS released an analytical report on ICT uptake based on the 2022 Kenya Demographic and Health Survey, covering 42,022 households in 1,692 clusters ([source, 2024-12-17](http://www.ca.go.ke/households-electricity-have-higher-internet-usage-and-ict-device-ownership-survey-shows)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 A national household survey published results in 2026, after final census results.
 
 - HCP published the first Q1 2026 results of the new national labour force survey (EMO2026), which replaces the Enquete nationale sur l'emploi and has an annual sample of 135,000 households ([source, 2026-05-04](https://www.hcp.ma/Situation-du-marche-du-travail-au-Maroc-au-premier-trimestre-de-2026-a-partir-de-la-nouvelle-enquete-sur-la-main-d_a4309.html)).
 - The government adopted decree 2.24.1009 fixing the legal population by region, province and commune from the RGPH 2024 results; date is the document's published date ([source, 2024-11-07](https://www.hcp.ma/Population-legale-du-Royaume-du-Maroc-repartie-par-regions-provinces-et-prefectures-et-communes-selon-les-resultats-du_a3974.html)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 The 2022 census was counted and its main results published in 2023, and a demographic and health survey published results in 2026.
 
@@ -68,14 +68,14 @@ The 2022 census was counted and its main results published in 2023, and a demogr
 - NISR states the Fifth Rwanda Population and Housing Census was enumerated in fieldwork from 16 to 30 August 2022; a Main Indicators Report followed in February 2023 ([source, 2022-08-30](http://alpha.statistics.gov.rw/sites/default/files/documents/2025-02/RPHC5_MainIndicatorsReport_Final.pdf)).
 - The deck gives Rwanda's population as 13,246,394 individuals and 3,312,743 households from the 2022 Census ([source, 2022](https://spdci.org/wp-content/uploads/2025/03/Talking-Interoperability-18-Rwanda_vFinal_Updated.pdf)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 A national household survey published results in 2026, after final census results.
 
 - Statistics South Africa released the Quarterly Labour Force Survey Q2 2026 (P0211, fieldwork April to June 2026), a household-based sample survey of about 30,000 dwellings, reporting an unemployment rate of 33.6% ([source, 2026-08-11](https://www.statssa.gov.za/publications/P0211/P02112ndQuarter2026.pdf)).
 - Statistics South Africa released the first phase of Census 2022 results in October 2023 and has since published thematic reports, withholding some themes such as income and labour ([source, 2023-10](https://www.gov.za/news/media-statements/statistics-south-africa-census-2022-results-october-2023-22-aug-2024)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 The 2022 census report came out within weeks and a labour force survey published results in 2026; whether census results were final is not known.
 
@@ -83,35 +83,35 @@ The 2022 census report came out within weeks and a labour force survey published
 - The Statistician General says Tanzania released its census report within 45 days of data collection in 2022 ([source, 2022](https://dailynews.co.tz/statistical-master-plan-implementation-on-track/)).
 - The ILFS 2025 sampling frame was derived from the inventory of enumeration areas compiled during the 2022 Population and Housing Census; the document gives no enumeration date, so the year 2022 is used ([source, 2022](https://microdata.nbs.go.tz/index.php/catalog/65)).
 
-### Togo: 5 Leading
+### Togo: 5 Mature
 
 A national household survey published results in 2024, after final census results.
 
 - Detailed results of the second harmonised household living conditions survey (EHCVM-2, fieldwork 2021-2022) were presented with the RGPH-5 census results at a workshop chaired for the head of state on 13 December 2024 ([source, 2024-12-13](https://archive.presidence.gouv.tg/2024/12/14/developpement-presentation-des-principaux-resultats-du-rgph-5-et-de-la-ehcvm-2/)).
 - INSEED published the definitive results of RGPH-5 (November 2022) by region, prefecture, sex and urban/rural, totalling 8,095,498 residents ([source, 2023-09-25](https://inseed.tg/resultats-definitifs-du-rgph-5-novembre-2022/)).
 
-### Tunisia: 5 Leading
+### Tunisia: 5 Mature
 
 A national household survey published results in 2024, after final census results.
 
 - The economy ministry, the INS and UNICEF presented the results of Tunisia's 2023 Multiple Indicator Cluster Survey (MICS), covering 11,000 households with a 90% response rate, on 12 February 2024 ([source, 2024-02-12](https://www.unicef.org/tunisia/communiqu%C3%A9s-de-presse/publication-des-r%C3%A9sultats-de-lenqu%C3%AAte-nationale-par-grappe-%C3%A0-indicateurs)).
 - Tunisia's Institut National de la Statistique announced the publication of the official results of the 2024 general population and housing census at a press conference on 17 May 2025 ([source, 2025-05-17](http://www.ins.tn/event_rgph2024)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 A national household survey published results in 2025, after final census results.
 
 - UBOS released the findings of the 8th Uganda National Household Survey in May 2025, per the article ([source, 2025-05](https://nilepost.co.ug/news/361056/ubos-commissions-80-data-collectors-for-9th-uganda-national-household-survey)).
 - UBOS presents the final report (Volume I, Main) of the National Population and Housing Census 2024, dated December 2024; preliminary results came out on 27 June 2024 and provisional on 3 October 2024 ([source, 2024-12](https://www.ubos.org/wp-content/uploads/publications/National-Population-and-Housing-Census-2024-Final-Report-Volume-1-Main.pdf)).
 
-### Zambia: 5 Leading
+### Zambia: 5 Mature
 
 A national household survey published results in 2026, after final census results.
 
 - ZamStats presented highlights of the 2025 National Survey on Access and Usage of ICTs, a household survey of 32,500 individuals targeted in 325 enumeration areas ([source, 2026-03-24](https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2026/03/Zambia_2025-ICT-Survey.pdf)).
 - The Zambia Statistics Agency's Population Summary Report Volume Two, dated June 2024, gives final population figures of the 2022 census (total 19,693,423) ([source, 2024-06](https://www.zamstats.gov.zm/wp-content/uploads/2024/09/2022-Census-of-Population-and-Housing-Summary-Report-Part-2.pdf)).
 
-### Zimbabwe: 5 Leading
+### Zimbabwe: 5 Mature
 
 The 2022 census was counted and preliminary results published, and a household survey was published in 2026; final census results are not known.
 

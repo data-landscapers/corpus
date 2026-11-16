@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a policy being written, or one that has ended with no successor adopted |
 | 3 Establishing | Yes to 1 and 2: a policy adopted and in force |
 | 4 Operating | Yes to 1, 2 and 3: the government has named where public bodies must host |
-| 5 Leading | Yes to all four: public bodies have moved onto the named hosting |
+| 5 Mature | Yes to all four: public bodies have moved onto the named hosting |
 
 - **Questions 1 to 3 have no time limit**: an adopted policy stands, with its year, until a dated source says it has ended, been replaced or withdrawn.
 - **A statement that there is no policy counts for three years.**

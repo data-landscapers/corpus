@@ -20,7 +20,7 @@ The African Union's Digital Education Strategy asks for an individual, identifie
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 0 |
 | 3 Established | 7 |
 | 2 Nascent | 14 |
@@ -30,7 +30,7 @@ The African Union's Digital Education Strategy asks for an individual, identifie
 
 ## Countries
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 In 2026 the ministry said learner identification numbers were integrated with national identification numbers through the education data system.
 

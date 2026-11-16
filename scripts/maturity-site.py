@@ -104,7 +104,7 @@ STAGES = [
          desc="In service, but limited in scope, coverage or use."),
     dict(n=4, label="Operating", color="#67a9cf", ink="#1a1a18",
          desc="In service at scale: funded, regulated, used, maintained."),
-    dict(n=5, label="Leading", color="#2166ac", ink="#ffffff",
+    dict(n=5, label="Mature", color="#2166ac", ink="#ffffff",
          desc="Embedded: interoperable, measured, sustained; at or beyond the continental norm."),
 ]
 # Not staged. Unplaced keeps the grey; No evidence is left unfilled (Bill, 2026-10-19).

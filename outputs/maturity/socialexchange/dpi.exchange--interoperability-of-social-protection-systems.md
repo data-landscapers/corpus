@@ -20,7 +20,7 @@ The African Union's Protocol on Social Protection asks for a social protection i
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Mature | 3 |
 | 4 Operating | 10 |
 | 3 Established | 14 |
 | 2 Nascent | 15 |
@@ -30,13 +30,13 @@ The African Union's Protocol on Social Protection asks for a social protection i
 
 ## Countries
 
-### Congo: 5 Leading
+### Congo: 5 Mature
 
 The social registry was linked to the national ID and another sector in 2024.
 
 - Article 8 of the joint arrete of 20 August 2024 says the registre social unique holds data drawn from the civil-status information systems and the unique identification number, among other sources ([source, 2024-08-20](https://liziba.cg/wp-content/uploads/2024/09/Arrete-n-18503-du-20-aout-2024-fixant-les-regles-de-collecte-de-traitement-dechange-et-dactualisation-des-donnees-du-registre-social-unique.pdf)).
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 Ghana's household registry served several programmes in 2026 and was linked to the national ID, health insurance and education; how much data moves is unclear.
 
@@ -44,7 +44,7 @@ Ghana's household registry served several programmes in 2026 and was linked to t
 - The policy says registry data identifies beneficiaries for several programmes, namely LEAP, NHIS and school feeding ([source, 2026-07](https://gnhr.mogcsp.gov.gh/privacy.php)).
 - The policy says the registry links its data with the NIA, NHIA, GES and other MDA databases, and shares aggregated or de-identified data with authorised MDAs for interoperability ([source, 2026-07](https://gnhr.mogcsp.gov.gh/privacy.php)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 The social registry was linked to the national ID and another sector in 2026.
 

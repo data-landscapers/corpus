@@ -20,7 +20,7 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Mature | 2 |
 | 4 Operating | 7 |
 | 3 Established | 32 |
 | 2 Nascent | 7 |
@@ -30,7 +30,7 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 
 ## Countries
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 Government payments to people were checked against the national ID or social registry in 2026.
 
@@ -38,7 +38,7 @@ Government payments to people were checked against the national ID or social reg
 - LEAP says its 100th payment cycle in February 2026 reached all 216 MMDAs and over 350,000 households ([source, 2026-02](http://leap.mogcsp.gov.gh/background.php)).
 - The Office of the Special Prosecutor and the Controller and Accountant General's Department report that government employees' salaries are paid by payroll into their bank accounts, with banks directed to withhold affected persons' salaries from January 2024 ([source, 2024-01](https://osp.gov.gh/media/Resources/Government_Payroll_Administration_-_Phase_I_Vol_1.pdf)).
 
-### Togo: 5 Leading
+### Togo: 5 Mature
 
 Pensions and social cash transfers were paid digitally in 2026, beneficiaries checked against the national ID; whether salaries are paid digitally is not known.
 

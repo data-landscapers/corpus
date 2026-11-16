@@ -14,13 +14,13 @@ The African Union's Digital Transformation Strategy 2020–2030 asks every membe
 | 2 Preparing | Yes to 1: one route |
 | 3 Establishing | Yes to 2: two or more routes, sharing one landing station or one neighbour, or with no high-capacity cable |
 | 4 Operating | Yes to 3 and 3a: two independent routes, and a high-capacity cable carries the country's traffic |
-| 5 Leading | Yes to 4: two independent routes, a high-capacity cable, and capacity sold to other operators |
+| 5 Mature | Yes to 4: two independent routes, a high-capacity cable, and capacity sold to other operators |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 11 |
+| 5 Mature | 11 |
 | 4 Operating | 10 |
 | 3 Established | 22 |
 | 2 Nascent | 9 |
@@ -30,7 +30,7 @@ The African Union's Digital Transformation Strategy 2020–2030 asks every membe
 
 ## Countries
 
-### Angola: 5 Leading
+### Angola: 5 Mature
 
 Angola has cables landing at two Luanda stations and a land link to Namibia (2026), and capacity is sold wholesale on SACS.
 
@@ -38,7 +38,7 @@ Angola has cables landing at two Luanda stations and a land link to Namibia (202
 - The minister listed among Angola's sector investments the entry into operation of the 2Africa submarine cable, besides the SACS and WACS systems, i.e. three submarine systems in service; no landing stations are named and the date is the article's date ([source, 2026-04-28](https://angop.ao/noticias/tecnologia/centro-de-dados-do-governo-representa-afirmacao-da-soberania-digital-de-angola-ministro/)).
 - Ciena states Angola Cables sells wholesale capacity on its SACS and MONET cables to hyperscale, cloud, wholesale, content and enterprise customers, from a single 100 Gbps to a full fibre pair, including spectrum ([source, 2026-09-29](https://www.ciena.com/about/newsroom/press-releases/angola-cables-boosts-capacity-across-monet-and-sacs-submarine-cable-systems-with-ciena-technology)).
 
-### DR Congo: 5 Leading
+### DR Congo: 5 Mature
 
 Two independent fibre routes abroad by 2026, and other operators buy capacity on them.
 
@@ -46,7 +46,7 @@ Two independent fibre routes abroad by 2026, and other operators buy capacity on
 - Airtel Congo RDC SA says it became the first operator in DRC to put the first phase of the 2Africa submarine cable into service, activating an initial 200 Gbps on 2025-12-18; the document names no landing station ([source, 2025-12-18](https://fr.linkedin.com/posts/airteldrc_airtel-congo-rdc-sa-1er-r%C3%A9seau-%C3%A0-mettre-activity-7407828782549655552-0p5z)).
 - Paratus says the G2M Goma-Mombasa route is already carrying traffic for its first wholesale customers and is designed for carriers, ISPs and enterprises, i.e. operators other than the owner buy capacity on it ([source, 2026-02-09](https://itweb.africa/article/paratus-lights-up-new-east-africa-fibre-highway-linking-goma-to-mombasa/wbrpOqg2aJQMDLZn)).
 
-### Djibouti: 5 Leading
+### Djibouti: 5 Mature
 
 Two independent routes and a high-capacity cable by 2024, with over 50 operators buying capacity at the landing stations; open-access terms are not known.
 
@@ -54,7 +54,7 @@ Two independent routes and a high-capacity cable by 2024, with over 50 operators
 - DCD states Djibouti City is a landing station for several cable systems including 2Africa, Seacom, Sea-Me-We-6, AAE-1 and DARE (Djibouti Africa Regional Express), all at the one city (not recorded as independent) ([source, 2026-02](https://www.datacenterdynamics.com/en/news/ethio-telecom-djibouti-telecom-and-sudatel-group-sign-strategic-fiber-agreement/)).
 - Djibouti Telecom says its cable infrastructure serves more than 50 telecom operators with connections to more than 90 countries, who can switch between cables there ([source, 2024-05](https://magazinedelafrique.com/african-business/vers-un-hub-numerique-mondial/)).
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 Two independent fibre routes abroad by 2025, and other operators buy capacity on them.
 
@@ -62,7 +62,7 @@ Two independent fibre routes abroad by 2025, and other operators buy capacity on
 - Telecom Egypt says the 2Africa cable lands in Egypt at Ras Ghareb on the Red Sea and Port Said on the Mediterranean, joined by two trans-Egypt terrestrial routes, and its core infrastructure is complete; as_of is the press release date ([source, 2025-11-19](https://ir.te.eg/en/CorporateNews/PressRelease/232/The-Completion-of-2Africa-A-Consortium-Milestone-for-Global-Connectivity)).
 - Telecom Egypt describes WeConnect as an open, neutral, transparent ecosystem for cross-connecting subsea cable systems landing at different Egyptian stations, with international operators, local ISPs and cloud/OTT players listed as clients, and describes its Smart Village data hub as open access; brochure dated 2025-01-10 ([source, 2025-01](https://te.eg/interactivemap/assets/downloads/Telecom_Egypt_The_Digital_Hub.pdf)).
 
-### Mozambique: 5 Leading
+### Mozambique: 5 Mature
 
 Two independent fibre routes abroad by 2025, and other operators buy capacity on them.
 
@@ -70,7 +70,7 @@ Two independent fibre routes abroad by 2025, and other operators buy capacity on
 - SDxCentral (15 August 2023) reports Vodacom said the 2Africa cable officially launched in Mozambique at Nacala-Porto, after landing in Maputo in February 2023; Vodacom is the project partner ([source, 2023-08](https://www.sdxcentral.com/news/east-africa-portion-of-2africa-cable-goes-live-in-mozambique-and-tanzania/)).
 - WIOCC and Tmcel signed a framework agreement on 23 July 2025 in Maputo under which WIOCC delivers capacity on the 2Africa East subsea cable and terrestrial routes into South Africa to Tmcel, as reported by Submarine Networks ([source, 2025-07-23](https://www.submarinenetworks.com/en/systems/asia-europe-africa/2africa/wiocc-and-tmcel-partner-to-boost-2africa-connectivity-in-mozambique)).
 
-### Namibia: 5 Leading
+### Namibia: 5 Mature
 
 Namibia has two submarine cables and a land route to Johannesburg (2026), and other operators buy capacity on the Equiano cable.
 
@@ -79,7 +79,7 @@ Namibia has two submarine cables and a land route to Johannesburg (2026), and ot
 - Telecom Namibia states Equiano was co-landed at Swakopmund alongside Paratus, so a second operator (Paratus) holds its own capacity on the cable (minister's remark on collaborative co-landing) ([source, 2024-07-31](https://www.telecom.na/media-centre/797-telecom-namibia-celebrates-32-years-with-historic-inauguration-of-the-%E2%80%9Ctelecom-namibia-equiano-cable-station%E2%80%9D-and-activation-of-capacity-on-equiano-subsea-cable)).
 - Per Telecom Namibia's own release, Telecom Namibia (landing party at its Swakopmund landing station) will give Angola Telecom, another operator, an initial dedicated 1 Tbps of capacity on the Equiano cable and host Angola Telecom's equipment there, under a master service agreement signed 12 June 2026 ([source, 2026-06-12](https://telecom.na/media-centre/910-telecom-namibia,-angola-telecom,-and-satcab-sign-landmark-sarssy-and-equiano-submarine-cable-systems-master-service-agreement-in-angola)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 Two independent fibre routes abroad by 2025, and other operators buy capacity on them.
 
@@ -87,7 +87,7 @@ Two independent fibre routes abroad by 2025, and other operators buy capacity on
 - TechAfrica News says the 2Africa cable was declared complete and activated in late 2025, with MTN GlobalConnect (Bayobab) leading the landing in Nigeria ([source, 2025](https://techafricanews.com/2026/02/12/2africa-is-here-how-africa-can-capture-the-full-potential-of-the-subsea-cable/)).
 - Equinix/MainOne provides the 2Africa landing facilities, middle-mile fibre and carrier-neutral data centre PR1 so network operators, cloud providers and enterprises can plug into the capacity; the cable itself belongs to a consortium (TechCabal) ([source, 2026-02](https://techcabal.com/2026/02/09/equinix-opens-first-south-south-data-centre/)).
 
-### Senegal: 5 Leading
+### Senegal: 5 Mature
 
 A land route and several cables, among them 2Africa, carried traffic abroad by 2025, and other operators reach the cables at a neutral facility.
 
@@ -95,7 +95,7 @@ A land route and several cables, among them 2Africa, carried traffic abroad by 2
 - Sonatel's own press release says the 2Africa cable, in service since December 2025 with 180 Tbit/s nominal capacity, lands in Senegal at a station Sonatel built ([source, 2025-12](https://sonatel.sn/sonatel-annonce-la-mise-en-service-du-cable-sous-marin-2africa-le-plus-performant-jamais-deploye-en-afrique/)).
 - Onix, quoted by DCD, says its neutral colocation facility at the 2Africa landing station in Dakar lets customers connect to all submarine cables in Senegal in a wholesale environment ([source, 2023-02-16](https://www.datacenterdynamics.com/en/news/onix-data-centers-expands-into-dakar-senegal/)).
 
-### Somalia: 5 Leading
+### Somalia: 5 Mature
 
 Two independent fibre routes abroad by 2022, and other operators buy capacity on them.
 
@@ -103,7 +103,7 @@ Two independent fibre routes abroad by 2022, and other operators buy capacity on
 - The Star reports Somcable Submarine Network (Somaliland-based) operates two international subsea landings, 2Africa and PEACE, at the Port of Berbera, which its CTO calls two physically diverse routes ([source, 2026-09-14](https://www.the-star.co.ke/news/2026-09-14-kenyas-digital-future-takes-shape-as-data-giants-converge-in-nairobi)).
 - DatacenterDynamics reports Hormuud Telecom's newly completed Somali cable landing station (location undisclosed) is open-access and will accommodate various submarine cables ([source, 2022-11-02](https://www.datacenterdynamics.com/en/news/hormuud-telecom-cable-landing-station-construction-completed-in-somalia/)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 Two independent fibre routes abroad by 2024, and other operators buy capacity on them.
 
@@ -111,7 +111,7 @@ Two independent fibre routes abroad by 2024, and other operators buy capacity on
 - Bayobab (MTN Group) says the 2Africa West route is open for business with South African landings at Yzerfontein and Duynefontein ([source, 2025-12-04](https://bayobab.africa/2africa-west-seamless-connectivity-at-scale/)).
 - Xalam Analytics states South Africa's wholesale fibre regulatory regime is the most open in Africa, with highly competitive terrestrial fibre and international bandwidth markets ([source, 2026-01](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/Data-Center-Market-Briefs-South-Africa-2026.pdf)).
 
-### Tunisia: 5 Leading
+### Tunisia: 5 Mature
 
 Two independent fibre routes abroad by 2026, and other operators buy capacity on them.
 

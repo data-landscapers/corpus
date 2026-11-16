@@ -20,7 +20,7 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 9 |
+| 5 Mature | 9 |
 | 4 Operating | 18 |
 | 3 Established | 12 |
 | 2 Nascent | 8 |
@@ -30,13 +30,13 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 
 ## Countries
 
-### Algeria: 5 Leading
+### Algeria: 5 Mature
 
 Online filing was mandatory or used by most taxpayers in 2026.
 
 - AlgerieZoom reports that electronic filing is mandatory for DGE taxpayers and, under instruction 31/2026, for real-profit regime and simplified non-commercial-profession taxpayers, though 2025 returns other than series G n°50 may still be filed on paper ([source, 2026-05-06](https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/)).
 
-### Central African Republic: 5 Leading
+### Central African Republic: 5 Mature
 
 Since 2025 large taxpayers must file and pay taxes online; the share of returns filed online is not known.
 
@@ -44,7 +44,7 @@ Since 2025 large taxpayers must file and pay taxes online; the share of returns 
 - The finance minister's communiqué of 7 August 2025 says e-Tax, the tax e-filing and e-payment platform, was launched more than five months earlier, with all tax operations meant to be online since 22 March 2025 ([source, 2025-08-07](https://ecomatin.net/fiscalite-bangui-menace-de-sanctionner-les-grandes-entreprises-qui-boudent-la-plateforme-e-tax)).
 - ITWeb Africa states the e-tax platform allows electronic tax payments, backed by the EU under a 24-month service contract ([source, 2025-01-31](https://itweb.africa/article/central-african-republic-advances-with-tax-digitalisation/rW1xL75n43RMRk6m)).
 
-### Guinea-Bissau: 5 Leading
+### Guinea-Bissau: 5 Mature
 
 Large and medium taxpayers must file tax returns online, and taxes can be paid by mobile money; the share filed online is not known.
 
@@ -52,13 +52,13 @@ Large and medium taxpayers must file tax returns online, and taxes can be paid b
 - The DGCI's Kontaktu platform lets taxpayers declare their taxes online, per O Democrata GB ([source, 2024-07-23](https://www.odemocratagb.com/?p=49407)).
 - Kontaktu lets taxpayers pay taxes by bank transfer, Orange Money and Mobile Money, per O Democrata GB ([source, 2024-07-23](https://www.odemocratagb.com/?p=49407)).
 
-### Mauritius: 5 Leading
+### Mauritius: 5 Mature
 
 Online filing was mandatory or used by most taxpayers in 2026.
 
 - The Mauritius Revenue Authority says all VAT returns from foreign digital-service suppliers must be submitted electronically through its systems ([source, 2026-01-01](https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Since 2026 foreign digital suppliers must file and pay VAT online, and other taxpayers can too; the share filed online is not known.
 
@@ -66,20 +66,20 @@ Since 2026 foreign digital suppliers must file and pay VAT online, and other tax
 - Hespress reports that the Direction generale des impots launched in May 2026 the electronic platform "Taxation on Digital Services" for foreign providers of remote services, under decree 2.25.862 which sets how they register, declare their Moroccan turnover and pay VAT ([source, 2026-05](https://fr.hespress.com/489385-publicite-meta-applique-la-tva-au-maroc-des-octobre.html)).
 - The DGI says Simpl lets taxpayers pay taxes online (telepaiements), with payment methods including direct debit and multichannel ([source, 2024-09](https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 Rwanda reported 96 to 100 percent of main-tax filings made electronically in 2023/24, with payment by mobile money and online banking.
 
 - The Rwanda Revenue Authority's 7th edition tax statistics put the share of filings made electronically at about 96 to 100 percent across excise, corporate income tax, PAYE, personal income tax and VAT in 2020/21 to 2023/24 ([source, 2024](https://www.rra.gov.rw/fileadmin/user_upload/RRA_Tax_Statistics_2023-2024.pdf)).
 
-### Senegal: 5 Leading
+### Senegal: 5 Mature
 
 Online filing was mandatory or used by most taxpayers in 2026.
 
 - The DGID says use of SENTAX is mandatory and paper returns are no longer accepted for Large Enterprise Directorate taxpayers from 1 September 2026, and for the Dakar medium-enterprise centres and regulated professions centre from 1 October 2026 ([source, 2026-09](https://www.dgid.sn/sentax)).
 - The DGID says use of SENTAX becomes mandatory for all declarations and payments of Large Enterprises Directorate taxpayers from 1 September 2026, and paper returns are no longer accepted by that directorate ([source, 2026-09-01](https://www.dgid.sn/storage/uploads/communique-sentax-1790185473.pdf)).
 
-### Sierra Leone: 5 Leading
+### Sierra Leone: 5 Mature
 
 In 2025 all income tax and GST returns were filed online, and taxes could be paid electronically; no legal mandate is known.
 
@@ -87,7 +87,7 @@ In 2025 all income tax and GST returns were filed online, and taxes could be pai
 - The NRA Commissioner General says everyone who files income tax and GST does so digitally on ITAS, fully operational since 2021, with no manual filing ([source, 2025-08-22](https://awokonewspapersl.com/nra-hits-100-digital-tax-filing-compliance-as-sierra-leones-revenue-reforms-accelerate/)).
 - NRA Commissioner General Jeneba Bangura said that through ITAS taxpayers can pay electronically, and that wallet money and mobile money now allow payments to be made electronically ([source, 2025-12](https://sierraloaded.sl/news/nra-digital-tax-mobile-payments-modernise/)).
 
-### Togo: 5 Leading
+### Togo: 5 Mature
 
 Online filing was mandatory or used by most taxpayers in 2025.
 

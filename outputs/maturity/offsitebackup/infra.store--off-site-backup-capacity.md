@@ -14,13 +14,13 @@ The Smart Africa Data Center and Cloud Blueprint asks for 24/7 availability of e
 | 2 Preparing | Yes to 1: one public body's backup site in service, 200 km or more away |
 | 3 Establishing | Yes to 2: a backup site for the government's shared systems |
 | 4 Operating | Yes to 3: a recovery plan or test on record for it |
-| 5 Leading | Yes to 4: main and backup sites both Tier III or above |
+| 5 Mature | Yes to 4: main and backup sites both Tier III or above |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 0 |
 | 3 Established | 1 |
 | 2 Nascent | 1 |

@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: private money has been put in |
 | 3 Establishing | Yes to 1 and 2: and in more than one year |
 | 4 Operating | Yes to 1, 2 and 3: and some of it was raised at home |
-| 5 Leading | Yes to all four: and the government brought private money into a public project |
+| 5 Mature | Yes to all four: and the government brought private money into a public project |
 
 - **Corpus's own finance tables answer question 1 for 25 countries and question 2 for 11 before anything is read.** They show a public-private partnership in two, Togo and South Africa, and an African financier in nine; whether that financier is the country's own is read.
 - **The row as it stands puts 34 countries at stage 1 because the tables hold nothing for them.** Here nothing held is *No evidence*, and stage 1 needs a source that says so.

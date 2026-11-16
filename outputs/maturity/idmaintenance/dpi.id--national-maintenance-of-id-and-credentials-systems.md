@@ -20,7 +20,7 @@ The African Union's interoperability framework asks that countries own and opera
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Mature | 7 |
 | 4 Operating | 3 |
 | 3 Established | 30 |
 | 2 Nascent | 6 |
@@ -30,14 +30,14 @@ The African Union's interoperability framework asks that countries own and opera
 
 ## Countries
 
-### Algeria: 5 Leading
+### Algeria: 5 Mature
 
 The ID system ran in 2026 on code the state owns.
 
 - The Ministry of the Interior says the central collection and processing systems were developed by Algerian engineers ([source, 2026-05](https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf)).
 - The Ministry of the Interior says its own engineers administer the platforms for collecting and centrally processing identity and travel document data, which Algerian engineers developed ([source, 2026-05](https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf)).
 
-### Ethiopia: 5 Leading
+### Ethiopia: 5 Mature
 
 A state-owned enterprise runs the ID system, local engineers maintain it, and it runs on open-source code, as of 2026.
 
@@ -45,7 +45,7 @@ A state-owned enterprise runs the ID system, local engineers maintain it, and it
 - Kana TV News says Fayda runs on the open-source Modular Open Source Identity Platform, MOSIP ([source, 2026-08](https://kanatelevision.com/news/what-is-faydaverse-the-ethiopian-national-id-program-that-became-a-company-and-how-it-plans-to/)).
 - The national ID authority became the government-owned enterprise Faydaverse in August 2026, mandated to develop, operate and scale the digital public infrastructure ([source, 2026-08](https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy)).
 
-### Mali: 5 Leading
+### Mali: 5 Mature
 
 The ID system ran in 2024 on code the state owns.
 
@@ -53,7 +53,7 @@ The ID system ran in 2024 on code the state owns.
 - The territorial administration minister says Mali Kura Biométrie was designed autonomously by Malian engineers between 2 October and 16 December 2023, replacing the system recovered from IDEMIA ([source, 2023-12-16](https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/)).
 - The coordinator of the volunteer expert committee says there are no foreign providers on the maintenance contract for Mali Kura Biométrie, the new RAVEC system launched on 13 February 2024 ([source, 2024-02-13](https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 The population register runs on open-source code in all provinces, maintained by a Moroccan university unit, as of 2026.
 
@@ -61,7 +61,7 @@ The population register runs on open-source code in all provinces, maintained by
 - The deck says the RNP runs on MOSIP (version 1.1.5.x, being migrated to LTS), generalised to all 83 provinces in October 2022 ([source, 2022-10](https://connect.mosip.io/resources_pdf_2026/Collaborations_between_Governments_and_Academic_Institutions.pdf)).
 - The DGSN, Morocco's national security directorate, issued nearly 4.7 million electronic national ID cards in 2024 at its Rabat and Marrakech centres and ran the second phase of the electronic identity system, per its annual report ([source, 2024](https://www.moroccoworldnews.com/2024/12/166797/dgsn-issued-record-4-6-million-digital-ids-slashed-crime-rates-in-2024)).
 
-### Somalia: 5 Leading
+### Somalia: 5 Mature
 
 Somalia's registration authority runs the ID system and its own engineers built the components added in 2025.
 
@@ -69,7 +69,7 @@ Somalia's registration authority runs the ID system and its own engineers built 
 - NIRA says the components it added to the national ID system in May 2025, the HUBIYE verifier, the e-Aqoonsi digital ID app and the certificate delivery system, were entirely developed by its own Somali engineers ([source, 2025-05](https://nira.gov.so/news/nira-launches-key-digital-public-infrastructure-for-national-id-system)).
 - NIRA's Director General says the three launched systems (HUBIYE, e-Aqoonsi, CDS) were entirely developed by Somali engineers at NIRA, reflecting national ownership ([source, 2025-05](https://nira.gov.so/news/nira-launches-key-digital-public-infrastructure-for-national-id-system)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 The ID authority's own experts built and support its systems, and it owns their code, as of 2024.
 
@@ -77,7 +77,7 @@ The ID authority's own experts built and support its systems, and it owns their 
 - NIDA says that by building its systems in-house it owns the actual program copies of the national ID system and is free of foreign contractors' licence limits ([source, 2024-02](https://nida.go.tz/Habari-Maelezo?value=1)).
 - Minister Katambi said NIDA now serves 156 offices, with machines and equipment that print ID cards electronically ([source, 2026-09-16](https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma-za-kiraia-5597344)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 The ID system ran in 2026 on code the state owns.
 

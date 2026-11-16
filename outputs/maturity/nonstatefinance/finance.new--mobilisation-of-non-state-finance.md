@@ -14,13 +14,13 @@ Agenda 2063, Goal 20, asks that Africa pay for its own development and that its 
 | 2 Preparing | Yes to 1: private money has been put in |
 | 3 Establishing | Yes to 1 and 2: and in more than one year |
 | 4 Operating | Yes to 1, 2 and 3: and some of it was raised at home |
-| 5 Leading | Yes to all four: and the government brought private money into a public project |
+| 5 Mature | Yes to all four: and the government brought private money into a public project |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 9 |
 | 3 Established | 15 |
 | 2 Nascent | 19 |

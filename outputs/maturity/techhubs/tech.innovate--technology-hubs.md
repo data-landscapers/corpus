@@ -20,7 +20,7 @@ The Digital Transformation Strategy asks for a technology park and incubation hu
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Mature | 2 |
 | 4 Operating | 12 |
 | 3 Established | 37 |
 | 2 Nascent | 3 |
@@ -30,7 +30,7 @@ The Digital Transformation Strategy asks for a technology park and incubation hu
 
 ## Countries
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Startup programmes ran in Casablanca and Agadir in 2025 and 2026, and technoparks host startups; how many are tenants is not known.
 
@@ -38,7 +38,7 @@ Startup programmes ran in Casablanca and Agadir in 2025 and 2026, and technopark
 - The Morocco Accelerator, run by Technopark Morocco with Plug and Play at Technopark Casablanca, ended its second three-month cohort with 19 startups, and the third cohort's applications opened ([source, 2026-07-15](https://www.lavieeco.com/tech/start-up/morocco-accelerator-la-2e-cohorte-cloturee-plus-de-20-mdh-leves/)).
 - Yabiladi says Agadir Technopark, open since December 2021, has supported 142 startups and digital firms through three programmes (N-MOON, BOOST UP LAB, TIWIZI) ([source, 2025-12-15](https://en.yabiladi.com/articles/details/183461/agadir-innovation-powered-technopark-cism.html)).
 
-### Tunisia: 5 Leading
+### Tunisia: 5 Mature
 
 Startup programmes ran in Tunis and Sousse in 2025 and 2026, and technoparks host hundreds of firms; how many are startups is not known.
 

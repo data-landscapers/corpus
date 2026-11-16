@@ -20,7 +20,7 @@ The African Union's interoperability framework and the African ministers respons
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Mature | 2 |
 | 4 Operating | 3 |
 | 3 Established | 26 |
 | 2 Nascent | 17 |
@@ -30,14 +30,14 @@ The African Union's interoperability framework and the African ministers respons
 
 ## Countries
 
-### Benin: 5 Leading
+### Benin: 5 Mature
 
 Births and deaths pass between civil status and the ID register; a 2026 pilot reported 30,160 number updates, national figures not known.
 
 - ANIP says births declared to the RNPP register automatically in the civil status file, and a declared death activates the 'deceased' status in the identification system and is registered automatically with civil status ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
 - Triomphe Mag, citing ANIP's report on the pilot (20 August 2025 to 20 February 2026), says the pilot produced 30,160 number updates, 12,182 captured signatures and 798 recorded portraits in the RNPP ([source, 2026-02-20](https://www.triomphemag.com/enregistrement-des-naissances-au-benin-le-guichet-unique-de-lanip-fait-bondir-le-taux-de-2195-a-7656-en-six-mois/)).
 
-### Malawi: 5 Leading
+### Malawi: 5 Mature
 
 Births and deaths pass to the ID system, and in 2025 the bureau reported 3.5 million births numbered and 179,000 deaths flagged.
 

@@ -20,7 +20,7 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 4 |
 | 3 Established | 17 |
 | 2 Nascent | 25 |
@@ -30,7 +30,7 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 
 ## Countries
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 A 2026 national survey found 77.5 per cent of adults could do at least one of eight digital tasks; which tasks is not known.
 

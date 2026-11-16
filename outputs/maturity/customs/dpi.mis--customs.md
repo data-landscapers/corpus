@@ -20,7 +20,7 @@ The AfCFTA Protocol on Trade in Goods asks for customs automation, a single wind
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 12 |
+| 5 Mature | 12 |
 | 4 Operating | 19 |
 | 3 Established | 18 |
 | 2 Nascent | 5 |
@@ -30,19 +30,19 @@ The AfCFTA Protocol on Trade in Goods asks for customs automation, a single wind
 
 ## Countries
 
-### Benin: 5 Leading
+### Benin: 5 Mature
 
 Customs joined West Africa's regional transit data exchange in 2024, beside a single window and automated clearance at every border.
 
 - ECOWAS says Benin was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024 ([source, 2024-07](https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/)).
 
-### Burkina Faso: 5 Leading
+### Burkina Faso: 5 Mature
 
 Customs joined West Africa's regional transit data exchange in 2024, and a single window joining other agencies was relaunched in 2025.
 
 - ECOWAS says Burkina Faso was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024 ([source, 2024-07](https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/)).
 
-### Burundi: 5 Leading
+### Burundi: 5 Mature
 
 Burundi's customs runs on Sydonia World, an electronic single window joins customs with other agencies, and the EAC platform links it to partners.
 
@@ -50,7 +50,7 @@ Burundi's customs runs on Sydonia World, an electronic single window joins custo
 - The Office Burundais des Recettes presented on 17 February 2026 the new web version of the Guichet Unique Electronique for import permits, which centralises procedures of the medicines regulator ABREMA, the agriculture ministry (sanitary and phytosanitary certificates) and the OBR, and is now the exclusive route for pharmaceutical importers ([source, 2026-02-17](https://www.wearetech.africa/fr/fils/actualites/tech/le-burundi-digitalise-ses-procedures-d-importation-via-un-guichet-unique)).
 - TradeMark Africa reports that the customs systems of Kenya, Uganda, Tanzania, Rwanda and Burundi are interconnected through the East African Community Single Customs Territory Centralised Platform, unveiled in revamped form on 27 January 2025 ([source, 2025-01-27](https://trademarkafrica.com/one-stop-border-posts-save-eac-over-63m-annually/)).
 
-### Cote d'Ivoire: 5 Leading
+### Cote d'Ivoire: 5 Mature
 
 Customs joined West Africa's regional transit data exchange in 2024 and used it with Mali in 2026, beside a single window.
 
@@ -58,26 +58,26 @@ Customs joined West Africa's regional transit data exchange in 2024 and used it 
 - ECOWAS says it launched deployment of SIGMAT between Cote d'Ivoire, Guinea and Liberia on 31 October 2025, exchanging electronic transit messages through interconnection of their national customs systems; Liberia joins Guinea and Cote d'Ivoire on the platform ([source, 2025-10-31](https://www.ecowas.int/ecowas-strengthens-intra-regional-trade-with-the-launch-of-sigmat-between-cote-divoire-guinea-and-liberia/)).
 - Douanes Ivoiriennes report that Cote d Ivoire and Mali teams met on 24-25 September 2026 to assess SIGMAT in its operating phase on the Abidjan-Bamako transit corridor, sharing information between the two administrations ([source, 2026-09-25](https://apps.douanes.ci/info/cooperation-bilaterale)).
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 Ghana processes customs declarations electronically, has a single window, and joined the ECOWAS transit data exchange in July 2024.
 
 - The ECOWAS Commission says SIGMAT, its interconnected transit-goods system for electronic data exchange between Member States, has been in use by implementing states since 2019, and that a 21-25 July 2025 mission to Ghana resolved the technical and functional challenges hindering transit between Cote d'Ivoire and Ghana ([source, 2025-07-25](https://www.ecowas.int/technical-mission-to-ghana-on-the-deployment-of-sigmat-between-ghana-and-cote-divoire/)).
 - ECOWAS says Ghana was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024 ([source, 2024-07](https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/)).
 
-### Guinea: 5 Leading
+### Guinea: 5 Mature
 
 Customs exchanged data electronically with another country in 2025.
 
 - ECOWAS says it launched deployment of SIGMAT between Cote d'Ivoire, Guinea and Liberia on 31 October 2025, exchanging electronic transit messages through interconnection of their national customs systems ([source, 2025-10-31](https://www.ecowas.int/ecowas-strengthens-intra-regional-trade-with-the-launch-of-sigmat-between-cote-divoire-guinea-and-liberia/)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 Customs exchanged data electronically with another country in 2025.
 
 - Business Daily says under the EAC single customs territory, the importing country's revenue authority submits import documents electronically and the exporting country's authority issues a road manifest against them ([source, 2025-08-25](https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392)).
 
-### Niger: 5 Leading
+### Niger: 5 Mature
 
 Niger's customs enters declarations in SYDONIA, the GUCE-Niger single window joins customs and ministries, and SIGMAT links it to ECOWAS.
 
@@ -85,7 +85,7 @@ Niger's customs enters declarations in SYDONIA, the GUCE-Niger single window joi
 - Webb Fontaine says the GUCE-Niger single window, launched in 2022, connects Customs, the finance, trade, agriculture, livestock and health ministries and the chamber of commerce on one platform with banks and trade operators ([source, 2026-07](https://webbfontaine.com/fr/success-stories-niger-is-transforming-foreign-trade-procedures-with-webb-single-window)).
 - ECOWAS says Niger was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024 ([source, 2024-07](https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 Rwanda's customs runs on ASYCUDA World with an electronic single window, and the EAC platform links it to partners.
 
@@ -93,13 +93,13 @@ Rwanda's customs runs on ASYCUDA World with an electronic single window, and the
 - The Rwanda Revenue Authority's 2025 Tax Handbook says it facilitates trade through the Rwanda electronic Single Window (ReSW) system, one-stop border posts and electronic cargo tracking ([source, 2025](https://www.rra.gov.rw/fileadmin/Folder_for_2025/RRA_Tax_Handbook_2025_Final.pdf)).
 - TradeMark Africa reports that the customs systems of Kenya, Uganda, Tanzania, Rwanda and Burundi are interconnected through the East African Community Single Customs Territory Centralised Platform, unveiled in revamped form on 27 January 2025 ([source, 2025-01-27](https://trademarkafrica.com/one-stop-border-posts-save-eac-over-63m-annually/)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 Customs exchanged data with East African partners through a regional platform in 2025, and a single window joined the port and regulators.
 
 - TradeMark Africa reports that the customs systems of Kenya, Uganda, Tanzania, Rwanda and Burundi are interconnected through the East African Community Single Customs Territory Centralised Platform, with Tanzania's ports authority also connected ([source, 2025-01-27](https://trademarkafrica.com/one-stop-border-posts-save-eac-over-63m-annually/)).
 
-### Togo: 5 Leading
+### Togo: 5 Mature
 
 Togo's customs runs on SYDONIA, manifests pass through its foreign-trade single window, and SIGMAT links it to ECOWAS.
 
@@ -107,7 +107,7 @@ Togo's customs runs on SYDONIA, manifests pass through its foreign-trade single 
 - The government reports that from December 2025 the revenue office's Code 26 has free-zone import manifests processed electronically through the Guichet unique du commerce exterieur (GUCE) ([source, 2025-12-11](https://www.republiquetogolaise.com/gouvernance-economique/1112-11403-zone-franche-un-nouveau-code-pour-renforcer-le-controle-des-importations)).
 - ECOWAS says Togo was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024 ([source, 2024-07](https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 Customs has shared declarations with East African partners through a regional platform since 2024, beside a single window joining 22 agencies.
 

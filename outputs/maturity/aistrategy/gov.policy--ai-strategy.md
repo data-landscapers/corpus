@@ -14,13 +14,13 @@ The African Union's Continental AI Strategy, adopted in 2024, says member states
 | 2 Preparing | Yes to 1: a strategy being written, or one that has run out with no successor adopted |
 | 3 Establishing | Yes to 1 and 2: a strategy adopted and still running |
 | 4 Operating | Yes to 1, 2 and 3: a body is named to carry it out |
-| 5 Leading | Yes to all four: public money has gone into carrying it out |
+| 5 Mature | Yes to all four: public money has gone into carrying it out |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 8 |
 | 3 Established | 12 |
 | 2 Nascent | 22 |
@@ -30,7 +30,7 @@ The African Union's Continental AI Strategy, adopted in 2024, says member states
 
 ## Countries
 
-### Zimbabwe: 5 Leading
+### Zimbabwe: 5 Mature
 
 Zimbabwe launched a national AI strategy for 2026 to 2030 in March 2026, with an implementation office and regulator-funded grants under it in 2026.
 

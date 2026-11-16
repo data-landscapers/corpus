@@ -14,13 +14,13 @@ The African Union's Data Policy Framework asks each state to set rules for hosti
 | 2 Preparing | Yes to 1: a policy being written, or one that has ended with no successor adopted |
 | 3 Establishing | Yes to 1 and 2: a policy adopted and in force |
 | 4 Operating | Yes to 1, 2 and 3: the government has named where public bodies must host |
-| 5 Leading | Yes to all four: public bodies have moved onto the named hosting |
+| 5 Mature | Yes to all four: public bodies have moved onto the named hosting |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 6 |
 | 3 Established | 10 |
 | 2 Nascent | 8 |
@@ -30,7 +30,7 @@ The African Union's Data Policy Framework asks each state to set rules for hosti
 
 ## Countries
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 Nigeria's 2026 cloud policy names Galaxy Backbone as government's cloud, and the postal service hosts its postcode database there; other moves are not known.
 

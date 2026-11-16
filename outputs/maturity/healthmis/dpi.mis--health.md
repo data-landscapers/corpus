@@ -20,7 +20,7 @@ The Africa CDC Digital Transformation Strategy asks for national digital health 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 11 |
+| 5 Mature | 11 |
 | 4 Operating | 5 |
 | 3 Established | 25 |
 | 2 Nascent | 7 |
@@ -30,32 +30,32 @@ The Africa CDC Digital Transformation Strategy asks for national digital health 
 
 ## Countries
 
-### Burundi: 5 Leading
+### Burundi: 5 Mature
 
 The reporting rate of the national health information system was published in 2024.
 
 - The Annuaire 2024 publishes a national average completeness of 99.6 percent for community (GASC) monthly reports entered in DHIS2 in 2024, with a district-by-district table ([source, 2024](https://ahofiles.afro.who.int/afahobckpcontainer/production/files/Annuaire_des_Statistiques_Sanitaires_2024_VF.pdf)).
 
-### Central African Republic: 5 Leading
+### Central African Republic: 5 Mature
 
 The reporting rate of the national health information system was published in 2025.
 
 - The poster states report completeness rose from 52% in 2020 to over 85% in 2025 ([source, 2025](https://community.dhis2.org/t/dhis2-pour-la-reconstruction-du-snis-cas-de-la-rca/72669)).
 
-### DR Congo: 5 Leading
+### DR Congo: 5 Mature
 
 The reporting rate of the national health information system was published in 2024.
 
 - The analysis gives DHIS2 reporting completeness rising to 99% in 2024, with about 90% for six key indicators ([source, 2024](https://data.gffportal.org/sites/default/files/2025-09/DRC--COUNTDOWN.pdf)).
 
-### Madagascar: 5 Leading
+### Madagascar: 5 Mature
 
 Madagascar published its national health reporting rate, 98% of facility reports in 2024 and 2025.
 
 - mTOMADY says DHIS2 is the national health data system used by the Ministry of Public Health in Madagascar ([source, 2025-10-07](https://www.linkedin.com/posts/mtomady_digitalhealth-interoperability-dhis2-activity-7381257757754150912-s2DE)).
 - Monthly facility reporting completeness held at 98% in 2024 and 2025, and districts with complete reporting rose from 92% to 94%, per the Countdown 2030 synthesis ([source, 2025](https://www.countdown2030.org/wp-content/uploads/2026/09/Madagascar.pdf)).
 
-### Namibia: 5 Leading
+### Namibia: 5 Mature
 
 Namibia's national DHIS2 takes data automatically from a patient tracker and received 96% of expected facility reports in 2024.
 
@@ -63,37 +63,37 @@ Namibia's national DHIS2 takes data automatically from a patient tracker and rec
 - UCSF's Namibia technical assistance page says PTracker, the patient-level PMTCT tracking system, automatically submits aggregated data to DHIS2 and the National Data Warehouse ([source, 2025](https://informaticshub.ucsf.edu/node/116)).
 - Countdown to 2030 gives national DHIS2 completeness of monthly facility reporting as 86% in 2019 rising to 96% of expected monthly reports in 2024 ([source, 2024](https://www.countdown2030.org/wp-content/uploads/2025/09/Namibia-Synthesis-Report.pdf)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 The reporting rate of the national health information system was published in 2026.
 
 - The DPGA report says DHIS2 data completeness rose from 88% to 95% and timeliness from 60% to 90%+ ([source, 2026-01-20](https://www.digitalpublicgoods.net/dpgs-for-dpi-building-open-digital-states.pdf)).
 
-### Senegal: 5 Leading
+### Senegal: 5 Mature
 
 The reporting rate of the national health information system was published in 2024.
 
 - The report states that the share of districts with report completeness of 90% or more was 57% in 2024 for reproductive, maternal, newborn, child and adolescent health (antenatal care and delivery) in DHIS2, and gives an overall data-quality score of 63% in 2024 ([source, 2024](https://www.countdown2030.org/wp-content/uploads/2025/09/SENEGAL-Chartbook-Report-CAM-2025.pdf-FINAL.pdf)).
 
-### Sierra Leone: 5 Leading
+### Sierra Leone: 5 Mature
 
 The reporting rate of the national health information system was published in 2024.
 
 - The report gives national completeness of monthly facility reporting in DHIS2 as 99, 95, 95, 93, 94 and 98 percent of expected reports for 2019 to 2024 ([source, 2024](https://data.gffportal.org/sites/default/files/2025-09/SierraLeone-COUNTDOWN.pdf)).
 
-### South Sudan: 5 Leading
+### South Sudan: 5 Mature
 
 The reporting rate of the national health information system was published in 2025.
 
 - The WHO/MoH maturity assessment records the completeness rate for routine reports at 62% and for indicator data at 57% ([source, 2025-02](https://www.afro.who.int/sites/default/files/2025-03/Knowledge%20Management%20Series%20for%20Health%20Maturity%20of%20the%20Health%20Information%20System%20of%20South%20Sudan%20_%20progress%2C%20gaps%20and%20priorities%20for%20investment.pdf)).
 
-### Zambia: 5 Leading
+### Zambia: 5 Mature
 
 The reporting rate of the national health information system was published in 2024.
 
 - The report gives national completeness of monthly facility reporting in DHIS2 as 99% of expected reports in 2024 (93% in 2019), with 99% of districts at or above 90% completeness in 2024 ([source, 2024](https://data.gffportal.org/sites/default/files/2025-09/Zambia-COUNTDOWN.pdf)).
 
-### Zimbabwe: 5 Leading
+### Zimbabwe: 5 Mature
 
 The reporting rate of the national health information system was published in 2024.
 

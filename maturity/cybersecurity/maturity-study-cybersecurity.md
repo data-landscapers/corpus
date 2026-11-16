@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Nascent | Yes to 1: a strategy adopted or a body created |
 | 3 Established | Yes to 2: the body has responded to an incident |
 | 4 Operating | Yes to 3: critical information infrastructure designated |
-| 5 Leading | Yes to 4: the body publishes evidence of dealing with incidents in the last year |
+| 5 Mature | Yes to 4: the body publishes evidence of dealing with incidents in the last year |
 
 - **Stage 2 changes.** The row put an announced or drafted strategy at stage 2. Only an adopted strategy or a created body is a yes now; a draft is noted and the cell stays where the rest of its evidence puts it.
 - **Stage 3 changes.** The row asked for a strategy and a law and a constituted body, and no record. A body that has handled an incident or issued an alert is the first fact that shows it works, so that is stage 3. The law moves out: it is its own row.

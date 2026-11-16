@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a plan being written, or one whose period has ended with no successor adopted |
 | 3 Establishing | Yes to 1 and 2: a plan adopted and still running |
 | 4 Operating | Yes to 1, 2 and 3: money is committed to the plan |
-| 5 Leading | Yes to all four: the plan is funded and progress against its targets is published |
+| 5 Mature | Yes to all four: the plan is funded and progress against its targets is published |
 
 **Settled as worded** *(Bill, 2026-10-23)*: a plan with targets but no stated period is still running, and an adopted plan stands until its stated period ends, however old.
 

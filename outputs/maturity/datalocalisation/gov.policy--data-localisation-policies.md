@@ -14,13 +14,13 @@ The African Union's Data Policy Framework, of 2022, asks states to keep only cer
 | 2 Preparing | Yes to 1: a rule being written, or one repealed with no successor |
 | 3 Establishing | Yes to 1 and 2: a rule in force |
 | 4 Operating | Yes to 1, 2 and 3: a body is named to enforce it |
-| 5 Leading | Yes to all four: the rule has been applied |
+| 5 Mature | Yes to all four: the rule has been applied |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 12 |
 | 3 Established | 14 |
 | 2 Nascent | 3 |

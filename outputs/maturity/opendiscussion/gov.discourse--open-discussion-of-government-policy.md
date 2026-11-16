@@ -14,13 +14,13 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 | 2 Preparing | Yes to 1: policy is criticised in public |
 | 3 Establishing | Yes to 1 and 2: and no one was punished for it in twelve months |
 | 4 Operating | Yes to 1, 2 and 3: and a law that punished speech has gone |
-| 5 Leading | Yes to all four: and the government is barred from cutting the internet |
+| 5 Mature | Yes to all four: and the government is barred from cutting the internet |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 0 |
 | 3 Established | 0 |
 | 2 Nascent | 28 |

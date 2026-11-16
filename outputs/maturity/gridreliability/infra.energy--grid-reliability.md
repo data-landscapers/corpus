@@ -14,13 +14,13 @@ The African Union's single electricity market and Continental Power System Maste
 | 2 Preparing | Yes to 1: ten or fewer |
 | 3 Establishing | Yes to 2: five or fewer |
 | 4 Operating | Yes to 3: two or fewer |
-| 5 Leading | Yes to 4: one or fewer |
+| 5 Mature | Yes to 4: one or fewer |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Mature | 7 |
 | 4 Operating | 11 |
 | 3 Established | 11 |
 | 2 Nascent | 11 |
@@ -30,43 +30,43 @@ The African Union's single electricity market and Continental Power System Maste
 
 ## Countries
 
-### Cape Verde: 5 Leading
+### Cape Verde: 5 Mature
 
 In 2024 the power went off 0.75 times a month, as reported by firms surveyed by the World Bank.
 
 - Firms in Cape Verde reported 0.75 power outages in a typical month in the World Bank's 2024 Enterprise Survey ([source, 2024](https://www.enterprisesurveys.org/en/data)).
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 In 2026 the power went off 0.11 times a month, as reported by the utility or regulator.
 
 - Egypt's Ministry of Electricity reports an average of 1.3 interruptions per subscriber in FY2025-26 across distribution companies, about 0.11 a month ([source, 2026](https://newdemo.elwatannews.com/news/details/8360120)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 In 2023 the power went off 0.21 times a month, as reported by firms surveyed by the World Bank.
 
 - Firms in Morocco reported 0.21 power outages in a typical month in the World Bank's 2023 Enterprise Survey ([source, 2023](https://www.enterprisesurveys.org/en/data)).
 
-### Senegal: 5 Leading
+### Senegal: 5 Mature
 
 In 2024 the power went off 0.76 times a month, as reported by the utility or regulator.
 
 - The energy regulator CRSE reports Senelec's SAIFI at 9.12 interruptions per customer per year in 2024 (9.12/12 = 0.76 a month), against a norm of 15 ([source, 2024](https://www.crse.sn/wp-content/uploads/2025/07/RAPPORT-ANNUEL-2024-CRSE-VF.pdf)).
 
-### Seychelles: 5 Leading
+### Seychelles: 5 Mature
 
 In 2023 the power went off 0.51 times a month, as reported by firms surveyed by the World Bank.
 
 - Firms in Seychelles reported 0.51 power outages in a typical month in the World Bank's 2023 Enterprise Survey ([source, 2023](https://www.enterprisesurveys.org/en/data)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 In 2023 the power went off 0.74 times a month, as reported by firms surveyed by the World Bank.
 
 - Firms in Tanzania reported 0.74 power outages in a typical month in the World Bank's 2023 Enterprise Survey ([source, 2023](https://www.enterprisesurveys.org/en/data)).
 
-### Tunisia: 5 Leading
+### Tunisia: 5 Mature
 
 In 2024 the power went off 0.4 times a month, as reported by firms surveyed by the World Bank.
 

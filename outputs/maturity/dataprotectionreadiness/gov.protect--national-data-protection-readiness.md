@@ -14,13 +14,13 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 | 2 Preparing | A law is in force |
 | 3 Establishing | A law is in force, and the country has ratified the Malabo Convention or appointed an authority |
 | 4 Operating | The law is being implemented: the authority registers organisations, takes breach reports, issues guidance or inspects |
-| 5 Leading | The authority is acting: it has ruled against a named organisation, or publishes a count of its rulings |
+| 5 Mature | The authority is acting: it has ruled against a named organisation, or publishes a count of its rulings |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 12 |
+| 5 Mature | 12 |
 | 4 Operating | 18 |
 | 3 Established | 8 |
 | 2 Nascent | 4 |
@@ -30,7 +30,7 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 
 ## Countries
 
-### Angola: 5 Leading
+### Angola: 5 Mature
 
 Law in force since 2011; the authority is appointed and working, and fined a hotel company in August 2026.
 
@@ -38,7 +38,7 @@ Law in force since 2011; the authority is appointed and working, and fined a hot
 - Valor Económico reported on 26 June 2026 that the APD fined Crescer Tech about USD 505,000 (c. 549 million kwanzas) for no notification or prior authorisation and an unauthorised international transfer to foreign cloud servers, and Fast Digital Center USD 112,000 (c. 110 million kwanzas) for inadequate security measures and no notification; deliberation dates are not given, so the publication date is used ([source, 2026-06-26](https://valoreconomico.co.ao/artigo/apd-aplica-multas-milionarias-a-empresas-por-armazenarem-informacoes-pessoais-sem-autorizacao)).
 - The APD's own FAQ page tells citizens to lodge complaints about breaches of the data protection law with the APD and says it assesses transfer adequacy case by case under art. 33 of Lei 22/11; the page is undated, so the published date is used ([source, 2026-08-27](https://apd.ao/ao/perguntas-frequentes/questoes-sobre-proteccao-de-dados/)).
 
-### Botswana: 5 Leading
+### Botswana: 5 Mature
 
 A data protection law has been in force since 2025, the commission is working, and it ruled against an organisation in 2026.
 
@@ -46,7 +46,7 @@ A data protection law has been in force since 2025, the commission is working, a
 - In a public notice dated 17 July 2026 the Information and Data Protection Commission issued a Determination and an Enforcement Notice against DPSM for contraventions of the Data Protection Act No. 18 of 2024, ordering the ePayslip portal suspended and a DPIA and revised privacy notice submitted within one month, with an administrative fine possible for non-compliance ([source, 2026-07-17](https://na.co.bw/data-commission-orders-suspension-of-dpsm-epayslip-portal-over-privacy-law-breaches/)).
 - The Information and Data Protection Commission is acting: it reviewed the E-Payslip portal, issued a determination and enforcement order, and guided DPSM through compliance in July 2026 ([source, 2026-07](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news)).
 
-### Eswatini: 5 Leading
+### Eswatini: 5 Mature
 
 A data protection law is in force and the authority is working; it has ruled against named organisations, most recently in 2025.
 
@@ -54,14 +54,14 @@ A data protection law is in force and the authority is working; it has ruled aga
 - The Authority lists enforcement notices under section 41 of the Act issued in June 2024 to MTN Eswatini and to Liberty Life Swaziland Limited ([source, 2024-06](https://www.edpa.org.sz/enforcement.html)).
 - The EDPA, with an Acting Chief Executive Officer, is running an outreach campaign with information desks in major towns and says it has a five-year strategy ([source, 2026-09-17](https://eswatinipositivenews.online/edpa-takes-data-protection-services-closer-to-emaswati/)).
 
-### Gabon: 5 Leading
+### Gabon: 5 Mature
 
 Gabon's data protection law was published in 2023, its authority is working, and it fined Citibank Gabon in 2024.
 
 - The APDPVP plenary, by deliberation n°073 of 25 April 2024 on a complaint of 27 November 2023, imposed a pecuniary sanction of 90,000,000 FCFA on Citibank Gabon S.A. for diverting employee data from its declared purpose and processing ethnic-origin data, with a two-month formal notice ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
 - In an interview published 4 September 2026 the APDPVP's president, Joel Dominique Ledaga, speaks as the sitting head of the authority and describes its powers to give reasoned opinions, self-refer, hear companies and inspect installations ([source, 2026-09-04](https://union.sonapresse.com/fr/joel-dominique-ledaga-pour-echanger-directement-avec-meta-tiktok-ou-instagram-il-faut-une-reponse)).
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 Ghana's commission registered 2,575 data controllers in 2026 and referred a clinic to police in October; no count of its rulings has been found.
 
@@ -69,7 +69,7 @@ Ghana's commission registered 2,575 data controllers in 2026 and referred a clin
 - The Commission said it registered 2,575 data controllers in 2026 and is verifying registration status and running inspections ([source, 2026-10-13](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/)).
 - Dr Arnold Kavaarpuo is Executive Director of the Data Protection Commission, which is acting under Act 843 ([source, 2026-10-13](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 A data protection law is in force and the authority has ruled since 2022, 459 determinations by 2026; its first commissioner leaves in November 2026.
 
@@ -78,7 +78,7 @@ A data protection law is in force and the authority has ruled since 2022, 459 de
 - Kassait says the ODPC has issued a guidance note on AI use for data controllers ([source, 2026-11-13](https://www.kbc.co.ke/kassait-calls-for-reforms-central-data-pool-as-she-exits-data-protection-office/)).
 - The report says Immaculate Kassait has headed the ODPC for six years, leaving on 16 November 2026 ([source, 2026-11-13](https://www.kbc.co.ke/kassait-calls-for-reforms-central-data-pool-as-she-exits-data-protection-office/)).
 
-### Mali: 5 Leading
+### Mali: 5 Mature
 
 Law 2013-015 is in force and its authority works; it fined a Bamako clinic and a company in 2025.
 
@@ -86,7 +86,7 @@ Law 2013-015 is in force and its authority works; it fined a Bamako clinic and a
 - APA News reports that in 2025 the APDP fined a Bamako clinic 5 million FCFA for obstructing a verification mission linked to an undeclared video-surveillance system ([source, 2025](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/)).
 - TechGriot reports Mali's data protection authority (APDP) received the First Rapporteur of Benin's authority on 2026-09-04 and runs regional offices in Kayes, Sikasso, Segou and Mopti handling awareness, advice and complaint intake ([source, 2026-09-04](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 A data protection law is in force and the authority is working; it fined Multichoice Nigeria in 2025.
 
@@ -94,7 +94,7 @@ A data protection law is in force and the authority is working; it fined Multich
 - ITWeb Africa reports a court-approved settlement reached in 2025 between the NDPC and Meta after regulatory proceedings over handling of Nigerian users' data, under which Meta funds a two-year programme (M-SIDP); the month is not given ([source, 2025](https://itweb.africa/article/meta-backs-ndpc-in-landmark-privacy-initiative/lwrKxq3Y2W27mg1o)).
 - Voice of Nigeria names Dr Vincent Olatunji as National Commissioner and CEO of the Nigeria Data Protection Commission, opening an NDPC programme in Abuja (published date 2026-09-30, no event date given) ([source, 2026-09-30](https://von.gov.ng/ndpc-chief-calls-for-stronger-data-protection-practices/)).
 
-### Senegal: 5 Leading
+### Senegal: 5 Mature
 
 A 2008 data protection law is in force and the authority is working; it ordered a company to remove a camera in March 2026.
 
@@ -102,7 +102,7 @@ A 2008 data protection law is in force and the authority is working; it ordered 
 - The CDP's quarterly report, sent to APS, gives its January to March 2026 figures: 317 files (286 declarations, 31 authorisation requests), 200 of 283 video-surveillance receipts issued, nine complaints and one report handled ([source, 2026-03](https://aps.sn/plus-de-300-dossiers-traites-par-la-commission-de-protection-des-donnees-personnelles-au-premier-trimestre-2026-officiel/)).
 - The CDP, through its permanent secretary Mouhamed Diop, spoke on 16 September 2026 of joint interoperability work with the DAF and two options put to the authorities for arbitration ([source, 2026-09-16](https://www.pressafrik.com/Protection-des-donnees-la-CDP-et-la-DAF-s-unissent-pour-securiser-les-donnees-d-identite-des-Senegalais_a311700.html)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 A data protection law has been in force since 2021; the Information Regulator is working and issued an enforcement notice to a college in 2026.
 
@@ -110,7 +110,7 @@ A data protection law has been in force since 2021; the Information Regulator is
 - The Regulator issued the South African Bureau of Standards an enforcement notice the week before 31 August 2026 over its 2024 ransomware attack, finding POPIA conditions for lawful processing violated and giving it 90 days to revise policies, run impact assessments and implement security measures ([source, 2026-08](https://www.itweb.co.za/article/inforeg-concerned-by-alarming-rate-of-data-breaches/rxP3jqBE2ZLMA2ye)).
 - Mail & Guardian reports the Information Regulator, through a named spokesperson, said it would engage Gauteng's e-Government department over the e-Panic Button breach, could issue an information notice under POPIA, and had recently done a POPIA compliance assessment of that department, so the body is in operation ([source, 2026-09-30](https://mg.co.za/news/south-africa/2026-09-30-information-regulator-to-engage-gauteng-over-e-panic-button-data-breach/)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 A data protection law has been in force since 2023, the Commission is working, and it ruled against a company in 2025.
 
@@ -118,7 +118,7 @@ A data protection law has been in force since 2023, the Commission is working, a
 - The Personal Data Protection Commission ruled in Abdul Said Naumanga v. Mi Casa Company Limited, ex parte, awarding TZS 20,000,000 and ordering deletion of the complainant's personal data; the decision date is not given, so the document's published date of 2025-08-03 is used ([source, 2025-08-03](https://www.rive.co.tz/landmark-ruling-first-pdpc-monetary-award-signals-new-era-for-personal-data-in-tanzania/)).
 - PDPC Director General Dr Emmanuel Mkilia announced the move to on-site inspections in Dodoma on 28 August 2026, after preliminary desk assessments ([source, 2026-08-28](https://www.thecitizen.co.tz/tanzania/news/national/data-protection-regulator-begins-compliance-crackdown-5574710)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 A data protection law is in force, the Personal Data Protection Office is working, and it ruled against Google in 2025.
 

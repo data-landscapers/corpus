@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: one public body's backup site in service, 200 km or more away |
 | 3 Establishing | Yes to 2: a backup site for the government's shared systems |
 | 4 Operating | Yes to 3: a recovery plan or test on record for it |
-| 5 Leading | Yes to 4: main and backup sites both Tier III or above |
+| 5 Mature | Yes to 4: main and backup sites both Tier III or above |
 
 - **Questions 1, 2 and 4 have no window.** A site in service stands until a later source says it has closed. **Question 3 has the usual three years**: a plan or a test older than that is not a yes.
 - **Stage 2 changes.** The row put procurement, a planned site and one institution's own site at stage 2. Procurement and plans are now `other`; one institution's site in service is stage 2. Most of the row's 24 countries at stage 2 stand on tenders, so many will fall to unplaced unless the reading finds a site in service.

@@ -20,7 +20,7 @@ The Continental AI Strategy asks that a country can manage its own data and AI, 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
+| 5 Mature | 5 |
 | 4 Operating | 9 |
 | 3 Established | 27 |
 | 2 Nascent | 11 |
@@ -30,7 +30,7 @@ The Continental AI Strategy asks that a country can manage its own data and AI, 
 
 ## Countries
 
-### Ethiopia: 5 Leading
+### Ethiopia: 5 Mature
 
 A university AI hub had GPUs in service and hosted 51 startup founders from 12 countries in November 2026; its GPU count is not known.
 
@@ -38,7 +38,7 @@ A university AI hub had GPUs in service and hosted 51 startup founders from 12 c
 - UNDP's Matthias Naab said on 9 November 2026 that UNDP's EDGE initiative provides high-performance GPUs at the AI UniPod in Addis Ababa for innovators to build AI products ([source, 2026-11-09](https://www.ena.et/web/eng/w/eng_9899270)).
 - A 10-day residency at the AI UniPod opened on 9 November 2026 for 51 AI startup founders from 12 African countries, who use the UniPod's resources, ENA reports ([source, 2026-11-09](https://www.ena.et/web/eng/w/eng_9899270)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 Nigeria's open national language model counted over 140 collaborators and 18 applications in 2026; no user of national AI computing is counted.
 
@@ -46,7 +46,7 @@ Nigeria's open national language model counted over 140 collaborators and 18 app
 - The communications ministry announced the launch of N-ATLAS, an open-source multilingual large language model powered by Awarri, at UNGA80 in New York, with a link to access the model ([source, 2025-09-20](https://fmcide.gov.ng/nigeria-launches-landmark-ai-model-powered-by-awarri-to-advance-languages-and-ai-at-scale/)).
 - N-ATLAS has attracted more than 140 registered collaborators and 18 third-party applications have been certified for integration with it, according to Onuoha; commercialisation and adoption are at an early stage ([source, 2026-11-11](https://von.gov.ng/nitda-seeks-stakeholders-input-to-review-digital-strategy/)).
 
-### Senegal: 5 Leading
+### Senegal: 5 Mature
 
 The state supercomputer, with GPUs, was open to researchers with over a hundred users in 2026; its GPUs often stand idle for power.
 
@@ -54,14 +54,14 @@ The state supercomputer, with GPUs, was open to researchers with over a hundred 
 - CINERI's director general Ousmane Thiare says Taouey has had more than a hundred users since its start, and that public and private users, including scientists of the sub-region, can use its high-performance computing services ([source, 2025-05-27](https://aps.sn/le-supercalculateur-taouey-un-outil-au-service-de-la-recherche-et-la-souverainete-numerique/)).
 - Thiare says use of Taouey has been free and open to all since its arrival, with a webinar of over 200 online participants on 30 March 2026 and users named from UCAD's faculty of medicine and from environment and meteorology research ([source, 2026-04](https://letechobservateur.sn/pr-ousmane-thiare-directeur-general-de-la-cineri-le-niveau-dutilisation-est-encore-moyen-a-cause-des-dysfonctionnements-que-nous-avons-de-temps-en-temps/)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 The national computing centre's GPU cluster was open free to researchers, with over 2,000 users, in 2024; no source found reports GPU use alone.
 
 - The NICIS CHPC service catalogue lists a Dell peta-scale HPC and GPU cluster with 30 Nvidia V100 GPU nodes and 4 PB of storage as a service, with use cases that include enabling machine learning insights ([source, 2024-05](https://www.chpc.ac.za/nicis-service-catalogue/)).
 - The CHPC GPU cluster is offered free for six-month renewable periods to academic and public-interest users and for a fee to commercial users, with over 2000 users and over a billion core hours used ([source, 2024-05](https://www.chpc.ac.za/nicis-service-catalogue/)).
 
-### Tunisia: 5 Leading
+### Tunisia: 5 Mature
 
 A technology park's GPU system served about 30 startups by 2024, and GPU cloud was offered in 2026; no source found reports later use.
 

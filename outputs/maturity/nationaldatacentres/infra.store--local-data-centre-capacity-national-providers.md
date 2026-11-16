@@ -14,13 +14,13 @@ The African Union's Data Policy Framework (2022), §5.3.1, asks that national pr
 | 2 Preparing | Yes to 1: a nationally owned data centre for hire in service |
 | 3 Establishing | Yes to 2: one at Tier III or above |
 | 4 Operating | Yes to 3: two at Tier III or above |
-| 5 Leading | Yes to 3 and 4: two at Tier III, and the state's own data hosted with a national provider |
+| 5 Mature | Yes to 3 and 4: two at Tier III, and the state's own data hosted with a national provider |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 9 |
+| 5 Mature | 9 |
 | 4 Operating | 0 |
 | 3 Established | 23 |
 | 2 Nascent | 12 |
@@ -30,7 +30,7 @@ The African Union's Data Policy Framework (2022), §5.3.1, asks that national pr
 
 ## Countries
 
-### Cameroon: 5 Leading
+### Cameroon: 5 Mature
 
 Two nationally owned data centres for hire at Tier III or above by 2026, and the state's own data hosted with a national provider.
 
@@ -38,7 +38,7 @@ Two nationally owned data centres for hire at Tier III or above by 2026, and the
 - ST DIGITAL states its data centres, including those deployed in Cameroon, are Tier 3 / TIA-942 constructed; the operator's own statement, no Uptime Institute certificate cited and no Cameroonian site named; the post date is used as no other date is given ([source, 2026-03-03](https://st.digital/en/blog/st-digital-s-blog-1/st-digital-526)).
 - CAMTEL said at the SAGO conference of 9 June 2026 that its Zamengoe Data Centre is a critical national asset ensuring the security, continuity and local control of government data; the document does not list the specific systems hosted ([source, 2026-06-09](https://techreviewafrica.com/news/5885/camtel-highlights-digital-sovereignty-and-data-protection-at-government-action-fair-in-yaounde)).
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 Two nationally owned data centres for hire at Tier III or above by 2026, and the state's data hosted in a state-built centre since 2024.
 
@@ -46,7 +46,7 @@ Two nationally owned data centres for hire at Tier III or above by 2026, and the
 - Telecom Egypt's brochure states the RDH data center at Smart Village holds Tier III certification of design, facility and operation from the Uptime Institute (certification date not given; as_of is the brochure's date) ([source, 2025-01-10](https://te.eg/interactivemap/assets/downloads/Telecom_Egypt_The_Digital_Hub.pdf)).
 - The report says services of the Government Data and Cloud Computing Center are used by 50,000 public employees and that ministries, which each ran their own servers, are to be served by it ([source, 2024-04-28](https://www.egypttoday.com/Article/1/131883/President-Sisi-inaugurates-Egypt-s-1st-Government-Data-and-Cloud)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 Two nationally owned data centres for hire at Tier III or above by 2026, and the state's own data hosted with a national provider.
 
@@ -54,7 +54,7 @@ Two nationally owned data centres for hire at Tier III or above by 2026, and the
 - Safaricom's Thika Data Center, in service for colocation, received Uptime Institute Tier III Concurrently Maintainable Design Certification (design certification, not constructed-facility) ([source, 2018-09-18](https://capitalfm.africa/safaricom-thika-data-centre-gets-design-certification-from-us-it-firm/)).
 - The Konza National Data Centre, through the Konza Cloud Platform, hosts 145 of Kenya's 451 government institutions; it also hosts national government systems as SaaS and is planned to host remaining ministries, departments, agencies and counties ([source, 2026-04-13](https://pppkenya.go.ke/wp-content/uploads/2020/07/Updated-ADDENDUM-III-TRANSACTION-ADVISORY-SERVICES-FOR-THE-KONZA-CLOUD-EXPANSION-AND-SAMRT-CITY-FACILITIES.pdf)).
 
-### Mauritius: 5 Leading
+### Mauritius: 5 Mature
 
 Two nationally owned data centres for hire at Tier III or above by 2026, and the state's own data hosted with a national provider.
 
@@ -62,7 +62,7 @@ Two nationally owned data centres for hire at Tier III or above by 2026, and the
 - Harel Mallac Technologies Data Center in Port Louis is described as a Tier III data center among the 10 operating; the article gives no certifier, and no date beyond its own ([source, 2025-07-16](https://www.telecomreviewafrica.com/articles/features/12397-sublime-seas-to-storage-sphere-mauritius-expands-hyperscale-data-hub/)).
 - L'Express reports that Mauritius Telecom's Rose-Belle data centre hosts government projects, among them e-Health, Mobile ID and the government portal, as seen on a minister's visit on 29 December 2025 ([source, 2025-12-29](https://lexpress.mu/node/552966)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Two nationally owned data centres for hire reach Tier III, and the state hosted its social aid systems in its own data centre in 2025.
 
@@ -70,7 +70,7 @@ Two nationally owned data centres for hire reach Tier III, and the state hosted 
 - The Benguerir Data Center, now open, is described as Tier IV Design certified (design certification, 5MW IT load; certifier not named in the text) ([source, 2021-02-22](https://www.datacenterdynamics.com/en/news/university-morocco-africa-supercomputer-toubkal/)).
 - The ANSS annual report, as reported by Le Brief, says infrastructure for the direct social aid information systems is deployed in the Ministry of Economy and Finance datacenter ([source, 2025](https://www.lebrief.ma/soutien-social-un-an-apres-impact-de-lanss-100155241/)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 Two nationally owned data centres for hire at Tier III or above by 2026, and the state's own data hosted with a national provider.
 
@@ -78,7 +78,7 @@ Two nationally owned data centres for hire at Tier III or above by 2026, and the
 - The article states 21st Century Technologies' Lagos data centre is Tier IV certified and holds a Capitoline Certificate of Conformance for Constructed Facilities; it names no Uptime Institute certificate. Date is the article date ([source, 2024-05-08](https://techeconomy.ng/shaping-the-future-of-data-infrastructure-21st-century-technologies-tier-iv-data-centre)).
 - The article says the Galaxy Backbone data centre in the National Shared Services Centre, Abuja, commissioned on 20 December 2022, serves government as well as corporate customers ([source, 2022-12-20](https://www.thecable.ng/a-data-center-to-drive-the-digital-economy/)).
 
-### Senegal: 5 Leading
+### Senegal: 5 Mature
 
 Two Tier III data centres, one of them the state's, are in service, and state agencies have moved their data to it since 2023.
 
@@ -86,7 +86,7 @@ Two Tier III data centres, one of them the state's, are in service, and state ag
 - Sonatel reports its Rufisque (Senegal) Datacenter holds Uptime Institute Tier III Design certification and obtained Tier Certification of Constructed Facility (TCCF) in December 2019, renewed in 2020 until 4 December 2021; the passage does not say whether it sells space to outside customers ([source, 2019-12](https://sonatel.sn/wp-content/uploads/2022/09/Sonatel-Groups-2020-annual-report.pdf)).
 - MFWA says state agencies have been transferring their data to the national Diamniadio data centre since November 2023, the health ministry reportedly over 80% by January 2024 ([source, 2024-01](https://mfwa.org/impact-stories/senegal-state-agencies-comply-with-policy-on-public-data-management-after-mfwa-fellows-report/)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 Two nationally owned data centres for hire at Tier III or above by 2026, and the state's own data hosted with a national provider.
 
@@ -94,7 +94,7 @@ Two nationally owned data centres for hire at Tier III or above by 2026, and the
 - BCX states its two operating Midrand data centres were developed to tier-4 specifications as rated by the Uptime Institute; this is a design specification stated by the operator, with no certification mentioned ([source, 2010-12-14](https://techcentral.co.za/bcx-puts-its-head-in-the-cloud/183285/)).
 - The DCDT states SITA, the State IT Agency, operates the Centurion data centre (primary of two national facilities) hosting mission-critical systems and sensitive government data; both are National Key Points ([source, 2026-02-24](http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf)).
 
-### Tunisia: 5 Leading
+### Tunisia: 5 Mature
 
 Two nationally owned data centres for hire are Tier III or above by 2025, and the state's CNI hosts national platforms in 2026.
 

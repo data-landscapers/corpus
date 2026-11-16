@@ -14,13 +14,13 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 | 2 Preparing | Yes to 1: a framework being written, or one that has ended with no successor adopted |
 | 3 Establishing | Yes to 1 and 2: a framework adopted and published |
 | 4 Operating | Yes to 1, 2 and 3: public bodies are required to follow it |
-| 5 Leading | Yes to all four: public bodies are following it |
+| 5 Mature | Yes to all four: public bodies are following it |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 2 |
 | 3 Established | 15 |
 | 2 Nascent | 16 |

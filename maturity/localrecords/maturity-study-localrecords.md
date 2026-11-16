@@ -72,7 +72,7 @@ The id enters `lookups/indicators.csv` at acceptance. `dpi.pay--revenue-collecti
 | 2 Preparing | A system is being prepared or piloted; or a `survey` only; or only the capital city or the upper tier records | Any, or not stated | Pilot local governments, or none |
 | 3 Establishing | `register` or `receipts`: past its pilot and live in some local governments outside the capital | `shared` or `local` | A minority, a count with no total, or not published |
 | 4 Operating | `register` | `shared` or `local` | More than half, on a share or a count with a denominator |
-| 5 Leading | `register` | `shared` | 90 per cent or more, on a figure published within two years |
+| 5 Mature | `register` | `shared` | 90 per cent or more, on a figure published within two years |
 
 **Pilot or live, and preparation, are read as the schools study reads them** (its §4). **A noted class never places a country above stage 1**, as in the police study (its §4).
 

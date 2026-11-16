@@ -20,7 +20,7 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Mature | 3 |
 | 4 Operating | 0 |
 | 3 Established | 38 |
 | 2 Nascent | 5 |
@@ -30,7 +30,7 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 
 ## Countries
 
-### Ethiopia: 5 Leading
+### Ethiopia: 5 Mature
 
 Ethiopia's AI institute said in 2026 that AI is deployed in justice, public administration and health, and the fertiliser advisory's yield gains are reported.
 
@@ -39,7 +39,7 @@ Ethiopia's AI institute said in 2026 that AI is deployed in justice, public admi
 - IDinsight says HEP Assist, built by Last Mile Health with Ethiopia's Ministry of Health, is launched in five regions and operating, with call agents using an LLM assistant to answer health extension workers' clinical queries ([source, 2025](https://www.idinsight.org/project/building-an-ai-powered-clinical-advisor-to-strengthen-frontline-healthcare-in-ethiopia/)).
 - Addis Fortune reports that the Ministry of Revenues and the Ethiopian Customs Commission unveiled an AI-powered Passenger Risk Management System among eight digital systems on 12 October 2025 ([source, 2025-10-12](https://addisfortune.news/revenue-customs-launch-eight-new-tech-systems)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 The health insurer's AI blocked Sh12.7 billion of claims by 2026, and AI serves education, farming and health; no source found says how widely.
 
@@ -47,7 +47,7 @@ The health insurer's AI blocked Sh12.7 billion of claims by 2026, and AI serves 
 - Health CS Aden Duale said investigations had uncovered irregular payments of Sh10.6 billion, credited to new safeguards embedded in the SHA system ([source, 2025-12-04](https://www.the-star.co.ke/news/2025-12-04-ai-system-flaws-push-sha-into-chaos-mps)).
 - Tuko reports President Ruto said Kenya uses AI for education-funding means testing, for distributing fertiliser to farmers and for identifying universal health coverage beneficiaries ([source, 2024-09](https://www.tuko.co.ke/business-economy/563190-william-ruto-attempts-woo-tech-giants-invest-kenya-using-ai/)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Customs and tax have used AI since 2024, and customs targeting found 34 million dirhams of evasion; results in other sectors are not known.
 

@@ -20,7 +20,7 @@ The AfCFTA Digital Trade Protocol asks states to enable electronic transactions,
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 16 |
+| 5 Mature | 16 |
 | 4 Operating | 3 |
 | 3 Established | 8 |
 | 2 Nascent | 17 |
@@ -30,45 +30,45 @@ The AfCFTA Digital Trade Protocol asks states to enable electronic transactions,
 
 ## Countries
 
-### Benin: 5 Leading
+### Benin: 5 Mature
 
 Figures for government e-procurement were reported in 2023.
 
 - A 2024 evaluation cited by ARMP found that of 757 calls published in 2023 on SIGMaP only 21 reached the automatic contract page ([source, 2023](https://armp.bj/le-benin-franchit-une-nouvelle-etape-dans-la-dematerialisation-de-la-commande-publique/)).
 
-### Cameroon: 5 Leading
+### Cameroon: 5 Mature
 
 Figures for government e-procurement were reported in 2025.
 
 - The minister reported 1,173 contracts awarded through Coleps in 2025 from 2,334 notices published, against 365 awards from 458 notices in 2024 ([source, 2025-11](https://ecomatin.net/cameroun-lattribution-des-marches-publics-en-ligne-bondit-de-221-a-1-173-contrats-en-un-an)).
 
-### Djibouti: 5 Leading
+### Djibouti: 5 Mature
 
 Figures for tenders published on the government procurement portal were reported in 2026; online bidding is not yet in place.
 
 - The state broadcaster RTD reported that the electronic public procurement portal, launched in May 2023, publishes tenders and results, lets users consult files and gives access to the procurement commission's annual reports ([source, 2026-10-22](https://rtd.dj/le-premier-ministre-par-interim-participe-au-deuxieme-colloque-regional/)).
 - RTD reported that since 2021 the electronic procurement portal lists 1,300 published contracts and 1,227 recorded awards ([source, 2026-10-22](https://rtd.dj/le-premier-ministre-par-interim-participe-au-deuxieme-colloque-regional/)).
 
-### Ethiopia: 5 Leading
+### Ethiopia: 5 Mature
 
 Figures for government e-procurement were reported in 2025.
 
 - The Authority said 308.75 billion Birr of procurement went through the electronic system in EFY 2017 (300 billion by bidding, 8.75 billion by price quotation), after 65 percent of procurement in 2016 ([source, 2025-08-11](https://www.ena.et/web/eng/w/eng_7113934)).
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 Figures for government e-procurement were reported in 2024.
 
 - The Public Procurement Authority says 5048 contracts had been awarded in GHANEPS from 3205 published tenders as of 23 April 2024, 64 per cent of the tenders being requests for quotations ([source, 2024-04-23](https://ppa.gov.gh/clarification-of-claims-made-by-mr-bright-simons/)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 All government procurement went through e-procurement from 2026, with about KSh 18.3 billion of contracts by November; the share of all purchasing is not found.
 
 - Cabinet Secretary John Mbadi said procurement contracts worth approximately KSh 18.3 billion have been processed through the eGP system ([source, 2026-11-04](https://ipfglobal.or.ke/ipf-and-treasury-review-kenyas-electronic-government-procurement-e-gp-progress-as-reform-enters-second-year/)).
 - Treasury Cabinet Secretary John Mbadi said in the 2026/27 Budget Statement that all procurement by government entities will go through e-GP from 1 July 2026, a platform covering the whole cycle from tender advertisement to contract management ([source, 2026-06-11](https://www.the-star.co.ke/news/2026-06-11-all-government-procurement-to-go-through-e-gp-from-july-1)).
 
-### Liberia: 5 Leading
+### Liberia: 5 Mature
 
 Figures for contracts awarded through government e-procurement were reported in 2025; no source found reports its share of purchasing.
 
@@ -76,58 +76,58 @@ Figures for contracts awarded through government e-procurement were reported in 
 - PPCC executive director Bodger Scott Johnson said contracts worth US$12,219,000 had been awarded through the e-GP system, including 27 by the Liberia Revenue Authority, 19 by Public Works, 17 by PPCC, 10 by Finance and 7 by Education ([source, 2025-09-23](https://www.thenewdawnliberia.com/liberian-companies-benefit-contracts-valued-over-us12-million/)).
 - Tech Africa News reports the PPCC's e-GP system lets government institutions plan, advertise, evaluate and award procurement contracts digitally, replacing the manual process; more than 1,200 vendors are registered and the platform has raised more than US$400,000 in fees ([source, 2026-08-05](https://techafricanews.com/2026/08/05/liberia-registers-over-1200-vendors-on-electronic-government-procurement-platform/)).
 
-### Libya: 5 Leading
+### Libya: 5 Mature
 
 Figures for government e-procurement were reported in 2025.
 
 - GIA statistics for July 2025: 189 government entities published tenders, 626 bids were announced and 840 entities were registered on Attaat ([source, 2025-07](https://libyaherald.com/2025/08/tripoli-libyan-governments-official-tendering-and-procurement-website-attaat-is-operational)).
 
-### Malawi: 5 Leading
+### Malawi: 5 Mature
 
 Figures for government e-procurement were reported in 2026.
 
 - The PPDA reports MANePS had 7,417 registered suppliers, 216 of 250 targeted 2026/27 procurement plans published (86 percent), 560 procurement notices and 562 tenders as of 5 October 2026 ([source, 2026-10-05](https://www.ppda.mw/newsdetail/89)).
 
-### Mauritius: 5 Leading
+### Mauritius: 5 Mature
 
 Figures for government e-procurement were reported in 2024.
 
 - The Procurement Policy Office reports that in 2023/24 public bodies published 7,681 electronic invitations for bids, received 18,599 electronic bid submissions, and awarded 4,938 contracts above Rs 100,000 through the e-PS against 3,819 paper-based ([source, 2024-06](https://ppo.govmu.org/Documents/Annual%20Reports/Annual%20Report%202023-2024.pdf)).
 
-### Senegal: 5 Leading
+### Senegal: 5 Mature
 
 Figures for government e-procurement were reported in 2026.
 
 - ARCOP gives figures for APPEL: nearly 400 registered suppliers, over 80 procurement plans published for 2025 and since January 2026, and 15 procedures launched, nine with electronic opening of bids ([source, 2026-02-12](https://arcop.sn/2026/02/12/premiers-resultats-encourageants-sur-la-plateforme-appel-4-mois-de-mise-en-oeuvre-plus-de-400-fournisseurs-inscrits-80-ppm-publies-et-15-procedures-lancees/)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 Figures for tenders through government e-procurement were reported in 2026; no source found says whether it runs end to end.
 
 - National Treasury's OCPO deck says the eTenders system handles tender publication, online bid submission (eSubmission), online bid evaluations and publication of awards, used by 892 organs of state ([source, 2026-09](https://www.gtac.gov.za/wp-content/uploads/2026/10/GTAC-EU-eProcurement-Dialog-NT-Presentation-draft.pdf)).
 - National Treasury's OCPO deck gives eTenders averages of 3,300 tenders and 1,800 awards a month ([source, 2026-09](https://www.gtac.gov.za/wp-content/uploads/2026/10/GTAC-EU-eProcurement-Dialog-NT-Presentation-draft.pdf)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 Tanzania's e-procurement system had handled 397,395 procurement proceedings worth 40.4 trillion shillings by August 2026.
 
 - By August 2026 the Public Procurement Regulatory Authority said NeST had facilitated 397,395 procurement proceedings worth 40.4tri/- ([source, 2026-08](https://dailynews.co.tz/tanzanias-push-toward-paperless-public-services-hits-heights-in-six-document-heavy-functions/)).
 - PPRA director general Dennis Simba said NeST had handled 130,032 tenders worth Sh14.9 trillion ([source, 2025-05](https://www.thecitizen.co.tz/tanzania/news/national/e-procurement-saves-tanzania-4-9-million-in-tender-document-costs-5038796)).
 
-### Tunisia: 5 Leading
+### Tunisia: 5 Mature
 
 Figures for bids through government e-procurement were reported in 2023; no source found reports the value and share of purchasing through it.
 
 - Government representatives told parliament's administration committee that the public procurement system is online, with more than 27,700 bids registered online and 15,500 suppliers and contractors ([source, 2023-11-03](https://arp.tn/blog/arp-blog-1/post/8172)).
 - Government representatives gave a figure of more than 27,700 bids registered on the online public procurement system, with 15,500 suppliers and 1,441 public buyers registered ([source, 2023-11-03](https://arp.tn/blog/arp-blog-1/post/8172)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 Figures for government e-procurement were reported in 2026.
 
 - Turamye says the 36 entities running EGP have done more than 38,000 contracts on it, with a target of 113 entities by June 2026 ([source, 2026-04-17](https://www.monitor.co.ug/uganda/news/national/govt-moves-to-fully-automate-procurement-to-cut-graft-delays-5427820)).
 
-### Zambia: 5 Leading
+### Zambia: 5 Mature
 
 Figures for government e-procurement were reported in 2024.
 

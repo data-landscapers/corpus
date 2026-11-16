@@ -14,13 +14,13 @@ The African Charter on the Values and Principles of Public Service and Administr
 | 2 Preparing | Yes to 1: government staff run a system |
 | 3 Establishing | Yes to 2: a government technology body serves the rest of government |
 | 4 Operating | Yes to 3: a system built in-house went live in the last three years |
-| 5 Leading | Yes to 4: three or more systems run wholly by government staff |
+| 5 Mature | Yes to 4: three or more systems run wholly by government staff |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 12 |
+| 5 Mature | 12 |
 | 4 Operating | 9 |
 | 3 Established | 9 |
 | 2 Nascent | 10 |
@@ -30,7 +30,7 @@ The African Charter on the Values and Principles of Public Service and Administr
 
 ## Countries
 
-### Algeria: 5 Leading
+### Algeria: 5 Mature
 
 Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
 
@@ -41,7 +41,7 @@ Government staff run, maintain or built three or more of its systems by 2026, no
 - Dzair Digital Services, the national portal launched on 5 July 2026 that groups the digital services of several ministries and public bodies, is developed by the Haut-commissariat a la numerisation ([source, 2026-10-18](https://www.algerie360.com/dzair-digital-services-documents-en-ligne/)).
 - The Haut Commissariat a la Numerisation states its own services designed and developed the mechanism for verifying electronic documents issued through the Dzair Digital Services portal, which it trained sector information-system managers to deploy and operate ([source, 2026-09-17](https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381)).
 
-### Burkina Faso: 5 Leading
+### Burkina Faso: 5 Mature
 
 Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
 
@@ -49,7 +49,7 @@ Government staff run, maintain or built three or more of its systems by 2026, no
 - The Treasury's own administration, not a contractor, developed e-BDT ([source, 2026-04-03](https://www.sidwaya.info/tresor-public-lanaya-et-e-bdt-pour-simplifier-les-demarches-administratives/)).
 - ANPTIC, the state ICT agency, lists Toumnana (SIGED) among the government systems it developed ([source, 2024-01-30](https://anptic.gov.bf/nos-realisations/)).
 
-### Cape Verde: 5 Leading
+### Cape Verde: 5 Mature
 
 Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
 
@@ -57,7 +57,7 @@ Government staff run, maintain or built three or more of its systems by 2026, no
 - The justice information system, developed and implemented by the state company NOSi, passes for maintenance and development to the Justice Ministry's IMIJ, in coordination with NOSi ([source, 2026-03-17](https://www.governo.cv/nosi-faz-entrega-formal-do-sistema-de-informacao-da-justica-ao-ministerio-da-justica/)).
 - NOSi, the government's technology arm, develops and maintains IGRPWeb among its e-government solutions ([source, 2024](https://www.caboverdeexpert.com/cabo-verde-digital-operational-nucleus-for-the-information-society-nosi/)).
 
-### Cote d'Ivoire: 5 Leading
+### Cote d'Ivoire: 5 Mature
 
 The state IT company built the finance, procurement and business one-stop systems, with no contractor named, as of 2026.
 
@@ -68,7 +68,7 @@ The state IT company built the finance, procurement and business one-stop system
 - An SNDI representative said at the 25 September 2026 plenary that SNDI has operated its own satellite network since 2006 connecting administrations, universities and health centres, and had provided internet to the University of Korhogo ([source, 2026-09-25](https://afriksoir.net/aspex-2026-le-satellite-au-coeur-des-enjeux-de-connectivite-et-de-resilience-numerique-en-cote-divoire/)).
 - GUCE CI, a state company, manages and maintains the GUCE single-window system, with technical support from the trade ministry ([source, 2024-07-25](https://www.gucecotedivoire.ci/innovation-et-dematerialisation-dans-lecosysteme-du-commerce-exterieur-guce-ci-lance-sa-nouvelle-application-guce-mobile-tant-attendue-par-les-operateurs-economiques-les-acteurs-majeurs-e/)).
 
-### Ethiopia: 5 Leading
+### Ethiopia: 5 Mature
 
 Government staff and state bodies wholly run at least three systems, among them the national ID system a state company took over in 2026.
 
@@ -76,7 +76,7 @@ Government staff and state bodies wholly run at least three systems, among them 
 - The election board's voter and candidate registration applications were designed entirely by its in-house technical team and were operational ([source, 2025-06-10](https://www.ena.et/web/eng/w/eng_6739876)).
 - The cyber drill platform was built entirely by INSA experts and used by 17 institutions ([source, 2026-10](https://techreviewafrica.com/news/8150/ethiopia-s-insa-organises-national-cyber-drill-competition-to-strengthen-institutional-cybersecurity-readiness)).
 
-### Gabon: 5 Leading
+### Gabon: 5 Mature
 
 Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
 
@@ -84,7 +84,7 @@ Government staff run, maintain or built three or more of its systems by 2026, no
 - The KEWA platform, which published the 2026 primary-school certificate results, is run by the state agency ANINF, its engineers credited for it ([source, 2026-06-27](https://gabonactu.com/blog/2026/06/27/cep-2026-kewa-revolutionne-la-publication-des-resultats-laninf-confirme-son-leadership-dans-la-transformation-numerique-du-gabon/)).
 - ANINF's own directorates manage its SecBOM digital-asset mapping system; no outside vendor is named ([source, 2025-06-01](https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/)).
 
-### Mali: 5 Leading
+### Mali: 5 Mature
 
 Government staff built the mining cadastre, the civil-service HR system and court case software, with no contractor named, by 2026.
 
@@ -95,7 +95,7 @@ Government staff built the mining cadastre, the civil-service HR system and cour
 - The article says the criminal record and nationality portals were developed by the digital ministry and AGETIC, the government's information technology agency, with the Ministry of Justice ([source, 2026-02-10](https://www.wearetech.africa/en/fils-uk/news/public-management/mali-launches-online-criminal-record-and-nationality-certificate-services)).
 - L'Essor reports AGETIC, the state ICT agency, managed 13,441 .ml domain names and supported 30 registrars, so its own staff run the .ml country-code domain registry; the document gives no event date, so its published date is used ([source, 2025-12-30](https://lessor.ml/posts/cyber-espace-le-mali-renforce-sa-viabilite-avec-le-point-ml-69538f175e535)).
 
-### Mauritius: 5 Leading
+### Mauritius: 5 Mature
 
 Government staff built the payroll system, live in 2024, and run two more systems themselves; no contractor is named.
 
@@ -106,7 +106,7 @@ Government staff built the payroll system, live in 2024, and run two more system
 - The Central Information Systems Division's Application Development Unit says it designs, develops, deploys and maintains applications for various ministries and government departments on the GOC Cloud ([source, 2024](https://cisd.govmu.org/Pages/Application-Development.aspx)).
 - The Application Development Unit of the ministry's CISD says it fixes bugs and upgrades the applications it develops for ministries ([source, 2024](https://cisd.govmu.org/Pages/Application-Development.aspx)).
 
-### Senegal: 5 Leading
+### Senegal: 5 Mature
 
 Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
 
@@ -114,7 +114,7 @@ Government staff run, maintain or built three or more of its systems by 2026, no
 - Senegal Numerique SA, a state company, runs the government messaging service and its collaboration and video-conference tools ([source, 2025](https://www.presidence.sn/wo/assets/documents/Communication-SENUM-CAMP-2025.pdf)).
 - ANACIM's own technology and climate data teams have deployed and operated the AgData Hub end to end since September-October 2025 ([source, 2025-10](https://aiccra.cgiar.org/news/information-action-nationally-integrated-agdata-hub-turning-point-senegals-agriculture)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
 
@@ -122,7 +122,7 @@ Government staff run, maintain or built three or more of its systems by 2026, no
 - NeST is developed and maintained by the Public Procurement Regulatory Authority's own technical team ([source, 2026-09-25](https://thebusinesswiz.co.tz/2026/09/25/tanzanias-digital-procurement-system-cuts-processing-time-and-costs/)).
 - The e-Government Authority developed the M-Kilimo system with the Ministry of Agriculture ([source, 2026-08-04](https://dailynews.co.tz/ega-drives-digital-farming/)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 The national IT authority built its own service desk, live in 2026, and staff run identity, court and key systems themselves.
 
@@ -133,7 +133,7 @@ The national IT authority built its own service desk, live in 2026, and staff ru
 - An opinion writer says the National Data Centre hosts government cloud, backup and disaster recovery services and that NITA-U records more than 300 applications for 100 entities; the figures are the writer's, dated by the 2026-10-10 publication ([source, 2026-10](https://www.newvision.co.ug/category/blogs/plan-now-for-infrastructure-to-power-ai-NV_242203_102026)).
 - NITA-U's executive director said NITA-U is in charge of Uganda's National Backbone Infrastructure and its operations, per the Monitor ([source, 2026-11-02](https://www.monitor.co.ug/uganda/news/national/questions-swirl-over-internet-deal-between-uganda-tanzania-5654914)).
 
-### Zambia: 5 Leading
+### Zambia: 5 Mature
 
 Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
 

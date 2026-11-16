@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a framework being written, or one that has ended with no successor adopted |
 | 3 Establishing | Yes to 1 and 2: a framework adopted and published |
 | 4 Operating | Yes to 1, 2 and 3: public bodies are required to follow it |
-| 5 Leading | Yes to all four: public bodies are following it |
+| 5 Mature | Yes to all four: public bodies are following it |
 
 - **Questions 1 to 3 have no time limit**: an adopted framework stands, with its year, until a dated source says it has ended, been replaced or withdrawn.
 - **A statement that there is no framework counts for three years.**

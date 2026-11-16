@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a nationally owned data centre for hire in service |
 | 3 Establishing | Yes to 2: one at Tier III or above |
 | 4 Operating | Yes to 3: two at Tier III or above |
-| 5 Leading | Yes to 3 and 4: two at Tier III, and the state's own data hosted with a national provider |
+| 5 Mature | Yes to 3 and 4: two at Tier III, and the state's own data hosted with a national provider |
 
 - **No question has a window.** A data centre in service, and a state's hosting, stand until a later source says they have ended.
 - **Ownership is the owner's, at the as-at date.** A company bought by a foreign group is foreign from the sale. A joint venture is national where the country's side holds the majority.

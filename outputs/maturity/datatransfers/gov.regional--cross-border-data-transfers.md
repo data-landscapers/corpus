@@ -14,13 +14,13 @@ The African Union's Convention on Cyber Security and Personal Data Protection (t
 | 2 Preparing | Protected but closed: a transfer rule is being written; or one is in force but every transfer needs the authority's permission, or a rule keeping personal data in general at home stands beside it |
 | 3 Establishing | Protected and open: yes to 1 and 2 |
 | 4 Operating | Workable: yes to 1, 2 and 3 |
-| 5 Leading | Open to Africa: yes to all four |
+| 5 Mature | Open to Africa: yes to all four |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 1 |
 | 3 Established | 11 |
 | 2 Nascent | 26 |
@@ -30,7 +30,7 @@ The African Union's Convention on Cyber Security and Personal Data Protection (t
 
 ## Countries
 
-### Mauritania: 5 Leading
+### Mauritania: 5 Mature
 
 Mauritania bars transfers abroad without sufficient protection, publishes a list of adequate countries since July 2025, and ratified the Malabo Convention in 2023.
 

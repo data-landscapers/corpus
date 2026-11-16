@@ -16,13 +16,13 @@ The norm is the African Union's Digital Transformation Strategy, with the decent
 | 2 Preparing | A system is being prepared or piloted; or a `survey` only; or only the capital city or the upper tier records | Any, or not stated | Pilot local governments, or none |
 | 3 Establishing | `register` or `receipts`: past its pilot and live in some local governments outside the capital | `shared` or `local` | A minority, a count with no total, or not published |
 | 4 Operating | `register` | `shared` or `local` | More than half, on a share or a count with a denominator |
-| 5 Leading | `register` | `shared` | 90 per cent or more, on a figure published within two years |
+| 5 Mature | `register` | `shared` | 90 per cent or more, on a figure published within two years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 2 |
 | 3 Established | 18 |
 | 2 Nascent | 21 |

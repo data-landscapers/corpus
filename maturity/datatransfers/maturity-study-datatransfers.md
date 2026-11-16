@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Protected but closed: a transfer rule is being written; or one is in force but every transfer needs the authority's permission, or a rule keeping personal data in general at home stands beside it |
 | 3 Establishing | Protected and open: yes to 1 and 2 |
 | 4 Operating | Workable: yes to 1, 2 and 3 |
-| 5 Leading | Open to Africa: yes to all four |
+| 5 Mature | Open to Africa: yes to all four |
 
 - **Every lower stage is shown by its own evidence** *(Bill, 2026-10-31, ruling 51)*: a ratification without a transfer rule in force places nothing above stage 1, and a published adequacy list does not answer question 2 where a general localisation rule stands.
 - **Questions 1, 2 and 4 have no time limit**: a rule in force or a ratification stands, with its year, until a dated source says it has gone. A statement that nothing protects data sent abroad counts for three years.

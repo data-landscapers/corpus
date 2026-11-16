@@ -20,7 +20,7 @@ The African Charter on Statistics (2009) and the Strategy for the Harmonisation 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Mature | 2 |
 | 4 Operating | 3 |
 | 3 Established | 30 |
 | 2 Nascent | 11 |
@@ -30,7 +30,7 @@ The African Charter on Statistics (2009) and the Strategy for the Harmonisation 
 
 ## Countries
 
-### Burundi: 5 Leading
+### Burundi: 5 Mature
 
 The 2022-2026 statistics strategy is current, its steering group reviewed it in July 2026 and its mid-term evaluation had reported.
 
@@ -38,7 +38,7 @@ The 2022-2026 statistics strategy is current, its steering group reviewed it in 
 - INSBU reports that the statutory Groupe Sectoriel Statistique held its second-quarter 2026 meeting on 28 July 2026 and discussed the recommendations of the SNDS-III mid-term evaluation, a meeting of the statistical system's coordinating body on how the strategy is being carried out ([source, 2026-07-28](https://www.insbu.bi/actualitesEtEvenements)).
 - The statutory Groupe Sectoriel Statistique meeting of 28 July 2026 discussed the recommendations of the mid-term evaluation of the SNDS-III, which shows that evaluation had reported; the completion date is not given, so the meeting date is used ([source, 2026-07-28](https://www.insbu.bi/actualitesEtEvenements)).
 
-### Mali: 5 Leading
+### Mali: 5 Mature
 
 SDS IV was reviewed in 2026 and the plan before it was evaluated in 2025; formal adoption of its 2026-2030 action plan is not known.
 

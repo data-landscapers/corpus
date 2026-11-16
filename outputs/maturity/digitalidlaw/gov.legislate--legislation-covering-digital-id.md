@@ -14,13 +14,13 @@ The African Union's Digital Transformation Strategy sets a target of digital leg
 | 2 Preparing | Yes to 1: a bill, or a system run on a decree alone, and no law in force |
 | 3 Establishing | Yes to 1 and 2: a law in force |
 | 4 Operating | Yes to 1, 2 and 3: the law in force provides for a digital identity |
-| 5 Leading | Yes to all four: rules have been made under that law in the last three years |
+| 5 Mature | Yes to all four: rules have been made under that law in the last three years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Mature | 6 |
 | 4 Operating | 25 |
 | 3 Established | 7 |
 | 2 Nascent | 9 |
@@ -30,7 +30,7 @@ The African Union's Digital Transformation Strategy sets a target of digital leg
 
 ## Countries
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 Ghana's identity Acts of 2006 and 2008 are in force; 2026 regulations require biometric verification against the national register.
 
@@ -39,7 +39,7 @@ Ghana's identity Acts of 2006 and 2008 are in force; 2026 regulations require bi
 - L.I. 2523, made under the National Identity Register Act, 2008 (Act 750), requires identity to be verified biometrically and in real time against the National Identification Authority's database, so the law in force provides for an identity that can be checked electronically ([source, 2026-03-27](https://www.mint.gov.gh/government-strengthens-identification-verification-system/)).
 - The Interior Ministry says the National Identity Register Regulations (L.I. 2111) are amended by L.I. 2523, a legislative instrument (regulations) made under the identity register law, in effect from 9 June 2026 ([source, 2026-06-09](https://www.mint.gov.gh/government-strengthens-identification-verification-system/)).
 
-### Guinea: 5 Leading
+### Guinea: 5 Mature
 
 Guinea's 2023 identification law is in force, and an April 2025 decree applying it set up a biometric register with an identification number.
 
@@ -47,7 +47,7 @@ Guinea's 2023 identification law is in force, and an April 2025 decree applying 
 - Law L/2023/019/CNT of 25 October 2023 on the identification of natural persons is the law under which decree D/2025/052 is made, and the decree sets up a register of biometric and biographic data with a personal identification number ([source, 2023-10-25](https://guineelex.com/decrets-arretes/decret-d-2025-052-prg-cnrd-sgg)).
 - The territorial administration minister's declaration of 10 August 2026 lists among achievements the adoption and dissemination of the laws on the identification of physical persons and on civil status; no number, promulgation date or instrument kind is given, and the date is that of the statement ([source, 2026-08-10](https://mediaguinee.com/2026/08/decentralisation-et-etat-civil-la-guinee-accelere-sa-transformation-avec-un-taux-denregistrement-des-naissances-passe-a-72-ministre)).
 
-### Mauritius: 5 Leading
+### Mauritius: 5 Mature
 
 Mauritius's 1985 identity card law is in force; 2024 regulations under it set a new card with a digital seal and fingerprints.
 
@@ -55,7 +55,7 @@ Mauritius's 1985 identity card law is in force; 2024 regulations under it set a 
 - The National Identity Card Regulations 2024, made under section 10 of the National Identity Card Act, set an identity card with a digital seal applied for with fingerprints, so the Act in force provides for a biometric, electronically checkable identity ([source, 2024-02-16](https://paps.mnis.govmu.org/wp-content/uploads/2025/05/29_The-National-IC-Reg-2024-.pdf)).
 - The Mauritius National Identity Card Unit's page lists the National Identity Card Act, No. 60 of 1985 (an Act of Parliament) as the law behind the identity card system, with the new MNIC 3.0 card operational since 19 February 2024; the page is dated 2024-02-19 and gives no other date for the state of the law ([source, 2024-02-19](https://mnis.govmu.org/)).
 
-### Somalia: 5 Leading
+### Somalia: 5 Mature
 
 Somalia's 2023 identification law is in force; a 2024 regulation applies it and sets rules for banks and phone companies checking identity.
 
@@ -63,7 +63,7 @@ Somalia's 2023 identification law is in force; a 2024 regulation applies it and 
 - The regulation defines the Digital National Identification System as the system established by the Public Identification and Registration Law and provides for biometric data (10 fingerprints, face or iris), an 11-digit identity number unique to each person for life, and electronic verification of the card by relying parties ([source, 2024-06-08](https://www.osagsomalia.com/media/documents/bulletins-contents/cabinet-decisions/2024/Xeer-nidaamiyaha_Sharciga_Aqoonsiga_Diiwaan-galinta_Dadwaynaha.pdf)).
 - The Prime Minister signed Implementing Regulation (Xeer Ra'iisal Wasaare Lr. 158) on 8 June 2024, after Council of Ministers decision SHGW.19.76.06.24 of 6 June 2024, taking effect on signature and made under the Public Identification and Registration Law, Law No. 009 of 20 March 2023, which shows that law is in force ([source, 2024-06-08](https://www.osagsomalia.com/media/documents/bulletins-contents/cabinet-decisions/2024/Xeer-nidaamiyaha_Sharciga_Aqoonsiga_Diiwaan-galinta_Dadwaynaha.pdf)).
 
-### South Sudan: 5 Leading
+### South Sudan: 5 Mature
 
 South Sudan's 2018 Civil Registry Act and 2024 regulations provide for a personal identification number; the World Bank calls them under-implemented.
 
@@ -71,7 +71,7 @@ South Sudan's 2018 Civil Registry Act and 2024 regulations provide for a persona
 - The World Bank diagnostic says the Civil Registry Act (2018) and the 2024 Regulations under it lay the foundation for an interoperable digital ID ecosystem based on a Personal Identification Number tied to biometrically deduplicated IDs, with national identity cards, and a civil registry as national data source; implementation is extremely limited. Published date used, no date of the statement being given ([source, 2026-05](https://documents1.worldbank.org/curated/en/099053126171570627/pdf/P502463-0c06abde-be3d-4f83-b9e1-eca068e7bc1e.pdf)).
 - The World Bank diagnostic says South Sudan's Civil Registry Act (2018), with the Nationality Act (2011), is the legal foundation of its identification system, and that the Civil Registration and National Identity Regulations (2024), drafted under the Act's sections 33 and 39, build on it; it calls the framework under-implemented, not absent ([source, 2026-05](https://documents1.worldbank.org/curated/en/099053126171570627/pdf/P502463-0c06abde-be3d-4f83-b9e1-eca068e7bc1e.pdf)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 Uganda's 2015 Registration of Persons Act provides a unique number and biometric register; regulations were made under it in August 2024.
 

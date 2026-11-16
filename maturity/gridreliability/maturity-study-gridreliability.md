@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: ten or fewer |
 | 3 Establishing | Yes to 2: five or fewer |
 | 4 Operating | Yes to 3: two or fewer |
-| 5 Leading | Yes to 4: one or fewer |
+| 5 Mature | Yes to 4: one or fewer |
 
 - **The figures Corpus already holds answer all four questions for 48 countries before anything is read**: stage 1 for nine, stage 2 for ten, stage 3 for 13, stage 4 for ten, and stage 5 for Cabo Verde, Morocco, Senegal, Seychelles, Tanzania and Tunisia.
 - **Six countries have no figure in the window**: Algeria, Eritrea and Libya have none at all; Madagascar's is for 2022, South Africa's for 2020 and Sudan's for 2014. Algeria, Eritrea and Libya are *No evidence*; Madagascar, South Africa and Sudan, whose figures cannot set a rung, are *unplaced* *(Bill, 2026-11-09, message 85)*.

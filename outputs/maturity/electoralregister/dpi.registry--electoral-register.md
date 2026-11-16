@@ -20,7 +20,7 @@ The African Charter on Democracy, Elections and Governance and the AU's election
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 12 |
+| 5 Mature | 12 |
 | 4 Operating | 18 |
 | 3 Established | 9 |
 | 2 Nascent | 3 |
@@ -30,27 +30,27 @@ The African Charter on Democracy, Elections and Governance and the AU's election
 
 ## Countries
 
-### Benin: 5 Leading
+### Benin: 5 Mature
 
 The voters' roll was drawn from or checked against the ID or civil register in 2026.
 
 - ANIP says the list is extracted directly from the Fichier National de l'État Civil, the database also used for national identity cards ([source, 2025-09-11](https://beninwebtv.bj/affichage-de-la-liste-electorale-provisoire-lanip-lance-la-phase-de-verification/)).
 - ANIP says electoral lists are generated from the RNPP, the national identification register ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 The voters' roll was drawn from or checked against the ID or civil register in 2025.
 
 - The National Elections Authority says the update included reviewing voter entries and linking them to the national number to prevent duplicates or errors ([source, 2025-09-19](https://www.elwatannews.com/news/details/8137356)).
 
-### Guinea: 5 Leading
+### Guinea: 5 Mature
 
 The voters' roll was drawn from or checked against the ID or civil register in 2026.
 
 - The convention makes the data of the registre national des personnes physiques the single official source of voter identification data for the biometric electoral lists, says the DGE director general ([source, 2026-01-22](https://mediaguinee.com/2026/01/conakry-la-dge-et-loneci-scellent-une-alliance-pour-un-fichier-electoral-fiable/)).
 - Jurist Sayon Mara writes that the first phase of PN-RAVEC, launched 15 April 2025 with biometric enrolment of people aged 10 and over, consists essentially of building the RNPP in order to extract the electoral file for the referendum and national and local elections ([source, 2025-04-15](https://mediaguinee.com/2025/04/en-avant-pour-le-recensement-biometrique-par-sayon-mara/)).
 
-### Mali: 5 Leading
+### Mali: 5 Mature
 
 The voters' roll was drawn from or checked against the ID or civil register in 2026.
 
@@ -58,26 +58,26 @@ The voters' roll was drawn from or checked against the ID or civil register in 2
 - Bamada.net, repeating Le Pays, reports Mali's electoral lists are revised each 1 October to 31 December and are drawn from the biometric civil-status database; the 2026 revision opened on 1 October ([source, 2026-10-06](https://bamada.net/fichier-electoral-lheure-du-grand-nettoyage)).
 - L'Essor reports the Administrative Commission enrols by right citizens holding a NINA and those in the biometric civil-status database with photo and fingerprints, and sends a copy of each list to the service managing that database ([source, 2025-01-02](https://lessor.ml/posts/loi-electorale-les-articles-52-57-et-70-modifies-677641a527512)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 The voters' roll was drawn from or checked against the ID or civil register in 2026.
 
 - Acting INEC chairman Rhoda Gumus said INEC, through collaboration with NIMC and its continuous voter registration portal, has systematically integrated National Identification Numbers to audit, verify and clean the national voter register ([source, 2026-09-15](https://thecabal.ng/inec-integrates-nin-to-clean-national-voter-register-ahead-2027-polls/)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 The voters' roll was drawn from or checked against the ID or civil register in 2024.
 
 - The High Commission of Rwanda in Nigeria says everyone aged 18 or over with a Rwandan national ID card is automatically registered on the voters' list, with the polling location taken from the place the ID was requested ([source, 2024-05-18](https://www.rwandainnigeria.gov.rw/index.php?eID=dumpFile&f=101349&t=f&token=beb4565a7b4f20efef3e58d831d4f6d89bc46150)).
 
-### Sao Tome and Principe: 5 Leading
+### Sao Tome and Principe: 5 Mature
 
 The voters' roll was drawn from or checked against the ID or civil register in 2026.
 
 - The roll for the 19 July 2026 presidential election was compiled automatically from data of the civil registry directorate (DGRN) for the first time ([source, 2026-07-19](https://rstp.st/2026/07/31/eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados-com-mais-de-146-mil-eleitores-inscritos/)).
 - The new electoral registration law, in force after publication on 26 March 2026, enters citizens in the electoral database ex officio at 18 on the basis of DGRN civil identification data shared with the CEN, per the PReSE ([source, 2026-03-26](https://rstp.st/2026/04/01/eleicoes26-lei-do-recenseamento-eleitoral-automatico-entra-em-vigor/)).
 
-### Seychelles: 5 Leading
+### Seychelles: 5 Mature
 
 The voters' roll was checked against civil status death records in 2026.
 
@@ -85,13 +85,13 @@ The voters' roll was checked against civil status death records in 2026.
 - The Electoral Commission of Seychelles says voters can use its new Online Voter Registration system at ecs.sc to check their registration status or register, transfer, correct, change name or object ([source, 2025-07-13](https://www.nation.sc/articles/26766/ecs-encourages-voters-to-register-online)).
 - The Electoral Commission of Seychelles FAQ says it receives a monthly list of deceased from the Department of Immigration and Civil Status and removes those names from the voters' register at certification, and that the NIN is used to check the register ([source, 2026](https://ecs.sc/faq/)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 The voters' roll was drawn from or checked against the ID or civil register in 2026.
 
 - Minister Leon Schreiber said in a parliamentary reply that home affairs and the IEC share an electronic interface that verifies identity information submitted at voter registration and voting against the National Population Register ([source, 2026-09-23](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 The voters' roll was drawn from or checked against the ID or civil register in 2025.
 
@@ -99,14 +99,14 @@ The voters' roll was drawn from or checked against the ID or civil register in 2
 - INEC says online corrections to the voters register require a NIDA National Identification Number, which verifies the voter information being corrected ([source, 2024-06](https://dailynews.co.tz/inec-approves-191-csos-to-conduct-voter-education/)).
 - INEC Director of Elections Ramadhani Kailima said the voter register is by law made public during every stage of its update, and that it was provided to 18 political parties on 27 July 2025 ([source, 2025-07-27](https://thechanzo.com/2025/08/04/inec-tanzania-responds-to-concerns-over-voter-register-numbers/)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 The voters' roll was drawn from or checked against the ID or civil register in 2025.
 
 - The Daily Monitor says the national voter register was compiled using biometric data extracted from the National Identification and Registration Authority (Nira) ([source, 2025-10-29](https://www.monitor.co.ug/uganda/news/national/one-man-one-vote-inside-new-ec-biometric-system-5249126)).
 - The Electoral Commission says the National Voters Register was displayed in 2025 and urges the public to use its official website ec.or.ug/register to verify voter registration particulars and polling station ([source, 2025-12-31](https://ec.or.ug/sites/default/files/press/Statement%20by%20EC%20Chairperson%20General%20Election%20Updates.31.12.2025.pdf)).
 
-### Zimbabwe: 5 Leading
+### Zimbabwe: 5 Mature
 
 Zimbabwe's biometric voters' roll could be checked online or by text in 2025 and was cleaned against the population database in 2026.
 

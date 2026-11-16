@@ -74,7 +74,7 @@ Tested and fixed at S3, 2026-10-09 (`ladder-test.csv`): a register still at its 
 | 2 Preparing | An EMIS for primary schools is being prepared or piloted; or one runs in secondary schools only | Any, or not stated | Pilot schools, or none |
 | 3 Establishing | P: past its pilot and live in some primary schools, for routine entry or as a learner register | `routine`, `enrolment` or `keyed-elsewhere` | A minority, a count with no total, or not published |
 | 4 Operating | P | `routine` | More than half enter attendance or results during the year, on a share or a count with a denominator |
-| 5 Leading | P | `routine`, with attendance entered daily | 90 per cent or more, on a figure published within two years that gives the rural share |
+| 5 Mature | P | `routine`, with attendance entered daily | 90 per cent or more, on a figure published within two years that gives the rural share |
 
 **Pilot or live is the source's word** *(Bill, 2026-10-09)*: a rollout, a phase after the pilot, or schools named as using it is live. Where the source does not say, it is a pilot.
 

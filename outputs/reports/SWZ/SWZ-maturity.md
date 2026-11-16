@@ -1,6 +1,6 @@
 # Eswatini: maturity assessment
 
-*As at 31 August 2026, beside 31 July. Each indicator is placed on five stages against a continental norm: for a law, strategy or system, 1 Absent · 2 Nascent · 3 Established · 4 Operating · 5 Leading; for a measure, 1 far below · 2 below · 3 approaching · 4 meets · 5 exceeds the norm's target. **Unplaced** means the repository holds evidence that meets no stage. **No evidence** means it holds none. A stage moves only on a source dated inside the month.*
+*As at 31 August 2026, beside 31 July. Each indicator is placed on five stages against a continental norm: for a law, strategy or system, 1 Absent · 2 Nascent · 3 Established · 4 Operating · 5 Mature; for a measure, 1 far below · 2 below · 3 approaching · 4 meets · 5 exceeds the norm's target. **Unplaced** means the repository holds evidence that meets no stage. **No evidence** means it holds none. A stage moves only on a source dated inside the month.*
 
 - **Instruments (44)**: 4 Operating 1 · 3 Established 16 · 2 Nascent 16 · unplaced 10 · no evidence 1
 - **Systems (51)**: 3 Established 21 · 2 Nascent 20 · 1 Absent 1 · unplaced 9

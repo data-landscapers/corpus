@@ -20,7 +20,7 @@ The African Union's Digital Transformation Strategy asks for consumer protection
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
+| 5 Mature | 8 |
 | 4 Operating | 10 |
 | 3 Established | 13 |
 | 2 Nascent | 3 |
@@ -30,7 +30,7 @@ The African Union's Digital Transformation Strategy asks for consumer protection
 
 ## Countries
 
-### Cape Verde: 5 Leading
+### Cape Verde: 5 Mature
 
 Cabo Verde's payment-services law is applied to digital banking, and the central bank handles and counts internet-banking complaints.
 
@@ -38,45 +38,45 @@ Cabo Verde's payment-services law is applied to digital banking, and the central
 - A Banco de Cabo Verde official says the BCV handles complaints about digital payment systems, though often cannot resolve them where the user caused the failure ([source, 2025-03-19](https://www.asemana.cv/index.php/atualidade/14109-maior-parte-das-fraudes-acontece-por-uso-indevido-dos-sistemas-de-pagamentos-digitais-bcv)).
 - The Banco de Cabo Verde recorded 10 complaints about internet banking among 169 banking complaints in 2024, and banks refunded complainants 3.25 million escudos, mainly for unauthorised card and internet-banking transactions ([source, 2024](https://www.bcv.cv/SiteCollectionDocuments/2025/RSC%202024.pdf)).
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 The central bank shut down over 400 illegal online lenders in 2025 and reports complaints against payment service providers.
 
 - Bank of Ghana, with EOCO and the Cyber Security Authority, said it had uncovered and shut down over 400 illegal online lending operators ([source, 2025-10-15](https://www.graphic.com.gh/business/business-news/ghana-news-bog-eoco-crack-down-on-400-illegal-online-lenders.html)).
 - The Bank of Ghana reports 23 complaints against payment systems and service providers in 2023, digital-fraud complaints rising 48% on 2022, and monetary awards and refunds of GHS 3,803,073.61 across all complaints ([source, 2023](https://www.bog.gov.gh/wp-content/uploads/2024/07/2023-COMPLAINTS-MANAGEMENT-REPORT_Publication.pdf)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 The competition authority reported 355 complaints about digital lenders in the year to June 2025, five times the year before.
 
 - Business Daily reports Competition Authority of Kenya data showing borrower complaints about digital lenders rose to 355 cases in the year to June 2025 from 67 the year before ([source, 2025-06](https://www.businessdailyafrica.com/bd/economy/complaints-about-digital-lenders-jump-five-times--5528224)).
 
-### Malawi: 5 Leading
+### Malawi: 5 Mature
 
 The central bank counted nearly 47,000 complaints about failed digital financial services in 2024.
 
 - RBM's 2024 report counts 46,969 banking-sector complaints linked to failed digital financial services, where accounts were debited without the service delivered ([source, 2024](https://times.mw/financial-consumer-complaints-increase/)).
 - Malawi recorded 36,481 complaints of digital payment challenges out of 396.6 million digital transactions from April 2023 to March 2024, as stated by RBM's Deputy Governor ([source, 2024-03](https://times.mw/reserve-bank-of-malawi-demands-seamless-digital-payment-systems/)).
 
-### Mozambique: 5 Leading
+### Mozambique: 5 Mature
 
 The central bank reported 44 complaints against mobile money providers in the first half of 2026.
 
 - Banco de Mocambique reports 44 mobile money complaints in the first half of 2026 (Vodafone M-Pesa 26, M-Mola 18) and says it issued directives for correction, including reimbursement of MZN 73,243,072 in improperly charged fees, across all complaints ([source, 2026-06](https://bancomoc.mz/media/ofiltvbv/dsc_comunicado_estati-sticas-das-reclamac-o-es-recebidas-no-banco-de-moc-ambique-contra-instituic-o-es-financeiras-no-i-semestre-de-2026_v01_en.pdf)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 Enforcement of consumer protection in digital finance was reported in 2026.
 
 - TechCabal reports MTN suspended its airtime lending in April 2026 under a regulatory suspension linked to the FCCPC's new requirements, cutting the lending base to about a quarter of its first-quarter run rate and costing about 50 billion naira in first-half revenue ([source, 2026-04](https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/)).
 
-### Seychelles: 5 Leading
+### Seychelles: 5 Mature
 
 The central bank published complaint figures for payment service providers for 2025.
 
 - The Central Bank of Seychelles reports that payment service providers received 25 complaints in 2025 (14 in the first half, 11 in the second) ([source, 2025](https://www.cbs.sc/Downloads/ConsumerProtection/ComplaintsData/Consumer%20Complaints%20Data%20-H1%20and%20H2%202025.pdf)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 The central bank barred 69 digital lending apps in 2024 for breaching its consumer protection guidance.
 

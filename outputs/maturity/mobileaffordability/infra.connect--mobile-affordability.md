@@ -14,13 +14,13 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that access
 | 2 Preparing | Yes to 1: 10 per cent or less |
 | 3 Establishing | Yes to 1 and 2: 5 per cent or less |
 | 4 Operating | Yes to 1, 2 and 3: 2 per cent or less |
-| 5 Leading | Yes to all four: 1 per cent or less |
+| 5 Mature | Yes to all four: 1 per cent or less |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Mature | 3 |
 | 4 Operating | 10 |
 | 3 Established | 16 |
 | 2 Nascent | 14 |
@@ -30,19 +30,19 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that access
 
 ## Countries
 
-### Algeria: 5 Leading
+### Algeria: 5 Mature
 
 In 2025, 5 GB of mobile data for a month cost 0.49 per cent of average monthly income, on international price figures.
 
 - The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Algeria cost 0.49 per cent of average monthly income in 2025, on the International Telecommunication Union's price figures ([source, 2025](https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx)).
 
-### Libya: 5 Leading
+### Libya: 5 Mature
 
 In 2026, 5 GB of mobile data for a month cost 0.68 per cent of average monthly income, on a stated price.
 
 - Almadar Aljadid's cheapest monthly plan of 5 GB or more is 6 GB, valid 30 days, for 20 Libyan dinars, on its tariff page as at 3 September 2026 ([source, 2026-09-03](https://almadar.ly/ar/Pages/Tawasul/Services/Netpackages.aspx)).
 
-### Mauritius: 5 Leading
+### Mauritius: 5 Mature
 
 In 2025, 5 GB of mobile data for a month cost 0.54 per cent of average monthly income, on international price figures.
 

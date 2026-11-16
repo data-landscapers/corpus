@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: being built |
 | 3 Establishing | Yes to 2: in service between the capital and other regions |
 | 4 Operating | Yes to 3: reaching every province or region |
-| 5 Leading | Yes to 4: every region reached, and capacity sold to other operators |
+| 5 Mature | Yes to 4: every region reached, and capacity sold to other operators |
 
 - **Only question 1 has a window, three years.** A backbone in service stays in service, and reach stays reached, until a later source says otherwise.
 - **Question 4 needs question 3.** Open access on a backbone that reaches some regions only is noted and leaves the country at stage 3. This is the nationwide rule *(Bill, 2026-10-23; `study.json` → `"must_show": [3]`)*, which `study-ladder-fibrebackbone.py` already held; no cell moved.

@@ -16,13 +16,13 @@ The African Union's Digital Education Strategy (2022), fourth objective: a move 
 | 2 Preparing | An EMIS for primary schools is being prepared or piloted; or one runs in secondary schools only | Any, or not stated | Pilot schools, or none |
 | 3 Establishing | P: past its pilot and live in some primary schools, for routine entry or as a learner register | `routine`, `enrolment` or `keyed-elsewhere` | A minority, a count with no total, or not published |
 | 4 Operating | P | `routine` | More than half enter attendance or results during the year, on a share or a count with a denominator |
-| 5 Leading | P | `routine`, with attendance entered daily | 90 per cent or more, on a figure published within two years that gives the rural share |
+| 5 Mature | P | `routine`, with attendance entered daily | 90 per cent or more, on a figure published within two years that gives the rural share |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 0 |
 | 3 Established | 20 |
 | 2 Nascent | 21 |

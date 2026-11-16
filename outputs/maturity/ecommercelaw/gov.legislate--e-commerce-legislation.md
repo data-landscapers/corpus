@@ -14,13 +14,13 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 | 2 Preparing | Yes to 1: a bill or draft, and no law in force |
 | 3 Establishing | Yes to 1 and 2: a law in force |
 | 4 Operating | Yes to 1, 2 and 3: rules made under it |
-| 5 Leading | Yes to all four: the law applied in the last three years |
+| 5 Mature | Yes to all four: the law applied in the last three years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
+| 5 Mature | 4 |
 | 4 Operating | 16 |
 | 3 Established | 27 |
 | 2 Nascent | 5 |
@@ -30,7 +30,7 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 
 ## Countries
 
-### Burundi: 5 Leading
+### Burundi: 5 Mature
 
 Burundi's 2024 communications code governs e-commerce, and in June 2026 the regulator ordered online sellers to declare conformity; no declaration received is known.
 
@@ -38,7 +38,7 @@ Burundi's 2024 communications code governs e-commerce, and in June 2026 the regu
 - ARCT published national e-commerce ecosystem guidelines on 29 May 2026, drawn from the regulation in force, setting technical, operational and organisational standards for interoperability, transaction security and consumer protection ([source, 2026-05-29](https://arct.gov.bi/2026/05/29/lignes-directrices-de-lecosysteme-national-de-commerce-electronique-du-burundi/)).
 - ARCT states that e-commerce activity on Burundi's territory is subject to a prior conformity obligation, applying the provisions of the code des communications électroniques et postales ([source, 2026-06-26](https://arct.gov.bi/2026/06/26/appel-a-la-declaratio-n-de-conformite-des-plateformes-et-sites-marchands-de-commerce-electronique-au-burundi/)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Morocco's 2020 trust services law is in force, with a 2023 decree and three approved qualified providers listed in September 2026.
 
@@ -47,7 +47,7 @@ Morocco's 2020 trust services law is in force, with a 2023 decree and three appr
 - The page cites Decree n° 2-22-687 made to apply Law 43-20, which sets transitional periods running from 13 July 2023 (Article 33: six months for non-qualified trust service providers) and lists exempt cryptology means in its annex 6; the same date starts the one-year period under Article 80 of the law for providers approved under Law 53-05 ([source, 2023-07-13](https://www.dgssi.gov.ma/fr/prestations-et-produits-reglementes/)).
 - The DGSSI register of regulated services, applying Articles 8, 17, 46, 52 and 53 of Loi 43-20 on trust services for electronic transactions, treats the law as operating; the page has no date, so its published date of 2026-09-03 is used ([source, 2026-09-03](https://www.dgssi.gov.ma/fr/prestations-et-produits-reglementes/)).
 
-### Mozambique: 5 Leading
+### Mozambique: 5 Mature
 
 In 2026 Mozambique's electronic transactions law is applied through 19 operator licences, with about 170 companies under evaluation; no source found reports wider enforcement.
 
@@ -55,7 +55,7 @@ In 2026 Mozambique's electronic transactions law is applied through 19 operator 
 - The report names a Digital Certification Regulation under which, with the Electronic Transactions Law, the Digital Certification System operates and which is meant to establish the authenticity and integrity of digital signatures; it gives no date for the regulation, so it is dated to the published date ([source, 2026-08-25](https://www.biometricupdate.com/202608/mozambique-picks-tablu-tech-for-digital-trust-infrastructure)).
 - Biometric Update, citing Tech Review Africa, reports that Mozambique's Digital Certification System operates under the country's Electronic Transactions Law and Digital Certification Regulation; the report gives no enactment date, so it is dated to the document's published date ([source, 2026-08-25](https://www.biometricupdate.com/202608/mozambique-picks-tablu-tech-for-digital-trust-infrastructure)).
 
-### Namibia: 5 Leading
+### Namibia: 5 Mature
 
 Namibia's 2019 e-transactions law was applied in 2026, with a first certification provider accredited in September; the consumer protection chapter is not yet in force.
 

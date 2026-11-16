@@ -14,13 +14,13 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 | 2 Preparing | Yes to 1: signed or bound, and nothing more on record |
 | 3 Establishing | Yes to 1 and 2: ratified |
 | 4 Operating | Yes to 1, 2 and 3: a national law or rule gives effect to it |
-| 5 Leading | Yes to all four: reported applied across a border in the last three years |
+| 5 Mature | Yes to all four: reported applied across a border in the last three years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 1 |
 | 3 Established | 24 |
 | 2 Nascent | 11 |
@@ -30,7 +30,7 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 
 ## Countries
 
-### Cape Verde: 5 Leading
+### Cape Verde: 5 Mature
 
 Cape Verde ratified the African Union cyber convention in 2020, enacted an ECOWAS cybersecurity directive in 2021, and met ECOWAS roaming tariffs in 2024.
 

@@ -29,7 +29,7 @@ HERE = os.path.dirname(os.path.realpath(__file__))
 CORPUS = os.path.dirname(HERE)
 COUNTRIES_CSV = os.path.join(CORPUS, "lookups", "countries.csv")
 
-STAGES = {1: "Absent", 2: "Nascent", 3: "Established", 4: "Operating", 5: "Leading"}
+STAGES = {1: "Absent", 2: "Nascent", 3: "Established", 4: "Operating", 5: "Mature"}
 UNPLACED, NO_EVIDENCE = "unplaced", "no evidence"
 NOT_STAGED = (UNPLACED, NO_EVIDENCE)
 

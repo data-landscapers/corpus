@@ -20,7 +20,7 @@ The African Union's Digital Transformation Strategy and the Pan-African Payment 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 12 |
+| 5 Mature | 12 |
 | 4 Operating | 26 |
 | 3 Established | 6 |
 | 2 Nascent | 5 |
@@ -30,77 +30,77 @@ The African Union's Digital Transformation Strategy and the Pan-African Payment 
 
 ## Countries
 
-### Angola: 5 Leading
+### Angola: 5 Mature
 
 Cross-border digital payment volumes or costs were reported in 2025.
 
 - SADC says 2025 trade and interbank transactions between Angola and the other 14 SADC states were about US$3.77 billion across nine currencies, South Africa taking about US$2.99 billion ([source, 2025](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system)).
 
-### Benin: 5 Leading
+### Benin: 5 Mature
 
 Cross-border digital payment volumes or costs were reported in 2024.
 
 - Benin had 8 million intra-UEMOA cross-border transfer operations worth CFA 230 billion in 2024, an average of CFA 5,172, per the BCEAO ([source, 2024](https://www.lanation.bj/economie/finance-numerique-et-inclusion-plus-de-248-millions-de-comptes-momo-dans-luemoa)).
 
-### Burkina Faso: 5 Leading
+### Burkina Faso: 5 Mature
 
 Cross-border digital payment volumes or costs were reported in 2024.
 
 - L'Oeil du Sahel, citing BCEAO 2024 data, puts intra-UEMOA transfers at 7.25% of the value of Burkina Faso's 20,139,735 million FCFA of e-money transactions in 2024 ([source, 2024](https://oeildusahel.com/pi-spi-mobile-money-impact-economique-aes/)).
 - leFaso.net reports that the BCEAO's PI-SPI instant payment platform, launched 30 September 2025, serves the UEMOA, with 80 institutions connected by 24 June 2026 ([source, 2026-06-24](https://lefaso.net/spip.php?article147670)).
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 Cross-border digital payment volumes or costs were reported in 2026.
 
 - Youm7, citing the NTRA H1 2026 wallet report, says incoming transfers from abroad were 3% of wallet deposits by count and 10% by value ([source, 2026-06](https://www.youm7.com/story/2026/9/14/%D9%83%D9%8A%D9%81-%D8%BA%D9%8A%D8%B1%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/7540929)).
 
-### Gambia: 5 Leading
+### Gambia: 5 Mature
 
 Cross-border digital payment volumes or costs were reported in 2025.
 
 - The IFAD PRIME Africa end-of-project profile (April 2026) reports US$135 million in remittances received digitally through APS and an average APS remittance cost of 5 per cent across PRIME corridors ([source, 2025](https://ffremittances.org/wp-content/uploads/2026/05/2026_PF_TheGambia_APS_completion_WEB.pdf)).
 - PAPSS lists Gambia as a country with live send-and-receive participants: seven banks (Access, AGIB, Bloom, Ecobank, First Bank, Trust Bank, Vista) ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
 
-### Liberia: 5 Leading
+### Liberia: 5 Mature
 
 Cross-border digital payment volumes or costs were reported in 2024.
 
 - The Executive Governor said cross-border transactions grew 17.7% in 2024 to $494.5 million, and PAPSS transactions reached about L$37.7 million between June and December 2024 ([source, 2024](https://www.cbl.org.lr/media/features-articles/eg-saamoi-speaks-joint-launch-fined-papss-monrovia)).
 
-### Mali: 5 Leading
+### Mali: 5 Mature
 
 Cross-border digital payment volumes or costs were reported in 2024.
 
 - L'Oeil du Sahel, citing BCEAO 2024 data, puts intra-UEMOA transfers at 5.63% of the value of Mali's 18,744,827 million FCFA of e-money transactions in 2024 ([source, 2024](https://oeildusahel.com/pi-spi-mobile-money-impact-economique-aes/)).
 - Mali is a UEMOA member covered by PI-SPI, the regional instant payment system in service since 30 September 2025 ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
 
-### Mozambique: 5 Leading
+### Mozambique: 5 Mature
 
 Cross-border digital payment volumes or costs were reported in 2026.
 
 - SARB's June 2026 SADC-RTGS per-country table gives Mozambique 215 settled transactions with a value of ZAR 261.79 million ([source, 2026-06](https://www.resbank.co.za/content/dam/sarb/what-we-do/payments-and-settlements/settlement-services/sadc-rtgs/2026-stats/SADC-RTGS%20Settlement%20Statistics%20and%20Indicators%20-%20June%202026.pdf)).
 
-### Niger: 5 Leading
+### Niger: 5 Mature
 
 Cross-border digital payment volumes or costs were reported in 2024.
 
 - L'Oeil du Sahel, citing BCEAO 2024 data, puts intra-UEMOA transfers at about 1.03% of the value of Niger's 480,220 million FCFA of e-money transactions in 2024 ([source, 2024](https://oeildusahel.com/pi-spi-mobile-money-impact-economique-aes/)).
 - Niger is a UEMOA member covered by PI-SPI, the regional instant payment system in service since 30 September 2025 ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 Cross-border digital payment volumes or costs were reported in 2026.
 
 - Standard Bank's Nthabiseng Sibanda says the bank has processed more than R21 billion ($1.3 billion) through CIPS since its inception ([source, 2026-09-09](https://techcabal.com/2026/09/10/south-africa-payments-system-changes/)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 Cross-border digital payment volumes or costs were reported in 2025.
 
 - EAPS inflows were UGX 1.3 trillion, up 17%, in FY2024/25, per the Bank of Uganda report ([source, 2025](https://ubc.go.ug/2025/10/06/bous-new-payment-system-cuts-delays-and-boosts-e-money-by-28-6)).
 
-### Zimbabwe: 5 Leading
+### Zimbabwe: 5 Mature
 
 Cross-border digital payment volumes or costs were reported in 2026.
 

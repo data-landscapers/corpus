@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: the money runs on a computer system |
 | 3 Establishing | Yes to 2: tax and the payroll do too |
 | 4 Operating | Yes to 3: one of them renewed in the last three years |
-| 5 Leading | Yes to 4: a published architecture or inventory |
+| 5 Mature | Yes to 4: a published architecture or inventory |
 
 - **A core system out of action for a week or more in the last twelve months is not in use** until a source says it is back. Eswatini's financial system, down in a government-wide outage from 18 September 2026, is the case at the as-at. Ghana's tax payment faults of August 2026 are not: filing was unaffected and a September source says the system is working.
 - **Stage 2 changes.** The row put a country whose systems were being bought or replaced at stage 2. A purchase is not a system in use, so it is `other`; the study asks what runs.

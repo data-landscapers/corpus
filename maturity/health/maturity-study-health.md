@@ -75,7 +75,7 @@ Thresholds agreed *(Bill)*; wording fixed at H4 on 2026-10-06, against `ladder-t
 | 2 Nascent | Hospitals only, or some districts; or a national rollout contracted or in preparation | Anywhere, or not stated | None, or pilot sites |
 | 3 Established | Any: a system keyed at district takes the clinics' reports | At the district, from clinics' paper forms | Facility entry in a minority, or not published |
 | 4 Operating | The primary tier, T3 or T4 | At the facility | More than half enter their own reports, on a share or count of primary clinics alone |
-| 5 Leading | The primary tier | At the facility | 90 per cent or more, on a figure published within two years, with reporting completeness published |
+| 5 Mature | The primary tier | At the facility | 90 per cent or more, on a figure published within two years, with reporting completeness published |
 
 **EMR**
 
@@ -85,7 +85,7 @@ Thresholds agreed *(Bill)*; wording fixed at H4 on 2026-10-06, against `ladder-t
 | 2 Nascent | Some hospitals or pilot facilities; or a national system procured or in preparation | Anywhere, or not stated | None, or pilot sites |
 | 3 Established | Most T1 and T2 hospitals, or primary clinics in some districts | Either; the record stays in the facility | A minority, or not published |
 | 4 Operating | The primary tier | `shared`: at the point of care, on a unique patient identifier, retrievable at another facility | More than half |
-| 5 Leading | The primary tier | As 4, across the public network | 90 per cent or more, on a figure published within two years |
+| 5 Mature | The primary tier | As 4, across the public network | 90 per cent or more, on a figure published within two years |
 
 **A country holding only noted classes is unplaced on that sub-indicator**, or stage 1 where a source states the paper position; what it does hold prints under *Noted, not assessed*.
 

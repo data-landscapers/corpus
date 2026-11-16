@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: government staff run a system |
 | 3 Establishing | Yes to 2: a government technology body serves the rest of government |
 | 4 Operating | Yes to 3: a system built in-house went live in the last three years |
-| 5 Leading | Yes to 4: three or more systems run wholly by government staff |
+| 5 Mature | Yes to 4: three or more systems run wholly by government staff |
 
 - **Stage 2 changes.** The row put a training exercise, a programme announced or a body needing technical help at stage 2. Training says nothing of who runs the systems, so it is `other`; a body needing help is stage 1.
 - **Stage 3 changes.** The row's "in-house teams on some systems" becomes question 1. Its place is taken by a body whose job is the rest of government's systems, which is what separates one team from a capacity.

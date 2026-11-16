@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: standards being written |
 | 3 Establishing | Yes to 1 and 2: standards published |
 | 4 Operating | Yes to 1, 2 and 3: public bodies are required to use them |
-| 5 Leading | Yes to all four: a system has been checked against them in the last three years |
+| 5 Mature | Yes to all four: a system has been checked against them in the last three years |
 
 - **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a system certified against the standards no longer shows they are published.
 - **Questions 1 to 3 have no time limit**: published standards stand, with their year, until a dated source says they have been withdrawn. Question 4 counts for three years.

@@ -20,7 +20,7 @@ The AU Charter on Decentralisation asks that ICT be used so residents can give f
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
+| 5 Mature | 5 |
 | 4 Operating | 1 |
 | 3 Established | 3 |
 | 2 Nascent | 30 |
@@ -30,7 +30,7 @@ The AU Charter on Decentralisation asks that ICT be used so residents can give f
 
 ## Countries
 
-### Algeria: 5 Leading
+### Algeria: 5 Mature
 
 The national mediator's complaints portal reached all administrations and published its share of cases closed in 2024; later figures are not known.
 
@@ -38,20 +38,20 @@ The national mediator's complaints portal reached all administrations and publis
 - The portal serves all administrations and public establishments, with 43,870 accounts created for 21,953 public administrations, the director said ([source, 2024-04-22](https://www.dknews-dz.com/flash/4133-mediature-de-la-republique-plus-de-40000-doleances-traitees-par-linstance.html)).
 - The mediator's office said 40,145 of 52,262 grievances were handled and closed, 76.81 per cent, between October 2023 and 22 April 2024 ([source, 2024-04-22](https://www.dknews-dz.com/flash/4133-mediature-de-la-republique-plus-de-40000-doleances-traitees-par-linstance.html)).
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 Results of the national complaints channel were published in 2025.
 
 - The monthly report to the Prime Minister gives complaints resolved per ministry and body, for example 15.1 thousand in health and 13.6 thousand at the Interior Ministry, for September and earlier periods ([source, 2025-09](https://www.almasryalyoum.com/news/details/3569705)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Results of the national complaints channel were published in 2025.
 
 - Morocco World News reports Chikaya.ma processed 66.14% of 2025 complaints, with a 58.69% satisfaction rate, an average processing time of 16 days and more than 14,000 cases reopened ([source, 2025](https://www.moroccoworldnews.com/2026/01/273688/moroccan-citizens-filed-163694-complaints-against-public-administrations-in-2025/)).
 - Chikaya.ma statistics give 1,406,000 complaints processed (65.46%), an average processing time of 12 days and 60.94% positive feedback ([source, 2025-09-03](https://aujourdhui.ma/societe/chikaya-ma-plus-de-16-million-de-plaintes-deposees-jusqua-present)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 A national complaints website published cases resolved per federal agency in 2024; resolution figures for the newer national platform are not known.
 
@@ -59,7 +59,7 @@ A national complaints website published cases resolved per federal agency in 202
 - ReportGov.ng's monthly report covers complaints about many federal agencies, including NITDA, BPP, FRSC, NPA, FAAN and Customs ([source, 2024-11](https://nairametrics.com/2024/12/01/nitda-bpp-and-frsc-emerge-worst-agencies-for-customer-complaints-resolution-in-november-2024/)).
 - ReportGov.ng's monthly report gives complaints received and resolved per agency for November 2024, for example FAAN four of four and NITDA none of two ([source, 2024-11](https://nairametrics.com/2024/12/01/nitda-bpp-and-frsc-emerge-worst-agencies-for-customer-complaints-resolution-in-november-2024/)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 Results of the national complaints channel were published in 2024.
 

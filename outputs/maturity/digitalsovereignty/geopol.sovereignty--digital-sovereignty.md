@@ -20,7 +20,7 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 8 |
 | 3 Established | 1 |
 | 2 Nascent | 31 |

@@ -20,7 +20,7 @@ The Universal Postal Union's Addressing the World asks every country for a natio
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 2 |
 | 3 Established | 8 |
 | 2 Nascent | 26 |

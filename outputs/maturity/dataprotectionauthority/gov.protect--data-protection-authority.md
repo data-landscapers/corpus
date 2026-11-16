@@ -14,13 +14,13 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 | 2 Preparing | Yes to 1 |
 | 3 Establishing | Yes to 1 and 2 |
 | 4 Operating | Yes to 1, 2 and 3 |
-| 5 Leading | Yes to all four |
+| 5 Mature | Yes to all four |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
+| 5 Mature | 4 |
 | 4 Operating | 9 |
 | 3 Established | 23 |
 | 2 Nascent | 9 |
@@ -30,7 +30,7 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 
 ## Countries
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 Kenya's authority, set up in 2020, fines businesses and publishes a regular bulletin counting its decisions, last seen March 2025.
 
@@ -38,7 +38,7 @@ Kenya's authority, set up in 2020, fines businesses and publishes a regular bull
 - Amnesty Kenya says in February 2026 the ODPC ruled against a hospital, an insurance company, a school, a SACCO and digital lenders, ordering St Luke's Orthopaedic Hospital to compensate patients ([source, 2026-02](https://www.amnestykenya.org/kenyas-digital-rights-journey-half-year-scorecard/)).
 - The ODPC bulletin states that as of March 2025 the Office had received 7,128 complaints and resolved 97 percent, issued 215 determinations, imposed penalties on 10 entities, issued 103 compensations and settled 39 other cases through ADR (a cumulative count, no single year stated) ([source, 2025-03](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf)).
 
-### Mali: 5 Leading
+### Mali: 5 Mature
 
 Mali has an authority, the APDP, which fined a clinic and published figures for 2025.
 
@@ -46,7 +46,7 @@ Mali has an authority, the APDP, which fined a clinic and published figures for 
 - APA News reports that in 2025 the APDP issued formal notices to more than 100 companies for non-compliance ([source, 2025](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/)).
 - TechGriot reports Mali's data protection authority (APDP) received the First Rapporteur of Benin's authority on 2026-09-04 and runs regional offices in Kayes, Sikasso, Segou and Mopti handling awareness, advice and complaint intake ([source, 2026-09-04](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/)).
 
-### Senegal: 5 Leading
+### Senegal: 5 Mature
 
 Senegal has an authority, created in 2008. It has ruled against organisations, in 2024 and 2026, and publishes quarterly figures.
 
@@ -54,7 +54,7 @@ Senegal has an authority, created in 2008. It has ruled against organisations, i
 - The CDP's quarterly report, sent to APS, gives its January to March 2026 figures: 317 files (286 declarations, 31 authorisation requests), 200 of 283 video-surveillance receipts issued, nine complaints and one report handled ([source, 2026-03](https://aps.sn/plus-de-300-dossiers-traites-par-la-commission-de-protection-des-donnees-personnelles-au-premier-trimestre-2026-officiel/)).
 - The CDP, through its permanent secretary Mouhamed Diop, spoke on 16 September 2026 of joint interoperability work with the DAF and two options put to the authorities for arbitration ([source, 2026-09-16](https://www.pressafrik.com/Protection-des-donnees-la-CDP-et-la-DAF-s-unissent-pour-securiser-les-donnees-d-identite-des-Senegalais_a311700.html)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 South Africa has an authority that has fined and ruled against organisations since 2023, and it published complaint figures for 2024/25.
 

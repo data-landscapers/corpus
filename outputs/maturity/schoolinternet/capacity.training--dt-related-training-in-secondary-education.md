@@ -14,13 +14,13 @@ The AU Digital Education Strategy asks for half of institutions connected by 202
 | 2 Nascent | Yes to 1 |
 | 3 Established | Yes to 2 |
 | 4 Operating | Yes to 3 |
-| 5 Leading | Yes to 3 and 4 |
+| 5 Mature | Yes to 3 and 4 |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 10 |
 | 3 Established | 3 |
 | 2 Nascent | 6 |
@@ -30,7 +30,7 @@ The AU Digital Education Strategy asks for half of institutions connected by 202
 
 ## Countries
 
-### Namibia: 5 Leading
+### Namibia: 5 Mature
 
 In 2024, 81.2 per cent of secondary schools had internet for teaching, and digital literacy or computing is compulsory in the secondary curriculum.
 

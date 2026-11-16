@@ -20,7 +20,7 @@ The African Union's interoperability framework asks that a national ID system ha
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 17 |
 | 3 Established | 35 |
 | 2 Nascent | 2 |

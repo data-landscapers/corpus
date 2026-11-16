@@ -14,13 +14,13 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that every 
 | 2 Preparing | Yes to 1: at least half |
 | 3 Establishing | Yes to 1 and 2: at least two in three |
 | 4 Operating | Yes to 1, 2 and 3: at least four in five |
-| 5 Leading | Yes to all four: nearly everyone |
+| 5 Mature | Yes to all four: nearly everyone |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Mature | 3 |
 | 4 Operating | 11 |
 | 3 Established | 17 |
 | 2 Nascent | 12 |
@@ -30,19 +30,19 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that every 
 
 ## Countries
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 In 2024, 97.4 per cent of people aged 10 and over owned a mobile phone, by an international estimate.
 
 - 97.4 per cent of people aged 10 and over in Egypt owned a mobile phone in 2024, an estimate by the International Telecommunication Union ([source, 2024](https://unstats.un.org/sdgs/dataportal)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 In 2024, 97 per cent of people aged 10 and over owned a mobile phone, by a national survey.
 
 - 97 per cent of people aged 10 and over in Morocco owned a mobile phone in 2024, a survey figure the country reported to the International Telecommunication Union ([source, 2024](https://unstats.un.org/sdgs/dataportal)).
 
-### Seychelles: 5 Leading
+### Seychelles: 5 Mature
 
 In 2024, 95 per cent of people aged 10 and over owned a mobile phone, by an international estimate.
 

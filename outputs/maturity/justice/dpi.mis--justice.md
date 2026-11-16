@@ -20,7 +20,7 @@ The African Commission's Fair Trial Principles ask for systems recording proceed
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Mature | 7 |
 | 4 Operating | 6 |
 | 3 Established | 8 |
 | 2 Nascent | 21 |
@@ -30,7 +30,7 @@ The African Commission's Fair Trial Principles ask for systems recording proceed
 
 ## Countries
 
-### Algeria: 5 Leading
+### Algeria: 5 Mature
 
 Algerian lawyers filed civil briefs online from 2026, and administrative court parties could track cases and read judgments online.
 
@@ -38,14 +38,14 @@ Algerian lawyers filed civil briefs online from 2026, and administrative court p
 - Fildalgerie reports that the Ministry of Justice is making electronic exchange of civil requests and reply briefs exclusive for lawyers at the Cours de justice from 18 January 2026, after wide uptake by lawyers ([source, 2025-12-18](https://fildalgerie.dz/justice-numerique-lechange-electronique-des-documents-et-le-paiement-en-ligne-obligatoires-des-janvier-2026/)).
 - Algeria's Minister of Justice announced on 22 September 2026 that the national electronic window for administrative jurisdictions now covers the administrative courts of appeal and the Council of State, letting litigants and their lawyers consult and track their cases and read the operative parts of judgments and decisions online from any administrative jurisdiction ([source, 2026-09-22](https://www.lejourdalgerie.com/extension-des-services-du-guichet-electronique-national-aux-cours-administratives-dappel-et-au-conseil-detat/)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 All courts took filings online from 2024, and anyone can look up when a case is heard.
 
 - The Judiciary launched a Causelist Portal on 11 March 2024 on which anyone, in Kenya or abroad, can find when and where a case is scheduled to be heard ([source, 2024-03-11](https://judiciary.go.ke/judiciary-launches-e-filing-in-all-courts-data-tracking-dashboard-and-causelist-portal-portal/)).
 - The Judiciary of Kenya's SOJAR 2023-24 says the e-filing system, piloted in Nairobi courts in July 2020, was rolled out to all courts nationwide in March 2024, letting court users file documents from their computers, with user accounts rising from 7,152 to 51,729 ([source, 2024-03](https://www.judiciary.go.ke/wp-content/uploads/2024/11/POPULAR-VERSION-SOJAR-REPORT-FY-2023_24.pdf)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Lawyers filed online and the public could track court files on Mahakim in 2026.
 
@@ -53,28 +53,28 @@ Lawyers filed online and the public could track court files on Mahakim in 2026.
 - Justice Minister Abdellatif Ouahbi told a parliamentary committee that a national enforcement platform, letting enforcement files be processed nationally and not only in Casablanca, has entered implementation and is being extended to all courts ([source, 2026-11-04](https://www.hespress.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%b1%d9%81%d8%b6-%d8%a7%d8%b9%d8%aa%d9%85%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d8%af-1834575.html)).
 - The Mahakim file-tracking service lets the public follow civil and criminal files, notifications, enforcement and recovery files, and hearing dates by entering the file number at the court ([source, 2026](https://mahakim.ma/)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 All courts ran electronic case management in 2026, and litigants filed and tracked cases online.
 
 - The Chief Court Administrator said in February 2026 that the electronic case management system lets litigants track the progress of their cases and see which magistrate is assigned ([source, 2026-02-19](https://dailynews.co.tz/courts-adopt-ai-integrated-data-systems/)).
 - Chief Court Administrator Elisante Ole Gabriel said litigants can now file cases online from anywhere and track case progress ([source, 2026-02-19](https://dailynews.co.tz/courts-adopt-ai-integrated-data-systems/)).
 
-### Togo: 5 Leading
+### Togo: 5 Mature
 
 Commercial courts ran cases and online filing, and from 2026 parties could follow cases online.
 
 - The justice ministry says the new online portal of the Tribunal de Grande Instance de Lomé, launched 2 July 2026, lets litigants, lawyers and bailiffs follow the progress of procedures remotely ([source, 2026-07-02](https://justice.gouv.tg/les-services-du-tribunal-de-grande-instance-de-lome-passent-en-mode-paiement-numerique/)).
 - The Lomé commercial court's president states SYSCOM has been open since December 2019 to lawyers, bailiffs and to some extent individuals, with an online module for external users to enrol summonses, submit requests and file pleadings and documents ([source, 2025-02-04](https://tribunaldecommercedelome.tg/actualites/le-tribunal-de-commerce-de-lome-innove-avec-syscom)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 Over 56 courts ran an electronic case system in 2026, with online filing and case tracking.
 
 - The Judiciary describes a litigant at Jinja High Court checking updates on her case file on her phone through ECCMIS ([source, 2026-06](https://judiciary.go.ug/files/publications/doc_1783075331_341.pdf)).
 - The Judiciary says ECCMIS gave litigants 24-hour access to e-filing and that cases are filed and fees paid online, per the Permanent Secretary to the Judiciary ([source, 2026-06](https://judiciary.go.ug/files/publications/doc_1783075331_341.pdf)).
 
-### Zimbabwe: 5 Leading
+### Zimbabwe: 5 Mature
 
 The higher courts ran an electronic case system in 2026, with online filing and case tracking.
 

@@ -14,13 +14,13 @@ The Broadband Commission's first target is a funded national broadband plan in e
 | 2 Preparing | Yes to 1: a plan being written, or one whose period has ended with no successor adopted |
 | 3 Establishing | Yes to 1 and 2: a plan adopted and still running |
 | 4 Operating | Yes to 1, 2 and 3: money is committed to the plan |
-| 5 Leading | Yes to all four: the plan is funded and progress against its targets is published |
+| 5 Mature | Yes to all four: the plan is funded and progress against its targets is published |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 2 |
 | 3 Established | 32 |
 | 2 Nascent | 12 |
@@ -30,7 +30,7 @@ The Broadband Commission's first target is a funded national broadband plan in e
 
 ## Countries
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Morocco's national broadband plan reached about 99% of its first-phase target by 2024; a second phase funded by the universal service fund runs to 2026.
 

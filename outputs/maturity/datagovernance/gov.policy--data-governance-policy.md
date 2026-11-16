@@ -14,13 +14,13 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 | 2 Preparing | Yes to 1: a policy being written, or one that has run out with no successor adopted |
 | 3 Establishing | Yes to 1 and 2: a policy adopted and still running |
 | 4 Operating | Yes to 1, 2 and 3: a body is named to carry it out |
-| 5 Leading | Yes to all four: a rule or standard the policy called for has been issued |
+| 5 Mature | Yes to all four: a rule or standard the policy called for has been issued |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 4 |
 | 3 Established | 7 |
 | 2 Nascent | 20 |
@@ -30,7 +30,7 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 
 ## Countries
 
-### Algeria: 5 Leading
+### Algeria: 5 Mature
 
 Algeria set up a national data governance framework by decree in December 2025, named bodies to run it, and ministries began classifying data in 2026.
 

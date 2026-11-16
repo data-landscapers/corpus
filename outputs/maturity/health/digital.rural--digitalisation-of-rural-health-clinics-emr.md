@@ -16,13 +16,13 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 | 2 Nascent | Some hospitals or pilot facilities; or a national system procured or in preparation | Anywhere, or not stated | None, or pilot sites |
 | 3 Established | Most T1 and T2 hospitals, or primary clinics in some districts | Either; the record stays in the facility | A minority, or not published |
 | 4 Operating | The primary tier | `shared`: at the point of care, on a unique patient identifier, retrievable at another facility | More than half |
-| 5 Leading | The primary tier | As 4, across the public network | 90 per cent or more, on a figure published within two years |
+| 5 Mature | The primary tier | As 4, across the public network | 90 per cent or more, on a figure published within two years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 0 |
 | 3 Established | 14 |
 | 2 Nascent | 32 |

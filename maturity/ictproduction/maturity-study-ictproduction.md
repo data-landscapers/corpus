@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Nascent | Yes to 1: 0.05 per cent or more |
 | 3 Established | Yes to 2: 0.2 per cent or more |
 | 4 Operating | Yes to 3: 0.5 per cent or more |
-| 5 Leading | Yes to 3 and 4: 0.5 per cent or more, and ICT equipment made in the country |
+| 5 Mature | Yes to 3 and 4: 0.5 per cent or more, and ICT equipment made in the country |
 
 - **The lines are the frame's own provisional cuts**, fixed and not redrawn as quintiles, so a country moves only when its own figure crosses one.
 - **A plant counts only beside a figure of 0.5 per cent or more**: it is the frame's stage-5 condition, not a step beyond the figure, so method §3.3 does not apply to question 4.

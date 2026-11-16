@@ -14,13 +14,13 @@ The African Charter on Democracy, Elections and Governance, Articles 12, 27 and 
 | 2 Preparing | Yes to 1: people outside government were asked |
 | 3 Establishing | Yes to 1 and 2: what they said was published |
 | 4 Operating | Yes to 1, 2 and 3: a consultation was held because a rule required it |
-| 5 Leading | Yes to all four: a standing body with outside members gave its view |
+| 5 Mature | Yes to all four: a standing body with outside members gave its view |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 2 |
 | 3 Established | 8 |
 | 2 Nascent | 35 |

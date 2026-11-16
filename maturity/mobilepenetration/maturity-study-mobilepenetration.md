@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: at least half |
 | 3 Establishing | Yes to 1 and 2: at least two in three |
 | 4 Operating | Yes to 1, 2 and 3: at least four in five |
-| 5 Leading | Yes to all four: nearly everyone |
+| 5 Mature | Yes to all four: nearly everyone |
 
 - **The figures Corpus already holds answer all four questions for 51 countries before anything is read**: stage 1 for eight, stage 2 for 12, stage 3 for 16, stage 4 for 12, and stage 5 for Egypt, Morocco and Seychelles.
 - **Three countries have no figure in the window**: Eritrea and South Sudan have none at all, and Sudan's is for 2016. They are *No evidence* unless a story read in the run gives one.

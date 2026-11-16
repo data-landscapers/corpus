@@ -14,13 +14,13 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that 30 % o
 | 2 Preparing | Yes to 1: a data centre for hire in service |
 | 3 Establishing | Yes to 2: one at Tier III or above |
 | 4 Operating | Yes to 3: two at Tier III or above |
-| 5 Leading | Yes to 4: a global cloud region |
+| 5 Mature | Yes to 4: a global cloud region |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
+| 5 Mature | 4 |
 | 4 Operating | 18 |
 | 3 Established | 14 |
 | 2 Nascent | 14 |
@@ -30,7 +30,7 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that 30 % o
 
 ## Countries
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 Two data centres for hire at Tier III or above by 2026, and a global cloud region in the country.
 
@@ -38,7 +38,7 @@ Two data centres for hire at Tier III or above by 2026, and a global cloud regio
 - Africa50 says Raya Data Center currently operates two Tier III data centres in Cairo; the stated basis is the release itself, with no certifier named and the facilities not named individually (dated by the 2024-12-10 release) ([source, 2024-12](https://www.africa50.com/media/news/article/africa50-announces-usd15-million-investment-in-raya-data-center/)).
 - The document states that Huawei has managed Egypt's first public cloud region since 2024 (region not named beyond that); the date is the document's own stated year ([source, 2024](https://thecuberesearch.com/sovereignty-just-acquired-a-pyramid-shaped-target/)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 Two data centres for hire at Tier III or above by 2026, and a global cloud region in the country.
 
@@ -46,7 +46,7 @@ Two data centres for hire at Tier III or above by 2026, and a global cloud regio
 - The article describes iXAfrica's Nairobi data centre infrastructure as Tier III (operator and partners' statement, no certifying body named; article date used) ([source, 2026-05-22](https://techafricanews.com/2026/05/22/ixafrica-data-centres-and-baobab-cloud-services-launch-sovereign-public-cloud-platform-in-kenya/)).
 - The article states iXAfrica's NBOX1 campus hosts Oracle's Kenya public cloud region, in present tense with no launch date; date taken from the published date 2026-09-28 ([source, 2026-09-28](https://cioafrica.co/tcs-sovereign-cloud-goes-live-in-nairobi/)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Two data centres for hire at Tier III or above by 2025, and a global cloud region in the country.
 
@@ -54,7 +54,7 @@ Two data centres for hire at Tier III or above by 2025, and a global cloud regio
 - Forci News reports DXC Technology Morocco, a DXC and CDG joint venture, obtained Uptime Institute Tier III Tier Certification of Constructed Facility (TCCF) for its DXC-CDG data centre, which it says serves current and future customers ([source, 2024-07-18](https://www.forcinews.com/dxc-technology-morocco-obtient-certification-tccf-tier-iii-par-luptime-institute/)).
 - Aujourd'hui le Maroc states that Oracle has opened its first cloud region in Casablanca and is preparing a second at Settat ([source, 2026-09-01](https://aujourdhui.ma/economie/data-centers-avec-quelle-electricite)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 Two data centres for hire at Tier III or above by 2018, and a global cloud region in the country.
 

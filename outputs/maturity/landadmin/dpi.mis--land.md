@@ -20,7 +20,7 @@ The AU Framework and Guidelines on Land Policy asks for a computerised land info
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
+| 5 Mature | 5 |
 | 4 Operating | 4 |
 | 3 Established | 15 |
 | 2 Nascent | 16 |
@@ -30,35 +30,35 @@ The AU Framework and Guidelines on Land Policy asks for a computerised land info
 
 ## Countries
 
-### Ethiopia: 5 Leading
+### Ethiopia: 5 Mature
 
 The land system was linked to land or property tax in 2025.
 
 - The eLand platform's own site says it has tax calculation and an integrated payment system for land taxes, fees and charges, with receipts and revenue reports ([source, 2025](https://land.et)).
 - The eLand platform's own site says citizens submit applications for ownership transfer, lease registration, and mortgage and court injunction registration online, and lists Bishoftu, Adama and Shagar in Oromia Region as cities currently using it ([source, 2025](https://land.et)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 The land system was linked to land or property tax in 2026.
 
 - The State Department for Lands says stamp duty is assessed and paid digitally through the NSDM within ArdhiSasa via Ardhipay, with KES1.946 billion collected in two months ([source, 2026-02-16](https://lands.go.ke/state-department-lands-rolls-out-nsdm-countrywide-making-land-transactions-faster-and-transparent)).
 - The State Department for Lands and Physical Planning says that from 20 July 2026 all land transactions in the newly onboarded Mombasa registration sections are processed exclusively on the live Ardhisasa platform and manual processing ceases there, after earlier rollouts in Nairobi (2021), Murang'a, Isiolo, Mombasa Island and Mombasa Blocks XVI and XVII (21 July 2025) ([source, 2026-07-20](https://lands.go.ke/state-department-lands-expands-digitization-mombasa-bringing-more-land-transactions-ardhisasa)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 The land system was linked to land or property tax in 2025.
 
 - The KW-IRS chairman says the KW-IRS online payment platform is integrated with the new land system, so land and related payments are made online ([source, 2025-10-20](https://von.gov.ng/kwara-government-launches-digital-land-administration-process/)).
 - Kwara State launched its KW-GIS-based digital land information system, and the KW-IRS chairman says investors and titleholders can now register land, process CofO and obtain building approvals online ([source, 2025-10-20](https://von.gov.ng/kwara-government-launches-digital-land-administration-process/)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 The land system was linked to land or property tax in 2026.
 
 - Minister Arakwiye said LAIS has been connected to other national systems including Irembo and the tax payment system ([source, 2026-02](https://ickjournalism.com/impamvu-u-rwanda-rukeneye-abakozi-3000-bo-gutanga-serivisi-zubutaka/)).
 - Minister of Environment Bernadette Arakwiye said Rwanda's LAIS electronic system holds all land and owner data and handles land registration, boundary correction and transfers, with over 800,000 files a year processed and 864,000 files received in 2025 ([source, 2026-02](https://ickjournalism.com/impamvu-u-rwanda-rukeneye-abakozi-3000-bo-gutanga-serivisi-zubutaka/)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 Land transfers ran through a national system joined to mapping, valuation and tax records in 2024; only one source reports the tax link.
 

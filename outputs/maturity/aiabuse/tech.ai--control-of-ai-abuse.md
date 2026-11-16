@@ -20,7 +20,7 @@ The Continental AI Strategy asks for risk-based regulation, an independent overs
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 5 |
 | 3 Established | 12 |
 | 2 Nascent | 11 |

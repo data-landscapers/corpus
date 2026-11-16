@@ -20,7 +20,7 @@ The AU Framework and Guidelines on Land Policy asks for land rights, customary t
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
+| 5 Mature | 4 |
 | 4 Operating | 2 |
 | 3 Established | 28 |
 | 2 Nascent | 13 |
@@ -30,7 +30,7 @@ The AU Framework and Guidelines on Land Policy asks for land rights, customary t
 
 ## Countries
 
-### Algeria: 5 Leading
+### Algeria: 5 Mature
 
 Land searches or registrations could be made online in 2025.
 
@@ -38,14 +38,14 @@ Land searches or registrations could be made online in 2025.
 - The director general says the database covers 217 land conservations across the country ([source, 2025-03-11](https://www.lnr-dz.com/2025/03/11/un-livret-foncier-electronique-sous-forme-de-carte-electronique-en-2025/)).
 - The director general says the Fada El Djazair portal, launched May 2024, gives access to cadastral and land information and offers over 6,500 electronic services, plus electronic payment of land service fees ([source, 2025-03-11](https://www.lnr-dz.com/2025/03/11/un-livret-foncier-electronique-sous-forme-de-carte-electronique-en-2025/)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Land searches or registrations could be made online in 2024.
 
 - ANCFCC states its digital cadastral maps cover the entire national territory ([source, 2026](https://www.ancfcc.gov.ma/pr%C3%A9sentation/chiffres-cl%C3%A9s)).
 - Notaries consult land documents online through a dedicated space on the ANCFCC electronic platform, for a fee ([source, 2024-01-15](https://medias24.com/2024/01/17/documents-fonciers-la-consultation-en-ligne-desormais-ouverte-aux-notaires/)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 Land searches or registrations could be made online in 2026.
 
@@ -53,7 +53,7 @@ Land searches or registrations could be made online in 2026.
 - The Ministry of Environment says the nationwide land tenure regularisation of 2009-2013 digitised parcels and that today every land record is kept in a digital registry ([source, 2026](https://www.environment.gov.rw/news-detail/rwanda-launched-electronic-land-registration-certificate-system)).
 - The Ministry of Environment says land transactions that need no notary are now fully online via Irembo and e-Titles can be downloaded at landinformation.lands.rw ([source, 2026](https://www.environment.gov.rw/news-detail/rwanda-launched-electronic-land-registration-certificate-system)).
 
-### Tunisia: 5 Leading
+### Tunisia: 5 Mature
 
 Land searches or registrations could be made online in 2025.
 

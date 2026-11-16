@@ -20,7 +20,7 @@ The African Charter on Democracy, Elections and Governance asks for citizen part
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 1 |
 | 3 Established | 9 |
 | 2 Nascent | 23 |

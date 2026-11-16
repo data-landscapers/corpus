@@ -20,7 +20,7 @@ The Maputo Protocol asks for women's access to and control of information techno
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Mature | 2 |
 | 4 Operating | 3 |
 | 3 Established | 3 |
 | 2 Nascent | 1 |
@@ -30,13 +30,13 @@ The Maputo Protocol asks for women's access to and control of information techno
 
 ## Countries
 
-### Botswana: 5 Leading
+### Botswana: 5 Mature
 
 In 2024, the gender gap in internet use was -1.93 per cent.
 
 - The gender gap in internet use in Botswana was -1.93 per cent in 2024, by ITU's internet use series by sex ([source, 2024](https://unstats.un.org/sdgs/dataportal)).
 
-### Senegal: 5 Leading
+### Senegal: 5 Mature
 
 In 2024, the gender gap in internet use was -17.5 per cent, women's use the higher.
 

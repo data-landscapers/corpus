@@ -77,7 +77,7 @@ Staged as at 2026-09-30: 18 at stage 3, 27 at 2, 2 at 1, 5 unplaced, 2 with no e
 | 2 Preparing | `announced`, `drafting` or `validated`; or `adopted` | For an adopted strategy: not public | Or ended, with a successor in preparation | Any | Any |
 | 3 Establishing | `adopted` | `public` | Not ended, or `open` | Any | Any |
 | 4 Operating | `adopted` | `public` | Not ended | `costed` or `actions` | `results` or `results-all`, published within three years |
-| 5 Leading | `adopted` | `public` | Not ended | `costed` | `results-all`, published within two years |
+| 5 Mature | `adopted` | `public` | Not ended | `costed` | `results-all`, published within two years |
 
 **A noted class never places a country above stage 1.** A country holding only noted classes is unplaced.
 

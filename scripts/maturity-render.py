@@ -53,7 +53,7 @@ CATALOGUE = CORPUS / "outputs" / "catalogue" / "catalogue-internal.csv"
 COUNTRIES = CORPUS / "lookups" / "countries.csv"
 SITE = "https://corpus.data-landscapers.io"
 MONTHS = ("2026-07", "2026-08")
-STAGE_NAME = {"1": "Absent", "2": "Nascent", "3": "Established", "4": "Operating", "5": "Leading"}
+STAGE_NAME = {"1": "Absent", "2": "Nascent", "3": "Established", "4": "Operating", "5": "Mature"}
 
 # The reference datasets, in words and at their home page, for a reader following a figure.
 DATASETS = {
@@ -292,7 +292,7 @@ def country_page(unit: str, name: str, eds: dict, cat: dict, natures: dict, led:
     o = [f"# {name}: maturity assessment", "",
          f"*As at 31 August 2026, beside 31 July. Each indicator is placed on five stages against "
          f"a continental norm: for a law, strategy or system, 1 Absent · 2 Nascent · 3 Established "
-         f"· 4 Operating · 5 Leading; for a measure, 1 far below · 2 below · 3 approaching · "
+         f"· 4 Operating · 5 Mature; for a measure, 1 far below · 2 below · 3 approaching · "
          f"4 meets · 5 exceeds the norm's target. **Unplaced** means the repository holds evidence "
          f"that meets no stage. **No evidence** means it holds none. A stage moves only on a "
          f"source dated inside the month.*", ""]

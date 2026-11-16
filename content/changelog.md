@@ -1,3 +1,7 @@
+## 16 November 2026
+
+- The maturity assessment's top stage is renamed from Leading to Mature, on the map, the country reports and the methodology page. No stage has moved; the old name read as a ranking against other countries.
+
 ## 15 November 2026
 
 - Every country summary in the maturity assessment has been rewritten in shorter sentences across all 115 indicators, without the notes on how its stage was set. The facts, sources and stages are unchanged.

@@ -20,7 +20,7 @@ The AU Digital Education Strategy asks for education management information syst
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
+| 5 Mature | 4 |
 | 4 Operating | 5 |
 | 3 Established | 18 |
 | 2 Nascent | 20 |
@@ -30,13 +30,13 @@ The AU Digital Education Strategy asks for education management information syst
 
 ## Countries
 
-### Eswatini: 5 Leading
+### Eswatini: 5 Mature
 
 Learner records were linked to the national ID or another government system in 2024.
 
 - The page subtitle says aggregate and individual EMIS data are connected to national identity ([source, 2024](https://education.dhis2.org/implementation/eswatini/)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Massar gives each pupil a digital identifier and draws on the civil status register, from 2024; how many pupils hold one is not known.
 
@@ -44,7 +44,7 @@ Massar gives each pupil a digital identifier and draws on the civil status regis
 - The ministry's circular says Massar enrolment services can download data from the civil status register, using digital identity ([source, 2024-04-23](https://ar.hibapress.com/details-517593.html)).
 - Morocco's education ministry launched the 2025-2026 annual school census, running from 20 October to 20 November 2025, with updates to the Massar system as the main reference from which most statistical data come, per a ministry letter reported by Express TV ([source, 2025-10-20](https://fr.expresstv.ma/2025/10/le-ministere-de-leducation-nationale-lance-le-recensement-scolaire-annuel-pour-lannee-scolaire-2025-2026/)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 Tanzania publishes yearly education statistics, and its school information system keys learners by number and shares data with the exams council.
 
@@ -52,7 +52,7 @@ Tanzania publishes yearly education statistics, and its school information syste
 - PO-RALG's privacy policy says SIS data is shared with education authorities such as NECTA and MOEST, and keys each student by a Personal Registration Number (PREM) ([source, 2025-07-14](https://sis.tamisemi.go.tz/privacy-policy)).
 - PO-RALG's School Information System privacy policy says learner data, keyed by each student's Personal Registration Number, is shared with NECTA, the examinations council, and the education ministry ([source, 2025-07-14](https://sis.tamisemi.go.tz/privacy-policy)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 Learner records were linked to the national ID or another government system in 2026.
 

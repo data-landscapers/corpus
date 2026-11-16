@@ -20,7 +20,7 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Mature | 6 |
 | 4 Operating | 2 |
 | 3 Established | 8 |
 | 2 Nascent | 25 |
@@ -30,14 +30,14 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 
 ## Countries
 
-### Benin: 5 Leading
+### Benin: 5 Mature
 
 Use of the government data exchange platform was reported in 2026.
 
 - The dashboard reports 138,174,337 total requests and 57,322,278 requests in the last 12 months, statistics updated 11 July 2026 ([source, 2026-07-11](https://statistiques.xroad.bj/)).
 - The dashboard says the instance has 73 members, 176 information systems and 512 services, with ANATT, ANIP and DGI the top providers ([source, 2026-07-11](https://statistiques.xroad.bj/)).
 
-### Madagascar: 5 Leading
+### Madagascar: 5 Mature
 
 Madagascar's national data exchange system connected 14 institutions in April 2026 and had recorded more than 162,000 exchanges.
 
@@ -45,14 +45,14 @@ Madagascar's national data exchange system connected 14 institutions in April 20
 - 14 institutions are connected to the Système d'échange national, according to 2424.mg ([source, 2026-04](https://2424.mg/modernisation-de-letat-14-institutions-deja-interconnectees-via-le-systeme-dechange-national-et-extension-vers-des-secteurs-vitaux-en-perspective/)).
 - The Programme de réformes pour l'efficacité de l'administration (PREA) reports more than 162,000 exchanges recorded through the SEN to date ([source, 2026-04](https://2424.mg/modernisation-de-letat-14-institutions-deja-interconnectees-via-le-systeme-dechange-national-et-extension-vers-des-secteurs-vitaux-en-perspective/)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Use of the government data exchange platform was reported in 2024.
 
 - The ADD says GISRE processed more than 95 million transactions in 2024, affecting 18 million citizens ([source, 2024](https://www.lavieeco.com/tech/add-silence-on-digitalise/)).
 - The ADD says more than 76 organisations are connected to GISRE ([source, 2025-04](https://www.lavieeco.com/tech/add-silence-on-digitalise/)).
 
-### Sudan: 5 Leading
+### Sudan: 5 Mature
 
 Sudan's exchange platform counted over 48 institutions and 265,785 transactions in November 2026, 148 of them between government bodies.
 
@@ -60,14 +60,14 @@ Sudan's exchange platform counted over 48 institutions and 265,785 transactions 
 - The Baldna home page counts 48+ government institutions and 141+ digital services on the platform ([source, 2026-11-11](https://baldna.gov.sd/)).
 - The Baldna home page reports 265,785+ completed transactions, of which 148 are government-to-government ([source, 2026-11-11](https://baldna.gov.sd/)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 Use of the government data exchange platform was reported in 2024.
 
 - DIAL reports over 90 million transactions conducted through UGhub, as reported by NITA-U ([source, 2024-04-11](https://dial.global/data-exchange-key-to-africas-digital-future-uganda-learnings/)).
 - NITA-U reports 168 organisations, 70 public institutions and 98 private sector entities, exchange information through the Government interoperability platform ([source, 2026-07-02](https://ict.go.ug/media/news/familiarisation-visit-highlights-nita-us-digital-progress)).
 
-### Zambia: 5 Leading
+### Zambia: 5 Mature
 
 The government data exchange platform hosted 532 services in 2026 and recorded 1.2 million transactions in 2025.
 

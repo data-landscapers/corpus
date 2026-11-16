@@ -20,7 +20,7 @@ The African Space Strategy asks that space-derived products be used for decision
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 4 |
 | 3 Established | 6 |
 | 2 Nascent | 36 |

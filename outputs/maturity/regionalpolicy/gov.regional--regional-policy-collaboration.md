@@ -14,13 +14,13 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 | 2 Preparing | Yes to 1: a member, and nothing more on record |
 | 3 Establishing | Yes to 1 and 2: an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years |
 | 4 Operating | Yes to 1, 2 and 3: something agreed put into effect |
-| 5 Leading | Yes to all four: reported in use in the last three years |
+| 5 Mature | Yes to all four: reported in use in the last three years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
+| 5 Mature | 8 |
 | 4 Operating | 21 |
 | 3 Established | 14 |
 | 2 Nascent | 10 |
@@ -30,7 +30,7 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 
 ## Countries
 
-### Benin: 5 Leading
+### Benin: 5 Mature
 
 Benin has had free roaming with Togo and Ghana since 2024, and a 2025 consumer review found calls worked; traffic figures are not known.
 
@@ -38,14 +38,14 @@ Benin has had free roaming with Togo and Ghana since 2024, and a 2025 consumer r
 - Ghana's NCA says bilateral ECOWAS free roaming between Ghana and Benin was launched on 9 October 2024, with no extra roaming fees for the first 30 consecutive days of a stay ([source, 2024-10-09](https://nca.org.gh/2024/10/09/ghana-kicks-off-ecowas-free-roaming-with-togo-and-benin/)).
 - Ecofin Agency reports Senegal's regulator ARTP signed a roaming memorandum of understanding with its Benin counterpart on 11 December 2025, effective 1 March 2026 ([source, 2025-12-11](https://www.ecofinagency.com/news-digital/1512-51396-senegal-signs-agreements-to-eliminate-roaming-charges-with-four-neighbours)).
 
-### Burundi: 5 Leading
+### Burundi: 5 Mature
 
 Burundi joined East Africa's shared roaming area in 2024, and regional figures for 2025 show its cross-border calls more than doubling.
 
 - EACO reports Burundi's inbound One Network Area voice traffic rose 126% in 2025, from 89.6 million to 202.9 million minutes, and outbound rose 82.4% from 12.1 million to 22.1 million, attributing the rise to Burundi's accession to the ONA roaming framework and reduced roaming tariffs ([source, 2025](https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf)).
 - Burundi formally entered the EAC One Network Area on 1 August 2024, with new regulations from its regulator cutting regional roaming tariffs, so calls and data roaming with five other countries are treated as domestic rates ([source, 2024-08-01](https://www.burunditimes.com/burundi-embraces-eac-digital-integration-for-ict-growth/)).
 
-### Congo: 5 Leading
+### Congo: 5 Mature
 
 Congo has had free roaming with Gabon since 2019, and its regulator published monthly call counts to 2024.
 
@@ -53,14 +53,14 @@ Congo has had free roaming with Gabon since 2019, and its regulator published mo
 - The Congo regulator reports free roaming with Gabon in effect, with call volumes shown before and after its start ([source, 2024-12](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2025/0217/Documents/02-Mireille%20Koumous.pdf)).
 - The Seventh ATU Conference of Plenipotentiaries in Abuja elected the Republic of the Congo to the 25-member Administrative Council of the African Telecommunications Union for the next four-year period; the Congo also put forward a Secretary-General candidate and withdrew him after the third round ([source, 2026-07-24](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 Kenya is in East Africa's shared roaming area, and regional figures for 2025 show its cross-border calls rising by about a fifth.
 
 - EACO publishes Kenya's One Network Area cross-border voice figures for 2025: inbound 461.5 million minutes (+19.2%) and outbound 603.5 million minutes (+23.9%, the largest in the region), with roaming tariffs reduced under the ONA Project ([source, 2025](https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf)).
 - Uganda, Kenya, Rwanda and South Sudan opened a joint account at Standard Chartered Bank Uganda to receive partner-state contributions for a satellite feasibility study agreed under a roadmap settled at an April 2026 Nairobi meeting; the source dates the account only to its report of 2026-08-24, and says the study has not yet started pending deposits ([source, 2026-08-24](https://chimpreports.com/east-african-states-open-bank-account-to-fund-joint-communications-satellite-study/)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 Rwanda is in East Africa's shared roaming area, with rising cross-border calls reported for 2025, and hosted the 2025 summit behind Africa's artificial intelligence declaration.
 
@@ -68,7 +68,7 @@ Rwanda is in East Africa's shared roaming area, with rising cross-border calls r
 - Uganda, Kenya, Rwanda and South Sudan opened a joint bank account at Standard Chartered Bank Uganda to fund a feasibility study of a jointly owned communications satellite, with a 30 September 2026 deposit deadline; the date of opening is not given, so the report date 2026-08-24 is used ([source, 2026-08-24](https://chimpreports.com/east-african-states-open-bank-account-to-fund-joint-communications-satellite-study/)).
 - The Africa Declaration on Artificial Intelligence was signed on 4 April 2025 in Kigali at the Global AI Summit on Africa hosted by Rwanda's C4IR and Ministry of ICT & Innovation; African Law & Business reports 52 of 54 African states signed with the African Union and Smart Africa, only Tanzania and Western Sahara absent, so Rwanda is among the signatories ([source, 2025-04-04](https://www.africanlawbusiness.com/news/optimism-but-uncertainty-over-africas-ai-declaration/)).
 
-### South Sudan: 5 Leading
+### South Sudan: 5 Mature
 
 South Sudan is in East Africa's shared roaming area, its traffic up 900 times across members by 2023; South Sudan's own figures are not known.
 
@@ -76,14 +76,14 @@ South Sudan is in East Africa's shared roaming area, its traffic up 900 times ac
 - An EAC ICT and performance management professional told an EALA oversight meeting that South Sudan is one of six of eight Partner States that have implemented the 2014 One Network Area roaming framework, which he said had helped reduce cross-border communication costs ([source, 2026-11-03](https://www.the-star.co.ke/news/2026-11-03-eac-moves-to-slash-cross-border-call-data-charges)).
 - The Minister of Information, ICT and Postal Services signed a declaration of trust with the Smart Africa alliance to cooperate on the digital economy, cybersecurity and artificial intelligence, in a ceremony reported by the ministry on 2025-05-30 ([source, 2025-05-30](https://mictps.gov.ss/south-sudan-inks-smart-africa-declaration-of-trust-to-commence-cooperation-on-digital-trade/)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 Tanzania hosted regional meetings in October 2026 and is in East Africa's shared roaming area, with 2025 outbound cross-border calls up by more than half.
 
 - EACO reports Tanzania's One Network Area cross-border voice traffic for 2025 as 148.0 million inbound minutes (+36.4%) and 577.7 million outbound minutes (+59.0%, from 363.3 million) ([source, 2025](https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf)).
 - Tanzania hosted the fifth annual East African Communications Organisation (EACO) postal and logistics meeting in Arusha on 14 October 2026, opened by Deputy Minister Dk Switbert Mkama, per Mwananchi ([source, 2026-10-14](https://www.mwananchi.co.tz/mw/habari/biashara/serikali-yaweka-mkazo-teknolojia-kuboresha-huduma-za-posta-usafirishaji-5632092)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 Uganda chaired an East African e-commerce meeting in 2026 and won a seat on the African telecommunications union's council; 2025 roaming-area call figures are published.
 

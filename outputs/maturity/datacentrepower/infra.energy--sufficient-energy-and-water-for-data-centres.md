@@ -14,13 +14,13 @@ The Smart Africa Data Center and Cloud Blueprint names PUE as the efficiency mea
 | 2 Preparing | Yes to 1: a data centre in service on a secured supply |
 | 3 Establishing | Yes to 2: power set aside for data centres |
 | 4 Operating | Yes to 3: a data centre states a PUE of 1.6 or less |
-| 5 Leading | Yes to 4: a data centre publishes its water use, or cools without water |
+| 5 Mature | Yes to 4: a data centre publishes its water use, or cools without water |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 1 |
 | 3 Established | 0 |
 | 2 Nascent | 14 |
@@ -30,7 +30,7 @@ The Smart Africa Data Center and Cloud Blueprint names PUE as the efficiency mea
 
 ## Countries
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 A data centre on secured power by 2026, with a PUE of 1.6 or less and its water use published.
 

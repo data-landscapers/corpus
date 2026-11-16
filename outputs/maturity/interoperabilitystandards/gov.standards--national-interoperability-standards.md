@@ -14,13 +14,13 @@ The African Union's Digital Transformation Strategy asks for technical standards
 | 2 Preparing | Yes to 1: standards being written |
 | 3 Establishing | Yes to 1 and 2: standards published |
 | 4 Operating | Yes to 1, 2 and 3: public bodies are required to use them |
-| 5 Leading | Yes to all four: a system has been checked against them in the last three years |
+| 5 Mature | Yes to all four: a system has been checked against them in the last three years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 3 |
 | 3 Established | 8 |
 | 2 Nascent | 9 |

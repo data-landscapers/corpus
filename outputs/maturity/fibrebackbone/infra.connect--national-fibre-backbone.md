@@ -14,13 +14,13 @@ The African Union's Digital Transformation Strategy 2020–2030 and the Programm
 | 2 Preparing | Yes to 1: being built |
 | 3 Establishing | Yes to 2: in service between the capital and other regions |
 | 4 Operating | Yes to 3: reaching every province or region |
-| 5 Leading | Yes to 4: every region reached, and capacity sold to other operators |
+| 5 Mature | Yes to 4: every region reached, and capacity sold to other operators |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Mature | 6 |
 | 4 Operating | 6 |
 | 3 Established | 28 |
 | 2 Nascent | 2 |
@@ -30,7 +30,7 @@ The African Union's Digital Transformation Strategy 2020–2030 and the Programm
 
 ## Countries
 
-### Algeria: 5 Leading
+### Algeria: 5 Mature
 
 Backbone fibre reached every province by 2026, and other operators buy capacity on it.
 
@@ -39,14 +39,14 @@ Backbone fibre reached every province by 2026, and other operators buy capacity 
 - Algerie Telecom says its fibre made available to operators exceeds 40,000 km, offered through leased lines and irrevocable rights of use ([source, 2024-11-20](https://www.itu.int/en/ITU-D/Regional-Presence/ArabStates/Documents/events/2024/MeaningfulConnectivity/Presentations/Session3/Pr%C3%A9sentation%20Interconnexion%20UIT_MrAmirKahli.pdf)).
 - Algerie Telecom's CEO says the backbone provides the mobile operators with the capacity they need to develop their networks ([source, 2026](https://alger16.dz/?p=60388)).
 
-### Burkina Faso: 5 Leading
+### Burkina Faso: 5 Mature
 
 Backbone fibre reached every province or region by 2025, and other operators buy capacity on it.
 
 - Minister Aminata Zerbo/Sabane told parliament the national backbone now offers robust connectivity across the whole territory ([source, 2025-03-11](https://an.bf/127)).
 - Bridge Fiber Solutions says it sells capacity, dark fibre and wavelengths on the state backbone to 44 customers in 2026 (7 in 2023), including all three mobile operators, ISPs, state firms and banks, on a price catalogue validated annually by ARCEP and the ministry, with non-discrimination ([source, 2026-08-12](https://digitalmagazine.bf/2026/08/18/interview-avec-sagadibwaoga-michel-ouedraogo-dg-de-bfs-le-backbone-national-a-tenu-ses-promesses-trois-ans-dexploitation-de-la-fibre-optique-publique-burkinabe/)).
 
-### Cameroon: 5 Leading
+### Cameroon: 5 Mature
 
 Backbone fibre reached every region by 2024, and other operators buy capacity on it.
 
@@ -54,14 +54,14 @@ Backbone fibre reached every region by 2024, and other operators buy capacity on
 - The ART report says Camtel's transport network revenue rose with demand for bandwidth from mobile operators, ISPs and businesses ([source, 2024](https://ecomatin.net/cameroun-camtel-a-gagne-34-milliards-fcfa-grace-a-la-fibre-optique-en-2024-en-hausse-de-17)).
 - NewsWatch states that CAMTEL leases capacity on its national fibre-optic backbone to private mobile network operators, while holding exclusive rights over the backbone itself; the date is the article's own (2026-07-27) ([source, 2026-07-27](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 Backbone fibre reached every district by 2025, and other operators buy capacity on it.
 
 - btw.media says KT Rwanda Networks, a government-Korea Telecom partnership, runs a fibre backbone of over 4,000 km connecting all districts and border areas ([source, 2025-08-27](https://btw.media/en/kt-rwanda-networks-rwandas-wholesale-4g-fibre-backbone)).
 - btw.media says KT Rwanda Networks provides wholesale connectivity on its network to other mobile and internet service providers ([source, 2025-08-27](https://btw.media/en/kt-rwanda-networks-rwandas-wholesale-4g-fibre-backbone)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 Backbone fibre reached every province by 2025, and other operators buy capacity on it.
 
@@ -69,7 +69,7 @@ Backbone fibre reached every province by 2025, and other operators buy capacity 
 - MyBroadband reports Broadband Infraco's licence lets it sell high-capacity long-distance transmission services to licensed fixed and mobile operators and internet service providers ([source, 2025-03-15](https://mybroadband.co.za/news/broadband/587054-the-technically-insolvent-state-owned-broadband-company-that-lost-r459-million.html)).
 - TechCentral describes Broadband Infraco as a fibre wholesaler, a 'carrier of carriers' for cheaper long-distance bandwidth, whose biggest public-sector customers were SITA and Eskom (both since lost) ([source, 2026-04](https://techcentral.co.za/state-broadband-merger-limps-into-a-second-decade/280723/)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 Backbone fibre reached every region by 2025, and other operators buy capacity on it.
 

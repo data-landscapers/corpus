@@ -14,13 +14,13 @@ The Malabo Convention's third chapter commits each party to legal measures again
 | 2 Preparing | Yes to 1: a bill, and no law in force |
 | 3 Establishing | Yes to 1 and 2: a law in force |
 | 4 Operating | Yes to 1, 2 and 3: the law has been used |
-| 5 Leading | Yes to all four: the law is in regular use |
+| 5 Mature | Yes to all four: the law is in regular use |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Mature | 7 |
 | 4 Operating | 12 |
 | 3 Established | 31 |
 | 2 Nascent | 3 |
@@ -30,7 +30,7 @@ The Malabo Convention's third chapter commits each party to legal measures again
 
 ## Countries
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 A 2018 information technology crimes law is in force; in November 2025 courts convicted a series of content creators under it.
 
@@ -38,21 +38,21 @@ A 2018 information technology crimes law is in force; in November 2025 courts co
 - LDSF reports the Cairo Economic Court on 29 November 2025 sentenced video blogger Mohamed Abdel Aaty to two years and a fine under the Anti-Cybercrime Law, and sentenced Qamar El-Wekala to six months ([source, 2025-11-29](https://ldsf.info/blog/2025/12/01/escalates-war-on-digital11225/)).
 - The Senate legislative committee is reviewing two impact studies on the effectiveness of Law 175 of 2018 on combating information technology crimes, as an existing law ([source, 2026-04-26](https://www.cairo24.com/2413157)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 The Computer Misuse and Cybercrimes Act is in force; dozens of social media users have been arrested or prosecuted under it since 2024.
 
 - The Daily Nation says dozens of young social media users have faced arrests and prosecutions under the Act, increasing after the June 2024 protests, including teacher Albert Ojwang, arrested over a social media post and who died in custody in June 2025 ([source, 2025-06](https://nation.africa/kenya/news/major-victory-as-court-declares-illegal-sections-of-cybercrimes-law-used-to-hunt-down-bloggers-activists-5382142)).
 - The report says Kenya's existing cybersecurity framework rests on the National Computer and Cybercrimes Coordination Committee under the Computer Misuse and Cybercrimes Act, to which the new National Cybersecurity Agency (Legal Notice 89 of 2026) adds capacity; published 2026-09-11, no other date given ([source, 2026-09-11](https://www.the-star.co.ke/news/2026-09-11-kenya-steps-up-push-to-get-new-cyber-agency-running)).
 
-### Mali: 5 Leading
+### Mali: 5 Mature
 
 Cybercrime provisions in force since December 2024 are in regular use: three journalists were detained under them in 2026.
 
 - RSF says journalists Chahana Takiou and Abderhmane Keïta were arrested in June 2026 and charged under the cybercrime law, bringing to three the journalists detained under it, after Sissoko's sentence of 23 March 2026 ([source, 2026-06](https://rsf.org/en/broadcast-suspension-and-arrests-journalists-mali-nearly-six-years-transition-marked-repression)).
 - Human Rights Watch reports Mali has cybercrime legislation under which a national cybercrime court in Bamako operates ([source, 2026-08-03](https://www.hrw.org/news/2026/08/04/journalist-in-mali-sentenced-to-a-year-in-prison)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 A cybercrime law is in force and in regular use against journalists, activists and critics, among them Omoyele Sowore in 2026.
 
@@ -60,14 +60,14 @@ A cybercrime law is in force and in regular use against journalists, activists a
 - The DSS is prosecuting activist and presidential candidate Omoyele Sowore under the Cybercrimes Act over his description of the President as a criminal, and its Director-General announced on 30 August 2026 that the prosecution would be suspended until after the 2027 election ([source, 2026-08-30](https://punchng.com/sowore-serap-lawyer-demand-dss-withdraw-charges/)).
 - The Southern Africa Litigation Centre says section 24 of Nigeria's Cybercrimes Act is repeatedly used to arrest journalists for their reporting ([source, 2026-10-15](https://www.southernafricalitigationcentre.org/oral-statement-under-item-3-the-human-rights-situation-in-africa/)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 A cybercrime law has been in force since 2021; 37 cases under it were on court rolls in November 2024.
 
 - The NPA had 37 cases on court rolls nationally with 88 charges under the Cyber Crimes Act of 2020, per a parliamentary reply of 29 November 2024 ([source, 2024-11-29](https://www.protectionweb.co.za/cyber-security/specialist-police-investigate-cyber-fraud-prosecutions-remain-low/)).
 - The authors Fritz and Limpitlaw state that South Africa's Cybercrimes Act criminalises a range of online wrongdoing and provides investigative powers, evidence preservation and international co-operation ([source, 2026-10-12](https://www.businessday.co.za/lifestyle/2026-10-12-we-regulate-cybercriminals-now-its-time-to-regulate-the-platforms-they-use/)).
 
-### Sudan: 5 Leading
+### Sudan: 5 Mature
 
 A cybercrime law is in force and was used repeatedly in 2025 and 2026, including 17 arrest warrants against journalists in July 2026.
 
@@ -78,7 +78,7 @@ A cybercrime law is in force and was used repeatedly in 2025 and 2026, including
 - Front Line Defenders reports that on 20 October 2025 the Criminal Court in Port Sudan convicted lawyer Montaser Abdullah under the Cybercrimes Act and sentenced him to one year and four months in prison and a fine of one million Sudanese pounds ([source, 2025-10-20](https://www.frontlinedefenders.org/en/case/human-rights-defender-montaser-abdullah-may-face-death-penalty)).
 - Sudan's Justice Minister Abdallah Daraf said the Criminal Code amendment was not made to the Cybercrimes Law, which stands as a separate law ([source, 2026-10-23](https://sudantribune.com/article/320352)).
 
-### Tunisia: 5 Leading
+### Tunisia: 5 Mature
 
 Tunisia's cybercrime and cybersecurity decree-laws are in force; six journalists were prosecuted under Decree 54 in the year to April 2026.
 

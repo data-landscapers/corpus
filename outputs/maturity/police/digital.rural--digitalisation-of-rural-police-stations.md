@@ -16,13 +16,13 @@ The norm is Corpus's own: the AFRIPOL Statute of 2017 connects national police a
 | 2 Preparing | A system for stations is being prepared or piloted; or one runs at headquarters or in the capital only | Any, or not stated | Pilot stations, or none |
 | 3 Establishing | O or C: past its pilot and live in some stations outside the capital | `connected`, `local` or `keyed-elsewhere` | A minority, a count with no total, or not published |
 | 4 Operating | O or C | `connected` | More than half, on a share or a count with a denominator |
-| 5 Leading | O and C | `connected` | 90 per cent or more, on a figure published within two years that gives the rural share |
+| 5 Mature | O and C | `connected` | 90 per cent or more, on a figure published within two years that gives the rural share |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 1 |
 | 3 Established | 6 |
 | 2 Nascent | 17 |

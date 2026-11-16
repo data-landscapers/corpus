@@ -20,7 +20,7 @@ The African Union's Digital Transformation Strategy and the Africa Programme on 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Mature | 2 |
 | 4 Operating | 10 |
 | 3 Established | 5 |
 | 2 Nascent | 31 |
@@ -30,7 +30,7 @@ The African Union's Digital Transformation Strategy and the Africa Programme on 
 
 ## Countries
 
-### Cape Verde: 5 Leading
+### Cape Verde: 5 Mature
 
 Cabo Verde registers births and deaths in a computerised national register, and birth registration reached 99% in 2026.
 
@@ -38,7 +38,7 @@ Cabo Verde registers births and deaths in a computerised national register, and 
 - INE's report says deaths, like births and marriages, are drawn from the RNI's computerised registration database and checked against the health ministry's information system ([source, 2025-09](https://bdmi.ine.cv/site_deploy_api/Uploads/20251205_142245_cc7f58f7-2417-444c-9c21-07f670b19a7f.pdf)).
 - Biometric Update reports, citing the IMIJ presentation at ID4Africa 2026, that Cabo Verde reached 99 percent birth registration, up from about 91 percent before the reforms ([source, 2026-05](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 90% or more of births were registered in 2025.
 

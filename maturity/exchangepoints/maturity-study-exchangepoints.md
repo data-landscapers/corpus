@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: an exchange point in service |
 | 3 Establishing | Yes to 2: a global content network serving from it |
 | 4 Operating | Yes to 3: its traffic shown growing |
-| 5 Leading | Yes to 4: a second city, or networks from other countries peering there |
+| 5 Mature | Yes to 4: a second city, or networks from other countries peering there |
 
 - **Only question 3 has a window.** An exchange or a cache in service stays in service until a later source says it has closed or peering has stopped.
 - **The two traffic figures may come from one source or two**, and must be for the same exchange. A source stating growth over a stated year, such as "twentyfold over the past year", is a yes.

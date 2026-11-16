@@ -14,13 +14,13 @@ The African Union's second ten-year plan for Agenda 2063 asks that 80 per cent o
 | 2 Preparing | Yes to 1: at least a quarter |
 | 3 Establishing | Yes to 1 and 2: at least half |
 | 4 Operating | Yes to 1, 2 and 3: at least four in five |
-| 5 Leading | Yes to all four: nearly everyone |
+| 5 Mature | Yes to all four: nearly everyone |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 3 |
 | 3 Established | 17 |
 | 2 Nascent | 20 |

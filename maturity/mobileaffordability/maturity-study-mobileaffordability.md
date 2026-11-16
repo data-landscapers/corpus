@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: 10 per cent or less |
 | 3 Establishing | Yes to 1 and 2: 5 per cent or less |
 | 4 Operating | Yes to 1, 2 and 3: 2 per cent or less |
-| 5 Leading | Yes to all four: 1 per cent or less |
+| 5 Mature | Yes to all four: 1 per cent or less |
 
 - **A figure is either of two things**: a stated share of income for a month of mobile data, or a stated price that Corpus sets against income.
 - **A price is brought to 5 GB for a month**: a 30-day plan of 5 GB or more as priced; a smaller 30-day plan, or a price per gigabyte, multiplied up to 5 GB.

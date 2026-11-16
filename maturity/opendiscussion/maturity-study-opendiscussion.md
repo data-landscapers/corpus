@@ -47,7 +47,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: policy is criticised in public |
 | 3 Establishing | Yes to 1 and 2: and no one was punished for it in twelve months |
 | 4 Operating | Yes to 1, 2 and 3: and a law that punished speech has gone |
-| 5 Leading | Yes to all four: and the government is barred from cutting the internet |
+| 5 Mature | Yes to all four: and the government is barred from cutting the internet |
 
 - **A block still in force inside the twelve months counts, wherever the act of blocking fell** *(settled as worded, Bill, 2026-10-23)*.
 - **A cut inside the twelve months places a country at stage 1 whatever else is held.** The row as it stands puts Uganda and Tanzania at stage 2.

@@ -20,7 +20,7 @@ Africa CDC's health information exchange guidelines and Smart Africa's digital h
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 8 |
 | 3 Established | 14 |
 | 2 Nascent | 23 |

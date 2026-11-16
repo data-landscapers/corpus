@@ -14,13 +14,13 @@ The African Telecommunications Union's Recommendation ATU-R 005-0 (2021) asks me
 | 2 Preparing | Yes to 1: a provider licensed |
 | 3 Establishing | Yes to 2: on sale to households or businesses |
 | 4 Operating | Yes to 3: on sale from two satellite networks |
-| 5 Leading | Yes to 4: subscribers counted by the regulator |
+| 5 Mature | Yes to 4: subscribers counted by the regulator |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 5 |
 | 3 Established | 32 |
 | 2 Nascent | 1 |

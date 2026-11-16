@@ -20,7 +20,7 @@ The African Union's Digital Transformation Strategy asks for a digital legal ide
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 5 |
 | 3 Established | 12 |
 | 2 Nascent | 13 |

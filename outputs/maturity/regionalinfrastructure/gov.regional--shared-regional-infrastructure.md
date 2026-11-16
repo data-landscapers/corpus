@@ -14,13 +14,13 @@ The African Union's Programme for Infrastructure Development in Africa and its D
 | 2 Preparing | Yes to 1 |
 | 3 Establishing | Yes to 1 and 2 |
 | 4 Operating | Yes to 1 to 3: one kind in service |
-| 5 Leading | Yes to all four: two kinds in service |
+| 5 Mature | Yes to all four: two kinds in service |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 29 |
 | 3 Established | 5 |
 | 2 Nascent | 9 |

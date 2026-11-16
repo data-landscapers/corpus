@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: at least a quarter |
 | 3 Establishing | Yes to 1 and 2: at least half |
 | 4 Operating | Yes to 1, 2 and 3: at least four in five |
-| 5 Leading | Yes to all four: nearly everyone |
+| 5 Mature | Yes to all four: nearly everyone |
 
 - **The figures Corpus already holds answer all four questions for 51 countries before anything is read**: stage 1 for 11, stage 2 for 21, stage 3 for 16, and stage 4 for Libya, Morocco and Seychelles. None reaches stage 5.
 - **Three countries have no figure in the window**: Eritrea's latest is for 2020, South Sudan's for 2019 and Sudan's for 2017. They are *No evidence* unless a story read in the run gives one.

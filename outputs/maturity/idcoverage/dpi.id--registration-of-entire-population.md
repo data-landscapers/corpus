@@ -20,7 +20,7 @@ The African Union's Digital Transformation Strategy sets a target of 99.9% of pe
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 0 |
 | 3 Established | 7 |
 | 2 Nascent | 9 |

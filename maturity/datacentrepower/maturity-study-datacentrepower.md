@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a data centre in service on a secured supply |
 | 3 Establishing | Yes to 2: power set aside for data centres |
 | 4 Operating | Yes to 3: a data centre states a PUE of 1.6 or less |
-| 5 Leading | Yes to 4: a data centre publishes its water use, or cools without water |
+| 5 Mature | Yes to 4: a data centre publishes its water use, or cools without water |
 
 - **Questions 1 and 2 have no window**: a supply in service or an agreement in force stands until a later source says it has ended. **Questions 3 and 4 have the usual three years.**
 - **The PUE bands go.** The row cut stages at PUE 2.0, 1.8 and 1.6. Few operators publish one, so no country was staged; 1.6 stays, as one question.

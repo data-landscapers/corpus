@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a member, and nothing more on record |
 | 3 Establishing | Yes to 1 and 2: an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years |
 | 4 Operating | Yes to 1, 2 and 3: something agreed put into effect |
-| 5 Leading | Yes to all four: reported in use in the last three years |
+| 5 Mature | Yes to all four: reported in use in the last three years |
 
 - **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*.
 - **Membership has no time limit**; it stands, with its year, until a dated source says the country has left or is suspended.

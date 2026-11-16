@@ -14,13 +14,13 @@ The African Union's Digital Transformation Strategy 2020–2030 and its African 
 | 2 Preparing | Yes to 1: an exchange point in service |
 | 3 Establishing | Yes to 2: a global content network serving from it |
 | 4 Operating | Yes to 3: its traffic shown growing |
-| 5 Leading | Yes to 4: a second city, or networks from other countries peering there |
+| 5 Mature | Yes to 4: a second city, or networks from other countries peering there |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
+| 5 Mature | 5 |
 | 4 Operating | 1 |
 | 3 Established | 8 |
 | 2 Nascent | 32 |
@@ -30,7 +30,7 @@ The African Union's Digital Transformation Strategy 2020–2030 and its African 
 
 ## Countries
 
-### DR Congo: 5 Leading
+### DR Congo: 5 Mature
 
 An exchange point in service by 2026, with a global content network, traffic growing and reach beyond one city.
 
@@ -39,7 +39,7 @@ An exchange point in service by 2026, with a global content network, traffic gro
 - ISPA-DRC says its KINIX exchange, launched November 2012, had 23 peers and an 84 Gbps traffic peak in August 2024 ([source, 2024-08](https://www.afpif.org/wp-content/uploads/2024/08/RDC-Cache-Fill-Strategies.pdf)).
 - Internet Society says ISPA-DRC launched a second IXP in Lubumbashi (LUBIX) in 2019 and a third in Goma (GOMIX), operating since 2021 ([source, 2021](https://www.internetsociety.org/blog/2024/02/the-decade-that-changed-the-democratic-republic-of-congos-internet/)).
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 An exchange point in service by 2026, with a global content network, traffic growing and reach beyond one city.
 
@@ -47,7 +47,7 @@ An exchange point in service by 2026, with a global content network, traffic gro
 - AMS-IX says EG-IX peak traffic reached 945 Gb/s by Q3 2026, against 338 Gb/s in 2025 and 89 Gb/s in 2023 ([source, 2026-09](https://www.ams-ix.net/ams/news/eg-ix-strengthening-regional-connectivity-from-cairo)).
 - Two Jordanian carriers, Jordan Telecommunications (AS8697) and Al Bahrainia al Urdunia Liltaknia (AS9038), are members at EG-IX in Cairo, alongside global content networks and ICANN's L-root ([source, 2026-09-07](https://tech.africa/eg-ix-cairo-18-members/)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 An exchange point in service by 2026, with a global content network, traffic growing and reach beyond one city.
 
@@ -55,7 +55,7 @@ An exchange point in service by 2026, with a global content network, traffic gro
 - The companies say combined traffic across the two Kenyan LINX exchange points rose twentyfold over the past year, reaching a peak above 330 Gbps (no starting figure given) ([source, 2026-07-10](https://itweb.africa/article/linx-expands-kenya-peering-network/5yONP7ErXpRMXWrb)).
 - LINX operates two interconnected exchange points in Kenya, Nairobi and Mombasa; a cloud provider connected to Mombasa in 2025 and to Nairobi in 2026, and both are described as providing routing options ([source, 2026-07-10](https://itweb.africa/article/linx-expands-kenya-peering-network/5yONP7ErXpRMXWrb)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 Google, Meta, Microsoft and TikTok peer at the exchange, its peak traffic rose to 1.7 Tbps in 2025, and it reaches Abuja and Enugu.
 
@@ -63,7 +63,7 @@ Google, Meta, Microsoft and TikTok peer at the exchange, its peak traffic rose t
 - IXPN aggregate peak traffic grew from 4 Gbps in 2015 to 1.7 Tbps in 2025, a 42,400% increase over ten years, per IT Pulse Nigeria ([source, 2025](https://itpulse.com.ng/how-local-peering-grew-ixpns-traffic-from-4-gbps-in-2015-to-1-7-tbps-in-2025/)).
 - IXPN has regional connectivity in Abuja and Enugu as well as multiple points of presence in Lagos, per TechTV Network; Digital Realty announced a new IXPN point of presence at its Ibeju-Lekki data centre in April 2026 (Lagos) ([source, 2026-10-03](https://techtvnetwork.ng/post/ixpn-at-20-how-nigerias-internet-exchange-point-has-transformed-local-internet-connectivity)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 An exchange point in service by 2026, with a global content network, traffic growing and reach beyond one city.
 

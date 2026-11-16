@@ -69,7 +69,7 @@ The id enters `lookups/indicators.csv` at acceptance. **`digital.localgov--digit
 | 2 Preparing | A programme to connect them is being prepared or piloted; or only the capital city or the upper tier is connected | Any, or not stated | Pilot local governments, or none |
 | 3 Establishing | `systems` or `internet`: past its pilot and live in some local governments outside the capital | `institutional` | A minority, a count with no total, or not published |
 | 4 Operating | `systems` or `internet` | `institutional` | More than half, on a share or a count with a denominator |
-| 5 Leading | `systems` | `institutional` | 90 per cent or more, on a figure published within two years that gives the rural share |
+| 5 Mature | `systems` | `institutional` | 90 per cent or more, on a figure published within two years that gives the rural share |
 
 **Pilot or live, and preparation, are read as the schools study reads them** (its §4). Equipment delivered under a named connection programme is preparation.
 

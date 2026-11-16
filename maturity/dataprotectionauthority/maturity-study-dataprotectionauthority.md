@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1 |
 | 3 Establishing | Yes to 1 and 2 |
 | 4 Operating | Yes to 1, 2 and 3 |
-| 5 Leading | Yes to all four |
+| 5 Mature | Yes to all four |
 
 - **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a ruling no longer shows the authority is appointed, and yearly figures do not answer question 3.
 - **An authority whose members have all left and not been replaced is a no to question 2**, from the date a source says so.

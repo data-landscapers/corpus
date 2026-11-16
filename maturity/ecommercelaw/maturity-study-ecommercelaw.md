@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a bill or draft, and no law in force |
 | 3 Establishing | Yes to 1 and 2: a law in force |
 | 4 Operating | Yes to 1, 2 and 3: rules made under it |
-| 5 Leading | Yes to all four: the law applied in the last three years |
+| 5 Mature | Yes to all four: the law applied in the last three years |
 
 **Applied, settled as worded** *(Bill, 2026-10-23)*: the authority the law creates issuing certificates itself is not a provider accredited under it, and licensed providers named with no licence date do not show the law applied within three years.
 

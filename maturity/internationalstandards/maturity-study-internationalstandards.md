@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: the standards body is a member |
 | 3 Establishing | Yes to 1 and 2: an international standard on information technology or data is a national standard |
 | 4 Operating | Yes to 1, 2 and 3: public bodies must meet a named international standard |
-| 5 Leading | Yes to all four: the country has taken part in writing such standards in the last three years |
+| 5 Mature | Yes to all four: the country has taken part in writing such standards in the last three years |
 
 - **Each question must be met on its own evidence** *(Bill, 2026-11-09, message 112; `"later_yes": false`)*: a committee seat or a rule does not show adoption, nor an adopted standard membership.
 - **Questions 1 to 3 have no time limit**: a membership, a standard and a rule stand, with their year, until a dated source says they have gone. Question 4 counts for three years.

@@ -41,7 +41,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | A law is in force |
 | 3 Establishing | A law is in force, and the country has ratified the Malabo Convention or appointed an authority |
 | 4 Operating | The law is being implemented: the authority registers organisations, takes breach reports, issues guidance or inspects |
-| 5 Leading | The authority is acting: it has ruled against a named organisation, or publishes a count of its rulings |
+| 5 Mature | The authority is acting: it has ruled against a named organisation, or publishes a count of its rulings |
 
 - **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: an authority at work no longer shows a law in force or a body appointed.
 - **Ratification alone, with no law in force, is stage 1**, and the summary says the country has ratified.

@@ -14,13 +14,13 @@ The African Commission on Human and Peoples' Rights' Declaration of Principles o
 | 2 Preparing | Yes to 1: a policy being written, or one that has run out with no successor adopted |
 | 3 Establishing | Yes to 1 and 2: a policy adopted and still running |
 | 4 Operating | Yes to 1, 2 and 3: a government portal is running under it |
-| 5 Leading | Yes to all four: public bodies have published data under it in the last three years |
+| 5 Mature | Yes to all four: public bodies have published data under it in the last three years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 2 |
 | 3 Established | 4 |
 | 2 Nascent | 11 |
@@ -30,7 +30,7 @@ The African Commission on Human and Peoples' Rights' Declaration of Principles o
 
 ## Countries
 
-### Tunisia: 5 Leading
+### Tunisia: 5 Mature
 
 Tunisia's 2021 open data decree is in force and its portal carried data from 23 public producers in 2024; the follow-on strategy is not adopted.
 

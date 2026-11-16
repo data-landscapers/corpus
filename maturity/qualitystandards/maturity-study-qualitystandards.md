@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a standards body exists |
 | 3 Establishing | Yes to 1 and 2: it has issued a national standard on information technology or data |
 | 4 Operating | Yes to 1, 2 and 3: certification against one is on offer in the country |
-| 5 Leading | Yes to all four: a public body has been certified in the last three years |
+| 5 Mature | Yes to all four: a public body has been certified in the last three years |
 
 - **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a certificate from the standards body against a national standard no longer shows the standard is issued.
 - **Questions 1 to 3 have no time limit**: a body and a standard stand, with their year, until a dated source says they have gone. Question 4 counts for three years.

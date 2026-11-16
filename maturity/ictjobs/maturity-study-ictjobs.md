@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Nascent | Yes to 1 |
 | 3 Established | Yes to 2 |
 | 4 Operating | Yes to 3 |
-| 5 Leading | Yes to 3 and 4 |
+| 5 Mature | Yes to 3 and 4 |
 
 - **The lines are the frame's own cuts** (`lookups/maturity-measures.csv`), fixed and not redrawn, so a country moves only when its own figure crosses one.
 - **Question 4 counts only beside a figure at the top line**: it is the frame's stage-5 condition, not a step beyond the figure, so method §3.3 does not apply to it.

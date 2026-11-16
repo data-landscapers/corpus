@@ -14,13 +14,13 @@ The African Charter on the Values and Principles of Public Service and Administr
 | 2 Preparing | Yes to 1: the money runs on a computer system |
 | 3 Establishing | Yes to 2: tax and the payroll do too |
 | 4 Operating | Yes to 3: one of them renewed in the last three years |
-| 5 Leading | Yes to 4: a published architecture or inventory |
+| 5 Mature | Yes to 4: a published architecture or inventory |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
+| 5 Mature | 5 |
 | 4 Operating | 3 |
 | 3 Established | 8 |
 | 2 Nascent | 16 |
@@ -30,7 +30,7 @@ The African Charter on the Values and Principles of Public Service and Administr
 
 ## Countries
 
-### Mauritius: 5 Leading
+### Mauritius: 5 Mature
 
 Mauritius runs its accounts, tax and a payroll renewed in 2024 on computer systems, and publishes a list of its operational systems.
 
@@ -38,7 +38,7 @@ Mauritius runs its accounts, tax and a payroll renewed in 2024 on computer syste
 - CISD says the new in-house Government payroll system went live in July 2024 after a parallel run completed in June 2024, replacing the old payroll processing ([source, 2024-07](https://cisd.govmu.org/Documents/Newsletter/Enewsletter%20issue%20No.6.pdf)).
 - The Mauritius Revenue Authority says individuals file their 2025 income tax returns electronically on its e-filing system, signing in with a User Id (NID, NCID or TAN) and password ([source, 2025](https://www.mra.mu/eservices1/individual/individual-e-filing-season)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 Nigeria runs finance, tax and payroll on GIFMIS, TaxPro Max and IPPIS, moved payroll to a local platform in 2026, and operates an enterprise architecture.
 
@@ -46,7 +46,7 @@ Nigeria runs finance, tax and payroll on GIFMIS, TaxPro Max and IPPIS, moved pay
 - The IPPIS HR modules went live on 27 July 2026 on the locally developed SoftSuite platform, a migration from foreign software ([source, 2026-07-27](https://fmino.gov.ng/fg-launches-ippis-human-resource-modules-deepens-digital-transformation-of-civil-service/)).
 - FIRS directed in April 2025 that all tax and levy collections be processed through assessments raised on TaxPro Max, its tax administration platform for registration, filing and payment ([source, 2025-04-30](https://theeconomictimes.com.ng/2025/04/30/firs-orders-banks-to-shut-down-unauthorised-tax-collection-accounts-mandates-use-of-taxpro-max/)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 Rwanda runs its budget, tax and payroll on computer systems, upgraded IFMIS in 2026 and publishes a government enterprise architecture framework.
 
@@ -54,7 +54,7 @@ Rwanda runs its budget, tax and payroll on computer systems, upgraded IFMIS in 2
 - MINECOFIN says it completed a major technological upgrade of the IFMIS, replacing legacy components that had reached end of support with new enterprise technologies ([source, 2026-10-06](https://www.minecofin.gov.rw/news-detail/ifmis-upgraded-to-modern-platform-strengthening-public-financial-management)).
 - The Rwanda Revenue Authority's 2025 Tax Handbook says taxpayers declare taxes online or by phone using E-Tax, M-Declaration and the Local Government Taxes system, and pay through E-Payment, online banking and mobile money ([source, 2025](https://www.rra.gov.rw/fileadmin/Folder_for_2025/RRA_Tax_Handbook_2025_Final.pdf)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 Uganda runs its finances, tax and payroll on computer systems, is moving payroll to a new HR system and renewed its enterprise architecture in 2026.
 
@@ -62,7 +62,7 @@ Uganda runs its finances, tax and payroll on computer systems, is moving payroll
 - The PFM Reforms Strategy 2025-2030 says the Human Capital Management system, now running HR and payroll in 160 entities, is replacing the Integrated Personnel and Payroll System ([source, 2025-05](https://finance.go.ug/sites/default/files/2025-07/PFM-Reforms-Strategy-2025.pdf)).
 - The Uganda Revenue Authority says tax can be paid by EFT, RTGS, card, bank and mobile USSD, and that Local Excise Duty, Rental Income Tax and VAT returns have moved to web-based platforms ([source, 2026-06](https://ura.go.ug/en/ask-ura-commissioner-general-19/)).
 
-### Zimbabwe: 5 Leading
+### Zimbabwe: 5 Mature
 
 Finance, tax and payroll in use, one renewed, and a map of government systems published by 2024.
 

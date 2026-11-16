@@ -20,7 +20,7 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Mature | 3 |
 | 4 Operating | 3 |
 | 3 Established | 11 |
 | 2 Nascent | 31 |
@@ -30,14 +30,14 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 
 ## Countries
 
-### Burkina Faso: 5 Leading
+### Burkina Faso: 5 Mature
 
 More than five national agencies published open-licensed data on one portal in 2026.
 
 - CITADEL says its portal holds more than 145 datasets from more than 5 national agencies and official portals ([source, 2026-06-17](https://data.citadel.bf/)).
 - Burkina Faso's INSD states it grants a worldwide, free, non-exclusive licence to copy, modify and distribute its data, including for commercial use, with attribution, for data on its website and open data portal ([source, 2026-10-16](https://www.insd.bf/fr/licence-data-insd)).
 
-### Libya: 5 Leading
+### Libya: 5 Mature
 
 Nine government bodies published on the national open data platform in 2026, under terms that let anyone reuse the data.
 
@@ -47,7 +47,7 @@ Nine government bodies published on the national open data platform in 2026, und
 - The General Authority for Communications and Informatics lists its 2025 ICT workforce indicator as a downloadable XLSX dataset on its open data platform, created 2026-09-29 ([source, 2026-09-29](https://opendata.gia.gov.ly/dashboard/dataset/432987)).
 - The GIA, which runs the platform at opendata.gia.gov.ly, reported statistics to February 2026 of 91 datasets, 9 active government entities participating and 8 sectors covered; the document does not tie the platform to an open data policy ([source, 2026-02-10](https://www.gia.gov.ly/en/2026/02/11/includes-91-datasets-the-general-authority-for-information-launches-new-indicators-through-the-open-data-platform/)).
 
-### Togo: 5 Leading
+### Togo: 5 Mature
 
 Data from 23 ministries was on the national geoportal in 2025, and the open data portal put its data under an open licence by 2026.
 

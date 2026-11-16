@@ -51,7 +51,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1 |
 | 3 Establishing | Yes to 1 and 2 |
 | 4 Operating | Yes to 1 to 3: one kind in service |
-| 5 Leading | Yes to all four: two kinds in service |
+| 5 Mature | Yes to all four: two kinds in service |
 
 - **Each step must be met** *(message 114)*, but a link in service answers 1 and 2.
 - **Questions 3 and 4 have no time limit**; a facility in service stands until a dated source says it is cut or closed. Questions 1 and 2 count for three years.

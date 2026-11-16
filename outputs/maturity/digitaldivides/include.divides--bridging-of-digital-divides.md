@@ -20,7 +20,7 @@ The Digital Transformation Strategy asks for universal, equitable and affordable
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 2 |
 | 3 Established | 26 |
 | 2 Nascent | 18 |

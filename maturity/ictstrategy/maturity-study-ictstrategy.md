@@ -78,7 +78,7 @@ Staged as at 2026-09-30: 14 at stage 3, 18 at 2, 1 at 1, 21 unplaced. **Rungs 4 
 | 2 Preparing | `announced`, `drafting` or `validated`; or `adopted` | For an adopted policy: not public | Or ended, with a successor in preparation | Any | Any |
 | 3 Establishing | `adopted` | `public` | Not ended, or `open` | Any | Any |
 | 4 Operating | `adopted` | `public` | Not ended | `costed` or `actions` | `results` or `results-all`, published within three years |
-| 5 Leading | `adopted` | `public` | Not ended | `costed` | `results-all`, published within two years |
+| 5 Mature | `adopted` | `public` | Not ended | `costed` | `results-all`, published within two years |
 
 **A noted class never places a country.** A country holding a national digital strategy and no sector policy in force is unplaced and flagged *under the national strategy*.
 

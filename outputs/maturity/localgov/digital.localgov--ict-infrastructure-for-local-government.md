@@ -16,13 +16,13 @@ The norm is the African Union's decentralisation charter of 2014, Article 16(2):
 | 2 Preparing | A programme to connect them is being prepared or piloted; or only the capital city or the upper tier is connected | Any, or not stated | Pilot local governments, or none |
 | 3 Establishing | `systems` or `internet`: past its pilot and live in some local governments outside the capital | `institutional` | A minority, a count with no total, or not published |
 | 4 Operating | `systems` or `internet` | `institutional` | More than half, on a share or a count with a denominator |
-| 5 Leading | `systems` | `institutional` | 90 per cent or more, on a figure published within two years that gives the rural share |
+| 5 Mature | `systems` | `institutional` | 90 per cent or more, on a figure published within two years that gives the rural share |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 3 |
 | 3 Established | 26 |
 | 2 Nascent | 17 |

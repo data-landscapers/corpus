@@ -20,7 +20,7 @@ The World Bank's Global Findex 2025 puts account ownership at 79% of adults worl
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 11 |
 | 3 Established | 9 |
 | 2 Nascent | 12 |

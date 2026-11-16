@@ -20,7 +20,7 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 12 |
+| 5 Mature | 12 |
 | 4 Operating | 8 |
 | 3 Established | 12 |
 | 2 Nascent | 10 |
@@ -30,7 +30,7 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 
 ## Countries
 
-### Benin: 5 Leading
+### Benin: 5 Mature
 
 Use of the national ID by other services was reported with figures in 2025.
 
@@ -38,7 +38,7 @@ Use of the national ID by other services was reported with figures in 2025.
 - ANIP Bénin's presentation lists health, education, social protection, telecoms, banks and tax among the user systems on the RNPP interoperability platform, and says SIM cards, health insurance and social benefits need a legal identity ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
 - ANIP reports 25 million digital eKYC verifications completed in 2025 and 3.8 million authentications by telecom operators ([source, 2025](https://www.biometricupdate.com/202602/benin-reports-75-of-identification-services-accessed-through-digital-platforms)).
 
-### Cape Verde: 5 Leading
+### Cape Verde: 5 Mature
 
 Over 50 public and private services, banks foremost, checked people against the national ID by 2026, with over 30 million data requests logged.
 
@@ -47,7 +47,7 @@ Over 50 public and private services, banks foremost, checked people against the 
 - IMIJ says SNIAC supports the Justice, Consular and National portals and connects public and private services, banks especially ([source, 2026-05-18](https://imij.gov.cv/noticias/cms-noticia-44)).
 - IMIJ reports more than 30 million data requests recorded on SNIAC and over 50 connected services ([source, 2026-05-18](https://imij.gov.cv/noticias/cms-noticia-44)).
 
-### Ethiopia: 5 Leading
+### Ethiopia: 5 Mature
 
 Use of the national ID by other services was reported with figures in 2026.
 
@@ -55,14 +55,14 @@ Use of the national ID by other services was reported with figures in 2026.
 - NIDP says Fayda is required or harmonised in banking, telecoms, tax, land administration and education ([source, 2026](https://connect.mosip.io/resources_pdf_2026/Inclusive_Identity_at_Scale_Ethiopia.pdf)).
 - The National Bank of Ethiopia directed on 10 December 2025 that all banks open new accounts using the VeriFayda 2 eKYC system (EthSwitch eKYC Service), which replaces VeriFayda 1 used previously ([source, 2025-12-10](https://www.biometricupdate.com/202512/ethiopia-banks-harmonize-customer-account-information-with-fayda-digital-id)).
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 Banks, SIM registration and state services check the Ghana Card; 191 financial institutions were on the verification platform in 2024.
 
 - NIA Executive Secretary Kenneth Attafuah said 191 financial institutions, including the Bank of Ghana, all 24 universal banks and 145 rural banks, had been onboarded onto the NIA's personal verification system platform to verify clients' identities ([source, 2024-02-02](https://www.ghanaweb.com/GhanaHomePage/NewsArchive/191-financial-institutions-now-have-seamless-access-to-National-Identification-Authority-Data-1914728)).
 - BBC reported on 2026-07-16 that the Ghana Card is needed for banking services, SIM card registration, and passport and driver's licence applications ([source, 2026-07-16](https://www.bbc.co.uk/news/articles/cn4n9q538z2o)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 Over 22,000 services relied on the digital ID in 2026, with tax, health insurance, banks and SIM registration checking against it.
 
@@ -70,7 +70,7 @@ Over 22,000 services relied on the digital ID in 2026, with tax, health insuranc
 - The deck lists KRA tax, health insurance, education, financial e-KYC, SIM registration and social protection systems as connected to the national ID verification ([source, 2026-05](https://id4africa.com/2026/files/T1-1-3-Kenya-FINAL.pdf)).
 - The same presentation gives SIM card registration (telecoms) and bank account opening (banking) as transactions the Maisha Card is validated for through KYC ([source, 2023-11-01](https://id4africa.com/2024/ps1/PS1-2-Kenya-Final.pdf)).
 
-### Malawi: 5 Leading
+### Malawi: 5 Mature
 
 Use of the national ID by other services was reported with figures in 2026.
 
@@ -78,7 +78,7 @@ Use of the national ID by other services was reported with figures in 2026.
 - The NRB homepage lists linkages of the National ID with Airtel Malawi for SIM registration and mobile money, and with Ecobank, National Bank of Malawi, NBS Bank, Standard Bank, First Capital Bank, Centenary Bank and Mukuru for KYC identity verification ([source, 2026-02](https://www.nrb.gov.mw)).
 - The 2026 NRB fee regulations name e-KYC verification charges for mobile money subscribers, SIM card holders, bank account holders and utility services, per Malawi24 ([source, 2026-07-31](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Use of the national ID by other services was reported with figures in 2024.
 
@@ -86,7 +86,7 @@ Use of the national ID by other services was reported with figures in 2024.
 - The DGSN reports 17 framework agreements and more than 30 public and private institutions authorised to use the verification platform in 2024 ([source, 2024](https://www.moroccoworldnews.com/2024/12/166797/dgsn-issued-record-4-6-million-digital-ids-slashed-crime-rates-in-2024)).
 - The DGSN says the platform serves government, health and tax services and private sector banks, insurers and e-commerce firms, which must get DGSN authorisation ([source, 2025-02](https://www.alhadathlifriqui.com/?p=72708)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 Use of the national ID by other services was reported with figures in 2026.
 
@@ -94,7 +94,7 @@ Use of the national ID by other services was reported with figures in 2026.
 - The NIMC director general says banks, telecom operators, insurance companies and fintechs already authenticate customers through NIMC's real-time verification platform by matching fingerprint or face against the NIN record; a bank digital officer confirms onboarding verifies identity against the national database ([source, 2026-07-25](https://www.vanguardngr.com/2026/07/nin-contradiction-high-cost-of-false-integration/)).
 - The article names telecommunications, financial services, immigration and taxation as sectors using NIN verification through NINAuth (published date used) ([source, 2026-09-23](https://nigeriacommunicationsweek.com.ng/2026/09/23/nimc-unveils-consent-based-nin-verification-to-authenticate-identity)).
 
-### Somalia: 5 Leading
+### Somalia: 5 Mature
 
 Use of the national ID by other services was reported with figures in 2026.
 
@@ -102,7 +102,7 @@ Use of the national ID by other services was reported with figures in 2026.
 - EUAA reports verification against the NIRA ID in banking, business registration, education and transport business as of March 2026 ([source, 2026-03](https://www.euaa.europa.eu/somalia-displacement-mogadishu/43-access-services)).
 - The Central Bank of Somalia says it mandated NIRA ID for opening and updating bank accounts from 1 September 2025 and that all banks are integrated to the NIRA platform ([source, 2025-09-01](https://id4africa.com/2026/files/T1-3-3-Somalia-FINAL.pdf)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 Use of the national ID by other services was reported with figures in 2026.
 
@@ -110,7 +110,7 @@ Use of the national ID by other services was reported with figures in 2026.
 - Home Affairs says the service supports social grant payments (SASSA), policing and justice, banking and insurance, for government and private-sector users ([source, 2025-07-01](https://www.gov.za/news/media-statements/home-affairs-launch-world-class-new-identity-verification-service-and-cost)).
 - The telecoms industry body ACT says its members verify customer identities against the Department of Home Affairs database under existing arrangements with mobile network operators, and the Home Affairs minister said its verification systems are already used by banks ([source, 2026-07-20](https://techcabal.com/2026/07/20/south-africa-wants-every-sim-card-to-become-a-trusted-digital-id/)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 Use of the national ID by other services was reported with figures in 2026.
 
@@ -118,7 +118,7 @@ Use of the national ID by other services was reported with figures in 2026.
 - NIDA names SIM registration (TCRA), health insurance (NHIF), social security, banks and tax (TRA) as sectors relying on the national ID ([source, 2026-05](https://id4africa.com/2026/files/T1-3-4-Tanzania-FINAL.pdf)).
 - NIDA reports that the tax authority's taxpayer registration, bank KYC, health insurance and pension disbursement check people against the national ID ([source, 2026-05](https://id4africa.com/2026/files/T1-3-4-Tanzania-FINAL.pdf)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 Use of the national ID by other services was reported with figures in 2024.
 

@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a policy being written, or one that has run out with no successor adopted |
 | 3 Establishing | Yes to 1 and 2: a policy adopted and still running |
 | 4 Operating | Yes to 1, 2 and 3: a body is named to carry it out |
-| 5 Leading | Yes to all four: a rule or standard the policy called for has been issued |
+| 5 Mature | Yes to all four: a rule or standard the policy called for has been issued |
 
 **Settled as worded** *(Bill, 2026-10-23)*: an instrument in force that orders the bodies set up names them, for question 3.
 

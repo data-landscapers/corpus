@@ -14,13 +14,13 @@ The Digital Transformation Strategy's digital industry pillar asks for ICT assem
 | 2 Nascent | Yes to 1: 0.05 per cent or more |
 | 3 Established | Yes to 2: 0.2 per cent or more |
 | 4 Operating | Yes to 3: 0.5 per cent or more |
-| 5 Leading | Yes to 3 and 4: 0.5 per cent or more, and ICT equipment made in the country |
+| 5 Mature | Yes to 3 and 4: 0.5 per cent or more, and ICT equipment made in the country |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Mature | 3 |
 | 4 Operating | 8 |
 | 3 Established | 8 |
 | 2 Nascent | 13 |
@@ -30,21 +30,21 @@ The Digital Transformation Strategy's digital industry pillar asks for ICT assem
 
 ## Countries
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 ICT service exports were 0.5644 per cent of GDP in 2025, and 10 million mobile phones were made in the country that year.
 
 - ICT service exports from Egypt were 0.5644 per cent of GDP in 2025, by the World Bank's series ([source, 2025](https://data.worldbank.org/indicator/BX.GSR.CCIS.CD)).
 - Egypt's Ministry of Communications and Information Technology says 10 million mobile phones were produced in 2025 with about 40% local value added, at plants including Samsung, Xiaomi and Oppo, per AmCham Egypt ([source, 2025](https://www.amcham.org.eg/publications/business-studies/egypt-beyond-borders/121)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 ICT service exports were 0.7088 per cent of GDP in 2024, and ICT equipment is assembled in the country.
 
 - ICT service exports from Kenya were 0.7088 per cent of GDP in 2024, by the World Bank's series ([source, 2024](https://data.worldbank.org/indicator/BX.GSR.CCIS.CD)).
 - Tech Africa News reports the Universal Service Advisory Council highlighted progress at the JKUAT Device Assembly Plant in the local assembly of digital devices, whose locally assembled devices are expected to support the Digital Hubs rollout ([source, 2026-08-07](https://techafricanews.com/2026/08/07/kenya-moves-to-boost-digital-inclusion-through-locally-assembled-devices/)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 ICT service exports were 1.5377 per cent of GDP in 2025, and chips are assembled and tested in the country.
 

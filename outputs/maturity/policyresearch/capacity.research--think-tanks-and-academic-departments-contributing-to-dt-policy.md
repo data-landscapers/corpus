@@ -20,7 +20,7 @@ STISA-2034 and Agenda 2063's second ten-year plan ask for research systems funde
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 4 |
 | 3 Established | 19 |
 | 2 Nascent | 11 |

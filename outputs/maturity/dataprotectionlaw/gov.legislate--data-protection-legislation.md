@@ -14,13 +14,13 @@ The norm is the African Union's Malabo Convention: Article 8(1) commits each par
 | 2 Preparing | `announced`, `drafting`, `tabled` or `passed` | Any | Any |
 | 3 Establishing | `enacted`, `transition` or `in-force` | Any | Any |
 | 4 Operating | `in-force` | Any | `applied` or `reported`, dated within three years |
-| 5 Leading | `in-force` | Any | `reported`, for a year ending within two years |
+| 5 Mature | `in-force` | Any | `reported`, for a year ending within two years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 9 |
+| 5 Mature | 9 |
 | 4 Operating | 11 |
 | 3 Established | 26 |
 | 2 Nascent | 7 |
@@ -30,7 +30,7 @@ The norm is the African Union's Malabo Convention: Article 8(1) commits each par
 
 ## Countries
 
-### Angola: 5 Leading
+### Angola: 5 Mature
 
 Angola's 2011 data protection law has regulations and its agency counts fines: three in 2025, six by August 2026; no source found dates the revision.
 
@@ -42,7 +42,7 @@ Angola's 2011 data protection law has regulations and its agency counts fines: t
 - PTI, citing the authority's map of infringement cases, says the authority imposed three fines totalling USD 250,000 in 2025 and five totalling USD 600,000 in 2024 ([source, 2025](https://pti.ao/apd-ja-aplicou-mais-de-1-milhao-de-dolares-em-multas-este-ano/)).
 - The APD's Conselho de Administração took the sanction decision of 10 August 2026, so the authority was acting ([source, 2026-08-10](https://sapo.pt/artigo/agencia-de-proteccao-de-dados-de-angola-multa-hotel-diamante-em-115-mil-dolares-6a857707bf642b2fcc16d93b)).
 
-### Benin: 5 Leading
+### Benin: 5 Mature
 
 Benin's data protection law is in its 2018 digital code and was applied in 2025; no source found says how many regulations are in force.
 
@@ -53,7 +53,7 @@ Benin's data protection law is in its 2018 digital code and was applied in 2025;
 - The decree of 16 February 2022 is taken under the code du numérique, law n° 2017-20 of 20 April 2018 as amended by law n° 2020-35 of 6 January 2021, which it cites as its legal basis and applies to the processing it authorises ([source, 2022-02-16](https://sgg.gouv.bj/doc/decret-2022-107/)).
 - Seventeen officers of Benin's data protection authority (APDP) were sworn in before the Court of First Instance of Cotonou on 14 September 2026 under Article 468(2) of the Digital Code, on the instruction of the APDP president ([source, 2026-09-14](https://techreviewafrica.com/news/7230/17-apdp-benin-officers-sworn-in-to-strengthen-commitment-to-personal-data-protection)).
 
-### Gabon: 5 Leading
+### Gabon: 5 Mature
 
 Gabon's 2023 data protection law is in force and its authority reported 12 sanctions in 2025.
 
@@ -62,7 +62,7 @@ Gabon's 2023 data protection law is in force and its authority reported 12 sanct
 - The APDPVP sat in plenary on 25 April 2024 with a named president, vice-president and six other permanent commissioners, appointed by a Council of Ministers decision of 12 July 2023 and with a bureau elected on 6 September 2023 ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
 - Gabonreview reports the APDPVP president's 2025 tally of 12 administrative and pecuniary sanctions on non-compliant controllers, alongside 178 conformity declarations and 16 opinions on draft government texts ([source, 2025](https://www.gabonreview.com/journee-mondiale-de-la-protection-des-donnees-le-gabon-affirme-sa-strategie-face-aux-defis-du-numerique/)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 Kenya's 2019 Data Protection Act is in force and its commissioner issued 51 determinations in 2024; no later yearly count is known.
 
@@ -78,7 +78,7 @@ Kenya's 2019 Data Protection Act is in force and its commissioner issued 51 dete
 - TechTrends KE reports the Office of the Data Protection Commissioner was established under the Data Protection Act, 2019, with inaugural commissioner Immaculate Kassait in office since 2020 and a Senior Deputy Data Commissioner serving; the Public Service Commission shortlisted 13 of 152 applicants to succeed her ([source, 2026-09-30](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/)).
 - The ODPC established under the Data Protection Act 2019 is operating, with Kassait as outgoing commissioner and a successor nominated on 10 November 2026 ([source, 2026-11-10](https://techtrendske.co.ke/2026/11/13/kenya-data-protection-law-ai-regulation/)).
 
-### Mali: 5 Leading
+### Mali: 5 Mature
 
 Mali has a 2013 data protection law, applied by its authority with fines and complaints handled in 2025; no source found gives its commencement date.
 
@@ -89,7 +89,7 @@ Mali has a 2013 data protection law, applied by its authority with fines and com
 - Sahel Tribune, summarising the APDP 2025 annual report, says the authority issued about 1,000 formal notices (989 controllers), fines totalling 22 million FCFA (up to 7 million each), and received 51 complaints of which 28 were handled and four referred to the cybercrime prosecutor, for January-December 2025 ([source, 2025](https://saheltribune.com/donnees-personnelles-lalerte-du-regulateur-malien/)).
 - The APDP held its second ordinary session on 2026-08-03 under president Pr Mamoudou Samassekou with all commissioners present ([source, 2026-08-03](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/)).
 
-### Mauritius: 5 Leading
+### Mauritius: 5 Mature
 
 Mauritius has the Data Protection Act 2017, and its office reported complaints closed and transfers decided in 2024; no source found reports figures for 2025.
 
@@ -100,7 +100,7 @@ Mauritius has the Data Protection Act 2017, and its office reported complaints c
 - Registration of controllers and processors is carried out under the Data Protection (Fees) Regulations 2020; the report says registrations since 01 August 2020 reached 21,219 controllers and 1,157 processors by 31 December 2024 ([source, 2020](https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf)).
 - The Data Protection Office reports for January to December 2024: 179 new complaints (158 on CCTV), 39 complaints closed, 105 personal data breaches notified, 112 cross-border transfers authorised and 12 rejected under section 36, 10 impact assessments received, and four compliance inspections ([source, 2024](https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Morocco's 2009 data protection law is in force and courts decided 80 criminal data protection cases in 2024.
 
@@ -112,7 +112,7 @@ Morocco's 2009 data protection law is in force and courts decided 80 criminal da
 - The Nador first instance court convicted a person in 2024 for placing a complainant's photo and name on a student group statement without consent ([source, 2024](https://madar21.com/315419.html)).
 - The CNDP issued a communiqué dated 2026-08-28 to political parties and voters on their duties under Law 09-08 for the 23 September 2026 legislative elections, and opened a 3020 information line ([source, 2026-08-28](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM)).
 
-### Senegal: 5 Leading
+### Senegal: 5 Mature
 
 Senegal's 2008 data protection law is in force and its authority publishes quarterly counts of decisions, most recently April to June 2026.
 
@@ -122,7 +122,7 @@ Senegal's 2008 data protection law is in force and its authority publishes quart
 - The CDP published its quarterly opinion for April-June 2026: 195 files handled (154 declarations, 41 authorisation requests), 153 declaration receipts and 39 authorisations issued, 2 decisions deferred, 1 processing rejected, 2 controllers heard, and 8 complaints and 1 report received and handled ([source, 2026-06](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html)).
 - The CDP, created by law 2008-12, is described as the acting independent administrative authority, holding two plenary sessions in April-June 2026 and issuing decisions ([source, 2026-06](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 South Africa's Protection of Personal Information Act, 2013 has been in force since 2021 and is applied; no source found reports the planned amendment's text.
 

@@ -14,13 +14,13 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 | 2 Preparing | Yes to 1 only: work under way, nothing published |
 | 3 Published | Yes to 2: statistics from at least one administrative source published |
 | 4 Operating | Yes to 3: statistics from at least one administrative source published at least twice in the last three years |
-| 5 Leading | Yes to 4: statistics from at least three administrative sources published at least twice in the last three years |
+| 5 Mature | Yes to 4: statistics from at least three administrative sources published at least twice in the last three years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 27 |
 | 3 Established | 10 |
 | 2 Nascent | 7 |

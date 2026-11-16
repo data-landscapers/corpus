@@ -20,7 +20,7 @@ The African Union's Protocol on Social Protection asks for an integrated social 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 14 |
 | 3 Established | 14 |
 | 2 Nascent | 5 |
@@ -30,7 +30,7 @@ The African Union's Protocol on Social Protection asks for an integrated social 
 
 ## Countries
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 One information system served several social programmes in 2025.
 

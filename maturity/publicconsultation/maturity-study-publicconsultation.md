@@ -47,7 +47,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: people outside government were asked |
 | 3 Establishing | Yes to 1 and 2: what they said was published |
 | 4 Operating | Yes to 1, 2 and 3: a consultation was held because a rule required it |
-| 5 Leading | Yes to all four: a standing body with outside members gave its view |
+| 5 Mature | Yes to all four: a standing body with outside members gave its view |
 
 - **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a consultation required by a rule, or a council's opinion on a bill, no longer shows people outside government were asked.
 - **Every answer counts for three years.** So does a statement that people were not consulted, and it places a country at stage 1 only where no yes is held inside the same three years.

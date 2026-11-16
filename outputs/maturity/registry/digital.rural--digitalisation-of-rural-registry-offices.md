@@ -16,13 +16,13 @@ The norm: the AU Digital Transformation Strategy's 99.9 per cent legal identity 
 | 2 Preparing | A system for local offices is being prepared or piloted; or one runs at the national office or in the capital only | Any, or not stated | Pilot offices, or none |
 | 3 Establishing | B: past its pilot and live in some local offices | `connected`, `local` or `keyed-elsewhere` | A minority, a count with no total, or not published |
 | 4 Operating | B | `connected` | More than half, on a share or a count with a denominator |
-| 5 Leading | B and D | `connected` | 90 per cent or more, on a figure published within two years that gives the rural share |
+| 5 Mature | B and D | `connected` | 90 per cent or more, on a figure published within two years that gives the rural share |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 1 |
 | 3 Established | 40 |
 | 2 Nascent | 13 |

@@ -14,13 +14,13 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 | 2 Preparing | Yes to 1: a bill or draft, and no binding rule in force |
 | 3 Establishing | Yes to 1 and 2: a binding rule on AI in force, for one sector or one use |
 | 4 Operating | Yes to 1, 2 and 3: a law on AI itself in force |
-| 5 Leading | Yes to all four: that law has been applied in the last three years |
+| 5 Mature | Yes to all four: that law has been applied in the last three years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 0 |
 | 3 Established | 7 |
 | 2 Nascent | 13 |

@@ -20,7 +20,7 @@ The African Union's Digital Transformation Strategy puts an electronic populatio
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
+| 5 Mature | 8 |
 | 4 Operating | 2 |
 | 3 Established | 11 |
 | 2 Nascent | 6 |
@@ -30,52 +30,52 @@ The African Union's Digital Transformation Strategy puts an electronic populatio
 
 ## Countries
 
-### Algeria: 5 Leading
+### Algeria: 5 Mature
 
 The civil-status register, holding births and deaths from every commune, was in use in 2025, and 23 ministries and bodies drew on it.
 
 - The Interior Ministry says 23 ministries and public bodies drew on Registre national de l'Etat civil data in 2023, nearly 111 million consultations ([source, 2023](https://www.lnr-dz.com/2024/01/18/merad-senquiert-de-letat-davancement-des-projets-de-modernisation/)).
 
-### Benin: 5 Leading
+### Benin: 5 Mature
 
 Other systems drew on the population register in 2026.
 
 - Banouto reports the ANIP eServices portal's Explorez votre identite service takes its data from the RNPP ([source, 2026-09-18](https://www.banouto.bj/societe/article/20260918-anip-voici-comment-decouvrir-combien-de-beninois-partagent-votre-nom-prenom-ou-date-de-naissance)).
 - ANIP says the RNPP is the only source for identity cards, passports and driving licences, and that phone SIM acquisition and public service platforms authenticate against the NPI ([source, 2026-05](https://id4africa.com/2026/files/T1-2-2-Benin-FINAL.pdf)).
 
-### Cote d'Ivoire: 5 Leading
+### Cote d'Ivoire: 5 Mature
 
 The national register of persons was in service in 2026, fed from the digitised civil-status registers and drawn on by the social registry.
 
 - BCPFS and ONECI signed a convention on 2 April 2026 interconnecting the Registre Social Unique with ONECI's databases, so beneficiaries are identified through the Registre National des Personnes Physiques run by ONECI ([source, 2026-04-02](https://filetsociaux-ci.org/registre-social-unique-des-menages-pauvres-et-vulnerables-rsu-signature-dune-convention-entre-le-bureau-de-coordination-du-programme-filets-sociaux-bcpfs-et-loffice-nation/)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 Other systems drew on the population register in 2026.
 
 - The State Department for Immigration and Citizen Services says public and private entities with a signed MOU access the register for identity verification, at a Ksh. 20 fee per hit ([source, 2026-08-30](https://usajili.go.ke/integrated-population-registration-service)).
 
-### Namibia: 5 Leading
+### Namibia: 5 Mature
 
 The population register was in service in 2026, fed by electronic birth and death notices from 135 health facilities and used to verify grant recipients.
 
 - The Auditor General's report says social grant recipients on the Integrated Social Assistance System were checked against records in the National Population Registration System ([source, 2026-10-15](https://neweralive.na/n44m-paid-to-ghost-grant-beneficiaries/)).
 - Namibia's Chief Registrar said all applicants for the Covid-19 Emergency Income Grant were verified against the NPRS, and social protection verifies live status against it ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-namibia.pdf)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 Other systems drew on the population register in 2026.
 
 - In the demonstration a verifier app requested the population register details linked to the minister's ID, which appeared on the official's phone after he approved sharing ([source, 2026-10-01](https://techcentral.co.za/south-africa-digital-id-schreiber-demo/286764/)).
 - Banks, mobile operators and insurers verify customers' identities in real time against the National Population Register through the Online Verification System, at ZAR 10 a check since 1 July 2025 ([source, 2025-07-01](https://weetracker.com/2026/01/27/south-africa-id-verification-fee-court-case/)).
 
-### Tunisia: 5 Leading
+### Tunisia: 5 Mature
 
 Other systems drew on the population register in 2026.
 
 - The playbook says the register is the pivot for sectoral identifiers and that its data are exchanged with state structures through the national interoperability platform ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
-### Zimbabwe: 5 Leading
+### Zimbabwe: 5 Mature
 
 The population register was updated on registered deaths and linked to the immigration border system in 2026, the minister said.
 

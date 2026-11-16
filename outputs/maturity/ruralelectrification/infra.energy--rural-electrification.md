@@ -20,7 +20,7 @@ The African Union's Agenda 2063 first ten-year plan asks for 80% of households t
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Mature | 7 |
 | 4 Operating | 4 |
 | 3 Established | 6 |
 | 2 Nascent | 17 |
@@ -30,43 +30,43 @@ The African Union's Agenda 2063 first ten-year plan asks for 80% of households t
 
 ## Countries
 
-### Algeria: 5 Leading
+### Algeria: 5 Mature
 
 In 2024, 100 per cent of rural people had electricity.
 
 - 100 per cent of rural people in Algeria had electricity in 2024, by the World Bank's rural electricity access series ([source, 2024](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS)).
 
-### Cape Verde: 5 Leading
+### Cape Verde: 5 Mature
 
 In 2024, 97.7 per cent of rural people had electricity.
 
 - 97.7 per cent of rural people in Cape Verde had electricity in 2024, by the World Bank's rural electricity access series ([source, 2024](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS)).
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 In 2024, 100 per cent of rural people had electricity.
 
 - 100 per cent of rural people in Egypt had electricity in 2024, by the World Bank's rural electricity access series ([source, 2024](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS)).
 
-### Mauritius: 5 Leading
+### Mauritius: 5 Mature
 
 In 2024, 100 per cent of rural people had electricity.
 
 - 100 per cent of rural people in Mauritius had electricity in 2024, by the World Bank's rural electricity access series ([source, 2024](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 In 2024, 100 per cent of rural people had electricity.
 
 - 100 per cent of rural people in Morocco had electricity in 2024, by the World Bank's rural electricity access series ([source, 2024](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS)).
 
-### Seychelles: 5 Leading
+### Seychelles: 5 Mature
 
 In 2024, 100 per cent of rural people had electricity.
 
 - 100 per cent of rural people in Seychelles had electricity in 2024, by the World Bank's rural electricity access series ([source, 2024](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS)).
 
-### Tunisia: 5 Leading
+### Tunisia: 5 Mature
 
 In 2024, 100 per cent of rural people had electricity.
 

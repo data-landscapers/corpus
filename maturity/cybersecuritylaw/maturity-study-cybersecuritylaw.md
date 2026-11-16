@@ -47,7 +47,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a bill, and no law in force |
 | 3 Establishing | Yes to 1 and 2: a law in force |
 | 4 Operating | Yes to 1, 2 and 3: the law has been used |
-| 5 Leading | Yes to all four: the law is in regular use |
+| 5 Mature | Yes to all four: the law is in regular use |
 
 - **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a conviction under the law no longer shows it is in force.
 - **Questions 1 and 2 have no time limit**; a law stands, with its year, until a dated source says it is repealed or struck down.

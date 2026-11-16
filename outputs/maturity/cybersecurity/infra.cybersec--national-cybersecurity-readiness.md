@@ -14,13 +14,13 @@ The Malabo Convention, chapter III, asks each party for a national cybersecurity
 | 2 Nascent | Yes to 1: a strategy adopted or a body created |
 | 3 Established | Yes to 2: the body has responded to an incident |
 | 4 Operating | Yes to 3: critical information infrastructure designated |
-| 5 Leading | Yes to 4: the body publishes evidence of dealing with incidents in the last year |
+| 5 Mature | Yes to 4: the body publishes evidence of dealing with incidents in the last year |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
+| 5 Mature | 4 |
 | 4 Operating | 5 |
 | 3 Established | 11 |
 | 2 Nascent | 33 |
@@ -30,7 +30,7 @@ The Malabo Convention, chapter III, asks each party for a national cybersecurity
 
 ## Countries
 
-### Ethiopia: 5 Leading
+### Ethiopia: 5 Mature
 
 The national cyber body published an account of incidents it dealt with for a period to 2026.
 
@@ -38,7 +38,7 @@ The national cyber body published an account of incidents it dealt with for a pe
 - The proclamation identifies 12 critical infrastructure sectors (ICT, finance, transport, health, energy and others) and requires owners and operators to meet 18 cybersecurity obligations; the document gives no enactment date, so the publication date is used ([source, 2026-08-07](https://www.ena.et/web/eng/w/eng_9359494)).
 - INSA Director General Tigist Hamid said Ethio-CERT had identified, responded to and reported more than 71,000 cyberattacks in 2018 E.C ([source, 2026](https://techreviewafrica.com/news/7717)).
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 The national cyber body published an account of incidents it dealt with for a period to 2026.
 
@@ -46,7 +46,7 @@ The national cyber body published an account of incidents it dealt with for a pe
 - The communications minister said Ghana has 13 designated Critical Information Infrastructure sectors and about 200 institutions identified as CII Owners, and that compliance is mandatory; event date not stated, published date used ([source, 2026-10-08](https://techafricanews.com/2026/10/08/ghana-strengthens-cyber-resilience-critical-infrastructure/)).
 - Ghana's Cyber Security Authority and NITA issued a joint cybersecurity alert on 2026-10-22 on two critical PHP vulnerabilities (CVE-2026-109618 and CVE-2026-109619), directing government institutions to patch within seven days and report to them ([source, 2026-10-22](https://www.myjoyonline.com/csa-and-nita-order-government-institutions-to-fix-critical-php-vulnerabilities-within-seven-days/)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 The national cyber body published an account of incidents it dealt with for a period to 2026.
 
@@ -55,7 +55,7 @@ The national cyber body published an account of incidents it dealt with for a pe
 - Cabinet Secretary Kabogo said the government established the National Cybersecurity Agency through a presidential order published in the Kenya Gazette to lead national coordination and run the National Cybersecurity Operations Centre ([source, 2026-10-28](https://www.kenyanews.go.ke/calls-to-boost-ai-driven-cybersecurity-cooperation-against-cybercrime/)).
 - Communications Authority Director General David Mugonyi says Kenya promulgated the Cybercrime and Computer Misuse (Critical Information Infrastructure and Cybercrime Management) Regulations in early 2024 to secure critical information infrastructure in sectors such as e-government, telecommunications, banking, transport, energy and health ([source, 2024](https://www.ca.go.ke/ca-lay-2500km-fibre-accross-19-counties)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Morocco's DGSSI issues alerts and publishes yearly figures, and vital-importance infrastructures must declare incidents to it.
 

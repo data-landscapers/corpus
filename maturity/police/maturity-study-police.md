@@ -75,7 +75,7 @@ Tested at P3 (`ladder-test.csv`); rung 5 is unreached and stands. **Fixed at P5*
 | 2 Preparing | A system for stations is being prepared or piloted; or one runs at headquarters or in the capital only | Any, or not stated | Pilot stations, or none |
 | 3 Establishing | O or C: past its pilot and live in some stations outside the capital | `connected`, `local` or `keyed-elsewhere` | A minority, a count with no total, or not published |
 | 4 Operating | O or C | `connected` | More than half, on a share or a count with a denominator |
-| 5 Leading | O and C | `connected` | 90 per cent or more, on a figure published within two years that gives the rural share |
+| 5 Mature | O and C | `connected` | 90 per cent or more, on a figure published within two years that gives the rural share |
 
 **Pilot or live, and preparation, are read as the schools study reads them** (its §4).
 

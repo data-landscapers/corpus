@@ -11,7 +11,7 @@ window three years:
 1. **Preparing**: a `use` of `preparing`, or a yes to any later question.
 2. **Published**: a `use` of `published`, or any `source` or `series` row.
 3. **Operating**: one administrative source published twice.
-4. **Leading**: three administrative sources, each published twice.
+4. **Mature**: three administrative sources, each published twice.
 
 **A publication is a `source` row's product**, `system` read as its set of words, so one report
 named two ways or carried by two rows counts once. A `series` row, a dated statement that a

@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a provider licensed |
 | 3 Establishing | Yes to 2: on sale to households or businesses |
 | 4 Operating | Yes to 3: on sale from two satellite networks |
-| 5 Leading | Yes to 4: subscribers counted by the regulator |
+| 5 Mature | Yes to 4: subscribers counted by the regulator |
 
 - **Only question 4 has a window.** A licence or a service stays in place until a later source says it has been suspended, withdrawn or stopped; a suspension of sales takes a country back to stage 2.
 - **Stage 3 is the row's stage 3 as it stands.** The row's stage 2 also took a pending application or a draft framework; neither is a licence, so a country with only those now sits at stage 1 where a source says nothing is licensed, and is otherwise unplaced.

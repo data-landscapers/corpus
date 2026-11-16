@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: the budget gives money to digital transformation |
 | 3 Establishing | Yes to 1 and 2: and the money rose in the latest budget |
 | 4 Operating | Yes to 1, 2 and 3: and the government said it must be paid for at home, and acted |
-| 5 Leading | Yes to all four: and what was spent is published |
+| 5 Mature | Yes to all four: and what was spent is published |
 
 - **Corpus's own budget tables answer three of the four before anything is read**: a digital line from 2024 or later for 52 countries, lines in both of the last two budget years for 44, and an amount spent for 28.
 - **A fall in the latest budget is a no to question 2 and stops the count, whatever comes after.**

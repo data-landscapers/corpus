@@ -14,13 +14,13 @@ The Abuja Treaty, Article 67, commits member states to a common policy on standa
 | 2 Preparing | Yes to 1: a standards body exists |
 | 3 Establishing | Yes to 1 and 2: it has issued a national standard on information technology or data |
 | 4 Operating | Yes to 1, 2 and 3: certification against one is on offer in the country |
-| 5 Leading | Yes to all four: a public body has been certified in the last three years |
+| 5 Mature | Yes to all four: a public body has been certified in the last three years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 1 |
 | 3 Established | 9 |
 | 2 Nascent | 37 |
@@ -30,7 +30,7 @@ The Abuja Treaty, Article 67, commits member states to a common policy on standa
 
 ## Countries
 
-### Mauritius: 5 Leading
+### Mauritius: 5 Mature
 
 Mauritius's standards bureau certifies against the national information security standard; six public bodies held its certificates at the end of 2025.
 

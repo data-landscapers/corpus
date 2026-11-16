@@ -14,13 +14,13 @@ Agenda 2063, Goal 20, asks that Africa take full responsibility for financing it
 | 2 Preparing | Yes to 1: the budget gives money to digital transformation |
 | 3 Establishing | Yes to 1 and 2: and the money rose in the latest budget |
 | 4 Operating | Yes to 1, 2 and 3: and the government said it must be paid for at home, and acted |
-| 5 Leading | Yes to all four: and what was spent is published |
+| 5 Mature | Yes to all four: and what was spent is published |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Mature | 6 |
 | 4 Operating | 4 |
 | 3 Established | 20 |
 | 2 Nascent | 22 |
@@ -30,7 +30,7 @@ Agenda 2063, Goal 20, asks that Africa take full responsibility for financing it
 
 ## Countries
 
-### Congo: 5 Leading
+### Congo: 5 Mature
 
 The 2026 budget raises the digital programme 30.5% to 30.1 billion CFA francs, and a SIM-terminal tax funds digital; its yield is unknown.
 
@@ -39,7 +39,7 @@ The 2026 budget raises the digital programme 30.5% to 30.1 billion CFA francs, a
 - The director general of the digital economy agency ADEN told the National Assembly's finance committee on 16 July 2026 that a tax on newly imported SIM-equipped terminals, set up by the 2026 finance law and in force since 1 June 2026, is paid by importers by bank transfer and is meant to finance the digital ecosystem's structuring projects and connectivity; the article does not name the provision that assigns the yield or give any amount collected ([source, 2026-06-01](https://www.adiac-congo.com/content/assemblee-nationale-presentation-de-la-taxe-sur-les-nouveaux-terminaux-numeriques-cartes-sim)).
 - The record gives the programme at FCFA 23,093,583,163 for 2025 and FCFA 30,139,589,283 for 2026, a rise of 30.5%, against 3.9% for the whole general budget ([source, 2025-12-31](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf)).
 
-### DR Congo: 5 Leading
+### DR Congo: 5 Mature
 
 The universal service fund signed its first rural subsidies in 2026 and 2025 digital spending is published; how much was paid out is not known.
 
@@ -47,7 +47,7 @@ The universal service fund signed its first rural subsidies in 2026 and 2025 dig
 - The FDSU signed its first subsidy conventions with Vodacom, Airtel, Africell and Orange on 8 August 2026, mobilising universal service resources to fund 40 pilot sites in underserved areas ([source, 2026-08-08](https://www.fdsu.cd/blog/rdc-le-fdsu-passe-du-diagnostic-a-laction-avec-les-premieres-conventions-de-subvention-pour-la-connectivite-universelle)).
 - Section 71 rose from FC 60,627,481,411 in 2025 to FC 226,713,223,741 in 2026 (+274%), which the document says is substantially a transfer of the ICT mandate from section 52, not new money ([source, 2025-12-29](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf)).
 
-### Kenya: 5 Leading
+### Kenya: 5 Mature
 
 Kenya's digital budget lines rose 16.8% for 2026/27, the Universal Service Fund pays for projects and spending is published.
 
@@ -56,7 +56,7 @@ Kenya's digital budget lines rose 16.8% for 2026/27, the Universal Service Fund 
 - The Universal Service Fund, administered by the Communications Authority, funded the Digital Superhighway backbone and metro fibre procurement (tenders expected to cost over Sh15 billion per the petitioner), and a 1 October 2024 Attorney-General advisory was relied on by the CA in processing payments; the document does not name the law assigning the fund, and the High Court quashed the advisory on 2026-09-04 but did not nullify the contracts ([source, 2024-10](https://www.pulse.co.ke/story/ag-opinion-clearing-sh15bn-digital-superhighway-tender-quashed-2026090416090271184)).
 - Budget tables: the 37 digital line(s) held in both years total 43,931,556,738 KES for 2026/27 against 37,618,002,025 for 2025/26, +16.8 per cent; 49 lines are held for 2026/27. Dated by the budget document ([source, 2026-06-01](https://treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book_Approved.pdf)).
 
-### Mali: 5 Leading
+### Mali: 5 Mature
 
 The state's digital lines rose 4.1 per cent for 2026, and the universal access fund published its collections and spending for early 2026.
 
@@ -65,7 +65,7 @@ The state's digital lines rose 4.1 per cent for 2026, and the universal access f
 - The fund agency collected FCFA 23.18bn in the first half of 2026 and is financing network extension, access centres, school computer rooms and training of 1,000 young people from its revised 2026 budget ([source, 2026-07-23](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/)).
 - Budget tables: the 7 digital line(s) held in both years total 10,339,800,000 XOF for 2026 against 9,935,715,000 for 2025, +4.1 per cent; 103 lines are held for 2026. Dated by the budget document ([source, 2025-10-02](https://finances.ml/sites/default/files/2025-10/DPPD-PAP2026-2028_27-09-2025.pdf)).
 
-### South Africa: 5 Leading
+### South Africa: 5 Mature
 
 The digital and postal access budget rises for 2026/27 and the universal service fund spent 1.09 billion rand in 2025/26; nothing further is unknown.
 
@@ -73,7 +73,7 @@ The digital and postal access budget rises for 2026/27 and the universal service
 - ICASA collected R1,287,583,749 for the Universal Service and Access Fund over 2021/22 to 2025/26, R281,177,935 in 2025/26 and R251,411,657 in 2024/25, per the Minister's oral reply to question 763; USAASA administers the spending ([source, 2026](https://pmg.org.za/committee-question/41023/)).
 - The same subprogramme rises from R742.9m (2025/26 adjusted) to R767.2m (2026/27), and to R801.1m and R833.3m in the two years after; the line includes the R595.5m postal subsidy ([source, 2026-02-25](https://www.treasury.gov.za/documents/National%20Budget/2026/ene/Vote%2030%20Communications%20and%20Digital%20Technologies.pdf)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 In 2026/27 the ICT ministry's budget rises to 144.7 billion shillings and a levy-funded universal access fund pays out; nothing further is unknown.
 

@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a bill or draft rules, or mobile money allowed by letter alone, and nothing in force |
 | 3 Establishing | Yes to 1 and 2: a law or rules in force |
 | 4 Operating | Yes to 1, 2 and 3: companies that are not banks can be licensed under it |
-| 5 Leading | Yes to all four: a rule requires providers to connect to each other |
+| 5 Mature | Yes to all four: a rule requires providers to connect to each other |
 
 - **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*.
 - **No question has a time limit**; a law or rule stands, with its year, until a dated source says it is repealed, replaced or struck down.

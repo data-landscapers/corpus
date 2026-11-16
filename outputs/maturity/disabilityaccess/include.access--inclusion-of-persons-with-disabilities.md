@@ -20,7 +20,7 @@ The AU Disability Protocol asks for public information in accessible formats and
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Mature | 2 |
 | 4 Operating | 10 |
 | 3 Established | 5 |
 | 2 Nascent | 16 |
@@ -30,13 +30,13 @@ The AU Disability Protocol asks for public information in accessible formats and
 
 ## Countries
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 Morocco's regulator required accessible election broadcasts in 2026, the Idarati portal was redesigned for accessibility, and a 2026 diagnostic audited public institutions.
 
 - A joint study by the Mediator institution, the ONDH and the Secretariat of State for Social Inclusion, presented in March 2026, found only 47.5% of public institutions offer inclusive digital solutions and 25% of administrations are inclusive overall ([source, 2026-03-31](https://fr.le360.ma/societe/personnes-en-situation-de-handicap-seules-25-des-administrations-marocaines-sont-inclusives-le_IH7JZFEDLJHUTK5V2MM3YSNIFY/)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 An audit of how accessible public digital services are was published in 2026.
 

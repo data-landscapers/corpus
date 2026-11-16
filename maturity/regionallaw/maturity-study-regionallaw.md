@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: signed or bound, and nothing more on record |
 | 3 Establishing | Yes to 1 and 2: ratified |
 | 4 Operating | Yes to 1, 2 and 3: a national law or rule gives effect to it |
-| 5 Leading | Yes to all four: reported applied across a border in the last three years |
+| 5 Mature | Yes to all four: reported applied across a border in the last three years |
 
 - **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a national law carrying out a community directive no longer stands in for ratification, nor a licence recognised under an agreement for the agreement in effect.
 - **Questions 1, 2 and 3 have no time limit**; a signature, a ratification and a law stand, with their year, until a dated source says the country has withdrawn or the law is repealed. Question 4 counts for three years.

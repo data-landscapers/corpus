@@ -20,7 +20,7 @@ The African Union's Protocol on Social Protection asks states for a social regis
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Mature | 2 |
 | 4 Operating | 18 |
 | 3 Established | 10 |
 | 2 Nascent | 16 |
@@ -30,14 +30,14 @@ The African Union's Protocol on Social Protection asks states for a social regis
 
 ## Countries
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 In 2026 the social registry was linked by national ID to 27 databases; its main programme pays by card, other programmes' payment is not known.
 
 - The social registry is linked to 27 government databases through the national ID number, per Raafat Shafik of the Ministry of Social Solidarity ([source, 2026-11-06](https://almessa.gomhuriaonline.com/764443/)).
 - The World Bank's Stephane Guimbert says Takaful and Karama, which rests on the Ministry of Social Solidarity's unified social registry of about 12 million households, pays through Meeza cards, digital payments that cut leakages ([source, 2025-06-01](https://english.ahram.org.eg/News/547276.aspx)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 In 2026 the social register held 15.65 million people's ID numbers, and its transfers were paid into digital accounts; per-programme payment counts are not known.
 

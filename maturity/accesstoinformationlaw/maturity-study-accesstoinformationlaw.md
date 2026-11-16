@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a bill or draft, and no law in force |
 | 3 Establishing | Yes to 1 and 2: a law in force |
 | 4 Operating | Yes to 1, 2 and 3: rules made under it, or its oversight body set up |
-| 5 Leading | Yes to all four: the law applied in the last three years |
+| 5 Mature | Yes to all four: the law applied in the last three years |
 
 - **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a commission ruling on a request no longer shows the law is in force or the commission set up.
 - **Questions 1 to 3 have no time limit**; a law stands, with its year, until a dated source says it is repealed, replaced, suspended or struck down.

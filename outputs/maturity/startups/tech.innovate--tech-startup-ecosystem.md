@@ -20,7 +20,7 @@ The Digital Transformation Strategy and the AU Startup Model Law Framework ask f
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 6 |
 | 3 Established | 10 |
 | 2 Nascent | 18 |
@@ -30,7 +30,7 @@ The Digital Transformation Strategy and the AU Startup Model Law Framework ask f
 
 ## Countries
 
-### Tunisia: 5 Leading
+### Tunisia: 5 Mature
 
 About 1,400 startups held the label in 2026 and the state fund of funds had financed 70 through its funds; sums invested are not known.
 

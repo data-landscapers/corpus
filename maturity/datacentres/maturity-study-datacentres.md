@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a data centre for hire in service |
 | 3 Establishing | Yes to 2: one at Tier III or above |
 | 4 Operating | Yes to 3: two at Tier III or above |
-| 5 Leading | Yes to 4: a global cloud region |
+| 5 Mature | Yes to 4: a global cloud region |
 
 - **No question has a window.** A data centre or a cloud region in service stays in service until a later source says it has closed.
 - **The Tier is taken as stated**, certified or claimed; the long summary says which. A Tier III design certificate for a facility in service counts.

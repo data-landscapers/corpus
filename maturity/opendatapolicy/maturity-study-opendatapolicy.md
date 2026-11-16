@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a policy being written, or one that has run out with no successor adopted |
 | 3 Establishing | Yes to 1 and 2: a policy adopted and still running |
 | 4 Operating | Yes to 1, 2 and 3: a government portal is running under it |
-| 5 Leading | Yes to all four: public bodies have published data under it in the last three years |
+| 5 Mature | Yes to all four: public bodies have published data under it in the last three years |
 
 - **Questions 1 to 3 have no time limit**: an adopted policy stands, with its year, until its end date passes or a dated source says it has been replaced or withdrawn.
 - **A statement that there is no policy counts for three years.**

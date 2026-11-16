@@ -20,7 +20,7 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 15 |
 | 3 Established | 19 |
 | 2 Nascent | 6 |

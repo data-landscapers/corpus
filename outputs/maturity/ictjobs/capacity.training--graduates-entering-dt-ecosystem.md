@@ -14,13 +14,13 @@ Agenda 2063's second ten-year plan asks for 40 per cent of graduates in STEM and
 | 2 Nascent | Yes to 1 |
 | 3 Established | Yes to 2 |
 | 4 Operating | Yes to 3 |
-| 5 Leading | Yes to 3 and 4 |
+| 5 Mature | Yes to 3 and 4 |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 8 |
 | 3 Established | 2 |
 | 2 Nascent | 5 |

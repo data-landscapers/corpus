@@ -20,7 +20,7 @@ The Kampala Convention asks for registers and documents for internally displaced
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Mature | 6 |
 | 4 Operating | 4 |
 | 3 Established | 18 |
 | 2 Nascent | 13 |
@@ -30,7 +30,7 @@ The Kampala Convention asks for registers and documents for internally displaced
 
 ## Countries
 
-### Djibouti: 5 Leading
+### Djibouti: 5 Mature
 
 Refugees were registered and issued documents in 2025, and 158 refugee teachers opened bank accounts in 2024; a wider count is not known.
 
@@ -38,7 +38,7 @@ Refugees were registered and issued documents in 2025, and 158 refugee teachers 
 - UNHCR reports MENFOP helped 158 refugee teachers in Ali Addeh and Holl-Holl open bank accounts at East Africa Bank ([source, 2024-03](https://reliefweb.int/attachments/cdde8002-a416-4ea1-a6f9-05412c05d89c/HCR%20Djibouti_Operational%20Update_Mars%202024%20.pdf)).
 - UNHCR reports 158 refugee teachers were helped to open East Africa Bank accounts ([source, 2024-03](https://reliefweb.int/attachments/cdde8002-a416-4ea1-a6f9-05412c05d89c/HCR%20Djibouti_Operational%20Update_Mars%202024%20.pdf)).
 
-### Ethiopia: 5 Leading
+### Ethiopia: 5 Mature
 
 The number of refugees or displaced people using digital services was published in 2026.
 
@@ -46,7 +46,7 @@ The number of refugees or displaced people using digital services was published 
 - The World Bank ISR reports refugees holding Fayda IDs, 191,335 by 23 March 2026 ([source, 2026-03-23](https://documents1.worldbank.org/curated/en/099051826154014658/pdf/P179040-a6dcbb64-0dbc-48cc-9c1d-eecfc41d1d44.pdf)).
 - The World Bank ISR gives 191,335 refugees with a Fayda ID at 23 March 2026 ([source, 2026-03-23](https://documents1.worldbank.org/curated/en/099051826154014658/pdf/P179040-a6dcbb64-0dbc-48cc-9c1d-eecfc41d1d44.pdf)).
 
-### Mauritania: 5 Leading
+### Mauritania: 5 Mature
 
 The number of refugees or displaced people using digital services was published in 2023.
 
@@ -54,7 +54,7 @@ The number of refugees or displaced people using digital services was published 
 - UNHCR states refugees in the camp have access to financial products including bank accounts ([source, 2023](https://reliefweb.int/attachments/f7061047-915e-4e87-a705-a8682c49a725/Mauritania%20Factsheet%20-%20March%202024%20%281%29.pdf)).
 - UNHCR states the number of refugees in the camp with access to financial products, including bank accounts, rose from 2,400 in 2022 to 5,600 in 2023 ([source, 2023](https://reliefweb.int/attachments/f7061047-915e-4e87-a705-a8682c49a725/Mauritania%20Factsheet%20-%20March%202024%20%281%29.pdf)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 The number of refugees or displaced people using digital services was published in 2026.
 
@@ -62,7 +62,7 @@ The number of refugees or displaced people using digital services was published 
 - NIMC's director-general says refugees and internally displaced persons have been enrolled into the national identity database so that no one is left behind ([source, 2026-05-15](https://www.vanguardngr.com/2026/05/nimc-enrolls-206000-refugees-idps-32000-inmates/)).
 - NIMC's director-general puts refugees and internally displaced persons enrolled in the national identity database at over 206,000 ([source, 2026-05-15](https://www.vanguardngr.com/2026/05/nimc-enrolls-206000-refugees-idps-32000-inmates/)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 In 2024, 76% of adult refugees held a registered mobile money account, and refugees may enrol in the digital ID.
 
@@ -70,7 +70,7 @@ In 2024, 76% of adult refugees held a registered mobile money account, and refug
 - NIDA says the national digital ID registration exercise covers refugees, with camp refugees registering at camp level and urban refugees at sector or cell offices, on presenting a refugee ID or proof of registration ([source, 2026-02-07](https://www.newtimes.co.rw/article/33156/news/technology/digital-id-nearly-15m-enrolled-registration-reaches-kigali)).
 - The FinScope 2024 refugees report, presented by Access to Finance Rwanda, says 76 percent of adult refugees own registered mobile money accounts and 37 percent use bank accounts ([source, 2025-06-20](https://afr.rw/new-report-99-percent-refugees-in-rwanda-are-financially-included/)).
 
-### Somalia: 5 Leading
+### Somalia: 5 Mature
 
 The number of refugees or displaced people using digital services was published in 2026.
 

@@ -14,13 +14,13 @@ The African Continental Free Trade Area's annex on technical barriers to trade, 
 | 2 Preparing | Yes to 1: the standards body is a member |
 | 3 Establishing | Yes to 1 and 2: an international standard on information technology or data is a national standard |
 | 4 Operating | Yes to 1, 2 and 3: public bodies must meet a named international standard |
-| 5 Leading | Yes to all four: the country has taken part in writing such standards in the last three years |
+| 5 Mature | Yes to all four: the country has taken part in writing such standards in the last three years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 0 |
 | 3 Established | 6 |
 | 2 Nascent | 38 |

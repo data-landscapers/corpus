@@ -20,7 +20,7 @@ The African Union's interoperability framework and Data Policy Framework ask tha
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 6 |
 | 3 Established | 16 |
 | 2 Nascent | 9 |
@@ -30,7 +30,7 @@ The African Union's interoperability framework and Data Policy Framework ask tha
 
 ## Countries
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 Payroll, tax and social security used the ID number, and 2024 checks removed 73,000 ghost names; no audited payroll figure is published.
 

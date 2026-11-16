@@ -20,7 +20,7 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Mature | 2 |
 | 4 Operating | 16 |
 | 3 Established | 19 |
 | 2 Nascent | 2 |
@@ -30,7 +30,7 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 
 ## Countries
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 In 2025 Ghana's national ID card served as the tax number, issued online and at business registration; how many taxpayers use it is not known.
 
@@ -38,7 +38,7 @@ In 2025 Ghana's national ID card served as the tax number, issued online and at 
 - GRA says its TIN Centre is co-located at the Registrar-General's Department as a one-stop shop issuing the organisation's TIN during business registration, and organisations register for TIN only after registering with the RGD ([source, 2026-08-29](https://gra.gov.gh/tin/)).
 - The NIA Executive Secretary says the Ghana Card already serves as the Taxpayer Identification Number ([source, 2025-09-18](https://atlfmnews.com/nia-to-integrate-student-database-with-ghana-card-for-easy-access/)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 The taxpayer number was tied to the national ID in 2026.
 

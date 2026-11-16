@@ -14,13 +14,13 @@ The African Charter on Statistics (2009) obliges its parties to bring national l
 | 2 Preparing | Yes to 1: a bill or draft, and no law in force |
 | 3 Establishing | Yes to 1 and 2: a law in force |
 | 4 Operating | Yes to 1, 2 and 3: rules made under it |
-| 5 Leading | Yes to all four: the law applied in the last three years |
+| 5 Mature | Yes to all four: the law applied in the last three years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Mature | 6 |
 | 4 Operating | 9 |
 | 3 Established | 38 |
 | 2 Nascent | 1 |
@@ -30,14 +30,14 @@ The African Charter on Statistics (2009) obliges its parties to bring national l
 
 ## Countries
 
-### Angola: 5 Leading
+### Angola: 5 Mature
 
 Angola's 2011 statistics law is in force; a March 2026 decree under it reset the statistics institute's statute, and a revision is in consultation.
 
 - Decreto Presidencial n.º 43/26 of 10 March 2026 is the organic statute of INE, setting it up as central executive body of the national statistical system under the Lei do Sistema de Estatística Nacional and revoking the 2017 statute ([source, 2026-03-10](https://lex.ao/docs/presidente-da-republica/2026/decreto-presidencial-n-o-43-26-de-10-de-marco/)).
 - The document is the text of Angola's Lei n.º 3/11 of 14 January 2011, the Lei do Sistema Estatístico Nacional, passed by the Assembleia Nacional and published in the Diário da República I Série n.º 9 on that date; it replaces the 1996 statistics law (Lei n.º 15/96) and sets up the national statistical system ([source, 2011-01-14](https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-3-11-de-14-de-janeiro/)).
 
-### Burkina Faso: 5 Leading
+### Burkina Faso: 5 Mature
 
 Burkina Faso's 2021 statistics law is in force; an August 2025 decree under it reorganised the statistics council, and the statistics fund's rules are awaited.
 
@@ -45,7 +45,7 @@ Burkina Faso's 2021 statistics law is in force; an August 2025 decree under it r
 - The INSD page says decree No. 2025-1095/PF/PRIM/MEF, dated 26 August 2025 per the source note, sets the attributions, organisation and operation of the national statistical system and its national statistics council (CNS), with a named chair, bureau and membership; the page itself does not name the 2021 law ([source, 2025-08-26](https://www.insd.bf/Coordination-statistiques/cns)).
 - The SDS5 states Burkina Faso adopted a new statistics law, Loi n°036-2021/AN of 6 December 2021 on the organisation and regulation of statistical activities, and uses it as the framework defining the national statistical system's mission ([source, 2021-12-06](https://www.insd.bf/sites/default/files/2026-04/%5BSDS5-BF%5D_SDS-2026-2030.pdf)).
 
-### Burundi: 5 Leading
+### Burundi: 5 Mature
 
 Burundi's statistics law, amended in 2021 and 2023, has decrees on its council and authority, and survey visas and council sessions applied it through 2026.
 
@@ -54,21 +54,21 @@ Burundi's statistics law, amended in 2021 and 2023, has decrees on its council a
 - A 2024 visa decision cites decrees 100/152 and 100/153 of 16 November 2022, which create the national statistical information committee (CNIS) and the national statistical authority, the statistics institute INSBU, and set their composition and rules ([source, 2022-11-16](https://www.insbu.bi/documents/visas/DECISION-N%C2%B0540.95.637.2024-DU-22.07.2024-PORTANT-OCTROI-DU-VISA-STATISTIQUE-AU-PROTOCOLE-DE-LETUDE-DEVALUATION-DIMPACTS-SOCIO-ECONOMIQUES-DU-PHENOMENE-EL-NINO-AU-BURUNDI.pdf)).
 - Loi n°1/18 of 24 July 2023 amends the 2021 statistics law: it sets up the national statistical authority, the national statistical information committee (CNIS) and its technical committee, makes nationally representative surveys subject to a statistical visa, and enters into force on promulgation ([source, 2023-07-24](https://www.insbu.bi/documents/lois/Loi-N%C2%B0-1-18-du-24-juillet-2023-portant-organisation-du-SSN-du-Burundi.pdf)).
 
-### Cote d'Ivoire: 5 Leading
+### Cote d'Ivoire: 5 Mature
 
 Côte d'Ivoire's 2013 statistics law, amended in 2020, is in force, and three decrees applying it were adopted in June 2025.
 
 - On 18 June 2025 the Council of Ministers adopted three decrees applying the statistics law: on the visa for surveys and censuses by bodies of the National Statistical System, on the pricing of statistical products and services, and on passing administrative files to the system's administrations for statistical use ([source, 2025-06-18](https://web.sgg.gouv.ci/publications/conseils-des-ministres/details/3009)).
 - The Council of Ministers communiqué of 18 June 2025 names law 2020-950 of 7 December 2020, amending and completing law 2013-537 of 30 July 2013 on the organisation of the National Statistical System, as the law its decrees apply ([source, 2020-12-07](https://web.sgg.gouv.ci/publications/conseils-des-ministres/details/3009)).
 
-### Gabon: 5 Leading
+### Gabon: 5 Mature
 
 Gabon's statistics law, amended in 2022, is in force; an August 2024 decree under it approved the statistics institute's statutes.
 
 - Décret n°0314/PR/MPP of 1 August 2024 (signed 2 August, published in Journal Officiel n°31 of 15 August 2024) approves the statutes of the Institut National de la Statistique, citing the statistics law among its legal bases ([source, 2024-08-01](https://journal-officiel.ga/21242-0314-pr-mpp-/)).
 - The state news agency reports that loi n°15/2014 of 7 January 2015 instituting and organising the national statistical system, as modified by loi n°016/2022 of 6 September 2022, is the legislation currently in force ([source, 2015](https://agpgabon.ga/gabon-conseil-des-ministres-vers-la-revision-du-cadre-legal-du-systeme-statistique-national/)).
 
-### Togo: 5 Leading
+### Togo: 5 Mature
 
 Togo's 2011 statistics law is in force with decrees of 2012 and 2015, and its statistics council met in June 2026.
 

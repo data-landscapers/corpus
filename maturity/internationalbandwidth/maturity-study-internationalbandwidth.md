@@ -44,7 +44,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: one route |
 | 3 Establishing | Yes to 2: two or more routes, sharing one landing station or one neighbour, or with no high-capacity cable |
 | 4 Operating | Yes to 3 and 3a: two independent routes, and a high-capacity cable carries the country's traffic |
-| 5 Leading | Yes to 4: two independent routes, a high-capacity cable, and capacity sold to other operators |
+| 5 Mature | Yes to 4: two independent routes, a high-capacity cable, and capacity sold to other operators |
 
 - **High-capacity cables** *(Bill, 2026-10-30)*: more than 100 Tbps design capacity, the cable's whole system and not the branch. 2Africa, Equiano and Medusa count; Umoja, Waterworth and Seacom 2.0 count once a source says they carry traffic. Another cable counts where a source states its design capacity above 100 Tbps. `high-capacity.csv` names, per country, the row that shows such a cable carrying its traffic; a stager adds a line when a cell reaches question 3a.
 - **A cable a source says the country "already lands" is in service** *(Bill, 2026-11-09, message 82)*: the benefit of the doubt goes to the landing. Gabon's 2Africa answers the high-capacity test.

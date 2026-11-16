@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a strategy being written, or one that has run out with no successor adopted |
 | 3 Establishing | Yes to 1 and 2: a strategy adopted and still running |
 | 4 Operating | Yes to 1, 2 and 3: a body is named to carry it out |
-| 5 Leading | Yes to all four: public money has gone into carrying it out |
+| 5 Mature | Yes to all four: public money has gone into carrying it out |
 
 - **Questions 1 to 3 have no time limit**: an adopted strategy stands, with its year, until its end date passes or a dated source says it has been replaced or withdrawn.
 - **A statement that there is no strategy counts for three years.**

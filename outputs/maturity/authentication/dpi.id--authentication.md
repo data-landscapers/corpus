@@ -20,7 +20,7 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 14 |
+| 5 Mature | 14 |
 | 4 Operating | 13 |
 | 3 Established | 10 |
 | 2 Nascent | 10 |
@@ -30,21 +30,21 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 
 ## Countries
 
-### Cape Verde: 5 Leading
+### Cape Verde: 5 Mature
 
 People could prove who they are online with a digital ID in 2024.
 
 - The page says citizens holding the National ID Card can obtain the CMDCV online and authenticate with a PIN plus a one-time code received by SMS or through the CMDCV mobile application, with a qualified electronic signature ([source, 2024](https://portal-autentika.gov.cv/en/cabo-verde-mobile-digital-key)).
 - IMIJ states SNIAC supplies identification and authentication (e-ID) data and services to dozens of public and private bodies, including banks and insurers, through more than 134 configured services/APIs and over 30 million requests ([source, 2026-01-12](https://imij.gov.cv/noticias/cms-noticia-24)).
 
-### Djibouti: 5 Leading
+### Djibouti: 5 Mature
 
 People could prove who they are online with a digital ID in 2026.
 
 - The Interior Ministry says Mobile ID, a smartphone digital identity, lets citizens carry out administrative procedures remotely ([source, 2026-02-10](https://interieur.gouv.dj/forum-sur-lidentite-numerique-et-lancement-du-projet-mobile-id/)).
 - The Interior Ministry says partner administrations use Mobile ID's authentication services, without direct access to the databases ([source, 2026-02-10](https://interieur.gouv.dj/forum-sur-lidentite-numerique-et-lancement-du-projet-mobile-id/)).
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 From November 2026 citizens proved who they are online in a state identity app for a justice service; how many use it is not known.
 
@@ -54,7 +54,7 @@ From November 2026 citizens proved who they are online in a state identity app f
 - The Ministry of Social Solidarity launched on 29 August 2026 phase one of its digital foster-family services system, which the ICT ministry says is linked to the digital identity system so citizens can sign in securely ([source, 2026-08-29](https://www.youm7.com/story/2026/8/29/التضامن-تطلق-أولى-مراحل-منظومة-الخدمات-الرقمية-الخاصة-بالأسر-البديلة/7529204)).
 - The Public Prosecution says its criminal-judgment enquiry service is provided through the enquirer's digital identity system, with the Ministry of Communications and IT, to verify the identity of the person asking ([source, 2026-07-27](https://gate.ahram.org.eg/News/5838334.aspx)).
 
-### Ethiopia: 5 Leading
+### Ethiopia: 5 Mature
 
 In 2026 people opened bank accounts remotely with their national digital ID; no source found says how many use its wallet.
 
@@ -62,7 +62,7 @@ In 2026 people opened bank accounts remotely with their national digital ID; no 
 - Biometric Update reports Dashen Bank lets customers open accounts remotely with a mobile number and Fayda credentials, linking account opening to the national biometric identity database ([source, 2026-04-07](https://www.biometricupdate.com/202604/dashen-bank-launches-ethiopias-first-digital-id-based-accounts)).
 - One hundred and fifty enterprises have integrated Fayda to carry out biometric KYC checks, per the article ([source, 2026-08-04](https://www.biometricupdate.com/202608/faydaverse-officially-enters-africas-dpi-market)).
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 A government app launched in 2024 creates a digital ID from the Ghana Card for public services; no source found reports its use since.
 
@@ -70,7 +70,7 @@ A government app launched in 2024 creates a digital ID from the Ghana Card for p
 - Biometric Update reports that on 7 October 2024 Ghana launched CADIS, which verifies identity by scanning the Ghana Card and entering a phone number, with biometric single sign-on drawing on National Identification Authority data ([source, 2024-10-07](https://www.biometricupdate.com/202410/ghana-launches-citizenapp-to-facilitate-access-to-digital-govt-services)).
 - The NIA chief says GRA, NHIS, the Passport Office and commercial banks all use NIA biometric verification, with the first three owing $457 million for it ([source, 2025-09-21](https://myrepubliconline.com/nia-threatens-service-cut-over-gra-nhia-and-passport-office-457m-debt/)).
 
-### Malawi: 5 Leading
+### Malawi: 5 Mature
 
 People could prove who they are online with a digital ID in 2026.
 
@@ -78,14 +78,14 @@ People could prove who they are online with a digital ID in 2026.
 - The Nzika Wallet lets citizens present verified credentials digitally and can be used to access services before receiving a physical card, per the Homeland Security Minister ([source, 2026-09-16](https://mwnation.com/national-ids-to-last-a-lifetime/)).
 - The 2026 NRB fee regulations name e-KYC verification charges for mobile money subscribers, SIM card holders, bank account holders and utility services, per Malawi24 ([source, 2026-07-31](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/)).
 
-### Mauritania: 5 Leading
+### Mauritania: 5 Mature
 
 People could prove who they are online with a digital ID in 2024.
 
 - TECH5 says a digital ID is created from a passport or ID card, stored on the holder's phone and verified by selfie to log in to the eGovernment portal; the app has been released ([source, 2024-08-15](https://tech5.ai/mauritania-digital-id-undp-funding/)).
 - Tech Rek states Houwiyeti is the gateway public and private services use to verify citizens' identity, with private financial apps using the identity verification system at user registration alongside the public Khadamati services (as_of is the published date) ([source, 2026-08](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/)).
 
-### Mauritius: 5 Leading
+### Mauritius: 5 Mature
 
 People could prove who they are online with a digital ID in 2024.
 
@@ -93,7 +93,7 @@ People could prove who they are online with a digital ID in 2024.
 - L'Express reports that since 29 September 2026 licence holders (about 884,000) can view their digital driving licence on the KOREK! app, with MauPass providing the identification and authentication and police systems the data ([source, 2026-09-29](https://lexpress.mu/node/563226)).
 - The Unit says MauPass gives access to government services online, and registered public and private entities will be authorised to read card and mobile ID data ([source, 2024-02-19](https://mnis.govmu.org/)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 People could prove who they are online with a digital ID in 2026.
 
@@ -101,7 +101,7 @@ People could prove who they are online with a digital ID in 2026.
 - Mon e-ID is already in use to let citizens carry the digital version of their national ID card, per DGSN officials ([source, 2026-05](https://www.biometricupdate.com/202606/morocco-moves-national-id-renewal-online-as-digital-identity-modernization-advances)).
 - Biometric Update reports that the ministries of Justice, Habitat and Youth, CNSS, DGI and TGR have adopted Mon e-ID, with banks and telecoms following ([source, 2025-09-24](https://www.biometricupdate.com/202509/idakto-cso-explains-moroccos-move-to-prioritize-digital-id-after-cyberattacks)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 In 2026 people used an identity app to prove who they are for SIM, passport, tax and banking; no source says how many use it.
 
@@ -109,7 +109,7 @@ In 2026 people used an identity app to prove who they are for SIM, passport, tax
 - Arise News reports NIMC encourages Nigerians to download the NIN Authentication (NINAuth) app for secure digital verification ([source, 2026-03-04](https://www.arise.tv/nimc-intensifies-ward-level-nin-enrolment-nationwide/)).
 - The article says SIM registration, tax filing and banking now run through the same NINAuth identity rail, alongside police, road safety and immigration services (published date used) ([source, 2026-10-05](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/)).
 
-### Somalia: 5 Leading
+### Somalia: 5 Mature
 
 People could prove who they are online with a digital ID in 2026.
 
@@ -117,7 +117,7 @@ People could prove who they are online with a digital ID in 2026.
 - A Mogadishu user said she obtained a valid digital ID at home through the eAqoonsi app without revisiting a NIRA center; Google Play shows over 50,000 downloads ([source, 2026-04](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx)).
 - NIRA says 100+ services are integrated with the national ID, among them the Accountant General's online signature services, banks, telecoms SIM registration and the education, transport and civil service bodies ([source, 2026](https://id4africa.com/2026/files/T1-3-3-Somalia-FINAL.pdf)).
 
-### Sudan: 5 Leading
+### Sudan: 5 Mature
 
 People could prove who they are online with a digital ID in 2026.
 
@@ -125,14 +125,14 @@ People could prove who they are online with a digital ID in 2026.
 - Digital identity is issued through certifiers licensed by the National Electronic Authentication Authority and gives access to governmental and commercial services ([source, 2026-05-21](https://sudapass.gov.sd/terms?lang=en)).
 - SUNA reports Omdurman National Bank became the first bank in Sudan to activate the link, so customers inside and outside Sudan update their data on its digital channels with SudaPass verifying their identity ([source, 2026-09-26](https://www.suna.sd/posts/bnk-am-drman-alotny-aol-bnk-ytyh-thdyth-byanat-alaamlaaa-rkmya-bastkhdam-sodabas)).
 
-### Tunisia: 5 Leading
+### Tunisia: 5 Mature
 
 People could prove who they are online with a digital ID in 2026.
 
 - The playbook says the Mobile ID gives simple, secure access to digital services, and gives +450K Mobile IDs linked to a phone number and +35K linked to devices, with electronic signature of documents and contracts in the citizen portal ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 - The playbook lists E-Houwiya as integrated by services of many bodies, including the transport and communications ministry portals, education, CNAM, CNSS, the business register, Tunisie Telecom, five named banks and La Poste ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
-### Uganda: 5 Leading
+### Uganda: 5 Mature
 
 A government app verifies users of e-services, with over 10 million subscribers in 2025; no source found reports independent use figures.
 

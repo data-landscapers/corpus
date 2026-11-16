@@ -20,7 +20,7 @@ The African Union's Digital Transformation Strategy asks for interoperable e-mon
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 28 |
+| 5 Mature | 28 |
 | 4 Operating | 15 |
 | 3 Established | 11 |
 | 2 Nascent | 0 |
@@ -30,7 +30,7 @@ The African Union's Digital Transformation Strategy asks for interoperable e-mon
 
 ## Countries
 
-### Algeria: 5 Leading
+### Algeria: 5 Mature
 
 A national switch connected Algerie Poste and bank accounts in 2025.
 
@@ -38,91 +38,91 @@ A national switch connected Algerie Poste and bank accounts in 2025.
 - Alger 16 reports interbank QR code and P2P payments under DZ Mob Pay run on the interoperability of the national mobile switch put in service in June 2024 ([source, 2026-06](https://alger16.dz/?p=65795)).
 - Algérie Éco, citing GIE Monétique, says DZ Mob Pay interbank payments rest on the national mobile switch put in service in June 2024, with seven pilot banks ([source, 2025-12](https://algerie-eco.com/2026/02/18/algerie-le-montant-des-paiements-electroniques-sest-eleve-a-939-milliards-de-dinars-en-2025-46/)).
 
-### Angola: 5 Leading
+### Angola: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2026.
 
 - Expansão reports Kwik, launched by the Banco Nacional de Angola in June 2023, carries instant transfers between banks and digital wallets, with Kz 557.4bn moved in the first half of 2026 ([source, 2026-06](https://www.expansao.co.ao/angola/detalhe/movimentos-entre-carteiras-digitais-valem-apenas-06-no-kwik-74789.html)).
 - KWiK, reported by EMIS, handled 3.14 million transfers worth 74.6 billion kwanzas in February 2026 across wallets and banks, with 12.3 million registered accounts ([source, 2026-02](https://angop.ao/noticias/economia/paypay-ultrapassa-1-6-milhoes-de-transferencias-mensais-no-kwik/)).
 
-### Burundi: 5 Leading
+### Burundi: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2026.
 
 - BurundiPay is described as the national instant payment system run by the BRB, live since 5 March 2026 and launched publicly on 23 April 2026 ([source, 2026-08-04](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/)).
 - BurundiPay is described as the national instant payment system connecting commercial banks, microfinance institutions and payment service providers in a single network, also reachable by USSD ([source, 2026-04-23](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank)).
 
-### Cameroon: 5 Leading
+### Cameroon: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2023.
 
 - AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including Cameroon ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
 
-### Central African Republic: 5 Leading
+### Central African Republic: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2023.
 
 - AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including the Central African Republic ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
 
-### Chad: 5 Leading
+### Chad: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2023.
 
 - AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including Chad ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
 
-### Comoros: 5 Leading
+### Comoros: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2026.
 
 - The central bank describes Komor Switch as the national payment infrastructure interconnecting all banks, financial institutions and mobile money services ([source, 2026-05-12](https://banque-comores.km/uploads/BCC-livret(3).pdf)).
 - Al-Watwan reports Komor Switch is a national platform connecting all banks and mobile money services, launched officially by the president ([source, 2026-05-04](https://alwatwan.net/economie/secteur-bancaire-i-les-comores-inaugurent-de-nouveaux-modes-et-syst%C3%A8mes-de-paiement.html)).
 
-### Congo: 5 Leading
+### Congo: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2023.
 
 - AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including the Republic of Congo ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2025.
 
 - The InstaPay instant payments network, launched March 2022, handles personal, commercial and account-to-wallet transfers, with over 1.1 billion operations, per banking expert Walid Adel ([source, 2025-06](https://www.elwatannews.com/news/details/8325979)).
 
-### Equatorial Guinea: 5 Leading
+### Equatorial Guinea: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2023.
 
 - AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including Equatorial Guinea ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
 
-### Eswatini: 5 Leading
+### Eswatini: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2026.
 
 - The Central Bank of Eswatini says the national Eswatini Payment Switch connects banks and mobile money providers in service, 24/7 ([source, 2026-09-21](https://www.eswatiniobserver.com/eswatini-payment-system-enters-new-era/)).
 - The article says the Eswatini Payment Switch connects banks and non-bank payment providers, with real-time transfers between bank accounts and wallets in service ([source, 2026-09-09](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/)).
 
-### Ethiopia: 5 Leading
+### Ethiopia: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2026.
 
 - Capital describes EthSwitch as Ethiopia's national payment switch linking banks, payment-service providers, merchants and the mobile-money platforms ([source, 2026-10-04](https://capitalethiopia.com/2026/10/04/mobile-money-wallets-set-to-link-with-papss-opening-access-to-african-markets/)).
 - EthSwitch is described as Ethiopia's national payment switch, linking banks, payment institutions and other participants with instant-payment infrastructure and interoperable QR payments ([source, 2026-09-10](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage)).
 
-### Gabon: 5 Leading
+### Gabon: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2023.
 
 - AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including Gabon ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
 
-### Gambia: 5 Leading
+### Gambia: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2025.
 
 - The Point says BANTABA 2.0 is a national backbone connecting banks, mobile money operators, MFIs, fintechs and PSPs through a single interoperable switch with real-time clearing and settlement, operated by Gamswitch after a pilot ([source, 2025-12-15](https://thepoint.gm/africa/gambia/headlines/gambia-launches-bantaba-2-0-first-real-time-interoperable-payment-system)).
 - The release says BANTABA 2.0 connects banks, mobile money operators, microfinance institutions, fintechs and PSPs through a single interoperable switch, live after a pilot, with further institutions to join ([source, 2025-12-15](https://www.gamswitch.com/press-release/the-gambia-launches-bantaba-2-0-its-first-real-time-interoperable-payment-system)).
 
-### Ghana: 5 Leading
+### Ghana: 5 Mature
 
 Mobile money, payments between providers and a national switch linking wallets and banks were all in service in 2026.
 
@@ -130,40 +130,40 @@ Mobile money, payments between providers and a national switch linking wallets a
 - The Bank of Ghana reports mobile money interoperability in August 2026 at 35.7 million transactions worth GHC 6.5 billion ([source, 2026-08](https://www.bog.gov.gh/wp-content/uploads/2026/09/Summary-of-Economic-and-Financial-Data-September-2026.pdf)).
 - The Bank of Ghana's head of fintech describes GhIPSS as the national interoperable payment infrastructure linking banks and mobile money operators ([source, 2026-10-22](https://channelonenewsonline.com/2026/10/22/bank-of-ghana-pushes-for-seamless-african-cross-border-payments/)).
 
-### Guinea: 5 Leading
+### Guinea: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2026.
 
 - AGUIDUTEN described NimbaPay as the national instant payment platform connecting banks, e-money institutions and microfinance institutions, launched with the central bank and Guineenne de Monetique ([source, 2026-07-26](https://focusguinee.info/2026/07/26/laguiduten-salue-le-lancement-de-nimbapay-la-plateforme-nationale-de-paiement-instantane/)).
 - The document describes NimbaPay as Guinea's national instant payment system connecting banks and electronic money institutions, launched on 23 July 2026 ([source, 2026-07-23](https://www.itnewsafrica.com/2026/07/guinea-launches-nimbapay-opening-a-new-era-of-instant-and-inclusive-digital-payments/)).
 
-### Lesotho: 5 Leading
+### Lesotho: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2025.
 
 - LeSwitch, formerly the National Payment Switch, connects banks and mobile money wallets and now carries local ATM and POS debit card transactions, with POS in pilot from 11 May 2025 ([source, 2025-05-11](https://publiceyenews.com/2025/05/20/leswitch-expands-to-pos-transactions)).
 - LeSwitch connects POS terminals, ATMs and mobile money into a single central hub, with its fast-payments phase launched 20 March 2024 ([source, 2024-03-20](https://www.standardlesothobank.co.ls/lesotho/personal/About-us/press-releases/press-release-lesotho-national-payment-switch-leswitch)).
 
-### Liberia: 5 Leading
+### Liberia: 5 Mature
 
 The central bank's instant payment system connected mobile money wallets and bank accounts in 2026.
 
 - The Central Bank of Liberia deputy governor says the recently launched instant and interoperable payment system enables payments across banks and mobile network operators ([source, 2026-08](https://www.liberianobserver.com/business/cbl-backs-lra-s-move-to-billion-revenue-drive/article_7ef5e649-7ccd-4187-91bc-d17d1a19505c.html)).
 - The speaker says the central bank gave banks and mobile money operators access to its instant payment system to achieve interoperability ([source, 2026-08-16](https://www.linkedin.com/posts/africanenda_bringing-every-stakeholder-to-the-table-isnt-activity-7494679350248820736--7a1)).
 
-### Malawi: 5 Leading
+### Malawi: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2025.
 
 - The Bankers Association of Malawi's chief executive says the National Switch connects banks and wallets for transfers in both directions ([source, 2025-07](https://mwnation.com/banks-respond-to-digital-services-demand-bam/)).
 
-### Mauritania: 5 Leading
+### Mauritania: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2024.
 
 - GIMTEL's launched interconnection links national bank apps and e-wallets in one system, with further providers in technical testing ([source, 2024-10-14](https://fr.saharamedias.net/gimtel-annonce-le-debut-des-transactions-interbancaires-des-differentes-applications/)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 A national switch carried payments from both banks and mobile money institutions in 2026.
 
@@ -171,46 +171,46 @@ A national switch carried payments from both banks and mobile money institutions
 - Switch Al Maghrib's director general said Morocco laid early the foundations of an interoperable mobile payment system, now in place ([source, 2026-09-27](https://lematin.ma/economie/paiement-instantane-les-rails-sont-la-les-usages-restent-a-construire/367355)).
 - CMI says its Fatourati platform connects 32 banks and payment institutions and takes payments through mobile banking, e-banking, wallets, branches and ATMs across more than 70 channels ([source, 2026-02-18](https://www.cmi.co.ma/fr/nos-actualites/le-cmi-lance-fatourati-agregateur-et-ouvre-sa-plateforme-aux-fintechs-et-editeurs-de)).
 
-### Mozambique: 5 Leading
+### Mozambique: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2026.
 
 - Metix, in production since March 2026 and run by SIMO, integrates banks, microbanks and electronic money institutions, with participation by digital wallet operators mandatory, and processes over 11,000 transfers a day ([source, 2026-07-30](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/)).
 - Notice 2/GBM/2026 requires institutions to connect to the National Single Network, which centralises card, terminal and digital-channel processing, as a condition for offering electronic payment services including mobile financial services ([source, 2026-06-02](https://clubofmozambique.com/news/mozambique-financial-institutions-have-60-minutes-to-report-failures/)).
 
-### Nigeria: 5 Leading
+### Nigeria: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2026.
 
 - NIBSS says the National Payment Stack is one rail connecting banks and mobile money operators, and has passed 100 million successful transactions ([source, 2026-09](https://guardian.ng/technology/nibss-national-payment-stack-hits-100m-transactions/)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2026.
 
 - The document says Rwanda made eKash its national instant payment system in July 2026, connecting banks and mobile-money platforms through a common payment infrastructure ([source, 2026-07](https://www.ktpress.rw/2026/09/central-bank-takes-aim-at-cash-as-92-still-rely-on-it/)).
 - NBR calls eKash Rwanda's national instant payment system, reached through banks and mobile money providers, launched nationwide on 14 July 2026 ([source, 2026-07-14](https://www.bnr.rw/documents/Press_Release-_Update_on_the_Performance_of_eKash_Aug_2026.pdf)).
 
-### Sierra Leone: 5 Leading
+### Sierra Leone: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2025.
 
 - The Bank of Sierra Leone's national instant payment switch connects mobile money accounts and bank accounts, launched 13 February 2025 ([source, 2025-02-13](https://www.wearetech.africa/en/fils-uk/news/finance/sierra-leone-launches-national-instant-payment-system)).
 
-### Somalia: 5 Leading
+### Somalia: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2026.
 
 - Guleid Osman writes that the Central Bank of Somalia launched the Somali Payment Switch and SIPS, which it states connects banks, mobile wallets and points of sale in real time ([source, 2026-09-20](https://www.hiiraan.com/op4/2026/Sep/206320/strengthening_somalias_central_bank_and_securing_the_future_of_digital_payments.aspx)).
 - TechCabal says the Central Bank of Somalia launched the national Somalia Instant Payment System in early 2025 to link mobile wallets and the banking sector ([source, 2025](https://techcabal.com/2026/01/07/how-ethiopia-somalia-and-djibouti-building-africas-digital-powerhouses/)).
 
-### Tanzania: 5 Leading
+### Tanzania: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2025.
 
 - The Tanzania Instant Payment System, a national system, connects 47 financial service providers including for bank-to-wallet transfers, per the report ([source, 2025](https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905)).
 
-### Zambia: 5 Leading
+### Zambia: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2026.
 

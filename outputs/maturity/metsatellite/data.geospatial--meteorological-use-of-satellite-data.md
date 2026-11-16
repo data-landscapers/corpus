@@ -20,7 +20,7 @@ The Integrated African Strategy on Meteorology asks for sustained access to geos
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
+| 5 Mature | 4 |
 | 4 Operating | 7 |
 | 3 Established | 12 |
 | 2 Nascent | 26 |
@@ -30,7 +30,7 @@ The Integrated African Strategy on Meteorology asks for sustained access to geos
 
 ## Countries
 
-### Burkina Faso: 5 Leading
+### Burkina Faso: 5 Mature
 
 The weather service used satellite data in forecasts and warnings in 2025 and gained ISO 9001 certification that year.
 
@@ -38,7 +38,7 @@ The weather service used satellite data in forecasts and warnings in 2025 and ga
 - ANAM states that the 10-minute satellite data reception is decisive for tracking fast weather events and for issuing more responsive early alerts, and that the images help early detection of violent storms ([source, 2025-08](https://meteoburkina.bf/news/lanam-poursuit-la-modernisation-de-ses-infrastructures-des-stations-de-derni%C3%A8re-g%C3%A9n%C3%A9ration-pour-mieux-servir-le-burkina-faso/)).
 - ANAM's slide deck states that the agency obtained ISO 9001 (2015 version) certification in 2025 ([source, 2025](https://climateservices.it/wp-content/uploads/2025/10/2_SLAPIS_Coop-et-Meteo-Sawadogo.pdf)).
 
-### Egypt: 5 Leading
+### Egypt: 5 Mature
 
 The weather service used satellite data in forecasts and warnings in 2026 and renewed ISO 9001 certification in 2025.
 
@@ -46,7 +46,7 @@ The weather service used satellite data in forecasts and warnings in 2026 and re
 - Shahin says the Authority has applied an early warning system since 2020 that combines observation, including satellites, with numerical models to deliver warnings to citizens and agencies ([source, 2026-09-24](https://www.egyptke.com/293734)).
 - The Egyptian Meteorological Authority renewed its ISO 9001:2015 quality management certification in 2025, per the Ministry of Civil Aviation's year-in-review ([source, 2025](https://www.civilaviation.gov.eg/Media/NewsDetails?NewsID=1620&title=%D8%AD%D8%B5%D8%A7%D8%AF+%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9+%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9+%D9%84%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF+%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9+%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9+%D9%84%D8%B9%D8%A7%D9%85+2025)).
 
-### Morocco: 5 Leading
+### Morocco: 5 Mature
 
 The weather service used satellite data in forecasts and warnings in 2025 and kept its ISO 9001 certification that year.
 
@@ -55,7 +55,7 @@ The weather service used satellite data in forecasts and warnings in 2025 and ke
 - SNRT News reports the General Directorate of Meteorology saying its observation upgrade, including satellite receivers, enables accurate warning bulletins ([source, 2025-03](https://snrtnews.com/article/117313)).
 - Morocco's national meteorology directorate awarded Certi-Trust Africa and Middle East a MAD 48,000 order on 29 October 2025 for a second follow-up audit to maintain its ISO 9001 (2015) quality management certification ([source, 2025-10-29](https://tenderly.ma/marches-attribues/audit-de-suivi-n2-pour-le-maintien-de-la-certification-du-systeme-290704)).
 
-### Rwanda: 5 Leading
+### Rwanda: 5 Mature
 
 The weather service used satellite data in forecasts and warnings in 2026 and is ISO 9001-certified.
 

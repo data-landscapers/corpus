@@ -14,13 +14,13 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 | 2 Preparing | Yes to 1: a framework being written, or one that has ended with no successor adopted |
 | 3 Establishing | Yes to 1 and 2: a framework adopted and published |
 | 4 Operating | Yes to 1, 2 and 3: public bodies are required to follow it |
-| 5 Leading | Yes to all four: public bodies are following it |
+| 5 Mature | Yes to all four: public bodies are following it |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Mature | 1 |
 | 4 Operating | 3 |
 | 3 Established | 18 |
 | 2 Nascent | 18 |
@@ -30,7 +30,7 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 
 ## Countries
 
-### Benin: 5 Leading
+### Benin: 5 Mature
 
 Benin's interoperability framework, instituted by decree in 2020 and supervised by a national committee, governed more than 120 connected systems in 2025.
 

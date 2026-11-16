@@ -16,13 +16,13 @@ The norm is the African Union's Digital Transformation Strategy for Africa 2020-
 | 2 Preparing | `announced`, `drafting` or `validated`; or `adopted` | For an adopted strategy: not public | Or ended, with a successor in preparation | Any | Any |
 | 3 Establishing | `adopted` | `public` | Not ended, or `open` | Any | Any |
 | 4 Operating | `adopted` | `public` | Not ended | `costed` or `actions` | `results` or `results-all`, published within three years |
-| 5 Leading | `adopted` | `public` | Not ended | `costed` | `results-all`, published within two years |
+| 5 Mature | `adopted` | `public` | Not ended | `costed` | `results-all`, published within two years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Mature | 0 |
 | 4 Operating | 0 |
 | 3 Established | 19 |
 | 2 Nascent | 31 |
