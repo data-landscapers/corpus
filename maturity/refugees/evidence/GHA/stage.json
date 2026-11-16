@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "2",
-      "registration": "underway",
+      "stage": "4",
+      "registration": "documented",
       "access": "open",
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-006;GHA-008",
-      "gaps": "No source found since October 2023 says how many refugees were issued identity documents; 9,625 Burkinabes were biometrically registered in 2025, with no documents stated.",
-      "note": "Stage 4c 2026-11-15: the refugee Ghana Card exercise reached two more regions in March 2026 and the refugee board got ID production equipment in August 2026, but no number of documents issued is held. Refugees may register SIMs with their refugee ID, but each step must be shown in turn, so stage 2.",
-      "as_at": "2026-11-15"
+      "stage_sources": "GHA-008;GHA-009;GHA-007",
+      "gaps": "No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.",
+      "note": "Restaged under messages-for-bill 135 (a registered count is enough): 9,625 displaced Burkinabes were biometrically registered by February 2025 (GHA-008), and refugees may obtain the national ID card and must register SIMs with their refugee ID (GHA-007, GHA-009). No count of refugees with a SIM, account or ID, so not 5.",
+      "as_at": "2026-11-16"
     }
   ]
 }

@@ -20,9 +20,9 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 
 | Stage | Countries |
 |---|---|
-| 5 Mature | 3 |
-| 4 Operating | 3 |
-| 3 Established | 11 |
+| 5 Mature | 4 |
+| 4 Operating | 7 |
+| 3 Established | 6 |
 | 2 Nascent | 31 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
@@ -47,6 +47,16 @@ Nine government bodies published on the national open data platform in 2026, und
 - The General Authority for Communications and Informatics lists its 2025 ICT workforce indicator as a downloadable XLSX dataset on its open data platform, created 2026-09-29 ([source, 2026-09-29](https://opendata.gia.gov.ly/dashboard/dataset/432987)).
 - The GIA, which runs the platform at opendata.gia.gov.ly, reported statistics to February 2026 of 91 datasets, 9 active government entities participating and 8 sectors covered; the document does not tie the platform to an open data policy ([source, 2026-02-10](https://www.gia.gov.ly/en/2026/02/11/includes-91-datasets-the-general-authority-for-information-launches-new-indicators-through-the-open-data-platform/)).
 
+### South Africa: 5 Mature
+
+Four public bodies, among them National Treasury under an open licence, published data in 2025 and 2026; no count of publishing bodies has been found.
+
+- South Africa's National Treasury transparency portal offers monthly eTender procurement data from May 2021 for download in OCDS CSV, JSON and Excel under a Creative Commons BY 4.0 licence, with a JSON API ([source, 2026-11-11](https://data.etenders.gov.za/home/index)).
+- The National Treasury's Office of the Chief Procurement Officer publishes eTenders procurement data from February 2017 to September 2026 for download in JSON, Excel and CSV under the Open Data Commons PDDL licence, with 35,309 tenders and 9,551 awards ([source, 2026-09](https://data.open-contracting.org/en/publication/143)).
+- The South African National Biodiversity Institute publishes its 2025 national species checklist (99,254 accepted names) for download under a CC-BY 4.0 licence ([source, 2025-09-17](https://ipt.sanbi.org.za/resource?r=zanationaltaxon)).
+- South Africa's Department of Forestry, Fisheries and the Environment offers free downloadable geospatial data on its EGIS page, with quarterly releases scheduled for 2026/27 and no licence stated ([source, 2026-05-08](https://www.dffe.gov.za/egis)).
+- Pollicy says South Africa's National Data Portal (data.gov.za), led by the Department of Public Service and Administration, is a government open data portal ([source, 2025](https://pollicy.org/wp-content/uploads/2025/04/Policy-brief-13-Mar.pdf)).
+
 ### Togo: 5 Mature
 
 Data from 23 ministries was on the national geoportal in 2025, and the open data portal put its data under an open licence by 2026.
@@ -65,6 +75,14 @@ The statistics institute, regional central bank and finance ministry published d
 - ICASEES's education data page offers yearbook and key-indicator files for download, each marked licence CC BY 4.0 ([source, 2026-08-05](https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale)).
 - ICASEES confirmed at a regional meeting that a new open licence is integrated on its Open Data portal and institutional website ([source, 2026-06](https://www.icasees.org/index.php/actualites/364-icasees-participation-de-la-republique-centrafricaine-a-la-reunion-regionale-de-suivi-des-mises-a-jour-odin-odp)).
 
+### Congo: 4 Operating
+
+The forest ministry published open-licensed datasets in 2024 and the statistics institute offered downloads in 2026; four or more publishing bodies have not been found.
+
+- The SYNA-MNV programme states its datasets are published under an open licence, with reuse requiring the credit 'Source : SYNA-MNV - Republique du Congo' ([source, 2024](https://syna-mnv.cg/donnees-ouvertes)).
+- The SYNA-MNV programme of Congo's forest economy ministry publishes five datasets for download on its open data page, the newest dated 2024 ([source, 2024](https://syna-mnv.cg/donnees-ouvertes)).
+- The director general of the Institut national de la statistique said on 5 June 2026 that the Open Data Portal is at work and anyone can access and download data from it in Excel, PDF and Word formats ([source, 2026-06-05](https://www.vox.cg/le-congo-et-ses-partenaires-signent-un-accord-de-partenariat-pour-capitaliser-les-donnees-statistiques/)).
+
 ### Liberia: 4 Operating
 
 The statistics office put its data under an open licence in 2026 and two bodies publish; whether four or more do is not known.
@@ -73,6 +91,14 @@ The statistics office put its data under an open licence in 2026 and two bodies 
 - The EITI validation report says LEITI's online Data Portal has significantly improved the openness of extractive data, and that the LEITI Data Warehouse provides production and export data disaggregated by company; no dataset count or licence is stated. The date is the report's own (2026-07-23), as it describes the portal at work ([source, 2026-07-23](https://eiti.org/documents/liberia-2026-validation-report)).
 - The LISGIS microdata catalogue lists the anonymised Liberia Annual Agricultural Survey 2024 household dataset as a Public Use File accessible to all for statistical and research purposes, released as version 1.0 (record last modified 1 July 2026); redistribution needs LISGIS written agreement, so no open licence is stated ([source, 2026-07-01](https://microdata.lisgislr.org/index.php/catalog/43)).
 - The EITI validation report names two public data sources providing production and export data by company, the LEITI Data Warehouse and the Ministry of Mines and Energy's online cadastre. The date is the report's own (2026-07-23) ([source, 2026-07-23](https://eiti.org/documents/liberia-2026-validation-report)).
+
+### Madagascar: 4 Operating
+
+The National Assembly published open-licensed data in 2026 and the finance ministry launched a portal in 2025; four or more publishers have not been found.
+
+- The page states the Assembly's data is published under Licence Ouverte v2.0 (compatible CC-BY), free to reuse including commercially with attribution; date is the capture date as the page has none ([source, 2026-08-09](https://parlement.mg/opendata/)).
+- The Assemblée nationale de Madagascar publishes five parliamentary datasets (deputies, legislative texts, sittings, commissions, parliamentary groups) as JSON and CSV on its open data page and read-only REST API; the page was captured 2026-08-09 and carries no date of its own ([source, 2026-08-09](https://parlement.mg/opendata/)).
+- UNDP says Madagascar's Ministry of Economy and Finance officially launched PortES, a socio-economic data portal with six components, giving data access to all development actors ([source, 2025-02-04](https://www.undp.org/fr/madagascar/actualites/portes-transparence-des-donnees-et-informations-socioeconomiques-madagascar)).
 
 ### Senegal: 4 Operating
 
@@ -84,25 +110,27 @@ The statistics agency put its data under an open licence by 2026 and two bodies 
 - ANSD closed a four-day regional workshop at Louga on 24 June 2026 on operationalising its Open Data Platform (ODP) 2.0, training about thirty regional staff to create and publish datasets on it as the platform is extended to the regions ([source, 2026-06-24](https://aps.sn/louga-lansd-mise-sur-lopen-data-pour-ameliorer-la-qualite-et-laccessibilite-des-statistiques-regionales/)).
 - The Géoportail carries data from at least two public bodies, the Centre de suivi écologique (bushfire areas 2023) and ANSD (school locations 2023); the article carries no date, so the site's news date is used ([source, 2025-11](https://www.geosenegal.gouv.sn/une-nouvelle-ere-pour-l-information-geospatiale-au-senegal.html)).
 
+### Tanzania: 4 Operating
+
+The procurement authority published open-licensed data in 2026, and two statistics offices ran a data portal; four or more publishing bodies have not been found.
+
+- The Public Procurement Regulatory Authority publishes daily open contracting data on the NeST Open Contracting Data Portal under a CC BY-SA 4.0 licence ([source, 2026-02](https://data.open-contracting.org/en/publication/152)).
+- The Public Procurement Regulatory Authority publishes procurement data from procuring entities through the NeST Open Contracting Data Portal (data.nest.go.tz), updated daily with bulk JSON, CSV and Excel downloads updated weekly; the date is the policy's 2025 copyright year ([source, 2025](https://data.nest.go.tz/assets/docs/OCDS_Publication_Policy_PPRA.pdf)).
+- The National Bureau of Statistics and the Office of the Chief Government Statistician run the Tanzania Integrated Statistical Portal, which lets users explore and analyse administrative, demographic and survey data; no dataset count or open licence is stated, and the date is the document's publication date ([source, 2026-08-28](https://tisp.nbs.go.tz/)).
+
+### Uganda: 4 Operating
+
+The procurement authority published open-licensed data in 2026 and the statistics bureau offered downloads; four or more publishing bodies have not been found.
+
+- The Open Contracting Partnership registry states that PPDA's open contracting datasets in Uganda carry the Open Data Commons Attribution License, which lets anyone share, adapt and build on the data with attribution ([source, 2026-10](https://data.open-contracting.org/en/publication/130)).
+- The Open Contracting Partnership registry says Uganda's procurement authority PPDA publishes open contracting datasets from July 2015 to October 2026, updated monthly and downloadable as JSON, Excel or CSV ([source, 2026-10](https://data.open-contracting.org/en/publication/130)).
+- The Office of the Prime Minister's SDG Secretariat says the Uganda Bureau of Statistics hosts the SDG Open Data Portal, where users can download datasets of Uganda's official SDG indicators ([source, 2025-08-11](https://sdgs.opm.go.ug/2025/08/11/ugandas-sdg-open-data-portal-advancing-transparency-and-sustainable-development/)).
+
 ### Burundi: 3 Established
 
 Government data was published under an open licence on the Plateforme de Données Ouvertes (INSBU) in 2025; several publishing bodies are not on record.
 
 - INSBU's Accord de Licence Ouverte grants a free, worldwide, non-exclusive licence to use, copy, modify, distribute and build derivative products from the platform's data, commercially or not, with attribution; dated by the proxy capture date 2025-06-10 ([source, 2025-06-10](https://www.insbu.bi/useragreement)).
-
-### Congo: 3 Established
-
-The forest ministry published datasets under an open licence in 2024; no second public body publishing that way has been found.
-
-- The SYNA-MNV programme states its datasets are published under an open licence, with reuse requiring the credit 'Source : SYNA-MNV - Republique du Congo' ([source, 2024](https://syna-mnv.cg/donnees-ouvertes)).
-- The SYNA-MNV programme of Congo's forest economy ministry publishes five datasets for download on its open data page, the newest dated 2024 ([source, 2024](https://syna-mnv.cg/donnees-ouvertes)).
-- The director general of the Institut national de la statistique said on 5 June 2026 that the Open Data Portal is at work and anyone can access and download data from it in Excel, PDF and Word formats ([source, 2026-06-05](https://www.vox.cg/le-congo-et-ses-partenaires-signent-un-accord-de-partenariat-pour-capitaliser-les-donnees-statistiques/)).
-
-### Madagascar: 3 Established
-
-Government data was published under an open licence on the Open Data Parlementaire in 2026; several publishing bodies are not on record.
-
-- The page states the Assembly's data is published under Licence Ouverte v2.0 (compatible CC-BY), free to reuse including commercially with attribution; date is the capture date as the page has none ([source, 2026-08-09](https://parlement.mg/opendata/)).
 
 ### Mali: 3 Established
 
@@ -128,33 +156,11 @@ Government data was published under an open licence on the SNBS Open Data Portal
 
 - SNBS states that all data and datasets published on its Open Data Portal are provided under the Creative Commons Attribution 4.0 International licence (CC-BY 4.0), allowing users to download, copy, redistribute and make derivative works with attribution. The date is the document's published date ([source, 2024-07-13](https://nbs.gov.so/terms-of-use-for-open-data-portals-and-datasets/)).
 
-### South Africa: 3 Established
-
-National Treasury and the biodiversity institute each published open-licensed data in 2025 and 2026; no source naming several publishers together is known.
-
-- South Africa's National Treasury transparency portal offers monthly eTender procurement data from May 2021 for download in OCDS CSV, JSON and Excel under a Creative Commons BY 4.0 licence, with a JSON API ([source, 2026-11-11](https://data.etenders.gov.za/home/index)).
-- The National Treasury's Office of the Chief Procurement Officer publishes eTenders procurement data from February 2017 to September 2026 for download in JSON, Excel and CSV under the Open Data Commons PDDL licence, with 35,309 tenders and 9,551 awards ([source, 2026-09](https://data.open-contracting.org/en/publication/143)).
-- The South African National Biodiversity Institute publishes its 2025 national species checklist (99,254 accepted names) for download under a CC-BY 4.0 licence ([source, 2025-09-17](https://ipt.sanbi.org.za/resource?r=zanationaltaxon)).
-
 ### South Sudan: 3 Established
 
 Government data was published under an open licence on the NBS Open Data Portal in 2026; several publishing bodies are not on record.
 
 - The NBS page states its Public Data tier is freely available to be accessed, used and shared without restrictions for any purpose; the page is undated, so its 2026-08-29 capture date is used ([source, 2026-08-29](https://www.nbs.gov.ss/resources/Data_Portal.php)).
-
-### Tanzania: 3 Established
-
-The procurement authority published its contracting data under an open licence in 2026; no second public body publishing that way has been found.
-
-- The Public Procurement Regulatory Authority publishes daily open contracting data on the NeST Open Contracting Data Portal under a CC BY-SA 4.0 licence ([source, 2026-02](https://data.open-contracting.org/en/publication/152)).
-- The Public Procurement Regulatory Authority publishes procurement data from procuring entities through the NeST Open Contracting Data Portal (data.nest.go.tz), updated daily with bulk JSON, CSV and Excel downloads updated weekly; the date is the policy's 2025 copyright year ([source, 2025](https://data.nest.go.tz/assets/docs/OCDS_Publication_Policy_PPRA.pdf)).
-
-### Uganda: 3 Established
-
-The procurement authority published its contracting data under an open licence in 2026; no second public body publishing that way has been found.
-
-- The Open Contracting Partnership registry states that PPDA's open contracting datasets in Uganda carry the Open Data Commons Attribution License, which lets anyone share, adapt and build on the data with attribution ([source, 2026-10](https://data.open-contracting.org/en/publication/130)).
-- The Open Contracting Partnership registry says Uganda's procurement authority PPDA publishes open contracting datasets from July 2015 to October 2026, updated monthly and downloadable as JSON, Excel or CSV ([source, 2026-10](https://data.open-contracting.org/en/publication/130)).
 
 ### Angola: 2 Nascent
 

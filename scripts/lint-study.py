@@ -240,6 +240,7 @@ LADDER_HELD = {
     ("disabilityaccess", "LSO"): "Bill, message 144: a service delivered counts; staged 2 stands",
     ("disabilityaccess", "SWZ"): "Bill, message 144: a service delivered counts; staged 2 stands",
     ("disabilityaccess", "TUN"): "Bill, message 144: a service delivered counts; staged 2 stands",
+    ("revenuecollection", "NAM"): "Bill, message 136: separate sources add up; a main-taxes row also shows some taxes paid electronically",
 }
 
 

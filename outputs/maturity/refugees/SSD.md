@@ -10,4 +10,4 @@
 
 ***Also on file***. [Civil Registry](<https://developmentactionrefugees.org/country-responses/south-sudan/policy-legal-south-sudan>). [National Identity Card](<https://citizenshiprightsafrica.org/over-17400-south-sudanese-receive-national-identity-cards-thanks-to-unhcr-and-the-european-union>). [Nationality Certificate](<https://www.worldbank.org/en/news/feature/2026/07/22/in-the-worlds-youngest-nation-how-do-you-prove-you-exist>). [Nationality Certificates / national ID and birth registration (Directorate of Civil Registry)](<https://statelessnessalliance.org/online-marketplace/strengthening-civil-registration-and-ending-statelessness-in-south-sudan>). [SNSOP management information system with biometric registration tool](<https://documents1.worldbank.org/curated/en/099082324105031932/pdf/BOSIB1e1f76b710ba19bb915ace2051e7ff.pdf>).
 
-***Not found***. No source says the registered refugees were issued identity documents. None counts refugees, apart from their hosts, with a SIM, an account or a digital ID.
+***Not found***. No source counts refugees, apart from their hosts, with a SIM, an account or a digital ID.

@@ -8,4 +8,4 @@
 
 ***Also on file***. [National Open Data Policy](<https://documents1.worldbank.org/curated/en/933101529919350715/txt/SOGDAT-Year-3-Report.txt>). [Tanzania Open Data Portal](<https://documents1.worldbank.org/curated/en/933101529919350715/txt/SOGDAT-Year-3-Report.txt>). [Digital Earth Africa](<https://aws.amazon.com/blogs/publicsector/digital-earth-africa-and-aws-are-making-satellite-data-work-for-africa/>).
 
-***Not found***. No source found since November 2023 names a second public body publishing data under an open licence.
+***Not found***. No source found since November 2024 names or counts four or more public bodies publishing data.

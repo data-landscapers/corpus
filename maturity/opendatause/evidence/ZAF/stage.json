@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "use",
-      "stage": "3",
+      "stage": "5",
       "access": "licensed",
-      "breadth": "",
+      "breadth": "many",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-005;ZAF-003;ZAF-007",
-      "gaps": "No one source found since October 2023 names two or more public bodies publishing data under an open licence.",
-      "note": "Reassessed 2026-11-13, stays 3: National Treasury (ZAF-005, ZAF-003) and SANBI (ZAF-007) each publish under CC BY 4.0 or the PDDL, on separate sources; no source names or counts two bodies, as question 3 asks, so not 4.",
-      "as_at": "2026-11-13"
+      "stage_sources": "ZAF-005;ZAF-003;ZAF-007;ZAF-006;ZAF-004",
+      "gaps": "No source found counts the public bodies publishing data.",
+      "note": "Restaged under messages-for-bill 134 (separate sources may add up, at rung 5 as at rung 4): within two years National Treasury (ZAF-005, CC BY 4.0), SANBI (ZAF-007), the environment department (ZAF-006) and the public service department's National Data Portal (ZAF-004) publish data, four bodies.",
+      "as_at": "2026-11-16"
     }
   ]
 }

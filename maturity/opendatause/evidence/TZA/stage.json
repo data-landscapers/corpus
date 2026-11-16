@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "use",
-      "stage": "3",
+      "stage": "4",
       "access": "licensed",
-      "breadth": "",
+      "breadth": "several",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-005;TZA-003",
-      "gaps": "No source found since November 2023 names two or more public bodies publishing data.",
-      "note": "Reassessed 2026-11-12, 2 to 3: the procurement authority's NeST open contracting data are published under CC BY-SA 4.0 (TZA-005, February 2026), a yes to question 2. No source names a second body publishing under an open licence, so not 4.",
-      "as_at": "2026-11-12"
+      "stage_sources": "TZA-005;TZA-003;TZA-002",
+      "gaps": "No source found since November 2024 names or counts four or more public bodies publishing data.",
+      "note": "Restaged under messages-for-bill 134 (separate sources may add up) and 128 (any): the procurement authority publishes NeST data under CC BY-SA 4.0 (TZA-003, TZA-005), and the statistics bureau runs the Tanzania Integrated Statistical Portal (TZA-002, August 2026). No source names four or more bodies, so not 5.",
+      "as_at": "2026-11-16"
     }
   ]
 }

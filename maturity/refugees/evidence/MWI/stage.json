@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "2",
-      "registration": "underway",
+      "stage": "3",
+      "registration": "documented",
       "access": "",
       "counted": "",
       "cap": "",
       "flags": "",
       "stage_sources": "MWI-003",
-      "gaps": "No source since October 2023 says identity documents were issued to refugees or asylum seekers. No source since October 2023 says they may use SIM cards, mobile money or digital ID.",
-      "note": "Stage 2: UNHCR reports more than 1,100 asylum-seekers from Mozambique registered in Nsanje by December 2024. No source says documents were issued to them, so not 3.",
-      "as_at": "2026-11-15"
+      "gaps": "No source found since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Restaged under messages-for-bill 135 (a registered count is enough): UNHCR counts more than 1,100 asylum-seekers registered in Nsanje by December 2024 (MWI-003). Nothing says refugees may use SIM cards, accounts or digital ID, so not 4.",
+      "as_at": "2026-11-16"
     }
   ]
 }

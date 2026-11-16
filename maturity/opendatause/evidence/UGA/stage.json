@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "use",
-      "stage": "3",
+      "stage": "4",
       "access": "licensed",
-      "breadth": "",
+      "breadth": "several",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-008;UGA-007",
-      "gaps": "No source found since November 2023 names two or more public bodies publishing data.",
-      "note": "Reassessed 2026-11-12, 2 to 3: the procurement authority PPDA's open contracting datasets carry the Open Data Commons Attribution Licence (UGA-008, October 2026), a yes to question 2. The statistics bureau's portals state no licence, so no second body publishes that way and the cell is not 4.",
-      "as_at": "2026-11-12"
+      "stage_sources": "UGA-008;UGA-007;UGA-006",
+      "gaps": "No source found since November 2024 names or counts four or more public bodies publishing data.",
+      "note": "Restaged under messages-for-bill 134 (separate sources may add up) and 128 (any): the PPDA publishes open contracting data under an open licence (UGA-007, UGA-008, October 2026), and the statistics bureau hosts the SDG Open Data Portal with downloads (UGA-006, August 2025). No source names four or more bodies, so not 5.",
+      "as_at": "2026-11-16"
     }
   ]
 }

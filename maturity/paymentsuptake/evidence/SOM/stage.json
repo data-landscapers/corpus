@@ -9,10 +9,10 @@
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SOM-005;SOM-004",
-      "gaps": "The survey's 90% is adults financially included, largely through mobile money; its share holding a bank or mobile money account is not given separately. No survey found since November 2023 puts adults who made or received a digital payment at 79% or more.",
-      "note": "The Somalia Financial Access Survey 2026, nationally representative, finds 90% of adults financially included, largely through mobile money, four in five or more. No survey gives the share paying digitally.",
-      "as_at": "2026-11-12"
+      "stage_sources": "SOM-003;SOM-002",
+      "gaps": "The 87% is mobile money reach among adults, as an opinion writer describes the survey; the survey's 90% financially included is an inclusion share. No survey found since November 2023 puts adults who made or received a digital payment at 79% or more.",
+      "note": "Restaged under messages-for-bill 131 (no): the 90% financially included (SOM-004, SOM-005) no longer counts, but the 2026 Financial Access Survey puts mobile money reach at 87% of adults (SOM-002, SOM-003), over four in five, so 4 stands.",
+      "as_at": "2026-11-16"
     }
   ]
 }

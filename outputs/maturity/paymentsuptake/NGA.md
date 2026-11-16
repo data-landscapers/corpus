@@ -10,4 +10,4 @@
 
 ***Also on file***. [PAPSS](<https://thecondia.com/remita-launches-super-app/>); [Remita](<https://thecondia.com/remita-launches-super-app/>).
 
-***Not found***. No survey found puts adults who made or received a digital payment at 79% or more. The two 2026 surveys disagree on account holding, at 86.5% and 73%.
+***Not found***. No survey found puts adults who made or received a digital payment at 79% or more.

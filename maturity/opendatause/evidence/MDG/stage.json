@@ -1,16 +1,17 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "access": "licensed",
-   "breadth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MDG-002",
-   "gaps": "No source found since October 2023 names two or more public bodies publishing data.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "4",
+      "access": "licensed",
+      "breadth": "several",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-002;MDG-001;MDG-003",
+      "gaps": "No source found since November 2024 names or counts four or more public bodies publishing data.",
+      "note": "Restaged under messages-for-bill 134 (separate sources may add up) and 128 (any): the National Assembly publishes datasets under Licence Ouverte (MDG-001, MDG-002, 2026), and the finance ministry launched the PortES data portal (MDG-003, February 2025). No source names four or more bodies, so not 5.",
+      "as_at": "2026-11-16"
+    }
+  ]
 }

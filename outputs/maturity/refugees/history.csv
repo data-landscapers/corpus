@@ -87,3 +87,13 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-15,TUN,include.access--inclusion-of-refugees-and-idps,fact,no evidence,3,TUN-002,"UNHCR: 7,812 registered by September 2025 and 560 registration cards renewed January 2026; new registration suspended since June 2024"
 2026-11-15,ZAF,include.access--inclusion-of-refugees-and-idps,fact,2,3,ZAF-007;ZAF-008,"Home Affairs: 57,288 refugees and 80,803 asylum seekers with active permits in September 2026; documented with a number"
 2026-11-15,ZWE,include.access--inclusion-of-refugees-and-idps,fact,no evidence,unplaced,,"ZWE-001: minister at UNHCR ExCom, Oct 2024, says refugees can register for national ID cards; answers access only, questions 1-2 unanswered, so unplaced"
+2026-11-16,BDI,include.access--inclusion-of-refugees-and-idps,ruling,2,3,BDI-001,messages-for-bill 135: a registered count is enough; 2->3
+2026-11-16,CAF,include.access--inclusion-of-refugees-and-idps,ruling,2,3,CAF-001,messages-for-bill 135: a registered count is enough; 2->3
+2026-11-16,COM,include.access--inclusion-of-refugees-and-idps,ruling,2,3,COM-001,messages-for-bill 135: a registered count is enough; 2->3
+2026-11-16,MAR,include.access--inclusion-of-refugees-and-idps,ruling,2,3,MAR-001,messages-for-bill 135: a registered count is enough; 2->3
+2026-11-16,SDN,include.access--inclusion-of-refugees-and-idps,ruling,2,3,SDN-002,messages-for-bill 135: a registered count is enough; 2->3
+2026-11-16,DZA,include.access--inclusion-of-refugees-and-idps,ruling,2,3,DZA-001,messages-for-bill 135: a registered count is enough; 2->3
+2026-11-16,MWI,include.access--inclusion-of-refugees-and-idps,ruling,2,3,MWI-003,messages-for-bill 135: a registered count is enough; 2->3
+2026-11-16,ZMB,include.access--inclusion-of-refugees-and-idps,ruling,2,3,ZMB-003,messages-for-bill 135: a registered count is enough; 2->3
+2026-11-16,SSD,include.access--inclusion-of-refugees-and-idps,ruling,2,4,SSD-003;SSD-001,messages-for-bill 135: a registered count is enough; 2->4
+2026-11-16,GHA,include.access--inclusion-of-refugees-and-idps,ruling,2,4,GHA-008;GHA-009;GHA-007,messages-for-bill 135: a registered count is enough; 2->4

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "uptake",
-      "stage": "4",
-      "share": "half",
-      "target": "target",
+      "stage": "unplaced",
+      "share": "",
+      "target": "",
       "payments": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GMB-002;GMB-001",
-      "gaps": "FinScope's 82% is adults with access to formal financial services, not account holding alone. No survey found since November 2023 puts adults who made or received a digital payment at 79% or more.",
-      "note": "The FinScope Consumer Survey 2025 finds 82% of adults formally served, four in five or more, read as account holding as Nigeria's formal inclusion is. No survey gives the share paying digitally.",
-      "as_at": "2026-11-12"
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 gives a survey share of adults with an account; FinScope 2025's 82% with access to formal financial services is an inclusion share.",
+      "note": "Restaged under messages-for-bill 131 (no): a FinScope formal-inclusion share does not count as adults with an account, and GMB-001 and GMB-002 are the only rows, so no rung is set.",
+      "as_at": "2026-11-16"
     }
   ]
 }

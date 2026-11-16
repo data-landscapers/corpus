@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "3",
-   "payment": "inservice",
-   "main": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-003;BFA-004",
-   "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "4",
+      "payment": "inservice",
+      "main": "main",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-005;BFA-001;BFA-002",
+      "gaps": "No source found since October 2023 gives a figure for revenue paid electronically.",
+      "note": "Restaged under messages-for-bill 136 (separate sources may add up): the DGI's eSINTAX portal takes tax declarations and payments (BFA-005, November 2026), and Faso Arzeka takes customs duties (BFA-001, BFA-002, January 2025). No figure for revenue paid electronically, so not stage 5.",
+      "as_at": "2026-11-16"
+    }
+  ]
 }

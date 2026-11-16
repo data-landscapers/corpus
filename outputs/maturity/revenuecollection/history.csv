@@ -63,3 +63,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-15,SWZ,dpi.pay--revenue-collection,fact,3,3,SWZ-006;SWZ-005;SWZ-001,"ERS: 2026 annual income tax returns filed and paid 100% online (Tax-Ease, TaxPAL, eFiling); VAT and customs filing not shown, stage 3 held"
 2026-11-15,ZMB,dpi.pay--revenue-collection,fact,5,5,ZMB-010;ZMB-009;ZMB-004,"ZRA February 2024: about 99% of payments electronic, customs payments on mobile platforms since December 2023; main and share now shown by own rows, stage 5 held"
 2026-11-15,MUS,dpi.pay--revenue-collection,fact,3,4,MUS-009;MUS-004,"MRA April 2025: companies pay corporate tax, VAT, PAYE, APS and TDS electronically; with customs duties paid through TradeNet (MUS-004), the main taxes and duties are paid electronically; 3 to 4"
+2026-11-16,BFA,dpi.pay--revenue-collection,ruling,3,4,BFA-005;BFA-001;BFA-002,messages-for-bill 136: separate sources may add up; 3->4
+2026-11-16,NAM,dpi.pay--revenue-collection,ruling,3,4,NAM-002,messages-for-bill 136: separate sources may add up; 3->4

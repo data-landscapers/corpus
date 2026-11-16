@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NGA-010;NGA-009",
-      "gaps": "NITDA's 2026 household survey (86.5%) and EFInA's 2026 survey (73% formally included) disagree, and NITDA says financial accounts without naming bank or mobile money; no survey found gives the share of adults paying digitally.",
-      "note": "Reassessed 2026-11-13, 3 to 4: NITDA's Tech Outlook survey of November 2026 puts adults holding financial accounts at 86.5% (NGA-010), the newest survey and over four in five. No survey gives the share paying digitally at 79% or more, so not 5.",
-      "as_at": "2026-11-13"
+      "gaps": "NITDA says financial accounts without naming bank or mobile money; EFInA's 73% formally included is an inclusion share. No survey found gives the share of adults paying digitally.",
+      "note": "Restaged under messages-for-bill 131 (no), stays 4: EFInA's formal-inclusion share no longer counts, but NITDA's November 2026 survey puts adults holding financial accounts at 86.5% (NGA-010), over four in five. No survey gives the share paying digitally at 79% or more, so not 5.",
+      "as_at": "2026-11-16"
     }
   ]
 }

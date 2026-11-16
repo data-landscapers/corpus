@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "3",
+      "stage": "4",
       "payment": "inservice",
-      "main": "",
+      "main": "main",
       "reported": "",
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-002",
-      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 gives a figure for revenue paid electronically.",
+      "note": "Restaged under messages-for-bill 136 (separate sources may add up): NamRA says domestic tax liabilities are confirmed on the ITAS portal and paid by EFT, and customs payments are made by EFT too (NAM-002, May 2025). No figure for revenue paid electronically, so not stage 5.",
+      "as_at": "2026-11-16"
     }
   ]
 }

@@ -10,4 +10,4 @@
 
 ***Also on file***. [SCOPE](<https://data.unhcr.org/en/documents/download/123755>).
 
-***Not found***. No source says the 37,389 registered refugees were issued identity documents. None says they may use SIM cards, mobile money or digital ID.
+***Not found***. No source found since October 2023 says refugees may use SIM cards, mobile money or digital ID.

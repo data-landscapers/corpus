@@ -21,11 +21,11 @@ The World Bank's Global Findex 2025 puts account ownership at 79% of adults worl
 | Stage | Countries |
 |---|---|
 | 5 Mature | 0 |
-| 4 Operating | 11 |
-| 3 Established | 9 |
+| 4 Operating | 9 |
+| 3 Established | 10 |
 | 2 Nascent | 12 |
 | 1 Absent | 1 |
-| Unplaced | 7 |
+| Unplaced | 8 |
 | No evidence | 14 |
 
 ## Countries
@@ -44,13 +44,6 @@ The central bank put residents holding a current or payment account at 85.6% in 
 
 - Expresso das Ilhas, reporting the Banco de Cabo Verde's 2025 payment system report, says 85.6% of resident people held a current or payment account at the end of 2025, against 81.5% in 2024 ([source, 2025](https://expressodasilhas.cv/economia/2026/09/25/mais-cabo-verdianos-com-contas-bancarias-e-maior-uso-de-pagamentos-digitais/104797)).
 - Expresso das Ilhas, reporting the Banco de Cabo Verde's 2025 payment system report, says 85.6% of resident people held a current or payment account at the end of 2025, against 81.5% in 2024 ([source, 2025](https://expressodasilhas.cv/economia/2026/09/25/mais-cabo-verdianos-com-contas-bancarias-e-maior-uso-de-pagamentos-digitais/104797)).
-
-### Gambia: 4 Operating
-
-FinScope found 82% of adults formally served in 2025; the share paying digitally has not been found.
-
-- CBG Governor Buah Saidy said the FinScope Consumer Survey 2025 found 82% of adults had access to formal financial services, over 1.22 million adults ([source, 2025](https://www.kerrfatou.com/gambias-financial-inclusion-reaches-82-central-bank-targets-full-coverage-by-2030-through-digitalisation/)).
-- CBG Governor Buah Saidy said the FinScope Consumer Survey 2025 found 82% of adults had access to formal financial services, over 1.22 million adults ([source, 2025](https://www.kerrfatou.com/gambias-financial-inclusion-reaches-82-central-bank-targets-full-coverage-by-2030-through-digitalisation/)).
 
 ### Ghana: 4 Operating
 
@@ -79,13 +72,6 @@ A 2026 government household survey put adults holding financial accounts at 86.5
 - The same report puts adults holding financial accounts at 86.5 per cent, above four in five; the document says accounts, not bank or mobile money accounts specifically ([source, 2026-11-11](https://von.gov.ng/nitda-unveils-nigeria-tech-outlook-report/)).
 - NITDA's Nigeria Tech Outlook Report 2026, from a survey of 2,147 households, says 86.5 per cent of Nigerian adults hold financial accounts ([source, 2026-11-11](https://von.gov.ng/nitda-unveils-nigeria-tech-outlook-report/)).
 
-### Rwanda: 4 Operating
-
-FinScope found 92% of adults formally included in 2024, 77% with mobile money accounts; the share paying digitally has not been found.
-
-- MINECOFIN, launching the FinScope 2024 survey, says formal financial inclusion among Rwandan adults rose from 77% in 2020 to 92% (7.5 million) in 2024, driven mainly by mobile money ([source, 2024](https://www.minecofin.gov.rw/news-detail/96-of-rwandans-are-financially-included-finscope-survey-2024)).
-- MINECOFIN, launching the FinScope 2024 survey, says the share of adults holding registered mobile money accounts rose from 60% in 2020 to 77% in 2024, with 22% banked ([source, 2024](https://www.minecofin.gov.rw/news-detail/96-of-rwandans-are-financially-included-finscope-survey-2024)).
-
 ### Senegal: 4 Operating
 
 The central bank put adults with an account at 83.3% in 2023; the share paying digitally was not found.
@@ -94,10 +80,10 @@ The central bank put adults with an account at 83.3% in 2023; the share paying d
 
 ### Somalia: 4 Operating
 
-A 2026 national survey found 90% of adults financially included, mostly through mobile money; the share paying digitally has not been found.
+A 2026 national survey put mobile money reach at 87% of adults; the share paying digitally has not been found.
 
-- SOMMA reports the Somalia Financial Access Survey 2026 found 90% of adults financially included, largely through mobile money ([source, 2026](https://www.linkedin.com/posts/somali-microfinance-association-somma_somma-somalia-financialinclusion-activity-7488596234996371457-auqx)).
-- SOMMA reports the Somalia Financial Access Survey 2026 found 90% of adults financially included, largely through mobile money ([source, 2026](https://www.linkedin.com/posts/somali-microfinance-association-somma_somma-somalia-financialinclusion-activity-7488596234996371457-auqx)).
+- The Somalia Financial Access Survey Report SOM-FAS2026, as described by an opinion writer, says mobile money reach extends to 87 percent of the adult population ([source, 2026](https://www.dawan.africa/news/opinionsomalias-financial-inclusion-story-beyond-access-to-economic-resilience)).
+- The Somalia Financial Access Survey Report SOM-FAS2026, as described by an opinion writer, says mobile money reach extends to 87 percent of the adult population ([source, 2026](https://www.dawan.africa/news/opinionsomalias-financial-inclusion-story-beyond-access-to-economic-resilience)).
 
 ### South Africa: 4 Operating
 
@@ -141,6 +127,13 @@ A 2025 national survey found 75.6% of adults with a bank account; no survey foun
 
 - The Namibia Statistics Agency's 2025 Namibia Financial Inclusion Survey (fieldwork October-November 2025) finds 75.6 percent of adults aged 15 and over hold a bank account, with 18.3 percent holding a smart card account ([source, 2025](https://nsa.org.na/wp-content/uploads/2026/07/2025-Namibia-Financial-Inclusion-Survey-Report.web_.pdf)).
 - World Bank lead economist Leora Klapper says 73% of Namibian adults now own a financial account, citing Global Findex 2025 figures as reported by The Brief ([source, 2025-10-22](https://thebrief.com.na/2025/10/most-namibians-struggle-to-access-emergency-funds-world-bank/)).
+
+### Rwanda: 3 Established
+
+In 2024 a national survey found 77% of adults with a registered mobile money account; no survey found puts account holding at four in five.
+
+- MINECOFIN, launching the FinScope 2024 survey, says the share of adults holding registered mobile money accounts rose from 60% in 2020 to 77% in 2024, with 22% banked ([source, 2024](https://www.minecofin.gov.rw/news-detail/96-of-rwandans-are-financially-included-finscope-survey-2024)).
+- FinScope reports that 73% of Rwandan adults use services such as mobile money (KT Press, reporting FinScope; survey year not given) ([source, 2025-12-09](https://www.ktpress.rw/2025/12/new-survey-reveals-consumer-digital-fraud-risks-in-rwanda/)).
 
 ### Tanzania: 3 Established
 
@@ -253,6 +246,12 @@ Not established: The newest figure found, Global Findex for 2022 at nearly 39%, 
 Nothing found since 2023 names a survey share of adults with an account, so no stage is set.
 
 Not established: No survey share of adults with an account has been found: the only figure is the central bank governor's 36% of the population with bank account access (November 2024), not attributed to a survey and not limited to adults.
+
+### Gambia: Unplaced
+
+In 2025 a national survey counted 82% of adults formally served, but no survey gives adults with an account, so no stage is set.
+
+Not established: Nothing found since October 2023 gives a survey share of adults with an account; FinScope 2025's 82% with access to formal financial services is an inclusion share.
 
 ### Mauritius: Unplaced
 

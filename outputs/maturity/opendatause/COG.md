@@ -8,4 +8,4 @@
 
 ***Also on file***. [Hiswaca platform](<https://fr.allafrica.com/stories/202601090277.html>). [Open Data Platform (ODP) 1.0 / ODP 2.0, Congo ODP project](<https://gabonactu.com/blog/2026/09/20/statistiques-et-donnees-les-pays-de-lafrique-centrale-sur-la-meme-longueur-dondes/>). [CEMAC-Data (planned)](<https://gabonactu.com/blog/2026/09/20/statistiques-et-donnees-les-pays-de-lafrique-centrale-sur-la-meme-longueur-dondes/>). [IGN digital platform of maps (planned)](<https://www.adiac-congo.com/content/transformation-numerique-lign-et-long-pratic-unissent-leurs-expertises-171185>). [CNTR online platform for the ECTR transparency-code evaluation](<https://lasemaineafricaine.info/gouvernance-lancement-du-processus-devaluation-du-code-de-transparence/>).
 
-***Not found***. No source found since November 2023 names a second public body publishing data under an open licence.
+***Not found***. No source found since November 2024 names or counts four or more public bodies publishing data.

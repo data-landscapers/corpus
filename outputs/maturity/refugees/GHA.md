@@ -10,4 +10,4 @@
 
 ***Also on file***. [Foreigner Identification Management System (FIMS)](<https://nia.gov.gh/fees-and-charges-2026/>).
 
-***Not found***. No source says how many refugees were issued identity documents.
+***Not found***. No source found since October 2023 counts refugees with a SIM, an account or a digital ID.

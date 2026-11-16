@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source since October 2023 says refugees or asylum seekers in Malawi were issued identity documents. None says they may use SIM cards, mobile money or digital ID.
+***Not found***. No source found since October 2023 says refugees in Malawi may use SIM cards, mobile money or digital ID.

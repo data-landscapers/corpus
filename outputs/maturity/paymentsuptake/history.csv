@@ -86,3 +86,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,RWA,dpi.pay--population-uptake,fact,3,4,RWA-003;RWA-002,"FinScope 2024 finds formal inclusion at 92% of adults (RWA-003, hand-read) and registered mobile money at 77% (RWA-002); formal figure read as account holding as Nigeria's"
 2026-11-12,UGA,dpi.pay--population-uptake,fact,3,3,UGA-002,"Global Findex 2025 puts adults with an account at 73% in 2024 (UGA-002), newer than FinScope 2023; stage held"
 2026-11-13,NGA,dpi.pay--population-uptake,fact,3,4,NGA-010;NGA-009,"NITDA Tech Outlook Report 2026 household survey: 86.5% of adults hold financial accounts, newest survey, over four in five: 3 to 4"
+2026-11-16,GMB,dpi.pay--population-uptake,ruling,4,unplaced,,messages-for-bill 131: a FinScope formal-inclusion share is not adults with an account; 4->unplaced
+2026-11-16,RWA,dpi.pay--population-uptake,ruling,4,3,RWA-002;RWA-001,messages-for-bill 131: a FinScope formal-inclusion share is not adults with an account; 4->3
+2026-11-16,SOM,dpi.pay--population-uptake,ruling,4,4,SOM-003;SOM-002,"messages-for-bill 131: the 90% financially included no longer counts, mobile money at 87% holds it; 4->4"
+2026-11-16,NGA,dpi.pay--population-uptake,ruling,4,4,NGA-010;NGA-009,"messages-for-bill 131: EFInA formal-inclusion share no longer counts, NITDA 86.5% accounts holds it; 4->4"

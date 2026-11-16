@@ -10,4 +10,4 @@
 
 ***Also on file***. [ZamPortal](<https://znbc.co.zm/?p=9752>); [Integrated National Registration Information System (INRIS)](<https://cipit.strathmore.edu/wp-content/uploads/2025/10/Government-Digital-Services-and-Digital-ID-in-Kenya-and-Zambia-Summary.pdf>).
 
-***Not found***. No source says refugees were issued documents, with a number. None says they may use SIM cards, mobile money or digital ID.
+***Not found***. No source found since October 2023 says refugees may use SIM cards, mobile money or digital ID.

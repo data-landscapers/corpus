@@ -8,4 +8,4 @@
 
 ***Also on file***. [Open data portal](<https://budget.finance.go.ug/sites/default/files/Sector%20Spending%20Agency%20Budgets%20and%20Performance/2021-2022_QuarterlyReport_Q4_020_MinistryofICTandNationalGuidance_05082022195509.pdf>).
 
-***Not found***. No source found since November 2023 names a second public body publishing data under an open licence.
+***Not found***. No source found since November 2024 names or counts four or more public bodies publishing data.

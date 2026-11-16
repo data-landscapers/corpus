@@ -21,8 +21,8 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 | Stage | Countries |
 |---|---|
 | 5 Mature | 10 |
-| 4 Operating | 6 |
-| 3 Established | 34 |
+| 4 Operating | 8 |
+| 3 Established | 32 |
 | 2 Nascent | 2 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -100,6 +100,14 @@ In 2024 the revenue authority said about 99 percent of its payments, customs inc
 - ZRA says that in December 2023 it implemented the Integrated Payment System, introducing customs payments on mobile platforms alongside its tax payment platforms ([source, 2023-12](https://www.dailynationzambia.com/2024/02/zra-adopts-advanced-technology-system-in-income-collection/)).
 - The Office of the Accountant General says Zambia's digital payment and service platforms have collected more than K8.8 billion (US$488 million) ([source, 2026-07-10](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2)).
 
+### Burkina Faso: 4 Operating
+
+Taxes were filed and paid online in 2026 and customs duties paid electronically from 2025; no figure for revenue paid electronically has been found.
+
+- leFaso.net says eSINTAX JAVA, the DGI's tax-procedures portal, lets taxpayers remotely make their declarations, payments and requests for attestations ([source, 2026-11-04](https://lefaso.net/spip.php?article150547)).
+- We Are Tech Africa reports the government platform Faso Arzêka, run through the Treasury directorate, takes payment of eTimbre tax stamps, motor-vehicle tax, residence tax and customs duties by app, web and USSD *700# ([source, 2025-01-30](https://www.wearetech.africa/en/fils-uk/solutions/burkina-faso-launches-digital-payment-platform-to-streamline-government-services)).
+- The Ministry of Economy and Finance says the Prime Minister officially launched FASO ARZEKA, a single platform for payments to central government, local authorities and public establishments that consolidates the Treasury, tax and customs platforms ([source, 2025-01-30](https://www.finances.gov.bf/forum/detail-actualites?cHash=28c13a8a998127250e0d7f17528dcd44&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=2004)).
+
 ### Cameroon: 4 Operating
 
 In 2026 taxes were declared and paid online and customs duties could be paid digitally; the electronic share is not reported.
@@ -142,6 +150,12 @@ In 2025 the main taxes and customs duties were paid electronically; the share of
 - The MRA says companies pay corporate tax, VAT, PAYE, APS and TDS electronically, including PRGF e-payment through its website ([source, 2025-04](https://www.mra.mu/download/TaxBasicsForNewlyIncorporatedCompanies.pdf)).
 - The TradeNet portal page of Mauritius Network Services says commercial banks are linked to it, enabling electronic payment of duties and taxes, and a 10 March 2025 notice says electronic payment instructions are processed on it ([source, 2025-03-10](https://tradenetmns.mu/WEBVEHICLE/Index)).
 
+### Namibia: 4 Operating
+
+In 2025 domestic taxes and customs duties were paid by electronic transfer; no figure for revenue paid electronically has been found.
+
+- NamRA says domestic taxes are paid by electronic fund transfer to its Bank of Namibia accounts after liabilities are confirmed on the ITAS portal, and customs payments can also be made by EFT, alongside cash and card at its offices ([source, 2025-05-12](https://www.namra.org.na/documents/cms/uploaded/namra-communique-wagon--newsletterjanuary--march-99188d048f.pdf)).
+
 ### Algeria: 3 Established
 
 Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
@@ -154,13 +168,6 @@ Some taxes or fees could be paid electronically in 2026; no source found reports
 Some taxes or fees could be paid electronically in 2024; no source found reports the main taxes and duties.
 
 - Finance minister Peggy Serame listed online tax filing and electronic payment among BURS e-services in operation ([source, 2024-02](https://dailynews.gov.bw/news-detail/77665)).
-
-### Burkina Faso: 3 Established
-
-Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
-
-- Burkina24 reports public-administration payments such as the vehicle tax and levies can be paid directly through Orange's Max It app, per Orange's Abdramane Diallo ([source, 2026-09-18](https://burkina24.com/2026/09/21/orange-burkina-faso-lance-la-nouvelle-version-de-son-application-max-it/)).
-- The CNSS social-security fund launched the eCNSS Burkina app on 28 October 2025, which lets employers pay contributions by bank transfer order or mobile money ([source, 2025-10-28](https://fr.allafrica.com/stories/202510290346.html)).
 
 ### Burundi: 3 Established
 
@@ -263,12 +270,6 @@ Some taxes or fees could be paid electronically in 2026; no source found reports
 Some taxes or fees could be paid electronically in 2023; no source found reports the main taxes and duties.
 
 - Kabum Digital says company registration on the SRN portal is paid electronically by M-Pesa mobile wallet or bank ([source, 2023-11-24](https://kabum.digital/mocambique-lanca-plataforma-para-registo-de-empresas/)).
-
-### Namibia: 3 Established
-
-Some taxes or fees could be paid electronically in 2025; no source found reports the main taxes and duties.
-
-- NamRA says domestic taxes are paid by electronic fund transfer to its Bank of Namibia accounts after liabilities are confirmed on the ITAS portal, and customs payments can also be made by EFT, alongside cash and card at its offices ([source, 2025-05-12](https://www.namra.org.na/documents/cms/uploaded/namra-communique-wagon--newsletterjanuary--march-99188d048f.pdf)).
 
 ### Niger: 3 Established
 

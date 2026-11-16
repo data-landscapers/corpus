@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "displaced",
-      "stage": "2",
-      "registration": "underway",
+      "stage": "3",
+      "registration": "documented",
       "access": "",
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZMB-001;ZMB-002",
-      "gaps": "No source since October 2023 says refugees were issued documents with a number. No source since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
-      "note": "Stage 2: a 2025 World Bank project will issue national registration cards to refugees, and refugee travel documents can be applied for online. No issue of documents with a number is held, so not 3.",
-      "as_at": "2026-11-13"
+      "stage_sources": "ZMB-003",
+      "gaps": "No source found since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+      "note": "Restaged under messages-for-bill 135 (a registered count is enough): the government registered 10,194 refugees from January to August 2024 (ZMB-003). Nothing says refugees may use SIM cards, accounts or digital ID, so not 4.",
+      "as_at": "2026-11-16"
     }
   ]
 }

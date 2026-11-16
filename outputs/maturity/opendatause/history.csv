@@ -41,3 +41,9 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-13,SDN,data.open--use-of-open-data,fact,no evidence,2,SDN-001,"Sea Ports Corporation annual statistics for download, latest April 2026: no evidence to 2"
 2026-11-13,TCD,data.open--use-of-open-data,fact,no evidence,2,TCD-002,Customs directorate 2025 trade statistics for download: no evidence to 2
 2026-11-13,CPV,data.open--use-of-open-data,fact,2,2,CPV-003;CPV-001;CPV-002,"Fisheries Information System on the DNPA site from January 2026, updated by fisheries, maritime and statistics bodies: breadth several, no licence, stays 2"
+2026-11-16,ZAF,data.open--use-of-open-data,ruling,3,4,ZAF-005;ZAF-003;ZAF-007,messages-for-bill 134: separate sources may add up; 3->4
+2026-11-16,COG,data.open--use-of-open-data,ruling,3,4,COG-004;COG-003;COG-001,"messages-for-bill 134: separate sources may add up, with 128 any; 3->4"
+2026-11-16,UGA,data.open--use-of-open-data,ruling,3,4,UGA-008;UGA-007;UGA-006,"messages-for-bill 134: separate sources may add up, with 128 any; 3->4"
+2026-11-16,MDG,data.open--use-of-open-data,ruling,3,4,MDG-002;MDG-001;MDG-003,"messages-for-bill 134: separate sources may add up, with 128 any; 3->4"
+2026-11-16,TZA,data.open--use-of-open-data,ruling,3,4,TZA-005;TZA-003;TZA-002,"messages-for-bill 134: separate sources may add up, with 128 any; 3->4"
+2026-11-16,ZAF,data.open--use-of-open-data,ruling,4,5,ZAF-005;ZAF-003;ZAF-007;ZAF-006;ZAF-004,"messages-for-bill 134: separate sources may add up, at rung 5 too; 4->5"
