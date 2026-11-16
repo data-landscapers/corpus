@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: BWA
 ledger_rows: 20
 not_held: 5
-record: 5d55233d6adc
+record: 3cc505c2fb73
 ---
 
 # News, Oct – Nov 2026
@@ -326,7 +326,7 @@ The Ayre Index of youth AI readiness was launched at the November 2026 Commonwea
 
 **[Botswana’s Next Diamond May Not Be Beneath the Ground. It May Be in Its Data.](https://www.linkedin.com/pulse/botswanas-next-diamond-may-beneath-ground-its-data-ohuruogu-phd-aladc/)** — LinkedIn Pulse, 1 November 2026
 
-GPSDD panellist: proposed National Statistical Data Platform; data as Botswana’s strategic asset, plan 2026-2030.
+A panellist from a global data partnership writes on the launch of the statistics office's 2026–2030 plan. The Acting President called data the country's next diamond. The plan proposes a national statistical data platform to link data sources. No design, budget or date is given.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — progress report, November 2025 – November 2026
-compiled: 2026-11-15
-period: 2025-11-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2025-11-01 to 2026-11-16
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0065d16ecd41
+record: 63e27d8a798b
 ---
 
 # Data Exchange: progress report, November 2025 – November 2026

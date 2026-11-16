@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, October – November 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 subject: data.statistics
 places: DZA; BWA; BDI; CAF; COG; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA
-record: 1bb7ee2358ed
+record: 0742b607f685
 ---
 
 # News, Oct – Nov 2026
@@ -76,6 +76,20 @@ At the Council of Ministers on 8 November 2026, President Abdelmadjid Tebboune t
 </div>
 
 ## Botswana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Statistical Data Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Botswana’s Next Diamond May Not Be Beneath the Ground. It May Be in Its Data.](https://www.linkedin.com/pulse/botswanas-next-diamond-may-beneath-ground-its-data-ohuruogu-phd-aladc/)** — LinkedIn Pulse, 1 November 2026
+
+A panellist from a global data partnership writes on the launch of the statistics office's 2026–2030 plan. The Acting President called data the country's next diamond. The plan proposes a national statistical data platform to link data sources. No design, budget or date is given.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

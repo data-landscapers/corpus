@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — progress report, November 2025 – November 2026
-compiled: 2026-11-15
-period: 2025-11-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2025-11-01 to 2026-11-16
 subject: tech.innovate
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 86d1f29a3dc1
+record: fb35ae1f10a5
 ---
 
 # Innovation ecosystem: progress report, November 2025 – November 2026
