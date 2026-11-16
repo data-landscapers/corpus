@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: XAF
-ledger_rows: 79
+ledger_rows: 81
 not_held: 3
-record: 31688813bb7a
+record: d79d2a2e7b8b
 ---
 
 # News, Oct – Nov 2026
@@ -277,6 +277,20 @@ African judges held their first judicial dialogue on internet governance at the 
 **[African health leaders adopt Nairobi Action Agenda to turn health data into better healthcare](https://afro.who.int/news/african-health-leaders-adopt-nairobi-action-agenda-turn-health-data-better-healthcare)** — WHO Regional Office for Africa, 13 November 2026
 
 Government representatives and health partners at the First Africa Health Data Forum in Nairobi adopted the Nairobi Health Data Action Agenda on 12 November 2026. It sets eight priorities. These are to be tracked under an accountability framework through 2030. The forum is to meet every two years, next in 2028.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa's ITU Council seats, 2027-2030 term</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nineteen African Countries Race for Seats on UN Body That Shapes Global Telecom Rules](https://www.ecofinagency.com/news/1511-60819-nineteen-african-countries-race-for-seats-on-un-body-that-shapes-global-telecom-rules)** — Ecofin Agency, 15 November 2026
+
+Nineteen African countries are contesting Africa's 13 ITU Council seats for 2027-2030. All 13 incumbents are standing: Algeria, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania, Tunisia and Uganda. Six challengers are Cabo Verde, Côte d'Ivoire, DR Congo, Gabon, Libya and Mali.
 
 </div>
 
@@ -1475,6 +1489,20 @@ IFC disclosed a proposed loan of up to US$7.5 million, capped at 10% of fund siz
 **[IFC Eyes $7.5M for $100M African Fintech Lending Fund](https://techsoma.africa/african-fintech-lending-fund-ifc-investment/)** — TechSoma, 20 October 2026
 
 TechSoma reports IFC's proposed senior loan of up to US$7.5 million to Cauris Finance's Third Wave Fund, which targets US$75 million and may raise up to US$100 million to lend to African fintech lenders. About 60% would go to lenders serving small businesses and 40% to vehicle-finance fintechs; the loan is not yet approved, with a board decision expected on 30 November 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Enza Capital artificial-intelligence fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Enza Capital lève 21 millions de dollars pour son fonds d'intelligence artificielle](https://www.wearetech.africa/fr/fils/breves/breves-simple/enza-capital-leve-21-millions-de-dollars-pour-son-fonds-dintelligence-artificielle)** — wearetech.africa, 16 November 2026
+
+Pan-African venture firm Enza Capital reported a first close of US$21 million on its AI fund, against a target of US$60 million. From 2027 the fund will back African startups building AI software in health, finance and agriculture.
 
 </div>
 

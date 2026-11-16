@@ -1,12 +1,12 @@
 ---
 title: Congo: status report
-compiled: 2026-11-14
+compiled: 2026-11-16
 place: COG
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 199
+sources_cited: 200
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -253,7 +253,7 @@ The improvement the country can point to outside the cities is economic rather t
 
 Congo is drafting an artificial intelligence strategy and has not adopted one. [A UNDP-backed technical committee began work on 6 May 2026 with six months to deliver eleven outputs, a digital corpus for two national languages at their centre](https://www.adiac-congo.com/content/intelligence-artificielle-et-langues-nationales-le-congo-lance-les-travaux-de-sa-strategie), on [a budget put at FCFA 150 million to 200 million](https://www.journaldebrazza.com/congo-le-gouvernement-veut-faire-de-lia-un-moteur-de-developpement/). [The Africa AI Governance Index found no standalone AI strategy adopted, scoring Congo 1.75 out of 4 and 18th of 54 (October 2026)](https://www.aipolicy.africa/country-profiles/congo), and the regulator's [January 2026 conferences on digital and AI regulation closed on priorities for a national regulatory framework rather than on an instrument](https://www.adiac-congo.com/content/intelligence-artificielle-le-congo-pose-les-jalons-dune-regulation-168692).
 
-The state's own AI institution is the African artificial intelligence research centre, CARIA: [a joint laboratory with China's CAICT was announced for it in September 2025](https://techafricanews.com/2025/09/18/congo-showcases-digital-infrastructure-gains-and-ai-ambitions-in-xiamen/), and [in April 2026 Russian financing for its third and fourth phases, through a debt conversion with Sberbank, was awaiting final validation](https://techafricanews.com/2026/04/21/congo-and-russia-strengthen-digital-and-ai-cooperation-during-high-level-meeting/). The one government use on record is [an artificial-intelligence information platform on business-support schemes that the small-business directorate opened to public testing in September 2024](https://www.linkedin.com/feed/update/urn:li:activity:7243556420925759490), ahead of a chatbot; the repository holds no later account of it.
+The state's own AI institution is the African artificial intelligence research centre, CARIA: [a joint laboratory with China's CAICT was announced for it in September 2025](https://techafricanews.com/2025/09/18/congo-showcases-digital-infrastructure-gains-and-ai-ambitions-in-xiamen/), and [in April 2026 Russian financing for its third and fourth phases, through a debt conversion with Sberbank, was awaiting final validation](https://techafricanews.com/2026/04/21/congo-and-russia-strengthen-digital-and-ai-cooperation-during-high-level-meeting/). [The small-business directorate opened an artificial-intelligence information platform on business-support schemes to public testing in September 2024](https://www.linkedin.com/feed/update/urn:li:activity:7243556420925759490), ahead of a chatbot. [In November 2026 the digital minister told the ITU that his ministry works with AI agents in its daily administration, built on market solutions](https://pp.itu.int/2026/en/itu_policy_statements/congo-rep-of-the/); no system or vendor has been named.
 
 Building in the national language has started outside government: [a local firm working on the MALOBA project with UNDP and the digital ministry published a Llama model fine-tuned for Lingala in July 2026](https://huggingface.co/Congo-digital-service/Llama-3.1-8B-Instruct-Lingala-QLoRA-merged-v2), followed in August by [a dataset of 884 image-text pairs for reading printed and handwritten Lingala](https://huggingface.co/datasets/Congo-digital-service/dataset-qwen-vl-lingala-qlora-vf).
 

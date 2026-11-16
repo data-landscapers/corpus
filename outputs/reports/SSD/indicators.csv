@@ -495,7 +495,11 @@ A custom dashboard began piloting climate-informed predictive modelling and auto
 
 Predictive modelling sits on top of a system three-quarters of facilities cannot feed electronically.
 
-2026 - [an analysis by Countdown to 2030 with the health ministry found 73 per cent of expected monthly facility reports received in DHIS2 in 2025, against 62 per cent in 2020, with only 24 per cent of districts at or above 90 per cent](2026-01-01-ssd-analysis-of-reproductive-maternal-newborn-child-and-adolescent-health).",SSD-dpi.mis-dhis2|SSD-dpi.mis-dhis2-reporting-completeness,3,SSD-dpi.mis-dhis2,,,,,,,2026-08-31,0,DHIS2 national instance in service; reporting completeness and private-sector coverage not on record
+2026 - [an analysis by Countdown to 2030 with the health ministry found 73 per cent of expected monthly facility reports received in DHIS2 in 2025, against 62 per cent in 2020, with only 24 per cent of districts at or above 90 per cent](2026-01-01-ssd-analysis-of-reproductive-maternal-newborn-child-and-adolescent-health).
+
+2026-04 - the World Health Organization [put counties with a functional health information system at all 80 by 2025, against none in 2010](2026-04-01-ssd-knowledge-management-series-for-health-world-health-day-2026-science-f).
+
+2026-03 - UNDP [tendered a pilot of the OpenMRS medical record at two Juba facilities, with integration into the logistics system](2026-03-11-ssd-pilot-implementation-of-openmrs-at-al-sabah-children-s-hospital-and-mu); no award has been found.",SSD-dpi.mis-dhis2|SSD-dpi.mis-dhis2-reporting-completeness|SSD-dpi.mis-openmrs-juba-pilot|SSD-dpi.mis-counties-with-functional-hmis,3,SSD-dpi.mis-dhis2,,,,,,,2026-08-31,0,DHIS2 national instance in service; reporting completeness and private-sector coverage not on record
 dpi.mis--social-protection,Movement,"One management information system, [linked to biometric registration and paying 87,867 households](2025-09-18-cash-transfers-helping-women-south-sudan), owned by a project rather than a ministry.","The system is government-led and linked to biometric beneficiary registration, described in its financing paper as project-scoped ([paper](2024-08-21-snsop-additional-financing-project-paper)).
 
 It had registered and paid 87,867 households across 15 counties by September 2025 ([scale](2025-09-18-cash-transfers-helping-women-south-sudan)).

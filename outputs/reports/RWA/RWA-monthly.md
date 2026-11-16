@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: RWA
-ledger_rows: 35
+ledger_rows: 36
 not_held: 7
-record: c82ba409b59a
+record: 9cf852d054bf
 ---
 
 # News, Oct – Nov 2026
@@ -345,6 +345,20 @@ Bank of Ghana Governor Johnson Asiama said on 13 October that the bank is testin
 **[Rwanda’s eKash Instant Payment System Sees Explosive Growth](https://gfmag.com/transaction-banking/rwandas-ekash-instant-payment-system-growth/)** — Global Finance Magazine, 15 October 2026
 
 The National Bank of Rwanda's governor told the IMF-World Bank annual meetings that Rwanda made all person-to-person transfers go through its eKash instant payment system and capped their fee at 20 Rwandan francs. Payments within the EAC go through the regional payment system and those beyond it through PAPSS, and a pilot linking eKash to Tanzania's TIPS is under way. The article's monthly transaction figures disagree with the central bank's own.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">eKash-Bakong remittance link with Cambodia</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda and Cambodia Launched eKash-Bakong Trial for Faster Money Transfers](https://radiotv10.rw/en/rwanda-and-cambodia-launched-ekash-bakong-trial-for-faster-money-transfers/)** — RadioTV10, 15 November 2026
+
+The National Bank of Rwanda and the National Bank of Cambodia launched a proof-of-concept link between Cambodia's Bakong and Rwanda's eKash in Phnom Penh on 15 November 2026. Cambodian institutions can send money to Rwandan bank accounts and wallets through ACLEDA Bank and I&M Bank Rwanda. Reverse transfers, fees, limits and a public-access date were not stated.
 
 </div>
 

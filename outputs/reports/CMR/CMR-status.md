@@ -1,12 +1,12 @@
 ---
 title: Cameroon: status report
-compiled: 2026-11-14
+compiled: 2026-11-16
 place: CMR
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 279
+sources_cited: 280
 sections_written: 39
 not_established: 1
 acquire_lines: 59
@@ -241,7 +241,7 @@ Cameroon's rural counter is still a paper counter: [civil and criminal records a
 
 What digital capture does exist outside the cities is donor-built and geographically bounded. UNDP and the civil registration office BUNEC have [equipped civil status centres in the Far North with computers, biometric kits, printers and dedicated software](https://www.undp.org/cameroon/stories/digitalizing-birth-certificates-where-technology-giving-every-child-name-and-future-0) (2025). In health, the national digital health plan [plans to expand electronic medical records and found most health staff, especially in rural areas, without computer skills](https://extranet.who.int/cpcd/sites/default/files/public_file_repository/cmr_cameroon_digital-health-strategy_2020-2024.pdf) (2020). In agriculture, the World Bank-financed PATNUC programme [handed four platforms to the agriculture ministry on 1 October 2026, among them an interactive soil-fertility map and an agro-pastoral and geographic statistics system, and field collection of cultivable-soil samples began the same day](https://leconomie.info/article/minette-libom-li-likeng-la-transformation-numerique-simpose-aujourdhui-comme-un-levier-de-modernisation-de-laction-publique); no user count is published.
 
-The substrate for capturing anything is thin. The rural connectivity component of PATNuC [targets 328 unserved localities by 2028](https://www.businessincameroon.com/public-management/0911-15315-digital-divide-cameroon-aims-to-connect-328-rural-communities-by-2028), and [the project awarded the rural mobile broadband equipment in eight lots to MTN Cameroon, Orange Cameroun and CAMTEL in June 2026, with contract signature still under way](https://armp.cm/details?id_publication=36008&type_publication=COMM). [Rural electricity access](https://tradingeconomics.com/cameroon/access-to-electricity-rural-percent-of-rural-population-wb-data.html) (2023) and [rural internet use](https://unctad.org/system/files/non-official-document/23_WG_ECDE_2023_Friday_PM_Cameroon_rev.pdf) (2022) both run far below the urban levels.
+The substrate for capturing anything is thin. The rural connectivity component of PATNuC [targets 328 unserved localities by 2028](https://www.businessincameroon.com/public-management/0911-15315-digital-divide-cameroon-aims-to-connect-328-rural-communities-by-2028), and [the project awarded the rural mobile broadband equipment in eight lots to MTN Cameroon, Orange Cameroun and CAMTEL in June 2026](https://armp.cm/details?id_publication=36008&type_publication=COMM). [On 13 November 2026 the telecommunications minister assessed a site built under it at Campo Beach, one of nine in the Océan department](https://www.cameroon-tribune.cm/articles/12210/fr/acces-aux-services-numeriques-au-tour-de-campo-beach). [Rural electricity access](https://tradingeconomics.com/cameroon/access-to-electricity-rural-percent-of-rural-population-wb-data.html) (2023) and [rural internet use](https://unctad.org/system/files/non-official-document/23_WG_ECDE_2023_Friday_PM_Cameroon_rev.pdf) (2022) both run far below the urban levels.
 
 The rural economy the data would describe scores comparatively well. Cameroon's Rural Economy sub-category stood at [63.8 out of 100 in 2023, 24th of 54 countries and up 1.6 points — its second best-scoring sub-category of sixteen](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cm.pdf). Within it, rural land and water access improved substantially over the decade to 2023 while rural market access moved sharply the other way.
 

@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: COG
-ledger_rows: 16
+ledger_rows: 19
 not_held: 5
-record: b68b3d10692c
+record: be0395bb29b8
 ---
 
 # News, Oct – Nov 2026
@@ -114,6 +114,8 @@ ISO lists ACONOQ, created by a 2015 law, as the Republic of Congo's national sta
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#energy">Energy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -165,6 +167,22 @@ Congo's communications regulator Arpce presented the second edition of its white
 **[Crise du carburant : les réseaux télécoms à bout de souffle](https://www.adiac-congo.com/content/crise-du-carburant-les-reseaux-telecoms-bout-de-souffle-172163)** — Les Dépêches de Brazzaville (ADIAC), 27 October 2026
 
 Congo's telecoms regulator reported voice, internet and mobile-money outages on 27 October 2026. They hit all or part of the country. A diesel shortage caused them by leaving backup generators without fuel. Operators average nine hours of grid power a day against six hours of battery autonomy. Helios Towers needs about 100,000 litres of diesel a week for its 550 sites.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National security operations centre and response team</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Congo (Rep. of the) - PP-26 Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/congo-rep-of-the/)** — International Telecommunication Union, 14 November 2026
+
+Minister's Doha statement: seven e-services open 5 Dec 2026; data centre end-Nov; nine-programme roadmap.
 
 </div>
 
@@ -256,6 +274,20 @@ Officials of the Republic of Congo's tax directorate briefed Pointe-Noire busine
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital roadmap priority services</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Congo (Rep. of the) - PP-26 Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/congo-rep-of-the/)** — International Telecommunication Union, 14 November 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -273,6 +305,20 @@ Officials of the Republic of Congo's tax directorate briefed Pointe-Noire busine
 **[Country Profile on AI Governance: Republic of the Congo](https://www.aipolicy.africa/country-profiles/congo)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 The Republic of the Congo scored 1.75 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 18 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Infrastructure and Data (2.22) and its weakest is Implementation and Impact (1.00).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI agents in the digital ministry's administration</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Congo (Rep. of the) - PP-26 Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/congo-rep-of-the/)** — International Telecommunication Union, 14 November 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
 
 </div>
 

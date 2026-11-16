@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: NAM
-ledger_rows: 22
+ledger_rows: 23
 not_held: 8
-record: 4036f8014879
+record: 1656c8c1b908
 ---
 
 # News, Oct – Nov 2026
@@ -207,6 +207,8 @@ Namibia's NAM-CSIRT, housed at the regulator CRAN, recorded 506,143 vulnerabilit
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
@@ -257,6 +259,30 @@ Namibian MPs questioned the planned digital ID on rural reach, cost, data owners
 **[Cabinet Briefs](https://neweralive.na/cabinet-briefs-15/)** — New Era, 4 November 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+### Digital Payments and Fintech
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Payment system fraud losses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibia Financial Stability Report, October 2026](https://www.bon.com.na/getattachment/aa471267-d19f-4c4c-903a-5e099e890307/.aspx)** — Bank of Namibia and Namibia Financial Institutions Supervisory Authority, 2 November 2026
+
+H1 2026 payment fraud N$32.45m, up 18.9% y/y; EFT fraud N$21.87m, up 47.3%; card and e-money losses down.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibians lose N$32.45 million to payment fraud](https://www.namibian.com.na/namibians-lose-n32-45-million-to-payment-fraud/)** — The Namibian, 15 November 2026
+
+Payment fraud cost Namibians N$32.45 million in the first half of 2026, up 18.9% from N$27.29 million a year earlier, according to the Bank of Namibia's Financial Stability Report. Electronic fund transfer fraud accounted for N$21.87 million, or 67.4%, and was up 47.3% year on year. The report links it to phishing and vishing.
 
 </div>
 

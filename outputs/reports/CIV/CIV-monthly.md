@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: CIV
-ledger_rows: 50
+ledger_rows: 53
 not_held: 9
-record: c49826a3fed2
+record: 642ff39f6c01
 ---
 
 # News, Oct – Nov 2026
@@ -143,6 +143,20 @@ Côte d'Ivoire's press regulator ANP and cybersecurity agency ANSSI agreed on 21
 </nav>
 
 ### Domestic budget appropriations and expenditure
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">FY2025 digital ministry budget execution</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Présentation du projet de budget 2027 — Ministère de la Transition numérique et de l'Innovation technologique](https://telecom.gouv.ci/uploads/publications/179457122271.pdf)** — Ministère de la Transition numérique et de l'Innovation technologique, 13 November 2026
+
+Minister's own deck: 2027 request 120.72bn FCFA in five programmes; 2025 budget 65.43bn, 98.76% executed.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -809,6 +823,34 @@ Côte d'Ivoire's minister for digital transition, Djibril Ouattara, announced on
 **[Côte d’Ivoire targets 500 digital companies by 2031 under new startup initiative](https://techreviewafrica.com/news/8328/c-te-d-ivoire-targets-500-digital-companies-by-2031-under-new-startup-initiative)** — Tech Review Africa, 14 November 2026
 
 A second account of the Ivoire Tech Forum 2026 opening, where Côte d'Ivoire's digital transition minister Djibril Ouattara set a target of about 500 digital companies by 2031. The government plans to review 1,000 digital projects between 2027 and 2029. See the Ivoire Tech Forum entry for the full account.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Djassao tender-alert platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire : via sa plateforme web, Djassao facilite l'accès des PME aux appels d'offres](https://www.wearetech.africa/fr/fils/solutions/cote-d-ivoire-via-sa-plateforme-web-djassao-facilite-lacces-des-pme-aux-appels-doffres)** — wearetech.africa, 16 November 2026
+
+Launched October 2026; first month 70+ firms, 37 suppliers, 44 tenders relayed; no contract outcomes reported.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Faba Finance credit-matching platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire : Ivana Valera numérise le scoring et l'octroi de crédits](https://www.wearetech.africa/fr/fils/tech-stars/cote-d-ivoire-ivana-valera-numerise-le-scoring-et-loctroi-de-credits)** — wearetech.africa, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+Piloted from 18 May 2026 in CIV and Senegal; 1,000+ requests worth over 7bn FCFA by end-October; AI scoring.
 
 </div>
 

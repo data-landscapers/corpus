@@ -1,12 +1,12 @@
 ---
 title: Djibouti: status report
-compiled: 2026-11-14
+compiled: 2026-11-16
 place: DJI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 25
-sources_cited: 227
+sources_cited: 228
 sections_written: 39
 not_established: 0
 acquire_lines: 21
@@ -241,7 +241,7 @@ The business register, [the Registre de Commerce et des Sociétés maintained by
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-The national DHIS2 platform [does not yet take in community-level data, and there are no community indicators or tools for collecting it](https://reliefweb.int/attachments/73a027b7-f448-4206-b77e-de3b9e776335/241212%20UNICEF%20MENARO%20Country%20Brief%20Djibouti%20English.pdf.pdf) (2024). [mSupply for pharmaceutical stock was installed across all health facilities by April 2025](https://www.wearetech.africa/en/fils-uk/news/tech/djibouti-completes-nationwide-rollout-of-msupply-software-to-modernize-healthcare). In April 2025 WHO's country office recorded that [assessments had shown limitations in the health data system, including challenges in the use of DHIS2](https://cdn.who.int/media/docs/default-source/evaluation-office/management-response_evaluation-of-who-contribution-in-djibouti.pdf?download=true&sfvrsn=c96230e4_3). [Resources were still being sought to revamp it](https://cdn.who.int/media/docs/default-source/evaluation-office/management-response_evaluation-of-who-contribution-in-djibouti.pdf?download=true&sfvrsn=c96230e4_3). [An HIV/TB Tracker built by HISP Rwanda was launched on DHIS2 in 2025 with the health-information department and the national HIV/TB programme](https://hisprwanda.org/hiv-tb-tracker-launch-in-djibouti/).
+The national DHIS2 platform [does not yet take in community-level data, and there are no community indicators or tools for collecting it](https://reliefweb.int/attachments/73a027b7-f448-4206-b77e-de3b9e776335/241212%20UNICEF%20MENARO%20Country%20Brief%20Djibouti%20English.pdf.pdf) (2024). [The medicines procurement office announced mSupply for pharmaceutical stock installed across all health facilities in April 2025](https://www.wearetech.africa/en/fils-uk/news/tech/djibouti-completes-nationwide-rollout-of-msupply-software-to-modernize-healthcare). [In May 2025 its project coordinator put it at 35 sites, with the whole health map to be covered by the end of 2025](https://sante.gouv.dj/article/181). In April 2025 WHO's country office recorded that [assessments had shown limitations in the health data system, including challenges in the use of DHIS2](https://cdn.who.int/media/docs/default-source/evaluation-office/management-response_evaluation-of-who-contribution-in-djibouti.pdf?download=true&sfvrsn=c96230e4_3). [Resources were still being sought to revamp it](https://cdn.who.int/media/docs/default-source/evaluation-office/management-response_evaluation-of-who-contribution-in-djibouti.pdf?download=true&sfvrsn=c96230e4_3). [An HIV/TB Tracker built by HISP Rwanda was launched on DHIS2 in 2025 with the health-information department and the national HIV/TB programme](https://hisprwanda.org/hiv-tb-tracker-launch-in-djibouti/).
 
 In education the ministry [made consolidation of the education management information system through the GOSE and SMIS platforms a strategic priority for 2025-2026](https://www.lanation.dj/une-rentree-scolaire-2025-2026-placee-sous-le-signe-de-la-performance-et-de-la-reforme/). [The aim is to identify at-risk pupils and track them individually](https://www.lanation.dj/une-rentree-scolaire-2025-2026-placee-sous-le-signe-de-la-performance-et-de-la-reforme/). [In 2019 school directors collected data digitally through the OPAD application, but the ministry's statistics office still re-entered it by hand because the systems were incompatible](https://documents1.worldbank.org/curated/en/605651570154537746/pdf/Djibouti-Expanding-Opportunities-for-Learning-Project.pdf). [The statistical yearbook appeared about seven months late](https://documents1.worldbank.org/curated/en/605651570154537746/pdf/Djibouti-Expanding-Opportunities-for-Learning-Project.pdf). Djibouti [is the first country to have validated 100% of its school locations on Giga Maps](https://giga.global/impact/ai-as-a-tool-for-connectivity/) (April 2026), after AI identification of school buildings from satellite imagery.
 

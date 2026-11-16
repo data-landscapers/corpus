@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: LBR
-ledger_rows: 27
+ledger_rows: 29
 not_held: 6
-record: 6ea3c1719035
+record: 84a1811d9fd6
 ---
 
 # News, Oct – Nov 2026
@@ -286,6 +286,14 @@ A committee of Liberia's House suspended its review of a US$52 million concessio
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[US$52M ID Deal Faces Fresh Scrutiny](https://www.newerainquirer.com/article/29a1a5b7-1ba2-4dde-a435-3dae7102b0f6)** — The Inquirer (Liberia), 13 November 2026
+
+Third House hearing closed; NIR on US$33m budget with ~740,000 records; MoF gave US$1m of ~US$40m needed.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -417,6 +425,34 @@ The Liberia Revenue Authority showed a public revenue dashboard and an AI virtua
 **[LACC Launches Anti-Corruption Dashboard](https://www.thenewdawnliberia.com/lacc-launches-anti-corruption-dashboard/)** — The New Dawn, 12 November 2026
 
 The Liberia Anti-Corruption Commission launched a public accountability dashboard on 11 November 2026, due to become operational in 2027. It is to bring together audit findings, procurement compliance, investigations, prosecutions and asset declarations. The work sits under the World Bank-supported GREAT Project. The PPCC, the General Auditing Commission and the Public Accounts Committee are to be trained to feed it.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">New York consulate online payment for consular services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia’s New York Consulate Introduces Online Payment for Services](https://www.thenewdawnliberia.com/liberias-new-york-consulate-introduces-online-payment-for-services/)** — The New Dawn Liberia, 16 November 2026
+
+Liberia's Consulate General in New York now takes online payment through its website for all consular services. These include visas, new and renewed passports, laissez-passer, document legalisation and authentication, and birth affidavits.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online mineral licence application system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MME Trains, Certifies Geologists, Mining Consultancy Firms on Licensing Procedures](https://www.liberianobserver.com/news/mme-trains-certifies-geologists-mining-consultancy-firms-on-licensing-procedures/article_0216311d-d201-42e2-b3c4-c0080794ab97.html)** — Liberian Observer, 16 November 2026
+
+The Ministry of Mines and Energy says its online mining licence and permit system is fully operational. It trained and certified geologists and consultancy firms on the platform. The training also covered the Revenue Authority's online payment system.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: CMR
-ledger_rows: 31
+ledger_rows: 32
 not_held: 3
-record: 9882264e6d48
+record: 8d9fbdd14be5
 ---
 
 # News, Oct – Nov 2026
@@ -251,6 +251,20 @@ CAMTEL and the state housing developer SIC signed a framework agreement in Yaoun
 **[Camtel, Socadel explore infrastructure sharing deal](https://www.itweb.africa/article/camtel-socadel-explore-infrastructure-sharing-deal/Olx4z7kaBQmq56km)** — ITWeb Africa, 19 October 2026
 
 Cameroon's Camtel and electricity utility Socadel signed a memorandum of understanding in Yaoundé on 16 October 2026 to study infrastructure sharing. It would pair Camtel's national fibre backbone with Socadel's poles and rights-of-way to extend fibre along overhead power lines. Feasibility studies and pilot sites come next.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Rural broadband procurement under the digital transformation project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Accès aux services numériques: Au tour de Campo Beach](https://www.cameroon-tribune.cm/articles/12210/fr/acces-aux-services-numeriques-au-tour-de-campo-beach)** — Cameroon Tribune, 16 November 2026
+
+The posts and telecoms minister inspected a PATNUC connectivity site at Campo Beach, in the South region, on 13 November 2026. It is one of nine in the Océan department. The rural connectivity programme plans sites in 362 under-served localities.
 
 </div>
 
