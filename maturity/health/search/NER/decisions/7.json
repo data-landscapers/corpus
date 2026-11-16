@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Analyse des indicateurs de santé reproductive, maternelle, néonatale, infantile et des adolescents 2019-2023 NIGER", "publisher": "Countdown to 2030", "published": "2024", "date_source": "proxy", "why_not": "The extracted text is chart headings: it says districts validate data with the DHIS2 DQR tool but gives no figure or dated fact on tiers, where data is keyed or clinics entering."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "governance",
+ "fact": "The 2016-2035 health plan's HMIS reform rests on the roll-out and use of the DHIS2 platform, alongside a digitisation process including patient records.",
+ "title": "Health System Reforms in Niger",
+ "publisher": "GFF Knowledge and Learning Platform",
+ "published": "2022-04-21",
+ "date_source": "source",
+ "why_not": ""
+}

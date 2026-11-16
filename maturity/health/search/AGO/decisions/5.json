@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Angola desenvolve Plano Estratégico do Sistema de Informação Sanitária", "publisher": "OMS | Escritório Regional para a África", "published": "2024-03-05", "date_source": "proxy", "why_not": "States the start of work on the 2024-2030 PESIS with EU finance, already held (AGO-008, AGO-009); nothing on tiers. The page text carries no date."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "governance",
+ "fact": "HISP says Angola began using DHIS2 in 2015 through the USAID-funded Força Saúde project and still uses it for its health programmes.",
+ "title": "Sauditigus: Strengthening health systems in Portuguese-speaking Africa",
+ "publisher": "DHIS2",
+ "published": "2024-07-31",
+ "date_source": "source",
+ "why_not": ""
+}

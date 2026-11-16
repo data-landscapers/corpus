@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Improving quality and use of malaria surveillance data: Results from evaluating the effectiveness and acceptability of a new integrated malaria information storage system in selected districts in Mozambique", "publisher": "Malaria Consortium", "published": "2021", "date_source": "source", "why_not": "iMISS is malaria-only reporting (single-function, noted not assessed): 94 facilities in 7 districts submitting monthly malaria reports by tablet, February-July 2021; it states nothing on SIS-MA entry."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;clinics",
+ "fact": "Malaria monthly reports were prepared at facilities and submitted on paper to district offices to be entered in SISMA; in 2021 seven districts' 94 facilities began submitting electronically by tablet.",
+ "title": "Improving the Quality and Use of Malaria Surveillance Data: Results from Evaluating an Integrated Malaria Information Storage System at the Health Facility Level in Selected Districts in Mozambique",
+ "publisher": "PMC",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

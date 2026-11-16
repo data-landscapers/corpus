@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "السياسة العمومية في مجال الصحة والحماية الاجتماعية", "publisher": "المملكة المغربية (maroc.ma)", "published": "2025-02", "date_source": "proxy", "why_not": "The Arabic edition of lead 1, stating the same facts and nothing more; lead 1 is selected."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "tiers;digitised",
+ "fact": "The health minister said hospital information systems had been generalised in a number of regions and primary care centres integrated into a unified digital network, as the shared medical record continues to be rolled out.",
+ "title": "الملف الطبي الموحد.. وزارة الصحة تواصل رقمنة المسار العلاجي للمرضى",
+ "publisher": "20 Minutes",
+ "published": "2026-06-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised;governance",
+ "fact": "The national EMR integration agenda aims to expand digital record coverage from a baseline of 12% in 2024 to 70% in 2029 across hospitals and health centres; 54% of 1,300 Health Posts have a functional computer and 36% internet.",
+ "title": "Thematic Snapshot Rwanda: Digitizing Rural Health Facilities",
+ "publisher": "The Global Fund",
+ "published": "2026-05",
+ "date_source": "source",
+ "why_not": ""
+}

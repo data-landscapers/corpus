@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "In-country data and data systems", "publisher": "Global Fund Office of the Inspector General", "published": "2023", "date_source": "proxy", "why_not": "A multi-country audit; on DR Congo it says only that the WHO data quality app in DHIS2 was installed then deactivated and gives grant absorption rates, nothing on tiers, place of entry or clinics."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "clinics;digitised",
+ "fact": "In 2025 only 1,634 of 4,691 Kinshasa health facilities were integrated into DHIS2; in a facility survey 21.9% entered data digitally and directly, 43.8% used paper with delayed digital entry and 34.4% paper only.",
+ "title": "Integration des systemes d'information sanitaire et efficience decisionnelle : etude empirique du DHIS2 dans la metropole de Kinshasa",
+ "publisher": "Revue Internationale de la Recherche Scientifique (Revue-IRS)",
+ "published": "2026-03",
+ "date_source": "source",
+ "why_not": ""
+}

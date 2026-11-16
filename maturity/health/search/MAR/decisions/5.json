@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "hmis", "aspect": "governance;last12", "fact": "Morocco's National Health Compact, dated 6 December 2025, commits the government to finish deploying integrated health information systems in health establishments, lists in its action plan the deployment and operation of an integrated health information system (SIIS) in all primary health care establishments as 'en cours de déploiement' and in all university hospitals as 'en cours', under the Ministry of Health and Social Protection and the territorial health groups, and says the health investment budget serves among other things to modernise information systems.", "title": "Pacte national pour la santé — Royaume du Maroc", "publisher": "Royaume du Maroc", "published": "2025-12-06", "date_source": "source", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "governance",
+ "fact": "Framework law 06-22 (article 28) creates an integrated national health information system to collect all data on public and private health establishments.",
+ "title": "Article 28 - Loi-cadre relative au système national de santé",
+ "publisher": "Ma Loi (Loi-cadre 06-22)",
+ "published": "2022-12-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

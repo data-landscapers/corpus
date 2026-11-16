@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "tiers;digitised;clinics",
+ "fact": "NACP's 2025 country update says the HIV DHIS2 e-Tracker EMR, run by data clerks at 26 facilities, was scaled to 35 more sites (61 in all), with the paper system kept as backup.",
+ "title": "Liberia: Country Update",
+ "publisher": "National AIDS and STI Control Program, Ministry of Health (CQUIN)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

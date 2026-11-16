@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "WHO Angola Annual Report 2023", "publisher": "WHO Angola", "published": "2024-01", "date_source": "proxy", "why_not": "Its only DHIS2 passage is the 2023 training of 20 technicians at the central epidemiological data centre (CPDE); it names no facility tier using the system."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "governance;tiers",
+ "fact": "A March 2026 WHO and HISP UiO mission found Angola's DHIS2-based national system serves more than 4,700 registered users and agreed next steps to upgrade the platform, harmonise data and build capacity at all levels.",
+ "title": "Angola to partner with HISP UiO and WHO on health information system integration",
+ "publisher": "DHIS2 (HISP Centre, University of Oslo)",
+ "published": "2026-04-07",
+ "date_source": "source",
+ "why_not": ""
+}

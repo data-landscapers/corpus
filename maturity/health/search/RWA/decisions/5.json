@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Health Post Monthly HMIS Report (Version 2019_3.1)", "publisher": "Republic of Rwanda, Ministry of Health", "published": "2019", "date_source": "source", "why_not": "A blank reporting form of 2019: a field for the date entered in RHMIS, no stated fact on where it is keyed, and dated before the tiers gap opens."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;governance",
+ "fact": "The Ministry of Health's 2019 SOPs require every health centre, post and private facility to submit monthly reports in the web-based DHIS-2 HMIS, in use since 2012, and to check report completeness on the electronic system.",
+ "title": "Standard Operating Procedures for Management of Routine Health Information at Health Centers/Posts/Private Health Facilities",
+ "publisher": "Ministry of Health, Republic of Rwanda",
+ "published": "2019",
+ "date_source": "source",
+ "why_not": ""
+}

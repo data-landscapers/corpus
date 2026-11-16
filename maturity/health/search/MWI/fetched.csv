@@ -1,7 +1,17 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://health.gov.mw/storage/resources/Annual%20Report%202023-24%20FY_FINAL_06122024docx%201.pdf,fetched,,scripts/.workroot/study/health/cache/MWI/1.txt,31631,pdf,
-2,https://www.theglobalfund.org/media/13744/oig_gf-oig-24-007_report_en.pdf,fetched,,scripts/.workroot/study/health/cache/MWI/2.txt,10155,pdf,
-3,https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Country_documents/Malawi/Malawi_Digital_Health_Strategy__20-25.pdf,fetched,,scripts/.workroot/study/health/cache/MWI/3.txt,26188,pdf,Digital Health STRATEGY
-4,https://www.health.gov.mw/storage/resources/Malawi%20Health%20Sector%20Strategic%20Plan%202023_2030.pdf,fetched,,scripts/.workroot/study/health/cache/MWI/4.txt,50160,pdf,
-5,https://pmc.ncbi.nlm.nih.gov/articles/PMC11622671/,fetched,,scripts/.workroot/study/health/cache/MWI/5.txt,6084,html,"Towards improving district health information system data consistency, report completeness and timeliness in Neno district, Malawi"
-6,https://www.countdown2030.org/wp-content/uploads/2026/09/Malawi.pdf,fetched,,scripts/.workroot/study/health/cache/MWI/6.txt,3134,pdf,
+1,https://health.gov.mw/storage/resources/Annual%20Report%202023-24%20FY_FINAL_06122024docx%201.pdf,held,held as raw/2024/2024-10-01-mwi-health-sector-annual-progress-report-for-the-2023-24-fiscal-year.md,,0,,
+2,https://link.springer.com/article/10.1186/s12911-024-02802-x,fetched,,scripts/.workroot/study/health/cache/MWI/2.txt,46,html,Client Challenge
+3,https://www.who.int/news-room/feature-stories/detail/malawi2021,fetched,,scripts/.workroot/study/health/cache/MWI/3.txt,734,html,Malawi – Strengthening data for greater equity and impact in primary health care
+4,https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Country_documents/Malawi/Malawi_Digital_Health_Strategy__20-25.pdf,fetched,,scripts/.workroot/study/health/cache/MWI/4.txt,26188,pdf,Digital Health STRATEGY
+5,https://health.bmz.de/stories/going-the-last-digital-mile-in-malawi/,fetched,,scripts/.workroot/study/health/cache/MWI/5.txt,1631,html,Going the last digital mile in Malawi – Healthy DEvelopments
+6,https://pmc.ncbi.nlm.nih.gov/articles/PMC13158773/,fetched,,scripts/.workroot/study/health/cache/MWI/6.txt,8279,html,Developing a framework for improved data use in health management at the district level in Malawi health management information system
+7,https://www.countdown2030.org/wp-content/uploads/2025/11/Malawi-Synthesis-Report_Revised.pdf,fetched,,scripts/.workroot/study/health/cache/MWI/7.txt,2062,pdf,
+8,https://bmz-digital.global/wp-content/uploads/2024/10/MALAWI-Health-Data-Ecosystem-Mapping-DIPC.pdf,held,held as raw/2023/2023-10-01-mwi-malawi-health-data-ecosystem-mapping.md,,0,,
+9,https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/MWI_Malawi_Digital-Health-Strategy_2020-2025.pdf,fetched,,scripts/.workroot/study/health/cache/MWI/9.txt,26188,pdf,Digital Health STRATEGY
+10,https://pedaids.org/resource/health-information-systems-malawi/,held,held as raw/2024/2024-08-12-mwi-health-information-systems-in-malawi.md,,0,,
+11,https://pedaids.org/2024/11/04/data-for-the-people/,fetched,,scripts/.workroot/study/health/cache/MWI/11.txt,1803,html,Data for the People: Digital Health in Malawi
+12,https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0303416,fetched,,scripts/.workroot/study/health/cache/MWI/12.txt,8240,html,"Acceptability and feasibility of a mobile electronic medical record system for community-based antiretroviral therapy in Lilongwe, Malawi: A rapid qualitative analysis"
+13,https://taggs.hhs.gov/Detail/AwardDetail?arg_AwardNum=NU2GGH002427&arg_ProgOfficeCode=253,fetched,,scripts/.workroot/study/health/cache/MWI/13.txt,2195,html,Award Information
+14,https://ohie.org/impact-stories/developing-an-architecture-building-foundational-registries-and-exchange-components/,held,held as raw/2023/2023-01-20-mwi-developing-an-architecture-building-foundational-registries-and-exchan.md,,0,,
+15,https://health.gov.mw/storage/resources/Digital%20Health%20Governance%20Framework%20Malawi%20Signed.pdf,held,held as raw/2025/2025-06-01-digital-health-governance-framework-malawi.md,,0,,
+16,https://pedaids.org/resource/patient-tracking-and-retention-with-malawis-electronic-medical-records-system-in-antiretroviral-treatment-clinics/,fetched,,scripts/.workroot/study/health/cache/MWI/16.txt,309,html,Patient tracking and retention with Malawi’s electronic medical records system in antiretroviral treatment clinics - EGPAF

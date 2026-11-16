@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "hmis", "aspect": "governance", "fact": "WHO's cooperation strategy, published in 2024, states that the Ministère de la santé et de l'action sociale developed a Plan stratégique national du Système d'information sanitaire et sociale (PSNSISS) 2022-2026, which covers strengthening health staff's capacity to configure and use DHIS2, in place since 2013, and sets a target of 90 to 95 per cent for the completeness and promptness of the SNIS.", "title": "Stratégie de coopération de l'OMS avec le Sénégal 2024-2028", "publisher": "Organisation mondiale de la Santé, Bureau régional de l'Afrique", "published": "2024", "date_source": "source", "why_not": ""}
+{
+ "select": false,
+ "sub_indicator": "hmis",
+ "aspect": "",
+ "fact": "",
+ "title": "Integrating hypertension data into routine health data collection",
+ "publisher": "Springer",
+ "published": "2025-05",
+ "date_source": "proxy",
+ "why_not": "headline-only-stub: fetch returned a bot challenge page with no article text."
+}

@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "hmis", "aspect": "tiers", "fact": "The Ministry of Health's HMIS Unit states that its 2021 service statistics, drawn from DHIS2, include data from public, private and NGO health facilities, community clinics, referral hospitals and the village health service, and gives the 2021 HMIS reporting completeness as 80.3 per cent and timeliness as 74.6 per cent.", "title": "Service Statistics Report 2021", "publisher": "Ministry of Health, The Republic of The Gambia (Health Management Information System Unit, Directorate of Planning and Information)", "published": "2022-07", "date_source": "proxy", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;clinics",
+ "fact": "Smart Paper Technology, scanned paper forms feeding the national health database, has been implemented successfully for immunisation services and scaled nationally, and was piloted for maternal and infant services at two Western Region facilities between September and December 2024.",
+ "title": "Smart Paper Technology for maternal and newborn health data in The Gambia: A qualitative study of early implementation",
+ "publisher": "PMC",
+ "published": "2026-06-29",
+ "date_source": "source",
+ "why_not": ""
+}

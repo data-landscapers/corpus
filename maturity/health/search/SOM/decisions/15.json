@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "emr",
+ "aspect": "",
+ "fact": "",
+ "title": "The OGOW EMR Medical Record Pilot",
+ "publisher": "Response Innovation Lab",
+ "published": "2021-03-04",
+ "date_source": "source",
+ "why_not": "headline-only-stub: 100 words announcing a pilot with no facility count or date of use"
+}

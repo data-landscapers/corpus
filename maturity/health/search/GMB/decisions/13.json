@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "The Gambia / National Health Insurance", "publisher": "openIMIS", "published": "", "date_source": "proxy", "why_not": "Describes the insurance system (beneficiary management, payment records, reports), not a clinical record; states no fact on an EMR."}
+{
+ "select": false,
+ "sub_indicator": "emr",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "inadmissible-origin: an implementer forum thread, no ministry or document statement"
+}

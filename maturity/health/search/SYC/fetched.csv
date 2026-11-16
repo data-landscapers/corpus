@@ -1,13 +1,11 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://www.health.gov.sc/wp-content/uploads/2024/05/MOH-Annual-Performance-Report-2022.pdf,held,held as raw/2023/2023-07-01-moh-annual-performance-report-2022.md,,0,,
-2,https://regtechafrica.com/healthcare/seychelles-digitisation-of-seychelles-public-health-system-nearly-complete/,fetched,,scripts/.workroot/study/health/cache/SYC/2.txt,667,html,Seychelles: Digitisation of Seychelles’ Public Health System Nearly Complete
-3,https://www.nation.sc/articles/20833/leaders-scrutinize-seychelles-digital-health-transformation,fetched,,scripts/.workroot/study/health/cache/SYC/3.txt,370,html,Leaders scrutinize Seychelles’ digital health transformation
-4,https://www.manoramahealthcare.com/moh-seychelles,fetched,,scripts/.workroot/study/health/cache/SYC/4.txt,275,html,
-5,https://www.nation.sc/articles/19775/digital-maturity-of-seychelles-health-sector-in-the-spotlight--by-sunny-esparon-,fetched,,scripts/.workroot/study/health/cache/SYC/5.txt,834,html,Digital maturity of Seychelles’ health sector in the spotlight By Sunny Esparon
-6,https://www.health.gov.sc/wp-content/uploads/2024/03/2023-Annual-Hospital-Services-Statistical-Report.pdf,fetched,,scripts/.workroot/study/health/cache/SYC/6.txt,5405,pdf,
-7,https://nation.sc/articles/15994/assembly-approves-budget-allocations-for-health-for-2023-,fetched,,scripts/.workroot/study/health/cache/SYC/7.txt,1081,html,Assembly approves budget allocations for health for 2023
-8,https://thecommonwealth.org/news/seychelles-health-system-bolstered-commonwealth-who-partnership,fetched,,scripts/.workroot/study/health/cache/SYC/8.txt,786,html,Seychelles health system is bolstered by Commonwealth-WHO partnership
-9,https://www.health.gov.sc/wp-content/uploads/2023/10/SD6-Specific-Objectives.pdf,fetched,,scripts/.workroot/study/health/cache/SYC/9.txt,872,pdf,National Health Strategic Plan 2022-2026
-10,https://www.finance.gov.sc/wp-content/uploads/2025/08/BUDGET-2023-ADDRESS.pdf,fetched,,scripts/.workroot/study/health/cache/SYC/10.txt,17021,pdf,
-11,https://www.health.gov.sc/wp-content/uploads/2024-Primary-Healthcare-Annual-Statistical-Report_Final.pdf,fetched,,scripts/.workroot/study/health/cache/SYC/11.txt,10677,pdf,
-12,https://theseychellestimes.com/2026/07/21/ministry-health-new-era-of-care/,fetched,,scripts/.workroot/study/health/cache/SYC/12.txt,547,html,Seychelles Ministry of Health Unveils New Era of Care Reform Programme
+1,https://www.health.gov.sc/wp-content/uploads/Annual-Health-Sector-Performance-Report-2023.pdf,held,held as raw/2024/2024-07-01-syc-moh-annual-health-sector-performance-report-2023.md,,0,,
+2,https://www.health.gov.sc/national-health-strategic-plan-2022-2026-2/strategic-direction-six-improve-data-for-impact/,held,held as raw/2022/2022-01-01-seychelles-nhsp-strategic-direction-six-data.md,,0,,
+3,https://www.afro.who.int/sites/default/files/2026-05/WHO%20CCS%202024-2030%20%28Jan%202025%29.pdf,held,held as raw/2025/2025-01-01-syc-who-afro-country-cooperation-strategy-2024-2030.md,,0,,
+4,https://thecommonwealth.org/news/seychelles-health-system-bolstered-commonwealth-who-partnership,held,held as raw/2023/2023-11-07-syc-seychelles-health-system-is-bolstered-by-commonwealth-who-partnership.md,,0,,
+5,https://www.nation.sc/articles/2801/long-awaited-health-information-system-is-set-in-motion,fetched,,scripts/.workroot/study/health/cache/SYC/5.txt,218,html,Long-awaited health information system is set in motion
+6,https://www.health.gov.sc/wp-content/uploads/2024/05/MOH-Annual-Performance-Report-2022.pdf,held,held as raw/2023/2023-07-01-moh-annual-performance-report-2022.md,,0,,
+7,https://www.seychellesnewsagency.com/public/articles/18825/Digitisation%2Bof%2BSeychelles'%2Bpublic%2Bhealth%2Bsystem%2Bnearly%2Bcomplete,held,held as raw/2023/2023-06-20-syc-sna-public-health-digitisation-nearly-complete.md,,0,,
+8,https://www.nation.sc/articles/20833/leaders-scrutinize-seychelles-digital-health-transformation,held,held as raw/2024/2024-01-23-syc-leaders-scrutinize-seychelles-digital-health-transformation.md,,0,,
+9,https://www.nation.sc/articles/2818/contract-sets-the-ball-rolling-for-national-digital-health-database,held,held as raw/2019/2019-12-16-syc-nation-his-contract-manorama.md,,0,,
+10,https://theseychellestimes.com/2026/07/21/ministry-health-new-era-of-care/,fetched,,scripts/.workroot/study/health/cache/SYC/10.txt,547,html,Seychelles Ministry of Health Unveils New Era of Care Reform Programme

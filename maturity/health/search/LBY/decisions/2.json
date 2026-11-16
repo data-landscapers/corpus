@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Towards a resilient health system in Libya (Action Document)", "publisher": "European Commission", "published": "2022", "date_source": "source", "why_not": "States the EUR 16 million EU contribution to the health action as a whole and that no information system underpins staffing or procurement decisions; it names no finance for the HMIS or DHIS2 and no tier, entry point or clinic count."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "tiers;clinics",
+ "fact": "In 2023 WHO and the Ministry of Health advanced DHIS2 rollout in 40 municipalities, including 465 PHC facilities and 51 hospitals, training 655 staff and equipping them with ICT for data entry.",
+ "title": "Libya annual report 2023",
+ "publisher": "WHO Regional Office for the Eastern Mediterranean",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

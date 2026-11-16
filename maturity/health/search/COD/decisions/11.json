@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "emr", "aspect": "tiers;digitised", "fact": "A survey of 86 staff in seven hospitals of Kananga (the provincial hospital and six general referral hospitals) over January to December 2023 found that 4.7% said patient information was managed electronically, against 53.5% on forms, 23.3% on paper and 11.6% in registers, and 80.2% gave lack of means as the reason for not using patient-file software.", "title": "Status Report on Computerized Management of Patient Files in Hospitals in the City of Kananga", "publisher": "Open Access Library Journal (Scientific Research Publishing)", "published": "2024", "date_source": "source", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "governance;tiers",
+ "fact": "On 5 April 2023 ANICNS presented a roadmap to implement computerised patient records in 300 health facilities of Kinshasa.",
+ "title": "RDC : la transformation digitale du systeme de sante presentee au ministre du Numerique",
+ "publisher": "Agence Congolaise de Presse (ACP)",
+ "published": "2023-04-06",
+ "date_source": "source",
+ "why_not": ""
+}

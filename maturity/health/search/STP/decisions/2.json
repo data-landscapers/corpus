@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "hmis", "aspect": "tiers", "fact": "WHO's report on the 2024-2025 biennium states that DHIS2 was implemented in all districts and that district health managers were trained on the platform, including on data quality and report generation, supporting planning and performance monitoring at the district level.", "title": "Biennial Report 2024-2025", "publisher": "World Health Organization (WHO) Office in São Tomé and Príncipe", "published": "2026-03", "date_source": "source", "why_not": ""}
+{
+ "select": false,
+ "sub_indicator": "hmis",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "headline-only-stub: a procurement notice for an evaluation of the DHIS2/mSupply project with no dated fact on coverage."
+}

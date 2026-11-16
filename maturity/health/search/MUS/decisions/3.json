@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "hmis", "aspect": "digitised", "fact": "WHO's SCORE assessment summary for Mauritius, on data from 2013-2018 and updated 15 March 2021, rates a standardized system of electronic data entry for aggregate reporting at the district or comparable level as 'Not there', while giving completeness of reporting by public primary care facilities as above 75 per cent.", "title": "SCORE for Health Data Technical Package: Assessment Summary for Mauritius", "publisher": "World Health Organization", "published": "2021-03-15", "date_source": "source", "why_not": ""}
+{
+ "select": false,
+ "sub_indicator": "hmis",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "already-held: same story as lead 1 from the same authors, posted to the DHIS2 community forum"
+}

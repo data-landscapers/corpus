@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised;clinics",
+ "fact": "mSupply, after national extension launched 22 September 2024, includes a digital patient record for vaccination and family planning programmes, with the network grown from 14 to 35 sites.",
+ "title": "Mise en œuvre de mSupply : une réussite portée par la CAMME et ses partenaires",
+ "publisher": "Ministère de la santé",
+ "published": "2025-05-12",
+ "date_source": "source",
+ "why_not": ""
+}

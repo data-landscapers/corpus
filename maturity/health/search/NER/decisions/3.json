@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Plan Stratégique SNIS 2023-2026", "publisher": "Système National d'Information Sanitaire", "published": "2023-09-27", "date_source": "source", "why_not": "Download page only: it gives the plan's title and upload date and none of its text, and 27 September 2023 falls before the governance window opens."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "governance",
+ "fact": "Bluesquare and the Directorate of e-Health held a workshop from 30 June to 6 July 2025 to host OpenHEXA on national servers, having identified more than 32 digital platforms in Niger's health ecosystem.",
+ "title": "OpenHEXA: first layer of interoperability management between health platforms in Niger",
+ "publisher": "OpenHEXA / Bluesquare",
+ "published": "2025-09-04",
+ "date_source": "source",
+ "why_not": ""
+}

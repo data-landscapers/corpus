@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "emr", "aspect": "tiers;digitised", "fact": "A 2024 medical thesis surveying 100 residents and interns at CHU Mohammed VI in Marrakech who use the HOSIX computerised record in daily clinical practice found 94.2% had used it for more than two years, while 31.4% complained of time lost filling in both the physical file and the report on HOSIX; it also states that HOSIX is installed in four regions (Marrakech, Fès, Oujda, Casablanca).", "title": "Informatisation du dossier médical au CHU Mohammed VI : avis des utilisateurs", "publisher": "Faculté de Médecine et de Pharmacie de Marrakech, Université Cadi Ayyad", "published": "2024", "date_source": "source", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "governance",
+ "fact": "The Government Council approved on 22 July 2026 draft law 05.26 creating an integrated national health information system with a shared medical record, a unique health identifier and a unified public hospital information system.",
+ "title": "Santé numérique : le gouvernement adopte le projet de loi sur le système d'information sanitaire",
+ "publisher": "LeBrief",
+ "published": "2026-07-22",
+ "date_source": "proxy",
+ "why_not": ""
+}

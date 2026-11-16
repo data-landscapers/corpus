@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "tiers;digitised",
+ "fact": "On 16 September 2025 the ministry stated OpenClinic, with patient records, was already operational in several hospitals and referral centres, with interconnection to national ID and AMO to come.",
+ "title": "Digitalisation de la Santé : l'ANTIM présente OpenClinic devant le Comité chargé de la digitalisation de l'administration",
+ "publisher": "Ministère de la Santé et du Développement social, Mali",
+ "published": "2025-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

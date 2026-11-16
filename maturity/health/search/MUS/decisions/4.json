@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "hmis", "aspect": "governance;tiers;digitised", "fact": "DHIS2's account states that the Ministry of Health and Wellness, with the ICT ministry and under the Health Sector Strategic Plan 2020-2024, began implementing DHIS2 as the national health information system with support from WHO, Gavi, the Global Fund, HISP UiO and HISP Uganda, that since the start of 2022 DHIS2 has been used for aggregate data collection, with entry at regional level from paper forms in the AEFI workflow, and that decentralisation to district and primary care level, Rodrigues and Agalega was still only planned.", "title": "Intégration des données DHIS2 avec VigiFlow pour le signalement des cas d'AEFI à Maurice", "publisher": "DHIS2", "published": "2022-01-27", "date_source": "proxy", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;tiers",
+ "fact": "The Minister said DHIS2 was in use in certain areas of the health system only (AEFI cases, HIV/AIDS and hepatitis C patient information), with 80 tablets supplied by the IOC for IDSR and training under way.",
+ "title": "Capacity building workshop on latest digital tools for health personnel",
+ "publisher": "Africa-Press (Government Information Service)",
+ "published": "2022-07-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

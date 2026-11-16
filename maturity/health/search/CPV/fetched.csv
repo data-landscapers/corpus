@@ -1,14 +1,17 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://documents1.worldbank.org/curated/en/099111924122078581/pdf/P175840-1a3a0438-2d5c-487f-8960-7e60d83dfb5b.pdf,fetched,,scripts/.workroot/study/health/cache/CPV/1.txt,2663,pdf,World Bank Document
-2,https://www.afro.who.int/sites/default/files/2026-06/EN_Results_of_techinical_cooperation_WHO_CPV%20%28v2.0%29.pdf,fetched,,scripts/.workroot/study/health/cache/CPV/2.txt,7598,pdf,
-3,https://minsaude.gov.cv/download/102/legislacao/8256/bo_14-06-2023_107-despacho-n-o-24-ms-2023criacao-da-comissao-de-coordenacao-e-acompanhamento-da-saude-digital-em-cabo-verde.pdf,unfetchable,"HTTP 404; Wayback HTTP 429, not checked | second pass: second client: HTTP 404; certificate unverified: HTTP 404; Wayback: 429 three times",,0,,
-4,https://ugpe.gov.cv/uploads/TDR_OP_3_28_04_2026_vf_1_f29bd63f85.pdf,held,held as raw/2026/2026-04-28-cabo-verde-tdr-plataforma-informacao-laboratorial-uma-so-saude.md,,0,,
-5,https://minsaude.gov.cv/download/114/relatorio-estatistico/8943/relatorio-estatistico-ministerio-da-saude-2022.pdf,unfetchable,"HTTP 404; Wayback HTTP 429, not checked | second pass: second client: HTTP 404; certificate unverified: HTTP 404; Wayback: 429 three times",,0,,
-6,https://static.expressodasilhas.cv/media/pub/v2/pdf/2026/09/1788545549351.pdf,held,held as raw/2026/2026-09-04-cabo-verde-ida-health-digital-tools-tender.md,,0,,
-7,https://www.mf.gov.cv/documents/20126/0/Terms%2Bof%2BReference%2B-ugpe.pdf/b0d39856-c19f-5ca9-2081-a9cdeb683c0a?t=1706880078938,fetched,,scripts/.workroot/study/health/cache/CPV/7.txt,3686,pdf,
-8,https://afro.who.int/sites/default/files/2026-06/PT_Relatorio_Bianual_OMS_Cabo_Verde_2024_25%20%28v2.0%29.pdf,fetched,,scripts/.workroot/study/health/cache/CPV/8.txt,8137,pdf,
-9,https://www.mf.gov.cv/documents/198414/3901068/ROE_2024_29092023+%28002%29+%28004%29.pdf/b097f38d-2c71-a58c-e649-3c16b027f848?download=true&t=1696269568113&version=1.0,fetched,,scripts/.workroot/study/health/cache/CPV/9.txt,34105,pdf,
-10,https://www.mf.gov.cv/documents/20126/0/Financial_Audit_TOR_Digital_Project_Statistics_Projet_and_Health_Program.pdf/0202a77d-b0f3-f9dd-5051-d481c8d6bca3?t=1741865083529,fetched,,scripts/.workroot/study/health/cache/CPV/10.txt,6879,pdf,
-11,https://backend-ugpe.gov.cv/wp-content/uploads/2021/10/P177181-SEP-CV-HNP-COVID-VACCINES-REST-AFIII.pdf,fetched,,scripts/.workroot/study/health/cache/CPV/11.txt,21165,pdf,
-12,https://boe.incv.cv/Bulletins/Download/4095,fetched,,scripts/.workroot/study/health/cache/CPV/12.txt,8552,pdf,
-13,https://www.balai.cv/noticias/remodelacao-do-bloco-operatorio-e-o-grande-ganho-do-hospital-da-praia-em-2025-diz-pca/,fetched,,scripts/.workroot/study/health/cache/CPV/13.txt,502,html,"Remodelação do bloco operatório é o ""grande ganho"" do hospital da Praia em 2025, diz PCA - Balai"
+1,https://www.mf.gov.cv/documents/20126/0/TDR_Consultoria+Nacional+para+Revisa%CC%83o+da+Arquitetura_MS_02_02_2026.pdf/44db003d-0d60-c97b-c011-1c14b01f12c0?t=1770214349915,held,held as raw/2026/2026-02-02-cpv-termos-de-referencia-tdr-consultor-nacional-para-revisao-da-arquitetur.md,,0,,
+2,https://www.afro.who.int/countries/cabo-verde/news/who-and-ministry-health-partnership-drives-modernization-death-registration-system,held,held as raw/2025/2025-08-18-cpv-who-and-ministry-of-health-partnership-drives-modernization-of-the-dea.md,,0,,
+3,https://dhis2.org/pt-pt/saudosismo-reforco-dos-sistemas-de-saude-na-africa-lusofona/,fetched,,scripts/.workroot/study/health/cache/CPV/3.txt,2833,html,Saudosismo: Reforço dos sistemas de saúde na África lusófona - DHIS2
+4,https://minsaude.gov.cv/noticias/ccssida-entrega-a-direcao-nacional-da-saude-equipamentos-informaticos-financiados-pelo-fundo-global-para-reforcar-o-sis/,held,held as raw/2023/2023-12-21-cpv-ccssida-entrega-a-direcao-nacional-da-saude-equipamentos-informaticos.md,,0,,
+5,https://ugpe.gov.cv/uploads/Terms_of_Reference_ugpe_5fa60c4772.pdf,fetched,,scripts/.workroot/study/health/cache/CPV/5.txt,3686,pdf,
+6,https://www.afro.who.int/sites/default/files/2025-09/CCSCaboVerde-eng.pdf,fetched,,scripts/.workroot/study/health/cache/CPV/6.txt,11582,pdf,
+7,https://cdn.who.int/media/docs/default-source/documents/ddi/score/country-profiles/who_score_cpv_en.pdf,fetched,,scripts/.workroot/study/health/cache/CPV/7.txt,4027,pdf,
+8,https://extranet.who.int/sph/sites/default/files/document-library/document/JEE%20Report%20Cabo%20Verde%202019.pdf,fetched,,scripts/.workroot/study/health/cache/CPV/8.txt,27964,pdf,
+9,https://tiver.cv/ms-aponta-avanco-da-digitalizacao-do-sistema-nacional-de-saude/,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+10,https://expressodasilhas.cv/pais/2025/02/19/ministro-da-saude-garante-informatizacao-do-sistema-de-saude-ainda-este-ano/95738,fetched,,scripts/.workroot/study/health/cache/CPV/10.txt,471,html,Ministro da Saúde garante informatização do sistema de saúde ainda este ano
+11,https://healthnews.pt/2024/02/08/cabo-verde-prepara-gestao-digital-da-saude-incluindo-listas-de-espera-e-transferencias/,fetched,,scripts/.workroot/study/health/cache/CPV/11.txt,445,html,"Cabo Verde prepara gestão digital da saúde, incluindo listas de espera e transferências"
+12,https://backend-ugpe.gov.cv/wp-content/uploads/2023/05/ToR-TA-FOR-THE-UPGRADE-OF-THE-HEALTH-INFORMATION.pdf,held,held as raw/2023/2023-05-01-cabo-verde-tor-health-information-electronic-prescription-system.md,,0,,
+13,https://ugpe.gov.cv/uploads/TDR_OP_3_28_04_2026_vf_1_f29bd63f85.pdf,held,held as raw/2026/2026-04-28-cabo-verde-tdr-plataforma-informacao-laboratorial-uma-so-saude.md,,0,,
+14,https://www.inforpress.cv/en/article-6732,held,held as raw/2025/2025-12-18 Cabo Verde advances digitalisation of National Health System (SNS).md,,0,,
+15,https://www.simposiumdigital.com/mm1-cv-item.html,fetched,,scripts/.workroot/study/health/cache/CPV/15.txt,104,html,-CUSTOMER VALUE-
+16,https://static.expressodasilhas.cv/media/pub/v2/pdf/2026/09/1788545549351.pdf,held,held as raw/2026/2026-09-04-cabo-verde-ida-health-digital-tools-tender.md,,0,,

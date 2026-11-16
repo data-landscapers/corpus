@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Santé numérique : YULCOM choisi par le Fonds Mondial pour la digitalisation de 5 hôpitaux au Togo", "publisher": "YULCOM Technologies", "published": "2024-12-04", "date_source": "source", "why_not": "A vendor's contract announcement for a hospital information system at five hospitals, still to be built; it states nothing on where patient records are digitised today, the only EMR aspect with a gap."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "governance;tiers",
+ "fact": "On 5 December 2024 the government announced that five health centres would get a hospital information system under a Global Fund-backed contract with YULCOM, laying the base of a digital health record.",
+ "title": "Santé : des hôpitaux bientôt équipés de systèmes digitaux d'information et de suivi des patients",
+ "publisher": "République Togolaise (Togo Officiel)",
+ "published": "2024-12-05",
+ "date_source": "source",
+ "why_not": ""
+}

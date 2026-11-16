@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "governance;clinics",
+ "fact": "UNDP South Sudan issued a request for proposals on 11 March 2026 for an OpenMRS electronic medical records pilot at Al Sabah Children's Hospital and Munuki PHCC.",
+ "title": "Pilot Implementation of OpenMRS at Al Sabah Children's Hospital and Munuki PHCC",
+ "publisher": "UNDP",
+ "published": "2026-03-11",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Readiness of managers and health care workers for e-Health: a cross-sectional study in Khartoum primary health care centers, Sudan", "publisher": "BMC Health Services Research", "published": "2023", "date_source": "source", "why_not": "An attitude survey of staff at Khartoum State PHC centres in 2022: it scores readiness and states no HMIS or EMR in use, no tier, entry level or clinic count; its one governance point (no e-Health in national policy) is already held."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised",
+ "fact": "The communications minister said a facility information system is running in a number of hospitals, with 369 medical files registered at Al-Nau hospital and over 570 at Dhara hospital for oncology, and that a national digital health strategy was launched.",
+ "title": "230 خدمة صحية إلكترونية.. السودان يخطط لبناء منظومة صحة رقمية متكاملة",
+ "publisher": "المجد نيوز الأخباري",
+ "published": "2026-07-29",
+ "date_source": "proxy",
+ "why_not": ""
+}

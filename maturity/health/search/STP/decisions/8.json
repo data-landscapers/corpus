@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "O caminho de São Tomé e Príncipe para a prosperidade: Libertar o potencial através dos ODS", "publisher": "Nações Unidas em São Tomé e Príncipe", "published": "2023", "date_source": "proxy", "why_not": "Its dated fact is the logistics system (LMIS) across 39 facilities, a single-function class; on the health information system it says only that efforts are under way."}
+{
+ "select": false,
+ "sub_indicator": "hmis",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "headline-only-stub: undated news item on a two-day DHIS2 training, no coverage fact."
+}

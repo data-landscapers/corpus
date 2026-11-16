@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Advancing digital healthcare in Somalia: a review of modern technologies and their implications", "publisher": "BMC Digital Health", "published": "2024", "date_source": "source", "why_not": "A general review of digital health: it names no Somali HMIS or EMR, no plan or strategy by title and no dated fact on any gap aspect."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised",
+ "fact": "WHO states that on 16 January 2024 Somalia launched an electronic immunization registry with a unique child ID, after using paper registration at primary health units with data sent to DHIS2.",
+ "title": "Somalia launches electronic immunization registry in latest leap of innovation",
+ "publisher": "WHO Regional Office for the Eastern Mediterranean",
+ "published": "2024-01-16",
+ "date_source": "source",
+ "why_not": ""
+}

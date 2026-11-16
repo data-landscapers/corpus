@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Sustainability of DHIS2 Utilization", "publisher": "DHIS2 Community", "published": "", "date_source": "source", "why_not": "About eIDSR, the Zambia National Public Health Institute's disease-surveillance instance of DHIS2: single-function, not the aggregate HMIS, and it states no fact on an HMIS gap."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;clinics",
+ "fact": "HMIS work at the facility level in Zambia is largely paper-based, with monthly forms sent to the district office for entry into DHIS2, and only a few facilities enter data directly into DHIS2.",
+ "title": "Improving Immunization Data Capture and Use in Zambia",
+ "publisher": "DHIS2",
+ "published": "2022-04-29",
+ "date_source": "source",
+ "why_not": ""
+}

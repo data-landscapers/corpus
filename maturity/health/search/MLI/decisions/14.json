@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised",
+ "fact": "In March 2023 the report states the patient record in Mali currently holds information exclusively on paper, and transfers between centres go by paper.",
+ "title": "Le déploiement de la cybersanté au Mali : considérations juridiques à partir de la perspective québécoise",
+ "publisher": "CIRANO",
+ "published": "2023-03",
+ "date_source": "source",
+ "why_not": ""
+}

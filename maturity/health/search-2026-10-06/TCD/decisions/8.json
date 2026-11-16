@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;governance",
+ "fact": "The December 2025 version of the ministry's monthly activity report for health centres (headed MSPP/SE/SG/DGRP/DPSIS) is a 27-page paper form on which the health centre records the date it was drawn up, the date sent, the date of arrival at the district and the date of encoding.",
+ "title": "Rapport mensuel d'activités – Centre de santé (version décembre 2025)",
+ "publisher": "Ministère de la Santé Publique et de la Prévention, DPSIS (République du Tchad)",
+ "published": "2025-12",
+ "date_source": "source",
+ "why_not": "withdrawn by the parent, 2026-10-06: a blank reporting form, five pages of 27; its fields imply district entry but it states no dated fact"
+}

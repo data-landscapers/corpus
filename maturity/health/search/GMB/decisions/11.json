@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "hmis", "aspect": "tiers", "fact": "The World Bank's primary health care assessment of July 2023 states that The Gambia uses its HMIS to collect and store data in DHIS2 across all public facilities, that paper-based data collection continues in many lower-level facilities, and that private and urban facilities are excluded from the HMIS; it adds that the country has no unique person identification allowing facilities to keep longitudinal personal care records.", "title": "The Primary Health Care System of The Gambia: A Primary Health Care Performance Initiative Assessment", "publisher": "World Bank Group", "published": "2023-07", "date_source": "source", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "tiers;digitised",
+ "fact": "MRC Unit The Gambia launched an EMRS module for its clinical wards on 29 July 2022 that replaced paper medical records at its own clinics.",
+ "title": "Clinical service department launches new electronic medical records system",
+ "publisher": "LSHTM MRC Unit The Gambia",
+ "published": "2022-09-19",
+ "date_source": "source",
+ "why_not": ""
+}

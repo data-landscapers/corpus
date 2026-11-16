@@ -1,7 +1,8 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://www.afro.who.int/sites/default/files/2023-02/WHO%20Annual%20Report%20-%202022.pdf,fetched,,scripts/.workroot/study/health/cache/ERI/1.txt,8163,pdf,
-2,https://afro.who.int/sites/default/files/2022-07/WHO%20Biennium%20Report%20-%20Summary%20Version_0.pdf,fetched,,scripts/.workroot/study/health/cache/ERI/2.txt,3199,pdf,
-3,https://afro.who.int/sites/default/files/countries/all/Eritrea/Who%20Eritrea%20Bienniun%20Report%20WHO%202020%20-%202021.pdf,fetched,,scripts/.workroot/study/health/cache/ERI/3.txt,26847,pdf,
-4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9059985/,fetched,,scripts/.workroot/study/health/cache/ERI/4.txt,10123,html,"Portrait of the Emergency Department at Orotta National Referral and Teaching Hospital in Asmara, Eritrea: A Prospective Observational Study"
-5,https://shabait.com/2026/04/25/training-on-database-management/,fetched,,scripts/.workroot/study/health/cache/ERI/5.txt,166,html,Training on database management
-6,https://shabait.com/2025/05/29/significant-achievements-registered-in-the-health-sector/,fetched,,scripts/.workroot/study/health/cache/ERI/6.txt,196,html,Significant Achievements Registered in the Health Sector
+1,https://community.dhis2.org/t/overcoming-connectivity-barriers-the-role-of-dhis2-platform-in-enhancing-health-data-management-in-eritrea/57621,held,held as raw/2024/2024-03-13-dhis2-eritrea-connectivity.md,,0,,
+2,https://www.afro.who.int/sites/default/files/2022-07/WHO%20Biennium%20Report%20-%20Summary%20Version_0.pdf,fetched,,scripts/.workroot/study/health/cache/ERI/2.txt,3199,pdf,
+3,https://www.afro.who.int/sites/default/files/2021-07/WHO%20Eritrea%20Annual%20Report%202020.pdf,fetched,,scripts/.workroot/study/health/cache/ERI/3.txt,28356,pdf,
+4,https://extranet.who.int/cpcd/sites/default/files/public_file_repository/ERI_Eritrea_Health%20Sector%20Strategic%20and%20Development%20Plan%20(HSSDP%20III)_2022-2026.pdf,held,held as raw/2021/2021-10-01-eritrea-hssdp-iii-2022-2026-health-information-system.md,,0,,
+5,https://www.linkedin.com/posts/yacob-gebretensae-phd-cdmp-53261532_eritrea-activity-6559496181930688512-Pd6a,fetched,,scripts/.workroot/study/health/cache/ERI/5.txt,62,html,Join LinkedIn now — it’s free!
+6,https://community.dhis2.org/t/overcoming-connectivity-barriers-the-role-of-dhis2-platform-in-enhancing-health-data-management-in-eritrea/57621,held,held as raw/2024/2024-03-13-dhis2-eritrea-connectivity.md,,0,,
+7,https://extranet.who.int/cpcd/sites/default/files/public_file_repository/ERI_Eritrea_Health%20Sector%20Strategic%20and%20Development%20Plan%20(HSSDP%20III)_2022-2026.pdf,held,held as raw/2021/2021-10-01-eritrea-hssdp-iii-2022-2026-health-information-system.md,,0,,

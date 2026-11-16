@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Disclosable Version of the ISR - Djibouti Health System Strengthening - P178033 - Sequence No : 8", "publisher": "World Bank", "published": "2026-04-27", "date_source": "proxy", "why_not": "The fetch returned only the catalogue page's cookie notice, a page that links to the document; the report's own text was not read."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "governance",
+ "fact": "The Second Additional Financing would fund the gaps for nationwide roll-out of DHIS2, building on initial Global Fund and UNDP preparatory work.",
+ "title": "Djibouti: Improving Health Sector Performance Project, Second Additional Financing (Project Paper PAD3129)",
+ "publisher": "World Bank",
+ "published": "2019-04-05",
+ "date_source": "source",
+ "why_not": ""
+}

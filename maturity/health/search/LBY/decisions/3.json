@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Libya Country Humanitarian Situation Report No. 2 (Mid-Year)", "publisher": "UNICEF", "published": "2021-06-30", "date_source": "source", "why_not": "Only reports UNICEF DHIS2 training of 141 staff in the first half of 2021: a one-off training, outside the 36-month governance window, and no statement of who finances the system, which tiers report or where data is entered."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;clinics",
+ "fact": "WHO SCORE summary for Libya (data 2013-2018) reports completeness of reporting by public primary care facilities under 25% and only partial standardised electronic aggregate data entry at district level.",
+ "title": "Assessment Summary for Libya, SCORE for Health Data Technical Package",
+ "publisher": "World Health Organization",
+ "published": "2021-03-15",
+ "date_source": "source",
+ "why_not": ""
+}

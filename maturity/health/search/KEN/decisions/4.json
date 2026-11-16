@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised",
+ "fact": "The strategy states that reporting community health data from the field to the national level through KHIS is largely paper-based.",
+ "title": "National Strategy for Community Health Digitization 2020-2025",
+ "publisher": "Ministry of Health, Republic of Kenya",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

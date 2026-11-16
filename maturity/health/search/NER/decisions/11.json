@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "emr", "aspect": "tiers;governance", "fact": "The paper, published 26 September 2025, states that a new digital hospital information system named OpenClinic was introduced in Gaya and Gothèye district hospitals under the Belgian-funded PASS-Sutura project, and that this funding is set to end in 2026 with domestic and international financing still to be found.", "title": "Integrating specialised services into primary health care in Niger: from fragmentation to coordination", "publisher": "Journal of Global Health Economics and Policy", "published": "2025-09-26", "date_source": "source", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "governance",
+ "fact": "On 16 October 2025 broadband connectivity was inaugurated to link 330 health facilities, opening the way to electronic medical records among planned reforms.",
+ "title": "Santé : Le Niger connecte ses structures de santé au haut débit",
+ "publisher": "Le Sahel (ONEP Niger)",
+ "published": "2025-10-17",
+ "date_source": "source",
+ "why_not": ""
+}

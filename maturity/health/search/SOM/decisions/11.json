@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Improving Healthcare Services in Somalia Project (Damal Caafimaad): Project Appraisal Document", "publisher": "World Bank", "published": "2021-06-08", "date_source": "proxy", "why_not": "No mention of EMR; its HMIS content (US$2.5 million sub-component, DHIS2 'fully rolled out') is 2021 donor finance, already held, and is neither a plan nor a tier fact after October 2023."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised;governance",
+ "fact": "The June 2025 evaluation states most data in Somalia are first collected on paper and that several EHRs operate, entirely or partly incompatible with DHIS2, with RAAD piloted under Sida-funded HADDA.",
+ "title": "Evaluation of Sweden's support to health systems in Somalia through PHAS, SPIDER and WHO",
+ "publisher": "Sida Decentralised Evaluation 2025:06",
+ "published": "2025-06",
+ "date_source": "source",
+ "why_not": ""
+}

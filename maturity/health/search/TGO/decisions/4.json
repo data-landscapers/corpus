@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Atelier de partage d'expériences entre le Bénin, le Burkina Faso, le Niger et le Togo dans le cadre de l'initiative BBNT: Rapport technique", "publisher": "OMS", "published": "2025-01", "date_source": "proxy", "why_not": "Four-country workshop report; for Togo it mentions only DHIS2 validation rules and Alafiacom-DHIS2 interoperability, and the private-facility self-entry practice is Niger's. No fact on a gap aspect."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised",
+ "fact": "The Ministry of Health adopted DHIS2 in 2018, making data entry effective at all levels of the health pyramid and mainly in health facilities.",
+ "title": "Rapport trimestriel janvier-mars 2022",
+ "publisher": "Integrate Health",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

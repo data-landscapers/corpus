@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "emr",
- "aspect": "last12;tiers;clinics",
- "fact": "A tender listing records that UNDP in South Sudan issued notice UNDP-SSD-00648 on 12 March 2026, closing 31 March 2026, for the pilot implementation of OpenMRS at Al Sabah Children's Hospital and Munuki PHCC; the listing does not say whether a contract was awarded or whether the pilot covers general care.",
- "title": "Pilot Implementation of OpenMRS at Al Sabah Children's Hospital and Munuki PHCC",
- "publisher": "Tender Impulse",
- "published": "2026-03-12",
- "date_source": "source",
- "why_not": "withdrawn by the parent, 2026-10-06: a tender-aggregator's listing of a UNDP notice, not the notice: a page that only points to the document"
+ "aspect": "tiers;clinics",
+ "fact": "Between October 2022 and March 2026 ICAP supported the Ministry of Health to deploy an OpenMRS-based ART e-register in five health facilities in three states, with field testing from July 2024.",
+ "title": "Electronic ART Registration in South Sudan | Pioneering a Case-Based Electronic System for Data-Driven HIV Care",
+ "publisher": "ICAP at Columbia University",
+ "published": "2026-04-21",
+ "date_source": "proxy",
+ "why_not": ""
 }

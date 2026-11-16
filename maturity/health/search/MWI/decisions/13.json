@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "emr",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "headline-only-stub: grant award listing with no dated statement of EMR coverage in the fetched text"
+}

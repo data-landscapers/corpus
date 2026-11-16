@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Rwanda Health Resource Tracking Report 2020/21 – 2022/23", "publisher": "Republic of Rwanda, Ministry of Health", "published": "2025", "date_source": "source", "why_not": "Gives spending on health information and digital health as a whole, with no source split and no HMIS line; its statement that HMIS takes data from health centres and health posts covers years to June 2023, before the tiers gap opens."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised",
+ "fact": "Since 2012 the Ministry of Health has run the DHIS2-powered HMIS countrywide, covering health facility level data from all service areas, though use of its dashboards at facility and district level remains limited.",
+ "title": "Improving data use and participatory action and design to support data use: the case of DHIS2 in Rwanda",
+ "publisher": "University of Oslo / HISP Rwanda (IDIDT 2021 proceedings)",
+ "published": "2021",
+ "date_source": "source",
+ "why_not": ""
+}

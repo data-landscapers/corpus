@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Digital health for Tuberculosis control: findings from the piloting of an electronic medical record in Luanda (Angola)", "publisher": "BMC Medical Informatics and Decision Making", "published": "2025-12-04", "date_source": "proxy", "why_not": "Abstract only, and the system is a tuberculosis-only patient record piloted in three Luanda facilities (January 2022 to February 2023): class tracker, noted not assessed; it states no fact on a general-care EMR aspect."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised",
+ "fact": "Hospital directors and the national hospitals director said there is no integrated national clinical information system, so a patient is registered several times across units for lack of access to their history.",
+ "title": "Falta de uniformização do sistema informático de saúde dificulta atendimento e coloca vidas em risco",
+ "publisher": "Foco Saúde",
+ "published": "2025-12-22",
+ "date_source": "source",
+ "why_not": ""
+}

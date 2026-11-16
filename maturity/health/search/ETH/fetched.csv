@@ -1,14 +1,14 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://arm.moh.gov.et/APR_FINAL.pdf,held,held as raw/2025/2025-10-01-moh-annual-health-sector-performance-report-2017-efy.md,,0,,
-2,https://pmc.ncbi.nlm.nih.gov/articles/PMC12403253/,held,held as raw/2025/2025-09-01-echis-ethiopia-maturity-status-improvement-pathways.md,,0,,
-3,https://link.springer.com/article/10.1186/s13690-025-01641-0,fetched,"second pass, by second client",scripts/.workroot/study/health/cache/ETH/3.txt,9213,html,Contributions of District Health Information Software 2 (DHIS2) to maternal and child health service performance in Ethiopia: an interrupted time series mixed-methods study - Archives of Public Health
-4,https://www.countdown2030.org/wp-content/uploads/2026/09/Ethiopia.pdf,fetched,,scripts/.workroot/study/health/cache/ETH/4.txt,4318,pdf,
-5,https://documents1.worldbank.org/curated/en/099122024154026689/pdf/BOSIB-8a28e975-d018-44ec-886e-b62edf6e308e.pdf,fetched,,scripts/.workroot/study/health/cache/ETH/5.txt,22554,pdf,World Bank Document
-6,https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0314505,fetched,,scripts/.workroot/study/health/cache/ETH/6.txt,8921,html,Unveiling the role of DHIS2 in enhancing data quality and accessibility in primary healthcare facilities: Evidence from Ethiopia
-7,https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/ETH_Ethiopia_Digital-Health-Blueprint_2021.pdf,fetched,,scripts/.workroot/study/health/cache/ETH/7.txt,16418,pdf,
-8,https://www.moh.gov.et/sites/default/files/2024-12/REQUEST%20OF%20EXPRESSION%20OF%20INTEREST%20.pdf,fetched,,scripts/.workroot/study/health/cache/ETH/8.txt,5702,pdf,Development and Implementation of an Inclusive National Digital Health Payment Solutions
-9,https://bmcmedinformdecismak.biomedcentral.com/counter/pdf/10.1186/s12911-021-01670-z.pdf,fetched,"second pass, by second client",scripts/.workroot/study/health/cache/ETH/9.txt,8146,pdf,"Implementation challenges and perception of care providers on Electronic Medical Records at St. Paul’s and Ayder Hospitals, Ethiopia"
-10,https://sage.cnpereading.com/doi/10.1177/20552076241301946,fetched,"second pass, by second client",scripts/.workroot/study/health/cache/ETH/10.txt,8925,html,"Barriers and facilitators of the electronic medical record adoption among healthcare providers in Addis Ababa,Ethiopia"
-11,https://documents1.worldbank.org/curated/en/099072623152034641/pdf/P18012708b759a03209b5d04da43fb09b47.pdf,fetched,,scripts/.workroot/study/health/cache/ETH/11.txt,98484,pdf,World Bank Document
-12,https://cerhb.gov.et/digital-health-systems/,fetched,"second pass, by Wayback",scripts/.workroot/study/health/cache/ETH/12.txt,2592,html,Digital Health Systems - Home - Central Ethiopia Regional Health Bureau
-13,https://www.ecofinagency.com/news-digital/2409-48979-ethiopia-to-modernize-medical-data-management-with-digital-rollout,fetched,,scripts/.workroot/study/health/cache/ETH/13.txt,681,html,Ethiopia to Modernize Medical Data Management with Digital Rollout
+1,https://ephi.gov.et/wp-content/uploads/2025/12/Enhancing-Decision-making-Leveraging-routine-health-information-systems-in-Ethiopia.pdf,fetched,,scripts/.workroot/study/health/cache/ETH/1.txt,23629,pdf,
+2,https://pmc.ncbi.nlm.nih.gov/articles/PMC11666084/,fetched,,scripts/.workroot/study/health/cache/ETH/2.txt,5085,html,Early Effects of Information Revolution Interventions on Health Information System Performance in Ethiopia
+3,https://pmc.ncbi.nlm.nih.gov/articles/PMC11316158/,fetched,,scripts/.workroot/study/health/cache/ETH/3.txt,18,html,Checking your browser
+4,https://pmc.ncbi.nlm.nih.gov/articles/PMC11197649/,fetched,,scripts/.workroot/study/health/cache/ETH/4.txt,18,html,Checking your browser
+5,https://www.moh.gov.et/sites/default/files/2024-12/REQUEST%20OF%20EXPRESSION%20OF%20INTEREST%20.pdf,held,held as raw/2024/2024-12-06-eth-request-of-expression-of-interest-eoi-development-and-implementation-o.md,,0,,
+6,https://dhis2.org/enhancing-healthcare-in-ethiopia-using-dhis2/,fetched,,scripts/.workroot/study/health/cache/ETH/6.txt,2617,html,Enhancing Healthcare Performance in Ethiopia Using DHIS2
+7,https://jhia-online.org/index.php/jhia/en/article/view/330,fetched,,scripts/.workroot/study/health/cache/ETH/7.txt,533,html,eHealth Architecture-based Health Data Exchange: Ethiopia DHIS2 and SmartCare
+8,https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/ETH_Ethiopia-National-Information-Revolution-Strategy-Plan_2018-2025.pdf,fetched,,scripts/.workroot/study/health/cache/ETH/8.txt,7875,pdf,National Strategy - Ethiopia - 2018-2025_Ethiopia_HIS Strategic Plan
+9,https://www.ena.et/web/eng/w/eng_7383214,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+10,https://doi.org/10.1177/20552076241301946,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+11,https://ehia.et/wp-content/uploads/2024/08/Ethiopian-Digital-Health-Blueprint.pdf,fetched,,scripts/.workroot/study/health/cache/ETH/11.txt,16418,pdf,
+12,https://pmc.ncbi.nlm.nih.gov/articles/PMC12548044/,fetched,,scripts/.workroot/study/health/cache/ETH/12.txt,4137,html,Strengthening digital health local capacity: driving forces and milestones in Ethiopia
+13,https://icap.columbia.edu/news-events/with-digital-innovation-icap-powers-ethiopias-fight-to-end-mother-to-child-transmission-of-hiv/,fetched,,scripts/.workroot/study/health/cache/ETH/13.txt,546,html,"With Digital Innovation, ICAP Powers Ethiopia’s Fight to End Mother-to-Child Transmission of HIV"

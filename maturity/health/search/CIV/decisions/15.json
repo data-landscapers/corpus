@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Implementation Completion and Results Report: Health Systems Strengthening and Ebola Preparedness Project", "publisher": "World Bank", "published": "2020", "date_source": "proxy", "why_not": "Says only, in a footnote, that electronic patient record development ran late and a pilot would be launched during 2020; no tier, owner, plan or count, and the paper position is already held."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;tiers",
+ "fact": "By July 2019 Côte d'Ivoire has DHIS2 deployed and used nationwide as its national health data management system, replacing SIGVISION.",
+ "title": "Integrating Data Systems in Côte d'Ivoire Will Improve Health System Performance",
+ "publisher": "MEASURE Evaluation",
+ "published": "2019-07",
+ "date_source": "source",
+ "why_not": ""
+}

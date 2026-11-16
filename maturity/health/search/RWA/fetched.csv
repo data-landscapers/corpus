@@ -1,9 +1,17 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://www.moh.gov.rw/fileadmin/user_upload/Moh/Publications/Reports/new_annual_Report/HSSP_V_signed.pdf,fetched,,scripts/.workroot/study/health/cache/RWA/1.txt,19222,pdf,
-2,https://www.moh.gov.rw/fileadmin/user_upload/Moh/Publications/Reports/new_annual_Report/Rwanda_Health_Expenditure_Report_2020-2023.pdf,fetched,,scripts/.workroot/study/health/cache/RWA/2.txt,11898,pdf,
-3,https://www.moh.gov.rw/fileadmin/user_upload/Moh/Publications/Reports/new_annual_Report/Annual_Statistical_Booklet_Fiscal_Year_2023-2024_Final_10102025.pdf,fetched,,scripts/.workroot/study/health/cache/RWA/3.txt,21601,pdf,
-4,https://www.moh.gov.rw/fileadmin/user_upload/Moh/New_publication/Legal_Framework/Forms/Health_Centers_HMIS_Reporting_Form.pdf,fetched,,scripts/.workroot/study/health/cache/RWA/4.txt,4961,pdf,CANEVAS DE RAPPORT MENSUEL DU CENTRE DE SANTE
-5,https://www.moh.gov.rw/fileadmin/user_upload/Moh/New_publication/Legal_Framework/Forms/CANEVA_HP_HMIS_08_08_2019_Version_2019_V3_1.pdf,fetched,,scripts/.workroot/study/health/cache/RWA/5.txt,3109,pdf,CANEVAS DE RAPPORT MENSUEL DU CENTRE DE SANTE
-6,https://hisprwanda.org/6213-2/,fetched,,scripts/.workroot/study/health/cache/RWA/6.txt,227,html,Rwanda: Cancer Module Integration and CanReg5 Migration (2022–2024)
-7,https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0235823,fetched,,scripts/.workroot/study/health/cache/RWA/7.txt,5949,html,Health management information system (HMIS) data verification: A case study in four districts in Rwanda
-8,https://www.countdown2030.org/wp-content/uploads/2023/07/Rwanda_Overall-Country-Report_FINAL__12012023.pdf,fetched,,scripts/.workroot/study/health/cache/RWA/8.txt,1512,pdf,Microsoft Word - Rwanda_Overall Country Report_FINAL__12012023.docx
+1,https://doi.org/10.1186/s13690-025-01583-7,fetched,,scripts/.workroot/study/health/cache/RWA/1.txt,46,html,Client Challenge
+2,https://arxiv.org/pdf/2108.09721,fetched,,scripts/.workroot/study/health/cache/RWA/2.txt,5699,pdf,
+3,https://www.afro.who.int/countries/rwanda/news/improving-reporting-rate-private-health-facilities-key-sdgs-monitoring,held,held as raw/2019/2019-03-01-rwa-improving-reporting-rate-from-private-health-facilities-is-key-for-sdg.md,,0,,
+4,https://docs.dhis2.org/en/topics/user-stories/rwanda-hmis-powered-by-dhis2.html,fetched,,scripts/.workroot/study/health/cache/RWA/4.txt,609,html,Rwanda HMIS powered by DHIS2Â¶
+5,https://www.moh.gov.rw/fileadmin/user_upload/Moh/Publications/Health_Data/Standard_Operating_Procedures_for_Management_of_Routine_Health_Information_Health_center_post_and_Privates.pdf,fetched,,scripts/.workroot/study/health/cache/RWA/5.txt,10896,pdf,Partie A
+6,https://malariamatters.org/community-data-systems-for-primary-health-care-in-rwanda/,fetched,,scripts/.workroot/study/health/cache/RWA/6.txt,1370,html,Tropical Health Matters
+7,https://rwandafda.gov.rw/wp-content/uploads/2022/12/Health%20Sector%20Policy.pdf,fetched,,scripts/.workroot/study/health/cache/RWA/7.txt,14540,pdf,REPUBLIC OF RWANDA
+8,https://www.moh.gov.rw/index.php?eID=dumpFile&f=70771&t=f&token=f73c868b77d22d7833d7762c29cde46f7ec0b4b3,fetched,,scripts/.workroot/study/health/cache/RWA/8.txt,5016,pdf,Microsoft Word - 21232006_FLJSR_2023-24 Report_Ddraft[1].docx
+9,https://doi.org/10.1186/s12911-026-03534-w,fetched,,scripts/.workroot/study/health/cache/RWA/9.txt,46,html,Client Challenge
+10,https://ciichin.org/wp-content/uploads/2025/01/Rwanda-Health-Information-System-Ecosystem-RHIE-Achievement-over-last-Three-years-Full-Report.pdf,held,held as raw/2024/2024-10-25-rwa-rwanda-health-information-system-ecosystem-rhie-achievements-over-the.md,,0,,
+11,https://www.theglobalfund.org/media/qldaqizm/thematic_rwanda-digitizing-rural-health-facilities_report_en.pdf,fetched,,scripts/.workroot/study/health/cache/RWA/11.txt,1325,pdf,
+12,https://pmc.ncbi.nlm.nih.gov/articles/PMC11255528/,fetched,,scripts/.workroot/study/health/cache/RWA/12.txt,10388,html,Factors Influencing Data Quality in Electronic Health Record Systems in 50 Health Facilities in Rwanda and the Role of Clinical Alerts: Cross-Sectional Observational Study
+13,https://pmc.ncbi.nlm.nih.gov/articles/PMC11216700/,fetched,,scripts/.workroot/study/health/cache/RWA/13.txt,3863,html,Lessons From the Design and Rollout of an Electronic Medical Record System for Cervical Cancer Screening in Rwanda
+14,https://ohie.org/wp-content/uploads/2024/08/RawandaHealthExchangeArchitecture.pdf,fetched,,scripts/.workroot/study/health/cache/RWA/14.txt,1196,pdf,RawandaHealthExchangeArchitecture
+15,https://www.ictworks.org/rwanda-digital-health-revolution/,fetched,,scripts/.workroot/study/health/cache/RWA/15.txt,1113,html,Rwanda Digital Health Revolution is Transforming Healthcare - ICTworks
+16,https://pmc.ncbi.nlm.nih.gov/articles/PMC9115652/,fetched,,scripts/.workroot/study/health/cache/RWA/16.txt,18,html,Checking your browser

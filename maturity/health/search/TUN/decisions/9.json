@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Program Appraisal Document: Tunisia Energy Reliability, Efficiency, and Governance Improvement Program (TEREG)", "publisher": "World Bank", "published": "2025-04-04", "date_source": "source", "why_not": "Wrong document: the URL returns the appraisal of an energy programme for STEG, not the health project P507209; nothing on health."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised;tiers;clinics",
+ "fact": "The Director General of Health announced generalisation of the single medical record in most public hospitals in all regions, to be extended to dispensaries and basic health centres.",
+ "title": "Walid Naija : Chaque Tunisien aura bientôt un identifiant de santé unique",
+ "publisher": "La Presse de Tunisie",
+ "published": "2026-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

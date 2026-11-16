@@ -1,0 +1,12 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/NAM_Namibia_National-eHealth-strategy_2021-2025.pdf,held,held as raw/2021/2021-01-01 Namibia National eHealth Strategy 2021-2025.md,,0,,
+2,https://afro.who.int/countries/namibia/news/namibia-launches-national-digital-health-policy-advance-equitable-people-centred-healthcare,held,held as raw/2026/2026-02-06-who-afro-namibia-launches-national-digital-health-policy-2026-2036.md,,0,,
+3,https://dev2.restoredcdc.org/www.cdc.gov/global-health/media/pdfs/2024/11/Namibia-2024-Fact-Sheet.pdf,fetched,,scripts/.workroot/study/health/cache/NAM/3.txt,866,pdf,U.S. CDC Namibia
+4,https://sajim.co.za/index.php/sajim/article/view/2060/3547,fetched,,scripts/.workroot/study/health/cache/NAM/4.txt,8264,html,Managers’ perspectives on using routine health information systems for effective child healthcare programmes in Namibia
+5,https://www.countdown2030.org/wp-content/uploads/2025/09/Namibia-Synthesis-Report.pdf,fetched,,scripts/.workroot/study/health/cache/NAM/5.txt,2153,pdf,
+6,https://community.dhis2.org/t/transforming-data-into-insights-namibia-s-national-data-warehouse-ndw-implementation-with-dhis2/58642,fetched,,scripts/.workroot/study/health/cache/NAM/6.txt,516,html,Transforming Data into Insights Namibia’s National Data Warehouse (NDW) Implementation with DHIS2
+7,https://www.medrxiv.org/content/10.1101/2024.06.28.24309648v1.full.pdf,fetched,,scripts/.workroot/study/health/cache/NAM/7.txt,5942,pdf,"An assessment of the Health Information System in Khomas region, Namibia"
+8,https://www.namibian.com.na/strengthening-namibias-health-system-through-investment-in-infrastructure-digitalisation-and-equity/,held,held as raw/2025/2025-05-12-strengthening-namibias-health-system-through-investment-in-infrastructure-digitalisation-and-equity.md,,0,,
+9,https://journal-isi.org/index.php/isi/article/download/1185/612,fetched,,scripts/.workroot/study/health/cache/NAM/9.txt,7251,pdf,
+10,https://wch.gov.na/documents/146502/1029621/Statement+at+the+launch+of++the+National+eHealth+Strategy+2021-2025.pdf/669a0d48-20c7-0ec5-acfb-073ce578b118?download=true&t=1657267390132,held,held as raw/2021/2021-12-03-namibia-mohss-ehealth-strategy-launch-statement.md,,0,,
+11,https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0306939,fetched,,scripts/.workroot/study/health/cache/NAM/11.txt,5473,html,"A protocol for an assessment of the health information system in Khomas region, Namibia"

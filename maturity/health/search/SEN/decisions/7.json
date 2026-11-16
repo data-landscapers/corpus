@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Levée totale de la rétention des données sanitaires : le MSAS remercie ASAS AND GUEUSSEUM au nom du chef de l'Etat", "publisher": "PressAfrik", "published": "2025-01-10", "date_source": "proxy", "why_not": "Its dated event, the lifting of the data retention on 9 January 2025 with reporting to resume on 15 January 2025, falls outside the twelve-month window of the only aspect it bears on; the fetched text carries no byline date."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "tiers;digitised",
+ "fact": "Senegal's DHIS2 was scaled nationally in 2015-2016 and is used at all levels of the health pyramid, including health centres and health posts, for data entry; all health programmes use it as the single source of aggregate data.",
+ "title": "Harmonizing data collection for COVID-19 response in Senegal",
+ "publisher": "DHIS2",
+ "published": "2021-04-19",
+ "date_source": "proxy",
+ "why_not": ""
+}

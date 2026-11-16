@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Angola e Huawei assinam Memorando de Entendimento para o reforço da Saúde Digital", "publisher": "Ministério da Saúde da República de Angola", "published": "2026-01-26", "date_source": "source", "why_not": "The memorandum of 26 January 2026 provides for 'progressive digitalisation of hospitals and health units', telemedicine and imaging; it names no patient record system, so it states no EMR fact."}
+{
+ "select": false,
+ "sub_indicator": "hmis",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "already-held: held as raw/2023/2023-02-01-ago-estabelecida-a-interoperabilidade-entre-o-sis-comunitario-do-hiv-e-o-s.md"
+}

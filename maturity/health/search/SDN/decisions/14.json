@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "tiers;governance",
+ "fact": "UNICEF reports a pilot of electronic-medical-record-backed telehealth in five primary health care facilities and a referral hospital, to be deployed in over 400 health facilities.",
+ "title": "Rebuilding Sudan's health system through digital innovations",
+ "publisher": "UNICEF Sudan",
+ "published": "2025-09-15",
+ "date_source": "proxy",
+ "why_not": ""
+}

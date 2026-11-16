@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Annual and Partnership Report 2024", "publisher": "UNICEF Tunisia", "published": "2024", "date_source": "source", "why_not": "Its health-system fact is the EVAX immunisation platform (deployed in 915 health centres, 80% of immunisation services, June 2024), a one-programme patient register (class tracker), not routine aggregate reporting; nothing on an HMIS gap aspect."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;tiers",
+ "fact": "The Health Minister said digitisation of services reached 92% in university hospitals and 77% in regional hospitals, 295 establishments are on the national health network, and about 2,100 basic health centres are still to be digitised.",
+ "title": "Digitalisation du secteur de la santé en Tunisie : un pas vers une meilleure gouvernance",
+ "publisher": "WMC (webmanagercenter.com)",
+ "published": "2024-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

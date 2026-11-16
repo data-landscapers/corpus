@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "tiers;digitised",
+ "fact": "OpenMRS was rolled out to more than 300 MoH-run facilities from 2011 and supports comprehensive services in all departments of district hospitals, and maternal-child health, NCD and oncology care in some health centres.",
+ "title": "Factors Influencing Data Quality in Electronic Health Record Systems in 50 Health Facilities in Rwanda and the Role of Clinical Alerts: Cross-Sectional Observational Study",
+ "publisher": "JMIR",
+ "published": "2024-07-03",
+ "date_source": "source",
+ "why_not": ""
+}

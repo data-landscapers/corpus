@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "tiers;governance",
+ "fact": "On 4 July 2024 CST and the Ayres de Menezes hospital signed an agreement to install a local network and equipment for the hospital's computer services and digitalisation.",
+ "title": "CST vai instalar sistema de rede para melhorar serviços informáticos e digitalização no Hospital",
+ "publisher": "Rádio Nacional de São Tomé e Príncipe",
+ "published": "2024-07-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

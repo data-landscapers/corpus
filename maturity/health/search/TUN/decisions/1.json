@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Projet annuel de performance de la mission Santé 2020", "publisher": "Ministère de la Santé (Tunisie)", "published": "2020", "date_source": "proxy", "why_not": "States only 2020 intentions (develop the first-line information system, connect first-line structures to the national health network) and the CSBs' duty to collect statistics; no fact on which tiers report digitally or where; lead 6 states the first-line position more directly and later."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;clinics;governance",
+ "fact": "The appraisal states the health information system is still largely paper based, that DMI electronic records are neither installed nor used in district hospitals and CSBs, and that the project will fund a national PHC information system and connect all CSBs.",
+ "title": "Project Appraisal Document, Tunisia Health System Strengthening Project (P507209)",
+ "publisher": "International Bank for Reconstruction and Development (World Bank)",
+ "published": "2025-05-06",
+ "date_source": "source",
+ "why_not": ""
+}

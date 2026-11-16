@@ -1,9 +1,17 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://library.health.go.ug/sites/default/files/resources/Annual%20Health%20Sector%20Performance%20Report%20%20FY%202023_24.pdf,fetched,"second pass, by Wayback",scripts/.workroot/study/health/cache/UGA/1.txt,71935,pdf,
-2,https://www.theglobalfund.org/media/15329/oig_gf-oig-24-020_report_en.pdf,fetched,,scripts/.workroot/study/health/cache/UGA/2.txt,9062,pdf,
-3,https://www.health.go.ug/wp-content/uploads/2022/02/MoH-Strategic-Plan-2020_25.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: no usable capture",,0,,
-4,https://thedocs.worldbank.org/en/doc/0273f33ab6ee48c5d842108b9b55c789-0140022025/related/National-Health-Compacts-Uganda.pdf,fetched,,scripts/.workroot/study/health/cache/UGA/4.txt,20684,pdf,
-5,https://budget.finance.go.ug/sites/default/files/Sector%20Spending%20Agency%20Budgets%20and%20Performance/Ministry%20of%20Health_22.pdf,fetched,"second pass, by second client",scripts/.workroot/study/health/cache/UGA/5.txt,8744,pdf,Report
-6,https://www.gavi.org/sites/default/files/document/2024/Targeted-Country-Assistance-Plan-Uganda-2022.pdf,fetched,,scripts/.workroot/study/health/cache/UGA/6.txt,792,pdf,
-7,https://library.health.go.ug/file-download/download/public/1853,fetched,,scripts/.workroot/study/health/cache/UGA/7.txt,1138,pdf,Monthly_Malaria Surveillance
-8,https://library.health.go.ug/sites/default/files/resources/Annual%20Health%20Sector%20Performance%20Report%202019-2020%20FY-1_0.pdf,fetched,,scripts/.workroot/study/health/cache/UGA/8.txt,83288,pdf,
+1,https://pmc.ncbi.nlm.nih.gov/articles/PMC12870114/,held,held as raw/2026/2026-01-14-uga-barriers-and-facilitators-of-the-effective-use-of-dhis2-data-to-improv.md,,0,,
+2,https://link.springer.com/article/10.1186/s12913-026-14188-9,fetched,,scripts/.workroot/study/health/cache/UGA/2.txt,46,html,Client Challenge
+3,https://doi.org/10.1186/s12963-024-00343-z,fetched,,scripts/.workroot/study/health/cache/UGA/3.txt,46,html,Client Challenge
+4,https://library.health.go.ug/sites/default/files/resources/Annual%20Health%20Sector%20Performance%20Report%20%20FY%202023_24.pdf,held,held as raw/2024/2024-01-01-uga-annual-health-sector-performance-report-financial-year-2023-24.md,,0,,
+5,https://library.health.go.ug/sites/default/files/resources/Guidelines%20for%20Introduction%20of%20Digital%20Health%20Solutions%20in%20Uganda_12May2024.pdf,fetched,,scripts/.workroot/study/health/cache/UGA/5.txt,9174,pdf,
+6,https://direct.mit.edu/dint/article/4/4/882/112748/Information-Streams-in-Health-Facilities-The-Case,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+7,https://extranet.who.int/cpcd/sites/default/files/public_file_repository/uga_uganda_health-information-digital-health-strategic-plan_2020-2025.pdf,held,held as raw/2021/2021-01-01-uga-health-information-digital-health-strategic-plan-2020-2025.md,,0,,
+8,https://library.health.go.ug/sites/default/files/resources/Annual%20Health%20Sector%20Performance%20Report%202019-2020%20FY-1_0.pdf,held,held as raw/2020/2020-01-01-uga-annual-health-sector-performance-report-financial-year-2019-20.md,,0,,
+9,https://health.go.ug/electronic-medical-records-rollout-transforms-patient-care-and-data-management/,held,held as raw/2025/2025-06-13-emr-rollout-patient-care-data-management.md,,0,,
+10,https://ubc.go.ug/2026/03/31/government-takes-over-national-digital-health-systems-from-makerere-university/,fetched,,scripts/.workroot/study/health/cache/UGA/10.txt,386,html,Government Takes Over National Digital Health Systems from Makerere University - Uganda Broadcasting Corporation
+11,https://library.health.go.ug/sites/default/files/resources/Health%20Sector%20Digitization%20Bulletin.pdf,fetched,,scripts/.workroot/study/health/cache/UGA/11.txt,3186,pdf,
+12,https://library.health.go.ug/sites/default/files/resources/EMR%20System%20Implementation%20Guidelines.pdf,held,held as raw/2024/2024-01-01-uga-electronic-medical-records-system-implementation-guidelines.md,,0,,
+13,https://openmrs.org/ugandaemr-o3-success-story/,unfetchable,HTTP 429; no usable Wayback capture,,0,,
+14,https://talk.openmrs.org/t/national-wide-rollout-of-ugandaemrplus-o3-distro-in-uganda/42154,fetched,,scripts/.workroot/study/health/cache/UGA/14.txt,321,html,National Wide Rollout of UgandaEMRPlus (O3 distro) in Uganda
+15,https://www.afro.who.int/countries/uganda/news/who-and-germany-donate-it-equipment-support-health-sector-digitization,fetched,,scripts/.workroot/study/health/cache/UGA/15.txt,389,html,WHO and Germany donate IT equipment to support health sector digitization
+16,https://library.health.go.ug/sites/default/files/resources/Final_HIE%20and%20Interoperability%20Guidelines%20for%20Uganda_13042024.pdf,fetched,,scripts/.workroot/study/health/cache/UGA/16.txt,5547,pdf,

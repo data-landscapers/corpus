@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised",
+ "fact": "The MoH point-of-care EMRS is scaled to all large and medium-volume ART clinics but operates independently at each facility and does not share client data across clinics.",
+ "title": "Acceptability and feasibility of a mobile electronic medical record system for community-based antiretroviral therapy in Lilongwe, Malawi: A rapid qualitative analysis",
+ "publisher": "PLOS ONE",
+ "published": "2025-05-23",
+ "date_source": "source",
+ "why_not": ""
+}

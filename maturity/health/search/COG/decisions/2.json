@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "MISE EN OEUVRE DHIS2", "publisher": "Ministère de la Santé et de la Population, République du Congo", "published": "", "date_source": "proxy", "why_not": "The fetched page is a list of news teasers (cancer, malaria, mSupply/e-LMIS training); it states no fact about the SNIS or DHIS2 reporting."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised",
+ "fact": "SNIS report completeness is published at 80.64% and timeliness at 66.17% from DHIS-2 for 2023.",
+ "title": "Répertoire des indicateurs de performance de santé du Congo en 2023",
+ "publisher": "Ministère de la Santé et de la Population",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

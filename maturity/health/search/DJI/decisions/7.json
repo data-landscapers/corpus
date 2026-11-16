@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Implementing a Survivor-Centred GBVIMS in Djibouti (2021–2026)", "publisher": "Community Systems Foundation", "published": "2026-03", "date_source": "proxy", "why_not": "About the GBV case-management platform, a single-programme tracker; on DHIS2 it says only that the platform interoperates with it, undated, and lead 3 states the governance fact more fully."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "governance",
+ "fact": "The Ministry of Health trained chief physicians and managers on DHIS2, planning a cascade reaching over 500 data officers to make the platform operational at all levels of the health pyramid.",
+ "title": "Ministère de la Santé : En vue de la mise en place de la plateforme de gestion de données « DHIS2 »",
+ "publisher": "La Nation",
+ "published": "2019-09-16",
+ "date_source": "proxy",
+ "why_not": ""
+}

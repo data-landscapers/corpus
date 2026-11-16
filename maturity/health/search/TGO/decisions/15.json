@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "tiers;digitised",
+ "fact": "The first integrated hospital information system in a public health centre in Togo (HopitalOS) was installed at the Notsè prefectural hospital in December 2016 and at a Lomé clinic in January 2018.",
+ "title": "Evaluation du systeme d'information hospitalier integre HopitalOS au Centre Hospitalier Prefectoral de Notse, et a la Clinique Nathanaël de Lome",
+ "publisher": "Journal de la Recherche Scientifique de l'Université de Lomé",
+ "published": "2022-10-03",
+ "date_source": "source",
+ "why_not": ""
+}

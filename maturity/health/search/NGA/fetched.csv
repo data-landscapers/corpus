@@ -1,9 +1,11 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://fmohconnect.gov.ng/wp-content/uploads/2023/09/NHMIS-Annual-Report-2021-Designed.pdf,fetched,,scripts/.workroot/study/health/cache/NGA/1.txt,7616,pdf,
-2,https://fmohconnect.gov.ng/wp-content/uploads/2023/09/NHMIS-May-Bulletin.pdf,fetched,,scripts/.workroot/study/health/cache/NGA/2.txt,1892,pdf,NHMIS May Bulletin
-3,https://fmohconnect.gov.ng/wp-content/uploads/2025/09/NHMIS-April-Bulletin-2024.pdf,fetched,,scripts/.workroot/study/health/cache/NGA/3.txt,1883,pdf,NHMIS April Bulletin
-4,https://fmohconnect.gov.ng/wp-content/uploads/2025/09/NHMIS-January-2025-Bulletin.pdf,fetched,,scripts/.workroot/study/health/cache/NGA/4.txt,1928,pdf,NHMIS January 2025 Bulletin
-5,https://fmohconnect.gov.ng/wp-content/uploads/2025/09/NHMIS-June-2025-Bulletin-1.pdf,fetched,,scripts/.workroot/study/health/cache/NGA/5.txt,1916,pdf,NHMIS June 2025 Bulletin
-6,https://zdlh.gavi.org/sites/default/files/2023-12/ZDLH_Nigeria_Landscape_2023.pdf,fetched,,scripts/.workroot/study/health/cache/NGA/6.txt,12150,pdf,
-7,https://zdlh.gavi.org/sites/default/files/2024-12/Nigeria_Political_Economy_Assessment_ZDLH_November%202024.pdf,fetched,,scripts/.workroot/study/health/cache/NGA/7.txt,17480,pdf,
-8,https://zdlh.gavi.org/sites/default/files/2025-10/Nigeria_ZDLH_Semiannual_Update_October_2025.pdf,fetched,,scripts/.workroot/study/health/cache/NGA/8.txt,9427,pdf,
+1,https://fmohconnect.gov.ng/wp-content/uploads/2025/09/NHMIS-May-2025-Bulletin-1.pdf,fetched,,scripts/.workroot/study/health/cache/NGA/1.txt,1918,pdf,NHMIS May 2025 Bulletin
+2,https://ngfrepository.org.ng:8443/jspui/bitstream/123456789/7389/1/Nigeria%20Country%20Health%20System%20and%20Services%20Profile%202025.pdf,fetched,,scripts/.workroot/study/health/cache/NGA/2.txt,105348,pdf,
+3,https://afro.who.int/sites/default/files/2026-05/2025%20Annual%20Report.pdf,fetched,,scripts/.workroot/study/health/cache/NGA/3.txt,6385,pdf,2025 Annual Report
+4,https://r4d.org/wp-content/uploads/R4D-TCoE-Health-and-AI-Nigeria-Report.pdf,fetched,,scripts/.workroot/study/health/cache/NGA/4.txt,28085,pdf,
+5,https://nannews.ng/jar-stakeholders-resolve-to-strengthen-health-financing-workforce-management/,fetched,,scripts/.workroot/study/health/cache/NGA/5.txt,634,html,"JAR: Stakeholders Resolve To Strengthen Health Financing, Workforce Management - News Agency Of Nigeria"
+6,https://www.swap.gov.ng/assets/Nigeria%20Health-qacF-PA5.pdf,unfetchable,empty extraction; no usable Wayback capture,,0,,
+7,https://www.digitalhealth.gov.ng/,fetched,,scripts/.workroot/study/health/cache/NGA/7.txt,439,html,Nigeria Digital in Health Initiative (NDHI) | policy
+8,https://guardian.ng/features/health/fg-engages-telecom-firms-to-expand-digital-health-services/,fetched,,scripts/.workroot/study/health/cache/NGA/8.txt,799,html,FG engages telecom firms to expand digital health services
+9,https://www.ecofinagency.com/news-digital/0510-59476-nigeria-builds-national-digital-health-architecture-to-connect-fragmented-systems,fetched,,scripts/.workroot/study/health/cache/NGA/9.txt,1342,html,"Nigeria Moves to Break Health Data Silos, Joining an Africa-Wide Interoperability Drive"
+10,https://tracereporters.com/2026/07/23/kaduna-introduces-electronic-medical-records-across-phcs/,fetched,,scripts/.workroot/study/health/cache/NGA/10.txt,528,html,Kaduna Introduces Electronic Medical Records Across PHCs

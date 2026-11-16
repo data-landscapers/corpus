@@ -1,13 +1,11 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://pub.sbc4d.com/2022/lesotho_full_final.pdf,held,held as raw/2021/2021-09-01-lesotho-data-use-statistical-capacity-assessment.md,,0,,
-2,https://www.unicef.org/esa/media/13431/file/Lesotho-Health-Budget-Brief-2021-2022.pdf,fetched,,scripts/.workroot/study/health/cache/LSO/2.txt,2329,pdf,Health Sector Budget Brief 2021/22
-3,https://openknowledge.worldbank.org/server/api/core/bitstreams/cef30410-108d-4f8a-a725-2842e5baaf84/content,fetched,,scripts/.workroot/study/health/cache/LSO/3.txt,34937,pdf,World Bank Document
-4,https://bmjopen.bmj.com/content/13/5/e071414,fetched,"second pass, by second client",scripts/.workroot/study/health/cache/LSO/4.txt,5217,html,Effects of primary healthcare reform on routine health information systems (RHISs): a mixed-methods study in Lesotho
-5,https://extranet.who.int/cpcd/sites/default/files/public_file_repository/LSO_Lesotho_National-Health-Strategic-Plan-Nhsp_2019-2023.pdf,fetched,,scripts/.workroot/study/health/cache/LSO/5.txt,30949,pdf,
-6,https://cquin.icap.columbia.edu/wp-content/uploads/2025/11/CQUIN-9th-Annual-Meeting_Lesotho-Country-updates-FINAL.pdf,fetched,,scripts/.workroot/study/health/cache/LSO/6.txt,2786,pdf,PowerPoint Presentation
-7,https://assets.mcc.gov/content/uploads/compact-lesotho-health-and-horticulture.pdf,fetched,"second pass, by certificate unverified",scripts/.workroot/study/health/cache/LSO/7.txt,34233,pdf,Lesotho Health and Horticulture Compact
-8,https://www.afro.who.int/countries/lesotho/news/lesotho-validates-its-digital-health-strategy-2025-2030-step-towards-transforming-healthcare-through,fetched,,scripts/.workroot/study/health/cache/LSO/8.txt,641,html,Lesotho validates its Digital Health Strategy 2025-2030: A step towards transforming Healthcare through Technology
-9,https://www.mcc.gov/blog/entry/blog-121123-digital-health-lesotho/,fetched,,scripts/.workroot/study/health/cache/LSO/9.txt,615,html,MCC Set to Invest in Stronger Digital Health Systems in Lesotho
-10,https://mer.amfar.org/factsheets/LSO_2025_factsheet.pdf,fetched,,scripts/.workroot/study/health/cache/LSO/10.txt,1097,pdf,
-11,https://eregister.github.io/docs/ereg/eRegister-092-Release-Notes/,fetched,,scripts/.workroot/study/health/cache/LSO/11.txt,5390,html,eRegister 092 Release Notes
-12,https://groundup.news/article/about-1500-lesotho-health-workers-sent-home-after-usaid-and-pepfar-suspension/,fetched,,scripts/.workroot/study/health/cache/LSO/12.txt,1233,html,"1,500 Lesotho health workers sent home after US aid suspended"
+1,https://openknowledge.worldbank.org/server/api/core/bitstreams/cef30410-108d-4f8a-a725-2842e5baaf84/content,held,held as raw/2022/2022-03-01-lso-transforming-health-care-in-lesotho-using-digital-health-to-overcome-h.md,,0,,
+2,https://pmc.ncbi.nlm.nih.gov/articles/PMC10201246/,fetched,,scripts/.workroot/study/health/cache/LSO/2.txt,18,html,Checking your browser
+3,https://icap.columbia.edu/news-events/icap-builds-lesothos-capacity-to-build-and-maintain-sustainable-data-systems/,fetched,,scripts/.workroot/study/health/cache/LSO/3.txt,700,html,ICAP Enhances Lesotho’s Capacity to Build and Maintain Sustainable Data Systems
+4,https://icap.columbia.edu/cpt_projects/strengthening-strategic-information-activities-in-the-kingdom-of-lesotho/,held,held as raw/2022/2022-10-20-lso-strengthening-strategic-information-activities-in-the-kingdom-of-lesot.md,,0,,
+5,https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/LSO_Lesotho_National-Health-Strategic-Plan_2019-2023.pdf,fetched,,scripts/.workroot/study/health/cache/LSO/5.txt,30949,pdf,
+6,https://pmc.ncbi.nlm.nih.gov/articles/PMC11932418/,fetched,,scripts/.workroot/study/health/cache/LSO/6.txt,18,html,Checking your browser
+7,https://www.mcc.gov/blog/entry/blog-121123-digital-health-lesotho/,held,held as raw/2023/2023-12-11-lso-mcc-set-to-invest-in-stronger-digital-health-systems-in-lesotho.md,,0,,
+8,https://doi.org/10.1186/s12911-025-02858-3,held,held as raw/2025/2025-05-12-bmc-healthcare-workers-perceptions-emr-mafeteng-lesotho.md,,0,,
+9,https://cquin.icap.columbia.edu/wp-content/uploads/2022/12/B8.-Lesothos-Electronic-Medical-Record-Seamlessly-Track-Progress-in-MMD.pdf,fetched,,scripts/.workroot/study/health/cache/LSO/9.txt,415,pdf,PowerPoint Presentation
+10,https://bahmni.atlassian.net/wiki/spaces/BAH/pages/3086417921/Bahmni+DHIS2+and+HIE+rollout+in+the+Kingdom+of+Lesotho+External+Report,fetched,,scripts/.workroot/study/health/cache/LSO/10.txt,270,html,"Bahmni, DHIS2 and HIE rollout in the Kingdom of Lesotho (External Report)"

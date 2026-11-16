@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Direcção Nacional de Saúde Pública capacita técnicos para reforçar vigilância epidemiológica", "publisher": "OMS | Escritório Regional para a África", "published": "2023-04-17", "date_source": "proxy", "why_not": "Reports DHIS2 training of 20 technicians at the central CPDE for epidemiological surveillance; a central unit, not a facility tier, and no tier is named."}
+{
+ "select": false,
+ "sub_indicator": "",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "already-held: held as raw/2025/2025-03-01-who-angola-annual-report-2024.md"
+}

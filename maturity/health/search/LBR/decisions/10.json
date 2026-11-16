@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "tiers;governance",
+ "fact": "UNFPA Liberia's RFQ issued 2025-11-07 procures an EMR to replace paper records, to be deployed at two health centres (Careysburg and Duport Road) between October 2025 and February 2026.",
+ "title": "REQUEST FOR QUOTATION, ELECTRONIC MEDICAL SYSTEM IMPLEMENTATION",
+ "publisher": "UNFPA Liberia",
+ "published": "2025-11-07",
+ "date_source": "source",
+ "why_not": ""
+}

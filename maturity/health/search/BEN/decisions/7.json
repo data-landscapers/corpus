@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised",
+ "fact": "In Benin the national RHIS runs on DHIS2 at national scale, with paper forms entered at health zone level.",
+ "title": "Synthesis of Routine Health Information System Architecture Profiles of PMI Priority Countries",
+ "publisher": "MEASURE Evaluation",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": ""
+}

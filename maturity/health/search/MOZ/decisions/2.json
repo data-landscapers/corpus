@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;governance",
+ "fact": "In November 2025 Mozambique's Ministry of Health M&E adviser stated HIV data is reported from paper registers into the national DHIS2 (SIS-MA) and there is no national adoption of an EMR system.",
+ "title": "M&E system vulnerabilities and steps towards resiliency, Mozambique",
+ "publisher": "Ministry of Health, Mozambique (CQUIN 9th Annual Meeting)",
+ "published": "2025-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

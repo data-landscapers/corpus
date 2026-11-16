@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "tiers;digitised",
+ "fact": "By the end of 2022 the cervical cancer electronic medical record module on OpenMRS had been deployed to all public health facilities in 16 of 30 districts, with offline data collection at health centres.",
+ "title": "Lessons From the Design and Rollout of an Electronic Medical Record System for Cervical Cancer Screening in Rwanda",
+ "publisher": "JCO Global Oncology",
+ "published": "2024-06-27",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,9 +1,17 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://health.go.ke/sites/default/files/2026-08/KHSSP%202023-2027%20signed%20copy.pdf,fetched,"second pass, by certificate unverified",scripts/.workroot/study/health/cache/KEN/1.txt,51245,pdf,
-2,https://www.path.org/our-impact/articles/digital-health-strategy-kenya/,fetched,,scripts/.workroot/study/health/cache/KEN/2.txt,666,html,Mapping out a digital health strategy in Kenya
-3,https://www.idinsight.org/wp-content/uploads/2024/10/Financial-Non-Financial-Information-Flow-Kenya-Health-Sector.pdf,fetched,,scripts/.workroot/study/health/cache/KEN/3.txt,21379,pdf,
-4,https://www.ajol.info/index.php/eamj/article/view/270642,unfetchable,"empty extraction; Wayback HTTP 429, not checked | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: 429 three times",,0,,
-5,https://www.health.go.ke/sites/default/files/2024-01/Kenya%20Health%20Facility%20Census%20Report%20September%202023.pdf,fetched,"second pass, by certificate unverified",scripts/.workroot/study/health/cache/KEN/5.txt,24248,pdf,
-6,https://www.countdown2030.org/wp-content/uploads/2023/08/KHSSP-MTR-Statistical-report.pdf,fetched,,scripts/.workroot/study/health/cache/KEN/6.txt,25231,pdf,KHSSP MTR Statistical report
-7,https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-023-10133-2,fetched,"second pass, by second client",scripts/.workroot/study/health/cache/KEN/7.txt,7512,html,Development of novel composite data quality scores to evaluate facility-level data quality in electronic data in Kenya: a nationwide retrospective cohort study - BMC Health Services Research
-8,https://chu4uhc.org/strengthening-kenyas-digital-health-systems-through-local-control-and-capacity-building/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: 429 three times",,0,,
+1,https://www.idinsight.org/wp-content/uploads/2024/10/Financial-Non-Financial-Information-Flow-Kenya-Health-Sector.pdf,held,held as raw/2024/2024-10-01-ken-financial-and-non-financial-information-flows-in-the-kenya-health-sect.md,,0,,
+2,https://www.countdown2030.org/wp-content/uploads/2024/07/CHARTBOOK-KENYA-2024.pdf,fetched,,scripts/.workroot/study/health/cache/KEN/2.txt,4398,pdf,CHARTBOOK KENYA 2024
+3,https://pmc.ncbi.nlm.nih.gov/articles/PMC7789797/,fetched,,scripts/.workroot/study/health/cache/KEN/3.txt,18,html,Checking your browser
+4,https://www.eahealth.org/sites/www.eahealth.org/files/content/attachments/2021-08-02/eCHIS-Strategy-2020-2025.pdf,fetched,,scripts/.workroot/study/health/cache/KEN/4.txt,23280,pdf,
+5,https://www.dha.go.ke/digital-health-superhighway,fetched,,scripts/.workroot/study/health/cache/KEN/5.txt,71,html,Kenya's Digital Health Superhighway
+6,https://health.go.ke/cs-duale-leads-consultative-forum-transition-sha-hmis,held,held as raw/2026/2026-06-29-cs-duale-leads-consultative-forum-transition-sha-hmis.md,,0,,
+7,https://www.health.go.ke/ministry-health-accelerates-digital-transformation-healthcare,fetched,,scripts/.workroot/study/health/cache/KEN/7.txt,303,html,Ministry of Health Accelerates Digital Transformation in Healthcare
+8,https://amref.org/kenya/health-innovations-kenya/,fetched,,scripts/.workroot/study/health/cache/KEN/8.txt,83,html,Innovations - Amref Health Africa in Kenya
+9,https://nation.africa/kenya/health/how-kenya-connected-over-2-300-clinics-through-a-single-health-records-network-5468864,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+10,https://www.standardmedia.co.ke/business/sci-tech/article/2001549186/cloud-push-to-keep-patient-data-local-reaches-thousands-of-health-facilities,fetched,,scripts/.workroot/study/health/cache/KEN/10.txt,829,html,Cloud push to keep patient data local reaches thousands of health facilities
+11,https://health.go.ke/cs-duale-launches-digital-health-agency-strategic-plan-reviews-one-year-digital-health,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+12,https://www.health.go.ke/health-cabinet-secretary-hon-aden-duale-leads-launch-health-facility-digitalization,fetched,,scripts/.workroot/study/health/cache/KEN/12.txt,315,html,Health Cabinet Secretary Hon. Aden Duale Leads Launch of Health Facility Digitalization
+13,https://www.kutrrh.go.ke/cs-aden-duale-launches-digital-health-reforms-to-boost-universal-health-coverage/,fetched,,scripts/.workroot/study/health/cache/KEN/13.txt,548,html,CS Aden Duale Launches Digital Health Reforms To Boost Universal Health Coverage
+14,https://www.health.go.ke/government-scales-digital-health-reform-drive-accountability-and-efficiency,held,held as raw/2025/2025-06-18-ken-moh-digital-health-reform-cihis-17-counties.md,,0,,
+15,https://pmc.ncbi.nlm.nih.gov/articles/PMC8423313/,fetched,,scripts/.workroot/study/health/cache/KEN/15.txt,18,html,Checking your browser
+16,https://transformhealthcoalition.org/wp-content/uploads/2025/02/Analysing-and-Enhancing-Digital-Health-Standards-in-Kenya.pdf,fetched,,scripts/.workroot/study/health/cache/KEN/16.txt,15250,pdf,

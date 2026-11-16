@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "hmis",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "already-held: Portuguese edition of the National Health Development Plan 2023-2032, whose English edition is already in evidence.csv."
+}

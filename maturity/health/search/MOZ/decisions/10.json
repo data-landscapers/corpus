@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "EPTS Centralization in Mozambique-Transforming Provincial Health Data Management", "publisher": "C-Saúde", "published": "2024-07-24", "date_source": "proxy", "why_not": "EPTS is the HIV patient tracking system (tracker, noted not assessed); the text gives no facility count and does not say where records are keyed."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "clinics;digitised",
+ "fact": "The SESP HIV electronic patient tracking system is used at over 670 health facilities, while the national SIS-RME is a new system envisioned for point of care in all facilities.",
+ "title": "Health Information Systems",
+ "publisher": "C-Saúde",
+ "published": "2024-06-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

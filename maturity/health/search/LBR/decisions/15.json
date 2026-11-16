@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "governance",
+ "fact": "On 2019-02-06 the Ministry of Health ended a day-long session with partners to draw up terms of reference and a roadmap for national electronic medical records.",
+ "title": "Health officials brainstorm on EMR",
+ "publisher": "The New Dawn",
+ "published": "2019-02-06",
+ "date_source": "source",
+ "why_not": ""
+}

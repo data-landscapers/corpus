@@ -1,15 +1,12 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Country_documents/Botswana/BHDC_Roadmap_2020.pdf,fetched,,scripts/.workroot/study/health/cache/BWA/1.txt,13856,pdf,BOTSWANA HEALTH DATA COLLABORATIVE ROADMAP
-2,https://www.measureevaluation.org/his-strengthening-resource-center/country-profiles-1/botswana.html,fetched,,scripts/.workroot/study/health/cache/BWA/2.txt,1284,html,Botswana: HIS Indicators
-3,https://dhis2.org/botswana-supply-chain/,fetched,,scripts/.workroot/study/health/cache/BWA/3.txt,1148,html,Adapting the Existing DHIS2 to Support Supply Chain Decision Making in Botswana - DHIS2
-4,https://afro.who.int/sites/default/files/2024-09/WHO-Botswana-Biennial-Report-2022-2023.pdf,fetched,,scripts/.workroot/study/health/cache/BWA/4.txt,23982,pdf,
-5,https://simpler.grants.gov/opportunity/37ee549a-8f15-4832-890a-4532d03acd3b,fetched,,scripts/.workroot/study/health/cache/BWA/5.txt,326,html,Opportunity Listing
-6,https://taggs.hhs.gov/Detail/AwardDetail?arg_AwardNum=NU2GGH002482,fetched,,scripts/.workroot/study/health/cache/BWA/6.txt,588,html,Award Search - Search HHS Grant Awards
-7,https://afro.who.int/countries/botswana/news/european-union-and-who-support-botswanas-health-data-efforts-districts,fetched,,scripts/.workroot/study/health/cache/BWA/7.txt,260,html,The European Union and WHO Support Botswana’s Health Data Efforts in the Districts
-8,https://ehr.meditech.com/news/sir-ketumile-masire-teaching-hospital-implements-meditech-expanse,fetched,,scripts/.workroot/study/health/cache/BWA/8.txt,511,html,Sir Ketumile Masire Teaching Hospital implements MEDITECH Expanse
-9,https://www.thegazette.news/news/moh-pilots-digital-health-ecosystem/,fetched,,scripts/.workroot/study/health/cache/BWA/9.txt,320,html,MoH Pilots Digital Health Ecosystem
-10,https://pmc.ncbi.nlm.nih.gov/articles/PMC8379582/,fetched,"second pass, by Europe PMC",scripts/.workroot/study/health/cache/BWA/10.txt,6571,xml,Interoperability opportunities and challenges in linking mhealth applications and eRecord systems: Botswana as an exemplar
-11,https://extranet.who.int/countryplanningcycles/planning-cycle-files/botswana-ehealth-strategy-2020-2024,fetched,second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: 429 three times,scripts/.workroot/study/health/cache/BWA/11.txt,46,html,Botswana-eHealth Strategy 2020-2024
-12,https://documents1.worldbank.org/curated/en/099541410302526068/pdf/IDU-b74a99ca-88c5-43e8-aba0-34a34d67e29f.pdf,fetched,,scripts/.workroot/study/health/cache/BWA/12.txt,5752,pdf,World Bank Document
-13,https://noyam.org/wp-content/uploads/2023/04/EHASS20234416.pdf,fetched,,scripts/.workroot/study/health/cache/BWA/13.txt,5743,pdf,
-14,https://www.researchprotocols.org/2024/1/e52411,unfetchable,"empty extraction; Wayback HTTP 429, not checked | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: 429 three times",,0,,
+1,https://dailynews.gov.bw/news-detail/89169,held,held as raw/2025/2025-11-20-motshegwa-medicine-shortage-rural-health-digital.md,,0,,
+2,https://pmc.ncbi.nlm.nih.gov/articles/PMC13184611/,fetched,,scripts/.workroot/study/health/cache/BWA/2.txt,18,html,Checking your browser
+3,https://pmc.ncbi.nlm.nih.gov/articles/PMC11514319/,fetched,,scripts/.workroot/study/health/cache/BWA/3.txt,18,html,Checking your browser
+4,https://doi.org/10.38159/ehass.20234416,fetched,,scripts/.workroot/study/health/cache/BWA/4.txt,597,html,Adoption and Utilization of Integrated Patient Management System in Botswana Public Health Facilities
+5,https://dhis2.org/botswana-supply-chain/,held,held as raw/2023/2023-01-30-bwa-adapting-the-existing-dhis2-to-support-supply-chain-decision-making-in.md,,0,,
+6,https://pmc.ncbi.nlm.nih.gov/articles/PMC8965668/,fetched,,scripts/.workroot/study/health/cache/BWA/6.txt,6133,html,Acceptance of the District Health Information System Version 2 Platform for Malaria Case-Based Surveillance By Health Care Workers in Botswana: Web-Based Survey
+7,https://doi.org/10.21763/tjfmpc.1065480,fetched,,scripts/.workroot/study/health/cache/BWA/7.txt,1843,html,The Use of Health Informatics and Information Technology: The Situation in Botswana
+8,https://pmc.ncbi.nlm.nih.gov/articles/PMC8379582/,held,held as raw/2021/2021-01-01-bwa-interoperability-opportunities-and-challenges-in-linking-mhealth-appli.md,,0,,
+9,https://www.ciheb.org/media/som/microsites/ciheb/data-resources/docs/CBS-SOP_Data-Collection_v1.0_2021.10.01.pdf,fetched,,scripts/.workroot/study/health/cache/BWA/9.txt,7148,pdf,
+10,https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Country_documents/Botswana/BHDC_Roadmap_2020.pdf,held,held as raw/2019/2019-01-01-bwa-botswana-health-data-collaborative-roadmap-2020-2025.md,,0,,
+11,https://files.aho.afro.who.int/afahobckpcontainer/production/files/Technical_Brief_on_Health_Systems_Software.pdf,fetched,,scripts/.workroot/study/health/cache/BWA/11.txt,2093,pdf,

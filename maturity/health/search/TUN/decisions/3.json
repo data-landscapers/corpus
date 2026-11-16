@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "emr", "aspect": "governance", "fact": "The draft National Health Policy with a 2030 vision, put to the National Health Conference of 27 June 2019, lists among its first measures the generalisation of the unique identifier and of the digitised medical record (dossier médical numérisé), and names a single computerised and integrated medical record among its expected changes; it sets global evaluations for 2024 and 2028 and states no cost for the record.", "title": "Projet de Politique Nationale de Santé", "publisher": "Ministère de la Santé (Tunisie), Dialogue sociétal", "published": "2019", "date_source": "proxy", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;tiers",
+ "fact": "The Sfax health region recently launched a project to digitise first-line services through an integrated information system for primary care centres.",
+ "title": "Numérisation des services de santé à Sfax : une étape clé vers une meilleure qualité des soins",
+ "publisher": "Tunisie Numérique",
+ "published": "2025-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

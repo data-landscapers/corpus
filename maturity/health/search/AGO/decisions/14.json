@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Angola afirma-se como referência africana na aplicação da inteligência artificial e da telemedicina para transformar a saúde", "publisher": "Ministério da Saúde da República de Angola", "published": "2026-07-15", "date_source": "source", "why_not": "Names DHIS2 as the national health data platform, telemedicine and the COESP; no patient record system and no facility tier, so nothing on an EMR aspect or on HMIS tiers."}
+{
+ "select": false,
+ "sub_indicator": "emr",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "headline-only-stub: fetch returned a bot-check page, no text"
+}

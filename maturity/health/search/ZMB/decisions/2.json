@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "hmis", "aspect": "governance", "fact": "The National Health Strategic Plan 2022-2026 (revised February 2023) names the Health Management Information System among the health information subsystems coordinated within the Ministry of Health, says it was strengthened during 2017 to 2021, and sets strategies to strengthen and integrate the HMIS, district HMIS and community HMIS; it also records the lack of HMIS standard operating procedures at all levels.", "title": "National Health Stratergic Plan for Zambia 2022 to 2026 revised February 2023", "publisher": "Ministry of Health, Republic of Zambia", "published": "2023-02", "date_source": "source", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "tiers;digitised",
+ "fact": "2,054 health facilities have been connected through SmartCare Pro with 12 million people registered, and the national coordinator says the country must reach a point where records are retrieved digitally at any hospital.",
+ "title": "Smart Zambia pushes to eliminate paper patient files to electronic health records",
+ "publisher": "Kalemba",
+ "published": "2026-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

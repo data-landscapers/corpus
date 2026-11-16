@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;tiers",
+ "fact": "WHO trained health personnel on reporting of aggregate and individual data at national, district and facility levels, and UNDP bought tablets and equipment, after DHIS2 was adopted and the tracker customised in 2020.",
+ "title": "Implementing the DHIS2 to accelerate Universal Health Coverage in Sao Tome and Principe",
+ "publisher": "World Health Organization",
+ "published": "2020",
+ "date_source": "proxy",
+ "why_not": ""
+}

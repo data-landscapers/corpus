@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised",
+ "fact": "The report states that a national health information exchange is not yet operational in Kenya and that KenyaEMR is implemented in over 300 facilities.",
+ "title": "Analysing and Enhancing Digital Health Standards in Kenya",
+ "publisher": "Kenya Health Informatics Association (KeHIA) / Transform Health Coalition",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

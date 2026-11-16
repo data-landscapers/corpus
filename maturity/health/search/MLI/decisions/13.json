@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised",
+ "fact": "The CINZ@N hospital information system at CHME Le Luxembourg recorded 36,772 consultations in 2022, with a unique patient number per facility, and the article states Mali has not adopted a unique health identifier.",
+ "title": "Faisabilité des études pharmacoépidémiologiques à partir des données cliniques et médico-administratives au Mali : un état des lieux.",
+ "publisher": "Revue Africaine de Santé Publique",
+ "published": "2024-11-18",
+ "date_source": "proxy",
+ "why_not": ""
+}

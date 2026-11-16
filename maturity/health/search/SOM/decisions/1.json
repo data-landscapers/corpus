@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "hmis", "aspect": "governance", "fact": "The Health Sector Strategic Plan 2022-2026 (HSSP III), dated 22 December 2021, sets an objective of an effective health information system and commits the Federal Ministry of Health to promote a single reporting system on the updated DHIS2; it records that the HIS Strategic Plan 2018-2022 was poorly implemented for lack of financing.", "title": "Somalia Health Sector Strategic Plan 2022–2026 (HSSP III)", "publisher": "Ministry of Health and Human Services, Federal Government of Somalia", "published": "2021-12-22", "date_source": "source", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "governance",
+ "fact": "As of the May 2026 project paper, the World Bank-financed project supported the rollout of DHIS2 to over 1,600 health facilities, from about 600 three years earlier.",
+ "title": "Project Paper on a Proposed Additional Grant ... Improving Healthcare Services in Somalia (Damal Caafimaad)",
+ "publisher": "International Development Association (World Bank)",
+ "published": "2026-05-11",
+ "date_source": "source",
+ "why_not": ""
+}

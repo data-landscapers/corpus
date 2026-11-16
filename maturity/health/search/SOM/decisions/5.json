@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Somalia Health Cluster Bulletin, September 2025", "publisher": "WHO Health Cluster", "published": "2025-10-20", "date_source": "source", "why_not": "Landing page that only links to the bulletin; the fetched text states no fact."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "governance;last12",
+ "fact": "The Ministry reports a 95% reporting rate from public health facilities into DHIS2, with 588 facilities reporting in Jan-Jun 2023 against 486 a year earlier.",
+ "title": "Semi-Annual Health Statistics Bulletin, January - June 2023",
+ "publisher": "Ministry of Health & Human Services, Federal Republic of Somalia",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

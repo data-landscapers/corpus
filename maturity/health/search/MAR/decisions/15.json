@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "governance;tiers",
+ "fact": "The integrated hospital information system was to be generalised to all hospitals in 2024, with the shared medical record to come into force.",
+ "title": "Une révolution dans le système de soins",
+ "publisher": "La Vie éco",
+ "published": "2023-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

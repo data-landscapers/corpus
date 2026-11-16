@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "ELECTRONIC HEALTH RECORD (EHR) piloting project", "publisher": "UNICEF", "published": "2024-12-11", "date_source": "source", "why_not": "Tender notice only; states no plan, and donor finance and partner procurement of EMR are already held."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;governance",
+ "fact": "The investment case states DHIS2 was rolled out via paper forms at facility level and electronic data entry from district or regional level upwards, in 379 facilities in four states.",
+ "title": "Investment Case for the Somali Health Sector 2022-2027",
+ "publisher": "Ministry of Health, Federal Government of Somalia (Global Financing Facility)",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

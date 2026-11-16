@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "La mise à l'échelle du Dossier Patient Informatisé dans la DPG du Premier Ministre M. Ousmane SONKO", "publisher": "CSSDOS, Ministère de la Santé et de l'Action sociale", "published": "", "date_source": "proxy", "why_not": "An undated extract of a policy declaration saying the record, already available, will be scaled up region by region; a plan statement on an aspect with no gap, and nothing on where the record is digitised."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "tiers;governance",
+ "fact": "From 2025 the PAENS project plans to extend the electronic patient record to six more regions, after pilots at two hospitals, one health post and one health centre.",
+ "title": "Le Sénégal valide le cadre politique de sa stratégie de santé digitale",
+ "publisher": "APS",
+ "published": "2025-04-28",
+ "date_source": "proxy",
+ "why_not": ""
+}

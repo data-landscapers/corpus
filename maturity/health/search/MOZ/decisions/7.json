@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Quality of routine data for monitoring nutrition and diarrhoea indicators of children under 5 in Mozambique: an ecological study over a 5-year period", "publisher": "BMJ Open", "published": "2023-07-01", "date_source": "source", "why_not": "Analyses district-level SIS-MA completeness for 2017-2021; the text does not say where data are keyed, which tiers enter them or how many clinics do (the data flow is a figure only)."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "governance;last12",
+ "fact": "MoH's Planning and Cooperation Directorate signed an MoU with C-Saude placing fifteen embedded specialists to design the SIS-RME electronic medical record, with rollout slated for 2025 and a unique patient identifier strategy.",
+ "title": "Ministry of Health and C-Saúde partner towards the development of an integrated Health Information System in Mozambique",
+ "publisher": "C-Saúde",
+ "published": "2025-07-29",
+ "date_source": "proxy",
+ "why_not": ""
+}

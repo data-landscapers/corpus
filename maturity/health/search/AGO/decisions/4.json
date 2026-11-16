@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Apoiar a melhoria do sistema de informação sanitária em Angola", "publisher": "OMS | Escritório Regional para a África", "published": "2023-10-19", "date_source": "source", "why_not": "States only the EU-financed laptops for GEPE and the PESIS revision, both already held (AGO-008, AGO-009); nothing on tiers."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;clinics",
+ "fact": "On the DHIS2 platform, data are first collected in paper format at health facilities, then aggregated and submitted to the central system at municipal or provincial level.",
+ "title": "The role of health information systems in transforming and enhancing the efficiency of Angola's health system: challenges and opportunities",
+ "publisher": "Serbian Journal of Medical Chamber",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

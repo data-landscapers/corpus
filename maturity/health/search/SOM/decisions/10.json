@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Improving Healthcare Services in Somalia Project (Damal Caafimaad): Project Information Document", "publisher": "World Bank", "published": "2026-04-27", "date_source": "proxy", "why_not": "The text mentions no HMIS, DHIS2, EMR or digital health system; no fact on a gap aspect."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "clinics;digitised",
+ "fact": "A study of Nov-Dec 2025 states roughly 70 public primary health facilities had implemented the RAAD-EMR system, out of a national network of 1,219 facilities, with paper and electronic systems persisting in parallel.",
+ "title": "Electronic medical record-generated data use for decision-making and associated factors among healthcare managers in Somali public health facilities",
+ "publisher": "Frontiers in Digital Health",
+ "published": "2026-06-19",
+ "date_source": "source",
+ "why_not": ""
+}

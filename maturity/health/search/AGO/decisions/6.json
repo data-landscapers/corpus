@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Estabelecida a interoperabilidade entre o SIS-Comunitário do HIV e o SIS-C Angola", "publisher": "Saudigitus", "published": "2023", "date_source": "proxy", "why_not": "A February 2023 link between two community systems (SIS-C HIV and the DHIS2-based national SIS-C); class community, and it names no facility tier using the HMIS nor an exchange with it."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "governance",
+ "fact": "MINSA, WHO and the EU began data collection for a National Health Information System Strategic Plan 2024-2030, the first of seven stages.",
+ "title": "Angola desenvolve Plano Estratégico do Sistema de Informação Sanitária",
+ "publisher": "OMS Escritório Regional para a África",
+ "published": "2024-03-05",
+ "date_source": "source",
+ "why_not": ""
+}

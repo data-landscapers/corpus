@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Documentation", "publisher": "Ministere de la Sante et de la Population — DTIC", "published": "", "date_source": "proxy", "why_not": "The page is behind an access code; the fetched text is the code prompt only."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "governance;tiers",
+ "fact": "On 4 November 2024 UNICEF Congo invited bids to train 52 data managers, one per health district, in data management with DHIS2 and Excel.",
+ "title": "Sélection d'un Cabinet international pour la formation de 52 gestionnaires de données des 52 districts sanitaires de la République du Congo sur la gestion des données à l'aide du DHIS2 et de Excel",
+ "publisher": "UNICEF Congo (UNGM)",
+ "published": "2024-11-04",
+ "date_source": "source",
+ "why_not": ""
+}

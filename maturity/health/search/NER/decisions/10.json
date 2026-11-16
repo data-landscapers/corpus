@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "emr", "aspect": "tiers;governance", "fact": "Enabel reports that a hospital information system with a computerised medical record was put in place in the district hospitals of Gaya and Gothèye after two field missions in February and April 2024, deployed by the Post-Factum consortium under the PASS Sutura programme, with extension of some modules to urban integrated health centres only to be explored at a mission planned for September 2024.", "title": "Le Niger avance vers la digitalisation des services de santé avec le projet PASS Sutura", "publisher": "Enabel", "published": "2024-10-02", "date_source": "proxy", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "governance",
+ "fact": "On 6 November 2025 a hospital management system providing digital management of patients and stocks was presented to the Minister of Health.",
+ "title": "Le Niger renforce l'accès aux soins grâce à la digitalisation du système de santé",
+ "publisher": "Ministère de la Communication et des Nouvelles Technologies de l'Information (MCNTI)",
+ "published": "2025-11-06",
+ "date_source": "source",
+ "why_not": ""
+}

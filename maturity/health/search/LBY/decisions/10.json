@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "emr", "aspect": "tiers;digitised", "fact": "The study, published on 24 December 2025, states that most public hospitals in Libya use traditional paper records and that Sabratha Teaching Hospital has introduced an electronic medical records system whose full use is held back; 87.5% of the 80 staff surveyed agreed that the hospital's IT infrastructure is inadequate for it and 87.5% that funding for it is insufficient.", "title": "معوقات استخدام السجلات الطبية الالكترونية في المستشفيات العامة (دراسة ميدانية على مستشفى صبراتة التعليمي)", "publisher": "مجلة العلوم الشاملة (Comprehensive Journal of Science)", "published": "2025-12-24", "date_source": "source", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "governance",
+ "fact": "The Ministry of Health announced the National Comprehensive Healthcare Program and launched the health number system, starting with a digital transformation model in Abu Salim municipality, aiming at an electronic health system.",
+ "title": "GNU launches National Comprehensive Healthcare Program and health number system",
+ "publisher": "The Libya Observer",
+ "published": "2024-01-08",
+ "date_source": "source",
+ "why_not": ""
+}

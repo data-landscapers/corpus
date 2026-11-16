@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Mapping out a digital health strategy in Kenya", "publisher": "PATH", "published": "", "date_source": "", "why_not": "Says a Kenya Digital Health Strategy was being drafted and costed after a May 2024 workshop; names neither KHIS nor aggregate reporting, and states no adopted plan."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "last12",
+ "fact": "Nationally the overall reporting quality score rose from 83.03 in 2019 to 90.02 in 2021 and fell to 87.54 per cent in 2023, with facility reporting completeness below 80 per cent in most years.",
+ "title": "Analysis of reproductive, maternal, newborn, child and adolescent health indicators: Kenya chartbook 2024",
+ "publisher": "Countdown to 2030",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Annuaire Statistiques sanitaires 2023", "publisher": "Système National d'Information Sanitaire", "published": "2024-10-31", "date_source": "source", "why_not": "Download page only: the fetched text is the file's size and upload date, not the yearbook itself."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "clinics;digitised",
+ "fact": "Each Centre de Santé Intégré is responsible for entering its health area's data into DHIS2, collected on paper registers and forms, and monthly data are entered on the national DHIS2 platform.",
+ "title": "Système d'information et statistiques du Ministère de la Santé Publique",
+ "publisher": "Plateforme Nationale d'Information pour la Nutrition (PNIN), INS Niger",
+ "published": "2019-03",
+ "date_source": "source",
+ "why_not": ""
+}

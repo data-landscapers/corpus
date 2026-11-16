@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Signature à Rabat d'une convention-cadre pour le déploiement du Dossier médical partagé et de la Feuille de soins électronique", "publisher": "Maroc24", "published": "2024-02-02", "date_source": "proxy", "why_not": "Reports the 2024 framework agreement already held (MAR-005) and intentions for a shared record on a unique identifier; no fact on where a record is in use or how it is paid for."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "governance;last12",
+ "fact": "The technical phase of the shared medical record and electronic care form projects was completed, with a gradual rollout scheduled for 2026.",
+ "title": "Head of Government chairs meeting on reform of Morocco's national health system",
+ "publisher": "Le7tv.ma",
+ "published": "2026-04-15",
+ "date_source": "proxy",
+ "why_not": ""
+}

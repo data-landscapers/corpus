@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "governance",
+ "fact": "WHO supported a 2025 HIS functionality assessment that found Liberia's health information system at an early maturity level, to inform a national HIS policy and strategy.",
+ "title": "WHO Liberia Annual Report 2025",
+ "publisher": "WHO Country Office Liberia",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "", "publisher": "", "published": "", "date_source": "source", "why_not": "An undated project page listing objectives and expected results for e-santé, with cost, status and supervision fields empty; no dated fact."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised;tiers",
+ "fact": "Enabel handed equipment to the Ministry of Health on 8 June 2021 to pilot a hospital information system and electronic patient record in about twenty facilities of the Abomey-Calavi-So Ava health zone.",
+ "title": "Enabel au Bénin participe à l'amélioration du système d'information sanitaire et la promotion de la recherche en santé",
+ "publisher": "Enabel",
+ "published": "2021-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

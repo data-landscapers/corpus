@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Supplementary File: OpenClinic Implementation in Malian Health facilities", "publisher": "Journal of Health Informatics in Africa", "published": "", "date_source": "proxy", "why_not": "Data to June 2016 on OpenClinic GA in hospitals and three CSRéf, used for administrative and financial modules; nothing on primary clinics and nothing in either gap window."}
+{
+ "select": false,
+ "sub_indicator": "hmis",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "off-topic: fetch returned a browser check page, no text"
+}

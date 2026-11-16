@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "governance",
+ "fact": "Framework law 06-22 (article 29) creates an integrated computer system called the shared medical record to follow each patient's care pathway.",
+ "title": "Article 29 - Loi-cadre relative au système national de santé",
+ "publisher": "Ma Loi (Loi-cadre 06-22)",
+ "published": "2022-12-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

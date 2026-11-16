@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "hmis", "aspect": "digitised;tiers", "fact": "The RASS 2020 states that ESPC, general hospitals and CHR each produce a monthly activity report from their primary registers and send it to the departmental health directorate, where the district's epidemiological surveillance officer (CSE) keys all the reports received from ESPC into the DHIS2 database, while the referral hospitals' data are keyed into DHIS2 by their own data managers; national completeness of entry was 100% and promptness 98.23% in 2020.", "title": "Rapport Annuel sur la Situation Sanitaire (RASS) 2020", "publisher": "Ministère de la Santé, de l'Hygiène Publique et de la Couverture Maladie Universelle, Direction de l'Informatique et de l'Information Sanitaire (DIIS)", "published": "2021-07", "date_source": "source", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "tiers;clinics",
+ "fact": "DISD reports the electronic medical record (DPI) active in 258 facilities across 13 health regions and the hospital information system in 390, with less than 5% of primary care facilities equipped as of March 2025 and no unique patient identifier yet.",
+ "title": "Intelligent Health Systems",
+ "publisher": "Direction de l'Informatique et de la Santé Digitale (DISD)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

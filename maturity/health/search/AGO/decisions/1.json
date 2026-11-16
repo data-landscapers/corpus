@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "governance",
+ "fact": "The Minister of Health told the WHO global AI conference that DHIS2 is implemented as Angola's main national health data management platform, integrating the different information systems.",
+ "title": "ANGOLA AFIRMA-SE COMO REFERÊNCIA AFRICANA NA APLICAÇÃO DA INTELIGÊNCIA ARTIFICIAL E DA TELEMEDICINA PARA TRANSFORMAR A SAÚDE",
+ "publisher": "Ministério da Saúde (MINSA)",
+ "published": "2026-07-16",
+ "date_source": "source",
+ "why_not": ""
+}

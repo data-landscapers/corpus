@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "emr",
+ "aspect": "",
+ "fact": "",
+ "title": "The EMR4All Journey",
+ "publisher": "OpenMRS",
+ "published": "2025-06-30",
+ "date_source": "source",
+ "why_not": "no-development: community blog; says only that EMR4All partnered with a local organisation for a DRC referral hospital, no dated fact or figure"
+}

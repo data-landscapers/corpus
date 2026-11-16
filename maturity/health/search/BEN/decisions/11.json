@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "", "publisher": "", "published": "", "date_source": "source", "why_not": "A 1.61bn FCFA project under ASIN for networks, fibre, telemedicine and hospital management software at three hospitals (January 2025); the text does not say the software holds the clinical record, so it is enabling, not EMR."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised;governance",
+ "fact": "ASIN, with the Ministry of Health, is procuring digital infrastructure and hospital management software for three public university hospitals, budget 1.61 billion FCFA.",
+ "title": "Transformation numérique des hôpitaux béninois : Un projet de 1,61 milliard FCFA pour moderniser trois grands centres et améliorer les soins",
+ "publisher": "Baatonu Infos",
+ "published": "2025-01",
+ "date_source": "proxy",
+ "why_not": ""
+}

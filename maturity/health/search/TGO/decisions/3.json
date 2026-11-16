@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Première revue trimestrielle des données de lutte contre le VIH/IST/HV, la Tuberculose et le paludisme au Bénin, au Burkina Faso, au Niger et au Togo dans le cadre de l'initiative BBNT: Rapport technique", "publisher": "OMS", "published": "2025", "date_source": "proxy", "why_not": "Four-country programme data review; says programmes extract data from DHIS2 but states no Togo fact on tiers, where data is keyed or clinics entering."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;clinics",
+ "fact": "DHIS2 was adopted as the national integrated SNIS platform and scaled to all health facilities from 2018; each facility enters its own monthly report in DHIS2 and sends a paper copy to the district.",
+ "title": "Manuel Opérationnel de Procédures du Système National d'Information Sanitaire, 2ème édition",
+ "publisher": "Ministère de la Santé, de l'Hygiène Publique et de l'Accès Universel aux Soins, DSNISI",
+ "published": "2022-04",
+ "date_source": "source",
+ "why_not": ""
+}

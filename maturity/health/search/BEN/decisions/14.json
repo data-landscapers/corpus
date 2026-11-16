@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised;governance",
+ "fact": "By March 2020 the vendor Kea Medicals had rolled out its hospital management and digital health ID solution to 24,000+ users and a number of hospitals in Benin.",
+ "title": "Benin's Digital Health ID",
+ "publisher": "GSMA",
+ "published": "2020-09",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Health Statistics Report 2024", "publisher": "Health Statistics Unit, Ministry of Health and Wellness", "published": "2025", "date_source": "proxy", "why_not": "Says the Health Statistics Unit compiles hospital data through the Health Records Division, but states nothing on any digital reporting system, where returns are keyed, or which facilities enter them."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;tiers",
+ "fact": "By early 2022 DHIS2 was implemented in the Mauritius HMIS for aggregate data for IDSR and EPI and tracker data for AEFI, COVID-19 vaccination, hepatitis, HIV and TB, with regional health facilities entering data and decentralisation to district and primary health care level still planned.",
+ "title": "Integrating DHIS2 data with VigiFlow for reporting AEFI cases in Mauritius",
+ "publisher": "DHIS2 (University of Oslo)",
+ "published": "2022-01-27",
+ "date_source": "source",
+ "why_not": ""
+}

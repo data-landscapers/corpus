@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;clinics",
+ "fact": "Child health data is collected on paper registers at facilities, consolidated at district level and entered into DHIS2 as aggregates; an electronic child registry is piloted in 25 facilities (2025 conference abstract).",
+ "title": "Transforming Child Health with DHIS2 in Mozambique",
+ "publisher": "DHIS2 Community",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

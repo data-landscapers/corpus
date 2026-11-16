@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "DATA SANTÉ Mali", "publisher": "ODESS", "published": "", "date_source": "proxy", "why_not": "An undated project page (project started 2015-05-01, page updated 2026-03-11) on a mother-and-child record in 27 CSCom run by the NGO Santé Sud; its statement that an individual patient file is rare at CSCom is undated and the page gives no fact dated inside the gap window."}
+{
+ "select": false,
+ "sub_indicator": "hmis",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: statistical yearbook; no dated fact on how clinics enter reports beyond completeness figures, year of publication not stated"
+}

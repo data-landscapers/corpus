@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Déploiement et Formation sur le Dossier Patient Informatisé dans les Structures de Santé de la Zone 3 du Projet DPI", "publisher": "Direction de l'Informatique et de la Santé Digitale (DISD)", "published": "2024-08", "date_source": "proxy", "why_not": "An announcement of a deployment planned for 4-25 August 2024 at CHR Katiola and the general hospitals of Ferkessédougou and Béoumi, stated as expected results; the outcome is in lead 13."}
+{
+ "select": false,
+ "sub_indicator": "hmis",
+ "aspect": "",
+ "fact": "",
+ "title": "Assessment of the Performance of Routine Health Information System Management in Côte d'Ivoire (2018)",
+ "publisher": "MEASURE Evaluation / DIIS",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": "off-topic: reports 2018 data-quality and timeliness scores, no statement on where reports are digitised."
+}

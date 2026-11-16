@@ -1,9 +1,11 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://data.gffportal.org/sites/default/files/2025-09/Zambia-COUNTDOWN.pdf,fetched,,scripts/.workroot/study/health/cache/ZMB/1.txt,2335,pdf,
-2,https://extranet.who.int/cpcd/sites/default/files/public_file_repository/ZMB_Zambia_National-Health-Strategic-Plan_2022-2026.pdf,fetched,,scripts/.workroot/study/health/cache/ZMB/2.txt,50250,pdf,National Health Stratergic Plan for Zambia 2022 to 2026 revised February 2023
-3,https://extranet.who.int/cpcd/global-repository/digital-health-strategy-2022-2026,fetched,,scripts/.workroot/study/health/cache/ZMB/3.txt,83,html,Digital Health Strategy 2022-2026
-4,https://www.gavi.org/sites/default/files/about/governance/audit/Programme-audit-report-Zambia-April-2024.pdf,fetched,,scripts/.workroot/study/health/cache/ZMB/4.txt,33046,pdf,
-5,https://www.ovid.com/journals/hpop/fulltext/10.1093/heapol/czad077~identifying-barriers-to-the-production-and-use-of-routine,fetched,,scripts/.workroot/study/health/cache/ZMB/5.txt,7367,html,Identifying barriers to the production and use of... : Health Policy & Planning
-6,https://cdn.who.int/media/docs/default-source/documents/ddi/score/country-profiles/who_score_zmb_en.pdf?sfvrsn=5ab687ae_10,fetched,,scripts/.workroot/study/health/cache/ZMB/6.txt,3527,pdf,
-7,https://www.zambiamonitor.com/govt-sets-aside-k23-2-billion-for-health-sector-in-2025-aims-to-recruit-2000-frontline-health-personnel/,fetched,,scripts/.workroot/study/health/cache/ZMB/7.txt,203,html,"Govt sets aside K23.2 billion for health sector in 2025, aims to recruit 2,000 frontline health personnel | Zambia Monitor"
-8,https://community.dhis2.org/t/sustainability-of-dhis2-utilization/64617,fetched,,scripts/.workroot/study/health/cache/ZMB/8.txt,339,html,Sustainability of dhis2 utilization
+1,https://itweb.africa/article/zambia-unveils-ai-health-records-for-the-masses/WnpNgM21BR47VrGd,fetched,,scripts/.workroot/study/health/cache/ZMB/1.txt,262,html,Zambia unveils AI health records for the masses
+2,https://kalemba.news/local/smart-zambia-pushes-to-eliminate-paper-patient-files-to-electronic-health-records/,fetched,,scripts/.workroot/study/health/cache/ZMB/2.txt,399,html,Smart Zambia pushes to eliminate paper patient files to electronic health records -
+3,https://www.theglobalfund.org/media/w4gdfjob/publication_zambia-digital-health_casestudy_en.pdf,held,held as raw/2025/2025-04-01-zambia-digital-health-case-study.md,,0,,
+4,https://www.szi.gov.zm/?p=3432,held,held as raw/2024/2024-08-15-zmb-szi-smartcare-pro-400-facilities.md,,0,,
+5,https://smartcarezambia.io/smartcare-library/smartcare-knowledge-base/standard-operating-procedures/tuso-service-desk-sop-v1-9/,fetched,,scripts/.workroot/study/health/cache/ZMB/5.txt,6332,html,Tuso Service Desk SOP v1.9 - Resource.SmartCare
+6,https://extranet.who.int/cpcd/sites/default/files/public_file_repository/zmb_zambia_digital-health-strategy_2022-2026.pdf,fetched,,scripts/.workroot/study/health/cache/ZMB/6.txt,10040,pdf,
+7,https://pmc.ncbi.nlm.nih.gov/articles/PMC10566315/,fetched,,scripts/.workroot/study/health/cache/ZMB/7.txt,18,html,Checking your browser
+8,https://dhis2.org/zambia-epi-data-use/,fetched,,scripts/.workroot/study/health/cache/ZMB/8.txt,1440,html,Improving Immunization Data Capture and Use in Zambia - DHIS2
+9,https://data.gffportal.org/sites/default/files/2025-09/Zambia-COUNTDOWN.pdf,held,held as raw/2025/2025-01-01-zmb-zambia-analysis-of-reproductive-maternal-newborn-child-and-adolescent.md,,0,,
+10,https://doi.org/10.21522/tijph.2013.12.04.art082,unfetchable,HTTP 404; no usable Wayback capture,,0,,

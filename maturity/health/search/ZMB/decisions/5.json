@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "hmis", "aspect": "governance;tiers;digitised", "fact": "From interviews held in May and June 2019, the study states that Zambia's HMIS is managed by the central Ministry of Health; each month health posts, health centres and hospitals aggregate their data onto paper reports and submit them to district health offices, where information officers enter them into DHIS2, and facility staff in Western Province travel to the district office to hand the reports in.", "title": "Identifying barriers to the production and use of routine health information in Western Province, Zambia", "publisher": "Health Policy and Planning", "published": "2023", "date_source": "proxy", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised;tiers",
+ "fact": "SmartCare operates in over 1,500 facilities, over 1,300 of them on eLast, a retrospective system supported by data entry clerks, with point-of-care records at about 200 high-volume sites by 2018 and SmartCare Pro first deployed in 2023.",
+ "title": "SmartCare Service Desk and Incident management, Standard Operating Procedure Version 1.9",
+ "publisher": "SmartCare (Resource.SmartCare)",
+ "published": "2024-07-09",
+ "date_source": "source",
+ "why_not": ""
+}

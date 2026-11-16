@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "hmis", "aspect": "governance", "fact": "Writing on Niger's 2024 meningitis vaccination campaigns, the article states that the DHIS2 system is hosted within the Directorate of Statistics at the Ministry of Health and quotes Niamey's regional public health director that it is routinely used by operational-level health workers as part of the national routine health management information system.", "title": "How DHIS2 – and a brand new vaccine – helped Niger beat a major meningitis outbreak", "publisher": "DHIS2", "published": "2025-02-06", "date_source": "proxy", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "governance",
+ "fact": "A 13 February 2023 workshop presenting DHIS2 maturity and ICT assessments recommended advocacy with telecom operators for internet connection and maintenance in all health facilities.",
+ "title": "Présentation des résultats des évaluations du système national d'information sanitaire (SNIS)",
+ "publisher": "Système National d'Information Sanitaire, Niger",
+ "published": "2023-02-13",
+ "date_source": "source",
+ "why_not": ""
+}

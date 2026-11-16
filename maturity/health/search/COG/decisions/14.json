@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;governance",
+ "fact": "The July-August 2024 community health maturity assessment found the community information system still paper-based, with digitisation begun through two mobile apps funded by UNICEF.",
+ "title": "Republic of the Congo 2024 – Community Health Maturity Assessment",
+ "publisher": "ICHESS",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

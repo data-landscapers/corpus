@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised",
+ "fact": "Mali has used DHIS2 as its national HMIS since 2016, with data on health services and supply collected at facility level, and an integrated eLMIS began in 2022.",
+ "title": "Mali implements an integrated eLMIS leveraging DHIS2 and MEDEXIS for real-time logistics management",
+ "publisher": "DHIS2",
+ "published": "2023-04-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

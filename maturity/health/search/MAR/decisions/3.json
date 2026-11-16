@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Santé Communautaire : Cartographie du Paysage Politique et de la mise en œuvre dans la Région du Moyen-Orient et de L'Afrique du Nord 2024 — Maroc Fiche du Pays", "publisher": "UNICEF MENARO", "published": "2024-09", "date_source": "source", "why_not": "Community health brief: its DHIS2 holds only HIV/STI programme data (tracker) and it says only that the ministry is setting up a hospital and ambulatory system; no dated fact on a gap aspect of the HMIS or EMR."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;clinics",
+ "fact": "The national digitized HMIS (SMIPF-SC) was already operational in every public health centre in all regions by the December 2019 restructuring, giving facility-level service utilisation data aggregated at provincial, regional and central levels.",
+ "title": "Improving Primary Health in Rural Areas and Responding to COVID-19 Pandemic Emergency: Implementation Completion and Results Report",
+ "publisher": "World Bank",
+ "published": "2022-06-29",
+ "date_source": "source",
+ "why_not": ""
+}

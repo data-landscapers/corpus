@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "hmis", "aspect": "clinics", "fact": "The Ministry of Health's Data Quality Improvement Plan reports that its 2020 HIS assessment, which covered 243 health facilities, found 70.4% of health facilities lacking a computer, tablet or internet, and sets a target of raising the proportion of health facilities with internet connectivity and a computer from 28.6% to 75%; it does not say how many facilities enter their own HMIS reports.", "title": "Data Quality Improvement Plan (DQIP) June 2022–2027", "publisher": "Liberia Ministry of Health", "published": "2022-06", "date_source": "source", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "last12",
+ "fact": "Countdown's 2025 synthesis says DHIS2 reporting completeness across 2020-2024 was excellent except in 2024, when it failed to meet target.",
+ "title": "Analysis of Reproductive, Maternal, Newborn, Child and Adolescent Health Indicators for 2019-2024: Synthesis Report",
+ "publisher": "Countdown to 2030 Liberia team",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

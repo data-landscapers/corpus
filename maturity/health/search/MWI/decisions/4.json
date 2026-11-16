@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Health Sector Strategic Plan III 2023-2030", "publisher": "Government of the Republic of Malawi", "published": "2023", "date_source": "proxy", "why_not": "A plan: it states what the HMIS will be at each level, not which tiers use it or where reports are keyed; its one dated fact (mobile DHIS2 in 15 districts, over 2,000 tablets, under HSSP II) predates the gap window and is stated by leads 1 and 2; no HMIS finance figure."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised",
+ "fact": "The May 2020 strategy states anecdotal evidence that more than 90% of service delivery and data management is paper based, with DHIS2 reports often filled out on paper forms and re-submitted.",
+ "title": "National Digital Health Strategy 2020-2025",
+ "publisher": "Ministry of Health and Population",
+ "published": "2020-05",
+ "date_source": "source",
+ "why_not": ""
+}

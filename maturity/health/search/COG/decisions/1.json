@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "hmis", "aspect": "last12", "fact": "WHO's annual report for 2025 states that its support that year strengthened Congo's health information system with 401 data collectors equipped for the electronic transmission of data and a national list of health indicators drawn up, and cites DHIS2 data for 2025 showing influenza as the second cause of consultation; it gives no reporting completeness or timeliness and does not say at which tier the collectors work.", "title": "Rapport annuel 2025 - OMS au Congo", "publisher": "Organisation mondiale de la Santé, Bureau pays du Congo", "published": "2026-04", "date_source": "proxy", "why_not": ""}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised;clinics",
+ "fact": "The 2021-2023 yearbook (July 2025) says the national health information system still struggles to capture all data, DHIS2 is used at district level, with the recommendation to set up DHIS2 at the level of health facilities, so primary clinics do not enter their own reports.",
+ "title": "Annuaire statistique sanitaire 2021-2023",
+ "publisher": "Ministère de la Santé et de la Population",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

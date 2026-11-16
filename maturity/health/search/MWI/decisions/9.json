@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "digitised",
+ "fact": "The May 2020 strategy states the EMR is implemented in approximately 15% of public health facilities, with unique patient identifiers assigned to over 5 million patients at more than 130 sites, and no solution covers all services in a facility.",
+ "title": "National Digital Health Strategy 2020-2025",
+ "publisher": "Ministry of Health and Population",
+ "published": "2020-05",
+ "date_source": "source",
+ "why_not": ""
+}

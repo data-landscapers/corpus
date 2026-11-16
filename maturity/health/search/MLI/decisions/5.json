@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Santé numérique : Un plan ambitieux", "publisher": "maliweb.net", "published": "", "date_source": "proxy", "why_not": "A general account of the PSNSN 2024-2028, which is already held; states no count of clinics and no dated event on a patient record system, and the fetched text carries no date."}
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "digitised",
+ "fact": "In 2020 data from Bamako community health centres showed late transmission of monthly activity reports and poor agreement between registers, monthly reports and DHIS2.",
+ "title": "Community Health Center Information Systems Assessment in Bamako (Mali)",
+ "publisher": "Health Sciences and Disease",
+ "published": "2023-03-30",
+ "date_source": "proxy",
+ "why_not": ""
+}

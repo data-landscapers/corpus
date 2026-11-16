@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "National Deployment and Vaccination Plan for COVID-19 Vaccines in the Republic of Mauritius", "publisher": "Ministry of Health and Wellness, Republic of Mauritius", "published": "2021", "date_source": "proxy", "why_not": "Describes DHIS2 for COVID-19 vaccination data only, a single-programme tracker; it mentions an existing Mauritius HMIS in passing and states no fact on routine aggregate reporting."}
+{
+ "select": false,
+ "sub_indicator": "emr",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: programme overview with no dated fact on facilities or clinics using the system, and no publication date in the text"
+}

@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Conception et implémentation du système d’information hospitalier integre hopital OS", "publisher": "Journal de la Recherche Scientifique de l'Université de Lomé (AJOL)", "published": "", "date_source": "proxy", "why_not": "Abstract page only, on the design of HopitalOS at one prefectoral hospital and one private clinic in 2018: it describes modules and patient identification but not where the record is entered, so the one EMR gap (digitised) is unanswered; the page carries no publication date."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "governance;digitised",
+ "fact": "The World Bank additional financing (24 December 2025) funds a pilot of electronic health records, run by the DSNISI, across a sample of primary, secondary and tertiary facilities among about 335 contracted facilities.",
+ "title": "Project Paper on a Proposed Additional Credit to the Republic of Togo, Togo Essential Quality Health Services for Universal Health Coverage Project",
+ "publisher": "World Bank",
+ "published": "2025-12-24",
+ "date_source": "source",
+ "why_not": ""
+}

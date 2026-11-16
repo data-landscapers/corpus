@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "hmis", "aspect": "", "fact": "", "title": "Health Sector Strategic Plan V July 2024–June 2029", "publisher": "Republic of Rwanda, Ministry of Health", "published": "2024", "date_source": "source", "why_not": "Names HMIS only as the data source of its indicators; its digitalisation priority (P5.P6) lists eight systems without the HMIS or DHIS2, and the costing is by pillar, so no finance or plan fact on the HMIS is stated."}
+{
+ "select": false,
+ "sub_indicator": "hmis",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "off-topic: fetch returned a bot challenge page, no text"
+}

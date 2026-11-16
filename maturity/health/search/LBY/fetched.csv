@@ -1,11 +1,14 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://applications.emro.who.int/docs/9789292741716-eng.pdf,fetched,,scripts/.workroot/study/health/cache/LBY/1.txt,14020,pdf,
-2,https://enlargement.ec.europa.eu/document/download/6c071541-333e-406a-8aa1-2fdb92924650_en,fetched,,scripts/.workroot/study/health/cache/LBY/2.txt,9854,pdf,Draft Action Document Template and Instructions
-3,https://www.unicef.org/media/104556/file/Libya%20Humanitarian%20SitRep%20No.2%20Mid-Year%2030%20June%202021.pdf,fetched,,scripts/.workroot/study/health/cache/LBY/3.txt,4144,pdf,
-4,https://seha.ly/media/legislation/2021LpP7vhL.pdf,fetched,,scripts/.workroot/study/health/cache/LBY/4.txt,23194,pdf,المقـــدمـــة :
-5,https://applications.emro.who.int/docs/9789292745325-eng.pdf,fetched,,scripts/.workroot/study/health/cache/LBY/5.txt,7577,pdf,
-6,https://www.gia.gov.ly/en/2025/04/17/the-national-center-for-health-system-development-discusses-with-the-general-information-authority-the-evaluation-of-the-health-number-system-in-preparation-for-its-launch/,fetched,,scripts/.workroot/study/health/cache/LBY/6.txt,199,html,The National Center for Health System Development discusses with the General Information Authority the evaluation of the health number system in preparation for its launch - GIA
-7,https://libyaherald.com/2024/01/national-comprehensive-health-care-programme-and-health-number-system-launched/,fetched,,scripts/.workroot/study/health/cache/LBY/7.txt,427,html,Libya Launches National Comprehensive Health Care Programme and Health Number System
-8,https://libyaherald.com/2022/05/trail-run-of-the-unified-electronic-health-file-system-inaugurated/,fetched,,scripts/.workroot/study/health/cache/LBY/8.txt,326,html,Libya Launches Trial of Unified Electronic Health File System
+1,https://applications.emro.who.int/docs/9789292741716-eng.pdf,held,held as raw/2025/2025-01-01-lby-libya-annual-report-2024.md,,0,,
+2,https://applications.emro.who.int/docs/9789292742584-eng.pdf,fetched,,scripts/.workroot/study/health/cache/LBY/2.txt,16406,pdf,
+3,https://cdn.who.int/media/docs/default-source/documents/ddi/score/country-profiles/who_score_lby_en.pdf,fetched,,scripts/.workroot/study/health/cache/LBY/3.txt,2897,pdf,
+4,https://www.unicef.org/mena/media/27116/file/Country_Brief_Libya_(ENG).pdf,fetched,,scripts/.workroot/study/health/cache/LBY/4.txt,2226,pdf,
+5,https://moh.gov.ly/pages/centers-offices/health-info-center,held,held as raw/2022/2022-01-01-moh-libya-markaz-almalumat-waltawthiq-alsihi.md,,0,,
+6,https://www.emro.who.int/lby/libya-news/training-workshop-on-the-introduction-of-dhis2-to-develop-monitoring-and-evaluation-system-in-6-primary-health-care-centres-in-libya.html,fetched,,scripts/.workroot/study/health/cache/LBY/6.txt,538,html,Training workshop on the introduction of DHIS2 to develop monitoring and evaluation system in 6 primary health care centres in Libya
+7,https://pmc.ncbi.nlm.nih.gov/articles/PMC11167861/,held,held as raw/2024/2024-06-11-rapid-mixed-methods-assessment-libya-primary-care-system.md,,0,,
+8,https://libyaherald.com/2022/05/trail-run-of-the-unified-electronic-health-file-system-inaugurated,held,held as raw/2022/2022-05-01-lby-trial-run-of-the-unified-electronic-health-file-system-inaugurated.md,,0,,
 9,https://lana.gov.ly/post.php?id=294285&lang=ar,fetched,,scripts/.workroot/study/health/cache/LBY/9.txt,142,html,وزير الصحة المكلف يصدر القرار رقم ( 1740 ) بشأن اعتماد الرقم الصحي
-10,https://cjos.histr.edu.ly/index.php/journal/article/download/1132/922,fetched,"second pass, by second client",scripts/.workroot/study/health/cache/LBY/10.txt,5288,pdf,
+10,https://libyaobserver.ly/health/gnu-launches-national-comprehensive-healthcare-program-and-health-number-system,fetched,,scripts/.workroot/study/health/cache/LBY/10.txt,250,html,GNU launches National Comprehensive Healthcare Program and health number system
+11,https://www.gia.gov.ly/en/2025/04/17/the-national-center-for-health-system-development-discusses-with-the-general-information-authority-the-evaluation-of-the-health-number-system-in-preparation-for-its-launch/,fetched,,scripts/.workroot/study/health/cache/LBY/11.txt,199,html,The National Center for Health System Development discusses with the General Information Authority the evaluation of the health number system in preparation for its launch - GIA
+12,https://alwasat.ly/news/libya/390875,fetched,,scripts/.workroot/study/health/cache/LBY/12.txt,201,html,«الصحة»: إطلاق الاستراتيجية الوطنية للرعاية الصحية الأولية في مارس
+13,https://www.ijcmph.com/index.php/ijcmph/article/view/10520,fetched,,scripts/.workroot/study/health/cache/LBY/13.txt,519,html,"Assessment of medical records management practice at Al-Wahda Hospital in Derna city, Libya"

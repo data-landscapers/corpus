@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "emr", "aspect": "", "fact": "", "title": "Le PAENS lance l'accélération numérique à Kaffrine", "publisher": "Projet d'Accélération de l'Économie Numérique au Sénégal (PAENS)", "published": "2025-07-03", "date_source": "source", "why_not": "States only that the DPI is in service at the Kaffrine regional hospital with more than 20,000 records; nothing on where or how the record is digitised, the one EMR aspect with a gap."}
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "tiers;governance",
+ "fact": "The ministry's delivery unit targets 2,000 public health facilities equipped with electronic patient records by 2029, against 2 in 2024.",
+ "title": "DU-MSAS : tout savoir sur ce moteur de changement du système de santé sénégalais",
+ "publisher": "Ministère de la Santé et de l'Action sociale",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

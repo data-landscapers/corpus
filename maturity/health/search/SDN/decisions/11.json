@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "emr",
+ "aspect": "governance",
+ "fact": "The National Health Insurance Fund, the Ministry of Health and WHO met to draw up a digital transformation strategy for the health sector, with electronic health records named a priority, and agreed joint technical teams to prepare it.",
+ "title": "إجتماع مشترك لوضع استراتيجية متكاملة لخطة التحول الرقمي في القطاع الصحي",
+ "publisher": "الصندوق القومي للتأمين الصحي",
+ "published": "2026-05-19",
+ "date_source": "proxy",
+ "why_not": ""
+}

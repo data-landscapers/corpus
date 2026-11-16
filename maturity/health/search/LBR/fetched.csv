@@ -1,5 +1,16 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://publications.jsi.com/JSIInternet/Inc/Common/_download_pub.cfm?id=25312&lid=3,fetched,,scripts/.workroot/study/health/cache/LBR/1.txt,19335,pdf,DQIPReportLiberia2022
-2,https://files.givewell.org/files/DWDA%202009/Evidence_Action/Facility_Survey_Report_Liberia_Maternal%20Syphilis_2022.pdf,fetched,,scripts/.workroot/study/health/cache/LBR/2.txt,23286,pdf,
-3,https://www.countdown2030.org/wp-content/uploads/2022/10/Liberia-draft-report.pdf,fetched,,scripts/.workroot/study/health/cache/LBR/3.txt,3385,pdf,Microsoft Word - Liberia draft report.docx
-4,https://www.afro.who.int/sites/default/files/2022-04/Final_2021_WHO%20Liberia%20Country%20Office%20Annual%20Report%202021%20WEB.pdf,fetched,,scripts/.workroot/study/health/cache/LBR/4.txt,18416,pdf,
+1,https://www.countdown2030.org/wp-content/uploads/2025/09/Liberia-Synthesis-Report.pdf,fetched,,scripts/.workroot/study/health/cache/LBR/1.txt,1685,pdf,
+2,https://thenewsnewspaperonline.com/liberia-africa-cdc-meet-on-health-info-exchange/,held,held as raw/2025/2025-09-04-lbr-thenews-africa-cdc-hie-maturity-assessment.md,,0,,
+3,http://moh.gov.lr/wp-content/uploads/Moh-Achievements-January-2024-to-August-2025-Summary.pdf,held,held as raw/2025/2025-08-01-lbr-moh-achievements-2024-2025-his-dhis2.md,,0,,
+4,https://www.countdown2030.org/wp-content/uploads/2024/07/Liberia-Chartbook-2024.pdf,fetched,,scripts/.workroot/study/health/cache/LBR/4.txt,3631,pdf,CHARTBOOK LIBERIA 2024
+5,https://dhis2.org/liberia-hiv-tracker/,held,held as raw/2023/2023-08-29-dhis2-liberia-hiv-tracker.md,,0,,
+6,https://www.countdown2030.org/wp-content/uploads/2022/10/Liberia-draft-report.pdf,held,held as raw/2022/2022-06-01-lbr-liberia-national-and-county-coverage-on-reproductive-maternal-newborn.md,,0,,
+7,https://publications.jsi.org/JSIInternet/Inc/Common/_download_pub.cfm?id=24571&lid=3,fetched,,scripts/.workroot/study/health/cache/LBR/7.txt,937,pdf,"Due to the COVID-19 pandemic, RRHO pivots to a virtual DHIS2 training for NACP Liberia to better leverage data to strengthen HIV programs"
+8,https://www.afro.who.int/sites/default/files/2026-05/WHO%20%20Liberia%20Annual%20Report%202025._0.pdf,fetched,,scripts/.workroot/study/health/cache/LBR/8.txt,8726,pdf,WHO  Liberia Annual Report) 2025 pdf
+9,https://healthpolicy-watch.news/wp-content/uploads/2025/12/US-Liberia-MOU-2025.pdf,held,held as raw/2025/2025-12-09-afghs-mou-liberia.md,,0,,
+10,https://liberia.unfpa.org/en/vacancies/request-quotation-electronic-medical-system-implementation,fetched,,scripts/.workroot/study/health/cache/LBR/10.txt,1469,html,"REQUEST FOR QUOTATION, ELECTRONIC MEDICAL SYSTEM IMPLEMENTATION"
+11,https://doi.org/10.1186/s12913-026-16001-z,fetched,,scripts/.workroot/study/health/cache/LBR/11.txt,46,html,Client Challenge
+12,https://cquin.icap.columbia.edu/wp-content/uploads/2025/11/Mulbah_3a_FINAL.pdf,fetched,,scripts/.workroot/study/health/cache/LBR/12.txt,3248,pdf,PowerPoint Presentation
+13,https://www.pih.org/article/pih-rolls-out-electronic-medical-records-jj-dossen-hospital-liberia,held,held as raw/2020/2020-09-18-pih-emr-jj-dossen-hospital.md,,0,,
+14,https://www.liberianobserver.com/news/onehealthehr-goes-live-in-liberia-ghana/article_778165ac-8dad-4c41-bf63-9413eb2c46a7.html,held,held as raw/2026/2026-09-28-lbr-gha-onehealthehr-goes-live.md,,0,,
+15,https://www.thenewdawnliberia.com/health-officials-brainstorm-on-emr/,fetched,,scripts/.workroot/study/health/cache/LBR/15.txt,225,html,"Health officials brainstorm on EMR - Liberia news The New Dawn Liberia, premier resource for latest news"
