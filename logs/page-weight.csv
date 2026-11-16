@@ -6696,11 +6696,11 @@ date,page,rows,bytes_gz,elements
 2026-11-16,countries/UGA/all-finance.html,679,59638,2448
 2026-11-16,countries/UGA/budgets.html,438,71376,2696
 2026-11-16,countries/UGA/finance.html,241,59572,2671
-2026-11-16,countries/XAF/finance.html,597,166513,2680
+2026-11-16,countries/XAF/finance.html,599,166804,2680
 2026-11-16,countries/XCA/finance.html,3,2024,304
 2026-11-16,countries/XEA/finance.html,64,17818,1823
 2026-11-16,countries/XGL/finance.html,35,6899,1050
-2026-11-16,countries/XNA/finance.html,17,7390,650
+2026-11-16,countries/XNA/finance.html,15,7187,602
 2026-11-16,countries/XSA/finance.html,15,4556,601
 2026-11-16,countries/XSS/finance.html,551,170986,2682
 2026-11-16,countries/XWA/finance.html,52,18430,1531
@@ -6713,8 +6713,8 @@ date,page,rows,bytes_gz,elements
 2026-11-16,countries/ZWE/all-finance.html,175,15533,2420
 2026-11-16,countries/ZWE/budgets.html,92,21059,2457
 2026-11-16,countries/ZWE/finance.html,83,16204,2262
-2026-11-16,datasets/data-centres/index.html,649,503974,2915
+2026-11-16,datasets/data-centres/index.html,649,504345,2915
 2026-11-16,datasets/institution-hosting/index.html,1830,58327,2641
-2026-11-16,finance/all/index.html,13563,1189381,2709
+2026-11-16,finance/all/index.html,13563,1189382,2709
 2026-11-16,finance/budgets/index.html,12390,1243471,2732
-2026-11-16,finance/index.html,5805,1477620,2927
+2026-11-16,finance/index.html,5805,1477579,2927
