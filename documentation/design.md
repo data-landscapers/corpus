@@ -121,7 +121,7 @@ The launch preconditions are discharged: OSINT's repo weight (the PDF history pu
 
 **The pre-worker archive was cleared by hand on 2026-09-08** (`scripts/drop-pre-worker-editions.py`, 1,237 superseded editions) on Bill's call that the site was not yet live and no citation rested on them; editions still *current* were kept. **The forward-only clause stays in the rule**: *delete unless somebody took it* cannot be applied to a period with no record.
 
-**No undated download URL exists at all** (the catalogue is the named exception, below). An undated URL invites a citation that changes underneath the person who made it. Browse the HTML at a stable address; every download hands back a dated file. This makes catalogue slugs permanent identifiers upstream — a standing constraint on OSINT, recorded in the exchange's `notes-for-osint.md`.
+**No undated download URL exists at all** (the catalogue is the named exception, below). An undated URL invites a citation that changes underneath the person who made it. Browse the HTML at a stable address; every download hands back a dated file. This makes catalogue slugs permanent identifiers upstream — a standing constraint on OSINT, recorded in the exchange's `osint-notes.md`.
 
 ### Currency — every edition says that it is one
 

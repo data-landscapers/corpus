@@ -34,13 +34,13 @@ What it resolves, and how:
 
 - **`job-NN`, `job-NN-MM`** — every number in the name is looked up in the housekeeping
   registers. Spent when all of them are struck to the resolved file and none is still open.
-- **`note-NNN`** — a handover Corpus asked for in a `notes-for-osint` note rather than a job,
+- **`note-NNN`** — a handover Corpus asked for in a `osint-notes` note rather than a job,
   because only OSINT issues job numbers. Spent when the note has moved to the resolved file.
 - **`status-acquire-{ISO3}-drops-absorbed-*.csv`** — spent by its own name: `status-acquire.md`
   defines that rename as what OSINT does when the close absorbs the list. A `…-drops.csv`
   that has *not* been renamed is live and is left alone.
 - **Anything else** — read `Closed by:` from its `BRIEF.md` (its own, or a sibling for a bare
-  file) and resolve `job NN` against the housekeeping registers, `notes-for-osint NNN`
+  file) and resolve `job NN` against the housekeeping registers, `osint-notes NNN`
   against the notes files or `RNN` against the review register. **An item that names no
   closer is reported, not failed**: this cannot tell a
   handover nobody has got to from one whose closer was never written down, and guessing in
@@ -60,8 +60,8 @@ import sys
 SHARE = os.environ.get("CORPUS_OSINT_XFER", r"C:\corpus-osint-xfer")
 
 HOUSEKEEPING = "osint-housekeeping.md"          # OSINT's register
-NOTES = "notes-for-osint.md"
-NOTES_RESOLVED = "notes-for-osint-resolved.md"
+NOTES = "osint-notes.md"
+NOTES_RESOLVED = "osint-notes-resolved.md"
 RESOLVED = "osint-housekeeping-resolved.md"
 # The review registers, read together: numbering continues across reviews, so an R-line names one line
 # in whichever file holds it. They moved into `strategic-reviews/` on 2026-09-25 (share `cbeb6c5`), and
@@ -75,7 +75,7 @@ DROPS_LIVE = re.compile(r"^status-acquire-[A-Z]{3}-drops\.csv$")
 CLOSED_BY = re.compile(r"^\s*(?:\*\*)?Closed by:(?:\*\*)?\s*(.+?)\s*$", re.M | re.I)
 REF_JOB = re.compile(r"\bjob\s*#?\s*(\d+)\b", re.I)
 REF_R = re.compile(r"\bR(\d+[a-zA-Z]?)\b")
-REF_NOTE = re.compile(r"\bnotes?-for-osint\s*#?\s*(\d+)\b", re.I)
+REF_NOTE = re.compile(r"\b(?:notes?-for-osint|osint-notes?)\s*#?\s*(\d+)\b", re.I)  # old name in old briefs
 
 
 def _read(path: str) -> str:
@@ -100,7 +100,7 @@ def job_state(num: str, open_src: str, resolved_src: str) -> str:
 
 
 def note_state(num: str, open_src: str, resolved_src: str) -> str:
-    """`closed`, `open` or `unknown` for one notes-for-osint number.
+    """`closed`, `open` or `unknown` for one osint-notes number.
 
     Notes head their text `**164** [ACT] (date)` or, in older ones, `### 164.`. Closing moves
     the whole note to the resolved file and leaves nothing at the number, so presence in the
@@ -192,7 +192,7 @@ def verdict(name: str, path: str, share: str, src: dict) -> tuple[str, str]:
     if m:
         s = note_state(m.group(1), src["notes"], src["notes_resolved"])
         return ({"closed": "spent", "open": "live"}.get(s, "unresolved"),
-                f"notes-for-osint {m.group(1)} is {s}")
+                f"osint-notes {m.group(1)} is {s}")
 
     closer = closer_of(path, share)
     if not closer:
@@ -210,7 +210,7 @@ def verdict(name: str, path: str, share: str, src: dict) -> tuple[str, str]:
     if nm:
         s = note_state(nm.group(1), src["notes"], src["notes_resolved"])
         return ({"closed": "spent", "open": "live"}.get(s, "unresolved"),
-                f"brief says closed by notes-for-osint {nm.group(1)}, which is {s}")
+                f"brief says closed by osint-notes {nm.group(1)}, which is {s}")
     jm, rm = REF_JOB.search(closer), REF_R.search(closer)
     if jm:
         s = job_state(jm.group(1), src["open"], src["resolved"])

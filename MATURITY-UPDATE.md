@@ -91,7 +91,7 @@ python scripts/study-update.py next           # any other cycle
 3. **Age does not expire a stage, and it can lower one** *(Bill)*. A cell is not moved because a window has closed. But where the only evidence for a rung is old enough that it no longer shows the country is there now, the reassessment may lower the stage, as a judgement, and says so in the note. The short summary of any cell resting on a fact older than three years prints its year.
 4. **Restage what fails** under the stager brief, and **log every cell reassessed, moved or not**, with `--kind review`. A cell read and left alone is not logged; the indicator's `done` covers it.
 5. **Rewrite what the restaging made untrue**: the short summary, and the country's paragraphs. Each cell reassessed is brought to the sheet whole, as stage 4c step 4.
-6. **A rung read two ways is not rewritten here.** That is a change to the ladder and Bill's: write it as a block in `messages-for-bill.md` with the two readings and the countries each would move, and stage on the wording meanwhile. Any restage applying his answer to a message is logged `--kind ruling`.
+6. **A rung read two ways is not rewritten here.** That is a change to the ladder and Bill's: write it as a block in `bill-notes.md` with the two readings and the countries each would move, and stage on the wording meanwhile. Any restage applying his answer to a message is logged `--kind ruling`.
 7. **Fold and check**: step 9 of stage 4c.
 
 ### Search
@@ -99,7 +99,7 @@ python scripts/study-update.py next           # any other cycle
 *(Bill, 2026-10-11.)* **What is found reaches Corpus only through ingest**: OSINT pulls it in its next sweep cycle and stage 4c reads it the night after.
 
 8. **Search every country on every question of the ladder, whatever is held** *(Bill, 2026-10-19)*, under the method's §5: one Sonnet searcher a country to `searcher-brief.md`, the brief naming tonight's sub-indicator, then `scripts/study-stage.py` to fetch and stage. If `maturity/{id}/search/` holds an earlier round, `git mv` it to `maturity/{id}/search-{that round's searched date}/` first, or `stage` hands the old selections over again. **A searcher is never waited on**: one out 20 minutes past its wave is stopped and staged as it stands.
-9. **Deliver without a note**: `python scripts/lint-staged-queue.py {folder}` passes, then `python scripts/study-stage.py {id} ready --rebuild --lint "<its line>"`. `notes-for-osint` 237 is the standing announcement; OSINT's cycle pulls the folder on `READY`. Delete any `prepared\maturity-study-*` folder `lint-prepared.py` calls spent, and commit and push the share. Nothing selected stages nothing.
+9. **Deliver without a note**: `python scripts/lint-staged-queue.py {folder}` passes, then `python scripts/study-stage.py {id} ready --rebuild --lint "<its line>"`. `osint-notes` 237 is the standing announcement; OSINT's cycle pulls the folder on `READY`. Delete any `prepared\maturity-study-*` folder `lint-prepared.py` calls spent, and commit and push the share. Nothing selected stages nothing.
 
 ### Close
 

@@ -12,7 +12,7 @@ wiki/ into an index of its own, and writes only into Corpus's own outputs/. **It
 writes to OSINT.**
 
 **What those junctions resolve to is the mirror, not OSINT's working tree** *(corrected
-2026-08-22, `notes-for-corpus.md` note 5)*. Since 2026-08-20 OSINT works on its own
+2026-08-22, `corpus-notes.md` note 5)*. Since 2026-08-20 OSINT works on its own
 machine's `C:\\OSINT` and syncs to `O:\\` = `\\\\bill-vivobook\\osint` as the last act of
 `SWEEP-CYCLE`; this is bill-vivobook, so that share resolves back to *this* machine's
 `C:\\OSINT`, which is therefore the mirror's landing point and the only OSINT path Corpus

@@ -47,7 +47,7 @@ which the `<noscript>` block answers with the CSV link.
 
 Country and region names are duplicated from OSINT's `lookups/countries.csv`
 because the build cannot read outside `outputs/` — the same duplication
-`scripts/home.py` already carries, and osint-corpus-exchange/notes-for-osint.md #9 flags it as a
+`scripts/home.py` already carries, and osint-corpus-exchange/osint-notes.md #9 flags it as a
 standing note rather than a pattern to repeat deliberately.
 
 **The budget section is the non-state section again** *(Bill, 2026-10-01)*: a topic-by-year
@@ -131,7 +131,7 @@ def budget_tags(rows: list[dict]) -> dict:
     return {k[1]: v for k, v in _TAGGER.tags(rows, []).items()}
 
 # ISO3 -> full country name, from lookups/countries.csv (see module docstring
-# and osint-corpus-exchange/notes-for-osint.md #9). Two entries carry proper accents the source CSV
+# and osint-corpus-exchange/osint-notes.md #9). Two entries carry proper accents the source CSV
 # doesn't (Côte d'Ivoire, São Tomé and Príncipe) — a typographic fix, not a
 # different name.
 FULL_NAMES = {

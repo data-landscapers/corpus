@@ -47,7 +47,7 @@ last_reviewed: 2026-10-03
 
    **A failing check is work, and BUILD does it in the same pass.** G, I, J and M are mechanical, each with one repair; L is authoring work — write the sentence or remove the section (*Narrative integrity*). Where a check cannot be cleared the fallback is a finished outcome: an unsourceable position is ***Not held*** with a `gaps.csv` line, and a link resolving to nothing is struck along with the claim standing on it.
 
-   **Residue is outcomes converted, never work deferred**, and **there is no "note it and move along"**: a finding that needs more than a run goes in `C:\corpus-osint-xfer\messages-for-bill.md`. **A finding is not scoped out because the run did not create it** — the check runs over the unit, not over the diff.
+   **Residue is outcomes converted, never work deferred**, and **there is no "note it and move along"**: a finding that needs more than a run goes in `C:\corpus-osint-xfer\bill-notes.md`. **A finding is not scoped out because the run did not create it** — the check runs over the unit, not over the diff.
 
    **The register check reports and BUILD rules.** A hit inside quoted source text stands; a hit in BUILD's own prose is rewritten. Message Bill only if clearing a hit would drop a fact the report needs.
 

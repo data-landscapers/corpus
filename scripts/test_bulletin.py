@@ -105,7 +105,7 @@ class Bench:
 
         `when` is what `osint_lib.last_ingest()` answers; `None` is an unreadable mirror, where
         nothing is readable at all. **It no longer pins the byline** *(2026-09-06,
-        `notes-for-corpus` 16)*: `collected_to()` reads the manifest itself rather than calling
+        `corpus-notes` 16)*: `collected_to()` reads the manifest itself rather than calling
         the two readers this used to stub, so a case that wants a stated close writes one with
         `manifest()`. A case that calls only this is pinning the fallback, where the newest
         admission stands as an upper bound.
@@ -607,7 +607,7 @@ def case_the_manifest_answers_on_its_own(tmp):
 
     The two stamps answer two questions and both come out of one file now: what the byline
     claims is collection, and what the edition picker shows is how late the newest thing in
-    the cut is (OSINT `notes-for-corpus` 16). This is the ordinary path — everything else in
+    the cut is (OSINT `corpus-notes` 16). This is the ordinary path — everything else in
     this group is a refusal or a fallback."""
     b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
     b.stamp("2026-05-14 05:20")
@@ -653,7 +653,7 @@ def case_a_manifest_naming_an_unknown_commit_is_refused(tmp):
 def case_a_manifest_stamp_is_read_as_local(tmp):
     """The manifest's collection stamps are copied out of OSINT's local logs.
 
-    They are labelled UTC and are not (`notes-for-osint` 55, measured 2026-08-28). Reading
+    They are labelled UTC and are not (`osint-notes` 55, measured 2026-08-28). Reading
     one as UTC would move the byline an hour later than the moment collection stopped, so
     the value is read exactly as written - and this case is what fails if that is changed
     without the field being settled first."""

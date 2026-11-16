@@ -550,7 +550,7 @@ def pack_rows(cdir: Path):
         i.get("body_completeness") or "",
         [at[e] for e in (i.get("entities") or [])],
         docid.get(i.get("slug") or "", -1),
-        # Field 11: OSINT's one-line subtitle for the record (`notes-for-corpus` 20).
+        # Field 11: OSINT's one-line subtitle for the record (`corpus-notes` 20).
         # Empty on everything ingested before 2026-09-05, and an empty string renders
         # nothing - the backfill over the older records is Bill's to commission, and
         # until it happens the page must not invent a line for them.
@@ -1399,7 +1399,7 @@ SCRIPT = r"""
       '<p class="ttl"><a href="' + r[5] + '" target="_blank" rel="noopener">' + esc(r[0]) + '</a></p>' +
       // The subtitle OSINT writes onto a record at ingest. Records taken in
       // before 2026-09-05 carry none, and the line is simply absent for them
-      // rather than standing empty (notes-for-corpus 20).
+      // rather than standing empty (corpus-notes 20).
       (r[11] ? '<p class="sub">' + esc(r[11]) + '</p>' : '') +
       '<p class="meta">' + esc(r[1] || 'publisher not recorded') + '</p>' +
       '<div class="tags">' + tags + '</div></div></div>';

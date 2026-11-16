@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-r"""climate-fund-stage.py — stage the climate funds' African project pages for OSINT (notes-for-corpus 84).
+r"""climate-fund-stage.py — stage the climate funds' African project pages for OSINT (corpus-notes 84).
 
     python scripts/climate-fund-stage.py gef            # enumerate, fetch, test, screen, stage
     python scripts/climate-fund-stage.py gef --ready    # after lint-staged-queue passes: READY
@@ -20,7 +20,7 @@ because the first GCF run staged a renewables fund for citing the met office onc
 communication alone does not count: on the first GEF run it was 95 of 194 matches, CBD and
 1990s UNFCCC enabling activities; a combined NC/BTR still passes on the BTR. Ingest
 decides what a staged project is worth. Topics are left blank for ingest, as with the
-data-centre batches (notes-for-corpus 50).
+data-centre batches (corpus-notes 50).
 
 **Nothing goes in twice**: the screen is `status-stage.py`'s (raw-url-index, rejected-urls),
 plus a match on the fund's project identifier in any held URL — the GCF page has two URL

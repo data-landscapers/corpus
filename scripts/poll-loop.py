@@ -41,7 +41,7 @@ import time
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHARE = os.environ.get("CORPUS_OSINT_XFER", r"C:\corpus-osint-xfer")
-MESSAGES = os.path.join(SHARE, "messages-for-bill.md")
+MESSAGES = os.path.join(SHARE, "bill-notes.md")
 ALERT = os.path.join(tempfile.gettempdir(), "corpus-poll-alert.txt")
 
 # The window: ticks run from START to STOP, across midnight (Bill, 2026-10-29). Outside it

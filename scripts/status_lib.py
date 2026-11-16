@@ -178,7 +178,7 @@ def catalogue_urls():
     **A record that documented having no URL resolves too, to its own row in the catalogue.**
     `wiki/schemas.md` §4 admits a blank `url:` where `url_note:` states a dated, exhausted
     search; the record is then the source, and `report-render.slug_offline()` cites it at
-    `/catalogue/#q={slug}` (`notes-for-corpus` 22). Check A is set membership over what a
+    `/catalogue/#q={slug}` (`corpus-notes` 22). Check A is set membership over what a
     baseline may cite, so it has to hold the same addresses the renderer writes — or a drafter
     citing a documented absence correctly would fail the check that exists to catch invented
     URLs. Built here rather than imported so `report-render.py` and this file cannot drift into

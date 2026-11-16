@@ -12,7 +12,7 @@ both variants have one.
 reads out of the prose, and a pair whose two sides are written *African Development Bank*
 and *African Development Bank Group* lands in two groups and reports nothing — which is how
 `afdb` against `african-development-bank`, 18 records against 378, was invisible to it
-(`notes-for-corpus` 36, and R44 found it by grepping instead). This groups on the **slug**,
+(`corpus-notes` 36, and R44 found it by grepping instead). This groups on the **slug**,
 so it sees exactly what a display name cannot.
 
 Job 116 names the three normalisations and all three are here:
@@ -376,7 +376,7 @@ def main(argv=None):
     names = {}
     path = args.names or default_names
     # **Whether the file was there is reported, because 0 and "not compared" are not the
-    # same reading** (`notes-for-corpus` 38). `entity-names.csv` is Corpus's, so a run in
+    # same reading** (`corpus-notes` 38). `entity-names.csv` is Corpus's, so a run in
     # OSINT's tree finds nothing at the default, every abbreviation group then scores
     # `high`, and the count below reads as *nothing disagrees* when it means *nothing
     # could be compared*.

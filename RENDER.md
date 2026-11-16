@@ -16,7 +16,7 @@ last_reviewed: 2026-09-20
 
 ## Running unattended — a run never stops to ask
 
-**RENDER puts no question mid-stream.** A run finishes or fails; a failure is an error it cannot get past, never a decision it would rather Bill made. Where it wants his attention it finishes the job and writes a block in `C:\corpus-osint-xfer\messages-for-bill.md`. **RENDER judges nothing about its input** — fitness to publish is BUILD's — and its one hard stop is Step 0.
+**RENDER puts no question mid-stream.** A run finishes or fails; a failure is an error it cannot get past, never a decision it would rather Bill made. Where it wants his attention it finishes the job and writes a block in `C:\corpus-osint-xfer\bill-notes.md`. **RENDER judges nothing about its input** — fitness to publish is BUILD's — and its one hard stop is Step 0.
 
 ## Step 0 — a finished build behind you, then a clean tree
 
@@ -296,7 +296,7 @@ Run it before the mirror to see whether one is owed, and after to confirm the li
 
 ## If something fails
 
-- A single report failing to render does not stop the loop or the run — note it, continue, deploy the rest, list it in `C:\corpus-osint-xfer\messages-for-bill.md`.
+- A single report failing to render does not stop the loop or the run — note it, continue, deploy the rest, list it in `C:\corpus-osint-xfer\bill-notes.md`.
 - A WeasyPrint/system-library error is environmental, not a repo bug — surface it. If it takes down every document, that is the whole run failing: log it and stop.
 - **Nothing here is a question for Bill.** The one hard stop is Step 0, a mechanical test with a stated repair.
 - Do not write anything to OSINT (`C:\OSINT`) under any circumstance; nothing in this runbook needs to.

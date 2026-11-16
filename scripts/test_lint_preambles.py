@@ -57,8 +57,7 @@ JOBS = ("# jobs\n\n## NEXT JOB NUMBER: 9\n\n*(Pointer.)*\n\n"
         "## The bar - all six\n\nThe register's own rules, which stay.\n\n"
         "## Done - oldest first\n\n8. A job.\n")
 CORPUS_JOBS = "# jobs\n\n## NEXT JOB NUMBER: 2\n\n*(Pointer.)*\n\n## 1 · A job\n\n- Work.\n"
-FROM_BILL = "# Messages from Bill\n\n*(Pointer.)*\n\n## Block 1\n\nText.\n"
-FOR_BILL = ("---\ntype: log\n---\n\n# Messages for Bill\n\n*(Pointer.)*\n\n"
+FOR_BILL = ("---\ntype: log\n---\n\n# Bill notes\n\n*(Pointer.)*\n\n"
             "<!-- newest first: a new block goes directly below this line -->\n\n"
             "## 2026-08-20 16:05 · review\n\n- a block.\n")
 
@@ -70,15 +69,14 @@ def build(tmp: Path, **over: str) -> tuple[Path, Path]:
     share.mkdir(exist_ok=True)
     files = {
         "README.md": README,
-        "notes-for-osint.md": POINTER,
-        "notes-for-corpus.md": POINTER,
-        "notes-for-osint-resolved.md": RESOLVED_O,
-        "notes-for-corpus-resolved.md": RESOLVED_C,
+        "osint-notes.md": POINTER,
+        "corpus-notes.md": POINTER,
+        "osint-notes-resolved.md": RESOLVED_O,
+        "corpus-notes-resolved.md": RESOLVED_C,
         "osint-housekeeping.md": JOBS,
         "osint-housekeeping-resolved.md": JOBS,
         "corpus-housekeeping-resolved.md": JOBS,
-        "messages-from-bill.md": FROM_BILL,
-        "messages-for-bill.md": FOR_BILL,
+        "bill-notes.md": FOR_BILL,
         "corpus-housekeeping.md": CORPUS_JOBS,
     }
     files.update({k: v for k, v in over.items() if k in files})
@@ -125,9 +123,9 @@ with tempfile.TemporaryDirectory() as td:
 
     print("an over-cap preamble in a file CORPUS owns fails")
     fat = "# Notes\n\n" + ("word " * 300) + "\n\n## Unresolved\n\n**7** a note.\n"
-    rc, out = run(*build(tmp, **{"notes-for-osint.md": fat}))
+    rc, out = run(*build(tmp, **{"osint-notes.md": fat}))
     check("exit 1", rc, 1)
-    check("names the file and the count", "notes-for-osint.md: preamble is 302" in out, True)
+    check("names the file and the count", "osint-notes.md: preamble is 302" in out, True)
 
     print("the same in a file it does not own is an advisory, not a failure")
     rc, out = run(*build(tmp, **{"osint-housekeeping.md":
@@ -138,13 +136,13 @@ with tempfile.TemporaryDirectory() as td:
 
     print("a rule restated away from home fails")
     copied = "# Notes\n\n*(Numbers are never reused.)*\n\n## Unresolved\n\n**7** a note.\n"
-    rc, out = run(*build(tmp, **{"notes-for-corpus.md": copied}))
+    rc, out = run(*build(tmp, **{"corpus-notes.md": copied}))
     check("exit 1", rc, 1)
     check("names the phrase and its home",
           "restates 'Numbers are never reused', which belongs in README.md" in out, True)
 
     print("an archive quoting a rule is left alone — rewriting it would falsify it")
-    rc, out = run(*build(tmp, **{"notes-for-corpus-resolved.md":
+    rc, out = run(*build(tmp, **{"corpus-notes-resolved.md":
                                  "# Resolved\n\n*(Pointer.)*\n\n"
                                  "## 12 — a note about 'Numbers are never reused'\n"}))
     check("exit 0", rc, 0)
@@ -154,13 +152,13 @@ with tempfile.TemporaryDirectory() as td:
     check("exit 1", rc, 1)
     check("says the rule left home", "no longer states" in out, True)
 
-    print("messages-for-bill is measured to its marker, and CLAUDE.md is its home")
-    rc, out = run(*build(tmp, **{"messages-for-bill.md":
+    print("bill-notes is measured to its marker, and CLAUDE.md is its home")
+    rc, out = run(*build(tmp, **{"bill-notes.md":
                                  "# Messages\n\n" + ("word " * 300) +
                                  "\n\n<!-- newest first: a new block goes directly below "
                                  "this line -->\n\n## 2026-08-20 16:05 · review\n"}))
     check("an over-cap preamble fails", rc, 1)
-    rc, out = run(*build(tmp, **{"messages-for-bill.md":
+    rc, out = run(*build(tmp, **{"bill-notes.md":
                                  FOR_BILL.replace("*(Pointer.)*",
                                                   "*(the irreversible and the "
                                                   "already-public)*")}))

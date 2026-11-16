@@ -349,7 +349,7 @@ def parse_frontmatter(text):
 
 # Topic ids Bill has renamed, read under the new id until every OSINT record carries it.
 # Applied to the facets as they are parsed, so every reader agrees. Empty when OSINT has
-# caught up: data.satellite -> data.geospatial ran 2026-11-03 until notes-for-corpus 83.
+# caught up: data.satellite -> data.geospatial ran 2026-11-03 until corpus-notes 83.
 TOPIC_RENAMED: dict[str, str] = {}
 _RENAMED_RE = re.compile(r"^(" + "|".join(re.escape(k) for k in TOPIC_RENAMED) + r")(?=$|[.-])") if TOPIC_RENAMED else None
 

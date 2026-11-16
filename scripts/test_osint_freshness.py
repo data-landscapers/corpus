@@ -11,7 +11,7 @@ Each case builds a synthetic mirror in a temp directory holding one file,
 `cycle-manifest.json`, plus a watermark and a stubbed `HEAD` commit date standing in for the
 one git would report. The module's constants are repointed at it and the exit code asserted.
 
-**The log fixtures went with the log reads** *(2026-09-06, `notes-for-corpus` 16)*. Two
+**The log fixtures went with the log reads** *(2026-09-06, `corpus-notes` 16)*. Two
 suites here used to build `logs/ingested_log.md` and `logs/sweep-cycle_log.md` and pin the
 forensics that parsing them needed — a heading four hours in the reader's future, a
 date-only heading read at midnight, a queue-drain whose `sweep_closed` walked backwards.
@@ -197,7 +197,7 @@ def manifest_cases() -> tuple[int, int]:
             print(f"  {'ok  ' if ok else 'FAIL'} {name}  "
                   f"(expected {expected}, got {got_s}; reason: {why[:70]})")
 
-        # A read that fails is not an absence (notes-for-corpus 28): a path into a folder that
+        # A read that fails is not an absence (corpus-notes 28): a path into a folder that
         # is not there, and a path that is a folder rather than a file, must both say
         # "unreadable" and never "no cycle manifest".
         path.unlink(missing_ok=True)
@@ -282,7 +282,7 @@ def collected_to_cases() -> tuple[int, int]:
 
     It used to take the later of two readings because neither `sweep_closed` nor the cycle's
     `End` covered every path that admits to `raw/`; the manifest is written by every pass
-    that mirrors, so `sweep_closed` answers alone (`notes-for-corpus` 16). What is left to
+    that mirrors, so `sweep_closed` answers alone (`corpus-notes` 16). What is left to
     guard is the refusal: a stated close in the reader's future is a claim about work that
     has not happened, and it must come back `None` so `bulletin.stamps_for()` falls to
     something it can defend rather than publishing it."""

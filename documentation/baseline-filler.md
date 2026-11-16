@@ -42,7 +42,7 @@ Order: that table, top down — the most unanswered rows first.
 **XAF, 2026-09-11.** 58 rows: **36 staged** (34 files in `new-queue\XAF\baseline\`, two each answering two rows), **10 held**, **12 nil**. Records: `logs/progress-filler/XAF-2026-09-11{,-selected,-unselected}.csv`. Three picks were withdrawn at merge as not stating their row's pre-window position (the reasons are in the unselected register), which is why those rows are nil.
 
 - **The 10 `held` rows need no ingest.** The base already holds a document stating their start position — the selected register names each `raw/` file. **Set 2026-09-11 with the regions' held rows** (below): 8 set, 2 skipped because the held document states no figure for the row (the AfCFTA protocol gives no data-centre count; the AI Strategy gives no committed capital or cost).
-- **The 36 staged rows wait on Bill's hand-carry and OSINT's ingest** (`notes-for-osint` 136), then the report update.
+- **The 36 staged rows wait on Bill's hand-carry and OSINT's ingest** (`osint-notes` 136), then the report update.
 - **Dedup is by exact URL against `lookups/raw-url-index.csv`**, run through a helper that also flags a same-path match on another host. It misses a held document filed under a different URL; the slices caught three that way by title. A later run should search `raw/` titles as well.
 
 **XWA, XEA, XCA, XSA, XNA, 2026-09-11.** 61 rows, list regenerated at run time and matching the snapshot: **31 staged** (29 files, one answering two XSA rows, and one XWA row answered by a file already in the XAF batch), **25 held**, **5 nil**. By region, staged/held/nil: XWA 15/8/2, XEA 6/6/1, XCA 2/8/1, XSA 7/2/1, XNA 1/1/0. Records: `logs/progress-filler/{XWA,XEA,XCA,XSA,XNA}-2026-09-11{,-selected,-unselected}.csv`.

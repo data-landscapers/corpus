@@ -83,7 +83,7 @@ def delivered(recs: dict) -> set:
     return seen
 
 
-# Titles this short trip OSINT's restatement test whatever the hero says (notes-for-corpus 31,
+# Titles this short trip OSINT's restatement test whatever the hero says (corpus-notes 31,
 # filed there as a rule candidate). They wait for that test to be loosened rather than get
 # distorted heroes.
 SHORT_TITLE = 2
@@ -135,12 +135,12 @@ def problems(hero: str, title: str) -> list:
         out.append("the sheet's apparatus words")
     if any(rx.search(hero) for rx in LP.MOOD):
         out.append("the sheet's mood words")
-    # OSINT's `catalogue-hero-set.py` refuses either containment (notes-for-corpus 31), so a
+    # OSINT's `catalogue-hero-set.py` refuses either containment (corpus-notes 31), so a
     # hero that opens on its title bounces there even when the rest of it adds something.
     if title and (norm(hero) in norm(title) or norm(title) in norm(hero)):
         out.append("restates the title")
     # lint #34's soft test: a hero opening on the title's first four words spends its first
-    # clause on what the reader has just read (notes-for-corpus 32).
+    # clause on what the reader has just read (corpus-notes 32).
     head = norm(title).split()[:4]
     if len(head) == 4 and norm(hero).split()[:4] == head:
         out.append("opens on the title")

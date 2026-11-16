@@ -21,7 +21,7 @@ the whole of it into **`cycle-manifest.json`** as `rotation`, and only then mirr
     manifest carrying it was written. That is why nothing in this file reads FreeFileSync's
     exit code or its session logs in `logs/mirror-ffs/` — which is just as well, because
     `SWEEP-CYCLE.md` says plainly that nothing gates on that exit code.
-  - **The manifest is not a committed file** *(measured 2026-09-08; `notes-for-osint` 133)*.
+  - **The manifest is not a committed file** *(measured 2026-09-08; `osint-notes` 133)*.
     This docstring used to say the closing sequence commits it, and the bullet above used to
     rest the guarantee on "the commit that wrote it". Neither is so: OSINT's `.gitignore`
     names `cycle-manifest.json` and no commit has ever touched it. The guarantee survives
@@ -38,7 +38,7 @@ the whole of it into **`cycle-manifest.json`** as `rotation`, and only then mirr
     on 2026-09-07. That is a smaller thing than a dependency to honour on every pass, but it
     is not nothing, and this bullet used to claim it was.
 
-**It reads the manifest, not `logs/sweep-cycle_log.md`** *(2026-09-06, `notes-for-corpus`
+**It reads the manifest, not `logs/sweep-cycle_log.md`** *(2026-09-06, `corpus-notes`
 16)*. Until then this parsed OSINT's rotation table directly, header-asserted, because
 nothing else stated a close. The manifest states one, it is inside the interface
 `lint-interface.py` asserts and the log is not, and OSINT computes `newest_close` itself — so

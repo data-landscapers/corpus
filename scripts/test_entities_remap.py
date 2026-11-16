@@ -21,7 +21,7 @@ things worth pinning are the ways a rewrite goes wrong quietly:
 - **What `scan()` picks up.** A refusal is a report; a file the selector never opens is
   silence. So every form the refusals are written for has to reach them, which means the
   selector has to be blunter than the rewriter and is tested against each one
-  (`notes-for-corpus` 37).
+  (`corpus-notes` 37).
 """
 from __future__ import annotations
 

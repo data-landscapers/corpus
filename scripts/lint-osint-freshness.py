@@ -8,7 +8,7 @@ osint-migration.md` R8, run 2026-08-16). Since 2026-08-20 the same FreeFileSync 
 different job: `SWEEP-CYCLE.md` -> *Mirror* is the night's last act, and what it supplies is
 **Corpus's copy of the vault**, not a backup. Nothing on either side then checked its
 freshness. When it was a backup, a stale mirror meant a late backup; now it means Corpus
-compiling, reporting and publishing from yesterday's evidence, silently. `notes-for-corpus.md`
+compiling, reporting and publishing from yesterday's evidence, silently. `corpus-notes.md`
 note 5 is that finding, and this is its `[ACT]`: *a freshness check belongs on the reading
 side, which is Corpus's.*
 
@@ -21,7 +21,7 @@ one constant that says so (`CORPUS_OSINT_MIRROR` overrides).
 
 **Four clocks, and the newest of them is the answer.** None is authoritative alone. Three
 come out of `cycle-manifest.json` and one out of git; nothing here reads a log
-*(2026-09-06, `notes-for-corpus` 16)*.
+*(2026-09-06, `corpus-notes` 16)*.
 
   1. **`collection.last_admission`** — when `raw/` last took anything in. The moment the
      corpus itself moved.

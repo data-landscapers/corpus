@@ -523,8 +523,8 @@ try:
 
     share = tmp / "share"
     share.mkdir()
-    (share / "notes-for-osint.md").write_text("**231** [ACT] (2026-10-20) - evidence\n", encoding="utf-8")
-    (share / "notes-for-osint-resolved.md").write_text("### 200. `[ACT]` done\n", encoding="utf-8")
+    (share / "osint-notes.md").write_text("**231** [ACT] (2026-10-20) - evidence\n", encoding="utf-8")
+    (share / "osint-notes-resolved.md").write_text("### 200. `[ACT]` done\n", encoding="utf-8")
     manifest = tmp / "cycle-manifest.json"
     manifest.write_text('{"written_utc": "2026-10-21 04:00"}', encoding="utf-8")
     check("an open note shuts the gate", "is open" in returned.gate("231", str(share), str(manifest)), True)

@@ -28,7 +28,7 @@ already hold both.
 Region names are duplicated from `lookups/countries.csv` because the build
 cannot read outside `outputs/` — the same trade-off `country.py`'s
 `FULL_NAMES` and `home.py`'s `REGION_NAMES` already carry
-(osint-corpus-exchange/notes-for-osint.md #9); this is a third copy of the same
+(osint-corpus-exchange/osint-notes.md #9); this is a third copy of the same
 eight names; kept identical to `home.py`'s spelling so a box and its page
 never disagree on the region's name.
 """

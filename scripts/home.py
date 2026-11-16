@@ -23,7 +23,7 @@ home page: Countries and Regions are one nav item and one section now, and
 `build_countries()` writes both matrices, country boxes first.
 
 **Where the numbers come from.** `REPO-STATUS.md` will write nightly counts
-into `outputs/catalogue/stats.json` (osint-corpus-exchange/notes-for-osint.md #8). Until it does,
+into `outputs/catalogue/stats.json` (osint-corpus-exchange/osint-notes.md #8). Until it does,
 this reads `outputs/catalogue/raw-catalogue.csv` and counts the same things
 itself — `load_stats()` prefers the published file and falls back, so the
 page is right today and needs no rewrite when the file lands.
@@ -70,7 +70,7 @@ STATS_SHAPE = """{
 
 # Level-1 labels from `lookups/taxonomy.md`, and country/region names from
 # `lookups/countries.csv` — both in OSINT, neither in `outputs/`. The build is
-# not allowed to read outside `outputs/` (osint-corpus-exchange/notes-for-osint.md), so for now they
+# not allowed to read outside `outputs/` (osint-corpus-exchange/osint-notes.md), so for now they
 # are duplicated here. Two copies of one vocabulary is exactly the failure
 # documentation/design.md §8 refuses elsewhere, so this is a note for OSINT (#9), not a
 # pattern to repeat deliberately.

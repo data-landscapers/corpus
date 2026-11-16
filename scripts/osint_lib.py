@@ -13,7 +13,7 @@ a plausible-looking substitute is the failure this repo keeps finding in its own
 
 **One file answers all of it, and it is not a log.** `cycle-manifest.json` is OSINT's own
 machine-readable account of a close, written after the final commit and before the mirror by
-every pass that mirrors (`notes-for-corpus` 16, strategic review task 14). Until 2026-09-06
+every pass that mirrors (`corpus-notes` 16, strategic review task 14). Until 2026-09-06
 this module also parsed `logs/ingested_log.md` and `logs/sweep-cycle_log.md` as a fallback for
 a mirror carrying no manifest, and most of its length was the forensics that took: a heading
 format that changed under it, a mistyped stamp four hours in the reader's future, a clustering
@@ -109,7 +109,7 @@ def read_manifest(path: str | None = None) -> tuple[dict | None, str]:
     2026-09-06 this is the state in which Corpus has no reading of OSINT's clocks at all, and
     every reader below answers `None` and says why.
 
-    **Unreadable is not absent** *(`notes-for-corpus` 28)*. A read that fails — the mirror's
+    **Unreadable is not absent** *(`corpus-notes` 28)*. A read that fails — the mirror's
     directory out of reach, a permission refused, a lock — says so with the path and the
     exception, because *absent* is a claim about OSINT (a close that skipped its stamp) and a
     failed read is a claim about this reader. Only a missing file in a directory that is
@@ -205,7 +205,7 @@ def _stamp(text) -> dt.datetime | None:
     r"""A manifest collection or rotation stamp, read as naive local time.
 
     **The manifest says every stamp is UTC, and its collection and rotation stamps are not**
-    *(measured 2026-08-28; `notes-for-osint` 55)*. They are copied verbatim out of OSINT's own
+    *(measured 2026-08-28; `osint-notes` 55)*. They are copied verbatim out of OSINT's own
     logs, which are local: the manifest of 2026-08-28 08:36 reported `rotation.newest_close`
     as `19:07`/`21:31` where that day's rotation row carried `19:07`/`21:31`, and
     `collection.last_admission` as `20:36` against the same number in OSINT's newest ingest
@@ -255,7 +255,7 @@ def sweep_closed() -> dt.datetime | None:
     """When collection stopped, as OSINT states it — `collection.sweep_closed`.
 
     **This is the bulletin's *Last updated*, and it is a fact rather than a derivation**
-    *(OSINT `notes-for-corpus.md` note 13, 2026-08-26, closing its own note 45)*. What a
+    *(OSINT `corpus-notes.md` note 13, 2026-08-26, closing its own note 45)*. What a
     reader is being told is *how recent is the material here*, and the defensible answer is
     the point after which nothing more could have been caught. Corpus had no artefact
     recording that, so it derived one — from the start of the newest ingest run, found by

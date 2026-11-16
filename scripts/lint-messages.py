@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""lint-messages.py — the rules on the share's messages-for-bill.md, counted in code.
+"""lint-messages.py — the rules on the share's bill-notes.md, counted in code.
 
 The file moved from `logs/` to the share on 2026-10-02 *(Bill)*, beside the notes he
 already reads there. **Since 2026-11-05 both CORPUS and OSINT write to it** *(Bill;
-notes-for-corpus 85)*, each block naming its sender; `CORPUS_OSINT_XFER` overrides where
+corpus-notes 85)*, each block naming its sender; `CORPUS_OSINT_XFER` overrides where
 the share is.
 
 **There is no cap on the number of blocks** *(Bill, 2026-10-23)*. Five used to be the
@@ -62,7 +62,7 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHARE = os.environ.get("CORPUS_OSINT_XFER", r"C:\corpus-osint-xfer")
-MESSAGES = os.path.join(SHARE, "messages-for-bill.md")
+MESSAGES = os.path.join(SHARE, "bill-notes.md")
 MARKER = "<!-- newest first: a new block goes directly below this line -->"
 
 BLOCK_WORD_CAP = 80
@@ -76,7 +76,7 @@ DEPLOY_HEADING = re.compile(r"^## (?:\d+ · )?\d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})?
 # The job field, after the date and optional time: from 2026-11-05 it starts with the sender.
 JOB = re.compile(r"^## (?:\d+ · )?\d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})? · (.*)$")
 SENDERS = ("CORPUS", "OSINT")
-SENDER_FROM = 90  # OSINT's first block under the rule (notes-for-corpus 85)
+SENDER_FROM = 90  # OSINT's first block under the rule (corpus-notes 85)
 
 # **What a struck-but-present block looks like.** Two shapes, both of them an edit made
 # instead of a deletion: a heading struck through or prefixed out of its dated form, and a
@@ -138,7 +138,7 @@ def blocks(text: str) -> list[tuple[str, dt.date | None, int, list[str]]]:
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Check the rules on messages-for-bill.md.")
+    ap = argparse.ArgumentParser(description="Check the rules on bill-notes.md.")
     ap.add_argument("--file", default=MESSAGES, help=argparse.SUPPRESS)
     args = ap.parse_args()
 

@@ -110,7 +110,7 @@ try:
     check("a block before message 90 naming no sender passes",
           run("## 89 · 2026-11-05 05:25 · rebuild\n\n- Text.\n\n")[0], 0)
     check("an OSINT block passes",
-          run("## 7001 · 2026-11-05 12:40 · OSINT notes-for-osint 290\n\n- Text.\n\n")[0], 0)
+          run("## 7001 · 2026-11-05 12:40 · OSINT osint-notes 290\n\n- Text.\n\n")[0], 0)
     check("an OSINT block over the word cap is reported, not failed",
           run("## 7001 · 2026-11-05 12:40 · OSINT x\n\n" + "word " * 81 + "\n\n")[0], 0)
     check("a CORPUS block passes",

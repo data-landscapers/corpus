@@ -202,7 +202,7 @@ def line_name(rec):
 def deal_year(r):
     """The deal's own year, which is authoritative (Bill, 2026-09-23): the commitment year, else
     the start year, else the record's publication year. The commitment year leads (Bill,
-    2026-09-26, notes-for-corpus 69): a start before the commitment is not possible, and a top-up
+    2026-09-26, corpus-notes 69): a start before the commitment is not possible, and a top-up
     loan carrying its project's earlier start is a separate deal dated by its own signing. The summary bucketed by publication
     year while the export printed this, and 114 of 1,453 rows disagreed - a 2022 Comoros grant
     summed under 2025/26. A cell counts only where it opens with a year: five records annotate

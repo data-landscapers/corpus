@@ -48,8 +48,8 @@ def note(n: int, affects: str | None = "site/reports/AGO-status.md — the tally
 def build(tmp: Path, osint: str, corpus: str = "") -> Path:
     share = tmp / "share"
     share.mkdir(exist_ok=True)
-    (share / "notes-for-osint.md").write_text(HEAD + osint, encoding="utf-8", newline="\n")
-    (share / "notes-for-corpus.md").write_text(HEAD + corpus, encoding="utf-8", newline="\n")
+    (share / "osint-notes.md").write_text(HEAD + osint, encoding="utf-8", newline="\n")
+    (share / "corpus-notes.md").write_text(HEAD + corpus, encoding="utf-8", newline="\n")
     return share
 
 
@@ -135,7 +135,7 @@ with tempfile.TemporaryDirectory() as td:
     check("and says what to write", "would have to say nothing is not a note" in out, True)
     rc, out = run(build(tmp, note(49), corpus=note(9, affects=None)))
     check("the same in OSINT's outbox exits 0", rc, 0)
-    check("but is reported", "note - notes-for-corpus.md" in out, True)
+    check("but is reported", "note - corpus-notes.md" in out, True)
     rc, out = run(build(tmp, ""))
     check("an empty queue is clean", rc, 0)
 

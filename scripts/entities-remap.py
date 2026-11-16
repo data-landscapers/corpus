@@ -28,7 +28,7 @@ picks a file by tokenising its `entities:` value, not by looking for `[slug]`; `
 alone decides whether the form is one it understands. They were once the same test, and a
 carrier written in the plain flow form `entities: [afdb, x]` was therefore dropped before
 the refusal path could name it — not refused, missed, which is the one outcome a report
-cannot show (`notes-for-corpus` 37, 2026-09-20).
+cannot show (`corpus-notes` 37, 2026-09-20).
 
 **The expected file list is an input, not an output.** Given `--expect`, a path the tree
 carries and the list does not means something has started writing the variant again since

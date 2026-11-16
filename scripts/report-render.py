@@ -419,7 +419,7 @@ def catalogue_rows():
     One deliberate narrowing: the catalogue lists **records**, so the 217 artefacts under `raw/`
     (PDFs and spreadsheets beside their record) are no longer slugs check M will accept. That is
     the right reading of §8 — an artefact is not a citable record, which is exactly what note 7
-    of `notes-for-osint.md` says about the Comoros budget documents — and no ledger cites one."""
+    of `osint-notes.md` says about the Comoros budget documents — and no ledger cites one."""
     global _CATALOGUE
     if _CATALOGUE is not None:
         return _CATALOGUE
@@ -450,7 +450,7 @@ def _assert_catalogue_current(records):
 
     Counted as well as timed: a deleted record moves no mtime, and a catalogue still carrying it
     resolves a slug the base no longer holds — a citation that publishes and then breaks, which
-    is the failure `notes-for-osint.md`'s slug-permanence constraint exists to prevent.
+    is the failure `osint-notes.md`'s slug-permanence constraint exists to prevent.
 
     **A record that arrived after the catalogue was built is ignored, and that is the whole of
     what changed on 2026-09-08** *(Bill's call: a cycle ignores what OSINT sends after it has
@@ -526,7 +526,7 @@ def slug_offline():
     """slug -> the catalogue entry, for records held with a documented absence of a URL.
 
     **A blank `url:` with a `url_note:` is not a missing field; it is a finding** *(OSINT,
-    `notes-for-corpus` 22, resolved 2026-09-07)*. `wiki/schemas.md` §4 admits a record whose
+    `corpus-notes` 22, resolved 2026-09-07)*. `wiki/schemas.md` §4 admits a record whose
     URL is blank where the note states a dated, exhausted search — what was tried, when, and
     why the absence is final — and the record itself, usually with an `artefact:` file beside
     it, is then the source. Corpus read the empty field alone, so every one of these resolved
@@ -1997,7 +1997,7 @@ def check_sourced(unit):
     mistake in the ledger, while a slug held without a `url:` **and without a `url_note:`** is an
     uncitable record and OSINT's to fix (§8).
 
-    **The qualifier is the whole of `notes-for-corpus` 22, and it narrows this check.** A record
+    **The qualifier is the whole of `corpus-notes` 22, and it narrows this check.** A record
     whose `url:` is blank *and* whose `url_note:` states a dated, exhausted search is admissible
     under `wiki/schemas.md` §4 — the absence is the finding, not the omission — and it resolves
     here through `slug_offline()` to its own catalogue entry. Nine such records were reported as

@@ -83,7 +83,7 @@ page, not the library's.
 **`note` is the dated absence.** `dead 2026-09-25: no budget library found in 12 pages` is
 what the Finance page's coverage table states for the row when it returns (R106); until then
 this file is where the absence is recorded. **A library the poll cannot read is recorded here
-and nowhere else** *(Bill, 2026-10-02; `notes-for-corpus` 76)*: the share's `fetch-list.md`
+and nowhere else** *(Bill, 2026-10-02; `corpus-notes` 76)*: the share's `fetch-list.md`
 takes a named document with a resolved URL whose automated fetch has failed, never a library,
 so the `fetch-list` command that wrote the `manual` rows there is gone. `listed` is the date
 it last did, kept as history.
@@ -181,7 +181,7 @@ CONTENT_EXT = {"application/pdf": ".pdf", "application/vnd.ms-excel": ".xls",
                "application/msword": ".doc", "application/zip": ".zip",
                "application/vnd.openxmlformats-officedocument.wordprocessingml.document": ".docx"}
 
-# `notes-for-corpus` 65: of the first poll's 233 staged, ingest dropped 91 — a third off-topic,
+# `corpus-notes` 65: of the first poll's 233 staged, ingest dropped 91 — a third off-topic,
 # the rest twins or subsets of what is held. These run on the folded link after a type matched.
 # Files a library lists beside its budget documents that are not one.
 OFF_TOPIC = re.compile(strip_marks(

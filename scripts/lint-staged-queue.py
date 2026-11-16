@@ -8,7 +8,7 @@ On the GNB batch of 2026-08-27, five of the eighty hand-carried
 under their own frontmatter. The frontmatter was right, the `url:` was right, the
 filename was right, and a URL-index check passed cleanly on every one of them —
 the only thing wrong was the text, and the only thing that found it was three
-ingest slices reading full bodies by hand *(OSINT `notes-for-corpus.md` note 15)*.
+ingest slices reading full bodies by hand *(OSINT `corpus-notes.md` note 15)*.
 Had the run not been reading full text, all five would have entered `raw/` as
 authentic records.
 
@@ -76,7 +76,7 @@ in prose. Prose checks get run when someone remembers:
   - **flat** — a French or Portuguese body carrying almost no accented letters
     is itself a transliteration, and `title` cannot see it: that check repairs a
     title *from* the body, so a flattened body gives it nothing to compare
-    against and it passes in silence *(OSINT `notes-for-corpus` 27, 2026-09-13:
+    against and it passes in silence *(OSINT `corpus-notes` 27, 2026-09-13:
     20 such bodies reached `raw/`)*. An intact body in either language carries
     about 29 to 34 accented letters per 1,000 characters and a flattened one
     0.0 to 0.3, with nothing between, so a floor of 5 is not a tuning choice.

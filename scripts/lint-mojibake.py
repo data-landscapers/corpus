@@ -9,7 +9,7 @@ something — it silently fails every grep for the word it mangled. A coded row
 about `África Austral` goes missing from a search for `África Austral` and
 nothing anywhere reports a miss. That is why this exists as a check rather than
 as a one-off repair: the fault arrives with third-party data and will arrive
-again *(OSINT `notes-for-corpus.md` note 7, 2026-08-22, which found 85 rows of it
+again *(OSINT `corpus-notes.md` note 7, 2026-08-22, which found 85 rows of it
 in OSINT's archived copy of the same dataset and 60 in ours)*.
 
 **The damage and its inverse.** UTF-8 bytes were decoded once as cp1252, so each

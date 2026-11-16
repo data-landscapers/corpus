@@ -20,7 +20,7 @@ are mostly about what it refuses:
   five slugs as one body; groups merge only when their members are identical.
 
 And one thing about the report rather than the set: **`check` counted as 0 must not be
-printed where no display name could be read** (`notes-for-corpus` 38). `entity-names.csv`
+printed where no display name could be read** (`corpus-notes` 38). `entity-names.csv`
 is Corpus's, so a run in OSINT's tree finds none at the default path, every abbreviation
 group scores `high`, and a bare `0` reads as *nothing disagrees* when it means *nothing was
 compared* -- which is the difference between 55 groups looked at and 55 merged unseen.

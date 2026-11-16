@@ -52,9 +52,9 @@ def build(root: Path, *, open_jobs=(), closed_jobs=(), open_r=(), closed_r=(),
     lines += [f"- [x] **R{r} [OSINT]** - done" for r in closed_r]
     io.open(root / "strategic-review-register.md", "w", encoding="utf-8").write(
         "# register\n\n" + "\n".join(lines) + "\n")
-    io.open(root / "notes-for-osint.md", "w", encoding="utf-8").write(
+    io.open(root / "osint-notes.md", "w", encoding="utf-8").write(
         "# notes\n\n" + "".join(f"**{n}** [ACT] (2026-09-23) - owed\n\n" for n in open_notes))
-    io.open(root / "notes-for-osint-resolved.md", "w", encoding="utf-8").write(
+    io.open(root / "osint-notes-resolved.md", "w", encoding="utf-8").write(
         "# resolved\n\n" + "".join(f"### {n}. `[ACT]` done\n\n" for n in closed_notes))
 
 
@@ -182,8 +182,8 @@ try:
     for n in ("note-164", "note-150", "note-999"):
         item(r, n)
     src = {"open": "", "resolved": "", "register": "",
-           "notes": lp._read(r / "notes-for-osint.md"),
-           "notes_resolved": lp._read(r / "notes-for-osint-resolved.md")}
+           "notes": lp._read(r / "osint-notes.md"),
+           "notes_resolved": lp._read(r / "osint-notes-resolved.md")}
     check("an open note is waiting",
           lp.verdict("note-164", str(r / "prepared" / "note-164"), str(r), src)[0], "live")
     check("a resolved note is spent",
@@ -192,8 +192,8 @@ try:
           lp.verdict("note-999", str(r / "prepared" / "note-999"), str(r), src)[0], "unresolved")
 
     print("\na folder named for what it holds is closed by the note in its brief")
-    item(r, "maturity-study-health", closer="notes-for-osint 164")
-    item(r, "maturity-study-done", closer="notes-for-osint 150")
+    item(r, "maturity-study-health", closer="osint-notes 164")
+    item(r, "maturity-study-done", closer="osint-notes 150")
     check("its note still open, it waits",
           lp.verdict("maturity-study-health", str(r / "prepared" / "maturity-study-health"),
                      str(r), src)[0], "live")
@@ -202,8 +202,8 @@ try:
                      str(r), src)[0], "spent")
 
     print("\nthe nightly rebuild's folder is closed by the pull, whatever note its brief names")
-    pulled = item(r, "maturity-study-rebuilt", closer="the pull. Under the standing notes-for-osint 150.")
-    waiting = item(r, "maturity-study-waiting", closer="the pull. Under the standing notes-for-osint 150.")
+    pulled = item(r, "maturity-study-rebuilt", closer="the pull. Under the standing osint-notes 150.")
+    waiting = item(r, "maturity-study-waiting", closer="the pull. Under the standing osint-notes 150.")
     io.open(waiting / "READY", "w", encoding="utf-8").write("")
     check("READY still there, it waits for the pull",
           lp.verdict("maturity-study-waiting", str(waiting), str(r), src)[0], "live")

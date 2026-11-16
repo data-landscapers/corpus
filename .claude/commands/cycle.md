@@ -7,7 +7,7 @@ exited 0: a sweep cycle has closed and the claim is already taken. Do not claim 
 
 From C:\CORPUS, run `CYCLE.md` end to end — every step of *The run*, in its order, passing
 `--poll` to `python scripts/unit-review.py next` — following its unattended rules: never stop
-to ask, leave anything needing Bill in `C:\corpus-osint-xfer\messages-for-bill.md`. Finish
+to ask, leave anything needing Bill in `C:\corpus-osint-xfer\bill-notes.md`. Finish
 with `python scripts/osint-cycle-ready.py --done`.
 
 Then work the oldest open job in `C:\corpus-osint-xfer\corpus-housekeeping.md`, if there is

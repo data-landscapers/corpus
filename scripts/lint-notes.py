@@ -18,7 +18,7 @@ something concrete, and that it does not say `n/a`.
 Checked on every open note in both directions, and on the shape of a note too, because the
 number, tag and date are what the closing rule and the reviews cite by hand.
 
-**Hard on `notes-for-osint.md`, advisory on `notes-for-corpus.md`.** CORPUS writes the
+**Hard on `osint-notes.md`, advisory on `corpus-notes.md`.** CORPUS writes the
 first and OSINT the second; the same ownership split `lint-preambles.py` uses, for the same
 reason — a lint that fails on a file the run may not edit is one that gets skipped. OSINT
 asserts the mirror image over its own outbox.
@@ -39,7 +39,7 @@ import sys
 SHARE = os.environ.get("CORPUS_OSINT_XFER", r"C:\corpus-osint-xfer")
 
 # (file, does a failure here fail the run). CORPUS writes its outbox; OSINT writes the other.
-FILES = [("notes-for-osint.md", True), ("notes-for-corpus.md", False)]
+FILES = [("osint-notes.md", True), ("corpus-notes.md", False)]
 
 # `**49** [ACT] (2026-08-27) - **Title.**` — the shape every note in both archives uses.
 NOTE_RE = re.compile(r"^\*\*(\d+)\*\*\s*(?:\[(\w+)\])?\s*(?:\((\d{4}-\d{2}-\d{2})\))?")

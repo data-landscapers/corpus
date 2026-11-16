@@ -178,7 +178,7 @@ def with_rows(rows, fn):
             w.writerow({k: r.get(k, "") for k in il.UNIT_FIELDS})
     old_reports, old_urls, old_raw = rr.REPORTS, rr.slug_urls, rr.raw_slugs
     # `slug_offline()` is stubbed alongside `slug_urls()` because `citable()` merges the two
-    # and the merge is what check M now reads (`notes-for-corpus` 22). Leaving it unstubbed
+    # and the merge is what check M now reads (`corpus-notes` 22). Leaving it unstubbed
     # would read the real catalogue and defeat the point of the fixture — this suite runs on a
     # machine with no vault. Empty, so `held-but-uncitable` stays uncitable: a record with no
     # `url:` and no `url_note:` is still the failure the check exists for.
@@ -267,7 +267,7 @@ check("check M accepts a title-shaped slug — 1,485 indicator citations use one
       with_rows([dict(GOOD, summary=f"a [claim]({SLUG_PARENS})")],
                 rr.check_indicator_sources)[0], 0)
 
-# The documented absence, and the boundary either side of it (`notes-for-corpus` 22). A blank
+# The documented absence, and the boundary either side of it (`corpus-notes` 22). A blank
 # `url:` on its own is still a failure — the case above — and a blank `url:` with a `url_note:`
 # is not, because `wiki/schemas.md` §4 admits it and it resolves to its catalogue entry. The
 # pair is asserted together so neither half can be relaxed into the other by a later edit.

@@ -2,12 +2,12 @@
 r"""lint-preambles.py — a channel file carries a pointer, not a copy of the rules.
 
 Strategic review task 13. The conventions governing the exchange live in one place, the
-share's `README.md` -> *Conventions*; the ones governing `messages-for-bill.md` live
+share's `README.md` -> *Conventions*; the ones governing `bill-notes.md` live
 in `CLAUDE.md` -> *Be decisive*. Every other file carries a link and its own content.
 
 Two things go wrong without a check, and both had happened. **Preambles grow**:
-`notes-for-osint.md` carried 1,150 words above its first heading and 2,585 above its first
-note, against 2,795 words of notes; `messages-for-bill.md` was 407 words of preamble over
+`osint-notes.md` carried 1,150 words above its first heading and 2,585 above its first
+note, against 2,795 words of notes; `bill-notes.md` was 407 words of preamble over
 one block. **Rules get restated**, and a rule stated twice is
 one that will eventually disagree with itself - worse than a rule stated nowhere, because
 both copies read as authoritative.
@@ -16,7 +16,7 @@ So this counts two things:
 
 - **Preamble length**, capped at PREAMBLE_CAP words, measured down to the line where that
   file's content starts. Content below the boundary is the file's own substance and is not
-  counted: `notes-for-osint.md`'s standing constraints are what the file is for.
+  counted: `osint-notes.md`'s standing constraints are what the file is for.
 - **Rules stated away from home.** Each phrase in RULES is distinctive enough to identify
   the rule it belongs to. It must appear in its home file and nowhere else. A note that is
   genuinely *about* a rule cites it by pointer.
@@ -29,7 +29,7 @@ The channel files are different: their reader is already in the folder and can f
 link.
 
 **A file the run cannot edit is reported, never failed.** `osint-housekeeping.md` is OSINT's
-register and `messages-from-bill.md` is Bill's; CORPUS reads both and fixes neither, and a
+register; CORPUS reads it and does not fix it, and a
 lint that fails on a file you may not touch is a lint that gets skipped. OSINT carries the
 same assertion over its own files from `LINT.md` #24.
 
@@ -58,7 +58,7 @@ README_CAP = 250
 # Where a file's preamble stops, stated per file because the files are not one shape. A
 # generic "first heading" rule reads `osint-housekeeping.md`'s counter as the whole preamble
 # and lets a thousand words of rules below it through unmeasured; a generic "first entry"
-# rule counts `notes-for-osint.md`'s standing constraints, which are that file's substance,
+# rule counts `osint-notes.md`'s standing constraints, which are that file's substance,
 # as preamble. Naming the boundary is shorter than a heuristic that gets both right.
 HEADING = r"^## "
 MARKER = r"^<!-- newest first:"
@@ -70,10 +70,10 @@ INDEX = r"^\| *Note *\|"
 # (name, owned, where the preamble stops) - owned files fail, the rest are advisory.
 SHARE_FILES = [
     ("README.md", True, HEADING),
-    ("notes-for-osint.md", True, HEADING),
-    ("notes-for-corpus.md", True, HEADING),
-    ("notes-for-osint-resolved.md", True, INDEX + "|" + NOTE),
-    ("notes-for-corpus-resolved.md", True, NOTE),
+    ("osint-notes.md", True, HEADING),
+    ("corpus-notes.md", True, HEADING),
+    ("osint-notes-resolved.md", True, INDEX + "|" + NOTE),
+    ("corpus-notes-resolved.md", True, NOTE),
     # OSINT's two files, on the boundaries OSINT's own LINT #24 reads. The register's used to
     # run to "## The bar", which counted the sizing table: a table that grows with every open
     # job is content, and under a 100-word cap it would breach whenever jobs were open (R91).
@@ -81,8 +81,7 @@ SHARE_FILES = [
     ("osint-housekeeping-resolved.md", False, DONE),     # OSINT's archive
     ("corpus-housekeeping.md", True, NOTE),          # CORPUS's register, measured to its first job
     ("corpus-housekeeping-resolved.md", True, DONE),  # CORPUS's archive, from 2026-11-03
-    ("messages-from-bill.md", False, HEADING),      # Bill's channel
-    ("messages-for-bill.md", True, MARKER),         # CORPUS and OSINT to Bill; CORPUS holds the preamble
+    ("bill-notes.md", True, MARKER),         # CORPUS and OSINT to Bill; CORPUS holds the preamble
 ]
 
 # A phrase, and the one file allowed to state it. Distinctive enough that a match is the
@@ -104,7 +103,7 @@ RULES = [
 # The archives quote note text verbatim, including notes that were about a rule. Rewriting
 # an archive to satisfy a lint would be falsifying it, so they are held to the preamble cap
 # and nothing else.
-NO_DUPLICATE_CHECK = {"notes-for-osint-resolved.md", "notes-for-corpus-resolved.md",
+NO_DUPLICATE_CHECK = {"osint-notes-resolved.md", "corpus-notes-resolved.md",
                       "osint-housekeeping-resolved.md"}
 
 

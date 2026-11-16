@@ -92,7 +92,7 @@ the walk merged all three and answered 08:04 for a page built on material collec
 the one document whose whole purpose is to say *today*. The clustering constant was a guess about
 OSINT's working day, and no value for it would have been right.
 
-**It is now read, not derived** *(OSINT `notes-for-corpus.md` note 13, acted on 2026-08-27)*.
+**It is now read, not derived** *(OSINT `corpus-notes.md` note 13, acted on 2026-08-27)*.
 From 2026-08-26 OSINT stamps `sweep_closed` — the moment after which nothing more could have been
 caught — on every path that admits anything to `raw/`, and `cycle-manifest.json` carries it.
 `osint_lib.sweep_closed()` reads that, the clustering is gone, and there is nothing left to infer.

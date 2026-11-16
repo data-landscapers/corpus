@@ -10,7 +10,7 @@ between the phases the one question is which did.
 **The gate comes first, and the script refuses rather than reports when it is shut.** Phase 2
 waits on two things, both read from where they are written:
 
-1. the delivery note has left `notes-for-osint.md` for the resolved file, and
+1. the delivery note has left `osint-notes.md` for the resolved file, and
 2. the mirror's `cycle-manifest.json` was written after the commit that moved it, so the
    copy of `lookups/` being read is one made after ingest finished with the batch.
 
@@ -92,7 +92,7 @@ def gate(note: str, share: str, manifest: str, resolved: float = 0.0) -> str:
     state = lint_prepared.note_state(note, read(os.path.join(share, lint_prepared.NOTES)),
                                      read(os.path.join(share, lint_prepared.NOTES_RESOLVED)))
     if state != "closed":
-        return f"notes-for-osint {note} is {state}, so the handover has not been worked"
+        return f"osint-notes {note} is {state}, so the handover has not been worked"
     moved, written = moved_at(note, share), manifest_written(manifest)
     if moved is None:
         return f"the share's history does not show when note {note} was moved to the resolved file"
@@ -121,7 +121,7 @@ def outcomes(staged: list[dict], held: dict[str, str], rejected: dict[str, str])
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description="What ingest admitted of a study's handover.")
     ap.add_argument("study")
-    ap.add_argument("--note", required=True, help="the notes-for-osint number that announced the delivery")
+    ap.add_argument("--note", required=True, help="the osint-notes number that announced the delivery")
     ap.add_argument("--share", default=status_lib.EXCHANGE)
     a = ap.parse_args(argv)
 

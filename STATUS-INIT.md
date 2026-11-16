@@ -56,7 +56,7 @@ Read its output in `prep/scope/{ISO3}/`; re-derive nothing by hand.
 ### Stage 3 — the parent assembles
 
 1. `python scripts/status-assemble.py {ISO3} --hub-reviewed {date} --intersections {n}`.
-2. **Ask for the gaps.** Every unheld source dated 2024 or later goes in one `[ACT]` note for the country in `C:\corpus-osint-xfer\notes-for-osint.md`, one URL a line. Commit and push the share at once.
+2. **Ask for the gaps.** Every unheld source dated 2024 or later goes in one `[ACT]` note for the country in `C:\corpus-osint-xfer\osint-notes.md`, one URL a line. Commit and push the share at once.
 3. **Verify**: checks A to K on the assembled file.
 4. `python scripts/status-progress.py`.
 5. Report on two lines: `{ISO3} · sections written NN of 39 · not established NN · sources cited NN · acquire lines NN`, and the run cost.

@@ -15,7 +15,7 @@ last_reviewed: 2026-10-03
 
 ## The notes drain runs first
 
-**A cycle opens by clearing what OSINT has asked for** in `C:\corpus-osint-xfer\notes-for-corpus.md`, so the fix is in tonight's build.
+**A cycle opens by clearing what OSINT has asked for** in `C:\corpus-osint-xfer\corpus-notes.md`, so the fix is in tonight's build.
 
 **Its rules are not restated here**: `CLAUDE.md` → *The exchange* and the share's `README.md` → *Conventions*. This file says only when it runs.
 
@@ -45,7 +45,7 @@ A record arriving between the drain and stage 2 is built like any other. The sou
 
 ## The run
 
-1. **Drain `notes-for-corpus.md`**, as above. Nothing open, nothing to do — go straight to 2.
+1. **Drain `corpus-notes.md`**, as above. Nothing open, nothing to do — go straight to 2.
 1a. **Run `python scripts/traffic.py pull`**, then commit the three `logs/site-analytics-*.csv` alone if they changed, subject `Analytics: <newest day>`. A failure is a log line, never a hold.
 2. **Read the sentinel.** If `logs/.build-in-progress` is present, an earlier build died unaccounted. **In a cycle this is a note, not a stop**: the run about to start is the repair — stage 4 resumes on a set difference. Say in the build line that it resumed.
 3. **Run `BUILD.md`, whole, stage 0 to the end of its ending sequence** — including the ending sequence, which is what puts the tree into the state the seam reads.

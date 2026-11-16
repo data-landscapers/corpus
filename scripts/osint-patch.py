@@ -63,7 +63,7 @@ PREPARED = os.path.join(status_lib.EXCHANGE, "prepared")
 ALLOWED_DIRS = ("scripts/", "lookups/")
 ALLOWED_FILES = ("wiki/index.md", "wiki/places-index.md", "wiki/topics-index.md")
 
-# **A handover is named by what retires it**: a housekeeping job (`102-103`), or a notes-for-osint
+# **A handover is named by what retires it**: a housekeeping job (`102-103`), or a osint-notes
 # number (`note-164`) where the work is Corpus's own request and has no job. Only OSINT issues
 # job numbers, so a note is how Corpus asks for something that has none; `lint-prepared.py`
 # resolves either name against its register.
@@ -247,7 +247,7 @@ def main() -> int:
 
     p = sub.add_parser("prepare", help="clone or reset the work clone to the mirror's HEAD")
     p.add_argument("--job", required=True, help="the housekeeping job number, e.g. 102-103, "
-                                                "or note-NNN for a notes-for-osint number")
+                                                "or note-NNN for a osint-notes number")
     p.add_argument("--refresh", action="store_true",
                    help="fetch the mirror first, where it has moved since the clone")
 

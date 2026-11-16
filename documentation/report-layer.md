@@ -99,7 +99,7 @@ Both are **closed vocabularies**, restated in each document before first use; no
 ## 4. Gaps — a ***Not held*** row is a research brief
 
 1. The run writes every ***Not held*** row to `outputs/reports/{unit}/gaps.csv` — `name`, `subject` and one line on what would settle it.
-2. **The run does not probe.** Corpus does not fetch or write to OSINT: a gap naming a document Corpus wants becomes a `notes-for-osint` note *(the acquire feed that carried these was a one-off and retired on 2026-10-01)*. Two sources disagreeing are a contradiction for OSINT, not a gap. Nothing published at all is a dated absence stated on the page it bears on.
+2. **The run does not probe.** Corpus does not fetch or write to OSINT: a gap naming a document Corpus wants becomes a `osint-notes` note *(the acquire feed that carried these was a one-off and retired on 2026-10-01)*. Two sources disagreeing are a contradiction for OSINT, not a gap. Nothing published at all is a dated absence stated on the page it bears on.
 3. **`probe_at` records the date a gap was last searched for.** Empty means not yet searched.
 4. What the feed brings back enters OSINT's `raw/` through its own ingest, and Corpus's next scan settles the gap. Nothing is written into a report from a source Corpus has not seen in `raw/`.
 5. An unfilled gap is not re-raised while its feed row stands open, and only **when that unit's base moves**.
@@ -154,7 +154,7 @@ Count the unit's sources per month across the window **before** promising a comp
 
 ## 8. Byproducts — the pass is a defect detector
 
-Resolving every claim finds duplicate slugs, artefacts with no `url:`, contradictions confirmed closed. **Emit them in the run** as numbered notes in `C:\corpus-osint-xfer\notes-for-osint.md`.
+Resolving every claim finds duplicate slugs, artefacts with no `url:`, contradictions confirmed closed. **Emit them in the run** as numbered notes in `C:\corpus-osint-xfer\osint-notes.md`.
 
 ## 9. Files and versions
 

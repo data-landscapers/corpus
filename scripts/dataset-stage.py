@@ -20,7 +20,7 @@ page's own metadata, a PDF's, or a dated path (`/2024/05/…`).
 
 Each staged file is `status-stage.py`'s format: the body verbatim from the T4 cache under a
 `URL:` line, `places` for every country whose facilities cite it, `topics: []`, and
-`sweep_batch: dataset-data-centres-batch-NN-{date}`. **Topics are left for ingest** (notes-for-corpus 50):
+`sweep_batch: dataset-data-centres-batch-NN-{date}`. **Topics are left for ingest** (corpus-notes 50):
 a blanket `infra.store` routed payments, procurement and earnings releases to the data-centre pages,
 and a wrong facet is worse than none. Batches are `new-queue/dataset-data-centres-batch-NN/`,
 40 documents each across countries (Bill, 2026-09-21: OSINT works them in 40s; T5's first round

@@ -102,7 +102,7 @@ EXCEPTIONS: dict[tuple[str, str], str] = {
     # Empty since 2026-09-06, and that is the point of it. It held two: `osint_lib.py`'s
     # fallback for a mirror carrying no manifest, and `osint-cycle-ready.py` reading the
     # whole rotation row. Both retired on the cycle manifest of review task 14 - the
-    # condition each was listed with - when `notes-for-corpus` 16 was drained. Anything
+    # condition each was listed with - when `corpus-notes` 16 was drained. Anything
     # added here is a breach with a stated end, never a permission.
 }
 

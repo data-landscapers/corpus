@@ -12,7 +12,7 @@ the trigger reads a stated close rather than an mtime, and it is the one Bill as
 name: a mid-afternoon FreeFileSync run while he is working must not start a build.
 
 **The fixture is `cycle-manifest.json`, not a rotation table** *(2026-09-06,
-`notes-for-corpus` 16)*. The trigger parsed `logs/sweep-cycle_log.md` until then and these
+`corpus-notes` 16)*. The trigger parsed `logs/sweep-cycle_log.md` until then and these
 cases built one, header and separator row included, with two of them pinning the parse
 itself: a renamed `End` column and a maximum taken over rows out of order. Both were
 defences against a Markdown table Corpus does not own and may not read. OSINT now names its

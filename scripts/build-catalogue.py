@@ -24,7 +24,7 @@ fact from an empty field.** `wiki/schemas.md` §4 admits a record with no URL wh
 `url_note:` states a dated, exhausted search — what was tried, when, and why the
 absence is final — and the record itself, usually with an `artefact:` beside it,
 *is* the source. Corpus read only the empty field and reported nine such records as
-uncitable (`notes-for-corpus` 22); carrying the note is what lets the citation path
+uncitable (`corpus-notes` 22); carrying the note is what lets the citation path
 tell a documented absence from a missing value, which is why `status_lib` sends such
 a citation to the catalogue entry rather than dropping the link. It is carried in
 `catalogue-internal.csv` and not in the download: the note is written for our own
@@ -154,7 +154,7 @@ def items(rows):
             "path": r["path"],
             "title": txt(fm.get("title")) or d["slug"],
             # OSINT's one-line English subtitle for the record (`wiki/schemas.md` §4,
-            # from 2026-09-05; `notes-for-corpus` 20). Records ingested before it carry
+            # from 2026-09-05; `corpus-notes` 20). Records ingested before it carry
             # none and the catalogue renders nothing there - a backfill over them is
             # Bill's to commission. De-wikilinked like every other free-text field.
             "catalogue_hero": txt(fm.get("catalogue_hero")),

@@ -43,7 +43,7 @@ ingest's code; one matching, or a URL in, another study batch still on the share
 admitted document; a looser match caught few more and began to catch admitted ones. The rest of
 ingest's screen is judgement, and is the searcher's (`searcher-brief.md` → *Screen*).
 
-**Before a decision is staged, it is checked against its own page** *(`notes-for-corpus` 86)*.
+**Before a decision is staged, it is checked against its own page** *(`corpus-notes` 86)*.
 The body is copied by `k`, but the title, publisher, date and fact are the searcher's, and twice
 on 2026-11-11 (justice TGO 6/7, TCD 2/3; fibrebackbone MDG 6/7 before it) two decisions came back
 each carrying the other's. `crossed` stops a pair whose titles each fit the other's fetched page
@@ -53,7 +53,7 @@ a one-sided test also caught documents in a numbered series, so it stops pairs o
 **`ready`** writes `BRIEF.md` with its `Closed by:` line and then `READY`, last. OSINT's
 cycle pulls a folder that carries `READY`, so this is the delivery and is a step of its own:
 it is run after `lint-staged-queue.py` has been read and Bill has the count. **The nightly
-rebuild delivers without either** *(Bill, 2026-10-17; `notes-for-osint` 237 is the standing
+rebuild delivers without either** *(Bill, 2026-10-17; `osint-notes` 237 is the standing
 announcement)*: `--rebuild` writes `Closed by: the pull`, which `lint-prepared.py` reads as
 spent once OSINT's pull has taken `READY` away.
 
@@ -529,8 +529,8 @@ def ready(study: dict, study_id: str, share: str, note: str, lint: str, rebuild:
              f"CORPUS reviewed what `raw/` holds on the study's sub-indicators across 54 countries, "
              f"searched for what was missing and selected these {len(files)} documents.", "",
              ("**Closed by:** the pull. Delivered by CORPUS's nightly maturity rebuild under the "
-              "standing notes-for-osint 237; spent once OSINT's pull has removed `READY`."
-              if rebuild else f"**Closed by:** notes-for-osint {note}"), "",
+              "standing osint-notes 237; spent once OSINT's pull has removed `READY`."
+              if rebuild else f"**Closed by:** osint-notes {note}"), "",
              "**Selection rule.** A fetched document is here when its body states a dated fact, on "
              "an aspect the study had no dated fact for, that nothing found states. There is no "
              "numeric cap. Bodies are verbatim from the fetch, copied by script.", "",
@@ -552,7 +552,7 @@ def main(argv=None) -> int:
     ap.add_argument("command", choices=("fetch", "refetch", "stage", "ready"))
     ap.add_argument("iso", nargs="?")
     ap.add_argument("--dry", action="store_true")
-    ap.add_argument("--note", help="ready: the notes-for-osint number announcing the delivery")
+    ap.add_argument("--note", help="ready: the osint-notes number announcing the delivery")
     ap.add_argument("--rebuild", action="store_true", help="ready: the nightly rebuild's delivery, no note of its own")
     ap.add_argument("--lint", default="", help="ready: the staging lint's result line, for the brief")
     ap.add_argument("--share", default=status_lib.EXCHANGE)

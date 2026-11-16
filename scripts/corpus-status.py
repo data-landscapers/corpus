@@ -8,11 +8,11 @@ only; nothing of OSINT's beyond the mirror freshness lint already reads.
 
 **The tally is the queues** — work waiting to start, each with who clears it:
 
-- **messages**     open blocks in the share's `messages-for-bill.md`. Bill clears.
+- **messages**     open blocks in the share's `bill-notes.md`. Bill clears.
 - **fetch**        unstruck lines in the share's `fetch-list.md`, documents only Bill's browser
                    can get. Bill clears.
-- **corpus-notes** open notes in `notes-for-corpus.md`, OSINT's asks of Corpus. Corpus clears.
-- **osint-notes**  open notes in `notes-for-osint.md`. OSINT clears.
+- **corpus-notes** open notes in `corpus-notes.md`, OSINT's asks of Corpus. Corpus clears.
+- **osint-notes**  open notes in `osint-notes.md`. OSINT clears.
 - **corpus-housekeeping** open jobs in `corpus-housekeeping.md`. A `/poll` cycle works one a night.
 - **osint-housekeeping** open jobs in the share's `osint-housekeeping.md`. OSINT clears.
 - **prepared**     folders in the share's `prepared/`, handovers awaiting OSINT's pull.
@@ -103,7 +103,7 @@ def open_notes(name: str) -> int:
 
 
 def messages() -> int:
-    text = read(os.path.join(SHARE, "messages-for-bill.md"))
+    text = read(os.path.join(SHARE, "bill-notes.md"))
     body = text.split(MARKER, 1)[1] if MARKER in text else ""
     return len(re.findall(r"^## ", body, re.M))
 
@@ -198,8 +198,8 @@ def tally() -> str:
     counts = [
         ("messages", messages()),
         ("fetch", len(NUMBERED.findall(read(os.path.join(SHARE, "fetch-list.md"))))),
-        ("corpus-notes", open_notes("notes-for-corpus.md")),
-        ("osint-notes", open_notes("notes-for-osint.md")),
+        ("corpus-notes", open_notes("corpus-notes.md")),
+        ("osint-notes", open_notes("osint-notes.md")),
         ("corpus-housekeeping", len(JOB.findall(read(os.path.join(SHARE, "corpus-housekeeping.md"))))),
         ("osint-housekeeping", len(NUMBERED.findall(
             read(os.path.join(SHARE, "osint-housekeeping.md")).split("## Jobs", 1)[-1]))),

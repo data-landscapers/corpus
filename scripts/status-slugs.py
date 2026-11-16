@@ -17,7 +17,7 @@ having no URL**, which is a different answer and now says so.
 `wiki/schemas.md` §4 admits a record whose `url:` is blank where `url_note:` states a dated,
 exhausted search: what was tried, when, and why the absence is final. The record itself, usually
 with an `artefact:` file beside it, is then the source. Reading the empty field alone reported
-nine of these as dead and dropped the facts they carried (`notes-for-corpus` 22). Such a slug now
+nine of these as dead and dropped the facts they carried (`corpus-notes` 22). Such a slug now
 comes back with `url` set to its entry in Corpus's published catalogue, `held_offline: true`, and
 the `url_note` and `artefact` themselves, so a drafter can cite it and see what stands behind it.
 """
