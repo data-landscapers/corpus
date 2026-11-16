@@ -46,6 +46,12 @@ reads is that Corpus should be loud about a mirror it cannot date, not resourcef
   - **Stale** — the newest of the three is past `--max-age-hours` (default 72, the same floor
     `lint-mirror-freshness.py` puts under the backup). 70 minutes behind is the normal state
     between cycles; 70 hours is the state nothing would otherwise report.
+  - **Collection stalled** — the last sweep close is past `--max-sweep-hours` (default 26)
+    while other clocks still move *(2026-11-16)*. OSINT sweeps nightly, so a day and two hours
+    without a close is a missed night. On 15 November Exa failed, no sweep closed, the mirror
+    HEAD kept moving on OSINT's other commits, and this lint read *ok* off the newest clock
+    while the bulletin published an empty window. The newest clock answers "is the mirror
+    synced"; only the sweep's own clock answers "is anything being collected".
   - **Regressed** — the mirror's newest close is *older* than the close Corpus has already
     built, per the `done` watermark in `logs/.osint-cycle-seen`. A mirror that goes backwards
     is not a late sync, and it passes the age test whenever the rollback is recent.
@@ -63,7 +69,7 @@ call is `log -1`, which reads.
 this would be stopped by OSINT's schedule rather than by a defect. `BUILD.md` stage 0 runs it
 and states what it found; the ceiling is where a quiet stretch stops being plausible.
 
-Usage:  python scripts/lint-osint-freshness.py [--quiet] [--max-age-hours N]
+Usage:  python scripts/lint-osint-freshness.py [--quiet] [--max-age-hours N] [--max-sweep-hours N]
 Exit:   0 fresh, 1 stale or regressed, 2 nothing readable to judge against.
 """
 from __future__ import annotations
@@ -85,6 +91,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WATERMARK = os.path.join(ROOT, "logs", ".osint-cycle-seen")
 
 DEFAULT_MAX_AGE_HOURS = 72
+DEFAULT_MAX_SWEEP_HOURS = 26
 
 
 def head_committed() -> dt.datetime | None:
@@ -148,6 +155,9 @@ def main() -> int:
     ap.add_argument("--quiet", action="store_true", help="print nothing when fresh")
     ap.add_argument("--max-age-hours", type=float, default=DEFAULT_MAX_AGE_HOURS,
                     help=f"stale beyond this many hours (default {DEFAULT_MAX_AGE_HOURS})")
+    ap.add_argument("--max-sweep-hours", type=float, default=DEFAULT_MAX_SWEEP_HOURS,
+                    help=f"collection stalled beyond this many hours since the last sweep close "
+                         f"(default {DEFAULT_MAX_SWEEP_HOURS})")
     args = ap.parse_args()
 
     now = dt.datetime.now()
@@ -188,6 +198,12 @@ def main() -> int:
                       f"{args.max_age_hours:g}h ceiling - Corpus would compile, report and "
                       f"publish from evidence that old without saying so")
 
+    swept = clocks["last sweep close"] or clocks["last close"]
+    if swept is not None and (now - swept).total_seconds() / 3600 > args.max_sweep_hours:
+        faults.append(f"no sweep has closed for {humanise(now - swept)} (last {swept:%Y-%m-%d %H:%M}), "
+                      f"past the {args.max_sweep_hours:g}h ceiling - OSINT has missed a night's "
+                      f"collection, so the bulletin and the news it builds on have stopped")
+
     built = built_watermark()
     close = clocks["last close"]
     if built is not None and close is not None and close < built:
@@ -200,12 +216,15 @@ def main() -> int:
     lines += [f"  - {name}: not readable" for name, when in clocks.items() if when is None]
 
     if faults:
-        print(f"osint freshness: STALE - newest signal {newest_name} "
-              f"{newest:%Y-%m-%d %H:%M} ({humanise(age)} ago)")
+        print(f"osint freshness: STALE - {faults[0].split(' - ')[0]}")
         for f in faults:
             print(f"  - {f}")
-        print("  Repair runs on OSINT's machine: `FreeFileSync.exe SyncSettings.ffs_batch` "
-              "(SWEEP-CYCLE.md -> Mirror). C:\\OSINT is read-only from here.")
+        if any(f.startswith("no sweep has closed") for f in faults):
+            print("  The repair is OSINT's sweep, not the mirror: the night's SWEEP-CYCLE did "
+                  "not close. C:\\OSINT is read-only from here.")
+        else:
+            print("  Repair runs on OSINT's machine: `FreeFileSync.exe SyncSettings.ffs_batch` "
+                  "(SWEEP-CYCLE.md -> Mirror). C:\\OSINT is read-only from here.")
         print("  Clocks read:")
         for ln in lines:
             print(f"  " + ln.lstrip())

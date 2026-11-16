@@ -158,7 +158,7 @@ def gates() -> list[str]:
     code, fr = py("lint-osint-freshness.py")
     if code:
         out.append(f"OSINT mirror {'stale' if code == 1 else 'unreadable'} — "
-                   f"{fr.splitlines()[0] if fr else ''}")
+                   f"{next((l for l in fr.splitlines() if 'reading' not in l), '') if fr else ''}")
     code, mf = py("lint-mirror-freshness.py")
     if code:
         out.append(f"Corpus backup {'stale' if code == 1 else 'never recorded'} — "

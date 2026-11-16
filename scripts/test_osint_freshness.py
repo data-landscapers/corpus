@@ -104,11 +104,20 @@ CASES: list[tuple[str, float | None, float | None, float | None, float | None, f
     ),
     (
         "old, but inside a raised ceiling",
-        24 * 3.5, 24 * 3.5, 24 * 3.5, 24 * 3.5, 24 * 3.5, ["--max-age-hours", "200"], 0,
+        24 * 3.5, 24 * 3.5, 24 * 3.5, 24 * 3.5, 24 * 3.5,
+        ["--max-age-hours", "200", "--max-sweep-hours", "200"], 0,
     ),
     (
-        "HEAD alone is fresh — an OSINT commit outside a cycle still counts",
-        24 * 5, 24 * 5, 24 * 5, 1.0, 24 * 5, [], 0,
+        "HEAD alone is fresh — the mirror is synced, but no sweep closed: stalled (2026-11-16)",
+        24 * 5, 24 * 5, 24 * 5, 1.0, 24 * 5, [], 1,
+    ),
+    (
+        "HEAD fresh and the sweep a night old — inside the sweep ceiling",
+        20.0, 20.5, 19.5, 1.0, 19.5, [], 0,
+    ),
+    (
+        "the sweep a day and three hours old, HEAD fresh — stalled",
+        27.0, 27.5, 26.5, 1.0, 26.5, [], 1,
     ),
     (
         "the manifest alone is fresh, git unreadable",
