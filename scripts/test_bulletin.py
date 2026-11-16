@@ -364,6 +364,18 @@ def case_the_evening_window_is_today_alone(tmp):
     assert "on that day" in doc and " or " not in doc.split("# Bulletin")[1][:200]
 
 
+def case_a_window_after_collection_stopped_follows_the_close(tmp):
+    """A window opening after collection stopped is empty by construction *(2026-11-16)*: the
+    cycle of 16 November ran at 00:18 over a sweep closed at 23:44 on the 14th and published an
+    empty bulletin. The window follows the close; a close inside the clock's window changes nothing."""
+    import datetime as _dt
+    run = _dt.date(2026, 11, 16)
+    assert bulletin.window(run, 0, _dt.datetime(2026, 11, 14, 23, 44)) == ("2026-11-14", "2026-11-14")
+    assert bulletin.window(run, 0, _dt.datetime(2026, 11, 14, 9, 0)) == ("2026-11-13", "2026-11-14")
+    assert bulletin.window(run, 0, _dt.datetime(2026, 11, 15, 23, 44)) == ("2026-11-15", "2026-11-16")
+    assert bulletin.window(run, 20, _dt.datetime(2026, 11, 15, 23, 44)) == ("2026-11-15", "2026-11-15")
+
+
 def case_a_missing_summary_stops_the_run(tmp):
     """`--assemble` refuses rather than publishing an item with nothing under it."""
     b = Bench(tmp, [row("has", TODAY, "KEN", "gov.policy")])
@@ -729,6 +741,7 @@ CASES = [
     ("an empty window is a finished bulletin", case_an_empty_window_is_a_finished_bulletin),
     ("the byline states the days in hand", case_the_byline_states_the_days_in_hand),
     ("the evening window is today alone", case_the_evening_window_is_today_alone),
+    ("a window after collection stopped follows the close", case_a_window_after_collection_stopped_follows_the_close),
     ("a missing summary stops the run", case_a_missing_summary_stops_the_run),
     ("nothing selected is ever dropped", case_nothing_selected_is_ever_dropped),
     ("out-of-remit records are named, not dropped", case_out_of_remit_records_are_named_not_dropped),

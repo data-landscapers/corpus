@@ -230,12 +230,32 @@ def topic_order() -> list[str]:
 
 # ── the window ─────────────────────────────────────────────────────
 
-def window(run_date: date, hour: int = 0) -> tuple[str, str]:
+def clock_window(run_date: date, hour: int = 0) -> tuple[str, str]:
     """`(start, end)` — the run's date and the day before it, or the run's date alone from
     `TODAY_ONLY_FROM`. The default hour is the small-hours build's."""
     if hour >= TODAY_ONLY_FROM:
         return run_date.isoformat(), run_date.isoformat()
     return (run_date - timedelta(days=1)).isoformat(), run_date.isoformat()
+
+
+def window(run_date: date, hour: int = 0, stop: datetime | None = None) -> tuple[str, str]:
+    """The clock's window, unless collection stopped before it opens.
+
+    **A window that opens after collection stopped is empty by construction** *(2026-11-16)*.
+    The cycle of 16 November ran at 00:18 over a sweep closed at 23:44 on the 14th, so the
+    clock gave 15 and 16 November, nothing could have been caught in either, and the page
+    published an empty bulletin over a day that had news. Where OSINT's stated close falls
+    before the window's first day, the window is taken from the close by the same rule.
+    `stop` is passed by tests; otherwise it is read from the manifest."""
+    start, end = clock_window(run_date, hour)
+    if stop is None:
+        try:
+            stop, _ = osint_lib.collected_to()
+        except Exception:
+            stop = None
+    if stop is not None and stop.date().isoformat() < start:
+        return clock_window(stop.date(), stop.hour)
+    return start, end
 
 
 def facets(value: str) -> list[str]:
