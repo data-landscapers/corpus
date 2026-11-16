@@ -279,7 +279,9 @@ dpi.id--registration-of-entire-population,Movement,"A [free national identity ca
 
 Free issuance and physical collection at an embassy are the two access designs that matter most in a small island state with a large diaspora, and both are recorded here.
 
-No issuance count, coverage figure or campaign end date is published.",STP-dpi.id-bi-para-todos,,,,,,,,,,,
+No issuance count, coverage figure or campaign end date is published.
+
+2026-11-13 - the registry directorate [handed over biometric enrolment kits for five embassies, with installation from December 2026](2026-11-13-stp-glebatv-biometric-kits-five-embassies-diaspora-id).",STP-dpi.id-bi-para-todos|STP-dpi.id-diaspora-biometric-enrolment,,,,,,,,,,,
 dpi.id--national-maintenance-of-id-and-credentials-systems,Movement,A [passport issuance system](2026-04-15-stp-lanca-sistema-emissao-passaportes-sep-2-0) was launched in April 2026 under a four-year contract with a foreign state mint.,"The system launched under a four-year contract with another country's national printing and minting house ([system](2026-04-15-stp-lanca-sistema-emissao-passaportes-sep-2-0)).
 
 The predecessor system's status is not established in anything held, so what changed is unstated. Passport personalisation held under contract with a foreign state institution is a sovereignty arrangement the record states and does not examine.",STP-dpi.id-passport-sep2,,,,,,,,,2026-08-31,0,Only a passport system is held; nothing on who operates or maintains the ID platform
@@ -407,7 +409,11 @@ That is analytic use of the system rather than a system upgrade or rollout ([dis
 
 The platform itself has run since December 2019 with a tracker module from 2020 ([platform](2020-01-01-sao-tome-ministerio-saude-sistema-informacao-saude-dhis2)), and was put out for independent evaluation in April 2026 alongside the supply and facilities systems ([evaluation](2026-04-29-sao-tome-pnud-avaliacao-sistema-informacao-saude)).
 
-2022-09-01 - the national health development plan described [the single clinical process in a pilot phase at the central hospital and the Agua Grande health area](2022-09-01-stp-national-health-development-plan-sao-tome-and-principe-2023-2032-more).",STP-dpi.mis-dhis2|STP-dpi.mis-single-clinical-process,3,STP-dpi.mis-dhis2,,,,,,,2026-08-31,0,National DHIS2 in service; other health systems separate
+2022-09-01 - the national health development plan described [the single clinical process in a pilot phase at the central hospital and the Agua Grande health area](2022-09-01-stp-national-health-development-plan-sao-tome-and-principe-2023-2032-more).
+
+2024-12 - [the national reference hospital was computerised, with 10 services on a network donated by the telecom operator](2024-12-09-stp-primeiro-ministro-insiste-na-necessidade-de-construcao-de-um-novo-hosp).
+
+2026-06-03 - the health ministry [launched a National Digital Health Strategy 2026-2031 and a digital health cybersecurity manual](2026-06-03-stp-milestone-for-digital-health-in-sao-tome-and-principe); the strategy text has not been found.",STP-dpi.mis-dhis2|STP-dpi.mis-single-clinical-process|STP-dpi.mis-ayres-de-menezes-hospital-network|STP-dpi.mis-digital-health-strategy-2026-2031,3,STP-dpi.mis-dhis2,,,,,,,2026-08-31,0,National DHIS2 in service; other health systems separate
 dpi.mis--education,Movement,"The school management system is still at implementation stage, with [technical assistance tendered in April 2026](2026-04-01-sao-tome-afap-consultoria-implementacao-sige) and [supervision dashboards tendered in May](2026-05-07-sao-tome-unicef-dashboards-supervisao-educativa).","2026 — a [US$350,000 grant request to the Global Partnership for Education lists the acquisition of a human resources management system for teachers](2026-05-01-stp-solicitacao-de-financiamento-da-subvencao-para-o-reforco-das-capacidad); no system has been found in operation.
 
 The completion report on the education project records the starting position - no reliable system linking the central ministry with decentralised structures across geographically dispersed schools - and the design, a system housed at the planning directorate with computer equipment installed centrally and a computer for data management in each primary school ([report](2019-12-24-worldbank-sao-tome-quality-education-for-all-icr-emis-sige)).

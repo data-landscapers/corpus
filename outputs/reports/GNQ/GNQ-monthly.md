@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Oct – Nov 2026
-compiled: 2026-11-13
-period: 2026-10-01 to 2026-11-13
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: GNQ
-ledger_rows: 18
+ledger_rows: 19
 not_held: 6
-record: 59fb1dcd6d7c
+record: bd7111b8f0bf
 ---
 
 # News, Oct – Nov 2026
@@ -351,6 +351,20 @@ Equatorial Guinea scored 0.54 out of 4 on the Africa AI Governance Index 2026, i
 **[INEGE avanza en la validación técnica de los documentos del Quinto Censo de Población y del Primer Censo Agropecuario](https://www.guineaecuatorialpress.com/noticias/inege_avanza_en_la_validacion_tecnica_de_los_documentos_del_quinto_censo_de_poblacion_y_del_primer_censo_agropecuario)** — Página Oficial del Gobierno de la República de Guinea Ecuatorial, 26 October 2026
 
 Equatorial Guinea's statistics institute opened a technical validation workshop on 26 October 2026 with UNDP and FAO. Participants review the methods and data-collection tools for the fifth population census and the first agricultural census. It follows a strategy workshop held on 27-29 July 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CEMAC informal cross-border trade survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinea Ecuatorial impulsa la estadística del comercio fronterizo informal](https://mofuen.com/2026/11/13/guinea-ecuatorial-impulsa-la-estadistica-del-comercio-fronterizo-informal/)** — Periódico Digital Mofueñ, 13 November 2026
+
+World Bank-funded CEMAC survey of unrecorded land-border trade with Cameroon and Gabon; enumerators trained.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: SEN
-ledger_rows: 51
+ledger_rows: 52
 not_held: 2
-record: 129a35fafe21
+record: 1459c5c68be2
 ---
 
 # News, Oct – Nov 2026
@@ -209,6 +209,14 @@ Senegal's Special Cybersecurity Division detained Sen TV columnist Mamadou 'Momo
 **[Sénégal : le numérique et la Poste au cœur du budget 2027 des Télécommunications](https://fr.apanews.net/technologies/senegal-le-numerique-et-la-poste-au-coeur-du-budget-2027/)** — APAnews, 13 November 2026
 
 Senegal's Ministry of Telecommunications and Digital Affairs presented a 2027 budget of FCFA 64.97 billion in payment credits. It presented it to the National Assembly finance committee on 13 November 2026. It said about FCFA 37 billion comes from partners including the World Bank, KfW and BOAD. It said FCFA 20 billion in commitments goes to digital identity, interconnection of public services and dematerialisation.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senegal MPs reject 2027 digital ministry budget](https://www.socialnetlink.org/2026/11/15/senegal-2027-budget-telecommunications-digital-ministry-mps/)** — Socialnetlink, 15 November 2026
+
+Committees of Senegal's National Assembly declined on 13 November 2026 to approve the 2027 draft budget of the Ministry of Telecommunications and Digital Affairs. MPs questioned the consistency of the forecasts behind FCFA 64.97 billion in payment appropriations. A committee rejection is not final, and the bill continues through parliamentary procedure.
 
 </div>
 
@@ -529,6 +537,20 @@ Senegal launched a physical and biometric audit of local-government staff on 10 
 **[Bourses de sécurité familiale : le paiement des allocations officiellement relancé après deux ans](https://aps.sn/bourses-de-securite-familiale-le-paiement-des-allocations-officiellement-relance-apres-deux-ans/)** — Agence de Presse Sénégalaise, 1 October 2026
 
 Senegal has resumed its family security cash grants after a two-year interruption, paying CFA140,000 per household for 2026 through mobile-money operators. The number of beneficiaries was increased, but the new total was not given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Shared patient record (dossier patient partage)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Moves to Break Health Data Silos, Joining an Africa-Wide Interoperability Drive](https://www.ecofinagency.com/news-digital/0510-59476-nigeria-builds-national-digital-health-architecture-to-connect-fragmented-systems)** — Ecofin Agency, 5 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+National Digital Health Architecture endorsed by National Council on Health; HIE, shared record, three registries.
 
 </div>
 

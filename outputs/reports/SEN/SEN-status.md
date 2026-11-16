@@ -1,12 +1,12 @@
 ---
 title: Senegal: status report
-compiled: 2026-11-14
+compiled: 2026-11-16
 place: SEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 13
-sources_cited: 304
+sources_cited: 306
 sections_written: 39
 not_established: 2
 acquire_lines: 49
@@ -226,7 +226,7 @@ In July 2026 the social-protection ministry found that its five main programmes 
 
 In 2025 the World Bank found the tax administration [running off-the-shelf software not connected to other government systems](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Customs [runs its own package, with all three connection and integration measures absent](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The financial management information system was still in implementation and covers central government only](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The treasury set 2 January 2026 for its new integrated system to carry all state accounting](https://aps.sn/tresor-public-vers-un-systeme-integre-de-gestion-financiere-et-comptable-operationnel-a-partir-de-janvier-2026-dg/) (August 2025). [The social insurance and pension systems do not interoperate with other government systems](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [SENTAX replaced ETAX for large-enterprise taxpayers and became mandatory for their declarations and payments from 1 September 2026](https://www.dgid.sn/storage/uploads/communique-sentax-1790185473.pdf). [It opened to the Dakar medium-enterprise centres from 1 October 2026](https://www.dgid.sn/sentax).
 
-[In 2025 a study of four districts found maternal and child health registers poorly kept, with few providers trained to record data in DHIS2](https://link.springer.com/article/10.1186/s12889-024-21241-x). [A World Bank-funded project is extending electronic patient records to six more regions](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-adopts-digital-health-policy-drafts-data-law) (April 2025). The health ministry's policy letter makes [the shared single patient record the flagship of its digitalisation programme](https://www.sante.gouv.sn/sites/default/files/Lettre%20de%20Politique%20Sectorielle%20du%20MSAS%202025-2029%20Signe%CC%81.pdf). [In 2024 stakeholders found the SIMEN education information system well organised but incomplete and late from some sub-sectors](https://developmentgateway.org/wp-content/uploads/2024/06/WHITEpaperENG809.pdf).
+[In 2025 a study of four districts found maternal and child health registers poorly kept, with few providers trained to record data in DHIS2](https://link.springer.com/article/10.1186/s12889-024-21241-x). [A World Bank-funded project is extending electronic patient records to six more regions](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-adopts-digital-health-policy-drafts-data-law) (April 2025). The health ministry's policy letter makes [the shared single patient record the flagship of its digitalisation programme](https://www.sante.gouv.sn/sites/default/files/Lettre%20de%20Politique%20Sectorielle%20du%20MSAS%202025-2029%20Signe%CC%81.pdf). [In April 2025 two hospitals, a health centre and a health post used it, with more than 127,000 patients registered](https://aps.sn/digitalisation-du-systeme-de-sante-le-gouvernement-engage-six-projets-phares/). [In October 2026 the ministry was preparing a first phase in 51 facilities](https://www.ecofinagency.com/news-digital/0510-59476-nigeria-builds-national-digital-health-architecture-to-connect-fragmented-systems). [In 2024 stakeholders found the SIMEN education information system well organised but incomplete and late from some sub-sectors](https://developmentgateway.org/wp-content/uploads/2024/06/WHITEpaperENG809.pdf).
 
 [In October 2026 the Pikine-Guédiawaye academy inspectorate ordered schools to keep their data current on PLANETE 3, the education ministry's school management platform](https://www.pressafrik.com/PLANETE-3-l-Inspection-d-Academie-de-Pikine-Guediawaye-appelle-a-une-mise-a-jour-rigoureuse-des-donnees_a312980.html).
 

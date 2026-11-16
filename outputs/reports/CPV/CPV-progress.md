@@ -1,12 +1,12 @@
 ---
 title: Cape Verde — progress report, November 2025 – November 2026
-compiled: 2026-11-14
-period: 2025-11-01 to 2026-11-14
+compiled: 2026-11-16
+period: 2025-11-01 to 2026-11-16
 place: CPV
-ledger_rows: 293
+ledger_rows: 295
 not_held: 22
 indicators: 115
-record: 801946f1829a
+record: 9e11c7d8f6b2
 ---
 
 # Cape Verde: progress report, November 2025 – November 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-11-01 to 2026-11-14.*
+*The period is 2025-11-01 to 2026-11-16.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 

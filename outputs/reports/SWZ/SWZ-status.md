@@ -1,12 +1,12 @@
 ---
 title: Eswatini: status report
-compiled: 2026-11-14
+compiled: 2026-11-16
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 236
+sources_cited: 237
 sections_written: 39
 not_established: 1
 acquire_lines: 57
@@ -225,7 +225,7 @@ The [World Bank-financed Digital Eswatini project was approved in 2025](https://
 
 [In May 2026 the Ministry of Finance ran IBM mainframe software past end-of-life and without vendor support](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/). [The 2026 budget speech allocated E35 million to upgrade the government mainframe, citing frequent downtime](https://parliament.gov.sz/media/speeches/budget/2026_27%20FY%20Budget_Speech_2026%20FINAL.pdf).
 
-[In April 2026 the Client Management Information System, a government-owned electronic medical record, was live at 233 sites, 73% of health facilities](https://datafiproject.substack.com/p/even-on-the-rainiest-afternoons-in). [It opens a patient's record on a unique identity number alone](https://datafiproject.substack.com/p/even-on-the-rainiest-afternoons-in). [In February 2026 community data from Rural Health Motivators was moving onto a separate electronic Community-Based Health Information System](https://www.worldbank.org/en/news/feature/2026/02/23/from-paper-to-pixels-driving-the-digital-transformation-of-community-health-services-in-eswatini). [On 18 October 2026 the health minister was shown an electronic logistics system giving clinics their stock levels, interoperable with the client system](https://eswatinipositivenews.online/eswatini-turns-to-digital-health-systems-to-improve-healthcare-delivery/). [In 2024 education ran a DHIS2-based management information system in place of paper returns](https://education.dhis2.org/implementation/eswatini/). [A learner-record mobile application launched in March 2024 had reached around 60 schools by October 2024](https://education.dhis2.org/eswatini-launches-semis/).
+[In April 2026 the Client Management Information System, a government-owned electronic medical record, was live at 233 sites, 73% of health facilities](https://datafiproject.substack.com/p/even-on-the-rainiest-afternoons-in). [It opens a patient's record on a unique identity number alone](https://datafiproject.substack.com/p/even-on-the-rainiest-afternoons-in). [An inpatient module was due at Nhlangano in November 2026](https://www.linkedin.com/posts/hmis-eswatini_cmis-digitalhealth-ehealth-activity-7524018051923750913-Gq_z). [In February 2026 community data from Rural Health Motivators was moving onto a separate electronic Community-Based Health Information System](https://www.worldbank.org/en/news/feature/2026/02/23/from-paper-to-pixels-driving-the-digital-transformation-of-community-health-services-in-eswatini). [On 18 October 2026 the minister was shown a logistics system giving clinics their stock levels](https://eswatinipositivenews.online/eswatini-turns-to-digital-health-systems-to-improve-healthcare-delivery/). [In 2024 education ran a DHIS2-based management information system in place of paper returns](https://education.dhis2.org/implementation/eswatini/). [A learner-record mobile application launched in March 2024 had reached around 60 schools by October 2024](https://education.dhis2.org/eswatini-launches-semis/).
 
 [In 2024 online filing was mandatory for all income taxpayers through the Revenue Service's e-Tax system](https://www.ictd.ac/publication/mandating-digital-tax-tools-response-covid-evidence-eswatini/). [In 2025 real-time fiscalisation of retail VAT data was being introduced against an E4.4 billion tax gap](https://eswatinipositivenews.online/ers-intensifies-drive-to-close-e4-4-billion-tax-gap-through-technology-and-collaboration/). [Only the customs system exchanged data with other government systems in 2025](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 

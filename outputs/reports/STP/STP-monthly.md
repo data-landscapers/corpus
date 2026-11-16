@@ -1,11 +1,11 @@
 ---
 title: Sao Tome and Principe — News, Oct – Nov 2026
-compiled: 2026-11-11
-period: 2026-10-01 to 2026-11-11
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: STP
-ledger_rows: 6
+ledger_rows: 7
 not_held: 5
-record: c21068b7861d
+record: 222562737f29
 ---
 
 # News, Oct – Nov 2026
@@ -77,8 +77,26 @@ A second account of the ARTAC closing session, adding that São Tomé and Prínc
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Digital Identity and CRVS
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric identity enrolment at five embassies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Serviços de Identificação Civil vão ser emitidos em cinco embaixadas de STP na diáspora](https://www.glebatv.st/todas-noticias/servicos-de-identificacao-civil-vao-ser-emitidos-em-cinco-embaixadas-de-stp-na-diaspora)** — Gleba TV, 13 November 2026
+
+Kits for Gabon, Cabo Verde, Equatorial Guinea, Morocco, China; installation from December; STP Digital, World Bank.
+
+</div>
+
+</div>
 
 ### Other GovTech and e-Gov
 

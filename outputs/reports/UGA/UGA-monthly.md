@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: UGA
-ledger_rows: 52
+ledger_rows: 54
 not_held: 11
-record: 3eefa35c0ccd
+record: deca6bd9d7d1
 ---
 
 # News, Oct – Nov 2026
@@ -143,6 +143,14 @@ Kampala traders and the Uganda Communications Commission agreed to form a joint 
 **[Government Seeks Two Weeks to Resolve Wi-Fi Hotspot Licensing Dispute](https://www.ugandaradionetwork.net/story/government-seeks-two-weeks-to-resolve-wi-fi-hotspot-licensing-dispute)** — Uganda Radio Network, 28 October 2026
 
 Uganda's ICT minister told Parliament the government needs two weeks to settle a licensing dispute over local Wi-Fi hotspot operators, it was reported on 28 October 2026. The ministry is consulting telecoms firms, internet providers, regulators and operators on a legal framework. The report notes concern that compliance costs could force small operators out.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Over 4500 WiFi providers rush to register for licensing as deadline nears](https://www.pulse.ug/story/uganda-wifi-providers-licensing-ucc-deadline-2026111517375025991)** — Pulse Uganda, 15 November 2026
+
+Over 4,500 public Wi-Fi operators have sought community internet licences or agent status with licensed providers, the Uganda Communications Commission said. It extended the deadline for unlicensed operators after they petitioned Parliament. It promised licences within 14 days of a complete application.
 
 </div>
 
@@ -519,6 +527,20 @@ Uganda Revenue Authority had linked 2.13 million of its 5.41 million individual 
 **[NIN is TIN](https://ura.go.ug/en/nin-is-tin/)** — Uganda Revenue Authority, 10 November 2026
 
 The Uganda Revenue Authority explains that the National Identification Number now serves as the Tax Identification Number for individual taxpayers. Cabinet approved the change on 31 August 2026, following an amendment to the Tax Procedures Code Act in 2025/26. The authority says separate identifiers had left duplicate and fragmented taxpayer records.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bank verification of borrowers' marital status with NIRA</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Matrimonial property loan disputes: Banks turn to NIRA](https://www.monitor.co.ug/uganda/news/national/matrimonial-property-loan-disputes-banks-turn-to-nira-5669142)** — Daily Monitor, 13 November 2026
+
+Uganda Bankers Association-NIRA plan to check marital status before lending against matrimonial property.
 
 </div>
 
@@ -993,6 +1015,20 @@ Summarised under [Regional collaboration](#regional-collaboration).
 **[Technical Assistance for Capacity Building in Gender-Disaggregated Data Collection on Women's Entrepreneurship and Digitalization and Development of a Women's Digital Entrepreneurship Barometer Methodology (TZA25001-10032)](https://www.enabel.be/app/uploads/2026/11/TZA25001-10032_Tender-Specifications.pdf)** — Enabel, 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
 Enabel published tender TZA25001-10032 on 6 November 2026 for technical assistance on gender-disaggregated data on women's entrepreneurship and digitalisation. The work includes a women's digital entrepreneurship barometer methodology for Tanzania and Uganda, under a 730-day contract. Bids close on 27 November 2026 at 16:00 East Africa Time.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UBOS Service Delivery Standards</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UBOS Unveils New Data Strategy to Support Uganda's Tenfold Economic Growth Ambition](https://nilepost.co.ug/news/387592/ubos-unveils-new-data-strategy-to-support-ugandas-tenfold-economic-growth-ambition)** — Nile Post, 15 November 2026
+
+The Uganda Bureau of Statistics launched its Fourth Plan for National Statistical Development, Strategic Plan IV and new Service Delivery Standards during Africa Statistics Week 2026. The standards set response times for users' data requests. State Minister Lugoloobi said data use in decision-making remains inadequate.
 
 </div>
 

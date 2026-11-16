@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: MAR
-ledger_rows: 28
+ledger_rows: 29
 not_held: 13
-record: 5bccf0601d56
+record: 0efab768a2b0
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: 5bccf0601d56
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -453,6 +455,28 @@ The Office des changes opened an international tender for an e-declarations plat
 **[Moroccans abroad can now apply online for criminal record certificates](https://en.hespress.com/148811-moroccans-abroad-can-now-apply-online-for-criminal-record-certificates.html)** — Hespress, 9 November 2026
 
 Morocco's General Directorate of National Security opened its Epolice portal on 9 November 2026 to Moroccans abroad applying online for criminal-record certificates. Each request can be tracked online and the certificate is collected at the chosen diplomatic mission. The Ministry of Foreign Affairs, African Cooperation and Moroccan Expatriates built the service with the directorate.
+
+</div>
+
+</div>
+
+## Digitalisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+</nav>
+
+### Digitalisation of sub-national government
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fès-Meknès regional digital sovereignty projects</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fez-Meknes summit sets out roadmap for regional digital sovereignty](https://en.le360.ma/economy/fez-meknes-summit-sets-out-roadmap-for-regional-digital-sovereignty_3B2LMR5YIBDU5JURKZ5P4USFFI/)** — Le360, 14 November 2026
+
+Regional micro data centre, digital health lab, regional SOC and AI lab proposed; partnership agreements signed.
 
 </div>
 

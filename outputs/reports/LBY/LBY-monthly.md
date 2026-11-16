@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: LBY
 ledger_rows: 27
 not_held: 3
-record: e560b41d38a3
+record: ba25f49500ee
 ---
 
 # News, Oct – Nov 2026
@@ -65,6 +65,14 @@ Libya's General Information Authority met sectoral information centres, ministri
 **[الوطني للحريات وحقوق الإنسان يستعرض مسودة قانون حماية البيانات الشخصية مع لجنة النواب](https://lana.gov.ly/post.php?id=368592&lang=ar)** — وكالة الأنباء الليبية (LANA), 26 October 2026
 
 A committee of the House of Representatives and Libya's human rights council began a joint review of a draft personal data protection law on 26 October 2026. The council's committee wrote the draft over two and a half years. It had Council of Europe expert review. It added a chapter on artificial intelligence. It sent the draft to the House as an initial proposal.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[لجنة النواب تناقش باب حماية البيانات الشخصية ضمن قانون السيادة الرقمية](https://lana.gov.ly/post.php?id=370100&lang=ar)** — وكالة الأنباء الليبية (وال), 15 November 2026
+
+A House of Representatives committee on telecommunications and digital-space laws met for the first time in Benghazi on 15 November 2026. It discussed the personal-data protection chapter of the digital sovereignty law. Judicial and university representatives joined by video link.
 
 </div>
 

@@ -1,12 +1,12 @@
 ---
 title: Sao Tome and Principe: status report
-compiled: 2026-11-14
+compiled: 2026-11-16
 place: STP
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-19
 intersections_read: 8
-sources_cited: 219
+sources_cited: 220
 sections_written: 39
 not_established: 0
 acquire_lines: 33
@@ -190,7 +190,7 @@ In September 2025 [a system integrator, Ooru, was contracted to design a new fou
 
 In January 2026 [a DGRN mobile brigade began issuing the card free to every citizen reaching adulthood, starting at Ilhéu das Rolas and Porto Alegre](https://www.telanon.info/sociedade/2026/01/22/51507/campanha-de-atribuicao-gratuita-do-bilhete-de-identidade-iniciou-se-no-ilheu-das-rolas-e-decorre-em-porto-alegre/). [Cards for São Toméans in Portugal were ready for collection at the Lisbon embassy from June 2026](https://magazinesantomensidade.com/bilhetes-de-identidade-ja-disponiveis-para-levantamento-no-ambito-da-campanha-bi-para-todos-os-sao-tomenses/). [Free birth registration up to one year is entered directly into the database at every maternity unit, with 3,077 births registered in 2025](https://rstp.st/2026/03/10/direcao-geral-dos-registos-e-notariados-com-mais-de-3-mil-registos-de-nascimento-por-ano/).
 
-[A modernised passport system, SEP 2.0, launched in April 2026](https://rstp.st/2026/04/15/stp-lanca-novo-sistema-de-emissao-de-passaportes-2-0-para-reforco-da-seguranca-e-eficiencia/) under a four-year contract with Portugal's state mint. In March 2026 the foreign ministry [let citizens abroad apply for passports remotely under Decreto-Lei n. 1/2026, with a scanned copy of a valid identity card](https://mne.gov.st/noticias/atualidades/governo-disponibiliza-emissao-passaporte-por-nao-presencial-para-cidadaos-na-diaspora). [The migration and borders service checks the card's authenticity](https://mne.gov.st/noticias/atualidades/governo-disponibiliza-emissao-passaporte-por-nao-presencial-para-cidadaos-na-diaspora). It is the first system found that relies on the national card.
+[A modernised passport system, SEP 2.0, launched in April 2026](https://rstp.st/2026/04/15/stp-lanca-novo-sistema-de-emissao-de-passaportes-2-0-para-reforco-da-seguranca-e-eficiencia/) under a four-year contract with Portugal's state mint. In March 2026 the foreign ministry [let citizens abroad apply for passports remotely under Decreto-Lei n. 1/2026, with a scanned copy of a valid identity card](https://mne.gov.st/noticias/atualidades/governo-disponibiliza-emissao-passaporte-por-nao-presencial-para-cidadaos-na-diaspora). [The migration and borders service checks the card's authenticity](https://mne.gov.st/noticias/atualidades/governo-disponibiliza-emissao-passaporte-por-nao-presencial-para-cidadaos-na-diaspora). It is the first system found that relies on the national card. [In November 2026 the registry directorate handed over biometric enrolment kits for the embassies in Gabon, Cabo Verde, Equatorial Guinea, Morocco and China, to be installed from December](https://www.glebatv.st/todas-noticias/servicos-de-identificacao-civil-vao-ser-emitidos-em-cinco-embaixadas-de-stp-na-diaspora).
 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->

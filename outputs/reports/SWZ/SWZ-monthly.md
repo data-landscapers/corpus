@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: SWZ
-ledger_rows: 37
+ledger_rows: 38
 not_held: 3
-record: 61e78fe95169
+record: 63bc6644d446
 ---
 
 # News, Oct – Nov 2026
@@ -479,6 +479,28 @@ Summarised under [Data Storage](#data-storage).
 **[ESWATINI TURNS TO DIGITAL HEALTH SYSTEMS TO IMPROVE HEALTHCARE DELIVERY](https://eswatinipositivenews.online/eswatini-turns-to-digital-health-systems-to-improve-healthcare-delivery/)** — Eswatini Positive News, 17 October 2026
 
 Eswatini's health minister visited Hhukwini Clinic to review the eLMIS and CMIS digital health systems, which the ministry runs in 250 health facilities. The systems are interoperable and use national identity numbers to identify patients, according to Eswatini Positive News.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Client Management Information System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CMIS ROLLOUT GAINS MOMENTUM AS TRAINERS GET EQUIPPED](https://eswatinipositivenews.online/cmis-rollout-gains-momentum-as-trainers-get-equipped/)** — Eswatini Positive News, 29 October 2026
+
+Training of trainers starts for the EMR's Inpatient Module after the Piggs Peak pilot, October 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[The rollout of the CMIS Inpatient and Maternity Module continues to gain momentum!](https://www.linkedin.com/posts/hmis-eswatini_cmis-digitalhealth-ehealth-activity-7524018051923750913-Gq_z)** — HMIS Eswatini (Ministry of Health), 5 November 2026
+
+Nhlangano first end-user site, staff given iPads, go-live set for 9 November 2026; connectivity flagged.
 
 </div>
 

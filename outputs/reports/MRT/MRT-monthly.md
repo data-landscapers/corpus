@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: MRT
-ledger_rows: 20
+ledger_rows: 21
 not_held: 3
-record: 5f489b465658
+record: d0b97a00d10b
 ---
 
 # News, Oct – Nov 2026
@@ -22,6 +22,8 @@ record: 5f489b465658
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 </nav>
 
 ## Governance
@@ -95,6 +97,14 @@ GovStack reported on 9 November 2026 on two years of work with Mauritania, ITU, 
 **[Conseil des Ministres : le Président de la République enjoint d’accélérer les composantes du programme du gouvernement](https://futureafrique.net/node/20052)** — Future Afrique, 14 October 2026
 
 Mauritania's Council of Ministers on 14 October 2026 adopted bills to ratify World Bank IDA financing agreements, including a EUR 25.8m additional loan for the WARDIP regional digital programme covering broadband, e-services and e-payments. Another agreement, a EUR 19.7m credit and SDR 5.6m grant signed on 21 August, supports the social registry and the Takaful safety-net programme.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[La commission des affaires économiques de l’Assemblée nationale examine deux projets de loi](https://ami.mr/fr/archives/306260)** — Agence mauritanienne d'information (AMI), 13 November 2026
+
+National Assembly committee examines ratification of WARDIP SOP1 additional financing and IDA social-resilience credit.
 
 </div>
 
@@ -399,6 +409,28 @@ Mauritania scored 0.99 out of 4 on the Africa AI Governance Index 2026, in the N
 **[Lancement du programme d'accompagnement des startups numériques](https://fr.linkedin.com/posts/giz-mauritanie_digital-gizmauritanie-coop%C3%A9rationallemande-activity-7516856753385316352-bRNN)** — GIZ Mauritanie, 16 October 2026
 
 GIZ's Digital-Y project in Mauritania launched a support programme for nine digital startups, run by the incubator Hadina RIMTIC from October 2026. The startups were chosen through a call for applications with the digital ministry, and include the three winners of July's Gouvathon. They will build digital services for government bodies.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#research-institutions">Research institutions</a>
+</nav>
+
+### Research institutions
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">University of Nouakchott and Moov Mauritel partnership agreement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mauritanie : l’enseignement supérieur accélère sa transformation numérique](https://www.agenceecofin.com/actualites-numerique/1611-143447-mauritanie-l-enseignement-superieur-accelere-sa-transformation-numerique)** — Agence Ecofin, 16 November 2026
+
+The University of Nouakchott and the operator Moov Mauritel signed a framework partnership agreement on 12 November 2026. It covers very-high-speed internet and fibre on campus, 5G, a smart campus with IoT services, and support for doctoral research and internships. No cost or timeline was reported.
 
 </div>
 

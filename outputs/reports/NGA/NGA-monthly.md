@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: NGA
-ledger_rows: 118
+ledger_rows: 120
 not_held: 8
-record: e12cd87d8441
+record: bf99f0f569bf
 ---
 
 # News, Oct – Nov 2026
@@ -814,9 +814,25 @@ Nigeria's active mobile subscriptions reached 200.3 million in September 2026, N
 
 <div class="bulletin-item" markdown="1">
 
+**[Consultation Paper on an Investment-Oriented Spectrum Management in Nigeria: Exploring an Incentive-Based Spectrum Investment Framework (IBSIF)](https://www.ncc.gov.ng/media/8669/view)** — Nigerian Communications Commission, 12 November 2026
+
+Spectrum incentives tied to verifiable extra network investment; mobile data 3.2x since 2023; comments due 30 Nov 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
 **[NCC considers 15-year spectrum licences to boost broadband investment](https://techcabal.com/2026/11/13/ncc-considers-15-year-spectrum-licences/)** — TechCabal, 13 November 2026
 
 The Nigerian Communications Commission said on 12 November 2026 that it is developing a framework. The framework could extend spectrum licences from 10 to 15 years in return for additional, verified broadband investment. A consultation paper is to follow. No eligibility rules, incentive level or start date have been set.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCC plans spectrum incentives to push telecom operators into more network investment](https://nationaldailyng.com/ncc-plans-spectrum-incentives-to-push-telecom-operators-into-more-network-investment/)** — National Daily Newspaper, 15 November 2026
+
+The Nigerian Communications Commission is considering an Incentive-Based Spectrum Investment Framework. Operators would receive spectrum incentives for measurable commitments on coverage, capacity and quality. Monthly data use rose from about 518,000 terabytes in January 2023 to 1.73 million in September 2026.
 
 </div>
 
@@ -885,6 +901,20 @@ NITDA and the Central Bank of Nigeria held a dialogue on the National Sovereign 
 **[NCC tasks telcos on stronger defenses against AI cyberattacks](https://guardian.ng/news/ncc-tasks-telcos-on-stronger-defenses-against-ai-cyberattacks/)** — The Guardian Nigeria, 27 October 2026
 
 The Nigerian Communications Commission spoke at the second International Cybersecurity Conference in Abuja. It urged telecom operators to adopt zero-trust architecture. It also urged them to test their AI systems regularly for weaknesses. The commission said telecoms infrastructure is designated Critical National Information Infrastructure. It said it runs a computer incident response team with mandatory incident reporting.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public breach disclosure regime</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cyberattack alert: What Nigerian banks must tell customers](https://techcabal.com/2026/11/16/what-banks-must-show-after-a-cyberattack/)** — TechCabal, 16 November 2026
+
+The article sets out that in Nigeria reporting a cyberattack to the Central Bank, notifying affected customers and making a public announcement are separate duties. Banks must tell those affected where a personal-data breach is likely to create a high risk to individuals. CBN figures show N134.48 billion lost to fraud from 2020 to 2025. NIBSS figures put payment fraud losses at N25.85 billion in 2025, down from N52.26 billion.
 
 </div>
 
@@ -1473,6 +1503,20 @@ Google.org gave Nigerian health-technology firm Helium Health a US$2.5 million g
 **[Rev360: Reimagining tax administration for a digital Nigeria](https://guardian.ng/opinion/rev360-reimagining-tax-administration-for-a-digital-nigeria-2/)** — The Guardian Nigeria, 9 November 2026
 
 In a Guardian opinion piece of 9 November 2026, Emmanuel Jonathan describes Rev360, the Nigeria Revenue Service's digital tax platform, which went live on 30 April 2026. It has separate portals for taxpayers, tax consultants, government agencies and software developers, and a workspace for staff. The piece argues that adoption now matters more than the launch.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Health Management Information System (DHIS2)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[JAR: Stakeholders Resolve To Strengthen Health Financing, Workforce Management](https://nannews.ng/jar-stakeholders-resolve-to-strengthen-health-financing-workforce-management/)** — News Agency of Nigeria, 12 November 2026
+
+2026 Joint Annual Review makes DHIS2 the single national health-data platform; 12 resolutions, 10-12 Nov 2026.
 
 </div>
 
@@ -2098,21 +2142,15 @@ Nigeria's federal government plans to extend internet connectivity to public pri
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Digital platform for the Sub-National Fiscal Survey</p>
+<p class="monthly-story__name">Nigeria Tech Outlook Report and Dashboard</p>
 
 <div class="bulletin-item" markdown="1">
 
-**[Nigerian Central Bank Digitalises Fiscal Data Collection - Voice of Nigeria](https://von.gov.ng/nigerian-central-bank-digitalises-fiscal-data-collection/)** — Voice of Nigeria, 10 November 2026
+**[Nigeria Tech Outlook Report: First Edition 2026](https://nitda.gov.ng/wp-content/uploads/2026/11/NITDA26-NG-TECH-OUTLOOK-compressed.pdf)** — National Information Technology Development Agency (NITDA), with the National Bureau of Statistics (NBS), 1 November 2026
 
-The Central Bank of Nigeria is moving its Sub-National Fiscal Survey of the 36 states, the FCT and 774 local governments from paper to a digital platform. Its Statistics Department said returns will be quarterly instead of twice a year. Training had reached 16 states by 6 November 2026. The remaining states are due by 4 December, and the FCT on 9 and 10 December 2026.
-
-</div>
+2,147-household baseline: 40.6% use smartphones, 55.7% urban vs 29.5% rural online, 17.9% e-government.
 
 </div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Nigeria Tech Outlook Report and Dashboard</p>
 
 <div class="bulletin-item" markdown="1">
 
@@ -2127,6 +2165,20 @@ NITDA launched the Nigeria Tech Outlook Report 2026 as an annual digital-economy
 **[NITDA and NBS Launch Nigeria Tech Outlook Report to Support Digital Economy Growth](https://techafricanews.com/2026/11/12/nitda-and-nbs-launch-nigeria-tech-outlook-report-to-support-digital-economy-growth/)** — Tech Africa News, 12 November 2026
 
 NITDA and the National Bureau of Statistics launched the Nigeria Tech Outlook Report at Digital Nigeria 2026 in Abuja, Tech Africa News reported on 12 November 2026. The two bodies present it as a source of technology-sector data for policy and investment. The account gives none of the report's figures.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital platform for the Sub-National Fiscal Survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigerian Central Bank Digitalises Fiscal Data Collection - Voice of Nigeria](https://von.gov.ng/nigerian-central-bank-digitalises-fiscal-data-collection/)** — Voice of Nigeria, 10 November 2026
+
+The Central Bank of Nigeria is moving its Sub-National Fiscal Survey of the 36 states, the FCT and 774 local governments from paper to a digital platform. Its Statistics Department said returns will be quarterly instead of twice a year. Training had reached 16 states by 6 November 2026. The remaining states are due by 4 December, and the FCT on 9 and 10 December 2026.
 
 </div>
 

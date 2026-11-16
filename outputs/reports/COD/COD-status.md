@@ -1,12 +1,12 @@
 ---
 title: DR Congo: status report
-compiled: 2026-11-14
+compiled: 2026-11-16
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 295
+sources_cited: 296
 sections_written: 39
 not_established: 1
 acquire_lines: 50
@@ -239,7 +239,7 @@ Elsewhere the registers are real but unjoined. [Checks on biometric chip driving
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-[DHIS2, DR Congo's flagship health information system, has been operational since 2014 across all 26 provinces](https://www.intrahealth.org/sites/default/files/attachment-files/239-articletext-1025-1-10-202001081.pdf). [It reached more than 18,000 health facilities by 2022, and carries monthly stock reports for key health commodities](https://community.dhis2.org/t/improving-dhis2-interoperability-performance-in-drc-a-case-study/47518). [In 2024 notifiable disease surveillance still relied on paper reports and manual compilation](https://www.rti.org/sites/default/files/documents/2024-07/Implementing_Real-Time_Disease_Stolka.pdf). [Health zone data managers enter the returns into the national platform](https://www.rti.org/sites/default/files/documents/2024-07/Implementing_Real-Time_Disease_Stolka.pdf). [In October 2026 a digital points-of-entry screening system was installed with WHO at N'djili International Airport and the Nord Bangui border post, during the Ebola response](https://afro.who.int/countries/democratic-republic-of-congo/news/who-deploys-pdx-preparedness-intelligence-platform-democratic-republic-congo).
+[DHIS2, DR Congo's flagship health information system, has been operational since 2014 across all 26 provinces](https://www.intrahealth.org/sites/default/files/attachment-files/239-articletext-1025-1-10-202001081.pdf). [It reached more than 18,000 health facilities by 2022, and carries monthly stock reports for key health commodities](https://community.dhis2.org/t/improving-dhis2-interoperability-performance-in-drc-a-case-study/47518). [In 2025 only 1,634 of 4,691 Kinshasa facilities were integrated into it](https://www.revue-irs.com/index.php/home/article/download/1587/1081/2807). [In 2024 notifiable disease surveillance still relied on paper reports and manual compilation](https://www.rti.org/sites/default/files/documents/2024-07/Implementing_Real-Time_Disease_Stolka.pdf). [Health zone data managers enter the returns into the national platform](https://www.rti.org/sites/default/files/documents/2024-07/Implementing_Real-Time_Disease_Stolka.pdf). [In October 2026 a digital points-of-entry screening system was installed with WHO at N'djili International Airport and the Nord Bangui border post, during the Ebola response](https://afro.who.int/countries/democratic-republic-of-congo/news/who-deploys-pdx-preparedness-intelligence-platform-democratic-republic-congo).
 
 <!-- derived -->
 Seven of the ten core back-office government systems the GovTech Maturity Index tracks are in use in the country — financial management, tax, customs, human resources, payroll, social insurance and debt management — while three are absent: the treasury single account, electronic procurement, and public investment management (2025). Of the seven systems whose software type is recorded, four run custom-built software and three run commercial off-the-shelf products.
