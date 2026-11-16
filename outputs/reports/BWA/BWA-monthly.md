@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: BWA
-ledger_rows: 19
+ledger_rows: 20
 not_held: 5
-record: 272614ec4739
+record: 5d55233d6adc
 ---
 
 # News, Oct – Nov 2026
@@ -317,6 +317,20 @@ The Ayre Index of youth AI readiness was launched at the November 2026 Commonwea
 </nav>
 
 ### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Statistical Data Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Botswana’s Next Diamond May Not Be Beneath the Ground. It May Be in Its Data.](https://www.linkedin.com/pulse/botswanas-next-diamond-may-beneath-ground-its-data-ohuruogu-phd-aladc/)** — LinkedIn Pulse, 1 November 2026
+
+GPSDD panellist: proposed National Statistical Data Platform; data as Botswana’s strategic asset, plan 2026-2030.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
