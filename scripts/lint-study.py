@@ -236,10 +236,10 @@ def systems_problems(study: dict, rows: list[dict], countries: dict) -> list[str
 LADDER_HELD = {
     ("civilserviceskills", "CMR"): "Bill, message 32: a programme open to all civil servants reaches across government",
     ("educationexchange", "SEN"): "Bill, message 68: SEN unplaced",
-    ("disabilityaccess", "BEN"): "waits on messages-for-bill 144",
-    ("disabilityaccess", "LSO"): "waits on messages-for-bill 144",
-    ("disabilityaccess", "SWZ"): "waits on messages-for-bill 144",
-    ("disabilityaccess", "TUN"): "waits on messages-for-bill 144",
+    ("disabilityaccess", "BEN"): "Bill, message 144: a service delivered counts; staged 2 stands",
+    ("disabilityaccess", "LSO"): "Bill, message 144: a service delivered counts; staged 2 stands",
+    ("disabilityaccess", "SWZ"): "Bill, message 144: a service delivered counts; staged 2 stands",
+    ("disabilityaccess", "TUN"): "Bill, message 144: a service delivered counts; staged 2 stands",
 }
 
 
