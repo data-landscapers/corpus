@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: ZAF
-ledger_rows: 106
+ledger_rows: 107
 not_held: 17
-record: 94c5d94f1a62
+record: 55e2161959b7
 ---
 
 # News, Oct – Nov 2026
@@ -1605,6 +1605,20 @@ ITWeb reported on 6 November 2026 that South Africa ranks 13th of 56 Commonwealt
 **[SA AI adoption outpaces business value](https://itweb.africa/article/sa-ai-adoption-outpaces-business-value/xA9PO7NEnaNvo4J8)** — ITWeb Africa, 13 November 2026
 
 The SA AI Index 2026, by World Wide Worx with Altron Digital Business, surveyed 100 decision-makers in October 2026. They work at South African organisations with more than 200 employees. It found 93% use AI, up from 67% in 2025 and 45% in 2024. The share rating its productivity impact as positive fell from 83% to 51%, and the average organisation scores 34.3 out of 100 on the index.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI adoption rank (technology company index)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa must seize the opportunities of the AI revolution](https://www.gov.za/blog/south-africa-must-seize-opportunities-ai-revolution)** — South African Government, 16 November 2026
+
+President Ramaphosa is leading a delegation to Silicon Valley to inform South Africa's approach to AI. He cites a Microsoft ranking of South Africa 46th of 147 economies for AI adoption. He wants AI used in education, health and criminal justice.
 
 </div>
 

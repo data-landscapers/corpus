@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: SOM
-ledger_rows: 24
+ledger_rows: 26
 not_held: 1
-record: e7eac57dc9d2
+record: 253be9624dfd
 ---
 
 # News, Oct – Nov 2026
@@ -101,6 +101,34 @@ Somalia's House of the People passed the Digital Transactions Bill on 21 October
 **[Somalia’s mobile money remains locked in silos](https://www.itweb.africa/article/somalias-mobile-money-remains-locked-in-silos/mYZRXM9gbKXvOgA8)** — ITWeb Africa, 5 October 2026
 
 The chief executive of Somalia's SomLink Telecom says voice calls now interconnect across six operators while mobile-money wallets remain closed to one another. He calls for cost-based pricing and shared rails, and says the largest operators have little commercial reason to open up.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government internet network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia Plans to Connect 45 Government Agencies to State Internet Network Next Year](https://www.dawan.africa/news/somalia-plans-to-connect-45-government-agencies-to-state-internet-network-next-year)** — Dawan Africa, 15 November 2026
+
+Somalia's Communications and Technology Minister, Mohamed Adan Moallim Ali, said on 15 November 2026 that up to 45 government agencies will be connected to the state internet network in 2027, run from a new network operations centre. He said the national e-government portal will also be ready that year. The portal is part of the World Bank-backed EA-RDIP.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Operators' shared fibre consortium (Hobyo-Galkayo, Guumays-Buuhoodle)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somali Telecom Firms Form Consortium to Lay Shared Fibre Routes](https://www.dawan.africa/news/somali-telecom-firms-form-consortium-to-lay-shared-fibre-routes)** — Dawan Africa, 15 November 2026
+
+Minister Mohamed Adan Moallim Ali said on 15 November 2026 that all Somali telecom companies have joined a consortium, with the government as partner, to co-invest in shared fibre on the Hobyo-Galkayo and Guumays-Buuhoodle routes. The contract is expected in December 2026 and works in January 2027. No cost, member list or completion date was given.
 
 </div>
 

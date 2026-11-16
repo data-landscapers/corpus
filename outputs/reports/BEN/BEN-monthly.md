@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: BEN
-ledger_rows: 38
+ledger_rows: 40
 not_held: 4
-record: b83594e5b84e
+record: 88d293e99188
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: b83594e5b84e
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -121,6 +123,20 @@ Benin's National Trade Facilitation Committee opened its first ordinary session 
 **[Régulation des médias en ligne: 89 organes autorisés par la Haac](https://www.lanation.bj/actualites/regulation-des-medias-en-ligne-89-organes-autorises-par-la-haac)** — La Nation, 2 October 2026
 
 Benin's media regulator HAAC signed conventions with 89 online media outlets in Cotonou on 1 October 2026, completing its authorisation process for websites offering online audiovisual and written-press services. The outlets now operate under the information and communication code and the digital code.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Code Article 550 on harassment through electronic communications</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : l’article 550 du Code du numérique contesté devant la Cour constitutionnelle](https://beninwebtv.bj/benin-article-550-code-numerique-conteste-cour-constitutionnelle/)** — Bénin Web TV, 13 November 2026
+
+Case 2123/384/REC-24, filed 2 Dec 2024, heard 12 Nov 2026; article carries up to 2 years and XOF 10m for e-harassment.
 
 </div>
 
@@ -572,6 +588,14 @@ Benin and Mauritania compared their digital government programmes at Estonia's e
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : le portail des services publics fait peau neuve avec de nouvelles fonctionnalités](https://lanouvelletribune.info/2026/11/benin-le-portail-des-services-publics-fait-peau-neuve-avec-de-nouvelles-fonctionnalites/)** — La Nouvelle Tribune, 14 November 2026
+
+ASIN relaunch, 13 Nov 2026; Yèmi assistant, business space, once-only reuse of data the state already holds.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -705,6 +729,36 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Benin Plans Digital Fabrication Hubs to Boost Local Innovation](https://www.ecofinagency.com/news-digital/0511-60528-benin-plans-digital-fabrication-hubs-to-boost-local-innovation)** — Ecofin Agency, 5 November 2026
 
 Benin's Council of Ministers approved on 4 November 2026 a pilot to build two digital fabrication hubs, called Innobox, in Parakou and Porto-Novo. The hubs will offer equipment for prototyping, robotics and artificial intelligence work. The government plans to extend them to other municipalities after assessing the pilot.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SNAEIA AI skills pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Intelligence artificielle et Innovation : Le Bénin désigné premier pays pilote de l'initiative du réseau consacrée à l'IA | Gouvernement de la République du Bénin](https://www.gouv.bj/article/3738/intelligence-artificielle-innovation-benin-designe-premier-pays-pilote-initiative-reseau-consacree-ia/)** — Gouvernement de la République du Bénin, 13 November 2026
+
+Higher-education minister signs SNAEIA MoU in Wuhan, 11 Nov 2026; UNESCO-backed AI training pilot for young people.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[IA : le Bénin s'appuie sur la Chine pour renforcer les compétences de sa jeunesse](https://www.wearetech.africa/fr/fils/actualites/tech/ia-le-benin-sappuie-sur-la-chine-pour-renforcer-les-competences-de-sa-jeunesse)** — We Are Tech Africa, 16 November 2026
+
+Benin was named the first pilot country of a UNESCO-backed AI initiative at a China-Africa education forum in Wuhan on 11 November 2026. Its higher-education ministry also signed a memorandum with the Sino-North Africa Education Innovation Association to link Beninese institutions with Chinese universities, training centres and firms. No timetable or number of beneficiaries was given.
 
 </div>
 

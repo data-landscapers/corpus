@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: SDN
-ledger_rows: 34
+ledger_rows: 35
 not_held: 5
-record: eb4fb00d4338
+record: c1a98a10c76c
 ---
 
 # News, Oct – Nov 2026
@@ -309,6 +309,8 @@ Pakistan and Sudan agreed to widen cooperation on security, cybercrime, police t
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
@@ -519,6 +521,22 @@ The Global Survivors Fund opened a tender for a secure, offline-capable digital 
 **[السجل المدني يستعيد قاعدة البيانات بالكامل رغم خسائر الحرب ويعلن بدء التقديم الإلكتروني للأطفال](https://alwatannewssd.com/79500/)** — الوطن اليوم, 12 November 2026
 
 Sudan's General Directorate of Civil Registry says its engineers have restored the registry database in full. The war damaged its archives and offices in Khartoum, Gezira and Sennar. The directorate is widening electronic registration and will take applications for children online.
+
+</div>
+
+</div>
+
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic invoice system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ديوان الضرائب يعلن انتهاء التعامل بالفاتورة الورقية وبداية التعامل بالفاتورة الإلكترونية](https://www.suna.sd/posts/dyoan-aldrayb-yaaln-anthaaa-altaaaml-balfator-alorky-obday-altaaaml-balfator-alalktrony)** — Sudan News Agency (SUNA), 15 November 2026
+
+Sudan's Taxation Chamber ended paper invoices on 15 November 2026, after a three-month grace period, and made the electronic invoice mandatory in private-sector dealings with government at federal and state level. Registration runs through the Baladna platform. An offline mode covers areas without network coverage.
 
 </div>
 

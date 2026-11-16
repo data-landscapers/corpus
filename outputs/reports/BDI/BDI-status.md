@@ -1,12 +1,12 @@
 ---
 title: Burundi: status report
-compiled: 2026-11-14
+compiled: 2026-11-16
 place: BDI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 28
-sources_cited: 276
+sources_cited: 277
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -231,7 +231,7 @@ The system arrived five months after the central bank's own deadline: full inter
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-[In 2019 computerised hospitals re-entered their data into DHIS2 by hand because automatic transfer from the hospital management system did not work](https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/BDI_Burundi_National-plan-development-digital-health_2020-2024.pdf). [There is no unified digital identifier linking patients across providers](https://documents1.worldbank.org/curated/en/099050923073520082/pdf/P17512808c1cbf01009a830d30eb4cb8732.pdf). [Under its information development plan for 2026-2028 the health ministry is working to make DHIS2, SIDAInfo and OpenClinic interoperable on the HL7 FHIR standard](https://www.ecofinagency.com/news-digital/1304-54616-burundi-moves-to-make-fragmented-health-data-systems-interoperable). [No public timeline or budget has been confirmed](https://www.ecofinagency.com/news-digital/1304-54616-burundi-moves-to-make-fragmented-health-data-systems-interoperable). [In May 2026 UNDP deployed the DataToCare laboratory system into nine sites, linking ten diagnostic instruments with automated transmission of results](https://www.undp.org/fr/burundi/actualites/le-pnud-appui-lacceleration-de-la-digitalisation-des-laboratoires-avec-la-solution-datatocare). [The Global Fund financed it](https://www.undp.org/fr/burundi/actualites/le-pnud-appui-lacceleration-de-la-digitalisation-des-laboratoires-avec-la-solution-datatocare).
+[In 2019 computerised hospitals re-entered their data into DHIS2 by hand because automatic transfer from the hospital management system did not work](https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/BDI_Burundi_National-plan-development-digital-health_2020-2024.pdf). [By January 2025 the health ministry had digitised 55 public and faith-based hospitals under its health informatics plan](https://open.enabel.be/en/BDI/2735/2910/u/au-burundi-la-digitalisation-pour-interconnecter-les-services-du-ministere-de-la-sante-publique-et-de-la-lutte-contre-le-sida.html). [There is no unified digital identifier linking patients across providers](https://documents1.worldbank.org/curated/en/099050923073520082/pdf/P17512808c1cbf01009a830d30eb4cb8732.pdf). [Under its information development plan for 2026-2028 the health ministry is working to make DHIS2, SIDAInfo and OpenClinic interoperable on the HL7 FHIR standard](https://www.ecofinagency.com/news-digital/1304-54616-burundi-moves-to-make-fragmented-health-data-systems-interoperable). [No public timeline or budget has been confirmed](https://www.ecofinagency.com/news-digital/1304-54616-burundi-moves-to-make-fragmented-health-data-systems-interoperable). [In May 2026 UNDP deployed the DataToCare laboratory system into nine sites, linking ten diagnostic instruments with automated transmission of results](https://www.undp.org/fr/burundi/actualites/le-pnud-appui-lacceleration-de-la-digitalisation-des-laboratoires-avec-la-solution-datatocare). [The Global Fund financed it](https://www.undp.org/fr/burundi/actualites/le-pnud-appui-lacceleration-de-la-digitalisation-des-laboratoires-avec-la-solution-datatocare).
 
 [On 19 January 2026 the revenue authority launched the implementation phase of e-KORI, with a 27-month change-management rollout from 25 February](https://www.obr.bi/index.php/en/actualites/2455-lancement-officiel-du-projet-e-kori-visant-la-conduite-du-changement-pour-l-initiative-de-digitalisation-des-processus-de-collecte-des-taxes-internes-a-l-obr). [By June 2026 about 13,000 electronic billing machines had been deployed against a target of 40,000](https://www.imf.org/-/media/files/publications/cr/2026/english/1bdiea2026002.pdf). [In September 2025 the revenue authority required managers of public funds to obtain an electronic-billing-machine invoice from suppliers before paying them, on pain of a 20% penalty](https://www.obr.bi/index.php/actualites/2357-la-facture-emise-par-la-machine-a-facturation-electronique-une-exigence-de-tous-les-gestionnaires-des-fonds-publics-aupres-de-leurs-fournisseurs-de-biens-et-services).
 

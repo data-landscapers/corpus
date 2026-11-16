@@ -1,12 +1,12 @@
 ---
 title: Guinea: status report
-compiled: 2026-11-14
+compiled: 2026-11-16
 place: GIN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 239
+sources_cited: 240
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -205,7 +205,7 @@ Guinea [scored 56.55 of 100 on the ITU Global Cybersecurity Index, up from 20.53
 
 [In October 2026 the public service ministry said biometrics had removed 64,000 fictitious payroll numbers and stabilised the workforce at 128,000 civil servants and contract staff](https://www.visionguinee.info/le-gouvernement-lance-la-digitalisation-des-cadres-organiques-et-le-referentiel-des-metiers-pour-moderniser-la-fonction-publique/). [The government puts savings since 2024 at 233 billion Guinean francs](https://www.ecofinagency.com/news-digital/3011-50979-guinea-claims-26-9m-saved-since-2024-with-biometric-audit-of-public-workforce). [The prime minister said the register "must integrate a unique personal identification number"](https://www.ecofinagency.com/news-digital/3011-50979-guinea-claims-26-9m-saved-since-2024-with-biometric-audit-of-public-workforce).
 
-[DHIS2 has run in all health districts since 2022, but data quality and server security remain weak](https://pasa2.sante.gov.gn/domaines/monitoring-de-la-qualite-des-soins-et-services/renforcement-snis-validation-donnees-dhis2/). [Cross-system exchange is not operational](https://pasa2.sante.gov.gn/domaines/monitoring-de-la-qualite-des-soins-et-services/renforcement-snis-validation-donnees-dhis2/). [In 2024 routine reporting into it was 99.8% complete, but only 83 of 1,325 approved private facilities reported](https://www.stat-guinee.org/images/Documents/Publications/SSN/sante/ANNUAIRE_DES_STATISTIQUES_2024_VF1.pdf). [In the first quarter of 2026 regional reports were 98 to 100 per cent complete, and a data-quality audit of late 2025 scored the system at 82 per cent](https://www.stat-guinee.org/images/Documents/Publications/SSN/sante/BULLETIN_SNIS/BULLETIN_TRIMESTRIEL_N%C2%B0_02_T1_2026_SNIS.pdf). [In 2025 rural community health workers recorded visits on paper, for typing up at the district office](https://cseaafrica.org/images/posts/47281988.pdf). [In March 2022 only 59 of 444 health centres used the electronic vaccine-stock system](https://www.gavi.org/sites/default/files/evaluations/Decentralised/Report_eLMIS-evaluation_Guinea.pdf). [A workshop on health information system interoperability was held in November 2025](https://guineenews.org/2025/11/27/interoperabilite-tenue-dun-atelier-cle-pour-la-modernisation-du-systeme-dinformation-sanitaire-en-guinee).
+[DHIS2 has run in all health districts since 2022, but data quality and server security remain weak](https://pasa2.sante.gov.gn/domaines/monitoring-de-la-qualite-des-soins-et-services/renforcement-snis-validation-donnees-dhis2/). [Cross-system exchange is not operational](https://pasa2.sante.gov.gn/domaines/monitoring-de-la-qualite-des-soins-et-services/renforcement-snis-validation-donnees-dhis2/). [In 2024 routine reporting into it was 99.8% complete, but only 83 of 1,325 approved private facilities reported](https://www.stat-guinee.org/images/Documents/Publications/SSN/sante/ANNUAIRE_DES_STATISTIQUES_2024_VF1.pdf). [In the first quarter of 2026 regional reports were 98 to 100 per cent complete, and a data-quality audit of late 2025 scored the system at 82 per cent](https://www.stat-guinee.org/images/Documents/Publications/SSN/sante/BULLETIN_SNIS/BULLETIN_TRIMESTRIEL_N%C2%B0_02_T1_2026_SNIS.pdf). [In 2025 rural community health workers recorded visits on paper, for typing up at the district office](https://cseaafrica.org/images/posts/47281988.pdf). [In March 2022 only 59 of 444 health centres used the electronic vaccine-stock system](https://www.gavi.org/sites/default/files/evaluations/Decentralised/Report_eLMIS-evaluation_Guinea.pdf). [A workshop on health information system interoperability was held in November 2025](https://guineenews.org/2025/11/27/interoperabilite-tenue-dun-atelier-cle-pour-la-modernisation-du-systeme-dinformation-sanitaire-en-guinee). [In July 2026 the Belgian development agency began work to digitise seven hospitals around a central patient register, starting at N'Zérékoré](https://planete224.com/2026/07/31/%f0%9f%87%ac%f0%9f%87%b3nzerekore-le-projet-de-digitalisation-de-lhopital-regional-entre-dans-sa-phase-de-lancement/).
 
 [Since 2024 the education directorate's platform has held pupil records; in October 2026 parents reported missing marks and registration numbers stuck at the wrong grade](https://educationactu.com/11224-2/).
 

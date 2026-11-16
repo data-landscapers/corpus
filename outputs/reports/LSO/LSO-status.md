@@ -1,12 +1,12 @@
 ---
 title: Lesotho: status report
-compiled: 2026-11-14
+compiled: 2026-11-16
 place: LSO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 249
+sources_cited: 250
 sections_written: 39
 not_established: 0
 acquire_lines: 31
@@ -225,7 +225,7 @@ In November 2025 a [single window was deployed at the One-Stop Business Facilita
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-Lesotho's electronic patient register was [piloted at four health centres and two hospitals in 2018](https://doi.org/10.1136/bmjopen-2024-093878), as the first stage of a planned rollout across 178 government facilities. It [sends facility-level data automatically into the district health information system](https://doi.org/10.1136/bmjopen-2024-093878). It [covers five programmes, among them tuberculosis, antenatal care and cervical cancer](https://doi.org/10.1136/bmjopen-2024-093878). Paper recording is to be phased out only when it is fully operational nationwide. In 2025 health workers [reported generally positive views of the system, with network outages and power cuts the operational barrier](https://doi.org/10.1186/s12911-025-02858-3). An [AI chest X-ray tool, CAD4TB, is in use in tuberculosis screening programmes](https://doi.org/10.1016/j.jctube.2025.100540) (2025). The HIV programme had [231 facilities reporting through the platform, the reporting rate falling from 97% in January to 95% in September 2025](https://cquin.icap.columbia.edu/wp-content/uploads/2025/11/CQUIN-9th-Annual-Meeting_Lesotho-Country-updates-FINAL.pdf).
+Lesotho's electronic patient register was [piloted at four health centres and two hospitals in 2018](https://doi.org/10.1136/bmjopen-2024-093878), as the first stage of a planned rollout across 178 government facilities. It [sends facility-level data automatically into the district health information system](https://doi.org/10.1136/bmjopen-2024-093878). [By September 2022 it was fully implemented in 153 of 221 antiretroviral treatment facilities](https://cquin.icap.columbia.edu/wp-content/uploads/2022/12/B8.-Lesothos-Electronic-Medical-Record-Seamlessly-Track-Progress-in-MMD.pdf). It [covers five programmes, among them tuberculosis, antenatal care and cervical cancer](https://doi.org/10.1136/bmjopen-2024-093878). Paper recording is to be phased out only when it is fully operational nationwide. In 2025 health workers [reported generally positive views of the system, with network outages and power cuts the operational barrier](https://doi.org/10.1186/s12911-025-02858-3). An [AI chest X-ray tool, CAD4TB, is in use in tuberculosis screening programmes](https://doi.org/10.1016/j.jctube.2025.100540) (2025). The HIV programme had [231 facilities reporting through the platform, the reporting rate falling from 97% in January to 95% in September 2025](https://cquin.icap.columbia.edu/wp-content/uploads/2025/11/CQUIN-9th-Annual-Meeting_Lesotho-Country-updates-FINAL.pdf).
 
 The Ministry of Education and Training began building a [national education management information system on DHIS2 in September 2025, covering 4,819 institutions, with core ministry staff trained in March 2026](https://education.dhis2.org/building-a-smarter-education-data-system-in-lesotho-with-dhis2/). By October 2026 [all 365 secondary schools were reporting through it, and school staff in three of ten districts had been trained](https://www.iped.africa/news-event/from-data-entry-to-data-leadership-lessons-from-lesothos-dhis2-for-education-training). Rural primary schools return Annual School Census forms that district offices verify and key in by hand over months.
 

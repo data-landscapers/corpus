@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: KEN
-ledger_rows: 97
+ledger_rows: 102
 not_held: 5
-record: 9f9e6ec0b7b8
+record: 636999b0c9fd
 ---
 
 # News, Oct – Nov 2026
@@ -198,6 +198,28 @@ An opinion piece argues that Kenya's competition and data protection regulators 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Virtual Asset Service Providers Regulations 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Public Notice: Gazettement of the Virtual Asset Service Providers Regulations, 2026 (joint CBK and CMA notice)](https://www.centralbank.go.ke/wp-content/uploads/2026/11/CBK-CMA-Public-Notice-Operationalisation-of-the-VASP-Regulations-2026-.pdf)** — Central Bank of Kenya and Capital Markets Authority, 13 November 2026
+
+VASP Act in operation from LN 134 of 22 July 2026; all virtual asset providers must apply to CBK or CMA for a licence.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya enforces mandatory crypto licensing](https://itweb.africa/article/kenya-enforces-mandatory-crypto-licensing/DZQ587V8WxkqzXy2)** — ITWeb Africa, 16 November 2026
+
+The Central Bank of Kenya and the Capital Markets Authority issued a joint notice dated 13 November 2026 requiring every crypto exchange, wallet provider and other virtual-asset business to apply for a licence. The notice confirms that the VASP Regulations 2026 were gazetted on 22 July 2026 as Legal Notice No. 134.
+
+</div>
+
+</div>
+
 ### Data protection
 
 <div class="monthly-story" markdown="1">
@@ -303,6 +325,20 @@ Immaculate Kassait leaves office as Kenya's first Data Commissioner on 16 Novemb
 **[Six years after its creation, Kenya’s data protection watchdog faces a more complex digital economy](https://techtrendske.co.ke/2026/11/13/kenya-data-protection-law-ai-regulation/)** — TechTrendsKE, 13 November 2026
 
 Outgoing Kenyan Data Commissioner Immaculate Kassait says the Data Protection Act, 2019 needs amendments on artificial intelligence, sensitive personal information and penalties. She also wants stronger powers to investigate organisations outside Kenya and more time to determine complaints. President William Ruto nominated Lydia Sitienei Chelagat to succeed her on 10 November 2026. The ODPC has handled about 13,000 complaints and 459 determinations.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Commissioner's compensation awards</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[High Court questions ODPC's authority to award compensation for data privacy violations](https://techtrendske.co.ke/2026/11/15/odpc-compensation-powers/)** — TechTrendsKE, 15 November 2026
+
+Kenya's High Court set aside a KSh1.25 million compensation award made by the Data Protection Commissioner. Justice Francis Andayi found that the Data Protection Act does not expressly empower the Commissioner to award damages. The complaint, about CCTV in a clinic examination room, was returned to the Office of the Data Protection Commissioner, and Regulation 14(3)(e) stands.
 
 </div>
 
@@ -1098,6 +1134,20 @@ The Clinton Health Access Initiative reports on digitising health campaigns in B
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Intelligence and Analytics Centre (health)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africa Health Data Forum Opens in Nairobi with Focus on Strengthening Health Systems Through Data](https://www.health.go.ke/africa-health-data-forum-opens-nairobi-focus-strengthening-health-systems-through-data)** — Ministry of Health (Kenya), 10 November 2026
+
+Health analytics centre planned under Digital Health Agency; 33m registered with SHA via Afya Yangu.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -1450,6 +1500,20 @@ Kenyan fintech WayaWaya announced a partnership with Choice Bank on 6 November 2
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">High Court petition on the absence of AI regulation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Court puts State on notice over use of AI in public services](https://nation.africa/kenya/news/court-puts-state-on-notice-over-use-of-ai-in-public-services--5671740)** — Daily Nation, 15 November 2026
+
+Kenya's High Court gave the government six months to complete a national policy and legal framework for the use of artificial intelligence. Justice Edward Muriithi declined to order Parliament to enact legislation within 90 days.
+
+</div>
+
+</div>
+
 ### ICT Industry
 
 <div class="monthly-story" markdown="1">
@@ -1690,6 +1754,8 @@ Indigenous communities from northern Kenya presented a community-based monitorin
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
 <a href="#china-activities">China activities</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#eu-activities">EU activities</a>
 </nav>
 
 ### China activities
@@ -1717,6 +1783,22 @@ Kenya's ICT Cabinet Secretary William Kabogo and Chinese Ambassador Guo Haiyan d
 **[Kenya seeks Chinese support for digital economy and AI development](https://www.kbc.co.ke/kenya-seeks-chinese-support-for-digital-economy-and-ai-development/)** — Kenya Broadcasting Corporation, 5 November 2026
 
 Summarised under [China activities](#china-activities).
+
+</div>
+
+</div>
+
+### EU activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">European data-adequacy decision</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya and EU Advance Digital Partnership Talks to Unlock Investment Opportunities](https://techafricanews.com/2026/11/16/kenya-eu-digital-partnership-investment-opportunities/)** — TechAfrica News, 16 November 2026
+
+Kenya's ICT Principal Secretary said technical talks on an EU data-adequacy decision for Kenya are expected to conclude positively before a formal announcement. He spoke at a preparatory meeting for the EU-Kenya Digital Dialogue on 13 November 2026, which also covered digital public infrastructure, AI, digital identity and cybersecurity.
 
 </div>
 

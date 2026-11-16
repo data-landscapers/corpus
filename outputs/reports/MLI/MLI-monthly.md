@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 place: MLI
-ledger_rows: 17
+ledger_rows: 18
 not_held: 1
-record: 4828a64b8656
+record: c51364590b90
 ---
 
 # News, Oct – Nov 2026
@@ -201,6 +201,20 @@ New BCEAO rules on interoperable transfers took effect in Mali on 2 November 202
 **[Fichier électoral : l'heure du grand nettoyage](https://bamada.net/fichier-electoral-lheure-du-grand-nettoyage)** — Bamada.net, 6 October 2026
 
 Mali's annual revision of the electoral lists runs from 1 October to 31 December 2026, Le Pays reported. Voters apply at town halls, or at embassies and consulates abroad. The territorial administration ministry runs it, with the election management body AIGE supervising. By law the lists are drawn from the biometric civil-status database, with the national identification number (NINA) as each voter's key.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital platform for the trade and personal-property credit register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Mali prépare les requêtes et les verdicts en ligne](https://aesnews.com/mali-ejustice-requetes-verdicts-en-ligne/)** — AES News, 15 November 2026
+
+Mali's Justice Minister, Mamoudou Kassogué, announced that the e-justice platform will be extended to filing requests and submissions, consulting hearing calendars and publishing verdicts online. Payment for criminal-record extracts and nationality certificates is already digital. He said a platform for the trade and personal-property credit register is nearly complete, with no commissioning date.
 
 </div>
 
