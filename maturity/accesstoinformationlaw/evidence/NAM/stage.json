@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "5",
+      "stage": "4",
       "standing": "in-force",
-      "reach": "applied",
+      "reach": "rules",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-002;NAM-001",
+      "stage_sources": "NAM-002;NAM-004",
       "gaps": "A May 2026 op-ed by the African Media Barometer rapporteur says the Act remains inoperative and its information commissioner unappointed (NAM-005, NAM-006). No commencement notice, decision on a request or published figures of requests have been found.",
-      "note": "Held at 5 on the ladder as worded: regulations made under the Act in December 2024 answer questions 3 and 4. A May 2026 source says the Act is inoperative and its commissioner unappointed, which on the other reading of question 4 would leave the cell at 3.",
-      "as_at": "2026-11-12"
+      "note": "The Act of 2022 is promulgated and regulations made under it in December 2024 answer question 3, so stage 4. Under message 130 question 4 needs the law operating: a rule made under it answers question 3 only. No decision, penalty or figures of requests are held, and in May 2026 the Act was reported inoperative.",
+      "as_at": "2026-11-16"
     }
   ]
 }

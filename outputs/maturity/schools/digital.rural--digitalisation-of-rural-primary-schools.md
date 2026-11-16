@@ -1,6 +1,6 @@
 # Digitalisation of rural primary schools: EMIS
 
-*As at 2026-11-13.*
+*As at 2026-11-16.*
 
 ## The norm
 
@@ -23,14 +23,24 @@ The African Union's Digital Education Strategy (2022), fourth objective: a move 
 | Stage | Countries |
 |---|---|
 | 5 Mature | 0 |
-| 4 Operating | 0 |
-| 3 Established | 20 |
+| 4 Operating | 1 |
+| 3 Established | 19 |
 | 2 Nascent | 21 |
 | 1 Absent | 1 |
 | Unplaced | 11 |
 | No evidence | 1 |
 
 ## Countries
+
+### Cape Verde: 4 Operating
+
+In 2025 the government said all basic schools use the system, with marks and absences entered per pupil; the rural share is not known.
+
+- The government states that SIGE is 'already used in all' basic and secondary schools (25 June 2025); it gives no count of schools and no total, and says used, not how many enter data ([source, 2025-06-25](https://www.governo.cv/damos-mais-um-passo-significativo-no-caminho-da-modernizacao-e-inclusao-digital-no-setor-da-educacao-dne/)).
+- The eSkola app, fully integrated with SIGE and updated from it in real time, shows parents each pupil's timetable, test calendar, marks, absences and school history, so SIGE holds marks and absences per pupil during the year (25 June 2025) ([source, 2025-06-25](https://www.governo.cv/damos-mais-um-passo-significativo-no-caminho-da-modernizacao-e-inclusao-digital-no-setor-da-educacao-dne/)).
+- The ministry's guidance for the 2023/2024 school year (July 2023) requires teachers to write the lesson summary and record absences daily in SIGE's digital class register during the lesson, to enter each assessment within 15 days, and to have all marks in SIGE at least 24 hours before the marks meetings; class directors complete each pupil's data and hold assessment meetings in SIGE ([source, 2023-07](https://minedu.gov.cv/media/orientacao/2024/09/04/CADERNO_DE_ORIENTA%C3%87%C3%95ES_GERAIS_ANO_LETIVO_2023-2024_-_vers%C3%A3o_final_2_1.pdf)).
+- Despacho 120/GME/2025 orders at 2.11 that teachers must record the information from pupils' assessment electronically as well, on the result-entry sheets of the SIGE platform, where each teacher gets the final marks calculated by the legal formulas; it states an obligation for basic and secondary education in 2025/2026, not a measure of practice ([source, 2025-09-01](https://boe.incv.cv/Bulletins/DownloadAct?id=86791)).
+- The Ministry of Education states that implementation of SIGE was concluded in February 2019 in all basic education schools of the country, 395 in total (395 of 395); the figure is of schools where it was implemented, not of schools entering data ([source, 2019-02](https://minedu.gov.cv/recursos_educativossigemenu)).
 
 ### Algeria: 3 Established
 
@@ -49,16 +59,6 @@ Primary schools entered enrolments and class lists themselves in 2026; no source
 - Benin Web TV reports that the Minister of Nursery and Primary Education's letter of 16 February 2026 to departmental directors, school-district heads and school heads concerns enrolments on EDUCMASTER for nursery and primary classes, after three years of the platform's operation ([source, 2026-02-16](https://beninwebtv.com/benin-le-ministre-karimou-exige-la-mise-a-jour-complete-des-donnees-des-classes-intermediaires-sur-educmaster/)).
 - The minister's letter of 16 February 2026 says schools themselves enter enrolments and update class lists on EDUCMASTER, and that several still enter only the CM2 candidates for the CEP examination and leave the intermediate nursery and primary classes not updated; the report mentions no entry of attendance or results ([source, 2026-02-16](https://beninwebtv.com/benin-le-ministre-karimou-exige-la-mise-a-jour-complete-des-donnees-des-classes-intermediaires-sur-educmaster/)).
 - The minister's letter of 16 February 2026 says 'several' schools do not update all their classes on EDUCMASTER after three years of operation; the report gives no number or share of schools that do or do not ([source, 2026-02-16](https://beninwebtv.com/benin-le-ministre-karimou-exige-la-mise-a-jour-complete-des-donnees-des-classes-intermediaires-sur-educmaster/)).
-
-### Cape Verde: 3 Established
-
-Teachers must record pupils' absences and marks in a system put in all 395 basic schools by 2019; no source reports the share entering them.
-
-- Despacho 120/GME/2025 orders at 2.11 that teachers must record the information from pupils' assessment electronically as well, on the result-entry sheets of the SIGE platform, where each teacher gets the final marks calculated by the legal formulas; it states an obligation for basic and secondary education in 2025/2026, not a measure of practice ([source, 2025-09-01](https://boe.incv.cv/Bulletins/DownloadAct?id=86791)).
-- The Ministry of Education states that implementation of SIGE was concluded in February 2019 in all basic education schools of the country, 395 in total (395 of 395); the figure is of schools where it was implemented, not of schools entering data ([source, 2019-02](https://minedu.gov.cv/recursos_educativossigemenu)).
-- The government states that SIGE is 'already used in all' basic and secondary schools (25 June 2025); it gives no count of schools and no total, and says used, not how many enter data ([source, 2025-06-25](https://www.governo.cv/damos-mais-um-passo-significativo-no-caminho-da-modernizacao-e-inclusao-digital-no-setor-da-educacao-dne/)).
-- The eSkola app, fully integrated with SIGE and updated from it in real time, shows parents each pupil's timetable, test calendar, marks, absences and school history, so SIGE holds marks and absences per pupil during the year (25 June 2025) ([source, 2025-06-25](https://www.governo.cv/damos-mais-um-passo-significativo-no-caminho-da-modernizacao-e-inclusao-digital-no-setor-da-educacao-dne/)).
-- The ministry's guidance for the 2023/2024 school year (July 2023) requires teachers to write the lesson summary and record absences daily in SIGE's digital class register during the lesson, to enter each assessment within 15 days, and to have all marks in SIGE at least 24 hours before the marks meetings; class directors complete each pupil's data and hold assessment meetings in SIGE ([source, 2023-07](https://minedu.gov.cv/media/orientacao/2024/09/04/CADERNO_DE_ORIENTA%C3%87%C3%95ES_GERAIS_ANO_LETIVO_2023-2024_-_vers%C3%A3o_final_2_1.pdf)).
 
 ### Comoros: 3 Established
 

@@ -3,7 +3,7 @@
   "cells": [
     {
       "sub_indicator": "emis",
-      "stage": "3",
+      "stage": "4",
       "governance": "owner:ministry;plan:current;finance:donor",
       "levels": "P;S",
       "kept": "routine",
@@ -11,10 +11,10 @@
       "schools": "share:100%",
       "cap": "",
       "flags": "",
-      "stage_sources": "CPV-005;CPV-008;CPV-014;CPV-015;CPV-026",
-      "gaps": "No share or count of basic education schools entering attendance or marks is published: 395 of 395 (February 2019) is schools where SIGE was implemented, 'used in all' (June 2025) gives no count, and the compact's indicator of schools with a functional SIGE has no baseline. The newest fact, the despacho in force from 1 September 2025, gives no figure and states an obligation, not practice. Nothing is dated inside the last twelve months; the donor finance stated is for one module only.",
-      "note": "SIGE is live in basic and secondary schools, with daily absences and marks per pupil required of teachers. Stage 4 needs a figure for primary schools entering data, and the only figures are of schools implemented or 'using' it, which place by the lower rung.",
-      "as_at": "2026-11-13"
+      "stage_sources": "CPV-014;CPV-015;CPV-026;CPV-005;CPV-008",
+      "gaps": "The government's statement that SIGE is 'already used in all' basic and secondary schools (June 2025) gives no count and no rural share; no figure separates rural schools, and nothing shows attendance entered daily in practice rather than required. Nothing is dated inside the last twelve months; the donor finance stated is for one module only.",
+      "note": "Bill's ruling (messages-for-bill 141): the government's statement that SIGE is used in all schools counts as a published share, so with marks and absences entered per pupil during the year the cell meets stage 4. Stage 5 needs a share for rural schools, and none is published.",
+      "as_at": "2026-11-16"
     }
   ]
 }

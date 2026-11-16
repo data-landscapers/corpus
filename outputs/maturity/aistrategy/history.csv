@@ -29,3 +29,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,CMR,gov.policy--ai-strategy,fact,3,3,CMR-002;CMR-005,"PATNUC coordinator, May 2026: AI strategic plan awaits validation; the minister's July 2025 launch still meets stage 3"
 2026-11-12,DJI,gov.policy--ai-strategy,fact,3,3,DJI-001,UNESCO page dated by year describes the strategy in drafting; the September 2026 launch report still sets stage 3
 2026-11-13,KEN,gov.policy--ai-strategy,fact,4,4,KEN-002;KEN-018,"AI and Emerging Technologies Policy at legal review (May 2026) is a separate draft; the 2025-2030 strategy stands, stage 4 held"
+2026-11-16,CMR,gov.policy--ai-strategy,ruling,3,2,CMR-011;CMR-005;CMR-004,"messages-for-bill 132: a minister's launch is not adoption, formal validation needed; 3->2"
+2026-11-16,NGA,gov.policy--ai-strategy,ruling,3,2,NGA-008;NGA-009;NGA-010,"messages-for-bill 132: a minister's launch is not adoption, formal validation needed; 3->2"
+2026-11-16,DJI,gov.policy--ai-strategy,ruling,3,2,DJI-001;DJI-009;DJI-004,"messages-for-bill 132: a minister's launch is not adoption, formal validation needed; 3->2"
+2026-11-16,MAR,gov.policy--ai-strategy,ruling,3,2,MAR-004;MAR-003,"messages-for-bill 132: a minister's launch is not adoption, formal validation needed; 3->2"
+2026-11-16,MRT,gov.policy--ai-strategy,ruling,3,2,MRT-008;MRT-001;MRT-003,"messages-for-bill 132: a minister's launch is not adoption, formal validation needed; 3->2"

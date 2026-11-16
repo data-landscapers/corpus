@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "1",
-      "inhouse": "outsourced",
+      "stage": "2",
+      "inhouse": "yes",
       "agency": "",
       "built": "",
       "own": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GIN-003",
-      "gaps": "No source found from 2023 or later says government staff run or maintain any of its systems; SICOM was built by finance ministry staff (GIN-002) but no source says who runs it.",
-      "note": "In December 2023 a USAID project was still training health ministry staff to administer the national eLMIS, with no administrators yet named to take it over (GIN-003): a body needing outside help. Question 1 has no yes, so 1.",
-      "as_at": "2026-11-12"
+      "stage_sources": "GIN-002",
+      "gaps": "No source from 2023 or later says ANDE or another body builds or runs systems for the rest of government; ANDE's mandate is dated by its 2022 decree (GIN-001). In December 2023 the health ministry still needed a donor project to administer the eLMIS (GIN-003). No source says who runs SICOM.",
+      "note": "The finance ministry's IT directorate built SICOM, launched on 20 May 2026, which answers question 1. Under message 133 a system government staff built answers question 1. No source from 2023 or later shows a technology body serving the rest of government, so 2.",
+      "as_at": "2026-11-16"
     }
   ]
 }

@@ -31,7 +31,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Is there an access to information law, or a draft of one? | A bill or draft published, validated, out for consultation, before cabinet or parliament, or passed, or a law made. A law only announced, planned or called for is not a yes |
 | 2 | Is that law in force? | A law, ordinance or decree with the force of law in force that gives a right to ask public bodies for information. A bill or draft is not a yes |
 | 3 | Has it been put to work: rules made under it, or the body that oversees it set up? | A dated decree, regulation or order made under the law; or the information commission or commissioner the law provides for appointed; or an existing body the law names, such as an ombudsman or a human rights commission, reported as having taken up the job |
-| 4 | Has it been applied in the last three years? | A dated decision, order or penalty by the oversight body or a court on a request made under the law; a report by the oversight body giving the number of requests or complaints; or a rule made under the law |
+| 4 | Has it been applied in the last three years? | A dated decision, order or penalty by the oversight body or a court on a request made under the law; or a report by the oversight body giving the number of requests or complaints. A rule made under the law is not a yes *(Bill, 2026-11-16, message 130)* |
 
 ## 3. The ladders
 
@@ -57,7 +57,7 @@ Asked in order. Each is answered with a date and a link.
 - **A body that also protects personal data counts only for what a source says it did under the access to information law.** A data protection ruling is not a yes to question 4.
 - **A budget voted to the commission shows it is set up**, a yes to question 3 and no more.
 - **A penalty the oversight body imposes under the law is the law applied** *(added in the run, for Ghana)*.
-- **An oversight body reported as existing is a yes to question 3 only**; a rule made under the law in the last three years is a yes to 3 and 4.
+- **An oversight body reported as existing is a yes to question 3 only**, and so is a rule made under the law: question 4 asks for the law operating *(Bill, 2026-11-16, message 130)*.
 - **Training, an awareness week, a call for applications, or information officers named is not a yes to question 4.** The question asks for a decision, a penalty or published figures.
 - **A request reported as refused or ignored, with no decision on it, is noted and is not a yes to question 4.**
 - **What the law covers is taken from what a source says of it**, never from reading its text for the purpose.

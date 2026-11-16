@@ -21,11 +21,11 @@ The African Charter on the Values and Principles of Public Service and Administr
 | Stage | Countries |
 |---|---|
 | 5 Mature | 12 |
-| 4 Operating | 9 |
+| 4 Operating | 10 |
 | 3 Established | 9 |
-| 2 Nascent | 10 |
-| 1 Absent | 4 |
-| Unplaced | 5 |
+| 2 Nascent | 11 |
+| 1 Absent | 3 |
+| Unplaced | 4 |
 | No evidence | 5 |
 
 ## Countries
@@ -197,6 +197,13 @@ Government staff built a system that went live in 2025; fewer than three systems
 - Agence Ecofin reports that the Agence numerique de l'Etat, under the digital transformation ministry, developed the AI road-safety solution put into service across the national road network on 26 December 2025 ([source, 2025-12-26](https://www.agenceecofin.com/actualites-numerique/2612-134553-la-mauritanie-met-en-service-une-solution-d-ia-dediee-a-la-securite-routiere)).
 - The Interior Ministry says the Houwiyeti application, which won the Africa T-Awards 2026 government category, was developed by a team of ANRPTS engineers ([source, 2026-04-09](https://ami.mr/fr/archives/292885)).
 
+### Niger: 4 Operating
+
+In 2025 the state ICT agency built and handed over a National Guard personnel system; who runs it is not known.
+
+- ANSI's technical teams designed and developed SIGEPAP-GNN, which was presented and handed to the National Guard on 23 April 2025 and is described as deployed ([source, 2025-04-23](https://anp.ne/lansi-lance-le-systeme-integre-de-gestion-des-ressources-humaines-de-la-gnn-2/)).
+- ANSI, the national information society agency, designed SIGEPAP-GNN, the personnel, postings and pensions system of the National Guard, presented on 23 April 2025 under an ANSI-National Guard memorandum of August 2024 ([source, 2025-04-23](https://anp.ne/lansi-lance-le-systeme-integre-de-gestion-des-ressources-humaines-de-la-gnn-2/)).
+
 ### Nigeria: 4 Operating
 
 Government staff built a system that went live in 2026; fewer than three systems are known to be run wholly by government staff.
@@ -295,6 +302,12 @@ Government staff run or maintain systems by 2026; no body is known to serve the 
 
 - NOSI states its own specialists are working round the clock, with the implementing company, the project consultant and the data centre, to fix slow performance in its digital transformation system, live since 24 February 2026 ([source, 2026-04-22](https://www.nosi.gov.eg/ar/News/Pages/2026-04-22.aspx)).
 
+### Guinea: 2 Nascent
+
+In 2026 the finance ministry's own staff built and launched an asset accounting system; who runs it is not known.
+
+- The finance ministry says it launched SICOM, a public-asset accounting system developed entirely by Guinean staff of its IT directorate (DNSI) with the Direction Nationale de la Comptabilité Matière, on 20 May 2026, with 24 ministries integrated ([source, 2026-05-20](https://www.mef.gov.gn/modernisation-des-finances-publiques-la-guinee-lance-sicom-son-nouvel-outil-numerique-souverain-de-gestion-du-patrimoine-public/)).
+
 ### Liberia: 2 Nascent
 
 Revenue authority programmers built a police clearance platform launched in 2026; no government body building systems for the rest of government is known.
@@ -356,12 +369,6 @@ A 2026 source says a government body relies on outside suppliers to run its syst
 
 - Independent News reports the Digital Landscape Assessment Report found 15 ministries have no in-house ICT officers and depend entirely or substantially on RSTP for technical functions, with only 18 dedicated ICT professionals supporting the whole government digital estate assessed ([source, 2026-05-21](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/)).
 
-### Guinea: 1 Absent
-
-In 2023 the health ministry still needed a donor project to run its supply system; no system run by government staff is known.
-
-- The document says the USAID GHSC-PSM project is still transferring the skills to administer the national eLMIS to government staff, with administrators yet to be identified to take over its management from the project ([source, 2023-12](https://www.ghsupplychain.org/news/guinean-computer-scientists-trained-manage-health-logistics-system)).
-
 ### Burundi: Unplaced
 
 The government ICT secretariat runs systems for public institutions in 2026, but no source shows government staff running a system, so no stage is set.
@@ -373,12 +380,6 @@ Not established: No source found from 2023 or later says government staff run or
 No source found from 2023 or later says government staff run its systems, so no stage is set.
 
 Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
-
-### Niger: Unplaced
-
-The state ICT agency built a National Guard personnel system in 2025; no source shows staff running a system, so no stage is set.
-
-Not established: No source found from 2023 or later says government staff run a system. ANSI built SIGEPAP-GNN for the National Guard in 2025 (NER-001, NER-002), which answers questions 2 and 3 but not question 1.
 
 ### South Sudan: Unplaced
 

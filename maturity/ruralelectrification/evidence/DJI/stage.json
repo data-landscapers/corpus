@@ -9,7 +9,7 @@
       "flags": "",
       "stage_sources": "DJI-004",
       "gaps": "The latest figure, 53.9 per cent of rural people for 2024, is below 80.",
-      "note": "The World Bank series gives 53.9 per cent of rural people with electricity in 2024, below the 80 per cent line, so stage 3. National and survey figures in the listed news count households or the grid, and do not set the rung.",
+      "note": "The World Bank series gives 53.9 per cent of rural people with electricity in 2024, below the 80 per cent line, so stage 3. The rebuild's search staged national figures for ingest; under message 138 they will count once held.",
       "as_at": "2026-11-13"
     }
   ]

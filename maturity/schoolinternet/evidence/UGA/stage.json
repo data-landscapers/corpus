@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "schools",
-      "stage": "4",
-      "internet": "official:63",
+      "stage": "unplaced",
+      "internet": "",
       "curriculum": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-001",
-      "gaps": "No source found since October 2023 says digital literacy or computing is a compulsory subject in the national secondary curriculum.",
-      "note": "Rebuild: 63 per cent for 2026 (UNICEF and Ministry assessment) is at or above 50, so stage 4. No row says digital literacy or computing is compulsory in the secondary curriculum, so not 5.",
-      "as_at": "2026-11-13"
+      "stage_sources": "",
+      "gaps": "No figure has been found for secondary schools with internet for teaching. The 2026 UNICEF and ministry assessment counts schools with internet access, 63 per cent of 3,257 assessed, and does not say the internet reaches classrooms; it may be a single connection in an office. No source found since October 2023 says digital literacy or computing is compulsory.",
+      "note": "Bill's ruling (messages-for-bill 140): the 63 per cent figure is of schools with any internet access, not internet available for teaching, so it cannot set a rung. Unplaced until a figure for internet in classrooms arrives.",
+      "as_at": "2026-11-16"
     }
   ]
 }

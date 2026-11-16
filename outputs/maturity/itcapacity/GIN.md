@@ -2,7 +2,7 @@
 
 ## In-house capacity
 
-**Government staff.** [In December 2023 a USAID supply chain project trained health ministry staff and two local firms to administer the national eLMIS](<https://www.ghsupplychain.org/news/guinean-computer-scientists-trained-manage-health-logistics-system>), the medicines logistics system. The project was still transferring those skills. The ministry had yet to name the administrators who would take over the system's management from the project.
+**Government staff.** [On 20 May 2026 the finance ministry launched SICOM](<https://www.mef.gov.gn/modernisation-des-finances-publiques-la-guinee-lance-sicom-son-nouvel-outil-numerique-souverain-de-gestion-du-patrimoine-public/>), a public-asset accounting system. Staff of its IT directorate developed it entirely. It connects 24 ministries. [In December 2023 a USAID supply chain project trained health ministry staff and two local firms to administer the national eLMIS](<https://www.ghsupplychain.org/news/guinean-computer-scientists-trained-manage-health-logistics-system>). That is the medicines logistics system. The ministry had yet to name the administrators who would take over its management from the project.
 
 **A technology body for government.** No source found from 2023 or later says a body runs systems for the rest of government. [A decree of 12 April 2022 created ANDE](<https://ande.gov.gn/mission-et-attributions/>), the state digital agency. Its task is to build and manage state-wide systems such as the state intranet.
 
@@ -12,4 +12,4 @@
 
 ***Also on file***. [FUGAS (fichier unique de gestion administrative et de la solde)](<https://www.africaguinee.com/ministere-de-la-modernisation-de-ladministration-le-president-doumbouya-nomme-plusieurs-hauts-cadres/>); [State intranet](<https://ande.gov.gn/mission-et-attributions/>); [Integrated financial and administrative management system](<https://ande.gov.gn/mission-et-attributions/>).
 
-***Not found***. No source found from 2023 or later says government staff run or maintain any of its systems.
+***Not found***. No source from 2023 or later says a body builds or runs systems for the rest of government. No source says who runs SICOM.

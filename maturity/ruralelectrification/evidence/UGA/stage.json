@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "rural",
-      "stage": "2",
-      "access": "official:44.8",
+      "stage": "1",
+      "access": "official:9.1",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-004",
-      "gaps": "An August 2026 opinion piece's 9.1 per cent (UGA-005) is unsourced and not the World Bank series. The latest figure, 44.8 per cent of rural people for 2024, is below 53.",
-      "note": "The World Bank series gives 44.8 per cent of rural people with electricity in 2024, below the 53 per cent line, so stage 2. An August 2026 opinion piece's 9.1 per cent is not from the series and does not set the rung.",
-      "as_at": "2026-11-15"
+      "stage_sources": "UGA-005",
+      "gaps": "The August 2026 opinion piece gives no source for its 9.1 per cent; the World Bank's series gives 44.8 per cent for 2024.",
+      "note": "The latest figure, 9.1 per cent of rural people in an August 2026 opinion piece, is below the 27 per cent line, so stage 1. Under message 138 a figure from any source counts, not only the World Bank series.",
+      "as_at": "2026-11-16"
     }
   ]
 }

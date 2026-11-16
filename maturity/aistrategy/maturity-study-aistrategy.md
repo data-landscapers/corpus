@@ -29,7 +29,7 @@ Asked in order. Each is answered with a date and a link.
 | # | Question | A yes is |
 |---|---|---|
 | 1 | Is there a national AI strategy, or one being written? | A strategy, policy or roadmap for AI: being drafted, out for consultation, or adopted. A task force appointed to write it counts. A stated intention with no drafting begun is not a yes |
-| 2 | Has the government adopted it, and has it not run out? | Approved by cabinet, or launched or issued by the head of state, the minister or the agency responsible, and not ended, replaced or withdrawn. A strategy with no end date counts |
+| 2 | Has the government adopted it, and has it not run out? | Approved by cabinet or formally validated by the government, and not ended, replaced or withdrawn. A strategy with no end date counts |
 | 3 | Has the government named a body to carry it out? | A council, office, agency, committee or ministry unit set up or named to carry out the strategy, by an instrument or reported at work |
 | 4 | Has the government put money into carrying it out? | In the last three years: a dated source naming public money allocated to the strategy, or an action in the strategy started with funding named |
 
@@ -52,6 +52,7 @@ Asked in order. Each is answered with a date and a link.
 - **The ministry that wrote the strategy being responsible for it in general is not a yes to question 3.** The source must name the body or unit given the job.
 - **A body counts for question 3, and money for question 4, only where the source ties it to the strategy.** An AI centre, hub or fund with no strategy behind it is noted. A donor's or company's AI project is noted.
 - **A body set up to write the strategy answers question 1, not question 3.**
+- **A launch or issue by a minister or agency is not adoption** *(Bill, messages-for-bill 132, 2026-11-16)*: question 2 needs cabinet approval or formal validation.
 - **A strategy adopted but not yet in effect is a yes to question 2**, and the summary gives the date it starts.
 - **How good the strategy is, is not judged.** The African Union's Continental AI Strategy, and whether a country's strategy says it follows it, is noted and does not change the stage. So is a UNESCO readiness assessment.
 - **A strategy that is part of a larger strategy or law** is named in the summary by that instrument's name; the digital strategy and ICT policy rows are not changed by it.

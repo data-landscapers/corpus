@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 |---|---|
 | 5 Mature | 8 |
 | 4 Operating | 21 |
-| 3 Established | 14 |
-| 2 Nascent | 10 |
+| 3 Established | 15 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -292,6 +292,12 @@ Djibouti hosted an African Union forum in December 2025 that adopted a digital e
 
 - Djibouti hosted the 16th African Union Private Sector Forum on 8-10 December 2025, which adopted the 'Djibouti Declaration' on the digital economy and intra-African trade; the African Union Commission says so (event dated at its close, 10 December) ([source, 2025-12-10](https://au.int/en/pressreleases/20251211/16th-psf-concluded-strong-assertion-digital-economy-transformation)).
 
+### Equatorial Guinea: 3 Established
+
+Equatorial Guinea held the rotating presidency of the Central African community in 2026; nothing it agreed is known to be in effect.
+
+- Equatorial Guinea currently chairs the rotating ECCAS presidency, and its Director General of Telecommunications, Celedonio Nguema Angono, spoke for it at the 19-20 October 2026 Brazzaville validation of the ECCAS Regional Data Governance Framework ([source, 2026-10-20](https://www.uneca.org/stories/eccas-validates-regional-data-governance-framework-to-advance-digital-integration-in-central)).
+
 ### Eswatini: 3 Established
 
 Eswatini's regulator signed a cooperation agreement with Lesotho's in October 2026; no source found says whether any agreement has been put into effect.
@@ -364,13 +370,6 @@ The Central African Republic joined Smart Africa by 2026 and signed Africa's 202
 Egypt says it contributed to the African Union's artificial intelligence strategy, stated in 2026; no agreement or seat in an African body is known.
 
 - Egypt's assistant foreign minister for African affairs said on 22 September 2026 that Egypt contributed to developing the African Union's continental AI strategy and continues to take part in efforts to deepen African cooperation on AI and digital integration ([source, 2026-09-22](https://english.ahram.org.eg/NewsContent/3/1239/577214/Business/Tech/Egypt-seeks-to-expand-technology-diplomacy,-deepen.aspx)).
-
-### Equatorial Guinea: 2 Nascent
-
-Equatorial Guinea took part in a Lusophone data governance workshop in June 2026; no agreement or role of its own is known.
-
-- Equatorial Guinea was one of six countries whose delegations took part in the Second Lusophone Africa Data Governance Workshop in Luanda, 15-17 June 2026, hosted by Angola's data protection agency with Smart Africa, the World Bank, CETIC.br and UNESCO; the UNESCO article is dated 2026-07-28 ([source, 2026-06](https://www.unesco.org/en/articles/advancing-data-infrastructure-and-governance-lusophone-africa-regional-workshop-concludes-luanda)).
-- Equatorial Guinea is listed among the 49 countries that signed the Africa Declaration on Artificial Intelligence, done at Kigali on 4 April 2025 alongside the African Union and Smart Africa ([source, 2025-04-04](https://c4ir.rw/docs/Africa-Declaration-on-Artificial-Intelligence.pdf)).
 
 ### Guinea-Bissau: 2 Nascent
 

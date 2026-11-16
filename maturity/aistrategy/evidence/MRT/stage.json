@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "strategy",
-      "stage": "3",
-      "standing": "adopted",
+      "stage": "2",
+      "standing": "draft",
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MRT-002;MRT-001",
-      "gaps": "No source found names a body set up or named to carry out the strategy: a council, office, agency, committee or ministry unit.",
-      "note": "Counted from the four questions by study-ladder-aistrategy.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "MRT-008;MRT-001;MRT-003",
+      "gaps": "No source found says the 2025-2029 strategy has been adopted or validated: the digital ministry issued a final edition in July 2024 and has published it, and no source says the Council of Ministers approved it. No body named to carry it out has been found.",
+      "note": "Bill's ruling (messages-for-bill 132): issue by the ministry is not adoption, and formal validation is needed. The ministry published the strategy with no approval stated, so stage 2.",
+      "as_at": "2026-11-16"
     }
   ]
 }

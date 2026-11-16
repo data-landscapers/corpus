@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "strategy",
-      "stage": "3",
-      "standing": "adopted",
+      "stage": "2",
+      "standing": "draft",
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-010;NGA-011",
-      "gaps": "No source found names a body set up or named to carry out the strategy: a council, office, agency, committee or ministry unit. In March 2026 the minister said the strategy would go to the National Assembly for approval.",
-      "note": "The minister announced the strategy's launch in April 2025 and the ministry records its formal launch in 2025, which meets stage 3; the ministry leads it in general and no body is named for it, so not stage 4.",
-      "as_at": "2026-10-22"
+      "stage_sources": "NGA-008;NGA-009;NGA-010",
+      "gaps": "No source found says the strategy has been approved: the minister announced its launch in April 2025, a September 2025 source says it is yet to be approved by the Federal Executive Council, and in March 2026 the minister said it would go to the National Assembly for approval. No body named to carry it out has been found.",
+      "note": "Bill's ruling (messages-for-bill 132): a minister's launch is not adoption, and formal validation is needed. The strategy awaited Federal Executive Council and National Assembly approval in 2025 and 2026, so stage 2.",
+      "as_at": "2026-11-16"
     }
   ]
 }

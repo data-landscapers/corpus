@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "rural",
-      "stage": "1",
-      "access": "official:23.5",
+      "stage": "2",
+      "access": "official:40.4",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-004",
-      "gaps": "The National Bureau of Statistics' 40.4 per cent of rural households connected, cited in January 2026 (NGA-005), counts households, not rural people, and is not the World Bank series.",
-      "note": "The World Bank series gives 23.5 per cent of rural people with electricity in 2024, below the 27 per cent line, so stage 1. The statistics bureau's 40.4 per cent of rural households, cited in January 2026, is not from the series and does not set the rung.",
-      "as_at": "2026-11-15"
+      "stage_sources": "NGA-005",
+      "gaps": "The 40.4 per cent counts rural households, not people; the World Bank's series gives 23.5 per cent of rural people for 2024. The latest figure is below 53.",
+      "note": "The latest figure, the statistics bureau's 40.4 per cent of rural households connected, cited in January 2026, is 27 or more and below 53, so stage 2. Under message 138 a figure from any source counts, not only the World Bank series.",
+      "as_at": "2026-11-16"
     }
   ]
 }

@@ -20,8 +20,8 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 
 | Stage | Countries |
 |---|---|
-| 5 Mature | 13 |
-| 4 Operating | 6 |
+| 5 Mature | 10 |
+| 4 Operating | 9 |
 | 3 Established | 13 |
 | 2 Nascent | 13 |
 | 1 Absent | 5 |
@@ -46,13 +46,6 @@ Ghana's 2019 Right to Information Act is in force, and its commission fined 254 
 - GNA reports that the Right to Information Commission, with a board chairman, exists and is empowered by the Act to oversee and enforce compliance, as of the 2026 stakeholders conference ([source, 2026-09-26](https://gna.org.gh/2026/09/rti-act-public-institutions-urged-to-provide-accurate-timely-information-to-citizens/)).
 - The Fourth Estate says Ghana's RTI law was passed in 2019 and requires public institutions to release information, and it counted 21 institutions that failed to release information in 24 requests, January 2025 to July 2026 ([source, 2019](https://thefourthestategh.com/2026/09/transparency-in-words-secrecy-in-practice-how-mdas-are-betraying-govts-transparency-pledge)).
 
-### Kenya: 5 Mature
-
-Kenya's 2016 Access to Information Act is in force, with regulations made under it in 2023; no source found reports decisions on requests.
-
-- The Star reports that the 2023 Access to Information Regulations, made under the Act, define proactive disclosure and set what public entities must publish ([source, 2023](https://www.the-star.co.ke/news/2026-09-27-state-vows-proactive-disclosure-as-kenya-marks-access-to-information-day)).
-- The Commission on Administrative Justice (Ombudsman) says it will engage 54 public institutions to strengthen compliance with the Access to Information (ATI) Act, 2016, and says many institutions do not routinely publish information the Act requires ([source, 2026-08-25](https://kahawatungu.com/ombudsman-raises-alarm-over-delays-in-resolving-public-complaints/)).
-
 ### Malawi: 5 Mature
 
 Malawi's Access to Information Act has run since 2020; its oversight body reported over 36,000 requests handled in the year to March 2025.
@@ -60,13 +53,6 @@ Malawi's Access to Information Act has run since 2020; its oversight body report
 - The commission's report for April 2024 to March 2025 says information holders processed over 36,000 requests with 11 rejections; the article is dated 11 October 2025 and the report was presented on the Friday before ([source, 2025-10-10](https://africabrief.substack.com/p/malawi-advances-information-access)).
 - The article reports that the Malawi Human Rights Commission, which the Act makes its oversight body, issued a notice to the company Mota-Engil to assess whether it had mechanisms to comply with the Act; the High Court on 6 March 2026 found the decision to assess was neither illegal nor unreasonable. The notice itself is undated; the date is the ruling's ([source, 2026-03-06](https://www.maraviexpress.com/access-to-information-act-applies-to-private-companies-undertaking-malawi-government-contracts-rules-the-high-court/)).
 - The article says the Access to Information Act (ATIA), which gives public access to government-held information, became operational in September 2020 ([source, 2020-09](https://africabrief.substack.com/p/malawi-advances-information-access)).
-
-### Namibia: 5 Mature
-
-Namibia's 2022 Access to Information Act has regulations of 2024 for choosing its commissioner; in May 2026 the Act was still not in operation.
-
-- The document is the text of the Access to Information Act, 2022 (Act No. 8 of 2022), promulgated in Government Gazette 7986 on 28 December 2022; it gives a right of access to information held by public and private entities, and commences on a date the Minister sets by Gazette notice (section 86), with no commencement date stated as of the page's 2026-08-09 check ([source, 2022-12-28](http://www.lac.org.na/laws/2022/7986.pdf)).
-- Government Notice 380 of 9 December 2024 gazettes regulations made by the Minister of Information and Communication Technology under section 6(9) of the Access to Information Act, 2022, on the terms of the Selection Committee and the process for appointing the Information Commissioner and Deputy ([source, 2024-12-09](https://www.lac.org.na/laws/2024/8530.pdf)).
 
 ### Nigeria: 5 Mature
 
@@ -115,15 +101,6 @@ Uganda's Access to Information Act has had regulations since 2011 and the High C
 - AFIC's May 2024 presentation says the Access to Information Act (2005) has Regulations (2011) that specify the information citizens can request and the exemptions ([source, 2011](https://www.africafoicentre.org/access-to-information-in-uganda-prospects-and-hurdles/)).
 - The High Court of Uganda (Civil Division) on 7 August 2026 allowed UNEB's appeal against a Chief Magistrates Court order, made on a complaint against an information officer's decision under the ATIA, that had compelled release of a candidate's examination scripts, and set aside UGX 12,000,000 damages ([source, 2026-08-07](https://www.mmaks.co.ug/articles/2026/08/21/examination-scripts-are-personal-data-high-court-sets-aside-order-compelling)).
 
-### Zambia: 5 Mature
-
-Zambia's 2023 Access to Information Act came into force in June 2025, with regulations and oversight guidelines issued the same year.
-
-- The Human Rights Commission, named in section 4(1) of the Act as oversight body, issued the Access to Information Guidelines, 2025 (Government Notice No. 1624 of 2025) under section 38(2) of the Act; the document is dated 2025-12-05 (its published date) ([source, 2025-12-05](https://hrc.org.zm/wp-content/uploads/2025/12/Access-To-Information-Guidelines_2025.pdf)).
-- The Minister of Information and Media made the Access to Information (General) Regulations, 2025 (SI 56 of 2025), setting request forms, fees and procedures; signed 20 August 2025 ([source, 2025-08-20](https://zambialii.org/akn/zm/act/si/2025/56/eng@2025-08-29/source)).
-- The permanent secretary says the Access to Information Guidelines were published on 5 December 2025 through Gazette Notice No. 1624 of 2025; the Act's rules were still being finalised by the Ministry of Justice for the Chief Justice's signature in July 2026 ([source, 2025-12-05](https://diggers.news/local/2026/07/25/were-in-the-final-stage-of-operationalising-the-ati-act-govt/)).
-- The Ministry of Information and Media's permanent secretary says the Access to Information Act came into force on 25 June 2025 after the minister signed a commencement order ([source, 2025-06-25](https://diggers.news/local/2026/07/25/were-in-the-final-stage-of-operationalising-the-ati-act-govt/)).
-
 ### Zimbabwe: 5 Mature
 
 Zimbabwe's 2020 Freedom of Information Act is in force, and its oversight commission issued release orders, reported in 2024; no source found says how many.
@@ -147,6 +124,13 @@ The Gambia's 2021 Access to Information Act is in force and its Information Comm
 - UNFPA tenders a communication strategy for the Information Commission of The Gambia, which exists as the Act's oversight body; dated to publication ([source, 2026-08-17](https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia)).
 - The Gambia Immigration Department, in a press release reported by Gambiana, reaffirmed its commitment to the Access to Information Act, 2021 ([source, 2026-10-13](https://gambiana.com/gid-denies-losing-access-to-national-id-card-data/)).
 
+### Kenya: 4 Operating
+
+Kenya's 2016 Access to Information Act is in force, with regulations made under it in 2023; no source found reports decisions on requests.
+
+- The document is the text of Kenya's Access to Information Act, 2016, which gives effect to Article 35 of the Constitution, sets out a right to information and how to apply to public entities, and confers oversight and enforcement on the Commission on Administrative Justice; the text carries no assent or commencement date, so the year is the Act's ([source, 2016](https://www.rti-rating.org/wp-content/uploads/Kenya.pdf)).
+- The Star reports that the 2023 Access to Information Regulations, made under the Act, define proactive disclosure and set what public entities must publish ([source, 2023](https://www.the-star.co.ke/news/2026-09-27-state-vows-proactive-disclosure-as-kenya-marks-access-to-information-day)).
+
 ### Liberia: 4 Operating
 
 Liberia's 2010 Freedom of Information Act is in force and its commission ran a compliance campaign in 2026; no source found reports decisions on requests.
@@ -161,6 +145,13 @@ Morocco's 2018 law on the right of access to information is in force and its com
 - The Ministry of Justice reports that the Right to Access Information Commission, led by its president, signed a partnership agreement with the minister on 31 March 2026, showing the commission is set up and running the national portal ([source, 2026-03-31](https://justice.gov.ma/2026/03/31/%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A5%D9%84%D9%89-%D8%A7/)).
 - The Ministry of Justice says requests and complaints are filed and processed under Law No. 31.13 on the right of access to information, which names the bodies covered in its article 2; the document gives no year for the law, so it is dated to its publication ([source, 2026-03-31](https://justice.gov.ma/2026/03/31/%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A5%D9%84%D9%89-%D8%A7/)).
 
+### Namibia: 4 Operating
+
+Namibia's 2022 Access to Information Act has regulations of 2024 for choosing its commissioner; in May 2026 the Act was still not in operation.
+
+- The document is the text of the Access to Information Act, 2022 (Act No. 8 of 2022), promulgated in Government Gazette 7986 on 28 December 2022; it gives a right of access to information held by public and private entities, and commences on a date the Minister sets by Gazette notice (section 86), with no commencement date stated as of the page's 2026-08-09 check ([source, 2022-12-28](http://www.lac.org.na/laws/2022/7986.pdf)).
+- Government Notice 380 of 9 December 2024 gazettes regulations made by the Minister of Information and Communication Technology under section 6(9) of the Access to Information Act, 2022, on the terms of the Selection Committee and the process for appointing the Information Commissioner and Deputy ([source, 2024-12-09](https://www.lac.org.na/laws/2024/8530.pdf)).
+
 ### South Sudan: 4 Operating
 
 South Sudan's 2013 access to information law is in force and its Information Commission is funded; no decision or request figures are known.
@@ -174,6 +165,14 @@ Togo's 2016 law on access to public information is in force with an implementing
 
 - Decree No. 2017-104/PR of 10 August 2017, published in the Journal Officiel, is made in application of Law No. 2016-006 of 30 March 2016 on freedom of access to public information and documentation, and sets out the public bodies concerned, the officials responsible, the documents that may be communicated, and the procedure for communicating and publishing them online ([source, 2017-08-10](https://jo.gouv.tg/sites/default/files/JO/JOS_10_08_2017-62e%20ANNEE%20N%C2%B0%2023%20ter.pdf)).
 - This document is the text of Law No. 2016-006 of 30 March 2016 on freedom of access to public information and documentation, adopted by the National Assembly in plenary on 10 March 2016, which guarantees citizens' right of access to information held by public bodies ([source, 2016-03-30](https://www.rti-rating.org/wp-content/uploads/Togo.pdf)).
+
+### Zambia: 4 Operating
+
+Zambia's 2023 Access to Information Act came into force in June 2025, with regulations and oversight guidelines issued the same year.
+
+- The Ministry of Information and Media's permanent secretary says the Access to Information Act came into force on 25 June 2025 after the minister signed a commencement order ([source, 2025-06-25](https://diggers.news/local/2026/07/25/were-in-the-final-stage-of-operationalising-the-ati-act-govt/)).
+- The permanent secretary says the Access to Information Regulations, 2025 (SI No. 56 of 2025) were signed on 29 August 2025 ([source, 2025-08-29](https://diggers.news/local/2026/07/25/were-in-the-final-stage-of-operationalising-the-ati-act-govt/)).
+- The permanent secretary says the Access to Information Guidelines were published on 5 December 2025 through Gazette Notice No. 1624 of 2025; the Act's rules were still being finalised by the Ministry of Justice for the Chief Justice's signature in July 2026 ([source, 2025-12-05](https://diggers.news/local/2026/07/25/were-in-the-final-stage-of-operationalising-the-ati-act-govt/)).
 
 ### Angola: 3 Established
 

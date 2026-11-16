@@ -1,16 +1,17 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "5",
-   "standing": "in-force",
-   "reach": "applied",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-002;ZMB-004;ZMB-007;ZMB-005",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "4",
+      "standing": "in-force",
+      "reach": "rules",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-005;ZMB-006;ZMB-007",
+      "gaps": "No decision, order or penalty on a request, and no published figures of requests or complaints, have been found.",
+      "note": "The 2023 Act came into force in June 2025 and the 2025 regulations and guidelines made under it answer question 3, so stage 4. Under message 130 question 4 needs the law operating: a rule made under it answers question 3 only.",
+      "as_at": "2026-11-16"
+    }
+  ]
 }

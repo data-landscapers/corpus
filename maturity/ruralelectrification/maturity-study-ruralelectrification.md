@@ -43,6 +43,7 @@ The study redraws `infra.energy--rural-electrification`, which as at 2026-08-31 
 
 - **The lines are the frame's own cuts** (`lookups/maturity-measures.csv`, direction higher), fixed and not redrawn as quintiles.
 - **A fall is a fall**: the latest figure sets the stage. No figure for 2023 or later is *unplaced*.
+- **Any source's figure counts** *(Bill, 2026-11-16, message 138)*: a national or survey figure, most of which count households, as well as the World Bank series. The newest dated figure sets the stage.
 
 `study.json` holds this as one aspect, `access`, whose value is the figure (`official:…`).
 

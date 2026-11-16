@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "strategy",
-      "stage": "3",
-      "standing": "adopted",
+      "stage": "2",
+      "standing": "draft",
       "use": "",
       "cap": "",
       "flags": "",
       "stage_sources": "MAR-004;MAR-003",
-      "gaps": "No source found names a body set up or named to carry out the roadmap, or public money allocated to it.",
-      "note": "The minister launched Morocco AI 2030 on 10 November 2026, so a strategy is adopted and running. No source ties a council, office or unit to it, so not stage 4.",
-      "as_at": "2026-11-11"
+      "gaps": "No source found says Morocco AI 2030 has been adopted or validated: the minister told parliament on 10 November 2026 that he was launching it. Digital Morocco 2030 names AI as one lever of a digital strategy, which does not count. No body named to carry it out has been found.",
+      "note": "Bill's ruling (messages-for-bill 132): a minister's launch is not adoption, and formal validation is needed. The minister launched the roadmap in November 2026 with no adoption stated, so stage 2.",
+      "as_at": "2026-11-16"
     }
   ]
 }

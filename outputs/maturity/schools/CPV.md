@@ -14,4 +14,4 @@
 
 ***Also on file***. A [distance learning platform for teacher training courses](<https://documents1.worldbank.org/curated/en/099031026114025875/pdf/P175828-f967c7fb-95be-4e0d-aa08-09adcfcf0b76.pdf>). [WebLab](<https://www.nosi.cv/en/solu%C3%A7%C3%B5es-egov>). [SIGAE](<https://www.nosi.cv/en/solu%C3%A7%C3%B5es-egov>), for scholarship recipients. [SIGAA-RH](<https://minedu.gov.cv/media/plano/2024/07/24/Plano_Estrategico_24072024.pdf>), the ministry's human resources system.
 
-***Not found***. A published share or count of basic education schools entering attendance or marks, and any share for rural schools. Nothing is dated inside the last twelve months, and the donor finance stated is for one module only.
+***Not found***. A count of basic education schools entering attendance or marks, and any share for rural schools. Nothing is dated inside the last twelve months, and the donor finance stated is for one module only.

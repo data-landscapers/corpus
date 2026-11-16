@@ -30,7 +30,7 @@ Asked in order. Each is answered with a date and a link.
 
 | # | Question | A yes is |
 |---|---|---|
-| 1 | Do government staff run or maintain any of its computer systems? | A source from 2023 or later states a government body's own technical staff run, maintain or support a named system |
+| 1 | Do government staff run or maintain any of its computer systems? | A source from 2023 or later states a government body's own technical staff run, maintain, support or built a named system *(Bill, 2026-11-16, message 133)* |
 | 2 | Does a government technology body build or run systems for the rest of government? | A source from 2023 or later states a government agency or state company builds, hosts or runs systems for ministries |
 | 3 | Has a government team built a system that went live in the last three years? | A source states a system built by government staff, not a contractor, went live in October 2023 or later |
 | 4 | Do government staff wholly run three or more of its systems? | Sources from the last three years name three or more systems that government staff run, maintain or built, with no contractor named doing the work |
@@ -51,6 +51,7 @@ Asked in order. Each is answered with a date and a link.
 - **Stage 3 changes.** The row's "in-house teams on some systems" becomes question 1. Its place is taken by a body whose job is the rest of government's systems, which is what separates one team from a capacity.
 - **Stage 4 keeps the row's "systems built in-house"** as one fact a story states: a launch built by government staff. The row's cadre moves up.
 - **Stage 5 is three or more systems run wholly by government staff** *(Bill, 2026-10-26, message 31)*: the cadre went, as a career structure says nothing of who runs the systems. A system counts where a source says government staff or a state technology body built it, or run and maintain it, and names no contractor doing the work; donor funding is not a contractor. A network, a data centre, a hosting service or a security team is not a system.
+- **A system government staff built answers question 1** *(Bill, 2026-11-16, message 133)*: so Guinea's SICOM and Niger's SIGEPAP-GNN.
 - **Window**: three years for every question.
 
 `study.json` holds this as four aspects, which head the long summary's paragraphs: `inhouse` (`yes`, `outsourced`) for question 1, `agency` (`operating`) for question 2, `built` (`live`) for question 3 and `own` (`entire`) for question 4, one row per system, its name in `system`. **For the drafter**: `outsourced` needs a statement that a body's systems are run by suppliers or that it needs outside help to run them; a system's name goes in `country_label`, and who built it, where the story says, in the fact.
