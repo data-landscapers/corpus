@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: SWZ
 ledger_rows: 38
 not_held: 3
-record: 63bc6644d446
+record: 0c9b9a7fde0c
 ---
 
 # News, Oct – Nov 2026
@@ -492,7 +492,7 @@ Eswatini's health minister visited Hhukwini Clinic to review the eLMIS and CMIS 
 
 **[CMIS ROLLOUT GAINS MOMENTUM AS TRAINERS GET EQUIPPED](https://eswatinipositivenews.online/cmis-rollout-gains-momentum-as-trainers-get-equipped/)** — Eswatini Positive News, 29 October 2026
 
-Training of trainers starts for the EMR's Inpatient Module after the Piggs Peak pilot, October 2026.
+Training of trainers began for the electronic medical record's inpatient module in October 2026. It follows a pilot at Piggs Peak.
 
 </div>
 
@@ -500,7 +500,7 @@ Training of trainers starts for the EMR's Inpatient Module after the Piggs Peak 
 
 **[The rollout of the CMIS Inpatient and Maternity Module continues to gain momentum!](https://www.linkedin.com/posts/hmis-eswatini_cmis-digitalhealth-ehealth-activity-7524018051923750913-Gq_z)** — HMIS Eswatini (Ministry of Health), 5 November 2026
 
-Nhlangano first end-user site, staff given iPads, go-live set for 9 November 2026; connectivity flagged.
+Nhlangano is the first end-user site for the inpatient and maternity module, with go-live set for 9 November 2026. Staff were given iPads. Connectivity was flagged as a concern.
 
 </div>
 

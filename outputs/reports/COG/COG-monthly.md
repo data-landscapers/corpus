@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: COG
 ledger_rows: 19
 not_held: 5
-record: be0395bb29b8
+record: 2b879c158db3
 ---
 
 # News, Oct – Nov 2026
@@ -182,7 +182,7 @@ Congo's telecoms regulator reported voice, internet and mobile-money outages on 
 
 **[Congo (Rep. of the) - PP-26 Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/congo-rep-of-the/)** — International Telecommunication Union, 14 November 2026
 
-Minister's Doha statement: seven e-services open 5 Dec 2026; data centre end-Nov; nine-programme roadmap.
+The minister told the ITU conference in Doha that the first seven digital public services open on 5 December 2026. Some fifty more follow in 2027. The national data centre is delivered at the end of November 2026.
 
 </div>
 

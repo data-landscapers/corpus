@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: GNQ
 ledger_rows: 19
 not_held: 6
-record: bd7111b8f0bf
+record: 06fa9c42f4a6
 ---
 
 # News, Oct – Nov 2026
@@ -364,7 +364,7 @@ Equatorial Guinea's statistics institute opened a technical validation workshop 
 
 **[Guinea Ecuatorial impulsa la estadística del comercio fronterizo informal](https://mofuen.com/2026/11/13/guinea-ecuatorial-impulsa-la-estadistica-del-comercio-fronterizo-informal/)** — Periódico Digital Mofueñ, 13 November 2026
 
-World Bank-funded CEMAC survey of unrecorded land-border trade with Cameroon and Gabon; enumerators trained.
+The statistics institute INEGE launched a World Bank-funded survey of informal cross-border trade. The CEMAC Commission coordinates it across six states. It measures land-border trade with Cameroon and Gabon that customs do not record.
 
 </div>
 

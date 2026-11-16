@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: LBR
 ledger_rows: 29
 not_held: 6
-record: 84a1811d9fd6
+record: 95627b802eca
 ---
 
 # News, Oct – Nov 2026
@@ -290,7 +290,7 @@ A committee of Liberia's House suspended its review of a US$52 million concessio
 
 **[US$52M ID Deal Faces Fresh Scrutiny](https://www.newerainquirer.com/article/29a1a5b7-1ba2-4dde-a435-3dae7102b0f6)** — The Inquirer (Liberia), 13 November 2026
 
-Third House hearing closed; NIR on US$33m budget with ~740,000 records; MoF gave US$1m of ~US$40m needed.
+A House joint committee closed its third hearing on the US$52 million ID concession with OeSD International. The registry holds about 740,000 records after nine years, its director said. The committee awaits Justice Ministry answers before reporting.
 
 </div>
 

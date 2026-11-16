@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: NAM
 ledger_rows: 23
 not_held: 8
-record: 1656c8c1b908
+record: 6c0abaa48ddc
 ---
 
 # News, Oct – Nov 2026
@@ -274,7 +274,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[Namibia Financial Stability Report, October 2026](https://www.bon.com.na/getattachment/aa471267-d19f-4c4c-903a-5e099e890307/.aspx)** — Bank of Namibia and Namibia Financial Institutions Supervisory Authority, 2 November 2026
 
-H1 2026 payment fraud N$32.45m, up 18.9% y/y; EFT fraud N$21.87m, up 47.3%; card and e-money losses down.
+Payment fraud reached N$32.45 million in the first half of 2026, up 18.9% on a year earlier. EFT fraud rose 47.3% to N$21.87 million. Card and e-money losses fell.
 
 </div>
 

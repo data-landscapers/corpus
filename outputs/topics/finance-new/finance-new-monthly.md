@@ -4,7 +4,7 @@ compiled: 2026-11-16
 period: 2026-10-01 to 2026-11-16
 subject: finance.new
 places: DZA; AGO; BEN; BWA; CIV; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
-record: 57fd3841845c
+record: ba1b737e86c3
 ---
 
 # News, Oct – Nov 2026
@@ -300,6 +300,14 @@ UNDP handed Mali's Ministry of Justice IT equipment and new penal codes worth US
 **[Conseil des Ministres : le Président de la République enjoint d’accélérer les composantes du programme du gouvernement](https://futureafrique.net/node/20052)** — Future Afrique, 14 October 2026
 
 Mauritania's Council of Ministers on 14 October 2026 adopted bills to ratify World Bank IDA financing agreements, including a EUR 25.8m additional loan for the WARDIP regional digital programme covering broadband, e-services and e-payments. Another agreement, a EUR 19.7m credit and SDR 5.6m grant signed on 21 August, supports the social registry and the Takaful safety-net programme.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[La commission des affaires économiques de l’Assemblée nationale examine deux projets de loi](https://ami.mr/fr/archives/306260)** — Agence mauritanienne d'information (AMI), 13 November 2026
+
+A National Assembly committee examined ratification of additional WARDIP financing. It also examined an IDA credit for social resilience.
 
 </div>
 

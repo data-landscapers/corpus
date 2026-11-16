@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 subject: gov.protect
 places: DZA; AGO; BEN; BFA; CMR; COG; COD; EGY; SWZ; GAB; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 87acc8f588ce
+record: 5c2594d3b12e
 ---
 
 # News, Oct – Nov 2026
@@ -412,6 +412,20 @@ Outgoing Kenyan Data Commissioner Immaculate Kassait says the Data Protection Ac
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Commissioner's compensation awards</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[High Court questions ODPC's authority to award compensation for data privacy violations](https://techtrendske.co.ke/2026/11/15/odpc-compensation-powers/)** — TechTrendsKE, 15 November 2026
+
+Kenya's High Court set aside a KSh1.25 million compensation award made by the Data Protection Commissioner. Justice Francis Andayi found that the Data Protection Act does not expressly empower the Commissioner to award damages. The complaint, about CCTV in a clinic examination room, was returned to the Office of the Data Protection Commissioner, and Regulation 14(3)(e) stands.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -423,6 +437,14 @@ Outgoing Kenyan Data Commissioner Immaculate Kassait says the Data Protection Ac
 **[الوطني للحريات وحقوق الإنسان يستعرض مسودة قانون حماية البيانات الشخصية مع لجنة النواب](https://lana.gov.ly/post.php?id=368592&lang=ar)** — وكالة الأنباء الليبية (LANA), 26 October 2026
 
 A committee of the House of Representatives and Libya's human rights council began a joint review of a draft personal data protection law on 26 October 2026. The council's committee wrote the draft over two and a half years. It had Council of Europe expert review. It added a chapter on artificial intelligence. It sent the draft to the House as an initial proposal.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[لجنة النواب تناقش باب حماية البيانات الشخصية ضمن قانون السيادة الرقمية](https://lana.gov.ly/post.php?id=370100&lang=ar)** — وكالة الأنباء الليبية (وال), 15 November 2026
+
+A House of Representatives committee on telecommunications and digital-space laws met for the first time in Benghazi on 15 November 2026. It discussed the personal-data protection chapter of the digital sovereignty law. Judicial and university representatives joined by video link.
 
 </div>
 

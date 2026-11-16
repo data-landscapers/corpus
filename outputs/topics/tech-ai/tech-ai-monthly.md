@@ -4,7 +4,7 @@ compiled: 2026-11-16
 period: 2026-10-01 to 2026-11-16
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 18f911ea8aa2
+record: 4ee532ca70a3
 ---
 
 # News, Oct – Nov 2026
@@ -1071,6 +1071,20 @@ Kenyan fintech WayaWaya announced a partnership with Choice Bank on 6 November 2
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">High Court petition on the absence of AI regulation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Court puts State on notice over use of AI in public services](https://nation.africa/kenya/news/court-puts-state-on-notice-over-use-of-ai-in-public-services--5671740)** — Daily Nation, 15 November 2026
+
+Kenya's High Court gave the government six months to complete a national policy and legal framework for the use of artificial intelligence. Justice Edward Muriithi declined to order Parliament to enact legislation within 90 days.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -1744,6 +1758,20 @@ ITWeb reported on 6 November 2026 that South Africa ranks 13th of 56 Commonwealt
 **[SA AI adoption outpaces business value](https://itweb.africa/article/sa-ai-adoption-outpaces-business-value/xA9PO7NEnaNvo4J8)** — ITWeb Africa, 13 November 2026
 
 The SA AI Index 2026, by World Wide Worx with Altron Digital Business, surveyed 100 decision-makers in October 2026. They work at South African organisations with more than 200 employees. It found 93% use AI, up from 67% in 2025 and 45% in 2024. The share rating its productivity impact as positive fell from 83% to 51%, and the average organisation scores 34.3 out of 100 on the index.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI adoption rank (technology company index)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa must seize the opportunities of the AI revolution](https://www.gov.za/blog/south-africa-must-seize-opportunities-ai-revolution)** — South African Government, 16 November 2026
+
+President Ramaphosa is leading a delegation to Silicon Valley to inform South Africa's approach to AI. He cites a Microsoft ranking of South Africa 46th of 147 economies for AI adoption. He wants AI used in education, health and criminal justice.
 
 </div>
 

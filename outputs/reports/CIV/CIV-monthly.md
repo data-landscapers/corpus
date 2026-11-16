@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: CIV
 ledger_rows: 53
 not_held: 9
-record: 642ff39f6c01
+record: 03359931221a
 ---
 
 # News, Oct – Nov 2026
@@ -152,7 +152,7 @@ Côte d'Ivoire's press regulator ANP and cybersecurity agency ANSSI agreed on 21
 
 **[Présentation du projet de budget 2027 — Ministère de la Transition numérique et de l'Innovation technologique](https://telecom.gouv.ci/uploads/publications/179457122271.pdf)** — Ministère de la Transition numérique et de l'Innovation technologique, 13 November 2026
 
-Minister's own deck: 2027 request 120.72bn FCFA in five programmes; 2025 budget 65.43bn, 98.76% executed.
+The digital ministry requests 120.72 billion FCFA for 2027 across five programmes. Its 2025 budget was 65.43 billion FCFA, 98.76% executed.
 
 </div>
 
@@ -836,7 +836,7 @@ A second account of the Ivoire Tech Forum 2026 opening, where Côte d'Ivoire's d
 
 **[Côte d’Ivoire : via sa plateforme web, Djassao facilite l'accès des PME aux appels d'offres](https://www.wearetech.africa/fr/fils/solutions/cote-d-ivoire-via-sa-plateforme-web-djassao-facilite-lacces-des-pme-aux-appels-doffres)** — wearetech.africa, 16 November 2026
 
-Launched October 2026; first month 70+ firms, 37 suppliers, 44 tenders relayed; no contract outcomes reported.
+Djassao, a web platform from the Ivorian company Cedihome, gathers public and private tenders in one place and sends alerts to suppliers whose field matches. It was launched in October 2026 by Cédric Gnan. Buyers can also post their needs, and suppliers can respond and list their services.
 
 </div>
 
@@ -850,7 +850,7 @@ Launched October 2026; first month 70+ firms, 37 suppliers, 44 tenders relayed; 
 
 **[Côte d’Ivoire : Ivana Valera numérise le scoring et l'octroi de crédits](https://www.wearetech.africa/fr/fils/tech-stars/cote-d-ivoire-ivana-valera-numerise-le-scoring-et-loctroi-de-credits)** — wearetech.africa, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
-Piloted from 18 May 2026 in CIV and Senegal; 1,000+ requests worth over 7bn FCFA by end-October; AI scoring.
+Ivana Valera founded Faba Finance in Abidjan in 2025. Its mobile application lets individuals and small businesses simulate a loan and send the application remotely to partner banks and financial institutions. It targets slow and document-heavy credit procedures in West Africa.
 
 </div>
 

@@ -4,7 +4,7 @@ compiled: 2026-11-16
 period: 2026-10-01 to 2026-11-16
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: a5f7ebb36b8f
+record: c85c629b3d0f
 ---
 
 # News, Oct – Nov 2026
@@ -356,6 +356,20 @@ CAMTEL and the state housing developer SIC signed a framework agreement in Yaoun
 **[Camtel, Socadel explore infrastructure sharing deal](https://www.itweb.africa/article/camtel-socadel-explore-infrastructure-sharing-deal/Olx4z7kaBQmq56km)** — ITWeb Africa, 19 October 2026
 
 Cameroon's Camtel and electricity utility Socadel signed a memorandum of understanding in Yaoundé on 16 October 2026 to study infrastructure sharing. It would pair Camtel's national fibre backbone with Socadel's poles and rights-of-way to extend fibre along overhead power lines. Feasibility studies and pilot sites come next.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Rural broadband procurement under the digital transformation project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Accès aux services numériques: Au tour de Campo Beach](https://www.cameroon-tribune.cm/articles/12210/fr/acces-aux-services-numeriques-au-tour-de-campo-beach)** — Cameroon Tribune, 16 November 2026
+
+The posts and telecoms minister inspected a PATNUC connectivity site at Campo Beach, in the South region, on 13 November 2026. It is one of nine in the Océan department. The rural connectivity programme plans sites in 362 under-served localities.
 
 </div>
 
@@ -1847,9 +1861,25 @@ Nigeria's active mobile subscriptions reached 200.3 million in September 2026, N
 
 <div class="bulletin-item" markdown="1">
 
+**[Consultation Paper on an Investment-Oriented Spectrum Management in Nigeria: Exploring an Incentive-Based Spectrum Investment Framework (IBSIF)](https://www.ncc.gov.ng/media/8669/view)** — Nigerian Communications Commission, 12 November 2026
+
+The NCC's consultation paper ties spectrum incentives to verifiable extra network investment. Mobile data use has grown 3.2 times since 2023. Comments are due by 30 November 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
 **[NCC considers 15-year spectrum licences to boost broadband investment](https://techcabal.com/2026/11/13/ncc-considers-15-year-spectrum-licences/)** — TechCabal, 13 November 2026
 
 The Nigerian Communications Commission said on 12 November 2026 that it is developing a framework. The framework could extend spectrum licences from 10 to 15 years in return for additional, verified broadband investment. A consultation paper is to follow. No eligibility rules, incentive level or start date have been set.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCC plans spectrum incentives to push telecom operators into more network investment](https://nationaldailyng.com/ncc-plans-spectrum-incentives-to-push-telecom-operators-into-more-network-investment/)** — National Daily Newspaper, 15 November 2026
+
+The Nigerian Communications Commission is considering an Incentive-Based Spectrum Investment Framework. Operators would receive spectrum incentives for measurable commitments on coverage, capacity and quality. Monthly data use rose from about 518,000 terabytes in January 2023 to 1.73 million in September 2026.
 
 </div>
 
@@ -2014,6 +2044,34 @@ Sierra Leone's National Communications Authority unveiled new systems on 28 Octo
 **[Somalia’s mobile money remains locked in silos](https://www.itweb.africa/article/somalias-mobile-money-remains-locked-in-silos/mYZRXM9gbKXvOgA8)** — ITWeb Africa, 5 October 2026
 
 The chief executive of Somalia's SomLink Telecom says voice calls now interconnect across six operators while mobile-money wallets remain closed to one another. He calls for cost-based pricing and shared rails, and says the largest operators have little commercial reason to open up.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government internet network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia Plans to Connect 45 Government Agencies to State Internet Network Next Year](https://www.dawan.africa/news/somalia-plans-to-connect-45-government-agencies-to-state-internet-network-next-year)** — Dawan Africa, 15 November 2026
+
+Somalia's Communications and Technology Minister, Mohamed Adan Moallim Ali, said on 15 November 2026 that up to 45 government agencies will be connected to the state internet network in 2027, run from a new network operations centre. He said the national e-government portal will also be ready that year. The portal is part of the World Bank-backed EA-RDIP.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Operators' shared fibre consortium (Hobyo-Galkayo, Guumays-Buuhoodle)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somali Telecom Firms Form Consortium to Lay Shared Fibre Routes](https://www.dawan.africa/news/somali-telecom-firms-form-consortium-to-lay-shared-fibre-routes)** — Dawan Africa, 15 November 2026
+
+Minister Mohamed Adan Moallim Ali said on 15 November 2026 that all Somali telecom companies have joined a consortium, with the government as partner, to co-invest in shared fibre on the Hobyo-Galkayo and Guumays-Buuhoodle routes. The contract is expected in December 2026 and works in January 2027. No cost, member list or completion date was given.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: SEN
 ledger_rows: 52
 not_held: 2
-record: 1459c5c68be2
+record: 4f8178dc4d14
 ---
 
 # News, Oct – Nov 2026
@@ -550,7 +550,7 @@ Senegal has resumed its family security cash grants after a two-year interruptio
 
 **[Nigeria Moves to Break Health Data Silos, Joining an Africa-Wide Interoperability Drive](https://www.ecofinagency.com/news-digital/0510-59476-nigeria-builds-national-digital-health-architecture-to-connect-fragmented-systems)** — Ecofin Agency, 5 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-National Digital Health Architecture endorsed by National Council on Health; HIE, shared record, three registries.
+The National Council on Health endorsed a National Digital Health Architecture. It provides for a health information exchange, a shared record and three registries.
 
 </div>
 

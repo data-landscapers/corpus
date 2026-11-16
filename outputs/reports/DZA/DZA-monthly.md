@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: DZA
 ledger_rows: 42
 not_held: 6
-record: 608d6f4ff01b
+record: 9ddb2d090d4a
 ---
 
 # News, Oct – Nov 2026
@@ -460,7 +460,7 @@ UCL's Institute for Innovation and Public Purpose released its DPI Map dataset o
 
 **[Crédit Populaire d'Algérie Launches Electronic Payment Service from Abroad](https://news.radioalgerie.dz/en/node/98961)** — Radio Algérienne, 13 November 2026
 
-CPAzonepay lets Algerian web merchants accept foreign Visa and Mastercard cards; launched 12 Nov 2026.
+Crédit Populaire d'Algérie launched CPAzonepay on 12 November 2026. Merchants with websites can now accept Visa and Mastercard cards issued abroad. It targets exporters, tourism, transport and other sectors.
 
 </div>
 

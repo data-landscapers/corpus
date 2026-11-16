@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
-record: a7602dd8c9c4
+record: ceaf05a84f8d
 ---
 
 # News, Oct – Nov 2026
@@ -180,6 +180,20 @@ Angola's telecommunications ministry presented the National Cybersecurity Strate
 **[Régulation des médias en ligne: 89 organes autorisés par la Haac](https://www.lanation.bj/actualites/regulation-des-medias-en-ligne-89-organes-autorises-par-la-haac)** — La Nation, 2 October 2026
 
 Benin's media regulator HAAC signed conventions with 89 online media outlets in Cotonou on 1 October 2026, completing its authorisation process for websites offering online audiovisual and written-press services. The outlets now operate under the information and communication code and the digital code.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Code Article 550 on harassment through electronic communications</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : l’article 550 du Code du numérique contesté devant la Cour constitutionnelle](https://beninwebtv.bj/benin-article-550-code-numerique-conteste-cour-constitutionnelle/)** — Bénin Web TV, 13 November 2026
+
+A challenge to Article 550 of the digital code was on the Constitutional Court's roll on 12 November 2026. The article covers online harassment and false information about a person. The case was filed almost 23 months earlier; no ruling is reported.
 
 </div>
 
@@ -825,6 +839,28 @@ Kenya's information and communications ministry has published a revised draft of
 **[Regulators need to talk to one another about data](https://nation.africa/kenya/blogs-opinion/blogs/regulators-need-to-talk-to-one-another-about-data-5657210)** — Daily Nation, 4 November 2026
 
 An opinion piece argues that Kenya's competition and data protection regulators should coordinate on mergers where data is the main asset. It cites the Competition Authority of Kenya's approach to data segregation, which would keep an acquirer from reading rivals' information on a shared payments platform. It refers to the Competition (Amendment) Bill 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Virtual Asset Service Providers Regulations 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Public Notice: Gazettement of the Virtual Asset Service Providers Regulations, 2026 (joint CBK and CMA notice)](https://www.centralbank.go.ke/wp-content/uploads/2026/11/CBK-CMA-Public-Notice-Operationalisation-of-the-VASP-Regulations-2026-.pdf)** — Central Bank of Kenya and Capital Markets Authority, 13 November 2026
+
+The VASP Act has been in operation since Legal Notice 134 of 22 July 2026. All virtual asset providers must apply to the Central Bank or the Capital Markets Authority for a licence.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya enforces mandatory crypto licensing](https://itweb.africa/article/kenya-enforces-mandatory-crypto-licensing/DZQ587V8WxkqzXy2)** — ITWeb Africa, 16 November 2026
+
+The Central Bank of Kenya and the Capital Markets Authority require every virtual-asset business to apply for a licence. Their joint notice is dated 13 November 2026. It confirms the VASP Regulations 2026 were gazetted on 22 July 2026.
 
 </div>
 
@@ -1642,6 +1678,14 @@ Kampala traders and the Uganda Communications Commission agreed to form a joint 
 **[Government Seeks Two Weeks to Resolve Wi-Fi Hotspot Licensing Dispute](https://www.ugandaradionetwork.net/story/government-seeks-two-weeks-to-resolve-wi-fi-hotspot-licensing-dispute)** — Uganda Radio Network, 28 October 2026
 
 Uganda's ICT minister told Parliament the government needs two weeks to settle a licensing dispute over local Wi-Fi hotspot operators, it was reported on 28 October 2026. The ministry is consulting telecoms firms, internet providers, regulators and operators on a legal framework. The report notes concern that compliance costs could force small operators out.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Over 4500 WiFi providers rush to register for licensing as deadline nears](https://www.pulse.ug/story/uganda-wifi-providers-licensing-ucc-deadline-2026111517375025991)** — Pulse Uganda, 15 November 2026
+
+Over 4,500 public Wi-Fi operators have sought community internet licences or agent status with licensed providers, the Uganda Communications Commission said. It extended the deadline for unlicensed operators after they petitioned Parliament. It promised licences within 14 days of a complete application.
 
 </div>
 

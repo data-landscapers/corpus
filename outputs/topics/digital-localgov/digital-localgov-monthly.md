@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, October – November 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 subject: digital.localgov
-places: BEN; BDI; CMR; CPV; COD; EGY; ETH; GAB; KEN; MLI; NGA; ZAF; SSD; SDN; TZA
-record: 91be73b7e023
+places: BEN; BDI; CMR; CPV; COD; EGY; ETH; GAB; KEN; MLI; MAR; NGA; ZAF; SSD; SDN; TZA
+record: 5eef004a7818
 ---
 
 # News, Oct – Nov 2026
@@ -29,6 +29,8 @@ record: 91be73b7e023
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mali">Mali</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -297,6 +299,22 @@ Vihiga County held its first ICT Day and Digital Innovation Expo, reported on 6 
 **[Recouvrement digital des taxes et redevances communales : la mairie de la Commune V et Sama Money signent une convention de partenariat](https://malijet.com/actualite_economique_du_mali/312590-recouvrement-digital-des-taxes-et-redevances-communales-la.html)** — Malijet, 30 October 2026
 
 Commune V of Bamako signed an agreement with mobile payment operator Sama Money on 29 October 2026 to collect municipal taxes and fees digitally. Residents can pay through the Sama Money app or a USSD code. The commune says this will make revenue easier to trace.
+
+</div>
+
+</div>
+
+## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fès-Meknès regional digital sovereignty projects</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fez-Meknes summit sets out roadmap for regional digital sovereignty](https://en.le360.ma/economy/fez-meknes-summit-sets-out-roadmap-for-regional-digital-sovereignty_3B2LMR5YIBDU5JURKZ5P4USFFI/)** — Le360, 14 November 2026
+
+A Fez-Meknes summit proposed a regional micro data centre, a digital health lab, a regional security operations centre and an AI lab. Partnership agreements were signed.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Research institutions — News, October – November 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 subject: capacity.research
-places: BFA; ETH; LBY; MWI; SEN; SLE; ZAF; UGA
-record: 348c42df358d
+places: BFA; ETH; LBY; MWI; MRT; SEN; SLE; ZAF; UGA
+record: bb593aa6a4e4
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: 348c42df358d
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#malawi">Malawi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -86,6 +88,22 @@ Libya's Authority for Scientific Research signed a memorandum with the office of
 **[Ubuntu in Action: MAREN and RENU Sign MoU to Advance Research and Education in Africa!](https://maren.ac.mw/ubuntu-in-action-maren-and-renu-sign-mou-to-advance-research-and-education-in-africa/)** — MAREN, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
 The research and education networks of Malawi (MAREN) and Uganda (RENU) signed a memorandum of understanding at UbuntuNet-Connect 2026 in Lilongwe. The chief executives, Solomon Dindi and Nicholas Mbonimpa, signed it. It covers institutional collaboration and the sharing of knowledge and experience.
+
+</div>
+
+</div>
+
+## Mauritania
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">University of Nouakchott and Moov Mauritel partnership agreement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mauritanie : l’enseignement supérieur accélère sa transformation numérique](https://www.agenceecofin.com/actualites-numerique/1611-143447-mauritanie-l-enseignement-superieur-accelere-sa-transformation-numerique)** — Agence Ecofin, 16 November 2026
+
+The University of Nouakchott and the operator Moov Mauritel signed a framework partnership agreement on 12 November 2026. It covers very-high-speed internet and fibre on campus, 5G, a smart campus with IoT services, and support for doctoral research and internships. No cost or timeline was reported.
 
 </div>
 

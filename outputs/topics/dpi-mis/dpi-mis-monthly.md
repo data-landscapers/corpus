@@ -3,8 +3,8 @@ title: Sectoral management information systems — News, October – November 20
 compiled: 2026-11-16
 period: 2026-10-01 to 2026-11-16
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5f9972b78c22
+places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 864c3afe88d4
 ---
 
 # News, Oct – Nov 2026
@@ -87,6 +87,8 @@ record: 5f9972b78c22
 <a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -558,6 +560,28 @@ Eswatini's health minister visited Hhukwini Clinic to review the eLMIS and CMIS 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Client Management Information System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CMIS ROLLOUT GAINS MOMENTUM AS TRAINERS GET EQUIPPED](https://eswatinipositivenews.online/cmis-rollout-gains-momentum-as-trainers-get-equipped/)** — Eswatini Positive News, 29 October 2026
+
+Training of trainers began for the electronic medical record's inpatient module in October 2026. It follows a pilot at Piggs Peak.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[The rollout of the CMIS Inpatient and Maternity Module continues to gain momentum!](https://www.linkedin.com/posts/hmis-eswatini_cmis-digitalhealth-ehealth-activity-7524018051923750913-Gq_z)** — HMIS Eswatini (Ministry of Health), 5 November 2026
+
+Nhlangano is the first end-user site for the inpatient and maternity module, with go-live set for 9 November 2026. Staff were given iPads. Connectivity was flagged as a concern.
+
+</div>
+
+</div>
+
 ## Ethiopia
 
 <div class="monthly-story" markdown="1">
@@ -853,6 +877,20 @@ Kenya's Principal Secretary for Medical Services, Ouma Oluga, chaired the steeri
 **[Digitizing health campaigns: lessons from Benin, DRC, Kenya, and Nigeria](https://www.clintonhealthaccess.org/report/digitizing-health-campaigns/)** — Clinton Health Access Initiative, 1 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 The Clinton Health Access Initiative reports on digitising health campaigns in Benin, the DRC, Kenya and Nigeria between 2021 and 2025. It says 24 million people were reached, and that in Kano the cost per person fell from US$0.20 to US$0.12. The report closes with five lessons.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Intelligence and Analytics Centre (health)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africa Health Data Forum Opens in Nairobi with Focus on Strengthening Health Systems Through Data](https://www.health.go.ke/africa-health-data-forum-opens-nairobi-focus-strengthening-health-systems-through-data)** — Ministry of Health (Kenya), 10 November 2026
+
+The Health Cabinet Secretary announced a National Intelligence and Analytics Centre under the Digital Health Agency. He opened the first Africa Health Data Forum in Nairobi. Over 33 million Kenyans have registered with the Social Health Authority through Afya Yangu.
 
 </div>
 
@@ -1194,6 +1232,20 @@ In a Guardian opinion piece of 9 November 2026, Emmanuel Jonathan describes Rev3
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">National Health Management Information System (DHIS2)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[JAR: Stakeholders Resolve To Strengthen Health Financing, Workforce Management](https://nannews.ng/jar-stakeholders-resolve-to-strengthen-health-financing-workforce-management/)** — News Agency of Nigeria, 12 November 2026
+
+The 2026 Joint Annual Review made DHIS2 the single national health-data platform. It adopted 12 resolutions over 10 to 12 November 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">PlanFeld digital immunisation microplanning</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1233,6 +1285,20 @@ The Unlocking Data Initiative reported in October 2026 on a session about educat
 **[Bourses de sécurité familiale : le paiement des allocations officiellement relancé après deux ans](https://aps.sn/bourses-de-securite-familiale-le-paiement-des-allocations-officiellement-relance-apres-deux-ans/)** — Agence de Presse Sénégalaise, 1 October 2026
 
 Senegal has resumed its family security cash grants after a two-year interruption, paying CFA140,000 per household for 2026 through mobile-money operators. The number of beneficiaries was increased, but the new total was not given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Shared patient record (dossier patient partage)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Moves to Break Health Data Silos, Joining an Africa-Wide Interoperability Drive](https://www.ecofinagency.com/news-digital/0510-59476-nigeria-builds-national-digital-health-architecture-to-connect-fragmented-systems)** — Ecofin Agency, 5 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+The National Council on Health endorsed a National Digital Health Architecture. It provides for a health information exchange, a shared record and three registries.
 
 </div>
 
@@ -1409,6 +1475,22 @@ South Africa's public service minister told Parliament on 10 November 2026 that 
 **[Joint media statement between South African Revenue Service and National Consumer Commission on Track and Trace System](https://www.sars.gov.za/media-release/joint-media-statement-between-south-african-revenue-service-and-national-consumer-commission-on-track-and-trace-system/)** — South African Revenue Service, 12 November 2026
 
 South Africa's revenue service (SARS) and the National Consumer Commission agreed on 12 November 2026 a coordinated approach to legislating for and procuring a Track and Trace system against illicit trade. SARS's request for proposals for a cigarette track-and-trace capability is described as imminent. The two bodies are aligning technical standards and information-sharing.
+
+</div>
+
+</div>
+
+## Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic invoice system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ديوان الضرائب يعلن انتهاء التعامل بالفاتورة الورقية وبداية التعامل بالفاتورة الإلكترونية](https://www.suna.sd/posts/dyoan-aldrayb-yaaln-anthaaa-altaaaml-balfator-alorky-obday-altaaaml-balfator-alalktrony)** — Sudan News Agency (SUNA), 15 November 2026
+
+Sudan's Taxation Chamber ended paper invoices on 15 November 2026, after a three-month grace period, and made the electronic invoice mandatory in private-sector dealings with government at federal and state level. Registration runs through the Baladna platform. An offline mode covers areas without network coverage.
 
 </div>
 

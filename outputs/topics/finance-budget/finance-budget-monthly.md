@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — News, October – November 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 subject: finance.budget
 places: CIV; GAB; LBR; LBY; SEN; SYC; TUN
-record: 2c4d6c8fb5c4
+record: 95247aa401a1
 ---
 
 # News, Oct – Nov 2026
@@ -26,6 +26,20 @@ record: 2c4d6c8fb5c4
 </nav>
 
 ## Cote d'Ivoire
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">FY2025 digital ministry budget execution</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Présentation du projet de budget 2027 — Ministère de la Transition numérique et de l'Innovation technologique](https://telecom.gouv.ci/uploads/publications/179457122271.pdf)** — Ministère de la Transition numérique et de l'Innovation technologique, 13 November 2026
+
+The digital ministry requests 120.72 billion FCFA for 2027 across five programmes. Its 2025 budget was 65.43 billion FCFA, 98.76% executed.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -100,6 +114,14 @@ The Central Bank of Libya's statement of state revenue and spending for January 
 **[Sénégal : le numérique et la Poste au cœur du budget 2027 des Télécommunications](https://fr.apanews.net/technologies/senegal-le-numerique-et-la-poste-au-coeur-du-budget-2027/)** — APAnews, 13 November 2026
 
 Senegal's Ministry of Telecommunications and Digital Affairs presented a 2027 budget of FCFA 64.97 billion in payment credits. It presented it to the National Assembly finance committee on 13 November 2026. It said about FCFA 37 billion comes from partners including the World Bank, KfW and BOAD. It said FCFA 20 billion in commitments goes to digital identity, interconnection of public services and dematerialisation.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senegal MPs reject 2027 digital ministry budget](https://www.socialnetlink.org/2026/11/15/senegal-2027-budget-telecommunications-digital-ministry-mps/)** — Socialnetlink, 15 November 2026
+
+Committees of Senegal's National Assembly declined on 13 November 2026 to approve the 2027 draft budget of the Ministry of Telecommunications and Digital Affairs. MPs questioned the consistency of the forecasts behind FCFA 64.97 billion in payment appropriations. A committee rejection is not final, and the bill continues through parliamentary procedure.
 
 </div>
 

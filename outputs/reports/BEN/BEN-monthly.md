@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: BEN
 ledger_rows: 40
 not_held: 4
-record: 88d293e99188
+record: 32bddf7a5e77
 ---
 
 # News, Oct – Nov 2026
@@ -136,7 +136,7 @@ Benin's media regulator HAAC signed conventions with 89 online media outlets in 
 
 **[Bénin : l’article 550 du Code du numérique contesté devant la Cour constitutionnelle](https://beninwebtv.bj/benin-article-550-code-numerique-conteste-cour-constitutionnelle/)** — Bénin Web TV, 13 November 2026
 
-Case 2123/384/REC-24, filed 2 Dec 2024, heard 12 Nov 2026; article carries up to 2 years and XOF 10m for e-harassment.
+A challenge to Article 550 of the digital code was on the Constitutional Court's roll on 12 November 2026. The article covers online harassment and false information about a person. The case was filed almost 23 months earlier; no ruling is reported.
 
 </div>
 
@@ -592,7 +592,7 @@ Benin and Mauritania compared their digital government programmes at Estonia's e
 
 **[Bénin : le portail des services publics fait peau neuve avec de nouvelles fonctionnalités](https://lanouvelletribune.info/2026/11/benin-le-portail-des-services-publics-fait-peau-neuve-avec-de-nouvelles-fonctionnalites/)** — La Nouvelle Tribune, 14 November 2026
 
-ASIN relaunch, 13 Nov 2026; Yèmi assistant, business space, once-only reuse of data the state already holds.
+The digital agency ASIN announced a new version of the service-public.bj portal on 13 November 2026. It adds the Yémi AI assistant, a business space and direct sign-in. The administration will reuse data it already holds.
 
 </div>
 
@@ -750,7 +750,7 @@ Benin's Council of Ministers approved on 4 November 2026 a pilot to build two di
 
 **[Intelligence artificielle et Innovation : Le Bénin désigné premier pays pilote de l'initiative du réseau consacrée à l'IA | Gouvernement de la République du Bénin](https://www.gouv.bj/article/3738/intelligence-artificielle-innovation-benin-designe-premier-pays-pilote-initiative-reseau-consacree-ia/)** — Gouvernement de la République du Bénin, 13 November 2026
 
-Higher-education minister signs SNAEIA MoU in Wuhan, 11 Nov 2026; UNESCO-backed AI training pilot for young people.
+Benin signed a memorandum with the Sino-North Africa Education Innovation Association in Wuhan on 11 November 2026. With UNESCO support, it is the first pilot country of the network's AI initiative. The programme trains young people in AI and digital skills.
 
 </div>
 

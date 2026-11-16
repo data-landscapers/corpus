@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: NGA
 ledger_rows: 120
 not_held: 8
-record: bf99f0f569bf
+record: fac019eb0449
 ---
 
 # News, Oct – Nov 2026
@@ -816,7 +816,7 @@ Nigeria's active mobile subscriptions reached 200.3 million in September 2026, N
 
 **[Consultation Paper on an Investment-Oriented Spectrum Management in Nigeria: Exploring an Incentive-Based Spectrum Investment Framework (IBSIF)](https://www.ncc.gov.ng/media/8669/view)** — Nigerian Communications Commission, 12 November 2026
 
-Spectrum incentives tied to verifiable extra network investment; mobile data 3.2x since 2023; comments due 30 Nov 2026.
+The NCC's consultation paper ties spectrum incentives to verifiable extra network investment. Mobile data use has grown 3.2 times since 2023. Comments are due by 30 November 2026.
 
 </div>
 
@@ -1516,7 +1516,7 @@ In a Guardian opinion piece of 9 November 2026, Emmanuel Jonathan describes Rev3
 
 **[JAR: Stakeholders Resolve To Strengthen Health Financing, Workforce Management](https://nannews.ng/jar-stakeholders-resolve-to-strengthen-health-financing-workforce-management/)** — News Agency of Nigeria, 12 November 2026
 
-2026 Joint Annual Review makes DHIS2 the single national health-data platform; 12 resolutions, 10-12 Nov 2026.
+The 2026 Joint Annual Review made DHIS2 the single national health-data platform. It adopted 12 resolutions over 10 to 12 November 2026.
 
 </div>
 
@@ -2148,7 +2148,7 @@ Nigeria's federal government plans to extend internet connectivity to public pri
 
 **[Nigeria Tech Outlook Report: First Edition 2026](https://nitda.gov.ng/wp-content/uploads/2026/11/NITDA26-NG-TECH-OUTLOOK-compressed.pdf)** — National Information Technology Development Agency (NITDA), with the National Bureau of Statistics (NBS), 1 November 2026
 
-2,147-household baseline: 40.6% use smartphones, 55.7% urban vs 29.5% rural online, 17.9% e-government.
+A baseline survey of 2,147 households found 40.6% use smartphones. 55.7% of urban and 29.5% of rural residents are online. 17.9% use e-government services.
 
 </div>
 

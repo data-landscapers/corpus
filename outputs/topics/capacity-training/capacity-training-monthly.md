@@ -1,16 +1,18 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 subject: capacity.training
-places: AGO; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZWE
-record: 9d38df7ba00d
+places: AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZWE
+record: a0746c0bfb93
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#angola">Angola</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -74,6 +76,30 @@ record: 9d38df7ba00d
 **[Cursos de STEM representam menos de 30% da oferta formativa](https://expansao.co.ao/universidade/detalhe/cursos-de-stem-representam-menos-de-30-da-oferta-formativa-76019.html)** — Expansão, 1 November 2026
 
 Angola's higher education ministry lists 900 accredited university courses for 2026/27, of which 242, or 27%, are in science, technology, engineering and mathematics, Expansão reported in November 2026. Humanities, arts and social sciences account for 320 courses. Of 218,544 graduates between 2014 and 2024, 10% were in STEM fields.
+
+</div>
+
+</div>
+
+## Benin
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SNAEIA AI skills pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Intelligence artificielle et Innovation : Le Bénin désigné premier pays pilote de l'initiative du réseau consacrée à l'IA | Gouvernement de la République du Bénin](https://www.gouv.bj/article/3738/intelligence-artificielle-innovation-benin-designe-premier-pays-pilote-initiative-reseau-consacree-ia/)** — Gouvernement de la République du Bénin, 13 November 2026
+
+Benin signed a memorandum with the Sino-North Africa Education Innovation Association in Wuhan on 11 November 2026. With UNESCO support, it is the first pilot country of the network's AI initiative. The programme trains young people in AI and digital skills.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[IA : le Bénin s'appuie sur la Chine pour renforcer les compétences de sa jeunesse](https://www.wearetech.africa/fr/fils/actualites/tech/ia-le-benin-sappuie-sur-la-chine-pour-renforcer-les-competences-de-sa-jeunesse)** — We Are Tech Africa, 16 November 2026
+
+Benin was named the first pilot country of a UNESCO-backed AI initiative at a China-Africa education forum in Wuhan on 11 November 2026. Its higher-education ministry also signed a memorandum with the Sino-North Africa Education Innovation Association to link Beninese institutions with Chinese universities, training centres and firms. No timetable or number of beneficiaries was given.
 
 </div>
 

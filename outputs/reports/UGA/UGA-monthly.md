@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: UGA
 ledger_rows: 54
 not_held: 11
-record: deca6bd9d7d1
+record: d30724d5be93
 ---
 
 # News, Oct – Nov 2026
@@ -540,7 +540,7 @@ The Uganda Revenue Authority explains that the National Identification Number no
 
 **[Matrimonial property loan disputes: Banks turn to NIRA](https://www.monitor.co.ug/uganda/news/national/matrimonial-property-loan-disputes-banks-turn-to-nira-5669142)** — Daily Monitor, 13 November 2026
 
-Uganda Bankers Association-NIRA plan to check marital status before lending against matrimonial property.
+Banks and NIRA are working on a way for lenders to check borrowers' marital status before approving loans. Banks have lost court cases over matrimonial property pledged without both spouses' consent.
 
 </div>
 

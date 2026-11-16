@@ -4,7 +4,7 @@ compiled: 2026-11-16
 period: 2026-10-01 to 2026-11-16
 subject: data.statistics
 places: DZA; BWA; BDI; CAF; COG; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA
-record: 0742b607f685
+record: 7fddc85c6eba
 ---
 
 # News, Oct – Nov 2026
@@ -281,6 +281,20 @@ Equatorial Guinea's statistics institute opened a technical validation workshop 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CEMAC informal cross-border trade survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinea Ecuatorial impulsa la estadística del comercio fronterizo informal](https://mofuen.com/2026/11/13/guinea-ecuatorial-impulsa-la-estadistica-del-comercio-fronterizo-informal/)** — Periódico Digital Mofueñ, 13 November 2026
+
+The statistics institute INEGE launched a World Bank-funded survey of informal cross-border trade. The CEMAC Commission coordinates it across six states. It measures land-border trade with Cameroon and Gabon that customs do not record.
+
+</div>
+
+</div>
+
 ## Eswatini
 
 <div class="monthly-story" markdown="1">
@@ -485,21 +499,15 @@ Mozambique's national statistics institute, INE, has about US$60m of the US$110m
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Digital platform for the Sub-National Fiscal Survey</p>
+<p class="monthly-story__name">Nigeria Tech Outlook Report and Dashboard</p>
 
 <div class="bulletin-item" markdown="1">
 
-**[Nigerian Central Bank Digitalises Fiscal Data Collection - Voice of Nigeria](https://von.gov.ng/nigerian-central-bank-digitalises-fiscal-data-collection/)** — Voice of Nigeria, 10 November 2026
+**[Nigeria Tech Outlook Report: First Edition 2026](https://nitda.gov.ng/wp-content/uploads/2026/11/NITDA26-NG-TECH-OUTLOOK-compressed.pdf)** — National Information Technology Development Agency (NITDA), with the National Bureau of Statistics (NBS), 1 November 2026
 
-The Central Bank of Nigeria is moving its Sub-National Fiscal Survey of the 36 states, the FCT and 774 local governments from paper to a digital platform. Its Statistics Department said returns will be quarterly instead of twice a year. Training had reached 16 states by 6 November 2026. The remaining states are due by 4 December, and the FCT on 9 and 10 December 2026.
-
-</div>
+A baseline survey of 2,147 households found 40.6% use smartphones. 55.7% of urban and 29.5% of rural residents are online. 17.9% use e-government services.
 
 </div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Nigeria Tech Outlook Report and Dashboard</p>
 
 <div class="bulletin-item" markdown="1">
 
@@ -514,6 +522,20 @@ NITDA launched the Nigeria Tech Outlook Report 2026 as an annual digital-economy
 **[NITDA and NBS Launch Nigeria Tech Outlook Report to Support Digital Economy Growth](https://techafricanews.com/2026/11/12/nitda-and-nbs-launch-nigeria-tech-outlook-report-to-support-digital-economy-growth/)** — Tech Africa News, 12 November 2026
 
 NITDA and the National Bureau of Statistics launched the Nigeria Tech Outlook Report at Digital Nigeria 2026 in Abuja, Tech Africa News reported on 12 November 2026. The two bodies present it as a source of technology-sector data for policy and investment. The account gives none of the report's figures.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital platform for the Sub-National Fiscal Survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigerian Central Bank Digitalises Fiscal Data Collection - Voice of Nigeria](https://von.gov.ng/nigerian-central-bank-digitalises-fiscal-data-collection/)** — Voice of Nigeria, 10 November 2026
+
+The Central Bank of Nigeria is moving its Sub-National Fiscal Survey of the 36 states, the FCT and 774 local governments from paper to a digital platform. Its Statistics Department said returns will be quarterly instead of twice a year. Training had reached 16 states by 6 November 2026. The remaining states are due by 4 December, and the FCT on 9 and 10 December 2026.
 
 </div>
 
@@ -674,6 +696,20 @@ Tunisia's telecoms regulator INT found in its 2026 digital barometer that 85.9% 
 **[Technical Assistance for Capacity Building in Gender-Disaggregated Data Collection on Women's Entrepreneurship and Digitalization and Development of a Women's Digital Entrepreneurship Barometer Methodology (TZA25001-10032)](https://www.enabel.be/app/uploads/2026/11/TZA25001-10032_Tender-Specifications.pdf)** — Enabel, 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
 Enabel published tender TZA25001-10032 on 6 November 2026 for technical assistance on gender-disaggregated data on women's entrepreneurship and digitalisation. The work includes a women's digital entrepreneurship barometer methodology for Tanzania and Uganda, under a 730-day contract. Bids close on 27 November 2026 at 16:00 East Africa Time.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UBOS Service Delivery Standards</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UBOS Unveils New Data Strategy to Support Uganda's Tenfold Economic Growth Ambition](https://nilepost.co.ug/news/387592/ubos-unveils-new-data-strategy-to-support-ugandas-tenfold-economic-growth-ambition)** — Nile Post, 15 November 2026
+
+The Uganda Bureau of Statistics launched its Fourth Plan for National Statistical Development, Strategic Plan IV and new Service Delivery Standards during Africa Statistics Week 2026. The standards set response times for users' data requests. State Minister Lugoloobi said data use in decision-making remains inadequate.
 
 </div>
 

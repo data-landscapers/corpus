@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: KEN
 ledger_rows: 102
 not_held: 5
-record: 636999b0c9fd
+record: 0b47d956d3a3
 ---
 
 # News, Oct – Nov 2026
@@ -206,7 +206,7 @@ An opinion piece argues that Kenya's competition and data protection regulators 
 
 **[Public Notice: Gazettement of the Virtual Asset Service Providers Regulations, 2026 (joint CBK and CMA notice)](https://www.centralbank.go.ke/wp-content/uploads/2026/11/CBK-CMA-Public-Notice-Operationalisation-of-the-VASP-Regulations-2026-.pdf)** — Central Bank of Kenya and Capital Markets Authority, 13 November 2026
 
-VASP Act in operation from LN 134 of 22 July 2026; all virtual asset providers must apply to CBK or CMA for a licence.
+The VASP Act has been in operation since Legal Notice 134 of 22 July 2026. All virtual asset providers must apply to the Central Bank or the Capital Markets Authority for a licence.
 
 </div>
 
@@ -214,7 +214,7 @@ VASP Act in operation from LN 134 of 22 July 2026; all virtual asset providers m
 
 **[Kenya enforces mandatory crypto licensing](https://itweb.africa/article/kenya-enforces-mandatory-crypto-licensing/DZQ587V8WxkqzXy2)** — ITWeb Africa, 16 November 2026
 
-The Central Bank of Kenya and the Capital Markets Authority issued a joint notice dated 13 November 2026 requiring every crypto exchange, wallet provider and other virtual-asset business to apply for a licence. The notice confirms that the VASP Regulations 2026 were gazetted on 22 July 2026 as Legal Notice No. 134.
+The Central Bank of Kenya and the Capital Markets Authority require every virtual-asset business to apply for a licence. Their joint notice is dated 13 November 2026. It confirms the VASP Regulations 2026 were gazetted on 22 July 2026.
 
 </div>
 
@@ -1142,7 +1142,7 @@ The Clinton Health Access Initiative reports on digitising health campaigns in B
 
 **[Africa Health Data Forum Opens in Nairobi with Focus on Strengthening Health Systems Through Data](https://www.health.go.ke/africa-health-data-forum-opens-nairobi-focus-strengthening-health-systems-through-data)** — Ministry of Health (Kenya), 10 November 2026
 
-Health analytics centre planned under Digital Health Agency; 33m registered with SHA via Afya Yangu.
+The Health Cabinet Secretary announced a National Intelligence and Analytics Centre under the Digital Health Agency. He opened the first Africa Health Data Forum in Nairobi. Over 33 million Kenyans have registered with the Social Health Authority through Afya Yangu.
 
 </div>
 
@@ -1798,7 +1798,7 @@ Summarised under [China activities](#china-activities).
 
 **[Kenya and EU Advance Digital Partnership Talks to Unlock Investment Opportunities](https://techafricanews.com/2026/11/16/kenya-eu-digital-partnership-investment-opportunities/)** — TechAfrica News, 16 November 2026
 
-Kenya's ICT Principal Secretary said technical talks on an EU data-adequacy decision for Kenya are expected to conclude positively before a formal announcement. He spoke at a preparatory meeting for the EU-Kenya Digital Dialogue on 13 November 2026, which also covered digital public infrastructure, AI, digital identity and cybersecurity.
+Kenya's ICT Principal Secretary expects technical talks on an EU data-adequacy decision to end positively. He spoke on 13 November 2026 before the EU-Kenya Digital Dialogue. The meeting also covered digital public infrastructure, AI, digital identity and cybersecurity.
 
 </div>
 

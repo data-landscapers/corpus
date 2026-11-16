@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: STP
 ledger_rows: 7
 not_held: 5
-record: 222562737f29
+record: f4a28ec1af1b
 ---
 
 # News, Oct – Nov 2026
@@ -92,7 +92,7 @@ A second account of the ARTAC closing session, adding that São Tomé and Prínc
 
 **[Serviços de Identificação Civil vão ser emitidos em cinco embaixadas de STP na diáspora](https://www.glebatv.st/todas-noticias/servicos-de-identificacao-civil-vao-ser-emitidos-em-cinco-embaixadas-de-stp-na-diaspora)** — Gleba TV, 13 November 2026
 
-Kits for Gabon, Cabo Verde, Equatorial Guinea, Morocco, China; installation from December; STP Digital, World Bank.
+The registry directorate handed over biometric enrolment kits for missions in Gabon, Cabo Verde, Equatorial Guinea, Morocco and China. Diaspora citizens will get ID cards and passports abroad. Installation starts in December 2026 under the World Bank-financed STP Digital project.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-16
+period: 2026-10-01 to 2026-11-16
 subject: tech.innovate
 places: DZA; AGO; BEN; BFA; BDI; CAF; CIV; COD; EGY; SWZ; GHA; KEN; MWI; MRT; MUS; MAR; NAM; NGA; SEN; SLE; ZAF; SSD; TZA; TUN; ZWE
-record: 88678be8741e
+record: af5fe06aca8c
 ---
 
 # News, Oct – Nov 2026
@@ -263,6 +263,34 @@ Côte d'Ivoire's minister for digital transition, Djibril Ouattara, announced on
 **[Côte d’Ivoire targets 500 digital companies by 2031 under new startup initiative](https://techreviewafrica.com/news/8328/c-te-d-ivoire-targets-500-digital-companies-by-2031-under-new-startup-initiative)** — Tech Review Africa, 14 November 2026
 
 A second account of the Ivoire Tech Forum 2026 opening, where Côte d'Ivoire's digital transition minister Djibril Ouattara set a target of about 500 digital companies by 2031. The government plans to review 1,000 digital projects between 2027 and 2029. See the Ivoire Tech Forum entry for the full account.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Djassao tender-alert platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire : via sa plateforme web, Djassao facilite l'accès des PME aux appels d'offres](https://www.wearetech.africa/fr/fils/solutions/cote-d-ivoire-via-sa-plateforme-web-djassao-facilite-lacces-des-pme-aux-appels-doffres)** — wearetech.africa, 16 November 2026
+
+Djassao, a web platform from the Ivorian company Cedihome, gathers public and private tenders in one place and sends alerts to suppliers whose field matches. It was launched in October 2026 by Cédric Gnan. Buyers can also post their needs, and suppliers can respond and list their services.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Faba Finance credit-matching platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire : Ivana Valera numérise le scoring et l'octroi de crédits](https://www.wearetech.africa/fr/fils/tech-stars/cote-d-ivoire-ivana-valera-numerise-le-scoring-et-loctroi-de-credits)** — wearetech.africa, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+Ivana Valera founded Faba Finance in Abidjan in 2025. Its mobile application lets individuals and small businesses simulate a loan and send the application remotely to partner banks and financial institutions. It targets slow and document-heavy credit procedures in West Africa.
 
 </div>
 

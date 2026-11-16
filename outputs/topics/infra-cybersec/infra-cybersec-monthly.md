@@ -3,8 +3,8 @@ title: Cybersecurity — News, October – November 2026
 compiled: 2026-11-16
 period: 2026-10-01 to 2026-11-16
 subject: infra.cybersec
-places: BEN; BWA; BFA; CMR; CPV; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; ZMB; ZWE
-record: 78c24697fa02
+places: BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; ZMB; ZWE
+record: 70f821948601
 ---
 
 # News, Oct – Nov 2026
@@ -19,6 +19,8 @@ record: 78c24697fa02
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cape-verde">Cape Verde</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -188,6 +190,22 @@ Cameroon's ICT agency ANTIC said it has audited 108 fintech companies and found 
 **[Falhas nos serviços da Microsoft afectaram plataformas de comunicação e gestão documental do Estado](https://www.inforpress.cv/pt/article-12413)** — Inforpress, 13 November 2026
 
 A Microsoft service failure from 17:00 on 12 November 2026 disrupted Cabo Verde state platforms, the director-general of telecommunications and digital economy said. They were the centralised state identity system, institutional e-mail, Teams and Office 365 document platforms. Services on the state private network were restored from midday on 13 November. No information loss had been identified by then, and a contingency plan is being prepared.
+
+</div>
+
+</div>
+
+## Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National security operations centre and response team</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Congo (Rep. of the) - PP-26 Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/congo-rep-of-the/)** — International Telecommunication Union, 14 November 2026
+
+The minister told the ITU conference in Doha that the first seven digital public services open on 5 December 2026. Some fifty more follow in 2027. The national data centre is delivered at the end of November 2026.
 
 </div>
 
@@ -823,6 +841,20 @@ A Nigerien delegation led by Mohamed Ghadfi, deputy secretary-general of the com
 **[NCC tasks telcos on stronger defenses against AI cyberattacks](https://guardian.ng/news/ncc-tasks-telcos-on-stronger-defenses-against-ai-cyberattacks/)** — The Guardian Nigeria, 27 October 2026
 
 The Nigerian Communications Commission spoke at the second International Cybersecurity Conference in Abuja. It urged telecom operators to adopt zero-trust architecture. It also urged them to test their AI systems regularly for weaknesses. The commission said telecoms infrastructure is designated Critical National Information Infrastructure. It said it runs a computer incident response team with mandatory incident reporting.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public breach disclosure regime</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cyberattack alert: What Nigerian banks must tell customers](https://techcabal.com/2026/11/16/what-banks-must-show-after-a-cyberattack/)** — TechCabal, 16 November 2026
+
+The article sets out that in Nigeria reporting a cyberattack to the Central Bank, notifying affected customers and making a public announcement are separate duties. Banks must tell those affected where a personal-data breach is likely to create a high risk to individuals. CBN figures show N134.48 billion lost to fraud from 2020 to 2025. NIBSS figures put payment fraud losses at N25.85 billion in 2025, down from N52.26 billion.
 
 </div>
 

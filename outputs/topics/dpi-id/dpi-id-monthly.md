@@ -3,8 +3,8 @@ title: Digital Identity and CRVS — News, October – November 2026
 compiled: 2026-11-16
 period: 2026-10-01 to 2026-11-16
 subject: dpi.id
-places: DZA; AGO; BEN; BWA; BFA; CMR; COM; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 3faa0f536d42
+places: DZA; AGO; BEN; BWA; BFA; CMR; COM; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; STP; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
+record: eb04cc5326f9
 ---
 
 # News, Oct – Nov 2026
@@ -61,6 +61,8 @@ record: 3faa0f536d42
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#rwanda">Rwanda</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sao-tome-and-principe">Sao Tome and Principe</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -778,6 +780,14 @@ A committee of Liberia's House suspended its review of a US$52 million concessio
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[US$52M ID Deal Faces Fresh Scrutiny](https://www.newerainquirer.com/article/29a1a5b7-1ba2-4dde-a435-3dae7102b0f6)** — The Inquirer (Liberia), 13 November 2026
+
+A House joint committee closed its third hearing on the US$52 million ID concession with OeSD International. The registry holds about 740,000 records after nine years, its director said. The committee awaits Justice Ministry answers before reporting.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1069,6 +1079,22 @@ Rwanda's identification agency suspended the photography exercise for the digita
 
 </div>
 
+## Sao Tome and Principe
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric identity enrolment at five embassies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Serviços de Identificação Civil vão ser emitidos em cinco embaixadas de STP na diáspora](https://www.glebatv.st/todas-noticias/servicos-de-identificacao-civil-vao-ser-emitidos-em-cinco-embaixadas-de-stp-na-diaspora)** — Gleba TV, 13 November 2026
+
+The registry directorate handed over biometric enrolment kits for missions in Gabon, Cabo Verde, Equatorial Guinea, Morocco and China. Diaspora citizens will get ID cards and passports abroad. Installation starts in December 2026 under the World Bank-financed STP Digital project.
+
+</div>
+
+</div>
+
 ## Sierra Leone
 
 <div class="monthly-story" markdown="1">
@@ -1353,6 +1379,20 @@ Uganda Revenue Authority had linked 2.13 million of its 5.41 million individual 
 **[NIN is TIN](https://ura.go.ug/en/nin-is-tin/)** — Uganda Revenue Authority, 10 November 2026
 
 The Uganda Revenue Authority explains that the National Identification Number now serves as the Tax Identification Number for individual taxpayers. Cabinet approved the change on 31 August 2026, following an amendment to the Tax Procedures Code Act in 2025/26. The authority says separate identifiers had left duplicate and fragmented taxpayer records.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bank verification of borrowers' marital status with NIRA</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Matrimonial property loan disputes: Banks turn to NIRA](https://www.monitor.co.ug/uganda/news/national/matrimonial-property-loan-disputes-banks-turn-to-nira-5669142)** — Daily Monitor, 13 November 2026
+
+Banks and NIRA are working on a way for lenders to check borrowers' marital status before approving loans. Banks have lost court cases over matrimonial property pledged without both spouses' consent.
 
 </div>
 

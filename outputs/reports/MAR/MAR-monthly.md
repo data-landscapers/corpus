@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: MAR
 ledger_rows: 29
 not_held: 13
-record: 0efab768a2b0
+record: 5fe49da5ba9e
 ---
 
 # News, Oct – Nov 2026
@@ -476,7 +476,7 @@ Morocco's General Directorate of National Security opened its Epolice portal on 
 
 **[Fez-Meknes summit sets out roadmap for regional digital sovereignty](https://en.le360.ma/economy/fez-meknes-summit-sets-out-roadmap-for-regional-digital-sovereignty_3B2LMR5YIBDU5JURKZ5P4USFFI/)** — Le360, 14 November 2026
 
-Regional micro data centre, digital health lab, regional SOC and AI lab proposed; partnership agreements signed.
+A Fez-Meknes summit proposed a regional micro data centre, a digital health lab, a regional security operations centre and an AI lab. Partnership agreements were signed.
 
 </div>
 

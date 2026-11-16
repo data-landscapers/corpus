@@ -4,7 +4,7 @@ compiled: 2026-11-16
 period: 2026-10-01 to 2026-11-16
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 524bf5e544e3
+record: 5489f6f5b398
 ---
 
 # News, Oct – Nov 2026
@@ -280,6 +280,14 @@ The budget and public service ministry decided to hold the March-April 2027 prof
 **[E-gouvernance : le Bénin et la Mauritanie à l'école estonienne, et vice versa](https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne)** — TransContinents Africa, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a>
 
 Benin and Mauritania compared their digital government programmes at Estonia's embassy in Paris on 28 October 2026. Benin reported more than 210 end-to-end online services, up from five at launch in March 2020, and digital identity for over 99% of the population. Mauritania reported about 40 transactional services out of nearly 900 targeted.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : le portail des services publics fait peau neuve avec de nouvelles fonctionnalités](https://lanouvelletribune.info/2026/11/benin-le-portail-des-services-publics-fait-peau-neuve-avec-de-nouvelles-fonctionnalites/)** — La Nouvelle Tribune, 14 November 2026
+
+The digital agency ASIN announced a new version of the service-public.bj portal on 13 November 2026. It adds the Yémi AI assistant, a business space and direct sign-in. The administration will reuse data it already holds.
 
 </div>
 
@@ -1485,6 +1493,34 @@ The Liberia Revenue Authority showed a public revenue dashboard and an AI virtua
 **[LACC Launches Anti-Corruption Dashboard](https://www.thenewdawnliberia.com/lacc-launches-anti-corruption-dashboard/)** — The New Dawn, 12 November 2026
 
 The Liberia Anti-Corruption Commission launched a public accountability dashboard on 11 November 2026, due to become operational in 2027. It is to bring together audit findings, procurement compliance, investigations, prosecutions and asset declarations. The work sits under the World Bank-supported GREAT Project. The PPCC, the General Auditing Commission and the Public Accounts Committee are to be trained to feed it.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">New York consulate online payment for consular services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia’s New York Consulate Introduces Online Payment for Services](https://www.thenewdawnliberia.com/liberias-new-york-consulate-introduces-online-payment-for-services/)** — The New Dawn Liberia, 16 November 2026
+
+Liberia's Consulate General in New York now takes online payment through its website for all consular services. These include visas, new and renewed passports, laissez-passer, document legalisation and authentication, and birth affidavits.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online mineral licence application system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MME Trains, Certifies Geologists, Mining Consultancy Firms on Licensing Procedures](https://www.liberianobserver.com/news/mme-trains-certifies-geologists-mining-consultancy-firms-on-licensing-procedures/article_0216311d-d201-42e2-b3c4-c0080794ab97.html)** — Liberian Observer, 16 November 2026
+
+The Ministry of Mines and Energy says its online mining licence and permit system is fully operational. It trained and certified geologists and consultancy firms on the platform. The training also covered the Revenue Authority's online payment system.
 
 </div>
 

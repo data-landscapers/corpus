@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-16
 place: MRT
 ledger_rows: 21
 not_held: 3
-record: d0b97a00d10b
+record: 9e46b342e5c5
 ---
 
 # News, Oct – Nov 2026
@@ -104,7 +104,7 @@ Mauritania's Council of Ministers on 14 October 2026 adopted bills to ratify Wor
 
 **[La commission des affaires économiques de l’Assemblée nationale examine deux projets de loi](https://ami.mr/fr/archives/306260)** — Agence mauritanienne d'information (AMI), 13 November 2026
 
-National Assembly committee examines ratification of WARDIP SOP1 additional financing and IDA social-resilience credit.
+A National Assembly committee examined ratification of additional WARDIP financing. It also examined an IDA credit for social resilience.
 
 </div>
 
