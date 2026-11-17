@@ -3,9 +3,9 @@ title: Africa — News, Oct – Nov 2026
 compiled: 2026-11-17
 period: 2026-10-01 to 2026-11-17
 place: XAF
-ledger_rows: 82
+ledger_rows: 83
 not_held: 3
-record: f4f819f30b0b
+record: 4daa05bf24a6
 ---
 
 # News, Oct – Nov 2026
@@ -621,6 +621,28 @@ At a UNDP-backed event in Rome on 3 November 2026, the AI Hub and Moroccan firm 
 **[Meet the 10 startups joining the first Google Africa Applied AI Lab cohort](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/meet-the-10-startups-joining-the-first-google-africa-applied-ai-lab-cohort/)** — Google Africa Blog, 11 November 2026
 
 Google named the ten start-ups in the first cohort of its Africa Applied AI Lab on 11 November 2026. They include Crane AI Labs (Uganda), Intron, Termii and Vendy (Nigeria), Satlyt (Kenya) and Tolbi (Senegal). Entrants came from more than 45 African countries, and a demo day is set for December 2026 in Accra.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AfDB Africa's Macroeconomic Performance and Outlook, November 2026 update</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africa's Macroeconomic Performance and Outlook — Update, November 2026](https://www.afdb.org/sites/default/files/documents/publications/2026_africas_microeconoic_performance_and_outlook_update_english.pdf)** — African Development Bank, 13 November 2026
+
+AfDB lifts Africa's 2026 growth forecast to 4.6% and finds tech-led global growth yielding Africa limited gains.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africa Is Missing Out on the Global AI Investment Boom, AfDB Warns | iAFRICA.COM](https://iafrica.com/africa-is-missing-out-on-the-global-ai-investment-boom-afdb-warns/)** — iAFRICA.COM, 17 November 2026
+
+The African Development Bank's November 2026 macroeconomic outlook says Africa captures limited benefit from the global AI investment boom. Its modelling suggests AI could add up to $1 trillion to annual GDP by 2035 under an ambitious adoption scenario. It proposes regional computing hubs and a target of three million AI-capable professionals by 2030. It describes these as proposals, not funded projects.
 
 </div>
 
