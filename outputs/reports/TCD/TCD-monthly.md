@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: TCD
-ledger_rows: 20
+ledger_rows: 21
 not_held: 23
-record: ba6825d14a27
+record: 64b5eef11905
 ---
 
 # News, Oct – Nov 2026
@@ -367,6 +367,20 @@ Chad's national land freight bureau (BNFT) and Moov Money Tchad signed an agreem
 **[Tchad : le BNFT signe avec Konoom pour dématérialiser le paiement de la LVO et de la TAE](https://www.ndjamenaactu.com/2026/10/14/tchad-le-bnft-signe-avec-konoom-pour-dematerialiser-le-paiement-de-la-lvo-et-de-la-tae/)** — N’Djaména Actu, 14 October 2026
 
 Chad's national land freight bureau BNFT signed an agreement with Konoom Mobile Money on 14 October 2026 to take payment of the mandatory consignment note (LVO) and the axle tax (TAE) by mobile money. It follows a similar agreement with Moov two days earlier; BNFT says the aim is simpler procedures for transporters and traceable state revenue.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Education and health platforms built by SONEMIC and ADETIC (Td-connect, E-Santé, E-éducation, Td-scolar)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Éducation et Santé : la SONEMIC offre du matériel informatique](https://tchadinfos.com/2026/11/17/education-et-sante-la-sonemic-offre-du-materiel-informatique/)** — Tchadinfos, 17 November 2026
+
+Chad's state mining company SONEMIC handed servers, interconnection equipment and security infrastructure to the education ministry and the national digital health programme on 17 November 2026. SONEMIC paid for the equipment itself. It is meant to host platforms including Td-connect, E-Santé, E-éducation and Td-scolar, built with engineers from the ICT agency ADETIC.
 
 </div>
 
