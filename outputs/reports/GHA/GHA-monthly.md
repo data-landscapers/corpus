@@ -3,9 +3,9 @@ title: Ghana — News, Oct – Nov 2026
 compiled: 2026-11-17
 period: 2026-10-01 to 2026-11-17
 place: GHA
-ledger_rows: 75
+ledger_rows: 76
 not_held: 9
-record: 510a06875ca2
+record: 3219de19ae07
 ---
 
 # News, Oct – Nov 2026
@@ -1307,6 +1307,20 @@ Google has given staff and students at Kwame Nkrumah University of Science and T
 **[Empowering Educators and Learners in Sub-Saharan Africa](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/empowering-educators-and-learners-in-sub-saharan-africa-2026/)** — Google, 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
 Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in Kenya, Ghana and South Africa, Google announced. Google.org and the Gates Foundation fund the work, which first targets up to 500 teachers and 15,000 students. Google also opened its AI Educator Series in South Africa with SACE.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICC-TikTok Digital Commerce Labs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana launches ICC-TikTok Digital Commerce Labs to equip young entrepreneurs with digital skills](https://techreviewafrica.com/news/8363/ghana-launches-icc-tiktok-digital-commerce-labs-to-equip-young-entrepreneurs-with-digital)** — Tech Review Africa, 17 November 2026
+
+The ICC-TikTok Digital Commerce Labs were launched in Ghana, reported on 17 November 2026, to train young entrepreneurs and small businesses. Topics include digital marketing, social commerce, digital payments and financial literacy. Deputy minister Mohammed Adams Sukparu asked partners for an impact-measurement framework. No participant numbers or funding were stated.
 
 </div>
 
