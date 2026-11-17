@@ -1,12 +1,12 @@
 ---
 title: Benin: status report
-compiled: 2026-11-16
+compiled: 2026-11-17
 place: BEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 9
-sources_cited: 274
+sources_cited: 275
 sections_written: 39
 not_established: 0
 acquire_lines: 41
@@ -217,7 +217,7 @@ The population register doubles as the electoral roll, and [7,834,608 voters wer
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-Between 2018 and 2023 a donor-funded project [distributed 4,000 paper health data registers to private facilities in every region of Benin](https://www.abtglobal.com/insights/impact-briefs/pshpa-trains-private-health-facilities-to-submit-rmnch-data-for-dhis2). [It trained their staff to fill in the national reporting tools that feed DHIS2](https://www.abtglobal.com/insights/impact-briefs/pshpa-trains-private-health-facilities-to-submit-rmnch-data-for-dhis2). [A health-facility geo-registry consolidated the master facility list](https://www.openiaso.com/fr/moderniser-carte-sanitaire-benin-impact-georegistre/) (March 2026). [Its automatic feed into the national DHIS2 was left unfinished when the project ended](https://www.openiaso.com/fr/moderniser-carte-sanitaire-benin-impact-georegistre/).
+Between 2018 and 2023 a donor-funded project [distributed 4,000 paper health data registers to private facilities in every region of Benin](https://www.abtglobal.com/insights/impact-briefs/pshpa-trains-private-health-facilities-to-submit-rmnch-data-for-dhis2). [It trained their staff to fill in the national reporting tools that feed DHIS2](https://www.abtglobal.com/insights/impact-briefs/pshpa-trains-private-health-facilities-to-submit-rmnch-data-for-dhis2). [A health-facility geo-registry consolidated the master facility list](https://www.openiaso.com/fr/moderniser-carte-sanitaire-benin-impact-georegistre/) (March 2026). [Its automatic feed into the national DHIS2 was left unfinished when the project ended](https://www.openiaso.com/fr/moderniser-carte-sanitaire-benin-impact-georegistre/). [In November 2026 the health minister said a hospital information system with a QR-code patient record was being built with the digital ministry](https://www.agenceecofin.com/actualites-numerique/1711-143501-soigner-plus-vite-sauver-davantage-le-pari-numerique-dans-la-sante-au-benin), and that [a platform for declaring maternal and neonatal deaths had been running for a week](https://www.agenceecofin.com/actualites-numerique/1711-143501-soigner-plus-vite-sauver-davantage-le-pari-numerique-dans-la-sante-au-benin).
 
 In education, a [ministerial letter of February 2026 ordered every school director to bring enrolment for all classes up to date on the government's EducMaster platform](https://beninwebtv.com/benin-le-ministre-karimou-exige-la-mise-a-jour-complete-des-donnees-des-classes-intermediaires-sur-educmaster/). [Directors who did not would be excluded from paid work on the June 2026 primary-leaving certificate exams](https://beninwebtv.com/benin-le-ministre-karimou-exige-la-mise-a-jour-complete-des-donnees-des-classes-intermediaires-sur-educmaster/). [The letter stressed that the platform manages the whole sub-sector, not only certificate entries](https://beninwebtv.com/benin-le-ministre-karimou-exige-la-mise-a-jour-complete-des-donnees-des-classes-intermediaires-sur-educmaster/).
 
