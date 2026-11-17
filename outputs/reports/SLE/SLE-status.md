@@ -1,12 +1,12 @@
 ---
 title: Sierra Leone: status report
-compiled: 2026-11-14
+compiled: 2026-11-17
 place: SLE
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 236
+sources_cited: 237
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -260,7 +260,7 @@ Civil registration is the country's strongest public administration measure in t
 ### AI
 <!-- tech.ai -->
 
-[In May 2026 Sierra Leone had no national artificial-intelligence strategy in force](https://techafricanews.com/2026/05/28/sierra-leone-advances-artificial-intelligence-agenda-to-expand-digital-opportunities/). [In September 2026 its attorney-general told a UNESCO forum that it has no AI-specific statute, and will treat AI systems affecting citizens' rights as high-risk by default](https://truthmedia.sl/attorney-general-defends-cautious-path-to-ai-legislation-at-unesco-forum-in-riyadh/). [A readiness diagnostic was reported complete by September 2026, and the communications ministry is drafting the first strategy with the World Bank](https://truthmedia.sl/attorney-general-defends-cautious-path-to-ai-legislation-at-unesco-forum-in-riyadh/). [Its three-day multi-stakeholder consultations aimed to reflect the country's own languages and cultural contexts](https://techafricanews.com/2026/05/28/sierra-leone-advances-artificial-intelligence-agenda-to-expand-digital-opportunities/).
+[In May 2026 Sierra Leone had no national artificial-intelligence strategy in force](https://techafricanews.com/2026/05/28/sierra-leone-advances-artificial-intelligence-agenda-to-expand-digital-opportunities/). [In September 2026 its attorney-general told a UNESCO forum that it has no AI-specific statute, and will treat AI systems affecting citizens' rights as high-risk by default](https://truthmedia.sl/attorney-general-defends-cautious-path-to-ai-legislation-at-unesco-forum-in-riyadh/). [In November 2026 the World Bank published its AI readiness diagnostic for Sierra Leone, prepared with the communications ministry to inform the national strategy](https://www.worldbank.org/en/country/sierraleone/publication/sierra-leone-ai-readiness-diagnostic). [It found adoption at an early stage, with 4G reaching about 82% of the population but 25% using the internet (2024)](https://www.worldbank.org/en/country/sierraleone/publication/sierra-leone-ai-readiness-diagnostic). [Its three-day multi-stakeholder consultations aimed to reflect the country's own languages and cultural contexts](https://techafricanews.com/2026/05/28/sierra-leone-advances-artificial-intelligence-agenda-to-expand-digital-opportunities/).
 
 [In June 2026 its developers reported a machine-learning tool allocating national stocks of more than 70 essential medicines, scaled nationwide after a five-district pilot](https://penntoday.upenn.edu/news/transforming-healthcare-logistics-low-cost-ai). [The education ministry's EDITH assistant for officials was built by March 2026, and was being prepared for handover from pilot](https://thecalabashnewspaper.com/mbsse-develops-revolutionary-ai-platform-to-transform-education-management/). [Ten to fifteen AI-driven government workflows are to be built with the Kenyan firm Qhala, under a memorandum signed at the 80th UN General Assembly](https://www.wearetech.africa/en/fils-uk/news/tech/sierra-leone-turns-to-ai-to-modernize-public-services). [In March 2026 senior officials from across government took AI foundations and emerging-technology courses](https://mocti.gov.sl/mocti-and-partners-train-civil-servants-on-cybersecurity-artificial-intelligence-and-emerging-technologies/). [The civil-service digital skills programme launched in July 2026 counts AI and automation among its six areas](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/).
 
