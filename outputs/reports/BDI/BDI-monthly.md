@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: BDI
-ledger_rows: 24
+ledger_rows: 25
 not_held: 10
-record: 164d6fd283cc
+record: e7240bcd0e6a
 ---
 
 # News, Oct – Nov 2026
@@ -312,6 +312,8 @@ Germany Trade & Invest listed the World Bank-financed PAFEN tender for Burundi's
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
 <a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#rural-digital-data-capture">Rural digital data capture</a>
 </nav>
 
 ### Digitalisation of sub-national government
@@ -325,6 +327,22 @@ Germany Trade & Invest listed the World Bank-financed PAFEN tender for Burundi's
 **[BUTIHINDA : La digitalisation de la gestion comptable, budgétaire et financière se modernise grâce au logiciel AK-SOFT](https://communebutihinda.gov.bi/butihinda-la-digitalisation-de-la-gestion-comptable-budgetaire-et-financiere-se-modernise-grace-au-logiciel-ak-soft/)** — Commune de Butihinda, 25 October 2026
 
 Butihinda commune in Burundi held a practical session on 24 and 25 October 2026 for its zonal assistant accountants and tax collectors on AK-SOFT, integrated software for communal accounting, budget and financial management, following a Primature workshop for communal finance officers at Buhumuza on 20 to 23 October. Staff are entering the commune's revenue and spending from 1 July 2025 through the first quarter of fiscal 2026-27; participants asked for more training and said they need stable internet and continuing technical support.
+
+</div>
+
+</div>
+
+### Rural digital data capture
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Satellite school connectivity under the ITU Partner2Connect coalition</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SES expands rural school connectivity](https://itweb.africa/article/ses-expands-rural-school-connectivity/WnpNgq21E5EMVrGd)** — ITWeb Africa, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+
+SES and the ITU's Partner2Connect coalition plan to connect 30 rural schools in Malawi, Burundi, Zambia and Zimbabwe by satellite by the end of 2026. The schools have an estimated 20,000 to 30,000 students and teachers. The schools form part of SES's pledge to connect 100 schools worldwide.
 
 </div>
 
