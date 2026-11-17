@@ -1,18 +1,18 @@
 ---
 title: Southern Africa — progress report, November 2025 – November 2026
-compiled: 2026-11-13
-period: 2025-11-01 to 2026-11-13
+compiled: 2026-11-17
+period: 2025-11-01 to 2026-11-17
 place: XSA
 ledger_rows: 61
 not_held: 2
-record: 3c08fce2d2ac
+record: bc6eeaf27ae6
 ---
 
 # Southern Africa: progress report, November 2025 – November 2026
 
-*Compiled 2026-11-13 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-11-17 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 61 bodies, instruments and systems on this place's ledger, 28 changed position between 2025-11-01 and 2026-11-13, 14 did not, 17 carry no stated baseline, and 2 are ***Not held*** at both ends.*
+*Of 61 bodies, instruments and systems on this place's ledger, 27 changed position between 2025-11-01 and 2026-11-17, 15 did not, 17 carry no stated baseline, and 2 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 103 sources for this place in the window — 17 in the earlier half (2025-11 to 2026-05), 86 in the later (2026-06 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -32,11 +32,11 @@ Cross-border capacity was added by operators: a fibre corridor [carrying traffic
 
 ### Regional collaboration
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | IDEA programme (Inclusive Digitalization in Eastern and Southern Africa) | US$2.48bn approved in June 2024, phase 1 Angola, DR Congo and Malawi; no forum and no regional action plan | [Phase I is Zambia, DR Congo, Malawi and Angola, with Eswatini, Tanzania and Madagascar preparing Phase II; a Strategic Action Plan and Digital Action Matrix for 2026-2027 agreed; the secretariat's report for January to June 2026 records US$325,535 spent of a US$3,705,360 regional budget for the year, 9%, and names Eswatini a participating state in preparation, its US$65m project approved by the lender in June 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf) | Movement |
 | IDEA Project Steering Committee (COMESA) | Two meetings since the programme was approved in June 2024 | [Third meeting, reviewing implementation and risk with other regional communities, EACO, SAPOA, SATA and the World Bank](https://www.comesa.int/press-release-comesa-convenes-3rd-idea-project-steering-committee-meeting-to-accelerate-digital-integration-in-eastern-and-southern-africa/) | Movement |
-| Regional higher education data system | Did not exist | [Agreement on a regional higher education data system was set as one of five immediate priorities at a regional vice-chancellors' strategic meeting in Johannesburg on 31 August 2026, alongside implementation priorities for the regional higher education strategy, a network model for a proposed regional university, better qualifications recognition and credit transfer, and flagship research and skills programmes tied to the region's industrialisation agenda. South Africa's higher education minister told the meeting the region must build its own computing capability, trusted datasets, African-language technologies and cybersecurity rather than rent intelligence from others, and set the test as students and academics having moved and data being shared by the June 2027 ministers' meeting rather than documents completed](https://www.sanews.gov.za/south-africa/sadc-must-build-its-own-knowledge-drive-industrialisation-says-manamela) | Movement |
+| Regional higher education data system | Did not exist | [Agreement on a regional higher education data system was named one of five immediate priorities at a regional vice-chancellors' meeting in Johannesburg on 31 August 2026. South Africa's higher education minister set the test as students and academics having moved, and data being shared, by the June 2027 ministers' meeting](https://www.sanews.gov.za/south-africa/sadc-must-build-its-own-knowledge-drive-industrialisation-says-manamela) | Movement |
 | SADC preparatory process for the ITU World Radiocommunication Conference 2027 | No preparatory meeting on record | [Closed at Luanda on 7 August 2026 with harmonised SADC Common Positions and Proposals on key WRC-27 agenda items; spectrum allocation for International Mobile Telecommunications was named the sensitive debate and the common position document is not published (2026-08)](https://www.novojornal.co.ao/economia/detalhe/terceira-reuniao-da-sadc-sobre-radiocomunicacoes-acontece-na-ressaca-do-ataque-cibernetico-73684.html) | Movement |
 | CRASA (Communications Regulators Association of Southern Africa) | Implementing its 2023/28 strategic plan through eight standing committees, having adopted a satellite licensing framework and a type-approval recognition framework in April 2024 (2024-04) | [The association opened its 2026/27 financial year with the first meeting of its Finance, Risk and Audit Committee, a two-day hybrid session in Maseru on 20 and 21 August 2026 hosted by the Lesotho Communications Authority, at which the committee and the secretariat reviewed financial and audit matters and assessed institutional risk across the association's regional programmes. No budget, audit opinion, risk register or programme list reaches the repository from it. Its consumer and stakeholder policy committee held the financial year's first ordinary in-person meeting at Gaborone from 2 to 4 September 2026 to advance the 2026/27 workplan (2026-09)](https://events.crasa.org/event/46th-ordinary-meeting-of-the-crasa-executive-committee-exco/) | No change |
 | Promotion of regional capital-market integration | The exchanges' committee validated the trading-link hub's smart order router in September 2024, ahead of procurement, under a US$7m development bank grant; 14 exchanges in 13 member states (2024-10) | [The regional secretariat and the committee of member-state stock exchanges took part in an investment congress in Dubai from 7 to 9 September 2026, promoting the region as an integrated investment destination and regional capital-market integration as a catalyst for investment and industrialisation; the congress brings together governments, businesses, institutional investors, sovereign wealth funds and development finance institutions.](https://sadc.int/latest-news/sadc-positions-southern-africa-integrated-investment-destination-aim-congress-2026) | No change |
@@ -58,13 +58,13 @@ The regulators' association's own year opened on process. It held the [first Fin
 
 ### Strategies, plans and policies
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | SADC Digital Transformation Strategy and Action Plan | Draft of 12 October 2022, unadopted | [Still the 2022 draft with no adoption decision on record, though the Secretariat cited the strategy as an instrument it is implementing (2025-08)](https://www.sadc.int/sites/default/files/2025-08/EN%20-%205.2.3B%20-%20CM--SADC-ICT-INFO-MINISTERS-2023-4.8D%20-%20Draft%20SADC%20DTS_1.pdf) | No change |
 
 ### Legislation and regulation
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | Digital platform governance toolkit (RIA/UNESCO) | Did not exist | [Published with a five-part self-assessment checklist, eight legislative building blocks and a five-tier escalation ladder; no regulator adoption on record](https://researchictafrica.net/research/unesco-digital-platform-governance-toolkit/) | Movement |
 | SADC Computer Crime and Cybercrime Model Law | In force as a model since November 2012, unrevised | [Unchanged; no revision, successor or transposition record held](https://www.itu.int/en/ITU-D/Projects/ITU-EC-ACP/HIPSSA/Documents/FINAL%20DOCUMENTS/FINAL%20DOCS%20ENGLISH/sadc_model_law_cybercrime.pdf) | No change |
@@ -73,7 +73,7 @@ The regulators' association's own year opened on process. It held the [first Fin
 
 ### Data protection
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | SADC Data Protection Model Law | The 2012 model law, unrevised, with a modernisation consultancy tendered February 2022 | [Unchanged; no revised text and no outcome of the 2022 revision on record](https://www.itu.int/en/ITU-D/Projects/ITU-EC-ACP/HIPSSA/Documents/FINAL%20DOCUMENTS/FINAL%20DOCS%20ENGLISH/sadc_model_law_data_protection.pdf) | No change |
 | CRASA as regional data-governance authority | ***Baseline not held*** | [A sub-group of the regulators' association drafted a framework for it to act as SADC's regional data-governance authority; no adoption found](https://www.techreviewafrica.com/news/2133/crasa-legal-and-policy-committee-meeting-advances-regional-data-governance-and-ai-regulation-in-sadc) | ***Baseline not held*** |
@@ -81,7 +81,7 @@ The regulators' association's own year opened on process. It held the [first Fin
 
 ### Standards
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | Lilongwe Declaration on Collaborative Regulation | Did not exist | [Adopted with six shared principles and seven areas of collaborative action; CRASA has not published the text (2026-08-05)](https://researchictafrica.net/2026/05/04/how-do-we-move-the-crasa-summits-commitment-to-collaborative-regulation-from-intent-to-evidence-led-action/) | Movement |
 | Regional data governance harmonisation roadmap | A first regional workshop devoted to digital, held at Antananarivo in September 2025 on data governance and electronic commerce | [Policymakers, regulators and technical experts from eight Southern African states worked towards a roadmap for harmonising data governance frameworks, at a workshop convened by a UN agency with a continental digital body and a member state ministry, working from a data governance toolkit and undertaking national self-assessments](https://www.unesco.org/en/articles/unesco-supports-southern-africa-harmonise-data-governance) | Movement |
@@ -90,7 +90,7 @@ The regulators' association's own year opened on process. It held the [first Fin
 
 ### AI
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | COMESA regional AI strategy | Did not exist | [A regional meeting in Eswatini from 16 September 2026, under the World Bank-funded IDEA programme, validated a draft study on artificial intelligence and emerging technologies with member states, the African Union and the World Bank, as the first phase before a regional AI strategy, model policy guidelines and a model regulatory framework are developed. Neither the draft study nor a strategy text is published](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/) | Movement |
 | SADC Regional Artificial Intelligence Strategy and Regulatory Framework | A regional AI model policy and regulatory framework under development, reported at the parliamentary forum's June 2025 plenary; no draft or adoption date (2025-06) | [Under development according to Malawi's ICT ministry (2026-06); no draft, adoption date or Secretariat document held; a regional workshop at Harare on data governance in the artificial-intelligence age, convened with the World Bank, a continental alliance and a United Nations agency, set out to harmonise member states' data policy for readiness](https://itweb.africa/article/sadc-puts-spotlight-on-ai-data-governance/JN1gP7OAw5wqjL6m) | No change |
@@ -107,11 +107,11 @@ The community's own instruments did not move. The Digital Transformation Strateg
 
 ### Connectivity
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | Powertel-Paratus cross-border fibre corridor | Did not exist | [Phase 1 live and carrying traffic, on a route to link Zimbabwe with Botswana, Zambia and South Africa](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V) | Movement |
 | Regional connectivity indicators | Internet penetration 54%, 4G population coverage 75% and mobile penetration 91% (2023) | [Internet penetration 57.2%, 4G population coverage 79.2% and mobile penetration 95.2%, the last already past the regional target set for 2030 (2026-08)](https://www.sadc.int/sites/default/files/2026-08/Remarks%20of%20the%20SADC%20Executive%20Secretary%20at%20the%20Council%20of%20Ministers%20meeting%20on%2012%20August%202026%20Durban%2C%20South%20Africa.pdf) | Movement |
-| SADC regional internet exchange point | No host selection process on record | [BoFiNet of Botswana and one Zimbabwean company shortlisted; no award held in the eight months since](https://itweb.africa/article/botswana-seeks-to-host-sadc-internet-exchange/j5alr7QALmK7pYQk) | Movement |
+| SADC regional internet exchange point | No host selection process on record | [BoFiNet of Botswana and one Zimbabwean company shortlisted on 27 November 2025; no award found by November 2026](https://itweb.africa/article/botswana-seeks-to-host-sadc-internet-exchange/j5alr7QALmK7pYQk) | Movement |
 | SADC shared satellite | Framework for the SADC Shared Satellite Programme approved by ICT ministers, with no orbital filing held (2019-09) | [A technical submission on orbital positions filed with the ITU and the radiocommunication sector met to secure the slot, with a working group created to assess financing mechanisms and payment model; the project is stated to be at an early stage and no cost, launch date or operator is held (2026-08)](https://angop.ao/en/noticias/sociedade/sadc-harmoniza-posicao-para-conferencia-mundial-de-radio/) | Movement |
 | SADC Regional Infrastructure Development Master Plan | In force since 2012, carrying the ICT sector plan for a Digital SADC | [Unchanged, with under two years to its horizon; no revision or successor held](https://www.sadc.int/document/regional-infrastructure-development-master-plan-executive-summary-2012) | No change |
 | IDEA least-cost digital infrastructure planning consultancy | ***Baseline not held*** | [Inception phase of a consultancy under Component 1 of the IDEA programme covering financing models, least-cost connectivity options, an integrated digital infrastructure planning platform and project preparation toolkits, consulted across five member states](https://idea.comesa.int/press-release-comesa-idea-programme-kicks-off-national-consultative-engagements-to-advance-least-cost-digital-infrastructure-planning-in-eastern-and-southern-africa/) | ***Baseline not held*** |
@@ -120,26 +120,26 @@ The community's own instruments did not move. The Digital Transformation Strateg
 
 ### Data Storage
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | Live data-centre capacity, Southern Africa | ***Baseline not held*** | [South Africa held about 350 MW of live capacity, some 70 per cent of Africa's, while the other markets assessed, Angola, Botswana, Namibia and Zambia, each held under 5 MW (2025 estimates)](https://cms.d4dhub.eu/assets/Southern-Africa-Data-Center-Markets-Brief.pdf) | ***Baseline not held*** |
 
 ### Technical Capacity
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | Seacom 2.0 subsea system | Did not exist | [Announced with 48 fibre pairs across the Indian Ocean basin; no route, cost or in-service date on record](https://seacom.com/news/unveiling-seacom-20) | Movement |
 
 ### Cybersecurity
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | SADC central-bank frameworks on cyber, climate risk and cross-border crisis management | In drafting by working groups led by Botswana and Zimbabwe | [Finalised and approved, with supervision extended to cloud hosts and payment processors](https://independentnews.co.sz/46874/business/central-banks-rally-to-protect-regional-financial-system-against-new-age-cyber/) | Movement |
 | SADC Regional CIRT framework | A draft framework of September 2018, unpublished, with no regional incident-response capability operating | [A SADC Regional CIRT Task Force, chaired by South Africa, coordinating member states' response; 13 member states with operational national CIRTs in 2026 against four in 2018, on the Secretariat's count; the seventh regional cyber drill, with AfricaCERT, held at Luanda with 282 delegates and a first cybercrime cooperation exercise ending in a simulated court hearing](https://www.sadc.int/latest-news/sadc-strengthens-regional-cybersecurity-and-cybercrime-cooperation) | Movement |
 
 ### Data Exchange
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | COMESA Digital Information Knowledge and Collaboration Platform | Did not exist | [The secretariat has invited technical and financial proposals from eligible firms to develop the platform under contract reference CS/CC/06/(846-2026), with the minimum technical requirements set out in terms of reference annexed to the request. No budget, timetable, award or scope beyond the title reaches the repository](https://www.comesa.int/consultancy-for-the-development-of-comesa-digital-information-knowledge-collaboration-platform/) | Movement |
 | Customs-to-customs data exchange roadmap | Did not exist | [Customs administrations from five countries - Malawi, Mozambique, South Africa, Zambia and Zimbabwe - adopted a roadmap and action plan for customs-to-customs data exchange at a three-day meeting in Pretoria ending 26 August 2026, hosted by the South African revenue service and attended by the regional secretariat, to exchange trade information before consignments reach the border so that documentation and risk assessment happen earlier, phased from priority corridors and building on links already running between Zambia and Malawi and between Zambia and Zimbabwe](https://trademarkafrica.com/five-southern-african-customs-administrations-agree-on-a-roadmap-for-faster-digitally-connected-trade-corridors/) | Movement |
@@ -150,13 +150,13 @@ The community's own instruments did not move. The Digital Transformation Strateg
 
 ### Digital Identity and CRVS
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | SADC cross-border digital-ID and eKYC framework | A South Africa-Lesotho verification pilot, no regional framework | [Federated framework announced for all 16 member states; no build, budget or launch date on record in the year since](https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries) | Movement |
 
 ### Digital Payments and Fintech
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | COMESA Digital Retail Payments Platform | Did not exist | [Piloting between Malawi and Zambia, targeting settlement costs under 3% of value against about 8%](https://techcabal.com/2025/10/10/comesa-payment-system-trade-local-currencies/) | Movement |
 | SADC-RTGS | Settling in rand alone since 2013; 15 of 16 members participating | [Second settlement currency live; more than 80 banks, R250.7bn settled a month](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system) | Movement |
@@ -166,17 +166,17 @@ The community's own instruments did not move. The Digital Transformation Strateg
 
 ### National statistics
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | SADC ICT Observatory | Named since at least 2018 as the destination for regional ICT indicators, with no published output held | [Still assembling its inputs; the draft SADC Regional ICT Facts and Figures Report and proposed 2030 broadband indicators under review, and MoUs on indicator-data sharing between national statistics offices, ministries and regulators not yet in place (2025-08)](https://www.sadc.int/latest-news/sadc-regional-workshop-closes-call-strengthen-ict-statistics-and-enhance-sadc-ict) | No change |
 | COMESA regional climate transparency (MRV) framework | ***Baseline not held*** | [A US$4.2m GEF Trust Fund project, executed by COMESA's Climate Change Unit with Conservation International implementing and US$1.55m of co-financing, to establish an Eastern and Southern Africa regional transparency framework for monitoring, reporting and verification of climate action and reporting on nationally determined contributions](https://www.thegef.org/projects-operations/projects/10093) | ***Baseline not held*** |
 
 ### Geospatial data
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | AgriWatch regional monitoring dashboard | Did not exist | [A dashboard integrating Earth-observation products for crop-cycle, rangeland-health and rainfall monitoring, with training workshops, shared practice and case studies for government, academic, private-sector and community users across six southern African states](https://digitalearthafrica.org/en_za/growing-resilience-together-digital-earth-africa-and-sasscal-collaborate-on-agriwatch/) | Movement |
-| SADC Climate Services Centre | Did not exist | [Founded in 1990 as a drought monitoring centre, the centre runs regional monitoring and prediction services largely from satellite data, including 15-minute Meteosat imagery for nowcasting, a seven-day weather model and the SARCOF seasonal forecasts and early-warning bulletins issued to national meteorological services](https://eventregistration.eumetsat.int/wp-content/uploads/2020/09/6-SADC.pdf) | Movement |
+| SADC Climate Services Centre | Operating under the SADC Secretariat, founded in 1990 as a drought monitoring centre | [Founded in 1990 as a drought monitoring centre, the centre runs regional monitoring and prediction services largely from satellite data, including 15-minute Meteosat imagery for nowcasting, a seven-day weather model and the SARCOF seasonal forecasts and early-warning bulletins issued to national meteorological services](https://eventregistration.eumetsat.int/wp-content/uploads/2020/09/6-SADC.pdf) | No change |
 | WISER EWSA nowcasting testbed | ***Baseline not held*** | [A British-funded early-warning programme ran an intensive forecasting and nowcasting testbed hubbed at the Zambia Meteorological Department with centres in Mozambique and South Africa, issuing nowcasts every two hours and warnings to communities](https://www.metoffice.gov.uk/services/government/international-development/weather-and-climate-information-services-wiser/wiser-africa/wiser-ewsa/intensive-testbed-update-30-january-2025) | ***Baseline not held*** |
 
 <!-- narrative: systems -->
@@ -184,7 +184,7 @@ The SADC-RTGS [admitted the Angolan kwanza on 2026-07-27](https://www.sadc.int/l
 
 Retail settlement moved on a smaller scale. TCIB [activated its South Africa-Botswana corridor](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/) in March 2026, through a single bank. COMESA's Digital Retail Payments Platform, [launched on 2025-10-10](https://techcabal.com/2025/10/10/comesa-payment-system-trade-local-currencies/), is piloting between Malawi and Zambia against a target of under 3% of transaction value, from a stated average of about 8%.
 
-The systems SADC would own are earlier. The cross-border digital-ID and eKYC framework [announced in August 2025](https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries) with Co-Develop and FinMark Trust covers all 16 member states on paper and follows a South Africa-Lesotho pilot; a year on, the repository has no build, budget or launch date for it. The regional internet exchange point stood at a [two-bidder shortlist](https://itweb.africa/article/botswana-seeks-to-host-sadc-internet-exchange/j5alr7QALmK7pYQk) — BoFiNet of Botswana and one Zimbabwean company — on 2025-11-27, with no award in the eight months since.
+The systems SADC would own are earlier. The cross-border digital-ID and eKYC framework [announced in August 2025](https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries) with Co-Develop and FinMark Trust covers all 16 member states on paper and follows a South Africa-Lesotho pilot; a year on, the repository has no build, budget or launch date for it. The regional internet exchange point stood at a [two-bidder shortlist](https://itweb.africa/article/botswana-seeks-to-host-sadc-internet-exchange/j5alr7QALmK7pYQk) — BoFiNet of Botswana and one Zimbabwean company — on 2025-11-27, and no award has been found since.
 
 Capacity that arrived was commercial: the Powertel-Paratus corridor's first phase [went live on 2026-07-06](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V), and Seacom [announced a 48-fibre-pair Indian Ocean system](https://seacom.com/news/unveiling-seacom-20) on 2025-09-24 with no route, cost or in-service date on record.
 
@@ -197,7 +197,7 @@ Incident response moved too: the Secretariat [counted 13 member states with oper
 
 ### Innovation ecosystem
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | Injini Southern Africa AI edtech programme | Did not exist | [An eight-month accelerator supporting twelve teams across Southern Africa building affordable AI tools for local classrooms, with seed funding for the five strongest projects at the end](https://www.wearetech.africa/fr/fils/breves/breves-simple/injini-lance-un-programme-pour-soutenir-12-start-up-en-afrique-australe) | Movement |
 
@@ -209,25 +209,25 @@ The only regional innovation instrument to move is an [edtech accelerator for tw
 
 ### Training and skills
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | CRASA and LINK Centre memorandum on regulatory capacity | ***Baseline not held*** | [The regional regulators' association and a university research centre have signed a memorandum on regulatory capacity building, applied research and policy development across the region, covering professional development programmes, short courses, seminars, masterclasses, policy dialogues and research in the ICT, postal, audio-visual, digital media and digitally enabled sectors, and the identification of regulatory and skills gaps for member regulators](https://www.wits.ac.za/news/latest-news/research-news/2026/2026-09/crasa-and-link-centre-sign-mou-.html) | ***Baseline not held*** |
 
 ### Research institutions
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | Research and development spending against the regional target | No member state at the regional target of 1% of GDP (2024-08) | [No member state has reached the regional target of 1% of GDP, or the continental target of 1.5% (2026-08)](https://www.sadc.int/sites/default/files/2026-08/Remarks%20of%20the%20SADC%20Executive%20Secretary%20at%20the%20Council%20of%20Ministers%20meeting%20on%2012%20August%202026%20Durban%2C%20South%20Africa.pdf) | No change |
 
 ### Access to services
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | Adults financially included in SADC | 119 million, 77% of adults (2024-02), against 57% in 2011 | [No later figure held; the 2024 survey is still the newest](https://www.sadc.int/latest-news/sadc-adopts-technology-drive-financial-inclusion-initiatives-within-region) | No change |
 
 ### Digital divides
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | COMESA Regional Digital Inclusion Strategy | Did not exist | [Drafted by a consultant under the World Bank-supported IDEA programme, a regional situational analysis followed by the strategy and an action plan; the draft analysis, strategy and action plan were validated by fifteen member states at a workshop in Lusaka on 3-5 November 2026, hosted by Zambia, with no text published; finalisation and adoption are to follow. The consultancy's inception report was approved on 16 June 2026 under a contract of US$192,300](https://www.comesa.int/regional-digital-inclusion-strategy-and-action-plan-validated/) | Movement |
 
@@ -239,15 +239,13 @@ Two capacity measures are carried, and neither moved over the window. Financial 
 
 ### New investments
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-13 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-17 | Progress |
 |---|---|---|---|
 | Botswana Tech Fund | Did not exist | [First phase of GBP 5m against a GBP 50m target, backing pre-seed and growth companies across Southern Africa](https://botswanatech.com/blog/botswana-tech-fund-launches-with-%C2%A35m-phase-1) | Movement |
 | UK science and technology accelerator programme | ***Baseline not held*** | [A three-year programme of up to GBP2.5m out to expressions of interest, covering artificial intelligence and emerging technologies and digital access and inclusion alongside climate, energy, health and space, with a primary focus on South Africa and a first-year focus on Zimbabwe and Zambia](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme) | ***Baseline not held*** |
 
 <!-- narrative: finance -->
 The Botswana Tech Fund [announced its launch on 2026-04-21](https://botswanatech.com/blog/botswana-tech-fund-launches-with-%C2%A35m-phase-1) with a first phase of GBP 5m against a GBP 50m target and a mandate across Southern Africa; the figures are the fund's own, from its launch release.
-
-The region's headline inclusion figure did not move. The newest measurement the repository holds is [February 2024's](https://www.sadc.int/latest-news/sadc-adopts-technology-drive-financial-inclusion-initiatives-within-region) — 119 million adults, 77% of the regional total, against 57% in 2011. The period cannot say whether the payment rails that did move have changed it, and the repository holds no regional financing instrument or capacity programme of SADC's own.
 <!-- /narrative -->
 
 ## Where the record is thin
