@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: DZA
-ledger_rows: 42
+ledger_rows: 43
 not_held: 6
-record: 9ddb2d090d4a
+record: 4bb9030bc166
 ---
 
 # News, Oct – Nov 2026
@@ -22,6 +22,8 @@ record: 9ddb2d090d4a
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
@@ -719,6 +721,36 @@ Algeria has reached a preliminary agreement with Roblox on a programme to train 
 **[الجزائر في محادثات متقدمة مع البنك الدولي لتمويل الشركات الناشئة](https://asharqbusiness.com/financing-and-investment/155010/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D9%85%D8%B9-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%B4%D8%A6%D8%A9/)** — Asharq Bloomberg (الشرق بلومبرغ), 8 November 2026
 
 Summarised under [New investments](#new-investments).
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AfDB-financed studies for a digital vocational-training model and multi-centre pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Contract Awards - Study 1: Digital Transformation of Vocational Training in Algeria - Governance, Technical Frameworks, LMS Prototype and Cost Modelling - AHHD](https://www.afdb.org/en/documents/contract-awards-study-1-digital-transformation-98629)** — African Development Bank Group, 17 November 2026
+
+The African Development Bank posted contract awards on 17 November 2026 for two studies on digital vocational training in Algeria. The first covers governance, interoperability, cybersecurity and data-protection frameworks, an LMS prototype and cost modelling. The second covers hybrid skills modules and a multi-centre pilot. Awardees and amounts are not on the pages.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Contract Awards - Study 2: Development of Hybrid Transversal Skills Modules and Operational Preparation of a Multi-Centre Pilot in Algeria - AHHD](https://www.afdb.org/en/documents/contract-awards-study-2-development-hybrid-98630)** — African Development Bank Group, 17 November 2026
+
+The African Development Bank posted a contract award on 17 November 2026 for a study on hybrid transversal-skills modules for Algeria. The study also prepares the operational framework for a multi-centre digital vocational training pilot. It is the second of two studies, described with the first in the Algeria vocational training entry.
 
 </div>
 
