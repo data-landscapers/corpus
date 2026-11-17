@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: MUS
-ledger_rows: 40
+ledger_rows: 42
 not_held: 7
-record: 424b71c3194d
+record: a6b6e33e9cce
 ---
 
 # News, Oct – Nov 2026
@@ -233,6 +233,8 @@ Cloud Innovation rejected AFRINIC's demand, made through the receiver's notice o
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
@@ -247,6 +249,22 @@ Cloud Innovation rejected AFRINIC's demand, made through the receiver's notice o
 **[Portabilité mobile : Garder son numéro en changeant d'opérateur](https://lexpress.mu/s/garder-son-numero-en-changeant-doperateur-563369)** — L'Express (Maurice), 8 October 2026
 
 Mauritius' ICT Authority opened a call for applications for a new mobile number portability licence, announced at a three-day ICTA workshop in Balaclava reported on 8 October 2026. Chairman Tassarajen Pillay Chedumbrum said subscribers will be able to keep their number and SIM when changing operator. No launch date is given.
+
+</div>
+
+</div>
+
+### Data Storage
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mauritius Telecom AI compute (NVIDIA H200 and B300)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Veemal Gungadin, CEO de Mauritius Telecom : « L’IA, nouveau moteur de croissance pour MT »](https://www.lemauricien.com/le-mauricien/veemal-gungadin-ceo-de-mauritius-telecom-lia-nouveau-moteur-de-croissance-pour-mt/723262/)** — Le Mauricien, 15 November 2026
+
+Over Rs 1bn for AI compute incl. NVIDIA H200 and B300; My.TLearn tutor rollout from Grade 9 in 2027; 5G at 93%.
 
 </div>
 
@@ -591,8 +609,26 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">My.TLearn AI tutor for secondary pupils</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Veemal Gungadin, CEO de Mauritius Telecom : « L’IA, nouveau moteur de croissance pour MT »](https://www.lemauricien.com/le-mauricien/veemal-gungadin-ceo-de-mauritius-telecom-lia-nouveau-moteur-de-croissance-pour-mt/723262/)** — Le Mauricien, 15 November 2026
+
+Summarised under [Data Storage](#data-storage).
+
+</div>
+
+</div>
 
 ### Innovation ecosystem
 
