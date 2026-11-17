@@ -3,9 +3,9 @@ title: Kenya — News, Oct – Nov 2026
 compiled: 2026-11-17
 period: 2026-10-01 to 2026-11-17
 place: KEN
-ledger_rows: 105
+ledger_rows: 109
 not_held: 5
-record: d81fd3af984c
+record: d1444ab2fd65
 ---
 
 # News, Oct – Nov 2026
@@ -548,6 +548,20 @@ The Star reported on 6 November 2026 that Seacom's chief technology officer, Pre
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Savanna fibre-to-the-home network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Savanna Targets One Million New Fibre Connections in East Africa](https://nilepost.co.ug/businesses/388110/savanna-targets-one-million-new-fibre-connections-in-east-africa)** — Nile Post, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
+
+Savanna Telecom announced plans on 17 November 2026 for one million more fibre home passes across Uganda, Tanzania and Kenya in 2027. This would double its coverage to over two million homes. It reports over 250,000 active fibre-to-the-home subscribers, 16,000km of fibre built and 8,000km under construction. FiberHome is its equipment partner.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -986,6 +1000,34 @@ Interswitch East Africa has partnered with UBA Kenya, as reported on 16 November
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BitLipa stablecoin settlement network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Stablecoins promised to fix cross-border payments. Fragmentation is getting in the way.](https://techcabal.com/2026/11/17/fragmentation-hurts-stablecoins-africa/)** — TechCabal, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+TechCabal reported on 17 November 2026 that stablecoins can move dollar value across borders in seconds but do not guarantee a local-currency payout. A payment from Kenya to South Africa still needs counterparties willing to supply rand at the destination. Where that local liquidity is missing, the blockchain transfer succeeds and the recipient is not paid.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Payaza payment gateway authorisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Payaza secures digital payment licence from Central Bank of Kenya](https://www.wearetech.africa/fr/fils/breves/breves-simple/payaza-decroche-une-licence-de-paiement-numerique-aupres-de-la-banque-centrale-du-kenya)** — wearetech.africa, 17 November 2026
+
+Payaza, a payment-gateway fintech, obtained Central Bank of Kenya authorisation after nearly four years of applications, reported on 17 November 2026. The company runs cross-border transaction infrastructure linking East, West and Southern Africa.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -997,6 +1039,20 @@ Interswitch East Africa has partnered with UBA Kenya, as reported on 16 November
 **[How Kenya's digital birth registration system will work](https://nation.africa/kenya/news/how-kenya-s-digital-birth-registration-system-will-work--5663174)** — Daily Nation, 9 November 2026
 
 Immigration PS Belio Kipsang told Kenyan MPs that birth and death certificate fees will be waived by Gazette notice, the Daily Nation reported on 9 November 2026. Within 30 days, civil registration is to link to the hospital system. Every newborn would then get a Unique Personal Identifier. Electronic birth notification is piloted in Nairobi and Bomet and is due to reach over 7,500 public hospitals.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Marriage, divorce and adoption registration system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya moves to digitize marriage, divorce and adoption services](https://www.pulse.co.ke/story/kenya-moves-to-digitize-marriage-divorce-and-adoption-services-2026111718492406540)** — Pulse Kenya, 17 November 2026
+
+Kenya's ICT Authority issued an international tender on 17 November 2026. The system would cover marriage registration, divorce case records, licensing of ministers of faith and adoption services. It is to exchange data with eCitizen, IPRS, the Judiciary and the Registrar of Societies. The World Bank's KDEAP funds it. Bids close on 14 January 2027.
 
 </div>
 
