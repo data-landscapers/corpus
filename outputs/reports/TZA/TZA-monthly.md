@@ -3,9 +3,9 @@ title: Tanzania — News, Oct – Nov 2026
 compiled: 2026-11-17
 period: 2026-10-01 to 2026-11-17
 place: TZA
-ledger_rows: 51
+ledger_rows: 55
 not_held: 4
-record: 4ce1e96b545e
+record: 74f60dae179d
 ---
 
 # News, Oct – Nov 2026
@@ -186,6 +186,20 @@ Angola and Tanzania signed a memorandum of understanding on telecommunications a
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-services cooperation with Estonia</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania na Estonia kuimarisha ushirikiano katika teknolojia za kidijitali](https://www.mawasiliano.go.tz/news/tanzania-na-estonia-kuimarisha-ushirikiano-katika-teknolojia-za-kidijitali)** — Ministry of Communication and Information Technology, Tanzania, 17 November 2026
+
+Tanzania and Estonia agreed on 17 November 2026 to deepen cooperation on e-services and digital systems. Estonia accepted Tanzania's proposal for a specific joint project. Ministers Kairuki and Pakosta held the talks on the sidelines of the ITU Plenipotentiary Conference in Doha.
+
+</div>
+
+</div>
+
 ### New investments
 
 <div class="monthly-story" markdown="1">
@@ -286,6 +300,20 @@ Tanzania's communications minister, Angellah Kairuki, told the ITU Plenipotentia
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Savanna fibre-to-the-home network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Savanna Targets One Million New Fibre Connections in East Africa](https://nilepost.co.ug/businesses/388110/savanna-targets-one-million-new-fibre-connections-in-east-africa)** — Nile Post, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+
+Savanna Telecom announced plans on 17 November 2026 for one million more fibre home passes across Uganda, Tanzania and Kenya in 2027. This would double its coverage to over two million homes. It reports over 250,000 active fibre-to-the-home subscribers, 16,000km of fibre built and 8,000km under construction. FiberHome is its equipment partner.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -297,6 +325,20 @@ Tanzania's communications minister, Angellah Kairuki, told the ITU Plenipotentia
 **[SMZ yatenga Sh53 bilioni kuendesha miradi ya Tehama](https://www.mwananchi.co.tz/mw/zanzibar/habari/smz-yatenga-sh53-bilioni-kuendesha-miradi-ya-tehama-5618282)** — Mwananchi, 3 October 2026
 
 Zanzibar's government has set aside more than TZS 53 billion for three ICT infrastructure projects, chiefly a data centre and public internet, communication minister Mudrik Ramadhan Soraga said on 2 October 2026. He said a draft startups bill creating a fund of grants and low-cost loans is due for first reading in November or December 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government data centre at Kijitonyama, run by TTCL</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Serikali yaimarisha uwezo wa Kituo cha Taifa cha Kuhifadhi Data](https://www.mawasiliano.go.tz/news/serikali-yaimarisha-uwezo-wa-kituo-cha-taifa-cha-kuhifadhi-data)** — Ministry of Communication and Information Technology, Tanzania, 17 November 2026
+
+Tanzania's ICT minister told a parliamentary committee on 17 November 2026 about funding for the National Internet Data Centre. The government has allocated TSh 39 billion in 2026/27 to equip and expand it. TSh 10 billion is for a first phase. That phase adds 42 equipment racks and replaces equipment at the end of its life.
 
 </div>
 
@@ -717,6 +759,8 @@ Tanzania's Deputy Minister for Planning and Investment told Parliament about the
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
@@ -745,6 +789,22 @@ Tanzania's energy minister launched new customer service systems for the state p
 **[BoT instructs institutions to embrace AI and data analytics for operational efficiency - Daily News](https://dailynews.co.tz/bot-instructs-institutions-to-embrace-ai-and-data-analytics-for-operational-efficiency/)** — Daily News (Tanzania), 29 October 2026
 
 Bank of Tanzania Governor Emmanuel Tutuba said the bank has set up an AI and Data Innovation Hub (reported 29 October 2026). The bank has approved policies on AI adoption with safeguards for privacy and human oversight. It has signed cooperation agreements with five Tanzanian higher-learning and research institutions.
+
+</div>
+
+</div>
+
+### ICT Industry
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Listing requirement for telecoms companies on the Dar es Salaam Stock Exchange</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Serikali yaimarisha uwezo wa Kituo cha Taifa cha Kuhifadhi Data](https://www.mawasiliano.go.tz/news/serikali-yaimarisha-uwezo-wa-kituo-cha-taifa-cha-kuhifadhi-data)** — Ministry of Communication and Information Technology, Tanzania, 17 November 2026
+
+Summarised under [Data Storage](#data-storage).
 
 </div>
 

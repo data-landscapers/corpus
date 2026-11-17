@@ -1,12 +1,12 @@
 ---
 title: Tanzania: status report
-compiled: 2026-11-16
+compiled: 2026-11-17
 place: TZA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 12
-sources_cited: 297
+sources_cited: 298
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -136,7 +136,7 @@ In all, 295 digital-sector commitments to Tanzania are on record, worth about US
 
 In April 2026 Wingu Africa [launched a locally hosted private-cloud platform, offered as a compliant alternative to hosting offshore](https://dailynews.co.tz/wingu-africa-launches-wcx-in-tanzania/). [Its carrier-neutral facility in Dar es Salaam hosts the Tanzania Internet Exchange, holding domestic traffic inside the country](https://www.thecitizen.co.tz/tanzania/business/wingu-africa-now-targets-tanzania-as-region-s-digital-hub-5441614). [Raxio is building a carrier-neutral colocation data centre in Dar es Salaam](https://www.raxiogroup.com/data-centres/tanzania/). The country has no [in-country hyperscale cloud region](https://www.afribit.co.za/2025/03/27/google-expands-in-africa-how-gcps-new-cloud-region-competes-with-aws/), so hyperscale workloads are still served from outside it.
 
-[Moving personal data out of Tanzania requires a permit from the Personal Data Protection Commission](https://www.dlapiperdataprotection.com/?t=law&c=TZ) (2026). [The permit is granted only where the destination offers adequate protection or a safeguard is evidenced](https://www.dlapiperdataprotection.com/?t=law&c=TZ). The health ministry set [storage inside Tanzania as one of three conditions for artificial intelligence in healthcare on 31 July 2026](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-steps-up-ai-drive-in-healthcare-amid-data-privacy-push-5542208). The communications ministry says it is [establishing a National AI Data Centre so that the country is no longer a source shipping raw data abroad (July 2026)](https://www.mawasiliano.go.tz/news/tanzania-yaonesha-mafanikio-ya-utekelezaji-wa-akili-unde-ai-katika-mkutano-wa-kimataifa-wa-waico-2026). The parliamentary committee scrutinising the communications budget has [urged a large upgrade to the National Data Centre](https://www.mwananchi.co.tz/mw/habari/kitaifa/kairuki-aomba-222-5-bilioni-kamati-yaitaja-tcra-5442016). The national identity register's [core data centre and disaster-recovery site were built under the first phase of the ID expansion](https://dailynews.co.tz/nida-executes-national-id-system-expansion-project-ii/). [A second phase is now in procurement](https://dailynews.co.tz/nida-executes-national-id-system-expansion-project-ii/).
+[Moving personal data out of Tanzania requires a permit from the Personal Data Protection Commission](https://www.dlapiperdataprotection.com/?t=law&c=TZ) (2026). [The permit is granted only where the destination offers adequate protection or a safeguard is evidenced](https://www.dlapiperdataprotection.com/?t=law&c=TZ). The health ministry set [storage inside Tanzania as one of three conditions for artificial intelligence in healthcare on 31 July 2026](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-steps-up-ai-drive-in-healthcare-amid-data-privacy-push-5542208). The communications ministry says it is [establishing a National AI Data Centre so that the country is no longer a source shipping raw data abroad (July 2026)](https://www.mawasiliano.go.tz/news/tanzania-yaonesha-mafanikio-ya-utekelezaji-wa-akili-unde-ai-katika-mkutano-wa-kimataifa-wa-waico-2026). [In November 2026 the communications minister told the parliamentary infrastructure committee that TSh 39 billion was allocated in 2026/27 to equip and expand the National Data Centre, TSh 10 billion of it for a first phase adding 42 equipment racks](https://www.mawasiliano.go.tz/news/serikali-yaimarisha-uwezo-wa-kituo-cha-taifa-cha-kuhifadhi-data). The national identity register's [core data centre and disaster-recovery site were built under the first phase of the ID expansion](https://dailynews.co.tz/nida-executes-national-id-system-expansion-project-ii/). [A second phase is now in procurement](https://dailynews.co.tz/nida-executes-national-id-system-expansion-project-ii/).
 
 ### Energy
 <!-- infra.energy -->
