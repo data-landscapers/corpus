@@ -1,12 +1,12 @@
 ---
 title: Algeria: status report
-compiled: 2026-11-16
+compiled: 2026-11-17
 place: DZA
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 11
-sources_cited: 276
+sources_cited: 277
 sections_written: 39
 not_established: 2
 acquire_lines: 58
@@ -293,7 +293,7 @@ Registration reached [all 58 wilayas by May 2026](https://www.echoroukonline.com
 
 Training aimed at the state's own staff is narrower. Algeria has [a public sector digital skills strategy or programme, but not both, its content recorded as advanced data science and data literacy](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and the national school of administration [opened an electronic administration specialty with its 2024 intake of 120](https://www.jeune-independant.net/nouvelles-specialites-a-lena-une-rentree-axee-sur-la-transition-numerique/).
 
-The specialised pipelines are small and tied to named roles. The [national higher school of computer science, founded in 1969, graduates around 180 engineers a year](https://www.esi.dz/en/esi-presentation/) (2021). A [second cohort of information systems security officers was trained at Sidi Abdellah under the Ministry of National Defence's Information Systems Security Agency, framed as building the human capacity for digital sovereignty](https://www.elmoudjahid.dz/fr/actualite/cybersecurite-et-souverainete-numerique-les-rssi-en-premiere-ligne-253024) (June 2026). A [twelve-week national artificial-intelligence vocational training track launched in April 2026, alongside a first business incubator at the vocational training institute's digital-economy centre](https://techreviewafrica.com/news/5172/algeria-launches-artificial-intelligence-training-programme-to-enhance-digital-skills).
+The specialised pipelines are small and tied to named roles. The [national higher school of computer science, founded in 1969, graduates around 180 engineers a year](https://www.esi.dz/en/esi-presentation/) (2021). A [second cohort of information systems security officers was trained at Sidi Abdellah under the Ministry of National Defence's Information Systems Security Agency, framed as building the human capacity for digital sovereignty](https://www.elmoudjahid.dz/fr/actualite/cybersecurite-et-souverainete-numerique-les-rssi-en-premiere-ligne-253024) (June 2026). A [twelve-week national artificial-intelligence vocational training track launched in April 2026, alongside a first business incubator at the vocational training institute's digital-economy centre](https://techreviewafrica.com/news/5172/algeria-launches-artificial-intelligence-training-programme-to-enhance-digital-skills). [In November 2026 the African Development Bank posted contract awards for two studies to design a digital vocational-training model, with an LMS prototype and a multi-centre pilot](https://www.afdb.org/en/documents/contract-awards-study-1-digital-transformation-98629).
 
 The universities are next. The higher education minister [announced on 25 July 2026 that from the 2026-27 academic year every student's learning pathway will be steered by an intelligent assistant matching modules to their competences and career goals, alongside a large language model for lecturers that generates exercises and marks student answers](https://www.echoroukonline.com/إطلاق-المسار-التعليمي-الشخصي-للطالب-ب), and the [first technology and innovation centre for virtual-education systems](https://www.echoroukonline.com/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D9%83%D8%B2-%D9%84%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1) opened in June 2026. A [national AI doctoral school, with an access competition for 102 places across the three national higher schools of computer science, was proposed in October 2026](https://www.mesrs.dz/fr/2026/10/m-kamel-baddari-preside-la-cinquieme-reunion-multisectorielle-consacree-au-suivi-de-la-mise-en-oeuvre-de-la-strategie-nationale-de-lintelligence-artificielle-2/).
 
