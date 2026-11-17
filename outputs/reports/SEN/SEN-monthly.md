@@ -3,9 +3,9 @@ title: Senegal — News, Oct – Nov 2026
 compiled: 2026-11-17
 period: 2026-10-01 to 2026-11-17
 place: SEN
-ledger_rows: 53
+ledger_rows: 56
 not_held: 2
-record: 2155ea0ea1e2
+record: 537385a2d1a2
 ---
 
 # News, Oct – Nov 2026
@@ -308,6 +308,14 @@ At the opening of Senegal's 2026–2027 parliamentary session on 13 October 2026
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[PASSANT project: dismissals and audit at SENUM SA](https://www.socialnetlink.org/2026/11/16/passant-project-senum-sa-managers-dismissed-fibre/)** — Socialnetlink, 16 November 2026
+
+CFA 50bn Liteyca fibre contract never accepted; SENUM claims CFA 24bn loss; ARCOP audit found execution unsatisfactory.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -390,6 +398,20 @@ Senegal's digital and health ministries said on 4 November 2026 that they are jo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Diamniadio national data centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Where is Senegal’s data stored? A state data centre at 31% capacity, everyday apps hosted abroad and a 2008 privacy law](https://novotech.blog/en/article/where-is-senegal-s-data-stored-a-state-data-centre-at-31-capacity-everyday-apps)** — NovoTech, 16 November 2026
+
+Diamniadio at 31% use per SENUM; Wave and Orange Money hosting undisclosed; Law 25/2026 decrees unpublished.
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -409,6 +431,8 @@ Senegal's cybersecurity directorate, the DCSSI, put online a new institutional p
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
@@ -417,6 +441,22 @@ Senegal's cybersecurity directorate, the DCSSI, put online a new institutional p
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Digital Identity and CRVS
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Emergency plan to strengthen civil-status management</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[État civil : 77 % des 629 centres déjà équipés du logiciel de gestion, selon le directeur général de l’ANEC - APS](https://aps.sn/etat-civil-77-des-629-centres-deja-equipes-du-logiciel-de-gestion-selon-le-directeur-general-de-lanec/)** — Agence de Presse Sénégalaise (APS), 16 November 2026
+
+Consular rollout for the diaspora planned early 2027, not yet started; national consultations 5-12 December 2026.
+
+</div>
+
+</div>
 
 ### Digital Payments and Fintech
 
@@ -539,6 +579,20 @@ Senegal's Justice Minister, Moussa Sarr, agreed on 10 November 2026 to deploy AP
 **[Les instances de gouvernance de l’audit physique et biométrique des agents territoriaux installées - APS](https://aps.sn/les-instances-de-gouvernance-de-laudit-physique-et-biometrique-des-agents-territoriaux-installees/)** — Agence de presse sénégalaise (APS), 10 November 2026
 
 Senegal launched a physical and biometric audit of local-government staff on 10 November 2026, installing the bodies that will govern it, APS reported. The aim is a secure database of agents, interoperable with territorial HR information systems, with lists certified by local executives. Minister Moussa Balla Fofana cited a 2022 diagnostic counting 18,716 agents in 601 local authorities.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil-status software extension to consular posts</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[État civil : 77 % des 629 centres déjà équipés du logiciel de gestion, selon le directeur général de l’ANEC - APS](https://aps.sn/etat-civil-77-des-629-centres-deja-equipes-du-logiciel-de-gestion-selon-le-directeur-general-de-lanec/)** — Agence de Presse Sénégalaise (APS), 16 November 2026
+
+Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 </div>
 
