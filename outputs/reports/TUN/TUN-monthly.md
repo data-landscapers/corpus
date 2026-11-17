@@ -3,9 +3,9 @@ title: Tunisia — News, Oct – Nov 2026
 compiled: 2026-11-17
 period: 2026-10-01 to 2026-11-17
 place: TUN
-ledger_rows: 49
+ledger_rows: 51
 not_held: 4
-record: b722753509c7
+record: 453cde26442d
 ---
 
 # News, Oct – Nov 2026
@@ -265,6 +265,20 @@ SoleCrypt announced at NVIDIA GTC Europe in Berlin a planned 40 MW AI data-centr
 **[B3 : le ministère de l’Intérieur dévoile sa nouvelle stratégie](https://www.tuniscope.com/article/441753/actualites/societe/b3-le-ministere-de-l-interieur-devoile-sa-nouvelle-strategie-242211)** — Tuniscope, 6 October 2026
 
 Tunisia's interior ministry, answering a deputy's written question, said its plan for the criminal-record extract rests on digitising the record through interconnection with the justice ministry, to update judgments, and the finance ministry, to enter fines automatically. The aim is faster issue of the extract.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National electronic single window for foreign trade</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Foreign Trade: Ministry Simplifies Procedures Via Electronic Single Window - Tunisia Online News](https://www.tunisiaonlinenews.com/foreign-trade-ministry-simplifies-procedures-via-electronic-single-window/)** — Tunisia Online News, 17 November 2026
+
+Tunisia's trade ministry named a national electronic single window for import, export and transit as a priority under the WTO Trade Facilitation Agreement. It said this at the third meeting of the national monitoring commission, on about 16 November 2026. The ministry called for funding requests to international partners to finance the system.
 
 </div>
 
@@ -593,6 +607,20 @@ Summarised under [Domestic budget appropriations and expenditure](#domestic-budg
 **[بطاقة "لاباس".. متى ينطلق العمل بها؟](https://www.assabahnews.tn/ar/%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/%d9%88%d8%b7%d9%86%d9%8a%d8%a9/1121904-%d8%a8%d8%b7%d8%a7%d9%82%d8%a9-%d9%84%d8%a7%d8%a8%d8%a7%d8%b3-%d9%85%d8%aa%d9%89-%d9%8a%d9%86%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a8%d9%87%d8%a7%d8%9f/)** — Assabah News, 14 November 2026
 
 Tunisia's Minister of Social Affairs, Issam al-Ahmar, told a joint parliamentary session in November 2026 that preparation of the Labes electronic health card will be completed by mid-2027. It is the national health insurance fund's card. It has been distributed since 2019. It has not reached every member or replaced the paper card.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-Consulat consular system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tunisiens à l’étranger : les passeports bientôt accessibles via E-Consulat, voici ce qui va changer en 2027 - La Presse de Tunisie](https://www.lapresse.tn/2026/11/17/tunisiens-a-letranger-les-passeports-bientot-accessibles-via-e-consulat-voici-ce-qui-va-changer-en-2027/)** — La Presse de Tunisie, 17 November 2026
+
+Tunisia's foreign minister told parliament on 17 November 2026 that his ministry is digitising consular services for Tunisians abroad. Consulates issued 180,658 passports by the end of October 2026. The ministry is working to make more services available remotely, including the criminal record extract and military-service exemption documents. The statement came during the 2027 budget debate.
 
 </div>
 
