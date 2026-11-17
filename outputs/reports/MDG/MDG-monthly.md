@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: MDG
-ledger_rows: 30
+ledger_rows: 31
 not_held: 5
-record: 214a8bb505b1
+record: b706989e5da4
 ---
 
 # News, Oct – Nov 2026
@@ -419,6 +419,20 @@ Madagascar's port and maritime agency, APMF, launched the second phase of INTEGR
 **[TRANSFORMATION NUMÉRIQUE – Le ministère de l’Enseignement supérieur ambitionne de traiter 90% des courriers sur la nouvelle plateforme “e-Courrier”](https://www.2424.mg/transformation-numerique-le-ministere-de-lenseignement-superieur-ambitionne-de-traiter-90-des-courriers-sur-la-nouvelle-plateforme-e-courrier)** — 2424.mg, 14 November 2026
 
 Madagascar's Ministry of Higher Education and Scientific Research has put its e-Courrier platform into operation, 2424.mg reported on 14 November 2026. The platform files and tracks administrative mail, and the ministry aims to route about 90% of its mail through it. It is to be extended to the universities.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Transport ministry platform for reporting corruption and irregularities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MOBILITÉ URBAINE – Les citoyens invités à signaler les irrégularités dans le secteur des transports via une plateforme numérique](https://www.2424.mg/mobilite-urbaine-les-citoyens-invites-a-signaler-les-irregularites-dans-le-secteur-des-transports-via-une-plateforme-numerique)** — 2424.mg, 17 November 2026
+
+Madagascar's Ministry of Transport and Meteorology opened a free online platform, reported on 17 November 2026, for citizens to report corruption and irregularities in transport. Reports can be anonymous and carry photo or document evidence. They are tracked by code and routed to oversight bodies including the Cour des comptes and Bianco. The minister said it was built in-house at no cost to the state budget.
 
 </div>
 
