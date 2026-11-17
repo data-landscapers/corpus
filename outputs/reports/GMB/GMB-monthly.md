@@ -1,11 +1,11 @@
 ---
 title: Gambia — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: GMB
-ledger_rows: 17
+ledger_rows: 20
 not_held: 2
-record: fb44dd8bcc0d
+record: f7dfbc503bc3
 ---
 
 # News, Oct – Nov 2026
@@ -234,6 +234,8 @@ The Gambia's finance ministry and the Gambia Revenue Authority signed a 10-year 
 <a href="#ai">AI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-industry">ICT Industry</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -282,12 +284,30 @@ The World Bank Group announced on 13 November 2026 that its E-GATE e-commerce pr
 
 </div>
 
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UniPod, USET Kanifing campus</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gambia to Open University Innovation Hub to Turn Research Into Products](https://www.ecofinagency.com/news-services/1611-60858-gambia-to-open-university-innovation-hub-to-turn-research-into-products)** — Ecofin Agency, 16 November 2026
+
+UNDP-backed UniPod at USET opens 18 Nov 2026; first NRIF round GMD15m to 17 projects; R&D under 0.1% of GDP.
+
+</div>
+
+</div>
+
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
 <a href="#literacy">Literacy</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#training-and-skills">Training and skills</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#research-institutions">Research institutions</a>
 </nav>
 
 ### Literacy
@@ -306,6 +326,20 @@ Summarised under [New investments](#new-investments).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GICTA digital-engineering training for government ICT staff (WARDIP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GICTA, WARDIP Launch Digital Engineering Training for Government ICT Personnel - senigambia](https://senigambia.com/gicta-wardip-launch-digital-engineering-training-for-government-ict-personnel/)** — Senigambia, 16 November 2026
+
+Two-week AI and software-engineering course; in-house cabinet management system the target; World Bank-financed.
+
+</div>
+
+</div>
+
 ### Training and skills
 
 <div class="monthly-story" markdown="1">
@@ -317,6 +351,22 @@ Summarised under [New investments](#new-investments).
 **[Gov't launches D40M digital skills programme for 1,280 youths](https://thepoint.gm/africa/gambia/headlines/govt-launches-d40m-digital-skills-programme-for-1280-youths)** — The Point (The Gambia), 6 November 2026
 
 The Point reported on 6 November 2026 that The Gambia launched a D40 million digital skills programme under the World Bank-funded WARDIP. Contracts were signed with three training institutions to train 1,280 young people over three years. Courses include software development, cybersecurity and data analytics, and the programme includes three-month internships.
+
+</div>
+
+</div>
+
+### Research institutions
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Research and Innovation Fund (NRIF)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Gambia to Open University Innovation Hub to Turn Research Into Products](https://www.ecofinagency.com/news-services/1611-60858-gambia-to-open-university-innovation-hub-to-turn-research-into-products)** — Ecofin Agency, 16 November 2026
+
+Summarised under [Innovation ecosystem](#innovation-ecosystem).
 
 </div>
 
