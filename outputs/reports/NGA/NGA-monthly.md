@@ -3,9 +3,9 @@ title: Nigeria — News, Oct – Nov 2026
 compiled: 2026-11-17
 period: 2026-10-01 to 2026-11-17
 place: NGA
-ledger_rows: 125
+ledger_rows: 130
 not_held: 8
-record: bf7eea0ad4db
+record: 05aef252712c
 ---
 
 # News, Oct – Nov 2026
@@ -133,6 +133,20 @@ Nigeria's NITDA launched a public dashboard tracking its Strategic Roadmap and A
 **[NITDA Seeks Stakeholders Input to Review Digital Strategy](https://von.gov.ng/nitda-seeks-stakeholders-input-to-review-digital-strategy/)** — Voice of Nigeria, 11 November 2026
 
 Nigeria's NITDA opened a stakeholder review of its Strategic Roadmap and Action Plan 2.0 (2024–2026), Voice of Nigeria reported on 11 November 2026. The review, held at DNICE in Abuja, prepares a new strategy for 2027. SRAP 2.0 has eight pillars, 37 aggregate success indicators and about 78 initiatives.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National EdTech Strategy 2026-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria National EdTech Strategy (2026-2030)](https://education.gov.ng/wp-content/uploads/2026/11/Nigeria_National_EdTech_Strategy_FINAL_PRINT-V1.pdf)** — Federal Ministry of Education, Nigeria, 13 November 2026
+
+Ministry's final print; five pillars led by NEDI data interoperability, already deployed; 90-day action plan.
 
 </div>
 
@@ -467,6 +481,20 @@ PAPSS deputy chief executive John Sebabi said on 12 November 2026 that transacti
 **[Nigeria expects six-country African digital trade accord this month, minister says](https://www.cnbcafrica.com/2026/nigeria-expects-six-country-african-digital-trade-accord-this-month-minister-says)** — CNBC Africa (Reuters), 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
 Nigeria's trade minister, Jumoke Oduwole, told Reuters on 16 November 2026 that Nigeria expects to sign a digital-services accord this month. The other parties are Ghana, Rwanda, Kenya, South Africa and Egypt. It would ease expansion by digital-service firms across those markets. She gave no terms.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">West African subsea cable resilience protocol</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG pushes regional deal to prevent internet disruptions](https://punchng.com/fg-pushes-regional-deal-to-prevent-internet-disruptions/)** — The PUNCH, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Proposal at ITU PP-26 Doha; ITU Council re-election 2027-2030; Togo data park, Chad-Burkina-Benin links.
 
 </div>
 
@@ -1166,6 +1194,20 @@ NIMC's Identity Crime Enforcement Unit arrested suspected illegal NIN enrolment 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">V-Pass airport identity verification</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria sets December 31 deadline for airlines to adopt V-Pass biometric checks](https://www.biometricupdate.com/202611/nigeria-sets-december-31-deadline-for-airlines-to-adopt-v-pass-biometric-checks)** — Biometric Update, 17 November 2026
+
+Airline integration deadline 2026-12-31; no NIN, no boarding from 2027-01-01; Verxid-run PPP with FAAN.
+
+</div>
+
+</div>
+
 ### Digital Payments and Fintech
 
 <div class="monthly-story" markdown="1">
@@ -1487,6 +1529,14 @@ An analysis of Nigeria's preliminary voter register, which lists more than 103 m
 **[Suspected AI-generated photos, duplicates trigger Nigeria biometric election cleanup](https://www.biometricupdate.com/202611/suspected-ai-generated-photos-duplicate-records-trigger-nigeria-biometric-election-cleanup)** — Biometric Update, 10 November 2026
 
 Nigeria's electoral commission, INEC, said it had removed more than 1.6 million invalid voter records after screening with its automated biometric identification system. Biometric Update reported this on 10 November 2026. Of 268,000 records adjudicated, 217,722 were confirmed invalid. INEC also identified 54 staff in 10 states implicated in registration irregularities, including AI-generated photographs, ahead of certifying the final register on 15 December 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[INEC’s voter register cleanup raises questions about staff oversight](https://techcabal.com/2026/11/17/inec-cut-fake-photos-but-not-the-problem/)** — TechCabal, 17 November 2026
+
+54 registration staff in 10 states flagged (2026-11-11); webcam uploads replaced; AI policy still unpublished.
 
 </div>
 
@@ -1864,6 +1914,20 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ubini Edo-language corpus</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[From tonal markings to XML files: How Ubini is teaching machines to speak Edo language](https://techcabal.com/2026/11/17/ubini-teaching-machines-to-understand-edo/)** — TechCabal, 17 November 2026
+
+Bootstrapped Edo corpus since 2024; 20+ hours transcribed; targets 50 hours by Dec 2026 and 250 by 2029.
+
+</div>
+
+</div>
+
 ### ICT Industry
 
 <div class="monthly-story" markdown="1">
@@ -2195,6 +2259,20 @@ Nigeria's humanitarian affairs minister, Bernard Doro, handed ten Mobile One-Sto
 **[FG to Digitalise Primary, Secondary Schools Through NgREN by 2027](https://www.ngren.edu.ng/view.php?id=27)** — NgREN - Nigeria Research and Education Network, 15 October 2026
 
 Nigeria's federal government plans to extend internet connectivity to public primary and secondary schools through NgREN from 2027, starting with a pilot across the 36 states. The plan was announced at a stakeholders' meeting in Abuja on 13 October 2026. UBEC said it has connected about 2,000 of more than 200,000 schools. NCC and USPF are running a similar Starlink project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AGENDA-WINNIG women's digital entrepreneurship project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CITAD trains 51 women, girls in digital entrepreneurship in Bauchi](https://citadradio.com.ng/2026/11/16/citad-trains-51-women-girls-in-digital-entrepreneurship-in-bauchi/)** — CITAD Radio, 16 November 2026
+
+First batch toward 5,000 women in Kano and Bauchi; Gates Foundation via CARE SheConnects; 8-9 Nov 2026.
 
 </div>
 
