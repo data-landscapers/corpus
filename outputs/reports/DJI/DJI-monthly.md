@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: DJI
-ledger_rows: 14
+ledger_rows: 15
 not_held: 10
-record: a356b2a2f0a0
+record: 8f6e70c931b6
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: a356b2a2f0a0
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
@@ -285,6 +287,28 @@ Summarised under [National statistics](#national-statistics).
 **[Djibouti SOFF Investment Phase Funding Request (pipeline, version 6)](https://www.un-soff.org/wp-content/uploads/2026/10/2699-Djibouti-SOFF-IFR-V6-clean-version-25092026.pdf)** — Systematic Observations Financing Facility, 1 October 2026
 
 Djibouti's weather agency asks SOFF for US$2.01m for 2027 to 2031. Neither of its two required stations meets the global standard. The airport surface station is to be upgraded. A disused upper-air station is to be rebuilt.
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#gulfuae-activities">Gulf/UAE activities</a>
+</nav>
+
+### Gulf/UAE activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data-centre partnership with Qatar</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Développement des centres de données : ce que le Qatar peut apporter à Djibouti](https://www.agenceecofin.com/actualites-numerique/1711-143485-developpement-des-centres-de-donnees-ce-que-le-qatar-peut-apporter-a-djibouti)** — Agence Ecofin, 17 November 2026
+
+Djibouti's telecoms minister discussed a data-centre partnership with Qatar's ICT minister in Doha on 13 November 2026. No modalities were stated. The World Bank's September 2026 diagnostic found Djibouti's two main data centres close to full use.
 
 </div>
 
