@@ -1,12 +1,12 @@
 ---
 title: Cameroon: status report
-compiled: 2026-11-16
+compiled: 2026-11-17
 place: CMR
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 280
+sources_cited: 281
 sections_written: 39
 not_established: 1
 acquire_lines: 59
@@ -116,7 +116,7 @@ The largest single commitment is [China Eximbank's US$337.1 million (XAF 199 bil
 ### Connectivity
 <!-- infra.connect -->
 
-Cameroon went back to Beijing for its backbone in March 2026, [authorising a China Exim Bank loan of about 108 billion FCFA by decree of 6 March](https://leconomie.info/extension-du-reseau-de-fibre-optique-le-cameroun-sendette-a-hauteur-de-108-milliards-de-fcfa-aupres-de-la-chine/) to finance Phase IV of the national fibre-optic network. Phase IV [could add some 4,000 km](https://itweb.africa/article/cameroon-seeks-195-million-to-expand-optic-fibre-backbone/WnxpEv4Y28g7V8XL) to a Camtel backbone [put at over 15,000 km](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/) (July 2026). The state operator that owns that network barely exists in retail. [Camtel holds 2.67% of the mobile market against Orange's 50.08% and MTN's 47.2%](https://itweb.africa/article/camtel-launches-tender-for-23-million-sims/6GxRKqYQwWZqb3Wj) (March 2026).
+Cameroon went back to Beijing for its backbone in March 2026, [authorising a China Exim Bank loan of about 108 billion FCFA by decree of 6 March](https://leconomie.info/extension-du-reseau-de-fibre-optique-le-cameroun-sendette-a-hauteur-de-108-milliards-de-fcfa-aupres-de-la-chine/) to finance Phase IV of the national fibre-optic network. [Camtel announced on 16 November 2026 that Phase IV had been launched, to run three years at a cost of CFA148 billion including taxes](https://www.businessincameroon.com/telecom/1711-17202-camtel-unveils-cfa148-billion-fiber-network-project-with-funding-details-still-unclear), without saying how the rest beyond the loan is financed. Phase IV [could add some 4,000 km](https://itweb.africa/article/cameroon-seeks-195-million-to-expand-optic-fibre-backbone/WnxpEv4Y28g7V8XL) to a Camtel backbone [put at over 15,000 km](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/) (July 2026). The state operator that owns that network barely exists in retail. [Camtel holds 2.67% of the mobile market against Orange's 50.08% and MTN's 47.2%](https://itweb.africa/article/camtel-launches-tender-for-23-million-sims/6GxRKqYQwWZqb3Wj) (March 2026).
 
 [About 75% of the population lives under a 3G or better signal](https://datahub.itu.int/data/?e=CMR&i=100095&v=chart) (2023). [41.9% of people used the internet](https://tradingeconomics.com/cameroon/individuals-using-the-internet-percent-of-population-wb-data.html) (2023). Camtel [operated around 180,000 fibre ports and offered 4G in more than 160 municipalities](https://techafricanews.com/2025/09/02/cameroons-camtel-expands-fiber-network-and-fixed-telephony-services/) (September 2025). On the Ibrahim Index, [Internet & Computers rose 12.9 points over 2014-2023 to 33.4 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cm.pdf), the country's largest infrastructure gain and still 27th of 54. Over the same decade rated public satisfaction with infrastructure fell 22.0 points to 19.3.
 
