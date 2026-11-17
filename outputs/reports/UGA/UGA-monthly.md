@@ -3,9 +3,9 @@ title: Uganda — News, Oct – Nov 2026
 compiled: 2026-11-17
 period: 2026-10-01 to 2026-11-17
 place: UGA
-ledger_rows: 54
+ledger_rows: 55
 not_held: 11
-record: e5454a236005
+record: 95b132c9e5f0
 ---
 
 # News, Oct – Nov 2026
@@ -449,6 +449,20 @@ MTN Uganda reports profit after tax of Ush571.2 billion for the nine months to 3
 **[Our network extends into Uganda at Raxio’s Kampala data centre | Workonline](https://www.workonline.africa/2026/workonline-extends-into-uganda/)** — Workonline Communications, 12 November 2026
 
 Workonline Communications opened its first Ugandan point of presence at Raxio's UG1 data centre in Kampala, the company announced on 12 November 2026. Workonline sells 100GE IP transit under a new Ugandan licence, over two separate routes to Nairobi. UG1 hosts 25 carriers and ISPs and the Uganda Internet Exchange Point, where Workonline plans to peer.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Savanna fibre-to-the-home footprint and subscribers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Savanna Targets One Million New Fibre Connections in East Africa](https://nilepost.co.ug/businesses/388110/savanna-targets-one-million-new-fibre-connections-in-east-africa)** — Nile Post, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+
+Savanna Telecom announced plans on 17 November 2026 for one million more fibre home passes across Uganda, Tanzania and Kenya in 2027. This would double its coverage to over two million homes. It reports over 250,000 active fibre-to-the-home subscribers, 16,000km of fibre built and 8,000km under construction. FiberHome is its equipment partner.
 
 </div>
 
