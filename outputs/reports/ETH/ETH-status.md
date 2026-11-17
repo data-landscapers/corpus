@@ -1,12 +1,12 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-11-14
+compiled: 2026-11-17
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 259
+sources_cited: 260
 sections_written: 39
 not_established: 0
 acquire_lines: 67
@@ -299,7 +299,7 @@ On declared arrangements the country scores well, in [Tier 2, Advancing, of the 
 ### Innovation ecosystem
 <!-- tech.innovate -->
 
-[The Startup Proclamation 1396/2025 was gazetted on 2 September 2025](https://justice.gov.et/en/?jet_download=65740b7974a8996ae040f207888439c0b35d36a2). [It creates a startup designation, a digital startup portal, a designation committee, a grant programme, a credit-guarantee fund and a fund of funds](https://justice.gov.et/en/?jet_download=65740b7974a8996ae040f207888439c0b35d36a2). [Ethiopia ranked 134th in the 2025 Global Innovation Index, down from 130th in 2024](https://www.wipo.int/edocs/gii-ranking/2025/et.pdf).
+[The Startup Proclamation 1396/2025 was gazetted on 2 September 2025](https://justice.gov.et/en/?jet_download=65740b7974a8996ae040f207888439c0b35d36a2). [It creates a startup designation, a digital startup portal, a designation committee, a grant programme, a credit-guarantee fund and a fund of funds](https://justice.gov.et/en/?jet_download=65740b7974a8996ae040f207888439c0b35d36a2). [Ethiopia ranked 134th in the 2025 Global Innovation Index, down from 130th in 2024](https://www.wipo.int/edocs/gii-ranking/2025/et.pdf). [The National Bank's regulatory sandbox directive, FS/01/2026, entered into force on 17 November 2026, letting financial institutions test innovations under supervision for up to 12 months](https://www.nbe.gov.et/wp-content/uploads/2026/11/FS-01-2026-Regulatory-Sandbox-Directive.pdf).
 
 [The 2025 GovTech index records a public-sector innovation institution working on digital skills and service innovation](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [There is no public-sector innovation strategy or programme for it to work to](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
