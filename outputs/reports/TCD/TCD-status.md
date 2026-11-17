@@ -1,12 +1,12 @@
 ---
 title: Chad: status report
-compiled: 2026-11-14
+compiled: 2026-11-17
 place: TCD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 209
+sources_cited: 210
 sections_written: 39
 not_established: 0
 acquire_lines: 37
@@ -143,7 +143,7 @@ In June 2026 the government [rejected fuel supply as a justification for poor ne
 ### Technical Capacity
 <!-- infra.capacity -->
 
-[In 2025 Chad's biometric identity platform ran on technology supplied by the French vendor Idemia](https://www.biometricupdate.com/202505/chad-issues-biometric-ids-to-thousands-of-refugees-with-idemia-tech-unhcrs-help). [In 2023 the private technology base was embryonic, with very limited start-up activity and only two small tech hubs](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Chad-country-diagnostic.pdf). [Tertiary ICT teaching is confined to a few computer science programmes at the principal public university](https://www.universite-ndjamena.td/formation/departements/departement-dinformatique/). [A national higher school of ICT, created in 2015, graduated 121 students in its fifth cohort in December 2025](https://www.enastic.td/?p=12361).
+[In 2025 Chad's biometric identity platform ran on technology supplied by the French vendor Idemia](https://www.biometricupdate.com/202505/chad-issues-biometric-ids-to-thousands-of-refugees-with-idemia-tech-unhcrs-help). [In 2023 the private technology base was embryonic, with very limited start-up activity and only two small tech hubs](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Chad-country-diagnostic.pdf). [Tertiary ICT teaching is confined to a few computer science programmes at the principal public university](https://www.universite-ndjamena.td/formation/departements/departement-dinformatique/). [A national higher school of ICT, created in 2015, graduated 121 students in its fifth cohort in December 2025](https://www.enastic.td/?p=12361). [On 17 November 2026 the state mining company SONEMIC handed servers and security equipment to the education ministry and the national digital health programme, for platforms including E-Santé and Td-scolar that its engineers designed with the national ICT agency](https://tchadinfos.com/2026/11/17/education-et-sante-la-sonemic-offre-du-materiel-informatique/).
 
 [In 2025 there was no dedicated digital government institution and no machinery coordinating or auditing government technology across ministries](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [There was no digital skills programme for public servants](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [There was neither a civil service HR management information system nor a payroll system](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The effectiveness of the administration itself fell over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-td.pdf).
 
