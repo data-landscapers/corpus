@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: SWZ
-ledger_rows: 38
+ledger_rows: 41
 not_held: 3
-record: 0c9b9a7fde0c
+record: e61053e550d0
 ---
 
 # News, Oct – Nov 2026
@@ -33,6 +33,8 @@ record: 0c9b9a7fde0c
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
@@ -41,6 +43,22 @@ record: 0c9b9a7fde0c
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health Strategic Information Strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NEW HEALTH PLATFORM TO HELP GOVT ANTICIPATE MEDICINE STOCKOUTS - Eswatini Positive News](https://eswatinipositivenews.online/new-health-platform-to-help-govt-anticipate-medicine-stockouts/)** — Eswatini Positive News, 16 November 2026
+
+Strategy sets data-quality and interoperability rules; NHIP unifies clinical, supply-chain and community data.
+
+</div>
+
+</div>
 
 ### Legislation and regulation
 
@@ -424,6 +442,20 @@ Summarised under [Registries](#registries).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Social Registry (Imbeleko)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EYEOP Turns to Social Registry to Improve Targeting of 30,000 Youth Beneficiaries - FinGuard Magazine](https://www.finguardmagazine.com/business/eyeop-turns-to-social-registry-to-improve-targeting-of-30000-youth-beneficiaries/)** — FinGuard Magazine, 16 November 2026
+
+USD 2.5m of USD 27m IDA credit for registry and targeting; 11.67% disbursed; 4,000 youth to enrol in three months.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -501,6 +533,20 @@ Training of trainers began for the electronic medical record's inpatient module 
 **[The rollout of the CMIS Inpatient and Maternity Module continues to gain momentum!](https://www.linkedin.com/posts/hmis-eswatini_cmis-digitalhealth-ehealth-activity-7524018051923750913-Gq_z)** — HMIS Eswatini (Ministry of Health), 5 November 2026
 
 Nhlangano is the first end-user site for the inpatient and maternity module, with go-live set for 9 November 2026. Staff were given iPads. Connectivity was flagged as a concern.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Health Intelligence Platform (NHIP)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[NEW HEALTH PLATFORM TO HELP GOVT ANTICIPATE MEDICINE STOCKOUTS - Eswatini Positive News](https://eswatinipositivenews.online/new-health-platform-to-help-govt-anticipate-medicine-stockouts/)** — Eswatini Positive News, 16 November 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
