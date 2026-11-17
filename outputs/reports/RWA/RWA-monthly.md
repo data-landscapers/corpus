@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-17
 place: RWA
 ledger_rows: 38
 not_held: 7
-record: dbe204fef2fb
+record: 078be127bfbb
 ---
 
 # News, Oct – Nov 2026
@@ -310,6 +310,14 @@ Rwanda's identification agency suspended the photography exercise for the digita
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Digital ID registration resumes in all districts](https://www.newtimes.co.rw/article/40514/news/technology/digital-id-registration-resumes-in-all-districts)** — The New Times, 17 November 2026
+
+Rwanda's national identity agency NIDA resumed Single Digital ID registration in all districts on 17 November 2026, for people who missed the first exercise. Registration runs to 16 January 2027. It had been suspended on 7 October. Irembo staff assist with self-service verification at sector level, and NIDA photography is free.
+
+</div>
+
 </div>
 
 ### Digital Payments and Fintech
@@ -381,6 +389,14 @@ The National Bank of Rwanda's governor told the IMF-World Bank annual meetings t
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">eKash-Bakong remittance link with Cambodia</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Press Release on the Proof of Concept of Cross-Border Remittance Services between the Kingdom of Cambodia and the Republic of Rwanda](https://www.bnr.rw/documents/Joint_PR_Cross_border_payment_between_Cambodia_and_Rwanda.pdf)** — National Bank of Rwanda and National Bank of Cambodia, 15 November 2026
+
+Bakong-eKash link, Cambodia to Rwanda; ACLEDA correspondent, I&M Bank Rwanda settlement; Black Swan Summit launch.
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 
