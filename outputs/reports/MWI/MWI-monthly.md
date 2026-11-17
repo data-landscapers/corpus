@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: MWI
-ledger_rows: 31
+ledger_rows: 33
 not_held: 28
-record: e18ffb503db4
+record: 413904358ac3
 ---
 
 # News, Oct – Nov 2026
@@ -204,6 +204,20 @@ Paratus Group has launched in Malawi, its 16th market in sub-Saharan Africa, Tec
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SES and ITU Partner2Connect satellite school connectivity</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SES expands rural school connectivity](https://itweb.africa/article/ses-expands-rural-school-connectivity/WnpNgq21E5EMVrGd)** — ITWeb Africa, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+
+SES and the ITU's Partner2Connect coalition plan to connect 30 rural schools in Malawi, Burundi, Zambia and Zimbabwe by satellite by the end of 2026. The schools have an estimated 20,000 to 30,000 students and teachers. The schools form part of SES's pledge to connect 100 schools worldwide.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -343,6 +357,20 @@ The bureau of COMESA's central bank governors met in Lilongwe on 11 November 202
 **[Minister Chipungu reveals hackers targeted Malawi’s land database | Nyasa Times](https://www.nyasatimes.com/minister-chipungu-reveals-hackers-targeted-malawis-land-database/)** — Nyasa Times, 27 October 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Business and company registration system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Businesses face December 31 deadline - Malawi24](https://malawi24.com/2026/11/16/businesses-face-december-31-deadline/)** — Malawi24, 16 November 2026
+
+Pre-portal companies and trustees must re-register online by 31 Dec 2026 or lose recognition and face strike-off.
 
 </div>
 
