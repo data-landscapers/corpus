@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: ETH
-ledger_rows: 36
+ledger_rows: 37
 not_held: 5
-record: be73533f86b1
+record: 8b6fdca358a2
 ---
 
 # News, Oct – Nov 2026
@@ -538,6 +538,8 @@ Ethiopia's Agricultural Transformation Institute has enrolled nearly one million
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -565,6 +567,22 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 **[Country Profile on AI Governance: Ethiopia](https://www.aipolicy.africa/country-profiles/ethiopia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Ethiopia scored 2.12 out of 4 on the Africa AI Governance Index 2026, in the Developing tier and ranked 11 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (3.70) and its weakest is Innovation and Ecosystem (1.00).
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Bank regulatory sandbox directive (FS/01/2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Regulatory Sandbox — Directive No. FS/01/2026](https://www.nbe.gov.et/wp-content/uploads/2026/11/FS-01-2026-Regulatory-Sandbox-Directive.pdf)** — National Bank of Ethiopia, 1 November 2026
+
+In force 17 Nov 2026; admission, 12-month testing window, consumer and data-privacy safeguards, exit rules.
 
 </div>
 
