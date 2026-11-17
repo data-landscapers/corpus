@@ -11,7 +11,7 @@ last_reviewed: 2026-10-03
 
 ## This file is a driver, not a third runbook
 
-**`BUILD.md` and `RENDER.md` remain the procedures, unedited and unabridged.** This file names the order, the one seam between them and what changes there; everything else it delegates. The notes drain and the unit review are jobs whose *placement* this file fixes, and whose own rules stay where they live. An instruction here that is not about *ordering* is an instruction in the wrong file.
+**`BUILD.md` and `RENDER.md` remain the procedures, unedited and unabridged.** The notes drain and the unit review are jobs whose *placement* this file fixes, and whose own rules stay where they live. An instruction here that is not about *ordering* is an instruction in the wrong file.
 
 ## The notes drain runs first
 
@@ -31,7 +31,7 @@ last_reviewed: 2026-10-03
 - a record **changed** — stop.
 - a record **added** — ignored, and said out loud on the run that ignored it.
 
-A record arriving between the drain and stage 2 is built like any other. The sources that arrive after stage 2 are the next cycle's.
+A record arriving before stage 2 is built; later ones are the next cycle's.
 
 ## The unit review runs at the seam, on unattended cycles only
 
@@ -47,6 +47,7 @@ A record arriving between the drain and stage 2 is built like any other. The sou
 
 1. **Drain `corpus-notes.md`**, as above. Nothing open, nothing to do — go straight to 2.
 1a. **Run `python scripts/traffic.py pull`**, then commit the three `logs/site-analytics-*.csv` alone if they changed, subject `Analytics: <newest day>`. A failure is a log line, never a hold.
+1b. **Send dead links** if `python scripts/link-check.py owed` exits 1: `link-check.py batch`, commit its CSV (`Links: dead batch <date>`), then one `[ACT]` note asking what the script's docstring states.
 2. **Read the sentinel.** If `logs/.build-in-progress` is present, an earlier build died unaccounted. **In a cycle this is a note, not a stop**: the run about to start is the repair — stage 4 resumes on a set difference. Say in the build line that it resumed.
 3. **Run `BUILD.md`, whole, stage 0 to the end of its ending sequence** — including the ending sequence, which is what puts the tree into the state the seam reads.
 3a. **Finance upkeep** *(Bill, 2026-10-01; the share's `documentation/finance-upkeep.md` is the rule and is not restated here)*. `python scripts/budget-watch.py poll`, every live library. Then budget readings: `logs/budget-followups.md` and any reading a drained note asked for, oldest first, each by `BUDGET-EXTRACT.md`, **until two hours by the clock are used or nothing is waiting — never stopping early on judgement** *(Bill, 2026-10-02)*. Then judge any deal the finance build printed as `NOT YET ASSESSED` into `lookups/deal-scope.csv`. Rebuild finance if anything moved, commit, and put the number of readings still waiting in the build line.

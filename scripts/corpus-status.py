@@ -19,6 +19,8 @@ only; nothing of OSINT's beyond the mirror freshness lint already reads.
 - **new-queue**    items in the share's `new-queue/`, awaiting OSINT's ingest.
 - **budget**       follow-ups in `logs/budget-followups.md`; most wait on a document or a ruling.
 - **held-facts**   `held:` lines across `maturity/*/refused.csv`, facts that would move a stage.
+- **dead-links** catalogue links `link-check.py` has confirmed dead and not yet sent to OSINT.
+                   The cycle's step 1b sends them.
 - **prose**        narrative blocks failing the prose sheet on the newest night of `logs/prose.csv`,
                    every unit but the wiki (`lint-prose.py`, R133). The unit-review rotation clears them.
 - **commits**      uncommitted paths, Corpus plus share. A job commits what it changed. The share's
@@ -194,6 +196,13 @@ def prose() -> int:
     return sum(int(r["failing"]) for r in rows if r["date"] == last and r["unit"] != "wiki")
 
 
+def dead_links() -> int:
+    """`link-check.py owed`'s count; 0 before the first check or if the script fails."""
+    _, out = py("link-check.py", "owed")
+    m = re.search(r"owed: (\d+)", out)
+    return int(m.group(1)) if m else 0
+
+
 def tally() -> str:
     counts = [
         ("messages", messages()),
@@ -207,6 +216,7 @@ def tally() -> str:
         ("new-queue", entries("new-queue")),
         ("budget", len(FOLLOWUP.findall(read(os.path.join(ROOT, "logs", "budget-followups.md"))))),
         ("held-facts", held_facts()),
+        ("dead-links", dead_links()),
         ("prose", prose()),
         ("commits", git_count(ROOT, "status", "--porcelain") + git_count(SHARE, "status", "--porcelain", "--", ".", ":!new-queue")),
         ("unpushed", git_count(ROOT, "log", "--oneline", "@{u}..") + git_count(SHARE, "log", "--oneline", "@{u}..")),

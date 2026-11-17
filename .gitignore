@@ -158,3 +158,9 @@ logs/status.md
 # lint-prose.py --open records the commit a run opened on, for its closing gate to diff
 # against. A fact about the run in progress, not history.
 logs/.prose-open
+
+# link-check.py's working state: rewritten every poll tick all night, and losing it costs only a
+# re-check. The batches it sends OSINT (logs/link-dead/) are the record and are committed.
+logs/link-check.csv
+logs/link-check.csv.tmp
+logs/.link-check.lock

@@ -27,6 +27,10 @@ Every open note names in its `Affects:` line the artefact it bears on — usuall
 
 A note left open by a drain is a note still queued, which is where it started — which is why a note too large for the run, or one that fails, does not hold the cycle.
 
+## Why dead links go out with the drain
+
+The poll finds them; a note sent at the cycle's start is in OSINT's queue a night sooner than one sent at its end. The rules that keep an outage from reading as dead links are in `scripts/link-check.py`'s docstring, beside the code that applies them.
+
 ## Why a cycle ignores what OSINT sends after it has started
 
 OSINT works in its own session on its own drive and mirrors after every commit, so a daytime cycle runs beside a tree that is moving. It used to lose that race: `report-render.py` compared a count and a high-water mtime over `raw/` and stopped the run on *any* movement, so one record landing during the fifty minutes a cycle takes ended it — a record that could not have affected anything.

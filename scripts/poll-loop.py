@@ -12,7 +12,8 @@ opened only for work, in a new tab:
 - **a critical error** — `--claim` exit 2 — runs `/poll-alert critical` and stops the loop,
   the one thing that does.
 
-Each tick also runs `traffic.py pull`, which keeps Cloudflare's request log; it needs no turn.
+Each tick also runs `traffic.py pull`, which keeps Cloudflare's request log, and
+`link-check.py run`, a slice of the catalogue's source links; neither needs a turn.
 
 A cycle already running reads as exit 1 while its claim is younger than the trigger's
 `LIVE_HOURS`, so a tick beside it is a quiet one. What the alert prompt needs to quote goes
@@ -137,6 +138,11 @@ def tick() -> tuple[str, bool]:
     _, traffic = run("scripts/traffic.py", "pull", "--quiet")
     if traffic:
         note += f" · {traffic.splitlines()[-1]}"
+
+    # A slice of the catalogue's source links (link-check.py); no model turn, at most four minutes.
+    _, links = run("scripts/link-check.py", "run", "--quiet")
+    if links:
+        note += f" · {links.splitlines()[-1]}"
 
     code, out = run("scripts/osint-cycle-ready.py", "--claim")
     first = out.splitlines()[0] if out else ""
