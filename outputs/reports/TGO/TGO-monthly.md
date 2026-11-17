@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: TGO
 ledger_rows: 33
 not_held: 15
-record: f8cbc2839c39
+record: 561fc45a0a4a
 ---
 
 # News, Oct – Nov 2026
@@ -394,13 +394,21 @@ Togo's procurement regulator ARCOP is recruiting four consultants to set up a na
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">BioCQ CRT online proof-of-life for public-sector pensioners</p>
+<p class="monthly-story__name">BIOSECU-CRT online proof-of-life for public-sector pensioners</p>
 
 <div class="bulletin-item" markdown="1">
 
 **[CRT : les retraités, le contrôle de vie désormais possible en ligne depuis les téléphones | Levisionnaire](https://levisionnaire.tg/crt-les-retraites-le-controle-de-vie-desormais-possible-en-ligne-depuis-les-telephones/)** — Le Visionnaire (Togo), 12 November 2026
 
 Togo's public-sector pension fund, the Caisse de retraite du Togo, is moving the twice-yearly proof-of-life check for pensioners online. It uses its BioCQ CRT platform, with an ID upload and facial recognition by smartphone. Launch and a three-month enrolment phase are set for 16 November 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[BIOSECU CRT / Le contrôle de vie des retraités entre dans l'ère du numérique - Ministère des Finances et du Budget](https://finances.gouv.tg/biosecu-crt-le-controle-de-vie-des-retraites-entre-dans-lere-du-numerique/)** — Ministère des Finances et du Budget, Togo, 17 November 2026
+
+Togo's finance minister launched BIOSECU-CRT on 16 November 2026, an online facial-recognition check that pensioners are alive. It covers the Caisse de Retraites du Togo's 40,043 beneficiaries as at end-October 2026. It reuses the CNSS's BIOSECU system, built with the Togolese integrator LIKSOFT, and enrolment is open to 16 February 2027. The CRT and INAM are to merge into one social security institute.
 
 </div>
 
