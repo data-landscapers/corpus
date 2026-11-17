@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: RWA
-ledger_rows: 36
+ledger_rows: 38
 not_held: 7
-record: 9cf852d054bf
+record: 8f7dac1c4a50
 ---
 
 # News, Oct – Nov 2026
@@ -110,6 +110,20 @@ Rwanda Cooperation and Liberia's Ministry of Local Government signed a five-year
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Six-country digital trade accord</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria expects six-country African digital trade accord this month, minister says](https://www.cnbcafrica.com/2026/nigeria-expects-six-country-african-digital-trade-accord-this-month-minister-says)** — CNBC Africa (Reuters), 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Nigeria, Ghana, Rwanda, Kenya, South Africa, Egypt; signing expected at AfCFTA Council of Ministers in Zimbabwe.
+
+</div>
+
+</div>
+
 ### Standards
 
 <div class="monthly-story" markdown="1">
@@ -135,6 +149,20 @@ The Rwanda Standards Board lists the regional and international technical commit
 **[Rwanda National DPI Guidelines, Version 1.0]()** — Ministry of ICT and Innovation (MINICT) and Rwanda Information Society Authority (RISA), 1 November 2026
 
 Rwanda's ICT ministry and RISA published the National DPI Guidelines, Version 1.0, in November 2026. The RISA-owned guidelines set a DPI classification framework and the Rwanda Stack building blocks. They cover interoperability, registries, identity, consent and procurement, with a seven-step roadmap ending in mandated instruments.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Council seat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
 
 </div>
 

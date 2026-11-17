@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: TUN
-ledger_rows: 47
+ledger_rows: 49
 not_held: 4
-record: 300827c1ef98
+record: 3d72365824f2
 ---
 
 # News, Oct – Nov 2026
@@ -38,6 +38,8 @@ record: 300827c1ef98
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
@@ -141,6 +143,22 @@ Tunisia's communications ministry announced child-protection measures resting on
 **[Ministère de la Famille : 77,7 % d'utilisateurs d'Internet dès 10 ans](https://www.nessma.tv/fr/nationale/actu/ministere-de-la-famille-777-dutilisateurs-dinternet-des-10-ans/597664)** — Nessma / TAP, 5 November 2026
 
 Nessma and the TAP news agency reported on 5 November 2026 that Tunisia's family ministry has started drafting a bill to protect children online. The minister announced it at a national forum. Officials cited internet use of 77.7 per cent among people aged 10 and over. The ministry launched a national pact on children's online safety in November 2025.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Council seat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
 
 </div>
 
@@ -263,6 +281,20 @@ Tunisia's interior ministry, answering a deputy's written question, said its pla
 **[Avec 180 000 Identifiants uniques, le CHU de Sahloul leader national en transition numérique - La Presse de Tunisie](https://www.lapresse.tn/2026/10/07/avec-180-000-identifiants-uniques-le-chu-de-sahloul-leader-national-en-transition-numerique/)** — La Presse de Tunisie, 7 October 2026
 
 Tunisia's Sahloul university hospital in Sousse had unified 180,000 patient records under the unique health identifier by 6 October 2026, ranking it first among public hospitals in the roll-out, it said in a statement. A meeting chaired by its director general agreed a common method for handling outstanding technical cases.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National identity card (version 01001)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PRADO: Tunisia - National Identity Card (TUN-BO-01001)](https://www.consilium.europa.eu/prado/en/TUN-BO-01001/index.html)** — Council of the European Union, 16 November 2026
+
+CIN version 01001 first issued 2008, 86 x 54 mm, indefinite validity; UV overprint the only listed feature.
 
 </div>
 

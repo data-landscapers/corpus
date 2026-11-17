@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: GAB
-ledger_rows: 41
+ledger_rows: 42
 not_held: 11
-record: 1c8d774ca87e
+record: 9207af347880
 ---
 
 # News, Oct – Nov 2026
@@ -151,6 +151,20 @@ The African Union's Specialised Technical Committee on Communication and ICT ope
 **[Gabon and African Union Sign Host Country Agreement on Digital Cooperation](https://techafricanews.com/2026/10/27/gabon-african-union-host-country-agreement-digital-cooperation/)** — Tech Africa News, 27 October 2026
 
 Gabon and the African Union signed a host country agreement for the AU Specialised Technical Committee on Communication and ICT. Gabon's digital economy minister and the AU Commissioner signed it in Libreville at the opening of Digital Week. The signing date is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Candidacy for the International Telecommunication Union Council</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
 
 </div>
 

@@ -1,12 +1,12 @@
 ---
 title: Gabon: status report
-compiled: 2026-11-14
+compiled: 2026-11-17
 place: GAB
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 246
+sources_cited: 247
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -51,7 +51,7 @@ The [World Bank's GovTech Maturity Index 2025 update](https://www.worldbank.org/
 
 [Regional Integration scored 25.4 of 100 in 2023, 46th of 54 African states, despite rising 9.7 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ga.pdf). [ECCAS is Gabon's only regional economic community membership](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ga.pdf). [In October 2026 Gabon signed a host-country agreement with the African Union for its technical committee on communication and ICT](https://techafricanews.com/2026/10/27/gabon-african-union-host-country-agreement-digital-cooperation/). [The committee's sixth session opened in Libreville](https://techafricanews.com/2026/10/27/gabon-african-union-host-country-agreement-digital-cooperation/).
 
-The transitional cabinet [adopted a bill to ratify the African Union convention on cyber security and personal data protection on 17 October 2024](https://www.gabonreview.com/cybersecurite-10-ans-apres-le-gabon-va-ratifier-la-convention-de-malabo/), and the foreign minister [defended it before the transitional National Assembly on 17 December 2024](https://agpgabon.ga/gabon-le-ministre-des-affaires-etrangeres-defend-deux-lois-de-ratification-devant-les-deputes/). Gabon [signed the United Nations Convention against Cybercrime in September 2026](https://www.gabonreview.com/multilateralisme-le-gabon-renforce-son-engagement-contre-les-menaces-nucleaires-et-numeriques/) and has not yet ratified it. It [took part in Interpol's Serengeti 2.0 cybercrime operation alongside 17 other African countries between June and August 2025](https://www.gabonreview.com/cybercriminalite-le-gabon-renforce-sa-cooperation-avec-interpol-et-recupere-55-milliards-de-fcfa/). On 3 September 2026 the digital economy minister [presented Gabon's candidacy for the International Telecommunication Union Council at the WTPF-26 forum in Nassau](https://agpgabon.ga/gabon-numerique-le-pays-sa-candidature-au-conseil-de-lunion-internationale-des-telecommunications/). [The election takes place at the ITU Plenipotentiary Conference in Doha in November 2026](https://agpgabon.ga/gabon-numerique-le-pays-sa-candidature-au-conseil-de-lunion-internationale-des-telecommunications/).
+The transitional cabinet [adopted a bill to ratify the African Union convention on cyber security and personal data protection on 17 October 2024](https://www.gabonreview.com/cybersecurite-10-ans-apres-le-gabon-va-ratifier-la-convention-de-malabo/), and the foreign minister [defended it before the transitional National Assembly on 17 December 2024](https://agpgabon.ga/gabon-le-ministre-des-affaires-etrangeres-defend-deux-lois-de-ratification-devant-les-deputes/). Gabon [signed the United Nations Convention against Cybercrime in September 2026](https://www.gabonreview.com/multilateralisme-le-gabon-renforce-son-engagement-contre-les-menaces-nucleaires-et-numeriques/) and has not yet ratified it. It [took part in Interpol's Serengeti 2.0 cybercrime operation alongside 17 other African countries between June and August 2025](https://www.gabonreview.com/cybercriminalite-le-gabon-renforce-sa-cooperation-avec-interpol-et-recupere-55-milliards-de-fcfa/). On 3 September 2026 the digital economy minister [presented Gabon's candidacy for the International Telecommunication Union Council at the WTPF-26 forum in Nassau](https://agpgabon.ga/gabon-numerique-le-pays-sa-candidature-au-conseil-de-lunion-internationale-des-telecommunications/). [At the Plenipotentiary Conference in Doha on 16 November 2026, Gabon was not among the 13 African states elected to the Council for 2027-2030](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx).
 
 ### Standards
 <!-- gov.standards -->

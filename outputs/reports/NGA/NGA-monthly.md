@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: NGA
-ledger_rows: 120
+ledger_rows: 125
 not_held: 8
-record: fac019eb0449
+record: 886c53be1f24
 ---
 
 # News, Oct – Nov 2026
@@ -362,6 +362,20 @@ Nigeria's Data Protection Commission held its first practical audit training for
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electoral commission's compliance record under the Data Protection Act</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[2027: Experts accuse INEC of failing data transparency test](https://guardian.ng/politics/2027-experts-accuse-inec-of-failing-data-transparency-test/)** — The Guardian Nigeria, 16 November 2026
+
+DRLI roundtable: NDPC FOI reply says INEC compliant one year only; vendors, servers and data officers undisclosed.
+
+</div>
+
+</div>
+
 ### Regional collaboration
 
 <div class="monthly-story" markdown="1">
@@ -444,6 +458,20 @@ PAPSS deputy chief executive John Sebabi said on 12 November 2026 that transacti
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Six-country digital trade accord</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria expects six-country African digital trade accord this month, minister says](https://www.cnbcafrica.com/2026/nigeria-expects-six-country-african-digital-trade-accord-this-month-minister-says)** — CNBC Africa (Reuters), 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Nigeria, Ghana, Rwanda, Kenya, South Africa, Egypt; signing expected at AfCFTA Council of Ministers in Zimbabwe.
+
+</div>
+
+</div>
+
 ### Standards
 
 <div class="monthly-story" markdown="1">
@@ -499,6 +527,20 @@ Nigeria's Communications Commission urged buyers to check a phone on its Device 
 **[NITDA Moves to Boost Digital Public Services as MDAs Begin IPv6 Migration Training](https://techeconomy.ng/nitda-moves-to-boost-digital-public-services-as-mdas-begin-ipv6-migration-training)** — Techeconomy, 20 October 2026
 
 Nigeria's NITDA began its first IPv6 migration readiness training for federal ministries, departments and agencies, with AFRINIC and the Nigeria IPv6 Council, as reported on 20 October 2026. It runs in two streams, for management and for technical staff, and NITDA is funding certification for the technical staff. The move is tied to online public services and the National Sovereign Cloud Initiative.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Council seat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
 
 </div>
 
@@ -1342,6 +1384,20 @@ Redtech, a Nigerian payments company, plans a payments link between Nigeria and 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">cNGN naira stablecoin</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The cost of making stablecoins work in Nigeria](https://techcabal.com/2026/11/16/the-cost-of-making-stablecoins-work-in-nigeria/)** — TechCabal, 16 November 2026
+
+cNGN end-Oct 2026: NGN 4.41bn tokens, NGN 4.67bn reserves; 20% interest-free CBN deposit and yield ban favour banks.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -1991,6 +2047,20 @@ Nigeria opened applications on 11 November 2026 for about ₦4 billion of outcom
 **[FG recruits 50,000 young Nigerians for digital and creative skills training under iDICE](https://techcabal.com/2026/11/13/fg-recruits-50000-young-nigerians-for-digital-and-creative-skills-training-under-idice/)** — TechCabal, 13 November 2026
 
 Nigeria's federal government recruited 50,000 young people in seven North-West states between 1 September and 9 October 2026 for digital and creative skills training under the iDICE initiative. Training of 10 to 18 weeks starts on 16 November 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Teachers Digital Competency Framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[34m Learners, 700,000 Teachers Now on Nation’s Digital Education Database, Says FG](https://www.thisdaylive.com/2026/11/16/34m-learners-700000-teachers-now-on-nations-digital-education-database-says-fg/)** — ThisDay, 16 November 2026
+
+NEDI as education data backbone; EdTech Strategy pillars, teacher digital competency framework, phasing to 2030.
 
 </div>
 
