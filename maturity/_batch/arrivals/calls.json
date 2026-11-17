@@ -2,18 +2,8748 @@
  {
   "stories": [
    {
-    "key": "08f25f2c66",
-    "slug": "2026-11-01-bwa-gpsdd-ohuruogu-statistics-botswana-strategic-plan-data-diamond",
+    "key": "10d3b09d7b",
+    "slug": "2026-11-16-zaf-inforeg-must-not-be-ai-regulator-says-ex-member",
     "studies": {
-     "admindata": {
-      "BWA": 59
+     "accesstoinformationlaw": {
+      "ZAF": 88
      },
-     "statisticsstrategy": {
-      "BWA": 28
+     "aiabuse": {
+      "ZAF": 688
+     },
+     "aigovernment": {
+      "ZAF": 651
+     },
+     "ailaw": {
+      "ZAF": 98
+     },
+     "aisectoral": {
+      "ZAF": 656
+     },
+     "aistrategy": {
+      "ZAF": 206
+     },
+     "aisystems": {
+      "ZAF": 680
+     },
+     "dataprotectionauthority": {
+      "ZAF": 165
+     },
+     "dataprotectionlaw": {
+      "ZAF": 417
      }
     },
-    "path": "raw/2026/2026-11-01-bwa-gpsdd-ohuruogu-statistics-botswana-strategic-plan-data-diamond.md",
+    "path": "raw/2026/2026-11-16-zaf-inforeg-must-not-be-ai-regulator-says-ex-member.md",
+    "words": 893
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "b5f9307386",
+    "slug": "2024-02-28-apc-botswana-e-government-privacy-pitfalls",
+    "studies": {
+     "accesstoinformationlaw": {
+      "BWA": 29
+     },
+     "authentication": {
+      "BWA": 162
+     },
+     "birthidlink": {
+      "BWA": 158
+     },
+     "businesspayments": {
+      "BWA": 191
+     },
+     "centralbank": {
+      "BWA": 177
+     },
+     "civilserviceskills": {
+      "BWA": 107
+     },
+     "consumerprotection": {
+      "BWA": 196
+     },
+     "crossborderpayments": {
+      "BWA": 183
+     },
+     "dataprotectionlaw": {
+      "BWA": 132
+     },
+     "dataprotectionreadiness": {
+      "BWA": 40
+     },
+     "digitalstrategy": {
+      "BWA": 99
+     },
+     "egovservices": {
+      "BWA": 116
+     },
+     "g2ppayments": {
+      "BWA": 178
+     },
+     "gridreliability": {
+      "BWA": 39
+     },
+     "ictstrategy": {
+      "BWA": 52
+     },
+     "idcoverage": {
+      "BWA": 137
+     },
+     "idfrombirth": {
+      "BWA": 158
+     },
+     "idmaintenance": {
+      "BWA": 141
+     },
+     "idregisters": {
+      "BWA": 138
+     },
+     "idrobustness": {
+      "BWA": 164
+     },
+     "opendiscussion": {
+      "BWA": 38
+     },
+     "paymentsuptake": {
+      "BWA": 178
+     },
+     "policyresearch": {
+      "BWA": 79
+     },
+     "regionallaw": {
+      "BWA": 51
+     },
+     "retailpayments": {
+      "BWA": 177
+     },
+     "revenuecollection": {
+      "BWA": 191
+     },
+     "ruralelectrification": {
+      "BWA": 85
+     }
+    },
+    "path": "raw/2024/2024-02-28-apc-botswana-e-government-privacy-pitfalls.md",
+    "words": 2579
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "a11aeba8f6",
+    "slug": "2025-08-13-iss-ghana-digital-revolution-economic-growth",
+    "studies": {
+     "addressregister": {
+      "GHA": 85
+     },
+     "aiabuse": {
+      "GHA": 482
+     },
+     "aigovernment": {
+      "GHA": 473
+     },
+     "aisectoral": {
+      "GHA": 476
+     },
+     "aisystems": {
+      "GHA": 480
+     },
+     "authentication": {
+      "GHA": 476
+     },
+     "birthidlink": {
+      "GHA": 454
+     },
+     "businesspayments": {
+      "GHA": 633
+     },
+     "centralbank": {
+      "GHA": 627
+     },
+     "civilserviceskills": {
+      "GHA": 277
+     },
+     "consumerprotection": {
+      "GHA": 661
+     },
+     "crossborderpayments": {
+      "GHA": 632
+     },
+     "digitalskills": {
+      "GHA": 296
+     },
+     "electoralregister": {
+      "GHA": 43
+     },
+     "g2ppayments": {
+      "GHA": 637
+     },
+     "idcoverage": {
+      "GHA": 426
+     },
+     "idfrombirth": {
+      "GHA": 454
+     },
+     "idmaintenance": {
+      "GHA": 440
+     },
+     "idregisters": {
+      "GHA": 431
+     },
+     "idrobustness": {
+      "GHA": 482
+     },
+     "paymentsuptake": {
+      "GHA": 627
+     },
+     "policyresearch": {
+      "GHA": 245
+     },
+     "retailpayments": {
+      "GHA": 625
+     },
+     "revenuecollection": {
+      "GHA": 642
+     },
+     "startups": {
+      "GHA": 303
+     },
+     "techhubs": {
+      "GHA": 297
+     }
+    },
+    "path": "raw/2025/2025-08-13-iss-ghana-digital-revolution-economic-growth.md",
+    "words": 1211
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "339b5eb051",
+    "slug": "2025-11-26-ecofin-benin-digital-minister-beyond-siloed-approaches",
+    "studies": {
+     "addressregister": {
+      "BEN": 89,
+      "SLE": 28
+     },
+     "aiabuse": {
+      "BEN": 241,
+      "SLE": 144
+     },
+     "aigovernment": {
+      "BEN": 244,
+      "SLE": 141
+     },
+     "aisectoral": {
+      "BEN": 240,
+      "SLE": 140
+     },
+     "aisystems": {
+      "BEN": 240,
+      "SLE": 141
+     },
+     "authentication": {
+      "BEN": 287,
+      "SLE": 234
+     },
+     "birthidlink": {
+      "BEN": 296,
+      "SLE": 258
+     },
+     "digitalstrategy": {
+      "BEN": 108,
+      "SLE": 114
+     },
+     "idcoverage": {
+      "BEN": 263,
+      "SLE": 216
+     },
+     "idfrombirth": {
+      "BEN": 296,
+      "SLE": 258
+     },
+     "idmaintenance": {
+      "BEN": 265,
+      "SLE": 228
+     },
+     "idregisters": {
+      "BEN": 257,
+      "SLE": 219
+     },
+     "idrobustness": {
+      "BEN": 295,
+      "SLE": 235
+     },
+     "internetusage": {
+      "BEN": 92,
+      "SLE": 72
+     },
+     "regionalpolicy": {
+      "BEN": 150,
+      "SLE": 107
+     }
+    },
+    "path": "raw/2025/2025-11-26-ecofin-benin-digital-minister-beyond-siloed-approaches.md",
+    "words": 1908
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "f19b6038dc",
+    "slug": "2025-01-08-cybersecuritymag-rnpp-benin-securite-donnees-personnelles",
+    "studies": {
+     "addressregister": {
+      "BEN": 88
+     },
+     "authentication": {
+      "BEN": 288
+     },
+     "birthidlink": {
+      "BEN": 297
+     },
+     "businessregister": {
+      "BEN": 117
+     },
+     "civilregister": {
+      "BEN": 165
+     },
+     "dataprotectionauthority": {
+      "BEN": 113
+     },
+     "dataprotectionlaw": {
+      "BEN": 251
+     },
+     "digitalidlaw": {
+      "BEN": 98
+     },
+     "egovservices": {
+      "BEN": 170
+     },
+     "electoralregister": {
+      "BEN": 92
+     },
+     "idcoverage": {
+      "BEN": 264
+     },
+     "idfrombirth": {
+      "BEN": 297
+     },
+     "idmaintenance": {
+      "BEN": 266
+     },
+     "idregisters": {
+      "BEN": 258
+     },
+     "idrobustness": {
+      "BEN": 296
+     },
+     "landregister": {
+      "BEN": 110
+     },
+     "offsitebackup": {
+      "BEN": 38
+     },
+     "police": {
+      "BEN": 108
+     },
+     "populationregister": {
+      "BEN": 99
+     },
+     "schoolinternet": {
+      "BEN": 200
+     },
+     "socialregistry": {
+      "BEN": 88
+     },
+     "taxregister": {
+      "BEN": 96
+     }
+    },
+    "path": "raw/2025/2025-01-08-cybersecuritymag-rnpp-benin-securite-donnees-personnelles.md",
+    "words": 920
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "22d83eed99",
+    "slug": "2026-11-15-ken-techtrendske-high-court-odpc-compensation-powers-andayi",
+    "studies": {
+     "admindata": {
+      "KEN": 69
+     },
+     "aiabuse": {
+      "KEN": 720
+     },
+     "aigovernment": {
+      "KEN": 675
+     },
+     "aisectoral": {
+      "KEN": 688
+     },
+     "aisystems": {
+      "KEN": 696
+     },
+     "dataprotectionauthority": {
+      "KEN": 196
+     },
+     "dataprotectionlaw": {
+      "KEN": 530
+     }
+    },
+    "path": "raw/2026/2026-11-15-ken-techtrendske-high-court-odpc-compensation-powers-andayi.md",
+    "words": 1869
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "8ec6f5fd50",
+    "slug": "2026-04-01-ssd-knowledge-management-series-for-health-world-health-day-2026-science-f",
+    "studies": {
+     "admindata": {
+      "SSD": 52
+     },
+     "health": {
+      "SSD": 76
+     },
+     "healthmis": {
+      "SSD": 53
+     }
+    },
+    "path": "raw/2026/2026-04-01-ssd-knowledge-management-series-for-health-world-health-day-2026-science-f.md",
+    "words": 2282
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "003e6e5022",
+    "slug": "2026-11-15-ken-nation-high-court-six-months-ai-policy-framework",
+    "studies": {
+     "aiabuse": {
+      "KEN": 718
+     },
+     "aigovernment": {
+      "KEN": 673
+     },
+     "ailaw": {
+      "KEN": 150
+     },
+     "aisectoral": {
+      "KEN": 686
+     },
+     "aistrategy": {
+      "KEN": 242
+     },
+     "aisystems": {
+      "KEN": 694
+     }
+    },
+    "path": "raw/2026/2026-11-15-ken-nation-high-court-six-months-ai-policy-framework.md",
+    "words": 248
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "12996fab6b",
+    "slug": "2026-11-14-cog-itu-pp26-policy-statement-congo",
+    "studies": {
+     "aiabuse": {
+      "COG": 126
+     },
+     "aigovernment": {
+      "COG": 124
+     },
+     "ailaw": {
+      "COG": 26
+     },
+     "aisectoral": {
+      "COG": 126
+     },
+     "aistrategy": {
+      "COG": 40
+     },
+     "aisystems": {
+      "COG": 126
+     },
+     "businesspayments": {
+      "COG": 199
+     },
+     "centralbank": {
+      "COG": 195
+     },
+     "consumerprotection": {
+      "COG": 204
+     },
+     "crossborderpayments": {
+      "COG": 193
+     },
+     "cybersecurity": {
+      "COG": 78
+     },
+     "datacentres": {
+      "COG": 122
+     },
+     "egovservices": {
+      "COG": 94
+     },
+     "g2ppayments": {
+      "COG": 205
+     },
+     "internetusage": {
+      "COG": 70
+     },
+     "nationaldatacentres": {
+      "COG": 122
+     },
+     "paymentsuptake": {
+      "COG": 192
+     },
+     "retailpayments": {
+      "COG": 191
+     },
+     "revenuecollection": {
+      "COG": 214
+     },
+     "startups": {
+      "COG": 108
+     },
+     "techhubs": {
+      "COG": 111
+     }
+    },
+    "path": "raw/2026/2026-11-14-cog-itu-pp26-policy-statement-congo.md",
+    "words": 697
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "9028e23c1b",
+    "slug": "2026-11-15-mwi-mana-namalomba-ictam-agm-tech-exports",
+    "studies": {
+     "aiabuse": {
+      "MWI": 173
+     },
+     "aigovernment": {
+      "MWI": 162
+     },
+     "aisectoral": {
+      "MWI": 165
+     },
+     "aistrategy": {
+      "MWI": 59
+     },
+     "aisystems": {
+      "MWI": 164
+     },
+     "businesspayments": {
+      "MWI": 314
+     },
+     "centralbank": {
+      "MWI": 291
+     },
+     "consumerprotection": {
+      "MWI": 319
+     },
+     "crossborderpayments": {
+      "MWI": 295
+     },
+     "g2ppayments": {
+      "MWI": 299
+     },
+     "paymentsuptake": {
+      "MWI": 294
+     },
+     "retailpayments": {
+      "MWI": 293
+     },
+     "revenuecollection": {
+      "MWI": 307
+     }
+    },
+    "path": "raw/2026/2026-11-15-mwi-mana-namalomba-ictam-agm-tech-exports.md",
+    "words": 559
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "a61c6130dc",
+    "slug": "2026-11-13-civ-mtnit-presentation-projet-budget-2027-caef",
+    "studies": {
+     "aiabuse": {
+      "CIV": 337
+     },
+     "aigovernment": {
+      "CIV": 333
+     },
+     "aisectoral": {
+      "CIV": 339
+     },
+     "aistrategy": {
+      "CIV": 110
+     },
+     "aisystems": {
+      "CIV": 340
+     },
+     "civilserviceskills": {
+      "CIV": 220
+     },
+     "cybersecurity": {
+      "CIV": 132
+     },
+     "digitaldivides": {
+      "CIV": 188
+     },
+     "digitalskills": {
+      "CIV": 171
+     },
+     "domesticfinancing": {
+      "CIV": 110
+     },
+     "schoolinternet": {
+      "CIV": 266
+     },
+     "startups": {
+      "CIV": 239
+     },
+     "techhubs": {
+      "CIV": 251
+     }
+    },
+    "path": "raw/2026/2026-11-13-civ-mtnit-presentation-projet-budget-2027-caef.md",
+    "words": 2319
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "7dce115060",
+    "slug": "2026-11-16-ben-wearetech-ia-chine-snaeia-competences-jeunesse",
+    "studies": {
+     "aiabuse": {
+      "BEN": 240
+     },
+     "aigovernment": {
+      "BEN": 242
+     },
+     "aisectoral": {
+      "BEN": 239
+     },
+     "aistrategy": {
+      "BEN": 85
+     },
+     "aisystems": {
+      "BEN": 239
+     },
+     "civilserviceskills": {
+      "BEN": 167
+     },
+     "digitalskills": {
+      "BEN": 127
+     },
+     "stemgraduates": {
+      "BEN": 35
+     }
+    },
+    "path": "raw/2026/2026-11-16-ben-wearetech-ia-chine-snaeia-competences-jeunesse.md",
+    "words": 670
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "f1fa6a1a7a",
+    "slug": "2026-11-14-mar-morocco-is-building-an-ai-future-i-am-already-living-inside-one",
+    "studies": {
+     "aiabuse": {
+      "MAR": 341
+     },
+     "aigovernment": {
+      "MAR": 339
+     },
+     "aisectoral": {
+      "MAR": 336
+     },
+     "aistrategy": {
+      "MAR": 83
+     },
+     "aisystems": {
+      "MAR": 351
+     },
+     "consumerprotection": {
+      "MAR": 269
+     },
+     "datacentres": {
+      "MAR": 220
+     },
+     "disabilityaccess": {
+      "MAR": 75
+     },
+     "nationaldatacentres": {
+      "MAR": 231
+     },
+     "startups": {
+      "MAR": 215
+     },
+     "techhubs": {
+      "MAR": 218
+     }
+    },
+    "path": "raw/2026/2026-11-14-mar-morocco-is-building-an-ai-future-i-am-already-living-inside-one.md",
+    "words": 1096
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "b519e67886",
+    "slug": "2026-11-16-ramaphosa-sets-90-day-deadline-for-ai-rollout-plan",
+    "studies": {
+     "aiabuse": {
+      "ZAF": 686
+     },
+     "aigovernment": {
+      "ZAF": 649
+     },
+     "aisectoral": {
+      "ZAF": 654
+     },
+     "aistrategy": {
+      "ZAF": 205
+     },
+     "aisystems": {
+      "ZAF": 678
+     },
+     "datacentres": {
+      "ZAF": 515
+     },
+     "digitalsovereignty": {
+      "ZAF": 232
+     },
+     "nationaldatacentres": {
+      "ZAF": 518
+     },
+     "startups": {
+      "ZAF": 398
+     },
+     "techhubs": {
+      "ZAF": 404
+     }
+    },
+    "path": "raw/2026/2026-11-16-ramaphosa-sets-90-day-deadline-for-ai-rollout-plan.md",
+    "words": 847
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "50e028bc50",
+    "slug": "2026-11-16-cipesa-responsible-ai-use-civil-society",
+    "studies": {
+     "aiabuse": {
+      "MUS": 264
+     },
+     "aigovernment": {
+      "MUS": 259
+     },
+     "aisectoral": {
+      "MUS": 255
+     },
+     "aistrategy": {
+      "MUS": 97
+     },
+     "aisystems": {
+      "MUS": 256
+     },
+     "dataprotectionlaw": {
+      "MUS": 228
+     },
+     "ictstrategy": {
+      "MUS": 44
+     },
+     "policyresearch": {
+      "MUS": 109
+     },
+     "publicconsultation": {
+      "MUS": 146
+     }
+    },
+    "path": "raw/2026/2026-11-16-cipesa-responsible-ai-use-civil-society.md",
+    "words": 1392
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "b1ec995311",
+    "slug": "2026-11-16-tra-cotedivoire-aisca-ai-cooperation",
+    "studies": {
+     "aiabuse": {
+      "CIV": 335
+     },
+     "aigovernment": {
+      "CIV": 331
+     },
+     "aisectoral": {
+      "CIV": 337
+     },
+     "aistrategy": {
+      "CIV": 109
+     },
+     "aisystems": {
+      "CIV": 338
+     },
+     "digitalstrategy": {
+      "CIV": 142
+     }
+    },
+    "path": "raw/2026/2026-11-16-tra-cotedivoire-aisca-ai-cooperation.md",
+    "words": 378
+   },
+   {
+    "key": "3cc3ab267c",
+    "slug": "2026-11-16-empowering-change-through-ai-competences-digcomp-utaut-egypt",
+    "studies": {
+     "aiabuse": {
+      "EGY": 416
+     },
+     "aigovernment": {
+      "EGY": 407
+     },
+     "aisectoral": {
+      "EGY": 423
+     },
+     "aisystems": {
+      "EGY": 426
+     }
+    },
+    "path": "raw/2026/2026-11-16-empowering-change-through-ai-competences-digcomp-utaut-egypt.md",
+    "words": 388
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "a9cfe68210",
+    "slug": "2026-11-16-hespress-ar-ai-ministry-sovereign-platform",
+    "studies": {
+     "aiabuse": {
+      "MAR": 338
+     },
+     "aigovernment": {
+      "MAR": 336
+     },
+     "aisectoral": {
+      "MAR": 333
+     },
+     "aisystems": {
+      "MAR": 348
+     },
+     "authentication": {
+      "MAR": 253
+     },
+     "birthidlink": {
+      "MAR": 250
+     },
+     "cloudstrategy": {
+      "MAR": 43
+     },
+     "datacentres": {
+      "MAR": 217
+     },
+     "domesticfinancing": {
+      "MAR": 42
+     },
+     "idcoverage": {
+      "MAR": 217
+     },
+     "idfrombirth": {
+      "MAR": 250
+     },
+     "idmaintenance": {
+      "MAR": 216
+     },
+     "idregisters": {
+      "MAR": 209
+     },
+     "idrobustness": {
+      "MAR": 238
+     },
+     "interoperabilitylaw": {
+      "MAR": 71
+     },
+     "localgov": {
+      "MAR": 180
+     },
+     "nationaldatacentres": {
+      "MAR": 228
+     }
+    },
+    "path": "raw/2026/2026-11-16-hespress-ar-ai-ministry-sovereign-platform.md",
+    "words": 807
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "9ab437b167",
+    "slug": "2026-11-16-ken-techafricanews-eu-kenya-digital-dialogue-data-adequacy",
+    "studies": {
+     "aiabuse": {
+      "KEN": 719
+     },
+     "aigovernment": {
+      "KEN": 674
+     },
+     "aisectoral": {
+      "KEN": 687
+     },
+     "aisystems": {
+      "KEN": 695
+     },
+     "authentication": {
+      "KEN": 597
+     },
+     "birthidlink": {
+      "KEN": 567
+     },
+     "datatransfers": {
+      "KEN": 77
+     },
+     "idcoverage": {
+      "KEN": 520
+     },
+     "idfrombirth": {
+      "KEN": 567
+     },
+     "idmaintenance": {
+      "KEN": 545
+     },
+     "idregisters": {
+      "KEN": 530
+     },
+     "idrobustness": {
+      "KEN": 604
+     }
+    },
+    "path": "raw/2026/2026-11-16-ken-techafricanews-eu-kenya-digital-dialogue-data-adequacy.md",
+    "words": 477
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "1bb2df4d42",
+    "slug": "2026-11-16-civ-wearetech-faba-finance-credit-platform-ghost-score",
+    "studies": {
+     "aiabuse": {
+      "CIV": 334,
+      "SEN": 363
+     },
+     "aigovernment": {
+      "CIV": 330,
+      "SEN": 355
+     },
+     "aisectoral": {
+      "CIV": 336,
+      "SEN": 356
+     },
+     "aisystems": {
+      "CIV": 337,
+      "SEN": 362
+     },
+     "authentication": {
+      "CIV": 298,
+      "SEN": 324
+     },
+     "businesspayments": {
+      "CIV": 386,
+      "SEN": 453
+     },
+     "centralbank": {
+      "CIV": 383,
+      "SEN": 438
+     },
+     "consumerprotection": {
+      "CIV": 407,
+      "SEN": 453
+     },
+     "crossborderpayments": {
+      "CIV": 385,
+      "SEN": 440
+     },
+     "ecommercelaw": {
+      "CIV": 83,
+      "SEN": 72
+     },
+     "g2ppayments": {
+      "CIV": 393,
+      "SEN": 453
+     },
+     "paymentsuptake": {
+      "CIV": 383,
+      "SEN": 437
+     },
+     "retailpayments": {
+      "CIV": 381,
+      "SEN": 438
+     },
+     "revenuecollection": {
+      "CIV": 393,
+      "SEN": 454
+     },
+     "startups": {
+      "CIV": 237,
+      "SEN": 253
+     },
+     "techhubs": {
+      "CIV": 250,
+      "SEN": 273
+     }
+    },
+    "path": "raw/2026/2026-11-16-civ-wearetech-faba-finance-credit-platform-ghost-score.md",
+    "words": 762
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "a2deae4579",
+    "slug": "2026-11-15-nam-namibian-bon-fsr-payment-fraud-h1-2026",
+    "studies": {
+     "aiabuse": {
+      "NAM": 201
+     },
+     "aigovernment": {
+      "NAM": 188
+     },
+     "aisectoral": {
+      "NAM": 190
+     },
+     "aisystems": {
+      "NAM": 193
+     },
+     "authentication": {
+      "NAM": 210
+     },
+     "businesspayments": {
+      "NAM": 175
+     },
+     "centralbank": {
+      "NAM": 166
+     },
+     "consumerprotection": {
+      "NAM": 188
+     },
+     "crossborderpayments": {
+      "NAM": 171
+     },
+     "g2ppayments": {
+      "NAM": 173
+     },
+     "idrobustness": {
+      "NAM": 203
+     },
+     "paymentsuptake": {
+      "NAM": 167
+     },
+     "retailpayments": {
+      "NAM": 166
+     },
+     "revenuecollection": {
+      "NAM": 181
+     }
+    },
+    "path": "raw/2026/2026-11-15-nam-namibian-bon-fsr-payment-fraud-h1-2026.md",
+    "words": 757
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "d479fd14d6",
+    "slug": "2025-01-01-moz-transforming-child-health-with-dhis2-in-mozambique",
+    "studies": {
+     "aiabuse": {
+      "MOZ": 190
+     },
+     "aigovernment": {
+      "MOZ": 183
+     },
+     "aisectoral": {
+      "MOZ": 185
+     },
+     "aisystems": {
+      "MOZ": 188
+     },
+     "birthidlink": {
+      "MOZ": 225
+     },
+     "civilregister": {
+      "MOZ": 137
+     },
+     "health": {
+      "MOZ": 75
+     },
+     "healthmis": {
+      "MOZ": 65
+     },
+     "idfrombirth": {
+      "MOZ": 225
+     },
+     "publicconsultation": {
+      "MOZ": 129
+     },
+     "registry": {
+      "MOZ": 151
+     }
+    },
+    "path": "raw/2025/2025-01-01-moz-transforming-child-health-with-dhis2-in-mozambique.md",
+    "words": 399
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "310c6c5b5c",
+    "slug": "2026-11-16-tcd-wearetech-telecoms-2027-budget-hearing-patn",
+    "studies": {
+     "aiabuse": {
+      "TCD": 114
+     },
+     "aigovernment": {
+      "TCD": 108
+     },
+     "aisectoral": {
+      "TCD": 108
+     },
+     "aisystems": {
+      "TCD": 109
+     },
+     "birthidlink": {
+      "TCD": 158
+     },
+     "civilregister": {
+      "TCD": 97
+     },
+     "idfrombirth": {
+      "TCD": 158
+     },
+     "registry": {
+      "TCD": 99
+     }
+    },
+    "path": "raw/2026/2026-11-16-tcd-wearetech-telecoms-2027-budget-hearing-patn.md",
+    "words": 808
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "94cf275794",
+    "slug": "2026-11-16-zaf-south-africa-must-seize-the-opportunities-of-the-ai-revolution",
+    "studies": {
+     "aiabuse": {
+      "ZAF": 690
+     },
+     "aigovernment": {
+      "ZAF": 653
+     },
+     "aisectoral": {
+      "ZAF": 658
+     },
+     "aisystems": {
+      "ZAF": 677
+     },
+     "businesspayments": {
+      "ZAF": 657
+     },
+     "centralbank": {
+      "ZAF": 638
+     },
+     "consumerprotection": {
+      "ZAF": 713
+     },
+     "crossborderpayments": {
+      "ZAF": 652
+     },
+     "datacentres": {
+      "ZAF": 516
+     },
+     "digitalsovereignty": {
+      "ZAF": 233
+     },
+     "g2ppayments": {
+      "ZAF": 651
+     },
+     "nationaldatacentres": {
+      "ZAF": 519
+     },
+     "paymentsuptake": {
+      "ZAF": 650
+     },
+     "retailpayments": {
+      "ZAF": 643
+     },
+     "revenuecollection": {
+      "ZAF": 660
+     }
+    },
+    "path": "raw/2026/2026-11-16-zaf-south-africa-must-seize-the-opportunities-of-the-ai-revolution.md",
+    "words": 873
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "43ee69bf28",
+    "slug": "2026-11-15-who-benefits-from-africas-data-in-ai-era",
+    "studies": {
+     "aiabuse": {
+      "UGA": 366
+     },
+     "aigovernment": {
+      "UGA": 348
+     },
+     "aisectoral": {
+      "UGA": 358
+     },
+     "aisystems": {
+      "UGA": 354
+     },
+     "businesspayments": {
+      "UGA": 593
+     },
+     "centralbank": {
+      "UGA": 573
+     },
+     "consumerprotection": {
+      "UGA": 612
+     },
+     "crossborderpayments": {
+      "UGA": 581
+     },
+     "dataprotectionlaw": {
+      "UGA": 322
+     },
+     "g2ppayments": {
+      "UGA": 587
+     },
+     "paymentsuptake": {
+      "UGA": 576
+     },
+     "retailpayments": {
+      "UGA": 575
+     },
+     "revenuecollection": {
+      "UGA": 601
+     }
+    },
+    "path": "raw/2026/2026-11-15-who-benefits-from-africas-data-in-ai-era.md",
+    "words": 490
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "3dc8c666f1",
+    "slug": "2025-10-17-ner-sante-le-niger-connecte-ses-structures-de-sante-au-haut-debit",
+    "studies": {
+     "aiabuse": {
+      "NER": 100
+     },
+     "aigovernment": {
+      "NER": 93
+     },
+     "aisectoral": {
+      "NER": 93
+     },
+     "aisystems": {
+      "NER": 93
+     },
+     "businesspayments": {
+      "NER": 230
+     },
+     "centralbank": {
+      "NER": 226
+     },
+     "consumerprotection": {
+      "NER": 237
+     },
+     "crossborderpayments": {
+      "NER": 229
+     },
+     "digitaldivides": {
+      "NER": 92
+     },
+     "digitalstrategy": {
+      "NER": 76
+     },
+     "g2ppayments": {
+      "NER": 235
+     },
+     "paymentsuptake": {
+      "NER": 225
+     },
+     "retailpayments": {
+      "NER": 225
+     },
+     "revenuecollection": {
+      "NER": 237
+     },
+     "startups": {
+      "NER": 86
+     },
+     "techhubs": {
+      "NER": 89
+     }
+    },
+    "path": "raw/2025/2025-10-17-ner-sante-le-niger-connecte-ses-structures-de-sante-au-haut-debit.md",
+    "words": 931
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "28af0d9987",
+    "slug": "2026-11-15-xaf-talkafrica-doha-africa-shape-global-digital-governance",
+    "studies": {
+     "aiabuse": {
+      "KEN": 721,
+      "ZWE": 317
+     },
+     "aigovernment": {
+      "KEN": 676,
+      "ZWE": 307
+     },
+     "aisectoral": {
+      "KEN": 689,
+      "ZWE": 307
+     },
+     "aisystems": {
+      "KEN": 697,
+      "ZWE": 315
+     },
+     "businesspayments": {
+      "KEN": 900,
+      "ZWE": 260
+     },
+     "centralbank": {
+      "KEN": 879,
+      "ZWE": 250
+     },
+     "consumerprotection": {
+      "KEN": 959,
+      "ZWE": 265
+     },
+     "crossborderpayments": {
+      "KEN": 884,
+      "ZWE": 257
+     },
+     "digitalsovereignty": {
+      "KEN": 270,
+      "ZWE": 103
+     },
+     "digitalstrategy": {
+      "KEN": 290,
+      "ZWE": 121
+     },
+     "exchangepoints": {
+      "KEN": 98,
+      "ZWE": 25
+     },
+     "g2ppayments": {
+      "KEN": 899,
+      "ZWE": 263
+     },
+     "internationalbandwidth": {
+      "KEN": 212,
+      "ZWE": 70
+     },
+     "internationalstandards": {
+      "KEN": 182,
+      "ZWE": 139
+     },
+     "internetusage": {
+      "KEN": 198,
+      "ZWE": 94
+     },
+     "opendiscussion": {
+      "KEN": 146,
+      "ZWE": 76
+     },
+     "paymentsuptake": {
+      "KEN": 882,
+      "ZWE": 254
+     },
+     "policyresearch": {
+      "KEN": 452,
+      "ZWE": 130
+     },
+     "publicconsultation": {
+      "KEN": 446,
+      "ZWE": 133
+     },
+     "regionalinfrastructure": {
+      "KEN": 140,
+      "ZWE": 54
+     },
+     "regionalpolicy": {
+      "KEN": 256,
+      "ZWE": 110
+     },
+     "retailpayments": {
+      "KEN": 877,
+      "ZWE": 249
+     },
+     "revenuecollection": {
+      "KEN": 900,
+      "ZWE": 272
+     },
+     "ruralelectrification": {
+      "KEN": 141,
+      "ZWE": 91
+     }
+    },
+    "path": "raw/2026/2026-11-15-xaf-talkafrica-doha-africa-shape-global-digital-governance.md",
+    "words": 1775
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "8b23a6186b",
+    "slug": "2026-11-16-nam-huawei-khaire-digital-scholarship-launch",
+    "studies": {
+     "aiabuse": {
+      "NAM": 200
+     },
+     "aigovernment": {
+      "NAM": 187
+     },
+     "aisectoral": {
+      "NAM": 189
+     },
+     "aisystems": {
+      "NAM": 192
+     },
+     "civilserviceskills": {
+      "NAM": 136
+     },
+     "datacentres": {
+      "NAM": 108
+     },
+     "digitalskills": {
+      "NAM": 140
+     },
+     "nationaldatacentres": {
+      "NAM": 108
+     }
+    },
+    "path": "raw/2026/2026-11-16-nam-huawei-khaire-digital-scholarship-launch.md",
+    "words": 514
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "7fcc842282",
+    "slug": "2026-02-17-nam-telehealth-expansion-to-target-rural-health-gaps",
+    "studies": {
+     "aiabuse": {
+      "NAM": 202
+     },
+     "aigovernment": {
+      "NAM": 189
+     },
+     "aisectoral": {
+      "NAM": 191
+     },
+     "aisystems": {
+      "NAM": 194
+     },
+     "civilserviceskills": {
+      "NAM": 137
+     },
+     "dataprotectionlaw": {
+      "NAM": 179
+     },
+     "digitalskills": {
+      "NAM": 141
+     },
+     "digitalstrategy": {
+      "NAM": 114
+     },
+     "healthmis": {
+      "NAM": 44
+     },
+     "interoperability": {
+      "NAM": 40
+     },
+     "interoperabilitystandards": {
+      "NAM": 29
+     },
+     "schoolinternet": {
+      "NAM": 155
+     }
+    },
+    "path": "raw/2026/2026-02-17-nam-telehealth-expansion-to-target-rural-health-gaps.md",
+    "words": 906
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "14ba5a9517",
+    "slug": "2026-05-17-civ-mtnit-declaration-journee-mondiale-telecommunications-2026",
+    "studies": {
+     "aiabuse": {
+      "CIV": 339
+     },
+     "aigovernment": {
+      "CIV": 335
+     },
+     "aisectoral": {
+      "CIV": 341
+     },
+     "aisystems": {
+      "CIV": 342
+     },
+     "civilserviceskills": {
+      "CIV": 222
+     },
+     "digitaldivides": {
+      "CIV": 189
+     },
+     "digitalskills": {
+      "CIV": 173
+     },
+     "digitalsovereignty": {
+      "CIV": 177
+     },
+     "domesticfinancing": {
+      "CIV": 112
+     }
+    },
+    "path": "raw/2026/2026-05-17-civ-mtnit-declaration-journee-mondiale-telecommunications-2026.md",
+    "words": 915
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "50098819db",
+    "slug": "2026-01-01-zwe-from-paper-to-digital-in-a-resource-limited-setting-a-case-study-of-zi",
+    "studies": {
+     "aiabuse": {
+      "ZWE": 316
+     },
+     "aigovernment": {
+      "ZWE": 306
+     },
+     "aisectoral": {
+      "ZWE": 306
+     },
+     "aisystems": {
+      "ZWE": 314
+     },
+     "civilserviceskills": {
+      "ZWE": 188
+     },
+     "digitalskills": {
+      "ZWE": 181
+     },
+     "health": {
+      "ZWE": 66
+     },
+     "healthexchange": {
+      "ZWE": 27
+     },
+     "healthmis": {
+      "ZWE": 32
+     },
+     "interoperability": {
+      "ZWE": 43
+     },
+     "interoperabilitystandards": {
+      "ZWE": 34
+     },
+     "schoolinternet": {
+      "ZWE": 173
+     },
+     "stemgraduates": {
+      "ZWE": 47
+     }
+    },
+    "path": "raw/2026/2026-01-01-zwe-from-paper-to-digital-in-a-resource-limited-setting-a-case-study-of-zi.md",
+    "words": 1882
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "07749806af",
+    "slug": "2026-09-30-civ-intelligent-health-systems",
+    "studies": {
+     "aiabuse": {
+      "CIV": 338
+     },
+     "aigovernment": {
+      "CIV": 334
+     },
+     "aisectoral": {
+      "CIV": 340
+     },
+     "aisystems": {
+      "CIV": 341
+     },
+     "civilserviceskills": {
+      "CIV": 221
+     },
+     "digitalskills": {
+      "CIV": 172
+     },
+     "health": {
+      "CIV": 62
+     },
+     "healthexchange": {
+      "CIV": 27
+     },
+     "healthmis": {
+      "CIV": 42
+     },
+     "interoperabilitystandards": {
+      "CIV": 42
+     },
+     "schoolinternet": {
+      "CIV": 267
+     }
+    },
+    "path": "raw/2026/2026-09-30-civ-intelligent-health-systems.md",
+    "words": 611
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "d2813ee71e",
+    "slug": "2026-11-16-mrt-ecofin-universite-nouakchott-moov-mauritel-accord",
+    "studies": {
+     "aiabuse": {
+      "MRT": 116
+     },
+     "aigovernment": {
+      "MRT": 114
+     },
+     "aisectoral": {
+      "MRT": 113
+     },
+     "aisystems": {
+      "MRT": 117
+     },
+     "civilserviceskills": {
+      "MRT": 111
+     },
+     "digitalskills": {
+      "MRT": 83
+     },
+     "policyresearch": {
+      "MRT": 54
+     },
+     "stemgraduates": {
+      "MRT": 30
+     }
+    },
+    "path": "raw/2026/2026-11-16-mrt-ecofin-universite-nouakchott-moov-mauritel-accord.md",
+    "words": 854
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "017c0bdfe7",
+    "slug": "2026-11-13-ben-gouv-wuhan-snaeia-mou-unesco-ai-pilot",
+    "studies": {
+     "aiabuse": {
+      "BEN": 239
+     },
+     "aigovernment": {
+      "BEN": 241
+     },
+     "aisectoral": {
+      "BEN": 238
+     },
+     "aisystems": {
+      "BEN": 238
+     },
+     "civilserviceskills": {
+      "BEN": 168
+     },
+     "digitalskills": {
+      "BEN": 128
+     },
+     "stemgraduates": {
+      "BEN": 36
+     }
+    },
+    "path": "raw/2026/2026-11-13-ben-gouv-wuhan-snaeia-mou-unesco-ai-pilot.md",
+    "words": 511
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "5c84531610",
+    "slug": "2026-07-16-ago-minsa-angola-referencia-africana-ia-telemedicina-saude",
+    "studies": {
+     "aiabuse": {
+      "AGO": 177
+     },
+     "aigovernment": {
+      "AGO": 177
+     },
+     "aisectoral": {
+      "AGO": 176
+     },
+     "aisystems": {
+      "AGO": 179
+     },
+     "coresystems": {
+      "AGO": 65
+     },
+     "customs": {
+      "AGO": 51
+     },
+     "educationexchange": {
+      "AGO": 84
+     },
+     "educationmis": {
+      "AGO": 69
+     },
+     "health": {
+      "AGO": 54
+     },
+     "healthmis": {
+      "AGO": 47
+     },
+     "schools": {
+      "AGO": 88
+     },
+     "socialexchange": {
+      "AGO": 44
+     },
+     "taxadmin": {
+      "AGO": 36
+     }
+    },
+    "path": "raw/2026/2026-07-16-ago-minsa-angola-referencia-africana-ia-telemedicina-saude.md",
+    "words": 687
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "d3beed0e16",
+    "slug": "2026-11-15-mus-defimedia-microsoft-365-outage-digital-dependence",
+    "studies": {
+     "aiabuse": {
+      "MUS": 263
+     },
+     "aigovernment": {
+      "MUS": 258
+     },
+     "aisectoral": {
+      "MUS": 254
+     },
+     "aisystems": {
+      "MUS": 255
+     },
+     "cybersecurity": {
+      "MUS": 98
+     },
+     "datacentres": {
+      "MUS": 146
+     },
+     "datalocalisation": {
+      "MUS": 36
+     },
+     "digitalsovereignty": {
+      "MUS": 104
+     },
+     "digitalstrategy": {
+      "MUS": 125
+     },
+     "nationaldatacentres": {
+      "MUS": 149
+     },
+     "nonstatefinance": {
+      "MUS": 93
+     },
+     "offsitebackup": {
+      "MUS": 76
+     },
+     "regionalinfrastructure": {
+      "MUS": 47
+     },
+     "schoolinternet": {
+      "MUS": 141
+     }
+    },
+    "path": "raw/2026/2026-11-15-mus-defimedia-microsoft-365-outage-digital-dependence.md",
+    "words": 1837
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "2cee960f09",
+    "slug": "2026-11-14-mar-fez-meknes-summit-sets-out-roadmap-for-regional-digital-sovereignty",
+    "studies": {
+     "aiabuse": {
+      "MAR": 340
+     },
+     "aigovernment": {
+      "MAR": 338
+     },
+     "aisectoral": {
+      "MAR": 335
+     },
+     "aisystems": {
+      "MAR": 350
+     },
+     "cybersecurity": {
+      "MAR": 99
+     },
+     "datacentres": {
+      "MAR": 219
+     },
+     "dataprotectionlaw": {
+      "MAR": 227
+     },
+     "digitalsovereignty": {
+      "MAR": 185
+     },
+     "localgov": {
+      "MAR": 179
+     },
+     "nationaldatacentres": {
+      "MAR": 230
+     },
+     "startups": {
+      "MAR": 214
+     },
+     "techhubs": {
+      "MAR": 217
+     }
+    },
+    "path": "raw/2026/2026-11-14-mar-fez-meknes-summit-sets-out-roadmap-for-regional-digital-sovereignty.md",
+    "words": 558
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "158fa338a4",
+    "slug": "2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats",
+    "studies": {
+     "aiabuse": {
+      "CIV": 341,
+      "COD": 200,
+      "CPV": 130,
+      "DZA": 198,
+      "EGY": 420,
+      "GAB": 145,
+      "GHA": 485,
+      "LBY": 96,
+      "MAR": 344,
+      "MLI": 127,
+      "MUS": 266,
+      "RWA": 375,
+      "SEN": 365,
+      "TUN": 222,
+      "TZA": 310,
+      "UGA": 367,
+      "ZAF": 694
+     },
+     "aigovernment": {
+      "CIV": 337,
+      "COD": 204,
+      "CPV": 127,
+      "DZA": 199,
+      "EGY": 411,
+      "GAB": 135,
+      "GHA": 476,
+      "LBY": 98,
+      "MAR": 342,
+      "MLI": 127,
+      "MUS": 261,
+      "RWA": 361,
+      "SEN": 357,
+      "TUN": 214,
+      "TZA": 289,
+      "UGA": 349,
+      "ZAF": 656
+     },
+     "aisectoral": {
+      "CIV": 343,
+      "COD": 203,
+      "CPV": 128,
+      "DZA": 197,
+      "EGY": 427,
+      "GAB": 134,
+      "GHA": 479,
+      "LBY": 95,
+      "MAR": 339,
+      "MLI": 126,
+      "MUS": 257,
+      "RWA": 368,
+      "SEN": 358,
+      "TUN": 215,
+      "TZA": 291,
+      "UGA": 359,
+      "ZAF": 661
+     },
+     "aisystems": {
+      "CIV": 344,
+      "COD": 203,
+      "CPV": 129,
+      "DZA": 201,
+      "EGY": 430,
+      "GAB": 136,
+      "GHA": 483,
+      "LBY": 97,
+      "MAR": 354,
+      "MLI": 128,
+      "MUS": 258,
+      "RWA": 367,
+      "SEN": 364,
+      "TUN": 218,
+      "TZA": 298,
+      "UGA": 355,
+      "ZAF": 684
+     },
+     "cybersecurity": {
+      "CIV": 133,
+      "COD": 64,
+      "CPV": 67,
+      "DZA": 50,
+      "EGY": 57,
+      "GAB": 45,
+      "GHA": 174,
+      "LBY": 27,
+      "MAR": 100,
+      "MLI": 50,
+      "MUS": 99,
+      "RWA": 124,
+      "SEN": 104,
+      "TUN": 81,
+      "TZA": 78,
+      "UGA": 85,
+      "ZAF": 96
+     },
+     "digitaldivides": {
+      "CIV": 191,
+      "COD": 160,
+      "CPV": 54,
+      "DZA": 79,
+      "EGY": 105,
+      "GAB": 88,
+      "GHA": 228,
+      "LBY": 33,
+      "MAR": 102,
+      "MLI": 83,
+      "MUS": 82,
+      "RWA": 198,
+      "SEN": 196,
+      "TUN": 100,
+      "TZA": 180,
+      "UGA": 248,
+      "ZAF": 328
+     },
+     "digitalsovereignty": {
+      "CIV": 179,
+      "COD": 142,
+      "CPV": 51,
+      "DZA": 131,
+      "EGY": 151,
+      "GAB": 144,
+      "GHA": 155,
+      "LBY": 57,
+      "MAR": 187,
+      "MLI": 102,
+      "MUS": 105,
+      "RWA": 143,
+      "SEN": 261,
+      "TUN": 107,
+      "TZA": 108,
+      "UGA": 132,
+      "ZAF": 236
+     },
+     "ictstrategy": {
+      "CIV": 36,
+      "COD": 49,
+      "CPV": 19,
+      "DZA": 28,
+      "EGY": 37,
+      "GAB": 23,
+      "GHA": 80,
+      "LBY": 13,
+      "MAR": 25,
+      "MLI": 21,
+      "MUS": 45,
+      "RWA": 107,
+      "SEN": 49,
+      "TUN": 22,
+      "TZA": 109,
+      "UGA": 125,
+      "ZAF": 118
+     },
+     "internationalbandwidth": {
+      "CIV": 129,
+      "COD": 112,
+      "CPV": 79,
+      "DZA": 71,
+      "EGY": 137,
+      "GAB": 50,
+      "GHA": 146,
+      "LBY": 43,
+      "MAR": 74,
+      "MLI": 55,
+      "MUS": 86,
+      "RWA": 107,
+      "SEN": 121,
+      "TUN": 87,
+      "TZA": 127,
+      "UGA": 127,
+      "ZAF": 205
+     },
+     "regionalpolicy": {
+      "CIV": 133,
+      "COD": 92,
+      "CPV": 70,
+      "DZA": 77,
+      "EGY": 99,
+      "GAB": 96,
+      "GHA": 215,
+      "LBY": 28,
+      "MAR": 97,
+      "MLI": 95,
+      "MUS": 88,
+      "RWA": 206,
+      "SEN": 151,
+      "TUN": 80,
+      "TZA": 149,
+      "UGA": 171,
+      "ZAF": 174
+     }
+    },
+    "path": "raw/2026/2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats.md",
+    "words": 1195
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "76be5b4b7e",
+    "slug": "2026-11-16-zaf-itweb-teraco-ai-innovation-lab",
+    "studies": {
+     "aiabuse": {
+      "ZAF": 689
+     },
+     "aigovernment": {
+      "ZAF": 652
+     },
+     "aisectoral": {
+      "ZAF": 657
+     },
+     "aisystems": {
+      "ZAF": 681
+     },
+     "datacentrepower": {
+      "ZAF": 81
+     },
+     "datacentres": {
+      "ZAF": 514
+     },
+     "exchangepoints": {
+      "ZAF": 72
+     },
+     "nationaldatacentres": {
+      "ZAF": 517
+     }
+    },
+    "path": "raw/2026/2026-11-16-zaf-itweb-teraco-ai-innovation-lab.md",
+    "words": 673
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "9f39c5ec19",
+    "slug": "2026-11-16-xaf-africa-ai-infrastructure-gap-data-centre-expansion",
+    "studies": {
+     "aiabuse": {
+      "EGY": 418,
+      "ETH": 296,
+      "GHA": 483,
+      "MAR": 342,
+      "ZAF": 692
+     },
+     "aigovernment": {
+      "EGY": 409,
+      "ETH": 284,
+      "GHA": 474,
+      "MAR": 340,
+      "ZAF": 654
+     },
+     "aisectoral": {
+      "EGY": 425,
+      "ETH": 292,
+      "GHA": 477,
+      "MAR": 337,
+      "ZAF": 659
+     },
+     "aisystems": {
+      "EGY": 428,
+      "ETH": 289,
+      "GHA": 481,
+      "MAR": 352,
+      "ZAF": 682
+     },
+     "datacentres": {
+      "EGY": 297,
+      "ETH": 231,
+      "GHA": 258,
+      "MAR": 221,
+      "ZAF": 520
+     },
+     "datalocalisation": {
+      "EGY": 57,
+      "ETH": 62,
+      "GHA": 64,
+      "MAR": 48,
+      "ZAF": 91
+     },
+     "dataprotectionlaw": {
+      "EGY": 244,
+      "ETH": 211,
+      "GHA": 349,
+      "MAR": 228,
+      "ZAF": 418
+     },
+     "digitalsovereignty": {
+      "EGY": 150,
+      "ETH": 138,
+      "GHA": 153,
+      "MAR": 186,
+      "ZAF": 235
+     },
+     "ictproduction": {
+      "EGY": 51,
+      "ETH": 25,
+      "GHA": 31,
+      "MAR": 23,
+      "ZAF": 59
+     },
+     "nationaldatacentres": {
+      "EGY": 299,
+      "ETH": 239,
+      "GHA": 261,
+      "MAR": 232,
+      "ZAF": 523
+     },
+     "policyresearch": {
+      "EGY": 141,
+      "ETH": 185,
+      "GHA": 246,
+      "MAR": 91,
+      "ZAF": 326
+     }
+    },
+    "path": "raw/2026/2026-11-16-xaf-africa-ai-infrastructure-gap-data-centre-expansion.md",
+    "words": 1599
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "a240f4c08f",
+    "slug": "2026-11-14-hespress-ar-naigf-rabat-digital-governance-forum",
+    "studies": {
+     "aiabuse": {
+      "MAR": 339
+     },
+     "aigovernment": {
+      "MAR": 337
+     },
+     "aisectoral": {
+      "MAR": 334
+     },
+     "aisystems": {
+      "MAR": 349
+     },
+     "datacentres": {
+      "MAR": 218
+     },
+     "exchangepoints": {
+      "MAR": 41
+     },
+     "nationaldatacentres": {
+      "MAR": 229
+     },
+     "police": {
+      "MAR": 163
+     },
+     "schoolinternet": {
+      "MAR": 192
+     }
+    },
+    "path": "raw/2026/2026-11-14-hespress-ar-naigf-rabat-digital-governance-forum.md",
+    "words": 614
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "cb6b8254bc",
+    "slug": "2026-11-15-uga-nilepost-ubos-launches-pnsd-iv-strategic-plan-service-standards",
+    "studies": {
+     "aiabuse": {
+      "UGA": 365
+     },
+     "aigovernment": {
+      "UGA": 347
+     },
+     "aisectoral": {
+      "UGA": 357
+     },
+     "aisystems": {
+      "UGA": 353
+     },
+     "datagovernance": {
+      "UGA": 56
+     },
+     "statisticsstrategy": {
+      "UGA": 38
+     }
+    },
+    "path": "raw/2026/2026-11-15-uga-nilepost-ubos-launches-pnsd-iv-strategic-plan-service-standards.md",
+    "words": 822
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "caa1fdf558",
+    "slug": "2026-11-10-egy-vetogate-healthcare-authority-6-5m-electronic-files",
+    "studies": {
+     "aiabuse": {
+      "EGY": 417
+     },
+     "aigovernment": {
+      "EGY": 408
+     },
+     "aisectoral": {
+      "EGY": 424
+     },
+     "aisystems": {
+      "EGY": 427
+     },
+     "dataprotectionlaw": {
+      "EGY": 243
+     }
+    },
+    "path": "raw/2026/2026-11-10-egy-vetogate-healthcare-authority-6-5m-electronic-files.md",
+    "words": 623
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "465a125b71",
+    "slug": "2026-11-15-ansut-lance-programme-acces-smartphones-subventionnes",
+    "studies": {
+     "aiabuse": {
+      "CIV": 336
+     },
+     "aigovernment": {
+      "CIV": 332
+     },
+     "aisectoral": {
+      "CIV": 338
+     },
+     "aisystems": {
+      "CIV": 339
+     },
+     "digitaldivides": {
+      "CIV": 187
+     },
+     "domesticfinancing": {
+      "CIV": 111
+     },
+     "mobileaffordability": {
+      "CIV": 48
+     }
+    },
+    "path": "raw/2026/2026-11-15-ansut-lance-programme-acces-smartphones-subventionnes.md",
+    "words": 563
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "fcb5b24628",
+    "slug": "2026-11-14-dza-des-le-15-novembre-annaba-passe-au-dossier-medical-electronique",
+    "studies": {
+     "aiabuse": {
+      "DZA": 196
+     },
+     "aigovernment": {
+      "DZA": 197
+     },
+     "aisectoral": {
+      "DZA": 195
+     },
+     "aisystems": {
+      "DZA": 199
+     },
+     "health": {
+      "DZA": 44
+     }
+    },
+    "path": "raw/2026/2026-11-14-dza-des-le-15-novembre-annaba-passe-au-dossier-medical-electronique.md",
+    "words": 261
+   },
+   {
+    "key": "a056d2b752",
+    "slug": "2026-04-03-tun-walid-naija-chaque-tunisien-aura-bientot-un-identifiant-de-sante-uniqu",
+    "studies": {
+     "aiabuse": {
+      "TUN": 220
+     },
+     "aigovernment": {
+      "TUN": 212
+     },
+     "aisectoral": {
+      "TUN": 213
+     },
+     "aisystems": {
+      "TUN": 216
+     },
+     "health": {
+      "TUN": 29
+     },
+     "healthexchange": {
+      "TUN": 24
+     }
+    },
+    "path": "raw/2026/2026-04-03-tun-walid-naija-chaque-tunisien-aura-bientot-un-identifiant-de-sante-uniqu.md",
+    "words": 416
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "f65ed38548",
+    "slug": "2026-11-16-zaf-icasa-welcomes-south-africa-reelection-itu-council",
+    "studies": {
+     "aiabuse": {
+      "BWA": 144,
+      "ZAF": 687
+     },
+     "aigovernment": {
+      "BWA": 135,
+      "ZAF": 650
+     },
+     "aisectoral": {
+      "BWA": 144,
+      "ZAF": 655
+     },
+     "aisystems": {
+      "BWA": 144,
+      "ZAF": 679
+     },
+     "ictstrategy": {
+      "BWA": 51,
+      "ZAF": 117
+     },
+     "internationalstandards": {
+      "BWA": 102,
+      "ZAF": 179
+     },
+     "regionalinfrastructure": {
+      "ZAF": 132
+     },
+     "regionallaw": {
+      "ZAF": 129
+     },
+     "regionalpolicy": {
+      "BWA": 89,
+      "ZAF": 172
+     }
+    },
+    "path": "raw/2026/2026-11-16-zaf-icasa-welcomes-south-africa-reelection-itu-council.md",
+    "words": 810
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "52b181d996",
+    "slug": "2026-11-16-xgl-itu-council-rrb-elections-2027-2030",
+    "studies": {
+     "aiabuse": {
+      "BWA": 145,
+      "CIV": 340,
+      "DZA": 197,
+      "EGY": 419,
+      "GHA": 484,
+      "MAR": 343,
+      "MUS": 265,
+      "RWA": 374,
+      "SEN": 364,
+      "TUN": 221,
+      "TZA": 309,
+      "ZAF": 693
+     },
+     "aigovernment": {
+      "BWA": 136,
+      "CIV": 336,
+      "DZA": 198,
+      "EGY": 410,
+      "GHA": 475,
+      "MAR": 341,
+      "MUS": 260,
+      "RWA": 360,
+      "SEN": 356,
+      "TUN": 213,
+      "TZA": 288,
+      "ZAF": 655
+     },
+     "aisectoral": {
+      "BWA": 145,
+      "CIV": 342,
+      "DZA": 196,
+      "EGY": 426,
+      "GHA": 478,
+      "MAR": 338,
+      "MUS": 256,
+      "RWA": 367,
+      "SEN": 357,
+      "TUN": 214,
+      "TZA": 290,
+      "ZAF": 660
+     },
+     "aisystems": {
+      "BWA": 145,
+      "CIV": 343,
+      "DZA": 200,
+      "EGY": 429,
+      "GHA": 482,
+      "MAR": 353,
+      "MUS": 257,
+      "RWA": 366,
+      "SEN": 363,
+      "TUN": 217,
+      "TZA": 297,
+      "ZAF": 683
+     },
+     "internationalbandwidth": {
+      "BWA": 75,
+      "CIV": 128,
+      "DZA": 70,
+      "EGY": 136,
+      "GHA": 145,
+      "MAR": 73,
+      "MUS": 85,
+      "RWA": 106,
+      "SEN": 120,
+      "TUN": 86,
+      "TZA": 126,
+      "ZAF": 204
+     },
+     "internationalstandards": {
+      "BWA": 101,
+      "RWA": 160,
+      "SEN": 118,
+      "TUN": 122
+     },
+     "regionalinfrastructure": {
+      "GAB": 84
+     },
+     "regionallaw": {
+      "GAB": 64
+     },
+     "regionalpolicy": {
+      "CIV": 132,
+      "GAB": 94,
+      "GHA": 213,
+      "LBY": 27,
+      "TZA": 148,
+      "UGA": 170,
+      "ZAF": 171
+     }
+    },
+    "path": "raw/2026/2026-11-16-xgl-itu-council-rrb-elections-2027-2030.md",
+    "words": 791
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "bf36daa203",
+    "slug": "2025-08-25-aqssr-olasya-cyber-security-democracy-kenya",
+    "studies": {
+     "aiabuse": {
+      "KEN": 723
+     },
+     "authentication": {
+      "KEN": 600
+     },
+     "birthidlink": {
+      "KEN": 570
+     },
+     "dataprotectionlaw": {
+      "KEN": 536
+     },
+     "electoralregister": {
+      "KEN": 87
+     },
+     "idcoverage": {
+      "KEN": 523
+     },
+     "idfrombirth": {
+      "KEN": 570
+     },
+     "idmaintenance": {
+      "KEN": 548
+     },
+     "idregisters": {
+      "KEN": 533
+     },
+     "idrobustness": {
+      "KEN": 607
+     },
+     "internetusage": {
+      "KEN": 199
+     },
+     "policyresearch": {
+      "KEN": 453
+     }
+    },
+    "path": "raw/2025/2025-08-25-aqssr-olasya-cyber-security-democracy-kenya.md",
+    "words": 1929
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "eafc168906",
+    "slug": "2026-11-15-zaf-beyond-photo-ops-what-sa-should-bring-home-from-ramaphosas-silicon-val",
+    "studies": {
+     "aiabuse": {
+      "ZAF": 691
+     },
+     "datacentres": {
+      "ZAF": 518
+     },
+     "digitalsovereignty": {
+      "ZAF": 234
+     },
+     "localgov": {
+      "ZAF": 402
+     },
+     "nationaldatacentres": {
+      "ZAF": 521
+     }
+    },
+    "path": "raw/2026/2026-11-15-zaf-beyond-photo-ops-what-sa-should-bring-home-from-ramaphosas-silicon-val.md",
+    "words": 1255
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "635a47d180",
+    "slug": "2026-11-14-ben-nouvelletribune-service-public-bj-nouvelle-version",
+    "studies": {
+     "aigovernment": {
+      "BEN": 243
+     },
+     "egovservices": {
+      "BEN": 168
+     },
+     "itcapacity": {
+      "BEN": 135
+     },
+     "police": {
+      "BEN": 107
+     }
+    },
+    "path": "raw/2026/2026-11-14-ben-nouvelletribune-service-public-bj-nouvelle-version.md",
+    "words": 395
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "1424e5aff9",
+    "slug": "2026-11-13-ben-beninwebtv-article-550-code-numerique-cour-constitutionnelle",
+    "studies": {
+     "ailaw": {
+      "BEN": 39
+     },
+     "dataprotectionlaw": {
+      "BEN": 249
+     },
+     "digitalidlaw": {
+      "BEN": 97
+     },
+     "ecommercelaw": {
+      "BEN": 64
+     },
+     "opendiscussion": {
+      "BEN": 56
+     }
+    },
+    "path": "raw/2026/2026-11-13-ben-beninwebtv-article-550-code-numerique-cour-constitutionnelle.md",
+    "words": 572
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "78b95ba0c4",
+    "slug": "2026-06-03-stp-milestone-for-digital-health-in-sao-tome-and-principe",
+    "studies": {
+     "aisectoral": {
+      "STP": 51
+     },
+     "cybersecurity": {
+      "STP": 28
+     },
+     "dataprotectionlaw": {
+      "STP": 94
+     },
+     "healthexchange": {
+      "STP": 9
+     },
+     "healthmis": {
+      "STP": 38
+     },
+     "internationalstandards": {
+      "STP": 56
+     },
+     "qualitystandards": {
+      "STP": 23
+     }
+    },
+    "path": "raw/2026/2026-06-03-stp-milestone-for-digital-health-in-sao-tome-and-principe.md",
+    "words": 461
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "34dd66c0fd",
+    "slug": "2026-11-16-civ-etnews-elice-afdb-k-ai-voucher-gpu-npu-cloud",
+    "studies": {
+     "aisystems": {
+      "CIV": 336
+     },
+     "startups": {
+      "CIV": 238
+     },
+     "techhubs": {
+      "CIV": 248
+     }
+    },
+    "path": "raw/2026/2026-11-16-civ-etnews-elice-afdb-k-ai-voucher-gpu-npu-cloud.md",
+    "words": 454
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "ddaf40dc15",
+    "slug": "2025-08-13-orf-mehta-india-blueprint-africa-dpi",
+    "studies": {
+     "authentication": {
+      "BWA": 166,
+      "CPV": 183,
+      "ETH": 456,
+      "NAM": 211,
+      "RWA": 420,
+      "SYC": 106,
+      "TGO": 216,
+      "UGA": 518,
+      "ZAF": 519,
+      "ZMB": 257
+     },
+     "birthidlink": {
+      "BWA": 161,
+      "CPV": 167,
+      "ETH": 477,
+      "NAM": 198,
+      "RWA": 419,
+      "SYC": 106,
+      "TGO": 247,
+      "UGA": 504,
+      "ZAF": 479,
+      "ZMB": 262
+     },
+     "businesspayments": {
+      "BWA": 193,
+      "CPV": 166,
+      "ETH": 473,
+      "NAM": 176,
+      "RWA": 516,
+      "SYC": 117,
+      "TGO": 283,
+      "UGA": 594,
+      "ZAF": 659,
+      "ZMB": 350
+     },
+     "centralbank": {
+      "BWA": 179,
+      "CPV": 146,
+      "ETH": 461,
+      "NAM": 167,
+      "RWA": 496,
+      "SYC": 116,
+      "TGO": 277,
+      "UGA": 574,
+      "ZAF": 640,
+      "ZMB": 340
+     },
+     "civilregister": {
+      "BWA": 67,
+      "CPV": 92,
+      "ETH": 161,
+      "NAM": 123,
+      "RWA": 153,
+      "SYC": 57,
+      "TGO": 133,
+      "UGA": 149,
+      "ZAF": 118,
+      "ZMB": 125
+     },
+     "civilserviceskills": {
+      "BWA": 108,
+      "CPV": 127,
+      "ETH": 196,
+      "NAM": 138,
+      "RWA": 271,
+      "SYC": 69,
+      "TGO": 135,
+      "UGA": 309,
+      "ZAF": 343,
+      "ZMB": 202
+     },
+     "consumerprotection": {
+      "BWA": 198,
+      "CPV": 152,
+      "ETH": 474,
+      "NAM": 190,
+      "RWA": 531,
+      "SYC": 135,
+      "TGO": 289,
+      "UGA": 613,
+      "ZAF": 716,
+      "ZMB": 363
+     },
+     "crossborderpayments": {
+      "BWA": 185,
+      "CPV": 147,
+      "ETH": 462,
+      "NAM": 172,
+      "RWA": 496,
+      "SYC": 116,
+      "TGO": 280,
+      "UGA": 582,
+      "ZAF": 654,
+      "ZMB": 345
+     },
+     "dataprotectionlaw": {
+      "BWA": 134,
+      "CPV": 160,
+      "ETH": 212,
+      "NAM": 180,
+      "RWA": 276,
+      "SYC": 80,
+      "TGO": 203,
+      "UGA": 323,
+      "ZAF": 419,
+      "ZMB": 210
+     },
+     "dataprotectionreadiness": {
+      "BWA": 41,
+      "CPV": 37,
+      "ETH": 50,
+      "NAM": 54,
+      "RWA": 71,
+      "SYC": 30,
+      "TGO": 53,
+      "UGA": 85,
+      "ZAF": 101,
+      "ZMB": 59
+     },
+     "digitalskills": {
+      "BWA": 106,
+      "CPV": 112,
+      "ETH": 195,
+      "NAM": 142,
+      "RWA": 286,
+      "SYC": 68,
+      "TGO": 100,
+      "UGA": 297,
+      "ZAF": 353,
+      "ZMB": 203
+     },
+     "digitalstrategy": {
+      "BWA": 100,
+      "CPV": 80,
+      "ETH": 162,
+      "NAM": 115,
+      "RWA": 170,
+      "SYC": 51,
+      "TGO": 84,
+      "UGA": 196,
+      "ZAF": 235,
+      "ZMB": 144
+     },
+     "egovservices": {
+      "BWA": 119,
+      "CPV": 100,
+      "ETH": 142,
+      "NAM": 106,
+      "RWA": 197,
+      "SYC": 64,
+      "TGO": 124,
+      "UGA": 252,
+      "ZAF": 242,
+      "ZMB": 179
+     },
+     "g2ppayments": {
+      "BWA": 180,
+      "CPV": 161,
+      "ETH": 466,
+      "NAM": 174,
+      "RWA": 506,
+      "SYC": 122,
+      "TGO": 290,
+      "UGA": 588,
+      "ZAF": 653,
+      "ZMB": 359
+     },
+     "idcoverage": {
+      "BWA": 141,
+      "CPV": 139,
+      "ETH": 420,
+      "NAM": 168,
+      "RWA": 388,
+      "SYC": 91,
+      "TGO": 205,
+      "UGA": 471,
+      "ZAF": 442,
+      "ZMB": 219
+     },
+     "idfrombirth": {
+      "BWA": 161,
+      "CPV": 167,
+      "ETH": 477,
+      "NAM": 192,
+      "RWA": 419,
+      "SYC": 108,
+      "TGO": 247,
+      "UGA": 504,
+      "ZAF": 479,
+      "ZMB": 262
+     },
+     "idmaintenance": {
+      "BWA": 144,
+      "CPV": 143,
+      "ETH": 426,
+      "NAM": 171,
+      "RWA": 402,
+      "SYC": 90,
+      "TGO": 196,
+      "UGA": 487,
+      "ZAF": 465,
+      "ZMB": 229
+     },
+     "idregisters": {
+      "BWA": 142,
+      "CPV": 140,
+      "ETH": 420,
+      "NAM": 175,
+      "RWA": 394,
+      "SYC": 94,
+      "TGO": 189,
+      "UGA": 474,
+      "ZAF": 450,
+      "ZMB": 224
+     },
+     "idrobustness": {
+      "BWA": 167,
+      "CPV": 158,
+      "ETH": 444,
+      "NAM": 204,
+      "RWA": 418,
+      "SYC": 101,
+      "TGO": 230,
+      "UGA": 511,
+      "ZAF": 561,
+      "ZMB": 251
+     },
+     "itcapacity": {
+      "BWA": 64,
+      "CPV": 188,
+      "ETH": 87,
+      "NAM": 69,
+      "RWA": 232,
+      "SYC": 74,
+      "TGO": 54,
+      "UGA": 292,
+      "ZAF": 219,
+      "ZMB": 248
+     },
+     "paymentsuptake": {
+      "BWA": 180,
+      "CPV": 152,
+      "ETH": 465,
+      "NAM": 168,
+      "RWA": 496,
+      "SYC": 118,
+      "TGO": 276,
+      "UGA": 577,
+      "ZAF": 652,
+      "ZMB": 343
+     },
+     "regionalpolicy": {
+      "BWA": 90,
+      "CPV": 71,
+      "ETH": 118,
+      "NAM": 95,
+      "RWA": 207,
+      "SYC": 39,
+      "TGO": 110,
+      "UGA": 172,
+      "ZAF": 175,
+      "ZMB": 117
+     },
+     "registry": {
+      "BWA": 84,
+      "CPV": 109,
+      "ETH": 181,
+      "NAM": 131,
+      "RWA": 171,
+      "SYC": 95,
+      "TGO": 158,
+      "UGA": 178,
+      "ZAF": 145,
+      "ZMB": 135
+     },
+     "retailpayments": {
+      "BWA": 179,
+      "CPV": 147,
+      "ETH": 460,
+      "NAM": 167,
+      "RWA": 495,
+      "SYC": 115,
+      "TGO": 276,
+      "UGA": 576,
+      "ZAF": 645,
+      "ZMB": 338
+     },
+     "revenuecollection": {
+      "BWA": 193,
+      "CPV": 157,
+      "ETH": 472,
+      "NAM": 182,
+      "RWA": 513,
+      "SYC": 128,
+      "TGO": 320,
+      "UGA": 602,
+      "ZAF": 662,
+      "ZMB": 350
+     },
+     "schoolinternet": {
+      "BWA": 122,
+      "CPV": 94,
+      "ETH": 192,
+      "NAM": 156,
+      "RWA": 293,
+      "SYC": 74,
+      "TGO": 194,
+      "UGA": 279,
+      "ZAF": 343,
+      "ZMB": 201
+     }
+    },
+    "path": "raw/2025/2025-08-13-orf-mehta-india-blueprint-africa-dpi.md",
+    "words": 1906
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "13f2e731dc",
+    "slug": "2025-04-21-advox-digital-id-africa-inclusion-or-privacy-threat",
+    "studies": {
+     "authentication": {
+      "GHA": 474,
+      "KEN": 586,
+      "NGA": 738,
+      "RWA": 418
+     },
+     "birthidlink": {
+      "GHA": 452,
+      "KEN": 556,
+      "NGA": 707,
+      "RWA": 416
+     },
+     "businesspayments": {
+      "GHA": 636,
+      "KEN": 903,
+      "NGA": 1005,
+      "RWA": 517
+     },
+     "centralbank": {
+      "GHA": 630,
+      "KEN": 882,
+      "NGA": 997,
+      "RWA": 497
+     },
+     "civilregister": {
+      "GHA": 124,
+      "KEN": 195,
+      "NGA": 169,
+      "RWA": 154
+     },
+     "civilserviceskills": {
+      "GHA": 278,
+      "KEN": 399,
+      "NGA": 429,
+      "RWA": 272
+     },
+     "consumerprotection": {
+      "GHA": 664,
+      "KEN": 962,
+      "NGA": 1087,
+      "RWA": 532
+     },
+     "crossborderpayments": {
+      "GHA": 635,
+      "KEN": 887,
+      "NGA": 1007,
+      "RWA": 497
+     },
+     "dataprotectionlaw": {
+      "GHA": 351,
+      "KEN": 537,
+      "NGA": 557,
+      "RWA": 277
+     },
+     "digitaldivides": {
+      "GHA": 229,
+      "KEN": 333,
+      "NGA": 377,
+      "RWA": 199
+     },
+     "digitalskills": {
+      "GHA": 297,
+      "KEN": 394,
+      "NGA": 417,
+      "RWA": 287
+     },
+     "digitalstrategy": {
+      "GHA": 202,
+      "KEN": 291,
+      "NGA": 285,
+      "RWA": 171
+     },
+     "g2ppayments": {
+      "GHA": 640,
+      "KEN": 902,
+      "NGA": 1020,
+      "RWA": 507
+     },
+     "idcoverage": {
+      "GHA": 424,
+      "KEN": 510,
+      "NGA": 670,
+      "RWA": 386
+     },
+     "idfrombirth": {
+      "GHA": 452,
+      "KEN": 556,
+      "NGA": 707,
+      "RWA": 416
+     },
+     "idmaintenance": {
+      "GHA": 438,
+      "KEN": 534,
+      "NGA": 705,
+      "RWA": 400
+     },
+     "idregisters": {
+      "GHA": 429,
+      "KEN": 519,
+      "NGA": 685,
+      "RWA": 392
+     },
+     "idrobustness": {
+      "GHA": 480,
+      "KEN": 592,
+      "NGA": 764,
+      "RWA": 416
+     },
+     "paymentsuptake": {
+      "GHA": 630,
+      "KEN": 885,
+      "NGA": 1002,
+      "RWA": 497
+     },
+     "policyresearch": {
+      "GHA": 248,
+      "KEN": 454,
+      "NGA": 344,
+      "RWA": 195
+     },
+     "refugees": {
+      "GHA": 75,
+      "KEN": 152,
+      "NGA": 111,
+      "RWA": 108
+     },
+     "registry": {
+      "GHA": 183,
+      "KEN": 211,
+      "NGA": 181,
+      "RWA": 172
+     },
+     "retailpayments": {
+      "GHA": 628,
+      "KEN": 880,
+      "NGA": 998,
+      "RWA": 496
+     },
+     "revenuecollection": {
+      "GHA": 645,
+      "KEN": 903,
+      "NGA": 1031,
+      "RWA": 514
+     },
+     "schoolinternet": {
+      "GHA": 240,
+      "KEN": 356,
+      "NGA": 356,
+      "RWA": 294
+     }
+    },
+    "path": "raw/2025/2025-04-21-advox-digital-id-africa-inclusion-or-privacy-threat.md",
+    "words": 1176
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "98c6beeed6",
+    "slug": "2026-11-16-kictanet-whatsapp-usernames-privacy-kenya",
+    "studies": {
+     "authentication": {
+      "KEN": 598
+     },
+     "birthidlink": {
+      "KEN": 568
+     },
+     "businesspayments": {
+      "KEN": 899
+     },
+     "centralbank": {
+      "KEN": 878
+     },
+     "civilserviceskills": {
+      "KEN": 398
+     },
+     "consumerprotection": {
+      "KEN": 958
+     },
+     "crossborderpayments": {
+      "KEN": 883
+     },
+     "dataprotectionauthority": {
+      "KEN": 199
+     },
+     "dataprotectionlaw": {
+      "KEN": 534
+     },
+     "digitalskills": {
+      "KEN": 393
+     },
+     "g2ppayments": {
+      "KEN": 898
+     },
+     "idcoverage": {
+      "KEN": 521
+     },
+     "idfrombirth": {
+      "KEN": 568
+     },
+     "idmaintenance": {
+      "KEN": 546
+     },
+     "idregisters": {
+      "KEN": 531
+     },
+     "idrobustness": {
+      "KEN": 605
+     },
+     "idverification": {
+      "KEN": 157
+     },
+     "paymentsuptake": {
+      "KEN": 881
+     },
+     "policyresearch": {
+      "KEN": 451
+     },
+     "retailpayments": {
+      "KEN": 876
+     },
+     "revenuecollection": {
+      "KEN": 898
+     },
+     "schoolinternet": {
+      "KEN": 355
+     }
+    },
+    "path": "raw/2026/2026-11-16-kictanet-whatsapp-usernames-privacy-kenya.md",
+    "words": 2165
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "43c4dc986e",
+    "slug": "2026-07-29-sdn-suna-health-recovery-plan-endorsed-130-baladna-e-services",
+    "studies": {
+     "authentication": {
+      "SDN": 141
+     },
+     "birthidlink": {
+      "SDN": 162
+     },
+     "businesspayments": {
+      "SDN": 243
+     },
+     "centralbank": {
+      "SDN": 231
+     },
+     "consumerprotection": {
+      "SDN": 235
+     },
+     "coresystems": {
+      "SDN": 43
+     },
+     "crossborderpayments": {
+      "SDN": 232
+     },
+     "customs": {
+      "SDN": 45
+     },
+     "egovservices": {
+      "SDN": 119
+     },
+     "g2ppayments": {
+      "SDN": 240
+     },
+     "health": {
+      "SDN": 52
+     },
+     "healthmis": {
+      "SDN": 43
+     },
+     "idcoverage": {
+      "SDN": 123
+     },
+     "idfrombirth": {
+      "SDN": 161
+     },
+     "idmaintenance": {
+      "SDN": 124
+     },
+     "idregisters": {
+      "SDN": 126
+     },
+     "idrobustness": {
+      "SDN": 132
+     },
+     "paymentsuptake": {
+      "SDN": 230
+     },
+     "refugees": {
+      "SDN": 98
+     },
+     "retailpayments": {
+      "SDN": 229
+     },
+     "revenuecollection": {
+      "SDN": 236
+     }
+    },
+    "path": "raw/2026/2026-07-29-sdn-suna-health-recovery-plan-endorsed-130-baladna-e-services.md",
+    "words": 548
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "67cc8d2f04",
+    "slug": "2024-01-12-biometric-update-ethiopia-digital-id-wb-private-sector",
+    "studies": {
+     "authentication": {
+      "ETH": 449
+     },
+     "birthidlink": {
+      "ETH": 470
+     },
+     "businesspayments": {
+      "ETH": 472
+     },
+     "centralbank": {
+      "ETH": 460
+     },
+     "consumerprotection": {
+      "ETH": 473
+     },
+     "crossborderpayments": {
+      "ETH": 461
+     },
+     "dataexchange": {
+      "ETH": 47
+     },
+     "dataprotectionauthority": {
+      "ETH": 59
+     },
+     "dataprotectionlaw": {
+      "ETH": 209
+     },
+     "digitalstrategy": {
+      "ETH": 161
+     },
+     "g2ppayments": {
+      "ETH": 465
+     },
+     "idcoverage": {
+      "ETH": 413
+     },
+     "idfrombirth": {
+      "ETH": 470
+     },
+     "idmaintenance": {
+      "ETH": 419
+     },
+     "idregisters": {
+      "ETH": 413
+     },
+     "idrobustness": {
+      "ETH": 437
+     },
+     "nonstatefinance": {
+      "ETH": 134
+     },
+     "paymentsuptake": {
+      "ETH": 464
+     },
+     "refugees": {
+      "ETH": 155
+     },
+     "regionalpolicy": {
+      "ETH": 117
+     },
+     "retailpayments": {
+      "ETH": 459
+     },
+     "revenuecollection": {
+      "ETH": 471
+     }
+    },
+    "path": "raw/2024/2024-01-12-biometric-update-ethiopia-digital-id-wb-private-sector.md",
+    "words": 939
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "66a2b2053e",
+    "slug": "2026-07-29-sdn-almajd-230-e-health-services-digital-health-strategy",
+    "studies": {
+     "authentication": {
+      "SDN": 140
+     },
+     "birthidlink": {
+      "SDN": 161
+     },
+     "businesspayments": {
+      "SDN": 242
+     },
+     "centralbank": {
+      "SDN": 230
+     },
+     "consumerprotection": {
+      "SDN": 234
+     },
+     "crossborderpayments": {
+      "SDN": 231
+     },
+     "dataexchange": {
+      "SDN": 26
+     },
+     "digitalstrategy": {
+      "SDN": 55
+     },
+     "egovservices": {
+      "SDN": 118
+     },
+     "g2ppayments": {
+      "SDN": 239
+     },
+     "health": {
+      "SDN": 51
+     },
+     "healthmis": {
+      "SDN": 42
+     },
+     "idcoverage": {
+      "SDN": 122
+     },
+     "idfrombirth": {
+      "SDN": 160
+     },
+     "idmaintenance": {
+      "SDN": 123
+     },
+     "idregisters": {
+      "SDN": 125
+     },
+     "idrobustness": {
+      "SDN": 131
+     },
+     "paymentsuptake": {
+      "SDN": 229
+     },
+     "retailpayments": {
+      "SDN": 228
+     },
+     "revenuecollection": {
+      "SDN": 235
+     }
+    },
+    "path": "raw/2026/2026-07-29-sdn-almajd-230-e-health-services-digital-health-strategy.md",
+    "words": 433
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "1396f9b379",
+    "slug": "2025-08-05-roberts-decolonising-digital-public-infrastructure",
+    "studies": {
+     "authentication": {
+      "GHA": 480
+     },
+     "birthidlink": {
+      "GHA": 459
+     },
+     "businesspayments": {
+      "GHA": 635
+     },
+     "centralbank": {
+      "GHA": 629
+     },
+     "consumerprotection": {
+      "GHA": 663
+     },
+     "crossborderpayments": {
+      "GHA": 634
+     },
+     "dataprotectionlaw": {
+      "GHA": 350
+     },
+     "digitalsovereignty": {
+      "GHA": 156
+     },
+     "egovservices": {
+      "GHA": 144
+     },
+     "g2ppayments": {
+      "GHA": 639
+     },
+     "idcoverage": {
+      "GHA": 430
+     },
+     "idfrombirth": {
+      "GHA": 459
+     },
+     "idmaintenance": {
+      "GHA": 444
+     },
+     "idregisters": {
+      "GHA": 435
+     },
+     "idrobustness": {
+      "GHA": 485
+     },
+     "paymentsuptake": {
+      "GHA": 629
+     },
+     "policyresearch": {
+      "GHA": 247
+     },
+     "refugees": {
+      "GHA": 74
+     },
+     "retailpayments": {
+      "GHA": 627
+     },
+     "revenuecollection": {
+      "GHA": 644
+     },
+     "socialprotection": {
+      "GHA": 44
+     }
+    },
+    "path": "raw/2025/2025-08-05-roberts-decolonising-digital-public-infrastructure.md",
+    "words": 2097
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "8816d0b176",
+    "slug": "2023-12-21-bvn-nin-why-they-are-important-for-national-development",
+    "studies": {
+     "authentication": {
+      "NGA": 747
+     },
+     "birthidlink": {
+      "NGA": 716
+     },
+     "businesspayments": {
+      "NGA": 1007
+     },
+     "centralbank": {
+      "NGA": 999
+     },
+     "consumerprotection": {
+      "NGA": 1089
+     },
+     "crossborderpayments": {
+      "NGA": 1009
+     },
+     "digitalidlaw": {
+      "NGA": 95
+     },
+     "g2ppayments": {
+      "NGA": 1022
+     },
+     "idcoverage": {
+      "NGA": 679
+     },
+     "idfrombirth": {
+      "NGA": 716
+     },
+     "idmaintenance": {
+      "NGA": 714
+     },
+     "idregisters": {
+      "NGA": 694
+     },
+     "idrobustness": {
+      "NGA": 773
+     },
+     "idverification": {
+      "NGA": 257
+     },
+     "paymentsuptake": {
+      "NGA": 1004
+     },
+     "retailpayments": {
+      "NGA": 1000
+     },
+     "revenuecollection": {
+      "NGA": 1033
+     },
+     "socialprotection": {
+      "NGA": 77
+     }
+    },
+    "path": "raw/2023/2023-12-21-bvn-nin-why-they-are-important-for-national-development.md",
+    "words": 1133
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "2a79d852a6",
+    "slug": "2024-10-02-businessdaily-state-collects-sh127bn-ecitizen",
+    "studies": {
+     "authentication": {
+      "KEN": 602
+     },
+     "birthidlink": {
+      "KEN": 572
+     },
+     "businesspayments": {
+      "KEN": 904
+     },
+     "centralbank": {
+      "KEN": 883
+     },
+     "consumerprotection": {
+      "KEN": 963
+     },
+     "crossborderpayments": {
+      "KEN": 888
+     },
+     "egovservices": {
+      "KEN": 364
+     },
+     "g2ppayments": {
+      "KEN": 903
+     },
+     "idcoverage": {
+      "KEN": 525
+     },
+     "idfrombirth": {
+      "KEN": 572
+     },
+     "idmaintenance": {
+      "KEN": 550
+     },
+     "idregisters": {
+      "KEN": 535
+     },
+     "idrobustness": {
+      "KEN": 610
+     },
+     "itcapacity": {
+      "KEN": 235
+     },
+     "paymentsuptake": {
+      "KEN": 886
+     },
+     "retailpayments": {
+      "KEN": 881
+     },
+     "revenuecollection": {
+      "KEN": 904
+     }
+    },
+    "path": "raw/2024/2024-10-02-businessdaily-state-collects-sh127bn-ecitizen.md",
+    "words": 1024
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "c90dc07b91",
+    "slug": "2026-02-21-mrt-taqadoumy-emr-national-id-electronic-payment",
+    "studies": {
+     "authentication": {
+      "MRT": 174
+     },
+     "birthidlink": {
+      "MRT": 187
+     },
+     "businesspayments": {
+      "MRT": 189
+     },
+     "centralbank": {
+      "MRT": 179
+     },
+     "consumerprotection": {
+      "MRT": 193
+     },
+     "crossborderpayments": {
+      "MRT": 181
+     },
+     "g2ppayments": {
+      "MRT": 196
+     },
+     "health": {
+      "MRT": 39
+     },
+     "healthmis": {
+      "MRT": 31
+     },
+     "idcoverage": {
+      "MRT": 151
+     },
+     "idfrombirth": {
+      "MRT": 183
+     },
+     "idmaintenance": {
+      "MRT": 151
+     },
+     "idregisters": {
+      "MRT": 148
+     },
+     "idrobustness": {
+      "MRT": 164
+     },
+     "paymentsuptake": {
+      "MRT": 180
+     },
+     "retailpayments": {
+      "MRT": 180
+     },
+     "revenuecollection": {
+      "MRT": 188
+     }
+    },
+    "path": "raw/2026/2026-02-21-mrt-taqadoumy-emr-national-id-electronic-payment.md",
+    "words": 388
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "e6cbe2c7d9",
+    "slug": "2025-07-08-nin-verification-portal-downtime-banks-telcos-vanguard",
+    "studies": {
+     "authentication": {
+      "NGA": 736
+     },
+     "birthidlink": {
+      "NGA": 705
+     },
+     "businesspayments": {
+      "NGA": 1004
+     },
+     "centralbank": {
+      "NGA": 996
+     },
+     "consumerprotection": {
+      "NGA": 1086
+     },
+     "crossborderpayments": {
+      "NGA": 1006
+     },
+     "g2ppayments": {
+      "NGA": 1019
+     },
+     "idcoverage": {
+      "NGA": 668
+     },
+     "idfrombirth": {
+      "NGA": 705
+     },
+     "idmaintenance": {
+      "NGA": 703
+     },
+     "idregisters": {
+      "NGA": 683
+     },
+     "idrobustness": {
+      "NGA": 762
+     },
+     "idverification": {
+      "NGA": 249
+     },
+     "localrecords": {
+      "NGA": 45
+     },
+     "paymentsuptake": {
+      "NGA": 1001
+     },
+     "retailpayments": {
+      "NGA": 997
+     },
+     "revenuecollection": {
+      "NGA": 1030
+     }
+    },
+    "path": "raw/2025/2025-07-08-nin-verification-portal-downtime-banks-telcos-vanguard.md",
+    "words": 1334
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "62d785a202",
+    "slug": "2023-12-02-arise-cbn-freeze-accounts-without-bvn-nin",
+    "studies": {
+     "authentication": {
+      "NGA": 748
+     },
+     "birthidlink": {
+      "NGA": 717
+     },
+     "businesspayments": {
+      "NGA": 1008
+     },
+     "centralbank": {
+      "NGA": 1000
+     },
+     "consumerprotection": {
+      "NGA": 1090
+     },
+     "crossborderpayments": {
+      "NGA": 1010
+     },
+     "g2ppayments": {
+      "NGA": 1023
+     },
+     "idcoverage": {
+      "NGA": 680
+     },
+     "idfrombirth": {
+      "NGA": 717
+     },
+     "idmaintenance": {
+      "NGA": 715
+     },
+     "idregisters": {
+      "NGA": 695
+     },
+     "idrobustness": {
+      "NGA": 774
+     },
+     "idverification": {
+      "NGA": 248
+     },
+     "paymentsuptake": {
+      "NGA": 1005
+     },
+     "retailpayments": {
+      "NGA": 1001
+     },
+     "revenuecollection": {
+      "NGA": 1034
+     }
+    },
+    "path": "raw/2023/2023-12-02-arise-cbn-freeze-accounts-without-bvn-nin.md",
+    "words": 610
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "32be225a56",
+    "slug": "2026-11-15-civ-digitalmag-anssi-pki-racine-signature-electronique",
+    "studies": {
+     "authentication": {
+      "CIV": 297
+     },
+     "birthidlink": {
+      "CIV": 326
+     },
+     "civilregister": {
+      "CIV": 167
+     },
+     "cybersecurity": {
+      "CIV": 131
+     },
+     "digitalsovereignty": {
+      "CIV": 176
+     },
+     "ecommercelaw": {
+      "CIV": 82
+     },
+     "idcoverage": {
+      "CIV": 273
+     },
+     "idfrombirth": {
+      "CIV": 326
+     },
+     "idmaintenance": {
+      "CIV": 269
+     },
+     "idregisters": {
+      "CIV": 261
+     },
+     "idrobustness": {
+      "CIV": 306
+     },
+     "localgov": {
+      "CIV": 190
+     },
+     "registry": {
+      "CIV": 191
+     }
+    },
+    "path": "raw/2026/2026-11-15-civ-digitalmag-anssi-pki-racine-signature-electronique.md",
+    "words": 861
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "2afd2123b3",
+    "slug": "2024-11-12-cipit-ethiopia-pdpp-2024-digital-identity",
+    "studies": {
+     "authentication": {
+      "ETH": 446
+     },
+     "birthidlink": {
+      "ETH": 467
+     },
+     "civilregister": {
+      "ETH": 159
+     },
+     "dataprotectionlaw": {
+      "ETH": 207
+     },
+     "digitalidlaw": {
+      "ETH": 24
+     },
+     "digitalsovereignty": {
+      "ETH": 137
+     },
+     "egovservices": {
+      "ETH": 141
+     },
+     "idcoverage": {
+      "ETH": 410
+     },
+     "idfrombirth": {
+      "ETH": 467
+     },
+     "idmaintenance": {
+      "ETH": 416
+     },
+     "idregisters": {
+      "ETH": 410
+     },
+     "idrobustness": {
+      "ETH": 434
+     },
+     "registry": {
+      "ETH": 179
+     }
+    },
+    "path": "raw/2024/2024-11-12-cipit-ethiopia-pdpp-2024-digital-identity.md",
+    "words": 2114
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "55f60a46af",
+    "slug": "2026-11-13-stp-glebatv-biometric-kits-five-embassies-diaspora-id",
+    "studies": {
+     "authentication": {
+      "STP": 86
+     },
+     "birthidlink": {
+      "STP": 109
+     },
+     "civilregister": {
+      "STP": 79
+     },
+     "dataprotectionlaw": {
+      "STP": 93
+     },
+     "idcoverage": {
+      "STP": 78
+     },
+     "idfrombirth": {
+      "STP": 109
+     },
+     "idmaintenance": {
+      "STP": 79
+     },
+     "idregisters": {
+      "STP": 78
+     },
+     "idrobustness": {
+      "STP": 87
+     },
+     "registry": {
+      "STP": 93
+     }
+    },
+    "path": "raw/2026/2026-11-13-stp-glebatv-biometric-kits-five-embassies-diaspora-id.md",
+    "words": 665
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "9a0bf69959",
+    "slug": "2024-12-08-addis-fortune-national-id-limited-acceptance-printing-quality",
+    "studies": {
+     "authentication": {
+      "ETH": 444
+     },
+     "birthidlink": {
+      "ETH": 465
+     },
+     "civilregister": {
+      "ETH": 158
+     },
+     "digitalidlaw": {
+      "ETH": 23
+     },
+     "idcoverage": {
+      "ETH": 408
+     },
+     "idfrombirth": {
+      "ETH": 465
+     },
+     "idmaintenance": {
+      "ETH": 414
+     },
+     "idregisters": {
+      "ETH": 408
+     },
+     "idrobustness": {
+      "ETH": 432
+     },
+     "idverification": {
+      "ETH": 127
+     },
+     "registry": {
+      "ETH": 178
+     }
+    },
+    "path": "raw/2024/2024-12-08-addis-fortune-national-id-limited-acceptance-printing-quality.md",
+    "words": 1647
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "2a2fc94ded",
+    "slug": "2024-09-15-nation-national-id-chaos-threatens-voter-registration",
+    "studies": {
+     "authentication": {
+      "MWI": 272
+     },
+     "birthidlink": {
+      "MWI": 277
+     },
+     "civilregister": {
+      "MWI": 133
+     },
+     "electoralregister": {
+      "MWI": 48
+     },
+     "idcoverage": {
+      "MWI": 249
+     },
+     "idfrombirth": {
+      "MWI": 277
+     },
+     "idmaintenance": {
+      "MWI": 256
+     },
+     "idregisters": {
+      "MWI": 254
+     },
+     "idrobustness": {
+      "MWI": 274
+     },
+     "localgov": {
+      "MWI": 176
+     },
+     "registry": {
+      "MWI": 152
+     }
+    },
+    "path": "raw/2024/2024-09-15-nation-national-id-chaos-threatens-voter-registration.md",
+    "words": 1260
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "5559b6be49",
+    "slug": "2024-10-25-addis-standard-unhcr-refugee-children-unregistered",
+    "studies": {
+     "authentication": {
+      "ETH": 452
+     },
+     "birthidlink": {
+      "ETH": 473
+     },
+     "civilregister": {
+      "ETH": 160
+     },
+     "idcoverage": {
+      "ETH": 416
+     },
+     "idfrombirth": {
+      "ETH": 473
+     },
+     "idmaintenance": {
+      "ETH": 422
+     },
+     "idregisters": {
+      "ETH": 416
+     },
+     "idrobustness": {
+      "ETH": 441
+     },
+     "refugees": {
+      "ETH": 152
+     },
+     "registry": {
+      "ETH": 180
+     }
+    },
+    "path": "raw/2024/2024-10-25-addis-standard-unhcr-refugee-children-unregistered.md",
+    "words": 419
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "8496280bac",
+    "slug": "2023-11-29-ega-benin-staying-on-top-of-digital-transformation",
+    "studies": {
+     "authentication": {
+      "BEN": 290
+     },
+     "birthidlink": {
+      "BEN": 299
+     },
+     "civilserviceskills": {
+      "BEN": 171
+     },
+     "dataexchange": {
+      "BEN": 83
+     },
+     "egovservices": {
+      "BEN": 171
+     },
+     "idcoverage": {
+      "BEN": 266
+     },
+     "idfrombirth": {
+      "BEN": 299
+     },
+     "idmaintenance": {
+      "BEN": 268
+     },
+     "idregisters": {
+      "BEN": 260
+     },
+     "idrobustness": {
+      "BEN": 298
+     },
+     "itcapacity": {
+      "BEN": 137
+     }
+    },
+    "path": "raw/2023/2023-11-29-ega-benin-staying-on-top-of-digital-transformation.md",
+    "words": 961
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "d0ab63074a",
+    "slug": "2024-10-01-information-development-digital-inequalities-smallholder-farmers-benin",
+    "studies": {
+     "authentication": {
+      "BEN": 289
+     },
+     "birthidlink": {
+      "BEN": 298
+     },
+     "civilserviceskills": {
+      "BEN": 170
+     },
+     "digitalskills": {
+      "BEN": 129
+     },
+     "idcoverage": {
+      "BEN": 265
+     },
+     "idfrombirth": {
+      "BEN": 298
+     },
+     "idmaintenance": {
+      "BEN": 267
+     },
+     "idregisters": {
+      "BEN": 259
+     },
+     "idrobustness": {
+      "BEN": 297
+     }
+    },
+    "path": "raw/2024/2024-10-01-information-development-digital-inequalities-smallholder-farmers-benin.md",
+    "words": 363
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "b1f69cb9c5",
+    "slug": "2024-12-20-idtechwire-giz-benin-digital-identity-eservices-tender",
+    "studies": {
+     "authentication": {
+      "BEN": 285
+     },
+     "birthidlink": {
+      "BEN": 293
+     },
+     "civilserviceskills": {
+      "BEN": 169
+     },
+     "egovservices": {
+      "BEN": 169
+     },
+     "idcoverage": {
+      "BEN": 261
+     },
+     "idfrombirth": {
+      "BEN": 293
+     },
+     "idmaintenance": {
+      "BEN": 263
+     },
+     "idregisters": {
+      "BEN": 255
+     },
+     "idrobustness": {
+      "BEN": 292
+     },
+     "idverification": {
+      "BEN": 73
+     },
+     "itcapacity": {
+      "BEN": 136
+     },
+     "nonstatefinance": {
+      "BEN": 101
+     },
+     "populationregister": {
+      "BEN": 100
+     },
+     "registry": {
+      "BEN": 169
+     }
+    },
+    "path": "raw/2024/2024-12-20-idtechwire-giz-benin-digital-identity-eservices-tender.md",
+    "words": 483
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "703f0ea0da",
+    "slug": "2025-08-08-fij-nincard-illegally-provided-id-services-nimc",
+    "studies": {
+     "authentication": {
+      "NGA": 732
+     },
+     "birthidlink": {
+      "NGA": 701
+     },
+     "cybersecuritylaw": {
+      "NGA": 109
+     },
+     "dataprotectionlaw": {
+      "NGA": 556
+     },
+     "digitalidlaw": {
+      "NGA": 94
+     },
+     "idcoverage": {
+      "NGA": 664
+     },
+     "idfrombirth": {
+      "NGA": 701
+     },
+     "idmaintenance": {
+      "NGA": 699
+     },
+     "idregisters": {
+      "NGA": 679
+     },
+     "idrobustness": {
+      "NGA": 758
+     },
+     "idverification": {
+      "NGA": 254
+     }
+    },
+    "path": "raw/2025/2025-08-08-fij-nincard-illegally-provided-id-services-nimc.md",
+    "words": 967
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "adbf5151e8",
+    "slug": "2025-01-26-shega-data-centre-oversight-eca",
+    "studies": {
+     "authentication": {
+      "ETH": 451
+     },
+     "birthidlink": {
+      "ETH": 472
+     },
+     "datacentres": {
+      "ETH": 230
+     },
+     "dataprotectionlaw": {
+      "ETH": 208
+     },
+     "gendergap": {
+      "ETH": 49
+     },
+     "gridreliability": {
+      "ETH": 51
+     },
+     "idcoverage": {
+      "ETH": 415
+     },
+     "idfrombirth": {
+      "ETH": 472
+     },
+     "idmaintenance": {
+      "ETH": 421
+     },
+     "idregisters": {
+      "ETH": 415
+     },
+     "idrobustness": {
+      "ETH": 440
+     },
+     "nationaldatacentres": {
+      "ETH": 238
+     },
+     "opendiscussion": {
+      "ETH": 76
+     }
+    },
+    "path": "raw/2025/2025-01-26-shega-data-centre-oversight-eca.md",
+    "words": 613
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "e0e6a4560f",
+    "slug": "2026-11-16-gov-bw-shared-digital-services",
+    "studies": {
+     "authentication": {
+      "BWA": 159
+     },
+     "birthidlink": {
+      "BWA": 155
+     },
+     "datacentres": {
+      "BWA": 129
+     },
+     "idcoverage": {
+      "BWA": 134
+     },
+     "idfrombirth": {
+      "BWA": 155
+     },
+     "idmaintenance": {
+      "BWA": 138
+     },
+     "idregisters": {
+      "BWA": 135
+     },
+     "idrobustness": {
+      "BWA": 161
+     },
+     "nationaldatacentres": {
+      "BWA": 130
+     }
+    },
+    "path": "raw/2026/2026-11-16-gov-bw-shared-digital-services.md",
+    "words": 941
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "f160c8b779",
+    "slug": "2024-06-22-nimc-denies-data-breach-allegations-to-prosecute-harvesters",
+    "studies": {
+     "authentication": {
+      "NGA": 745
+     },
+     "birthidlink": {
+      "NGA": 714
+     },
+     "dataprotectionauthority": {
+      "NGA": 224
+     },
+     "dataprotectionlaw": {
+      "NGA": 560
+     },
+     "idcoverage": {
+      "NGA": 677
+     },
+     "idfrombirth": {
+      "NGA": 714
+     },
+     "idmaintenance": {
+      "NGA": 712
+     },
+     "idregisters": {
+      "NGA": 692
+     },
+     "idrobustness": {
+      "NGA": 771
+     },
+     "internationalstandards": {
+      "NGA": 197
+     },
+     "qualitystandards": {
+      "NGA": 123
+     }
+    },
+    "path": "raw/2024/2024-06-22-nimc-denies-data-breach-allegations-to-prosecute-harvesters.md",
+    "words": 479
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "21c9972406",
+    "slug": "2024-06-21-nairametrics-website-selling-nin-bvn-data-n100",
+    "studies": {
+     "authentication": {
+      "NGA": 746
+     },
+     "birthidlink": {
+      "NGA": 715
+     },
+     "dataprotectionauthority": {
+      "NGA": 225
+     },
+     "dataprotectionlaw": {
+      "NGA": 561
+     },
+     "idcoverage": {
+      "NGA": 678
+     },
+     "idfrombirth": {
+      "NGA": 715
+     },
+     "idmaintenance": {
+      "NGA": 713
+     },
+     "idregisters": {
+      "NGA": 693
+     },
+     "idrobustness": {
+      "NGA": 772
+     },
+     "policyresearch": {
+      "NGA": 349
+     }
+    },
+    "path": "raw/2024/2024-06-21-nairametrics-website-selling-nin-bvn-data-n100.md",
+    "words": 745
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "13bc4e46e6",
+    "slug": "2024-06-24-fij-minister-tijani-nin-slip-purchased-online-n100",
+    "studies": {
+     "authentication": {
+      "NGA": 744
+     },
+     "birthidlink": {
+      "NGA": 713
+     },
+     "dataprotectionauthority": {
+      "NGA": 223
+     },
+     "dataprotectionlaw": {
+      "NGA": 559
+     },
+     "idcoverage": {
+      "NGA": 676
+     },
+     "idfrombirth": {
+      "NGA": 713
+     },
+     "idmaintenance": {
+      "NGA": 711
+     },
+     "idregisters": {
+      "NGA": 691
+     },
+     "idrobustness": {
+      "NGA": 770
+     },
+     "policyresearch": {
+      "NGA": 348
+     }
+    },
+    "path": "raw/2024/2024-06-24-fij-minister-tijani-nin-slip-purchased-online-n100.md",
+    "words": 609
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "8bb98a11bf",
+    "slug": "2024-01-31-amnesty-kenya-advisory-paper-rights-respecting-digital-id",
+    "studies": {
+     "authentication": {
+      "KEN": 587
+     },
+     "birthidlink": {
+      "KEN": 557
+     },
+     "dataprotectionlaw": {
+      "KEN": 539
+     },
+     "dataprotectionreadiness": {
+      "KEN": 137
+     },
+     "idcoverage": {
+      "KEN": 511
+     },
+     "idfrombirth": {
+      "KEN": 557
+     },
+     "idmaintenance": {
+      "KEN": 535
+     },
+     "idregisters": {
+      "KEN": 520
+     },
+     "idrobustness": {
+      "KEN": 593
+     }
+    },
+    "path": "raw/2024/2024-01-31-amnesty-kenya-advisory-paper-rights-respecting-digital-id.md",
+    "words": 374
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "21c0b74e8d",
+    "slug": "2025-09-21-lapresse-carte-identite-biometrique-lancement",
+    "studies": {
+     "authentication": {
+      "TUN": 197
+     },
+     "birthidlink": {
+      "TUN": 186
+     },
+     "dataprotectionlaw": {
+      "TUN": 189
+     },
+     "digitalidlaw": {
+      "TUN": 18
+     },
+     "idcoverage": {
+      "TUN": 164
+     },
+     "idfrombirth": {
+      "TUN": 186
+     },
+     "idmaintenance": {
+      "TUN": 165
+     },
+     "idregisters": {
+      "TUN": 162
+     },
+     "idrobustness": {
+      "TUN": 180
+     }
+    },
+    "path": "raw/2025/2025-09-21-lapresse-carte-identite-biometrique-lancement.md",
+    "words": 392
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "4bcb6a5a4f",
+    "slug": "2024-03-01-businessdaily-ayugi-ecitizen-sh50-fee",
+    "studies": {
+     "authentication": {
+      "KEN": 603
+     },
+     "birthidlink": {
+      "KEN": 573
+     },
+     "dataprotectionlaw": {
+      "KEN": 538
+     },
+     "egovservices": {
+      "KEN": 365
+     },
+     "idcoverage": {
+      "KEN": 526
+     },
+     "idfrombirth": {
+      "KEN": 573
+     },
+     "idmaintenance": {
+      "KEN": 551
+     },
+     "idregisters": {
+      "KEN": 536
+     },
+     "idrobustness": {
+      "KEN": 611
+     },
+     "itcapacity": {
+      "KEN": 236
+     }
+    },
+    "path": "raw/2024/2024-03-01-businessdaily-ayugi-ecitizen-sh50-fee.md",
+    "words": 1259
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "9606ff7d43",
+    "slug": "2024-04-26-mmegi-botswana-digital-divide-internet-access",
+    "studies": {
+     "authentication": {
+      "BWA": 161
+     },
+     "birthidlink": {
+      "BWA": 157
+     },
+     "digitaldivides": {
+      "BWA": 108
+     },
+     "idcoverage": {
+      "BWA": 136
+     },
+     "idfrombirth": {
+      "BWA": 157
+     },
+     "idmaintenance": {
+      "BWA": 140
+     },
+     "idregisters": {
+      "BWA": 137
+     },
+     "idrobustness": {
+      "BWA": 163
+     }
+    },
+    "path": "raw/2024/2024-04-26-mmegi-botswana-digital-divide-internet-access.md",
+    "words": 608
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "3cfad27943",
+    "slug": "2025-09-16-mli-digitalisation-de-la-sante-l-antim-presente-openclinic-devant-le-comit",
+    "studies": {
+     "authentication": {
+      "MLI": 182
+     },
+     "birthidlink": {
+      "MLI": 205
+     },
+     "digitalidlaw": {
+      "MLI": 49
+     },
+     "digitalsovereignty": {
+      "MLI": 101
+     },
+     "idcoverage": {
+      "MLI": 174
+     },
+     "idfrombirth": {
+      "MLI": 205
+     },
+     "idmaintenance": {
+      "MLI": 171
+     },
+     "idregisters": {
+      "MLI": 167
+     },
+     "idrobustness": {
+      "MLI": 194
+     },
+     "itcapacity": {
+      "MLI": 86
+     },
+     "schoolinternet": {
+      "MLI": 191
+     }
+    },
+    "path": "raw/2025/2025-09-16-mli-digitalisation-de-la-sante-l-antim-presente-openclinic-devant-le-comit.md",
+    "words": 352
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "53ace6ed21",
+    "slug": "2025-08-19-fij-ilotech-vtu-platform-nin-records-keyamo-kalu",
+    "studies": {
+     "authentication": {
+      "NGA": 730
+     },
+     "birthidlink": {
+      "NGA": 699
+     },
+     "digitalidlaw": {
+      "NGA": 92
+     },
+     "idcoverage": {
+      "NGA": 662
+     },
+     "idfrombirth": {
+      "NGA": 699
+     },
+     "idmaintenance": {
+      "NGA": 697
+     },
+     "idregisters": {
+      "NGA": 677
+     },
+     "idrobustness": {
+      "NGA": 756
+     },
+     "idverification": {
+      "NGA": 253
+     }
+    },
+    "path": "raw/2025/2025-08-19-fij-ilotech-vtu-platform-nin-records-keyamo-kalu.md",
+    "words": 1192
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "35cc0ff3c7",
+    "slug": "2024-09-29-biometric-update-laxton-ethiopia-90m-digital-id",
+    "studies": {
+     "authentication": {
+      "ETH": 447
+     },
+     "birthidlink": {
+      "ETH": 468
+     },
+     "digitalstrategy": {
+      "ETH": 160
+     },
+     "electoralregister": {
+      "ETH": 24
+     },
+     "idcoverage": {
+      "ETH": 411
+     },
+     "idfrombirth": {
+      "ETH": 468
+     },
+     "idmaintenance": {
+      "ETH": 417
+     },
+     "idregisters": {
+      "ETH": 411
+     },
+     "idrobustness": {
+      "ETH": 435
+     },
+     "internationalstandards": {
+      "ETH": 114
+     }
+    },
+    "path": "raw/2024/2024-09-29-biometric-update-laxton-ethiopia-90m-digital-id.md",
+    "words": 588
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "3d1a3b2264",
+    "slug": "2026-11-16-mtc-mobile-id-faq",
+    "studies": {
+     "authentication": {
+      "TUN": 194
+     },
+     "birthidlink": {
+      "TUN": 183
+     },
+     "ecommercelaw": {
+      "TUN": 84
+     },
+     "egovservices": {
+      "TUN": 179
+     },
+     "idcoverage": {
+      "TUN": 161
+     },
+     "idfrombirth": {
+      "TUN": 183
+     },
+     "idmaintenance": {
+      "TUN": 162
+     },
+     "idregisters": {
+      "TUN": 159
+     },
+     "idrobustness": {
+      "TUN": 178
+     },
+     "idverification": {
+      "TUN": 46
+     },
+     "interoperabilitylaw": {
+      "TUN": 42
+     },
+     "itcapacity": {
+      "TUN": 74
+     }
+    },
+    "path": "raw/2026/2026-11-16-mtc-mobile-id-faq.md",
+    "words": 2551
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "e3691944ed",
+    "slug": "2025-11-05-africanmanager-carte-identite-nationale-a-distance",
+    "studies": {
+     "authentication": {
+      "TUN": 196
+     },
+     "birthidlink": {
+      "TUN": 185
+     },
+     "egovservices": {
+      "TUN": 180
+     },
+     "idcoverage": {
+      "TUN": 163
+     },
+     "idfrombirth": {
+      "TUN": 185
+     },
+     "idmaintenance": {
+      "TUN": 164
+     },
+     "idregisters": {
+      "TUN": 161
+     },
+     "idrobustness": {
+      "TUN": 179
+     }
+    },
+    "path": "raw/2025/2025-11-05-africanmanager-carte-identite-nationale-a-distance.md",
+    "words": 295
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "de142acc8c",
+    "slug": "2023-12-23-standard-treasury-gazettes-new-ecitizen-fees",
+    "studies": {
+     "authentication": {
+      "KEN": 604
+     },
+     "birthidlink": {
+      "KEN": 574
+     },
+     "egovservices": {
+      "KEN": 366
+     },
+     "idcoverage": {
+      "KEN": 527
+     },
+     "idfrombirth": {
+      "KEN": 574
+     },
+     "idmaintenance": {
+      "KEN": 552
+     },
+     "idregisters": {
+      "KEN": 537
+     },
+     "idrobustness": {
+      "KEN": 612
+     },
+     "itcapacity": {
+      "KEN": 237
+     }
+    },
+    "path": "raw/2023/2023-12-23-standard-treasury-gazettes-new-ecitizen-fees.md",
+    "words": 219
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "e18b15f6cf",
+    "slug": "2026-03-25-zmb-smart-zambia-pushes-to-eliminate-paper-patient-files-to-electronic-hea",
+    "studies": {
+     "authentication": {
+      "ZMB": 256
+     },
+     "birthidlink": {
+      "ZMB": 261
+     },
+     "egovservices": {
+      "ZMB": 178
+     },
+     "idcoverage": {
+      "ZMB": 218
+     },
+     "idfrombirth": {
+      "ZMB": 261
+     },
+     "idmaintenance": {
+      "ZMB": 228
+     },
+     "idregisters": {
+      "ZMB": 223
+     },
+     "idrobustness": {
+      "ZMB": 250
+     },
+     "itcapacity": {
+      "ZMB": 247
+     },
+     "revenuecollection": {
+      "ZMB": 349
+     }
+    },
+    "path": "raw/2026/2026-03-25-zmb-smart-zambia-pushes-to-eliminate-paper-patient-files-to-electronic-hea.md",
+    "words": 517
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "12f3df8d7a",
+    "slug": "2026-11-16-kra-what-is-etims",
+    "studies": {
+     "authentication": {
+      "KEN": 599
+     },
+     "birthidlink": {
+      "KEN": 569
+     },
+     "egovservices": {
+      "KEN": 368
+     },
+     "idcoverage": {
+      "KEN": 522
+     },
+     "idfrombirth": {
+      "KEN": 569
+     },
+     "idmaintenance": {
+      "KEN": 547
+     },
+     "idregisters": {
+      "KEN": 532
+     },
+     "idrobustness": {
+      "KEN": 606
+     },
+     "revenuecollection": {
+      "KEN": 899
+     },
+     "taxadmin": {
+      "KEN": 77
+     }
+    },
+    "path": "raw/2026/2026-11-16-kra-what-is-etims.md",
+    "words": 584
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "35490768ac",
+    "slug": "2024-02-09-do-rosario-guambe-decentralising-fraud-mozambique-2019",
+    "studies": {
+     "authentication": {
+      "MOZ": 209
+     },
+     "birthidlink": {
+      "MOZ": 227
+     },
+     "electoralregister": {
+      "MOZ": 36
+     },
+     "idcoverage": {
+      "MOZ": 180
+     },
+     "idfrombirth": {
+      "MOZ": 227
+     },
+     "idmaintenance": {
+      "MOZ": 187
+     },
+     "idregisters": {
+      "MOZ": 188
+     },
+     "idrobustness": {
+      "MOZ": 215
+     }
+    },
+    "path": "raw/2024/2024-02-09-do-rosario-guambe-decentralising-fraud-mozambique-2019.md",
+    "words": 324
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "846a0942fc",
+    "slug": "2026-11-16-iebc-biometric-voter-registration-bvr",
+    "studies": {
+     "authentication": {
+      "KEN": 595
+     },
+     "birthidlink": {
+      "KEN": 565
+     },
+     "electoralregister": {
+      "KEN": 84
+     },
+     "idcoverage": {
+      "KEN": 518
+     },
+     "idfrombirth": {
+      "KEN": 565
+     },
+     "idmaintenance": {
+      "KEN": 543
+     },
+     "idregisters": {
+      "KEN": 528
+     },
+     "idrobustness": {
+      "KEN": 591
+     }
+    },
+    "path": "raw/2026/2026-11-16-iebc-biometric-voter-registration-bvr.md",
+    "words": 797
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "e0902915cf",
+    "slug": "2026-11-16-iebc-electronic-voter-identification-evid",
+    "studies": {
+     "authentication": {
+      "KEN": 596
+     },
+     "birthidlink": {
+      "KEN": 566
+     },
+     "electoralregister": {
+      "KEN": 86
+     },
+     "idcoverage": {
+      "KEN": 519
+     },
+     "idfrombirth": {
+      "KEN": 566
+     },
+     "idmaintenance": {
+      "KEN": 544
+     },
+     "idregisters": {
+      "KEN": 529
+     },
+     "idrobustness": {
+      "KEN": 603
+     }
+    },
+    "path": "raw/2026/2026-11-16-iebc-electronic-voter-identification-evid.md",
+    "words": 255
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "cd5ff6bae3",
+    "slug": "2026-11-13-lbr-us-52m-id-deal-faces-fresh-scrutiny",
+    "studies": {
+     "authentication": {
+      "LBR": 225
+     },
+     "birthidlink": {
+      "LBR": 227
+     },
+     "electoralregister": {
+      "LBR": 52
+     },
+     "idcoverage": {
+      "LBR": 202
+     },
+     "idfrombirth": {
+      "LBR": 227
+     },
+     "idmaintenance": {
+      "LBR": 207
+     },
+     "idregisters": {
+      "LBR": 207
+     },
+     "idrobustness": {
+      "LBR": 231
+     },
+     "itcapacity": {
+      "LBR": 53
+     },
+     "nonstatefinance": {
+      "LBR": 89
+     },
+     "publicconsultation": {
+      "LBR": 156
+     },
+     "registry": {
+      "LBR": 111
+     }
+    },
+    "path": "raw/2026/2026-11-13-lbr-us-52m-id-deal-faces-fresh-scrutiny.md",
+    "words": 1324
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "23ce80af6d",
+    "slug": "2024-04-15-nyasatimes-mls-fears-compulsory-national-id-voting",
+    "studies": {
+     "authentication": {
+      "MWI": 273
+     },
+     "birthidlink": {
+      "MWI": 278
+     },
+     "electoralregister": {
+      "MWI": 50
+     },
+     "idcoverage": {
+      "MWI": 250
+     },
+     "idfrombirth": {
+      "MWI": 278
+     },
+     "idmaintenance": {
+      "MWI": 257
+     },
+     "idregisters": {
+      "MWI": 255
+     },
+     "idrobustness": {
+      "MWI": 275
+     },
+     "localgov": {
+      "MWI": 177
+     }
+    },
+    "path": "raw/2024/2024-04-15-nyasatimes-mls-fears-compulsory-national-id-voting.md",
+    "words": 689
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "c56f6838c4",
+    "slug": "2026-11-16-gov-bw-voter-registration-omang-requirement",
+    "studies": {
+     "authentication": {
+      "BWA": 160
+     },
+     "birthidlink": {
+      "BWA": 156
+     },
+     "electoralregister": {
+      "BWA": 28
+     },
+     "idcoverage": {
+      "BWA": 135
+     },
+     "idfrombirth": {
+      "BWA": 156
+     },
+     "idmaintenance": {
+      "BWA": 139
+     },
+     "idregisters": {
+      "BWA": 136
+     },
+     "idrobustness": {
+      "BWA": 162
+     },
+     "localgov": {
+      "BWA": 110
+     }
+    },
+    "path": "raw/2026/2026-11-16-gov-bw-voter-registration-omang-requirement.md",
+    "words": 629
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "fbaff45bc1",
+    "slug": "2024-10-26-nation-court-allows-mec-to-require-ids",
+    "studies": {
+     "authentication": {
+      "MWI": 276
+     },
+     "birthidlink": {
+      "MWI": 281
+     },
+     "electoralregister": {
+      "MWI": 49
+     },
+     "idcoverage": {
+      "MWI": 253
+     },
+     "idfrombirth": {
+      "MWI": 281
+     },
+     "idmaintenance": {
+      "MWI": 260
+     },
+     "idregisters": {
+      "MWI": 258
+     },
+     "idrobustness": {
+      "MWI": 278
+     },
+     "localgov": {
+      "MWI": 175
+     },
+     "registry": {
+      "MWI": 151
+     }
+    },
+    "path": "raw/2024/2024-10-26-nation-court-allows-mec-to-require-ids.md",
+    "words": 834
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "7bde497fd7",
+    "slug": "2026-11-16-nimc-digital-identity-ecosystem",
+    "studies": {
+     "authentication": {
+      "NGA": 729
+     },
+     "birthidlink": {
+      "NGA": 698
+     },
+     "g2ppayments": {
+      "NGA": 1017
+     },
+     "idcoverage": {
+      "NGA": 661
+     },
+     "idfrombirth": {
+      "NGA": 698
+     },
+     "idmaintenance": {
+      "NGA": 696
+     },
+     "idregisters": {
+      "NGA": 676
+     },
+     "idrobustness": {
+      "NGA": 755
+     },
+     "idverification": {
+      "NGA": 252
+     },
+     "localgov": {
+      "NGA": 312
+     },
+     "police": {
+      "NGA": 92
+     },
+     "registry": {
+      "NGA": 179
+     },
+     "socialprotection": {
+      "NGA": 76
+     }
+    },
+    "path": "raw/2026/2026-11-16-nimc-digital-identity-ecosystem.md",
+    "words": 1128
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "2da1fc057e",
+    "slug": "2025-10-28-gab-identifiant-unique-vers-une-modernisation-numerique-des-soins-au-gabon",
+    "studies": {
+     "authentication": {
+      "GAB": 162
+     },
+     "birthidlink": {
+      "GAB": 173
+     },
+     "gridreliability": {
+      "GAB": 28
+     },
+     "health": {
+      "GAB": 71
+     },
+     "idcoverage": {
+      "GAB": 162
+     },
+     "idfrombirth": {
+      "GAB": 176
+     },
+     "idmaintenance": {
+      "GAB": 152
+     },
+     "idregisters": {
+      "GAB": 150
+     },
+     "idrobustness": {
+      "GAB": 171
+     }
+    },
+    "path": "raw/2025/2025-10-28-gab-identifiant-unique-vers-une-modernisation-numerique-des-soins-au-gabon.md",
+    "words": 466
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "5b1ad20e73",
+    "slug": "2025-11-01-moz-m-e-system-vulnerabilities-and-steps-towards-resiliency-mozambique",
+    "studies": {
+     "authentication": {
+      "MOZ": 207
+     },
+     "birthidlink": {
+      "MOZ": 224
+     },
+     "health": {
+      "MOZ": 78
+     },
+     "healthmis": {
+      "MOZ": 70
+     },
+     "idcoverage": {
+      "MOZ": 178
+     },
+     "idfrombirth": {
+      "MOZ": 224
+     },
+     "idmaintenance": {
+      "MOZ": 185
+     },
+     "idregisters": {
+      "MOZ": 186
+     },
+     "idrobustness": {
+      "MOZ": 213
+     }
+    },
+    "path": "raw/2025/2025-11-01-moz-m-e-system-vulnerabilities-and-steps-towards-resiliency-mozambique.md",
+    "words": 1624
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "a2e2c9d814",
+    "slug": "2024-11-04-mwi-data-for-the-people-digital-health-in-malawi",
+    "studies": {
+     "authentication": {
+      "MWI": 275
+     },
+     "birthidlink": {
+      "MWI": 280
+     },
+     "health": {
+      "MWI": 82
+     },
+     "healthmis": {
+      "MWI": 68
+     },
+     "idcoverage": {
+      "MWI": 252
+     },
+     "idfrombirth": {
+      "MWI": 280
+     },
+     "idmaintenance": {
+      "MWI": 259
+     },
+     "idregisters": {
+      "MWI": 257
+     },
+     "idrobustness": {
+      "MWI": 277
+     },
+     "landadmin": {
+      "MWI": 22
+     }
+    },
+    "path": "raw/2024/2024-11-04-mwi-data-for-the-people-digital-health-in-malawi.md",
+    "words": 1900
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "932828e511",
+    "slug": "2023-12-11-dza-secteur-de-la-sante-la-totale-numerisation-prevue-fin-2023",
+    "studies": {
+     "authentication": {
+      "DZA": 149
+     },
+     "birthidlink": {
+      "DZA": 159
+     },
+     "health": {
+      "DZA": 46
+     },
+     "idcoverage": {
+      "DZA": 120
+     },
+     "idfrombirth": {
+      "DZA": 154
+     },
+     "idmaintenance": {
+      "DZA": 123
+     },
+     "idregisters": {
+      "DZA": 121
+     },
+     "idrobustness": {
+      "DZA": 147
+     },
+     "schoolinternet": {
+      "DZA": 166
+     }
+    },
+    "path": "raw/2023/2023-12-11-dza-secteur-de-la-sante-la-totale-numerisation-prevue-fin-2023.md",
+    "words": 486
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "a411e8513b",
+    "slug": "2024-11-18-mli-faisabilite-des-etudes-pharmacoepidemiologiques-a-partir-des-donnees-c",
+    "studies": {
+     "authentication": {
+      "MLI": 183
+     },
+     "birthidlink": {
+      "MLI": 206
+     },
+     "healthexchange": {
+      "MLI": 21
+     },
+     "idcoverage": {
+      "MLI": 175
+     },
+     "idfrombirth": {
+      "MLI": 206
+     },
+     "idmaintenance": {
+      "MLI": 172
+     },
+     "idregisters": {
+      "MLI": 168
+     },
+     "idrobustness": {
+      "MLI": 195
+     }
+    },
+    "path": "raw/2024/2024-11-18-mli-faisabilite-des-etudes-pharmacoepidemiologiques-a-partir-des-donnees-c.md",
+    "words": 409
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "dd55df2d73",
+    "slug": "2024-07-03-world-bank-mocambique-documentos-identificacao-gratuitos",
+    "studies": {
+     "authentication": {
+      "MOZ": 208
+     },
+     "birthidlink": {
+      "MOZ": 226
+     },
+     "idcoverage": {
+      "MOZ": 179
+     },
+     "idfrombirth": {
+      "MOZ": 226
+     },
+     "idmaintenance": {
+      "MOZ": 186
+     },
+     "idregisters": {
+      "MOZ": 187
+     },
+     "idrobustness": {
+      "MOZ": 214
+     }
+    },
+    "path": "raw/2024/2024-07-03-world-bank-mocambique-documentos-identificacao-gratuitos.md",
+    "words": 841
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "c933375736",
+    "slug": "2024-09-25-afdb-tunisie-mobile-id-infrastructure-attribution-contrat",
+    "studies": {
+     "authentication": {
+      "TUN": 198
+     },
+     "birthidlink": {
+      "TUN": 194
+     },
+     "idcoverage": {
+      "TUN": 172
+     },
+     "idfrombirth": {
+      "TUN": 194
+     },
+     "idmaintenance": {
+      "TUN": 173
+     },
+     "idregisters": {
+      "TUN": 170
+     },
+     "idrobustness": {
+      "TUN": 190
+     }
+    },
+    "path": "raw/2024/2024-09-25-afdb-tunisie-mobile-id-infrastructure-attribution-contrat.md",
+    "words": 641
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "3732dc1086",
+    "slug": "2025-05-22-ena-ethiopia-digital-id-accessibility-id4africa-agm",
+    "studies": {
+     "authentication": {
+      "ETH": 443
+     },
+     "birthidlink": {
+      "ETH": 464
+     },
+     "idcoverage": {
+      "ETH": 407
+     },
+     "idfrombirth": {
+      "ETH": 464
+     },
+     "idmaintenance": {
+      "ETH": 412
+     },
+     "idregisters": {
+      "ETH": 407
+     },
+     "idrobustness": {
+      "ETH": 431
+     }
+    },
+    "path": "raw/2025/2025-05-22-ena-ethiopia-digital-id-accessibility-id4africa-agm.md",
+    "words": 435
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "17ca903cae",
+    "slug": "2025-07-09-nin-enrolment-120-million-june-2025",
+    "studies": {
+     "authentication": {
+      "NGA": 735
+     },
+     "birthidlink": {
+      "NGA": 704
+     },
+     "idcoverage": {
+      "NGA": 667
+     },
+     "idfrombirth": {
+      "NGA": 704
+     },
+     "idmaintenance": {
+      "NGA": 702
+     },
+     "idregisters": {
+      "NGA": 682
+     },
+     "idrobustness": {
+      "NGA": 761
+     }
+    },
+    "path": "raw/2025/2025-07-09-nin-enrolment-120-million-june-2025.md",
+    "words": 481
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "87526d2216",
+    "slug": "2025-07-25-mutungu-counting-without-accounting-kenya-identity",
+    "studies": {
+     "authentication": {
+      "KEN": 601
+     },
+     "birthidlink": {
+      "KEN": 571
+     },
+     "idcoverage": {
+      "KEN": 524
+     },
+     "idfrombirth": {
+      "KEN": 571
+     },
+     "idmaintenance": {
+      "KEN": 549
+     },
+     "idregisters": {
+      "KEN": 534
+     },
+     "idrobustness": {
+      "KEN": 609
+     }
+    },
+    "path": "raw/2025/2025-07-25-mutungu-counting-without-accounting-kenya-identity.md",
+    "words": 367
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "7093000d53",
+    "slug": "2025-08-12-guardian-nimc-upgrades-diaspora-nin-enrolment",
+    "studies": {
+     "authentication": {
+      "NGA": 731
+     },
+     "birthidlink": {
+      "NGA": 700
+     },
+     "idcoverage": {
+      "NGA": 663
+     },
+     "idfrombirth": {
+      "NGA": 700
+     },
+     "idmaintenance": {
+      "NGA": 698
+     },
+     "idregisters": {
+      "NGA": 678
+     },
+     "idrobustness": {
+      "NGA": 757
+     }
+    },
+    "path": "raw/2025/2025-08-12-guardian-nimc-upgrades-diaspora-nin-enrolment.md",
+    "words": 646
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "efb2cdd8a9",
+    "slug": "2025-12-03-ids-digital-id-in-tunisia-country-report",
+    "studies": {
+     "authentication": {
+      "TUN": 206
+     },
+     "birthidlink": {
+      "TUN": 193
+     },
+     "idcoverage": {
+      "TUN": 171
+     },
+     "idfrombirth": {
+      "TUN": 193
+     },
+     "idmaintenance": {
+      "TUN": 172
+     },
+     "idregisters": {
+      "TUN": 169
+     },
+     "idrobustness": {
+      "TUN": 189
+     }
+    },
+    "path": "raw/2025/2025-12-03-ids-digital-id-in-tunisia-country-report.md",
+    "words": 328
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "eca94c2f74",
+    "slug": "2026-11-13-uga-monitor-banks-nira-marital-status-verification",
+    "studies": {
+     "authentication": {
+      "UGA": 514
+     },
+     "birthidlink": {
+      "UGA": 500
+     },
+     "idcoverage": {
+      "UGA": 467
+     },
+     "idfrombirth": {
+      "UGA": 500
+     },
+     "idmaintenance": {
+      "UGA": 483
+     },
+     "idregisters": {
+      "UGA": 470
+     },
+     "idrobustness": {
+      "UGA": 507
+     }
+    },
+    "path": "raw/2026/2026-11-13-uga-monitor-banks-nira-marital-status-verification.md",
+    "words": 225
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "ecc1d7a34b",
+    "slug": "2026-11-16-prado-tunisia-national-identity-card-tun-bo-01001",
+    "studies": {
+     "authentication": {
+      "TUN": 195
+     },
+     "birthidlink": {
+      "TUN": 184
+     },
+     "idcoverage": {
+      "TUN": 162
+     },
+     "idfrombirth": {
+      "TUN": 184
+     },
+     "idmaintenance": {
+      "TUN": 163
+     },
+     "idregisters": {
+      "TUN": 160
+     },
+     "idrobustness": {
+      "TUN": 177
+     }
+    },
+    "path": "raw/2026/2026-11-16-prado-tunisia-national-identity-card-tun-bo-01001.md",
+    "words": 246
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "e4ab73d93b",
+    "slug": "2024-11-30-shega-nbe-fayda-deadline-bank-accounts-addis",
+    "studies": {
+     "authentication": {
+      "ETH": 445
+     },
+     "birthidlink": {
+      "ETH": 466
+     },
+     "idcoverage": {
+      "ETH": 409
+     },
+     "idfrombirth": {
+      "ETH": 466
+     },
+     "idmaintenance": {
+      "ETH": 415
+     },
+     "idregisters": {
+      "ETH": 409
+     },
+     "idrobustness": {
+      "ETH": 433
+     },
+     "idverification": {
+      "ETH": 128
+     }
+    },
+    "path": "raw/2024/2024-11-30-shega-nbe-fayda-deadline-bank-accounts-addis.md",
+    "words": 482
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "44023933f2",
+    "slug": "2025-07-10-biometric-update-nigeria-nin-portal-downtime",
+    "studies": {
+     "authentication": {
+      "NGA": 734
+     },
+     "birthidlink": {
+      "NGA": 703
+     },
+     "idcoverage": {
+      "NGA": 666
+     },
+     "idfrombirth": {
+      "NGA": 703
+     },
+     "idmaintenance": {
+      "NGA": 701
+     },
+     "idregisters": {
+      "NGA": 681
+     },
+     "idrobustness": {
+      "NGA": 760
+     },
+     "idverification": {
+      "NGA": 256
+     }
+    },
+    "path": "raw/2025/2025-07-10-biometric-update-nigeria-nin-portal-downtime.md",
+    "words": 608
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "4c62ff74c5",
+    "slug": "2025-07-16-fij-banks-cannot-verify-customers-nins-nimc-upgrade",
+    "studies": {
+     "authentication": {
+      "NGA": 733
+     },
+     "birthidlink": {
+      "NGA": 702
+     },
+     "idcoverage": {
+      "NGA": 665
+     },
+     "idfrombirth": {
+      "NGA": 702
+     },
+     "idmaintenance": {
+      "NGA": 700
+     },
+     "idregisters": {
+      "NGA": 680
+     },
+     "idrobustness": {
+      "NGA": 759
+     },
+     "idverification": {
+      "NGA": 255
+     }
+    },
+    "path": "raw/2025/2025-07-16-fij-banks-cannot-verify-customers-nins-nimc-upgrade.md",
+    "words": 389
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "58aa074d84",
+    "slug": "2026-11-16-nidp-fayda-authentication-page",
+    "studies": {
+     "authentication": {
+      "ETH": 442
+     },
+     "birthidlink": {
+      "ETH": 463
+     },
+     "idcoverage": {
+      "ETH": 406
+     },
+     "idfrombirth": {
+      "ETH": 463
+     },
+     "idmaintenance": {
+      "ETH": 413
+     },
+     "idregisters": {
+      "ETH": 406
+     },
+     "idrobustness": {
+      "ETH": 430
+     },
+     "idverification": {
+      "ETH": 126
+     }
+    },
+    "path": "raw/2026/2026-11-16-nidp-fayda-authentication-page.md",
+    "words": 1015
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "1484a7c786",
+    "slug": "2025-01-21-humangle-nin-sim-linkage-insecurity",
+    "studies": {
+     "authentication": {
+      "NGA": 740
+     },
+     "birthidlink": {
+      "NGA": 709
+     },
+     "idcoverage": {
+      "NGA": 672
+     },
+     "idfrombirth": {
+      "NGA": 709
+     },
+     "idmaintenance": {
+      "NGA": 707
+     },
+     "idregisters": {
+      "NGA": 687
+     },
+     "idrobustness": {
+      "NGA": 766
+     },
+     "idverification": {
+      "NGA": 250
+     },
+     "policyresearch": {
+      "NGA": 345
+     }
+    },
+    "path": "raw/2025/2025-01-21-humangle-nin-sim-linkage-insecurity.md",
+    "words": 1680
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "eaf5b61333",
+    "slug": "2025-05-15-nimc-eyes-nin-enrollment-for-every-nigerian-by-year-end",
+    "studies": {
+     "authentication": {
+      "NGA": 737
+     },
+     "birthidlink": {
+      "NGA": 706
+     },
+     "idcoverage": {
+      "NGA": 669
+     },
+     "idfrombirth": {
+      "NGA": 706
+     },
+     "idmaintenance": {
+      "NGA": 704
+     },
+     "idregisters": {
+      "NGA": 684
+     },
+     "idrobustness": {
+      "NGA": 763
+     },
+     "localgov": {
+      "NGA": 316
+     }
+    },
+    "path": "raw/2025/2025-05-15-nimc-eyes-nin-enrollment-for-every-nigerian-by-year-end.md",
+    "words": 717
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "03e63368f1",
+    "slug": "2024-07-04-nimc-denies-data-breach-whistler",
+    "studies": {
+     "authentication": {
+      "NGA": 742
+     },
+     "birthidlink": {
+      "NGA": 711
+     },
+     "idcoverage": {
+      "NGA": 674
+     },
+     "idfrombirth": {
+      "NGA": 711
+     },
+     "idmaintenance": {
+      "NGA": 709
+     },
+     "idregisters": {
+      "NGA": 689
+     },
+     "idrobustness": {
+      "NGA": 768
+     },
+     "policyresearch": {
+      "NGA": 346
+     }
+    },
+    "path": "raw/2024/2024-07-04-nimc-denies-data-breach-whistler.md",
+    "words": 446
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "9fc77e1062",
+    "slug": "2024-03-25-capital-addressing-digital-id-gap-among-idps",
+    "studies": {
+     "authentication": {
+      "ETH": 448
+     },
+     "birthidlink": {
+      "ETH": 469
+     },
+     "idcoverage": {
+      "ETH": 412
+     },
+     "idfrombirth": {
+      "ETH": 469
+     },
+     "idmaintenance": {
+      "ETH": 418
+     },
+     "idregisters": {
+      "ETH": 412
+     },
+     "idrobustness": {
+      "ETH": 436
+     },
+     "refugees": {
+      "ETH": 154
+     }
+    },
+    "path": "raw/2024/2024-03-25-capital-addressing-digital-id-gap-among-idps.md",
+    "words": 478
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "f050dc9657",
+    "slug": "2025-03-25-businessday-diaspora-nin-enrolment-up-308-percent",
+    "studies": {
+     "authentication": {
+      "NGA": 739
+     },
+     "birthidlink": {
+      "NGA": 708
+     },
+     "idcoverage": {
+      "NGA": 671
+     },
+     "idfrombirth": {
+      "NGA": 708
+     },
+     "idmaintenance": {
+      "NGA": 706
+     },
+     "idregisters": {
+      "NGA": 686
+     },
+     "idrobustness": {
+      "NGA": 765
+     },
+     "refugees": {
+      "NGA": 112
+     }
+    },
+    "path": "raw/2025/2025-03-25-businessday-diaspora-nin-enrolment-up-308-percent.md",
+    "words": 479
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "b86db40319",
+    "slug": "2026-11-16-lbr-liberias-new-york-consulate-introduces-online-payment-for-services",
+    "studies": {
+     "authentication": {
+      "LBR": 226
+     },
+     "businesspayments": {
+      "LBR": 250
+     },
+     "centralbank": {
+      "LBR": 227
+     },
+     "consumerprotection": {
+      "LBR": 247
+     },
+     "crossborderpayments": {
+      "LBR": 228
+     },
+     "egovservices": {
+      "LBR": 104
+     },
+     "g2ppayments": {
+      "LBR": 237
+     },
+     "paymentsuptake": {
+      "LBR": 227
+     },
+     "retailpayments": {
+      "LBR": 227
+     },
+     "revenuecollection": {
+      "LBR": 243
+     }
+    },
+    "path": "raw/2026/2026-11-16-lbr-liberias-new-york-consulate-introduces-online-payment-for-services.md",
+    "words": 511
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "edf2c0170a",
+    "slug": "2026-11-15-dza-derrar-dzair-digital-services-two-million-registered",
+    "studies": {
+     "authentication": {
+      "DZA": 148
+     },
+     "egovservices": {
+      "DZA": 151
+     },
+     "police": {
+      "DZA": 149
+     }
+    },
+    "path": "raw/2026/2026-11-15-dza-derrar-dzair-digital-services-two-million-registered.md",
+    "words": 635
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "b76b75bac4",
+    "slug": "2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero",
+    "studies": {
+     "birthidlink": {
+      "CIV": 327,
+      "CMR": 253,
+      "GAB": 174,
+      "GHA": 458,
+      "GIN": 201,
+      "MAR": 251,
+      "MRT": 188,
+      "MWI": 282,
+      "RWA": 418,
+      "SEN": 378,
+      "TGO": 246,
+      "TZA": 391
+     },
+     "civilregister": {
+      "CIV": 168,
+      "CMR": 156,
+      "GAB": 87,
+      "GHA": 123,
+      "GIN": 133,
+      "MAR": 124,
+      "MRT": 107,
+      "MWI": 134,
+      "RWA": 152,
+      "SEN": 208,
+      "TGO": 132,
+      "TZA": 122
+     },
+     "coresystems": {
+      "CIV": 53,
+      "CMR": 46,
+      "GAB": 71,
+      "GHA": 103,
+      "GIN": 29,
+      "MAR": 28,
+      "MRT": 31,
+      "MWI": 87,
+      "RWA": 100,
+      "SEN": 77,
+      "TGO": 44,
+      "TZA": 64
+     },
+     "datacentres": {
+      "CIV": 231,
+      "CMR": 169,
+      "GAB": 110,
+      "GHA": 259,
+      "GIN": 110,
+      "MAR": 222,
+      "MRT": 102,
+      "MWI": 146,
+      "RWA": 228,
+      "SEN": 247,
+      "TGO": 115,
+      "TZA": 242
+     },
+     "dataexchange": {
+      "CIV": 70,
+      "CMR": 41,
+      "GAB": 36,
+      "GHA": 60,
+      "GIN": 45,
+      "MAR": 81,
+      "MRT": 52,
+      "MWI": 52,
+      "RWA": 59,
+      "SEN": 75,
+      "TGO": 38,
+      "TZA": 71
+     },
+     "educationmis": {
+      "SEN": 41
+     },
+     "health": {
+      "CIV": 61,
+      "CMR": 79,
+      "GAB": 72,
+      "GHA": 61,
+      "GIN": 47,
+      "MAR": 66,
+      "MRT": 40,
+      "MWI": 84,
+      "RWA": 95,
+      "SEN": 83,
+      "TGO": 69,
+      "TZA": 84
+     },
+     "healthexchange": {
+      "CIV": 26,
+      "CMR": 28,
+      "GAB": 16,
+      "GHA": 18,
+      "GIN": 19,
+      "MAR": 28,
+      "MRT": 23,
+      "MWI": 19,
+      "RWA": 27,
+      "SEN": 15,
+      "TGO": 12,
+      "TZA": 27
+     },
+     "healthmis": {
+      "CIV": 43,
+      "CMR": 65,
+      "GAB": 57,
+      "GHA": 69,
+      "GIN": 41,
+      "MAR": 39,
+      "MRT": 32,
+      "MWI": 72,
+      "RWA": 81,
+      "SEN": 66,
+      "TGO": 57,
+      "TZA": 59
+     },
+     "idfrombirth": {
+      "CIV": 327,
+      "CMR": 253,
+      "GAB": 177,
+      "GHA": 458,
+      "GIN": 201,
+      "MAR": 251,
+      "MRT": 184,
+      "MWI": 282,
+      "RWA": 418,
+      "SEN": 378,
+      "TGO": 246,
+      "TZA": 391
+     },
+     "interoperability": {
+      "CIV": 44,
+      "CMR": 42,
+      "GAB": 37,
+      "GHA": 81,
+      "GIN": 44,
+      "MAR": 56,
+      "MRT": 61,
+      "MWI": 43,
+      "RWA": 76,
+      "SEN": 74,
+      "TGO": 47,
+      "TZA": 67
+     },
+     "justice": {
+      "SEN": 36
+     },
+     "nationaldatacentres": {
+      "CIV": 233,
+      "CMR": 173,
+      "GAB": 110,
+      "GHA": 262,
+      "GIN": 113,
+      "MAR": 233,
+      "MRT": 107,
+      "MWI": 147,
+      "RWA": 229,
+      "SEN": 261,
+      "TGO": 116,
+      "TZA": 242
+     },
+     "police": {
+      "SEN": 130
+     },
+     "registry": {
+      "CIV": 192,
+      "CMR": 167,
+      "GAB": 102,
+      "GHA": 182,
+      "GIN": 142,
+      "MAR": 111,
+      "MRT": 116,
+      "MWI": 153,
+      "RWA": 170,
+      "SEN": 199,
+      "TGO": 157,
+      "TZA": 125
+     },
+     "satellitebroadband": {
+      "CIV": 96,
+      "CMR": 76,
+      "GAB": 29,
+      "GHA": 66,
+      "GIN": 33,
+      "MAR": 43,
+      "MRT": 25,
+      "MWI": 47,
+      "RWA": 67,
+      "SEN": 86,
+      "TGO": 42,
+      "TZA": 49
+     },
+     "startups": {
+      "CIV": 240,
+      "CMR": 167,
+      "GAB": 113,
+      "GHA": 304,
+      "GIN": 93,
+      "MAR": 216,
+      "MRT": 101,
+      "MWI": 134,
+      "RWA": 297,
+      "SEN": 255,
+      "TGO": 136,
+      "TZA": 227
+     },
+     "techhubs": {
+      "CIV": 252,
+      "CMR": 169,
+      "GAB": 113,
+      "GHA": 298,
+      "GIN": 100,
+      "MAR": 219,
+      "MRT": 100,
+      "MWI": 138,
+      "RWA": 305,
+      "SEN": 275,
+      "TGO": 139,
+      "TZA": 236
+     }
+    },
+    "path": "raw/2026/2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero.md",
+    "words": 1500
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "31f514a056",
+    "slug": "2024-05-18-egy-dostor-mohp-automation-4000-health-units",
+    "studies": {
+     "birthidlink": {
+      "EGY": 260
+     },
+     "civilregister": {
+      "EGY": 83
+     },
+     "idfrombirth": {
+      "EGY": 259
+     },
+     "registry": {
+      "EGY": 122
+     }
+    },
+    "path": "raw/2024/2024-05-18-egy-dostor-mohp-automation-4000-health-units.md",
+    "words": 1205
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "be4632285a",
+    "slug": "2026-11-16-cmr-acces-services-numeriques-campo-beach",
+    "studies": {
+     "broadbandstrategy": {
+      "CMR": 14
+     },
+     "digitaldivides": {
+      "CMR": 126
+     },
+     "localgov": {
+      "CMR": 232
+     },
+     "police": {
+      "CMR": 85
+     },
+     "registry": {
+      "CMR": 166
+     },
+     "startups": {
+      "CMR": 166
+     },
+     "techhubs": {
+      "CMR": 168
+     }
+    },
+    "path": "raw/2026/2026-11-16-cmr-acces-services-numeriques-campo-beach.md",
+    "words": 496
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "cb2cf76cbc",
+    "slug": "2026-11-16-lbr-mme-trains-certifies-geologists-mining-consultancy-firms-on-licensing",
+    "studies": {
+     "businesspayments": {
+      "LBR": 251
+     },
+     "businessregister": {
+      "LBR": 93
+     },
+     "centralbank": {
+      "LBR": 228
+     },
+     "consumerprotection": {
+      "LBR": 248
+     },
+     "crossborderpayments": {
+      "LBR": 229
+     },
+     "egovservices": {
+      "LBR": 105
+     },
+     "g2ppayments": {
+      "LBR": 238
+     },
+     "landregister": {
+      "LBR": 55
+     },
+     "paymentsuptake": {
+      "LBR": 228
+     },
+     "retailpayments": {
+      "LBR": 228
+     },
+     "revenuecollection": {
+      "LBR": 244
+     }
+    },
+    "path": "raw/2026/2026-11-16-lbr-mme-trains-certifies-geologists-mining-consultancy-firms-on-licensing.md",
+    "words": 1050
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "6b0965f245",
+    "slug": "2026-11-15-xaf-techcabal-next-wave-microsoft-outage-banks-no-plan-b",
+    "studies": {
+     "businesspayments": {
+      "KEN": 901,
+      "ZAF": 658
+     },
+     "centralbank": {
+      "KEN": 880,
+      "ZAF": 639
+     },
+     "consumerprotection": {
+      "KEN": 960,
+      "ZAF": 714
+     },
+     "crossborderpayments": {
+      "KEN": 885,
+      "ZAF": 653
+     },
+     "datacentres": {
+      "KEN": 506,
+      "ZAF": 517
+     },
+     "g2ppayments": {
+      "KEN": 900,
+      "ZAF": 652
+     },
+     "nationaldatacentres": {
+      "KEN": 514,
+      "ZAF": 520
+     },
+     "paymentsuptake": {
+      "KEN": 883,
+      "ZAF": 651
+     },
+     "retailpayments": {
+      "KEN": 878,
+      "ZAF": 644
+     },
+     "revenuecollection": {
+      "KEN": 901,
+      "ZAF": 661
+     }
+    },
+    "path": "raw/2026/2026-11-15-xaf-techcabal-next-wave-microsoft-outage-banks-no-plan-b.md",
+    "words": 1173
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "93317ea49a",
+    "slug": "2026-11-15-uga-pulse-ucc-4500-wifi-operators-licensing-extension",
+    "studies": {
+     "businesspayments": {
+      "UGA": 592
+     },
+     "centralbank": {
+      "UGA": 572
+     },
+     "consumerprotection": {
+      "UGA": 611
+     },
+     "crossborderpayments": {
+      "UGA": 580
+     },
+     "dataprotectionlaw": {
+      "UGA": 321
+     },
+     "ecommercelaw": {
+      "UGA": 108
+     },
+     "exchangepoints": {
+      "UGA": 85
+     },
+     "fibrebackbone": {
+      "UGA": 148
+     },
+     "g2ppayments": {
+      "UGA": 586
+     },
+     "idverification": {
+      "UGA": 168
+     },
+     "mobilepenetration": {
+      "UGA": 89
+     },
+     "paymentsuptake": {
+      "UGA": 575
+     },
+     "retailpayments": {
+      "UGA": 574
+     },
+     "revenuecollection": {
+      "UGA": 600
+     }
+    },
+    "path": "raw/2026/2026-11-15-uga-pulse-ucc-4500-wifi-operators-licensing-extension.md",
+    "words": 751
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "082bd5c4e9",
+    "slug": "2026-11-13-dza-cpa-cpazonepay-electronic-payment-from-abroad",
+    "studies": {
+     "businesspayments": {
+      "DZA": 178
+     },
+     "centralbank": {
+      "DZA": 173
+     },
+     "consumerprotection": {
+      "DZA": 189
+     },
+     "crossborderpayments": {
+      "DZA": 174
+     },
+     "digitalstrategy": {
+      "DZA": 123
+     },
+     "g2ppayments": {
+      "DZA": 180
+     },
+     "localrecords": {
+      "DZA": 37
+     },
+     "paymentsuptake": {
+      "DZA": 172
+     },
+     "retailpayments": {
+      "DZA": 172
+     },
+     "revenuecollection": {
+      "DZA": 178
+     }
+    },
+    "path": "raw/2026/2026-11-13-dza-cpa-cpazonepay-electronic-payment-from-abroad.md",
+    "words": 361
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "1ed328e2d5",
+    "slug": "2026-11-15-gin-aziz-bah-youth-digital-economy-state-tribune",
+    "studies": {
+     "businesspayments": {
+      "GIN": 194
+     },
+     "centralbank": {
+      "GIN": 182
+     },
+     "consumerprotection": {
+      "GIN": 188
+     },
+     "crossborderpayments": {
+      "GIN": 183
+     },
+     "fibrebackbone": {
+      "GIN": 76
+     },
+     "g2ppayments": {
+      "GIN": 187
+     },
+     "paymentsuptake": {
+      "GIN": 182
+     },
+     "retailpayments": {
+      "GIN": 182
+     },
+     "revenuecollection": {
+      "GIN": 198
+     },
+     "ruralelectrification": {
+      "GIN": 49
+     }
+    },
+    "path": "raw/2026/2026-11-15-gin-aziz-bah-youth-digital-economy-state-tribune.md",
+    "words": 945
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "390ef0acad",
+    "slug": "2026-11-16-zaf-itweb-mtn-telkom-takeover-talks",
+    "studies": {
+     "businesspayments": {
+      "ZAF": 656
+     },
+     "centralbank": {
+      "ZAF": 637
+     },
+     "consumerprotection": {
+      "ZAF": 712
+     },
+     "crossborderpayments": {
+      "ZAF": 651
+     },
+     "g2ppayments": {
+      "ZAF": 650
+     },
+     "ictproduction": {
+      "ZAF": 55
+     },
+     "paymentsuptake": {
+      "ZAF": 649
+     },
+     "retailpayments": {
+      "ZAF": 642
+     },
+     "revenuecollection": {
+      "ZAF": 659
+     }
+    },
+    "path": "raw/2026/2026-11-16-zaf-itweb-mtn-telkom-takeover-talks.md",
+    "words": 881
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "28baae24b4",
+    "slug": "2026-11-16-interswitch-uba-kenya-verve",
+    "studies": {
+     "businesspayments": {
+      "KEN": 898
+     },
+     "centralbank": {
+      "KEN": 877
+     },
+     "consumerprotection": {
+      "KEN": 956
+     },
+     "crossborderpayments": {
+      "KEN": 882
+     },
+     "g2ppayments": {
+      "KEN": 897
+     },
+     "itcapacity": {
+      "KEN": 234
+     },
+     "paymentsuptake": {
+      "KEN": 880
+     },
+     "retailpayments": {
+      "KEN": 874
+     },
+     "revenuecollection": {
+      "KEN": 897
+     }
+    },
+    "path": "raw/2026/2026-11-16-interswitch-uba-kenya-verve.md",
+    "words": 333
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "bec86e54fb",
+    "slug": "2026-11-16-mli-apanews-sama-money-pi-spi-reception",
+    "studies": {
+     "businesspayments": {
+      "MLI": 211
+     },
+     "centralbank": {
+      "MLI": 206
+     },
+     "consumerprotection": {
+      "MLI": 217
+     },
+     "crossborderpayments": {
+      "MLI": 206
+     },
+     "g2ppayments": {
+      "MLI": 215
+     },
+     "paymentslaw": {
+      "MLI": 65
+     },
+     "paymentsuptake": {
+      "MLI": 206
+     },
+     "retailpayments": {
+      "MLI": 205
+     },
+     "revenuecollection": {
+      "MLI": 212
+     }
+    },
+    "path": "raw/2026/2026-11-16-mli-apanews-sama-money-pi-spi-reception.md",
+    "words": 503
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "b03a4bf5fb",
+    "slug": "2026-11-15-rwa-ekash-bakong-cambodia-remittance-trial",
+    "studies": {
+     "businesspayments": {
+      "RWA": 515
+     },
+     "centralbank": {
+      "RWA": 495
+     },
+     "consumerprotection": {
+      "RWA": 530
+     },
+     "crossborderpayments": {
+      "RWA": 495
+     },
+     "g2ppayments": {
+      "RWA": 505
+     },
+     "paymentsuptake": {
+      "RWA": 495
+     },
+     "retailpayments": {
+      "RWA": 494
+     },
+     "revenuecollection": {
+      "RWA": 512
+     }
+    },
+    "path": "raw/2026/2026-11-15-rwa-ekash-bakong-cambodia-remittance-trial.md",
+    "words": 667
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "b53d0c909b",
+    "slug": "2026-11-16-bwa-projectsbw-moseki-central-bank-collaboration-papss",
+    "studies": {
+     "businesspayments": {
+      "BWA": 189
+     },
+     "centralbank": {
+      "BWA": 175
+     },
+     "consumerprotection": {
+      "BWA": 194
+     },
+     "crossborderpayments": {
+      "BWA": 181
+     },
+     "g2ppayments": {
+      "BWA": 176
+     },
+     "paymentsuptake": {
+      "BWA": 176
+     },
+     "retailpayments": {
+      "BWA": 175
+     },
+     "revenuecollection": {
+      "BWA": 189
+     }
+    },
+    "path": "raw/2026/2026-11-16-bwa-projectsbw-moseki-central-bank-collaboration-papss.md",
+    "words": 367
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "368a557cdd",
+    "slug": "2026-11-16-xaf-xinhua-afreximbank-intra-african-settlement-papss",
+    "studies": {
+     "businesspayments": {
+      "BWA": 190
+     },
+     "centralbank": {
+      "BWA": 176
+     },
+     "consumerprotection": {
+      "BWA": 195
+     },
+     "crossborderpayments": {
+      "BWA": 182
+     },
+     "g2ppayments": {
+      "BWA": 177
+     },
+     "paymentsuptake": {
+      "BWA": 177
+     },
+     "retailpayments": {
+      "BWA": 176
+     },
+     "revenuecollection": {
+      "BWA": 190
+     }
+    },
+    "path": "raw/2026/2026-11-16-xaf-xinhua-afreximbank-intra-african-settlement-papss.md",
+    "words": 491
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "f73c6144dd",
+    "slug": "2026-11-16-xwa-ecofin-fintech-licensing-passport-ecowas-opinion",
+    "studies": {
+     "businesspayments": {
+      "GHA": 632
+     },
+     "centralbank": {
+      "GHA": 626
+     },
+     "consumerprotection": {
+      "GHA": 660
+     },
+     "crossborderpayments": {
+      "GHA": 631
+     },
+     "g2ppayments": {
+      "GHA": 636
+     },
+     "paymentsuptake": {
+      "GHA": 626
+     },
+     "retailpayments": {
+      "GHA": 624
+     },
+     "revenuecollection": {
+      "GHA": 641
+     }
+    },
+    "path": "raw/2026/2026-11-16-xwa-ecofin-fintech-licensing-passport-ecowas-opinion.md",
+    "words": 1130
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "fdba0126dc",
+    "slug": "2026-11-15-mli-le-mali-prepare-les-requetes-et-les-verdicts-en-ligne",
+    "studies": {
+     "businessregister": {
+      "MLI": 52
+     },
+     "justice": {
+      "MLI": 16
+     },
+     "police": {
+      "MLI": 122
+     },
+     "populationregister": {
+      "MLI": 55
+     }
+    },
+    "path": "raw/2026/2026-11-15-mli-le-mali-prepare-les-requetes-et-les-verdicts-en-ligne.md",
+    "words": 413
+   },
+   {
+    "key": "40b33f3580",
+    "slug": "2026-11-13-gnq-inege-cemac-informal-cross-border-trade-survey",
+    "studies": {
+     "censuses": {
+      "GNQ": 61
+     },
+     "regionalpolicy": {
+      "GNQ": 51
+     }
+    },
+    "path": "raw/2026/2026-11-13-gnq-inege-cemac-informal-cross-border-trade-survey.md",
+    "words": 429
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "7fe9357517",
+    "slug": "2025-03-01-bfa-minimum-digital-ecosystem-pilot-snapshot-burkina-faso",
+    "studies": {
+     "civilserviceskills": {
+      "BFA": 152
+     },
+     "digitalskills": {
+      "BFA": 102
+     },
+     "health": {
+      "BFA": 54
+     },
+     "healthmis": {
+      "BFA": 50
+     },
+     "schoolinternet": {
+      "BFA": 230
+     }
+    },
+    "path": "raw/2025/2025-03-01-bfa-minimum-digital-ecosystem-pilot-snapshot-burkina-faso.md",
+    "words": 2116
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "7faa561938",
+    "slug": "2026-11-16-ken-eu-kenya-adequacy-negotiations-concluded",
+    "studies": {
+     "consumerprotection": {
+      "KEN": 957
+     },
+     "dataprotectionauthority": {
+      "KEN": 198
+     },
+     "dataprotectionlaw": {
+      "KEN": 533
+     }
+    },
+    "path": "raw/2026/2026-11-16-ken-eu-kenya-adequacy-negotiations-concluded.md",
+    "words": 421
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "c53b79105b",
+    "slug": "2026-11-16-tra-itu-resolution-206-ott-network-funding",
+    "studies": {
+     "consumerprotection": {
+      "SEN": 454,
+      "ZAF": 715
+     },
+     "domesticfinancing": {
+      "SEN": 91,
+      "ZAF": 98
+     },
+     "exchangepoints": {
+      "SEN": 58,
+      "ZAF": 73
+     },
+     "internationalbandwidth": {
+      "SEN": 119,
+      "ZAF": 203
+     },
+     "regionalinfrastructure": {
+      "SEN": 72,
+      "ZAF": 133
+     },
+     "regionalpolicy": {
+      "SEN": 150,
+      "ZAF": 173
+     }
+    },
+    "path": "raw/2026/2026-11-16-tra-itu-resolution-206-ott-network-funding.md",
+    "words": 1243
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "e12e7bdf7a",
+    "slug": "2025-12-22-ago-falta-de-uniformizacao-do-sistema-informatico-de-saude-dificulta-atend",
+    "studies": {
+     "coresystems": {
+      "AGO": 66
+     },
+     "customs": {
+      "AGO": 52
+     },
+     "educationexchange": {
+      "AGO": 85
+     },
+     "educationmis": {
+      "AGO": 70
+     },
+     "health": {
+      "AGO": 55
+     },
+     "healthexchange": {
+      "AGO": 12
+     },
+     "healthmis": {
+      "AGO": 48
+     },
+     "interoperabilitylaw": {
+      "AGO": 46
+     },
+     "schools": {
+      "AGO": 89
+     },
+     "socialexchange": {
+      "AGO": 45
+     },
+     "taxadmin": {
+      "AGO": 37
+     }
+    },
+    "path": "raw/2025/2025-12-22-ago-falta-de-uniformizacao-do-sistema-informatico-de-saude-dificulta-atend.md",
+    "words": 504
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "ca06886790",
+    "slug": "2026-09-30-tza-tanzania-yajipanga-kufadhili-na-kupanua-afya-kidijitali",
+    "studies": {
+     "coresystems": {
+      "TZA": 63
+     },
+     "customs": {
+      "TZA": 43
+     },
+     "health": {
+      "TZA": 82
+     },
+     "healthmis": {
+      "TZA": 57
+     },
+     "justice": {
+      "TZA": 38
+     },
+     "police": {
+      "TZA": 71
+     }
+    },
+    "path": "raw/2026/2026-09-30-tza-tanzania-yajipanga-kufadhili-na-kupanua-afya-kidijitali.md",
+    "words": 391
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "0edea1a1fe",
+    "slug": "2026-11-15-sdn-suna-taxation-chamber-ends-paper-invoices-e-invoice-mandatory",
+    "studies": {
+     "coresystems": {
+      "SDN": 42
+     },
+     "customs": {
+      "SDN": 44
+     },
+     "health": {
+      "SDN": 49
+     },
+     "healthmis": {
+      "SDN": 44
+     },
+     "taxadmin": {
+      "SDN": 16
+     },
+     "taxregister": {
+      "SDN": 27
+     }
+    },
+    "path": "raw/2026/2026-11-15-sdn-suna-taxation-chamber-ends-paper-invoices-e-invoice-mandatory.md",
+    "words": 370
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "3faad4511f",
+    "slug": "2025-06-11-zaf-kzn-mp-nc-health-departments-readiness-to-implement-the-health-patient",
+    "studies": {
+     "coresystems": {
+      "ZAF": 99
+     },
+     "datacentres": {
+      "ZAF": 519
+     },
+     "gridreliability": {
+      "ZAF": 126
+     },
+     "health": {
+      "ZAF": 63
+     },
+     "healthmis": {
+      "ZAF": 58
+     },
+     "idrobustness": {
+      "ZAF": 560
+     },
+     "localgov": {
+      "ZAF": 403
+     },
+     "nationaldatacentres": {
+      "ZAF": 522
+     },
+     "police": {
+      "ZAF": 159
+     }
+    },
+    "path": "raw/2025/2025-06-11-zaf-kzn-mp-nc-health-departments-readiness-to-implement-the-health-patient.md",
+    "words": 2513
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "ed5178499c",
+    "slug": "2026-03-31-uga-government-takes-over-national-digital-health-systems-from-makerere-un",
+    "studies": {
+     "coresystems": {
+      "UGA": 128
+     },
+     "educationexchange": {
+      "UGA": 77
+     },
+     "educationmis": {
+      "UGA": 78
+     },
+     "health": {
+      "UGA": 116
+     },
+     "healthmis": {
+      "UGA": 97
+     },
+     "justice": {
+      "UGA": 58
+     },
+     "police": {
+      "UGA": 108
+     },
+     "schools": {
+      "UGA": 98
+     }
+    },
+    "path": "raw/2026/2026-03-31-uga-government-takes-over-national-digital-health-systems-from-makerere-un.md",
+    "words": 514
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "870a6ac74c",
+    "slug": "2025-05-12-dji-mise-en-uvre-de-msupply-une-reussite-portee-par-la-camme-et-ses-parten",
+    "studies": {
+     "coresystems": {
+      "DJI": 36
+     },
+     "educationexchange": {
+      "DJI": 22
+     },
+     "educationmis": {
+      "DJI": 22
+     },
+     "health": {
+      "COM": 42,
+      "DJI": 35
+     },
+     "healthmis": {
+      "DJI": 26
+     },
+     "schools": {
+      "DJI": 30
+     },
+     "taxadmin": {
+      "DJI": 24
+     }
+    },
+    "path": "raw/2025/2025-05-12-dji-mise-en-uvre-de-msupply-une-reussite-portee-par-la-camme-et-ses-parten.md",
+    "words": 518
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "92b75a81ff",
+    "slug": "2025-04-28-sen-digitalisation-du-systeme-de-sante-le-gouvernement-engage-six-projets",
+    "studies": {
+     "coresystems": {
+      "SEN": 78
+     },
+     "educationmis": {
+      "SEN": 42
+     },
+     "health": {
+      "SEN": 85
+     },
+     "healthexchange": {
+      "SEN": 17
+     },
+     "healthmis": {
+      "SEN": 68
+     },
+     "justice": {
+      "SEN": 37
+     },
+     "police": {
+      "SEN": 131
+     },
+     "publicconsultation": {
+      "SEN": 186
+     }
+    },
+    "path": "raw/2025/2025-04-28-sen-digitalisation-du-systeme-de-sante-le-gouvernement-engage-six-projets.md",
+    "words": 565
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "57e496a285",
+    "slug": "2026-11-05-swz-the-rollout-of-the-cmis-inpatient-and-maternity-module-continues-to-ga",
+    "studies": {
+     "coresystems": {
+      "SWZ": 68
+     },
+     "health": {
+      "SWZ": 79
+     },
+     "healthexchange": {
+      "SWZ": 20
+     },
+     "healthmis": {
+      "SWZ": 59
+     },
+     "justice": {
+      "SWZ": 35
+     },
+     "taxadmin": {
+      "SWZ": 40
+     }
+    },
+    "path": "raw/2026/2026-11-05-swz-the-rollout-of-the-cmis-inpatient-and-maternity-module-continues-to-ga.md",
+    "words": 332
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "8352e9a475",
+    "slug": "2026-09-30-mdg-validation-du-cadre-national-d-architecture-d-entreprise-de-la-sante-n",
+    "studies": {
+     "coresystems": {
+      "MDG": 25
+     },
+     "healthexchange": {
+      "MDG": 10
+     },
+     "interoperability": {
+      "MDG": 45
+     },
+     "publicconsultation": {
+      "MDG": 102
+     }
+    },
+    "path": "raw/2026/2026-09-30-mdg-validation-du-cadre-national-d-architecture-d-entreprise-de-la-sante-n.md",
+    "words": 479
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "81d3421a69",
+    "slug": "2026-11-16-tun-kapitalis-ben-moussa-plateformes-publiques-resilience-numerique",
+    "studies": {
+     "cybersecurity": {
+      "TUN": 80
+     },
+     "dataprotectionlaw": {
+      "TUN": 188
+     },
+     "digitalsovereignty": {
+      "TUN": 106
+     },
+     "offsitebackup": {
+      "TUN": 45
+     }
+    },
+    "path": "raw/2026/2026-11-16-tun-kapitalis-ben-moussa-plateformes-publiques-resilience-numerique.md",
+    "words": 2238
+   },
+   {
+    "key": "134bfc591a",
+    "slug": "2026-11-14-hespress-ar-dgssi-cyber-maturity-banking-transport-energy",
+    "studies": {
+     "cybersecurity": {
+      "MAR": 98
+     },
+     "police": {
+      "MAR": 162
+     }
+    },
+    "path": "raw/2026/2026-11-14-hespress-ar-dgssi-cyber-maturity-banking-transport-energy.md",
+    "words": 992
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "1486640d52",
+    "slug": "2026-11-16-ken-itweb-cbk-cma-mandatory-vasp-licensing",
+    "studies": {
+     "cybersecuritylaw": {
+      "KEN": 153
+     },
+     "eparticipation": {
+      "KEN": 97
+     },
+     "paymentslaw": {
+      "KEN": 66
+     },
+     "publicconsultation": {
+      "KEN": 445
+     }
+    },
+    "path": "raw/2026/2026-11-16-ken-itweb-cbk-cma-mandatory-vasp-licensing.md",
+    "words": 863
+   },
+   {
+    "key": "816992793e",
+    "slug": "2026-11-15-alwasat-parliamentary-committee-cybercrime-law-gaps",
+    "studies": {
+     "cybersecuritylaw": {
+      "LBY": 40
+     },
+     "opendiscussion": {
+      "LBY": 28
+     }
+    },
+    "path": "raw/2026/2026-11-15-alwasat-parliamentary-committee-cybercrime-law-gaps.md",
+    "words": 371
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "815a5aea27",
+    "slug": "2025-12-01-civ-7-3-millions-de-dossiers-patients-numerises-en-cote-d-ivoire-pour-un-i",
+    "studies": {
+     "datacentres": {
+      "CIV": 232
+     },
+     "dataprotectionlaw": {
+      "CIV": 227
+     },
+     "digitaldivides": {
+      "CIV": 190
+     },
+     "digitalsovereignty": {
+      "CIV": 178
+     },
+     "domesticfinancing": {
+      "CIV": 113
+     },
+     "nationaldatacentres": {
+      "CIV": 234
+     },
+     "schoolinternet": {
+      "CIV": 268
+     },
+     "statisticsstrategy": {
+      "CIV": 15
+     }
+    },
+    "path": "raw/2025/2025-12-01-civ-7-3-millions-de-dossiers-patients-numerises-en-cote-d-ivoire-pour-un-i.md",
+    "words": 719
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "31ff804a78",
+    "slug": "2025-07-03-gab-egabon-sis-vers-un-systeme-de-sante-sans-papiers",
+    "studies": {
+     "datacentres": {
+      "GAB": 109
+     },
+     "digitalsovereignty": {
+      "GAB": 143
+     },
+     "health": {
+      "GAB": 70
+     },
+     "healthmis": {
+      "GAB": 56
+     },
+     "itcapacity": {
+      "GAB": 180
+     },
+     "nationaldatacentres": {
+      "GAB": 109
+     }
+    },
+    "path": "raw/2025/2025-07-03-gab-egabon-sis-vers-un-systeme-de-sante-sans-papiers.md",
+    "words": 791
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "950f1110ef",
+    "slug": "2024-06-06-ner-sante-numerique-vers-l-adoption-d-un-schema-directeur-pour-la-digitali",
+    "studies": {
+     "datacentres": {
+      "NER": 88
+     },
+     "health": {
+      "NER": 54
+     },
+     "healthmis": {
+      "NER": 43
+     },
+     "nationaldatacentres": {
+      "NER": 91
+     },
+     "schoolinternet": {
+      "NER": 180
+     }
+    },
+    "path": "raw/2024/2024-06-06-ner-sante-numerique-vers-l-adoption-d-un-schema-directeur-pour-la-digitali.md",
+    "words": 808
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "4e0956e481",
+    "slug": "2025-01-23-bdi-au-burundi-la-digitalisation-pour-interconnecter-les-services-du-minis",
+    "studies": {
+     "dataexchange": {
+      "BDI": 19
+     },
+     "educationexchange": {
+      "BDI": 34
+     },
+     "educationmis": {
+      "BDI": 38
+     },
+     "health": {
+      "BDI": 55
+     },
+     "healthexchange": {
+      "BDI": 22
+     },
+     "healthmis": {
+      "BDI": 55
+     },
+     "publicconsultation": {
+      "BDI": 99
+     },
+     "schoolinternet": {
+      "BDI": 143
+     },
+     "schools": {
+      "BDI": 54
+     }
+    },
+    "path": "raw/2025/2025-01-23-bdi-au-burundi-la-digitalisation-pour-interconnecter-les-services-du-minis.md",
+    "words": 486
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "e4947df9cd",
+    "slug": "2025-04-17-lby-the-national-center-for-health-system-development-discusses-with-the-g",
+    "studies": {
+     "dataexchange": {
+      "LBY": 35
+     },
+     "healthmis": {
+      "LBY": 31
+     }
+    },
+    "path": "raw/2025/2025-04-17-lby-the-national-center-for-health-system-development-discusses-with-the-g.md",
+    "words": 321
+   },
+   {
+    "key": "b1f414a4fd",
+    "slug": "2026-04-30-sdn-sudan-s-digital-health-transformation-vision-reality-and-the-road-ahea",
+    "studies": {
+     "datagovernance": {
+      "SDN": 16
+     }
+    },
+    "path": "raw/2026/2026-04-30-sdn-sudan-s-digital-health-transformation-vision-reality-and-the-road-ahea.md",
+    "words": 345
+   },
+   {
+    "key": "c2ba77ff22",
+    "slug": "2026-06-02-mdg-u-s-backing-madagascar-s-new-health-data-governance-strategy",
+    "studies": {
+     "datagovernance": {
+      "MDG": 23
+     }
+    },
+    "path": "raw/2026/2026-06-02-mdg-u-s-backing-madagascar-s-new-health-data-governance-strategy.md",
+    "words": 429
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "d1cf6489d4",
+    "slug": "2026-06-26-nga-ndpc-guidance-notice-cpd-dpos",
+    "studies": {
+     "dataprotectionauthority": {
+      "NGA": 221
+     },
+     "dataprotectionlaw": {
+      "NGA": 550
+     },
+     "dataprotectionreadiness": {
+      "NGA": 150
+     },
+     "eparticipation": {
+      "NGA": 66
+     },
+     "policyresearch": {
+      "NGA": 342
+     },
+     "publicconsultation": {
+      "NGA": 317
+     }
+    },
+    "path": "raw/2026/2026-06-26-nga-ndpc-guidance-notice-cpd-dpos.md",
+    "words": 1021
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "537f833e6d",
+    "slug": "2026-11-14-nga-ndpc-holds-roundtable-for-dpos",
+    "studies": {
+     "dataprotectionauthority": {
+      "NGA": 220
+     },
+     "dataprotectionlaw": {
+      "NGA": 553
+     },
+     "dataprotectionreadiness": {
+      "NGA": 151
+     },
+     "internationalbandwidth": {
+      "NGA": 232
+     }
+    },
+    "path": "raw/2026/2026-11-14-nga-ndpc-holds-roundtable-for-dpos.md",
+    "words": 760
+   },
+   {
+    "key": "e87701eabf",
+    "slug": "2026-11-15-lby-lana-personal-data-protection-digital-sovereignty-law",
+    "studies": {
+     "dataprotectionauthority": {
+      "LBY": 28
+     },
+     "dataprotectionlaw": {
+      "LBY": 90
+     },
+     "digitalsovereignty": {
+      "LBY": 56
+     }
+    },
+    "path": "raw/2026/2026-11-15-lby-lana-personal-data-protection-digital-sovereignty-law.md",
+    "words": 269
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "c37af6bdba",
+    "slug": "2026-01-08-mus-la-transformation-numerique-via-le-projet-ehealth-prend-forme",
+    "studies": {
+     "dataprotectionlaw": {
+      "MUS": 227
+     },
+     "health": {
+      "MUS": 35
+     },
+     "healthmis": {
+      "MUS": 31
+     }
+    },
+    "path": "raw/2026/2026-01-08-mus-la-transformation-numerique-via-le-projet-ehealth-prend-forme.md",
+    "words": 573
+   },
+   {
+    "key": "23dfa8c616",
+    "slug": "2025-04-28-sen-le-senegal-valide-le-cadre-politique-de-sa-strategie-de-sante-digitale",
+    "studies": {
+     "dataprotectionlaw": {
+      "SEN": 290
+     },
+     "health": {
+      "SEN": 86
+     },
+     "publicconsultation": {
+      "SEN": 187
+     }
+    },
+    "path": "raw/2025/2025-04-28-sen-le-senegal-valide-le-cadre-politique-de-sa-strategie-de-sante-digitale.md",
+    "words": 588
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "8019264a18",
+    "slug": "2026-11-16-zaf-itweb-5g-expansion-ookla-speeds",
+    "studies": {
+     "digitaldivides": {
+      "ZAF": 327
+     },
+     "mobilepenetration": {
+      "ZAF": 44
+     },
+     "satellitebroadband": {
+      "ZAF": 137
+     }
+    },
+    "path": "raw/2026/2026-11-16-zaf-itweb-5g-expansion-ookla-speeds.md",
     "words": 1174
+   },
+   {
+    "key": "da1eb4ccd5",
+    "slug": "2025-01-14-sen-dr-khaliloullah-dia-du-ministere-de-la-sante-sur-la-digitalisation-du",
+    "studies": {
+     "digitalsovereignty": {
+      "SEN": 260
+     },
+     "health": {
+      "SEN": 87
+     }
+    },
+    "path": "raw/2025/2025-01-14-sen-dr-khaliloullah-dia-du-ministere-de-la-sante-sur-la-digitalisation-du.md",
+    "words": 785
+   },
+   {
+    "key": "3c19f9b385",
+    "slug": "2026-11-15-capitalethiopia-ministers-pida-ict-projects",
+    "studies": {
+     "digitalsovereignty": {
+      "GAB": 142,
+      "GHA": 154
+     },
+     "regionalpolicy": {
+      "GAB": 95,
+      "GHA": 214
+     }
+    },
+    "path": "raw/2026/2026-11-15-capitalethiopia-ministers-pida-ict-projects.md",
+    "words": 356
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "38bfcebb93",
+    "slug": "2026-05-19-sdn-nhif-moh-who-health-digital-transformation-strategy-meeting",
+    "studies": {
+     "digitalstrategy": {
+      "SDN": 54
+     }
+    },
+    "path": "raw/2026/2026-05-19-sdn-nhif-moh-who-health-digital-transformation-strategy-meeting.md",
+    "words": 528
+   },
+   {
+    "key": "7c172bb18c",
+    "slug": "2026-11-15-sen-socialnetlink-mps-reject-2027-digital-ministry-budget-committee",
+    "studies": {
+     "domesticfinancing": {
+      "SEN": 90
+     },
+     "startups": {
+      "SEN": 254
+     },
+     "techhubs": {
+      "SEN": 274
+     }
+    },
+    "path": "raw/2026/2026-11-15-sen-socialnetlink-mps-reject-2027-digital-ministry-budget-committee.md",
+    "words": 505
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "81d8c07210",
+    "slug": "2026-11-15-som-dawan-45-government-agencies-state-network-2027",
+    "studies": {
+     "egovservices": {
+      "SOM": 85
+     },
+     "localgov": {
+      "SOM": 96
+     },
+     "regionalpolicy": {
+      "SOM": 90
+     }
+    },
+    "path": "raw/2026/2026-11-15-som-dawan-45-government-agencies-state-network-2027.md",
+    "words": 375
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "65791a715d",
+    "slug": "2026-11-16-ami-ar-assembly-ratifies-ida-resilience-digital-transformation",
+    "studies": {
+     "egovservices": {
+      "MRT": 140
+     },
+     "nonstatefinance": {
+      "MRT": 75
+     },
+     "opendatapolicy": {
+      "MRT": 40
+     },
+     "socialexchange": {
+      "MRT": 37
+     },
+     "socialregistry": {
+      "MRT": 76
+     }
+    },
+    "path": "raw/2026/2026-11-16-ami-ar-assembly-ratifies-ida-resilience-digital-transformation.md",
+    "words": 585
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "41c1e8844e",
+    "slug": "2026-04-15-mar-head-of-government-chairs-meeting-on-reform-of-morocco-s-national-heal",
+    "studies": {
+     "feedbackportals": {
+      "MAR": 43
+     },
+     "healthexchange": {
+      "MAR": 27
+     },
+     "healthmis": {
+      "MAR": 38
+     }
+    },
+    "path": "raw/2026/2026-04-15-mar-head-of-government-chairs-meeting-on-reform-of-morocco-s-national-heal.md",
+    "words": 736
+   },
+   {
+    "key": "5ef99fa4b3",
+    "slug": "2026-11-15-som-dawan-telecom-consortium-shared-fibre-routes",
+    "studies": {
+     "fibrebackbone": {
+      "SOM": 41
+     },
+     "internetusage": {
+      "SOM": 67
+     },
+     "regionalpolicy": {
+      "SOM": 91
+     }
+    },
+    "path": "raw/2026/2026-11-15-som-dawan-telecom-consortium-shared-fibre-routes.md",
+    "words": 440
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "9a797ccd3f",
+    "slug": "2024-03-23-uga-national-wide-rollout-of-ugandaemrplus-o3-distro-in-uganda",
+    "studies": {
+     "health": {
+      "UGA": 118
+     }
+    },
+    "path": "raw/2024/2024-03-23-uga-national-wide-rollout-of-ugandaemrplus-o3-distro-in-uganda.md",
+    "words": 410
+   },
+   {
+    "key": "34464f8867",
+    "slug": "2024-09-19-uga-who-and-germany-donate-it-equipment-to-support-health-sector-digitizat",
+    "studies": {
+     "health": {
+      "UGA": 117
+     }
+    },
+    "path": "raw/2024/2024-09-19-uga-who-and-germany-donate-it-equipment-to-support-health-sector-digitizat.md",
+    "words": 484
+   },
+   {
+    "key": "09f4c6a1fc",
+    "slug": "2025-06-23-sen-du-msas-tout-savoir-sur-ce-moteur-de-changement-du-systeme-de-sante-se",
+    "studies": {
+     "health": {
+      "SEN": 84
+     },
+     "healthexchange": {
+      "SEN": 16
+     },
+     "healthmis": {
+      "SEN": 67
+     }
+    },
+    "path": "raw/2025/2025-06-23-sen-du-msas-tout-savoir-sur-ce-moteur-de-changement-du-systeme-de-sante-se.md",
+    "words": 1044
+   },
+   {
+    "key": "ed75d45829",
+    "slug": "2026-10-29-swz-cmis-rollout-gains-momentum-as-trainers-get-equipped",
+    "studies": {
+     "health": {
+      "SWZ": 80
+     },
+     "healthexchange": {
+      "SWZ": 21
+     },
+     "healthmis": {
+      "SWZ": 60
+     }
+    },
+    "path": "raw/2026/2026-10-29-swz-cmis-rollout-gains-momentum-as-trainers-get-equipped.md",
+    "words": 538
+   },
+   {
+    "key": "efda265b21",
+    "slug": "2025-08-01-ken-cs-aden-duale-launches-digital-health-reforms-to-boost-universal-healt",
+    "studies": {
+     "health": {
+      "KEN": 137
+     },
+     "healthexchange": {
+      "KEN": 78
+     },
+     "healthmis": {
+      "KEN": 139
+     },
+     "idrobustness": {
+      "KEN": 608
+     }
+    },
+    "path": "raw/2025/2025-08-01-ken-cs-aden-duale-launches-digital-health-reforms-to-boost-universal-healt.md",
+    "words": 728
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "5e8576a5ed",
+    "slug": "2025-07-29-moz-ministry-of-health-and-c-saude-partner-towards-the-development-of-an-i",
+    "studies": {
+     "health": {
+      "MOZ": 74
+     },
+     "healthexchange": {
+      "MOZ": 37
+     },
+     "healthmis": {
+      "MOZ": 68
+     },
+     "itcapacity": {
+      "MOZ": 47
+     }
+    },
+    "path": "raw/2025/2025-07-29-moz-ministry-of-health-and-c-saude-partner-towards-the-development-of-an-i.md",
+    "words": 577
+   },
+   {
+    "key": "ce8c7708db",
+    "slug": "2026-05-01-rwa-thematic-snapshot-rwanda-digitizing-rural-health-facilities",
+    "studies": {
+     "health": {
+      "RWA": 96
+     },
+     "healthexchange": {
+      "RWA": 28
+     },
+     "healthmis": {
+      "RWA": 82
+     },
+     "satellitebroadband": {
+      "RWA": 68
+     }
+    },
+    "path": "raw/2026/2026-05-01-rwa-thematic-snapshot-rwanda-digitizing-rural-health-facilities.md",
+    "words": 1431
+   },
+   {
+    "key": "548f189023",
+    "slug": "2025-08-30-zwe-impilo-deployed-to-1-200-public-health-centres",
+    "studies": {
+     "health": {
+      "ZWE": 67
+     },
+     "healthexchange": {
+      "ZWE": 28
+     },
+     "mobileaffordability": {
+      "ZWE": 59
+     },
+     "satellitebroadband": {
+      "ZWE": 102
+     }
+    },
+    "path": "raw/2025/2025-08-30-zwe-impilo-deployed-to-1-200-public-health-centres.md",
+    "words": 745
+   },
+   {
+    "key": "9c8f1537ae",
+    "slug": "2024-01-01-cog-republic-of-the-congo-2024-community-health-maturity-assessment",
+    "studies": {
+     "health": {
+      "COG": 45
+     },
+     "healthmis": {
+      "COG": 38
+     }
+    },
+    "path": "raw/2024/2024-01-01-cog-republic-of-the-congo-2024-community-health-maturity-assessment.md",
+    "words": 589
+   },
+   {
+    "key": "a44c7f3bd1",
+    "slug": "2024-01-16-som-somalia-launches-electronic-immunization-registry-in-latest-leap-of-in",
+    "studies": {
+     "health": {
+      "SOM": 48
+     },
+     "healthmis": {
+      "SOM": 42
+     }
+    },
+    "path": "raw/2024/2024-01-16-som-somalia-launches-electronic-immunization-registry-in-latest-leap-of-in.md",
+    "words": 701
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "6d269c479b",
+    "slug": "2024-06-11-moz-health-information-systems",
+    "studies": {
+     "health": {
+      "MOZ": 77
+     },
+     "healthmis": {
+      "MOZ": 66
+     }
+    },
+    "path": "raw/2024/2024-06-11-moz-health-information-systems.md",
+    "words": 556
+   },
+   {
+    "key": "456dadd106",
+    "slug": "2024-10-10-tgo-le-togo-lance-la-construction-d-un-centre-national-de-sante-digitale",
+    "studies": {
+     "health": {
+      "TGO": 68
+     },
+     "healthmis": {
+      "TGO": 55
+     }
+    },
+    "path": "raw/2024/2024-10-10-tgo-le-togo-lance-la-construction-d-un-centre-national-de-sante-digitale.md",
+    "words": 502
+   },
+   {
+    "key": "88d945e9be",
+    "slug": "2024-11-04-cog-selection-d-un-cabinet-international-pour-la-formation-de-52-gestionna",
+    "studies": {
+     "health": {
+      "COG": 44
+     },
+     "healthmis": {
+      "COG": 37
+     }
+    },
+    "path": "raw/2024/2024-11-04-cog-selection-d-un-cabinet-international-pour-la-formation-de-52-gestionna.md",
+    "words": 355
+   },
+   {
+    "key": "2f6cb67ba8",
+    "slug": "2024-12-09-moz-mozambique-launches-the-first-digital-hospital-in-the-national-health",
+    "studies": {
+     "health": {
+      "MOZ": 76
+     },
+     "healthmis": {
+      "MOZ": 69
+     }
+    },
+    "path": "raw/2024/2024-12-09-moz-mozambique-launches-the-first-digital-hospital-in-the-national-health.md",
+    "words": 349
+   },
+   {
+    "key": "b034abc8ba",
+    "slug": "2025-04-01-tza-health-facility-level-digitalization",
+    "studies": {
+     "health": {
+      "TZA": 83
+     },
+     "healthmis": {
+      "TZA": 58
+     }
+    },
+    "path": "raw/2025/2025-04-01-tza-health-facility-level-digitalization.md",
+    "words": 388
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "b0c5b36cf3",
+    "slug": "2025-10-30-gha-akandoh-okoe-boye-trade-words-over-payment-in-national-e-health-projec",
+    "studies": {
+     "health": {
+      "GHA": 60
+     },
+     "healthmis": {
+      "GHA": 68
+     }
+    },
+    "path": "raw/2025/2025-10-30-gha-akandoh-okoe-boye-trade-words-over-payment-in-national-e-health-projec.md",
+    "words": 850
+   },
+   {
+    "key": "ad2f23daf3",
+    "slug": "2026-03-11-ssd-pilot-implementation-of-openmrs-at-al-sabah-children-s-hospital-and-mu",
+    "studies": {
+     "health": {
+      "SSD": 77
+     },
+     "healthmis": {
+      "SSD": 54
+     }
+    },
+    "path": "raw/2026/2026-03-11-ssd-pilot-implementation-of-openmrs-at-al-sabah-children-s-hospital-and-mu.md",
+    "words": 602
+   },
+   {
+    "key": "6a79d40c40",
+    "slug": "2026-06-25-gab-egabon-sis-le-gabon-tourne-une-page-et-ouvre-une-nouvelle-phase-de-sa",
+    "studies": {
+     "health": {
+      "GAB": 68
+     },
+     "healthmis": {
+      "GAB": 55
+     }
+    },
+    "path": "raw/2026/2026-06-25-gab-egabon-sis-le-gabon-tourne-une-page-et-ouvre-une-nouvelle-phase-de-sa.md",
+    "words": 799
+   },
+   {
+    "key": "b50abb03cf",
+    "slug": "2026-07-16-gab-egabon-sis-la-digitalisation-effective-a-l-hopital-de-la-cooperation-s",
+    "studies": {
+     "health": {
+      "GAB": 67
+     },
+     "healthmis": {
+      "GAB": 53
+     }
+    },
+    "path": "raw/2026/2026-07-16-gab-egabon-sis-la-digitalisation-effective-a-l-hopital-de-la-cooperation-s.md",
+    "words": 511
+   },
+   {
+    "key": "eac5431156",
+    "slug": "2026-08-12-sdn-suna-gedaref-dhis2-national-training-second-round",
+    "studies": {
+     "health": {
+      "SDN": 50
+     },
+     "healthmis": {
+      "SDN": 45
+     }
+    },
+    "path": "raw/2026/2026-08-12-sdn-suna-gedaref-dhis2-national-training-second-round.md",
+    "words": 363
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "651f6fc46e",
+    "slug": "2026-09-01-tcd-renforcer-les-capacites-du-secteur-prive-pour-ameliorer-les-donnees-de",
+    "studies": {
+     "health": {
+      "TCD": 45
+     },
+     "healthmis": {
+      "TCD": 42
+     }
+    },
+    "path": "raw/2026/2026-09-01-tcd-renforcer-les-capacites-du-secteur-prive-pour-ameliorer-les-donnees-de.md",
+    "words": 323
+   },
+   {
+    "key": "6ee2e9b6c5",
+    "slug": "2024-01-01-cod-case-study-using-the-hiv-package-with-path-drc",
+    "studies": {
+     "health": {
+      "COD": 85
+     },
+     "healthmis": {
+      "COD": 59
+     },
+     "localgov": {
+      "COD": 157
+     },
+     "publicconsultation": {
+      "COD": 112
+     }
+    },
+    "path": "raw/2024/2024-01-01-cod-case-study-using-the-hiv-package-with-path-drc.md",
+    "words": 1315
+   },
+   {
+    "key": "3228663714",
+    "slug": "2024-01-01-lby-community-health-libya-country-brief",
+    "studies": {
+     "health": {
+      "LBY": 36
+     },
+     "healthmis": {
+      "LBY": 34
+     },
+     "localgov": {
+      "LBY": 93
+     },
+     "refugees": {
+      "LBY": 55
+     },
+     "schoolinternet": {
+      "LBY": 66
+     }
+    },
+    "path": "raw/2024/2024-01-01-lby-community-health-libya-country-brief.md",
+    "words": 2304
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "adf2cd8a99",
+    "slug": "2024-12-05-tgo-sante-des-hopitaux-bientot-equipes-de-systemes-digitaux-d-information",
+    "studies": {
+     "health": {
+      "TGO": 67
+     },
+     "healthmis": {
+      "TGO": 54
+     },
+     "police": {
+      "TGO": 108
+     },
+     "schools": {
+      "TGO": 47
+     },
+     "taxadmin": {
+      "TGO": 49
+     }
+    },
+    "path": "raw/2024/2024-12-05-tgo-sante-des-hopitaux-bientot-equipes-de-systemes-digitaux-d-information.md",
+    "words": 330
+   },
+   {
+    "key": "0c075334f3",
+    "slug": "2026-06-05-gab-renforcement-des-capacites-en-gestion-des-donnees-sanitaires-les-major",
+    "studies": {
+     "health": {
+      "GAB": 69
+     },
+     "healthmis": {
+      "GAB": 54
+     },
+     "publicconsultation": {
+      "GAB": 64
+     }
+    },
+    "path": "raw/2026/2026-06-05-gab-renforcement-des-capacites-en-gestion-des-donnees-sanitaires-les-major.md",
+    "words": 770
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "09d9e15112",
+    "slug": "2025-05-22-lso-icap-enhances-lesothos-capacity-to-build-and-maintain-sustainable-data",
+    "studies": {
+     "health": {
+      "LSO": 53
+     },
+     "healthmis": {
+      "LSO": 42
+     },
+     "schoolinternet": {
+      "LSO": 112
+     }
+    },
+    "path": "raw/2025/2025-05-22-lso-icap-enhances-lesothos-capacity-to-build-and-maintain-sustainable-data.md",
+    "words": 795
+   },
+   {
+    "key": "e351d128c4",
+    "slug": "2025-08-19-zwe-electronic-health-record-systems-in-limited-resource-settings-a-compre",
+    "studies": {
+     "health": {
+      "ZWE": 65
+     },
+     "healthmis": {
+      "ZWE": 33
+     },
+     "schoolinternet": {
+      "ZWE": 174
+     }
+    },
+    "path": "raw/2025/2025-08-19-zwe-electronic-health-record-systems-in-limited-resource-settings-a-compre.md",
+    "words": 1467
+   },
+   {
+    "key": "2fc6b76df1",
+    "slug": "2026-07-31-gin-n-zerekore-le-projet-de-digitalisation-de-l-hopital-regional-entre-dan",
+    "studies": {
+     "health": {
+      "GIN": 45
+     },
+     "healthmis": {
+      "GIN": 38
+     },
+     "schools": {
+      "GIN": 48
+     },
+     "taxadmin": {
+      "GIN": 44
+     }
+    },
+    "path": "raw/2026/2026-07-31-gin-n-zerekore-le-projet-de-digitalisation-de-l-hopital-regional-entre-dan.md",
+    "words": 366
+   },
+   {
+    "key": "d26f7e536d",
+    "slug": "2025-02-05-zwe-zimbabwe-to-expand-electronic-health-records-to-500-more-facilities-in",
+    "studies": {
+     "health": {
+      "ZWE": 68
+     },
+     "idrobustness": {
+      "ZWE": 213
+     }
+    },
+    "path": "raw/2025/2025-02-05-zwe-zimbabwe-to-expand-electronic-health-records-to-500-more-facilities-in.md",
+    "words": 487
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "9ae51a5ab1",
+    "slug": "2023-12-13-dza-guelma-la-numerisation-des-services-de-sante-lancee",
+    "studies": {
+     "health": {
+      "DZA": 45
+     },
+     "localgov": {
+      "DZA": 162
+     }
+    },
+    "path": "raw/2023/2023-12-13-dza-guelma-la-numerisation-des-services-de-sante-lancee.md",
+    "words": 651
+   },
+   {
+    "key": "d06a500fc5",
+    "slug": "2023-12-01-mar-une-revolution-dans-le-systeme-de-soins",
+    "studies": {
+     "health": {
+      "MAR": 65
+     },
+     "schoolinternet": {
+      "MAR": 193
+     }
+    },
+    "path": "raw/2023/2023-12-01-mar-une-revolution-dans-le-systeme-de-soins.md",
+    "words": 1176
+   },
+   {
+    "key": "807f185bc6",
+    "slug": "2024-09-25-tun-digitalisation-du-secteur-de-la-sante-en-tunisie-un-pas-vers-une-meill",
+    "studies": {
+     "health": {
+      "TUN": 30
+     },
+     "schoolinternet": {
+      "TUN": 197
+     }
+    },
+    "path": "raw/2024/2024-09-25-tun-digitalisation-du-secteur-de-la-sante-en-tunisie-un-pas-vers-une-meill.md",
+    "words": 483
+   },
+   {
+    "key": "6eb1ad7273",
+    "slug": "2024-11-01-civ-vers-une-adoption-optimale-de-la-solution-dpi-une-nouvelle-dynamique-c",
+    "studies": {
+     "health": {
+      "CIV": 63
+     },
+     "schoolinternet": {
+      "CIV": 269
+     }
+    },
+    "path": "raw/2024/2024-11-01-civ-vers-une-adoption-optimale-de-la-solution-dpi-une-nouvelle-dynamique-c.md",
+    "words": 331
+   },
+   {
+    "key": "371a696347",
+    "slug": "2025-08-04-ben-benin-sante-vers-un-modele-plus-equitable-et-digitalise-des-2026",
+    "studies": {
+     "healthexchange": {
+      "BEN": 9
+     },
+     "healthmis": {
+      "BEN": 39
+     },
+     "schoolinternet": {
+      "BEN": 199
+     }
+    },
+    "path": "raw/2025/2025-08-04-ben-benin-sante-vers-un-modele-plus-equitable-et-digitalise-des-2026.md",
+    "words": 596
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "0e949c1566",
+    "slug": "2024-07-05-stp-cst-vai-instalar-sistema-de-rede-para-melhorar-servicos-informaticos-e",
+    "studies": {
+     "healthmis": {
+      "STP": 40
+     }
+    },
+    "path": "raw/2024/2024-07-05-stp-cst-vai-instalar-sistema-de-rede-para-melhorar-servicos-informaticos-e.md",
+    "words": 443
+   },
+   {
+    "key": "757fc3a83a",
+    "slug": "2024-12-09-stp-primeiro-ministro-insiste-na-necessidade-de-construcao-de-um-novo-hosp",
+    "studies": {
+     "healthmis": {
+      "STP": 39
+     }
+    },
+    "path": "raw/2024/2024-12-09-stp-primeiro-ministro-insiste-na-necessidade-de-construcao-de-um-novo-hosp.md",
+    "words": 702
+   },
+   {
+    "key": "c5836578ad",
+    "slug": "2025-11-06-ner-le-niger-renforce-l-acces-aux-soins-grace-a-la-digitalisation-du-syste",
+    "studies": {
+     "healthmis": {
+      "NER": 39
+     }
+    },
+    "path": "raw/2025/2025-11-06-ner-le-niger-renforce-l-acces-aux-soins-grace-a-la-digitalisation-du-syste.md",
+    "words": 275
+   },
+   {
+    "key": "ad79ff96f8",
+    "slug": "2026-06-05-ner-district-sanitaire-de-gaya-au-rythme-de-la-digitalisation-et-de-l-assu",
+    "studies": {
+     "healthmis": {
+      "NER": 38
+     }
+    },
+    "path": "raw/2026/2026-06-05-ner-district-sanitaire-de-gaya-au-rythme-de-la-digitalisation-et-de-l-assu.md",
+    "words": 1045
+   },
+   {
+    "key": "b93b2a06d4",
+    "slug": "2026-11-16-zaf-connectingafrica-mtn-telkom-talks",
+    "studies": {
+     "ictproduction": {
+      "ZAF": 54
+     }
+    },
+    "path": "raw/2026/2026-11-16-zaf-connectingafrica-mtn-telkom-talks.md",
+    "words": 470
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "a4c485e514",
+    "slug": "2026-11-16-zaf-mtn-sens-cautionary-telkom-approach",
+    "studies": {
+     "ictproduction": {
+      "ZAF": 56
+     }
+    },
+    "path": "raw/2026/2026-11-16-zaf-mtn-sens-cautionary-telkom-approach.md",
+    "words": 536
+   },
+   {
+    "key": "01a3ab968a",
+    "slug": "2026-11-16-zaf-techcabal-mtn-telkom-talks",
+    "studies": {
+     "ictproduction": {
+      "ZAF": 57
+     }
+    },
+    "path": "raw/2026/2026-11-16-zaf-techcabal-mtn-telkom-talks.md",
+    "words": 842
+   },
+   {
+    "key": "b7af1f8385",
+    "slug": "2026-11-16-zaf-telkom-sens-cautionary-mtn-discussions",
+    "studies": {
+     "ictproduction": {
+      "ZAF": 58
+     }
+    },
+    "path": "raw/2026/2026-11-16-zaf-telkom-sens-cautionary-mtn-discussions.md",
+    "words": 477
+   },
+   {
+    "key": "ef19f24357",
+    "slug": "2025-07-03-tcd-chad-begins-drafting-digital-health-program-to-tackle-medical-staff-ga",
+    "studies": {
+     "internationalstandards": {
+      "TCD": 64
+     },
+     "internetusage": {
+      "TCD": 73
+     }
+    },
+    "path": "raw/2025/2025-07-03-tcd-chad-begins-drafting-digital-health-program-to-tackle-medical-staff-ga.md",
+    "words": 483
+   },
+   {
+    "key": "8ffae090b5",
+    "slug": "2026-11-13-mrt-ami-commission-affaires-economiques-ida-wardip-ratification",
+    "studies": {
+     "nonstatefinance": {
+      "MRT": 76
+     },
+     "opendatapolicy": {
+      "MRT": 41
+     },
+     "regionalpolicy": {
+      "MRT": 107
+     }
+    },
+    "path": "raw/2026/2026-11-13-mrt-ami-commission-affaires-economiques-ida-wardip-ratification.md",
+    "words": 380
+   }
+  ]
+ },
+ {
+  "stories": [
+   {
+    "key": "49ce26b717",
+    "slug": "2026-11-16-cnbcafrica-nigeria-six-country-digital-trade-accord",
+    "studies": {
+     "regionallaw": {
+      "GHA": 151,
+      "ZAF": 128
+     },
+     "regionalpolicy": {
+      "EGY": 98,
+      "RWA": 205
+     }
+    },
+    "path": "raw/2026/2026-11-16-cnbcafrica-nigeria-six-country-digital-trade-accord.md",
+    "words": 403
+   },
+   {
+    "key": "d4d5e91b6f",
+    "slug": "2026-11-16-civ-wearetech-djassao-tender-alerts-smes",
+    "studies": {
+     "startups": {
+      "CIV": 236
+     },
+     "techhubs": {
+      "CIV": 249
+     }
+    },
+    "path": "raw/2026/2026-11-16-civ-wearetech-djassao-tender-alerts-smes.md",
+    "words": 424
    }
   ]
  }
