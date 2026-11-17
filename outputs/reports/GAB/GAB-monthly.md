@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-17
 place: GAB
 ledger_rows: 42
 not_held: 11
-record: 5dad536668f3
+record: 9427a470b185
 ---
 
 # News, Oct – Nov 2026
@@ -249,6 +249,14 @@ Gabon's digital infrastructure holding SPIN and Cameroon's operator CAMTEL have 
 **[Télécommunications : MAGT et l'État signent une convention stratégique](https://union.sonapresse.com/fr/telecommunications-magt-et-letat-signent-une-convention-strategique)** — L'Union - Sonapresse, 7 October 2026
 
 Gabon's incumbent operator and the digital-economy ministry signed a convention at Mouila on 6 October ceding to the State the 196 km Fougamou-Mouila fibre section the operator pre-financed and built, with two technical centres. It is the first segment of the first phase of the national backbone extension.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fibre optique : le Gabon confie l’exploitation du réseau Lambaréné–Mouila à Gabon Fiber](https://techies.ga/article/fibre-optique-le-gabon-confie-lexploitation-du-reseau-lambarenemouila-a-gabon-fiber)** — Techies, 16 November 2026
+
+Gabon Fiber operates it from 16 Nov 2026; FCFA 3bn mobilised via Moov Africa off-budget; backbone target 3,433 km.
 
 </div>
 
