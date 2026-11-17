@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: BEN
-ledger_rows: 40
+ledger_rows: 43
 not_held: 4
-record: 32bddf7a5e77
+record: f62c6e1da545
 ---
 
 # News, Oct – Nov 2026
@@ -107,6 +107,20 @@ ADEA and the Mastercard Foundation held an action-planning workshop in Cotonou o
 **[Transit, transport et digitalisation : le Bénin engage quatre chantiers pour moderniser ses échanges commerciaux - LE MATINAL](https://lematinal.bj/transit-transport-et-digitalisation-le-benin-engage-quatre-chantiers-pour-moderniser-ses-echanges-commerciaux/)** — Le Matinal, 12 November 2026
 
 Benin's National Trade Facilitation Committee opened its first ordinary session of 2026 in Cotonou on 11 November 2026. The session focused on transit, transport and their digitalisation. It set four priorities, including follow-up of World Trade Organization Trade Facilitation Agreement commitments and a single customs transit guarantee. They also include a link between the foreign-trade single window and the customs system.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National digital health strategy (2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Soigner plus vite, sauver davantage : le pari numérique dans la santé au Bénin](https://www.agenceecofin.com/actualites-numerique/1711-143501-soigner-plus-vite-sauver-davantage-le-pari-numerique-dans-la-sante-au-benin)** — Agence Ecofin, 17 November 2026
+
+Benin's health minister Benjamin Hounkpatin set out a digital health roadmap at the Cyber Africa Forum on 17 November 2026. It includes a hospital information system with an electronic patient record keyed to a QR code. Platforms for emergency referral, blood products, dialysis and maternal and neonatal deaths are to be consolidated over 18 to 36 months. He said health data must be hosted in Benin.
 
 </div>
 
@@ -527,6 +541,34 @@ Summarised under [New investments](#new-investments).
 **[Justice au Bénin : les États-Unis mobilisent 2,3 millions de dollars pour moderniser les tribunaux](https://lanouvelletribune.info/2026/11/justice-au-benin-les-etats-unis-mobilisent-23-millions-de-dollars-pour-moderniser-les-tribunaux/)** — La Nouvelle Tribune, 8 November 2026
 
 Benin's justice ministry received equipment worth $2.3 million funded by the United States in Cotonou on 6 November 2026. The equipment is meant to modernise courts in the north of the country. Minister Yvon Détchénou said the criminal record certificate has been available online in three clicks since 1 November and that all jurisdictions are connected to the internet.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Hospital information system (SIH)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Soigner plus vite, sauver davantage : le pari numérique dans la santé au Bénin](https://www.agenceecofin.com/actualites-numerique/1711-143501-soigner-plus-vite-sauver-davantage-le-pari-numerique-dans-la-sante-au-benin)** — Agence Ecofin, 17 November 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Maternal and neonatal death reporting platform</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Soigner plus vite, sauver davantage : le pari numérique dans la santé au Bénin](https://www.agenceecofin.com/actualites-numerique/1711-143501-soigner-plus-vite-sauver-davantage-le-pari-numerique-dans-la-sante-au-benin)** — Agence Ecofin, 17 November 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
