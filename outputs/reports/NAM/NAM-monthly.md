@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: NAM
-ledger_rows: 23
+ledger_rows: 25
 not_held: 8
-record: 6c0abaa48ddc
+record: 5904b25b8c6e
 ---
 
 # News, Oct – Nov 2026
@@ -22,6 +22,8 @@ record: 6c0abaa48ddc
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
 </nav>
 
 ## Governance
@@ -121,6 +123,20 @@ ISO lists the Namibian Standards Institution, set up under the Standards Act 200
 **[Paratus Namibia launches Eutelsat’s OneWeb LEO connectivity](https://www.itweb.africa/article/paratus-namibia-launches-eutelsats-oneweb-leo-connectivity/dgp45qaBnYVvX9l8)** — ITWeb Africa, 7 October 2026
 
 Paratus Namibia launched Eutelsat's OneWeb low-earth-orbit satellite internet service across Namibia on 7 October 2026, with capped and uncapped packages for homes and businesses. It follows a November 2025 agreement between Paratus and Eutelsat covering South Africa, Angola, Namibia, Botswana and Zambia. No prices are given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Karasberg West towers at Noordoewer and Hakkiesdoorn</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibia plans two telecommunications towers in //Kharas region to improve rural connectivity](https://techreviewafrica.com/news/8366/namibia-plans-two-telecommunications-towers-in-kharas-region-to-improve-rural-connectivity)** — Tech Review Africa, 17 November 2026
+
+Namibia's ICT ministry plans two telecommunications towers, at Noordoewer and Hakkiesdoorn, in the 2026/27 financial year. This was announced at a //Kharas stakeholder engagement, reported on 17 November 2026. Participants also called for an assessment of the Rural ICT Centres in Tses and Aroab.
 
 </div>
 
@@ -457,6 +473,28 @@ At NAMFISA's FinTech Square conference in Windhoek on 14 October 2026, a Bank of
 **[Namibia's first AI tutoring labs launched in Lüderitz](https://aitsafrika.com/education/namibias-first-ai-tutoring-labs-launched-in-lderitz-nmh018656-3014-22949-22972)** — Aitsa, 21 October 2026
 
 Two AI tutoring labs, the first in a Namibian government school, opened at Angra Pequena Senior Secondary School in Lüderitz on 21 September 2026, funded with N$1.15 million from BW Kudu and Namport. Run by YYeni AI, they serve the school's 436 learners and 20 teachers, with six more schools in the ||Kharas region due to get labs in 2027.
+
+</div>
+
+</div>
+
+## Inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+</nav>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Rural ICT Centres at Tses and Aroab</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Namibia plans two telecommunications towers in //Kharas region to improve rural connectivity](https://techreviewafrica.com/news/8366/namibia-plans-two-telecommunications-towers-in-kharas-region-to-improve-rural-connectivity)** — Tech Review Africa, 17 November 2026
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
