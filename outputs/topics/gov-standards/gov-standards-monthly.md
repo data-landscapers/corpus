@@ -1,10 +1,10 @@
 ---
 title: Standards — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: gov.standards
-places: DZA; BEN; BFA; BDI; CMR; COM; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; ZAF; SDN; UGA; ZMB
-record: ec878dcb9c65
+places: DZA; BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; SEN; ZAF; SDN; TUN; UGA; ZMB
+record: 097f64046b0d
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: ec878dcb9c65
 <a href="#algeria">Algeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -46,9 +48,13 @@ record: ec878dcb9c65
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#rwanda">Rwanda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#senegal">Senegal</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sudan">Sudan</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -82,6 +88,30 @@ The ISO membership page, on file under 9 November 2026, lists the Institut Algé
 **[Transformation numérique : Le Bénin veut accélérer avec l’IA et miser sur ses propres talents](https://cadreco.media/index.php/numerique/2026/transformation-numerique-le-benin-veut-accelerer-avec-lia-et-miser-sur-ses-propres-talents)** — CADRECO, 9 October 2026
 
 Benin's public-sector digital chiefs met in Cotonou on 8 October 2026 at a conference now covering digital transformation and innovation, where an AI cybersecurity framework with four risk tiers, an AI officer and an ethics committee was presented. Officials cited shortages of staff, equipment, servers and funding in administrations, and the minister stressed developing local solutions and talent.
+
+</div>
+
+</div>
+
+## Botswana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Radio Regulations Board seat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASA welcomes South Africa's re-election to the ITU Council](https://www.icasa.org.za/news/2026/icasa-welcomes-south-africas-re-election-to-the-itu-council)** — Independent Communications Authority of South Africa, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+South Africa was re-elected to the ITU Council in Doha, ICASA said on 16 November 2026. Basebi Mosinyi of Botswana's regulator, BOCRA, won a Radio Regulations Board seat. The term is 2027-2030.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats.
 
 </div>
 
@@ -485,6 +515,20 @@ Nigeria's NITDA began its first IPv6 migration readiness training for federal mi
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Council seat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -510,6 +554,36 @@ The Rwanda Standards Board lists the regional and international technical commit
 **[Rwanda National DPI Guidelines, Version 1.0]()** — Ministry of ICT and Innovation (MINICT) and Rwanda Information Society Authority (RISA), 1 November 2026
 
 Rwanda's ICT ministry and RISA published the National DPI Guidelines, Version 1.0, in November 2026. The RISA-owned guidelines set a DPI classification framework and the Rwanda Stack building blocks. They cover interoperability, registries, identity, consent and procurement, with a seven-step roadmap ending in mandated instruments.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Council seat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats.
+
+</div>
+
+</div>
+
+## Senegal
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Council seat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats.
 
 </div>
 
@@ -550,6 +624,22 @@ Sudan News Agency reported on 2 October 2026 that the Sudanese Standards and Met
 **[ISO - SSMO - Sudanese Standards and Metrology Organization](https://www.iso.org/member/2078.html)** — International Organization for Standardization, 9 November 2026
 
 The ISO membership page, on file under 9 November 2026, lists the Sudanese Standards and Metrology Organization as a member body. It describes a government body set up in 1993, with headquarters in Khartoum, state offices and 15 laboratories, and lists its memberships of regional and international standards bodies. The page carries no date of its own.
+
+</div>
+
+</div>
+
+## Tunisia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Council seat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats.
 
 </div>
 

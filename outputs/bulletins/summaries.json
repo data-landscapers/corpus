@@ -19459,6 +19459,16 @@
     "written": "2026-11-14",
     "summary": "Eswatini's ICT ministry told Parliament it will set up a 24-hour security operations centre and separate recovery sites, reported on 14 November 2026. This follows a September 2026 incident at the National Data Centre that disrupted at least 12 government platforms. 75% of the affected services had been restored."
   },
+  "2026-11-14-hespress-ar-dgssi-cyber-maturity-banking-transport-energy": {
+    "published": "2026-11-14",
+    "written": "2026-11-17",
+    "summary": "Morocco's information systems security directorate (DGSSI) has begun cyber-maturity assessments of banks, transport and energy. Minister Delegate Abdeltif Loudiyi told a parliamentary committee on 14 November 2026 that it audited 24 ministries and strategic bodies in 2026. An urgent review covered 144 online platforms of 45 bodies. Some systems were suspended until their flaws were fixed."
+  },
+  "2026-11-14-hespress-ar-naigf-rabat-digital-governance-forum": {
+    "published": "2026-11-14",
+    "written": "2026-11-17",
+    "summary": "The tenth North Africa Internet Governance Forum met in Rabat on 12 and 13 November 2026. Participants recommended updating digital legislation. They asked for AI, data science and cybersecurity in school and university curricula. They also called for incubators, funding and tax incentives for local AI tools in Arabic and Amazigh."
+  },
   "2026-11-14-lby-lana-chambers-union-unified-digital-system-phase-two": {
     "published": "2026-11-14",
     "written": "2026-11-15",
@@ -19553,6 +19563,11 @@
     "published": "2026-11-14",
     "written": "2026-11-14",
     "summary": "Zambia's Minister of Home Affairs and Internal Security, Clement Andeleki, said on 14 November 2026 that the government plans to digitalise police operations. The plan includes surveillance cameras in public places. No programme, budget or date was given."
+  },
+  "2026-11-15-ansut-lance-programme-acces-smartphones-subventionnes": {
+    "published": "2026-11-15",
+    "written": "2026-11-17",
+    "summary": "The national universal service agency ANSUT launched Côte d'Ivoire's subsidised smartphone access programme (PASS) on 12 November 2026, at Ivoire Tech Forum. Its director-general said the aim is to raise smartphone penetration from about 40% to 80% by 2030. No subsidy terms, prices or beneficiary numbers were given."
   },
   "2026-11-15-bfa-lefaso-vulgatic-lassina-bamba-rural-digital-literacy": {
     "published": "2026-11-15",
@@ -19664,10 +19679,90 @@
     "written": "2026-11-16",
     "summary": "A Daily Maverick column sets out what South Africa should seek from President Ramaphosa's Silicon Valley visit. It notes a large US State Department delegation to the Africa Tech Festival in Cape Town the same week."
   },
+  "2026-11-16-34m-learners-700000-teachers-now-on-nigerias-digital-education-database": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Nigeria's Federal Ministry of Education said on 16 November 2026 that its Nigerian Education Data Infrastructure now holds records of more than 34 million learners and 700,000 teachers. The data was collected from schools on digital devices. The ministry said it will launch a National EdTech Strategy with five pillars, phased from late 2026 to 2030."
+  },
+  "2026-11-16-ami-ar-assembly-ratifies-ida-resilience-digital-transformation": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Mauritania's National Assembly adopted two bills on 16 November 2026 ratifying financing agreements with the International Development Association. One covers a social safety-net and resilience operation. The other is additional financing, signed on 16 September 2026, for the Digital Transformation in Africa project under the West Africa Regional Digital Integration Programme."
+  },
   "2026-11-16-ben-wearetech-ia-chine-snaeia-competences-jeunesse": {
     "published": "2026-11-16",
     "written": "2026-11-16",
     "summary": "Benin was named the first pilot country of a UNESCO-backed AI initiative at a China-Africa education forum in Wuhan on 11 November 2026. Its higher-education ministry also signed a memorandum with the Sino-North Africa Education Innovation Association to link Beninese institutions with Chinese universities, training centres and firms. No timetable or number of beneficiaries was given."
+  },
+  "2026-11-16-bloomsbury-biometric-digital-id-ch01-introduction-sesan-roberts": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "'Gbenga Sesan and Tony Roberts wrote the introduction to Biometric Digital ID in Africa (Bloomsbury, 2026). They state that in no African country did citizens ask for a nationwide biometric digital ID. The book asks whose agenda it serves, who funds it, and who gains or is excluded, using nine country case studies."
+  },
+  "2026-11-16-bloomsbury-biometric-digital-id-ch02-tunisia-jouini": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Yosr Jouini wrote chapter 2 of Biometric Digital ID in Africa (Bloomsbury, 2026), on Tunisia. It assesses the current state of the national digital identity system, its historical foundations and the roles of key institutions. It then considers the effects on power dynamics and citizens' rights, in a period of political change and instability."
+  },
+  "2026-11-16-bloomsbury-biometric-digital-id-ch03-nigeria-oloyede": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Ridwan Oloyede wrote chapter 3 of Biometric Digital ID in Africa (Bloomsbury, 2026), on Nigeria's national ID programme. He treats the move to a central biometric system as a political process. Bodies such as the World Bank shaped it. The chapter weighs the opportunities and risks for citizens and the state."
+  },
+  "2026-11-16-bloomsbury-biometric-digital-id-ch04-mozambique-tsandzana": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Dercio Tsandzana wrote chapter 4 of Biometric Digital ID in Africa (Bloomsbury, 2026), on Mozambique. The World Bank estimated in 2024 that nearly 13 million Mozambicans lacked a national ID card, while more than 13 million registered to vote that year. The chapter examines why the state appears to favour voter registration over civil identity documents."
+  },
+  "2026-11-16-bloomsbury-biometric-digital-id-ch05-malawi-kainja": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Jimmy Kainja wrote chapter 5 of Biometric Digital ID in Africa (Bloomsbury, 2026), on Malawi. By 2024 more than 12.3 million people, nearly 95% of adults, had enrolled, above the target of 11.3 million. The chapter argues that governance often falls short of necessity and proportionality standards, and assesses rights and power interests."
+  },
+  "2026-11-16-bloomsbury-biometric-digital-id-ch06-ghana-appiah-adjei": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Gifty Appiah-Adjei wrote chapter 6 of Biometric Digital ID in Africa (Bloomsbury, 2026), on Ghana. It examines data privacy and surveillance risks in the digital ID system, including gaps in consent, purpose limitation, oversight of third-party data sharing and independent privacy audits. It also considers the effects of linking the ID to services."
+  },
+  "2026-11-16-bloomsbury-biometric-digital-id-ch07-kenya-mutungu": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Grace Mutung'u wrote chapter 7 of Biometric Digital ID in Africa (Bloomsbury, 2026), on Kenya. It traces the country's identification systems over the last century and the move from single-purpose digital ID systems in public agencies to digital public infrastructure. The chapter sets this against the 2010 Constitution and the funding that development agencies have given to ID systems."
+  },
+  "2026-11-16-bloomsbury-biometric-digital-id-ch08-ethiopia-beny": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Helen Beny wrote chapter 8 of Biometric Digital ID in Africa (Bloomsbury, 2026), on Ethiopia's National Digital ID Program, known as Fayda and launched in 2021. As of November 2025, 28 million people had enrolled, against a goal of 90 million by 2027. The chapter asks whether the system serves efficient governance or surveillance, given conflict and weak safeguards."
+  },
+  "2026-11-16-bloomsbury-biometric-digital-id-ch09-botswana-bewlay": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Lesedi Bewlay wrote chapter 9 of Biometric Digital ID in Africa (Bloomsbury, 2026), on Botswana. It follows the Omang national ID from a paper credential introduced in 1988 to a biometric platform using fingerprints and facial recognition. The chapter asks how the system balances modernisation against rights protection and which power interests it reflects."
+  },
+  "2026-11-16-bloomsbury-biometric-digital-id-ch10-benin-musoni": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Melody Musoni wrote chapter 10 of Biometric Digital ID in Africa (Bloomsbury, 2026), on Benin. It places digital ID in the context of the African Continental Free Trade Area's digital trade protocol and the aim of a digital single market. The chapter examines how identity verification supports online transactions, service delivery and financial inclusion."
+  },
+  "2026-11-16-bloomsbury-biometric-digital-id-ch11-conclusions-sesan-roberts": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "'Gbenga Sesan and Tony Roberts wrote the concluding chapter of Biometric Digital ID in Africa (Bloomsbury, 2026). They draw on nine country case studies to ask whose agenda biometric ID serves, who shapes it and who benefits. The chapter distinguishes identification, which is externally determined, from identity, which a person lives and defines."
+  },
+  "2026-11-16-bwa-projectsbw-moseki-central-bank-collaboration-papss": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Bank of Botswana Governor Lesego Moseki spoke at a trade finance forum in Gaborone on 16 November 2026. He called on African central banks to work more closely with the Pan-African Payment and Settlement System (PAPSS). He said reliance on correspondent banks outside Africa causes delays and foreign exchange pressure."
+  },
+  "2026-11-16-cipesa-responsible-ai-use-civil-society": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "CIPESA published an article by Doreen Elizabeth Namuyanja on 16 November 2026. It says civil society staff increasingly use AI for research, drafting and proposals. It calls for organisational policies to protect sensitive material such as testimonies. Outputs should be checked and human rights principles upheld."
+  },
+  "2026-11-16-civ-etnews-elice-afdb-k-ai-voucher-gpu-npu-cloud": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "The Korean firm Elice Group said on 16 November 2026 that it has joined the African Development Bank's Korea-Africa K-AI Voucher Project. It will supply cloud GPU and NPU computing worth KRW 700 million to African AI start-ups, working from Côte d'Ivoire, as official development assistance. Recipients and a timetable were not given."
   },
   "2026-11-16-civ-wearetech-djassao-tender-alerts-smes": {
     "published": "2026-11-16",
@@ -19684,6 +19779,56 @@
     "written": "2026-11-16",
     "summary": "The posts and telecoms minister inspected a PATNUC connectivity site at Campo Beach, in the South region, on 13 November 2026. It is one of nine in the Océan department. The rural connectivity programme plans sites in 362 under-served localities."
   },
+  "2026-11-16-cnbcafrica-nigeria-six-country-digital-trade-accord": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Nigeria's trade minister, Jumoke Oduwole, told Reuters on 16 November 2026 that Nigeria expects to sign a digital-services accord this month. The other parties are Ghana, Rwanda, Kenya, South Africa and Egypt. It would ease expansion by digital-service firms across those markets. She gave no terms."
+  },
+  "2026-11-16-empowering-change-through-ai-competences-digcomp-utaut-egypt": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "A journal study examines how digital competence relates to AI adoption in Egypt. It combines the UTAUT acceptance model with the DigComp framework and draws on an online survey of 400 adults living in Egypt. It examines how technological, social and competence factors shape intention to use AI and readiness for responsible adoption."
+  },
+  "2026-11-16-fiscalite-numerique-en-afrique-entre-choix-fiscaux-et-contraintes-internationales": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Tax specialist Joëlle Traoré wrote on 16 November 2026 about how African countries tax digital firms with no local presence. She takes Kenya as her case. Kenya introduced a digital services tax in January 2021. She sets national tax choices against international constraints."
+  },
+  "2026-11-16-gov-bw-shared-digital-services": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "The Government of Botswana publishes a page on its Department of Shared Digital Services. The department governs government information systems. It names six functions: networks, data centres, information security, IT service management, IT strategy, and research."
+  },
+  "2026-11-16-gov-bw-voter-registration-omang-requirement": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "The Government of Botswana's voter registration page states that citizens aged 18 and over must register with the Independent Electoral Commission to vote. Eligibility requires a valid national identity card (Omang), for resident and non-resident citizens alike. Registered voters join the roll for their constituency and receive a Voter's Registration Card."
+  },
+  "2026-11-16-hespress-ar-ai-ministry-sovereign-platform": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Morocco's AI and digital minister, Ahmed Rahhou, set out his ministry's 2027 programme to parliament, Hespress reported on 16 November 2026. It includes national language models for Darija and Amazigh. It also includes a sovereign AI platform. By mid-October the ministry had committed 6.31% of its 2026 budget."
+  },
+  "2026-11-16-iebc-biometric-voter-registration-bvr": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Kenya's electoral commission (IEBC) describes its Biometric Voter Registration system on a web page. It cites the Election Act 2011, which lets the commission use appropriate technology, and the 2010 Constitution's requirement that the system be simple, accurate, verifiable, secure, accountable and transparent. It names eliminating double registration and faster results transmission as needs."
+  },
+  "2026-11-16-iebc-electronic-voter-identification-evid": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Kenya's electoral commission (IEBC) describes its Electronic Voter Identification system, an electronic poll book with fingerprint readers on laptops or handheld devices. It says the devices were first used at the 4 March general election, with 29,000 laptops and 4,600 handhelds. Some machines failed on polling day through inadequate training and flat batteries, and officials then used printed registers."
+  },
+  "2026-11-16-interswitch-uba-kenya-verve": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Interswitch East Africa has partnered with UBA Kenya, as reported on 16 November 2026. UBA Kenya customers can now use Verve cards for payments and cash withdrawals at more than 2,000 Interswitch-connected ATMs and merchant locations in Kenya. Interswitch says eligible domestic transactions settle in local currency."
+  },
+  "2026-11-16-ken-eu-kenya-adequacy-negotiations-concluded": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "The European Commission and Kenya's Office of the Data Protection Commissioner announced on 16 November 2026 that their negotiations on a mutual adequacy arrangement have concluded. Talks began in 2024. Each side will now start its own procedure to adopt an adequacy decision, which would be the first such arrangement between the EU and an African country."
+  },
   "2026-11-16-ken-itweb-cbk-cma-mandatory-vasp-licensing": {
     "published": "2026-11-16",
     "written": "2026-11-16",
@@ -19693,6 +19838,16 @@
     "published": "2026-11-16",
     "written": "2026-11-16",
     "summary": "Kenya's ICT Principal Secretary expects technical talks on an EU data-adequacy decision to end positively. He spoke on 13 November 2026 before the EU-Kenya Digital Dialogue. The meeting also covered digital public infrastructure, AI, digital identity and cybersecurity."
+  },
+  "2026-11-16-kictanet-whatsapp-usernames-privacy-kenya": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Egline Samoei wrote on KICTANet on 16 November 2026 about WhatsApp usernames in Kenya. Meta announced on 29 June 2026 that users could begin reserving usernames, so contacts need not see their phone numbers. The article asks whether this improves privacy, since a phone number in Kenya is often tied to M-Pesa and banking, or makes reaching people harder."
+  },
+  "2026-11-16-kra-what-is-etims": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "The Kenya Revenue Authority explains eTIMS, its electronic tax invoice management system, on a standing web page. All persons in business must on-board and issue electronic tax invoices. Where a supplier is a small business with annual turnover up to five million shillings, the purchaser issues the invoice on its behalf."
   },
   "2026-11-16-lbr-liberias-new-york-consulate-introduces-online-payment-for-services": {
     "published": "2026-11-16",
@@ -19714,25 +19869,75 @@
     "written": "2026-11-16",
     "summary": "The University of Nouakchott and the operator Moov Mauritel signed a framework partnership agreement on 12 November 2026. It covers very-high-speed internet and fibre on campus, 5G, a smart campus with IoT services, and support for doctoral research and internships. No cost or timeline was reported."
   },
+  "2026-11-16-mtc-mobile-id-faq": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Tunisia's Mobile ID service publishes a frequently asked questions page on its digital identity, known as E-Houwiya. It covers the legal framework, eligibility, how to obtain and use the identity, whether it is free, and what to do when a phone number changes or a device is lost. The page cites a circular of 19 January 2024."
+  },
   "2026-11-16-nam-huawei-khaire-digital-scholarship-launch": {
     "published": "2026-11-16",
     "written": "2026-11-16",
     "summary": "Huawei and Namibia's ICT ministry launched the Khai'Re Digital Scholarship Programme in Aus, reported on 16 November 2026. The five-year scheme aims to train 1,000 ICT learners and business practitioners and to develop 200 women in technology each year."
+  },
+  "2026-11-16-nga-experts-accuse-inec-failing-data-transparency-test": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "The Digital Rights Lawyers Initiative said on 16 November 2026 that Nigeria's electoral commission has not disclosed how it handles voters' data. It has also not said who runs its BVAS and IReV platforms. The data protection commission listed INEC as compliant for one past year only. The initiative has gone to court."
   },
   "2026-11-16-nga-techcabal-bank-cyberattack-disclosure-duties": {
     "published": "2026-11-16",
     "written": "2026-11-16",
     "summary": "The article sets out that in Nigeria reporting a cyberattack to the Central Bank, notifying affected customers and making a public announcement are separate duties. Banks must tell those affected where a personal-data breach is likely to create a high risk to individuals. CBN figures show N134.48 billion lost to fraud from 2020 to 2025. NIBSS figures put payment fraud losses at N25.85 billion in 2025, down from N52.26 billion."
   },
+  "2026-11-16-nga-techcabal-stablecoin-rules-cost": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "A TechCabal article of 16 November 2026 describes the Central Bank of Nigeria's new rules recognising stablecoins as payment and settlement instruments. They split tokens into naira-referenced and foreign-currency-referenced types. Issuers of the second type must hold up to ₦15 billion in minimum capital and issuers of the first ₦10 billion, and holders cannot earn interest."
+  },
+  "2026-11-16-nidp-fayda-authentication-page": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Ethiopia's National Digital ID Program publishes a Fayda authentication page for developers. It describes a single sign-on API built on OAuth 2.0 and OpenID Connect, and mentions the Fayda eSignet identity solution. The page points developers to its documentation for integration steps."
+  },
+  "2026-11-16-nimc-digital-identity-ecosystem": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Nigeria's National Identity Management Commission describes its Digital Identity Ecosystem on its website. The framework brings public and private partners together to enrol Nigerians and legal residents in a central national identity database and issue each a National Identification Number. The page says the World Bank, European Investment Bank and Agence Française de Développement will fund it."
+  },
+  "2026-11-16-prado-tunisia-national-identity-card-tun-bo-01001": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "The Council of the EU's PRADO register lists Tunisia's national identity card as document TUN-BO-01001, first issued in 2008 and valid indefinitely. The entry describes a card of 86 by 54 millimetres, with a green fluorescent overprint visible only under ultraviolet light. It records the exact first-issue date of this model as not known."
+  },
+  "2026-11-16-ramaphosa-sets-90-day-deadline-for-ai-rollout-plan": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "President Cyril Ramaphosa told about 300 South Africans, including nine ministers, on 16 November 2026 that the delegation on his Silicon Valley AI visit should pick a focused set of AI initiatives within 90 days of returning. Each should have clear responsibilities and measurable outcomes. He named investment, research and skills partnerships, and AI in public services."
+  },
   "2026-11-16-tcd-wearetech-telecoms-2027-budget-hearing-patn": {
     "published": "2026-11-16",
     "written": "2026-11-16",
     "summary": "Chad's telecommunications secretary of state asked the National Assembly's communication, telecommunications and digital-economy committee on 13 November 2026 for more budget in the 2027 finance bill. The money is for connectivity, digital infrastructure and digitising public services. ADETIC, ARCEP, SOTEL and STPE also described their financial and operational difficulties."
   },
+  "2026-11-16-tra-cotedivoire-aisca-ai-cooperation": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Côte d'Ivoire's ministry of digital transition signed a memorandum of understanding with the AI Skills and Compute Africa Foundation during Ivoire Tech Forum 2026, as reported on 16 November 2026. It covers AI skills, sovereign computing access for researchers, AI research and priority use cases, the data ecosystem and AI policy dialogue. No computing capacity or funding was stated."
+  },
+  "2026-11-16-tra-itu-resolution-206-ott-network-funding": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Isaac Sissokho wrote on 16 November 2026 about African proposals at the ITU conference in Doha. They concern over-the-top services and network funding. Resolution 206, adopted in 2018, directs the ITU to study the effects of such services. The 2022 conference left it unchanged."
+  },
   "2026-11-16-tun-kapitalis-ben-moussa-plateformes-publiques-resilience-numerique": {
     "published": "2026-11-16",
     "written": "2026-11-16",
     "summary": "An opinion piece argues that digital sovereignty means controlling infrastructure, protecting data and keeping services running in incidents. It cites two PHP vulnerabilities flagged in October 2026. It also cites the Microsoft 365 outage of 12 and 13 November."
+  },
+  "2026-11-16-uneca-benefits-digital-id-trade-economy-africa": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "The UN Economic Commission for Africa sets out, on a web page, the benefits of digital ID, digital trade and the digital economy in Africa. It says digital identification can support trade, governance, social protection, financial inclusion, domestic resource mobilisation, security and human rights. It cites e-commerce growth of about 40% a year in Africa."
   },
   "2026-11-16-xaf-africa-ai-infrastructure-gap-data-centre-expansion": {
     "published": "2026-11-16",
@@ -19744,14 +19949,74 @@
     "written": "2026-11-16",
     "summary": "Pan-African venture firm Enza Capital reported a first close of US$21 million on its AI fund, against a target of US$60 million. From 2027 the fund will back African startups building AI software in health, finance and agriculture."
   },
+  "2026-11-16-xaf-xinhua-afreximbank-intra-african-settlement-papss": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Haytham El Maayergi of Afreximbank spoke in Gaborone on 16 November 2026. He said Africa loses over 5 billion US dollars a year settling intra-African trade in foreign currencies. He urged countries outside the Pan-African Payment and Settlement System to join. It settles in local currencies across more than 30 countries."
+  },
+  "2026-11-16-xgl-itu-council-rrb-elections-2027-2030": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats."
+  },
+  "2026-11-16-xwa-ecofin-fintech-licensing-passport-ecowas-opinion": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Three West African fintech associations published a joint article on 16 November 2026. They represent Nigeria, Ghana and the UEMOA zone. They propose a pilot fintech licensing passport in ECOWAS. The Africa Fintech Network would coordinate it with central banks."
+  },
+  "2026-11-16-zaf-connectingafrica-mtn-telkom-talks": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "MTN and Telkom South Africa each issued cautionary announcements on 16 November 2026 confirming early-stage discussions. If they succeed, MTN would offer for all of Telkom's issued shares, paid in cash with a share alternative for Telkom shareholders. Terms are under negotiation, and the talks followed an approach by MTN."
+  },
+  "2026-11-16-zaf-icasa-welcomes-south-africa-reelection-itu-council": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "South Africa was re-elected to the ITU Council in Doha, ICASA said on 16 November 2026. Basebi Mosinyi of Botswana's regulator, BOCRA, won a Radio Regulations Board seat. The term is 2027-2030."
+  },
   "2026-11-16-zaf-inforeg-must-not-be-ai-regulator-says-ex-member": {
     "published": "2026-11-16",
     "written": "2026-11-16",
     "summary": "A founding member of the Information Regulator says it should not also regulate AI. He proposed an independent AI institute, created by presidential proclamation. It would work with the Regulator on data matters."
   },
+  "2026-11-16-zaf-itweb-5g-expansion-ookla-speeds": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Ookla found 5G in 47% of scanned locations in South Africa in October 2026, ITWeb reported on 16 November. The figure was 14.4% in 2023. Median 5G download speed fell 26.4% to 150.98 Mbps. GSMA Intelligence puts 5G at about 18% of mobile connections."
+  },
+  "2026-11-16-zaf-itweb-mtn-telkom-takeover-talks": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "ITWeb reported on 16 November 2026 that MTN Group and Telkom have entered discussions about MTN acquiring all of Telkom's issued shares. Both companies issued cautionary announcements that day, after an approach by MTN. Payment is expected in cash, with an MTN-share option, and both say talks are at an early stage with no certainty of a transaction."
+  },
+  "2026-11-16-zaf-itweb-teraco-ai-innovation-lab": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Teraco opened a Digital Realty Innovation Lab at its JB3 data centre on the Isando campus in Johannesburg, ITWeb reported on 16 November 2026. The lab tests AI and high-density deployments above 150kW per cabinet using liquid cooling. It is operational and taking bookings."
+  },
+  "2026-11-16-zaf-mtn-sens-cautionary-telkom-approach": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "MTN and Telkom announced on 16 November 2026, through the Johannesburg Stock Exchange news service, that they are in early-stage discussions. If they succeed, MTN will offer for the entire issued share capital of Telkom, with cash and a share alternative contemplated. Terms remain under negotiation and a deal is not certain."
+  },
+  "2026-11-16-zaf-ookla-south-africa-telecoms-crossroads": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Ookla reported on 16 November 2026 that South Africa's 5G footprint has widened without faster networks. It detected 5G in 47.0% of scanned locations in 2026, against 14.4% in 2023. Median 5G download speed fell 26.4% to 150.98 Mbps between the third quarters of 2024 and 2026, and mobile net promoter score dropped to -23.9."
+  },
   "2026-11-16-zaf-south-africa-must-seize-the-opportunities-of-the-ai-revolution": {
     "published": "2026-11-16",
     "written": "2026-11-16",
     "summary": "President Ramaphosa is leading a delegation to Silicon Valley to inform South Africa's approach to AI. He cites a Microsoft ranking of South Africa 46th of 147 economies for AI adoption. He wants AI used in education, health and criminal justice."
+  },
+  "2026-11-16-zaf-techcabal-mtn-telkom-talks": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "TechCabal reported on 16 November 2026 that MTN has returned to talks to acquire Telkom, as both companies confirmed in cautionary announcements that day, four years after its previous attempt collapsed. MTN is contemplating a cash offer with a share option for Telkom shareholders. The article notes a higher valuation, a state shareholder and likely regulatory hurdles."
+  },
+  "2026-11-16-zaf-telkom-sens-cautionary-mtn-discussions": {
+    "published": "2026-11-16",
+    "written": "2026-11-17",
+    "summary": "Telkom SA issued a cautionary announcement on 16 November 2026 telling shareholders it had entered discussions with MTN Group after an approach by MTN. If they succeed, MTN would offer for all of Telkom's shares, with cash consideration and a share alternative contemplated. Terms are subject to negotiation, discussions are at an early stage and no transaction is certain."
   }
 }

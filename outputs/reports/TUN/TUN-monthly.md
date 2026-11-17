@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-17
 place: TUN
 ledger_rows: 49
 not_held: 4
-record: 3d72365824f2
+record: b722753509c7
 ---
 
 # News, Oct – Nov 2026
@@ -158,7 +158,7 @@ Nessma and the TAP news agency reported on 5 November 2026 that Tunisia's family
 
 **[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
+The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats.
 
 </div>
 
@@ -294,7 +294,7 @@ Tunisia's Sahloul university hospital in Sousse had unified 180,000 patient reco
 
 **[PRADO: Tunisia - National Identity Card (TUN-BO-01001)](https://www.consilium.europa.eu/prado/en/TUN-BO-01001/index.html)** — Council of the European Union, 16 November 2026
 
-CIN version 01001 first issued 2008, 86 x 54 mm, indefinite validity; UV overprint the only listed feature.
+The Council of the EU's PRADO register lists Tunisia's national identity card as document TUN-BO-01001, first issued in 2008 and valid indefinitely. The entry describes a card of 86 by 54 millimetres, with a green fluorescent overprint visible only under ultraviolet light. It records the exact first-issue date of this model as not known.
 
 </div>
 

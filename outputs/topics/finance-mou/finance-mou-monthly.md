@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: finance.mou
-places: BWA; BDI; COD; EGY; ETH; MOZ; NGA; SEN; SDN; TZA; UGA
-record: ecc0a7052593
+places: BWA; BDI; CIV; COD; EGY; ETH; MOZ; NGA; SEN; SDN; TZA; UGA
+record: dff495be68cb
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: ecc0a7052593
 <a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burundi">Burundi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -60,6 +62,22 @@ Orange Botswana and Huawei Technologies Botswana signed a memorandum of understa
 **[Burundi: Bujumbura Seeks South Korean Support for Digital Identity Infrastructure](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-bujumbura-seeks-south-korean-support-for-digital-identity-infrastructure)** — We are Tech, 21 October 2026
 
 Burundi's finance and digital economy minister met South Korea's science and ICT ministry in Seoul in October 2026. They discussed cooperation on digital identity, data centres, secure hosting of public data and links between government agencies. Financing through KOICA and Korea's EDCF fund was explored, with training and cybersecurity support.
+
+</div>
+
+</div>
+
+## Cote d'Ivoire
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI cooperation memorandum with AI Skills and Compute Africa (AISCA)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire signs AI cooperation agreement with AISCA to strengthen skills and research](https://www.techreviewafrica.com/news/8351/cote-divoire-signs-ai-cooperation-agreement-with-aisca-to-strengthen-skills-and-research)** — Tech Review Africa, 16 November 2026
+
+Côte d'Ivoire's ministry of digital transition signed a memorandum of understanding with the AI Skills and Compute Africa Foundation during Ivoire Tech Forum 2026, as reported on 16 November 2026. It covers AI skills, sovereign computing access for researchers, AI research and priority use cases, the data ecosystem and AI policy dialogue. No computing capacity or funding was stated.
 
 </div>
 

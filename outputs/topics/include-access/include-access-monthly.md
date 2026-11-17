@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: include.access
 places: BFA; CPV; CIV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MWI; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: 7c240e101008
+record: 52349153a69d
 ---
 
 # News, Oct – Nov 2026
@@ -135,6 +135,20 @@ Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone a
 **[Côte d’Ivoire : un programme pour rendre les smartphones accessibles à 25 USD](https://www.agenceecofin.com/actualites-numerique/1211-143364-cote-d-ivoire-un-programme-pour-rendre-les-smartphones-accessibles-a-25-usd)** — Agence Ecofin, 12 November 2026
 
 Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone affordability on 10 November 2026 at the Mobile World Congress in Doha. The national programme aims at devices costing about 15,000 FCFA. It also aims at smartphone penetration of 80% by end-2027, against no more than 40% now. Subsidy terms and timetable are not yet set.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Subsidised smartphone access programme (PASS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ivoire Tech Forum 2026 : l’ANSUT lance un programme pour faciliter l’accès aux smartphones](https://www.linfodrome.com/economie/127653-ivoire-tech-forum-2026-l-ansut-lance-un-programme-pour-faciliter-l-acces-aux-smartphones)** — Linfodrome, 15 November 2026
+
+The national universal service agency ANSUT launched Côte d'Ivoire's subsidised smartphone access programme (PASS) on 12 November 2026, at Ivoire Tech Forum. Its director-general said the aim is to raise smartphone penetration from about 40% to 80% by 2030. No subsidy terms, prices or beneficiary numbers were given.
 
 </div>
 

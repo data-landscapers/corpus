@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; COM; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; STP; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: eb04cc5326f9
+record: 9c3e78079073
 ---
 
 # News, Oct – Nov 2026
@@ -726,6 +726,20 @@ The Daily Nation reported that Kenya's immigration department told a National As
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Huduma Namba (National Integrated Identity Management System)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya's Evolution from Digital ID to DPI (Grace Mutung'u), chapter 7 of Biometric Digital ID in Africa](https://doi.org/10.5040/9781350593923)** — Bloomsbury Academic, 16 November 2026
+
+Grace Mutung'u wrote chapter 7 of Biometric Digital ID in Africa (Bloomsbury, 2026), on Kenya. It traces the country's identification systems over the last century and the move from single-purpose digital ID systems in public agencies to digital public infrastructure. The chapter sets this against the 2010 Constitution and the funding that development agencies have given to ID systems.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -1355,6 +1369,20 @@ Tanzania's National Identification Authority had issued 23,718,060 identificatio
 **[Avec 180 000 Identifiants uniques, le CHU de Sahloul leader national en transition numérique - La Presse de Tunisie](https://www.lapresse.tn/2026/10/07/avec-180-000-identifiants-uniques-le-chu-de-sahloul-leader-national-en-transition-numerique/)** — La Presse de Tunisie, 7 October 2026
 
 Tunisia's Sahloul university hospital in Sousse had unified 180,000 patient records under the unique health identifier by 6 October 2026, ranking it first among public hospitals in the roll-out, it said in a statement. A meeting chaired by its director general agreed a common method for handling outstanding technical cases.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National identity card (version 01001)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PRADO: Tunisia - National Identity Card (TUN-BO-01001)](https://www.consilium.europa.eu/prado/en/TUN-BO-01001/index.html)** — Council of the European Union, 16 November 2026
+
+The Council of the EU's PRADO register lists Tunisia's national identity card as document TUN-BO-01001, first issued in 2008 and valid indefinitely. The entry describes a card of 86 by 54 millimetres, with a green fluorescent overprint visible only under ultraviolet light. It records the exact first-issue date of this model as not known.
 
 </div>
 

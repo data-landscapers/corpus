@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-17
 place: EGY
 ledger_rows: 68
 not_held: 35
-record: bb561eaae424
+record: c442d8ca9a1d
 ---
 
 # News, Oct – Nov 2026
@@ -290,7 +290,7 @@ Uganda's State Minister for ICT, Joyce Ssebugwawo, held talks in Cairo with Egyp
 
 **[Nigeria expects six-country African digital trade accord this month, minister says](https://www.cnbcafrica.com/2026/nigeria-expects-six-country-african-digital-trade-accord-this-month-minister-says)** — CNBC Africa (Reuters), 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-Nigeria, Ghana, Rwanda, Kenya, South Africa, Egypt; signing expected at AfCFTA Council of Ministers in Zimbabwe.
+Nigeria's trade minister, Jumoke Oduwole, told Reuters on 16 November 2026 that Nigeria expects to sign a digital-services accord this month. The other parties are Ghana, Rwanda, Kenya, South Africa and Egypt. It would ease expansion by digital-service firms across those markets. She gave no terms.
 
 </div>
 

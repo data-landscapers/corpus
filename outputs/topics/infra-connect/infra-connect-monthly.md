@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: c85c629b3d0f
+record: da6e52a74e97
 ---
 
 # News, Oct – Nov 2026
@@ -2247,6 +2247,29 @@ ICASA published a questionnaire on assigning high-demand spectrum in the Governm
 **[ICASA invites stakeholder input on the planned licensing of high-demand spectrum](https://www.icasa.org.za/news/2026/icasa-invites-stakeholder-input-on-the-planned-licensing-of-high-demand-spectrum)** — ICASA, 10 November 2026
 
 ICASA opened a stakeholder questionnaire on 10 November 2026 on the second phase of licensing high-demand IMT spectrum. It covers the IMT750, IMT800, IMT1500, IMT2300, IMT3300 and IMT3500 bands. It may also cover the 80 MHz once reserved for the Wireless Open Access Network. Responses are due by 16h00 on 30 November 2026, before an Information Memorandum and an Invitation to Apply.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">5G availability and median 5G speed (network-testing firm)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SA’s 5G expansion fails to deliver faster networks](https://www.itweb.co.za/article/sas-5g-expansion-fails-to-deliver-faster-networks/KjlyrvwBn8Qqk6am)** — ITWeb Africa, 16 November 2026
+
+Ookla found 5G in 47% of scanned locations in South Africa in October 2026, ITWeb reported on 16 November. The figure was 14.4% in 2023. Median 5G download speed fell 26.4% to 150.98 Mbps. GSMA Intelligence puts 5G at about 18% of mobile connections.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa Telecoms at a Crossroads: Addressing Performance and Adoption Challenges](https://www.ookla.com/articles/south-africa-connectivity-2026)** — Ookla, 16 November 2026
+
+Ookla reported on 16 November 2026 that South Africa's 5G footprint has widened without faster networks. It detected 5G in 47.0% of scanned locations in 2026, against 14.4% in 2023. Median 5G download speed fell 26.4% to 150.98 Mbps between the third quarters of 2024 and 2026, and mobile net promoter score dropped to -23.9.
 
 </div>
 

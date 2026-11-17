@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-17
 place: MAR
 ledger_rows: 31
 not_held: 13
-record: 20c11c2059b3
+record: 800853837afc
 ---
 
 # News, Oct – Nov 2026
@@ -192,7 +192,7 @@ Morocco's data-protection commission CNDP signed an agreement with the National 
 
 **[وزارة الذكاء الاصطناعي تراهن على توفير نماذج مغربية ومنصة سيادية](https://www.hespress.com/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%aa%d9%88%d9%81%d9%8a-1840366.html)** — Hespress, 16 November 2026
 
-Darija and Amazigh models, Oracle MAD 1.4bn cloud, 36 MW compute; 2026 budget only 6.31% committed by mid-October.
+Morocco's AI and digital minister, Ahmed Rahhou, set out his ministry's 2027 programme to parliament, Hespress reported on 16 November 2026. It includes national language models for Darija and Amazigh. It also includes a sovereign AI platform. By mid-October the ministry had committed 6.31% of its 2026 budget.
 
 </div>
 
@@ -270,7 +270,7 @@ Morocco's draft 2027 finance bill includes MAD 1.34 billion for digital sovereig
 
 **[المغرب يرصد "ثغرات سيبرانية حرجة" ويعزز حماية المنصات الرقمية](https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b1%d8%b5%d8%af-%d8%ab%d8%ba%d8%b1%d8%a7%d8%aa-%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d8%ad%d8%b1%d8%ac%d8%a9-%d9%88%d9%8a%d8%b9%d8%b2%d8%b2-1839739.html)** — Hespress, 14 November 2026
 
-Banking, transport, energy maturity studies; 24 audits in 2026; urgent review of 144+ platforms of 45 bodies.
+Morocco's information systems security directorate (DGSSI) has begun cyber-maturity assessments of banks, transport and energy. Minister Delegate Abdeltif Loudiyi told a parliamentary committee on 14 November 2026 that it audited 24 ministries and strategic bodies in 2026. An urgent review covered 144 online platforms of 45 bodies. Some systems were suspended until their flaws were fixed.
 
 </div>
 

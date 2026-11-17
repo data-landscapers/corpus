@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4ee532ca70a3
+record: 2a86f869945c
 ---
 
 # News, Oct – Nov 2026
@@ -648,19 +648,7 @@ The head of Egypt's Consumer Protection Agency, Ibrahim El-Segini, told Egypt Fo
 
 </div>
 
-<div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Government draft AI law</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[مصر تعتزم إصدار قانون خاص بالذكاء الاصطناعى لتنظيم استخداماته وحوكمته](https://www.youm7.com/story/2026/11/3/%D9%85%D8%B5%D8%B1-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%89-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7%D8%AA%D9%87-%D9%88%D8%AD%D9%88%D9%83%D9%85%D8%AA%D9%87/7604583)** — Youm7, 3 November 2026
-
-Youm7 reported that Egypt is in the final drafting stage of a dedicated law to regulate AI applications and their governance. The report names no official as its source. AI is governed at present under existing laws, including the Personal Data Protection Law 151 of 2020, cybercrime law 175 of 2018 and a 2022 fintech law.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1772,6 +1760,20 @@ The SA AI Index 2026, by World Wide Worx with Altron Digital Business, surveyed 
 **[South Africa must seize the opportunities of the AI revolution](https://www.gov.za/blog/south-africa-must-seize-opportunities-ai-revolution)** — South African Government, 16 November 2026
 
 President Ramaphosa is leading a delegation to Silicon Valley to inform South Africa's approach to AI. He cites a Microsoft ranking of South Africa 46th of 147 economies for AI adoption. He wants AI used in education, health and criminal justice.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Presidential AI mission: 90-day initiatives</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[‘We must act fast’: Ramaphosa sets 90-day deadline for AI rollout plan](https://www.citizen.co.za/news/south-africa/we-must-act-fast-ramaphosa-sets-90-day-deadline-ai-rollout-plan/)** — The Citizen, 16 November 2026
+
+President Cyril Ramaphosa told about 300 South Africans, including nine ministers, on 16 November 2026 that the delegation on his Silicon Valley AI visit should pick a focused set of AI initiatives within 90 days of returning. Each should have clear responsibilities and measurable outcomes. He named investment, research and skills partnerships, and AI in public services.
 
 </div>
 

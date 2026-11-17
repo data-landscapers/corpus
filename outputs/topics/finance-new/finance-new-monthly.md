@@ -1,10 +1,10 @@
 ---
 title: New investments — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: finance.new
 places: DZA; AGO; BEN; BWA; CIV; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
-record: ba1b737e86c3
+record: 78009858fd85
 ---
 
 # News, Oct – Nov 2026
@@ -308,6 +308,14 @@ Mauritania's Council of Ministers on 14 October 2026 adopted bills to ratify Wor
 **[La commission des affaires économiques de l’Assemblée nationale examine deux projets de loi](https://ami.mr/fr/archives/306260)** — Agence mauritanienne d'information (AMI), 13 November 2026
 
 A National Assembly committee examined ratification of additional WARDIP financing. It also examined an IDA credit for social resilience.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[الجمعية الوطنية تصادق على مشروعي قانونين يتعلقان باتفاقيتي تمويل للصمود وشبكات الأمان والتحول الرقمي](https://www.ami.mr/archives/273211)** — Agence Mauritanienne d'Information (AMI), 16 November 2026
+
+Mauritania's National Assembly adopted two bills on 16 November 2026 ratifying financing agreements with the International Development Association. One covers a social safety-net and resilience operation. The other is additional financing, signed on 16 September 2026, for the Digital Transformation in Africa project under the West Africa Regional Digital Integration Programme.
 
 </div>
 

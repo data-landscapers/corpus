@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: capacity.training
 places: AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZWE
-record: a0746c0bfb93
+record: 757572ca6327
 ---
 
 # News, Oct – Nov 2026
@@ -602,6 +602,20 @@ Nigeria opened applications on 11 November 2026 for about ₦4 billion of outcom
 **[FG recruits 50,000 young Nigerians for digital and creative skills training under iDICE](https://techcabal.com/2026/11/13/fg-recruits-50000-young-nigerians-for-digital-and-creative-skills-training-under-idice/)** — TechCabal, 13 November 2026
 
 Nigeria's federal government recruited 50,000 young people in seven North-West states between 1 September and 9 October 2026 for digital and creative skills training under the iDICE initiative. Training of 10 to 18 weeks starts on 16 November 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Teachers Digital Competency Framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[34m Learners, 700,000 Teachers Now on Nation’s Digital Education Database, Says FG](https://www.thisdaylive.com/2026/11/16/34m-learners-700000-teachers-now-on-nations-digital-education-database-says-fg/)** — ThisDay, 16 November 2026
+
+Nigeria's Federal Ministry of Education said on 16 November 2026 that its Nigerian Education Data Infrastructure now holds records of more than 34 million learners and 700,000 teachers. The data was collected from schools on digital devices. The ministry said it will launch a National EdTech Strategy with five pillars, phased from late 2026 to 2030.
 
 </div>
 

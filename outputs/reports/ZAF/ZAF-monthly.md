@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-17
 place: ZAF
 ledger_rows: 111
 not_held: 17
-record: 2308fff65738
+record: 75416d5dee7d
 ---
 
 # News, Oct – Nov 2026
@@ -286,7 +286,7 @@ South Africa is seeking re-election to the ITU Council at the Plenipotentiary Co
 
 **[ICASA welcomes South Africa's re-election to the ITU Council](https://www.icasa.org.za/news/2026/icasa-welcomes-south-africas-re-election-to-the-itu-council)** — Independent Communications Authority of South Africa, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a>
 
-Seat on 48-member Council for four more years; BOCRA's Basebi Mosinyi elected to Radio Regulations Board 2027–2030.
+South Africa was re-elected to the ITU Council in Doha, ICASA said on 16 November 2026. Basebi Mosinyi of Botswana's regulator, BOCRA, won a Radio Regulations Board seat. The term is 2027-2030.
 
 </div>
 
@@ -294,7 +294,7 @@ Seat on 48-member Council for four more years; BOCRA's Basebi Mosinyi elected to
 
 **[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
+The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats.
 
 </div>
 
@@ -308,7 +308,7 @@ Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogda
 
 **[Nigeria expects six-country African digital trade accord this month, minister says](https://www.cnbcafrica.com/2026/nigeria-expects-six-country-african-digital-trade-accord-this-month-minister-says)** — CNBC Africa (Reuters), 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-Nigeria, Ghana, Rwanda, Kenya, South Africa, Egypt; signing expected at AfCFTA Council of Ministers in Zimbabwe.
+Nigeria's trade minister, Jumoke Oduwole, told Reuters on 16 November 2026 that Nigeria expects to sign a digital-services accord this month. The other parties are Ghana, Rwanda, Kenya, South Africa and Egypt. It would ease expansion by digital-service firms across those markets. She gave no terms.
 
 </div>
 
@@ -622,7 +622,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[SA’s 5G expansion fails to deliver faster networks](https://www.itweb.co.za/article/sas-5g-expansion-fails-to-deliver-faster-networks/KjlyrvwBn8Qqk6am)** — ITWeb Africa, 16 November 2026
 
-5G in 47% of scanned locations (Oct 2026) but median 5G speed down 26.4% to 150.98Mbps; Ookla Speedtest data.
+Ookla found 5G in 47% of scanned locations in South Africa in October 2026, ITWeb reported on 16 November. The figure was 14.4% in 2023. Median 5G download speed fell 26.4% to 150.98 Mbps. GSMA Intelligence puts 5G at about 18% of mobile connections.
 
 </div>
 
@@ -630,7 +630,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[South Africa Telecoms at a Crossroads: Addressing Performance and Adoption Challenges](https://www.ookla.com/articles/south-africa-connectivity-2026)** — Ookla, 16 November 2026
 
-5G found in 47% of locations (2026) but 5G median down 26.4% to 150.98 Mbps; mobile NPS at -23.9.
+Ookla reported on 16 November 2026 that South Africa's 5G footprint has widened without faster networks. It detected 5G in 47.0% of scanned locations in 2026, against 14.4% in 2023. Median 5G download speed fell 26.4% to 150.98 Mbps between the third quarters of 2024 and 2026, and mobile net promoter score dropped to -23.9.
 
 </div>
 
@@ -1684,7 +1684,7 @@ President Ramaphosa is leading a delegation to Silicon Valley to inform South Af
 
 **[‘We must act fast’: Ramaphosa sets 90-day deadline for AI rollout plan](https://www.citizen.co.za/news/south-africa/we-must-act-fast-ramaphosa-sets-90-day-deadline-ai-rollout-plan/)** — The Citizen, 16 November 2026
 
-Address to about 300 delegates incl. nine ministers; SA 46th of 147 on Microsoft AI adoption ranking (2026).
+President Cyril Ramaphosa told about 300 South Africans, including nine ministers, on 16 November 2026 that the delegation on his Silicon Valley AI visit should pick a focused set of AI initiatives within 90 days of returning. Each should have clear responsibilities and measurable outcomes. He named investment, research and skills partnerships, and AI in public services.
 
 </div>
 
@@ -1714,7 +1714,7 @@ Standard Bank Group signed a subscription agreement to invest in Nigerian fintec
 
 **[Four years after walking away, MTN is back for Telkom](https://techcabal.com/2026/11/16/mtn-reopens-talks-to-acquire-telkom/)** — TechCabal, 16 November 2026
 
-Telkom market cap R31.7bn (13 Nov 2026) against R17.1bn in 2022; state and PIC together hold 51.6%.
+TechCabal reported on 16 November 2026 that MTN has returned to talks to acquire Telkom, as both companies confirmed in cautionary announcements that day, four years after its previous attempt collapsed. MTN is contemplating a cash offer with a share option for Telkom shareholders. The article notes a higher valuation, a state shareholder and likely regulatory hurdles.
 
 </div>
 
@@ -1722,7 +1722,7 @@ Telkom market cap R31.7bn (13 Nov 2026) against R17.1bn in 2022; state and PIC t
 
 **[MTN Group Limited - Cautionary Announcement](https://www.businessday.co.za/sens/566320/)** — MTN Group Limited (JSE SENS), 16 November 2026
 
-MTN in early talks to offer for all of Telkom; cash with an MTN-share alternative; no certainty of a deal.
+MTN and Telkom announced on 16 November 2026, through the Johannesburg Stock Exchange news service, that they are in early-stage discussions. If they succeed, MTN will offer for the entire issued share capital of Telkom, with cash and a share alternative contemplated. Terms remain under negotiation and a deal is not certain.
 
 </div>
 
@@ -1730,7 +1730,7 @@ MTN in early talks to offer for all of Telkom; cash with an MTN-share alternativ
 
 **[MTN reignites plans to acquire Telkom SA](https://www.connectingafrica.com/investment/mtn-reignites-plans-to-acquire-telkom-sa)** — Connecting Africa, 16 November 2026
 
-Cash offer with MTN-share alternative contemplated; combined 48% mobile share vs Vodacom 41% (Omdia, June 2026).
+MTN and Telkom South Africa each issued cautionary announcements on 16 November 2026 confirming early-stage discussions. If they succeed, MTN would offer for all of Telkom's issued shares, paid in cash with a share alternative for Telkom shareholders. Terms are under negotiation, and the talks followed an approach by MTN.
 
 </div>
 
@@ -1738,7 +1738,7 @@ Cash offer with MTN-share alternative contemplated; combined 48% mobile share vs
 
 **[MTN targets Telkom in renewed takeover talks](https://www.itweb.co.za/article/mtn-targets-telkom-in-renewed-takeover-talks/raYAyMormbO7J38N)** — ITWeb Africa, 16 November 2026
 
-Cautionary notices 16 Nov 2026; cash offer, MTN-share alternative; state 40.5%, PIC 11.08% of Telkom (31 Mar 2026).
+ITWeb reported on 16 November 2026 that MTN Group and Telkom have entered discussions about MTN acquiring all of Telkom's issued shares. Both companies issued cautionary announcements that day, after an approach by MTN. Payment is expected in cash, with an MTN-share option, and both say talks are at an early stage with no certainty of a transaction.
 
 </div>
 
@@ -1746,7 +1746,7 @@ Cautionary notices 16 Nov 2026; cash offer, MTN-share alternative; state 40.5%, 
 
 **[Telkom SA SOC Limited - Cautionary Announcement: Discussions between Telkom and MTN Group Limited](https://www.businessday.co.za/sens/566318/)** — Telkom SA SOC Limited (JSE SENS), 16 November 2026
 
-Telkom confirms MTN approach and early talks on an offer for its entire share capital; caution advised.
+Telkom SA issued a cautionary announcement on 16 November 2026 telling shareholders it had entered discussions with MTN Group after an approach by MTN. If they succeed, MTN would offer for all of Telkom's shares, with cash consideration and a share alternative contemplated. Terms are subject to negotiation, discussions are at an early stage and no transaction is certain.
 
 </div>
 

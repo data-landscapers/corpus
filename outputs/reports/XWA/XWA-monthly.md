@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-17
 place: XWA
 ledger_rows: 33
 not_held: 1
-record: e5e49ed22595
+record: 892adb30c3b5
 ---
 
 # News, Oct – Nov 2026
@@ -118,7 +118,7 @@ The Alliance of Sahel States adopted the digital deliverables of its Confederati
 
 **[Let Licensed Fintechs Expand Across West Africa Without Starting Over](https://www.ecofinagency.com/insights/1611-60861-let-licensed-fintechs-expand-across-west-africa-without-starting-over)** — Ecofin Agency, 16 November 2026
 
-AFN-coordinated pilot for Nigeria, Ghana, WAEMU proposed; BCEAO: 284.8m e-money accounts end-2025, 92.7m active.
+Three West African fintech associations published a joint article on 16 November 2026. They represent Nigeria, Ghana and the UEMOA zone. They propose a pilot fintech licensing passport in ECOWAS. The Africa Fintech Network would coordinate it with central banks.
 
 </div>
 

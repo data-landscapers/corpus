@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-17
 place: XAF
 ledger_rows: 82
 not_held: 3
-record: 8b1fec297022
+record: f4f819f30b0b
 ---
 
 # News, Oct – Nov 2026
@@ -298,7 +298,7 @@ Nineteen African countries are contesting Africa's 13 ITU Council seats for 2027
 
 **[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
+The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats.
 
 </div>
 
@@ -1444,7 +1444,7 @@ The African Development Bank Group and the Agence française de développement s
 
 **[엘리스그룹, GPU·NPU 클라우드로 아프리카 AI 생태계 조성 지원](https://www.etnews.com/20261116000312)** — ETNews (Electronic Times), 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
-KRW 700m of cloud GPU/NPU compute for African AI start-ups, Côte d'Ivoire base; AfDB-led K-AI Voucher, Korean ODA.
+The Korean firm Elice Group said on 16 November 2026 that it has joined the African Development Bank's Korea-Africa K-AI Voucher Project. It will supply cloud GPU and NPU computing worth KRW 700 million to African AI start-ups, working from Côte d'Ivoire, as official development assistance. Recipients and a timetable were not given.
 
 </div>
 

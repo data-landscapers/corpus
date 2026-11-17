@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-17
 place: CIV
 ledger_rows: 56
 not_held: 9
-record: 5ee24e0f95bc
+record: 32b64b4bb738
 ---
 
 # News, Oct – Nov 2026
@@ -110,7 +110,7 @@ Burkina Faso's telecoms regulator signed bilateral roaming agreements with its c
 
 **[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
+The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats.
 
 </div>
 
@@ -198,7 +198,7 @@ The National Assembly's finance committee adopted the 2027 budget of Côte d'Ivo
 
 **[Côte d’Ivoire signs AI cooperation agreement with AISCA to strengthen skills and research](https://www.techreviewafrica.com/news/8351/cote-divoire-signs-ai-cooperation-agreement-with-aisca-to-strengthen-skills-and-research)** — Tech Review Africa, 16 November 2026
 
-Signed at Ivoire Tech Forum 2026; skills, sovereign compute, research, data ecosystem, AI policy; no funding stated.
+Côte d'Ivoire's ministry of digital transition signed a memorandum of understanding with the AI Skills and Compute Africa Foundation during Ivoire Tech Forum 2026, as reported on 16 November 2026. It covers AI skills, sovereign computing access for researchers, AI research and priority use cases, the data ecosystem and AI policy dialogue. No computing capacity or funding was stated.
 
 </div>
 
@@ -980,7 +980,7 @@ Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone a
 
 **[Ivoire Tech Forum 2026 : l’ANSUT lance un programme pour faciliter l’accès aux smartphones](https://www.linfodrome.com/economie/127653-ivoire-tech-forum-2026-l-ansut-lance-un-programme-pour-faciliter-l-acces-aux-smartphones)** — Linfodrome, 15 November 2026
 
-PASS launched 12 Nov 2026; smartphone penetration about 40% now, 80% goal by 2030; 211 villages connected.
+The national universal service agency ANSUT launched Côte d'Ivoire's subsidised smartphone access programme (PASS) on 12 November 2026, at Ivoire Tech Forum. Its director-general said the aim is to raise smartphone penetration from about 40% to 80% by 2030. No subsidy terms, prices or beneficiary numbers were given.
 
 </div>
 

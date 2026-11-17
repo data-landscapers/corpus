@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-17
 place: KEN
 ledger_rows: 105
 not_held: 5
-record: afa41feff960
+record: d81fd3af984c
 ---
 
 # News, Oct – Nov 2026
@@ -356,7 +356,7 @@ Kenya's High Court set aside a KSh1.25 million compensation award made by the Da
 
 **[Nigeria expects six-country African digital trade accord this month, minister says](https://www.cnbcafrica.com/2026/nigeria-expects-six-country-african-digital-trade-accord-this-month-minister-says)** — CNBC Africa (Reuters), 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-Nigeria, Ghana, Rwanda, Kenya, South Africa, Egypt; signing expected at AfCFTA Council of Ministers in Zimbabwe.
+Nigeria's trade minister, Jumoke Oduwole, told Reuters on 16 November 2026 that Nigeria expects to sign a digital-services accord this month. The other parties are Ghana, Rwanda, Kenya, South Africa and Egypt. It would ease expansion by digital-service firms across those markets. She gave no terms.
 
 </div>
 
@@ -766,7 +766,7 @@ The Daily Nation reported that Kenya's immigration department told a National As
 
 **[Kenya's Evolution from Digital ID to DPI (Grace Mutung'u), chapter 7 of Biometric Digital ID in Africa](https://doi.org/10.5040/9781350593923)** — Bloomsbury Academic, 16 November 2026
 
-From kipande to Huduma and Maisha Namba: donor-driven ID, exclusion, litigation and eCitizen fees.
+Grace Mutung'u wrote chapter 7 of Biometric Digital ID in Africa (Bloomsbury, 2026), on Kenya. It traces the country's identification systems over the last century and the move from single-purpose digital ID systems in public agencies to digital public infrastructure. The chapter sets this against the 2010 Constitution and the funding that development agencies have given to ID systems.
 
 </div>
 
@@ -980,7 +980,7 @@ PAPSS chief executive Mike Ogbalu told Capital FM on 12 November 2026 that the s
 
 **[Interswitch Partners UBA Kenya to Expand Verve Card Acceptance](https://techafricanews.com/2026/11/16/interswitch-partners-uba-kenya-expand-verve-card-acceptance/)** — Tech Africa News, 16 November 2026
 
-UBA Kenya customers on 2,000+ Interswitch ATMs and merchants; domestic scheme pitched for local-currency settlement.
+Interswitch East Africa has partnered with UBA Kenya, as reported on 16 November 2026. UBA Kenya customers can now use Verve cards for payments and cash withdrawals at more than 2,000 Interswitch-connected ATMs and merchant locations in Kenya. Interswitch says eligible domestic transactions settle in local currency.
 
 </div>
 
@@ -1844,7 +1844,7 @@ Summarised under [China activities](#china-activities).
 
 **[Joint press statement by Commissioner McGrath and Data Commissioner of Kenya Kassait: EU-Kenya adequacy negotiations concluded](https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en)** — European Commission, DG Justice and Consumers, 16 November 2026
 
-Talks begun 2024 concluded 16 Nov 2026; adoption of both adequacy decisions next, first EU arrangement with Africa.
+The European Commission and Kenya's Office of the Data Protection Commissioner announced on 16 November 2026 that their negotiations on a mutual adequacy arrangement have concluded. Talks began in 2024. Each side will now start its own procedure to adopt an adequacy decision, which would be the first such arrangement between the EU and an African country.
 
 </div>
 

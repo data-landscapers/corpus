@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-17
 place: XNA
 ledger_rows: 4
 not_held: 0
-record: e40c949da8ca
+record: bbbd405943cb
 ---
 
 # News, Oct – Nov 2026
@@ -48,7 +48,7 @@ A UN commission session in Tunis on 4 and 5 November 2026 discussed a second Ara
 
 **[منتدى يوصي بتحديث التشريعات الرقمية](https://www.hespress.com/%d9%85%d9%86%d8%aa%d8%af%d9%89-%d9%8a%d9%88%d8%b5%d9%8a-%d8%a8%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a%d8%a9-1839671.html)** — Hespress, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
 
-10th North Africa IGF, Rabat, 12-13 Nov 2026: curriculum reform, AI ethics guides, regional IXPs and data centres.
+The tenth North Africa Internet Governance Forum met in Rabat on 12 and 13 November 2026. Participants recommended updating digital legislation. They asked for AI, data science and cybersecurity in school and university curricula. They also called for incubators, funding and tax incentives for local AI tools in Arabic and Amazigh.
 
 </div>
 

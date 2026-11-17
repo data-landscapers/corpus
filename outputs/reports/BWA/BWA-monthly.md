@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-17
 place: BWA
 ledger_rows: 21
 not_held: 5
-record: b29dffaec9c7
+record: d4b5aa67297a
 ---
 
 # News, Oct – Nov 2026
@@ -44,7 +44,7 @@ record: b29dffaec9c7
 
 **[ICASA welcomes South Africa's re-election to the ITU Council](https://www.icasa.org.za/news/2026/icasa-welcomes-south-africas-re-election-to-the-itu-council)** — Independent Communications Authority of South Africa, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-Seat on 48-member Council for four more years; BOCRA's Basebi Mosinyi elected to Radio Regulations Board 2027–2030.
+South Africa was re-elected to the ITU Council in Doha, ICASA said on 16 November 2026. Basebi Mosinyi of Botswana's regulator, BOCRA, won a Radio Regulations Board seat. The term is 2027-2030.
 
 </div>
 
@@ -52,7 +52,7 @@ Seat on 48-member Council for four more years; BOCRA's Basebi Mosinyi elected to
 
 **[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
+The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats.
 
 </div>
 

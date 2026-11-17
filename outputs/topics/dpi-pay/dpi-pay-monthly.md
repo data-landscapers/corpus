@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 447a1f335240
+record: 6e746bef28f7
 ---
 
 # News, Oct – Nov 2026
@@ -1010,6 +1010,20 @@ PAPSS chief executive Mike Ogbalu told Capital FM on 12 November 2026 that the s
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Verve card acceptance through Interswitch</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Interswitch Partners UBA Kenya to Expand Verve Card Acceptance](https://techafricanews.com/2026/11/16/interswitch-partners-uba-kenya-expand-verve-card-acceptance/)** — Tech Africa News, 16 November 2026
+
+Interswitch East Africa has partnered with UBA Kenya, as reported on 16 November 2026. UBA Kenya customers can now use Verve cards for payments and cash withdrawals at more than 2,000 Interswitch-connected ATMs and merchant locations in Kenya. Interswitch says eligible domestic transactions settle in local currency.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -1601,6 +1615,20 @@ Paga now lets businesses collect direct debits from customers of other Nigerian 
 **[Redtech Plans a Kenya-Nigeria Payments Corridor With Kenyan Launch in 2027](https://techweez.com/2026/11/07/redtech-plans-a-kenya-nigeria-payments-corridor-with-kenyan-launch-in-2027/)** — Techweez, 7 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 Redtech, a Nigerian payments company, plans a payments link between Nigeria and Kenya, its chief executive Emmanuel Ojo told Techweez in a report of 7 November 2026. A Kenyan launch is planned by the first quarter of 2027, through partners. Ojo says some African markets settle within 24 hours while others take three or four days.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">cNGN naira stablecoin</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The cost of making stablecoins work in Nigeria](https://techcabal.com/2026/11/16/the-cost-of-making-stablecoins-work-in-nigeria/)** — TechCabal, 16 November 2026
+
+A TechCabal article of 16 November 2026 describes the Central Bank of Nigeria's new rules recognising stablecoins as payment and settlement instruments. They split tokens into naira-referenced and foreign-currency-referenced types. Issuers of the second type must hold up to ₦15 billion in minimum capital and issuers of the first ₦10 billion, and holders cannot earn interest.
 
 </div>
 

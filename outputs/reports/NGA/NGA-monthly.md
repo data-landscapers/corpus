@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-17
 place: NGA
 ledger_rows: 125
 not_held: 8
-record: 886c53be1f24
+record: bf7eea0ad4db
 ---
 
 # News, Oct – Nov 2026
@@ -370,7 +370,7 @@ Nigeria's Data Protection Commission held its first practical audit training for
 
 **[2027: Experts accuse INEC of failing data transparency test](https://guardian.ng/politics/2027-experts-accuse-inec-of-failing-data-transparency-test/)** — The Guardian Nigeria, 16 November 2026
 
-DRLI roundtable: NDPC FOI reply says INEC compliant one year only; vendors, servers and data officers undisclosed.
+The Digital Rights Lawyers Initiative said on 16 November 2026 that Nigeria's electoral commission has not disclosed how it handles voters' data. It has also not said who runs its BVAS and IReV platforms. The data protection commission listed INEC as compliant for one past year only. The initiative has gone to court.
 
 </div>
 
@@ -466,7 +466,7 @@ PAPSS deputy chief executive John Sebabi said on 12 November 2026 that transacti
 
 **[Nigeria expects six-country African digital trade accord this month, minister says](https://www.cnbcafrica.com/2026/nigeria-expects-six-country-african-digital-trade-accord-this-month-minister-says)** — CNBC Africa (Reuters), 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-Nigeria, Ghana, Rwanda, Kenya, South Africa, Egypt; signing expected at AfCFTA Council of Ministers in Zimbabwe.
+Nigeria's trade minister, Jumoke Oduwole, told Reuters on 16 November 2026 that Nigeria expects to sign a digital-services accord this month. The other parties are Ghana, Rwanda, Kenya, South Africa and Egypt. It would ease expansion by digital-service firms across those markets. She gave no terms.
 
 </div>
 
@@ -540,7 +540,7 @@ Nigeria's NITDA began its first IPv6 migration readiness training for federal mi
 
 **[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
+The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats.
 
 </div>
 
@@ -1392,7 +1392,7 @@ Redtech, a Nigerian payments company, plans a payments link between Nigeria and 
 
 **[The cost of making stablecoins work in Nigeria](https://techcabal.com/2026/11/16/the-cost-of-making-stablecoins-work-in-nigeria/)** — TechCabal, 16 November 2026
 
-cNGN end-Oct 2026: NGN 4.41bn tokens, NGN 4.67bn reserves; 20% interest-free CBN deposit and yield ban favour banks.
+A TechCabal article of 16 November 2026 describes the Central Bank of Nigeria's new rules recognising stablecoins as payment and settlement instruments. They split tokens into naira-referenced and foreign-currency-referenced types. Issuers of the second type must hold up to ₦15 billion in minimum capital and issuers of the first ₦10 billion, and holders cannot earn interest.
 
 </div>
 
@@ -2060,7 +2060,7 @@ Nigeria's federal government recruited 50,000 young people in seven North-West s
 
 **[34m Learners, 700,000 Teachers Now on Nation’s Digital Education Database, Says FG](https://www.thisdaylive.com/2026/11/16/34m-learners-700000-teachers-now-on-nations-digital-education-database-says-fg/)** — ThisDay, 16 November 2026
 
-NEDI as education data backbone; EdTech Strategy pillars, teacher digital competency framework, phasing to 2030.
+Nigeria's Federal Ministry of Education said on 16 November 2026 that its Nigerian Education Data Infrastructure now holds records of more than 34 million learners and 700,000 teachers. The data was collected from schools on digital devices. The ministry said it will launch a National EdTech Strategy with five pillars, phased from late 2026 to 2030.
 
 </div>
 

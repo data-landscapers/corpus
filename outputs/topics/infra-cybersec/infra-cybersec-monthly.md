@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: infra.cybersec
-places: BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; ZMB; ZWE
-record: 70f821948601
+places: BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; ZMB; ZWE
+record: 4b7a05dd1817
 ---
 
 # News, Oct – Nov 2026
@@ -51,6 +51,8 @@ record: 70f821948601
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -707,6 +709,22 @@ The Bank of Mauritius is tendering for the supply and implementation of a threat
 **[Highlights of Cabinet Meeting - Friday 06 November 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2006%20November%202026.pdf)** — Prime Minister's Office, Mauritius, 6 November 2026
 
 Mauritius's Cabinet agreed on 6 November 2026 that the ICT ministry will sign a cybercrime memorandum with India's Ministry of Home Affairs. It covers removal of unlawful content, legal cooperation, operational support and threats to critical information infrastructure. Cabinet also approved an Indian memorandum on a cell-broadcast disaster early-warning system, to be deployed by C-DOT.
+
+</div>
+
+</div>
+
+## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Security audits and sector cyber-maturity assessments by the security directorate</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[المغرب يرصد "ثغرات سيبرانية حرجة" ويعزز حماية المنصات الرقمية](https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b1%d8%b5%d8%af-%d8%ab%d8%ba%d8%b1%d8%a7%d8%aa-%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d8%ad%d8%b1%d8%ac%d8%a9-%d9%88%d9%8a%d8%b9%d8%b2%d8%b2-1839739.html)** — Hespress, 14 November 2026
+
+Morocco's information systems security directorate (DGSSI) has begun cyber-maturity assessments of banks, transport and energy. Minister Delegate Abdeltif Loudiyi told a parliamentary committee on 14 November 2026 that it audited 24 ministries and strategic bodies in 2026. An urgent review covered 144 online platforms of 45 bodies. Some systems were suspended until their flaws were fixed.
 
 </div>
 

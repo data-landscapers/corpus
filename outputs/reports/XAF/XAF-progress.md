@@ -5,7 +5,7 @@ period: 2025-11-01 to 2026-11-17
 place: XAF
 ledger_rows: 332
 not_held: 3
-record: 93c94c0960dd
+record: 5247da29a8f1
 ---
 
 # Africa: progress report, November 2025 – November 2026

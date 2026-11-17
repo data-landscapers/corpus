@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: tech.industry
 places: BEN; EGY; GMB; GIN; KEN; NGA; SEN; ZAF
-record: 873ceaae103e
+record: 3d995ea541a5
 ---
 
 # News, Oct – Nov 2026
@@ -224,6 +224,52 @@ Senegal's telecommunications ministry signed a US$150 million partnership conven
 **[Standard Bank Group announces strategic investment in OPay and a partnership to advance financial services access in Africa](https://www.standardbank.com/sbg/standard-bank-group/newsroom/press-releases/standard-bank-group-announces-strategic-investment-in-opay-and-a-partnership-to-advance-financial-services-access-in-africa)** — Standard Bank Group, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 Standard Bank Group signed a subscription agreement to invest in Nigerian fintech OPay, to close with or shortly after OPay's proposed New York Stock Exchange listing, for which OPay filed with the US SEC on 9 October 2026. The two also plan to explore digital banking, merchant acquiring, lending and remittances. The release states no amount.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed MTN acquisition of Telkom</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Four years after walking away, MTN is back for Telkom](https://techcabal.com/2026/11/16/mtn-reopens-talks-to-acquire-telkom/)** — TechCabal, 16 November 2026
+
+TechCabal reported on 16 November 2026 that MTN has returned to talks to acquire Telkom, as both companies confirmed in cautionary announcements that day, four years after its previous attempt collapsed. MTN is contemplating a cash offer with a share option for Telkom shareholders. The article notes a higher valuation, a state shareholder and likely regulatory hurdles.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN Group Limited - Cautionary Announcement](https://www.businessday.co.za/sens/566320/)** — MTN Group Limited (JSE SENS), 16 November 2026
+
+MTN and Telkom announced on 16 November 2026, through the Johannesburg Stock Exchange news service, that they are in early-stage discussions. If they succeed, MTN will offer for the entire issued share capital of Telkom, with cash and a share alternative contemplated. Terms remain under negotiation and a deal is not certain.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN reignites plans to acquire Telkom SA](https://www.connectingafrica.com/investment/mtn-reignites-plans-to-acquire-telkom-sa)** — Connecting Africa, 16 November 2026
+
+MTN and Telkom South Africa each issued cautionary announcements on 16 November 2026 confirming early-stage discussions. If they succeed, MTN would offer for all of Telkom's issued shares, paid in cash with a share alternative for Telkom shareholders. Terms are under negotiation, and the talks followed an approach by MTN.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN targets Telkom in renewed takeover talks](https://www.itweb.co.za/article/mtn-targets-telkom-in-renewed-takeover-talks/raYAyMormbO7J38N)** — ITWeb Africa, 16 November 2026
+
+ITWeb reported on 16 November 2026 that MTN Group and Telkom have entered discussions about MTN acquiring all of Telkom's issued shares. Both companies issued cautionary announcements that day, after an approach by MTN. Payment is expected in cash, with an MTN-share option, and both say talks are at an early stage with no certainty of a transaction.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Telkom SA SOC Limited - Cautionary Announcement: Discussions between Telkom and MTN Group Limited](https://www.businessday.co.za/sens/566318/)** — Telkom SA SOC Limited (JSE SENS), 16 November 2026
+
+Telkom SA issued a cautionary announcement on 16 November 2026 telling shareholders it had entered discussions with MTN Group after an approach by MTN. If they succeed, MTN would offer for all of Telkom's shares, with cash consideration and a share alternative contemplated. Terms are subject to negotiation, discussions are at an early stage and no transaction is certain.
 
 </div>
 

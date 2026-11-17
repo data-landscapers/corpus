@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: gov.protect
 places: DZA; AGO; BEN; BFA; CMR; COG; COD; EGY; SWZ; GAB; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5c2594d3b12e
+record: 62b0cb344efa
 ---
 
 # News, Oct – Nov 2026
@@ -603,6 +603,20 @@ Nigeria's five-year health memorandum with the United States, signed on 19 Decem
 **[Data Protection: NDPC Trains DPCOs, Warns Against Sharp Practices](https://www.thisdaylive.com/2026/11/13/data-protection-ndpc-trains-dpcos-warns-against-sharp-practices/)** — ThisDay, 13 November 2026
 
 Nigeria's Data Protection Commission held its first practical audit training for licensed compliance organisations in Abuja on 10 and 11 November 2026, with Meta. The commission warned that it will revoke the licences of organisations that file false or misleading audit reports. It put the number of licensed organisations at 367.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electoral commission's compliance record under the Data Protection Act</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[2027: Experts accuse INEC of failing data transparency test](https://guardian.ng/politics/2027-experts-accuse-inec-of-failing-data-transparency-test/)** — The Guardian Nigeria, 16 November 2026
+
+The Digital Rights Lawyers Initiative said on 16 November 2026 that Nigeria's electoral commission has not disclosed how it handles voters' data. It has also not said who runs its BVAS and IReV platforms. The data protection commission listed INEC as compliant for one past year only. The initiative has gone to court.
 
 </div>
 

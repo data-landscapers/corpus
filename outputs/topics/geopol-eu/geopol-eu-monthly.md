@@ -1,10 +1,10 @@
 ---
 title: EU activities — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: geopol.eu
 places: CPV; EGY; KEN
-record: 20d5c38ffb41
+record: 2d7fc0829f6f
 ---
 
 # News, Oct – Nov 2026
@@ -62,6 +62,14 @@ Egypt and the European Union signed an Administrative Arrangements Document on e
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">European data-adequacy decision</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Joint press statement by Commissioner McGrath and Data Commissioner of Kenya Kassait: EU-Kenya adequacy negotiations concluded](https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en)** — European Commission, DG Justice and Consumers, 16 November 2026
+
+The European Commission and Kenya's Office of the Data Protection Commissioner announced on 16 November 2026 that their negotiations on a mutual adequacy arrangement have concluded. Talks began in 2024. Each side will now start its own procedure to adopt an adequacy decision, which would be the first such arrangement between the EU and an African country.
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 

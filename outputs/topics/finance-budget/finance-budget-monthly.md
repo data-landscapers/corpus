@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: finance.budget
-places: CIV; GAB; LBR; LBY; SEN; SYC; TUN
-record: 95247aa401a1
+places: CIV; GAB; LBR; LBY; MAR; SEN; SYC; TUN
+record: a9b06f82416c
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: 95247aa401a1
 <a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -98,6 +100,22 @@ The Liberia Telecommunications Authority said on 26 October 2026 that it had cho
 **[بيان الإيراد والانفاق لشهر سبتمبر – 2026](https://cbl.gov.ly/micifaf/2026/10/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D9%84%D8%B4%D9%87%D8%B1-%D8%B3%D9%8A%D8%AA%D9%85%D8%A8%D8%B1-2026.pdf)** — مصرف ليبيا المركزي (Central Bank of Libya), 8 October 2026
 
 The Central Bank of Libya's statement of state revenue and spending for January to September 2026, issued on 8 October, puts revenue at LYD 114.5bn, mostly from oil, and spending at LYD 88.6bn, of which LYD 1.6bn was development spending. Telecommunications brought in LYD 31.1m, and the General Authority for Communications spent about LYD 31.7m. It also lists electronic payment indicators.
+
+</div>
+
+</div>
+
+## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital ministry 2026 budget execution</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزارة الذكاء الاصطناعي تراهن على توفير نماذج مغربية ومنصة سيادية](https://www.hespress.com/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%aa%d9%88%d9%81%d9%8a-1840366.html)** — Hespress, 16 November 2026
+
+Morocco's AI and digital minister, Ahmed Rahhou, set out his ministry's 2027 programme to parliament, Hespress reported on 16 November 2026. It includes national language models for Darija and Amazigh. It also includes a sovereign AI platform. By mid-October the ministry had committed 6.31% of its 2026 budget.
 
 </div>
 

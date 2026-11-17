@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
-record: ceaf05a84f8d
+places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
+record: 3cc17019f2dc
 ---
 
 # News, Oct – Nov 2026
@@ -43,8 +43,6 @@ record: ceaf05a84f8d
 <a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#guinea">Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -705,22 +703,6 @@ Gabon promulgated by decree on 5 October 2026 a law ratifying its ordinance on s
 **[Gabon : l’identification formelle des utilisateurs de réseaux sociaux devient obligatoire](https://gabonmediatime.com/gabon-lidentification-formelle-des-utilisateurs-de-reseaux-sociaux-devient-obligatoire/)** — Gabon Media Time, 19 October 2026
 
 Gabon's law 003/2026 of 5 October 2026, published on 9 October, requires individuals and legal entities using social networks and online platforms to formally identify themselves. Gabon Media Time reports that article 4 does not say what documents are needed, how identity will be checked or how existing accounts are treated. It also does not make the personal identification number mandatory for this purpose.
-
-</div>
-
-</div>
-
-## Ghana
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">SIM re-registration legislative instrument</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Ghana's Biometric SIM Plan Fixes the Right Gap, but the Data Safeguards Must Be Written Into the Rules](https://peopleofinternet.com/articles/ghana-s-biometric-sim-plan-fixes-the-right-gap-but-the-data.html)** — People of Internet, 18 October 2026
-
-In an unsigned analysis, the outlet People of Internet argues that Ghana's plan to add biometric checks to SIM registration addresses a real gap but needs data safeguards written into the rules. It calls for purging legacy data, match-only queries, warrants for police access and a fallback when biometric reads fail. It draws on the communications minister's 7 September 2026 statement.
 
 </div>
 

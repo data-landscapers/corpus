@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-17
 place: MRT
 ledger_rows: 21
 not_held: 3
-record: c17c5729766b
+record: 34e137df327b
 ---
 
 # News, Oct – Nov 2026
@@ -112,7 +112,7 @@ A National Assembly committee examined ratification of additional WARDIP financi
 
 **[الجمعية الوطنية تصادق على مشروعي قانونين يتعلقان باتفاقيتي تمويل للصمود وشبكات الأمان والتحول الرقمي](https://www.ami.mr/archives/273211)** — Agence Mauritanienne d'Information (AMI), 16 November 2026
 
-Plenary adopts ratification of EUR 25.8m IDA WARDIP SOP1 top-up and social safety-net credit, 16 Nov 2026.
+Mauritania's National Assembly adopted two bills on 16 November 2026 ratifying financing agreements with the International Development Association. One covers a social safety-net and resilience operation. The other is additional financing, signed on 16 September 2026, for the Digital Transformation in Africa project under the West Africa Regional Digital Integration Programme.
 
 </div>
 

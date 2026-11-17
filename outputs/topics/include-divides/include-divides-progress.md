@@ -1,10 +1,10 @@
 ---
 title: Digital divides — progress report, November 2025 – November 2026
-compiled: 2026-11-16
-period: 2025-11-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2025-11-01 to 2026-11-17
 subject: include.divides
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 77726cea54ac
+record: 09ea6b5350c7
 ---
 
 # Digital divides: progress report, November 2025 – November 2026
