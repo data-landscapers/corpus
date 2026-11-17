@@ -1,12 +1,12 @@
 ---
 title: Mauritius: status report
-compiled: 2026-11-14
+compiled: 2026-11-17
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 207
+sources_cited: 208
 sections_written: 39
 not_established: 1
 acquire_lines: 29
@@ -273,7 +273,7 @@ In May 2026 [digital awareness work aimed at young people on Rodrigues](https://
 
 [Budget 2026-2027 commits Mauritius to training 50,000 people in artificial intelligence within a year](https://lexpress.mu/node/559426) (June 2026). [The target is 25,000 professionals, 12,000 Grade-9 pupils, 8,000 teachers and 5,000 civil servants](https://lexpress.mu/node/559426). [The budget funds a National AI Learning Platform at Rs 25 million and scales MyT-GPT Education into secondary schools](https://lexpress.mu/node/559426) (June 2026). [In October 2026 Cabinet recorded that the training programme was being developed](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20-%20Friday%2030%20October%202026.pdf). No enrolment figure has been published.
 
-[Technology Education, with a computer technology cluster, was introduced for Grades 10 and 11 in ten secondary schools from January 2024](https://education.govmu.org/Documents/2024/TECHNOLOGY%20EDU/CF%20-%20Technology%20Education.pdf). Mauritius Telecom [launched a mytGPT Education pilot in January 2026](https://techreviewafrica.com/news/3721/mauritius-telecom-launches-mytgpt-educational-project-to-drive-ai-powered-learning), [tested in ten schools](https://lexpress.mu/node/559426). [After resistance from teachers and parents, the operator narrowed it from a student-facing tutor to a teacher coach](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/) (July 2026). [It now aims at a personal AI assistant for every secondary school teacher by 2027](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/).
+[Technology Education, with a computer technology cluster, was introduced for Grades 10 and 11 in ten secondary schools from January 2024](https://education.govmu.org/Documents/2024/TECHNOLOGY%20EDU/CF%20-%20Technology%20Education.pdf). Mauritius Telecom [launched a mytGPT Education pilot in January 2026](https://techreviewafrica.com/news/3721/mauritius-telecom-launches-mytgpt-educational-project-to-drive-ai-powered-learning), [tested in ten schools](https://lexpress.mu/node/559426). [After resistance from teachers and parents, the operator narrowed it from a student-facing tutor to a teacher coach](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/) (July 2026). [It now aims at a personal AI assistant for every secondary school teacher by 2027](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/). [In November 2026 its chief executive said My.TLearn, an AI tutor for secondary pupils, is planned for a first large-scale rollout from Grade 9 in 2027, with the primary-school strand suspended](https://www.lemauricien.com/le-mauricien/veemal-gungadin-ceo-de-mauritius-telecom-lia-nouveau-moteur-de-croissance-pour-mt/723262/).
 
 [In 2023 the higher education commission counted 4,556 tertiary students in ICT, 9.1 per cent of enrolment](https://hec.mu/pdf_downloads/pub_rep_pdf/Participation%20in%20Tertiary%20Education%202023.pdf).
 
@@ -377,4 +377,4 @@ No Gulf state, operator or investor was found holding a position in Mauritius's 
 
 [In August 2026 the parties to Mauritius's entry into the America-India Connect cable had signed a non-disclosure agreement, while negotiations with Google continued](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/). The terms of Mauritius Telecom's July 2026 memorandum with Amazon Web Services on data jurisdiction, portability and exit had not been published as at September 2026.
 
-[In February 2026 Mauritius Telecom asked NVIDIA for a few hundred B300 GPUs and was quoted about a year's lead time](https://lexpress.mu/node/554669). [At the SADC summit in August 2026 the prime minister announced a carrier-neutral green data centre and a "Digital Embassy Village"](https://lexpress.mu/node/561649).
+[In February 2026 Mauritius Telecom asked NVIDIA for a few hundred B300 GPUs and was quoted about a year's lead time](https://lexpress.mu/node/554669). [In November 2026 its chief executive put the operator's commitment to AI infrastructure, including NVIDIA H200 and B300 platforms, at more than Rs 1 billion over the coming years](https://www.lemauricien.com/le-mauricien/veemal-gungadin-ceo-de-mauritius-telecom-lia-nouveau-moteur-de-croissance-pour-mt/723262/). [At the SADC summit in August 2026 the prime minister announced a carrier-neutral green data centre and a "Digital Embassy Village"](https://lexpress.mu/node/561649).
