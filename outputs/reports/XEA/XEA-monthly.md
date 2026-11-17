@@ -1,11 +1,11 @@
 ---
 title: East Africa — News, Oct – Nov 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: XEA
-ledger_rows: 18
+ledger_rows: 19
 not_held: 0
-record: 2da3d300c48e
+record: 76bb9416e285
 ---
 
 # News, Oct – Nov 2026
@@ -172,6 +172,8 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#rural-digital-data-capture">Rural digital data capture</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geospatial-data">Geospatial data</a>
 </nav>
 
 ### Connectivity
@@ -309,6 +311,22 @@ GovStack published an account on 9 November 2026 of HUSIKA, a platform that pass
 **[IGAD Advances Regional Collaboration on Digital Agro-Climate Advisory Services and Gender-Responsive Food Systems](https://igad.int/igad-advances-regional-collaboration-on-digital-agro-climate-advisory-services-and-gender-responsive-food-systems/)** — IGAD, 24 October 2026
 
 IGAD's World Bank-backed Food Systems Resilience Program held a four-day regional workshop in Arba Minch, Ethiopia, from 21 to 24 October 2026 on digital advice to farmers on weather and climate, and on gender in food systems. Experts from seven member states, Djibouti, Ethiopia, Kenya, Somalia, Sudan, South Sudan and Uganda, shared national experience and discussed strengthening IGAD's DACAS knowledge network, with calls for regional standards on data quality, interoperability and data sharing.
+
+</div>
+
+</div>
+
+### Geospatial data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EA-READY regional flood early-warning dashboard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[El Niño zieht auf: Können geteilte Daten fast eine Million Menschen schützen?](https://www.bmz-digital.global/el-nino-zieht-auf-koennen-geteilte-daten-fast-eine-million-menschen-schuetzen/)** — BMZ Digital.Global, 16 November 2026
+
+Tana, Kagera, Mara, Ruvu basins; 44 stakeholders; prototype covers ~980,000 people at ~94% forecast accuracy.
 
 </div>
 
