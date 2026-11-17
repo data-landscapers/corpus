@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: COD
-ledger_rows: 53
+ledger_rows: 56
 not_held: 6
-record: 0ae403397208
+record: bcf746aadb50
 ---
 
 # News, Oct – Nov 2026
@@ -30,6 +30,8 @@ record: 0ae403397208
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
@@ -302,6 +304,20 @@ Congo Telecom said a repair vessel was due on 11 November 2026 at the WACS fault
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National public content-delivery network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Center national, CDN et .cd : S.E Augustin Kibassa Maliba mobilise des investisseurs pour financer trois projets numériques stratégiques](https://augustinkibassa.cd/2026/11/17/data-center-national-cdn-et-cd-s-e-augustin-kibassa-maliba-mobilise-des-investisseurs-pour-financer-trois-projets-numeriques-strategiques/)** — Cabinet du ministre de l'Économie numérique (RDC), 17 November 2026
+
+The Democratic Republic of the Congo's digital economy minister sought financing in South Africa on 17 November 2026 from the Development Bank of Southern Africa, Ghana International Bank and D'Arrigo International. The three projects are a national data centre, a national content-delivery network and reformed management of the .cd domain. No sum or agreement was stated.
+
+</div>
+
+</div>
+
 ### Technical Capacity
 
 <div class="monthly-story" markdown="1">
@@ -415,6 +431,20 @@ The director general of RDC-Pass, the DRC's unique digital identifier, said on 2
 **[Communiqué de presse N°163/2026 : le Ministère de l'Économie Nationale lance « LOBA », une plateforme numérique dédiée à la protection des consommateurs](https://economie.gouv.cd/communique/95)** — Ministère de l'Économie Nationale (RDC), Cellule de communication, 5 October 2026
 
 The Democratic Republic of the Congo's Ministry of National Economy launched LOBA, a national consumer-protection platform, from 6 October 2026. Run through the Competition Commission (COMCO) with sector regulators covering telecoms, banking, insurance, electricity and health, it lets consumers report abuses, learn their rights and track complaints via a WhatsApp chatbot and a mobile app.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Card-and-wallet interoperability service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Visa RDC lance l’option de paiement par téléphone Android](https://www.radiookapi.net/2026/11/17/actualite/societe/visa-rdc-lance-loption-de-paiement-par-telephone-android)** — Radio Okapi, 17 November 2026
+
+Visa launched Tap to Pay on its Visa Pay app in the Democratic Republic of the Congo on 16 November 2026. It lets Android phones pay at card terminals. The Banque centrale du Congo has linked a ban on cash and foreign-currency commercial transactions, due in April 2027, to interoperable digital payments.
 
 </div>
 
@@ -993,6 +1023,28 @@ The Democratic Republic of the Congo's education ministry put its school statist
 **[ITIE-RDC Données et Divulgation Systématique](https://www.itierdc.net/donnees/)** — ITIE-RDC, 23 October 2026
 
 Summarised under [Registries](#registries).
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#digital-sovereignty">Digital sovereignty</a>
+</nav>
+
+### Digital sovereignty
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">.cd country-code domain management reform</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Data Center national, CDN et .cd : S.E Augustin Kibassa Maliba mobilise des investisseurs pour financer trois projets numériques stratégiques](https://augustinkibassa.cd/2026/11/17/data-center-national-cdn-et-cd-s-e-augustin-kibassa-maliba-mobilise-des-investisseurs-pour-financer-trois-projets-numeriques-strategiques/)** — Cabinet du ministre de l'Économie numérique (RDC), 17 November 2026
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
