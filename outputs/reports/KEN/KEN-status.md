@@ -1,12 +1,12 @@
 ---
 title: Kenya: status report
-compiled: 2026-11-16
+compiled: 2026-11-17
 place: KEN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 14
-sources_cited: 393
+sources_cited: 394
 sections_written: 39
 not_established: 0
 acquire_lines: 63
@@ -35,7 +35,7 @@ On 21 July 2026 the Ministry of ICT and Digital Development [opened public parti
 
 [On 27 October 2026 the National Assembly deleted clauses vesting election technology's intellectual property in the electoral commission and requiring local servers](https://nation.africa/kenya/news/politics/mps-scrap-iebc-guarantee-of-access-to-election-servers-tech-5646998). [A Bill sponsored by the Senate majority and minority leaders would delete the commission's statutory duty to livestream polling-station results](https://nation.africa/kenya/news/politics/50-million-cameras-the-election-kenya-did-not-have-in-1992-5552024). In October 2026 [the National Assembly's petitions committee recommended amending the Law of Succession Act so that land succession can be done through eCitizen](https://nation.africa/kenya/news/going-digital-why-mps-want-land-succession-done-digitally-through-e-citizen-5640398).
 
-[Since 27 December 2024 non-residents earning through a digital marketplace have paid a significant economic presence tax, an effective 3% of gross revenue](https://ustr.gov/sites/default/files/files/Press/Reports/2025NTE.pdf). [It replaced a 1.5% digital service tax, and the two had raised KSh2.3bn from 454 foreign providers by August 2025](https://www.businessdailyafrica.com/bd/economy/kra-nets-sh2-3bn-from-tech-giants-without-local-units-5206490).
+[Since 27 December 2024 non-residents earning through a digital marketplace have paid a significant economic presence tax, an effective 3% of gross revenue](https://ustr.gov/sites/default/files/files/Press/Reports/2025NTE.pdf). [It replaced a 1.5% digital service tax, and the two had raised KSh2.3bn from 454 foreign providers by August 2025](https://www.businessdailyafrica.com/bd/economy/kra-nets-sh2-3bn-from-tech-giants-without-local-units-5206490). [The Treasury made the tax's regulations on 12 August 2026, revoking those for the digital service tax](https://kenyalaw.org/akn/ke/act/ln/2026/188/eng@2026-09-18/source.pdf).
 
 ### Data protection
 <!-- gov.protect -->
@@ -390,7 +390,7 @@ In 2024 [the data-only mobile basket cost under 2 per cent of gross national inc
 <!-- derived -->
 USAID is the most frequent financier of Kenya's digital estate by number of commitments, 52 worth about US$136 million, ahead of the Gates Foundation with 35 and the Korea International Cooperation Agency with 29 (November 2026). The European Union has eight, and the largest individual sums come from the World Bank, China Eximbank and private data-centre developers.
 
-[Cybernetica piloted an X-Road interoperability test environment between April 2024 and June 2025](https://cyber.ee/resources/case-studies/cybernetica-piloted-an-interoperability-platform-to-improve-and-optimise-digital-public-services-in-kenya/). [The European Investment Bank's 2018 loan to Telkom Kenya for mobile broadband has closed](https://www.eib.org/en/projects/all/20170635). [Kenya's draft AI Bill 2026 calls itself a transplant of the EU AI Act, with fines capped at KES 5 million](https://alicemunyua.substack.com/p/gatekeepers-xiv). [EU and German technical assistance supports Kenya's draft data-governance policy](https://rosemutiso.substack.com/p/kenya-wants-to-sell-your-data-but). [European support extends to digitising land registration through an ID-linked system](https://www.biometricupdate.com/202606/eu-supports-kenya-to-boost-digital-id-for-cross-border-trade-land-verification). Italy is one leg of the [trilateral sovereign AI partnership signed with Kenya and India in February 2026](https://www.ecofinagency.com/kenya-india-and-italy-launch-trilateral-sovereign-ai-partnership/). [On 13 November 2026 the ICT principal secretary said technical talks on an EU data-adequacy decision for Kenya were expected to conclude positively](https://techafricanews.com/2026/11/16/kenya-eu-digital-partnership-investment-opportunities/).
+[Cybernetica piloted an X-Road interoperability test environment between April 2024 and June 2025](https://cyber.ee/resources/case-studies/cybernetica-piloted-an-interoperability-platform-to-improve-and-optimise-digital-public-services-in-kenya/). [The European Investment Bank's 2018 loan to Telkom Kenya for mobile broadband has closed](https://www.eib.org/en/projects/all/20170635). [Kenya's draft AI Bill 2026 calls itself a transplant of the EU AI Act, with fines capped at KES 5 million](https://alicemunyua.substack.com/p/gatekeepers-xiv). [EU and German technical assistance supports Kenya's draft data-governance policy](https://rosemutiso.substack.com/p/kenya-wants-to-sell-your-data-but). [European support extends to digitising land registration through an ID-linked system](https://www.biometricupdate.com/202606/eu-supports-kenya-to-boost-digital-id-for-cross-border-trade-land-verification). Italy is one leg of the [trilateral sovereign AI partnership signed with Kenya and India in February 2026](https://www.ecofinagency.com/kenya-india-and-italy-launch-trilateral-sovereign-ai-partnership/). [On 16 November 2026 the European Commission and Kenya's Data Commissioner announced that adequacy negotiations begun in 2024 had concluded, with adoption of both adequacy decisions to follow](https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en).
 
 ### Gulf/UAE activities
 <!-- geopol.gulf -->

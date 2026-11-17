@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: GHA
 ledger_rows: 75
 not_held: 9
-record: 00bed12b84f3
+record: 33704d254c08
 ---
 
 # News, Oct – Nov 2026
@@ -34,8 +34,6 @@ record: 00bed12b84f3
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -99,22 +97,6 @@ At Digital Economy Live 2026 in Accra, Ghana's communications minister urged Afr
 **[Ghana calls for stronger digital infrastructure resilience at ITU PP-26](https://www.citinewsroom.com/2026/11/ghana-calls-for-stronger-digital-infrastructure-resilience-at-itu-pp-26/)** — Citi Newsroom, 11 November 2026
 
 Ghana's proposed Dig Once Policy is before Cabinet, minister Samuel Nartey George told an ITU session in Doha. Citi Newsroom reported the remarks on 11 November 2026. A National Emergency Telecommunications Plan is being developed. Ghana proposed an ITU Programme of Action on Resilience with timelines and measurable indicators.
-
-</div>
-
-</div>
-
-### Legislation and regulation
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">SIM re-registration legislative instrument</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Ghana's Biometric SIM Plan Fixes the Right Gap, but the Data Safeguards Must Be Written Into the Rules](https://peopleofinternet.com/articles/ghana-s-biometric-sim-plan-fixes-the-right-gap-but-the-data.html)** — People of Internet, 18 October 2026
-
-In an unsigned analysis, the outlet People of Internet argues that Ghana's plan to add biometric checks to SIM registration addresses a real gap but needs data safeguards written into the rules. It calls for purging legacy data, match-only queries, warrants for police access and a fallback when biometric reads fail. It draws on the communications minister's 7 September 2026 statement.
 
 </div>
 
@@ -279,6 +261,28 @@ Ghana's communications minister, Samuel Nartey George, was confirmed as chair of
 **[Ghana - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/ghana/)** — International Telecommunication Union (statement by Ghana), 10 November 2026
 
 Ghana's communications minister, Samuel Nartey George, addressed the ITU Plenipotentiary Conference in Doha in November 2026. He said 5G will reach more than 70% of Ghanaians by March 2027. He cited 2,016 rural telephony sites being completed, 5G spectrum licensing and a National AI Compute Centre under construction. Ghana is standing for re-election to the ITU Council and has nominated NCA Director-General Edmund Yirenkyi Fianko for the Radio Regulations Board.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Six-country digital trade accord</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria expects six-country African digital trade accord this month, minister says](https://www.cnbcafrica.com/2026/nigeria-expects-six-country-african-digital-trade-accord-this-month-minister-says)** — CNBC Africa (Reuters), 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Nigeria, Ghana, Rwanda, Kenya, South Africa, Egypt; signing expected at AfCFTA Council of Ministers in Zimbabwe.
 
 </div>
 

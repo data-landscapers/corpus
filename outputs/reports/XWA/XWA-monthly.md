@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: XWA
-ledger_rows: 31
+ledger_rows: 33
 not_held: 1
-record: bdeff7a2a162
+record: e5e49ed22595
 ---
 
 # News, Oct – Nov 2026
@@ -105,6 +105,20 @@ The second session of the UEMOA national digital regulators' committee (CRNN) op
 **[Numérique dans l’espace AES: la feuille de route de l’An II adoptée](https://www.sidwaya.info/2026/11/05/numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee/)** — Sidwaya, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
 
 The Alliance of Sahel States adopted the digital deliverables of its Confederation's Year II roadmap in Ouagadougou on 5 November 2026. Sixteen of 18 deliverables were finalised. A confederal network operations centre is due by 31 December 2028. Interconnection legal and tariff frameworks are to be harmonised by 30 June 2027. National cybersecurity response teams are to be funded from universal-service funds and regulatory fees.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS fintech licensing passport pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Let Licensed Fintechs Expand Across West Africa Without Starting Over](https://www.ecofinagency.com/insights/1611-60861-let-licensed-fintechs-expand-across-west-africa-without-starting-over)** — Ecofin Agency, 16 November 2026
+
+AFN-coordinated pilot for Nigeria, Ghana, WAEMU proposed; BCEAO: 284.8m e-money accounts end-2025, 92.7m active.
 
 </div>
 
@@ -633,6 +647,20 @@ Morocco's information systems security directorate said Rabat will host the ECOW
 **[Evolution des indicateurs de suivi de l'inclusion financière dans l'UEMOA au titre de l'année 2025](https://www.bceao.int/sites/default/files/2026-10/Tableau%20de%20suivi%20des%20indicateurs%20d%27inclusion%20financi%C3%A8re%20dans%20l%27UEMOA%20%C3%A0%20fin%20d%C3%A9c%202025.pdf)** — Banque Centrale des Etats de l'Afrique de l'Ouest (BCEAO), 20 October 2026
 
 The BCEAO's report on financial inclusion in the WAEMU for 2025 gives each member state's access, usage and affordability indicators to the end of December 2025, with series from 2015 and a composite inclusion index. Across the union the broad account-ownership rate including microfinance and e-money stands at about 50 per cent of adults, ranging from under 15 per cent in Guinea-Bissau to over 90 per cent in Benin.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open e-money accounts in the UEMOA</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Let Licensed Fintechs Expand Across West Africa Without Starting Over](https://www.ecofinagency.com/insights/1611-60861-let-licensed-fintechs-expand-across-west-africa-without-starting-over)** — Ecofin Agency, 16 November 2026
+
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 

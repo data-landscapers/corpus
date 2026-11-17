@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: MAR
-ledger_rows: 29
+ledger_rows: 31
 not_held: 13
-record: 5fe49da5ba9e
+record: 20c11c2059b3
 ---
 
 # News, Oct – Nov 2026
@@ -177,8 +177,26 @@ Morocco's data-protection commission CNDP signed an agreement with the National 
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#new-investments">New investments</a>
 </nav>
+
+### Domestic budget appropriations and expenditure
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital ministry 2026 budget execution</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزارة الذكاء الاصطناعي تراهن على توفير نماذج مغربية ومنصة سيادية](https://www.hespress.com/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%aa%d9%88%d9%81%d9%8a-1840366.html)** — Hespress, 16 November 2026
+
+Darija and Amazigh models, Oracle MAD 1.4bn cloud, 36 MW compute; 2026 budget only 6.31% committed by mid-October.
+
+</div>
+
+</div>
 
 ### New investments
 
@@ -200,6 +218,8 @@ Morocco's Bulletin officiel of 1 October 2026 published decrees approving two Wo
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Data Storage
@@ -235,6 +255,22 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[PLF 2027 - IA : Les données stratégiques de l’État auront leur propre datacenter](https://lopinion.ma/fr/actu-maroc/plf-2027---ia--les-donnees-strategiques-de-letat-auront-leur-propre-datacenter_a29710?articleId=1b958255-b43c-4b5e-ae46-c28f85519113)** — L'Opinion, 26 October 2026
 
 Morocco's draft 2027 finance bill includes MAD 1.34 billion for digital sovereignty and artificial intelligence. Earlier bills had no such component. It covers cloud services across administrations and a sovereign data centre in Rabat. It also covers AI adapted to national languages and specialised training.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Security audits and sector cyber-maturity assessments by the security directorate</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[المغرب يرصد "ثغرات سيبرانية حرجة" ويعزز حماية المنصات الرقمية](https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b1%d8%b5%d8%af-%d8%ab%d8%ba%d8%b1%d8%a7%d8%aa-%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d8%ad%d8%b1%d8%ac%d8%a9-%d9%88%d9%8a%d8%b9%d8%b2%d8%b2-1839739.html)** — Hespress, 14 November 2026
+
+Banking, transport, energy maturity studies; 24 audits in 2026; urgent review of 144+ platforms of 45 bodies.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: LBY
-ledger_rows: 27
+ledger_rows: 28
 not_held: 3
-record: ba25f49500ee
+record: 71d75373d8f4
 ---
 
 # News, Oct – Nov 2026
@@ -36,6 +36,8 @@ record: ba25f49500ee
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -73,6 +75,22 @@ A committee of the House of Representatives and Libya's human rights council beg
 **[لجنة النواب تناقش باب حماية البيانات الشخصية ضمن قانون السيادة الرقمية](https://lana.gov.ly/post.php?id=370100&lang=ar)** — وكالة الأنباء الليبية (وال), 15 November 2026
 
 A House of Representatives committee on telecommunications and digital-space laws met for the first time in Benghazi on 15 November 2026. It discussed the personal-data protection chapter of the digital sovereignty law. Judicial and university representatives joined by video link.
+
+</div>
+
+</div>
+
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Candidacy for the ITU Council</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
 
 </div>
 

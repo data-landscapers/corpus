@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: KEN
-ledger_rows: 102
+ledger_rows: 105
 not_held: 5
-record: 0b47d956d3a3
+record: afa41feff960
 ---
 
 # News, Oct – Nov 2026
@@ -40,6 +40,8 @@ record: 0b47d956d3a3
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
@@ -339,6 +341,22 @@ Outgoing Kenyan Data Commissioner Immaculate Kassait says the Data Protection Ac
 **[High Court questions ODPC's authority to award compensation for data privacy violations](https://techtrendske.co.ke/2026/11/15/odpc-compensation-powers/)** — TechTrendsKE, 15 November 2026
 
 Kenya's High Court set aside a KSh1.25 million compensation award made by the Data Protection Commissioner. Justice Francis Andayi found that the Data Protection Act does not expressly empower the Commissioner to award damages. The complaint, about CCTV in a clinic examination room, was returned to the Office of the Data Protection Commissioner, and Regulation 14(3)(e) stands.
+
+</div>
+
+</div>
+
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Six-country digital trade accord</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria expects six-country African digital trade accord this month, minister says](https://www.cnbcafrica.com/2026/nigeria-expects-six-country-african-digital-trade-accord-this-month-minister-says)** — CNBC Africa (Reuters), 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Nigeria, Ghana, Rwanda, Kenya, South Africa, Egypt; signing expected at AfCFTA Council of Ministers in Zimbabwe.
 
 </div>
 
@@ -740,6 +758,20 @@ The Daily Nation reported that Kenya's immigration department told a National As
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Huduma Namba (National Integrated Identity Management System)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya's Evolution from Digital ID to DPI (Grace Mutung'u), chapter 7 of Biometric Digital ID in Africa](https://doi.org/10.5040/9781350593923)** — Bloomsbury Academic, 16 November 2026
+
+From kipande to Huduma and Maisha Namba: donor-driven ID, exclusion, litigation and eCitizen fees.
+
+</div>
+
+</div>
+
 ### Digital Payments and Fintech
 
 <div class="monthly-story" markdown="1">
@@ -935,6 +967,20 @@ Redtech, a Nigerian payments company, plans a payments link between Nigeria and 
 **[PAPSS bets on local currencies to unlock Kenya’s Africa trade](https://capitalfm.africa/papss-bets-on-local-currencies-to-unlock-kenyas-africa-trade/)** — Capital FM, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 PAPSS chief executive Mike Ogbalu told Capital FM on 12 November 2026 that the system operates in 31 African countries with over 220 commercial banks and 17 payment switches. It targets 37 countries by the end of 2026 and at least 50 in 2027. Infrastructure fees average about 0.1% of value. Kenya's KCB and Equity Bank are connected; transaction volumes and trade impact have not been disclosed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Verve card acceptance through Interswitch</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Interswitch Partners UBA Kenya to Expand Verve Card Acceptance](https://techafricanews.com/2026/11/16/interswitch-partners-uba-kenya-expand-verve-card-acceptance/)** — Tech Africa News, 16 November 2026
+
+UBA Kenya customers on 2,000+ Interswitch ATMs and merchants; domestic scheme pitched for local-currency settlement.
 
 </div>
 
@@ -1793,6 +1839,14 @@ Summarised under [China activities](#china-activities).
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">European data-adequacy decision</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Joint press statement by Commissioner McGrath and Data Commissioner of Kenya Kassait: EU-Kenya adequacy negotiations concluded](https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en)** — European Commission, DG Justice and Consumers, 16 November 2026
+
+Talks begun 2024 concluded 16 Nov 2026; adoption of both adequacy decisions next, first EU arrangement with Africa.
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 
