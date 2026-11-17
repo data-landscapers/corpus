@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: XAF
-ledger_rows: 81
+ledger_rows: 82
 not_held: 3
-record: d79d2a2e7b8b
+record: 8b1fec297022
 ---
 
 # News, Oct – Nov 2026
@@ -291,6 +291,14 @@ Government representatives and health partners at the First Africa Health Data F
 **[Nineteen African Countries Race for Seats on UN Body That Shapes Global Telecom Rules](https://www.ecofinagency.com/news/1511-60819-nineteen-african-countries-race-for-seats-on-un-body-that-shapes-global-telecom-rules)** — Ecofin Agency, 15 November 2026
 
 Nineteen African countries are contesting Africa's 13 ITU Council seats for 2027-2030. All 13 incumbents are standing: Algeria, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania, Tunisia and Uganda. Six challengers are Cabo Verde, Côte d'Ivoire, DR Congo, Gabon, Libya and Mali.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
 
 </div>
 
@@ -1423,6 +1431,20 @@ Russia and African states adopted the Russia–Africa Partnership Forum Action P
 **[Le Groupe de la Banque africaine de développement et l'Agence française de développement renouvellent leur partenariat pour accélérer le financement des priorités de développement en Afrique](https://www.afd.fr/fr/commmuniques-de-presse/le-groupe-de-la-banque-africaine-de-developpement-et-lagence-francaise-de)** — Agence Française de Développement, 12 November 2026
 
 The African Development Bank Group and the Agence française de développement signed a memorandum of understanding for 2026-2031 in Paris on 10 November 2026. Its areas include digital infrastructure, data governance and the responsible use of AI. Energy and transport are also covered. No sum is attached; the two lenders have co-financed 17 projects in 14 countries since 2021.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Korea-Africa K-AI Voucher Project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[엘리스그룹, GPU·NPU 클라우드로 아프리카 AI 생태계 조성 지원](https://www.etnews.com/20261116000312)** — ETNews (Electronic Times), 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+
+KRW 700m of cloud GPU/NPU compute for African AI start-ups, Côte d'Ivoire base; AfDB-led K-AI Voucher, Korean ODA.
 
 </div>
 

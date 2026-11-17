@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: UGA
 ledger_rows: 54
 not_held: 11
-record: d30724d5be93
+record: 9b9e069b62be
 ---
 
 # News, Oct – Nov 2026
@@ -291,6 +291,14 @@ Uganda's ICT minister told the ITU Plenipotentiary Conference in Doha on 11 Nove
 **[UGANDA HIGHLIGHTS DIGITAL TRANSFORMATION AGENDA AT ITU CONFERENCE](https://www.ucc.co.ug/uganda-highlights-digital-transformation-agenda-at-itu-conference/)** — Uganda Communications Commission, 11 November 2026
 
 The Uganda Communications Commission reported that ICT minister Justine Kasule Lumumba delivered Uganda's policy statement at the ITU Plenipotentiary Conference in Doha on 11 November 2026. The minister cited 96% population network coverage (GSMA, 2025) and digital-skills training for over 100,000 young people in three years. The minister also cited the UCC's e-Booster Programme for homegrown ICT solutions.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
 
 </div>
 

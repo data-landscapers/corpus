@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: TZA
-ledger_rows: 50
+ledger_rows: 51
 not_held: 4
-record: 9de2c1f48207
+record: b573666c0702
 ---
 
 # News, Oct – Nov 2026
@@ -143,6 +143,20 @@ Tanzania's Parliamentary Standing Committee on Infrastructure invited public vie
 **[Bunge Laridhia Azimio la Tanzania Kujiunga na Mkataba wa Usalama Angamtandao - Tanzania Leo](https://tanzanialeo.co.tz/bunge-laridhia-azimio-la-tanzania-kujiunga-na-mkataba-wa-usalama-angamtandao/)** — Tanzania Leo, 5 November 2026
 
 Tanzania's Parliament passed a resolution for the country to accede to the African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention, 2014), reported on 5 November 2026. ICT minister Angellah Kairuki tabled it, with the backing of the Standing Committee on Infrastructure. The report does not give the sitting date.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Council seat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
 
 </div>
 

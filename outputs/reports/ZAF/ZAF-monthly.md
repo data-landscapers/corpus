@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: ZAF
-ledger_rows: 107
+ledger_rows: 111
 not_held: 17
-record: 55e2161959b7
+record: 2308fff65738
 ---
 
 # News, Oct – Nov 2026
@@ -279,6 +279,36 @@ South Africa's National Consumer Commission launched the National Opt-Out Regist
 **[South Africa participates in the 2026 International Telecommunication Union Plenipotentiary Conference in Doha, Qatar](https://www.gov.za/news/media-statements/communications-and-digital-technologies-hosts-2026-international)** — South African Government, 9 November 2026
 
 South Africa is seeking re-election to the ITU Council at the Plenipotentiary Conference in Doha, which runs from 9 to 27 November 2026. Its delegation is led by the Department of Communications and Digital Technologies. For the 2027-2030 term it pledges to support digital public infrastructure, submarine-cable resilience and the safe use of AI.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASA welcomes South Africa's re-election to the ITU Council](https://www.icasa.org.za/news/2026/icasa-welcomes-south-africas-re-election-to-the-itu-council)** — Independent Communications Authority of South Africa, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a>
+
+Seat on 48-member Council for four more years; BOCRA's Basebi Mosinyi elected to Radio Regulations Board 2027–2030.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Six-country digital-services accord (Nigeria-led)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria expects six-country African digital trade accord this month, minister says](https://www.cnbcafrica.com/2026/nigeria-expects-six-country-african-digital-trade-accord-this-month-minister-says)** — CNBC Africa (Reuters), 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Nigeria, Ghana, Rwanda, Kenya, South Africa, Egypt; signing expected at AfCFTA Council of Ministers in Zimbabwe.
 
 </div>
 
@@ -579,6 +609,28 @@ ICASA opened a stakeholder questionnaire on 10 November 2026 on the second phase
 **[IXPs list — The African IXP Association](https://af-ix.org/ixps-list)** — African IXP Association (AF-IX), 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">5G availability and median 5G speed (network-testing firm)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SA’s 5G expansion fails to deliver faster networks](https://www.itweb.co.za/article/sas-5g-expansion-fails-to-deliver-faster-networks/KjlyrvwBn8Qqk6am)** — ITWeb Africa, 16 November 2026
+
+5G in 47% of scanned locations (Oct 2026) but median 5G speed down 26.4% to 150.98Mbps; Ookla Speedtest data.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa Telecoms at a Crossroads: Addressing Performance and Adoption Challenges](https://www.ookla.com/articles/south-africa-connectivity-2026)** — Ookla, 16 November 2026
+
+5G found in 47% of locations (2026) but 5G median down 26.4% to 150.98 Mbps; mobile NPS at -23.9.
 
 </div>
 
@@ -1624,6 +1676,20 @@ President Ramaphosa is leading a delegation to Silicon Valley to inform South Af
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Presidential AI mission: 90-day initiatives</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[‘We must act fast’: Ramaphosa sets 90-day deadline for AI rollout plan](https://www.citizen.co.za/news/south-africa/we-must-act-fast-ramaphosa-sets-90-day-deadline-ai-rollout-plan/)** — The Citizen, 16 November 2026
+
+Address to about 300 delegates incl. nine ministers; SA 46th of 147 on Microsoft AI adoption ranking (2026).
+
+</div>
+
+</div>
+
 ### ICT Industry
 
 <div class="monthly-story" markdown="1">
@@ -1635,6 +1701,52 @@ President Ramaphosa is leading a delegation to Silicon Valley to inform South Af
 **[Standard Bank Group announces strategic investment in OPay and a partnership to advance financial services access in Africa](https://www.standardbank.com/sbg/standard-bank-group/newsroom/press-releases/standard-bank-group-announces-strategic-investment-in-opay-and-a-partnership-to-advance-financial-services-access-in-africa)** — Standard Bank Group, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 Standard Bank Group signed a subscription agreement to invest in Nigerian fintech OPay, to close with or shortly after OPay's proposed New York Stock Exchange listing, for which OPay filed with the US SEC on 9 October 2026. The two also plan to explore digital banking, merchant acquiring, lending and remittances. The release states no amount.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed MTN acquisition of Telkom</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Four years after walking away, MTN is back for Telkom](https://techcabal.com/2026/11/16/mtn-reopens-talks-to-acquire-telkom/)** — TechCabal, 16 November 2026
+
+Telkom market cap R31.7bn (13 Nov 2026) against R17.1bn in 2022; state and PIC together hold 51.6%.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN Group Limited - Cautionary Announcement](https://www.businessday.co.za/sens/566320/)** — MTN Group Limited (JSE SENS), 16 November 2026
+
+MTN in early talks to offer for all of Telkom; cash with an MTN-share alternative; no certainty of a deal.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN reignites plans to acquire Telkom SA](https://www.connectingafrica.com/investment/mtn-reignites-plans-to-acquire-telkom-sa)** — Connecting Africa, 16 November 2026
+
+Cash offer with MTN-share alternative contemplated; combined 48% mobile share vs Vodacom 41% (Omdia, June 2026).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN targets Telkom in renewed takeover talks](https://www.itweb.co.za/article/mtn-targets-telkom-in-renewed-takeover-talks/raYAyMormbO7J38N)** — ITWeb Africa, 16 November 2026
+
+Cautionary notices 16 Nov 2026; cash offer, MTN-share alternative; state 40.5%, PIC 11.08% of Telkom (31 Mar 2026).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Telkom SA SOC Limited - Cautionary Announcement: Discussions between Telkom and MTN Group Limited](https://www.businessday.co.za/sens/566318/)** — Telkom SA SOC Limited (JSE SENS), 16 November 2026
+
+Telkom confirms MTN approach and early talks on an offer for its entire share capital; caution advised.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: North Africa — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: XNA
-ledger_rows: 3
+ledger_rows: 4
 not_held: 0
-record: 97e2b591cd2e
+record: e40c949da8ca
 ---
 
 # News, Oct – Nov 2026
@@ -35,6 +35,20 @@ record: 97e2b591cd2e
 **[Numérique : les pays arabes misent sur la coopération pour réduire les écarts](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/numerique-les-pays-arabes-misent-sur-la-cooperation-pour-reduire-les-ecarts)** — wearetech.africa, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
 
 A UN commission session in Tunis on 4 and 5 November 2026 discussed a second Arab Digital Agenda. Plans include a mid-term review by 2028, a regional digital-development report and an Arab observatory. ESCWA's executive secretary said networks cover about 95% of the Arab population, but only 70% use the internet.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">North Africa Internet Governance Forum (NAIGF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[منتدى يوصي بتحديث التشريعات الرقمية](https://www.hespress.com/%d9%85%d9%86%d8%aa%d8%af%d9%89-%d9%8a%d9%88%d8%b5%d9%8a-%d8%a8%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a%d8%a9-1839671.html)** — Hespress, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
+
+10th North Africa IGF, Rabat, 12-13 Nov 2026: curriculum reform, AI ethics guides, regional IXPs and data centres.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: CIV
-ledger_rows: 53
+ledger_rows: 56
 not_held: 9
-record: 03359931221a
+record: 5ee24e0f95bc
 ---
 
 # News, Oct – Nov 2026
@@ -102,6 +102,20 @@ Burkina Faso's telecoms regulator signed bilateral roaming agreements with its c
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Candidacy for the ITU Council</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Region D: 13 African Council seats; RRB seats to Ghana, Botswana, Morocco; Bogdan-Martin re-elected Secretary-General.
+
+</div>
+
+</div>
+
 ### Standards
 
 <div class="monthly-story" markdown="1">
@@ -139,6 +153,8 @@ Côte d'Ivoire's press regulator ANP and cybersecurity agency ANSSI agreed on 21
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
 <a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#new-investments">New investments</a>
 </nav>
 
@@ -167,6 +183,22 @@ The digital ministry requests 120.72 billion FCFA for 2027 across five programme
 **[Côte d’Ivoire-AIP/ L’Assemblée nationale adopte le budget 2027 du ministère de la Transition numérique arrêté à 120,72 milliards FCFA - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-lassemblee-nationale-adopte-le-budget-2027-du-ministere-de-la-transition-numerique-arrete-a-12072-milliards-fcfa/)** — Agence Ivoirienne de Presse, 14 November 2026
 
 The National Assembly's finance committee adopted the 2027 budget of Côte d'Ivoire's Ministry of Digital Transition on 13 November 2026, at 120.72 billion FCFA. The 2026 budget was 83.3 billion FCFA. It includes 27.5 billion for the World Bank-financed PADCI and a first dedicated programme of 1.8 billion for the cybersecurity agency ANSSI.
+
+</div>
+
+</div>
+
+### MoUs and other agreements
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI cooperation memorandum with AI Skills and Compute Africa (AISCA)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire signs AI cooperation agreement with AISCA to strengthen skills and research](https://www.techreviewafrica.com/news/8351/cote-divoire-signs-ai-cooperation-agreement-with-aisca-to-strengthen-skills-and-research)** — Tech Review Africa, 16 November 2026
+
+Signed at Ivoire Tech Forum 2026; skills, sovereign compute, research, data ecosystem, AI policy; no funding stated.
 
 </div>
 
@@ -935,6 +967,20 @@ Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone a
 **[Côte d’Ivoire : un programme pour rendre les smartphones accessibles à 25 USD](https://www.agenceecofin.com/actualites-numerique/1211-143364-cote-d-ivoire-un-programme-pour-rendre-les-smartphones-accessibles-a-25-usd)** — Agence Ecofin, 12 November 2026
 
 Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone affordability on 10 November 2026 at the Mobile World Congress in Doha. The national programme aims at devices costing about 15,000 FCFA. It also aims at smartphone penetration of 80% by end-2027, against no more than 40% now. Subsidy terms and timetable are not yet set.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Subsidised smartphone access programme (PASS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ivoire Tech Forum 2026 : l’ANSUT lance un programme pour faciliter l’accès aux smartphones](https://www.linfodrome.com/economie/127653-ivoire-tech-forum-2026-l-ansut-lance-un-programme-pour-faciliter-l-acces-aux-smartphones)** — Linfodrome, 15 November 2026
+
+PASS launched 12 Nov 2026; smartphone penetration about 40% now, 80% goal by 2030; 211 villages connected.
 
 </div>
 
