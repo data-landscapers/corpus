@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-11-14
+compiled: 2026-11-17
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 205
+sources_cited: 206
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -206,7 +206,7 @@ In December 2024 [Mali held 10.7% of UEMOA e-money transaction volume and 11.7% 
 
 [On 30 September 2025 six participants based in Mali were authorised at the launch of the BCEAO's PI-SPI platform](https://www.bceao.int/fr/communique-presse/liste-des-participants-autorises-ouvrir-les-services-de-pi-spi-au-public-30-sept-2025). [A list published in September 2026 put Malian institutions authorised to offer it at fourteen](https://fr.apanews.net/business/mali-nouvelles-regles-pour-les-transferts-numeriques/). [Nineteen were on the list published as at 30 September 2026](https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf). [In June 2026 the deadline to open the service was set at 30 September 2026 for banks and e-money and payment institutions, and 30 June 2027 for microfinance institutions](https://www.bceao.int/fr/communique-presse/prolongation-du-delai-de-connexion-a-pi-spi). [Orange Money's August 2026 terms let customers pay instantly from their wallets through the platform](https://www.orangemali.com/particuliers/resources/other/CGU_OFMM_08_2026.pdf). [The BCEAO runs clearing and settlement through SICA-UEMOA and STAR-UEMOA for all eight member states](https://www.bceao.int/en/content/payment-systems-management).
 
-[An interministerial instruction of July 2024 mandates digital payment for a first list of public services, including taxes, fines, identity documents and passports](https://afrikinfos-mali.com/2024/07/23/mali-le-gouvernement-devoile-la-liste-des-premieres-obligations-de-paiement-numerique-dans-les-services-publics/). [Between July 2024 and May 2026 digital payment raised nearly FCFA 200 million for local authorities](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/). In December 2023 [the Jigisémèjiri mobile-money pilot in Mopti covered around 3,000 households](https://blogs.worldbank.org/en/africacan/improving-cash-transfer-process-mobile-technologies-mali). In July 2026 [mobile payment of pensions, introduced in 2019, reached pensions below FCFA 50,000](https://www.africascoop.net/index.php/2026/07/30/sante-le-mali-accelere-la-digitalisation-de-ses-services-publics/). In November 2023 [digital financial services had no established mechanisms for consumer complaints](https://blogs.worldbank.org/en/africacan/digital-financial-services-can-bring-inclusion-and-growth-mali).
+[An interministerial instruction of July 2024 mandates digital payment for a first list of public services, including taxes, fines, identity documents and passports](https://afrikinfos-mali.com/2024/07/23/mali-le-gouvernement-devoile-la-liste-des-premieres-obligations-de-paiement-numerique-dans-les-services-publics/). [In November 2026 the finance ministry extended its TresorPay public payment platform to four more ministries and the data protection authority, handing over 545 tablets](https://malijet.com/actualite_economique_du_mali/312858-numerique-545-tablettes-remises-pour-etendre-la-plateforme.html). [Between July 2024 and May 2026 digital payment raised nearly FCFA 200 million for local authorities](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/). In December 2023 [the Jigisémèjiri mobile-money pilot in Mopti covered around 3,000 households](https://blogs.worldbank.org/en/africacan/improving-cash-transfer-process-mobile-technologies-mali). In July 2026 [mobile payment of pensions, introduced in 2019, reached pensions below FCFA 50,000](https://www.africascoop.net/index.php/2026/07/30/sante-le-mali-accelere-la-digitalisation-de-ses-services-publics/). In November 2023 [digital financial services had no established mechanisms for consumer complaints](https://blogs.worldbank.org/en/africacan/digital-financial-services-can-bring-inclusion-and-growth-mali).
 
 ### Registries
 <!-- dpi.registry -->

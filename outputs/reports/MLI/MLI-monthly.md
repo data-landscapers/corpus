@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: MLI
-ledger_rows: 18
+ledger_rows: 19
 not_held: 1
-record: c51364590b90
+record: f976fa3fbb7d
 ---
 
 # News, Oct – Nov 2026
@@ -185,6 +185,20 @@ Mali's computer incident response centre ML-CERT launched a web platform for rep
 **[Mali : nouvelles règles pour les transferts numériques](https://fr.apanews.net/business/mali-nouvelles-regles-pour-les-transferts-numeriques/)** — APAnews, 2 November 2026
 
 New BCEAO rules on interoperable transfers took effect in Mali on 2 November 2026, APAnews reports. Orange Finances Mobiles Mali raised the balance cap on identified wallets from two to four million CFA francs. Transfers between individuals are free up to 8,000 CFA francs a day, and 14 Malian institutions are authorised on PI-SPI.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">TresorPay</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérique : 545 tablettes remises pour étendre la plateforme de paiement TresorPay](https://malijet.com/actualite_economique_du_mali/312858-numerique-545-tablettes-remises-pour-etendre-la-plateforme.html)** — Malijet, 16 November 2026
+
+160 to security, 150 territorial administration, 100 each to higher education and transport, 35 to the APDP.
 
 </div>
 
