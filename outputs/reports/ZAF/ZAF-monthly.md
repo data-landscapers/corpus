@@ -3,9 +3,9 @@ title: South Africa — News, Oct – Nov 2026
 compiled: 2026-11-17
 period: 2026-10-01 to 2026-11-17
 place: ZAF
-ledger_rows: 111
+ledger_rows: 114
 not_held: 17
-record: 75416d5dee7d
+record: 47fb124e66bc
 ---
 
 # News, Oct – Nov 2026
@@ -387,6 +387,8 @@ South African fintech Yoco secured a US$100 million credit facility from Victory
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#energy">Energy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technical-capacity">Technical Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
@@ -445,6 +447,14 @@ ICASA's chairperson said the regulator has developed a draft satellite licensing
 **[Starlink rival maps out SA strategy beyond satellite broadband](https://www.itweb.co.za/article/starlink-rival-maps-out-sa-strategy-beyond-satellite-broadband/rW1xL75nD9bMRk6m)** — ITWeb South Africa, 8 October 2026
 
 Amazon Leo said it has applied for licences to bring a direct-to-device satellite service to South Africa with mobile operators, probably from around 2028. Its fixed satellite broadband is to be distributed by Herotel from 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Telkom signs Amazon Leo satellite distribution deal](https://www.itweb.co.za/article/telkom-signs-amazon-leo-satellite-distribution-deal/JBwErvn3jbl76Db2)** — ITWeb South Africa, 17 November 2026
+
+Sold via Openserve, BCX and Telkom Business; up to 1Gbps down; Starlink still without ICASA licences (Nov 2026).
 
 </div>
 
@@ -647,6 +657,36 @@ Ookla reported on 16 November 2026 that South Africa's 5G footprint has widened 
 **[Continent 8 Technologies launches data center in Johannesburg, South Africa](https://www.datacenterdynamics.com/en/news/continent-8-technologies-launches-data-center-in-johannesburg-south-africa/)** — Data Center Dynamics, 5 October 2026
 
 Continent 8 Technologies, which hosts online gaming and betting operators, announced its first African data centre, in Johannesburg. It did not disclose the site or any colocation partner.
+
+</div>
+
+</div>
+
+### Energy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Teraco 120MW Sediba solar plant, Free State</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Teraco brings wind power into SA data centre mix](https://www.itweb.co.za/article/teraco-brings-wind-power-into-sa-data-centre-mix/mQwkoq6YrAnM3r9A)** — ITWeb South Africa, 17 November 2026
+
+Sediba R2.25bn on green loans, 354GWh a year; Scafell upgrade frees 380MVA; 100% renewable target by 2035.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Teraco wheeled wind power, Cape Town data centres</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Teraco brings wind power into SA data centre mix](https://www.itweb.co.za/article/teraco-brings-wind-power-into-sa-data-centre-mix/mQwkoq6YrAnM3r9A)** — ITWeb South Africa, 17 November 2026
+
+Summarised under [Energy](#energy).
 
 </div>
 
@@ -1525,6 +1565,20 @@ Summarised under [Data Exchange](#data-exchange).
 **[Technology streamlines 2026 voting process](https://www.sanews.gov.za/south-africa/technology-streamlines-2026-voting-process)** — SAnews (South African Government), 8 November 2026
 
 South Africa's Electoral Commission used 56,000 voter management devices in the 2026 Local Government Elections, Chief Electoral Officer Sy Mamabolo said on 8 November 2026. That is 16,000 more than its 2021 fleet. Of the new devices, 8,000 were bought and 8,000 donated by Gauteng. The results API took 14.3 million requests. 1,149 users joined the new Virtual Results Operating Centre.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PRASA digital passenger channels</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PRASA puts people at the centre of its digital transformation strategy](https://www.itweb.co.za/article/prasa-puts-people-at-the-centre-of-its-digital-transformation-strategy/VgZeyqJlDEJ7djX9)** — ITWeb South Africa, 17 November 2026
+
+Launched 17 Nov 2026 at Park Station; Western Cape purchase pilot from 25 Nov; AI-assisted enquiries planned.
 
 </div>
 
