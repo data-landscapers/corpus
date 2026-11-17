@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: CMR
-ledger_rows: 32
+ledger_rows: 35
 not_held: 3
-record: 8d9fbdd14be5
+record: 096ec3a2e582
 ---
 
 # News, Oct – Nov 2026
@@ -268,6 +268,42 @@ The posts and telecoms minister inspected a PATNUC connectivity site at Campo Be
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Orange Cameroon commissions rural connectivity sites in Campo-Beach under PATNUC project](https://techreviewafrica.com/news/8365/orange-cameroon-commissions-rural-connectivity-sites-in-campo-beach-under-patnuc-project)** — Tech Review Africa, 17 November 2026
+
+40 of 120 white-zone sites live, all due by March 2027; World Bank-backed PATNUC rollout.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fibre backbone Phase IV</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Camtel Unveils CFA148 Billion Fiber Network Project, With Funding Details Still Unclear](https://www.businessincameroon.com/telecom/1711-17202-camtel-unveils-cfa148-billion-fiber-network-project-with-funding-details-still-unclear)** — Business in Cameroon, 17 November 2026
+
+BB4 backbone phase costed at CFA148bn; China Eximbank loan of CNY1.35bn covers about 73%; rest unexplained.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Tax directorate network and satellite backup links (PMSI-DGI)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Netzwerkinfrastruktur und Backupverbindung | Ausschreibungsmeldung | Kamerun | Telekommunikations-, Navigationstechnik](https://www.gtai.de/de/trade/kamerun/ausschreibungen-projekte/netzwerkinfrastruktur-und-backupverbindung-1951644)** — Germany Trade & Invest (GTAI), 17 November 2026
+
+No bid met minimum requirements; LAN/SD-WAN and satellite-link lots for tax-office data centres; KfW-financed.
+
+</div>
+
 </div>
 
 ### Data Storage
@@ -309,6 +345,20 @@ Uptime Institute's register for Cameroon lists two Tier III design certification
 **[MISSOLE | : LES ÉTATS UNIS S’ENGAGENT AUX CÔTÉS DU PORT AUTONOME DE DOUALA POUR BÂTIR UN DATA CENTER DE DERNIÈRE GÉNÉRATION](https://lavoixdelacite.com/2026/11/07/missole-les-etats-unis-sengagent-aux-cotes-du-port-autonome-de-douala-pour-batir-un-data-center-de-derniere-generation/)** — La Voix de la Cité, 7 November 2026
 
 The Port Autonome de Douala plans a two-hectare modular data centre, built for AI and with its own power plant, at its Dibamba industrial-port zone. It was shown to US chargé d'affaires John G. Robinson on a visit reported on 7 November 2026. The port says the site would keep hosted data under Cameroonian sovereignty. It names no builder, financier or timeline.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Tax directorate primary and backup data-centre equipment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ausrüstung für Rechenzentren | Ausschreibungsmeldung | Kamerun | IKT](https://www.gtai.de/de/trade/kamerun/ausschreibungen-projekte/ausruestung-fuer-rechenzentren-1951646)** — Germany Trade & Invest (GTAI), 17 November 2026
+
+KfW-financed PMSI-DGI tender for network, server and backup kit cancelled 17 Nov 2026; no bid met minimum requirements.
 
 </div>
 
