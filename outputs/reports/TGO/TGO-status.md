@@ -1,12 +1,12 @@
 ---
 title: Togo: status report
-compiled: 2026-11-16
+compiled: 2026-11-17
 place: TGO
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 276
+sources_cited: 277
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -252,7 +252,7 @@ A [decree of 26 December 2024, gazetted 23 April 2025, requires telecom operator
 
 [In 2025 government procurement published tender notices and awards online](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [In October 2026 the procurement regulator opened recruitment of four consultants to set up electronic procurement](https://www.togofirst.com/fr/gouvernance-economique/2610-20450-togo-4-consultants-recherches-pour-preparer-la-passation-electronique-des-marches-publics).
 
-[In 2025 there was no central feedback or grievance platform for public services, and no e-participation platform](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The social protection portal was still being implemented](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [In January 2025 the security ministry opened an online platform for reporting abuses by the security forces](https://www.republiquetogolaise.com/securite/0901-10169-une-plateforme-en-ligne-desormais-pour-denoncer-les-abus-des-forces-de-l-ordre).
+[In 2025 there was no central feedback or grievance platform for public services, and no e-participation platform](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The social protection portal was still being implemented](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [In January 2025 the security ministry opened an online platform for reporting abuses by the security forces](https://www.republiquetogolaise.com/securite/0901-10169-une-plateforme-en-ligne-desormais-pour-denoncer-les-abus-des-forces-de-l-ordre). [On 16 November 2026 the public-sector pension fund launched BIOSECU-CRT, an online proof-of-life check by facial recognition for its 40,043 beneficiaries](https://finances.gouv.tg/biosecu-crt-le-controle-de-vie-des-retraites-entre-dans-lere-du-numerique/).
 
 ## Digitalisation
 
