@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: GNQ
-ledger_rows: 19
+ledger_rows: 21
 not_held: 6
-record: 06fa9c42f4a6
+record: d4dd6eb9a3e2
 ---
 
 # News, Oct – Nov 2026
@@ -199,6 +199,8 @@ Equatorial Guinea's vice-president, Teodoro Nguema Obiang Mangue, named on X the
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
@@ -221,6 +223,22 @@ Equatorial Guinea's Vice-President Nguema Obiang Mangue authorised an upgrade of
 **[El Ejecutivo aprueba la segunda propuesta para la modernización integral de CNEDOGE](https://www.guineaecuatorialpress.com/noticias/el_ejecutivo_aprueba_la_segunda_propuesta_para_la_modernizacion_integral_de_cnedoge)** — Oficina de Información y Prensa de Guinea Ecuatorial, 12 November 2026
 
 Equatorial Guinea's government approved on 11 November 2026 the second of three investment options to modernise CNEDOGE, which issues national identity documents and passports. The plan renews servers, storage, security, networks, power supply and biometric capture and issuing equipment, much of it in service since 2017. The initial invoice was revised 40% downward; the amount is not stated.
+
+</div>
+
+</div>
+
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National health information system on DHIS2</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[El Ministerio de Sanidad e Infraestructuras Sanitarias refuerza su gestión digital con las plataformas TRANSDOC y DHIS2](https://www.undp.org/es/equatorial-guinea/noticias/el-ministerio-de-sanidad-e-infraestructuras-sanitarias-refuerza-su-gestion-digital-con-las-plataformas-transdoc-y-dhis2)** — UNDP Equatorial Guinea, 16 November 2026
+
+DHIS2 live in 18 health districts; joint programme ends 31 Dec 2026, government to fund connectivity from 2027.
 
 </div>
 
@@ -307,6 +325,20 @@ Equatorial Guinea's Vice-President chaired a government review on 3 November 202
 **[Guinea Ecuatorial prepara un registro único y biométrico para los funcionarios del Estado](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_prepara_un_registro_unico_y_biometrico_para_los_funcionarios_del_estado)** — Oficina de Información y Prensa de Guinea Ecuatorial, 9 November 2026
 
 Equatorial Guinea's Treasury presented the SIGEF civil-servant management system on 9 November 2026. Built with Morocco's M2M, it rests on a single biometric register of state employees. A multiservice identity card can also carry payroll payment, to help control the wage bill.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">TRANSDOC document management system, health ministry</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[El Ministerio de Sanidad e Infraestructuras Sanitarias refuerza su gestión digital con las plataformas TRANSDOC y DHIS2](https://www.undp.org/es/equatorial-guinea/noticias/el-ministerio-de-sanidad-e-infraestructuras-sanitarias-refuerza-su-gestion-digital-con-las-plataformas-transdoc-y-dhis2)** — UNDP Equatorial Guinea, 16 November 2026
+
+Summarised under [Sectoral management information systems](#sectoral-management-information-systems).
 
 </div>
 
