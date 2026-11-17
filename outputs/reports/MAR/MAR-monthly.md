@@ -3,9 +3,9 @@ title: Morocco — News, Oct – Nov 2026
 compiled: 2026-11-17
 period: 2026-10-01 to 2026-11-17
 place: MAR
-ledger_rows: 31
+ledger_rows: 36
 not_held: 13
-record: 800853837afc
+record: b91853ae8ef3
 ---
 
 # News, Oct – Nov 2026
@@ -158,6 +158,34 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Law 05-20 on cybersecurity</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité au Maroc : 15 centres de surveillance en préparation, la loi en cours de révision](https://lematin.ma/nation/cybersecurite-15-centres-de-surveillance-prevus-la-loi-en-revision/376014)** — Le Matin, 16 November 2026
+
+15 SOCs funded by defence budget; cybersecurity law under revision; 31 of 72 public web apps critically flawed (2026).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital health bill 52.26</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Santé numérique : une même donnée, deux usages](https://telquel.ma/2026/11/17/sante-numerique-une-meme-donnee-deux-usages_2018589)** — TelQuel, 17 November 2026
+
+Morocco's government council adopted draft law 52-26 on the integrated national health information system on 22 July 2026. It is before the House of Representatives' social sectors committee. The text would create a shared medical record, a health identifier and interoperability between systems. A dedicated agency would lead. TelQuel notes that one clinical act serves both patient care and insurance reimbursement. A commentator asks that the two purposes be kept distinct.
+
+</div>
+
+</div>
+
 ### Data protection
 
 <div class="monthly-story" markdown="1">
@@ -217,10 +245,28 @@ Morocco's Bulletin officiel of 1 October 2026 published decrees approving two Wo
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
+
+### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National roaming service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lors de la séance des questions orales tenue à la Chambre des représentants, M. Ahmed Rahhou a présenté les principales actions engagées par son département en matière de développement de l’intelligence artificielle ...](https://www.mmsp.gov.ma/fr/actualites/lors-de-la-s%C3%A9ance-des-questions-orales-tenue-%C3%A0-la-chambre-des-repr%C3%A9sentants-m-ahmed-rahhou-pr%C3%A9sent%C3%A9-les-principales-actions-engag%C3%A9es-par-son-d%C3%A9partement-en-mati%C3%A8re-de-d%C3%A9veloppement-de-l%E2%80%99intelligence-artificielle)** — Ministry of Artificial Intelligence, Digital Transformation and Administrative Reform, 16 November 2026
+
+Phase two broadband plan to reach 2,000 rural zones; MAD 2.5bn start-up financing target; Idarati and data exchange.
+
+</div>
+
+</div>
 
 ### Data Storage
 
@@ -271,6 +317,34 @@ Morocco's draft 2027 finance bill includes MAD 1.34 billion for digital sovereig
 **[المغرب يرصد "ثغرات سيبرانية حرجة" ويعزز حماية المنصات الرقمية](https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b1%d8%b5%d8%af-%d8%ab%d8%ba%d8%b1%d8%a7%d8%aa-%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d8%ad%d8%b1%d8%ac%d8%a9-%d9%88%d9%8a%d8%b9%d8%b2%d8%b2-1839739.html)** — Hespress, 14 November 2026
 
 Morocco's information systems security directorate (DGSSI) has begun cyber-maturity assessments of banks, transport and energy. Minister Delegate Abdeltif Loudiyi told a parliamentary committee on 14 November 2026 that it audited 24 ministries and strategic bodies in 2026. An urgent review covered 144 online platforms of 45 bodies. Some systems were suspended until their flaws were fixed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Critical vulnerabilities in audited public web applications</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Cybersécurité au Maroc : 15 centres de surveillance en préparation, la loi en cours de révision](https://lematin.ma/nation/cybersecurite-15-centres-de-surveillance-prevus-la-loi-en-revision/376014)** — Le Matin, 16 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Security operations centres for public and strategic bodies</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Cybersécurité au Maroc : 15 centres de surveillance en préparation, la loi en cours de révision](https://lematin.ma/nation/cybersecurite-15-centres-de-surveillance-prevus-la-loi-en-revision/376014)** — Le Matin, 16 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
