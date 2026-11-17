@@ -3,9 +3,9 @@ title: West Africa — News, Oct – Nov 2026
 compiled: 2026-11-17
 period: 2026-10-01 to 2026-11-17
 place: XWA
-ledger_rows: 33
+ledger_rows: 34
 not_held: 1
-record: 892adb30c3b5
+record: 60b4b1307d78
 ---
 
 # News, Oct – Nov 2026
@@ -203,6 +203,20 @@ Burkina Faso signed bilateral roaming agreements with Benin, Côte d'Ivoire and 
 **[West Africa Struggles to Deliver Free Roaming Nearly Nine Years After Regional Agreement - Ecofin Agency](https://www.ecofinagency.com/news-digital/2610-60121-west-africa-struggles-to-deliver-free-roaming-nearly-nine-years-after-regional-agreement)** — Ecofin Agency, 26 October 2026
 
 Burkina Faso's roaming agreements with Benin, Côte d'Ivoire and Senegal need about three months of operator work before they take effect, nearly nine years after ECOWAS adopted regional roaming rules. WATRA had counted 13 bilateral agreements across eight countries by August 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed West African protocol on submarine-cable resilience</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG pushes regional deal to prevent internet disruptions](https://punchng.com/fg-pushes-regional-deal-to-prevent-internet-disruptions/)** — The PUNCH, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Nigeria's communications ministry proposed a shared West African protocol to protect submarine cables, reroute traffic and coordinate repairs, in a statement of 16 November 2026. It advanced the proposal at the ITU Plenipotentiary Conference in Doha. Nigeria was also re-elected to the ITU Council for 2027 to 2030.
 
 </div>
 

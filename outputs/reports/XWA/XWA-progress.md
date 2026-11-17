@@ -3,18 +3,18 @@ title: West Africa — progress report, November 2025 – November 2026
 compiled: 2026-11-17
 period: 2025-11-01 to 2026-11-17
 place: XWA
-ledger_rows: 145
+ledger_rows: 146
 not_held: 1
-record: 1a72b32b2459
+record: 96944765f2a3
 ---
 
 # West Africa: progress report, November 2025 – November 2026
 
 *Compiled 2026-11-17 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 145 bodies, instruments and systems on this place's ledger, 76 changed position between 2025-11-01 and 2026-11-17, 20 did not, 48 carry no stated baseline, and 1 is ***Not held*** at both ends.*
+*Of 146 bodies, instruments and systems on this place's ledger, 76 changed position between 2025-11-01 and 2026-11-17, 20 did not, 49 carry no stated baseline, and 1 is ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 299 sources for this place in the window — 76 in the earlier half (2025-11 to 2026-04), 223 in the later (2026-05 to 2026-11). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 300 sources for this place in the window — 76 in the earlier half (2025-11 to 2026-04), 224 in the later (2026-05 to 2026-11). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -154,6 +154,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 | CLSG power line optical fibre | ***Baseline not held*** | [The Côte d'Ivoire-Liberia-Sierra Leone-Guinea transmission line carries a 48-fibre optical ground wire, of which 40 fibres are to be offered for wholesale on an open-access basis, possibly through a public-private partnership](https://www.transcoclsg.org/wp-content/uploads/2020/09/REOI_TOR-Fiber-Optic-Final-to-be-published_31.08.2020.pdf) | ***Baseline not held*** |
 | IXPN as West Africa's regional internet exchange | ***Baseline not held*** | [Nigeria's internet exchange became a regional exchange for West Africa under the African Union's AXIS project, whose grant was awarded in 2016; the project put the number of African countries with an exchange at 35, from 18 (March 2019)](https://ixpn.ng/news/regional-ixp/) | ***Baseline not held*** |
 | Medusa Africa extension of the Medusa submarine cable | ***Baseline not held*** | [A branch from the Mediterranean system down Africa's Atlantic coast is at study stage: an EU grant of EUR 14.3m for a branching unit and a survey of about 8,000 km to DR Congo, and a US grant of US$1,520,778 for a feasibility study covering up to 22 countries](https://www.submarinenetworks.com/en/systems/asia-europe-africa/medusa/afr-ix-telecom-secures-us-backing-and-%E2%82%AC14,3-million-eu-funding-for-medusa-africa) | ***Baseline not held*** |
+| Proposed West African protocol on submarine-cable resilience | ***Baseline not held*** | [A shared regional protocol to protect submarine cables, reroute traffic and coordinate repairs when cables fail, proposed by Nigeria to West African states; no text, signatory or regional body's adoption is on record](https://punchng.com/fg-pushes-regional-deal-to-prevent-internet-disruptions/) | ***Baseline not held*** |
 | SOGEM energy-grid fibre linking the OMVS states | ***Baseline not held*** | [Mali, Guinea, Mauritania and Senegal agreed to link their networks over the 1,728 km of fibre on the Senegal River basin authority's energy grid, managed by its energy company](https://www.digitalbusiness.africa/le-senegal-la-guinee-le-mali-et-la-mauritanie-unis-autour-dun-projet-dinfrastructure-de-fibre-optique/) | ***Baseline not held*** |
 | West Africa Regional Communications Infrastructure Project, phase 1B | ***Baseline not held*** | [The World Bank's completion report closed the phase covering Burkina Faso, The Gambia and Guinea, putting Gambian international bandwidth at 528 kbit/s per person, from 10](https://documents1.worldbank.org/curated/en/920521646421347997/pdf/Western-Africa-Regional-Communications-Infrastructure-Project.pdf) | ***Baseline not held*** |
 
