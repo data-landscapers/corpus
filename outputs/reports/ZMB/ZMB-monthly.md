@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-17
+period: 2026-10-01 to 2026-11-17
 place: ZMB
-ledger_rows: 30
+ledger_rows: 32
 not_held: 32
-record: f12fe692f1dd
+record: 81cf84c6ba64
 ---
 
 # News, Oct – Nov 2026
@@ -296,6 +296,20 @@ The bureau of COMESA's central bank governors met in Lilongwe on 11 November 202
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile money in government digital services (MTN MoMo talks)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia Explores MTN MoMo Partnership to Simplify Government Payments](https://www.ecofinagency.com/news-digital/1611-60845-zambia-explores-mtn-momo-partnership-to-simplify-government-payments)** — Ecofin Agency, 16 November 2026
+
+SZI opens talks with MTN MoMo, 13 Nov 2026; mobile money for public fees, Kenya eCitizen and Tanzania GePG as models.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -447,6 +461,20 @@ Zambia released its 2025 national survey on access and use of ICTs on 9 November
 **[Zambia Deploys 751 Starlink Kits to Health Facilities with UNDP Support](https://techafricanews.com/2026/11/12/zambia-deploys-751-starlink-kits-to-health-facilities-with-undp-support/)** — Tech Africa News, 12 November 2026
 
 Smart Zambia Institute has begun deploying 751 Starlink kits to health facilities in all 10 provinces, Tech Africa News reported on 12 November 2026. The Global Fund pays for the kits through the Ministry of Health, and UNDP supports the rollout. The first 90 kits went to the Western Province health office.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SES and ITU Partner2Connect satellite school connectivity</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SES expands rural school connectivity](https://itweb.africa/article/ses-expands-rural-school-connectivity/WnpNgq21E5EMVrGd)** — ITWeb Africa, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+
+SES and the ITU's Partner2Connect coalition plan to connect 30 rural schools in Malawi, Burundi, Zambia and Zimbabwe by satellite by the end of 2026. The schools have an estimated 20,000 to 30,000 students and teachers. The schools form part of SES's pledge to connect 100 schools worldwide.
 
 </div>
 
