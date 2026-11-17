@@ -29,13 +29,19 @@ page on BusinessDay returned 404 while its listing loaded. So:
 `url_note` and leave `url` alone. A row OSINT changes drops out of the catalogue's link set, so
 the batch closes itself.
 
+**Readers see them too** *(Bill, 2026-11-17)*: `dead-links.csv`, the catalogue download's
+columns plus `recorded_dead` (the confirming check; `ingested` is when the link was found)
+and `archive_url`, is offered beside the catalogue CSV, so a link
+that once worked and no longer does is on the record rather than silently swapped.
+
 For each confirmed dead link it asks the Wayback Machine for the snapshot nearest the source's
 publication date, so the note can name the replacement.
 
     python scripts/link-check.py run [--limit 100] [--minutes 4]   # one slice (the poll's call)
     python scripts/link-check.py summary                            # counts by state
     python scripts/link-check.py owed                               # dead links not yet sent; exit 1 if any
-    python scripts/link-check.py batch                              # write logs/link-dead/<today>.csv, mark them sent
+    python scripts/link-check.py batch                              # write logs/link-dead/<today>.csv, mark them sent, publish
+    python scripts/link-check.py publish                            # rewrite outputs/catalogue/dead-links.csv from the batches
 
 Exit 0 normally; `owed` exits 1 when a batch is owed; 2 when the catalogue cannot be read.
 """
@@ -45,6 +51,7 @@ import argparse
 import concurrent.futures as cf
 import csv
 import datetime as dt
+import glob
 import io
 import json
 import os
@@ -72,7 +79,13 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/130.0 Safari/537.36")
 COLS = ["url", "slugs", "published", "state", "code", "checked", "fails",
         "first_fail", "archive", "sent"]
-BATCH_COLS = ["slug", "url", "published", "first_fail", "last_fail", "code", "archive"]
+# The catalogue download's columns (build-catalogue.py CSV_COLS). A batch carries them so the
+# public file can be cut from the batches alone, after OSINT has replaced the URL.
+CAT_COLS = ["title", "publisher", "author", "published", "date_precision",
+            "places", "topics", "entities", "ingested", "url"]
+BATCH_COLS = ["slug"] + CAT_COLS + ["first_fail", "last_fail", "code", "archive"]
+PUBLIC = os.path.join(ROOT, "outputs", "catalogue", "dead-links.csv")
+PUBLIC_COLS = CAT_COLS + ["recorded_dead", "archive_url"]
 
 GONE = {404, 410}
 BLOCKED = {401, 403, 405, 406, 429, 451, 999}
@@ -104,8 +117,10 @@ def catalogue() -> dict[str, dict]:
         u = (it.get("url") or "").strip()
         if not u.lower().startswith(("http://", "https://")):
             continue
-        row = out.setdefault(u, {"slugs": [], "published": it.get("published") or ""})
+        row = out.setdefault(u, {"slugs": [], "published": it.get("published") or "", "meta": {}})
         row["slugs"].append(it["slug"])
+        row["meta"][it["slug"]] = {c: "; ".join(v) if isinstance(v, list) else (v or "")
+                                   for c, v in ((c, it.get(c)) for c in CAT_COLS)}
     return out
 
 
@@ -122,7 +137,7 @@ def save(state: dict[str, dict]) -> None:
     w = csv.DictWriter(buf, fieldnames=COLS, lineterminator="\n")
     w.writeheader()
     for u in sorted(state):
-        w.writerow({c: state[u].get(c, "") for c in COLS})
+        w.writerow({c: state[u].get(c, "") for c in COLS})  # `_meta` is not kept
     tmp = STATE + ".tmp"
     with open(tmp, "w", encoding="utf-8", newline="") as fh:
         fh.write(buf.getvalue())
@@ -137,6 +152,7 @@ def merge(state: dict[str, dict], cat: dict[str, dict]) -> dict[str, dict]:
         r = dict(state.get(u) or {"url": u, "state": "", "fails": "0"})
         r["slugs"] = ";".join(sorted(c["slugs"]))
         r["published"] = c["published"]
+        r["_meta"] = c.get("meta", {})
         out[u] = r
     return out
 
@@ -296,12 +312,33 @@ def batch(state: dict[str, dict]) -> str:
         w.writerows(existing)
         for r in sorted(rows, key=lambda r: r["slugs"]):
             for slug in r["slugs"].split(";"):
-                w.writerow({"slug": slug, "url": r["url"], "published": r["published"],
+                w.writerow({**r.get("_meta", {}).get(slug, {}), "slug": slug, "url": r["url"],
                             "first_fail": r["first_fail"], "last_fail": r["checked"],
                             "code": r["code"], "archive": r.get("archive") or "none"})
             r["sent"] = today()
     save(state)
+    publish()
     return path
+
+
+def publish() -> str:
+    """`outputs/catalogue/dead-links.csv`: every link ever sent, the catalogue's columns plus the
+    day the second failure confirmed it dead and the archived copy. `ingested` is when it was found. Cut from the committed batches alone, so it
+    keeps a link after OSINT has replaced it; `catalogue.py` copies it to the site."""
+    rows: dict[tuple[str, str], dict] = {}
+    for f in sorted(glob.glob(os.path.join(BATCHES, "*.csv"))):
+        with open(f, encoding="utf-8", newline="") as fh:
+            for r in csv.DictReader(fh):
+                rows.setdefault((r["slug"], r["url"]), r)
+    out = sorted(rows.values(), key=lambda r: (r["last_fail"], r.get("published", "")), reverse=True)
+    os.makedirs(os.path.dirname(PUBLIC), exist_ok=True)
+    with open(PUBLIC, "w", encoding="utf-8-sig", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=PUBLIC_COLS, extrasaction="ignore")
+        w.writeheader()
+        for r in out:
+            a = r.get("archive", "")
+            w.writerow({**r, "recorded_dead": r["last_fail"], "archive_url": "" if a == "none" else a})
+    return PUBLIC
 
 
 def acquire_lock() -> bool:
@@ -319,7 +356,7 @@ def acquire_lock() -> bool:
 
 def main() -> int:
     ap = argparse.ArgumentParser(description="Check the catalogue's source links, a slice at a time.")
-    ap.add_argument("cmd", choices=["run", "summary", "owed", "batch"])
+    ap.add_argument("cmd", choices=["run", "summary", "owed", "batch", "publish"])
     ap.add_argument("--limit", type=int, default=100, help="links per slice")
     ap.add_argument("--minutes", type=float, default=4, help="stop starting requests after this")
     ap.add_argument("--quiet", action="store_true", help="run: print nothing when nothing was due")
@@ -348,6 +385,9 @@ def main() -> int:
             n = len(owed(state))
             print(f"dead links owed: {n}")
             return 1 if n else 0
+        if a.cmd == "publish":
+            print(publish())
+            return 0
         path = batch(state)
         print(path or "nothing owed")
         return 0

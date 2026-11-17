@@ -738,6 +738,7 @@ BODY = r"""
     <button class="btn btn--sm" data-dl="json" data-all="1" disabled>&darr; Catalogue JSON</button>
     <button class="btn btn--sm" data-dl="csv" disabled>&darr; Selection CSV</button>
     <button class="btn btn--sm" data-dl="json" disabled>&darr; Selection JSON</button>
+    <a class="btn btn--sm" href="dead-links.csv" download>&darr; Dead links CSV</a>
     <a class="btn btn--sm" href="../datasets/metadata/#catalogue">Metadata</a>
     <a class="btn btn--sm" href="../alerts/" id="getalerts">Get alerts</a>
   </div>
@@ -1713,6 +1714,11 @@ def main() -> int:
     # it the way it cuts a selection, from the same chunks, so what a reader gets is the
     # same records without a second published copy of them.
     shutil.copyfile(cdir / "raw-catalogue.csv", out_dir / "raw-catalogue.csv")
+    # Links that once worked and no longer do (`link-check.py publish`), offered beside the
+    # catalogue so a replaced link is on the record (Bill, 2026-11-17). Undated and rewritten
+    # wholesale, like the catalogue CSV; a header-only file until the first batch.
+    if (cdir / "dead-links.csv").exists():
+        shutil.copyfile(cdir / "dead-links.csv", out_dir / "dead-links.csv")
     stale_json = out_dir / "raw-catalogue.json"
     if stale_json.exists():
         stale_json.unlink()

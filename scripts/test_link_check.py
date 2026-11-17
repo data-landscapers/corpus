@@ -82,9 +82,11 @@ s = state()
 check("recovery clears a suspect", (s["https://b.example/1"]["state"], s["https://b.example/1"]["fails"]), ("ok", "0"))
 
 lc.BATCHES = os.path.join(tmp, "batches")
+lc.PUBLIC = os.path.join(tmp, "dead-links.csv")
 path = lc.batch(s)
 check("batch marks sent", lc.owed(state()), [])
 check("batch names the slug", open(path, encoding="utf-8").read().count("\ns1,"), 1)
+check("public file has the dead link", open(lc.PUBLIC, encoding="utf-8-sig").read().count("https://a.example/1"), 2)
 
 del CAT["https://a.example/1"]
 check("a link OSINT replaced drops out", "https://a.example/1" in state(), False)

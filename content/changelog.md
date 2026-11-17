@@ -1,3 +1,7 @@
+## 17 November 2026
+
+- The catalogue now offers a Dead links CSV: sources whose link once worked and no longer does, with the date each was confirmed dead and an archived copy where one exists. Links are checked nightly, and one is listed only after two failed checks a week apart.
+
 ## 16 November 2026
 
 - The maturity assessment's top stage is renamed from Leading to Mature, on the map, the country reports and the methodology page. No stage has moved; the old name read as a ranking against other countries.
