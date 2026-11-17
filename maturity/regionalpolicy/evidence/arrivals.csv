@@ -2473,7 +2473,7 @@ GNB,73,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument
 GNQ,51,2026-11-13-gnq-inege-cemac-informal-cross-border-trade-survey,2026-11-17,,
 GNQ,52,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-africa,2026-11-17,instrument,2026-11-17
 GNQ,53,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
-KEN,256,2026-11-15-xaf-talkafrica-doha-africa-shape-global-digital-governance,2026-11-17,,
+KEN,256,2026-11-15-xaf-talkafrica-doha-africa-shape-global-digital-governance,2026-11-17,capped,2026-11-17
 KEN,257,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,capped,2026-11-17
 KEN,258,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,capped,2026-11-17
 KEN,259,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
@@ -2778,10 +2778,10 @@ UGA,182,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument
 UGA,183,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
 UGA,184,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
 UGA,185,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
-ZAF,171,2026-11-16-xgl-itu-council-rrb-elections-2027-2030,2026-11-17,,
+ZAF,171,2026-11-16-xgl-itu-council-rrb-elections-2027-2030,2026-11-17,capped,2026-11-17
 ZAF,172,2026-11-16-zaf-icasa-welcomes-south-africa-reelection-itu-council,2026-11-17,,
-ZAF,173,2026-11-16-tra-itu-resolution-206-ott-network-funding,2026-11-17,,
-ZAF,174,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,,
+ZAF,173,2026-11-16-tra-itu-resolution-206-ott-network-funding,2026-11-17,capped,2026-11-17
+ZAF,174,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,capped,2026-11-17
 ZAF,175,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,,
 ZAF,176,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 ZAF,177,2021-11-01-ria-cis-towards-evaluation-socio-digital-id-ecosystems-africa,2026-11-17,instrument,2026-11-17
@@ -2825,3 +2825,7 @@ ZWE,119,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,in
 ZWE,120,2022-06-01-chrgj-paving-digital-road-to-hell,2026-11-17,instrument,2026-11-17
 ZWE,121,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
 ZWE,122,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
+GMB,119,2026-11-16-gmb-senigambia-gicta-wardip-digital-engineering-training,2026-11-17,,
+NGA,246,2026-11-17-nga-fg-seeks-regional-agreement-protect-submarine-cables,2026-11-17,capped,2026-11-17
+SLE,117,2026-09-28-sle-world-bank-ai-readiness-diagnostic,2026-11-17,instrument,2026-11-17
+ZAF,192,2026-11-17-zaf-presidency-mashatile-africa-tech-festival-opening,2026-11-17,,

@@ -1857,7 +1857,7 @@ GNB,45,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument
 GNQ,41,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
 GNQ,42,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
 GNQ,43,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
-KEN,270,2026-11-15-xaf-talkafrica-doha-africa-shape-global-digital-governance,2026-11-17,,
+KEN,270,2026-11-15-xaf-talkafrica-doha-africa-shape-global-digital-governance,2026-11-17,capped,2026-11-17
 KEN,271,2026-11-16-xaf-africa-ai-infrastructure-gap-data-centre-expansion,2026-11-17,capped,2026-11-17
 KEN,272,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,capped,2026-11-17
 KEN,273,2025-08-05-roberts-decolonising-digital-public-infrastructure,2026-11-17,capped,2026-11-17
@@ -2133,7 +2133,7 @@ ZAF,232,2026-11-16-ramaphosa-sets-90-day-deadline-for-ai-rollout-plan,2026-11-17
 ZAF,233,2026-11-16-zaf-south-africa-must-seize-the-opportunities-of-the-ai-revolution,2026-11-17,,
 ZAF,234,2026-11-15-zaf-beyond-photo-ops-what-sa-should-bring-home-from-ramaphosas-silicon-val,2026-11-17,,
 ZAF,235,2026-11-16-xaf-africa-ai-infrastructure-gap-data-centre-expansion,2026-11-17,,
-ZAF,236,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,,
+ZAF,236,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,capped,2026-11-17
 ZAF,237,2024-06-01-cigi-digital-sovereignty-africa-beyond-local-data-ownership,2026-11-17,instrument,2026-11-17
 ZAF,238,2023-05-22-ecdpm-global-approaches-digital-sovereignty,2026-11-17,instrument,2026-11-17
 ZAF,239,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
@@ -2174,3 +2174,14 @@ ZWE,112,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrumen
 ZWE,113,2023-01-01-idrc-klaaren-changing-digital-identity-systems-africa,2026-11-17,instrument,2026-11-17
 ZWE,114,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
 ZWE,115,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
+BEN,130,2026-11-17-ben-cyber-africa-forum-ai-testbed-techcabal,2026-11-17,,
+BEN,131,2026-11-16-ben-cyber-africa-forum-2026-digital-trust-sovereignty,2026-11-17,,
+COD,153,2026-11-17-cod-kibassa-investors-data-center-cdn-dot-cd,2026-11-17,,
+DJI,84,2026-11-17-dji-ecofin-qatar-data-centres-partnership,2026-11-17,,
+DZA,137,2026-11-15-dza-jeune-independant-hcn-accompaniment-dzair-digital-services,2026-11-17,,
+LBR,69,2026-11-17-lbr-liberianobserver-us52m-national-id-concession-local-firm,2026-11-17,,
+MUS,116,2026-11-15-mus-lemauricien-mauritius-telecom-ai-rs1bn,2026-11-17,instrument,2026-11-17
+SEN,274,2026-11-16-where-is-senegals-data-stored,2026-11-17,instrument,2026-11-17
+SLE,91,2026-09-28-sle-world-bank-ai-readiness-diagnostic,2026-11-17,instrument,2026-11-17
+SWZ,48,2026-11-16-new-health-platform-to-help-govt-anticipate-medicine-stockouts-eswatin,2026-11-17,,
+ZAF,252,2026-11-17-zaf-presidency-mashatile-africa-tech-festival-opening,2026-11-17,,

@@ -1731,7 +1731,7 @@ GMB,88,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17
 GMB,89,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
 GNB,43,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
 GNQ,45,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
-KEN,212,2026-11-15-xaf-talkafrica-doha-africa-shape-global-digital-governance,2026-11-17,,
+KEN,212,2026-11-15-xaf-talkafrica-doha-africa-shape-global-digital-governance,2026-11-17,capped,2026-11-17
 KEN,213,2026-11-16-xgl-itu-council-rrb-elections-2027-2030,2026-11-17,capped,2026-11-17
 KEN,214,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,capped,2026-11-17
 KEN,215,2019-05-01-ken-digital-economy-blueprint,2026-11-17,instrument,2026-11-17
@@ -1769,7 +1769,7 @@ NAM,95,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,ins
 NAM,96,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
 NER,50,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 NER,51,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
-NGA,232,2026-11-14-nga-ndpc-holds-roundtable-for-dpos,2026-11-17,,
+NGA,232,2026-11-14-nga-ndpc-holds-roundtable-for-dpos,2026-11-17,capped,2026-11-17
 NGA,233,2026-11-16-xgl-itu-council-rrb-elections-2027-2030,2026-11-17,capped,2026-11-17
 NGA,234,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,capped,2026-11-17
 NGA,235,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -1819,9 +1819,9 @@ UGA,127,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,202
 UGA,128,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 UGA,129,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
 UGA,130,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
-ZAF,203,2026-11-16-tra-itu-resolution-206-ott-network-funding,2026-11-17,,
-ZAF,204,2026-11-16-xgl-itu-council-rrb-elections-2027-2030,2026-11-17,,
-ZAF,205,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,,
+ZAF,203,2026-11-16-tra-itu-resolution-206-ott-network-funding,2026-11-17,capped,2026-11-17
+ZAF,204,2026-11-16-xgl-itu-council-rrb-elections-2027-2030,2026-11-17,capped,2026-11-17
+ZAF,205,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,capped,2026-11-17
 ZAF,206,2026-11-14-xaf-who-controls-the-compute-nvidia-crisis-africa-ai-infrastructure,2026-11-17,instrument,2026-11-17
 ZAF,207,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 ZAF,208,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
@@ -1834,3 +1834,11 @@ ZWE,70,2026-11-15-xaf-talkafrica-doha-africa-shape-global-digital-governance,202
 ZWE,71,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 ZWE,72,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
 ZWE,73,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
+BEN,76,2026-11-16-ben-cyber-africa-forum-2026-digital-trust-sovereignty,2026-11-17,,
+BEN,77,2026-11-17-nga-fg-seeks-regional-agreement-protect-submarine-cables,2026-11-17,,
+BFA,55,2026-11-17-nga-fg-seeks-regional-agreement-protect-submarine-cables,2026-11-17,,
+DJI,128,2026-11-17-dji-ecofin-qatar-data-centres-partnership,2026-11-17,,
+NGA,239,2026-11-17-nga-fg-seeks-regional-agreement-protect-submarine-cables,2026-11-17,capped,2026-11-17
+SEN,125,2026-11-16-where-is-senegals-data-stored,2026-11-17,instrument,2026-11-17
+SLE,75,2026-09-28-sle-world-bank-ai-readiness-diagnostic,2026-11-17,instrument,2026-11-17
+TGO,83,2026-11-17-nga-fg-seeks-regional-agreement-protect-submarine-cables,2026-11-17,,

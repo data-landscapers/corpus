@@ -960,7 +960,7 @@ ETH,47,2024-06-01-cigi-digital-sovereignty-africa-beyond-local-data-ownership,20
 GHA,80,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 GHA,81,2024-06-01-cigi-digital-sovereignty-africa-beyond-local-data-ownership,2026-11-17,instrument,2026-11-17
 GMB,45,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
-KEN,98,2026-11-15-xaf-talkafrica-doha-africa-shape-global-digital-governance,2026-11-17,,
+KEN,98,2026-11-15-xaf-talkafrica-doha-africa-shape-global-digital-governance,2026-11-17,capped,2026-11-17
 KEN,99,2019-05-01-ken-digital-economy-blueprint,2026-11-17,instrument,2026-11-17
 KEN,100,2026-11-14-xaf-who-controls-the-compute-nvidia-crisis-africa-ai-infrastructure,2026-11-17,instrument,2026-11-17
 KEN,101,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -1000,7 +1000,7 @@ TZA,63,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17
 UGA,85,2026-11-15-uga-pulse-ucc-4500-wifi-operators-licensing-extension,2026-11-17,,
 UGA,86,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 ZAF,72,2026-11-16-zaf-itweb-teraco-ai-innovation-lab,2026-11-17,,
-ZAF,73,2026-11-16-tra-itu-resolution-206-ott-network-funding,2026-11-17,,
+ZAF,73,2026-11-16-tra-itu-resolution-206-ott-network-funding,2026-11-17,capped,2026-11-17
 ZAF,74,2026-11-14-xaf-who-controls-the-compute-nvidia-crisis-africa-ai-infrastructure,2026-11-17,instrument,2026-11-17
 ZAF,75,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 ZAF,76,2024-06-01-cigi-digital-sovereignty-africa-beyond-local-data-ownership,2026-11-17,instrument,2026-11-17
@@ -1008,3 +1008,6 @@ ZMB,34,2026-11-14-xaf-who-controls-the-compute-nvidia-crisis-africa-ai-infrastru
 ZMB,35,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 ZWE,25,2026-11-15-xaf-talkafrica-doha-africa-shape-global-digital-governance,2026-11-17,,
 ZWE,26,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
+DJI,32,2026-11-17-dji-ecofin-qatar-data-centres-partnership,2026-11-17,,
+SEN,61,2026-11-16-where-is-senegals-data-stored,2026-11-17,instrument,2026-11-17
+SLE,45,2026-09-28-sle-world-bank-ai-readiness-diagnostic,2026-11-17,instrument,2026-11-17

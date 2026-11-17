@@ -1327,7 +1327,7 @@ NER,43,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,ins
 NER,44,2020-03-03-privacy-international-2020-crucial-year-data-protection-africa,2026-11-17,instrument,2026-11-17
 NGA,149,2026-11-16-nga-experts-accuse-inec-failing-data-transparency-test,2026-11-17,capped,2026-11-17
 NGA,150,2026-06-26-nga-ndpc-guidance-notice-cpd-dpos,2026-11-17,,
-NGA,151,2026-11-14-nga-ndpc-holds-roundtable-for-dpos,2026-11-17,,
+NGA,151,2026-11-14-nga-ndpc-holds-roundtable-for-dpos,2026-11-17,capped,2026-11-17
 NGA,152,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,capped,2026-11-17
 NGA,153,2026-10-01-nga-ai-and-the-digitisation-of-healthcare-services-in-nigeria,2026-11-17,instrument,2026-11-17
 NGA,154,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -1490,3 +1490,6 @@ ZWE,94,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument
 ZWE,95,2023-05-22-ecdpm-global-approaches-digital-sovereignty,2026-11-17,instrument,2026-11-17
 ZWE,96,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
 ZWE,97,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
+NGA,169,2026-11-13-nga-nigeria-national-edtech-strategy-2026-2030-fme-final-print,2026-11-17,instrument,2026-11-17
+SEN,71,2026-11-16-where-is-senegals-data-stored,2026-11-17,instrument,2026-11-17
+SLE,41,2026-09-28-sle-world-bank-ai-readiness-diagnostic,2026-11-17,instrument,2026-11-17
