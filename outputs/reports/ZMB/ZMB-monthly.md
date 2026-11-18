@@ -3,9 +3,9 @@ title: Zambia — News, Oct – Nov 2026
 compiled: 2026-11-18
 period: 2026-10-01 to 2026-11-18
 place: ZMB
-ledger_rows: 32
+ledger_rows: 34
 not_held: 32
-record: dc39744a7569
+record: 2f7348647399
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: dc39744a7569
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -310,6 +312,20 @@ The Smart Zambia Institute opened talks with MTN MoMo on adding mobile money to 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Money Buy Shares</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Zambia Launches Mobile Service for Buying Lusaka Securities Exchange Shares](https://techafricanews.com/2026/11/18/airtel-zambia-launches-mobile-service-for-buying-lusaka-securities-exchange-shares/)** — Tech Africa News, 18 November 2026
+
+Airtel Zambia launched Airtel Money Buy Shares, letting customers buy Lusaka Securities Exchange shares with Airtel Money on the MyAirtel App. The heads of the Securities and Exchange Commission and LuSE attended the launch.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -511,6 +527,28 @@ Zambia's technology ministry is piloting Njila.ai, an artificial-intelligence ca
 **[Lusaka's water is about to get smarter](https://www.undp.org/zambia/news/lusakas-water-about-get-smarter)** — United Nations Development Programme (Zambia), 14 October 2026
 
 UNDP Zambia and the Lusaka Water Supply and Sanitation Company launched a pilot that will use AI on the utility's production, metering, billing and network data to find where water is lost. The work will run on the timbuktoo EDGE sovereign compute node at the University of Zambia AI UniPod; the partnership MOU has not yet been signed and no amount is stated.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">University facilities and qualification recognition</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Confucius Institute: A New Chapter in Chinese Language and Digital-Intelligence Education in Zambia](https://zm.china-embassy.gov.cn/eng/dshdyjh/202611/t20261116_12060498.htm)** — Embassy of the People’s Republic of China in Zambia, 16 November 2026
+
+Ambassador Han Jing on Africa's first AI Confucius Institute launch; WAICO founding member July 2026; TAZARA belt.
 
 </div>
 
