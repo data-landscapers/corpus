@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
-record: 3cc17019f2dc
+record: 6d2c7a9839a0
 ---
 
 # News, Oct – Nov 2026
@@ -1038,6 +1038,35 @@ Morocco's Bulletin officiel of 5 October 2026 carries interministerial arrêté 
 **[غياب البريد الإلكتروني يعرقل مساطر تحصيل الديون أمام المحاكم التجارية](https://www.hespress.com/%d8%ba%d9%8a%d8%a7%d8%a8-%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%8a%d8%b9%d8%b1%d9%82%d9%84-%d9%85%d8%b3%d8%a7%d8%b7%d8%b1-%d8%aa%d8%ad-1820848.html)** — Hespress, 13 October 2026
 
 Casablanca's commercial court of first instance rejected a payment-order application for MAD 376,552 because it omitted the debtor company's email address, applying Article 234 of Morocco's Civil Procedure Code, which requires an email for any legal-person party, Hespress reported on 13 October 2026. Creditors without debtors' email addresses face similar refusals. The order's date is not given.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Law 05-20 on cybersecurity</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité au Maroc : 15 centres de surveillance en préparation, la loi en cours de révision](https://lematin.ma/nation/cybersecurite-15-centres-de-surveillance-prevus-la-loi-en-revision/376014)** — Le Matin, 16 November 2026
+
+Morocco's national information-security directorate, the DGSSI, is preparing 15 security operations centres, funded from the defence administration budget. Minister Abdeltif Loudyi told the House of Representatives that the cybersecurity law is under revision. Of 72 public web applications assessed in 2026, 31 had critical vulnerabilities.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital health bill 52.26</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Santé numérique : une même donnée, deux usages](https://telquel.ma/2026/11/17/sante-numerique-une-meme-donnee-deux-usages_2018589)** — TelQuel, 17 November 2026
+
+Morocco's government council adopted draft law 52-26 on the integrated national health information system on 22 July 2026. It is before the House of Representatives' social sectors committee. The text would create a shared medical record, a health identifier and interoperability between systems. A dedicated agency would lead. TelQuel notes that one clinical act serves both patient care and insurance reimbursement. A commentator asks that the two purposes be kept distinct.
 
 </div>
 

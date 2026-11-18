@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 564b318935fd
+record: 79606e39d14a
 ---
 
 # News, Oct – Nov 2026
@@ -1028,6 +1028,20 @@ PAPSS deputy chief executive John Sebabi said on 12 November 2026 that transacti
 **[Nigeria expects six-country African digital trade accord this month, minister says](https://www.cnbcafrica.com/2026/nigeria-expects-six-country-african-digital-trade-accord-this-month-minister-says)** — CNBC Africa (Reuters), 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
 Nigeria's trade minister, Jumoke Oduwole, told Reuters on 16 November 2026 that Nigeria expects to sign a digital-services accord this month. The other parties are Ghana, Rwanda, Kenya, South Africa and Egypt. It would ease expansion by digital-service firms across those markets. She gave no terms.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">West African subsea cable resilience protocol</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG pushes regional deal to prevent internet disruptions](https://punchng.com/fg-pushes-regional-deal-to-prevent-internet-disruptions/)** — The PUNCH, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Nigeria's communications ministry proposed a shared West African protocol to protect submarine cables, reroute traffic and coordinate repairs, in a statement of 16 November 2026. It advanced the proposal at the ITU Plenipotentiary Conference in Doha. Nigeria was also re-elected to the ITU Council for 2027 to 2030.
 
 </div>
 

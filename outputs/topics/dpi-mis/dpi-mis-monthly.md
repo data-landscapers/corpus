@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f8076b4e546a
+places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: a149c0dea1ed
 ---
 
 # News, Oct – Nov 2026
@@ -35,6 +35,8 @@ record: f8076b4e546a
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#equatorial-guinea">Equatorial Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eritrea">Eritrea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -486,6 +488,22 @@ Assabah reported on 6 November 2026 that Egypt's national social registry holds 
 **[From Digital Records to Home-Grown Medical AI: Cairo ICT Panel Maps the Future of Egyptian Healthcare](https://cairoict.com/news/from-digital-records-to-home-grown-medical-ai)** — Cairo ICT 2026 (Tradefairs International), 10 November 2026
 
 A Cairo ICT 2026 panel on 9 November 2026 discussed medical AI in Egypt. Health Care Authority chairman Ahmed El Sobky cited about 6.2 million electronic health files. Hospital automation in the authority exceeds 85%, the chairman said. Noha Adly of the Applied Innovation Center called for sensitive health data to stay in Egypt.
+
+</div>
+
+</div>
+
+## Equatorial Guinea
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National health information system on DHIS2</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[El Ministerio de Sanidad e Infraestructuras Sanitarias refuerza su gestión digital con las plataformas TRANSDOC y DHIS2](https://www.undp.org/es/equatorial-guinea/noticias/el-ministerio-de-sanidad-e-infraestructuras-sanitarias-refuerza-su-gestion-digital-con-las-plataformas-transdoc-y-dhis2)** — UNDP Equatorial Guinea, 16 November 2026
+
+Equatorial Guinea's Ministry of Health and UNDP launched the TRANSDOC document-management system on 16 November 2026. They also handed over a DHIS2 health information platform covering 18 health districts. UNDP asked the government to budget for the platforms' internet costs from 1 January 2027, when the joint health-system programme ends.
 
 </div>
 

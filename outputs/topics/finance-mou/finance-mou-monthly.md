@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: finance.mou
 places: BWA; BDI; CIV; COD; EGY; ETH; MOZ; NGA; SEN; SDN; TZA; UGA
-record: dff495be68cb
+record: 7f5e549bfa56
 ---
 
 # News, Oct – Nov 2026
@@ -206,6 +206,20 @@ The Arab Monetary Fund agreed to include Sudan in its technical assistance on di
 **[Tanzania expresses interest in using Angola’s ANGOSAT-2 satellite services](https://techreviewafrica.com/news/8072/tanzania-expresses-interest-in-using-angolas-angosat-2-satellite-services)** — Tech Review Africa, 31 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a>
 
 Angola and Tanzania signed a memorandum of understanding on telecommunications and ICT in Dar es Salaam during Angolan President João Lourenço's state visit (reported October 2026). Tanzania seeks access to ANGOSAT-2 satellite services and to Angolan Earth-observation and geospatial applications for mining, agriculture and logistics. No value was published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-services cooperation with Estonia</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania na Estonia kuimarisha ushirikiano katika teknolojia za kidijitali](https://www.mawasiliano.go.tz/news/tanzania-na-estonia-kuimarisha-ushirikiano-katika-teknolojia-za-kidijitali)** — Ministry of Communication and Information Technology, Tanzania, 17 November 2026
+
+Tanzania and Estonia agreed on 17 November 2026 to deepen cooperation on e-services and digital systems. Estonia accepted Tanzania's proposal for a specific joint project. Ministers Kairuki and Pakosta held the talks on the sidelines of the ITU Plenipotentiary Conference in Doha.
 
 </div>
 

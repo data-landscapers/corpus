@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: dpi.exchange
 places: DZA; AGO; BEN; BFA; BDI; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MRT; MOZ; NAM; NGA; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7a0a9688bfd9
+record: 49e853d34712
 ---
 
 # News, Oct – Nov 2026
@@ -666,6 +666,20 @@ Officials met in Lomé on 5 and 6 November 2026 to validate the tools of the e-V
 **[B3 : le ministère de l’Intérieur dévoile sa nouvelle stratégie](https://www.tuniscope.com/article/441753/actualites/societe/b3-le-ministere-de-l-interieur-devoile-sa-nouvelle-strategie-242211)** — Tuniscope, 6 October 2026
 
 Tunisia's interior ministry, answering a deputy's written question, said its plan for the criminal-record extract rests on digitising the record through interconnection with the justice ministry, to update judgments, and the finance ministry, to enter fines automatically. The aim is faster issue of the extract.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National electronic single window for foreign trade</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Foreign Trade: Ministry Simplifies Procedures Via Electronic Single Window - Tunisia Online News](https://www.tunisiaonlinenews.com/foreign-trade-ministry-simplifies-procedures-via-electronic-single-window/)** — Tunisia Online News, 17 November 2026
+
+Tunisia's trade ministry named a national electronic single window for import, export and transit as a priority under the WTO Trade Facilitation Agreement. It said this at the third meeting of the national monitoring commission, on about 16 November 2026. The ministry called for funding requests to international partners to finance the system.
 
 </div>
 

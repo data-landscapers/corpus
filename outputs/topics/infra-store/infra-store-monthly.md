@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: infra.store
-places: DZA; BWA; BFA; CMR; EGY; SWZ; ETH; GMB; GHA; KEN; LBY; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: ab8dc43d2493
+places: DZA; BWA; BFA; CMR; EGY; SWZ; ETH; GMB; GHA; KEN; LBY; MUS; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
+record: 85841fdbdcef
 ---
 
 # News, Oct – Nov 2026
@@ -31,6 +31,8 @@ record: ab8dc43d2493
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -160,6 +162,20 @@ Uptime Institute's register for Cameroon lists two Tier III design certification
 **[MISSOLE | : LES ÉTATS UNIS S’ENGAGENT AUX CÔTÉS DU PORT AUTONOME DE DOUALA POUR BÂTIR UN DATA CENTER DE DERNIÈRE GÉNÉRATION](https://lavoixdelacite.com/2026/11/07/missole-les-etats-unis-sengagent-aux-cotes-du-port-autonome-de-douala-pour-batir-un-data-center-de-derniere-generation/)** — La Voix de la Cité, 7 November 2026
 
 The Port Autonome de Douala plans a two-hectare modular data centre, built for AI and with its own power plant, at its Dibamba industrial-port zone. It was shown to US chargé d'affaires John G. Robinson on a visit reported on 7 November 2026. The port says the site would keep hosted data under Cameroonian sovereignty. It names no builder, financier or timeline.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Tax directorate primary and backup data-centre equipment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ausrüstung für Rechenzentren | Ausschreibungsmeldung | Kamerun | IKT](https://www.gtai.de/de/trade/kamerun/ausschreibungen-projekte/ausruestung-fuer-rechenzentren-1951646)** — Germany Trade & Invest (GTAI), 17 November 2026
+
+Germany Trade & Invest posted on 17 November 2026 that a KfW-financed tender for data-centre equipment for Cameroon's tax directorate was cancelled. The scope included network and security equipment, servers, storage and backup infrastructure. No bid met the minimum requirements. It belongs to the same programme as the cancelled network and backup-link tender.
 
 </div>
 
@@ -401,6 +417,22 @@ Libya's O3 Group, a private telecoms company founded in 2024 and based in Bengha
 
 </div>
 
+## Mauritius
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mauritius Telecom AI compute (NVIDIA H200 and B300)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Veemal Gungadin, CEO de Mauritius Telecom : « L’IA, nouveau moteur de croissance pour MT »](https://www.lemauricien.com/le-mauricien/veemal-gungadin-ceo-de-mauritius-telecom-lia-nouveau-moteur-de-croissance-pour-mt/723262/)** — Le Mauricien, 15 November 2026
+
+Mauritius Telecom's chief executive Veemal Gungadin said the operator is committing over Rs 1 billion to AI computing. This includes NVIDIA H200 and B300 platforms. The My.TLearn AI tutor is planned for a first large rollout in 2027, from Grade 9. 5G covers about 93% of the population.
+
+</div>
+
+</div>
+
 ## Morocco
 
 <div class="monthly-story" markdown="1">
@@ -554,6 +586,20 @@ Senegal's digital and health ministries said on 4 November 2026 that they are jo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Diamniadio national data centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Where is Senegal’s data stored? A state data centre at 31% capacity, everyday apps hosted abroad and a 2008 privacy law](https://novotech.blog/en/article/where-is-senegal-s-data-stored-a-state-data-centre-at-31-capacity-everyday-apps)** — NovoTech, 16 November 2026
+
+A NovoTech analysis reports that Senegal's state data centre at Diamniadio is 31% used. SENUM SA gives 81% and 93% for the state's two older sites. Wave and Orange Money do not disclose where customer data is stored. The 2008 personal data law has not been reformed. Decrees for the 2026 law on local storage of public data have not been published.
+
+</div>
+
+</div>
+
 ## Seychelles
 
 <div class="monthly-story" markdown="1">
@@ -638,6 +684,20 @@ Continent 8 Technologies, which hosts online gaming and betting operators, annou
 **[SMZ yatenga Sh53 bilioni kuendesha miradi ya Tehama](https://www.mwananchi.co.tz/mw/zanzibar/habari/smz-yatenga-sh53-bilioni-kuendesha-miradi-ya-tehama-5618282)** — Mwananchi, 3 October 2026
 
 Zanzibar's government has set aside more than TZS 53 billion for three ICT infrastructure projects, chiefly a data centre and public internet, communication minister Mudrik Ramadhan Soraga said on 2 October 2026. He said a draft startups bill creating a fund of grants and low-cost loans is due for first reading in November or December 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government data centre at Kijitonyama, run by TTCL</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Serikali yaimarisha uwezo wa Kituo cha Taifa cha Kuhifadhi Data](https://www.mawasiliano.go.tz/news/serikali-yaimarisha-uwezo-wa-kituo-cha-taifa-cha-kuhifadhi-data)** — Ministry of Communication and Information Technology, Tanzania, 17 November 2026
+
+Tanzania's ICT minister told a parliamentary committee on 17 November 2026 about funding for the National Internet Data Centre. The government has allocated TSh 39 billion in 2026/27 to equip and expand it. TSh 10 billion is for a first phase. That phase adds 42 equipment racks and replaces equipment at the end of its life.
 
 </div>
 

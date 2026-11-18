@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: dpi.registry
-places: DZA; AGO; BEN; BFA; CMR; CPV; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6a0dcceb7fed
+places: DZA; AGO; BEN; BFA; CMR; CPV; COM; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: e5c886669b9a
 ---
 
 # News, Oct – Nov 2026
@@ -28,6 +28,8 @@ record: 6a0dcceb7fed
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#eswatini">Eswatini</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
@@ -47,6 +49,8 @@ record: 6a0dcceb7fed
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#malawi">Malawi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mali">Mali</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -391,6 +395,22 @@ The DR Congo's tax directorate told foreign digital service providers on 5 Novem
 
 </div>
 
+## Eswatini
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Social Registry (Imbeleko)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EYEOP Turns to Social Registry to Improve Targeting of 30,000 Youth Beneficiaries - FinGuard Magazine](https://www.finguardmagazine.com/business/eyeop-turns-to-social-registry-to-improve-targeting-of-30000-youth-beneficiaries/)** — FinGuard Magazine, 16 November 2026
+
+Eswatini's World Bank-financed youth project EYEOP has begun field data collection for the National Dynamic Social Registry, which will select its 30,000 beneficiaries. USD 2.5 million of the USD 27 million IDA credit is set aside for social protection systems. USD 3.15 million, or 11.67%, has been disbursed.
+
+</div>
+
+</div>
+
 ## Ethiopia
 
 <div class="monthly-story" markdown="1">
@@ -615,6 +635,20 @@ Immigration PS Belio Kipsang told Kenyan MPs that birth and death certificate fe
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Marriage, divorce and adoption registration system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya moves to digitize marriage, divorce and adoption services](https://www.pulse.co.ke/story/kenya-moves-to-digitize-marriage-divorce-and-adoption-services-2026111718492406540)** — Pulse Kenya, 17 November 2026
+
+Kenya's ICT Authority issued an international tender on 17 November 2026. The system would cover marriage registration, divorce case records, licensing of ministers of faith and adoption services. It is to exchange data with eCitizen, IPRS, the Judiciary and the Registrar of Societies. The World Bank's KDEAP funds it. Bids close on 14 January 2027.
+
+</div>
+
+</div>
+
 ## Lesotho
 
 <div class="monthly-story" markdown="1">
@@ -752,6 +786,22 @@ Madagascar's tax directorate lets taxpayers apply for a tax identification numbe
 **[Liste électorale biométrique: la Ceni et ses partenaires préparent le terrain](https://newsmada.com/2026/10/24/liste-electorale-biometrique-la-ceni-et-ses-partenaires-preparent-le-terrain/)** — Newsmada, 24 October 2026
 
 Madagascar's electoral commission (CENI) received IT equipment worth US$750,000 from Japan and UNDP on 23 October 2026. The kit is for processing and securing voter data ahead of a biometric roll. The roll now being rebuilt is still alphanumeric; over 7.16 million citizens had registered against a target of 14 million. Five local radio stations also received equipment for civic education.
+
+</div>
+
+</div>
+
+## Malawi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Business and company registration system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Businesses face December 31 deadline - Malawi24](https://malawi24.com/2026/11/16/businesses-face-december-31-deadline/)** — Malawi24, 16 November 2026
+
+Malawi's business registry CRIPC set a deadline of 31 December 2026 for every company, business name and incorporated trustee registered before its online portal to re-register on it. Older certificates without a QR code will stop being recognised by banks and regulators. Businesses that do not re-register face removal from the register.
 
 </div>
 
@@ -994,6 +1044,14 @@ An analysis of Nigeria's preliminary voter register, which lists more than 103 m
 **[Suspected AI-generated photos, duplicates trigger Nigeria biometric election cleanup](https://www.biometricupdate.com/202611/suspected-ai-generated-photos-duplicate-records-trigger-nigeria-biometric-election-cleanup)** — Biometric Update, 10 November 2026
 
 Nigeria's electoral commission, INEC, said it had removed more than 1.6 million invalid voter records after screening with its automated biometric identification system. Biometric Update reported this on 10 November 2026. Of 268,000 records adjudicated, 217,722 were confirmed invalid. INEC also identified 54 staff in 10 states implicated in registration irregularities, including AI-generated photographs, ahead of certifying the final register on 15 December 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[INEC’s voter register cleanup raises questions about staff oversight](https://techcabal.com/2026/11/17/inec-cut-fake-photos-but-not-the-problem/)** — TechCabal, 17 November 2026
+
+INEC said on 11 November 2026 that it had flagged 54 registration personnel in 10 states for possible disciplinary action over voter-register irregularities, including AI-generated photographs. It is replacing external webcam uploads with in-app photo capture. Its chairman put invalid registrations removed at 1,608,660. TechCabal reports that INEC's AI policy remained unpublished.
 
 </div>
 

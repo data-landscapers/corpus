@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: infra.connect
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: da6e52a74e97
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
+record: 4f66755ec970
 ---
 
 # News, Oct – Nov 2026
@@ -67,6 +67,8 @@ record: da6e52a74e97
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -370,6 +372,42 @@ Cameroon's Camtel and electricity utility Socadel signed a memorandum of underst
 **[Accès aux services numériques: Au tour de Campo Beach](https://www.cameroon-tribune.cm/articles/12210/fr/acces-aux-services-numeriques-au-tour-de-campo-beach)** — Cameroon Tribune, 16 November 2026
 
 The posts and telecoms minister inspected a PATNUC connectivity site at Campo Beach, in the South region, on 13 November 2026. It is one of nine in the Océan department. The rural connectivity programme plans sites in 362 under-served localities.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Orange Cameroon commissions rural connectivity sites in Campo-Beach under PATNUC project](https://techreviewafrica.com/news/8365/orange-cameroon-commissions-rural-connectivity-sites-in-campo-beach-under-patnuc-project)** — Tech Review Africa, 17 November 2026
+
+Orange Cameroon commissioned rural connectivity sites in Campo-Beach on 13 November 2026. They belong to a programme to cover 120 underserved areas with 2G, 3G and 4G, under the World Bank-supported PATNUC project. Forty sites have been commissioned so far, and all 120 are due to operate by March 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fibre backbone Phase IV</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Camtel Unveils CFA148 Billion Fiber Network Project, With Funding Details Still Unclear](https://www.businessincameroon.com/telecom/1711-17202-camtel-unveils-cfa148-billion-fiber-network-project-with-funding-details-still-unclear)** — Business in Cameroon, 17 November 2026
+
+Camtel announced on 16 November 2026 the launch of BB4, the three-year fourth phase of Cameroon's national fibre backbone, costed at CFA148bn including taxes. It said financing is available but did not say how. A March 2026 decree authorised a China Eximbank loan of about CFA108.4bn, which leaves about CFA39.6bn unexplained. Camtel's dispute with the regulator is covered in the network quality entry.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Tax directorate network and satellite backup links (PMSI-DGI)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Netzwerkinfrastruktur und Backupverbindung | Ausschreibungsmeldung | Kamerun | Telekommunikations-, Navigationstechnik](https://www.gtai.de/de/trade/kamerun/ausschreibungen-projekte/netzwerkinfrastruktur-und-backupverbindung-1951644)** — Germany Trade & Invest (GTAI), 17 November 2026
+
+Germany Trade & Invest posted on 17 November 2026 that a KfW-financed tender under Cameroon's tax-administration information-system programme was cancelled. The tender covered LAN and SD-WAN equipment and satellite links for the tax directorate's data centres and branches. No bid met the minimum requirements for either lot.
 
 </div>
 
@@ -687,6 +725,20 @@ Congo Telecom said a repair vessel was due on 11 November 2026 at the WACS fault
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National public content-delivery network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Center national, CDN et .cd : S.E Augustin Kibassa Maliba mobilise des investisseurs pour financer trois projets numériques stratégiques](https://augustinkibassa.cd/2026/11/17/data-center-national-cdn-et-cd-s-e-augustin-kibassa-maliba-mobilise-des-investisseurs-pour-financer-trois-projets-numeriques-strategiques/)** — Cabinet du ministre de l'Économie numérique (RDC), 17 November 2026
+
+The Democratic Republic of the Congo's digital economy minister sought financing in South Africa on 17 November 2026 from the Development Bank of Southern Africa, Ghana International Bank and D'Arrigo International. The three projects are a national data centre, a national content-delivery network and reformed management of the .cd domain. No sum or agreement was stated.
+
+</div>
+
+</div>
+
 ## Egypt
 
 <div class="monthly-story" markdown="1">
@@ -862,6 +914,14 @@ Gabon's digital infrastructure holding SPIN and Cameroon's operator CAMTEL have 
 **[Télécommunications : MAGT et l'État signent une convention stratégique](https://union.sonapresse.com/fr/telecommunications-magt-et-letat-signent-une-convention-strategique)** — L'Union - Sonapresse, 7 October 2026
 
 Gabon's incumbent operator and the digital-economy ministry signed a convention at Mouila on 6 October ceding to the State the 196 km Fougamou-Mouila fibre section the operator pre-financed and built, with two technical centres. It is the first segment of the first phase of the national backbone extension.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fibre optique : le Gabon confie l’exploitation du réseau Lambaréné–Mouila à Gabon Fiber](https://techies.ga/article/fibre-optique-le-gabon-confie-lexploitation-du-reseau-lambarenemouila-a-gabon-fiber)** — Techies, 16 November 2026
+
+Gabon Fiber took over operation, maintenance and sales of the Lambaréné–Fougamou–Mouila fibre section on 16 November 2026, under a partnership concluded on 14 September 2026. Digital-economy minister Mark-Alexandre Doumba said the Moov Africa Gabon Telecom partnership raised FCFA 3 billion without state budget funds. It is meant to extend the national backbone from 1,782 to 3,433 km.
 
 </div>
 
@@ -1189,6 +1249,20 @@ The Star reported on 6 November 2026 that Seacom's chief technology officer, Pre
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Savanna fibre-to-the-home network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Savanna Targets One Million New Fibre Connections in East Africa](https://nilepost.co.ug/businesses/388110/savanna-targets-one-million-new-fibre-connections-in-east-africa)** — Nile Post, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
+
+Savanna Telecom announced plans on 17 November 2026 for one million more fibre home passes across Uganda, Tanzania and Kenya in 2027. This would double its coverage to over two million homes. It reports over 250,000 active fibre-to-the-home subscribers, 16,000km of fibre built and 8,000km under construction. FiberHome is its equipment partner.
+
+</div>
+
+</div>
+
 ## Lesotho
 
 <div class="monthly-story" markdown="1">
@@ -1447,6 +1521,20 @@ Paratus Group has launched in Malawi, its 16th market in sub-Saharan Africa, Tec
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SES and ITU Partner2Connect satellite school connectivity</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SES expands rural school connectivity](https://itweb.africa/article/ses-expands-rural-school-connectivity/WnpNgq21E5EMVrGd)** — ITWeb Africa, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+
+SES and the ITU's Partner2Connect coalition plan to connect 30 rural schools in Malawi, Burundi, Zambia and Zimbabwe by satellite by the end of 2026. The schools have an estimated 20,000 to 30,000 students and teachers. The schools form part of SES's pledge to connect 100 schools worldwide.
+
+</div>
+
+</div>
+
 ## Mali
 
 <div class="monthly-story" markdown="1">
@@ -1539,6 +1627,22 @@ Mauritius' ICT Authority opened a call for applications for a new mobile number 
 
 </div>
 
+## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National roaming service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lors de la séance des questions orales tenue à la Chambre des représentants, M. Ahmed Rahhou a présenté les principales actions engagées par son département en matière de développement de l’intelligence artificielle ...](https://www.mmsp.gov.ma/fr/actualites/lors-de-la-s%C3%A9ance-des-questions-orales-tenue-%C3%A0-la-chambre-des-repr%C3%A9sentants-m-ahmed-rahhou-pr%C3%A9sent%C3%A9-les-principales-actions-engag%C3%A9es-par-son-d%C3%A9partement-en-mati%C3%A8re-de-d%C3%A9veloppement-de-l%E2%80%99intelligence-artificielle)** — Ministry of Artificial Intelligence, Digital Transformation and Administrative Reform, 16 November 2026
+
+Morocco's digital transition minister Ahmed Rahhou spoke to the House of Representatives on 16 November 2026. Phase two of the national broadband plan will cover 2,000 under-served rural zones. He cited a MAD 2.5 billion start-up financing target under the AI Made in Morocco roadmap. He also named national roaming across 7,000 zones and faster data exchange between administrations.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -1602,6 +1706,20 @@ DataReportal published its Digital 2027 report for Mozambique on 5 November 2026
 **[Paratus Namibia launches Eutelsat’s OneWeb LEO connectivity](https://www.itweb.africa/article/paratus-namibia-launches-eutelsats-oneweb-leo-connectivity/dgp45qaBnYVvX9l8)** — ITWeb Africa, 7 October 2026
 
 Paratus Namibia launched Eutelsat's OneWeb low-earth-orbit satellite internet service across Namibia on 7 October 2026, with capped and uncapped packages for homes and businesses. It follows a November 2025 agreement between Paratus and Eutelsat covering South Africa, Angola, Namibia, Botswana and Zambia. No prices are given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Karasberg West towers at Noordoewer and Hakkiesdoorn</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibia plans two telecommunications towers in //Kharas region to improve rural connectivity](https://techreviewafrica.com/news/8366/namibia-plans-two-telecommunications-towers-in-kharas-region-to-improve-rural-connectivity)** — Tech Review Africa, 17 November 2026
+
+Namibia's ICT ministry plans two telecommunications towers, at Noordoewer and Hakkiesdoorn, in the 2026/27 financial year. This was announced at a //Kharas stakeholder engagement, reported on 17 November 2026. Participants also called for an assessment of the Rural ICT Centres in Tses and Aroab.
 
 </div>
 
@@ -1957,6 +2075,14 @@ At the opening of Senegal's 2026–2027 parliamentary session on 13 October 2026
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[PASSANT project: dismissals and audit at SENUM SA](https://www.socialnetlink.org/2026/11/16/passant-project-senum-sa-managers-dismissed-fibre/)** — Socialnetlink, 16 November 2026
+
+Senegal's state IT company SENUM SA dismissed three managers over the stalled PASSANT government fibre project. The contract was worth CFA 50,000,838,369 and was awarded to Spain's Liteyca in 2019 by unsolicited bid. SENUM puts the loss at CFA 24 billion, based on a second audit that has not been published. A November 2024 audit by the procurement regulator ARCOP found the execution unsatisfactory, with about CFA 5 billion in penalties unapplied.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -2130,6 +2256,14 @@ ICASA's chairperson said the regulator has developed a draft satellite licensing
 **[Starlink rival maps out SA strategy beyond satellite broadband](https://www.itweb.co.za/article/starlink-rival-maps-out-sa-strategy-beyond-satellite-broadband/rW1xL75nD9bMRk6m)** — ITWeb South Africa, 8 October 2026
 
 Amazon Leo said it has applied for licences to bring a direct-to-device satellite service to South Africa with mobile operators, probably from around 2028. Its fixed satellite broadband is to be distributed by Herotel from 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Telkom signs Amazon Leo satellite distribution deal](https://www.itweb.co.za/article/telkom-signs-amazon-leo-satellite-distribution-deal/JBwErvn3jbl76Db2)** — ITWeb South Africa, 17 November 2026
+
+Telkom, through its Openserve unit, signed an agreement on 17 November 2026 to distribute Amazon Leo low-Earth-orbit satellite broadband in South Africa. Customers will be enterprises, eligible public-sector bodies and small businesses. The service is also intended for cellular-site backhaul.
 
 </div>
 
@@ -2417,6 +2551,20 @@ Tanzania's communications minister, Angellah Kairuki, told the ITU Plenipotentia
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Savanna fibre-to-the-home network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Savanna Targets One Million New Fibre Connections in East Africa](https://nilepost.co.ug/businesses/388110/savanna-targets-one-million-new-fibre-connections-in-east-africa)** — Nile Post, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+
+Savanna Telecom announced plans on 17 November 2026 for one million more fibre home passes across Uganda, Tanzania and Kenya in 2027. This would double its coverage to over two million homes. It reports over 250,000 active fibre-to-the-home subscribers, 16,000km of fibre built and 8,000km under construction. FiberHome is its equipment partner.
+
+</div>
+
+</div>
+
 ## Togo
 
 <div class="monthly-story" markdown="1">
@@ -2486,6 +2634,20 @@ MTN Uganda reports profit after tax of Ush571.2 billion for the nine months to 3
 **[Our network extends into Uganda at Raxio’s Kampala data centre | Workonline](https://www.workonline.africa/2026/workonline-extends-into-uganda/)** — Workonline Communications, 12 November 2026
 
 Workonline Communications opened its first Ugandan point of presence at Raxio's UG1 data centre in Kampala, the company announced on 12 November 2026. Workonline sells 100GE IP transit under a new Ugandan licence, over two separate routes to Nairobi. UG1 hosts 25 carriers and ISPs and the Uganda Internet Exchange Point, where Workonline plans to peer.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Savanna fibre-to-the-home footprint and subscribers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Savanna Targets One Million New Fibre Connections in East Africa](https://nilepost.co.ug/businesses/388110/savanna-targets-one-million-new-fibre-connections-in-east-africa)** — Nile Post, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+
+Savanna Telecom announced plans on 17 November 2026 for one million more fibre home passes across Uganda, Tanzania and Kenya in 2027. This would double its coverage to over two million homes. It reports over 250,000 active fibre-to-the-home subscribers, 16,000km of fibre built and 8,000km under construction. FiberHome is its equipment partner.
 
 </div>
 

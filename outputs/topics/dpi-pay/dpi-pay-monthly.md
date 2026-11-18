@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6e746bef28f7
+record: 8d3cabdedfd4
 ---
 
 # News, Oct – Nov 2026
@@ -485,6 +485,20 @@ The Democratic Republic of the Congo's Ministry of National Economy launched LOB
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Card-and-wallet interoperability service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Visa RDC lance l’option de paiement par téléphone Android](https://www.radiookapi.net/2026/11/17/actualite/societe/visa-rdc-lance-loption-de-paiement-par-telephone-android)** — Radio Okapi, 17 November 2026
+
+Visa launched Tap to Pay on its Visa Pay app in the Democratic Republic of the Congo on 16 November 2026. It lets Android phones pay at card terminals. The Banque centrale du Congo has linked a ban on cash and foreign-currency commercial transactions, due in April 2027, to interoperable digital payments.
+
+</div>
+
+</div>
+
 ## Egypt
 
 <div class="monthly-story" markdown="1">
@@ -510,6 +524,20 @@ The Central Bank of Egypt's governor, Hassan Abdalla, told the Council of Arab C
 **[Orange Egypt Partners With Botim to Enable UAE-to-Egypt Remittances](https://techafricanews.com/2026/10/20/orange-egypt-botim-uae-egypt-remittances/)** — Tech Africa News, 20 October 2026
 
 Orange Egypt and the UAE fintech Botim announced on 20 October 2026 a UAE-to-Egypt remittance route that pays directly into Orange Cash wallets. It is Botim's first partnership with an Egyptian mobile operator. Botim has more than 2 million Egyptian users and Orange Cash about 10 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Plan to expand electronic payment for public services at home and abroad</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[President El-Sisi Meets the Prime Minister and the Minister of Planning and Economic Development](https://www.presidency.eg/en/%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/news15112026/)** — Presidency of the Arab Republic of Egypt, 15 November 2026
+
+Egypt's planning minister Ahmed Rustom presented President El-Sisi with a plan to introduce and expand electronic payment tools for public services, open to citizens at home and abroad. The plan follows the outcomes of Egypt Forum 2026. The president directed an immediate study and development of digital tools to automate citizen services.
 
 </div>
 
@@ -1024,6 +1052,34 @@ Interswitch East Africa has partnered with UBA Kenya, as reported on 16 November
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BitLipa stablecoin settlement network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Stablecoins promised to fix cross-border payments. Fragmentation is getting in the way.](https://techcabal.com/2026/11/17/fragmentation-hurts-stablecoins-africa/)** — TechCabal, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+TechCabal reported on 17 November 2026 that stablecoins can move dollar value across borders in seconds but do not guarantee a local-currency payout. A payment from Kenya to South Africa still needs counterparties willing to supply rand at the destination. Where that local liquidity is missing, the blockchain transfer succeeds and the recipient is not paid.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Payaza payment gateway authorisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Payaza secures digital payment licence from Central Bank of Kenya](https://www.wearetech.africa/fr/fils/breves/breves-simple/payaza-decroche-une-licence-de-paiement-numerique-aupres-de-la-banque-centrale-du-kenya)** — wearetech.africa, 17 November 2026
+
+Payaza, a payment-gateway fintech, obtained Central Bank of Kenya authorisation after nearly four years of applications, reported on 17 November 2026. The company runs cross-border transaction infrastructure linking East, West and Southern Africa.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -1155,6 +1211,20 @@ The bureau of COMESA's central bank governors met in Lilongwe on 11 November 202
 **[Mali : nouvelles règles pour les transferts numériques](https://fr.apanews.net/business/mali-nouvelles-regles-pour-les-transferts-numeriques/)** — APAnews, 2 November 2026
 
 New BCEAO rules on interoperable transfers took effect in Mali on 2 November 2026, APAnews reports. Orange Finances Mobiles Mali raised the balance cap on identified wallets from two to four million CFA francs. Transfers between individuals are free up to 8,000 CFA francs a day, and 14 Malian institutions are authorised on PI-SPI.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">TresorPay</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérique : 545 tablettes remises pour étendre la plateforme de paiement TresorPay](https://malijet.com/actualite_economique_du_mali/312858-numerique-545-tablettes-remises-pour-etendre-la-plateforme.html)** — Malijet, 16 November 2026
+
+Mali's Ministry of Economy and Finance handed over 545 tablets on 16 November 2026 to extend the TresorPay public payment platform. The largest shares went to the security ministry (160), territorial administration (150), higher education (100) and transport (100). The data protection authority APDP received 35.
 
 </div>
 
@@ -1703,6 +1773,14 @@ The National Bank of Rwanda's governor told the IMF-World Bank annual meetings t
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">eKash-Bakong remittance link with Cambodia</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Press Release on the Proof of Concept of Cross-Border Remittance Services between the Kingdom of Cambodia and the Republic of Rwanda](https://www.bnr.rw/documents/Joint_PR_Cross_border_payment_between_Cambodia_and_Rwanda.pdf)** — National Bank of Rwanda and National Bank of Cambodia, 15 November 2026
+
+The National Bank of Rwanda and the National Bank of Cambodia launched a proof-of-concept payment link on 15 November 2026 in Phnom Penh. It connects Cambodia's Bakong system with Rwanda's eKash, operated by R-Switch. Customers in Cambodia can send money to Rwandan bank accounts and wallets through ACLEDA Bank and I&M Bank Rwanda. The release gives no fees, limits, reverse-transfer service or public-access date.
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 
@@ -2272,6 +2350,20 @@ A University of Zambia study, reported on 8 November 2026, examined the electron
 **[Central Bank Governors’ Bureau Strengthen Regional Monetary and Payments Institutions](https://www.comesa.int/central-bank-governors-bureau-strengthen-regional-monetary-and-payments-institutions/)** — Common Market for Eastern and Southern Africa (COMESA), 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The bureau of COMESA's central bank governors met in Lilongwe on 11 November 2026 to review revised charters for the COMESA Clearing House and the COMESA Monetary Institute. COMESA said its Digital Retail Payment Platform, a cross-border retail system in local currencies, was nearing user trials. Live transactions are to be piloted between Malawi and Zambia.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile money in government digital services (MTN MoMo talks)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia Explores MTN MoMo Partnership to Simplify Government Payments](https://www.ecofinagency.com/news-digital/1611-60845-zambia-explores-mtn-momo-partnership-to-simplify-government-payments)** — Ecofin Agency, 16 November 2026
+
+The Smart Zambia Institute opened talks with MTN MoMo on adding mobile money to government digital services for public payments. The talks were announced on 13 November 2026.
 
 </div>
 

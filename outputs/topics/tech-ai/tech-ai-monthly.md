@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2a86f869945c
+record: 9dfdfa0aebf4
 ---
 
 # News, Oct – Nov 2026
@@ -689,6 +689,20 @@ A second account of the Public Prosecution protocol of 14 November 2026, from Or
 **[وزيرة التضامن تشهد افتتاح مركز بيانات النيابة العامة للذكاء الاصطناعي وتوقيع بروتوكول تعاون للتحول نحو العدالة الذكية](https://arqam.news/610073/)** — Arqam News, 14 November 2026
 
 Egypt's Public Prosecution opened an AI data centre at the Prosecutor-General's office on 14 November 2026. It signed a cooperation protocol with the social solidarity and communications ministries, Orange Egypt and e-finance. Guardianship-of-funds services from the family prosecution go online through Orange's app, with free SIM cards for court-appointed guardians and an AI assistant.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e& Business GPU-as-a-Service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICT Minister Witnesses Signing of Tripartite MoU on Collaboration in AI, Cloud Computing](https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/121644)** — Ministry of Communications and Information Technology (Egypt), 16 November 2026
+
+e& Business, M-Empire Angels and Startup Egypt signed a tripartite memorandum of understanding on 16 November 2026. ICT minister Raafat Hendy witnessed it. e& Business is to offer GPU-as-a-Service in Egypt, with pay-per-use GPU computing for companies and startups training AI models. The ministry presents it as part of the second National AI Strategy. No sum was stated.
 
 </div>
 
@@ -1380,6 +1394,21 @@ A Nigerian opposition movement called on the electoral commission to abandon its
 **[Google Opens New Opportunity for Nigerians to Teach AI Yoruba, Igbo, Hausa and Pidgin](https://www.nigeriastartupact.ng/google-opens-new-opportunity-for-nigerians-to-teach-ai-yoruba-igbo-hausa-and-pidgin/)** — Nigeria Startup Act, 10 November 2026
 
 Data Science Nigeria, with Google support, opened registration for contributors to a National AI Glossary Project, reported on 10 November 2026. The project builds AI language resources in Yoruba, Igbo, Hausa and Nigerian Pidgin. The call states no payment or grant.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ubini Edo-language corpus</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[From tonal markings to XML files: How Ubini is teaching machines to speak Edo language](https://techcabal.com/2026/11/17/ubini-teaching-machines-to-understand-edo/)** — TechCabal, 17 November 2026
+
+Ubini, a bootstrapped Nigerian company founded in 2024, is building a digital corpus of Edo oral histories, recipes and cultural heritage. It has interviewed about 20 people and transcribed more than 20 hours of recordings. The aim is machine-readable data for language technology. TechCabal notes that few of Africa's more than 2,000 languages have the digital resources needed for AI.
 
 </div>
 

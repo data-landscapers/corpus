@@ -1,10 +1,10 @@
 ---
 title: Literacy — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: capacity.literacy
-places: AGO; CPV; CIV; COD; EGY; GHA; GIN; MLI; MAR; NAM; NGA; RWA; SYC; SSD; SDN; TUN; UGA
-record: b7c869a2c284
+places: AGO; CPV; CIV; COD; EGY; GMB; GHA; GIN; MLI; MAR; NAM; NGA; RWA; SYC; SSD; SDN; TUN; UGA
+record: 4275cac8a8b7
 ---
 
 # News, Oct – Nov 2026
@@ -19,6 +19,8 @@ record: b7c869a2c284
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gambia">Gambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -120,6 +122,22 @@ Enabel, GIZ and the Centre de Ressources du Haut-Katanga presented a mobile digi
 **[Helping young minds across MENA to explore the online world safely](https://blog.google/intl/en-mena/company-news/outreach-initiatives/helping-young-minds-across-mena-to-explore-the-online-world-safely/)** — Google (The Keyword, MENA), 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
 
 Google announced a US$2.4 million Google.org grant to INJAZ Al-Arab to take its Arabic online-safety curriculum, Abtal Al Internet (Be Internet Awesome), into classrooms in nine Middle East and North African countries over four years, aiming to reach more than 2.3 million students in countries including Egypt, Morocco and Tunisia. The curriculum covers misinformation, scams, cyberbullying and protecting private data; Google also set out default protections for users under 18 on its platforms.
+
+</div>
+
+</div>
+
+## Gambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GICTA digital-engineering training for government ICT staff (WARDIP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GICTA, WARDIP Launch Digital Engineering Training for Government ICT Personnel - senigambia](https://senigambia.com/gicta-wardip-launch-digital-engineering-training-for-government-ict-personnel/)** — Senigambia, 16 November 2026
+
+GICTA opened a two-week training programme in AI and software engineering for government ICT staff, financed by the World Bank's WARDIP project. It aims to produce in-house government systems, including a cabinet management system. Director General Abdou Karim Jallow said it should be built locally so that sensitive cabinet documents stay off external platforms.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: dpi.id
-places: DZA; AGO; BEN; BWA; BFA; CMR; COM; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; STP; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 9c3e78079073
+places: DZA; AGO; BEN; BWA; BFA; CMR; COM; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
+record: 5a3e0a4b1049
 ---
 
 # News, Oct – Nov 2026
@@ -63,6 +63,8 @@ record: 9c3e78079073
 <a href="#rwanda">Rwanda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sao-tome-and-principe">Sao Tome and Principe</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -1077,6 +1079,20 @@ NIMC's Identity Crime Enforcement Unit arrested suspected illegal NIN enrolment 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">V-Pass airport identity verification</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria sets December 31 deadline for airlines to adopt V-Pass biometric checks](https://www.biometricupdate.com/202611/nigeria-sets-december-31-deadline-for-airlines-to-adopt-v-pass-biometric-checks)** — Biometric Update, 17 November 2026
+
+Nigeria's aviation ministry unveiled the V-Pass facial-verification system, linked to the national identity number, for domestic flights in Lagos on 16 November 2026. Airlines have until 31 December 2026 to integrate it. Verxid delivers it under a concession with FAAN, starting at the Lagos and Abuja domestic terminals. From 1 January 2027, passengers without a valid number are to be denied boarding.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -1088,6 +1104,14 @@ NIMC's Identity Crime Enforcement Unit arrested suspected illegal NIN enrolment 
 **[NIDA temporarily suspends photography exercise for e-IDs](https://ukwelitimes.com/en/nida-temporarily-suspends-photography-exercise-for-e-ids)** — Ukweli Times, 8 October 2026
 
 Rwanda's identification agency suspended the photography exercise for the digital identity card and gave no date for resuming it. Pre-enrolment through Irembo continues, and residents are asked to correct civil-registration details first.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital ID registration resumes in all districts](https://www.newtimes.co.rw/article/40514/news/technology/digital-id-registration-resumes-in-all-districts)** — The New Times, 17 November 2026
+
+Rwanda's national identity agency NIDA resumed Single Digital ID registration in all districts on 17 November 2026, for people who missed the first exercise. Registration runs to 16 January 2027. It had been suspended on 7 October. Irembo staff assist with self-service verification at sector level, and NIDA photography is free.
 
 </div>
 
@@ -1104,6 +1128,22 @@ Rwanda's identification agency suspended the photography exercise for the digita
 **[Serviços de Identificação Civil vão ser emitidos em cinco embaixadas de STP na diáspora](https://www.glebatv.st/todas-noticias/servicos-de-identificacao-civil-vao-ser-emitidos-em-cinco-embaixadas-de-stp-na-diaspora)** — Gleba TV, 13 November 2026
 
 The registry directorate handed over biometric enrolment kits for missions in Gabon, Cabo Verde, Equatorial Guinea, Morocco and China. Diaspora citizens will get ID cards and passports abroad. Installation starts in December 2026 under the World Bank-financed STP Digital project.
+
+</div>
+
+</div>
+
+## Senegal
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Emergency plan to strengthen civil-status management</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[État civil : 77 % des 629 centres déjà équipés du logiciel de gestion, selon le directeur général de l’ANEC - APS](https://aps.sn/etat-civil-77-des-629-centres-deja-equipes-du-logiciel-de-gestion-selon-le-directeur-general-de-lanec/)** — Agence de Presse Sénégalaise (APS), 16 November 2026
+
+Senegal's civil registry agency ANEC said on 16 November 2026 that its certified civil-status software is in 77% of the 629 centres at home. It will extend to consular posts abroad from early 2027, and the diaspora function is built and awaiting tests. National consultations on civil status are set for 5 to 12 December 2026.
 
 </div>
 

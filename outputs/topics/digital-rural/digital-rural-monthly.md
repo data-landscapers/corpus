@@ -1,15 +1,17 @@
 ---
 title: Rural digital data capture — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: digital.rural
-places: CMR; ETH; NGA; RWA; TGO; ZMB; ZWE
-record: 7cbf4ced2022
+places: BDI; CMR; ETH; NGA; RWA; TGO; ZMB; ZWE
+record: b4ef232e69b2
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#burundi">Burundi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
@@ -24,6 +26,22 @@ record: 7cbf4ced2022
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zimbabwe">Zimbabwe</a>
 </nav>
+
+## Burundi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Satellite school connectivity under the ITU Partner2Connect coalition</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SES expands rural school connectivity](https://itweb.africa/article/ses-expands-rural-school-connectivity/WnpNgq21E5EMVrGd)** — ITWeb Africa, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+
+SES and the ITU's Partner2Connect coalition plan to connect 30 rural schools in Malawi, Burundi, Zambia and Zimbabwe by satellite by the end of 2026. The schools have an estimated 20,000 to 30,000 students and teachers. The schools form part of SES's pledge to connect 100 schools worldwide.
+
+</div>
+
+</div>
 
 ## Cameroon
 
@@ -130,6 +148,20 @@ Togo's agriculture ministry held a World Bank-supported national consultation on
 **[Zambia Deploys 751 Starlink Kits to Health Facilities with UNDP Support](https://techafricanews.com/2026/11/12/zambia-deploys-751-starlink-kits-to-health-facilities-with-undp-support/)** — Tech Africa News, 12 November 2026
 
 Smart Zambia Institute has begun deploying 751 Starlink kits to health facilities in all 10 provinces, Tech Africa News reported on 12 November 2026. The Global Fund pays for the kits through the Ministry of Health, and UNDP supports the rollout. The first 90 kits went to the Western Province health office.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SES and ITU Partner2Connect satellite school connectivity</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SES expands rural school connectivity](https://itweb.africa/article/ses-expands-rural-school-connectivity/WnpNgq21E5EMVrGd)** — ITWeb Africa, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+
+SES and the ITU's Partner2Connect coalition plan to connect 30 rural schools in Malawi, Burundi, Zambia and Zimbabwe by satellite by the end of 2026. The schools have an estimated 20,000 to 30,000 students and teachers. The schools form part of SES's pledge to connect 100 schools worldwide.
 
 </div>
 

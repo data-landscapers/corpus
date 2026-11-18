@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: gov.policy
-places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: d27265352a66
+places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
+record: bfd6451b0ee1
 ---
 
 # News, Oct – Nov 2026
@@ -27,6 +27,8 @@ record: d27265352a66
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#eswatini">Eswatini</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -154,6 +156,20 @@ ADEA and the Mastercard Foundation held an action-planning workshop in Cotonou o
 **[Transit, transport et digitalisation : le Bénin engage quatre chantiers pour moderniser ses échanges commerciaux - LE MATINAL](https://lematinal.bj/transit-transport-et-digitalisation-le-benin-engage-quatre-chantiers-pour-moderniser-ses-echanges-commerciaux/)** — Le Matinal, 12 November 2026
 
 Benin's National Trade Facilitation Committee opened its first ordinary session of 2026 in Cotonou on 11 November 2026. The session focused on transit, transport and their digitalisation. It set four priorities, including follow-up of World Trade Organization Trade Facilitation Agreement commitments and a single customs transit guarantee. They also include a link between the foreign-trade single window and the customs system.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National digital health strategy (2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Soigner plus vite, sauver davantage : le pari numérique dans la santé au Bénin](https://www.agenceecofin.com/actualites-numerique/1711-143501-soigner-plus-vite-sauver-davantage-le-pari-numerique-dans-la-sante-au-benin)** — Agence Ecofin, 17 November 2026
+
+Benin's health minister Benjamin Hounkpatin set out a digital health roadmap at the Cyber Africa Forum on 17 November 2026. It includes a hospital information system with an electronic patient record keyed to a QR code. Platforms for emergency referral, blood products, dialysis and maternal and neonatal deaths are to be consolidated over 18 to 36 months. He said health data must be hosted in Benin.
 
 </div>
 
@@ -332,6 +348,22 @@ Youm7 reported on 7 November 2026 from the opening session of Cairo ICT 2026. Th
 **[وزير الاتصالات: نمو القطاع 24.5% و12 مليار دولار مستهدف الصادرات الرقمية.. رأفت هندى: نستهدف رفع مساهمة القطاع لـ 8% من الناتج المحلى بحلول 2030.. وإنتاج 12 مليون هاتف محمول خلال 2026.. 400 خدمة حكومية مستهدفة](https://www.youm7.com/story/2026/11/7/وزير-الاتصالات-نمو-القطاع-24-5-و12-مليار-دولار-مستهدف/7608559)** — Youm7, 7 November 2026
 
 Youm7 published an interview on 7 November 2026 with Egypt's ICT minister, Raafat Hindy. The minister said the sector grew 24.5 per cent and aims for 8 per cent of GDP by 2030. The minister also described a plan for seven hyperscale data centres and a target of 400 national e-services.
+
+</div>
+
+</div>
+
+## Eswatini
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health Strategic Information Strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NEW HEALTH PLATFORM TO HELP GOVT ANTICIPATE MEDICINE STOCKOUTS - Eswatini Positive News](https://eswatinipositivenews.online/new-health-platform-to-help-govt-anticipate-medicine-stockouts/)** — Eswatini Positive News, 16 November 2026
+
+Eswatini's Ministry of Health launched a Health Strategic Information Strategy and a National Health Intelligence Platform on 16 November 2026. The platform brings together clinical, epidemiological, supply-chain and community data. The strategy sets rules for governance, data quality and interoperability.
 
 </div>
 
@@ -808,6 +840,20 @@ Nigeria's NITDA launched a public dashboard tracking its Strategic Roadmap and A
 **[NITDA Seeks Stakeholders Input to Review Digital Strategy](https://von.gov.ng/nitda-seeks-stakeholders-input-to-review-digital-strategy/)** — Voice of Nigeria, 11 November 2026
 
 Nigeria's NITDA opened a stakeholder review of its Strategic Roadmap and Action Plan 2.0 (2024–2026), Voice of Nigeria reported on 11 November 2026. The review, held at DNICE in Abuja, prepares a new strategy for 2027. SRAP 2.0 has eight pillars, 37 aggregate success indicators and about 78 initiatives.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National EdTech Strategy 2026-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria National EdTech Strategy (2026-2030)](https://education.gov.ng/wp-content/uploads/2026/11/Nigeria_National_EdTech_Strategy_FINAL_PRINT-V1.pdf)** — Federal Ministry of Education, Nigeria, 13 November 2026
+
+The Federal Ministry of Education's National EdTech Strategy for 2026 to 2030 sets five pillars: data and interoperability, infrastructure, technology and procurement, teacher transformation, and governance. It says it will strengthen existing systems rather than create parallel programmes. The roadmap moves from mobilisation in late 2026 and 2027 to scale-up in 2028. The ministry's data platform, NEDI, is already collecting education data.
 
 </div>
 

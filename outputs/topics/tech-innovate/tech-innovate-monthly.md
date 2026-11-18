@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: tech.innovate
-places: DZA; AGO; BEN; BFA; BDI; CAF; CIV; COD; EGY; SWZ; GHA; KEN; MWI; MRT; MUS; MAR; NAM; NGA; SEN; SLE; ZAF; SSD; TZA; TUN; ZWE
-record: ed8386378718
+places: DZA; AGO; BEN; BFA; BDI; CAF; CIV; COD; EGY; SWZ; ETH; GMB; GHA; KEN; MWI; MRT; MUS; MAR; NAM; NGA; SEN; SLE; ZAF; SSD; TZA; TUN; ZWE
+record: 29d11e1d345e
 ---
 
 # News, Oct – Nov 2026
@@ -29,6 +29,10 @@ record: ed8386378718
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gambia">Gambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -367,6 +371,38 @@ Egypt's information technology development agency ITIDA launched the fifth round
 **[E15 MILLION UNESWA UNIPOD HUB TO DRIVE YOUTH INNOVATION AND JOB CREATION](https://eswatinipositivenews.online/e15-million-uneswa-unipod-hub-to-drive-youth-innovation-and-job-creation/)** — Eswatini Positive News, 24 October 2026
 
 The University of Eswatini is building a E15 million innovation pod at its library, funded by the UN Development Programme. The vice-chancellor announced it at the 44th graduation on 24 October 2026. The pod will give students from the country's institutions space and equipment to start businesses, and the communications commission pledged US$150,000.
+
+</div>
+
+</div>
+
+## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Bank regulatory sandbox directive (FS/01/2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Regulatory Sandbox — Directive No. FS/01/2026](https://www.nbe.gov.et/wp-content/uploads/2026/11/FS-01-2026-Regulatory-Sandbox-Directive.pdf)** — National Bank of Ethiopia, 1 November 2026
+
+The National Bank of Ethiopia issued a regulatory sandbox directive, in force from 17 November 2026. It sets who may apply, how applicants are admitted and how long testing lasts, up to 12 months with extension. It also sets consumer-protection and data-privacy safeguards and the rules for suspension and exit.
+
+</div>
+
+</div>
+
+## Gambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UniPod, USET Kanifing campus</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gambia to Open University Innovation Hub to Turn Research Into Products](https://www.ecofinagency.com/news-services/1611-60858-gambia-to-open-university-innovation-hub-to-turn-research-into-products)** — Ecofin Agency, 16 November 2026
+
+The Gambia's first National Research and Innovation Fund round gave GMD15 million to 17 of 159 applicant projects. Vice-President Jallow announced it on 29 October 2026. A UNDP-financed University Innovation Pod was due to open on 18 November 2026 at USET's Kanifing campus. It has AI, robotics and prototyping labs.
 
 </div>
 

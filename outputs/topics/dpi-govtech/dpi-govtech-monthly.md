@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 190375222a42
+record: e92bc86938ff
 ---
 
 # News, Oct – Nov 2026
@@ -472,6 +472,20 @@ Chad's national land freight bureau (BNFT) and Moov Money Tchad signed an agreem
 **[Tchad : le BNFT signe avec Konoom pour dématérialiser le paiement de la LVO et de la TAE](https://www.ndjamenaactu.com/2026/10/14/tchad-le-bnft-signe-avec-konoom-pour-dematerialiser-le-paiement-de-la-lvo-et-de-la-tae/)** — N’Djaména Actu, 14 October 2026
 
 Chad's national land freight bureau BNFT signed an agreement with Konoom Mobile Money on 14 October 2026 to take payment of the mandatory consignment note (LVO) and the axle tax (TAE) by mobile money. It follows a similar agreement with Moov two days earlier; BNFT says the aim is simpler procedures for transporters and traceable state revenue.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Education and health platforms built by SONEMIC and ADETIC (Td-connect, E-Santé, E-éducation, Td-scolar)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Éducation et Santé : la SONEMIC offre du matériel informatique](https://tchadinfos.com/2026/11/17/education-et-sante-la-sonemic-offre-du-materiel-informatique/)** — Tchadinfos, 17 November 2026
+
+Chad's state mining company SONEMIC handed servers, interconnection equipment and security infrastructure to the education ministry and the national digital health programme on 17 November 2026. SONEMIC paid for the equipment itself. It is meant to host platforms including Td-connect, E-Santé, E-éducation and Td-scolar, built with engineers from the ICT agency ADETIC.
 
 </div>
 
@@ -1656,6 +1670,20 @@ Madagascar's Ministry of Higher Education and Scientific Research has put its e-
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Transport ministry platform for reporting corruption and irregularities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MOBILITÉ URBAINE – Les citoyens invités à signaler les irrégularités dans le secteur des transports via une plateforme numérique](https://www.2424.mg/mobilite-urbaine-les-citoyens-invites-a-signaler-les-irregularites-dans-le-secteur-des-transports-via-une-plateforme-numerique)** — 2424.mg, 17 November 2026
+
+Madagascar's Ministry of Transport and Meteorology opened a free online platform, reported on 17 November 2026, for citizens to report corruption and irregularities in transport. Reports can be anonymous and carry photo or document evidence. They are tracked by code and routed to oversight bodies including the Cour des comptes and Bianco. The minister said it was built in-house at no cost to the state budget.
+
+</div>
+
+</div>
+
 ## Malawi
 
 <div class="monthly-story" markdown="1">
@@ -2498,6 +2526,20 @@ South Africa's Electoral Commission used 56,000 voter management devices in the 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PRASA digital passenger channels</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PRASA puts people at the centre of its digital transformation strategy](https://www.itweb.co.za/article/prasa-puts-people-at-the-centre-of-its-digital-transformation-strategy/VgZeyqJlDEJ7djX9)** — ITWeb South Africa, 17 November 2026
+
+PRASA launched three digital passenger channels on 17 November 2026: the myprasa.com City to City site, WhatsApp and the PRASA Connect app. Registered card holders can load weekly and monthly travel remotely. Ticket purchase will be piloted in the Western Cape from 25 November 2026.
+
+</div>
+
+</div>
+
 ## South Sudan
 
 <div class="monthly-story" markdown="1">
@@ -2681,13 +2723,21 @@ Togo's procurement regulator ARCOP is recruiting four consultants to set up a na
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">BioCQ CRT online proof-of-life for public-sector pensioners</p>
+<p class="monthly-story__name">BIOSECU-CRT online proof-of-life for public-sector pensioners</p>
 
 <div class="bulletin-item" markdown="1">
 
 **[CRT : les retraités, le contrôle de vie désormais possible en ligne depuis les téléphones | Levisionnaire](https://levisionnaire.tg/crt-les-retraites-le-controle-de-vie-desormais-possible-en-ligne-depuis-les-telephones/)** — Le Visionnaire (Togo), 12 November 2026
 
 Togo's public-sector pension fund, the Caisse de retraite du Togo, is moving the twice-yearly proof-of-life check for pensioners online. It uses its BioCQ CRT platform, with an ID upload and facial recognition by smartphone. Launch and a three-month enrolment phase are set for 16 November 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[BIOSECU CRT / Le contrôle de vie des retraités entre dans l'ère du numérique - Ministère des Finances et du Budget](https://finances.gouv.tg/biosecu-crt-le-controle-de-vie-des-retraites-entre-dans-lere-du-numerique/)** — Ministère des Finances et du Budget, Togo, 17 November 2026
+
+Togo's finance minister launched BIOSECU-CRT on 16 November 2026, an online facial-recognition check that pensioners are alive. It covers the Caisse de Retraites du Togo's 40,043 beneficiaries as at end-October 2026. It reuses the CNSS's BIOSECU system, built with the Togolese integrator LIKSOFT, and enrolment is open to 16 February 2027. The CRT and INAM are to merge into one social security institute.
 
 </div>
 
@@ -2773,6 +2823,20 @@ Tunisia's ICT minister told parliament on 6 November 2026 that his ministry plan
 **[بطاقة "لاباس".. متى ينطلق العمل بها؟](https://www.assabahnews.tn/ar/%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/%d9%88%d8%b7%d9%86%d9%8a%d8%a9/1121904-%d8%a8%d8%b7%d8%a7%d9%82%d8%a9-%d9%84%d8%a7%d8%a8%d8%a7%d8%b3-%d9%85%d8%aa%d9%89-%d9%8a%d9%86%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a8%d9%87%d8%a7%d8%9f/)** — Assabah News, 14 November 2026
 
 Tunisia's Minister of Social Affairs, Issam al-Ahmar, told a joint parliamentary session in November 2026 that preparation of the Labes electronic health card will be completed by mid-2027. It is the national health insurance fund's card. It has been distributed since 2019. It has not reached every member or replaced the paper card.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-Consulat consular system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tunisiens à l’étranger : les passeports bientôt accessibles via E-Consulat, voici ce qui va changer en 2027 - La Presse de Tunisie](https://www.lapresse.tn/2026/11/17/tunisiens-a-letranger-les-passeports-bientot-accessibles-via-e-consulat-voici-ce-qui-va-changer-en-2027/)** — La Presse de Tunisie, 17 November 2026
+
+Tunisia's foreign minister told parliament on 17 November 2026 that his ministry is digitising consular services for Tunisians abroad. Consulates issued 180,658 passports by the end of October 2026. The ministry is working to make more services available remotely, including the criminal record extract and military-service exemption documents. The statement came during the 2027 budget debate.
 
 </div>
 

@@ -1,15 +1,17 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: capacity.training
-places: AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZWE
-record: 757572ca6327
+places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZWE
+record: dd9b1a381cea
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#algeria">Algeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#angola">Angola</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
@@ -64,6 +66,30 @@ record: 757572ca6327
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zimbabwe">Zimbabwe</a>
 </nav>
+
+## Algeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AfDB-financed studies for a digital vocational-training model and multi-centre pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Contract Awards - Study 1: Digital Transformation of Vocational Training in Algeria - Governance, Technical Frameworks, LMS Prototype and Cost Modelling - AHHD](https://www.afdb.org/en/documents/contract-awards-study-1-digital-transformation-98629)** — African Development Bank Group, 17 November 2026
+
+The African Development Bank posted contract awards on 17 November 2026 for two studies on digital vocational training in Algeria. The first covers governance, interoperability, cybersecurity and data-protection frameworks, an LMS prototype and cost modelling. The second covers hybrid skills modules and a multi-centre pilot. Awardees and amounts are not on the pages.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Contract Awards - Study 2: Development of Hybrid Transversal Skills Modules and Operational Preparation of a Multi-Centre Pilot in Algeria - AHHD](https://www.afdb.org/en/documents/contract-awards-study-2-development-hybrid-98630)** — African Development Bank Group, 17 November 2026
+
+The African Development Bank posted a contract award on 17 November 2026 for a study on hybrid transversal-skills modules for Algeria. The study also prepares the operational framework for a multi-centre digital vocational training pilot. It is the second of two studies, described with the first in the Algeria vocational training entry.
+
+</div>
+
+</div>
 
 ## Angola
 
@@ -324,6 +350,20 @@ Google has given staff and students at Kwame Nkrumah University of Science and T
 **[Empowering Educators and Learners in Sub-Saharan Africa](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/empowering-educators-and-learners-in-sub-saharan-africa-2026/)** — Google, 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
 Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in Kenya, Ghana and South Africa, Google announced. Google.org and the Gates Foundation fund the work, which first targets up to 500 teachers and 15,000 students. Google also opened its AI Educator Series in South Africa with SACE.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICC-TikTok Digital Commerce Labs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana launches ICC-TikTok Digital Commerce Labs to equip young entrepreneurs with digital skills](https://techreviewafrica.com/news/8363/ghana-launches-icc-tiktok-digital-commerce-labs-to-equip-young-entrepreneurs-with-digital)** — Tech Review Africa, 17 November 2026
+
+The ICC-TikTok Digital Commerce Labs were launched in Ghana, reported on 17 November 2026, to train young entrepreneurs and small businesses. Topics include digital marketing, social commerce, digital payments and financial literacy. Deputy minister Mohammed Adams Sukparu asked partners for an impact-measurement framework. No participant numbers or funding were stated.
 
 </div>
 

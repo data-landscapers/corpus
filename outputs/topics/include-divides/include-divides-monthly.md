@@ -1,10 +1,10 @@
 ---
 title: Digital divides — News, October – November 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 subject: include.divides
 places: AGO; BFA; COD; SWZ; ETH; GMB; GHA; LBR; NGA; ZAF; TZA
-record: d061fa60b0c7
+record: 77c6513fc0c0
 ---
 
 # News, Oct – Nov 2026
@@ -278,6 +278,20 @@ DataReportal published its Digital 2027 report for Liberia on 5 November 2026. I
 **[FG to Digitalise Primary, Secondary Schools Through NgREN by 2027](https://www.ngren.edu.ng/view.php?id=27)** — NgREN - Nigeria Research and Education Network, 15 October 2026
 
 Nigeria's federal government plans to extend internet connectivity to public primary and secondary schools through NgREN from 2027, starting with a pilot across the 36 states. The plan was announced at a stakeholders' meeting in Abuja on 13 October 2026. UBEC said it has connected about 2,000 of more than 200,000 schools. NCC and USPF are running a similar Starlink project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AGENDA-WINNIG women's digital entrepreneurship project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CITAD trains 51 women, girls in digital entrepreneurship in Bauchi](https://citadradio.com.ng/2026/11/16/citad-trains-51-women-girls-in-digital-entrepreneurship-in-bauchi/)** — CITAD Radio, 16 November 2026
+
+CITAD trained 51 women and girls in digital entrepreneurship in Jama'are, Bauchi State, on 8 and 9 November 2026. It is the first batch of a Gates Foundation-backed project, with a target of 5,000 across Kano and Bauchi. The programme runs under CARE's SheConnects Digital Accelerator.
 
 </div>
 
