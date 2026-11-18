@@ -3,9 +3,9 @@ title: Africa — News, Oct – Nov 2026
 compiled: 2026-11-18
 period: 2026-10-01 to 2026-11-18
 place: XAF
-ledger_rows: 83
+ledger_rows: 91
 not_held: 3
-record: 30038867a1bd
+record: 4b8b49b74135
 ---
 
 # News, Oct – Nov 2026
@@ -462,6 +462,34 @@ China's State Administration for Market Regulation reported on a China-Africa st
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AFRINIC policy proposal: Policy Compliance Dashboard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African Network Information Centre (AFRINIC)-38 brings Africa’s Internet community together in Cape Town to shape the policies underpinning its digital future](https://www.africa-newsroom.com/press/african-network-information-centre-afrinic38-brings-africas-internet-community-together-in-cape-town-to-shape-the-policies-underpinning-its-digital-future?lang=en)** — AFRINIC (via APO Group / Africa Newsroom), 18 November 2026
+
+Six draft proposals at 18 November 2026 meeting: IPv4 pools exhaustion, IPv6 soft-landing test, compliance dashboard.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AFRINIC policy proposal: RPD Mailing List Setup and Guidelines</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[African Network Information Centre (AFRINIC)-38 brings Africa’s Internet community together in Cape Town to shape the policies underpinning its digital future](https://www.africa-newsroom.com/press/african-network-information-centre-afrinic38-brings-africas-internet-community-together-in-cape-town-to-shape-the-policies-underpinning-its-digital-future?lang=en)** — AFRINIC (via APO Group / Africa Newsroom), 18 November 2026
+
+Summarised under [Standards](#standards).
+
+</div>
+
+</div>
+
 ### AI
 
 <div class="monthly-story" markdown="1">
@@ -648,6 +676,20 @@ The African Development Bank's November 2026 macroeconomic outlook says Africa c
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">COP31 presidency pledge on AI as part of the climate solution</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Can AI data centres help power underserved African communities?](https://www.climatechangenews.com/2026/11/16/can-ai-data-centres-help-power-underserved-african-communities/)** — Climate Home News, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
+
+Somalia, Uganda, Sierra Leone sign COP31 AI pledge, 16 November 2026; Emergent Grid sites in Kenya, DRC, Djibouti.
+
+</div>
+
+</div>
+
 ### Open data
 
 <div class="monthly-story" markdown="1">
@@ -825,6 +867,20 @@ INTERPOL's Operation Serengeti III, run by police in 21 countries from 29 June t
 **[Smart Africa and e-Crime Bureau Partner to Strengthen Cybersecurity Across Africa](https://techafricanews.com/2026/11/04/smart-africa-e-crime-bureau-partner-strengthen-cybersecurity-africa/)** — Tech Africa News, 4 November 2026
 
 Smart Africa and e-Crime Bureau signed a three-year memorandum of understanding on cybersecurity, reported on 4 November 2026. It covers workforce skills, governance, risk management, harmonised law and policy, and the securing of critical cybersecurity infrastructure. No signing date or funding is stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cyber risk ranking and audit coverage among African chief audit executives</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cyber leads Africa’s risk agenda, but audit coverage still trails exposure](https://www.itweb.co.za/article/cyber-leads-africas-risk-agenda-but-audit-coverage-still-trails-exposure/5yONPvErj297XWrb)** — ITWeb South Africa, 18 November 2026
+
+73% of 816 African respondents rank cyber a top-five risk, up 11 points; under a quarter report full audit coverage.
 
 </div>
 
@@ -1154,6 +1210,20 @@ Summarised under [Connectivity](#connectivity).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Clea US dollar payment routes to Mainland China and Hong Kong</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Clea Launches Faster US Dollar Payment Routes From Africa to China and Hong Kong](https://techafricanews.com/2026/11/18/clea-launches-faster-us-dollar-payment-routes-from-africa-to-china-and-hong-kong/)** — Tech Africa News, 18 November 2026
+
+Sub-three-hour USD supplier payments via CFXPS and CHATS; $50m+ cumulative volume; renminbi settlement planned.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -1211,6 +1281,20 @@ A news report of 10 November 2026 covers the WHO report on health data systems p
 **[African Union Concludes 6th Ordinary Session of the Specialized Technical Committee on Education, Science and Technology](https://au.int/en/pressreleases/20261109/african-union-concludes-6th-ordinary-session-specialized-technical-committee)** — African Union Commission, 9 November 2026
 
 African Union ministers of education, science and technology met in Addis Ababa on 6 November 2026. They cleared five sectoral AI publications for national adaptation. They asked AUDA-NEPAD and an advisory group for a continental semiconductor strategy to 2034. They also asked the AU Commission for a reporting portal on 60 CESA indicators.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">African NSO Leadership Exchange Platform (ANLEP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Why Africa's data future depends on NSO leadership](https://www.data4sdgs.org/blog/why-africas-data-future-depends-nso-leadership)** — Global Partnership for Sustainable Development Data, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Ghana's GSS signs 25 data-sharing MoUs; Senegal's ANSD targets poor households by ML; NSO leadership platform agreed.
 
 </div>
 
@@ -1547,6 +1631,34 @@ TechSoma reports IFC's proposed senior loan of up to US$7.5 million to Cauris Fi
 **[Enza Capital lève 21 millions de dollars pour son fonds d'intelligence artificielle](https://www.wearetech.africa/fr/fils/breves/breves-simple/enza-capital-leve-21-millions-de-dollars-pour-son-fonds-dintelligence-artificielle)** — wearetech.africa, 16 November 2026
 
 Pan-African venture firm Enza Capital reported a first close of US$21 million on its AI fund, against a target of US$60 million. From 2027 the fund will back African startups building AI software in health, finance and agriculture.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Governance in Africa Initiative</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Governance in Africa – Supporting development-oriented and human-centric data regulation, use and infrastructure in Africa](https://www.expertisefrance.fr/en/projects/data-governance-africa-supporting-development-oriented-and-human-centric-data-regulation)** — Expertise France, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+EUR 60m EU Global Gateway programme; customs and tax AI in Benin, Côte d'Ivoire, Senegal; Kenya EO labs.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">First Circle Africa Fund I</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[First Circle Capital Closes $26 Million African Fintech Fund](https://techafricanews.com/2026/11/18/first-circle-capital-closes-26-million-african-fintech-fund/)** — Tech Africa News, 18 November 2026
+
+$26m final close for Fund I; IFC, Bpifrance, FSD Africa among investors; 18 portfolio companies; tickets undisclosed.
 
 </div>
 
