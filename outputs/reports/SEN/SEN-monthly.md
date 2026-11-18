@@ -3,9 +3,9 @@ title: Senegal — News, Oct – Nov 2026
 compiled: 2026-11-18
 period: 2026-10-01 to 2026-11-18
 place: SEN
-ledger_rows: 56
+ledger_rows: 59
 not_held: 2
-record: a6677889d820
+record: 3c323e6ee09d
 ---
 
 # News, Oct – Nov 2026
@@ -848,6 +848,20 @@ Senegal's data protection commission (CDP) warned on 5 November 2026 of rising A
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Statistics agency machine-learning targeting of poor households</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Why Africa's data future depends on NSO leadership](https://www.data4sdgs.org/blog/why-africas-data-future-depends-nso-leadership)** — Global Partnership for Sustainable Development Data, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Ghana's GSS signs 25 data-sharing MoUs; Senegal's ANSD targets poor households by ML; NSO leadership platform agreed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">National framework for anticipating AI in the world of work</p>
 
 <div class="bulletin-item" markdown="1">
@@ -855,6 +869,34 @@ Senegal's data protection commission (CDP) warned on 5 November 2026 of rising A
 **[Mamadou Lamine Dianté suggère un cadre d’anticipation et d’accompagnement de l’IA - APS](https://aps.sn/mamadou-lamine-diante-suggere-un-cadre-danticipation-et-daccompagnement-de-lia/)** — Agence de presse sénégalaise (APS), 12 November 2026
 
 Senegal's Minister of the Civil Service, Mamadou Lamine Dianté, proposed on 12 November 2026 that the State, employers and unions draw up a national framework on AI at work, APS reported. The minister made the proposal at a workshop held with the Konrad Adenauer Foundation. The framework would cover changes in jobs and skills, training and workers' rights.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Tax and customs data-science use cases (Data Governance in Africa)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Governance in Africa – Supporting development-oriented and human-centric data regulation, use and infrastructure in Africa](https://www.expertisefrance.fr/en/projects/data-governance-africa-supporting-development-oriented-and-human-centric-data-regulation)** — Expertise France, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+EUR 60m EU Global Gateway programme; customs and tax AI in Benin, Côte d'Ivoire, Senegal; Kenya EO labs.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Orange open-weight Wolof language models</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Orange Releases Five Open-Weight AI Models for Wolof Language](https://techafricanews.com/2026/11/18/orange-releases-five-open-weight-ai-models-for-wolof-language/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Orange released five open-weight large language models for Wolof on Hugging Face, in five sizes, free for non-commercial use. They were trained on public datasets machine-translated into Wolof, with no Orange corporate data. Orange said it will join a coalition of more than 60 organisations working on linguistic diversity in AI.
 
 </div>
 
