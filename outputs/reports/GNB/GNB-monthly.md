@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — News, Oct – Nov 2026
-compiled: 2026-11-12
-period: 2026-10-01 to 2026-11-12
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: GNB
-ledger_rows: 6
+ledger_rows: 7
 not_held: 2
-record: 935c7617b63e
+record: 37086dcaf340
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: 935c7617b63e
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
@@ -21,6 +23,28 @@ record: 935c7617b63e
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+</nav>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic Transactions Bill 2025</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo analisa novas leis sobre economia digital e proteção social no país](https://ang.gw/governo-analisa-novas-leis-sobre-economia-digital-e-proteccao-social-no-pais/)** — Agência de Notícias da Guiné (ANG), 18 November 2026
+
+Guinea-Bissau's Council of Ministers examined a draft Electronic Transactions Law on 17 November 2026. Its communiqué says the law is to update the legal framework for electronic operations and make digital transactions more secure and trusted. No adoption has been reported.
+
+</div>
+
+</div>
 
 ## ICT Infrastructure
 
