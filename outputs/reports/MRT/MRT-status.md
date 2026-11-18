@@ -1,12 +1,12 @@
 ---
 title: Mauritania: status report
-compiled: 2026-11-14
+compiled: 2026-11-18
 place: MRT
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 218
+sources_cited: 219
 sections_written: 39
 not_established: 1
 acquire_lines: 39
@@ -129,7 +129,7 @@ On 10 August 2026 [Chinguitel switched on Mauritania's first fifth-generation mo
 
 [The national Internet Exchange Point was officially launched in May 2025](https://fr.saharamedias.net/mauritanie-lancement-officiel-du-centre-national-dechange-internet/), hosted at International Mauritanian Telecommunications in Nouakchott. [It is run jointly by government and the operators, and participation is limited to the IMT consortium and the three national operators](https://fr.saharamedias.net/mauritanie-lancement-officiel-du-centre-national-dechange-internet/). [Every licensed operator had activated IPv6 by July 2026](https://www.alakhbar.info/6a62c5feac143500012ee215/). [By July 2026 one operator had moved more than 15% of its subscribers, against a national target of 25% by the end of the year](https://www.alakhbar.info/6a62c5feac143500012ee215/).
 
-[37.4% of individuals used the internet in 2023](https://datareportal.com/reports/digital-2026-mauritania), against [about 113 mobile cellular subscriptions per 100 people in 2022](https://fred.stlouisfed.org/series/ITCELSETSP2MRT). On 9 October 2026 [a regulator re-inspection was reported to have found all three mobile operators still breaching their licence obligations on voice and data](https://www.ecofinagency.com/news-digital/0910-59612-mauritanias-digital-economy-plans-face-persistent-telecom-network-quality-problems). [On 5 November 2026 the regulator fined the three a combined MRU 421.3m, 3% of each one's turnover, and ordered a network audit](https://lequotidien.mr/?p=42474). [In 2025 a 1GB mobile basket cost 1.47% of GNI per capita, inside the UN Broadband Commission's affordability threshold](https://pulse.internetsociety.org/en/reports/mr/). [5GB cost 2.94% and fixed broadband around 17.6% in 2025](https://pulse.internetsociety.org/en/reports/mr/).
+[37.4% of individuals used the internet in 2023](https://datareportal.com/reports/digital-2026-mauritania), against [about 113 mobile cellular subscriptions per 100 people in 2022](https://fred.stlouisfed.org/series/ITCELSETSP2MRT). On 9 October 2026 [a regulator re-inspection was reported to have found all three mobile operators still breaching their licence obligations on voice and data](https://www.ecofinagency.com/news-digital/0910-59612-mauritanias-digital-economy-plans-face-persistent-telecom-network-quality-problems). [On 5 November 2026 the regulator fined the three a combined MRU 421.3m, 3% of each one's turnover, and ordered a network audit](https://lequotidien.mr/?p=42474). [In November 2026 it rejected the operators' appeals and confirmed the fines in full](https://lequotidien.mr/?p=43284). [In 2025 a 1GB mobile basket cost 1.47% of GNI per capita, inside the UN Broadband Commission's affordability threshold](https://pulse.internetsociety.org/en/reports/mr/). [5GB cost 2.94% and fixed broadband around 17.6% in 2025](https://pulse.internetsociety.org/en/reports/mr/).
 
 [Mobile communications rose 17.0 points over 2014–2023 to 56.0 of 100 in the 2024 Ibrahim Index, still 43rd of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf). [Access to the internet and to computers reached 24.4 of 100, 38th of 54, on a gain of 5.5 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf). [Infrastructure overall scores 33.3 of 100, 35th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf).
 
