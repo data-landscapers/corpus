@@ -3,9 +3,9 @@ title: Morocco — News, Oct – Nov 2026
 compiled: 2026-11-18
 period: 2026-10-01 to 2026-11-18
 place: MAR
-ledger_rows: 36
+ledger_rows: 39
 not_held: 13
-record: d81b1159ce41
+record: d30ee991adfa
 ---
 
 # News, Oct – Nov 2026
@@ -202,6 +202,20 @@ Morocco's data-protection commission CNDP signed an agreement with the National 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Global Privacy Assembly resolution on privacy-enhancing technologies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La CNDP fait adopter une résolution internationale sur la protection de la vie privée à Bruxelles](https://fr.al3omk.com/44902.html)** — Al Oamk, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+The Global Privacy Assembly adopted a resolution on privacy-enhancing technologies put forward by Morocco's CNDP at its 48th annual conference in Brussels on 17 November 2026. Nine other authorities supported it. The CNDP also joined a meeting of the NADPA-RAPDP network, whose secretariat Morocco holds, on its strategic plan and the harmonisation of national data-protection laws.
+
+</div>
+
+</div>
+
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
@@ -263,6 +277,28 @@ Morocco's Bulletin officiel of 1 October 2026 published decrees approving two Wo
 **[Lors de la séance des questions orales tenue à la Chambre des représentants, M. Ahmed Rahhou a présenté les principales actions engagées par son département en matière de développement de l’intelligence artificielle ...](https://www.mmsp.gov.ma/fr/actualites/lors-de-la-s%C3%A9ance-des-questions-orales-tenue-%C3%A0-la-chambre-des-repr%C3%A9sentants-m-ahmed-rahhou-pr%C3%A9sent%C3%A9-les-principales-actions-engag%C3%A9es-par-son-d%C3%A9partement-en-mati%C3%A8re-de-d%C3%A9veloppement-de-l%E2%80%99intelligence-artificielle)** — Ministry of Artificial Intelligence, Digital Transformation and Administrative Reform, 16 November 2026
 
 Morocco's digital transition minister Ahmed Rahhou spoke to the House of Representatives on 16 November 2026. Phase two of the national broadband plan will cover 2,000 under-served rural zones. He cited a MAD 2.5 billion start-up financing target under the AI Made in Morocco roadmap. He also named national roaming across 7,000 zones and faster data exchange between administrations.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Morocco Plans Automatic National Roaming to Improve Telecom Coverage](https://www.telecomreviewafrica.com/articles/reports-and-coverage/29497-morocco-plans-automatic-national-roaming-to-improve-telecom-coverage/)** — Africa Telecom Review, 18 November 2026
+
+Minister Ahmed Rahhou told parliament on 16 November 2026 that national roaming, available in over 7,000 zones, will become automatic. An operator alone in a zone will have to open its network to rivals' subscribers. He named Starlink and Kuiper for white zones and plans to turn about 20,000 telecom shops into service points.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile coverage of the road network</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Morocco Plans Automatic National Roaming to Improve Telecom Coverage](https://www.telecomreviewafrica.com/articles/reports-and-coverage/29497-morocco-plans-automatic-national-roaming-to-improve-telecom-coverage/)** — Africa Telecom Review, 18 November 2026
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
@@ -565,6 +601,20 @@ The Office des changes opened an international tender for an e-declarations plat
 **[Moroccans abroad can now apply online for criminal record certificates](https://en.hespress.com/148811-moroccans-abroad-can-now-apply-online-for-criminal-record-certificates.html)** — Hespress, 9 November 2026
 
 Morocco's General Directorate of National Security opened its Epolice portal on 9 November 2026 to Moroccans abroad applying online for criminal-record certificates. Each request can be tracked online and the certificate is collected at the chosen diplomatic mission. The Ministry of Foreign Affairs, African Cooperation and Moroccan Expatriates built the service with the directorate.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Telecom points of sale as local digital service spaces</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Morocco Plans Automatic National Roaming to Improve Telecom Coverage](https://www.telecomreviewafrica.com/articles/reports-and-coverage/29497-morocco-plans-automatic-national-roaming-to-improve-telecom-coverage/)** — Africa Telecom Review, 18 November 2026
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
