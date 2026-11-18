@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: SOM
-ledger_rows: 26
+ledger_rows: 27
 not_held: 1
-record: 253be9624dfd
+record: fd75312c859b
 ---
 
 # News, Oct – Nov 2026
@@ -389,6 +389,20 @@ Somalia scored 1.50 out of 4 on the Africa AI Governance Index 2026, in the Emer
 **[SIMAD University Breaks Ground on Building to Host Somalia's National AI Hub](https://www.dawan.africa/news/simad-university-breaks-ground-on-building-to-host-somalias-national-ai-hub)** — Dawan Africa, 6 November 2026
 
 SIMAD University laid the foundation stone on 5 November 2026 for a building to host Somalia's National AI Hub. The hub links four universities; the minister of communications and technology laid the stone with the rector, Dawan Africa reports. Hadiid Group is building the ground-plus-five steel structure.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">COP31 pledge on AI as part of the climate solution</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Can AI data centres help power underserved African communities?](https://www.climatechangenews.com/2026/11/16/can-ai-data-centres-help-power-underserved-african-communities/)** — Climate Home News, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Somalia, Uganda, Sierra Leone sign COP31 AI pledge, 16 November 2026; Emergent Grid sites in Kenya, DRC, Djibouti.
 
 </div>
 
