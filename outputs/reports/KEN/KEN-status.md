@@ -1,12 +1,12 @@
 ---
 title: Kenya: status report
-compiled: 2026-11-17
+compiled: 2026-11-18
 place: KEN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 14
-sources_cited: 394
+sources_cited: 396
 sections_written: 39
 not_established: 0
 acquire_lines: 63
@@ -62,7 +62,7 @@ In July 2026 [East African Community rules on cross-border data flows and person
 ### Standards
 <!-- gov.standards -->
 
-In 2026 a submission to the AI policy consultation found that [the standards-setting mandate the draft gives a proposed Technology Council overlaps that of the Kenya Bureau of Standards](https://www.globalcenter.ai/research/submission-to-the-call-for-public-comments-kenya-ai-and-other-emerging-technologies-policy). The Bureau is [the country's ISO member body, participating in 129 technical committees and observing in 177](https://www.iso.org/member/1854.html) (October 2026). In April 2020 its standards council [approved the international standards on data governance and data quality as Kenya Standards](https://kebs.org/wp-content/uploads/2023/09/SAC-Approved-List-of-Kenya-Standards-April-2020.pdf). [In September 2026 the central bank published a draft guidance note that would set mandatory guardrails for AI and machine learning in licensed financial institutions](https://cioafrica.co/ai-governance-fragmentation-cause-for-concern/).
+In 2026 a submission to the AI policy consultation found that [the standards-setting mandate the draft gives a proposed Technology Council overlaps that of the Kenya Bureau of Standards](https://www.globalcenter.ai/research/submission-to-the-call-for-public-comments-kenya-ai-and-other-emerging-technologies-policy). The Bureau is [the country's ISO member body, participating in 129 technical committees and observing in 177](https://www.iso.org/member/1854.html) (October 2026). In April 2020 its standards council [approved the international standards on data governance and data quality as Kenya Standards](https://kebs.org/wp-content/uploads/2023/09/SAC-Approved-List-of-Kenya-Standards-April-2020.pdf). [On 10 September 2026 the central bank put out for comment a draft guidance note requiring its prior written approval before banks and other licensees deploy AI](https://www.centralbank.go.ke/Guidance_Notes.zip). [Comments closed on 7 November 2026](https://cipit.strathmore.edu/governing-ai-in-kenyas-banking-sector-inside-cbks-draft-guidance-notes-on-artificial-intelligence/).
 
 [In 2025 the World Bank found the government interoperability framework in place but only partly used](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The ICT Authority issued the framework's third edition in February 2026](https://cms.icta.go.ke/sites/default/files/2026-05/v3.0_Government%20Interoperability%20Framework%20%28GIF%29.pdf). [Performance contracts for 2026/27 require every ministry, county, department and agency to adopt it](https://digitalization.ict.go.ke/download.php?id=2). [Procurement runs through an electronic system used across government to enforce technical standards](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The Communications Authority has published guidelines for VoIP services](https://www.ca.go.ke/sites/default/files/2023-06/Guidelines-on-the-Implementation-and-provision-of-VOIP-Services-1.pdf), and [no direct-to-cell satellite service had been approved as at 4 August 2026](https://businessday.ng/technology/article/airtel-seeks-kenya-approval-for-spacex-powered-mobile-service/). The ICT Authority [set minimum ICT competences and certifications in a standard in force from July 2023](https://cms.icta.go.ke/sites/default/files/2023-07/ICT_Human_Capital_and_workforce_development_standard-2023.pdf).
 
