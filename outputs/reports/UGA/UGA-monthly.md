@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: UGA
-ledger_rows: 55
+ledger_rows: 57
 not_held: 11
-record: 95b132c9e5f0
+record: 5ad2ea80ebc6
 ---
 
 # News, Oct – Nov 2026
@@ -626,6 +626,20 @@ Housing Finance Bank joined Interswitch's Quickteller agency banking network in 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MoKash mobile savings and credit service (MTN MoMo and NCBA Bank)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN Uganda's MoKash Disburses UGX 3.2 Trillion in 10 Years](https://techafricanews.com/2026/11/18/mtn-ugandas-mokash-disburses-ugx-3-2-trillion-in-10-years/)** — Tech Africa News, 18 November 2026
+
+MTN MoMo Uganda said its MoKash savings and credit service, run with NCBA Bank Uganda, has disbursed about UGX 3.2 trillion in ten years. The figure was given at an anniversary event attended by finance minister Henry Musasizi.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -825,6 +839,20 @@ The Uganda Civil Aviation Authority has upgraded the car parks at Entebbe Intern
 **[Will Uganda’s youth power the AI economy, or be left behind by it?](https://www.independent.co.ug/will-ugandas-youth-power-the-ai-economy-or-be-left-behind-by-it/)** — The Independent (Uganda), 13 November 2026
 
 The 2026 Commonwealth Youth AI Readiness Index was produced by the Ayre Think Tank. It was unveiled around the 1-4 November Commonwealth summit in Antigua and Barbuda. It ranks Uganda 23rd of 56 countries with a score of 47.0 out of 100, below the study's benchmark of 53. The study estimates AI could add US$899 million to Uganda's GDP over a decade.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">COP31 pledge on AI as part of the climate solution</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Can AI data centres help power underserved African communities?](https://www.climatechangenews.com/2026/11/16/can-ai-data-centres-help-power-underserved-african-communities/)** — Climate Home News, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Somalia, Uganda, Sierra Leone sign COP31 AI pledge, 16 November 2026; Emergent Grid sites in Kenya, DRC, Djibouti.
 
 </div>
 
