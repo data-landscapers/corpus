@@ -1,11 +1,11 @@
 ---
 title: North Africa — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: XNA
-ledger_rows: 4
+ledger_rows: 5
 not_held: 0
-record: bbbd405943cb
+record: b98c3d9e57de
 ---
 
 # News, Oct – Nov 2026
@@ -16,6 +16,8 @@ record: bbbd405943cb
 <a href="#institutions-and-mandates">Institutions and mandates</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#instruments-and-harmonisation">Instruments and harmonisation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
 </nav>
 
 ## Institutions and mandates
@@ -89,6 +91,28 @@ The League of Arab States held the fourth meeting of a joint expert committee on
 **[Arab region advances common vision for digital development and AI governance](https://www.unescwa.org/news/arab-region-advances-common-vision-digital-development-and-ai-governance)** — United Nations Economic and Social Commission for Western Asia (ESCWA), 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
 
 The UN Economic and Social Commission for Western Asia held the sixth session of its Committee on Technology for Development in Tunis on 4 and 5 November 2026. It reported that networks cover 95% of the Arab region's population while 70% use the internet. Arabic accounts for about 1% of websites. The session discussed a second Arab Digital Agenda and a common Arab AI framework with the League of Arab States, both in preparation.
+
+</div>
+
+</div>
+
+## Shared systems and infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+</nav>
+
+### Digital Identity and CRVS
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital identity status across North African states</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital Public Infrastructure for Inclusive Growth: A Regional Assessment for the Middle East, North Africa, Afghanistan, and Pakistan](https://documents1.worldbank.org/curated/en/099110926084536993/pdf/P507284-0c4a825c-0c5d-40d5-8e72-cc9a23fa2f46.pdf)** — World Bank, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+21-country DPI diagnostic; Morocco, Tunisia live digital ID, Egypt under design; 12 of 21 run fast payments.
 
 </div>
 
