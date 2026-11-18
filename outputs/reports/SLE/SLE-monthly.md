@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: SLE
-ledger_rows: 28
+ledger_rows: 31
 not_held: 4
-record: 97df29062d73
+record: 303320cadca8
 ---
 
 # News, Oct – Nov 2026
@@ -36,6 +36,8 @@ record: 97df29062d73
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
 </nav>
 
 ### Legislation and regulation
@@ -94,6 +96,22 @@ Sierra Leone's Parliament referred the Data Protection and Right to Access Infor
 
 </div>
 
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional data embassy framework proposed at ECOWAS</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AfDB Approves $750,000 to Develop ECOWAS Data Embassy in Sierra Leone](https://sierraloaded.sl/news/afdb-approve-750000-funding-for-sierra-leone/)** — SierraLoaded, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+The African Development Bank approved a $750,000 seed grant, with technical assistance, to prepare an ECOWAS Data Embassy in Sierra Leone. Communications minister Salima Monorma Bah announced it at WAIIS 2026 in Lungi on 18 November 2026. The grant pays for experts to structure the project before AfDB construction financing, which has not been quantified.
+
+</div>
+
+</div>
+
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
@@ -129,6 +147,20 @@ Sierra Leone's procurement review panel dismissed a bidder's complaint over the 
 **[NatCA Unveils State-of-the-Art Telecommunications Regulatory Equipments | Sierra Leone Monitor](https://www.sierraleonemonitor.com/natca-unveils-telecommunications-equipments/)** — Sierra Leone Monitor, 29 October 2026
 
 Sierra Leone's National Communications Authority unveiled new systems on 28 October 2026 for spectrum monitoring, quality of service, spectrum management and broadcast monitoring. The World Bank funded them under the Sierra Leone Digital Transformation Project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Second submarine cable landing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone Announces $45 Million Second Submarine Cable Project](https://techafricanews.com/2026/11/18/sierra-leone-announces-45-million-second-submarine-cable-project/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Sierra Leone announced a National Cable Consortium to land a second submarine cable, a $45 million project backed by the World Bank's WARDIP. The vehicle joins Africell, Orange, Q-Cell and Zoodlabs, and pools demand with Guinea, Liberia and The Gambia. Sierratel and Africell also formed Sierratel International to seek MVNO licences elsewhere in Africa.
 
 </div>
 
@@ -395,6 +427,8 @@ Sierra Leone's Directorate of Science, Technology and Innovation and the Sierra 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
@@ -423,6 +457,22 @@ Sierra Leone's judiciary and the attorney-general's office are to draft a nation
 **[Country Profile on AI Governance: Sierra Leone](https://www.aipolicy.africa/country-profiles/sierra-leone)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Sierra Leone scored 0.72 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 43 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Regional Integration (1.30) and its weakest is Implementation and Impact (0.00).
+
+</div>
+
+</div>
+
+### ICT Industry
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sierratel International joint venture</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Sierra Leone Announces $45 Million Second Submarine Cable Project](https://techafricanews.com/2026/11/18/sierra-leone-announces-45-million-second-submarine-cable-project/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
