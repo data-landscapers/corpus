@@ -3,9 +3,9 @@ title: Egypt — News, Oct – Nov 2026
 compiled: 2026-11-18
 period: 2026-10-01 to 2026-11-18
 place: EGY
-ledger_rows: 70
+ledger_rows: 71
 not_held: 35
-record: 56176dc74c2b
+record: f0fe63bef919
 ---
 
 # News, Oct – Nov 2026
@@ -1081,6 +1081,20 @@ Egypt's Public Prosecution opened an AI data centre at the Prosecutor-General's 
 **[ICT Minister Witnesses Signing of Tripartite MoU on Collaboration in AI, Cloud Computing](https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/121644)** — Ministry of Communications and Information Technology (Egypt), 16 November 2026
 
 e& Business, M-Empire Angels and Startup Egypt signed a tripartite memorandum of understanding on 16 November 2026. ICT minister Raafat Hendy witnessed it. e& Business is to offer GPU-as-a-Service in Egypt, with pay-per-use GPU computing for companies and startups training AI models. The ministry presents it as part of the second National AI Strategy. No sum was stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI economic decision system for government (Senate study)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الحكومة تقرأ الأرقام وتختبر سيناريوهات الأزمات قبل اتخاذ القرار.. دراسة برلمانية أمام "الشيوخ" تطرح مسارا لبناء منظومة اقتصادية ذكية تعتمد على الذكاء الاصطناعي.. وتكشف بدائل استضافة البيانات واشتراطات الأمان](https://www.youm7.com/story/2026/11/17/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D9%82%D8%B1%D8%A3-%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%88%D8%AA%D8%AE%D8%AA%D8%A8%D8%B1-%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A7%D8%AA-%D9%82%D8%A8%D9%84-%D8%A7%D8%AA%D8%AE%D8%A7%D8%B0-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9/7619226)** — Youm7, 17 November 2026
+
+Senate committee study: five-stage roadmap, Karnak LLM role, sovereign vs hybrid vs public-cloud data hosting.
 
 </div>
 
