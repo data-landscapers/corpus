@@ -1,12 +1,12 @@
 ---
 title: Guinea-Bissau: status report
-compiled: 2026-11-14
+compiled: 2026-11-18
 place: GNB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-27
 intersections_read: 22
-sources_cited: 181
+sources_cited: 182
 sections_written: 39
 not_established: 2
 acquire_lines: 31
@@ -27,7 +27,7 @@ acquire_lines: 31
 ### Legislation and regulation
 <!-- gov.legislate -->
 
-By May 2026 the ICT regulator ARN [had put a draft Electronic Transactions Law out to public consultation, with responses closing on 28 May 2026](https://www.odemocratagb.com/?p=57171). [The 112-article bill](https://arn.gw/site24/wp-content/uploads/2026/04/Lei_Transaccoes_Electronicas_Revisada_PT.docx) would settle the legal effect and evidential value of data messages, the formation of electronic contracts and the licensing of trust-service providers. [It also covers signatures and time stamps, consumer protection and the limits of intermediary liability](https://arn.gw/site24/wp-content/uploads/2026/04/Lei_Transaccoes_Electronicas_Revisada_PT.docx). [Entry into force is left to a date the responsible minister designates](https://arn.gw/site24/wp-content/uploads/2026/04/Lei_Transaccoes_Electronicas_Revisada_PT.docx), possibly provision by provision.
+[On 17 November 2026 the Council of Ministers examined the draft Electronic Transactions Law, with no adoption announced](https://ang.gw/governo-analisa-novas-leis-sobre-economia-digital-e-proteccao-social-no-pais/). The ICT regulator ARN [had put the draft out to public consultation in May 2026, with responses closing on 28 May](https://www.odemocratagb.com/?p=57171). [The 112-article bill](https://arn.gw/site24/wp-content/uploads/2026/04/Lei_Transaccoes_Electronicas_Revisada_PT.docx) would settle the legal effect and evidential value of data messages, the formation of electronic contracts and the licensing of trust-service providers. [It also covers signatures and time stamps, consumer protection and the limits of intermediary liability](https://arn.gw/site24/wp-content/uploads/2026/04/Lei_Transaccoes_Electronicas_Revisada_PT.docx). [Entry into force is left to a date the responsible minister designates](https://arn.gw/site24/wp-content/uploads/2026/04/Lei_Transaccoes_Electronicas_Revisada_PT.docx), possibly provision by provision.
 
 [Lei n.º 5/2010, the Lei de Base das Tecnologias de Informação e Comunicação](https://arn.gw/activeapp/wp-content/uploads/2015/03/3.-%C2%A6SUP.-B.-O.-N.-%C2%A6-21-2010.pdf), still sets the rules for establishing and operating ICT networks and services. [It constitutes the ARN as the body that regulates, supervises and sanctions them](https://arn.gw/activeapp/wp-content/uploads/2015/03/3.-%C2%A6SUP.-B.-O.-N.-%C2%A6-21-2010.pdf). [Four regulations made under it were published together in September 2010](https://arn.gw/activeapp/wp-content/uploads/2015/03/Decreto-Lei-N%C2%BA-13141516-2010-B.O.-N%C2%BA-38.pdf). [They cover interconnection, supervision and sanctions, public consultation and the offer of networks and services](https://arn.gw/activeapp/wp-content/uploads/2015/03/Decreto-Lei-N%C2%BA-13141516-2010-B.O.-N%C2%BA-38.pdf). [They give the regulator sanctions from fines through restriction and suspension to revocation](https://arn.gw/activeapp/wp-content/uploads/2015/03/Decreto-Lei-N%C2%BA-13141516-2010-B.O.-N%C2%BA-38.pdf).
 
@@ -248,7 +248,7 @@ Five domains have a named management information system — health, education, j
 
 [A December 2025 service instruction made Kontaktu, the tax authority's portal for declarations and payments, the only system for issuing taxpayer numbers](https://kontaktu.mef.gw/). [Its operating instruction lists fourteen taxes and contributions that still require a prior declaration](https://kontaktu.mef.gw/api/public_files/ahJL4HsBTtIyVO-stAXo.pdf). [Customs replaced ASYCUDA++, in use since the early 1990s, with ASYCUDAWorld across all computerised offices on 26 January 2026](https://asycuda.org/en/guinea-bissau-launches-asycudaworld-to-strengthen-customs-digitalization/). [On 8 October 2026 the customs directorate put the migration at more than 80 per cent executed](https://alfandegas.mef.gw/dga-e-missao-tecnica-do-bad-avaliam-a-execucao-dos-projetos-de-modernizacao-e-formacao-aduaneira/). [The Centro de Formalização de Empresas is a one-stop shop for company registration, joining the notary, commercial and taxpayer registration and business licensing](https://cfe.gw/). [The Judiciary Police runs an online complaint portal](https://pj.gw).
 
-[The Electronic Transactions Law was still a draft out to public consultation by the regulator in May 2026](https://www.odemocratagb.com/?p=57171). No statute giving electronic filings and payments to the state their legal effect has been found.
+[The Electronic Transactions Law was still a draft when the Council of Ministers examined it on 17 November 2026](https://ang.gw/governo-analisa-novas-leis-sobre-economia-digital-e-proteccao-social-no-pais/). No statute giving electronic filings and payments to the state their legal effect has been found.
 
 [The steering committee of the Integrated Criminal Information System heard in April 2023 that the other forces had sent no staff, the Judicial Police citing a 2011 law as its basis](https://www.odemocratagb.com/?p=43960). [A second service opened at the Guarda Nacional command in Bissau in August 2024, linking the police forces' criminal data](https://ang.gw/policia-judiciaria-diretor-nacional-diz-que-a-luta-contra-a-criminalidade-organizada-exige-nova-estrategia/).
 
