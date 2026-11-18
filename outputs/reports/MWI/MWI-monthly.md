@@ -3,9 +3,9 @@ title: Malawi — News, Oct – Nov 2026
 compiled: 2026-11-18
 period: 2026-10-01 to 2026-11-18
 place: MWI
-ledger_rows: 33
+ledger_rows: 34
 not_held: 28
-record: a28661c6b8b7
+record: aef0ff9a06c0
 ---
 
 # News, Oct – Nov 2026
@@ -71,6 +71,20 @@ Lands Minister Chimwemwe Chipungu said the ministry's Land Information Managemen
 **[Minister Chipungu reveals hackers targeted Malawi’s land database | Nyasa Times](https://www.nyasatimes.com/minister-chipungu-reveals-hackers-targeted-malawis-land-database/)** — Nyasa Times, 27 October 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulatory framework against online audiovisual piracy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MACRA Develops New Regulatory Framework to Tackle Online Audiovisual Piracy](https://techafricanews.com/2026/11/18/malawi-develops-new-regulatory-framework-to-tackle-online-audiovisual-piracy/)** — Tech Africa News, 18 November 2026
+
+Malawi's regulator MACRA has begun work on a framework against online audiovisual piracy, based on blocking by IP address, URL and domain name. It follows a stakeholder meeting held with technical help from MultiChoice and CANAL+, and a task force has been set up to refine it. No draft has been published.
 
 </div>
 
