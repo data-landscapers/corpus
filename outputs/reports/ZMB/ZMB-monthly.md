@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: ZMB
 ledger_rows: 32
 not_held: 32
-record: 81cf84c6ba64
+record: dc39744a7569
 ---
 
 # News, Oct – Nov 2026
@@ -304,7 +304,7 @@ The bureau of COMESA's central bank governors met in Lilongwe on 11 November 202
 
 **[Zambia Explores MTN MoMo Partnership to Simplify Government Payments](https://www.ecofinagency.com/news-digital/1611-60845-zambia-explores-mtn-momo-partnership-to-simplify-government-payments)** — Ecofin Agency, 16 November 2026
 
-SZI opens talks with MTN MoMo, 13 Nov 2026; mobile money for public fees, Kenya eCitizen and Tanzania GePG as models.
+The Smart Zambia Institute opened talks with MTN MoMo on adding mobile money to government digital services for public payments. The talks were announced on 13 November 2026.
 
 </div>
 

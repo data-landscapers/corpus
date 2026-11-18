@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: ETH
 ledger_rows: 37
 not_held: 5
-record: 8b6fdca358a2
+record: 088e9dc06ad9
 ---
 
 # News, Oct – Nov 2026
@@ -582,7 +582,7 @@ Ethiopia scored 2.12 out of 4 on the Africa AI Governance Index 2026, in the Dev
 
 **[Regulatory Sandbox — Directive No. FS/01/2026](https://www.nbe.gov.et/wp-content/uploads/2026/11/FS-01-2026-Regulatory-Sandbox-Directive.pdf)** — National Bank of Ethiopia, 1 November 2026
 
-In force 17 Nov 2026; admission, 12-month testing window, consumer and data-privacy safeguards, exit rules.
+The National Bank of Ethiopia issued a regulatory sandbox directive, in force from 17 November 2026. It sets who may apply, how applicants are admitted and how long testing lasts, up to 12 months with extension. It also sets consumer-protection and data-privacy safeguards and the rules for suspension and exit.
 
 </div>
 

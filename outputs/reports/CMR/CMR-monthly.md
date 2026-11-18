@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: CMR
 ledger_rows: 35
 not_held: 3
-record: 096ec3a2e582
+record: 250ba4d17d13
 ---
 
 # News, Oct – Nov 2026
@@ -272,7 +272,7 @@ The posts and telecoms minister inspected a PATNUC connectivity site at Campo Be
 
 **[Orange Cameroon commissions rural connectivity sites in Campo-Beach under PATNUC project](https://techreviewafrica.com/news/8365/orange-cameroon-commissions-rural-connectivity-sites-in-campo-beach-under-patnuc-project)** — Tech Review Africa, 17 November 2026
 
-40 of 120 white-zone sites live, all due by March 2027; World Bank-backed PATNUC rollout.
+Orange Cameroon commissioned rural connectivity sites in Campo-Beach on 13 November 2026. They belong to a programme to cover 120 underserved areas with 2G, 3G and 4G, under the World Bank-supported PATNUC project. Forty sites have been commissioned so far, and all 120 are due to operate by March 2027.
 
 </div>
 
@@ -286,7 +286,7 @@ The posts and telecoms minister inspected a PATNUC connectivity site at Campo Be
 
 **[Camtel Unveils CFA148 Billion Fiber Network Project, With Funding Details Still Unclear](https://www.businessincameroon.com/telecom/1711-17202-camtel-unveils-cfa148-billion-fiber-network-project-with-funding-details-still-unclear)** — Business in Cameroon, 17 November 2026
 
-BB4 backbone phase costed at CFA148bn; China Eximbank loan of CNY1.35bn covers about 73%; rest unexplained.
+Camtel announced on 16 November 2026 the launch of BB4, the three-year fourth phase of Cameroon's national fibre backbone, costed at CFA148bn including taxes. It said financing is available but did not say how. A March 2026 decree authorised a China Eximbank loan of about CFA108.4bn, which leaves about CFA39.6bn unexplained. Camtel's dispute with the regulator is covered in the network quality entry.
 
 </div>
 
@@ -300,7 +300,7 @@ BB4 backbone phase costed at CFA148bn; China Eximbank loan of CNY1.35bn covers a
 
 **[Netzwerkinfrastruktur und Backupverbindung | Ausschreibungsmeldung | Kamerun | Telekommunikations-, Navigationstechnik](https://www.gtai.de/de/trade/kamerun/ausschreibungen-projekte/netzwerkinfrastruktur-und-backupverbindung-1951644)** — Germany Trade & Invest (GTAI), 17 November 2026
 
-No bid met minimum requirements; LAN/SD-WAN and satellite-link lots for tax-office data centres; KfW-financed.
+Germany Trade & Invest posted on 17 November 2026 that a KfW-financed tender under Cameroon's tax-administration information-system programme was cancelled. The tender covered LAN and SD-WAN equipment and satellite links for the tax directorate's data centres and branches. No bid met the minimum requirements for either lot.
 
 </div>
 
@@ -358,7 +358,7 @@ The Port Autonome de Douala plans a two-hectare modular data centre, built for A
 
 **[Ausrüstung für Rechenzentren | Ausschreibungsmeldung | Kamerun | IKT](https://www.gtai.de/de/trade/kamerun/ausschreibungen-projekte/ausruestung-fuer-rechenzentren-1951646)** — Germany Trade & Invest (GTAI), 17 November 2026
 
-KfW-financed PMSI-DGI tender for network, server and backup kit cancelled 17 Nov 2026; no bid met minimum requirements.
+Germany Trade & Invest posted on 17 November 2026 that a KfW-financed tender for data-centre equipment for Cameroon's tax directorate was cancelled. The scope included network and security equipment, servers, storage and backup infrastructure. No bid met the minimum requirements. It belongs to the same programme as the cancelled network and backup-link tender.
 
 </div>
 

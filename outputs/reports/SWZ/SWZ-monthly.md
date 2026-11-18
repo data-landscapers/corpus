@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: SWZ
 ledger_rows: 41
 not_held: 3
-record: e61053e550d0
+record: b60f1867aad3
 ---
 
 # News, Oct – Nov 2026
@@ -54,7 +54,7 @@ record: e61053e550d0
 
 **[NEW HEALTH PLATFORM TO HELP GOVT ANTICIPATE MEDICINE STOCKOUTS - Eswatini Positive News](https://eswatinipositivenews.online/new-health-platform-to-help-govt-anticipate-medicine-stockouts/)** — Eswatini Positive News, 16 November 2026
 
-Strategy sets data-quality and interoperability rules; NHIP unifies clinical, supply-chain and community data.
+Eswatini's Ministry of Health launched a Health Strategic Information Strategy and a National Health Intelligence Platform on 16 November 2026. The platform brings together clinical, epidemiological, supply-chain and community data. The strategy sets rules for governance, data quality and interoperability.
 
 </div>
 
@@ -450,7 +450,7 @@ Summarised under [Registries](#registries).
 
 **[EYEOP Turns to Social Registry to Improve Targeting of 30,000 Youth Beneficiaries - FinGuard Magazine](https://www.finguardmagazine.com/business/eyeop-turns-to-social-registry-to-improve-targeting-of-30000-youth-beneficiaries/)** — FinGuard Magazine, 16 November 2026
 
-USD 2.5m of USD 27m IDA credit for registry and targeting; 11.67% disbursed; 4,000 youth to enrol in three months.
+Eswatini's World Bank-financed youth project EYEOP has begun field data collection for the National Dynamic Social Registry, which will select its 30,000 beneficiaries. USD 2.5 million of the USD 27 million IDA credit is set aside for social protection systems. USD 3.15 million, or 11.67%, has been disbursed.
 
 </div>
 

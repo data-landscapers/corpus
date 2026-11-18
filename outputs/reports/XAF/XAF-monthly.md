@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: XAF
 ledger_rows: 83
 not_held: 3
-record: 4daa05bf24a6
+record: 30038867a1bd
 ---
 
 # News, Oct – Nov 2026
@@ -634,7 +634,7 @@ Google named the ten start-ups in the first cohort of its Africa Applied AI Lab 
 
 **[Africa's Macroeconomic Performance and Outlook — Update, November 2026](https://www.afdb.org/sites/default/files/documents/publications/2026_africas_microeconoic_performance_and_outlook_update_english.pdf)** — African Development Bank, 13 November 2026
 
-AfDB lifts Africa's 2026 growth forecast to 4.6% and finds tech-led global growth yielding Africa limited gains.
+The African Development Bank raised its forecast for Africa's 2026 growth to 4.6%. It finds that tech-led global growth gives Africa limited gains. It cites an estimate of up to USD 1 trillion in AI productivity gains by 2035.
 
 </div>
 

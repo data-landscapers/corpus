@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: MAR
 ledger_rows: 36
 not_held: 13
-record: b91853ae8ef3
+record: d81b1159ce41
 ---
 
 # News, Oct – Nov 2026
@@ -166,7 +166,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[Cybersécurité au Maroc : 15 centres de surveillance en préparation, la loi en cours de révision](https://lematin.ma/nation/cybersecurite-15-centres-de-surveillance-prevus-la-loi-en-revision/376014)** — Le Matin, 16 November 2026
 
-15 SOCs funded by defence budget; cybersecurity law under revision; 31 of 72 public web apps critically flawed (2026).
+Morocco's national information-security directorate, the DGSSI, is preparing 15 security operations centres, funded from the defence administration budget. Minister Abdeltif Loudyi told the House of Representatives that the cybersecurity law is under revision. Of 72 public web applications assessed in 2026, 31 had critical vulnerabilities.
 
 </div>
 
@@ -262,7 +262,7 @@ Morocco's Bulletin officiel of 1 October 2026 published decrees approving two Wo
 
 **[Lors de la séance des questions orales tenue à la Chambre des représentants, M. Ahmed Rahhou a présenté les principales actions engagées par son département en matière de développement de l’intelligence artificielle ...](https://www.mmsp.gov.ma/fr/actualites/lors-de-la-s%C3%A9ance-des-questions-orales-tenue-%C3%A0-la-chambre-des-repr%C3%A9sentants-m-ahmed-rahhou-pr%C3%A9sent%C3%A9-les-principales-actions-engag%C3%A9es-par-son-d%C3%A9partement-en-mati%C3%A8re-de-d%C3%A9veloppement-de-l%E2%80%99intelligence-artificielle)** — Ministry of Artificial Intelligence, Digital Transformation and Administrative Reform, 16 November 2026
 
-Phase two broadband plan to reach 2,000 rural zones; MAD 2.5bn start-up financing target; Idarati and data exchange.
+Morocco's digital transition minister Ahmed Rahhou spoke to the House of Representatives on 16 November 2026. Phase two of the national broadband plan will cover 2,000 under-served rural zones. He cited a MAD 2.5 billion start-up financing target under the AI Made in Morocco roadmap. He also named national roaming across 7,000 zones and faster data exchange between administrations.
 
 </div>
 

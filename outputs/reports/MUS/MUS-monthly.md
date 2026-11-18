@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: MUS
 ledger_rows: 42
 not_held: 7
-record: a6b6e33e9cce
+record: 785087b13502
 ---
 
 # News, Oct – Nov 2026
@@ -264,7 +264,7 @@ Mauritius' ICT Authority opened a call for applications for a new mobile number 
 
 **[Veemal Gungadin, CEO de Mauritius Telecom : « L’IA, nouveau moteur de croissance pour MT »](https://www.lemauricien.com/le-mauricien/veemal-gungadin-ceo-de-mauritius-telecom-lia-nouveau-moteur-de-croissance-pour-mt/723262/)** — Le Mauricien, 15 November 2026
 
-Over Rs 1bn for AI compute incl. NVIDIA H200 and B300; My.TLearn tutor rollout from Grade 9 in 2027; 5G at 93%.
+Mauritius Telecom's chief executive Veemal Gungadin said the operator is committing over Rs 1 billion to AI computing. This includes NVIDIA H200 and B300 platforms. The My.TLearn AI tutor is planned for a first large rollout in 2027, from Grade 9. 5G covers about 93% of the population.
 
 </div>
 

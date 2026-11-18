@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: NGA
 ledger_rows: 130
 not_held: 8
-record: 05aef252712c
+record: 19797156d006
 ---
 
 # News, Oct – Nov 2026
@@ -146,7 +146,7 @@ Nigeria's NITDA opened a stakeholder review of its Strategic Roadmap and Action 
 
 **[Nigeria National EdTech Strategy (2026-2030)](https://education.gov.ng/wp-content/uploads/2026/11/Nigeria_National_EdTech_Strategy_FINAL_PRINT-V1.pdf)** — Federal Ministry of Education, Nigeria, 13 November 2026
 
-Ministry's final print; five pillars led by NEDI data interoperability, already deployed; 90-day action plan.
+The Federal Ministry of Education's National EdTech Strategy for 2026 to 2030 sets five pillars: data and interoperability, infrastructure, technology and procurement, teacher transformation, and governance. It says it will strengthen existing systems rather than create parallel programmes. The roadmap moves from mobilisation in late 2026 and 2027 to scale-up in 2028. The ministry's data platform, NEDI, is already collecting education data.
 
 </div>
 
@@ -494,7 +494,7 @@ Nigeria's trade minister, Jumoke Oduwole, told Reuters on 16 November 2026 that 
 
 **[FG pushes regional deal to prevent internet disruptions](https://punchng.com/fg-pushes-regional-deal-to-prevent-internet-disruptions/)** — The PUNCH, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Proposal at ITU PP-26 Doha; ITU Council re-election 2027-2030; Togo data park, Chad-Burkina-Benin links.
+Nigeria's communications ministry proposed a shared West African protocol to protect submarine cables, reroute traffic and coordinate repairs, in a statement of 16 November 2026. It advanced the proposal at the ITU Plenipotentiary Conference in Doha. Nigeria was also re-elected to the ITU Council for 2027 to 2030.
 
 </div>
 
@@ -1202,7 +1202,7 @@ NIMC's Identity Crime Enforcement Unit arrested suspected illegal NIN enrolment 
 
 **[Nigeria sets December 31 deadline for airlines to adopt V-Pass biometric checks](https://www.biometricupdate.com/202611/nigeria-sets-december-31-deadline-for-airlines-to-adopt-v-pass-biometric-checks)** — Biometric Update, 17 November 2026
 
-Airline integration deadline 2026-12-31; no NIN, no boarding from 2027-01-01; Verxid-run PPP with FAAN.
+Nigeria's aviation ministry unveiled the V-Pass facial-verification system, linked to the national identity number, for domestic flights in Lagos on 16 November 2026. Airlines have until 31 December 2026 to integrate it. Verxid delivers it under a concession with FAAN, starting at the Lagos and Abuja domestic terminals. From 1 January 2027, passengers without a valid number are to be denied boarding.
 
 </div>
 
@@ -1536,7 +1536,7 @@ Nigeria's electoral commission, INEC, said it had removed more than 1.6 million 
 
 **[INEC’s voter register cleanup raises questions about staff oversight](https://techcabal.com/2026/11/17/inec-cut-fake-photos-but-not-the-problem/)** — TechCabal, 17 November 2026
 
-54 registration staff in 10 states flagged (2026-11-11); webcam uploads replaced; AI policy still unpublished.
+INEC said on 11 November 2026 that it had flagged 54 registration personnel in 10 states for possible disciplinary action over voter-register irregularities, including AI-generated photographs. It is replacing external webcam uploads with in-app photo capture. Its chairman put invalid registrations removed at 1,608,660. TechCabal reports that INEC's AI policy remained unpublished.
 
 </div>
 
@@ -1922,7 +1922,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[From tonal markings to XML files: How Ubini is teaching machines to speak Edo language](https://techcabal.com/2026/11/17/ubini-teaching-machines-to-understand-edo/)** — TechCabal, 17 November 2026
 
-Bootstrapped Edo corpus since 2024; 20+ hours transcribed; targets 50 hours by Dec 2026 and 250 by 2029.
+Ubini, a bootstrapped Nigerian company founded in 2024, is building a digital corpus of Edo oral histories, recipes and cultural heritage. It has interviewed about 20 people and transcribed more than 20 hours of recordings. The aim is machine-readable data for language technology. TechCabal notes that few of Africa's more than 2,000 languages have the digital resources needed for AI.
 
 </div>
 
@@ -2272,7 +2272,7 @@ Nigeria's federal government plans to extend internet connectivity to public pri
 
 **[CITAD trains 51 women, girls in digital entrepreneurship in Bauchi](https://citadradio.com.ng/2026/11/16/citad-trains-51-women-girls-in-digital-entrepreneurship-in-bauchi/)** — CITAD Radio, 16 November 2026
 
-First batch toward 5,000 women in Kano and Bauchi; Gates Foundation via CARE SheConnects; 8-9 Nov 2026.
+CITAD trained 51 women and girls in digital entrepreneurship in Jama'are, Bauchi State, on 8 and 9 November 2026. It is the first batch of a Gates Foundation-backed project, with a target of 5,000 across Kano and Bauchi. The programme runs under CARE's SheConnects Digital Accelerator.
 
 </div>
 

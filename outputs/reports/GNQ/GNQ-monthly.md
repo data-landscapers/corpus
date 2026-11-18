@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: GNQ
 ledger_rows: 21
 not_held: 6
-record: d4dd6eb9a3e2
+record: fdb6489038c5
 ---
 
 # News, Oct – Nov 2026
@@ -238,7 +238,7 @@ Equatorial Guinea's government approved on 11 November 2026 the second of three 
 
 **[El Ministerio de Sanidad e Infraestructuras Sanitarias refuerza su gestión digital con las plataformas TRANSDOC y DHIS2](https://www.undp.org/es/equatorial-guinea/noticias/el-ministerio-de-sanidad-e-infraestructuras-sanitarias-refuerza-su-gestion-digital-con-las-plataformas-transdoc-y-dhis2)** — UNDP Equatorial Guinea, 16 November 2026
 
-DHIS2 live in 18 health districts; joint programme ends 31 Dec 2026, government to fund connectivity from 2027.
+Equatorial Guinea's Ministry of Health and UNDP launched the TRANSDOC document-management system on 16 November 2026. They also handed over a DHIS2 health information platform covering 18 health districts. UNDP asked the government to budget for the platforms' internet costs from 1 January 2027, when the joint health-system programme ends.
 
 </div>
 

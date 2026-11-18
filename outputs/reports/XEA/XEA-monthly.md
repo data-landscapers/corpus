@@ -1,11 +1,11 @@
 ---
 title: East Africa — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: XEA
 ledger_rows: 19
 not_held: 0
-record: 76bb9416e285
+record: 859fd53e698a
 ---
 
 # News, Oct – Nov 2026
@@ -326,7 +326,7 @@ IGAD's World Bank-backed Food Systems Resilience Program held a four-day regiona
 
 **[El Niño zieht auf: Können geteilte Daten fast eine Million Menschen schützen?](https://www.bmz-digital.global/el-nino-zieht-auf-koennen-geteilte-daten-fast-eine-million-menschen-schuetzen/)** — BMZ Digital.Global, 16 November 2026
 
-Tana, Kagera, Mara, Ruvu basins; 44 stakeholders; prototype covers ~980,000 people at ~94% forecast accuracy.
+UNEP and the EU-BMZ Data Economy initiative built EA-READY, a prototype flood early-warning dashboard. It pools river and rainfall data from the Tana, Kagera, Mara and Ruvu basins across Kenya, Rwanda, Tanzania and Uganda. Consultations with 44 stakeholders found the data held in separate institutions under incompatible formats and access rules. The demonstration covers about 980,000 people.
 
 </div>
 

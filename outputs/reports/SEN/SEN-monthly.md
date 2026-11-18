@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: SEN
 ledger_rows: 56
 not_held: 2
-record: 537385a2d1a2
+record: a6677889d820
 ---
 
 # News, Oct – Nov 2026
@@ -312,7 +312,7 @@ At the opening of Senegal's 2026–2027 parliamentary session on 13 October 2026
 
 **[PASSANT project: dismissals and audit at SENUM SA](https://www.socialnetlink.org/2026/11/16/passant-project-senum-sa-managers-dismissed-fibre/)** — Socialnetlink, 16 November 2026
 
-CFA 50bn Liteyca fibre contract never accepted; SENUM claims CFA 24bn loss; ARCOP audit found execution unsatisfactory.
+Senegal's state IT company SENUM SA dismissed three managers over the stalled PASSANT government fibre project. The contract was worth CFA 50,000,838,369 and was awarded to Spain's Liteyca in 2019 by unsolicited bid. SENUM puts the loss at CFA 24 billion, based on a second audit that has not been published. A November 2024 audit by the procurement regulator ARCOP found the execution unsatisfactory, with about CFA 5 billion in penalties unapplied.
 
 </div>
 
@@ -406,7 +406,7 @@ Senegal's digital and health ministries said on 4 November 2026 that they are jo
 
 **[Where is Senegal’s data stored? A state data centre at 31% capacity, everyday apps hosted abroad and a 2008 privacy law](https://novotech.blog/en/article/where-is-senegal-s-data-stored-a-state-data-centre-at-31-capacity-everyday-apps)** — NovoTech, 16 November 2026
 
-Diamniadio at 31% use per SENUM; Wave and Orange Money hosting undisclosed; Law 25/2026 decrees unpublished.
+A NovoTech analysis reports that Senegal's state data centre at Diamniadio is 31% used. SENUM SA gives 81% and 93% for the state's two older sites. Wave and Orange Money do not disclose where customer data is stored. The 2008 personal data law has not been reformed. Decrees for the 2026 law on local storage of public data have not been published.
 
 </div>
 
@@ -452,7 +452,7 @@ Senegal's cybersecurity directorate, the DCSSI, put online a new institutional p
 
 **[État civil : 77 % des 629 centres déjà équipés du logiciel de gestion, selon le directeur général de l’ANEC - APS](https://aps.sn/etat-civil-77-des-629-centres-deja-equipes-du-logiciel-de-gestion-selon-le-directeur-general-de-lanec/)** — Agence de Presse Sénégalaise (APS), 16 November 2026
 
-Consular rollout for the diaspora planned early 2027, not yet started; national consultations 5-12 December 2026.
+Senegal's civil registry agency ANEC said on 16 November 2026 that its certified civil-status software is in 77% of the 629 centres at home. It will extend to consular posts abroad from early 2027, and the diaspora function is built and awaiting tests. National consultations on civil status are set for 5 to 12 December 2026.
 
 </div>
 

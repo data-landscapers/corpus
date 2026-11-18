@@ -1,11 +1,11 @@
 ---
 title: Gambia — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: GMB
 ledger_rows: 20
 not_held: 2
-record: f7dfbc503bc3
+record: 390a014c4023
 ---
 
 # News, Oct – Nov 2026
@@ -294,7 +294,7 @@ The World Bank Group announced on 13 November 2026 that its E-GATE e-commerce pr
 
 **[Gambia to Open University Innovation Hub to Turn Research Into Products](https://www.ecofinagency.com/news-services/1611-60858-gambia-to-open-university-innovation-hub-to-turn-research-into-products)** — Ecofin Agency, 16 November 2026
 
-UNDP-backed UniPod at USET opens 18 Nov 2026; first NRIF round GMD15m to 17 projects; R&D under 0.1% of GDP.
+The Gambia's first National Research and Innovation Fund round gave GMD15 million to 17 of 159 applicant projects. Vice-President Jallow announced it on 29 October 2026. A UNDP-financed University Innovation Pod was due to open on 18 November 2026 at USET's Kanifing campus. It has AI, robotics and prototyping labs.
 
 </div>
 
@@ -334,7 +334,7 @@ Summarised under [New investments](#new-investments).
 
 **[GICTA, WARDIP Launch Digital Engineering Training for Government ICT Personnel - senigambia](https://senigambia.com/gicta-wardip-launch-digital-engineering-training-for-government-ict-personnel/)** — Senigambia, 16 November 2026
 
-Two-week AI and software-engineering course; in-house cabinet management system the target; World Bank-financed.
+GICTA opened a two-week training programme in AI and software engineering for government ICT staff, financed by the World Bank's WARDIP project. It aims to produce in-house government systems, including a cabinet management system. Director General Abdou Karim Jallow said it should be built locally so that sensitive cabinet documents stay off external platforms.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: MLI
 ledger_rows: 19
 not_held: 1
-record: f976fa3fbb7d
+record: 3a30d2569293
 ---
 
 # News, Oct – Nov 2026
@@ -198,7 +198,7 @@ New BCEAO rules on interoperable transfers took effect in Mali on 2 November 202
 
 **[Numérique : 545 tablettes remises pour étendre la plateforme de paiement TresorPay](https://malijet.com/actualite_economique_du_mali/312858-numerique-545-tablettes-remises-pour-etendre-la-plateforme.html)** — Malijet, 16 November 2026
 
-160 to security, 150 territorial administration, 100 each to higher education and transport, 35 to the APDP.
+Mali's Ministry of Economy and Finance handed over 545 tablets on 16 November 2026 to extend the TresorPay public payment platform. The largest shares went to the security ministry (160), territorial administration (150), higher education (100) and transport (100). The data protection authority APDP received 35.
 
 </div>
 

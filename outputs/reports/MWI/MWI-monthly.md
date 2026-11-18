@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: MWI
 ledger_rows: 33
 not_held: 28
-record: 413904358ac3
+record: a28661c6b8b7
 ---
 
 # News, Oct – Nov 2026
@@ -370,7 +370,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Businesses face December 31 deadline - Malawi24](https://malawi24.com/2026/11/16/businesses-face-december-31-deadline/)** — Malawi24, 16 November 2026
 
-Pre-portal companies and trustees must re-register online by 31 Dec 2026 or lose recognition and face strike-off.
+Malawi's business registry CRIPC set a deadline of 31 December 2026 for every company, business name and incorporated trustee registered before its online portal to re-register on it. Older certificates without a QR code will stop being recognised by banks and regulators. Businesses that do not re-register face removal from the register.
 
 </div>
 

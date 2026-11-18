@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: ZAF
 ledger_rows: 114
 not_held: 17
-record: 47fb124e66bc
+record: f07cf7388215
 ---
 
 # News, Oct – Nov 2026
@@ -454,7 +454,7 @@ Amazon Leo said it has applied for licences to bring a direct-to-device satellit
 
 **[Telkom signs Amazon Leo satellite distribution deal](https://www.itweb.co.za/article/telkom-signs-amazon-leo-satellite-distribution-deal/JBwErvn3jbl76Db2)** — ITWeb South Africa, 17 November 2026
 
-Sold via Openserve, BCX and Telkom Business; up to 1Gbps down; Starlink still without ICASA licences (Nov 2026).
+Telkom, through its Openserve unit, signed an agreement on 17 November 2026 to distribute Amazon Leo low-Earth-orbit satellite broadband in South Africa. Customers will be enterprises, eligible public-sector bodies and small businesses. The service is also intended for cellular-site backhaul.
 
 </div>
 
@@ -672,7 +672,7 @@ Continent 8 Technologies, which hosts online gaming and betting operators, annou
 
 **[Teraco brings wind power into SA data centre mix](https://www.itweb.co.za/article/teraco-brings-wind-power-into-sa-data-centre-mix/mQwkoq6YrAnM3r9A)** — ITWeb South Africa, 17 November 2026
 
-Sediba R2.25bn on green loans, 354GWh a year; Scafell upgrade frees 380MVA; 100% renewable target by 2035.
+Teraco began receiving wheeled wind power from a contracted independent power producer at its Cape Town data centres in September 2026. It sits within an R3.5 billion self-build solar programme. The 120MW Sediba plant in the Free State is due to be connected to the grid in December 2026.
 
 </div>
 
@@ -1578,7 +1578,7 @@ South Africa's Electoral Commission used 56,000 voter management devices in the 
 
 **[PRASA puts people at the centre of its digital transformation strategy](https://www.itweb.co.za/article/prasa-puts-people-at-the-centre-of-its-digital-transformation-strategy/VgZeyqJlDEJ7djX9)** — ITWeb South Africa, 17 November 2026
 
-Launched 17 Nov 2026 at Park Station; Western Cape purchase pilot from 25 Nov; AI-assisted enquiries planned.
+PRASA launched three digital passenger channels on 17 November 2026: the myprasa.com City to City site, WhatsApp and the PRASA Connect app. Registered card holders can load weekly and monthly travel remotely. Ticket purchase will be piloted in the Western Cape from 25 November 2026.
 
 </div>
 

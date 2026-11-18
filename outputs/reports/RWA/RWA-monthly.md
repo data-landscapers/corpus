@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: RWA
 ledger_rows: 38
 not_held: 7
-record: 078be127bfbb
+record: 73b9026454bb
 ---
 
 # News, Oct – Nov 2026
@@ -394,7 +394,7 @@ The National Bank of Rwanda's governor told the IMF-World Bank annual meetings t
 
 **[Press Release on the Proof of Concept of Cross-Border Remittance Services between the Kingdom of Cambodia and the Republic of Rwanda](https://www.bnr.rw/documents/Joint_PR_Cross_border_payment_between_Cambodia_and_Rwanda.pdf)** — National Bank of Rwanda and National Bank of Cambodia, 15 November 2026
 
-Bakong-eKash link, Cambodia to Rwanda; ACLEDA correspondent, I&M Bank Rwanda settlement; Black Swan Summit launch.
+The National Bank of Rwanda and the National Bank of Cambodia launched a proof-of-concept payment link on 15 November 2026 in Phnom Penh. It connects Cambodia's Bakong system with Rwanda's eKash, operated by R-Switch. Customers in Cambodia can send money to Rwandan bank accounts and wallets through ACLEDA Bank and I&M Bank Rwanda. The release gives no fees, limits, reverse-transfer service or public-access date.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: EGY
 ledger_rows: 70
 not_held: 35
-record: 0fd3f67d39cc
+record: 56176dc74c2b
 ---
 
 # News, Oct – Nov 2026
@@ -680,7 +680,7 @@ Orange Egypt and the UAE fintech Botim announced on 20 October 2026 a UAE-to-Egy
 
 **[President El-Sisi Meets the Prime Minister and the Minister of Planning and Economic Development](https://www.presidency.eg/en/%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/news15112026/)** — Presidency of the Arab Republic of Egypt, 15 November 2026
 
-E-payment for public services to reach Egyptians at home and abroad; Sisi orders digital tools to automate services.
+Egypt's planning minister Ahmed Rustom presented President El-Sisi with a plan to introduce and expand electronic payment tools for public services, open to citizens at home and abroad. The plan follows the outcomes of Egypt Forum 2026. The president directed an immediate study and development of digital tools to automate citizen services.
 
 </div>
 
@@ -1080,7 +1080,7 @@ Egypt's Public Prosecution opened an AI data centre at the Prosecutor-General's 
 
 **[ICT Minister Witnesses Signing of Tripartite MoU on Collaboration in AI, Cloud Computing](https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/121644)** — Ministry of Communications and Information Technology (Egypt), 16 November 2026
 
-e& Business to offer pay-per-use GPU compute in-country; startup access via Startup Egypt; no sum stated.
+e& Business, M-Empire Angels and Startup Egypt signed a tripartite memorandum of understanding on 16 November 2026. ICT minister Raafat Hendy witnessed it. e& Business is to offer GPU-as-a-Service in Egypt, with pay-per-use GPU computing for companies and startups training AI models. The ministry presents it as part of the second National AI Strategy. No sum was stated.
 
 </div>
 

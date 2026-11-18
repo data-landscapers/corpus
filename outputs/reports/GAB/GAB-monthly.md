@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: GAB
 ledger_rows: 42
 not_held: 11
-record: 9427a470b185
+record: e37b8e54ccd0
 ---
 
 # News, Oct – Nov 2026
@@ -256,7 +256,7 @@ Gabon's incumbent operator and the digital-economy ministry signed a convention 
 
 **[Fibre optique : le Gabon confie l’exploitation du réseau Lambaréné–Mouila à Gabon Fiber](https://techies.ga/article/fibre-optique-le-gabon-confie-lexploitation-du-reseau-lambarenemouila-a-gabon-fiber)** — Techies, 16 November 2026
 
-Gabon Fiber operates it from 16 Nov 2026; FCFA 3bn mobilised via Moov Africa off-budget; backbone target 3,433 km.
+Gabon Fiber took over operation, maintenance and sales of the Lambaréné–Fougamou–Mouila fibre section on 16 November 2026, under a partnership concluded on 14 September 2026. Digital-economy minister Mark-Alexandre Doumba said the Moov Africa Gabon Telecom partnership raised FCFA 3 billion without state budget funds. It is meant to extend the national backbone from 1,782 to 3,433 km.
 
 </div>
 
