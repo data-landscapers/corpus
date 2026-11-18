@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: KEN
-ledger_rows: 109
+ledger_rows: 110
 not_held: 5
-record: d1444ab2fd65
+record: 64f91a918cf3
 ---
 
 # News, Oct – Nov 2026
@@ -387,6 +387,14 @@ ISO lists the Kenya Bureau of Standards (KEBS), set up under the Standards Act i
 **[AI Governance Fragmentation Cause For Concern](https://cioafrica.co/ai-governance-fragmentation-cause-for-concern/)** — CIO Africa, 12 November 2026
 
 Lawyers at Bowmans, writing in CIO Africa on 12 November 2026, warn that Kenya's AI rules risk overlapping mandates. They list the National AI Strategy of March 2025 and a draft AI policy published for comment in July 2026. A draft data governance policy and a private member's AI Bill are also in play. The Central Bank of Kenya published draft guidance on AI in banking in September 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governing AI in Kenya's Banking Sector: Inside CBK's Draft Guidance Notes on Artificial Intelligence](https://cipit.strathmore.edu/governing-ai-in-kenyas-banking-sector-inside-cbks-draft-guidance-notes-on-artificial-intelligence/)** — CIPIT, Strathmore University, 18 November 2026
+
+CBK draft of 10 Sept 2026: board AI committees, approval before deployment; analyst flags PSP exclusion, consent basis.
 
 </div>
 
@@ -1818,6 +1826,8 @@ Safaricom said Fuliza, its M-PESA overdraft service, earned KES 4.9 billion in t
 <a href="#national-statistics">National statistics</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#open-data">Open data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geospatial-data">Geospatial data</a>
 </nav>
 
 ### National statistics
@@ -1847,6 +1857,22 @@ Kenya drafted its second Inclusive Data Charter action plan, for 2026 to 2030, a
 **[Who owns Indigenous data? Kenyan communities demand more control](https://nation.africa/kenya/climate/who-owns-indigenous-data-kenyan-communities-demand-more-control-5641966)** — Daily Nation, 22 October 2026
 
 Indigenous communities from northern Kenya presented a community-based monitoring and information system at the biodiversity COP17 in Yerevan, developed with the organisation IMPACT, to record traditional knowledge of grazing, water and wildlife digitally. They want that data recognised in national biodiversity reporting while staying under community control.
+
+</div>
+
+</div>
+
+### Geospatial data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Earth Observation Innovation Labs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Governance in Africa – Supporting development-oriented and human-centric data regulation, use and infrastructure in Africa](https://www.expertisefrance.fr/en/projects/data-governance-africa-supporting-development-oriented-and-human-centric-data-regulation)** — Expertise France, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+EUR 60m EU Global Gateway programme; customs and tax AI in Benin, Côte d'Ivoire, Senegal; Kenya EO labs.
 
 </div>
 
