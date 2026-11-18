@@ -3,9 +3,9 @@ title: East Africa — News, Oct – Nov 2026
 compiled: 2026-11-18
 period: 2026-10-01 to 2026-11-18
 place: XEA
-ledger_rows: 19
+ledger_rows: 20
 not_held: 0
-record: 859fd53e698a
+record: c6a879e864fb
 ---
 
 # News, Oct – Nov 2026
@@ -295,6 +295,20 @@ East African Community health ministers, ending their 26th meeting in Arusha on 
 **[Built to Evolve: What HUSIKA Shows About Modular Digital Infrastructure](https://govstack.global/news/built-to-evolve-what-husika-shows-about-modular-digital-infrastructure/)** — GovStack, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a>
 
 GovStack published an account on 9 November 2026 of HUSIKA, a platform that passes climate and early-warning information from producing institutions to media, authorities and communities. It lists active deployments in 11 countries, across web, SMS and Telegram. South Sudan's Meteorological Service used it in a journalist training and an official said it replaced door-to-door printed posters.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EU-EAC DEEP programme (digital-trade and DPI technical-assistance tenders)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EAC and ESTDEV sign cooperation agreement to advance the development of regional cross-border public e-services](https://www.estdev.ee/en/articles/eac-and-estdev-sign-cooperation-agreement-advance-development-regional-cross-border-public)** — Estonian Centre for International Development (ESTDEV), 18 November 2026
+
+The EAC Secretariat and Estonia's ESTDEV signed a cooperation agreement under the EU-EAC DEEP Programme, announced by ESTDEV on 18 November 2026 without a signing date. ESTDEV is to develop use cases for cross-border data exchange and digital identity, and regulatory frameworks for cross-border public e-services. DEEP is co-funded by the EU, Germany, France and Estonia.
 
 </div>
 
