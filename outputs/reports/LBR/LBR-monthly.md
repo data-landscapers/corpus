@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: LBR
-ledger_rows: 29
+ledger_rows: 30
 not_held: 6
-record: 95627b802eca
+record: c5ff6cf9a807
 ---
 
 # News, Oct – Nov 2026
@@ -294,6 +294,22 @@ A House joint committee closed its third hearing on the US$52 million ID concess
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[House Rejects US$52M National ID Deal](https://www.liberianobserver.com/news/house-rejects-us-52m-national-id-deal/article_ecd65d31-e686-4b92-9626-4d2fee6c9358.html)** — Liberian Observer, 18 November 2026
+
+Liberia's House of Representatives voted unanimously to reject a US$52 million biometric ID concession with OeSD International GmbH. It acted on an adverse joint committee report on procurement, revenue sharing, local participation and control of biometric data. The Biometric Update entry gives the committee's findings in more detail.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberian Parliament rejects $52M national digital ID contract proposal](https://www.biometricupdate.com/202611/liberian-parliament-rejects-52m-national-digital-id-contract-proposal)** — Biometric Update, 18 November 2026
+
+Liberia's House sent a $52 million biometric ID concession with Austria's OeSD International back to the president for renegotiation. A joint committee listed more than 40 deficiencies, including a PPCC order for open international bidding that was ignored. Minutes of a June meeting record World Bank officials' view that the existing ID system was a cheaper route.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -321,6 +337,20 @@ Liberia's refugee commission, the National Identification Registry and Immigrati
 **[Liberia’s Instant Payment System Crosses 5.3M Transactions](https://www.liberianobserver.com/business/liberia-s-instant-payment-system-crosses-5-3m-transactions/article_b75bc316-97ae-459f-840d-c2822b8e7a84.html)** — Liberian Observer, 1 October 2026
 
 Liberia's instant payment system has processed more than 5.3 million transactions between the two mobile money operators since its December 2025 launch, the central bank governor said. About 4.2 million were in Liberian dollars and 1.1 million in US dollars.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS regional payment system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria, Ghana proposed as hosts for ECOWAS regional payment system](https://nairametrics.com/2026/11/18/nigeria-ghana-proposed-as-hosts-for-ecowas-regional-payment-system/)** — Nairametrics, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+A consultant to the ECOWAS regional payment initiative has proposed that Nigeria host instant payments, the BCEAO real-time gross settlement and Ghana the backup. Central Bank of Liberia Governor Henry Saamoi described the proposal in Balaclava, Mauritius, on 18 November 2026 and backed it. The settlement currency and operating details have not been decided.
 
 </div>
 
