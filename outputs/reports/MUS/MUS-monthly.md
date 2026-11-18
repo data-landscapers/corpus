@@ -3,9 +3,9 @@ title: Mauritius — News, Oct – Nov 2026
 compiled: 2026-11-18
 period: 2026-10-01 to 2026-11-18
 place: MUS
-ledger_rows: 42
+ledger_rows: 43
 not_held: 7
-record: 785087b13502
+record: d582fc64d340
 ---
 
 # News, Oct – Nov 2026
@@ -14,6 +14,8 @@ record: 785087b13502
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -223,6 +225,28 @@ AFRINIC's receiver served a notice on Mauritius's Registrar of Companies on 29 O
 **[Cloud Innovation Statement on AFRINIC Member Rights](https://cloudinnovation.org/newsroom/afrinic-must-respect-members-rights/)** — Cloud Innovation, 1 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Cloud Innovation rejected AFRINIC's demand, made through the receiver's notice of 29 October 2026, to remove it from the company register. It cites a Mauritius Supreme Court order of 11 June 2025 directing AFRINIC to record it as a member. It asks that every resource member be entered in the register with the rights company law gives members.
+
+</div>
+
+</div>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+</nav>
+
+### MoUs and other agreements
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cassava and Mauritius Telecom AI memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cassava Technologies and Mauritius Telecom Partner to Expand AI Services Across Africa](https://techafricanews.com/2026/11/18/cassava-and-mauritius-telecom-partner-to-expand-ai-services-across-africa/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Cassava Technologies and Mauritius Telecom signed a memorandum of understanding at Africa Tech Festival in Cape Town. Mauritius Telecom is to explore using Cassava's Cape Town AI Factory and CAIMEx models as on-demand compute. They will also assess its myt Learn AI tutor for South African schools; no sum was disclosed.
 
 </div>
 
