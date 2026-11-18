@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: GHA
-ledger_rows: 76
+ledger_rows: 77
 not_held: 9
-record: 3219de19ae07
+record: ddd3d087a350
 ---
 
 # News, Oct – Nov 2026
@@ -907,6 +907,20 @@ Bank of Ghana Governor Johnson Pandit Asiama opened the reconstituted Payment Sy
 **[Press Release – Bank of Ghana Announces Successful Completion of Cross-Border Trade Using Digital Credentials](https://www.bog.gov.gh/news/press-release-bank-of-ghana-announces-successful-completion-of-cross-border-trade-using-digital-credentials/)** — Bank of Ghana, 5 November 2026
 
 The Bank of Ghana said on 5 November 2026 that it and the Monetary Authority of Singapore had completed the first proof of concept under Project DESFT (Digital Economy Semi-Fungible Token). The bank says the pilot demonstrated digital credentials for international trade and cross-border payment. The one-paragraph release names no participants, scope or next phase.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS regional payment system, backup site</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria, Ghana proposed as hosts for ECOWAS regional payment system](https://nairametrics.com/2026/11/18/nigeria-ghana-proposed-as-hosts-for-ecowas-regional-payment-system/)** — Nairametrics, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+A consultant to the ECOWAS regional payment initiative has proposed that Nigeria host instant payments, the BCEAO real-time gross settlement and Ghana the backup. Central Bank of Liberia Governor Henry Saamoi described the proposal in Balaclava, Mauritius, on 18 November 2026 and backed it. The settlement currency and operating details have not been decided.
 
 </div>
 
