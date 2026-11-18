@@ -3,9 +3,9 @@ title: South Africa — News, Oct – Nov 2026
 compiled: 2026-11-18
 period: 2026-10-01 to 2026-11-18
 place: ZAF
-ledger_rows: 114
+ledger_rows: 120
 not_held: 17
-record: f07cf7388215
+record: 40f022a91fe9
 ---
 
 # News, Oct – Nov 2026
@@ -333,8 +333,26 @@ The South African Bureau of Standards published draft AI standards for comment, 
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#new-investments">New investments</a>
 </nav>
+
+### MoUs and other agreements
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cassava Technologies and Mauritius Telecom AI memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cassava Technologies and Mauritius Telecom Partner to Expand AI Services Across Africa](https://techafricanews.com/2026/11/18/cassava-and-mauritius-telecom-partner-to-expand-ai-services-across-africa/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
+
+Cassava Technologies and Mauritius Telecom signed a memorandum of understanding at Africa Tech Festival in Cape Town. Mauritius Telecom is to explore using Cassava's Cape Town AI Factory and CAIMEx model platform as on-demand compute for its AI services. The two will also assess offering its myt Learn AI tutoring platform to South African schools; no sum was disclosed.
+
+</div>
+
+</div>
 
 ### New investments
 
@@ -646,6 +664,48 @@ Ookla reported on 16 November 2026 that South Africa's 5G footprint has widened 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CMC Networks EMEA-R corridor</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nokia powers CMC Networks’ EMEA-R corridor, connecting key hubs across Europe, the Middle East and Africa](https://www.nokia.com/newsroom/nokia-powers-cmc-networks-emea-r-corridor-connecting-key-hubs-across-europe-the-middle-east-and-africa/)** — Nokia, 18 November 2026
+
+Nokia said its optical transport equipment carries CMC Networks' new EMEA-R corridor, which links Johannesburg and Cape Town with London, Frankfurt, Marseille and Jeddah. The first phase runs from Johannesburg to London via Cape Town and the Atlantic. It offers dedicated IPLC capacity at 1G, 10G and 100G.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NAPAfrica internet exchange</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa’s biggest Internet exchange point hits 7Tbps and gets 800Gbps ports](https://www.mybroadband.co.za/news/cloud-hosting/678481-south-africas-biggest-internet-exchange-point-hits-7tbps-and-gets-800gbps-ports.html)** — MyBroadband, 18 November 2026
+
+Teraco said peak traffic at its NAPAfrica Internet exchange point passed 7Tbps, against 6Tbps a year earlier, with more than 690 networks connected. It announced investment in 800G member ports. Teraco named content delivery networks and cloud operators as the source of the growth.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Réunion to South Africa submarine cable</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ReuNION plans subsea cable linking La Reunion to South Africa and Singapore](https://developingtelecoms.com/telecom-technology/optical-fixed-networks/21151-reunion-plans-subsea-cable-linking-la-reunion-to-south-africa-and-singapore.html)** — Developing Telecoms, 18 November 2026
+
+The ReuNION consortium, whose members include Orange, Free, Reunicable, Telco OI and Zeop, has begun marine surveys for an open-access subsea cable from La Réunion to South Africa. The 16-fibre-pair system is to be laid in 2027 and 2028, with provisional acceptance early in 2029 and a first phase funded by the EU. An extension to Singapore with 24 pairs is at an early stage.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -657,6 +717,20 @@ Ookla reported on 16 November 2026 that South Africa's 5G footprint has widened 
 **[Continent 8 Technologies launches data center in Johannesburg, South Africa](https://www.datacenterdynamics.com/en/news/continent-8-technologies-launches-data-center-in-johannesburg-south-africa/)** — Data Center Dynamics, 5 October 2026
 
 Continent 8 Technologies, which hosts online gaming and betting operators, announced its first African data centre, in Johannesburg. It did not disclose the site or any colocation partner.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Realty Innovation Lab, Johannesburg</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Teraco introduces Africa’s first dedicated AI infrastructure innovation lab](https://www.teraco.co.za/news/teraco-introduces-africas-first-dedicated-ai-infrastructure-innovation-lab/)** — Teraco, 16 November 2026
+
+JB3, Isando: test bed for 150kW+ cabinets and liquid cooling; fourth Digital Realty lab after London, Virginia, Tokyo.
 
 </div>
 
@@ -1939,6 +2013,20 @@ South Africa and China are advancing plans for an AI Talent Development and Inno
 **[SASSETA invests R15m in Northlink College digitalisation hub](https://www.itweb.co.za/article/sasseta-invests-r15m-in-northlink-college-digitalisation-hub/KWEBb7yL2jZvmRjO)** — ITWeb South Africa, 13 November 2026
 
 South Africa's sector training authority SASSETA invested R15 million in a digitalisation hub at Northlink College. The hub offers training in cyber security, cloud computing, AI, data analysis and software development. It was launched with Higher Education Minister Buti Manamela.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CAPEability AI (Western Cape)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Microsoft, WCape to prepare residents for AI economy](https://www.itweb.co.za/article/microsoft-wcape-to-prepare-residents-for-ai-economy/5yONP7Erj8QMXWrb)** — ITWeb South Africa, 18 November 2026
+
+The Western Cape Government and Microsoft launched CAPEability AI, a programme of AI and digital-skills training for residents aged 18 to 35. It runs through Microsoft Elevate at 83 e-Centres and 375 public library service points. The programme is tied to the province's Growth for Jobs strategy for 2023 to 2035.
 
 </div>
 
