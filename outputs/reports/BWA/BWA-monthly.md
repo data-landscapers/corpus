@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: BWA
-ledger_rows: 21
+ledger_rows: 22
 not_held: 5
-record: d4b5aa67297a
+record: 83a5774387c6
 ---
 
 # News, Oct – Nov 2026
@@ -77,6 +77,20 @@ The ITU Plenipotentiary Conference in Doha elected 13 African countries to the I
 **[Huawei, Orange partner to accelerate digital transformation](https://www.mmegi.bw/ampArticle/124593)** — Mmegi Online, 4 November 2026
 
 Orange Botswana and Huawei Technologies Botswana signed a memorandum of understanding that extends their cooperation to intelligent networks, AI, cloud, enterprise solutions and data infrastructure. It builds on Orange Botswana's Tier III-certified data centre. No sum is stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BoFiNet and EIMC smart schools memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BoFiNet, EIMC accelerate development of smart schools](https://www.mmegi.bw/ampArticle/124743)** — Mmegi, 18 November 2026
+
+Botswana Fibre Networks and the Education Infrastructure and Management Company signed a memorandum on smart school infrastructure the week before 18 November 2026. It covers school connectivity, campus networks, hosting, cybersecurity and maintenance, under a joint working committee. It includes UPICtv, a streaming platform hosted in Botswana that BoFiNet says keeps data under national jurisdiction.
 
 </div>
 
