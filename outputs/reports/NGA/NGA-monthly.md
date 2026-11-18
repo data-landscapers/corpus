@@ -3,9 +3,9 @@ title: Nigeria — News, Oct – Nov 2026
 compiled: 2026-11-18
 period: 2026-10-01 to 2026-11-18
 place: NGA
-ledger_rows: 130
+ledger_rows: 131
 not_held: 8
-record: 19797156d006
+record: 2a1fb038ed88
 ---
 
 # News, Oct – Nov 2026
@@ -147,6 +147,14 @@ Nigeria's NITDA opened a stakeholder review of its Strategic Roadmap and Action 
 **[Nigeria National EdTech Strategy (2026-2030)](https://education.gov.ng/wp-content/uploads/2026/11/Nigeria_National_EdTech_Strategy_FINAL_PRINT-V1.pdf)** — Federal Ministry of Education, Nigeria, 13 November 2026
 
 The Federal Ministry of Education's National EdTech Strategy for 2026 to 2030 sets five pillars: data and interoperability, infrastructure, technology and procurement, teacher transformation, and governance. It says it will strengthen existing systems rather than create parallel programmes. The roadmap moves from mobilisation in late 2026 and 2027 to scale-up in 2028. The ministry's data platform, NEDI, is already collecting education data.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Launches National EdTech Strategy to Improve Learning Outcomes](https://techafricanews.com/2026/11/18/nigeria-launches-national-edtech-strategy-improve-learning-outcomes/)** — Tech Africa News, 18 November 2026
+
+Tijani announces launch; framework for investment and local EdTech; Mastercard Foundation and World Bank credited.
 
 </div>
 
@@ -773,6 +781,14 @@ Nigeria, the European Union and the EBRD signed a EUR 14 million grant for the p
 **[FG to deploy 3,700 telecom towers to connect 20m Nigerians](https://www.vanguardngr.com/2026/10/fg-to-deploy-3700-telecom-towers-to-connect-20m-nigerians/)** — Vanguard, 16 October 2026
 
 Communications Minister Bosun Tijani commissioned the first tower of Nigeria's National Universal Communications Access Programme in Bende, Abia State, on 16 October 2026. The programme plans 3,700 towers to reach about 20 million Nigerians without phone or internet service, and the Deputy Speaker named 16 more Bende locations needing coverage.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Activates Two NUCAP Connectivity Towers in Delta State](https://techafricanews.com/2026/11/18/nigeria-activates-two-nucap-connectivity-towers-delta-state/)** — Tech Africa News, 18 November 2026
+
+Ogheye and Oboghoro, Warri North: first 2 of 34 Delta sites; laptops, phones and remote diagnostics alongside.
 
 </div>
 
@@ -1435,6 +1451,20 @@ Redtech, a Nigerian payments company, plans a payments link between Nigeria and 
 **[The cost of making stablecoins work in Nigeria](https://techcabal.com/2026/11/16/the-cost-of-making-stablecoins-work-in-nigeria/)** — TechCabal, 16 November 2026
 
 A TechCabal article of 16 November 2026 describes the Central Bank of Nigeria's new rules recognising stablecoins as payment and settlement instruments. They split tokens into naira-referenced and foreign-currency-referenced types. Issuers of the second type must hold up to ₦15 billion in minimum capital and issuers of the first ₦10 billion, and holders cannot earn interest.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS regional payment and settlement system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria, Ghana proposed as hosts for ECOWAS regional payment system](https://nairametrics.com/2026/11/18/nigeria-ghana-proposed-as-hosts-for-ecowas-regional-payment-system/)** — Nairametrics, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Nigeria for instant payments, BCEAO for RTGS, Ghana as backup; Liberia governor backs plan; settlement currency open.
 
 </div>
 
