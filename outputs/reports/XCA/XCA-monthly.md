@@ -1,11 +1,11 @@
 ---
 title: Central Africa — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: XCA
-ledger_rows: 14
+ledger_rows: 15
 not_held: 0
-record: 25f151d9ac71
+record: 79ff000a7c9f
 ---
 
 # News, Oct – Nov 2026
@@ -218,6 +218,8 @@ The central bank BEAC opened an international selection, funded from its own res
 <a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#national-statistics">National statistics</a>
 </nav>
 
 ### Data Storage
@@ -297,6 +299,22 @@ The Bank of Central African States (BEAC) issued a pre-selection notice on 12 No
 **[Réserves de change : la BEAC veut reprendre la main sur ses outils de gestion](https://www.echosdeleco.com/articles/reserves-de-change-la-beac-veut-reprendre-la-main-sur-ses-outils-de-gestion)** — Échos de l'Éco, 13 November 2026
 
 The Bank of Central African States (BEAC) issued a pre-selection notice on 12 November 2026. It is for an international procurement of a new foreign-exchange reserves management system. It is financed from the bank's own funds. Applications are due by 17 December 2026.
+
+</div>
+
+</div>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">STAT-CEMAC regional statistics programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibloho centra el debate regional sobre la modernización de las estadísticas en África Central](https://mofuen.com/2026/11/17/djibloho-centra-el-debate-regional-sobre-la-modernizacion-de-las-estadisticas-en-africa-central/)** — Periodico Digital Mofuen, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNQ/GNQ-monthly.html" title="GNQ">Eq. Guinea</a>
+
+STAT-CEMAC and HISWACA review; statistics funding gap 45.7% (2021-25), 66.1% projected by 2030; subregional fund mooted.
 
 </div>
 
