@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: COD
-ledger_rows: 56
+ledger_rows: 58
 not_held: 6
-record: bcf746aadb50
+record: 1d33b796e477
 ---
 
 # News, Oct – Nov 2026
@@ -450,6 +450,20 @@ Visa launched Tap to Pay on its Visa Pay app in the Democratic Republic of the C
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Wave electronic-money institution licence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : Wave décroche le feu vert réglementaire de la Banque centrale pour lancer ses opérations](https://leconomie.info/article/rdc-wave-decroche-le-feu-vert-reglementaire-de-la-banque-centrale-pour-lancer-ses-operations)** — Le quotidien L'Economie, 18 November 2026
+
+The Banque centrale du Congo granted Wave an electronic-money institution licence, announced on 17 November 2026. ARPTC put DRC mobile-money revenue at USD 477 million in 2025, up 30.5 per cent. M-Pesa led with USD 207 million, followed by Airtel Money with USD 194.8 million.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -713,6 +727,20 @@ North Kivu's Provincial Digital Development and Archives Unit (CPDA) restarted i
 **[Lancement du recensement fiscal digitalisé des propriétés immobilières à Kindu](https://www.radiookapi.net/2026/11/09/actualite/societe/lancement-du-recensement-fiscal-digitalise-des-proprietes-immobilieres)** — Radio Okapi, 9 November 2026
 
 Maniema province in the DRC began a digitalised census of plots in Kindu on 9 November 2026, Radio Okapi reported. The firm THE WIN is building a provincial taxpayer file for land, rental-income and vehicle taxes. Payments are due to start in January 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kinshasa biometric identification of professional motorcyclists</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kinshasa : les « Wewa » entrent dans le fichier biométrique, clients y compris](https://rdc-monde.com/kinshasa-les-wewa-entrent-dans-le-fichier-biometrique-clients-y-compris/)** — Magazine RD CONGO-MONDE, 17 November 2026
+
+Biometric card and vest for every professional motorcyclist; passengers on non-compliant bikes also sanctioned.
 
 </div>
 
