@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: XWA
-ledger_rows: 34
+ledger_rows: 37
 not_held: 1
-record: 60b4b1307d78
+record: ce0713436f17
 ---
 
 # News, Oct – Nov 2026
@@ -164,10 +164,26 @@ The ECOWAS Network of Electoral Commissions (ECONEC) has adopted guidelines on t
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Orange open-weight Wolof language models</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Orange Releases Five Open-Weight AI Models for Wolof Language](https://techafricanews.com/2026/11/18/orange-releases-five-open-weight-ai-models-for-wolof-language/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+Orange released five open-weight large language models for Wolof on Hugging Face, in five sizes, free for non-commercial use. They were trained on public datasets machine-translated into Wolof, with no Orange corporate data. Orange said it will join a coalition of more than 60 organisations working on linguistic diversity in AI.
+
+</div>
+
+</div>
+
 ## Shared systems and infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
 <a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -217,6 +233,22 @@ Burkina Faso's roaming agreements with Benin, Côte d'Ivoire and Senegal need ab
 **[FG pushes regional deal to prevent internet disruptions](https://punchng.com/fg-pushes-regional-deal-to-prevent-internet-disruptions/)** — The PUNCH, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 Nigeria's communications ministry proposed a shared West African protocol to protect submarine cables, reroute traffic and coordinate repairs, in a statement of 16 November 2026. It advanced the proposal at the ITU Plenipotentiary Conference in Doha. Nigeria was also re-elected to the ITU Council for 2027 to 2030.
+
+</div>
+
+</div>
+
+### Data Storage
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS Data Embassy in Sierra Leone</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AfDB Approves $750,000 to Develop ECOWAS Data Embassy in Sierra Leone](https://sierraloaded.sl/news/afdb-approve-750000-funding-for-sierra-leone/)** — SierraLoaded, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
+
+The African Development Bank approved a $750,000 seed grant, with technical assistance, to prepare an ECOWAS Data Embassy in Sierra Leone. Communications minister Salima Monorma Bah announced it at WAIIS 2026 in Lungi on 18 November 2026. The grant pays for experts to structure the project before AfDB construction financing, which has not been quantified.
 
 </div>
 
@@ -495,6 +527,20 @@ The Central Bank of West African States listed 34 participants with homologated 
 **[PAPSS and WAMI renew partnership to advance cross-border payments in West Africa](https://techreviewafrica.com/news/8330/papss-and-wami-renew-partnership-to-advance-cross-border-payments-in-west-africa)** — Tech Review Africa, 14 November 2026
 
 The Pan-African Payment and Settlement System and the West African Monetary Institute renewed their memorandum on cross-border payments in local currencies, reported on 14 November 2026. The signing date was not stated. It targets adoption in Nigeria, Ghana, Sierra Leone, The Gambia, Liberia and Guinea.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EPSS (ECOWAS Payment and Settlement System)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria, Ghana proposed as hosts for ECOWAS regional payment system](https://nairametrics.com/2026/11/18/nigeria-ghana-proposed-as-hosts-for-ecowas-regional-payment-system/)** — Nairametrics, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
+
+A consultant to the ECOWAS regional payment initiative has proposed that Nigeria host instant payments, the BCEAO real-time gross settlement and Ghana the backup. Central Bank of Liberia Governor Henry Saamoi described the proposal in Balaclava, Mauritius, on 18 November 2026 and backed it. The settlement currency and operating details have not been decided.
 
 </div>
 
