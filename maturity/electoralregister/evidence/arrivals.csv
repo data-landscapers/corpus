@@ -1224,7 +1224,7 @@ GNQ,24,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-a
 GNQ,25,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
 KEN,84,2026-11-16-iebc-biometric-voter-registration-bvr,2026-11-17,,
 KEN,85,2019-06-06-jacobsen-biometric-voter-registration-democracy-assistance,2026-11-17,old,2026-11-17
-KEN,86,2026-11-16-iebc-electronic-voter-identification-evid,2026-11-17,,
+KEN,86,2026-11-16-iebc-electronic-voter-identification-evid,2026-11-17,capped,2026-11-18
 KEN,87,2025-08-25-aqssr-olasya-cyber-security-democracy-kenya,2026-11-17,,
 KEN,88,2023-10-03-vellum-maisha-namba-faqs-ministry-of-interior,2026-11-17,old,2026-11-17
 KEN,89,2026-11-16-bloomsbury-biometric-digital-id-ch07-kenya-mutungu,2026-11-17,instrument,2026-11-17
@@ -1603,3 +1603,16 @@ ZWE,68,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,
 ZWE,69,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
 LBR,65,2026-11-17-lbr-liberianobserver-us52m-national-id-concession-local-firm,2026-11-17,,
 NGA,104,2026-11-17-nga-inec-s-voter-register-cleanup-raises-questions-about-staff-o,2026-11-17,capped,2026-11-17
+DJI,46,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
+DZA,62,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
+EGY,54,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
+GHA,65,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,2026-11-18,,
+KEN,115,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,2026-11-18,,
+LBY,44,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
+MAR,88,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
+RWA,60,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,2026-11-18,,
+SEN,90,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,2026-11-18,,
+TUN,77,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
+ZAF,88,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,2026-11-18,,
+ZMB,60,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,2026-11-18,,
+ZWE,70,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,2026-11-18,,

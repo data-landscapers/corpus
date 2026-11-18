@@ -2268,7 +2268,7 @@ GMB,62,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,
 GNB,31,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-africa,2026-11-17,instrument,2026-11-17
 GNB,32,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 GNQ,45,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-africa,2026-11-17,instrument,2026-11-17
-KEN,234,2026-11-16-interswitch-uba-kenya-verve,2026-11-17,,
+KEN,234,2026-11-16-interswitch-uba-kenya-verve,2026-11-17,capped,2026-11-18
 KEN,235,2024-10-02-businessdaily-state-collects-sh127bn-ecitizen,2026-11-17,,
 KEN,236,2024-03-01-businessdaily-ayugi-ecitizen-sh50-fee,2026-11-17,,
 KEN,237,2023-12-23-standard-treasury-gazettes-new-ecitizen-fees,2026-11-17,,
@@ -2458,7 +2458,7 @@ UGA,297,2025-02-27-carnegie-dpi-practical-approach-africa,2026-11-17,instrument,
 UGA,298,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-africa,2026-11-17,instrument,2026-11-17
 UGA,299,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 UGA,300,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
-ZAF,219,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,,
+ZAF,219,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,capped,2026-11-18
 ZAF,220,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 ZAF,221,2023-07-01-civ-making-the-case-for-investing-in-routine-health-information-systems-rh,2026-11-17,instrument,2026-11-17
 ZAF,222,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -2498,3 +2498,4 @@ SLE,67,2026-09-28-sle-world-bank-ai-readiness-diagnostic,2026-11-17,instrument,2
 TCD,50,2026-11-17-tcd-la-sonemic-offre-du-materiel-informatique,2026-11-17,,
 TUN,83,2026-11-17-tun-tunisiens-l-tranger-les-passeports-bient-t-accessibles-via-e-consulat,2026-11-17,,
 ZMB,255,2026-11-16-zmb-ecofin-smart-zambia-mtn-momo-government-payments,2026-11-17,,
+SEN,195,2026-11-18-sen-orange-open-weight-wolof-llms,2026-11-18,,
