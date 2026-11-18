@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-18
+period: 2026-10-01 to 2026-11-18
 place: TZA
-ledger_rows: 55
+ledger_rows: 56
 not_held: 4
-record: 74f60dae179d
+record: c1c2f9005077
 ---
 
 # News, Oct – Nov 2026
@@ -420,6 +420,14 @@ Tanzania's home affairs minister said 6,308 national identity cards printed for 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania unveils new national ID with integrated personal records, cross-border travel features](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-unveils-new-national-id-with-integrated-personal-records-cross-border-travel-features-5675656)** — The Citizen, 18 November 2026
+
+Tanzania launched a 2026 national identity card on 18 November 2026, with eight information sections against four before. It adds birth certificate, health insurance, taxpayer number, blood group, driving licence and marital status, and serves for travel to partner countries. NIDA's system links 157 institutions; more than 1.2 million cards remain uncollected.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -431,6 +439,20 @@ Tanzania's home affairs minister said 6,308 national identity cards printed for 
 **[NIDA produces 23,718,060 Identification numbers , 21,526,594 national identity cards for Tanzanians - Daily News](https://dailynews.co.tz/nida-produces-23718060-identification-numbers-21526594-national-identity-cards-for-tanzanians/)** — Daily News (Tanzania), 22 October 2026
 
 Tanzania's National Identification Authority had issued 23,718,060 identification numbers and produced 21,526,594 ID cards, 21,515,793 of them distributed, the deputy home affairs minister told a parliamentary committee on 22 October 2026. NIDA has also connected 152 public and private institutions to its database and upgraded 24 modules of its registration system.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">New-generation national identity card</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Tanzania unveils new national ID with integrated personal records, cross-border travel features](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-unveils-new-national-id-with-integrated-personal-records-cross-border-travel-features-5675656)** — The Citizen, 18 November 2026
+
+Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 </div>
 
