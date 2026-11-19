@@ -140,22 +140,23 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 
 ## 8a. Searching, browsing and viewing
 
-*(A first proposal. Bill has ruled that there is no page per person and that this part needs more thought; §10 lists what is open. Stages 1 to 4 do not depend on it.)*
+*(Bill's rulings of 2026-11-19 are folded in. Stages 1 to 4 do not depend on this section.)*
 
-**Two views of the same rows, both a state of the one page.**
+**A view is the one table, filtered** *(Bill)*. Selecting a name in any row filters to that person's rows; selecting an organisation filters to its rows, following `org-lineage.csv` through a ministry's earlier names, each shown under the name it had. Every row in one view opens the other. The filtered table is the shared datatable and nothing more: **the reader sorts by person, position or year**, and the page imposes no grouping and no sequence of its own.
 
-- **A person's history.** Every row for one `person_id`, oldest first: the positions, the organisations, the years, each with its source. Reached by searching a name or by selecting a name in any row.
-- **An organisation's holders.** Every row for one organisation, grouped by position and ordered by year, so the sequence of people through a post reads down the page. It follows `org-lineage.csv` back through a ministry's earlier names, each shown under the name it had. Reached by searching or browsing to the organisation, or by selecting it in any row.
+**The filtered rows download as a CSV, cut in the browser** *(Bill)*: one person's positions or one organisation's, the five columns, the rows on screen. It is the catalogue's filtered download (`documentation/archived/catalogue-filtered-download.md`) and has no URL of its own.
 
-Each view links to the other through every row, which is how a reader gets from one name to the people around it.
+**No link opens a person's view** *(Bill)*. No `person_id` appears in a URL, a fragment, the page source a reader would copy, or the download. The page may keep a search term in the fragment as the catalogue does; a name there is a search, and it finds everyone of that name.
 
-**Search is over names and aliases, on the catalogue's pattern.** `shard_lib.py` already serves a client-side index of names without a server. The Who's Who index maps every alias to its person, so a variant spelling finds the canonical name. Organisation search uses the names in `organisations.csv` and the slugs' variants.
+**Nothing else on the site links in, in version one** *(Bill; to be reconsidered)*. Reports and catalogue rows do not link names to the index.
 
-**Two people with one name are shown as two histories**, told apart only by what the five fields already say: their organisations and years. The index never adds a distinguishing label.
+**A person's view links out to the catalogue's name search** *(Bill)*, so "more" is every held document that mentions the name. The names index needs no rebuild for this, but the link is not exact, and §11 has the checks. What is known: the index holds 2,296,073 names over all 45,288 catalogue documents with no frequency cut-off, so a name that produced a row is almost always there. What is not: it keys each spelling separately, so the link must search every alias of the person and not the canonical name alone; and `names_lib.NAME` starts a name only at an ASCII capital and joins only its listed particles, so *Élisabeth* loses its first token and *Mohamed Ould Ghazouani* is whole only because *Ould* is capitalised there. A link that finds nothing is worse than no link, so an alias absent from the index is left out of the search.
 
-**Browse is by country, then organisation.** An A to Z of people is weak here: the corpus writes family names first and last, so the index does not know which token to file a person under. If an A to Z is wanted it files each person under every token of the name.
+**Search on the page is over names and aliases**, on `shard_lib.py`'s client-side pattern, so a variant spelling finds the person. **Browse is by country, then organisation.** No A to Z of people: the corpus writes family names first and last, and the index does not know which token to file under.
 
-**A history can show less than the reader expects, and the page says so**: it is what the held sources attest, with gaps, and absence of a row is not absence of a post.
+**Two people with one name are two sets of rows**, told apart only by their organisations and years. The index never adds a distinguishing label.
+
+**The page says what the rows are, above every view and in the download's metadata file** *(Bill)*: each row is one source's statement in one year; the list is what the held sources happen to attest, with gaps; a missing row is not a vacant post; and **an organisation's rows are not a line of succession** and should not be cited as one. The same words head the method section.
 
 ## 9. Build stages
 
@@ -165,19 +166,28 @@ Each fits a session and has a finish line.
 2. **Organisations sidecar.** `organisations.csv` built for every slug the pilot reached; government naming rule applied. *Finish:* no published government name ambiguous across countries.
 3. **People.** Ids, aliases, the merge rule, the candidates report. *Finish:* lint 5 clean on the pilot country; a sample of 100 automatic merges checked by hand with none wrong.
 4. **Full run and incremental.** Whole corpus once, then only sources new since the last run, as a stage in `rebuild.py` after 2c. *Finish:* a nightly run adds rows without reissuing an id.
-5. **Publish.** Page, download, method section, lints in the render gate, change-log entry. Not before Bill has ruled on §10.
+5. **Publish.** Page, views, filtered download, method section, lints in the render gate, change-log entry.
 
-## 10. Decisions that are Bill's
+## 10. Bill's rulings, 2026-11-19
 
-Both are about what is public and hard to take back.
+1. **No dated editions.** One undated current download (§8).
+2. **The people tables may live in the repo** as designed in §4.
+3. **Former holders are kept**, and history is the purpose (§1, §5).
+4. **No page per person, and no link that opens a person's view.** An ad-hoc CSV of one person's or one organisation's positions must be possible (§8a).
+5. **No links in from the rest of the site in version one.** To be reconsidered later.
+6. **A person's view links out to the catalogue's name search**, provided the names index serves it (§8a, §11).
+7. **Views are filtered tables the reader sorts**, and the metadata says plainly that no authoritative line of succession is suggested.
 
-1. **Is the download a dated edition?** `design.md` §9 says a published file is never revised and a taken URL resolves for ever. A removal request cannot be honoured against that. **Recommended: no editions — one undated current file, as the catalogue has**, so a removal is complete at the next build. Git history of `outputs/` would still hold the old row; whether that matters is part of the same legal question.
-2. **Does the five-field limit bind the repo's lookups as designed in §4?** They add opaque ids, aliases (names) and rulings (pairs of ids) to the five fields. If that is too much, the people tables move outside the repo and only `outputs/` is committed.
+Nothing is open with Bill. What remains is CC's, below.
 
 ## 11. What CC's review should settle
 
 - Whether the reading pass runs as agents inside the nightly cycle or as its own job, and what a full first run costs.
 - Whether `organisations.csv` as a sidecar is right, or `entity-names.csv` should grow the columns.
 - Where scratch lives, and whether `build/whos-who/` is tracked or ignored — `positions.csv` holds only fields and keys, but nothing requires it in history.
+- Whether the pilot's hand check should score `tense` and stated spans separately, since a `held` row wrongly read as `holds` is the error a history view makes most visible.
+- **The catalogue link, measured on the pilot:** what share of aliases are exact entries in `outputs/names/`, and what share of people have none. If `names_lib.NAME` has to change to admit accented capitals or more particles, that is a change to a shared module with three readers and its own job, and it moves `entity-names.csv`.
+- Whether the catalogue's search accepts several names in one query, which the alias search needs, and whether it can match a whole name and not only its tokens.
+- Whether the shard index and both views stay inside `lint-page-weight.py` at the full corpus's row count.
 - How ids stay stable when the mirror re-files a source or OSINT merges two slugs.
 - Whether stage 1's country should be one with heavy French-language coverage, since that is where name order and ministry naming are hardest.
