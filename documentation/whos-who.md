@@ -8,7 +8,7 @@ status: design for CC's operational review; nothing built; Bill's rulings are §
 
 # Who's Who index
 
-*(Written 2026-11-19 in Cowork from Bill's brief, and revised the same day on his rulings in §10. The counts in §2 were measured against the mirror and this repo that morning; the extraction yield in §5 is a rough sample, not a measurement, and stage 1 exists to replace it. CC reviews this operationally before anything is built — §11 lists what the review should settle.)*
+*(Written 2026-11-19 in Cowork from Bill's brief and his rulings of that day. The counts were measured that morning; the extraction yield in §5 is a rough sample that stage 1 replaces. CC reviews this before anything is built.)*
 
 ## 1. What it is, and the one rule
 
@@ -29,8 +29,6 @@ status: design for CC's operational review; nothing built; Bill's rulings are §
 | Organisation variants | `scripts/entity-variants.py` | groups split slugs by country suffix, French and English stems, and initialisms; rules nothing |
 | Name extraction | `scripts/names_lib.py` | capitalised runs from prose, built for search recall; does not tell a person from an organisation |
 | People | nowhere | no table, no ids, no deduping |
-
-**The organisations half is mostly a matter of tightening what is here. The people half is new.**
 
 ## 3. The boundary this adds
 
@@ -72,8 +70,6 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 ## 5. Extraction
 
 **A row needs a person, a position and an organisation in the same statement.** That is the scope test as well as the extraction rule: a private individual named in a story has no position at an organisation and cannot produce a row. Bylines are excluded by construction — the `Author:` line is stripped with the frontmatter.
-
-**Two passes, because the corpus is large and the statement is small.**
 
 1. **Candidate pass, deterministic.** Find sentences where a name-shaped run sits beside a role word (`Minister`, `Ministre`, `Director-General`, `Commissioner`, `Governor`, `Chief Executive`, `Chair`, `Permanent Secretary` and their French and Portuguese forms; the list is a lookup). In a rough sample of 3,000 files from `raw/2026`, 952 contained a role word at all, so expect candidates in something like a third of sources.
 2. **Reading pass, by model, over the candidate sentence only.** Returns zero or more `(name, position, organisation-as-written, tense, years-if-stated)` tuples, or nothing. It returns nothing for a nominated, rumoured or hypothetical holder: a person who has not held the post has no row.
@@ -122,8 +118,8 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 
 ## 8. Publication
 
-- **Page:** `/whos-who/`, one page, with no page per person. What a reader does there is §8a.
-- **Download:** one **undated, current-only CSV** and no dated editions *(Bill, 2026-11-19)*, the catalogue's precedent, so a removal is complete at the next build. It joins the catalogue as a named exception to `design.md` §9, and that section is amended in the commit that publishes.
+- **Page:** `/whos-who/`, one page (§8a).
+- **Download:** one **undated, current-only CSV** *(Bill)*, so a removal is complete at the next build. It joins the catalogue as a named exception to `design.md` §9, amended in the commit that publishes.
 - **Output:** `outputs/whos-who/whos-who.csv`, exactly five columns.
 - **Method page:** a section under `/methodology/` saying what a row is and is not — an attestation in a year, not a term — and how to ask for a correction or removal.
 - **Change log:** one entry at launch.
@@ -140,8 +136,6 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 
 ## 8a. Searching, browsing and viewing
 
-*(Bill's rulings of 2026-11-19 are folded in. Stages 1 to 4 do not depend on this section.)*
-
 **A view is the one table, filtered** *(Bill)*. Selecting a name in any row filters to that person's rows; selecting an organisation filters to its rows, following `org-lineage.csv` through a ministry's earlier names, each shown under the name it had. Every row in one view opens the other. The filtered table is the shared datatable and nothing more: **the reader sorts by person, position or year**, and the page imposes no grouping and no sequence of its own.
 
 **The filtered rows download as a CSV, cut in the browser** *(Bill)*: one person's positions or one organisation's, the five columns, the rows on screen. It is the catalogue's filtered download (`documentation/archived/catalogue-filtered-download.md`) and has no URL of its own.
@@ -150,7 +144,7 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 
 **Nothing else on the site links in, in version one** *(Bill; to be reconsidered)*. Reports and catalogue rows do not link names to the index.
 
-**A person's view links out to the catalogue's name search** *(Bill)*, so "more" is every held document that mentions the name. The names index needs no rebuild for this, but the link is not exact, and §11 has the checks. What is known: the index holds 2,296,073 names over all 45,288 catalogue documents with no frequency cut-off, so a name that produced a row is almost always there. What is not: it keys each spelling separately, so the link must search every alias of the person and not the canonical name alone; and `names_lib.NAME` starts a name only at an ASCII capital and joins only its listed particles, so *Élisabeth* loses its first token and *Mohamed Ould Ghazouani* is whole only because *Ould* is capitalised there. A link that finds nothing is worse than no link, so an alias absent from the index is left out of the search.
+**A person's view links out to the catalogue's name search** *(Bill)*, so "more" is every held document that mentions the name. The names index needs no rebuild: it holds 2,296,073 names over all 45,288 catalogue documents with no frequency cut-off. But the link is not exact. The index keys each spelling separately, so the link searches every alias and not the canonical name alone; and `names_lib.NAME` starts a name only at an ASCII capital and joins only its listed particles, so *Élisabeth* loses its first token and a lower-case *ould* splits a name in two. An alias absent from the index is left out of the search (§11).
 
 **Search on the page is over names and aliases**, on `shard_lib.py`'s client-side pattern, so a variant spelling finds the person. **Browse is by country, then organisation.** No A to Z of people: the corpus writes family names first and last, and the index does not know which token to file under.
 
@@ -170,15 +164,15 @@ Each fits a session and has a finish line.
 
 ## 10. Bill's rulings, 2026-11-19
 
-1. **No dated editions.** One undated current download (§8).
-2. **The people tables may live in the repo** as designed in §4.
-3. **Former holders are kept**, and history is the purpose (§1, §5).
-4. **No page per person, and no link that opens a person's view.** An ad-hoc CSV of one person's or one organisation's positions must be possible (§8a).
-5. **No links in from the rest of the site in version one.** To be reconsidered later.
-6. **A person's view links out to the catalogue's name search**, provided the names index serves it (§8a, §11).
-7. **Views are filtered tables the reader sorts**, and the metadata says plainly that no authoritative line of succession is suggested.
+1. No dated editions (§8).
+2. The people tables may live in the repo (§4).
+3. Former holders are kept; history is the purpose (§1, §5).
+4. No page per person and no link to a person's view; a filtered CSV instead (§8a).
+5. No links in from the rest of the site in version one.
+6. A link out to the catalogue's name search, if the names index serves it (§8a, §11).
+7. Views are sortable filtered tables, with a plain statement that no line of succession is suggested (§8a).
 
-Nothing is open with Bill. What remains is CC's, below.
+Nothing is open with Bill.
 
 ## 11. What CC's review should settle
 
@@ -186,8 +180,8 @@ Nothing is open with Bill. What remains is CC's, below.
 - Whether `organisations.csv` as a sidecar is right, or `entity-names.csv` should grow the columns.
 - Where scratch lives, and whether `build/whos-who/` is tracked or ignored — `positions.csv` holds only fields and keys, but nothing requires it in history.
 - Whether the pilot's hand check should score `tense` and stated spans separately, since a `held` row wrongly read as `holds` is the error a history view makes most visible.
-- **The catalogue link, measured on the pilot:** what share of aliases are exact entries in `outputs/names/`, and what share of people have none. If `names_lib.NAME` has to change to admit accented capitals or more particles, that is a change to a shared module with three readers and its own job, and it moves `entity-names.csv`.
-- Whether the catalogue's search accepts several names in one query, which the alias search needs, and whether it can match a whole name and not only its tokens.
+- **The catalogue link, measured on the pilot:** the share of aliases that are exact entries in `outputs/names/`, and of people with none. A change to `names_lib.NAME` is its own job: the module has three readers and it moves `entity-names.csv`.
+- Whether the catalogue's search takes several names in one query and can match a whole name.
 - Whether the shard index and both views stay inside `lint-page-weight.py` at the full corpus's row count.
 - How ids stay stable when the mirror re-files a source or OSINT merges two slugs.
 - Whether stage 1's country should be one with heavy French-language coverage, since that is where name order and ministry naming are hardest.
