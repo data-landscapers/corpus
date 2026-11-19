@@ -164,3 +164,8 @@ logs/.prose-open
 logs/link-check.csv
 logs/link-check.csv.tmp
 logs/.link-check.lock
+
+# Who's Who: the fact table and the merge report are rebuilt whole from the tracked
+# extraction cache and lookups (documentation/whos-who.md §4); only the cache is history.
+build/whos-who/positions.csv
+build/whos-who/merge-candidates.csv
