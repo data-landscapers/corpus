@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 place: UGA
 ledger_rows: 57
 not_held: 11
-record: 5ad2ea80ebc6
+record: 0435495d7eb4
 ---
 
 # News, Oct – Nov 2026
@@ -852,7 +852,7 @@ The 2026 Commonwealth Youth AI Readiness Index was produced by the Ayre Think Ta
 
 **[Can AI data centres help power underserved African communities?](https://www.climatechangenews.com/2026/11/16/can-ai-data-centres-help-power-underserved-african-communities/)** — Climate Home News, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Somalia, Uganda, Sierra Leone sign COP31 AI pledge, 16 November 2026; Emergent Grid sites in Kenya, DRC, Djibouti.
+Somalia, Uganda and Sierra Leone endorsed the COP31 presidency's voluntary pledge on AI and climate at the UN climate summit in Antalya on 16 November 2026. Nine countries and more than 40 companies had signed it. Signatories commit to powering AI infrastructure sustainably, and the pledge calls for computing access for developing countries.
 
 </div>
 

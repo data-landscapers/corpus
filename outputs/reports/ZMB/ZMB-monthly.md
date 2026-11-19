@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 place: ZMB
 ledger_rows: 34
 not_held: 32
-record: 2f7348647399
+record: 6ea51dbdf8ea
 ---
 
 # News, Oct – Nov 2026
@@ -548,7 +548,7 @@ UNDP Zambia and the Lusaka Water Supply and Sanitation Company launched a pilot 
 
 **[The AI Confucius Institute: A New Chapter in Chinese Language and Digital-Intelligence Education in Zambia](https://zm.china-embassy.gov.cn/eng/dshdyjh/202611/t20261116_12060498.htm)** — Embassy of the People’s Republic of China in Zambia, 16 November 2026
 
-Ambassador Han Jing on Africa's first AI Confucius Institute launch; WAICO founding member July 2026; TAZARA belt.
+Mulungushi University and Communication University of Zhejiang launched an AI Confucius Institute, which China's ambassador described as the first in Africa focused on AI. He said it would extend from Chinese teaching into digital education, media and AI applications linked to the TAZARA corridor. The article, dated 16 November 2026, does not give the launch date.
 
 </div>
 

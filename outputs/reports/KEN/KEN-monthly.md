@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 place: KEN
 ledger_rows: 110
 not_held: 5
-record: 64f91a918cf3
+record: c677f8e69002
 ---
 
 # News, Oct – Nov 2026
@@ -394,7 +394,7 @@ Lawyers at Bowmans, writing in CIO Africa on 12 November 2026, warn that Kenya's
 
 **[Governing AI in Kenya's Banking Sector: Inside CBK's Draft Guidance Notes on Artificial Intelligence](https://cipit.strathmore.edu/governing-ai-in-kenyas-banking-sector-inside-cbks-draft-guidance-notes-on-artificial-intelligence/)** — CIPIT, Strathmore University, 18 November 2026
 
-CBK draft of 10 Sept 2026: board AI committees, approval before deployment; analyst flags PSP exclusion, consent basis.
+Linda Omondi of CIPIT analysed the Central Bank of Kenya's draft AI guidance for banks, issued for comment on 10 September 2026. The draft makes boards answerable for AI and requires CBK approval before deployment. Omondi faults its exclusion of payment service providers and a consent rule at odds with the Data Protection Act.
 
 </div>
 
@@ -1872,7 +1872,7 @@ Indigenous communities from northern Kenya presented a community-based monitorin
 
 **[Data Governance in Africa – Supporting development-oriented and human-centric data regulation, use and infrastructure in Africa](https://www.expertisefrance.fr/en/projects/data-governance-africa-supporting-development-oriented-and-human-centric-data-regulation)** — Expertise France, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-EUR 60m EU Global Gateway programme; customs and tax AI in Benin, Côte d'Ivoire, Senegal; Kenya EO labs.
+Expertise France's project page describes its part in the Data Governance in Africa Initiative. The EU funds the programme with EUR 60 million under its Global Gateway strategy. Expertise France supports Earth Observation labs with the Kenya Space Agency and AI work for agritech startups. It also builds data and AI tools for customs and tax authorities in Benin, Côte d'Ivoire and Senegal.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 place: SEN
 ledger_rows: 59
 not_held: 2
-record: 3c323e6ee09d
+record: cd0d970ef497
 ---
 
 # News, Oct – Nov 2026
@@ -854,7 +854,7 @@ Senegal's data protection commission (CDP) warned on 5 November 2026 of rising A
 
 **[Why Africa's data future depends on NSO leadership](https://www.data4sdgs.org/blog/why-africas-data-future-depends-nso-leadership)** — Global Partnership for Sustainable Development Data, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Ghana's GSS signs 25 data-sharing MoUs; Senegal's ANSD targets poor households by ML; NSO leadership platform agreed.
+Heads of national statistics offices at the tenth Statistical Commission for Africa, held in Addis Ababa in October 2026, welcomed a proposed African NSO Leadership Exchange Platform. They agreed to build it into the STATAFRIC and PARIS21 leadership programmes. Ghana Statistical Service reported data-sharing agreements with 25 ministries, departments and agencies.
 
 </div>
 
@@ -882,7 +882,7 @@ Senegal's Minister of the Civil Service, Mamadou Lamine Dianté, proposed on 12 
 
 **[Data Governance in Africa – Supporting development-oriented and human-centric data regulation, use and infrastructure in Africa](https://www.expertisefrance.fr/en/projects/data-governance-africa-supporting-development-oriented-and-human-centric-data-regulation)** — Expertise France, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-EUR 60m EU Global Gateway programme; customs and tax AI in Benin, Côte d'Ivoire, Senegal; Kenya EO labs.
+Expertise France's project page describes its part in the Data Governance in Africa Initiative. The EU funds the programme with EUR 60 million under its Global Gateway strategy. Expertise France supports Earth Observation labs with the Kenya Space Agency and AI work for agritech startups. It also builds data and AI tools for customs and tax authorities in Benin, Côte d'Ivoire and Senegal.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: North Africa — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 place: XNA
 ledger_rows: 5
 not_held: 0
-record: b98c3d9e57de
+record: 4ae74804c2fa
 ---
 
 # News, Oct – Nov 2026
@@ -112,7 +112,7 @@ The UN Economic and Social Commission for Western Asia held the sixth session of
 
 **[Digital Public Infrastructure for Inclusive Growth: A Regional Assessment for the Middle East, North Africa, Afghanistan, and Pakistan](https://documents1.worldbank.org/curated/en/099110926084536993/pdf/P507284-0c4a825c-0c5d-40d5-8e72-cc9a23fa2f46.pdf)** — World Bank, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
 
-21-country DPI diagnostic; Morocco, Tunisia live digital ID, Egypt under design; 12 of 21 run fast payments.
+The World Bank assessed digital public infrastructure in 21 countries of the Middle East, North Africa, Afghanistan and Pakistan. Morocco and Tunisia run live digital ID, and Egypt's Haweya is under design. Algeria, Djibouti and Libya hold foundational ID only. Twelve of the 21 countries operate a fast payment system.
 
 </div>
 

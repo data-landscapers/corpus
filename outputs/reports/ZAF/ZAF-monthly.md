@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 place: ZAF
 ledger_rows: 120
 not_held: 17
-record: 40f022a91fe9
+record: f724887a19cf
 ---
 
 # News, Oct – Nov 2026
@@ -348,7 +348,7 @@ The South African Bureau of Standards published draft AI standards for comment, 
 
 **[Cassava Technologies and Mauritius Telecom Partner to Expand AI Services Across Africa](https://techafricanews.com/2026/11/18/cassava-and-mauritius-telecom-partner-to-expand-ai-services-across-africa/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
 
-Cassava Technologies and Mauritius Telecom signed a memorandum of understanding at Africa Tech Festival in Cape Town. Mauritius Telecom is to explore using Cassava's Cape Town AI Factory and CAIMEx model platform as on-demand compute for its AI services. The two will also assess offering its myt Learn AI tutoring platform to South African schools; no sum was disclosed.
+Cassava Technologies and Mauritius Telecom signed a memorandum of understanding at Africa Tech Festival in Cape Town. Mauritius Telecom is to explore using Cassava's Cape Town AI Factory and CAIMEx models as on-demand compute. They will also assess its myt Learn AI tutor for South African schools; no sum was disclosed.
 
 </div>
 
@@ -700,7 +700,7 @@ Teraco said peak traffic at its NAPAfrica Internet exchange point passed 7Tbps, 
 
 **[ReuNION plans subsea cable linking La Reunion to South Africa and Singapore](https://developingtelecoms.com/telecom-technology/optical-fixed-networks/21151-reunion-plans-subsea-cable-linking-la-reunion-to-south-africa-and-singapore.html)** — Developing Telecoms, 18 November 2026
 
-The ReuNION consortium, whose members include Orange, Free, Reunicable, Telco OI and Zeop, has begun marine surveys for an open-access subsea cable from La Réunion to South Africa. The 16-fibre-pair system is to be laid in 2027 and 2028, with provisional acceptance early in 2029 and a first phase funded by the EU. An extension to Singapore with 24 pairs is at an early stage.
+The ReuNION consortium, including Orange, Free, Reunicable, Telco OI and Zeop, has begun marine surveys for a subsea cable from La Réunion to South Africa. The 16-fibre-pair cable is to be laid in 2027-2028, with EU funding for a first phase. An extension to Singapore with 24 pairs is at an early stage.
 
 </div>
 
@@ -730,7 +730,7 @@ Continent 8 Technologies, which hosts online gaming and betting operators, annou
 
 **[Teraco introduces Africa’s first dedicated AI infrastructure innovation lab](https://www.teraco.co.za/news/teraco-introduces-africas-first-dedicated-ai-infrastructure-innovation-lab/)** — Teraco, 16 November 2026
 
-JB3, Isando: test bed for 150kW+ cabinets and liquid cooling; fourth Digital Realty lab after London, Virginia, Tokyo.
+Teraco opened a Digital Realty Innovation Lab at its JB3 data centre on the Isando campus in Johannesburg. The lab is for testing AI and high-density deployments of more than 150kW per cabinet with liquid cooling. Teraco said it is operational and taking bookings.
 
 </div>
 

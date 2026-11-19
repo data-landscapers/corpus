@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 place: COD
 ledger_rows: 58
 not_held: 6
-record: 1d33b796e477
+record: 3753257b163d
 ---
 
 # News, Oct – Nov 2026
@@ -740,7 +740,7 @@ Maniema province in the DRC began a digitalised census of plots in Kindu on 9 No
 
 **[Kinshasa : les « Wewa » entrent dans le fichier biométrique, clients y compris](https://rdc-monde.com/kinshasa-les-wewa-entrent-dans-le-fichier-biometrique-clients-y-compris/)** — Magazine RD CONGO-MONDE, 17 November 2026
 
-Biometric card and vest for every professional motorcyclist; passengers on non-compliant bikes also sanctioned.
+The city of Kinshasa began biometric identification of all professional motorcyclists on 16 November 2026. Taxi-moto riders, couriers and company riders must hold a biometric card and an identification vest. When a moratorium ends, on a date not yet set, police are to sanction unregistered riders and their passengers, and registered riders gain access to accident insurance.
 
 </div>
 

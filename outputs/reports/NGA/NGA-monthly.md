@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 place: NGA
 ledger_rows: 131
 not_held: 8
-record: 2a1fb038ed88
+record: fc7d47f54b5e
 ---
 
 # News, Oct – Nov 2026
@@ -154,7 +154,7 @@ The Federal Ministry of Education's National EdTech Strategy for 2026 to 2030 se
 
 **[Nigeria Launches National EdTech Strategy to Improve Learning Outcomes](https://techafricanews.com/2026/11/18/nigeria-launches-national-edtech-strategy-improve-learning-outcomes/)** — Tech Africa News, 18 November 2026
 
-Tijani announces launch; framework for investment and local EdTech; Mastercard Foundation and World Bank credited.
+Communications minister Bosun Tijani announced the launch of Nigeria's National EdTech Strategy, reported on 18 November 2026 without a launch date. It is a framework to align government, business, civil society and development partners, drawn up with the education ministry, the Mastercard Foundation and the World Bank. Tijani named implementation as the next priority.
 
 </div>
 
@@ -788,7 +788,7 @@ Communications Minister Bosun Tijani commissioned the first tower of Nigeria's N
 
 **[Nigeria Activates Two NUCAP Connectivity Towers in Delta State](https://techafricanews.com/2026/11/18/nigeria-activates-two-nucap-connectivity-towers-delta-state/)** — Tech Africa News, 18 November 2026
 
-Ogheye and Oboghoro, Warri North: first 2 of 34 Delta sites; laptops, phones and remote diagnostics alongside.
+Nigeria switched on two NUCAP connectivity towers at Ogheye and Oboghoro in Warri North, Delta State, the first of 34 sites planned in the state. The towers came with devices for 50 students in each community, phones for 100 women and 100 laptops for Odokun Secondary School. The community medical centre gained remote diagnostics.
 
 </div>
 
@@ -1464,7 +1464,7 @@ A TechCabal article of 16 November 2026 describes the Central Bank of Nigeria's 
 
 **[Nigeria, Ghana proposed as hosts for ECOWAS regional payment system](https://nairametrics.com/2026/11/18/nigeria-ghana-proposed-as-hosts-for-ecowas-regional-payment-system/)** — Nairametrics, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Nigeria for instant payments, BCEAO for RTGS, Ghana as backup; Liberia governor backs plan; settlement currency open.
+A consultant to the ECOWAS regional payment initiative has proposed that Nigeria host instant payments, the BCEAO real-time gross settlement and Ghana the backup. Central Bank of Liberia Governor Henry Saamoi described the proposal in Balaclava, Mauritius, on 18 November 2026 and backed it. The settlement currency and operating details have not been decided.
 
 </div>
 

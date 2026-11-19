@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 place: XAF
 ledger_rows: 91
 not_held: 3
-record: 4b8b49b74135
+record: 41101a368427
 ---
 
 # News, Oct – Nov 2026
@@ -470,7 +470,7 @@ China's State Administration for Market Regulation reported on a China-Africa st
 
 **[African Network Information Centre (AFRINIC)-38 brings Africa’s Internet community together in Cape Town to shape the policies underpinning its digital future](https://www.africa-newsroom.com/press/african-network-information-centre-afrinic38-brings-africas-internet-community-together-in-cape-town-to-shape-the-policies-underpinning-its-digital-future?lang=en)** — AFRINIC (via APO Group / Africa Newsroom), 18 November 2026
 
-Six draft proposals at 18 November 2026 meeting: IPv4 pools exhaustion, IPv6 soft-landing test, compliance dashboard.
+AFRINIC set its AFRINIC-38 Public Policy Meeting for Cape Town on 18 November 2026, alongside Africa Tech Festival, with ISPA South Africa as local host. Six draft policy proposals were on the agenda. They include an IPv4 pool exhaustion framework, IPv6 deployment as a criterion in the IPv4 soft landing and a policy compliance dashboard.
 
 </div>
 
@@ -684,7 +684,7 @@ The African Development Bank's November 2026 macroeconomic outlook says Africa c
 
 **[Can AI data centres help power underserved African communities?](https://www.climatechangenews.com/2026/11/16/can-ai-data-centres-help-power-underserved-african-communities/)** — Climate Home News, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
 
-Somalia, Uganda, Sierra Leone sign COP31 AI pledge, 16 November 2026; Emergent Grid sites in Kenya, DRC, Djibouti.
+Somalia, Uganda and Sierra Leone endorsed the COP31 presidency's voluntary pledge on AI and climate at the UN climate summit in Antalya on 16 November 2026. Nine countries and more than 40 companies had signed it. Signatories commit to powering AI infrastructure sustainably, and the pledge calls for computing access for developing countries.
 
 </div>
 
@@ -880,7 +880,7 @@ Smart Africa and e-Crime Bureau signed a three-year memorandum of understanding 
 
 **[Cyber leads Africa’s risk agenda, but audit coverage still trails exposure](https://www.itweb.co.za/article/cyber-leads-africas-risk-agenda-but-audit-coverage-still-trails-exposure/5yONPvErj297XWrb)** — ITWeb South Africa, 18 November 2026
 
-73% of 816 African respondents rank cyber a top-five risk, up 11 points; under a quarter report full audit coverage.
+The Institute of Internal Auditors' 2026/2027 Africa Risk in Focus report found 73 per cent of 816 respondents rank cyber security a top-five risk. That is up 11 points on a year earlier; under a quarter reported full audit coverage. Over a third ranked geopolitical uncertainty a top-five risk; 15 per cent made it a top-five audit priority.
 
 </div>
 
@@ -1218,7 +1218,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[Clea Launches Faster US Dollar Payment Routes From Africa to China and Hong Kong](https://techafricanews.com/2026/11/18/clea-launches-faster-us-dollar-payment-routes-from-africa-to-china-and-hong-kong/)** — Tech Africa News, 18 November 2026
 
-Sub-three-hour USD supplier payments via CFXPS and CHATS; $50m+ cumulative volume; renminbi settlement planned.
+Clea launched US dollar routes that let African businesses pay suppliers in mainland China and Hong Kong within three hours. The payments run through CFXPS and CHATS. The stablecoin-based platform reports more than $50 million in cumulative transactions and plans renminbi settlement.
 
 </div>
 
@@ -1294,7 +1294,7 @@ African Union ministers of education, science and technology met in Addis Ababa 
 
 **[Why Africa's data future depends on NSO leadership](https://www.data4sdgs.org/blog/why-africas-data-future-depends-nso-leadership)** — Global Partnership for Sustainable Development Data, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-Ghana's GSS signs 25 data-sharing MoUs; Senegal's ANSD targets poor households by ML; NSO leadership platform agreed.
+Heads of national statistics offices at the tenth Statistical Commission for Africa, held in Addis Ababa in October 2026, welcomed a proposed African NSO Leadership Exchange Platform. They agreed to build it into the STATAFRIC and PARIS21 leadership programmes. Ghana Statistical Service reported data-sharing agreements with 25 ministries, departments and agencies.
 
 </div>
 
@@ -1644,7 +1644,7 @@ Pan-African venture firm Enza Capital reported a first close of US$21 million on
 
 **[Data Governance in Africa – Supporting development-oriented and human-centric data regulation, use and infrastructure in Africa](https://www.expertisefrance.fr/en/projects/data-governance-africa-supporting-development-oriented-and-human-centric-data-regulation)** — Expertise France, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
-EUR 60m EU Global Gateway programme; customs and tax AI in Benin, Côte d'Ivoire, Senegal; Kenya EO labs.
+Expertise France's project page describes its part in the Data Governance in Africa Initiative. The EU funds the programme with EUR 60 million under its Global Gateway strategy. Expertise France supports Earth Observation labs with the Kenya Space Agency and AI work for agritech startups. It also builds data and AI tools for customs and tax authorities in Benin, Côte d'Ivoire and Senegal.
 
 </div>
 
@@ -1658,7 +1658,7 @@ EUR 60m EU Global Gateway programme; customs and tax AI in Benin, Côte d'Ivoire
 
 **[First Circle Capital Closes $26 Million African Fintech Fund](https://techafricanews.com/2026/11/18/first-circle-capital-closes-26-million-african-fintech-fund/)** — Tech Africa News, 18 November 2026
 
-$26m final close for Fund I; IFC, Bpifrance, FSD Africa among investors; 18 portfolio companies; tickets undisclosed.
+First Circle Capital reached a final close of $26 million for First Circle Africa Fund I, which invests in pre-seed and seed fintech companies across Africa. Investors include IFC, Bpifrance, MSMEDA, Axian, the Dutch Good Growth Fund, the Stellar Foundation and FSD Africa. Individual commitments were not disclosed.
 
 </div>
 

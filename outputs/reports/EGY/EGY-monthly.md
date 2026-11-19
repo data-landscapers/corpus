@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 place: EGY
 ledger_rows: 71
 not_held: 35
-record: f0fe63bef919
+record: 667acc292cf3
 ---
 
 # News, Oct – Nov 2026
@@ -1094,7 +1094,7 @@ e& Business, M-Empire Angels and Startup Egypt signed a tripartite memorandum of
 
 **[الحكومة تقرأ الأرقام وتختبر سيناريوهات الأزمات قبل اتخاذ القرار.. دراسة برلمانية أمام "الشيوخ" تطرح مسارا لبناء منظومة اقتصادية ذكية تعتمد على الذكاء الاصطناعي.. وتكشف بدائل استضافة البيانات واشتراطات الأمان](https://www.youm7.com/story/2026/11/17/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D9%82%D8%B1%D8%A3-%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%88%D8%AA%D8%AE%D8%AA%D8%A8%D8%B1-%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A7%D8%AA-%D9%82%D8%A8%D9%84-%D8%A7%D8%AA%D8%AE%D8%A7%D8%B0-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9/7619226)** — Youm7, 17 November 2026
 
-Senate committee study: five-stage roadmap, Karnak LLM role, sovereign vs hybrid vs public-cloud data hosting.
+Ahmed Abou Hashima put a study to the Egyptian Senate's economic and financial affairs committee, Youm7 reported on 17 November 2026. It proposes an AI system for government economic decisions, built on linked state databases and the Karnak national language model. It compares sovereign, hybrid and public-cloud hosting for economic data. Language models would not produce figures used in decisions.
 
 </div>
 

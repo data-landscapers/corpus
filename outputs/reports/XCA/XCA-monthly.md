@@ -1,11 +1,11 @@
 ---
 title: Central Africa — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 place: XCA
 ledger_rows: 15
 not_held: 0
-record: 79ff000a7c9f
+record: 7efc9d90e324
 ---
 
 # News, Oct – Nov 2026
@@ -314,7 +314,7 @@ The Bank of Central African States (BEAC) issued a pre-selection notice on 12 No
 
 **[Djibloho centra el debate regional sobre la modernización de las estadísticas en África Central](https://mofuen.com/2026/11/17/djibloho-centra-el-debate-regional-sobre-la-modernizacion-de-las-estadisticas-en-africa-central/)** — Periodico Digital Mofuen, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GNQ/GNQ-monthly.html" title="GNQ">Eq. Guinea</a>
 
-STAT-CEMAC and HISWACA review; statistics funding gap 45.7% (2021-25), 66.1% projected by 2030; subregional fund mooted.
+The CEMAC Commission held a technical meeting in Djibloho, Equatorial Guinea, from 16 to 18 November 2026 to review the STAT-CEMAC programme and the HISWACA project. The Commission put the funding gap of statistics programmes at 45.7% for 2021 to 2025, possibly rising to 66.1% by 2030. A subregional statistics fund and national funding mechanisms are under consideration.
 
 </div>
 
