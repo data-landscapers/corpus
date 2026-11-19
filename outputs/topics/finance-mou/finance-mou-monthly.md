@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: finance.mou
-places: BWA; BDI; CIV; COD; EGY; ETH; MOZ; NGA; SEN; SDN; TZA; UGA
-record: 7f5e549bfa56
+places: BWA; BDI; CIV; COD; EGY; ETH; MUS; MOZ; NGA; SEN; ZAF; SDN; TZA; UGA
+record: d020b538b266
 ---
 
 # News, Oct – Nov 2026
@@ -22,11 +22,15 @@ record: 7f5e549bfa56
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritius">Mauritius</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -46,6 +50,20 @@ record: 7f5e549bfa56
 **[Huawei, Orange partner to accelerate digital transformation](https://www.mmegi.bw/ampArticle/124593)** — Mmegi Online, 4 November 2026
 
 Orange Botswana and Huawei Technologies Botswana signed a memorandum of understanding that extends their cooperation to intelligent networks, AI, cloud, enterprise solutions and data infrastructure. It builds on Orange Botswana's Tier III-certified data centre. No sum is stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BoFiNet and EIMC smart schools memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BoFiNet, EIMC accelerate development of smart schools](https://www.mmegi.bw/ampArticle/124743)** — Mmegi, 18 November 2026
+
+Botswana Fibre Networks and the Education Infrastructure and Management Company signed a memorandum on smart school infrastructure the week before 18 November 2026. It covers school connectivity, campus networks, hosting, cybersecurity and maintenance, under a joint working committee. It includes UPICtv, a streaming platform hosted in Botswana that BoFiNet says keeps data under national jurisdiction.
 
 </div>
 
@@ -131,6 +149,22 @@ Faydaverse, the state enterprise created from Ethiopia's national digital ID pro
 
 </div>
 
+## Mauritius
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cassava and Mauritius Telecom AI memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cassava Technologies and Mauritius Telecom Partner to Expand AI Services Across Africa](https://techafricanews.com/2026/11/18/cassava-and-mauritius-telecom-partner-to-expand-ai-services-across-africa/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Cassava Technologies and Mauritius Telecom signed a memorandum of understanding at Africa Tech Festival in Cape Town. Mauritius Telecom is to explore using Cassava's Cape Town AI Factory and CAIMEx models as on-demand compute. They will also assess its myt Learn AI tutor for South African schools; no sum was disclosed.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -174,6 +208,22 @@ The Central Bank of Nigeria signed a memorandum of understanding with the Global
 **[Visa et le Sénégal s’allient pour accélérer la transformation numérique et le développement des paiements digitaux](https://visa-inc.africa-newsroom.com/press/visa-and-senegal-join-forces-to-accelerate-digital-transformation-and-the-development-of-digital-payments?lang=fr)** — Visa Inc. / Ministère des Télécommunications et du Numérique, 30 October 2026
 
 Visa and Senegal's ministry of telecommunications and digital affairs signed a two-year memorandum of understanding in October 2026. It covers payments between people and government, financial innovation, cybersecurity and regulation. The release calls it Visa's first partnership framework with a Senegalese government institution.
+
+</div>
+
+</div>
+
+## South Africa
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cassava Technologies and Mauritius Telecom AI memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cassava Technologies and Mauritius Telecom Partner to Expand AI Services Across Africa](https://techafricanews.com/2026/11/18/cassava-and-mauritius-telecom-partner-to-expand-ai-services-across-africa/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
+
+Cassava Technologies and Mauritius Telecom signed a memorandum of understanding at Africa Tech Festival in Cape Town. Mauritius Telecom is to explore using Cassava's Cape Town AI Factory and CAIMEx models as on-demand compute. They will also assess its myt Learn AI tutor for South African schools; no sum was disclosed.
 
 </div>
 

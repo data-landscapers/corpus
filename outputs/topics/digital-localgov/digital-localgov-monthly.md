@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: digital.localgov
 places: BEN; BDI; CMR; CPV; COD; EGY; ETH; GAB; KEN; MLI; MAR; NGA; ZAF; SSD; SDN; TZA
-record: 5aa031067fd6
+record: 0c2eda83ff32
 ---
 
 # News, Oct – Nov 2026
@@ -160,6 +160,20 @@ North Kivu's Provincial Digital Development and Archives Unit (CPDA) restarted i
 **[Lancement du recensement fiscal digitalisé des propriétés immobilières à Kindu](https://www.radiookapi.net/2026/11/09/actualite/societe/lancement-du-recensement-fiscal-digitalise-des-proprietes-immobilieres)** — Radio Okapi, 9 November 2026
 
 Maniema province in the DRC began a digitalised census of plots in Kindu on 9 November 2026, Radio Okapi reported. The firm THE WIN is building a provincial taxpayer file for land, rental-income and vehicle taxes. Payments are due to start in January 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kinshasa biometric identification of professional motorcyclists</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kinshasa : les « Wewa » entrent dans le fichier biométrique, clients y compris](https://rdc-monde.com/kinshasa-les-wewa-entrent-dans-le-fichier-biometrique-clients-y-compris/)** — Magazine RD CONGO-MONDE, 17 November 2026
+
+The city of Kinshasa began biometric identification of all professional motorcyclists on 16 November 2026. Taxi-moto riders, couriers and company riders must hold a biometric card and an identification vest. When a moratorium ends, on a date not yet set, police are to sanction unregistered riders and their passengers, and registered riders gain access to accident insurance.
 
 </div>
 

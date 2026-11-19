@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
-record: 6d2c7a9839a0
+places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GIN; GNB; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
+record: 03fecda28540
 ---
 
 # News, Oct – Nov 2026
@@ -45,6 +45,8 @@ record: 6d2c7a9839a0
 <a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#guinea">Guinea</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#guinea-bissau">Guinea-Bissau</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -724,6 +726,22 @@ Guinea opened a workshop in Conakry on 21 October 2026 to review nine draft regu
 
 </div>
 
+## Guinea-Bissau
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic Transactions Bill 2025</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo analisa novas leis sobre economia digital e proteção social no país](https://ang.gw/governo-analisa-novas-leis-sobre-economia-digital-e-proteccao-social-no-pais/)** — Agência de Notícias da Guiné (ANG), 18 November 2026
+
+Guinea-Bissau's Council of Ministers examined a draft Electronic Transactions Law on 17 November 2026. Its communiqué says the law is to update the legal framework for electronic operations and make digital transactions more secure and trusted. No adoption has been reported.
+
+</div>
+
+</div>
+
 ## Kenya
 
 <div class="monthly-story" markdown="1">
@@ -930,6 +948,21 @@ Malawi's Justice Minister, Charles Mhango, said the government hopes to table a 
 
 </div>
 
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulatory framework against online audiovisual piracy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MACRA Develops New Regulatory Framework to Tackle Online Audiovisual Piracy](https://techafricanews.com/2026/11/18/malawi-develops-new-regulatory-framework-to-tackle-online-audiovisual-piracy/)** — Tech Africa News, 18 November 2026
+
+Malawi's regulator MACRA has begun work on a framework against online audiovisual piracy, based on blocking by IP address, URL and domain name. It follows a stakeholder meeting held with technical help from MultiChoice and CANAL+, and a task force has been set up to refine it. No draft has been published.
+
+</div>
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: bfd6451b0ee1
+record: 5e546645b19d
 ---
 
 # News, Oct – Nov 2026
@@ -854,6 +854,14 @@ Nigeria's NITDA opened a stakeholder review of its Strategic Roadmap and Action 
 **[Nigeria National EdTech Strategy (2026-2030)](https://education.gov.ng/wp-content/uploads/2026/11/Nigeria_National_EdTech_Strategy_FINAL_PRINT-V1.pdf)** — Federal Ministry of Education, Nigeria, 13 November 2026
 
 The Federal Ministry of Education's National EdTech Strategy for 2026 to 2030 sets five pillars: data and interoperability, infrastructure, technology and procurement, teacher transformation, and governance. It says it will strengthen existing systems rather than create parallel programmes. The roadmap moves from mobilisation in late 2026 and 2027 to scale-up in 2028. The ministry's data platform, NEDI, is already collecting education data.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Launches National EdTech Strategy to Improve Learning Outcomes](https://techafricanews.com/2026/11/18/nigeria-launches-national-edtech-strategy-improve-learning-outcomes/)** — Tech Africa News, 18 November 2026
+
+Communications minister Bosun Tijani announced the launch of Nigeria's National EdTech Strategy, reported on 18 November 2026 without a launch date. It is a framework to align government, business, civil society and development partners, drawn up with the education ministry, the Mastercard Foundation and the World Bank. Tijani named implementation as the next priority.
 
 </div>
 

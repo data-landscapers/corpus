@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: capacity.training
-places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZWE
-record: dd9b1a381cea
+places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZMB; ZWE
+record: 08466c19e585
 ---
 
 # News, Oct – Nov 2026
@@ -63,6 +63,8 @@ record: dd9b1a381cea
 <a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zambia">Zambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zimbabwe">Zimbabwe</a>
 </nav>
@@ -809,6 +811,20 @@ South Africa's sector training authority SASSETA invested R15 million in a digit
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CAPEability AI (Western Cape)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Microsoft, WCape to prepare residents for AI economy](https://www.itweb.co.za/article/microsoft-wcape-to-prepare-residents-for-ai-economy/5yONP7Erj8QMXWrb)** — ITWeb South Africa, 18 November 2026
+
+The Western Cape Government and Microsoft launched CAPEability AI, a programme of AI and digital-skills training for residents aged 18 to 35. It runs through Microsoft Elevate at 83 e-Centres and 375 public library service points. The programme is tied to the province's Growth for Jobs strategy for 2023 to 2035.
+
+</div>
+
+</div>
+
 ## Tanzania
 
 <div class="monthly-story" markdown="1">
@@ -866,6 +882,22 @@ Togo's education ministry reported that 1,000 young people have been trained in 
 **[امضاء اتفاقية شراكة إطارية بين وزارة التشغيل و "اتصالات تونس" في مجال الاتصالات والتحول الرقمي](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155931-%D8%A7%D9%85%D8%B6%D8%A7%D8%A1-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A5%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D9%88-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A)** — Assabah News, 14 October 2026
 
 Tunisia's Ministry of Employment and Vocational Training signed a five-year renewable framework agreement with Tunisie Telecom on 14 October. The operator is to connect employment offices and training centres to fibre, install AI labs in vocational-training centres and host a distance-training system in its national data centre.
+
+</div>
+
+</div>
+
+## Zambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">University facilities and qualification recognition</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Confucius Institute: A New Chapter in Chinese Language and Digital-Intelligence Education in Zambia](https://zm.china-embassy.gov.cn/eng/dshdyjh/202611/t20261116_12060498.htm)** — Embassy of the People’s Republic of China in Zambia, 16 November 2026
+
+Mulungushi University and Communication University of Zhejiang launched an AI Confucius Institute, which China's ambassador described as the first in Africa focused on AI. He said it would extend from Chinese teaching into digital education, media and AI applications linked to the TAZARA corridor. The article, dated 16 November 2026, does not give the launch date.
 
 </div>
 

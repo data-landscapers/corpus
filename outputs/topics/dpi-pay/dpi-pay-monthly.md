@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8d3cabdedfd4
+record: 69f98748bec4
 ---
 
 # News, Oct – Nov 2026
@@ -499,6 +499,20 @@ Visa launched Tap to Pay on its Visa Pay app in the Democratic Republic of the C
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Wave electronic-money institution licence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : Wave décroche le feu vert réglementaire de la Banque centrale pour lancer ses opérations](https://leconomie.info/article/rdc-wave-decroche-le-feu-vert-reglementaire-de-la-banque-centrale-pour-lancer-ses-operations)** — Le quotidien L'Economie, 18 November 2026
+
+The Banque centrale du Congo granted Wave an electronic-money institution licence, announced on 17 November 2026. ARPTC put DRC mobile-money revenue at USD 477 million in 2025, up 30.5 per cent. M-Pesa led with USD 207 million, followed by Airtel Money with USD 194.8 million.
+
+</div>
+
+</div>
+
 ## Egypt
 
 <div class="monthly-story" markdown="1">
@@ -847,6 +861,20 @@ The Bank of Ghana said on 5 November 2026 that it and the Monetary Authority of 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS regional payment system, backup site</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria, Ghana proposed as hosts for ECOWAS regional payment system](https://nairametrics.com/2026/11/18/nigeria-ghana-proposed-as-hosts-for-ecowas-regional-payment-system/)** — Nairametrics, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+A consultant to the ECOWAS regional payment initiative has proposed that Nigeria host instant payments, the BCEAO real-time gross settlement and Ghana the backup. Central Bank of Liberia Governor Henry Saamoi described the proposal in Balaclava, Mauritius, on 18 November 2026 and backed it. The settlement currency and operating details have not been decided.
+
+</div>
+
+</div>
+
 ## Guinea
 
 <div class="monthly-story" markdown="1">
@@ -1091,6 +1119,20 @@ Payaza, a payment-gateway fintech, obtained Central Bank of Kenya authorisation 
 **[Liberia’s Instant Payment System Crosses 5.3M Transactions](https://www.liberianobserver.com/business/liberia-s-instant-payment-system-crosses-5-3m-transactions/article_b75bc316-97ae-459f-840d-c2822b8e7a84.html)** — Liberian Observer, 1 October 2026
 
 Liberia's instant payment system has processed more than 5.3 million transactions between the two mobile money operators since its December 2025 launch, the central bank governor said. About 4.2 million were in Liberian dollars and 1.1 million in US dollars.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS regional payment system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria, Ghana proposed as hosts for ECOWAS regional payment system](https://nairametrics.com/2026/11/18/nigeria-ghana-proposed-as-hosts-for-ecowas-regional-payment-system/)** — Nairametrics, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+A consultant to the ECOWAS regional payment initiative has proposed that Nigeria host instant payments, the BCEAO real-time gross settlement and Ghana the backup. Central Bank of Liberia Governor Henry Saamoi described the proposal in Balaclava, Mauritius, on 18 November 2026 and backed it. The settlement currency and operating details have not been decided.
 
 </div>
 
@@ -1704,6 +1746,20 @@ A TechCabal article of 16 November 2026 describes the Central Bank of Nigeria's 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS regional payment and settlement system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria, Ghana proposed as hosts for ECOWAS regional payment system](https://nairametrics.com/2026/11/18/nigeria-ghana-proposed-as-hosts-for-ecowas-regional-payment-system/)** — Nairametrics, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+A consultant to the ECOWAS regional payment initiative has proposed that Nigeria host instant payments, the BCEAO real-time gross settlement and Ghana the backup. Central Bank of Liberia Governor Henry Saamoi described the proposal in Balaclava, Mauritius, on 18 November 2026 and backed it. The settlement currency and operating details have not been decided.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -2311,6 +2367,20 @@ Housing Finance Bank joined Interswitch's Quickteller agency banking network in 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MoKash mobile savings and credit service (MTN MoMo and NCBA Bank)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN Uganda's MoKash Disburses UGX 3.2 Trillion in 10 Years](https://techafricanews.com/2026/11/18/mtn-ugandas-mokash-disburses-ugx-3-2-trillion-in-10-years/)** — Tech Africa News, 18 November 2026
+
+MTN MoMo Uganda said its MoKash savings and credit service, run with NCBA Bank Uganda, has disbursed about UGX 3.2 trillion in ten years. The figure was given at an anniversary event attended by finance minister Henry Musasizi.
+
+</div>
+
+</div>
+
 ## Zambia
 
 <div class="monthly-story" markdown="1">
@@ -2364,6 +2434,20 @@ The bureau of COMESA's central bank governors met in Lilongwe on 11 November 202
 **[Zambia Explores MTN MoMo Partnership to Simplify Government Payments](https://www.ecofinagency.com/news-digital/1611-60845-zambia-explores-mtn-momo-partnership-to-simplify-government-payments)** — Ecofin Agency, 16 November 2026
 
 The Smart Zambia Institute opened talks with MTN MoMo on adding mobile money to government digital services for public payments. The talks were announced on 13 November 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Money Buy Shares</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Zambia Launches Mobile Service for Buying Lusaka Securities Exchange Shares](https://techafricanews.com/2026/11/18/airtel-zambia-launches-mobile-service-for-buying-lusaka-securities-exchange-shares/)** — Tech Africa News, 18 November 2026
+
+Airtel Zambia launched Airtel Money Buy Shares, letting customers buy Lusaka Securities Exchange shares with Airtel Money on the MyAirtel App. The heads of the Securities and Exchange Commission and LuSE attended the launch.
 
 </div>
 

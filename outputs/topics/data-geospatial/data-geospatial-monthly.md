@@ -1,10 +1,10 @@
 ---
 title: Geospatial data — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: data.geospatial
-places: BDI; COM; CIV; DJI; LSO; LBR; NGA; SYC; TGO; ZWE
-record: 559f723903dc
+places: BDI; COM; CIV; DJI; KEN; LSO; LBR; NGA; SYC; TGO; ZWE
+record: 618e90f0205e
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: 559f723903dc
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#djibouti">Djibouti</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#lesotho">Lesotho</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -104,6 +106,22 @@ Cote d'Ivoire's environment ministry signed a framework memorandum with an Ivori
 **[Djibouti SOFF Investment Phase Funding Request (pipeline, version 6)](https://www.un-soff.org/wp-content/uploads/2026/10/2699-Djibouti-SOFF-IFR-V6-clean-version-25092026.pdf)** — Systematic Observations Financing Facility, 1 October 2026
 
 Djibouti's weather agency asks SOFF for US$2.01m for 2027 to 2031. Neither of its two required stations meets the global standard. The airport surface station is to be upgraded. A disused upper-air station is to be rebuilt.
+
+</div>
+
+</div>
+
+## Kenya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Earth Observation Innovation Labs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Governance in Africa – Supporting development-oriented and human-centric data regulation, use and infrastructure in Africa](https://www.expertisefrance.fr/en/projects/data-governance-africa-supporting-development-oriented-and-human-centric-data-regulation)** — Expertise France, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Expertise France's project page describes its part in the Data Governance in Africa Initiative. The EU funds the programme with EUR 60 million under its Global Gateway strategy. Expertise France supports Earth Observation labs with the Kenya Space Agency and AI work for agritech startups. It also builds data and AI tools for customs and tax authorities in Benin, Côte d'Ivoire and Senegal.
 
 </div>
 

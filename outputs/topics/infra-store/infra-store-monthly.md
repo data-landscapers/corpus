@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: infra.store
 places: DZA; BWA; BFA; CMR; EGY; SWZ; ETH; GMB; GHA; KEN; LBY; MUS; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: 85841fdbdcef
+record: cc3820d115f3
 ---
 
 # News, Oct – Nov 2026
@@ -668,6 +668,20 @@ Somali operator Dalkom offers colocation and hosting in its own data centres in 
 **[Continent 8 Technologies launches data center in Johannesburg, South Africa](https://www.datacenterdynamics.com/en/news/continent-8-technologies-launches-data-center-in-johannesburg-south-africa/)** — Data Center Dynamics, 5 October 2026
 
 Continent 8 Technologies, which hosts online gaming and betting operators, announced its first African data centre, in Johannesburg. It did not disclose the site or any colocation partner.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Realty Innovation Lab, Johannesburg</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Teraco introduces Africa’s first dedicated AI infrastructure innovation lab](https://www.teraco.co.za/news/teraco-introduces-africas-first-dedicated-ai-infrastructure-innovation-lab/)** — Teraco, 16 November 2026
+
+Teraco opened a Digital Realty Innovation Lab at its JB3 data centre on the Isando campus in Johannesburg. The lab is for testing AI and high-density deployments of more than 150kW per cabinet with liquid cooling. Teraco said it is operational and taking bookings.
 
 </div>
 

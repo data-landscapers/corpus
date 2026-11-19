@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: gov.regional
-places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 79606e39d14a
+places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
+record: 312d69ec6819
 ---
 
 # News, Oct – Nov 2026
@@ -61,6 +61,8 @@ record: 79606e39d14a
 <a href="#sao-tome-and-principe">Sao Tome and Principe</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -1126,6 +1128,22 @@ A second account of the ARTAC closing session, adding that São Tomé and Prínc
 **[UEMOA/Télécommunications : le Burkina Faso signe trois accords de roaming avec le Bénin, la Côte d’Ivoire et le Sénégal](https://www.cfinance.news/article/uemoatelecommunications-le-burkina-faso-signe-trois-accords-de-roaming-avec-le-benin-la-cote-divoire-et-le-senegal/)** — C'Finance, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 Burkina Faso's telecoms regulator signed bilateral roaming agreements with its counterparts in Benin, Côte d'Ivoire and Senegal in Ouagadougou on 23 October 2026, under the WAEMU framework. The WAEMU Commission and the regulators called for the commitments to be put into effect so users get cheaper, clearer roaming terms.
+
+</div>
+
+</div>
+
+## Sierra Leone
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional data embassy framework proposed at ECOWAS</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AfDB Approves $750,000 to Develop ECOWAS Data Embassy in Sierra Leone](https://sierraloaded.sl/news/afdb-approve-750000-funding-for-sierra-leone/)** — SierraLoaded, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+The African Development Bank approved a $750,000 seed grant, with technical assistance, to prepare an ECOWAS Data Embassy in Sierra Leone. Communications minister Salima Monorma Bah announced it at WAIIS 2026 in Lungi on 18 November 2026. The grant pays for experts to structure the project before AfDB construction financing, which has not been quantified.
 
 </div>
 

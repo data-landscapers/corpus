@@ -1,15 +1,17 @@
 ---
 title: Domestic budget appropriations and expenditure — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: finance.budget
-places: CIV; GAB; LBR; LBY; MAR; SEN; SYC; TUN
-record: aa1194b92200
+places: BEN; CIV; GAB; LBR; LBY; MAR; SEN; SYC; TUN
+record: 5438416c9468
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#benin">Benin</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
@@ -26,6 +28,22 @@ record: aa1194b92200
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
 </nav>
+
+## Benin
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital ministry budget allocation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Etude du projet de budget 2027 à l'Assemblée nationale: 11,59 milliards F Cfa pour accélérer la transformation digitale](https://lanation.bj/actualites/etude-du-projet-de-budget-2027-a-lassemblee-nationale-1159-milliards-f-cfa-pour-accelerer-la-transformation-digitale)** — La Nation, 18 November 2026
+
+Benin's digital ministry presented a 2027 draft budget of FCFA 11.59 billion, 29.29 per cent below 2026's FCFA 16.48 billion. The fall follows the exit of the externally financed PITN2R project, which had FCFA 6.5 billion in 2026. Priorities include voice access to public services in national languages and 12 more university sites on RBER.
+
+</div>
+
+</div>
 
 ## Cote d'Ivoire
 

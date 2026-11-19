@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a149c0dea1ed
+record: 9c8e4288f742
 ---
 
 # News, Oct – Nov 2026

@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: 4f66755ec970
+record: 2074fa40e195
 ---
 
 # News, Oct – Nov 2026
@@ -1595,6 +1595,14 @@ Mauritania's regulator ARE fined Mauritel, Mattel and Chinguitel a combined MRU 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[L’Autorité de régulation confirme des amendes de plus de 421 millions MRU à l’encontre de Mauritel, Mattel et Chinguitel](https://lequotidien.mr/?p=43284)** — Le Quotidien de Nouakchott, 18 November 2026
+
+Mauritania's regulator ARE rejected appeals by Mauritel, Mattel and Chinguitel and confirmed their MRU 421.2 million quality-of-service fines on or about 16 November 2026. It refused their offer of extra network investment in exchange for cutting the fines. Each fine is 3 per cent of turnover: about MRU 262.1 million, 108.8 million and 50.4 million respectively.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1640,6 +1648,7 @@ Mauritius' ICT Authority opened a call for applications for a new mobile number 
 Morocco's digital transition minister Ahmed Rahhou spoke to the House of Representatives on 16 November 2026. Phase two of the national broadband plan will cover 2,000 under-served rural zones. He cited a MAD 2.5 billion start-up financing target under the AI Made in Morocco roadmap. He also named national roaming across 7,000 zones and faster data exchange between administrations.
 
 </div>
+
 
 </div>
 
@@ -1868,6 +1877,14 @@ Nigeria, the European Union and the EBRD signed a EUR 14 million grant for the p
 **[FG to deploy 3,700 telecom towers to connect 20m Nigerians](https://www.vanguardngr.com/2026/10/fg-to-deploy-3700-telecom-towers-to-connect-20m-nigerians/)** — Vanguard, 16 October 2026
 
 Communications Minister Bosun Tijani commissioned the first tower of Nigeria's National Universal Communications Access Programme in Bende, Abia State, on 16 October 2026. The programme plans 3,700 towers to reach about 20 million Nigerians without phone or internet service, and the Deputy Speaker named 16 more Bende locations needing coverage.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Activates Two NUCAP Connectivity Towers in Delta State](https://techafricanews.com/2026/11/18/nigeria-activates-two-nucap-connectivity-towers-delta-state/)** — Tech Africa News, 18 November 2026
+
+Nigeria switched on two NUCAP connectivity towers at Ogheye and Oboghoro in Warri North, Delta State, the first of 34 sites planned in the state. The towers came with devices for 50 students in each community, phones for 100 women and 100 laptops for Odokun Secondary School. The community medical centre gained remote diagnostics.
 
 </div>
 
@@ -2159,6 +2176,20 @@ Sierra Leone's National Communications Authority unveiled new systems on 28 Octo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Second submarine cable landing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone Announces $45 Million Second Submarine Cable Project](https://techafricanews.com/2026/11/18/sierra-leone-announces-45-million-second-submarine-cable-project/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Sierra Leone announced a National Cable Consortium to land a second submarine cable, a $45 million project backed by the World Bank's WARDIP. The vehicle joins Africell, Orange, Q-Cell and Zoodlabs, and pools demand with Guinea, Liberia and The Gambia. Sierratel and Africell also formed Sierratel International to seek MVNO licences elsewhere in Africa.
+
+</div>
+
+</div>
+
 ## Somalia
 
 <div class="monthly-story" markdown="1">
@@ -2404,6 +2435,48 @@ Ookla found 5G in 47% of scanned locations in South Africa in October 2026, ITWe
 **[South Africa Telecoms at a Crossroads: Addressing Performance and Adoption Challenges](https://www.ookla.com/articles/south-africa-connectivity-2026)** — Ookla, 16 November 2026
 
 Ookla reported on 16 November 2026 that South Africa's 5G footprint has widened without faster networks. It detected 5G in 47.0% of scanned locations in 2026, against 14.4% in 2023. Median 5G download speed fell 26.4% to 150.98 Mbps between the third quarters of 2024 and 2026, and mobile net promoter score dropped to -23.9.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CMC Networks EMEA-R corridor</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nokia powers CMC Networks’ EMEA-R corridor, connecting key hubs across Europe, the Middle East and Africa](https://www.nokia.com/newsroom/nokia-powers-cmc-networks-emea-r-corridor-connecting-key-hubs-across-europe-the-middle-east-and-africa/)** — Nokia, 18 November 2026
+
+Nokia said its optical transport equipment carries CMC Networks' new EMEA-R corridor, which links Johannesburg and Cape Town with London, Frankfurt, Marseille and Jeddah. The first phase runs from Johannesburg to London via Cape Town and the Atlantic. It offers dedicated IPLC capacity at 1G, 10G and 100G.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NAPAfrica internet exchange</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa’s biggest Internet exchange point hits 7Tbps and gets 800Gbps ports](https://www.mybroadband.co.za/news/cloud-hosting/678481-south-africas-biggest-internet-exchange-point-hits-7tbps-and-gets-800gbps-ports.html)** — MyBroadband, 18 November 2026
+
+Teraco said peak traffic at its NAPAfrica Internet exchange point passed 7Tbps, against 6Tbps a year earlier, with more than 690 networks connected. It announced investment in 800G member ports. Teraco named content delivery networks and cloud operators as the source of the growth.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Réunion to South Africa submarine cable</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ReuNION plans subsea cable linking La Reunion to South Africa and Singapore](https://developingtelecoms.com/telecom-technology/optical-fixed-networks/21151-reunion-plans-subsea-cable-linking-la-reunion-to-south-africa-and-singapore.html)** — Developing Telecoms, 18 November 2026
+
+The ReuNION consortium, including Orange, Free, Reunicable, Telco OI and Zeop, has begun marine surveys for a subsea cable from La Réunion to South Africa. The 16-fibre-pair cable is to be laid in 2027-2028, with EU funding for a first phase. An extension to Singapore with 24 pairs is at an early stage.
 
 </div>
 

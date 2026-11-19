@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; COM; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 5a3e0a4b1049
+record: e892cbc18494
 ---
 
 # News, Oct – Nov 2026
@@ -804,6 +804,22 @@ A House joint committee closed its third hearing on the US$52 million ID concess
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[House Rejects US$52M National ID Deal](https://www.liberianobserver.com/news/house-rejects-us-52m-national-id-deal/article_ecd65d31-e686-4b92-9626-4d2fee6c9358.html)** — Liberian Observer, 18 November 2026
+
+Liberia's House of Representatives voted unanimously to reject a US$52 million biometric ID concession with OeSD International GmbH. It acted on an adverse joint committee report on procurement, revenue sharing, local participation and control of biometric data. The Biometric Update entry gives the committee's findings in more detail.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberian Parliament rejects $52M national digital ID contract proposal](https://www.biometricupdate.com/202611/liberian-parliament-rejects-52m-national-digital-id-contract-proposal)** — Biometric Update, 18 November 2026
+
+Liberia's House sent a $52 million biometric ID concession with Austria's OeSD International back to the president for renegotiation. A joint committee listed more than 40 deficiencies, including a PPCC order for open international bidding that was ignored. Minutes of a June meeting record World Bank officials' view that the existing ID system was a cheaper route.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1381,6 +1397,7 @@ The prime minister of Sudan's TASIS-backed administration announced plans for a 
 Tanzania's home affairs minister said 6,308 national identity cards printed for Zanzibar residents had not been collected. He said government is considering fines for late collection and may require the physical card for services that now accept the identity number alone.
 
 </div>
+
 
 </div>
 

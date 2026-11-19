@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: tech.industry
 places: BEN; EGY; GMB; GIN; KEN; NGA; SEN; ZAF
-record: 0e952f9e9547
+record: 0d887cc002cc
 ---
 
 # News, Oct – Nov 2026

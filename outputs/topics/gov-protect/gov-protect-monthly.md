@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: gov.protect
 places: DZA; AGO; BEN; BFA; CMR; COG; COD; EGY; SWZ; GAB; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 79c5d1f24c80
+record: 3705793b3ac3
 ---
 
 # News, Oct – Nov 2026
@@ -507,6 +507,20 @@ Mauritius launched a guide on data protection in the financial sector on 29 Octo
 **[CNDP, NIIAT Partner to Train 20,000 Young Moroccans in Data Privacy](https://www.moroccoworldnews.com/2026/10/343292/cndp-niiat-partner-to-train-20000-young-moroccans-in-data-privacy/)** — Morocco World News, 21 October 2026
 
 Morocco's data-protection commission CNDP signed an agreement with the National Institute of Innovation and Advanced Technology on 21 October 2026, bringing it into the CNDP's DATA-TIKA programme. A six-month pilot in Casablanca-Settat is to train at least 20,000 young people in privacy principles, with a national roll-out to follow on no fixed timetable.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Global Privacy Assembly resolution on privacy-enhancing technologies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La CNDP fait adopter une résolution internationale sur la protection de la vie privée à Bruxelles](https://fr.al3omk.com/44902.html)** — Al Oamk, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+The Global Privacy Assembly adopted a resolution on privacy-enhancing technologies put forward by Morocco's CNDP at its 48th annual conference in Brussels on 17 November 2026. Nine other authorities supported it. The CNDP also joined a meeting of the NADPA-RAPDP network, whose secretariat Morocco holds, on its strategic plan and the harmonisation of national data-protection laws.
 
 </div>
 

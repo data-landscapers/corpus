@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9dfdfa0aebf4
+record: b29b9d0d1827
 ---
 
 # News, Oct – Nov 2026
@@ -703,6 +703,20 @@ Egypt's Public Prosecution opened an AI data centre at the Prosecutor-General's 
 **[ICT Minister Witnesses Signing of Tripartite MoU on Collaboration in AI, Cloud Computing](https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/121644)** — Ministry of Communications and Information Technology (Egypt), 16 November 2026
 
 e& Business, M-Empire Angels and Startup Egypt signed a tripartite memorandum of understanding on 16 November 2026. ICT minister Raafat Hendy witnessed it. e& Business is to offer GPU-as-a-Service in Egypt, with pay-per-use GPU computing for companies and startups training AI models. The ministry presents it as part of the second National AI Strategy. No sum was stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI economic decision system for government (Senate study)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الحكومة تقرأ الأرقام وتختبر سيناريوهات الأزمات قبل اتخاذ القرار.. دراسة برلمانية أمام "الشيوخ" تطرح مسارا لبناء منظومة اقتصادية ذكية تعتمد على الذكاء الاصطناعي.. وتكشف بدائل استضافة البيانات واشتراطات الأمان](https://www.youm7.com/story/2026/11/17/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D9%82%D8%B1%D8%A3-%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%88%D8%AA%D8%AE%D8%AA%D8%A8%D8%B1-%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A7%D8%AA-%D9%82%D8%A8%D9%84-%D8%A7%D8%AA%D8%AE%D8%A7%D8%B0-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9/7619226)** — Youm7, 17 November 2026
+
+Ahmed Abou Hashima put a study to the Egyptian Senate's economic and financial affairs committee, Youm7 reported on 17 November 2026. It proposes an AI system for government economic decisions, built on linked state databases and the Karnak national language model. It compares sovereign, hybrid and public-cloud hosting for economic data. Language models would not produce figures used in decisions.
 
 </div>
 
@@ -1592,6 +1606,20 @@ Senegal's data protection commission (CDP) warned on 5 November 2026 of rising A
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Statistics agency machine-learning targeting of poor households</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Why Africa's data future depends on NSO leadership](https://www.data4sdgs.org/blog/why-africas-data-future-depends-nso-leadership)** — Global Partnership for Sustainable Development Data, 11 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Heads of national statistics offices at the tenth Statistical Commission for Africa, held in Addis Ababa in October 2026, welcomed a proposed African NSO Leadership Exchange Platform. They agreed to build it into the STATAFRIC and PARIS21 leadership programmes. Ghana Statistical Service reported data-sharing agreements with 25 ministries, departments and agencies.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">National framework for anticipating AI in the world of work</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1599,6 +1627,34 @@ Senegal's data protection commission (CDP) warned on 5 November 2026 of rising A
 **[Mamadou Lamine Dianté suggère un cadre d’anticipation et d’accompagnement de l’IA - APS](https://aps.sn/mamadou-lamine-diante-suggere-un-cadre-danticipation-et-daccompagnement-de-lia/)** — Agence de presse sénégalaise (APS), 12 November 2026
 
 Senegal's Minister of the Civil Service, Mamadou Lamine Dianté, proposed on 12 November 2026 that the State, employers and unions draw up a national framework on AI at work, APS reported. The minister made the proposal at a workshop held with the Konrad Adenauer Foundation. The framework would cover changes in jobs and skills, training and workers' rights.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Tax and customs data-science use cases (Data Governance in Africa)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Governance in Africa – Supporting development-oriented and human-centric data regulation, use and infrastructure in Africa](https://www.expertisefrance.fr/en/projects/data-governance-africa-supporting-development-oriented-and-human-centric-data-regulation)** — Expertise France, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Expertise France's project page describes its part in the Data Governance in Africa Initiative. The EU funds the programme with EUR 60 million under its Global Gateway strategy. Expertise France supports Earth Observation labs with the Kenya Space Agency and AI work for agritech startups. It also builds data and AI tools for customs and tax authorities in Benin, Côte d'Ivoire and Senegal.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Orange open-weight Wolof language models</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Orange Releases Five Open-Weight AI Models for Wolof Language](https://techafricanews.com/2026/11/18/orange-releases-five-open-weight-ai-models-for-wolof-language/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Orange released five open-weight large language models for Wolof on Hugging Face, in five sizes, free for non-commercial use. They were trained on public datasets machine-translated into Wolof, with no Orange corporate data. Orange said it will join a coalition of more than 60 organisations working on linguistic diversity in AI.
 
 </div>
 
@@ -1689,6 +1745,20 @@ Somalia scored 1.50 out of 4 on the Africa AI Governance Index 2026, in the Emer
 **[SIMAD University Breaks Ground on Building to Host Somalia's National AI Hub](https://www.dawan.africa/news/simad-university-breaks-ground-on-building-to-host-somalias-national-ai-hub)** — Dawan Africa, 6 November 2026
 
 SIMAD University laid the foundation stone on 5 November 2026 for a building to host Somalia's National AI Hub. The hub links four universities; the minister of communications and technology laid the stone with the rector, Dawan Africa reports. Hadiid Group is building the ground-plus-five steel structure.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">COP31 pledge on AI as part of the climate solution</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Can AI data centres help power underserved African communities?](https://www.climatechangenews.com/2026/11/16/can-ai-data-centres-help-power-underserved-african-communities/)** — Climate Home News, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Somalia, Uganda and Sierra Leone endorsed the COP31 presidency's voluntary pledge on AI and climate at the UN climate summit in Antalya on 16 November 2026. Nine countries and more than 40 companies had signed it. Signatories commit to powering AI infrastructure sustainably, and the pledge calls for computing access for developing countries.
 
 </div>
 
@@ -2050,6 +2120,20 @@ The Uganda Civil Aviation Authority has upgraded the car parks at Entebbe Intern
 **[Will Uganda’s youth power the AI economy, or be left behind by it?](https://www.independent.co.ug/will-ugandas-youth-power-the-ai-economy-or-be-left-behind-by-it/)** — The Independent (Uganda), 13 November 2026
 
 The 2026 Commonwealth Youth AI Readiness Index was produced by the Ayre Think Tank. It was unveiled around the 1-4 November Commonwealth summit in Antigua and Barbuda. It ranks Uganda 23rd of 56 countries with a score of 47.0 out of 100, below the study's benchmark of 53. The study estimates AI could add US$899 million to Uganda's GDP over a decade.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">COP31 pledge on AI as part of the climate solution</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Can AI data centres help power underserved African communities?](https://www.climatechangenews.com/2026/11/16/can-ai-data-centres-help-power-underserved-african-communities/)** — Climate Home News, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Somalia, Uganda and Sierra Leone endorsed the COP31 presidency's voluntary pledge on AI and climate at the UN climate summit in Antalya on 16 November 2026. Nine countries and more than 40 companies had signed it. Signatories commit to powering AI infrastructure sustainably, and the pledge calls for computing access for developing countries.
 
 </div>
 

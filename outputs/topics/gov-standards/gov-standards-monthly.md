@@ -1,10 +1,10 @@
 ---
 title: Standards — News, October – November 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-19
+period: 2026-10-01 to 2026-11-19
 subject: gov.standards
 places: DZA; BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; SEN; ZAF; SDN; TUN; UGA; ZMB
-record: c2ea0306dcbc
+record: 83d79133d5bb
 ---
 
 # News, Oct – Nov 2026
@@ -388,6 +388,14 @@ ISO lists the Kenya Bureau of Standards (KEBS), set up under the Standards Act i
 **[AI Governance Fragmentation Cause For Concern](https://cioafrica.co/ai-governance-fragmentation-cause-for-concern/)** — CIO Africa, 12 November 2026
 
 Lawyers at Bowmans, writing in CIO Africa on 12 November 2026, warn that Kenya's AI rules risk overlapping mandates. They list the National AI Strategy of March 2025 and a draft AI policy published for comment in July 2026. A draft data governance policy and a private member's AI Bill are also in play. The Central Bank of Kenya published draft guidance on AI in banking in September 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governing AI in Kenya's Banking Sector: Inside CBK's Draft Guidance Notes on Artificial Intelligence](https://cipit.strathmore.edu/governing-ai-in-kenyas-banking-sector-inside-cbks-draft-guidance-notes-on-artificial-intelligence/)** — CIPIT, Strathmore University, 18 November 2026
+
+Linda Omondi of CIPIT analysed the Central Bank of Kenya's draft AI guidance for banks, issued for comment on 10 September 2026. The draft makes boards answerable for AI and requires CBK approval before deployment. Omondi faults its exclusion of payment service providers and a consent rule at odds with the Data Protection Act.
 
 </div>
 
