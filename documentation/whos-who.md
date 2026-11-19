@@ -18,7 +18,7 @@ status: design for CC's operational review; nothing built; Bill's rulings are §
 
 **For legal reasons a published row carries five fields and no others** *(Bill, 2026-11-19)*: `name`, `year`, `position`, `organisation`, `source_url`. No biography, nationality, gender, age, photograph, summary or quotation. The rule is on the output; §3 extends it to everything this repo commits, because the repo is public.
 
-**The build belongs in Corpus and asks nothing of OSINT.** OSINT collects and classifies; a Who's Who is a derived view. OSINT tags institutions and not officeholders, and holds no entity registry, so there is nothing over there to extend. The precedent is `build-entity-names.py`: the slugs are OSINT's, and how they are written is decided here.
+**The build belongs in Corpus and asks nothing of OSINT.** OSINT tags institutions and not officeholders, and holds no entity registry to extend. The precedent is `build-entity-names.py`: the slugs are OSINT's, and how they are written is decided here.
 
 ## 2. What exists already
 
@@ -34,11 +34,9 @@ status: design for CC's operational review; nothing built; Bill's rulings are §
 
 **Everything committed to this repo about a person is one of the five fields or an opaque key.** The repo is public and its history is permanent, so a working file is as published as a page. Three consequences:
 
-- **No evidence sentence is ever written to a tracked file.** The extractor reads the body, emits the fields and the source's path, and discards the text. A reviewer who wants the sentence re-reads the mirror.
+- **No evidence sentence is ever written to a tracked file.** The extractor reads the body, emits the fields and the source's path, and discards the text.
 - **No attribute is stored on a person.** Not a country, not a type, not a note. A person's place is derived at build time from the organisations of their positions and is never written down.
 - **Scratch that holds bodies or sentences lives outside the repo**, as `osint-patch.py`'s clone does.
-
-`scripts/lint-whos-who.py` (§8) holds the committed files to their declared columns.
 
 ## 4. The model
 
@@ -71,7 +69,7 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 
 **A row needs a person, a position and an organisation in the same statement.** That is the scope test as well as the extraction rule: a private individual named in a story has no position at an organisation and cannot produce a row. Bylines are excluded by construction — the `Author:` line is stripped with the frontmatter.
 
-1. **Candidate pass, deterministic.** Find sentences where a name-shaped run sits beside a role word (`Minister`, `Ministre`, `Director-General`, `Commissioner`, `Governor`, `Chief Executive`, `Chair`, `Permanent Secretary` and their French and Portuguese forms; the list is a lookup). In a rough sample of 3,000 files from `raw/2026`, 952 contained a role word at all, so expect candidates in something like a third of sources.
+1. **Candidate pass, deterministic.** Find sentences where a name-shaped run sits beside a role word (`Minister`, `Ministre`, `Director-General`, `Commissioner`, `Governor`, `Chief Executive`, `Chair`, `Permanent Secretary` and their French and Portuguese forms; the list is a lookup). In a rough sample of 3,000 files from `raw/2026`, 952 contained a role word.
 2. **Reading pass, by model, over the candidate sentence only.** Returns zero or more `(name, position, organisation-as-written, tense, years-if-stated)` tuples, or nothing. It returns nothing for a nominated, rumoured or hypothetical holder: a person who has not held the post has no row.
 
 **A former holder is a row, with `tense` `held`.** Three kinds of statement produce one, and the extractor tells them apart only to set the year:
@@ -82,7 +80,7 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 
 **An appointment reported is a `holds` row in the year of the event.** An acting or interim holder is a `holds` row whose position keeps the source's own qualifier.
 
-**The organisation is resolved against the source's own `entities:` tags first.** The tagged slugs are the short list; the organisation-as-written is matched to one of them through `entity-names.csv` and the variant rules. No match means the row is dropped and counted, not invented. This is what keeps the organisations table inside OSINT's vocabulary.
+**The organisation is resolved against the source's own `entities:` tags first.** The tagged slugs are the short list; the organisation-as-written is matched to one of them through `entity-names.csv` and the variant rules. No match means the row is dropped and counted, not invented.
 
 **`year` is the year the source attests, and claims nothing about a term of office.** It is the year of `published`, unless the sentence carries its own date. A source with `date_precision` coarser than a year yields no row. Two sources in two years are two rows; the index never infers a start, an end or the years between, and never turns a `holds` row into a `held` one because time has passed or a successor has appeared. **Nothing in the index says who is in post today**; the latest attested year is the most it claims.
 
@@ -97,7 +95,7 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 **A government department differs in three ways.**
 
 - **The published name carries the country.** `angola-ministry-of-interior` displays as *Ministry of Interior*, which is one of dozens. Where `kind` is `government` and the name does not already contain its place, the published form is `{name}, {country}`. About 500 slugs contain `ministry`.
-- **A ministry's name is true for a period.** Reshuffles rename, merge and split portfolios. **Each named incarnation keeps its own row and its own slug**, because a 2019 attestation should publish under the 2019 name, and `org-lineage.csv` links an incarnation to its successor. Nothing is collapsed. Lineage is filled by hand where a reader would otherwise be misled, and is not a completeness target.
+- **A ministry's name is true for a period.** Reshuffles rename, merge and split portfolios. **Each named incarnation keeps its own row and its own slug**, because a 2019 attestation should publish under the 2019 name, and `org-lineage.csv` links an incarnation to its successor. Nothing is collapsed. Lineage is filled by hand where a reader would be misled; it is not a completeness target.
 - **One body, two languages.** `ministere-justice-djibouti` and an English slug for the same ministry are one organisation; `entity-variants.py` already finds these. A confirmed pair sets `canonical_slug` here and is sent to OSINT as an `[ACT]` note so the tags converge; the index does not wait for that.
 
 **The government itself is not a position-holding organisation.** A row resolving only to `government-of-{country}` is kept for heads of state and government and dropped otherwise, since *Minister, Government of Ghana* tells a reader nothing the ministry row would not.
@@ -110,7 +108,7 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 
 **Merge automatically only when** the normalised names match in full **and** the two attestations share an organisation (by `canonical_slug` or lineage) or a country. Same name in two countries stays two people. An initial against a full given name (`A. Mensah`, `Ama Mensah`) is never merged automatically, even inside one ministry.
 
-**Everything else that looks alike is a candidate, written to `build/whos-who/merge-candidates.csv` and left separate** until a row in `person-rulings.csv` settles it. The file is a report, not a queue anything must drain; unresolved candidates are the correct resting state.
+**Everything else that looks alike is a candidate, written to `build/whos-who/merge-candidates.csv` and left separate** until a row in `person-rulings.csv` settles it. It is a report, not a queue; unresolved candidates are a correct resting state.
 
 **The canonical name is the fullest form the sources give, most frequent first on a tie**, and a `hand` row overrides it.
 
@@ -132,8 +130,6 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 4. No suppressed person or pair appears in `outputs/`.
 5. No published name appears under two `person_id`s within one organisation — the visible symptom of a missed safe merge.
 
-`lint-interface.py` should need no exception: the build reads `raw/` and `lookups/` and nothing of OSINT's process material.
-
 ## 8a. Searching, browsing and viewing
 
 **A view is the one table, filtered** *(Bill)*. Selecting a name in any row filters to that person's rows; selecting an organisation filters to its rows, following `org-lineage.csv` through a ministry's earlier names, each shown under the name it had. Every row in one view opens the other. The filtered table is the shared datatable and nothing more: **the reader sorts by person, position or year**, and the page imposes no grouping and no sequence of its own.
@@ -154,9 +150,7 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 
 ## 9. Build stages
 
-Each fits a session and has a finish line.
-
-1. **Pilot, one country.** Both extraction passes over one well-covered country, into scratch. *Finish:* a hand check of 200 rows giving precision for person, position and organisation separately, and the drop counts. This decides whether the reading pass is needed everywhere or patterns suffice for some sources.
+1. **Pilot, one country.** Both extraction passes over one well-covered country, into scratch. *Finish:* a hand check of 200 rows giving precision for person, position, organisation and `tense` separately, and the drop counts.
 2. **Organisations sidecar.** `organisations.csv` built for every slug the pilot reached; government naming rule applied. *Finish:* no published government name ambiguous across countries.
 3. **People.** Ids, aliases, the merge rule, the candidates report. *Finish:* lint 5 clean on the pilot country; a sample of 100 automatic merges checked by hand with none wrong.
 4. **Full run and incremental.** Whole corpus once, then only sources new since the last run, as a stage in `rebuild.py` after 2c. *Finish:* a nightly run adds rows without reissuing an id.
@@ -179,9 +173,10 @@ Nothing is open with Bill.
 - Whether the reading pass runs as agents inside the nightly cycle or as its own job, and what a full first run costs.
 - Whether `organisations.csv` as a sidecar is right, or `entity-names.csv` should grow the columns.
 - Where scratch lives, and whether `build/whos-who/` is tracked or ignored — `positions.csv` holds only fields and keys, but nothing requires it in history.
-- Whether the pilot's hand check should score `tense` and stated spans separately, since a `held` row wrongly read as `holds` is the error a history view makes most visible.
 - **The catalogue link, measured on the pilot:** the share of aliases that are exact entries in `outputs/names/`, and of people with none. A change to `names_lib.NAME` is its own job: the module has three readers and it moves `entity-names.csv`.
 - Whether the catalogue's search takes several names in one query and can match a whole name.
 - Whether the shard index and both views stay inside `lint-page-weight.py` at the full corpus's row count.
 - How ids stay stable when the mirror re-files a source or OSINT merges two slugs.
-- Whether stage 1's country should be one with heavy French-language coverage, since that is where name order and ministry naming are hardest.
+- Whether stage 1's country should be a French-language one, where name order and ministry naming are hardest.
+- **A `#` link to a person's view** (Cowork's suggestion, not a ruling): if stage 3 shows merges are reliable, a person id after the `#` makes a view shareable without a crawlable page. Ruling 4 stands until Bill revisits it.
+- **The doc cap** *(Bill, 2026-11-19)*: caps are for operational files and should not bind a one-off process or a design-stage note. `lint-docs.py` has no such exemption; CC adds one, and OSINT's table changes with it.
