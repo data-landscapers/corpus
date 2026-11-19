@@ -74,6 +74,8 @@ Whenever Cowork makes changes, I ask CC to review them from an operational point
 | bill | block | any | 80 words |
 | bill | annotation | any | 25 words |
 
+**A design note is uncapped while nothing is built** *(Bill, 2026-11-19)*: `type: design-note` with a `status:` beginning "design". The cap applies from the commit that marks it built.
+
 A Bill file's preamble is what comes before its first `##`. A block is a paragraph or a bullet, a note or a message. An annotation is a register line's italic *Done …* closing.
 
 **One line per paragraph. Never wrap by hand.** A hard-wrapped paragraph diffs badly: change one word near the start and every following line reflows, so the diff shows a rewritten paragraph instead of a changed word. It does not apply where the break carries meaning — frontmatter, code blocks, tables.

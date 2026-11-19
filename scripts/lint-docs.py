@@ -9,7 +9,8 @@
 → *Writing*, and this reads the table from there, so the caps have one home. A CC file is capped
 whole, by the class its `type:` falls in; a Bill file is capped per part: preamble, block and
 register annotation. A missing `reader:` fails, and so does a CC file whose `type:` is in no class,
-because a file with no class has no cap.
+because a file with no class has no cap. A `type: design-note` whose `status:` begins "design" is
+uncapped until it is built.
 
 **The reader is in frontmatter, or on the first line as `<!-- reader: cc; type: runbook -->`** where
 frontmatter would show (a public README) or would change what a parser makes of the file (OSINT's
@@ -113,6 +114,10 @@ def check(path: str, rel: str, cc: dict, bill: dict) -> list[str]:
         typ = fields.get("type", "").strip()
         if typ not in cc:
             return [f"{rel}: reader cc, `type: {typ or '(none)'}` is in no class, so no cap applies"]
+        # A design note before anything is built is a one-off, not an operational file, and is
+        # uncapped (Bill, 2026-11-19); the cap applies from the commit that marks it built.
+        if typ == "design-note" and fields.get("status", "").lower().startswith("design"):
+            return []
         cls, cap = cc[typ]
         n = words(body)
         return [f"{rel}: {n:,} words, over the cc {cls} cap of {cap:,}"] if n > cap else []
