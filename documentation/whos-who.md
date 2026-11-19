@@ -3,7 +3,7 @@ type: design-note
 reader: cc
 title: whos-who.md — a Who's Who index of officeholders, built in Corpus
 last_reviewed: 2026-11-19
-status: design for CC's operational review; nothing built; §10 holds Bill's rulings and what is still open
+status: design for CC's operational review; nothing built; Bill's rulings are §10, CC's open points §11
 ---
 
 # Who's Who index
@@ -14,7 +14,7 @@ status: design for CC's operational review; nothing built; §10 holds Bill's rul
 
 **A public index of who held which position in which organisation, in which year, with the source that says so.** One row is one attestation: a named source, published in a given year, states that a person holds or held a position at an organisation.
 
-**History is the point, not a by-product** *(Bill, 2026-11-19)*. The reader has seen a name in the news and wants the rest: where this person has been, and who else has passed through this organisation. A person's past positions and an organisation's past holders are worth more than a list of who is in post, so a statement about a former holder is kept and the views in §8 are built around the sequence.
+**History is the point, not a by-product** *(Bill, 2026-11-19)*. The reader has seen a name in the news and wants the rest: where this person has been, and who else has passed through this organisation. A person's past positions and an organisation's past holders are worth more than a list of who is in post, so a statement about a former holder is kept and the views in §8a let the reader follow both.
 
 **For legal reasons a published row carries five fields and no others** *(Bill, 2026-11-19)*: `name`, `year`, `position`, `organisation`, `source_url`. No biography, nationality, gender, age, photograph, summary or quotation. The rule is on the output; §3 extends it to everything this repo commits, because the repo is public.
 
