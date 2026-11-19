@@ -46,7 +46,7 @@ WORK = Path(os.environ.get("WHOS_WHO_WORK") or r"C:\whos-who-work")
 # source's later ones add repetition, not people. The cap is counted, never silent.
 MAX_SENTENCES = 30
 MAX_CHARS = 600            # a "sentence" longer than this is a table or list that lost its breaks
-BATCH_SOURCES = 120
+BATCH_SOURCES = 150
 
 SENT = re.compile(r"(?<=[.!?;])\s+(?=[A-ZÀ-ÖØ-Þ«\"“(])|\n\s*\n|\n(?=\s*[-*•])")
 
@@ -91,7 +91,7 @@ def main(argv=None) -> int:
     items = json.load(open(CATALOGUE, encoding="utf-8"))["items"]
     display = {r["slug"]: r["display"] for r in csv.DictReader(open(NAMES, encoding="utf-8"))}
     role, done = role_pattern(), cached_urls()
-    picked = [i for i in items if (a.all or a.place in i["places"]) and i["url"] not in done]
+    picked = [i for i in items if i["url"] and (a.all or a.place in i["places"]) and i["url"] not in done]
 
     rows, n_sent, n_capped, n_missing, n_coarse = [], 0, 0, 0, 0
     for it in picked:

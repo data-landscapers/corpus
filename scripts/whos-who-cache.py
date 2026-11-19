@@ -10,8 +10,9 @@ every tuple against its input batch and §5's rules and appends what passes to
 yielded nothing gets one row with the rest blank, so it is not read again. A tuple that
 fails is dropped and counted by cause — never repaired.
 
-**A batch is admitted whole or not at all**: a batch whose output misses an input URL is
-reported and skipped, so a half-read batch is read again rather than cached as empty.
+**A source the output never mentions is left uncached**, not cached as empty, so the next
+candidate pass batches it again; the rest of its batch is admitted. Run it only on batches
+whose agent has finished — a batch still being written reads as mostly unread.
 """
 from __future__ import annotations
 
@@ -70,19 +71,26 @@ def main(argv=None) -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("tag")
     ap.add_argument("--dry", action="store_true")
+    ap.add_argument("--only", help="comma-separated batch numbers whose agents have finished")
     a = ap.parse_args(argv)
 
     have = set()
     if CACHE.exists():
         have = {r["source_url"] for r in csv.DictReader(open(CACHE, encoding="utf-8"))}
     drops, rows, kept_batches, skipped = collections.Counter(), [], 0, []
+    only = {int(x) for x in a.only.split(",")} if a.only else None
     for cand in sorted((WORK / "candidates" / a.tag).glob("batch-*.json")):
-        out = WORK / "out" / a.tag / (cand.stem + ".jsonl")
-        if not out.exists():
+        if only is not None and int(cand.stem.split("-")[1]) not in only:
+            continue
+        # A large batch may come back in parts: batch-NNN.jsonl and batch-NNN.partK.jsonl.
+        outs = sorted((WORK / "out" / a.tag).glob(cand.stem + ".*jsonl"))
+        if not outs:
             continue
         src = {s["url"]: s for s in json.load(open(cand, encoding="utf-8"))}
+        if all(u in have for u in src):
+            continue
         lines = []
-        for ln in open(out, encoding="utf-8"):
+        for ln in (x for p in outs for x in open(p, encoding="utf-8")):
             ln = ln.strip()
             if not ln:
                 continue
@@ -90,17 +98,18 @@ def main(argv=None) -> int:
                 lines.append(json.loads(ln))
             except json.JSONDecodeError:
                 drops["unparseable line"] += 1
+        # A source the agent never mentioned is left uncached, not cached as empty, so the
+        # next candidate pass batches it again. Its siblings are admitted.
         seen_urls = {o.get("url") for o in lines}
         missing = set(src) - seen_urls
         if missing:
-            skipped.append(f"{cand.stem}: {len(missing)} input URLs absent from output")
-            continue
+            skipped.append(f"{cand.stem}: {len(missing)} sources unread, left for the next pass")
         kept_batches += 1
         batch_rows, yielded = [], set()
         for o in lines:
             u = o.get("url")
-            if u not in src:
-                drops["url not in input"] += 1
+            if not u or u not in src:
+                drops["url empty or not in input"] += 1
                 continue
             if o.get("none"):
                 continue
@@ -143,7 +152,7 @@ def main(argv=None) -> int:
             batch_rows.append(dict(zip(COLS, [u, name, pos, org, slug, tense, year, year_to])))
         got = {r["source_url"] for r in batch_rows}
         for u in src:
-            if u in have:
+            if u in have or u in missing:
                 continue
             if u not in got:
                 batch_rows.append(dict(zip(COLS, [u] + [""] * (len(COLS) - 1))))
