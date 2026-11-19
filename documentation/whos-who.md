@@ -3,7 +3,7 @@ type: design-note
 reader: cc
 title: whos-who.md — a Who's Who index of officeholders, built in Corpus
 last_reviewed: 2026-11-19
-status: design, owned by CC; nothing built; Bill's rulings are §10, what stage 1 measures §11
+status: design, owned by CC; stage 1 done, full reading pass under way; Bill's rulings are §10, stage 1's results §11
 ---
 
 # Who's Who index
@@ -43,7 +43,7 @@ status: design, owned by CC; nothing built; Bill's rulings are §10, what stage 
 
 Lookups and the cache are CSV. Lookups are hand-correctable and a deriver never overwrites a `hand` row.
 
-**`build/whos-who/extract.csv`** — tracked; the model's output, one row per tuple: `source_url`, `name_as_written`, `position`, `org_as_written`, `tense`, `year`, `year_to`. **Keyed by `source_url`, not file path**, so a source the mirror re-files is not read again and its rows keep their ids. A source is read once; a source with no tuples gets one row with the rest blank, so it is not read again either. Organisation and person are resolved from it at every build, so a slug merge or an alias ruling takes effect without the model.
+**`build/whos-who/extract.csv`** — tracked; the model's output, one row per tuple: `source_url`, `name_as_written`, `position`, `org_as_written`, `slug_hint`, `tense`, `year`, `year_to`. `slug_hint` is the model's pick from the source's own tags, kept only if it is one of them; the build prefers it and falls back to matching. **Keyed by `source_url`, not file path**, so a source the mirror re-files is not read again and its rows keep their ids. A source is read once; a source with no tuples gets one row with the rest blank, so it is not read again either. Organisation and person are resolved from it at every build, so a slug merge or an alias ruling takes effect without the model.
 
 **`lookups/organisations.csv`** — one row per organisation the index names. A sidecar keyed on OSINT's slug, so `entity-names.csv`, which is rebuilt nightly and has four readers, is untouched.
 
@@ -180,8 +180,14 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 
 Nothing is open with Bill.
 
-## 11. What stage 1 measures
+## 11. Stage 1, Côte d'Ivoire, 2026-11-19
 
-- **Cost:** tokens per file through the reading pass, scaled to about 15,000 files. A rough expectation is in the range of a first-pass maturity batch, about 2% of the week; a pilot that implies much more is reported before the full run.
-- **The catalogue link:** the share of aliases that are exact entries in `outputs/names/`, and of people with none; whether the catalogue's search takes several names in one query and can match a whole name.
-- **Page weight:** rows per source, scaled. The table's data file must stay under 2 MB compressed (`lint-page-weight.py`); past it, the catalogue's split applies. 100,000 rows is the query-service line, and a plausible yield is well under it.
+**Done.** `scripts/whos-who-candidates.py` and `scripts/whos-who-cache.py`; the reading pass is Sonnet agents on `C:\whos-who-work\brief.md`, one batch each.
+
+- **Yield:** 1,210 catalogue sources; 847 with candidate sentences (4,081); 604 yielded 1,241 rows, 238 nothing. Lints dropped 55 tuples: 26 positions over 12 words, 22 with no role word, 2 names under 2 words, 2 the source's author.
+- **Precision, 200 rows by hand:** person 200/200, position 198/200, organisation 197/200, tense 200/200 (few `held` rows in the sample, so tense is thinly tested).
+- **Cost:** about 1.6M Sonnet tokens, of which about 50k a batch is fixed agent overhead; batches are now 150 sources. The full catalogue has 31,089 sources with candidates and 179,088 sentences, so roughly 55–70M tokens.
+- **The role list was widened** after the check (board members, advisers, chefs de cabinet, secretaries): positions such as *Membre du Conseil* had failed the role-word lint.
+- **Authors:** 2 of 835 rows were a source's own author named with a post in the text; the cache now drops a name that matches the catalogue's `author`.
+
+**Still to measure, at stage 3–4:** the share of aliases that are exact entries in `outputs/names/`; whether the catalogue's search takes several names and matches a whole name; and the page weight at full row count against `lint-page-weight.py`'s 2 MB compressed line. The pilot's rate, about 1.5 rows a candidate source, puts the full index near 45,000 rows, under the 100,000-row query-service line.
