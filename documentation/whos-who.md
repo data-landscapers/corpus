@@ -3,7 +3,7 @@ type: design-note
 reader: cc
 title: whos-who.md — a Who's Who index of officeholders, built in Corpus
 last_reviewed: 2026-11-19
-status: design, owned by CC; stage 1 done, full reading pass under way; Bill's rulings are §10, stage 1's results §11
+status: design, owned by CC; stage 1 and the full reading pass done; Bill's rulings are §10, stage 1's results §11
 ---
 
 # Who's Who index
@@ -190,6 +190,6 @@ Nothing is open with Bill.
 - **The role list was widened** after the check (board members, advisers, chefs de cabinet, secretaries): positions such as *Membre du Conseil* had failed the role-word lint.
 - **Authors:** 2 of 835 rows were a source's own author named with a post in the text; the cache now drops a name that matches the catalogue's `author`.
 
-**Full reading pass, paused 2026-11-19 at the quota line:** batches 1–99 of 202 admitted; the cache holds 22,348 attestations from 15,619 sources, about 180k Sonnet tokens a 150-source batch. **To resume:** empty `C:\whos-who-work\candidates\all\` and `out\all\`, rerun `whos-who-candidates.py --all` (the cache excludes what is done, and re-batches any source an agent skipped), launch readers on the brief, and admit each finished batch with `whos-who-cache.py all --only N`.
+**Full reading pass, done 2026-11-19** (paused once at the quota line, resumed at 19:13): 202 + 103 batches. The cache holds 42,357 attestations (1,377 `held`) from 30,923 sources; about 180–250k Sonnet tokens a 150-source batch. **14 sources an agent skipped remain uncached** and go to the next incremental pass. **To run a pass:** empty `C:\whos-who-work\candidates\all\` and `out\all\`, run `whos-who-candidates.py --all` (the cache excludes what is done), launch readers on the brief, and admit each finished batch with `whos-who-cache.py all --only N`. The next stage is 2, the organisations sidecar.
 
 **Still to measure, at stage 3–4:** the share of aliases that are exact entries in `outputs/names/`; whether the catalogue's search takes several names and matches a whole name; and the page weight at full row count against `lint-page-weight.py`'s 2 MB compressed line. The pilot's rate, about 1.5 rows a candidate source, puts the full index near 45,000 rows, under the 100,000-row query-service line.
