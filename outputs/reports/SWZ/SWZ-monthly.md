@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: SWZ
 ledger_rows: 41
 not_held: 3
-record: b60f1867aad3
+record: 82c746a31f5d
 ---
 
 # News, Oct – Nov 2026
@@ -223,6 +223,14 @@ Eswatini's ICT ministry said on 23 October 2026 that 13 government online servic
 **[Govt to set up 24/7 cybersecurity centre after attacks](https://eswatinipositivenews.online/govt-to-set-up-24-7-cybersecurity-centre-after-attacks/)** — Eswatini Positive News, 14 November 2026
 
 Eswatini's ICT ministry told Parliament it will set up a 24-hour security operations centre and separate recovery sites, reported on 14 November 2026. This follows a September 2026 incident at the National Data Centre that disrupted at least 12 government platforms. 75% of the affected services had been restored.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Another govt online services blackout](https://www.eswatiniobserver.com/eswatini-government-online-services-rstp-shutdown/)** — Eswatini Observer, 19 November 2026
+
+Eswatini's government switched off 16 systems hosted at the Royal Science and Technology Park data centre on the night of 17 November 2026, as a precaution. The Government in Your Hand portal, ID and passport applications, company registration and tax services were affected. The ICT ministry gave no cause. Thirteen services had been restored a month earlier after October's disruptions.
 
 </div>
 
@@ -594,6 +602,14 @@ Summarised under [Data Storage](#data-storage).
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Another govt online services blackout](https://www.eswatiniobserver.com/eswatini-government-online-services-rstp-shutdown/)** — Eswatini Observer, 19 November 2026
+
+Summarised under [Data Storage](#data-storage).
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -673,6 +689,14 @@ The Ayre Index, launched at the Commonwealth Heads of Government Meeting and rep
 **[E15 MILLION UNESWA UNIPOD HUB TO DRIVE YOUTH INNOVATION AND JOB CREATION](https://eswatinipositivenews.online/e15-million-uneswa-unipod-hub-to-drive-youth-innovation-and-job-creation/)** — Eswatini Positive News, 24 October 2026
 
 The University of Eswatini is building a E15 million innovation pod at its library, funded by the UN Development Programme. The vice-chancellor announced it at the 44th graduation on 24 October 2026. The pod will give students from the country's institutions space and equipment to start businesses, and the communications commission pledged US$150,000.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Eswatini UniPod to Advance Youth-Led Innovation](https://www.undp.org/eswatini/news/eswatini-unipod-advance-youth-led-innovation)** — United Nations Development Programme, 18 November 2026
+
+ESCCOM E2.5m a year for three years; Kwaluseni facility two-thirds built, due by end-2026.
 
 </div>
 
