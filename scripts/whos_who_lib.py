@@ -66,7 +66,23 @@ EXTRA_PHRASES = {("sao", "tome"): "STP", ("guine", "bissau"): "GNB", ("saudi", "
                  ("guinea", "ecuatorial"): "GNQ", ("guinee", "equatoriale"): "GNQ"}
 FOREIGN = {"CHN": "China", "FRA": "France", "IND": "India", "JPN": "Japan", "KOR": "South Korea",
            "ITA": "Italy", "BRA": "Brazil", "QAT": "Qatar", "ARE": "United Arab Emirates",
-           "JOR": "Jordan", "TWN": "Taiwan", "EST": "Estonia", "SAU": "Saudi Arabia", "FIN": "Finland"}
+           "JOR": "Jordan", "TWN": "Taiwan", "EST": "Estonia", "SAU": "Saudi Arabia", "FIN": "Finland",
+           # Homes of foreign bodies in `org-places.csv` (2026-11-20)
+           "GBR": "United Kingdom", "USA": "United States", "DEU": "Germany", "SWE": "Sweden",
+           "NLD": "Netherlands", "BEL": "Belgium", "NOR": "Norway", "LUX": "Luxembourg",
+           "RUS": "Russia", "LBN": "Lebanon", "AUT": "Austria", "CHE": "Switzerland",
+           "CAN": "Canada"}
+# Where an organisation is based, by hand, where neither its slug nor its sources can say:
+# an international body, or a foreign government or company that the sources only ever
+# report in Africa (Bill, 2026-11-20: the UK FCDO was placed in Nigeria). `XGL` publishes as
+# *International*.
+PLACES = ROOT / "lookups" / "org-places.csv"
+PLACES_COLS = ["slug", "place", "basis"]
+# A slug naming one of these and no other country is that country's body: `uk-fcdo`. Used for
+# placing only, never for matching, so no resolution moves.
+FOREIGN_TOKENS = {"uk": "GBR", "british": "GBR", "britain": "GBR", "us": "USA", "usa": "USA",
+                  "american": "USA", "germany": "DEU", "german": "DEU"}
+FOREIGN_PHRASES = {"united-kingdom": "GBR", "united-states": "USA"}
 ISO_OF = {**ISO_OF, **EXTRA}
 CTOK = CTOK | set(EXTRA)
 PHRASES = {**PHRASES, **EXTRA_PHRASES}

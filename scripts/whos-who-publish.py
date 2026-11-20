@@ -142,7 +142,7 @@ def build() -> dict:
          else gone_people.add(r["person_id"]))
     cat = W.catalogue()
     doc_id = {r["slug"]: int(r["id"]) for r in read(DOC_IDS)}
-    places = W.countries()
+    places = {**W.countries(), "XGL": "International"}   # a UN agency, a global NGO
     person_names = {W.fold(n) for n in people.values()} | {W.fold(a) for s in aliases.values() for a in s}
 
     facts, dropped = [], collections.Counter()

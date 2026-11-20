@@ -74,6 +74,30 @@ def owns(form: str, slug: str) -> bool:
 GOV_OF = ("government", "gouvernement", "governo", "gobierno")
 
 
+def place_of(slug: str, res, placed: dict[str, str]) -> str:
+    """Where the organisation is based (Bill, 2026-11-20: the UK FCDO read as Nigeria).
+
+    1. `org-places.csv`, by hand: international bodies (`XGL`), and foreign governments and
+       companies the sources only ever report in Africa.
+    2. The one country the slug names, African or foreign (`uk-fcdo`).
+    3. The place most of the sources tagging it share; where none holds a majority the body
+       works across many countries and its sources cannot say where it is, so it is left
+       blank rather than given the country it happened to be reported in most."""
+    if slug in placed:
+        return placed[slug]
+    toks = slug.split("-")
+    named = set(W.slug_countries(slug)) | {W.FOREIGN_TOKENS[t] for t in toks if t in W.FOREIGN_TOKENS} \
+        | {iso for ph, iso in W.FOREIGN_PHRASES.items() if ph in slug}
+    if len(named) == 1:
+        return named.pop()
+    place = res.place.get(slug, "")
+    seen = res.places.get(slug)
+    if place and not place.startswith("X") and seen and not named \
+            and seen.most_common(1)[0][1] * 2 < sum(seen.values()):
+        return ""
+    return place
+
+
 def name_for(slug: str, place: str, display: dict | None, forms: collections.Counter,
              country: dict) -> tuple[str, str]:
     """(name, how). A written form is used only if it is recognisably the slug's own
@@ -120,13 +144,16 @@ def main(argv=None) -> int:
 
     use = res.use
     hand = {r["slug"]: r for r in W.read_csv(W.ORGS, W.ORG_COLS) if r["basis"] == "hand"}
+    placed = {r["slug"]: r["place"] for r in W.read_csv(W.PLACES, W.PLACES_COLS)}
     out, named, unnamed, national = {}, collections.Counter(), [], set()
     for slug in forms:
         if slug in hand:
             out[slug] = hand[slug]
             continue
-        place = res.place.get(slug, "")
         kind = "government" if W.is_government(slug, stems) else "other"
+        # A government is always some country's: the majority test is for bodies that work
+        # across many.
+        place = place_of(slug, res, placed) or (res.place.get(slug, "") if kind == "government" else "")
         name, nh = name_for(slug, place, names.get(slug), forms[slug], country)
         named[nh] += 1
         if not name:
