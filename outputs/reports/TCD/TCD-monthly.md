@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: TCD
-ledger_rows: 21
+ledger_rows: 22
 not_held: 23
-record: 64b5eef11905
+record: 27468d748670
 ---
 
 # News, Oct – Nov 2026
@@ -18,6 +18,8 @@ record: 64b5eef11905
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -381,6 +383,28 @@ Chad's national land freight bureau BNFT signed an agreement with Konoom Mobile 
 **[Éducation et Santé : la SONEMIC offre du matériel informatique](https://tchadinfos.com/2026/11/17/education-et-sante-la-sonemic-offre-du-materiel-informatique/)** — Tchadinfos, 17 November 2026
 
 Chad's state mining company SONEMIC handed servers, interconnection equipment and security infrastructure to the education ministry and the national digital health programme on 17 November 2026. SONEMIC paid for the equipment itself. It is meant to host platforms including Td-connect, E-Santé, E-éducation and Td-scolar, built with engineers from the ICT agency ADETIC.
+
+</div>
+
+</div>
+
+## Digitalisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+</nav>
+
+### Digitalisation of sub-national government
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NEXUS HDP decision-support platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ouaddaï : la plateforme NEXUS HDP pour renforcer la coordination des interventions - Tchadinfos](https://tchadinfos.com/2026/11/19/ouaddai-la-plateforme-nexus-hdp-pour-renforcer-la-coordination-des-interventions/)** — Tchadinfos, 19 November 2026
+
+Chad's Ouaddai provincial council opened a workshop in Abeche on 17 November 2026 on NEXUS HDP, a digital decision-support platform built with UNDP technical support. It maps local needs, tracks projects and locates humanitarian, development and peace interventions. It will be used to monitor the provincial development plan.
 
 </div>
 
