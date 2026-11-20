@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: ZAF
-ledger_rows: 120
+ledger_rows: 123
 not_held: 17
-record: f724887a19cf
+record: 4125c14d773a
 ---
 
 # News, Oct – Nov 2026
@@ -244,6 +244,20 @@ South Africa's Information Regulator fined First National Bank R1 million after 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Media and Digital Platforms Market Inquiry remedies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Commission Settles with X Corp. and Concludes Voluntary Undertaking with X.AI](https://www.compcom.co.za/wp-content/uploads/2026/11/Media-Statement-Commission-reaches-settlement-agreement-with-XCorp-and-undertaking-with-XAI-18-November-2026.pdf)** — Competition Commission of South Africa, 18 November 2026
+
+MDPMI remedies amended: X Corp publisher support cut to two years; X.AI remedies swapped for a voluntary undertaking.
+
+</div>
+
+</div>
+
 ### Data protection
 
 <div class="monthly-story" markdown="1">
@@ -263,6 +277,20 @@ South Africa's National Consumer Commission published draft guidelines on compli
 **[National Consumer Commission launches National Opt-Out Registry](https://www.gov.za/news/media-statements/national-consumer-commission-launches-national-opt-out-registry-07-oct-2026)** — South African Government, 7 October 2026
 
 South Africa's National Consumer Commission launched the National Opt-Out Registry on 7 October 2026, letting consumers block unwanted direct-marketing calls, SMSes and other messages free of charge. Direct marketers must register by December 2026 and may cleanse their lists free until April 2027; consumers can register blocks from May 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Information Regulator e-services platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[InfoReg strengthens cyber defences as breaches mount](https://www.itweb.co.za/article/inforeg-strengthens-cyber-defences-as-breaches-mount/DZQ58vV8WyPMzXy2)** — ITWeb South Africa, 19 November 2026
+
+2,374 breach notices in 2024/25; ~200,000 information officer registrations; ICT division with AI posts, unfunded.
 
 </div>
 
@@ -349,6 +377,14 @@ The South African Bureau of Standards published draft AI standards for comment, 
 **[Cassava Technologies and Mauritius Telecom Partner to Expand AI Services Across Africa](https://techafricanews.com/2026/11/18/cassava-and-mauritius-telecom-partner-to-expand-ai-services-across-africa/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
 
 Cassava Technologies and Mauritius Telecom signed a memorandum of understanding at Africa Tech Festival in Cape Town. Mauritius Telecom is to explore using Cassava's Cape Town AI Factory and CAIMEx models as on-demand compute. They will also assess its myt Learn AI tutor for South African schools; no sum was disclosed.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cassava Technologies and Mauritius Telecom sign MoU on AI services and education in Africa](https://www.cassavatechnologies.com/signs-a-memorandum-of-understanding-with-mauritius-telecom/)** — Cassava Technologies, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
+
+Company's own release; MT to tap Cassava AI Factory and CAIMEx; myt Learn assessed for South African schools.
 
 </div>
 
@@ -1398,6 +1434,22 @@ South Africa's Home Affairs had Smart ID replacement services running at 753 ban
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Home Affairs triples access to passport services overnight](https://www.gov.za/news/media-statements/home-affairs-triples-access-passport-services-overnight-18-nov-2026)** — South African Government, 18 November 2026
+
+Adult passports at 480 bank branches, service points 228 to 708; Smart ID at 833 branches, 1.16m applications.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister Leon Schreiber : The next phase of the Digital Partnership](https://www.gov.za/news/speeches/minister-leon-schreiber-next-phase-digital-partnership-18-nov-2026)** — South African Government (Department of Home Affairs), 18 November 2026
+
+68 Absa and 412 Capitec branches, 228 to 708 passport points; Smart ID at 833 branches; ePassport due 2027.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -2030,6 +2082,14 @@ The Western Cape Government and Microsoft launched CAPEability AI, a programme o
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Western Cape Government partners with Microsoft to prepare residents for the AI economy](https://www.westerncape.gov.za/department-premier/article/western-cape-government-partners-microsoft-prepare-residents-ai-economy)** — Western Cape Government, 19 November 2026
+
+Provincial release; launched 17 Nov 2026; ages 18-35; SA 46th of 147 on Microsoft AI adoption (early 2026).
+
+</div>
+
 </div>
 
 ### Research institutions
@@ -2043,6 +2103,20 @@ The Western Cape Government and Microsoft launched CAPEability AI, a programme o
 **[SA’s ICT sector records largest increase in R&D spend](https://www.itweb.co.za/article/sas-ict-sector-records-largest-increase-in-rd-spend/G98YdqLGAAGMX2PD)** — ITWeb South Africa, 5 November 2026
 
 The National R&D Survey for 2024/25 puts South Africa's ICT research spending at R5.7 billion, up R853 million, the largest rise of any field. Total R&D spending was R44.2 billion, and intensity fell from 0.62% to 0.60% of GDP. Business R&D fell by R742 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Foundational Digital Capabilities Research Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister Blade Nzimande: South Africa and the AI opportunity conference](https://www.gov.za/news/speeches/minister-blade-nzimande-south-africa-and-ai-opportunity-conference-19-nov-2026)** — South African Government (Department of Science, Technology and Innovation), 19 November 2026
+
+DSTI closing remarks; AI anchored in STI Decadal Plan 2022-2032; CAIR and sovereign-compute programme; 90-day mandate.
 
 </div>
 
