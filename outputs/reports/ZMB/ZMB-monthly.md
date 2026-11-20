@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: ZMB
-ledger_rows: 34
+ledger_rows: 36
 not_held: 32
-record: 6ea51dbdf8ea
+record: 3900e0ea9cf7
 ---
 
 # News, Oct – Nov 2026
@@ -455,6 +455,34 @@ Zambia's meteorological department and Ministry of Agriculture began building a 
 **[ZAMBIA STRIVES TO BRIDGE DIGITAL GAP - Zambia 24](https://zambia24.com/2026/11/09/zambia-strives-to-bridge-digital-gap/)** — Zambia 24, 9 November 2026
 
 Zambia released its 2025 national survey on access and use of ICTs on 9 November 2026. Individual internet access was 29.7% in 2025, up from 25.2% in 2022. Only 7.7% of respondents knew of ZamPortal.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public Service Pensions Fund biometric life verification system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PSPF innovation impresses ICTAZ CEO at inaugural Tech Fair](https://www.pspf.org.zm/news/pspf-innovation-impresses-ictaz-ceo-at-inaugural-tech-fair/)** — Public Service Pensions Fund, 17 November 2026
+
+Remote biometric proof-of-life for pensioners, shown at ICTAZ Tech Fair, Lusaka, 13 Nov 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online Passport Application and Payment System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia discontinues manual passport applications, moves fully online — Mwebantu](https://www.mwebantu.com/zambia-discontinues-manual-passport-applications-moves-fully-online/)** — Mwebantu, 18 November 2026
+
+Ministry statement by PS Dickson Matembo; online and manual run in parallel since December 2025 launch.
 
 </div>
 
