@@ -1,12 +1,12 @@
 ---
 title: Namibia: status report
-compiled: 2026-11-14
+compiled: 2026-11-20
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 213
+sources_cited: 214
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -340,7 +340,7 @@ MTC has reported that [much of its 4G capacity in the Kunene region goes unused]
 
 [Namibia launched its first National Strategy for the Development of Statistics, running from 2023/24 to 2026/27, on 5 July 2023](https://namibia.unfpa.org/en/news/namibia-launches-its-first-national-strategy-development-statistics).
 
-[In the decade to 2023 Namibia ran no agricultural survey and no business survey, one health survey and one household survey, and three or more labour surveys](https://www.worldbank.org/en/programs/statistical-performance-indicators). [All three census types the World Bank tracks, population, agricultural and business, were conducted in the same decade](https://www.worldbank.org/en/programs/statistical-performance-indicators). [In August 2026 the statistics agency released a public-use microdata sample of about 20% of the 2023 census records, on registration](https://nsa.org.na/wp-content/uploads/2026/10/Media-Release_2023-Public-Use-Microdata-Sample-05.08.2026.pdf).
+[In the decade to 2023 Namibia ran no agricultural survey and no business survey, one health survey and one household survey, and three or more labour surveys](https://www.worldbank.org/en/programs/statistical-performance-indicators). [All three census types the World Bank tracks, population, agricultural and business, were conducted in the same decade](https://www.worldbank.org/en/programs/statistical-performance-indicators). [In August 2026 the statistics agency released a public-use microdata sample of about 20% of the 2023 census records, on registration](https://nsa.org.na/wp-content/uploads/2026/10/Media-Release_2023-Public-Use-Microdata-Sample-05.08.2026.pdf). [On 18 November 2026 the agency launched an SDG portal and reported 176 of 248 global SDG indicators for 2025, 71% against 66% before](https://neweralive.na/ngurare-demands-data-accountability-as-country-launches-sdg-portal/).
 
 [Birth registration completeness fell sharply in 2021, on the statistics agency's own reporting](https://nsa.org.na/wp-content/uploads/2024/07/2018-2021_Namibia-Vital-Statistics-Report_April-2024.pdf). [The agency compiles mortality and cause-of-death statistics from civil registration records, the latest edition covering 2018-2021](https://nsa.org.na/wp-content/uploads/2025/01/Report-on-Mortality-and-Causes-of-Deaths-in-Namibia-2018-2021.pdf).
 
