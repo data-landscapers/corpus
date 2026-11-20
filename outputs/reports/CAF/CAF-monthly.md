@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: CAF
-ledger_rows: 14
+ledger_rows: 15
 not_held: 5
-record: ce539f9ac283
+record: f7c3c14460d7
 ---
 
 # News, Oct – Nov 2026
@@ -101,6 +101,8 @@ The country's international connectivity rests largely on a 935 km fibre segment
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -139,6 +141,22 @@ The Central African Republic opened an invitation for bids on 19 October 2026 fo
 **[ELABORATION DU CAHIER DE CHARGE FONCTIONNEL ET TECHNIQUE PLATE FORME FINTEC](https://www.ungm.org/Public/Notice/318521)** — United Nations Development Programme (UNDP) via UNGM, 16 October 2026
 
 UNDP in the Central African Republic is seeking an individual consultant to write the functional and technical specification for POST CASH, a national fintech platform. The contract is 30 working days over two months in Bangui, and bids close on 25 October 2026.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil Status Management Software (LGEC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Training of civil registrars in CAR to protect civil status](https://yacanews.com/2026/11/rca-forme-agents-detat-civil-a-la-gestion-des-archives-et-protection?lang=en)** — Ya Ça News, 17 November 2026
+
+EU MODERO project run by CIVIPOL; 28 officers trained in Bangui on registry archiving and LGEC digitisation, 11-13 Nov.
 
 </div>
 
