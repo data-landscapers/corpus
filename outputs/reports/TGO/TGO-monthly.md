@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: TGO
-ledger_rows: 33
+ledger_rows: 38
 not_held: 15
-record: 561fc45a0a4a
+record: 70bd64e8ba7f
 ---
 
 # News, Oct – Nov 2026
@@ -98,6 +98,14 @@ Togo's personal data protection authority, IPDCP, opened its first evaluation an
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Protection des données personnelles : 28 Correspondants certifiés par l’IPDCP - IPDCP](https://ipdcp.tg/protection-des-donnees-personnelles-28-correspondants-certifies-par-lipdcp/)** — IPDCP, 18 November 2026
+
+First 28 certified data protection officers, 18 November 2026; banks, telcos, ports; three-year certificates.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -131,6 +139,20 @@ Togo's data-protection authority IPDCP held the country's first national data-pr
 **[Qu’est-ce que la Journée Nationale de la Protection des Données Personnelles (JNPDP) ? - IPDCP](https://ipdcp.tg/quest-ce-que-la-journee-nationale-de-la-protection-des-donnees-personnelles-jnpdp/)** — IPDCP, 29 October 2026
 
 Togo's data-protection authority IPDCP set its national data-protection day on 29 October, the date of Law 2019-014 on personal data protection. The first edition, in 2026, took data governance and digital sovereignty as its theme. The day itself is summarised under the Le Visionnaire report of the same date.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Instance de protection des donnees a caractere personnel</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Protection des données personnelles : 28 Correspondants certifiés par l’IPDCP - IPDCP](https://ipdcp.tg/protection-des-donnees-personnelles-28-correspondants-certifies-par-lipdcp/)** — IPDCP, 18 November 2026
+
+Summarised under [Data protection](#data-protection).
 
 </div>
 
@@ -207,6 +229,50 @@ Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communic
 </nav>
 
 ### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Guichet unique des formalites du commerce international</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Arrêté interministériel n° 011/MESPTN/MFB/MDEM/MDCCQ du 14 octobre 2026 portant mise en conformité du dispositif national de guichet unique maritime, portuaire et du commerce extérieur avec la Convention FAL, fixant les règles d'interopérabilité entre le GUCE, le GUFORD et le Port Community System (PCS) et organisant la substitution du PCS au GUCE et au GUFORD](https://jo-togo.darkaa.com/pdf/276c685934b81a97bb4a3505ef600423866f472505389054f82a695dcf4a0bf0.pdf)** — Journal officiel de la République togolaise, 28 October 2026
+
+FAL-compliance order: GUCE and GUFORD must interoperate, PCS replaces both; technical committee under maritime ministry.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Port de Lomé : un nouveau guichet numérique va remplacer les plateformes GUCE et GUFORD](https://www.togofirst.com/fr/logistique/1911-20689-port-de-lome-un-nouveau-guichet-numerique-va-remplacer-les-plateformes-guce-et-guford)** — Togo First, 19 November 2026
+
+A single Port Community System will replace the GUCE and GUFORD platforms at the Port of Lomé. The interministerial order of 14 October 2026 was published in the Journal officiel on 28 October, Togo First reported on 19 November. No go-live date has been reported.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Port Community System (Port of Lome)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Arrêté interministériel n° 011/MESPTN/MFB/MDEM/MDCCQ du 14 octobre 2026 portant mise en conformité du dispositif national de guichet unique maritime, portuaire et du commerce extérieur avec la Convention FAL, fixant les règles d'interopérabilité entre le GUCE, le GUFORD et le Port Community System (PCS) et organisant la substitution du PCS au GUCE et au GUFORD](https://jo-togo.darkaa.com/pdf/276c685934b81a97bb4a3505ef600423866f472505389054f82a695dcf4a0bf0.pdf)** — Journal officiel de la République togolaise, 28 October 2026
+
+Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Port de Lomé : un nouveau guichet numérique va remplacer les plateformes GUCE et GUFORD](https://www.togofirst.com/fr/logistique/1911-20689-port-de-lome-un-nouveau-guichet-numerique-va-remplacer-les-plateformes-guce-et-guford)** — Togo First, 19 November 2026
+
+Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -527,8 +593,26 @@ The Ayre Think Tank published an AI readiness index at the Commonwealth summit i
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#training-and-skills">Training and skills</a>
 </nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Basic digital skills programme for 20,000 civil servants</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[20.000 fonctionnaires formés au numérique](https://www.republicoftogo.com/toutes-les-rubriques/developpement/20.000-fonctionnaires-formes-au-numerique)** — Republique Togolaise, 18 November 2026
+
+Agence Togo Digital pilot; low-bandwidth, self-paced training from the workplace, Lomé and remote posts alike.
+
+</div>
+
+</div>
 
 ### Training and skills
 
@@ -555,6 +639,20 @@ Togo's personal data protection authority (IPDCP) and the University of Kara sig
 **[PROGRAMME SIFA : 1 000 jeunes formés aux compétences numériques au Togo](https://www.education.gouv.tg/programme-sifa-1-000-jeunes-formes-aux-competences-numeriques-au-togo/)** — Ministère de l'Education Nationale, 3 November 2026
 
 Togo's education ministry reported that 1,000 young people have been trained in digital skills under the African Union's Skills Initiative for Africa. AUDA-NEPAD runs the programme with German funding through KfW, and the firm SAYNA operates it in Togo. Training covers ten digital trades and is delivered through 15 public and private hubs in all five regions.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Corporate data-protection correspondents programme</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Protection des données personnelles : 28 Correspondants certifiés par l’IPDCP - IPDCP](https://ipdcp.tg/protection-des-donnees-personnelles-28-correspondants-certifies-par-lipdcp/)** — IPDCP, 18 November 2026
+
+Summarised under [Data protection](#data-protection).
 
 </div>
 
