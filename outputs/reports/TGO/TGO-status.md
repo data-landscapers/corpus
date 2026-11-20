@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 278
+sources_cited: 279
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -189,7 +189,7 @@ On the ITU's index of national cybersecurity commitments, [Togo was placed in th
 ### Data Exchange
 <!-- dpi.exchange -->
 
-[In October 2026 Togo and the Sahel Confederation states set 31 January 2027 for a technical unit to supervise interconnected customs data flows](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination). [A pilot has linked the Togolese and Malian customs systems on the Lomé-Bamako corridor since March 2025](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination).
+[In October 2026 Togo and the Sahel Confederation states set 31 January 2027 for a technical unit to supervise interconnected customs data flows](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination). [A pilot has linked the Togolese and Malian customs systems on the Lomé-Bamako corridor since March 2025](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination). [An order of 14 October 2026 requires the trade and maritime single windows to interoperate until a Port Community System replaces both, with no go-live date](https://jo-togo.darkaa.com/pdf/276c685934b81a97bb4a3505ef600423866f472505389054f82a695dcf4a0bf0.pdf).
 
 [The World Bank's social assistance programme targets formal interoperability protocols between government systems for December 2028](https://documents1.worldbank.org/curated/en/099103024111041029/pdf/P178835-e634417e-785f-4b55-bb2c-063c891f286b.pdf) (September 2024). [The enterprise-architecture guide defines a common interoperability framework over four levels](https://ressources.digital.gouv.tg/shares/documentations/Guide_architecture_national/html/comprendre.html). [Its version page records version 1.0, in draft, with an empty revision log](https://ressources.digital.gouv.tg/shares/documentations/Guide_architecture_national/html/controle_version.html).
 
