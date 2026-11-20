@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: NAM
-ledger_rows: 25
+ledger_rows: 29
 not_held: 8
-record: 5904b25b8c6e
+record: 17f7d3b3e133
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: 5904b25b8c6e
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 </nav>
 
 ## Governance
@@ -142,6 +144,20 @@ Namibia's ICT ministry plans two telecommunications towers, at Noordoewer and Ha
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PowerCom open-access fibre-to-the-home network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PowerCom seeks N$375m to roll out fibre network to 75,000 homes](https://thebrief.com.na/2026/11/powercom-seeks-n375m-to-roll-out-fibre-network-to-75000-homes/)** — The Brief, 17 November 2026
+
+N$375m ask over three years; 28,300 connections targeted; N$3.08m Otjomuise pilot; CRAN 56,331 fibre services (Mar 2026).
+
+</div>
+
+</div>
+
 ### Energy
 
 <div class="monthly-story" markdown="1">
@@ -243,6 +259,20 @@ Namibia's NAM-CSIRT, housed at the regulator CRAN, recorded 506,143 vulnerabilit
 **[Namibia, Russia to share customs data to improve trade](https://neweralive.na/namibia-russia-to-share-customs-data-to-improve-trade/)** — New Era, 9 November 2026
 
 The Namibia Revenue Agency signed a customs data agreement with Russia in Moscow, as reported on 9 November 2026. The two sides are to exchange customs information and trade statistics, treated as confidential. Implementation awaits the completion of both countries' procedures.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BIPA-NAMFISA regulatory cooperation and information-sharing memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BIPA, NAMFISA sign MoU](https://observer24.com.na/bipa-namfisa-sign-mou/)** — Windhoek Observer, 18 November 2026
+
+Beneficial-ownership data exchange; Joint Working Committee; real-time system links to be explored.
 
 </div>
 
@@ -495,6 +525,46 @@ Two AI tutoring labs, the first in a Namibian government school, opened at Angra
 **[Namibia plans two telecommunications towers in //Kharas region to improve rural connectivity](https://techreviewafrica.com/news/8366/namibia-plans-two-telecommunications-towers-in-kharas-region-to-improve-rural-connectivity)** — Tech Review Africa, 17 November 2026
 
 Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#open-data">Open data</a>
+</nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Global SDG indicators reported</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ngurare demands data accountability as country launches SDG portal](https://neweralive.na/ngurare-demands-data-accountability-as-country-launches-sdg-portal/)** — New Era, 19 November 2026
+
+The Namibia Statistics Agency launched its SDG Indicator Framework Report and an online SDG portal on 18 November 2026, opened by Prime Minister Elijah Ngurare. He asked government bodies to publish their data on the portal. The agency said 176 of 248 global indicators were reported in 2025, a reporting rate up from 66% to 71%.
+
+</div>
+
+</div>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics agency SDG portal</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Ngurare demands data accountability as country launches SDG portal](https://neweralive.na/ngurare-demands-data-accountability-as-country-launches-sdg-portal/)** — New Era, 19 November 2026
+
+Summarised under [National statistics](#national-statistics).
 
 </div>
 
