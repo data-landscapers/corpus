@@ -1,12 +1,12 @@
 ---
 title: Senegal: status report
-compiled: 2026-11-17
+compiled: 2026-11-20
 place: SEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 13
-sources_cited: 310
+sources_cited: 311
 sections_written: 39
 not_established: 2
 acquire_lines: 49
@@ -374,7 +374,7 @@ Senegal [adopted an access to information law, Loi n° 2025-15, in August 2025](
 
 [The 2024 Open Data Inventory scores Senegal 8 out of 10 for banking, national accounts and price statistics and 7.5 for balance of payments](https://odin.opendatawatch.com/data). [It scores 5 for trade and 4 for labour](https://odin.opendatawatch.com/data). [Health facilities and reproductive health score 8.5 and education facilities 8, against 6 for gender statistics](https://odin.opendatawatch.com/data). [Population statistics and education outcomes score 5.5 each](https://odin.opendatawatch.com/data). [Natural resources score 8, agriculture and pollution 7, energy 6.5 and the built environment 6](https://odin.opendatawatch.com/data).
 
-In 2025 the World Bank found that [the open data portal's catalogue holds basic information and datasets, not a comprehensive collection](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Compliance with the data protection regime is not monitored, and no compliance reporting is published](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). A [full inventory of the state's information systems was launched at the Government Enterprise Architecture workshop of 29 July 2026](https://techreviewafrica.com/news/6516/senegal-advances-digital-transformation-agenda-with-government-enterprise-architecture-project). [No scope, deadline or publication commitment attaches to it](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy). [The statistics agency's open data portal licenses its data free and worldwide, commercial reuse included, with attribution](https://nso-senegal.opendataforafrica.org/hiwidxb) (as at November 2026).
+In 2025 the World Bank found that [the open data portal's catalogue holds basic information and datasets, not a comprehensive collection](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Compliance with the data protection regime is not monitored, and no compliance reporting is published](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). A [full inventory of the state's information systems was launched at the Government Enterprise Architecture workshop of 29 July 2026](https://techreviewafrica.com/news/6516/senegal-advances-digital-transformation-agenda-with-government-enterprise-architecture-project). [No scope, deadline or publication commitment attaches to it](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy). [The statistics agency's open data portal licenses its data free and worldwide, commercial reuse included, with attribution](https://nso-senegal.opendataforafrica.org/hiwidxb) (as at November 2026). [On 18 November 2026 the agency opened its second university data access centre, at Ziguinchor after Dakar, giving students and researchers free on-site access to survey and census microdata](https://aps.sn/ziguinchor-un-centre-dacces-des-donnees-statistiques-inaugure-a-la-bibliotheque-de-luniversite-assane-seck/).
 
 <!-- derived -->
 Across every part of the GovTech estate the index examines, nothing is published: ten disclosure and transparency sub-indicators — covering cloud hosting, interoperability, the service portal, procurement, debt, the digital transformation strategy, data governance, digital skills, the GovTech institution and the data protection regime — are all recorded as absent for 2025, and the eleventh, the data protection authority's own documentation, exists only internally.
