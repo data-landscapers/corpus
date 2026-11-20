@@ -1,11 +1,11 @@
 ---
 title: Niger — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: NER
-ledger_rows: 12
+ledger_rows: 13
 not_held: 1
-record: 2af186822623
+record: 0e7522198484
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: 2af186822623
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 </nav>
 
 ## Governance
@@ -265,6 +267,28 @@ Niger's education minister Élisabeth Shérif chaired a meeting on 14 October 20
 **[Country Profile on AI Governance: Niger](https://www.aipolicy.africa/country-profiles/niger)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Niger scored 0.73 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 42 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Regional Integration (1.11) and its weakest is Implementation and Impact (0.10); the profile records no AI strategy and the data protection authority dissolved in June 2026.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+</nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics institute reorganisation order</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Célébration à Niamey de la 36è édition de la Journée Africaine de la Statistique - Agence Nigérienne de Presse](https://anp.ne/celebration-a-niamey-de-la-36e-edition-de-la-journee-africaine-de-la-statistique/)** — Agence Nigérienne de Presse, 19 November 2026
+
+On African Statistics Day, 18 November 2026, Niger's National Institute of Statistics announced a reorganisation under a signed order. It creates three new central directorates, including one for research, data science and innovation. The national nutrition information platform is to become a central directorate.
 
 </div>
 
