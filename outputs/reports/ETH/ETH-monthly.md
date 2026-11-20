@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: ETH
-ledger_rows: 37
+ledger_rows: 38
 not_held: 5
-record: 088e9dc06ad9
+record: 193d2e96d3ac
 ---
 
 # News, Oct – Nov 2026
@@ -61,6 +61,28 @@ An assessment of Ethiopia's second financial inclusion strategy found adult acco
 </div>
 
 ### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Addis Ababa Government Procurement Implementation Directive No. 197/2019 (E.C.)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[የአዲስ አበባ ከተማ አስተዳር የመንግስት የግዥ አፈፃፀም መመሪያ ቁጥር 197/2019 (Addis Ababa City Administration Government Procurement Implementation Directive No. 197/2019)](https://justice.gov.et/wp-content/uploads/2026/11/197_%E1%8B%A8%E1%88%98%E1%8A%95%E1%8C%8D%E1%88%B5%E1%89%B5_%E1%8C%8D%E1%8B%A5_%E1%8A%A0%E1%8D%88%E1%8D%83%E1%8D%80%E1%88%9D_%E1%88%98%E1%88%98%E1%88%AA%E1%8B%AB_%E1%89%81%E1%8C%A5%E1%88%AD_197_2019.pdf)** — Addis Ababa City Administration Bureau of Finance (registered with and posted by the Federal Ministry of Justice), 11 October 2026
+
+Amharic text, 172 pages; fully electronic procurement, one-year cooling-off, 10% beneficial-ownership disclosure.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Addis Ababa Bars Former Bid Officials From Public Tenders](https://birrmetrics.com/addis-ababa-bars-former-bid-officials-from-public-tenders/)** — Birr Metrics, 17 November 2026
+
+Directive 197/2019: paperless tendering, 10% beneficial-owner disclosure, one-year cooling-off for ex-staff.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
