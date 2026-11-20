@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-11-17
+compiled: 2026-11-20
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 264
+sources_cited: 265
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -73,7 +73,7 @@ The Data Protection Act 2024 [requires controllers "of significant importance" t
 
 In 2025 [every one of the twelve participation and feedback fields in the GovTech Maturity Index was recorded as absent for Malawi](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). In August 2025 the anti-corruption bureau [launched a mobile application letting citizens report corruption by text, audio or image with anonymity and case tracking](https://www.undp.org/malawi/news/malawi-launches-acb-connect-mobile-app-strengthen-fight-against-corruption). In February 2026 the government [opened a toll-free national short code for corruption, poor service delivery and abuse of office](https://itweb.africa/article/malawi-intros-solution-to-curb-graft-in-govt/4r1lyMR9YEb7pmda). [Parliament and civil-society organisations met formally for the first time on 18 March 2026, launching a structured platform for engagement](https://mwnation.com/parliament-csos-seek-to-deepen-cooperation/). None of the three publishes a count of what it receives or settles.
 
-The two draft digital strategies were [put to a validation workshop with a citizen feedback portal in February 2026](https://cajnewsafrica.com/2026/02/20/malawi-validates-ai-strategy-digital-transformation-policy/). Pressure on the regulator over internet pricing came [as an online petition](https://malawi24.com/2026/07/17/hundreds-sign-macra-internet-petition/) in July 2026. The Open Government Partnership's [review of Malawi's 2026-2029 action plan](https://www.opengovpartnership.org/documents/malawi-action-plan-review-2026-2029/), published in 2026, records new public-participation commitments in extractive revenue management and climate action. An [access to information law is in force](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [Malawi's public records are published considerably better than they can be reached and used](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mw.pdf) (2023).
+The two draft digital strategies were [put to a validation workshop with a citizen feedback portal in February 2026](https://cajnewsafrica.com/2026/02/20/malawi-validates-ai-strategy-digital-transformation-policy/). Pressure on the regulator over internet pricing came [as an online petition](https://malawi24.com/2026/07/17/hundreds-sign-macra-internet-petition/) in July 2026. The Open Government Partnership's [review of Malawi's 2026-2029 action plan](https://www.opengovpartnership.org/documents/malawi-action-plan-review-2026-2029/), published in 2026, records new public-participation commitments in extractive revenue management and climate action. [The justice ministry launched the plan in Lilongwe on 18 November 2026, with 11 commitments including digital governance](https://www.malawivoice.com/2026/11/18/malawi-launches-2026-2029-open-government-partnership-national-action-plan/). An [access to information law is in force](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [Malawi's public records are published considerably better than they can be reached and used](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mw.pdf) (2023).
 
 ## Finance
 

@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: MWI
-ledger_rows: 34
+ledger_rows: 35
 not_held: 28
-record: aef0ff9a06c0
+record: 0f06d882e599
 ---
 
 # News, Oct – Nov 2026
@@ -120,6 +120,14 @@ The Open Government Partnership's Independent Reporting Mechanism reviewed Malaw
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[MALAWI LAUNCHES 2026–2029 OPEN GOVERNMENT PARTNERSHIP NATIONAL ACTION PLAN](https://www.malawivoice.com/2026/11/18/malawi-launches-2026-2029-open-government-partnership-national-action-plan/)** — Malawi Voice, 18 November 2026
+
+Launched Lilongwe 18 Nov 2026; 11 commitments in five areas incl. digital governance and fiscal openness.
+
+</div>
+
 </div>
 
 ## ICT Infrastructure
@@ -227,6 +235,20 @@ Paratus Group has launched in Malawi, its 16th market in sub-Saharan Africa, Tec
 **[SES expands rural school connectivity](https://itweb.africa/article/ses-expands-rural-school-connectivity/WnpNgq21E5EMVrGd)** — ITWeb Africa, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
 
 SES and the ITU's Partner2Connect coalition plan to connect 30 rural schools in Malawi, Burundi, Zambia and Zimbabwe by satellite by the end of 2026. The schools have an estimated 20,000 to 30,000 students and teachers. The schools form part of SES's pledge to connect 100 schools worldwide.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Schools with limited or no internet access</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le satellite pour ouvrir l'accès aux ressources numériques dans 30 écoles africaines](https://www.wearetech.africa/fr/fils/actualites/tech/le-satellite-pour-ouvrir-lacces-aux-ressources-numeriques-dans-30-ecoles-africaines)** — wearetech.africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+
+SES, the satellite operator, plans to connect 30 schools in Malawi, Burundi, Zambia and Zimbabwe by the end of 2026, under the ITU's Partner2Connect coalition. The project is to reach 20,000 to 30,000 pupils and teachers. In Malawi, 214 of 7,117 primary schools had an internet connection in the 2023/24 school statistics.
 
 </div>
 
