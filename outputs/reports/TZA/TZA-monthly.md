@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: TZA
-ledger_rows: 56
+ledger_rows: 59
 not_held: 4
-record: c1c2f9005077
+record: 78de5ded27b1
 ---
 
 # News, Oct – Nov 2026
@@ -458,6 +458,20 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NIDA Wallet</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania Unveils New National ID Card And NIDA Wallet](https://cioafrica.co/tanzania-unveils-new-national-id-card-and-nida-wallet/)** — CIO Africa, 19 November 2026
+
+Tanzania's National Identification Authority unveiled a new national ID card and a phone-based NIDA Wallet on 18 November 2026, with EMPTECH as technology partner. The card has eight information sections, against four before. As at 29 October 2026, 27,648,911 people were registered and 1,832,683 printed cards had not been collected.
+
+</div>
+
+</div>
+
 ### Digital Payments and Fintech
 
 <div class="monthly-story" markdown="1">
@@ -754,6 +768,20 @@ Tanzania's Public Procurement Regulatory Authority (PPRA) began user acceptance 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">FCC Automation system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FCC banks on its automation digital system to advance efficiency in public service delivery - Daily News](https://dailynews.co.tz/fcc-banks-on-its-automation-digital-system-to-advance-efficiency-in-public-service-delivery/)** — Daily News, 19 November 2026
+
+Tanzania's Fair Competition Commission is running user acceptance testing of FCC Automation, a web system for online registration, merger filings and other applications. Development began about two years ago. The Commission expects to complete the system in June 2027, according to the Daily News of 19 November 2026.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -969,6 +997,20 @@ Tanzania's UCSAF said on 3 November 2026 that it is preparing a project to fix m
 **[UCSAF to construct 250 ICT laboratories in public schools](https://www.ucsaf.go.tz/news/ucsaf-to-construct-250-ict-laboratories-in-public-schools)** — Universal Communications Service Access Fund (UCSAF), 6 October 2026
 
 Tanzania's Universal Communications Service Access Fund said on 5 October 2026 it will build 250 ICT laboratories of 20 computers each in public schools this financial year, instead of its earlier provision of about five computers per school. It reports more than 1,121 schools equipped so far and 2,166 subsidised towers completed in 2,306 wards.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Adult internet use, Afrobarometer survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AD1251: Tanzania’s changing news landscape: Gains in digital media still leave many without access](https://www.afrobarometer.org/publication/ad1251-tanzanias-changing-news-landscape-gains-in-digital-media-still-leave-many-without-access/)** — Afrobarometer, 18 November 2026
+
+Round 10 survey: 30% own an internet-capable phone, 64% never online; 23% get no regular news.
 
 </div>
 
