@@ -1,6 +1,6 @@
 ---
 title: Cameroon: finance
-compiled: 2026-11-06
+compiled: 2026-11-20
 place: CMR
 ---
 
@@ -30,7 +30,7 @@ place: CMR
 <tfoot><tr><th scope="row">All topics</th><td class="num">991</td><td class="num">17</td><td class="num">4</td><td class="num">168</td><td class="num">393</td><td class="num">485</td><td class="num total">2,058</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CMR/all-finance.html">Full table &mdash; 176 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CMR/all-finance.html">Full table &mdash; 177 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CMR/CMR-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -81,6 +81,6 @@ place: CMR
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CMR/finance.html">Full table &mdash; 122 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CMR/finance.html">Full table &mdash; 123 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CMR/CMR-nonstate.csv" download>&darr; Download CSV</a>
 </div>
