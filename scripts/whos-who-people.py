@@ -8,7 +8,10 @@ r"""whos-who-people.py — people, aliases and the fact table, from the cache an
 `documentation/whos-who.md` §4 and §7, stage 3. Deterministic and model-free, so
 `rebuild.py` runs it (stage 2e) and the reading pass runs it again after admitting.
 
-**One person is one normalised name at one organisation.** Normalised is for comparison
+**One person is one normalised name at one organisation**, plus one rule more: a shorter
+name inside a fuller one at the same organisation, holding the same position, is the same
+person (`join_contained`, Bill 2026-11-20; `lookups/naming-conventions.csv` fixes the word
+order where names are patronymic). The published name is the shortest form. Normalised is for comparison
 only — titles and post-nominals off, case, accents and punctuation folded, token order
 free. Two attestations merge automatically when their names normalise equal *and* they
 resolve to one organisation, by `canonical_slug` or lineage; nothing else merges without a
@@ -45,6 +48,7 @@ PEOPLE = W.ROOT / "lookups" / "people.csv"
 ALIASES = W.ROOT / "lookups" / "person-aliases.csv"
 RULINGS = W.ROOT / "lookups" / "person-rulings.csv"
 SUPPRESS = W.ROOT / "lookups" / "whos-who-suppress.csv"
+CONVENTIONS = W.ROOT / "lookups" / "naming-conventions.csv"
 POSITIONS = W.ROOT / "build" / "whos-who" / "positions.csv"
 CANDIDATES = W.ROOT / "build" / "whos-who" / "merge-candidates.csv"
 PEOPLE_COLS = ["person_id", "name", "basis", "anchor"]
@@ -120,6 +124,81 @@ class UF:
             self.p[max(a, b)] = min(a, b)
 
 
+def position_key(p: str) -> str:
+    """One title however written: case, accents, hyphens and spacing folded. The same
+    test `whos-who-publish.py` collapses published rows on."""
+    return " ".join(re.sub(r"[-‐‑‒–—]", " ", fold(p)).split())
+
+
+def uncaps(name: str) -> str:
+    """*Abdramane OUATTARA* -> *Abdramane Ouattara*. French administrative style writes the
+    family name in capitals (`naming-conventions.csv` → `family_caps`); it is a style, not
+    part of the name. A one-letter initial is left alone."""
+    def word(w):
+        letters = [c for c in w if c.isalpha()]
+        if len(letters) < 2 or not all(c.isupper() for c in letters):
+            return w
+        return re.sub(r"[^\W\d_]+", lambda m: m.group(0).capitalize(), w.lower())
+    return " ".join(word(w) for w in name.split())
+
+
+def canonical_name(forms: collections.Counter) -> str:
+    """The shortest form that keeps the first and last words of the fullest one (Bill,
+    2026-11-20: shorter rather than fuller). *Alassane Ouattara*, not *Alassane Dramane
+    Ouattara*; but not *Oligui Nguema* for *Brice Clotaire Oligui Nguema*, nor *Laurent
+    Mahounou* for *Laurent Mahounou HOUNSA*, each of which loses a name. Order is free, so a
+    family-first form qualifies. Ties go to the form without a surname in capitals, then the
+    commonest. Capitals are then written out of the chosen form."""
+    def toks(f):
+        return [t for t in (re.sub(r"[^\w]", "", t) for t in tokens(f)) if t]
+    fullest = max(forms, key=lambda f: (len(toks(f)), forms[f], f))
+    ends = {toks(fullest)[0], toks(fullest)[-1]}
+    caps = lambda f: sum(1 for w in f.split() if len(w) > 1 and w.isupper())
+    ok = [f for f in forms if ends <= set(toks(f))]
+    # A form that opens on a word another form ends on is written family-first.
+    lasts = {toks(f)[-1] for f in forms}
+    flipped = lambda f: toks(f)[0] in lasts and toks(f)[-1] not in lasts
+    best = min(ok, key=lambda f: (len(toks(f)), caps(f), flipped(f), -forms[f], f))
+    return uncaps(best)
+
+
+def conventions() -> dict[str, dict]:
+    with open(CONVENTIONS, encoding="utf-8", newline="") as fh:
+        return {r["iso3"]: r for r in csv.DictReader(fh)}
+
+
+def join_contained(groups, gid, uf, place_of) -> int:
+    """Join a shorter name to a fuller one at the same organisation holding the same
+    position (Bill, 2026-11-20): *Wamkele Mene* and *Wamkele Keabetswe Mene*, both
+    Secretary-General of the AfCFTA Secretariat. Different positions stay two people.
+
+    Three guards. The shorter name's words must all be in the fuller one, two at least.
+    It joins only when exactly one fuller name qualifies, so *John Mensah* is not the
+    bridge that makes *John Kwame Mensah* and *John Kofi Mensah* one person. And where
+    `naming-conventions.csv` says names are patronymic, order is fixed (given, father,
+    grandfather), so the shorter must be the start of the fuller: *Abiy Ahmed* is *Abiy
+    Ahmed Ali*, and *Ahmed Ali* is someone else."""
+    conv = conventions()
+    by_org = collections.defaultdict(list)
+    for (k, org), fs in groups.items():
+        order = [t for t in (re.sub(r"[^\w]", "", t) for t in tokens(published(fs[0]["row"]["name_as_written"]))) if t]
+        by_org[org].append(((k, org), set(k.split()), order,
+                            {position_key(f["row"]["position"]) for f in fs},
+                            place_of.get(fs[0]["slug"], "")))
+    joined = 0
+    for org, gs in by_org.items():
+        for short, ss, so, sp, place in gs:
+            if len(ss) < 2:
+                continue
+            fixed = conv.get(place, {}).get("order") == "patronymic"
+            hits = [g for g, ls, lo, lp, _ in gs
+                    if ss < ls and sp & lp and (not fixed or lo[:len(so)] == so)]
+            if len(hits) == 1:
+                uf.union(gid[short], gid[hits[0]])
+                joined += 1
+    return joined
+
+
 def build(place: str | None = None, dry: bool = False) -> int:
     cat, names = W.catalogue(), W.display_names()
     res = W.Resolver(cat, names)
@@ -168,6 +247,7 @@ def build(place: str | None = None, dry: bool = False) -> int:
     uf = UF()
     for g in gid.values():
         uf.find(g)
+    contained = join_contained(groups, gid, uf, {s: orgs[s]["place"] for s in orgs})
 
     # Existing ids, through anchors.
     by_anchor = {p["anchor"]: p["person_id"] for p in old_people if p["anchor"]}
@@ -241,9 +321,7 @@ def build(place: str | None = None, dry: bool = False) -> int:
             continue
         if p["basis"] == "hand":
             continue
-        # Fullest first; then a form that does not shout a surname in capitals; then frequency.
-        caps = lambda f: sum(1 for w in f.split() if len(w) > 1 and w.isupper())
-        p["name"] = sorted(c.items(), key=lambda kv: (-len(kv[0].split()), caps(kv[0]), -kv[1], kv[0]))[0][0]
+        p["name"] = canonical_name(c)
         p["basis"] = "auto"
 
     aliases = [a for a in old_alias if a["basis"] == "hand" and a["person_id"] not in suppressed_person]
@@ -321,6 +399,7 @@ def build(place: str | None = None, dry: bool = False) -> int:
 
     merged = sum(1 for pid, c in forms.items() if len(c) > 1)
     print(f"{len(rows)} tuples; {len(facts)} facts; dropped: {dict(drops)}")
+    print(f"{contained} shorter name(s) joined to a fuller one holding the same position")
     print(f"{len(person_groups)} people ({new} new ids, {retired} retired); {merged} with more than one "
           f"written form; {len(positions)} positions; {len(cands)} merge candidates")
     print(f"lint 5{' (' + place + ')' if place else ''}: {len(lint5)} breach(es)")

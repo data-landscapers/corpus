@@ -1,0 +1,55 @@
+iso3,country,order,family_caps,particles,note,basis
+AGO,Angola,given-first,no,da de do dos das,Portuguese: given names then one or more family names; the last is usually the one used,draft
+BDI,Burundi,family-first,yes,,Individual Kirundi name not inherited; official texts write it first in capitals,draft
+BEN,Benin,either,yes,de,French administrative style writes the family name first in capitals,draft
+BFA,Burkina Faso,either,yes,,French administrative style writes the family name first in capitals,draft
+BWA,Botswana,given-first,no,,English style; many people carry a Setswana and an English given name,draft
+CAF,Central African Republic,either,yes,,French administrative style writes the family name first in capitals,draft
+CIV,Cote d'Ivoire,either,yes,,French administrative style writes the family name first in capitals,draft
+CMR,Cameroon,either,yes,,Francophone texts write the family name first in capitals; anglophone texts do not,draft
+COD,DR Congo,either,yes,wa,Post-1972 authenticity names: family name and post-name often written before the given name,draft
+COG,Congo,either,yes,,French administrative style writes the family name first in capitals,draft
+COM,Comoros,patronymic,no,ben bin,Given name then father's name; no inherited family name,draft
+CPV,Cabo Verde,given-first,no,da de do dos das,Portuguese naming,draft
+DJI,Djibouti,patronymic,yes,,Somali and Afar: given name then father's and grandfather's; French style capitals,draft
+DZA,Algeria,either,yes,ben bel ould,Civil family names; French administrative style writes the family name first in capitals,draft
+EGY,Egypt,patronymic,no,el al abdel abdul abu,Given name then father's and grandfather's; the last is often treated as the family name,draft
+ERI,Eritrea,patronymic,no,,Given name then father's name; no family name,draft
+ETH,Ethiopia,patronymic,no,,Given name then father's and grandfather's; addressed by the given name,draft
+GAB,Gabon,either,yes,,French administrative style writes the family name first in capitals,draft
+GHA,Ghana,given-first,no,,Akan day names often appear as a middle name; order otherwise English,draft
+GIN,Guinea,either,yes,,French administrative style writes the family name first in capitals,draft
+GMB,Gambia,given-first,no,,English style,draft
+GNB,Guinea-Bissau,given-first,no,da de do dos das,Portuguese naming,draft
+GNQ,Equatorial Guinea,given-first,no,de del,Spanish naming: two family names may follow the given name,draft
+KEN,Kenya,given-first,no,wa,Given names then a family or father's name; formal lists may put the surname first,draft
+LBR,Liberia,given-first,no,,English style,draft
+LBY,Libya,patronymic,no,el al abdel abdul abu ben bin,Given name then father's and grandfather's and a family name,draft
+LSO,Lesotho,given-first,no,,English style,draft
+MAR,Morocco,either,yes,ben el al ait,Civil family names; French administrative style writes the family name first in capitals,draft
+MDG,Madagascar,given-first,no,ra andria,Long names; no inherited family name in traditional naming,draft
+MLI,Mali,either,yes,ag,French administrative style writes the family name first in capitals; ag is son of,draft
+MOZ,Mozambique,given-first,no,da de do dos das,Portuguese naming,draft
+MRT,Mauritania,patronymic,no,ould mint ben,Given name then ould or mint and the father's name,draft
+MUS,Mauritius,given-first,no,de,English and French styles,draft
+MWI,Malawi,given-first,no,,English style,draft
+NAM,Namibia,given-first,no,,English style,draft
+NER,Niger,either,yes,ag,French administrative style writes the family name first in capitals,draft
+NGA,Nigeria,given-first,no,,Formal lists may put the surname first; northern names are often patronymic,draft
+RWA,Rwanda,family-first,yes,,Individual Kinyarwanda name not inherited; official texts write it first,draft
+SDN,Sudan,patronymic,no,el al abdel abdul abu,Given name then father's and grandfather's,draft
+SEN,Senegal,either,yes,,French administrative style writes the family name first in capitals,draft
+SLE,Sierra Leone,given-first,no,,English style,draft
+SOM,Somalia,patronymic,no,,Given name then father's and grandfather's; no family name,draft
+SSD,South Sudan,patronymic,no,,Given name then father's name,draft
+STP,Sao Tome and Principe,given-first,no,da de do dos das,Portuguese naming,draft
+SWZ,Eswatini,given-first,no,,English style,draft
+SYC,Seychelles,given-first,no,de,English and French styles,draft
+TCD,Chad,either,yes,,French administrative style; Arabic names may be patronymic,draft
+TGO,Togo,either,yes,,French administrative style writes the family name first in capitals,draft
+TUN,Tunisia,either,yes,ben bel,Civil family names; French administrative style writes the family name first in capitals,draft
+TZA,Tanzania,given-first,no,,Often given name then father's name,draft
+UGA,Uganda,either,no,,Surname often written first; no fixed order,draft
+ZAF,South Africa,given-first,no,van der de du,English and Afrikaans styles,draft
+ZMB,Zambia,given-first,no,,English style,draft
+ZWE,Zimbabwe,given-first,no,,English style,draft
