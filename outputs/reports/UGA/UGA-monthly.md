@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: UGA
-ledger_rows: 57
+ledger_rows: 60
 not_held: 11
-record: 0435495d7eb4
+record: 7bade5d74101
 ---
 
 # News, Oct – Nov 2026
@@ -568,6 +568,34 @@ Banks and NIRA are working on a way for lenders to check borrowers' marital stat
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Secure Identification System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda: New National Identification and Registration Authority (NIRA) system set to tighten security in banking transactions](https://www.africa-newsroom.com/press/uganda-new-national-identification-and-registration-authority-nira-system-set-to-tighten-security-in-banking-transactions)** — Parliament of Uganda, 18 November 2026
+
+Minister tells MPs banks must integrate NSIS; 10 of 107 partners live at 28 Oct; MPs query letter costs.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Uganda National Root Certification Authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda Establishes National Root Certification Authority for Secure Digital Services](https://techafricanews.com/2026/11/19/uganda-establishes-national-root-certification-authority/)** — Tech Africa News, 19 November 2026
+
+Uganda's National Information Technology Authority completed the key-generation and signing ceremony for its national public key infrastructure, reported on 19 November 2026. The ceremony created a National Root Certification Authority and an issuing authority under the UDAP-GovNet project. It is the basis for verifiable electronic signatures. The ceremony date is not stated.
+
+</div>
+
+</div>
+
 ### Digital Payments and Fintech
 
 <div class="monthly-story" markdown="1">
@@ -635,6 +663,20 @@ Housing Finance Bank joined Interswitch's Quickteller agency banking network in 
 **[MTN Uganda's MoKash Disburses UGX 3.2 Trillion in 10 Years](https://techafricanews.com/2026/11/18/mtn-ugandas-mokash-disburses-ugx-3-2-trillion-in-10-years/)** — Tech Africa News, 18 November 2026
 
 MTN MoMo Uganda said its MoKash savings and credit service, run with NCBA Bank Uganda, has disbursed about UGX 3.2 trillion in ten years. The figure was given at an anniversary event attended by finance minister Henry Musasizi.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Stanbic Bank embedded-finance model</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Stanbic Bank partners with ERP providers to accelerate embedded finance in Uganda](https://www.report.co.ug/articles/business/stanbic-bank-partners-with-erp-providers-to-accelerate-embedded-finance-in-uganda)** — Report.co.ug, 18 November 2026
+
+API and ERP partnerships for embedded payments and collections; NITA-U urges continuous compliance.
 
 </div>
 
