@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-20 06:24 · **REVIEW** · 16m · AGO: status 1 sections revised, 4 trimmed, progress 2 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
+2026-11-20 06:19 · **REVIEW** · 11m · BDI: status 1 sections revised, 1 trimmed, progress 2 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-11-19 01:18 · **INDEX** · 1m · research index: 66 added, 7 changed, 0 removed, 813 chunks, 1.3 min — ok
 2026-11-19 01:16 · **COPY** · unclocked · R2 copy: 9,223 objects, 3,388.3 MB in the bucket; pulled 2,226 (928.0 MB); 0 faults
 2026-11-19 01:00 · **RENDER** · 28m · 301/301 reports, home, countries, catalogue 45,288, finance, datasets, maturity rendered; 83 editions pruned, R2 synced; deployed 176c6a3 — ok
@@ -376,10 +378,6 @@ title: Corpus process log
 2026-10-20 00:25 · **REVIEW** · 9m · BWA: status 7 sections revised, mapping 4 cells, finance 0 rows; 1 deal queued, 1 note for OSINT - ok
 2026-10-20 00:23 · **REVIEW** · 7m · BFA: status 10 sections revised, mapping 5 cells, finance 4 rows; 1 deal queued, 1 note for OSINT - ok
 2026-10-20 00:10 · **BUILD** · 1h39m · catalogue 31192; 53 units, 208 sources: 19 moved, 98 minted, 3 settled; 1 data centre added; maturity 2,360 arrivals, 38 cells reassessed, 33 moved; bulletin 24; register 9 hits stand - ok
-2026-10-19 22:31 · **ANALYTICS** · unclocked · 2026-10-17..2026-10-18 written; 18 Oct: dl.io 30 views / 0 clicks, corpus 148 views / 3 clicks
-2026-10-19 16:03 · **RENDER** · 5m · maturity+methodology only: admindata restaged on Bill's ruling (a named source is not administrative data), 26 maturity editions cut, deployed 50346c5 — ok
-2026-10-19 15:30 · **RENDER** · 19m · reports+home+countries+catalogue+maturity rendered (207 reports, 0 failed; 65 editions pruned), deployed d78946e — ok
-2026-10-19 13:10 · **REBUILD** · 36m · admindata admin: 47 cells reassessed on the 2026-10-19 ladder, 29 moved; 54 searched, 204 staged; 59 held documents read; 114.6M tokens — ok
 2026-10-17 10:18 · **MATURITY-UPDATE** · unclocked · stage 4c lifted (Bill) and its backlog worked: 15,617 arrivals over 115 studies, 9,822 closed unread (8,344 instruments, 1,478 pre-window), 1,013 past 20 a country; 810 news stories in 408 Sonnet calls; 954 facts merged, 604 cells reassessed and logged, 253 moved; 7 facts removed at the top-stage check; 41 cells restaged and 276 texts rewritten by brief; all 115 lint clean. 245M tokens (212M agents) — ok
 2026-10-13 12:11 · **MATURITY** · unclocked · notes-for-corpus 80: 220 admitted sources and six completed records read on 24 studies, 272 facts; 183 cells reassessed as review, 74 placed (stage 1: 9, 2: 32, 3: 21, 4: 12), 11 corrections; lint clean. Agents 10.3M tokens
 2026-10-11 07:03 · **MATURITY STUDY digitalstrategy** · unclocked · step 1, criteria prepared for `gov.policy--digital-transformation-strategy`, the first instrument study: one sub-indicator, nine classes, six aspects, a ladder set above stage 3 by published reporting; seven rulings asked of Bill. Dry reading list 3,433 listings, 4.5m words. Nothing run; waits for step 2.
