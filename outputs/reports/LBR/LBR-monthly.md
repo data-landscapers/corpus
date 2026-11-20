@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: LBR
-ledger_rows: 30
+ledger_rows: 31
 not_held: 6
-record: c5ff6cf9a807
+record: ace32e2fcc2f
 ---
 
 # News, Oct – Nov 2026
@@ -397,6 +397,20 @@ Liberia's Ministry of Gender, Children and Social Protection launched an upgrade
 **[Louisville group helps Liberia track and restore water access](https://spectrumnews1.com/ky/louisville/news/2026/10/30/waterstep-liberia-app)** — Spectrum News 1, 30 October 2026
 
 Liberia's national water, sanitation and hygiene commission signed a memorandum with US nonprofit WaterStep and the Kijani Group in October 2026. They will build a management information system cataloguing the country's water points and the ministries responsible for them. WaterStep's pump diagnosis app will feed data from several agencies into one national system.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Facility-level electronic medical records</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MOH, Sand Technologies Assess Digital Health Progress Ahead of December EMR Deployment](http://moh.gov.lr/news/2026/moh-sand-technologies-assess-digital-health-progress-ahead-of-december-emr-deployment/)** — Ministry of Health, Republic of Liberia, 17 November 2026
+
+Mission of 11-12 Nov 2026; EMR rollout due December; NHIC expansion; ministry insists on national ownership.
 
 </div>
 

@@ -424,7 +424,7 @@ dpi.mis--health,Movement,"[Emergency patient care reporting](2026-06-19-liberia-
 
 Client-level HIV records came off paper in 2021, when a [DHIS2 tracker replaced registers at 21 PEPFAR-supported treatment sites holding 70 per cent of people on treatment](2023-08-29-dhis2-liberia-hiv-tracker). [By November 2025 it ran on the ministry's own server at 61 sites, up from 26](2025-11-17-lbr-liberia-country-update).
 
-Facility records otherwise exist as partner deployments such as [OpenMRS at J.J. Dossen Hospital in Maryland County, live since July 2020 with more than 5,500 patients registered](2020-09-18-pih-emr-jj-dossen-hospital). A [nationwide readiness assessment for electronic medical records ran from 8 to 20 May 2026](2026-05-08-liberia-moh-emr-readiness-enumerator-training), with no findings published.
+Facility records otherwise exist as partner deployments such as [OpenMRS at J.J. Dossen Hospital in Maryland County, live since July 2020 with more than 5,500 patients registered](2020-09-18-pih-emr-jj-dossen-hospital). A [nationwide readiness assessment for electronic medical records ran from 8 to 20 May 2026](2026-05-08-liberia-moh-emr-readiness-enumerator-training); [in November the ministry reviewed readiness for deployment in December 2026](2026-11-17-lbr-moh-sand-technologies-assess-digital-health-progress-ahead-of-december-emr-deployment).
 
 2026-09-01 - a private [offline-first health record and surveillance platform went live in four facilities and reached seven across Liberia and Ghana in about three weeks](2026-09-28-lbr-gha-onehealthehr-goes-live), on the company's own account; no link to the national health information system is on record.
 
@@ -496,7 +496,9 @@ Outside the capital region the record holds one earlier deployment: [electronic 
 
 The health ministry's [readiness assessment of 8 to 20 May 2026](2026-05-08-liberia-moh-emr-readiness-enumerator-training) covered selected hospitals and health centres across the counties and precedes any rollout; its findings are not published.
 
-2026-01-20 - a [community health information system was tendered to replace largely paper-based community reporting](2026-01-20-lbr-crs-ecbis-interoperable-rfp) under a malaria grant; no award is held.",LBR-dpi.mis-facility-emr|LBR-dpi.mis-ems-patient-care|LBR-dpi.mis-jj-dossen-openmrs|LBR-dpi.mis-ecbis|LBR-dpi.mis-ecbis-opensrp-pilot,2,LBR-dpi.mis-facility-emr,,,,,,,2026-08-31,0,readiness assessment run and EMR tendered for two centres; rollout planned
+2026-01-20 - a [community health information system was tendered to replace largely paper-based community reporting](2026-01-20-lbr-crs-ecbis-interoperable-rfp) under a malaria grant; no award is held.
+
+2026-11-12 - the ministry and its implementing firm [reviewed facility readiness for electronic medical records due in December 2026](2026-11-17-lbr-moh-sand-technologies-assess-digital-health-progress-ahead-of-december-emr-deployment); the facilities to be covered are not named.",LBR-dpi.mis-facility-emr|LBR-dpi.mis-ems-patient-care|LBR-dpi.mis-jj-dossen-openmrs|LBR-dpi.mis-ecbis|LBR-dpi.mis-ecbis-opensrp-pilot,2,LBR-dpi.mis-facility-emr,,,,,,,2026-08-31,0,readiness assessment run and EMR tendered for two centres; rollout planned
 digital.rural--digitalisation-of-rural-primary-schools,Movement,"[About 90 of 156 public high schools](2026-07-17-lta-telecom-reforms-star-cell-revoked-fpa) are connected under a satellite school programme, with no funder, cost or completion date published.","The count was given in July 2026 ([programme](2026-07-17-lta-telecom-reforms-star-cell-revoked-fpa), [progress](2026-07-23-liberia-lta-commissioner-honnah-expanding-digital-access)).
 
 It is the only school-connectivity figure the repository holds, it covers high schools rather than primary ones, and it runs on a satellite service the regulator had not then licensed.

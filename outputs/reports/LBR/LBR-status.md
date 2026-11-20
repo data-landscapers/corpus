@@ -1,12 +1,12 @@
 ---
 title: Liberia: status report
-compiled: 2026-11-18
+compiled: 2026-11-20
 place: LBR
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 238
+sources_cited: 239
 sections_written: 39
 not_established: 3
 acquire_lines: 60
@@ -239,7 +239,7 @@ The August 2026 schedule turns regressive above its US$2,000 break: the US$25 ca
 
 The Ministry of Labour [launched LiberiaWorks in October 2025 to link employers, jobseekers, universities and government](https://gnnliberia.com/labour-ministry-launches-liberiaworks-platform/). [The Judiciary's case management system, piloted in Montserrado's 14 magisterial courts from 2021, reached the other 14 counties through clerk training in 2023](https://www.undp.org/sites/g/files/zskgke326/files/2024-05/UNDP%20LIBERIA%20ANNUAL%20REPORT_2023.pdf). [Sixty clerks were trained on its upgraded version in 2025](https://verityonlinenews.com/undp-supreme-court-strengthen-partnership-to-boost-liberias-justice-system/). [A 2026-2030 judicial plan ties backlog reduction to an electronic case management system in all circuit courts](https://informernewspaperliberia.com/ngafuan-hails-sovereign-ownership-of-pmtp-as-govt-funds-90-of-magistrate-training/) (July 2026). Agriculture is [procuring a mechanisation tracking system meant to link to the National Farmer Registry](https://www.moa.gov.lr/sites/default/files/documents/Website%20Publication-MTS%20%28002%29.pdf) (2026).
 
-USAID's health systems programme [built the national health management information system and the iHRIS human-resources register, and closed in 2022](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-GOV-1-AID-669-C-15-00001). A [DHIS2 tracker for client-level HIV data replaced paper registers at 21 PEPFAR-supported treatment sites](https://dhis2.org/liberia-hiv-tracker/) from 2021. In May 2026 the Ministry launched [a nationwide assessment of readiness for electronic medical records](https://informernewspaperliberia.com/ministry-of-health-launches-nationwide-enumerator-training-for-major-emr-readiness-assessment/). A private offline-first health record platform [went into live clinical use on 1 September 2026 and reached seven clinics and health centres in about three weeks](https://www.liberianobserver.com/news/onehealthehr-goes-live-in-liberia-ghana/article_778165ac-8dad-4c41-bf63-9413eb2c46a7.html).
+USAID's health systems programme [built the national health management information system and the iHRIS human-resources register, and closed in 2022](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-GOV-1-AID-669-C-15-00001). A [DHIS2 tracker for client-level HIV data replaced paper registers at 21 PEPFAR-supported treatment sites](https://dhis2.org/liberia-hiv-tracker/) from 2021. In May 2026 the Ministry launched [a nationwide assessment of readiness for electronic medical records](https://informernewspaperliberia.com/ministry-of-health-launches-nationwide-enumerator-training-for-major-emr-readiness-assessment/). [In November 2026 it reviewed facility readiness with Sand Technologies for deployment in December](http://moh.gov.lr/news/2026/moh-sand-technologies-assess-digital-health-progress-ahead-of-december-emr-deployment/). A private offline-first health record platform [went into live clinical use on 1 September 2026 and reached seven clinics and health centres in about three weeks](https://www.liberianobserver.com/news/onehealthehr-goes-live-in-liberia-ghana/article_778165ac-8dad-4c41-bf63-9413eb2c46a7.html).
 
 The Ministry of Education [has moved from paper to a digital EMIS 2.0 and validated a costed plan in September 2025 introducing national unique learner and teacher identifiers](https://www.iped.africa/document/liberia-education-management-information-system-emis-peer-review-report). The Revenue Authority [operates its integrated tax administration system nationwide](https://revenue.lra.gov.lr/eservices/). It was built out under [a US$24 million World Bank project that closed in 2024](https://projects.worldbank.org/en/projects-operations/project-detail/P165000). [The project left it still not interfaced with the financial management system](https://documents1.worldbank.org/curated/en/099062725114529541/pdf/BOSIB-2e0ff737-5295-430a-8f0a-e1eea8f9d84e.pdf). The Civil Service Agency signed a memorandum in May 2024 [to verify government payroll against national identification numbers](https://www.thenewdawnliberia.com/csa-and-nir-sign-mou-for-service-delivery/).
 
