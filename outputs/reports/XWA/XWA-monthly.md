@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: XWA
-ledger_rows: 37
+ledger_rows: 38
 not_held: 1
-record: ce0713436f17
+record: 208739a86fb2
 ---
 
 # News, Oct – Nov 2026
@@ -198,6 +198,8 @@ Orange released five open-weight large language models for Wolof on Hugging Face
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geospatial-data">Geospatial data</a>
 </nav>
 
 ### Connectivity
@@ -631,6 +633,22 @@ The ECOWAS Commission and the West African Monetary Agency opened an experts' me
 **[Community Sectoral Statistics Yearbook: ECOWAS Takes Another Step Toward Consolidating Its Harmonized Regional System](https://www.ecowas.int/community-sectoral-statistics-yearbook-ecowas-takes-another-step-toward-consolidating-its-harmonized-regional-system/)** — ECOWAS Commission, 4 November 2026
 
 ECOWAS statisticians are meeting in Lomé from 3 to 6 November 2026. They are reviewing the first draft of the Commission's Yearbook of Sectoral Statistics. The workshop checks the indicators and fills data gaps. The draft then goes to the Regional Technical Committee. The World Bank funds the work through the PHASAO and PHASAOC projects.
+
+</div>
+
+</div>
+
+### Geospatial data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOSAT-1 regional Earth observation satellite</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NASRDA backs ECOWAS plans for West Africa’s first regional Earth observation satellite](https://techreviewafrica.com/news/8400/x)** — Tech Review Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Nigeria's space agency NASRDA said it would support ECOSAT-1, a planned ECOWAS Earth observation satellite, after an ECOWAS technical experts' meeting, reported on 19 November 2026. Its director-general linked the project to data sovereignty, disaster response, agriculture and environmental monitoring. No decision or figure was reported, and the meeting date is not stated.
 
 </div>
 
