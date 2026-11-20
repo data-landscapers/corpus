@@ -1044,7 +1044,7 @@ GAB,56,2025-07-03-gab-egabon-sis-vers-un-systeme-de-sante-sans-papiers,2026-11-1
 GAB,57,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
 GAB,58,2022-11-22-gab-evaluation-of-the-intention-to-use-the-electronic-medical-record-emr-b,2026-11-17,instrument,2026-11-17
 GHA,68,2025-10-30-gha-akandoh-okoe-boye-trade-words-over-payment-in-national-e-health-projec,2026-11-17,,
-GHA,69,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
+GHA,69,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,capped,2026-11-20
 GHA,70,2019-11-01-measure-synthesis-rhis-architecture-profiles-pmi-priority-countries,2026-11-17,instrument,2026-11-17
 GHA,71,2025-01-01-gha-transitioning-to-digital-transactional-data-capture-in-primary-health,2026-11-17,instrument,2026-11-17
 GIN,38,2026-07-31-gin-n-zerekore-le-projet-de-digitalisation-de-l-hopital-regional-entre-dan,2026-11-17,,
@@ -1060,7 +1060,7 @@ GNB,30,2022-05-14-gnb-capacitating-digital-public-goods-in-guinea-bissau,2026-11
 GNB,31,2024-07-31-ago-sauditigus-strengthening-health-systems-in-portuguese-speaking-africa,2026-11-17,instrument,2026-11-17
 KEN,137,2026-11-10-ken-moh-africa-health-data-forum-opens-nairobi,2026-11-17,capped,2026-11-17
 KEN,138,2021-01-01-ken-national-strategy-for-community-health-digitization-2020-2025,2026-11-17,instrument,2026-11-17
-KEN,139,2025-08-01-ken-cs-aden-duale-launches-digital-health-reforms-to-boost-universal-healt,2026-11-17,,
+KEN,139,2025-08-01-ken-cs-aden-duale-launches-digital-health-reforms-to-boost-universal-healt,2026-11-17,capped,2026-11-20
 KEN,140,2025-07-12-ken-health-cabinet-secretary-hon-aden-duale-leads-launch-of-health-facilit,2026-11-17,capped,2026-11-17
 KEN,141,2025-01-29-ken-ministry-of-health-accelerates-digital-transformation-in-healthcare,2026-11-17,capped,2026-11-17
 KEN,142,2019-11-01-measure-synthesis-rhis-architecture-profiles-pmi-priority-countries,2026-11-17,instrument,2026-11-17
@@ -1079,7 +1079,7 @@ LSO,40,2022-12-01-lso-lesotho-s-electronic-medical-record-seamlessly-track-progr
 LSO,41,2019-01-01-lso-national-health-strategic-plan-2019-2023,2026-11-17,instrument,2026-11-17
 LSO,42,2025-05-22-lso-icap-enhances-lesothos-capacity-to-build-and-maintain-sustainable-data,2026-11-17,,
 LSO,43,2024-12-12-lso-icap-si-ii-end-of-project-evaluation,2026-11-17,instrument,2026-11-17
-MAR,38,2026-04-15-mar-head-of-government-chairs-meeting-on-reform-of-morocco-s-national-heal,2026-11-17,,
+MAR,38,2026-04-15-mar-head-of-government-chairs-meeting-on-reform-of-morocco-s-national-heal,2026-11-17,capped,2026-11-20
 MAR,39,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
 MAR,40,2022-01-01-mar-le-systeme-d-information-sanitaire-au-niveau-des-etablissements-de-soi,2026-11-17,instrument,2026-11-17
 MDG,50,2021-04-01-mdg-coaching-and-mentorship-approach-promotes-capacity-strengthening-in-re,2026-11-17,old,2026-11-17
@@ -1193,3 +1193,6 @@ MAR,41,2026-11-17-mar-telquel-draft-law-52-26-health-data,2026-11-17,,
 SLE,63,2026-09-28-sle-world-bank-ai-readiness-diagnostic,2026-11-17,instrument,2026-11-17
 BEN,43,2026-11-17-ben-numerique-sante-cyber-africa-forum-ecofin,2026-11-18,,
 SWZ,62,2026-11-16-new-health-platform-to-help-govt-anticipate-medicine-stockouts-eswatin,2026-11-18,,
+CPV,36,2026-11-19-cpv-cabo-verde-shares-its-digital-health-experience-at-the-first-africa-he,2026-11-20,,
+GIN,43,2026-11-19-gin-sante-numerique-entre-hopitaux-defaillants-et-donnees-exposees-des-experts-interpellent-letat,2026-11-20,,
+MLI,52,2026-11-19-mli-interoperabilite-dhis2ospsante-la-dpm-a-reuni-les-administrateurs-des-deux-plate,2026-11-20,,

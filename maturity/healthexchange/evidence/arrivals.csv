@@ -368,10 +368,10 @@ ETH,24,2025-10-03-eth-strengthening-digital-health-local-capacity-driving-forces
 ETH,25,2024-12-20-eth-early-effects-of-information-revolution-interventions-on-health-inform,2026-11-17,instrument,2026-11-17
 ETH,26,2021-08-01-eth-moh-digital-health-blueprint-2021-2030,2026-11-17,instrument,2026-11-17
 GAB,16,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
-GHA,18,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
+GHA,18,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,capped,2026-11-20
 GIN,19,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
 KEN,77,2026-11-10-ken-moh-africa-health-data-forum-opens-nairobi,2026-11-17,capped,2026-11-17
-KEN,78,2025-08-01-ken-cs-aden-duale-launches-digital-health-reforms-to-boost-universal-healt,2026-11-17,,
+KEN,78,2025-08-01-ken-cs-aden-duale-launches-digital-health-reforms-to-boost-universal-healt,2026-11-17,capped,2026-11-20
 KEN,79,2025-07-12-ken-health-cabinet-secretary-hon-aden-duale-leads-launch-of-health-facilit,2026-11-17,capped,2026-11-17
 KEN,80,2025-01-29-ken-ministry-of-health-accelerates-digital-transformation-in-healthcare,2026-11-17,capped,2026-11-17
 KEN,81,2025-02-01-ken-analysing-and-enhancing-digital-health-standards-in-kenya,2026-11-17,instrument,2026-11-17
@@ -380,7 +380,7 @@ LBY,5,2021-03-15-lby-assessment-summary-for-libya-score-for-health-data-technica
 LSO,12,2022-12-01-lso-lesotho-s-electronic-medical-record-seamlessly-track-progress-in-multi,2026-11-17,old,2026-11-17
 LSO,13,2024-12-12-lso-icap-si-ii-end-of-project-evaluation,2026-11-17,instrument,2026-11-17
 LSO,14,2019-01-01-lso-national-health-strategic-plan-2019-2023,2026-11-17,instrument,2026-11-17
-MAR,27,2026-04-15-mar-head-of-government-chairs-meeting-on-reform-of-morocco-s-national-heal,2026-11-17,,
+MAR,27,2026-04-15-mar-head-of-government-chairs-meeting-on-reform-of-morocco-s-national-heal,2026-11-17,capped,2026-11-20
 MAR,28,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
 MDG,10,2026-09-30-mdg-validation-du-cadre-national-d-architecture-d-entreprise-de-la-sante-n,2026-11-17,,
 MDG,11,2026-08-14-mdg-caesn-v0-0-2-cadre-architecture-entreprise-sante-numerique,2026-11-17,instrument,2026-11-17
@@ -467,3 +467,4 @@ UGA,28,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-1
 ZAF,41,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 ZMB,17,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 ZWE,29,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
+NGA,30,2026-11-18-nga-exploring-the-potential-of-digital-health-innovations-to-strengthen-ni,2026-11-20,instrument,2026-11-20

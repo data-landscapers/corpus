@@ -900,7 +900,7 @@ ETH,53,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,
 GAB,36,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
 GAB,37,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 GAB,38,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,2026-11-17
-GHA,60,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
+GHA,60,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,capped,2026-11-20
 GHA,61,2024-06-01-dial-data-can-drive-shared-prosperity-trusted-data-exchange,2026-11-17,instrument,2026-11-17
 GHA,62,2025-02-27-carnegie-dpi-practical-approach-africa,2026-11-17,instrument,2026-11-17
 GHA,63,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
@@ -1013,3 +1013,9 @@ EGY,68,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instr
 LBY,37,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 MAR,85,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 TUN,67,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
+BDI,22,2026-11-18-bdi-wb-op00482177-pafen-gip-pki-rfp,2026-11-20,,
+LBY,38,2026-11-18-lby-study-diagnoses-cybersecurity-weaknesses-in-libya-and-six-recommendations,2026-11-20,,
+MOZ,55,2026-10-08-moz-resolucao-80-2026-plano-quinquenal-erdap-2026-2030,2026-11-20,instrument,2026-11-20
+TUN,68,2026-11-19-tun-tunisie-pr-s-de-70-des-proc-dures-de-copie-conforme-et-de-l-galisation,2026-11-20,,
+TUN,69,2026-11-18-tun-parliament-begins-examining-2027-communication-technologies-budget,2026-11-20,,
+ZWE,35,2026-11-19-zwe-ict-ministry-gets-zig1-billion-in-2027-budget,2026-11-20,,

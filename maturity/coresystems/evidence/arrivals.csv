@@ -1475,7 +1475,7 @@ GAB,71,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa
 GAB,72,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,2026-11-17
 GAB,73,2022-06-01-chrgj-paving-digital-road-to-hell,2026-11-17,instrument,2026-11-17
 GAB,74,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
-GHA,103,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
+GHA,103,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,capped,2026-11-20
 GHA,104,2024-06-01-dial-data-can-drive-shared-prosperity-trusted-data-exchange,2026-11-17,instrument,2026-11-17
 GHA,105,2021-01-01-oduro-marfo-surveillance-for-development-ghana-citizen-id-thesis,2026-11-17,instrument,2026-11-17
 GHA,106,2022-06-01-chrgj-paving-digital-road-to-hell,2026-11-17,instrument,2026-11-17
@@ -1654,3 +1654,8 @@ UGA,134,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-
 ZAF,103,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 ZMB,76,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 ZWE,93,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
+BDI,28,2026-11-18-bdi-digitalbusiness-nouveau-systeme-integre-gestion-finances-publiques,2026-11-20,,
+CMR,52,2026-11-18-cmr-businessincameroon-pmsi-dgi-tenders-cancelled,2026-11-20,,
+MOZ,103,2026-10-08-moz-resolucao-80-2026-plano-quinquenal-erdap-2026-2030,2026-11-20,instrument,2026-11-20
+NGA,73,2026-11-14-nigeria-moves-to-integrate-mdas-under-new-digital-governance-plan,2026-11-20,capped,2026-11-20
+SWZ,74,2026-11-19-swz-another-govt-online-services-blackout,2026-11-20,,

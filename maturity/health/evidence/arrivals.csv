@@ -1443,7 +1443,7 @@ GAB,71,2025-10-28-gab-identifiant-unique-vers-une-modernisation-numerique-des-so
 GAB,72,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
 GAB,73,2022-11-22-gab-evaluation-of-the-intention-to-use-the-electronic-medical-record-emr-b,2026-11-17,instrument,2026-11-17
 GHA,60,2025-10-30-gha-akandoh-okoe-boye-trade-words-over-payment-in-national-e-health-projec,2026-11-17,,
-GHA,61,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
+GHA,61,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,capped,2026-11-20
 GHA,62,2019-11-01-measure-synthesis-rhis-architecture-profiles-pmi-priority-countries,2026-11-17,instrument,2026-11-17
 GHA,63,2025-01-01-gha-transitioning-to-digital-transactional-data-capture-in-primary-health,2026-11-17,instrument,2026-11-17
 GHA,64,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
@@ -1458,7 +1458,7 @@ GMB,71,2026-06-29-gmb-smart-paper-technology-for-maternal-and-newborn-health-dat
 GNB,31,2022-05-14-gnb-capacitating-digital-public-goods-in-guinea-bissau,2026-11-17,old,2026-11-17
 GNB,32,2024-12-17-gnb-gf-oig-24-021-audit-of-global-fund-grants-in-guinea-bissau,2026-11-17,instrument,2026-11-17
 GNB,33,2024-07-31-ago-sauditigus-strengthening-health-systems-in-portuguese-speaking-africa,2026-11-17,instrument,2026-11-17
-KEN,137,2025-08-01-ken-cs-aden-duale-launches-digital-health-reforms-to-boost-universal-healt,2026-11-17,,
+KEN,137,2025-08-01-ken-cs-aden-duale-launches-digital-health-reforms-to-boost-universal-healt,2026-11-17,capped,2026-11-20
 KEN,138,2025-07-12-ken-health-cabinet-secretary-hon-aden-duale-leads-launch-of-health-facilit,2026-11-17,capped,2026-11-17
 KEN,139,2025-01-29-ken-ministry-of-health-accelerates-digital-transformation-in-healthcare,2026-11-17,capped,2026-11-17
 KEN,140,2021-01-01-ken-national-strategy-for-community-health-digitization-2020-2025,2026-11-17,instrument,2026-11-17
@@ -1614,3 +1614,11 @@ LBY,39,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instr
 MAR,70,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 SWZ,82,2026-11-16-new-health-platform-to-help-govt-anticipate-medicine-stockouts-eswatin,2026-11-18,,
 TUN,32,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
+CPV,45,2026-11-19-cpv-cabo-verde-shares-its-digital-health-experience-at-the-first-africa-he,2026-11-20,,
+EGY,63,2026-11-18-egy-sis-cabinet-comprehensive-national-data-system,2026-11-20,,
+EGY,64,2026-11-18-egy-sis-eams-online-seafarer-passport-services,2026-11-20,,
+EGY,65,2026-11-18-egy-sis-trade-tech-regulatory-sandbox-innovation-hub,2026-11-20,,
+GIN,51,2026-11-19-gin-sante-numerique-entre-hopitaux-defaillants-et-donnees-exposees-des-experts-interpellent-letat,2026-11-20,,
+LBR,78,2026-11-17-lbr-moh-sand-technologies-assess-digital-health-progress-ahead-of-december-emr-deployment,2026-11-20,,
+MLI,58,2026-11-19-mli-interoperabilite-dhis2ospsante-la-dpm-a-reuni-les-administrateurs-des-deux-plate,2026-11-20,,
+NGA,81,2026-11-18-nga-exploring-the-potential-of-digital-health-innovations-to-strengthen-ni,2026-11-20,instrument,2026-11-20

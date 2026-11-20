@@ -1042,7 +1042,7 @@ ETH,34,2021-08-01-eth-moh-digital-health-blueprint-2021-2030,2026-11-17,instrume
 ETH,35,2014-03-25-hrw-they-know-everything-we-do-ethiopia-surveillance,2026-11-17,instrument,2026-11-17
 ETH,36,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 GAB,29,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
-GHA,66,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
+GHA,66,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,capped,2026-11-20
 GHA,67,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 GIN,33,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
 GMB,49,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -1094,3 +1094,15 @@ MWI,49,2026-11-17-mwi-ses-expands-rural-school-connectivity,2026-11-18,,
 SEN,88,2026-11-16-passant-project-dismissals-and-audit-at-senum-sa,2026-11-18,,
 SEN,89,2024-11-29-sen-arcop-adoc-passant-audit-technique-senum,2026-11-18,instrument,2026-11-18
 ZAF,141,2026-11-18-zaf-mybroadband-napafrica-7tbps-800g-ports,2026-11-18,,
+BEN,51,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
+CIV,98,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
+CPV,39,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
+GHA,68,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
+GIN,34,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
+GMB,50,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
+GNB,33,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
+LBR,65,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
+MAR,46,2026-11-17-mar-ai-rural-internet-access-and-public-services-ahmed-rahhou-unveils-moroccos-next,2026-11-20,,
+MRT,26,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
+SEN,90,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
+SLE,43,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
