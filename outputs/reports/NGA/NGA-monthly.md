@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: NGA
-ledger_rows: 131
+ledger_rows: 137
 not_held: 8
-record: fc7d47f54b5e
+record: 2914e3e2c802
 ---
 
 # News, Oct – Nov 2026
@@ -622,6 +622,20 @@ The Central Bank of Nigeria signed a memorandum of understanding with the Global
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SMEDAN and Mastercard memorandum on small-business digitalisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG, Mastercard partner to accelerate digital transformation of SMEs](https://www.vanguardngr.com/2026/11/fg-mastercard-partner-to-accelerate-digital-transformation-of-smes/)** — Vanguard, 18 November 2026
+
+Framework MoU, no money stated; Mastercard index: 100% of SMEs surveyed call digital payments essential.
+
+</div>
+
+</div>
+
 ### New investments
 
 <div class="monthly-story" markdown="1">
@@ -718,6 +732,36 @@ Nigeria's communications regulator issued the communique of its Digital Connecti
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Project BRIDGE national open-access fibre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Contract Award: Engagement of Consultant for the SPV Design and Human Capital Strategy (BRIDGE, P508383, NG-FMCIDE-542749-CS-QCBS)](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00473863)** — World Bank (procurement notice published for the Federal Ministry of Communications, Innovation and Digital Economy), 8 October 2026
+
+EY Nigeria with Kennedia ranked first of four (85.02); signed NGN 315,232,762.12; award notified 30 Sep 2026; six months.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG, EU, EBRD sign €14m deal to drive 90,000-km fibre-optic backbone project](https://businessday.ng/news/article/fg-eu-ebrd-sign-e14m-deal-to-drive-90000-km-fibre-optic-backbone-project/)** — BusinessDay Nigeria, 15 October 2026
+
+Nigeria, the European Union and the EBRD signed a EUR 14 million grant for the planned 90,000 km national fibre backbone, funded by the EU and managed by the bank. It pays for scoping, detailed network design, project preparation and capacity-building in the agencies implementing it.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[World Bank awards EY ₦315m contract for Nigeria’s $2bn Project BRIDGE fibre plan](https://businessamlive.com/world-bank-awards-ey-%E2%82%A6315m-contract-for-nigerias-2bn-project-bridge-fibre-plan/)** — BusinessAM Live, 19 November 2026
+
+NGN 315.23m SPV advisory to EY and Kennedia; award notice 30 Sep 2026; four bidders scored under QCBS.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">ACE cable Lagos landing station</p>
 
 <div class="bulletin-item" markdown="1">
@@ -753,20 +797,6 @@ Lagos State's deputy governor said more than 6.4 million residents have enrolled
 **[Nigerians used 90% of 2025’s internet data volume in eight months](https://techcabal.com/2026/10/13/nigerians-2026-internet-data-consumption/)** — TechCabal, 13 October 2026
 
 Nigerians used 11.94 million terabytes of internet data in January to August 2026, about 90% of the whole of 2025, on the regulator's statistics. August alone took 1.76 million terabytes, with about 800,000 new internet subscriptions.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Project BRIDGE national open-access fibre</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[FG, EU, EBRD sign €14m deal to drive 90,000-km fibre-optic backbone project](https://businessday.ng/news/article/fg-eu-ebrd-sign-e14m-deal-to-drive-90000-km-fibre-optic-backbone-project/)** — BusinessDay Nigeria, 15 October 2026
-
-Nigeria, the European Union and the EBRD signed a EUR 14 million grant for the planned 90,000 km national fibre backbone, funded by the EU and managed by the bank. It pays for scoping, detailed network design, project preparation and capacity-building in the agencies implementing it.
 
 </div>
 
@@ -1001,6 +1031,20 @@ The Nigerian Communications Commission spoke at the second International Cyberse
 **[Cyberattack alert: What Nigerian banks must tell customers](https://techcabal.com/2026/11/16/what-banks-must-show-after-a-cyberattack/)** — TechCabal, 16 November 2026
 
 The article sets out that in Nigeria reporting a cyberattack to the Central Bank, notifying affected customers and making a public announcement are separate duties. Banks must tell those affected where a personal-data breach is likely to create a high risk to individuals. CBN figures show N134.48 billion lost to fraud from 2020 to 2025. NIBSS figures put payment fraud losses at N25.85 billion in 2025, down from N52.26 billion.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">DNSSEC on the .ng domain</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Stakeholders Seek Investment in Indigenous Technology - Voice of Nigeria](https://von.gov.ng/stakeholders-seek-investment-in-indigenous-technology/)** — Voice of Nigeria, 19 November 2026
+
+NIGF 2026 in Abuja; NCC on Internet Code of Practice AI notification; NiRA DNSSEC on .ng since Feb 2026.
 
 </div>
 
@@ -1470,6 +1514,20 @@ A consultant to the ECOWAS regional payment initiative has proposed that Nigeria
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Revenue service VASP Tax Portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria gives crypto firms until November 30 to submit tax registration](https://techcabal.com/2026/11/19/nigeria-gives-crypto-firms-tax-deadline/)** — TechCabal, 19 November 2026
+
+VASP Tax Portal: register by 30 Nov, integrate by 31 Dec 2026; Tax Administration Act s.79; penalties for misses.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -1824,6 +1882,20 @@ Nigeria's anti-corruption commission ICPC and the IT agency NITDA launched a pil
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kogi State ONE-GOV ERP platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ododo Launches ONE-GOV ERP, Sets New Standard for Digital Governance in Kogi Governor Directs MDAs to Adopt Platform, Distributes Thousands of Laptops, iPads to Officials — Kogi State Government](https://kogistate.gov.ng/ododo-launches-one-gov-erp-sets-new-standard-for-digital-governance-in-kogi-governor-directs-mdas-to-adopt-platform-distributes-thousands-of-laptops-ipads-to-officials/)** — Kogi State Government, 18 November 2026
+
+All MDAs directed onto the platform; finance, HR, project monitoring; laptops and iPads to officials.
+
+</div>
+
+</div>
+
 ### Rural digital data capture
 
 <div class="monthly-story" markdown="1">
@@ -2015,6 +2087,20 @@ Cascador and Sterling Bank announced the SME Credit Backstop, a planned USD 200 
 **[Nigeria's First Lady Lays Foundation for Abuja Innovation Hub](https://von.gov.ng/nigerias-first-lady-lays-foundation-for-abuja-innovation-hub/)** — Voice of Nigeria, 23 October 2026
 
 Nigeria's First Lady, Oluremi Tinubu, laid the foundation stone of the Renewed Hope Startup Hub in Wuye, Abuja, funded by a USD 10.4 million grant from Japan through JICA and intended for incubation, hardware prototyping and research. NITDA's director-general said the agency's programmes had supported more than 995 startups and created about 7,596 jobs over three years.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Anambra Solution Innovation District</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria advised to adopt UAE’s approach to AI accountability - Businessday NG](https://businessday.ng/news/article/nigeria-advised-to-adopt-uaes-approach-to-ai-accountability/)** — BusinessDay, 18 November 2026
+
+Apampa: a named AI and data officer in every MDA; Anambra innovation district 80% complete; UAE $71.32bn in SSA.
 
 </div>
 
@@ -2381,6 +2467,20 @@ Nigeria's communications regulator lists the licensed ground segment operators f
 **[Internet Service Provider Data](https://www.ncc.gov.ng/market-data-reports/internet-service-provider-data)** — Nigerian Communications Commission, 13 November 2026
 
 Nigeria's communications regulator lists subscribers for each internet service provider. For the second quarter of 2026, Spectranet shows 111,384 and Starlink 98,642. The page also carries third quarter 2026 fibre figures, led by MTN with 242,916.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS ECOSAT-1 regional Earth observation satellite</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NASRDA backs ECOWAS plans for West Africa’s first regional Earth observation satellite](https://techreviewafrica.com/news/8400/x)** — Tech Review Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+ECOSAT-1 framed as data sovereignty and disaster response; NASRDA offers technical expertise at ECOWAS experts' meeting.
 
 </div>
 
