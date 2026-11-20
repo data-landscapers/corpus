@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: KEN
-ledger_rows: 110
+ledger_rows: 113
 not_held: 5
-record: c677f8e69002
+record: 5fd6f0c3160e
 ---
 
 # News, Oct – Nov 2026
@@ -346,6 +346,20 @@ Kenya's High Court set aside a KSh1.25 million compensation award made by the Da
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Commissioner's investigation of the Business Registration Service breach</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Inside the regulatory decision that spared BRS a financial penalty after its massive data breach](https://techtrendske.co.ke/2026/11/17/brs-data-breach-odpc-investigation)** — TechTrends Media, 17 November 2026
+
+Enforcement notice, no fine; records on 2m+ firms exposed; deletion deal with Moldova's B2bhint via EU help.
+
+</div>
+
+</div>
+
 ### Regional collaboration
 
 <div class="monthly-story" markdown="1">
@@ -406,6 +420,8 @@ Linda Omondi of CIPIT analysed the Central Bank of Kenya's draft AI guidance for
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technical-capacity">Technical Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
@@ -603,6 +619,22 @@ Kenya's Public Private Partnerships Directorate signed a funding agreement on 23
 **[AMACO and ARISE IIP Advance US$700 Million Power and AI Infrastructure Project in Mombasa](https://www.kenyaengineer.co.ke/amaco-and-arise-iip-advance-us700-million-power-and-ai-infrastructure-project-in-mombasa/)** — Kenya Engineer, 6 November 2026
 
 Kenya Engineer reported on 6 November 2026 that AMACO Energy and ARISE IIP Kenya signed an MoU on HERCULES. It is a proposed power and AI data centre project at Dongo Kundu, Mombasa. AMACO puts the investment at a minimum of US$700 million, with about 250 MW of LNG-based generation rising to 1 GW.
+
+</div>
+
+</div>
+
+### Technical Capacity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kenya National Open Source Programme Office</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya's Accession to the Digital Public Goods Alliance and the 50-in-5 Campaign](https://www.ict.go.ke/kenyas-accession-digital-public-goods-alliance-and-50-5-campaign)** — Ministry of Information, Communications and the Digital Economy (Kenya), 17 November 2026
+
+UN-endorsed memberships; open source as sovereignty choice; DPI Roadmap on five pillars in development.
 
 </div>
 
@@ -947,6 +979,14 @@ Postbank's entry to PesaLink brings Kenya's interbank payments network to 80 ins
 **[Airtel Kenya Partners Pesalink to Expand Money Transfers to 30 Financial Institutions](https://techafricanews.com/2026/11/11/airtel-kenya-pesalink-money-transfers-30-financial-institutions/)** — Tech Africa News, 11 November 2026
 
 Airtel Kenya and Integrated Payment Systems Limited, which operates Pesalink, signed an agreement on 10 November 2026. It lets Airtel Money users send funds from their wallets to accounts at 30 banks, SACCOs and microfinance banks on the Pesalink network. An account-confirmation check runs before each transfer (reported 11 November 2026).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[PesaLink wants cheaper payments, but cannot tell banks what to charge](https://techcabal.com/2026/11/19/pesalink-kenya-on-cheaper-payments/)** — TechCabal, 19 November 2026
+
+The chief executive of PesaLink's operator said on 18 November 2026 that person-to-merchant till, paybill and QR payments had gone live, starting with Equity Bank and SBM at Quickmart. Half of PesaLink payments start or end at a business. He expects every bank to adopt the KES 20 flat transfer fee before the end of 2027.
 
 </div>
 
@@ -1431,6 +1471,20 @@ Kenya's Directorate of eCitizen told the National Assembly's Sports and Culture 
 **[IPF and Treasury Review Kenya’s Electronic Government Procurement (e-GP) Progress as Reform enters Second Year - Institute of Public Finance](https://ipfglobal.or.ke/ipf-and-treasury-review-kenyas-electronic-government-procurement-e-gp-progress-as-reform-enters-second-year/)** — Institute of Public Finance Kenya, 4 November 2026
 
 Treasury Cabinet Secretary John Mbadi told a partners' meeting with the Institute of Public Finance on 4 November 2026 that Kenya's eGP system has onboarded over 1,500 procuring entities and 45,000 suppliers. Contracts worth about KSh 18.3 billion have been processed through it. He set four priorities for the next phase of the reform.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Membership of the Digital Public Goods Alliance and the 50-in-5 campaign</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Kenya's Accession to the Digital Public Goods Alliance and the 50-in-5 Campaign](https://www.ict.go.ke/kenyas-accession-digital-public-goods-alliance-and-50-5-campaign)** — Ministry of Information, Communications and the Digital Economy (Kenya), 17 November 2026
+
+Summarised under [Technical Capacity](#technical-capacity).
 
 </div>
 
