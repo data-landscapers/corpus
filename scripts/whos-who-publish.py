@@ -140,6 +140,7 @@ def build() -> dict:
     cat = W.catalogue()
     doc_id = {r["slug"]: int(r["id"]) for r in read(DOC_IDS)}
     places = W.countries()
+    person_names = {W.fold(n) for n in people.values()} | {W.fold(a) for s in aliases.values() for a in s}
 
     facts, dropped = [], collections.Counter()
     for r in read(POSITIONS):
@@ -154,6 +155,9 @@ def build() -> dict:
         if canon not in orgs:
             dropped["organisation not in organisations.csv"] += 1
             continue
+        if W.fold(orgs[canon]["name"]) in person_names:
+            dropped["organisation is a person's tag"] += 1      # *Abdelmadjid Tebboune*
+            continue
         item = cat.get(r["source_url"])
         if not item or item.get("slug") not in doc_id:
             dropped["source not in the catalogue"] += 1
@@ -167,20 +171,61 @@ def build() -> dict:
     # hyphens and spacing, and publish under the form the sources use most.
     grouped = collections.defaultdict(list)
     for f in facts:
-        grouped[(f[0], f[1], f[2], position_key(f[4]))].append(f)
+        grouped[(f[0], f[1], f[2])].append(f)
     rows = []
-    for (pid, canon, year, _), fs in grouped.items():
-        forms = collections.Counter(f[4] for f in fs)
-        position = min(forms, key=lambda t: (-forms[t], not t[:1].isupper(), t))
-        src = sorted({(f[6], f[5]) for f in fs})
-        rows.append({"pid": pid, "org": canon, "name": people[pid], "year": year,
-                     "y0": fs[0][3], "position": position,
-                     "organisation": orgs[canon]["name"],
-                     "source_url": SEP.join(u for _, u in src), "sids": [i for i, _ in src],
-                     "urls": dict(src)})
+    for (pid, canon, year), fs in grouped.items():
+        for fs, forms, parts in same_titles(fs, orgs[canon]["name"]):
+            position = min(forms, key=lambda t: (
+                not W.is_english(t), -len(parts[t]), not t[:1].isupper(),
+                sum(1 for w in re.findall(r"\w+", t) if len(w) > 1 and w.isupper()),
+                len(t.split()), -forms[t], t))
+            rows.append(row_of(pid, canon, year, position, fs, people, orgs))
     rows.sort(key=lambda x: (W.fold(x["name"]), x["y0"], W.fold(x["organisation"]),
                              W.fold(x["position"])))
+    return finish(rows, people, aliases, orgs, places, dropped)
 
+
+def same_titles(fs: list, organisation: str):
+    """Split one person's facts at one organisation in one year into titles: two written
+    positions are one title when they share a part (`W.title_parts`), and the sharing
+    chains, so *DG* and *CEO* meet through *Director General and CEO*. Yields each title's
+    facts, its written forms counted, and each form's parts."""
+    ow = W.org_words(organisation)
+    forms = collections.Counter(f[4] for f in fs)
+    parts = {t: W.title_parts(t, owords=ow) or frozenset({position_key(t)}) for t in forms}
+    up = {t: t for t in forms}
+
+    def find(t):
+        while up[t] != t:
+            t = up[t]
+        return t
+    owner = {}
+    for t in sorted(forms):
+        for k in parts[t]:
+            if k in owner:
+                a, b = find(owner[k]), find(t)
+                if a != b:
+                    up[max(a, b)] = min(a, b)
+            else:
+                owner[k] = t
+    groups = collections.defaultdict(list)
+    for f in fs:
+        groups[find(f[4])].append(f)
+    for g in groups.values():
+        fc = collections.Counter(f[4] for f in g)
+        yield g, fc, {t: parts[t] for t in fc}
+
+
+def row_of(pid, canon, year, position, fs, people, orgs) -> dict:
+    src = sorted({(f[6], f[5]) for f in fs})
+    return {"pid": pid, "org": canon, "name": people[pid], "year": year,
+            "y0": fs[0][3], "position": position,
+            "organisation": orgs[canon]["name"],
+            "source_url": SEP.join(u for _, u in src), "sids": [i for i, _ in src],
+            "urls": dict(src)}
+
+
+def finish(rows, people, aliases, orgs, places, dropped) -> dict:
     # People in name order; the index is all a row carries, and it is renumbered every build.
     pids = sorted({x["pid"] for x in rows}, key=lambda p: (W.fold(people[p]), p))
     p_ix = {p: i for i, p in enumerate(pids)}

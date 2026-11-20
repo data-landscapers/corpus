@@ -1,0 +1,189 @@
+term,english,language
+president de la republique,president,fr
+presidente da republica,president,pt
+presidente de la republica,president,es
+president du conseil d'administration,chair of the board,fr
+presidente do conselho de administracao,chair of the board,pt
+presidente del consejo de administracion,chair of the board,es
+chairman of the board of directors,chair of the board,en
+chairman of the board,chair of the board,en
+chairperson of the board,chair of the board,en
+board chairman,chair of the board,en
+board chair,chair of the board,en
+pca,chair of the board,fr
+president-directeur general,chair and chief executive,fr
+pdg,chair and chief executive,fr
+chef de l'etat,head of state,fr
+chefe de estado,head of state,pt
+chef du gouvernement,head of government,fr
+chefe do governo,head of government,pt
+premier ministre,prime minister,fr
+primeiro-ministro,prime minister,pt
+primer ministro,prime minister,es
+ministre d'etat,minister of state,fr
+ministre delegue,deputy minister,fr
+ministre deleguee,deputy minister,fr
+ministre,minister,fr
+ministro,minister,pt
+ministra,minister,pt
+vice-ministro,deputy minister,pt
+vice-ministre,deputy minister,fr
+secretaire d'etat,secretary of state,fr
+secretario de estado,secretary of state,pt
+secretaire general adjoint,deputy secretary general,fr
+secretaire generale adjointe,deputy secretary general,fr
+secretaire general,secretary general,fr
+secretaire generale,secretary general,fr
+secretario-geral,secretary general,pt
+secretario geral,secretary general,pt
+secretario general,secretary general,es
+secretaire executif,executive secretary,fr
+secretaire executive,executive secretary,fr
+secretario executivo,executive secretary,pt
+secretaire permanent,permanent secretary,fr
+directeur general adjoint,deputy director general,fr
+directrice generale adjointe,deputy director general,fr
+directeur general,director general,fr
+directrice generale,director general,fr
+director-geral adjunto,deputy director general,pt
+director-geral,director general,pt
+diretor-geral,director general,pt
+diretora-geral,director general,pt
+director geral,director general,pt
+diretor geral,director general,pt
+directora general,director general,es
+directeur executif,executive director,fr
+directrice executive,executive director,fr
+diretor executivo,executive director,pt
+directeur pays,country director,fr
+directeur de cabinet,chief of staff,fr
+directrice de cabinet,chief of staff,fr
+chef de cabinet,chief of staff,fr
+director-general,director general,en
+dg,director general,en
+directeur,director,fr
+directrice,director,fr
+diretor,director,pt
+diretora,director,pt
+chief executive officer,chief executive,en
+ceo,chief executive,en
+managing director,managing director,en
+md,managing director,en
+vice-presidente,vice president,pt
+vice-president,vice president,fr
+vice-presidente,vice president,fr
+presidente,president,pt
+president,president,fr
+gouverneur,governor,fr
+gouverneure,governor,fr
+vice-gouverneur,deputy governor,fr
+governador,governor,pt
+gobernador,governor,es
+commissaire,commissioner,fr
+comissario,commissioner,pt
+comisario,commissioner,es
+ambassadeur,ambassador,fr
+ambassadrice,ambassador,fr
+embaixador,ambassador,pt
+embajador,ambassador,es
+representant resident,resident representative,fr
+representante residente,resident representative,fr
+representant,representative,fr
+representante,representative,fr
+administrateur general,administrator general,fr
+administrateur,administrator,fr
+administrador,administrator,pt
+coordonnateur,coordinator,fr
+coordonnatrice,coordinator,fr
+coordinateur,coordinator,fr
+coordinatrice,coordinator,fr
+coordenador,coordinator,pt
+coordenadora,coordinator,pt
+coordinador,coordinator,es
+conseiller,adviser,fr
+conseillere,adviser,fr
+advisor,adviser,en
+porte-parole,spokesperson,fr
+tresorier,treasurer,fr
+secretaire,secretary,fr
+fondateur,founder,fr
+fondatrice,founder,fr
+recteur,rector,fr
+procureur general,attorney general,fr
+procureur,prosecutor,fr
+depute,member of parliament,fr
+deputee,member of parliament,fr
+senateur,senator,fr
+maire,mayor,fr
+prefet,prefect,fr
+adjoint,deputy,fr
+adjointe,deputy,fr
+adjunto,deputy,pt
+chairman,chair,en
+chairwoman,chair,en
+chairperson,chair,en
+chef,head,fr
+oms,who,fr
+pnud,undp,fr
+bad,afdb,fr
+ministere,ministry,fr
+ministerio,ministry,pt
+economie,economy,fr
+economia,economy,pt
+finances,finance,fr
+financas,finance,pt
+budget,budget,fr
+sante,health,fr
+saude,health,pt
+interieur,interior,fr
+affaires etrangeres,foreign affairs,fr
+negocios estrangeiros,foreign affairs,pt
+justice,justice,fr
+education nationale,education,fr
+education,education,fr
+educacao,education,pt
+agriculture,agriculture,fr
+agricultura,agriculture,pt
+commerce,trade,fr
+comercio,trade,pt
+industrie,industry,fr
+industria,industry,pt
+transports,transport,fr
+transportes,transport,pt
+energie,energy,fr
+energia,energy,pt
+mines,mines,fr
+travail,labour,fr
+emploi,employment,fr
+plan,planning,fr
+planificacao,planning,pt
+defense,defence,fr
+defesa,defence,pt
+communication,communication,fr
+comunicacao social,social communication,pt
+telecommunications,telecommunications,fr
+numerique,digital,fr
+environnement,environment,fr
+ambiente,environment,pt
+tourisme,tourism,fr
+turismo,tourism,pt
+douanes,customs,fr
+impots,taxes,fr
+statistique,statistics,fr
+estatistica,statistics,pt
+banque,bank,fr
+banco,bank,pt
+centrale,central,fr
+central,central,pt
+assemblee nationale,national assembly,fr
+assembleia nacional,national assembly,pt
+cour supreme,supreme court,fr
+tribunal supremo,supreme court,pt
+commission,commission,fr
+comissao,commission,pt
+conseil,council,fr
+conselho,council,pt
+gouvernement,government,fr
+governo,government,pt
+republique,republic,fr
+republica,republic,pt

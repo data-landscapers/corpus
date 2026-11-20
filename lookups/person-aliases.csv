@@ -413,11 +413,11 @@ Abdirahman Ali,P000383,auto
 Abdirahman Jama Ali,P000384,auto
 Mahmoud Abdirahman Beenebeene,P000385,auto
 Abdirahman Dahir,P000386,auto
+Abdirahman Omar,P000387,auto
 Abdirahman Omar Dahir,P000387,auto
 Hamse Abdirahman Khayre,P000388,auto
 Abdirahman Mohamed Mohamud,P000389,auto
 Abdirahman Mohamoud,P000390,auto
-Abdirahman Omar,P000391,auto
 Abdirahman Robleh,P000392,auto
 Mule Abdisa,P000394,auto
 Abdisa Yilma,P000395,auto
@@ -604,8 +604,11 @@ Abdul-Basit Salem Al-Baour,P000559,auto
 Abdul Basit Salem Al-Baour,P000560,auto
 Abdul Wahab Al-Mukhtar,P000561,auto
 APJ Abdul Kalam,P000562,auto
+Abdul Kalam,P000562,auto
 Abdul Aziz,P000563,auto
 Abdul B. Kamara,P000564,auto
+Abdul KAMARA,P000564,auto
+Abdul Kamara,P000564,auto
 Abdul Bah,P000565,auto
 Abdul Ben-Foday,P000566,auto
 Abdul Ben-Foday,P000567,auto
@@ -620,9 +623,6 @@ Issa Abdul-Jabbar Suuri Maiga,P000575,auto
 Abdul-Mumin Issah,P000576,auto
 Abdul-Majid Jecha Ramadhan,P000577,auto
 Abdul-majid Jecha Ramadhan,P000577,auto
-Abdul Kalam,P000578,auto
-Abdul KAMARA,P000579,auto
-Abdul Kamara,P000579,auto
 Abdul Kargbo,P000580,auto
 Abdul Karim Sesay,P000581,auto
 Abdul Rahman Lamin,P000582,auto
@@ -771,13 +771,13 @@ Ibangalo Manga Mavouna Abel,P000719,auto
 Ibango Manga Ma Jona Abel,P000720,auto
 Ibangolo Abel Maïna,P000721,auto
 Ibangolo Maïna Manga Abel,P000722,auto
+Abel Maina,P000723,auto
+Abel Maïna,P000723,auto
 Ibangolo Maina Manga Abel,P000723,auto
 Ibangolo Manga Maïna Abel,P000723,auto
 Ibangolo Maïna Manga Abel,P000723,auto
 Abel Kandiho,P000724,auto
 Abel Lufafa,P000725,auto
-Abel Maina,P000726,auto
-Abel Maïna,P000726,auto
 Serge Abel Ongani,P000727,auto
 Abel Sindano,P000728,auto
 Abel Sindano,P000729,auto
@@ -838,6 +838,7 @@ Abisoye-Coker Odusote,P000779,auto
 Abisoye Coker-Odusote,P000780,auto
 Teju Abisoye,P000783,auto
 Makarimi Abissola Adechoubou,P000784,auto
+Makarimi Adechoubou,P000784,auto
 Abiy Ahmed,P000785,auto
 Abiy Ahmed Ali,P000785,auto
 Abiyot Bayou Tehone,P000787,auto
@@ -903,7 +904,7 @@ Aboubacrine Aguissa,P000842,auto
 Aboubakar Assidick Tchoroma,P000843,auto
 Aboubakar Cisse,P000844,auto
 Aboubakar Mambimba,P000845,auto
-Aboubakar Mambimba Ndjoungui,P000846,auto
+Aboubakar Mambimba Ndjoungui,P000845,auto
 Aboubakar NACANABO,P000847,auto
 Aboubakar NACANABO,P000848,auto
 Aboubakar Nacanabo,P000848,auto
@@ -1208,7 +1209,6 @@ Tobi Adebowale,P001124,auto
 Adeboye Adegoke,P001125,auto
 Daniel Adeyemi Adeboyejo,P001126,auto
 Makarimi Adechoubou,P001127,auto
-Makarimi Adechoubou,P001128,auto
 Adedayo Adewale,P001129,auto
 Adedayo Amzat,P001130,auto
 Adedayo Bankole,P001131,auto
@@ -1293,6 +1293,7 @@ Bankole Adeoye,P001207,auto
 Bankole Adeoye,P001208,auto
 Temilola Adepetun,P001209,auto
 Ibrahim Adepoju Adeyanju,P001210,auto
+Ibrahim Adeyanju,P001210,auto
 Mathew Adepoju,P001211,auto
 Adepoju Matthew,P001212,auto
 Matthew Adepoju,P001212,auto
@@ -1315,9 +1316,9 @@ Adetunji Adeyemo,P001228,auto
 Adetunji Adeyemo,P001229,auto
 Yinka Adewale,P001230,auto
 Adewunmi Emoruwa,P001231,auto
-Ibrahim Adeyanju,P001232,auto
 Azeez Adeyemi,P001233,auto
 Adéyèmi Clément Kouchadé,P001234,auto
+Clément KOUCHADE,P001234,auto
 Kayode Adeyemi,P001235,auto
 Kings Adeyemi,P001236,auto
 Mohamed Takiyoullah El Adham,P001237,auto
@@ -1341,11 +1342,11 @@ Francisca Dossou Adikpéto,P001251,auto
 Emmanuel Adil,P001252,auto
 Emmanuel Adil Anthony,P001252,auto
 Adil Arshed Khawaja,P001253,auto
+Adil Khawaja,P001253,auto
 Adil el Youssefi,P001254,auto
 Adil El Youssefi,P001255,auto
 Adil Ginabay,P001257,auto
 Adil Hassan,P001258,auto
-Adil Khawaja,P001259,auto
 Adilson Gomes,P001260,auto
 Adilson dos Santos Cousin Gomes,P001260,auto
 Adilson Miguel dos Santos,P001261,auto
@@ -1457,9 +1458,9 @@ Tobias Adrian,P001360,auto
 Adriana Marais,P001361,auto
 Adriano Afonso Maleiane,P001362,auto
 Adriano Afonso Maleiane,P001363,auto
+Adriano Maleiane,P001363,auto
 Adriano Afonso Maleiane,P001364,auto
 Adriano Caldevilla,P001365,auto
-Adriano Maleiane,P001366,auto
 Adriano Moreno,P001367,auto
 Adriano Ubisse,P001368,auto
 Adrianus Vugs,P001369,auto
@@ -1506,12 +1507,13 @@ Afolabi Yori,P001408,auto
 Yori Afolabi,P001408,auto
 Afonso Dhlakama,P001409,auto
 João Afonso,P001410,auto
-João Maria Afonso,P001411,auto
+João Maria Afonso,P001410,auto
 José Luís Afonso,P001412,auto
 Meick Afonso,P001413,auto
 Africano Mande Gedima,P001414,auto
 Jean-Guy Afrika,P001415,auto
 Belinda Afriyie Nimako,P001416,auto
+Belinda Nimako,P001416,auto
 Aftab Ahmad Maroof,P001417,auto
 Aftar Touré MOROU,P001418,auto
 Rama Afullo,P001419,auto
@@ -1541,8 +1543,8 @@ Togbé Agbagla,P001441,auto
 Séraphin Agbahoungbata,P001442,auto
 Segun Agbaje,P001443,auto
 Chukwuemeka Agbata,P001444,auto
-Chukwuemeka Fred Agbata,P001444,auto
-Chukwuemeka Fred Agbata Jnr.,P001446,auto
+Chukwuemeka Fred Agbata,P001445,auto
+Chukwuemeka Fred Agbata Jnr.,P001445,auto
 Aurélien Agbénonci,P001447,auto
 Agbenonwossi Elolo Emmanuel,P001448,auto
 Emmanuel Elolo Agbenonwossi,P001448,auto
@@ -1562,8 +1564,8 @@ Agbodan Philippe,P001460,auto
 Sena Agbodjah,P001461,auto
 Kwame Governs Agbodza,P001462,auto
 Bienvenu Comlan Agbokponto Soglo,P001463,auto
+Olugbenga Agboola,P001464,auto
 Olugbenga “GB” Agboola,P001464,auto
-Olugbenga Agboola,P001465,auto
 Ageela Saleh,P001466,auto
 Karen Ageng'o,P001467,auto
 Evans Aggrey Darko,P001468,auto
@@ -2139,9 +2141,9 @@ Kpakpovi Koffi Goeh-Akue,P001995,auto
 Akuei Bona Malwal,P001996,auto
 Simon Akuei,P001997,auto
 Simon Akuei Deng,P001997,auto
+Teki Akuetteh,P001999,auto
 Teki Akuetteh Falconer,P001999,auto
 Teki Akuetteh Falconer,P002000,auto
-Teki Akuetteh,P002001,auto
 Grace Akullo,P002002,auto
 Diana Akullu Wanyama,P002003,auto
 David Akum Saba-Elkher,P002004,auto
@@ -2378,8 +2380,8 @@ Albano Carige António,P002223,auto
 Albano Baptista,P002224,auto
 Albano Carige,P002225,auto
 Albano Ferreira,P002226,auto
-Albano Vicente Lopes Ferreira,P002226,auto
 Albano Lopes Ferreira,P002227,auto
+Albano Vicente Lopes Ferreira,P002228,auto
 Albano Vicente Ferreira,P002229,auto
 Geraldo Albasine,P002230,auto
 Albert Alsina,P002231,auto
@@ -2425,6 +2427,7 @@ Carlos Tavares Pina,P002266,auto
 Lourino Alberto Chemane,P002267,auto
 Lourino Chemane,P002267,auto
 Joaquim Alberto Chissano,P002268,auto
+Joaquim Chissano,P002268,auto
 Alberto Wenceslas Mouguengui Moudoki,P002269,auto
 Alberto Mounguengui Moudoki,P002270,auto
 Alberto Wenceslas Mounguengui Moudoki,P002270,auto
@@ -2680,6 +2683,7 @@ Isa Ali Ibrahim (Pantami),P002497,auto
 Isa Ali Ibrahim Pantami,P002498,auto
 Isa Ali Ibrahim (Pantami),P002499,auto
 Isa Ali Ibrahim Pantami,P002499,auto
+Isa Pantami,P002499,auto
 Osama Ali Ibrahim,P002500,auto
 Isa Ali Pantami,P002501,auto
 Kahil Ali,P002502,auto
@@ -2864,7 +2868,7 @@ Allarambaye Mbaïgoto,P002655,auto
 Ron Allard,P002656,auto
 Bibi Salma Alleebux,P002657,auto
 Allen Asiimwe,P002658,auto
-Allen Sophia Asiimwe,P002659,auto
+Allen Sophia Asiimwe,P002658,auto
 Jonathan Allen,P002660,auto
 Kaamil Alli,P002661,auto
 Rashaad Alli,P002662,auto
@@ -2884,9 +2888,10 @@ Ally Simba,P002674,auto
 Ally Simba,P002675,auto
 Ally Yahaya Simba,P002676,auto
 JANIRA ISABEL FONSECA HOPFFER ALMADA,P002677,auto
-Janira Hopffer Almada,P002678,auto
+Janira Hopffer Almada,P002677,auto
 Sílvio Almada,P002679,auto
 Stephen Almadi,P002680,auto
+Jorge Carlos Fonseca,P002681,auto
 Jorge Carlos de Almeida Fonseca,P002681,auto
 Gueitt d´Almeida,P002682,auto
 Gueite Almeida,P002683,auto
@@ -3026,9 +3031,9 @@ Saikou Amadou Diallo,P002799,auto
 Saikou Amadou Diallo,P002800,auto
 Amadou Dina,P002801,auto
 Dina Amadou,P002801,auto
+Sheikh Dina Amadou,P002801,auto
 AMADOU Dina Mahamat,P002802,auto
 AMADOU Mahamat Dina,P002802,auto
-Sheikh Dina Amadou,P002803,auto
 Amadou Dinah,P002804,auto
 Amadou Diongue,P002805,auto
 Amadou Diongue,P002806,auto
@@ -3231,8 +3236,8 @@ Aminata Zerbo/sabané,P002986,auto
 Aminata Zerbo/Savane,P002988,auto
 Aminata Zéro/Sabané,P002989,auto
 Amine El Mezouaghi,P002990,auto
+Amine Mezouaghi,P002990,auto
 Amine Kandil,P002991,auto
-Amine Mezouaghi,P002992,auto
 Mohamed Amine Riahla,P002993,auto
 Mohamed Amine ZARROUK,P002994,auto
 Younes Peter Amine,P002995,auto
@@ -3387,6 +3392,7 @@ Vinaye Ancharaz,P003139,auto
 Anda Usman,P003140,auto
 Nenyi George Andah,P003141,auto
 MAZIDA ANDAKEIZOU,P003142,auto
+Guillaume Ngefa,P003143,auto
 Guillaume Ngefa Atondoko Andali,P003143,auto
 Hicham Andaloussi,P003144,auto
 Hichem Andaloussi,P003145,auto
@@ -3432,16 +3438,16 @@ Andre Kamga,P003180,auto
 Andre-Pascal Kengne,P003181,auto
 Marc-André Loko,P003182,auto
 André Mpumba,P003184,auto
-André Mpumba Pedro,P003185,auto
-André Pedro,P003185,auto
+André Mpumba Pedro,P003184,auto
+André Pedro,P003184,auto
 André Pedro Neto,P003186,auto
 André Nkualoloki,P003187,auto
-André Wameso,P003188,auto
 André Wameso Nkualoloki,P003188,auto
-Wameso André,P003188,auto
 Andre Wanes Nkualoloki,P003189,auto
 André Wameso Nkwaluloki,P003190,auto
 André Sévo,P003192,auto
+André Wameso,P003193,auto
+Wameso André,P003193,auto
 Andre Wills,P003194,auto
 Andrea Ariik,P003195,auto
 Andrea Kivi,P003196,auto
@@ -3598,9 +3604,9 @@ Angele Dikongue-Atangana,P003343,auto
 Angele Makombo N'Tumba,P003344,auto
 Angele Makombo N'tumba,P003344,auto
 Angele Makombo N’tumba,P003344,auto
+Marie Angélique Diouf,P003345,auto
 Marie Angélique Mame Selbé DIOUF,P003345,auto
 Marie Angélique Mame Selbé Diouf,P003345,auto
-Marie Angélique Diouf,P003347,auto
 Marie Angélique Ndour,P003348,auto
 Angelique Weeks,P003349,auto
 Angella Jasmine Mbelwa Kairuki,P003350,auto
@@ -3666,6 +3672,7 @@ Evelyn Anite,P003406,auto
 Anitha Ramsuran,P003407,auto
 Morenikeji Aniye,P003408,auto
 Miguel Anjos da Cunha Lisboa Trovoada,P003409,auto
+Miguel Trovoada,P003409,auto
 Samaria dos Anjos Tovela,P003410,auto
 Sylvia Owusu-Ankomah,P003411,auto
 Mary-Ann Etiebet,P003412,auto
@@ -3782,7 +3789,7 @@ Anthony Lenaiyara,P003514,auto
 Anthony Lenayara,P003515,auto
 Anthony Lusambu,P003516,auto
 Anthony Mandiwanza,P003517,auto
-Anthony S Mandiwanza,P003518,auto
+Anthony S Mandiwanza,P003517,auto
 Anthony Masunga,P003519,auto
 Anthony Mburu,P003520,auto
 Anthony Mveyange,P003521,auto
@@ -3816,7 +3823,6 @@ Félix-Antoine TSHISEKEDI TSHILOMBO,P003538,auto
 Félix-Antoine Tshilombo Tshisekedi,P003538,auto
 Félix-Antoine Tshisekedi,P003538,auto
 Félix-Antoine Tshisekedi Tshilombo,P003538,auto
-Félix Tshisekedi,P003539,auto
 Félix-Antoine TSHISEKEDI TSHILOMBO,P003539,auto
 Félix-Antoine Tshisekedi,P003539,auto
 Félix-Antoine Tshisekedi Tshilombo,P003539,auto
@@ -4116,7 +4122,7 @@ Arzouma Daouda Parfait LOURE,P003810,auto
 Arzouma Daouda Parfait Loure,P003810,auto
 Arzouma Daouda Parfait Louré,P003810,auto
 Arzouma Parfait Daouda Louré,P003810,auto
-Arzouma Parfait Louré,P003811,auto
+Arzouma Parfait Louré,P003810,auto
 Asa Regner,P003812,auto
 Asafika Mpako,P003813,auto
 Moses Asaga,P003814,auto
@@ -4193,7 +4199,7 @@ Assa Badiallo TOURÉ,P003883,auto
 Assa Badiallo Touré,P003883,auto
 Assad bin Dyab,P003884,auto
 Eyas Assaf,P003885,auto
-Eyas Naif Assaf,P003886,auto
+Eyas Naif Assaf,P003885,auto
 Nour El-Assal,P003887,auto
 Assali Kais,P003888,auto
 Mohamed Assalia Boncana,P003889,auto
@@ -4647,9 +4653,9 @@ Houda Babaah,P004300,auto
 Babacar Mbengue,P004301,auto
 Babacar Seck,P004302,auto
 Babacar Sembène,P004303,auto
+Ingrid Ebouka-Babackas,P004304,auto
 Ingrid Olga Ghislaine EBOUKA-BABACKAS,P004304,auto
 Ingrid Olga Ghislaine Ebouka-Babackas,P004304,auto
-Ingrid Ebouka-Babackas,P004305,auto
 Babagana Digima,P004306,auto
 Babagana Monguno,P004307,auto
 Houda Babah,P004308,auto
@@ -4745,6 +4751,7 @@ Paul Baffoe-Bonnie,P004393,auto
 Joseph Baffoe,P004394,auto
 Bafokeng Noosi,P004395,auto
 Innocent Bagamba Muhizi,P004396,auto
+Innocent Muhizi,P004396,auto
 Innocent BAGAMBA MUHIZI,P004397,auto
 Innocent Bagamba Muhizi,P004397,auto
 Innocent Muhizi,P004397,auto
@@ -4768,7 +4775,7 @@ Chernoh Bah,P004414,auto
 Chernor Bah,P004415,auto
 Oumar Bah Dembélé,P004416,auto
 Hamat Bah,P004417,auto
-Hamat N.K. Bah,P004418,auto
+Hamat N.K. Bah,P004417,auto
 Ibrahima Bah,P004419,auto
 Njogou L Bah,P004420,auto
 Salima M. Bah,P004421,auto
@@ -4816,9 +4823,9 @@ ERNEST BAI KOROMA,P004461,auto
 Ernest Bai Koroma,P004461,auto
 Ernest Bai Koroma,P004462,auto
 Roc Bai,P004463,auto
+Moses Kwesi Baiden,P004464,auto
 Moses Kwesi Baiden Jnr,P004464,auto
 Moses Kwesi Baiden Jnr.,P004464,auto
-Moses Kwesi Baiden,P004465,auto
 Moses Baiden,P004466,auto
 Baik Ki-hyun,P004467,auto
 Ki-Hyun Baik,P004467,auto
@@ -4962,6 +4969,10 @@ Mamadou BAMBA,P004595,auto
 Mamadou Bamba,P004595,auto
 Mouhamadou Bamba Sy,P004596,auto
 Namahoua BAMBA TOURE,P004597,auto
+Namahoua Toure,P004597,auto
+Namahoua Touré,P004597,auto
+TOURE Namahoua,P004597,auto
+TOURÉ Namahoua,P004597,auto
 Touré Namahoua Bamba,P004597,auto
 Bamba Oliano,P004598,auto
 BAMBA Yacouba,P004600,auto
@@ -5115,9 +5126,9 @@ Sheryl Barra,P004733,auto
 Philippe Barreau,P004734,auto
 Federico Barreras,P004735,auto
 Isaías Barreto da Rosa,P004736,auto
+Barreto da Rosa,P004737,auto
 Isaias Barreto Da Rosa,P004737,auto
 Isaias Barreto da Rosa,P004737,auto
-Barreto da Rosa,P004738,auto
 Paul Barrett,P004739,auto
 Yacine Barro Bourgault,P004740,auto
 Braïma Barro,P004741,auto
@@ -5198,10 +5209,10 @@ Bassirou Diomaye Diakhar Faye,P004809,auto
 Bassirou Diomaye FAYE,P004809,auto
 Bassirou Diomaye Faye,P004809,auto
 Bassirou Diomaye Diakhar Faye,P004810,auto
+Bassirou Diomaye Faye,P004810,auto
 Bassirou Diomaye Diakhar FAYE,P004811,auto
 Bassirou Diomaye Diakhar Faye,P004811,auto
 Bassirou Diomaye Faye,P004811,auto
-Bassirou Diomaye Faye,P004813,auto
 Bassirou Nignan,P004815,auto
 Bassirou Sarr,P004816,auto
 Mohamed Bassit,P004817,auto
@@ -5255,9 +5266,9 @@ Joe Baxter,P004863,auto
 Jonny Baxter,P004864,auto
 Edasso Rodrigue BAYALA,P004865,auto
 Edasso Rodrigue Bayala,P004865,auto
+Rodrigue Bayala,P004865,auto
 Edasso Rodrigue BAYALA,P004866,auto
 Edasso Rodrigue Bayala,P004866,auto
-Rodrigue Bayala,P004867,auto
 BAYALA/ARISTE Laure Leila,P004868,auto
 Bayan Jamali,P004869,auto
 Bayaola Boniface,P004870,auto
@@ -5382,7 +5393,6 @@ Shuaib Belgore,P004975,auto
 Shuaib Belgore,P004976,auto
 Ferid Belhaj,P004977,auto
 Belinda S. Kancheya,P004978,auto
-Belinda Nimako,P004979,auto
 Belio Kipsang,P004980,auto
 Richard Belio Kipsang,P004980,auto
 Taïeb Belkahia,P004982,auto
@@ -5476,7 +5486,7 @@ Benedict Benny Ndomba,P005062,auto
 Benedict Ndomba,P005062,auto
 Benedict Gamedze,P005063,auto
 Benedict Kanu,P005064,auto
-Benedict S. Kanu,P005065,auto
+Benedict S. Kanu,P005064,auto
 Benedict Ndomba,P005066,auto
 Benedict Okey Oramah,P005068,auto
 Benedict Oramah,P005068,auto
@@ -5509,6 +5519,7 @@ Benjamin Choppy,P005094,auto
 Benjamin Deveaux,P005095,auto
 Teresa Eson-Benjamin,P005096,auto
 Theresa Eson-Benjamin,P005097,auto
+SHE ETOUNDI Joseph Guy,P005098,auto
 SHE ETOUNDI Joseph Guy Benjamin,P005098,auto
 Fabian Benjamin,P005099,auto
 Benjamin Hounkpatin,P005100,auto
@@ -5650,6 +5661,7 @@ bertrand mahoukou bitchinda,P005224,auto
 Damien Bertrand,P005225,auto
 Damien Bertrand,P005226,auto
 Steve Bertrand Mboko Ibara,P005227,auto
+Steve Mboko,P005227,auto
 Steve Bertrand Mboko Ibara,P005228,auto
 Jean Bertrand KOLONDO PINGUILET,P005229,auto
 Yves Bertrand Njomgang,P005230,auto
@@ -6000,7 +6012,7 @@ Ousmane Boly Traoré,P005546,auto
 Ousmane Boly Traoré,P005547,auto
 Ousmane Boly Traoré,P005548,auto
 Jorge Bom Jesus,P005549,auto
-Jorge Lopes Bom Jesus,P005550,auto
+Jorge Lopes Bom Jesus,P005549,auto
 Ricco Boma,P005551,auto
 Grace Bomu,P005552,auto
 Bonang Kwape,P005553,auto
@@ -6095,6 +6107,7 @@ Jean Bosco Ndihokubwayo,P005636,auto
 Jean Bosco Sebabi,P005637,auto
 John Bosco Kalisa,P005638,auto
 John Bosco Sebabi,P005639,auto
+John Sebabi,P005639,auto
 John Bosco Sebabi,P005640,auto
 John Bosco Ssentamu,P005641,auto
 Christian Bosembe,P005642,auto
@@ -6635,7 +6648,6 @@ Carlos Delgado,P006136,auto
 Carlos Dinis,P006137,auto
 José Carlos Esteves,P006138,auto
 Carlos Felipe Jaramillo,P006139,auto
-Jorge Carlos Fonseca,P006140,auto
 Hermenegilda Maria Carlos,P006141,auto
 Carlos Kaloto Kanyangi,P006142,auto
 Carlos Manuel Vila Nova,P006143,auto
@@ -6688,8 +6700,8 @@ Carolyn Nguyen,P006188,auto
 Carolyn Turk,P006189,auto
 Carolyne Nombo,P006190,auto
 Darius Douglas Carpenter,P006191,auto
+Douglas Carpenter,P006191,auto
 Douglas Darius Carpenter,P006191,auto
-Douglas Carpenter,P006192,auto
 Elisabeth Carpenter,P006193,auto
 Carpophore NTAGUNGIRA,P006194,auto
 Miguel Carrasco,P006195,auto
@@ -6702,15 +6714,15 @@ Carterpillar Hikuama,P006201,auto
 Charles Cartier,P006202,auto
 Joseph Edouard Charles Cartier,P006202,auto
 Charles Cartier,P006203,auto
-Joseph Edouard Charles Cartier,P006205,auto
+Joseph Edouard Charles Cartier,P006203,auto
 Mohamed Robert Carton,P006206,auto
 Gilberto Correia Carvalho Silva,P006207,auto
 Gilberto Silva,P006207,auto
 Denise Pires de Carvalho,P006208,auto
 Erica de Carvalho,P006209,auto
-Evaristo Carvalho,P006210,auto
 Evaristo de Carvalho,P006210,auto
 Evaristo do Espírito Santo Carvalho,P006211,auto
+Evaristo Carvalho,P006212,auto
 Francisco Carvalho,P006213,auto
 Francisco Carvalho,P006215,auto
 Samuel Carvalho,P006217,auto
@@ -6886,6 +6898,7 @@ Dick Chamla,P006372,auto
 Chamsoudine Soudjay,P006373,auto
 Chamsoudini Mzaouiyani,P006374,auto
 John Chamunorwa Mangwiro,P006375,auto
+John Mangwiro,P006375,auto
 Esther Chan,P006376,auto
 Jenny Chan,P006377,auto
 Wilfred Chan,P006378,auto
@@ -7054,7 +7067,7 @@ Cheick Gadiri Condé,P006535,auto
 Cheick Modibo Diarra,P006536,auto
 Cheick Fantamady Kante,P006537,auto
 Cheick Fantamady Kanté,P006537,auto
-Cheick Kante,P006538,auto
+Cheick Kante,P006537,auto
 Cheick Oumar Maïga,P006539,auto
 Cheick Oumar Sylla,P006540,auto
 Cheick Oumar Traoré,P006541,auto
@@ -7291,7 +7304,6 @@ Chiseshe Ng'oma,P006760,auto
 Jacqueline Saidi Chishimba,P006761,auto
 Julius Chisi,P006762,auto
 Peter Chisi,P006763,auto
-Joaquim Chissano,P006764,auto
 Jaime Roberto Chissico,P006765,auto
 Versper Chisumpa,P006766,auto
 Mbita Chitala,P006767,auto
@@ -7602,7 +7614,6 @@ Clelia Kalliopi Helena Rontoyanni,P007048,auto
 Clément Delangue,P007049,auto
 Kouakou Kouadio Clément,P007050,auto
 Kouakou Clément,P007051,auto
-Clément KOUCHADE,P007052,auto
 Lamoussa Clément Ouango,P007053,auto
 Lamoussa Clément Waongo,P007054,auto
 Clement Madale,P007055,auto
@@ -7894,11 +7905,11 @@ Cyril GOUT,P007318,auto
 Cyril Gout,P007318,auto
 Cyril Grant,P007319,auto
 Matamela Cyril Ramaphosa,P007320,auto
+Cyril Ramaphosa,P007321,auto
 Matamela Cyril Ramaphosa,P007321,auto
 Cyril Ramaphosa,P007322,auto
 Cyril Ramaphosa,P007323,auto
 Cyril Ramaphosa,P007324,auto
-Cyril Ramaphosa,P007325,auto
 Cyril Xaba,P007326,auto
 Cyril Xaba,P007327,auto
 Edou Nsi Cyrille,P007328,auto
@@ -7913,6 +7924,7 @@ Francis Cœur de Lion,P007335,auto
 E D Mnangagwa,P007336,auto
 Emmerson D. Mnangagwa,P007337,auto
 D Nalon Kaine,P007338,auto
+Nalon Kaine,P007338,auto
 D Kibenge,P007339,auto
 Kouyaté Mohamed D.,P007340,auto
 Laté D. LAWSON ZANKLI,P007341,auto
@@ -8085,8 +8097,8 @@ Daniel Sowah Klu,P007499,auto
 Daniel Kulu,P007500,auto
 Daniel Kyabayinze,P007501,auto
 Nangalama Daniel R Makayi,P007502,auto
+Daniel Mwirigi M’Amanja,P007503,auto
 Daniel M’amanja,P007503,auto
-Daniel Mwirigi M’Amanja,P007504,auto
 Daniel Martins,P007505,auto
 Daniel Mekobe Sone,P007506,auto
 Daniel Moi,P007507,auto
@@ -8244,7 +8256,7 @@ Kudakwashe David Mnangagwa,P007652,auto
 David Makhura,P007653,auto
 David Malpass,P007654,auto
 David Mansaray,P007655,auto
-David Samba Mansaray,P007656,auto
+David Samba Mansaray,P007655,auto
 David Maraga,P007657,auto
 David Masondo,P007658,auto
 David Moinina Sengeh,P007661,auto
@@ -8253,7 +8265,7 @@ David Morley,P007663,auto
 DAVID MUGONYI,P007664,auto
 David Mugonyi,P007664,auto
 David Muhoozi,P007665,auto
-David Rubakuba Muhoozi,P007666,auto
+David Rubakuba Muhoozi,P007665,auto
 David Murimi,P007667,auto
 David Tshilumba Mutombo,P007668,auto
 David Mwesigwa,P007669,auto
@@ -8299,6 +8311,7 @@ Serge Oumar Davy DIAWARA,P007709,auto
 Davy Herman MALANDA,P007710,auto
 Davy-Tanguy KOUBAH,P007711,auto
 Issa DAW,P007712,auto
+Ilyas Moussa,P007713,auto
 Ilyas Moussa Dawaleh,P007713,auto
 Gabnon Dawi,P007714,auto
 Dawie de Wet,P007715,auto
@@ -8372,18 +8385,18 @@ Julius Debrah,P007778,auto
 Debretsion Gebremichael,P007779,auto
 Debretsion Gebremichael,P007780,auto
 Idriss Deby,P007781,auto
-Idriss Deby Itno,P007781,auto
 Idriss Déby,P007781,auto
-Idriss Déby Itno,P007781,auto
-MAHAMAT IDRISS DEBY ITNO,P007781,auto
-Mahamat Déby,P007781,auto
-Mahamat Idriss Deby,P007781,auto
-Mahamat Idriss Deby Itno,P007781,auto
-Mahamat Idriss Déby,P007781,auto
-Mahamat Idriss Déby Itno,P007781,auto
+Idriss Deby Itno,P007782,auto
+Idriss Déby Itno,P007782,auto
+MAHAMAT IDRISS DEBY ITNO,P007782,auto
+Mahamat Idriss Deby,P007782,auto
+Mahamat Idriss Deby Itno,P007782,auto
+Mahamat Idriss Déby,P007782,auto
+Mahamat Idriss Déby Itno,P007782,auto
 Mahamat Idriss Déby Itno,P007784,auto
 MAHAMAT IDRISS DEBY ITNO,P007785,auto
 Mahamat Idriss Deby Itno,P007785,auto
+Mahamat Déby,P007787,auto
 December Mavimbela,P007788,auto
 Nigussie Dechasa,P007789,auto
 Decontee King-Sackie,P007790,auto
@@ -8784,6 +8797,7 @@ Dina Ringold,P008136,auto
 Dina Shalaby,P008137,auto
 Dinah Marathe,P008138,auto
 Raïssa MALU DINANGA,P008139,auto
+Raïssa Malu,P008139,auto
 Raïssa Malu Dinanga,P008139,auto
 Dinao Lerutla,P008140,auto
 Dinara Djoldosheva,P008141,auto
@@ -8927,8 +8941,8 @@ Mamoudou Harouna Djingarey,P008261,auto
 Djininboh Gabriel,P008262,auto
 Moustapha DJITTÉ,P008263,auto
 Soumaila Djittèye,P008264,auto
+Joseph Djogbénou,P008265,auto
 Joseph Fifamin Djogbénou,P008265,auto
-Joseph Djogbénou,P008266,auto
 Joseph DJOGBENOU,P008267,auto
 Jacques Djoli,P008268,auto
 Michel Djotodia,P008269,auto
@@ -9300,6 +9314,7 @@ Ebanehita Omonzane,P008609,auto
 Ebee Molina,P008610,auto
 Morris Ebeiroma,P008611,auto
 Goodluck Ebele Jonathan,P008612,auto
+Goodluck Jonathan,P008612,auto
 Ebele Okobi,P008613,auto
 Ebelechukwu Nwachukwu,P008614,auto
 Efe Ebelo,P008615,auto
@@ -9461,8 +9476,8 @@ Ttark Egenhoff,P008762,auto
 Egerton Idehen,P008763,auto
 Jane Egerton-Idehen,P008764,auto
 Jane Nkechi Egerton-Idehen,P008764,auto
+Nkechi Egerton-Idehen,P008764,auto
 Nkechi Jane Egerton-Idehen,P008764,auto
-Nkechi Egerton-Idehen,P008766,auto
 Kenneth Egesa,P008767,auto
 Eghosa Omoigui,P008768,auto
 Eghosa Osaghae,P008769,auto
@@ -9722,6 +9737,7 @@ Patrice Émery Trovoada,P009011,auto
 Sean Emery,P009012,auto
 Joseph Emeshili,P009013,auto
 Ikechukwu Emetu,P009014,auto
+Grâce Kutino,P009015,auto
 Grâce Émie Kutino,P009015,auto
 Emilar Gandhi,P009016,auto
 Emile Ferreira,P009017,auto
@@ -9902,6 +9918,7 @@ Ernest Karasira,P009181,auto
 KARASIRA Ernest,P009181,auto
 Ernest Zafivanona Lainkana,P009182,auto
 Lainkana Zafivanona Ernest,P009182,auto
+Zafivanona Lainkana,P009182,auto
 Ernest Magadzire,P009183,auto
 Ernest Mbaimba Ndomahina,P009184,auto
 Ernest Mkhonta,P009185,auto
@@ -9916,6 +9933,7 @@ Ernest Yeboah,P009193,auto
 Ernesto Fernández Polcuch,P009194,auto
 Ernesto Gove,P009195,auto
 Ernesto Max Tonela,P009196,auto
+Max Tonela,P009196,auto
 Ernesto Nhanala,P009197,auto
 Ernesto Nhanale,P009198,auto
 Erol Özvar,P009199,auto
@@ -10008,7 +10026,6 @@ Etleva Kadilli,P009278,auto
 Juliette WEISFLOG née ETOMO NGUEMA,P009279,auto
 Zéphirine Etotowa Ntutume,P009280,auto
 Rémy Magloire Etoua,P009281,auto
-SHE ETOUNDI Joseph Guy,P009282,auto
 Laurent Serge ETOUNDI NGOA,P009283,auto
 Laurent Serge Etoundi Ngoa,P009283,auto
 Laurent Serge Etoundi Ngoa,P009284,auto
@@ -10420,6 +10437,7 @@ Felix TSHISEKEDI,P009662,auto
 Felix Tshisekedi,P009662,auto
 Fèlix Tshisekedi,P009662,auto
 Félix Tshisekedi,P009662,auto
+Félix Tshisekedi,P009663,auto
 Felix Washon,P009664,auto
 Folasade Femi-Lawal,P009665,auto
 Femi Gbajabiamila,P009666,auto
@@ -10573,6 +10591,7 @@ Fodié Salim Traoré,P009811,auto
 Hippolyte Fofack,P009812,auto
 Ibrahim Fofana,P009813,auto
 Ibrahima Kassory Fofana,P009814,auto
+Ibrahima Kassory,P009815,auto
 Ibrahima Kassory Fofana,P009815,auto
 Kassory Fofana,P009815,auto
 Mamadou Lamine Fofana,P009817,auto
@@ -10847,6 +10866,7 @@ Gabriel MBairobe,P010070,auto
 Gabriel Mbairobe,P010071,auto
 Gabriel Montgomery,P010072,auto
 Robert Gabriel Mugabe,P010073,auto
+Robert Mugabe,P010073,auto
 N'zi Yan-Gabriel,P010074,auto
 Yann-Gabriel N'Zi,P010075,auto
 Yann-Gabriel N'Zi,P010076,auto
@@ -11059,6 +11079,7 @@ Geoffrey Kiryabwire,P010265,auto
 Mvuleni Geoffrey Qhena,P010266,auto
 Geoffrey Njuguna,P010267,auto
 Uche Geoffrey Nnaji,P010268,auto
+Uche Nnaji,P010268,auto
 Geoffrey Omwenga,P010269,auto
 Geoffrey Seleka,P010270,auto
 Touroumbaye Geoffroy,P010271,auto
@@ -11391,7 +11412,6 @@ Respect Gono,P010582,auto
 Pélagie Gonto,P010583,auto
 Gürbüz Gönül,P010584,auto
 Ophaniel Gooding,P010585,auto
-Goodluck Jonathan,P010586,auto
 Ryan Goodnight,P010587,auto
 Ryan Goodnight,P010588,auto
 Goodson Kamanga,P010589,auto
@@ -11451,7 +11471,6 @@ Grace Ingabire,P010637,auto
 Grace Jackson,P010638,auto
 Grace Jerolgan,P010639,auto
 Grace Kashima,P010640,auto
-Grâce Kutino,P010641,auto
 Grace Kyokunda,P010642,auto
 Marie Grace NISHIMWE,P010643,auto
 Marie Grace Nishimwe,P010643,auto
@@ -11534,7 +11553,6 @@ Manuel Guilherme Júnior,P010713,auto
 Sónia Guilherme,P010714,auto
 Guillaume Hawing,P010715,auto
 Guillaume HUSSON,P010716,auto
-Guillaume Ngefa,P010717,auto
 Ibahim Guimba Saïdou,P010718,auto
 Ibrahima Guimba Saidou,P010719,auto
 Ibrahima Guimba-Saïdou,P010720,auto
@@ -11714,6 +11732,7 @@ Hamid Keniso,P010889,auto
 Tahir Hamid Nguilin,P010890,auto
 TAHIR HAMID NGUILIN,P010891,auto
 Tahir Hamid Nguilin,P010891,auto
+Tahir Nguilin,P010891,auto
 Tahir Hamid Nguilin,P010892,auto
 Tigist Hamid,P010893,auto
 Hamida Kibwana,P010894,auto
@@ -11839,6 +11858,7 @@ Tarig Hassan Hashim Osman,P011012,auto
 Hashmin Mohammed,P011013,auto
 Rindra Hasimbelo RABARINIRINARISON,P011014,auto
 Rindra Hasimbelo Rabarinirinarison,P011014,auto
+Rindra Rabarinirinarison,P011014,auto
 Rajeev Hasnah,P011015,auto
 Hasnain Motlekar,P011016,auto
 Raza Hasnani,P011017,auto
@@ -12005,7 +12025,7 @@ Henry Sukati,P011175,auto
 Henry Tanui,P011176,auto
 Henry Wazne,P011177,auto
 Jesko Hentschel,P011178,auto
-Jesko S. Hentschel,P011179,auto
+Jesko S. Hentschel,P011178,auto
 Heo Jang,P011180,auto
 Michel Herbert,P011181,auto
 Herbert Njonga,P011182,auto
@@ -12261,9 +12281,9 @@ Leon Juste Ibombo,P011424,auto
 Léon Juste IBOMBO,P011424,auto
 Léon Juste Ibombo,P011424,auto
 Léon-Juste Ibombo,P011424,auto
+Léon Ibombo,P011425,auto
 Léon Juste IBOMBO,P011425,auto
 Léon Juste Ibombo,P011425,auto
-Léon Ibombo,P011426,auto
 Ibrahim Jaber Ibrahim,P011427,auto
 Ibrahim Ida,P011428,auto
 Ibrahim Iheddadene,P011429,auto
@@ -12334,7 +12354,6 @@ Ibrahim UCIRCAN,P011481,auto
 Yahaya Ibrahim,P011482,auto
 Ibrahima Sory II Tounkara,P011483,auto
 Ibrahima Kalil Kaba,P011484,auto
-Ibrahima Kassory,P011485,auto
 Ibrahima Mendy,P011486,auto
 Ibrahima NIANE,P011487,auto
 Ibrahima Sanon,P011488,auto
@@ -12440,7 +12459,6 @@ Pamela Ilunga,P011579,auto
 Ilvécio Ramos,P011581,auto
 Ilvécio Ramos,P011582,auto
 Ilya Markelov,P011583,auto
-Ilyas Moussa,P011584,auto
 Ilyass Sina,P011585,auto
 Imad Trabelsi,P011586,auto
 Mohamed Lemine Ould Imam,P011587,auto
@@ -12478,7 +12496,6 @@ Rory Innes,P011617,auto
 Innocent Itsukwi,P011618,auto
 Innocent Mabusela,P011619,auto
 Innocent Mandona,P011620,auto
-Innocent Muhizi,P011621,auto
 Innocent Mutimura,P011623,auto
 Innocent Nebi,P011624,auto
 Innocent Nzeimana,P011625,auto
@@ -12524,7 +12541,6 @@ Timothy James Irwin,P011658,auto
 Joyce Wema Isa-Molwane,P011659,auto
 Nasir Isa Kwarra,P011660,auto
 Nasir Kwarra,P011660,auto
-Isa Pantami,P011661,auto
 Isa Sekitto,P011662,auto
 Isaac Jomo,P011663,auto
 Isaac Jomo Osman,P011664,auto
@@ -12585,6 +12601,7 @@ Ismaël Nabe,P011715,auto
 Ismaël Nabé,P011715,auto
 Ismael Nabe,P011716,auto
 Ismaël NABE,P011716,auto
+Moustapha Mohamed,P011717,auto
 Moustapha Mohamed Ismail,P011717,auto
 Mohamed Ismail Nour,P011718,auto
 Ismail Momoniat,P011719,auto
@@ -12822,9 +12839,9 @@ Zeca Jandi,P011943,auto
 Jane Rotich,P011944,auto
 Jane Simelane,P011945,auto
 Janet Kataaha Museveni,P011946,auto
+Janet Museveni,P011946,auto
 Janet Makgolo,P011947,auto
 Janet Michael,P011948,auto
-Janet Museveni,P011949,auto
 Janet Ramatoulie Sallah-Njie,P011950,auto
 Janet Wijngaard,P011951,auto
 Janeth-Kareen Kilonzo,P011952,auto
@@ -12997,8 +13014,8 @@ Jerry Mobbs,P012110,auto
 Jerry Oche,P012111,auto
 Jerry Sheehan,P012112,auto
 Jerry Silaa,P012113,auto
+Jerry William Silaa,P012113,auto
 Jerry Silaa,P012114,auto
-Jerry William Silaa,P012115,auto
 Jerry Wang,P012116,auto
 Jesse Mason,P012117,auto
 Jesse Moore,P012118,auto
@@ -13122,7 +13139,6 @@ John Lokwawi,P012235,auto
 John Mafararika,P012236,auto
 John Magufuli,P012237,auto
 John Mangudya,P012241,auto
-John Mangwiro,P012242,auto
 John Maphephe,P012243,auto
 John Maphephe,P012244,auto
 John Mathwasa,P012245,auto
@@ -13169,7 +13185,6 @@ RWANGOMBWA John,P012278,auto
 John Rwirahira,P012279,auto
 John Sausi,P012280,auto
 John Sausi,P012281,auto
-John Sebabi,P012282,auto
 John Sinyangwe,P012283,auto
 John Steenhuisen,P012284,auto
 John Steytler,P012285,auto
@@ -13409,8 +13424,8 @@ Judith Kapinga,P012501,auto
 Judith Kilobi,P012502,auto
 Judith Mbabazi,P012503,auto
 Judith Nabakooba,P012504,auto
+Nabakooba Nalule Judith,P012504,auto
 Judith Nabakooba,P012505,auto
-Nabakooba Nalule Judith,P012506,auto
 Judith Nguimfack,P012507,auto
 Judith Rodin,P012508,auto
 Judith Santbergen,P012509,auto
@@ -13642,7 +13657,6 @@ Ramadhan Kailima,P012719,auto
 Ramadhani Kailima,P012720,auto
 Ruth Kaima,P012721,auto
 Sylvester Kainda,P012722,auto
-Nalon Kaine,P012723,auto
 Muhoozi Kainerugaba,P012724,auto
 Mercy Kainobwisho,P012725,auto
 KAIRE MBUENDE,P012726,auto
@@ -13729,8 +13743,8 @@ Madalitso Kambauwa Wirima,P012803,auto
 Madalitso Kambauwa-Wirima,P012803,auto
 Zenaune Kamberipa,P012804,auto
 Mawano Kambeu,P012805,auto
+Nomvula Kambinda,P012807,auto
 Nomvula Kondombolo-Kambinda,P012807,auto
-Nomvula Kambinda,P012808,auto
 Martins Kambulu,P012809,auto
 Kamel Maddouri,P012810,auto
 Mahmoud Kamel,P012811,auto
@@ -14010,7 +14024,7 @@ Kebede Lidetu Shai,P013072,auto
 Mogomotsi Kebitseng,P013073,auto
 Kebzabo Nadjma,P013074,auto
 Nadjma Kebzabo,P013074,auto
-Nadjma Saleh Kebzabo,P013075,auto
+Nadjma Saleh Kebzabo,P013074,auto
 Saleh Kebzabo,P013076,auto
 Saleh Kebzabo,P013077,auto
 Kedilatile Legodi,P013078,auto
@@ -14532,6 +14546,7 @@ Luke Kyohere,P013571,auto
 Park Kyongsig,P013572,auto
 L Mseme,P013573,auto
 Mwigulu L. Nchemba,P013574,auto
+Mwigulu Nchemba,P013574,auto
 L. PENTIAH,P013575,auto
 Rolanda L. van Wyk,P013576,auto
 L Stuurman,P013577,auto
@@ -14563,7 +14578,6 @@ Laïcka Mba,P013602,auto
 Laïka Mba,P013603,auto
 Laïka Mba,P013604,auto
 Lisa Laini Nasibu,P013605,auto
-Zafivanona Lainkana,P013606,auto
 Laisse Mucavele,P013607,auto
 Lakoun OUATTARA,P013608,auto
 Lakoun Ouattara,P013608,auto
@@ -15295,7 +15309,6 @@ Talba Malla,P014313,auto
 Nitya Malladi,P014314,auto
 Meshack Malo,P014315,auto
 Molatelo Maloka,P014316,auto
-Raïssa Malu,P014317,auto
 Raïssa Malu,P014318,auto
 Raïssa Malu,P014319,auto
 Mikateko Maluleke,P014320,auto
@@ -15549,7 +15562,7 @@ Martinus P. Seboni,P014555,auto
 Tshilidzi Marwala,P014557,auto
 Mary Mpanga,P014558,auto
 Mary Mungai,P014559,auto
-Mary Wambui Mungai,P014560,auto
+Mary Wambui Mungai,P014559,auto
 Mary Muthoni,P014561,auto
 Mary Porter Peschka,P014562,auto
 Mary Wambui,P014563,auto
@@ -15738,7 +15751,6 @@ Max Schrems,P014730,auto
 Sheena Max,P014731,auto
 Max SICARI,P014732,auto
 Max Sicari,P014732,auto
-Max Tonela,P014733,auto
 Maxence Melo,P014734,auto
 Maxime Ngoe,P014735,auto
 Maxime Prévot,P014736,auto
@@ -15793,8 +15805,8 @@ Veli Mbele,P014782,auto
 Mbengie Peter,P014783,auto
 Nathalie MBENOUN,P014784,auto
 Philomena Mbete Mwilu,P014785,auto
+Philomena Mwilu,P014785,auto
 Mbeuta Ua-Ndjarakana,P014786,auto
-Steve Mboko,P014787,auto
 Yvan N'na Mboma,P014788,auto
 Tabitha Mbome,P014789,auto
 Mbonera Théophile,P014790,auto
@@ -15987,7 +15999,6 @@ Michele Titton,P014965,auto
 Michelle Small,P014966,auto
 Mick Silke,P014967,auto
 Miguel Monteiro,P014968,auto
-Miguel Trovoada,P014969,auto
 Phyllis Migwi,P014970,auto
 Tewodros Mihret,P014971,auto
 Zakari Mijinyawa,P014972,auto
@@ -16136,7 +16147,6 @@ Mohamadou Saoudi,P015110,auto
 Mohamed Mohamud Olow,P015111,auto
 Mohamed Moncer,P015112,auto
 Mohamed Morsi,P015113,auto
-Moustapha Mohamed,P015114,auto
 Mohamed MubashirMassaquoi,P015115,auto
 Mohamed Nafia,P015116,auto
 Mohamed Nasr,P015117,auto
@@ -16439,7 +16449,6 @@ MUDOGO VIRIMA,P015409,auto
 Mudrik Ramadhan Soraga,P015410,auto
 Mudrik Ramadhani Soraga,P015411,auto
 Mufaro Nesongano,P015412,auto
-Robert Mugabe,P015414,auto
 Mugabe Robert,P015415,auto
 Nasra Mugheiry,P015416,auto
 Patrick Mugisha,P015417,auto
@@ -16617,9 +16626,7 @@ Stephen Mwaura Nduati,P015584,auto
 Racheal Mwaura,P015585,auto
 Stella Mwaura,P015586,auto
 Willard Mwemba,P015587,auto
-Mwigulu Nchemba,P015590,auto
 Mwigulu Nchemba,P015591,auto
-Philomena Mwilu,P015592,auto
 Mwindwa Siakalima,P015593,auto
 Stanslaus Mwita,P015594,auto
 Yule Mwiwa,P015595,auto
@@ -16692,10 +16699,6 @@ Shebo Nalishebo,P015660,auto
 Stefan Nalletamby,P015661,auto
 Sarah Naluutu,P015662,auto
 Veronica Namagembe,P015663,auto
-Namahoua Toure,P015664,auto
-Namahoua Touré,P015664,auto
-TOURE Namahoua,P015664,auto
-TOURÉ Namahoua,P015664,auto
 Shadreck Namalomba,P015665,auto
 Shadric Namalomba,P015666,auto
 Shadrick Namalomba,P015667,auto
@@ -16896,7 +16899,6 @@ Salomón Nguema Owono,P015851,auto
 Pedro Nguema,P015852,auto
 Sylvie Nguembhyt,P015853,auto
 Ngueto Tiraïna Yambaye,P015855,auto
-Tahir Nguilin,P015856,auto
 Unathi Ngumla,P015857,auto
 Vincent Ngundi,P015858,auto
 Vincent Ngundi,P015859,auto
@@ -17002,7 +17004,6 @@ Nkurunziza Triphonie,P015953,auto
 Stanley Nkwoka,P015954,auto
 William Nlembe,P015955,auto
 Raphaël Nlend,P015956,auto
-Uche Nnaji,P015957,auto
 Nnena Ukoha,P015958,auto
 Nnenna NWABUFO,P015959,auto
 Nnenna Nwabufo,P015959,auto
@@ -17012,9 +17013,9 @@ Ryan Noach,P015962,auto
 Noah Salakae,P015963,auto
 Noala Skinner,P015964,auto
 NOELSON William,P015966,auto
+Nokuzola Tolashe,P015967,auto
 Sisisi Nokuzola Tolashe,P015967,auto
 Sisisi Tolashe,P015967,auto
-Nokuzola Tolashe,P015968,auto
 Patrick Nomo,P015969,auto
 Nomzamo Zondi,P015970,auto
 Nongobzanga Zongo,P015971,auto
@@ -17550,7 +17551,6 @@ Séverin Quenum,P016487,auto
 Wilfried Quenum,P016488,auto
 Robert R. Taliercio,P016489,auto
 R. Woochit,P016490,auto
-Rindra Rabarinirinarison,P016491,auto
 Thierry Rabenandrasana,P016492,auto
 Thierry Rabenandrasana,P016493,auto
 Rabiu Samaila,P016494,auto
@@ -17731,11 +17731,11 @@ Ruth Zaipuna,P016668,auto
 William Samoei Ruto,P016669,auto
 William Ruto,P016670,auto
 William Samoei Ruto,P016670,auto
+William Ruto,P016671,auto
 William Samoei Ruto,P016671,auto
 William Samoei Ruto,P016672,auto
 William Ruto,P016673,auto
 William Ruto,P016675,auto
-William Ruto,P016676,auto
 William Ruto,P016677,auto
 Samuel Ruugia,P016678,auto
 Ruusa Shipiki,P016679,auto

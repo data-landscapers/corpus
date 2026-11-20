@@ -183,7 +183,7 @@ def join_contained(groups, gid, uf, place_of) -> int:
     for (k, org), fs in groups.items():
         order = [t for t in (re.sub(r"[^\w]", "", t) for t in tokens(published(fs[0]["row"]["name_as_written"]))) if t]
         by_org[org].append(((k, org), set(k.split()), order,
-                            {position_key(f["row"]["position"]) for f in fs},
+                            {k for f in fs for k in (W.title_parts(f["row"]["position"]) or {position_key(f["row"]["position"])})},
                             place_of.get(fs[0]["slug"], "")))
     joined = 0
     for org, gs in by_org.items():

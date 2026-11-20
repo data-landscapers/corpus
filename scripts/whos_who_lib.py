@@ -295,3 +295,106 @@ def write_csv(path: Path, cols: list[str], rows: list[dict]) -> None:
         w = csv.DictWriter(fh, fieldnames=cols, lineterminator="\n")
         w.writeheader()
         w.writerows(rows)
+
+
+# --- One title however written (Bill, 2026-11-20) -------------------------------------
+# `documentation/whos-who.md` §15. Two written positions of one person at one organisation
+# in one year are one title when any of their parts match after four folds: case, accents
+# and punctuation; language and abbreviation, through `lookups/position-glossary.csv`;
+# words that only repeat the organisation, its initials or a country; and word order.
+# *Secrétaire général* is *Secretary-General*; *ministre des Finances* at the Ministry of
+# Finance is *Minister*; *Director General and CEO* is both *DG* and *CEO*. A rank word
+# survives every fold, so *Deputy Governor* is never *Governor*, nor *Director* *Director
+# General*.
+GLOSSARY = ROOT / "lookups" / "position-glossary.csv"
+GLOSSARY_COLS = ["term", "english", "language"]
+TITLE_STOP = {"of", "the", "for", "in", "to", "at", "on", "de", "la", "le", "les", "l", "du",
+              "des", "d", "da", "do", "das", "dos", "del", "el", "a", "au", "aux", "en", "em",
+              "charge", "chargee", "chargé", "republic", "honourable", "honorable", "hon", "his",
+              "her", "excellency", "he", "group", "na", "no", "central"}
+_PUNCT = re.compile(r"[,;/&]")
+_AND = re.compile(r"\b(?:and|et|e|y)\b")
+# Words of the roles list that name a setting rather than a rank: *member of the board*
+# holds *board*, which must still fold away at the Board of Directors.
+SETTING = {"board", "council", "bureau", "state", "parliament", "country", "regional",
+           "national", "resident", "government"}
+
+
+def _clean(s: str) -> str:
+    s = re.sub(r"\([^)]*\)", " ", fold(s))
+    return " ".join(re.sub(r"[^\w]+", " ", re.sub(r"[-‐‑‒–—']", " ", s)).split())
+
+
+def _glossary():
+    rows = read_csv(GLOSSARY, GLOSSARY_COLS)
+    terms = sorted({_clean(r["term"]): (_clean(r["english"]), r["language"]) for r in rows}.items(),
+                   key=lambda kv: -len(kv[0]))
+    pat = re.compile(r"\b(?:" + "|".join(re.escape(t) for t, _ in terms) + r")\b")
+    foreign = re.compile(r"\b(?:" + "|".join(re.escape(t) for t, (e, lang) in terms
+                                             if lang != "en" and t != e) + r")\b")
+    return pat, dict(terms), foreign
+
+
+_GLOSS = None
+
+
+def _english(s: str) -> str:
+    global _GLOSS
+    _GLOSS = _GLOSS or _glossary()
+    pat, terms, _ = _GLOSS
+    return pat.sub(lambda m: terms[m.group(0)][0], _clean(s))
+
+
+def is_english(position: str) -> bool:
+    """No word the glossary names as French, Portuguese or Spanish."""
+    global _GLOSS
+    _GLOSS = _GLOSS or _glossary()
+    return not _GLOSS[2].search(_clean(position))
+
+
+def _roles() -> set[str]:
+    with open(ROOT / "lookups" / "whos-who-roles.csv", encoding="utf-8", newline="") as fh:
+        return {w for r in csv.DictReader(fh) for w in _english(r["word"]).split()} - TITLE_STOP - SETTING
+
+
+_ROLES = None
+
+
+def org_words(organisation: str) -> set[str]:
+    """What a position may repeat of its organisation: its words in English, its initials,
+    and every country name."""
+    words = [w for w in _english(organisation).split() if w not in TITLE_STOP]
+    raw = [w for w in _clean(organisation).split() if w not in TITLE_STOP]
+    return set(words) | set(raw) | {"".join(w[0] for w in words), "".join(w[0] for w in raw)}
+
+
+def title_parts(position: str, organisation: str = "", owords: set[str] | None = None) -> frozenset:
+    """The titles a written position holds, each as a sorted word string. Empty only for a
+    position that is nothing but its organisation's name."""
+    global _ROLES
+    _ROLES = _ROLES or _roles()
+    owords = org_words(organisation) if owords is None else owords
+    former = "former" in re.sub(r"[^\w]+", " ", fold(position)).split()
+    parts, cur = [], []
+    chunks = [c for piece in _PUNCT.split(re.sub(r"\([^)]*\)", " ", fold(position)))
+              for c in _AND.split(_english(piece))]
+    for chunk in chunks:
+        ws = chunk.split()
+        if not ws:
+            continue
+        if cur and not (set(ws) & _ROLES):
+            cur += ws                      # "ministre de l'Economie et des Finances": a portfolio,
+            continue                       # not a second title
+        if cur:
+            parts.append(cur)
+        cur = ws
+    if cur:
+        parts.append(cur)
+    out = set()
+    for ws in parts:
+        keep = [w for w in ws if w in _ROLES or (
+            w not in TITLE_STOP and w not in owords and w not in CTOK
+            and w[:-1] not in CTOK and w[:-2] not in CTOK and w != "former")]
+        if keep:
+            out.add(" ".join(sorted(set(keep))) + (" ~former" if former else ""))
+    return frozenset(out)
