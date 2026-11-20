@@ -372,7 +372,7 @@ ange-tchad,ange-tchad,Agence Nationale de Gestion des Élections,TCD,other,auto
 angola-cables,angola-cables,Angola Cables,AGO,other,auto
 angola-ministry-of-interior,angola-ministry-of-interior,"Ministry of Interior, Angola",AGO,government,auto
 angola-ministry-of-telecommunications,angola-ministry-of-telecommunications,"Ministry of Telecommunications, Information Technologies and Social Communication, Angola",AGO,government,auto
-angola-ministry-of-telecommunications-minttics,angola-ministry-of-telecommunications-minttics,"Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social, Angola",AGO,government,auto
+angola-ministry-of-telecommunications-minttics,ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola,"Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social, Angola",AGO,government,hand
 angola-telecom,angola-telecom,Angola Telecom,AGO,other,auto
 anicns,anicns,ANICNS,COD,other,auto
 anict-mali,anict-mali,ANICT,MLI,other,auto
@@ -796,6 +796,7 @@ bucrep-cameroon,bucrep-cameroon,BUCREP,CMR,other,auto
 budget-office-of-the-federation-nigeria,budget-office-of-the-federation-nigeria,Budget Office of the Federation,NGA,other,auto
 bugwe-kingdom,bugwe-kingdom,Bugwe Kingdom,UGA,other,auto
 built-financial-technologies,built-financial-technologies,Built Financial Technologies,GHA,other,auto
+bujahub,bujahub,BujaHub,BDI,other,auto
 bujeti,bujeti,Bujeti,NGA,other,auto
 bundeskartellamt,bundeskartellamt,Bundeskartellamt,,other,auto
 bunec,bunec,BUNEC,CMR,other,auto
@@ -873,6 +874,7 @@ capgemini,capgemini,Capgemini,MAR,other,auto
 capgemini-morocco,capgemini-morocco,Capgemini,MAR,other,auto
 capital-markets-and-securities-authority-tanzania,capital-markets-and-securities-authority-tanzania,Capital Markets and Securities Authority,TZA,other,auto
 capital-pay,capital-pay,Capital Pay,SSD,other,auto
+capitec,capitec,Capitec,ZAF,other,auto
 capmas-egypt,capmas-egypt,CAPMAS,EGY,other,auto
 cardinalstone,cardinalstone,CardinalStone Finance,NGA,other,auto
 care,care,GPE and CARE,SOM,other,auto
@@ -1219,6 +1221,7 @@ comores-telecom,comores-telecom,Comores Telecom,COM,other,auto
 competition-and-consumer-authority-botswana,competition-and-consumer-authority-botswana,Competition and Consumer Authority,BWA,other,auto
 competition-and-consumer-protection-commission-gambia,competition-and-consumer-protection-commission-gambia,Gambia Competition and Consumer Protection Commission,GMB,other,auto
 competition-and-consumer-protection-commission-zambia,competition-and-consumer-protection-commission-zambia,Competition and Consumer Protection Commission,ZMB,other,auto
+competition-commission-south-africa,competition-commission-south-africa,Competition Commission South Africa,ZAF,other,auto
 complete-farmer,complete-farmer,Complete Farmer,GHA,other,auto
 computer-business-solutions,computer-business-solutions,Computer Business Solutions,LSO,other,auto
 computer-society-of-zimbabwe,computer-society-of-zimbabwe,Computer Society of Zimbabwe,ZWE,other,auto
@@ -1231,7 +1234,7 @@ concentrix,concentrix,Concentrix,EGY,other,auto
 condor-electronics,condor-electronics,Condor Electronics,DZA,other,auto
 conex-energy-corp,conex-energy-corp,Conex Energy,SSD,other,auto
 congo-droit-et-justice-pour-tous,congo-droit-et-justice-pour-tous,Congo Droit et Justice pour Tous et par Tous (CDJT),COG,other,auto
-congo-ministry-of-interior-and-decentralisation,congo-ministry-of-interior-and-decentralisation,"Ministère de l'Intérieur et de la Décentralisation, Congo",COG,government,auto
+congo-ministry-of-interior-and-decentralisation,ministere-interieur-decentralisation-congo,"Ministère de l'Intérieur et de la Décentralisation, Congo",COG,government,hand
 congo-telecom,congo-telecom,Congo Telecom,COG,other,auto
 congo-town-township,congo-town-township,Congo Town Township,COG,other,auto
 congolese-national-police,congolese-national-police,Congolese National Police,COD,other,auto
@@ -1297,6 +1300,7 @@ cosase-uganda,cosase-uganda,COSASE,UGA,other,auto
 cosi-benin,cosi-benin,COSI-Benin,BEN,other,auto
 costech-tanzania,costech-tanzania,COSTECH,TZA,other,auto
 cotix-benin,cotix-benin,COTIX,BEN,other,auto
+council-of-europe,council-of-europe,Council of Europe,STP,other,auto
 council-of-governors-kenya,council-of-governors-kenya,Council of Governors,KEN,other,auto
 council-of-higher-education-turkiye,council-of-higher-education-turkiye,Zimbabwe Council for Higher Education,SDN,other,auto
 council-of-legal-education-kenya,council-of-legal-education-kenya,Council of Legal Education,KEN,other,auto
@@ -1801,6 +1805,7 @@ emfuleni-local-municipality,emfuleni-local-municipality,Emfuleni Local Municipal
 emirates-airline,emirates-airline,Emirates,SYC,other,auto
 emis,emis,EMIS,AGO,other,auto
 emis-angola,emis-angola,CIS da EMIS,AGO,other,auto
+emptech,emptech,EMPTECH,TZA,other,auto
 emtel,emtel,Emtel,MUS,other,auto
 ena-algeria,ena-algeria,ENA,DZA,other,auto
 ena-burundi,ena-burundi,ENA du Burundi,BDI,other,auto
@@ -2172,6 +2177,7 @@ general-authority-for-government-services-egypt,general-authority-for-government
 general-dynamics-information-technology,general-dynamics-information-technology,General Dynamics Information Technology,XAF,other,auto
 general-transport-union-gambia,general-transport-union-gambia,General Transport Union,GMB,other,auto
 general-womens-union-uae,general-womens-union-uae,General Women’s Union,ARE,other,auto
+generation-ghana,generation-ghana,Generation Ghana,GHA,other,auto
 genesis-analytics,genesis-analytics,Genesis Analytics,ZAF,other,auto
 genew-technologies,genew-technologies,Genew Technologies,COD,other,auto
 genkey,genkey,GenKey,COM,other,auto
@@ -2507,6 +2513,7 @@ ict-authority-mauritius,ict-authority-mauritius,ICT Authority,MUS,other,auto
 ict-commission-tanzania,ict-commission-tanzania,ICT Commission Tanzania,TZA,other,auto
 icta-mauritius,icta-mauritius,Information and Communication Technologies Authority,MUS,other,auto
 ictam,ictam,ICTAM,MWI,other,auto
+ictaz,ictaz,Information Communication Technology Association of Zambia,ZMB,other,auto
 id30,id30,ID30,XAF,other,auto
 id4africa,id4africa,ID4Africa,BEN,other,auto
 id4d,id4d,ID4D and G2Px,XGL,other,auto
@@ -2959,7 +2966,7 @@ kora,kora,Kora For Africa,NGA,other,auto
 korea-customs-service,korea-customs-service,Korea Customs Service,KOR,other,auto
 korea-data-agency,korea-data-agency,Korea Data Agency,KOR,other,auto
 korea-eximbank,korea-eximbank,Korea Eximbank,KOR,other,auto
-korea-ministry-of-economy-and-finance,korea-ministry-of-economy-and-finance,"Ministry of Economy and Finance, South Korea",KOR,government,auto
+korea-ministry-of-economy-and-finance,ministry-of-economy-and-finance-korea,"Ministry of Economy and Finance, South Korea",KOR,government,hand
 korea-nia,korea-nia,NIA,KOR,other,auto
 koree,koree,Koree,CMR,other,auto
 korin-ai,korin-ai,Korin AI,NGA,other,auto
@@ -3249,6 +3256,7 @@ medyc,medyc,Medyc,DJI,other,auto
 mef-guinea,mef-guinea,Ministry of Economy and Finance,GIN,other,auto
 mehh-guinea,mehh-guinea,Ministry of Energy Hydrolics and Hydrocarbons,GIN,other,auto
 meltwater,meltwater,Meltwater,TCD,other,auto
+meltwater-entrepreneurial-school-of-technology,meltwater-entrepreneurial-school-of-technology,Meltwater Entrepreneurial School of Technology,GHA,other,auto
 mena-guinea,mena-guinea,MENA,GIN,other,auto
 menfop-djibouti,menfop-djibouti,MENFOP,DJI,other,auto
 meninx-holding,meninx-holding,Meninx Holding,TUN,other,auto
@@ -3325,7 +3333,7 @@ minisante-rwanda,minisante-rwanda,Ministry of Health,RWA,other,auto
 ministere-acces-universel-eau-energie-gabon,ministere-acces-universel-eau-energie-gabon,"Ministère de l’Accès universel à l’Eau et à l’Énergie, Gabon",GAB,government,auto
 ministere-action-humanitaire-niger,ministere-action-humanitaire-niger,"Ministère de l’action humanitaire et de la gestion des catastrophes, Niger",NER,government,auto
 ministere-administration-territoriale-decentralisation-mali,ministere-administration-territoriale-decentralisation-mali,"Ministère de l’Administration territoriale et de la Décentralisation, Mali",MLI,government,auto
-ministere-administration-territoriale-mali,ministere-administration-territoriale-mali,"Ministère de l’Administration territoriale et de la Décentralisation, Mali",MLI,government,auto
+ministere-administration-territoriale-mali,ministere-administration-territoriale-decentralisation-mali,"Ministère de l’Administration territoriale et de la Décentralisation, Mali",MLI,government,hand
 ministere-administration-territoriale-mobilite-burkina-faso,ministere-administration-territoriale-mobilite-burkina-faso,"Ministère de l'administration territoriale et de la mobilité (MATS), Burkina Faso",BFA,government,auto
 ministere-administration-territoriale-togo,ministere-administration-territoriale-togo,"Ministère de l’Administration territoriale, de la Gouvernance locale et des Affaires coutumières, Togo",TGO,government,auto
 ministere-affaires-etrangeres-gabon,ministere-affaires-etrangeres-gabon,"Ministère des Affaires Étrangères, Gabon",GAB,government,auto
@@ -3363,7 +3371,7 @@ ministere-commerce-tourisme-djibouti,ministere-commerce-tourisme-djibouti,"Minis
 ministere-communication-cote-divoire,ministere-communication-cote-divoire,"Ministère de la Communication, Cote d'Ivoire",CIV,government,auto
 ministere-communication-culture-madagascar,ministere-communication-culture-madagascar,"Ministère de la Communication et de la Culture, Madagascar",MDG,government,auto
 ministere-communication-djibouti,ministere-communication-djibouti,"Ministère de la Communication, chargé des Postes et des Télécommunications, Djibouti",DJI,government,auto
-ministere-communication-economie-numerique-innovation-guinee,ministere-communication-economie-numerique-innovation-guinee,"Ministère de la Communication, de l’Économie numérique et de l’Innovation, Guinea",GIN,government,auto
+ministere-communication-economie-numerique-innovation-guinee,ministere-de-la-communication-de-leconomie-numerique-et-de-linnovation-guinee,"Ministère de la Communication, de l’Économie numérique et de l’Innovation, Guinea",GIN,government,hand
 ministere-communication-economie-numerique-mali,ministere-communication-economie-numerique-mali,"Ministère de la Communication, de l'Économie numérique et de la Modernisation de l'Administration, Mali",MLI,government,auto
 ministere-communication-medias-gabon,ministere-communication-medias-gabon,"Ministère de la Communication et des Médias, Gabon",GAB,government,auto
 ministere-communication-medias-rdc,ministere-communication-medias-rdc,"Ministère de la Communication et Médias, DR Congo",COD,government,auto
@@ -3373,18 +3381,18 @@ ministere-construction-logement-urbanisme-civ,ministere-construction-logement-ur
 ministere-construction-patrie-burkina-faso,ministere-construction-patrie-burkina-faso,Ministère de la Construction de la Patrie du Burkina Faso,BFA,government,auto
 ministere-de-l-economie-du-plan-et-de-la-cooperation-senegal,ministere-de-l-economie-du-plan-et-de-la-cooperation-senegal,"Ministère de l'Economie, du Plan et de la Coopération, Senegal",SEN,government,auto
 ministere-de-l-economie-numerique-des-postes-et-telecommunications-rca,ministere-de-l-economie-numerique-des-postes-et-telecommunications-rca,"Ministère de l'Économie numérique, des Postes et Télécommunications, Central African Republic",CAF,government,auto
-ministere-de-l-education-nationale-comores,ministere-de-l-education-nationale-comores,"Ministère de l’Éducation Nationale, Comoros",COM,government,auto
+ministere-de-l-education-nationale-comores,ministere-education-nationale-comores,"Ministère de l’Éducation Nationale, Comoros",COM,government,hand
 ministere-de-l-environnement-et-du-developpement-durable-rca,ministere-de-l-environnement-et-du-developpement-durable-rca,"Ministère de l'environnement et du développement durable, Central African Republic",CAF,government,auto
 ministere-de-la-communication-burkina-faso,ministere-de-la-communication-burkina-faso,"Ministère de la Communication, Burkina Faso",BFA,government,auto
 ministere-de-la-communication-de-leconomie-numerique-et-de-linnovation-guinee,ministere-de-la-communication-de-leconomie-numerique-et-de-linnovation-guinee,"Ministère de la Communication, de l'Économie numérique et de l'Innovation, Guinea",GIN,government,auto
 ministere-de-la-decentralisation-et-de-la-gouvernance-locale-benin,ministere-de-la-decentralisation-et-de-la-gouvernance-locale-benin,"Ministère de la Décentralisation et de la gouvernance locale, Benin",BEN,government,auto
-ministere-de-la-famille-de-laction-sociale-et-des-solidarites-senegal,ministere-de-la-famille-de-laction-sociale-et-des-solidarites-senegal,"Ministère de la Famille, de l’Action sociale et des Solidarités, Senegal",SEN,government,auto
+ministere-de-la-famille-de-laction-sociale-et-des-solidarites-senegal,ministere-famille-action-sociale-solidarites-senegal,"Ministère de la Famille, de l’Action sociale et des Solidarités, Senegal",SEN,government,hand
 ministere-de-la-fonction-publique-niger,ministere-de-la-fonction-publique-niger,"Ministère de la Fonction Publique, du Travail et de l'Emploi, Niger",NER,government,auto
 ministere-de-la-justice,ministere-de-la-justice,"Ministère de la Justice, Algeria",DZA,government,auto
 ministere-de-la-justice-burundi,ministry-of-justice-burundi,"Ministry of Justice, Burundi",BDI,government,auto
 ministere-de-la-justice-drc,ministere-justice-rdc,"Ministère de la Justice, DR Congo",COD,government,auto
 ministere-de-la-justice-et-de-la-legislation-benin,ministere-de-la-justice-et-de-la-legislation-benin,"Ministère de la Justice et de la Législation, Benin",BEN,government,auto
-ministere-de-la-modernisation-de-ladministration-et-de-la-fonction-publique-guinee,ministere-de-la-modernisation-de-ladministration-et-de-la-fonction-publique-guinee,"Ministère de la Modernisation de l’Administration et de la Fonction publique, Guinea",GIN,government,auto
+ministere-de-la-modernisation-de-ladministration-et-de-la-fonction-publique-guinee,ministere-modernisation-administration-fonction-publique-guinee,"Ministère de la Modernisation de l’Administration et de la Fonction publique, Guinea",GIN,government,hand
 ministere-de-la-sante,ministere-de-la-sante,"Ministère de la Santé, Algeria",DZA,government,auto
 ministere-de-la-sante-cote-divoire,ministere-de-la-sante-cote-divoire,"Ministère de la Santé, de l'Hygiène Publique et de la Couverture Maladie Universelle, Cote d'Ivoire",CIV,government,auto
 ministere-de-la-sante-publique-et-de-la-prevention-tchad,ministere-de-la-sante-publique-et-de-la-prevention-tchad,"Ministère de la Santé Publique et de la Prévention, Chad",TCD,government,auto
@@ -3393,17 +3401,17 @@ ministere-de-la-sante-rdc,ministere-de-la-sante-rdc,"Direction de Santé de la f
 ministere-de-la-sante-senegal,ministere-de-la-sante-senegal,"Ministère de la Santé et de l’Hygiène publique, Senegal",SEN,government,auto
 ministere-de-la-securite-publique-madagascar,ministere-de-la-securite-publique-madagascar,"Ministère de la Sécurité publique, Madagascar",MDG,government,auto
 ministere-de-la-transformation-digitale-et-de-l-innovation-benin,ministere-de-la-transformation-digitale-et-de-l-innovation-benin,"Ministère de la Transformation Digitale et de l'Innovation, Benin",BEN,government,auto
-ministere-de-la-transformation-digitale-et-de-linnovation-benin,ministere-de-la-transformation-digitale-et-de-linnovation-benin,"Ministère de la Transformation digitale et de l'innovation, Benin",BEN,government,auto
+ministere-de-la-transformation-digitale-et-de-linnovation-benin,ministere-de-la-transformation-digitale-et-de-l-innovation-benin,"Ministère de la Transformation digitale et de l'innovation, Benin",BEN,government,hand
 ministere-de-lagriculture-et-du-developpement-rural-cameroun,ministere-de-lagriculture-et-du-developpement-rural-cameroun,"Ministère de l'Agriculture et du Développement rural, Cameroon",CMR,government,auto
-ministere-de-leconomie-et-des-finances-benin,ministere-de-leconomie-et-des-finances-benin,"Ministère de l'Économie et des Finances, Benin",BEN,government,auto
-ministere-de-leconomie-et-des-finances-burkina-faso,ministere-de-leconomie-et-des-finances-burkina-faso,"Ministère de l'Economie et des Finances, Burkina Faso",BFA,government,auto
+ministere-de-leconomie-et-des-finances-benin,ministere-economie-finances-benin,"Ministère de l'Économie et des Finances, Benin",BEN,government,hand
+ministere-de-leconomie-et-des-finances-burkina-faso,ministere-economie-finances-burkina-faso,"Ministère de l'Economie et des Finances, Burkina Faso",BFA,government,hand
 ministere-de-leconomie-numerique-drc,ministere-de-leconomie-numerique-rdc,"Ministère de l'Économie Numérique, DR Congo",COD,government,auto
 ministere-de-leconomie-numerique-rdc,ministere-de-leconomie-numerique-rdc,"Ministère de l'Économie numérique, DR Congo",COD,government,auto
 ministere-de-leducation-nationale,ministere-de-leducation-nationale,"Ministère de l’Éducation nationale, Algeria",DZA,government,auto
 ministere-de-leducation-nationale-drc,ministere-de-leducation-nationale-drc,"Ministère de l'Éducation nationale et de la Nouvelle Citoyenneté, DR Congo",COD,government,auto
 ministere-de-leducation-nationale-et-de-lalphabetisation-cote-divoire,ministere-de-leducation-nationale-et-de-lalphabetisation-cote-divoire,"ministère de l'éducation nationale, de l'enseignement technique et de la formation professionnelle, Cote d'Ivoire",CIV,government,auto
 ministere-de-leducation-nationale-tchad,ministere-de-leducation-nationale-tchad,"Ministère de l'Education nationale, Chad",TCD,government,auto
-ministere-de-lenseignement-superieur-et-de-la-recherche-scientifique-benin,ministere-de-lenseignement-superieur-et-de-la-recherche-scientifique-benin,"Ministère de l'Enseignement supérieur et de la Recherche scientifique, Benin",BEN,government,auto
+ministere-de-lenseignement-superieur-et-de-la-recherche-scientifique-benin,ministere-enseignement-superieur-recherche-scientifique-benin,"Ministère de l'Enseignement supérieur et de la Recherche scientifique, Benin",BEN,government,hand
 ministere-de-lindustrie-des-mines-et-de-lenergie-tunisie,ministere-de-lindustrie-des-mines-et-de-lenergie-tunisie,"Ministère de l’Industrie, de l’Energie et des Mines, Tunisia",TUN,government,auto
 ministere-de-linterieur-et-de-la-securite-cote-divoire,ministere-de-linterieur-et-de-la-securite-cote-divoire,"Ministère de l'Intérieur et de la Sécurité, Cote d'Ivoire",CIV,government,auto
 ministere-de-linterieur-niger,ministere-de-linterieur-niger,"Ministère de l'Intérieur, de la Sécurité Publique et de l'Administration du Territoire, Niger",NER,government,auto
@@ -3444,6 +3452,7 @@ ministere-economie-finances-gabon,ministere-economie-finances-gabon,"ministère 
 ministere-economie-finances-madagascar,ministere-economie-finances-madagascar,"Ministère de l'Économie et des Finances, Madagascar",MDG,government,auto
 ministere-economie-finances-mali,ministere-economie-finances-mali,"Ministère de l'Economie et des Finances, Mali",MLI,government,auto
 ministere-economie-finances-niger,ministere-economie-finances-niger,"Ministry of Economy and Finance, Niger",NER,government,auto
+ministere-economie-maritime-togo,ministere-economie-maritime-togo,"Ministère délégué chargé de l'économie maritime, Togo",TGO,government,auto
 ministere-economie-nationale-drc,ministere-economie-nationale-drc,"Ministère de l'Économie nationale, DR Congo",COD,government,auto
 ministere-economie-numerique-cod,ministere-economie-numerique-cod,"Ministry of Digital Economy, DR Congo",COD,government,auto
 ministere-economie-numerique-communication-benin,ministere-economie-numerique-communication-benin,"Ministère de l’Economie Numérique et de la Communication, Benin",BEN,government,auto
@@ -3493,7 +3502,7 @@ ministere-enseignement-superieur-recherche-scientifique-cote-divoire,ministere-e
 ministere-enseignement-technique-formation-professionnelle-civ,ministere-enseignement-technique-formation-professionnelle-civ,"Ministère de l’Enseignement technique, Cote d'Ivoire",CIV,government,auto
 ministere-enseignement-technique-formation-professionnelle-madagascar,ministere-enseignement-technique-formation-professionnelle-madagascar,"Ministère de l'Enseignement technique et de la Formation professionnelle, Madagascar",MDG,government,auto
 ministere-enseignements-maternel-primaire-benin,ministere-enseignements-maternel-primaire-benin,"Ministère des Enseignements Maternel et Primaire, Benin",BEN,government,auto
-ministere-entrepreneuriat-emploi-formation-professionnelle-mali,ministere-entrepreneuriat-emploi-formation-professionnelle-mali,"Ministère de l'Entrepreneuriat National, de l'Emploi et de la Formation Professionnelle, Mali",MLI,government,auto
+ministere-entrepreneuriat-emploi-formation-professionnelle-mali,ministere-entrepreneuriat-emploi-mali,"Ministère de l'Entrepreneuriat National, de l'Emploi et de la Formation Professionnelle, Mali",MLI,government,hand
 ministere-entrepreneuriat-emploi-mali,ministere-entrepreneuriat-emploi-mali,"Ministère de l'Entrepreneuriat National, de l'Emploi et de la Formation Professionnelle, Mali",MLI,government,auto
 ministere-entrepreneuriat-pme-rdc,ministere-entrepreneuriat-pme-rdc,"Ministère de l’Entrepreneuriat et des PME, DR Congo",COD,government,auto
 ministere-entrepreneuriat-rdc,ministere-entrepreneuriat-rdc,"Ministère de l’Entrepreneuriat, DR Congo",COD,government,auto
@@ -3503,7 +3512,7 @@ ministere-environnement-transition-ecologique-senegal,ministere-environnement-tr
 ministere-famille-action-sociale-benin,ministere-famille-action-sociale-benin,"Ministère de la Famille et de l'Action sociale, Benin",BEN,government,auto
 ministere-famille-action-sociale-solidarites-senegal,ministere-famille-action-sociale-solidarites-senegal,"Ministère de la Famille, de l’Action sociale et des Solidarités, Senegal",SEN,government,auto
 ministere-famille-solidarite-burkina-faso,ministere-famille-solidarite-burkina-faso,"Ministère de la famille et de la solidarité, Burkina Faso",BFA,government,auto
-ministere-femme-famille-solidarites-guinee,ministere-femme-famille-solidarites-guinee,"Ministère de la Femme, de la Famille et des Solidarités, Guinea",GIN,government,auto
+ministere-femme-famille-solidarites-guinee,ministry-of-women-family-and-solidarity-guinea,"Ministère de la Femme, de la Famille et des Solidarités, Guinea",GIN,government,hand
 ministere-finances-budget-portefeuille-public-congo,ministere-finances-budget-portefeuille-public-congo,"Ministère des Finances, du Budget et du Portefeuille Public, Congo",COG,government,auto
 ministere-finances-budget-secteur-bancaire-comores,ministere-finances-budget-secteur-bancaire-comores,"Ministère des Finances, du Budget et du Secteur Bancaire, Comoros",COM,government,auto
 ministere-finances-budget-senegal,ministere-finances-budget-senegal,"Ministère des Finances et du Budget, Senegal",SEN,government,auto
@@ -3524,11 +3533,11 @@ ministere-industrie-pme-rdc,ministere-industrie-pme-rdc,"Ministère de l'Industr
 ministere-industrie-promotion-investissements-togo,ministere-industrie-promotion-investissements-togo,"Ministère de l’Industrie et de la Promotion des Investissements, Togo",TGO,government,auto
 ministere-information-comores,ministere-information-comores,"Ministère de l'Information, Comoros",COM,government,auto
 ministere-interieur-collectivites-locales-transports-algeria,ministere-interieur-collectivites-locales-transports-algeria,"ministère de l'Intérieur, des Collectivités locales et des Transports, Algeria",DZA,government,auto
-ministere-interieur-comores,ministere-interieur-comores,"Ministère de l'Intérieur, Comoros",COM,government,auto
+ministere-interieur-comores,ministry-of-interior-comoros,"Ministère de l'Intérieur, Comoros",COM,government,hand
 ministere-interieur-decentralisation-congo,ministere-interieur-decentralisation-congo,"Ministère de l'intérieur et de la décentralisation, Congo",COG,government,auto
 ministere-interieur-djibouti,ministere-interieur-djibouti,"Ministère de l'Intérieur, Djibouti",DJI,government,auto
 ministere-interieur-gabon,ministere-interieur-gabon,"Ministère de l’Intérieur, Gabon",GAB,government,auto
-ministere-interieur-madagascar,ministere-interieur-madagascar,"Ministère de l'Intérieur et de la décentralisation, Madagascar",MDG,government,auto
+ministere-interieur-madagascar,ministry-of-interior-madagascar,"Ministère de l'Intérieur et de la décentralisation, Madagascar",MDG,government,hand
 ministere-interieur-mauritanie,ministere-interieur-mauritanie,"Ministère de l’Intérieur et de la Décentralisation, Mauritania",MRT,government,auto
 ministere-interieur-niger,ministere-interieur-niger,"ministère nigérien de l'Intérieur, de la Sécurité publique et de l'Administration du territoire",NER,government,auto
 ministere-interieur-securite-publique-benin,ministere-interieur-securite-publique-benin,"Ministère de l'Intérieur et de la Sécurité publique, Benin",BEN,government,auto
@@ -3555,13 +3564,13 @@ ministere-justice-senegal,ministere-justice-senegal,"Ministère de la Justice, S
 ministere-justice-tchad,ministere-justice-tchad,"Ministère de la Justice, Chad",TCD,government,auto
 ministere-justice-togo,ministere-justice-togo,"Ministère de la Justice et des Droits humains, Togo",TGO,government,auto
 ministere-logement-cadastre-gabon,ministere-logement-cadastre-gabon,"Ministère du Logement, de l’Habitat, de l’Urbanisme et du Cadastre, Gabon",GAB,government,auto
-ministere-logement-gabon,ministere-logement-gabon,"Ministère du Logement, de l’Habitat, de l’Urbanisme et du Cadastre, Gabon",GAB,government,auto
+ministere-logement-gabon,ministere-logement-cadastre-gabon,"Ministère du Logement, de l’Habitat, de l’Urbanisme et du Cadastre, Gabon",GAB,government,hand
 ministere-maliens-exterieur-integration-africaine-mali,ministere-maliens-exterieur-integration-africaine-mali,Ministère des Maliens établis à l'Extérieur et de l'Intégration africaine,MLI,government,auto
 ministere-mines-geologie-guinee,ministere-mines-geologie-guinee,"Ministère des Mines et de la Géologie, Guinea",GIN,government,auto
 ministere-mines-mali,ministere-mines-mali,"Ministère des Mines, Mali",MLI,government,auto
 ministere-mines-petrole-energie-cote-divoire,ministere-mines-petrole-energie-cote-divoire,"Ministère des Mines, du Pétrole et de l'Énergie, Cote d'Ivoire",CIV,government,auto
 ministere-modernisation-administration-fonction-publique-guinee,ministere-modernisation-administration-fonction-publique-guinee,"Ministère de la Modernisation de l'Administration et de la Fonction publique, Guinea",GIN,government,auto
-ministere-numerique-madagascar,ministere-numerique-madagascar,"Ministère du Développement numérique, des Postes et des Télécommunications, Madagascar",MDG,government,auto
+ministere-numerique-madagascar,mg-ministry-digital-development,"Ministère du Développement numérique, des Postes et des Télécommunications, Madagascar",MDG,government,hand
 ministere-peche-economie-maritime-guinee,ministere-peche-economie-maritime-guinee,"Ministère de la Pêche et de l’Économie maritime, Guinea",GIN,government,auto
 ministere-plan-cooperation-guinee,ministere-plan-cooperation-guinee,"Ministère du Plan, de la Coopération Internationale et du Développement, Guinea",GIN,government,auto
 ministere-plan-developpement-benin,ministere-plan-developpement-benin,"Ministère du Plan et du Développement, Benin",BEN,government,auto
@@ -3570,7 +3579,7 @@ ministere-plan-guinee,ministere-plan-guinee,"Ministère du Plan et de la Coopér
 ministere-plan-rdc,ministere-du-plan-drc,"Ministère du Plan, DR Congo",COD,government,auto
 ministere-plan-statistique-integration-regionale-congo,ministere-plan-statistique-integration-regionale-congo,"Ministère de l’économie, du plan, de la statistique et de l’intégration régionale, Congo",COG,government,auto
 ministere-planification-developpement-togo,ministere-planification-developpement-togo,"MINISTERE DE LA PLANIFICATION DU DEVELOPPEMENT, Togo",TGO,government,auto
-ministere-planification-gabon,ministere-planification-gabon,"Ministère de la Planification et de la Prospective, Gabon",GAB,government,auto
+ministere-planification-gabon,ministere-planification-prospective-gabon,"Ministère de la Planification et de la Prospective, Gabon",GAB,government,hand
 ministere-planification-prospective-gabon,ministere-planification-prospective-gabon,"Ministère de la Planification et de la Prospective, Gabon",GAB,government,auto
 ministere-pme-artisanat-congo,ministere-pme-artisanat-congo,"Ministère des petites et moyennes entreprises et de l’artisanat, Congo",COG,government,auto
 ministere-population-action-sociale-niger,ministere-population-action-sociale-niger,"Ministère de la Population, de l'Action sociale et de la Solidarité nationale, Niger",NER,government,auto
@@ -3589,7 +3598,7 @@ ministere-sante-comores,ministere-sante-comores,"Ministère de la Santé et de l
 ministere-sante-developpement-social-mali,ministere-sante-developpement-social-mali,"Ministère de la Santé et du Développement social, Mali",MLI,government,auto
 ministere-sante-djibouti,ministere-sante-djibouti,"Ministère de la Santé, Djibouti",DJI,government,auto
 ministere-sante-gabon,ministere-sante-gabon,"Ministère de la Santé, Gabon",GAB,government,auto
-ministere-sante-hygiene-publique-guinee,ministere-sante-hygiene-publique-guinee,"ministère de la Santé et de l'Hygiène Publique, Guinea",GIN,government,auto
+ministere-sante-hygiene-publique-guinee,ministry-of-health-guinea,"ministère de la Santé et de l'Hygiène Publique, Guinea",GIN,government,hand
 ministere-sante-hygiene-publique-senegal,ministere-sante-hygiene-publique-senegal,"Ministère de la Santé et de l’Action sociale, Senegal",SEN,government,auto
 ministere-sante-population-congo,ministere-sante-population-congo,"Ministère de la Santé et de la Population, Congo",COG,government,auto
 ministere-sante-publique-cameroun,ministere-sante-publique-cameroun,"Ministère de la Santé Publique, Cameroon",CMR,government,auto
@@ -3597,11 +3606,11 @@ ministere-sante-publique-madagascar,ministere-sante-publique-madagascar,"MINISTE
 ministere-sante-publique-tchad,ministere-sante-publique-tchad,"ministère de la Santé publique, Chad",TCD,government,auto
 ministere-sante-tchad,ministere-sante-tchad,"Ministère de la Santé publique, Chad",TCD,government,auto
 ministere-sante-togo,ministere-sante-togo,"Ministère de la Santé et de l'hygiène publique, de la couverture sanitaire universelle et des assurances, Togo",TGO,government,auto
-ministere-securite-burkina-faso,ministere-securite-burkina-faso,"Ministère de la Sécurité, Burkina Faso",BFA,government,auto
+ministere-securite-burkina-faso,ministry-of-security-burkina-faso,"Ministère de la Sécurité, Burkina Faso",BFA,government,hand
 ministere-securite-guinea,ministere-securite-guinea,"MINISTERE DE LA SECURITE ET, Guinea",GIN,government,auto
 ministere-securite-protection-civile-mali,ministere-securite-protection-civile-mali,"Ministère de la Sécurité et de la Protection civile, Mali",MLI,government,auto
 ministere-securite-publique-centrafrique,ministere-securite-publique-centrafrique,"Ministère de la Sécurité publique, Central African Republic",CAF,government,auto
-ministere-securite-publique-tchad,ministere-securite-publique-tchad,"Ministère de la Sécurité publique et de l’immigration, Chad",TCD,government,auto
+ministere-securite-publique-tchad,ministry-of-public-security-chad,"Ministère de la Sécurité publique et de l’immigration, Chad",TCD,government,hand
 ministere-securite-sociale-prevoyance-sociale-solidarite-nationale-congo,ministere-securite-sociale-prevoyance-sociale-solidarite-nationale-congo,"Ministère de la Sécurité sociale, de la Prévoyance sociale et de la Solidarité, Congo",COG,government,auto
 ministere-securite-togo,ministere-securite-togo,"Ministère de la sécurité et de la protection civile, Togo",TGO,government,auto
 ministere-serviteurs-du-peuple-burkina-faso,ministere-serviteurs-du-peuple-burkina-faso,"Ministère des Serviteurs du Peuple, Burkina Faso",BFA,government,auto
@@ -3609,7 +3618,7 @@ ministere-telecommunications-guinee-equatoriale,ministere-telecommunications-gui
 ministere-telecommunications-tchad,ministere-telecommunications-tchad,"Ministère des Télécommunications, Chad",TCD,government,auto
 ministere-tourisme-culture-arts-benin,ministere-tourisme-culture-arts-benin,"Ministère du Tourisme, de la Culture et des Arts, Benin",BEN,government,auto
 ministere-tourisme-rdc,ministere-tourisme-rdc,"Ministère du Tourisme, DR Congo",COD,government,auto
-ministere-transition-digitale-burkina-faso,ministere-transition-digitale-burkina-faso,"Ministère de la Transition digitale, des Postes et des Communications électroniques, Burkina Faso",BFA,government,auto
+ministere-transition-digitale-burkina-faso,bf-ministry-digital-transition,"Ministère de la Transition digitale, des Postes et des Communications électroniques, Burkina Faso",BFA,government,hand
 ministere-transition-numerique-innovation-technologique-civ,ministere-transition-numerique-innovation-technologique-civ,"Ministère de la Transition numérique et de l'Innovation technologique, Cote d'Ivoire",CIV,government,auto
 ministere-transport-logistique-maroc,ministere-transport-logistique-maroc,"Ministère du Transport et de la Logistique, Morocco",MAR,government,auto
 ministere-transports-gabon,ministere-transports-gabon,"Ministère des Transports, Gabon",GAB,government,auto
@@ -3618,8 +3627,8 @@ ministere-transports-infrastructures-mali,ministere-transports-infrastructures-m
 ministere-travail-djibouti,ministere-travail-djibouti,"Ministère du Travail, Djibouti",DJI,government,auto
 ministere-travail-fonction-publique-benin,ministere-travail-fonction-publique-benin,"Ministère du Travail et de la Fonction Publique, Benin",BEN,government,auto
 ministere-urbanisme-affaires-foncieres-habitat-burkina-faso,ministere-urbanisme-affaires-foncieres-habitat-burkina-faso,"Ministère de l'Urbanisme, des Affaires foncières et de l'Habitat, Burkina Faso",BFA,government,auto
-ministere-urbanisme-habitat-amenagement-territoire-guinee,ministere-urbanisme-habitat-amenagement-territoire-guinee,"Ministère de l’Urbanisme, de l’Habitat et de l’Aménagement du Territoire, Guinea",GIN,government,auto
-ministere-urbanisme-habitat-guinee,ministere-urbanisme-habitat-guinee,"Ministère de l’Urbanisme, de l’Habitat et de l’Aménagement du Territoire, Guinea",GIN,government,auto
+ministere-urbanisme-habitat-amenagement-territoire-guinee,ministry-urbanism-housing-guinea,"Ministère de l’Urbanisme, de l’Habitat et de l’Aménagement du Territoire, Guinea",GIN,government,hand
+ministere-urbanisme-habitat-guinee,ministry-urbanism-housing-guinea,"Ministère de l’Urbanisme, de l’Habitat et de l’Aménagement du Territoire, Guinea",GIN,government,hand
 ministere-urbanisme-habitat-niger,ministere-urbanisme-habitat-niger,"Ministère de l'Urbanisme et de l'Habitat, Niger",NER,government,auto
 ministere-urbanisme-logement-cadre-de-vie-civ,ministere-urbanisme-logement-cadre-de-vie-civ,"Ministère de l'Urbanisme, du Logement et du Cadre de vie, Cote d'Ivoire",CIV,government,auto
 ministerial-group-for-entrepreneurship-egypt,ministerial-group-for-entrepreneurship-egypt,Ministerial Group for Entrepreneurship,EGY,other,auto
@@ -3635,7 +3644,7 @@ ministerio-da-administracao-territorial-e-poder-local-guine-bissau,ministerio-da
 ministerio-da-agricultura-florestas-e-pecuaria-guinea-bissau,ministerio-da-agricultura-florestas-e-pecuaria-guinea-bissau,"Ministério da Agricultura, Floresta e Pecuária, Guinea-Bissau",GNB,government,auto
 ministerio-da-ciencia-tecnologia-e-ensino-superior-mocambique,ministerio-da-ciencia-tecnologia-e-ensino-superior-mocambique,"Ministério da Ciência, Tecnologia e Ensino Superior, Mozambique",MOZ,government,auto
 ministerio-da-comunicacao-social-guine-bissau,ministerio-da-comunicacao-social-guine-bissau,"Ministério da Comunicação Social, Guinea-Bissau",GNB,government,auto
-ministerio-da-economia-e-financas-sao-tome,ministerio-da-economia-e-financas-sao-tome,"Ministério da Economia e Finanças, Sao Tome and Principe",STP,government,auto
+ministerio-da-economia-e-financas-sao-tome,ministerio-economia-financas-sao-tome,"Ministério da Economia e Finanças, Sao Tome and Principe",STP,government,hand
 ministerio-da-economia-e-planeamento-angola,ministerio-da-economia-e-planeamento-angola,"Ministério da Economia e Planeamento, Angola",AGO,government,auto
 ministerio-da-educacao-angola,ministerio-da-educacao-angola,"Ministério da Educação, Angola",AGO,government,auto
 ministerio-da-educacao-cabo-verde,ministerio-da-educacao-cabo-verde,"Ministério da Educação, Cape Verde",CPV,government,auto
@@ -3643,19 +3652,19 @@ ministerio-da-educacao-e-cultura-mozambique,ministerio-da-educacao-e-cultura-moz
 ministerio-da-educacao-nacional-guinea-bissau,ministerio-da-educacao-nacional-guinea-bissau,"Ministério da Educação Nacional, Ensino Superior e Investigação Científica, Guinea-Bissau",GNB,government,auto
 ministerio-da-energia-e-aguas-angola,ministerio-da-energia-e-aguas-angola,"Ministério da Energia e Águas, Angola",AGO,government,auto
 ministerio-da-fazenda-brasil,ministerio-da-fazenda-brasil,"Ministério da Fazenda, Brazil",BRA,government,auto
-ministerio-da-justica-cabo-verde,ministerio-da-justica-cabo-verde,"Ministério da Justiça, Cape Verde",CPV,government,auto
+ministerio-da-justica-cabo-verde,cabo-verde-ministry-of-justice,"Ministério da Justiça, Cape Verde",CPV,government,hand
 ministerio-da-justica-e-dos-direitos-humanos-angola,ministerio-da-justica-e-dos-direitos-humanos-angola,"Ministério da Justiça e dos Direitos Humanos, Angola",AGO,government,auto
 ministerio-da-justica-e-dos-direitos-humanos-guinea-bissau,ministerio-da-justica-e-dos-direitos-humanos-guinea-bissau,"Ministério da Justiça e dos Direitos Humanos, Guinea-Bissau",GNB,government,auto
 ministerio-da-justica-guine-bissau,ministerio-da-justica-guine-bissau,"Ministère de la Justice, Guinea-Bissau",GNB,government,auto
 ministerio-da-justica-sao-tome,ministerio-da-justica-sao-tome,"Ministério da Justiça, Administração Pública e Direitos Humanos, Sao Tome and Principe",STP,government,auto
 ministerio-da-juventude-desporto-e-empreendedorismo-stp,ministerio-da-juventude-desporto-e-empreendedorismo-stp,"Ministério da Juventude, Desporto e Empreendedorismo, Sao Tome and Principe",STP,government,auto
 ministerio-da-saude-angola,ministerio-da-saude-angola,"Ministério da Saúde, Angola",AGO,government,auto
-ministerio-da-saude-cabo-verde,ministerio-da-saude-cabo-verde,"Ministério da Saúde, Cape Verde",CPV,government,auto
+ministerio-da-saude-cabo-verde,ministry-health-cabo-verde,"Ministério da Saúde, Cape Verde",CPV,government,hand
 ministerio-da-saude-publica-guinea-bissau,ministerio-da-saude-publica-guinea-bissau,"Ministério da Saúde Pública, Guinea-Bissau",GNB,government,auto
 ministerio-da-saude-sao-tome,ministerio-da-saude-sao-tome,"Ministério da Saúde, Sao Tome and Principe",STP,government,auto
 ministerio-das-comunicacoes-e-transformacao-digital-mozambique,ministerio-das-comunicacoes-e-transformacao-digital-mozambique,"Ministère des Communications et de la Transformation numérique, Mozambique",MOZ,government,auto
 ministerio-das-financas-angola,ministerio-das-financas-angola,"Ministério das Finanças, Angola",AGO,government,auto
-ministerio-das-financas-cabo-verde,ministerio-das-financas-cabo-verde,"Ministério das Finanças, Cape Verde",CPV,government,auto
+ministerio-das-financas-cabo-verde,ministry-finance-cabo-verde,"Ministério das Finanças, Cape Verde",CPV,government,hand
 ministerio-das-financas-guinea-bissau,ministerio-das-financas-guinea-bissau,"Ministério das Finanças, Guinea-Bissau",GNB,government,auto
 ministerio-das-obras-publicas-construcoes-e-urbanismo-guinea-bissau,ministerio-das-obras-publicas-construcoes-e-urbanismo-guinea-bissau,"Ministério das Obras Públicas, Construções e Urbanismo, Guinea-Bissau",GNB,government,auto
 ministerio-das-relacoes-exteriores-angola,ministerio-das-relacoes-exteriores-angola,"Ministério das Relações Exteriores, Angola",AGO,government,auto
@@ -3682,8 +3691,8 @@ ministerio-dos-transportes-e-logistica-mocambique,ministerio-dos-transportes-e-l
 ministerio-dos-transportes-telecomunicacoes-e-economia-digital-guinea-bissau,ministerio-dos-transportes-telecomunicacoes-e-economia-digital-guinea-bissau,"Ministério dos Transportes, Telecomunicações e Economia Digital, Guinea-Bissau",GNB,government,auto
 ministerio-economia-financas-sao-tome,ministerio-economia-financas-sao-tome,"Ministério da Economia e Finanças, Sao Tome and Principe",STP,government,auto
 ministerio-economia-plano-integracao-regional-guine-bissau,ministerio-economia-plano-integracao-regional-guine-bissau,"Ministry of Economy, Planning, and Regional Integration, Guinea-Bissau",GNB,government,auto
-ministerio-educacao-nacional-guine-bissau,ministerio-educacao-nacional-guine-bissau,"Ministério da Educação Nacional, Ensino Superior e Investigação Científica, Guinea-Bissau",GNB,government,auto
-ministerio-infraestruturas-ordenamento-territorio-habitacao-cabo-verde,ministerio-infraestruturas-ordenamento-territorio-habitacao-cabo-verde,"Ministério das Infraestruturas, Habitação e Ordenamento do Território, Cape Verde",CPV,government,auto
+ministerio-educacao-nacional-guine-bissau,ministerio-da-educacao-nacional-guinea-bissau,"Ministério da Educação Nacional, Ensino Superior e Investigação Científica, Guinea-Bissau",GNB,government,hand
+ministerio-infraestruturas-ordenamento-territorio-habitacao-cabo-verde,ministry-infrastructure-cabo-verde,"Ministério das Infraestruturas, Habitação e Ordenamento do Território, Cape Verde",CPV,government,hand
 ministerio-interior-mocambique,ministerio-interior-mocambique,"Ministry of Interior, Mozambique",MOZ,government,auto
 ministerio-medio-ambiente-economia-azul-gnq,ministerio-medio-ambiente-economia-azul-gnq,"Ministerio de Medio Ambiente y Economía Azul, Equatorial Guinea",GNQ,government,auto
 ministerio-mulher-familia-solidariedade-social-guine-bissau,ministerio-mulher-familia-solidariedade-social-guine-bissau,"Ministry of Women, Family and Social Solidarity, Guinea-Bissau",GNB,government,auto
@@ -3692,7 +3701,7 @@ ministry-communication-algeria,ministry-communication-algeria,"Ministry of Commu
 ministry-communications-digital-economy-gambia,ministry-communications-digital-economy-gambia,"Ministry of Communications and Digital Economy, Gambia",GMB,government,auto
 ministry-communications-innovation-digital-economy-nigeria,nigeria-ministry-communications-innovation-digital-economy,"Ministry of Communications, Innovation and Digital Economy, Nigeria",NGA,government,auto
 ministry-digital-economy-cabo-verde,ministry-digital-economy-cabo-verde,"Ministério da Economia Digital, Cape Verde",CPV,government,auto
-ministry-digital-economy-djibouti,ministry-digital-economy-djibouti,"Ministry of Digital Economy and Innovation, Djibouti",DJI,government,auto
+ministry-digital-economy-djibouti,ministere-economie-numerique-innovation-djibouti,"Ministry of Digital Economy and Innovation, Djibouti",DJI,government,hand
 ministry-digital-economy-guinea,ministry-digital-economy-guinea,"Ministère des Postes, des Télécommunications et de l’Économie numérique, Guinea",GIN,government,auto
 ministry-digital-transformation-djibouti,ministry-digital-transformation-djibouti,"Ministère de la Transformation numérique, Djibouti",DJI,government,auto
 ministry-digital-transformation-sudan,ministry-digital-transformation-sudan,"Ministry of Digital Transformation and Communications, Sudan",SDN,government,auto
@@ -3735,6 +3744,7 @@ ministry-of-basic-education-cameroon,ministry-of-basic-education-cameroon,"Minis
 ministry-of-child-welfare-and-basic-education-botswana,ministry-of-child-welfare-and-basic-education-botswana,"Ministry of Child Welfare and Basic Education, Botswana",BWA,government,auto
 ministry-of-civil-service-libya,ministry-of-civil-service-libya,"Ministry of Civil Service, Libya",LBY,government,auto
 ministry-of-commerce-and-industry-cote-divoire,ministry-of-commerce-and-industry-cote-divoire,"Ministry of Commerce and Industry, Cote d'Ivoire",CIV,government,auto
+ministry-of-commerce-and-industry-india,ministry-of-commerce-and-industry-india,"Ministry of Commerce and Industry, India",IND,government,auto
 ministry-of-commerce-and-industry-liberia,ministry-of-commerce-and-industry-liberia,"Ministry of Commerce and Industry, Liberia",LBR,government,auto
 ministry-of-commerce-and-industry-niger,ministry-of-commerce-and-industry-niger,"Ministère du Commerce et de l’Industrie, Niger",NER,government,auto
 ministry-of-commerce-and-industry-somalia,ministry-of-commerce-and-industry-somalia,"Ministry of Commerce and Industry, Somalia",SOM,government,auto
@@ -3772,7 +3782,7 @@ ministry-of-digital-economy-car,ministry-of-digital-economy-car,"Ministry of Dig
 ministry-of-digital-economy-gambia,ministry-of-digital-economy-gambia,"Ministry of Digital Economy, Gambia",GMB,government,auto
 ministry-of-digital-transformation-and-telecommunications-sudan,ministry-of-digital-transformation-and-telecommunications-sudan,"Ministry of Digital Transformation and Telecommunications, Sudan",SDN,government,auto
 ministry-of-digital-transformation-mauritania,ministry-of-digital-transformation-mauritania,"Ministry of Digital Transformation, Mauritania",MRT,government,auto
-ministry-of-digital-transition-and-administrative-reform-morocco,ministry-of-digital-transition-and-administrative-reform-morocco,"Ministry of Digital Transition and Administrative Reform, Morocco",MAR,government,auto
+ministry-of-digital-transition-and-administrative-reform-morocco,ministry-of-digital-transition-morocco,"Ministry of Digital Transition and Administrative Reform, Morocco",MAR,government,hand
 ministry-of-digital-transition-cote-divoire,ministry-of-digital-transition-cote-divoire,"Ministry of Digital Transition and Technological Innovation, Cote d'Ivoire",CIV,government,auto
 ministry-of-digital-transition-morocco,ministry-of-digital-transition-morocco,"Ministry of Digital Transition and Administrative Reform, Morocco",MAR,government,auto
 ministry-of-digitalisation-and-statistics-algeria,ministry-of-digitalisation-and-statistics-algeria,"Ministère de la Numérisation et des Statistiques, Algeria",DZA,government,auto
@@ -3986,7 +3996,7 @@ ministry-of-housing-and-urban-development-eswatini,ministry-of-housing-and-urban
 ministry-of-housing-and-urban-development-nigeria,ministry-of-housing-and-urban-development-nigeria,"Ministry of Housing and Urban Development, Nigeria",NGA,government,auto
 ministry-of-housing-egypt,ministry-of-housing-egypt,"Ministry of Housing, Egypt",EGY,government,auto
 ministry-of-humanitarian-affairs-disaster-management-southwest-state,ministry-of-humanitarian-affairs-disaster-management-southwest-state,"Ministry of Humanitarian Affairs and Disaster Management, Somalia",SOM,government,auto
-ministry-of-hydraulics-algeria,ministry-of-hydraulics-algeria,"Ministère de l’Hydraulique, Algeria",DZA,government,auto
+ministry-of-hydraulics-algeria,ministere-hydraulique-algerie,"Ministère de l’Hydraulique, Algeria",DZA,government,hand
 ministry-of-ict-and-digital-economy-kenya,ministry-of-ict-and-digital-economy-kenya,"Ministry of Information, Communications and the Digital Economy, Kenya",KEN,government,auto
 ministry-of-ict-and-national-guidance-uganda,ministry-of-ict-and-national-guidance-uganda,"Ministry of ICT and National Guidance, Uganda",UGA,government,auto
 ministry-of-ict-and-postal-services-south-sudan,ministry-of-ict-and-postal-services-south-sudan,"Ministry of ICT and Postal Services, South Sudan",SSD,government,auto
@@ -4025,13 +4035,13 @@ ministry-of-information-press-culture-and-tourism-equatorial-guinea,ministry-of-
 ministry-of-information-publicity-and-broadcasting-services-zimbabwe,ministry-of-information-publicity-and-broadcasting-services-zimbabwe,"Ministry of Information, Publicity and Broadcasting Services, Zimbabwe",ZWE,government,auto
 ministry-of-information-somalia,ministry-of-information-somalia,Somalia’s Ministry of Information,SOM,government,auto
 ministry-of-information-south-sudan,ministry-of-information-south-sudan,"Ministry of Information, South Sudan",SSD,government,auto
-ministry-of-information-technology-communication-and-innovation-mauritius,ministry-of-information-technology-communication-and-innovation-mauritius,"Ministry of Information Technology, Communication and Innovation, Mauritius",MUS,government,auto
+ministry-of-information-technology-communication-and-innovation-mauritius,ministry-ict-mauritius,"Ministry of Information Technology, Communication and Innovation, Mauritius",MUS,government,hand
 ministry-of-infrastructure-and-transport-sudan,ministry-of-infrastructure-and-transport-sudan,"Ministry of Infrastructure and Transport, Sudan",SDN,government,auto
 ministry-of-innovation-and-technology-ethiopia,ministry-of-innovation-and-technology-ethiopia,"Ministry of Innovation and Technology, Ethiopia",ETH,government,auto
 ministry-of-innovation-science-and-technology-nigeria,ministry-of-innovation-science-and-technology-nigeria,"Ministry of Innovation, Science and Technology, Nigeria",NGA,government,auto
 ministry-of-interior-algeria,ministry-of-interior-algeria,"Ministère de l'Intérieur, des Collectivités locales et des Transports, Algeria",DZA,government,auto
 ministry-of-interior-and-national-administration-kenya,ministry-of-interior-and-national-administration-kenya,"Ministry of Interior and National Administration, Kenya",KEN,government,auto
-ministry-of-interior-benin,ministry-of-interior-benin,"Ministère de l’Intérieur et de la Sécurité publique, Benin",BEN,government,auto
+ministry-of-interior-benin,ministere-interieur-securite-publique-benin,"Ministère de l’Intérieur et de la Sécurité publique, Benin",BEN,government,hand
 ministry-of-interior-burundi,ministry-of-interior-burundi,"Ministry of the Interior, Burundi",BDI,government,auto
 ministry-of-interior-comoros,ministry-of-interior-comoros,"Ministère de l'Intérieur, Comoros",COM,government,auto
 ministry-of-interior-congo,ministry-of-interior-congo,"Ministry of Interior, Congo",COG,government,auto
@@ -4175,7 +4185,7 @@ ministry-of-public-works-liberia,ministry-of-public-works-liberia,"Ministry of P
 ministry-of-public-works-reconstruction-and-housing-somalia,ministry-of-public-works-reconstruction-and-housing-somalia,"Ministry of Public Works, Somalia",SOM,government,auto
 ministry-of-regional-local-government-and-housing-namibia,ministry-of-regional-local-government-and-housing-namibia,"Ministry of Regional Local Government and Housing, Namibia",NAM,government,auto
 ministry-of-revenue-ethiopia,ministry-of-revenue-ethiopia,"Ministry of Revenues, Ethiopia",ETH,government,auto
-ministry-of-revenues-ethiopia,ministry-of-revenues-ethiopia,"Ministry of Revenues, Ethiopia",ETH,government,auto
+ministry-of-revenues-ethiopia,ministry-of-revenue-ethiopia,"Ministry of Revenues, Ethiopia",ETH,government,hand
 ministry-of-roads-and-highways-ghana,ministry-of-roads-and-highways-ghana,"Ministry of Roads and Highways, Ghana",GHA,government,auto
 ministry-of-safety-and-security-namibia,ministry-of-safety-and-security-namibia,"Ministry of Safety and Security, Namibia",NAM,government,auto
 ministry-of-science-and-ict-korea,ministry-of-science-and-ict-korea,"Ministry of Science and ICT, South Korea",KOR,government,auto
@@ -4227,9 +4237,10 @@ ministry-of-transport-and-communications-botswana,ministry-of-transport-and-comm
 ministry-of-transport-and-infrastructural-development-zimbabwe,ministry-of-transport-and-infrastructural-development-zimbabwe,"Ministry of Transport and Infrastructural Development, Zimbabwe",ZWE,government,auto
 ministry-of-transport-and-infrastructure-botswana,ministry-of-transport-and-infrastructure-botswana,"Ministry of Transport and Infrastructure, Botswana",BWA,government,auto
 ministry-of-transport-and-logistics-ethiopia,ministry-of-transport-and-logistics-ethiopia,"Ministry of Transport and Logistics, Ethiopia",ETH,government,auto
-ministry-of-transport-and-logistics-mozambique,ministry-of-transport-and-logistics-mozambique,"Ministério dos Transportes e Logística, Mozambique",MOZ,government,auto
+ministry-of-transport-and-logistics-mozambique,ministerio-dos-transportes-e-logistica-mocambique,"Ministério dos Transportes e Logística, Mozambique",MOZ,government,hand
 ministry-of-transport-and-logistics-zambia,ministry-of-transport-and-logistics-zambia,"Ministry of Transport and Logistics, Zambia",ZMB,government,auto
 ministry-of-transport-chad,ministry-of-transport-chad,"Ministry of Transport, Chad",TCD,government,auto
+ministry-of-transport-egypt,ministry-of-transport-egypt,"Ministry of Transport, Egypt",EGY,government,auto
 ministry-of-transport-ghana,ministry-of-transport-ghana,"Ministry of Transport, Ghana",GHA,government,auto
 ministry-of-transport-liberia,ministry-of-transport-liberia,"Ministry of Transport, Liberia",LBR,government,auto
 ministry-of-transport-malawi,ministry-of-transport-malawi,"Ministry of Transport, Malawi",MWI,government,auto
@@ -4645,6 +4656,7 @@ nigeria-ai-governance-forum,nigeria-ai-governance-forum,Nigeria AI Governance Fo
 nigeria-customs-service,nigeria-customs-service,Nigeria Customs Service,NGA,other,auto
 nigeria-governors-forum,nigeria-governors-forum,Nigeria Governors’ Forum,NGA,other,auto
 nigeria-id4d,nigeria-id4d,Nigeria ID4D,NGA,other,auto
+nigeria-internet-registration-association,nigeria-internet-registration-association,Nigeria Internet Registration Association,NGA,other,auto
 nigeria-ministry-communications-innovation-digital-economy,nigeria-ministry-communications-innovation-digital-economy,"Ministère de la Communication, de l'Innovation et de l'Économie numérique, Nigeria",NGA,government,auto
 nigeria-national-single-window,nigeria-national-single-window,Nigeria’s National Single Window,NGA,other,auto
 nigeria-police-force,nigeria-police-force,Nigeria Police Force,NGA,other,auto
@@ -4752,6 +4764,7 @@ observatoire-national-developpement-humain-maroc,observatoire-national-developpe
 observatoire-national-marches-publics-tunisie,observatoire-national-marches-publics-tunisie,Observatoire National des Marchés Publics,TUN,other,auto
 occ-drc,occ-drc,Office Congolais de Contrôle,COD,other,auto
 ocp,ocp,Groupe OCP,MAR,other,auto
+ocpv,ocpv,Office d'aide à la commercialisation des produits vivriers (OCPV),CIV,other,auto
 octotel,octotel,Octotel,ZAF,other,auto
 oddeg,oddeg,ODDEG,DJI,other,auto
 odi,odi,OTIMS. The ODI,XAF,other,auto
@@ -5694,6 +5707,7 @@ st-digital-gabon,st-digital-gabon,ST DIGITAL GABON,GAB,other,auto
 stakpak,stakpak,Stakpak,EGY,other,auto
 stanbic-bank-botswana,stanbic-bank-botswana,Stanbic Bank Botswana,BWA,other,auto
 stanbic-bank-ghana,stanbic-bank-ghana,Stanbic Bank Ghana,GHA,other,auto
+stanbic-bank-uganda,stanbic-bank-uganda,Stanbic Bank Uganda,UGA,other,auto
 stanbic-bank-zambia,stanbic-bank-zambia,Stanbic Bank Zambia,ZMB,other,auto
 stanbic-ibtc,stanbic-ibtc,Stanbic IBTC,NGA,other,auto
 standard-bank,standard-bank,Standard Bank,ZAF,other,auto
@@ -5743,7 +5757,7 @@ studia-inc,studia-inc,Studia Inc,MDG,other,auto
 sudan-civil-registry,sudan-civil-registry,Civil Registry,SDN,other,auto
 sudan-commercial-registrar,sudan-commercial-registrar,Commercial Registrar,SDN,other,auto
 sudan-customs-authority,sudan-customs-authority,Customs Authority,SDN,other,auto
-sudan-federal-ministry-of-health,sudan-federal-ministry-of-health,"Federal Ministry of Health, Sudan",SDN,government,auto
+sudan-federal-ministry-of-health,ministry-of-health-sudan,"Federal Ministry of Health, Sudan",SDN,government,hand
 sudan-ministry-of-agriculture-irrigation,sudan-ministry-of-agriculture-irrigation,"Ministry of Agriculture and Irrigation, Sudan",SDN,government,auto
 sudan-ministry-of-interior,sudan-ministry-of-interior,Sudan Ministry of Interior,SDN,government,auto
 sudan-ministry-of-justice,sudan-ministry-of-justice,Sudan Ministry of Justice,SDN,government,auto
@@ -6175,6 +6189,7 @@ valr,valr,CEO of VALR,ZAF,other,auto
 valu,valu,AZ Valu,EGY,other,auto
 vambo-ai,vambo-ai,Vambo AI,ZAF,other,auto
 vantage,vantage,Vantage,ZAF,other,auto
+vanu,vanu,Vanu Inc,BEN,other,auto
 vaulfi,vaulfi,VaulFi,DZA,other,auto
 vcl-financial-services,vcl-financial-services,VCL Financial Services,LSO,other,auto
 vea-capital-partners,vea-capital-partners,VEA Capital Partners,ZAF,other,auto
@@ -6256,6 +6271,7 @@ wefi,wefi,Women Entrepreneurs Finance Initiative,MDG,other,auto
 wego,wego,Valu and Wego,EGY,other,auto
 wekraft,wekraft,Wekraft,RWA,other,auto
 welight,welight,WeLight,MDG,other,auto
+west-africa-civil-society-institute,west-africa-civil-society-institute,West Africa Civil Society Institute,XWA,other,auto
 west-africa-peering-forum,west-africa-peering-forum,West Africa Peering Forum,XWA,other,auto
 west-pokot-county-government,west-pokot-county-government,West Pokot County,KEN,other,auto
 western-cape-department-of-agriculture,western-cape-department-of-agriculture,Western Cape Department of Agriculture,ZAF,other,auto
