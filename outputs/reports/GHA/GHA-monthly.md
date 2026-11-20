@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: GHA
-ledger_rows: 77
+ledger_rows: 81
 not_held: 9
-record: ddd3d087a350
+record: 895e018847f4
 ---
 
 # News, Oct – Nov 2026
@@ -28,12 +28,16 @@ record: ddd3d087a350
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -97,6 +101,22 @@ At Digital Economy Live 2026 in Accra, Ghana's communications minister urged Afr
 **[Ghana calls for stronger digital infrastructure resilience at ITU PP-26](https://www.citinewsroom.com/2026/11/ghana-calls-for-stronger-digital-infrastructure-resilience-at-itu-pp-26/)** — Citi Newsroom, 11 November 2026
 
 Ghana's proposed Dig Once Policy is before Cabinet, minister Samuel Nartey George told an ITU session in Doha. Citi Newsroom reported the remarks on 11 November 2026. A National Emergency Telecommunications Plan is being developed. Ghana proposed an ITU Programme of Action on Resilience with timelines and measurable indicators.
+
+</div>
+
+</div>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ghana Space Agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana moves to establish space agency to strengthen local geospatial intelligence](https://techreviewafrica.com/news/8398/x)** — Tech Review Africa, 19 November 2026
+
+Cabinet approval; GSSTI to become the agency; drafting instructions with Attorney-General; imagery bought once.
 
 </div>
 
@@ -926,6 +946,20 @@ A consultant to the ECOWAS regional payment initiative has proposed that Nigeria
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open banking framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BoG develops open banking framework to facilitate customer data sharing](https://gna.org.gh/2026/11/bog-develops-open-banking-framework-to-facilitate-customer-data-sharing/)** — Ghana News Agency, 18 November 2026
+
+Governor Asiama at Invest Ghana Summit, 17 Nov 2026; consent-based data sharing; separate fintech legal framework.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -1340,6 +1374,20 @@ The ICC-TikTok Digital Commerce Labs were launched in Ghana, reported on 17 Nove
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ghana Remote Online Work (GROW) initiative</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Generation Ghana targets 50,000 jobs for young people in five years](https://www.myjoyonline.com/generation-ghana-targets-50000-jobs-for-young-people-in-five-years/)** — MyJoyOnline, 18 November 2026
+
+Country director Lomotey's target; 2,500+ supported under GROW in three years; 70% placed within 90 days.
+
+</div>
+
+</div>
+
 ## Inclusion
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
@@ -1427,6 +1475,28 @@ Ghana's communications minister Sam George gave Rural Telephony Project contract
 **[Ghana Pledges to Link Official Statistics With Maps](https://thevaultznews.com/2026/10/23/ghana-pledges-to-link-official-statistics-with-maps/)** — The Vaultz News, 23 October 2026
 
 Ghana's Government Statistician, writing on the opening of the tenth Statistical Commission for Africa, called for official statistics broken down to community level and tied to maps. He committed the Ghana Statistical Service to five steps, including early preparation for the 2031 census.
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#us-hyperscaler-activities">US / hyperscaler activities</a>
+</nav>
+
+### US / hyperscaler activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">USTDA-funded Vanu base-station feasibility study</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[U.S. Challenges China's Dominance in African Telecom Markets](https://insidetowers.com/u-s-challenges-chinas-dominance-in-african-telecom-markets/)** — Inside Towers, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+USTDA-funded study of ~1,500 Vanu base stations for Benin, Côte d'Ivoire, Ghana, Nigeria; launched May 2026.
 
 </div>
 
