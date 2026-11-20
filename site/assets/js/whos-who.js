@@ -179,7 +179,7 @@
     box.className = 'dl-datatable';
     box.setAttribute('data-defer', '');
     box.dataset.src = url;
-    box.dataset.cols = 'name,position,organisation,country,year,sources';
+    box.dataset.cols = 'name,year,position,organisation,country,sources';
     box.dataset.numeric = 'sources';
     // 50 characters a line for the three long columns (Bill, 2026-11-20).
     box.dataset.colChars = '{"name":50,"position":50,"organisation":50}';
