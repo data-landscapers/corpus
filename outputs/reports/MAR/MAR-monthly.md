@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: MAR
-ledger_rows: 39
+ledger_rows: 40
 not_held: 13
-record: d30ee991adfa
+record: 2d5fadaf8008
 ---
 
 # News, Oct – Nov 2026
@@ -615,6 +615,20 @@ Morocco's General Directorate of National Security opened its Epolice portal on 
 **[Morocco Plans Automatic National Roaming to Improve Telecom Coverage](https://www.telecomreviewafrica.com/articles/reports-and-coverage/29497-morocco-plans-automatic-national-roaming-to-improve-telecom-coverage/)** — Africa Telecom Review, 18 November 2026
 
 Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Watiqa civil-status document portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[عطب «وثيقة» مستمر ... حين تتعطل الرقمنة ويعود المواطن إلى الطوابير](https://marsad.app/news/6afe277050f276281706ef9c/)** — Marsad (Hiba Press), 18 November 2026
+
+Civil-status document portal down for days; 2,408 registry offices linked; MAD 194.4m registry digitisation tender.
 
 </div>
 
