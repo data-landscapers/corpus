@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: MLI
-ledger_rows: 19
+ledger_rows: 20
 not_held: 1
-record: 3a30d2569293
+record: 67a5879f3056
 ---
 
 # News, Oct – Nov 2026
@@ -167,12 +167,30 @@ Mali's computer incident response centre ML-CERT launched a web platform for rep
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">DHIS2-OSPSANTE health data interoperability</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Interopérabilité DHIS2–OSPSANTE : la DPM a réuni les administrateurs des deux plateformes à Koulikoro](https://www.dirpharma.ml/index.php/fr/blog/interoperabilite-dhis2-ospsante-atelier-koulikoro-2026)** — Direction de la Pharmacie et du Médicament (Mali), 19 November 2026
+
+Mali's Directorate of Pharmacy and Medicines held a workshop in Koulikoro on 17 and 18 November 2026, with UNICEF support. It restored automatic data migration between DHIS2, the national health information platform, and OSPSANTE, the health-logistics system. Corrections covered the HIV and laboratory form, organisation-unit groups and the facility list. Batch transfer of facility data was due to start on 19 November 2026.
+
+</div>
+
+</div>
 
 ### Digital Payments and Fintech
 
