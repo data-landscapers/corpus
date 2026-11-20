@@ -1,5 +1,6 @@
 ## 20 November 2026
 
+- Every CSV download now opens in Excel with accented names intact, such as Côte d'Ivoire and São Tomé. Files you downloaded before may still show them garbled; download them again.
 - Zimbabwe's 2027 budget is on the Finance page: twenty ICT ministry projects from the budget statement presented on 19 November, ZiG305m in all. They are proposals, and give way to the estimates once those are read.
 
 ## 17 November 2026

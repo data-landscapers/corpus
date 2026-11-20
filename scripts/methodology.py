@@ -73,7 +73,7 @@ from datetime import date
 from pathlib import Path
 
 import markdown
-from chrome_lib import chrome, external_links, feedback, foot, ga, info, script, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, info, script, styles, with_bom  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 CONTENT_DIR = CORPUS / "content"
@@ -213,7 +213,7 @@ def lookup_tables(text: str, out_dir: Path) -> str:
             if name not in DERIVED:
                 raise SystemExit(f"methodology.py: no derived table {name!r} for {heading!r}.")
             header, rows = DERIVED[name]()
-            with open(out_dir / f"{name}.csv", "w", encoding="utf-8", newline="") as fh:
+            with open(out_dir / f"{name}.csv", "w", encoding="utf-8-sig", newline="") as fh:
                 csv.writer(fh, lineterminator="\n").writerows([header] + rows)
             written.add(f"{name}.csv")
             out += csv_button(f"{name}.csv") + md_table(header, rows)
@@ -245,7 +245,9 @@ def lookup_tables(text: str, out_dir: Path) -> str:
             if src.is_relative_to(CORPUS / "site"):
                 href = Path(os.path.relpath(src, out_dir)).as_posix()
             else:
-                shutil.copyfile(src, out_dir / src.name)
+                body = with_bom(src.read_bytes())          # a site CSV carries a BOM
+                if not (out_dir / src.name).exists() or (out_dir / src.name).read_bytes() != body:
+                    (out_dir / src.name).write_bytes(body)
                 written.add(src.name)
                 href = src.name
             out += csv_button(href) + md_table(header, rows)
@@ -257,7 +259,7 @@ def lookup_tables(text: str, out_dir: Path) -> str:
                 block.append(lines[i])
                 i += 1
             name = f"{slug(heading)}.csv"
-            with open(out_dir / name, "w", encoding="utf-8", newline="") as fh:
+            with open(out_dir / name, "w", encoding="utf-8-sig", newline="") as fh:
                 csv.writer(fh, lineterminator="\n").writerows(
                     [c.strip() for c in row.strip().strip("|").split("|")]
                     for k, row in enumerate(block) if k != 1)

@@ -372,6 +372,18 @@ def feedback(what: str, url: str) -> str:
     return f'<a class="feedback-ask" href="{feedback_href(what, url)}">{FEEDBACK_LABEL}</a>'
 
 
+BOM = "\ufeff".encode("utf-8")
+
+
+def with_bom(body: bytes) -> bytes:
+    """**Every CSV the site publishes starts with a UTF-8 byte-order mark** *(Bill,
+    2026-11-20)*. Excel opens a CSV without one in the local code page and turns every
+    *é* in a name into two characters. One helper, so a new writer has one thing to call;
+    `scripts/lint-csv-bom.py` fails the render on a site CSV without it, and a browser
+    download is cut with `'\ufeff' +` in its script."""
+    return body if body.startswith(BOM) else BOM + body
+
+
 def feedback_href(what: str, url: str) -> str:
     """The `mailto:` itself, with the page named in the subject and repeated in
     the body — a subject line is the first thing a forwarded mail loses.
@@ -402,6 +414,22 @@ def feedback_row(what: str, url: str) -> str:
 INFO_MD = Path(__file__).resolve().parents[1] / "content" / "info.md"
 
 
+def info_entry(key: str) -> str:
+    """One `## Heading` section of `content/info.md`, its Markdown as written, matched to `key`
+    ignoring case; a missing key is a build error. Also how a page takes text Bill edits that
+    is not its popover, such as the Who's Who disclaimer *(Bill, 2026-11-20)*."""
+    entries = {h.strip().lower(): b.strip()
+               for h, b in re.findall(r"^## ([^\n]+)\n(.*?)(?=^## |\Z)",
+                                      INFO_MD.read_text(encoding="utf-8"), re.M | re.S)}
+    return entries[key.lower()]
+
+
+def info_html(key: str) -> str:
+    """`info_entry` as HTML, for text set on the page itself."""
+    import markdown
+    return markdown.markdown(info_entry(key), extensions=["sane_lists"])
+
+
 def info(key: str) -> tuple[str, str]:
     """The ⓘ beside a page title and the panel it opens: `(button, panel)`.
 
@@ -411,10 +439,7 @@ def info(key: str) -> tuple[str, str]:
     opens, closes on Esc or an outside click, and takes the keyboard with no script. A key with
     no entry is a build error, not a page without its explanation."""
     import markdown
-    entries = {h.strip().lower(): b.strip()
-               for h, b in re.findall(r"^## ([^\n]+)\n(.*?)(?=^## |\Z)",
-                                      INFO_MD.read_text(encoding="utf-8"), re.M | re.S)}
-    text = entries[key.lower()]
+    text = info_entry(key)
     # A list may follow its lead-in line directly, as people write one; Markdown wants a blank
     # line first and otherwise prints the dashes inside the paragraph.
     text = re.sub(r"^(?![-*] |\d+\. )(.+)\n(?=[-*] |\d+\. )", r"\1\n\n", text, flags=re.M)

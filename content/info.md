@@ -110,4 +110,6 @@ Nothing shows until you search. Search names, positions or organisations (three 
 
 *All rows* downloads the whole list; *These rows* downloads the rows on screen.
 
+## Who's Who disclaimer
+
 Each row is what one or more sources say for one year. The list holds what our sources happen to say, with gaps: a missing row is not a vacant post, and an organisation's rows are not a line of succession.

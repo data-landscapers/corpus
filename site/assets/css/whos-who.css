@@ -29,12 +29,21 @@
   clip-path: inset(0 -100vmax);
 }
 
+/* The disclaimer sits under the search at the table's width, so it can run longer
+   without taking header space (Bill, 2026-11-20). The breakout is datatable.css's. */
 .whos-who .ww-caution {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: var(--ink-light);
   border-left: 3px solid var(--rule);
   padding-left: 0.8rem;
-  max-width: 44rem;
+  margin: 0.4rem 0 0;
+}
+.whos-who .ww-caution p { margin: 0 0 0.4rem; }
+@media (min-width: 1040px) {
+  .whos-who .ww-caution {
+    width: min(94vw, var(--dt-max, 1800px));
+    margin-left: calc(50% - min(47vw, var(--dt-max, 1800px) / 2));
+  }
 }
 
 .whos-who .ww-search {

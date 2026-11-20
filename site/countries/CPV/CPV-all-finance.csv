@@ -1,4 +1,4 @@
-side,year,primary_topic,usd_m,payer,recipient,title,description,stage,scope,url,deal_id
+﻿side,year,primary_topic,usd_m,payer,recipient,title,description,stage,scope,url,deal_id
 Public budget,2027,Other GovTech and e-Gov,0.668,Cape Verde (state budget),Fundo de Modernização da Justiça,Fundo de Modernização da Justiça,"Fund for modernising the justice system, financed from the proceeds of seized assets.",proposed,unclear,,cpv-2027-fundo-modernizacao-justica
 Public budget,2027,Other GovTech and e-Gov,0.442,Cape Verde (state budget),Casa do Cidadão,Casa do Cidadão - Implementação Novas Infraestruras Tecnológicas,"New technology infrastructure for the citizen-service agency, paid from its own service fees.",proposed,whole,,cpv-2027-casa-cidadao-infraestruturas-tecnologicas
 Public budget,2027,Connectivity,1.209,Cape Verde (state budget),Fundo de Serviço Universal e Desenvolvimento da Sociedade de Informação (FUSI),Fundo de Serviço Universal e Desenvolvimento da Sociedade de Informação (FUSI),Universal-service and information-society fund financed by operator contributions and the spectrum fee.,proposed,whole,,cpv-2027-fusi

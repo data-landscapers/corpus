@@ -1,4 +1,4 @@
-column,label,type,values,definition
+﻿column,label,type,values,definition
 iso3,Country code,code,ISO3,"The country the institution belongs to, as a three-letter code (KEN is Kenya)."
 type,Institution type,text,one of 36 types,"The kind of institution, such as Central Bank or Defence."
 institution,Institution,text,,The institution's name.

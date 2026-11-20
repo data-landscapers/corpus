@@ -1,4 +1,4 @@
-Column,Definition
+﻿Column,Definition
 indicator_id,"The indicator, as listed in lookups/indicators.csv: the subject before the double hyphen, the indicator after it"
 stage,"Where the country stands against the continental norm as at the month end: 1 Absent, 2 Nascent, 3 Established, 4 Operating, 5 Leading. Empty means unplaced: evidence is held but satisfies no stage. An indicator with no row has no evidence (No evidence)"
 stage_rows,"The rows of the country's ledger (outputs/reports/{ISO3}/ledger.csv) that satisfy the stage's anchor, separated by |. Empty for a measure that stands on a figure alone"

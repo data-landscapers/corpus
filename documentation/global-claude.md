@@ -33,6 +33,8 @@ Cowork and Claude Code have read/write on Corpus and Data-landscapers. **Neither
 
 **Improve a shared thing upstream, then copy down.** A fix made in the Corpus copy is a fix the other site does not get, and the next copy down silently reverts it.
 
+**Every CSV either site publishes starts with a UTF-8 BOM** *(Bill, 2026-11-20)*, files and in-browser downloads alike, so Excel reads accented names. Corpus writers call `chrome_lib.with_bom` and `scripts/lint-csv-bom.py` fails the render on a miss.
+
 ## Committing
 
 **Commit after every change, not at the end of a session** *(Bill, 2026-08-06)*. One commit per coherent change, with a terse subject saying what changed. An uncommitted working tree is the one state that is not reversible, and a session that batches its commits leaves everything since the last one at risk together.

@@ -1,4 +1,4 @@
-column,v2_name,label,type,values,derived,definition,guidance
+﻿column,v2_name,label,type,values,derived,definition,guidance
 facility_id,,ID,id,ISO3-NNN,,Permanent identifier for the facility.,The country's ISO3 code followed by the next free number in that country. An ID is never reissued: a facility that closes keeps its ID and is marked Decommissioned.
 facility_name,,Facility,text,,,The facility's name as its operator markets it.,"Include any site suffix the operator uses (Teraco JB1). If a facility has no public name, use '[Operator] [City]'. Use the English name, with a local-language name in brackets if that is the one commonly used."
 country,,ISO3,code,ISO3 from lookups/countries.csv,,The country where the facility is.,

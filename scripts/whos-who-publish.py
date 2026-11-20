@@ -53,7 +53,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import whos_who_lib as W  # noqa: E402
 from chrome_lib import (MAIN_SITE, SITE_BASE, chrome, external_links, feedback,  # noqa: E402
-                        feedback_href, foot, ga, info, script, styles)
+                        feedback_href, foot, ga, info, info_entry, info_html, script, styles)
 
 ROOT = W.ROOT
 POSITIONS = ROOT / "build" / "whos-who" / "positions.csv"
@@ -73,9 +73,9 @@ ROBOTS = '<meta name="robots" content="noindex, nofollow">\n'
 
 # What every view and the download say the rows are (§8a). One copy: the page, the
 # metadata file and, at launch, the method section all quote it.
-CAUTION = ("Each row is what one or more sources say for one year. The list holds what our sources "
-           "happen to say, with gaps: a missing row is not a vacant post, and an "
-           "organisation's rows are not a line of succession.")
+# The disclaimer is Bill's to edit, in `content/info.md` -> *Who's Who disclaimer*: set
+# under the search at the table's width, and the metadata's `(all)` row as plain text.
+CAUTION = " ".join(re.sub(r"[*_`]", "", info_entry("Who's Who disclaimer")).split())
 
 FIELDS = [
     ("name", "The person's name, in the fullest form the sources give."),
@@ -272,7 +272,7 @@ def csv_text(cols, rows) -> str:
     w = csv.writer(buf, lineterminator="\n")
     w.writerow(cols)
     w.writerows(rows)
-    return buf.getvalue()
+    return "\ufeff" + buf.getvalue()              # every site CSV carries a BOM (chrome_lib.with_bom)
 
 
 def write_if_changed(path: Path, text: str) -> bool:
@@ -311,8 +311,6 @@ PAGE = """<!DOCTYPE html>
     </header>
     {info_panel}
 
-    <p class="ww-caution">{caution}</p>
-
     <!-- The search bar and the status stay put while the rows scroll; the table parks
          its header beneath them (`data-dt-above`, datatable v6). -->
     <div class="ww-bar" data-dt-above>
@@ -328,6 +326,8 @@ PAGE = """<!DOCTYPE html>
 
     <p class="ww-status" id="ww-status" aria-live="polite">Search at least three letters, or choose a country or an organisation.</p>
     </div>
+
+    <div class="ww-caution">{caution}</div>
     <div id="ww-results" class="ww-results"></div>
 
     <p class="ww-correct">Something wrong, or a row about you that you want removed? <a href="{correct}">Write to us</a>.</p>
@@ -352,7 +352,7 @@ def page(b: dict) -> str:
     return external_links(PAGE.format(
         url=URL, robots=ROBOTS, styles=styles(1, "datatable.css", "whos-who.css"),
         main=MAIN_SITE, ga=ga(), chrome=chrome(None, depth=1),
-        feedback=feedback("Who's Who", URL), caution=html.escape(CAUTION),
+        feedback=feedback("Who's Who", URL), caution=info_html("Who's Who disclaimer"),
         info_btn=info("Who's Who")[0], info_panel=info("Who's Who")[1],
         people=b["people"], orgs=b["orgs"], count=len(b["rows"]), sources=b["sources"],
         place_opts=opts,

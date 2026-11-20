@@ -1,4 +1,4 @@
-sector_id,cofog,label,definition
+﻿sector_id,cofog,label,definition
 exec,01.1,Executive and legislature,"Presidency, prime minister, cabinet and government secretariat, parliament, and oversight bodies (audit, ombudsman, anti-corruption, electoral commission)."
 finance,01.1,"Finance, revenue and financial services","Finance, budget, treasury, tax and customs administration, economic planning and public investment, state portfolio; and the financial sector: central banks, banks, payment providers and fintech firms."
 foreign,01.1,Foreign affairs,"Foreign affairs, diplomatic missions and regional integration ministries."

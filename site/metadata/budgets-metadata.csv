@@ -1,4 +1,4 @@
-column,label,type,values,definition
+﻿column,label,type,values,definition
 country,Country,code,ISO3,"The country whose budget the line is in, as a three-letter code (KEN is Kenya)."
 report_year,Year,year,,The year the fiscal year starts in. A 2024/25 budget that starts in April 2024 is 2024.
 primary_topic,Topic,text,a Level 2 label in the topic taxonomy,"What the money is for, as the topic taxonomy's name for primary_topic_id."

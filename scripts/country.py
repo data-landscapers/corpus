@@ -76,7 +76,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy_inline, copy_md  # noqa: E402
 import structured_data  # noqa: E402
 from datatable_bake import table_page  # noqa: E402  - a table's first rows, written into its page
-from chrome_lib import chrome, feedback, foot, ga, info, script, styles  # noqa: E402
+from chrome_lib import chrome, feedback, foot, ga, info, script, styles, with_bom  # noqa: E402
 import editions  # noqa: E402  — §9's filename grammar has one implementation
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -312,7 +312,7 @@ def publish_budget_csv(iso: str, out_dir: Path, header: list[str],
     w = csv.DictWriter(buf, fieldnames=header, lineterminator="\n", extrasaction="ignore")
     w.writeheader()
     w.writerows(rows)
-    body = ("﻿" + buf.getvalue()).encode("utf-8")
+    body = ("\ufeff" + buf.getvalue()).encode("utf-8")
     stem = f"{iso}-budgets"
     if BUDGETS_DATED:
         path, _ = editions.publish(body, out_dir, stem, ".csv", page=out_dir / "budgets.html")
@@ -779,7 +779,7 @@ def publish_all_finance_csv(iso: str, out_dir: Path, rows: list[dict]) -> dict[s
     w = csv.DictWriter(buf, fieldnames=[f for f, _ in ALL_FIELDS], lineterminator="\n")
     w.writeheader()
     w.writerows(rows)
-    body = buf.getvalue().encode("utf-8")
+    body = with_bom(buf.getvalue().encode("utf-8"))
     stem = f"{iso}-all-finance"
     if BUDGETS_DATED:
         path, _ = editions.publish(body, out_dir, stem, ".csv", page=out_dir / "all-finance.html")

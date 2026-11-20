@@ -1,4 +1,4 @@
-side,year,primary_topic,usd_m,payer,recipient,title,description,stage,scope,url,deal_id
+﻿side,year,primary_topic,usd_m,payer,recipient,title,description,stage,scope,url,deal_id
 Public budget,2027,Training and skills,0.055,DR Congo (state budget),École Informatique des Finances,"FINANCES — École Informatique des Finances (Interventions Économiques, Sociales, Culturelles et Scientifiques)",Economic and social transfers of the finance ministry's school of computing.,proposed,whole,,cod-2027-30-30801-int
 Public budget,2027,Training and skills,4.162,DR Congo (state budget),École Informatique des Finances,FINANCES — École Informatique des Finances (Rémunérations),Staff pay of the finance ministry's school of computing.,proposed,whole,,cod-2027-30-30801-rem
 Public budget,2027,Training and skills,0.203,DR Congo (state budget),École Informatique des Finances,FINANCES — École Informatique des Finances (Subventions aux Organismes Auxiliaires),Operating subsidy of the finance ministry's school of computing.,proposed,whole,,cod-2027-30-30801-soa

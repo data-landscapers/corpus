@@ -39,7 +39,7 @@ import editions  # noqa: E402  - one implementation of the edition grammar (§9)
 from copy_lib import copy, copy_md  # noqa: E402
 import structured_data  # noqa: E402
 from datatable_bake import table_page  # noqa: E402  - a table's first rows, written into its page
-from chrome_lib import chrome, external_links, feedback, foot, ga, info, script, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, info, script, styles, with_bom  # noqa: E402
 import methodology  # noqa: E402  - the table directive and the page shell, one copy
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -139,7 +139,7 @@ def changes_csv(rows: list[dict], names: dict) -> bytes:
                     "facility_name": "All records" if r["record"] == "ALL" else names.get(r["record"], ""),
                     "change": ACTION_WORDS.get(r["action"], r["action"]), "summary": said(r),
                     "sources": r["sources"]})
-    return buf.getvalue().encode("utf-8")
+    return with_bom(buf.getvalue().encode("utf-8"))
 
 
 def changes_html(rows: list[dict], names: dict) -> str:
@@ -171,6 +171,7 @@ def publish_metadata(name: str, src: Path | None = None, facets: bool = False) -
                  .replace(b"\r\n", b"\n").split(b"\n") if ln.startswith((b"subtopic,", b"sector,"))]
         i = next(n for n, ln in enumerate(lines) if ln.startswith(b"primary_topic,")) + 1
         body = b"\n".join(lines[:i] + extra + lines[i:])
+    body = with_bom(body)
     if not dst.exists() or dst.read_bytes() != body:
         dst.write_bytes(body)
     return dst
