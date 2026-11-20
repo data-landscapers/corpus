@@ -146,6 +146,7 @@ With content-change minting, all three report types are citable.
 - **The finance CSVs are editions** — per-country `{ISO3}-nonstate-{edition}.csv`, the all-Africa file, on the same terms as the reports. The gate for a CSV is a byte comparison against the newest retained edition (a CSV from unchanged data is the same file; a PDF never is, since it carries its build date). The data CSV and its field dictionary carry independent editions.
 - **The catalogue is not an edition.** `raw-catalogue.csv` stays at its undated URL, republished wholesale on every build: every row points at a publisher's own document — the pointer, not the claim. If anyone ever cites a catalogue count as of a date, it should become an edition too.
 - **The per-country catalogue cut follows the catalogue, not the finance CSV beside it** — same columns, rows removed, undated, republished wholesale. The compiled-finding test decides between two files in one folder.
+- **The Who's Who download is not an edition** *(Bill, 2026-11-19)*. `whos-who.csv` stays at its undated URL, current only, so a removal is complete at the next build (`whos-who.md` §8).
 - **A filtered selection is a cut of the catalogue and not an edition either.** The export points at **the view's own URL**, which re-cuts against the current catalogue when opened, with the build date in the filename to say which cut the file in hand was.
 
 ### Not yet

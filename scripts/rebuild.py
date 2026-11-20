@@ -334,8 +334,10 @@ def main():
         # night's candidate batches for the reading pass, then rebuild the organisations and the
         # fact table from the cache. Soft — a finish-line fault is reported, never blocks the
         # catalogue. The reading pass is a model step after the rebuild (`WHOS-WHO-UPDATE.md`).
-        print("stage 2e — Who's Who candidates, organisations, people:")
-        for script in ("whos-who-candidates.py", "whos-who-orgs.py", "whos-who-people.py"):
+        print("stage 2e — Who's Who candidates, organisations, people, page:")
+        # `whos-who-publish.py` then cuts the page, its search data and the download (stage 5).
+        for script in ("whos-who-candidates.py", "whos-who-orgs.py", "whos-who-people.py",
+                       "whos-who-publish.py"):
             if run_soft(script, *(["--all"] if script == "whos-who-candidates.py" else [])):
                 print(f"  {script} exited non-zero; see above")
         print("stage 2a — scope lint (reports, never gates):"); scope_lint()

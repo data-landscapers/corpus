@@ -1,0 +1,58 @@
+/* whos-who.css — the Who's Who page only. Layout, never identity: the colours and
+   type are main.css's variables, and the controls borrow datatable.css's look.
+
+   The search bar sits outside the table, because a new search replaces the table
+   whole (`whos-who.js`); the table's own toolbar is hidden, so there is one search. */
+
+.whos-who .ww-caution {
+  font-size: 0.9rem;
+  color: var(--ink-light);
+  border-left: 3px solid var(--rule);
+  padding-left: 0.8rem;
+  max-width: 44rem;
+}
+
+.whos-who .ww-search {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.7rem 1rem;
+  margin: 1.2rem 0 0;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: var(--paper-warm);
+}
+
+.whos-who .ww-search input,
+.whos-who .ww-search select {
+  font-family: var(--serif);
+  font-size: 0.85rem;
+  padding: 0.35rem 0.6rem;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  background: white;
+  color: var(--ink);
+  outline: none;
+}
+.whos-who .ww-search input:focus,
+.whos-who .ww-search select:focus { border-color: var(--accent); }
+.whos-who #ww-q { flex: 1 1 16rem; min-width: 12rem; }
+.whos-who #ww-org { flex: 1 1 14rem; min-width: 10rem; }
+.whos-who #ww-place { max-width: 14rem; }
+.whos-who .ww-search .btn { white-space: nowrap; }
+.whos-who .ww-search .btn[disabled] { opacity: 0.45; cursor: default; }
+
+.whos-who .ww-status {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  color: var(--ink-faint);
+  margin: 0.6rem 0;
+}
+
+.whos-who .ww-results .dt-controls { display: none; }
+
+.whos-who .ww-ways { display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; margin: 0.4rem 0 0; }
+.whos-who .ww-src a { word-break: break-all; }
+
+.whos-who .ww-correct { font-size: 0.85rem; color: var(--ink-light); margin-top: 1.5rem; }

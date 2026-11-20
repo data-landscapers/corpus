@@ -1,4 +1,4 @@
-/* datatable.js — the shared data table for data-landscapers and Corpus. v4 (2026-10-03)
+/* datatable.js — the shared data table for data-landscapers and Corpus. v5 (2026-11-20)
 
    **This file is canonical.** It lives in `data-landscapers/assets/shared/` and
    Corpus carries a copy at `site/assets/js/datatable.js` with a `DATATABLE-FROM`
@@ -29,7 +29,9 @@
           data-full-src="data-centres-v2.csv"      offer the full dataset too
           data-metadata-src="...-metadata.csv"     offer the field dictionary
           data-min-col-width="120"                 floor under every column
-          data-empty="Nothing matches those filters.">
+          data-empty="Nothing matches those filters."
+          data-defer>                              build only when the page calls
+                                                   window.dlDatatable.build(el)
        <noscript>...</noscript>
      </div>
 
@@ -87,6 +89,22 @@
    draws PAGE at a time with a *Show 100 more* control beneath *(Bill, ruling R109)*.
    Any filter, sort or search returns to the first PAGE. One cost: the browser's
    own find does not reach a row that is not drawn. The search box does.
+
+   ── v5 (2026-11-20) ─────────────────────────────────────────────────────────
+
+   Three hooks for a page that drives the table rather than handing it a file,
+   first used by Corpus's Who's Who, which shows nothing until the reader searches.
+   None changes a table that does not use it.
+
+     - `data-defer` keeps a container out of the load-time pass; the page builds
+       it with `window.dlDatatable.build(el)` when it has the data. `data-src` may
+       then be a `blob:` URL the page cut itself. A table is built once: to show
+       other rows, the page replaces the container and builds the new one.
+     - Every render fires `dt:render` on the container, `detail` carrying
+       `headers` and `rows` — the rows as filtered and ordered, all of them and
+       not only those drawn — so a page can offer the rows on screen as a download.
+     - Opening a row fires `dt:detail`, `detail` carrying `row` and `cell`, the
+       panel's cell, so a page can add to the panel what the CSV does not hold.
 */
 (function () {
   'use strict';
@@ -849,6 +867,8 @@
             tbody.innerHTML = '';
             drawMore();
           }
+          container.dispatchEvent(new CustomEvent('dt:render',
+            { detail: { headers: headers, rows: current } }));
         }
 
         /* ── the detail panel ─────────────────────────────────────────────
@@ -876,9 +896,12 @@
           }
           var det = document.createElement('tr');
           det.className = 'dt-detail';
-          det.innerHTML = detailHtml(current[parseInt(tr.dataset.i, 10)]);
+          var row = current[parseInt(tr.dataset.i, 10)];
+          det.innerHTML = detailHtml(row);
           tr.after(det);
           tr.classList.add('dt-row--open');
+          container.dispatchEvent(new CustomEvent('dt:detail',
+            { detail: { row: row, cell: det.firstChild } }));
         }
 
         tbody.addEventListener('click', function (e) {
@@ -944,8 +967,10 @@
   }
 
   function init() {
-    document.querySelectorAll('.dl-datatable').forEach(build);
+    document.querySelectorAll('.dl-datatable:not([data-defer])').forEach(build);
   }
+
+  window.dlDatatable = { build: build };
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
   else init();

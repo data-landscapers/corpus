@@ -3,7 +3,7 @@ type: design-note
 reader: cc
 title: whos-who.md — a Who's Who index of officeholders, built in Corpus
 last_reviewed: 2026-11-20
-status: design, owned by CC; stages 1–4 done, stage 5 (publish) next; Bill's rulings are §10, results §11–§14
+status: design, owned by CC; stages 1–4 done, stage 5 live unlinked, launch owed (§15); Bill's rulings are §10, results §11–§15
 ---
 
 # Who's Who index
@@ -152,7 +152,7 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 
 **A person's view links out to the catalogue's name search** *(Bill)*, so "more" is every held document that mentions the name. The names index needs no rebuild: it holds 2,296,073 names over all 45,288 catalogue documents with no frequency cut-off. But the link is not exact. The index keys each spelling separately, so the link searches every alias and not the canonical name alone; and `names_lib.NAME` starts a name only at an ASCII capital and joins only its listed particles, so *Élisabeth* loses its first token and a lower-case *ould* splits a name in two. An alias absent from the index is left out of the search. A change to `names_lib.NAME` is its own job, since it moves `entity-names.csv` and three other readers.
 
-**Search on the page is over names and aliases**, on `shard_lib.py`'s client-side pattern, so a variant spelling finds the person. **Browse is by country, then organisation.** No A to Z of people: the corpus writes family names first and last, and the index does not know which token to file under.
+**Nothing shows until the reader searches** *(Bill, 2026-11-20)*: three letters, a country or an organisation. **Search is over names, aliases, positions and organisation names**, so a variant spelling finds the person and *minister of finance* finds the post across countries. **The organisation filter stands alone** *(Bill, 2026-11-20)*: a body with no country, or filed under the wrong one (the Gates Foundation's `place` is TZA), is one choice away; a country narrows the organisations offered and is never required. No A to Z of people: the corpus writes family names first and last, and the index does not know which token to file under. Stage 5 (§15) says how it was built.
 
 **Two people with one name are two sets of rows**, told apart only by their organisations and years. The index never adds a distinguishing label.
 
@@ -223,3 +223,13 @@ Nothing is open with Bill.
 - **Incremental:** with the newest 3,000 cache rows withheld and then added, 902 people were new, no existing id moved, and nobody lost a row. The first real pass, on 2026-11-20, read one batch of 130 sources: the 14 skipped and the arrivals since. It admitted 171 rows from 97 sources, with 33 yielding nothing and 10 tuples dropped by the position lints, for about 160k Sonnet tokens. The rebuild issued 44 new ids and retired none.
 - **Page weight:** at 33,090 rows the five-column CSV is 6.1 MB, **1.87 MB compressed against the 2 MB line**. It crosses at about 35,000 rows, weeks away. Packing people and organisations as lookups saves almost nothing (1.82 MB); the source URLs are 1.3 MB of it, and the table without them is 0.5 MB. **Stage 5 therefore ships the catalogue's split**: the four shown columns up front, the source URL fetched when a row is opened. The download stays the full five columns.
 - **Still to measure at stage 5:** the share of aliases that are exact entries in `outputs/names/`, and whether the catalogue's search takes several names and matches a whole name.
+
+## 15. Stage 5, publish, 2026-11-20
+
+**Live at `/whos-who/`, `noindex`, out of the sitemap and the nav** *(Bill: work on it live before it is linked)*. `scripts/whos-who-publish.py` writes the page, `outputs/whos-who/whos-who.csv` and its site copy, the metadata file and the search data; `rebuild.py` stage 2e runs it after `whos-who-people.py`. `site/assets/js/whos-who.js` is the search; `whos-who.css` the layout.
+
+- **The split, on demand.** `data/index.json` (people, aliases, organisations, positions, rows as offsets; 548 KB compressed at 33,229 rows) is fetched on the first search, not with the page. Source URLs are in `data/src-NNN.json`, keyed by the catalogue's append-only document id in blocks of 1,000, fetched for an opened row or a download. People are indexed by name order, never by `person_id`.
+- **The shared table, driven.** Datatable v5 (data-landscapers `33df416`) added `data-defer`, `dt:render` and `dt:detail`; each search hands the table a CSV cut in memory, and the row panel carries the source and three ways out: this name, this organisation, this name in the catalogue. The table's own toolbar is hidden, so there is one search.
+- **Lints:** `scripts/lint-whos-who.py`, RENDER Step 7, holds §8's six and two more: the index under 2 MB compressed, which `lint-page-weight.py` cannot see on a table built on demand, and no `person_id` on the site. A World Bank project id has the same shape, so URLs are not searched.
+- **Added on the way:** a correction or removal link under the results, the search kept in the fragment (`#q=`, `#country=`, `#org=`), and a row and source count over every result.
+- **Launch, owed:** drop `ROBOTS` in `whos-who-publish.py`, add the nav item in `chrome_lib.py`, write the method section in `content/methodology.md` quoting `CAUTION`, add the change-log entry, and send the `[ACT]` note on the folded tags (§12). The two measurements left from §14 go with it.
