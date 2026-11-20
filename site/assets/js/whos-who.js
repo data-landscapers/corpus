@@ -136,11 +136,13 @@
     });
   }
 
+  /* No rows to show: the table stays, headers and all, with the message in its body
+     (Bill, 2026-11-20: the column headers are always there). */
   function clear(msg) {
-    results.innerHTML = '';
     shown = [];
     dl.disabled = true;
-    status.textContent = msg;
+    status.textContent = "";                  // the message sits in the table body
+    build([], msg);
   }
 
   function run() {
@@ -169,7 +171,11 @@
     status.textContent = hits.length.toLocaleString() + (hits.length === 1 ? ' row' : ' rows')
       + ' from ' + Object.keys(src).length.toLocaleString()
       + (Object.keys(src).length === 1 ? ' source.' : ' sources.');
-    var R = D.rows, table = [['name', 'position', 'organisation', 'country', 'year', 'sources', 'row']];
+    build(hits, '');
+  }
+
+  function build(hits, empty) {
+    var R = D && D.rows, table = [['name', 'position', 'organisation', 'country', 'year', 'sources', 'row']];
     hits.forEach(function (i) {
       table.push([D.people[R.p[i]][0], D.positions[R.t[i]], D.orgs[R.o[i]][0], country(R.o[i]),
                   R.y[i], R.s[i].length, i]);
@@ -184,6 +190,7 @@
     // 50 characters a line for the three long columns (Bill, 2026-11-20).
     box.dataset.colChars = '{"name":50,"position":50,"organisation":50}';
     box.dataset.minColWidth = '60';
+    if (empty) box.dataset.empty = empty;
     box.innerHTML = '<div class="dt-controls"><span class="dt-count"></span></div>';
     box.addEventListener('dt:render', function (e) {
       var at = e.detail.headers.indexOf('row');
@@ -297,5 +304,5 @@
   place.addEventListener('change', function () { fillOrgs(); run(); });
 
   readHash();
-  if (location.hash) run();
+  if (location.hash) run(); else clear(PROMPT);   // headers from the start
 })();
