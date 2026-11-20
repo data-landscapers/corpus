@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: SEN
-ledger_rows: 59
+ledger_rows: 60
 not_held: 2
-record: cd0d970ef497
+record: defe8495c0da
 ---
 
 # News, Oct – Nov 2026
@@ -1027,6 +1027,20 @@ Senegal's statistics agency is working towards remote access for authorised rese
 **[Accord de licence de données ouvertes — ODP de l'ANSD du Sénégal](https://nso-senegal.opendataforafrica.org/hiwidxb)** — Agence Nationale de la Statistique et de la Démographie (ANSD), Sénégal, 11 November 2026
 
 The open data licence of Senegal's national statistics agency, ANSD, grants a free, worldwide, non-exclusive licence to copy, adapt and distribute its data, including commercially. Users must carry a prescribed source statement (checked 11 November 2026).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics agency data access centres in university libraries</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ziguinchor : un centre d’accès des données statistiques inauguré à la bibliothèque de l’Université Assane Seck](https://aps.sn/ziguinchor-un-centre-dacces-des-donnees-statistiques-inaugure-a-la-bibliotheque-de-luniversite-assane-seck/)** — APS, 18 November 2026
+
+Second university-library centre after UCAD; free secure microdata access via Data4Now under ANSD-UASZ protocol.
 
 </div>
 
