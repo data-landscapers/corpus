@@ -1,12 +1,12 @@
 ---
 title: Ghana: status report
-compiled: 2026-11-14
+compiled: 2026-11-20
 place: GHA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 15
-sources_cited: 361
+sources_cited: 362
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -375,7 +375,7 @@ In 2025 the World Bank found a [right-to-information law in force with a working
 ### Geospatial data
 <!-- data.geospatial -->
 
-In August 2026 a Ghanaian geospatial firm said it [runs an agricultural monitoring system on satellite imagery, and a national forest monitoring system with an AI deforestation tracker](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/). No national space or geospatial data policy had been adopted as at September 2026. By September 2026 the Lands Commission had [set up 51 continuously operating reference stations for surveying and cadastral mapping](https://gna.org.gh/2026/10/lands-commissions-digital-reform-gamechanger-for-land-administration-in-ghana/). In March 2026 the space science institute and a Belgian research centre were [building earth-observation maize yield estimation under the European Space Agency's EO Africa programme](https://geoglam.org/from-partnership-to-practice-advancing-yield-intelligence-and-food-security-through-geomaize/). In 2024 the meteorological agency was [testing district maize yield forecasts with a US university](https://servir.icrisat.org/wp-content/uploads/2024/10/DOUBLE_UF_2024.pdf). Its researchers [run EUMETSAT's nowcasting software in-house](https://doi.org/10.22541/au.165712587.76658353/v1) (2022). In November 2025 the agency [received EU-funded stations carrying Meteosat Third Generation imagery every 10 minutes](https://techreviewafrica.com/news/3202/ghana-meteorological-agency-enhances-forecasting-capabilities-with-new-eu-funded-climsa-systems). In March 2024 the agriculture ministry [said it would watch farms in its input programme by satellite twice daily](https://gna.org.gh/2024/03/pfj-2-0-agric-ministry-to-deploy-satellite-for-effective-monitoring-of-farms/). No account of that monitoring in operation has been found.
+In August 2026 a Ghanaian geospatial firm said it [runs an agricultural monitoring system on satellite imagery, and a national forest monitoring system with an AI deforestation tracker](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/). No national space or geospatial data policy had been adopted as at September 2026. In November 2026 the science ministry said [Cabinet had approved a Ghana Space Agency, to be formed from the space science institute, with its enabling law in drafting](https://techreviewafrica.com/news/8398/x). By September 2026 the Lands Commission had [set up 51 continuously operating reference stations for surveying and cadastral mapping](https://gna.org.gh/2026/10/lands-commissions-digital-reform-gamechanger-for-land-administration-in-ghana/). In March 2026 the space science institute and a Belgian research centre were [building earth-observation maize yield estimation under the European Space Agency's EO Africa programme](https://geoglam.org/from-partnership-to-practice-advancing-yield-intelligence-and-food-security-through-geomaize/). In 2024 the meteorological agency was [testing district maize yield forecasts with a US university](https://servir.icrisat.org/wp-content/uploads/2024/10/DOUBLE_UF_2024.pdf). Its researchers [run EUMETSAT's nowcasting software in-house](https://doi.org/10.22541/au.165712587.76658353/v1) (2022). In November 2025 the agency [received EU-funded stations carrying Meteosat Third Generation imagery every 10 minutes](https://techreviewafrica.com/news/3202/ghana-meteorological-agency-enhances-forecasting-capabilities-with-new-eu-funded-climsa-systems). In March 2024 the agriculture ministry [said it would watch farms in its input programme by satellite twice daily](https://gna.org.gh/2024/03/pfj-2-0-agric-ministry-to-deploy-satellite-for-effective-monitoring-of-farms/). No account of that monitoring in operation has been found.
 
 ## Geopolitics
 
