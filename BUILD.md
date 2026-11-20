@@ -77,13 +77,11 @@ python scripts/lint-scope.py                               # the whole backlog
 
 **`REPORT-UPDATE.md` is the procedure: run it for each initialised unit in the work order** (from `--all`, or `rebuild.py --scan`). It holds the six steps, *Maintaining the status baseline* and *Narrative integrity*; `documentation/report-layer.md` is the spec. Commit the moved ledgers, `considered.txt`, `sections-read.txt`, `gaps.csv` and re-rendered docs.
 
-## Stage 4b — datasets (model authoring)
+## Stages 4b–4d — datasets, maturity studies, Who's Who (model authoring)
 
-**`DATASET-UPDATE.md` is the procedure**: the same set difference as stage 4, over the Data Centres dataset instead of a ledger. A night's arrivals are one packet.
-
-## Stage 4c — maturity studies (model authoring)
-
-**`MATURITY-UPDATE.md` is the procedure**: the same set difference, over each finished study's reading lists. An arrival adds a fact or nothing; a fact that bears on a stage has its cell reassessed and logged.
+- **`DATASET-UPDATE.md`**: stage 4's set difference over the Data Centres dataset; a night's arrivals are one packet.
+- **`MATURITY-UPDATE.md`**: the same over each finished study's reading lists; a fact bearing on a stage has its cell reassessed and logged.
+- **`WHOS-WHO-UPDATE.md`**: stage 2e's batches, one Sonnet reader each, admitted to the cache and rebuilt.
 
 ## Stage 5 — re-render (mechanical, always run)
 

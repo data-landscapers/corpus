@@ -39,3 +39,25 @@ def test_written_form_must_be_the_slugs_own_name():
     assert O.owns("Ministère de l’Education Nationale et de la Promotion Civique", "menpc-tchad")
     assert not O.owns("Government of Lesotho", "office-of-the-prime-minister-lesotho")
     assert not O.owns("Angola", "joao-lourenco")
+
+
+_pspec = importlib.util.spec_from_file_location(
+    "whos_who_people", os.path.join(os.path.dirname(os.path.abspath(__file__)), "whos-who-people.py"))
+P = importlib.util.module_from_spec(_pspec)
+_pspec.loader.exec_module(P)
+
+
+def test_name_key_folds_case_accent_order_and_edge_titles():
+    assert P.key("Denis SASSOU-N'GUESSO") == P.key("Denis Sassou N’guesso")
+    assert P.key("NDUWIMANA Jean Claude") == P.key("Jean-Claude Nduwimana")
+    assert P.key("Dr Albert Muchanga") == P.key("Albert Muchanga")
+
+
+def test_a_middle_initial_is_not_a_title():
+    assert P.key("Albert M. Muchanga") != P.key("Albert Muchanga")
+
+
+def test_anchor_is_the_whole_cache_row():
+    a = {"source_url": "u", "name_as_written": "A B", "position": "Minister", "org_as_written": "X"}
+    b = dict(a, position="Chair", org_as_written="Y")
+    assert P.anchor(a) != P.anchor(b)

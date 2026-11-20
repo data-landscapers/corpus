@@ -3,7 +3,7 @@ type: design-note
 reader: cc
 title: whos-who.md — a Who's Who index of officeholders, built in Corpus
 last_reviewed: 2026-11-20
-status: design, owned by CC; stages 1 and 2 and the full reading pass done; Bill's rulings are §10, results §11–§12
+status: design, owned by CC; stages 1–4 done, stage 5 (publish) next; Bill's rulings are §10, results §11–§14
 ---
 
 # Who's Who index
@@ -58,7 +58,7 @@ Lookups and the cache are CSV. Lookups are hand-correctable and a deriver never 
 
 **`lookups/org-lineage.csv`** — `slug`, `successor_slug`, `year`, `basis`. Government only (§6).
 
-**`lookups/people.csv`** — `person_id`, `name`, `basis`. The id is opaque and issued once; it is never derived from the name, so a corrected spelling does not move it.
+**`lookups/people.csv`** — `person_id`, `name`, `basis`, `anchor`. The id is opaque and issued once; it is never derived from the name, so a corrected spelling does not move it. `anchor` is a 12-character hash of the person's first cache row, which is how a rebuild finds the id again (§13); `basis` `retired` marks an id a ruling joined to another, kept so it is never reissued.
 
 **`lookups/person-aliases.csv`** — `alias`, `person_id`, `basis`. Every written form of a name that resolves to a person. An alias is a name and nothing else.
 
@@ -192,7 +192,7 @@ Nothing is open with Bill.
 
 **Full reading pass, done 2026-11-19** (paused once at the quota line, resumed at 19:13): 202 + 103 batches. The cache holds 42,357 attestations (1,377 `held`) from 30,923 sources; about 180–250k Sonnet tokens a 150-source batch. **14 sources an agent skipped remain uncached** and go to the next incremental pass. **To run a pass:** empty `C:\whos-who-work\candidates\all\` and `out\all\`, run `whos-who-candidates.py --all` (the cache excludes what is done), launch readers on the brief, and admit each finished batch with `whos-who-cache.py all --only N`. Stage 2 followed (§12).
 
-**Still to measure, at stage 3–4:** the share of aliases that are exact entries in `outputs/names/`; whether the catalogue's search takes several names and matches a whole name; and the page weight at full row count against `lint-page-weight.py`'s 2 MB compressed line. The pilot's rate, about 1.5 rows a candidate source, puts the full index near 45,000 rows, under the 100,000-row query-service line.
+**Measured since:** §13–§14. The pilot's rate, about 1.5 rows a candidate source, puts the full index near 45,000 rows, under the 100,000-row query-service line.
 
 ## 12. Stage 2, organisations, 2026-11-20
 
@@ -205,4 +205,21 @@ Nothing is open with Bill.
 - **Wrong matches found and fixed:** a named country ignored (*Burkina Faso Ministry of Health* to Eswatini's); the two Congos; regions stripped as countries (Somaliland and Puntland folded, Tshopo named DR Congo's government); a foreign ministry a story tagged (Sudan's foreign ministry to China's); folds on equal names (*Ministry of Health and Sanitation* is its own incarnation). Embassies and high commissions are `government`, so *Indian High Commission* carries its host.
 - **Left for stage 3 or by hand:** 48 pairs of government slugs in one country with one published name (`bf-ministry-digital-transition`, `ministere-transition-digitale-burkina-faso`) are not folded; folding on a name is what merged two incarnations. The pairs that are one body get `canonical_slug` by hand and an `[ACT]` note to OSINT at publication, per §6.
 
-The next stage is 3, people.
+
+## 13. Stage 3, people, 2026-11-20
+
+**Done.** `scripts/whos-who-people.py` writes `lookups/people.csv` and `person-aliases.csv` (tracked) and `build/whos-who/positions.csv` and `merge-candidates.csv` (untracked), with `person-rulings.csv` and `whos-who-suppress.csv` header-only.
+
+- **Counts:** 33,090 positions for 17,112 people from 33,092 facts. Dropped before people: 8,908 with no organisation, 217 at an unnamed one, 133 at a national government held by someone who is not its head, and 7 names under two words once titles are off.
+- **Merges:** 887 people carry more than one written form. **A hand check of 100 found none wrong**: the variants were case, accents, order, hyphens and apostrophes (*Denis Sassou-N'Guesso* in 16 spellings). The check found one risk, now closed: a middle *M.* was being stripped as *Monsieur*, so titles come off the ends of a name only.
+- **Lint 5:** clean on Côte d'Ivoire and estate-wide.
+- **Candidates:** 2,662: 1,157 same name in one country at two organisations, 927 one name inside the other at one organisation, 333 same name across countries, 53 an initial against a given name. They are left unresolved. A career across two ministries is two people until a `same` ruling joins it, which is what §7 trades for never crediting one person with another's office.
+- **Ids:** `anchor` hashes the whole cache row (source, name, position, organisation as written). Hashing only the source and the name tied two organisations' groups to one id whenever a story named someone in two posts, and 76 ids retired on a second build. With the whole row, three successive builds issue and retire nothing.
+
+## 14. Stage 4, full run and incremental, 2026-11-20
+
+**Done.** `rebuild.py` stage 2e runs `whos-who-candidates.py --all`, `whos-who-orgs.py` and `whos-who-people.py`, all soft. The reading pass is BUILD stage 4d, `WHOS-WHO-UPDATE.md`, with the brief now `documentation/whos-who-reader-brief.md`. Old work batches are moved to `C:\whos-who-work\done-{date}\`, not deleted.
+
+- **Incremental:** with the newest 3,000 cache rows withheld and then added, 902 people were new, no existing id moved, and nobody lost a row. Tonight's real pass was one batch of 130 sources: the 14 skipped and the arrivals since (§14 tally below).
+- **Page weight:** at 33,090 rows the five-column CSV is 6.1 MB, **1.87 MB compressed against the 2 MB line**. It crosses at about 35,000 rows, weeks away. Packing people and organisations as lookups saves almost nothing (1.82 MB); the source URLs are 1.3 MB of it, and the table without them is 0.5 MB. **Stage 5 therefore ships the catalogue's split**: the four shown columns up front, the source URL fetched when a row is opened. The download stays the full five columns.
+- **Still to measure at stage 5:** the share of aliases that are exact entries in `outputs/names/`, and whether the catalogue's search takes several names and matches a whole name.

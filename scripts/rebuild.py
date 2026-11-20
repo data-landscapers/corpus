@@ -330,6 +330,14 @@ def main():
         # after Part 3 of the split it is the search, and a search that could be
         # missing whenever the vault was not to hand is not one.
         print("stage 2d — title and hero index:"); run("build-title-index.py")
+        # Who's Who, the deterministic half (`documentation/whos-who.md` §9 stage 4): cut the
+        # night's candidate batches for the reading pass, then rebuild the organisations and the
+        # fact table from the cache. Soft — a finish-line fault is reported, never blocks the
+        # catalogue. The reading pass is a model step after the rebuild (`WHOS-WHO-UPDATE.md`).
+        print("stage 2e — Who's Who candidates, organisations, people:")
+        for script in ("whos-who-candidates.py", "whos-who-orgs.py", "whos-who-people.py"):
+            if run_soft(script, *(["--all"] if script == "whos-who-candidates.py" else [])):
+                print(f"  {script} exited non-zero; see above")
         print("stage 2a — scope lint (reports, never gates):"); scope_lint()
     if a.all or a.finance:
         print("stage 3 — finance + budgets (all places):"); run("build-finance-page.py", "--all")
