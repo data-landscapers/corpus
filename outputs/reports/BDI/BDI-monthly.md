@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: BDI
-ledger_rows: 25
-not_held: 10
-record: e7240bcd0e6a
+ledger_rows: 29
+not_held: 9
+record: ddcf79f1f490
 ---
 
 # News, Oct – Nov 2026
@@ -180,6 +180,20 @@ The home page of Burundi's government ICT secretariat, SETIC, sets out its role 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government network, servers and shared services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burundi : Le nouveau Système Intégré de Gestion des Finances publiques installé](https://www.digitalbusiness.africa/burundi-le-nouveau-systeme-integre-de-gestion-des-finances-publiques-installe/)** — Digital Business Africa, 18 November 2026
+
+Replaces SIGEFI; SNDI MediaBox consortium; 18-month deployment aligned with IDA-financed PAFEN.
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -215,6 +229,8 @@ Summarised under [Cybersecurity](#cybersecurity).
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#data-exchange">Data Exchange</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
@@ -233,6 +249,36 @@ Summarised under [Cybersecurity](#cybersecurity).
 **[Burundi begins groundwork for paperless COMESA trade certificates](https://lionweek.com/burundi-begins-groundwork-for-paperless-comesa-trade-certificates/)** — LIONWEEK, 11 November 2026
 
 Burundi and the COMESA secretariat met in Bujumbura on 9–12 November 2026 to prepare Burundi's connection to the regional electronic certificate of origin platform. The meeting feeds a national implementation action plan. No timetable or cost has been published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National data exchange layer</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burundi Digital Foundations Project — Invitation for Bids OP00482177: Acquisition d'une plateforme d'interopérabilité gouvernementale (GIP) intégrant un système PKI](https://projects.banquemondiale.org/fr/projects-operations/procurement-detail/OP00482177)** — World Bank (procurement notice issued by PAFEN / SETIC, Burundi), 18 November 2026
+
+IDA-funded two-lot RFP: sovereign national PKI (10 months), X-Road-based exchange platform (15 months); bids 11 Jan 2027.
+
+</div>
+
+</div>
+
+### Digital Identity and CRVS
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sovereign national public key infrastructure (PKI_BI)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Burundi Digital Foundations Project — Invitation for Bids OP00482177: Acquisition d'une plateforme d'interopérabilité gouvernementale (GIP) intégrant un système PKI](https://projects.banquemondiale.org/fr/projects-operations/procurement-detail/OP00482177)** — World Bank (procurement notice issued by PAFEN / SETIC, Burundi), 18 November 2026
+
+Summarised under [Data Exchange](#data-exchange).
 
 </div>
 
@@ -265,6 +311,20 @@ The East African Legislative Assembly's accounts committee reported that Burundi
 **[Burundi : la numérisation de la justice face au défi de la connectivité](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-la-numerisation-de-la-justice-face-au-defi-de-la-connectivite)** — wearetech.africa, 5 October 2026
 
 Burundi is preparing an E-Justice platform to link the penal chain from the judicial police to the prisons, with online complaints and case tracking for citizens. An earlier programme digitised more than 15,000 case files, and the article sets the plan against an internet use rate of about 11%.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SIGFP_BI integrated public finance management system</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Burundi : Le nouveau Système Intégré de Gestion des Finances publiques installé](https://www.digitalbusiness.africa/burundi-le-nouveau-systeme-integre-de-gestion-des-finances-publiques-installe/)** — Digital Business Africa, 18 November 2026
+
+Summarised under [Technical Capacity](#technical-capacity).
 
 </div>
 
