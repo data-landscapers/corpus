@@ -1,11 +1,11 @@
 ---
 title: Gambia — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: GMB
-ledger_rows: 20
+ledger_rows: 21
 not_held: 2
-record: 390a014c4023
+record: 0320800d7db5
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: 390a014c4023
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
@@ -27,6 +29,28 @@ record: 390a014c4023
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+</nav>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics Act 2005</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gambia’s 20-Year-Old Statistics Law Can’t Handle AI and Data Revolution, GBoS Warns](https://alkambatimes.com/gambias-20-year-old-statistics-law-cant-handle-ai-and-data-revolution-gbos-warns/)** — The Alkamba Times, 19 November 2026
+
+The Gambia Bureau of Statistics said at a national forum opened on 18 November 2026 that the Statistics Act 2005 is no longer fit for purpose. It wants a revised law in place next year. It says the Act sets no clear duty to share data and no common standards across ministries. The National Statistics Council asked for stable budget funding for the Bureau.
+
+</div>
+
+</div>
 
 ## Finance
 
