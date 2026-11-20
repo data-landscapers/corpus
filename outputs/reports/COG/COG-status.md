@@ -1,12 +1,12 @@
 ---
 title: Congo: status report
-compiled: 2026-11-16
+compiled: 2026-11-20
 place: COG
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 200
+sources_cited: 201
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -186,7 +186,7 @@ The identity card carries [a PDF417 barcode holding the holder's biometric data 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
 
-The national tax payment rail went live before the Treasury account behind it. [FOUTA opened on 3 August 2026 with its pilot complete, payment following a declaration filed on E-TAX or, for customs, on SYDONIA, with each transaction routed to the Trésor public and returned as a secured electronic receipt](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/), while [the Compte unique du Trésor at the BEAC that is meant to centralise those receipts is still being finalised and its opening convention is not yet in place](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/); [the World Bank's 2025 assessment records no treasury single account supported by the financial management system](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Four banks are listed for bank payment](https://www.finances.gouv.cg/fr/download/file/fid/10535) and [general roll-out to all taxpayers is targeted for the end of 2026](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/). Online payment is not new: [E-PAY opened in October 2019](https://www.finances.gouv.cg/en/articles/launch-first-online-payment-duties-and-taxes-congo).
+The national tax payment rail went live before the Treasury account behind it. [FOUTA opened on 3 August 2026, payment following a declaration filed on E-TAX or, for customs, on SYDONIA, with each transaction routed to the Trésor public and returned as a secured electronic receipt](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/), while [the Compte unique du Trésor at the BEAC that is meant to centralise those receipts is still being finalised and its opening convention is not yet in place](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/). [By 16 November 2026 FOUTA had collected about FCFA 107 billion through seven banks, against about FCFA 1 billion under its predecessor](https://www.finances.gouv.cg/fr/articles/questions-orales-avec-d%C3%A9bat-AN_171126), and [general roll-out to all taxpayers is targeted for the end of 2026](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/). Online payment is not new: [E-PAY opened in October 2019](https://www.finances.gouv.cg/en/articles/launch-first-online-payment-duties-and-taxes-congo).
 
 For households the story is mobile money and only mobile money. [Adults holding a mobile-money account rose from 2 percent in 2014 to 37 percent in 2021 while the share holding a bank account was almost unchanged](https://www.elibrary.imf.org/view/journals/002/2024/252/article-A001-en.xml), but [only about one in four registered mobile-money accounts is actively used](https://www.elibrary.imf.org/view/journals/002/2024/252/article-A001-en.xml). [The market is a duopoly between MTN and Airtel, MTN holding the larger share](https://www.adiac-congo.com/content/de-linclusion-financiere-que-nous-apporte-le-mobile-money-163010), and [transfer fees have risen since 2019](https://www.adiac-congo.com/content/de-linclusion-financiere-que-nous-apporte-le-mobile-money-163010).
 
