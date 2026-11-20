@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: MDG
-ledger_rows: 31
+ledger_rows: 32
 not_held: 5
-record: b706989e5da4
+record: fd3dc06942af
 ---
 
 # News, Oct – Nov 2026
@@ -347,6 +347,20 @@ Madagascar's electoral commission (CENI) received IT equipment worth US$750,000 
 **[Du contenu à la gestion : Madagascar accélère la numérisation de son système éducatif](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/du-contenu-a-la-gestion-madagascar-accelere-la-numerisation-de-son-systeme-educatif)** — wearetech.africa, 26 October 2026
 
 Madagascar's digital development ministry launched MPIANATRA, a school-management platform for tracking pupils' progress, on 24 October 2026; its deployment in public schools is still to be studied. It follows the NUIS single pupil identifier, piloted with about 180,000 pupils since May.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Water, sanitation and hygiene monitoring and evaluation system (SE&AM)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Madagascar: Secteur EAH - Les données pour mieux piloter les investissements](https://fr.allafrica.com/stories/202611190323.html)** — Midi Madagasikara via allAfrica, 19 November 2026
+
+Madagascar's Ministry of Water, Sanitation and Hygiene launched a monitoring and evaluation system for the sector in Antananarivo on 18 November 2026. The World Bank finances it through a drinking-water access project. It is to hold dashboards, infrastructure maps and financing data, collected and validated from village level up to national level.
 
 </div>
 
