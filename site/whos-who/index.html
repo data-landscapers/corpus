@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="../assets/css/main.css?v=c7777c77">
 <link rel="stylesheet" href="../assets/css/corpus.css?v=a2d93af9">
 <link rel="stylesheet" href="../assets/css/datatable.css?v=284d32e1">
-<link rel="stylesheet" href="../assets/css/whos-who.css?v=6485a248">
+<link rel="stylesheet" href="../assets/css/whos-who.css?v=b6d7e569">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
 <script>
@@ -105,6 +105,10 @@
 
   <main id="main">
   <div class="container whos-who">
+    <!-- The whole head stays put while the rows scroll: title, search, status and
+         disclaimer (Bill, 2026-11-20). The table parks its header beneath it
+         (`data-dt-above`, datatable v6). -->
+    <div class="ww-bar" data-dt-above>
     <header class="article-header">
       <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Who%27s%20Who&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/whos-who/%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
       <div class="ww-head">
@@ -119,9 +123,6 @@
 <p><em>All rows</em> downloads the whole list; <em>These rows</em> downloads the rows on screen.</p>
 </div>
 
-    <!-- The search bar and the status stay put while the rows scroll; the table parks
-         its header beneath them (`data-dt-above`, datatable v6). -->
-    <div class="ww-bar" data-dt-above>
     <form class="ww-search dt-controls" role="search" onsubmit="return false">
       <input type="search" id="ww-q" class="dt-search" placeholder="Name, position or organisation" aria-label="Search names, positions and organisations" autocomplete="off">
       <select id="ww-place" aria-label="Country"><option value="">All countries</option><option value="XAF">Africa</option><option value="DZA">Algeria</option><option value="AGO">Angola</option><option value="AUT">Austria</option><option value="BEL">Belgium</option><option value="BEN">Benin</option><option value="BWA">Botswana</option><option value="BRA">Brazil</option><option value="BFA">Burkina Faso</option><option value="BDI">Burundi</option><option value="CMR">Cameroon</option><option value="CAN">Canada</option><option value="CPV">Cape Verde</option><option value="XCA">Central Africa</option><option value="CAF">Central African Republic</option><option value="TCD">Chad</option><option value="CHN">China</option><option value="COM">Comoros</option><option value="COG">Congo</option><option value="CIV">Cote d&#x27;Ivoire</option><option value="COD">DR Congo</option><option value="DJI">Djibouti</option><option value="XEA">East Africa</option><option value="EGY">Egypt</option><option value="GNQ">Equatorial Guinea</option><option value="ERI">Eritrea</option><option value="EST">Estonia</option><option value="SWZ">Eswatini</option><option value="ETH">Ethiopia</option><option value="FIN">Finland</option><option value="FRA">France</option><option value="GAB">Gabon</option><option value="GMB">Gambia</option><option value="DEU">Germany</option><option value="GHA">Ghana</option><option value="GIN">Guinea</option><option value="GNB">Guinea-Bissau</option><option value="IND">India</option><option value="XGL">International</option><option value="ITA">Italy</option><option value="JPN">Japan</option><option value="JOR">Jordan</option><option value="KEN">Kenya</option><option value="LBN">Lebanon</option><option value="LSO">Lesotho</option><option value="LBR">Liberia</option><option value="LBY">Libya</option><option value="LUX">Luxembourg</option><option value="MDG">Madagascar</option><option value="MWI">Malawi</option><option value="MLI">Mali</option><option value="MRT">Mauritania</option><option value="MUS">Mauritius</option><option value="MAR">Morocco</option><option value="MOZ">Mozambique</option><option value="NAM">Namibia</option><option value="NLD">Netherlands</option><option value="NER">Niger</option><option value="NGA">Nigeria</option><option value="XNA">North Africa</option><option value="NOR">Norway</option><option value="QAT">Qatar</option><option value="RUS">Russia</option><option value="RWA">Rwanda</option><option value="STP">Sao Tome and Principe</option><option value="SAU">Saudi Arabia</option><option value="SEN">Senegal</option><option value="SYC">Seychelles</option><option value="SLE">Sierra Leone</option><option value="SOM">Somalia</option><option value="ZAF">South Africa</option><option value="KOR">South Korea</option><option value="SSD">South Sudan</option><option value="XSA">Southern Africa</option><option value="XSS">Sub-Saharan Africa</option><option value="SDN">Sudan</option><option value="SWE">Sweden</option><option value="CHE">Switzerland</option><option value="TWN">Taiwan</option><option value="TZA">Tanzania</option><option value="TGO">Togo</option><option value="TUN">Tunisia</option><option value="UGA">Uganda</option><option value="ARE">United Arab Emirates</option><option value="GBR">United Kingdom</option><option value="USA">United States</option><option value="XWA">West Africa</option><option value="ZMB">Zambia</option><option value="ZWE">Zimbabwe</option></select>
@@ -133,9 +134,9 @@
     </form>
 
     <p class="ww-status" id="ww-status" aria-live="polite">Search at least three letters, or choose a country or an organisation.</p>
-    </div>
 
     <div class="ww-caution"><p>Each row is what one or more sources say for one year. The list holds what our sources happen to say, with gaps: a missing row is not a vacant post, and an organisation's rows are not a line of succession.</p></div>
+    </div>
     <div id="ww-results" class="ww-results"></div>
 
     <p class="ww-correct">Something wrong, or a row about you that you want removed? <a href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Who%27s%20Who%20correction%20or%20removal&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/whos-who/%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Write to us</a>.</p>

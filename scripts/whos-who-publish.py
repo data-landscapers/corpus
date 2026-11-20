@@ -338,6 +338,10 @@ PAGE = """<!DOCTYPE html>
 
   <main id="main">
   <div class="container whos-who">
+    <!-- The whole head stays put while the rows scroll: title, search, status and
+         disclaimer (Bill, 2026-11-20). The table parks its header beneath it
+         (`data-dt-above`, datatable v6). -->
+    <div class="ww-bar" data-dt-above>
     <header class="article-header">
       {feedback}
       <div class="ww-head">
@@ -347,9 +351,6 @@ PAGE = """<!DOCTYPE html>
     </header>
     {info_panel}
 
-    <!-- The search bar and the status stay put while the rows scroll; the table parks
-         its header beneath them (`data-dt-above`, datatable v6). -->
-    <div class="ww-bar" data-dt-above>
     <form class="ww-search dt-controls" role="search" onsubmit="return false">
       <input type="search" id="ww-q" class="dt-search" placeholder="Name, position or organisation" aria-label="Search names, positions and organisations" autocomplete="off">
       <select id="ww-place" aria-label="Country"><option value="">All countries</option>{place_opts}</select>
@@ -361,9 +362,9 @@ PAGE = """<!DOCTYPE html>
     </form>
 
     <p class="ww-status" id="ww-status" aria-live="polite">Search at least three letters, or choose a country or an organisation.</p>
-    </div>
 
     <div class="ww-caution">{caution}</div>
+    </div>
     <div id="ww-results" class="ww-results"></div>
 
     <p class="ww-correct">Something wrong, or a row about you that you want removed? <a href="{correct}">Write to us</a>.</p>

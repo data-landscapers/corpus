@@ -102,3 +102,15 @@
 .whos-who .ww-src a { word-break: break-all; }
 
 .whos-who .ww-correct { font-size: 0.85rem; color: var(--ink-light); margin-top: 1.5rem; }
+
+/* The head is one sticky block, so it is kept tight (Bill, 2026-11-20): less air
+   between title and search, and between disclaimer and table. */
+.whos-who .ww-bar .article-header { padding: 0.6rem 0 0.4rem; margin-bottom: 0.4rem; }
+.whos-who .ww-bar .ww-search { margin-top: 0.4rem; }
+.whos-who .ww-bar .ww-status { margin: 0.3rem 0; }
+.whos-who .ww-bar .ww-caution { margin-top: 0; margin-bottom: 0.5rem; }
+.whos-who .ww-results .dl-datatable { margin-top: 0; }
+
+/* The strip above the column headers, where the top scrollbar sits when the table is
+   wider than the window, reads red always (Bill, 2026-11-20). */
+.whos-who .dl-datatable .dt-scroll-top { background: var(--accent); border-bottom-color: var(--accent); }
