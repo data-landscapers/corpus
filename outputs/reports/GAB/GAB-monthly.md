@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: GAB
 ledger_rows: 42
 not_held: 11
-record: e37b8e54ccd0
+record: f836781c5d34
 ---
 
 # News, Oct – Nov 2026
@@ -635,6 +635,22 @@ Summarised under [Data Exchange](#data-exchange).
 **[Allocation de rentrée scolaire 2027-2028 : la CPPF accélère sa révolution numérique](https://www.gabonreview.com/allocation-de-rentree-scolaire-2027-2028-la-cppf-accelere-sa-revolution-numerique/)** — GabonReview, 6 November 2026
 
 Gabon's civil-service pension and family fund (CPPF) opened collection of school certificates for the 2027-2028 school allowance on 5 November 2026. Parents and heads enter them online on the BAANA platform. Greater Libreville goes paperless, and the campaign closes on 1 February 2027. The previous round covered 71,412 beneficiaries and XAF 4.36 billion.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Prestations familiales/Mouila : la CPPF sensibilise les agents publics au nouveau mode de gestion des certificats de scolarité - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-prestations-familiales-mouila-la-cppf-sensibilise-les-agents-publics-au-nouveau-mode-de-gestion-des-certificats-de-scolarite/)** — AGP - Agence Gabonaise de Presse, 17 November 2026
+
+BAANA rollout nationwide from 16 Nov under law 007/2017; school heads validate online; paper only offline.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Prestations familiales/Koulamoutou : la CPPF prépare la digitalisation du paiement des frais de rentrée scolaire dès 2027 - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-prestations-familiales-koulamoutou-la-cppf-prepare-la-digitalisation-du-paiement-des-frais-de-rentree-scolaire-des-2027/)** — AGP - Agence Gabonaise de Presse, 18 November 2026
+
+Dematerialised school-start payments for pensioners' children from 2027; BAANA registration where online.
 
 </div>
 
