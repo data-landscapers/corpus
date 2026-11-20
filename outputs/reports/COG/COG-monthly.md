@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: COG
-ledger_rows: 19
+ledger_rows: 23
 not_held: 5
-record: 2b879c158db3
+record: 73433ef093f8
 ---
 
 # News, Oct – Nov 2026
@@ -18,6 +18,8 @@ record: 2b879c158db3
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -146,6 +148,14 @@ Congo Telecom said a repair vessel was due on 11 November 2026 at the WACS fault
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[WACS subsea cable returns online](https://www.itweb.africa/article/wacs-subsea-cable-returns-online/lLn147mQ96Z7J6Aa)** — ITWeb Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
+
+Congo Telecom said the WACS submarine cable was back in service on 16 November 2026, two days before its 18 November target. The fault, dated 29 October, lay on the segment between the Democratic Republic of Congo and the Republic of Congo. Repairs were made at sea, supported by teams at the Matombi and Muanda landing stations.
+
+</div>
+
 </div>
 
 ### Energy
@@ -193,6 +203,8 @@ The minister told the ITU conference in Doha that the first seven digital public
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -209,6 +221,58 @@ The minister told the ITU conference in Doha that the first seven digital public
 **[MoMo and UbiPharm partner to digitise pharmaceutical payments in Congo](https://techreviewafrica.com/news/8034/momo-and-ubipharm-partner-to-digitise-pharmaceutical-payments-in-congo)** — Tech Review Africa, 29 October 2026
 
 MTN Congo's mobile money service MoMo signed a partnership with drug distributor UbiPharm in Pointe-Noire (reported October 2026). Pharmacies can pay UbiPharm, and customers can pay pharmacies, by mobile money. No volumes, fees or number of pharmacies were published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public-revenue payment platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Questions orales avec débat à l’Assemblée nationale](https://www.finances.gouv.cg/fr/articles/questions-orales-avec-d%C3%A9bat-AN_171126)** — Ministère des Finances, du Budget et du Portefeuille Public (Congo), 17 November 2026
+
+FCFA 107bn via FOUTA 1 Jun-16 Nov 2026 against FCFA 1bn under e-Pay; FCFA 495m plus 704m build cost.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Congo : 107 milliards FCFA de recettes publiques collectées par la nouvelle plateforme de paiement](https://ecomatin.net/congo-107-milliards-fcfa-de-recettes-publiques-collectes-par-la-nouvelle-plateforme-de-paiement)** — EcoMatin, 18 November 2026
+
+FOUTA receipts equal 8.5% of 2026 tax revenue; e-Pay was vendor-owned, one bank and one mobile operator.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Single till for service revenue (Caisse unique des recettes de service)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Assemblée nationale : l’ACSI présente l'état d'avancement des différents projets](https://www.adiac-congo.com/content/assemblee-nationale-lacsi-presente-letat-davancement-des-differents-projets-172444)** — Les Dépêches de Brazzaville (adiac-congo.com), 18 November 2026
+
+Revenue till and local-tax platform due in production in 2027; Sifec civil registry and Supila plates ready.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Supila number-plate standardisation and automatic reading platform</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Assemblée nationale : l’ACSI présente l'état d'avancement des différents projets](https://www.adiac-congo.com/content/assemblee-nationale-lacsi-presente-letat-davancement-des-differents-projets-172444)** — Les Dépêches de Brazzaville (adiac-congo.com), 18 November 2026
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
@@ -283,6 +347,28 @@ Officials of the Republic of Congo's tax directorate briefed Pointe-Noire busine
 **[Congo (Rep. of the) - PP-26 Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/congo-rep-of-the/)** — International Telecommunication Union, 14 November 2026
 
 Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+</div>
+
+## Digitalisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+</nav>
+
+### Digitalisation of sub-national government
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Local-authority revenue dematerialisation platform</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Assemblée nationale : l’ACSI présente l'état d'avancement des différents projets](https://www.adiac-congo.com/content/assemblee-nationale-lacsi-presente-letat-davancement-des-differents-projets-172444)** — Les Dépêches de Brazzaville (adiac-congo.com), 18 November 2026
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
