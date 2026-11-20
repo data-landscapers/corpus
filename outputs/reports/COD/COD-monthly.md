@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: COD
 ledger_rows: 58
 not_held: 6
-record: 3753257b163d
+record: 22ad5c8441b6
 ---
 
 # News, Oct – Nov 2026
@@ -299,6 +299,14 @@ DR Congo had 77 million active mobile subscriptions in the second quarter of 202
 **[WACS cable repairs enter critical phase](https://itweb.africa/article/wacs-cable-repairs-enter-critical-phase/lLn14MmQ9DnMJ6Aa)** — ITWeb Africa, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
 
 Congo Telecom said a repair vessel was due on 11 November 2026 at the WACS fault between the two Congos. A disruption on 29 October cut its primary circuits. The operator said failover to backup links kept customers connected. It listed earlier WACS outages in 2020, August 2023 and January 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[WACS subsea cable returns online](https://www.itweb.africa/article/wacs-subsea-cable-returns-online/lLn147mQ96Z7J6Aa)** — ITWeb Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
+
+Congo Telecom said the WACS submarine cable was back in service on 16 November 2026, two days before its 18 November target. The fault, dated 29 October, lay on the segment between the Democratic Republic of Congo and the Republic of Congo. Repairs were made at sea, supported by teams at the Matombi and Muanda landing stations.
 
 </div>
 
