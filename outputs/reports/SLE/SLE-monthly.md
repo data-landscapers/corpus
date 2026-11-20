@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: SLE
-ledger_rows: 31
+ledger_rows: 32
 not_held: 4
-record: 303320cadca8
+record: ecd3fb9bc5bb
 ---
 
 # News, Oct – Nov 2026
@@ -161,6 +161,14 @@ Sierra Leone's National Communications Authority unveiled new systems on 28 Octo
 **[Sierra Leone Announces $45 Million Second Submarine Cable Project](https://techafricanews.com/2026/11/18/sierra-leone-announces-45-million-second-submarine-cable-project/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Sierra Leone announced a National Cable Consortium to land a second submarine cable, a $45 million project backed by the World Bank's WARDIP. The vehicle joins Africell, Orange, Q-Cell and Zoodlabs, and pools demand with Guinea, Liberia and The Gambia. Sierratel and Africell also formed Sierratel International to seek MVNO licences elsewhere in Africa.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[WAIIS 2026: Summit concludes with nine agreements and four announcements - Liberty Online TV](https://libertyonlinetv.com/2026/11/18/16844/)** — Liberty Online TV, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+13 agreements, 7 announcements from a 122-project USD 19bn pipeline; cable put at USD 40m, World Bank USD 15m.
 
 </div>
 
@@ -471,6 +479,20 @@ Sierra Leone scored 0.72 out of 4 on the Africa AI Governance Index 2026, in the
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
 **[Sierra Leone Announces $45 Million Second Submarine Cable Project](https://techafricanews.com/2026/11/18/sierra-leone-announces-45-million-second-submarine-cable-project/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unique Group mobile phone and electronics assembly plant</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[WAIIS 2026: Summit concludes with nine agreements and four announcements - Liberty Online TV](https://libertyonlinetv.com/2026/11/18/16844/)** — Liberty Online TV, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Summarised under [Connectivity](#connectivity).
 
