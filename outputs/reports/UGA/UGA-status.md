@@ -1,12 +1,12 @@
 ---
 title: Uganda: status report
-compiled: 2026-11-16
+compiled: 2026-11-20
 place: UGA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 13
-sources_cited: 305
+sources_cited: 306
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -185,7 +185,7 @@ The renewed framework, [e-GIF-2026, moves the exchange to a federated data-space
 
 [By 8 February 2026, 10,152,559 national identity cards had been printed and 7,261,435 shipped](https://www.newvision.co.ug/category/news/35-million-ugandans-registered-in-national-id-NV_227736_062026). [Only 2,581,457 had been collected](https://www.newvision.co.ug/category/news/35-million-ugandans-registered-in-national-id-NV_227736_062026). [Renewals reached 14.3 million against a target of 15.8 million](https://www.biometricupdate.com/202602/uganda-migrates-more-than-28m-records-to-new-national-id-system) (February 2026). [First-time enrolments reached 6.4 million against a target of 17.2 million](https://www.biometricupdate.com/202602/uganda-migrates-more-than-28m-records-to-new-national-id-system) (February 2026). [About 36.2 million Ugandans, roughly 78.8% of the population, had been identified by September 2026](https://nilepost.co.ug/news/374307/identity-is-the-foundation-of-security-development-says-minister-kamuntu-as-nira-expo-opens). [NIRA told Parliament that most of those still unregistered are children](https://www.spyuganda.com/over-18-million-ugandans-stuck-without-national-ids-as-nira-faces-staffing-crisis/).
 
-NIRA [acknowledged on 9 February 2026 that QR-code functionality was not yet integrated into its operational system](https://www.independent.co.ug/new-id-rollout-hits-qr-code-verification-hurdle/). [It said this would be resolved by 31 March](https://www.independent.co.ug/new-id-rollout-hits-qr-code-verification-hurdle/). [On 20 August MPs told Parliament that holders of new cards were still turned away by banks and SIM sellers because the codes would not respond](https://www.independent.co.ug/new-id-rollout-hits-qr-code-verification-hurdle/). On 27 October 2026 [a minister said NIRA was still synchronising the new cards with the communications regulator to authenticate them](https://www.watchdoguganda.com/news/20261027/200174/new-national-ids-to-be-activated-soon-minister-baryomunsi.html).
+NIRA [acknowledged on 9 February 2026 that QR-code functionality was not yet integrated into its operational system](https://www.independent.co.ug/new-id-rollout-hits-qr-code-verification-hurdle/). [It said this would be resolved by 31 March](https://www.independent.co.ug/new-id-rollout-hits-qr-code-verification-hurdle/). [On 20 August MPs told Parliament that holders of new cards were still turned away by banks and SIM sellers because the codes would not respond](https://www.independent.co.ug/new-id-rollout-hits-qr-code-verification-hurdle/). On 27 October 2026 [a minister said NIRA was still synchronising the new cards with the communications regulator to authenticate them](https://www.watchdoguganda.com/news/20261027/200174/new-national-ids-to-be-activated-soon-minister-baryomunsi.html). [On 18 November the internal affairs minister told Parliament that 10 of 107 partner institutions were transacting on the new verification system at 28 October, and that banks must integrate it](https://www.africa-newsroom.com/press/uganda-new-national-identification-and-registration-authority-nira-system-set-to-tighten-security-in-banking-transactions).
 
 [NIRA completed MOSIP's first brownfield migration in February 2026, moving more than 28 million legacy records off a Neurotechnology system](https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids). [It found roughly 200,000 duplicates](https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids). [Iris capture was added across the registration kits](https://www.biometricupdate.com/202603/iritech-provides-iris-biometrics-for-ugandas-upgraded-registration-kits) after NIRA found [about a million people whose stored fingerprints fail matching](https://ubc.go.ug/2024/07/02/nira-to-incorporate-iris-scanning-in-national-id-registration/).
 
