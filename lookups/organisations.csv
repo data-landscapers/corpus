@@ -53,8 +53,8 @@ acsa,acsa,Airports Company of South Africa,ZAF,other,auto
 acsi-congo,acsi-congo,L’ACSI,COG,other,auto
 acsis-tchad,acsis-tchad,ACSIS-Tchad,TCD,other,auto
 act-south-africa,act-south-africa,Association of Communications and Technology,ZAF,other,auto
-actic,actic,ACTIC,COM,other,auto
-actic-comores,actic-comores,Association comorienne des technologies de l'information et de la communication (Actic),COM,other,auto
+actic,actic-comores,Association comorienne des technologies de l'information et de la communication,COM,other,auto
+actic-comores,actic-comores,Association comorienne des technologies de l'information et de la communication,COM,other,auto
 action-et-humanisme-cote-divoire,action-et-humanisme-cote-divoire,Action et Humanisme,CIV,other,auto
 action-sa,action-sa,Action SA,ZAF,other,auto
 actis,actis,Actis,NGA,other,auto
@@ -99,8 +99,8 @@ afc-capital-partners,afc-capital-partners,ACP,NGA,other,auto
 afcfta,afcfta-secretariat,AfCFTA Secretariat,XAF,other,hand
 afcfta-adjustment-fund,afcfta-adjustment-fund,AfCFTA Adjustment Fund,GHA,other,auto
 afcfta-secretariat,afcfta-secretariat,AfCFTA Secretariat,XAF,other,auto
-afd,afd,AFD N,COD,other,auto
-afdb,afdb,AfDB,ZAF,other,auto
+afd,agence-francaise-de-developpement,Agence française de développement,COD,other,auto
+afdb,african-development-bank,African Development Bank,ZAF,other,auto
 affinity-africa,affinity-africa,Affinity,XAF,other,auto
 afg-holding,afg-holding,AFG Holding,CIV,other,auto
 afic,afic,Africa Freedom of Information Centre,SEN,other,auto
@@ -110,7 +110,7 @@ afor,afor,L'AFOR,CIV,other,auto
 afp-pme-burkina-faso,afp-pme-burkina-faso,AFP-PME,BFA,other,auto
 afr-ix-telecom,afr-ix-telecom,AFR-IX Telecom,TUN,other,auto
 afraa,afraa,AFRAA,XAF,other,auto
-afreximbank,afreximbank,Afreximbank,XAF,other,auto
+afreximbank,afreximbank,African Export-Import Bank,XAF,other,auto
 africa-ai-council,africa-ai-council,AI Council for Africa,XAF,other,auto
 africa-analysis,africa-analysis,Africa Analysis,XAF,other,auto
 africa-and-gulf-bank,africa-and-gulf-bank,Africa and Gulf Bank,XAF,other,auto
@@ -335,7 +335,7 @@ amref-health-africa,amref-health-africa,Amref Health Africa,XAF,other,auto
 amrtp,amrtp,AMRTP,MLI,other,auto
 an-etat-mauritanie,an-etat-mauritanie,Agence Numérique de l’État (AN-ETAT),MRT,other,auto
 anac-gabon,anac-gabon,Agence nationale de l'aviation civile (ANAC),GAB,other,auto
-anacim,anacim,ANACIM,SEN,other,auto
+anacim,anacim-senegal,ANACIM,SEN,other,auto
 anacim-senegal,anacim-senegal,ANACIM,SEN,other,auto
 anacm,anacm,ANACM,COM,other,auto
 anacom-portugal,anacom-portugal,ANACOM,AGO,other,auto
@@ -354,7 +354,7 @@ anarme-mozambique,anarme-mozambique,Anarme,MOZ,other,auto
 anat-benin,anat-benin,Agence National pour l'Aménagement du Territoire (ANAT),BEN,other,auto
 anats,anats,ANATS,TCD,other,auto
 ancar-senegal,ancar-senegal,ANCAR,SEN,other,auto
-ancfcc,ancfcc,ANCFCC,MAR,other,auto
+ancfcc,ancfcc-morocco,ANCFCC,MAR,other,auto
 ancfcc-morocco,ancfcc-morocco,ANCFCC,MAR,other,auto
 ancy-togo,ancy-togo,ANCy Tous,TGO,other,auto
 anda-angola,anda-angola,Anda Angola,AGO,other,auto
@@ -479,7 +479,7 @@ arcop-senegal,arcop-senegal,ARCOP,SEN,other,auto
 arcop-togo,arcop-togo,ARCOP Togo,TGO,other,auto
 arct-burundi,arct-burundi,ARCT Burundi,BDI,other,auto
 ardhi-university,ardhi-university,Ardhi University,TZA,other,auto
-are-drc,are-drc,ARE,COD,other,auto
+are-drc,are-rdc,ARE,COD,other,auto
 are-mauritania,are-mauritania,Autorité de Régulation,MRT,other,auto
 are-rdc,are-rdc,ARE,COD,other,auto
 ared-group,ared-group,ARED Group,XAF,other,auto
@@ -588,11 +588,11 @@ attorney-generals-office-ghana,attorney-generals-office-ghana,Office of the Atto
 attorney-generals-office-libya,attorney-generals-office-libya,Attorney General's Office,LBY,other,auto
 attorney-generals-office-mauritius,attorney-generals-office-mauritius,Attorney General's Office,MUS,other,auto
 attorney-generals-office-seychelles,attorney-generals-office-seychelles,Office of the Attorney General,SYC,other,auto
-atu,atu,ATU,XAF,other,auto
+atu,african-telecommunications-union,African Telecommunications Union,XAF,other,auto
 atuge,atuge,Atuge,TUN,other,auto
 au-iped,au-iped,AU-IPED,LBR,other,auto
 au-peace-and-security-council,au-peace-and-security-council,AU Peace and Security Council,XAF,other,auto
-auda-nepad,auda-nepad,"African Union Development Agency, AUDA-NEPAD",XAF,other,auto
+auda-nepad,auda-nepad,African Union Development Agency (AUDA-NEPAD),XAF,other,auto
 audit-service-sierra-leone,audit-service-sierra-leone,Audit Service Sierra Leone,SLE,other,auto
 auditor-general-ghana,auditor-general-ghana,Ghana Audit Service,GHA,other,auto
 auditor-general-kenya,auditor-general-kenya,Auditor-General,KEN,other,auto
@@ -624,8 +624,8 @@ b-bbee-ict-sector-council,b-bbee-ict-sector-council,B-BBEE ICT Sector Council,ZA
 backbase,backbase,Backbase,LBY,other,auto
 backbone-connectivity-network-nigeria,backbone-connectivity-network-nigeria,Backbone Connectivity Network Nigeria,NGA,other,auto
 backed-vc,backed-vc,Backed,GHA,other,auto
-bad,bad,La Bad,CIV,other,auto
-badea,badea,BADEA,RWA,other,auto
+bad,african-development-bank,African Development Bank,CIV,other,auto
+badea,badea,Arab Bank for Economic Development in Africa,RWA,other,auto
 bahir-dar-university,bahir-dar-university,Bahir Dar University,ETH,other,auto
 baidoa-municipality,baidoa-municipality,BAIDOA MUNICIPALITY,SOM,other,auto
 baker-mckenzie,baker-mckenzie,Baker McKenzie,TZA,other,auto
@@ -660,7 +660,7 @@ bank-of-namibia,bank-of-namibia,Bank of Namibia,NAM,other,auto
 bank-of-sierra-leone,bank-of-sierra-leone,Bank of Sierra Leone,SLE,other,auto
 bank-of-south-sudan,bank-of-south-sudan,Bank of South Sudan,SSD,other,auto
 bank-of-tanzania,bank-of-tanzania,Bank of Tanzania,TZA,other,auto
-bank-of-the-republic-of-burundi,bank-of-the-republic-of-burundi,World Bank,BDI,other,auto
+bank-of-the-republic-of-burundi,bank-of-the-republic-of-burundi,Bank of the Republic of Burundi,BDI,other,auto
 bank-of-uganda,bank-of-uganda,Bank of Uganda,UGA,other,auto
 bank-of-zambia,bank-of-zambia,Bank of Zambia,ZMB,other,auto
 bank-windhoek,bank-windhoek,Bank Windhoek,NAM,other,auto
@@ -682,9 +682,9 @@ bau-mozambique,bau-mozambique,BAU. Este,MOZ,other,auto
 bayobab,bayobab,Bayobab,SSD,other,auto
 bayobab-zambia,bayobab-zambia,Bayobab Zambia,ZMB,other,auto
 bayport-tanzania,bayport-tanzania,Bayport Financial Services Tanzania,TZA,other,auto
-bbs-burundi,bbs-burundi,Burundi Backbone System,BDI,other,auto
+bbs-burundi,burundi-backbone-system,Burundi Backbone System,BDI,other,auto
 bcc-comoros,bcc-comoros,La BCC,COM,other,auto
-bceao,bceao,BCEAO,XWA,other,auto
+bceao,bceao,Central Bank of West African States,XWA,other,auto
 bci,bci,BCI,MOZ,other,auto
 bci-guinea,bci-guinea,La BCI,GIN,other,auto
 bclcc,bclcc,Brigade Centrale de Lutte Contre la Cybercriminalité,BFA,other,auto
@@ -692,7 +692,7 @@ bcrg,bcrg,La BCRG,GIN,other,auto
 bcstp,bcstp,BCSTP,STP,other,auto
 bcx,bcx,Altron and BCX,ZAF,other,auto
 bdixp,bdixp,BDIXP,BDI,other,auto
-beac,beac,La BEAC,XCA,other,auto
+beac,beac,Bank of Central African States,XCA,other,auto
 beacon-power-services,beacon-power-services,Beacon Power Services,NGA,other,auto
 bede-wallet,bede-wallet,Bede' Digital Wallet,SDN,other,auto
 belnet,belnet,Belnet,COD,other,auto
@@ -724,7 +724,7 @@ births-and-deaths-registry-ghana,births-and-deaths-registry-ghana,Births and Dea
 bitlipa,bitlipa,BitLipa,XAF,other,auto
 black-sash,black-sash,Black Sash,ZAF,other,auto
 blantyre-city-council,blantyre-city-council,Blantyre City Council,MWI,other,auto
-blantyre-city-council-malawi,blantyre-city-council-malawi,Blantyre City Council,MWI,other,auto
+blantyre-city-council-malawi,blantyre-city-council,Blantyre City Council,MWI,other,auto
 blantyre-district-council,blantyre-district-council,Blantyre District Council,MWI,other,auto
 blip-limited,blip-limited,BLIP Limited,NGA,other,auto
 blockchain-africa,blockchain-africa,Blockchain Africa,XAF,other,auto
@@ -743,7 +743,7 @@ bnetd,bnetd,BNETD,CIV,other,auto
 bnft-chad,bnft-chad,BNFT. Ces,TCD,other,auto
 bo-city-council,bo-city-council,Bo City Council,SLE,other,auto
 bo-district-council,bo-district-council,Bo District Council,SLE,other,auto
-boad,boad,La BOAD,SEN,other,auto
+boad,boad,West African Development Bank,SEN,other,auto
 bocongo,bocongo,BOCONGO,BWA,other,auto
 bocra,bocra,BOCRA,BWA,other,auto
 bofinet,bofinet,BoFiNet,BWA,other,auto
@@ -839,7 +839,7 @@ cafi-project-lesotho,cafi-project-lesotho,CAFI Project,LSO,other,auto
 cafrad,cafrad,CAFRAD,MLI,other,auto
 cagecfi,cagecfi,CAGECFI,TGO,other,auto
 caidp,caidp,CAIDP,CIV,other,auto
-caidp-cote-divoire,caidp-cote-divoire,CAIDP,CIV,other,auto
+caidp-cote-divoire,caidp,CAIDP,CIV,other,auto
 caimsa,caimsa,CAIMSA,XAF,other,auto
 cair-south-africa,cair-south-africa,CAIR,ZAF,other,auto
 cairo-court-of-appeal,cairo-court-of-appeal,Cairo Court of Appeal,EGY,other,auto
@@ -851,7 +851,7 @@ caisse-des-depots-et-consignations-tunisia,caisse-des-depots-et-consignations-tu
 caisse-marocaine-des-retraites,caisse-marocaine-des-retraites,Caisse Marocaine des Retraites,MAR,other,auto
 calp-network,calp-network,CALP Network,SDN,other,auto
 camara-de-comercio-de-bioko,camara-de-comercio-de-bioko,Cámara de comercio,GNQ,other,auto
-camara-de-diputados-guinea-ecuatorial,camara-de-diputados-guinea-ecuatorial,Cámara de los Diputados,GNQ,other,auto
+camara-de-diputados-guinea-ecuatorial,camara-de-los-diputados-equatorial-guinea,Cámara de los Diputados,GNQ,other,auto
 camara-de-los-diputados-equatorial-guinea,camara-de-los-diputados-equatorial-guinea,Cámara de los Diputados,GNQ,other,auto
 camara-municipal-de-bissau,camara-municipal-de-bissau,Câmara Municipal de Bissau,GNB,other,auto
 camara-municipal-praia,camara-municipal-praia,Câmara Municipal da Praia,CPV,other,auto
@@ -870,7 +870,7 @@ canam-mali,canam-mali,CANAM,MLI,other,auto
 canar-telecommunication,canar-telecommunication,Canar Telecommunication,SDN,other,auto
 capc-algeria,capc-algeria,Confédération algérienne du Patronat citoyen (CAPC),DZA,other,auto
 capfor-mauritius,capfor-mauritius,CAPFOR Mauritius,MUS,other,auto
-capgemini,capgemini,Capgemini,MAR,other,auto
+capgemini,capgemini-morocco,Capgemini,MAR,other,auto
 capgemini-morocco,capgemini-morocco,Capgemini,MAR,other,auto
 capital-markets-and-securities-authority-tanzania,capital-markets-and-securities-authority-tanzania,Capital Markets and Securities Authority,TZA,other,auto
 capital-pay,capital-pay,Capital Pay,SSD,other,auto
@@ -913,7 +913,7 @@ cdhc-cameroon,cdhc-cameroon,La CDHC,CMR,other,auto
 cdig-tchad,cdig-tchad,Le CDIG du Tchad,TCD,other,auto
 cdp-senegal,cdp-senegal,La CDP,SEN,other,auto
 ceb-fibernet,ceb-fibernet,CEB (FiberNet) Co.,MUS,other,auto
-cedeao,cedeao,CEDEAO,XWA,other,auto
+cedeao,ecowas,Economic Community of West African States,XWA,other,auto
 cedsif-mozambique,cedsif-mozambique,CEDSIF,MOZ,other,auto
 cee-net-technologie,cee-net-technologie,Cee.net Technologie,CIV,other,auto
 cefod,cefod,CEFOD,TCD,other,auto
@@ -923,7 +923,7 @@ cell-c,cell-c,Cell C,ZAF,other,auto
 cellebrite,cellebrite,Cellebrite,NGA,other,auto
 celltel-networks,celltel-networks,Celltel Networks Limited,GHA,other,auto
 cellule-filets-sociaux-tchad,cellule-filets-sociaux-tchad,Cellule Filets Sociaux,TCD,other,auto
-cemac,cemac,CEMAC,XCA,other,auto
+cemac,cemac,Central African Economic and Monetary Community,XCA,other,auto
 cemastea,cemastea,CEMASTEA,KEN,other,auto
 cena-benin,cena-benin,La Cena,BEN,other,auto
 cenadi,cenadi,CENADI,CMR,other,auto
@@ -992,7 +992,7 @@ cert-mu,cert-mu,CERT-MU,MUS,other,auto
 cert-tg,cert-tg,CERT.tg,TGO,other,auto
 certech-inc,certech-inc,Certech,NGA,other,auto
 cesce-chad,cesce-chad,CESCE,TCD,other,auto
-cesce-tchad,cesce-tchad,CESCE,TCD,other,auto
+cesce-tchad,cesce-chad,CESCE,TCD,other,auto
 cese-maroc,cese-maroc,"Conseil économique, social et environnemental (CESE) du Royaume du Maroc",MAR,other,auto
 cesec,cesec,Cesec,CIV,other,auto
 cesec-gabon,cesec-gabon,CESEC,GAB,other,auto
@@ -1161,7 +1161,7 @@ codes-africa,codes-africa,CODES Africa,XAF,other,auto
 coega-development-corporation,coega-development-corporation,Coega Development Corporation,ZAF,other,auto
 coeur-de-mere-foundation,coeur-de-mere-foundation,Cœur de Mère Foundation,CMR,other,auto
 collective-x,collective-x,Collective X,ZAF,other,auto
-comesa,comesa,COMESA,ZMB,other,auto
+comesa,comesa,Common Market for Eastern and Southern Africa,ZMB,other,auto
 comesa-clearing-house,comesa-clearing-house,COMESA Clearing House,XAF,other,auto
 comesa-competition-and-consumer-commission,comesa-competition-and-consumer-commission,COMESA Competition and Consumer Commission,XAF,other,auto
 comfwb,comfwb,COMFWB,SYC,other,auto
@@ -1414,11 +1414,11 @@ datum-africa,datum-africa,Datum Africa,XAF,other,auto
 dbe-south-africa,dbe-south-africa,Department of Basic Education,ZAF,other,auto
 dbsa,dbsa,Development Bank of Southern Africa,ZAF,other,auto
 dc-byte,dc-byte,DC Byte,ZAF,other,auto
-dcdt,dcdt,Department of Communications and Digital Technologies,ZAF,other,auto
+dcdt,dcdt-south-africa,Department of Communications and Digital Technologies,ZAF,other,auto
 dcdt-south-africa,dcdt-south-africa,Department of Communications and Digital Technologies,ZAF,other,auto
 dceo-lesotho,dceo-lesotho,DCEO,LSO,other,auto
 dci-kenya,dci-kenya,DCI,KEN,other,auto
-dcrnpi,dcrnpi,DCRNPI,SSD,other,auto
+dcrnpi,dcrnpi-south-sudan,DCRNPI,SSD,other,auto
 dcrnpi-south-sudan,dcrnpi-south-sudan,DCRNPI,SSD,other,auto
 dcspay,dcspay,DCSPay,XAF,other,auto
 de-cix,de-cix,DE-CIX,COD,other,auto
@@ -1460,7 +1460,7 @@ department-of-social-development-south-africa,department-of-social-development-s
 department-of-state-services,department-of-state-services,"Department of State Services, Nigeria",NGA,government,auto
 department-of-trade-industry-and-competition-south-africa,department-of-trade-industry-and-competition-south-africa,"Department of Trade, Industry and Competition, South Africa",ZAF,government,auto
 department-of-transport-south-africa,department-of-transport-south-africa,"Department of Transport, South Africa",ZAF,government,auto
-dept-communications-digital-technologies-za,dept-communications-digital-technologies-za,Department of Communications and Digital Technologies,ZAF,other,auto
+dept-communications-digital-technologies-za,dcdt-south-africa,Department of Communications and Digital Technologies,ZAF,other,auto
 dermalog,dermalog,Dermalog,COD,other,auto
 deutsche-welle,deutsche-welle,Deutsche Welle,NER,other,auto
 development-bank-ghana,development-bank-ghana,Development Bank Ghana,GHA,other,auto
@@ -1650,7 +1650,7 @@ douanes-cameroun,douanes-cameroun,Douanes camerounaises,CMR,other,auto
 douanes-guinee,douanes-guinee,Douanes guinéennes,GIN,other,auto
 douanes-madagascar,douanes-madagascar,Direction générale des douanes,MDG,other,auto
 douanes-senegal,douanes-senegal,Douanes,SEN,other,auto
-dpga,dpga,Digital Public Goods Alliance,XGL,other,auto
+dpga,digital-public-goods-alliance,Digital Public Goods Alliance,XGL,other,auto
 dpi4africa,dpi4africa,DPI4Africa,KEN,other,auto
 dpme-south-africa,dpme-south-africa,Achieved DPME,ZAF,other,auto
 dpsa-south-africa,dpsa-south-africa,Department of Public Service and Administration,ZAF,other,auto
@@ -1727,7 +1727,7 @@ economic-and-social-development-council-libya,economic-and-social-development-co
 economic-development-board-mauritius,economic-development-board-mauritius,Economic Development Board,MUS,other,auto
 economic-policy-research-centre-uganda,economic-policy-research-centre-uganda,Economic Policy Research Centre,UGA,other,auto
 economics-association-of-malawi,economics-association-of-malawi,Economics Association of Malawi,MWI,other,auto
-ecowas,ecowas,ECOWAS,XWA,other,auto
+ecowas,ecowas,Economic Community of West African States,XWA,other,auto
 ecowas-court-of-justice,ecowas-court-of-justice,ECOWAS Court of Justice,XWA,other,auto
 ecsa-hc,ecsa-hc,ECSA-HC,SWZ,other,auto
 edbm-madagascar,edbm-madagascar,Economic Development Board of Madagascar,MDG,other,auto
@@ -1922,7 +1922,7 @@ european-central-bank,european-central-bank,European Central Bank,,other,auto
 european-commission,european-commission,European Commission,XGL,other,auto
 european-data-protection-board,european-data-protection-board,European Data Protection Board,XGL,other,auto
 european-external-action-service,european-external-action-service,European External Action Service,SYC,other,auto
-european-investment-bank,european-investment-bank,European Investment Bank,TUN,other,auto
+european-investment-bank,eib,European Investment Bank,TUN,other,auto
 european-union,european-union,European Union,XAF,other,auto
 eutelsat,eutelsat,Eutelsat,CIV,other,auto
 eutelsat-oneweb,eutelsat-oneweb,Eutelsat OneWeb,GHA,other,auto
@@ -2056,7 +2056,7 @@ flowminder,flowminder,Flowminder,COD,other,auto
 flowt,flowt,Flowt,KEN,other,auto
 flutterwave,flutterwave,Flutterwave,NGA,other,auto
 fmcide,fmcide,FMCIDE,NGA,other,auto
-fmi,fmi,Le FMI,CIV,other,auto
+fmi,imf,International Monetary Fund,CIV,other,auto
 fnau,fnau,La Fnau,TUN,other,auto
 fnb,fnb,First National Bank,ZAF,other,auto
 fnb-eswatini,fnb-eswatini,FNB Eswatini,SWZ,other,auto
@@ -2100,7 +2100,7 @@ freedom-house,freedom-house,Freedom House,SDN,other,auto
 freetown-city-council,freetown-city-council,Freetown City Council,SLE,other,auto
 frelimo,frelimo,Frelimo,MOZ,other,auto
 fringe-infrastructure,fringe-infrastructure,Fringe Infrastructure,NGA,other,auto
-fs-engineering,fs-engineering,FS Engineering,TZA,other,auto
+fs-engineering,its-engineering,FS Engineering,TZA,other,auto
 fsca,fsca,Financial Sector Conduct Authority,ZAF,other,auto
 fsd-africa,fsd-africa,FSD Africa,XAF,other,auto
 fsd-kenya,fsd-kenya,Financial Sector Deepening,KEN,other,auto
@@ -2157,7 +2157,7 @@ gatefield,gatefield,Gatefield,NGA,other,auto
 gates-foundation,gates-foundation,Gates Foundation,XAF,other,auto
 gauteng-department-of-e-government,gauteng-department-of-e-government,Gauteng e-Government department,ZAF,other,auto
 gauteng-provincial-legislature,gauteng-provincial-legislature,Gauteng Provincial Legislature,ZAF,other,auto
-gavi,gavi,Global Alliance for Vaccines and Immunization,COM,other,auto
+gavi,gavi,"Gavi, the Vaccine Alliance",COM,other,auto
 gbessoke-benin,gbessoke-benin,GBESSOKE,BEN,other,auto
 gcb-bank,gcb-bank,GCB Bank,GHA,other,auto
 gcib,gcib,GCIB and BCSSL,SEN,other,auto
@@ -2235,7 +2235,7 @@ gitex-nigeria,gitex-nigeria,GITEX Nigeria,NGA,other,auto
 gitge-gnq,gitge-gnq,GITGE,GNQ,other,auto
 github,github,GitHub,SDN,other,auto
 givedirectly,givedirectly,GiveDirectly,TGO,other,auto
-giz,giz,GIZ Kenya,MRT,other,auto
+giz,giz,Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ),MRT,other,auto
 globacom,globacom,Globacom,NGA,other,auto
 global-affairs-canada,global-affairs-canada,Global Affairs Canada,XSS,other,auto
 global-alliance-for-trade-facilitation,global-alliance-for-trade-facilitation,Global Alliance for Trade Facilitation,TGO,other,auto
@@ -2362,7 +2362,7 @@ grupo-teleport,grupo-teleport,Grupo Teleport,CPV,other,auto
 grupo-teletur,grupo-teletur,Grupo Teletur,CPV,other,auto
 gs1-ghana,gs1-ghana,GS1 Ghana,GHA,other,auto
 gsimt,gsimt,GSIMT,MAR,other,auto
-gsma,gsma,GSMA Intelligence,XAF,other,auto
+gsma,gsma,GSMA,XAF,other,auto
 gtape-guinea-bissau,gtape-guinea-bissau,GTAPE,GNB,other,auto
 gtco,gtco,Board of GTCO,NGA,other,auto
 gti-gabon,gti-gabon,GTI Gabon,GAB,other,auto
@@ -2439,7 +2439,7 @@ hirshabelle-state,hirshabelle-state,Hirshabelle State,SOM,other,auto
 hisp-centre,hisp-centre,HISP Centre,GNB,other,auto
 hisp-uganda,hisp-uganda,Health Information Systems Program,UGA,other,auto
 hisp-wca,hisp-wca,HISP West and Central Africa,TGO,other,auto
-hisp-west-and-central-africa,hisp-west-and-central-africa,HISP West and Central Africa,XCA,other,auto
+hisp-west-and-central-africa,hisp-wca,HISP West and Central Africa,XCA,other,auto
 hive-global-group,hive-global-group,Hive Global Group,UGA,other,auto
 hivos-triodos-fonds,hivos-triodos-fonds,Hivos-Triodos Fonds,ZMB,other,auto
 hmn-tech,hmn-tech,HMN Tech,SYC,other,auto
@@ -2539,7 +2539,7 @@ ifpb-burkina-faso,ifpb-burkina-faso,Institut des finances publiques du Burkina (
 ifrc,ifrc,International Federation of Red Cross,BWA,other,auto
 iftin-foundation,iftin-foundation,Iftin Foundation,SOM,other,auto
 iga-bahrain,iga-bahrain,Information & eGovernment Authority (iGA),COM,other,auto
-igad,igad,EAC and IGAD,XEA,other,auto
+igad,igad,Intergovernmental Authority on Development,XEA,other,auto
 igca-angola,igca-angola,IGCA,AGO,other,auto
 igebu-burundi,igebu-burundi,IGEBU,BDI,other,auto
 igf-drc,igf-drc,L’IGF,COD,other,auto
@@ -2565,7 +2565,7 @@ ikea-egypt,ikea-egypt,IKEA Egypt,EGY,other,auto
 ikm-advocates,ikm-advocates,IKM Advocates,KEN,other,auto
 ikoue,ikoue,Ikoue,CAF,other,auto
 ilitha-telecommunications,ilitha-telecommunications,Ilitha Telecommunications CEO,ZAF,other,auto
-ilo,ilo,International Labour Organisation,COG,other,auto
+ilo,international-labour-organization,International Labour Organization,COG,other,auto
 ilraj-sierra-leone,ilraj-sierra-leone,ILRAJ,SLE,other,auto
 im-bank-kenya,im-bank-kenya,I&M Bank,KEN,other,auto
 ima-angola,ima-angola,Instituto de Modernização Administrativa,AGO,other,auto
@@ -2719,23 +2719,23 @@ international-centre-for-tax-and-development,international-centre-for-tax-and-de
 international-commission-of-jurists,international-commission-of-jurists,International Commission of Jurists,TUN,other,auto
 international-computer-company,international-computer-company,International Computer Company,SLE,other,auto
 international-energy-agency,international-energy-agency,International Energy Agency,KEN,other,auto
-international-finance-corporation,international-finance-corporation,International Finance Corporation,MAR,other,auto
+international-finance-corporation,ifc,International Finance Corporation,MAR,other,auto
 international-gene-synthesis-consortium,international-gene-synthesis-consortium,International Gene Synthesis Consortium,GHA,other,auto
 international-idea,international-idea,International IDEA,XSA,other,auto
 international-integrated-systems-inc,international-integrated-systems-inc,International Integrated Systems Inc,SWZ,other,auto
 international-justice-mission,international-justice-mission,International Justice Mission,UGA,other,auto
-international-labour-organisation,international-labour-organisation,International Labour Organization,ZMB,other,auto
+international-labour-organisation,international-labour-organization,International Labour Organization,ZMB,other,auto
 international-labour-organization,international-labour-organization,International Labour Organization,KEN,other,auto
 international-olympic-committee,international-olympic-committee,International Olympic Committee,SEN,other,auto
 international-organization-for-migration,international-organization-for-migration,International Organization for Migration,XWA,other,auto
-international-telecommunication-union,international-telecommunication-union,International Telecommunication Union,SDN,other,auto
+international-telecommunication-union,itu,International Telecommunication Union,SDN,other,auto
 international-telecommunications-satellite-organization,international-telecommunications-satellite-organization,International Telecommunications Satellite Organization,XAF,other,auto
 international-trade-centre,international-trade-centre,International Trade Centre,SLE,other,auto
 international-union-against-tuberculosis-and-lung-disease,international-union-against-tuberculosis-and-lung-disease,International Union Against Tuberculosis and Lung Disease,CAF,other,auto
 internet-governance-forum,internet-governance-forum,Internet Governance Forum,XAF,other,auto
 internet-sans-frontieres,internet-sans-frontieres,Internet Sans Frontières,BEN,other,auto
 internet-society,internet-society,Internet Society,SDN,other,auto
-internet-society-africa-history,internet-society-africa-history,Internet Society,XAF,other,auto
+internet-society-africa-history,internet-society,Internet Society,XAF,other,auto
 internet-society-benin-chapter,internet-society-benin-chapter,Beninese chapter of the Internet Society,BEN,other,auto
 internet-society-burkina-faso,internet-society-burkina-faso,Internet Society. Entre,BFA,other,auto
 internet-society-drc,internet-society-drc,Internet Society DRC,COD,other,auto
@@ -2756,7 +2756,7 @@ inveep,inveep,INVEEP,TUN,other,auto
 invest-international,invest-international,Invest International,CIV,other,auto
 invictus-global-media-group,invictus-global-media-group,Invictus Global Media Group,MWI,other,auto
 inwi,inwi,CEO of Inwi,MAR,other,auto
-iom,iom,International Organisation for Migration,SSD,other,auto
+iom,international-organization-for-migration,International Organization for Migration,SSD,other,auto
 iota-foundation,iota-foundation,IOTA Foundation,NGA,other,auto
 iozera,iozera,Iozera,MAR,other,auto
 ipar-senegal,ipar-senegal,Grainroot IPAR,SEN,other,auto
@@ -2928,7 +2928,7 @@ kenya-school-of-government,kenya-school-of-government,Kenya School of Government
 kenya-space-agency,kenya-space-agency,Kenya Space Agency,KEN,other,auto
 kenya-state-department-for-agriculture,kenya-state-department-for-agriculture,State Department for Agriculture,KEN,other,auto
 kenya-union-of-journalists,kenya-union-of-journalists,Kenya Union of Journalists,KEN,other,auto
-kfw,kfw,KfW Banque,SEN,other,auto
+kfw,kfw,KfW Development Bank,SEN,other,auto
 khazna-data-center,khazna-data-center,Khazna Data Center,EGY,other,auto
 kiambu-county-government,kiambu-county-government,County Kiambu,KEN,other,auto
 kictanet,kictanet,KICTANet,KEN,other,auto
@@ -3213,7 +3213,7 @@ maziv,maziv,Maziv,ZAF,other,auto
 mbabane-municipal-council,mbabane-municipal-council,Municipal Council of Mbabane,SWZ,other,auto
 mbsse,mbsse,Ministry of Basic and Senior Secondary Education,SLE,other,auto
 mbtp-sa,mbtp-sa,MBTP SA,COD,other,auto
-mcb,mcb,Mauritius Commercial Bank,MUS,other,auto
+mcb,mauritius-commercial-bank,Mauritius Commercial Bank,MUS,other,auto
 mcc,mcc,Millennium Challenge Corporation,CIV,other,auto
 mcdr-egypt,mcdr-egypt,Chairperson of MCDR,EGY,other,auto
 mcgovern-foundation,mcgovern-foundation,McGovern Foundation,XAF,other,auto
@@ -3270,7 +3270,7 @@ mepst-rdc,mepst-rdc,MEPST,COD,other,auto
 mepsta-togo,mepsta-togo,MEPSTA,TGO,other,auto
 mepua-guinea,mepua-guinea,MEPUA,GIN,other,auto
 merankabandi,merankabandi,Merankabandi,BDI,other,auto
-mercury-angola,mercury-angola,Mercury,AGO,other,auto
+mercury-angola,mercury-telecom-angola,Mercury,AGO,other,auto
 mercury-telecom-angola,mercury-telecom-angola,Mercury,AGO,other,auto
 meridiam,meridiam,Meridiam,UGA,other,auto
 mescti-angola,mescti-angola,MESCTI,AGO,other,auto
@@ -4397,7 +4397,7 @@ mulungushi-university,mulungushi-university,Mulungushi University,ZMB,other,auto
 muni-gnq,muni-gnq,Muni Dinero,GNQ,other,auto
 municipalite-de-bizerte,municipalite-de-bizerte,commune de Bizerte,TUN,other,auto
 munisys,munisys,Munisys,MAR,other,auto
-muranga-county,muranga-county,Murang'a County,KEN,other,auto
+muranga-county,muranga-county-government,Murang'a County,KEN,other,auto
 muranga-county-government,muranga-county-government,Murang’a County,KEN,other,auto
 muso,muso,Les ASCs de Muso,MLI,other,auto
 mvola,mvola,MVola,MDG,other,auto
@@ -4526,7 +4526,7 @@ national-health-insurance-authority-ghana,national-health-insurance-authority-gh
 national-health-intelligence-centre-rwanda,national-health-intelligence-centre-rwanda,National Health Intelligence Centre,RWA,other,auto
 national-human-rights-commission-gambia,national-human-rights-commission-gambia,National Human Rights Commission,GMB,other,auto
 national-human-rights-commission-nigeria,national-human-rights-commission-nigeria,National Human Rights Commission,NGA,other,auto
-national-id-program-ethiopia,national-id-program-ethiopia,National ID Program,ETH,other,auto
+national-id-program-ethiopia,fayda-ethiopia-national-id,National ID Program,ETH,other,auto
 national-identification-and-registration-authority-uganda,national-identification-and-registration-authority-uganda,National Identification and Registration Authority,UGA,other,auto
 national-identification-authority-ghana,national-identification-authority-ghana,National Identification Authority,GHA,other,auto
 national-identification-registry-liberia,national-identification-registry-liberia,National Identification Registry,LBR,other,auto
@@ -4626,7 +4626,7 @@ netherlands-embassy-benin,netherlands-embassy-benin,"Netherlands Embassy, Benin"
 netone,netone,NetOne,ZWE,other,auto
 network-international,network-international,Network International,SDN,other,auto
 never-again-rwanda,never-again-rwanda,Never Again Rwanda,RWA,other,auto
-new-digital-africa,new-digital-africa,Digital Africa,XAF,other,auto
+new-digital-africa,digital-africa,Digital Africa,XAF,other,auto
 new-era-publication,new-era-publication,China. New Era Publication,NAM,other,auto
 new-patriotic-party,new-patriotic-party,Patriotic Party,GHA,other,auto
 new-valley-governorate,new-valley-governorate,New Valley Governorate,EGY,other,auto
@@ -4656,7 +4656,7 @@ nigeria-ai-governance-forum,nigeria-ai-governance-forum,Nigeria AI Governance Fo
 nigeria-customs-service,nigeria-customs-service,Nigeria Customs Service,NGA,other,auto
 nigeria-governors-forum,nigeria-governors-forum,Nigeria Governors’ Forum,NGA,other,auto
 nigeria-id4d,nigeria-id4d,Nigeria ID4D,NGA,other,auto
-nigeria-internet-registration-association,nigeria-internet-registration-association,Nigeria Internet Registration Association,NGA,other,auto
+nigeria-internet-registration-association,nira-nigeria,Nigeria Internet Registration Association,NGA,other,auto
 nigeria-ministry-communications-innovation-digital-economy,nigeria-ministry-communications-innovation-digital-economy,"Ministère de la Communication, de l'Innovation et de l'Économie numérique, Nigeria",NGA,government,auto
 nigeria-national-single-window,nigeria-national-single-window,Nigeria’s National Single Window,NGA,other,auto
 nigeria-police-force,nigeria-police-force,Nigeria Police Force,NGA,other,auto
@@ -4689,7 +4689,7 @@ niss-sudan,niss-sudan,National Intelligence and Security Service,SDN,other,auto
 nissa-libya,nissa-libya,National Information Security and Safety Authority,LBY,other,auto
 nist,nist,National Institute of Standards and Technology,,other,auto
 nita-ghana,nita-ghana,National Information Technology Agency,GHA,other,auto
-nita-u,nita-u,National Information Technology Authority,UGA,other,auto
+nita-u,nita-uganda,National Information Technology Authority,UGA,other,auto
 nita-uganda,nita-uganda,National Information Technology Authority,UGA,other,auto
 nitda,nitda,National Information Technology Development Agency,NGA,other,auto
 niu-congo,niu-congo,projet NIU,COG,other,auto
@@ -4770,7 +4770,7 @@ oddeg,oddeg,ODDEG,DJI,other,auto
 odi,odi,OTIMS. The ODI,XAF,other,auto
 odpc-kenya,odpc-kenya,Office of the Data Protection Commissioner,KEN,other,auto
 odpp-kenya,odpp-kenya,OGW Director of Public Prosecutions,KEN,other,auto
-oecd,oecd,OECD Member,KEN,other,auto
+oecd,oecd,Organisation for Economic Co-operation and Development,KEN,other,auto
 office-for-national-statistics-uk,office-for-national-statistics-uk,UK Office for National Statistics,MWI,other,auto
 office-national-de-la-meteorologie,office-national-de-la-meteorologie,ONM,DZA,other,auto
 office-national-de-la-propriete-fonciere-tunisia,office-national-de-la-propriete-fonciere-tunisia,Office national de la propriété foncière,TUN,other,auto
@@ -4791,7 +4791,7 @@ office-of-the-auditor-general-zimbabwe,office-of-the-auditor-general-zimbabwe,Au
 office-of-the-chief-information-officer-liberia,office-of-the-chief-information-officer-liberia,Office of the Chief Information Officer of Liberia,LBR,other,auto
 office-of-the-chief-minister-sierra-leone,office-of-the-chief-minister-sierra-leone,Office of the Chief Minister,SLE,other,auto
 office-of-the-chief-of-staff-ghana,office-of-the-chief-of-staff-ghana,Office of the Chief of Staff,GHA,other,auto
-office-of-the-data-protection-commissioner-kenya,office-of-the-data-protection-commissioner-kenya,OFFICE OF THE DATA PROTECTION COMMISSIONER,KEN,other,auto
+office-of-the-data-protection-commissioner-kenya,odpc-kenya,OFFICE OF THE DATA PROTECTION COMMISSIONER,KEN,other,auto
 office-of-the-data-protection-commissioner-zambia,office-of-the-data-protection-commissioner-zambia,Establishment of Office of Data Protection Commissioner,ZMB,other,auto
 office-of-the-director-of-public-prosecutions-eswatini,office-of-the-director-of-public-prosecutions-eswatini,Office of the Director of Public Prosecutions,SWZ,other,auto
 office-of-the-director-of-public-prosecutions-mauritius,office-of-the-director-of-public-prosecutions-mauritius,Office of the Director of Public Prosecutions,MUS,other,auto
@@ -4822,7 +4822,7 @@ ogun-state-government,ogun-state-government,Ogun State Government,NGA,other,auto
 ohada,ohada,OHADA,TGO,other,auto
 ohchr,ohchr,OHCHR,XGL,other,auto
 oic-comstech,oic-comstech,OIC-COMSTECH,SDN,other,auto
-oif,oif,OIF,NER,other,auto
+oif,oif-la-francophonie,Organisation internationale de la Francophonie,NER,other,auto
 oif-la-francophonie,oif-la-francophonie,Organisation internationale de la Francophonie,MDG,other,auto
 okab,okab,OKAB,COD,other,auto
 okahao-town-council,okahao-town-council,Okahao Town Council,NAM,other,auto
@@ -5092,7 +5092,7 @@ poulina-group-holding,poulina-group-holding,POULINA,TUN,other,auto
 power-learn-project,power-learn-project,Power Learn Project,KEN,other,auto
 power-sub-link,power-sub-link,Power Sub Link,EGY,other,auto
 powercom-namibia,powercom-namibia,PowerCom,NAM,other,auto
-powertel,powertel,Powertel Communications,ZWE,other,auto
+powertel,powertel-communications,Powertel Communications,ZWE,other,auto
 powertel-communications,powertel-communications,Powertel Communications,ZWE,other,auto
 pozi,pozi,POZI,GAB,other,auto
 ppa-ci,ppa-ci,PPA-CI,CIV,other,auto
@@ -5314,7 +5314,7 @@ richblack-communications-uganda,richblack-communications-uganda,Richblack Commun
 ricta,ricta,Rwanda Internet Community and Technology Alliance,RWA,other,auto
 right-to-access-information-commission-sierra-leone,right-to-access-information-commission-sierra-leone,Access Information Commission RTAI Right,SLE,other,auto
 ripple,ripple,Ripple,ZAF,other,auto
-risa-rwanda,risa-rwanda,Rwanda Information Society Authority,RWA,other,auto
+risa-rwanda,rwanda-information-society-authority,Rwanda Information Society Authority,RWA,other,auto
 rita-tanzania,rita-tanzania,Registration Insolvency and Trusteeship Agency,TZA,other,auto
 rittal,rittal,Rittal,ETH,other,auto
 rkovera,rkovera,RKovera,SEN,other,auto
@@ -5454,7 +5454,7 @@ secretariat-permanent-reforme-domaniale-fonciere-mali,secretariat-permanent-refo
 secretary-to-the-government-of-the-federation-nigeria,secretary-to-the-government-of-the-federation-nigeria,Office of the Secretary to the Government of the Federation,NGA,other,auto
 secu-pass-mali,secu-pass-mali,SECU-PASS MALI,MLI,other,auto
 secureke,secureke,SecureKE,KEN,other,auto
-securities-and-exchange-commission-nigeria,securities-and-exchange-commission-nigeria,Securities and Exchange Commission,NGA,other,auto
+securities-and-exchange-commission-nigeria,sec-nigeria,Securities and Exchange Commission,NGA,other,auto
 sedco-eswatini,sedco-eswatini,SEDCO,SWZ,other,auto
 seeg-gabon,seeg-gabon,La SEEG,GAB,other,auto
 seerbit,seerbit,SeerBit,NGA,other,auto
@@ -5510,7 +5510,7 @@ seychelles-bureau-of-standards,seychelles-bureau-of-standards,Seychelles Bureau 
 seychelles-licensing-authority,seychelles-licensing-authority,Seychelles Licensing Authority,SYC,other,auto
 seychelles-maritime-safety-authority,seychelles-maritime-safety-authority,Seychelles Maritime Safety Authority,SYC,other,auto
 seychelles-meteorological-authority,seychelles-meteorological-authority,Seychelles Meteorological Authority,SYC,other,auto
-seychelles-police,seychelles-police,Seychelles Police Force,SYC,other,auto
+seychelles-police,seychelles-police-force,Seychelles Police Force,SYC,other,auto
 seychelles-police-force,seychelles-police-force,Seychelles Police Force,SYC,other,auto
 seychelles-ports-authority,seychelles-ports-authority,Seychelles Ports Authority,SYC,other,auto
 seychelles-revenue-commission,seychelles-revenue-commission,Seychelles Revenue Commission,SYC,other,auto
@@ -5990,7 +5990,7 @@ tvet-council-uganda,tvet-council-uganda,TVET council,UGA,other,auto
 twenty-third-century-systems,twenty-third-century-systems,Twenty Third Century Systems,MWI,other,auto
 twiga-foods,twiga-foods,Twiga Foods,KEN,other,auto
 tymebank,tymebank,TymeBank,ZAF,other,auto
-uadf-sierra-leone,uadf-sierra-leone,Universal Access Development Fund,SLE,other,auto
+uadf-sierra-leone,universal-access-development-fund-sierra-leone,Universal Access Development Fund,SLE,other,auto
 uae,uae,United Arab Emirates,ARE,other,auto
 uae-cybersecurity-council,uae-cybersecurity-council,UAE Cybersecurity Council,ARE,other,auto
 uae-general-civil-aviation-authority,uae-general-civil-aviation-authority,UAE's General Civil Aviation Authority,ARE,other,auto
@@ -5999,14 +5999,14 @@ uba-tchad,uba-tchad,UBA Tchad,TCD,other,auto
 uber,uber,Abuja Uber,NGA,other,auto
 ubuntu-capital,ubuntu-capital,Ubuntu Capital,UGA,other,auto
 ubuntunet-alliance,ubuntunet-alliance,UbuntuNet Alliance,XEA,other,auto
-ucc,ucc,Uganda Communications Commission,UGA,other,auto
+ucc,uganda-communications-commission,Uganda Communications Commission,UGA,other,auto
 ucesa,ucesa,UCESA,MAR,other,auto
 ucl-iipp,ucl-iipp,UCL Institute for Innovation and Public Purpose (IIPP),XGL,other,auto
 uclg-africa,uclg-africa,UCLG Africa,XAF,other,auto
 ucsaf,ucsaf,Universal Communications Service Access Fund,TZA,other,auto
 udecom,udecom,UDECOM,COD,other,auto
 udu-technologies,udu-technologies,Udu Technologies,NGA,other,auto
-uemoa,uemoa,UEMOA,XWA,other,auto
+uemoa,waemu,West African Economic and Monetary Union,XWA,other,auto
 uganda-association-of-ict-professionals,uganda-association-of-ict-professionals,Uganda Association of ICT Professionals,UGA,other,auto
 uganda-bankers-association,uganda-bankers-association,Uganda Bankers’ Association,UGA,other,auto
 uganda-bureau-of-statistics,uganda-bureau-of-statistics,Uganda Bureau of Statistics,UGA,other,auto
@@ -6024,7 +6024,7 @@ uganda-national-bureau-of-standards,uganda-national-bureau-of-standards,Uganda N
 uganda-police,uganda-police,Uganda Police,UGA,other,auto
 uganda-police-force,uganda-police-force,Uganda Police Force,UGA,other,auto
 uganda-printing-and-publishing-corporation,uganda-printing-and-publishing-corporation,Uganda Printing and Publishing Corporation,UGA,other,auto
-uganda-revenue-authority,uganda-revenue-authority,Uganda Revenue Authority,UGA,other,auto
+uganda-revenue-authority,ura-uganda,Uganda Revenue Authority,UGA,other,auto
 uganda-sugar-manufacturers-association,uganda-sugar-manufacturers-association,Uganda Sugar Manufacturers Association,UGA,other,auto
 uganda-tourism-board,uganda-tourism-board,Uganda Tourism Board,UGA,other,auto
 uganda-vocational-and-technical-assessment-board,uganda-vocational-and-technical-assessment-board,Uganda Vocational and Technical Assessment Board,UGA,other,auto
@@ -6034,7 +6034,7 @@ ugptn-drc,ugptn-drc,UGPTN,COD,other,auto
 uict,uict,Uganda Institute of Communication Technology,UGA,other,auto
 uidai,uidai,UIDAI,ZMB,other,auto
 uimo-angola,uimo-angola,Unidade de Intermediação da Mão de Obra,AGO,other,auto
-uit,uit,UIT,CIV,other,auto
+uit,itu,International Telecommunication Union,CIV,other,auto
 uixp,uixp,UIXP.The,UGA,other,auto
 uk-fcdo,uk-fcdo,UK FCDO,NGA,other,auto
 uk-government,uk-government,U.K. government,NGA,other,auto
@@ -6058,11 +6058,11 @@ un-working-group-on-mercenaries,un-working-group-on-mercenaries,UN Working Group
 uncdf,uncdf,United Nations Capital Development Fund,SLE,other,auto
 uncitral,uncitral,UNCITRAL,GHA,other,auto
 uncovr,uncovr,Uncovr,MAR,other,auto
-unctad,unctad,UNCTAD,MRT,other,auto
+unctad,unctad,United Nations Conference on Trade and Development,MRT,other,auto
 unctad-asycuda-programme,unctad-asycuda-programme,ASYCUDA Programme,GMB,other,auto
 undp,undp,United Nations Development Programme,MWI,other,auto
-undp-liberia,undp-liberia,United Nations Development Programme,LBR,other,auto
-undp-somalia,undp-somalia,United Nations Development Programme,SOM,other,auto
+undp-liberia,undp,United Nations Development Programme,LBR,other,auto
+undp-somalia,undp,United Nations Development Programme,SOM,other,auto
 uneb,uneb,Uganda National Examinations Board,UGA,other,auto
 uneca,uneca,United Nations Economic Commission for Africa,XAF,other,auto
 unep-copenhagen-climate-centre,unep-copenhagen-climate-centre,UNEP Copenhagen Climate Centre,ZMB,other,auto
@@ -6070,7 +6070,7 @@ unesco,unesco,UNESCO,XAF,other,auto
 unesco-iicba,unesco-iicba,UNESCO IICBA,ERI,other,auto
 unesco-institute-for-statistics,unesco-institute-for-statistics,UNESCO Institute for Statistics,MRT,other,auto
 unfccc,unfccc,UNFCCC,XAF,other,auto
-unfpa,unfpa,UNFPA,SLE,other,auto
+unfpa,unfpa,United Nations Population Fund,SLE,other,auto
 unge-gnq,unge-gnq,Universidad Nacional de Guinea Ecuatorial,GNQ,other,auto
 unhcr,unhcr,United Nations High Commissioner for Refugees,ETH,other,auto
 uni-cv,uni-cv,Uni-CV,CPV,other,auto
@@ -6098,7 +6098,7 @@ unite-cartographique-comores,unite-cartographique-comores,Cellule de Cartographi
 united-bank-for-africa,united-bank-for-africa,United Bank for Africa,XAF,other,auto
 united-nations,united-nations,United Nations,XGL,other,auto
 united-nations-health-industry-foundation,united-nations-health-industry-foundation,United Nations Health Industry Foundation,UGA,other,auto
-united-nations-kenya,united-nations-kenya,United Nations,KEN,other,auto
+united-nations-kenya,united-nations,United Nations,KEN,other,auto
 united-party-for-national-development,united-party-for-national-development,United Party for National Development,ZMB,other,auto
 united-sa,united-sa,United SA,COD,other,auto
 unitel,unitel,UNITEL,AGO,other,auto
@@ -6117,7 +6117,7 @@ universidade-eduardo-mondlane,universidade-eduardo-mondlane,Universidade Eduardo
 universidade-oscar-ribas,universidade-oscar-ribas,Óscar Ribas University,AGO,other,auto
 universidade-pedagogica-de-maputo,universidade-pedagogica-de-maputo,Pedagogical University of Maputo,MOZ,other,auto
 universite-abdou-moumouni-niger,universite-abdou-moumouni-niger,UAM,NER,other,auto
-universite-abomey-calavi,universite-abomey-calavi,UNIVERSITE D’ABOMEY-CALAVI,BEN,other,auto
+universite-abomey-calavi,universite-dabomey-calavi,UNIVERSITE D’ABOMEY-CALAVI,BEN,other,auto
 universite-andre-salifou-zinder,universite-andre-salifou-zinder,Universite Andre Salifou,NER,other,auto
 universite-dabomey-calavi,universite-dabomey-calavi,Université d'Abomey-Calavi,BEN,other,auto
 universite-de-diffa,universite-de-diffa,Université de Diffa,NER,other,auto
@@ -6177,7 +6177,7 @@ us-fcc,us-fcc,Federal Communications Commission,XGL,other,auto
 us-federal-trade-commission,us-federal-trade-commission,US Federal Trade Commission,XGL,other,auto
 us-state-department,us-state-department,US State Department,UGA,other,auto
 usaasa,usaasa,Universal Service and Access Agency of South Africa,ZAF,other,auto
-usaid,usaid,U.S. Agency for International Development,XSS,other,auto
+usaid,usaid,United States Agency for International Development,XSS,other,auto
 usawa-agenda,usawa-agenda,Usawa Agenda,KEN,other,auto
 ustda,ustda,U.S. Trade and Development Agency,NGA,other,auto
 utict-mozambique,utict-mozambique,UTICT. Estrategia,MOZ,other,auto
@@ -6279,18 +6279,18 @@ western-cape-department-of-infrastructure,western-cape-department-of-infrastruct
 western-cape-education-department,western-cape-education-department,Western Cape Education Department,ZAF,other,auto
 western-cape-government,western-cape-government,Western Cape Government,ZAF,other,auto
 wewire,wewire,WeWire,GHA,other,auto
-wfp,wfp,World Food Programme,SOM,other,auto
+wfp,world-food-programme,World Food Programme,SOM,other,auto
 what3words,what3words,What3words,DJI,other,auto
 white-house,white-house,White House,XGL,other,auto
 white-ribbon-alliance,white-ribbon-alliance,White Ribbon Alliance,SLE,other,auto
-who,who,World Health Organization,ERI,other,auto
+who,world-health-organization,World Health Organization,ERI,other,auto
 wi-flix,wi-flix,Wi-flix,XAF,other,auto
 wibmo,wibmo,WIBMO,KEN,other,auto
 wildaf-cote-divoire,wildaf-cote-divoire,WiLDAF-CI,CIV,other,auto
 william-ruto,william-ruto,William Ruto,KEN,other,auto
 wingu-africa,wingu-africa,Wingu Africa,XAF,other,auto
 wingxtra-aerospace,wingxtra-aerospace,Wingxtra Aerospace,GHA,other,auto
-wiocc,wiocc,West Indian Ocean Cable Company,XAF,other,auto
+wiocc,wiocc-group,West Indian Ocean Cable Company,XAF,other,auto
 wiocc-group,wiocc-group,West Indian Ocean Cable Company,ZAF,other,auto
 wipo,wipo,World Intellectual Property Organization,MUS,other,auto
 wisekey,wisekey,WISeKey,SYC,other,auto
@@ -6309,7 +6309,7 @@ world-vision-netherlands,world-vision-netherlands,World Vision Sudan,AGO,other,a
 world-wide-worx,world-wide-worx,World Wide Worx,ZAF,other,auto
 worldpop,worldpop,WorldPop,MWI,other,auto
 wougnet,wougnet,WOUGNET,UGA,other,auto
-wto,wto,World Trade Organization,CPV,other,auto
+wto,world-trade-organization,World Trade Organization,CPV,other,auto
 wuri-programme,wuri-programme,WURI Programme,BEN,other,auto
 xai,xai,xAI,ZAF,other,auto
 xavier-africa,xavier-africa,Xavier Africa,XAF,other,auto
@@ -6376,7 +6376,7 @@ zesco,zesco,ZESCO,ZMB,other,auto
 zhejiang-africa-service-centre,zhejiang-africa-service-centre,Zhe Jiang Africa Service Centre,XAF,other,auto
 zicta,zicta,Zambia Information and Communications Technology Authority,ZMB,other,auto
 zictia,zictia,ZICTIA,TZA,other,auto
-zida,zida,La ZIDA,ZWE,other,auto
+zida,zimbabwe-investment-and-development-agency,Zimbabwe Investment and Development Agency,ZWE,other,auto
 zig-tech-company-limited,zig-tech-company-limited,Zig-Tech,GMB,other,auto
 zimbabwe-anti-corruption-commission,zimbabwe-anti-corruption-commission,Zimbabwe Anti-Corruption Commission,ZWE,other,auto
 zimbabwe-deeds-registry,zimbabwe-deeds-registry,Deeds Registry,ZWE,other,auto

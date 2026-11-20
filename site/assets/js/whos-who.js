@@ -35,6 +35,7 @@
 
   var D = null, loading = null;     // the index, once fetched
   var rowKey = [];                  // per row: folded name, aliases, position, organisation
+  var orgKey = [];                  // folded name and abbreviations, by org index
   var orgsByName = {};              // folded name -> [org index]
   var blocks = {};                  // block number -> promise of {id: url}
   var shown = [];                   // row numbers the table currently holds, in its order
@@ -62,11 +63,15 @@
       .then(function (d) {
         D = d;
         var pk = d.people.map(function (p) { return fold(p[0] + ' ' + p[1].join(' ')); });
-        var ok = d.orgs.map(function (o) { return fold(o[0]); });
+        // An organisation is found by its name or any abbreviation (o[3]: AfDB, BAD).
+        var ok = d.orgs.map(function (o) { return fold(o[0] + ' ' + (o[3] || []).join(' ')); });
+        orgKey = ok;
         var tk = d.positions.map(fold);
         var R = d.rows;
         for (var i = 0; i < d.count; i++) rowKey.push(pk[R.p[i]] + ' | ' + tk[R.t[i]] + ' | ' + ok[R.o[i]]);
-        d.orgs.forEach(function (o, i) { (orgsByName[fold(o[0])] = orgsByName[fold(o[0])] || []).push(i); });
+        d.orgs.forEach(function (o, i) {
+          [o[0]].concat(o[3] || []).forEach(function (n) { (orgsByName[fold(n)] = orgsByName[fold(n)] || []).push(i); });
+        });
         fillOrgs();
         return d;
       })
@@ -104,7 +109,7 @@
       return set;
     }
     if (t.length < MIN) return null;
-    D.orgs.forEach(function (o, i) { if (fold(o[0]).indexOf(t) > -1) set[i] = 1; });
+    D.orgs.forEach(function (o, i) { if (orgKey[i].indexOf(t) > -1) set[i] = 1; });
     return set;
   }
 

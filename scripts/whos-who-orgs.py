@@ -161,6 +161,40 @@ def main(argv=None) -> int:
                 out[s]["canonical_slug"] = keep
             merged += len(slugs) - 1
 
+    # Abbreviations and one body under two names (Bill, 2026-11-20). A slug spelt as a
+    # listed abbreviation is that body (`afdb` is `african-development-bank`), and the list
+    # names the body where it gives a name: the sources' *La BEAC* or *GIZ Kenya* is not one.
+    # Then two `other` slugs with one name are one body when the list holds either, or
+    # they share their one country (`powertel`, `powertel-communications`). One name in two
+    # countries stays two: *Senate*, *Orange Money*. Governments are left to the stem rule
+    # above, because a truncated display is not the body's name.
+    abbrev = W.read_csv(W.ABBREV, W.ABBREV_COLS)
+    listed = {r["slug"] for r in abbrev}
+    for r in abbrev:
+        if r["name"] and r["slug"] in out and out[r["slug"]]["basis"] == "auto":
+            out[r["slug"]]["name"] = r["name"]
+    folded = 0
+    for r in abbrev:
+        s = W.EV.slugify(r["abbreviation"])
+        if s != r["slug"] and s in out and r["slug"] in out and out[s]["basis"] == "auto":
+            out[s].update(canonical_slug=r["slug"], name=out[r["slug"]]["name"])
+            folded += 1
+    same = collections.defaultdict(list)
+    for o in out.values():
+        if o["kind"] == "other" and o["basis"] == "auto" and o["canonical_slug"] == o["slug"]:
+            same[W.fold(o["name"])].append(o["slug"])
+    for slugs in same.values():
+        if len(slugs) < 2:
+            continue
+        mine = [s for s in slugs if s in listed]
+        if not mine and len({out[s]["place"] for s in slugs if not out[s]["place"].startswith("X")}) > 1:
+            continue
+        keep = mine[0] if mine else max(slugs, key=lambda s: (use[s], s))
+        for s in slugs:
+            if s != keep:
+                out[s]["canonical_slug"] = keep
+                folded += 1
+
     # Finish line: no published government name stands for two countries, or for none.
     faults = []
     pub = collections.defaultdict(set)
@@ -177,7 +211,8 @@ def main(argv=None) -> int:
         print(f"  {'resolved' if k else 'dropped '}  {h}: {n}")
     kinds = collections.Counter(o["kind"] for o in out.values())
     print(f"{len(out)} organisations ({kinds['government']} government, {kinds['other']} other); "
-          f"{len(hand)} hand; {merged} government slugs folded into another")
+          f"{len(hand)} hand; {merged} government slugs folded into another; "
+          f"{folded} by abbreviation or name")
     print(f"names: {dict(named)}; {len(unnamed)} slugs left unnamed, "
           f"{sum(n for n, _, _ in unnamed)} rows")
     for n, slug, form in sorted(unnamed, reverse=True)[:15]:

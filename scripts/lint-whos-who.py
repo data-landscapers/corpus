@@ -48,6 +48,7 @@ DECLARED = {
     L / "person-rulings.csv": ["person_id_a", "person_id_b", "ruling", "ruled"],
     L / "whos-who-suppress.csv": ["person_id", "slug", "date"],
     L / "position-glossary.csv": W.GLOSSARY_COLS,
+    L / "org-abbreviations.csv": W.ABBREV_COLS,
     L / "naming-conventions.csv": ["iso3", "country", "order", "family_caps", "particles", "note",
                                    "basis"],
     ROOT / "build" / "whos-who" / "extract.csv": ["source_url", "name_as_written", "position",

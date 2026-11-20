@@ -1,0 +1,93 @@
+abbreviation,slug,name,basis
+AfDB,african-development-bank,African Development Bank,hand
+BAD,african-development-bank,,hand
+Afreximbank,afreximbank,African Export-Import Bank,hand
+AU,african-union,African Union,hand
+UA,african-union,,hand
+AUC,african-union-commission,African Union Commission,hand
+AUDA-NEPAD,auda-nepad,African Union Development Agency (AUDA-NEPAD),hand
+NEPAD,auda-nepad,,hand
+AfCFTA,afcfta-secretariat,AfCFTA Secretariat,hand
+ZLECAf,afcfta-secretariat,,hand
+ATU,african-telecommunications-union,African Telecommunications Union,hand
+UAT,african-telecommunications-union,,hand
+ECA,uneca,United Nations Economic Commission for Africa,hand
+UNECA,uneca,,hand
+CEA,uneca,,hand
+ECOWAS,ecowas,Economic Community of West African States,hand
+CEDEAO,ecowas,,hand
+SADC,sadc,Southern African Development Community,hand
+EAC,eac,East African Community,hand
+COMESA,comesa,Common Market for Eastern and Southern Africa,hand
+IGAD,igad,Intergovernmental Authority on Development,hand
+ECCAS,eccas,Economic Community of Central African States,hand
+CEEAC,eccas,,hand
+WAEMU,waemu,West African Economic and Monetary Union,hand
+UEMOA,waemu,,hand
+CEMAC,cemac,Central African Economic and Monetary Community,hand
+BEAC,beac,Bank of Central African States,hand
+BCEAO,bceao,Central Bank of West African States,hand
+BOAD,boad,West African Development Bank,hand
+IMF,imf,International Monetary Fund,hand
+FMI,imf,,hand
+IBRD,world-bank,,hand
+IDA,ida,International Development Association,hand
+IFC,ifc,International Finance Corporation,hand
+SFI,ifc,,hand
+MIGA,miga,Multilateral Investment Guarantee Agency,hand
+ITU,itu,International Telecommunication Union,hand
+UIT,itu,,hand
+WHO,world-health-organization,World Health Organization,hand
+OMS,world-health-organization,,hand
+UNDP,undp,United Nations Development Programme,hand
+PNUD,undp,,hand
+UNICEF,unicef,UNICEF,hand
+UNESCO,unesco,UNESCO,hand
+UNCTAD,unctad,United Nations Conference on Trade and Development,hand
+CNUCED,unctad,,hand
+UNHCR,unhcr,United Nations High Commissioner for Refugees,hand
+HCR,unhcr,,hand
+UNFPA,unfpa,United Nations Population Fund,hand
+UNOPS,unops,United Nations Office for Project Services,hand
+FAO,fao,Food and Agriculture Organization,hand
+WFP,world-food-programme,World Food Programme,hand
+PAM,world-food-programme,,hand
+ILO,international-labour-organization,International Labour Organization,hand
+OIT,international-labour-organization,,hand
+IOM,international-organization-for-migration,International Organization for Migration,hand
+OIM,international-organization-for-migration,,hand
+WTO,world-trade-organization,World Trade Organization,hand
+OMC,world-trade-organization,,hand
+OIF,oif-la-francophonie,Organisation internationale de la Francophonie,hand
+OECD,oecd,Organisation for Economic Co-operation and Development,hand
+OCDE,oecd,,hand
+EU,european-union,European Union,hand
+UE,european-union,,hand
+EIB,eib,European Investment Bank,hand
+BEI,eib,,hand
+AFD,agence-francaise-de-developpement,Agence française de développement,hand
+GIZ,giz,Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ),hand
+USAID,usaid,United States Agency for International Development,hand
+JICA,jica,Japan International Cooperation Agency,hand
+KfW,kfw,KfW Development Bank,hand
+GSMA,gsma,GSMA,hand
+ICANN,icann,Internet Corporation for Assigned Names and Numbers,hand
+AFRINIC,afrinic,AFRINIC,hand
+BADEA,badea,Arab Bank for Economic Development in Africa,hand
+IsDB,islamic-development-bank,Islamic Development Bank,hand
+UNIDO,unido,United Nations Industrial Development Organization,hand
+WIPO,wipo,World Intellectual Property Organization,hand
+UPU,universal-postal-union,Universal Postal Union,hand
+EBRD,ebrd,European Bank for Reconstruction and Development,hand
+AIIB,aiib,Asian Infrastructure Investment Bank,hand
+Gavi,gavi,"Gavi, the Vaccine Alliance",hand
+DPGA,digital-public-goods-alliance,Digital Public Goods Alliance,hand
+MCB,mauritius-commercial-bank,Mauritius Commercial Bank,hand
+MCC,mcc,Millennium Challenge Corporation,hand
+DBSA,dbsa,Development Bank of Southern Africa,hand
+ZIDA,zimbabwe-investment-and-development-agency,Zimbabwe Investment and Development Agency,hand
+UCC,uganda-communications-commission,Uganda Communications Commission,hand
+NCC,ncc,Nigerian Communications Commission,hand
+NITDA,nitda,National Information Technology Development Agency,hand
+NIMC,nimc,National Identity Management Commission,hand
+ACTIC,actic-comores,Association comorienne des technologies de l'information et de la communication,hand

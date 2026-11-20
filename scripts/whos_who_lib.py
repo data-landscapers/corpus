@@ -38,6 +38,11 @@ GOV_STEMS = ROOT / "lookups" / "whos-who-gov-stems.csv"
 COUNTRIES = ROOT / "lookups" / "countries.csv"
 ORG_COLS = ["slug", "canonical_slug", "name", "place", "kind", "basis"]
 LINEAGE_COLS = ["slug", "successor_slug", "year", "basis"]
+# An organisation's abbreviations in any language, and the full name it publishes under
+# (Bill, 2026-11-20): `whos-who-orgs.py` folds a slug spelt as an abbreviation into its
+# body and names the body; the page's search finds a body by any of them.
+ABBREV = ROOT / "lookups" / "org-abbreviations.csv"
+ABBREV_COLS = ["abbreviation", "slug", "name", "basis"]
 
 _spec = importlib.util.spec_from_file_location("entity_variants", ROOT / "scripts" / "entity-variants.py")
 EV = importlib.util.module_from_spec(_spec)
@@ -396,5 +401,7 @@ def title_parts(position: str, organisation: str = "", owords: set[str] | None =
             w not in TITLE_STOP and w not in owords and w not in CTOK
             and w[:-1] not in CTOK and w[:-2] not in CTOK and w != "former")]
         if keep:
+            # A plural qualifier is the singular: *Reforms Department*, *Reform Department*.
+            keep = [w if w in _ROLES or len(w) < 5 or not w.endswith("s") else w[:-1] for w in keep]
             out.add(" ".join(sorted(set(keep))) + (" ~former" if former else ""))
     return frozenset(out)

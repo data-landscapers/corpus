@@ -232,6 +232,11 @@ def finish(rows, people, aliases, orgs, places, dropped) -> dict:
     org_slugs = sorted({x["org"] for x in rows}, key=lambda s: (W.fold(orgs[s]["name"]), s))
     o_ix = {s: i for i, s in enumerate(org_slugs)}
     group = lineage_groups(set(org_slugs))
+    abbrev = collections.defaultdict(list)            # searched, never shown
+    for r in W.read_csv(W.ABBREV, W.ABBREV_COLS):
+        c = orgs.get(r["slug"], {}).get("canonical_slug", r["slug"])
+        if r["abbreviation"] not in abbrev[c]:
+            abbrev[c].append(r["abbreviation"])
     positions = sorted({x["position"] for x in rows}, key=W.fold)
     t_ix = {p: i for i, p in enumerate(positions)}
     used_places = sorted({orgs[s]["place"] for s in org_slugs if orgs[s]["place"]},
@@ -241,7 +246,7 @@ def finish(rows, people, aliases, orgs, places, dropped) -> dict:
         "block": BLOCK,
         "places": {c: places.get(c, c) for c in used_places},
         "orgs": [[orgs[s]["name"], orgs[s]["place"], o_ix.get(group[s], o_ix[s])]
-                 for s in org_slugs],
+                 + ([abbrev[s]] if abbrev.get(s) else []) for s in org_slugs],
         "people": [[people[p], sorted(a for a in aliases[p] if a != people[p])] for p in pids],
         "positions": positions,
         "rows": {"p": [p_ix[x["pid"]] for x in rows], "o": [o_ix[x["org"]] for x in rows],
