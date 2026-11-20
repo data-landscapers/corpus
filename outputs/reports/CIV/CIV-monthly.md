@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: CIV
-ledger_rows: 56
+ledger_rows: 57
 not_held: 9
-record: 32b64b4bb738
+record: 307cc4a4b3c5
 ---
 
 # News, Oct – Nov 2026
@@ -377,6 +377,8 @@ Cybastion and Cisco inaugurated a Security Operations Centre in Abidjan on 5 Nov
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
@@ -387,6 +389,22 @@ Cybastion and Cisco inaugurated a Security Operations Centre in Abidjan on 5 Nov
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GUCE foreign-trade single window</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d'Ivoire-AIP/Commerce extérieur : le gouvernement digitalise la délivrance des autorisations d'exportation des produits vivriers](https://www.aip.ci/cote-divoire-aip-commerce-exterieur-le-gouvernement-digitalise-la-delivrance-des-autorisations-dexportation-des-produits-vivriers/)** — Agence Ivoirienne de Presse, 19 November 2026
+
+Food-crop export authorisations move online on GUCE CI, 19 Nov 2026; requests up from 245 to 421 over 2022-2025.
+
+</div>
+
+</div>
 
 ### Digital Identity and CRVS
 
