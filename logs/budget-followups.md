@@ -27,4 +27,3 @@ One line per country, worst first, written on 2026-10-02 from checks A to C of t
 ## Queued by the budget poll
 
 One BUDGET-EXTRACT sitting a line (R106). `budget-watch.py followups` writes them; delete a line in the commit that settles it.
-- **ZWE FY2027** — budget-estimates adds proposed or appropriated: [[2026-11-19-zwe-2027-national-budget-statement-companion]] (queued 2026-11-20).

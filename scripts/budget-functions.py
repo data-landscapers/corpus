@@ -96,8 +96,9 @@ FUNCTIONS = (
      r"public financ\w+ management|\bpfm\b|\be ?budget|budget\w* (information )?system|"
      r"systeme (integre )?de gestion (budgetaire|des finances)|treasury single account|\btsa\b|"
      r"informatique financiere|informatis\w+ (de la |du )?(dgcpt|tresor|comptabilite)"),
+    # Buying an ERP is not the procurement function (ZWE FY2027, ICT ministry's table).
     ("procurement", "Public procurement authority", (),
-     r"procure|marches publics|commande publique|contrat\w+ public|aquisicoes publicas|\be ?gp\b|\barmp\b|\barmds\b"),
+     r"procure(?!ment of erps?\b)|marches publics|commande publique|contrat\w+ public|aquisicoes publicas|\be ?gp\b|\barmp\b|\barmds\b"),
     ("electoral-register", "Electoral commission", (),
      r"\belect(ion|or|eur)|eleit|eleic|voter|scrutin|\bceni\b"),
     ("land-registry", "Land registry", (),

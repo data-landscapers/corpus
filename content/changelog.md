@@ -1,3 +1,7 @@
+## 20 November 2026
+
+- Zimbabwe's 2027 budget is on the Finance page: twenty ICT ministry projects from the budget statement presented on 19 November, ZiG305m in all. They are proposals, and give way to the estimates once those are read.
+
 ## 17 November 2026
 
 - The catalogue now offers a Dead links CSV: sources whose link once worked and no longer does, with the date each was confirmed dead and an archived copy where one exists. Links are checked nightly, and one is listed only after two failed checks a week apart.
