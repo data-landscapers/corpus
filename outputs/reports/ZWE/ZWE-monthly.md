@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: ZWE
 ledger_rows: 44
 not_held: 5
-record: 56d4cf32cbac
+record: bd0d3efffa25
 ---
 
 # News, Oct – Nov 2026
@@ -90,7 +90,7 @@ Zimbabwe's ICT minister Tatenda Mavetera told a cybersecurity summit on 21 Octob
 
 **[Towards human-centric, transparent, ethical deployment of AI](https://www.heraldonline.co.zw/towards-human-centric-transparent-ethical-deployment-of-ai/)** — The Herald, 18 November 2026
 
-37th post-Cabinet briefing, 17 Nov 2026; Charter operationalises AI Strategy 2026–2030 under Ubuntu/Unhu principles.
+Zimbabwe's Cabinet approved the National AI Charter on 17 November 2026, according to the post-Cabinet briefing published on 18 November. The Charter is a governing framework for the National AI Strategy 2026-2030. It sets binding ethical principles, and oversight, coordination and complaints arrangements. A Cabinet committee had approved it on 21 October 2026.
 
 </div>
 
@@ -132,7 +132,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[Govt develops roadmap to implement National AI Strategy](https://www.heraldonline.co.zw/govt-develops-roadmap-to-implement-national-ai-strategy/)** — The Herald, 18 November 2026
 
-Mutare masterclass with UNESCO; actions, owners, timelines for governance, infrastructure, skills, regional integration.
+Zimbabwe's Ministry of ICT, Postal and Courier Services and UNESCO held a masterclass in Mutare, reported on 18 November 2026, to draft a roadmap for the National AI Strategy 2026-2030. The roadmap is to set actions, institutional responsibilities and timelines. President Mnangagwa launched the strategy in March 2026.
 
 </div>
 
@@ -400,7 +400,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 **[ICT ministry gets ZiG1 billion in 2027 budget](https://www.techzim.co.zw/2026/11/ict-ministry-gets-zig1-billion-in-2027-budget/)** — Techzim, 19 November 2026
 
-20 projects worth ZiG305.3m: school ICT labs ZiG50m, Fusion Centre ZiG40m, data exchange ZiG5m; internet 87.3%.
+Techzim reported on 19 November 2026 that Zimbabwe's 2027 Budget allocates about ZiG1 billion to the ICT ministry. The Statement lists 20 projects worth ZiG305.3 million, led by ZiG50 million for school ICT labs and ZiG40 million for the ICT Government Fusion Centre. A Zimbabwe Government Data Exchange receives ZiG5 million.
 
 </div>
 
@@ -408,7 +408,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 **[The 2027 National Budget Statement — "Accelerating Economic Transformation and Building Resilience to Climate and Global Shocks" (Zimbabwe)](https://t3n9sm.c2.acecdn.net/wp-content/uploads/2026/11/2027-National-Budget.pdf)** — Ministry of Finance, Economic Development and Investment Promotion (Zimbabwe), 19 November 2026
 
-ZiG358.3bn expenditure ceiling; ICT ministry ZiG1.03bn; cellphone customs duty 25% to 0%; ZIMRA e-TRACE for digital tax.
+Finance Minister Mthuli Ncube presented Zimbabwe's 2027 National Budget to Parliament on 19 November 2026. It sets an expenditure ceiling of ZiG358.3 billion and allocates ZiG1.03 billion to the ICT ministry. It cuts customs duty on cellular phones from 25% to zero and provides for ZIMRA's e-TRACE system for the digital services withholding tax.
 
 </div>
 
@@ -594,7 +594,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 **[ZIMRA to buy e-TRACE system to track digital payments](https://www.techzim.co.zw/2026/11/zimra-to-buy-e-trace-system-to-track-digital-payments/)** — Techzim, 19 November 2026
 
-Competitive tender for transaction monitoring under digital services withholding tax; no budget, timeline or data terms.
+The 2027 Budget Statement, presented on 19 November 2026, says ZIMRA will buy an e-TRACE system by competitive tender. It is to record and monitor electronic transactions by digital service providers, to support the digital services withholding tax. Techzim reports the Statement gives no budget, timeline or data-protection terms.
 
 </div>
 
@@ -772,7 +772,7 @@ Zimbabwe's ICT ministry and DHL's Ubuntu Academy launched a three-month Digital 
 
 **[Budget cuts duty on cellphones, electric vehicles](https://www.heraldonline.co.zw/budget-cuts-duty-on-cellphones-electric-vehicles/)** — The Herald, 19 November 2026
 
-Duty on handsets 25% to 0 in ZiG358.3bn budget; EV duty 25% to 10%; pass-through to consumers untested.
+Finance Minister Mthuli Ncube proposed on 19 November 2026 cutting customs duty on cellular phones from 25% to zero, in a ZiG358.3 billion budget. The Herald reports the duty on electric vehicles falls from 25% to 10%. The measures are budget proposals and are not yet enacted.
 
 </div>
 
@@ -806,7 +806,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 **[ZIMSTAT opens a direct line to the people as Africa marks Statistics Day](https://www.heraldonline.co.zw/zimstat-opens-a-direct-line-to-the-people-as-africa-marks-statistics-day/)** — The Herald, 19 November 2026
 
-Chatbot, WhatsApp and toll-free lines for enquiries and enumerator checks; Statistics Day theme on water and sanitation.
+The Zimbabwe National Statistics Agency launched a chatbot, a WhatsApp line and a toll-free line on 18 November 2026, African Statistics Day. The public can use them to query statistics, verify survey enumerators and give feedback.
 
 </div>
 

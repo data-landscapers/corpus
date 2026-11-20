@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: DZA
 ledger_rows: 44
 not_held: 6
-record: f48850026980
+record: b9c16ee092cf
 ---
 
 # News, Oct – Nov 2026
@@ -638,7 +638,7 @@ Algeria's High Commission for Digitisation said all public administrations now a
 
 **[Tourisme et artisanat: 20 services sur Dzair Digital Services](https://www.algerie360.com/dzair-digital-services-tourisme-artisanat-nouveaux-services/)** — Algerie360, 16 November 2026
 
-Six tourism-business, training and 11 handicraft services added; portal near two million users four months in.
+Algeria's High Commission for Digitalisation added 20 services on 16 November 2026, with the Ministry of Tourism and Handicrafts. Six serve tourism businesses and training, and 11 serve artisans, including craft-register enrolment and artisan-card renewal.
 
 </div>
 

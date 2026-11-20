@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: NAM
 ledger_rows: 29
 not_held: 8
-record: 17f7d3b3e133
+record: 4ad279ebecdd
 ---
 
 # News, Oct – Nov 2026
@@ -152,7 +152,7 @@ Namibia's ICT ministry plans two telecommunications towers, at Noordoewer and Ha
 
 **[PowerCom seeks N$375m to roll out fibre network to 75,000 homes](https://thebrief.com.na/2026/11/powercom-seeks-n375m-to-roll-out-fibre-network-to-75000-homes/)** — The Brief, 17 November 2026
 
-N$375m ask over three years; 28,300 connections targeted; N$3.08m Otjomuise pilot; CRAN 56,331 fibre services (Mar 2026).
+PowerCom's chief executive told a GIPF investment symposium in Windhoek on 12 November 2026 that the company seeks N$375 million over three years. The open-access fibre network would pass 75,000 homes. It targets about 28,300 connections by year three, starting with a N$3.08 million pilot of 654 homes.
 
 </div>
 
@@ -272,7 +272,7 @@ The Namibia Revenue Agency signed a customs data agreement with Russia in Moscow
 
 **[BIPA, NAMFISA sign MoU](https://observer24.com.na/bipa-namfisa-sign-mou/)** — Windhoek Observer, 18 November 2026
 
-Beneficial-ownership data exchange; Joint Working Committee; real-time system links to be explored.
+Namibia's business registrar BIPA and the financial regulator NAMFISA signed an MoU on cooperation and information sharing, reported on 18 November 2026. It covers exchange of data, including beneficial ownership information, overseen by a Joint Working Committee. The two will explore real-time data exchange between their systems.
 
 </div>
 

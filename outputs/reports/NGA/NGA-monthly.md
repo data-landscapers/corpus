@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: NGA
 ledger_rows: 137
 not_held: 8
-record: 2914e3e2c802
+record: 2a10be074a3e
 ---
 
 # News, Oct – Nov 2026
@@ -630,7 +630,7 @@ The Central Bank of Nigeria signed a memorandum of understanding with the Global
 
 **[FG, Mastercard partner to accelerate digital transformation of SMEs](https://www.vanguardngr.com/2026/11/fg-mastercard-partner-to-accelerate-digital-transformation-of-smes/)** — Vanguard, 18 November 2026
 
-Framework MoU, no money stated; Mastercard index: 100% of SMEs surveyed call digital payments essential.
+Mastercard and Nigeria's small business agency SMEDAN signed an MoU, announced at the SMEDAN MSME Growth Forum in Lagos and reported on 18 November 2026. It sets a framework to explore digital tools, skills and payment support for small firms. No funding is stated.
 
 </div>
 
@@ -738,7 +738,7 @@ Nigeria's communications regulator issued the communique of its Digital Connecti
 
 **[Contract Award: Engagement of Consultant for the SPV Design and Human Capital Strategy (BRIDGE, P508383, NG-FMCIDE-542749-CS-QCBS)](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00473863)** — World Bank (procurement notice published for the Federal Ministry of Communications, Innovation and Digital Economy), 8 October 2026
 
-EY Nigeria with Kennedia ranked first of four (85.02); signed NGN 315,232,762.12; award notified 30 Sep 2026; six months.
+The World Bank notice of 8 October 2026 names Ernst & Young Nigeria, with sub-consultant Kennedia Consulting, as winner of the six-month contract for the BRIDGE fibre project. It ranked first of four bidders, scoring 85.02, at a signed NGN 315,232,762.12. Award was notified on 30 September 2026.
 
 </div>
 
@@ -754,7 +754,7 @@ Nigeria, the European Union and the EBRD signed a EUR 14 million grant for the p
 
 **[World Bank awards EY ₦315m contract for Nigeria’s $2bn Project BRIDGE fibre plan](https://businessamlive.com/world-bank-awards-ey-%E2%82%A6315m-contract-for-nigerias-2bn-project-bridge-fibre-plan/)** — BusinessAM Live, 19 November 2026
 
-NGN 315.23m SPV advisory to EY and Kennedia; award notice 30 Sep 2026; four bidders scored under QCBS.
+The World Bank awarded EY Nigeria and Kennedia Consulting a six-month contract worth NGN 315.23 million, with notice issued on 30 September 2026. They will advise on the special purpose vehicle for Nigeria's planned 90,000-kilometre fibre backbone under Project BRIDGE. The consortium ranked first of four bidders, with a combined score of 85.02.
 
 </div>
 
@@ -1044,7 +1044,7 @@ The article sets out that in Nigeria reporting a cyberattack to the Central Bank
 
 **[Stakeholders Seek Investment in Indigenous Technology - Voice of Nigeria](https://von.gov.ng/stakeholders-seek-investment-in-indigenous-technology/)** — Voice of Nigeria, 19 November 2026
 
-NIGF 2026 in Abuja; NCC on Internet Code of Practice AI notification; NiRA DNSSEC on .ng since Feb 2026.
+Speakers at the 2026 Nigeria Internet Governance Forum in Abuja called for investment in indigenous technology, stronger digital infrastructure and effective regulation. A NITDA representative said growing use of AI makes trust critical. The forum date is not stated.
 
 </div>
 
@@ -1522,7 +1522,7 @@ A consultant to the ECOWAS regional payment initiative has proposed that Nigeria
 
 **[Nigeria gives crypto firms until November 30 to submit tax registration](https://techcabal.com/2026/11/19/nigeria-gives-crypto-firms-tax-deadline/)** — TechCabal, 19 November 2026
 
-VASP Tax Portal: register by 30 Nov, integrate by 31 Dec 2026; Tax Administration Act s.79; penalties for misses.
+The Nigerian Revenue Service has set deadlines for virtual asset service providers, TechCabal reported on 19 November 2026. They must register on its VASP Tax Portal by 30 November 2026 and integrate their systems by 31 December. The notice cites section 79 of the Nigeria Tax Administration Act 2025. Missed deadlines carry penalties.
 
 </div>
 
@@ -1890,7 +1890,7 @@ Nigeria's anti-corruption commission ICPC and the IT agency NITDA launched a pil
 
 **[Ododo Launches ONE-GOV ERP, Sets New Standard for Digital Governance in Kogi Governor Directs MDAs to Adopt Platform, Distributes Thousands of Laptops, iPads to Officials — Kogi State Government](https://kogistate.gov.ng/ododo-launches-one-gov-erp-sets-new-standard-for-digital-governance-in-kogi-governor-directs-mdas-to-adopt-platform-distributes-thousands-of-laptops-ipads-to-officials/)** — Kogi State Government, 18 November 2026
 
-All MDAs directed onto the platform; finance, HR, project monitoring; laptops and iPads to officials.
+Kogi State Governor Ahmed Usman Ododo launched the ONE-GOV ERP platform in Lokoja on 17 November 2026. He directed all state ministries, departments and agencies to record their transactions and projects on it. It covers finance, staff, project monitoring and performance evaluation. Laptops and iPads were issued to officials.
 
 </div>
 
@@ -2100,7 +2100,7 @@ Nigeria's First Lady, Oluremi Tinubu, laid the foundation stone of the Renewed H
 
 **[Nigeria advised to adopt UAE’s approach to AI accountability - Businessday NG](https://businessday.ng/news/article/nigeria-advised-to-adopt-uaes-approach-to-ai-accountability/)** — BusinessDay, 18 November 2026
 
-Apampa: a named AI and data officer in every MDA; Anambra innovation district 80% complete; UAE $71.32bn in SSA.
+BusinessDay reported on 18 November 2026 commentary urging Nigeria to learn from the UAE's approach to AI. Analyst Toye Apampa proposed an accountable AI and data officer in every government ministry, department and agency. The Anambra State ICT Agency said its innovation district in Awka was about 80% complete.
 
 </div>
 
@@ -2480,7 +2480,7 @@ Nigeria's communications regulator lists subscribers for each internet service p
 
 **[NASRDA backs ECOWAS plans for West Africa’s first regional Earth observation satellite](https://techreviewafrica.com/news/8400/x)** — Tech Review Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-ECOSAT-1 framed as data sovereignty and disaster response; NASRDA offers technical expertise at ECOWAS experts' meeting.
+Nigeria's space agency NASRDA said it would support ECOSAT-1, a planned ECOWAS Earth observation satellite, after an ECOWAS technical experts' meeting, reported on 19 November 2026. Its director-general linked the project to data sovereignty, disaster response, agriculture and environmental monitoring. No decision or figure was reported, and the meeting date is not stated.
 
 </div>
 

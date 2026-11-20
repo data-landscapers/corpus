@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: SWZ
 ledger_rows: 41
 not_held: 3
-record: 82c746a31f5d
+record: 7acdaf195c41
 ---
 
 # News, Oct – Nov 2026
@@ -696,7 +696,7 @@ The University of Eswatini is building a E15 million innovation pod at its libra
 
 **[Eswatini UniPod to Advance Youth-Led Innovation](https://www.undp.org/eswatini/news/eswatini-unipod-advance-youth-led-innovation)** — United Nations Development Programme, 18 November 2026
 
-ESCCOM E2.5m a year for three years; Kwaluseni facility two-thirds built, due by end-2026.
+UNDP, the University of Eswatini and the communications regulator ESCCOM presented the University Innovation Pod on 18 November 2026. ESCCOM will contribute E2.5 million a year for three years. The Kwaluseni campus building was about two-thirds complete and is due before the end of 2026.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: ETH
 ledger_rows: 38
 not_held: 5
-record: 193d2e96d3ac
+record: d7b21c5ec92a
 ---
 
 # News, Oct – Nov 2026
@@ -70,7 +70,7 @@ An assessment of Ethiopia's second financial inclusion strategy found adult acco
 
 **[የአዲስ አበባ ከተማ አስተዳር የመንግስት የግዥ አፈፃፀም መመሪያ ቁጥር 197/2019 (Addis Ababa City Administration Government Procurement Implementation Directive No. 197/2019)](https://justice.gov.et/wp-content/uploads/2026/11/197_%E1%8B%A8%E1%88%98%E1%8A%95%E1%8C%8D%E1%88%B5%E1%89%B5_%E1%8C%8D%E1%8B%A5_%E1%8A%A0%E1%8D%88%E1%8D%83%E1%8D%80%E1%88%9D_%E1%88%98%E1%88%98%E1%88%AA%E1%8B%AB_%E1%89%81%E1%8C%A5%E1%88%AD_197_2019.pdf)** — Addis Ababa City Administration Bureau of Finance (registered with and posted by the Federal Ministry of Justice), 11 October 2026
 
-Amharic text, 172 pages; fully electronic procurement, one-year cooling-off, 10% beneficial-ownership disclosure.
+The Addis Ababa City Administration Finance Bureau issued the directive in October 2026. City procurement must run on the government electronic procurement system. Former bid officials face a one-year cooling-off period, and bidders must disclose beneficial owners. It repeals Directive No. 3/2002.
 
 </div>
 
@@ -78,7 +78,7 @@ Amharic text, 172 pages; fully electronic procurement, one-year cooling-off, 10%
 
 **[Addis Ababa Bars Former Bid Officials From Public Tenders](https://birrmetrics.com/addis-ababa-bars-former-bid-officials-from-public-tenders/)** — Birr Metrics, 17 November 2026
 
-Directive 197/2019: paperless tendering, 10% beneficial-owner disclosure, one-year cooling-off for ex-staff.
+The directive bars anyone involved in preparing a bid from taking part in that tender. Other former employees of the procuring office must wait more than one year. It requires paperless procurement and beneficial-owner disclosure. The city plans to cover all its administrative structures within five years.
 
 </div>
 

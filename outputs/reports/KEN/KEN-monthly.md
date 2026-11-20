@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: KEN
 ledger_rows: 113
 not_held: 5
-record: 5fd6f0c3160e
+record: cf398cf2bb6f
 ---
 
 # News, Oct – Nov 2026
@@ -354,7 +354,7 @@ Kenya's High Court set aside a KSh1.25 million compensation award made by the Da
 
 **[Inside the regulatory decision that spared BRS a financial penalty after its massive data breach](https://techtrendske.co.ke/2026/11/17/brs-data-breach-odpc-investigation)** — TechTrends Media, 17 November 2026
 
-Enforcement notice, no fine; records on 2m+ firms exposed; deletion deal with Moldova's B2bhint via EU help.
+Kenya's Data Protection Commissioner closed its own-motion investigation into the Business Registration Service breach without a penalty notice, reported on 17 November 2026. It said the service had implemented the enforcement notice and no data subject had sought compensation. A deletion agreement was reached with Moldova's B2bhint.
 
 </div>
 
@@ -634,7 +634,7 @@ Kenya Engineer reported on 6 November 2026 that AMACO Energy and ARISE IIP Kenya
 
 **[Kenya's Accession to the Digital Public Goods Alliance and the 50-in-5 Campaign](https://www.ict.go.ke/kenyas-accession-digital-public-goods-alliance-and-50-5-campaign)** — Ministry of Information, Communications and the Digital Economy (Kenya), 17 November 2026
 
-UN-endorsed memberships; open source as sovereignty choice; DPI Roadmap on five pillars in development.
+The ICT ministry announced on 17 November 2026 that Kenya had joined the Digital Public Goods Alliance and the 50-in-5 campaign. Kenya committed to design, launch and scale digital identity, payments and data exchange. A national digital public infrastructure roadmap is in development.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: MWI
 ledger_rows: 35
 not_held: 28
-record: 0f06d882e599
+record: 14925a9a7b75
 ---
 
 # News, Oct – Nov 2026
@@ -124,7 +124,7 @@ The Open Government Partnership's Independent Reporting Mechanism reviewed Malaw
 
 **[MALAWI LAUNCHES 2026–2029 OPEN GOVERNMENT PARTNERSHIP NATIONAL ACTION PLAN](https://www.malawivoice.com/2026/11/18/malawi-launches-2026-2029-open-government-partnership-national-action-plan/)** — Malawi Voice, 18 November 2026
 
-Launched Lilongwe 18 Nov 2026; 11 commitments in five areas incl. digital governance and fiscal openness.
+Malawi launched its 2026-2029 Open Government Partnership National Action Plan in Lilongwe on 18 November 2026. Justice Minister Charles Mhango presented it. It has 11 commitments across five areas, including anti-corruption, fiscal openness and digital governance.
 
 </div>
 

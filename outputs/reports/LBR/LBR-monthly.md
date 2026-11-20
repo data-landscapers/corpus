@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: LBR
 ledger_rows: 31
 not_held: 6
-record: ace32e2fcc2f
+record: a4a2e956c43f
 ---
 
 # News, Oct – Nov 2026
@@ -410,7 +410,7 @@ Liberia's national water, sanitation and hygiene commission signed a memorandum 
 
 **[MOH, Sand Technologies Assess Digital Health Progress Ahead of December EMR Deployment](http://moh.gov.lr/news/2026/moh-sand-technologies-assess-digital-health-progress-ahead-of-december-emr-deployment/)** — Ministry of Health, Republic of Liberia, 17 November 2026
 
-Mission of 11-12 Nov 2026; EMR rollout due December; NHIC expansion; ministry insists on national ownership.
+Liberia's Ministry of Health and Sand Technologies held a mission on 11 and 12 November 2026. It reviewed facility readiness for electronic medical records, planned for December 2026, and expansion of the National Health Intelligence Center. The ministry said Liberia must keep ownership of its digital health infrastructure.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: COG
 ledger_rows: 23
 not_held: 5
-record: 73433ef093f8
+record: 5e50143853dd
 ---
 
 # News, Oct – Nov 2026
@@ -234,7 +234,7 @@ MTN Congo's mobile money service MoMo signed a partnership with drug distributor
 
 **[Questions orales avec débat à l’Assemblée nationale](https://www.finances.gouv.cg/fr/articles/questions-orales-avec-d%C3%A9bat-AN_171126)** — Ministère des Finances, du Budget et du Portefeuille Public (Congo), 17 November 2026
 
-FCFA 107bn via FOUTA 1 Jun-16 Nov 2026 against FCFA 1bn under e-Pay; FCFA 495m plus 704m build cost.
+Finance minister Christian Yoka told the National Assembly on 17 November 2026 that the FOUTA revenue platform had collected about FCFA 107 billion since 1 June 2026. The predecessor e-Pay mobilised about FCFA 1 billion. Seven banks collect through FOUTA, and MUCODEC and UBA are due to join.
 
 </div>
 
@@ -242,7 +242,7 @@ FCFA 107bn via FOUTA 1 Jun-16 Nov 2026 against FCFA 1bn under e-Pay; FCFA 495m p
 
 **[Congo : 107 milliards FCFA de recettes publiques collectées par la nouvelle plateforme de paiement](https://ecomatin.net/congo-107-milliards-fcfa-de-recettes-publiques-collectes-par-la-nouvelle-plateforme-de-paiement)** — EcoMatin, 18 November 2026
 
-FOUTA receipts equal 8.5% of 2026 tax revenue; e-Pay was vendor-owned, one bank and one mobile operator.
+The finance ministry said on 17 November 2026 that FOUTA receipts to 16 November equal 8.5% of 2026 tax revenue. It said the platform is state-owned, whereas e-Pay belonged to its provider. FOUTA connects all commercial banks and mobile operators, where e-Pay used one bank and one operator.
 
 </div>
 
@@ -256,7 +256,7 @@ FOUTA receipts equal 8.5% of 2026 tax revenue; e-Pay was vendor-owned, one bank 
 
 **[Assemblée nationale : l’ACSI présente l'état d'avancement des différents projets](https://www.adiac-congo.com/content/assemblee-nationale-lacsi-presente-letat-davancement-des-differents-projets-172444)** — Les Dépêches de Brazzaville (adiac-congo.com), 18 November 2026
 
-Revenue till and local-tax platform due in production in 2027; Sifec civil registry and Supila plates ready.
+The Congolese agency ACSI reported to the National Assembly's economy and finance committee on 17 November 2026. It said its revenue till and local-authority revenue platform are ready for production in 2027. The Sifec civil registration system and the Supila number-plate platform are also ready, it said.
 
 </div>
 

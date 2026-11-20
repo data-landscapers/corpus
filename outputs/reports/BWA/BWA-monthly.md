@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: BWA
 ledger_rows: 23
 not_held: 5
-record: 791890f2747e
+record: 1435003d77a5
 ---
 
 # News, Oct – Nov 2026
@@ -268,7 +268,7 @@ Botswana's President Duma Boko delivered the State of the Nation Address to Parl
 
 **[RMB cross-border transactions system launched in Botswana](https://www.thestar.com.my/news/world/2026/11/18/rmb-cross-border-transactions-system-launched-in-botswana)** — The Star (Xinhua), 18 November 2026
 
-Stanbic Bank Botswana first bank with direct CIPS access, via Standard Bank South Africa; launched 17 Nov 2026.
+Stanbic Bank Botswana launched direct access to China's Cross-Border Interbank Payment System on 17 November 2026. It is the first bank in Botswana to do so. Renminbi payments settle through Standard Bank South Africa's participation, cutting the number of intermediary banks.
 
 </div>
 

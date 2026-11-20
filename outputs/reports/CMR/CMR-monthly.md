@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: CMR
 ledger_rows: 37
 not_held: 3
-record: 3a9c18896d78
+record: 2ae654447ade
 ---
 
 # News, Oct – Nov 2026
@@ -628,7 +628,7 @@ Cameroon's public service ministry will extend biometric attendance checks to al
 
 **[Marchés publics : 20 acteurs du Littoral mis au numérique](https://www.cameroon-tribune.cm/article.html/82737/fr.html/marches-publics-20-acteurs-du-littoral-mis-au-numerique)** — Cameroon Tribune, 18 November 2026
 
-ARMP Littoral trains 20 procurement actors on Pridesoft e-procurement system from 16 Nov 2026.
+The Littoral regional centre of Cameroon's public procurement regulator began training 20 procurement actors in Douala on 16 November 2026. The course covers the Pridesoft e-procurement system, with the aim of better tracking of procedures and stronger transparency.
 
 </div>
 
@@ -666,7 +666,7 @@ Cameroon's Ministry of Decentralisation and Local Development presented and hand
 
 **[Cameroun – Innovation technologique : la Communauté urbaine de Douala lance une plateforme numérique pour les actes d'urbanisme](https://direct-info.net/cameroun-innovation-technologique-la-communaute-urbaine-de-douala-lance-une-plateforme-numerique-pour-les-actes-durbanisme/)** — Direct Info, 18 November 2026
 
-Online filing and tracking of urban-planning dossiers from 17 Nov 2026; paper originals still required.
+Douala's urban community launched an online platform for urban-planning applications on 17 November 2026. Applicants can file and track dossiers online. Those found eligible must still deposit paper copies for verification of signatures. The system is in a transitional phase.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: GHA
 ledger_rows: 81
 not_held: 9
-record: 895e018847f4
+record: a0a7de51b24b
 ---
 
 # News, Oct – Nov 2026
@@ -116,7 +116,7 @@ Ghana's proposed Dig Once Policy is before Cabinet, minister Samuel Nartey Georg
 
 **[Ghana moves to establish space agency to strengthen local geospatial intelligence](https://techreviewafrica.com/news/8398/x)** — Tech Review Africa, 19 November 2026
 
-Cabinet approval; GSSTI to become the agency; drafting instructions with Attorney-General; imagery bought once.
+A Ghanaian science ministry official said at the Africa Geospatial Leadership Forum that Cabinet has approved a Ghana Space Agency, reported on 19 November 2026. It would grow out of the Ghana Space Science and Technology Institute. Drafting instructions for the enabling law are with the Attorney-General's Department. The approval date is not stated.
 
 </div>
 
@@ -954,7 +954,7 @@ A consultant to the ECOWAS regional payment initiative has proposed that Nigeria
 
 **[BoG develops open banking framework to facilitate customer data sharing](https://gna.org.gh/2026/11/bog-develops-open-banking-framework-to-facilitate-customer-data-sharing/)** — Ghana News Agency, 18 November 2026
 
-Governor Asiama at Invest Ghana Summit, 17 Nov 2026; consent-based data sharing; separate fintech legal framework.
+Bank of Ghana Governor Johnson Pandit Asiama told the Invest Ghana Summit on 17 November 2026 that the Bank is advancing an open banking framework. It would let authorised providers share customer data with consent. A separate legal framework for fintechs and fintech innovation hubs is also being developed. The framework text had not been published by 18 November 2026.
 
 </div>
 
@@ -1382,7 +1382,7 @@ The ICC-TikTok Digital Commerce Labs were launched in Ghana, reported on 17 Nove
 
 **[Generation Ghana targets 50,000 jobs for young people in five years](https://www.myjoyonline.com/generation-ghana-targets-50000-jobs-for-young-people-in-five-years/)** — MyJoyOnline, 18 November 2026
 
-Country director Lomotey's target; 2,500+ supported under GROW in three years; 70% placed within 90 days.
+Generation Ghana said on 18 November 2026 that it aims to place 50,000 young people in jobs within five years. Its GROW digital-skills programme, run with the Mastercard Foundation, has supported over 2,500 people in three years. It reports 70% placed within 90 days of graduating.
 
 </div>
 
@@ -1496,7 +1496,7 @@ Ghana's Government Statistician, writing on the opening of the tenth Statistical
 
 **[U.S. Challenges China's Dominance in African Telecom Markets](https://insidetowers.com/u-s-challenges-chinas-dominance-in-african-telecom-markets/)** — Inside Towers, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-USTDA-funded study of ~1,500 Vanu base stations for Benin, Côte d'Ivoire, Ghana, Nigeria; launched May 2026.
+The US is backing rivals to Huawei and ZTE in African telecoms, Inside Towers reported on 19 November 2026, citing African Business. In May 2026 the US Trade and Development Agency began funding a feasibility study. It covers about 1,500 Vanu base stations for Benin, Côte d'Ivoire, Ghana and Nigeria. The article also cites a USD 100 million US loan to Africell in September.
 
 </div>
 

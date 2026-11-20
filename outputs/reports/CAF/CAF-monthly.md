@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: CAF
 ledger_rows: 15
 not_held: 5
-record: f7c3c14460d7
+record: 5b0185e4974b
 ---
 
 # News, Oct – Nov 2026
@@ -156,7 +156,7 @@ UNDP in the Central African Republic is seeking an individual consultant to writ
 
 **[Training of civil registrars in CAR to protect civil status](https://yacanews.com/2026/11/rca-forme-agents-detat-civil-a-la-gestion-des-archives-et-protection?lang=en)** — Ya Ça News, 17 November 2026
 
-EU MODERO project run by CIVIPOL; 28 officers trained in Bangui on registry archiving and LGEC digitisation, 11-13 Nov.
+The European MODERO project, run by CIVIPOL, trained 28 officers in Bangui from 11 to 13 November 2026. They came from civil registration centres, the National Archives and the courts. Topics were registry archiving and digitising records in the civil status management software.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: CIV
 ledger_rows: 57
 not_held: 9
-record: 307cc4a4b3c5
+record: 03079aa18798
 ---
 
 # News, Oct – Nov 2026
@@ -400,7 +400,7 @@ Cybastion and Cisco inaugurated a Security Operations Centre in Abidjan on 5 Nov
 
 **[Côte d'Ivoire-AIP/Commerce extérieur : le gouvernement digitalise la délivrance des autorisations d'exportation des produits vivriers](https://www.aip.ci/cote-divoire-aip-commerce-exterieur-le-gouvernement-digitalise-la-delivrance-des-autorisations-dexportation-des-produits-vivriers/)** — Agence Ivoirienne de Presse, 19 November 2026
 
-Food-crop export authorisations move online on GUCE CI, 19 Nov 2026; requests up from 245 to 421 over 2022-2025.
+Côte d'Ivoire's trade ministry launched online issuance of prior export authorisations for food crops on 19 November 2026, through the GUCE CI single window. Requests rose from 245 in 2022 to 421 in 2025. Exported volumes rose from 3,230 to 10,413 tonnes over the same period.
 
 </div>
 

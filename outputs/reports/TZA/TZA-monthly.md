@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: TZA
 ledger_rows: 59
 not_held: 4
-record: 78de5ded27b1
+record: 28ea0dc02057
 ---
 
 # News, Oct – Nov 2026
@@ -1010,7 +1010,7 @@ Tanzania's Universal Communications Service Access Fund said on 5 October 2026 i
 
 **[AD1251: Tanzania’s changing news landscape: Gains in digital media still leave many without access](https://www.afrobarometer.org/publication/ad1251-tanzanias-changing-news-landscape-gains-in-digital-media-still-leave-many-without-access/)** — Afrobarometer, 18 November 2026
 
-Round 10 survey: 30% own an internet-capable phone, 64% never online; 23% get no regular news.
+Afrobarometer published Dispatch 1251 on 18 November 2026, using its 2024 survey in Tanzania. It found that 30% of respondents own a phone that can reach the internet, and 64% never go online. 23% get no regular news.
 
 </div>
 

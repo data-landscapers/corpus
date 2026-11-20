@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: UGA
 ledger_rows: 60
 not_held: 11
-record: 7bade5d74101
+record: a503f2f25bb8
 ---
 
 # News, Oct – Nov 2026
@@ -576,7 +576,7 @@ Banks and NIRA are working on a way for lenders to check borrowers' marital stat
 
 **[Uganda: New National Identification and Registration Authority (NIRA) system set to tighten security in banking transactions](https://www.africa-newsroom.com/press/uganda-new-national-identification-and-registration-authority-nira-system-set-to-tighten-security-in-banking-transactions)** — Parliament of Uganda, 18 November 2026
 
-Minister tells MPs banks must integrate NSIS; 10 of 107 partners live at 28 Oct; MPs query letter costs.
+Internal Affairs Minister Ephraim Kamuntu told Parliament on 18 November 2026 that banks must integrate the National Security Information System of the national ID authority NIRA. Customer data is then retrieved from the NIRA database by ID number. As at 28 October 2026, 10 of 107 partner institutions were transacting on it. MPs objected to the cost to customers of the interim letter.
 
 </div>
 
@@ -676,7 +676,7 @@ MTN MoMo Uganda said its MoKash savings and credit service, run with NCBA Bank U
 
 **[Stanbic Bank partners with ERP providers to accelerate embedded finance in Uganda](https://www.report.co.ug/articles/business/stanbic-bank-partners-with-erp-providers-to-accelerate-embedded-finance-in-uganda)** — Report.co.ug, 18 November 2026
 
-API and ERP partnerships for embedded payments and collections; NITA-U urges continuous compliance.
+Stanbic Bank Uganda launched an embedded-finance model in Kampala on 17 November 2026. It partners with ERP providers, fintechs and technology firms to connect business systems to the bank through APIs, for payments, collections and credit records. The national IT authority urged continuous compliance rather than a one-time approval.
 
 </div>
 

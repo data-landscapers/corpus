@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: MAR
 ledger_rows: 40
 not_held: 13
-record: 2d5fadaf8008
+record: 765a6b3aa0ad
 ---
 
 # News, Oct – Nov 2026
@@ -628,7 +628,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[عطب «وثيقة» مستمر ... حين تتعطل الرقمنة ويعود المواطن إلى الطوابير](https://marsad.app/news/6afe277050f276281706ef9c/)** — Marsad (Hiba Press), 18 November 2026
 
-Civil-status document portal down for days; 2,408 registry offices linked; MAD 194.4m registry digitisation tender.
+Morocco's Watiqa portal for civil-status documents was still down on 18 November 2026, after several days. No official explanation was given. Days earlier, digital transition minister Ahmed Rahhou had told MPs that repeated platform outages were unacceptable.
 
 </div>
 

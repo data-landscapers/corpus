@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: SLE
 ledger_rows: 32
 not_held: 4
-record: ecd3fb9bc5bb
+record: e4c7226e9c48
 ---
 
 # News, Oct – Nov 2026
@@ -168,7 +168,7 @@ Sierra Leone announced a National Cable Consortium to land a second submarine ca
 
 **[WAIIS 2026: Summit concludes with nine agreements and four announcements - Liberty Online TV](https://libertyonlinetv.com/2026/11/18/16844/)** — Liberty Online TV, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-13 agreements, 7 announcements from a 122-project USD 19bn pipeline; cable put at USD 40m, World Bank USD 15m.
+The West Africa Integration and Investment Summit closed in Sierra Leone on 18 November 2026. Liberty Online TV reported nine agreements signed and four announcements, including a second submarine cable estimated at US$40 million. The World Bank has allocated US$15 million, and the cable consortium is seeking a further US$25 million from private investors.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: TGO
 ledger_rows: 38
 not_held: 15
-record: 70bd64e8ba7f
+record: ff3e10a1fc4e
 ---
 
 # News, Oct – Nov 2026
@@ -102,7 +102,7 @@ Togo's personal data protection authority, IPDCP, opened its first evaluation an
 
 **[Protection des données personnelles : 28 Correspondants certifiés par l’IPDCP - IPDCP](https://ipdcp.tg/protection-des-donnees-personnelles-28-correspondants-certifies-par-lipdcp/)** — IPDCP, 18 November 2026
 
-First 28 certified data protection officers, 18 November 2026; banks, telcos, ports; three-year certificates.
+Togo's data protection authority, the IPDCP, presented certificates to 28 data protection correspondents in Lomé on 18 November 2026. They come from banks, insurers, telecom operators, ports and local authorities. Training began in June 2026, with an assessment on 30 September and 1 October.
 
 </div>
 
@@ -238,7 +238,7 @@ Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communic
 
 **[Arrêté interministériel n° 011/MESPTN/MFB/MDEM/MDCCQ du 14 octobre 2026 portant mise en conformité du dispositif national de guichet unique maritime, portuaire et du commerce extérieur avec la Convention FAL, fixant les règles d'interopérabilité entre le GUCE, le GUFORD et le Port Community System (PCS) et organisant la substitution du PCS au GUCE et au GUFORD](https://jo-togo.darkaa.com/pdf/276c685934b81a97bb4a3505ef600423866f472505389054f82a695dcf4a0bf0.pdf)** — Journal officiel de la République togolaise, 28 October 2026
 
-FAL-compliance order: GUCE and GUFORD must interoperate, PCS replaces both; technical committee under maritime ministry.
+Togo signed an interministerial order on 14 October 2026, published on 28 October 2026. It requires the GUCE and GUFORD single windows to interoperate and to be replaced by a Port Community System. Data validated in one system may not be requested again. No go-live date is set.
 
 </div>
 
@@ -608,7 +608,7 @@ The Ayre Think Tank published an AI readiness index at the Commonwealth summit i
 
 **[20.000 fonctionnaires formés au numérique](https://www.republicoftogo.com/toutes-les-rubriques/developpement/20.000-fonctionnaires-formes-au-numerique)** — Republique Togolaise, 18 November 2026
 
-Agence Togo Digital pilot; low-bandwidth, self-paced training from the workplace, Lomé and remote posts alike.
+The government's Agence Togo Digital announced on 18 November 2026 a pilot programme to train 20,000 civil servants in basic digital skills. Training is designed to work on weak connections, so staff can learn at their own pace from the workplace. No start date is given.
 
 </div>
 

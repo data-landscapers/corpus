@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: GAB
 ledger_rows: 42
 not_held: 11
-record: f836781c5d34
+record: ee7c3e588386
 ---
 
 # News, Oct – Nov 2026
@@ -642,7 +642,7 @@ Gabon's civil-service pension and family fund (CPPF) opened collection of school
 
 **[Gabon/Prestations familiales/Mouila : la CPPF sensibilise les agents publics au nouveau mode de gestion des certificats de scolarité - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-prestations-familiales-mouila-la-cppf-sensibilise-les-agents-publics-au-nouveau-mode-de-gestion-des-certificats-de-scolarite/)** — AGP - Agence Gabonaise de Presse, 17 November 2026
 
-BAANA rollout nationwide from 16 Nov under law 007/2017; school heads validate online; paper only offline.
+The state employees' pension and family benefits fund (CPPF) held a briefing in Mouila on 17 November 2026 on its Baana platform. School certificates must be completed online, and the platform was launched nationwide on 16 November 2026. A provincial official said no manual certificate would be approved for Mouila pupils this year.
 
 </div>
 
@@ -650,7 +650,7 @@ BAANA rollout nationwide from 16 Nov under law 007/2017; school heads validate o
 
 **[Gabon/Prestations familiales/Koulamoutou : la CPPF prépare la digitalisation du paiement des frais de rentrée scolaire dès 2027 - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-prestations-familiales-koulamoutou-la-cppf-prepare-la-digitalisation-du-paiement-des-frais-de-rentree-scolaire-des-2027/)** — AGP - Agence Gabonaise de Presse, 18 November 2026
 
-Dematerialised school-start payments for pensioners' children from 2027; BAANA registration where online.
+The pensions and family benefits fund CPPF briefed school heads in Koulamoutou on 18 November 2026. From 2027, school-start fees for pensioners' children are to be paid digitally. Parents and schools in areas with internet coverage must register on the Baana platform.
 
 </div>
 

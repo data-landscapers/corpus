@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: SEN
 ledger_rows: 60
 not_held: 2
-record: defe8495c0da
+record: 520cc91aeb4d
 ---
 
 # News, Oct – Nov 2026
@@ -1040,7 +1040,7 @@ The open data licence of Senegal's national statistics agency, ANSD, grants a fr
 
 **[Ziguinchor : un centre d’accès des données statistiques inauguré à la bibliothèque de l’Université Assane Seck](https://aps.sn/ziguinchor-un-centre-dacces-des-donnees-statistiques-inaugure-a-la-bibliotheque-de-luniversite-assane-seck/)** — APS, 18 November 2026
 
-Second university-library centre after UCAD; free secure microdata access via Data4Now under ANSD-UASZ protocol.
+Senegal's statistics agency ANSD opened a data access centre in the Assane Seck University library in Ziguinchor on 18 November 2026. Students and researchers get free, secure access to national survey and census microdata. It is the agency's second centre in a university library, after Dakar.
 
 </div>
 

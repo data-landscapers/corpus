@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: BEN
 ledger_rows: 46
 not_held: 4
-record: b5bf55472824
+record: 5efa609ac4e2
 ---
 
 # News, Oct – Nov 2026
@@ -278,7 +278,7 @@ Benin's digital ministry presented a 2027 draft budget of FCFA 11.59 billion, 29
 
 **[UNICEF Bénin et la Fondation MTN Bénin unissent leurs forces pour promouvoir l'éducation numérique, l'autonomisation des jeunes et la protection des enfants en ligne](https://www.unicef.org/benin/communiqu%C3%A9s-de-presse/unicef-b%C3%A9nin-et-la-fondation-mtn-b%C3%A9nin-unissent-leurs-forces-pour-promouvoir)** — UNICEF Bénin, 17 November 2026
 
-Two-year framework; internet for 55 school digital rooms; MTN contribution valued about FCFA 180m; child online safety.
+UNICEF Benin and the MTN Benin Foundation signed a two-year framework agreement on 17 November 2026. The foundation will provide internet for 55 school digital rooms for nine months, valued at about FCFA 180 million. The agreement also covers youth digital skills and child online protection.
 
 </div>
 
@@ -354,7 +354,7 @@ Burkina Faso's telecoms regulator signed bilateral roaming agreements with its c
 
 **[Bénin / Budget 2027 : 11,59 milliards pour un Bénin numérique utile à tous](https://matinlibre.com/2026/11/19/benin-budget-2027-1159-milliards-pour-un-benin-numerique-utile-a-tous/)** — Matin Libre, 19 November 2026
 
-2026 execution to 30 Sept: 71.3% committed, 68.5% authorised; domestic effort up 16%; criminal record certificate online.
+Benin's Minister of Digital Transformation and Innovation presented a 2027 ministry budget of 11.59 billion FCFA to deputies, reported on 19 November 2026. On domestic resources, 71.3 per cent of 2026 credits were committed and 68.5 per cent authorised at 30 September 2026. He cited a 16 per cent rise in domestic effort.
 
 </div>
 

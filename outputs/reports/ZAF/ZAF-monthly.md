@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: ZAF
 ledger_rows: 123
 not_held: 17
-record: 4125c14d773a
+record: 142805a5cdfe
 ---
 
 # News, Oct – Nov 2026
@@ -252,7 +252,7 @@ South Africa's Information Regulator fined First National Bank R1 million after 
 
 **[Commission Settles with X Corp. and Concludes Voluntary Undertaking with X.AI](https://www.compcom.co.za/wp-content/uploads/2026/11/Media-Statement-Commission-reaches-settlement-agreement-with-XCorp-and-undertaking-with-XAI-18-November-2026.pdf)** — Competition Commission of South Africa, 18 November 2026
 
-MDPMI remedies amended: X Corp publisher support cut to two years; X.AI remedies swapped for a voluntary undertaking.
+South Africa's Competition Commission announced on 18 November 2026 a settlement with X Corp. and a voluntary undertaking from X.AI. Both companies withdrew their Competition Tribunal appeals against the media inquiry's remedies. X Corp's publisher support and digital literacy duties become two-year commitments. X.AI will train publishers twice a year on Grok settings.
 
 </div>
 
@@ -290,7 +290,7 @@ South Africa's National Consumer Commission launched the National Opt-Out Regist
 
 **[InfoReg strengthens cyber defences as breaches mount](https://www.itweb.co.za/article/inforeg-strengthens-cyber-defences-as-breaches-mount/DZQ58vV8WyPMzXy2)** — ITWeb South Africa, 19 November 2026
 
-2,374 breach notices in 2024/25; ~200,000 information officer registrations; ICT division with AI posts, unfunded.
+South Africa's Information Regulator told ITWeb on 19 November 2026 that it is strengthening security testing and governance for its own systems. It received 2,374 security compromise notifications in 2024/25, about 198 a month. It has approved an ICT division that includes AI posts, but the funding to fill them has not yet been found.
 
 </div>
 
@@ -384,7 +384,7 @@ Cassava Technologies and Mauritius Telecom signed a memorandum of understanding 
 
 **[Cassava Technologies and Mauritius Telecom sign MoU on AI services and education in Africa](https://www.cassavatechnologies.com/signs-a-memorandum-of-understanding-with-mauritius-telecom/)** — Cassava Technologies, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
 
-Company's own release; MT to tap Cassava AI Factory and CAIMEx; myt Learn assessed for South African schools.
+Cassava Technologies and Mauritius Telecom signed an MoU at Africa Tech Festival, announced on 18 November 2026. They will explore on-demand use of Cassava's Cape Town AI Factory for Mauritius Telecom's AI services. They will also assess taking its myt Learn tutoring platform to South African schools. No sum was disclosed.
 
 </div>
 
@@ -1438,7 +1438,7 @@ South Africa's Home Affairs had Smart ID replacement services running at 753 ban
 
 **[Home Affairs triples access to passport services overnight](https://www.gov.za/news/media-statements/home-affairs-triples-access-passport-services-overnight-18-nov-2026)** — South African Government, 18 November 2026
 
-Adult passports at 480 bank branches, service points 228 to 708; Smart ID at 833 branches, 1.16m applications.
+South Africa's Home Affairs opened adult passport applications at 480 bank branches on 18 November 2026. Passport service points rise from 228 offices to 708 locations. Smart ID services are at 833 branches, and over 1.16 million Smart ID applications have been processed since 9 March 2026.
 
 </div>
 
@@ -1446,7 +1446,7 @@ Adult passports at 480 bank branches, service points 228 to 708; Smart ID at 833
 
 **[Minister Leon Schreiber : The next phase of the Digital Partnership](https://www.gov.za/news/speeches/minister-leon-schreiber-next-phase-digital-partnership-18-nov-2026)** — South African Government (Department of Home Affairs), 18 November 2026
 
-68 Absa and 412 Capitec branches, 228 to 708 passport points; Smart ID at 833 branches; ePassport due 2027.
+Home Affairs Minister Leon Schreiber announced on 18 November 2026 in Cape Town that passport applications are open at 480 bank branches, 68 of them Absa and 412 Capitec. Passport service points rise from 228 to 708. Smart ID services are now at 833 branches, and an ePassport is due in 2027.
 
 </div>
 
@@ -2086,7 +2086,7 @@ The Western Cape Government and Microsoft launched CAPEability AI, a programme o
 
 **[Western Cape Government partners with Microsoft to prepare residents for the AI economy](https://www.westerncape.gov.za/department-premier/article/western-cape-government-partners-microsoft-prepare-residents-ai-economy)** — Western Cape Government, 19 November 2026
 
-Provincial release; launched 17 Nov 2026; ages 18-35; SA 46th of 147 on Microsoft AI adoption (early 2026).
+The Western Cape Government and Microsoft launched CAPEability AI on 17 November 2026, with Microsoft Elevate. It offers AI and digital-skills training, job-readiness support and routes to entrepreneurship for residents aged 18 to 35. It will run through 83 provincial eCentres and 375 public library service points.
 
 </div>
 
@@ -2116,7 +2116,7 @@ The National R&D Survey for 2024/25 puts South Africa's ICT research spending at
 
 **[Minister Blade Nzimande: South Africa and the AI opportunity conference](https://www.gov.za/news/speeches/minister-blade-nzimande-south-africa-and-ai-opportunity-conference-19-nov-2026)** — South African Government (Department of Science, Technology and Innovation), 19 November 2026
 
-DSTI closing remarks; AI anchored in STI Decadal Plan 2022-2032; CAIR and sovereign-compute programme; 90-day mandate.
+South Africa's science minister Blade Nzimande tied the country's AI work to the Science, Technology and Innovation Decadal Plan 2022–2032. His closing remarks were posted on 19 November 2026. He named a research programme on sovereign compute and the Centre for Artificial Intelligence Research. He said projects and partnerships should follow within 90 days.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: BDI
 ledger_rows: 29
 not_held: 7
-record: b2330622be29
+record: 5d213549d3b8
 ---
 
 # News, Oct – Nov 2026
@@ -188,7 +188,7 @@ The home page of Burundi's government ICT secretariat, SETIC, sets out its role 
 
 **[Burundi : Le nouveau Système Intégré de Gestion des Finances publiques installé](https://www.digitalbusiness.africa/burundi-le-nouveau-systeme-integre-de-gestion-des-finances-publiques-installe/)** — Digital Business Africa, 18 November 2026
 
-Replaces SIGEFI; SNDI MediaBox consortium; 18-month deployment aligned with IDA-financed PAFEN.
+Burundi's finance ministry validated the installation of a new integrated public financial management system on 17 November 2026. It replaces SIGEFI. The SNDI MediaBox consortium is delivering it over 18 months, aligned with the World Bank-financed PAFEN project.
 
 </div>
 
@@ -262,7 +262,7 @@ Burundi and the COMESA secretariat met in Bujumbura on 9–12 November 2026 to p
 
 **[Burundi Digital Foundations Project — Invitation for Bids OP00482177: Acquisition d'une plateforme d'interopérabilité gouvernementale (GIP) intégrant un système PKI](https://projects.banquemondiale.org/fr/projects-operations/procurement-detail/OP00482177)** — World Bank (procurement notice issued by PAFEN / SETIC, Burundi), 18 November 2026
 
-IDA-funded two-lot RFP: sovereign national PKI (10 months), X-Road-based exchange platform (15 months); bids 11 Jan 2027.
+The World Bank published an invitation for bids on 18 November 2026 under the Burundi Digital Foundations Project. It seeks a government interoperability platform based on X-Road and a national public key infrastructure. Bids close on 11 January 2027, and the funding is from the International Development Association.
 
 </div>
 

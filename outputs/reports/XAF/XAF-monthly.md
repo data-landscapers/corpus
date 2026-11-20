@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: XAF
 ledger_rows: 97
 not_held: 3
-record: 04397dc369bd
+record: 189b97bae74a
 ---
 
 # News, Oct – Nov 2026
@@ -822,7 +822,7 @@ The African IXP Association's page, on file under 9 November 2026, lists Interne
 
 **[African operators struggle to scale 5G](https://www.itweb.co.za/article/african-operators-struggle-to-scale-5g/Gb3Bw7WaGeRq2k6V)** — ITWeb South Africa, 19 November 2026
 
-GSMA Intelligence: 66 operators in 37 countries live, but 5G only 5% of African connections against 37% globally.
+A GSMA Intelligence director said at a summit in Cape Town, reported on 19 November 2026, that 66 operators in 37 African countries have launched commercial 5G. He put 5G at 5% of African connections, against a global average of 37%. He said operators now need to expand adoption and make 5G pay.
 
 </div>
 
@@ -1248,7 +1248,7 @@ Clea launched US dollar routes that let African businesses pay suppliers in main
 
 **[Transsion and Visa Partner to Expand Agentic Payments and Digital Acceptance in Emerging Markets](https://techafricanews.com/2026/11/19/transsion-and-visa-partner-to-expand-agentic-payments-and-digital-acceptance-in-emerging-markets/)** — Tech Africa News, 19 November 2026
 
-Agentic payments validated in live transactions; Tap to Phone for small merchants on TECNO, Infinix, itel devices.
+Transsion and Visa signed a memorandum of cooperation on agentic commerce, consumer payments and merchant payment acceptance in emerging markets, reported on 19 November 2026. Consumer payment services are to start in Africa. The two companies have validated agentic payments between Transsion's wallet and Visa Intelligent Commerce in a live transaction environment.
 
 </div>
 
@@ -1310,7 +1310,7 @@ A news report of 10 November 2026 covers the WHO report on health data systems p
 
 **[Digital government advances worldwide, but divides persist as AI transforms public administration, new UN survey shows | United Nations](https://www.un.org/en/desa/digital-government-advances-worldwide-but-divides-persist-as-ai-transforms-public-administration-new-un-survey-shows)** — United Nations Department of Economic and Social Affairs, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-2026 EGDI: Africa up 10.5% but about 87% of Africans live below the global average; Korea, Denmark, Singapore lead.
+The UN Department of Economic and Social Affairs launched its 2026 E-Government Survey on 19 November 2026. The Republic of Korea, Denmark and Singapore lead the ranking, and 151 of 194 countries assessed are in the high or very high groups. Africa's index rose 10.5%, but about 87% of Africa's population lives in countries below the global average.
 
 </div>
 
@@ -1318,7 +1318,7 @@ A news report of 10 November 2026 covers the WHO report on health data systems p
 
 **[United Nations E-Government Survey 2026: From Digital Government to Agentic Government (25th Anniversary Edition)](https://desapublications.un.org/file/23141/download)** — United Nations Department of Economic and Social Affairs, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-151 of 194 countries in high or very high EGDI groups; 1.95bn below the global average; agentic-government chapter.
+The UN Department of Economic and Social Affairs published the full 2026 E-Government Survey report on 19 November 2026. It finds 151 of 194 countries in the high or very high groups of the E-Government Development Index and 1.95 billion people in countries below the global average. It has a chapter on agentic government.
 
 </div>
 
@@ -1424,7 +1424,7 @@ UNDP and the European Business and Innovation Centre Network agreed a partnershi
 
 **[Designated Consortia | American SI Exports Program](https://siexports.gov/consortia-menu)** — American SI Exports Program (U.S. Government), 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-33 designated US consortia for trusted foreign buyers; Sand Technologies-led package for African governments.
+The US Government's American SI Exports Program page, accessed on 19 November 2026, lists 33 designated consortia offering AI packages to trusted foreign buyers. One package, led by Sand Technologies with ODINN, is aimed at African governments.
 
 </div>
 
@@ -1574,7 +1574,7 @@ The African Union Commission convened the first African Community of Practice on
 
 **[Measuring digital development: Facts and Figures 2026](https://www.itu.int/itu-d/reports/statistics/wp-content/uploads/sites/5/2026/11/ITUFactsAndFigures2026.pdf)** — International Telecommunication Union (ITU), 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
-Africa 42% online against 76% globally; 5G reaches 15% of Africans; 6.3bn online, 2bn still offline in 2026.
+The International Telecommunication Union estimated in this report, issued on 3 November 2026, that 6.3 billion people (76% of the world) use the internet in 2026, and that 2 billion remain offline. Africa has the lowest use of any region at 42%. The report puts 5G population coverage in Africa at 15%.
 
 </div>
 
@@ -1582,7 +1582,7 @@ Africa 42% online against 76% globally; 5G reaches 15% of Africans; 6.3bn online
 
 **[ITU Report: Africa’s Internet Use Stands at 42% Against 76% Globally as 6.3 Billion Go Online](https://techafricanews.com/2026/11/19/itu-report-africas-internet-use-stands-at-42-against-76-globally-as-6-3-billion-go-online/)** — Tech Africa News, 19 November 2026
 
-Facts and Figures 2026: Africa 42% online vs 76% global; 5G reaches 15%; gender parity 0.84; urban 52%, rural 23%.
+Tech Africa News reported on 19 November 2026 the International Telecommunication Union's 2026 estimates. Internet use in Africa is 42%, up from 27% in 2020, against 76% globally. In Africa 45% of men and 38% of women use the internet, and 52% of urban residents against 23% of rural residents. 5G reaches 15% of Africa's population, against 59% worldwide.
 
 </div>
 
@@ -1770,7 +1770,7 @@ First Circle Capital reached a final close of $26 million for First Circle Afric
 
 **[Saviu closes second Francophone Africa fund at EUR 40m](https://www.africaprivateequitynews.com/p/saviu-closes-second-francophone-africa)** — Africa Private Equity News, 18 November 2026
 
-About EUR 40m final close, four times Saviu I; AfDB EUR 6.5m and Bpifrance join; 11 of ~20 investments made.
+Saviu closed its second fund at about EUR 40 million on 18 November 2026. That is four times its first fund. The African Development Bank (EUR 6.5 million, approved in February 2026) and Bpifrance are among the new investors. The fund plans about 20 early-stage deals of EUR 0.5 million to EUR 3 million, and had made 11.
 
 </div>
 
@@ -1778,7 +1778,7 @@ About EUR 40m final close, four times Saviu I; AfDB EUR 6.5m and Bpifrance join;
 
 **[Saviu Ventures Closes $43.6 Million Fund to Back 20 African Startups](https://www.ecofinagency.com/news-finances/1811-60941-saviu-ventures-closes-43-6-million-fund-to-back-20-african-startups)** — Ecofin Agency, 18 November 2026
 
-Closes of EUR 12m (Nov 2023), EUR 25m (Feb 2025), EUR 40m final (Nov 2026); USD 43.6m at Ecofin's rate.
+Saviu announced on 17 November 2026 the final close of its second fund at EUR 40 million, which Ecofin Agency converted to about USD 43.6 million. Earlier closes were EUR 12 million in November 2023 and EUR 25 million in February 2025. The fund has made 11 of about 20 planned investments in French-speaking Africa and selected English-speaking markets.
 
 </div>
 

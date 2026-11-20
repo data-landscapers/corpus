@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: ZMB
 ledger_rows: 36
 not_held: 32
-record: 3900e0ea9cf7
+record: ffd943f5cd86
 ---
 
 # News, Oct – Nov 2026
@@ -468,7 +468,7 @@ Zambia released its 2025 national survey on access and use of ICTs on 9 November
 
 **[PSPF innovation impresses ICTAZ CEO at inaugural Tech Fair](https://www.pspf.org.zm/news/pspf-innovation-impresses-ictaz-ceo-at-inaugural-tech-fair/)** — Public Service Pensions Fund, 17 November 2026
 
-Remote biometric proof-of-life for pensioners, shown at ICTAZ Tech Fair, Lusaka, 13 Nov 2026.
+The Public Service Pensions Fund showed its Biometric Life Verification System at the ICTAZ Tech Fair in Lusaka on 13 November 2026. Pensioners can confirm they are alive remotely, without visiting an office. The ICTAZ chief executive praised the system. The source gives no launch date.
 
 </div>
 
@@ -482,7 +482,7 @@ Remote biometric proof-of-life for pensioners, shown at ICTAZ Tech Fair, Lusaka,
 
 **[Zambia discontinues manual passport applications, moves fully online — Mwebantu](https://www.mwebantu.com/zambia-discontinues-manual-passport-applications-moves-fully-online/)** — Mwebantu, 18 November 2026
 
-Ministry statement by PS Dickson Matembo; online and manual run in parallel since December 2025 launch.
+Zambia's Ministry of Home Affairs and Internal Security ended manual passport application forms with immediate effect, Mwebantu reported on 18 November 2026. New applications, renewals and related services now go through the Online Passport Application System. It has run alongside the manual process since December 2025.
 
 </div>
 

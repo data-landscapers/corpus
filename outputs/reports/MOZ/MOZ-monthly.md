@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: MOZ
 ledger_rows: 40
 not_held: 17
-record: 7c0fb0cf389d
+record: 60bc1446370d
 ---
 
 # News, Oct – Nov 2026
@@ -64,7 +64,7 @@ A proposed Internet for All strategy for Mozambique, to be implemented by the co
 
 **[Resolução n.º 80/2026, de 8 de Outubro: Aprova o Plano Quinquenal da Estratégia de Reforma e Desenvolvimento da Administração Pública (2026-2030)](https://faolex.fao.org/docs/pdf/moz248339.pdf)** — Conselho de Ministros, República de Moçambique (Boletim da República, I Série, n.º 191; copy hosted by FAOLEX), 8 October 2026
 
-Gazetted ERDAP action plan 2026-30, approved 14 July 2026; portal, digital ID, e-procurement, data-protection targets.
+The Council of Ministers approved the 2026–2030 action plan on 14 July 2026. It was gazetted on 8 October 2026. It provides for a national data protection authority and a proposed national AI commission. It also plans an operational citizen portal and digital identity across public bodies.
 
 </div>
 
@@ -72,7 +72,7 @@ Gazetted ERDAP action plan 2026-30, approved 14 July 2026; portal, digital ID, e
 
 **[Governo Quer Criar Autoridades de Protecção de Dados e IA Até 2030 • Diário Económico](https://www.diarioeconomico.co.mz/2026/11/18/economia/governo-quer-criar-autoridades-de-proteccao-de-dados-e-ia-ate-2030/)** — Diário Económico, 18 November 2026
 
-Data protection authority and AI commission by 2030; 360 institutions to supervise; digital ID, Citizen Portal targets.
+Mozambique's five-year public administration plan for 2026-30 provides for a national data protection authority and a national AI commission by 2030. The authority would supervise 360 public and private institutions. Other targets include a citizen portal, digital identity, and cybersecurity training for 600 technicians.
 
 </div>
 
@@ -172,7 +172,7 @@ Mozambique's Assembleia da República approved a revision of the law on the orga
 
 **[Executivo Aprova Regulamento do Cadastro Social Único Para Organizar Informação da Protecção Social • Diário Económico](https://www.diarioeconomico.co.mz/2026/11/18/economia/desenvolvimento/executivo-aprova-regulamento-do-cadastro-social-unico-para-organizar-informacao-da-proteccao-social/)** — Diário Económico, 18 November 2026
 
-Cabinet approves single social registry regulation, 17 Nov 2026; data sharing, interoperability and protection rules.
+Mozambique's Council of Ministers approved the regulation of the single social registry on 17 November 2026. It sets rules for managing, updating, sharing and protecting the registry's data. The communiqué gives no timetable, managing institution or number of beneficiaries.
 
 </div>
 

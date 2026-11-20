@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-20
 place: EGY
 ledger_rows: 75
 not_held: 35
-record: b2f33d210025
+record: 69a287451a4c
 ---
 
 # News, Oct – Nov 2026
@@ -626,7 +626,7 @@ Egypt's Ministry of Justice said it has linked the real estate registry by netwo
 
 **[Cabinet approves draft resolution to establish Comprehensive National Data System](https://sis.gov.eg/en/media-center/news/cabinet-approves-draft-resolution-to-establish-comprehensive-national-data-system/)** — State Information Service (Egypt), 18 November 2026
 
-Six AI-backed sub-platforms across ministries; IDSC-chaired committee meets monthly, reports quarterly to PM.
+Egypt's Cabinet approved a draft resolution on 18 November 2026 establishing a Comprehensive National Data System. It is an AI-powered state database with six sub-platforms, including project spending and Cabinet decisions. A committee chaired by the cabinet's decision support centre meets monthly and reports quarterly to the prime minister.
 
 </div>
 
@@ -946,7 +946,7 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 **[Egypt to launch online seafarer passport and certificate services Thursday](https://sis.gov.eg/en/media-center/news/egypt-to-launch-online-seafarer-passport-and-certificate-services-thursday/)** — State Information Service, 18 November 2026
 
-EAMS portal: seafarer passports and certificates issued and renewed online from 19 Nov 2026, no extra fees.
+The transport minister announced that Egypt's maritime safety authority would offer online issuance and renewal of seafarer passports and some certificates from Thursday 19 November 2026. There are no extra fees. Users can verify certificates by QR code, and more services are to follow gradually.
 
 </div>
 
@@ -1204,7 +1204,7 @@ Egypt's information technology development agency ITIDA launched the fifth round
 
 **[PM: Technology, innovation prerequisites for developing foreign trade, boosting competitiveness](https://sis.gov.eg/en/media-center/news/pm-technology-innovation-prerequisites-for-developing-foreign-trade-boosting-competitiveness/)** — State Information Service, 18 November 2026
 
-Launched 18 Nov 2026 under investment ministry; AI, payments, digital ID, e-document trials; 15+ ideas pre-launch.
+Egypt launched a Trade Tech Regulatory Sandbox and Innovation Hub on 18 November 2026, coordinated by the Ministry of Investment and Foreign Trade. It tests trade solutions in a controlled setting, including AI, payments, digital identity and electronic documents. More than 15 ideas were received before launch.
 
 </div>
 
