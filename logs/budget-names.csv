@@ -93,11 +93,12 @@ BEN,hosting,E-government agency,ict-ministry-egov,Gouvernement de la République
 BEN,hosting,Cybersecurity agency / National CERT,cybersecurity,bjCSIRT,no line,
 BEN,hosting,Communications regulator,communications-regulator,Autorité de régulation des communications électroniques et de la poste (ARCEP),no line,
 BEN,hosting,Audit office,,Cour des comptes,no line,
+BEN,deal-recipient,Multilateral,,UNICEF Benin,no line,
 BEN,deal-recipient,Public Sector,,Benin,no line,
 BEN,deal-recipient,Public Sector,,Ministère de l'Economie et des Finances (MEF),line,ben-2024-014-108
 BEN,deal-recipient,Public Sector,,Republic of Benin,no line,
 BEN,deal-recipient,Public Sector,,Government of Benin,no line,
-BEN,deal-recipient,NGO,,"Benin (BEN); recipient organisation not named, recipient unspecified",no line,
+BEN,deal-recipient,Unknown,,"Benin (BEN); recipient organisation not named, recipient unspecified",no line,
 BFA,hosting,Presidency,,Présidence du Faso,line,bfa-2024-01-002-0020118
 BFA,hosting,Parliament,,Assemblée législative du peuple,no line,
 BFA,hosting,Foreign Affairs,,Ministère des Affaires étrangères et de la Coopération régionale,line,bfa-2024-12-028-0280254
@@ -614,6 +615,7 @@ GHA,deal-recipient,Private Sector,,Telecel Ghana,no line,
 GHA,deal-recipient,Private Sector,,"Telecel Global Services Ltd, subsidiary of the Mauritius-based Telecel Group (GHA, LBR)",no line,
 GHA,deal-recipient,Private Sector,,"Google DeepMind Africa AI Research Centre and AI Community Center, Accra",no line,
 GHA,deal-recipient,Unknown,,"GHA; Ghana Food and Drugs Authority, named as transaction receiver",no line,
+GHA,deal-recipient,Unknown,,"Ghana (GHA); Ghana Food and Drugs Authority, named as transaction receiver",no line,
 GHA,deal-recipient,Research,,"Ghana (GHA); recipient organisation not named, recipient unspecified",no line,
 GIN,hosting,Presidency,,Présidence de la République de Guinée,no line,
 GIN,hosting,Parliament,,Conseil national de la transition,no line,
@@ -1339,6 +1341,7 @@ SLE,hosting,E-government agency,ict-ministry-egov,Government of Sierra Leone,no 
 SLE,hosting,Communications regulator,communications-regulator,National Telecommunications Commission,line,sle-2024-412-4120101-0807011206
 SLE,hosting,Audit office,,Audit Service Sierra Leone,line,sle-2024-138-1380102-0807010104
 SLE,hosting,Anti-corruption commission,,Anti-Corruption Commission,no line,
+SLE,deal-recipient,Public Sector,,"Ministry of Communication, Technology and Innovation, Sierra Leone",line,sle-2024-135-1350101-03000000
 SLE,deal-recipient,Public Sector,,Sierratel,no line,
 SLE,deal-recipient,Public Sector,,Republic of Sierra Leone,no line,
 SLE,deal-recipient,Private Sector,,Orange Sierra Leone,no line,
@@ -1630,6 +1633,7 @@ UGA,deal-recipient,Unknown,,UGA; no transaction receiver named,no line,
 UGA,deal-recipient,Public Sector,,Government of Uganda / Ministry of Health,line,uga-2024-014-12-02-002-320064
 UGA,deal-recipient,NGO,,Misean Cara,no line,
 UGA,deal-recipient,Multi-stakeholder,,"UGA; International Development Research Centre; Makerere University, named as transaction receiver",no line,
+UGA,deal-recipient,Public Sector,,Government of Uganda,no line,
 UGA,deal-recipient,Unknown,,"UGA; CARE, named as transaction receiver",no line,
 UGA,deal-recipient,Unknown,,"UGA; National Drug Authority, named as transaction receiver",no line,
 UGA,deal-recipient,NGO,,"Uganda (UGA); recipient organisation not named, recipient unspecified",no line,
