@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: XAF
-ledger_rows: 91
+ledger_rows: 97
 not_held: 3
-record: 41101a368427
+record: 04397dc369bd
 ---
 
 # News, Oct – Nov 2026
@@ -721,6 +721,8 @@ AUDA-NEPAD and the Science for Africa Foundation invited stakeholders, in a noti
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#national-statistics">National statistics</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geospatial-data">Geospatial data</a>
@@ -807,6 +809,20 @@ MTN Group's update for the nine months to 30 September 2026 put service revenue 
 **[IXPs list — The African IXP Association](https://af-ix.org/ixps-list)** — African IXP Association (AF-IX), 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
 
 The African IXP Association's page, on file under 9 November 2026, lists Internet exchange points by country and city with the year each opened. Entries include Angola-IXP in Luanda (2006), Benin IX in Cotonou (2013) and the Kinshasa exchange KINIX in the DRC (2012). The page carries no date of its own.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Commercial 5G deployment and adoption across the continent</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African operators struggle to scale 5G](https://www.itweb.co.za/article/african-operators-struggle-to-scale-5g/Gb3Bw7WaGeRq2k6V)** — ITWeb South Africa, 19 November 2026
+
+GSMA Intelligence: 66 operators in 37 countries live, but 5G only 5% of African connections against 37% globally.
 
 </div>
 
@@ -1224,6 +1240,20 @@ Clea launched US dollar routes that let African businesses pay suppliers in main
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Transsion-Visa agentic payments and merchant acceptance partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transsion and Visa Partner to Expand Agentic Payments and Digital Acceptance in Emerging Markets](https://techafricanews.com/2026/11/19/transsion-and-visa-partner-to-expand-agentic-payments-and-digital-acceptance-in-emerging-markets/)** — Tech Africa News, 19 November 2026
+
+Agentic payments validated in live transactions; Tap to Phone for small merchants on TECNO, Infinix, itel devices.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -1265,6 +1295,30 @@ WHO's Regional Office for Africa launched a report on health information systems
 **[Why Africa is struggling to turn health data into action](https://www.standardmedia.co.ke/health/health-science/article/2001561986/why-africa-is-struggling-to-turn-health-data-into-action)** — The Standard, 10 November 2026
 
 A news report of 10 November 2026 covers the WHO report on health data systems presented at the First Africa Health Data Forum in Nairobi. WHO regional director Mohamed Janabi said the 2024 assessment gave the region a maturity score of 59 out of 100. Of 52 countries assessed, 49 had well-developed capacity to review health performance. None had reached sustainable capacity in using data for policy and action.
+
+</div>
+
+</div>
+
+### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UN E-Government Survey, African results</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital government advances worldwide, but divides persist as AI transforms public administration, new UN survey shows | United Nations](https://www.un.org/en/desa/digital-government-advances-worldwide-but-divides-persist-as-ai-transforms-public-administration-new-un-survey-shows)** — United Nations Department of Economic and Social Affairs, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+2026 EGDI: Africa up 10.5% but about 87% of Africans live below the global average; Korea, Denmark, Singapore lead.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[United Nations E-Government Survey 2026: From Digital Government to Agentic Government (25th Anniversary Edition)](https://desapublications.un.org/file/23141/download)** — United Nations Department of Economic and Social Affairs, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+151 of 194 countries in high or very high EGDI groups; 1.95bn below the global average; agentic-government chapter.
 
 </div>
 
@@ -1323,6 +1377,8 @@ Space in Africa released its African Satellite Manufacturing and Launch Market R
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#innovation-ecosystem">Innovation ecosystem</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#us-hyperscaler-activities">US / hyperscaler activities</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eu-activities">EU activities</a>
 </nav>
 
@@ -1353,6 +1409,22 @@ Summarised under [National statistics](#national-statistics).
 **[UNDP and EBN partner to strengthen quality standards for Africa’s incubators](https://www.undp.org/africa/press-releases/undp-and-ebn-partner-strengthen-quality-standards-africas-incubators)** — United Nations Development Programme, 27 October 2026
 
 UNDP and the European Business and Innovation Centre Network agreed a partnership to build certification and benchmarking frameworks for incubators in UNDP's timbuktoo Pan-African Incubation Network. The frameworks draw on the network's EU|BIC quality standard. Terms and funding are not stated.
+
+</div>
+
+</div>
+
+### US / hyperscaler activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sovereign SI Network for African Governments (American SI Exports Program)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Designated Consortia | American SI Exports Program](https://siexports.gov/consortia-menu)** — American SI Exports Program (U.S. Government), 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+33 designated US consortia for trusted foreign buyers; Sand Technologies-led package for African governments.
 
 </div>
 
@@ -1390,6 +1462,8 @@ Germany's CDU/CSU-SPD coalition put a motion to the Bundestag asking the governm
 <a href="#training-and-skills">Training and skills</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-divides">Digital divides</a>
 </nav>
 
 ### Literacy
@@ -1485,6 +1559,30 @@ The AfCFTA Secretariat closed phase 1 of its Digital Inclusion and Entrepreneurs
 **[African Union InnoFest '26 unveils continental coalition and Youth HackLab to combat digital abuse across Africa](https://www.spotlightinitiative.org/latest/news/african-union-innofest-26-unveils-continental-coalition-and-youth-hacklab-combat)** — Spotlight Initiative, 19 October 2026
 
 The African Union Commission convened the first African Community of Practice on Technology-Facilitated Violence Against Women and Girls and launched the SafeTech Africa HackLab for innovators aged 18 to 35. Both took place at AU InnoFest'26 in Addis Ababa on 29 and 30 September 2026, with UNDP, UNFPA, UN Women and the Spotlight Initiative.
+
+</div>
+
+</div>
+
+### Digital divides
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Share of the population using the internet, on the ITU estimate</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Measuring digital development: Facts and Figures 2026](https://www.itu.int/itu-d/reports/statistics/wp-content/uploads/sites/5/2026/11/ITUFactsAndFigures2026.pdf)** — International Telecommunication Union (ITU), 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Africa 42% online against 76% globally; 5G reaches 15% of Africans; 6.3bn online, 2bn still offline in 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ITU Report: Africa’s Internet Use Stands at 42% Against 76% Globally as 6.3 Billion Go Online](https://techafricanews.com/2026/11/19/itu-report-africas-internet-use-stands-at-42-against-76-globally-as-6-3-billion-go-online/)** — Tech Africa News, 19 November 2026
+
+Facts and Figures 2026: Africa 42% online vs 76% global; 5G reaches 15%; gender parity 0.84; urban 52%, rural 23%.
 
 </div>
 
@@ -1659,6 +1757,28 @@ Expertise France's project page describes its part in the Data Governance in Afr
 **[First Circle Capital Closes $26 Million African Fintech Fund](https://techafricanews.com/2026/11/18/first-circle-capital-closes-26-million-african-fintech-fund/)** — Tech Africa News, 18 November 2026
 
 First Circle Capital reached a final close of $26 million for First Circle Africa Fund I, which invests in pre-seed and seed fintech companies across Africa. Investors include IFC, Bpifrance, MSMEDA, Axian, the Dutch Good Growth Fund, the Stellar Foundation and FSD Africa. Individual commitments were not disclosed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Saviu II venture capital fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Saviu closes second Francophone Africa fund at EUR 40m](https://www.africaprivateequitynews.com/p/saviu-closes-second-francophone-africa)** — Africa Private Equity News, 18 November 2026
+
+About EUR 40m final close, four times Saviu I; AfDB EUR 6.5m and Bpifrance join; 11 of ~20 investments made.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Saviu Ventures Closes $43.6 Million Fund to Back 20 African Startups](https://www.ecofinagency.com/news-finances/1811-60941-saviu-ventures-closes-43-6-million-fund-to-back-20-african-startups)** — Ecofin Agency, 18 November 2026
+
+Closes of EUR 12m (Nov 2023), EUR 25m (Feb 2025), EUR 40m final (Nov 2026); USD 43.6m at Ecofin's rate.
 
 </div>
 
