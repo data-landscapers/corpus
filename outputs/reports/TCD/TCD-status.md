@@ -1,12 +1,12 @@
 ---
 title: Chad: status report
-compiled: 2026-11-17
+compiled: 2026-11-20
 place: TCD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 210
+sources_cited: 211
 sections_written: 39
 not_established: 0
 acquire_lines: 37
@@ -228,7 +228,7 @@ Half of the ten core back-office government systems tracked are in use — finan
 ### Digitalisation of sub-national government
 <!-- digital.localgov -->
 
-In 2023 [less than half the population had access to broadband connectivity, and outside N'Djamena and the secondary cities there was no grid electrification at all](https://documents1.worldbank.org/curated/en/099102502282341480/pdf/P180000048eed6040a13200ddaf8abe650.pdf). In 2025 the financial management system covering treasury execution [ran at central government level only](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Budget orientations published in August 2026 propose [generalising SIGFiP to local authorities, public establishments, projects and missions abroad](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), for real-time monitoring of budget execution. No rollout date is attached.
+In 2023 [less than half the population had access to broadband connectivity, and outside N'Djamena and the secondary cities there was no grid electrification at all](https://documents1.worldbank.org/curated/en/099102502282341480/pdf/P180000048eed6040a13200ddaf8abe650.pdf). In 2025 the financial management system covering treasury execution [ran at central government level only](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Budget orientations published in August 2026 propose [generalising SIGFiP to local authorities, public establishments, projects and missions abroad](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), for real-time monitoring of budget execution. No rollout date is attached. [On 17 November 2026 the Ouaddaï provincial council opened a workshop on NEXUS HDP, a UNDP-backed platform mapping needs and interventions to monitor its provincial development plan](https://tchadinfos.com/2026/11/19/ouaddai-la-plateforme-nexus-hdp-pour-renforcer-la-coordination-des-interventions/).
 
 In 2025 education management information functions had been [decentralised to two-thirds of the provinces](https://www.unicef.org/innocenti/stories/supporting-middle-tier-actors-chad-access-and-use-data-decision-making), with the remainder to follow. That concerns compiling and using data at province level, not what the schools themselves record. [On 23 September 2026 N'Djamena city hall and ANATS signed a memorandum launching a project to digitise the commune's civil registers](https://lendjampost.com/etat-civil-la-mairie-de-ndjamena-engage-sa-transformation-numerique-avec-lanats/). [The project, supported by the Organisation Internationale de la Francophonie, is to connect the commune's systems securely to ANATS's population and secure-documents system](https://lendjampost.com/etat-civil-la-mairie-de-ndjamena-engage-sa-transformation-numerique-avec-lanats/). [Interoperability work between the three began in April 2026](https://tribuneechos.com/tchad-lanats-et-loif-sunissent-pour-la-transformation-numerique-de-letat-civil/). [On 15 September 2026 the Abéché town hall, the provincial telecommunications delegation and the ICT agency met on a partnership to digitise municipal services](https://www.alwihdainfo.com/tchad-la-commune-dabeche-et-les-telecommunications-unissent-leurs-forces-pour-accelerer-la-digitalisation/). [No service or budget has been published](https://www.alwihdainfo.com/tchad-la-commune-dabeche-et-les-telecommunications-unissent-leurs-forces-pour-accelerer-la-digitalisation/). [On 21 April 2026 N'Djamena's commune launched a digital taxpayer census with digitised revenue collection at its central market](https://journaldutchad.com/tchad-la-commune-de-ndjamena-digitalise-la-collecte-des-recettes/).
 
