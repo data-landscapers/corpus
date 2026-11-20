@@ -1,12 +1,12 @@
 ---
 title: Egypt: status report
-compiled: 2026-11-17
+compiled: 2026-11-20
 place: EGY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 10
-sources_cited: 254
+sources_cited: 256
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -172,9 +172,9 @@ Telecom Egypt's board [withdrew on 17 July 2026 from the agreed sale of 75–80 
 ### Data Exchange
 <!-- dpi.exchange -->
 
-The Financial Regulatory Authority's [Decision No. 2684 of 2026, in force from 24 September 2026, requires consumer-finance companies to link their databases to the Authority's and to pass it customer records on approval of financing, customers' purchases in real time, their repayment standing and the firms' own solvency indicators, under controls the Authority is to issue within six months](https://fra.gov.eg/fra_news/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D9%84%D8%B2%D9%85-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7/); [the decision as announced sets no terms on customer consent, retention of the data or who may see it](https://tech.africa/egypt-fra-consumer-finance-data/).
+The Financial Regulatory Authority's [Decision No. 2684 of 2026, in force from 24 September 2026, requires consumer-finance companies to link their databases to the Authority's and to pass it customer, purchase and repayment records in real time, under controls the Authority is to issue within six months](https://fra.gov.eg/fra_news/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D9%84%D8%B2%D9%85-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7/); [the decision as announced sets no terms on customer consent, retention of the data or who may see it](https://tech.africa/egypt-fra-consumer-finance-data/).
 
-Egypt's government digital switch [connected 105 government bodies, and a parallel data-integration effort had linked 100 national databases](https://gate.ahram.org.eg/News/5813424.aspx) as at July 2026, while the [framework meant to govern that exchange was still in draft and the interoperability platform itself recorded as only partially used](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) in 2025.
+Egypt's government digital switch [connected 105 government bodies, and a parallel data-integration effort had linked 100 national databases](https://gate.ahram.org.eg/News/5813424.aspx) as at July 2026, while the [framework meant to govern that exchange was still in draft and the interoperability platform itself recorded as only partially used](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) in 2025. [On 18 November 2026 Cabinet approved creating a Comprehensive National Data System, a central state database across ministries](https://sis.gov.eg/en/media-center/news/cabinet-approves-draft-resolution-to-establish-comprehensive-national-data-system/).
 
 The core of central government already moves data across a [Government Service Bus — financial management, tax administration, customs, human resources, social insurance and debt management — alongside separate point-to-point interfaces](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The [Unified National Registry, a World Bank-supported platform, connects 114 government databases through the national ID number and covers all Egyptian households](https://documents1.worldbank.org/curated/en/099205012052226857/pdf/BOSIB01e105ebc01e0a059000b4715dc353.pdf) (2022).
 
@@ -307,7 +307,7 @@ The state's financing instrument is the [Egypt Startup Charter, which attaches a
 
 [A commercial directory listed 39 accelerators and incubators in January 2025](https://tracxn.com/d/investor-lists/accelerators-incubators-in-egypt/__ipYdkLo_FgbzV1gMFal2rbmNvDtcvlDgOWvf4fBZMjQ). [The African Development Bank's mapping identifies dozens more university-based incubators, including 48 supported by the Academy of Scientific Research and Technology](https://tracxn.com/d/investor-lists/accelerators-incubators-in-egypt/__ipYdkLo_FgbzV1gMFal2rbmNvDtcvlDgOWvf4fBZMjQ). [The ICT ministry had built 23 Creativa digital innovation centres across the governorates by October 2024](https://gate.ahram.org.eg/News/5002419.aspx). [Their incubator opened a fifth cycle in November 2026 with EGP 10.8 million, paying up to EGP 360,000 a start-up](https://www.masrtimes.com/775446).
 
-In August 2026 the financial regulator's sandbox had [produced far more advisory guidance to firms than authorisations, with only its first projects reaching live testing](https://sis.gov.eg/en/media-center/news/fra-approves-testing-first-2-projects-by-sandbox-digital-ecosystem/). Government has [both a public sector innovation strategy and a programme](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [An established innovation lab works on digital skills and public service innovation](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Its [open source software policy is advisory, not mandatory](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Egypt [ranked 86th in the WIPO Global Innovation Index 2024, within a confidence interval of 82nd to 88th](https://www.wipo.int/edocs/gii-ranking/2024/eg.pdf).
+In August 2026 the financial regulator's sandbox had [produced far more advisory guidance to firms than authorisations, with only its first projects reaching live testing](https://sis.gov.eg/en/media-center/news/fra-approves-testing-first-2-projects-by-sandbox-digital-ecosystem/). [On 18 November 2026 the prime minister launched a Trade Tech Regulatory Sandbox and Innovation Hub under the investment and foreign trade ministry](https://sis.gov.eg/en/media-center/news/pm-technology-innovation-prerequisites-for-developing-foreign-trade-boosting-competitiveness/). Government has [both a public sector innovation strategy and a programme](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [An established innovation lab works on digital skills and public service innovation](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Its [open source software policy is advisory, not mandatory](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Egypt [ranked 86th in the WIPO Global Innovation Index 2024, within a confidence interval of 82nd to 88th](https://www.wipo.int/edocs/gii-ranking/2024/eg.pdf).
 
 ## Capacity
 
