@@ -54,6 +54,38 @@ def _toks(s: str) -> list[str]:
     return [W.EV.FR_EN.get(t, t) for t in toks if t not in W.EV.STOP and len(t) > 1]
 
 
+def one_side(name: str, slug: str) -> str:
+    """*Google and Visa* for `visa` is *Visa* (Bill, 2026-11-20). A source naming two bodies
+    together leaves both in the written form; where exactly one side of an *and* carries
+    every word of the slug, or is its initials, that side is the name. A name the slug
+    needs whole is untouched: no side of *Bill and Melinda Gates Foundation* or *Food and
+    Agriculture Organization* carries `fao` or all of `bill-and-melinda-gates-foundation`.
+
+    Held to two short names side by side, because a ministry's portfolio list (*Ministère
+    de la Santé et de l'Hygiène publique*) and a university's (*… for Science and
+    Technology*) split the same way: no comma or bracket, no `-and-` in the slug, each side
+    three words at most, and the dropped side sharing no word with the slug."""
+    if "-and-" in slug or re.search(r"[,()–—]", name):
+        return name
+    sides = [x.strip() for x in re.split(r"\s+(?:and|&|et)\s+", name)]
+    if len(sides) != 2 or not all(sides) or any(len(x.split()) > 3 for x in sides):
+        return name
+    st = {t[:5] for t in _toks(slug)}
+    if not st:
+        return name
+
+    def covers(side):
+        ft = _toks(side)
+        if st <= {t[:5] for t in ft}:
+            return True
+        return len(st) == 1 and "".join(t[0] for t in ft) == next(iter(st))
+    hit = [x for x in sides if covers(x)]
+    if len(hit) != 1:
+        return name
+    other = next(x for x in sides if x is not hit[0])
+    return name if st & {t[:5] for t in _toks(other)} else hit[0]
+
+
 def owns(form: str, slug: str) -> bool:
     """The written form is recognisably the slug's name: at least half the slug's words
     appear in it (compared on their first five letters, after the French-English fold,
@@ -155,6 +187,7 @@ def main(argv=None) -> int:
         # across many.
         place = place_of(slug, res, placed) or (res.place.get(slug, "") if kind == "government" else "")
         name, nh = name_for(slug, place, names.get(slug), forms[slug], country)
+        name = one_side(name, slug) if name and kind != "government" else name
         named[nh] += 1
         if not name:
             # No name the sources wrote is recognisably this slug's: left out, its rows
