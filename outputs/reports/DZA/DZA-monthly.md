@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: DZA
-ledger_rows: 43
+ledger_rows: 44
 not_held: 6
-record: 4bb9030bc166
+record: f48850026980
 ---
 
 # News, Oct – Nov 2026
@@ -279,6 +279,20 @@ Algeria inaugurated I-Cloud, described as its first wholly sovereign data centre
 **[Minister of Higher Education and Scientific Research discusses with Chinese delegation the project to establish an artificial intelligence data centre at the National Higher School of Artificial Intelligence](https://www.mesrs.dz/en/2026/11/minister-of-higher-education-and-scientific-research-discusses-with-chinese-delegation-the-project-to-establish-an-artificial-intelligence-data-centre-at-the-national-higher-school-of-artificial-intel/)** — Ministry of Higher Education and Scientific Research (Algeria), 9 November 2026
 
 Algeria's higher-education minister, Kamel Baddari, met a Chinese delegation on 9 November 2026 about an AI data centre. The centre would sit at the National Higher School of Artificial Intelligence in Sidi Abdellah. The statement names no Chinese firm, cost or completion date.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National disaster-recovery data centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sino-Algerian Consortium Wins $290 Million Data Center Contract](https://dzwatch.dz/en/algeria/sino-algerian-consortium-wins-290-million-data-center-contract)** — DZ Watch, 19 November 2026
+
+DZ Watch reported on 19 November 2026 that a consortium led by China Railway Construction Corporation and Huawei won a USD 290 million contract to build Algeria's national data centre and a disaster recovery centre. It reports that the consortium scored full marks in the tender. The awarding authority and award date are not stated.
 
 </div>
 
@@ -617,6 +631,22 @@ Algeria's High Commission for Digitization trained information system officials 
 **[Portail numérique: Les documents en ligne désormais reconnus](https://www.echoroukonline.com/portail-numerique-les-documents-en-ligne-desormais-reconnus)** — Echorouk El Yawmi, 11 November 2026
 
 Algeria's High Commission for Digitisation said all public administrations now accept documents issued on the Dzair Digital Services portal. A decision of Prime Minister Sifi Ghrieb requires it. The portal has grown from 21 services at its July 2026 launch to 68. It had over two million registered users on 10 November 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tourisme et artisanat: 20 services sur Dzair Digital Services](https://www.algerie360.com/dzair-digital-services-tourisme-artisanat-nouveaux-services/)** — Algerie360, 16 November 2026
+
+Six tourism-business, training and 11 handicraft services added; portal near two million users four months in.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[مليونا مواطن مسجلون في البوابة الوطنية للخدمات الرقمية مع توفير 91 خدمة | الإذاعة الجزائرية](https://news.radioalgerie.dz/ar/node/99407)** — الإذاعة الجزائرية, 19 November 2026
+
+An expert of Algeria's High Commission for Digitisation said on 19 November 2026 that the national digital services portal offered 91 services. He gave about two million registered users and about 11 million visits. The 15 November account gave 71 services. The commission's target is 100 services by the end of 2026.
 
 </div>
 
