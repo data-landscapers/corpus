@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: EGY
-ledger_rows: 71
+ledger_rows: 75
 not_held: 35
-record: 667acc292cf3
+record: b2f33d210025
 ---
 
 # News, Oct – Nov 2026
@@ -448,6 +448,20 @@ The Suez Canal Economic Zone and Telecom Egypt signed a co-operation agreement, 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Medusa cable terrestrial extension, Port Said to Jordan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU and EIB back Medusa to strengthen Mediterranean digital links and connect Jordan’s research community](https://www.eib.org/en/press/all/2026-426-eu-and-eib-back-medusa-to-strengthen-mediterranean-digital-links-and-connect-jordan-s-research-community)** — European Investment Bank, 19 November 2026
+
+The European Investment Bank announced on 19 November 2026 a EUR 11.1 million EU grant for the Medusa submarine cable's land extension from Port Said in Egypt to Jordan. EU grants for Medusa's research and education links now total EUR 51.1 million. An EIB loan of up to EUR 60 million also supports the system. The project aims to link about 500 institutions with European counterparts.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -599,6 +613,20 @@ The planning minister told the Senate about an integrated electronic link. It jo
 **[العدل تواصل تطوير منظومة تسجيل الملكية العقارية بربط شبكى مع الوزارات المعنية](https://www.youm7.com/story/2026/10/28/%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B1%D8%A8%D8%B7-%D8%B4%D8%A8%D9%83%D9%89-%D9%85%D8%B9/7597491)** — Youm7, 28 October 2026
 
 Egypt's Ministry of Justice said it has linked the real estate registry by network to the communications, planning, housing and awqaf ministries and survey bodies (reported October 2026). A unified platform lets owners complete property registration remotely, from application through payment to electronic signature. The ministry gave no launch date.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Comprehensive National Data System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabinet approves draft resolution to establish Comprehensive National Data System](https://sis.gov.eg/en/media-center/news/cabinet-approves-draft-resolution-to-establish-comprehensive-national-data-system/)** — State Information Service (Egypt), 18 November 2026
+
+Six AI-backed sub-platforms across ministries; IDSC-chaired committee meets monthly, reports quarterly to PM.
 
 </div>
 
@@ -910,6 +938,20 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online seafarer passport and certificate services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt to launch online seafarer passport and certificate services Thursday](https://sis.gov.eg/en/media-center/news/egypt-to-launch-online-seafarer-passport-and-certificate-services-thursday/)** — State Information Service, 18 November 2026
+
+EAMS portal: seafarer passports and certificates issued and renewed online from 19 Nov 2026, no extra fees.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -1149,6 +1191,20 @@ Telecom Egypt's revenue for the first nine months of 2026 rose 19% year on year 
 **[«كرياتيفا» تطلق الدورة الخامسة لاحتضان الشركات الناشئة بتمويل 10.8 مليون جنيه](https://www.masrtimes.com/775446)** — Masr Times, 9 November 2026
 
 Egypt's information technology development agency ITIDA launched the fifth round of its Creativa incubation programme with total funding of EGP 10.8 million. Each pre-seed startup can receive up to EGP 360,000 over one year, half in cash and half as training, mentoring and advice. The programme covers sectors including education technology, renewable energy, agritech and health.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">TradeTech sandbox and innovation hub</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PM: Technology, innovation prerequisites for developing foreign trade, boosting competitiveness](https://sis.gov.eg/en/media-center/news/pm-technology-innovation-prerequisites-for-developing-foreign-trade-boosting-competitiveness/)** — State Information Service, 18 November 2026
+
+Launched 18 Nov 2026 under investment ministry; AI, payments, digital ID, e-document trials; 15+ ideas pre-launch.
 
 </div>
 
