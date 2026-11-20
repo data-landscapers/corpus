@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: AGO
-ledger_rows: 31
+ledger_rows: 32
 not_held: 6
-record: cec54e7dae1d
+record: dd0438a94914
 ---
 
 # News, Oct – Nov 2026
@@ -239,6 +239,20 @@ Q-KON and SISTEC opened a point of presence in Luanda for the Twoobii OneWeb low
 **[Africell reforça presença em Angola com apoio financeiro e estratégico dos Estados Unidos](https://southernbridges.ao/africell-reforca-presenca-em-angola-com-apoio-financeiro-e-estrategico-dos-estados-unidos/)** — Southern Bridges, 3 November 2026
 
 Africell is preparing a satellite services company with Angola's government and United States backing, aimed at mining, oil, gas and farming clients. Africell had earlier secured US$99.6 million from the US EXIM Bank for mobile network equipment. The amounts for the satellite venture have not been disclosed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National broadband network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Angola: Le MINTTICS explique les raisons de la réduction du budget alloué à l'expansion du haut débit](https://fr.allafrica.com/stories/202611190280.html)** — Angola Press Agency via allAfrica, 19 November 2026
+
+Angola's draft 2027 budget cuts the broadband network allocation by 27 per cent. Telecoms minister Mário Oliveira told National Assembly committees on 18 November 2026 that the cut reflects progress. He cited more than 3,000 km of fibre installed and nearly 1,000 km rehabilitated. The last-mile phase is under way.
 
 </div>
 
