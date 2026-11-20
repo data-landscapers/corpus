@@ -1,12 +1,12 @@
 ---
 title: Tanzania: status report
-compiled: 2026-11-18
+compiled: 2026-11-20
 place: TZA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 12
-sources_cited: 298
+sources_cited: 299
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -354,7 +354,7 @@ In Mbeya in 2025, [formal training on the education information system did not r
 ### Digital divides
 <!-- include.divides -->
 
-In the quarter to March 2026 Tanzania's smartphone users [fell from 29.8 million to 28.5 million, with the cost of handsets named as the reason](https://www.thecitizen.co.tz/tanzania/business/telecom-infrastructure-investment-drives-5g-expansion-despite-low-smartphone-uptake-5491080). [In March 2026 smartphone penetration stood at 42.5%](https://www.thecitizen.co.tz/tanzania/business/telecom-infrastructure-investment-drives-5g-expansion-despite-low-smartphone-uptake-5491080). [Penetration had reached 41.8% in 2025, up from 36% a year earlier](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf). [Most of the population was still without a smartphone as digital payment became mandatory](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf).
+In the quarter to March 2026 Tanzania's smartphone users [fell from 29.8 million to 28.5 million, with the cost of handsets named as the reason](https://www.thecitizen.co.tz/tanzania/business/telecom-infrastructure-investment-drives-5g-expansion-despite-low-smartphone-uptake-5491080). [In March 2026 smartphone penetration stood at 42.5%](https://www.thecitizen.co.tz/tanzania/business/telecom-infrastructure-investment-drives-5g-expansion-despite-low-smartphone-uptake-5491080). [Penetration had reached 41.8% in 2025, up from 36% a year earlier](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf). [Most of the population was still without a smartphone as digital payment became mandatory](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf). [An Afrobarometer survey in mid-2024 found 64% of adults never went online, and 30% owned an internet-capable phone against 86% owning any phone](https://www.afrobarometer.org/publication/ad1251-tanzanias-changing-news-landscape-gains-in-digital-media-still-leave-many-without-access/).
 
 [In 2025 women's loan accounts rose 4.2% while the value of their borrowing fell, and lending to young people fell 20% in value to TZS 4.05 trillion](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf).
 
