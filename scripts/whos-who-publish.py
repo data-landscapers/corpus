@@ -45,6 +45,7 @@ import csv
 import gzip
 import html
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -65,6 +66,7 @@ DATA = SITE / "data"
 
 COLS = ["name", "year", "position", "organisation", "source_url"]
 BLOCK = 1000                       # source ids per src-NNN.json
+SEP = "; "                         # between the source URLs of one published row
 URL = f"{SITE_BASE}/whos-who/"
 ROBOTS = '<meta name="robots" content="noindex, nofollow">\n'
 
@@ -101,6 +103,13 @@ def position_of(r: dict) -> str:
     return f"{p} (former)" if r["tense"] == "held" and not r["year_to"] else p
 
 
+def position_key(p: str) -> str:
+    """What two written forms of one title share: no case, accents, hyphens or extra spaces.
+    *Secretary-General*, *Secretary General* and *secretary‑general* are one title;
+    *secrétaire général* is French and stays its own (§5)."""
+    return " ".join(re.sub(r"[-‐‑‒–—]", " ", W.fold(p)).split())
+
+
 def lineage_groups(slugs: set[str]) -> dict[str, str]:
     """canonical slug -> the slug its lineage group is known by, so selecting any name a
     ministry has had selects them all (§8a). Union-find over `org-lineage.csv`."""
@@ -132,7 +141,7 @@ def build() -> dict:
     doc_id = {r["slug"]: int(r["id"]) for r in read(DOC_IDS)}
     places = W.countries()
 
-    rows, dropped = [], collections.Counter()
+    facts, dropped = [], collections.Counter()
     for r in read(POSITIONS):
         pid = r["person_id"]
         canon = orgs.get(r["slug"], {}).get("canonical_slug") or r["slug"]
@@ -149,12 +158,28 @@ def build() -> dict:
         if not item or item.get("slug") not in doc_id:
             dropped["source not in the catalogue"] += 1
             continue
-        rows.append({"pid": pid, "org": canon, "name": people[pid], "year": year_of(r),
-                     "y0": int(r["year"]), "position": position_of(r),
-                     "organisation": orgs[canon]["name"], "source_url": r["source_url"],
-                     "sid": doc_id[item["slug"]]})
+        facts.append((pid, canon, year_of(r), int(r["year"]), position_of(r),
+                      r["source_url"], doc_id[item["slug"]]))
+
+    # One row per person, position, organisation and year, its sources joined (Bill,
+    # 2026-11-20). The cache and positions.csv stay one row a source, which is what ids
+    # anchor on; only the published row is collapsed. Positions group on case, accents,
+    # hyphens and spacing, and publish under the form the sources use most.
+    grouped = collections.defaultdict(list)
+    for f in facts:
+        grouped[(f[0], f[1], f[2], position_key(f[4]))].append(f)
+    rows = []
+    for (pid, canon, year, _), fs in grouped.items():
+        forms = collections.Counter(f[4] for f in fs)
+        position = min(forms, key=lambda t: (-forms[t], not t[:1].isupper(), t))
+        src = sorted({(f[6], f[5]) for f in fs})
+        rows.append({"pid": pid, "org": canon, "name": people[pid], "year": year,
+                     "y0": fs[0][3], "position": position,
+                     "organisation": orgs[canon]["name"],
+                     "source_url": SEP.join(u for _, u in src), "sids": [i for i, _ in src],
+                     "urls": dict(src)})
     rows.sort(key=lambda x: (W.fold(x["name"]), x["y0"], W.fold(x["organisation"]),
-                             W.fold(x["position"]), x["source_url"]))
+                             W.fold(x["position"])))
 
     # People in name order; the index is all a row carries, and it is renumbered every build.
     pids = sorted({x["pid"] for x in rows}, key=lambda p: (W.fold(people[p]), p))
@@ -176,14 +201,15 @@ def build() -> dict:
         "positions": positions,
         "rows": {"p": [p_ix[x["pid"]] for x in rows], "o": [o_ix[x["org"]] for x in rows],
                  "t": [t_ix[x["position"]] for x in rows], "y": [x["year"] for x in rows],
-                 "s": [x["sid"] for x in rows]},
+                 "s": [x["sids"] for x in rows]},
         "count": len(rows),
     }
     blocks = collections.defaultdict(dict)
     for x in rows:
-        blocks[x["sid"] // BLOCK][str(x["sid"])] = x["source_url"]
+        for sid, url in x["urls"].items():
+            blocks[sid // BLOCK][str(sid)] = url
     return {"rows": rows, "index": index, "blocks": blocks, "dropped": dropped,
-            "people": len(pids), "orgs": len(org_slugs), "sources": len({x["sid"] for x in rows})}
+            "people": len(pids), "orgs": len(org_slugs), "sources": len({i for x in rows for i in x["sids"]})}
 
 
 def csv_text(cols, rows) -> str:

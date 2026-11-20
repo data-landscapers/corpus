@@ -16,7 +16,9 @@
 
    **No person is addressable.** The fragment carries the search, the country and
    the organisation, never a person; a name in it is a search and finds everyone of
-   that name. Source URLs live in `data/src-NNN.json` blocks, fetched when a row is
+   that name. A row is one person, position, organisation and year, and carries
+   every source saying so: the panel lists them, the download joins them with `; `.
+   Source URLs live in `data/src-NNN.json` blocks, fetched when a row is
    opened or the rows on screen are downloaded. */
 (function () {
   'use strict';
@@ -158,7 +160,7 @@
   function draw(hits) {
     if (!hits.length) { clear('Nothing matches. Try fewer letters, another spelling, or no country.'); return; }
     var src = {};
-    hits.forEach(function (i) { src[D.rows.s[i]] = 1; });
+    hits.forEach(function (i) { D.rows.s[i].forEach(function (k) { src[k] = 1; }); });
     status.textContent = hits.length.toLocaleString() + (hits.length === 1 ? ' row' : ' rows')
       + ' from ' + Object.keys(src).length.toLocaleString()
       + (Object.keys(src).length === 1 ? ' source.' : ' sources.');
@@ -200,7 +202,9 @@
   }
   function sources(rows) {
     var need = {};
-    rows.forEach(function (i) { need[Math.floor(D.rows.s[i] / D.block)] = 1; });
+    rows.forEach(function (i) {
+      D.rows.s[i].forEach(function (k) { need[Math.floor(k / D.block)] = 1; });
+    });
     return Promise.all(Object.keys(need).map(function (n) { return block(+n); }))
       .then(function (maps) {
         var all = {};
@@ -213,16 +217,18 @@
      and every held document that mentions the name. */
   function panel(i, cell) {
     var R = D.rows, name = D.people[R.p[i]][0], o = D.orgs[R.o[i]][0];
-    cell.innerHTML = '<dl><dt>Source</dt><dd class="ww-src">Loading…</dd></dl>'
+    cell.innerHTML = '<dl><dt>' + (R.s[i].length > 1 ? R.s[i].length + ' sources' : 'Source')
+      + '</dt><dd class="ww-src">Loading…</dd></dl>'
       + '<p class="ww-ways">'
       + '<a href="#q=' + encodeURIComponent(name) + '" data-q="' + esc(name) + '">Every row for this name</a>'
       + '<a href="#org=' + encodeURIComponent(o) + '" data-org="' + esc(o) + '">Every row for this organisation</a>'
       + '<a href="../catalogue/#q=' + encodeURIComponent(name) + '">This name in the catalogue</a></p>';
     sources([i]).then(function (m) {
-      var u = m[R.s[i]];
-      cell.querySelector('.ww-src').innerHTML = u
-        ? '<a href="' + esc(u) + '" target="_blank" rel="noopener noreferrer">' + esc(u) + '</a>'
-        : 'Not found.';
+      cell.querySelector('.ww-src').innerHTML = R.s[i].map(function (k) {
+        var u = m[k];
+        return u ? '<a href="' + esc(u) + '" target="_blank" rel="noopener noreferrer">' + esc(u) + '</a>'
+          : 'Not found.';
+      }).join('<br>');
     }, function () { cell.querySelector('.ww-src').textContent = 'Could not load the source.'; });
   }
 
@@ -245,7 +251,7 @@
     sources(rows).then(function (m) {
       var out = [['name', 'year', 'position', 'organisation', 'source_url']];
       rows.forEach(function (i) {
-        out.push([D.people[R.p[i]][0], R.y[i], D.positions[R.t[i]], D.orgs[R.o[i]][0], m[R.s[i]] || '']);
+        out.push([D.people[R.p[i]][0], R.y[i], D.positions[R.t[i]], D.orgs[R.o[i]][0], R.s[i].map(function (k) { return m[k] || ''; }).join('; ')]);
       });
       var a = document.createElement('a');
       a.href = URL.createObjectURL(new Blob(['\ufeff' + csv(out)], { type: 'text/csv' }));
