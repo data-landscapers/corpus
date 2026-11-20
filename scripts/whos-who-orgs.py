@@ -210,17 +210,34 @@ def main(argv=None) -> int:
     for o in out.values():
         if o["kind"] == "other" and o["basis"] == "auto" and o["canonical_slug"] == o["slug"]:
             same[W.fold(o["name"])].append(o["slug"])
-    for slugs in same.values():
-        if len(slugs) < 2:
-            continue
+    def fold_into(slugs):
+        nonlocal folded
         mine = [s for s in slugs if s in listed]
-        if not mine and len({out[s]["place"] for s in slugs if not out[s]["place"].startswith("X")}) > 1:
-            continue
         keep = mine[0] if mine else max(slugs, key=lambda s: (use[s], s))
         for s in slugs:
             if s != keep:
                 out[s]["canonical_slug"] = keep
                 folded += 1
+    for slugs in same.values():
+        if len(slugs) < 2:
+            continue
+        if any(s in listed for s in slugs):
+            fold_into(slugs)
+            continue
+        # One body per country: Tanzania's two PPRA tags fold, Botswana's PPRA stays its own.
+        # A regional or unplaced tag joins the one country's, if there is only one.
+        by_place = collections.defaultdict(list)
+        for s in slugs:
+            by_place[out[s]["place"] if out[s]["place"] and not out[s]["place"].startswith("X") else ""].append(s)
+        countries = [p for p in by_place if p]
+        if len(countries) == 1:
+            fold_into(by_place[countries[0]] + by_place.get("", []))
+        else:
+            for p in countries:
+                if len(by_place[p]) > 1:
+                    fold_into(by_place[p])
+            if not countries and len(by_place[""]) > 1:
+                fold_into(by_place[""])
 
     # Finish line: no published government name stands for two countries, or for none.
     faults = []

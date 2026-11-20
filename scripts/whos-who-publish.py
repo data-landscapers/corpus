@@ -175,14 +175,40 @@ def build() -> dict:
     grouped = collections.defaultdict(list)
     for f in facts:
         grouped[(f[0], f[1], f[2])].append(f)
-    rows = []
+    def best(forms, parts):
+        """The form a row shows: never a bare abbreviation (*DG*, *CEO*) when a written-out
+        form exists, then English, the most titles, the most qualifiers (*Vice-President for
+        Private Sector*, not *Vice-President*), a capital, fewest abbreviations, the sources'
+        commonest wording, the shorter."""
+        def bare(t):
+            ws = re.findall(r"[^\W\d_]+", t)
+            return bool(ws) and all(w.isupper() or len(w) <= 3 for w in ws)
+        return min(forms, key=lambda t: (
+            bare(t), not W.is_english(t), -len(parts[t]),
+            -sum(len(k.partition(" |")[2].split()) for k in parts[t]),   # the fuller title
+            not t[:1].isupper(),
+            sum(1 for w in re.findall(r"\w+", t) if len(w) > 1 and w.isupper()),
+            -forms[t], len(t.split()), t))
+
+    # One title reads one way across a person's years at an organisation (Bill, 2026-11-20:
+    # Wale Ajisebutu was *chief executive officer*, *Chief Executive Officer* and *CEO* in
+    # three years). Every written form is pooled under its exact set of parts; a row then
+    # shows the pool's best form for its chosen title's parts.
+    ows = {c: W.org_words(orgs[c]["name"]) for c in {f[1] for f in facts}}
+    pool = collections.defaultdict(collections.Counter)
+    for f in facts:
+        k = W.title_parts(f[4], owords=ows[f[1]]) or frozenset({position_key(f[4])})
+        pool[(f[0], f[1], k)][f[4]] += 1
+    shown = collections.defaultdict(list)          # two titles that now read alike are one row
     for (pid, canon, year), fs in grouped.items():
         for fs, forms, parts in same_titles(fs, orgs[canon]["name"]):
-            position = min(forms, key=lambda t: (
-                not W.is_english(t), -len(parts[t]), not t[:1].isupper(),
-                sum(1 for w in re.findall(r"\w+", t) if len(w) > 1 and w.isupper()),
-                len(t.split()), -forms[t], t))
-            rows.append(row_of(pid, canon, year, position, fs, people, orgs, places))
+            position = best(forms, parts)
+            alike = pool[(pid, canon, parts[position])]
+            if len(alike) > 1:
+                position = best(alike, {t: parts[position] for t in alike})
+            shown[(pid, canon, year, position)].extend(fs)
+    rows = [row_of(pid, canon, year, position, fs, people, orgs, places)
+            for (pid, canon, year, position), fs in shown.items()]
     rows.sort(key=lambda x: (W.fold(x["name"]), x["y0"], W.fold(x["organisation"]),
                              W.fold(x["position"])))
     return finish(rows, people, aliases, orgs, places, dropped)
@@ -211,6 +237,16 @@ def same_titles(fs: list, organisation: str):
                     up[max(a, b)] = min(a, b)
             else:
                 owner[k] = t
+    # A title and a fuller form of it are one: *Principal Secretary*, *Principal Secretary
+    # for ICT* (Bill, 2026-11-20). A rank word differs in the title words, so *Deputy
+    # Governor* never meets *Governor*.
+    ts = sorted(forms)
+    for i, t in enumerate(ts):
+        for u in ts[i + 1:]:
+            if any(W.same_title(a, b) for a in parts[t] for b in parts[u]):
+                a, b = find(t), find(u)
+                if a != b:
+                    up[max(a, b)] = min(a, b)
     groups = collections.defaultdict(list)
     for f in fs:
         groups[find(f[4])].append(f)

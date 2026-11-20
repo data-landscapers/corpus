@@ -375,7 +375,13 @@ def is_english(position: str) -> bool:
 
 def _roles() -> set[str]:
     with open(ROOT / "lookups" / "whos-who-roles.csv", encoding="utf-8", newline="") as fh:
-        return {w for r in csv.DictReader(fh) for w in _english(r["word"]).split()} - TITLE_STOP - SETTING
+        return ({w for r in csv.DictReader(fh) for w in _english(r["word"]).split()} - TITLE_STOP
+                - SETTING) | RANK
+
+
+# Words that change the post rather than describe it: an acting Chairman is not the
+# Chairman, so these count as title words and never fold as qualifiers.
+RANK = {"acting", "ag", "interim", "intérim", "pi"}
 
 
 _ROLES = None
@@ -403,7 +409,9 @@ def title_parts(position: str, organisation: str = "", owords: set[str] | None =
         ws = chunk.split()
         if not ws:
             continue
-        if cur and not (set(ws) & _ROLES):
+        if cur and (not (set(ws) & _ROLES) or not (set(cur) & _ROLES)):
+            # A chunk with no title word belongs to its neighbour: a trailing portfolio, or a
+            # leading one (*ICT and Digital Economy Principal Secretary*).
             cur += ws                      # "ministre de l'Economie et des Finances": a portfolio,
             continue                       # not a second title
         if cur:
@@ -419,5 +427,19 @@ def title_parts(position: str, organisation: str = "", owords: set[str] | None =
         if keep:
             # A plural qualifier is the singular: *Reforms Department*, *Reform Department*.
             keep = [w if w in _ROLES or len(w) < 5 or not w.endswith("s") else w[:-1] for w in keep]
-            out.add(" ".join(sorted(set(keep))) + (" ~former" if former else ""))
+            roles = sorted({w for w in keep if w in _ROLES})
+            quals = sorted({w for w in keep if w not in _ROLES})
+            out.add(" ".join(roles) + (" ~former" if former else "") + " |" + "".join(" " + q for q in quals))
     return frozenset(out)
+
+
+def same_title(a: str, b: str) -> bool:
+    """Two parts of `title_parts` name one title when their title words agree and one's
+    qualifiers hold the other's: *Principal Secretary* and *Principal Secretary for ICT*.
+    Only ever asked of one person's positions at one organisation in one year."""
+    ra, _, qa = a.partition(" |")
+    rb, _, qb = b.partition(" |")
+    if ra != rb:
+        return False
+    qa, qb = set(qa.split()), set(qb.split())
+    return qa <= qb or qb <= qa

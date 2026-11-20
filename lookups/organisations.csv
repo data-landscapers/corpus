@@ -535,11 +535,11 @@ assemblee-legislative-du-peuple,assemblee-legislative-du-peuple,Assemblée légi
 assemblee-nationale-benin,assemblee-nationale-benin,Assemblée nationale,BEN,other,auto
 assemblee-nationale-burundi,assemblee-nationale-burundi,Assemblée Nationale,BDI,other,auto
 assemblee-nationale-cameroun,assemblee-nationale-cameroun,Assemblée nationale du Cameroun,CMR,other,auto
-assemblee-nationale-centrafricaine,assemblee-nationale-centrafricaine,Assemblée nationale,CAF,other,auto
+assemblee-nationale-centrafricaine,assemblee-nationale-rca,Assemblée nationale,CAF,other,auto
 assemblee-nationale-congo,assemblee-nationale-congo,Assemblée nationale,COG,other,auto
 assemblee-nationale-cote-divoire,assemblee-nationale-cote-divoire,ASSEMBLEE NATIONALE ABIDJAN,CIV,other,auto
 assemblee-nationale-djibouti,assemblee-nationale-djibouti,Assemblée nationale,DJI,other,auto
-assemblee-nationale-drc,assemblee-nationale-drc,Assemblée nationale,COD,other,auto
+assemblee-nationale-drc,assemblee-nationale-rdc,Assemblée nationale,COD,other,auto
 assemblee-nationale-gabon,assemblee-nationale-gabon,Assemblée nationale,GAB,other,auto
 assemblee-nationale-guinee,assemblee-nationale-guinee,Assemblée nationale,GIN,other,auto
 assemblee-nationale-madagascar,assemblee-nationale-madagascar,Assemblée nationale,MDG,other,auto
@@ -1516,7 +1516,7 @@ dgsn-cameroon,dgsn-cameroon,DGSN CNI,CMR,other,auto
 dgsn-mauritanie,dgsn-mauritanie,direction générale de la sureté nationale,MRT,other,auto
 dgsn-morocco,dgsn-morocco,DGSN-DGST,MAR,other,auto
 dgssi-morocco,dgssi-morocco,DGSSI,MAR,other,auto
-dgtcp-guinee,dgtcp-guinee,Direction Générale du Trésor et de la Comptabilité Publique,GIN,other,auto
+dgtcp-guinee,direction-generale-tresor-comptabilite-publique-guinee,Direction Générale du Trésor et de la Comptabilité Publique,GIN,other,auto
 dgtcp-tchad,dgtcp-tchad,Direction générale du Trésor et de la Comptabilité publique,TCD,other,auto
 dgted-cabo-verde,dgted-cabo-verde,DGTED,CPV,other,auto
 dgti-tunisie,dgti-tunisie,Direction Générale des Technologies de l’Information (DGTI),TUN,other,auto
@@ -1587,7 +1587,7 @@ direction-generale-des-impots-comores,direction-generale-des-impots-comores,Dire
 direction-generale-des-impots-cote-divoire,direction-generale-des-impots-cote-divoire,Direction générale des Impôts,CIV,other,auto
 direction-generale-des-impots-morocco,direction-generale-des-impots-morocco,Direction Générale des Impôts,MAR,other,auto
 direction-generale-des-impots-provinciaux-de-kinshasa,direction-generale-des-impots-provinciaux-de-kinshasa,Direction Générale des Impôts Provinciaux de Kinshasa,COD,other,auto
-direction-generale-des-impots-tchad,direction-generale-des-impots-tchad,Direction générale des impôts,TCD,other,auto
+direction-generale-des-impots-tchad,dgi-tchad,Direction générale des impôts,TCD,other,auto
 direction-generale-des-impots-tunisie,direction-generale-des-impots-tunisie,Direction générale des impôts,TUN,other,auto
 direction-generale-des-marches-publics-gabon,direction-generale-des-marches-publics-gabon,Direction générale des Marchés publics,GAB,other,auto
 direction-generale-des-participations-gabon,direction-generale-des-participations-gabon,Direction générale des Participations,GAB,other,auto
@@ -1599,7 +1599,7 @@ direction-generale-douanes-comores,direction-generale-douanes-comores,Direction 
 direction-generale-douanes-niger,direction-generale-douanes-niger,Direction générale des douanes,NER,other,auto
 direction-generale-du-budget-comores,direction-generale-du-budget-comores,Direction générale du budget,COM,other,auto
 direction-generale-du-domaine-national,direction-generale-du-domaine-national,Direction générale du Domaine national,DZA,other,auto
-direction-generale-du-tresor-burkina-faso,direction-generale-du-tresor-burkina-faso,Direction générale du Trésor et de la comptabilité publique,BFA,other,auto
+direction-generale-du-tresor-burkina-faso,direction-generale-du-tresor-et-de-la-comptabilite-publique-burkina-faso,Direction générale du Trésor et de la comptabilité publique,BFA,other,auto
 direction-generale-du-tresor-et-de-la-comptabilite-publique-burkina-faso,direction-generale-du-tresor-et-de-la-comptabilite-publique-burkina-faso,Direction générale du Trésor et de la comptabilité publique,BFA,other,auto
 direction-generale-elections-comores,direction-generale-elections-comores,Direction générale des Élections,COM,other,auto
 direction-generale-elections-guinee,direction-generale-elections-guinee,Direction générale des élections,GIN,other,auto
@@ -2458,7 +2458,7 @@ house-of-africa,house-of-africa,House of Africa,XAF,other,auto
 house-of-fiscal-wisdom,house-of-fiscal-wisdom,HOUSE OF FISCAL WISDOM,TZA,other,auto
 house-of-peoples-representatives-ethiopia,house-of-peoples-representatives-ethiopia,House of People's Representatives,ETH,other,auto
 house-of-representatives-egypt,house-of-representatives-egypt,House of Representatives,EGY,other,auto
-house-of-representatives-ict-committee-egypt,house-of-representatives-ict-committee-egypt,House of Representatives,EGY,other,auto
+house-of-representatives-ict-committee-egypt,house-of-representatives-egypt,House of Representatives,EGY,other,auto
 house-of-representatives-liberia,house-of-representatives-liberia,House of Representatives,LBR,other,auto
 house-of-representatives-libya,house-of-representatives-libya,House of Representatives,LBY,other,auto
 house-of-representatives-morocco,house-of-representatives-morocco,House of Representatives,MAR,other,auto
@@ -2686,7 +2686,7 @@ institut-economie-rurale-mali,institut-economie-rurale-mali,Institute for Rural 
 institut-les-points,institut-les-points,Institut de Sondage Les Points,COD,other,auto
 institut-national-de-la-meteorologie-tunisia,institut-national-de-la-meteorologie-tunisia,Institut National de Meteorologie,TUN,other,auto
 institut-national-de-la-statistique-cameroun,institut-national-de-la-statistique-cameroun,Institut National de la Statistique,CMR,other,auto
-institut-national-de-la-statistique-congo,institut-national-de-la-statistique-congo,Institut national de la statistique,COG,other,auto
+institut-national-de-la-statistique-congo,ins-congo,Institut national de la statistique,COG,other,auto
 institut-national-de-la-statistique-niger,institut-national-de-la-statistique-niger,Institut National de la Statistique (INS),NER,other,auto
 institut-national-de-la-statistique-rdc,institut-national-de-la-statistique-rdc,INSTITUT NATIONAL DE LA STATISTIQUE,COD,other,auto
 institut-national-de-la-statistique-tunisia,institut-national-de-la-statistique-tunisia,Institut National de La Statistiqueالمصدر,TUN,other,auto
@@ -3997,7 +3997,7 @@ ministry-of-housing-and-urban-development-nigeria,ministry-of-housing-and-urban-
 ministry-of-housing-egypt,ministry-of-housing-egypt,"Ministry of Housing, Egypt",EGY,government,auto
 ministry-of-humanitarian-affairs-disaster-management-southwest-state,ministry-of-humanitarian-affairs-disaster-management-southwest-state,"Ministry of Humanitarian Affairs and Disaster Management, Somalia",SOM,government,auto
 ministry-of-hydraulics-algeria,ministere-hydraulique-algerie,"Ministère de l’Hydraulique, Algeria",DZA,government,hand
-ministry-of-ict-and-digital-economy-kenya,ministry-of-ict-and-digital-economy-kenya,"Ministry of Information, Communications and the Digital Economy, Kenya",KEN,government,auto
+ministry-of-ict-and-digital-economy-kenya,ministry-of-information-communications-and-the-digital-economy-kenya,"Ministry of Information, Communications and the Digital Economy, Kenya",KEN,government,hand
 ministry-of-ict-and-national-guidance-uganda,ministry-of-ict-and-national-guidance-uganda,"Ministry of ICT and National Guidance, Uganda",UGA,government,auto
 ministry-of-ict-and-postal-services-south-sudan,ministry-of-ict-and-postal-services-south-sudan,"Ministry of ICT and Postal Services, South Sudan",SSD,government,auto
 ministry-of-ict-eswatini,ministry-of-ict-eswatini,"Ministry of ICT, Eswatini",SWZ,government,auto
@@ -4491,9 +4491,9 @@ national-commission-for-persons-with-disabilities-nigeria,national-commission-fo
 national-commission-for-science-and-technology-malawi,national-commission-for-science-and-technology-malawi,National Commission for Science and Technology,MWI,other,auto
 national-committee-illegal-migration-human-trafficking-egypt,national-committee-illegal-migration-human-trafficking-egypt,National Committee for Combating Illegal Migration and Human Trafficking,EGY,other,auto
 national-communication-authority-south-sudan,national-communication-authority-south-sudan,National Communication Authority,SSD,other,auto
-national-communications-authority,national-communications-authority,National Communications Authority,GHA,other,auto
+national-communications-authority,national-communications-authority-ghana,National Communications Authority,GHA,other,auto
 national-communications-authority-ghana,national-communications-authority-ghana,National Communications Authority,GHA,other,auto
-national-communications-authority-somalia,national-communications-authority-somalia,National Communications Authority,SOM,other,auto
+national-communications-authority-somalia,nca-somalia,National Communications Authority,SOM,other,auto
 national-computer-and-cybercrimes-coordination-committee,national-computer-and-cybercrimes-coordination-committee,National Computer and Cybercrimes Coordination Committee,KEN,other,auto
 national-consumer-commission-south-africa,national-consumer-commission-south-africa,National Consumer Commission,ZAF,other,auto
 national-council-for-higher-education-namibia,national-council-for-higher-education-namibia,NATIONAL COUNCIL FOR HIGHER EDUCATION,NAM,other,auto
@@ -4522,12 +4522,12 @@ national-electricity-authority-somalia,national-electricity-authority-somalia,Na
 national-financial-ombud-south-africa,national-financial-ombud-south-africa,National Financial Ombud Scheme South Africa,ZAF,other,auto
 national-food-and-nutrition-commission-zambia,national-food-and-nutrition-commission-zambia,National Food and Nutrition Commission,ZMB,other,auto
 national-frequency-management-council-nigeria,national-frequency-management-council-nigeria,NATIONAL FREQUENCY MANAGEMENT COUNCIL,NGA,other,auto
-national-health-insurance-authority-ghana,national-health-insurance-authority-ghana,National Health Insurance Authority,GHA,other,auto
+national-health-insurance-authority-ghana,nhia-ghana,National Health Insurance Authority,GHA,other,auto
 national-health-intelligence-centre-rwanda,national-health-intelligence-centre-rwanda,National Health Intelligence Centre,RWA,other,auto
 national-human-rights-commission-gambia,national-human-rights-commission-gambia,National Human Rights Commission,GMB,other,auto
 national-human-rights-commission-nigeria,national-human-rights-commission-nigeria,National Human Rights Commission,NGA,other,auto
 national-id-program-ethiopia,fayda-ethiopia-national-id,National ID Program,ETH,other,auto
-national-identification-and-registration-authority-uganda,national-identification-and-registration-authority-uganda,National Identification and Registration Authority,UGA,other,auto
+national-identification-and-registration-authority-uganda,nira-uganda,National Identification and Registration Authority,UGA,other,auto
 national-identification-authority-ghana,national-identification-authority-ghana,National Identification Authority,GHA,other,auto
 national-identification-registry-liberia,national-identification-registry-liberia,National Identification Registry,LBR,other,auto
 national-identity-and-civil-registry-lesotho,national-identity-and-civil-registry-lesotho,National Identity and Civil Registry,LSO,other,auto
@@ -4912,7 +4912,7 @@ orange-maroc,orange-maroc,Orange Maroc,MAR,other,auto
 orange-mea-subsidiaries,orange-mea-subsidiaries,Orange MEA,XSS,other,auto
 orange-middle-east-and-africa,orange-middle-east-and-africa,Orange Middle East and Africa,XAF,other,auto
 orange-money,orange-money,Orange Money,,other,auto
-orange-money-botswana,orange-money-botswana,Orange Money,BWA,other,auto
+orange-money-botswana,orange-money,Orange Money,BWA,other,auto
 orange-money-burkina-faso,orange-money-burkina-faso,Orange Money Burkina Faso,BFA,other,auto
 orange-money-madagascar,orange-money-madagascar,Orange Money Madagascar,MDG,other,auto
 orange-rdc,orange-rdc,Orange RDC,COD,other,auto
@@ -5212,7 +5212,7 @@ public-procurement-and-disposal-of-public-assets-authority,public-procurement-an
 public-procurement-appeals-authority-tanzania,public-procurement-appeals-authority-tanzania,Public Procurement Appeals Authority,TZA,other,auto
 public-procurement-authority-ghana,public-procurement-authority-ghana,Public Procurement Authority of Ghana,GHA,other,auto
 public-procurement-regulatory-authority-botswana,public-procurement-regulatory-authority-botswana,Public Procurement Regulatory Authority,BWA,other,auto
-public-procurement-regulatory-authority-tanzania,public-procurement-regulatory-authority-tanzania,Public Procurement Regulatory Authority,TZA,other,auto
+public-procurement-regulatory-authority-tanzania,ppra-tanzania,Public Procurement Regulatory Authority,TZA,other,auto
 public-prosecution-morocco,public-prosecution-morocco,Public Prosecution,MAR,other,auto
 public-service-commission-kenya,public-service-commission-kenya,Public Service Commission,KEN,other,auto
 public-service-commission-south-africa,public-service-commission-south-africa,Public Service Commission,ZAF,other,auto
@@ -5253,7 +5253,7 @@ rapid-support-forces,rapid-support-forces,Rapid Support Forces,SDN,other,auto
 rascom,rascom,RASCOM,CIV,other,auto
 rashmi-metaliks-group,rashmi-metaliks-group,Rashmi Metaliks,NGA,other,auto
 rawafed-libya,rawafed-libya,Rawafed Libya,LBY,other,auto
-raxio-cote-divoire,raxio-cote-divoire,Raxio,CIV,other,auto
+raxio-cote-divoire,raxio-group,Raxio,CIV,other,auto
 raxio-group,raxio-group,Raxio,,other,auto
 raya-data-center,raya-data-center,Raya Data Center,EGY,other,auto
 raya-holding,raya-holding,Raya Holding,EGY,other,auto
@@ -5874,7 +5874,7 @@ telecel-centrafrique,telecel-centrafrique,Telecel Centrafrique,CAF,other,auto
 telecel-faso,telecel-faso,Telecel Faso,BFA,other,auto
 telecel-ghana,telecel-ghana,Telecel Ghana,GHA,other,auto
 telecel-global-services,telecel-global-services,Telecel Global Services,LBR,other,auto
-telecel-group,telecel-group,Telecel,GHA,other,auto
+telecel-group,telecel,Telecel,GHA,other,auto
 telecel-guine-bissau,telecel-guine-bissau,TELECEL Guiné-Bissau,GNB,other,auto
 telecom-egypt,telecom-egypt,Telecom Egypt,EGY,other,auto
 telecom-namibia,telecom-namibia,Telecom Namibia,NAM,other,auto
@@ -6090,7 +6090,7 @@ union-pour-la-defense-des-consommateurs-guinee,union-pour-la-defense-des-consomm
 unionpay-international,unionpay-international,UnionPay International,CHN,other,auto
 uniph,uniph,Uganda National Institute of Public Health,UGA,other,auto
 unipod,unipod,UniPod,,other,auto
-unipod-botswana,unipod-botswana,UniPod,BWA,other,auto
+unipod-botswana,unipod,UniPod,BWA,other,auto
 unita,unita,UNITA,AGO,other,auto
 unitar,unitar,UNITAR,SDN,other,auto
 unite-administration-electronique-tunisia,unite-administration-electronique-tunisia,unité de l'administration électronique,TUN,other,auto
