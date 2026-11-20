@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: BEN
-ledger_rows: 44
+ledger_rows: 46
 not_held: 4
-record: 6c7b21be5417
+record: b5bf55472824
 ---
 
 # News, Oct – Nov 2026
@@ -247,6 +247,8 @@ Benin's public-sector digital chiefs met in Cotonou on 8 October 2026 at a confe
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
 <a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#new-investments">New investments</a>
 </nav>
 
@@ -261,6 +263,22 @@ Benin's public-sector digital chiefs met in Cotonou on 8 October 2026 at a confe
 **[Etude du projet de budget 2027 à l'Assemblée nationale: 11,59 milliards F Cfa pour accélérer la transformation digitale](https://lanation.bj/actualites/etude-du-projet-de-budget-2027-a-lassemblee-nationale-1159-milliards-f-cfa-pour-accelerer-la-transformation-digitale)** — La Nation, 18 November 2026
 
 Benin's digital ministry presented a 2027 draft budget of FCFA 11.59 billion, 29.29 per cent below 2026's FCFA 16.48 billion. The fall follows the exit of the externally financed PITN2R project, which had FCFA 6.5 billion in 2026. Priorities include voice access to public services in national languages and 12 more university sites on RBER.
+
+</div>
+
+</div>
+
+### MoUs and other agreements
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UNICEF and MTN Benin Foundation digital education framework agreement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNICEF Bénin et la Fondation MTN Bénin unissent leurs forces pour promouvoir l'éducation numérique, l'autonomisation des jeunes et la protection des enfants en ligne](https://www.unicef.org/benin/communiqu%C3%A9s-de-presse/unicef-b%C3%A9nin-et-la-fondation-mtn-b%C3%A9nin-unissent-leurs-forces-pour-promouvoir)** — UNICEF Bénin, 17 November 2026
+
+Two-year framework; internet for 55 school digital rooms; MTN contribution valued about FCFA 180m; child online safety.
 
 </div>
 
@@ -323,6 +341,20 @@ Benin's land agency ANDF launched the TERRA BÉNIN and PPMEC II programmes in Co
 **[UEMOA/Télécommunications : le Burkina Faso signe trois accords de roaming avec le Bénin, la Côte d’Ivoire et le Sénégal](https://www.cfinance.news/article/uemoatelecommunications-le-burkina-faso-signe-trois-accords-de-roaming-avec-le-benin-la-cote-divoire-et-le-senegal/)** — C'Finance, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Burkina Faso's telecoms regulator signed bilateral roaming agreements with its counterparts in Benin, Côte d'Ivoire and Senegal in Ouagadougou on 23 October 2026, under the WAEMU framework. The WAEMU Commission and the regulators called for the commitments to be put into effect so users get cheaper, clearer roaming terms.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">New mobile sites in isolated areas</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin / Budget 2027 : 11,59 milliards pour un Bénin numérique utile à tous](https://matinlibre.com/2026/11/19/benin-budget-2027-1159-milliards-pour-un-benin-numerique-utile-a-tous/)** — Matin Libre, 19 November 2026
+
+2026 execution to 30 Sept: 71.3% committed, 68.5% authorised; domestic effort up 16%; criminal record certificate online.
 
 </div>
 
