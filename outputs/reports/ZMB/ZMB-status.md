@@ -1,12 +1,12 @@
 ---
 title: Zambia: status report
-compiled: 2026-11-19
+compiled: 2026-11-20
 place: ZMB
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 7
-sources_cited: 231
+sources_cited: 232
 sections_written: 39
 not_established: 2
 acquire_lines: 49
@@ -241,7 +241,7 @@ All ten core back-office systems the GovTech Maturity Index tracks are in place,
 
 [The national services portal carried 572 services across 52 providers at 30 September 2026, on the finance minister's account](https://itweb.africa/article/zamportal-revenue-crosses-500m-mark/Pero3MZ361bqQb6m). [More than 400 government services — passports, government rent and road tax among them — were onboarded to the state's electronic payment gateway](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2) (July 2026). [They are payable by bank transfer, card, mobile money or cash](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2). Sign-in runs through [ZamPass, the national authentication and access control service, with companion mobile applications](https://pass.gsb.gov.zm/) (2026). The national service portal is rated at [transactional maturity, meaning services can be completed through it and not only read about](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [In the 2025 national ICT survey, disseminated in November 2026, 7.7 per cent of respondents knew of ZamPortal](https://zambia24.com/2026/11/09/zambia-strives-to-bridge-digital-gap/).
 
-The past two years have added particular transactions rather than a general capability: road transport services — driving licences, road tax, vehicle registration — have been [live on the service bus and ZamPortal since at least September 2024](https://www.szi.gov.zm/?p=3855). The Ministry of Labour had [29 services on ZamPortal by April 2025](https://www.mlss.gov.zm/?p=5144). An [online passport application and payment system opened in January 2026, with more than a thousand passports processed at that point](https://itweb.africa/article/zambia-unveils-online-passport-application-system/). A [property management system for rentals, valuation and housing services followed in May 2026](https://techafricanews.com/2026/05/13/zambia-launches-digital-property-management-system-to-improve-public-service-delivery/). A [contract tracking system for government contract approvals launched in July 2026](https://diggers.news/local/2026/07/12/govt-launches-digital-system-to-track-and-manage-contracts/).
+The past two years have added particular transactions rather than a general capability: road transport services — driving licences, road tax, vehicle registration — have been [live on the service bus and ZamPortal since at least September 2024](https://www.szi.gov.zm/?p=3855). The Ministry of Labour had [29 services on ZamPortal by April 2025](https://www.mlss.gov.zm/?p=5144). An [online passport application and payment system opened in January 2026, with more than a thousand passports processed at that point](https://itweb.africa/article/zambia-unveils-online-passport-application-system/). [Manual passport applications ended on 18 November 2026](https://www.mwebantu.com/zambia-discontinues-manual-passport-applications-moves-fully-online/). A [property management system for rentals, valuation and housing services followed in May 2026](https://techafricanews.com/2026/05/13/zambia-launches-digital-property-management-system-to-improve-public-service-delivery/). A [contract tracking system for government contract approvals launched in July 2026](https://diggers.news/local/2026/07/12/govt-launches-digital-system-to-track-and-manage-contracts/).
 
 <!-- derived -->
 Five of the seven citizen-facing channels the GovTech Maturity Index tracks are running — the national service portal, the tax portal, the social protection portal, the e-participation platform and the feedback and grievance platform. Two are absent: a government jobs portal and an open data portal (2025).
