@@ -1,12 +1,12 @@
 ---
 title: Niger: status report
-compiled: 2026-11-14
+compiled: 2026-11-20
 place: NER
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 227
+sources_cited: 228
 sections_written: 39
 not_established: 1
 acquire_lines: 33
@@ -350,7 +350,7 @@ Niger ranked [132nd in WIPO's Global Innovation Index 2024](https://www.wipo.int
 ### National statistics
 <!-- data.statistics -->
 
-[Niger's 2025 business census counted 153,661 formally registered enterprises](https://www.stat-niger.org/?p=5392). [In February 2026 the fifth population census was piloted with digital collection tools in 96 enumeration areas of three Maradi communes](https://www.stat-niger.org/?p=5728). [The pilot was evaluated in May 2026](https://anp.ne/rgph-5-les-acteurs-evaluent-le-denombrement-pilote-effectue-dans-la-region-de-maradi/). No date for the general enumeration had been published as at October 2026. [The statistics institute's yearbook for 2020-2024 was validated on 30 April 2025](https://www.stat-niger.org/wp-content/uploads/annuaire_bulletin/annuaire/annuaire_statistique_ins_2020_2024_vf.pdf). [A US$1.45 million Global Environment Facility grant approved in 2026 is to build a national framework for climate transparency](https://www.thegef.org/projects-operations/projects/11972). [The environment council CNEDD executes it](https://www.thegef.org/projects-operations/projects/11972).
+[Niger's 2025 business census counted 153,661 formally registered enterprises](https://www.stat-niger.org/?p=5392). [In February 2026 the fifth population census was piloted with digital collection tools in 96 enumeration areas of three Maradi communes](https://www.stat-niger.org/?p=5728). [The pilot was evaluated in May 2026](https://anp.ne/rgph-5-les-acteurs-evaluent-le-denombrement-pilote-effectue-dans-la-region-de-maradi/). No date for the general enumeration had been published as at October 2026. [On 18 November 2026 the statistics institute's director-general announced a signed order reorganising the institute, with a new directorate for research, data science and innovation](https://anp.ne/celebration-a-niamey-de-la-36e-edition-de-la-journee-africaine-de-la-statistique/). [The statistics institute's yearbook for 2020-2024 was validated on 30 April 2025](https://www.stat-niger.org/wp-content/uploads/annuaire_bulletin/annuaire/annuaire_statistique_ins_2020_2024_vf.pdf). [A US$1.45 million Global Environment Facility grant approved in 2026 is to build a national framework for climate transparency](https://www.thegef.org/projects-operations/projects/11972). [The environment council CNEDD executes it](https://www.thegef.org/projects-operations/projects/11972).
 
 [On the World Bank's Statistical Performance Indicators for 2023, Niger scores above 89 per cent on data use](https://www.worldbank.org/en/programs/statistical-performance-indicators). [Data sources, the weakest of the five pillars, scored 20 to 49 per cent in 2023](https://www.worldbank.org/en/programs/statistical-performance-indicators). [In 2023 data products sat at 70 to 89 per cent, and data services and infrastructure at 50 to 69 per cent](https://www.worldbank.org/en/programs/statistical-performance-indicators). [The Ibrahim Index puts statistical capacity at 43.8 out of 100 in 2023, 33rd of 54, up 3.2 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ne.pdf).
 
