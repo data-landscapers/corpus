@@ -1,12 +1,12 @@
 ---
 title: Sudan: status report
-compiled: 2026-11-16
+compiled: 2026-11-20
 place: SDN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 211
+sources_cited: 212
 sections_written: 39
 not_established: 3
 acquire_lines: 49
@@ -237,7 +237,7 @@ In 2025 Freedom House found [digital infrastructure concentrated in Khartoum and
 ### AI
 <!-- tech.ai -->
 
-[In September 2026 Sudan's higher education ministry added an Arabic chatbot to its online admissions portal](https://fr.allafrica.com/stories/202609250240.html). [It answers routine questions and passes complex ones to staff](https://fr.allafrica.com/stories/202609250240.html). It is the one artificial-intelligence service running in government. [Artificial intelligence is not in use in the state's data exchange](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) (2025). Sudan has a national authority for artificial intelligence. [The data and artificial intelligence authority was created by prime-ministerial decree in November 2025](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt). [It sits under the Ministry of Digital Transformation and Communications](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt). Its mandate is to plan such capability; it runs no system. No national artificial intelligence strategy had been adopted as at August 2026. [In October 2026 the Africa AI Governance Index placed Sudan 52nd of 54, with 0.23 of four points](https://www.aipolicy.africa/country-profiles/sudan).
+[In September 2026 Sudan's higher education ministry added an Arabic chatbot to its online admissions portal](https://fr.allafrica.com/stories/202609250240.html). [It answers routine questions and passes complex ones to staff](https://fr.allafrica.com/stories/202609250240.html). It is the one artificial-intelligence service running in government. [Artificial intelligence is not in use in the state's data exchange](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) (2025). Sudan has a national authority for artificial intelligence. [The data and artificial intelligence authority was created by prime-ministerial decree in November 2025](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt). [It sits under the Ministry of Digital Transformation and Communications](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt). Its mandate is to plan such capability; it runs no system. [In November 2026 it said a shared AI laboratory hosted in Sudan, able to run offline for about 100 users, would operate within about three months](https://www.suna.sd/posts/bny-thty-ltaazyz-lttoyr-kdrat-althkaaa-alastnaaay-alsodany). No national artificial intelligence strategy had been adopted as at August 2026. [In October 2026 the Africa AI Governance Index placed Sudan 52nd of 54, with 0.23 of four points](https://www.aipolicy.africa/country-profiles/sudan).
 
 [In August 2026 ministers considered a combined draft law pairing data and artificial intelligence in one text](https://sudantribune.net/article/317108). It is the instrument that would govern the field. [Ministers approved it as a draft bill on 1 November 2026](https://suna.sd/posts/mgls-alozraaa-ydyn-alaaatdaaaat-almtkrr-aal-almnshat-alkhdmy-aabr-almsyrat-alty-tntlk-mn-dakhl-dol-athyobya). No text has been published, and there is no statute. The [state data centre in Khartoum was returned to service in October 2025](https://actumsudan.substack.com/p/sudan-pushes-digital-transformation) with cloud and artificial-intelligence support systems. The infrastructure and transport ministry has [put artificial intelligence and transport-management technology to investors as part of post-war reconstruction](https://www.fananews.com/language/en/infrastructure-and-transport-minister-sudan-open-to-smart-arab-partnerships-to-rebuild-transport-sector/) (July 2026). Neither is a deployed service, and none is offered to citizens.
 
