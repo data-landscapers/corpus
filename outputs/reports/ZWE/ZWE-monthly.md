@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: ZWE
-ledger_rows: 38
+ledger_rows: 44
 not_held: 5
-record: b4899b88dabf
+record: 56d4cf32cbac
 ---
 
 # News, Oct – Nov 2026
@@ -26,6 +26,8 @@ record: b4899b88dabf
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
@@ -84,6 +86,14 @@ Zimbabwe's ICT minister Tatenda Mavetera told a cybersecurity summit on 21 Octob
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Towards human-centric, transparent, ethical deployment of AI](https://www.heraldonline.co.zw/towards-human-centric-transparent-ethical-deployment-of-ai/)** — The Herald, 18 November 2026
+
+37th post-Cabinet briefing, 17 Nov 2026; Charter operationalises AI Strategy 2026–2030 under Ubuntu/Unhu principles.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -109,6 +119,20 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Zimbabwe Approves National AI Charter to Combat Surging Cyber Fraud](https://www.zimcitizennews.com/zimbabwe-approves-national-ai-charter-to-combat-surging-cyber-fraud/)** — ZimCitizenNews, 23 October 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI Strategy implementation roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Govt develops roadmap to implement National AI Strategy](https://www.heraldonline.co.zw/govt-develops-roadmap-to-implement-national-ai-strategy/)** — The Herald, 18 November 2026
+
+Mutare masterclass with UNESCO; actions, owners, timelines for governance, infrastructure, skills, regional integration.
 
 </div>
 
@@ -368,6 +392,28 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICT Government Fusion Centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICT ministry gets ZiG1 billion in 2027 budget](https://www.techzim.co.zw/2026/11/ict-ministry-gets-zig1-billion-in-2027-budget/)** — Techzim, 19 November 2026
+
+20 projects worth ZiG305.3m: school ICT labs ZiG50m, Fusion Centre ZiG40m, data exchange ZiG5m; internet 87.3%.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[The 2027 National Budget Statement — "Accelerating Economic Transformation and Building Resilience to Climate and Global Shocks" (Zimbabwe)](https://t3n9sm.c2.acecdn.net/wp-content/uploads/2026/11/2027-National-Budget.pdf)** — Ministry of Finance, Economic Development and Investment Promotion (Zimbabwe), 19 November 2026
+
+ZiG358.3bn expenditure ceiling; ICT ministry ZiG1.03bn; cellphone customs duty 25% to 0%; ZIMRA e-TRACE for digital tax.
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -401,6 +447,28 @@ UNDP's Zimbabwe office published a request for proposals, reference UNDP-ZWE-021
 **[Shared Health Record and National Registry Interconnections with HIE](https://www.ungm.org/Public/Notice/322512)** — UNDP Zimbabwe (via UN Global Marketplace), 13 November 2026
 
 UNDP's Zimbabwe office published a request for proposals, reference UNDP-ZWE-02188, on 13 November 2026. It seeks technical assistance in connecting the national shared health record and core national registries to the health information exchange layer. The connection is to use agreed FHIR profiles. Bids close on 18 November 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Zimbabwe Government Data Exchange</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[ICT ministry gets ZiG1 billion in 2027 budget](https://www.techzim.co.zw/2026/11/ict-ministry-gets-zig1-billion-in-2027-budget/)** — Techzim, 19 November 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[The 2027 National Budget Statement — "Accelerating Economic Transformation and Building Resilience to Climate and Global Shocks" (Zimbabwe)](https://t3n9sm.c2.acecdn.net/wp-content/uploads/2026/11/2027-National-Budget.pdf)** — Ministry of Finance, Economic Development and Investment Promotion (Zimbabwe), 19 November 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
 
 </div>
 
@@ -505,6 +573,28 @@ Zimbabwe's home affairs minister told the National Assembly that a crime managem
 **[Data systems transform Zimbabwe's schools](https://www.globalpartnership.org/blog/data-systems-transform-zimbabwes-schools)** — Global Partnership for Education, 11 November 2026
 
 UNICEF Zimbabwe reported on 11 November 2026 that schools such as Masvingo Government Primary now capture and validate data electronically in the revised EMIS. The deputy head says this helps track enrolment, teacher allocation and dropouts. GPE provided US$2.9 million for 2023 to 2026, with UNICEF supporting implementation.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ZIMRA e-TRACE transaction monitoring system</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[The 2027 National Budget Statement — "Accelerating Economic Transformation and Building Resilience to Climate and Global Shocks" (Zimbabwe)](https://t3n9sm.c2.acecdn.net/wp-content/uploads/2026/11/2027-National-Budget.pdf)** — Ministry of Finance, Economic Development and Investment Promotion (Zimbabwe), 19 November 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZIMRA to buy e-TRACE system to track digital payments](https://www.techzim.co.zw/2026/11/zimra-to-buy-e-trace-system-to-track-digital-payments/)** — Techzim, 19 November 2026
+
+Competitive tender for transaction monitoring under digital services withholding tax; no budget, timeline or data terms.
 
 </div>
 
@@ -666,13 +756,61 @@ Zimbabwe's ICT ministry and DHL's Ubuntu Academy launched a three-month Digital 
 
 </div>
 
+## Inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#digital-divides">Digital divides</a>
+</nav>
+
+### Digital divides
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs duty on cellular phones</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Budget cuts duty on cellphones, electric vehicles](https://www.heraldonline.co.zw/budget-cuts-duty-on-cellphones-electric-vehicles/)** — The Herald, 19 November 2026
+
+Duty on handsets 25% to 0 in ZiG358.3bn budget; EV duty 25% to 10%; pass-through to consumers untested.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[The 2027 National Budget Statement — "Accelerating Economic Transformation and Building Resilience to Climate and Global Shocks" (Zimbabwe)](https://t3n9sm.c2.acecdn.net/wp-content/uploads/2026/11/2027-National-Budget.pdf)** — Ministry of Finance, Economic Development and Investment Promotion (Zimbabwe), 19 November 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+</div>
+
 ## Data
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#open-data">Open data</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geospatial-data">Geospatial data</a>
 </nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ZIMSTAT chatbot, WhatsApp and toll-free lines</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZIMSTAT opens a direct line to the people as Africa marks Statistics Day](https://www.heraldonline.co.zw/zimstat-opens-a-direct-line-to-the-people-as-africa-marks-statistics-day/)** — The Herald, 19 November 2026
+
+Chatbot, WhatsApp and toll-free lines for enquiries and enumerator checks; Statistics Day theme on water and sanitation.
+
+</div>
+
+</div>
 
 ### Open data
 
