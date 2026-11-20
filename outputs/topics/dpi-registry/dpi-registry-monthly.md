@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: dpi.registry
-places: DZA; AGO; BEN; BFA; CMR; CPV; COM; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 310cf7cd3004
+places: DZA; AGO; BEN; BFA; CMR; CPV; CAF; COM; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 5ece5595f7cd
 ---
 
 # News, Oct – Nov 2026
@@ -21,6 +21,8 @@ record: 310cf7cd3004
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cape-verde">Cape Verde</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#central-african-republic">Central African Republic</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#comoros">Comoros</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -270,6 +272,22 @@ Cameroon's civil registration bureau BUNEC visited Côte d'Ivoire's ONECI in Abi
 **[Retoma do cadastro predial no Tarrafal e São Salvador do Mundo](https://www.inforpress.cv/en/article-11888)** — Inforpress, 9 October 2026
 
 Cabo Verde resumed its building cadastre survey in Tarrafal and São Salvador do Mundo on 9 October 2026, Inforpress reported. Infrastructure minister Carlos Tavares said the work covers about 32,000 buildings: roughly 26,000 in Tarrafal and 6,000 in São Salvador do Mundo. Tavares said the cadastre supports legal security of property and land management.
+
+</div>
+
+</div>
+
+## Central African Republic
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil Status Management Software (LGEC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Training of civil registrars in CAR to protect civil status](https://yacanews.com/2026/11/rca-forme-agents-detat-civil-a-la-gestion-des-archives-et-protection?lang=en)** — Ya Ça News, 17 November 2026
+
+The European MODERO project, run by CIVIPOL, trained 28 officers in Bangui from 11 to 13 November 2026. They came from civil registration centres, the National Archives and the courts. Topics were registry archiving and digitising records in the civil status management software.
 
 </div>
 

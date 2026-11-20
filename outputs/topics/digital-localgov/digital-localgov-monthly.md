@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: digital.localgov
-places: BEN; BDI; CMR; CPV; COD; EGY; ETH; GAB; KEN; MLI; MAR; NGA; ZAF; SSD; SDN; TZA
-record: 0c2eda83ff32
+places: BEN; BDI; CMR; CPV; TCD; COD; EGY; ETH; GAB; KEN; MLI; MAR; NGA; ZAF; SSD; SDN; TZA
+record: 45f089e4c0d1
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: 0c2eda83ff32
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cape-verde">Cape Verde</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#chad">Chad</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -91,6 +93,20 @@ Cameroon's Ministry of Decentralisation and Local Development presented and hand
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Douala urban-planning acts platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroun – Innovation technologique : la Communauté urbaine de Douala lance une plateforme numérique pour les actes d'urbanisme](https://direct-info.net/cameroun-innovation-technologique-la-communaute-urbaine-de-douala-lance-une-plateforme-numerique-pour-les-actes-durbanisme/)** — Direct Info, 18 November 2026
+
+Douala's urban community launched an online platform for urban-planning applications on 17 November 2026. Applicants can file and track dossiers online. Those found eligible must still deposit paper copies for verification of signatures. The system is in a transitional phase.
+
+</div>
+
+</div>
+
 ## Cape Verde
 
 <div class="monthly-story" markdown="1">
@@ -102,6 +118,22 @@ Cameroon's Ministry of Decentralisation and Local Development presented and hand
 **[Municípios ganham novas ferramentas para arrecadar mais impostos](https://www.inforpress.cv/en/municipios-ganham-novas-ferramentas-para-arrecadar-mais-impostos)** — Inforpress, 28 October 2026
 
 Cabo Verde began applying the Simpol municipal information system in all 22 municipalities from 28 October 2026. The system supports local finance management. It will support assessment and collection under the new Property Tax Code from 2027.
+
+</div>
+
+</div>
+
+## Chad
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NEXUS HDP decision-support platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ouaddaï : la plateforme NEXUS HDP pour renforcer la coordination des interventions - Tchadinfos](https://tchadinfos.com/2026/11/19/ouaddai-la-plateforme-nexus-hdp-pour-renforcer-la-coordination-des-interventions/)** — Tchadinfos, 19 November 2026
+
+Chad's Ouaddai provincial council opened a workshop in Abeche on 17 November 2026 on NEXUS HDP, a digital decision-support platform built with UNDP technical support. It maps local needs, tracks projects and locates humanitarian, development and peace interventions. It will be used to monitor the provincial development plan.
 
 </div>
 
@@ -429,6 +461,20 @@ The Anambra State ICT Agency in Nigeria launched a Digital Anambra Handbook 2026
 **[ICPC Recovers ₦5.3bn, Targets 774 Councils With Digital Transparency Drive](https://von.gov.ng/icpc-recovers-%E2%82%A65-3bn-targets-774-councils-with-digital-transparency-drive/)** — Voice of Nigeria, 13 November 2026
 
 Nigeria's anti-corruption commission ICPC and the IT agency NITDA launched a pilot in Nasarawa State. It requires councils to publish budgets, allocations, revenue, spending, audits, debts and procurement online. NITDA is to register domains and host sites for all 774 local government areas. ICPC said it had recovered over N5.3 billion from council accounts in seven states and the capital territory.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kogi State ONE-GOV ERP platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ododo Launches ONE-GOV ERP, Sets New Standard for Digital Governance in Kogi Governor Directs MDAs to Adopt Platform, Distributes Thousands of Laptops, iPads to Officials — Kogi State Government](https://kogistate.gov.ng/ododo-launches-one-gov-erp-sets-new-standard-for-digital-governance-in-kogi-governor-directs-mdas-to-adopt-platform-distributes-thousands-of-laptops-ipads-to-officials/)** — Kogi State Government, 18 November 2026
+
+Kogi State Governor Ahmed Usman Ododo launched the ONE-GOV ERP platform in Lokoja on 17 November 2026. He directed all state ministries, departments and agencies to record their transactions and projects on it. It covers finance, staff, project monitoring and performance evaluation. Laptops and iPads were issued to officials.
 
 </div>
 

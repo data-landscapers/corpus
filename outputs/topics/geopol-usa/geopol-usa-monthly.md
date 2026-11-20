@@ -1,15 +1,17 @@
 ---
 title: US / hyperscaler activities — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: geopol.usa
-places: LBY; MDG; MUS; ZMB
-record: 03da91108459
+places: GHA; LBY; MDG; MUS; ZMB
+record: 7c7276f8cd36
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#ghana">Ghana</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
@@ -18,6 +20,22 @@ record: 03da91108459
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
 </nav>
+
+## Ghana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">USTDA-funded Vanu base-station feasibility study</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[U.S. Challenges China's Dominance in African Telecom Markets](https://insidetowers.com/u-s-challenges-chinas-dominance-in-african-telecom-markets/)** — Inside Towers, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+The US is backing rivals to Huawei and ZTE in African telecoms, Inside Towers reported on 19 November 2026, citing African Business. In May 2026 the US Trade and Development Agency began funding a feasibility study. It covers about 1,500 Vanu base stations for Benin, Côte d'Ivoire, Ghana and Nigeria. The article also cites a USD 100 million US loan to Africell in September.
+
+</div>
+
+</div>
 
 ## Libya
 

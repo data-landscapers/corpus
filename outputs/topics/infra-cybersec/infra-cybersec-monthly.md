@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: infra.cybersec
 places: BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; ZMB; ZWE
-record: dc5732fad903
+record: 165bc4ccb2ce
 ---
 
 # News, Oct – Nov 2026
@@ -878,6 +878,20 @@ The article sets out that in Nigeria reporting a cyberattack to the Central Bank
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">DNSSEC on the .ng domain</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Stakeholders Seek Investment in Indigenous Technology - Voice of Nigeria](https://von.gov.ng/stakeholders-seek-investment-in-indigenous-technology/)** — Voice of Nigeria, 19 November 2026
+
+Speakers at the 2026 Nigeria Internet Governance Forum in Abuja called for investment in indigenous technology, stronger digital infrastructure and effective regulation. A NITDA representative said growing use of AI makes trust critical. The forum date is not stated.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -1176,6 +1190,30 @@ Zimbabwe's ICT minister Tatenda Mavetera said her ministry has opened a multi-ag
 **[POTRAZ moves to tighten cybersecurity for critical infrastructure](https://www.heraldonline.co.zw/potraz-moves-to-tighten-cybersecurity-for-critical-infrastructure/)** — The Herald (Zimbabwe), 15 October 2026
 
 Zimbabwe's telecoms regulator is developing a Cybersecurity Framework for Critical Infrastructure Protection, its draft regulation cited as a governance example at a regulators' follow-up meeting in Nairobi. The regulator also restated that data controllers must be licensed under the Cyber and Data Protection Act.
+
+</div>
+
+</div>
+
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICT Government Fusion Centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICT ministry gets ZiG1 billion in 2027 budget](https://www.techzim.co.zw/2026/11/ict-ministry-gets-zig1-billion-in-2027-budget/)** — Techzim, 19 November 2026
+
+Techzim reported on 19 November 2026 that Zimbabwe's 2027 Budget allocates about ZiG1 billion to the ICT ministry. The Statement lists 20 projects worth ZiG305.3 million, led by ZiG50 million for school ICT labs and ZiG40 million for the ICT Government Fusion Centre. A Zimbabwe Government Data Exchange receives ZiG5 million.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[The 2027 National Budget Statement — "Accelerating Economic Transformation and Building Resilience to Climate and Global Shocks" (Zimbabwe)](https://t3n9sm.c2.acecdn.net/wp-content/uploads/2026/11/2027-National-Budget.pdf)** — Ministry of Finance, Economic Development and Investment Promotion (Zimbabwe), 19 November 2026
+
+Finance Minister Mthuli Ncube presented Zimbabwe's 2027 National Budget to Parliament on 19 November 2026. It sets an expenditure ceiling of ZiG358.3 billion and allocates ZiG1.03 billion to the ICT ministry. It cuts customs duty on cellular phones from 25% to zero and provides for ZIMRA's e-TRACE system for the digital services withholding tax.
 
 </div>
 

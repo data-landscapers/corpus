@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: tech.innovate
 places: DZA; AGO; BEN; BFA; BDI; CAF; CIV; COD; EGY; SWZ; ETH; GMB; GHA; KEN; MWI; MRT; MUS; MAR; NAM; NGA; SEN; SLE; ZAF; SSD; TZA; TUN; ZWE
-record: c02d84ccf948
+record: 69c407c18561
 ---
 
 # News, Oct – Nov 2026
@@ -360,6 +360,20 @@ Egypt's information technology development agency ITIDA launched the fifth round
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">TradeTech sandbox and innovation hub</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PM: Technology, innovation prerequisites for developing foreign trade, boosting competitiveness](https://sis.gov.eg/en/media-center/news/pm-technology-innovation-prerequisites-for-developing-foreign-trade-boosting-competitiveness/)** — State Information Service, 18 November 2026
+
+Egypt launched a Trade Tech Regulatory Sandbox and Innovation Hub on 18 November 2026, coordinated by the Ministry of Investment and Foreign Trade. It tests trade solutions in a controlled setting, including AI, payments, digital identity and electronic documents. More than 15 ideas were received before launch.
+
+</div>
+
+</div>
+
 ## Eswatini
 
 <div class="monthly-story" markdown="1">
@@ -371,6 +385,14 @@ Egypt's information technology development agency ITIDA launched the fifth round
 **[E15 MILLION UNESWA UNIPOD HUB TO DRIVE YOUTH INNOVATION AND JOB CREATION](https://eswatinipositivenews.online/e15-million-uneswa-unipod-hub-to-drive-youth-innovation-and-job-creation/)** — Eswatini Positive News, 24 October 2026
 
 The University of Eswatini is building a E15 million innovation pod at its library, funded by the UN Development Programme. The vice-chancellor announced it at the 44th graduation on 24 October 2026. The pod will give students from the country's institutions space and equipment to start businesses, and the communications commission pledged US$150,000.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Eswatini UniPod to Advance Youth-Led Innovation](https://www.undp.org/eswatini/news/eswatini-unipod-advance-youth-led-innovation)** — United Nations Development Programme, 18 November 2026
+
+UNDP, the University of Eswatini and the communications regulator ESCCOM presented the University Innovation Pod on 18 November 2026. ESCCOM will contribute E2.5 million a year for three years. The Kwaluseni campus building was about two-thirds complete and is due before the end of 2026.
 
 </div>
 
@@ -545,6 +567,20 @@ Cascador and Sterling Bank announced the SME Credit Backstop, a planned USD 200 
 **[Nigeria's First Lady Lays Foundation for Abuja Innovation Hub](https://von.gov.ng/nigerias-first-lady-lays-foundation-for-abuja-innovation-hub/)** — Voice of Nigeria, 23 October 2026
 
 Nigeria's First Lady, Oluremi Tinubu, laid the foundation stone of the Renewed Hope Startup Hub in Wuye, Abuja, funded by a USD 10.4 million grant from Japan through JICA and intended for incubation, hardware prototyping and research. NITDA's director-general said the agency's programmes had supported more than 995 startups and created about 7,596 jobs over three years.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Anambra Solution Innovation District</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria advised to adopt UAE’s approach to AI accountability - Businessday NG](https://businessday.ng/news/article/nigeria-advised-to-adopt-uaes-approach-to-ai-accountability/)** — BusinessDay, 18 November 2026
+
+BusinessDay reported on 18 November 2026 commentary urging Nigeria to learn from the UAE's approach to AI. Analyst Toye Apampa proposed an accountable AI and data officer in every government ministry, department and agency. The Anambra State ICT Agency said its innovation district in Awka was about 80% complete.
 
 </div>
 

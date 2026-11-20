@@ -1,10 +1,10 @@
 ---
 title: Geospatial data — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: data.geospatial
 places: BDI; COM; CIV; DJI; KEN; LSO; LBR; NGA; SYC; TGO; ZWE
-record: 618e90f0205e
+record: c33654db775c
 ---
 
 # News, Oct – Nov 2026
@@ -192,6 +192,20 @@ Nigeria's communications regulator lists the licensed ground segment operators f
 **[Internet Service Provider Data](https://www.ncc.gov.ng/market-data-reports/internet-service-provider-data)** — Nigerian Communications Commission, 13 November 2026
 
 Nigeria's communications regulator lists subscribers for each internet service provider. For the second quarter of 2026, Spectranet shows 111,384 and Starlink 98,642. The page also carries third quarter 2026 fibre figures, led by MTN with 242,916.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS ECOSAT-1 regional Earth observation satellite</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NASRDA backs ECOWAS plans for West Africa’s first regional Earth observation satellite](https://techreviewafrica.com/news/8400/x)** — Tech Review Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Nigeria's space agency NASRDA said it would support ECOSAT-1, a planned ECOWAS Earth observation satellite, after an ECOWAS technical experts' meeting, reported on 19 November 2026. Its director-general linked the project to data sovereignty, disaster response, agriculture and environmental monitoring. No decision or figure was reported, and the meeting date is not stated.
 
 </div>
 

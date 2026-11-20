@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 5e546645b19d
+record: 8e7f88ab0862
 ---
 
 # News, Oct – Nov 2026
@@ -699,6 +699,28 @@ A proposed Internet for All strategy for Mozambique, to be implemented by the co
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Public Administration Reform and Development Strategy five-year plan 2026-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Resolução n.º 80/2026, de 8 de Outubro: Aprova o Plano Quinquenal da Estratégia de Reforma e Desenvolvimento da Administração Pública (2026-2030)](https://faolex.fao.org/docs/pdf/moz248339.pdf)** — Conselho de Ministros, República de Moçambique (Boletim da República, I Série, n.º 191; copy hosted by FAOLEX), 8 October 2026
+
+The Council of Ministers approved the 2026–2030 action plan on 14 July 2026. It was gazetted on 8 October 2026. It provides for a national data protection authority and a proposed national AI commission. It also plans an operational citizen portal and digital identity across public bodies.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo Quer Criar Autoridades de Protecção de Dados e IA Até 2030 • Diário Económico](https://www.diarioeconomico.co.mz/2026/11/18/economia/governo-quer-criar-autoridades-de-proteccao-de-dados-e-ia-ate-2030/)** — Diário Económico, 18 November 2026
+
+Mozambique's five-year public administration plan for 2026-30 provides for a national data protection authority and a national AI commission by 2030. The authority would supervise 360 public and private institutions. Other targets include a citizen portal, digital identity, and cybersecurity training for 600 technicians.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Public Finance Management Strategy (EGFP) 2026-2035</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1258,6 +1280,37 @@ Zimbabwe's ICT minister asked the telecommunications regulator to consider a ded
 **[Government gives postal sector 90 days for transformation plan](https://www.heraldonline.co.zw/government-gives-postal-sector-90-days-for-transformation-plan/)** — The Herald, 12 October 2026
 
 Zimbabwe's ICT minister gave her ministry, the regulator and the postal operator 90 days to produce a costed plan for the postal and courier sector to 2030, with quarterly reporting. She also directed operators to comply with the Cyber and Data Protection Act and required pilots of artificial intelligence and drones to carry a named lead, a timetable and measurable benefits.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI Charter</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[Towards human-centric, transparent, ethical deployment of AI](https://www.heraldonline.co.zw/towards-human-centric-transparent-ethical-deployment-of-ai/)** — The Herald, 18 November 2026
+
+Zimbabwe's Cabinet approved the National AI Charter on 17 November 2026, according to the post-Cabinet briefing published on 18 November. The Charter is a governing framework for the National AI Strategy 2026-2030. It sets binding ethical principles, and oversight, coordination and complaints arrangements. A Cabinet committee had approved it on 21 October 2026.
+
+</div>
+
+</div>
+
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI Strategy implementation roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Govt develops roadmap to implement National AI Strategy](https://www.heraldonline.co.zw/govt-develops-roadmap-to-implement-national-ai-strategy/)** — The Herald, 18 November 2026
+
+Zimbabwe's Ministry of ICT, Postal and Courier Services and UNESCO held a masterclass in Mutare, reported on 18 November 2026, to draft a roadmap for the National AI Strategy 2026-2030. The roadmap is to set actions, institutional responsibilities and timelines. President Mnangagwa launched the strategy in March 2026.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Literacy — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: capacity.literacy
-places: AGO; CPV; CIV; COD; EGY; GMB; GHA; GIN; MLI; MAR; NAM; NGA; RWA; SYC; SSD; SDN; TUN; UGA
-record: 8ce1d8fa336c
+places: AGO; CPV; CIV; COD; EGY; GMB; GHA; GIN; MLI; MAR; NAM; NGA; RWA; SYC; SSD; SDN; TGO; TUN; UGA
+record: 3cd10fd45723
 ---
 
 # News, Oct – Nov 2026
@@ -41,6 +41,8 @@ record: 8ce1d8fa336c
 <a href="#south-sudan">South Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sudan">Sudan</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -320,6 +322,22 @@ UNESCO profiled South Sudan's first media and information literacy centre, at Ju
 **[Digital finance skills urgently needed to keep economic transactions going and protect individual incomes during Sudan's war, UNDP assessment finds](https://www.undp.org/arab-states/press-releases/digital-finance-skills-urgently-needed-keep-economic-transactions-going-and-protect-individual-incomes-during-sudans-war)** — United Nations Development Programme, 12 November 2026
 
 UNDP published an assessment of digital financial literacy in Sudan on 5 November 2026. It surveyed 152 people in River Nile, Kassala and Gedaref; the sample is not nationally representative. Of these, 78% own a phone but only 44% have a bank account, 36% a mobile payment app and 10% a digital wallet. UNDP found that wallets from different providers often cannot pay one another.
+
+</div>
+
+</div>
+
+## Togo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Basic digital skills programme for 20,000 civil servants</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[20.000 fonctionnaires formés au numérique](https://www.republicoftogo.com/toutes-les-rubriques/developpement/20.000-fonctionnaires-formes-au-numerique)** — Republique Togolaise, 18 November 2026
+
+The government's Agence Togo Digital announced on 18 November 2026 a pilot programme to train 20,000 civil servants in basic digital skills. Training is designed to work on weak connections, so staff can learn at their own pace from the workplace. No start date is given.
 
 </div>
 

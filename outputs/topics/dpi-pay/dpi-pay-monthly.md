@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 69f98748bec4
+record: 81a12ee984b1
 ---
 
 # News, Oct – Nov 2026
@@ -245,6 +245,20 @@ Botswana's President Duma Boko delivered the State of the Nation Address to Parl
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Direct access to China's Cross-Border Interbank Payment System (CIPS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RMB cross-border transactions system launched in Botswana](https://www.thestar.com.my/news/world/2026/11/18/rmb-cross-border-transactions-system-launched-in-botswana)** — The Star (Xinhua), 18 November 2026
+
+Stanbic Bank Botswana launched direct access to China's Cross-Border Interbank Payment System on 17 November 2026. It is the first bank in Botswana to do so. Renminbi payments settle through Standard Bank South Africa's participation, cutting the number of intermediary banks.
+
+</div>
+
+</div>
+
 ## Burkina Faso
 
 <div class="monthly-story" markdown="1">
@@ -396,6 +410,42 @@ Chad's telecoms minister set out a transformation of the state postal operator: 
 **[MoMo and UbiPharm partner to digitise pharmaceutical payments in Congo](https://techreviewafrica.com/news/8034/momo-and-ubipharm-partner-to-digitise-pharmaceutical-payments-in-congo)** — Tech Review Africa, 29 October 2026
 
 MTN Congo's mobile money service MoMo signed a partnership with drug distributor UbiPharm in Pointe-Noire (reported October 2026). Pharmacies can pay UbiPharm, and customers can pay pharmacies, by mobile money. No volumes, fees or number of pharmacies were published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public-revenue payment platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Questions orales avec débat à l’Assemblée nationale](https://www.finances.gouv.cg/fr/articles/questions-orales-avec-d%C3%A9bat-AN_171126)** — Ministère des Finances, du Budget et du Portefeuille Public (Congo), 17 November 2026
+
+Finance minister Christian Yoka told the National Assembly on 17 November 2026 that the FOUTA revenue platform had collected about FCFA 107 billion since 1 June 2026. The predecessor e-Pay mobilised about FCFA 1 billion. Seven banks collect through FOUTA, and MUCODEC and UBA are due to join.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Congo : 107 milliards FCFA de recettes publiques collectées par la nouvelle plateforme de paiement](https://ecomatin.net/congo-107-milliards-fcfa-de-recettes-publiques-collectes-par-la-nouvelle-plateforme-de-paiement)** — EcoMatin, 18 November 2026
+
+The finance ministry said on 17 November 2026 that FOUTA receipts to 16 November equal 8.5% of 2026 tax revenue. It said the platform is state-owned, whereas e-Pay belonged to its provider. FOUTA connects all commercial banks and mobile operators, where e-Pay used one bank and one operator.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Single till for service revenue (Caisse unique des recettes de service)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Assemblée nationale : l’ACSI présente l'état d'avancement des différents projets](https://www.adiac-congo.com/content/assemblee-nationale-lacsi-presente-letat-davancement-des-differents-projets-172444)** — Les Dépêches de Brazzaville (adiac-congo.com), 18 November 2026
+
+The Congolese agency ACSI reported to the National Assembly's economy and finance committee on 17 November 2026. It said its revenue till and local-authority revenue platform are ready for production in 2027. The Sifec civil registration system and the Supila number-plate platform are also ready, it said.
 
 </div>
 
@@ -875,6 +925,20 @@ A consultant to the ECOWAS regional payment initiative has proposed that Nigeria
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open banking framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BoG develops open banking framework to facilitate customer data sharing](https://gna.org.gh/2026/11/bog-develops-open-banking-framework-to-facilitate-customer-data-sharing/)** — Ghana News Agency, 18 November 2026
+
+Bank of Ghana Governor Johnson Pandit Asiama told the Invest Ghana Summit on 17 November 2026 that the Bank is advancing an open banking framework. It would let authorised providers share customer data with consent. A separate legal framework for fintechs and fintech innovation hubs is also being developed. The framework text had not been published by 18 November 2026.
+
+</div>
+
+</div>
+
 ## Guinea
 
 <div class="monthly-story" markdown="1">
@@ -1019,6 +1083,14 @@ Postbank's entry to PesaLink brings Kenya's interbank payments network to 80 ins
 **[Airtel Kenya Partners Pesalink to Expand Money Transfers to 30 Financial Institutions](https://techafricanews.com/2026/11/11/airtel-kenya-pesalink-money-transfers-30-financial-institutions/)** — Tech Africa News, 11 November 2026
 
 Airtel Kenya and Integrated Payment Systems Limited, which operates Pesalink, signed an agreement on 10 November 2026. It lets Airtel Money users send funds from their wallets to accounts at 30 banks, SACCOs and microfinance banks on the Pesalink network. An account-confirmation check runs before each transfer (reported 11 November 2026).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[PesaLink wants cheaper payments, but cannot tell banks what to charge](https://techcabal.com/2026/11/19/pesalink-kenya-on-cheaper-payments/)** — TechCabal, 19 November 2026
+
+The chief executive of PesaLink's operator said on 18 November 2026 that person-to-merchant till, paybill and QR payments had gone live, starting with Equity Bank and SBM at Quickmart. Half of PesaLink payments start or end at a business. He expects every bank to adopt the KES 20 flat transfer fee before the end of 2027.
 
 </div>
 
@@ -1760,6 +1832,20 @@ A consultant to the ECOWAS regional payment initiative has proposed that Nigeria
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Revenue service VASP Tax Portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria gives crypto firms until November 30 to submit tax registration](https://techcabal.com/2026/11/19/nigeria-gives-crypto-firms-tax-deadline/)** — TechCabal, 19 November 2026
+
+The Nigerian Revenue Service has set deadlines for virtual asset service providers, TechCabal reported on 19 November 2026. They must register on its VASP Tax Portal by 30 November 2026 and integrate their systems by 31 December. The notice cites section 79 of the Nigeria Tax Administration Act 2025. Missed deadlines carry penalties.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -2376,6 +2462,20 @@ Housing Finance Bank joined Interswitch's Quickteller agency banking network in 
 **[MTN Uganda's MoKash Disburses UGX 3.2 Trillion in 10 Years](https://techafricanews.com/2026/11/18/mtn-ugandas-mokash-disburses-ugx-3-2-trillion-in-10-years/)** — Tech Africa News, 18 November 2026
 
 MTN MoMo Uganda said its MoKash savings and credit service, run with NCBA Bank Uganda, has disbursed about UGX 3.2 trillion in ten years. The figure was given at an anniversary event attended by finance minister Henry Musasizi.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Stanbic Bank embedded-finance model</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Stanbic Bank partners with ERP providers to accelerate embedded finance in Uganda](https://www.report.co.ug/articles/business/stanbic-bank-partners-with-erp-providers-to-accelerate-embedded-finance-in-uganda)** — Report.co.ug, 18 November 2026
+
+Stanbic Bank Uganda launched an embedded-finance model in Kampala on 17 November 2026. It partners with ERP providers, fintechs and technology firms to connect business systems to the bank through APIs, for payments, collections and credit records. The national IT authority urged continuous compliance rather than a one-time approval.
 
 </div>
 

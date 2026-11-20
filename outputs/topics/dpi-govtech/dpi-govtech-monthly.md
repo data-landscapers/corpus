@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a30fc290c74d
+record: fdc74cf03143
 ---
 
 # News, Oct – Nov 2026
@@ -176,6 +176,22 @@ Algeria's High Commission for Digitization trained information system officials 
 **[Portail numérique: Les documents en ligne désormais reconnus](https://www.echoroukonline.com/portail-numerique-les-documents-en-ligne-desormais-reconnus)** — Echorouk El Yawmi, 11 November 2026
 
 Algeria's High Commission for Digitisation said all public administrations now accept documents issued on the Dzair Digital Services portal. A decision of Prime Minister Sifi Ghrieb requires it. The portal has grown from 21 services at its July 2026 launch to 68. It had over two million registered users on 10 November 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tourisme et artisanat: 20 services sur Dzair Digital Services](https://www.algerie360.com/dzair-digital-services-tourisme-artisanat-nouveaux-services/)** — Algerie360, 16 November 2026
+
+Algeria's High Commission for Digitalisation added 20 services on 16 November 2026, with the Ministry of Tourism and Handicrafts. Six serve tourism businesses and training, and 11 serve artisans, including craft-register enrolment and artisan-card renewal.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[مليونا مواطن مسجلون في البوابة الوطنية للخدمات الرقمية مع توفير 91 خدمة | الإذاعة الجزائرية](https://news.radioalgerie.dz/ar/node/99407)** — الإذاعة الجزائرية, 19 November 2026
+
+An expert of Algeria's High Commission for Digitisation said on 19 November 2026 that the national digital services portal offered 91 services. He gave about two million registered users and about 11 million visits. The 15 November account gave 71 services. The commission's target is 100 services by the end of 2026.
 
 </div>
 
@@ -418,6 +434,20 @@ Cameroon's public-service minister Joseph Le reviewed the servicepublic.gov.cm p
 **[Aigles: le ministre joseph le motive l'appropriation de l’outil et annonce la généralisation de la biométrie pour lutter contre l'absentéisme chronique des agents publics](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2398-aigles-le-ministre-joseph-le-motive-l-appropriation-de-l-outil-et-annonce-la-generalisation-de-la-biometrie-pour-lutter-contre-l-absenteisme-chronique-des-agents-publics)** — Ministère de la Fonction publique et de la Réforme administrative (MINFOPRA), 27 October 2026
 
 Cameroon's public service ministry will extend biometric attendance checks to all civil servants after a pilot in three ministries. It announced this in Bafoussam on 22 October 2026. The occasion was the launch of nationwide training on AIGLES, its career and payroll system.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Pridesoft integrated public-procurement management system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Marchés publics : 20 acteurs du Littoral mis au numérique](https://www.cameroon-tribune.cm/article.html/82737/fr.html/marches-publics-20-acteurs-du-littoral-mis-au-numerique)** — Cameroon Tribune, 18 November 2026
+
+The Littoral regional centre of Cameroon's public procurement regulator began training 20 procurement actors in Douala on 16 November 2026. The course covers the Pridesoft e-procurement system, with the aim of better tracking of procedures and stronger transparency.
 
 </div>
 
@@ -822,6 +852,21 @@ Egypt's foreign ministry said on 4 November 2026 that the first phase of the Uni
 
 </div>
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online seafarer passport and certificate services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt to launch online seafarer passport and certificate services Thursday](https://sis.gov.eg/en/media-center/news/egypt-to-launch-online-seafarer-passport-and-certificate-services-thursday/)** — State Information Service, 18 November 2026
+
+The transport minister announced that Egypt's maritime safety authority would offer online issuance and renewal of seafarer passports and some certificates from Thursday 19 November 2026. There are no extra fees. Users can verify certificates by QR code, and more services are to follow gradually.
+
+</div>
+
+</div>
+
 ## Equatorial Guinea
 
 <div class="monthly-story" markdown="1">
@@ -1034,6 +1079,22 @@ Gabon's National Assembly launched a Legislative Work Management Platform (GTLAN
 **[Allocation de rentrée scolaire 2027-2028 : la CPPF accélère sa révolution numérique](https://www.gabonreview.com/allocation-de-rentree-scolaire-2027-2028-la-cppf-accelere-sa-revolution-numerique/)** — GabonReview, 6 November 2026
 
 Gabon's civil-service pension and family fund (CPPF) opened collection of school certificates for the 2027-2028 school allowance on 5 November 2026. Parents and heads enter them online on the BAANA platform. Greater Libreville goes paperless, and the campaign closes on 1 February 2027. The previous round covered 71,412 beneficiaries and XAF 4.36 billion.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Prestations familiales/Mouila : la CPPF sensibilise les agents publics au nouveau mode de gestion des certificats de scolarité - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-prestations-familiales-mouila-la-cppf-sensibilise-les-agents-publics-au-nouveau-mode-de-gestion-des-certificats-de-scolarite/)** — AGP - Agence Gabonaise de Presse, 17 November 2026
+
+The state employees' pension and family benefits fund (CPPF) held a briefing in Mouila on 17 November 2026 on its Baana platform. School certificates must be completed online, and the platform was launched nationwide on 16 November 2026. A provincial official said no manual certificate would be approved for Mouila pupils this year.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Prestations familiales/Koulamoutou : la CPPF prépare la digitalisation du paiement des frais de rentrée scolaire dès 2027 - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-prestations-familiales-koulamoutou-la-cppf-prepare-la-digitalisation-du-paiement-des-frais-de-rentree-scolaire-des-2027/)** — AGP - Agence Gabonaise de Presse, 18 November 2026
+
+The pensions and family benefits fund CPPF briefed school heads in Koulamoutou on 18 November 2026. From 2027, school-start fees for pensioners' children are to be paid digitally. Parents and schools in areas with internet coverage must register on the Baana platform.
 
 </div>
 
@@ -1878,6 +1939,21 @@ Morocco's General Directorate of National Security opened its Epolice portal on 
 
 </div>
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Watiqa civil-status document portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[عطب «وثيقة» مستمر ... حين تتعطل الرقمنة ويعود المواطن إلى الطوابير](https://marsad.app/news/6afe277050f276281706ef9c/)** — Marsad (Hiba Press), 18 November 2026
+
+Morocco's Watiqa portal for civil-status documents was still down on 18 November 2026, after several days. No official explanation was given. Days earlier, digital transition minister Ahmed Rahhou had told MPs that repeated platform outages were unacceptable.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -2347,6 +2423,22 @@ South Africa's Home Affairs had Smart ID replacement services running at 753 ban
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Home Affairs triples access to passport services overnight](https://www.gov.za/news/media-statements/home-affairs-triples-access-passport-services-overnight-18-nov-2026)** — South African Government, 18 November 2026
+
+South Africa's Home Affairs opened adult passport applications at 480 bank branches on 18 November 2026. Passport service points rise from 228 offices to 708 locations. Smart ID services are at 833 branches, and over 1.16 million Smart ID applications have been processed since 9 March 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister Leon Schreiber : The next phase of the Digital Partnership](https://www.gov.za/news/speeches/minister-leon-schreiber-next-phase-digital-partnership-18-nov-2026)** — South African Government (Department of Home Affairs), 18 November 2026
+
+Home Affairs Minister Leon Schreiber announced on 18 November 2026 in Cape Town that passport applications are open at 480 bank branches, 68 of them Absa and 412 Capitec. Passport service points rise from 228 to 708. Smart ID services are now at 833 branches, and an ePassport is due in 2027.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -2667,6 +2759,20 @@ Tanzania's Public Procurement Regulatory Authority (PPRA) began user acceptance 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">FCC Automation system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FCC banks on its automation digital system to advance efficiency in public service delivery - Daily News](https://dailynews.co.tz/fcc-banks-on-its-automation-digital-system-to-advance-efficiency-in-public-service-delivery/)** — Daily News, 19 November 2026
+
+Tanzania's Fair Competition Commission is running user acceptance testing of FCC Automation, a web system for online registration, merger filings and other applications. Development began about two years ago. The Commission expects to complete the system in June 2027, according to the Daily News of 19 November 2026.
+
+</div>
+
+</div>
+
 ## Togo
 
 <div class="monthly-story" markdown="1">
@@ -2911,6 +3017,34 @@ Zambia's meteorological department and Ministry of Agriculture began building a 
 **[ZAMBIA STRIVES TO BRIDGE DIGITAL GAP - Zambia 24](https://zambia24.com/2026/11/09/zambia-strives-to-bridge-digital-gap/)** — Zambia 24, 9 November 2026
 
 Zambia released its 2025 national survey on access and use of ICTs on 9 November 2026. Individual internet access was 29.7% in 2025, up from 25.2% in 2022. Only 7.7% of respondents knew of ZamPortal.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public Service Pensions Fund biometric life verification system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PSPF innovation impresses ICTAZ CEO at inaugural Tech Fair](https://www.pspf.org.zm/news/pspf-innovation-impresses-ictaz-ceo-at-inaugural-tech-fair/)** — Public Service Pensions Fund, 17 November 2026
+
+The Public Service Pensions Fund showed its Biometric Life Verification System at the ICTAZ Tech Fair in Lusaka on 13 November 2026. Pensioners can confirm they are alive remotely, without visiting an office. The ICTAZ chief executive praised the system. The source gives no launch date.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online Passport Application and Payment System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia discontinues manual passport applications, moves fully online — Mwebantu](https://www.mwebantu.com/zambia-discontinues-manual-passport-applications-moves-fully-online/)** — Mwebantu, 18 November 2026
+
+Zambia's Ministry of Home Affairs and Internal Security ended manual passport application forms with immediate effect, Mwebantu reported on 18 November 2026. New applications, renewals and related services now go through the Online Passport Application System. It has run alongside the manual process since December 2025.
 
 </div>
 

@@ -1,15 +1,17 @@
 ---
 title: MoUs and other agreements — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: finance.mou
-places: BWA; BDI; CIV; COD; EGY; ETH; MUS; MOZ; NGA; SEN; ZAF; SDN; TZA; UGA
-record: d020b538b266
+places: BEN; BWA; BDI; CIV; COD; EGY; ETH; MUS; MOZ; NGA; SEN; ZAF; SDN; TZA; UGA
+record: 984af81c94bf
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#benin">Benin</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burundi">Burundi</a>
@@ -38,6 +40,22 @@ record: d020b538b266
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
 </nav>
+
+## Benin
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UNICEF and MTN Benin Foundation digital education framework agreement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNICEF Bénin et la Fondation MTN Bénin unissent leurs forces pour promouvoir l'éducation numérique, l'autonomisation des jeunes et la protection des enfants en ligne](https://www.unicef.org/benin/communiqu%C3%A9s-de-presse/unicef-b%C3%A9nin-et-la-fondation-mtn-b%C3%A9nin-unissent-leurs-forces-pour-promouvoir)** — UNICEF Bénin, 17 November 2026
+
+UNICEF Benin and the MTN Benin Foundation signed a two-year framework agreement on 17 November 2026. The foundation will provide internet for 55 school digital rooms for nine months, valued at about FCFA 180 million. The agreement also covers youth digital skills and child online protection.
+
+</div>
+
+</div>
 
 ## Botswana
 
@@ -197,6 +215,20 @@ The Central Bank of Nigeria signed a memorandum of understanding with the Global
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SMEDAN and Mastercard memorandum on small-business digitalisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG, Mastercard partner to accelerate digital transformation of SMEs](https://www.vanguardngr.com/2026/11/fg-mastercard-partner-to-accelerate-digital-transformation-of-smes/)** — Vanguard, 18 November 2026
+
+Mastercard and Nigeria's small business agency SMEDAN signed an MoU, announced at the SMEDAN MSME Growth Forum in Lagos and reported on 18 November 2026. It sets a framework to explore digital tools, skills and payment support for small firms. No funding is stated.
+
+</div>
+
+</div>
+
 ## Senegal
 
 <div class="monthly-story" markdown="1">
@@ -224,6 +256,14 @@ Visa and Senegal's ministry of telecommunications and digital affairs signed a t
 **[Cassava Technologies and Mauritius Telecom Partner to Expand AI Services Across Africa](https://techafricanews.com/2026/11/18/cassava-and-mauritius-telecom-partner-to-expand-ai-services-across-africa/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
 
 Cassava Technologies and Mauritius Telecom signed a memorandum of understanding at Africa Tech Festival in Cape Town. Mauritius Telecom is to explore using Cassava's Cape Town AI Factory and CAIMEx models as on-demand compute. They will also assess its myt Learn AI tutor for South African schools; no sum was disclosed.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cassava Technologies and Mauritius Telecom sign MoU on AI services and education in Africa](https://www.cassavatechnologies.com/signs-a-memorandum-of-understanding-with-mauritius-telecom/)** — Cassava Technologies, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
+
+Cassava Technologies and Mauritius Telecom signed an MoU at Africa Tech Festival, announced on 18 November 2026. They will explore on-demand use of Cassava's Cape Town AI Factory for Mauritius Telecom's AI services. They will also assess taking its myt Learn tutoring platform to South African schools. No sum was disclosed.
 
 </div>
 

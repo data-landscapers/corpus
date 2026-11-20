@@ -1,10 +1,10 @@
 ---
 title: Technical Capacity — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: infra.capacity
-places: BDI; COD; LSO; ZAF; ZWE
-record: 6920c7fbc565
+places: BDI; COD; KEN; LSO; ZAF; ZWE
+record: eececfc9b410
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: 6920c7fbc565
 <a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#lesotho">Lesotho</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -37,6 +39,20 @@ The home page of Burundi's government ICT secretariat, SETIC, sets out its role 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government network, servers and shared services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burundi : Le nouveau Système Intégré de Gestion des Finances publiques installé](https://www.digitalbusiness.africa/burundi-le-nouveau-systeme-integre-de-gestion-des-finances-publiques-installe/)** — Digital Business Africa, 18 November 2026
+
+Burundi's finance ministry validated the installation of a new integrated public financial management system on 17 November 2026. It replaces SIGEFI. The SNDI MediaBox consortium is delivering it over 18 months, aligned with the World Bank-financed PAFEN project.
+
+</div>
+
+</div>
+
 ## DR Congo
 
 <div class="monthly-story" markdown="1">
@@ -56,6 +72,22 @@ COMESA's half-year progress report on the World Bank-financed Inclusive Digitali
 **[Transformation numérique : le COPIL valide le PTBA 2026 et appelle à accélérer l’exécution du projet](https://7sur7.cd/2026/10/10/transformation-numerique-le-copil-valide-le-ptba-2026-et-appelle-accelerer-lexecution-du)** — 7sur7.cd, 10 October 2026
 
 The steering committee of the DRC's digital transformation project met for the first time on 8 October and approved the 2026 work plan and budget. Members went through delays component by component and set priorities to 2027.
+
+</div>
+
+</div>
+
+## Kenya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kenya National Open Source Programme Office</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya's Accession to the Digital Public Goods Alliance and the 50-in-5 Campaign](https://www.ict.go.ke/kenyas-accession-digital-public-goods-alliance-and-50-5-campaign)** — Ministry of Information, Communications and the Digital Economy (Kenya), 17 November 2026
+
+The ICT ministry announced on 17 November 2026 that Kenya had joined the Digital Public Goods Alliance and the 50-in-5 campaign. Kenya committed to design, launch and scale digital identity, payments and data exchange. A national digital public infrastructure roadmap is in development.
 
 </div>
 

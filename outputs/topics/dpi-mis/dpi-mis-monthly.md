@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9c8e4288f742
+record: d8a4a5c0474c
 ---
 
 # News, Oct – Nov 2026
@@ -960,6 +960,20 @@ Liberia's national water, sanitation and hygiene commission signed a memorandum 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Facility-level electronic medical records</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MOH, Sand Technologies Assess Digital Health Progress Ahead of December EMR Deployment](http://moh.gov.lr/news/2026/moh-sand-technologies-assess-digital-health-progress-ahead-of-december-emr-deployment/)** — Ministry of Health, Republic of Liberia, 17 November 2026
+
+Liberia's Ministry of Health and Sand Technologies held a mission on 11 and 12 November 2026. It reviewed facility readiness for electronic medical records, planned for December 2026, and expansion of the National Health Intelligence Center. The ministry said Liberia must keep ownership of its digital health infrastructure.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -1001,6 +1015,20 @@ Khalifa Ashour coordinates the Libyan Public Prosecution's digital transformatio
 **[Du contenu à la gestion : Madagascar accélère la numérisation de son système éducatif](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/du-contenu-a-la-gestion-madagascar-accelere-la-numerisation-de-son-systeme-educatif)** — wearetech.africa, 26 October 2026
 
 Madagascar's digital development ministry launched MPIANATRA, a school-management platform for tracking pupils' progress, on 24 October 2026; its deployment in public schools is still to be studied. It follows the NUIS single pupil identifier, piloted with about 180,000 pupils since May.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Water, sanitation and hygiene monitoring and evaluation system (SE&AM)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Madagascar: Secteur EAH - Les données pour mieux piloter les investissements](https://fr.allafrica.com/stories/202611190323.html)** — Midi Madagasikara via allAfrica, 19 November 2026
+
+Madagascar's Ministry of Water, Sanitation and Hygiene launched a monitoring and evaluation system for the sector in Antananarivo on 18 November 2026. The World Bank finances it through a drinking-water access project. It is to hold dashboards, infrastructure maps and financing data, collected and validated from village level up to national level.
 
 </div>
 
@@ -1812,6 +1840,21 @@ Zimbabwe's home affairs minister told the National Assembly that a crime managem
 **[Data systems transform Zimbabwe's schools](https://www.globalpartnership.org/blog/data-systems-transform-zimbabwes-schools)** — Global Partnership for Education, 11 November 2026
 
 UNICEF Zimbabwe reported on 11 November 2026 that schools such as Masvingo Government Primary now capture and validate data electronically in the revised EMIS. The deputy head says this helps track enrolment, teacher allocation and dropouts. GPE provided US$2.9 million for 2023 to 2026, with UNICEF supporting implementation.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ZIMRA e-TRACE transaction monitoring system</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[ZIMRA to buy e-TRACE system to track digital payments](https://www.techzim.co.zw/2026/11/zimra-to-buy-e-trace-system-to-track-digital-payments/)** — Techzim, 19 November 2026
+
+The 2027 Budget Statement, presented on 19 November 2026, says ZIMRA will buy an e-TRACE system by competitive tender. It is to record and monitor electronic transactions by digital service providers, to support the digital services withholding tax. Techzim reports the Statement gives no budget, timeline or data-protection terms.
 
 </div>
 

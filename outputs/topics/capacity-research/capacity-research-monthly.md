@@ -1,10 +1,10 @@
 ---
 title: Research institutions — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: capacity.research
 places: BFA; ETH; LBY; MWI; MRT; SEN; SLE; ZAF; UGA
-record: 64e43391ad9f
+record: 36149afab84a
 ---
 
 # News, Oct – Nov 2026
@@ -152,6 +152,20 @@ The Center for Information Privacy, Human-Centered Technology and Ethics Researc
 **[SA’s ICT sector records largest increase in R&D spend](https://www.itweb.co.za/article/sas-ict-sector-records-largest-increase-in-rd-spend/G98YdqLGAAGMX2PD)** — ITWeb South Africa, 5 November 2026
 
 The National R&D Survey for 2024/25 puts South Africa's ICT research spending at R5.7 billion, up R853 million, the largest rise of any field. Total R&D spending was R44.2 billion, and intensity fell from 0.62% to 0.60% of GDP. Business R&D fell by R742 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Foundational Digital Capabilities Research Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister Blade Nzimande: South Africa and the AI opportunity conference](https://www.gov.za/news/speeches/minister-blade-nzimande-south-africa-and-ai-opportunity-conference-19-nov-2026)** — South African Government (Department of Science, Technology and Innovation), 19 November 2026
+
+South Africa's science minister Blade Nzimande tied the country's AI work to the Science, Technology and Innovation Decadal Plan 2022–2032. His closing remarks were posted on 19 November 2026. He named a research programme on sovereign compute and the Centre for Artificial Intelligence Research. He said projects and partnerships should follow within 90 days.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: gov.discourse
 places: DZA; AGO; CIV; EGY; ETH; GAB; GHA; MWI; NGA; SEN; TUN; ZMB; ZWE
-record: 2a11ab803eff
+record: 075f7cc8bf9c
 ---
 
 # News, Oct – Nov 2026
@@ -190,6 +190,14 @@ Minority Leader Alexander Afenyo-Markin called for repeal of Section 208 of Ghan
 **[Malawi Action Plan Review 2026-2029 - Open Government Partnership](https://www.opengovpartnership.org/documents/malawi-action-plan-review-2026-2029/)** — Open Government Partnership, 14 October 2026
 
 The Open Government Partnership's Independent Reporting Mechanism reviewed Malawi's 2026–2029 action plan, which has 11 commitments covering anti-corruption, natural resources, fiscal openness, digital governance and climate. They include a public beneficial ownership register and public party-finance information. The review finds Malawi did not meet the minimum co-creation standards.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[MALAWI LAUNCHES 2026–2029 OPEN GOVERNMENT PARTNERSHIP NATIONAL ACTION PLAN](https://www.malawivoice.com/2026/11/18/malawi-launches-2026-2029-open-government-partnership-national-action-plan/)** — Malawi Voice, 18 November 2026
+
+Malawi launched its 2026-2029 Open Government Partnership National Action Plan in Lilongwe on 18 November 2026. Justice Minister Charles Mhango presented it. It has 11 commitments across five areas, including anti-corruption, fiscal openness and digital governance.
 
 </div>
 

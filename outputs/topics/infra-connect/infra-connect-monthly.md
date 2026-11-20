@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: 2074fa40e195
+record: f896f09598c1
 ---
 
 # News, Oct – Nov 2026
@@ -191,6 +191,20 @@ Africell is preparing a satellite services company with Angola's government and 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National broadband network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Angola: Le MINTTICS explique les raisons de la réduction du budget alloué à l'expansion du haut débit](https://fr.allafrica.com/stories/202611190280.html)** — Angola Press Agency via allAfrica, 19 November 2026
+
+Angola's draft 2027 budget cuts the broadband network allocation by 27 per cent. Telecoms minister Mário Oliveira told National Assembly committees on 18 November 2026 that the cut reflects progress. He cited more than 3,000 km of fibre installed and nearly 1,000 km rehabilitated. The last-mile phase is under way.
+
+</div>
+
+</div>
+
 ## Benin
 
 <div class="monthly-story" markdown="1">
@@ -202,6 +216,20 @@ Africell is preparing a satellite services company with Angola's government and 
 **[UEMOA/Télécommunications : le Burkina Faso signe trois accords de roaming avec le Bénin, la Côte d’Ivoire et le Sénégal](https://www.cfinance.news/article/uemoatelecommunications-le-burkina-faso-signe-trois-accords-de-roaming-avec-le-benin-la-cote-divoire-et-le-senegal/)** — C'Finance, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Burkina Faso's telecoms regulator signed bilateral roaming agreements with its counterparts in Benin, Côte d'Ivoire and Senegal in Ouagadougou on 23 October 2026, under the WAEMU framework. The WAEMU Commission and the regulators called for the commitments to be put into effect so users get cheaper, clearer roaming terms.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">New mobile sites in isolated areas</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin / Budget 2027 : 11,59 milliards pour un Bénin numérique utile à tous](https://matinlibre.com/2026/11/19/benin-budget-2027-1159-milliards-pour-un-benin-numerique-utile-a-tous/)** — Matin Libre, 19 November 2026
+
+Benin's Minister of Digital Transformation and Innovation presented a 2027 ministry budget of 11.59 billion FCFA to deputies, reported on 19 November 2026. On domestic resources, 71.3 per cent of 2026 credits were committed and 68.5 per cent authorised at 30 September 2026. He cited a 16 per cent rise in domestic effort.
 
 </div>
 
@@ -555,6 +583,14 @@ Congo Telecom said a repair vessel was due on 11 November 2026 at the WACS fault
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[WACS subsea cable returns online](https://www.itweb.africa/article/wacs-subsea-cable-returns-online/lLn147mQ96Z7J6Aa)** — ITWeb Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
+
+Congo Telecom said the WACS submarine cable was back in service on 16 November 2026, two days before its 18 November target. The fault, dated 29 October, lay on the segment between the Democratic Republic of Congo and the Republic of Congo. Repairs were made at sea, supported by teams at the Matombi and Muanda landing stations.
+
+</div>
+
 </div>
 
 ## Cote d'Ivoire
@@ -723,6 +759,14 @@ Congo Telecom said a repair vessel was due on 11 November 2026 at the WACS fault
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[WACS subsea cable returns online](https://www.itweb.africa/article/wacs-subsea-cable-returns-online/lLn147mQ96Z7J6Aa)** — ITWeb Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
+
+Congo Telecom said the WACS submarine cable was back in service on 16 November 2026, two days before its 18 November target. The fault, dated 29 October, lay on the segment between the Democratic Republic of Congo and the Republic of Congo. Repairs were made at sea, supported by teams at the Matombi and Muanda landing stations.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -794,6 +838,20 @@ Egypt's telecoms regulator NTRA plans to upgrade 6 million more fixed internet l
 **[SCZone, Telecom Egypt sign deal to upgrade digital services](https://egyptian-gazette.com/egypt/sczone-telecom-egypt-sign-deal-to-upgrade-digital-services/)** — Egyptian Gazette, 6 November 2026
 
 The Suez Canal Economic Zone and Telecom Egypt signed a co-operation agreement, reported on 6 November 2026. Telecom Egypt will build multi-route telecommunications networks and deploy digital, IoT and data-analytics services across the zone's industrial areas, ports and affiliated facilities. The signing date was not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Medusa cable terrestrial extension, Port Said to Jordan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU and EIB back Medusa to strengthen Mediterranean digital links and connect Jordan’s research community](https://www.eib.org/en/press/all/2026-426-eu-and-eib-back-medusa-to-strengthen-mediterranean-digital-links-and-connect-jordan-s-research-community)** — European Investment Bank, 19 November 2026
+
+The European Investment Bank announced on 19 November 2026 a EUR 11.1 million EU grant for the Medusa submarine cable's land extension from Port Said in Egypt to Jordan. EU grants for Medusa's research and education links now total EUR 51.1 million. An EIB loan of up to EUR 60 million also supports the system. The project aims to link about 500 institutions with European counterparts.
 
 </div>
 
@@ -1535,6 +1593,20 @@ SES and the ITU's Partner2Connect coalition plan to connect 30 rural schools in 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Schools with limited or no internet access</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le satellite pour ouvrir l'accès aux ressources numériques dans 30 écoles africaines](https://www.wearetech.africa/fr/fils/actualites/tech/le-satellite-pour-ouvrir-lacces-aux-ressources-numeriques-dans-30-ecoles-africaines)** — wearetech.africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+
+SES, the satellite operator, plans to connect 30 schools in Malawi, Burundi, Zambia and Zimbabwe by the end of 2026, under the ITU's Partner2Connect coalition. The project is to reach 20,000 to 30,000 pupils and teachers. In Malawi, 214 of 7,117 primary schools had an internet connection in the 2023/24 school statistics.
+
+</div>
+
+</div>
+
 ## Mali
 
 <div class="monthly-story" markdown="1">
@@ -1734,6 +1806,20 @@ Namibia's ICT ministry plans two telecommunications towers, at Noordoewer and Ha
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PowerCom open-access fibre-to-the-home network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PowerCom seeks N$375m to roll out fibre network to 75,000 homes](https://thebrief.com.na/2026/11/powercom-seeks-n375m-to-roll-out-fibre-network-to-75000-homes/)** — The Brief, 17 November 2026
+
+PowerCom's chief executive told a GIPF investment symposium in Windhoek on 12 November 2026 that the company seeks N$375 million over three years. The open-access fibre network would pass 75,000 homes. It targets about 28,300 connections by year three, starting with a N$3.08 million pilot of 654 homes.
+
+</div>
+
+</div>
+
 ## Niger
 
 <div class="monthly-story" markdown="1">
@@ -1814,6 +1900,36 @@ Nigeria's communications regulator issued the communique of its Digital Connecti
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Project BRIDGE national open-access fibre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Contract Award: Engagement of Consultant for the SPV Design and Human Capital Strategy (BRIDGE, P508383, NG-FMCIDE-542749-CS-QCBS)](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00473863)** — World Bank (procurement notice published for the Federal Ministry of Communications, Innovation and Digital Economy), 8 October 2026
+
+The World Bank notice of 8 October 2026 names Ernst & Young Nigeria, with sub-consultant Kennedia Consulting, as winner of the six-month contract for the BRIDGE fibre project. It ranked first of four bidders, scoring 85.02, at a signed NGN 315,232,762.12. Award was notified on 30 September 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG, EU, EBRD sign €14m deal to drive 90,000-km fibre-optic backbone project](https://businessday.ng/news/article/fg-eu-ebrd-sign-e14m-deal-to-drive-90000-km-fibre-optic-backbone-project/)** — BusinessDay Nigeria, 15 October 2026
+
+Nigeria, the European Union and the EBRD signed a EUR 14 million grant for the planned 90,000 km national fibre backbone, funded by the EU and managed by the bank. It pays for scoping, detailed network design, project preparation and capacity-building in the agencies implementing it.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[World Bank awards EY ₦315m contract for Nigeria’s $2bn Project BRIDGE fibre plan](https://businessamlive.com/world-bank-awards-ey-%E2%82%A6315m-contract-for-nigerias-2bn-project-bridge-fibre-plan/)** — BusinessAM Live, 19 November 2026
+
+The World Bank awarded EY Nigeria and Kennedia Consulting a six-month contract worth NGN 315.23 million, with notice issued on 30 September 2026. They will advise on the special purpose vehicle for Nigeria's planned 90,000-kilometre fibre backbone under Project BRIDGE. The consortium ranked first of four bidders, with a combined score of 85.02.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">ACE cable Lagos landing station</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1849,20 +1965,6 @@ Lagos State's deputy governor said more than 6.4 million residents have enrolled
 **[Nigerians used 90% of 2025’s internet data volume in eight months](https://techcabal.com/2026/10/13/nigerians-2026-internet-data-consumption/)** — TechCabal, 13 October 2026
 
 Nigerians used 11.94 million terabytes of internet data in January to August 2026, about 90% of the whole of 2025, on the regulator's statistics. August alone took 1.76 million terabytes, with about 800,000 new internet subscriptions.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Project BRIDGE national open-access fibre</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[FG, EU, EBRD sign €14m deal to drive 90,000-km fibre-optic backbone project](https://businessday.ng/news/article/fg-eu-ebrd-sign-e14m-deal-to-drive-90000-km-fibre-optic-backbone-project/)** — BusinessDay Nigeria, 15 October 2026
-
-Nigeria, the European Union and the EBRD signed a EUR 14 million grant for the planned 90,000 km national fibre backbone, funded by the EU and managed by the bank. It pays for scoping, detailed network design, project preparation and capacity-building in the agencies implementing it.
 
 </div>
 
@@ -2185,6 +2287,14 @@ Sierra Leone's National Communications Authority unveiled new systems on 28 Octo
 **[Sierra Leone Announces $45 Million Second Submarine Cable Project](https://techafricanews.com/2026/11/18/sierra-leone-announces-45-million-second-submarine-cable-project/)** — Tech Africa News, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Sierra Leone announced a National Cable Consortium to land a second submarine cable, a $45 million project backed by the World Bank's WARDIP. The vehicle joins Africell, Orange, Q-Cell and Zoodlabs, and pools demand with Guinea, Liberia and The Gambia. Sierratel and Africell also formed Sierratel International to seek MVNO licences elsewhere in Africa.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[WAIIS 2026: Summit concludes with nine agreements and four announcements - Liberty Online TV](https://libertyonlinetv.com/2026/11/18/16844/)** — Liberty Online TV, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+The West Africa Integration and Investment Summit closed in Sierra Leone on 18 November 2026. Liberty Online TV reported nine agreements signed and four announcements, including a second submarine cable estimated at US$40 million. The World Bank has allocated US$15 million, and the cable consortium is seeking a further US$25 million from private investors.
 
 </div>
 

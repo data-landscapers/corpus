@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: data.statistics
-places: DZA; BWA; BDI; CAF; COG; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA
-record: 0bd67a4063da
+places: DZA; BWA; BDI; CAF; COG; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA; ZWE
+record: fe3cb99044c1
 ---
 
 # News, Oct – Nov 2026
@@ -42,6 +42,10 @@ record: 0bd67a4063da
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#namibia">Namibia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#niger">Niger</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#rwanda">Rwanda</a>
@@ -57,6 +61,8 @@ record: 0bd67a4063da
 <a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zimbabwe">Zimbabwe</a>
 </nav>
 
 ## Algeria
@@ -495,6 +501,38 @@ Mozambique's national statistics institute, INE, has about US$60m of the US$110m
 
 </div>
 
+## Namibia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Global SDG indicators reported</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ngurare demands data accountability as country launches SDG portal](https://neweralive.na/ngurare-demands-data-accountability-as-country-launches-sdg-portal/)** — New Era, 19 November 2026
+
+The Namibia Statistics Agency launched its SDG Indicator Framework Report and an online SDG portal on 18 November 2026, opened by Prime Minister Elijah Ngurare. He asked government bodies to publish their data on the portal. The agency said 176 of 248 global indicators were reported in 2025, a reporting rate up from 66% to 71%.
+
+</div>
+
+</div>
+
+## Niger
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics institute reorganisation order</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Célébration à Niamey de la 36è édition de la Journée Africaine de la Statistique - Agence Nigérienne de Presse](https://anp.ne/celebration-a-niamey-de-la-36e-edition-de-la-journee-africaine-de-la-statistique/)** — Agence Nigérienne de Presse, 19 November 2026
+
+On African Statistics Day, 18 November 2026, Niger's National Institute of Statistics announced a reorganisation under a signed order. It creates three new central directorates, including one for research, data science and innovation. The national nutrition information platform is to become a central directorate.
+
+</div>
+
+</div>
+
 ## Nigeria
 
 <div class="monthly-story" markdown="1">
@@ -710,6 +748,22 @@ Enabel published tender TZA25001-10032 on 6 November 2026 for technical assistan
 **[UBOS Unveils New Data Strategy to Support Uganda's Tenfold Economic Growth Ambition](https://nilepost.co.ug/news/387592/ubos-unveils-new-data-strategy-to-support-ugandas-tenfold-economic-growth-ambition)** — Nile Post, 15 November 2026
 
 The Uganda Bureau of Statistics launched its Fourth Plan for National Statistical Development, Strategic Plan IV and new Service Delivery Standards during Africa Statistics Week 2026. The standards set response times for users' data requests. State Minister Lugoloobi said data use in decision-making remains inadequate.
+
+</div>
+
+</div>
+
+## Zimbabwe
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ZIMSTAT chatbot, WhatsApp and toll-free lines</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZIMSTAT opens a direct line to the people as Africa marks Statistics Day](https://www.heraldonline.co.zw/zimstat-opens-a-direct-line-to-the-people-as-africa-marks-statistics-day/)** — The Herald, 19 November 2026
+
+The Zimbabwe National Statistics Agency launched a chatbot, a WhatsApp line and a toll-free line on 18 November 2026, African Statistics Day. The public can use them to query statistics, verify survey enumerators and give feedback.
 
 </div>
 

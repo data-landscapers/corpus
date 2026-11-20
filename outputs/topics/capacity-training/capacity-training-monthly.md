@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZMB; ZWE
-record: 08466c19e585
+record: 6688c1280a46
 ---
 
 # News, Oct – Nov 2026
@@ -366,6 +366,20 @@ Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in 
 **[Ghana launches ICC-TikTok Digital Commerce Labs to equip young entrepreneurs with digital skills](https://techreviewafrica.com/news/8363/ghana-launches-icc-tiktok-digital-commerce-labs-to-equip-young-entrepreneurs-with-digital)** — Tech Review Africa, 17 November 2026
 
 The ICC-TikTok Digital Commerce Labs were launched in Ghana, reported on 17 November 2026, to train young entrepreneurs and small businesses. Topics include digital marketing, social commerce, digital payments and financial literacy. Deputy minister Mohammed Adams Sukparu asked partners for an impact-measurement framework. No participant numbers or funding were stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ghana Remote Online Work (GROW) initiative</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Generation Ghana targets 50,000 jobs for young people in five years](https://www.myjoyonline.com/generation-ghana-targets-50000-jobs-for-young-people-in-five-years/)** — MyJoyOnline, 18 November 2026
+
+Generation Ghana said on 18 November 2026 that it aims to place 50,000 young people in jobs within five years. Its GROW digital-skills programme, run with the Mastercard Foundation, has supported over 2,500 people in three years. It reports 70% placed within 90 days of graduating.
 
 </div>
 
@@ -820,6 +834,14 @@ South Africa's sector training authority SASSETA invested R15 million in a digit
 **[Microsoft, WCape to prepare residents for AI economy](https://www.itweb.co.za/article/microsoft-wcape-to-prepare-residents-for-ai-economy/5yONP7Erj8QMXWrb)** — ITWeb South Africa, 18 November 2026
 
 The Western Cape Government and Microsoft launched CAPEability AI, a programme of AI and digital-skills training for residents aged 18 to 35. It runs through Microsoft Elevate at 83 e-Centres and 375 public library service points. The programme is tied to the province's Growth for Jobs strategy for 2023 to 2035.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Western Cape Government partners with Microsoft to prepare residents for the AI economy](https://www.westerncape.gov.za/department-premier/article/western-cape-government-partners-microsoft-prepare-residents-ai-economy)** — Western Cape Government, 19 November 2026
+
+The Western Cape Government and Microsoft launched CAPEability AI on 17 November 2026, with Microsoft Elevate. It offers AI and digital-skills training, job-readiness support and routes to entrepreneurship for residents aged 18 to 35. It will run through 83 provincial eCentres and 375 public library service points.
 
 </div>
 

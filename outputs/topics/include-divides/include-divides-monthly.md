@@ -1,10 +1,10 @@
 ---
 title: Digital divides — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: include.divides
-places: AGO; BFA; COD; SWZ; ETH; GMB; GHA; LBR; NGA; ZAF; TZA
-record: 4bbe649f8714
+places: AGO; BFA; COD; SWZ; ETH; GMB; GHA; LBR; NGA; ZAF; TZA; ZWE
+record: ef8744873adc
 ---
 
 # News, Oct – Nov 2026
@@ -31,6 +31,8 @@ record: 4bbe649f8714
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zimbabwe">Zimbabwe</a>
 </nav>
 
 ## Angola
@@ -326,5 +328,36 @@ KwaZulu-Natal's premier launched a fibre pre-provisioning proof of concept at th
 Tanzania's Universal Communications Service Access Fund said on 5 October 2026 it will build 250 ICT laboratories of 20 computers each in public schools this financial year, instead of its earlier provision of about five computers per school. It reports more than 1,121 schools equipped so far and 2,166 subsidised towers completed in 2,306 wards.
 
 </div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Adult internet use, Afrobarometer survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AD1251: Tanzania’s changing news landscape: Gains in digital media still leave many without access](https://www.afrobarometer.org/publication/ad1251-tanzanias-changing-news-landscape-gains-in-digital-media-still-leave-many-without-access/)** — Afrobarometer, 18 November 2026
+
+Afrobarometer published Dispatch 1251 on 18 November 2026, using its 2024 survey in Tanzania. It found that 30% of respondents own a phone that can reach the internet, and 64% never go online. 23% get no regular news.
+
+</div>
+
+</div>
+
+## Zimbabwe
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs duty on cellular phones</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Budget cuts duty on cellphones, electric vehicles](https://www.heraldonline.co.zw/budget-cuts-duty-on-cellphones-electric-vehicles/)** — The Herald, 19 November 2026
+
+Finance Minister Mthuli Ncube proposed on 19 November 2026 cutting customs duty on cellular phones from 25% to zero, in a ZiG358.3 billion budget. The Herald reports the duty on electric vehicles falls from 25% to 10%. The measures are budget proposals and are not yet enacted.
+
+</div>
+
 
 </div>

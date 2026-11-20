@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GIN; GNB; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
-record: 03fecda28540
+places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
+record: aa2ea026a393
 ---
 
 # News, Oct – Nov 2026
@@ -43,6 +43,10 @@ record: 03fecda28540
 <a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gambia">Gambia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#guinea">Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -660,6 +664,28 @@ Eswatini's Senate considered a committee report on the National Payment System R
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Addis Ababa Government Procurement Implementation Directive No. 197/2019 (E.C.)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[የአዲስ አበባ ከተማ አስተዳር የመንግስት የግዥ አፈፃፀም መመሪያ ቁጥር 197/2019 (Addis Ababa City Administration Government Procurement Implementation Directive No. 197/2019)](https://justice.gov.et/wp-content/uploads/2026/11/197_%E1%8B%A8%E1%88%98%E1%8A%95%E1%8C%8D%E1%88%B5%E1%89%B5_%E1%8C%8D%E1%8B%A5_%E1%8A%A0%E1%8D%88%E1%8D%83%E1%8D%80%E1%88%9D_%E1%88%98%E1%88%98%E1%88%AA%E1%8B%AB_%E1%89%81%E1%8C%A5%E1%88%AD_197_2019.pdf)** — Addis Ababa City Administration Bureau of Finance (registered with and posted by the Federal Ministry of Justice), 11 October 2026
+
+The Addis Ababa City Administration Finance Bureau issued the directive in October 2026. City procurement must run on the government electronic procurement system. Former bid officials face a one-year cooling-off period, and bidders must disclose beneficial owners. It repeals Directive No. 3/2002.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Addis Ababa Bars Former Bid Officials From Public Tenders](https://birrmetrics.com/addis-ababa-bars-former-bid-officials-from-public-tenders/)** — Birr Metrics, 17 November 2026
+
+The directive bars anyone involved in preparing a bid from taking part in that tender. Other former employees of the procuring office must wait more than one year. It requires paperless procurement and beneficial-owner disclosure. The city plans to cover all its administrative structures within five years.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Replacement postal legislation</p>
 
 <div class="bulletin-item" markdown="1">
@@ -705,6 +731,38 @@ Gabon promulgated by decree on 5 October 2026 a law ratifying its ordinance on s
 **[Gabon : l’identification formelle des utilisateurs de réseaux sociaux devient obligatoire](https://gabonmediatime.com/gabon-lidentification-formelle-des-utilisateurs-de-reseaux-sociaux-devient-obligatoire/)** — Gabon Media Time, 19 October 2026
 
 Gabon's law 003/2026 of 5 October 2026, published on 9 October, requires individuals and legal entities using social networks and online platforms to formally identify themselves. Gabon Media Time reports that article 4 does not say what documents are needed, how identity will be checked or how existing accounts are treated. It also does not make the personal identification number mandatory for this purpose.
+
+</div>
+
+</div>
+
+## Gambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics Act 2005</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gambia’s 20-Year-Old Statistics Law Can’t Handle AI and Data Revolution, GBoS Warns](https://alkambatimes.com/gambias-20-year-old-statistics-law-cant-handle-ai-and-data-revolution-gbos-warns/)** — The Alkamba Times, 19 November 2026
+
+The Gambia Bureau of Statistics said at a national forum opened on 18 November 2026 that the Statistics Act 2005 is no longer fit for purpose. It wants a revised law in place next year. It says the Act sets no clear duty to share data and no common standards across ministries. The National Statistics Council asked for stable budget funding for the Bureau.
+
+</div>
+
+</div>
+
+## Ghana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ghana Space Agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana moves to establish space agency to strengthen local geospatial intelligence](https://techreviewafrica.com/news/8398/x)** — Tech Review Africa, 19 November 2026
+
+A Ghanaian science ministry official said at the Africa Geospatial Leadership Forum that Cabinet has approved a Ghana Space Agency, reported on 19 November 2026. It would grow out of the Ghana Space Science and Technology Institute. Drafting instructions for the enabling law are with the Attorney-General's Department. The approval date is not stated.
 
 </div>
 
@@ -1163,6 +1221,20 @@ Mozambique's Assembleia da República approved a revision of the law on the orga
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulation of the Cadastro Social Único</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Executivo Aprova Regulamento do Cadastro Social Único Para Organizar Informação da Protecção Social • Diário Económico](https://www.diarioeconomico.co.mz/2026/11/18/economia/desenvolvimento/executivo-aprova-regulamento-do-cadastro-social-unico-para-organizar-informacao-da-proteccao-social/)** — Diário Económico, 18 November 2026
+
+Mozambique's Council of Ministers approved the regulation of the single social registry on 17 November 2026. It sets rules for managing, updating, sharing and protecting the registry's data. The communiqué gives no timetable, managing institution or number of beneficiaries.
+
+</div>
+
+</div>
+
 ## Namibia
 
 <div class="monthly-story" markdown="1">
@@ -1522,6 +1594,20 @@ South Africa's Information Regulator fined Central Johannesburg TVET College R50
 **[FNB issued with R1m fine for POPIA violation](https://www.itweb.co.za/article/fnb-issued-with-r1m-fine-for-popia-violation/O2rQGqAEWwBqd1ea)** — ITWeb South Africa, 27 October 2026
 
 South Africa's Information Regulator fined First National Bank R1 million after a fault in its mobile app exposed the personal data of 88 home-loan applicants to 696 unauthorised people. The regulator found the bank's safeguards inadequate and its response to repeated security incidents deficient. It issued the notices on 26 October 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Media and Digital Platforms Market Inquiry remedies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Commission Settles with X Corp. and Concludes Voluntary Undertaking with X.AI](https://www.compcom.co.za/wp-content/uploads/2026/11/Media-Statement-Commission-reaches-settlement-agreement-with-XCorp-and-undertaking-with-XAI-18-November-2026.pdf)** — Competition Commission of South Africa, 18 November 2026
+
+South Africa's Competition Commission announced on 18 November 2026 a settlement with X Corp. and a voluntary undertaking from X.AI. Both companies withdrew their Competition Tribunal appeals against the media inquiry's remedies. X Corp's publisher support and digital literacy duties become two-year commitments. X.AI will train publishers twice a year on Grok settings.
 
 </div>
 

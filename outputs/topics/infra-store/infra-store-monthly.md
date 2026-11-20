@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: infra.store
 places: DZA; BWA; BFA; CMR; EGY; SWZ; ETH; GMB; GHA; KEN; LBY; MUS; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: cc3820d115f3
+record: aed32c6c7497
 ---
 
 # News, Oct – Nov 2026
@@ -86,6 +86,20 @@ Algeria inaugurated I-Cloud, described as its first wholly sovereign data centre
 **[Minister of Higher Education and Scientific Research discusses with Chinese delegation the project to establish an artificial intelligence data centre at the National Higher School of Artificial Intelligence](https://www.mesrs.dz/en/2026/11/minister-of-higher-education-and-scientific-research-discusses-with-chinese-delegation-the-project-to-establish-an-artificial-intelligence-data-centre-at-the-national-higher-school-of-artificial-intel/)** — Ministry of Higher Education and Scientific Research (Algeria), 9 November 2026
 
 Algeria's higher-education minister, Kamel Baddari, met a Chinese delegation on 9 November 2026 about an AI data centre. The centre would sit at the National Higher School of Artificial Intelligence in Sidi Abdellah. The statement names no Chinese firm, cost or completion date.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National disaster-recovery data centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sino-Algerian Consortium Wins $290 Million Data Center Contract](https://dzwatch.dz/en/algeria/sino-algerian-consortium-wins-290-million-data-center-contract)** — DZ Watch, 19 November 2026
+
+DZ Watch reported on 19 November 2026 that a consortium led by China Railway Construction Corporation and Huawei won a USD 290 million contract to build Algeria's national data centre and a disaster recovery centre. It reports that the consortium scored full marks in the tender. The awarding authority and award date are not stated.
 
 </div>
 
@@ -281,6 +295,14 @@ Eswatini's ICT ministry said on 23 October 2026 that 13 government online servic
 **[Govt to set up 24/7 cybersecurity centre after attacks](https://eswatinipositivenews.online/govt-to-set-up-24-7-cybersecurity-centre-after-attacks/)** — Eswatini Positive News, 14 November 2026
 
 Eswatini's ICT ministry told Parliament it will set up a 24-hour security operations centre and separate recovery sites, reported on 14 November 2026. This follows a September 2026 incident at the National Data Centre that disrupted at least 12 government platforms. 75% of the affected services had been restored.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Another govt online services blackout](https://www.eswatiniobserver.com/eswatini-government-online-services-rstp-shutdown/)** — Eswatini Observer, 19 November 2026
+
+Eswatini's government switched off 16 systems hosted at the Royal Science and Technology Park data centre on the night of 17 November 2026, as a precaution. The Government in Your Hand portal, ID and passport applications, company registration and tax services were affected. The ICT ministry gave no cause. Thirteen services had been restored a month earlier after October's disruptions.
 
 </div>
 

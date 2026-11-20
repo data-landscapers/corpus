@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; COM; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: e892cbc18494
+record: ab9215b5292d
 ---
 
 # News, Oct – Nov 2026
@@ -1415,6 +1415,21 @@ Tanzania's National Identification Authority had issued 23,718,060 identificatio
 
 </div>
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NIDA Wallet</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania Unveils New National ID Card And NIDA Wallet](https://cioafrica.co/tanzania-unveils-new-national-id-card-and-nida-wallet/)** — CIO Africa, 19 November 2026
+
+Tanzania's National Identification Authority unveiled a new national ID card and a phone-based NIDA Wallet on 18 November 2026, with EMPTECH as technology partner. The card has eight information sections, against four before. As at 29 October 2026, 27,648,911 people were registered and 1,832,683 printed cards had not been collected.
+
+</div>
+
+</div>
+
 ## Tunisia
 
 <div class="monthly-story" markdown="1">
@@ -1478,6 +1493,34 @@ The Uganda Revenue Authority explains that the National Identification Number no
 **[Matrimonial property loan disputes: Banks turn to NIRA](https://www.monitor.co.ug/uganda/news/national/matrimonial-property-loan-disputes-banks-turn-to-nira-5669142)** — Daily Monitor, 13 November 2026
 
 Banks and NIRA are working on a way for lenders to check borrowers' marital status before approving loans. Banks have lost court cases over matrimonial property pledged without both spouses' consent.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Secure Identification System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda: New National Identification and Registration Authority (NIRA) system set to tighten security in banking transactions](https://www.africa-newsroom.com/press/uganda-new-national-identification-and-registration-authority-nira-system-set-to-tighten-security-in-banking-transactions)** — Parliament of Uganda, 18 November 2026
+
+Internal Affairs Minister Ephraim Kamuntu told Parliament on 18 November 2026 that banks must integrate the National Security Information System of the national ID authority NIRA. Customer data is then retrieved from the NIRA database by ID number. As at 28 October 2026, 10 of 107 partner institutions were transacting on it. MPs objected to the cost to customers of the interim letter.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Uganda National Root Certification Authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda Establishes National Root Certification Authority for Secure Digital Services](https://techafricanews.com/2026/11/19/uganda-establishes-national-root-certification-authority/)** — Tech Africa News, 19 November 2026
+
+Uganda's National Information Technology Authority completed the key-generation and signing ceremony for its national public key infrastructure, reported on 19 November 2026. The ceremony created a National Root Certification Authority and an issuing authority under the UDAP-GovNet project. It is the basis for verifiable electronic signatures. The ceremony date is not stated.
 
 </div>
 

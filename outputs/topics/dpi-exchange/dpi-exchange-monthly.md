@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: dpi.exchange
-places: DZA; AGO; BEN; BFA; BDI; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MRT; MOZ; NAM; NGA; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ebc6d92d7eea
+places: DZA; AGO; BEN; BFA; BDI; CMR; CIV; COD; EGY; GAB; GIN; GNB; KEN; LSO; MLI; MRT; MOZ; NAM; NGA; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 6a8912cb0367
 ---
 
 # News, Oct – Nov 2026
@@ -22,6 +22,8 @@ record: ebc6d92d7eea
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cote-divoire">Cote d'Ivoire</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
@@ -35,6 +37,8 @@ record: ebc6d92d7eea
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#lesotho">Lesotho</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mali">Mali</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -153,6 +157,20 @@ Burundi and the COMESA secretariat met in Bujumbura on 9–12 November 2026 to p
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National data exchange layer</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burundi Digital Foundations Project — Invitation for Bids OP00482177: Acquisition d'une plateforme d'interopérabilité gouvernementale (GIP) intégrant un système PKI](https://projects.banquemondiale.org/fr/projects-operations/procurement-detail/OP00482177)** — World Bank (procurement notice issued by PAFEN / SETIC, Burundi), 18 November 2026
+
+The World Bank published an invitation for bids on 18 November 2026 under the Burundi Digital Foundations Project. It seeks a government interoperability platform based on X-Road and a national public key infrastructure. Bids close on 11 January 2027, and the funding is from the International Development Association.
+
+</div>
+
+</div>
+
 ## Cameroon
 
 <div class="monthly-story" markdown="1">
@@ -206,6 +224,22 @@ Health IT stakeholders met in Kribi from 27 to 31 October 2026 on Cameroon's nat
 **[Nigeria Customs pilots joint digital system to boost West African trade](https://guardian.ng/business-services/nigeria-customs-pilots-joint-digital-system-to-boost-west-african-trade/)** — The Guardian Nigeria, 14 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Nigeria Customs said on 14 November 2026 that it is piloting a joint digital customs system with Benin and Cameroon. A declaration cleared in Nigeria becomes the receiving country's manifest, with AI translation between English and French. The ECOWAS Commission pledged support for a joint border post at Seme-Krake.
+
+</div>
+
+</div>
+
+## Cote d'Ivoire
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GUCE foreign-trade single window</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d'Ivoire-AIP/Commerce extérieur : le gouvernement digitalise la délivrance des autorisations d'exportation des produits vivriers](https://www.aip.ci/cote-divoire-aip-commerce-exterieur-le-gouvernement-digitalise-la-delivrance-des-autorisations-dexportation-des-produits-vivriers/)** — Agence Ivoirienne de Presse, 19 November 2026
+
+Côte d'Ivoire's trade ministry launched online issuance of prior export authorisations for food crops on 19 November 2026, through the GUCE CI single window. Requests rose from 245 in 2022 to 421 in 2025. Exported volumes rose from 3,230 to 10,413 tonnes over the same period.
 
 </div>
 
@@ -266,6 +300,20 @@ The planning minister told the Senate about an integrated electronic link. It jo
 **[العدل تواصل تطوير منظومة تسجيل الملكية العقارية بربط شبكى مع الوزارات المعنية](https://www.youm7.com/story/2026/10/28/%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B1%D8%A8%D8%B7-%D8%B4%D8%A8%D9%83%D9%89-%D9%85%D8%B9/7597491)** — Youm7, 28 October 2026
 
 Egypt's Ministry of Justice said it has linked the real estate registry by network to the communications, planning, housing and awqaf ministries and survey bodies (reported October 2026). A unified platform lets owners complete property registration remotely, from application through payment to electronic signature. The ministry gave no launch date.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Comprehensive National Data System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabinet approves draft resolution to establish Comprehensive National Data System](https://sis.gov.eg/en/media-center/news/cabinet-approves-draft-resolution-to-establish-comprehensive-national-data-system/)** — State Information Service (Egypt), 18 November 2026
+
+Egypt's Cabinet approved a draft resolution on 18 November 2026 establishing a Comprehensive National Data System. It is an AI-powered state database with six sub-platforms, including project spending and Cabinet decisions. A committee chaired by the cabinet's decision support centre meets monthly and reports quarterly to the prime minister.
 
 </div>
 
@@ -373,6 +421,22 @@ Lesotho's ICT ministry and UNICEF held a workshop in Berea on 20-23 October 2026
 
 </div>
 
+## Mali
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">DHIS2-OSPSANTE health data interoperability</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Interopérabilité DHIS2–OSPSANTE : la DPM a réuni les administrateurs des deux plateformes à Koulikoro](https://www.dirpharma.ml/index.php/fr/blog/interoperabilite-dhis2-ospsante-atelier-koulikoro-2026)** — Direction de la Pharmacie et du Médicament (Mali), 19 November 2026
+
+Mali's Directorate of Pharmacy and Medicines held a workshop in Koulikoro on 17 and 18 November 2026, with UNICEF support. It restored automatic data migration between DHIS2, the national health information platform, and OSPSANTE, the health-logistics system. Corrections covered the HIV and laboratory form, organisation-unit groups and the facility list. Batch transfer of facility data was due to start on 19 November 2026.
+
+</div>
+
+</div>
+
 ## Mauritania
 
 <div class="monthly-story" markdown="1">
@@ -438,6 +502,20 @@ TradeMark Africa awarded India's CSM Tech a US$174,000 contract to build a Trans
 **[Namibia, Russia to share customs data to improve trade](https://neweralive.na/namibia-russia-to-share-customs-data-to-improve-trade/)** — New Era, 9 November 2026
 
 The Namibia Revenue Agency signed a customs data agreement with Russia in Moscow, as reported on 9 November 2026. The two sides are to exchange customs information and trade statistics, treated as confidential. Implementation awaits the completion of both countries' procedures.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BIPA-NAMFISA regulatory cooperation and information-sharing memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BIPA, NAMFISA sign MoU](https://observer24.com.na/bipa-namfisa-sign-mou/)** — Windhoek Observer, 18 November 2026
+
+Namibia's business registrar BIPA and the financial regulator NAMFISA signed an MoU on cooperation and information sharing, reported on 18 November 2026. It covers exchange of data, including beneficial ownership information, overseen by a Joint Working Committee. The two will explore real-time data exchange between their systems.
 
 </div>
 

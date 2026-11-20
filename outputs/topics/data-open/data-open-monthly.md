@@ -1,10 +1,10 @@
 ---
 title: Open data — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: data.open
 places: BFA; CPV; TCD; CIV; GMB; GNB; KEN; LBY; MDG; MUS; SEN; SLE; SOM; ZAF; TGO; TUN; UGA; ZWE
-record: cf5a6154f124
+record: 500b8bb13028
 ---
 
 # News, Oct – Nov 2026
@@ -254,6 +254,20 @@ Statistics Mauritius trained staff on Phase 2 of its MauStats platform, built wi
 **[Accord de licence de données ouvertes — ODP de l'ANSD du Sénégal](https://nso-senegal.opendataforafrica.org/hiwidxb)** — Agence Nationale de la Statistique et de la Démographie (ANSD), Sénégal, 11 November 2026
 
 The open data licence of Senegal's national statistics agency, ANSD, grants a free, worldwide, non-exclusive licence to copy, adapt and distribute its data, including commercially. Users must carry a prescribed source statement (checked 11 November 2026).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics agency data access centres in university libraries</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ziguinchor : un centre d’accès des données statistiques inauguré à la bibliothèque de l’Université Assane Seck](https://aps.sn/ziguinchor-un-centre-dacces-des-donnees-statistiques-inaugure-a-la-bibliotheque-de-luniversite-assane-seck/)** — APS, 18 November 2026
+
+Senegal's statistics agency ANSD opened a data access centre in the Assane Seck University library in Ziguinchor on 18 November 2026. Students and researchers get free, secure access to national survey and census microdata. It is the agency's second centre in a university library, after Dakar.
 
 </div>
 

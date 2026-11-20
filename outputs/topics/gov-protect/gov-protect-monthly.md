@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 subject: gov.protect
 places: DZA; AGO; BEN; BFA; CMR; COG; COD; EGY; SWZ; GAB; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3705793b3ac3
+record: 39e67e08ee43
 ---
 
 # News, Oct – Nov 2026
@@ -426,6 +426,20 @@ Kenya's High Court set aside a KSh1.25 million compensation award made by the Da
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Commissioner's investigation of the Business Registration Service breach</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Inside the regulatory decision that spared BRS a financial penalty after its massive data breach](https://techtrendske.co.ke/2026/11/17/brs-data-breach-odpc-investigation)** — TechTrends Media, 17 November 2026
+
+Kenya's Data Protection Commissioner closed its own-motion investigation into the Business Registration Service breach without a penalty notice, reported on 17 November 2026. It said the service had implemented the enforcement notice and no data subject had sought compensation. A deletion agreement was reached with Moldova's B2bhint.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -723,6 +737,20 @@ South Africa's National Consumer Commission launched the National Opt-Out Regist
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Information Regulator e-services platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[InfoReg strengthens cyber defences as breaches mount](https://www.itweb.co.za/article/inforeg-strengthens-cyber-defences-as-breaches-mount/DZQ58vV8WyPMzXy2)** — ITWeb South Africa, 19 November 2026
+
+South Africa's Information Regulator told ITWeb on 19 November 2026 that it is strengthening security testing and governance for its own systems. It received 2,374 security compromise notifications in 2024/25, about 198 a month. It has approved an ICT division that includes AI posts, but the funding to fill them has not yet been found.
+
+</div>
+
+</div>
+
 ## Tanzania
 
 <div class="monthly-story" markdown="1">
@@ -788,6 +816,7 @@ Tanzania's data protection commission said it is investigating complaints about 
 Togo's personal data protection authority, IPDCP, opened its first evaluation and certification session for data protection officers in Atakpamé on 30 September 2026. Thirty-two professionals from banking, insurance, telecoms, public administration and other sectors were assessed under Law 2019-014, and only those reaching the required level may hold the title.
 
 </div>
+
 
 </div>
 
