@@ -169,17 +169,21 @@
     status.textContent = hits.length.toLocaleString() + (hits.length === 1 ? ' row' : ' rows')
       + ' from ' + Object.keys(src).length.toLocaleString()
       + (Object.keys(src).length === 1 ? ' source.' : ' sources.');
-    var R = D.rows, table = [['name', 'position', 'organisation', 'year', 'row']];
+    var R = D.rows, table = [['name', 'position', 'organisation', 'country', 'year', 'sources', 'row']];
     hits.forEach(function (i) {
-      table.push([D.people[R.p[i]][0], D.positions[R.t[i]], D.orgs[R.o[i]][0], R.y[i], i]);
+      table.push([D.people[R.p[i]][0], D.positions[R.t[i]], D.orgs[R.o[i]][0], country(R.o[i]),
+                  R.y[i], R.s[i].length, i]);
     });
     var url = URL.createObjectURL(new Blob([csv(table)], { type: 'text/csv' }));
     var box = document.createElement('div');
     box.className = 'dl-datatable';
     box.setAttribute('data-defer', '');
     box.dataset.src = url;
-    box.dataset.cols = 'name,position,organisation,year';
-    box.dataset.minColWidth = '90';
+    box.dataset.cols = 'name,position,organisation,country,year,sources';
+    box.dataset.numeric = 'sources';
+    // 50 characters a line for the three long columns (Bill, 2026-11-20).
+    box.dataset.colChars = '{"name":50,"position":50,"organisation":50}';
+    box.dataset.minColWidth = '60';
     box.innerHTML = '<div class="dt-controls"><span class="dt-count"></span></div>';
     box.addEventListener('dt:render', function (e) {
       var at = e.detail.headers.indexOf('row');
@@ -194,6 +198,9 @@
     results.appendChild(box);
     window.dlDatatable.build(box);
   }
+
+  /* The organisation's country, or its region for a regional or global body. */
+  function country(o) { var c = D.orgs[o][1]; return (c && D.places[c]) || c || ''; }
 
   function block(n) {
     if (!blocks[n]) {
@@ -222,12 +229,12 @@
      and every held document that mentions the name. */
   function panel(i, cell) {
     var R = D.rows, name = D.people[R.p[i]][0], o = D.orgs[R.o[i]][0];
-    cell.innerHTML = '<dl><dt>' + (R.s[i].length > 1 ? R.s[i].length + ' sources' : 'Source')
-      + '</dt><dd class="ww-src">Loading…</dd></dl>'
-      + '<p class="ww-ways">'
-      + '<a href="#q=' + encodeURIComponent(name) + '" data-q="' + esc(name) + '">Every row for this name</a>'
-      + '<a href="#org=' + encodeURIComponent(o) + '" data-org="' + esc(o) + '">Every row for this organisation</a>'
-      + '<a href="../catalogue/#q=' + encodeURIComponent(name) + '">This name in the catalogue</a></p>';
+    cell.innerHTML = '<p class="ww-ways">'
+      + '<a class="ww-way" href="#q=' + encodeURIComponent(name) + '" data-q="' + esc(name) + '">Every row for this name</a>'
+      + '<a class="ww-way" href="#org=' + encodeURIComponent(o) + '" data-org="' + esc(o) + '">Every row for this organisation</a>'
+      + '<a class="ww-way" href="../catalogue/#q=' + encodeURIComponent(name) + '">This name in the catalogue</a></p>'
+      + '<dl><dt>' + (R.s[i].length > 1 ? R.s[i].length + ' sources' : 'Source')
+      + '</dt><dd class="ww-src">Loading…</dd></dl>';
     sources([i]).then(function (m) {
       cell.querySelector('.ww-src').innerHTML = R.s[i].map(function (k) {
         var u = m[k];
@@ -245,7 +252,7 @@
     else { org.value = a.dataset.org; q.value = ''; }
     place.value = '';
     fillOrgs();
-    window.scrollTo({ top: q.getBoundingClientRect().top + window.scrollY - 120 });
+    window.scrollTo({ top: 0 });
     run();
   });
 
@@ -254,9 +261,9 @@
     dl.disabled = true;
     var rows = shown.slice(), R = D.rows;
     sources(rows).then(function (m) {
-      var out = [['name', 'year', 'position', 'organisation', 'source_url']];
+      var out = [['name', 'year', 'position', 'organisation', 'country', 'source_url']];
       rows.forEach(function (i) {
-        out.push([D.people[R.p[i]][0], R.y[i], D.positions[R.t[i]], D.orgs[R.o[i]][0], R.s[i].map(function (k) { return m[k] || ''; }).join('; ')]);
+        out.push([D.people[R.p[i]][0], R.y[i], D.positions[R.t[i]], D.orgs[R.o[i]][0], country(R.o[i]), R.s[i].map(function (k) { return m[k] || ''; }).join('; ')]);
       });
       var a = document.createElement('a');
       a.href = URL.createObjectURL(new Blob(['\ufeff' + csv(out)], { type: 'text/csv' }));
@@ -267,6 +274,20 @@
       dl.disabled = false;
     }, function () { dl.disabled = false; status.textContent = 'Could not load the sources for the download.'; });
   });
+
+  /* The search bar sticks beneath the site's own sticky bars, measured as the table
+     measures them. */
+  var bar = document.querySelector('.ww-bar');
+  function placeBar() {
+    var top = 0;
+    ['.site-header', '.corpus-nav'].forEach(function (sel) {
+      var el = document.querySelector(sel);
+      if (el && getComputedStyle(el).position === 'sticky') top += el.offsetHeight;
+    });
+    if (bar) bar.style.setProperty('--ww-top', top + 'px');
+  }
+  placeBar();
+  window.addEventListener('resize', placeBar);
 
   var later;
   function soon() { clearTimeout(later); later = setTimeout(run, 250); }

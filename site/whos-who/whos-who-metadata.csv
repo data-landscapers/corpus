@@ -3,5 +3,6 @@ name,"The person's name, in the fullest form the sources give."
 year,"The year the source attests, or the term it states (2015–2019). Not a term of office."
 position,The title as the source gives it. (former) marks a source describing a past holder.
 organisation,"The organisation, under the name it had. Government bodies carry their country."
-source_url,The publisher's own page making the statement.
-(all),"Each row is one source's statement in one year. The list holds what our sources happen to say, with gaps: a missing row is not a vacant post, and an organisation's rows are not a line of succession."
+country,"The organisation's country, or its region for a regional or global body. Not the person's nationality."
+source_url,"The publisher's own pages making the statement, separated by '; '."
+(all),"Each row is what one or more sources say for one year. The list holds what our sources happen to say, with gaps: a missing row is not a vacant post, and an organisation's rows are not a line of succession."

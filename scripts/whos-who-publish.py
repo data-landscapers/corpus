@@ -11,8 +11,9 @@
 `build/whos-who/positions.csv` (written by `whos-who-people.py`) and the lookups beside it,
 and runs after them in `rebuild.py` stage 2e.
 
-**A published row is five fields** — `name`, `year`, `position`, `organisation`,
-`source_url` — and this is the one place they are cut. `year` is the attested year, or
+**A published row is six fields** — `name`, `year`, `position`, `organisation`, `country`,
+`source_url` — and this is the one place they are cut. `country` is the organisation's, never
+the person's (Bill asked for it, 2026-11-20). `year` is the attested year, or
 `2015–2019` where the source states a term. A `held` row without a stated term reads
 *Minister of Finance (former)*, §5. Suppressed people and pairs are dropped here again,
 whatever `positions.csv` holds.
@@ -52,7 +53,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import whos_who_lib as W  # noqa: E402
 from chrome_lib import (MAIN_SITE, SITE_BASE, chrome, external_links, feedback,  # noqa: E402
-                        feedback_href, foot, ga, script, styles)
+                        feedback_href, foot, ga, info, script, styles)
 
 ROOT = W.ROOT
 POSITIONS = ROOT / "build" / "whos-who" / "positions.csv"
@@ -64,7 +65,7 @@ OUT = ROOT / "outputs" / "whos-who" / "whos-who.csv"
 SITE = ROOT / "site" / "whos-who"
 DATA = SITE / "data"
 
-COLS = ["name", "year", "position", "organisation", "source_url"]
+COLS = ["name", "year", "position", "organisation", "country", "source_url"]
 BLOCK = 1000                       # source ids per src-NNN.json
 SEP = "; "                         # between the source URLs of one published row
 URL = f"{SITE_BASE}/whos-who/"
@@ -72,7 +73,7 @@ ROBOTS = '<meta name="robots" content="noindex, nofollow">\n'
 
 # What every view and the download say the rows are (§8a). One copy: the page, the
 # metadata file and, at launch, the method section all quote it.
-CAUTION = ("Each row is one source's statement in one year. The list holds what our sources "
+CAUTION = ("Each row is what one or more sources say for one year. The list holds what our sources "
            "happen to say, with gaps: a missing row is not a vacant post, and an "
            "organisation's rows are not a line of succession.")
 
@@ -84,7 +85,9 @@ FIELDS = [
                  "a past holder."),
     ("organisation", "The organisation, under the name it had. Government bodies carry "
                      "their country."),
-    ("source_url", "The publisher's own page making the statement."),
+    ("country", "The organisation's country, or its region for a regional or global body. "
+                "Not the person's nationality."),
+    ("source_url", "The publisher's own pages making the statement, separated by '; '."),
 ]
 
 
@@ -179,7 +182,7 @@ def build() -> dict:
                 not W.is_english(t), -len(parts[t]), not t[:1].isupper(),
                 sum(1 for w in re.findall(r"\w+", t) if len(w) > 1 and w.isupper()),
                 len(t.split()), -forms[t], t))
-            rows.append(row_of(pid, canon, year, position, fs, people, orgs))
+            rows.append(row_of(pid, canon, year, position, fs, people, orgs, places))
     rows.sort(key=lambda x: (W.fold(x["name"]), x["y0"], W.fold(x["organisation"]),
                              W.fold(x["position"])))
     return finish(rows, people, aliases, orgs, places, dropped)
@@ -216,11 +219,12 @@ def same_titles(fs: list, organisation: str):
         yield g, fc, {t: parts[t] for t in fc}
 
 
-def row_of(pid, canon, year, position, fs, people, orgs) -> dict:
+def row_of(pid, canon, year, position, fs, people, orgs, places) -> dict:
     src = sorted({(f[6], f[5]) for f in fs})
     return {"pid": pid, "org": canon, "name": people[pid], "year": year,
             "y0": fs[0][3], "position": position,
             "organisation": orgs[canon]["name"],
+            "country": places.get(orgs[canon]["place"], orgs[canon]["place"]),
             "source_url": SEP.join(u for _, u in src), "sids": [i for i, _ in src],
             "urls": dict(src)}
 
@@ -300,12 +304,18 @@ PAGE = """<!DOCTYPE html>
   <div class="container whos-who">
     <header class="article-header">
       {feedback}
-      <h1 class="article-header__title">Who's Who</h1>
-      <div class="lede"><p>Who held which position at which organisation, and the source that says so. {people:,} people, {orgs:,} organisations, {count:,} rows from {sources:,} sources.</p></div>
+      <div class="ww-head">
+        <h1 class="article-header__title">Who's Who{info_btn}</h1>
+        <p class="ww-stats">{people:,} people · {orgs:,} organisations · {count:,} rows · {sources:,} sources</p>
+      </div>
     </header>
+    {info_panel}
 
     <p class="ww-caution">{caution}</p>
 
+    <!-- The search bar and the status stay put while the rows scroll; the table parks
+         its header beneath them (`data-dt-above`, datatable v6). -->
+    <div class="ww-bar" data-dt-above>
     <form class="ww-search dt-controls" role="search" onsubmit="return false">
       <input type="search" id="ww-q" class="dt-search" placeholder="Name, position or organisation" aria-label="Search names, positions and organisations" autocomplete="off">
       <select id="ww-place" aria-label="Country"><option value="">All countries</option>{place_opts}</select>
@@ -317,6 +327,7 @@ PAGE = """<!DOCTYPE html>
     </form>
 
     <p class="ww-status" id="ww-status" aria-live="polite">Search at least three letters, or choose a country or an organisation.</p>
+    </div>
     <div id="ww-results" class="ww-results"></div>
 
     <p class="ww-correct">Something wrong, or a row about you that you want removed? <a href="{correct}">Write to us</a>.</p>
@@ -342,6 +353,7 @@ def page(b: dict) -> str:
         url=URL, robots=ROBOTS, styles=styles(1, "datatable.css", "whos-who.css"),
         main=MAIN_SITE, ga=ga(), chrome=chrome(None, depth=1),
         feedback=feedback("Who's Who", URL), caution=html.escape(CAUTION),
+        info_btn=info("Who's Who")[0], info_panel=info("Who's Who")[1],
         people=b["people"], orgs=b["orgs"], count=len(b["rows"]), sources=b["sources"],
         place_opts=opts,
         correct=feedback_href("Who's Who correction or removal", URL),

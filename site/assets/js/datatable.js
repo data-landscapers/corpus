@@ -1,4 +1,4 @@
-/* datatable.js — the shared data table for data-landscapers and Corpus. v5 (2026-11-20)
+/* datatable.js — the shared data table for data-landscapers and Corpus. v6 (2026-11-20)
 
    **This file is canonical.** It lives in `data-landscapers/assets/shared/` and
    Corpus carries a copy at `site/assets/js/datatable.js` with a `DATATABLE-FROM`
@@ -29,6 +29,7 @@
           data-full-src="data-centres-v2.csv"      offer the full dataset too
           data-metadata-src="...-metadata.csv"     offer the field dictionary
           data-min-col-width="120"                 floor under every column
+          data-col-chars='{"name":50}'             these columns this many characters wide
           data-empty="Nothing matches those filters."
           data-defer>                              build only when the page calls
                                                    window.dlDatatable.build(el)
@@ -105,6 +106,17 @@
        not only those drawn — so a page can offer the rows on screen as a download.
      - Opening a row fires `dt:detail`, `detail` carrying `row` and `cell`, the
        panel's cell, so a page can add to the panel what the CSV does not hold.
+
+   ── v6 (2026-11-20) ─────────────────────────────────────────────────────────
+
+   Two more for Who's Who, inert elsewhere.
+
+     - `data-col-chars` fixes a column's width at so many characters of the text
+       face, in place of the measured width: Bill asked for 50 a line for name,
+       position and organisation.
+     - The sticky offset counts any sticky element marked `data-dt-above`, beside the
+       site's own bars, so a page's search bar outside the table can stay put with
+       the table's header parked beneath it.
 */
 (function () {
   'use strict';
@@ -478,6 +490,10 @@
     var controls = ensureControls(container);
     var countEl = container.querySelector('.dt-count');
     var minColW = parseFloat(container.dataset.minColWidth) || 0;
+    var colChars = {};
+    if (container.dataset.colChars) {
+      try { colChars = JSON.parse(container.dataset.colChars); } catch (e) { colChars = {}; }
+    }
     var baked = container.querySelector('.dt-baked');       // the first rows, written at build
     var msg = document.createElement('p');
     msg.className = 'dt-msg';
@@ -787,7 +803,11 @@
         probeTd.className = '';
         var CARET_W = 26;
 
+        // A character of running text, spaces included, which is what "50 a line" means.
+        var PANGRAM = 'The quick brown fox jumps over the lazy dog';
+        var charW = mText(PANGRAM) / PANGRAM.length;
         var widths = cols.map(function (ci) {
+          if (colChars[headers[ci]]) return Math.round(colChars[headers[ci]] * charW) + pad;
           var w = columnWidth(headers[ci], rows.map(function (r) { return display(ci, r[ci]); }),
                               numeric[ci] ? mNum : mText, mHead, pad, !!linkCols[ci]);
           return minColW ? Math.max(w, minColW) : w;      // data-min-col-width is a floor
@@ -942,6 +962,9 @@
           ['.site-header', '.corpus-nav'].forEach(function (sel) {
             var el = document.querySelector(sel);
             if (el && getComputedStyle(el).position === 'sticky') top += el.offsetHeight;
+          });
+          document.querySelectorAll('[data-dt-above]').forEach(function (el) {
+            if (getComputedStyle(el).position === 'sticky') top += el.offsetHeight;
           });
           container.style.setProperty('--dt-top', top + 'px');
           var bar = container.querySelector('.dt-controls');

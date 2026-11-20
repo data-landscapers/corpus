@@ -101,3 +101,13 @@ or
 A ***Progress*** report which looks for evidence impacting on the topic's indicators over the past twelve months. It is a more granular version of the ***Maturity Assessment***. In this report **Movement** means that some form of progress, however minor, has been recorded in the period.
 
 The number in each box is a count of the number of sources held in the repository for that topic.
+
+## Who's Who
+
+Who's Who lists who held which position at which organisation, as the news and documents in the catalogue report it. Every row links to the sources that say so.
+
+Nothing shows until you search. Search names, positions or organisations (three letters or more), or choose a country or an organisation on its own. Organisations can be found by their abbreviations too: AfDB, UEMOA, OMS. Click a row to see its sources.
+
+*All rows* downloads the whole list; *These rows* downloads the rows on screen.
+
+Each row is what one or more sources say for one year. The list holds what our sources happen to say, with gaps: a missing row is not a vacant post, and an organisation's rows are not a line of succession.

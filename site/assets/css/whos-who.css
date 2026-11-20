@@ -4,6 +4,31 @@
    The search bar sits outside the table, because a new search replaces the table
    whole (`whos-who.js`); the table's own toolbar is hidden, so there is one search. */
 
+/* The figures sit on the title's line, smaller (Bill, 2026-11-20).
+   Inline, not flex: a flex box beside the floated feedback link shrinks and wraps. */
+.whos-who .ww-head .article-header__title { display: inline-block; margin: 0 0.6rem 0 0; }
+.whos-who .ww-stats {
+  display: inline-block;
+  white-space: nowrap;
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  margin: 0;
+}
+
+/* The search bar and the status never scroll away; `--ww-top` is the site's sticky
+   chrome, measured by whos-who.js. The table's header parks beneath (datatable v6). */
+.whos-who .ww-bar {
+  position: sticky;
+  top: var(--ww-top, 0px);
+  z-index: 35;
+  background: var(--paper);
+  padding-top: 0.2rem;
+  /* Paper the full window width: the table beneath breaks out wider than the bar. */
+  box-shadow: 0 0 0 100vmax var(--paper);
+  clip-path: inset(0 -100vmax);
+}
+
 .whos-who .ww-caution {
   font-size: 0.9rem;
   color: var(--ink-light);
@@ -52,7 +77,19 @@
 
 .whos-who .ww-results .dt-controls { display: none; }
 
-.whos-who .ww-ways { display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; margin: 0.4rem 0 0; }
+/* The ways out of a row, first in its panel and boxed so they read as buttons. */
+.whos-who .ww-ways { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0 0 0.8rem; }
+.whos-who .ww-way {
+  display: inline-block;
+  padding: 0.3rem 0.7rem;
+  border: 1px solid var(--accent);
+  border-radius: 3px;
+  background: white;
+  font-size: 0.85rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.whos-who .ww-way:hover { background: var(--accent); color: white; }
 .whos-who .ww-src a { word-break: break-all; }
 
 .whos-who .ww-correct { font-size: 0.85rem; color: var(--ink-light); margin-top: 1.5rem; }

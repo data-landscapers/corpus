@@ -16,7 +16,7 @@ status: design, owned by CC; stages 1–4 done, stage 5 live unlinked, launch ow
 
 **History is the point, not a by-product** *(Bill, 2026-11-19)*. The reader has seen a name in the news and wants the rest: where this person has been, and who else has passed through this organisation. A person's past positions and an organisation's past holders are worth more than a list of who is in post, so a statement about a former holder is kept and the views in §8a let the reader follow both.
 
-**For legal reasons a published row carries five fields and no others** *(Bill, 2026-11-19)*: `name`, `year`, `position`, `organisation`, `source_url`. No biography, nationality, gender, age, photograph, summary or quotation. The rule is on the output; §3 extends it to everything this repo commits, because the repo is public.
+**For legal reasons a published row carries six fields and no others** *(Bill, 2026-11-19; `country` added 2026-11-20)*: `name`, `year`, `position`, `organisation`, `country`, `source_url`. `country` is the organisation's, or its region's for a regional body, and never the person's. No biography, nationality, gender, age, photograph, summary or quotation. The rule is on the output; §3 extends it to everything this repo commits, because the repo is public.
 
 **The build belongs in Corpus and asks nothing of OSINT.** OSINT tags institutions and not officeholders, and holds no entity registry to extend. The precedent is `build-entity-names.py`: the slugs are OSINT's, and how they are written is decided here.
 
@@ -32,7 +32,7 @@ status: design, owned by CC; stages 1–4 done, stage 5 live unlinked, launch ow
 
 ## 3. The boundary this adds
 
-**Everything committed to this repo about a person is one of the five fields or an opaque key.** The repo is public and its history is permanent, so a working file is as published as a page. Four consequences:
+**Everything committed to this repo about a person is one of the six fields or an opaque key.** The repo is public and its history is permanent, so a working file is as published as a page. Four consequences:
 
 - **No evidence sentence is ever written to a tracked file.** The extractor reads the body, emits the fields and the source's URL, and discards the text.
 - **No attribute is stored on a person.** Not a country, not a type, not a note. A person's place is derived at build time from the organisations of their positions and is never written down.
@@ -127,13 +127,13 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 
 - **Page:** `/whos-who/`, one page (§8a).
 - **Download:** one **undated, current-only CSV** *(Bill)*, so a removal is complete at the next build. It joins the catalogue as a named exception to `design.md` §9, amended in the commit that publishes.
-- **Output:** `outputs/whos-who/whos-who.csv`, exactly five columns.
+- **Output:** `outputs/whos-who/whos-who.csv`, exactly six columns.
 - **Method page:** a section under `/methodology/` saying what a row is and is not — an attestation in a year, not a term — and how to ask for a correction or removal.
 - **Change log:** one entry at launch.
 
 **Lints, all in `scripts/lint-whos-who.py`, failing the build:**
 
-1. `outputs/whos-who/*.csv` has exactly the five columns, in order.
+1. `outputs/whos-who/*.csv` has exactly the six columns, in order.
 2. Each tracked lookup and the cache have exactly their declared columns from §4.
 3. Every `source_url` is a catalogue URL; every `slug` is a catalogue tag. (Not `entity-names.csv`: a fifth of resolved rows reach a slug it could not name, §12.)
 4. No suppressed person or pair appears in `outputs/`; no suppressed person has a name, alias or cached name anywhere tracked.
@@ -144,7 +144,7 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 
 **A view is the one table, filtered** *(Bill)*. Selecting a name in any row filters to that person's rows; selecting an organisation filters to its rows, following `org-lineage.csv` through a ministry's earlier names, each shown under the name it had. Every row in one view opens the other. The filtered table is the shared datatable and nothing more: **the reader sorts by person, position or year**, and the page imposes no grouping and no sequence of its own.
 
-**The filtered rows download as a CSV, cut in the browser** *(Bill)*: one person's positions or one organisation's, the five columns, the rows on screen. It is the catalogue's filtered download (`documentation/archived/catalogue-filtered-download.md`) and has no URL of its own.
+**The filtered rows download as a CSV, cut in the browser** *(Bill)*: one person's positions or one organisation's, the six columns, the rows on screen. It is the catalogue's filtered download (`documentation/archived/catalogue-filtered-download.md`) and has no URL of its own.
 
 **No link opens a person's view** *(Bill)*. No `person_id` appears in a URL, a fragment, the page source a reader would copy, or the download. The page may keep a search term in the fragment as the catalogue does; a name there is a search, and it finds everyone of that name.
 
@@ -237,5 +237,6 @@ Nothing is open with Bill.
 - **`lookups/naming-conventions.csv`**, one row a country, `basis` `draft`: name order (`given-first`, `family-first`, `either`, `patronymic`), whether official texts put the family name in capitals, the particles, a note. Its first use is the patronymic order rule; the particles wait for a use. Rows are corrected by hand as the index shows a case.
 - **One title however written** *(Bill, 2026-11-20)*. `W.title_parts` reads a position as its titles after four folds: case, accents and punctuation; language and abbreviation through `lookups/position-glossary.csv` (*secrétaire général*, *DG*, *PCA*); words repeating the organisation, its initials or a country; word order. A person's positions at one organisation in one year are one row when any part matches, chained, so *DG* and *CEO* meet through *Director General and CEO*. Rank words survive every fold, so *Deputy Governor* is never *Governor*. The row shows an English form if any, then the fullest, then the shortest. 24,176 rows became 22,067; 45 merges checked at random were all one title. The contained-name join uses the same test (523 joined, 16,579 people). Four rows whose organisation was a person's tag (*Abdelmadjid Tebboune*) are dropped and counted.
 - **`lookups/org-abbreviations.csv`** *(Bill, 2026-11-20)*: an organisation's abbreviations in any language (*AfDB*, *BAD*; *UEMOA*, *WAEMU*) and the full name it publishes under, which replaces a sources' scrap such as *La BEAC* or *GIZ Kenya*. `whos-who-orgs.py` folds a slug spelt as a listed abbreviation into its body, and two `other` slugs with one name into one when the list holds either or they share their one country; one name in two countries stays two (*Senate*). Governments keep the stem rule (§6). 56 slugs folded; the search finds a body by any abbreviation. Title matching now also reads a plural qualifier as its singular. 22,001 rows, 16,519 people. *Bank of the Republic of Burundi* was published as *World Bank*; a `hand` row in `entity-names.csv` corrects it.
+- **Layout, 2026-11-20** *(Bill)*: a `country` column (the organisation's) in the table and both downloads, and a sources count in the table; name, position and organisation 50 characters a line (datatable v6 `data-col-chars`); the row panel opens on its three ways out, boxed; the lede gone, its text in `content/info.md` → *Who's Who* behind the title's ⓘ, the figures on the title's line; the search bar and status sticky, the table header parked beneath (v6 `data-dt-above`).
 - **Added on the way:** a correction or removal link under the results, the search kept in the fragment (`#q=`, `#country=`, `#org=`), and a row and source count over every result.
 - **Launch, owed:** drop `ROBOTS` in `whos-who-publish.py`, add the nav item in `chrome_lib.py`, write the method section in `content/methodology.md` quoting `CAUTION`, add the change-log entry, and send the `[ACT]` note on the folded tags (§12). The two measurements left from §14 go with it.

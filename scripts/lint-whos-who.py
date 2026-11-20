@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""lint-whos-who.py — the Who's Who rules that hold the published rows to five fields.
+"""lint-whos-who.py — the Who's Who rules that hold the published rows to six fields.
 
 RENDER Step 7, beside `lint-page-weight.py`. `documentation/whos-who.md` §8 numbers the
 lints; this file is them, plus two the page added at stage 5:
 
-1. `outputs/whos-who/whos-who.csv` and its site copy have exactly the five columns, in order,
+1. `outputs/whos-who/whos-who.csv` and its site copy have exactly the six columns, in order,
    and the two are the same bytes.
 2. Each tracked lookup and the cache have exactly their declared columns (§4).
 3. Every published `source_url` is a catalogue URL (a row joins several with `; `); every organisation slug a published row
@@ -39,7 +39,7 @@ L = ROOT / "lookups"
 OUT = ROOT / "outputs" / "whos-who" / "whos-who.csv"
 SITE = ROOT / "site" / "whos-who"
 POSITIONS = ROOT / "build" / "whos-who" / "positions.csv"
-PUBLISHED = ["name", "year", "position", "organisation", "source_url"]
+PUBLISHED = ["name", "year", "position", "organisation", "country", "source_url"]
 DECLARED = {
     L / "organisations.csv": W.ORG_COLS,
     L / "org-lineage.csv": W.LINEAGE_COLS,
