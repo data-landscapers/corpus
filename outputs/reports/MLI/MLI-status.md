@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-11-17
+compiled: 2026-11-20
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 206
+sources_cited: 207
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -180,7 +180,7 @@ In September 2025 Mali [launched or expanded Sigui-Dolo for transport licensing,
 
 In 2024 [birth declarations recorded through City-Web at civil status centres fed the MorphoCivis interface that issues the NINA number](https://id4africa.com/2016/presentations/1-1-3_MATD_SY_Abdou.pdf). In 2025 [the one-stop investment shop API-Mali issued the commercial registration and tax identification numbers together](https://apimali.gov.ml/en/creation-entreprise/) when a business was formed. In 2018 [an applicant for a tax identification number submitted a photocopy of the NINA card](https://www.dgi.gouv.ml/obtenir-un-nif/), with no interface or shared key behind it. [The Registre Social Unifié, set up by decree in May 2022, can exchange with other national databases](https://rsu.gouv.ml/portail/presentation/). [It accepts the NINA number as one identifier among several](https://rsu.gouv.ml/portail/presentation/).
 
-In September 2025 [the health ministry presented OpenClinic with its link to the national identification number still a plan](https://www.biometricupdate.com/202509/mali-introduces-new-platforms-to-enhance-digital-public-service-access). [In 2019 an NGO prototype linked its community health workers' app to a facility medical record by patient identifier](https://medic.org/stories/from-chw-home-visit-to-health-facility-discharge-how-interoperability-with-an-emr-system-can-achieve-closed-loop-care-in-mali/). In 2025 [civil registration was largely paper-based, with the connection to the NINA number planned](https://cadeproject.org/updates/mali-launches-new-digital-platforms-to-improve-access-to-public-services/). [The replacement national digital economy strategy is still under development](https://dig.watch/resource/national-strategy-for-the-development-of-the-digital-economy-in-mali-draft), and no interoperability roadmap has been found. In 2023 [sharing between government bodies ran case by case with no overarching data governance framework](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Mali-Country-Diagnostic.pdf).
+In September 2025 [the health ministry presented OpenClinic with its link to the national identification number still a plan](https://www.biometricupdate.com/202509/mali-introduces-new-platforms-to-enhance-digital-public-service-access). [In 2019 an NGO prototype linked its community health workers' app to a facility medical record by patient identifier](https://medic.org/stories/from-chw-home-visit-to-health-facility-discharge-how-interoperability-with-an-emr-system-can-achieve-closed-loop-care-in-mali/). [On 17-18 November 2026 the pharmacy directorate corrected automatic data migration between DHIS2 and the OSPSANTE health-logistics system](https://www.dirpharma.ml/index.php/fr/blog/interoperabilite-dhis2-ospsante-atelier-koulikoro-2026). In 2025 [civil registration was largely paper-based, with the connection to the NINA number planned](https://cadeproject.org/updates/mali-launches-new-digital-platforms-to-improve-access-to-public-services/). [The replacement national digital economy strategy is still under development](https://dig.watch/resource/national-strategy-for-the-development-of-the-digital-economy-in-mali-draft), and no interoperability roadmap has been found. In 2023 [sharing between government bodies ran case by case with no overarching data governance framework](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Mali-Country-Diagnostic.pdf).
 
 [On 24-25 September 2026 the Ivorian and Malian customs reviewed SIGMAT, the transit interconnection system running on the Abidjan-Bamako corridor](https://apps.douanes.ci/info/cooperation-bilaterale). [They adopted a joint roadmap to correct the difficulties that persist](https://apps.douanes.ci/info/cooperation-bilaterale).
 
