@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: MOZ
-ledger_rows: 38
+ledger_rows: 40
 not_held: 17
-record: 99d18b6e4063
+record: 7c0fb0cf389d
 ---
 
 # News, Oct – Nov 2026
@@ -51,6 +51,28 @@ record: 99d18b6e4063
 **[Only 15% of Mozambicans can afford mobile internet access](https://clubofmozambique.com/news/only-15-of-mozambicans-can-afford-mobile-internet-access/)** — Club of Mozambique, 7 October 2026
 
 A proposed Internet for All strategy for Mozambique, to be implemented by the communications regulator with targets to 2030, was presented in Maputo. A partner organisation said only 15% of the population can afford to keep a mobile data package, against about 5.6 million mobile internet subscribers in some 36 million people.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public Administration Reform and Development Strategy five-year plan 2026-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Resolução n.º 80/2026, de 8 de Outubro: Aprova o Plano Quinquenal da Estratégia de Reforma e Desenvolvimento da Administração Pública (2026-2030)](https://faolex.fao.org/docs/pdf/moz248339.pdf)** — Conselho de Ministros, República de Moçambique (Boletim da República, I Série, n.º 191; copy hosted by FAOLEX), 8 October 2026
+
+Gazetted ERDAP action plan 2026-30, approved 14 July 2026; portal, digital ID, e-procurement, data-protection targets.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo Quer Criar Autoridades de Protecção de Dados e IA Até 2030 • Diário Económico](https://www.diarioeconomico.co.mz/2026/11/18/economia/governo-quer-criar-autoridades-de-proteccao-de-dados-e-ia-ate-2030/)** — Diário Económico, 18 November 2026
+
+Data protection authority and AI commission by 2030; 360 institutions to supervise; digital ID, Citizen Portal targets.
 
 </div>
 
@@ -137,6 +159,20 @@ Mozambique's INTIC presented a proposed revision of Decree 67/2017, its e-govern
 **[Parlamento aprova revisão da lei que regula organização e funcionamento da Administração Pública](https://mznews.co.mz/parlamento-aprova-revisao-da-lei-que-regula-organizacao-e-funcionamento-da-administracao-publica/)** — MZNews, 13 November 2026
 
 Mozambique's Assembleia da República approved a revision of the law on the organisation and functioning of the Public Administration, reported on 13 November 2026. The text has about 142 articles in 12 chapters and adds provisions on digital transition, citizen oversight of services and transparency. It replaces a law in force for 14 years.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulation of the Cadastro Social Único</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Executivo Aprova Regulamento do Cadastro Social Único Para Organizar Informação da Protecção Social • Diário Económico](https://www.diarioeconomico.co.mz/2026/11/18/economia/desenvolvimento/executivo-aprova-regulamento-do-cadastro-social-unico-para-organizar-informacao-da-proteccao-social/)** — Diário Económico, 18 November 2026
+
+Cabinet approves single social registry regulation, 17 Nov 2026; data sharing, interoperability and protection rules.
 
 </div>
 
