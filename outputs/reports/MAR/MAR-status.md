@@ -1,12 +1,12 @@
 ---
 title: Morocco: status report
-compiled: 2026-11-14
+compiled: 2026-11-20
 place: MAR
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 13
-sources_cited: 282
+sources_cited: 283
 sections_written: 39
 not_established: 1
 acquire_lines: 61
@@ -147,6 +147,8 @@ The power and cooling layer has become an object of state policy in its own righ
 GitHub counted [over 556,000 developers in Morocco in 2024, up 25% year on year from over 446,000 in 2023](https://github.blog/news-insights/octoverse/octoverse-2024/).
 
 [DGSN technical staff operate the digital identity programme, which depends on a French vendor for credential personalisation systems and engineering support](https://www.idemia.com/wp-content/uploads/2022/06/idemia-national-digital-id-program-kingdom-morocco-case-study-202206.pdf) (2022). The [national digital identity wallet is being built under February 2026 cooperation agreements with two further French firms](https://idtechwire.com/morocco-signs-cooperation-agreements-with-idakto-and-shareid-for-national-digital-wallet/). [The Nexus AI Factory's first phase at Nouaceur is planned to create a few dozen direct jobs](https://www.mmsp.gov.ma/fr/actualites/nexus-core-systems-lance-au-maroc-une-%C2%AB-ai-factory-plateform%C2%BB).
+
+[On 18 November 2026 the Watiqa portal for ordering civil-status documents had been offline for several days with no official explanation](https://marsad.app/news/6afe277050f276281706ef9c/).
 
 [The finance ministry awarded maintenance of its Tadbir debt and treasury system to Omnidata for MAD 4.51 million on 28 March 2025](https://www.challenge.ma/ministere-des-finances-omnidata-assurera-la-maintenance-du-systeme-dendettement-et-de-la-tresorerie-pour-45-millions-de-dh-299353/). [The digital ministry put maintenance and development of the Idarati portal out to international tender at about MAD 1.88 million in September 2025](https://en.expresstv.ma/2025/09/with-a-budget-exceeding-1-8-million-dirhams-the-ministry-launches-an-international-tender-for-the-maintenance-and-development-of-the-idarati-portal/). [The road safety agency sought outside developers for its licence, registration and traffic-offence systems in September 2024](https://aujourdhui.ma/societe/cartes-grises-permis-de-conduire-infractions-la-narsa-modernise-son-systeme-dinformation). [DGSN development and systems teams run the Epolice platform](https://fr.le360.ma/societe/plateforme-epolice-comment-la-dgsn-amorce-sa-transformation-digitale-pour-etre-au-plus-pres-et-en_KBP6WMVA5ZF3ZLZRDOTOE3GSDI/) (January 2025), and [the DGSN developed the E-Blagh portal for reporting illicit online content, live in June 2024](https://fr.le360.ma/societe/dgsn-entree-en-service-du-portail-e-blagh-dedie-au-signalement-de-contenus-illicites-sur-internet_HVBZOQMUXBD6DEQVTATO4K2P6A/).
 
