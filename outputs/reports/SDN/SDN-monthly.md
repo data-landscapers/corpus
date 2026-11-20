@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: SDN
-ledger_rows: 35
+ledger_rows: 36
 not_held: 5
-record: c1a98a10c76c
+record: 9177840dd974
 ---
 
 # News, Oct – Nov 2026
@@ -671,6 +671,20 @@ A joint meeting of Khartoum locality and two Khartoum State councils agreed that
 **[Country Profile on AI Governance: Sudan](https://www.aipolicy.africa/country-profiles/sudan)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Sudan scored 0.23 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 52 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are fellow-assigned, strongest Governance and Regulation (0.50); the profile finds no AI strategy or data protection law, and a Data and AI Authority created by decree in 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data and AI Authority shared central AI laboratory</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[بنية تحتية لتعزيز تطوير قدرات الذكاء الاصطناعي السودانية](https://www.suna.sd/posts/bny-thty-ltaazyz-lttoyr-kdrat-althkaaa-alastnaaay-alsodany)** — Sudan News Agency (SUNA), 19 November 2026
+
+Sudan's Data and Artificial Intelligence Authority is building a shared AI laboratory for students and researchers, SUNA reported on 19 November 2026. It will run offline on infrastructure hosted in Sudan and serve about 100 users at once. Operation is expected in about three months.
 
 </div>
 
