@@ -2,8 +2,8 @@
 type: design-note
 reader: cc
 title: whos-who.md — a Who's Who index of officeholders, built in Corpus
-last_reviewed: 2026-11-19
-status: design, owned by CC; stage 1 and the full reading pass done; Bill's rulings are §10, stage 1's results §11
+last_reviewed: 2026-11-20
+status: design, owned by CC; stages 1 and 2 and the full reading pass done; Bill's rulings are §10, results §11–§12
 ---
 
 # Who's Who index
@@ -51,7 +51,7 @@ Lookups and the cache are CSV. Lookups are hand-correctable and a deriver never 
 |---|---|
 | `slug` | OSINT entity slug |
 | `canonical_slug` | the slug this one publishes under; itself unless two slugs are one body |
-| `name` | published name; defaults to `entity-names.csv` → `display` |
+| `name` | published name; `entity-names.csv` → `display` where derived whole, else the sources' own wording (§12) |
 | `place` | ISO-3 or `X__` code, from the dominant place of the sources tagging it |
 | `kind` | `government` or `other`, from `lookups/whos-who-gov-stems.csv` (§6) unless `hand` |
 | `basis` | `auto` or `hand` |
@@ -87,7 +87,7 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 
 **An appointment reported is a `holds` row in the year of the event.** An acting or interim holder is a `holds` row whose position keeps the source's own qualifier.
 
-**The organisation is resolved against the source's own `entities:` tags first.** The tagged slugs are the short list; the organisation-as-written is matched to one of them through `entity-names.csv` and the variant rules. No match means the row is dropped and counted, not invented.
+**The organisation is resolved against the source's own `entities:` tags first.** The tagged slugs are the short list; the organisation-as-written is matched to one of them through `entity-names.csv` and the variant rules. When none matches, any tagged slug in the catalogue may, by name or stem and in the source's own country (`whos_who_lib.py` states the narrowing). No match means the row is dropped and counted, not invented.
 
 **`year` is the year the source attests, and claims nothing about a term of office.** It is the year of `published`, unless the sentence carries its own date. A source with `date_precision` coarser than a year yields no row. Two sources in two years are two rows; the index never infers a start, an end or the years between, and never turns a `holds` row into a `held` one because time has passed or a successor has appeared. **Nothing in the index says who is in post today**; the latest attested year is the most it claims.
 
@@ -135,7 +135,7 @@ The published table is the join: `people.name`, `year`, `position`, `organisatio
 
 1. `outputs/whos-who/*.csv` has exactly the five columns, in order.
 2. Each tracked lookup and the cache have exactly their declared columns from §4.
-3. Every `source_url` is a catalogue URL; every `slug` exists in `entity-names.csv`.
+3. Every `source_url` is a catalogue URL; every `slug` is a catalogue tag. (Not `entity-names.csv`: a fifth of resolved rows reach a slug it could not name, §12.)
 4. No suppressed person or pair appears in `outputs/`; no suppressed person has a name, alias or cached name anywhere tracked.
 5. No published name appears under two `person_id`s within one organisation, unless `person-rulings.csv` rules the pair `different` — the visible symptom of a missed safe merge.
 6. Every published position passes §5's role-word, deny-list and length test.
@@ -190,6 +190,19 @@ Nothing is open with Bill.
 - **The role list was widened** after the check (board members, advisers, chefs de cabinet, secretaries): positions such as *Membre du Conseil* had failed the role-word lint.
 - **Authors:** 2 of 835 rows were a source's own author named with a post in the text; the cache now drops a name that matches the catalogue's `author`.
 
-**Full reading pass, done 2026-11-19** (paused once at the quota line, resumed at 19:13): 202 + 103 batches. The cache holds 42,357 attestations (1,377 `held`) from 30,923 sources; about 180–250k Sonnet tokens a 150-source batch. **14 sources an agent skipped remain uncached** and go to the next incremental pass. **To run a pass:** empty `C:\whos-who-work\candidates\all\` and `out\all\`, run `whos-who-candidates.py --all` (the cache excludes what is done), launch readers on the brief, and admit each finished batch with `whos-who-cache.py all --only N`. The next stage is 2, the organisations sidecar.
+**Full reading pass, done 2026-11-19** (paused once at the quota line, resumed at 19:13): 202 + 103 batches. The cache holds 42,357 attestations (1,377 `held`) from 30,923 sources; about 180–250k Sonnet tokens a 150-source batch. **14 sources an agent skipped remain uncached** and go to the next incremental pass. **To run a pass:** empty `C:\whos-who-work\candidates\all\` and `out\all\`, run `whos-who-candidates.py --all` (the cache excludes what is done), launch readers on the brief, and admit each finished batch with `whos-who-cache.py all --only N`. Stage 2 followed (§12).
 
 **Still to measure, at stage 3–4:** the share of aliases that are exact entries in `outputs/names/`; whether the catalogue's search takes several names and matches a whole name; and the page weight at full row count against `lint-page-weight.py`'s 2 MB compressed line. The pilot's rate, about 1.5 rows a candidate source, puts the full index near 45,000 rows, under the 100,000-row query-service line.
+
+## 12. Stage 2, organisations, 2026-11-20
+
+**Done.** `scripts/whos_who_lib.py` resolves a cached tuple to a slug; `scripts/whos-who-orgs.py` writes `lookups/organisations.csv` and exits 1 on the finish line; `scripts/test_whos_who_lib.py` pins each wrong match below. `org-lineage.csv` is header-only, filled by hand where needed.
+
+- **Resolution:** 33,358 of 42,357 tuples (79%) reach a slug — 26,378 by the model's hint, 3,030 by a bare country to its government, about 3,950 by the untagged fallback. Dropped: 8,638 name a body no tagged slug matches (ManageEngine, AOS Ltd), 218 match two slugs, 141 name a country with no government slug.
+- **Hints are trusted.** In a sample of 40 where the written form does not match the slug, all 40 were right (acronyms, translations); a hint is overridden only when the organisation names another country.
+- **Organisations:** 6,384, 1,198 of them government; 24 government slugs fold into another (same country, same stem; a national government in any language). The finish line holds: no published government name stands for two countries or none.
+- **Names:** 4,448 from `entity-names.csv`, 1,870 from the sources' wording, 63 *Government of {country}*. 148 slugs (217 rows) are left out because no written form is recognisably theirs — person-named slugs such as `joao-lourenco` among them — until a `hand` row names one.
+- **Wrong matches found and fixed:** a named country ignored (*Burkina Faso Ministry of Health* to Eswatini's); the two Congos; regions stripped as countries (Somaliland and Puntland folded, Tshopo named DR Congo's government); a foreign ministry a story tagged (Sudan's foreign ministry to China's); folds on equal names (*Ministry of Health and Sanitation* is its own incarnation). Embassies and high commissions are `government`, so *Indian High Commission* carries its host.
+- **Left for stage 3 or by hand:** 48 pairs of government slugs in one country with one published name (`bf-ministry-digital-transition`, `ministere-transition-digitale-burkina-faso`) are not folded; folding on a name is what merged two incarnations. The pairs that are one body get `canonical_slug` by hand and an `[ACT]` note to OSINT at publication, per §6.
+
+The next stage is 3, people.
