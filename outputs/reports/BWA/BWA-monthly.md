@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-20
+period: 2026-10-01 to 2026-11-20
 place: BWA
-ledger_rows: 22
+ledger_rows: 23
 not_held: 5
-record: 83a5774387c6
+record: 791890f2747e
 ---
 
 # News, Oct – Nov 2026
@@ -255,6 +255,20 @@ Botswana's labour and home affairs minister Pius Mokgware said the backlog of Om
 **[State of the Nation Address to the First Meeting of the Third Session of the Thirteenth Parliament: The Steady Path Continues](https://drive.google.com/file/d/1y84D7XstYzs9eN9oJJRdr_reZhaSLIZI/view)** — Office of the President, Republic of Botswana (President Duma Gideon Boko), 9 November 2026
 
 Botswana's President Duma Boko delivered the State of the Nation Address to Parliament on 9 November 2026. He reported that a second payment clearing window had processed P66.92 billion of transactions from February to October 2026. He also announced a fee-free basic bank account for people earning under P4,000 a month.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Direct access to China's Cross-Border Interbank Payment System (CIPS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RMB cross-border transactions system launched in Botswana](https://www.thestar.com.my/news/world/2026/11/18/rmb-cross-border-transactions-system-launched-in-botswana)** — The Star (Xinhua), 18 November 2026
+
+Stanbic Bank Botswana first bank with direct CIPS access, via Standard Bank South Africa; launched 17 Nov 2026.
 
 </div>
 
