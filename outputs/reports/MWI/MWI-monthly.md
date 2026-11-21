@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: MWI
-ledger_rows: 35
+ledger_rows: 36
 not_held: 28
-record: 14925a9a7b75
+record: f494f02d8984
 ---
 
 # News, Oct – Nov 2026
@@ -377,6 +377,20 @@ At the COMESA central bank governors' symposium in Lilongwe on 12 November 2026,
 **[Central Bank Governors’ Bureau Strengthen Regional Monetary and Payments Institutions](https://www.comesa.int/central-bank-governors-bureau-strengthen-regional-monetary-and-payments-institutions/)** — Common Market for Eastern and Southern Africa (COMESA), 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The bureau of COMESA's central bank governors met in Lilongwe on 11 November 2026 to review revised charters for the COMESA Clearing House and the COMESA Monetary Institute. COMESA said its Digital Retail Payment Platform, a cross-border retail system in local currencies, was nearing user trials. Live transactions are to be piloted between Malawi and Zambia.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Money mobile-money platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Money Upgrades Mobile Money Platform in Malawi and Tanzania](https://techafricanews.com/2026/11/20/airtel-money-upgrades-mobile-money-platform-malawi-tanzania/)** — Tech Africa News, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
+
+Airtel Money moved its Malawi and Tanzania mobile-money platforms onto Comviva's mobiquity Pay, according to a company release reported on 20 November 2026. The upgrade includes a rebuilt USSD menu. The release says the platform can support digital lending, insurance and government disbursements.
 
 </div>
 
