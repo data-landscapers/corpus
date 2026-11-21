@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-26-shega-data-centre-oversight-eca",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "enacted",
+   "fact": "Shega reports the personal data protection bill was ratified in April 2024, with the Communications Authority given oversight and codifying implementing directives; no commencement is stated.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Personal Data Protection proclamation",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Shega reports the Ethiopian Communications Authority, established under Proclamation 1148/2019, has had oversight over personal data protection added to its powers since April 2024.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Ethiopian Communications Authority",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

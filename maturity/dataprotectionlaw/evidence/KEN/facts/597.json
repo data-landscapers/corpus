@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-ken-nairobi-forum-africa-voice-global-ai-governance",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Capital FM says Kenya has established legal safeguards under the Data Protection Act, 2019, whose Section 37 requires express consent for commercial use of personal data.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2019",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

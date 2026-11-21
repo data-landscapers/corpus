@@ -1,0 +1,37 @@
+{
+ "slug": "2026-11-16-zaf-inforeg-must-not-be-ai-regulator-says-ex-member",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ITWeb reports the Protection of Personal Information Act came into force on 1 July 2021 after a year-long grace period.",
+   "as_of": "2021-07-01",
+   "date_precision": "day",
+   "system": "POPIA",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "ITWeb reports the Information Regulator, headed by Pansy Tlakula, was set up in December 2016 and enforces POPIA.",
+   "as_of": "2016-12",
+   "date_precision": "month",
+   "system": "Information Regulator",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "ITWeb reports the Information Regulator has issued enforcement notices under POPIA, with First National Bank and a TVET college among the most recent found in breach.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "POPIA",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

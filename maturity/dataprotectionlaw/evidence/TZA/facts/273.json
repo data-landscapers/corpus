@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-tza-citizen-new-national-id-integrated-records",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Home Affairs Minister Patrobas Katambi said personal information in Nida's systems is kept secure and confidential in accordance with the Personal Data Protection Act, 2022.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, 2022",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

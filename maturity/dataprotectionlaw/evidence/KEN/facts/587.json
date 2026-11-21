@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-18-governing-ai-in-kenyas-banking-sector-cbk-draft-guidance-notes",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CIPIT's analysis treats Kenya's Data Protection Act (2022) as the existing law under which the CBK draft requires a lawful basis for processing, with consent as the primary basis.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "CIPIT's analysis says the Data Protection (General) Regulations (2022) allow processing without consent on other bases such as legitimate interest.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Data Protection (General) Regulations",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

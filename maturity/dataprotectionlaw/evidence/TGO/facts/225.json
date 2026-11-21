@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-28-tgo-arrete-011-pcs-guce-guford-port-lome",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Interministerial order 011 of 14 October 2026 cites law 2019-014 of 29 October 2019 on the protection of personal data among its legal bases.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "Law 2019-014 on personal data protection",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,37 @@
+{
+ "slug": "2026-11-19-zaf-itweb-inforeg-cyber-defences-ai-governance",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Information Regulator oversees compliance with the Protection of Personal Information Act (POPIA) and has imposed administrative fines for POPIA violations, per its CIO.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "POPIA",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Information Regulator is at work overseeing POPIA, with a CIO speaking for it.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The regulator says it received 2,374 security compromise notifications in 2024/25, about 198 a month, and has about 200,000 information officer registrations; it says it has imposed administrative fines without naming any.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Information Regulator",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

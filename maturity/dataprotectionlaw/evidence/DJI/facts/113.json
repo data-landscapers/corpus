@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-12-dji-adi-djibouti-chiffres-uit-pp26",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "passed",
+   "fact": "Djibouti's communications minister said at ITU PP-26 that the National Assembly adopted a Code du numerique in June 2025, covering personal data protection among other subjects; promulgation is not stated.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Code du numerique",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Code du numerique",
+   "country_label": "Djibouti",
+   "class": "general",
+   "platform": "",
+   "owner": "National Assembly",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-01-mar-gpa-resolution-privacy-enhancing-technologies-cndp",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Global Privacy Assembly resolution names the CNDP as the Data Protection Authority of Morocco, which sponsored the resolution adopted at the Assembly's 48th session.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "CNDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

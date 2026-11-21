@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-28-apc-botswana-e-government-privacy-pitfalls",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Data Protection Act of 2018 was operationalised in October 2021, though the article says some parts are not fully implemented.",
+   "as_of": "2021-10",
+   "date_precision": "month",
+   "system": "Data Protection Act 2018",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The article says an Information Commissioner has been appointed and is setting up a full secretariat.",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "Information Commissioner",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act 2018",
+   "country_label": "Botswana",
+   "class": "general",
+   "platform": "",
+   "owner": "Government of Botswana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

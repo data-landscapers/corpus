@@ -281,7 +281,7 @@ Algeria's 2018 data protection law has been in force since 2023 and its authorit
 
 ### Burkina Faso: 3 Established
 
-Burkina Faso has a 2021 data protection law; its commission warns and inspects, but no source found says whether any sanction has been imposed.
+Burkina Faso has a 2021 data protection law and a new regulator named in 2026; no source found says whether any sanction has been imposed.
 
 *Under revision; Advancing.*
 
@@ -292,6 +292,7 @@ Burkina Faso has a 2021 data protection law; its commission warns and inspects, 
 - At that session the CIL validated its public report for 2024, described as covering outreach on law n°001-2021/AN, compliance controls, and the handling of complaints and authorisation requests, with no counts given ([source, 2025-06-26](https://cil.bf/?p=1506)).
 - The CIL president announced on 18 March 2025 the third national data protection day, planned for 25-30 March 2025, and handed the Prime Minister the CIL's 2022 activity report ([source, 2025-03-18](https://www.sidwaya.info/journee-nationale-de-protection-des-donnees-a-caractere-personnel-la-cil-sollicite-laccompagnement-du-premier-ministre/)).
 - By communiqué of 24 December 2024 the CIL warned that repeated posting of people's images on social media without consent violates law n°001-2021/AN and the penal code; the report adds that the CIL did not make a report public in 2024 ([source, 2024-12-24](https://burkina24.com/2025/02/11/droits-numeriques-au-burkina-faso-le-centre-national-de-presse-norbert-zongo-presente-son-rapport-2024/)).
+- Burkina Faso's Council of Ministers on 19 November 2026 named the ten councillors of ARCOD's first college under organic law 038-2026/ALP of 3 August 2026, after its president was appointed by decree on 16 October 2026 (leFaso.net) ([source, 2026-11-19](https://lefaso.net/spip.php?article150924=)).
 
 ### Burundi: 3 Established
 

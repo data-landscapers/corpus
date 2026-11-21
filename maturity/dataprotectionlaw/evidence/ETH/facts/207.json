@@ -1,0 +1,27 @@
+{
+ "slug": "2024-11-12-cipit-ethiopia-pdpp-2024-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "enacted",
+   "fact": "CIPIT says Ethiopia enacted the Personal Data Protection Proclamation No. 1321/2024, a general law setting data subject rights and controller and processor duties; no commencement date is given.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Personal Data Protection Proclamation No. 1321/2024",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "CIPIT says the Proclamation establishes the Ethiopian Communications Authority as the independent supervisory authority, with which controllers and processors must register; no appointment of its head or members is stated.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Ethiopian Communications Authority",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

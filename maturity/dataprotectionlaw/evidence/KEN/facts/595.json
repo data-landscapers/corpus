@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-19-africa-is-arguing-with-itself",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CIO Africa says Kenya's Data Protection Act underpins the ODPC's cross-border guidance and its section 50 localisation mandate.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "CIO Africa says Regulation 26 under Kenya's Data Protection Act sets what state-interest data must be processed in Kenya.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Regulation 26",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-africa-is-arguing-with-itself",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CIO Africa says the Bank of Ghana directive rests on the Data Protection Act of 2012.",
+   "as_of": "2012",
+   "date_precision": "year",
+   "system": "Data Protection Act 2012",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

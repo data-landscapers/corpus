@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-08-cybersecuritymag-rnpp-benin-securite-donnees-personnelles",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The APDP is reported at work, collaborating with ANIP on training for the agents who run the national persons register.",
+   "as_of": "2025-01-08",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The APDP and ANIP organise training for agents handling the national persons register on processing personal data.",
+   "as_of": "2025-01-08",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

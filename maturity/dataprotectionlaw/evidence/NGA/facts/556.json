@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-08-fij-nincard-illegally-provided-id-services-nimc",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "FIJ cites the Nigeria Data Protection Act 2023 as making unauthorised processing of personal data unlawful, with fines up to N10 million or 1% of gross annual revenue.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": "No decision or sanction under the Act is stated."
+}

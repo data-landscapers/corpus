@@ -1,0 +1,37 @@
+{
+ "slug": "2026-11-13-zaf-itweb-sa-data-legislation-advancing-gaps-remain-ai",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ITWeb quotes Prof Mtuze saying POPIA came fully into effect five years ago and is beginning to deliver results.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "POPIA",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Information Regulator is reported enforcing POPIA, including by administrative fine.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "The Information Regulator recently fined First National Bank R1 million under POPIA after a client data compromise, per ITWeb.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "POPIA",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

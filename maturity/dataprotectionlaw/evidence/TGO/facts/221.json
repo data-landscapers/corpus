@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-tgo-biosecu-crt-le-contr-le-de-vie-des-retrait-s-entre-dans-l-re-du-num-ri",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Togo's finance ministry says BIOSECU-CRT was implemented in conformity with law no. 2019-014 of 29 October 2019 on personal data protection.",
+   "as_of": "2019-10-29",
+   "date_precision": "day",
+   "system": "Law no. 2019-014 on the protection of personal data",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

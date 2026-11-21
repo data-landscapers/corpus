@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-20-bfa-lefaso-arcod-dix-membres-college-conseillers",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Burkina Faso's Council of Ministers on 19 November 2026 named the ten councillors of ARCOD's first college under organic law 038-2026/ALP of 3 August 2026, after its president was appointed by decree on 16 October 2026 (leFaso.net).",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "ARCOD",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ARCOD",
+   "country_label": "Burkina Faso",
+   "class": "authority",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
