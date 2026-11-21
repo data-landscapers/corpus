@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-zwe-ict-ministry-gets-zig1-billion-in-2027-budget",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The 2027 Budget Statement, as reported by Techzim, allocates ZiG5 million to a Zimbabwe Government Data Exchange, within a plan for one standard system letting ministries and agencies share data securely.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Zimbabwe Government Data Exchange",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe Government Data Exchange",
+   "country_label": "Zimbabwe",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

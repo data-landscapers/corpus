@@ -23,9 +23,9 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 | 5 Mature | 6 |
 | 4 Operating | 2 |
 | 3 Established | 8 |
-| 2 Nascent | 25 |
+| 2 Nascent | 26 |
 | 1 Absent | 3 |
-| Unplaced | 3 |
+| Unplaced | 2 |
 | No evidence | 7 |
 
 ## Countries
@@ -157,6 +157,12 @@ A government data exchange platform was under way in 2026; none in service is on
 UCL's DPI Map listed a government data exchange system as in use in 2024; no source found names the bodies it connects.
 
 - The DPI Map (UCL IIPP) lists Botswana's data exchange system as implemented, fully operational and in use, linking the Department of Shared Digital Services page, checked 1 October 2024; the line gives no date for the system, so as_of is the check date ([source, 2024-10-01](https://dpimap.org/data/)).
+
+### Burundi: 2 Nascent
+
+A government data exchange platform went out to tender in November 2026; no source found says one is in service.
+
+- On 17 November 2026 PAFEN issued an IDA-funded request for proposals (Lot 2, 15 months) for a government interoperability platform on the X-Road model, saying institutions currently work largely in silos with limited standardised data exchange ([source, 2026-11-17](https://projects.banquemondiale.org/fr/projects-operations/procurement-detail/OP00482177)).
 
 ### Chad: 2 Nascent
 
@@ -329,12 +335,6 @@ A 2025 source says government systems have no data exchange platform.
 A 2026 source says government systems have no data exchange platform.
 
 - The World Bank project information document says the lack of an interoperability layer in Seychelles sustains manual processing of government services ([source, 2026-10-07](http://documents.worldbank.org/curated/en/099100726053521931)).
-
-### Burundi: Unplaced
-
-Nothing found since 2023 names a government data exchange platform, so no stage is set.
-
-Not established: Nothing found since October 2023 names a government data exchange platform; a 2022 World Bank project was to finance one.
 
 ### Eritrea: Unplaced
 

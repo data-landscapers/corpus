@@ -5,3 +5,6 @@ BDI,Isoko platform,Burundi,other,,,,2022-05-31-world-bank-burundi-digital-founda
 BDI,Payments switch,Burundi,other,,,,2022-05-31-world-bank-burundi-digital-foundations-project-pad
 BDI,Public key infrastructure (PKI),Burundi,other,,,,2022-05-31-world-bank-burundi-digital-foundations-project-pad
 BDI,Data Exchange System,Burundi,exchange,,Public,,2026-11-06-dpi-map-2026-11-12
+BDI,Government Interoperability Platform (GIP),Burundi,exchange,X-Road,SETIC,,2026-11-18-bdi-wb-op00482177-pafen-gip-pki-rfp
+BDI,e-KORI,Burundi,other,,OBR,,2026-08-10-burundi-ekori-tax-registration-data-exchange
+BDI,"OpenFn workflows (SIDAInfo, IBIPIMO, DHIS2)",Burundi,other,OpenFn,Ministry of Public Health,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi

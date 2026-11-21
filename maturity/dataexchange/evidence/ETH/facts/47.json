@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-12-biometric-update-ethiopia-digital-id-wb-private-sector",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The World Bank's $350 million Digital ID for Inclusion and Services Project will also fund an interoperable data exchange platform in Ethiopia.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "interoperable data exchange platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "interoperable data exchange platform",
+   "country_label": "interoperable data exchange platform",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

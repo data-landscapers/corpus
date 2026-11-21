@@ -15,6 +15,9 @@ BDI,Isoko platform,Burundi,other,,,,2022-05-31-world-bank-burundi-digital-founda
 BDI,Payments switch,Burundi,other,,,,2022-05-31-world-bank-burundi-digital-foundations-project-pad
 BDI,Public key infrastructure (PKI),Burundi,other,,,,2022-05-31-world-bank-burundi-digital-foundations-project-pad
 BDI,Data Exchange System,Burundi,exchange,,Public,,2026-11-06-dpi-map-2026-11-12
+BDI,Government Interoperability Platform (GIP),Burundi,exchange,X-Road,SETIC,,2026-11-18-bdi-wb-op00482177-pafen-gip-pki-rfp
+BDI,e-KORI,Burundi,other,,OBR,,2026-08-10-burundi-ekori-tax-registration-data-exchange
+BDI,"OpenFn workflows (SIDAInfo, IBIPIMO, DHIS2)",Burundi,other,OpenFn,Ministry of Public Health,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
 BEN,Xroad-BJ,Benin,exchange,,ASIN,,2026-07-28-lanation-interoperabilite-regles-acces-xroad-bj
 BEN,UXP,Benin,exchange,UXP,Government of Benin,,2026-07-11 UXP Directory
 BEN,XROAD BJ national interoperability platform,Benin,exchange,,ASIN,,2020-03-18-benin-cadre-interoperabilite-xroad-bj
@@ -42,6 +45,7 @@ BEN,Plateforme Nationale d'Interopérabilité (PNI),BEN,exchange,,ASIN,,2026-08-
 BEN,XROAD BJ,Benin,exchange,X-Road via UXP,ASIN,,2026-08-12-ben-how-did-you-manage-to-connect-an-entire-state
 BEN,Interoperability scheme (X-Road),Benin X-Road interoperability scheme,exchange,X-Road,,,2025-01-01-ben-transformer-les-donnees-geospatiales-du-benin-en-levier-de-politique-p
 BEN,X-Road BJ,Benin,exchange,UXP,Public,,2026-11-06-dpi-map-2026-11-12
+BEN,X-Road,Benin interoperability infrastructure,exchange,X-Road,ASIN,,2023-11-29-ega-benin-staying-on-top-of-digital-transformation
 BFA,service-public.gov.bf national portal,Burkina Faso,other,,Government of Burkina Faso,,2026-05-07-burkina-faso-central-portal-e-services
 BFA,Data Exchange System,Burkina Faso,exchange,,Public,,2026-11-06-dpi-map-2026-11-12
 BWA,Information gateway,Botswana,exchange,,Digital Services Authority,,2025-10-17-bwa-digital-services-act-2025
@@ -71,6 +75,7 @@ CIV,Plateforme d'interopérabilité de l'administration publique,Côte d'Ivoire,
 CIV,Plateforme d'Interopérabilité de l'Administration (UXP),CIV,exchange,Cybernetica UXP (X-Road based),SNDI,,2025-09-25-civ-lancement-officiel-de-la-plateforme-d-interoperabilite-de-l-administra
 CIV,plateforme d'interoperabilite de l'administration publique,Cote d'Ivoire,exchange,,SNDI,,2025-09-26-civ-cote-d-ivoire-l-interoperabilite-un-catalyseur-de-la-transformation-di
 CIV,IAN (Integrated Administration Network),Cote d'Ivoire,exchange,,Public,,2026-11-06-dpi-map-2026-11-12
+CIV,national interoperability platform (health),Cote d'Ivoire,other,,Health Ministry,,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero
 CMR,national interoperability infrastructure,Cameroon,exchange,,,,2026-08-21-biometricupdate-cameroon-national-interoperability-infrastructure
 CMR,CNEF IT platform,Cameroon,other,,CNEF,,2023-06-07-cnef-essential-actor-for-financial-inclusion-in-cameroun
 CMR,"plateforme nationale d'interoperabilite (OpenHIM, OpenFn)",Cameroon,other,"OpenHIM, OpenFn on a server at CAMTEL",Ministry of Public Health,,2026-11-03-cmr-sant-num-rique-le-cameroun-acc-l-re-l-interconnexion-de-ses-syst-mes-d
@@ -150,6 +155,7 @@ EGY,G2G digital hub,Egypt,exchange,,Ministry of Communications and Information T
 EGY,Egyptian Tax Authority real-time government data links,Egypt,exchange,,Egyptian Tax Authority,,2026-07-02-egy-eta-ai-strategy-tax-administration-almasryalyoum
 EGY,"Integrated electronic link (Planning, Finance, National Investment Bank)",Egypt,exchange,,Ministry of Planning,,2026-10-26-egy-planning-finance-nib-electronic-link
 EGY,national API gateway (MuleSoft Anypoint),Egypt,exchange,MuleSoft Anypoint Platform,eFinance with Salesforce,,2025-11-24-egy-efinance-salesforce-collaborate-to-build-egypt-s-agentic-ai-powered-ap
+EGY,Comprehensive National Data System,Egypt,other,,Cabinet / IDSC,,2026-11-18-egy-sis-cabinet-comprehensive-national-data-system
 ERI,ASYCUDA World,Eritrea,other,UNCTAD ASYCUDA World,Government of Eritrea (customs),,2026-01-08 Eritrea launches ASYCUDA World digital customs system
 ETH,national data exchange platform,Ethiopia,exchange,,Government of Ethiopia,,2026-07-25-birrmetrics-mesob-meets-the-monster-it-was-built-to-kill
 ETH,MESOB,Ethiopia,other,,Federal MESOB service,,2026-07-25-birrmetrics-mesob-meets-the-monster-it-was-built-to-kill
@@ -157,6 +163,7 @@ ETH,whole-of-government data exchange platform,Ethiopia,exchange,,Federal Democr
 ETH,Fayda,Ethiopia,other,,,,2023-12-20-ethiopia-digital-id-financing-agreement
 ETH,Fayda,Ethiopia,other,,,,2026-06-16 The financing gap for data exchange is well documented so why does it persist
 ETH,EthioConnect,EthioConnect national data exchange platform,exchange,,Government of Ethiopia,,2024-12-28-eth-atalayar-dt-global-digital-government-strategy
+ETH,interoperable data exchange platform,interoperable data exchange platform,exchange,,,,2024-01-12-biometric-update-ethiopia-digital-id-wb-private-sector
 GAB,interoperability platform,Gabon,exchange,,"ANINF (National Agency for Digital Infrastructure and Frequencies) implementing, under the Ministry of Digital Economy",,2026-09-09-techafricanews-gabon-four-digital-projects
 GAB,National Digital Identity System,Gabon,other,,,,2026-09-09-techafricanews-gabon-four-digital-projects
 GAB,government messaging system,Gabon,other,,,,2026-09-09-techafricanews-gabon-four-digital-projects
@@ -221,6 +228,7 @@ LBY,National Data Exchange (LY-NDEX),Libya,exchange,,,,2026-03-29-lby-chairman-o
 LBY,National Data Distributor,Libya,exchange,,General Authority for Communications and Informatics,,2026-06-01-lby-al-baour-libya-possesses-high-digital-readiness-and-internet-penetrati
 LBY,Secure Government Network,Libya,other,,Ministry of Local Government,,2024-02-26-lby-local-government-secure-government-network-project
 LBY,national data distributor,Libya,other,,General Information Authority,,2026-11-14-lby-lana-gia-digital-transformation-competitiveness-forum
+LBY,national data exchange network,national data exchange network,exchange,,General Information Authority,,2025-04-17-lby-the-national-center-for-health-system-development-discusses-with-the-g
 LSO,X-Road,Lesotho,exchange,X-Road,MICSTI,,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE
 LSO,MOSIP,Lesotho,other,MOSIP,MICSTI,,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE
 LSO,National Data Exchange,National Data Exchange,exchange,X-Road,MICSTI,,2026-10-21-lso-the-government-of-lesotho-remains-committed-to-strengthening-secure-da
@@ -450,6 +458,7 @@ TUN,Tej,Tunisia,other,,Ministere des Finances,,2024-06-01-tun-tunisie-lancement-
 TUN,UXP/WSO2,Tunisia,exchange,UXP,,,2025-12-18-worldbank-govtech-dataset-dec2025
 TUN,Plateforme nationale d'interoperabilite,Tunisia,exchange,,,,2024-03-19-tun-tunisie-transformation-digitale-l-etat-accelere-les-chantiers-numeriqu
 TUN,Unified Exchange Platform - UXP,TUN,exchange,UXP,,,2026-11-06-dpi-map-2026-11-12
+TUN,national interoperability platform,Tunisia,exchange,,Ministry of Communication Technologies,,2026-11-18-tun-parliament-begins-examining-2027-communication-technologies-budget
 TZA,GovESB (Government Enterprise Service Bus),Tanzania,exchange,,e-Government Authority,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
 TZA,GePG,Tanzania,other,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
 TZA,GovESB (e-GA),TZA,exchange,,e-Government Authority (e-GA),,2025-06-23-majaliwa-taasisi-umma-kujiunga-govesb
@@ -538,3 +547,4 @@ ZWE,Government Service Bus,Zimbabwe,exchange,,"Ministry of ICT, Postal and Couri
 ZWE,Ndarama Enterprise Resource Planning system,Zimbabwe,other,,"Ministry of ICT, Postal and Courier Services",,2026-07-30-zimbabwe-ndarama-launch-ai-sovereignty-digital-gold
 ZWE,Government Service Bus,Government Service Bus,other,,"Ministry of ICT, Postal and Courier Services",,2026-05-11-zwe-government-orders-ministries-to-integrate-ict-systems
 ZWE,OpenHIM,OpenHIM Zimbabwe,exchange,OpenHIM,Ministry of Health and Child Care,,2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d
+ZWE,Zimbabwe Government Data Exchange,Zimbabwe,exchange,,"Ministry of ICT, Postal and Courier Services",,2026-11-19-zwe-ict-ministry-gets-zig1-billion-in-2027-budget

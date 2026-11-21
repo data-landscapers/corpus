@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-18-egy-sis-cabinet-comprehensive-national-data-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Comprehensive National Data System",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Cabinet / IDSC",
+   "tiers": ""
+  }
+ ],
+ "note": "A draft resolution for a centralised monitoring database; no exchange platform procured, built or live is stated."
+}

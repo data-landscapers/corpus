@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-tun-parliament-begins-examining-2027-communication-technologies-budget",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The ministry's 2027 goals, per the parliamentary committee report, include expanding the existing national interoperability platform to all ministries and reaching 200 interoperability services between public structures.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "national interoperability platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national interoperability platform",
+   "country_label": "Tunisia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

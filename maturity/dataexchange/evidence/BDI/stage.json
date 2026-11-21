@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "unplaced",
-      "platform": "",
+      "stage": "2",
+      "platform": "underway",
       "reach": "",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 names a government data exchange platform; a 2022 World Bank project was to finance one.",
-      "note": "Rebuild 2026-10-28: the only facts are from a 2022 World Bank appraisal, before the window. Nothing since says a platform exists or is under way.",
-      "as_at": "2026-10-28"
+      "stage_sources": "BDI-003",
+      "gaps": "No source found since October 2023 says a government data exchange platform is in service, counts the bodies connected or gives a figure for its use.",
+      "note": "On 17 November 2026 the PAFEN project issued an IDA-funded request for proposals for a government interoperability platform on the X-Road model (BDI-003), so a platform is being procured: stage 2. Nothing is in service, so not 3.",
+      "as_at": "2026-11-21"
     }
   ]
 }

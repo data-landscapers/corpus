@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-10-burundi-ekori-tax-registration-data-exchange",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-KORI",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "",
+   "owner": "OBR",
+   "tiers": ""
+  }
+ ],
+ "note": "e-KORI is the tax authority's registration platform; it receives ADB portal data but is not described as a government data exchange platform."
+}

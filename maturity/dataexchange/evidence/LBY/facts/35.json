@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-17-lby-the-national-center-for-health-system-development-discusses-with-the-g",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Libya's General Information Authority says a cooperation agreement with the National Center for Health System Development provides for activating the electronic link between the Ministry's systems and the Authority's national database through the national data exchange network.",
+   "as_of": "2025-04-17",
+   "date_precision": "day",
+   "system": "national data exchange network",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national data exchange network",
+   "country_label": "national data exchange network",
+   "class": "exchange",
+   "platform": "",
+   "owner": "General Information Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-29-ega-benin-staying-on-top-of-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The e-Governance Academy and ASIN's head of eServices say the X-Road data exchange platform has been implemented in Benin as the interoperability infrastructure behind its e-services.",
+   "as_of": "2023-11-29",
+   "date_precision": "day",
+   "system": "X-Road",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "X-Road",
+   "country_label": "Benin interoperability infrastructure",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": "No count of connected bodies or usage figure."
+}
