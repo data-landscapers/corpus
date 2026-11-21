@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-20-gin-signature-electronique-feuille-de-route-confiance-numerique",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ANDE's director general and the minister cited the 19 August 2026 presidential decree instituting electronic signature, with ANDE as its regulator, alongside Article 1003 of the Civil Code; the decree covers electronic signature only.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "decree of 19 August 2026 on electronic signature",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The minister said the first step, the regulatory framework and the implementing orders of the decree, is now complete; nine draft implementing texts had been examined on 21 October 2026.",
+   "as_of": "2026-11-20",
+   "date_precision": "day",
+   "system": "decree of 19 August 2026 on electronic signature",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

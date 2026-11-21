@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-15-civ-digitalmag-anssi-pki-racine-signature-electronique",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The report says the 2013 cybersecurity laws, with the 2021 and 2024 decrees, give ANSSI the legal base to give probative force to secure electronic signatures.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "2013 cybersecurity laws",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

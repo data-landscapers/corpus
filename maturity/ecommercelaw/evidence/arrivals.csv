@@ -1378,7 +1378,7 @@ AGO,83,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,
 BDI,36,2024-06-12-bdi-cahier-special-des-charges-bdi23005-10016,2026-11-17,instrument,2026-11-17
 BDI,37,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 BDI,38,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
-BEN,64,2026-11-13-ben-beninwebtv-article-550-code-numerique-cour-constitutionnelle,2026-11-17,,
+BEN,64,2026-11-13-ben-beninwebtv-article-550-code-numerique-cour-constitutionnelle,2026-11-17,nothing,2026-11-21
 BEN,65,2022-07-11-wearetech-benin-cancels-non-biometric-id-cards,2026-11-17,old,2026-11-17
 BEN,66,2021-04-01-paradigm-londa-benin-digital-rights-2020,2026-11-17,old,2026-11-17
 BEN,67,2019-10-09-alb-data-protection-in-benin,2026-11-17,old,2026-11-17
@@ -1400,8 +1400,8 @@ CAF,26,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-a
 CAF,27,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 CAF,28,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,2026-11-17
 CAF,29,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
-CIV,82,2026-11-15-civ-digitalmag-anssi-pki-racine-signature-electronique,2026-11-17,,
-CIV,83,2026-11-16-civ-wearetech-faba-finance-credit-platform-ghost-score,2026-11-17,,
+CIV,82,2026-11-15-civ-digitalmag-anssi-pki-racine-signature-electronique,2026-11-17,fact,2026-11-21
+CIV,83,2026-11-16-civ-wearetech-faba-finance-credit-platform-ghost-score,2026-11-17,nothing,2026-11-21
 CIV,84,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 CIV,85,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
 CIV,86,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
@@ -1533,7 +1533,7 @@ RWA,81,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,
 SDN,47,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 SDN,48,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 SDN,49,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
-SEN,72,2026-11-16-civ-wearetech-faba-finance-credit-platform-ghost-score,2026-11-17,,
+SEN,72,2026-11-16-civ-wearetech-faba-finance-credit-platform-ghost-score,2026-11-17,nothing,2026-11-21
 SEN,73,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
 SEN,74,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 SEN,75,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
@@ -1567,7 +1567,7 @@ TGO,69,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-a
 TGO,70,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 TGO,71,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,2026-11-17
 TGO,72,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
-TUN,84,2026-11-16-mtc-mobile-id-faq,2026-11-17,,
+TUN,84,2026-11-16-mtc-mobile-id-faq,2026-11-17,fact,2026-11-21
 TUN,85,2023-02-16-mtc-avis-appel-offres-26-mobile-id,2026-11-17,old,2026-11-17
 TUN,86,1993-03-22-tunisie-loi-93-27-carte-nationale-identite-consolidee,2026-11-17,old,2026-11-17
 TUN,87,2026-11-16-bloomsbury-biometric-digital-id-ch02-tunisia-jouini,2026-11-17,instrument,2026-11-17
@@ -1581,7 +1581,7 @@ TZA,67,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17
 TZA,68,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
 TZA,69,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 TZA,70,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
-UGA,108,2026-11-15-uga-pulse-ucc-4500-wifi-operators-licensing-extension,2026-11-17,,
+UGA,108,2026-11-15-uga-pulse-ucc-4500-wifi-operators-licensing-extension,2026-11-17,nothing,2026-11-21
 UGA,109,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 UGA,110,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
 UGA,111,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
@@ -1602,7 +1602,7 @@ ZWE,40,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17
 ZWE,41,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
 ZWE,42,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 ZWE,43,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
-COD,70,2026-11-17-cod-kibassa-investors-data-center-cdn-dot-cd,2026-11-17,,
+COD,70,2026-11-17-cod-kibassa-investors-data-center-cdn-dot-cd,2026-11-17,nothing,2026-11-21
 AGO,84,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 BDI,39,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 BEN,74,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
@@ -1623,7 +1623,7 @@ ETH,55,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-1
 GHA,66,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 GIN,52,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 GMB,60,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-GNB,30,2026-11-18-governo-analisa-novas-leis-sobre-economia-digital-e-proteccao-social,2026-11-18,,
+GNB,30,2026-11-18-governo-analisa-novas-leis-sobre-economia-digital-e-proteccao-social,2026-11-18,fact,2026-11-21
 KEN,89,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 LBY,26,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 LBY,27,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
@@ -1656,13 +1656,13 @@ ZMB,86,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-1
 ZWE,44,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 CMR,55,2026-11-19-cmr-une-mise-a-jour-indispensable-dans-la-gestion-et-la-protection-des,2026-11-20,instrument,2026-11-20
 MOZ,82,2026-10-08-moz-resolucao-80-2026-plano-quinquenal-erdap-2026-2030,2026-11-20,instrument,2026-11-20
-UGA,115,2026-11-19-uganda-establishes-national-root-certification-authority-for-secure-digital-services,2026-11-20,,
+UGA,115,2026-11-19-uganda-establishes-national-root-certification-authority-for-secure-digital-services,2026-11-20,nothing,2026-11-21
 CMR,56,2026-11-19-xaf-digitalbusiness-mene-afrique-un-seul-marche-numerique,2026-11-21,instrument,2026-11-21
 GAB,41,2026-11-19-xaf-digitalbusiness-mene-afrique-un-seul-marche-numerique,2026-11-21,instrument,2026-11-21
 GHA,67,2026-11-19-xaf-digitalbusiness-mene-afrique-un-seul-marche-numerique,2026-11-21,instrument,2026-11-21
-GIN,53,2026-11-20-gin-signature-electronique-feuille-de-route-confiance-numerique,2026-11-21,,
+GIN,53,2026-11-20-gin-signature-electronique-feuille-de-route-confiance-numerique,2026-11-21,fact,2026-11-21
 KEN,90,2026-11-19-xaf-digitalbusiness-mene-afrique-un-seul-marche-numerique,2026-11-21,instrument,2026-11-21
 NAM,80,2026-07-01-nam-ippr-preventing-overreach-cybercrime-proposals,2026-11-21,instrument,2026-11-21
 NGA,103,2026-11-19-xaf-digitalbusiness-mene-afrique-un-seul-marche-numerique,2026-11-21,instrument,2026-11-21
-TUN,96,2026-11-19-tun-assabah-national-e-commerce-strategy-march-2027,2026-11-21,,
-ZAF,83,2026-11-18-zaf-compcom-settlement-x-corp-xai-mdpmi,2026-11-21,,
+TUN,96,2026-11-19-tun-assabah-national-e-commerce-strategy-march-2027,2026-11-21,nothing,2026-11-21
+ZAF,83,2026-11-18-zaf-compcom-settlement-x-corp-xai-mdpmi,2026-11-21,nothing,2026-11-21
