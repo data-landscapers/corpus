@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-swz-another-govt-online-services-blackout",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Eswatini Observer reports company name searches, name reservations and company registrations were online services made unavailable by the 17 November 2026 shutdown.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Government in Your Hand",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-15-mli-le-mali-prepare-les-requetes-et-les-verdicts-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Mali's Justice Minister announced that a digital management platform for the trade and personal-property credit register is nearing completion, with no commissioning date given.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "Plateforme de gestion numérique du registre du commerce et du crédit mobilier",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-17-ken-inside-the-regulatory-decision-that-spared-brs-a-financial-penalty-after-its-massive-data-breach",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Business Registration Service company registration systems",
+   "country_label": "Kenya",
+   "class": "business",
+   "platform": "",
+   "owner": "Business Registration Service",
+   "tiers": ""
+  }
+ ],
+ "note": "Article reports a breach of the BRS registry, not whether registration is online, the number is shared or beneficial owners of all companies are held."
+}
