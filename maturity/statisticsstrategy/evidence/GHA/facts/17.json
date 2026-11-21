@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-20-gha-data-forum-statistics-bill-national-statistics-fund",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "The Third National Strategy for the Development of Statistics (NSDS III) has been finalised, and the 2026 Data Forum directed GSS to secure its Cabinet adoption and launch it within six months of adoption.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "NSDS III",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

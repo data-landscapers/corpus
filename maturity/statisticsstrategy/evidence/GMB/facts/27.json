@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-gmb-gambias-20-year-old-statistics-law-cant-handle-ai-and-data-revolution-gbos-warns",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "National Statistics Council member Sarata Konateh called for full implementation of the National Strategy for the Development of Statistics III, which the article says runs from 2024 to 2028.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "NSDS III",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NSDS III",
+   "country_label": "NSDS III 2024-2028",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Gambia Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

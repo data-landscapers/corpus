@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "3",
-   "standing": "adopted",
-   "review": "",
-   "evaluation": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-003;UGA-001",
-   "gaps": "No source found dates a review of progress on the strategy in the last three years.",
-   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "3",
+      "standing": "adopted",
+      "review": "",
+      "evaluation": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-007;UGA-001",
+      "gaps": "No source found dates a review of progress on the strategy in the last three years.",
+      "note": "PNSD IV was launched in November 2026 and is in operation, so a current strategy is held. No review of its progress is held, so not stage 4.",
+      "as_at": "2026-11-21"
+    }
+  ]
 }

@@ -258,9 +258,9 @@ The NSDS 2024-2029 is current; no review of its progress since 2023 is known.
 
 ### Uganda: 3 Established
 
-The PNSD is current; no review of its progress since 2023 is known.
+Uganda launched its fourth national statistics plan in November 2026; no review of its progress is known.
 
-- The UBOS Board chairman said coordination was strengthened through the Plan for National Statistics Development (PNSD), aligned with the National Development Plan; no period is given ([source, 2026-08-07](https://www.finance.go.ug/media-center/news-and-updates/finance-minister-calls-stronger-evidence-based-statistics-support)).
+- Nile Post reports the Uganda Bureau of Statistics launched the Fourth Plan for National Statistical Development (PNSD IV) during Africa Statistics Week 2026, aligned with the Fourth National Development Plan; no period is stated ([source, 2026-11-15](https://nilepost.co.ug/news/387592/ubos-unveils-new-data-strategy-to-support-ugandas-tenfold-economic-growth-ambition)).
 - UBOS handed over 4,050 tablets and six computers under the Fourth Plan for National Statistical Development (PNSD IV), so the plan is in operation; no period is given ([source, 2026-02-12](https://chimpreports.com/ubos-donates-4050-census-tablets-to-strengthen-national-data-systems/)).
 
 ### Zambia: 3 Established
