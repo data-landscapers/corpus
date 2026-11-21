@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-15-dza-jeune-independant-hcn-accompaniment-dzair-digital-services",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The article says a national data governance framework was instituted by decree 25-320.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "Décret 25-320 national data governance framework",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
