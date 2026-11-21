@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-zaf-home-affairs-passports-480-bank-branches",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Minister Leon Schreiber says that if an applicant's photo does not match the record Home Affairs holds on the population register, the passport will not be manufactured.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "population register",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

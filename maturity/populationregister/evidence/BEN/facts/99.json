@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-08-cybersecuritymag-rnpp-benin-securite-donnees-personnelles",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The article says the national persons register (RNPP) centralises the data of all citizens, with more than ten million people on it.",
+   "as_of": "2025-01-08",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-20-idtechwire-giz-benin-digital-identity-eservices-tender",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ID Tech Wire reports that Benin's National Register of Persons maintains civil status and biometric data for about 10 million citizens and underpins its digital services.",
+   "as_of": "2024-12-20",
+   "date_precision": "day",
+   "system": "National Register of Persons",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
