@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-gmb-gambias-20-year-old-statistics-law-cant-handle-ai-and-data-revolution-gbos-warns",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Gambia Bureau of Statistics' Deputy Statistician-General Alieu Saho said the Statistics Act of 2005 governs official statistics and is outdated, calling for its review so a revised law can be in place next year.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Statistics Act 2005",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Statistics Act 2005",
+   "country_label": "Statistics Act 2005",
+   "class": "law",
+   "platform": "",
+   "owner": "Gambia Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

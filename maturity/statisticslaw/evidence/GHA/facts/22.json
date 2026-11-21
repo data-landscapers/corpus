@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-20-gha-data-forum-statistics-bill-national-statistics-fund",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The 2026 Data Forum urged all producers of official statistics to apply the confidentiality and data protection provisions of the Statistical Service Act, 2019 (Act 1003), which it treats as in force.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Statistical Service Act, 2019 (Act 1003)",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "A draft Statistics Bill incorporating a new financing model and a proposed National Statistics Fund awaits approval, and the Data Forum urged GSS to expedite its submission to Cabinet and Parliament.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Statistics Bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
