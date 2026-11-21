@@ -970,7 +970,7 @@ GAB,29,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,
 GAB,30,2022-06-01-chrgj-paving-digital-road-to-hell,2026-11-17,instrument,2026-11-17
 GAB,31,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
 GHA,43,2020-10-26-world-bank-wuri-west-africa-prize-cross-border-social-protection,2026-11-17,old,2026-11-17
-GHA,44,2025-08-05-roberts-decolonising-digital-public-infrastructure,2026-11-17,,
+GHA,44,2025-08-05-roberts-decolonising-digital-public-infrastructure,2026-11-17,capped,2026-11-21
 GHA,45,2017-05-24-world-bank-making-everyone-count-identification-africa,2026-11-17,old,2026-11-17
 GHA,46,2024-01-01-smart-africa-creating-foundations-africas-digital-future,2026-11-17,instrument,2026-11-17
 GHA,47,2021-03-01-gsma-digital-identity-accelerating-financial-inclusion-crisis,2026-11-17,instrument,2026-11-17
@@ -1246,3 +1246,12 @@ LBR,43,2026-01-01-xgl-wb-raising-revenue-right-drm-roadmap,2026-11-17,instrument
 SLE,49,2026-09-28-sle-world-bank-ai-readiness-diagnostic,2026-11-17,instrument,2026-11-17
 SWZ,37,2026-11-16-eyeop-turns-to-social-registry-to-improve-targeting-of-30-000-youth-be,2026-11-18,,
 MOZ,57,2026-10-08-moz-resolucao-80-2026-plano-quinquenal-erdap-2026-2030,2026-11-20,instrument,2026-11-20
+EGY,61,2024-12-10-raya-holding-africa50-15m-raya-data-center-tier-iii,2026-11-21,,
+ETH,73,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
+GHA,58,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
+GNB,31,2026-05-01-gnb-national-social-protection-and-disaster-risk-management-in-guinea-biss,2026-11-21,instrument,2026-11-21
+MRT,71,2026-11-13-mauritanie-691-millions-d-euros-de-financements-de-la-banque-mondiale,2026-11-21,,
+MWI,72,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
+NGA,94,2025-09-18-nga-punch-cash-transfer-fg-pays-n330bn-to-8-1m-households,2026-11-21,capped,2026-11-21
+SEN,61,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
+UGA,63,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21

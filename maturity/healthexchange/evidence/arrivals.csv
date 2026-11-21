@@ -348,7 +348,7 @@ AGO,12,2025-12-22-ago-falta-de-uniformizacao-do-sistema-informatico-de-saude-dif
 AGO,13,2025-11-30-worldbank-icr-redisse-iv-health-surveillance,2026-11-17,instrument,2026-11-17
 BDI,22,2025-01-23-bdi-au-burundi-la-digitalisation-pour-interconnecter-les-services-du-minis,2026-11-17,,
 BDI,23,2023-03-01-bdi-etude-prospective-pour-documenter-l-apport-de-l-informatisation-dans-l,2026-11-17,instrument,2026-11-17
-BEN,9,2025-08-04-ben-benin-sante-vers-un-modele-plus-equitable-et-digitalise-des-2026,2026-11-17,,
+BEN,9,2025-08-04-ben-benin-sante-vers-un-modele-plus-equitable-et-digitalise-des-2026,2026-11-17,capped,2026-11-21
 BEN,10,2020-09-01-ben-benin-s-digital-health-id,2026-11-17,instrument,2026-11-17
 BEN,11,2026-11-16-bloomsbury-biometric-digital-id-ch10-benin-musoni,2026-11-17,instrument,2026-11-17
 BWA,25,2022-01-01-bwa-the-use-of-health-informatics-and-information-technology-the-situation,2026-11-17,old,2026-11-17
@@ -381,7 +381,7 @@ LSO,12,2022-12-01-lso-lesotho-s-electronic-medical-record-seamlessly-track-progr
 LSO,13,2024-12-12-lso-icap-si-ii-end-of-project-evaluation,2026-11-17,instrument,2026-11-17
 LSO,14,2019-01-01-lso-national-health-strategic-plan-2019-2023,2026-11-17,instrument,2026-11-17
 MAR,27,2026-04-15-mar-head-of-government-chairs-meeting-on-reform-of-morocco-s-national-heal,2026-11-17,capped,2026-11-20
-MAR,28,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
+MAR,28,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,capped,2026-11-21
 MDG,10,2026-09-30-mdg-validation-du-cadre-national-d-architecture-d-entreprise-de-la-sante-n,2026-11-17,,
 MDG,11,2026-08-14-mdg-caesn-v0-0-2-cadre-architecture-entreprise-sante-numerique,2026-11-17,instrument,2026-11-17
 MDG,12,2026-08-14-mdg-cnisn-v0-0-2-cadre-national-interoperabilite-sante-numerique,2026-11-17,instrument,2026-11-17
@@ -403,7 +403,7 @@ RWA,28,2026-05-01-rwa-thematic-snapshot-rwanda-digitizing-rural-health-facilitie
 RWA,29,2024-07-03-rwa-factors-influencing-data-quality-in-electronic-health-record-systems-i,2026-11-17,instrument,2026-11-17
 RWA,30,2024-06-27-rwa-lessons-from-the-design-and-rollout-of-an-electronic-medical-record-sy,2026-11-17,instrument,2026-11-17
 SEN,15,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
-SEN,16,2025-06-23-sen-du-msas-tout-savoir-sur-ce-moteur-de-changement-du-systeme-de-sante-se,2026-11-17,,
+SEN,16,2025-06-23-sen-du-msas-tout-savoir-sur-ce-moteur-de-changement-du-systeme-de-sante-se,2026-11-17,capped,2026-11-21
 SEN,17,2025-04-28-sen-digitalisation-du-systeme-de-sante-le-gouvernement-engage-six-projets,2026-11-17,,
 SOM,12,2025-06-01-som-evaluation-of-sweden-s-support-to-health-systems-in-somalia-through-ph,2026-11-17,instrument,2026-11-17
 SSD,9,2023-07-01-civ-making-the-case-for-investing-in-routine-health-information-systems-rh,2026-11-17,instrument,2026-11-17
@@ -414,7 +414,7 @@ TCD,9,2025-11-30-worldbank-icr-redisse-iv-health-surveillance,2026-11-17,instrum
 TGO,12,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
 TUN,24,2026-04-03-tun-walid-naija-chaque-tunisien-aura-bientot-un-identifiant-de-sante-uniqu,2026-11-17,,
 TUN,25,2025-05-06-tun-project-appraisal-document-tunisia-health-system-strengthening-project,2026-11-17,instrument,2026-11-17
-TZA,27,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
+TZA,27,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,capped,2026-11-21
 TZA,28,2025-04-21-tza-applying-pest-analysis-to-evaluate-the-adoption-of-electronic-health-r,2026-11-17,instrument,2026-11-17
 UGA,27,2023-10-01-uga-health-sector-digitization-report,2026-11-17,instrument,2026-11-17
 ZAF,40,2023-07-01-civ-making-the-case-for-investing-in-routine-health-information-systems-rh,2026-11-17,instrument,2026-11-17
@@ -468,3 +468,7 @@ ZAF,41,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-1
 ZMB,17,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 ZWE,29,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 NGA,30,2026-11-18-nga-exploring-the-potential-of-digital-health-innovations-to-strengthen-ni,2026-11-20,instrument,2026-11-20
+KEN,84,2026-11-18-ken-murang-a-health-portal-afyake-switched-off,2026-11-21,capped,2026-11-21
+MLI,24,2026-11-19-mli-interoperabilite-dhis2ospsante-la-dpm-a-reuni-les-administrateurs-des-deux-plate,2026-11-21,,
+TUN,27,2026-11-20-tun-alchourouk-health-ministry-licensed-telemedicine-platform,2026-11-21,,
+ZWE,30,2026-11-19-zwe-ict-ministry-gets-zig1-billion-in-2027-budget,2026-11-21,,

@@ -1611,8 +1611,8 @@ GAB,32,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,
 GAB,33,2022-06-01-chrgj-paving-digital-road-to-hell,2026-11-17,instrument,2026-11-17
 GAB,34,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
 GAB,35,2020-03-01-gsma-access-to-mobile-services-proof-of-identity-2020,2026-11-17,instrument,2026-11-17
-GHA,74,2025-08-05-roberts-decolonising-digital-public-infrastructure,2026-11-17,,
-GHA,75,2025-04-21-advox-digital-id-africa-inclusion-or-privacy-threat,2026-11-17,,
+GHA,74,2025-08-05-roberts-decolonising-digital-public-infrastructure,2026-11-17,capped,2026-11-21
+GHA,75,2025-04-21-advox-digital-id-africa-inclusion-or-privacy-threat,2026-11-17,capped,2026-11-21
 GHA,76,2026-11-16-bloomsbury-biometric-digital-id-ch06-ghana-appiah-adjei,2026-11-17,instrument,2026-11-17
 GHA,77,2026-11-16-bloomsbury-biometric-digital-id-ch11-conclusions-sesan-roberts,2026-11-17,instrument,2026-11-17
 GHA,78,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
@@ -2200,3 +2200,8 @@ UGA,185,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,
 ZAF,140,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 ZMB,90,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 ZWE,70,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
+ETH,183,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
+GHA,97,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
+MWI,96,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
+SEN,72,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
+UGA,186,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21

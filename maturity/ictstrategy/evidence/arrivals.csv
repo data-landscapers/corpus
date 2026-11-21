@@ -1378,7 +1378,7 @@ CAF,18,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,ins
 CAF,19,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
 CAF,20,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 CAF,21,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
-CIV,36,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,,
+CIV,36,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,capped,2026-11-21
 CIV,37,2026-11-16-bloomsbury-biometric-digital-id-ch01-introduction-sesan-roberts,2026-11-17,instrument,2026-11-17
 CIV,38,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 CIV,39,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -1520,7 +1520,7 @@ LSO,32,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-ven
 LSO,33,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 LSO,34,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 LSO,35,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
-MAR,25,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,,
+MAR,25,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,capped,2026-11-21
 MAR,26,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 MAR,27,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 MAR,28,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
@@ -1610,7 +1610,7 @@ SDN,29,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17
 SDN,30,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
 SDN,31,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 SDN,32,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
-SEN,49,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,,
+SEN,49,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,capped,2026-11-21
 SEN,50,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
 SEN,51,2026-11-16-bloomsbury-biometric-digital-id-ch01-introduction-sesan-roberts,2026-11-17,instrument,2026-11-17
 SEN,52,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
@@ -1676,7 +1676,7 @@ TZA,115,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-
 TZA,116,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 TZA,117,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
 TZA,118,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
-UGA,125,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,,
+UGA,125,2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats,2026-11-17,capped,2026-11-21
 UGA,126,2021-11-01-ria-cis-towards-evaluation-socio-digital-id-ecosystems-africa,2026-11-17,instrument,2026-11-17
 UGA,127,2026-11-16-bloomsbury-biometric-digital-id-ch01-introduction-sesan-roberts,2026-11-17,instrument,2026-11-17
 UGA,128,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
@@ -1728,3 +1728,4 @@ MRT,24,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
 SEN,58,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
 SLE,46,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
 TZA,119,2026-11-18-tza-ad1251-tanzania-s-changing-news-landscape-gains-in-digital-media-still,2026-11-20,instrument,2026-11-20
+KEN,142,2026-11-01-ken-akili-kncci-ai-readiness-in-kenya-2026,2026-11-21,instrument,2026-11-21

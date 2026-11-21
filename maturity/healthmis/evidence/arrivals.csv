@@ -992,7 +992,7 @@ BDI,59,2024-06-12-bdi-cahier-special-des-charges-bdi23005-10016,2026-11-17,instr
 BDI,60,2023-03-01-bdi-etude-prospective-apport-de-l-informatisation-par-rapport-a-la-baselin,2026-11-17,instrument,2026-11-17
 BDI,61,2023-03-01-bdi-etude-prospective-pour-documenter-l-apport-de-l-informatisation-dans-l,2026-11-17,instrument,2026-11-17
 BDI,62,2021-07-01-bdi-annuaire-des-statistiques-sanitaires-2020,2026-11-17,instrument,2026-11-17
-BEN,39,2025-08-04-ben-benin-sante-vers-un-modele-plus-equitable-et-digitalise-des-2026,2026-11-17,,
+BEN,39,2025-08-04-ben-benin-sante-vers-un-modele-plus-equitable-et-digitalise-des-2026,2026-11-17,capped,2026-11-21
 BEN,40,2021-06-01-ben-enabel-au-benin-participe-a-l-amelioration-du-systeme-d-information-sa,2026-11-17,old,2026-11-17
 BEN,41,2020-09-01-ben-benin-s-digital-health-id,2026-11-17,instrument,2026-11-17
 BEN,42,2019-11-01-measure-synthesis-rhis-architecture-profiles-pmi-priority-countries,2026-11-17,instrument,2026-11-17
@@ -1080,7 +1080,7 @@ LSO,41,2019-01-01-lso-national-health-strategic-plan-2019-2023,2026-11-17,instru
 LSO,42,2025-05-22-lso-icap-enhances-lesothos-capacity-to-build-and-maintain-sustainable-data,2026-11-17,,
 LSO,43,2024-12-12-lso-icap-si-ii-end-of-project-evaluation,2026-11-17,instrument,2026-11-17
 MAR,38,2026-04-15-mar-head-of-government-chairs-meeting-on-reform-of-morocco-s-national-heal,2026-11-17,capped,2026-11-20
-MAR,39,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
+MAR,39,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,capped,2026-11-21
 MAR,40,2022-01-01-mar-le-systeme-d-information-sanitaire-au-niveau-des-etablissements-de-soi,2026-11-17,instrument,2026-11-17
 MDG,50,2021-04-01-mdg-coaching-and-mentorship-approach-promotes-capacity-strengthening-in-re,2026-11-17,old,2026-11-17
 MDG,51,2019-11-01-measure-synthesis-rhis-architecture-profiles-pmi-priority-countries,2026-11-17,instrument,2026-11-17
@@ -1141,7 +1141,7 @@ SDN,43,2026-07-29-sdn-suna-health-recovery-plan-endorsed-130-baladna-e-services,
 SDN,44,2026-11-15-sdn-suna-taxation-chamber-ends-paper-invoices-e-invoice-mandatory,2026-11-17,,
 SDN,45,2026-08-12-sdn-suna-gedaref-dhis2-national-training-second-round,2026-11-17,,
 SEN,66,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
-SEN,67,2025-06-23-sen-du-msas-tout-savoir-sur-ce-moteur-de-changement-du-systeme-de-sante-se,2026-11-17,,
+SEN,67,2025-06-23-sen-du-msas-tout-savoir-sur-ce-moteur-de-changement-du-systeme-de-sante-se,2026-11-17,capped,2026-11-21
 SEN,68,2025-04-28-sen-digitalisation-du-systeme-de-sante-le-gouvernement-engage-six-projets,2026-11-17,,
 SEN,69,2022-01-01-sen-a-data-quality-assessment-of-the-first-four-years-of-malaria-reporting,2026-11-17,instrument,2026-11-17
 SEN,70,2019-11-01-measure-synthesis-rhis-architecture-profiles-pmi-priority-countries,2026-11-17,instrument,2026-11-17
@@ -1174,14 +1174,14 @@ TGO,58,2022-01-01-tgo-rapport-trimestriel-janvier-mars-2022,2026-11-17,instrumen
 TUN,27,2025-05-06-tun-project-appraisal-document-tunisia-health-system-strengthening-project,2026-11-17,instrument,2026-11-17
 TZA,57,2026-09-30-tza-tanzania-yajipanga-kufadhili-na-kupanua-afya-kidijitali,2026-11-17,,
 TZA,58,2025-04-01-tza-health-facility-level-digitalization,2026-11-17,,
-TZA,59,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
+TZA,59,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,capped,2026-11-21
 TZA,60,2025-04-21-tza-applying-pest-analysis-to-evaluate-the-adoption-of-electronic-health-r,2026-11-17,instrument,2026-11-17
 TZA,61,2024-06-01-tza-annual-health-sector-performance-profile-2023,2026-11-17,instrument,2026-11-17
 UGA,97,2026-03-31-uga-government-takes-over-national-digital-health-systems-from-makerere-un,2026-11-17,,
 UGA,98,2019-11-01-measure-synthesis-rhis-architecture-profiles-pmi-priority-countries,2026-11-17,instrument,2026-11-17
 UGA,99,2023-10-01-uga-health-sector-digitization-report,2026-11-17,instrument,2026-11-17
 UGA,100,2021-06-08-chrgj-iser-unwanted-witness-chased-away-left-to-die-uganda-digital-id,2026-11-17,instrument,2026-11-17
-ZAF,58,2025-06-11-zaf-kzn-mp-nc-health-departments-readiness-to-implement-the-health-patient,2026-11-17,,
+ZAF,58,2025-06-11-zaf-kzn-mp-nc-health-departments-readiness-to-implement-the-health-patient,2026-11-17,capped,2026-11-21
 ZAF,59,2023-07-01-civ-making-the-case-for-investing-in-routine-health-information-systems-rh,2026-11-17,instrument,2026-11-17
 ZMB,71,2022-04-29-zmb-improving-immunization-data-capture-and-use-in-zambia,2026-11-17,old,2026-11-17
 ZMB,72,2019-11-01-measure-synthesis-rhis-architecture-profiles-pmi-priority-countries,2026-11-17,instrument,2026-11-17
@@ -1196,3 +1196,5 @@ SWZ,62,2026-11-16-new-health-platform-to-help-govt-anticipate-medicine-stockouts
 CPV,36,2026-11-19-cpv-cabo-verde-shares-its-digital-health-experience-at-the-first-africa-he,2026-11-20,,
 GIN,43,2026-11-19-gin-sante-numerique-entre-hopitaux-defaillants-et-donnees-exposees-des-experts-interpellent-letat,2026-11-20,,
 MLI,52,2026-11-19-mli-interoperabilite-dhis2ospsante-la-dpm-a-reuni-les-administrateurs-des-deux-plate,2026-11-20,,
+KEN,145,2026-11-18-ken-murang-a-health-portal-afyake-switched-off,2026-11-21,capped,2026-11-21
+LBR,67,2026-11-17-lbr-moh-sand-technologies-assess-digital-health-progress-ahead-of-december-emr-deployment,2026-11-21,,

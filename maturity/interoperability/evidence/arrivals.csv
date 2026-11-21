@@ -974,7 +974,7 @@ LSO,59,2025-02-27-carnegie-dpi-practical-approach-africa,2026-11-17,instrument,2
 LSO,60,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 LSO,61,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,2026-11-17
 LSO,62,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
-MAR,56,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
+MAR,56,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,capped,2026-11-21
 MAR,57,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 MAR,58,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 MAR,59,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
@@ -1131,7 +1131,7 @@ TUN,49,2024-01-01-smart-africa-creating-foundations-africas-digital-future,2026-
 TUN,50,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 TUN,51,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,2026-11-17
 TUN,52,2021-11-01-ria-cis-towards-evaluation-socio-digital-id-ecosystems-africa,2026-11-17,instrument,2026-11-17
-TZA,67,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,,
+TZA,67,2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero,2026-11-17,capped,2026-11-21
 TZA,68,2025-04-21-tza-applying-pest-analysis-to-evaluate-the-adoption-of-electronic-health-r,2026-11-17,instrument,2026-11-17
 TZA,69,2021-11-01-ria-cis-towards-evaluation-socio-digital-id-ecosystems-africa,2026-11-17,instrument,2026-11-17
 TZA,70,2026-11-16-bloomsbury-biometric-digital-id-ch01-introduction-sesan-roberts,2026-11-17,instrument,2026-11-17
@@ -1288,3 +1288,9 @@ UGA,85,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2
 ZAF,101,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 ZMB,57,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 ZWE,53,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
+BDI,38,2026-11-18-bdi-wb-op00482177-pafen-gip-pki-rfp,2026-11-21,,
+BDI,39,2026-08-13-burundi-decentralization-civil-registry-digitization-abp,2026-11-21,,
+BEN,61,2026-11-18-ben-lanation-budget-2027-budget-fonction-publique-numerique,2026-11-21,,
+MLI,37,2026-11-19-mli-interoperabilite-dhis2ospsante-la-dpm-a-reuni-les-administrateurs-des-deux-plate,2026-11-21,,
+TGO,58,2026-10-28-tgo-arrete-011-pcs-guce-guford-port-lome,2026-11-21,,
+ZWE,54,2026-11-19-zwe-ict-ministry-gets-zig1-billion-in-2027-budget,2026-11-21,,

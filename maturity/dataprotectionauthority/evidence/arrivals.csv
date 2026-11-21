@@ -1770,7 +1770,7 @@ NGA,221,2026-06-26-nga-ndpc-guidance-notice-cpd-dpos,2026-11-17,,
 NGA,222,2024-06-27-investigation-ongoing-tijani-on-alleged-nimc-data-breach,2026-11-17,capped,2026-11-17
 NGA,223,2024-06-24-fij-minister-tijani-nin-slip-purchased-online-n100,2026-11-17,,
 NGA,224,2024-06-22-nimc-denies-data-breach-allegations-to-prosecute-harvesters,2026-11-17,,
-NGA,225,2024-06-21-nairametrics-website-selling-nin-bvn-data-n100,2026-11-17,,
+NGA,225,2024-06-21-nairametrics-website-selling-nin-bvn-data-n100,2026-11-17,capped,2026-11-21
 NGA,226,2026-11-13-nga-uwem-idiong-digital-sovereignty-data-control,2026-11-17,instrument,2026-11-17
 NGA,227,2026-11-01-nga-nitda-nbs-nigeria-tech-outlook-report-2026,2026-11-17,instrument,2026-11-17
 NGA,228,2026-10-01-nga-ai-and-the-digitisation-of-healthcare-services-in-nigeria,2026-11-17,instrument,2026-11-17
@@ -1963,3 +1963,15 @@ NGA,244,2026-11-18-nga-exploring-the-potential-of-digital-health-innovations-to-
 SWZ,65,2026-11-19-eswatini-issues-high-severity-optimizely-warning,2026-11-20,,
 TGO,68,2026-11-18-tgo-protection-des-donn-es-personnelles-28-correspondants-certifi-s-par-l-,2026-11-20,,
 ZAF,180,2026-11-19-zaf-itweb-inforeg-cyber-defences-ai-governance,2026-11-20,,
+BFA,94,2026-11-20-bfa-lefaso-arcod-dix-membres-college-conseillers,2026-11-21,,
+CIV,69,2026-11-12-droit-a-limage-lartci-eclaire-les-journalistes-sur-les-limites-de-la-captation-sans-consentement,2026-11-21,,
+EGY,56,2026-11-19-africa-is-arguing-with-itself,2026-11-21,capped,2026-11-21
+GHA,179,2026-11-19-africa-is-arguing-with-itself,2026-11-21,,
+KEN,219,2026-11-19-africa-is-arguing-with-itself,2026-11-21,,
+KEN,220,2026-11-01-ken-akili-kncci-ai-readiness-in-kenya-2026,2026-11-21,instrument,2026-11-21
+MAR,109,2026-11-01-mar-gpa-resolution-privacy-enhancing-technologies-cndp,2026-11-21,,
+MAR,110,2026-11-19-africa-is-arguing-with-itself,2026-11-21,capped,2026-11-21
+NGA,245,2026-11-19-africa-is-arguing-with-itself,2026-11-21,capped,2026-11-21
+RWA,85,2026-11-19-africa-is-arguing-with-itself,2026-11-21,,
+ZAF,181,2026-11-13-zaf-itweb-sa-data-legislation-advancing-gaps-remain-ai,2026-11-21,,
+ZAF,182,2026-11-19-africa-is-arguing-with-itself,2026-11-21,capped,2026-11-21

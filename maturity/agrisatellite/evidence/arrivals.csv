@@ -1336,7 +1336,7 @@ DJI,36,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instr
 DZA,42,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 EGY,56,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 GHA,75,2026-11-17-xaf-expertise-france-data-governance-in-africa-initiative,2026-11-18,,
-KEN,114,2026-11-17-xaf-expertise-france-data-governance-in-africa-initiative,2026-11-18,,
+KEN,114,2026-11-17-xaf-expertise-france-data-governance-in-africa-initiative,2026-11-18,capped,2026-11-21
 LBY,27,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 MAR,52,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 SEN,86,2026-11-17-xaf-expertise-france-data-governance-in-africa-initiative,2026-11-18,,
@@ -1354,3 +1354,10 @@ MRT,36,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
 NGA,118,2026-11-19-nasrda-backs-ecowas-plans-for-west-africa-s-first-regional-earth-observation-satellite,2026-11-20,capped,2026-11-20
 SEN,87,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
 SLE,54,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
+BEN,48,2026-11-19-ecowas-ecosat-1-technical-validation-meeting,2026-11-21,capped,2026-11-21
+ETH,88,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
+GHA,78,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
+MWI,52,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
+NGA,119,2026-11-19-ecowas-ecosat-1-technical-validation-meeting,2026-11-21,capped,2026-11-21
+SEN,88,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
+UGA,80,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
