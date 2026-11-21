@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-18-sen-ansd-uasz-statistical-data-access-centre-ziguinchor",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data4Now",
+   "country_label": "Data4Now (ANSD microdata access centre)",
+   "class": "other",
+   "platform": "Data4Now",
+   "owner": "ANSD",
+   "tiers": ""
+  }
+ ],
+ "note": "Microdata viewed on site at a library centre, not published online for anyone to download."
+}

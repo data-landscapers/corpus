@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-nam-ngurare-demands-data-accountability-as-country-launches-sdg-portal",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The Namibia Statistics Agency launched an online SDG portal on 18 November 2026, which the Prime Minister described as a central platform where the public can access information on Namibia's development progress.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "NSA SDG portal",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NSA SDG portal",
+   "country_label": "Namibia SDG portal",
+   "class": "open",
+   "platform": "",
+   "owner": "Namibia Statistics Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
