@@ -1,12 +1,12 @@
 ---
 title: Ghana: status report
-compiled: 2026-11-20
+compiled: 2026-11-21
 place: GHA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 15
-sources_cited: 362
+sources_cited: 363
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -355,11 +355,13 @@ The [Electronic Communications Act 2008 sets no rate, base or floor for the levy
 ### National statistics
 <!-- data.statistics -->
 
+In November 2026 the national data forum [reported the third National Strategy for the Development of Statistics finalised and awaiting Cabinet adoption](https://www.graphic.com.gh/business/business-news/data-forum-urges-government-to-expedite-statistics-bill-and-national-statistics-fund.html). [A draft Statistics Bill now carries a proposed National Statistics Fund and has yet to go to Cabinet](https://www.graphic.com.gh/business/business-news/data-forum-urges-government-to-expedite-statistics-bill-and-national-statistics-fund.html).
+
 In 2023 the World Bank's Statistical Performance Indicators [put Ghana in the 70-89% band on data use and data products, and in the 50-69% band on data services, sources and infrastructure](https://www.worldbank.org/en/programs/statistical-performance-indicators). The 2024 Ibrahim Index scores the [capacity of Ghana's statistical system at 57.4, 18th of 54, up 9.2 points over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gh.pdf).
 
 The [2021 Population and Housing Census, Ghana's first fully digital one, counted 30,832,019 people](https://census2021.statsghana.gov.gh/presspage.php?Presentation-on-the-General-Report-Volumes-3A-3B-and-3C=&readmorenews=MTY4OTA1MDkwNC4wOTY%3D). [Its general report was completed in February 2022, with a volume on ICT](https://census2021.statsghana.gov.gh/newspage.php?GSS-completes-release-of-2021-PHC-General-Reports=&readmorenews=MjM0ODgzNjQxMy41MDg1). In 2023 [the population, agriculture and business censuses had all been run within ten years](https://www.worldbank.org/en/programs/statistical-performance-indicators). The survey programme had [three or more household, health and agriculture rounds, against two business and two labour surveys](https://www.worldbank.org/en/programs/statistical-performance-indicators). In October 2026 the statistical service [committed to early preparation of the next census, digital-first with geospatial methods](https://thevaultznews.com/2026/10/23/ghana-pledges-to-link-official-statistics-with-maps/).
 
-In March 2026 the statistical service [signed data-sharing memoranda with 25 ministries, departments and agencies](https://gna.org.gh/2026/03/gss-25-mdas-sign-data-sharing-agreements/). The [education information system collects data on 104 of its 124 indicators, mostly inputs such as enrolment](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-10-gpe-program-document-system-capacity-grant-ghana.pdf) (2024). The [financial management system monitors programme and SDG performance only in part](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The Births and Deaths Registry [put birth registration coverage at 92.7 per cent in 2022](https://bdr.gov.gh/storage/formidable/7/STATISTICAL-REPORT-ON-BIRTH-REGISTRATION-2022.pdf).
+By November 2026 the statistical service [had signed 33 data-sharing memoranda with other institutions](https://www.graphic.com.gh/business/business-news/data-forum-urges-government-to-expedite-statistics-bill-and-national-statistics-fund.html), [25 of them with ministries, departments and agencies in March 2026](https://gna.org.gh/2026/03/gss-25-mdas-sign-data-sharing-agreements/). The [education information system collects data on 104 of its 124 indicators, mostly inputs such as enrolment](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-10-gpe-program-document-system-capacity-grant-ghana.pdf) (2024). The [financial management system monitors programme and SDG performance only in part](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The Births and Deaths Registry [put birth registration coverage at 92.7 per cent in 2022](https://bdr.gov.gh/storage/formidable/7/STATISTICAL-REPORT-ON-BIRTH-REGISTRATION-2022.pdf).
 
 The communications regulator's [bulletin for the third quarter of 2024 appeared around May 2025](https://nca.org.gh/wp-content/uploads/2025/05/Q3-2024-Statistical-Bulletin-Third-Quarter-Volume-9-Isuue-3.pdf), about eight months after the period it covers. In 2017 Ghana was [one of two African states known to have compiled an ICT satellite account](https://nca.org.gh/wp-content/uploads/2021/11/ICT-contribution-to-GDP-in-Ghana-Stakeholder-Feedback-on-the-study2.pdf). That account [measured ICT value added above the published GDP figure for the whole Information and Communication sector](https://nca.org.gh/wp-content/uploads/2021/11/ICT-contribution-to-GDP-in-Ghana-Stakeholder-Feedback-on-the-study2.pdf). A [US$1 million Hewlett Foundation grant ran from 2021 to 2025](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-EIN-941655673-2021-2948) to strengthen SDG monitoring.
 
