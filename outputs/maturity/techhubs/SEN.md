@@ -6,7 +6,7 @@
 
 **Several cities.** No source found since October 2023 says hubs with programmes are in service in two or more cities. The nearest fact: [the directory says Teranga Tech Incub's six-month programme is deployed in Dakar, Saint-Louis, Kaolack and Ziguinchor](<https://www.senegal-export.com/pratique/incubateurs-d-entreprises-au.html>). It names no cohort.
 
-**Technology park.** [In November 2025 the digital minister relaunched works on the Parc des Technologies Numériques at Diamniadio](<https://www.rts.sn/actualite/detail/a-la-une/parc-des-technologies-numeriques-alioune-sall-relance-un-projet-phare-du-new-deal-technologique>). Its 12.5-hectare first phase, with three ICT towers and an incubation centre, was due by March 2026.
+**Technology park.** [In November 2025 the digital minister relaunched works on the Parc des Technologies Numériques at Diamniadio](<https://www.rts.sn/actualite/detail/a-la-une/parc-des-technologies-numeriques-alioune-sall-relance-un-projet-phare-du-new-deal-technologique>). Its 12.5-hectare first phase, with three ICT towers and an incubation centre, was due by March 2026. [An African Development Bank report of 10 November 2026 put the works at 86.4% complete, with the park not yet operating](<https://www.seneweb.com/fr/news/Economie/diamniadio-la-bad-fachee-par-le-projet-de-parc-des-technologies-numeriques_n_999004173.html>).
 
 ***Also on file***. None found.
 

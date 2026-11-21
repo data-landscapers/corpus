@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-ecofin-gambia-to-open-university-innovation-hub-to-turn-research-into-products",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "Ecofin reports that the Gambian government and UNDP plan to open the University Innovation Pod at the USET Kanifing campus on 18 November 2026, with AI, robotics and prototyping laboratories and business support for students and researchers.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "University Innovation Pod (UniPod), USET",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "University Innovation Pod (UniPod)",
+   "country_label": "The Gambia",
+   "class": "hub",
+   "platform": "UNDP timbuktoo",
+   "owner": "Ministry of Higher Education, Research, Science and Technology with UNDP; USET runs operations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
