@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-lbr-liberianobserver-us52m-national-id-concession-local-firm",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "The Liberian Observer reports the signed but unratified US$52 million concession with OeSD International GmbH has the concessionaire finance, develop and operate the national biometric ID system before transferring it to the government under a Build-Operate-Transfer arrangement.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National Identification and Biometric System concession",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": "A planned transfer, not yet in operation."
+}

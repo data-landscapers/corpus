@@ -6,6 +6,7 @@ AGO,Centro de Produção do Bilhete de Identidade (CPBI),Angola,idsystem,,Minist
 BEN,CNIB,BEN,idsystem,,ANIP,,2026-09-18-ben-beninwebtv-cnib-renouvellement-en-ligne
 BEN,ANIP identity system,Benin,idsystem,,ANIP,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 BEN,Carte Nationale d'Identite Biometrique (CNIB),Benin,idsystem,,ANIP,,2025-03-01-ben-anip-carte-identite-biometrique-prestations
+BEN,RNPP,Benin,idsystem,,ANIP,,2025-01-08-cybersecuritymag-rnpp-benin-securite-donnees-personnelles
 BFA,CNIB,Burkina Faso,idsystem,,Office Nationale d'Identification (ONI),,2026-08-25-cnib-carte-nationale-identite-burkinabe
 BFA,Carte d'identité biométrique AES (CIB-AES),Burkina Faso,idsystem,,Office national d'identification (ONI),card,2025-12-02-cib-aes-lancement-traore-enrolement
 BFA,CIB-AES,Burkina Faso,idsystem,,ONI,,2026-09-15-fasoamazone-oni-cib-aes-enrolment
@@ -68,6 +69,7 @@ ETH,Fayda,Ethiopia,idsystem,,National ID Program,,2026-07-24-ena-ethio-telecom-6
 ETH,Fayda,Ethiopia,idsystem,,National ID Program (NIDP),,2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment
 ETH,Fayda Digital ID,Ethiopia,idsystem,MOSIP,FaydaVerse,,2026-08-06-eth-what-is-faydaverse-the-ethiopian-national-id-program-that-became-a-com
 ETH,Fayda,Fayda,idsystem,MOSIP,National ID Program,,2024-01-01-eth-fayda-digital-id-ethiopia-status-update
+ETH,Fayda,Ethiopia,idsystem,MOSIP,National ID Program (NIDP),,2024-09-29-biometric-update-laxton-ethiopia-90m-digital-id
 GAB,ID card and passport in Gabon,GAB,idsystem,,,,2024-01-01-in-groupe-insight-report-2023-24
 GAB,Registre biometrique des personnes physiques (RBPP),Gabon,idsystem,,Government of Gabon (Ministry of Interior),,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,Systeme national d'identite digitale (SNID),Gabon,idsystem,,ANINF / Government of Gabon,,2025-06-23-gabon-legal-digital-id-three-projects
@@ -110,6 +112,7 @@ LBR,National Identification Registry digital ID concession,"NIR/OeSD BOT concess
 LBR,National digital identity system,Liberia,idsystem,Techno Brain,National Identification Registry,,2026-03-20-lbr-national-id-card-rollout-continues-to-be-held-up-by-1-7-million-unpaid
 LBY,National number system / Civil Registry (منظومة الأحوال المدنية),Libya,idsystem,,Civil Status Authority (مصلحة الأحوال المدنية),,2026-09-27-lby-alwasat-national-number-fraud-civil-registry
 LBY,National ID Number,Libya,idsystem,,Civil Registry Authority,,2024-09-06 Libya's Project Intilaqa matches Civil Registry electronic data with paper records
+LBY,Civil Status Authority link for wife-and-children grant,Libya,other,,Ministry of Social Affairs,,2025-02-10-lby-lana-social-affairs-civil-registry-data-link
 LSO,Digital/service identification system,Lesotho,idsystem,,MICSTI,,2026-03-25-lesotho-digital-service-id-pilot-govls
 LSO,MOSIP-based national digital identity ecosystem,LSO,idsystem,MOSIP,MICSTI,,2026-02-26-lesotho-micsti-unicef-digital-id-work-plan
 LSO,Pangea (ex-Nikuv) civil registration and national ID systems,Lesotho,idsystem,Pangea,Ministry of Home Affairs,,2025-10-30-lso-lestimes-nikuv-sues-govt-m39m
@@ -162,6 +165,7 @@ NGA,IT2 tokenised biometric identity platform (Trust Stamp/BLIP),Nigeria,other,T
 NGA,NIMC 1.0 / NIMC 2.0,Nigeria,idsystem,open-source (NIMC 2.0),National Identity Management Commission,,2026-05-12-nga-id4africa-fg-targets-cheaper-digital-identity-system-with-local-soluti
 NGA,National Identity Number system (IBRS ABIS),Nigeria,idsystem,Idemia IBRS ABIS with OSIA interfaces,National Identity Management Commission,,2024-04-10-nga-idemia-upgrading-nigeria-s-national-biometric-system-to-handle-250m-id
 NGA,National Identity Management System (NIMS 2.0 on MOSIP),Nigeria NIN,idsystem,MOSIP (migration begun July 2025),NIMC,,2025-12-10-nga-nigeria-moves-to-replace-its-national-id-system-a-misstep-could-lock-o
+NGA,National Identification Number (NIN),Nigeria,idsystem,,National Identity Management Commission (NIMC),,2025-07-10-biometric-update-nigeria-nin-portal-downtime
 RWA,National digital ID,Rwanda,idsystem,,NIDA,,2026-06-09-accelerates-biometric-enrollment-biometricupdate
 RWA,Digital ID,Rwanda,idsystem,,NIDA,,2025-10-28-nida-southern-province-digital-id-rollout
 RWA,Single Digital ID (SDID),Rwanda,idsystem,,,,2026-05-26-new-digital-id-you-control-everything-ktpress

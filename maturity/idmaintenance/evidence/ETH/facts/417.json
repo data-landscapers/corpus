@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-29-biometric-update-laxton-ethiopia-90m-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "Biometric Update, citing Laxton, reports Ethiopia's National ID Program runs the Fayda digital ID on MOSIP, an open-source platform, with Laxton supplying registration kits, software, training and technical support.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "National ID Program (NIDP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

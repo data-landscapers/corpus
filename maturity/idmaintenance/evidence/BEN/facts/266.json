@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-08-cybersecuritymag-rnpp-benin-securite-donnees-personnelles",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The article says the national persons register is run by the national identification agency ANIP.",
+   "as_of": "2025-01-08",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP",
+   "country_label": "Benin",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
