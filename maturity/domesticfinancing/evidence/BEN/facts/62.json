@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-18-ben-lanation-budget-2027-ministere-transformation-digitale",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "La Nation reports the Ministry of Digital Transformation and Innovation presented a 2027 draft budget of FCFA 11.59bn to the National Assembly, with FCFA 7.74bn of investment financed wholly from own resources.",
+   "as_of": "2027",
+   "date_precision": "year",
+   "system": "Ministry of Digital Transformation and Innovation 2027 draft budget",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "La Nation reports the ministry's 2027 draft budget of FCFA 11.59bn against FCFA 16,483,428,674 in 2026, a fall (printed as 29.29%) attributed to the externally financed Pitn2r project leaving its portfolio.",
+   "as_of": "2027",
+   "date_precision": "year",
+   "system": "Ministry of Digital Transformation and Innovation 2027 draft budget",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

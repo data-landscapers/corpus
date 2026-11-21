@@ -1215,10 +1215,10 @@ BDI,56,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17
 BEN,60,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 BWA,63,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 CAF,47,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
-CIV,110,2026-11-13-civ-mtnit-presentation-projet-budget-2027-caef,2026-11-17,,
-CIV,111,2026-11-15-ansut-lance-programme-acces-smartphones-subventionnes,2026-11-17,,
-CIV,112,2026-05-17-civ-mtnit-declaration-journee-mondiale-telecommunications-2026,2026-11-17,,
-CIV,113,2025-12-01-civ-7-3-millions-de-dossiers-patients-numerises-en-cote-d-ivoire-pour-un-i,2026-11-17,,
+CIV,110,2026-11-13-civ-mtnit-presentation-projet-budget-2027-caef,2026-11-17,fact,2026-11-21
+CIV,111,2026-11-15-ansut-lance-programme-acces-smartphones-subventionnes,2026-11-17,nothing,2026-11-21
+CIV,112,2026-05-17-civ-mtnit-declaration-journee-mondiale-telecommunications-2026,2026-11-17,nothing,2026-11-21
+CIV,113,2025-12-01-civ-7-3-millions-de-dossiers-patients-numerises-en-cote-d-ivoire-pour-un-i,2026-11-17,nothing,2026-11-21
 CIV,114,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 CMR,46,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 COD,77,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -1242,7 +1242,7 @@ KEN,108,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-1
 LBY,17,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 LSO,50,2019-01-01-lso-national-health-strategic-plan-2019-2023,2026-11-17,instrument,2026-11-17
 LSO,51,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
-MAR,42,2026-11-16-hespress-ar-ai-ministry-sovereign-platform,2026-11-17,,
+MAR,42,2026-11-16-hespress-ar-ai-ministry-sovereign-platform,2026-11-17,fact,2026-11-21
 MAR,43,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 MOZ,59,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 MUS,39,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -1257,8 +1257,8 @@ NGA,91,2026-01-01-nga-who-nigeria-2025-annual-report,2026-11-17,instrument,2026-
 NGA,92,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 RWA,71,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 SDN,34,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
-SEN,90,2026-11-15-sen-socialnetlink-mps-reject-2027-digital-ministry-budget-committee,2026-11-17,,
-SEN,91,2026-11-16-tra-itu-resolution-206-ott-network-funding,2026-11-17,,
+SEN,90,2026-11-15-sen-socialnetlink-mps-reject-2027-digital-ministry-budget-committee,2026-11-17,reassessed,2026-11-21
+SEN,91,2026-11-16-tra-itu-resolution-206-ott-network-funding,2026-11-17,nothing,2026-11-21
 SEN,92,2021-03-01-gsma-digital-identity-accelerating-financial-inclusion-crisis,2026-11-17,instrument,2026-11-17
 SEN,93,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 SLE,36,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -1324,7 +1324,7 @@ ZMB,65,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-1
 ZWE,65,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 AGO,57,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 BDI,58,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
-BEN,62,2026-11-18-ben-lanation-budget-2027-ministere-transformation-digitale,2026-11-20,,
+BEN,62,2026-11-18-ben-lanation-budget-2027-ministere-transformation-digitale,2026-11-20,fact,2026-11-21
 BEN,63,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 BEN,64,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
 BFA,63,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
@@ -1366,7 +1366,7 @@ MRT,42,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2
 MRT,43,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
 MUS,41,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 MWI,86,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
-NAM,69,2026-11-18-nam-who-owns-namibias-digital-economy,2026-11-20,,
+NAM,69,2026-11-18-nam-who-owns-namibias-digital-economy,2026-11-20,nothing,2026-11-21
 NAM,70,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 NER,41,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 NGA,95,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
@@ -1394,7 +1394,7 @@ BDI,59,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,20
 BEN,65,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 BFA,64,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 BWA,66,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
-CIV,118,2026-11-13-civ-linfodrome-leo-satellites-mobile-rural-connectivity-panel,2026-11-21,,
+CIV,118,2026-11-13-civ-linfodrome-leo-satellites-mobile-rural-connectivity-panel,2026-11-21,nothing,2026-11-21
 CIV,119,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 CMR,49,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 COD,80,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
@@ -1431,7 +1431,7 @@ SYC,29,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,20
 TCD,43,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 TGO,43,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 TUN,32,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
-TZA,89,2026-11-13-tanzania-urges-shift-from-telecom-coverage-to-meaningful-digital-access,2026-11-21,,
+TZA,89,2026-11-13-tanzania-urges-shift-from-telecom-coverage-to-meaningful-digital-access,2026-11-21,nothing,2026-11-21
 TZA,90,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 UGA,101,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 ZAF,103,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-13-civ-mtnit-presentation-projet-budget-2027-caef",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The Ministry states its 2025 budget was 65,425,224,828 FCFA, including 28 billion for rural new technologies (universal service).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Budget 2025 du Ministère de la Transition Numérique",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "The Ministry states 64,613,612,862 FCFA of its 2025 budget was executed, a rate of 98.76%.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Budget 2025 du Ministère de la Transition Numérique",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

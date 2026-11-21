@@ -9,9 +9,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SEN-004;SEN-001",
-      "gaps": "No source from the last three years has the government both saying digital transformation must be paid for from the country's own resources and acting on it: no fund, levy or assigned tax is shown created, collecting or paying.",
-      "note": "Counted from the four questions by study-ladder-domesticfinancing.py.",
-      "as_at": "2026-11-01"
+      "gaps": "No source from the last three years has the government both saying digital transformation must be paid for from the country's own resources and acting on it: no fund, levy or assigned tax is shown created, collecting or paying. The 2027 draft budget, 3.8% lower, was not approved in committee (SEN-010) and is read once adopted.",
+      "note": "The digital budget rose from 2024 to 2025 (SEN-004). The 2027 draft that would cut it was rejected in committee on 13 November 2026 and is not yet a budget, so 3 holds.",
+      "as_at": "2026-11-21"
     }
   ]
 }

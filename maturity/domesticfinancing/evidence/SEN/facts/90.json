@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-15-sen-socialnetlink-mps-reject-2027-digital-ministry-budget-committee",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Socialnetlink reports the 2027 draft budget of Senegal's Ministry of Telecommunications and Digital Affairs puts payment appropriations at CFA 64,974,224,327 and commitment authorisations at CFA 69,169,224,327, though National Assembly committees did not approve it on 13 November 2026.",
+   "as_of": "2027",
+   "date_precision": "year",
+   "system": "2027 draft budget, Ministry of Telecommunications and Digital Affairs",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Socialnetlink reports that, on a like-for-like basis, payment appropriations in the digital ministry's 2027 draft budget are down 3.8% on 2026.",
+   "as_of": "2027",
+   "date_precision": "year",
+   "system": "2027 draft budget, Ministry of Telecommunications and Digital Affairs",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
