@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-17-mdg-transport-ministry-irregularity-reporting-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Transport ministry irregularity reporting platform",
+   "country_label": "mtm.gov.mg reporting platform",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Transport and Meteorology",
+   "tiers": ""
+  }
+ ],
+ "note": "Platform takes reports of corruption and irregularities in transport, routed to anti-corruption bodies; not stated as complaints about public services."
+}

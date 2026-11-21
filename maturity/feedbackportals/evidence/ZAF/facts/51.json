@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-zaf-itweb-inforeg-cyber-defences-ai-governance",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The Information Regulator introduced online reporting of POPIA complaints in October 2025 and PAIA complaints in January 2026, with no complaint counts given.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Information Regulator online complaints",
+   "class": "feedback"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
