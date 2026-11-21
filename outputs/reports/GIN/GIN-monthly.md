@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: GIN
 ledger_rows: 25
 not_held: 2
-record: 6bc6e34aef4e
+record: 473d57f521bf
 ---
 
 # News, Oct – Nov 2026
@@ -59,6 +59,14 @@ A presidential decree read on 26 October 2026 appointed Fana Soumah as Guinea's 
 **[Signature électronique de l’État : la Guinée accélère sa marche vers le zéro papier et la souveraineté numérique](https://guineenews.org/2026/10/21/signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier-et-la-souverainete-numerique/)** — Guinéenews, 21 October 2026
 
 Guinea opened a workshop in Conakry on 21 October 2026 to review nine draft regulations on the state's electronic signature, following an implementing decree adopted on 19 August 2026. The justice ministry is adapting procedure texts to bring e-signatures into a future procedure code, and the digital agency ANDE is building the public-key infrastructure behind them.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Confiance numérique en Guinée : après quatre jours de travaux, une feuille de route élaborée pour l’opérationnalisation de la signature électronique](https://mediaguinee.com/2026/11/confiance-numerique-en-guinee-apres-quatre-jours-de-travaux-une-feuille-de-route-elaboree-pour-loperationnalisation-de-la-signature-electronique/)** — Mediaguinee, 20 November 2026
+
+Guinea's digital agency ANDE closed a four-day review of the national digital-trust framework on 20 November 2026. It announced a two-month mission to draft a three-year roadmap and a 100-day action plan on electronic signature, time-stamping and archiving. The facilitator reported no major flaws in the PKI and e-signature platforms and recommended a pilot.
 
 </div>
 
@@ -311,6 +319,14 @@ Guinea's procurement control directorate, the DGCMP, set 1 January 2027 as a dea
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
 **[Signature électronique de l’État : la Guinée accélère sa marche vers le zéro papier et la souveraineté numérique](https://guineenews.org/2026/10/21/signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier-et-la-souverainete-numerique/)** — Guinéenews, 21 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Confiance numérique en Guinée : après quatre jours de travaux, une feuille de route élaborée pour l’opérationnalisation de la signature électronique](https://mediaguinee.com/2026/11/confiance-numerique-en-guinee-apres-quatre-jours-de-travaux-une-feuille-de-route-elaboree-pour-loperationnalisation-de-la-signature-electronique/)** — Mediaguinee, 20 November 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
 
