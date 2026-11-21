@@ -281,6 +281,10 @@ def finish(rows, people, aliases, orgs, places, dropped) -> dict:
     t_ix = {p: i for i, p in enumerate(positions)}
     used_places = sorted({orgs[s]["place"] for s in org_slugs if orgs[s]["place"]},
                          key=lambda c: places.get(c, c))
+    unnamed = [c for c in used_places if c not in places]
+    if unnamed:                                  # a bare code reads as a defect on the page
+        raise SystemExit(f"whos-who: no country name for {', '.join(unnamed)}; "
+                         "add it to FOREIGN in whos_who_lib.py")
 
     index = {
         "block": BLOCK,

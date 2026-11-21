@@ -79,7 +79,13 @@ FOREIGN = {"CHN": "China", "FRA": "France", "IND": "India", "JPN": "Japan", "KOR
            "GBR": "United Kingdom", "USA": "United States", "DEU": "Germany", "SWE": "Sweden",
            "NLD": "Netherlands", "BEL": "Belgium", "NOR": "Norway", "LUX": "Luxembourg",
            "RUS": "Russia", "LBN": "Lebanon", "AUT": "Austria", "CHE": "Switzerland",
-           "CAN": "Canada"}
+           "CAN": "Canada",
+           # Homes the sources name, never shown by code (Bill, 2026-11-21)
+           "AUS": "Australia", "AZE": "Azerbaijan", "BMU": "Bermuda", "CHL": "Chile",
+           "CZE": "Czechia", "DNK": "Denmark", "ESP": "Spain", "HKG": "Hong Kong",
+           "IDN": "Indonesia", "ISR": "Israel", "KAZ": "Kazakhstan", "KHM": "Cambodia",
+           "MKD": "North Macedonia", "PAK": "Pakistan", "PRT": "Portugal", "REU": "Reunion",
+           "TUR": "Turkey", "VNM": "Vietnam"}
 # Where an organisation is based, by hand, where neither its slug nor its sources can say:
 # an international body, or a foreign government or company that the sources only ever
 # report in Africa (Bill, 2026-11-20: the UK FCDO was placed in Nigeria). `XGL` publishes as

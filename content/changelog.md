@@ -1,5 +1,6 @@
 ## 21 November 2026
 
+- Who's who names the country of 129 rows that showed a three-letter code, such as AUS or PRT. Filtering by country now finds them by name.
 - Lesotho, Namibia and Eswatini rise from 4 to 5 on cross-border payments (dpi.pay--cross-border-functionality): each sends low-value transfers through SADC-RTGS, and settlement figures for each were published in November 2026.
 - Liberia falls from 5 to 4 on person, business and government payments (dpi.pay--p2p-p2g-and-p2b-functionality): the instant payment system links the two mobile money networks. The governor said in November 2026 that banks are not yet on it.
 - Kenya rises from 3 to 5 and Congo from 4 to 5 on revenue collection (dpi.pay--revenue-collection): each government has published a figure for revenue paid electronically, Sh100.8 billion through eCitizen and FCFA 107 billion through FOUTA.
