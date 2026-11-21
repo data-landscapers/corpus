@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-first-circle-capital-closes-26-million-african-fintech-fund",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Tech Africa News describes Balad, a First Circle portfolio company, as the first regulated remittance infrastructure in Egypt facilitating international money transfers.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Balad",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Balad",
+   "country_label": "Egypt",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "First Circle Capital portfolio company",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "crossborder",
-      "stage": "4",
+      "stage": "5",
       "corridor": "inservice",
       "regional": "regional",
-      "reported": "",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-005;LSO-007",
-      "gaps": "No source found since October 2023 gives a figure for cross-border digital payments.",
-      "note": "The SARB's 2025 directive and the CMA committee's 2024 paper say the country's low-value cross-border transfers run through SADC-RTGS, a regional system in service. No figure has been found, so not 5.",
-      "as_at": "2026-10-27"
+      "stage_sources": "LSO-005;LSO-007;LSO-011",
+      "gaps": "",
+      "note": "Low-value cross-border transfers run through SADC-RTGS, a regional system in service, and the SARB's settlement figures reported in November 2026 give Lesotho's value through it (R30.57 billion, LSO-011), so every question is met.",
+      "as_at": "2026-11-21"
     }
   ]
 }

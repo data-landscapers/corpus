@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-businessday-africa-cross-border-payment-rail-5bn-reality-check",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "In August 2025 Airtel Money partnered with pawaPay so international money transfer operators can send funds directly into Airtel Money wallets in seven African markets including Uganda.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Airtel Money and pawaPay",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "Uganda",
+   "class": "crossborder",
+   "platform": "pawaPay",
+   "owner": "Airtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

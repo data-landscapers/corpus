@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-19-ken-pesalink-wants-cheaper-payments-but-cannot-tell-banks-what-to-charge",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "TechCabal quotes IPSL chief Gituku Kirika on 18 November 2026 saying PesaLink, integrated with PAPSS, now lets people send money into Kenya from other PAPSS-enabled countries, and that international money transfer operators use it for last-mile delivery.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "PesaLink (PAPSS)",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "TechCabal quotes IPSL chief Gituku Kirika on 18 November 2026 saying PesaLink is integrated with the Pan-African Payment and Settlement System.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

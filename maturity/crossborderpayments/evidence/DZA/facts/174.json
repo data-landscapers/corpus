@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-13-dza-cpa-cpazonepay-electronic-payment-from-abroad",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CPAzonepay",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "Visa and Mastercard",
+   "owner": "Crédit Populaire d'Algérie",
+   "tiers": ""
+  }
+ ],
+ "note": "A bank service accepting foreign-issued cards names no corridor or regional system."
+}

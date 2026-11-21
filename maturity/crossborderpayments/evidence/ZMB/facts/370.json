@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-nam-namibian-banks-handle-25-of-sadc-payments",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "The Namibian, citing the South African Reserve Bank's December 2025 settlement report, says Zambia took part in SADC-RTGS through ten participating institutions.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "SADC-RTGS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SADC-RTGS",
+   "country_label": "Zambia",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "South African Reserve Bank for SADC central banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

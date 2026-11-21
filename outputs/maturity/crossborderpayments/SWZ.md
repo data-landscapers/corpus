@@ -6,8 +6,8 @@
 
 **Regional system.** [Eswatini payment service providers route low-value CMA cross-border transfers through the SADC-RTGS system](<https://www.centralbank.org.sz/wp-content/uploads/2025/04/Eswatini-CMA-Retail-EFT-Payment-Directive-v1.pdf>). They must move them to the TCIB scheme by 31 March 2027. [The South African Reserve Bank directive says Common Monetary Area low-value transfers, including Eswatini's, run through the SADC-RTGS regional system](<https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf>). That directive gives April 2027 as the date to move to the TCIB scheme.
 
-**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest fact: [in March 2025 a directive said low-value transfers within the Common Monetary Area run through SADC-RTGS](<https://www.centralbank.org.sz/wp-content/uploads/2025/04/Eswatini-CMA-Retail-EFT-Payment-Directive-v1.pdf>).
+**Volumes reported.** [In December 2025 Eswatini's five participants processed R18.58 billion through SADC-RTGS](<https://www.namibian.com.na/namibian-banks-handle-25-of-sadc-payments/>). The Namibian took the figure from the South African Reserve Bank's settlement report.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 gives a figure for cross-border digital payments.
+***Not found***. Nothing further is asked of this indicator.

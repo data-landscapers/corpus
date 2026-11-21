@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-18-nigeria-ghana-proposed-hosts-ecowas-regional-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Central Bank of Liberia Governor Henry Saamoi said payments from Liberian traders to Nigeria or Ghana are settled in local currency through PAPSS, as is done currently.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Central Bank of Liberia Governor Henry Saamoi said Liberia currently uses PAPSS for settlement with other participating countries.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

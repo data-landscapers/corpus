@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-15-press-release-proof-of-concept-cross-border-remittance-cambodia-rwanda",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The National Bank of Rwanda and the National Bank of Cambodia jointly launched a proof of concept on 15 November 2026 linking Cambodia's Bakong to Rwanda's eKash, run by R-Switch, so customers in Cambodia can send money to Rwandan bank accounts and wallets.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "Cambodia-Rwanda Bakong-eKash cross-border remittance proof of concept",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

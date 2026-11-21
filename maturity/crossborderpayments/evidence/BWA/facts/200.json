@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-16-bwa-bob-moseki-afreximbank-compliance-forum-remarks",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "Afreximbank",
+   "tiers": ""
+  },
+  {
+   "system": "SADC-RTGS",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "SADC",
+   "tiers": ""
+  }
+ ],
+ "note": "The speech states no payments mandate, provider licensing, national switch or other fact this study asks for Botswana; PAPSS and SADC-RTGS are only discussed as interoperability talks."
+}

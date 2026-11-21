@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-19-nam-namibian-banks-handle-25-of-sadc-payments",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "The Bank of Namibia's 2025 annual report, as reported by The Namibian, says Namibia is represented in SADC-RTGS by five banks including the central bank.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SADC-RTGS",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The Bank of Namibia says Namibian banks processed R708 billion, 25% of the R2.8 trillion total, through SADC-RTGS in 2025, and R76.33 billion in December 2025 per the South African Reserve Bank.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SADC-RTGS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SADC-RTGS",
+   "country_label": "Namibia",
+   "class": "crossborder",
+   "platform": "ISO 20022",
+   "owner": "South African Reserve Bank for SADC central banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

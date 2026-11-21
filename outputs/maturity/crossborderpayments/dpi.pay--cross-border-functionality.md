@@ -20,8 +20,8 @@ The African Union's Digital Transformation Strategy and the Pan-African Payment 
 
 | Stage | Countries |
 |---|---|
-| 5 Mature | 12 |
-| 4 Operating | 26 |
+| 5 Mature | 15 |
+| 4 Operating | 23 |
 | 3 Established | 6 |
 | 2 Nascent | 5 |
 | 1 Absent | 0 |
@@ -55,12 +55,28 @@ Cross-border digital payment volumes or costs were reported in 2026.
 
 - Youm7, citing the NTRA H1 2026 wallet report, says incoming transfers from abroad were 3% of wallet deposits by count and 10% by value ([source, 2026-06](https://www.youm7.com/story/2026/9/14/%D9%83%D9%8A%D9%81-%D8%BA%D9%8A%D8%B1%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/7540929)).
 
+### Eswatini: 5 Mature
+
+The country takes part in a regional payment system; in December 2025 Eswatini processed R18.58 billion through SADC-RTGS.
+
+- Eswatini payment service providers route low-value CMA cross-border transfers through the SADC-RTGS system and must move them to the TCIB scheme by 31 March 2027 ([source, 2025-03-31](https://www.centralbank.org.sz/wp-content/uploads/2025/04/Eswatini-CMA-Retail-EFT-Payment-Directive-v1.pdf)).
+- The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027 ([source, 2025-04-01](https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf)).
+- The Namibian, citing the South African Reserve Bank's December 2025 report, says Eswatini processed R18.58 billion through SADC-RTGS in December 2025 ([source, 2025-12](https://www.namibian.com.na/namibian-banks-handle-25-of-sadc-payments/)).
+
 ### Gambia: 5 Mature
 
 Cross-border digital payment volumes or costs were reported in 2025.
 
 - The IFAD PRIME Africa end-of-project profile (April 2026) reports US$135 million in remittances received digitally through APS and an average APS remittance cost of 5 per cent across PRIME corridors ([source, 2025](https://ffremittances.org/wp-content/uploads/2026/05/2026_PF_TheGambia_APS_completion_WEB.pdf)).
 - PAPSS lists Gambia as a country with live send-and-receive participants: seven banks (Access, AGIB, Bloom, Ecobank, First Bank, Trust Bank, Vista) ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
+
+### Lesotho: 5 Mature
+
+The country takes part in a regional payment system; in December 2025 Lesotho processed R30.57 billion through SADC-RTGS.
+
+- The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027 ([source, 2025-04-01](https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf)).
+- The CMA committee's paper of 31 July 2024 says banks route low-value cross-border EFTs within the CMA, Lesotho among its four members, through the SADC real-time gross settlement system under the interim arrangement, to move to a designated retail system such as TCIB from 1 April 2027 ([source, 2024-07-31](https://www.centralbank.org.sz/wp-content/uploads/2024/07/CMA-position-paper-on-cross-border-low-value-EFT-payments-31-July-2024.pdf)).
+- The Namibian, citing the South African Reserve Bank's December 2025 report, says Lesotho processed R30.57 billion through SADC-RTGS in December 2025, third by value ([source, 2025-12](https://www.namibian.com.na/namibian-banks-handle-25-of-sadc-payments/)).
 
 ### Liberia: 5 Mature
 
@@ -80,6 +96,14 @@ Cross-border digital payment volumes or costs were reported in 2024.
 Cross-border digital payment volumes or costs were reported in 2026.
 
 - SARB's June 2026 SADC-RTGS per-country table gives Mozambique 215 settled transactions with a value of ZAR 261.79 million ([source, 2026-06](https://www.resbank.co.za/content/dam/sarb/what-we-do/payments-and-settlements/settlement-services/sadc-rtgs/2026-stats/SADC-RTGS%20Settlement%20Statistics%20and%20Indicators%20-%20June%202026.pdf)).
+
+### Namibia: 5 Mature
+
+The country takes part in a regional payment system; in 2025 Namibian banks processed R708 billion through SADC-RTGS.
+
+- The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027 ([source, 2025-04-01](https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf)).
+- The CMA committee's paper of 31 July 2024 says banks route low-value cross-border EFTs within the CMA, Namibia among its four members, through the SADC real-time gross settlement system under the interim arrangement, to move to a designated retail system such as TCIB from 1 April 2027 ([source, 2024-07-31](https://www.centralbank.org.sz/wp-content/uploads/2024/07/CMA-position-paper-on-cross-border-low-value-EFT-payments-31-July-2024.pdf)).
+- The Bank of Namibia says Namibian banks processed R708 billion, 25% of the R2.8 trillion total, through SADC-RTGS in 2025, and R76.33 billion in December 2025 per the South African Reserve Bank ([source, 2025](https://www.namibian.com.na/namibian-banks-handle-25-of-sadc-payments/)).
 
 ### Niger: 5 Mature
 
@@ -167,13 +191,6 @@ The country took part in a regional payment system in 2026; cross-border volumes
 - Equatorial Guinea is one of six CEMAC states on GIMACPAY, the regional platform whose interoperable QR Code standard was launched on 29 July 2026 ([source, 2026-07-29](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
 - Equatorial Guinea takes part in GIMACPAY, the CEMAC regional payment platform operated by GIMAC ([source, 2025](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025)).
 
-### Eswatini: 4 Operating
-
-The country took part in a regional payment system in 2025; cross-border volumes are not reported.
-
-- Eswatini payment service providers route low-value CMA cross-border transfers through the SADC-RTGS system and must move them to the TCIB scheme by 31 March 2027 ([source, 2025-03-31](https://www.centralbank.org.sz/wp-content/uploads/2025/04/Eswatini-CMA-Retail-EFT-Payment-Directive-v1.pdf)).
-- The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027 ([source, 2025-04-01](https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf)).
-
 ### Gabon: 4 Operating
 
 The country took part in a regional payment system in 2026; cross-border volumes are not reported.
@@ -209,13 +226,6 @@ The country took part in a regional payment system in 2026; cross-border volumes
 - TechReviewAfrica reports PAPSS is now available to customers of I&M Bank Kenya, who can send money across participating African markets in Kenyan shillings through branches ([source, 2026-09-20](https://techreviewafrica.com/news/7347/papss-goes-live-at-im-bank-kenya-to-expand-cross-border-payments)).
 - Kenya is on PAPSS: the central bank joined in September 2023, KCB went live in March 2025 and Pesalink plugged into PAPSS in February 2026, per tech-ish ([source, 2026-02](https://tech-ish.com/2026/09/17/papss-payments-grew-1000-in-a-year-and-kenya-is-now-on-the-network/)).
 
-### Lesotho: 4 Operating
-
-The country took part in a regional payment system in 2025; cross-border volumes are not reported.
-
-- The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027 ([source, 2025-04-01](https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf)).
-- The CMA committee's paper of 31 July 2024 says banks route low-value cross-border EFTs within the CMA, Lesotho among its four members, through the SADC real-time gross settlement system under the interim arrangement, to move to a designated retail system such as TCIB from 1 April 2027 ([source, 2024-07-31](https://www.centralbank.org.sz/wp-content/uploads/2024/07/CMA-position-paper-on-cross-border-low-value-EFT-payments-31-July-2024.pdf)).
-
 ### Malawi: 4 Operating
 
 The country took part in a regional payment system in 2025; cross-border volumes are not reported.
@@ -227,13 +237,6 @@ The country took part in a regional payment system in 2025; cross-border volumes
 The country took part in a regional payment system in 2026; cross-border volumes are not reported.
 
 - Bank of Mauritius Governor Thakoor says the bank is settlement bank for COMESA's REPSS, which facilitates cross-border payments among member states ([source, 2026-07-15](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)).
-
-### Namibia: 4 Operating
-
-The country took part in a regional payment system in 2025; cross-border volumes are not reported.
-
-- The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027 ([source, 2025-04-01](https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf)).
-- The CMA committee's paper of 31 July 2024 says banks route low-value cross-border EFTs within the CMA, Namibia among its four members, through the SADC real-time gross settlement system under the interim arrangement, to move to a designated retail system such as TCIB from 1 April 2027 ([source, 2024-07-31](https://www.centralbank.org.sz/wp-content/uploads/2024/07/CMA-position-paper-on-cross-border-low-value-EFT-payments-31-July-2024.pdf)).
 
 ### Nigeria: 4 Operating
 

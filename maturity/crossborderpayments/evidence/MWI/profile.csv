@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,crossborder,corridor,coverage,inservice,2025-10,MWI-001;MWI-004;MWI-005;MWI-006;MWI-009,MWI-008=underway;MWI-003=underway;MWI-007=underway,
-MWI,crossborder,regional,coverage,regional,2025-10,MWI-002,,
+MWI,crossborder,corridor,coverage,inservice,2025-10,MWI-001;MWI-004;MWI-005;MWI-006;MWI-009;MWI-010,MWI-008=underway;MWI-003=underway;MWI-007=underway,
+MWI,crossborder,regional,coverage,regional,2025-12,MWI-002;MWI-011,,
 MWI,crossborder,reported,coverage,,,,,nothing found

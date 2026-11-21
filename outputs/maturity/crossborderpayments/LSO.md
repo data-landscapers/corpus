@@ -6,8 +6,8 @@
 
 **Regional system.** [The South African Reserve Bank directive says Common Monetary Area low-value transfers, including Lesotho's, run through the SADC-RTGS regional system](<https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf>). They must move to the TCIB scheme by April 2027.
 
-**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest fact: [in April 2025 the South African Reserve Bank said low-value transfers within the Common Monetary Area run through SADC-RTGS](<https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf>).
+**Volumes reported.** [In December 2025 Lesotho's five participants processed R30.57 billion through SADC-RTGS](<https://www.namibian.com.na/namibian-banks-handle-25-of-sadc-payments/>). That was third by value among the system's 15 countries. The Namibian took the figure from the South African Reserve Bank's settlement report.
 
 ***Also on file***. [M-Pesa](<https://www.connectingafrica.com/fintech/vodacom-lesotho-launches-m-pesa-investment-solution>); [Tsetela](<https://www.connectingafrica.com/fintech/vodacom-lesotho-launches-m-pesa-investment-solution>); [mobile money](<https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf>).
 
-***Not found***. No source found since October 2023 gives a figure for cross-border digital payments.
+***Not found***. Nothing further is asked of this indicator.

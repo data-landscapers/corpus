@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-13-togo-ecobank-is-only-bank-with-certified-business-api-for-waemu-s-instant-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Six institutions in Togo (BIA, BOA, Coris Bank, Ecobank, Orabank, Cofina) are authorized to provide services on PI-SPI, the WAEMU instant payment platform, per Togo First.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
