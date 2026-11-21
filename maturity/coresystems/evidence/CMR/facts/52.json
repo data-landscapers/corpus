@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-18-cmr-businessincameroon-pmsi-dgi-tenders-cancelled",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGIT (Integrated Tax and Duty Management System)",
+   "country_label": "Cameroon",
+   "class": "other",
+   "platform": "contract awarded 2026-04-10, 24-month implementation",
+   "owner": "Directorate General of Taxation (DGI)",
+   "tiers": ""
+  }
+ ],
+ "note": "The tax administration is said to rely on multiple applications, with no core system stated in use or down; SIGIT is a contract awarded, not in use."
+}

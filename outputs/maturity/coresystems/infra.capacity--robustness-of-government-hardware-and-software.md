@@ -197,7 +197,7 @@ The government budgets and pays through a computer system by 2025; no source fou
 
 ### Eswatini: 2 Nascent
 
-The government's financial system was restored in October 2026 after an outage; no source found reports tax and payroll systems.
+The government's financial system was restored in October 2026; the tax portal went down in November and no source found reports a payroll system.
 
 - Eswatini's ICT ministry said on 23 October 2026 that the Integrated Financial Management Information System (IFMIS) was among 13 services restored after disruptions ([source, 2026-10-23](https://eswatinipositivenews.online/govt-restores-13-online-services-website-still-down/)).
 

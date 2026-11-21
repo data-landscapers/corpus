@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-18-bdi-digitalbusiness-nouveau-systeme-integre-gestion-finances-publiques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGEFI",
+   "country_label": "SIGEFI",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance, Budget and Digital Economy",
+   "tiers": ""
+  },
+  {
+   "system": "Nouveau Systeme Integre de Gestion des Finances publiques",
+   "country_label": "new Integrated Public Financial Management System",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance, Budget and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": "The new system's installation was validated on 2026-11-17 for an 18-month deployment; it is not live, and the document does not say how far SIGEFI is in use."
+}

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SWZ,core,finance,coverage,inuse,2026-10-23,SWZ-004;SWZ-005,SWZ-001=down;SWZ-006=down;SWZ-002=down;SWZ-003=down,
-SWZ,core,revenue,coverage,,,,,nothing found
+SWZ,core,revenue,coverage,down,2026-11-17,SWZ-007,,
 SWZ,core,payroll,coverage,,,,,nothing found
 SWZ,core,renewed,coverage,,,,,nothing found
 SWZ,core,architecture,coverage,,,,,nothing found

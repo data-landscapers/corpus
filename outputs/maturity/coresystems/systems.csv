@@ -23,6 +23,8 @@ BDI,biometric HR/payroll,Burundi,other,,,financed for modernisation; not stated 
 BDI,e-KORI,e-KORI,core,,Office Burundais des Recettes (OBR),,2026-08-04-obr-e-kori-plateforme-immatriculation-en-ligne
 BDI,Easy Business,Easy Business,other,,Agence de Développement du Burundi (ADB),,2026-08-04-obr-e-kori-plateforme-immatriculation-en-ligne
 BDI,SIGEFI,SIGEFI,core,,finance ministry,central,2024-01-11-bdi-abp-miels-sigefi-gaps
+BDI,SIGEFI,SIGEFI,other,,"Ministry of Finance, Budget and Digital Economy",,2026-11-18-bdi-digitalbusiness-nouveau-systeme-integre-gestion-finances-publiques
+BDI,Nouveau Systeme Integre de Gestion des Finances publiques,new Integrated Public Financial Management System,other,,"Ministry of Finance, Budget and Digital Economy",,2026-11-18-bdi-digitalbusiness-nouveau-systeme-integre-gestion-finances-publiques
 BFA,CIM (Circuit Intégré de gestion des Missions de l'Administration publique),Burkina Faso,other,,,,2021-09-01-bfa-rapport-annuel-2020
 BFA,TPEE,Tableau prévisionnel des emplois et des effectifs,other,,MENAPLN,,2025-02-14-tcd-unesco-outils-gestion-enseignants-sahel
 BWA,Botswana eHealth Enterprise Architecture,"Botswana eHealth Enterprise Architecture (Ministry of Health, developed 2023-2024)",other,HL7 FHIR / HL7 v2,Ministry of Health,"business, data, application, technology",2026-01-01-developing-a-national-ehealth-enterprise-architecture-in-botswana
@@ -64,6 +66,7 @@ CMR,AIGLE,AIGLE,core,,"Ministry of Public Service and Administrative Reform, wit
 CMR,SIGIPES,SIGIPES,core,,MINFOPRA,,2024-11-04-cmr-cameroon-squares-up-to-its-payroll-fraud-conundrum-with-biometric-veri
 CMR,AIGLES,AIGLES (SIMAC OpenPRH; commissioning from 2024-06-19),other,OpenPRH,MINFOPRA,,2024-11-04-cmr-cameroon-squares-up-to-its-payroll-fraud-conundrum-with-biometric-veri
 CMR,AIGLES,Cameroon,core,,MINFOPRA,,2026-10-27-aigles-le-ministre-joseph-le-motive-l-appropriation-de-loutil-et-annonce-la
+CMR,SIGIT (Integrated Tax and Duty Management System),Cameroon,other,"contract awarded 2026-04-10, 24-month implementation",Directorate General of Taxation (DGI),,2026-11-18-cmr-businessincameroon-pmsi-dgi-tenders-cancelled
 COD,FRAP (fichier de référence de l'administration publique),FRAP,other,,COREF (Ministry of Finance public finance reform committee),,2026-08-19-laprosperite-coref-frap-marche-brondy
 COG,E-TAX,"E-TAX (Tax Management System), Directorate General of Taxes and Domains",core,,"Ministry of Finance and Budget (DGID, DSI)",,2020-06-22-congo-tax-management-system-e-tax
 COG,SYSTAF,SYSTAF automated tax processing system,other,,Ministry of Finance and Budget,,2020-06-22-congo-tax-management-system-e-tax

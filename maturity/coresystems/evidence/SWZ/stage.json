@@ -5,16 +5,16 @@
       "sub_indicator": "core",
       "stage": "2",
       "finance": "inuse",
-      "revenue": "",
+      "revenue": "down",
       "payroll": "",
       "renewed": "",
       "architecture": "",
       "cap": "",
       "flags": "",
       "stage_sources": "SWZ-004",
-      "gaps": "No source found from 2023 or later says both the tax system and the payroll are in use.",
-      "note": "IFMIS was restored on 23 October 2026 after the September outage, so the government again budgets and pays through a computer system: stage 2. Nothing found on tax or payroll, so not 3.",
-      "as_at": "2026-10-26"
+      "gaps": "No source found from 2023 or later says both the tax system and the payroll are in use; the revenue service taxpayer portal was down from 17 November 2026.",
+      "note": "IFMIS was restored on 23 October 2026 after the September outage, so the government again budgets and pays through a computer system: stage 2. The revenue service portal went down on 17 November 2026 (SWZ-007) and nothing is found on payroll, so not 3.",
+      "as_at": "2026-11-21"
     }
   ]
 }
