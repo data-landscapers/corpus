@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "emis",
-      "stage": "no evidence",
-      "system": "",
+      "stage": "2",
+      "system": "underway",
       "learners": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether the education ministry holds its statistics in an information system.",
-      "note": "Reassessed in the rebuild: no evidence row is held.",
-      "as_at": "2026-11-02"
+      "stage_sources": "TUN-001",
+      "gaps": "No source found says the school census is run through the school-life system, or that it holds learner records with a unique number.",
+      "note": "The minister told parliament in November 2026 that the ministry's school-life system, built with the ICT ministry, holds pupils' marks and school records. Nothing found says the school census runs through it, so not 3.",
+      "as_at": "2026-11-21"
     }
   ]
 }

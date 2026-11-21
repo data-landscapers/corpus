@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-tun-alchourouk-school-life-platform-data-sovereign-hosting",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Al Chourouk reports Tunisia's education minister told parliament on 18 November 2026 that the school-life system, built with the communication technologies ministry, lets teachers enter and follow pupils' marks, with pupil and teacher data hosted by the state; no school census through it is stated.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "school-life platform",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "school-life platform",
+   "country_label": "Plateforme de la vie scolaire",
+   "class": "emis",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

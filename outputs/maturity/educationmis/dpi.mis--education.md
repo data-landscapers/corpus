@@ -23,10 +23,10 @@ The AU Digital Education Strategy asks for education management information syst
 | 5 Mature | 4 |
 | 4 Operating | 5 |
 | 3 Established | 18 |
-| 2 Nascent | 20 |
+| 2 Nascent | 21 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
-| No evidence | 3 |
+| No evidence | 2 |
 
 ## Countries
 
@@ -328,6 +328,12 @@ An education information system was under way in 2026; a school census run throu
 - UNESCO states it handed IT equipment (30 tablets, two desktops, routers and other gear) to the Red Sea State Ministry of Education on 12 May 2026 to support implementation of the Education Management and Information System Pilot Project (EMIS) ([source, 2026-05-12](https://www.unesco.org/en/articles/strengthening-education-red-sea-state-through-digital-transformation)).
 - UNESCO states that, funded by the Global Partnership for Education, it handed over Education Management and Information System (EMIS) and Monitoring and Evaluation hardware to Sudan's Ministry of Education, reported 26 April 2026 ([source, 2026-04-26](https://www.unesco.org/en/articles/sudan-advances-education-reform-ministry-declares-2026-year-tvet)).
 
+### Tunisia: 2 Nascent
+
+Tunisia's education ministry ran a national school-life system in 2026; a school census run through it is not known.
+
+- Al Chourouk reports Tunisia's education minister told parliament on 18 November 2026 that the school-life system, built with the communication technologies ministry, lets teachers enter and follow pupils' marks, with pupil and teacher data hosted by the state; no school census through it is stated ([source, 2026-11-18](https://www.alchourouk.com/article/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9-%D9%85%D8%AD%D9%81%D9%88%D8%B8%D8%A9-%D9%81%D9%8A-%D9%85%D9%82%D8%B1-%D8%B3%D9%8A%D8%A7%D8%AF%D9%8A)).
+
 ### Zambia: 2 Nascent
 
 An education information system was under way in 2024; a school census run through it is not on record.
@@ -365,12 +371,6 @@ Nothing found names a national education information system or says there is non
 Not established: Nothing found says whether the education ministry holds its statistics in an information system.
 
 ### Mauritania: No evidence
-
-Nothing found names a national education information system or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the education ministry holds its statistics in an information system.
-
-### Tunisia: No evidence
 
 Nothing found names a national education information system or says there is none, so no stage is set.
 

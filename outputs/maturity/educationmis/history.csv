@@ -82,3 +82,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-15,KEN,dpi.mis--education,fact,4,4,KEN-003;KEN-007,KEMIS held about 5.06 million of 7.2 million primary learners (Nov 2026); birth-certificate row removed as not a link; stays 4
 2026-11-15,LSO,dpi.mis--education,fact,2,2,LSO-002;LSO-003;LSO-004,All 365 secondary schools report through LEMIS (Oct 2026); no census or national statistics through it shown; stays 2
 2026-11-15,ZWE,dpi.mis--education,fact,3,3,ZWE-003;ZWE-001,"Ministry sends enrolment compiled through the revised EMIS to Finance, 12,324 schools equipped (Nov 2026); no learner records; stays 3"
+2026-11-21,TUN,dpi.mis--education,fact,no evidence,2,TUN-001,School-life system described to parliament 18 Nov 2026 (Al Chourouk): a national ministry system holding pupils' marks; no school census through it; no evidence to 2
