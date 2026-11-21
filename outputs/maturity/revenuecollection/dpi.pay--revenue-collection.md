@@ -20,13 +20,13 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 
 | Stage | Countries |
 |---|---|
-| 5 Mature | 10 |
-| 4 Operating | 8 |
-| 3 Established | 32 |
-| 2 Nascent | 2 |
+| 5 Mature | 12 |
+| 4 Operating | 7 |
+| 3 Established | 31 |
+| 2 Nascent | 3 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 2 |
+| No evidence | 1 |
 
 ## Countries
 
@@ -43,6 +43,14 @@ Nearly a third of state revenue was collected through digital channels in 2026; 
 
 - The release says nearly a third of state revenue is now collected through digital channels ([source, 2026-03-25](https://anssfd.bj/benin-la-digitalisation-des-paiements-publics-double-les-ressources-de-letat-et-accelere-linclusion-financiere/)).
 - The release says taxpayers can now declare and pay taxes online, by automated bank transfer or mobile money, with instant receipts ([source, 2026-03-25](https://anssfd.bj/benin-la-digitalisation-des-paiements-publics-double-les-ressources-de-letat-et-accelere-linclusion-financiere/)).
+
+### Congo: 5 Mature
+
+Taxes and customs duties are paid through one national electronic platform, which collected about FCFA 107 billion from June to November 2026.
+
+- Since 3 August 2026 Congolese taxpayers can pay taxes, levies and customs duties online through the Fouta national switch after filing on the E-Tax or Sydonia platforms, with an electronic Treasury receipt issued, according to L'Economie ([source, 2026-08-03](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/)).
+- Yoka said FOUTA is the single payment and collection channel for customs revenue through SYDONIA and tax revenue through e-Tax, as well as forestry, oil, administrative and domain revenue ([source, 2026-11-17](https://www.finances.gouv.cg/fr/articles/questions-orales-avec-d%C3%A9bat-AN_171126)).
+- Yoka said FOUTA had collected nearly FCFA 107 billion by 16 November 2026, FCFA 94 billion through e-Tax and FCFA 13 billion through SYDONIA, against about FCFA 1 billion for its predecessor e-Pay ([source, 2026-11-16](https://www.finances.gouv.cg/fr/articles/questions-orales-avec-d%C3%A9bat-AN_171126)).
 
 ### Cote d'Ivoire: 5 Mature
 
@@ -64,6 +72,14 @@ About GH¢1.6 billion passed through the government's payment portal from 2019 t
 - President Akufo-Addo said transactions worth some GH¢1.6 billion had passed through the Ghana.gov payment portal since its launch in 2019, improving revenue collection ([source, 2024-05-13](https://3news.com/featured/ghanas-e-initiatives-good-model-for-digital-transformation-in-africa-akufo-addo)).
 - Ghana Police say traffic fines notified under TraffiTech-GH from 1 November 2026 can be paid electronically by mobile money or card within 14 days ([source, 2026-11-01](https://www.wearetech.africa/fr/fils/actualites/tech/ghana-la-police-deploie-des-cameras-connectees-pour-automatiser-le-controle-routier)).
 - The Ghana Revenue Authority says domestic taxpayers pay taxes on the Ghana.gov platform by bank card, QR code, mobile money USSD and bank transfers, and at 22 designated banks, from 1 May 2021 ([source, 2021-04-21](https://gra.gov.gh/cashless-policy/)).
+
+### Kenya: 5 Mature
+
+Sh100.8 billion was paid through the government's single payment platform in the year to June 2024; electronic payment of customs duties is not on record.
+
+- Business Daily reports KRA allowed taxpayers five more days from 1 July 2025 to file annual returns and pay taxes due 30 June after the iTax system crashed under deadline traffic ([source, 2025-07-01](https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392)).
+- Since a 17 November 2023 notice, stamp duty is paid electronically through Ardhipay on the Ardhisasa portal by M-PESA Paybill 222222 or bank RTGS, per ANO Advocates ([source, 2023-11-17](https://anoadvocates.com/insights/stamp-duty-payments-simplified-by-ardhipay)).
+- Mbadi gave e-Citizen collections of Sh26.4 billion in the year to June 2023 and Sh100.8 billion in the year to June 2024 ([source, 2024-06](https://www.businessdailyafrica.com/bd/economy/state-collects-sh127bn-via-e-citizen-4784244)).
 
 ### Mali: 5 Mature
 
@@ -129,13 +145,6 @@ Chad's main taxes are filed and paid online and customs duties paid electronical
 - The director general of taxes says E-Tax lets taxpayers pay all taxes and duties they owe online, and that the DGI is interconnected with eight banks ([source, 2024-03-20](https://tchadinfos.com/2024/03/20/vulgarisation-de-e-tax-la-direction-des-impots-echange-avec-les-experts-comptables-et-les-conseillers-fiscaux/)).
 - Chad's customs e-payment system, launched 21 February 2024, lets all customs duties and taxes be paid electronically by SYDONIA World tele-payment, bank transfer or mobile money, with an automatic receipt ([source, 2024-02-21](https://douanes.td/e-douane/e-paiement/)).
 - The Director General of Taxes said that through the E-Tax platform, launched in 2022, anyone can declare and pay taxes online, with banks and mobile operators facilitating electronic payments ([source, 2025-08-29](https://tchadinfos.com/2025/08/29/la-direction-generale-des-impots-lance-une-campagne-nationale-de-sensibilisation-sur-le-civisme-fiscal-et-la-plateforme-e-tax/)).
-
-### Congo: 4 Operating
-
-Since 2026 taxes and customs duties are filed and paid online through a national switch; the electronic share is not reported.
-
-- Since 3 August 2026 Congolese taxpayers can pay taxes, levies and customs duties online through the Fouta national switch after filing on the E-Tax or Sydonia platforms, with an electronic Treasury receipt issued, according to L'Economie ([source, 2026-08-03](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/)).
-- MTN Congo's page says taxpayers fill in their tax declaration on impots.gouv.cg and pay e-tax and e-douane bills by MTN Mobile Money, free of charge, from 1 to 750,000 FCFA ([source, 2024-11-20](https://www.mtn.cg/momo/particuliers/e-pay-for-e-tax-e-douane/)).
 
 ### Lesotho: 4 Operating
 
@@ -231,13 +240,6 @@ Taxes could be declared and paid online in 2026; no source found says customs du
 Import VAT has been payable only through the Kontaktu platform since December 2025; whether the main taxes follow is not known.
 
 - The Guinea-Bissau tax directorate (DGCI) circular of 10 December 2025 makes declaration and payment of import-related VAT compulsory exclusively through the Kontaktu platform, and the portal's simplified payment area lets some taxes be paid without a declaration file ([source, 2025-12-10](https://kontaktu.mef.gw/)).
-
-### Kenya: 3 Established
-
-Annual tax returns were filed and taxes paid online in 2025; no source found says customs duties are paid electronically.
-
-- Business Daily reports KRA allowed taxpayers five more days from 1 July 2025 to file annual returns and pay taxes due 30 June after the iTax system crashed under deadline traffic ([source, 2025-07-01](https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392)).
-- Since a 17 November 2023 notice, stamp duty is paid electronically through Ardhipay on the Ardhisasa portal by M-PESA Paybill 222222 or bank RTGS, per ANO Advocates ([source, 2023-11-17](https://anoadvocates.com/insights/stamp-duty-payments-simplified-by-ardhipay)).
 
 ### Liberia: 3 Established
 
@@ -384,11 +386,11 @@ Electronic payment of taxes or fees was under way in 2025; none in service is on
 
 - The World Bank committed US$20m in 2025 to the Djibouti Economic and Financial Governance Project, which includes tax administration system modernization and sets a PDO target of 70% tax e-filing adoption by December 2029 (ITAS indicator at 0% as of the January 2026 review) ([source, 2025](https://projects.worldbank.org/en/projects-operations/project-detail/P180696)).
 
-### Equatorial Guinea: No evidence
+### Equatorial Guinea: 2 Nascent
 
-Nothing found names electronic payment of taxes or fees or says there is none, so no stage is set.
+A 2025 order ends cash collection of some public revenues; whether any tax or fee is paid electronically is not on record.
 
-Not established: Nothing found says how taxes and fees are paid.
+- Diario Rombe reports that Presidential Order 3/2025 sets the abandonment of cash collection of certain public revenues, and that on 30 September 2026 Muni proposed its wallet as an electronic payment channel for state taxes and fees, which the Ministry of Transport said it would study ([source, 2026-09-30](https://diariorombe.es/tecnologia/muni-dinero-la-plataforma-financiera-de-pastor-hassan-obiang-mangue-creado-con-dinero-publico-que-aspira-a-entrar-en-las-cuentas-del-estado-y-concentrar-informacion-economica-de-los-ciudadanos/)).
 
 ### Eritrea: No evidence
 

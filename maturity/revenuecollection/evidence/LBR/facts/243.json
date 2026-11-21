@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-16-lbr-liberias-new-york-consulate-introduces-online-payment-for-services",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Liberia's Consulate General in New York accepts electronic payment of fees for all consular services through its website, announced 16 November 2026.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Consulate General online payment platform",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

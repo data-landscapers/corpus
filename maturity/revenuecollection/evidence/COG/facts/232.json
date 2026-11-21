@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-17-cog-questions-orales-avec-debat-a-l-assemblee-nationale-fouta",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Finance minister Christian Yoka told the National Assembly that the FOUTA platform, launched on 1 June 2026, collects public revenue through seven named banks, with MUCODEC and UBA to join.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "FOUTA",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "main",
+   "value": "main",
+   "fact": "Yoka said FOUTA is the single payment and collection channel for customs revenue through SYDONIA and tax revenue through e-Tax, as well as forestry, oil, administrative and domain revenue.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "FOUTA",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "Yoka said FOUTA had collected nearly FCFA 107 billion by 16 November 2026, FCFA 94 billion through e-Tax and FCFA 13 billion through SYDONIA, against about FCFA 1 billion for its predecessor e-Pay.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "FOUTA",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FOUTA",
+   "country_label": "Congo",
+   "class": "revenue",
+   "platform": "built by a Congolese company",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

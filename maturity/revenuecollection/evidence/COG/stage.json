@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "4",
+      "stage": "5",
       "payment": "inservice",
       "main": "main",
-      "reported": "",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "COG-001;COG-007",
-      "gaps": "No source found since October 2023 gives a figure for revenue paid electronically. Fouta was still rolling out to all taxpayers by the end of 2026 (COG-002).",
-      "note": "Reassessed 2026-11-15: COG-001 (August 2026) has taxpayers filing on E-Tax or Sydonia and paying taxes and customs duties online through Fouta, and COG-007 (2024) has e-tax and e-douane bills paid by mobile money, so the main taxes and customs duties are filed and paid electronically. No figure for revenue paid electronically, so not stage 5.",
-      "as_at": "2026-11-15"
+      "stage_sources": "COG-001;COG-013;COG-014",
+      "gaps": "",
+      "note": "Reassessed 2026-11-21: the finance minister told the National Assembly that FOUTA, the single channel for taxes through e-Tax and customs duties through SYDONIA, had collected about FCFA 107 billion from 1 June to 16 November 2026 (COG-013, COG-014). That is a figure for revenue paid electronically, so 5.",
+      "as_at": "2026-11-21"
     }
   ]
 }

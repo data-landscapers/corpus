@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-18-cog-congo-107-milliards-fcfa-de-recettes-publiques-collect-es-par-la-nouve",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Minister Christian Yoka said the Fouta platform collected 107 billion FCFA from its launch on 1 June to 16 November 2026, through seven banks.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Fouta",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "main",
+   "value": "main",
+   "fact": "The ministry says 94 billion FCFA came from taxes through the e-Tax online filing and payment system and 13 billion from duties and taxes through Sydonia customs.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Fouta",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The ministry says revenue collected through Fouta equals 8.5% of 2026 tax revenue, 107 billion FCFA by 16 November.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Fouta",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fouta",
+   "country_label": "Fouta",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ministère des Finances",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

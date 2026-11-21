@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-16-gnq-diariorombe-muni-dinero-public-funds-wallet",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Diario Rombe reports that Presidential Order 3/2025 sets the abandonment of cash collection of certain public revenues, and that on 30 September 2026 Muni proposed its wallet as an electronic payment channel for state taxes and fees, which the Ministry of Transport said it would study.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Muni Dinero",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

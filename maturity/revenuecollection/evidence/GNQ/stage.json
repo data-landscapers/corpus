@@ -1,17 +1,18 @@
 {
- "iso3": "GNQ",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "no evidence",
-   "payment": "",
-   "main": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says how taxes and fees are paid.",
-   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
-  }
- ]
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "payment": "underway",
+      "main": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNQ-001",
+      "gaps": "No source found says electronic payment of a tax or fee is in service, that the main taxes and customs duties are filed and paid electronically, or gives a figure for revenue paid electronically.",
+      "note": "Presidential Order 3/2025 sets the abandonment of cash collection of certain public revenues, and a wallet was proposed as a channel for taxes in September 2026 (GNQ-001): yes to question 1. Nothing says electronic payment of a tax is in service, so not 3.",
+      "as_at": "2026-11-21"
+    }
+  ]
 }

@@ -65,3 +65,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-15,MUS,dpi.pay--revenue-collection,fact,3,4,MUS-009;MUS-004,"MRA April 2025: companies pay corporate tax, VAT, PAYE, APS and TDS electronically; with customs duties paid through TradeNet (MUS-004), the main taxes and duties are paid electronically; 3 to 4"
 2026-11-16,BFA,dpi.pay--revenue-collection,ruling,3,4,BFA-005;BFA-001;BFA-002,messages-for-bill 136: separate sources may add up; 3->4
 2026-11-16,NAM,dpi.pay--revenue-collection,ruling,3,4,NAM-002,messages-for-bill 136: separate sources may add up; 3->4
+2026-11-21,KEN,dpi.pay--revenue-collection,fact,3,5,KEN-001;KEN-004;KEN-007,"Sh100.8bn collected through eCitizen in FY2023/24 is a figure for revenue paid electronically; later-yes rule, 3 to 5"
+2026-11-21,COG,dpi.pay--revenue-collection,fact,4,5,COG-001;COG-013;COG-014,"FOUTA collected FCFA 107bn, June to November 2026, through e-Tax and SYDONIA: a figure, 4 to 5"
+2026-11-21,GNQ,dpi.pay--revenue-collection,fact,no evidence,2,GNQ-001,"Order 3/2025 ends cash collection of some revenues; wallet proposed for taxes: question 1, no evidence to 2"

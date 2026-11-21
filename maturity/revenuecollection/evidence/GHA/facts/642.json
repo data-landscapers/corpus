@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-13-iss-ghana-digital-revolution-economic-growth",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "ISS says Ghana has a fully digital platform to pay for all government services, including driver's licences and car registrations.",
+   "as_of": "2025-08-13",
+   "date_precision": "day",
+   "system": "government digital payment platform",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

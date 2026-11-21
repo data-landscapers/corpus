@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-tun-tunisiens-l-tranger-les-passeports-bient-t-accessibles-via-e-consulat",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Foreign Minister said electronic payment of consular services has been introduced in several missions, ahead of progressive generalisation.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "electronic payment of consular services",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

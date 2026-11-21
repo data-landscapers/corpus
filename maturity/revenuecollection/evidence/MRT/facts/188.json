@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-21-mrt-taqadoumy-emr-national-id-electronic-payment",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Health Minister said, on a visit to the Cheikh Zayed clinic on 21 February 2026, that the hospital had begun taking electronic payment instead of cash.",
+   "as_of": "2026-02-21",
+   "date_precision": "day",
+   "system": "Electronic payment at Cheikh Zayed hospital",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -6,8 +6,8 @@
 
 **Main taxes and duties.** No source found since October 2023 says customs duties are paid electronically. The nearest fact found: [in July 2025 annual returns were filed and taxes paid through KRA's iTax system](<https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392>).
 
-**Share reported.** No source found since October 2023 gives a figure for revenue paid electronically. The nearest fact found: [in October 2026 TNX Africa said eCitizen processes billions in public revenue](<https://www.tnx.africa/national/article/2001560974/national-treasury-pushes-new-regulations-plan-to-run-e-citizen>).
+**Share reported.** In October 2024 the Treasury Cabinet Secretary [gave eCitizen's collections to the Senate](<https://www.businessdailyafrica.com/bd/economy/state-collects-sh127bn-via-e-citizen-4784244>). They were Sh26.4 billion in the year to June 2023 and Sh100.8 billion in the year to June 2024. [At least Sh127.2 billion had passed through it](<https://www.businessdailyafrica.com/bd/economy/state-collects-sh127bn-via-e-citizen-4784244>) since all services were ordered paid through one number.
 
 ***Also on file***. [Electronic invoicing (eTIMS) mandate / Incomes and Expenses Validation](<https://horneconomicreview.com/2026/08/19/uganda-adopts-phased-electronic-invoicing-rollout-contrasting-kenyas-simultaneous-approach/>).
 
-***Not found***. No source found since October 2023 says customs duties are paid electronically. No figure for revenue paid electronically has been found.
+***Not found***. No source found since October 2023 says customs duties are paid electronically.

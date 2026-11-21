@@ -78,6 +78,8 @@ COG,SFEC (Systeme de facturation electronique certifie),Congo,other,,Direction g
 COG,Fouta,Congo,other,national payment switch / e-filing and e-payment application,"Ministry of Finance, Budget and Public Portfolio",,2026-06-25-cog-execution-du-budget-de-l-etat-les-deputes-s-impregnent-du-fonctionneme
 COG,Guichet unique du paiement (GUP),Congo,other,single payment window,Banque postale,,2026-06-25-cog-execution-du-budget-de-l-etat-les-deputes-s-impregnent-du-fonctionneme
 COG,E-Tax / E-Douane (impots.gouv.cg),COG,revenue,impots.gouv.cg,,,2024-11-20-cog-e-pay-for-e-tax-e-douane
+COG,Fouta,Fouta,revenue,,Ministère des Finances,,2026-11-18-cog-congo-107-milliards-fcfa-de-recettes-publiques-collect-es-par-la-nouve
+COG,FOUTA,Congo,revenue,built by a Congolese company,Ministry of Finance,,2026-11-17-cog-questions-orales-avec-debat-a-l-assemblee-nationale-fouta
 COM,téléprocédures fiscales (télédéclaration and télépaiement),Comoros,revenue,,Direction Générale des Impôts,,2026-04-15-com-dgi-atelier-teleprocedures-fiscales-cadre-juridique
 COM,téléprocédures fiscales (télédéclaration and télépaiement),Comoros,revenue,,Direction Générale des Impôts,,2026-04-15-com-dgi-validation-cadre-juridique-teleprocedures-fiscales
 COM,Plateforme fiscale (télédéclaration and télépaiement),Comoros,revenue,official tax platform,Tax administration,"large, medium, other taxpayers",2025-12-26-loi-de-finances-2026-teledeclaration-telepaiement
@@ -172,6 +174,7 @@ LBR,LITAS,Liberia,revenue,,Liberia Revenue Authority,,2025-07-23-lra-orange-ecob
 LBR,NEPS/IIPS,LBR,revenue,,Central Bank of Liberia,,2025-09-23-cbl-directive-002-2025-routing-government-payments-neps-iips
 LBR,Liberia Integrated Tax Administration System (LITAS),Liberia,other,,Liberia Revenue Authority,,2025-08-21-lbr-lra-trains-staff-on-new-digital-tax-payment-system
 LBR,LITAS,Liberia,other,,Liberia Revenue Authority,,2026-04-15-lbr-lra-hosts-first-digital-symposium-to-showcase-technology-driving-tax-c
+LBR,LRA online payment system,LRA online payment system,revenue,,Liberia Revenue Authority,,2026-11-16-lbr-mme-trains-certifies-geologists-mining-consultancy-firms-on-licensing
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-cbl-electronic-transactions-865-billion-dinars
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-lby-cbl-governor-banks-moamalat-liquidity-epayment
 LBY,e-payment,Libya,other,,Central Bank of Libya,,2026-01-20-cbl-epayment-2025-up-186pc-389bn-libyaherald
@@ -219,6 +222,7 @@ MLI,digitalisation des moyens de paiement dans les services publics,Mali,revenue
 MLI,Sama Money (app and USSD),Mali,other,"mobile app, USSD",Sama Money,"Commune V, Bamako",2026-10-30-mli-recouvrement-digital-des-taxes-et-redevances-communales-la-mairie-de-l
 MLI,Trésor Pay,Mali,revenue,,CAISFF with Direction nationale du Trésor et de la Comptabilité publique,,2025-03-19-mli-digitalisation-de-ladministration-deux-nouvelles-plateformes-de-modern
 MLI,Tresor Pay,Mali,revenue,mobile money operators,CAISFF and National Treasury directorate,"transport directorate, Commune IV",2025-03-18-mli-primature-tresor-pay-sif-guf-presentation
+MLI,TresorPay,Mali,revenue,,Ministry of Economy and Finance,,2026-11-16-mli-tresorpay-545-tablets
 MOZ,M-Pesa,MOZ,other,,Vodacom Mozambique,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
 MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
 MOZ,e-Tributacao,Mozambique,revenue,,Autoridade Tributaria,,2016-05-01-moz-imf-fad-iva-administracao-tributaria
@@ -386,6 +390,7 @@ ZMB,Lipila toll payments,Zambia,revenue,mobile money,National Road Fund Agency,,
 ZMB,CIPS,Cross-Border Interbank Payment System,other,,China,,2026-09-23-zmb-rmb-payment-system-china-cips
 ZMB,Integrated Payment System,Zambia,revenue,"TaxOnApp, TaxOnPhone, Customs Portal, TaxOnline Portal, WhatsApp Payment",Zambia Revenue Authority,,2024-02-07-zmb-zra-adopts-advanced-technology-system-in-income-collection
 ZMB,Zampay,Zampay,revenue,national payments portal,Government of Zambia,,2025-10-09-zmb-zambia-visa-sign-mou-to-accelerate-digital-payments-push
+ZMB,SZI talks with MTN MoMo,Zambia,other,,Smart Zambia Institute,,2026-11-16-zmb-ecofin-smart-zambia-mtn-momo-government-payments
 ZWE,TaRMS,Zimbabwe,revenue,,ZIMRA,,2023-10-01-zwe-zimra-tarms-single-account-payments
 ZWE,TaRMS,Zimbabwe Revenue Authority Tax and Revenue Management System,revenue,,Zimbabwe Revenue Authority,,2024-03-01-zwe-zimra-tarms-release-2-live
 ZWE,ZINARA multi-currency e-wallet platform,Zimbabwe,revenue,"iOS, Android, web, USSD",ZINARA,,2026-10-24-zwe-zinara-rolls-out-multi-currency-e-wallet-platform

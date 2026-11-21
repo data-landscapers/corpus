@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COG,revenue,payment,coverage,inservice,2026-08-03,COG-001;COG-003;COG-004;COG-005;COG-007,COG-002=underway;COG-006=underway,
-COG,revenue,main,coverage,,,,,nothing found
-COG,revenue,reported,coverage,,,,,nothing found
+COG,revenue,payment,coverage,inservice,2026-11-16,COG-003;COG-004;COG-005;COG-007;COG-009;COG-012,COG-008=underway;COG-002=underway;COG-006=underway,
+COG,revenue,main,coverage,main,2026-11-17,COG-001;COG-010;COG-013,,
+COG,revenue,reported,coverage,reported,2026-11-16,COG-011;COG-014,,
