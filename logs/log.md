@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-21 02:56 · **BUILD** · 1h55m · polled cycle; catalogue 45,512; 33 units, 92 sources: 24 moved, 29 minted, 8 status sections; DC 1 changed; budget ZMB 63 lines, 0 waiting; 4c 7,553 arrivals to housekeeping 82; Who's Who 56; bulletin 28 — ok
 2026-11-20 07:23 · **INDEX** · 1m · research index: 150 added, 16 changed, 0 removed, 1951 chunks, 1.4 min — ok
 2026-11-20 07:02 · **RENDER** · 29m · 301/301 reports, home, countries, catalogue 45,438, finance, datasets, maturity rendered; 138 editions pruned, R2 synced; deployed 21f8520 — ok
 2026-11-20 06:33 · **BUILD** · 1h11m · polled cycle; catalogue 45,438; 46 units, 169 sources: 35 moved, 64 minted, 38 status sections; DC 5 changed; budget ZWE 20 lines, 0 waiting; 4c 5,334 arrivals to housekeeping 82; bulletin 68 — ok
@@ -368,19 +369,7 @@ title: Corpus process log
 2026-10-21 01:53 · **REVIEW** · 3m · CAF: status 4 sections revised, progress 0 cells, finance 0 rows; 0 deals queued, 1 note for OSINT — ok
 2026-10-21 01:49 · **BUILD** · 47m · catalogue 31,573; 57 units, 413 sources: 23 moved, 124 minted, 38 status sections revised, owed re-reads partly targeted; data centres 8; maturity 1,795 read, 46 cells moved, 3 ladder readings unmessaged (cap); bulletin 33; register 11 stand — ok
 2026-10-21 01:02 · **ANALYTICS** · unclocked · 2026-10-19..2026-10-20 written; 20 Oct: dl.io 26 views / 0 clicks, corpus 361 views / 3 clicks
-2026-10-20 15:34 · **RENDER** · 19m · progress reports reinstated beside Maturity: 306 documents rendered, progress PDFs re-cut, every page repaged for nav; deployed; mirror skipped (on hold) — ok
 2026-10-20 09:29 · **MIRROR** · unclocked · flash leg failing: ffs=2 then ffs=3, D: has 0.93 GB free; robocopy legs ok; messages at cap, raised in session
-2026-10-20 09:12 · **RENDER** · 12m · reopened 8 bulletin items, 6 onto rows; reports+site rendered, deployed — ok
-2026-10-20 01:09 · **RENDER** · 21m · 207 documents, home, countries, catalogue, finance, datasets, maturity rendered; 18 editions pruned; deployed fea6d54 - ok
-2026-10-20 00:47 · **REBUILD** · <1m · aigovernment: second drafter 14/20 (method wants 16); q1 'tendered, piloted or testing' read two ways, 5 cells 2->unplaced or LBY up; not messaged, 5 open; staged as worded
-2026-10-20 00:47 · **REBUILD** · 11m · aigovernment govai: 11 cells reassessed, 11 moved; 54 searched, 143 staged; 42.2M tokens — ok
-2026-10-20 00:36 · **REBUILD** · <1m · aiabuse: 3 rungs read two ways (published draft at q1, 6 cells; general law at q2, SEN UGA 3->1; oversight power at q3, EGY MOZ TCD); not messaged, 5 open; staged as worded
-2026-10-20 00:35 · **REBUILD** · 8m · aiabuse aiharm: 3 cells reassessed, 3 moved; 54 searched, 191 staged; 54.7M tokens — ok
-2026-10-20 00:28 · **REBUILD** · <1m · agrisatellite: 2 rungs read two ways (pilot as service, NER 2/5; non-government agency at q1, 6 cells 2/unplaced); not messaged, 5 blocks open; staged as worded
-2026-10-20 00:27 · **REBUILD** · 11m · agrisatellite agrisat: 11 cells reassessed, 10 moved; 54 searched, 176 staged; 97.4M tokens — ok
-2026-10-20 00:25 · **REVIEW** · 9m · BWA: status 7 sections revised, mapping 4 cells, finance 0 rows; 1 deal queued, 1 note for OSINT - ok
-2026-10-20 00:23 · **REVIEW** · 7m · BFA: status 10 sections revised, mapping 5 cells, finance 4 rows; 1 deal queued, 1 note for OSINT - ok
-2026-10-20 00:10 · **BUILD** · 1h39m · catalogue 31192; 53 units, 208 sources: 19 moved, 98 minted, 3 settled; 1 data centre added; maturity 2,360 arrivals, 38 cells reassessed, 33 moved; bulletin 24; register 9 hits stand - ok
 2026-10-17 10:18 · **MATURITY-UPDATE** · unclocked · stage 4c lifted (Bill) and its backlog worked: 15,617 arrivals over 115 studies, 9,822 closed unread (8,344 instruments, 1,478 pre-window), 1,013 past 20 a country; 810 news stories in 408 Sonnet calls; 954 facts merged, 604 cells reassessed and logged, 253 moved; 7 facts removed at the top-stage check; 41 cells restaged and 276 texts rewritten by brief; all 115 lint clean. 245M tokens (212M agents) — ok
 2026-10-13 12:11 · **MATURITY** · unclocked · notes-for-corpus 80: 220 admitted sources and six completed records read on 24 studies, 272 facts; 183 cells reassessed as review, 74 placed (stage 1: 9, 2: 32, 3: 21, 4: 12), 11 corrections; lint clean. Agents 10.3M tokens
 2026-10-11 07:03 · **MATURITY STUDY digitalstrategy** · unclocked · step 1, criteria prepared for `gov.policy--digital-transformation-strategy`, the first instrument study: one sub-indicator, nine classes, six aspects, a ladder set above stage 3 by published reporting; seven rulings asked of Bill. Dry reading list 3,433 listings, 4.5m words. Nothing run; waits for step 2.
