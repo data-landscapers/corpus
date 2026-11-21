@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-13-iss-ghana-digital-revolution-economic-growth",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ISS says Ghana launched a biometric smart national ID system in 2008, with the card rolled out from 2018 giving each citizen a PIN, and the NIA reports 17.6 million cards issued by May 2025.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

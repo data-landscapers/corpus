@@ -9,10 +9,10 @@
       "assurance": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-008;LBR-005",
-      "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-      "note": "Stage 3: about 720,000 people were enrolled in the NBIS by September 2026 and cards are issued in Monrovia; the contract for biometric deduplication awaits ratification. No source shows deduplication running, so stage 4 is not met.",
-      "as_at": "2026-11-08"
+      "stage_sources": "LBR-029;LBR-008;LBR-005",
+      "gaps": "No source found since October 2023 says the system checks people by biometrics. The OeSD concession that was to bring deduplication was unratified, and the House endorsed a report recommending its rejection in November 2026.",
+      "note": "Stage 3: the registry held about 740,000 records on the Techno Brain system in November 2026 (LBR-029, LBR-031), and cards are issued in Monrovia. No source shows biometric deduplication running, so stage 4 is not met.",
+      "as_at": "2026-11-21"
     }
   ]
 }

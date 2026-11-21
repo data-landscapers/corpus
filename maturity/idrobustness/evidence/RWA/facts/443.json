@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-17-rwa-digital-id-registration-resumes-in-all-districts",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The New Times reports NIDA resumed Single Digital ID registration in all districts on 17 November 2026, running to 16 January 2027, with residents bringing national identity cards and ID numbers.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Single Digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Single Digital ID",
+   "country_label": "Single Digital ID",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

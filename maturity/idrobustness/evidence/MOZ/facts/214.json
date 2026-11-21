@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-03-world-bank-mocambique-documentos-identificacao-gratuitos",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The World Bank says Mozambique's DNIC, with EDGE support, delivered at least 140,000 identification documents free in a few months from a national free-ID campaign launched on 2023-11-13.",
+   "as_of": "2024-07-03",
+   "date_precision": "day",
+   "system": "DNIC national identification",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DNIC national identification",
+   "country_label": "Mozambique",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DNIC, Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-lbr-liberianobserver-us52m-national-id-concession-local-firm",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Liberian Observer reports NIR Executive Director Andrew Peters confirmed in September 2026 that the agreement with OeSD International GmbH for a national biometric identification system, worth a proposed US$52 million, had been signed but awaits legislative ratification.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National Identification and Biometric System concession",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": "Biometric checks, audits and coverage are not stated."
+}

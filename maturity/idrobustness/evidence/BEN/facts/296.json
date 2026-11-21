@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-08-cybersecuritymag-rnpp-benin-securite-donnees-personnelles",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The article says the national persons register assigns each person a unique number and holds records for more than ten million people.",
+   "as_of": "2025-01-08",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": "Biometric data held, but no duplicate check or audit stated."
+}

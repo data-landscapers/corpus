@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-tza-citizen-new-national-id-integrated-records",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Citizen reports Nida issues national ID cards and Nida numbers, and the 2026 edition of the card will be issued to people registering from 18 November 2026, with existing cards staying valid.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "National ID card (Nida)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-08-fij-nincard-illegally-provided-id-services-nimc",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "FIJ describes NIMC as running NIN enrolment through licensed front-end partners, with a National Identity Database and NIN printing and verification services.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "National Identity Database",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Database",
+   "country_label": "NIN (NIMC)",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

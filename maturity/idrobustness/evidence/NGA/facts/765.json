@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-25-businessday-diaspora-nin-enrolment-up-308-percent",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "BusinessDay, citing NIMC data, reports total NIN enrolments reached 117 million by 28 February 2025, up from 96.5 million in February 2023, in a database holding demographic data, fingerprints and facial images.",
+   "as_of": "2025-02-28",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN) database",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN) database",
+   "country_label": "Nigeria",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identity Management Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

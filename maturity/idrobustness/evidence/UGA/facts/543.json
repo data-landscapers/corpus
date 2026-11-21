@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-12-xaf-africas-uncollected-national-id-cards-mass-issuance",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update reports Uganda said 10 million of 15.4 million printed national ID cards had been picked up, with 35 percent uncollected.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "Uganda national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Uganda national ID card",
+   "country_label": "UGA",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

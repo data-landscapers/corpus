@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-21-advox-digital-id-africa-inclusion-or-privacy-threat",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Global Voices Advox says millions use Kenya's Maisha Namba digital ID for healthcare, education and finance.",
+   "as_of": "2025-04-21",
+   "date_precision": "day",
+   "system": "Maisha Namba",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maisha Namba",
+   "country_label": "Maisha Namba",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

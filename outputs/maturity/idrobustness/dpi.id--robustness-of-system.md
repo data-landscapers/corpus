@@ -266,6 +266,7 @@ The national ID system was issuing unique numbers in 2025; no source found repor
 
 The national ID system was issuing unique numbers in 2026; no source found reports biometric checks.
 
+- NIR executive director Andrew Peters said the registry has accumulated approximately 740,000 records over its nine years of existence, on an existing system developed by TecnoBrain ([source, 2026-11-13](https://www.newerainquirer.com/article/29a1a5b7-1ba2-4dde-a435-3dae7102b0f6)).
 - The proclamation says about 720,000 people are enrolled in the NBIS and that every person in Liberia is required to enrol, with citizen or foreign-national status recorded ([source, 2026-09-16](https://www.africa-newsroom.com/press/liberia-president-boakai-declares-wednesday-september-16-as-national-identification-day?lang=en)).
 - The article says citizens outside Monrovia must travel to the capital to register and obtain national ID cards from the National Identification Registry, whose director says it wants to replace its current technology under a proposed US$39 million plan ([source, 2026-08-31](https://knewsonline.com/liberia-plans-nationwide-same-day-national-id-service-seeks-us39-million-for-rollout)).
 

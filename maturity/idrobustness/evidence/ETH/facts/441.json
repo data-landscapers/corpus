@@ -1,0 +1,15 @@
+{
+ "slug": "2024-10-25-addis-standard-unhcr-refugee-children-unregistered",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Fayda (National ID Program)",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": "Biometric checks are given only as the aim of the Fayda number, and no enrolment or issuance is stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-08-addis-fortune-national-id-limited-acceptance-printing-quality",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Addis Fortune reports the National ID Program (Fayda) is issuing unique identification numbers and cards, with about 10 million people registered and enrolment running since September 2022.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "National ID Program, Prime Minister's Office",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

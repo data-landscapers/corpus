@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-25-capital-addressing-digital-id-gap-among-idps",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Capital newspaper reports that about 3.8 million people have been registered in Ethiopia's national identification programme, whose Fayda ID carries a unique 12-digit number, with registration centres at nine banks and 69 Addis Ababa branches.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": "No biometric deduplication check, certification or population share is stated."
+}

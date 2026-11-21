@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-13-stp-glebatv-biometric-kits-five-embassies-diaspora-id",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Gleba TV reports that the Directorate-General of Registry and Notary received five biometric enrolment kits for missions abroad, as part of building the National Digital Identity System under the World Bank-financed STP Digital project, with installation due to start from December 2026.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "Sistema Nacional de Identidade Digital",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema Nacional de Identidade Digital",
+   "country_label": "Sao Tome and Principe",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Direcao-Geral do Registo e do Notariado",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

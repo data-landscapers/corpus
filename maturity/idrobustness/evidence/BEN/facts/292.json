@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-20-idtechwire-giz-benin-digital-identity-eservices-tender",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ID Tech Wire reports that Benin's National Register of Persons assigns unique Personal Identification Numbers (NPI) to individuals, holding civil status and biometric data for about 10 million people.",
+   "as_of": "2024-12-20",
+   "date_precision": "day",
+   "system": "National Register of Persons (NPI)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Register of Persons",
+   "country_label": "National Register of Persons (RNPP), NPI",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

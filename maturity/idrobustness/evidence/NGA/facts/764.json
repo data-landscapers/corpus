@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-21-advox-digital-id-africa-inclusion-or-privacy-threat",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Global Voices Advox says millions use Nigeria's National Identification Number programme for healthcare, education and finance.",
+   "as_of": "2025-04-21",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN)",
+   "country_label": "National Identification Number (NIN)",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-uga-new-national-id-verification-glitches-spark-delays-at-banks-agencies-e",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA issues new national identity cards and the National Identification Register holds each person's particulars retrievable by NIN, per NIRA's registrar.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "National Identification Register (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

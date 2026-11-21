@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-12-xaf-africas-uncollected-national-id-cards-mass-issuance",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Kenya's Principal Secretary for Immigration said in early November 2026 that more than 550,000 printed national ID cards remained uncollected.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Kenya national ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya national ID card",
+   "country_label": "KEN",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-15-nation-national-id-chaos-threatens-voter-registration",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Nation Online quotes the NRB spokesperson saying NRB printed 1.8 million national IDs under distribution and had completed printing a further 1.5 million.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Malawi national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

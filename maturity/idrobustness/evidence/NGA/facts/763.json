@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-15-nimc-eyes-nin-enrollment-for-every-nigerian-by-year-end",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIMC's Director-General said on 14 May 2025 that 120,040,000 Nigerians were enrolled in the National Identity Database, whose capacity was raised from 100 million to 250 million.",
+   "as_of": "2025-05-14",
+   "date_precision": "day",
+   "system": "National Identity Database",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": "No biometric duplicate check or audit stated."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-21-humangle-nin-sim-linkage-insecurity",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Former President Buhari called the National Identification Number the foundational digital ID for Nigerian citizens and legal residents, and over 153 million SIMs were linked to NINs by August 2024 per the NCC.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "National Identification Number",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

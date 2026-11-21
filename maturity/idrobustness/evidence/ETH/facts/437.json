@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-12-biometric-update-ethiopia-digital-id-wb-private-sector",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The article says Ethiopia's Fayda digital ID has already enrolled 3.5 million citizens, as the World Bank backs it with $350 million to reach at least 90 million people.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Fayda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

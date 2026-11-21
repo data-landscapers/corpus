@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-30-shega-nbe-fayda-deadline-bank-accounts-addis",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Shega reports that the Fayda national ID project has neared 10 million registrations, against a target of 90 million.",
+   "as_of": "2024-11-30",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

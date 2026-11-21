@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-12-cipit-ethiopia-pdpp-2024-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "CIPIT says Ethiopia's Fayda programme issues registrants a unique 12-digit number, and as of October 2024 the National ID Program had opened more than 160 registration centres in Addis Ababa.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

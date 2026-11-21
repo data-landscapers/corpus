@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-26-nation-court-allows-mec-to-require-ids",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National Registration Bureau says it has registered 12.5 million people, and the court directed it to register eligible voters for IDs and give them a unique identifier.",
+   "as_of": "2024-10-25",
+   "date_precision": "day",
+   "system": "National Registration Bureau national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

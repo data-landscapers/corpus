@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-nidp-fayda-authentication-page",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National ID Program's page describes Fayda Identification Numbers and Fayda credentials in use, verified online and offline.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Fayda national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda national ID",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Program Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
