@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "ruralaccess",
-      "stage": "2",
-      "programme": "underway",
+      "stage": "3",
+      "programme": "delivering",
       "measured": "",
       "narrow": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CMR-001",
-      "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
-      "note": "PATNUC's rural component went to tender in October 2025 for 328 localities, so a programme is under way. No site is counted yet, so not 3.",
-      "as_at": "2026-10-30"
+      "stage_sources": "CMR-005;CMR-004",
+      "gaps": "No source found since October 2023 gives internet use in rural and in urban areas.",
+      "note": "Reassessed 2026-11-21: Orange Cameroon says 40 of 120 PATNUC white-zone sites had been commissioned by 13 November 2026 (CMR-005), so a rural programme has connected a stated number of sites. No rural and urban internet use figures are held, so not 4.",
+      "as_at": "2026-11-21"
     }
   ]
 }

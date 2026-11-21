@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-13-civ-mtnit-presentation-projet-budget-2027-caef",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The Ministry says the National Rural Connectivity Programme (PNCR) connected 493 localities in 2025 of 575 to connect, 85.7% done.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Programme National de Connectivité Rurale (PNCR)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programme National de Connectivité Rurale (PNCR)",
+   "country_label": "Côte d'Ivoire",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministère de la Transition Numérique et de l'Innovation Technologique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

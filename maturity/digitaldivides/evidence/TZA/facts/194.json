@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-13-tanzania-urges-shift-from-telecom-coverage-to-meaningful-digital-access",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Minister Angellah Kairuki told the ITU Plenipotentiary Conference that government-funded construction of 758 new towers and upgrade of over 300 had connected more than 1,301 villages and an estimated 8.5 million people.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "tower construction and upgrade programme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

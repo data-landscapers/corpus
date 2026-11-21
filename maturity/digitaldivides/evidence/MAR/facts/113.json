@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-mar-ai-rural-internet-access-and-public-services-ahmed-rahhou-unveils-moroccos-next",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Minister Rahhou announced internet coverage will be activated in 2026 in 2,000 rural areas with poor or no access, under the second phase of the National Broadband and Ultra-Broadband Development Plan, with VSAT considered for hard-to-reach villages.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "National Broadband and Ultra-Broadband Development Plan, phase 2",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

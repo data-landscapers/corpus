@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-cmr-acces-services-numeriques-campo-beach",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Cameroon Tribune reports that the posts and telecoms minister assessed the connectivity infrastructure installed at Campo Beach, under the PATNUC rural connectivity programme planned for 362 under-served localities, with nine such infrastructures in the Ocean department.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "PATNUC rural connectivity programme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PATNUC",
+   "country_label": "PATNUC rural connectivity programme",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Posts and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

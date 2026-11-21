@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-20-mrt-chinguitel-are-renouvellent-accord-acces-universel-nord",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The regulator ARE and operator Chinguitel renewed on 19 November 2026 their universal access agreement to extend network coverage in the north, along the Zouerate to Ain Ben Tili axis; no sites or people are counted.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "universal access agreement",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

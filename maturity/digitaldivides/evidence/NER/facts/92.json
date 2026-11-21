@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-17-ner-sante-le-niger-connecte-ses-structures-de-sante-au-haut-debit",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The World Bank-backed Smart Villages project, run by the national information society agency ANSI, aims to connect 2,175 villages to 3G/4G and install 124 multiservice digital centres, according to its coordinator.",
+   "as_of": "2025-10-16",
+   "date_precision": "day",
+   "system": "Projet Villages Intelligents pour la croissance rurale et l'inclusion numérique",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Projet Villages Intelligents",
+   "country_label": "Niger",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "ANSI, with World Bank support",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

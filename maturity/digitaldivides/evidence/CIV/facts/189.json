@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-17-civ-mtnit-declaration-journee-mondiale-telecommunications-2026",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The digital minister's statement says the Programme National de Connectivite Rurale, already engaged, will bring telecom services to every locality of over 800 people by end-2030.",
+   "as_of": "2026-05-17",
+   "date_precision": "day",
+   "system": "Programme National de Connectivité Rurale",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programme National de Connectivité Rurale",
+   "country_label": "Côte d'Ivoire",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

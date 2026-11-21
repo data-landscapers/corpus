@@ -22,8 +22,8 @@ The Digital Transformation Strategy asks for universal, equitable and affordable
 |---|---|
 | 5 Mature | 0 |
 | 4 Operating | 2 |
-| 3 Established | 26 |
-| 2 Nascent | 18 |
+| 3 Established | 27 |
+| 2 Nascent | 17 |
 | 1 Absent | 0 |
 | Unplaced | 5 |
 | No evidence | 3 |
@@ -68,6 +68,13 @@ Over 400 rural white-zone localities were connected in 2025; rural and urban int
 
 - The ministry reported covering more than 400 new white-zone localities in 2025 ([source, 2025](https://lefaso.net/spip.php?article145231)).
 - The minister said 138 white zones were covered in 2024, built with a State subsidy via the Fonds d'accès au service universel (FASU) ([source, 2024](https://www.sidwaya.info/couverture-des-zones-blanches-la-ministre-aminata-zerbo-inspecte-des-sites-de-telecommunications/)).
+
+### Cameroon: 3 Established
+
+Forty rural sites were connected under a World Bank-backed programme by November 2026; internet use in rural and urban areas is not known.
+
+- Orange Cameroon says 40 of 120 white-zone sites under the government-led, World Bank-supported PATNUC project had been commissioned by 13 November 2026, with all 120 due by March 2027 ([source, 2026-11-13](https://techreviewafrica.com/news/8365/orange-cameroon-commissions-rural-connectivity-sites-in-campo-beach-under-patnuc-project)).
+- Cameroon Tribune reports that the posts and telecoms minister assessed the connectivity infrastructure installed at Campo Beach, under the PATNUC rural connectivity programme planned for 362 under-served localities, with nine such infrastructures in the Ocean department ([source, 2026-11-13](https://www.cameroon-tribune.cm/articles/12210/fr/acces-aux-services-numeriques-au-tour-de-campo-beach)).
 
 ### Congo: 3 Established
 
@@ -220,12 +227,6 @@ A programme to bring internet to rural areas was under way in 2026; sites connec
 
 - ARCT acting director Hermalas Nahimana said the government has created a universal service fund that will help the rural population to have access to the internet ([source, 2026-08-27](https://www.iwacu-burundi.org/englishnews/number-of-internet-users-in-burundi-is-low-says-arct/)).
 - SETIC (also PAFEN coordinator) signed a $5,907,000 contract with ONATEL to deploy infrastructure across 92 rural hills lacking 2G or 3G coverage, expected to benefit about 372,035 people, said Burundi Times ([source, 2026-05-05](https://www.burunditimes.com/5-9m-onatel-deal-marks-new-push-for-digital-access-in-rural-burundi/)).
-
-### Cameroon: 2 Nascent
-
-A programme to bring internet to rural areas was under way in 2025; sites connected are not counted.
-
-- Business in Cameroon reports that the Posts and Telecommunications Minister opened bidding on 31 October 2025 for the rural connectivity component of the World Bank-backed PATNUC, funded with 55 billion XAF, to connect 328 unserved 3G localities by 2028 ([source, 2025-10-31](https://www.businessincameroon.com/public-management/0911-15315-digital-divide-cameroon-aims-to-connect-328-rural-communities-by-2028)).
 
 ### Central African Republic: 2 Nascent
 
