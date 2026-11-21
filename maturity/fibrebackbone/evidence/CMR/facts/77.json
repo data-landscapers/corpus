@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-17-cmr-camtel-disputes-network-quality-findings",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "ITWeb Africa reports Camtel saying Phase IV of the national backbone expansion has been launched after presidential approval of financing, a three-year programme with a budget of 148 billion CFA francs.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "National backbone Phase IV",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "ITWeb Africa reports that MTN Cameroon and Orange Cameroun rely largely on Camtel's backbone for data transmission and interconnection, and Camtel says private operators have access to its dark fibre at prices below cost.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Camtel national fibre backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Camtel national fibre backbone",
+   "country_label": "Camtel national fibre backbone",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Camtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

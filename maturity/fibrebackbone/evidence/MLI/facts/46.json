@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-xaf-cio-africa-landed-not-delivered-terrestrial-fibre",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "A USD 117.3 million contract was approved in January 2024 to extend fibre in Mali to Mopti, Koro and Timbuktu over 24 months, CIO Africa reports.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "WARCIP fibre extension to Mopti, Koro and Timbuktu",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

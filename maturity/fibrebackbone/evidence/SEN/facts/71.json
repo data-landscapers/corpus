@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-16-passant-project-dismissals-and-audit-at-senum-sa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PASSANT",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "fibre",
+   "owner": "SENUM SA",
+   "tiers": ""
+  }
+ ],
+ "note": "The PASSANT contract was awarded in 2019, outside the three-year window; works are stopped, with no acceptance and the network described by SENUM as not operational."
+}

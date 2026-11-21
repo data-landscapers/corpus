@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-17-cmr-camtel-cfa148bn-fibre-backbone-phase-4",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Camtel said in a statement of 16 November 2026 that BB4, the three-year fourth phase of Cameroon's national fibre-optic backbone costed at CFA148 billion, had been launched.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "BB4 national fibre-optic backbone phase 4",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "The regulator ART's audit of 112 sections of the national backbone, reported 10 November 2026, found disruptions on in-service routes including Edea-Yaounde, Douala-Limbe and Bamenda-Bafoussam.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Camtel national fibre-optic backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-15-som-dawan-telecom-consortium-shared-fibre-routes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Hobyo-Galkayo and Guumays-Buuhoodle shared fibre routes",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "telecom consortium with government",
+   "tiers": ""
+  }
+ ],
+ "note": "Contract expected December 2026 and works January 2027, so none awarded or begun; existing fibre is fragmented segments that do not connect."
+}

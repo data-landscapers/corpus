@@ -98,6 +98,7 @@ CMR,Camtel national backbone,Cameroon,backbone,fibre optic,Camtel,,2025-12-10-cm
 CMR,Camtel national fibre backbone,Cameroon,backbone,fibre,Camtel,,2026-10-01-cmr-comment-internet-arrive-au-cameroun
 CMR,CAMTEL national fibre-optic network,CAMTEL national fibre network,backbone,,CAMTEL,,2026-11-10-cmr-art-communique-166-controle-qualite-service-operateurs-mobiles
 CMR,Camtel optical fibre network,Cameroon,backbone,,Camtel,,2024-12-13-cmr-ralph-mupita-pdg-de-mtn-group-annonce-un-investissement-de-62-4-millia
+CMR,Camtel national fibre backbone,Camtel national fibre backbone,backbone,,Camtel,,2026-11-17-cmr-camtel-disputes-network-quality-findings
 COD,"DRC fibre concession programme (four 20-year PPP lots, 11,600 km)",Congo fibre concession programme,other,,Government of DRC (Digital Transformation Project),,2026-09-26-cod-theppppost-fibre-concession-ppp
 COD,Project East2West,Project East2West,other,,Bayobab (MTN Group) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
 COD,"national fibre backbone (55,000 km planned)",national fibre backbone,backbone,,"Government of DRC (Ministry of Posts, Telecommunications and Digital Affairs)",,2025-05-06 DRC e-government initiative makes bold blockchain bet
@@ -183,6 +184,7 @@ GAB,SPIN national backbone,Gabon,backbone,fibre,SPIN,,2026-10-27-gab-gabon-numer
 GAB,Backbone National Gabonais,Gabon,backbone,fibre,SPIN (operated by Gabon Fiber SA),,2026-09-15-gab-gabon-fiber-linkedin-signature-ppp-backbone
 GAB,Gabon Fiber,Gabon,backbone,optical fibre,SPIN and Gabon Telecom with the ministry,,2026-10-24-gab-gabon-digital-interview-notre-ambition-est-de-faire-de-libreville-la-capitale-af
 GAB,Airtel Gabon Libreville-Port-Gentil fibre network,Gabon,backbone,fibre,Airtel Gabon,,2024-09-30-gab-telecommunications-au-gabon-airtel-investit-plus-de-4-milliards-de-fcf
+GAB,Lambarene-Fougamou-Mouila fibre section,Lambarene-Fougamou-Mouila fibre,backbone,,Gabon Fiber,,2026-11-16-gab-gabon-fiber-lambarene-mouila
 GHA,CSquared/NEDCo northern fibre project,,other,,CSquared Ghana Ltd; NEDCo power lines,,2026-09-09-ustda-csquared-ghana-fibre-feasibility
 GHA,Dig Once policy (road fibre chambers),Dig Once,other,,"Ministry of Communication, Digital Technology and Innovations",,2026-05-14-dig-once-policy-fibre-cost-cut-myjoy
 GHA,MTN Ghana fibre network,MTN fibre network,other,,MTN Ghana,,2026-04-18-mtn-fibre-cable-sabotage-157-sites-myjoy
@@ -397,6 +399,7 @@ SEN,SENUM SA fibre network,Réseau fibre optique de Sénégal Numérique SA,back
 SEN,Praia-Dakar submarine cable,Câble sous-marin Praia-Dakar,other,,Sénégal Numérique SA,,2025-01-01-senum-transformation-digitale-administration
 SEN,National backbone,"Senegal national backbone, capacity being strengthened under PRODAP",backbone,,SENUM,,2026-11-06-senum-and-univers-telecom-group-sign-strategic-partnership-to-accelera
 SEN,Lagos-Dakar terrestrial route,Senegal,other,cross-border fibre,Phase3 Telecom with Sonatel,,2025-05-08-sen-phase3-and-sonatel-launch-lagos-dakar-terrestrial-fibre-route
+SEN,PASSANT,Senegal,other,fibre,SENUM SA,,2026-11-16-passant-project-dismissals-and-audit-at-senum-sa
 SLE,National Fibre Optic Backbone Infrastructure Project Phase 2,National Fibre Optic Backbone Infrastructure Project,backbone,Huawei (EPC contractor),"Sierra Leone Cable Company Limited (SALCAB), state-owned",,2019-01-01-eximbank-cn-sle-001-china-eximbank-provides-rmb-207-million
 SLE,national fiber backbone (NFB),national fiber backbone,backbone,,,,2026-05-05-sierra-leone-400m-telecom-usage-gap
 SLE,National Data Centre (NatCA HQ),National Data Centre,other,,NatCA / MoCTI,,2026-04-17-natca-hq-national-data-centre
@@ -406,6 +409,7 @@ SLE,CSquared fibre backbone,CSquared backbone,backbone,,CSquared,,2026-07-13-ben
 SOM,WIOCC Group open-access terrestrial fibre footprint,,other,,WIOCC Group,,2026-09-01-africa-finance-corporation-wiocc-2026-wiocc-group-equity
 SOM,Somalia submarine cable systems,,other,,,,2026-06-22-somalia-ifc-submarine-cable-working-group
 SOM,EARDIP Technical Feasibility Study (backbone and cross-border route design),EARDIP,other,,Ministry of Communications and Technology (World Bank-funded),,2025-10-25-somalia-eardip-technical-feasibility-security-risk-consultancy
+SOM,Hobyo-Galkayo and Guumays-Buuhoodle shared fibre routes,Somalia,other,,telecom consortium with government,,2026-11-15-som-dawan-telecom-consortium-shared-fibre-routes
 SSD,"Juba-Nadapal fibre route (EARDIP, SS-MICT&PS-544330-NC-RFB)","Juba-Nadapal fibre route (EARDIP, SS-MICT&PS-544330-NC-RFB)",other,,Ministry of ICT and Postal Services,,2026-09-14-south-sudans-fibre-push-is-moving-from-promise-to-procurement
 SSD,National Backbone Fiber Network Project,National Backbone Fiber Network Project,backbone,,NCT South Sudan with Bayobab,,2026-03-04-nct-bayobab-national-backbone-fiber-techreviewafrica
 SSD,Project East2West,Project East2West,other,,Bayobab (MTN Group) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic

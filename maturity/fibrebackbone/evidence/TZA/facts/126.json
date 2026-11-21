@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-13-tanzania-urges-shift-from-telecom-coverage-to-meaningful-digital-access",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "every-region",
+   "fact": "Minister Angellah Kairuki said the National ICT Broadband Backbone connects all 31 regions of Tanzania.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "National Information and Communications Technology Broadband Backbone (NICTBB)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

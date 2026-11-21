@@ -23,10 +23,10 @@ The African Union's Digital Transformation Strategy 2020–2030 and the Programm
 | 5 Mature | 6 |
 | 4 Operating | 6 |
 | 3 Established | 28 |
-| 2 Nascent | 2 |
+| 2 Nascent | 3 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
-| No evidence | 10 |
+| No evidence | 9 |
 
 ## Countries
 
@@ -301,6 +301,12 @@ A national fibre backbone was being built in 2025; none is known to be in servic
 
 - The Minister of Finance told Parliament that optical fibre deployment is being implemented, with a 96km stretch from Roma to Thaba-Tseka underway; the speech names no contract and gives no completion date, and as_of is the speech date (19 February 2025) ([source, 2025-02-19](https://www.rsl.org.ls/sites/default/files/2025-02/Budget%20Speech%202025%2026%20Final%2019-02-2025.pdf)).
 
+### Mali: 2 Nascent
+
+A contract to extend fibre to Mopti, Koro and Timbuktu was approved in 2024; whether backbone fibre is in service is not known.
+
+- A USD 117.3 million contract was approved in January 2024 to extend fibre in Mali to Mopti, Koro and Timbuktu over 24 months, CIO Africa reports ([source, 2024-01](https://cioafrica.co/landed-not-delivered/)).
+
 ### South Sudan: 2 Nascent
 
 A national fibre backbone was being built in 2026; none is known to be in service.
@@ -344,12 +350,6 @@ Nothing found says a national fibre backbone is being built or in service, so no
 Not established: Nothing found names a national fibre backbone, or says there is none.
 
 ### Libya: No evidence
-
-Nothing found says a national fibre backbone is being built or in service, so no stage is set.
-
-Not established: Nothing found names a national fibre backbone, or says there is none.
-
-### Mali: No evidence
 
 Nothing found says a national fibre backbone is being built or in service, so no stage is set.
 

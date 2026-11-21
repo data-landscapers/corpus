@@ -1,16 +1,17 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "backbone",
-   "stage": "no evidence",
-   "reach": "",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a national fibre backbone, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "backbone",
+      "stage": "2",
+      "reach": "building",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-003",
+      "gaps": "No source found says backbone fibre is in service between the capital and another region, or that it reaches every region.",
+      "note": "Reassessed 2026-11-21: a USD 117.3 million contract to extend fibre to Mopti, Koro and Timbuktu was approved in January 2024 (MLI-003), so a backbone is under contract. No source states fibre in service between Bamako and another region, so not 3.",
+      "as_at": "2026-11-21"
+    }
+  ]
 }
