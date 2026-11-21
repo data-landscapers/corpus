@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: BEN
-ledger_rows: 46
+ledger_rows: 47
 not_held: 4
-record: 5efa609ac4e2
+record: afeaa6a57377
 ---
 
 # News, Oct – Nov 2026
@@ -699,6 +699,20 @@ The digital agency ASIN announced a new version of the service-public.bj portal 
 **[Digitization in Benin: Criminal records now issued instantly and without supporting documents](https://beninwebtv.bj/en/digitization-in-benin-criminal-records-now-issued-instantly-and-without-supporting-documents/)** — Bénin Web TV, 2 November 2026
 
 Benin's Ministry of Justice and Legislation is the first ministry to apply the government's "Tell us once" directive. Since 1 November 2026 a criminal record certificate is issued instantly on service-public.bj with no supporting documents, for a fee of FCFA 1,900. The applicant's identity is checked against the personal identification number and civil-registry records.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PCATNAP (project to consolidate and accelerate the digital transformation of public administration)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Etude du projet de budget 2027 à l'Assemblée nationale: Les grands chantiers pour moderniser l'administration publique](https://www.lanation.bj/actualites/etude-du-projet-de-budget-2027-a-lassemblee-nationale-les-grands-chantiers-pour-moderniser-ladministration-publique)** — La Nation, 18 November 2026
+
+FCFA 18.61bn for 2027, up 51.40%; investment funds PCATNAP digitalisation and P3MAP administrative modernisation.
 
 </div>
 
