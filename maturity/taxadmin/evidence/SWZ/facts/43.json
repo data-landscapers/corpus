@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-swz-another-govt-online-services-blackout",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The Eswatini Observer reports Eswatini Revenue Service taxpayer portal services, including filing, were listed among the platforms affected by the 17 November 2026 shutdown.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "ERS taxpayer portal",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

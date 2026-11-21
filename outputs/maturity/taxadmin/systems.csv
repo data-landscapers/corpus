@@ -57,6 +57,8 @@ COG,E-Tax (SYSTAF),Republic of the Congo,taxsystem,Oracle PSRM,,,2025-12-18-worl
 COG,Fouta,Congo,other,national payment switch / e-filing and e-payment application,"Ministry of Finance, Budget and Public Portfolio",,2026-06-25-cog-execution-du-budget-de-l-etat-les-deputes-s-impregnent-du-fonctionneme
 COG,Guichet unique du paiement (GUP),Congo,other,single payment window,Banque postale,,2026-06-25-cog-execution-du-budget-de-l-etat-les-deputes-s-impregnent-du-fonctionneme
 COG,E-Tax (impots.gouv.cg),COG,taxsystem,impots.gouv.cg,,,2024-11-20-cog-e-pay-for-e-tax-e-douane
+COG,e-Tax,e-Tax,taxsystem,,Direction générale des impôts,,2026-11-18-cog-congo-107-milliards-fcfa-de-recettes-publiques-collect-es-par-la-nouve
+COG,e-Tax,Congo,taxsystem,,,,2026-11-17-cog-questions-orales-avec-debat-a-l-assemblee-nationale-fouta
 COM,Plateforme fiscale (télé procédures),COM,taxsystem,"official tax administration platform, not named",Direction Générale des Impôts,mandatory by stages for large and medium enterprises,2025-12-26-loi-de-finances-2026-teledeclaration-telepaiement
 COM,SIGIT,Comoros,taxsystem,,Direction generale des impots,,2024-01-02-com-gazette-interconnexion-sigit-sydonia
 COM,AMG openIMIS instance,Comoros,other,openIMIS on AWS,UTGAM,,2026-05-18-com-webinaire-souverainete-appropriation-des-systemes-de-sante-numeriques
@@ -204,6 +206,7 @@ RWA,E-Tax,Rwanda,taxsystem,,Rwanda Revenue Authority,,2025-01-01-rwa-rra-tax-han
 RWA,M-Declaration,Rwanda,taxsystem,mobile,Rwanda Revenue Authority,,2025-01-01-rwa-rra-tax-handbook-2025
 RWA,Local Government Taxes (LGT) system,Rwanda,taxsystem,,Rwanda Revenue Authority,,2025-01-01-rwa-rra-tax-handbook-2025
 RWA,Electronic Invoicing System (EIS) / EBM,Rwanda,other,,Rwanda Revenue Authority,,2025-01-01-rwa-rra-tax-handbook-2025
+SDN,electronic invoice (Baladna registration),Taxation Chamber e-invoice,other,Baladna platform,Sudan Taxation Chamber,,2026-11-15-sdn-suna-taxation-chamber-ends-paper-invoices-e-invoice-mandatory
 SEN,SENTAX,Senegal,taxsystem,online platform sentax.dgid.sn,Direction generale des Impots et des Domaines,Large Enterprises Directorate (DGE) taxpayers,2026-08-27-sen-dgid-communique-sentax
 SEN,SENTAX,Senegal,other,sentax.dgid.sn,Direction générale des Impôts et des Domaines,,2026-01-01-sen-dgid-sentax-teledeclaration-immatriculation
 SEN,Etax,Senegal,taxsystem,,Direction générale des impôts et des domaines,,2023-08-28-sen-leral-souscription-obligatoire-etax

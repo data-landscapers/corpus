@@ -1,7 +1,9 @@
 iso3,source_slug,read,merged_on
 AGO,2025-02-05-ago-oge-transformacao-digital-da-agt-vai-custar-23-mil-milhoes-kz-ao-estad,,2026-10-27
 AGO,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
+AGO,2025-12-22-ago-falta-de-uniformizacao-do-sistema-informatico-de-saude-dificulta-atend,,2026-11-21
 AGO,2026-07-07-ago-fim-do-papel-agt-exige-via-digital-para-pagamento-de-impostos-e-reclam,,2026-11-15
+AGO,2026-07-16-ago-minsa-angola-referencia-africana-ia-telemedicina-saude,,2026-11-21
 AGO,2026-09-08-ago-modernisation-of-general-tax-administration-over-the-last-10-years-a-t,,2026-10-27
 AGO,2026-09-11-ago-gpeu-196-tecnicos-e-gestores-escolares-estao-sendo-capacitados-sobre-o,,2026-11-15
 BDI,2023-11-28-bdi-lancement-officiel-des-activites-de-celebration-de-la-8eme-edition-de,,2026-11-15
@@ -54,6 +56,7 @@ CIV,2026-11-11-civ-guichet-unique-numerique-du-tourisme-et-des-loisirs,,2026-11-
 CMR,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 CMR,2026-05-13-leconomie-tax-digitalisation-dgi,,2026-10-19
 CMR,2026-08-15-cmr-registrations-dgi-cm-enregistrer-un-acte-en-ligne,,2026-11-04
+CMR,2026-11-18-cmr-direct-info-cud-douala-plateforme-actes-urbanisme,,2026-11-21
 COD,2025-01-01-dgi-tva-page-at-teledeclaration-url,,2026-10-19
 COD,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 COD,2026-03-06-cod-kinshasa-la-dgrk-lance-la-plateforme-irms-dgrk-com-pour-la-declaration,,2026-11-04
@@ -71,6 +74,9 @@ COG,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 COG,2026-06-25-cog-execution-du-budget-de-l-etat-les-deputes-s-impregnent-du-fonctionneme,,2026-11-15
 COG,2026-07-03-cog-switch-monetique-national-mfbpp,,2026-10-19
 COG,2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne,,2026-10-19
+COG,2026-11-17-cog-questions-orales-avec-debat-a-l-assemblee-nationale-fouta,,2026-11-21
+COG,2026-11-18-cog-assemblee-nationale-l-acsi-presente-l-etat-d-avancement-des-differents-projets,,2026-11-21
+COG,2026-11-18-cog-congo-107-milliards-fcfa-de-recettes-publiques-collect-es-par-la-nouve,,2026-11-21
 COM,2023-12-07-com-afd-pagf-si-systeme-information,,2026-10-19
 COM,2024-01-02-com-gazette-interconnexion-sigit-sydonia,,2026-10-19
 COM,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
@@ -85,6 +91,7 @@ CPV,2024-05-28-cpv-dnre-funcionamento-portal-declaracoes,,2026-10-19
 CPV,2025-01-23-cpv-implementacao-do-sij-inicia-com-16-dias-de-atraso-nas-comarcas-da-prai,,2026-11-12
 CPV,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 DJI,2025-01-01-wb-dji-001-djibouti-economic-and-financial-governance-project,,2026-10-19
+DJI,2025-05-12-dji-mise-en-uvre-de-msupply-une-reussite-portee-par-la-camme-et-ses-parten,,2026-11-21
 DJI,2025-06-01-dji-hiv-tb-tracker-launch-in-djibouti,,2026-11-08
 DJI,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 DJI,2026-01-27-worldbank-p180696-isr-djibouti-economic-financial-governance,,2026-10-19
@@ -147,6 +154,7 @@ GIN,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 GIN,2026-03-04-gin-judicalex-ministre-visite-tribunal-commerce,,2026-10-31
 GIN,2026-03-05-gin-modernisation-et-performances-le-tribunal-de-commerce-de-conakry-sous,,2026-11-12
 GIN,2026-05-18-gin-la-guinee-lance-neuf-chantiers-numeriques-pour-moderniser-l-administra,,2026-11-04
+GIN,2026-07-31-gin-n-zerekore-le-projet-de-digitalisation-de-l-hopital-regional-entre-dan,,2026-11-21
 GIN,2026-10-05-gin-ucep-attribution-informatisation-tcc,,2026-10-31
 GIN,2026-10-28-gin-le-gouvernement-lance-la-digitalisation-des-cadres-organiques-et-le-re,,2026-11-04
 GIN,2026-10-31-gin-plateforme-de-la-dgecs-des-parents-guineens-alertent-sur-des-notes-non,,2026-11-04
@@ -207,6 +215,8 @@ LBR,2026-10-30-lbr-louisville-group-helps-liberia-track-and-restore-water-access
 LBR,2026-10-31-iati-xm-dac-41114-output-01003119-nga-timbuktoo-fintech,,2026-11-08
 LBR,2026-10-31-iati-xm-dac-41301-766203-rwanda-fruit-tree-digital-monitoring,,2026-11-11
 LBR,2026-11-08-lbr-lra-commissioner-general-highlights-revenue-growth-accountability-and,,2026-11-11
+LBR,2026-11-16-lbr-worldbank-three-levers-better-taxation,,2026-11-21
+LBR,2026-11-17-lbr-moh-sand-technologies-assess-digital-health-progress-ahead-of-december-emr-deployment,,2026-11-21
 LBY,2024-05-15-lby-lawsociety-mof-decision-247-electronic-tax-collection,,2026-10-19
 LBY,2025-01-01-lby-imf-tar-tax-administration-digitalization-kontaktu,,2026-10-19
 LBY,2025-12-13-lby-lana-unified-tax-system-launch,,2026-10-19
@@ -331,6 +341,7 @@ RWA,2026-04-08-rwanda-ebuzima-emr-rollout-presentation-2026,,2026-10-24
 SDN,2025-01-01-sdn-uneca-support-tax-revenues-sudan,,2026-10-19
 SDN,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 SDN,2026-08-23-sdn-accounts-chamber-ipsas-gifims-isali-states,,2026-10-27
+SDN,2026-11-15-sdn-suna-taxation-chamber-ends-paper-invoices-e-invoice-mandatory,,2026-11-21
 SEN,2023-08-28-sen-leral-souscription-obligatoire-etax,,2026-10-19
 SEN,2024-07-24-sen-dgid-digital-vat-foreign-providers-from-1-july-2024,,2026-11-11
 SEN,2025-01-31-sen-impact-dgid-datamining-ia-fiscale,,2026-10-19
@@ -371,6 +382,9 @@ SWZ,2025-01-01-swz-court-services,,2026-11-12
 SWZ,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 SWZ,2026-10-17-swz-positivenews-hhukwini-elmis-cmis-digital-health,,2026-10-21
 SWZ,2026-10-24-swz-govt-restores-13-online-services-website-still-down,,2026-10-27
+SWZ,2026-11-05-swz-the-rollout-of-the-cmis-inpatient-and-maternity-module-continues-to-ga,,2026-11-21
+SWZ,2026-11-16-new-health-platform-to-help-govt-anticipate-medicine-stockouts-eswatin,,2026-11-21
+SWZ,2026-11-19-swz-another-govt-online-services-blackout,,2026-11-21
 SYC,2024-01-01-new-lmis-system-to-boost-local-labour-market-efficiency,,2026-10-19
 SYC,2024-03-04-syc-src-dedicated-return-forms-payment-slip,,2026-10-19
 SYC,2024-07-01-syc-imf-gfs-psds-mission-summary,,2026-10-19
@@ -409,6 +423,7 @@ TGO,2024-01-01-how-santecomtogo-is-transforming-community-health-insights-from-t
 TGO,2024-03-29-tgo-au-togo-une-commune-lance-la-teledeclaration-des-naissances-avec-lappu,,2026-10-19
 TGO,2024-09-18-tgo-mfb-formation-solaf-execution-budget,,2026-10-19
 TGO,2024-10-16-tgo-plateforme-saisine-en-ligne-cour-arbitrage-du-togo-cato,,2026-11-12
+TGO,2024-12-05-tgo-sante-des-hopitaux-bientot-equipes-de-systemes-digitaux-d-information,,2026-11-21
 TGO,2025-02-04-tgo-tclome-syscom-procedures-commerciales,,2026-10-19
 TGO,2025-11-19-tgo-togo-la-digitalisation-de-l-etat-civil-pour-limiter-les-naissances-non,,2026-10-27
 TGO,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
@@ -477,3 +492,4 @@ ZWE,2026-07-13-zwe-zimra-s-sap-s-4hana-upgrade-is-officially-active,,2026-10-27
 ZWE,2026-09-26-zwe-iecms-gweru-justice-digitisation,,2026-10-19
 ZWE,2026-10-06-paperless-courts-spread-to-midlands-mashonaland-west,,2026-10-19
 ZWE,2026-10-15-zwe-herald-zimra-ataf-exchange-of-information-conference,,2026-10-19
+ZWE,2026-11-19-zwe-zimra-to-buy-e-trace-system-to-track-digital-payments,,2026-11-21

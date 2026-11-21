@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-18-cog-congo-107-milliards-fcfa-de-recettes-publiques-collect-es-par-la-nouve",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The ministry says e-Tax, run by the tax directorate, is the online filing and payment system for domestic taxes, and it brought in 94 billion FCFA via Fouta from June to 16 November 2026.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The ministry says taxes are paid online through e-Tax, with 94 billion FCFA collected via Fouta by 16 November 2026.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "e-Tax",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Direction générale des impôts",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
