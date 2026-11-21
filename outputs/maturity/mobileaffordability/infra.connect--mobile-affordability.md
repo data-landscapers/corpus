@@ -197,6 +197,7 @@ In 2025, 5 GB of mobile data for a month cost 3.81 per cent of average monthly i
 In 2026, 5 GB of mobile data for a month cost 2.77 per cent of average monthly income; none at 2 or below is known.
 
 - The Uganda Communications Commission states the current average 1GB retail price for licensed operators is UGX 2,000 with taxes and all costs met ([source, 2026-10-13](https://www.ucc.co.ug/press-release-on-illegal-wi-fi-hotspots/)).
+- UCC says licensed operators charge about Shs2,000 per gigabyte of internet data, against about Shs1,000 from unlicensed Wi-Fi resellers ([source, 2026-10-26](https://www.nilepost.co.ug/news/381731/kacita-ucc-agree-to-form-committee-on-unlicensed-internet-resellers)).
 
 ### Zambia: 3 Established
 

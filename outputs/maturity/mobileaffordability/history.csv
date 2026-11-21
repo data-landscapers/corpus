@@ -10,3 +10,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,GAB,infra.connect--mobile-affordability,fact,3,3,GAB-005,"Moov Gabon 30-day 9 GB at FCFA 10,000 (Jun 2026): newest figure 2.56 per cent; stage 3 holds"
 2026-11-12,GIN,infra.connect--mobile-affordability,fact,2,3,GIN-005,"Orange Guinee monthly 6 GB at GNF 50,000 (Sep 2025): newest figure 3.86 per cent, within 5"
 2026-11-12,SDN,infra.connect--mobile-affordability,fact,2,2,SDN-007,"MTN 5 GB bundle raised to SDG 16,500 (Nov 2026): newest figure 7.89 per cent; stage 2 holds"
+2026-11-21,UGA,infra.connect--mobile-affordability,fact,3,3,UGA-007;UGA-008,"UCC tax study puts data at about UGX 5,000/GB, year only; UCC's October 2026 UGX 2,000 stays newest, so 3"

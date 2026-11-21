@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-uga-uganda-home-internet-costs-too-high-for-most",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:UGX:5000:1",
+   "fact": "The Uganda Communications Commission said in a 2026 study on telecom taxes that mobile data costs about sh5,000 per gigabyte.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "UCC telecom tax study",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1027,7 +1027,7 @@ BWA,60,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument
 CAF,25,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 CAF,26,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
 CAF,27,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
-CIV,48,2026-11-15-ansut-lance-programme-acces-smartphones-subventionnes,2026-11-17,,
+CIV,48,2026-11-15-ansut-lance-programme-acces-smartphones-subventionnes,2026-11-17,nothing,2026-11-21
 CIV,49,2023-07-01-civ-making-the-case-for-investing-in-routine-health-information-systems-rh,2026-11-17,instrument,2026-11-17
 CIV,50,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 CIV,51,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
@@ -1185,7 +1185,7 @@ ZMB,70,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17
 ZMB,71,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
 ZMB,72,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 ZMB,73,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
-ZWE,59,2025-08-30-zwe-impilo-deployed-to-1-200-public-health-centres,2026-11-17,,
+ZWE,59,2025-08-30-zwe-impilo-deployed-to-1-200-public-health-centres,2026-11-17,nothing,2026-11-21
 ZWE,60,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 ZWE,61,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
 ZWE,62,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
@@ -1215,13 +1215,13 @@ NGA,123,2026-11-13-xaf-afdb-macroeconomic-performance-outlook-nov-2026,2026-11-1
 RWA,89,2026-11-13-xaf-afdb-macroeconomic-performance-outlook-nov-2026,2026-11-17,instrument,2026-11-17
 SDN,33,2026-11-13-xaf-afdb-macroeconomic-performance-outlook-nov-2026,2026-11-17,instrument,2026-11-17
 SEN,68,2026-11-13-xaf-afdb-macroeconomic-performance-outlook-nov-2026,2026-11-17,instrument,2026-11-17
-SLE,34,2026-11-17-sierra-leone-ai-readiness-diagnostic,2026-11-17,,
+SLE,34,2026-11-17-sierra-leone-ai-readiness-diagnostic,2026-11-17,nothing,2026-11-21
 SLE,35,2026-09-28-sle-world-bank-ai-readiness-diagnostic,2026-11-17,instrument,2026-11-17
 SSD,66,2026-11-13-xaf-afdb-macroeconomic-performance-outlook-nov-2026,2026-11-17,instrument,2026-11-17
 SWZ,71,2026-11-13-xaf-afdb-macroeconomic-performance-outlook-nov-2026,2026-11-17,instrument,2026-11-17
 TCD,36,2026-11-13-xaf-afdb-macroeconomic-performance-outlook-nov-2026,2026-11-17,instrument,2026-11-17
 TUN,29,2026-11-13-xaf-afdb-macroeconomic-performance-outlook-nov-2026,2026-11-17,instrument,2026-11-17
-UGA,110,2026-11-17-uga-uganda-home-internet-costs-too-high-for-most,2026-11-17,,
+UGA,110,2026-11-17-uga-uganda-home-internet-costs-too-high-for-most,2026-11-17,reassessed,2026-11-21
 ZAF,140,2026-11-13-xaf-afdb-macroeconomic-performance-outlook-nov-2026,2026-11-17,instrument,2026-11-17
 ZMB,74,2026-11-13-xaf-afdb-macroeconomic-performance-outlook-nov-2026,2026-11-17,instrument,2026-11-17
 ZWE,64,2026-11-13-xaf-afdb-macroeconomic-performance-outlook-nov-2026,2026-11-17,instrument,2026-11-17
@@ -1255,7 +1255,7 @@ NAM,53,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-1
 NGA,124,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 RWA,90,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 SDN,34,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-SEN,69,2026-11-16-passant-project-dismissals-and-audit-at-senum-sa,2026-11-18,,
+SEN,69,2026-11-16-passant-project-dismissals-and-audit-at-senum-sa,2026-11-18,nothing,2026-11-21
 SEN,70,2024-11-29-sen-arcop-adoc-passant-audit-technique-senum,2026-11-18,instrument,2026-11-18
 SEN,71,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 SLE,36,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
@@ -1315,7 +1315,7 @@ MAR,34,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2
 MDG,56,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 MLI,34,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 MOZ,54,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
-MRT,43,2026-11-18-mrt-are-confirme-amendes-421-millions-mru-operateurs,2026-11-20,,
+MRT,43,2026-11-18-mrt-are-confirme-amendes-421-millions-mru-operateurs,2026-11-20,nothing,2026-11-21
 MRT,44,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 MRT,45,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
 MUS,43,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
@@ -1338,12 +1338,12 @@ SYC,26,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2
 TCD,38,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 TGO,54,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 TUN,31,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
-TZA,75,2026-11-18-tza-tanzania-seeks-investors-for-digital-infrastructure-projects,2026-11-20,,
+TZA,75,2026-11-18-tza-tanzania-seeks-investors-for-digital-infrastructure-projects,2026-11-20,nothing,2026-11-21
 TZA,76,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 UGA,112,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 ZAF,143,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 ZMB,76,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
-ZWE,66,2026-11-19-zwe-bridging-zimbabwe-s-ai-divide-through-small-language-models,2026-11-20,,
+ZWE,66,2026-11-19-zwe-bridging-zimbabwe-s-ai-divide-through-small-language-models,2026-11-20,nothing,2026-11-21
 ZWE,67,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 ZWE,68,2026-11-03-xgl-itu-measuring-digital-development-facts-and-figures-2026,2026-11-20,instrument,2026-11-20
 AGO,36,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
@@ -1425,7 +1425,7 @@ SDN,37,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,20
 SEN,75,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
 SEN,76,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 SEN,77,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
-SLE,39,2026-11-20-sle-energy-telecom-integrated-infrastructure-mou-aton-path,2026-11-21,,
+SLE,39,2026-11-20-sle-energy-telecom-integrated-infrastructure-mou-aton-path,2026-11-21,nothing,2026-11-21
 SLE,40,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 SOM,35,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 SOM,36,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
@@ -1451,6 +1451,6 @@ ZAF,145,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2
 ZMB,77,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 ZMB,78,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 ZWE,69,2026-11-19-zwe-2027-national-budget-statement-companion,2026-11-21,capped,2026-11-21
-ZWE,70,2026-11-19-zwe-budget-cuts-duty-on-cellphones-electric-vehicles,2026-11-21,,
+ZWE,70,2026-11-19-zwe-budget-cuts-duty-on-cellphones-electric-vehicles,2026-11-21,nothing,2026-11-21
 ZWE,71,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 ZWE,72,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
