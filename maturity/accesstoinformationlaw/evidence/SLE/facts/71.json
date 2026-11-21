@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-15-raic-blows-whistle-on-data-protection-bill",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Informant reports that the Right to Access Information Act 2013 exists and applies to public authorities and to private bodies holding information needed to protect a right.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "Right to Access Information Act 2013",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The Informant reports that the Right to Access Information Commission operates, with Regional Commissioners and public information officers, under the 2013 Act.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "Right to Access Information Commission",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection and Right to Access Information Bill",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information and Civic Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

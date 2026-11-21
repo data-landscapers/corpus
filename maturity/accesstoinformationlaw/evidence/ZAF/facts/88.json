@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-16-zaf-inforeg-must-not-be-ai-regulator-says-ex-member",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "ITWeb reports the Information Regulator, set up in December 2016, has the job among others of monitoring and enforcing compliance with the Promotion of Access to Information Act.",
+   "as_of": "2016-12",
+   "date_precision": "month",
+   "system": "Information Regulator",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

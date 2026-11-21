@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-sle-bah-says-consent-alone-cannot-block-lawful-access-to-public-information",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Information Minister Chernor Bah, in a 19 November 2026 Truth Media interview, discussed Sierra Leone's proposed legal framework on access to public information, which the report says may be amended during parliamentary scrutiny.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "proposed data protection and access to information framework",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

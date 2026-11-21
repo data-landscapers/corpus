@@ -663,7 +663,7 @@ BEN,18,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17
 BEN,19,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
 BFA,15,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 BFA,16,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
-BWA,29,2024-02-28-apc-botswana-e-government-privacy-pitfalls,2026-11-17,,
+BWA,29,2024-02-28-apc-botswana-e-government-privacy-pitfalls,2026-11-17,nothing,2026-11-21
 BWA,30,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 BWA,31,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 BWA,32,2021-11-01-ria-cis-towards-evaluation-socio-digital-id-ecosystems-africa,2026-11-17,instrument,2026-11-17
@@ -815,7 +815,7 @@ UGA,51,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-ven
 UGA,52,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 UGA,53,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
 UGA,54,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
-ZAF,88,2026-11-16-zaf-inforeg-must-not-be-ai-regulator-says-ex-member,2026-11-17,,
+ZAF,88,2026-11-16-zaf-inforeg-must-not-be-ai-regulator-says-ex-member,2026-11-17,fact,2026-11-21
 ZAF,89,2021-11-01-ria-cis-towards-evaluation-socio-digital-id-ecosystems-africa,2026-11-17,instrument,2026-11-17
 ZAF,90,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 ZAF,91,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -830,8 +830,8 @@ ZWE,25,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-ven
 ZWE,26,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 ZWE,27,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
 ZWE,28,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
-SLE,71,2026-11-15-raic-blows-whistle-on-data-protection-bill,2026-11-17,,
-SLE,72,2026-11-17-ilraj-warns-new-data-law-could-make-it-harder-for-citizens-to-get-info,2026-11-17,,
+SLE,71,2026-11-15-raic-blows-whistle-on-data-protection-bill,2026-11-17,fact,2026-11-21
+SLE,72,2026-11-17-ilraj-warns-new-data-law-could-make-it-harder-for-citizens-to-get-info,2026-11-17,fact,2026-11-21
 SLE,73,2026-09-28-sle-world-bank-ai-readiness-diagnostic,2026-11-17,instrument,2026-11-17
 DJI,10,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 DZA,11,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
@@ -850,13 +850,13 @@ LBR,45,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
 MOZ,28,2026-10-08-moz-resolucao-80-2026-plano-quinquenal-erdap-2026-2030,2026-11-20,instrument,2026-11-20
 MRT,18,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
 SEN,37,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
-SLE,74,2026-11-19-sle-bah-says-consent-alone-cannot-block-lawful-access-to-public-information,2026-11-20,,
+SLE,74,2026-11-19-sle-bah-says-consent-alone-cannot-block-lawful-access-to-public-information,2026-11-20,fact,2026-11-21
 SLE,75,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
-ZAF,94,2026-11-19-zaf-itweb-inforeg-cyber-defences-ai-governance,2026-11-20,,
+ZAF,94,2026-11-19-zaf-itweb-inforeg-cyber-defences-ai-governance,2026-11-20,fact,2026-11-21
 ETH,28,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
 GHA,48,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
-MAR,40,2026-11-01-mar-gpa-resolution-privacy-enhancing-technologies-cndp,2026-11-21,,
+MAR,40,2026-11-01-mar-gpa-resolution-privacy-enhancing-technologies-cndp,2026-11-21,nothing,2026-11-21
 MWI,61,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
-SEN,38,2026-11-18-sen-ansd-uasz-statistical-data-access-centre-ziguinchor,2026-11-21,,
+SEN,38,2026-11-18-sen-ansd-uasz-statistical-data-access-centre-ziguinchor,2026-11-21,nothing,2026-11-21
 SEN,39,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
 UGA,55,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
