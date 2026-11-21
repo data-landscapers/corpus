@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-13-lbr-us-52m-id-deal-faces-fresh-scrutiny",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "NIR executive director Andrew Peters told the House committee the registry holds about 740,000 records after nine years, with about 5.3 million people still to enrol.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "National Identification Registry",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Registry",
+   "country_label": "Liberia",
+   "class": "idsystem",
+   "platform": "TecnoBrain",
+   "owner": "NIR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

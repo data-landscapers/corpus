@@ -151,6 +151,7 @@ Fewer than a third of the population held a national ID in 2026.
 
 Fewer than a third of the population held a national ID in 2026.
 
+- NIR executive director Andrew Peters told the House committee the registry holds about 740,000 records after nine years, with about 5.3 million people still to enrol ([source, 2026-11-13](https://www.newerainquirer.com/article/29a1a5b7-1ba2-4dde-a435-3dae7102b0f6)).
 - The National Identification Registry says fewer than 800,000 people in Liberia hold a national ID, against a planned database for up to 10 million people, and issuance has been suspended since June 2025 ([source, 2026-10-19](https://www.biometricupdate.com/202610/liberian-mps-begin-scrutinizing-ppp-concession-deal-for-new-national-id)).
 - The proclamation says about 720,000 people are enrolled in the NBIS, which is about 12.6% of Liberia's 5.7 million people (share computed from the held population figure) ([source, 2026-09-16](https://www.africa-newsroom.com/press/liberia-president-boakai-declares-wednesday-september-16-as-national-identification-day?lang=en)).
 

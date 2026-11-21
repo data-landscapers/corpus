@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-13-iss-ghana-digital-revolution-economic-growth",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "ISS, citing the National Identification Authority, says 18.7 million Ghanaians were enrolled by May 2025, against a population of about 33.9 million in 2023, which is over a third and under two-thirds.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
