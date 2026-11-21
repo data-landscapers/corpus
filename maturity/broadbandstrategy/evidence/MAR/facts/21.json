@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-16-mar-mmsp-rahhou-oral-questions-ai-data-exchange",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Minister Ahmed Rahhou told the House of Representatives that phase two of the national high and very high speed broadband development plan provides for covering 2,000 rural zones with insufficient or no coverage.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Plan national de développement du haut et du très haut débit",
+   "class": "plan"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
