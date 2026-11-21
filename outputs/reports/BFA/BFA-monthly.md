@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: BFA
 ledger_rows: 45
 not_held: 6
-record: 37b495a4f594
+record: 13ca41afd220
 ---
 
 # News, Oct – Nov 2026
@@ -121,6 +121,14 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 **[Autorité de Régulation de la communication et du traitement des données à caractère personnel : W. Louis Modeste Ouédraogo nommé président](https://lefaso.net/spip.php?article150089)** — leFaso.net, 20 October 2026
 
 Burkina Faso appointed W. Louis Modeste Ouédraogo, previously president of the Conseil supérieur de la communication, to head the new regulator formed by merging that council with the data-protection commission CIL. The decree is dated 16 October 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ARCOD : Les dix membres du collège des conseillers nommés](https://lefaso.net/spip.php?article150924=)** — leFaso.net, 20 November 2026
+
+Burkina Faso's Council of Ministers named the ten councillors of the first college of ARCOD, the merged media and personal-data regulator, on 19 November 2026. Four come from the former Conseil supérieur de la communication and six are new. Organic law of 3 August 2026 sets non-renewable five-year terms.
 
 </div>
 
