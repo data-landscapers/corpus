@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: EGY
-ledger_rows: 75
+ledger_rows: 76
 not_held: 35
-record: 69a287451a4c
+record: ecd94b896091
 ---
 
 # News, Oct – Nov 2026
@@ -307,6 +307,20 @@ Nigeria's trade minister, Jumoke Oduwole, told Reuters on 16 November 2026 that 
 **[تنظيم الاتصالات: منظومة لتقييم المدن الذكية والمستدامة وفق معايير دولية](https://www.youm7.com/story/2026/10/15/%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9-%D9%88%D9%81%D9%82-%D9%85%D8%B9%D8%A7%D9%8A%D9%8A%D8%B1-%D8%AF%D9%88%D9%84%D9%8A%D8%A9/7580488)** — Youm7, 15 October 2026
 
 Egypt's telecoms regulator described an online system that scores new cities against its smart and sustainable cities code and issues conformity certificates. It is applied with the housing ministry to cities including the New Administrative Capital and New Alamein.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Egyptian Exchange rules on the governance of AI use</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[البورصة المصرية تعتمد حزمة قواعد حوكمة الذكاء الاصطناعي لدعم كفاءة التداول](https://www.youm7.com/story/2026/11/19/%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%AD%D8%B2%D9%85%D8%A9-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%AD%D9%88%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%84%D8%AF%D8%B9%D9%85-%D9%83%D9%81%D8%A7%D8%A1%D8%A9/7625009)** — Youm7, 19 November 2026
+
+First EGX rule package on AI in operations, trading and disclosure; client data confidentiality, accountability.
 
 </div>
 
