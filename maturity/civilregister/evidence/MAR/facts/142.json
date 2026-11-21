@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-18-mar-watiqa-civil-status-portal-outage",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Watiqa",
+   "country_label": "Watiqa",
+   "class": "other",
+   "platform": "web portal",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  },
+  {
+   "system": "Civil-status registry digitisation tender",
+   "country_label": "civil-status records digitisation",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior (DGCT)",
+   "tiers": ""
+  }
+ ],
+ "note": "Watiqa is a certificate-ordering portal and the tender digitises existing registers (archive); neither states births registered digitally."
+}

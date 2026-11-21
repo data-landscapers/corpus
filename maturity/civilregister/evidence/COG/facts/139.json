@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-cog-assemblee-nationale-l-acsi-presente-l-etat-d-avancement-des-differents-projets",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "ACSI's director general told the National Assembly's Ecofin committee on 17 November 2026 that the Sifec civil-registration system, entrusted to ACSI under the 2025 and 2026 finance laws, is ready, with no rollout or offices stated.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Sifec (Systeme integre des faits d'etat civil)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sifec",
+   "country_label": "Systeme integre des faits d'etat civil",
+   "class": "civil",
+   "platform": "",
+   "owner": "ACSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

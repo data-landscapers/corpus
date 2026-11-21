@@ -37,6 +37,7 @@ CAF,Registre National de l'État Civil (RNEC),Central African Republic,civil,,DG
 CAF,Registre National de l'Etat Civil (RNEC),Central African Republic,civil,,"DGDEC, MATDDL",national,2026-07-18-dgdec-etat-civil-digitalisation-egmrg
 CAF,solution and site for indexing civil registry documents,Central African Republic,civil,,MATDDL with CIVIPOL (EU-funded project),,2026-03-30-civipol-archivist-recruitment-etat-civil
 CAF,Registre national de l'état civil (RNEC),Central African Republic,civil,,,,2025-01-01-caf-civipol-modero-etat-civil-rnec
+CAF,Civil Status Management Software (LGEC),Central African Republic,civil,LGEC Digital Archives module,MATDDL,,2026-11-17-training-of-civil-registrars-in-car-to-protect-civil-status
 CIV,Système national de gestion de l'état civil,CIV,civil,,ONECI,,2026-08-12-cote-divoire-oneci-civil-registry-biometric-terminals
 CIV,Citiweb,CIV,civil,software,ONECI,"mairies, sous-préfectures",2026-07-30-cote-divoire-oneci-civil-registry-digitisation-goh
 CIV,Citiweb,CIV,civil,software,ONECI,"mairies, sous-préfectures",2026-07-27-cote-divoire-oneci-formation-citiweb-agents-etat-civil-goh
@@ -82,6 +83,7 @@ COG,SIFEC,Congo,civil,,,,2024-12-01-caf-digitalisation-de-letat-civil-lexperienc
 COG,Système intégré des faits d'état-civil (Sifec),Congo,civil,,ACSI,,2026-08-11-systemes-information-etat-plateformes-presentees-deputes
 COG,Système intégré des faits d'état civil (Sifec),Congo,civil,,"Ministry of Interior, Decentralisation and Local Development; Acsi presented it",,2024-09-20-cog-sacer-sifec-digitalisation-etat-civil
 COG,Sifec,Congo-Brazzaville,civil,,ACSI,,2026-08-11-cog-congo-brazzaville-systemes-d-information-de-l-etat-les-differentes-pla
+COG,Sifec,Systeme integre des faits d'etat civil,civil,,ACSI,,2026-11-18-cog-assemblee-nationale-l-acsi-presente-l-etat-d-avancement-des-differents-projets
 COM,AMECC (Appui à la Modernisation de l'État Civil aux Comores),Comoros,civil,,Ministry of Interior,,2025-10-14-amecc-civil-registry-digitisation-study-launch-moheli-lagazette
 COM,AMECC (Appui à la Modernisation de l'État civil aux Comores),Comoros,civil,,Ministry of Interior,,2026-08-28-lagazettedescomores-amecc-etat-civil-enterrer-registres-papier
 COM,AMECC,Comoros,civil,,Ministry of Interior,,2026-08-11-alwatwan-journee-africaine-etat-civil-modernisation
@@ -197,6 +199,8 @@ MAR,Massar,Morocco,other,,Ministry of National Education,,2024-04-23-mar-massar-
 MAR,Projet de numérisation des registres de l'état civil,Maroc,civil,central civil-status database and information system,Ministry of Interior (DGCT),"1,821 civil-status offices",2025-04-21-mar-vaste-projet-de-numerisation-des-registres-de-letat-civil
 MAR,Portail électronique de l'état civil,Maroc,other,citizen portal,Ministry of Interior,,2025-04-21-mar-vaste-projet-de-numerisation-des-registres-de-letat-civil
 MAR,Système numérique central de l'état civil,Maroc,civil,,civil status,,2025-01-10-mar-bientot-une-solution-numerique-pour-les-avis-de-naissance
+MAR,Watiqa,Watiqa,other,web portal,Ministry of Interior,,2026-11-18-mar-watiqa-civil-status-portal-outage
+MAR,Civil-status registry digitisation tender,civil-status records digitisation,other,,Ministry of Interior (DGCT),,2026-11-18-mar-watiqa-civil-status-portal-outage
 MDG,Izaho Tokana 2.0,Madagascar,civil,biometric registration,Government of Madagascar with OIF,national,2026-09-16-mdg-midimadagasikara-etat-civil-oif-izaho-tokana
 MDG,EC-MADA,Madagascar,civil,OCR/AI digitisation of paper registers,"national programme, delivered by Studia Inc","1,695 communes in 11 regions",2026-05-08-studia-ai-digitisation-civil-records-intelligentcio
 MDG,EC-MADA,Madagascar,civil,OCR/AI digitisation of paper registers,"national programme, delivered by Studia Inc","1,695 communes in 11 regions",2026-04-27-studia-inc-civil-registration-digitisation-madagascar
@@ -325,6 +329,7 @@ SEN,RNEC,Senegal,civil,,ANEC,,2025-07-05-sen-rts-anec-daf-interoperabilite-rnec
 SEN,national DHIS2 platform,Senegal,civil,DHIS2,Ministry of Health and Public Hygiene,,2026-05-01-sen-projet-de-declaration-dsiss-ams79-point-12-10
 SEN,NEKKAL,Senegal,civil,SI ETAT CIVIL,Agence nationale de l'Etat civil,,2025-05-01-sen-perspectives-du-senegal-sur-les-progres-realises
 SEN,Registre national de l'etat civil / LGEC,Senegal,civil,LGEC software,ANEC,connected communes,2026-01-22-sen-securisation-des-donnees-de-l-etat-civil-l-anec-et-l-ansd-scellent-un
+SEN,logiciel de gestion des faits d'etat civil,Senegal,civil,,ANEC,,2026-11-16-etat-civil-77-des-629-centres-deja-equipes-du-logiciel-de-gestion-selo
 SLE,NCRA integrated CRVS and ID services,Sierra Leone,civil,,NCRA,"regional and district offices, mobile centres",2025-05-22-sle-civil-registration-in-sierra-leone-progress-and-policy-reforms
 SLE,NIN system,Sierra Leone,other,,NCRA,,2025-05-22-sle-civil-registration-in-sierra-leone-progress-and-policy-reforms
 SLE,digital birth registration system,Sierra Leone,civil,portable digital device,National Civil Registration Authority (NCRA),"district registration officers, community health centres",2026-10-06-sle-unicef-children-digital-public-infrastructure

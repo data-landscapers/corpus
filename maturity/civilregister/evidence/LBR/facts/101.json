@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-lbr-liberianobserver-us52m-national-id-concession-local-firm",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The Liberian Observer reports a US$52 million Build-Operate-Transfer concession agreement with OeSD International GmbH, signed per NIR's Andrew Peters in September 2026 and awaiting legislative ratification, under which the concessionaire is to finance, develop and operate a national biometric identification and civil registration system.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National Identification and Biometric System concession",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": "Concession not yet ratified; nothing in service."
+}
