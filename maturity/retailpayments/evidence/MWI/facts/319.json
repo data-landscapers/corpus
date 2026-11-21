@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-20-airtel-money-upgrades-mobile-money-platform-in-malawi-and-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Airtel Money's mobile money service in Malawi, on which customers send money, buy airtime and pay merchants, was moved to an enhanced platform powered by Comviva's mobiquity Pay, reported by Tech Africa News.",
+   "as_of": "2026-11-20",
+   "date_precision": "day",
+   "system": "Airtel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "Comviva mobiquity Pay",
+   "owner": "Airtel Money",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

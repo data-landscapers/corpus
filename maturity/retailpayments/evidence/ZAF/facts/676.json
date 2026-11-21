@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-20-zaf-africa-urged-to-cement-digital-sovereignty",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Deputy Minister Mondli Gungubele said on 18 November 2026 that real-time, low-cost payment is now available to partners, consumers and small businesses in South Africa.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "real-time payment",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

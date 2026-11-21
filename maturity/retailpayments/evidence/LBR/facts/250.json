@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-20-lbr-cbl-four-priorities-digital-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Central Bank of Liberia Governor Henry Saamoi said Pay Na-Na, launched in December 2025, has begun with mobile money operators and records transactions, while full interoperability across mobile money networks and banks is still a priority, with banks and fintechs to be onboarded.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Pay Na-Na",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Pay Na-Na",
+   "country_label": "Pay Na-Na",
+   "class": "retail",
+   "platform": "national payment platform",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

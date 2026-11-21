@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "retail",
-      "stage": "5",
+      "stage": "4",
       "service": "inservice",
       "interop": "interop",
-      "switch": "national",
+      "switch": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-010;LBR-006",
-      "gaps": "",
-      "note": "Rebuild: the Central Bank of Liberia's instant payment system, launched in December 2025 between the two mobile money networks, carried payments across banks and mobile network operators by August 2026 (LBR-010, LBR-006), so 5, as Sierra Leone's is read.",
-      "as_at": "2026-11-13"
+      "stage_sources": "LBR-002;LBR-027;LBR-028",
+      "gaps": "In November 2026 the governor said banks and fintechs are still being brought onto Pay Na-Na and that a National Electronic Payment Switch joining banks, fintechs and mobile money operators is targeted for the first quarter of 2027 (LBR-028); this outdates the August 2026 statement that the system carried payments across banks and mobile networks (LBR-010).",
+      "note": "The instant payment system has connected the two mobile money networks since December 2025 (LBR-002, LBR-027), so 4. The governor said in November 2026 that banks are not yet on it and the national switch is due in 2027, so not 5.",
+      "as_at": "2026-11-21"
     }
   ]
 }

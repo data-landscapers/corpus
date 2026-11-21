@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-19-ken-pesalink-wants-cheaper-payments-but-cannot-tell-banks-what-to-charge",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "TechCabal reports PesaLink, operated by IPSL and owned by the Kenya Bankers Association, sends money instantly between accounts at different banks, and that Airtel Money has now joined it.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "PesaLink",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "IPSL chief Gituku Kirika said on 18 November 2026 that PesaLink is available across all banks and has gone live with person-to-merchant till, paybill and QR payments, so far with Equity Bank and SBM at Quickmart; he says half its payments start or end at a business.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "PesaLink",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PesaLink",
+   "country_label": "PesaLink",
+   "class": "retail",
+   "platform": "IPSL",
+   "owner": "Kenya Bankers Association",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

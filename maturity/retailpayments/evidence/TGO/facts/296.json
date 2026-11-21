@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-13-togo-ecobank-is-only-bank-with-certified-business-api-for-waemu-s-instant-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "PI-SPI had processed nearly CFAF 15 billion across 163,000 transactions in Togo by end-October 2026, per Togo First.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "PI-SPI",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Mixx mobile money wallet launched interoperable instant transfers across WAEMU in April, on the PI-SPI platform that Togo's banks also use.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "PI-SPI; Mixx",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

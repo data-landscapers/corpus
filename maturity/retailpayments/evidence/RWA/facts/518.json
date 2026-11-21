@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-15-press-release-proof-of-concept-cross-border-remittance-cambodia-rwanda",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The joint central-bank release describes eKash, operated by R-Switch, as Rwanda's national payment system, through which funds reach beneficiaries' bank accounts and digital wallets.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "eKash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eKash",
+   "country_label": "Rwanda",
+   "class": "retail",
+   "platform": "",
+   "owner": "R-Switch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

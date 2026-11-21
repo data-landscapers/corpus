@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-13-orf-mehta-india-blueprint-africa-dpi",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ORF's Ananyaa Mehta says Ethio Telecom launched the Telebirr online payment system in 2021 and it has processed transactions worth over 4.65 trillion birr.",
+   "as_of": "2025-08-13",
+   "date_precision": "day",
+   "system": "Telebirr",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "ORF's Ananyaa Mehta says Telebirr is integrated with banks across Ethiopia.",
+   "as_of": "2025-08-13",
+   "date_precision": "day",
+   "system": "Telebirr",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telebirr",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Ethio Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

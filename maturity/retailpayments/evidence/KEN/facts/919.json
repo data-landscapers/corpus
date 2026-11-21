@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-xaf-stablecoins-promised-to-fix-cross-border-payments-fragmentat",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "BitLipa chief executive Apollo Eric told TechCabal that about 70% of the Kenyan firm's roughly $100 million a month of transactions are mobile money collections.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

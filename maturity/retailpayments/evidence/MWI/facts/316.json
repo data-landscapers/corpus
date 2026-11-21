@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-businessday-africa-cross-border-payment-rail-5bn-reality-check",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article lists Malawi among seven markets where Airtel Money wallets receive international transfers sent through pawaPay from August 2025.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Airtel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "",
+   "owner": "Airtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

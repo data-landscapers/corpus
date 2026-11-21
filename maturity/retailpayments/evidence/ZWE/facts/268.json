@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-zwe-rbz-national-payment-systems-report-first-quarter-2025",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Reserve Bank of Zimbabwe reports 10.1 million active mobile financial services subscribers at 31 March 2025 and 144.8 million mobile transactions in the first quarter of 2025.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "Mobile financial services",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

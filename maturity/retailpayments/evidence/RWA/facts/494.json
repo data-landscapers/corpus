@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-15-rwa-ekash-bakong-cambodia-remittance-trial",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "RadioTV10 says that in Rwanda eKash, operated by RSwitch, connects participating banks and mobile money providers, letting customers transfer funds between different financial platforms.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "eKash",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "RadioTV10, citing the National Bank of Rwanda's October 2026 financial stability report, says eKash reached 14.6 million transactions a month worth Rwf1.2 trillion after its nationwide rollout in July 2026.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "eKash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eKash",
+   "country_label": "Rwanda",
+   "class": "retail",
+   "platform": "",
+   "owner": "RSwitch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

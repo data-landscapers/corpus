@@ -38,3 +38,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-15,SYC,dpi.pay--p2p-p2g-and-p2b-functionality,fact,2,3,SYC-002,"Nebula FinTech's eboo e-money wallet, live January 2024, answers question 2; 2 to 3"
 2026-11-15,UGA,dpi.pay--p2p-p2g-and-p2b-functionality,fact,3,4,UGA-017;UGA-007,Airtel's wallets linked with 25 banks and other institutions in October 2026 answer question 3; 3 to 4
 2026-11-15,SDN,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,SDN-013;SDN-005,"EBS switch read as joining banks, 2021 figures, no wallet named, new switch still to launch; stays 4. USSD bank-app row removed"
+2026-11-21,LBR,dpi.pay--p2p-p2g-and-p2b-functionality,fact,5,4,LBR-002;LBR-027;LBR-028,"Governor (Nov 2026): banks and fintechs still being onboarded to Pay Na-Na; national switch for banks, fintechs and MNOs targeted Q1 2027; question 4 not met, 5 to 4"
+2026-11-21,KEN,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,KEN-010;KEN-013;KEN-028,"Pesalink reaches all banks, took in Airtel Money, P2M live (Nov 2026); M-PESA and P2G not shown, two switches, stays 4"

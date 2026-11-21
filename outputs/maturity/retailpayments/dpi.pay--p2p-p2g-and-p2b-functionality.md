@@ -20,8 +20,8 @@ The African Union's Digital Transformation Strategy asks for interoperable e-mon
 
 | Stage | Countries |
 |---|---|
-| 5 Mature | 28 |
-| 4 Operating | 15 |
+| 5 Mature | 27 |
+| 4 Operating | 16 |
 | 3 Established | 11 |
 | 2 Nascent | 0 |
 | 1 Absent | 0 |
@@ -144,13 +144,6 @@ A national switch connected mobile money wallets and bank accounts in 2025.
 - LeSwitch, formerly the National Payment Switch, connects banks and mobile money wallets and now carries local ATM and POS debit card transactions, with POS in pilot from 11 May 2025 ([source, 2025-05-11](https://publiceyenews.com/2025/05/20/leswitch-expands-to-pos-transactions)).
 - LeSwitch connects POS terminals, ATMs and mobile money into a single central hub, with its fast-payments phase launched 20 March 2024 ([source, 2024-03-20](https://www.standardlesothobank.co.ls/lesotho/personal/About-us/press-releases/press-release-lesotho-national-payment-switch-leswitch)).
 
-### Liberia: 5 Mature
-
-The central bank's instant payment system connected mobile money wallets and bank accounts in 2026.
-
-- The Central Bank of Liberia deputy governor says the recently launched instant and interoperable payment system enables payments across banks and mobile network operators ([source, 2026-08](https://www.liberianobserver.com/business/cbl-backs-lra-s-move-to-billion-revenue-drive/article_7ef5e649-7ccd-4187-91bc-d17d1a19505c.html)).
-- The speaker says the central bank gave banks and mobile money operators access to its instant payment system to achieve interoperability ([source, 2026-08-16](https://www.linkedin.com/posts/africanenda_bringing-every-stakeholder-to-the-table-isnt-activity-7494679350248820736--7a1)).
-
 ### Malawi: 5 Mature
 
 A national switch connected mobile money wallets and bank accounts in 2025.
@@ -264,6 +257,14 @@ Payments between mobile money providers or with banks were in service in 2026; n
 - TechCabal says Kenyan commercial banks compete over how seamlessly customers can move funds between accounts and mobile wallets ([source, 2026-09](https://techcabal.com/2026/09/27/kenyas-payments-revolution-cannot-end-with-mobile-money/)).
 - Pesalink, run by the Kenya Bankers Association's IPSL, connects banks, telcos and microfinance institutions (TechCabal) ([source, 2026-04-03](https://techcabal.com/2026/04/03/kenswitch-visa-deal-stakes-kenya-payments-overhaul/)).
 - The Kenswitch release says its domestic switch enables interoperability among banks, SACCOs, microfinance institutions and mobile money network providers across multiple payment channels ([source, 2026-11-02](https://www.business-standard.com/content/press-releases-ani/kenswitch-partners-with-payu-s-wibmo-to-strengthen-online-card-security-in-kenya-126110200460_1.html)).
+
+### Liberia: 4 Operating
+
+Mobile money networks have been interoperable since December 2025; banks are not yet on the national system, with a switch due in 2027.
+
+- The Inclusive Instant Payment System lets customers of Lonestar MTN Mobile Money and Orange Money Liberia make real-time interoperable transactions across the two networks, per the Central Bank of Liberia governor ([source, 2026-10-01](https://www.liberianobserver.com/business/liberia-s-instant-payment-system-crosses-5-3m-transactions/article_b75bc316-97ae-459f-840d-c2822b8e7a84.html)).
+- The IPS connected Liberia's two mobile money operators so their platforms support transfers across previously separate systems, said the Central Bank governor ([source, 2026-11-18](https://www.liberianobserver.com/business/cbl-governor-highlights-liberia-s-digital-payment-gains-in-mauritius/article_596d456e-3fae-4d52-bf5d-b592db44f2d3.html)).
+- Central Bank of Liberia Governor Henry Saamoi said Pay Na-Na, launched in December 2025, has begun with mobile money operators and records transactions, while full interoperability across mobile money networks and banks is still a priority, with banks and fintechs to be onboarded ([source, 2026-11-19](https://www.liberianobserver.com/business/cbl-outlines-four-priorities-to-transform-liberia-s-digital-payment-system/article_39f669bb-c385-4c6e-a854-e9f6581fc1e6.html)).
 
 ### Madagascar: 4 Operating
 

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-16-mli-apanews-sama-money-pi-spi-reception",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "APAnews reports that Malian e-money operator SAMA Money has an e-wallet service with customers able to receive funds from 13 November 2026.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "SAMA Money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "APAnews reports that SAMA Money wallets receive instant transfers from banks and other providers connected to the BCEAO PI-SPI, free and at any hour.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SAMA Money",
+   "country_label": "SAMA Money",
+   "class": "retail",
+   "platform": "",
+   "owner": "SAMA Money",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

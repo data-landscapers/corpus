@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-13-sen-ecofin-visa-dakar-office-ministry-mou",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Agence Ecofin reports the e-money usage rate in Senegal was 66.3% in 2025, up almost three points on 2024, in a context of growing digital payments.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "e-money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

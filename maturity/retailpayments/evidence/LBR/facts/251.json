@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-19-xwa-three-country-plan-regional-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MyJoyOnline reports Liberia launched Pay Na-Na on 16 December 2025, linking its two mobile money operators, Lone Star MTN and Orange Liberia.",
+   "as_of": "2025-12-16",
+   "date_precision": "day",
+   "system": "Pay Na-Na",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "MyJoyOnline reports Pay Na-Na links Liberia's two mobile money operators, Lone Star MTN and Orange Liberia, with transactions in the millions.",
+   "as_of": "2025-12-16",
+   "date_precision": "day",
+   "system": "Pay Na-Na",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
