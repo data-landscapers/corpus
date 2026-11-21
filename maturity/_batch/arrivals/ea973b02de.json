@@ -1,0 +1,41 @@
+{
+ "slug": "2026-11-20-zwe-2027-budget-cellphone-duty-cut-imtt",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Budget tax and duty proposals only; no payments system, central bank role or consumer rule stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Budget tax and duty proposals only; no payments system, central bank role or consumer rule stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Budget tax and duty proposals only; no payments system, central bank role or consumer rule stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Budget tax and duty proposals only; no payments system, central bank role or consumer rule stated."
+    }
+   }
+  }
+ }
+}

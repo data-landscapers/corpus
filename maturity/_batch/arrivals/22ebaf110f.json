@@ -1,48 +1,12 @@
 {
  "slug": "2026-11-19-egy-youm7-egyptian-exchange-ai-governance-rules",
  "studies": {
-  "aiabuse": {
-   "countries": {
-    "EGY": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "EGX AI governance rules",
-       "country_label": "Egypt",
-       "class": "other",
-       "platform": "",
-       "owner": "Egyptian Exchange",
-       "tiers": ""
-      }
-     ],
-     "note": "Exchange's own board rules for AI use; not a state rule, authority or government-body use stated, text not published."
-    }
-   }
-  },
-  "aigovernment": {
+  "ailaw": {
    "countries": {
     "EGY": {
      "facts": [],
      "systems": [],
-     "note": "Exchange's own board rules for AI use; not a state rule, authority or government-body use stated, text not published."
-    }
-   }
-  },
-  "aisectoral": {
-   "countries": {
-    "EGY": {
-     "facts": [],
-     "systems": [],
-     "note": "Exchange's own board rules for AI use; not a state rule, authority or government-body use stated, text not published."
-    }
-   }
-  },
-  "aisystems": {
-   "countries": {
-    "EGY": {
-     "facts": [],
-     "systems": [],
-     "note": "Exchange's own board rules for AI use; not a state rule, authority or government-body use stated, text not published."
+     "note": "The exchange's board approved rules for AI use in its own operations; the document does not say a law, decree or regulator's rule binds, and the text is not given."
     }
    }
   }

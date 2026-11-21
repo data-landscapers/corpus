@@ -1,1 +1,14 @@
-{"slug": "2026-08-16-zimbabwe-sadc-harare-data-governance-workshop", "studies": {"aisectoral": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Botswana is named only as receiving UNESCO help on drafting AI policy; no sectoral AI tool is stated."}}}}}
+{
+ "slug": "2026-08-16-zimbabwe-sadc-harare-data-governance-workshop",
+ "studies": {
+  "datalocalisation": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop on harmonising data rules names no Zimbabwe localisation rule."
+    }
+   }
+  }
+ }
+}

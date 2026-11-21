@@ -1,0 +1,14 @@
+{
+ "slug": "2025-08-15-developzim-zchpc-hpc-phase-2-commissioned",
+ "studies": {
+  "datalocalisation": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "HPC centre hosting health records is not a rule that data must stay in the country."
+    }
+   }
+  }
+ }
+}
