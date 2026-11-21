@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-uganda-establishes-national-root-certification-authority-for-secure-digital-services",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Tech Africa News reports NITA-U completed the key generation and signing ceremony establishing the Uganda National Root CA RSA G1 and an Issuing CA for the national PKI under UDAP-GovNet, with e-signatures to be verifiable through it.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Uganda National Root CA RSA G1",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Uganda National Root CA RSA G1",
+   "country_label": "Uganda National PKI",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": "Ceremony date not stated; report date used."
+}

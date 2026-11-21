@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-08-addis-fortune-national-id-limited-acceptance-printing-quality",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Addis Fortune reports that officials recommend Fayda's verification tools to check national ID cards, and that Document Authentication & Registration Service Kirkos branch fully uses national IDs for property services.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

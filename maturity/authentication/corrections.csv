@@ -16,3 +16,4 @@ MLI,002,service,inservice,removed,"Housekeeping 73: applying online with the NIN
 SYC,002,service,inservice,revalued: reach:several,"Housekeeping 73: ASP Connect reached through the SeyID portal, which hosts all government entities' systems, is SeyID used across services, as the cell reads it"
 SYC,010,remote,wallet,removed,"Housekeeping 73: the e-wallet's National ID card rests only on WISeKey's own release; no state source shows it accepted, so it sets no rung (Bill, 2026-10-23)"
 ETH,011,service,inservice,revalued: remote:wallet,"Housekeeping 73: the Fayda Wallet, run by the National ID Program, is used to open bank accounts by biometric eKYC with no physical documents: a state digital ID wallet in service for remote proof, as the cell reads it"
+GHA,035,service,inservice,removed,"Stage 4c 2026-11-21: its source record is no longer held in raw/, so the row cannot be cited"

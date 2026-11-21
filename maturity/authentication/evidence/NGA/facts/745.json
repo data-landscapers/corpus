@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-22-nimc-denies-data-breach-allegations-to-prosecute-harvesters",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIMC said in a June 2024 statement that licensed partners and vendors are authorised to verify National Identification Numbers through approved channels, but not to scan or store NIN slips.",
+   "as_of": "2024-06-22",
+   "date_precision": "day",
+   "system": "NIMC NIN verification through approved channels",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIMC NIN verification through approved channels",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National Identity Management Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

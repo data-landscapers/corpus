@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-30-shega-nbe-fayda-deadline-bank-accounts-addis",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Shega reports the National Bank of Ethiopia's letter of 26 November 2024 mandating banks to require the Fayda national ID for account opening in phased deadlines, with authorities describing Fayda as a real-time identity verification system.",
+   "as_of": "2024-11-26",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

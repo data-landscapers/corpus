@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-bdi-wb-op00482177-pafen-gip-pki-rfp",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "On 17 November 2026 the PAFEN project unit, for the ICT secretariat SETIC, issued an IDA-funded request for proposals (Lot 1) for a sovereign national public key infrastructure with root and issuing certification authorities, to serve all ministries, with bids due 11 January 2027.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "PKI_BI",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PKI_BI",
+   "country_label": "Burundi",
+   "class": "authentication",
+   "platform": "",
+   "owner": "SETIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -40,3 +40,6 @@ UGA,National Identification Number (NIN),Uganda,other,,NIRA,,2024-10-03-uga-conc
 UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 UGA,UGPass,Uganda,authentication,,Ministry of ICT and National Guidance,,2024-11-01-uga-manifesto-week-ict-ministry-reveals-key-achievements-as-internet-penet
 UGA,Public key infrastructure under the Electronic Signatures Act 2011,Uganda,other,,National Information Technology Authority-Uganda (Controller),,2011-03-18-uga-electronic-signatures-act-2011
+UGA,Uganda National Root CA RSA G1,Uganda National PKI,authentication,,NITA-U,,2026-11-19-uganda-establishes-national-root-certification-authority-for-secure-digital-services
+UGA,NIRA NIN biometric verification (eKYC via third-party interface),Uganda,authentication,NIRA third-party interface and Partner Management Platform,NIRA,,2026-11-18-uga-new-national-id-verification-glitches-spark-delays-at-banks-agencies-e
+UGA,National Security Information System (NSIS),NIRA NSIS,authentication,,NIRA,,2026-11-18-uga-uganda-new-national-identification-and-registration-authority-nira-sys

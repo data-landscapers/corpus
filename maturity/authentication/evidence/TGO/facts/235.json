@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-17-tgo-biosecu-crt-le-contr-le-de-vie-des-retrait-s-entre-dans-l-re-du-num-ri",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Togo's finance ministry says BIOSECU-CRT, an online facial-recognition proof-of-life check for the 40,043 public-sector pensioners of the Caisse de Retraites du Togo, was put into service on 16 November 2026, with enrolment open to 16 February 2027.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "BIOSECU-CRT",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BIOSECU-CRT",
+   "country_label": "Togo",
+   "class": "authentication",
+   "platform": "reuses the CNSS BIOSECU system built with LIKSOFT",
+   "owner": "Caisse de Retraites du Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

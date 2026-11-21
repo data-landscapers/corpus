@@ -49,3 +49,5 @@ ETH,Fayda,Fayda digital ID,authentication,,National ID Programme,,2025-03-24-eth
 ETH,Ethiopian Government Electronic Services Portal,eservices.gov.et,other,,Government of Ethiopia,,2026-11-01-eth-eservices-portal-landing
 ETH,Fayda national ID,Ethiopia,other,,,,2026-05-26-eth-ethio-telecom-lists-on-ethiopian-securities-exchange
 ETH,"two-factor authentication for e-money transactions above Birr 5,000",Ethiopia,other,,National Bank of Ethiopia (rule),,2025-05-12-eth-nbe-directive-onps-10-2025-payment-instrument-issuers
+ETH,Fayda eSignet,Ethiopia,authentication,OpenID Connect SSO and e-KYC APIs,National ID Program Ethiopia,,2026-11-16-nidp-fayda-authentication-page
+ETH,Fayda,Ethiopia,authentication,,,,2024-11-30-shega-nbe-fayda-deadline-bank-accounts-addis

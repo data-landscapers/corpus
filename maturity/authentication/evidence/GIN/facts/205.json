@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-20-gin-signature-electronique-feuille-de-route-confiance-numerique",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "ANDE's director general cited PKI and electronic signature platforms developed within ANDE, and the DEMATEUS expert recommended a pilot, with e-signature in the public sector targeted from early 2027.",
+   "as_of": "2026-11-20",
+   "date_precision": "day",
+   "system": "ANDE PKI and electronic signature platforms",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANDE PKI and electronic signature platforms",
+   "country_label": "Guinea",
+   "class": "authentication",
+   "platform": "",
+   "owner": "ANDE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

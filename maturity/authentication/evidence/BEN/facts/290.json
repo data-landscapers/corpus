@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-29-ega-benin-staying-on-top-of-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The e-Governance Academy says a solution called \"authentication for another\" is used in Benin's service centres to help people without equipment or skills reach services.",
+   "as_of": "2023-11-29",
+   "date_precision": "day",
+   "system": "authentication for another",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

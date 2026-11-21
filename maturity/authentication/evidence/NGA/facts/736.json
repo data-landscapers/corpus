@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-08-nin-verification-portal-downtime-banks-telcos-vanguard",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Vanguard reports that the NIMC's NIN verification portal is in use by banks and mobile operators for real-time identity checks, and was disrupted in early July 2025 during a switch to a new platform.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "NIN verification portal",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Vanguard reports that banks, mobile network operators and the Nigerian Immigration Service all rely on NIMC's NIN verification platform, and that NIMC also urged an alternative tokenisation method that verifies identity without exposing the NIN.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "NIN verification portal",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN verification portal",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "Bluesalt",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

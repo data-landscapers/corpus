@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-21-humangle-nin-sim-linkage-insecurity",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The NCC said in August 2024 that no functional SIM card was left unverified against the National Identification Number.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "NIN-SIM linkage",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

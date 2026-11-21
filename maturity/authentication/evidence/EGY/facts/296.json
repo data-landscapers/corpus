@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-18-egy-sis-eams-online-seafarer-passport-services",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Egypt's justice and communications ministries introduced remote notarization in November 2026 in which applicants verify their identity through the Digital Identity app on Digital Egypt, per Ahram Online via the State Information Service.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Digital Identity app",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "Egypt's Digital Identity app is in service for people to prove their identity online to obtain a power of attorney through Digital Egypt, run for the justice and communications ministries.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Digital Identity app",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Identity app",
+   "country_label": "Egypt",
+   "class": "authentication",
+   "platform": "Digital Egypt",
+   "owner": "Ministry of Communications and Information Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-25-afdb-tunisie-mobile-id-infrastructure-attribution-contrat",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The African Development Bank published the award of lot 2 of a Mobile ID infrastructure tender for Tunisia's Communication Technologies Ministry to FOCUS Technology Solutions, covering IT equipment, for 36,414 DT plus USD 1,550,977.60 including tax, with lots 1 and 3 unsuccessful.",
+   "as_of": "2024-09-25",
+   "date_precision": "day",
+   "system": "Mobile ID infrastructure",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID infrastructure",
+   "country_label": "Tunisia",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

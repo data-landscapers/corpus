@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-08-fij-nincard-illegally-provided-id-services-nimc",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "FIJ reports that NIMC lists NIN verification clients including banks, data processing agencies and telecommunication services.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "NIMC NIN verification",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "FIJ reports that NIMC lists banks, data processing agencies and telecommunication services as NIN verification clients.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "NIMC NIN verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIMC NIN verification",
+   "country_label": "NIN verification (NIMC)",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

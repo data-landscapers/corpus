@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-16-fij-banks-cannot-verify-customers-nins-nimc-upgrade",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "FIJ reports that banks and telecom companies verify National Identification Numbers through a National Identity Management Commission (NIMC) portal, which was failing for weeks in July 2025 during an upgrade.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "NIMC NIN verification portal",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "FIJ reports that both banks and telecom companies depend on the NIMC portal's NIN verification, and that the Central Bank of Nigeria requires banks to verify NINs before opening or upgrading accounts.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "NIMC NIN verification portal",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIMC NIN verification portal",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

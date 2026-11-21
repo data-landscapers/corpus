@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-04-nimc-denies-data-breach-whistler",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIMC's IT director says the commission has licensed verification partners and APIs through which agencies consume NIMC identity data.",
+   "as_of": "2024-07-04",
+   "date_precision": "day",
+   "system": "NIMC verification API",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NIMC's IT director says several licensed verification partners and agencies access NIMC data through its APIs and protocols.",
+   "as_of": "2024-07-04",
+   "date_precision": "day",
+   "system": "NIMC verification API",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIMC verification API",
+   "country_label": "NIMC APIs and licensed verification partners",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

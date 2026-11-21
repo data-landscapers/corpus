@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-12-guardian-nimc-upgrades-diaspora-nin-enrolment",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIMC tells NIN holders to download its NINAuth App to instantly verify their NINs and authenticate, per The Guardian (Nigeria).",
+   "as_of": "2025-08-12",
+   "date_precision": "day",
+   "system": "NINAuth App",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "NIMC's NINAuth App, on iOS and Google Play, lets NIN holders verify their NIN, approve who sees their information and authenticate, per The Guardian (Nigeria).",
+   "as_of": "2025-08-12",
+   "date_precision": "day",
+   "system": "NINAuth App",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NINAuth App",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "iOS and Android",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

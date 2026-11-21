@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-16-mtc-mobile-id-faq",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Ministry of Communication Technologies' Mobile ID (E-Houwiya) FAQ describes a national digital identity in use for secure online login and electronic signature, free to Tunisian citizens aged 18 or over holding a national ID card.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Mobile ID (E-Houwiya)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The ministry's FAQ says Mobile ID login or e-signature is integrated in many government portals and platforms, listing 18 including e-cnam, the CNSS portal, the national business register, the tax administration's e-patente portal and the national administrative services portal.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Mobile ID (E-Houwiya)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "The ministry's FAQ says citizens at home or abroad can bind Mobile ID to their phone through the E-Houwiya mobile app and use it to log in and sign documents electronically with the same legal value as a handwritten signature.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "E-Houwiya app",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID (E-Houwiya)",
+   "country_label": "Mobile ID / E-Houwiya",
+   "class": "authentication",
+   "platform": "OpenID Connect and signing APIs",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

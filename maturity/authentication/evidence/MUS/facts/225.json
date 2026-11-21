@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-20-permis-de-conduire-numerique-erreurs-sur-l-application-korek-les-usagers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "KOREK!",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": "The app displays licence records; no ID authentication service is described."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-13-orf-mehta-india-blueprint-africa-dpi",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ORF's Ananyaa Mehta says authentication for transactions and online services is available in a few African countries, naming Seychelles.",
+   "as_of": "2025-08-13",
+   "date_precision": "day",
+   "system": "digital ID authentication",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
