@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-18-sle-afdb-750000-ecowas-data-embassy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ECOWAS Data Embassy",
+   "country_label": "ECOWAS Data Embassy",
+   "class": "other",
+   "platform": "data centre (planned)",
+   "owner": "Ministry of Communication, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": "Only planned facilities named; none in service."
+}

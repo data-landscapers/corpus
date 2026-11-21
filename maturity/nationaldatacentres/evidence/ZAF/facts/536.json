@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-zaf-itweb-teraco-wind-wheeling-sediba-solar",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "foreign",
+   "fact": "The article describes Teraco as a subsidiary of Digital Realty.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Teraco data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

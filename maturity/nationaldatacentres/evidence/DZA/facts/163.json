@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-15-dza-jeune-independant-hcn-accompaniment-dzair-digital-services",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The two Tier III data centres at Mohammadia and Blida ensure hosting and availability of public data on national territory, per HCN expert Hassan Berrah.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "Mohammadia and Blida data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mohammadia (Algiers) data centre",
+   "country_label": "Algeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "state (HCN)",
+   "tiers": "Tier III"
+  },
+  {
+   "system": "Blida data centre",
+   "country_label": "Algeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "state (HCN)",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

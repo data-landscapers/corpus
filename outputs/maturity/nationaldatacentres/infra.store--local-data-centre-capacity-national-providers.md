@@ -1,6 +1,6 @@
 # Local data centre capacity (national providers): nationally owned data centres for hire
 
-*As at 2026-09-30.*
+*As at 2026-11-21.*
 
 ## The norm
 
@@ -20,15 +20,24 @@ The African Union's Data Policy Framework (2022), §5.3.1, asks that national pr
 
 | Stage | Countries |
 |---|---|
-| 5 Mature | 9 |
+| 5 Mature | 10 |
 | 4 Operating | 0 |
-| 3 Established | 23 |
+| 3 Established | 22 |
 | 2 Nascent | 12 |
 | 1 Absent | 0 |
 | Unplaced | 7 |
 | No evidence | 3 |
 
 ## Countries
+
+### Algeria: 5 Mature
+
+The state's two Tier III data centres, at Mohammadia and Blida, sell cloud services and host government systems (2026).
+
+- HCN expert Hacene Derrar told national radio that the two operational data centres at Mohammadia (Algiers) and Blida, running active-active, are certified Tier III (Le Jeune Indépendant names him Hassan Berrah) ([source, 2026-11-15](https://www.jeune-independant.net/transformation-numerique-le-hcn-renforce-son-dispositif-daccompagnement/)).
+- Louail said the National Digital Services Center provides cloud services to public institutions and administrations so they can host their data and localise digital services in virtual data centres, without building their own, using two active-active sites at Mohammadia (Algiers) and Blida ([source, 2026-07-14](https://elmassar-elarabi.dz/152310)).
+- Le Jeune Indépendant presents the centre as Algeria's national sovereign cloud inaugurated by the President ([source, 2026-07-05](https://www.jeune-independant.net/centre-national-des-services-numeriques-lalgerie-scelle-le-virage-vers-leconomie-2-0/)).
+- The National Centre for Digital Services at Mohammadia, inaugurated 5 July 2026, is built on two national active-active data centres and runs the network, cloud computing platforms, the national public-services portal and the national database ([source, 2026-07-05](https://www.echoroukonline.com/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AA%D8%A8%D9%88%D9%86-%D9%8A%D9%8F%D8%AF%D8%B4%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%AE%D8%AF%D9%85)).
 
 ### Cameroon: 5 Mature
 
@@ -101,12 +110,6 @@ Two nationally owned data centres for hire are Tier III or above by 2025, and th
 - Orange Tunisie describes its Kalaa Kebira data centre as Tier III (operator statement, no certification named) ([source, 2025-05-06](https://www.datacenterdynamics.com/en/news/orange-launches-data-center-outside-sousse-tunisia/)).
 - DataXion states it is the only Tunisian data centre certified Tier IV by the Uptime Institute (operator claim, undated beyond the page date 2024-05-31) ([source, 2024-05-31](https://dataxion.com/en/our-certifications/)).
 - The CNI, a state body, hosts national and sectoral platforms on its own data centres, including the national vaccination platform and social aid systems during Covid-19, per its own communique ([source, 2026-01](https://www.thd.tn/tunisie-le-centre-national-de-linformatique-celebre-50-ans-au-coeur-de-la-transformation-numerique-de-letat/)).
-
-### Algeria: 3 Established
-
-A nationally owned data centre for hire at Tier III or above by 2026; no second one held.
-
-- Le Jeune Indépendant says the Mohammadia complex of the Centre national des services numériques, inaugurated 5 July 2026, holds Uptime Institute Tier III Design certification ([source, 2026-07-05](https://www.jeune-independant.net/centre-national-des-services-numeriques-lalgerie-scelle-le-virage-vers-leconomie-2-0/)).
 
 ### Angola: 3 Established
 

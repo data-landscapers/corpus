@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-16-zaf-teraco-dril-johannesburg-ai-innovation-lab",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "foreign",
+   "fact": "Teraco says it is majority-owned by Digital Realty (NYSE: DLR) together with a consortium of private equity investors including Permira.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Teraco JB3 (Isando)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
