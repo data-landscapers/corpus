@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-15-mli-le-mali-prepare-les-requetes-et-les-verdicts-en-ligne",
+ "facts": [],
+ "systems": [
+  {
+   "system": "E-justice platform (payment of criminal-record extracts and nationality certificates digitised)",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": "Filing, hearing calendars and online verdicts are announced as coming; the digitised payments are not court case management."
+}

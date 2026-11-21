@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-tun-parliament-begins-examining-2027-communication-technologies-budget",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The ministry's announced programmes include completing the digitalization of judicial services through the E-Justice portal, per the parliamentary committee report.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "E-Justice portal",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Justice portal",
+   "country_label": "Tunisia",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
