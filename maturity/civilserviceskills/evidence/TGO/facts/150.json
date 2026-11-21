@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-tgo-20-000-fonctionnaires-form-s-au-num-rique",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Republique Togolaise reports that Agence Togo Digital launched a pilot programme to train 20,000 state employees in basic digital skills, using flexible methods meant to work on weak connections.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Agence Togo Digital pilot training programme",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": "A pilot with a target, no count trained stated."
+}

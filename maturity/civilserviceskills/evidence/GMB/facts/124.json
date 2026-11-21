@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-16-gmb-senigambia-gicta-wardip-digital-engineering-training",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Senigambia reports GICTA, with World Bank-financed WARDIP, opened a two-week AI and software-engineering training programme for government ICT personnel, reported 16 November 2026.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "GICTA and WARDIP digital engineering training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TGO,csskills,training,coverage,underway,2026-06,TGO-001;TGO-003;TGO-004;TGO-005;TGO-006,,
-TGO,csskills,reach,coverage,,,,,nothing held
-TGO,csskills,share,coverage,,,,,nothing held
+TGO,csskills,training,coverage,underway,2026-11-18,TGO-001;TGO-003;TGO-004;TGO-005;TGO-006;TGO-007,,
+TGO,csskills,reach,coverage,,,,,nothing found
+TGO,csskills,share,coverage,,,,,nothing found

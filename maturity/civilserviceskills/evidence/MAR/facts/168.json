@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-mar-ai-rural-internet-access-and-public-services-ahmed-rahhou-unveils-moroccos-next",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Minister Rahhou said his ministry plans several rounds of digital and change-management training for officials through the Raed network, and to expand the Digital Academy platform for public administrations, with training for civil servants in AI pilot projects.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Raed network; Digital Academy",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
