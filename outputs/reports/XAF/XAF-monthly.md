@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: XAF
-ledger_rows: 97
+ledger_rows: 104
 not_held: 3
-record: 189b97bae74a
+record: 892badf9799e
 ---
 
 # News, Oct – Nov 2026
@@ -717,6 +717,8 @@ AUDA-NEPAD and the Science for Africa Foundation invited stakeholders, in a noti
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-exchange">Data Exchange</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
@@ -828,6 +830,34 @@ A GSMA Intelligence director said at a summit in Cape Town, reported on 19 Novem
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet exchange points on the Internet Society Pulse tracker</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Beyond IXP Counts: Is Africa's Internet Exchange Ecosystem Growing Deeper?](https://pulse.internetsociety.org/en/blog/2026/11/beyond-ixp-counts-is-africas-internet-exchange-ecosystem-growing-deeper/)** — Internet Society Pulse, 19 November 2026
+
+African IXPs 31 to 71 and memberships 549 to 1,372, 2019-2026; domestic network coverage 25.5% to 45.1%.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Terrestrial fibre in operation across Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Landed, Not Delivered](https://cioafrica.co/landed-not-delivered/)** — CIO Africa, 19 November 2026
+
+2.1m km terrestrial fibre, 1.3m km active (2024); no published backhaul prices; Mombasa-Goma route as test case.
+
+</div>
+
+</div>
+
 ### Energy
 
 <div class="monthly-story" markdown="1">
@@ -902,6 +932,20 @@ The Institute of Internal Auditors' 2026/2027 Africa Risk in Focus report found 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Countries with a child online protection policy, on the Londa assessment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Online and Exposed: Why Governments in Africa Must Adopt rights respecting Child Online Protection Policies](https://paradigmhq.org/online-and-exposed-why-governments-in-africa-must-adopt-rights-respecting-child-online-protection-policies/)** — Paradigm Initiative, 20 November 2026
+
+Londa 2025: 10 of 29 countries with child online protection policies; call on Gabon to drop under-16 social media ban.
+
+</div>
+
+</div>
+
 ### Data Exchange
 
 <div class="monthly-story" markdown="1">
@@ -935,6 +979,36 @@ Benin, Ghana and Rwanda completed Phase 1 of the Smart Africa Data Exchange cros
 **[FINAL COMMUNIQUÉ OF THE TWENTY FIFTH SUMMIT OF THE COMESA AUTHORITY OF HEADS OF STATE AND GOVERNMENT](https://www.comesa.int/final-communique-of-the-twenty-fifth-summit-of-the-comesa-authority-of-heads-of-state-and-government/)** — COMESA, 26 October 2026
 
 The 25th COMESA Summit in Harare on 22 October 2026 urged member states to support the Digital Retail Payment Platform after its Malawi-Zambia pilot, and noted the electronic certificate of origin live in six states. It called for faster national single windows and trade portals.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">iSOKO market-linkage platform (TradeMark Africa)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AfCFTA: Digital Trade Platforms Can Unlock Opportunities](https://newtelegraphng.com/afcfta-digital-trade-platforms-can-unlock-opportunities-for-small-traders-sirali/)** — New Telegraph, 20 November 2026
+
+TradeMark Africa's Erick Sirali: iSOKO passes 100,000 users; trade formalities cut from 97 to 31 hours, 2017-2023.
+
+</div>
+
+</div>
+
+### Digital Identity and CRVS
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bayobab-Firebase carrier-based phone-number authentication</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bayobab and Google Firebase launch Africa's first Silent Number Authentication](https://bayobab.africa/bayobab-and-google-firebase-launch-africas-first-silent-number-authentication/)** — Bayobab, 19 November 2026
+
+First in Africa; background carrier verification replaces SMS OTP; MTN's 165m Android subscribers in reach.
 
 </div>
 
@@ -1235,6 +1309,20 @@ Summarised under [Connectivity](#connectivity).
 **[Clea Launches Faster US Dollar Payment Routes From Africa to China and Hong Kong](https://techafricanews.com/2026/11/18/clea-launches-faster-us-dollar-payment-routes-from-africa-to-china-and-hong-kong/)** — Tech Africa News, 18 November 2026
 
 Clea launched US dollar routes that let African businesses pay suppliers in mainland China and Hong Kong within three hours. The payments run through CFXPS and CHATS. The stablecoin-based platform reports more than $50 million in cumulative transactions and plans renminbi settlement.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Instant payment systems in operation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The State of Inclusive Instant Payment Systems in Africa (SIIPS) 2026, 5th Edition](https://africanenda.org/wp-content/uploads/SIIPS2026-mainreport_en.pdf)** — AfricaNenda Foundation, 19 November 2026
+
+39 IPS in 43 countries; 71.42bn transactions worth USD 1,828bn in 2025; NIP the only mature system.
 
 </div>
 
@@ -1779,6 +1867,20 @@ Saviu closed its second fund at about EUR 40 million on 18 November 2026. That i
 **[Saviu Ventures Closes $43.6 Million Fund to Back 20 African Startups](https://www.ecofinagency.com/news-finances/1811-60941-saviu-ventures-closes-43-6-million-fund-to-back-20-african-startups)** — Ecofin Agency, 18 November 2026
 
 Saviu announced on 17 November 2026 the final close of its second fund at EUR 40 million, which Ecofin Agency converted to about USD 43.6 million. Earlier closes were EUR 12 million in November 2023 and EUR 25 million in February 2025. The fund has made 11 of about 20 planned investments in French-speaking Africa and selected English-speaking markets.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AfCFTA Digital Trade Fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Wamkele Mene : « Nous devons considérer l’Afrique comme un seul et même marché numérique » - Digital Business Africa](https://www.digitalbusiness.africa/wamkele-mene-nous-devons-considerer-lafrique-comme-un-seul-et-meme-marche-numerique/)** — Digital Business Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+Digital Trade Fund near launch; Secretariat intervened in bank data-transfer case; PAPSS rollout in CEMAC pending.
 
 </div>
 
