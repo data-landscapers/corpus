@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: NAM
-ledger_rows: 29
+ledger_rows: 30
 not_held: 8
-record: 4ad279ebecdd
+record: 5ae4f79b17fd
 ---
 
 # News, Oct – Nov 2026
@@ -329,6 +329,20 @@ Payment fraud reached N$32.45 million in the first half of 2026, up 18.9% on a y
 **[Namibians lose N$32.45 million to payment fraud](https://www.namibian.com.na/namibians-lose-n32-45-million-to-payment-fraud/)** — The Namibian, 15 November 2026
 
 Payment fraud cost Namibians N$32.45 million in the first half of 2026, up 18.9% from N$27.29 million a year earlier, according to the Bank of Namibia's Financial Stability Report. Electronic fund transfer fraud accounted for N$21.87 million, or 67.4%, and was up 47.3% year on year. The report links it to phishing and vishing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Value settled by Namibian banks through SADC-RTGS</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibian banks handle 25% of SADC payments](https://www.namibian.com.na/namibian-banks-handle-25-of-sadc-payments/)** — The Namibian, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
+
+R708bn of R2.8tn SADC-RTGS value in 2025; 88 institutions in 15 states; ISO 20022 migration Nov 2025.
 
 </div>
 

@@ -1,12 +1,12 @@
 ---
 title: Namibia: status report
-compiled: 2026-11-20
+compiled: 2026-11-21
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 214
+sources_cited: 215
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -201,6 +201,8 @@ Namibia's digital-sector financing from 2016 to 2026 runs to 38 commitments, wor
 [On 17 June 2026 the first cohort of marginalised beneficiaries was paid over the new rail through Bank Windhoek, with pensioners and other grant recipients to follow](https://technews.com.na/2026/06/17/namibia-moves-government-grant-payments-onto-instant-payment-network/). [Only the first phase, government-to-person grant payments, has been introduced](https://www.marketwatch.com.na/market-watch/fact-sheet-namibias-instant-payment-solution-ips-nmh012158-3015-14760) (2026). [In March 2026 Namclear agreed to connect the country to TCIB, the SADC regional instant cross-border scheme](https://technews.com.na/2026/03/31/namibia-plugged-into-sadc-digital-payments-system-through-namclear-payinc-deal/). Bank-to-bank transfers already run on [NamPay, the national electronic funds transfer system](https://nedbank.com.na/content/nedbank-namibia/desktop/na/en/aboutus/legal/Nam-Pay.html). [Its near-real-time credit stream carries person-to-person, salary and supplier payments](https://nedbank.com.na/content/nedbank-namibia/desktop/na/en/aboutus/legal/Nam-Pay.html).
 
 [The Payment System Management Act 14 of 2023 lets the Bank of Namibia approve payment system rules and membership criteria, and carries a part on consumer protection](https://www.lac.org.na/laws/2023/8156.pdf). [A determination effective 15 February 2024 licenses non-bank payment service providers and requires them to file audited annual statements](https://www.lac.org.na/laws/2024/8308.pdf). [Operators must submit scheme rules on governance, access, risk, settlement finality and fees, on forms marked confidential](https://www.lac.org.na/laws/2024/8382.pdf) (2024). A 2025 directive [requires every e-money issuer to interoperate through the instant payment switch by 30 November 2026, a deadline moved from 26 February](https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/0c/0c8f0480-3d2d-4735-8d58-38dba947827d.pdf).
+
+[Namibian banks settled R708 billion through the regional SADC-RTGS system in 2025, a quarter of its R2.8 trillion](https://www.bon.com.na/getattachment/Publications/Annual-Reports/BON-ANNUAL-REPORT-30-MARCH.pdf.aspx?lang=en-ZA). [All Namibian participants moved to the ISO 20022 standard with the system's upgrade in November 2025](https://www.bon.com.na/getattachment/Publications/Annual-Reports/BON-ANNUAL-REPORT-30-MARCH.pdf.aspx?lang=en-ZA).
 
 [Access to banking scores 45.9 out of 100 in the 2024 IIAG and ranks 6th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf). [It is among Namibia's ten weakest measures and its ten most improved](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf) (2023). [The Bank of Namibia's 2025 annual report put banking fraud losses at N$73.9 million for the year, against roughly N$8.7 million in 2020](https://www.namibian.com.na/namibias-digital-economy-needs-cybersecurity-as-much-as-it-needs-connectivity/).
 
