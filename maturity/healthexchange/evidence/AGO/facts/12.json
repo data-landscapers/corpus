@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-22-ago-falta-de-uniformizacao-do-sistema-informatico-de-saude-dificulta-atend",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "none",
+   "fact": "Radio Nacional de Angola, relayed by Foco Saude, reports hospital directors and the National Director of Hospitals saying there is no integrated health information system, so patients are registered repeatedly and referrals fail for lack of shared data between hospitals.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "national health information system",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

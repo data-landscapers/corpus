@@ -55,6 +55,7 @@ CIV,DHIS2,Côte d'Ivoire,other,DHIS2,Ministry of Health,national health informat
 CIV,DHIS2,Côte d'Ivoire,other,DHIS2,Direction de l'Informatique et de l'Information Sanitaire (Ministry of Health),all 33 sanitary regions and 113 districts,2024-07-30-jmir-outbreak-surveillance-systems-cote-divoire
 CIV,MAGPI,Côte d'Ivoire,other,,Institut National d'Hygiène Publique,all 33 regions and 113 districts,2024-07-30-jmir-outbreak-surveillance-systems-cote-divoire
 CIV,SORMAS,Côte d'Ivoire,other,SORMAS,Institut National d'Hygiène Publique,"pilot in 2 regions and 11 districts, from July-August 2021 to June 2023",2024-07-30-jmir-outbreak-surveillance-systems-cote-divoire
+CIV,Sante CIV,Cote d'Ivoire,other,appointments,,,2026-09-30-civ-intelligent-health-systems
 CMR,"Pandemic Fund Cameroon pandemic prevention, preparedness and response project (national health information systems interoperability)",Cameroon,exchange,,Ministry of Public Health,,2026-08-01-pandemic-fund-cmr-2026-record
 CMR,plateforme nationale d'interoperabilite,Cameroon,exchange,"OpenHIM, OpenFn",Ministry of Public Health,,2026-11-03-cmr-sant-num-rique-le-cameroun-acc-l-re-l-interconnexion-de-ses-syst-mes-d
 CMR,DHIS2-BUNEC birth and death transmission,Cameroun,other,DHIS2,MINSANTE,,2024-06-12-cmr-minsante-l-architecture-de-la-sante-numerique-se-dessine
@@ -190,6 +191,7 @@ MLI,"SanDi project digital solutions (telemedicine, electronic billing)",Mali,ot
 MLI,DHIS2,Mali,exchange,DHIS2,Ministry of Health (DGSHP),national,2025-09-19-muso-integrated-efficient-health-information-ecosystem
 MLI,DISC-Mali,Mali,exchange,,,community health workers,2025-09-19-muso-integrated-efficient-health-information-ecosystem
 MLI,Muso community health toolkit,Mali,exchange,digital toolkit for ProCHWs,Muso,community health workers and supervisors,2025-09-19-muso-integrated-efficient-health-information-ecosystem
+MLI,DHIS2-OSPSANTE data migration,Mali,exchange,DHIS2; OSPSANTE,Direction de la Pharmacie et du Medicament,,2026-11-19-mli-interoperabilite-dhis2ospsante-la-dpm-a-reuni-les-administrateurs-des-deux-plate
 MOZ,OpenHIM interoperability layer (MGDH-Birth to e-SiRCEV),Mozambique,exchange,OpenHIM,Jembi Health Systems,national,2025-01-01-jembi-mozambique-case-study
 MOZ,MGDH-Birth,Mozambique,other,,,facility,2025-01-01-jembi-mozambique-case-study
 MOZ,e-SiRCEV,Mozambique,other,,,,2025-01-01-jembi-mozambique-case-study
@@ -276,6 +278,7 @@ RWA,CRVS,Rwanda,other,,,,2025-04-03-rwanda-health-intelligence-center-launch
 RWA,eLMIS,Rwanda,other,,,,2025-04-03-rwanda-health-intelligence-center-launch
 RWA,WelTel,Rwanda,other,,,,2025-04-03-rwanda-health-intelligence-center-launch
 RWA,Health Workforce Management System,Rwanda,other,,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,Rwanda Health Information Exchange,Rwanda,exchange,,,,2026-05-01-rwa-thematic-snapshot-rwanda-digitizing-rural-health-facilities
 SDN,نظام إدارة المستشفيات (HMS),Sudan,exchange,,Ministry of Health; Ministry of Digital Transformation and Communications,hospital,2026-05-11-sudan-health-sector-digitalization-hms-launch
 SDN,CRVS,Sudan,other,,,,2026-05-11-sudan-health-sector-digitalization-hms-launch
 SDN,EPR,Sudan,other,,,,2026-05-11-sudan-health-sector-digitalization-hms-launch
@@ -319,6 +322,7 @@ SWZ,Electronic Logistics Management Information System (eLMIS),Eswatini,exchange
 SWZ,Client Management Information System (CMIS),Eswatini,other,open-source electronic medical record,Government of Eswatini (Ministry of Health),"73% of health facilities, 233 live sites",2026-04-07-even-on-the-rainiest-afternoons-in-eswatini
 SWZ,DHIS2,Eswatini,other,,,,2026-05-01-eswatini-annual-results-report-2025-who
 SWZ,CMIS,Eswatini,other,,Ministry of Health,,2025-02-01-eswatini-annual-report-health-2025
+SWZ,National Health Intelligence Platform,NHIP,exchange,,Ministry of Health,,2026-11-16-new-health-platform-to-help-govt-anticipate-medicine-stockouts-eswatin
 SYC,eHIS (electronic health information system),Seychelles,other,,Ministry of Health,,2022-01-01-seychelles-nhsp-strategic-direction-six-data
 SYC,eHIS,Seychelles,other,,Ministry of Health,,2023-07-01-moh-annual-performance-report-2022
 TCD,Dossier Médical Électronique (DME),Chad,exchange,,Ministère de la Santé Publique et de la Prévention,,2026-04-17-hisp-rwanda-tchad-dossier-medical-electronique
@@ -356,6 +360,7 @@ TUN,E-Sante programme,Tunisia,exchange,,Ministry of Health,,2026-02-15-letemps-a
 TUN,Electronic Health Records pilot (DMI),Tunisia,other,,,,2025-04-02-worldbank-tunisia-health-system-strengthening-pid
 TUN,SAMU paper reporting,Tunisia,other,,,,2025-04-02-worldbank-tunisia-health-system-strengthening-pid
 TUN,Health System Strengthening Project information systems,Tunisia,exchange,,Ministry of Health,,2025-04-02-worldbank-tunisia-health-system-strengthening-pid
+TUN,licensed telemedicine platform (unnamed),Tunisie,other,,private initiative licensed by the Ministry of Public Health,,2026-11-20-tun-alchourouk-health-ministry-licensed-telemedicine-platform
 TZA,GOTHOMIS (Government of Tanzania Health Operations Management Information System),Tanzania,other,,Government of Tanzania (PORALG),"facility; used in over 3,500 facilities",2025-08-01-path-digital-innovation-pandemic-control-tanzania
 TZA,DHIS2,Tanzania,other,DHIS2,Ministry of Health Tanzania,,2021-01-01-usaid-tza-digital-square-tanza-2021-digital-square-tanzania-pepfar-strengthening-capacity
 TZA,Health Data Universal API (HDU API) integrated EMR system,Tanzania,exchange,HDU API,Ministry of Health,"district, regional referral, zonal, specialised and national hospitals",2026-10-13-tza-thecitizen-222-health-facilities-digital-records
@@ -403,3 +408,4 @@ ZWE,Impilo EHR,Zimbabwe,other,,Ministry of Health and Child Care,over 700 facili
 ZWE,DHIS2,Zimbabwe,other,DHIS2,,,2025-01-01-zwe-integration-and-interoperability-of-impilo-electronic-health-record-eh
 ZWE,Impilo EHR to DHIS2 FHIR integration,Zimbabwe,exchange,FHIR; OpenHIE,,,2025-01-01-zwe-integration-and-interoperability-of-impilo-electronic-health-record-eh
 ZWE,Health Information Exchange (HIE),Zimbabwe,exchange,core platform with mediators and secure channels,,,2026-11-13-zwe-undp-hie-architecture-core-platform-rfp
+ZWE,Zimbabwe Health Information Exchange,Zimbabwe,exchange,,Ministry of Health and Child Care,,2025-08-30-zwe-impilo-deployed-to-1-200-public-health-centres

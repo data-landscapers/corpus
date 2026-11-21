@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-30-zwe-impilo-deployed-to-1-200-public-health-centres",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The Herald reports the Ministry of Health is working on the Zimbabwe Health Information Exchange to integrate data from public and private providers.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Zimbabwe Health Information Exchange",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe Health Information Exchange",
+   "country_label": "Zimbabwe",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health and Child Care",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

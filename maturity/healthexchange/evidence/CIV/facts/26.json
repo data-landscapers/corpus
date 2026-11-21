@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "Ecofin Agency reports that, according to the Health Ministry, Cote d'Ivoire is progressively establishing a national interoperability platform for its health information systems to exchange data securely.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "national interoperability platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

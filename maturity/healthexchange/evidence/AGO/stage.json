@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "AGO-002;AGO-001",
-      "gaps": "No source found since November 2023 says two health systems exchange data in routine use.",
-      "note": "Links between DHIS2 and the ReDIV, IOTA and eLMIS systems are being built or improved (AGO-002, AGO-001): 2. None is reported in routine use, so not 3.",
-      "as_at": "2026-11-05"
+      "gaps": "No source found since November 2023 says two health systems exchange data in routine use; hospital directors said in December 2025 that hospitals share no patient data (AGO-003).",
+      "note": "Links between DHIS2 and the ReDIV, IOTA and eLMIS systems are being built or improved (AGO-002, AGO-001): 2. Hospital directors reported no shared data in December 2025 (AGO-003) and nothing is reported in routine use, so not 3.",
+      "as_at": "2026-11-21"
     }
   ]
 }

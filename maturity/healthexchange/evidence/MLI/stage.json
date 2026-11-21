@@ -9,10 +9,10 @@
       "identifier": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MLI-003;MLI-002",
-      "gaps": "No source found says three or more separate health systems exchange data: SNISI merges collection tools into one database. No identifier linking records is reported.",
-      "note": "DHIS2 and the community tool DISC-Mali are interoperable (MLI-003, MLI-002): two systems, 3. SNISI merges collection tools into one database (MLI-001), one system, so not 4.",
-      "as_at": "2026-11-05"
+      "stage_sources": "MLI-005;MLI-003;MLI-002",
+      "gaps": "No source found says three or more health systems exchange data through one exchange: DISC-Mali and OSPSANTE each link to DHIS2 separately, and SNISI merges collection tools into one database. No identifier linking records is reported.",
+      "note": "DHIS2 exchanges data with DISC-Mali (MLI-003, MLI-002) and, from November 2026, with OSPSANTE (MLI-005): 3. These are separate links into one hub, not one exchange joining three systems, so not 4.",
+      "as_at": "2026-11-21"
     }
   ]
 }

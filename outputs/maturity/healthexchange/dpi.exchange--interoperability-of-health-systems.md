@@ -23,10 +23,10 @@ Africa CDC's health information exchange guidelines and Smart Africa's digital h
 | 5 Mature | 0 |
 | 4 Operating | 8 |
 | 3 Established | 14 |
-| 2 Nascent | 23 |
+| 2 Nascent | 24 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
-| No evidence | 7 |
+| No evidence | 6 |
 
 ## Countries
 
@@ -126,8 +126,9 @@ The national medical record system fed DHIS2 by 2025; no source found shows thre
 
 ### Mali: 3 Established
 
-A community health tool exchanged data with DHIS2 from 2025; no source shows three separate health systems exchanging data.
+DHIS2 exchanged data with a community tool from 2025 and a logistics system in 2026; no single exchange joins three systems.
 
+- Mali's Directorate of Pharmacy and Medicines reports that corrections applied at a 17-18 November 2026 workshop restored automatic data migration between DHIS2 and the OSPSANTE health-logistics system, deployed in 2014, with batch transfer of facility data starting on 19 November 2026 ([source, 2026-11-18](https://www.dirpharma.ml/index.php/fr/blog/interoperabilite-dhis2-ospsante-atelier-koulikoro-2026)).
 - A DGSHP deputy director is quoted as saying interoperability between DHIS2 and DISC-Mali had been established, in a Muso article on a workshop of 30-31 July 2025; no volumes given ([source, 2025-07](https://www.musohealth.org/post/towards-an-integrated-and-efficient-health-information-ecosystem)).
 - The abstract says community health worker smartphone data on births and perinatal deaths (729 live births and 35 perinatal deaths in eight months, four districts) were analysed on DHIS2 and that the DISK-Mali tool is integrated into the DHIS2 platform ([source, 2026](https://www.populationmedicine.eu/From-policy-to-practice-facilitating-the-notification-of-perinatal-deaths-and-births,227439,0,2.html)).
 
@@ -301,6 +302,12 @@ A link between the health information system and civil registration was being bu
 
 - Saudigitus says it is developing, with SIS-STP and UNDP support, an interoperability layer integrating the National Health Information System with the Civil Registration System to share birth and death data ([source, 2025-07-30](https://pt.linkedin.com/posts/saudigitus_saudigitus-dhis2-hispafrica-activity-7356329085226123264-sJJl)).
 
+### Senegal: 2 Nascent
+
+Senegal's health ministry was building a shared patient record in 2026; no exchange between health systems in routine use is known.
+
+- Ecofin Agency reports that Senegal is developing a shared patient record to make health information portable across facilities and platforms ([source, 2026-10-05](https://www.ecofinagency.com/news-digital/0510-59476-nigeria-builds-national-digital-health-architecture-to-connect-fragmented-systems)).
+
 ### South Africa: 2 Nascent
 
 A national health information exchange holding patient registration and the facility list was developed by 2026; no systems exchanging in routine use are reported.
@@ -357,12 +364,6 @@ Nothing found names health systems exchanging data or says there is none, so no 
 Not established: Nothing found names health systems exchanging data, or says there is none.
 
 ### Eritrea: No evidence
-
-Nothing found names health systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing found names health systems exchanging data, or says there is none.
-
-### Senegal: No evidence
 
 Nothing found names health systems exchanging data or says there is none, so no stage is set.
 

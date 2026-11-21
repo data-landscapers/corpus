@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-rwa-thematic-snapshot-rwanda-digitizing-rural-health-facilities",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The Global Fund says the eFiche record system is interoperable with the government's eBuzima and with Rwanda's Health Information Exchange, and reports HIV, TB and malaria indicators into national systems.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Rwanda Health Information Exchange",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rwanda Health Information Exchange",
+   "country_label": "Rwanda",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

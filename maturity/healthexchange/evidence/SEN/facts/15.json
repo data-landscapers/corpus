@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-05-nga-nigeria-moves-to-break-health-data-silos-joining-an-africa-wide-intero",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "Ecofin Agency reports that Senegal is developing a shared patient record to make health information portable across facilities and platforms.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "shared patient record",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

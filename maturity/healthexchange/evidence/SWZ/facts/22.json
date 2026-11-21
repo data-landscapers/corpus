@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-new-health-platform-to-help-govt-anticipate-medicine-stockouts-eswatin",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "Eswatini's Ministry of Health launched the National Health Intelligence Platform on 16 November 2026, which the minister said will bring clinical, epidemiological, supply-chain and community data into one integrated system.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "National Health Intelligence Platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Health Intelligence Platform",
+   "country_label": "NHIP",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

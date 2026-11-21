@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-30-civ-intelligent-health-systems",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sante CIV",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "appointments",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Document names interoperability between the platforms as the critical challenge now; no exchange stated in service or under way."
+}
