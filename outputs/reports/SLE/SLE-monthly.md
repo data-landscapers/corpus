@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: SLE
-ledger_rows: 32
+ledger_rows: 33
 not_held: 4
-record: e4c7226e9c48
+record: ed925537beda
 ---
 
 # News, Oct – Nov 2026
@@ -119,6 +119,8 @@ The African Development Bank approved a $750,000 seed grant, with technical assi
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#energy">Energy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
@@ -185,6 +187,22 @@ The West Africa Integration and Investment Summit closed in Sierra Leone on 18 N
 **[Data Center & Colocation – Afcom](http://afcom.sl/corporate/afcom-data-center-colocation/)** — Afcom, 16 October 2026
 
 Afcom describes its Freetown data centre as a privately owned, carrier-neutral Tier III facility offering rack, cage and cloud hosting. It claims 99.9% availability, with redundant generators able to run for two weeks without refuelling.
+
+</div>
+
+</div>
+
+### Energy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National integrated energy, telecommunications and digital infrastructure master plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government Announces Partnership to Integrate Energy and Telecommunications Infrastructure, Reduce Connectivity Costs and Expand Digital Access](https://mocti.gov.sl/government-announces-partnership-to-integrate-energy-and-telecommunications-infrastructure-reduce-connectivity-costs-and-expand-digital-access/)** — Ministry of Communication, Technology and Innovation, Sierra Leone, 20 November 2026
+
+Sierra Leone's ministries of energy and of communication, technology and innovation signed a memorandum of understanding with Aton Path LLC, announced at WAIIS 2026 on 20 November 2026. The firm will help draw up a national master plan for energy, telecoms and digital infrastructure. The plan aims to move telecom sites from diesel to grid power.
 
 </div>
 
