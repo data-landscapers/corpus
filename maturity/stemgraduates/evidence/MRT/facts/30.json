@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-mrt-ecofin-universite-nouakchott-moov-mauritel-accord",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "nren",
+   "value": "service",
+   "fact": "Authorities inaugurated the Mauritanian Education and Scientific Research Network in July 2026, connecting universities, research centres and higher-education institutions with secure high-speed internet and eduroam, according to Agence Ecofin.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Réseau mauritanien de l'enseignement et de la recherche scientifique",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Réseau mauritanien de l'enseignement et de la recherche scientifique",
+   "country_label": "Mauritania",
+   "class": "stemgraduates",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
