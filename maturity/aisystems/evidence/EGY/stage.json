@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "EGY-006;EGY-002",
-      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "The ministry's Karnak Arabic language model is released and underlies the Karnak Chat pilot. The sovereign AI data centres with Cassava and Vodafone are signed or breaking ground, not in service.",
-      "as_at": "2026-10-22"
+      "gaps": "No source found since October 2023 names GPUs or other AI accelerators in service in the country; the Public Prosecution's AI data centre (EGY-020) is described without them.",
+      "note": "Stage 4c 2026-11-21: the Public Prosecution opened an AI data centre in November 2026 to develop and run AI applications (EGY-020), AI computing in service beside the released Karnak model, but no source names GPUs or AI accelerators in it, so not 4. The sovereign AI data centres and e& GPU service are signed or planned.",
+      "as_at": "2026-11-21"
     }
   ]
 }

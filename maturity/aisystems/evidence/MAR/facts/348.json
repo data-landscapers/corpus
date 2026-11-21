@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-16-hespress-ar-ai-ministry-sovereign-platform",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Minister Ahmed Rahou told parliament's Interior Committee Morocco expects the first open-source national language model and is running first trials adapting a model to Darija, building on about 300 million text tokens and 10,000 hours of Darija audio.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "national language model",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The ministry reports it is continuing a partnership with Core Nexus Systems for an advanced computing platform with a target capacity of 36 MW.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Core Nexus Systems computing platform",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Core Nexus Systems computing platform",
+   "country_label": "Morocco",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

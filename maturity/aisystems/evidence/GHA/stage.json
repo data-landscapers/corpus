@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "2",
-      "build": "underway",
+      "stage": "3",
+      "build": "inservice",
       "compute": "",
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-001;GHA-002",
-      "gaps": "No source found since October 2023 says an AI model built in the country is released, a dataset made for AI is published, or AI computing is in service.",
-      "note": "Cabinet has approved US$250 million for a national AI compute centre and KNUST leads a Twi model. SignTalk-Gh and Hubtel's models are developed or tested, not stated in service.",
-      "as_at": "2026-10-22"
+      "stage_sources": "GHA-020;GHA-021",
+      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+      "note": "Stage 4c 2026-11-21: Accra-based MinoHealth AI Labs built the Moremi Bio model and sells its AI system (GHA-020), and Ghana Statistical Service built and uses its own machine-learning coding model (GHA-021): AI models built in the country in service. The national AI compute centre is approved, not in service, so not 4.",
+      "as_at": "2026-11-21"
     }
   ]
 }

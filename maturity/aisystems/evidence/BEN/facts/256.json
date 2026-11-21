@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-ben-matinlibre-budget-2027-mtdi-11-59-milliards",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Benin's J'aime ma langue project recorded 700 hours of Fongbe speech from 2,507 people in all 12 departments, and a speech recognition system built on it makes four times fewer errors than the best existing model; 19 voice services were demonstrated, per Matin Libre.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "J'aime ma langue",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "J'aime ma langue",
+   "country_label": "Benin",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-16-civ-etnews-elice-afdb-k-ai-voucher-gpu-npu-cloud",
+ "facts": [],
+ "systems": [
+  {
+   "system": "K-AI Voucher Project",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "Elice cloud GPU/NPU",
+   "owner": "AfDB / Elice Group",
+   "tiers": ""
+  }
+ ],
+ "note": "Compute is Korean cloud resources supplied from a Cote d'Ivoire base; no AI computing hosted in the country is stated."
+}

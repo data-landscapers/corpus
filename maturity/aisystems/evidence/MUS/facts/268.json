@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-cassava-mauritius-telecom-ai-mou-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Mauritius Telecom says it created myt Learn, an AI education platform now rolling out in Mauritian schools, and runs an existing myt AI Cloud platform in Mauritius.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "myt Learn",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

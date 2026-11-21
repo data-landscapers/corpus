@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,localai,build,coverage,underway,2026-11-10,GHA-001;GHA-002;GHA-003;GHA-004;GHA-005;GHA-006;GHA-007;GHA-008;GHA-009;GHA-010;GHA-011;GHA-012;GHA-013;GHA-014;GHA-015;GHA-016;GHA-017;GHA-018,,
+GHA,localai,build,coverage,inservice,2026-11-16,GHA-020;GHA-021,GHA-018=underway;GHA-016=underway;GHA-017=underway;GHA-015=underway;GHA-014=underway;GHA-013=underway;GHA-010=underway;GHA-012=underway;GHA-009=underway;GHA-001=underway;GHA-002=underway;GHA-003=underway;GHA-004=underway;GHA-006=underway;GHA-005=underway;GHA-007=underway;GHA-011=underway;GHA-019=underway;GHA-008=underway,
 GHA,localai,compute,coverage,,,,,nothing found
 GHA,localai,shared,coverage,,,,,nothing found

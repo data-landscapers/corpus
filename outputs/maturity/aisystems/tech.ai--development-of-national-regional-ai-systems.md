@@ -22,8 +22,8 @@ The Continental AI Strategy asks that a country can manage its own data and AI, 
 |---|---|
 | 5 Mature | 5 |
 | 4 Operating | 9 |
-| 3 Established | 27 |
-| 2 Nascent | 11 |
+| 3 Established | 28 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 2 |
@@ -212,6 +212,13 @@ An AI model or dataset built in the country was in service in 2026; AI computing
 
 - Jollof Lab says it released an open-source Mandinka-English translation model on HuggingFace, fine-tuned from NLLB-200 on a curated corpus of 5,797 sentence pairs, with BLEU 21.12 (developer's LinkedIn post) ([source, 2026-04-10](https://www.linkedin.com/posts/sheikh-tijan-cham-000966197_nlp-machinetranslation-mandinka-activity-7448293716806586368-q-iI)).
 
+### Ghana: 3 Established
+
+Ghana-built AI models were in use in 2026 at a health AI lab and the statistics service; AI computing in service is not known.
+
+- Rest of World reports that Accra-based MinoHealth AI Labs built the Moremi Bio model, which has proposed hundreds of drug candidates, and funds the company mainly through sales of its AI system ([source, 2026-11-16](https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/)).
+- Ghana Statistical Service's data science unit has built and uses a machine-learning model to code labour force survey occupations and industries ([source, 2026-10](https://www.data4sdgs.org/blog/why-africas-data-future-depends-nso-leadership)).
+
 ### Guinea: 3 Established
 
 An AI model or dataset built in the country was in service in 2026; AI computing is not on record.
@@ -328,13 +335,6 @@ A national AI model, dataset or computing facility was under way in 2024; none i
 A Gabonese research committee was developing a Fang-language AI system in 2026; whether any model is released is not known.
 
 - The CSGR-IA, the Gabonese scientific committee on AI research, told the CESEC of its work developing Obone AI, described as the first Gabonese AI system able to process and answer in the Fang language; no release is stated ([source, 2026-07-07](https://www.csgria.ga/actualites/article/le-csgr-ia-recu-en-audience/)).
-
-### Ghana: 2 Nascent
-
-A national AI model, dataset or computing facility was under way in 2026; none in service is on record.
-
-- Communications minister Sam George said the government has committed US$250 million to the first phase of a national AI compute centre, within US$270 million for AI infrastructure and an AI fund ([source, 2026-10-15](https://www.myjoyonline.com/ghana-targets-5bn-in-annual-economic-gains-from-ai-sam-george/)).
-- Communications Minister Sam George tasked KNUST experts to lead development of a Twi language model, with other universities to lead models for other Ghanaian languages, as the government decided national language models must be built locally ([source, 2026-10-12](https://www.myjoyonline.com/sam-george-tasks-knust-to-develop-twi-ai-model-as-ghana-plans-local-language-artificial-intelligence/)).
 
 ### Madagascar: 2 Nascent
 

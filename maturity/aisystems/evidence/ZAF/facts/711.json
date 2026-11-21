@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-16-zaf-teraco-dril-johannesburg-ai-innovation-lab",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Realty Innovation Lab (DRIL), JB3",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "Teraco JB3 data centre, Isando",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": "A test lab for high-density and AI deployments; no AI accelerators or AI computing in service are stated."
+}

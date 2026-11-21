@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-16-zaf-itweb-teraco-ai-innovation-lab",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Realty Innovation Lab, JB3, Isando",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": "A test lab for high-density cabinets and liquid cooling; no AI model, dataset or GPU computing is stated."
+}

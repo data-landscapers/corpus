@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-xaf-gpsdd-statcom-10-nso-leadership",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Ghana Statistical Service's data science unit has built and uses a machine-learning model to code labour force survey occupations and industries.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "GSS occupation and industry coding model",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

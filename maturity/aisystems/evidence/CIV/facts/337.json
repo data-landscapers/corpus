@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-civ-wearetech-faba-finance-credit-platform-ghost-score",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Faba Finance, founded in Abidjan in 2025, developed the AI scoring tool Ghost Score, which has been in pilot use since 18 May 2026 and handled over 1,000 financing requests by end-October 2026.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "Ghost Score",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghost Score",
+   "country_label": "Faba Finance Ghost Score",
+   "class": "localai",
+   "platform": "mobile app",
+   "owner": "Faba Finance (private company)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

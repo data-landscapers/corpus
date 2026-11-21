@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SDN,Sudan-MM,Sudan,localai,Hugging Face,IndabaX Sudan,,2025-01-01-sdn-huggingface-indabax-sudan-mm-dataset
 SDN,Sudanese Arabic three-resource suite,Sudan,localai,,Sudan University of Science and Technology,,2026-01-01-sdn-ijcst-sudanese-arabic-three-resource-suite
+SDN,Shared central AI laboratory,Sudan,localai,offline in-country compute,"Data and Artificial Intelligence Authority, Ministry of Digital Transformation and Communications",,2026-11-19-sdn-suna-data-ai-authority-shared-ai-lab

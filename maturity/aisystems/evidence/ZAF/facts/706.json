@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-18-cassava-mauritius-telecom-ai-mou-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Cassava Technologies describes its NVIDIA-powered AI Factory in Cape Town as Africa's most powerful supercomputer.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Cassava AI Factory",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "compute",
+   "value": "compute",
+   "fact": "Cassava Technologies describes its NVIDIA-powered AI Factory in Cape Town as Africa's most powerful supercomputer.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Cassava AI Factory",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cassava AI Factory",
+   "country_label": "Cassava AI Factory, Cape Town",
+   "class": "localai",
+   "platform": "NVIDIA",
+   "owner": "Cassava Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

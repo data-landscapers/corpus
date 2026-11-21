@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-16-mar-dgssi-15-security-operations-centres-cybersecurity-law-revision",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Le Matin reports Morocco's DGSSI is developing AI tools for threat detection and has begun creating a laboratory devoted to these technologies.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "DGSSI AI laboratory and tools",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-15-xaf-nineteen-african-countries-race-for-itu-council-seats",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Ecofin Agency reports that Egypt highlights the development of Karnak, its Arabic-language model designed to support AI tools in Arabic, in its ITU Council campaign.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "Karnak",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Karnak",
+   "country_label": "Karnak",
+   "class": "localai",
+   "platform": "",
+   "owner": "Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
