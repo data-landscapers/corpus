@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: BWA
-ledger_rows: 23
+ledger_rows: 24
 not_held: 5
-record: 1435003d77a5
+record: 16518b0bcdc2
 ---
 
 # News, Oct – Nov 2026
@@ -163,6 +163,20 @@ Botswana's universal service fund, working with one mobile operator, has deploye
 **[ATU advances IPv6 testbed preparations in Botswana](https://techreviewafrica.com/news/7904/atu-advances-ipv6-testbed-preparations-in-botswana)** — Tech Review Africa, 24 October 2026
 
 The African Telecommunications Union moved its IPv6 testbed for Botswana forward after a due-diligence visit to the regulator BOCRA, which has picked a university by tender to host it. The testbed is part of an ICANN-funded ATU programme under which 52 specialists from 26 African countries have been trained; the visit coincided with a Smart Africa and CRASA workshop in Gaborone on 20 to 22 October on cutting roaming costs in southern Africa.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BTC Satellite direct-to-mobile service (with Starlink)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BTC Partners Starlink to Launch Direct-to-Mobile Satellite Service in Botswana](https://techafricanews.com/2026/11/20/btc-starlink-direct-to-mobile-satellite-service-botswana/)** — Tech Africa News, 20 November 2026
+
+Botswana Telecommunications Corporation announced on 20 November 2026 a partnership with Starlink for BTC Satellite, a direct-to-mobile service for compatible phones where terrestrial coverage is limited. No launch date, pricing or supported devices had been announced.
 
 </div>
 
