@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-08-nin-verification-portal-downtime-banks-telcos-vanguard",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Vanguard reports that banks and mobile network operators verify customers' NINs through NIMC's platform to open accounts and register SIM cards.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "NIN verification portal",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "Vanguard reports that NIN verification is relied on by banks, mobile network operators (SIM registration, replacement and number portability) and the Immigration Service for passport processing.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "NIN verification portal",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

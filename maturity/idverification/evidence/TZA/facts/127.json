@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-xaf-africas-uncollected-national-id-cards-mass-issuance",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Jaume Dubois of ID30, citing NIDA research, says Tanzanians skip the card because the national ID number already opens the services they need.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "NIDA national ID number",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-30-shega-nbe-fayda-deadline-bank-accounts-addis",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Shega reports the National Bank of Ethiopia's letter of 26 November 2024 requiring banks to demand Fayda for new accounts in Addis Ababa from 1 January 2025, nationwide by January 2026, and of existing holders by December 2026.",
+   "as_of": "2024-11-26",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

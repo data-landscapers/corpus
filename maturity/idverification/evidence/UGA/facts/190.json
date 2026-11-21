@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-18-uga-new-national-id-verification-glitches-spark-delays-at-banks-agencies-e",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NIRA says partner institutions, including banks, verify customers against the national ID database by NIN and biometrics, with 10 of 107 partners transacting as of 28 October 2026.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "NIRA NIN biometric verification",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "NIRA counts 10 of 107 partner institutions onboarded and transacting through the verification system as of 28 October 2026, and wrote in September to all 30 commercial banks setting an October integration deadline.",
+   "as_of": "2026-10-28",
+   "date_precision": "day",
+   "system": "NIRA NIN biometric verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

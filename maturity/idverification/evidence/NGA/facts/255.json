@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-16-fij-banks-cannot-verify-customers-nins-nimc-upgrade",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "FIJ reports that banks verify customers' NINs against NIMC's platform to onboard them, as the Central Bank of Nigeria requires, though verification failed for weeks in July 2025.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "NIMC NIN verification portal",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "FIJ reports that NIN verification is used by banks for onboarding and by telecom companies for SIM registration, in the same NIMC portal.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "NIMC NIN verification portal",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

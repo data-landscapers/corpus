@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-10-biometric-update-nigeria-nin-portal-downtime",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Biometric Update reports that Nigerians use the virtual NIN for banking operations and that SIM card registration requires the NIN, both disrupted by the portal downtime of June to July 2025.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "National Identification Number (NIN)",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "Biometric Update reports that banking operations and SIM card registration, in banking and telecoms, both rely on the NIN.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "National Identification Number (NIN)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN)",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "National Identity Management Commission (NIMC)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

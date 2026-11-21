@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-16-nidp-fayda-authentication-page",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The National ID Program says service providers can perform e-KYC against a customer's Fayda number through its portal, with one-time-code consent, and retrieve the customer's e-KYC data.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Fayda e-KYC Service",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": "Banks, telecom and medical records are only being worked towards."
+}

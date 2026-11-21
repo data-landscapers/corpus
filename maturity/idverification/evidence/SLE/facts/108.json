@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-xaf-africas-uncollected-national-id-cards-mass-issuance",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Biometric Update reports Sierra Leone recently made the national ID card mandatory for SIM card registration.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "SIM card registration",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

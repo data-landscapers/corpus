@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-21-bvn-nin-why-they-are-important-for-national-development",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "An opinion column in TheCable says NINs are linked to bank BVNs and banks verify customer identity against biometrics, with companies required to validate the numbers.",
+   "as_of": "2023-12-21",
+   "date_precision": "day",
+   "system": "BVN/NIN linkage",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BVN",
+   "country_label": "Nigeria",
+   "class": "relying",
+   "platform": "",
+   "owner": "banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-18-tza-citizen-new-national-id-integrated-records",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Home Affairs Minister Patrobas Katambi said 157 institutions are connected to Nida's system to facilitate access to services and use of identity information.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Nida system",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The minister counted the institutions connected to Nida's system at 157, 72 public and 85 private.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Nida system",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

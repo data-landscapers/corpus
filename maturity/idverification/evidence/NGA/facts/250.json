@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-21-humangle-nin-sim-linkage-insecurity",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The NCC said in August 2024 that every functional SIM was verified with the NIN, after linkage began in 2020.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "NIN-SIM linkage",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The NCC said over 153 million SIMs had been linked to NINs, a 96 per cent compliance rate, in August 2024.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "NIN-SIM linkage",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN-SIM linkage",
+   "country_label": "NIN-SIM linkage",
+   "class": "relying",
+   "platform": "",
+   "owner": "Nigerian Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

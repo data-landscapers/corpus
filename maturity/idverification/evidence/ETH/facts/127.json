@@ -1,0 +1,27 @@
+{
+ "slug": "2024-12-08-addis-fortune-national-id-limited-acceptance-printing-quality",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Addis Fortune reports Document Authentication & Registration Service Kirkos fully transitioned to national IDs for services, particularly fixed property, after forged ID sales.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "Addis Fortune reports the Ministry of Revenues, the Federal Public Procurement & Property Authority, Ethio telecom, Ethiopian Airlines and commercial banks have adopted the national ID.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

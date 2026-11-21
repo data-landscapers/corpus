@@ -27,3 +27,5 @@ TCD,002,use,inservice,classed other,"Housekeeping 73: ARCEP's rule that each SIM
 TCD,003,use,inservice,classed other,"Housekeeping 73: ARCEP's audit of subscribers registered with an NNI counts a number recorded, not a check against the ID system"
 TGO,003,sectors,several,removed,"Housekeeping 73: the deck has the card used in microfinance without describing a check, so a second sector is not shown"
 ZWE,006,use,inservice,revalued: sectors:several,Housekeeping 73: the Electoral Commission verifying voters against the population database beside mobile money's Civil Registry checks (ZWE-001) is a check in a second sector
+SLE,024,use,inservice,removed,"Stage 4c 2026-11-21: the card made mandatory for SIM registration; a check against the register is not stated"
+TZA,026,use,inservice,removed,"Stage 4c 2026-11-21: the ID number opening services is reported from NIDA research; a check against the register is not stated"
