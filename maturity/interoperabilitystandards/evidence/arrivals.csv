@@ -472,7 +472,7 @@ BWA,23,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument
 CAF,19,2025-02-27-carnegie-dpi-practical-approach-africa,2026-11-17,instrument,2026-11-17
 CAF,20,2024-01-01-smart-africa-creating-foundations-africas-digital-future,2026-11-17,instrument,2026-11-17
 CAF,21,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
-CIV,42,2026-09-30-civ-intelligent-health-systems,2026-11-17,,
+CIV,42,2026-09-30-civ-intelligent-health-systems,2026-11-17,nothing,2026-11-21
 CIV,43,2024-01-01-smart-africa-creating-foundations-africas-digital-future,2026-11-17,instrument,2026-11-17
 CIV,44,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 CMR,38,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
@@ -520,7 +520,7 @@ MUS,34,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument
 MWI,30,2020-05-01-mwi-national-digital-health-strategy-2020-2025,2026-11-17,instrument,2026-11-17
 MWI,31,2025-02-27-carnegie-dpi-practical-approach-africa,2026-11-17,instrument,2026-11-17
 MWI,32,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
-NAM,29,2026-02-17-nam-telehealth-expansion-to-target-rural-health-gaps,2026-11-17,,
+NAM,29,2026-02-17-nam-telehealth-expansion-to-target-rural-health-gaps,2026-11-17,nothing,2026-11-21
 NAM,30,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 NAM,31,2025-02-27-carnegie-dpi-practical-approach-africa,2026-11-17,instrument,2026-11-17
 NER,30,2024-01-01-smart-africa-creating-foundations-africas-digital-future,2026-11-17,instrument,2026-11-17
@@ -565,10 +565,10 @@ ZAF,87,2024-01-01-smart-africa-creating-foundations-africas-digital-future,2026-
 ZMB,42,2025-02-27-carnegie-dpi-practical-approach-africa,2026-11-17,instrument,2026-11-17
 ZMB,43,2024-01-01-smart-africa-creating-foundations-africas-digital-future,2026-11-17,instrument,2026-11-17
 ZMB,44,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
-ZWE,34,2026-01-01-zwe-from-paper-to-digital-in-a-resource-limited-setting-a-case-study-of-zi,2026-11-17,,
+ZWE,34,2026-01-01-zwe-from-paper-to-digital-in-a-resource-limited-setting-a-case-study-of-zi,2026-11-17,nothing,2026-11-21
 ZWE,35,2024-01-01-smart-africa-creating-foundations-africas-digital-future,2026-11-17,instrument,2026-11-17
 ZWE,36,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
-MAR,29,2026-11-17-mar-telquel-draft-law-52-26-health-data,2026-11-17,,
+MAR,29,2026-11-17-mar-telquel-draft-law-52-26-health-data,2026-11-17,nothing,2026-11-21
 NGA,55,2026-11-13-nga-nigeria-national-edtech-strategy-2026-2030-fme-final-print,2026-11-17,instrument,2026-11-17
 AGO,40,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 BDI,18,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
@@ -645,7 +645,7 @@ GNB,24,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2
 GNQ,16,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 KEN,57,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 LBR,26,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
-LBY,17,2026-11-18-lby-study-diagnoses-cybersecurity-weaknesses-in-libya-and-six-recommendations,2026-11-20,,
+LBY,17,2026-11-18-lby-study-diagnoses-cybersecurity-weaknesses-in-libya-and-six-recommendations,2026-11-20,fact,2026-11-21
 LBY,18,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 LSO,22,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 MAR,32,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
@@ -730,5 +730,5 @@ TZA,76,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 UGA,66,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 ZAF,90,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 ZMB,47,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
-ZWE,39,2026-11-19-zwe-ict-ministry-gets-zig1-billion-in-2027-budget,2026-11-21,,
+ZWE,39,2026-11-19-zwe-ict-ministry-gets-zig1-billion-in-2027-budget,2026-11-21,nothing,2026-11-21
 ZWE,40,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-lby-study-diagnoses-cybersecurity-weaknesses-in-libya-and-six-recommendations",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Alwasat reports an analyst study saying government data is spread across several bodies without unified standards and recommending a national interoperability framework with binding standards.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "national interoperability standards",
+   "class": "standards"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
