@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: ZWE
-ledger_rows: 44
+ledger_rows: 45
 not_held: 5
-record: bd0d3efffa25
+record: 26bd0be88b35
 ---
 
 # News, Oct – Nov 2026
@@ -513,6 +513,20 @@ Afreximbank said Zimbabwe is processing US$5.8 million a month through the pan-A
 **[ZINARA rolls out multi-currency e-wallet platform](https://www.heraldonline.co.zw/zinara-rolls-out-multi-currency-e-wallet-platform/)** — The Herald (Zimbabwe), 24 October 2026
 
 The road authority launched a self-service e-wallet that takes toll fees, vehicle licensing, radio licences and third-party insurance payments in several currencies. It runs on iOS, Android, web and USSD, and full access requires uploading an identity document.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Intermediated Money Transfer Tax (IMTT)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[2027 Budget: Mthuli Ncube raises tax-free threshold to US$150, cuts phone and electric vehicles duty](https://www.newzimbabwe.com/2027-budget-mthuli-ncube-raises-tax-free-threshold-to-us150-cuts-phone-and-electric-vehicles-duty/)** — NewZimbabwe, 20 November 2026
+
+Zimbabwe's Finance Minister Mthuli Ncube proposed on 19 November 2026 cutting the Intermediated Money Transfer Tax from 1.5% to 1.25% on local-currency transactions and from 2% to 1.75% on foreign-currency ones. The 2027 budget also proposes scrapping the 25% duty on cellphones and raising the tax-free threshold to US$150. These are budget proposals, not yet enacted.
 
 </div>
 
