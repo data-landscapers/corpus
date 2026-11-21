@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: ZAF
 ledger_rows: 123
 not_held: 17
-record: 142805a5cdfe
+record: f653cb524754
 ---
 
 # News, Oct – Nov 2026
@@ -1095,6 +1095,14 @@ South Africa's inter-ministerial committee on migration said on 26 October 2026 
 **[South Africa plans biometric asylum registration, tighter digital border controls](https://www.biometricupdate.com/202610/south-africa-plans-biometric-asylum-registration-tighter-digital-border-controls)** — Biometric Update, 28 October 2026
 
 South Africa's Department of Home Affairs plans an online booking system for asylum seekers by 10 November 2026. It will collect biometric and identity data. The step follows a July Constitutional Court ruling that struck down Refugees Act barriers to asylum procedures. The government is also building electronic border systems and weighing stricter SIM registration for foreign nationals.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government working on legislation to deactivate some phones in SA](https://www.citizen.co.za/news/kubayi-says-legislation-to-deactivate-some-phones-in-sa/)** — The Citizen, 19 November 2026
+
+Operators given to end-November to fix RICA compliance; per-person SIM cap; Operation Shanela enforcement.
 
 </div>
 
