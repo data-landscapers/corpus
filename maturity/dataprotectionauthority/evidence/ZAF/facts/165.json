@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-16-zaf-inforeg-must-not-be-ai-regulator-says-ex-member",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "ITWeb reports the Information Regulator, headed by advocate Pansy Tlakula, was set up with its first members in December 2016 to enforce POPIA.",
+   "as_of": "2016-12",
+   "date_precision": "month",
+   "system": "Information Regulator",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "ITWeb reports the Information Regulator has issued enforcement notices, with First National Bank and a TVET college among the most recent found in breach of POPIA, and earlier notices against the Department of Justice and Correctional Services.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Regulator",
+   "country_label": "South Africa",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

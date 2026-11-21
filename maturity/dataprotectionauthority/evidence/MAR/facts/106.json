@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-mar-cndp-global-privacy-assembly-brussels",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Morocco's National Commission for the Control of Personal Data Protection (CNDP) is acting as the country's data protection body, presenting for the working group it chairs at the 48th Global Privacy Assembly in Brussels.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNDP",
+   "country_label": "Morocco",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

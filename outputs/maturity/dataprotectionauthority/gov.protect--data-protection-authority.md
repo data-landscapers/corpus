@@ -1,6 +1,6 @@
 # Data protection authority: supervisory authority
 
-*As at 2026-11-15.*
+*As at 2026-11-21.*
 
 ## The norm
 
@@ -32,8 +32,9 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 
 ### Kenya: 5 Mature
 
-Kenya's authority, set up in 2020, fines businesses and publishes a regular bulletin counting its decisions, last seen March 2025.
+Kenya's authority, set up in 2020, fines businesses and counts its decisions, most recently in November 2026; no yearly count is known.
 
+- TechTrendsKE reports outgoing Commissioner Kassait as saying the ODPC has handled more than 13,000 complaints, issued 459 determinations and taken 206 enforcement and penalty notice actions over its six years, with about 28,000 controllers and processors registered ([source, 2026-11](https://techtrendske.co.ke/2026/11/15/odpc-compensation-powers/)).
 - The report says Immaculate Kassait, Kenya's first data commissioner, has headed the Office of the Data Protection Commissioner for six years and leaves on 16 November 2026 ([source, 2026-11-13](https://www.kbc.co.ke/kassait-calls-for-reforms-central-data-pool-as-she-exits-data-protection-office/)).
 - Amnesty Kenya says in February 2026 the ODPC ruled against a hospital, an insurance company, a school, a SACCO and digital lenders, ordering St Luke's Orthopaedic Hospital to compensate patients ([source, 2026-02](https://www.amnestykenya.org/kenyas-digital-rights-journey-half-year-scorecard/)).
 - The ODPC bulletin states that as of March 2025 the Office had received 7,128 complaints and resolved 97 percent, issued 215 determinations, imposed penalties on 10 entities, issued 103 compensations and settled 39 other cases through ADR (a cumulative count, no single year stated) ([source, 2025-03](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf)).
@@ -148,6 +149,7 @@ Benin's data protection authority was sitting in 2026, with officers sworn in; a
 
 Burkina Faso has an authority, active in 2026; no ruling against an organisation is known, and no figures it publishes are known.
 
+- Burkina Faso's Council of Ministers on 19 November 2026 named the ten councillors of ARCOD's first college under organic law 038-2026/ALP of 3 August 2026, after its president was appointed by decree on 16 October 2026 (leFaso.net) ([source, 2026-11-19](https://lefaso.net/spip.php?article150924=)).
 - Burkina Faso named Wendingoudi Louis Modeste Ouédraogo, until then president of the Conseil supérieur de la communication, president of the regulator formed by merging the CSC with the Commission de l'informatique et des libertés, by decree of 16 October 2026, per leFaso.net ([source, 2026-10-16](https://lefaso.net/spip.php?article150089)).
 - The CIL (Commission de l'Informatique et des Libertés) publishes a form for applications to authorise a transfer of personal data to a foreign country ([source, 2026-09](https://cil.bf/wp-content/uploads/2026/09/FORMULAIRE_ANNEXE-TRANSFERT-DE-DONNEES-A-LETRANGER-1.pdf)).
 

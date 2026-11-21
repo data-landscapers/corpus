@@ -37,3 +37,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,BEN,gov.protect--data-protection-authority,ladder,5,3,BEN-020;BEN-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-09,MUS,gov.protect--data-protection-authority,ladder,5,3,MUS-008;MUS-009,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-15,KEN,gov.protect--data-protection-authority,fact,5,5,KEN-035;KEN-031;KEN-007,Kassait's exit on 16 November 2026 and enforcement on the Ministry of Agriculture and Migori County Assembly arrived; the office stays appointed and the March 2025 bulletin holds stage 5; an outside count of 2024 determinations revalued to ruled
+2026-11-21,KEN,gov.protect--data-protection-authority,fact,5,5,KEN-038;KEN-035;KEN-031;KEN-007,"Outgoing commissioner's six-year count to Nov 2026 (13,000 complaints, 459 determinations) renews the published count; stays 5"
+2026-11-21,BFA,gov.protect--data-protection-authority,fact,3,3,BFA-022;BFA-017;BFA-016,"ARCOD's ten councillors named 19 Nov 2026; members now appointed, no ruling held; stays 3"

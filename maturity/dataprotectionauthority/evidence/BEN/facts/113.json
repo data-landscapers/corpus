@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-08-cybersecuritymag-rnpp-benin-securite-donnees-personnelles",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Cybersecurity Mag Africa reports that the Autorite de Protection des Donnees Personnelles (APDP) is working with ANIP to train the agents who manage the national persons register.",
+   "as_of": "2025-01-08",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": "Training is not a ruling."
+}

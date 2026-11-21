@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-15-ken-techtrendske-high-court-odpc-compensation-powers-andayi",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "TechTrendsKE reports that Kenya's Office of the Data Protection Commissioner is operating under Commissioner Immaculate Kassait, who is leaving after six years, with President Ruto's nominee Lydia Sitienei Chelagat submitted to the National Assembly on 9 November 2026.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner (ODPC)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "TechTrendsKE reports that in April 2026 the ODPC ordered St. Luke Orthopaedic and Trauma Hospital in Eldoret to pay Merceline Akoth Odeyo KSh525,000 over the handling and disclosure of her medical information.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Office of the Data Protection Commissioner (ODPC)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "reported",
+   "fact": "TechTrendsKE reports outgoing Commissioner Kassait as saying the ODPC has handled more than 13,000 complaints, issued 459 determinations and taken 206 enforcement and penalty notice actions over its six years, with about 28,000 controllers and processors registered.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Office of the Data Protection Commissioner (ODPC)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Office of the Data Protection Commissioner (ODPC)",
+   "country_label": "Kenya",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

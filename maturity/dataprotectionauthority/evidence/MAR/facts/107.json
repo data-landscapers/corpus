@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-mar-cndp-gpa-privacy-enhancing-technologies-resolution-adopted",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Morocco's data protection authority, the CNDP, chaired by Omar Seghrouchni, had a resolution on privacy-enhancing technologies adopted at the Global Privacy Assembly in Brussels on 17 November 2026, showing the body in operation.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNDP",
+   "country_label": "Commission nationale de controle de la protection des donnees a caractere personnel",
+   "class": "authority",
+   "platform": "",
+   "owner": "Government of Morocco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

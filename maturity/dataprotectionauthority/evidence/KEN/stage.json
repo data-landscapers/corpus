@@ -8,10 +8,10 @@
       "rulings": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-035;KEN-031;KEN-007",
-      "gaps": "No edition of the ODPC bulletin after March 2025 is held; without one the cell returns to 4. Outside counts (over 110 decisions in 2025, 51 determinations in 2024) are not the authority's own figures. Kassait leaves on 16 November 2026; her nominated successor's appointment is not yet held.",
-      "note": "Reassessed on Kassait's exit: the office stays appointed, a successor nominated on 10 November 2026, and the March 2025 bulletin (KEN-007) still counts its decisions inside two years, so stage 5. If no later edition is found, the cell returns to 4.",
-      "as_at": "2026-11-15"
+      "stage_sources": "KEN-038;KEN-035;KEN-031;KEN-007",
+      "gaps": "No edition of the ODPC bulletin after March 2025 is held; the counts the outgoing commissioner gave in November 2026 are six-year running totals, not yearly figures. Her successor's appointment is not yet held.",
+      "note": "The outgoing commissioner's six-year count to November 2026 (KEN-038: 13,000 complaints, 459 determinations) renews the March 2025 bulletin's count (KEN-007) inside two years, so stage 5. The office stays appointed, a successor nominated on 10 November 2026.",
+      "as_at": "2026-11-21"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-22-nimc-denies-data-breach-allegations-to-prosecute-harvesters",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Punch reports the Nigeria Data Protection Commission heightened scrutiny of NIMC licensees after the expressverify site breached data protection protocols, showing the body acting.",
+   "as_of": "2024-06-22",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

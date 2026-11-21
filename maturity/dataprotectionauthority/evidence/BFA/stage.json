@@ -8,10 +8,10 @@
       "rulings": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-017;BFA-016",
-      "gaps": "No ruling of the authority against a named organisation in the last three years has been found. A decree of 16 October 2026 named the president of the regulator formed by merging the commission with the communication council; whether its other members are appointed is not known.",
-      "note": "Stage 3: the commission was appointed and at work in 2026, and the merged regulator's president was named by decree on 16 October 2026. No ruling against a named organisation is held, so stage 4 is not met.",
-      "as_at": "2026-10-29"
+      "stage_sources": "BFA-022;BFA-017;BFA-016",
+      "gaps": "No ruling of the authority against a named organisation in the last three years has been found.",
+      "note": "Stage 3: ARCOD, the regulator merging the commission with the communication council, had its president named on 16 October 2026 and its ten councillors on 19 November 2026. No ruling against a named organisation is held, so stage 4 is not met.",
+      "as_at": "2026-11-21"
     }
   ]
 }

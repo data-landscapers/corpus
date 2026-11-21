@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-zaf-itweb-inforeg-cyber-defences-ai-governance",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "ITWeb, interviewing its CIO, describes the Information Regulator as the body overseeing compliance with POPIA and PAIA and at work.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": "Fines mentioned are not tied to a named organisation; notifications received are not decisions settled."
+}

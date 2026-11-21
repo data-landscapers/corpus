@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-africa-is-arguing-with-itself",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "CIO Africa says Kenya's Office of the Data Protection Commissioner published a Guidance Note on Cross-border Data Transfers in April 2026 and administers the Act.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

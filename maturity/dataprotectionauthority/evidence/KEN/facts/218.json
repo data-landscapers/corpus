@@ -1,0 +1,37 @@
+{
+ "slug": "2026-11-17-ken-inside-the-regulatory-decision-that-spared-brs-a-financial-penalty-after-its-massive-data-breach",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The ODPC is headed by Data Commissioner Immaculate Kassait, who has served six years, and President Ruto nominated Lydia Sitienei Chelagat to succeed her on 10 November 2026.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner (ODPC)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The ODPC investigated the Business Registration Service breach on its own initiative, issued BRS an enforcement notice to strengthen its systems and closed the matter without a penalty notice once BRS complied, per the outgoing Commissioner.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner (ODPC)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The ODPC ordered St Luke Orthopaedic & Trauma Hospital in Eldoret to pay a patient KSh525,000 for mishandling and disclosing medical information.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Office of the Data Protection Commissioner (ODPC)",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
