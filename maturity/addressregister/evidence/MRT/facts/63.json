@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-mrt-wearetech-ecommerce-strategy-targets-2030",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "none",
+   "fact": "The article says Mauritania lacks a generalised postal addressing system, which complicates deliveries.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "postal addressing",
+   "class": "address"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -2,7 +2,7 @@
 
 ## Address register
 
-**Addresses in service.** [On 29 September 2026 the Ministry of Digital Transformation and Administrative Modernization presented a national digital addressing system](<https://www.ecofinagency.com/news-digital/0110-59390-mauritania-plans-end-2026-pilot-of-digital-addressing-system-to-support-e-commerce>). [Ecofin Agency reports that a pilot is expected by the end of 2026](<https://www.ecofinagency.com/news-digital/0110-59390-mauritania-plans-end-2026-pilot-of-digital-addressing-system-to-support-e-commerce>).
+**Addresses in service.** [On 29 September 2026 the Ministry of Digital Transformation and Administrative Modernization presented a national digital addressing system](<https://www.ecofinagency.com/news-digital/0110-59390-mauritania-plans-end-2026-pilot-of-digital-addressing-system-to-support-e-commerce>). [Ecofin Agency reports that a pilot is expected by the end of 2026](<https://www.ecofinagency.com/news-digital/0110-59390-mauritania-plans-end-2026-pilot-of-digital-addressing-system-to-support-e-commerce>). [In November 2026 the country still had no general postal addressing system, which makes deliveries harder](<https://www.wearetech.africa/fr/fils/actualites/tech/mauritanie-de-6-5-a-20-d-acheteurs-en-ligne-le-pari-d-un-nouveau-marche-numerique>).
 
 **Nationwide.** No source found since October 2023 says the addressing system covers the whole country. The nearest fact found: [the World Bank's WARDIP programme finances the system](<https://www.ecofinagency.com/news-digital/0110-59390-mauritania-plans-end-2026-pilot-of-digital-addressing-system-to-support-e-commerce>).
 
