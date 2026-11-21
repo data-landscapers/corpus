@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-mus-cassava-mauritius-telecom-mou-ai-services",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Mauritius Telecom says its myt Learn AI tutor platform is rolling out in Mauritian schools for selected grades, with an AI tutor for students and AI tools for teachers.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "myt Learn",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "myt Learn",
+   "country_label": "myt Learn",
+   "class": "sectorai",
+   "platform": "myt Learn",
+   "owner": "Mauritius Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

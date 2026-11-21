@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-03-stp-milestone-for-digital-health-in-sao-tome-and-principe",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "An ECSA Health Community post says Sao Tome and Principe is being supported to pilot, deploy and adopt an AI-powered digital health screening tool at Points of Entry.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "AI-powered digital screening tool at Points of Entry",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-14-dza-des-le-15-novembre-annaba-passe-au-dossier-medical-electronique",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The electronic medical record platform being brought into service at the El Bouni public primary-care facility in Annaba, planned for 15 November 2026, includes AI functions to assist clinicians in analysing data, per Algerie Confluences.",
+   "as_of": "2026-11-14",
+   "date_precision": "day",
+   "system": "dossier medical electronique (DME), EPSP El Bouni",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "dossier medical electronique (DME)",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

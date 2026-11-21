@@ -9,10 +9,10 @@
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-001",
-      "gaps": "No single source found says AI is in service in two or more sectors; the tax administration and BNETD facts are separate sources. No measured results are reported.",
-      "note": "Review 2026-10-21: the tax administration's AI taxpayer segmentation is AI in service; rung 4 asks for a source saying AI is in service in two or more sectors, and no one source found says so.",
-      "as_at": "2026-10-21"
+      "stage_sources": "CIV-001;CIV-008",
+      "gaps": "No source found plainly says AI tools are in service in two or more sectors: the Expertise France page names customs and tax authorities together for an internal reporting use; no measured results are reported.",
+      "note": "Stage 4c 2026-11-21: Expertise France says the customs and tax authorities use large language models for monthly performance reporting (CIV-008), beside the tax administration's taxpayer segmentation (CIV-001). The page names the two authorities jointly for one internal reporting use, which does not plainly put AI in service in two sectors, so 3 holds.",
+      "as_at": "2026-11-21"
     }
   ]
 }

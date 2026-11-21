@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-dji-lanation-dpcs-world-bank-port-digitalisation-course",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "La Nation, relaying a World Bank course case study, says DPCS Foresight uses AI and historical logistics data to develop forecasting and decision-support capacity for port and logistics actors, presented as an evolution of DPCS and not as a service in use.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "DPCS Foresight",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DPCS Foresight",
+   "country_label": "DPCS Foresight",
+   "class": "sectorai",
+   "platform": "Djibouti Port Community Systems",
+   "owner": "Autorite des Ports et des Zones Franches de Djibouti (DPFZA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

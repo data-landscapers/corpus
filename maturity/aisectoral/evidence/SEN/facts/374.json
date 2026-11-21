@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-xaf-gpsdd-statcom-10-nso-leadership",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Senegal's ANSD trained machine-learning models on household survey data and applied them to the 2023 census to help update the registry of poor households, with results suggesting about 260,000 of 300,000 grants would reach poor households if allocated this way.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "ANSD machine-learning targeting models",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

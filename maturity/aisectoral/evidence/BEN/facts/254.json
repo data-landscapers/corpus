@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-17-xaf-expertise-france-data-governance-in-africa-initiative",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Customs data infrastructure (Direction Générale des Douanes)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction Générale des Douanes",
+   "tiers": ""
+  }
+ ],
+ "note": "The customs dashboards and mirror trade analyses are not stated to use AI."
+}

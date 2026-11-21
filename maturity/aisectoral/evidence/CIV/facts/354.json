@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-17-xaf-expertise-france-data-governance-in-africa-initiative",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Expertise France's project page says Côte d'Ivoire's customs and tax authorities use large language models to automate monthly performance reporting.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "LLM monthly performance reporting",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Expertise France's project page says Côte d'Ivoire's customs and tax authorities are prototyping automated PDF data extraction and web-scraping for taxpayer risk analysis and to identify undervalued cargo.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Customs and tax risk analysis prototypes",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

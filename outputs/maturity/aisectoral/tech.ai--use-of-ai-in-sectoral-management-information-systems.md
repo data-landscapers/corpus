@@ -23,10 +23,10 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 | 5 Mature | 3 |
 | 4 Operating | 0 |
 | 3 Established | 38 |
-| 2 Nascent | 5 |
+| 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 8 |
+| No evidence | 7 |
 
 ## Countries
 
@@ -114,6 +114,7 @@ An AI X-ray tool has screened for TB at Batangafo hospital, Central African Repu
 Côte d'Ivoire's tax administration uses AI to segment taxpayers; no source says AI is in service in several sectors.
 
 - Finance minister Adama Coulibaly said the tax administration has acquired drones to scan buildings and check taxpayers' declarations, and that AI segments taxpayers by category, presented as AI uses against tax fraud ([source, 2025-05-16](https://finances.gouv.ci/actualites/65-contenu-dynamique/actualite/1126-lancement-du-rapport-sur-le-developpement-humain-rdh-2025-panel-ministeriel-de-haut-niveau-le-ministre-adama-coulibaly-releve-l-importance-de-l-intelligence-artificielle-pour-le-budget-national)).
+- Expertise France's project page says Côte d'Ivoire's customs and tax authorities use large language models to automate monthly performance reporting ([source, 2026-11-17](https://www.expertisefrance.fr/en/projects/data-governance-africa-supporting-development-oriented-and-human-centric-data-regulation)).
 
 ### DR Congo: 3 Established
 
@@ -337,6 +338,12 @@ An AI tool for a public sector's system was under way in 2024; none in service i
 
 - HISP UiO says that in early 2024 Mozambique had two climate-based malaria forecasting efforts, a Ministry of Health and CHAI early-warning dashboard pilot in DHIS2 and the national public health institute's models run manually, neither yet in routine use ([source, 2024](https://dhis2.org/pt-pt/chap-lessons-learned/)).
 
+### Sao Tome and Principe: 2 Nascent
+
+An AI health screening tool for border points of entry was being piloted in 2026; whether it is in service is not known.
+
+- An ECSA Health Community post says Sao Tome and Principe is being supported to pilot, deploy and adopt an AI-powered digital health screening tool at Points of Entry ([source, 2026-06-03](https://www.linkedin.com/posts/ayebare-timothy-836506230_digitalhealth-s%C3%A3otom%C3%A9epr%C3%ADncipe-publichealth-activity-7468039223397326848-ZxbG)).
+
 ### Chad: No evidence
 
 Nothing found names AI in a sector's public system or says there is none, so no stage is set.
@@ -368,12 +375,6 @@ Nothing found names AI in a sector's public system or says there is none, so no 
 Not established: Nothing found says whether a public sector's system uses AI.
 
 ### Mali: No evidence
-
-Nothing found names AI in a sector's public system or says there is none, so no stage is set.
-
-Not established: Nothing found says whether a public sector's system uses AI.
-
-### Sao Tome and Principe: No evidence
 
 Nothing found names AI in a sector's public system or says there is none, so no stage is set.
 

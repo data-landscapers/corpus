@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-egy-youm7-public-prosecution-ai-limits-justice",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "At the opening of its AI data centre, Egypt's Public Prosecution said AI tools will analyse and summarise case files, compare statements and suggest procedures, with decisions staying with prosecutors, per the Prosecutor-General and Youm7.",
+   "as_of": "2026-11-14",
+   "date_precision": "day",
+   "system": "Public Prosecution AI tools for case files",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Public Prosecution AI data centre and case-file tools",
+   "country_label": "Egypt",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Public Prosecution",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

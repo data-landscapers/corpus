@@ -11,6 +11,7 @@ BEN,Integrated Action for Malaria Prevention project,Benin,sectorai,"AI, drones 
 BEN,GAINAfrica clinical decision-support system,Benin,sectorai,,GAINAfrica project,,2026-08-25-aimnews-gainafrica-generative-ai-pilot
 BEN,Webb Customs,Benin,other,Webb Fontaine,Benin Customs,,2025-06-30-ben-webb-customs-the-new-digital-weapon-against-customs-fraud-in-benin
 BEN,Webb Customs,Benin,other,,"Benin customs, supplied by Webb Fontaine",,2025-02-14-ben-webb-fontaine-accelerates-benin-s-customs-transformation-with-key-mile
+BEN,Customs data infrastructure (Direction Générale des Douanes),Benin,other,,Direction Générale des Douanes,,2026-11-17-xaf-expertise-france-data-governance-in-africa-initiative
 BFA,ANAM AI forecasting convention,Burkina Faso,sectorai,,Agence Nationale de la Meteorologie (ANAM),pilot,2025-10-14-bfa-burkina-faso-le-gouvernement-integre-l-intelligence-artificielle-au-se
 BFA,CAD4TB,Burkina Faso,sectorai,mobile digital X-ray,National Tuberculosis Program,,2026-02-01-bfa-advancing-tb-screening-in-burkina-faso-with-portable-x-ray-and-cad4tb
 BFA,KIX-ALERTE,Burkina Faso,sectorai,seeds.bf,ISSP / Universite Joseph KI-ZERBO,,2026-05-02-bfa-actualites-kix-seeds-burkina-faso
@@ -47,6 +48,7 @@ DJI,MAZU-Djibouti 2.0,Djibouti,sectorai,AI weather forecasting and alerts,Agence
 DJI,Djibouti Ports Community System,Djibouti,other,,,,2026-08-26-dji-intelligence-artificielle-ou-en-est-reellement-djibouti
 DJI,DPCS Foresight,Djibouti,other,predictive business intelligence,DPFZA,,2026-09-02-dji-djibouti-unveils-ai-tools-to-modernize-ports-and-logistics
 DJI,CorridorVision AI,Djibouti,sectorai,YOLOv8 model on RapidCanvas,Djibouti Ports Corridor Road SA,,2026-01-15-dji-corridorvision-ai-ai-powered-road-condition-monitoring-for-djibouti-s
+DJI,DPCS Foresight,DPCS Foresight,sectorai,Djibouti Port Community Systems,Autorite des Ports et des Zones Franches de Djibouti (DPFZA),,2026-11-16-dji-lanation-dpcs-world-bank-port-digitalisation-course
 DZA,AI assistant for the personal study path,Algeria,sectorai,,Ministry of Higher Education and Scientific Research,,2026-07-25-echorouk-parcours-pedagogique-ia-universite
 DZA,language model specialised in Algerian tax legislation,Algeria,sectorai,,Directorate General of Taxes with the Ministry of Higher Education,,2026-10-20-dza-m-kamel-baddari-preside-la-cinquieme-reunion-multisectorielle-consacree-au-suivi
 DZA,AI-boosted automated data analysis and cross-checking system on the ministry's digital platform,Algeria,sectorai,ministry digital platform,Ministry of Foreign Trade and Export Promotion,,2026-09-03-dza-importations-suspectes-en-algerie-l-ia-demasque-des-documents-identiqu
@@ -54,6 +56,7 @@ DZA,MESRS baccalaureate orientation platform,Algeria,sectorai,,Ministry of Highe
 DZA,Chatbot specialise dans la legislation fiscale algerienne,Algeria,sectorai,,Ministry of Higher Education and Scientific Research,,2026-09-21-dza-troisieme-reunion-multisectorielle-de-suivi-de-la-strategie-nationale
 DZA,ALCES,Algerian Customs,sectorai,,Direction Generale des Douanes,,2025-02-06-dza-mf-modernisation-douanes-alces
 DZA,Language model for Algerian tax legislation,Algeria,other,,Ministry of Higher Education and Scientific Research,,2026-11-03-dza-mesrs-sixieme-reunion-multisectorielle-strategie-nationale-ia
+DZA,dossier medical electronique (DME),Algeria,other,,,,2026-11-14-dza-des-le-15-novembre-annaba-passe-au-dossier-medical-electronique
 EGY,NARSS winter crop map,Egypt,sectorai,remote sensing and AI,NARSS with Ministry of Agriculture and Land Reclamation,,2024-11-05-egy-narss-agriculture-ministry-launch-map-of-winter-crops
 EGY,Satellite crop type mapping pilot,Egypt,sectorai,machine learning,Ministry of Irrigation and Water Resources,pilot,2024-06-11-egy-egypt-introduces-new-satellite-image-analysis-application-to-enhance-i
 EGY,AI tax assistant platform,Egypt,sectorai,,Egyptian Tax Authority,,2026-07-02-egy-eta-ai-strategy-tax-administration-almasryalyoum
@@ -64,6 +67,7 @@ EGY,Irrigation ministry AI and drone digital services,Egypt,sectorai,,Ministry o
 EGY,Diabetic retinopathy detection system,Egypt,sectorai,,Applied Innovation Center,,2026-11-10-egy-cairo-ict-digital-records-medical-ai-panel
 EGY,Early breast cancer detection model,Egypt,sectorai,,Applied Innovation Center with Baheya Foundation,,2026-11-10-egy-cairo-ict-digital-records-medical-ai-panel
 EGY,Nephro Egypt,Egypt,other,,Ministry of Health and Population,,2026-11-10-egy-health-minister-cairo-ict-health-data-law
+EGY,Public Prosecution AI data centre and case-file tools,Egypt,sectorai,,Public Prosecution,,2026-11-18-egy-youm7-public-prosecution-ai-limits-justice
 ERI,CAD4TB,CAD4TB,sectorai,offline software,Thirona and Delft Imaging,,2020-03-06-eri-delft-cad4tb-moh-tb-screening
 ERI,CAD4TB,Eritrea,sectorai,Delft Light,Ministry of Health,,2026-01-01-eri-delft-imaging-impact-eritrea-cad4tb
 ETH,national monitoring and evaluation platform,Ethiopia,sectorai,"unified digital platform ('One Plan, One Report')",Ministry of Planning and Development,national,2026-05-18-ethiopia-data-sovereignty-ai-monitoring-platform
@@ -144,6 +148,8 @@ MUS,Rodrigues AI learning tool,Rodrigues AI learning tool,sectorai,,Mauritius Te
 MUS,Mauritius AI Registry,Mauritius AI Registry,other,open source,Mauritius Telecom,,2026-06-24-mus-mauritius-telecom-ai-learning-lead-to-national-ai-registry
 MUS,KOREK super app,Mauritius,other,,MITCI,,2026-08-17-mus-online-motor-vehicle-licence-system-launched-for-taxi-operators
 MUS,Tibok,Mauritius,other,AI-powered telemedicine platform,Tibok (start-up in Turbine incubation),,2026-03-04-mus-turbine-welcomes-10-start-ups-into-incubation-and-strengthens-its-comm
+MUS,myt Learn,myt Learn,sectorai,myt Learn,Mauritius Telecom,,2026-11-18-cassava-mauritius-telecom-ai-mou-techafricanews
+MUS,myt Learn,myt Learn,sectorai,myt Learn,Mauritius Telecom,,2026-11-18-mus-cassava-mauritius-telecom-mou-ai-services
 MWI,Smart City Surveillance Initiative,Malawi,other,"AI-powered surveillance cameras, number plate recognition, central command centre",MACRA,city,2026-09-28-mwi-itwebafrica-macra-ai-crime-cameras-blantyre
 MWI,Smart City Surveillance Initiative,Malawi,other,AI-powered smart cameras,MACRA,city,2026-09-28-mwi-macra-blantyre-smart-city-surveillance
 MWI,Bris AI weather prediction model (forecast-in-a-box),Malawi,sectorai,forecast-in-a-box at DCCMS,"MET Norway with DCCMS, implemented via WMO",,2025-07-01-mwi-crews-ai-ew4all-pilot-note
@@ -165,6 +171,7 @@ NGA,CAC AI-enabled registration platform,Nigeria,other,,Corporate Affairs Commis
 NGA,IT2 tokenised biometric identity platform (Trust Stamp/BLIP),Nigeria,other,Trust Stamp IT2,BLIP Limited (deployer),,2026-10-27-trust-stamp-targets-nigerian-biometric-id-programs-with-3-year-blip-de
 NGA,"AFRIDATA Nigeria data centres (Lagos, Delta)",Nigeria,other,,AFRIDATA,Lagos designed to Tier IV,2026-10-28-nga-afridata-agency-sign-1-87m-grant-for-nigerian-data-centre-study
 NGA,HeliumMum,Nigeria,other,AI-powered maternal health tool,Helium Health,,2026-11-04-nga-google-org-backs-helium-health-with-2-5-million-grant-to-scale-ai-powered-matern
+NGA,V-Pass,Nigeria,other,,FAAN,,2026-11-17-nga-nigeria-sets-december-31-deadline-for-airlines-to-adopt-v-pa
 RWA,Horizon1000,Rwanda,sectorai,,Gates Foundation and OpenAI,primary healthcare clinics,2026-01-22 Gates Foundation and OpenAI Commit $50m to AI-Powered Health Systems in Africa
 RWA,Kubaka.gov.rw,Rwanda,other,national building permits platform,MININFRA and Rwanda Housing Authority,,2025-11-05-rwa-yesterday-our-team-at-the-rwanda-ministry-of-infrastructure-mininfra-a
 RWA,Chidi,Rwanda,sectorai,Anthropic Claude model,ALX,pilot with educators and higher learning institutions,2025-11-18-rwa-alx-anthropic-and-the-government-of-rwanda-launch-landmark-ai-learning
@@ -180,6 +187,7 @@ SEN,WhatsApp teacher support assistant (MOHEBS),Senegal,sectorai,WhatsApp,Minist
 SEN,national DHIS2 platform,Senegal,sectorai,DHIS2,Ministry of Health and Public Hygiene,,2026-05-01-sen-projet-de-declaration-dsiss-ams79-point-12-10
 SEN,Plateforme 3S One Health,Senegal,sectorai,AI-based surveillance platform,AI4PEP Senegal,,2025-02-25-sen-ai4pep-senegal-launches-plateforme-3s-one-health
 SEN,Kera Health platform,Senegal,other,AI health data platform,Kera Health (private),,2025-06-18-sen-senegal-la-startup-e-sante-kera-health-leve-10-millions-de-dollars-aup
+SEN,Tax authority marketplace cross-referencing APIs (Direction Générale des Impôts et des Domaines),Senegal,other,,Direction Générale des Impôts et des Domaines,,2026-11-17-xaf-expertise-france-data-governance-in-africa-initiative
 SLE,Medicine allocation decision-support system,Sierra Leone medicine allocation tool,sectorai,,Government of Sierra Leone,,2026-06-22-sle-penn-today-healthcare-logistics-ai
 SLE,BabyChecker,Sierra Leone,sectorai,smartphone AI ultrasound,Delft Imaging,,2026-02-16-sle-how-ai-ultrasound-babychecker-is-strengthening-pregnancy-monitoring-in
 SOM,SAADAAL,Somalia,sectorai,AI-powered early warning system,"Shaqodoon Organization, deployed with the Ministry of Humanitarian Affairs and Disaster Management of Southwest State",sub-national,2026-04-29-somalia-shaqodoon-saadaal-ai-early-warning

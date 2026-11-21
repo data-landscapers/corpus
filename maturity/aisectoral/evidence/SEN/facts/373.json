@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-17-xaf-expertise-france-data-governance-in-africa-initiative",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Tax authority marketplace cross-referencing APIs (Direction Générale des Impôts et des Domaines)",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction Générale des Impôts et des Domaines",
+   "tiers": ""
+  }
+ ],
+ "note": "The tax authority's automated APIs are not stated to use AI."
+}
