@@ -1,6 +1,7 @@
 iso3,source_slug,read,merged_on
 AGO,2015-05-08-lei-6-15-simplificacao-do-registo-de-nascimento-e-do-registo-civil,,2026-10-19
 AGO,2018-02-14-decreto-presidencial-46-18-pnagia-interoperabilidade-administracao-do-estado,,2026-10-19
+AGO,2025-12-22-ago-falta-de-uniformizacao-do-sistema-informatico-de-saude-dificulta-atend,,2026-11-21
 AGO,2026-02-09-tdr-implementacao-da-interoperabilidade-da-administracao-publica,,2026-10-19
 AGO,2026-02-11-ima-tdr-formacao-e-treinamento-da-plataforma-de-interoperabilidade,,2026-10-19
 AGO,2026-03-05-governo-aposta-reorganizacao-administracao-publica-governo-digital-2027,,2026-10-19
@@ -192,6 +193,7 @@ LBY,2026-04-23-gia-zakat-fund-data-governance-national-guide,,2026-10-19
 LBY,2026-06-30-lby-cjos-nawa-interoperability-platform,,2026-10-19
 LBY,2026-07-09-gia-ly-ndex-ly-dnid-aml-information-exchange-workshop,,2026-10-19
 LBY,2026-07-18-libya-unified-economic-number,,2026-10-19
+LBY,2026-11-18-lby-study-diagnoses-cybersecurity-weaknesses-in-libya-and-six-recommendations,,2026-11-21
 LSO,2012-02-22-lesotho-data-protection-act-2012,,2026-10-19
 LSO,2025-02-19-lesotho-budget-speech-2025-26,,2026-10-19
 LSO,2026-03-06-lso-qualisys-glea-egif-development,,2026-10-19
@@ -213,6 +215,7 @@ MAR,2026-01-26-mar-la-ministre-de-la-transition-numerique-devoile-au-parlement-l
 MAR,2026-06-11-mar-al3omk-mtnra-ia-idarati-400-procedures,,2026-10-21
 MAR,2026-06-16-mar-lebrief-bill-national-ai-agency-deepfakes,,2026-10-19
 MAR,2026-06-30-mar-une-administration-publique-prete-pour-l-avenir-requiert-une-gouvernan,,2026-11-10
+MAR,2026-08-24-mar-reforme-du-systeme-statistique-ce-qui-change-au-maroc,,2026-11-21
 MAR,2026-09-10-mar-euromedai-ai-2026-elections-legal-framework-task-force,,2026-10-21
 MAR,2026-09-25-hespress-publicite-meta-applique-tva-maroc-octobre,,2026-11-01
 MAR,2026-10-05-mar-bo-7549-arrete-218-26-donnees-passagers,,2026-10-19
@@ -220,6 +223,8 @@ MAR,2026-10-12-mar-medias24-el-moudni-droits-humains-espace-numerique,,2026-10-1
 MAR,2026-10-15-mar-medias24-arrete-218-26-donnees-passagers-dgsn,,2026-10-19
 MAR,2026-11-04-xaf-why-africas-digital-progress-must-be-grounded-in-human-rights-accountability,,2026-11-10
 MAR,2026-11-06-dpi-map-2026-11-12,,2026-11-13
+MAR,2026-11-16-hespress-ar-ai-ministry-sovereign-platform,,2026-11-21
+MAR,2026-11-16-mar-mmsp-rahhou-oral-questions-ai-data-exchange,,2026-11-21
 MDG,2025-04-14-mdg-moov-atelier-consultation-signature-electronique,,2026-10-19
 MDG,2025-09-13-signature-electronique-interoperabilite-cadre-juridique-newsmada,,2026-10-19
 MDG,2026-02-17-mdg-prea-e-gp-impulsion-banque-mondiale,,2026-10-19
@@ -262,6 +267,7 @@ MUS,2026-10-08-mus-mitci-meta-online-abuse,,2026-10-19
 MUS,2026-10-29-mus-lexpress-pq-reseaux-sociaux-nouveau-cadre-contre-les-abus,,2026-11-01
 MUS,2026-11-06-dpi-map-2026-11-12,,2026-11-13
 MUS,2026-11-07-mus-pas-de-censure-des-reseaux-sociaux-jure-l-etat-qui-revoit-la-loi,,2026-11-10
+MWI,2026-05-20-mwi-malawi-launches-data-sharing-app-for-social-registry,,2026-11-21
 MWI,2026-06-11-government-data-sharing-regulation-boma-lathu-itweb,,2026-10-19
 NAM,2023-01-01 Digital Trade Regulatory Integration - Namibia Country Profile,,2026-10-19
 NAM,2025-09-17-ai-abuse-overshadows-namibia-e-signature-drive-itweb,,2026-10-19
@@ -342,6 +348,8 @@ SLE,2026-09-05-sierra-leone-moctii-un-data-governance-framework,,2026-10-19
 SLE,2026-09-11-sle-sierraloaded-childrens-vaccination-data-security-review,,2026-10-19
 SLE,2026-11-04-sle-sierra-leone-s-data-protection-bill-reaches-parliament-after-chrdi-led-advocacy,,2026-11-10
 SLE,2026-11-06-sle-information-minister-tables-two-major-bills-in-parliament,,2026-11-10
+SLE,2026-11-12-parliament-commits-data-protection-bill-to-legislative-committee-by-ja,,2026-11-21
+SLE,2026-11-13-sle-parliament-refers-data-protection-bill,,2026-11-21
 SOM,2024-09-29-som-govstack-digital-leaders-spotlight-somalia,,2026-10-19
 SOM,"2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026",,2026-10-19
 SOM,2026-01-29 Mogadishu to Host First National Digital Public Infrastructure Summit; Key Agencies to Map Out Digital Transformation Strategy,,2026-10-19
@@ -364,6 +372,8 @@ TCD,2026-03-16-ecofin-ansice-cybersecurity-agency-reform,,2026-10-19
 TCD,2026-04-29-techafricanews-comite-cadre-juridique-numerique,,2026-10-19
 TGO,2024-09-30-togo-jo-arrete-007-acces-partage-donnees-rspm,,2026-10-19
 TGO,2025-09-30-togo-decret-2025-018-bis-guford-guichet-unique-jo,,2026-10-19
+TGO,2026-10-28-tgo-arrete-011-pcs-guce-guford-port-lome,,2026-11-21
+TGO,2026-11-19-tgo-port-de-lom-un-nouveau-guichet-num-rique-va-remplacer-les-plateformes-,,2026-11-21
 TUN,2020-10-05-tunisie-decret-gouvernemental-2020-777-interoperabilite,,2026-10-19
 TUN,2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases,,2026-10-19
 TUN,2026-06-01-tunisie-plan-developpement-2026-2030,,2026-10-19
@@ -371,6 +381,7 @@ TUN,2026-07-23-tunisie-loi-2026-16-approbation-plan-de-developpement-2026-2030,,
 TUN,2026-08-28-tunisie-circulaire-pm-04-2026-gouvernance-entreprises-publiques,,2026-10-19
 TUN,2026-09-03-syc-africacdc-hie-interoperability-framework-consultants,,2026-10-19
 TUN,2026-10-14-tun-alchourouk-interoperability-platform-presidency,,2026-10-19
+TUN,2026-11-16-mtc-mobile-id-faq,,2026-11-21
 TZA,2019-09-19-e-government-act-cap273,,2026-10-19
 TZA,2023-12-22-tza-mifumo-ya-tehama-ya-taasisi-za-umma-kubadilishana-taarifa-kidijitali,,2026-10-29
 TZA,2024-09-30-tza-ega-elimu-serikali-mtandao-kwa-viziwi,,2026-10-19
@@ -416,3 +427,5 @@ ZWE,2025-08-01-global-fund-zimbabwe-digital-health-case-study,,2026-10-19
 ZWE,2026-05-07-zwe-minister-mavetera-issues-five-landmark-directives-at-inaugural-ict-dir,,2026-10-29
 ZWE,2026-05-11-zwe-government-orders-ministries-to-integrate-ict-systems,,2026-10-29
 ZWE,2026-06-15-zimbabwe-core-fhir-implementation-guide,,2026-10-19
+ZWE,2026-11-13-zwe-undp-hie-architecture-core-platform-rfp,,2026-11-21
+ZWE,2026-11-13-zwe-undp-shared-health-record-registries-hie-rfp,,2026-11-21
