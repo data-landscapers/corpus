@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-dji-ecofin-qatar-data-centres-partnership",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Agence Ecofin says Djibouti hosts eight operational submarine cables, and that Djibouti Telecom dominates wholesale capacity with limited access to the cable landing stations.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Eight submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

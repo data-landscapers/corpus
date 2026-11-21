@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-sle-libertyonlinetv-waiis-2026-outcomes",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Liberty Online TV reports the Government unveiled plans for a second submarine cable, estimated at US$40 million, as an alternative route after a cable cut in March 2024.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "second submarine cable",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "second submarine cable",
+   "country_label": "second submarine cable",
+   "class": "other",
+   "platform": "",
+   "owner": "National Cable Consortium",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

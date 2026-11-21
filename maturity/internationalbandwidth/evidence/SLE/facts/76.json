@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-sle-national-cable-consortium-second-cable-sierratel-international",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "The government announcement says a second submarine cable is meant to reduce Sierra Leone's reliance on a single international submarine cable; the second cable, a $45 million project with a new National Cable Consortium, is planned, not in service.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "single international submarine cable",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

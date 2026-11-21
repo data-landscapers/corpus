@@ -231,6 +231,8 @@ COD,2Africa,2Africa,route,,Meta and a consortium of operators,,2026-10-12-caf-ce
 COD,WACS,West Africa Cable System,route,,,,2026-10-12-caf-central-african-republic-revives-talks-on-third-internet-route-via-drc
 COD,WACS,DR Congo,route,submarine cable,,,2026-05-03-cod-la-rdc-veut-renforcer-ses-moyens-de-connectivite-internet-internationa
 COD,2Africa,DR Congo,route,submarine cable,Airtel RDC,,2026-05-03-cod-la-rdc-veut-renforcer-ses-moyens-de-connectivite-internet-internationa
+COD,WACS,West Africa Cable System,route,,,,2026-11-19-cog-wacs-subsea-cable-returns-online
+COD,Paratus Mombasa-Goma route,DR Congo,route,,Paratus,,2026-11-19-xaf-cio-africa-landed-not-delivered-terrestrial-fibre
 COG,WACS,WACS,route,,consortium,,2026-01-20-congo-seeks-new-subsea-cable-wacs-failures-connectingafrica
 COG,new unnamed cable,new unnamed cable,other,,ARPCE (planned connection),,2026-01-20-congo-seeks-new-subsea-cable-wacs-failures-connectingafrica
 COG,Dow Africa,Dow Africa,other,,,,2026-01-20-congo-seeks-new-subsea-cable-wacs-failures-connectingafrica
@@ -261,6 +263,7 @@ COG,2Africa,Congo,route,submarine cable,Meta,,2024-02-29-cog-economie-numerique-
 COG,WACS,Congo,route,submarine cable,,,2024-02-29-cog-economie-numerique-denis-sassou-n-guesso-connecte-le-congo-au-cable-2a
 COG,WACS,Congo,route,submarine cable,,,2025-02-17-cog-itinerance-internationale-et-regionale-actions-menees-par-le-congo
 COG,2Africa,Congo,route,submarine cable,Meta,,2025-02-17-cog-itinerance-internationale-et-regionale-actions-menees-par-le-congo
+COG,WACS,West Africa Cable System,route,,,,2026-11-19-cog-wacs-subsea-cable-returns-online
 COM,2Africa,2Africa,route,,,,2026-01-01-comores-cables-technologies
 COM,EASSy,EASSy,other,,,,2026-01-01-comores-cables-technologies
 COM,FLY-LION3,FLY-LION3,other,,,,2026-01-01-comores-cables-technologies
@@ -434,6 +437,7 @@ EGY,Sharm El Sheikh-Taba cable,Sharm-Taba cable,other,"repeaterless, 5 Pbps",Tel
 EGY,Red2Med,Red2Med,other,Red Sea Subsea Festoon + Internet Corridor of Egypt,Telecom Egypt,,2026-09-04-developingtelecoms-egypt-taba-red2med-cable
 EGY,Regional Data Hub 2 (RDH 2),Regional Data Hub 2,other,,Telecom Egypt,,2024-11-18 Telecom Egypt Regional Data Hub 2 awarded Tier III design certification
 EGY,Africa-1,Egypt,other,submarine cable,Africa-1 consortium,,2024-11-06-egy-telecom-egypt-africa-1-cable-lands-ras-ghareb
+EGY,Medusa,Medusa Submarine Cable System (Port Said landing),route,,AFR-IX Telecom,,2026-11-19-egy-eu-eib-medusa-submarine-cable
 ERI,2Africa,2AFRICA,other,submarine cable,Meta-led consortium,Red Sea eastern part planned; does not land in Eritrea,2024-06-10-cable-firms-eye-eritrea-red-sea-houthi-attacks
 ERI,Trans Europe Asia System (TEAS),TEAS,other,subsea and terrestrial cable,Cinturion Group,"planned; Israel, Saudi Arabia, UAE, not Eritrea",2024-06-10-cable-firms-eye-eritrea-red-sea-houthi-attacks
 ERI,2Africa,2Africa Cable,other,submarine cable,"consortium incl. Facebook, Vodafone, MTN, China Mobile",planned for service 2023 at time of writing; no commitment to serve Asmara,2021-06-21-world-bank-overview-digital-development-horn-of-africa-eritrea
@@ -1071,6 +1075,7 @@ SLE,Second submarine cable landing (planned),,other,,MoCTI,,2025-07-11-sierra-le
 SLE,TRANSCO CLSG fibre,,other,,TRANSCO CLSG,,2026-06-16-transco-clsg-fibre-expansion-techafricanews
 SLE,ACE,ACE (Africa Coast to Europe),route,,ACE Consortium,,2021-09-09-ace-consortium-submarine-cable-overview
 SLE,Africa Coast to Europe (ACE),Sierra Leone,route,submarine cable,,,2025-07-21-lbr-liberia-ecowas-plan-second-subsea-cable-for-five-west-african-countrie
+SLE,second submarine cable,second submarine cable,other,,National Cable Consortium,,2026-11-18-sle-libertyonlinetv-waiis-2026-outcomes
 SOM,DARE1,DARE1,route,,Djibouti Telecom,,2025-09-04 DARE1 subsea cable expansion to boost internet capacity
 SOM,DARE1 extension (Mombasa to Mtunzini),,other,,Djibouti Telecom,,2025-09-04 DARE1 subsea cable expansion to boost internet capacity
 SOM,DARE1,DARE1,route,,Djibouti Telecom,,2025-09-01-dare1-extension-kenya-south-africa-connectingafrica

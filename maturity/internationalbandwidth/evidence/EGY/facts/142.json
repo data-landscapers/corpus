@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-19-egy-eu-eib-medusa-submarine-cable",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Medusa",
+   "country_label": "Medusa Submarine Cable System (Port Said landing)",
+   "class": "route",
+   "platform": "",
+   "owner": "AFR-IX Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Egypt's Port Said landing is in the second phase, where cable deployment is underway; only the France, Morocco and Tunisia first phase is stated in service."
+}

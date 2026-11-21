@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-xaf-cio-africa-landed-not-delivered-terrestrial-fibre",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "In February 2026 Paratus activated a 2,000-kilometre protected fibre route from Mombasa to Goma through Nairobi, Kampala and Kigali, giving eastern DR Congo direct access to Kenyan subsea cable systems.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Paratus Mombasa-Goma route",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paratus Mombasa-Goma route",
+   "country_label": "DR Congo",
+   "class": "route",
+   "platform": "",
+   "owner": "Paratus",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-13-tanzania-urges-shift-from-telecom-coverage-to-meaningful-digital-access",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Minister Angellah Kairuki said the national backbone is linked to international submarine cables and to neighbouring countries, without naming cables or counting routes.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "National Information and Communications Technology Broadband Backbone (NICTBB)",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

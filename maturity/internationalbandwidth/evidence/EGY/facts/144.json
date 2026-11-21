@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-13-egy-telecom-egypt-9m-2026-revenue-egp-93-6bn",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Telecom Egypt chief executive Tamer El Mahdi says Egypt connects to the world through Telecom Egypt's subsea cables and landing stations, as reported by Tech Africa News.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "Telecom Egypt subsea cables and landing stations",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

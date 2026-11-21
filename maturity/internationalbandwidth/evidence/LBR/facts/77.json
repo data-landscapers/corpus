@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-sle-national-cable-consortium-second-cable-sierratel-international",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Tech Africa News, reporting the Sierra Leone government announcement, says Liberia joined the regional effort to address the risk of depending on a single cable connection.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "single submarine cable",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-zaf-mybroadband-napafrica-7tbps-800g-ports",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Teraco says its facilities give direct interconnect access to subsea cables landing in South Africa, including 2Africa, ACE, EASSy, Equiano, METISS, SACS, SAT3/SAFE, Seacom and WACS; landing stations are not named.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Subsea cables landing in South Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
