@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: XWA
 ledger_rows: 38
 not_held: 1
-record: 208739a86fb2
+record: 7422ffcf1bba
 ---
 
 # News, Oct – Nov 2026
@@ -362,6 +362,14 @@ The WAEMU Council of Ministers, meeting in Dakar on 2 October 2026, gave an opin
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[SIIPS 2026 : le PI-SPI dépasse les 4 millions de transactions en un an dans l’UEMOA | Financial Afrik](https://www.financialafrik.com/2026/11/20/siips-2026-le-pi-spi-depasse-les-4-millions-de-transactions-en-un-an-dans-luemoa/)** — Financial Afrik, 20 November 2026
+
+PI-SPI after one year: 175 institutions, 4m+ transactions, FCFA 300bn+; PAPSS pilot for WAEMU banks.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -393,6 +401,22 @@ The Central Bank of West African States announced on 8 October 2026 that WAEMU p
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
 **[Transactions de monnaie électronique entre personnes physiques par l'intermédiaire de la Plateforme Interopérable du Système de Paiement Instantané (PI-SPI) de l'UEMOA](https://www.bceao.int/sites/default/files/2026-10/Communiqu%C3%A9%20du%202%20octobre%202026.pdf)** — BCEAO, 2 October 2026
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[L’intelligence artificielle au cœur du débat monétique](https://lesoleil.sn/actualites/lintelligence-artificielle-au-coeur-du-debat-monetique/)** — Le Soleil, 20 November 2026
+
+PI-SPI at 165 connected participants, 50m+ people reached (31 Oct 2026); interim GIM-UEMOA DG on AI fraud risk.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[SIIPS 2026 : le PI-SPI dépasse les 4 millions de transactions en un an dans l’UEMOA | Financial Afrik](https://www.financialafrik.com/2026/11/20/siips-2026-le-pi-spi-depasse-les-4-millions-de-transactions-en-un-an-dans-luemoa/)** — Financial Afrik, 20 November 2026
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
@@ -646,7 +670,15 @@ ECOWAS statisticians are meeting in Lomé from 3 to 6 November 2026. They are re
 
 <div class="bulletin-item" markdown="1">
 
-**[NASRDA backs ECOWAS plans for West Africa’s first regional Earth observation satellite](https://techreviewafrica.com/news/8400/x)** — Tech Review Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+**[ECOWAS ADVANCES REGIONAL SPACE AMBITIONS WITH TECHNICAL VALIDATION MEETING ON ECOSAT-1 SATELLITE](https://www.ecowas.int/ecowas-advances-regional-space-ambitions-with-technical-validation-meeting-on-ecosat-1-satellite/)** — ECOWAS Commission, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Abuja, 18-20 Nov 2026: NASRDA architecture study up for validation before STI ministers; origin in 2018 Cotonou meeting.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[NASRDA backs ECOWAS plans for West Africa’s first regional Earth observation satellite](https://www.techreviewafrica.com/news/8400/nasrda-backs-ecowas-plans-for-west-africas-first-regional-earth-observation-satellite)** — Tech Review Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 Nigeria's space agency NASRDA said it would support ECOSAT-1, a planned ECOWAS Earth observation satellite, after an ECOWAS technical experts' meeting, reported on 19 November 2026. Its director-general linked the project to data sovereignty, disaster response, agriculture and environmental monitoring. No decision or figure was reported, and the meeting date is not stated.
 
