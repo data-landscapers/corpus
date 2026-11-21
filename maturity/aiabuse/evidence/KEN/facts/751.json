@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-governing-ai-in-kenyas-banking-sector-cbk-draft-guidance-notes",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "The Central Bank of Kenya published a draft Guidance Note on Artificial Intelligence in the Banking Sector on 10 September 2026 for public comment, addressing algorithmic bias, unfair or opaque AI decisions and redress, per CIPIT's analysis.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "CBK draft Guidance Note on Artificial Intelligence in the Banking Sector",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

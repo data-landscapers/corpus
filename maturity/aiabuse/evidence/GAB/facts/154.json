@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-20-paradigm-initiative-child-online-protection-policies-africa",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Paradigm Initiative says Gabon adopted Ordinance No. 0011/PR/2026 regulating social networks, which seeks to protect minors and ensure deepfakes are not used to violate rights.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Ordinance No. 0011/PR/2026",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-zaf-itweb-inforeg-cyber-defences-ai-governance",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "The regulator's CIO says Section 71 of the POPI Act, on decisions based solely on automated processing, is relevant as AI becomes more widely adopted.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "POPI Act section 71",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
