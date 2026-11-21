@@ -43,6 +43,14 @@ LINEAGE_COLS = ["slug", "successor_slug", "year", "basis"]
 # body and names the body; the page's search finds a body by any of them.
 ABBREV = ROOT / "lookups" / "org-abbreviations.csv"
 ABBREV_COLS = ["abbreviation", "slug", "name", "basis"]
+# A source's authors (Bill, 2026-11-20): `whos-who-authors.py` builds them from `raw/`'s
+# `author:` and `author_roles:` and OSINT's `publications.csv`, in the cache's columns plus
+# `slug_fixed` (the organisation, taken without matching) and `place` (the outlet's
+# country). Untracked and rebuilt nightly; `fact_rows()` reads it beside the cache.
+AUTHORS = ROOT / "build" / "whos-who" / "authors.csv"
+AUTHOR_COLS = ["source_url", "name_as_written", "position", "org_as_written", "slug_hint",
+               "tense", "year", "year_to", "slug_fixed", "place"]
+AUTHOR_POSITIONS = {"Journalist", "Author"}
 
 _spec = importlib.util.spec_from_file_location("entity_variants", ROOT / "scripts" / "entity-variants.py")
 EV = importlib.util.module_from_spec(_spec)
@@ -236,6 +244,8 @@ class Resolver:
 
     def resolve(self, row: dict) -> tuple[str | None, str]:
         """(slug, how) — `how` is the method, or the cause of a drop when slug is None."""
+        if row.get("slug_fixed"):
+            return row["slug_fixed"], "author"
         item = self.cat.get(row["source_url"])
         if item is None:
             return None, "source not in catalogue"
@@ -299,6 +309,22 @@ class Resolver:
             if len(pool) == 1 and free:
                 return next(iter(free)), how
         return None, "no slug matches"
+
+
+def fact_rows() -> list[dict]:
+    """The cache's tuples, then the author rows: what the organisations and people read."""
+    rows = [r for r in csv.DictReader(open(CACHE, encoding="utf-8")) if r["name_as_written"]]
+    return rows + read_csv(AUTHORS, AUTHOR_COLS)
+
+
+def author_slugs() -> dict[str, str]:
+    """slug -> place, for every organisation an author row names: an outlet off the catalogue's
+    tags is still a body (lint 3), placed where `publications.csv` says it is based."""
+    out = {}
+    for r in read_csv(AUTHORS, AUTHOR_COLS):
+        if r["place"] or r["slug_fixed"] not in out:
+            out[r["slug_fixed"]] = r["place"]
+    return out
 
 
 def read_csv(path: Path, cols: list[str]) -> list[dict]:

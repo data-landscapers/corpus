@@ -8,10 +8,11 @@ lints; this file is them, plus two the page added at stage 5:
    and the two are the same bytes.
 2. Each tracked lookup and the cache have exactly their declared columns (§4).
 3. Every published `source_url` is a catalogue URL (a row joins several with `; `); every organisation slug a published row
-   resolves to is a catalogue tag.
+   resolves to is a catalogue tag, or an organisation an author row names.
 4. No suppressed person or pair is published; no suppressed person has a name or an alias.
 5. No published name sits under two people in one organisation unless ruled `different`.
-6. Every published position passes §5's role-word, deny-list and length test.
+6. Every published position passes §5's role-word, deny-list and length test; an author
+   row's (`whos-who-authors.py`) is exempt from the role word.
 7. The page's search index is under the 2 MB compressed line (`lint-page-weight.py`'s rule,
    which cannot see a table the page builds on demand).
 8. No `person_id` appears anywhere under `site/whos-who/` (§8a).
@@ -121,13 +122,17 @@ def main() -> int:
             fail(4, f"suppressed pair {pid} / {slug} is published")
     # 6
     cache = load("whos_who_cache", ROOT / "scripts" / "whos-who-cache.py")
-    bad = sorted({r["position"] for r in rows
-                  if cache.position_fault(re.sub(r" \(former\)$", "", r["position"]))})
+    # An author row's post is the one its piece states, or *Journalist* or *Author*
+    # (`whos-who-authors.py`): held to the test bar the role word, which is officeholders'.
+    authored = {r["position"] for r in W.read_csv(W.AUTHORS, W.AUTHOR_COLS)}
+    bad = sorted({r["position"] for r in rows if r["position"] not in authored
+                  and cache.position_fault(re.sub(r" \(former\)$", "", r["position"]))})
     if bad:
         fail(6, "published position fails the role, deny or length test", bad)
     # 3 (slugs) and 5 need the fact table
     if POSITIONS.exists():
-        tags = {e for i in cat.values() for e in (i.get("entities") or [])}
+        # An outlet or employer an author row names is a body off the tags (`whos-who-authors.py`).
+        tags = {e for i in cat.values() for e in (i.get("entities") or [])} | set(W.author_slugs())
         pos = read(POSITIONS)
         canon = {r["slug"]: r["canonical_slug"] for r in orgs.values()}
         off = sorted({canon.get(r["slug"], r["slug"]) for r in pos} - tags)

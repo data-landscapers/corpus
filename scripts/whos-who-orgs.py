@@ -165,7 +165,7 @@ def main(argv=None) -> int:
 
     cat, names = W.catalogue(), W.display_names()
     res, stems, country = W.Resolver(cat, names), W.gov_stems(), W.countries()
-    rows = [r for r in csv.DictReader(open(W.CACHE, encoding="utf-8")) if r["name_as_written"]]
+    rows = W.fact_rows()
 
     how, forms = collections.Counter(), collections.defaultdict(collections.Counter)
     for r in rows:
@@ -176,7 +176,11 @@ def main(argv=None) -> int:
 
     use = res.use
     hand = {r["slug"]: r for r in W.read_csv(W.ORGS, W.ORG_COLS) if r["basis"] == "hand"}
-    placed = {r["slug"]: r["place"] for r in W.read_csv(W.PLACES, W.PLACES_COLS)}
+    # An outlet an author row names is placed where `publications.csv` says it is based,
+    # unless `org-places.csv` says otherwise.
+    authored = W.author_slugs()
+    placed = {**{s: p for s, p in authored.items() if p},
+              **{r["slug"]: r["place"] for r in W.read_csv(W.PLACES, W.PLACES_COLS)}}
     out, named, unnamed, national = {}, collections.Counter(), [], set()
     for slug in forms:
         if slug in hand:
@@ -187,6 +191,11 @@ def main(argv=None) -> int:
         # across many.
         place = place_of(slug, res, placed) or (res.place.get(slug, "") if kind == "government" else "")
         name, nh = name_for(slug, place, names.get(slug), forms[slug], country)
+        if not name and slug in authored:
+            # An outlet or employer an author row names was spelt by OSINT's `publications.csv`
+            # or by the piece itself, and its slug was cut from that spelling: *The Namibian*,
+            # whose words all fold away as a country.
+            name, nh = written_name(forms[slug]), "author"
         name = one_side(name, slug) if name and kind != "government" else name
         named[nh] += 1
         if not name:

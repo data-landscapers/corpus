@@ -49,8 +49,6 @@ def wordlist(name: str) -> re.Pattern:
 
 
 ROLE, DENY = wordlist("whos-who-roles.csv"), wordlist("whos-who-deny.csv")
-AUTHORS = {i["url"]: fold(i.get("author") or "") for i in
-           json.load(open(ROOT / "outputs" / "catalogue" / "raw-catalogue.json", encoding="utf-8"))["items"]}
 
 
 def position_fault(p: str) -> str | None:
@@ -123,11 +121,6 @@ def main(argv=None) -> int:
                 continue
             if len(name.split()) < 2 or len(name.split()) > 6:
                 drops["name not 2-6 words"] += 1
-                continue
-            # A source's own author never yields a row, even where the text states their post:
-            # the index is about officeholders a source reports, not who wrote it.
-            if AUTHORS.get(u) and all(t in AUTHORS[u] for t in fold(name).split() if len(t) > 2):
-                drops["name is the source's author"] += 1
                 continue
             fault = position_fault(pos)
             if fault:

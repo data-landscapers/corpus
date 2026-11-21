@@ -169,3 +169,4 @@ logs/.link-check.lock
 # extraction cache and lookups (documentation/whos-who.md §4); only the cache is history.
 build/whos-who/positions.csv
 build/whos-who/merge-candidates.csv
+build/whos-who/authors.csv

@@ -208,7 +208,7 @@ def build(place: str | None = None, dry: bool = False) -> int:
     suppress = W.read_csv(SUPPRESS, SUPPRESS_COLS)
     old_people = W.read_csv(PEOPLE, PEOPLE_COLS)
     old_alias = W.read_csv(ALIASES, ALIAS_COLS)
-    rows = [r for r in csv.DictReader(open(W.CACHE, encoding="utf-8")) if r["name_as_written"]]
+    rows = W.fact_rows()
 
     # Organisation identity: canonical slug, then lineage joins incarnations.
     org_uf = UF()
