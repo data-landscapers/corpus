@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-rdc-wave-decroche-le-feu-vert-reglementaire-de-la-banque-centrale",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "The Banque centrale du Congo licensed Wave, a non-bank, as an electronic-money institution, announced on 17 November 2026.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Wave e-money institution licence",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1090,7 +1090,7 @@ LSO,57,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,
 MAR,51,2023-05-22-ecdpm-global-approaches-digital-sovereignty,2026-11-17,instrument,2026-11-17
 MAR,52,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,2026-11-17
 MDG,56,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,2026-11-17
-MLI,65,2026-11-16-mli-apanews-sama-money-pi-spi-reception,2026-11-17,,
+MLI,65,2026-11-16-mli-apanews-sama-money-pi-spi-reception,2026-11-17,nothing,2026-11-21
 MLI,66,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,2026-11-17
 MOZ,70,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,2026-11-17
 MWI,55,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,2026-11-17
@@ -1129,7 +1129,7 @@ BWA,34,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-1
 CAF,26,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 CIV,65,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 CMR,50,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-COD,33,2026-11-18-rdc-wave-decroche-le-feu-vert-reglementaire-de-la-banque-centrale,2026-11-18,,
+COD,33,2026-11-18-rdc-wave-decroche-le-feu-vert-reglementaire-de-la-banque-centrale,2026-11-18,fact,2026-11-21
 COD,34,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 COG,35,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 CPV,21,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
@@ -1194,7 +1194,7 @@ ERI,9,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 ETH,37,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 GAB,34,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 GHA,95,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
-GIN,54,2026-11-20-gin-signature-electronique-feuille-de-route-confiance-numerique,2026-11-21,,
+GIN,54,2026-11-20-gin-signature-electronique-feuille-de-route-confiance-numerique,2026-11-21,nothing,2026-11-21
 GIN,55,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 GMB,37,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 GNB,22,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
@@ -1218,7 +1218,7 @@ NER,59,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 NGA,49,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 RWA,65,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 SDN,23,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
-SEN,94,2026-11-19-sen-aps-gim-uemoa-innovation-securite-paiements-electroniques,2026-11-21,,
+SEN,94,2026-11-19-sen-aps-gim-uemoa-innovation-securite-paiements-electroniques,2026-11-21,nothing,2026-11-21
 SEN,95,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 SLE,47,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 SOM,44,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
