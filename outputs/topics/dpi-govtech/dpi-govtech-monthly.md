@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fdc74cf03143
+record: 2814574b8632
 ---
 
 # News, Oct – Nov 2026
@@ -318,6 +318,20 @@ The digital agency ASIN announced a new version of the service-public.bj portal 
 **[Digitization in Benin: Criminal records now issued instantly and without supporting documents](https://beninwebtv.bj/en/digitization-in-benin-criminal-records-now-issued-instantly-and-without-supporting-documents/)** — Bénin Web TV, 2 November 2026
 
 Benin's Ministry of Justice and Legislation is the first ministry to apply the government's "Tell us once" directive. Since 1 November 2026 a criminal record certificate is issued instantly on service-public.bj with no supporting documents, for a fee of FCFA 1,900. The applicant's identity is checked against the personal identification number and civil-registry records.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PCATNAP (project to consolidate and accelerate the digital transformation of public administration)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Etude du projet de budget 2027 à l'Assemblée nationale: Les grands chantiers pour moderniser l'administration publique](https://www.lanation.bj/actualites/etude-du-projet-de-budget-2027-a-lassemblee-nationale-les-grands-chantiers-pour-moderniser-ladministration-publique)** — La Nation, 18 November 2026
+
+On 17 November 2026 Benin's budget and civil service ministry presented a 2027 draft budget of FCFA 18.61bn to the Assembly's budget committee. This is 51.40% above the 2026 revised finance law. The increase goes to four investment projects, including PCATNAP for digital transformation of public administration and the P3MAP modernisation project.
 
 </div>
 
@@ -1494,6 +1508,21 @@ Kenya's Directorate of eCitizen told the National Assembly's Sports and Culture 
 **[IPF and Treasury Review Kenya’s Electronic Government Procurement (e-GP) Progress as Reform enters Second Year - Institute of Public Finance](https://ipfglobal.or.ke/ipf-and-treasury-review-kenyas-electronic-government-procurement-e-gp-progress-as-reform-enters-second-year/)** — Institute of Public Finance Kenya, 4 November 2026
 
 Treasury Cabinet Secretary John Mbadi told a partners' meeting with the Institute of Public Finance on 4 November 2026 that Kenya's eGP system has onboarded over 1,500 procuring entities and 45,000 suppliers. Contracts worth about KSh 18.3 billion have been processed through it. He set four priorities for the next phase of the reform.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kenya Sovereign Open Source Digital Stack (KenStack)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya Joins the Digital Public Goods Alliance](https://www.digitalpublicgoods.net/blog/kenya-joins-the-digital-public-goods-alliance)** — Digital Public Goods Alliance, 18 November 2026
+
+Kenya's Ministry of Information, Communications and the Digital Economy joined the Digital Public Goods Alliance, announced in Paris on 18 November 2026. Its roadmap raises open-source training from 70 to over 200 civil servants. It deploys the KenStack sovereign open-source stack at the Konza National Data Centre. It nominates two homegrown solutions for assessment against the DPG Standard.
 
 </div>
 

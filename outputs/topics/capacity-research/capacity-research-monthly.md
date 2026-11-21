@@ -1,10 +1,10 @@
 ---
 title: Research institutions — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: capacity.research
-places: BFA; ETH; LBY; MWI; MRT; SEN; SLE; ZAF; UGA
-record: 36149afab84a
+places: BFA; ETH; KEN; LBY; MWI; MRT; SEN; SLE; ZAF; UGA
+record: a570c711b1ff
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: 36149afab84a
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -56,6 +58,22 @@ A four-year research project on the digital transition of university work in Bur
 **[Ethiopia Targets to Become Africa’s Leading AI Innovation Hub by 2030: EAII Director General](https://www.ena.et/web/eng/w/eng_9899270)** — Ethiopian News Agency (ENA), 9 November 2026
 
 Ethiopia's AI Institute opened a residency for 51 AI start-up founders from 12 African countries on 9 November 2026, ENA reported. Its director general set a goal of a leading African AI hub by 2030. Japan's ambassador put Japanese support for the Addis Ababa AI UniPod at about US$1m a year.
+
+</div>
+
+</div>
+
+## Kenya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UNESCO Chair on Ethical Artificial Intelligence, Rongo University</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rongo University awarded UNESCO chair on ethical artificial intelligence](https://www.standardmedia.co.ke/health/tech-innovation/article/2001562593/rongo-university-awarded-unesco-chair-on-ethical-artificial-intelligence)** — The Standard, 19 November 2026
+
+Rongo University was awarded a UNESCO Chair on Ethical Artificial Intelligence for 2027 to 2031, reported on 19 November 2026. It will run the chair with Germany's RWTH Aachen University under the UNESCO/UNITWIN programme. Prof Fredrick Ogenga is chairholder. Research covers ethical AI for climate action and digital peacebuilding.
 
 </div>
 

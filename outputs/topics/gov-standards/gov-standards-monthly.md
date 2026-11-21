@@ -1,10 +1,10 @@
 ---
 title: Standards — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: gov.standards
-places: DZA; BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; SEN; ZAF; SDN; TUN; UGA; ZMB
-record: a200efbc55c0
+places: DZA; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; SEN; ZAF; SDN; TUN; UGA; ZMB
+record: d3b3fa73363e
 ---
 
 # News, Oct – Nov 2026
@@ -21,6 +21,8 @@ record: a200efbc55c0
 <a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#chad">Chad</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#comoros">Comoros</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -193,6 +195,22 @@ Cameroon's telecoms regulator ART and MTN Cameroon held a follow-up session in Y
 
 </div>
 
+## Chad
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulator service-quality audit programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : les audits se succèdent, mais la qualité des services télécoms reste défaillante](https://www.wearetech.africa/fr/fils/actualites/telecom/tchad-les-audits-se-succedent-mais-la-qualite-des-services-telecoms-reste-defaillante)** — wearetech.africa, 20 November 2026
+
+Chad's regulator ARCEP opened its 16th national quality-of-service audit of Airtel Tchad and Moov Africa Tchad on 16 November 2026, with the audit firm Directive. The 15th audit, with results in November 2025, found equipment out of service, poor maintenance and power failures. The law allows fines of up to 5% of annual turnover, doubled for a repeat breach.
+
+</div>
+
+</div>
+
 ## Comoros
 
 <div class="monthly-story" markdown="1">
@@ -252,6 +270,20 @@ Côte d'Ivoire's regulator ARTCI drafted fibre-optic deployment standards and a 
 **[تنظيم الاتصالات: منظومة لتقييم المدن الذكية والمستدامة وفق معايير دولية](https://www.youm7.com/story/2026/10/15/%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9-%D9%88%D9%81%D9%82-%D9%85%D8%B9%D8%A7%D9%8A%D9%8A%D8%B1-%D8%AF%D9%88%D9%84%D9%8A%D8%A9/7580488)** — Youm7, 15 October 2026
 
 Egypt's telecoms regulator described an online system that scores new cities against its smart and sustainable cities code and issues conformity certificates. It is applied with the housing ministry to cities including the New Administrative Capital and New Alamein.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Egyptian Exchange rules on the governance of AI use</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[البورصة المصرية تعتمد حزمة قواعد حوكمة الذكاء الاصطناعي لدعم كفاءة التداول](https://www.youm7.com/story/2026/11/19/%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%AD%D8%B2%D9%85%D8%A9-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%AD%D9%88%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%84%D8%AF%D8%B9%D9%85-%D9%83%D9%81%D8%A7%D8%A1%D8%A9/7625009)** — Youm7, 19 November 2026
+
+On 19 November 2026 the Egyptian Exchange announced board approval of its first rules on AI tools in operations, trading and corporate disclosure. The rules cover transparency, accountability and client data confidentiality. They include AI review of listed companies' disclosures and financial statements before release to investors.
 
 </div>
 

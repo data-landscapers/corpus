@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d8a4a5c0474c
+record: 6881d5c5ef30
 ---
 
 # News, Oct – Nov 2026
@@ -760,6 +760,7 @@ Kenya's health cabinet secretary urged providers to meet the timelines for movin
 
 </div>
 
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -839,6 +840,7 @@ Murang'a Governor Irungu Kang'ata accuses Kenya's national government of switchi
 Murang'a County has petitioned Kenya's High Court against the Ministry of Health, the Digital Health Agency, the Health Cabinet Secretary, SHA and the Attorney-General after losing access to its Afya.KE health information system on 14 October 2026. It seeks orders restoring access and protecting clinical records across its more than 176 health facilities while the petition is heard.
 
 </div>
+
 
 </div>
 
@@ -1706,6 +1708,20 @@ Tunisia's Administrative Tribunal held its first pleading hearings in the centra
 **[Terres domaniales : 11.000 hectares mis à la disposition des sociétés communautaires](https://www.lapresse.tn/2026/11/07/terres-domaniales-11-000-hectares-mis-a-la-disposition-des-societes-communautaires/)** — La Presse de Tunisie, 7 November 2026
 
 Tunisia's minister of state domains, Wajdi Hedhili, briefed a joint parliamentary committee on 6 November 2026. Hedhili said 24 state farmland plots, over 11,000 hectares, have been given to community companies. 3,000 hectares are reserved for renewable energy projects, and a second list of plots is in preparation. State farmland totals 500,000 hectares, 38% of it leased.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">School life platform (viescolaire.education.tn)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير التربية: معطيات منصة الحياة المدرسية محفوظة في مقر سيادي](https://www.alchourouk.com/article/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9-%D9%85%D8%AD%D9%81%D9%88%D8%B8%D8%A9-%D9%81%D9%8A-%D9%85%D9%82%D8%B1-%D8%B3%D9%8A%D8%A7%D8%AF%D9%8A)** — جريدة الشروق التونسية, 18 November 2026
+
+On 18 November 2026 Tunisia's education minister told parliament that school-life platform data is hosted by the state in a sovereign site. He denied any contract outside the official framework. He said the ministry built the system with the communication technologies ministry. He said it will extend to national exams.
 
 </div>
 

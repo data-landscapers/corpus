@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: gov.protect
 places: DZA; AGO; BEN; BFA; CMR; COG; COD; EGY; SWZ; GAB; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 39e67e08ee43
+record: a23aa8016856
 ---
 
 # News, Oct – Nov 2026
@@ -133,6 +133,14 @@ The eight councillors of Benin's Personal Data Protection Authority (APDP) were 
 **[Autorité de Régulation de la communication et du traitement des données à caractère personnel : W. Louis Modeste Ouédraogo nommé président](https://lefaso.net/spip.php?article150089)** — leFaso.net, 20 October 2026
 
 Burkina Faso appointed W. Louis Modeste Ouédraogo, previously president of the Conseil supérieur de la communication, to head the new regulator formed by merging that council with the data-protection commission CIL. The decree is dated 16 October 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ARCOD : Les dix membres du collège des conseillers nommés](https://lefaso.net/spip.php?article150924=)** — leFaso.net, 20 November 2026
+
+Burkina Faso's Council of Ministers named the ten councillors of the first college of ARCOD, the merged media and personal-data regulator, on 19 November 2026. Four come from the former Conseil supérieur de la communication and six are new. Organic law of 3 August 2026 sets non-renewable five-year terms.
 
 </div>
 

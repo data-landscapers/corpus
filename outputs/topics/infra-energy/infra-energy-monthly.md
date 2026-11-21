@@ -1,10 +1,10 @@
 ---
 title: Energy — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: infra.energy
-places: BDI; CMR; COG; MOZ; TZA
-record: d1bbb74cf6f5
+places: BDI; CMR; COG; MOZ; SLE; TZA
+record: bb20cc8a46a4
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: d1bbb74cf6f5
 <a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 </nav>
@@ -96,6 +98,22 @@ Mozambique's energy ministry, MIREME, published the National Geospatial Least-Co
 **[Mozambique: Estevão Pale unveils geospatial plan and integrated platform to guide electrification investment](https://clubofmozambique.com/news/mozambique-estevao-pale-unveils-geospatial-plan-and-integrated-platform-to-guide-electrification-investment/)** — Club of Mozambique, 9 November 2026
 
 Mozambique's energy ministry launched the National Geospatial Least-Cost Electrification Plan 2026-2030 and the Integrated Electrification Platform in Maputo on 6 November 2026. The plan uses geospatial data to choose between grid extension and off-grid solutions for each settlement. The platform pools sector data from MIREME, ARENE, EDM and FUNAE. The World Bank funded the work, with technical assistance from SEforALL.
+
+</div>
+
+</div>
+
+## Sierra Leone
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National integrated energy, telecommunications and digital infrastructure master plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government Announces Partnership to Integrate Energy and Telecommunications Infrastructure, Reduce Connectivity Costs and Expand Digital Access](https://mocti.gov.sl/government-announces-partnership-to-integrate-energy-and-telecommunications-infrastructure-reduce-connectivity-costs-and-expand-digital-access/)** — Ministry of Communication, Technology and Innovation, Sierra Leone, 20 November 2026
+
+Sierra Leone's ministries of energy and of communication, technology and innovation signed a memorandum of understanding with Aton Path LLC, announced at WAIIS 2026 on 20 November 2026. The firm will help draw up a national master plan for energy, telecoms and digital infrastructure. The plan aims to move telecom sites from diesel to grid power.
 
 </div>
 

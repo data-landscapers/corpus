@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 81a12ee984b1
+record: 82382017e4da
 ---
 
 # News, Oct – Nov 2026
@@ -164,6 +164,20 @@ UCL's Institute for Innovation and Public Purpose released its DPI Map dataset o
 **[Crédit Populaire d'Algérie Launches Electronic Payment Service from Abroad](https://news.radioalgerie.dz/en/node/98961)** — Radio Algérienne, 13 November 2026
 
 Crédit Populaire d'Algérie launched CPAzonepay on 12 November 2026. Merchants with websites can now accept Visa and Mastercard cards issued abroad. It targets exporters, tourism, transport and other sectors.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic payment modernisation roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الدفع الإلكتروني ومراقبة السلع على طاولة الحكومة](https://www.echoroukonline.com/%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%86%d8%a9-%d9%88%d8%a7%d9%84%d8%af%d9%81%d8%b9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%88%d9%85%d8%b1%d8%a7%d9%82%d8%a8%d8%a9-%d8%a7%d9%84)** — Echorouk El Yawmi, 18 November 2026
+
+On 18 November 2026 Algeria's government reviewed its roadmap for modernising electronic payment. In the first nine months of 2026, online payments reached DZD 391bn, up 63% on 2025. Card-terminal payments reached DZD 133bn, up 48%, and mobile payments DZD 56.4bn. ATM withdrawals fell 14% to DZD 3,777bn.
 
 </div>
 
@@ -863,6 +877,14 @@ The Bank of Ghana warned the public against 20 mobile loan apps operating withou
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Bank of Ghana Notice No. BG/GOV/SEC/2026/45: Unlicensed Digital Credit Services Providers](https://www.bog.gov.gh/wp-content/uploads/2026/11/Notice-No.45-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS-1.pdf)** — Bank of Ghana, 17 November 2026
+
+On 17 November 2026 the Bank of Ghana named 19 more unlicensed mobile loan apps, among them Cedi Trust, SikaPadi and SoarCredit. The notice was issued with the Cyber Security Authority. It says the apps breach the September 2025 digital credit directive. It cautions banks and payment providers against processing their transactions.
+
+</div>
+
 </div>
 
 
@@ -1314,6 +1336,20 @@ The bureau of COMESA's central bank governors met in Lilongwe on 11 November 202
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Money mobile-money platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Money Upgrades Mobile Money Platform in Malawi and Tanzania](https://techafricanews.com/2026/11/20/airtel-money-upgrades-mobile-money-platform-malawi-tanzania/)** — Tech Africa News, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
+
+Airtel Money moved its Malawi and Tanzania mobile-money platforms onto Comviva's mobiquity Pay, according to a company release reported on 20 November 2026. The upgrade includes a rebuilt USSD menu. The release says the platform can support digital lending, insurance and government disbursements.
+
+</div>
+
+</div>
+
 ## Mali
 
 <div class="monthly-story" markdown="1">
@@ -1550,6 +1586,20 @@ Payment fraud reached N$32.45 million in the first half of 2026, up 18.9% on a y
 **[Namibians lose N$32.45 million to payment fraud](https://www.namibian.com.na/namibians-lose-n32-45-million-to-payment-fraud/)** — The Namibian, 15 November 2026
 
 Payment fraud cost Namibians N$32.45 million in the first half of 2026, up 18.9% from N$27.29 million a year earlier, according to the Bank of Namibia's Financial Stability Report. Electronic fund transfer fraud accounted for N$21.87 million, or 67.4%, and was up 47.3% year on year. The report links it to phishing and vishing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Value settled by Namibian banks through SADC-RTGS</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibian banks handle 25% of SADC payments](https://www.namibian.com.na/namibian-banks-handle-25-of-sadc-payments/)** — The Namibian, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
+
+Namibian banks settled R708 billion through the SADC regional payment system in 2025, 25% of its R2.8 trillion total. The figures come from the Bank of Namibia's 2025 annual report. All Namibian participants moved to ISO 20022 messaging in November 2025. In December 2025 Namibia ranked second by value at R76.33 billion, behind South Africa.
 
 </div>
 
@@ -2332,6 +2382,20 @@ Tanzania's deputy finance minister told Parliament on 29 October 2026 that the B
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Money mobile-money platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Money Upgrades Mobile Money Platform in Malawi and Tanzania](https://techafricanews.com/2026/11/20/airtel-money-upgrades-mobile-money-platform-malawi-tanzania/)** — Tech Africa News, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
+
+Airtel Money moved its Malawi and Tanzania mobile-money platforms onto Comviva's mobiquity Pay, according to a company release reported on 20 November 2026. The upgrade includes a rebuilt USSD menu. The release says the platform can support digital lending, insurance and government disbursements.
+
+</div>
+
+</div>
+
 ## Togo
 
 <div class="monthly-story" markdown="1">
@@ -2403,6 +2467,20 @@ African Manager analysed the Central Bank of Tunisia's 2025 banking supervision 
 **[E-payments gain momentum in Tunisia](https://en.africanmanager.com/e-payments-gain-momentum-in-tunisia/)** — African Manager, 12 November 2026
 
 Central Bank of Tunisia data show 18 million online payments worth TND 1.229bn in January-September 2026, up 27%. In-store card payments rose 18.6% to 41.3 million, worth TND 5.143bn. At 30 September 2026 there were 1,552 active merchant websites and 45,900 POS terminals, African Manager reported on 12 November.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Postal bank (La Poste tunisienne)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير تكنولوجيات الاتصال: مشروع البنك البريدي يحتاج اطار قانوني خاص](https://www.alchourouk.com/article/%D9%88%D8%B2%D9%8A%D8%B1-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%AF%D9%8A-%D9%8A%D8%AD%D8%AA%D8%A7%D8%AC-%D8%A7%D8%B7%D8%A7%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A-%D8%AE%D8%A7%D8%B5)** — جريدة الشروق التونسية, 19 November 2026
+
+Tunisia's communication technologies minister told parliament on 19 November 2026 that the postal bank project will have its own law and economic model. La Poste Tunisienne will not be placed directly under the 2016 banking law. He cited over 500,000 free e-cards issued to social-assistance recipients. He also cited 65% of pension withdrawals made by ATM and card in the last quarter.
 
 </div>
 
@@ -2592,6 +2670,20 @@ Afreximbank said Zimbabwe is processing US$5.8 million a month through the pan-A
 **[ZINARA rolls out multi-currency e-wallet platform](https://www.heraldonline.co.zw/zinara-rolls-out-multi-currency-e-wallet-platform/)** — The Herald (Zimbabwe), 24 October 2026
 
 The road authority launched a self-service e-wallet that takes toll fees, vehicle licensing, radio licences and third-party insurance payments in several currencies. It runs on iOS, Android, web and USSD, and full access requires uploading an identity document.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Intermediated Money Transfer Tax (IMTT)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[2027 Budget: Mthuli Ncube raises tax-free threshold to US$150, cuts phone and electric vehicles duty](https://www.newzimbabwe.com/2027-budget-mthuli-ncube-raises-tax-free-threshold-to-us150-cuts-phone-and-electric-vehicles-duty/)** — NewZimbabwe, 20 November 2026
+
+Zimbabwe's Finance Minister Mthuli Ncube proposed on 19 November 2026 cutting the Intermediated Money Transfer Tax from 1.5% to 1.25% on local-currency transactions and from 2% to 1.75% on foreign-currency ones. The 2027 budget also proposes scrapping the 25% duty on cellphones and raising the tax-free threshold to US$150. These are budget proposals, not yet enacted.
 
 </div>
 

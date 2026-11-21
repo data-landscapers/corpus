@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: infra.connect
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: f896f09598c1
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
+record: 4535120226fb
 ---
 
 # News, Oct – Nov 2026
@@ -97,6 +97,8 @@ record: f896f09598c1
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#togo">Togo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -274,6 +276,20 @@ Botswana's universal service fund, working with one mobile operator, has deploye
 **[ATU advances IPv6 testbed preparations in Botswana](https://techreviewafrica.com/news/7904/atu-advances-ipv6-testbed-preparations-in-botswana)** — Tech Review Africa, 24 October 2026
 
 The African Telecommunications Union moved its IPv6 testbed for Botswana forward after a due-diligence visit to the regulator BOCRA, which has picked a university by tender to host it. The testbed is part of an ICANN-funded ATU programme under which 52 specialists from 26 African countries have been trained; the visit coincided with a Smart Africa and CRASA workshop in Gaborone on 20 to 22 October on cutting roaming costs in southern Africa.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BTC Satellite direct-to-mobile service (with Starlink)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BTC Partners Starlink to Launch Direct-to-Mobile Satellite Service in Botswana](https://techafricanews.com/2026/11/20/btc-starlink-direct-to-mobile-satellite-service-botswana/)** — Tech Africa News, 20 November 2026
+
+Botswana Telecommunications Corporation announced on 20 November 2026 a partnership with Starlink for BTC Satellite, a direct-to-mobile service for compatible phones where terrestrial coverage is limited. No launch date, pricing or supported devices had been announced.
 
 </div>
 
@@ -1691,6 +1707,20 @@ Mattel launched commercial 5G in Mauritania on 9 November 2026, starting in Noua
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Universal-access agreement for the far north (Chinguitel)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Chinguitel et l'Autorité de Régulation renouvellent l'accord d'accès universel pour le grand Nord mauritanien](https://lequotidien.mr/?p=43393)** — Le Quotidien de Nouakchott, 20 November 2026
+
+Mauritania's regulator ARE and the operator Chinguitel renewed their universal-access agreement for the far north on 19 November 2026. It covers the Zouerate, Bir Moghrein and Ain Ben Tili border axis. The terms and duration have not been published.
+
+</div>
+
+</div>
+
 ## Mauritius
 
 <div class="monthly-story" markdown="1">
@@ -1721,6 +1751,21 @@ Morocco's digital transition minister Ahmed Rahhou spoke to the House of Represe
 
 </div>
 
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile and internet subscriptions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Morocco’s mobile subscriptions reach 61.66 million by end of September 2026](https://en.hespress.com/149548-moroccos-mobile-subscriptions-reach-61-66-million-by-end-of-september-2026.html)** — Hespress, 20 November 2026
+
+Morocco had 61.66 million mobile subscriptions and 44.3 million internet subscriptions at the end of September 2026, according to ANRT data reported on 20 November 2026. Mobile penetration stood at 165.5%, against 166% a year earlier. Fibre to the home rose 27.2% in a year to 1.65 million, and ADSL fell to 1.30 million.
+
+</div>
 
 </div>
 
@@ -2759,6 +2804,22 @@ Savanna Telecom announced plans on 17 November 2026 for one million more fibre h
 **[Fibre à domicile : l’ARCEP prépare une carte pour comparer les opérateurs](https://www.togofirst.com/fr/telecoms/2710-20458-fibre-a-domicile-l-arcep-prepare-une-carte-pour-comparer-les-operateurs)** — Togo First, 27 October 2026
 
 Togo's regulator ARCEP opened a tender, number 004/ARCEP/PRMP/2026 of 25 September 2026, for a public portal mapping home fibre networks. Users could compare operators' coverage, speeds and service quality by locality and report faults on the map. Bids are due 30 October 2026, the contract is estimated at FCFA 250 million, and delivery is set within 240 days.
+
+</div>
+
+</div>
+
+## Tunisia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Retirement of the copper fixed network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[سفيان الهميسي: 76 مليون دينار لتوسيع تغطية الاتصالات والتخلي عن الشبكة النحاسية قبل 2027](https://www.alchourouk.com/article/%D8%B3%D9%81%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%87%D9%85%D9%8A%D8%B3%D9%8A-76-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%84%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D8%AA%D8%BA%D8%B7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D8%AD%D8%A7%D8%B3%D9%8A%D8%A9-%D9%82%D8%A8%D9%84-2027)** — جريدة الشروق التونسية, 19 November 2026
+
+Tunisia's communication technologies minister told parliament on 19 November 2026 that TND 76 million from the ICT development fund will extend coverage. It targets areas outside operators' licence obligations, under a contract with Tunisie Telecom. The copper network is to be abandoned before December 2027. Population coverage exceeds 90% (2026). The 2027 finance bill exempts some satellite-internet equipment from customs duties.
 
 </div>
 

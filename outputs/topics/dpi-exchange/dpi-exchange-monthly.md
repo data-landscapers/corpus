@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: dpi.exchange
 places: DZA; AGO; BEN; BFA; BDI; CMR; CIV; COD; EGY; GAB; GIN; GNB; KEN; LSO; MLI; MRT; MOZ; NAM; NGA; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6a8912cb0367
+record: bb144d123173
 ---
 
 # News, Oct – Nov 2026
@@ -790,6 +790,20 @@ Uganda's National Identification and Registration Authority announced on 1 Octob
 **[Digital overhaul targets fraud in Sh3.5bn cross-border motor insurance market](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538)** — Business Daily (Nation Media Group), 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 COMESA's Yellow Card cross-border motor insurance scheme is piloting online sale of cover in Zambia in 2026 and expanding phone-based certificate verification, now used in eight countries, through data sharing between members, Business Daily reported on 13 October 2026. The scheme issued more than 340,000 cards in 2025, worth about US$27 million (Sh3.5 billion) in premiums.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa Accelerator for Digital Public Infrastructure (AA4DPI)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Technology to boost Grow Zambia Agenda](https://www.lusakatimes.com/2026/11/20/technology-to-boost-grow-zambia-agenda/)** — Lusaka Times, 20 November 2026
+
+SMART Zambia Institute and the UNDP signed a memorandum of understanding on digital public infrastructure in Lusaka on 20 November 2026. It sits under the Africa Accelerator for DPI. It covers digital identity, payments, data exchange and shared platforms. The UNDP cited digitised timber traceability and Ministry of Agriculture interoperability as work already supported.
 
 </div>
 

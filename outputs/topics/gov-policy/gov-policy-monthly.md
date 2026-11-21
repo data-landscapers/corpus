@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 8e7f88ab0862
+record: 72d227d0a4e7
 ---
 
 # News, Oct – Nov 2026
@@ -1174,6 +1174,20 @@ Tunisia's health and communication technologies ministers signed a National Heal
 **[Poste tunisienne : l’IA et le numérique au cœur de la stratégie 2026-2030 - Tunisie Numerique](https://www.tunisienumerique.com/poste-tunisienne-lia-et-le-numerique-au-coeur-de-la-strategie-2026-2030/)** — Tunisie Numerique, 9 October 2026
 
 Tunisia's communications minister, Sofiene Hemissi, said on 9 October 2026 that La Poste tunisienne's 2026-2030 strategy will integrate artificial intelligence and digital identity into postal services. Its chief executive listed five priorities, including financial inclusion and e-commerce logistics, and an enterprise resource planning rollout under way. The minister ruled out turning the Post into a bank.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National e-commerce strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[مدير تنمية التجارة الإلكترونية والاقتصاد اللامادي بوزارة التجارة لـ«الصباح»: الاستراتيجية الوطنية للتجارة الإلكترونية ستكون جاهزة في مارس 2027](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/1122969-%D9%85%D8%AF%D9%8A%D8%B1-%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A7/)** — الصباح نيوز, 19 November 2026
+
+The trade ministry's e-commerce director said the consultancy work on Tunisia's national e-commerce strategy is due in March 2027. A ministerial council is to adopt the strategy in May 2027. National consultations set seven axes, including the legal framework, digital trust, cross-border trade and the AfCFTA digital trade protocol.
 
 </div>
 

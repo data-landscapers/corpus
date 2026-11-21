@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: gov.discourse
 places: DZA; AGO; CIV; EGY; ETH; GAB; GHA; MWI; NGA; SEN; TUN; ZMB; ZWE
-record: 075f7cc8bf9c
+record: 7c3bb40e95be
 ---
 
 # News, Oct – Nov 2026
@@ -214,6 +214,20 @@ Malawi launched its 2026-2029 Open Government Partnership National Action Plan i
 **[NAIGF inaugurates advisory council to guide responsible AI in Nigeria](https://aigovernanceafrica.com/naigf-inaugurates-advisory-council-to-guide-responsible-ai-in-nigeria/)** — AI Governance Africa, 27 October 2026
 
 The Nigeria AI Governance Forum inaugurated a 15-member advisory council chaired by Olusola Teniola, it was reported on 27 October 2026. The council will give policy advice in support of the national AI strategy. It is not a regulator, and its recommendations have no legal force.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Code of conduct for independent tabulation of election results</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INEC backs code for independent tabulation of 2027 election results](https://www.vanguardngr.com/2026/11/inec-backs-code-for-independent-tabulation-of-2027-election-results/)** — Vanguard, 19 November 2026
+
+The Independent National Electoral Commission endorsed a voluntary code of conduct for independent tabulation of 2027 election results. It did so at a Yiaga Africa roundtable in Abuja on 19 November 2026. The code sets six principles, including data security and error accountability. Independent tallies must not be presented as official results.
 
 </div>
 

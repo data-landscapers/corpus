@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: digital.localgov
 places: BEN; BDI; CMR; CPV; TCD; COD; EGY; ETH; GAB; KEN; MLI; MAR; NGA; ZAF; SSD; SDN; TZA
-record: 45f089e4c0d1
+record: 5d2565207259
 ---
 
 # News, Oct – Nov 2026
@@ -206,6 +206,14 @@ Maniema province in the DRC began a digitalised census of plots in Kindu on 9 No
 **[Kinshasa : les « Wewa » entrent dans le fichier biométrique, clients y compris](https://rdc-monde.com/kinshasa-les-wewa-entrent-dans-le-fichier-biometrique-clients-y-compris/)** — Magazine RD CONGO-MONDE, 17 November 2026
 
 The city of Kinshasa began biometric identification of all professional motorcyclists on 16 November 2026. Taxi-moto riders, couriers and company riders must hold a biometric card and an identification vest. When a moratorium ends, on a date not yet set, police are to sanction unregistered riders and their passengers, and registered riders gain access to accident insurance.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Courtoisie routière à Kinshasa : Bumba apaise les « wewa » avec une trêve jusqu’en janvier 2027, Kantu chargé de traquer les tracasseries](https://rdc-monde.com/courtoisie-routiere-a-kinshasa-bumba-apaise-les-wewa-avec-une-treve-jusquen-janvier-2027-kantu-charge-de-traquer-les-tracasseries/)** — Magazine RD CONGO-MONDE, 19 November 2026
+
+On 18 November 2026 Kinshasa governor Daniel Bumba granted motorcycle-taxi riders a road-tolerance period until January 2027 while keeping their digital identification in place. Riders had raised its modalities, costs and abuses at checks. A joint commission under police commissioner Israël Kantu will examine complaints of road harassment.
 
 </div>
 

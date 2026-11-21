@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: gov.regional
-places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 20db75538a50
+places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
+record: 200f589f6c75
 ---
 
 # News, Oct – Nov 2026
@@ -47,6 +47,8 @@ record: 20db75538a50
 <a href="#mali">Mali</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -844,6 +846,22 @@ AFRINIC's receiver served a notice on Mauritius's Registrar of Companies on 29 O
 **[Cloud Innovation Statement on AFRINIC Member Rights](https://cloudinnovation.org/newsroom/afrinic-must-respect-members-rights/)** — Cloud Innovation, 1 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Cloud Innovation rejected AFRINIC's demand, made through the receiver's notice of 29 October 2026, to remove it from the company register. It cites a Mauritius Supreme Court order of 11 June 2025 directing AFRINIC to record it as a member. It asks that every resource member be entered in the register with the rights company law gives members.
+
+</div>
+
+</div>
+
+## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Morocco-France declaration of intent on cybercrime</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Maroc et la France associent leurs efforts contre la criminalité numérique](https://www.wearetech.africa/fr/fils/actualites/tech/le-maroc-et-la-france-associent-leurs-efforts-contre-la-criminalite-numerique)** — wearetech.africa, 20 November 2026
+
+Morocco's public prosecution authority and France's Justice Ministry signed a declaration of intent in Rabat on 19 November 2026. It extends their judicial cooperation to cybercrime and AI in criminal investigations, with information exchange, magistrate training and shared infrastructure for secure data exchange. Cited DGSN data put Moroccan cybercrime cases at 8,333 in 2024, against 5,969 in 2023.
 
 </div>
 

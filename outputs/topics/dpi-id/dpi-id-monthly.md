@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; COM; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: ab9215b5292d
+record: 69f4181dcc01
 ---
 
 # News, Oct – Nov 2026
@@ -1109,6 +1109,20 @@ Nigeria's aviation ministry unveiled the V-Pass facial-verification system, link
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Passport Booklet Manufacturing Centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria targets May for local passport production](https://www.vanguardngr.com/2026/11/nigeria-targets-may-for-local-passport-production/)** — Vanguard, 20 November 2026
+
+Nigeria broke ground on a National Passport Booklet Manufacturing Centre in Abuja on 20 November 2026. The vendor Iris Smart is financing the plant, at about $70m, with no government money. The interior minister said it would make 6 million e-passport booklets a year from May 2027, against national demand of 1.8 to 2 million, and serve ECOWAS.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -1335,6 +1349,14 @@ South Africa's inter-ministerial committee on migration said on 26 October 2026 
 **[South Africa plans biometric asylum registration, tighter digital border controls](https://www.biometricupdate.com/202610/south-africa-plans-biometric-asylum-registration-tighter-digital-border-controls)** — Biometric Update, 28 October 2026
 
 South Africa's Department of Home Affairs plans an online booking system for asylum seekers by 10 November 2026. It will collect biometric and identity data. The step follows a July Constitutional Court ruling that struck down Refugees Act barriers to asylum procedures. The government is also building electronic border systems and weighing stricter SIM registration for foreign nationals.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government working on legislation to deactivate some phones in SA](https://www.citizen.co.za/news/kubayi-says-legislation-to-deactivate-some-phones-in-sa/)** — The Citizen, 19 November 2026
+
+South Africa's Inter-Ministerial Committee on Migration said on 19 November 2026 that legislation is coming to deactivate untraceable basic phones. Mobile operators have until the end of November 2026 to bring SIM registration into RICA compliance. The committee also named a cap on SIMs registered per person and enforcement through Operation Shanela.
 
 </div>
 

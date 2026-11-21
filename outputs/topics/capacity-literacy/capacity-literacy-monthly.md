@@ -1,10 +1,10 @@
 ---
 title: Literacy — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: capacity.literacy
-places: AGO; CPV; CIV; COD; EGY; GMB; GHA; GIN; MLI; MAR; NAM; NGA; RWA; SYC; SSD; SDN; TGO; TUN; UGA
-record: 3cd10fd45723
+places: AGO; CPV; CIV; COD; EGY; GMB; GHA; GIN; LBR; MLI; MAR; NAM; NGA; RWA; SYC; SSD; SDN; TGO; TUN; UGA
+record: 4dac961709ea
 ---
 
 # News, Oct – Nov 2026
@@ -25,6 +25,8 @@ record: 3cd10fd45723
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#guinea">Guinea</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mali">Mali</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -172,6 +174,22 @@ Ghana's Cyber Security Authority opened the 2026 National Cyber Security Awarene
 **[Renforcement des capacités à l'usage du numérique : l'ANSUTEN lance la quatrième édition du programme R-CUN](https://horoya.net/2026/10/07/renforcement-des-capacites-a-lusage-du-numerique-lansuten-lance-la-quatrieme-edition-du-programme-r-cun/)** — Journal Horoya, 7 October 2026
 
 Guinea's universal service agency ANSUTEN launched the fourth edition of its digital skills programme, R-CUN, on 7 October 2026. Its director general said more than 3,200 people had been trained since 2022, about 40% of them women. He also cited 80 professional ICT certifications and nearly 2,000 computer kits distributed.
+
+</div>
+
+</div>
+
+## Liberia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Elementary-school financial literacy curriculum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CBL Outlines Four Priorities to Transform Liberia’s Digital Payment System](https://www.liberianobserver.com/business/cbl-outlines-four-priorities-to-transform-liberia-s-digital-payment-system/article_39f669bb-c385-4c6e-a854-e9f6581fc1e6.html)** — Liberian Observer, 20 November 2026
+
+Central Bank of Liberia Governor Henry Saamoi set four priorities for the Pay Na-Na payment platform for the next 12 months, at a panel on 19 November 2026. They are onboarding banks and fintechs, interoperability, merchant payments and wider adoption through lower person-to-person charges. A financial-literacy curriculum is being developed with the Ministry of Education.
 
 </div>
 

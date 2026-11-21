@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
-record: aa2ea026a393
+record: 6a955dcf6618
 ---
 
 # News, Oct – Nov 2026
@@ -768,6 +768,20 @@ A Ghanaian science ministry official said at the Africa Geospatial Leadership Fo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistical Service Act 2019 (Act 1003)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Forum urges government to expedite Statistics Bill and National Statistics Fund](https://www.graphic.com.gh/business/business-news/data-forum-urges-government-to-expedite-statistics-bill-and-national-statistics-fund.html)** — Graphic Online, 20 November 2026
+
+Ghana's Annual Forum for Data Producers, Users and Enhancers met in Accra on 17 November 2026. It urged the government to speed up the Statistics Bill and a National Statistics Fund. Three of nine priority actions agreed in 2025 are in place and six are in progress. Ministries and local assemblies were asked to set budget lines for statistics.
+
+</div>
+
+</div>
+
 ## Guinea
 
 <div class="monthly-story" markdown="1">
@@ -779,6 +793,14 @@ A Ghanaian science ministry official said at the Africa Geospatial Leadership Fo
 **[Signature électronique de l’État : la Guinée accélère sa marche vers le zéro papier et la souveraineté numérique](https://guineenews.org/2026/10/21/signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier-et-la-souverainete-numerique/)** — Guinéenews, 21 October 2026
 
 Guinea opened a workshop in Conakry on 21 October 2026 to review nine draft regulations on the state's electronic signature, following an implementing decree adopted on 19 August 2026. The justice ministry is adapting procedure texts to bring e-signatures into a future procedure code, and the digital agency ANDE is building the public-key infrastructure behind them.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Confiance numérique en Guinée : après quatre jours de travaux, une feuille de route élaborée pour l’opérationnalisation de la signature électronique](https://mediaguinee.com/2026/11/confiance-numerique-en-guinee-apres-quatre-jours-de-travaux-une-feuille-de-route-elaboree-pour-loperationnalisation-de-la-signature-electronique/)** — Mediaguinee, 20 November 2026
+
+Guinea's digital agency ANDE closed a four-day review of the national digital-trust framework on 20 November 2026. It announced a two-month mission to draft a three-year roadmap and a 100-day action plan on electronic signature, time-stamping and archiving. The facilitator reported no major flaws in the PKI and e-signature platforms and recommended a pilot.
 
 </div>
 

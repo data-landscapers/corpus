@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 subject: tech.innovate
 places: DZA; AGO; BEN; BFA; BDI; CAF; CIV; COD; EGY; SWZ; ETH; GMB; GHA; KEN; MWI; MRT; MUS; MAR; NAM; NGA; SEN; SLE; ZAF; SSD; TZA; TUN; ZWE
-record: 69c407c18561
+record: 9d9e0cae25f9
 ---
 
 # News, Oct – Nov 2026
@@ -597,6 +597,20 @@ BusinessDay reported on 18 November 2026 commentary urging Nigeria to learn from
 **[AIMS Jëmmal Incubator : la première cohorte franchit la ligne d'arrivée](https://aims-senegal.org/aims-jemmal-incubator-la-premiere-cohorte-franchit-la-ligne-darrivee/)** — AIMS Sénégal, 1 November 2026
 
 The AIMS Jëmmal Incubator at the AIMS campus in Dakar closed its first cohort on 30 October 2026. Thirteen startups from seven sectors, including agritech, health, education and finance, took their projects from idea to prototype between March and September. The cohort ended with a demo day for the public and partners.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital technology park at Diamniadio</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Diamniadio : la BAD fâchée par le projet de Parc des technologies numériques](https://www.seneweb.com/fr/news/Economie/diamniadio-la-bad-fachee-par-le-projet-de-parc-des-technologies-numeriques_n_999004173.html)** — Seneweb, 20 November 2026
+
+The African Development Bank rated Senegal's Diamniadio Digital Technology Park unsatisfactory in a report dated 10 November 2026, according to Libération via Seneweb. It puts works at 86.4% complete across the four main contracts. The training centre is about 55% complete, and delivery of the data centre's IT equipment is unconfirmed.
 
 </div>
 
