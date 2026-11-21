@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-25-addis-standard-unhcr-refugee-children-unregistered",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "UNHCR reports that only 12 percent of 576,000 refugee children in Ethiopia were registered in the vital registration system as of August 2024.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Vital registration system",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The Refugees and Returnees Service previously announced an initiative to issue refugees and asylum seekers digital ID cards carrying a Fayda number from the National ID Program.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Fayda (National ID Program)",
+   "class": "other",
+   "platform": "",
+   "owner": "National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

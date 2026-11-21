@@ -1573,10 +1573,10 @@ ERI,40,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-a
 ERI,41,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 ERI,42,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
 ERI,43,2020-03-01-gsma-access-to-mobile-services-proof-of-identity-2020,2026-11-17,instrument,2026-11-17
-ETH,152,2024-10-25-addis-standard-unhcr-refugee-children-unregistered,2026-11-17,,
+ETH,152,2024-10-25-addis-standard-unhcr-refugee-children-unregistered,2026-11-17,fact,2026-11-21
 ETH,153,2017-11-29-unhcr-ethiopia-biometric-refugee-registration-bims,2026-11-17,old,2026-11-17
-ETH,154,2024-03-25-capital-addressing-digital-id-gap-among-idps,2026-11-17,,
-ETH,155,2024-01-12-biometric-update-ethiopia-digital-id-wb-private-sector,2026-11-17,,
+ETH,154,2024-03-25-capital-addressing-digital-id-gap-among-idps,2026-11-17,fact,2026-11-21
+ETH,155,2024-01-12-biometric-update-ethiopia-digital-id-wb-private-sector,2026-11-17,nothing,2026-11-21
 ETH,156,2019-08-28-civicus-ethiopia-ethnic-clashes-internet-blackouts,2026-11-17,old,2026-11-17
 ETH,157,2026-11-16-bloomsbury-biometric-digital-id-ch08-ethiopia-beny,2026-11-17,instrument,2026-11-17
 ETH,158,2026-11-16-bloomsbury-biometric-digital-id-ch11-conclusions-sesan-roberts,2026-11-17,instrument,2026-11-17
@@ -1663,7 +1663,7 @@ GNQ,27,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-a
 GNQ,28,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-africa,2026-11-17,instrument,2026-11-17
 GNQ,29,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
 GNQ,30,2020-03-01-gsma-access-to-mobile-services-proof-of-identity-2020,2026-11-17,instrument,2026-11-17
-KEN,152,2025-04-21-advox-digital-id-africa-inclusion-or-privacy-threat,2026-11-17,,
+KEN,152,2025-04-21-advox-digital-id-africa-inclusion-or-privacy-threat,2026-11-17,nothing,2026-11-21
 KEN,153,2020-10-16-ken-ln-195-niims-rules-2020,2026-11-17,old,2026-11-17
 KEN,154,2025-08-05-roberts-decolonising-digital-public-infrastructure,2026-11-17,capped,2026-11-17
 KEN,155,2021-11-17-haki-na-sheria-biometric-purgatory-double-registration,2026-11-17,instrument,2026-11-17
@@ -1714,7 +1714,7 @@ LBR,41,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,ins
 LBR,42,2022-06-01-chrgj-paving-digital-road-to-hell,2026-11-17,instrument,2026-11-17
 LBR,43,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
 LBR,44,2020-03-01-gsma-access-to-mobile-services-proof-of-identity-2020,2026-11-17,instrument,2026-11-17
-LBY,55,2024-01-01-lby-community-health-libya-country-brief,2026-11-17,,
+LBY,55,2024-01-01-lby-community-health-libya-country-brief,2026-11-17,nothing,2026-11-21
 LBY,56,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 LBY,57,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 LBY,58,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
@@ -1843,8 +1843,8 @@ NER,95,2022-06-01-chrgj-paving-digital-road-to-hell,2026-11-17,instrument,2026-1
 NER,96,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
 NER,97,2020-03-01-gsma-access-to-mobile-services-proof-of-identity-2020,2026-11-17,instrument,2026-11-17
 NER,98,2015-11-12-valletta-summit-action-plan,2026-11-17,instrument,2026-11-17
-NGA,111,2025-04-21-advox-digital-id-africa-inclusion-or-privacy-threat,2026-11-17,,
-NGA,112,2025-03-25-businessday-diaspora-nin-enrolment-up-308-percent,2026-11-17,,
+NGA,111,2025-04-21-advox-digital-id-africa-inclusion-or-privacy-threat,2026-11-17,nothing,2026-11-21
+NGA,112,2025-03-25-businessday-diaspora-nin-enrolment-up-308-percent,2026-11-17,nothing,2026-11-21
 NGA,113,2023-10-12-world-bank-creating-dpi-empowerment-inclusion-resilience,2026-11-17,old,2026-11-17
 NGA,114,2026-11-16-bloomsbury-biometric-digital-id-ch11-conclusions-sesan-roberts,2026-11-17,instrument,2026-11-17
 NGA,115,2026-01-01-nga-who-nigeria-2025-annual-report,2026-11-17,instrument,2026-11-17
@@ -1868,7 +1868,7 @@ NGA,132,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,in
 NGA,133,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
 NGA,134,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
 NGA,135,2020-03-01-gsma-access-to-mobile-services-proof-of-identity-2020,2026-11-17,instrument,2026-11-17
-RWA,108,2025-04-21-advox-digital-id-africa-inclusion-or-privacy-threat,2026-11-17,,
+RWA,108,2025-04-21-advox-digital-id-africa-inclusion-or-privacy-threat,2026-11-17,nothing,2026-11-21
 RWA,109,2021-11-01-ria-cis-towards-evaluation-socio-digital-id-ecosystems-africa,2026-11-17,instrument,2026-11-17
 RWA,110,2026-11-16-bloomsbury-biometric-digital-id-ch01-introduction-sesan-roberts,2026-11-17,instrument,2026-11-17
 RWA,111,2026-11-16-bloomsbury-biometric-digital-id-ch11-conclusions-sesan-roberts,2026-11-17,instrument,2026-11-17
@@ -1884,7 +1884,7 @@ RWA,120,2022-06-01-chrgj-paving-digital-road-to-hell,2026-11-17,instrument,2026-
 RWA,121,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
 RWA,122,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
 RWA,123,2020-03-01-gsma-access-to-mobile-services-proof-of-identity-2020,2026-11-17,instrument,2026-11-17
-SDN,98,2026-07-29-sdn-suna-health-recovery-plan-endorsed-130-baladna-e-services,2026-11-17,,
+SDN,98,2026-07-29-sdn-suna-health-recovery-plan-endorsed-130-baladna-e-services,2026-11-17,nothing,2026-11-21
 SDN,99,2026-11-16-bloomsbury-biometric-digital-id-ch11-conclusions-sesan-roberts,2026-11-17,instrument,2026-11-17
 SDN,100,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 SDN,101,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -2121,7 +2121,7 @@ RWA,124,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-
 SDN,110,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 SEN,69,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 SLE,56,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-SOM,144,2026-11-17-som-wardheernews-yasin-e-nimes-dashboard-critique,2026-11-18,,
+SOM,144,2026-11-17-som-wardheernews-yasin-e-nimes-dashboard-critique,2026-11-18,nothing,2026-11-21
 SOM,145,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 SSD,131,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 SWZ,62,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18

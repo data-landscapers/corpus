@@ -1,0 +1,46 @@
+{
+ "slug": "2024-03-25-capital-addressing-digital-id-gap-among-idps",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "Ethiopia's National ID programme policy advisor said about 8,000 displaced people in West Wolega had been registered and given IDs in a pilot, out of an estimated 4.4 million internally displaced.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Fayda pilot for IDPs",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Displaced people in Ethiopia are being enrolled in the national digital ID through a pilot with humanitarian organisations, and the government with UNHCR is extending digital identification services to refugees and asylum seekers.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Capital newspaper reports about 8,000 of an estimated 4.4 million internally displaced people in Ethiopia had received a pilot digital ID.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
