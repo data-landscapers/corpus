@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: LBR
-ledger_rows: 31
+ledger_rows: 32
 not_held: 6
-record: a4a2e956c43f
+record: eba3229aef75
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: a4a2e956c43f
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -497,6 +499,28 @@ Liberia's Consulate General in New York now takes online payment through its web
 **[MME Trains, Certifies Geologists, Mining Consultancy Firms on Licensing Procedures](https://www.liberianobserver.com/news/mme-trains-certifies-geologists-mining-consultancy-firms-on-licensing-procedures/article_0216311d-d201-42e2-b3c4-c0080794ab97.html)** — Liberian Observer, 16 November 2026
 
 The Ministry of Mines and Energy says its online mining licence and permit system is fully operational. It trained and certified geologists and consultancy firms on the platform. The training also covered the Revenue Authority's online payment system.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+</nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Elementary-school financial literacy curriculum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CBL Outlines Four Priorities to Transform Liberia’s Digital Payment System](https://www.liberianobserver.com/business/cbl-outlines-four-priorities-to-transform-liberia-s-digital-payment-system/article_39f669bb-c385-4c6e-a854-e9f6581fc1e6.html)** — Liberian Observer, 20 November 2026
+
+Central Bank of Liberia Governor Henry Saamoi set four priorities for the Pay Na-Na payment platform for the next 12 months, at a panel on 19 November 2026. They are onboarding banks and fintechs, interoperability, merchant payments and wider adoption through lower person-to-person charges. A financial-literacy curriculum is being developed with the Ministry of Education.
 
 </div>
 
