@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 TGO,customs,system,coverage,inservice,2025-09-12,TGO-001;TGO-002,TGO-003=underway,
-TGO,customs,window,coverage,,,,,nothing found
+TGO,customs,window,coverage,window,2026-10-14,TGO-006;TGO-007;TGO-008,,
 TGO,customs,exchange,coverage,exchange,2026-10-29,TGO-004;TGO-005,,

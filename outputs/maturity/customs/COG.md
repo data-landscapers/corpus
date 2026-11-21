@@ -2,7 +2,7 @@
 
 ## Customs
 
-**Automated customs.** [From 3 August 2026 importers in Congo declare on Sydonia and pay customs duties online through Fouta, L'Economie reported](<https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/>). [Declaration, payment and receipt take under five minutes, said ministry IT director Elenga Ngaporo Okina](<https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/>).
+**Automated customs.** [From 3 August 2026 importers in Congo declare on Sydonia and pay customs duties online through Fouta, L'Economie reported](<https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/>). [Declaration, payment and receipt take under five minutes, said ministry IT director Elenga Ngaporo Okina](<https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/>). [FCFA 13 billion of duties and taxes was collected through Sydonia](<https://ecomatin.net/congo-107-milliards-fcfa-de-recettes-publiques-collectes-par-la-nouvelle-plateforme-de-paiement>) between June and mid-November 2026, the finance ministry says.
 
 **Single window.** [In July 2025 the finance ministry said the Guichet unique des operations transfrontalieres (GUOT) has 78 staff](<https://www.finances.gouv.cg/fr/articles/visite-du-guichet-unique-des-op%C3%A9rations-transfrontali%C3%A8res-guot>). [It provides IT services for data exchange in dematerialised foreign-trade procedures](<https://www.finances.gouv.cg/fr/articles/visite-du-guichet-unique-des-op%C3%A9rations-transfrontali%C3%A8res-guot>). [It makes all trade actors' systems interoperable across ports, airports and land borders](<https://www.finances.gouv.cg/fr/articles/visite-du-guichet-unique-des-op%C3%A9rations-transfrontali%C3%A8res-guot>).
 

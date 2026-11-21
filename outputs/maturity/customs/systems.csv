@@ -28,6 +28,7 @@ BEN,Customs Webb,Benin,customs,Webb Fontaine,Benin customs,,2025-01-31-ben-proje
 BEN,SIGMAT,SIGMAT,customs,,ECOWAS,,2026-10-30-lbr-ecowas-parliament-calls-for-expansion-of-sigmat-across-west-africa-cit
 BEN,SIGMAT,Benin,customs,,ECOWAS / Benin Directorate General of Customs,,2026-11-11-xwa-ecowas-etls-task-force-third-group-inaugural-meeting-cotonou
 BEN,GUCE,Benin,other,,,,2026-11-12-ben-transit-transport-digitalisation-quatre-chantiers
+BEN,SIGMAT national node,SIGMAT,customs,ECOWAS SIGMAT,Benin Customs Administration,,2026-11-17-tma-benin-digital-backbone-customs-servers-handover
 BFA,Sydonia World,Burkina Faso,customs,ASYCUDA World,Direction generale des douanes,,2018-05-16-bfa-otr-togo-burkina-transit-interconnection
 BFA,Sydonia World,Burkina Faso,customs,ASYCUDA World,Direction generale des douanes,,2019-11-25-bfa-economistefaso-sydonia-world-online
 BFA,Sylvie 2,Burkina Faso,customs,,Direction generale des douanes / SOGESY,,2025-02-18-bfa-jumelages-sylvie-2-launch
@@ -63,6 +64,7 @@ CIV,GUCE CI portal,Cote d'Ivoire,customs,,GUCE CI,,2024-07-30-civ-innovation-et-
 CIV,SIGMAT,Systeme Interconnecte de Gestion des Marchandises en Transit,customs,,,,2026-09-01-mli-cooperation-bilaterale-la-cote-d-ivoire-et-le-mali-ont-evalue-la-mise
 CIV,SIGMAT,SIGMAT,customs,,ECOWAS,,2026-10-30-lbr-ecowas-parliament-calls-for-expansion-of-sigmat-across-west-africa-cit
 CIV,GUCE Côte d'Ivoire / Guce mobile,Côte d'Ivoire,customs,web and mobile,"GUCE Côte d'Ivoire, state company",,2024-07-26-civ-amelioration-des-systemes-d-information-l-application-guce-mobile-du-c
+CIV,GUCE CI,GUCE CI,customs,,,,2026-11-19-cote-d-ivoire-aip-commerce-exterieur-le-gouvernement-digitalise-la-delivrance-des
 CMR,Guce (Guichet unique des opérations du commerce extérieur),Cameroon,customs,,,,2026-07-30-cameroon-audit-chamber-forests-mines-customs-single-window-do-not-interoperate
 CMR,CAMCIS,Cameroon,customs,CAMCIS,Cameroon Customs,,2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia
 CMR,SIGMAT,Cameroon,other,,CEMAC,,2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia
@@ -91,6 +93,8 @@ COG,Sydonia,Sydonia,customs,,"Ministere des Finances, du Budget et du Portefeuil
 COG,Fouta,Fouta national switch,other,,"Ministere des Finances, du Budget et du Portefeuille public",,2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne
 COG,Guichet unique des operations transfrontalieres (GUOT),Congo,customs,,"Ministere des finances, du budget et du portefeuille public",,2025-07-04-cog-visite-du-guichet-unique-des-operations-transfrontalieres-guot
 COG,SYDONIA,Congo,other,,,,2025-10-23-cog-relance-des-operations-de-production-de-la-carte-niu
+COG,Sydonia,Sydonia,customs,Sydonia,customs administration,,2026-11-18-cog-congo-107-milliards-fcfa-de-recettes-publiques-collect-es-par-la-nouve
+COG,SYDONIA,Congo,customs,,,,2026-11-17-cog-questions-orales-avec-debat-a-l-assemblee-nationale-fouta
 COM,SYDONIA World,Comoros,customs,ASYCUDA World,Direction Generale des Douanes,national,2026-06-11-com-dgd-modernisation-sydonia-world-guichet-unique
 COM,Guichet Unique du Commerce Exterieur,Comoros,customs,,Direction Generale des Douanes,national,2026-06-11-com-dgd-modernisation-sydonia-world-guichet-unique
 COM,SYDONIA,Comoros,customs,,Direction generale des douanes,,2024-01-02-com-gazette-interconnexion-sigit-sydonia
@@ -108,6 +112,7 @@ CPV,SIGMAT,Cabo Verde,customs,ECOWAS,ECOWAS Commission,,2024-11-27-cpv-direcao-g
 CPV,Plataforma do Comercio Externo,Foreign Trade Portal (launched 17 November 2023),other,,Government of Cabo Verde,,2023-11-18-cpv-o-desenvolvimento-da-plataforma-do-comercio-externo-representa-o-cumpr
 DJI,Sydonia World,Djibouti,customs,Sydonia World,DGDDI,,2025-02-01-dji-dgddi-plan-strategique-2025-2029
 DJI,SYDONIAWorld,Djibouti,customs,ASYCUDA,Direction Générale des Douanes et Droits Indirects,,2025-08-31-dji-module-de-prepaiement
+DJI,DPCS,Djibouti Port Community Systems,customs,port community system and Maritime Single Window,Autorite des Ports et des Zones Franches de Djibouti (DPFZA),,2026-11-16-dji-lanation-dpcs-world-bank-port-digitalisation-course
 DZA,Sigad,Algeria,customs,,Douanes algeriennes,,2026-09-10-dza-elwatan-tebboune-guichet-unique-numerisation
 DZA,guichet electronique unique for foreign-trade authorisations,Algeria,other,,Douanes algeriennes,,2026-09-10-dza-elwatan-tebboune-guichet-unique-numerisation
 DZA,AAPI investment guichet unique,Algeria,other,,AAPI,,2026-09-10-dza-elwatan-tebboune-guichet-unique-numerisation
@@ -384,6 +389,10 @@ TGO,SYDONIA,Togo,customs,SYDONIA,OTR,,2025-09-12-togo-otr-avis-013-2025-champ-bl
 TGO,SIGMAT,Togo,customs,,ECOWAS,,2026-08-14-togo-ghana-ecowas-enbic-sigmat-border-interoperability
 TGO,SYDONIA World,Togo,customs,ASYCUDA World,Office Togolais des Recettes,,2025-03-06-tgo-avis-aux-operateurs-economiques-n-004-2025-relatif-a-l-interconnexion
 TGO,SIGMAT,SIGMAT,customs,,ECOWAS,,2026-10-30-lbr-ecowas-parliament-calls-for-expansion-of-sigmat-across-west-africa-cit
+TGO,Port Community System (PCS),Togo,customs,,Ministry of Maritime Economy,,2026-11-19-tgo-port-de-lom-un-nouveau-guichet-num-rique-va-remplacer-les-plateformes-
+TGO,GUCE,GUCE,customs,,,,2026-10-28-tgo-arrete-011-pcs-guce-guford-port-lome
+TGO,GUFORD,GUFORD,other,,Port Autonome de Lomé,,2026-10-28-tgo-arrete-011-pcs-guce-guford-port-lome
+TGO,Port Community System,PCS,other,,,,2026-10-28-tgo-arrete-011-pcs-guce-guford-port-lome
 TUN,nouveau système d'information douanier,Tunisie,customs,,Ministry of Finance / Customs,,2023-02-17-tun-decret-2023-160-ugpo-systeme-douanier
 TUN,SINDA 2,Tunisia,customs,,Tunisian Customs,,2025-11-12-tun-lapresse-sinda-2-operationnel-2026
 TZA,Zanzibar Single Window System,Tanzania (Zanzibar),customs,,Tanzania Revenue Authority,Zanzibar,2026-06-05-tra-zanzibar-single-window-launch

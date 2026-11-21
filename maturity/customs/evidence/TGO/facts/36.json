@@ -1,0 +1,42 @@
+{
+ "slug": "2026-10-28-tgo-arrete-011-pcs-guce-guford-port-lome",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "Interministerial order 011 of 14 October 2026 treats the GUCE foreign-trade single window as Togo's current principal system for goods formalities, with the GUFORD maritime single window beside it, until a Port Community System replaces both.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "GUCE",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GUCE",
+   "country_label": "GUCE",
+   "class": "customs",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "GUFORD",
+   "country_label": "GUFORD",
+   "class": "other",
+   "platform": "",
+   "owner": "Port Autonome de Lomé",
+   "tiers": ""
+  },
+  {
+   "system": "Port Community System",
+   "country_label": "PCS",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

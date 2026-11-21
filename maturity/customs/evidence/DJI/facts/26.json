@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-dji-lanation-dpcs-world-bank-port-digitalisation-course",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "La Nation, relaying a World Bank course case study, says Djibouti Port Community Systems combines a port community system and a Maritime Single Window in one platform linking port authorities, customs services, terminal operators, shipping lines, forwarders, free zones and hauliers, set up on a 2017 presidential instruction to the DPFZA for a single electronic platform for foreign trade formalities.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Djibouti Port Community Systems (DPCS)",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DPCS",
+   "country_label": "Djibouti Port Community Systems",
+   "class": "customs",
+   "platform": "port community system and Maritime Single Window",
+   "owner": "Autorite des Ports et des Zones Franches de Djibouti (DPFZA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

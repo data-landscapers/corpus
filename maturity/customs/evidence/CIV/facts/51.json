@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-cote-d-ivoire-aip-commerce-exterieur-le-gouvernement-digitalise-la-delivrance-des",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "AIP reports that on 19 November 2026 the trade ministry launched online issuance of prior export authorisations for food crops on the GUCE CI foreign-trade single window, processed by the OCPV and the Directorate of Trade Regulation.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "GUCE CI",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GUCE CI",
+   "country_label": "GUCE CI",
+   "class": "customs",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-cog-congo-107-milliards-fcfa-de-recettes-publiques-collect-es-par-la-nouve",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Finance Ministry says Sydonia is the software customs uses to clear goods and collect duties and taxes, and 13 billion FCFA was collected through it via Fouta from 1 June to 16 November 2026.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Sydonia",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sydonia",
+   "country_label": "Sydonia",
+   "class": "customs",
+   "platform": "Sydonia",
+   "owner": "customs administration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
