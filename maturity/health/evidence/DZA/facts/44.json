@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-14-dza-des-le-15-novembre-annaba-passe-au-dossier-medical-electronique",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "A training day was held for medical, paramedical and administrative staff of the El Bouni primary-care facility in Annaba ahead of the electronic medical record going live on 15 November 2026, with training running to 13 November.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "dossier medical electronique (DME)",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "dossier medical electronique (DME)",
+   "country_label": "Algeria",
+   "class": "emr",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

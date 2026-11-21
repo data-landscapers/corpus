@@ -1,0 +1,36 @@
+{
+ "slug": "2024-11-04-mwi-data-for-the-people-digital-health-in-malawi",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "digitised",
+   "value": "point-of-care",
+   "fact": "EGPAF reports that Mchinji Health Center now uses an electronic medical record system that clinicians log into at the point of care, having used paper folders until 2019.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Malawi EMRS",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "tiers",
+   "value": "T3",
+   "fact": "EGPAF reports that Mchinji Health Center, a health centre, records patient care in an electronic medical record system connected to a laboratory information management system.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Malawi EMRS",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi EMRS",
+   "country_label": "Malawi",
+   "class": "emr",
+   "platform": "Baobab Health open platform",
+   "owner": "Ministry of Health, implemented by EGPAF",
+   "tiers": "T3"
+  }
+ ],
+ "note": ""
+}

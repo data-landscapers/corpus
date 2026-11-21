@@ -1,0 +1,36 @@
+{
+ "slug": "2024-11-01-civ-vers-une-adoption-optimale-de-la-solution-dpi-une-nouvelle-dynamique-c",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The ministry's Directorate of IT and Digital Health (DISD) is rolling out the computerised patient record (DPI), operational in 35 health establishments with 68 targeted by end-2024.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Dossier Patient Informatisé (DPI)",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "The DPI roll-out is financed with the support of the World Bank health projects coordination unit (UCPS-BM).",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Dossier Patient Informatisé (DPI)",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dossier Patient Informatisé (DPI)",
+   "country_label": "Côte d'Ivoire",
+   "class": "emr",
+   "platform": "",
+   "owner": "DISD, Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

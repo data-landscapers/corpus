@@ -1,0 +1,34 @@
+{
+ "slug": "2025-11-01-moz-m-e-system-vulnerabilities-and-steps-towards-resiliency-mozambique",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "The Ministry of Health's M&E adviser says Mozambique's EMR is entirely supported by PEPFAR and extremely vulnerable to funding cuts, and that there is no national adoption of an EMR system.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "PEPFAR-supported EMR",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PEPFAR-supported EMR",
+   "country_label": "PEPFAR-supported EMR",
+   "class": "emr",
+   "platform": "",
+   "owner": "partner",
+   "tiers": ""
+  },
+  {
+   "system": "SIS-MA (national DHIS2)",
+   "country_label": "SIS-MA",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "ministry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

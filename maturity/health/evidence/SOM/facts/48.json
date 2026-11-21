@@ -1,0 +1,34 @@
+{
+ "slug": "2024-01-16-som-somalia-launches-electronic-immunization-registry-in-latest-leap-of-in",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "WHO's regional office reports that Somalia's DHIS2 platform runs on a government-owned server, with the Federal Ministry of Health's HMIS focal point leading its use.",
+   "as_of": "2024-01-16",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Somalia",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Federal Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "electronic immunization registry",
+   "country_label": "Somalia",
+   "class": "tracker",
+   "platform": "DHIS2",
+   "owner": "Federal Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

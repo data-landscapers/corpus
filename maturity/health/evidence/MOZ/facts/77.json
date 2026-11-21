@@ -1,0 +1,42 @@
+{
+ "slug": "2024-06-11-moz-health-information-systems",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "C-Saude says the electronic medical record system SIS-RME is new, with its development led by the Ministry of Health and envisioned for the point of care of all health facilities; C-Saude supplies specialists to the ministry.",
+   "as_of": "2024-06-11",
+   "date_precision": "day",
+   "system": "SIS-RME",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIS-RME",
+   "country_label": "Mozambique",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "EPTS/SESP",
+   "country_label": "Mozambique",
+   "class": "tracker",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": "over 670 health facilities"
+  },
+  {
+   "system": "iDMED",
+   "country_label": "Mozambique",
+   "class": "single-function",
+   "platform": "",
+   "owner": "",
+   "tiers": "over 370 pharmacies"
+  }
+ ],
+ "note": ""
+}

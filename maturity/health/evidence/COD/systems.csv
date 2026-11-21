@@ -58,3 +58,4 @@ COD,Relevé Epidémiologique Hebdomadaire,H- Relevé Epidémiologique Hebdomadai
 COD,"Programme reporting modules (PNLS, PNLT, PNLP sentinel sites, blood bank)",Canevas UNIQUE PNLS 2019; PNLT - Rapport Trimestriel Tuberculose 2019; PNLP CS/HGR Site Sentinelle; Banque de Sang et Transfusion,single-function,DHIS2 data sets,the national programmes,completeness 84% to 100% in Q2 2020,2020-10-12-cod-retro-information-globale-aux-dps-a-lissue-danalyse-des-donnees-du-sni
 COD,DHIS2,RDC,hmis,DHIS2,,T3;T4,2025-06-16-cod-gff-countdown-analyse-donnees-dhis2-2019-2024
 COD,DHIS2,DRC,hmis,DHIS2,Ministry of Health,,2025-10-15-cod-path-snapiform-ai-health-data-reporting
+COD,OpenMRS HIV module (MVP built April-September 2024 with PATH),DRC,tracker,OpenMRS,PATH DRC,,2024-01-01-cod-case-study-using-the-hiv-package-with-path-drc

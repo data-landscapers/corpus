@@ -1,0 +1,36 @@
+{
+ "slug": "2023-12-11-dza-secteur-de-la-sante-la-totale-numerisation-prevue-fin-2023",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "tiers",
+   "value": "T1",
+   "fact": "Le Courrier d'Algerie reports the director of the Oran university hospital (EHU 1er novembre 1954) said the hospital marks ten years since launching its electronic patient record.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "dossier electronique du malade",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "plan:current",
+   "fact": "The ministry of health's director of information systems said a 2024-2028 digitisation plan with 15 axes, including development of the electronic medical record, has been drawn up.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "dossier medical electronique",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "dossier electronique du malade",
+   "country_label": "Oran university hospital electronic patient record",
+   "class": "emr",
+   "platform": "",
+   "owner": "Etablissement hospitalier universitaire 1er novembre 1954, Oran",
+   "tiers": "T1"
+  }
+ ],
+ "note": ""
+}

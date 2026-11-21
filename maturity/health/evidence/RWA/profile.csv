@@ -4,8 +4,8 @@ RWA,hmis,tiers,coverage,T1;T2;T3;T4,2024-06,RWA-024;RWA-025,RWA-002=T3;RWA-030=T
 RWA,hmis,digitised,coverage,facility,2023-12,RWA-026;RWA-029,,
 RWA,hmis,last12,qualifier,,,,,nothing found
 RWA,hmis,clinics,coverage,share:100%,2023-12,RWA-027,RWA-011=count:700,
-RWA,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-04-08,RWA-006;RWA-013;RWA-014,RWA-015=owner:ministry,
-RWA,emr,tiers,coverage,T1;T2;T3,2026-09-28,RWA-003;RWA-022;RWA-034,RWA-019=T2;T3,
+RWA,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-05,RWA-006;RWA-038;RWA-039,RWA-013=finance:donor;RWA-014=plan:current;RWA-015=owner:ministry;RWA-037=owner:partner,
+RWA,emr,tiers,coverage,T1;T2;T3;T4,2026-09-28,RWA-003;RWA-022;RWA-034;RWA-035,RWA-019=T2;T3,
 RWA,emr,digitised,coverage,point-of-care,2026-10-01,RWA-001,,
 RWA,emr,last12,qualifier,advancing,2026-09-28,RWA-005;RWA-023;RWA-032,,
-RWA,emr,clinics,coverage,share:66.7%,2026-09-28,RWA-021,RWA-004=not-published;RWA-033=share:60%;RWA-016=not-published;RWA-018=share:33.0%,
+RWA,emr,clinics,coverage,share:66.7%,2026-09-28,RWA-021,RWA-036=count:126;RWA-004=not-published;RWA-033=share:60%;RWA-016=not-published;RWA-018=share:33.0%,

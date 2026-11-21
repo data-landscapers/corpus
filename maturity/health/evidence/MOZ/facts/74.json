@@ -1,0 +1,46 @@
+{
+ "slug": "2025-07-29-moz-ministry-of-health-and-c-saude-partner-towards-the-development-of-an-i",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "C-Saude says the Ministry of Health's Health Information Department is designing the SIS-RME electronic medical record, with 15 embedded C-Saude specialists under an MoU.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "SIS-RME",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "plan:current",
+   "fact": "C-Saude says it supported the ministry's nationwide Health Information Systems Strategy, which guides digital investments including the SIS-RME.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "SIS-RME",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "C-Saude, PEPFAR's local implementing institution, provides the embedded specialists building the SIS-RME.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "SIS-RME",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIS-RME",
+   "country_label": "Mozambique",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

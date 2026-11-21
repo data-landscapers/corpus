@@ -1,0 +1,46 @@
+{
+ "slug": "2025-10-30-gha-akandoh-okoe-boye-trade-words-over-payment-in-national-e-health-projec",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "tiers",
+   "value": "T1;T2",
+   "fact": "Former health minister Okoe Boye says the Lightwave-built LHIMS covered 461 facilities, including four teaching hospitals, six regional hospitals and 243 district and municipal hospitals; both ministers acknowledge more than 450 facilities digitised.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "LHIMS",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "last12",
+   "value": "regressing",
+   "fact": "Health Minister Akandoh told the Public Accounts Committee on 30 October 2025 that the system had been offline for two weeks, forcing hospitals back to paper records.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "LHIMS",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:vendor",
+   "fact": "Health Minister Akandoh told the committee that the software does not belong to the state and is the contractor's property, which former minister Okoe Boye disputes, saying data ownership rests with Ghana.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "LHIMS",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LHIMS",
+   "country_label": "Ghana",
+   "class": "emr",
+   "platform": "Lightwave e-Healthcare Solutions",
+   "owner": "Ministry of Health (ownership disputed)",
+   "tiers": "T1;T2"
+  }
+ ],
+ "note": ""
+}

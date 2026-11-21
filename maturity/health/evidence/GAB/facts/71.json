@@ -1,0 +1,44 @@
+{
+ "slug": "2025-10-28-gab-identifiant-unique-vers-une-modernisation-numerique-des-soins-au-gabon",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "tiers",
+   "value": "T3",
+   "fact": "L'Union reports that the Glass health centre head says medical (Equinox) and laboratory (Smartlist) modules have been activated there, one of 13 pilot centres, with power cuts sometimes forcing a return to the manual register.",
+   "as_of": "2025-10-28",
+   "date_precision": "day",
+   "system": "Equinox",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "clinics",
+   "value": "pilot",
+   "fact": "L'Union reports 13 pilot health centres identified for the patient-record rollout, some with computers installed, staff trained and modules activated.",
+   "as_of": "2025-10-28",
+   "date_precision": "day",
+   "system": "Equinox",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equinox",
+   "country_label": "Gabon",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": "T3"
+  },
+  {
+   "system": "Smartlist",
+   "country_label": "Gabon",
+   "class": "single-function",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": "T3"
+  }
+ ],
+ "note": ""
+}

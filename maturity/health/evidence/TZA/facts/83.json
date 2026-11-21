@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-01-tza-health-facility-level-digitalization",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "digitised",
+   "value": "facility",
+   "fact": "A HISP Tanzania and University of Oslo action-research paper says that after training all public facilities in Dodoma and Bahi can now self-report on DHIS2, where 53 and 47 facilities respectively initially could not enter data themselves.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "DHIS2 HMIS",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2 HMIS data warehouse",
+   "country_label": "Tanzania",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

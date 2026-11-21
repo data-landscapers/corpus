@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-19-zwe-electronic-health-record-systems-in-limited-resource-settings-a-compre",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "tiers",
+   "value": "T3;T4",
+   "fact": "The Acta Informatica Pragensia study, of 45 health workers at ten Harare and Bulawayo facilities, evaluates use of the Impilo EHR at the primary healthcare level, in place since 2016.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Impilo",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Impilo",
+   "country_label": "Zimbabwe",
+   "class": "emr",
+   "platform": "Impilo",
+   "owner": "Ministry of Health and Child Care",
+   "tiers": "T3;T4"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-05-zwe-zimbabwe-to-expand-electronic-health-records-to-500-more-facilities-in",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "clinics",
+   "value": "count:1197",
+   "fact": "MoHCC Permanent Secretary Dr Maunganidze told HealthTimes that 1,197 health facilities have been equipped with the Impilo EHR since 2021, against a 1,322 target (all facilities, not primary clinics alone).",
+   "as_of": "2025-02-05",
+   "date_precision": "day",
+   "system": "Impilo",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Ministry of Health and Child Care's Permanent Secretary describes Impilo as an integrated national health record system the ministry is rolling out.",
+   "as_of": "2025-02-05",
+   "date_precision": "day",
+   "system": "Impilo",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Impilo",
+   "country_label": "Zimbabwe",
+   "class": "emr",
+   "platform": "Impilo",
+   "owner": "Ministry of Health and Child Care",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

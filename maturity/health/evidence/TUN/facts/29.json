@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-03-tun-walid-naija-chaque-tunisien-aura-bientot-un-identifiant-de-sante-uniqu",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "tiers",
+   "value": "T1;T2",
+   "fact": "Director General of Health Walid Naija announced the unique medical record is being generalised in the majority of public hospitals across all regions.",
+   "as_of": "2026-04-03",
+   "date_precision": "day",
+   "system": "dossier medical unique",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "At the Hammamet digital health forum on 3 April 2026, Walid Naija said the record would be extended to dispensaries, basic health centres and schools and universities.",
+   "as_of": "2026-04-03",
+   "date_precision": "day",
+   "system": "dossier medical unique",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "dossier medical unique",
+   "country_label": "Tunisia",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": "T1;T2"
+  }
+ ],
+ "note": ""
+}

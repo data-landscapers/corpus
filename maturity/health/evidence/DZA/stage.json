@@ -20,16 +20,16 @@
       "sub_indicator": "emr",
       "stage": "2",
       "governance": "owner:ministry;plan:current;finance:domestic",
-      "tiers": "T1;T2",
+      "tiers": "T1;T2;T3",
       "digitised": "shared",
       "last12": "advancing",
       "clinics": "pilot",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "DZA-007;DZA-002;DZA-017;DZA-020",
-      "gaps": "No count or share of hospitals or primary clinics using the record has been found. The national deployment plan launched in July 2026 (DZA-016) aims at over 2,500 structures in 69 wilayas, and El Watan (DZA-020, 7 September 2026) has the record under way in several pilot facilities with a 15 November 2026 deadline for all public establishments; the El Moudjahid editorial (DZA-007) says generalisation in hospitals is being finalised, with no count. The value shared rests on a ministerial statement of February 2024 (DZA-010) that does not say where the record is keyed. DZA-004 and DZA-005 are from the excluded source and set nothing.",
-      "note": "The record is in pilot facilities and ten pilot wilayas, with national roll-out planned and funded but not done: stage 2. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts using it, and no count shows that.",
-      "as_at": "2026-10-18"
+      "stage_sources": "DZA-007;DZA-002;DZA-017;DZA-020;DZA-026",
+      "gaps": "No count or share of hospitals or primary clinics using the record has been found. The national deployment plan launched in July 2026 (DZA-016) aims at over 2,500 structures in 69 wilayas, and El Watan (DZA-020, 7 September 2026) has the record under way in several pilot facilities with a 15 November 2026 deadline for all public establishments; the El Moudjahid editorial (DZA-007) says generalisation in hospitals is being finalised, with no count. The value shared rests on a ministerial statement of February 2024 (DZA-010) that does not say where the record is keyed. DZA-004 and DZA-005 are from the excluded source and set nothing. Since then: the Oran university hospital's record (DZA-029) and one Guelma health establishment (DZA-027) in December 2023, and El Bouni primary-care facility in Annaba going live on 15 November 2026 (DZA-026); single facilities, no count.",
+      "note": "Reassessed 2026-11-21: one university hospital, one health establishment in Guelma and one Annaba facility going live in November 2026 are still pilot facilities, stage 2. No count shows most hospitals or primary clinics in some districts, so not 3.",
+      "as_at": "2026-11-21"
     }
   ]
 }

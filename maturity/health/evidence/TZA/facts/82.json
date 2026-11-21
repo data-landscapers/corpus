@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-30-tza-tanzania-yajipanga-kufadhili-na-kupanua-afya-kidijitali",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "tiers",
+   "value": "T1;T2;T4",
+   "fact": "Deputy Health Minister Dr Florence Samizi said on 2026-09-30 that electronic patient records reached 100 percent in national, specialised, zonal referral and regional hospitals, nearly 99 percent in district hospitals and over 67 percent in dispensaries.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "electronic patient records",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "clinics",
+   "value": "share:67%",
+   "fact": "Deputy Health Minister Dr Florence Samizi said on 2026-09-30 that electronic patient records had reached over 67 percent of dispensaries in Tanzania.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "electronic patient records",
+   "class": "emr"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

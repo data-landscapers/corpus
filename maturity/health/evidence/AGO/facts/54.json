@@ -1,0 +1,31 @@
+{
+ "slug": "2026-07-16-ago-minsa-angola-referencia-africana-ia-telemedicina-saude",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministério da Saúde",
+   "tiers": ""
+  },
+  {
+   "system": "Rede Nacional de Telemedicina",
+   "country_label": "Rede Nacional de Telemedicina",
+   "class": "enabling",
+   "platform": "",
+   "owner": "Ministério da Saúde",
+   "tiers": ""
+  },
+  {
+   "system": "COESP",
+   "country_label": "Centro de Operações de Emergência de Saúde Pública",
+   "class": "single-function",
+   "platform": "",
+   "owner": "Ministério da Saúde",
+   "tiers": ""
+  }
+ ],
+ "note": "No tiers, clinic coverage, plan, finance or dated change stated for the HMIS."
+}

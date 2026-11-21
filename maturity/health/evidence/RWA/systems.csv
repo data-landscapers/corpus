@@ -59,3 +59,5 @@ RWA,community EMR,Rwanda,community,,Ministry of Health,,2026-01-01-rwa-rwanda-di
 RWA,eCHIS,Rwanda,community,,Ministry of Health,,2026-01-01-rwa-rwanda-digital-health-case-study
 RWA,eBuzima,Rwanda,emr,,government,T1;T2;T3,2026-10-30-xss-path-digital-records-intelligent-primary-health-care
 RWA,eIDSR,electronic Integrated Disease Surveillance and Response,single-function,DHIS2,,,2024-04-01-rwa-assessment-and-exploratory-analysis-of-indicator-based-surveillance-ib
+RWA,eFiche,Rwanda,emr,,Society for Family Health Rwanda,T4,2026-05-01-rwa-thematic-snapshot-rwanda-digitizing-rural-health-facilities
+RWA,eBuzima,Rwanda,emr,,government,T4,2026-05-01-rwa-thematic-snapshot-rwanda-digitizing-rural-health-facilities

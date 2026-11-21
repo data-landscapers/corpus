@@ -1,0 +1,50 @@
+{
+ "slug": "2026-11-17-ben-numerique-sante-cyber-africa-forum-ecofin",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "Benin's health minister Benjamin Hounkpatin said on 17 November 2026 that the Ministry of Health is developing a hospital information system with the digital ministry, with an electronic patient record under a QR-code identifier meant to be accessible between establishments.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Systeme d'information hospitalier (SIH)",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Systeme d'information hospitalier (SIH)",
+   "country_label": "hospital information system with electronic patient record",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health with Ministry of Digital",
+   "tiers": ""
+  },
+  {
+   "system": "eSIGL",
+   "country_label": "eSIGL",
+   "class": "single-function",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Maternal and neonatal death declaration platform",
+   "country_label": "maternal and neonatal death platform",
+   "class": "single-function",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "Community health worker data collection",
+   "country_label": "community health worker data collection",
+   "class": "community",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

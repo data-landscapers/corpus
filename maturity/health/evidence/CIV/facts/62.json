@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-30-civ-intelligent-health-systems",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DPI",
+   "country_label": "Cote d'Ivoire",
+   "class": "emr",
+   "platform": "Electronic Medical Record",
+   "owner": "DISD",
+   "tiers": ""
+  }
+ ],
+ "note": "Facility counts only (SIH in 390 facilities, DPI in 258 across 13 regions); no tier, primary clinic share or place of data entry stated."
+}

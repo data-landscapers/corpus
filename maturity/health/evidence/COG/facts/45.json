@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-cog-republic-of-the-congo-2024-community-health-maturity-assessment",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mangwele and Mavimpi mobile apps",
+   "country_label": "Congo",
+   "class": "community",
+   "platform": "",
+   "owner": "Ministry of Health and Population",
+   "tiers": ""
+  }
+ ],
+ "note": "Only community-level apps, noted and not assessed; the community information system is still paper-based."
+}

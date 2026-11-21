@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-16-gab-egabon-sis-la-digitalisation-effective-a-l-hopital-de-la-cooperation-s",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "digitised",
+   "value": "point-of-care",
+   "fact": "Gabonmediatime reports that the Sino-Gabonese Cooperation Hospital in Libreville launched the eGabon SIS platform on 13 July 2026, with the computerised patient record directly accessible to doctors and the cashier and record already working.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "eGabon SIS",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The Sino-Gabonese Cooperation Hospital went live on eGabon SIS on 13 July 2026, with laboratory and radiology to be integrated progressively.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "eGabon SIS",
+   "class": "emr"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

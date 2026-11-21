@@ -44,3 +44,5 @@ SSD,Master health facility list,master health facility list with GPS coordinates
 SSD,Bahmni EMR,EMR,emr,Bahmni,PEPFAR-supported initiative,Juba Teaching Hospital; Nimule Hospital,2026-03-01-ssd-icap-art-e-register
 SSD,ART E-register,ART E-register,tracker,OpenMRS 3.x,ICAP at Columbia University with the Ministry of Health; development partner IntelliSOFT Consulting; funded by PEPFAR through CDC,"four hospitals and one primary health care centre (Munuki PHCC), in three states; no expansion planned in FY26",2026-03-01-ssd-icap-art-e-register
 SSD,DHIS2,"DHIS2 (national HIS, rolled out 2019)",hmis,DHIS2,Ministry of Health,,2026-05-01-ssd-evaluating-the-role-of-the-health-information-system-infrastructure-in
+SSD,DHIS2,South Sudan national HMIS (DHIS2),hmis,DHIS2,ministry,,2026-04-01-ssd-knowledge-management-series-for-health-world-health-day-2026-science-f
+SSD,OpenMRS pilot,South Sudan,emr,OpenMRS,UNDP (procuring),T1;T3,2026-03-11-ssd-pilot-implementation-of-openmrs-at-al-sabah-children-s-hospital-and-mu

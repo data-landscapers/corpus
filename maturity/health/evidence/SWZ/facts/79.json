@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-05-swz-the-rollout-of-the-cmis-inpatient-and-maternity-module-continues-to-ga",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "digitised",
+   "value": "point-of-care",
+   "fact": "The Ministry of Health's HMIS Eswatini account says healthcare workers at Nhlangano Health Facility were given iPads for real-time patient data capture at the point of care in the CMIS Inpatient and Maternity Module, which was to go live there on 9 November 2026.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "CMIS Inpatient and Maternity Module",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "HMIS Eswatini reports the CMIS Inpatient and Maternity Module rollout moved to end-user training after a training of trainers, with Nhlangano as the first site of this scale-up phase and training to continue in other regions.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "CMIS Inpatient and Maternity Module",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The rollout is announced by HMIS Eswatini, described as the Ministry of Health's HMIS unit.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "CMIS",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CMIS",
+   "country_label": "CMIS Inpatient and Maternity Module",
+   "class": "emr",
+   "platform": "iPads at point of care",
+   "owner": "Ministry of Health (HMIS Eswatini)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

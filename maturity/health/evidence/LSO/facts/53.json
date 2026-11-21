@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-22-lso-icap-enhances-lesothos-capacity-to-build-and-maintain-sustainable-data",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "ICAP says PEPFAR, through CDC, has funded since 2019 the National University of Lesotho's support to the Ministry of Health's digital health systems, including DHIS2 training of 518 users in 10 districts in 2021-2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Lesotho",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

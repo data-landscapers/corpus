@@ -36,3 +36,4 @@ LBR,eIDSR,eIDSR; Integrated Disease Surveillance Information System (IDSIS),sing
 LBR,Community Based Information System,CBIS,community,,Ministry of Health,"Community level, with community health assistants and volunteers",2022-06-01-lbr-data-quality-improvement-plan-dqip-june-20222027
 LBR,DHIS2 (national system),DHIS2,hmis,DHIS2,,"856 facilities, public and private, in 93 health districts of 15 counties; reports collected by County Health Teams for entry",2022-06-01-lbr-liberia-national-and-county-coverage-on-reproductive-maternal-newborn
 LBR,Master Facility List,MFL,exchange,,,964 health facilities listed,2022-06-01-lbr-liberia-national-and-county-coverage-on-reproductive-maternal-newborn
+LBR,Electronic Medical Record (EMR) systems,Liberia,emr,,Ministry of Health / Sand Technologies,,2026-11-17-lbr-moh-sand-technologies-assess-digital-health-progress-ahead-of-december-emr-deployment

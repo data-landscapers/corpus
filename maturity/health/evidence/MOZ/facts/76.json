@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-09-moz-mozambique-launches-the-first-digital-hospital-in-the-national-health",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "Jembi reports that Mozambique launched its first digital hospital on 2 December 2024 at Mavalane General Hospital in Maputo, on the Hospital Health Information System SIS-H, replacing paper records.",
+   "as_of": "2024-12-02",
+   "date_precision": "day",
+   "system": "SIS-H",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIS-H",
+   "country_label": "Mozambique",
+   "class": "emr",
+   "platform": "MDS prototype",
+   "owner": "Ministry of Health",
+   "tiers": "Mavalane General Hospital"
+  }
+ ],
+ "note": ""
+}

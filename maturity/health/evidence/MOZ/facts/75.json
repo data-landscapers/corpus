@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-01-moz-transforming-child-health-with-dhis2-in-mozambique",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "digitised",
+   "value": "district",
+   "fact": "The DHIS2 Community entry says child health data in Mozambique is traditionally collected on paper at facilities, consolidated at district level and later entered into DHIS2 as aggregated reports.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Child Registry",
+   "country_label": "Electronic Child Registry (ECR)",
+   "class": "tracker",
+   "platform": "DHIS2 Tracker",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

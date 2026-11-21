@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-14-sen-dr-khaliloullah-dia-du-ministere-de-la-sante-sur-la-digitalisation-du",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "tiers",
+   "value": "T1;T2",
+   "fact": "Dr Khaliloullah Dia, head of the Ministry of Health's digital department, said the single shared patient record is in a test phase at two hospitals, Abass Ndao in Dakar and Kaffrine, with more to be enrolled; the tier of the hospitals is not stated.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Dossier patient unique partage",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Ministry of Health's digital department leads the single shared patient record, which Dr Dia said the government asked the ministry to make a priority.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Dossier patient unique partage",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dossier patient unique partage",
+   "country_label": "Senegal",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

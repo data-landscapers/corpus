@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-01-ssd-knowledge-management-series-for-health-world-health-day-2026-science-f",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "South Sudan national HMIS (DHIS2)",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "ministry",
+   "tiers": ""
+  }
+ ],
+ "note": "No tier, point of digitisation or primary-clinic share is stated."
+}

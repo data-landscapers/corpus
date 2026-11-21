@@ -17,3 +17,4 @@ GNQ,Sistema Nacional de Información Sanitaria (SNIS),SNIS,hmis,"paper registers
 GNQ,Plataforma de gestión de datos de rutina del SNIS,Plataforma de gestión de datos del SNIS,hmis,,"MINSABS, with FRS named for the technical assistance; planned",,2019-02-08-gnq-plan-estrategico-de-fortalecimiento-del-sistema-nacional-de-informacio
 GNQ,Sistema Nacional de Vigilancia Epidemiológica,"Vigilancia Epidemiológica (VE), under the VIER guide",single-function,,MINSABS,"health centres, hospitals, district focal points; parapublic and private facilities",2019-02-08-gnq-plan-estrategico-de-fortalecimiento-del-sistema-nacional-de-informacio
 GNQ,Greencube,Greencube,emr,Greencube (Vannin Group),Hospital Nuevo INSESO (vendor Vannin Group),hospital in Bata; tier not named,2018-01-01-gnq-vannin-inseso-bata-ehr
+GNQ,DHIS2,DHIS2,hmis,DHIS2,Ministry of Health and Health Infrastructure,,2026-11-16-gnq-undp-transdoc-dhis2-ministry-of-health

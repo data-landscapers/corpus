@@ -11,9 +11,10 @@
       "clinics": "none",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-019;MOZ-013;MOZ-014",
-      "gaps": "No coverage fact is dated after 2019, and nothing says which tiers use SIS-MA or how many primary clinics enter their own reports; the clinics value rests on a 2016-17 sample of 16 facilities in four districts. MOZ-016 (2019, a literature review citing a 2013 paper) gives facility-level recording and disagrees with MOZ-019 and MOZ-013, which describe district keying from paper; it names no facility entering data and is not followed. Finance is held only from 2019 (MOZ-017, donor), outside the 36 months, and no event is dated inside the twelve months.",
-      "note": "The 2019 field assessment with the ministry (MOZ-019) shows facilities' monthly paper forms keyed into SISMA at the district health office, which is stage 3's whole row. Stage 4 needs entry at the facility by more than half of primary clinics, and no row shows any clinic keying its own reports."
+      "stage_sources": "MOZ-026;MOZ-019;MOZ-013;MOZ-014",
+      "gaps": "No coverage fact is dated after 2019, and nothing says which tiers use SIS-MA or how many primary clinics enter their own reports; the clinics value rests on a 2016-17 sample of 16 facilities in four districts. MOZ-016 (2019, a literature review citing a 2013 paper) gives facility-level recording and disagrees with MOZ-019 and MOZ-013, which describe district keying from paper; it names no facility entering data and is not followed. Finance is held only from 2019 (MOZ-017, donor), outside the 36 months, and no event is dated inside the twelve months. A 2025 DHIS2 Community account (MOZ-026) has child health data still collected on paper at facilities and keyed as aggregates at district.",
+      "note": "Facilities' paper data is keyed into SIS-MA at the district, in 2019 (MOZ-019) and still in 2025 (MOZ-026), which is stage 3's whole row. Stage 4 needs entry at the facility by more than half of primary clinics, and no row shows any clinic keying its own reports.",
+      "as_at": "2026-11-21"
     },
     {
       "sub_indicator": "emr",

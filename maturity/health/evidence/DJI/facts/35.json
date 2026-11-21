@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-12-dji-mise-en-uvre-de-msupply-une-reussite-portee-par-la-camme-et-ses-parten",
+ "facts": [],
+ "systems": [
+  {
+   "system": "mSupply",
+   "country_label": "mSupply",
+   "class": "single-function",
+   "platform": "mSupply",
+   "owner": "CAMME (Centrale d'Achat de Medicaments et Materiels Essentiels)",
+   "tiers": ""
+  }
+ ],
+ "note": "mSupply is a pharmaceutical stock system and a digital patient file for vaccination and family planning programmes only, so single-function or tracker, noted not assessed."
+}

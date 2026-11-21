@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-19-mli-interoperabilite-dhis2ospsante-la-dpm-a-reuni-les-administrateurs-des-deux-plate",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OSPSANTE",
+   "country_label": "Mali",
+   "class": "single-function",
+   "platform": "",
+   "owner": "Direction de la Pharmacie et du Medicament",
+   "tiers": ""
+  }
+ ],
+ "note": "OSPSANTE is a logistics system, noted only; nothing on tiers, where data is digitised or clinics for DHIS2."
+}

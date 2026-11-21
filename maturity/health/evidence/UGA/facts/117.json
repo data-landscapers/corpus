@@ -1,0 +1,37 @@
+{
+ "slug": "2024-09-19-uga-who-and-germany-donate-it-equipment-to-support-health-sector-digitizat",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "WHO reports Germany, through WHO, donated 95 laptops and 130 scanners worth USD 222,594 to Uganda's Ministry of Health on 19 September 2024 for the EMR scale-up, for the National Referral Hospital, selected regional referrals and general hospitals.",
+   "as_of": "2024-09-19",
+   "date_precision": "day",
+   "system": "Electronic Medical Records system",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "Permanent Secretary Diana Atwine said the Ministry of Health is rolling out a comprehensive EMR system in phases to all health facilities, starting with national referral hospitals down to high-volume health centre IIIs.",
+   "as_of": "2024-09-19",
+   "date_precision": "day",
+   "system": "Electronic Medical Records system",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "plan:current",
+   "fact": "WHO says the Ministry of Health is digitising health service delivery in line with its Health Information and Digital Health Strategic Plan 2020/21-2024/25.",
+   "as_of": "2024-09-19",
+   "date_precision": "day",
+   "system": "Electronic Medical Records system",
+   "class": "emr"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-21-mrt-taqadoumy-emr-national-id-electronic-payment",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "Health Minister Mohamed Mahmoud ELY Mahmoud said the electronic medical record would start from Monday 23 February 2026, creating a health file for each patient on the national ID number, as part of the ministry's health reform.",
+   "as_of": "2026-02-21",
+   "date_precision": "day",
+   "system": "Electronic medical record (Dossier medical electronique)",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic medical record",
+   "country_label": "Mauritania",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

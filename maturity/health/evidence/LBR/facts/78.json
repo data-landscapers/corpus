@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-17-lbr-moh-sand-technologies-assess-digital-health-progress-ahead-of-december-emr-deployment",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Electronic Medical Record (EMR) systems",
+   "country_label": "Liberia",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health / Sand Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "A planned December 2026 EMR deployment and a readiness review are a plan and a meeting, not a dated act on a named system."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-03-23-uga-national-wide-rollout-of-ugandaemrplus-o3-distro-in-uganda",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The OpenMRS Talk post says the Uganda Ministry of Health has embarked on digitalising 500 health facilities with point-of-care EMRs and has directed METS to roll out UgandaEMR+ to 10 sites, with a national coordination committee set up.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Ministry of Health EMR rollout (500 facilities)",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "digitised",
+   "value": "point-of-care",
+   "fact": "The Ministry of Health aims to take 500 facilities (regional referrals, general hospitals, HCIVs) to less-paper or paperless point-of-care EMRs by end-2026, per the OpenMRS Talk post.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Ministry of Health EMR rollout (500 facilities)",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UgandaEMR+ (OpenMRS O3 distribution)",
+   "country_label": "Uganda",
+   "class": "tracker",
+   "platform": "OpenMRS O3",
+   "owner": "Ministry of Health with METS",
+   "tiers": "HIV and TB clinics; activated at 3 of 10 target facilities in March 2024"
+  }
+ ],
+ "note": "UgandaEMR+ is described for HIV and TB clinics, a one-programme tracker, so its activations and 1,700-facility upgrade are not recorded."
+}

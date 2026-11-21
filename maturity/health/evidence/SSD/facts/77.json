@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-11-ssd-pilot-implementation-of-openmrs-at-al-sabah-children-s-hospital-and-mu",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "clinics",
+   "value": "pilot",
+   "fact": "A UNDP tender notice of 11 March 2026 seeks a pilot implementation of OpenMRS at Al Sabah Children's Hospital and Munuki primary health care centre in South Sudan, with data migration and eLMIS integration.",
+   "as_of": "2026-03-11",
+   "date_precision": "day",
+   "system": "OpenMRS pilot",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:partner",
+   "fact": "UNDP South Sudan is the procuring body for the OpenMRS pilot at two Juba facilities.",
+   "as_of": "2026-03-11",
+   "date_precision": "day",
+   "system": "OpenMRS pilot",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OpenMRS pilot",
+   "country_label": "South Sudan",
+   "class": "emr",
+   "platform": "OpenMRS",
+   "owner": "UNDP (procuring)",
+   "tiers": "T1;T3"
+  }
+ ],
+ "note": ""
+}

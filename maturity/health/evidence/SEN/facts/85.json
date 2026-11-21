@@ -1,0 +1,46 @@
+{
+ "slug": "2025-04-28-sen-digitalisation-du-systeme-de-sante-le-gouvernement-engage-six-projets",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "tiers",
+   "value": "T3;T4",
+   "fact": "The director of the health ministry's CCDOSS unit said two hospitals, one health centre and one health post use the digital patient record, with over 127,000 patients registered.",
+   "as_of": "2025-04-28",
+   "date_precision": "day",
+   "system": "dossier patient numérique",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "clinics",
+   "value": "count:2",
+   "fact": "The CCDOSS director said one health centre and one health post use the digital patient record, with a target of 20% of health centres using it.",
+   "as_of": "2025-04-28",
+   "date_precision": "day",
+   "system": "dossier patient numérique",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The digital patient record is one of six flagship projects presented by the health ministry's CCDOSS unit, which says the programme became a State project with several partners.",
+   "as_of": "2025-04-28",
+   "date_precision": "day",
+   "system": "dossier patient numérique",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "dossier patient numérique",
+   "country_label": "dossier patient informatisé",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministère de la Santé (CCDOSS)",
+   "tiers": "T3;T4"
+  }
+ ],
+ "note": ""
+}

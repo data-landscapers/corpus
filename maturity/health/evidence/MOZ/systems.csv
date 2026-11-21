@@ -34,3 +34,12 @@ MOZ,SISMA,SISMA,hmis,DHIS2,Ministry of Health,"scaled up nationwide in 2016; dat
 MOZ,SISMA (DHIS2),Mozambique,hmis,DHIS2,Ministry of Health,,2026-08-03-moz-mocambique-dhis2-clima-e-saude
 MOZ,Donor-funded HIV electronic medical record,Mozambique,tracker,,partner,,2026-10-30-xss-path-digital-records-intelligent-primary-health-care
 MOZ,Government-designed national platform (in transition),Mozambique,emr,,ministry,,2026-10-30-xss-path-digital-records-intelligent-primary-health-care
+MOZ,SIS-RME,Mozambique,emr,,Ministry of Health,,2025-07-29-moz-ministry-of-health-and-c-saude-partner-towards-the-development-of-an-i
+MOZ,DHIS2,DHIS2,hmis,DHIS2,,,2025-01-01-moz-transforming-child-health-with-dhis2-in-mozambique
+MOZ,Electronic Child Registry,Electronic Child Registry (ECR),tracker,DHIS2 Tracker,,,2025-01-01-moz-transforming-child-health-with-dhis2-in-mozambique
+MOZ,SIS-H,Mozambique,emr,MDS prototype,Ministry of Health,Mavalane General Hospital,2024-12-09-moz-mozambique-launches-the-first-digital-hospital-in-the-national-health
+MOZ,SIS-RME,Mozambique,emr,,Ministry of Health,,2024-06-11-moz-health-information-systems
+MOZ,EPTS/SESP,Mozambique,tracker,,Ministry of Health,over 670 health facilities,2024-06-11-moz-health-information-systems
+MOZ,iDMED,Mozambique,single-function,,,over 370 pharmacies,2024-06-11-moz-health-information-systems
+MOZ,PEPFAR-supported EMR,PEPFAR-supported EMR,emr,,partner,,2025-11-01-moz-m-e-system-vulnerabilities-and-steps-towards-resiliency-mozambique
+MOZ,SIS-MA (national DHIS2),SIS-MA,hmis,DHIS2,ministry,,2025-11-01-moz-m-e-system-vulnerabilities-and-steps-towards-resiliency-mozambique

@@ -1,0 +1,46 @@
+{
+ "slug": "2025-04-28-sen-le-senegal-valide-le-cadre-politique-de-sa-strategie-de-sante-digitale",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "clinics",
+   "value": "pilot",
+   "fact": "APS reports the patient record (DPI) was deployed as a pilot at Abass Ndao and Thierno Birahim Ndao hospitals, the HLM Fass health post and the Khadim Rassoul health centre.",
+   "as_of": "2025-04-28",
+   "date_precision": "day",
+   "system": "Dossier patient informatise",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "tiers",
+   "value": "T3;T4",
+   "fact": "APS reports the pilot of the patient record covers a health centre and a health post, beside two hospitals.",
+   "as_of": "2025-04-28",
+   "date_precision": "day",
+   "system": "Dossier patient informatise",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "plan:current",
+   "fact": "APS reports the PAENS project plans to extend the patient record to six more regions from 2025, at the Prime Minister's request.",
+   "as_of": "2025-04-28",
+   "date_precision": "day",
+   "system": "Dossier patient informatise",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dossier patient informatise",
+   "country_label": "DPI",
+   "class": "emr",
+   "platform": "",
+   "owner": "Ministry of Health and Social Action",
+   "tiers": "T3;T4"
+  }
+ ],
+ "note": ""
+}
