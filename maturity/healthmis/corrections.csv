@@ -7,3 +7,6 @@ MAR,001,system,inservice,revalued: system:inservice,"the ministry runs DHIS2 as 
 ETH,007,linked,linked,removed,"Housekeeping 73: surveillance data entered into the DHIS2-based PHEM system is a function inside the same DHIS2, not a separate system exchanging data with it (ruling 95)"
 GNB,004,linked,linked,removed,"Housekeeping 73: surveillance and Tracker registries run inside the national DHIS2 instance are not links to a separate system (ruling 95)"
 TGO,003,linked,linked,removed,"Housekeeping 73: surveillance run inside the national DHIS2 is not a link to a separate system (ruling 95)"
+AGO,006,linked,linked,removed,a capability claim that DHIS2 integrates the health information systems names no separate system linked to it (message 95) (4c 2026-11-21)
+GAB,006,system,inservice,removed,the release is about training one region's facilities; it does not say facilities across the country report through DHIS2 (4c 2026-11-21)
+GNQ,004,system,inservice,revalued: system:underway,implemented in 18 districts is deployment; no source says districts or facilities across the country report through DHIS2 (4c 2026-11-21)

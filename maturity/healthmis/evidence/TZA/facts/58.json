@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-01-tza-health-facility-level-digitalization",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "A HISP Tanzania paper says the DHIS2 HMIS data warehouse for reporting routine health service data was implemented in Tanzania in 2014, though many facilities still rely on higher-level units to report.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "DHIS2 HMIS data warehouse",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

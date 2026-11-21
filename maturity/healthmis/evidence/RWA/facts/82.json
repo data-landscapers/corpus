@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-01-rwa-thematic-snapshot-rwanda-digitizing-rural-health-facilities",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Global Fund says Rwanda's health management information system receives monthly submissions and HIV, TB and malaria indicators from Society for Family Health health posts.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Rwanda health management information system",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The separate eFiche Operating System reports HIV, TB and malaria indicators into the national health management information system.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Rwanda health management information system",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

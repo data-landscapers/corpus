@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-03-gab-egabon-sis-vers-un-systeme-de-sante-sans-papiers",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The health ministry is rolling out its eGabon-SIS health information system, live in two pilot hospitals since a phase one provisionally accepted on 20 December 2024, with eight more hospitals entering production from July 2025, and the minister says it will give real-time data for steering public health.",
+   "as_of": "2025-07-03",
+   "date_precision": "day",
+   "system": "eGabon-SIS",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eGabon-SIS",
+   "country_label": "eGabon-SIS",
+   "class": "hmis",
+   "platform": "",
+   "owner": "Ministry of Health with ANINF",
+   "tiers": "T1"
+  }
+ ],
+ "note": ""
+}

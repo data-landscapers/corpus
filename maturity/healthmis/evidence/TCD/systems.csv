@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TCD,DHIS2,Chad,hmis,DHIS2,Ministry of Public Health and Prevention,,2026-04-02-vacci360-projette-de-renforcer-la-couverture-vaccinale
 TCD,Vacci360,Chad,other,analysis layer over DHIS2,Ministry of Public Health and Prevention with CIH and GDI Advisors,"Lac, Kanem, Hadjer Lamis pilot",2026-04-02-vacci360-projette-de-renforcer-la-couverture-vaccinale
+TCD,DHIS2,Chad,hmis,DHIS2,Ministry of Public Health (DSIS),,2026-09-01-tcd-renforcer-les-capacites-du-secteur-prive-pour-ameliorer-les-donnees-de

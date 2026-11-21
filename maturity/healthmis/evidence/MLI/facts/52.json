@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-19-mli-interoperabilite-dhis2ospsante-la-dpm-a-reuni-les-administrateurs-des-deux-plate",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Mali's Directorate of Pharmacy and Medicines states that the Ministry of Health and Social Development has retained DHIS2 as the national platform for managing health information.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Mali's Directorate of Pharmacy and Medicines reports that on 17-18 November 2026 it restored automatic data migration between DHIS2 and the separate OSPSANTE health-logistics system.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Mali",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health and Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

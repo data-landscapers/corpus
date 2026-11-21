@@ -83,3 +83,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,NAM,dpi.mis--health,ladder,3,5,NAM-001;NAM-004;NAM-002,"Restaged under message 114 (housekeeping 57): PTracker, a patient-level tracker, submits data to DHIS2 automatically; with 96% published completeness, 3 to 5."
 2026-11-13,MAR,dpi.mis--health,fact,2,3,MAR-001,"Housekeeping 71: MAR-001 (ministry runs DHIS2 as its national platform, used by national programmes) answers question 2 by its own row, read as GMB-003 and GNB-003; revalued underway to inservice; 2 to 3."
 2026-11-13,GHA,dpi.mis--health,fact,2,2,GHA-001;GHA-002,"Housekeeping 71: GHA-002 (LHIMS deployed in about 481 facilities, 16 regions) is deployment, not reporting; GHA-001 has it being replaced by GHIMS; held at 2."
+2026-11-21,MLI,dpi.mis--health,fact,3,4,MLI-007;MLI-002,DPM restored automatic DHIS2-OSPSANTE data transfer 17-18 Nov 2026: a link to the medicines supply chain; 3 to 4
+2026-11-21,GNQ,dpi.mis--health,fact,2,2,GNQ-001;GNQ-003,"UNDP handed DHIS2 to the ministry 16 Nov 2026, implemented in 18 districts; reporting across the country not stated; stays 2"
+2026-11-21,SWZ,dpi.mis--health,fact,no evidence,2,SWZ-001,National Health Intelligence Platform launched 16 Nov 2026; no national reporting through it stated; no evidence to 2

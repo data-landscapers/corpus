@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-16-ago-minsa-angola-referencia-africana-ia-telemedicina-saude",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ministry of Health says DHIS2 is implemented as Angola's main national platform for health data management.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The Ministry says DHIS2 allows the integration of the different health information systems.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministério da Saúde",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

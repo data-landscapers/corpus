@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-31-uga-government-takes-over-national-digital-health-systems-from-makerere-un",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "completeness",
+   "value": "published",
+   "fact": "UBC reports health reporting rates rising from 58 percent in 2020 to 98 percent in 2025 under the national digital health systems now handed to the Ministry of Health; the system is not named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "national digital health systems (MakSPH-METS)",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

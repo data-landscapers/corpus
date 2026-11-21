@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-16-som-somalia-launches-electronic-immunization-registry-in-latest-leap-of-in",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "WHO reports that Somalia's revised DHIS2 platform on a government-owned server now unifies EPI, nutrition, disease surveillance, and HIV and tuberculosis data, with ministry, state, regional and district data officers trained on it.",
+   "as_of": "2024-01-16",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

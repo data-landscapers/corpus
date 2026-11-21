@@ -6,7 +6,7 @@
 
 **Linked.** [A DHIS2 Community of Practice post says the Impilo health record runs in over 700 facilities](<https://community.dhis2.org/t/integration-and-interoperability-of-impilo-electronic-health-record-ehr-system-with-dhis2/64859>). [It feeds DHIS2 in real time over FHIR](<https://community.dhis2.org/t/integration-and-interoperability-of-impilo-electronic-health-record-ehr-system-with-dhis2/64859>). [It reports over 150 indicators and 15 facility registers](<https://community.dhis2.org/t/integration-and-interoperability-of-impilo-electronic-health-record-ehr-system-with-dhis2/64859>).
 
-**Reporting rate published.** [The Countdown to 2030 report puts the national reporting rate for 2024 above 92%](<https://www.countdown2030.org/wp-content/uploads/2025/10/Zimbabwe-Synthesis-Report.pdf>). [Only Harare and Bulawayo provinces were just below the threshold](<https://www.countdown2030.org/wp-content/uploads/2025/10/Zimbabwe-Synthesis-Report.pdf>).
+**Reporting rate published.** [The Countdown to 2030 report puts the national reporting rate for 2024 above 92%](<https://www.countdown2030.org/wp-content/uploads/2025/10/Zimbabwe-Synthesis-Report.pdf>). [Only Harare and Bulawayo provinces were just below the threshold](<https://www.countdown2030.org/wp-content/uploads/2025/10/Zimbabwe-Synthesis-Report.pdf>). [A 2026 study of ministry reports for 2020 to 2023 finds 95% of facilities reporting](<https://doi.org/10.51867/scimundi.6.1.17>).
 
 ***Also on file***. [Impilo](<https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf>); [Impilo EHR](<https://community.dhis2.org/t/integration-and-interoperability-of-impilo-electronic-health-record-ehr-system-with-dhis2/64859>).
 

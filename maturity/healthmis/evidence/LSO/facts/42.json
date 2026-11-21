@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-22-lso-icap-enhances-lesothos-capacity-to-build-and-maintain-sustainable-data",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ICAP says NUL co-led DHIS2 training for 518 users from across the 10 districts in 2021-2022, and supports strategic information systems at 205 facilities in 10 district health offices.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

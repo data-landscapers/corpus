@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-05-gab-renforcement-des-capacites-en-gestion-des-donnees-sanitaires-les-major",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ministry of Health calls DHIS2 the reference tool of Gabon's national health information system, used by public, private and faith-based facilities to transmit health data.",
+   "as_of": "2026-06-05",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

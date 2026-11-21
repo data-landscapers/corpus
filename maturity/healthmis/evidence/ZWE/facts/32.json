@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-zwe-from-paper-to-digital-in-a-resource-limited-setting-a-case-study-of-zi",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The study, using Ministry of Health and Child Care HMIS reports for 2020-2023, finds Zimbabwe has centralised health data with 95% of facilities reporting.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "HMIS",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "completeness",
+   "value": "published",
+   "fact": "The study states 95% facility reporting and a cut in reporting delay from 90 days to under 15.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "HMIS",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "HMIS",
+   "country_label": "Zimbabwe",
+   "class": "hmis",
+   "platform": "",
+   "owner": "Ministry of Health and Child Care",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

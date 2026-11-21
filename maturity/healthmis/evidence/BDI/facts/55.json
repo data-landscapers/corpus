@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-23-bdi-au-burundi-la-digitalisation-pour-interconnecter-les-services-du-minis",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Enabel says it gave important support to setting up digital platforms for Burundi's health ministry including DHIS2, a tool for health indicators, without stating national coverage.",
+   "as_of": "2025-01-23",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Burundi",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Public Health and the Fight against AIDS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -21,12 +21,12 @@ The Africa CDC Digital Transformation Strategy asks for national digital health 
 | Stage | Countries |
 |---|---|
 | 5 Mature | 11 |
-| 4 Operating | 5 |
-| 3 Established | 25 |
-| 2 Nascent | 7 |
+| 4 Operating | 6 |
+| 3 Established | 24 |
+| 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
-| No evidence | 5 |
+| No evidence | 4 |
 
 ## Countries
 
@@ -111,6 +111,13 @@ Cote d'Ivoire's national health information system took data from a community he
 
 - The mHealth Africa article says DHIS2 (the national database known as SIGSANTE) is the backbone of Côte d'Ivoire's National Health Information System and has centralised routine health data since its deployment in 2015 ([source, 2025-09-11](https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/)).
 - The article says that since 2018 the national DHIS2 has integrated vaccination, epidemiological surveillance and community data flows, and that the mHealth community platform transmits data to it via HL7 FHIR APIs ([source, 2025-09-11](https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/)).
+
+### Mali: 4 Operating
+
+Mali's national health information system exchanged data with the medicines logistics system in 2026; its reporting rate is not known.
+
+- Mali's Directorate of Pharmacy and Medicines reports that on 17-18 November 2026 it restored automatic data migration between DHIS2 and the separate OSPSANTE health-logistics system ([source, 2026-11-18](https://www.dirpharma.ml/index.php/fr/blog/interoperabilite-dhis2-ospsante-atelier-koulikoro-2026)).
+- Muso describes DHIS2 as the official national health data management system of Mali, and a DGSHP deputy director says interoperability between DHIS2 and DISC-Mali has been established ([source, 2025-07-30](https://www.musohealth.org/post/towards-an-integrated-and-efficient-health-information-ecosystem)).
 
 ### Mozambique: 4 Operating
 
@@ -232,12 +239,6 @@ A national health information system was in service in 2026; links to other heal
 - DHIS2 states Malawi's DHIS2-based national health information system, in use since around 2000, has incorporated a new NCD screening algorithm ([source, 2026-04-27](https://dhis2.org/fighting-ncds-in-malawi-and-sri-lanka-with-the-diabetes-compass-project/)).
 - DHIS2 states the project deploys climate tools on Malawi's DHIS2-based national health management information system (HMIS), with initial implementation in four districts ([source, 2026-02-26](https://dhis2.org/malawi-project-to-strengthen-surveillance-climate-sensitive-diseases/)).
 
-### Mali: 3 Established
-
-A national health information system was in service in 2025; links to other health systems are not on record.
-
-- Muso describes DHIS2 as the official national health data management system of Mali, and a DGSHP deputy director says interoperability between DHIS2 and DISC-Mali has been established ([source, 2025-07-30](https://www.musohealth.org/post/towards-an-integrated-and-efficient-health-information-ecosystem)).
-
 ### Mauritania: 3 Established
 
 A national health information system was in service in 2025; links to other health systems are not on record.
@@ -305,10 +306,16 @@ A health information system was under way in 2026; a national one in service is 
 
 ### Equatorial Guinea: 2 Nascent
 
-A health information system was under way in 2025; a national one in service is not on record.
+DHIS2 was handed to the health ministry in November 2026 for 18 districts; reporting through it across the country is not known.
 
 - The health ministry (MINSABSIS) says the DHIS2 pilot run in June 2025 in the Baney and Añisok health districts finished satisfactorily, with national expansion of DHIS2 foreseen for 2026 ([source, 2025-11-25](https://guineasalud.com/finaliza-con-exito-la-prueba-piloto-de-la-plataforma-dhis2-en-baney-y-anisok/)).
 - EHAS says a first DHIS2 pilot ran from February to May 2025 in two districts, Baney and Añisok, where health facilities or district offices enter real data, centralised on a server at the ministry ([source, 2025-05](https://ehas.org/que-hacemos/sis/sis-guinea-ecuatorial/)).
+
+### Eswatini: 2 Nascent
+
+Eswatini launched a national health intelligence platform in November 2026; national reporting through it is not known.
+
+- Eswatini's Ministry of Health launched the National Health Intelligence Platform on 16 November 2026, with harmonised reporting tools and automated data aggregation said to be expected, and no national reporting through it stated ([source, 2026-11-16](https://eswatinipositivenews.online/new-health-platform-to-help-govt-anticipate-medicine-stockouts/)).
 
 ### Gabon: 2 Nascent
 
@@ -344,12 +351,6 @@ Nothing found since 2023 names a national health information system, so no stage
 Not established: Nothing found since October 2023 says whether a health information system is under way or in service.
 
 ### Algeria: No evidence
-
-Nothing found names a national health information system or says there is none, so no stage is set.
-
-Not established: Nothing found says whether health reporting runs through a national information system.
-
-### Eswatini: No evidence
 
 Nothing found names a national health information system or says there is none, so no stage is set.
 

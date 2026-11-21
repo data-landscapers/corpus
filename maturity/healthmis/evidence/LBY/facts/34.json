@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-lby-community-health-libya-country-brief",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "DHIS2 has been the health management information system used in Libya since 2018 under the Ministry of Health's Health Information Centre, though it excludes community health data.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

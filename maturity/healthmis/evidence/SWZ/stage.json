@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hmis",
-      "stage": "no evidence",
-      "system": "",
+      "stage": "2",
+      "system": "underway",
       "linked": "",
       "completeness": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether health reporting runs through a national information system.",
-      "note": "No evidence row is held on the sub-indicator.",
-      "as_at": "2026-11-05"
+      "stage_sources": "SWZ-001",
+      "gaps": "No source found says facilities or districts across the country report through a national health information system.",
+      "note": "The ministry launched the National Health Intelligence Platform on 16 November 2026 (SWZ-001): a system being rolled out, 2. No national reporting through it is stated, so not 3.",
+      "as_at": "2026-11-21"
     }
   ]
 }

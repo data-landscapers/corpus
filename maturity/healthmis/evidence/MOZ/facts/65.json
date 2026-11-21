@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-moz-transforming-child-health-with-dhis2-in-mozambique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Says only that child health aggregates are entered into DHIS2; national coverage, links and reporting rate not stated."
+}

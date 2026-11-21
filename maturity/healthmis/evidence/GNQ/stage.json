@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GNQ-001;GNQ-003",
-      "gaps": "No source found since October 2023 says: is a national one in service.",
-      "note": "DHIS2 was piloted in two districts in 2025, with national expansion foreseen for 2026. A pilot does not carry the country.",
-      "as_at": "2026-11-05"
+      "gaps": "DHIS2 was handed to the ministry in November 2026 as implemented in 18 health districts (GNQ-004), but no source says districts or facilities across the country report through it.",
+      "note": "DHIS2 was piloted in two districts in 2025 and handed to the ministry in November 2026 as implemented in 18 districts. Implemented is not reporting, so the national system in service is not shown and the cell stays 2.",
+      "as_at": "2026-11-21"
     }
   ]
 }

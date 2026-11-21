@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hmis",
-      "stage": "3",
+      "stage": "4",
       "system": "inservice",
-      "linked": "",
+      "linked": "linked",
       "completeness": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MLI-002",
-      "gaps": "No source found since October 2023 says the system is linked to surveillance, supply chain or a register.",
-      "note": "DHIS2 is the official national system; its interoperability with the DISC-Mali community tool is not with a system the link rung names. No reporting rate is held.",
-      "as_at": "2026-11-05"
+      "stage_sources": "MLI-007;MLI-002",
+      "gaps": "No source found since October 2023 gives the system's reporting completeness or timeliness.",
+      "note": "DHIS2 is the official national system (MLI-002), and from 17-18 November 2026 its automatic data transfer with the separate OSPSANTE health-logistics system was restored (MLI-007): a link to the medicines supply chain, 4. No reporting rate is held, so not 5.",
+      "as_at": "2026-11-21"
     }
   ]
 }

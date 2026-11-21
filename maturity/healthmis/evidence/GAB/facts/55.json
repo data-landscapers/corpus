@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-25-gab-egabon-sis-le-gabon-tourne-une-page-et-ouvre-une-nouvelle-phase-de-sa",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Gabonreview reports eGabon-SIS deployed the health information system in 13 civilian and military pilot hospitals, and the government's roadmap commits to extending it progressively.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "eGabon-SIS",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
