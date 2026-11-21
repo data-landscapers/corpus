@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-18-mar-watiqa-civil-status-portal-outage",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Watiqa",
+   "country_label": "Watiqa",
+   "class": "certificate",
+   "platform": "web portal",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  },
+  {
+   "system": "Civil-status registry digitisation tender",
+   "country_label": "civil-status records digitisation",
+   "class": "archive",
+   "platform": "",
+   "owner": "Ministry of Interior (DGCT)",
+   "tiers": ""
+  }
+ ],
+ "note": "Portal is certificate ordering and the tender is archive digitisation; no entry of events at the registering office is stated."
+}

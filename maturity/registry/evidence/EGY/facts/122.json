@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-18-egy-dostor-mohp-automation-4000-health-units",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B;D",
+   "fact": "Al-Dostor quotes the health ministry's assistant minister saying health offices register births and deaths instantly in an automated system.",
+   "as_of": "2024-05-18",
+   "date_precision": "day",
+   "system": "Health office automation (Ministry of Health and Population)",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
