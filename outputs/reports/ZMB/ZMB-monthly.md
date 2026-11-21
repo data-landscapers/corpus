@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: ZMB
-ledger_rows: 36
+ledger_rows: 37
 not_held: 32
-record: ffd943f5cd86
+record: 62a27c6f7633
 ---
 
 # News, Oct – Nov 2026
@@ -233,6 +233,20 @@ Summarised under [New investments](#new-investments).
 **[Digital overhaul targets fraud in Sh3.5bn cross-border motor insurance market](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538)** — Business Daily (Nation Media Group), 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 COMESA's Yellow Card cross-border motor insurance scheme is piloting online sale of cover in Zambia in 2026 and expanding phone-based certificate verification, now used in eight countries, through data sharing between members, Business Daily reported on 13 October 2026. The scheme issued more than 340,000 cards in 2025, worth about US$27 million (Sh3.5 billion) in premiums.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa Accelerator for Digital Public Infrastructure (AA4DPI)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Technology to boost Grow Zambia Agenda](https://www.lusakatimes.com/2026/11/20/technology-to-boost-grow-zambia-agenda/)** — Lusaka Times, 20 November 2026
+
+SMART Zambia Institute and the UNDP signed a memorandum of understanding on digital public infrastructure in Lusaka on 20 November 2026. It sits under the Africa Accelerator for DPI. It covers digital identity, payments, data exchange and shared platforms. The UNDP cited digitised timber traceability and Ministry of Agriculture interoperability as work already supported.
 
 </div>
 

@@ -1,12 +1,12 @@
 ---
 title: Zambia: status report
-compiled: 2026-11-20
+compiled: 2026-11-21
 place: ZMB
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 7
-sources_cited: 232
+sources_cited: 233
 sections_written: 39
 not_established: 2
 acquire_lines: 49
@@ -104,7 +104,7 @@ About 66 percent of the K2.93 billion appropriated on the digital lines for 2026
 
 [Huawei signed a memorandum of understanding with the government and the SMART Zambia Institute in May 2026 for a National AI Data Centre](https://techafricanews.com/2026/05/27/zambia-and-huawei-and-smart-zambia-sign-deal-for-national-ai-data-centre/). [A second, "sovereign AI" memorandum followed at the June 2026 Zambia Mobile Congress](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership). [It covers AI infrastructure, a sovereign cloud and a co-invested national data centre keeping critical data in the country](https://www.biometricupdate.com/202606/zambia-deepens-digital-sovereignty-push-with-huawei-ai-partnership). No value, co-investment split or delivery date has been found for either.
 
-[Zambia has an identity memorandum with Ethiopia's National ID Program, chosen because its system was built domestically](https://www.biometricupdate.com/202510/zambia-plans-domestic-digital-id-development-with-help-from-international-partners) (October 2025). [A 2023 memorandum with the Centre for Digital Public Infrastructure at IIIT-Bangalore covers the design of Zambia's DPI use cases](https://www.codevelop.fund/insights-1/building-zambias-digital-economy-foundations-through-digital-public-infrastructure-dpi). [The government and the Payments Association of Zambia have agreed a compact to accelerate digital financial services and reduce cash dependency](https://itweb.africa/article/zambia-partners-with-payz-to-boost-financial-inclusion/xnklOqz1eBKM4Ymz). [It sets quarterly regulatory coordination between the Ministry of Technology and Science, the Bank of Zambia and ZICTA](https://itweb.africa/article/zambia-partners-with-payz-to-boost-financial-inclusion/xnklOqz1eBKM4Ymz). [In June 2026 the fintech Zoyk entered a partnership with Visa to link local payment rails to global networks for SADC trade](https://techafricanews.com/2026/06/03/zoyk-and-visa-launch-strategic-partnership-to-advance-digital-payments-in-zambia/). No sum has been found for any of these.
+[Zambia has an identity memorandum with Ethiopia's National ID Program, chosen because its system was built domestically](https://www.biometricupdate.com/202510/zambia-plans-domestic-digital-id-development-with-help-from-international-partners) (October 2025). [A 2023 memorandum with the Centre for Digital Public Infrastructure at IIIT-Bangalore covers the design of Zambia's DPI use cases](https://www.codevelop.fund/insights-1/building-zambias-digital-economy-foundations-through-digital-public-infrastructure-dpi). [On 20 November 2026 the SMART Zambia Institute and UNDP signed a memorandum on digital public infrastructure, covering identity, payments and data exchange](https://www.lusakatimes.com/2026/11/20/technology-to-boost-grow-zambia-agenda/). [The government and the Payments Association of Zambia have agreed a compact to accelerate digital financial services and reduce cash dependency](https://itweb.africa/article/zambia-partners-with-payz-to-boost-financial-inclusion/xnklOqz1eBKM4Ymz). [It sets quarterly regulatory coordination between the Ministry of Technology and Science, the Bank of Zambia and ZICTA](https://itweb.africa/article/zambia-partners-with-payz-to-boost-financial-inclusion/xnklOqz1eBKM4Ymz). [In June 2026 the fintech Zoyk entered a partnership with Visa to link local payment rails to global networks for SADC trade](https://techafricanews.com/2026/06/03/zoyk-and-visa-launch-strategic-partnership-to-advance-digital-payments-in-zambia/). No sum has been found for any of these.
 
 ### New investments
 <!-- finance.new -->
