@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: MAR
-ledger_rows: 40
+ledger_rows: 42
 not_held: 13
-record: 765a6b3aa0ad
+record: 55213222fda6
 ---
 
 # News, Oct – Nov 2026
@@ -36,6 +36,8 @@ record: 765a6b3aa0ad
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -216,6 +218,22 @@ The Global Privacy Assembly adopted a resolution on privacy-enhancing technologi
 
 </div>
 
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Morocco-France declaration of intent on cybercrime</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Maroc et la France associent leurs efforts contre la criminalité numérique](https://www.wearetech.africa/fr/fils/actualites/tech/le-maroc-et-la-france-associent-leurs-efforts-contre-la-criminalite-numerique)** — wearetech.africa, 20 November 2026
+
+Declaration of intent signed 19 Nov 2026 in Rabat: data sharing, magistrate training, AI in criminal investigations.
+
+</div>
+
+</div>
+
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
@@ -299,6 +317,20 @@ Minister Ahmed Rahhou told parliament on 16 November 2026 that national roaming,
 **[Morocco Plans Automatic National Roaming to Improve Telecom Coverage](https://www.telecomreviewafrica.com/articles/reports-and-coverage/29497-morocco-plans-automatic-national-roaming-to-improve-telecom-coverage/)** — Africa Telecom Review, 18 November 2026
 
 Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile and internet subscriptions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Morocco’s mobile subscriptions reach 61.66 million by end of September 2026](https://en.hespress.com/149548-moroccos-mobile-subscriptions-reach-61-66-million-by-end-of-september-2026.html)** — Hespress, 20 November 2026
+
+ANRT data to end-Sept 2026: internet 44.3m, FTTH up 27.2% to 1.65m, ADSL down to 1.30m, .ma domains 143,850.
 
 </div>
 
