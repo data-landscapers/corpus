@@ -2,7 +2,7 @@
 
 ## Use by other systems
 
-**Register keyed on ID.** Mauritius uses the national identity card number in its electoral register. [In May 2026 the Electoral Commissioner's office said voters can check the register online](<https://electoral.govmu.org/oec/wp-content/uploads/2026/05/Communique-Enregistrement-des-electeurs.pdf>) by entering their card number. [The Government Information Service says employers' National Savings Fund returns must give each employee's card number](<https://govmu.org/EN/infoservices/socialsecurity/Pages/services.aspx>) with the contributions paid.
+**Register keyed on ID.** Mauritius uses the national identity card number in its electoral register. [In May 2026 the Electoral Commissioner's office said voters can check the register online](<https://electoral.govmu.org/oec/wp-content/uploads/2026/05/Communique-Enregistrement-des-electeurs.pdf>) by entering their card number. [The Government Information Service says employers' National Savings Fund returns must give each employee's card number](<https://govmu.org/EN/infoservices/socialsecurity/Pages/services.aspx>) with the contributions paid. [In November 2026 the ministry said driving licences in the Traffic Branch's registers are found by the holder's card number](<https://lexpress.mu/node/564957>). Older licences recorded without it are not found.
 
 **Main registers.** Two main registers are shown: the electoral register and the National Savings Fund, a social insurance scheme. No source found since October 2023 shows the tax register, the public payroll or the business register using the number. [The fund's returns carry the number for each contributor](<https://govmu.org/EN/infoservices/socialsecurity/Pages/services.aspx>).
 

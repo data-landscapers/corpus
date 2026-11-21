@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-15-nation-national-id-chaos-threatens-voter-registration",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Nation Online says voter registration in Malawi requires a valid national ID under section 4(12) of the Presidential, Parliamentary and Local Government Act.",
+   "as_of": "2024-09-15",
+   "date_precision": "day",
+   "system": "Voter registration with national ID",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

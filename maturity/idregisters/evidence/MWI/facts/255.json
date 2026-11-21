@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-15-nyasatimes-mls-fears-compulsory-national-id-voting",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Malawi's amended electoral law makes the NRB national registration the required proof of voter eligibility, so the voter registration is tied to the national ID, per the Malawi Law Society and the Electoral Commission chair.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "National ID (National Registration Bureau)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

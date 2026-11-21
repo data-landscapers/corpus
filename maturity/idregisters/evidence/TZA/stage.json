@@ -9,10 +9,10 @@
       "matching": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-004;TZA-003",
+      "stage_sources": "TZA-004;TZA-003;TZA-012",
       "gaps": "No source found since October 2023 gives a figure from checking a register against the ID.",
-      "note": "Tax, TASAF social protection and business registration use the ID number (2026), three main registers. The 8.4 million tax numbers registered with ID numbers is a registration count, not a matching figure, so not stage 5.",
-      "as_at": "2026-11-07"
+      "note": "Tax, TASAF social protection and business registration use the ID number (2026), and voter registration draws on the NIDA database (TZA-012); a November 2026 report that NIDA is still discussing TIN use for tax services (TZA-013) leaves three main registers either way. The 8.4 million tax numbers registered with ID numbers is a registration count, not a matching figure, so not stage 5.",
+      "as_at": "2026-11-21"
     }
   ]
 }

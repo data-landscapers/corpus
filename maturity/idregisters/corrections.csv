@@ -19,3 +19,8 @@ CMR,001,register,underway,classed other,"Housekeeping 73: BUNEC's planned links 
 EGY,006,register,inservice,revalued: several:several,"Housekeeping 73: the social registry keyed on the national number is a third main register beside the electoral roll (EGY-003) and the tax and state payroll systems (EGY-007, EGY-004), as the cell reads it"
 NGA,016,register,inservice,revalued: several:several,"Housekeeping 73: the tax service linked to the NIN is a third main register beside the social register (NGA-006, NGA-007) and online voter registration (NGA-010), as the cell reads it"
 UGA,003,register,inservice,revalued: several:several,"Housekeeping 73: tax records linked to the NIN are a third main register beside the SAGE grant (UGA-001) and the voter register (UGA-010), as the cell reads it"
+
+GHA,014,register,inservice,removed,"Stage 4c: the Ghana Card named as the primary source for the voter register is the card used to register, not the roll drawn from the ID register (as GHA-010)"
+MWI,005,register,inservice,removed,Stage 4c: an ID card required to register as a voter does not show the roll drawn from the ID register (as MWI-003)
+MWI,006,register,inservice,removed,Stage 4c: an ID card required to register as a voter does not show the roll drawn from the ID register (as MWI-003)
+MWI,007,register,inservice,removed,Stage 4c: an ID card as the sole proof of voter eligibility does not show the roll drawn from the ID register (as MWI-003)

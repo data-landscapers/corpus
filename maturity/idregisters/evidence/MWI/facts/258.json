@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-26-nation-court-allows-mec-to-require-ids",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Nation Online reports that voter registration by the Malawi Electoral Commission requires the national ID issued by the National Registration Bureau as sole proof of eligibility, under Section 12 of the elections Act.",
+   "as_of": "2024-10-25",
+   "date_precision": "day",
+   "system": "voter registration",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

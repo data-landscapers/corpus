@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-20-permis-de-conduire-numerique-erreurs-sur-l-application-korek-les-usagers",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "L'Express reports a ministry communiqué of 20 November 2026 saying driving licences held in the Traffic Branch's official registers are found through the holder's national identity card number, and older licences recorded without an ID number are not found.",
+   "as_of": "2026-11-20",
+   "date_precision": "day",
+   "system": "Traffic Branch licence register",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

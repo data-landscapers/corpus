@@ -79,6 +79,7 @@ Tax, social protection and business registration used the national ID number in 
 
 - Government spokesman Gerson Msigwa named taxpayer registration, TASAF social services and business registration among services now using the national ID number ([source, 2026-09-02](https://www.jamhurimedia.co.tz/nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako/)).
 - Government spokesman Gerson Msigwa said use of the national ID number has expanded to taxpayer registration, TASAF social services and business registration, among other services ([source, 2026-09-02](https://www.jamhurimedia.co.tz/nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako/)).
+- INEC's head of ICT said in March 2025 that the voter registration system retrieves a person's details from the NIDA database by their NIDA number ([source, 2025-03-05](https://thechanzo.com/2025/08/24/tanzanias-inec-faces-integrity-questions-amid-contradictions-on-voter-data-integration/)).
 
 ### Uganda: 4 Operating
 
