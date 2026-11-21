@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-ken-rongo-university-unesco-chair-ethical-ai",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "The Standard reports Rongo University has been awarded a UNESCO Chair on Ethical Artificial Intelligence for 2027-2031, run with RWTH Aachen University, with Prof Fredrick Ogenga as chairholder.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "UNESCO Chair on Ethical Artificial Intelligence",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO Chair on Ethical Artificial Intelligence",
+   "country_label": "Rongo University Centre for Media, Democracy, Peace and Security",
+   "class": "research",
+   "platform": "",
+   "owner": "Rongo University",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
