@@ -1,0 +1,10 @@
+{"slug": "2024-02-09-do-rosario-guambe-decentralising-fraud-mozambique-2019", "studies": {
+"authentication": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Abstract only; states nothing on authentication."}}},
+"birthidlink": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Abstract only; nothing on civil register and ID links."}}},
+"electoralregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Abstract speaks of voter registration and 2019 election fraud but states nothing on a digital roll, checking or ID link."}}},
+"idcoverage": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Abstract only; no ID enrolment figure."}}},
+"idfrombirth": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Abstract only; nothing stated."}}},
+"idmaintenance": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Abstract only; nothing stated."}}},
+"idregisters": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Abstract only; nothing stated."}}},
+"idrobustness": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Abstract only; nothing stated."}}}
+}}

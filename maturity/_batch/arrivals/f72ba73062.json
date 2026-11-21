@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-17-xaf-circleid-lu-heng-ip-for-africa-not-africa-for-afrinic",
+ "studies": {
+  "internetusage": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions AFRINIC's seat in Mauritius only; no usage figure."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Land registry named only as an analogy."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{"slug": "2026-11-16-zmb-ecofin-smart-zambia-mtn-momo-government-payments", "studies": {
+"businesspayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on the central bank's role."}}},
+"consumerprotection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"egovservices": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Only talks on adding mobile money to government services; no service stated online."}}},
+"g2ppayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Talks concern payments to government, not payments to people."}}},
+"itcapacity": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on government IT capacity."}}},
+"paymentsuptake": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No survey share for Zambia stated."}}},
+"retailpayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No Zambian mobile money service status stated beyond the partnership talks."}}},
+"revenuecollection": {"countries": {"ZMB": {"facts": [], "systems": [{"system": "SZI talks with MTN MoMo", "country_label": "Zambia", "class": "other", "platform": "", "owner": "Smart Zambia Institute", "tiers": ""}], "note": "Talks opened 2026-11-13 are neither a pilot nor a contract."}}}
+}}

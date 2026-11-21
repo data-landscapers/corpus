@@ -1,0 +1,17 @@
+{"slug": "2026-11-16-gnq-diariorombe-muni-dinero-public-funds-wallet", "studies": {
+"businesspayments": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "The e-money authorisation named is COBAC's, a regional commission, not stated to be the central bank's."}}},
+"consumerprotection": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress for digital finance."}}},
+"crossborderpayments": {"countries": {"GNQ": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Diario Rombe reports that the Muni Dinero app, issued by BANGE with MUNI S.A. under a COBAC authorisation of 12 May 2023, allows transfers within the CEMAC zone, though a November 2024 GIABA evaluation says Muni made transfers without its own authorisation.", "as_of": "2026-11", "date_precision": "month", "system": "Muni Dinero", "class": "crossborder"}
+], "systems": [{"system": "Muni Dinero", "country_label": "Muni Dinero", "class": "retail", "platform": "mobile app", "owner": "MUNI S.A. with BANGE", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Only general remarks on weak data protection; no law, bill or authority stated."}}},
+"g2ppayments": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Payments named are a 2020 volunteer stipend campaign and UNICEF-led aid in 2021, not a government transfer, salary or pension in service."}}},
+"paymentsuptake": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "No survey share of adults with accounts; only user and transfer growth rates."}}},
+"retailpayments": {"countries": {"GNQ": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Diario Rombe reports that the Muni Dinero e-money app is available for depositing funds, sending and receiving money, paying SEGESA bills and buying services, and that BANGE's 2024 report records a 194.9% rise in active users.", "as_of": "2026-11", "date_precision": "month", "system": "Muni Dinero", "class": "retail"}
+], "systems": [{"system": "Muni Dinero", "country_label": "Muni Dinero", "class": "retail", "platform": "mobile app", "owner": "MUNI S.A. with BANGE", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"GNQ": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "Diario Rombe reports that Presidential Order 3/2025 sets the abandonment of cash collection of certain public revenues, and that on 30 September 2026 Muni proposed its wallet as an electronic payment channel for state taxes and fees, which the Ministry of Transport said it would study.", "as_of": "2026-09-30", "date_precision": "day", "system": "Muni Dinero", "class": "revenue"}
+], "systems": [], "note": ""}}}
+}}

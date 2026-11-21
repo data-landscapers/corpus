@@ -1,0 +1,61 @@
+{
+ "slug": "2026-11-16-gha-restofworld-minohealth-ai-bioweapons-dna-synthesis",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Feature on a Ghanaian lab's AI misuse study; states no Ghana rule, authority or government AI use."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Feature on a Ghanaian lab's AI misuse study; states no Ghana rule, authority or government AI use."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Feature on a Ghanaian lab's AI misuse study; states no Ghana rule, authority or government AI use."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "Rest of World reports that Accra-based MinoHealth AI Labs built the Moremi Bio model, which has proposed hundreds of drug candidates, and funds the company mainly through sales of its AI system.",
+       "as_of": "2026-11-16",
+       "date_precision": "day",
+       "system": "Moremi Bio",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Moremi Bio",
+       "country_label": "Ghana",
+       "class": "localai",
+       "platform": "",
+       "owner": "MinoHealth AI Labs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

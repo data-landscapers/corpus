@@ -1,0 +1,52 @@
+{
+ "slug": "2026-11-18-eswatini-unipod-to-advance-youth-led-innovation",
+ "studies": {
+  "ictjobs": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a youth unemployment remark; no ICT employment figure or graduate unemployment figure."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "A hub under construction; no startup law, label or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "UNDP said the University Innovation Pod at the University of Eswatini's Kwaluseni campus is being built, about two-thirds complete and due before the end of 2026, with ESCCOM contributing E2.5 million a year for three years.",
+       "as_of": "2026-11-18",
+       "date_precision": "day",
+       "system": "UniPod",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UniPod",
+       "country_label": "University Innovation Pod, UNESWA Kwaluseni",
+       "class": "hub",
+       "platform": "",
+       "owner": "UNDP, UNESWA, ESCCOM",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

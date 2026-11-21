@@ -1,0 +1,7 @@
+{
+ "slug": "2024-09-25-tun-digitalisation-du-secteur-de-la-sante-en-tunisie-un-pas-vers-une-meill",
+ "studies": {
+  "health": {"countries": {"TUN": {"facts": [], "systems": [{"system": "SIPAD", "country_label": "Tunisie", "class": "other", "platform": "", "owner": "Ministry of Health (CIMS)", "tiers": ""}], "note": "Gives digitisation of services (92% university hospitals, 77% regional, 295 sites networked) without saying routine reporting or patient records are entered digitally."}}},
+  "schoolinternet": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No school internet figure or curriculum rule is stated."}}}
+ }
+}

@@ -1,0 +1,21 @@
+{"slug": "2026-11-15-civ-digitalmag-anssi-pki-racine-signature-electronique", "studies": {
+"authentication": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "ANSSI's PKI Racine head Landry Kouadio Assi said on 11 November 2026 that the national root PKI is in use, by public bodies only, with phase 1 the systematic roll-out of e-signature, time-stamping and archiving across ministries.", "as_of": "2026-11-11", "date_precision": "day", "system": "PKI Racine", "class": "authentication"}
+], "systems": [{"system": "PKI Racine", "country_label": "Cote d'Ivoire", "class": "authentication", "platform": "", "owner": "ANSSI", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No civil register to ID link stated; linkage of PKI to digital identity is a later phase."}}},
+"civilregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Birth certificate signing is an illustration only; no civil register system stated."}}},
+"cybersecurity": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The report says decrees of 2021 and 2024 created ANSSI-CI as the governance authority for cybersecurity, on the legal base of the 2013 cybersecurity laws.", "as_of": "2024", "date_precision": "year", "system": "ANSSI-CI", "class": "response"}
+], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Sovereignty is argued for the PKI root; no rule, hosting or contract term on state data stated."}}},
+"ecommercelaw": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The report says the 2013 cybersecurity laws, with the 2021 and 2024 decrees, give ANSSI the legal base to give probative force to secure electronic signatures.", "as_of": "2013", "date_precision": "year", "system": "2013 cybersecurity laws", "class": "law"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No ID enrolment figure stated."}}},
+"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No national ID system operation stated."}}},
+"idregisters": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No national ID system stated."}}},
+"localgov": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No local government connection stated."}}},
+"registry": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No civil registration office system stated."}}}
+}}

@@ -1,0 +1,10 @@
+{"slug": "2026-11-16-ben-wearetech-ia-chine-snaeia-competences-jeunesse", "studies": {
+"aiabuse": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on AI harm rules."}}},
+"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on AI use in government."}}},
+"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on sector AI use."}}},
+"aistrategy": {"countries": {"BEN": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "We Are Tech Africa says Benin adopted its national AI and big data strategy (SNIAM) in January 2023, covering 2023-2027, with a 123-measure action plan.", "as_of": "2023-01", "date_precision": "month", "system": "Stratégie nationale d'intelligence artificielle et des mégadonnées (SNIAM)", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No local AI system built."}}},
+"civilserviceskills": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No civil service training delivered; strategy priority only."}}},
+"digitalskills": {"countries": {"BEN": {"facts": [], "systems": [], "note": "MoU and pilot designation only, no timetable or training delivered."}}},
+"stemgraduates": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No STEM graduate share stated."}}}
+}}

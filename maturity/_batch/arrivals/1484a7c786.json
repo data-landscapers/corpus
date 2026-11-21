@@ -1,0 +1,138 @@
+{
+ "slug": "2025-01-21-humangle-nin-sim-linkage-insecurity",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The NCC said in August 2024 that no functional SIM card was left unverified against the National Identification Number.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "NIN-SIM linkage",
+       "class": "authentication"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil register and ID links."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of people enrolled in the NIN stated; only SIM links."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on ID numbers at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on who operates or owns the ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "SIM linkage is not a public register keyed on the ID; nothing else stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Former President Buhari called the National Identification Number the foundational digital ID for Nigerian citizens and legal residents, and over 153 million SIMs were linked to NINs by August 2024 per the NCC.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "National Identification Number",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The NCC said in August 2024 that every functional SIM was verified with the NIN, after linkage began in 2020.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "NIN-SIM linkage",
+       "class": "relying"
+      },
+      {
+       "sub_indicator": "use",
+       "aspect": "usage",
+       "value": "reported",
+       "fact": "The NCC said over 153 million SIMs had been linked to NINs, a 96 per cent compliance rate, in August 2024.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "NIN-SIM linkage",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIN-SIM linkage",
+       "country_label": "NIN-SIM linkage",
+       "class": "relying",
+       "platform": "",
+       "owner": "Nigerian Communications Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Paradigm Initiative is named only as a critic; no research publication stated."
+    }
+   }
+  }
+ }
+}

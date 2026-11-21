@@ -1,0 +1,13 @@
+{"slug": "2026-11-16-iebc-biometric-voter-registration-bvr", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Describes voter registration only; nothing on ID authentication."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on the civil register and ID link."}}},
+"electoralregister": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "electoral", "aspect": "roll", "value": "inservice", "fact": "IEBC says it rolled out all-biometric voter registration in all 290 constituencies in 2012, with 15,000 BVR kits at 24,614 centres registering 14,352,545 voters in about a month, data held on a central server.", "as_of": "2012", "date_precision": "year", "system": "Biometric Voter Registration System (BVR)", "class": "electoral"},
+{"sub_indicator": "electoral", "aspect": "checked", "value": "open", "fact": "IEBC says printed registers with voter photos are distributed to polling centres for people to check their details, and the register can be verified online and by SMS.", "as_of": "2013", "date_precision": "year", "system": "Biometric Voter Registration System (BVR)", "class": "electoral"}
+], "systems": [{"system": "Biometric Voter Registration System (BVR)", "country_label": "Kenya", "class": "electoral", "platform": "laptop, fingerprint scanner and camera kits", "owner": "Independent Electoral and Boundaries Commission", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a voter registration count; no national ID enrolment figure."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on who operates the national ID system."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "BVR captures the ID card number as data, and cross-matching with the National Registration Bureau is only being explored; no register keyed on the ID number."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Describes the voter register, not the national ID system."}}}
+}}

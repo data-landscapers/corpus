@@ -1,0 +1,45 @@
+{"slug": "2026-11-17-xaf-expertise-france-data-governance-in-africa-initiative", "studies": {
+"agrisatellite": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Benin is not named for farming or satellite data."},
+"CIV": {"facts": [], "systems": [], "note": "Support to satellite data access is donor activity, with no government farming service stated."},
+"GHA": {"facts": [], "systems": [], "note": "Only agritech startups using data and AI are named, with no satellite data or government service."},
+"SEN": {"facts": [], "systems": [], "note": "Support to satellite data access is donor activity, with no government farming service stated."}}},
+"aiabuse": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Nothing on AI harms."},
+"CIV": {"facts": [], "systems": [], "note": "Nothing on AI harms."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on AI harms."},
+"SEN": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Customs data tools are sector systems, not general administration."},
+"CIV": {"facts": [], "systems": [], "note": "Customs and tax use of language models is a sector system, not general administration."},
+"GHA": {"facts": [], "systems": [], "note": "Nothing on government AI use."},
+"SEN": {"facts": [], "systems": [], "note": "Tax authority tools are sector systems, not general administration."}}},
+"aisectoral": {"countries": {
+"BEN": {"facts": [], "systems": [{"system": "Customs data infrastructure (Direction Générale des Douanes)", "country_label": "Benin", "class": "other", "platform": "", "owner": "Direction Générale des Douanes", "tiers": ""}], "note": "The customs dashboards and mirror trade analyses are not stated to use AI."},
+"CIV": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "Expertise France's project page says Côte d'Ivoire's customs and tax authorities use large language models to automate monthly performance reporting.", "as_of": "2026-11-17", "date_precision": "day", "system": "LLM monthly performance reporting", "class": "sectorai"},
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Expertise France's project page says Côte d'Ivoire's customs and tax authorities are prototyping automated PDF data extraction and web-scraping for taxpayer risk analysis and to identify undervalued cargo.", "as_of": "2026-11-17", "date_precision": "day", "system": "Customs and tax risk analysis prototypes", "class": "sectorai"}
+], "systems": [], "note": ""},
+"GHA": {"facts": [], "systems": [], "note": "Ghana is not named for tax or customs AI."},
+"SEN": {"facts": [], "systems": [{"system": "Tax authority marketplace cross-referencing APIs (Direction Générale des Impôts et des Domaines)", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Direction Générale des Impôts et des Domaines", "tiers": ""}], "note": "The tax authority's automated APIs are not stated to use AI."}}},
+"aisystems": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is named."},
+"CIV": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is named."},
+"GHA": {"facts": [], "systems": [], "note": "Open-source AI models for startups are named across Africa with no Ghana build stated."},
+"SEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is named."}}},
+"regionalpolicy": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "The initiative is a donor programme, with no African body running it or country act stated."},
+"CIV": {"facts": [], "systems": [], "note": "The initiative is a donor programme, with no African body running it or country act stated."},
+"GHA": {"facts": [], "systems": [], "note": "The initiative is a donor programme, with no African body running it or country act stated."},
+"SEN": {"facts": [], "systems": [], "note": "The initiative is a donor programme, with no African body running it or country act stated."}}},
+"startups": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "No startup law or fund is named."},
+"CIV": {"facts": [], "systems": [], "note": "No startup law or fund is named."},
+"GHA": {"facts": [], "systems": [], "note": "No startup law or fund is named."},
+"SEN": {"facts": [], "systems": [], "note": "No startup law or fund is named."}}},
+"techhubs": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "No hub is named."},
+"CIV": {"facts": [], "systems": [], "note": "Only hackathons and workshops are named, with no hub."},
+"GHA": {"facts": [], "systems": [], "note": "No hub is named."},
+"SEN": {"facts": [], "systems": [], "note": "Only hackathons and workshops are named, with no hub."}}}
+}}

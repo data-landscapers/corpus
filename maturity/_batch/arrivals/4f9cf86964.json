@@ -1,0 +1,17 @@
+{"slug": "2026-11-18-egy-sis-eams-online-seafarer-passport-services", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Egypt's justice and communications ministries introduced remote notarization in November 2026 in which applicants verify their identity through the Digital Identity app on Digital Egypt, per Ahram Online via the State Information Service.", "as_of": "2026-11", "date_precision": "month", "system": "Digital Identity app", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "Egypt's Digital Identity app is in service for people to prove their identity online to obtain a power of attorney through Digital Egypt, run for the justice and communications ministries.", "as_of": "2026-11", "date_precision": "month", "system": "Digital Identity app", "class": "authentication"}],
+"systems": [{"system": "Digital Identity app", "country_label": "Egypt", "class": "authentication", "platform": "Digital Egypt", "owner": "Ministry of Communications and Information Technology", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document says nothing on a civil register and ID link."}}},
+"egovservices": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Prime Minister Madbouly said on 7 November 2026 that the Digital Egypt platform offered 261 services, up by 71 from 2025.", "as_of": "2026-11-07", "date_precision": "day", "system": "Digital Egypt", "class": "eservices"},
+{"sub_indicator": "eservices", "aspect": "usage", "value": "published", "fact": "Prime Minister Madbouly said on 7 November 2026 that the Digital Egypt platform had 13.7 million users.", "as_of": "2026-11-07", "date_precision": "day", "system": "Digital Egypt", "class": "eservices"}],
+"systems": [{"system": "Digital Egypt", "country_label": "Egypt", "class": "eservices", "platform": "", "owner": "", "tiers": ""}], "note": "Seafarer passport portal (EAMS) is one agency's service; no single gateway across ministries is stated."}}},
+"health": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document says nothing on health systems."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No enrolment count or share for a national ID is stated."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document says nothing on an ID number at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document says nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document says nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Digital Identity app is named but nothing is stated on the national ID system's issuance, biometrics or certification."}}}
+}}

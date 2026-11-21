@@ -1,0 +1,23 @@
+{"slug": "2026-11-18-uga-new-national-id-verification-glitches-spark-delays-at-banks-agencies-e", "studies": {
+"aiabuse": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Mentions AI only as a reason for biometric checks; no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"authentication": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "NIRA says its verification framework, introduced in May 2025, requires service providers to authenticate National Identification Numbers using fingerprint or iris, and calls the system operational.", "as_of": "2025-05", "date_precision": "month", "system": "NIRA NIN biometric verification", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "NIRA says 10 of 107 partner institutions had completed onboarding and were transacting through the verification system as of 28 October 2026.", "as_of": "2026-10-28", "date_precision": "day", "system": "NIRA NIN biometric verification", "class": "authentication"}
+], "systems": [{"system": "NIRA NIN biometric verification (eKYC via third-party interface)", "country_label": "Uganda", "class": "authentication", "platform": "NIRA third-party interface and Partner Management Platform", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"digitalstrategy": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No named strategy stated."}}},
+"idcoverage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Who operates or owns the system is not stated beyond NIRA's role as authority."}}},
+"idregisters": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No public register keyed on the NIN stated."}}},
+"idrobustness": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIRA issues new national identity cards and the National Identification Register holds each person's particulars retrievable by NIN, per NIRA's registrar.", "as_of": "2026-11-18", "date_precision": "day", "system": "National Identification Register (NIRA)", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idverification": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "NIRA says partner institutions, including banks, verify customers against the national ID database by NIN and biometrics, with 10 of 107 partners transacting as of 28 October 2026.", "as_of": "2026-10-28", "date_precision": "day", "system": "NIRA NIN biometric verification", "class": "relying"},
+{"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "NIRA counts 10 of 107 partner institutions onboarded and transacting through the verification system as of 28 October 2026, and wrote in September to all 30 commercial banks setting an October integration deadline.", "as_of": "2026-10-28", "date_precision": "day", "system": "NIRA NIN biometric verification", "class": "relying"}
+], "systems": [], "note": ""}}}
+}}

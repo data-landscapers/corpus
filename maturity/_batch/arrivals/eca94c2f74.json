@@ -1,0 +1,68 @@
+{
+ "slug": "2026-11-13-uga-monitor-banks-nira-marital-status-verification",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document only reports a proposed UBA-NIRA marital-status check for lenders; nothing in service or contracted that answers this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document only reports a proposed UBA-NIRA marital-status check for lenders; nothing in service or contracted that answers this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document only reports a proposed UBA-NIRA marital-status check for lenders; nothing in service or contracted that answers this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document only reports a proposed UBA-NIRA marital-status check for lenders; nothing in service or contracted that answers this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document only reports a proposed UBA-NIRA marital-status check for lenders; nothing in service or contracted that answers this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document only reports a proposed UBA-NIRA marital-status check for lenders; nothing in service or contracted that answers this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document only reports a proposed UBA-NIRA marital-status check for lenders; nothing in service or contracted that answers this study."
+    }
+   }
+  }
+ }
+}

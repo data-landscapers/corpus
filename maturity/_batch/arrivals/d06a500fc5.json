@@ -1,0 +1,7 @@
+{
+ "slug": "2023-12-01-mar-une-revolution-dans-le-systeme-de-soins",
+ "studies": {
+  "health": {"countries": {"MAR": {"facts": [], "systems": [{"system": "système d'information hospitalier intégré (SIH)", "country_label": "Maroc", "class": "other", "platform": "", "owner": "Ministry of Health and Social Protection", "tiers": "T1;T2"}], "note": "SIH is said to be in public hospitals but not to hold the clinical record; its 2024 generalisation and the shared record are plans."}}},
+  "schoolinternet": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No school internet figure or curriculum rule is stated."}}}
+ }
+}

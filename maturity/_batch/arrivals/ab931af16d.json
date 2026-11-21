@@ -1,0 +1,10 @@
+{"slug": "2026-11-18-cmr-businessincameroon-pmsi-dgi-tenders-cancelled", "studies": {
+"coresystems": {"countries": {"CMR": {"facts": [], "systems": [{"system": "SIGIT (Integrated Tax and Duty Management System)", "country_label": "Cameroon", "class": "other", "platform": "contract awarded 2026-04-10, 24-month implementation", "owner": "Directorate General of Taxation (DGI)", "tiers": ""}], "note": "The tax administration is said to rely on multiple applications, with no core system stated in use or down; SIGIT is a contract awarded, not in use."}}},
+"datacentres": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Only DGI's own data centres, with no hire to outside customers stated."}}},
+"egovservices": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Online taxpayer services are only expected from SIGIT, not in service."}}},
+"landadmin": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on land administration."}}},
+"nationaldatacentres": {"countries": {"CMR": {"facts": [], "systems": [], "note": "DGI data centres serve DGI only; no data centre for hire stated."}}},
+"taxregister": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "taxpayers", "aspect": "register", "value": "underway", "fact": "Business in Cameroon reports the Finance Minister approved on 10 April 2026 a EUR 5.997m contract for SIGIT, a new tax management system that will support taxpayer registration, with 24 months of implementation under the KfW-financed PMSI-DGI programme.", "as_of": "2026-04-10", "date_precision": "day", "system": "SIGIT", "class": "tax"}
+], "systems": [{"system": "SIGIT (Integrated Tax and Duty Management System)", "country_label": "Cameroon", "class": "tax", "platform": "", "owner": "Directorate General of Taxation (DGI)", "tiers": ""}], "note": ""}}}
+}}

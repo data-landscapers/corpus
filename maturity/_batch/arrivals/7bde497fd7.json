@@ -1,0 +1,20 @@
+{
+ "slug": "2026-11-16-nimc-digital-identity-ecosystem",
+ "studies": {
+  "authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only says the ecosystem aims to improve authentication; no service is stated."}}},
+  "birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Names NIMC and NPopC (births and deaths) as partners for foundational ID; no record flow between the registers is stated."}}},
+  "g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Pension payments are named only as a use of citizenship data; no digital payment is stated."}}},
+  "idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No count or share enrolled is given."}}},
+  "idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+  "idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NIMC is called custodian of the database; who operates, maintains or owns the platform is not stated."}}},
+  "idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Lists agencies' own registries but does not say any is keyed on the NIN."}}},
+  "idrobustness": {"countries": {"NGA": {"facts": [
+   {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIMC's page says NIMC enrolment centres nationwide continue to provide enrolment and NIN issuance, and that NIMC is custodian of the central National Identity Database.", "as_of": "2026-11-16", "date_precision": "day", "system": "National Identity Management System (NIMS) / NIN", "class": "idsystem"}
+  ], "systems": [{"system": "National Identity Management System (NIMS)", "country_label": "Nigeria", "class": "idsystem", "platform": "", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+  "idverification": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Describes agencies and private firms that may rely on ID, but no service is stated to verify against the NIN."}}},
+  "localgov": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Local governments are named only as ID users; no office connection is stated."}}},
+  "police": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Police Force named only as operating a registry of people in conflict with the law; no station records stated."}}},
+  "registry": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NPopC is named as the body registering births and deaths; no digital entry at offices is stated."}}},
+  "socialprotection": {"countries": {"NGA": {"facts": [], "systems": [{"system": "National Social Safety Net Project registry", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "NASSP", "tiers": ""}], "note": "A registry of poor and vulnerable people only; no programme system or payments stated."}}}
+ }
+}

@@ -2489,7 +2489,7 @@ LSO,103,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument
 LSO,104,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
 LSO,105,2022-06-01-chrgj-paving-digital-road-to-hell,2026-11-17,instrument,2026-11-17
 LSO,106,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
-MAR,75,2026-11-14-mar-morocco-is-building-an-ai-future-i-am-already-living-inside-one,2026-11-17,,
+MAR,75,2026-11-14-mar-morocco-is-building-an-ai-future-i-am-already-living-inside-one,2026-11-17,nothing,2026-11-21
 MAR,76,2026-11-16-bloomsbury-biometric-digital-id-ch11-conclusions-sesan-roberts,2026-11-17,instrument,2026-11-17
 MAR,77,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 MAR,78,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -2810,7 +2810,7 @@ MAR,89,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-1
 MDG,70,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 MLI,59,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 MOZ,91,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-MUS,114,2026-11-17-governing-the-code-comparative-ai-lessons-from-east-southern-africa,2026-11-18,,
+MUS,114,2026-11-17-governing-the-code-comparative-ai-lessons-from-east-southern-africa,2026-11-18,nothing,2026-11-21
 MUS,115,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 MWI,127,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 NAM,113,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
@@ -2827,11 +2827,11 @@ TCD,49,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-1
 TGO,69,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 TUN,77,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 TUN,78,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-TZA,163,2026-11-17-governing-the-code-comparative-ai-lessons-from-east-southern-africa,2026-11-18,,
+TZA,163,2026-11-17-governing-the-code-comparative-ai-lessons-from-east-southern-africa,2026-11-18,nothing,2026-11-21
 TZA,164,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 UGA,221,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 ZAF,238,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-ZMB,144,2026-11-17-governing-the-code-comparative-ai-lessons-from-east-southern-africa,2026-11-18,,
+ZMB,144,2026-11-17-governing-the-code-comparative-ai-lessons-from-east-southern-africa,2026-11-18,nothing,2026-11-21
 ZMB,145,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 ZWE,150,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 AGO,82,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
@@ -2877,7 +2877,7 @@ MOZ,93,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2
 MRT,62,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 MRT,63,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
 MUS,116,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
-MWI,128,2026-11-18-mwi-malawi-launches-20262029-open-government-partnership-national-action-plan,2026-11-20,,
+MWI,128,2026-11-18-mwi-malawi-launches-20262029-open-government-partnership-national-action-plan,2026-11-20,nothing,2026-11-21
 MWI,129,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 NAM,114,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 NER,49,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
@@ -2893,7 +2893,7 @@ SLE,115,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,
 SOM,97,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 SSD,84,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 STP,63,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
-SWZ,137,2026-11-19-swz-another-govt-online-services-blackout,2026-11-20,,
+SWZ,137,2026-11-19-swz-another-govt-online-services-blackout,2026-11-20,nothing,2026-11-21
 SWZ,138,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 SYC,49,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 TCD,50,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
@@ -2908,9 +2908,9 @@ AGO,83,2026-03-01-nam-bon-annual-report-2025,2026-11-21,instrument,2026-11-21
 BWA,82,2026-03-01-nam-bon-annual-report-2025,2026-11-21,instrument,2026-11-21
 CIV,74,2026-05-01-civ-oidh-idea-analyse-fimi-cote-divoire,2026-11-21,instrument,2026-11-21
 ETH,144,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
-GHA,161,2026-11-20-gha-data-forum-statistics-bill-national-statistics-fund,2026-11-21,,
+GHA,161,2026-11-20-gha-data-forum-statistics-bill-national-statistics-fund,2026-11-21,nothing,2026-11-21
 GHA,162,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21
-LBR,91,2025-12-12-lbr-moe-makes-gains-amid-enormous-challenges-jesr-midterm-review,2026-11-21,,
+LBR,91,2025-12-12-lbr-moe-makes-gains-amid-enormous-challenges-jesr-midterm-review,2026-11-21,nothing,2026-11-21
 LSO,109,2026-03-01-nam-bon-annual-report-2025,2026-11-21,instrument,2026-11-21
 MOZ,94,2026-03-01-nam-bon-annual-report-2025,2026-11-21,instrument,2026-11-21
 MWI,130,2023-10-01-xgl-iied-delivering-anticipatory-social-protection-readiness,2026-11-21,instrument,2026-11-21

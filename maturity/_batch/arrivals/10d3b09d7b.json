@@ -1,0 +1,22 @@
+{"slug": "2026-11-16-zaf-inforeg-must-not-be-ai-regulator-says-ex-member", "studies": {
+"accesstoinformationlaw": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "ITWeb reports the Information Regulator, set up in December 2016, has the job among others of monitoring and enforcing compliance with the Promotion of Access to Information Act.", "as_of": "2016-12", "date_precision": "month", "system": "Information Regulator", "class": "law"}
+], "systems": [], "note": ""}}},
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document states no AI harm rule, authority or enforcement; it argues about who should regulate AI."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government use of AI stated."}}},
+"ailaw": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only the withdrawn draft National AI Policy is named, a policy and not a law or draft rule."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No sectoral AI use stated."}}},
+"aistrategy": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "none", "fact": "ITWeb, citing Prof Sizwe Snail ka Mtuze, says South Africa's draft National AI Policy was withdrawn earlier in 2026 and an AI policy is still to come.", "as_of": "2026", "date_precision": "year", "system": "National AI Policy", "class": "strategy"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing stated."}}},
+"dataprotectionauthority": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "ITWeb reports the Information Regulator, headed by advocate Pansy Tlakula, was set up with its first members in December 2016 to enforce POPIA.", "as_of": "2016-12", "date_precision": "month", "system": "Information Regulator", "class": "authority"},
+{"sub_indicator": "body", "aspect": "rulings", "value": "ruled", "fact": "ITWeb reports the Information Regulator has issued enforcement notices, with First National Bank and a TVET college among the most recent found in breach of POPIA, and earlier notices against the Department of Justice and Correctional Services.", "as_of": "2026-11-16", "date_precision": "day", "system": "Information Regulator", "class": "authority"}
+], "systems": [{"system": "Information Regulator", "country_label": "South Africa", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "ITWeb reports the Protection of Personal Information Act came into force on 1 July 2021 after a year-long grace period.", "as_of": "2021-07-01", "date_precision": "day", "system": "POPIA", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "ITWeb reports the Information Regulator, headed by Pansy Tlakula, was set up in December 2016 and enforces POPIA.", "as_of": "2016-12", "date_precision": "month", "system": "Information Regulator", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "ITWeb reports the Information Regulator has issued enforcement notices under POPIA, with First National Bank and a TVET college among the most recent found in breach.", "as_of": "2026-11-16", "date_precision": "day", "system": "POPIA", "class": "general"}
+], "systems": [], "note": ""}}}
+}}

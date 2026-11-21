@@ -1,14 +1,1 @@
-{
- "slug": "2025-01-08-xgl-raspberrypi-cer-computing-education-around-the-world",
- "studies": {
-  "schoolinternet": {
-   "countries": {
-    "SYC": {
-     "facts": [],
-     "systems": [],
-     "note": "Says Seychelles had no evidence of computing education provision in 2024; no compulsory subject or internet figure stated."
-    }
-   }
-  }
- }
-}
+{"slug": "2025-01-08-xgl-raspberrypi-cer-computing-education-around-the-world", "studies": {"civilserviceskills": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Only school computing education is covered."}, "SYC": {"facts": [], "systems": [], "note": "Only school computing education is covered."}}}, "digitalskills": {"countries": {"BWA": {"facts": [], "systems": [], "note": "CSEd Botswana is a school computing programme, not a public digital-skills programme."}, "SYC": {"facts": [], "systems": [], "note": "Only school computing education is covered."}}}, "policyresearch": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No local institution researching digital policy named."}, "SYC": {"facts": [], "systems": [], "note": "No local institution researching digital policy named."}}}, "schoolinternet": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Says Seychelles had no evidence of computing education provision in 2024; no compulsory subject or internet figure stated."}}}}}

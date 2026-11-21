@@ -1,0 +1,16 @@
+{"slug": "2024-03-25-capital-addressing-digital-id-gap-among-idps", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states no authentication service."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document says nothing on a civil register and ID link."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Gives 3.8 million registered and a 90 million target for 2028, but no population share."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document says nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document says nothing on who operates, maintains or owns the ID system."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document says nothing on public registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Capital newspaper reports that about 3.8 million people have been registered in Ethiopia's national identification programme, whose Fayda ID carries a unique 12-digit number, with registration centres at nine banks and 69 Addis Ababa branches.", "as_of": "2024-03", "date_precision": "month", "system": "Fayda", "class": "idsystem"}],
+"systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "idsystem", "platform": "", "owner": "National ID Program", "tiers": ""}], "note": "No biometric deduplication check, certification or population share is stated."}}},
+"refugees": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "displaced", "aspect": "registration", "value": "documented", "fact": "Ethiopia's National ID programme policy advisor said about 8,000 displaced people in West Wolega had been registered and given IDs in a pilot, out of an estimated 4.4 million internally displaced.", "as_of": "2024-03", "date_precision": "month", "system": "Fayda pilot for IDPs", "class": "displaced"},
+{"sub_indicator": "displaced", "aspect": "access", "value": "open", "fact": "Displaced people in Ethiopia are being enrolled in the national digital ID through a pilot with humanitarian organisations, and the government with UNHCR is extending digital identification services to refugees and asylum seekers.", "as_of": "2024-03", "date_precision": "month", "system": "Fayda", "class": "displaced"},
+{"sub_indicator": "displaced", "aspect": "counted", "value": "counted", "fact": "Capital newspaper reports about 8,000 of an estimated 4.4 million internally displaced people in Ethiopia had received a pilot digital ID.", "as_of": "2024-03", "date_precision": "month", "system": "Fayda", "class": "displaced"}],
+"systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "National ID Program", "tiers": ""}], "note": ""}}}
+}}

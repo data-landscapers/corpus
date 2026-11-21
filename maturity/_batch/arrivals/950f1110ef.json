@@ -1,0 +1,7 @@
+{"slug": "2024-06-06-ner-sante-numerique-vers-l-adoption-d-un-schema-directeur-pour-la-digitali", "studies": {
+"datacentres": {"countries": {"NER": {"facts": [], "systems": [], "note": "The health ministry's data centre is its own; no data centre for hire stated."}}},
+"health": {"countries": {"NER": {"facts": [], "systems": [], "note": "Only a digital-health master plan workshop and committees; no named system, tiers or digitisation stated."}}},
+"healthmis": {"countries": {"NER": {"facts": [], "systems": [], "note": "No health information system named as procured, piloted or in service."}}},
+"nationaldatacentres": {"countries": {"NER": {"facts": [], "systems": [], "note": "Names a health ministry data centre, not stated as for hire."}}},
+"schoolinternet": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

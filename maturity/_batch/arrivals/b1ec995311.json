@@ -1,0 +1,11 @@
+{
+ "slug": "2026-11-16-tra-cotedivoire-aisca-ai-cooperation",
+ "studies": {
+  "aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is named."}}},
+  "aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "An MoU on cooperation only; no government AI system in use or piloted."}}},
+  "aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No sectoral AI tool is named."}}},
+  "aistrategy": {"countries": {"CIV": {"facts": [], "systems": [{"system": "National AI Strategy 2030", "country_label": "Côte d'Ivoire", "class": "strategy", "platform": "", "owner": "", "tiers": ""}], "note": "Names a National AI Strategy for 2030 but states neither its adoption nor drafting."}}},
+  "aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "MoU for access to sovereign computing with no facility, site or capacity stated."}}},
+  "digitalstrategy": {"countries": {"CIV": {"facts": [], "systems": [{"system": "Digital Roadmap 2026-2028", "country_label": "Côte d'Ivoire", "class": "ministry-plan", "platform": "", "owner": "", "tiers": ""}], "note": "Only names a Digital Roadmap 2026-2028 with no standing, owner or scope stated."}}}
+ }
+}

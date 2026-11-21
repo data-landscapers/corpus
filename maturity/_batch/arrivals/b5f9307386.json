@@ -1,0 +1,42 @@
+{"slug": "2024-02-28-apc-botswana-e-government-privacy-pitfalls", "studies": {
+"accesstoinformationlaw": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Only the constitutional protection of access to information is mentioned, which is not a law."}}},
+"authentication": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No authentication service is stated."}}},
+"birthidlink": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No civil register to ID link is stated."}}},
+"businesspayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No e-procurement is stated."}}},
+"centralbank": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+"civilserviceskills": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Training of officials appears only as a recommendation."}}},
+"consumerprotection": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No financial consumer protection is stated."}}},
+"crossborderpayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No cross-border payment is stated."}}},
+"dataprotectionlaw": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The Data Protection Act of 2018 was operationalised in October 2021, though the article says some parts are not fully implemented.", "as_of": "2021-10", "date_precision": "month", "system": "Data Protection Act 2018", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The article says an Information Commissioner has been appointed and is setting up a full secretariat.", "as_of": "2024-02-28", "date_precision": "day", "system": "Information Commissioner", "class": "general"}
+], "systems": [{"system": "Data Protection Act 2018", "country_label": "Botswana", "class": "general", "platform": "", "owner": "Government of Botswana", "tiers": ""}], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "The Data Protection Act of 2018 was operationalised in October 2021, though the article says some parts are not fully implemented.", "as_of": "2021-10", "date_precision": "month", "system": "Data Protection Act 2018", "class": "system"},
+{"sub_indicator": "system", "aspect": "treaty", "value": "signed", "fact": "The article says Botswana has signed the Malabo Convention but has not ratified it yet.", "as_of": "2024-02-28", "date_precision": "day", "system": "Malabo Convention", "class": "system"},
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "The article says an Information Commissioner has been appointed and is setting up a full secretariat.", "as_of": "2024-02-28", "date_precision": "day", "system": "Information Commissioner", "class": "system"}
+], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"BWA": {"facts": [], "systems": [{"system": "2015-2021 e-government strategy", "country_label": "Botswana", "class": "other", "platform": "", "owner": "Government of Botswana", "tiers": ""}], "note": "Only a state-administration strategy and the ICT sector policy are named, not a national digital strategy."}}},
+"egovservices": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Services are named only as proposed in a strategy, none as online."}}},
+"g2ppayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No government payments to people are stated."}}},
+"gridreliability": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Outages are mentioned with no count."}}},
+"ictstrategy": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The article says the Maitlamo ICT Policy was adopted in 2004 to facilitate ICT rollout (it also dates its adoption to 2007).", "as_of": "2004", "date_precision": "year", "system": "Maitlamo ICT Policy", "class": "sector"}
+], "systems": [{"system": "Maitlamo ICT Policy", "country_label": "Botswana", "class": "sector", "platform": "", "owner": "Government of Botswana", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No ID coverage figure is stated."}}},
+"idfrombirth": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No ID system operation is stated."}}},
+"idregisters": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No register keyed on the ID is stated."}}},
+"idrobustness": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No national ID system is described."}}},
+"opendiscussion": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "The article reports that journalist Tsaone Basimanebotlhe was detained and her devices confiscated in 2019 by state security agents seeking the sources behind an article that published photos of agents.", "as_of": "2019", "date_precision": "year", "system": "Corruption and Economic Crime Act", "class": "discussion"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No account survey figure is stated."}}},
+"policyresearch": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No local digital policy research institution is named."}}},
+"regionallaw": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The article says Botswana is a signatory to the African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention) but has not ratified it yet.", "as_of": "2024-02-28", "date_precision": "day", "system": "Malabo Convention", "class": "harmonisation"}
+], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No retail digital payment service is stated."}}},
+"revenuecollection": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Online tax returns are named only as proposed in a strategy."}}},
+"ruralelectrification": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No rural electricity access figure is stated."}}}
+}}

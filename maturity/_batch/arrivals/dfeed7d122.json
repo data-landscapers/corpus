@@ -1,0 +1,11 @@
+{"slug": "2026-11-19-cod-kinshasa-wewa-treve-identification-numerique", "studies": {
+"authentication": {"countries": {"COD": {"facts": [], "systems": [], "note": "Digital identification of motorcycle-taxi riders is a sectoral registration; no authentication service stated."}}},
+"birthidlink": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"feedbackportals": {"countries": {"COD": {"facts": [], "systems": [], "note": "A joint commission on police harassment complaints is announced, with no digital channel."}}},
+"idcoverage": {"countries": {"COD": {"facts": [], "systems": [], "note": "No national ID enrolment figure."}}},
+"idfrombirth": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idmaintenance": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idregisters": {"countries": {"COD": {"facts": [], "systems": [], "note": "The rider identification is a provincial sectoral register, not keyed on the national ID number."}}},
+"idrobustness": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"police": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on digital records at police stations."}}}
+}}

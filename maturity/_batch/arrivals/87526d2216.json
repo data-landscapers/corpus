@@ -1,0 +1,9 @@
+{"slug": "2025-07-25-mutungu-counting-without-accounting-kenya-identity", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Abstract only; no authentication service named."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Abstract only; no link between registers stated."}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Abstract only; no enrolment figure."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Abstract only; no number at birth stated."}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Abstract only; no operator or owner stated."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Abstract only; no register keyed on the ID."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Abstract only; no system status stated."}}}
+}}

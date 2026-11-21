@@ -1,0 +1,14 @@
+{"slug": "2026-11-18-egy-youm7-public-prosecution-ai-limits-justice", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The prosecution's limits on its own AI use are a stated policy, not a rule on AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [{"system": "Public Prosecution AI data centre and case-file tools", "country_label": "Egypt", "class": "other", "platform": "", "owner": "Public Prosecution", "tiers": ""}], "note": "The prosecution's AI use is justice-sector work, assessed under sectoral AI."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "At the opening of its AI data centre, Egypt's Public Prosecution said AI tools will analyse and summarise case files, compare statements and suggest procedures, with decisions staying with prosecutors, per the Prosecutor-General and Youm7.", "as_of": "2026-11-14", "date_precision": "day", "system": "Public Prosecution AI tools for case files", "class": "sectorai"}
+], "systems": [{"system": "Public Prosecution AI data centre and case-file tools", "country_label": "Egypt", "class": "sectorai", "platform": "", "owner": "Public Prosecution", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "Egypt's Public Prosecution opened its AI data centre, which provides the infrastructure to develop and run AI applications, according to Youm7.", "as_of": "2026-11-14", "date_precision": "day", "system": "Public Prosecution AI data centre", "class": "localai"}
+], "systems": [{"system": "Public Prosecution AI data centre", "country_label": "Egypt", "class": "localai", "platform": "", "owner": "Public Prosecution", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The prosecution's data centre serves its own applications; no renting to others is stated."}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Data protection is mentioned only as a stated requirement; no law named."}}},
+"digitaldivides": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No rural programme or rural and urban figures."}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The prosecution's centre is not stated to be for hire or to host other state systems."}}}
+}}

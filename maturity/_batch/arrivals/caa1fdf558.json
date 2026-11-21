@@ -1,0 +1,7 @@
+{"slug": "2026-11-10-egy-vetogate-healthcare-authority-6-5m-electronic-files", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only an aspiration for an AI agent and general AI expansion; no AI system stated under way or in service in administration."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "AI in health is discussed as goals and expansion; no named AI tool piloted or in service is stated."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "National AI models from health data are an aim only; no builder, funder or site named."}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Document mentions keeping health data in Egypt but no data protection law."}}}
+}}

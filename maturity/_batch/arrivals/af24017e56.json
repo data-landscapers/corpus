@@ -1,0 +1,29 @@
+{"slug": "2026-11-18-cog-congo-107-milliards-fcfa-de-recettes-publiques-collect-es-par-la-nouve", "studies": {
+"businesspayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"COG": {"facts": [], "systems": [], "note": "BEAC appears only as the bank holding the Treasury account; no payments role stated."}}},
+"consumerprotection": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"customs": {"countries": {"COG": {"facts": [
+{"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "The Finance Ministry says Sydonia is the software customs uses to clear goods and collect duties and taxes, and 13 billion FCFA was collected through it via Fouta from 1 June to 16 November 2026.", "as_of": "2026-11-16", "date_precision": "day", "system": "Sydonia", "class": "customs"}
+], "systems": [{"system": "Sydonia", "country_label": "Sydonia", "class": "customs", "platform": "Sydonia", "owner": "customs administration", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"COG": {"facts": [], "systems": [], "note": "The Brazzaville and Pointe-Noire data centres are named for Fouta only; none is stated as hired out."}}},
+"digitalsovereignty": {"countries": {"COG": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "hosted", "value": "national", "fact": "The Finance Ministry says Fouta, the public revenue payment platform it owns, runs on infrastructure installed in the data centres of Brazzaville and Pointe-Noire, at a cost of 704 million FCFA.", "as_of": "2026-11-17", "date_precision": "day", "system": "Fouta", "class": "sovereignty"}
+], "systems": [{"system": "Fouta", "country_label": "Fouta", "class": "sovereignty", "platform": "", "owner": "Ministère des Finances", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"nationaldatacentres": {"countries": {"COG": {"facts": [], "systems": [], "note": "The ownership of the Brazzaville and Pointe-Noire data centres is not stated."}}},
+"paymentsuptake": {"countries": {"COG": {"facts": [], "systems": [], "note": "No account survey stated."}}},
+"retailpayments": {"countries": {"COG": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The article says the old e-Pay public revenue payment system relied on one operator, Airtel Money, and that Fouta now brings together all mobile phone operators in Congo.", "as_of": "2026-11-18", "date_precision": "day", "system": "Airtel Money", "class": "retail"}
+], "systems": [{"system": "Airtel Money", "country_label": "Airtel Money", "class": "retail", "platform": "", "owner": "Airtel", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"COG": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Minister Christian Yoka said the Fouta platform collected 107 billion FCFA from its launch on 1 June to 16 November 2026, through seven banks.", "as_of": "2026-11-16", "date_precision": "day", "system": "Fouta", "class": "revenue"},
+{"sub_indicator": "revenue", "aspect": "main", "value": "main", "fact": "The ministry says 94 billion FCFA came from taxes through the e-Tax online filing and payment system and 13 billion from duties and taxes through Sydonia customs.", "as_of": "2026-11-16", "date_precision": "day", "system": "Fouta", "class": "revenue"},
+{"sub_indicator": "revenue", "aspect": "reported", "value": "reported", "fact": "The ministry says revenue collected through Fouta equals 8.5% of 2026 tax revenue, 107 billion FCFA by 16 November.", "as_of": "2026-11-16", "date_precision": "day", "system": "Fouta", "class": "revenue"}
+], "systems": [{"system": "Fouta", "country_label": "Fouta", "class": "revenue", "platform": "", "owner": "Ministère des Finances", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"taxadmin": {"countries": {"COG": {"facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The ministry says e-Tax, run by the tax directorate, is the online filing and payment system for domestic taxes, and it brought in 94 billion FCFA via Fouta from June to 16 November 2026.", "as_of": "2026-11-16", "date_precision": "day", "system": "e-Tax", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "The ministry says taxes are paid online through e-Tax, with 94 billion FCFA collected via Fouta by 16 November 2026.", "as_of": "2026-11-16", "date_precision": "day", "system": "e-Tax", "class": "taxsystem"}
+], "systems": [{"system": "e-Tax", "country_label": "e-Tax", "class": "taxsystem", "platform": "", "owner": "Direction générale des impôts", "tiers": ""}], "note": ""}}}
+}}

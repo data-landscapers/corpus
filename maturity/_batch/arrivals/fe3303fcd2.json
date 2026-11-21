@@ -1,0 +1,17 @@
+{"slug": "2026-11-18-tgo-protection-des-donn-es-personnelles-28-correspondants-certifi-s-par-l-", "studies": {
+"dataprotectionauthority": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The IPDCP, Togo's personal data protection authority, held a ceremony at its seat on 18 November 2026 presided by its President, Colonel Belei Bediani, to hand certificates to 28 data protection correspondents.", "as_of": "2026-11-18", "date_precision": "day", "system": "Instance de Protection des Donnees a Caractere Personnel (IPDCP)", "class": "authority"}
+], "systems": [], "note": "No ruling or count of rulings stated."}}},
+"dataprotectionlaw": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The IPDCP, with a President in office, was acting on 18 November 2026 as the data protection authority, according to its own release.", "as_of": "2026-11-18", "date_precision": "day", "system": "IPDCP", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The IPDCP says it trained data protection correspondents from June 2026, assessed them on 30 September and 1 October, and certified the first 28 on 18 November 2026, for three-year certificates.", "as_of": "2026-11-18", "date_precision": "day", "system": "IPDCP correspondent certification", "class": "general"}
+], "systems": [], "note": "Names no law, its standing or regulations."}}},
+"dataprotectionreadiness": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "The IPDCP, led by its President Colonel Belei Bediani, was at work on 18 November 2026, according to its own release.", "as_of": "2026-11-18", "date_precision": "day", "system": "IPDCP", "class": "system"},
+{"sub_indicator": "system", "aspect": "practice", "value": "implementing", "fact": "The IPDCP trained correspondents on the legal framework from June 2026, assessed them on 30 September and 1 October, and certified the first 28 on 18 November 2026, drawn from banks, insurers, telecom operators, port bodies, local authorities and digital firms.", "as_of": "2026-11-18", "date_precision": "day", "system": "IPDCP correspondent certification", "class": "system"}
+], "systems": [], "note": "No law named; no ruling stated."}}},
+"datatransfers": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on sending data abroad."}}},
+"ictjobs": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No ICT employment figure or graduate unemployment stated."}}},
+"localgov": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Only local authorities' staff among certified correspondents; no connection stated."}}},
+"schoolinternet": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

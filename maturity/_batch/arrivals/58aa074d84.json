@@ -1,0 +1,17 @@
+{"slug": "2026-11-16-nidp-fayda-authentication-page", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The National ID Program's Fayda page describes online e-KYC authentication in use, where service providers request a Fayda number and the customer confirms by one-time code, with facial and fingerprint options in VeriFayda 1.0 and 2.0.", "as_of": "2026-11-16", "date_precision": "day", "system": "Fayda e-KYC (VeriFayda)", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "The page offers Fayda eSignet single sign-on through OpenID Connect for applications across platforms, an online e-KYC channel and an offline QR channel on the Fayda credential, with a partner portal onboarding organisations.", "as_of": "2026-11-16", "date_precision": "day", "system": "Fayda eSignet", "class": "authentication"}
+], "systems": [{"system": "Fayda eSignet", "country_label": "Ethiopia", "class": "authentication", "platform": "OpenID Connect SSO and e-KYC APIs", "owner": "National ID Program Ethiopia", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on civil register link."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No enrolment figure stated."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Operation and ownership not stated."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No public register keyed on the ID stated; linking to banks, telecom and medical records is only being worked towards."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The National ID Program's page describes Fayda Identification Numbers and Fayda credentials in use, verified online and offline.", "as_of": "2026-11-16", "date_precision": "day", "system": "Fayda national ID", "class": "idsystem"}
+], "systems": [{"system": "Fayda national ID", "country_label": "Ethiopia", "class": "idsystem", "platform": "", "owner": "National ID Program Ethiopia", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The National ID Program says service providers can perform e-KYC against a customer's Fayda number through its portal, with one-time-code consent, and retrieve the customer's e-KYC data.", "as_of": "2026-11-16", "date_precision": "day", "system": "Fayda e-KYC Service", "class": "relying"}
+], "systems": [], "note": "Banks, telecom and medical records are only being worked towards."}}}
+}}

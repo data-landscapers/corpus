@@ -1,0 +1,43 @@
+{
+ "slug": "2026-11-13-aps-cloud-joj-plateforme-nationale",
+ "studies": {
+  "digitalsovereignty": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "SENUM, the state company, announced on 13 November 2026 that the Alibaba Cloud Apsara Stack infrastructure in its Diamniadio data centre will become a national cloud platform after the Dakar 2026 Games, for sovereign hosting of government applications under the New Deal Technologique.",
+       "as_of": "2026-11-13",
+       "date_precision": "day",
+       "system": "National cloud platform (SENUM)",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SENUM Diamniadio data centre cloud",
+       "country_label": "Senegal",
+       "class": "sovereignty",
+       "platform": "Alibaba Cloud Apsara Stack",
+       "owner": "SENUM",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Hosting for the Games' organising committee and a future national cloud; no ministry systems run by SENUM stated."
+    }
+   }
+  }
+ }
+}

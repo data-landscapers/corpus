@@ -1,0 +1,10 @@
+{"slug": "2024-11-18-mli-faisabilite-des-etudes-pharmacoepidemiologiques-a-partir-des-donnees-c", "studies": {
+"authentication": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No civil register to ID link stated."}}},
+"healthexchange": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Abstract urges a unique health identifier to chain data sources but states no exchange between systems, in service or under way."}}},
+"idcoverage": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No ID enrolment figure stated."}}},
+"idfrombirth": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No national ID system operation stated."}}},
+"idregisters": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No national ID system stated."}}}
+}}

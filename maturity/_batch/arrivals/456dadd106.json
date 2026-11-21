@@ -1,0 +1,4 @@
+{"slug": "2024-10-10-tgo-le-togo-lance-la-construction-d-un-centre-national-de-sante-digitale", "studies": {
+"health": {"countries": {"TGO": {"facts": [], "systems": [], "note": "A digital health centre is only under construction; EHR integration and data collection are planned functions, with no HMIS or EMR in use stated."}}},
+"healthmis": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Health data collection is a planned function of the new centre; no routine reporting system stated."}}}
+}}

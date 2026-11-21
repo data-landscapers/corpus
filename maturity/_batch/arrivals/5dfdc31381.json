@@ -1,0 +1,39 @@
+{
+ "slug": "2026-06-22-gab-afcfta-gabon-implementation-partnership-kye-ossi",
+ "studies": {
+  "businesspayments": {"countries": {
+   "CMR": {"facts": [], "systems": [], "note": "Document does not address e-procurement."},
+   "GAB": {"facts": [], "systems": [], "note": "Document does not address e-procurement."},
+   "GNQ": {"facts": [], "systems": [], "note": "Document does not address e-procurement."}}},
+  "centralbank": {"countries": {
+   "CMR": {"facts": [], "systems": [], "note": "No central bank role is stated."},
+   "GAB": {"facts": [], "systems": [], "note": "No central bank role is stated."},
+   "GNQ": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+  "consumerprotection": {"countries": {
+   "CMR": {"facts": [], "systems": [], "note": "Not addressed."},
+   "GAB": {"facts": [], "systems": [], "note": "Not addressed."},
+   "GNQ": {"facts": [], "systems": [], "note": "Not addressed."}}},
+  "crossborderpayments": {"countries": {
+   "CMR": {"facts": [], "systems": [], "note": "Not addressed for Cameroon."},
+   "GAB": {"facts": [], "systems": [], "note": "PAPSS is only presented to Gabonese firms as an AfCFTA instrument; no participation or corridor in service is stated."},
+   "GNQ": {"facts": [], "systems": [], "note": "Not addressed for Equatorial Guinea."}}},
+  "g2ppayments": {"countries": {
+   "CMR": {"facts": [], "systems": [], "note": "Not addressed."},
+   "GAB": {"facts": [], "systems": [], "note": "Not addressed."},
+   "GNQ": {"facts": [], "systems": [], "note": "Not addressed."}}},
+  "paymentsuptake": {"countries": {
+   "CMR": {"facts": [], "systems": [], "note": "No survey share is given."},
+   "GAB": {"facts": [], "systems": [], "note": "No survey share is given."},
+   "GNQ": {"facts": [], "systems": [], "note": "No survey share is given."}}},
+  "regionalinfrastructure": {"countries": {
+   "GAB": {"facts": [], "systems": [{"system": "Kye-Ossi one-stop border post", "country_label": "Gabon", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "A proposed border post with digital tools, for which the Secretary-General sought endorsement; the only agreement named is between chambers of commerce, so no government arrangement is stated."}}},
+  "retailpayments": {"countries": {
+   "CMR": {"facts": [], "systems": [], "note": "Not addressed."},
+   "GAB": {"facts": [], "systems": [], "note": "Not addressed."},
+   "GNQ": {"facts": [], "systems": [], "note": "Not addressed."}}},
+  "revenuecollection": {"countries": {
+   "CMR": {"facts": [], "systems": [], "note": "Not addressed."},
+   "GAB": {"facts": [], "systems": [], "note": "Not addressed."},
+   "GNQ": {"facts": [], "systems": [], "note": "Not addressed."}}}
+ }
+}

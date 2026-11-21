@@ -1,0 +1,38 @@
+{"slug": "2025-01-08-cybersecuritymag-rnpp-benin-securite-donnees-personnelles", "studies": {
+"addressregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on addressing."}}},
+"authentication": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No link to the civil register stated."}}},
+"businessregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on the business register."}}},
+"civilregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}},
+"dataprotectionauthority": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Cybersecurity Mag Africa reports that the Autorite de Protection des Donnees Personnelles (APDP) is working with ANIP to train the agents who manage the national persons register.", "as_of": "2025-01-08", "date_precision": "day", "system": "APDP", "class": "authority"}
+], "systems": [], "note": "Training is not a ruling."}}},
+"dataprotectionlaw": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The APDP is reported at work, collaborating with ANIP on training for the agents who run the national persons register.", "as_of": "2025-01-08", "date_precision": "day", "system": "APDP", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The APDP and ANIP organise training for agents handling the national persons register on processing personal data.", "as_of": "2025-01-08", "date_precision": "day", "system": "APDP", "class": "general"}
+], "systems": [], "note": ""}}},
+"digitalidlaw": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The article says the national persons register (RNPP), run by ANIP, is established by law No. 2017-08 of 19 June 2017, and that the register is in operation.", "as_of": "2017-06-19", "date_precision": "day", "system": "Law No. 2017-08", "class": "law"},
+{"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The article says the law's register assigns every person a unique personal identification number (NPI) and holds biometric and demographic data.", "as_of": "2025-01-08", "date_precision": "day", "system": "Law No. 2017-08", "class": "law"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No online government service stated."}}},
+"electoralregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on the voters' roll."}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "More than ten million records, but no share of the population stated."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "The article says the national persons register is run by the national identification agency ANIP.", "as_of": "2025-01-08", "date_precision": "day", "system": "RNPP", "class": "idsystem"}
+], "systems": [{"system": "RNPP", "country_label": "Benin", "class": "idsystem", "platform": "", "owner": "ANIP", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number named."}}},
+"idrobustness": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The article says the national persons register assigns each person a unique number and holds records for more than ten million people.", "as_of": "2025-01-08", "date_precision": "day", "system": "RNPP", "class": "idsystem"}
+], "systems": [], "note": "Biometric data held, but no duplicate check or audit stated."}}},
+"landregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on land."}}},
+"offsitebackup": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only a general remark that a well-designed system has a continuity plan; no site named."}}},
+"police": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on police."}}},
+"populationregister": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "The article says the national persons register (RNPP) centralises the data of all citizens, with more than ten million people on it.", "as_of": "2025-01-08", "date_precision": "day", "system": "RNPP", "class": "population"}
+], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"socialregistry": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on social protection."}}},
+"taxregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on tax."}}}
+}}

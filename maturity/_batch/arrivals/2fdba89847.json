@@ -1,0 +1,10 @@
+{"slug": "2026-05-19-civ-ustda-vanu-west-africa-wireless-feasibility", "studies": {
+"digitaldivides": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "A US agency-funded feasibility study of base stations; not a programme of the country's government or fund, and nothing delivered."},
+"CIV": {"facts": [], "systems": [], "note": "A US agency-funded feasibility study of base stations; not a programme of the country's government or fund, and nothing delivered."},
+"GHA": {"facts": [], "systems": [], "note": "A US agency-funded feasibility study of base stations; not a programme of the country's government or fund, and nothing delivered."}}},
+"mobilepenetration": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "No phone ownership figure."},
+"CIV": {"facts": [], "systems": [], "note": "No phone ownership figure."},
+"GHA": {"facts": [], "systems": [], "note": "No phone ownership figure."}}}
+}}

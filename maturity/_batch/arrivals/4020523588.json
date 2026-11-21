@@ -1,0 +1,10 @@
+{"slug": "2026-11-18-zmb-techafricanews-airtel-money-buy-shares-luse", "studies": {
+"businesspayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on the central bank's role."}}},
+"consumerprotection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"g2ppayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
+"paymentsuptake": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"ZMB": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Tech Africa News reports that Airtel Zambia launched Airtel Money Buy Shares, letting customers buy Lusaka Securities Exchange shares through the MyAirtel App with Airtel Money.", "as_of": "2026-11-18", "date_precision": "day", "system": "Airtel Money", "class": "retail"}], "systems": [{"system": "Airtel Money", "country_label": "Zambia", "class": "retail", "platform": "MyAirtel App", "owner": "Airtel Zambia", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated on tax or fee payment."}}}
+}}

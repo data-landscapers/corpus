@@ -1,0 +1,9 @@
+{"slug": "2026-06-03-stp-milestone-for-digital-health-in-sao-tome-and-principe", "studies": {
+"aisectoral": {"countries": {"STP": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "An ECSA Health Community post says Sao Tome and Principe is being supported to pilot, deploy and adopt an AI-powered digital health screening tool at Points of Entry.", "as_of": "2026-06-03", "date_precision": "day", "system": "AI-powered digital screening tool at Points of Entry", "class": "sectorai"}], "systems": [], "note": ""}}},
+"cybersecurity": {"countries": {"STP": {"facts": [], "systems": [], "note": "A health-sector cybersecurity manual mentions a CERT and incident response, but no national body or strategy is stated as created or adopted."}}},
+"dataprotectionlaw": {"countries": {"STP": {"facts": [], "systems": [], "note": "Legal frameworks for data protection appear only as a theme of a health strategy; no law stated."}}},
+"healthexchange": {"countries": {"STP": {"facts": [], "systems": [], "note": "Interoperability is a strategy theme only; no exchange stated under way or in service."}}},
+"healthmis": {"countries": {"STP": {"facts": [], "systems": [], "note": "No health information system is described."}}},
+"internationalstandards": {"countries": {"STP": {"facts": [], "systems": [], "note": "ISO standards named as strategy content only; no adoption, membership or binding rule stated."}}},
+"qualitystandards": {"countries": {"STP": {"facts": [], "systems": [], "note": "No national standards body or issued national standard stated."}}}
+}}

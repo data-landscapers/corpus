@@ -1,0 +1,17 @@
+{"slug": "2024-04-15-nyasatimes-mls-fears-compulsory-national-id-voting", "studies": {
+"authentication": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No authentication service is stated."}}},
+"birthidlink": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No link between civil register and ID is stated."}}},
+"electoralregister": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "electoral", "aspect": "linked", "value": "linked", "fact": "Malawi's amended electoral law requires proof of national registration issued by the National Registration Bureau to register as a voter, and the Malawi Electoral Commission chair said it registers only holders of an NRB national ID.", "as_of": "2024-04", "date_precision": "month", "system": "National ID (National Registration Bureau)", "class": "electoral"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No count or share of people enrolled is stated; 10,957,490 is the projected number of eligible voters."}}},
+"idfrombirth": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Who operates or owns the ID system is not stated."}}},
+"idregisters": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Malawi's amended electoral law makes the NRB national registration the required proof of voter eligibility, so the voter registration is tied to the national ID, per the Malawi Law Society and the Electoral Commission chair.", "as_of": "2024-04", "date_precision": "month", "system": "National ID (National Registration Bureau)", "class": "register"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The National Registration Bureau's principal secretary told Parliament it had procured new printers producing 1,200 national IDs every eight hours, against 250 a day before.", "as_of": "2024-04", "date_precision": "month", "system": "National ID (National Registration Bureau)", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"localgov": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on local government connection."}}}
+}}

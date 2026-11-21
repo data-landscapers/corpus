@@ -1,0 +1,13 @@
+{"slug": "2026-11-19-zwe-bridging-zimbabwe-s-ai-divide-through-small-language-models", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Op-ed; nothing on AI harm rules or authority."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Op-ed; no government AI system stated."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Op-ed; no public sector AI tool stated."}}},
+"aistrategy": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Op-ed only names the National Artificial Intelligence Strategy 2026-2030 as an aspiration to align with; no adoption, drafting or body stated."}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Op-ed proposes local models and datasets; none built or planned with a named builder."}}},
+"civilserviceskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on civil servant training."}}},
+"datacentres": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No data centre stated."}}},
+"digitaldivides": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Op-ed praises rural connectivity investment and Community Information Centres in general terms; no programme, sites counted or survey figures stated."}}},
+"digitalskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only a proposal to turn Community Information Centres into AI literacy hubs; no programme or share stated."}}},
+"mobileaffordability": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No data price stated."}}},
+"nationaldatacentres": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No data centre stated."}}}
+}}

@@ -1,0 +1,4 @@
+{"slug": "2026-03-15-tza-citizen-stakeholders-draft-startup-policy-hackathon", "studies": {
+"startups": {"countries": {"TZA": {"facts": [{"sub_indicator": "startuppolicy", "aspect": "law", "value": "draft", "fact": "The Citizen reports the Ministry of Communications and Information Technology is developing a draft National Startup Policy and has asked stakeholders for feedback before adoption.", "as_of": "2026-03-15", "date_precision": "day", "system": "National Startup Policy", "class": "startuppolicy"}], "systems": [{"system": "National Startup Policy (draft)", "country_label": "Tanzania", "class": "startuppolicy", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""}], "note": ""}}},
+"techhubs": {"countries": {"TZA": {"facts": [], "systems": [], "note": "A policy hackathon only; no hub or park stated."}}}
+}}

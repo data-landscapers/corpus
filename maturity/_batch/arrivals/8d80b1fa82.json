@@ -1,0 +1,28 @@
+{"slug": "2026-11-18-lbr-house-rejects-us52m-national-id-deal", "studies": {
+"admindata": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on statistics from administrative records."}}},
+"authentication": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"LBR": {"facts": [], "systems": [{"system": "NIDCRVS", "country_label": "National Identification Central Digital Civil Registry and Vital Statistics System (NIDCRVS)", "class": "other", "platform": "", "owner": "National Identification Registry", "tiers": ""}], "note": "NIDCRVS integrating ID and civil registration was a proposed concession the House rejected; no link planned, contracted or in service."}}},
+"businesspayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on the central bank or payments."}}},
+"civilregister": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a proposed combined ID and civil registry concession, rejected; no digital civil registration stated as procured, piloted or in service."}}},
+"consumerprotection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"dataprotectionlaw": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Concerns about biometric data raised, but no data protection law stated."}}},
+"dataprotectionreadiness": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No data protection law, authority or practice stated."}}},
+"digitalidlaw": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "President Ellen Johnson Sirleaf signed the National Identification Registry Act into law on 1 August 2011, repealing Decree No. 65 and establishing the National Identification Registry, per the Liberian Observer.", "as_of": "2011-08-01", "date_precision": "day", "system": "National Identification Registry Act 2011", "class": "law"},
+{"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The 2011 National Identification Registry Act mandated the NIR to design, establish, maintain and administer a National Biometric Identification System, per the Liberian Observer.", "as_of": "2011-08-01", "date_precision": "day", "system": "National Identification Registry Act 2011", "class": "law"}
+], "systems": [{"system": "National Identification Registry (NIR)", "country_label": "National Identification Registry", "class": "other", "platform": "", "owner": "NIR, autonomous institution in the Executive Branch", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on government payments."}}},
+"idcoverage": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No count or share of people enrolled stated; only a 10 million record design capacity and a first card batch reportedly issued in 1987."}}},
+"idfrombirth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a proposed build-operate-transfer concession with OeSD International, rejected; no operating system stated."}}},
+"idregisters": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Says elections, immigration and passport bodies keep separate databases; no register keyed on a national ID number."}}},
+"idrobustness": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The biometric ID system was proposed through a concession the House rejected; nothing says one is procured, being built, piloted or in service."}}},
+"idverification": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on other systems checking against the ID."}}},
+"nonstatefinance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The US$52 million OeSD concession was rejected, not signed; no private money put in."}}},
+"paymentsuptake": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No account survey figure stated."}}},
+"registry": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on local civil registration offices."}}},
+"retailpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on retail payments."}}},
+"revenuecollection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on electronic revenue payment."}}}
+}}

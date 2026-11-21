@@ -1,0 +1,10 @@
+{"slug": "2025-03-25-businessday-diaspora-nin-enrolment-up-308-percent", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Verification of identity is only a hoped-for aim; no authentication service is described."}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on a link with the civil register."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A count of 117 million NINs is given but the document states no population or share to compare it with."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on a number given at birth."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Passport renewal needing a NIN is not a register keyed on the number."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "BusinessDay, citing NIMC data, reports total NIN enrolments reached 117 million by 28 February 2025, up from 96.5 million in February 2023, in a database holding demographic data, fingerprints and facial images.", "as_of": "2025-02-28", "date_precision": "day", "system": "National Identification Number (NIN) database", "class": "idsystem"}], "systems": [{"system": "National Identification Number (NIN) database", "country_label": "Nigeria", "class": "idsystem", "platform": "", "owner": "National Identity Management Commission", "tiers": ""}], "note": ""}}},
+"refugees": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on refugees or displaced people."}}}
+}}

@@ -1,0 +1,23 @@
+{"slug": "2026-07-29-sdn-suna-health-recovery-plan-endorsed-130-baladna-e-services", "studies": {
+"authentication": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Digital identity named only as a strategy priority; no service stated."}}},
+"birthidlink": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"centralbank": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"coresystems": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"customs": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"egovservices": {"countries": {"SDN": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Digital Transformation and Communications Minister Ahmed Ghandour announced that arrangements were complete to bring the Medical Commission and health insurance services onto the Baladna platform for the health sector, introducing 130 e-services.", "as_of": "2026-07-29", "date_precision": "day", "system": "Baladna", "class": "eservices"}], "systems": [{"system": "Baladna", "country_label": "Baladna platform", "class": "eservices", "platform": "", "owner": "Ministry of Digital Transformation and Communications", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"health": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No HMIS or EMR described; Baladna health services are administrative e-services."}}},
+"healthmis": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No national health information system described."}}},
+"idcoverage": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"idfrombirth": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"idmaintenance": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"idregisters": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"idrobustness": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Digital identity named only as a strategy priority; no system stated."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"refugees": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Health insurance for the displaced is a target; no registration or digital access stated."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Electronic payment named only as a strategy priority; no service stated."}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not stated."}}}
+}}

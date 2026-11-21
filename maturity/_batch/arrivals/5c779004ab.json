@@ -1,0 +1,139 @@
+{
+ "slug": "2026-11-13-togo-ecobank-is-only-bank-with-certified-business-api-for-waemu-s-instant-payment-system",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The BCEAO certifies business APIs for direct connection to the PI-SPI instant payment platform, and its list of 34 certified APIs across WAEMU, one of them Togo's Ecobank, was updated on 9 November 2026.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Togo institutions provide services on PI-SPI, the BCEAO's WAEMU-wide instant payment platform; the article does not mention PAPSS.",
+       "as_of": "2026-11-13",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Togo",
+       "class": "retail",
+       "platform": "BCEAO instant payment platform",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Six institutions in Togo (BIA, BOA, Coris Bank, Ecobank, Orabank, Cofina) are authorized to provide services on PI-SPI, the WAEMU instant payment platform, per Togo First.",
+       "as_of": "2026-11-13",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "PI-SPI had processed nearly CFAF 15 billion across 163,000 transactions in Togo by end-October 2026, per Togo First.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "The Mixx mobile money wallet launched interoperable instant transfers across WAEMU in April, on the PI-SPI platform that Togo's banks also use.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "PI-SPI; Mixx",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  }
+ }
+}

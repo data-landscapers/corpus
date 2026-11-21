@@ -1,0 +1,13 @@
+{"slug": "2026-11-19-zwe-zimra-to-buy-e-trace-system-to-track-digital-payments", "studies": {
+"businesspayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Payments to foreign platforms are taxed, but no corridor or regional link is described."}}},
+"dataprotectionlaw": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Says only that the Budget Statement is silent on how e-TRACE data would be protected."}}},
+"egovservices": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "e-TRACE is a ZIMRA monitoring system, not a service for people."}}},
+"g2ppayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No retail payment service described."}}},
+"revenuecollection": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "e-TRACE is a planned monitoring system, not electronic filing or payment of tax."}}},
+"taxadmin": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "e-TRACE is only a planned purchase by tender with no budget or timeline, and it monitors transactions rather than taking returns or payments."}}}
+}}

@@ -1,0 +1,17 @@
+{"slug": "2026-11-16-ben-cyber-africa-forum-2026-digital-trust-sovereignty", "studies": {
+"aiabuse": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Deepfakes named as a threat only; no rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No AI built in Benin stated."}}},
+"businesspayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"centralbank": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"consumerprotection": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Mobile money fraud is a panelist's warning; no rule or body stated."}}},
+"crossborderpayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"cybersecurity": {"countries": {"BEN": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Benin's digital minister Mahuna Akplogan cited the recent creation of the National Agency for Cybersecurity and Resilience (ANCR).", "as_of": "2026-11-16", "date_precision": "day", "system": "National Agency for Cybersecurity and Resilience (ANCR)", "class": "response"}], "systems": [{"system": "National Agency for Cybersecurity and Resilience (ANCR)", "country_label": "ANCR", "class": "response", "platform": "", "owner": "government", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"BEN": {"facts": [], "systems": [{"system": "Beninese Digital Code", "country_label": "Digital Code", "class": "other", "platform": "", "owner": "Ministry of Justice and Legislation", "tiers": ""}], "note": "Digital Code is cited for user legal security and system reliability; nothing on state data."}}},
+"g2ppayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"internationalbandwidth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Submarine cables named only as a dependence in general, none for Benin."}}},
+"paymentsuptake": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No survey figure stated."}}},
+"retailpayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "A market seller taking mobile payment is an illustration only; no service named."}}},
+"revenuecollection": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Not mentioned."}}}
+}}

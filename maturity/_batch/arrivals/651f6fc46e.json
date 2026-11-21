@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-01-tcd-renforcer-les-capacites-du-secteur-prive-pour-ameliorer-les-donnees-de",
+ "studies": {
+  "health": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The pilot covers private facilities in N'Djamena, not public primary clinics."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Between 31 August and 2 September 2026, 24 health workers from private facilities in N'Djamena were trained and given configured tablets in a DHIS2 reporting pilot run with the Ministry of Health's information systems directorate (DSIS) and WHO.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "DHIS2",
+       "class": "hmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DHIS2",
+       "country_label": "Chad",
+       "class": "hmis",
+       "platform": "DHIS2",
+       "owner": "Ministry of Public Health (DSIS)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,540 @@
+{
+ "slug": "2025-04-21-advox-digital-id-africa-inclusion-or-privacy-threat",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives 98 percent of adults registered, an adults-only share, so not recorded."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Global Voices Advox says millions use Kenya's Maisha Namba digital ID for healthcare, education and finance.",
+       "as_of": "2025-04-21",
+       "date_precision": "day",
+       "system": "Maisha Namba",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maisha Namba",
+       "country_label": "Maisha Namba",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Global Voices Advox says millions use Nigeria's National Identification Number programme for healthcare, education and finance.",
+       "as_of": "2025-04-21",
+       "date_precision": "day",
+       "system": "National Identification Number (NIN)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identification Number (NIN)",
+       "country_label": "National Identification Number (NIN)",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Global Voices Advox says over 98 percent of adults in Rwanda are registered in the national ID system.",
+       "as_of": "2025-04-21",
+       "date_precision": "day",
+       "system": "National ID system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID system",
+       "country_label": "National ID system",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this for the country."
+    }
+   }
+  }
+ }
+}

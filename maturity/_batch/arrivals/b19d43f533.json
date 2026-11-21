@@ -1,0 +1,5 @@
+{"slug": "2026-11-17-zmb-pspf-biometric-life-verification-ictaz-fair", "studies": {
+"egovservices": {"countries": {"ZMB": {"facts": [], "systems": [{"system": "Biometric Life Verification System", "country_label": "Biometric Life Verification System", "class": "other", "platform": "", "owner": "Public Service Pensions Fund", "tiers": ""}], "note": "A pension fund's remote life-verification system is named; no government portal or count of services is stated."}}},
+"idrobustness": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"idverification": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The pension fund's biometric check is not said to be made against the national ID."}}}
+}}

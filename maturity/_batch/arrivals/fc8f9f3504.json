@@ -1,0 +1,12 @@
+{"slug": "2026-11-17-mar-telquel-draft-law-52-26-health-data", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No AI harm rule stated."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Telemedicine and AI only named as conference panel topics; no tool stated."}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No local AI build stated."}}},
+"dataprotectionlaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Bill 52-26 is a health information law, not a general data protection law."}}},
+"health": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No clinic-level HMIS or EMR status stated; bill is a shared record and interoperability draft."}}},
+"healthmis": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No national HMIS stated; bill covers shared patient record and interoperability."}}},
+"interoperabilitystandards": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Health-sector bill only; sector standards place nothing."}}},
+"policyresearch": {"countries": {"MAR": {"facts": [{"sub_indicator": "research", "aspect": "research", "value": "publishing", "fact": "TelQuel says the think tank ThinkForHealth presented on 5 November 2026 a report on Morocco's health reform that treats digitalisation and a shared electronic health record as a condition of its other aims.", "as_of": "2026-11-05", "date_precision": "day", "system": "ThinkForHealth report 'Le triple objectif de la reforme de sante au Maroc'", "class": "research"}], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

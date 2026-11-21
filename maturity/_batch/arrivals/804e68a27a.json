@@ -1,0 +1,16 @@
+{"slug": "2026-11-20-gha-data-forum-statistics-bill-national-statistics-fund", "studies": {
+"admindata": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "The Ghana Statistical Service has signed 33 memoranda of understanding with institutions, and the 2026 Data Forum tasked those institutions to name a statistics focal person and share at least one dataset with GSS by December 2027 to harness administrative records, while noting administrative data are under-used for statistics.", "as_of": "2026-11-17", "date_precision": "day", "system": "GSS memoranda of understanding with data-holding institutions", "class": "admin"}
+], "systems": [], "note": ""}}},
+"censuses": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Names no census or household survey."}}},
+"dataprotectionlaw": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Mentions only the confidentiality provisions of the Statistical Service Act, not a data protection law."}}},
+"disabilityaccess": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Says only that persons with disabilities face barriers to accessing data; no law, programme or service stated."}}},
+"localgov": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Says assemblies lack dedicated data budgets; no office connection stated."}}},
+"statisticslaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The 2026 Data Forum urged all producers of official statistics to apply the confidentiality and data protection provisions of the Statistical Service Act, 2019 (Act 1003), which it treats as in force.", "as_of": "2019", "date_precision": "year", "system": "Statistical Service Act, 2019 (Act 1003)", "class": "law"},
+{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "A draft Statistics Bill incorporating a new financing model and a proposed National Statistics Fund awaits approval, and the Data Forum urged GSS to expedite its submission to Cabinet and Parliament.", "as_of": "2026-11-17", "date_precision": "day", "system": "Statistics Bill", "class": "law"}
+], "systems": [], "note": ""}}},
+"statisticsstrategy": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "preparing", "fact": "The Third National Strategy for the Development of Statistics (NSDS III) has been finalised, and the 2026 Data Forum directed GSS to secure its Cabinet adoption and launch it within six months of adoption.", "as_of": "2026-11-17", "date_precision": "day", "system": "NSDS III", "class": "strategy"}
+], "systems": [], "note": ""}}}
+}}

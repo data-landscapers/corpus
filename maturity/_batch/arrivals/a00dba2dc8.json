@@ -1,0 +1,9 @@
+{"slug": "2026-11-15-eth-fayda-digital-id-agricultural-rural", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No link to the civil register stated."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Gives a count of more than 53 million Fayda holders but no population or share, so no value is recorded here."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on who operates, maintains or owns the system."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Says Fayda helps modernise farmer data and land administration but names no register keyed on the number."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Fana Media Corporation reports that more than 53 million Ethiopians have become Fayda national digital ID holders to date.", "as_of": "2026-11-15", "date_precision": "day", "system": "Fayda", "class": "idsystem"}], "systems": [{"system": "Fayda", "country_label": "Fayda", "class": "idsystem", "platform": "", "owner": "National ID Program", "tiers": ""}], "note": ""}}}
+}}

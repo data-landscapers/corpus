@@ -1,0 +1,52 @@
+{"slug": "2026-11-17-xaf-stablecoins-promised-to-fix-cross-border-payments-fragmentat", "studies": {
+"businesspayments": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No e-procurement stated."},
+"ETH": {"facts": [], "systems": [], "note": "No e-procurement stated."},
+"KEN": {"facts": [], "systems": [], "note": "No e-procurement stated."},
+"MOZ": {"facts": [], "systems": [], "note": "No e-procurement stated."},
+"MWI": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No central bank role stated."},
+"ETH": {"facts": [], "systems": [], "note": "No central bank role stated."},
+"KEN": {"facts": [], "systems": [], "note": "No central bank role stated."},
+"MOZ": {"facts": [], "systems": [], "note": "No central bank role stated."},
+"MWI": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No consumer rule or redress body stated."},
+"ETH": {"facts": [], "systems": [], "note": "No consumer rule or redress body stated."},
+"KEN": {"facts": [], "systems": [], "note": "No consumer rule or redress body stated."},
+"MOZ": {"facts": [], "systems": [], "note": "No consumer rule or redress body stated."},
+"MWI": {"facts": [], "systems": [], "note": "No consumer rule or redress body stated."}}},
+"crossborderpayments": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "Named only as a hard corridor for local-currency liquidity; no regulated corridor stated."},
+"ETH": {"facts": [], "systems": [], "note": "Named only as a hard corridor for local-currency liquidity; no regulated corridor stated."},
+"KEN": {"facts": [], "systems": [], "note": "A private stablecoin firm's Kenya to South Africa route is described with no licence or regulation stated."},
+"MOZ": {"facts": [], "systems": [], "note": "Named only as a hard corridor for local-currency liquidity; no regulated corridor stated."},
+"MWI": {"facts": [], "systems": [], "note": "Named only as a hard corridor for local-currency liquidity; no regulated corridor stated."}}},
+"g2ppayments": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No payments to people stated."},
+"ETH": {"facts": [], "systems": [], "note": "No payments to people stated."},
+"KEN": {"facts": [], "systems": [], "note": "No payments to people stated."},
+"MOZ": {"facts": [], "systems": [], "note": "No payments to people stated."},
+"MWI": {"facts": [], "systems": [], "note": "No payments to people stated."}}},
+"paymentsuptake": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No survey of adults with accounts stated."},
+"ETH": {"facts": [], "systems": [], "note": "No survey of adults with accounts stated."},
+"KEN": {"facts": [], "systems": [], "note": "No survey of adults with accounts stated."},
+"MOZ": {"facts": [], "systems": [], "note": "No survey of adults with accounts stated."},
+"MWI": {"facts": [], "systems": [], "note": "No survey of adults with accounts stated."}}},
+"retailpayments": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No mobile money service stated."},
+"ETH": {"facts": [], "systems": [], "note": "No mobile money service stated."},
+"KEN": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "BitLipa chief executive Apollo Eric told TechCabal that about 70% of the Kenyan firm's roughly $100 million a month of transactions are mobile money collections.", "as_of": "2026-11-17", "date_precision": "day", "system": "mobile money", "class": "retail"}
+], "systems": [], "note": ""},
+"MOZ": {"facts": [], "systems": [], "note": "No mobile money service stated."},
+"MWI": {"facts": [], "systems": [], "note": "No mobile money service stated."}}},
+"revenuecollection": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "No tax or fee payment stated."},
+"ETH": {"facts": [], "systems": [], "note": "No tax or fee payment stated."},
+"KEN": {"facts": [], "systems": [], "note": "No tax or fee payment stated."},
+"MOZ": {"facts": [], "systems": [], "note": "No tax or fee payment stated."},
+"MWI": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

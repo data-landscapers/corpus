@@ -1,0 +1,648 @@
+{
+ "slug": "2026-11-18-businessday-africa-cross-border-payment-rail-5bn-reality-check",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "In March 2025 the Bank of Ghana warned that MTN MoMo Ghana, run by MobileMoney Limited, was not licensed to conduct cross-border transactions to Nigeria.",
+       "as_of": "2025-03",
+       "date_precision": "month",
+       "system": "Bank of Ghana licensing of MTN MoMo Ghana",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "In August 2025 Airtel Money partnered with pawaPay so international money transfer operators can send funds directly into Airtel Money wallets in seven African markets including Congo-Brazzaville.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Airtel Money and pawaPay",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Congo-Brazzaville",
+       "class": "crossborder",
+       "platform": "pawaPay",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "In August 2025 Airtel Money partnered with pawaPay so international money transfer operators can send funds directly into Airtel Money wallets in seven African markets including Gabon.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Airtel Money and pawaPay",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Gabon",
+       "class": "crossborder",
+       "platform": "pawaPay",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "In August 2025 Airtel Money partnered with pawaPay so international money transfer operators can send funds directly into Airtel Money wallets in seven African markets including Malawi.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Airtel Money and pawaPay",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Malawi",
+       "class": "crossborder",
+       "platform": "pawaPay",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "In August 2025 Airtel Money partnered with pawaPay so international money transfer operators can send funds directly into Airtel Money wallets in seven African markets including Rwanda.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Airtel Money and pawaPay",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Rwanda",
+       "class": "crossborder",
+       "platform": "pawaPay",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "In August 2025 Airtel Money partnered with pawaPay so international money transfer operators can send funds directly into Airtel Money wallets in seven African markets including Tanzania.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Airtel Money and pawaPay",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Tanzania",
+       "class": "crossborder",
+       "platform": "pawaPay",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "In August 2025 Airtel Money partnered with pawaPay so international money transfer operators can send funds directly into Airtel Money wallets in seven African markets including Uganda.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Airtel Money and pawaPay",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Uganda",
+       "class": "crossborder",
+       "platform": "pawaPay",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "In August 2025 Airtel Money partnered with pawaPay so international money transfer operators can send funds directly into Airtel Money wallets in seven African markets including Zambia.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Airtel Money and pawaPay",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Zambia",
+       "class": "crossborder",
+       "platform": "pawaPay",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article lists Congo-Brazzaville among seven markets where Airtel Money wallets receive international transfers sent through pawaPay from August 2025.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Congo-Brazzaville",
+       "class": "retail",
+       "platform": "",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article lists Gabon among seven markets where Airtel Money wallets receive international transfers sent through pawaPay from August 2025.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Gabon",
+       "class": "retail",
+       "platform": "",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article lists Malawi among seven markets where Airtel Money wallets receive international transfers sent through pawaPay from August 2025.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Malawi",
+       "class": "retail",
+       "platform": "",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article lists Rwanda among seven markets where Airtel Money wallets receive international transfers sent through pawaPay from August 2025.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Rwanda",
+       "class": "retail",
+       "platform": "",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article lists Tanzania among seven markets where Airtel Money wallets receive international transfers sent through pawaPay from August 2025.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Tanzania",
+       "class": "retail",
+       "platform": "",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article lists Uganda among seven markets where Airtel Money wallets receive international transfers sent through pawaPay from August 2025.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Uganda",
+       "class": "retail",
+       "platform": "",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article lists Zambia among seven markets where Airtel Money wallets receive international transfers sent through pawaPay from August 2025.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Zambia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this country on this study."
+    }
+   }
+  }
+ }
+}

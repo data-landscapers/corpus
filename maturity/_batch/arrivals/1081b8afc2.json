@@ -1,0 +1,167 @@
+{
+ "slug": "2026-11-18-moz-governo-quer-criar-autoridades-de-proteccao-de-dados-e-ia-ate-2030-diario-econom",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Plano Quinquenal da Estratégia de Reforma e Desenvolvimento da Administração Pública 2026-30",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Mozambique",
+       "tiers": ""
+      }
+     ],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states only plan targets to 2030 (approved five-year public administration plan), nothing delivered or adopted that answers this study."
+    }
+   }
+  }
+ }
+}

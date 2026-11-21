@@ -1,0 +1,12 @@
+{"slug": "2026-11-16-lbr-liberias-new-york-consulate-introduces-online-payment-for-services", "studies": {
+"authentication": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No identity check or authentication service mentioned."}}},
+"businesspayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No e-procurement mentioned."}}},
+"centralbank": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No central bank role mentioned."}}},
+"consumerprotection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No consumer rules mentioned."}}},
+"crossborderpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Payments are for consular services, with no cross-border corridor named."}}},
+"egovservices": {"countries": {"LBR": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Liberia's Consulate General in New York introduced online payment for all consular services on its website, including visas, passports, laissez-passer and birth affidavits, announced 16 November 2026.", "as_of": "2026-11-16", "date_precision": "day", "system": "Consulate General online payment platform", "class": "eservices"}], "systems": [{"system": "Consulate General online payment platform", "country_label": "liberiaconsulate-ny.com", "class": "eservices", "platform": "", "owner": "Consulate General of Liberia, New York", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No government payments to people mentioned."}}},
+"paymentsuptake": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No survey figure on accounts."}}},
+"retailpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No mobile money or e-money service named."}}},
+"revenuecollection": {"countries": {"LBR": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Liberia's Consulate General in New York accepts electronic payment of fees for all consular services through its website, announced 16 November 2026.", "as_of": "2026-11-16", "date_precision": "day", "system": "Consulate General online payment platform", "class": "revenue"}], "systems": [], "note": ""}}}
+}}

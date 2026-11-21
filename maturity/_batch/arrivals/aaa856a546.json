@@ -1,0 +1,11 @@
+{"slug": "2026-11-17-mrt-wearetech-ecommerce-strategy-targets-2030", "studies": {
+"addressregister": {"countries": {"MRT": {"facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "none", "fact": "The article says Mauritania lacks a generalised postal addressing system, which complicates deliveries.", "as_of": "2026-11-17", "date_precision": "day", "system": "postal addressing", "class": "address"}], "systems": [], "note": ""}}},
+"businesspayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing stated on e-procurement."}}},
+"centralbank": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing stated on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only a UNCTAD consumer survey and a planned strengthening of the framework; no rules or body stated."}}},
+"crossborderpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only manual foreign-trade procedures; no cross-border payment channel stated."}}},
+"g2ppayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
+"paymentsuptake": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Gives 20% of adults making or receiving a digital payment in 2022, below the 79% rung; no account-ownership share stated."}}},
+"retailpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Says digital payments are little used; no service, interoperability or switch stated."}}},
+"revenuecollection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing stated on electronic tax or fee payment."}}}
+}}

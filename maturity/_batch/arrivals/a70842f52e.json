@@ -1,0 +1,14 @@
+{"slug": "2026-11-18-uga-stanbic-bank-partners-with-erp-providers-to-accelerate-embedded-financ", "studies": {
+"businesspayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "A bank's own business payments API, not government e-procurement."}}},
+"centralbank": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "NITA-U urges compliance and consumer protection in general terms; no rule or complaints body is stated."}}},
+"crossborderpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"dataprotectionlaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Data protection is mentioned as a design principle; no law named."}}},
+"g2ppayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"itcapacity": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on government staff running systems."}}},
+"paymentsuptake": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"retailpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "A bank's API offer for businesses, not mobile money or retail wallet service."}}},
+"revenuecollection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"startups": {"countries": {"UGA": {"facts": [], "systems": [], "note": "A bank's business incubator is not a public startup scheme."}}},
+"techhubs": {"countries": {"UGA": {"facts": [], "systems": [], "note": "A bank's business incubator for SMEs, not a technology hub programme for startups."}}}
+}}

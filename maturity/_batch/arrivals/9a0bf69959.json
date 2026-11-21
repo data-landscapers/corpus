@@ -1,0 +1,22 @@
+{"slug": "2024-12-08-addis-fortune-national-id-limited-acceptance-printing-quality", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Addis Fortune reports that officials recommend Fayda's verification tools to check national ID cards, and that Document Authentication & Registration Service Kirkos branch fully uses national IDs for property services.", "as_of": "2024-12", "date_precision": "month", "system": "Fayda", "class": "authentication"}
+], "systems": [], "note": ""}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only says Fayda's integration of services including birth certificates aims to streamline processes; no link stated."}}},
+"civilregister": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on the digital civil register."}}},
+"digitalidlaw": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Addis Fortune says Ethiopia's Digital Identification Proclamation provides that digital identification is a right, not an obligation, and that the managing institution cannot mandate registration though regulators may require it for specific services.", "as_of": "2024-12", "date_precision": "month", "system": "Digital Identification Proclamation", "class": "law"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "About 10 million registered is stated with no population or share."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only that Fayda is built on MOSIP; who operates and maintains it is not stated."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Institutions adopting the national ID are named but no public register keyed on the number is stated."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Addis Fortune reports the National ID Program (Fayda) is issuing unique identification numbers and cards, with about 10 million people registered and enrolment running since September 2022.", "as_of": "2024-12", "date_precision": "month", "system": "Fayda", "class": "idsystem"}
+], "systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "idsystem", "platform": "MOSIP", "owner": "National ID Program, Prime Minister's Office", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Addis Fortune reports Document Authentication & Registration Service Kirkos fully transitioned to national IDs for services, particularly fixed property, after forged ID sales.", "as_of": "2024-12", "date_precision": "month", "system": "Fayda", "class": "relying"},
+{"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "Addis Fortune reports the Ministry of Revenues, the Federal Public Procurement & Property Authority, Ethio telecom, Ethiopian Airlines and commercial banks have adopted the national ID.", "as_of": "2024-12", "date_precision": "month", "system": "Fayda", "class": "relying"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on digital entry of births or deaths at registration offices."}}}
+}}

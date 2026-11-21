@@ -1,0 +1,18 @@
+{"slug": "2026-07-16-ago-minsa-angola-referencia-africana-ia-telemedicina-saude", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only a pledge to keep investing in AI; no government body's AI use stated."}}},
+"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "AI for clinical decision and surveillance is a stated intention, not a tool in service."}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built in the country is stated."}}},
+"coresystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on finance, tax or payroll systems."}}},
+"customs": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on customs."}}},
+"educationexchange": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on education systems."}}},
+"educationmis": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on education systems."}}},
+"health": {"countries": {"AGO": {"facts": [], "systems": [{"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministério da Saúde", "tiers": ""}, {"system": "Rede Nacional de Telemedicina", "country_label": "Rede Nacional de Telemedicina", "class": "enabling", "platform": "", "owner": "Ministério da Saúde", "tiers": ""}, {"system": "COESP", "country_label": "Centro de Operações de Emergência de Saúde Pública", "class": "single-function", "platform": "", "owner": "Ministério da Saúde", "tiers": ""}], "note": "No tiers, clinic coverage, plan, finance or dated change stated for the HMIS."}}},
+"healthmis": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "The Ministry of Health says DHIS2 is implemented as Angola's main national platform for health data management.", "as_of": "2026-07-15", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+{"sub_indicator": "hmis", "aspect": "linked", "value": "linked", "fact": "The Ministry says DHIS2 allows the integration of the different health information systems.", "as_of": "2026-07-15", "date_precision": "day", "system": "DHIS2", "class": "hmis"}
+], "systems": [{"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministério da Saúde", "tiers": ""}], "note": ""}}},
+"schools": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"socialexchange": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on social protection."}}},
+"taxadmin": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on tax."}}}
+}}

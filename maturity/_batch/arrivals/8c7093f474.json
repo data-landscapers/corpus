@@ -1,0 +1,14 @@
+{
+ "slug": "2026-11-17-cod-kinshasa-wewa-identification-biometrique-motocyclistes",
+ "studies": {
+  "idrobustness": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Kinshasa city's biometric card for motorcyclists is a sectoral ID, not the national ID system."
+    }
+   }
+  }
+ }
+}

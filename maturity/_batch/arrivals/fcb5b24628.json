@@ -1,0 +1,11 @@
+{"slug": "2026-11-14-dza-des-le-15-novembre-annaba-passe-au-dossier-medical-electronique", "studies": {
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "AI is inside a health record platform only, a sector system."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The electronic medical record platform being brought into service at the El Bouni public primary-care facility in Annaba, planned for 15 November 2026, includes AI functions to assist clinicians in analysing data, per Algerie Confluences.", "as_of": "2026-11-14", "date_precision": "day", "system": "dossier medical electronique (DME), EPSP El Bouni", "class": "sectorai"}
+], "systems": [{"system": "dossier medical electronique (DME)", "country_label": "Algeria", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No AI built or hosted in the country stated."}}},
+"health": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "A training day was held for medical, paramedical and administrative staff of the El Bouni primary-care facility in Annaba ahead of the electronic medical record going live on 15 November 2026, with training running to 13 November.", "as_of": "2026-11", "date_precision": "month", "system": "dossier medical electronique (DME)", "class": "emr"}
+], "systems": [{"system": "dossier medical electronique (DME)", "country_label": "Algeria", "class": "emr", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+}}

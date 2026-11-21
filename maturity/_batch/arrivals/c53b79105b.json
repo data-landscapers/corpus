@@ -1,0 +1,10 @@
+{"slug": "2026-11-16-tra-itu-resolution-206-ott-network-funding", "studies": {
+"consumerprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Consumer protection appears only as an ITU negotiating theme, not digital finance rules."}}},
+"domesticfinancing": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only operator investment and taxes are given; no government financing of digital transformation."}}},
+"exchangepoints": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The author says Senegal's national Internet exchange point, launched in 2017, appears little used, citing little public knowledge of its traffic.", "as_of": "2017", "date_precision": "year", "system": "Senegal national Internet exchange point", "class": "exchange"}
+], "systems": [{"system": "Senegal national Internet exchange point", "country_label": "Senegal", "class": "exchange", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"internationalbandwidth": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on international bandwidth capacity."}}},
+"regionalinfrastructure": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on regional infrastructure projects for Senegal."}}},
+"regionalpolicy": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The ATU proposals are continental and a Senegal code revision is only mentioned in passing."}}}
+}}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-19-cmr-itweb-mtn-orange-pledge-network-repairs-art",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Says only that the backbone is solely managed by Camtel and has deteriorated; no region reach or lease terms stated."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  }
+ }
+}

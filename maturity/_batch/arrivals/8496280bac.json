@@ -1,0 +1,22 @@
+{"slug": "2023-11-29-ega-benin-staying-on-top-of-digital-transformation", "studies": {
+"authentication": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The e-Governance Academy says a solution called \"authentication for another\" is used in Benin's service centres to help people without equipment or skills reach services.", "as_of": "2023-11-29", "date_precision": "day", "system": "authentication for another", "class": "authentication"}
+], "systems": [], "note": ""}}},
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No civil register or ID link stated."}}},
+"civilserviceskills": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Skills effort named is for remote villages, not civil servants."}}},
+"dataexchange": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The e-Governance Academy and ASIN's head of eServices say the X-Road data exchange platform has been implemented in Benin as the interoperability infrastructure behind its e-services.", "as_of": "2023-11-29", "date_precision": "day", "system": "X-Road", "class": "exchange"}
+], "systems": [{"system": "X-Road", "country_label": "Benin interoperability infrastructure", "class": "exchange", "platform": "X-Road", "owner": "ASIN", "tiers": ""}], "note": "No count of connected bodies or usage figure."}}},
+"egovservices": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "The e-Governance Academy says Benin launched a citizen portal and e-services including a civil-servant pension service, building permits, traffic exams and university applications.", "as_of": "2023-11-29", "date_precision": "day", "system": "citizen portal", "class": "eservices"}
+], "systems": [], "note": "No count of ten or more, sign-in or usage figure."}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No ID enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No ID system named."}}},
+"idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No national ID system named."}}},
+"itcapacity": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "ASIN's head of eServices says the agency implemented the X-Road data exchange platform in Benin and adapted it to the country's needs.", "as_of": "2023-11-29", "date_precision": "day", "system": "X-Road", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "The e-Governance Academy says ASIN runs the interoperability infrastructure and e-services platform and encourages government agencies to use it.", "as_of": "2023-11-29", "date_precision": "day", "system": "ASIN", "class": "staff"}
+], "systems": [], "note": "No system stated as live after October 2023."}}}
+}}

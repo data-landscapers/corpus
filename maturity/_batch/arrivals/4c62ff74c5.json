@@ -1,0 +1,16 @@
+{"slug": "2025-07-16-fij-banks-cannot-verify-customers-nins-nimc-upgrade", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "FIJ reports that banks and telecom companies verify National Identification Numbers through a National Identity Management Commission (NIMC) portal, which was failing for weeks in July 2025 during an upgrade.", "as_of": "2025-07", "date_precision": "month", "system": "NIMC NIN verification portal", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "FIJ reports that both banks and telecom companies depend on the NIMC portal's NIN verification, and that the Central Bank of Nigeria requires banks to verify NINs before opening or upgrading accounts.", "as_of": "2025-07", "date_precision": "month", "system": "NIMC NIN verification portal", "class": "authentication"}],
+"systems": [{"system": "NIMC NIN verification portal", "country_label": "Nigeria", "class": "authentication", "platform": "", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID platform; only a vendor credit charge by NIMC."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No public register keyed on the NIN is stated."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No issuance, biometric or certification detail stated."}}},
+"idverification": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "FIJ reports that banks verify customers' NINs against NIMC's platform to onboard them, as the Central Bank of Nigeria requires, though verification failed for weeks in July 2025.", "as_of": "2025-07", "date_precision": "month", "system": "NIMC NIN verification portal", "class": "relying"},
+{"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "FIJ reports that NIN verification is used by banks for onboarding and by telecom companies for SIM registration, in the same NIMC portal.", "as_of": "2025-07", "date_precision": "month", "system": "NIMC NIN verification portal", "class": "relying"}],
+"systems": [], "note": ""}}}
+}}

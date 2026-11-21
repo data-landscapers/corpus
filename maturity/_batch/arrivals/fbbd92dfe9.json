@@ -1,0 +1,18 @@
+{"slug": "2026-11-13-tanzania-urges-shift-from-telecom-coverage-to-meaningful-digital-access", "studies": {
+"aiabuse": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No AI built or hosted in the country stated."}}},
+"civilserviceskills": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No civil service training stated."}}},
+"digitaldivides": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "delivering", "fact": "Minister Angellah Kairuki told the ITU Plenipotentiary Conference that government-funded construction of 758 new towers and upgrade of over 300 had connected more than 1,301 villages and an estimated 8.5 million people.", "as_of": "2026-11-13", "date_precision": "day", "system": "tower construction and upgrade programme", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"digitalskills": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Digital skills development is only named as an ITU priority; no programme stated."}}},
+"domesticfinancing": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No budget line, fund or spending figure stated."}}},
+"fibrebackbone": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "backbone", "aspect": "reach", "value": "every-region", "fact": "Minister Angellah Kairuki said the National ICT Broadband Backbone connects all 31 regions of Tanzania.", "as_of": "2026-11-13", "date_precision": "day", "system": "National Information and Communications Technology Broadband Backbone (NICTBB)", "class": "backbone"}
+], "systems": [], "note": ""}}},
+"internationalbandwidth": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Minister Angellah Kairuki said the national backbone is linked to international submarine cables and to neighbouring countries, without naming cables or counting routes.", "as_of": "2026-11-13", "date_precision": "day", "system": "National Information and Communications Technology Broadband Backbone (NICTBB)", "class": "route"}
+], "systems": [], "note": ""}}}
+}}

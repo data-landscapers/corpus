@@ -1,0 +1,12 @@
+{"slug": "2024-10-25-addis-standard-unhcr-refugee-children-unregistered", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only refugee ID cards with a Fayda number are mentioned, with no authentication service stated."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"civilregister": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The vital registration system is not described as digital."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No count or share of the population holding a national ID."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on who operates or maintains the ID system."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [], "systems": [{"system": "Fayda", "country_label": "Fayda (National ID Program)", "class": "idsystem", "platform": "", "owner": "National ID Program", "tiers": ""}], "note": "Biometric checks are given only as the aim of the Fayda number, and no enrolment or issuance is stated."}}},
+"refugees": {"countries": {"ETH": {"facts": [{"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "UNHCR reports that only 12 percent of 576,000 refugee children in Ethiopia were registered in the vital registration system as of August 2024.", "as_of": "2024-08", "date_precision": "month", "system": "Vital registration system", "class": "displaced"}, {"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "The Refugees and Returnees Service previously announced an initiative to issue refugees and asylum seekers digital ID cards carrying a Fayda number from the National ID Program.", "as_of": "2024-10", "date_precision": "month", "system": "Fayda", "class": "displaced"}], "systems": [{"system": "Fayda", "country_label": "Fayda (National ID Program)", "class": "idsystem", "platform": "", "owner": "National ID Program", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on how local offices make the record."}}}
+}}

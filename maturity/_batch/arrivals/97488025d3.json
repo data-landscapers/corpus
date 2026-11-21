@@ -1,0 +1,12 @@
+{
+ "slug": "2026-11-17-gab-gabon-prestations-familiales-mouila-la-cppf-sensibilise-les-agents-pub",
+ "studies": {
+  "civilserviceskills": {"countries": {"GAB": {"facts": [], "systems": [], "note": "A briefing on using one platform, not a digital-skills programme for civil servants."}}},
+  "coresystems": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No finance, tax or payroll system is stated."}}},
+  "egovservices": {"countries": {"GAB": {"facts": [
+   {"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "AGP reports the state pension and family benefits fund CPPF launched its Baana platform nationwide on 16 November 2026, where parents declare dependants and school heads validate school certificates online.", "as_of": "2026-11-16", "date_precision": "day", "system": "Baana (ars.cppf.ga)", "class": "eservices"}
+  ], "systems": [{"system": "Baana", "country_label": "Gabon", "class": "eservices", "platform": "ars.cppf.ga", "owner": "CPPF", "tiers": ""}], "note": ""}}},
+  "itcapacity": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Says CPPF set up Baana but not that its own staff built or run it."}}},
+  "localgov": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No local government office connection is stated."}}}
+ }
+}

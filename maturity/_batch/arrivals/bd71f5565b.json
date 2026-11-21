@@ -1,0 +1,9 @@
+{"slug": "2025-08-11-lby-first-business-incubator-to-support-startup-entrepreneurs-opens-in-tripoli", "studies": {
+"localgov": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on local government connection."}}},
+"startups": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "startuppolicy", "aspect": "law", "value": "draft", "fact": "The Libya Observer says Prime Minister Dbeibah announced in January 2025, under the 1,000 Entrepreneurs for 1,000 Projects initiative, a support fund and regulations governing startup companies; adoption of the regulations is not stated.", "as_of": "2025-01", "date_precision": "month", "system": "1,000 Entrepreneurs for 1,000 Projects", "class": "startuppolicy"}
+], "systems": [], "note": ""}}},
+"techhubs": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "Tripoli Central Municipality inaugurated the city's first business incubator for startup entrepreneurs on 10 August 2025, with UNDP support; no programme or cohort is described.", "as_of": "2025-08-10", "date_precision": "day", "system": "Tripoli Central Municipality business incubator", "class": "hub"}
+], "systems": [{"system": "Tripoli Central Municipality business incubator", "country_label": "Libya", "class": "hub", "platform": "", "owner": "Tripoli Central Municipality", "tiers": ""}], "note": ""}}}
+}}

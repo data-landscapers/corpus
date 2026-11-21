@@ -1,0 +1,11 @@
+{"slug": "2024-01-31-amnesty-kenya-advisory-paper-rights-respecting-digital-id", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a government plan for a digital ID is stated, with no authentication service."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A plan to digitalise civil and person registration is stated, with no link between the registers."}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a call for a data protection impact assessment; no law or decision stated."}}},
+"dataprotectionreadiness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No law, authority or practice stated."}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No count or share of ID holders."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The planned UPI is not said to be given at birth."}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The UPI and digital ID are only planned, with no procurement or build stated."}}}
+}}

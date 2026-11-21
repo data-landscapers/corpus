@@ -1,0 +1,4 @@
+{"slug":"2026-11-19-tgo-port-de-lom-un-nouveau-guichet-num-rique-va-remplacer-les-plateformes-","studies":{
+"customs":{"countries":{"TGO":{"facts":[{"sub_indicator":"customs","aspect":"window","value":"window","fact":"Togo First reports GUCE currently handles the electronic coordination of foreign-trade formalities and GUFORD the maritime and port formalities, and an order of 14 October 2026 will replace both with a single Port Community System at Lomé port, with no go-live date.","as_of":"2026-10-14","date_precision":"day","system":"GUCE and GUFORD","class":"customs"}],"systems":[{"system":"Port Community System (PCS)","country_label":"Togo","class":"customs","platform":"","owner":"Ministry of Maritime Economy","tiers":""}],"note":""}}},
+"interoperabilitylaw":{"countries":{"TGO":{"facts":[],"systems":[],"note":"The order covers port and trade formalities only, a single sector; no general public-body data-sharing law."}}}
+}}

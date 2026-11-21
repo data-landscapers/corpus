@@ -1,0 +1,90 @@
+{
+ "slug": "2026-11-19-zwe-praz-moves-to-integrate-ai-into-e-procurement-system",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI harm rules or authority."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "PRAZ's ICT director said PRAZ already uses some AI-assisted evaluation in low-value procurements, with evaluation committees keeping the final say, and is integrating AI further into its e-GP system.",
+       "as_of": "2026-11-18",
+       "date_precision": "day",
+       "system": "PRAZ e-GP system AI-assisted evaluation",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP system",
+       "country_label": "PRAZ electronic Government Procurement system",
+       "class": "govai",
+       "platform": "",
+       "owner": "Procurement Regulatory Authority of Zimbabwe",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Procurement is general administration, not a listed sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI built at home stated; AI integration into the e-GP system is not a model, dataset or AI computing."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "PRAZ's director of ICT described its electronic Government Procurement (e-GP) system as the platform through which procuring entities prepare procurement plans and bids are evaluated, and said PRAZ is enhancing it.",
+       "as_of": "2026-11-18",
+       "date_precision": "day",
+       "system": "e-GP system",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP system",
+       "country_label": "PRAZ electronic Government Procurement system",
+       "class": "procurement",
+       "platform": "",
+       "owner": "Procurement Regulatory Authority of Zimbabwe",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

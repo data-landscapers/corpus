@@ -1,0 +1,21 @@
+{"slug": "2026-11-18-governing-ai-in-kenyas-banking-sector-cbk-draft-guidance-notes", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "draft", "fact": "The Central Bank of Kenya published a draft Guidance Note on Artificial Intelligence in the Banking Sector on 10 September 2026 for public comment, addressing algorithmic bias, unfair or opaque AI decisions and redress, per CIPIT's analysis.", "as_of": "2026-09-10", "date_precision": "day", "system": "CBK draft Guidance Note on Artificial Intelligence in the Banking Sector", "class": "aiharm"}], "systems": [], "note": ""}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document covers AI governance of banks, not government bodies' use of AI."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document covers AI in regulated financial institutions, not a public sector system."}}},
+"aistrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only cites the Kenya AI Strategy 2025-2030 as a ministry document; states no adoption, body or funding."}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in Kenya is described."}}},
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No payments mandate, licensing of payment providers, switch or PAPSS stated; the draft is an AI guidance note."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Consumer provisions are in an AI guidance note for banks, not rules on digital financial services."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datagovernance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No national data policy stated; the draft's data governance committees are institutional."}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "CIPIT's analysis treats Kenya's Data Protection Act (2022) as the existing law under which the CBK draft requires a lawful basis for processing, with consent as the primary basis.", "as_of": "2026-11-18", "date_precision": "day", "system": "Data Protection Act", "class": "general"}, {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "CIPIT's analysis says the Data Protection (General) Regulations (2022) allow processing without consent on other bases such as legitimate interest.", "as_of": "2026-11-18", "date_precision": "day", "system": "Data Protection (General) Regulations", "class": "general"}], "systems": [], "note": ""}}},
+"eparticipation": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Comments on the draft were invited but the document does not say they were taken online."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"internationalstandards": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on international standards."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No adult account survey share stated."}}},
+"publicconsultation": {"countries": {"KEN": {"facts": [{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The Central Bank of Kenya invited public comments on its draft AI Guidance Note by public notice of 10 September 2026, with comments due by 7 November 2026, per CIPIT.", "as_of": "2026-09-10", "date_precision": "day", "system": "CBK draft Guidance Note on Artificial Intelligence in the Banking Sector", "class": "consultation"}], "systems": [], "note": ""}}},
+"qualitystandards": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on a national standards body or standards."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payment services."}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

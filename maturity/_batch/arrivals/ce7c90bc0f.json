@@ -1,0 +1,12 @@
+{"slug": "2025-05-01-zwe-rbz-national-payment-systems-report-first-quarter-2025", "studies": {
+"businesspayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "Zimswitch", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The report gives payment statistics and Zimswitch collateral balances but does not state a licensing mandate or oversight of the switch."}}},
+"consumerprotection": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Subscriber and device counts are not a survey of adults."}}},
+"retailpayments": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The Reserve Bank of Zimbabwe reports 10.1 million active mobile financial services subscribers at 31 March 2025 and 144.8 million mobile transactions in the first quarter of 2025.", "as_of": "2025-03-31", "date_precision": "day", "system": "Mobile financial services", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on tax payment."}}}
+}}

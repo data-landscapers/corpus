@@ -1,0 +1,58 @@
+{"slug": "2026-11-19-xaf-cio-africa-landed-not-delivered-terrestrial-fibre", "studies": {
+"datacentres": {"countries": {
+"COD": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"EGY": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"MLI": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"MUS": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"SSD": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"SYC": {"facts": [], "systems": [], "note": "Nothing on data centres."}}},
+"exchangepoints": {"countries": {
+"COD": {"facts": [], "systems": [], "note": "Nothing on exchange points."},
+"EGY": {"facts": [], "systems": [], "note": "Nothing on exchange points."},
+"MLI": {"facts": [], "systems": [], "note": "Nothing on exchange points."},
+"MUS": {"facts": [], "systems": [], "note": "Nothing on exchange points."},
+"SSD": {"facts": [], "systems": [], "note": "Nothing on exchange points."},
+"SYC": {"facts": [], "systems": [], "note": "Nothing on exchange points."}}},
+"fibrebackbone": {"countries": {
+"COD": {"facts": [], "systems": [], "note": "The Paratus route is a company's cross-border route, not stated to link the capital to other regions."},
+"EGY": {"facts": [], "systems": [], "note": "Nothing on a national backbone."},
+"MLI": {"facts": [{"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "A USD 117.3 million contract was approved in January 2024 to extend fibre in Mali to Mopti, Koro and Timbuktu over 24 months, under the World Bank-backed WARCIP programme.", "as_of": "2024-01", "date_precision": "month", "system": "WARCIP fibre extension to Mopti, Koro and Timbuktu", "class": "backbone"}], "systems": [], "note": ""},
+"MUS": {"facts": [], "systems": [], "note": "Nothing on a national backbone."},
+"SSD": {"facts": [], "systems": [], "note": "Bayobab was licensed in October 2025 to build fibre; a licence is not a contract awarded or works begun."},
+"SYC": {"facts": [], "systems": [], "note": "Nothing on a national backbone."}}},
+"internationalbandwidth": {"countries": {
+"COD": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "In February 2026 Paratus activated a 2,000-kilometre protected fibre route from Mombasa to Goma through Nairobi, Kampala and Kigali, giving eastern DR Congo direct access to Kenyan subsea cable systems.", "as_of": "2026-02", "date_precision": "month", "system": "Paratus Mombasa-Goma route", "class": "route"}], "systems": [{"system": "Paratus Mombasa-Goma route", "country_label": "DR Congo", "class": "route", "platform": "", "owner": "Paratus", "tiers": ""}], "note": ""},
+"EGY": {"facts": [], "systems": [], "note": "19 landings are counted among cables active or under construction, with no in-service route stated."},
+"MLI": {"facts": [], "systems": [], "note": "Nothing on international routes."},
+"MUS": {"facts": [], "systems": [], "note": "Nothing on international routes."},
+"SSD": {"facts": [], "systems": [], "note": "Nothing on international routes in service."},
+"SYC": {"facts": [], "systems": [], "note": "Nothing on international routes."}}},
+"internetusage": {"countries": {
+"COD": {"facts": [], "systems": [], "note": "Only a figure for landlocked countries together."},
+"EGY": {"facts": [], "systems": [], "note": "No internet use figure."},
+"MLI": {"facts": [], "systems": [], "note": "Only a figure for landlocked countries together."},
+"MUS": {"facts": [], "systems": [], "note": "Only a fixed-line subscription rate, not users."},
+"SSD": {"facts": [], "systems": [], "note": "Only a figure for landlocked countries together."},
+"SYC": {"facts": [], "systems": [], "note": "Only a fixed-line subscription rate, not users."}}},
+"nationaldatacentres": {"countries": {
+"COD": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"EGY": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"MLI": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"MUS": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"SSD": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"SYC": {"facts": [], "systems": [], "note": "Nothing on data centres."}}},
+"regionalinfrastructure": {"countries": {
+"COD": {"facts": [], "systems": [], "note": "The Paratus route is one company's network; no arrangement between national bodies stated."},
+"EGY": {"facts": [], "systems": [], "note": "Cable landings only; no arrangement stated."},
+"MLI": {"facts": [], "systems": [], "note": "A national extension contract; no cross-border arrangement stated."},
+"MUS": {"facts": [], "systems": [], "note": "Nothing on shared infrastructure."},
+"SSD": {"facts": [], "systems": [], "note": "A licence to a company for cross-border fibre; no agreement between bodies stated."},
+"SYC": {"facts": [], "systems": [], "note": "Nothing on shared infrastructure."}}},
+"regionalpolicy": {"countries": {
+"COD": {"facts": [], "systems": [], "note": "Nothing on regional digital policy."},
+"EGY": {"facts": [], "systems": [], "note": "Nothing on regional digital policy."},
+"MLI": {"facts": [], "systems": [], "note": "Nothing on regional digital policy."},
+"MUS": {"facts": [], "systems": [], "note": "Nothing on regional digital policy."},
+"SSD": {"facts": [], "systems": [], "note": "Nothing on regional digital policy."},
+"SYC": {"facts": [], "systems": [], "note": "Nothing on regional digital policy."}}}
+}}

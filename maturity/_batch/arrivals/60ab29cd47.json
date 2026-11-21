@@ -1,0 +1,158 @@
+{
+ "slug": "2026-11-17-mwi-ses-expands-rural-school-connectivity",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "A satellite school project by SES and ITU's coalition, not a government or universal service fund programme; no counted sites in a named country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "A satellite school project by SES and ITU's coalition, not a government or universal service fund programme; no counted sites in a named country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "A satellite school project by SES and ITU's coalition, not a government or universal service fund programme; no counted sites in a named country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "A satellite school project by SES and ITU's coalition, not a government or universal service fund programme; no counted sites in a named country."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Project plans connectivity; no digital-skills programme counted."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Project plans connectivity; no digital-skills programme counted."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Project plans connectivity; no digital-skills programme counted."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Project plans connectivity; no digital-skills programme counted."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Satellite links to schools by a project; no licence or retail sale stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "A school connectivity programme is other; no figure or curriculum stated."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "A school connectivity programme is other; no figure or curriculum stated."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "A school connectivity programme is other; no figure or curriculum stated."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "A school connectivity programme is other; no figure or curriculum stated."
+    }
+   }
+  }
+ }
+}

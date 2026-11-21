@@ -1,0 +1,19 @@
+{"slug": "2026-05-01-rwa-thematic-snapshot-rwanda-digitizing-rural-health-facilities", "studies": {
+"health": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "emr", "aspect": "tiers", "value": "T4", "fact": "The Global Fund says Society for Family Health Rwanda's health posts use the eFiche electronic medical record, being rolled out across all its facilities.", "as_of": "2026-05", "date_precision": "month", "system": "eFiche", "class": "emr"},
+{"sub_indicator": "emr", "aspect": "clinics", "value": "count:126", "fact": "The Global Fund says 126 of Society for Family Health Rwanda's 350 health posts have internet in addition to electricity, enabling use of the eFiche Operating System.", "as_of": "2026-05", "date_precision": "month", "system": "eFiche", "class": "emr"},
+{"sub_indicator": "emr", "aspect": "governance", "value": "owner:partner", "fact": "eFiche was developed from 2023 by Society for Family Health Rwanda with SAND Technologies.", "as_of": "2023", "date_precision": "year", "system": "eFiche", "class": "emr"},
+{"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The Global Fund finances Society for Family Health Rwanda's digital health post work as a sub-recipient of its grants.", "as_of": "2026-05", "date_precision": "month", "system": "eFiche", "class": "emr"},
+{"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "The Global Fund says the work aligns with a national EMR integration agenda to raise digital record coverage from 12% in 2024 to 70% in 2029 across hospitals and health centres.", "as_of": "2026-05", "date_precision": "month", "system": "eFiche", "class": "emr"}],
+"systems": [{"system": "eFiche", "country_label": "Rwanda", "class": "emr", "platform": "", "owner": "Society for Family Health Rwanda", "tiers": "T4"}, {"system": "eBuzima", "country_label": "Rwanda", "class": "emr", "platform": "", "owner": "government", "tiers": "T4"}], "note": ""}}},
+"healthexchange": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The Global Fund says the eFiche record system is interoperable with the government's eBuzima and with Rwanda's Health Information Exchange, and reports HIV, TB and malaria indicators into national systems.", "as_of": "2026-05", "date_precision": "month", "system": "Rwanda Health Information Exchange", "class": "exchange"}],
+"systems": [{"system": "Rwanda Health Information Exchange", "country_label": "Rwanda", "class": "exchange", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"healthmis": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "The Global Fund says Rwanda's health management information system receives monthly submissions and HIV, TB and malaria indicators from Society for Family Health health posts.", "as_of": "2026-05", "date_precision": "month", "system": "Rwanda health management information system", "class": "hmis"},
+{"sub_indicator": "hmis", "aspect": "linked", "value": "linked", "fact": "The separate eFiche Operating System reports HIV, TB and malaria indicators into the national health management information system.", "as_of": "2026-05", "date_precision": "month", "system": "Rwanda health management information system", "class": "hmis"}],
+"systems": [], "note": ""}}},
+"satellitebroadband": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "satellite", "aspect": "service", "value": "sale", "fact": "The Global Fund says Society for Family Health Rwanda's rural health posts rely primarily on internet from low-earth-orbit satellites; no licence or provider is named.", "as_of": "2026-05", "date_precision": "month", "system": "low-earth-orbit satellite internet", "class": "satellite"}],
+"systems": [], "note": ""}}}
+}}

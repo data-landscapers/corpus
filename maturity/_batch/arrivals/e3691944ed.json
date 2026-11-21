@@ -1,0 +1,10 @@
+{"slug": "2025-11-05-africanmanager-carte-identite-nationale-a-distance", "studies": {
+"authentication": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The remote ID-card application is not an authentication service."}}},
+"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on a civil register and ID link."}}},
+"egovservices": {"countries": {"TUN": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "ICT minister Sofiene Hemissi told parliament committees that the national platform of administrative procedures is 50% built and that several high-demand online services are being developed.", "as_of": "2025-11-04", "date_precision": "day", "system": "national platform of administrative procedures", "class": "eservices"}], "systems": [{"system": "national platform of administrative procedures", "country_label": "Tunisia", "class": "eservices", "platform": "", "owner": "Ministry of Communication Technologies", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only an announced remote card-application service; nothing on the ID system's build, biometrics or audit."}}}
+}}

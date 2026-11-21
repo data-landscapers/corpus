@@ -1,0 +1,28 @@
+{"slug": "2024-10-02-businessdaily-state-collects-sh127bn-ecitizen", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No identity authentication service stated."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No civil register or ID link stated."}}},
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Payments to government only; no e-procurement stated."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Convenience fee discussed; no consumer rule or redress body stated."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No cross-border payment stated."}}},
+"egovservices": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Treasury Cabinet Secretary John Mbadi told the Senate the e-Citizen platform stands at 16,000 services, up from 397, with payments made online through a single payment number.", "as_of": "2024-10-02", "date_precision": "day", "system": "e-Citizen", "class": "eservices"},
+{"sub_indicator": "eservices", "aspect": "usage", "value": "published", "fact": "Mbadi said e-Citizen processes about 120,000 transactions daily and collected Sh26.4 billion in the year to June 2023 and Sh100.8 billion in the year to June 2024.", "as_of": "2024-10-02", "date_precision": "day", "system": "e-Citizen", "class": "eservices"}
+], "systems": [{"system": "e-Citizen", "country_label": "Kenya", "class": "eservices", "platform": "", "owner": "National Treasury", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No payments to people stated."}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No ID enrolment figure stated."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No national ID system operation stated."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No national ID system stated."}}},
+"itcapacity": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "Mbadi said the e-Citizen system has been handed over to the government and is operated by the ICT Authority on a contractual basis, with a three-year contract after which the government will decide whether to continue.", "as_of": "2024-10-02", "date_precision": "day", "system": "e-Citizen", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "Mbadi said the ICT Authority operates the e-Citizen platform that carries services of government bodies, collecting money for government and paying the service provider.", "as_of": "2024-10-02", "date_precision": "day", "system": "e-Citizen", "class": "staff"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No survey of adults with accounts stated."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No mobile money service or switch stated."}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Treasury Cabinet Secretary John Mbadi said government has collected at least Sh127.2 billion through the e-Citizen platform since the order to pay all government services through a single payment number.", "as_of": "2024-10-02", "date_precision": "day", "system": "e-Citizen", "class": "revenue"},
+{"sub_indicator": "revenue", "aspect": "reported", "value": "reported", "fact": "Mbadi gave e-Citizen collections of Sh26.4 billion in the year to June 2023 and Sh100.8 billion in the year to June 2024.", "as_of": "2024-06", "date_precision": "month", "system": "e-Citizen", "class": "revenue"}
+], "systems": [], "note": ""}}}
+}}

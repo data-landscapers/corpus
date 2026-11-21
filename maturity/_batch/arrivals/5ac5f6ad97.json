@@ -1,0 +1,12 @@
+{"slug": "2026-11-15-egy-sisi-meets-pm-minister-planning", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payment services."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "The Presidency says Planning Minister Ahmed Rustom reviewed with President El-Sisi a plan to introduce and expand electronic payment tools for public services, for citizens inside and outside Egypt.", "as_of": "2026-11-15", "date_precision": "day", "system": "electronic payment tools for public services", "class": "revenue"}
+], "systems": [], "note": ""}}}
+}}

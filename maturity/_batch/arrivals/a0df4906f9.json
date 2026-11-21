@@ -1,0 +1,7 @@
+{"slug": "2026-11-19-sdn-suna-data-ai-authority-shared-ai-lab", "studies": {
+"aiabuse": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on AI harm rules or an authority mandate over harms."}}},
+"aigovernment": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Lab serves students and researchers, not government administration."}}},
+"aisectoral": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No sectoral public system AI tool stated."}}},
+"aistrategy": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No strategy mentioned."}}},
+"aisystems": {"countries": {"SDN": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "SUNA reports Sudan's Data and AI Authority is building a shared central AI laboratory hosted inside Sudan and able to run offline, for about 100 simultaneous users and medium-sized models on local data, in final fit-out with operation expected within about three months.", "as_of": "2026-11-19", "date_precision": "day", "system": "Shared central AI laboratory", "class": "localai"}], "systems": [{"system": "Shared central AI laboratory", "country_label": "Sudan", "class": "localai", "platform": "offline in-country compute", "owner": "Data and Artificial Intelligence Authority, Ministry of Digital Transformation and Communications", "tiers": ""}], "note": ""}}}
+}}

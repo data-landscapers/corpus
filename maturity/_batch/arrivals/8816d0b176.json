@@ -1,0 +1,20 @@
+{"slug": "2023-12-21-bvn-nin-why-they-are-important-for-national-development", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "An opinion column in TheCable says authorised verification agencies can request verification of a person's NIN through secure protocols.", "as_of": "2023-12-21", "date_precision": "day", "system": "NIN verification", "class": "authentication"}], "systems": [{"system": "NIN", "country_label": "Nigeria", "class": "authentication", "platform": "", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No central bank payments role stated."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitalidlaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Mentions mandatory implementation of the identity management law without naming or dating it as in force."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Cash transfers mentioned only as a benefit of ID; no programme or payment stated."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on who runs or owns the platform."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Agencies are only expected to integrate databases with NIMC; no register stated as keyed on the NIN."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "An opinion column in TheCable says NIMC issues an 11-digit NIN on enrolment, tied to each person's fingerprints and photo on the National Identity Database.", "as_of": "2023-12-21", "date_precision": "day", "system": "NIN", "class": "idsystem"}], "systems": [{"system": "NIN", "country_label": "Nigeria", "class": "idsystem", "platform": "", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"NGA": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "An opinion column in TheCable says NINs are linked to bank BVNs and banks verify customer identity against biometrics, with companies required to validate the numbers.", "as_of": "2023-12-21", "date_precision": "day", "system": "BVN/NIN linkage", "class": "relying"}], "systems": [{"system": "BVN", "country_label": "Nigeria", "class": "relying", "platform": "", "owner": "banks", "tiers": ""}], "note": ""}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}},
+"socialprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No programme information system stated."}}}
+}}

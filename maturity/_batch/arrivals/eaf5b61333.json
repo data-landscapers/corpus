@@ -1,0 +1,12 @@
+{"slug": "2025-05-15-nimc-eyes-nin-enrollment-for-every-nigerian-by-year-end", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "120,040,000 enrolled is stated with no population or share."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No operation or maintenance of the system stated."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NIN is said to be required for banking, telecoms and loans, but no public register keyed on it is named."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIMC's Director-General said on 14 May 2025 that 120,040,000 Nigerians were enrolled in the National Identity Database, whose capacity was raised from 100 million to 250 million.", "as_of": "2025-05-14", "date_precision": "day", "system": "National Identity Database", "class": "idsystem"}
+], "systems": [], "note": "No biometric duplicate check or audit stated."}}},
+"localgov": {"countries": {"NGA": {"facts": [], "systems": [], "note": "State and local offices equipped for NIN registration is equipment, with no connection stated."}}}
+}}

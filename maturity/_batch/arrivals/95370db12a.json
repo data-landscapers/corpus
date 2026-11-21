@@ -1,0 +1,16 @@
+{"slug": "2026-11-20-gin-signature-electronique-feuille-de-route-confiance-numerique", "studies": {
+"authentication": {"countries": {"GIN": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "ANDE's director general cited PKI and electronic signature platforms developed within ANDE, and the DEMATEUS expert recommended a pilot, with e-signature in the public sector targeted from early 2027.", "as_of": "2026-11-20", "date_precision": "day", "system": "ANDE PKI and electronic signature platforms", "class": "authentication"}], "systems": [{"system": "ANDE PKI and electronic signature platforms", "country_label": "Guinea", "class": "authentication", "platform": "", "owner": "ANDE", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on the civil register stated."}}},
+"cybersecurity": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Only APACIE's planned audit role over the trust systems; no national response body or strategy stated."}}},
+"ecommercelaw": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "ANDE's director general and the minister cited the 19 August 2026 presidential decree instituting electronic signature, with ANDE as its regulator, alongside Article 1003 of the Civil Code; the decree covers electronic signature only.", "as_of": "2026-08-19", "date_precision": "day", "system": "decree of 19 August 2026 on electronic signature", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The minister said the first step, the regulatory framework and the implementing orders of the decree, is now complete; nine draft implementing texts had been examined on 21 October 2026.", "as_of": "2026-11-20", "date_precision": "day", "system": "decree of 19 August 2026 on electronic signature", "class": "law"}],
+"systems": [], "note": ""}}},
+"egovservices": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Only a target to dematerialise administrative procedures; no online service stated."}}},
+"idcoverage": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on a number at birth stated."}}},
+"idmaintenance": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system stated."}}},
+"idregisters": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No register keyed on the national ID stated."}}},
+"idrobustness": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Only a call for a reliable citizen identification mechanism; no national ID system stated."}}},
+"paymentslaw": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on payments law stated."}}}
+}}

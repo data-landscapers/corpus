@@ -1,0 +1,12 @@
+{"slug": "2026-11-18-ben-lanation-budget-2027-ministere-transformation-digitale", "studies": {
+"aiabuse": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules or authority."}}},
+"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Voice-accessible services are a 2027 priority with no AI system named in use or piloted."}}},
+"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only says the minister is in charge of the national AI strategy; no status, body or money stated."}}},
+"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing named."}}},
+"domesticfinancing": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "La Nation reports the Ministry of Digital Transformation and Innovation presented a 2027 draft budget of FCFA 11.59bn to the National Assembly, with FCFA 7.74bn of investment financed wholly from own resources.", "as_of": "2027", "date_precision": "year", "system": "Ministry of Digital Transformation and Innovation 2027 draft budget", "class": "financing"},
+{"sub_indicator": "financing", "aspect": "budget", "value": "fell", "fact": "La Nation reports the ministry's 2027 draft budget of FCFA 11.59bn against FCFA 16,483,428,674 in 2026, a fall (printed as 29.29%) attributed to the externally financed Pitn2r project leaving its portfolio.", "as_of": "2027", "date_precision": "year", "system": "Ministry of Digital Transformation and Innovation 2027 draft budget", "class": "financing"}
+], "systems": [], "note": ""}}},
+"localgov": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Connections named are schools, health centres and university sites, not local government offices."}}}
+}}

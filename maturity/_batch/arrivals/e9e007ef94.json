@@ -1,0 +1,5 @@
+{"slug": "2026-11-17-tma-benin-digital-backbone-customs-servers-handover", "studies": {
+"customs": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "customs", "aspect": "exchange", "value": "exchange", "fact": "TradeMark Africa says Benin Customs runs a national node of ECOWAS's SIGMAT interconnected goods-in-transit system, exchanging transit information electronically with neighbouring customs administrations, and on 5 November 2026 it handed the administration servers and firewalls to keep the node online.", "as_of": "2026-11-05", "date_precision": "day", "system": "SIGMAT", "class": "customs"}
+], "systems": [{"system": "SIGMAT national node", "country_label": "SIGMAT", "class": "customs", "platform": "ECOWAS SIGMAT", "owner": "Benin Customs Administration", "tiers": ""}], "note": ""}}}
+}}

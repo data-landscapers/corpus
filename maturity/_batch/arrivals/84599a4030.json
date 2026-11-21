@@ -1,0 +1,10 @@
+{"slug": "2026-11-17-egypt-senate-study-ai-economic-governance-data-hosting-options", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A parliamentarian's study proposes controls on language models; no bill, rule or authority stated."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A proposed AI economic decision system under study; nothing piloted or in service."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Proposal only; no sectoral AI tool piloted or in service."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [{"system": "Karnak", "country_label": "Egypt", "class": "localai", "platform": "", "owner": "", "tiers": ""}], "note": "Karnak is named as the national language model the study proposes to use; no release, builder or computing stated."}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Mentions government data centres only as a hosting option; no for-hire centre stated."}}},
+"dataexchange": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A data-exchange system is proposed in a study, not procured, built or live."}}},
+"digitalsovereignty": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A parliamentary study weighs sovereign, hybrid and cloud hosting; no government strategy or rule stated."}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No nationally owned for-hire data centre stated."}}}
+}}

@@ -1,0 +1,6 @@
+{"slug": "2026-11-18-mwi-malawi-launches-20262029-open-government-partnership-national-action-plan", "studies": {
+"disabilityaccess": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Persons with disabilities are only urged to take part; nothing on accessible information or digital services."}}},
+"eparticipation": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No online consultation channel stated."}}},
+"opendiscussion": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No criticism of a named policy, cut or punishment stated."}}},
+"publicconsultation": {"countries": {"MWI": {"facts": [{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "Malawi Voice reports that CONGOMA's Executive Director said civil society organisations took part in developing the 2026-2029 Open Government Partnership National Action Plan, launched on 18 November 2026 with 11 commitments including digital governance.", "as_of": "2026-11-18", "date_precision": "day", "system": "OGP National Action Plan 2026-2029", "class": "consultation"}], "systems": [], "note": ""}}}
+}}

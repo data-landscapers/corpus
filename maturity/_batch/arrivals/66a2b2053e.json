@@ -1,0 +1,205 @@
+{
+ "slug": "2026-07-29-sdn-almajd-230-e-health-services-digital-health-strategy",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Data exchange named only as a strategy pillar."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "National strategy named only in passing; standing, text and period not stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned national health platform and 230 services target only; nothing in service stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "emr",
+       "aspect": "tiers",
+       "value": "T1;T2",
+       "fact": "Sudan's communications and digital transformation minister said the Facility Information System is running in a number of hospitals, with 369 medical files registered at Al-Nau Hospital and over 570 at the Al-Dhara and Oncology hospital, and patients' treatment doses managed electronically through it; the tier of the hospitals is not stated.",
+       "as_of": "2026-07-29",
+       "date_precision": "day",
+       "system": "Facility Information System",
+       "class": "emr"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Facility Information System",
+       "country_label": "Sudan",
+       "class": "emr",
+       "platform": "",
+       "owner": "Ministry of Health with Ministry of Communications and Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned national health services platform and hospital-level records; no national HMIS stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Sudan."
+    }
+   }
+  }
+ }
+}

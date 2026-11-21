@@ -1,0 +1,10 @@
+{"slug": "2026-11-18-gha-bog-develops-open-banking-framework-to-facilitate-customer-data-sharing", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "drafting", "fact": "Governor Johnson Pandit Asiama told the Invest Ghana Summit that the Bank of Ghana is developing a dedicated legal and regulatory framework for fintech companies, alongside an open banking framework for consent-based data sharing.", "as_of": "2026-11-17", "date_precision": "day", "system": "Bank of Ghana fintech regulatory framework", "class": "oversight"}], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [{"sub_indicator": "protection", "aspect": "rules", "value": "inforce", "fact": "Governor Asiama said the Bank of Ghana is implementing guidelines for digital credit service providers to make digital lending fair, transparent and sustainable for borrowers.", "as_of": "2026-11-17", "date_precision": "day", "system": "Bank of Ghana digital credit guidelines", "class": "protection"}], "systems": [], "note": ""}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Interoperability named as an agenda item only; no service or switch described."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

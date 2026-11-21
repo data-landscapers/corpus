@@ -1,0 +1,9 @@
+{"slug": "2026-11-20-permis-de-conduire-numerique-erreurs-sur-l-application-korek-les-usagers", "studies": {
+"authentication": {"countries": {"MUS": {"facts": [], "systems": [{"system": "KOREK!", "country_label": "Mauritius", "class": "other", "platform": "mobile app", "owner": "Ministry of ICT", "tiers": ""}], "note": "The app displays licence records; no ID authentication service is described."}}},
+"birthidlink": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on the civil register."}}},
+"idcoverage": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No count or share of ID holders stated."}}},
+"idfrombirth": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on who runs or owns the ID system."}}},
+"idregisters": {"countries": {"MUS": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "L'Express reports a ministry communiqué of 20 November 2026 saying driving licences held in the Traffic Branch's official registers are found through the holder's national identity card number, and older licences recorded without an ID number are not found.", "as_of": "2026-11-20", "date_precision": "day", "system": "Traffic Branch licence register", "class": "register"}], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The national ID card is mentioned only as a lookup key; nothing on issuance, biometrics or audit."}}}
+}}

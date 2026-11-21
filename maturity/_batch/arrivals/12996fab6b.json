@@ -1,0 +1,23 @@
+{"slug": "2026-11-14-cog-itu-pp26-policy-statement-congo", "studies": {
+"aiabuse": {"countries": {"COG": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"COG": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "Congo's minister says the Ministry of Posts, Telecommunications and the Digital Economy is the first in government to work with AI agents in its daily administration, using market solutions for now.", "as_of": "2026-11-14", "date_precision": "day", "system": "AI agents in ministry administration", "class": "govai"}], "systems": [{"system": "AI agents in daily administration", "country_label": "Ministry of Posts, Telecommunications and the Digital Economy", "class": "govai", "platform": "market solutions", "owner": "Ministry of Posts, Telecommunications and the Digital Economy", "tiers": ""}], "note": ""}}},
+"ailaw": {"countries": {"COG": {"facts": [], "systems": [], "note": "No AI law or draft stated."}}},
+"aisectoral": {"countries": {"COG": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"COG": {"facts": [], "systems": [], "note": "The nine-programme roadmap is not stated to be an AI strategy; AI is one programme within it."}}},
+"aisystems": {"countries": {"COG": {"facts": [], "systems": [], "note": "Shared AI compute is only an intention with the World Bank; nothing built or in service."}}},
+"businesspayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"COG": {"facts": [], "systems": [], "note": "Central bank not mentioned."}}},
+"consumerprotection": {"countries": {"COG": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"crossborderpayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"cybersecurity": {"countries": {"COG": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Congo's minister says no public service goes live without approval of the national cybersecurity agency, and that a national SOC and CERT are planned for 2027.", "as_of": "2026-11-14", "date_precision": "day", "system": "national cybersecurity agency", "class": "response"}], "systems": [{"system": "national cybersecurity agency", "country_label": "national cybersecurity agency", "class": "response", "platform": "", "owner": "government", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"COG": {"facts": [], "systems": [], "note": "National data centre is due at the end of November 2026, not yet in service; no hire or tier stated."}}},
+"egovservices": {"countries": {"COG": {"facts": [], "systems": [], "note": "First seven services open 5 December 2026, a future date; nothing launched yet."}}},
+"g2ppayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"internetusage": {"countries": {"COG": {"facts": [], "systems": [], "note": "Only mobile-internet use (19%) is given, which is not the study's figure."}}},
+"nationaldatacentres": {"countries": {"COG": {"facts": [], "systems": [], "note": "National data centre not yet delivered; ownership for hire and tier not stated."}}},
+"paymentsuptake": {"countries": {"COG": {"facts": [], "systems": [], "note": "No account-ownership survey stated."}}},
+"retailpayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "Payment is only a planned programme on open standards."}}},
+"revenuecollection": {"countries": {"COG": {"facts": [], "systems": [], "note": "Revenue modernisation is a programme with no system in service stated."}}},
+"startups": {"countries": {"COG": {"facts": [], "systems": [], "note": "Only a planned marketplace for developers; no law or fund."}}},
+"techhubs": {"countries": {"COG": {"facts": [], "systems": [], "note": "No hub or park stated."}}}
+}}

@@ -1,0 +1,10 @@
+{"slug": "2024-04-26-mmegi-botswana-digital-divide-internet-access", "studies": {
+"authentication": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+"birthidlink": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"digitaldivides": {"countries": {"BWA": {"facts": [{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "The Mmegi contributor writes that the Botswana government has acknowledged the digital divide and initiated programmes to bridge it, with no programme named and no sites counted.", "as_of": "2024-04-26", "date_precision": "day", "system": "government digital divide programmes", "class": "ruralaccess"}], "systems": [], "note": "Broadband coverage and urban-rural shares are coverage and service figures, not internet use shares, so not recorded as measured."}}},
+"idcoverage": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on ID enrolment."}}},
+"idfrombirth": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on the ID system."}}},
+"idregisters": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID."}}},
+"idrobustness": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}}
+}}

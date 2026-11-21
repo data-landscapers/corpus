@@ -1,0 +1,13 @@
+{"slug": "2025-01-01-moz-transforming-child-health-with-dhis2-in-mozambique", "studies": {
+"aiabuse": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI rule or authority stated."}}},
+"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No government AI use stated; AI is only a future aim."}}},
+"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "AI analytics only a stated future aim, not piloted or in service."}}},
+"aisystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country stated."}}},
+"birthidlink": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Integration with CRVS is stated only as a future focus."}}},
+"civilregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No civil registration system described."}}},
+"health": {"countries": {"MOZ": {"facts": [{"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The DHIS2 Community entry says child health data in Mozambique is traditionally collected on paper at facilities, consolidated at district level and later entered into DHIS2 as aggregated reports.", "as_of": "2025", "date_precision": "year", "system": "DHIS2", "class": "hmis"}], "systems": [{"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""}, {"system": "Electronic Child Registry", "country_label": "Electronic Child Registry (ECR)", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "", "tiers": ""}], "note": ""}}},
+"healthmis": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""}], "note": "Says only that child health aggregates are entered into DHIS2; national coverage, links and reporting rate not stated."}}},
+"idfrombirth": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No ID number at birth stated."}}},
+"publicconsultation": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No consultation on a digital law or policy stated."}}},
+"registry": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No civil registration office entry described."}}}
+}}

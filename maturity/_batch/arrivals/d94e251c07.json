@@ -1,0 +1,21 @@
+{"slug": "2026-11-18-tun-parliament-begins-examining-2027-communication-technologies-budget", "studies": {
+"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only a planned governance framework and code of ethics for AI; no rule or authority stated."}}},
+"aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only a plan to integrate AI into public policies and services; no use stated."}}},
+"aisectoral": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only a plan to integrate AI applications into sectors; no tool piloted or in service stated."}}},
+"aisystems": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only the 2026-2030 AI strategy continuing; no model, dataset or computing stated."}}},
+"businesspayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No e-procurement system stated."}}},
+"centralbank": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on the central bank stated."}}},
+"civilserviceskills": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only a general orientation on human capital and digital skills; no civil service training stated."}}},
+"consumerprotection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection stated."}}},
+"crossborderpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments stated."}}},
+"dataexchange": {"countries": {"TUN": {"facts": [{"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The ministry's 2027 goals, per the parliamentary committee report, include expanding the existing national interoperability platform to all ministries and reaching 200 interoperability services between public structures.", "as_of": "2026-11-18", "date_precision": "day", "system": "national interoperability platform", "class": "exchange"}], "systems": [{"system": "national interoperability platform", "country_label": "Tunisia", "class": "exchange", "platform": "", "owner": "Ministry of Communication Technologies", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only a general orientation on national digital skills; no public programme stated."}}},
+"digitalsovereignty": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Sovereignty named only as a main axis; no strategy, rule or hosting stated."}}},
+"g2ppayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"justice": {"countries": {"TUN": {"facts": [{"sub_indicator": "justice", "aspect": "cases", "value": "underway", "fact": "The ministry's announced programmes include completing the digitalization of judicial services through the E-Justice portal, per the parliamentary committee report.", "as_of": "2026-11-18", "date_precision": "day", "system": "E-Justice portal", "class": "justice"}], "systems": [{"system": "E-Justice portal", "country_label": "Tunisia", "class": "justice", "platform": "", "owner": "Ministry of Communication Technologies", "tiers": ""}], "note": ""}}},
+"paymentsuptake": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No account survey share stated."}}},
+"retailpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No retail payment service stated."}}},
+"revenuecollection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only a goal to generalize electronic payment for administrative services; no tax or fee payment stated in service."}}},
+"startups": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Startup support named only as an axis; no law, label or fund stated."}}},
+"techhubs": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No hub or park stated."}}}
+}}

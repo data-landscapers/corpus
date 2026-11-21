@@ -1,0 +1,13 @@
+{"slug": "2025-12-22-ago-falta-de-uniformizacao-do-sistema-informatico-de-saude-dificulta-atend", "studies": {
+"coresystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on core government systems."}}},
+"customs": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on customs."}}},
+"educationexchange": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on education."}}},
+"educationmis": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on education."}}},
+"health": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No clinic-level HMIS or EMR coverage stated."}}},
+"healthexchange": {"countries": {"AGO": {"facts": [{"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "Radio Nacional de Angola, relayed by Foco Saude, reports hospital directors and the National Director of Hospitals saying there is no integrated health information system, so patients are registered repeatedly and referrals fail for lack of shared data between hospitals.", "as_of": "2025-12", "date_precision": "month", "system": "national health information system", "class": "exchange"}], "systems": [], "note": ""}}},
+"healthmis": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Speaks of hospital systems not shared; no national routine reporting system stated in service or absent."}}},
+"interoperabilitylaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on law."}}},
+"schools": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"socialexchange": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on social protection."}}},
+"taxadmin": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on tax."}}}
+}}

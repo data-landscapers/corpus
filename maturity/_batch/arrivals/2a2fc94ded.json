@@ -1,0 +1,13 @@
+{"slug": "2024-09-15-nation-national-id-chaos-threatens-voter-registration", "studies": {
+"authentication": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"MWI": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "Nation Online reports Malawi's National Registration Bureau is mandated to register births, national IDs and deaths, so one body holds both registers.", "as_of": "2024-09-15", "date_precision": "day", "system": "National Registration Bureau", "class": "crvslink"}], "systems": [], "note": ""}}},
+"civilregister": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing says civil registration is digital."}}},
+"electoralregister": {"countries": {"MWI": {"facts": [{"sub_indicator": "electoral", "aspect": "linked", "value": "linked", "fact": "Nation Online says the Malawi Electoral Commission will for the first time require the national ID to register voters, from the 21 October 2024 registration.", "as_of": "2024-10-21", "date_precision": "day", "system": "Voter registration with national ID", "class": "electoral"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Cards printed are stated, no share of population."}}},
+"idfrombirth": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No number given at birth stated."}}},
+"idmaintenance": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Printing capacity only; no day-to-day operation or ownership stated."}}},
+"idregisters": {"countries": {"MWI": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Nation Online says voter registration in Malawi requires a valid national ID under section 4(12) of the Presidential, Parliamentary and Local Government Act.", "as_of": "2024-09-15", "date_precision": "day", "system": "Voter registration with national ID", "class": "register"}], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"MWI": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Nation Online quotes the NRB spokesperson saying NRB printed 1.8 million national IDs under distribution and had completed printing a further 1.5 million.", "as_of": "2024-09", "date_precision": "month", "system": "Malawi national ID", "class": "idsystem"}], "systems": [], "note": ""}}},
+"localgov": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on local government connection."}}},
+"registry": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing says civil events are registered digitally."}}}
+}}

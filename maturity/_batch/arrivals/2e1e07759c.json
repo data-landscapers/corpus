@@ -1,0 +1,10 @@
+{"slug": "2026-11-18-zaf-compcom-settlement-x-corp-xai-mdpmi", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "A competition settlement on publisher training about Grok settings is not a rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government body's use of AI is stated."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI in a public sector system is stated."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI built or hosted in the country is stated."}}},
+"civilserviceskills": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No civil service training is stated."}}},
+"digitalskills": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "X Corp's digital literacy programmes are a company commitment, not a government programme."}}},
+"ecommercelaw": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Competition remedies, not an electronic transactions or e-commerce law."}}},
+"schoolinternet": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on school internet or curriculum."}}}
+}}

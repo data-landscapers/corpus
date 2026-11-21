@@ -1,0 +1,22 @@
+{
+ "slug": "2026-11-20-zaf-africa-urged-to-cement-digital-sovereignty",
+ "studies": {
+  "businesspayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Keynote names no e-procurement system."}}},
+  "centralbank": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+  "civilserviceskills": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No civil service training is stated."}}},
+  "consumerprotection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No rule or complaints body for digital finance is stated."}}},
+  "crossborderpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No cross-border corridor is stated."}}},
+  "datacentres": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Deputy minister says South Africa has over 50 data centres, without saying any is for hire."}}},
+  "digitalskills": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Skills are only named as a festival topic; no programme or share is stated."}}},
+  "digitalsovereignty": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "A speech on ownership of digital infrastructure; no strategy, rule or hosting of state data is stated."}}},
+  "g2ppayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government payment to people is stated."}}},
+  "nationaldatacentres": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No data centre owner or hosting of state data is stated."}}},
+  "paymentsuptake": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No survey share of adults with an account is given."}}},
+  "retailpayments": {"countries": {"ZAF": {"facts": [
+   {"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Deputy Minister Mondli Gungubele said on 18 November 2026 that real-time, low-cost payment is now available to partners, consumers and small businesses in South Africa.", "as_of": "2026-11-18", "date_precision": "day", "system": "real-time payment", "class": "retail"}
+  ], "systems": [], "note": ""}}},
+  "revenuecollection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No tax or fee payment is stated."}}},
+  "startups": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Says fintech and AI start-ups attract investment; no startup law, labelling or public fund."}}},
+  "techhubs": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No hub, incubator or park is named."}}}
+ }
+}

@@ -1,0 +1,10 @@
+{"slug": "2026-11-16-tcd-wearetech-telecoms-2027-budget-hearing-patn", "studies": {
+"aiabuse": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Only says the 2027 finance bill has measures to encourage AI investment; no rule on AI harms."}}},
+"aigovernment": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No government AI system named."}}},
+"aisectoral": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No sectoral AI tool named."}}},
+"aisystems": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No AI model, dataset or computing named."}}},
+"birthidlink": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Budget hearing article; nothing on birth registration or ID linkage."}}},
+"civilregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Only a related-article title mentions civil registry digitisation; the document states nothing."}}},
+"idfrombirth": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on ID issuance from birth records."}}},
+"registry": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on a population registry."}}}
+}}

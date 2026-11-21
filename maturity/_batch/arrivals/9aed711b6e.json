@@ -1,0 +1,10 @@
+{"slug": "2026-11-18-dza-echorouk-government-meeting-electronic-payment-roadmap", "studies": {
+"businesspayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document names no e-procurement system."}}},
+"centralbank": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Roadmap is stated by the government; no central bank mandate, licensing, switch or PAPSS role stated."}}},
+"consumerprotection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document says nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document names no cross-border channel."}}},
+"g2ppayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document names no government payment to people."}}},
+"paymentsuptake": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document gives payment values, not a survey share of adults."}}},
+"retailpayments": {"countries": {"DZA": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Algeria's government reported on 18 November 2026 that mobile-phone payments reached DZD 56.4 billion in the first nine months of 2026, beside online payments of DZD 391 billion and card-terminal payments of DZD 133 billion.", "as_of": "2026-09", "date_precision": "month", "system": "mobile payments", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document names no tax or fee payment channel."}}}
+}}

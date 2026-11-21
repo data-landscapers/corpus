@@ -1,0 +1,10 @@
+{"slug": "2026-11-13-le-kenya-veut-s-associer-a-oracle-pour-former-30-000-personnes-au-nume", "studies": {
+"civilserviceskills": {"countries": {"KEN": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "The State Department for ICT and the Digital Economy told wearetech.africa on 13 November 2026 that Kenya wants to partner with Oracle to train 30,000 people from public institutions and universities, with cloud and cybersecurity courses and certifications, with no timeline given.", "as_of": "2026-11-13", "date_precision": "day", "system": "Oracle training partnership", "class": "csskills"}], "systems": [], "note": ""}}},
+"cloudstrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Oracle's local cloud region is discussed with no government hosting policy stated."}}},
+"datacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Oracle's local cloud region is only discussed, not stated in service."}}},
+"digitalskills": {"countries": {"KEN": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "wearetech.africa says the Communications Authority of Kenya plans to train 120,000 people in 19 counties over three years with KES 100 million (about USD 770,000), toward the Master Plan 2022-2032 goal of 20 million Kenyans with digital skills.", "as_of": "2026-11-13", "date_precision": "day", "system": "Communications Authority of Kenya training plan", "class": "publicskills"}], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"KEN": {"facts": [], "systems": [], "note": "eCitizen is named only as a collaboration topic with Oracle."}}},
+"ictjobs": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Youth unemployment of 15.2 percent is not a graduate figure; no ICT employment share."}}},
+"nationaldatacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"schoolinternet": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

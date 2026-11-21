@@ -1,0 +1,12 @@
+{"slug": "2026-11-17-nga-nigeria-sets-december-31-deadline-for-airlines-to-adopt-v-pa", "studies": {
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [{"system": "V-Pass", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "FAAN", "tiers": ""}], "note": "V-Pass is AI facial recognition for airport check-in, not a listed sector's public system."}}},
+"authentication": {"countries": {"NGA": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Nigeria's aviation minister unveiled the V-Pass facial-verification system, linked to the NIN database, on 2026-11-16 at Lagos, with airlines given until 31 December 2026 to integrate it.", "as_of": "2026-11-16", "date_precision": "day", "system": "V-Pass", "class": "authentication"}], "systems": [{"system": "V-Pass", "country_label": "Nigeria", "class": "authentication", "platform": "Verxid; Barnksforte Technologies", "owner": "FAAN", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No public register keyed on the NIN stated."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on the ID system's issue, biometrics or certification."}}},
+"idverification": {"countries": {"NGA": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "Nigeria's V-Pass platform, delivered by Verxid under a PPP with FAAN, verifies domestic passengers against NIN data; launched 2026-11-16 at the Lagos and Abuja domestic terminals first, with airlines to integrate by 31 December 2026.", "as_of": "2026-11-16", "date_precision": "day", "system": "V-Pass", "class": "relying"}], "systems": [{"system": "V-Pass", "country_label": "Nigeria", "class": "relying", "platform": "Verxid; Barnksforte Technologies", "owner": "FAAN", "tiers": ""}], "note": ""}}},
+"nonstatefinance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No amount stated for the PPP or any private money."}}}
+}}

@@ -1,0 +1,11 @@
+{"slug": "2026-11-18-bdi-digitalbusiness-nouveau-systeme-integre-gestion-finances-publiques", "studies": {
+"aiabuse": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document states nothing on AI."}}},
+"aigovernment": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document states nothing on AI."}}},
+"aisectoral": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document states nothing on AI."}}},
+"aisystems": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document states nothing on AI."}}},
+"coresystems": {"countries": {"BDI": {"facts": [], "systems": [{"system": "SIGEFI", "country_label": "SIGEFI", "class": "other", "platform": "", "owner": "Ministry of Finance, Budget and Digital Economy", "tiers": ""}, {"system": "Nouveau Systeme Integre de Gestion des Finances publiques", "country_label": "new Integrated Public Financial Management System", "class": "other", "platform": "", "owner": "Ministry of Finance, Budget and Digital Economy", "tiers": ""}], "note": "The new system's installation was validated on 2026-11-17 for an 18-month deployment; it is not live, and the document does not say how far SIGEFI is in use."}}},
+"egovservices": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document states no online citizen service."}}},
+"itcapacity": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The new system is built with the SNDI MediaBox consortium; no government staff running or building a system is stated."}}},
+"nonstatefinance": {"countries": {"BDI": {"facts": [], "systems": [], "note": "IDA financing aligns with a government project; no private money into a digital business stated."}}},
+"schoolinternet": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document states nothing on schools."}}}
+}}

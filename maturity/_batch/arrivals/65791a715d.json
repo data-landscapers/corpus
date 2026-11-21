@@ -1,0 +1,7 @@
+{"slug": "2026-11-16-ami-ar-assembly-ratifies-ida-resilience-digital-transformation", "studies": {
+"egovservices": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Financing for digital services is stated, with no service online."}}},
+"nonstatefinance": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only an IDA public loan; no private money."}}},
+"opendatapolicy": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on open data."}}},
+"socialexchange": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Registry link to ID or payment is not stated."}}},
+"socialregistry": {"countries": {"MRT": {"facts": [{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "AMI reports the economy minister told the National Assembly the IDA-financed social safety-net operation funds technical assistance to assess the continuous-update method and review the procedures of Mauritania's social registry.", "as_of": "2026-11-16", "date_precision": "day", "system": "Social registry", "class": "social"}], "systems": [], "note": ""}}}
+}}

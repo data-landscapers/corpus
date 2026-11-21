@@ -1,0 +1,236 @@
+{
+ "slug": "2026-11-16-kictanet-whatsapp-usernames-privacy-kenya",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "KICTANet says the Office of the Data Protection Commissioner recognises phone numbers and online identifiers as personal data.",
+       "as_of": "2026-11-16",
+       "date_precision": "day",
+       "system": "Office of the Data Protection Commissioner",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "KICTANet says Kenya's Data Protection Act, 2019 establishes principles governing the collection and processing of personal information.",
+       "as_of": "2026-11-16",
+       "date_precision": "day",
+       "system": "Data Protection Act, 2019",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "publishing",
+       "fact": "KICTANet, a Kenyan think tank, says its research on online safety and data protection has highlighted risks such as cyberstalking, doxxing and technology-facilitated gender-based violence.",
+       "as_of": "2026-11-16",
+       "date_precision": "day",
+       "system": "KICTANet",
+       "class": "research"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on this study's questions for Kenya."
+    }
+   }
+  }
+ }
+}

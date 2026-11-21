@@ -1,0 +1,23 @@
+{"slug": "2026-11-17-tun-tunisiens-l-tranger-les-passeports-bient-t-accessibles-via-e-consulat", "studies": {
+"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No link between the civil register and the ID system is stated."}}},
+"businesspayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"civilregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Civil-status operation counts and certificate extracts are stated, but no digital civil register for births or deaths."}}},
+"consumerprotection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"egovservices": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Foreign Minister Mohamed Ali Nafti told parliament that 40 diplomatic and consular posts (47% of the network) are connected to the E-Consulat system, and that the remote appointment service recorded 13,310 bookings in 2026.", "as_of": "2026-11-17", "date_precision": "day", "system": "E-Consulat", "class": "eservices"}
+], "systems": [{"system": "E-Consulat", "country_label": "E-Consulat", "class": "eservices", "platform": "", "owner": "Ministry of Foreign Affairs", "tiers": ""}, {"system": "Dalil national administrative procedures platform", "country_label": "Dalil", "class": "other", "platform": "", "owner": "Presidency of the Government", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on ID numbers at birth."}}},
+"itcapacity": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The National Computing Centre is named only as a partner in interconnection projects, with no statement of who builds or runs systems."}}},
+"paymentsuptake": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"police": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on police station records."}}},
+"regionalinfrastructure": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on shared regional infrastructure."}}},
+"registry": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only certificate extracts from a consular system and operation counts; no local civil office entering events digitally."}}},
+"retailpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The Foreign Minister said electronic payment of consular services has been introduced in several missions, ahead of progressive generalisation.", "as_of": "2026-11-17", "date_precision": "day", "system": "electronic payment of consular services", "class": "revenue"}
+], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

@@ -1,0 +1,15 @@
+{"slug": "2026-11-19-sen-aps-gim-uemoa-innovation-securite-paiements-electroniques", "studies": {
+"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Figures are WAEMU-wide; Senegal is only the host city and nothing on AI rules is stated."}}},
+"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Figures are WAEMU-wide; Senegal is only the host city and no government AI use is stated."}}},
+"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Figures are WAEMU-wide; Senegal is only the host city and no sectoral AI is stated."}}},
+"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Figures are WAEMU-wide; Senegal is only the host city and no AI built is stated."}}},
+"businesspayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Figures are WAEMU-wide; Senegal is only the host city and no e-procurement is stated."}}},
+"centralbank": {"countries": {"SEN": {"facts": [], "systems": [], "note": "BCEAO statements are regional; nothing is stated about Senegal by name."}}},
+"consumerprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "BCEAO remarks on user protection are regional and state no rule or complaints body for Senegal."}}},
+"crossborderpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Figures are WAEMU-wide; no corridor or regional system is stated for Senegal by name."}}},
+"g2ppayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No government payments to people are stated."}}},
+"paymentslaw": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No payments law or rule is stated."}}},
+"paymentsuptake": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Account counts are WAEMU-wide and are accounts, not a survey of adults."}}},
+"retailpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "E-money figures are WAEMU-wide; nothing is stated about Senegal by name."}}},
+"revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No tax or fee payment is stated."}}}
+}}

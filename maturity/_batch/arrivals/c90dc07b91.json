@@ -1,0 +1,19 @@
+{"slug": "2026-02-21-mrt-taqadoumy-emr-national-id-electronic-payment", "studies": {
+"authentication": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on an authentication service."}}},
+"birthidlink": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on a link between the civil register and the ID system."}}},
+"businesspayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"health": {"countries": {"MRT": {"facts": [{"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "Health Minister Mohamed Mahmoud ELY Mahmoud said the electronic medical record would start from Monday 23 February 2026, creating a health file for each patient on the national ID number, as part of the ministry's health reform.", "as_of": "2026-02-21", "date_precision": "day", "system": "Electronic medical record (Dossier medical electronique)", "class": "emr"}], "systems": [{"system": "Electronic medical record", "country_label": "Mauritania", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": ""}], "note": ""}}},
+"healthmis": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Patient record only; no routine reporting system to the ministry is described."}}},
+"idcoverage": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No count or share of people holding the national ID."}}},
+"idfrombirth": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on a number given at birth."}}},
+"idmaintenance": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"MRT": {"facts": [], "systems": [], "note": "A patient record keyed on the ID number is not one of the public registers the study asks about."}}},
+"idrobustness": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The ID number is used as a key; nothing on the ID system itself."}}},
+"paymentsuptake": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No survey share of adults with an account."}}},
+"retailpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Electronic payment at one hospital is named without a mobile money or e-money service."}}},
+"revenuecollection": {"countries": {"MRT": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The Health Minister said, on a visit to the Cheikh Zayed clinic on 21 February 2026, that the hospital had begun taking electronic payment instead of cash.", "as_of": "2026-02-21", "date_precision": "day", "system": "Electronic payment at Cheikh Zayed hospital", "class": "revenue"}], "systems": [], "note": ""}}}
+}}

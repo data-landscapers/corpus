@@ -1,0 +1,50 @@
+{
+ "slug": "2024-01-01-cod-case-study-using-the-hiv-package-with-path-drc",
+ "studies": {
+  "health": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "OpenMRS HIV module (MVP built April-September 2024 with PATH)",
+       "country_label": "DRC",
+       "class": "tracker",
+       "platform": "OpenMRS",
+       "owner": "PATH DRC",
+       "tiers": ""
+      }
+     ],
+     "note": "The OpenMRS module is an HIV/TB/MNCH programme tracker built as an MVP, not a general EMR in service."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  }
+ }
+}

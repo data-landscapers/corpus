@@ -1,0 +1,14 @@
+{"slug": "2026-11-16-mli-tresorpay-545-tablets", "studies": {
+"businesspayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "TresorPay is not described as handling procurement."}}},
+"centralbank": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No consumer rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No cross-border payment stated."}}},
+"dataprotectionauthority": {"countries": {"MLI": {"facts": [], "systems": [], "note": "APDP is named only as a recipient of 35 tablets; no appointment, law or ruling stated."}}},
+"dataprotectionlaw": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No law, regulation or decision stated."}}},
+"g2ppayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "TresorPay is described for public service payments, not payments to people."}}},
+"paymentsuptake": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No account survey figure stated."}}},
+"retailpayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No mobile money or wallet service stated."}}},
+"revenuecollection": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Malijet reports that Mali's Minister of Economy and Finance Alhousseni Sanou handed out 545 tablets on 16 November 2026 for the extension phase of the TresorPay public payment platform, aimed at securing state revenue and transparent payment for public services.", "as_of": "2026-11-16", "date_precision": "day", "system": "TresorPay", "class": "revenue"}
+], "systems": [{"system": "TresorPay", "country_label": "Mali", "class": "revenue", "platform": "", "owner": "Ministry of Economy and Finance", "tiers": ""}], "note": ""}}}
+}}

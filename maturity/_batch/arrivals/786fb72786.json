@@ -1,0 +1,11 @@
+{"slug": "2026-11-18-cog-assemblee-nationale-l-acsi-presente-l-etat-d-avancement-des-differents-projets", "studies": {
+"birthidlink": {"countries": {"COG": {"facts": [], "systems": [], "note": "Sifec is named without any link to the ID system."}}},
+"civilregister": {"countries": {"COG": {"facts": [{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "ACSI's director general told the National Assembly's Ecofin committee on 17 November 2026 that the Sifec civil-registration system, entrusted to ACSI under the 2025 and 2026 finance laws, is ready, with no rollout or offices stated.", "as_of": "2026-11-17", "date_precision": "day", "system": "Sifec (Systeme integre des faits d'etat civil)", "class": "civil"}], "systems": [{"system": "Sifec", "country_label": "Systeme integre des faits d'etat civil", "class": "civil", "platform": "", "owner": "ACSI", "tiers": ""}], "note": ""}}},
+"customs": {"countries": {"COG": {"facts": [], "systems": [], "note": "Sydonia is mentioned only as an interface topic for the hearing; nothing on its status."}}},
+"egovservices": {"countries": {"COG": {"facts": [], "systems": [], "note": "No service stated live online."}}},
+"idfrombirth": {"countries": {"COG": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"localgov": {"countries": {"COG": {"facts": [], "systems": [], "note": "A local-authority revenue platform is an application, not an office connection."}}},
+"registry": {"countries": {"COG": {"facts": [], "systems": [], "note": "Sifec is said to be ready, with no statement that offices enter events in it."}}},
+"revenuecollection": {"countries": {"COG": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "ACSI's director general told the National Assembly's Ecofin committee on 17 November 2026 that the single service-revenue till and the dematerialised local-authority revenue platform, entrusted to ACSI under the 2025 and 2026 finance laws, are ready to go into production during 2027.", "as_of": "2026-11-17", "date_precision": "day", "system": "Caisse unique des recettes de service; plateforme des recettes de collectivites locales", "class": "revenue"}], "systems": [], "note": ""}}},
+"taxadmin": {"countries": {"COG": {"facts": [], "systems": [], "note": "E-TAX is mentioned only as an interface topic; nothing on filing or payment."}}}
+}}

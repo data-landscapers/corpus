@@ -1,0 +1,10 @@
+{"slug":"2026-11-18-zaf-itweb-western-cape-microsoft-capeability-ai","studies":{
+"aiabuse":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on AI harms rules."}}},
+"aigovernment":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"A skills course, not AI used by a government body."}}},
+"aisectoral":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on sector AI."}}},
+"aisystems":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"A training programme; no AI built or hosted."}}},
+"civilserviceskills":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Training is for residents aged 18 to 35, not civil servants."}}},
+"digitalskills":{"countries":{"ZAF":{"facts":[{"sub_indicator":"publicskills","aspect":"training","value":"underway","fact":"ITWeb reports the Western Cape Government has partnered with Microsoft to launch CAPEability AI, AI and digital skills training for people aged 18 to 35, to use 83 e-Centres and 375 library points; no number trained is given.","as_of":"2026-11-18","date_precision":"day","system":"CAPEability AI","class":"publicskills"}],"systems":[{"system":"CAPEability AI","country_label":"South Africa (Western Cape)","class":"publicskills","platform":"Western Cape Government Portal","owner":"Western Cape Government with Microsoft Elevate","tiers":""}],"note":""}}},
+"egovservices":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"A skills portal sign-up, not a government service stated."}}},
+"schoolinternet":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on school internet."}}}
+}}

@@ -1,0 +1,154 @@
+{
+ "slug": "2026-11-15-dza-jeune-independant-hcn-accompaniment-dzair-digital-services",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mohammadia (Algiers) data centre",
+       "country_label": "Algeria",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "state (HCN)",
+       "tiers": "Tier III"
+      },
+      {
+       "system": "Blida data centre",
+       "country_label": "Algeria",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "state (HCN)",
+       "tiers": "Tier III"
+      }
+     ],
+     "note": "Two Tier III data centres are said to host public data; the article does not say they rent space or computing to other organisations."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The article says a national data governance framework was instituted by decree 25-320.",
+       "as_of": "2026-11-15",
+       "date_precision": "day",
+       "system": "Décret 25-320 national data governance framework",
+       "class": "policy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "HCN's national digital transformation strategy plans five data centres in total to strengthen digital sovereignty and the protection of national data.",
+       "as_of": "2026-11-15",
+       "date_precision": "day",
+       "system": "HCN national digital transformation strategy",
+       "class": "sovereignty"
+      },
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "hosted",
+       "value": "national",
+       "fact": "Two operational Tier III data centres at Mohammadia (Algiers) and Blida, running active-active, host public data on national territory, per HCN expert Hassan Berrah.",
+       "as_of": "2026-11-15",
+       "date_precision": "day",
+       "system": "Mohammadia and Blida data centres",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A national digital transformation strategy is mentioned, but no adoption, text or period is stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "HCN trained 42 trainer-cadres; the article does not say who builds or runs the portal or other systems."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "state",
+       "value": "hosted",
+       "fact": "The two Tier III data centres at Mohammadia and Blida ensure hosting and availability of public data on national territory, per HCN expert Hassan Berrah.",
+       "as_of": "2026-11-15",
+       "date_precision": "day",
+       "system": "Mohammadia and Blida data centres",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mohammadia (Algiers) data centre",
+       "country_label": "Algeria",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "state (HCN)",
+       "tiers": "Tier III"
+      },
+      {
+       "system": "Blida data centre",
+       "country_label": "Algeria",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "state (HCN)",
+       "tiers": "Tier III"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  }
+ }
+}

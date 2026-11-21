@@ -1,0 +1,125 @@
+{
+ "slug": "2026-11-16-gnq-undp-transdoc-dhis2-ministry-of-health",
+ "studies": {
+  "customs": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on customs."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on education."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "TRANSDOC is the ministry's internal document system, not a service for people."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "UNDP handed the DHIS2 health data platform over to the Ministry of Health and Health Infrastructure on 16 November 2026.",
+       "as_of": "2026-11-16",
+       "date_precision": "day",
+       "system": "DHIS2",
+       "class": "hmis"
+      },
+      {
+       "sub_indicator": "hmis",
+       "aspect": "governance",
+       "value": "finance:donor",
+       "fact": "UNDP's joint health-system programme, ending 31 December 2026, supplied DHIS2, and UNDP asked the government to budget its internet connectivity costs from 1 January 2027.",
+       "as_of": "2026-11-16",
+       "date_precision": "day",
+       "system": "DHIS2",
+       "class": "hmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DHIS2",
+       "country_label": "DHIS2",
+       "class": "hmis",
+       "platform": "DHIS2",
+       "owner": "Ministry of Health and Health Infrastructure",
+       "tiers": ""
+      },
+      {
+       "system": "TRANSDOC",
+       "country_label": "TRANSDOC document management system",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health and Health Infrastructure",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "GNQ": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "UNDP said DHIS2 is implemented in 18 health districts across the national territory and was handed to the Ministry of Health and Health Infrastructure on 16 November 2026.",
+       "as_of": "2026-11-16",
+       "date_precision": "day",
+       "system": "DHIS2",
+       "class": "hmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DHIS2",
+       "country_label": "DHIS2",
+       "class": "hmis",
+       "platform": "DHIS2",
+       "owner": "Ministry of Health and Health Infrastructure",
+       "tiers": ""
+      },
+      {
+       "system": "TRANSDOC",
+       "country_label": "TRANSDOC document management system",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health and Health Infrastructure",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
+    }
+   }
+  }
+ }
+}

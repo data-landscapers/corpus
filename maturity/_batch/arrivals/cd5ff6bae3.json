@@ -1,0 +1,20 @@
+{"slug": "2026-11-13-lbr-us-52m-id-deal-faces-fresh-scrutiny", "studies": {
+"authentication": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No civil register to ID link stated."}}},
+"electoralregister": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on a voters' roll."}}},
+"idcoverage": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "below", "fact": "NIR executive director Andrew Peters told the House committee the registry holds about 740,000 records after nine years, with about 5.3 million people still to enrol.", "as_of": "2026-11-13", "date_precision": "day", "system": "National Identification Registry", "class": "idsystem"}
+], "systems": [{"system": "National Identification Registry", "country_label": "Liberia", "class": "idsystem", "platform": "TecnoBrain", "owner": "NIR", "tiers": ""}], "note": ""}}},
+"idfrombirth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a vendor's argument that citizens need numbers at birth; no number at birth stated."}}},
+"idmaintenance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The existing system's builder is named but who operates it is not stated; the foreign concession is proposed, not ratified."}}},
+"idregisters": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIR executive director Andrew Peters said the registry has accumulated approximately 740,000 records over its nine years of existence, on an existing system developed by TecnoBrain.", "as_of": "2026-11-13", "date_precision": "day", "system": "National Identification Registry", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"itcapacity": {"countries": {"LBR": {"facts": [], "systems": [], "note": "NASSCORP's locally developed biometric system is named, but no source says its own staff built or run it; a private firm says it powers NASSCORP's claims system."}}},
+"nonstatefinance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The US$52 million concession awaits ratification and is not signed."}}},
+"publicconsultation": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The House Joint Committee closed its third public hearing on the proposed national identification concession with OeSD International, where Liberian technology firms and LITCON testified and called for open competitive procurement.", "as_of": "2026-11-13", "date_precision": "day", "system": "National identification concession", "class": "consultation"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}}
+}}

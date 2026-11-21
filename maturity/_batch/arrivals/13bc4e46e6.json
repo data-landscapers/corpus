@@ -1,0 +1,18 @@
+{"slug": "2024-06-24-fij-minister-tijani-nin-slip-purchased-online-n100", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Private sites selling NIN slips are named; no state authentication service is described."}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on a civil register to ID link."}}},
+"dataprotectionauthority": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "FIJ quotes Paradigm Initiative's Gbenga Sesan naming Dr Vincent Olatunji as Nigeria's top data regulator, and says the breach of NIMC data was reported to the Nigeria Data Protection Commission.", "as_of": "2024-06-24", "date_precision": "day", "system": "Nigeria Data Protection Commission", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "FIJ reports that Paradigm Initiative reported the XpressVerify breach to the Nigeria Data Protection Commission, headed by Dr Vincent Olatunji, which Sesan says let NIMC off with a slap on the wrist.", "as_of": "2024-06-24", "date_precision": "day", "system": "Nigeria Data Protection Commission", "class": "general"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No count or share enrolled stated."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the system."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "SIM cards obtainable with a NIN slip is a private-sector use, not a public register keyed on the number."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "FIJ reports NIN slips issued by NIMC for named people, including the communications minister and the data regulator, were bought online for N100 each.", "as_of": "2024-06-24", "date_precision": "day", "system": "National Identification Number", "class": "idsystem"}
+], "systems": [{"system": "National Identification Number", "country_label": "Nigeria", "class": "idsystem", "platform": "", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+"policyresearch": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Paradigm Initiative acted as an advocate in the breach; no research or publication on digital policy stated."}}}
+}}

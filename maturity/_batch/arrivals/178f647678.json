@@ -1,0 +1,8 @@
+{"slug": "2026-11-17-tcd-la-sonemic-offre-du-materiel-informatique", "studies": {
+"coresystems": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on finance, tax or payroll systems."}}},
+"itcapacity": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "Tchadinfos reports that the design and implementation of platforms including Td-connect, E-Santé, Santéplus, E-éducation and Td-scolar rest on collaboration between engineers of the state mining company SONEMIC and of the national ICT agency ADETIC, with no contractor named.", "as_of": "2026-11-17", "date_precision": "day", "system": "Td-connect; E-Santé; Santéplus; E-éducation; Td-scolar", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "Tchadinfos reports that SONEMIC, a state company, handed self-financed servers, interconnection and security equipment to the education ministry and the national digital health programme on 17 November 2026 as the technical base for platforms it builds with ADETIC.", "as_of": "2026-11-17", "date_precision": "day", "system": "SONEMIC", "class": "staff"}
+], "systems": [{"system": "Td-connect", "country_label": "Td-connect", "class": "other", "platform": "", "owner": "SONEMIC and ADETIC", "tiers": ""}, {"system": "E-Santé", "country_label": "E-Santé", "class": "other", "platform": "", "owner": "SONEMIC and ADETIC", "tiers": ""}, {"system": "Td-scolar", "country_label": "Td-scolar", "class": "other", "platform": "", "owner": "SONEMIC and ADETIC", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No school internet figure or curriculum statement."}}}
+}}

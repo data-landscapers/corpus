@@ -1,0 +1,11 @@
+{"slug": "2026-11-17-sierra-leone-ai-readiness-diagnostic", "studies": {
+"admindata": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Says administrative records are incomplete and recommends strengthening them; no statistics published or work under way stated."}}},
+"aiabuse": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Recommends assessing how existing laws apply to AI; states no draft or rule on AI harms."}}},
+"aigovernment": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Recommends safeguards for government AI use; states no government AI system in use or tested."}}},
+"aisectoral": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Says the report informs the country's national AI strategy; states no drafting begun, so not a fact."}}},
+"aisystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country stated; local-language data library is only a roadmap item."}}},
+"internetusage": {"countries": {"SLE": {"facts": [{"sub_indicator": "use", "aspect": "users", "value": "estimate:25", "fact": "The World Bank's AI Readiness Diagnostic says only 25 percent of Sierra Leone's population used the internet in 2024.", "as_of": "2024", "date_precision": "year", "system": "", "class": "use"}], "systems": [], "note": ""}}},
+"itcapacity": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No government technical staff or system run in-house stated."}}},
+"mobileaffordability": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Names device and data costs as barriers but gives no price."}}}
+}}

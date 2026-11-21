@@ -1,0 +1,14 @@
+{"slug": "2026-11-19-ago-angop-minttics-reduction-budget-haut-debit-oge-2027", "studies": {
+"broadbandstrategy": {"countries": {"AGO": {"facts": [], "systems": [], "note": "A 27% cut to the National Broadband Network allocation in the draft 2027 budget is reported, but no national broadband plan with targets is named."}}},
+"digitaldivides": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "delivering", "fact": "Minister Mário Oliveira said the satellite project Conecta Angola covers about 120 localities, mainly areas not served by mobile operators, and Ilumina Angola creates conditions for operators to serve localities where private investment is less viable.", "as_of": "2026-11-18", "date_precision": "day", "system": "Conecta Angola", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"exchangepoints": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on exchange points."}}},
+"fibrebackbone": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "Minister Mário Oliveira said the National Broadband Network has installed more than 3,000 km of fibre and rehabilitated nearly 1,000 km more, with some infrastructure operating in Bengo province and the last-mile access phase under way.", "as_of": "2026-11-18", "date_precision": "day", "system": "Réseau national à haut débit", "class": "backbone"}
+], "systems": [], "note": ""}}},
+"internationalbandwidth": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on international fibre routes."}}},
+"internetusage": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No internet use figure."}}},
+"localgov": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
+"nonstatefinance": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only state budget allocations; no private money stated."}}}
+}}

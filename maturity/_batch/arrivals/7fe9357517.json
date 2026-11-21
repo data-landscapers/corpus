@@ -1,0 +1,7 @@
+{"slug": "2025-03-01-bfa-minimum-digital-ecosystem-pilot-snapshot-burkina-faso", "studies": {
+"civilserviceskills": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Training of health workers on pilot tools is not a civil-service digital skills programme."}}},
+"digitalskills": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on a public digital-skills programme."}}},
+"health": {"countries": {"BFA": {"facts": [], "systems": [{"system": "Minimum Digital Ecosystem (MDE)", "country_label": "Burkina Faso", "class": "other", "platform": "eight tools incl. e-Sante Comm, NetSIGL 2.0, e-Flux Financier", "owner": "Ministry of Health with Health Systems Insight", "tiers": "primary facilities"}], "note": "The eight pilot tools are community, stock, finance and decision-support tools and the source does not call any a routine aggregate reporting system or a patient record."}}},
+"healthmis": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The pilot covers 100 facilities in two districts and the source says its tools run as standalone systems; it does not call any a health management information system."}}},
+"schoolinternet": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

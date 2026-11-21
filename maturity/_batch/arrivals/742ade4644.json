@@ -1,0 +1,5 @@
+{"slug": "2026-11-17-cmr-gtai-kfw-pmsi-dgi-network-backup-tender-cancelled", "studies": {
+"datacentres": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A cancelled tender for tax-office data centre links; no data centre for hire stated."}}},
+"nationaldatacentres": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire stated."}}},
+"offsitebackup": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Backup-link tender cancelled; no backup site in service or place named."}}}
+}}

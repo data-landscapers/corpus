@@ -1,0 +1,10 @@
+{"slug": "2026-11-18-rmb-cross-border-transactions-system-launched-in-botswana", "studies": {
+"businesspayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on consumer rules."}}},
+"crossborderpayments": {"countries": {"BWA": {"facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Xinhua reports Stanbic Bank Botswana launched direct access to China's CIPS on 17 November 2026, settling renminbi payments through Standard Bank South Africa for Botswana individuals and businesses, with the Assistant Minister of Trade describing it as a direct settlement channel.", "as_of": "2026-11-17", "date_precision": "day", "system": "CIPS direct access via Standard Bank South Africa", "class": "crossborder"}], "systems": [{"system": "CIPS direct access", "country_label": "Stanbic Bank Botswana CIPS access", "class": "crossborder", "platform": "CIPS", "owner": "Stanbic Bank Botswana", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"retailpayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on retail or mobile money payments."}}},
+"revenuecollection": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

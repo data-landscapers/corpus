@@ -1,0 +1,12 @@
+{"slug": "2026-11-16-mrt-ecofin-universite-nouakchott-moov-mauritel-accord", "studies": {
+"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on AI rules or an authority."}}},
+"aigovernment": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "AI tools for research are named only as network content, not a public sector system in service."}}},
+"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "AI tools for research are named with no model, dataset or AI computing built or hosted."}}},
+"civilserviceskills": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Teacher training in digital tools is not civil-servant training."}}},
+"digitalskills": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No public digital-skills programme or measured share."}}},
+"policyresearch": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The university partnership supports doctoral work generally; no digital policy research is stated."}}},
+"stemgraduates": {"countries": {"MRT": {"facts": [
+{"sub_indicator": "graduates", "aspect": "nren", "value": "service", "fact": "Authorities inaugurated the Mauritanian Education and Scientific Research Network in July 2026, connecting universities, research centres and higher-education institutions with secure high-speed internet and eduroam, according to Agence Ecofin.", "as_of": "2026-07", "date_precision": "month", "system": "Réseau mauritanien de l'enseignement et de la recherche scientifique", "class": "stemgraduates"}
+], "systems": [{"system": "Réseau mauritanien de l'enseignement et de la recherche scientifique", "country_label": "Mauritania", "class": "stemgraduates", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,21 @@
+{"slug": "2026-11-17-cog-questions-orales-avec-debat-a-l-assemblee-nationale-fouta", "studies": {
+"businesspayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"COG": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"COG": {"facts": [], "systems": [], "note": "No consumer rule or redress body stated."}}},
+"crossborderpayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "No cross-border payment stated."}}},
+"customs": {"countries": {"COG": {"facts": [], "systems": [{"system": "SYDONIA", "country_label": "Congo", "class": "customs", "platform": "", "owner": "", "tiers": ""}], "note": "SYDONIA is named only as a revenue stream into FOUTA; declaration processing is not stated."}}},
+"datacentres": {"countries": {"COG": {"facts": [], "systems": [], "note": "Data centres in Brazzaville and Pointe-Noire serve FOUTA; no hire to other organisations stated."}}},
+"g2ppayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "No payments to people stated."}}},
+"nationaldatacentres": {"countries": {"COG": {"facts": [], "systems": [], "note": "Ownership of the Brazzaville and Pointe-Noire data centres and any hire are not stated."}}},
+"paymentsuptake": {"countries": {"COG": {"facts": [], "systems": [], "note": "No survey of adults with accounts stated."}}},
+"retailpayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "No mobile money service or switch stated."}}},
+"revenuecollection": {"countries": {"COG": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Finance minister Christian Yoka told the National Assembly that the FOUTA platform, launched on 1 June 2026, collects public revenue through seven named banks, with MUCODEC and UBA to join.", "as_of": "2026-11-16", "date_precision": "day", "system": "FOUTA", "class": "revenue"},
+{"sub_indicator": "revenue", "aspect": "main", "value": "main", "fact": "Yoka said FOUTA is the single payment and collection channel for customs revenue through SYDONIA and tax revenue through e-Tax, as well as forestry, oil, administrative and domain revenue.", "as_of": "2026-11-17", "date_precision": "day", "system": "FOUTA", "class": "revenue"},
+{"sub_indicator": "revenue", "aspect": "reported", "value": "reported", "fact": "Yoka said FOUTA had collected nearly FCFA 107 billion by 16 November 2026, FCFA 94 billion through e-Tax and FCFA 13 billion through SYDONIA, against about FCFA 1 billion for its predecessor e-Pay.", "as_of": "2026-11-16", "date_precision": "day", "system": "FOUTA", "class": "revenue"}
+], "systems": [{"system": "FOUTA", "country_label": "Congo", "class": "revenue", "platform": "built by a Congolese company", "owner": "Ministry of Finance", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"COG": {"facts": [], "systems": [], "note": "No school internet figure or curriculum stated."}}},
+"taxadmin": {"countries": {"COG": {"facts": [
+{"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "Yoka said FCFA 94 billion of tax revenue was collected through e-Tax via the FOUTA payment platform between 1 June and 16 November 2026.", "as_of": "2026-11-16", "date_precision": "day", "system": "e-Tax", "class": "taxsystem"}
+], "systems": [{"system": "e-Tax", "country_label": "Congo", "class": "taxsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+}}

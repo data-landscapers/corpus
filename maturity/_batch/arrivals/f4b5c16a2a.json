@@ -1,0 +1,26 @@
+{"slug": "2026-11-19-zwe-ict-ministry-gets-zig1-billion-in-2027-budget", "studies": {
+"authentication": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "The 2027 Budget Statement, as reported by Techzim, allocates ZiG10 million to public key infrastructure in the ICT ministry's project list.", "as_of": "2026-11-19", "date_precision": "day", "system": "public key infrastructure", "class": "authentication"}
+], "systems": [{"system": "Public key infrastructure", "country_label": "Zimbabwe", "class": "authentication", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""}], "note": ""}}},
+"cybersecurity": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "ICT Government Fusion Centre (formerly ICT Security Operations Centre)", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""}], "note": "The Fusion Centre is only a budget line; no national body created by law or any response is stated."}}},
+"datacentres": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "National Data Centre", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Government", "tiers": ""}], "note": "The National Data Centre is funded for upkeep; renting to others is not stated."}}},
+"dataexchange": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The 2027 Budget Statement, as reported by Techzim, allocates ZiG5 million to a Zimbabwe Government Data Exchange, within a plan for one standard system letting ministries and agencies share data securely.", "as_of": "2026-11-19", "date_precision": "day", "system": "Zimbabwe Government Data Exchange", "class": "exchange"}
+], "systems": [{"system": "Zimbabwe Government Data Exchange", "country_label": "Zimbabwe", "class": "exchange", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""}], "note": ""}}},
+"digitaldivides": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "The 2027 Budget Statement, as reported by Techzim, funds last mile connectivity at ZiG20 million and the Presidential Internet Scheme at ZiG20 million, and says the digital divide is still wide.", "as_of": "2026-11-19", "date_precision": "day", "system": "Last mile connectivity", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only PFMS kiosks are funded; no online service is stated."}}},
+"healthexchange": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on health systems."}}},
+"internetusage": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "Budget Statement internet penetration 87.3%", "country_label": "87.3% penetration, not a survey or ITU share of people", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The 87.3% is a penetration rate, which is not a share of people from a survey or the ITU."}}},
+"interoperability": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "A plan for one standard system names no framework being drafted."}}},
+"interoperabilitystandards": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No technical standards named."}}},
+"localgov": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No local government office connection stated."}}},
+"mobilepenetration": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "Budget Statement mobile penetration 108.5%", "country_label": "108.5% penetration, a subscription rate", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The 108.5% is a penetration rate above 100, not a share of people owning a phone."}}},
+"nationaldatacentres": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No statement that the National Data Centre is for hire or hosts ministries' systems."}}},
+"offsitebackup": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "A disaster recovery upgrade and a recovery centre to be completed name no site in service or place."}}},
+"ruralelectrification": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No rural electricity access figure."}}},
+"techhubs": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The 2027 Budget Statement, as reported by Techzim, allocates ZiG20 million to an ICT techno park in the ICT ministry's project list.", "as_of": "2026-11-19", "date_precision": "day", "system": "ICT techno park", "class": "hub"}
+], "systems": [], "note": ""}}}
+}}

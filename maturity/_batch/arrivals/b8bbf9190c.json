@@ -1,0 +1,108 @@
+{
+ "slug": "2026-11-16-mwi-malawi24-cripc-reregistration-deadline",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "Malawi24 reports the Companies, Registrations and Intellectual Property Centre requires every company, business name and incorporated trustee registered before its online portal to re-register on the CRIPC Online Services Portal by 31 December 2026.",
+       "as_of": "2026-11-16",
+       "date_precision": "day",
+       "system": "CRIPC Online Services Portal",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CRIPC Online Services Portal",
+       "country_label": "CRIPC Online Services Portal (www.cripc.gov.mw)",
+       "class": "business",
+       "platform": "",
+       "owner": "CRIPC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "Malawi24 reports applicants create an account on the CRIPC Online Services Portal and re-register businesses online, a government service completed through the portal.",
+       "as_of": "2026-11-16",
+       "date_precision": "day",
+       "system": "CRIPC Online Services Portal",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CRIPC Online Services Portal",
+       "country_label": "CRIPC Online Services Portal (www.cripc.gov.mw)",
+       "class": "eservices",
+       "platform": "",
+       "owner": "CRIPC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

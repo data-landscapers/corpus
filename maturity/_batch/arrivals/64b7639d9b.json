@@ -1,0 +1,15 @@
+{"slug": "2026-11-18-lbr-biometricupdate-parliament-rejects-52m-national-id-contract", "studies": {
+"authentication": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No authentication service is stated."}}},
+"birthidlink": {"countries": {"LBR": {"facts": [], "systems": [], "note": "A proposed concession for ID and civil registration was rejected; no link between the registers is stated."}}},
+"civilregister": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The civil registration system is only proposed under a rejected contract; nothing procured, piloted or in service."}}},
+"dataprotectionlaw": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No data protection law is stated."}}},
+"digitalsovereignty": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Sovereignty concerns and a data-residency assurance concern a rejected contract, not a goal, rule, hosting or contract terms."}}},
+"idcoverage": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No enrolment count or share is stated."}}},
+"idfrombirth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "A build-operate-transfer arrangement was proposed and sent back; no operation or transfer is in place."}}},
+"idregisters": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"LBR": {"facts": [], "systems": [{"system": "National Identification Registry", "country_label": "Liberia", "class": "other", "platform": "", "owner": "NIR", "tiers": ""}], "note": "The $52M contract to build the biometric system was rejected, not procured or built."}}},
+"idverification": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No system checking people against the ID is stated."}}},
+"nonstatefinance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The OeSD concession was not signed; the House sent it back for renegotiation."}}},
+"registry": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No local office digital registration is stated."}}}
+}}

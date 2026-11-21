@@ -1,0 +1,4 @@
+{"slug": "2024-11-04-cog-selection-d-un-cabinet-international-pour-la-formation-de-52-gestionna", "studies": {
+"health": {"countries": {"COG": {"facts": [], "systems": [], "note": "A training tender only; says nothing on tiers, where data is entered or clinics."}}},
+"healthmis": {"countries": {"COG": {"facts": [{"sub_indicator": "hmis", "aspect": "system", "value": "underway", "fact": "UNICEF Congo's tender of 4 November 2024 sought a firm to train 52 data managers of the 52 health districts on data management with DHIS2 and Excel; no award is stated.", "as_of": "2024-11-04", "date_precision": "day", "system": "DHIS2", "class": "hmis"}], "systems": [{"system": "DHIS2", "country_label": "Congo", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""}], "note": ""}}}
+}}

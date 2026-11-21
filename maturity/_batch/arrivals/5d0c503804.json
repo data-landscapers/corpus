@@ -1,0 +1,14 @@
+{"slug": "2026-11-19-tun-assabah-national-e-commerce-strategy-march-2027", "studies": {
+"businesspayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Cites central bank online-payment statistics only; no mandate, licensing or switch stated."}}},
+"consumerprotection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Consumer protection is only an axis of a strategy being drafted, not rules for digital finance."}}},
+"crossborderpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Cross-border trade facilitation and export events only; no payment corridor stated."}}},
+"ecommercelaw": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Legal framework is only a strategy axis; no law or draft stated."}}},
+"egovservices": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on government services online."}}},
+"g2ppayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Gives online payment counts, not a survey share of adults with accounts."}}},
+"regionallaw": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The AfCFTA digital trade protocol is only a strategy axis; no signature or ratification stated."}}},
+"regionalpolicy": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No membership or agreement with an African body stated; AfCFTA protocol is only a strategy axis."}}},
+"retailpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Gives card and online payment counts; no mobile money or e-money service stated."}}},
+"revenuecollection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}}
+}}

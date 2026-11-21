@@ -1,0 +1,267 @@
+{
+ "slug": "2026-11-19-swz-another-govt-online-services-blackout",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "The Eswatini Observer reports company name searches, name reservations and company registrations were online services made unavailable by the 17 November 2026 shutdown.",
+       "as_of": "2026-11-17",
+       "date_precision": "day",
+       "system": "Government in Your Hand",
+       "class": "business"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "cloudstrategy": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "revenue",
+       "value": "down",
+       "fact": "The Eswatini Observer reports Eswatini Revenue Service taxpayer portal services, including filing, were among the platforms unavailable from the 17 November 2026 shutdown of RSTP-hosted systems.",
+       "as_of": "2026-11-17",
+       "date_precision": "day",
+       "system": "ERS taxpayer portal",
+       "class": "core"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "RSTP Data Centre hosts government systems; hire to others, tier and ownership not stated."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "The Eswatini Observer reports that the Government in Your Hand portal lists 16 digital services across six ministries and offices, which went offline in the 17 November 2026 shutdown.",
+       "as_of": "2026-11-17",
+       "date_precision": "day",
+       "system": "Government in Your Hand",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government in Your Hand",
+       "country_label": "Government in Your Hand (GIYH)",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Government of Eswatini",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Government systems hosted at RSTP Data Centre but its ownership is not stated."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "The Eswatini Observer reports the ICT ministry listed the social registry among 13 online services restored in October 2026.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "social registry",
+       "class": "social"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The Eswatini Observer reports Eswatini Revenue Service taxpayer portal services, including filing, were listed among the platforms affected by the 17 November 2026 shutdown.",
+       "as_of": "2026-11-17",
+       "date_precision": "day",
+       "system": "ERS taxpayer portal",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

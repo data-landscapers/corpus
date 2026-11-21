@@ -1,0 +1,7 @@
+{"slug": "2024-12-05-tgo-sante-des-hopitaux-bientot-equipes-de-systemes-digitaux-d-information", "studies": {
+"health": {"countries": {"TGO": {"facts": [], "systems": [{"system": "SIH", "country_label": "Togo", "class": "other", "platform": "YULCOM", "owner": "government and Global Fund", "tiers": "five health centres, planned"}], "note": "An announcement that five health centres will soon get a hospital information system; no delivery, site or date stated."}}},
+"healthmis": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on routine national reporting stated."}}},
+"police": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on police stations stated."}}},
+"schools": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on schools stated."}}},
+"taxadmin": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on tax administration stated."}}}
+}}

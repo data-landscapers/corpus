@@ -1,0 +1,10 @@
+{
+ "slug": "2023-12-13-dza-guelma-la-numerisation-des-services-de-sante-lancee",
+ "studies": {
+  "health": {"countries": {"DZA": {"facts": [
+   {"sub_indicator": "emr", "aspect": "tiers", "value": "T3", "fact": "La Sentinelle reports that in December 2023 a digitisation team set up the electronic patient record (DEM), replacing the paper file, at the public proximity health establishment of Bouchegouf commune, in Guelma wilaya.", "as_of": "2023-12-13", "date_precision": "day", "system": "dossier électronique du patient (DEM)", "class": "emr"},
+   {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "La Sentinelle says medical and paramedical teams in Guelma and Bouchegouf communes can now directly access patients' electronic records, with the file extended to the laboratory and dental care room.", "as_of": "2023-12-13", "date_precision": "day", "system": "dossier électronique du patient (DEM)", "class": "emr"}
+  ], "systems": [{"system": "dossier électronique du patient (DEM)", "country_label": "Guelma wilaya", "class": "emr", "platform": "", "owner": "Direction de la Santé et de la Population de Guelma", "tiers": "T3"}, {"system": "radiology network, Chekrouba clinic", "country_label": "Guelma wilaya", "class": "single-function", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+  "localgov": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Health service digitisation only; no local government office connection stated."}}}
+ }
+}

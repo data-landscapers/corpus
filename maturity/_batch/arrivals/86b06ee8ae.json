@@ -1,0 +1,5 @@
+{"slug": "2026-11-18-egy-sis-cabinet-comprehensive-national-data-system", "studies": {
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The AI-backed national data system is cross-government performance monitoring, not a sector's public system, and was only approved as a draft resolution."}}},
+"dataexchange": {"countries": {"EGY": {"facts": [], "systems": [{"system": "Comprehensive National Data System", "country_label": "Egypt", "class": "other", "platform": "", "owner": "Cabinet / IDSC", "tiers": ""}], "note": "A draft resolution for a centralised monitoring database; no exchange platform procured, built or live is stated."}}},
+"health": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on health data systems."}}}
+}}

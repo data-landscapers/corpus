@@ -1,0 +1,12 @@
+{"slug": "2026-11-13-zaf-itweb-sa-data-legislation-advancing-gaps-remain-ai", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only opinion that the regulator should not also be an AI regulator; no rule, authority or enforcement on AI harms stated."}}},
+"dataprotectionauthority": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "ITWeb reports the Information Regulator is taking a more proactive approach to enforcing POPIA, per Prof Sizwe Snail ka Mtuze.", "as_of": "2026-11-13", "date_precision": "day", "system": "Information Regulator", "class": "authority"},
+{"sub_indicator": "body", "aspect": "rulings", "value": "ruled", "fact": "ITWeb reports the Information Regulator recently imposed a R1 million administrative fine on First National Bank for contravening multiple POPIA provisions after a client data compromise.", "as_of": "2026-11-13", "date_precision": "day", "system": "Information Regulator", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "ITWeb quotes Prof Mtuze saying POPIA came fully into effect five years ago and is beginning to deliver results.", "as_of": "2026-11-13", "date_precision": "day", "system": "POPIA", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Information Regulator is reported enforcing POPIA, including by administrative fine.", "as_of": "2026-11-13", "date_precision": "day", "system": "Information Regulator", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "The Information Regulator recently fined First National Bank R1 million under POPIA after a client data compromise, per ITWeb.", "as_of": "2026-11-13", "date_precision": "day", "system": "POPIA", "class": "general"}
+], "systems": [], "note": ""}}}
+}}

@@ -970,7 +970,7 @@ NER,33,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument
 NER,34,2022-06-01-chrgj-paving-digital-road-to-hell,2026-11-17,instrument,2026-11-17
 NER,35,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
 NGA,65,2026-11-13-nga-techcabal-ncc-15-year-spectrum-licences-ibsif,2026-11-17,capped,2026-11-17
-NGA,66,2026-06-26-nga-ndpc-guidance-notice-cpd-dpos,2026-11-17,,
+NGA,66,2026-06-26-nga-ndpc-guidance-notice-cpd-dpos,2026-11-17,nothing,2026-11-21
 NGA,67,2026-11-16-bloomsbury-biometric-digital-id-ch03-nigeria-oloyede,2026-11-17,instrument,2026-11-17
 NGA,68,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 NGA,69,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
@@ -1073,7 +1073,7 @@ ETH,45,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-1
 GHA,64,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 GIN,26,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 GMB,29,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-KEN,107,2026-11-18-governing-ai-in-kenyas-banking-sector-cbk-draft-guidance-notes,2026-11-18,,
+KEN,107,2026-11-18-governing-ai-in-kenyas-banking-sector-cbk-draft-guidance-notes,2026-11-18,nothing,2026-11-21
 KEN,108,2026-08-01-ken-cbk-draft-guidance-note-artificial-intelligence-banking-sector,2026-11-18,instrument,2026-11-18
 KEN,109,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 LBY,17,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
@@ -1109,7 +1109,7 @@ AGO,63,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2
 BDI,39,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 BEN,48,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 BEN,49,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
-BFA,47,2026-11-18-soutenance-de-these-de-doctorat-a-l-ujkz-hubert-ouedraogo-convainc-avec,2026-11-20,,
+BFA,47,2026-11-18-soutenance-de-these-de-doctorat-a-l-ujkz-hubert-ouedraogo-convainc-avec,2026-11-20,nothing,2026-11-21
 BFA,48,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 BWA,31,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 CAF,26,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
@@ -1138,7 +1138,7 @@ GNB,32,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2
 GNB,33,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
 GNQ,11,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 KEN,110,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
-LBR,34,2026-11-18-lbr-house-endorses-committees-report-rejecting-oesd-nir-concession-agreement,2026-11-20,,
+LBR,34,2026-11-18-lbr-house-endorses-committees-report-rejecting-oesd-nir-concession-agreement,2026-11-20,nothing,2026-11-21
 LBR,35,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 LBR,36,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
 LBY,19,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
@@ -1150,7 +1150,7 @@ MOZ,53,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2
 MRT,36,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 MRT,37,2025-11-11-sle-wardip-sop2-esmf-p500628,2026-11-20,instrument,2026-11-20
 MUS,53,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
-MWI,47,2026-11-18-mwi-malawi-launches-20262029-open-government-partnership-national-action-plan,2026-11-20,,
+MWI,47,2026-11-18-mwi-malawi-launches-20262029-open-government-partnership-national-action-plan,2026-11-20,nothing,2026-11-21
 MWI,48,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 NAM,44,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 NER,36,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20

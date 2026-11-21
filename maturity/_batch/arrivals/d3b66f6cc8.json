@@ -1,0 +1,13 @@
+{"slug": "2026-11-18-lby-study-diagnoses-cybersecurity-weaknesses-in-libya-and-six-recommendations", "studies": {
+"dataexchange": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No government data exchange platform stated."}}},
+"dataprotectionlaw": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Study recommends privacy standards; no data protection law stated."}}},
+"digitalsovereignty": {"countries": {"LBY": {"facts": [], "systems": [{"system": "National Authority for Cybersecurity and Digital Sovereignty", "country_label": "Libya", "class": "other", "platform": "", "owner": "Government of National Unity, Decision 359 of 2026", "tiers": ""}], "note": "A cybersecurity authority created in July 2026 is not a rule or hosting of state data."}}},
+"digitalstrategy": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "Alwasat, reporting an analyst study, says Libya's National Committee for Digital Transformation is the body responsible for drafting the national digital transformation strategy.", "as_of": "2026-11-18", "date_precision": "day", "system": "National Committee for Digital Transformation", "class": "national"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No online government service stated."}}},
+"interoperabilitylaw": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Study notes no unified body regulating data flow but states no law or draft on data sharing."}}},
+"interoperabilitystandards": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "standards", "aspect": "standing", "value": "none", "fact": "Alwasat reports an analyst study saying government data is spread across several bodies without unified standards and recommending a national interoperability framework with binding standards.", "as_of": "2026-11-18", "date_precision": "day", "system": "national interoperability standards", "class": "standards"}
+], "systems": [], "note": ""}}}
+}}

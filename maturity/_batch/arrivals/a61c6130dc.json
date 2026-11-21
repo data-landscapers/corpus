@@ -1,0 +1,30 @@
+{
+ "slug": "2026-11-13-civ-mtnit-presentation-projet-budget-2027-caef",
+ "studies": {
+  "aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Deck names no rule or authority on AI harms."}}},
+  "aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government body's AI system is stated in use or piloted."}}},
+  "aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No sectoral AI tool is named."}}},
+  "aistrategy": {"countries": {"CIV": {"facts": [
+   {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The Ministry of Digital Transition says that in 2025 it drew up the national AI strategy and held a ceremony handing it back to the Government, with no adoption stated.", "as_of": "2025", "date_precision": "year", "system": "stratégie nationale de l'Intelligence Artificielle", "class": "strategy"}
+  ], "systems": [{"system": "stratégie nationale de l'Intelligence Artificielle", "country_label": "Côte d'Ivoire", "class": "strategy", "platform": "", "owner": "Ministère de la Transition Numérique et de l'Innovation Technologique", "tiers": ""}], "note": ""}}},
+  "aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a pillar on developing a national AI is named, a plan with no builder or site."}}},
+  "civilserviceskills": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a ministry staff capacity indicator (73% of agents) is given, not a civil service programme."}}},
+  "cybersecurity": {"countries": {"CIV": {"facts": [
+   {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The Ministry says the national information systems security agency ANSSI was created and its activities implemented, and ranks Côte d'Ivoire 3rd of 54 in Africa on cybersecurity in 2025.", "as_of": "2025", "date_precision": "year", "system": "ANSSI", "class": "response"},
+   {"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "The Ministry reports awareness campaigns in 2025 on the national cybersecurity strategy.", "as_of": "2025", "date_precision": "year", "system": "stratégie nationale de cybersécurité", "class": "response"}
+  ], "systems": [{"system": "ANSSI", "country_label": "Agence Nationale de Sécurité des Systèmes d'Information", "class": "response", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+  "digitaldivides": {"countries": {"CIV": {"facts": [
+   {"sub_indicator": "ruralaccess", "aspect": "programme", "value": "delivering", "fact": "The Ministry says the National Rural Connectivity Programme (PNCR) connected 493 localities in 2025 of 575 to connect, 85.7% done.", "as_of": "2025", "date_precision": "year", "system": "Programme National de Connectivité Rurale (PNCR)", "class": "ruralaccess"}
+  ], "systems": [{"system": "Programme National de Connectivité Rurale (PNCR)", "country_label": "Côte d'Ivoire", "class": "ruralaccess", "platform": "", "owner": "Ministère de la Transition Numérique et de l'Innovation Technologique", "tiers": ""}], "note": ""}}},
+  "digitalskills": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only unspecified AI training and awareness sessions are mentioned, with no programme or count."}}},
+  "domesticfinancing": {"countries": {"CIV": {"facts": [
+   {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The Ministry states its 2025 budget was 65,425,224,828 FCFA, including 28 billion for rural new technologies (universal service).", "as_of": "2025", "date_precision": "year", "system": "Budget 2025 du Ministère de la Transition Numérique", "class": "financing"},
+   {"sub_indicator": "financing", "aspect": "budget", "value": "spent", "fact": "The Ministry states 64,613,612,862 FCFA of its 2025 budget was executed, a rate of 98.76%.", "as_of": "2025", "date_precision": "year", "system": "Budget 2025 du Ministère de la Transition Numérique", "class": "financing"}
+  ], "systems": [], "note": ""}}},
+  "schoolinternet": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No school internet share or compulsory curriculum is stated."}}},
+  "startups": {"countries": {"CIV": {"facts": [
+   {"sub_indicator": "startuppolicy", "aspect": "law", "value": "adopted", "fact": "The Ministry says the law promoting digital startups was put into effect in 2025, shown by startups attending VivaTech 2025 in Paris.", "as_of": "2025", "date_precision": "year", "system": "loi portant promotion des startups numériques", "class": "startuppolicy"}
+  ], "systems": [{"system": "loi portant promotion des startups numériques", "country_label": "Côte d'Ivoire", "class": "startuppolicy", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+  "techhubs": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A first Ivoire Tech forum and a free-trade zone are named, no hub or park with programmes or tenants."}}}
+ }
+}

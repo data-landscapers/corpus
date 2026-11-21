@@ -1,0 +1,25 @@
+{"slug": "2025-07-08-nin-verification-portal-downtime-banks-telcos-vanguard", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Vanguard reports that the NIMC's NIN verification portal is in use by banks and mobile operators for real-time identity checks, and was disrupted in early July 2025 during a switch to a new platform.", "as_of": "2025-07-08", "date_precision": "day", "system": "NIN verification portal", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "Vanguard reports that banks, mobile network operators and the Nigerian Immigration Service all rely on NIMC's NIN verification platform, and that NIMC also urged an alternative tokenisation method that verifies identity without exposing the NIN.", "as_of": "2025-07-08", "date_precision": "day", "system": "NIN verification portal", "class": "authentication"}],
+"systems": [{"system": "NIN verification portal", "country_label": "Nigeria", "class": "authentication", "platform": "Bluesalt", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on the civil register stated."}}},
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on e-procurement stated."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on the central bank stated."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection stated."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments stated."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on government payments to people stated."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on a number at birth stated."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NIMC changed its software vendor to Bluesalt for verification; who operates, maintains or owns the ID system is not stated."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No public register keyed on the NIN stated."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Vanguard reports that banks and mobile operators link customers to their NIN records through NIMC's verification platform, which was in use until its July 2025 disruption.", "as_of": "2025-07-08", "date_precision": "day", "system": "NIN / NIMC national ID system", "class": "idsystem"}], "systems": [{"system": "NIN / NIMC national ID system", "country_label": "Nigeria", "class": "idsystem", "platform": "", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Vanguard reports that banks and mobile network operators verify customers' NINs through NIMC's platform to open accounts and register SIM cards.", "as_of": "2025-07-08", "date_precision": "day", "system": "NIN verification portal", "class": "relying"},
+{"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "Vanguard reports that NIN verification is relied on by banks, mobile network operators (SIM registration, replacement and number portability) and the Immigration Service for passport processing.", "as_of": "2025-07-08", "date_precision": "day", "system": "NIN verification portal", "class": "relying"}],
+"systems": [], "note": ""}}},
+"localrecords": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on local government revenue records stated."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No account survey share stated."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on retail payments stated."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment stated."}}}
+}}

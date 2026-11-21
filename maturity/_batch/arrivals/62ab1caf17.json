@@ -1,0 +1,7 @@
+{"slug": "2026-11-18-bwa-mmegi-bofinet-eimc-smart-schools", "studies": {
+"civilserviceskills": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on civil-servant training."}}},
+"digitaldivides": {"countries": {"BWA": {"facts": [], "systems": [], "note": "A school connectivity MoU only; no rural programme or rural and urban figures."}}},
+"digitalskills": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Digital literacy is named only as an expected benefit; no programme or share."}}},
+"digitalsovereignty": {"countries": {"BWA": {"facts": [], "systems": [{"system": "UPICtv", "country_label": "Botswana", "class": "other", "platform": "locally hosted streaming platform on BoFiNet infrastructure", "owner": "BoFiNet", "tiers": ""}], "note": "A sovereignty claim for one streaming platform; no state-data strategy, rule or government data hosted is stated."}}},
+"schoolinternet": {"countries": {"BWA": {"facts": [], "systems": [], "note": "An MoU on school connectivity; no share of secondary schools with internet and no curriculum rule."}}}
+}}

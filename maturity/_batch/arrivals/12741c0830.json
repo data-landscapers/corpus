@@ -1,0 +1,13 @@
+{"slug": "2026-11-15-raic-blows-whistle-on-data-protection-bill", "studies": {
+"accesstoinformationlaw": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Informant reports that the Right to Access Information Act 2013 exists and applies to public authorities and to private bodies holding information needed to protect a right.", "as_of": "2013", "date_precision": "year", "system": "Right to Access Information Act 2013", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The Informant reports that the Right to Access Information Commission operates, with Regional Commissioners and public information officers, under the 2013 Act.", "as_of": "2026-11-15", "date_precision": "day", "system": "Right to Access Information Commission", "class": "law"}
+], "systems": [{"system": "Data Protection and Right to Access Information Bill", "country_label": "Sierra Leone", "class": "other", "platform": "", "owner": "Ministry of Information and Civic Education", "tiers": ""}], "note": ""}}},
+"dataprotectionauthority": {"countries": {"SLE": {"facts": [], "systems": [{"system": "Right to Access Information Commission", "country_label": "Sierra Leone", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The data protection authority appears only in a bill laid in Parliament, not a law."}}},
+"dataprotectionlaw": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "tabled", "fact": "The Informant reports that the Minister of Information laid the Data Protection and Right to Access Information Bill in Parliament the week before 15 November 2026, and the Right to Access Information Commission says it departs from the validated consultation draft.", "as_of": "2026-11", "date_precision": "month", "system": "Data Protection and Right to Access Information Bill", "class": "general"}
+], "systems": [], "note": ""}}},
+"publicconsultation": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The Informant reports that national stakeholder consultations, with a final validation at the Miatta Conference Centre, were held on the Data Protection and Right to Access Information Bill before it was laid in Parliament.", "as_of": "2026-11-15", "date_precision": "day", "system": "Data Protection and Right to Access Information Bill", "class": "consultation"}
+], "systems": [], "note": ""}}}
+}}

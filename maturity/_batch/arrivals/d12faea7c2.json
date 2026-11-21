@@ -1,0 +1,366 @@
+{
+ "slug": "2026-11-19-xaf-gates-connect-payment-systems-cross-border-trade",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names the country only as venue, a hypothetical example or a credit-scoring exploration; it states nothing this study asks."
+    }
+   }
+  }
+ }
+}

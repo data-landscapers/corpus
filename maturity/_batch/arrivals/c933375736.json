@@ -1,0 +1,11 @@
+{"slug": "2024-09-25-afdb-tunisie-mobile-id-infrastructure-attribution-contrat", "studies": {
+"authentication": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "The African Development Bank published the award of lot 2 of a Mobile ID infrastructure tender for Tunisia's Communication Technologies Ministry to FOCUS Technology Solutions, covering IT equipment, for 36,414 DT plus USD 1,550,977.60 including tax, with lots 1 and 3 unsuccessful.", "as_of": "2024-09-25", "date_precision": "day", "system": "Mobile ID infrastructure", "class": "authentication"}
+], "systems": [{"system": "Mobile ID infrastructure", "country_label": "Tunisia", "class": "authentication", "platform": "", "owner": "Ministry of Communication Technologies", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on a civil register link."}}},
+"idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A hardware purchase says nothing on who operates or maintains the ID system."}}},
+"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The notice does not say Mobile ID is part of a national ID system issuing unique credentials."}}}
+}}

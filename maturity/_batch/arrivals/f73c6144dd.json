@@ -1,0 +1,10 @@
+{"slug": "2026-11-16-xwa-ecofin-fintech-licensing-passport-ecowas-opinion", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Opinion piece; Bank of Ghana named only in a licence-recognition agreement with Rwanda, with no licensing, switch or PAPSS role stated."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Consumer protection is a proposed safeguard for a regional pilot, with nothing on Ghana's rules."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The Bank of Ghana-Rwanda agreement covers mutual recognition of fintech licences and exploring interoperability, not a corridor or payment rules."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No survey figure for Ghana."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only calls Ghana's mobile financial services industry well developed, with no service or interoperability stated."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Not mentioned."}}}
+}}

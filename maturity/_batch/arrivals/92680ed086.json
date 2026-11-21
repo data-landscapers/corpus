@@ -1,0 +1,596 @@
+{
+ "slug": "2026-11-12-xaf-africas-uncollected-national-id-cards-mass-issuance",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Biometric Update reports hundreds of thousands of Cameroon's printed national ID cards have been abandoned at police stations.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "Cameroon national ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cameroon national ID card",
+       "country_label": "CMR",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Biometric Update reports the National Identification Authority said more than 600,000 printed Ghana Cards had been uncollected at regional and district offices since 2018.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "Ghana Card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana Card",
+       "country_label": "GHA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Biometric Update reports The Gambia's new national identity system has instant issuance, producing the GAM ID card in real time after biometric enrolment.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "GAM ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GAM ID card",
+       "country_label": "GMB",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Kenya's Principal Secretary for Immigration said in early November 2026 that more than 550,000 printed national ID cards remained uncollected.",
+       "as_of": "2026-11",
+       "date_precision": "month",
+       "system": "Kenya national ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Kenya national ID card",
+       "country_label": "KEN",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Biometric Update reports Sierra Leone's National Civil Registration Authority has announced that abandoned ID cards should be picked up.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "Sierra Leone national ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Sierra Leone national ID card",
+       "country_label": "SLE",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Biometric Update reports NIDA said in September 2026 that about 2.02 million printed national ID cards were awaiting collection.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "NIDA national ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIDA national ID",
+       "country_label": "TZA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Biometric Update reports Uganda said 10 million of 15.4 million printed national ID cards had been picked up, with 35 percent uncollected.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "Uganda national ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Uganda national ID card",
+       "country_label": "UGA",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Biometric Update reports Sierra Leone recently made the national ID card mandatory for SIM card registration.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "SIM card registration",
+       "class": "relying"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Jaume Dubois of ID30, citing NIDA research, says Tanzanians skip the card because the national ID number already opens the services they need.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "NIDA national ID number",
+       "class": "relying"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    }
+   }
+  }
+ }
+}

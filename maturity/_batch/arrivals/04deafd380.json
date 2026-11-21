@@ -1,0 +1,34 @@
+{"slug": "2026-11-18-lbr-house-endorses-committees-report-rejecting-oesd-nir-concession-agreement", "studies": {
+"admindata": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on administrative statistics."}}},
+"authentication": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only the rejected OeSD verification concession; nothing delivered."}}},
+"birthidlink": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"businesspayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Procurement of the concession is discussed, not e-procurement."}}},
+"centralbank": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"civilregister": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a proposed civil registry system that the House rejected; nothing in service stated."}}},
+"consumerprotection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer rules."}}},
+"crossborderpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"cybersecuritylaw": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The House committees recommended that any alternative ID arrangement comply with Liberia's Cybercrime Act of 2025, treated as an existing law.", "as_of": "2026-11-18", "date_precision": "day", "system": "Cybercrime Act of 2025", "class": "law"}
+], "systems": [], "note": ""}}},
+"datacentres": {"countries": {"LBR": {"facts": [], "systems": [], "note": "A Tier III facility of Liberia Telecommunications Corporation is named, but not as renting to others."}}},
+"dataprotectionlaw": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "The House committees recommended that any alternative ID arrangement comply with the Personal Data Protection and Privacy Act of 2026; commencement is not stated.", "as_of": "2026-11-18", "date_precision": "day", "system": "Personal Data Protection and Privacy Act of 2026", "class": "general"}
+], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Hosting and key-custody points are criticisms of a rejected agreement, not a rule or hosting in place."}}},
+"eparticipation": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No online channel stated."}}},
+"g2ppayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"idcoverage": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Who runs the existing system is not stated; the supplier concession was rejected."}}},
+"idregisters": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Shared use of the platform is stated, not registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The House committees describe a biometric identification platform already in use by the National Identification Registry, built by Techno Brain under a US$5.9 million contract awarded in April 2017.", "as_of": "2026-11-18", "date_precision": "day", "system": "National Identification Registry biometric platform (Techno Brain)", "class": "idsystem"}
+], "systems": [{"system": "National Identification Registry biometric platform", "country_label": "Liberia", "class": "idsystem", "platform": "Techno Brain", "owner": "National Identification Registry", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Platform also used by NSSWC and the Elections Commission, but no check against the ID is stated."}}},
+"nationaldatacentres": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The telecoms corporation's Tier III facility is not stated as for hire."}}},
+"paymentsuptake": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"publicconsultation": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Committee hearings are named, but nobody outside government is said to have taken part."}}},
+"registry": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}},
+"retailpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on retail payments."}}},
+"revenuecollection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes."}}}
+}}

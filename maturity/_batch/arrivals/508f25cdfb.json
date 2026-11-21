@@ -1,0 +1,10 @@
+{"slug": "2026-11-20-mar-maroc-france-criminalite-numerique", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only a cooperation declaration on AI in investigations; no rule, authority or enforcement on AI harms."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "AI use by prosecutors is an intention in a declaration, not a system tendered, piloted or in service."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing stated."}}},
+"cybersecuritylaw": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "law", "aspect": "use", "value": "unnamed", "fact": "We Are Tech Africa, citing DGSN data relayed by the Observatoire national de la criminalite, reports 8,333 cybercrime cases in 2024 against 5,969 in 2023, without naming a law.", "as_of": "2024", "date_precision": "year", "system": "DGSN cybercrime case count", "class": "law"}
+], "systems": [], "note": "Law's standing not stated."}}},
+"localgov": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on local government connection."}}}
+}}

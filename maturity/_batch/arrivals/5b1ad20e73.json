@@ -1,0 +1,15 @@
+{"slug": "2025-11-01-moz-m-e-system-vulnerabilities-and-steps-towards-resiliency-mozambique", "studies": {
+"authentication": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on authentication or digital ID."}}},
+"birthidlink": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"health": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The Ministry of Health's M&E adviser says Mozambique's EMR is entirely supported by PEPFAR and extremely vulnerable to funding cuts, and that there is no national adoption of an EMR system.", "as_of": "2025-11", "date_precision": "month", "system": "PEPFAR-supported EMR", "class": "emr"}
+], "systems": [{"system": "PEPFAR-supported EMR", "country_label": "PEPFAR-supported EMR", "class": "emr", "platform": "", "owner": "partner", "tiers": ""}, {"system": "SIS-MA (national DHIS2)", "country_label": "SIS-MA", "class": "hmis", "platform": "DHIS2", "owner": "ministry", "tiers": ""}], "note": ""}}},
+"healthmis": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "The Ministry of Health's M&E adviser says HIV data is reported from paper registers into the national DHIS2 (SIS-MA).", "as_of": "2025-11", "date_precision": "month", "system": "SIS-MA (national DHIS2)", "class": "hmis"}
+], "systems": [{"system": "SIS-MA (national DHIS2)", "country_label": "SIS-MA", "class": "hmis", "platform": "DHIS2", "owner": "ministry", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on national ID enrolment."}}},
+"idfrombirth": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on ID numbers at birth."}}},
+"idmaintenance": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID."}}},
+"idrobustness": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}}
+}}

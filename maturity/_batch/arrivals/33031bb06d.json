@@ -1,0 +1,17 @@
+{"slug": "2026-11-17-ben-cyber-africa-forum-ai-testbed-techcabal", "studies": {
+"aiabuse": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Language-AI work for services is described, but the document says no system is shown in use or piloted."}}},
+"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document names no AI tool in a sector system."}}},
+"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Test-bed ambition only; no model, dataset or computing facility named."}}},
+"authentication": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document names no authentication service."}}},
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document says nothing on civil register and ID links."}}},
+"digitalsovereignty": {"countries": {"BEN": {"facts": [{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "TechCabal reports Minister Mahuna Akplogan said each ministry's AI technical adviser would identify its critical data to stay in Benin, with less critical data processable abroad, under a proposed classification process with no criteria given.", "as_of": "2026-11-16", "date_precision": "day", "system": "data classification approach", "class": "sovereignty"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document gives no ID enrolment count or share."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document says nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document says nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document names no register keyed on the ID number."}}},
+"idrobustness": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Digital identity is mentioned only as background, with no system stated."}}},
+"itcapacity": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No named system is said to be built or run by government staff; the AI advisers and local-talent aims are not systems."}}},
+"startups": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document names no startup law or fund."}}},
+"techhubs": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document names no hub or technology park."}}}
+}}

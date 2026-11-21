@@ -1,0 +1,41 @@
+{
+ "slug": "2026-11-20-mar-hespress-anrt-mobile-internet-subscriptions-sept-2026",
+ "studies": {
+  "internetusage": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ANRT end-Sept 2026: 44.3 million internet subscriptions, 118.93% penetration",
+       "country_label": "ANRT end-Sept 2026: 44.3 million internet subscriptions, 118.93% penetration",
+       "class": "other",
+       "platform": "",
+       "owner": "ANRT",
+       "tiers": ""
+      }
+     ],
+     "note": "Subscription counts, not a share of people; noted only."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ANRT end-Sept 2026: 61.66 million mobile subscriptions, 165.5% penetration",
+       "country_label": "ANRT end-Sept 2026: 61.66 million mobile subscriptions, 165.5% penetration",
+       "class": "other",
+       "platform": "",
+       "owner": "ANRT",
+       "tiers": ""
+      }
+     ],
+     "note": "Subscription counts, not a share of people owning a phone; noted only."
+    }
+   }
+  }
+ }
+}

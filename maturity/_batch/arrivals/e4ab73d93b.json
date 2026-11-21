@@ -1,0 +1,16 @@
+{"slug": "2024-11-30-shega-nbe-fayda-deadline-bank-accounts-addis", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Shega reports the National Bank of Ethiopia's letter of 26 November 2024 mandating banks to require the Fayda national ID for account opening in phased deadlines, with authorities describing Fayda as a real-time identity verification system.", "as_of": "2024-11-26", "date_precision": "day", "system": "Fayda", "class": "authentication"}
+], "systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "authentication", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No civil register to ID link is stated."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Registrations are given as nearly 10 million with no population or share, so no share is stated."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Funding and kit purchase are stated, not who operates or owns the system."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only banks are named, which are not public registers."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Shega reports that the Fayda national ID project has neared 10 million registrations, against a target of 90 million.", "as_of": "2024-11-30", "date_precision": "day", "system": "Fayda", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idverification": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "Shega reports the National Bank of Ethiopia's letter of 26 November 2024 requiring banks to demand Fayda for new accounts in Addis Ababa from 1 January 2025, nationwide by January 2026, and of existing holders by December 2026.", "as_of": "2024-11-26", "date_precision": "day", "system": "Fayda", "class": "relying"}
+], "systems": [], "note": ""}}}
+}}

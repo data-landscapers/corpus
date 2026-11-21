@@ -1,0 +1,101 @@
+{
+ "slug": "2026-11-18-zaf-mybroadband-napafrica-7tbps-800g-ports",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "MyBroadband reports Teraco says its South African data centres let enterprises interconnect directly to cloud on-ramps (Azure, Alibaba Cloud, AWS, Google Cloud, Huawei Cloud, Oracle) and to cable landings, with over 29,500 interconnects.",
+       "as_of": "2026-11-18",
+       "date_precision": "day",
+       "system": "Teraco data centres",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "growing",
+       "fact": "Teraco says NAPAfrica's peak traffic is now over 7Tbps, up from 6Tbps a year earlier, with more than 690 connected networks.",
+       "as_of": "2026-11-18",
+       "date_precision": "day",
+       "system": "NAPAfrica",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NAPAfrica",
+       "country_label": "South Africa",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Teraco",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "Teraco says its facilities give direct interconnect access to subsea cables landing in South Africa, including 2Africa, ACE, EASSy, Equiano, METISS, SACS, SAT3/SAFE, Seacom and WACS; landing stations are not named.",
+       "as_of": "2026-11-18",
+       "date_precision": "day",
+       "system": "Subsea cables landing in South Africa",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Teraco's ownership not stated."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Foreign networks peering at NAPAfrica is commercial use, no arrangement stated."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only LEO connectivity nodes hosted; no licence or sale to customers stated."
+    }
+   }
+  }
+ }
+}

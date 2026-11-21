@@ -1,0 +1,5 @@
+{"slug": "2026-11-17-nam-powercom-seeks-n-375m-to-roll-out-fibre-network-to-75-000-homes", "studies": {
+"censuses": {"countries": {"NAM": {"facts": [{"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "PowerCom bases its fibre market estimate on the 2023 Population and Housing Census, which it says recorded 414,119 urban households.", "as_of": "2023", "date_precision": "year", "system": "Population and Housing Census 2023", "class": "census"}], "systems": [], "note": ""}}},
+"digitaldivides": {"countries": {"NAM": {"facts": [], "systems": [], "note": "PowerCom's open-access fibre is an operator's commercial funding ask with no government programme; broadband penetration below 35% is a national figure with no rural and urban split."}}},
+"fibrebackbone": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Only fibre to homes and buildings is described, not a long-distance backbone."}}}
+}}

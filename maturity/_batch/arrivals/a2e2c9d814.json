@@ -1,0 +1,15 @@
+{"slug": "2024-11-04-mwi-data-for-the-people-digital-health-in-malawi", "studies": {
+"authentication": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"health": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "EGPAF reports that Mchinji Health Center now uses an electronic medical record system that clinicians log into at the point of care, having used paper folders until 2019.", "as_of": "2024-11", "date_precision": "month", "system": "Malawi EMRS", "class": "emr"},
+{"sub_indicator": "emr", "aspect": "tiers", "value": "T3", "fact": "EGPAF reports that Mchinji Health Center, a health centre, records patient care in an electronic medical record system connected to a laboratory information management system.", "as_of": "2024-11", "date_precision": "month", "system": "Malawi EMRS", "class": "emr"}
+], "systems": [{"system": "Malawi EMRS", "country_label": "Malawi", "class": "emr", "platform": "Baobab Health open platform", "owner": "Ministry of Health, implemented by EGPAF", "tiers": "T3"}], "note": ""}}},
+"healthmis": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Describes a patient record system, not national routine reporting."}}},
+"idcoverage": {"countries": {"MWI": {"facts": [], "systems": [], "note": "National ID Registry mentioned without a figure."}}},
+"idfrombirth": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No ID system operation stated."}}},
+"idregisters": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"MWI": {"facts": [], "systems": [], "note": "National ID Registry mentioned only as holding promise; no issuing stated."}}},
+"landadmin": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Land not mentioned."}}}
+}}

@@ -1,0 +1,8 @@
+{"slug": "2026-10-29-swz-cmis-rollout-gains-momentum-as-trainers-get-equipped", "studies": {
+"health": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "emr", "aspect": "tiers", "value": "T2", "fact": "Eswatini Positive News reports the CMIS electronic medical record was piloted successfully at Piggs Peak Government Hospital, and trainer training for its Inpatient Module began in October 2026 ahead of national expansion.", "as_of": "2026-10", "date_precision": "month", "system": "CMIS", "class": "emr"},
+{"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The CMIS trainer training was run by the Health Management Information System team, supported by the US Government through the Palladium project.", "as_of": "2026-10", "date_precision": "month", "system": "CMIS", "class": "emr"}],
+"systems": [{"system": "CMIS", "country_label": "Eswatini", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": "T2"}], "note": ""}}},
+"healthexchange": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No exchange between health systems stated."}}},
+"healthmis": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "An HMIS team is named but no national reporting system status is stated."}}}
+}}

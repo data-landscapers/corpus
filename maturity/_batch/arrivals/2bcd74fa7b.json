@@ -1,0 +1,18 @@
+{"slug": "2026-11-18-sle-national-cable-consortium-second-cable-sierratel-international", "studies": {
+"broadbandstrategy": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No broadband plan stated."}}},
+"exchangepoints": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No exchange point stated."}}},
+"fibrebackbone": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Only the international cable; no national backbone stated."}}},
+"ictproduction": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No ICT production or exports stated."}}},
+"internationalbandwidth": {"countries": {
+"GIN": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Tech Africa News, reporting the Sierra Leone government announcement, says Guinea joined the regional effort to address the risk of depending on a single cable connection.", "as_of": "2026-11-18", "date_precision": "day", "system": "single submarine cable", "class": "route"}], "systems": [], "note": ""},
+"GMB": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Tech Africa News, reporting the Sierra Leone government announcement, says The Gambia joined the regional effort to address the risk of depending on a single cable connection.", "as_of": "2026-11-18", "date_precision": "day", "system": "single submarine cable", "class": "route"}], "systems": [], "note": ""},
+"LBR": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Tech Africa News, reporting the Sierra Leone government announcement, says Liberia joined the regional effort to address the risk of depending on a single cable connection.", "as_of": "2026-11-18", "date_precision": "day", "system": "single submarine cable", "class": "route"}], "systems": [], "note": ""},
+"SLE": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "The government announcement says a second submarine cable is meant to reduce Sierra Leone's reliance on a single international submarine cable; the second cable, a $45 million project with a new National Cable Consortium, is planned, not in service.", "as_of": "2026-11-18", "date_precision": "day", "system": "single international submarine cable", "class": "route"}], "systems": [], "note": ""}}},
+"internetusage": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No usage figure stated."}}},
+"localgov": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
+"regionalpolicy": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Demand pooling with World Bank support; no African body or signed agreement stated."},
+"GMB": {"facts": [], "systems": [], "note": "Demand pooling with World Bank support; no African body or signed agreement stated."},
+"LBR": {"facts": [], "systems": [], "note": "Demand pooling with World Bank support; no African body or signed agreement stated."},
+"SLE": {"facts": [], "systems": [], "note": "Cable consortium announced only; no African body or signed agreement stated."}}}
+}}

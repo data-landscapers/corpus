@@ -1,0 +1,9 @@
+{"slug": "2026-11-18-sle-libertyonlinetv-waiis-2026-outcomes", "studies": {
+"broadbandstrategy": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No national broadband plan stated."}}},
+"exchangepoints": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on exchange points."}}},
+"fibrebackbone": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on the inland backbone."}}},
+"ictproduction": {"countries": {"SLE": {"facts": [], "systems": [], "note": "A phone and electronics assembly plant is only an agreement signed, not a plant in production."}}},
+"internationalbandwidth": {"countries": {"SLE": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Liberty Online TV reports the Government unveiled plans for a second submarine cable, estimated at US$40 million, as an alternative route after a cable cut in March 2024.", "as_of": "2026-11-18", "date_precision": "day", "system": "second submarine cable", "class": "route"}], "systems": [{"system": "second submarine cable", "country_label": "second submarine cable", "class": "other", "platform": "", "owner": "National Cable Consortium", "tiers": ""}], "note": ""}}},
+"internetusage": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No usage figure."}}},
+"localgov": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on local government."}}}
+}}

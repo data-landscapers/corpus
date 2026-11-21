@@ -1,0 +1,17 @@
+{"slug": "2026-11-15-who-benefits-from-africas-data-in-ai-era", "studies": {
+"aiabuse": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on AI harm rules."}}},
+"aigovernment": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on government AI use."}}},
+"aisectoral": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only a hypothetical hospital AI tool is given."}}},
+"aisystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on AI built in Uganda."}}},
+"businesspayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on financial consumer protection."}}},
+"crossborderpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"dataprotectionlaw": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The opinion piece by statistician Onesmus Kamacooko says Uganda's Data Protection and Privacy Act, 2019 requires organisations to collect and process data fairly and lawfully.", "as_of": "2019", "date_precision": "year", "system": "Data Protection and Privacy Act, 2019", "class": "general"}
+], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+"retailpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "A mobile money payment appears only as an example, with no service described."}}},
+"revenuecollection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

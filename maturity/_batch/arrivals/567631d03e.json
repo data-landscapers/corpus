@@ -1,0 +1,5 @@
+{"slug": "2026-11-16-gab-gabon-fiber-lambarene-mouila", "studies": {
+"exchangepoints": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on exchange points."}}},
+"fibrebackbone": {"countries": {"GAB": {"facts": [{"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Techies reports that the Lambarene-Fougamou-Mouila fibre section was commissioned on 6 October 2026 and that state company Gabon Fiber took over its operation, maintenance and commercialisation on 16 November 2026, part of a national backbone of 1,782 km that is to be extended to 3,433 km.", "as_of": "2026-11-16", "date_precision": "day", "system": "Lambarene-Fougamou-Mouila fibre section", "class": "backbone"}], "systems": [{"system": "Lambarene-Fougamou-Mouila fibre section", "country_label": "Lambarene-Fougamou-Mouila fibre", "class": "backbone", "platform": "", "owner": "Gabon Fiber", "tiers": ""}], "note": ""}}},
+"internetusage": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No share of people using the internet stated."}}}
+}}

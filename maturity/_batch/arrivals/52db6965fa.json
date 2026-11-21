@@ -1,0 +1,18 @@
+{"slug": "2026-11-16-eyeop-turns-to-social-registry-to-improve-targeting-of-30-000-youth-be", "studies": {
+"addressregister": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document does not mention addressing."}}},
+"businessregister": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document does not mention business registration."}}},
+"civilregister": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document does not mention civil registration."}}},
+"g2ppayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Only planned start-up grants and training payments; no digital government payment stated."}}},
+"landregister": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document does not mention land registration."}}},
+"populationregister": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document does not mention a population register."}}},
+"publicconsultation": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Community engagement is about project sensitisation, not a digital law or policy."}}},
+"registry": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document does not mention civil registration offices."}}},
+"socialexchange": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No data link between systems is stated."}}},
+"socialprotection": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Only the youth project's own beneficiary-management application and MIS, an employment project not a social programme MIS."}}},
+"socialregistry": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "social", "aspect": "registry", "value": "underway", "fact": "Eswatini's project coordinator Ncamiso Nkambule reported that field data collection for the National Dynamic Social Registry, run through the Deputy Prime Minister's Office, has commenced, to be used to select beneficiaries of the World Bank-financed EYEOP.", "as_of": "2026-11-12", "date_precision": "day", "system": "National Dynamic Social Registry", "class": "social"}
+], "systems": [{"system": "National Dynamic Social Registry", "country_label": "Eswatini", "class": "social", "platform": "", "owner": "Deputy Prime Minister's Office", "tiers": ""}], "note": ""}}},
+"startups": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No startup law, label or fund stated."}}},
+"taxregister": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document does not mention a tax register."}}},
+"techhubs": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document does not mention hubs."}}}
+}}

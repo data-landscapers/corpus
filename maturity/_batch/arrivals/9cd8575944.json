@@ -1,0 +1,10 @@
+{"slug": "2026-11-16-ecofin-gambia-to-open-university-innovation-hub-to-turn-research-into-products", "studies": {
+"aiabuse": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on AI in administration."}}},
+"aisectoral": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on AI in a sector system."}}},
+"aisystems": {"countries": {"GMB": {"facts": [], "systems": [], "note": "An AI laboratory is planned in the UniPod, with no model, dataset or computing named."}}},
+"startups": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The National Research and Innovation Fund finances research projects, not startups; no startup law or strategy named."}}},
+"techhubs": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "Ecofin reports that the Gambian government and UNDP plan to open the University Innovation Pod at the USET Kanifing campus on 18 November 2026, with AI, robotics and prototyping laboratories and business support for students and researchers.", "as_of": "2026-11-16", "date_precision": "day", "system": "University Innovation Pod (UniPod), USET", "class": "hub"}
+], "systems": [{"system": "University Innovation Pod (UniPod)", "country_label": "The Gambia", "class": "hub", "platform": "UNDP timbuktoo", "owner": "Ministry of Higher Education, Research, Science and Technology with UNDP; USET runs operations", "tiers": ""}], "note": ""}}}
+}}

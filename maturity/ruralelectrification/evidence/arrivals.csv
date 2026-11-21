@@ -1482,7 +1482,7 @@ BEN,67,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,
 BFA,56,2026-11-15-bfa-lefaso-vulgatic-lassina-bamba-rural-digital-literacy,2026-11-17,instrument,2026-11-17
 BFA,57,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
 BFA,58,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,2026-11-17
-BWA,85,2024-02-28-apc-botswana-e-government-privacy-pitfalls,2026-11-17,,
+BWA,85,2024-02-28-apc-botswana-e-government-privacy-pitfalls,2026-11-17,nothing,2026-11-21
 BWA,86,2026-11-16-bloomsbury-biometric-digital-id-ch11-conclusions-sesan-roberts,2026-11-17,instrument,2026-11-17
 BWA,87,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 BWA,88,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
@@ -1533,7 +1533,7 @@ GHA,107,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-1
 GHA,108,2025-02-27-carnegie-dpi-practical-approach-africa,2026-11-17,instrument,2026-11-17
 GHA,109,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
 GHA,110,2021-06-01-ndi-identified-but-unheard-digital-id-civic-participation,2026-11-17,instrument,2026-11-17
-GIN,49,2026-11-15-gin-aziz-bah-youth-digital-economy-state-tribune,2026-11-17,,
+GIN,49,2026-11-15-gin-aziz-bah-youth-digital-economy-state-tribune,2026-11-17,nothing,2026-11-21
 GIN,50,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
 GIN,51,2023-02-01-world-bank-id4d-g2px-2022-annual-report,2026-11-17,instrument,2026-11-17
 GMB,77,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -1689,11 +1689,11 @@ BWA,90,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-1
 CAF,55,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 CIV,70,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 CMR,72,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-COD,62,2026-11-16-xaf-climate-home-ai-data-centres-cop31-pledge-african-endorsers,2026-11-18,,
+COD,62,2026-11-16-xaf-climate-home-ai-data-centres-cop31-pledge-african-endorsers,2026-11-18,nothing,2026-11-21
 COD,63,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 COG,63,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 CPV,43,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-DJI,42,2026-11-16-xaf-climate-home-ai-data-centres-cop31-pledge-african-endorsers,2026-11-18,,
+DJI,42,2026-11-16-xaf-climate-home-ai-data-centres-cop31-pledge-african-endorsers,2026-11-18,nothing,2026-11-21
 DJI,43,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 DZA,39,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 EGY,50,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
@@ -1717,9 +1717,9 @@ NGA,142,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-
 RWA,137,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 SDN,46,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 SEN,88,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-SLE,104,2026-11-16-xaf-climate-home-ai-data-centres-cop31-pledge-african-endorsers,2026-11-18,,
+SLE,104,2026-11-16-xaf-climate-home-ai-data-centres-cop31-pledge-african-endorsers,2026-11-18,nothing,2026-11-21
 SLE,105,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-SOM,62,2026-11-16-xaf-climate-home-ai-data-centres-cop31-pledge-african-endorsers,2026-11-18,,
+SOM,62,2026-11-16-xaf-climate-home-ai-data-centres-cop31-pledge-african-endorsers,2026-11-18,nothing,2026-11-21
 SOM,63,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 SSD,54,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 SWZ,69,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
@@ -1728,9 +1728,9 @@ TCD,53,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-1
 TGO,76,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 TUN,53,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 TZA,102,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-UGA,128,2026-11-16-xaf-climate-home-ai-data-centres-cop31-pledge-african-endorsers,2026-11-18,,
+UGA,128,2026-11-16-xaf-climate-home-ai-data-centres-cop31-pledge-african-endorsers,2026-11-18,nothing,2026-11-21
 UGA,129,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-ZAF,172,2026-11-17-zaf-itweb-teraco-wind-wheeling-sediba-solar,2026-11-18,,
+ZAF,172,2026-11-17-zaf-itweb-teraco-wind-wheeling-sediba-solar,2026-11-18,nothing,2026-11-21
 ZAF,173,2026-11-16-xaf-climate-home-ai-data-centres-cop31-pledge-african-endorsers,2026-11-18,capped,2026-11-18
 ZAF,174,2026-10-05-zaf-ber-measuring-what-matters-digital-inclusion,2026-11-18,instrument,2026-11-18
 ZAF,175,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
@@ -1800,8 +1800,8 @@ TZA,103,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,
 UGA,130,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 ZAF,176,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 ZMB,124,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
-ZWE,97,2026-11-19-zwe-ict-ministry-gets-zig1-billion-in-2027-budget,2026-11-20,,
-ZWE,98,2026-11-18-zwe-towards-human-centric-transparent-ethical-deployment-of-ai,2026-11-20,,
+ZWE,97,2026-11-19-zwe-ict-ministry-gets-zig1-billion-in-2027-budget,2026-11-20,nothing,2026-11-21
+ZWE,98,2026-11-18-zwe-towards-human-centric-transparent-ethical-deployment-of-ai,2026-11-20,nothing,2026-11-21
 ZWE,99,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
 AGO,68,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 AGO,69,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
@@ -1862,7 +1862,7 @@ MLI,63,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 MLI,64,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 MOZ,84,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 MOZ,85,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
-MRT,56,2026-11-20-mrt-chinguitel-are-renouvellent-accord-acces-universel-nord,2026-11-21,,
+MRT,56,2026-11-20-mrt-chinguitel-are-renouvellent-accord-acces-universel-nord,2026-11-21,nothing,2026-11-21
 MRT,57,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 MRT,58,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 MUS,58,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21

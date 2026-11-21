@@ -1,0 +1,10 @@
+{"slug": "2026-11-17-cod-radio-okapi-visa-tap-to-pay", "studies": {
+"businesspayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"COD": {"facts": [], "systems": [], "note": "Governor quoted on digital payments; no licensing, switch or PAPSS role stated."}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "No survey figure on account holding."}}},
+"retailpayments": {"countries": {"COD": {"facts": [], "systems": [{"system": "Visa Pay Tap to Pay", "country_label": "Visa Pay Tap to Pay", "class": "other", "platform": "Android app on card terminals", "owner": "Visa RDC", "tiers": ""}], "note": "A card-scheme phone-payment feature, not a mobile money or e-money service; no interoperability or switch stated."}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states nothing on tax or fee payment."}}}
+}}

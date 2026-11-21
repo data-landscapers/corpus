@@ -1,0 +1,10 @@
+{"slug": "2026-11-19-ssd-economy-finance-ministry-central-bank-advance-digital-banking", "studies": {
+"businesspayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SSD": {"facts": [], "systems": [{"system": "RTGS", "country_label": "Real-Time Gross Settlement system", "class": "other", "platform": "", "owner": "Bank of South Sudan, National Payment Systems Department", "tiers": ""}], "note": "The bank oversees preparation of an RTGS not yet launched; no mandate, licensing or switch in service stated."}}},
+"consumerprotection": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Government institutions' payments by RTGS are prospective; no payment to people stated."}}},
+"paymentsuptake": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No account survey figure stated."}}},
+"retailpayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "An interbank RTGS in preparation is not a retail payment service."}}},
+"revenuecollection": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes or fees."}}}
+}}

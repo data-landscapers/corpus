@@ -1,0 +1,14 @@
+{"slug": "2026-11-16-mar-mmsp-rahhou-oral-questions-ai-data-exchange", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only calls for responsible AI use and guidelines; no rule, draft or authority stated."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Assistants for administrations and guides are stated as development and plans, not a system tested or in service."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only a general aim to strengthen data and computing capacity; nothing built or named."}}},
+"broadbandstrategy": {"countries": {"MAR": {"facts": [{"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "Minister Ahmed Rahhou told the House of Representatives that phase two of the national high and very high speed broadband development plan provides for covering 2,000 rural zones with insufficient or no coverage.", "as_of": "2026-11-16", "date_precision": "day", "system": "Plan national de développement du haut et du très haut débit", "class": "plan"}], "systems": [], "note": ""}}},
+"dataexchange": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only an aim to accelerate data exchange between administrations; no platform named."}}},
+"dataprotectionlaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Mentions strengthening personal data protection only in general terms."}}},
+"interoperabilitylaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Completing the legal framework is mentioned without naming a data-sharing law."}}},
+"itcapacity": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No statement on government technical staff."}}},
+"mobilepenetration": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No ownership figure given."}}},
+"startups": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only a MAD 2.5 billion financing mobilisation target; no adopted law, labelling or fund stated."}}},
+"techhubs": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Jazari institutes are AI research institutes, with no hub programme or startups stated."}}}
+}}

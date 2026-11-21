@@ -1,0 +1,13 @@
+{"slug": "2026-11-17-gha-icc-tiktok-digital-commerce-labs", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"civilserviceskills": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Programme is for young entrepreneurs and small businesses, not civil servants."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitalskills": {"countries": {"GHA": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Tech Review Africa reports Ghana launched the ICC-TikTok Digital Commerce Labs to teach young entrepreneurs and small businesses digital marketing, e-commerce, digital payments and financial literacy, with the Deputy Communications Minister giving the keynote; no participant numbers or locations are stated.", "as_of": "2026-11-17", "date_precision": "day", "system": "ICC-TikTok Digital Commerce Labs", "class": "publicskills"}], "systems": [], "note": "No count trained, so not shown in service."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"ictjobs": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on ICT jobs; only entrepreneurship skills and jobs in general are mentioned."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Digital payments appear only as a training topic."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Digital payments appear only as a training topic."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

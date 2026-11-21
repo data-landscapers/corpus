@@ -1,0 +1,6 @@
+{"slug": "2026-11-18-zmb-mwebantu-manual-passport-applications-discontinued", "studies": {
+"digitalstrategy": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Only a passing mention of a broader digital transformation agenda; no strategy named."}}},
+"egovservices": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Mwebantu reports Zambia's Home Affairs ministry launched the Online Passport Application System in December 2025 and on 18 November 2026 moved all new passport applications and renewals to it, with online status tracking.", "as_of": "2026-11-18", "date_precision": "day", "system": "Online Passport Application System", "class": "eservices"}
+], "systems": [], "note": "One service named; no count of ten, gateway or usage figure."}}}
+}}

@@ -1,0 +1,28 @@
+{"slug": "2024-01-12-biometric-update-ethiopia-digital-id-wb-private-sector", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No payment corridor stated; the regional project is connectivity and trade infrastructure."}}},
+"dataexchange": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The World Bank's $350 million Digital ID for Inclusion and Services Project will also fund an interoperable data exchange platform in Ethiopia.", "as_of": "2023-12", "date_precision": "month", "system": "interoperable data exchange platform", "class": "exchange"}
+], "systems": [{"system": "interoperable data exchange platform", "country_label": "interoperable data exchange platform", "class": "exchange", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionauthority": {"countries": {"ETH": {"facts": [], "systems": [], "note": "A commission is only a funded plan; no law naming it is stated."}}},
+"dataprotectionlaw": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No law or bill stated."}}},
+"digitalstrategy": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The 2025 Digital Strategy is named but its adoption, text and period are not stated."}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Gives 3.5 million enrolled but no population or share."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Who operates or maintains the ID system is not stated."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No public register keyed on the ID stated."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The article says Ethiopia's Fayda digital ID has already enrolled 3.5 million citizens, as the World Bank backs it with $350 million to reach at least 90 million people.", "as_of": "2024-01", "date_precision": "month", "system": "Fayda", "class": "idsystem"}
+], "systems": [{"system": "Fayda", "country_label": "Fayda", "class": "idsystem", "platform": "", "owner": "National ID Program", "tiers": ""}], "note": ""}}},
+"nonstatefinance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The $30 million private capital is an estimate, not a signed amount."}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No account survey stated."}}},
+"refugees": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Refugee access is a project aim only; no registration or service stated."}}},
+"regionalpolicy": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The Djibouti project is a World Bank financing; no signed agreement or body stated."}}},
+"retailpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Instant payments are named only as something the funds will develop; no licence or pilot stated."}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

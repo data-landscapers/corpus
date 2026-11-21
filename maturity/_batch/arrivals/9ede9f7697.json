@@ -1,0 +1,12 @@
+{"slug": "2026-11-18-nam-who-owns-namibias-digital-economy", "studies": {
+"aiabuse": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No AI harm rule or authority stated."}}},
+"aigovernment": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No sectoral AI use stated."}}},
+"aisystems": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No local AI build or compute stated."}}},
+"datacentres": {"countries": {"NAM": {"facts": [{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "The Windhek Observer analysis says Paratus's Armada data centre is a major private local hosting investment, positioned as a platform for businesses to store information within Namibia.", "as_of": "2026-11-18", "date_precision": "day", "system": "Paratus Armada data centre", "class": "datacentre"}], "systems": [{"system": "Armada data centre", "country_label": "Namibia", "class": "datacentre", "platform": "", "owner": "Paratus", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Only lists data protection legislation as a requirement; no dated statement of absence or bill."}}},
+"digitalsovereignty": {"countries": {"NAM": {"facts": [{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The Windhoek Observer analysis says the government's proposed National Data Centre is intended to strengthen data sovereignty by storing and managing government information locally.", "as_of": "2026-11-18", "date_precision": "day", "system": "National Data Centre", "class": "sovereignty"}], "systems": [{"system": "National Data Centre", "country_label": "Namibia", "class": "sovereignty", "platform": "", "owner": "government", "tiers": ""}], "note": ""}}},
+"domesticfinancing": {"countries": {"NAM": {"facts": [], "systems": [], "note": "N$639.2m figure is loosely 'discussed for this article', not a stated budget line."}}},
+"internationalbandwidth": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Cables mentioned only as opportunity; no landing in service stated."}}},
+"nationaldatacentres": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Ownership of Paratus not stated; National Data Centre only proposed."}}}
+}}

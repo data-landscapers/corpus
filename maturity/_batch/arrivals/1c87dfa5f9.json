@@ -1,0 +1,10 @@
+{"slug": "2026-11-18-moz-executivo-aprova-regulamento-do-cadastro-social-unico-para-organizar-informacao-", "studies": {
+"businessregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document does not mention the business register."}}},
+"civilregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document does not mention the civil register."}}},
+"electoralregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document does not mention the voters' roll."}}},
+"landregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document does not mention the land register."}}},
+"registry": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document does not mention civil registration."}}},
+"socialexchange": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "Cadastro Social Unico", "country_label": "Cadastro Social Unico", "class": "social", "platform": "", "owner": "", "tiers": ""}], "note": "Regulation covers interoperability and sharing rules only; no link is stated built, piloted or in use."}}},
+"socialregistry": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "Cadastro Social Unico", "country_label": "Cadastro Social Unico", "class": "social", "platform": "", "owner": "", "tiers": ""}], "note": "Council of Ministers approved the registry's regulation on 17 November 2026; the document does not say the registry is procured, piloted, populated or in service."}}},
+"taxregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document does not mention the tax register."}}}
+}}

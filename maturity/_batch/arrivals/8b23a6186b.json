@@ -1,0 +1,10 @@
+{"slug": "2026-11-16-nam-huawei-khaire-digital-scholarship-launch", "studies": {
+"aiabuse": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"aigovernment": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"aisectoral": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"aisystems": {"countries": {"NAM": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "ITWeb Africa reports a Huawei initiative to construct a centralised, AI-ready National Data Centre in Namibia, supporting the Sixth National Development Plan.", "as_of": "2026-11-16", "date_precision": "day", "system": "National Data Centre", "class": "localai"}], "systems": [{"system": "National Data Centre", "country_label": "National Data Centre", "class": "localai", "platform": "", "owner": "government", "tiers": ""}], "note": ""}}},
+"civilserviceskills": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Programme is for learners, women and young people, not civil servants."}}},
+"datacentres": {"countries": {"NAM": {"facts": [], "systems": [], "note": "National Data Centre is only being constructed; not in service."}}},
+"digitalskills": {"countries": {"NAM": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Huawei and Namibia's ICT ministry launched the Khai'Re Digital Scholarship Programme in Aus, a five-year scheme to train 1,000 ICT learners and business practitioners and develop 200 women in technology each year.", "as_of": "2026-11-16", "date_precision": "day", "system": "Khai'Re Digital Scholarship Programme", "class": "publicskills"}], "systems": [{"system": "Khai'Re Digital Scholarship Programme", "country_label": "Khai'Re Digital Scholarship Programme", "class": "publicskills", "platform": "", "owner": "Ministry of ICT with Huawei", "tiers": ""}], "note": ""}}},
+"nationaldatacentres": {"countries": {"NAM": {"facts": [], "systems": [], "note": "National Data Centre is only being constructed; not in service."}}}
+}}

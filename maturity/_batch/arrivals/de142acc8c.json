@@ -1,0 +1,13 @@
+{"slug": "2023-12-23-standard-treasury-gazettes-new-ecitizen-fees", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"egovservices": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "The Standard reports that Kenya's ICT Authority launched e-Citizen Services on 30 June 2023 and that Treasury gazetted a Sh5 to Sh50 fee on eCitizen transactions in December 2023; no count of services is given.", "as_of": "2023-06-30", "date_precision": "day", "system": "eCitizen", "class": "eservices"}
+], "systems": [{"system": "eCitizen", "country_label": "Kenya", "class": "eservices", "platform": "", "owner": "ICT Authority", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No ID enrolment figure stated."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No ID system operation stated."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No national ID system stated."}}},
+"itcapacity": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Excerpt names the ICT Authority at the eCitizen launch but states no staff running or building a system."}}}
+}}

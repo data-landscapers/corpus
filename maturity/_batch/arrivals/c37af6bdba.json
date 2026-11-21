@@ -1,0 +1,8 @@
+{"slug": "2026-01-08-mus-la-transformation-numerique-via-le-projet-ehealth-prend-forme", "studies": {
+"dataprotectionlaw": {"countries": {"MUS": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "L'express says security settings provided for by the Data Protection Act will be built into the One Patient, One Record system, treating the Act as the law in force.", "as_of": "2026-01-08", "date_precision": "day", "system": "Data Protection Act", "class": "general"}], "systems": [], "note": ""}}},
+"health": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "L'express reports the Digital Health Company Ltd, a public company under the Ministry of Health and Wellness, holds overall responsibility for the eHealth project, with UNDP support for One Patient, One Record.", "as_of": "2026-01-08", "date_precision": "day", "system": "One Patient, One Record", "class": "emr"},
+{"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "L'express reports staff training on One Patient, One Record has begun at Flacq hospital and will extend to other hospitals, and the company is recruiting staff.", "as_of": "2026-01-08", "date_precision": "day", "system": "One Patient, One Record", "class": "emr"}
+], "systems": [{"system": "One Patient, One Record", "country_label": "OPOR", "class": "emr", "platform": "", "owner": "Digital Health Company Ltd", "tiers": ""}], "note": ""}}},
+"healthmis": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Document describes a patient record project, not a national reporting system."}}}
+}}

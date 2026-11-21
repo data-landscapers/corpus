@@ -1,0 +1,24 @@
+{"slug": "2024-06-22-nimc-denies-data-breach-allegations-to-prosecute-harvesters", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "NIMC said in a June 2024 statement that licensed partners and vendors are authorised to verify National Identification Numbers through approved channels, but not to scan or store NIN slips.", "as_of": "2024-06-22", "date_precision": "day", "system": "NIMC NIN verification through approved channels", "class": "authentication"}
+], "systems": [{"system": "NIMC NIN verification through approved channels", "country_label": "Nigeria", "class": "authentication", "platform": "", "owner": "National Identity Management Commission", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID link."}}},
+"dataprotectionauthority": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Punch reports the Nigeria Data Protection Commission heightened scrutiny of NIMC licensees after the expressverify site breached data protection protocols, showing the body acting.", "as_of": "2024-06-22", "date_precision": "day", "system": "Nigeria Data Protection Commission", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "NIMC said its database meets ISO 27001:2013 with strict compliance with the Nigerian Data Protection Law, treating it as in force.", "as_of": "2024-06-22", "date_precision": "day", "system": "Nigerian Data Protection Law", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Punch reports the Nigeria Data Protection Commission acted by heightening scrutiny of NIMC licensees after the expressverify breach.", "as_of": "2024-06-22", "date_precision": "day", "system": "Nigeria Data Protection Commission", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The Nigeria Data Protection Commission heightened scrutiny of NIMC licensees after the expressverify website breached data protection protocols; no decision is stated.", "as_of": "2024-06-22", "date_precision": "day", "system": "Nigeria Data Protection Commission", "class": "general"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Operation and ownership of the system not stated."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No register keyed on the NIN stated."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIMC manages the national identity database of registered Nigerians holding National Identification Numbers, as reported by The Punch in June 2024.", "as_of": "2024-06-22", "date_precision": "day", "system": "National identity database (NIN)", "class": "idsystem"},
+{"sub_indicator": "robustness", "aspect": "assurance", "value": "certified", "fact": "NIMC said its database meets the ISO 27001:2013 information security standard with annual recertification.", "as_of": "2024-06-22", "date_precision": "day", "system": "National identity database (NIN)", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"internationalstandards": {"countries": {"NGA": {"facts": [], "systems": [], "note": "ISO 27001 cited as database certification only, which places nothing."}}},
+"qualitystandards": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No national standards body or standard stated."}}}
+}}

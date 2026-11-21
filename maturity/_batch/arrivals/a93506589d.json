@@ -1,0 +1,6 @@
+{
+ "slug": "2026-11-20-tun-alchourouk-health-ministry-licensed-telemedicine-platform",
+ "studies": {
+  "healthexchange": {"countries": {"TUN": {"facts": [], "systems": [{"system": "licensed telemedicine platform (unnamed)", "country_label": "Tunisie", "class": "other", "platform": "", "owner": "private initiative licensed by the Ministry of Public Health", "tiers": ""}], "note": "A single telemedicine platform in its first days, with its own patient health identifier; no exchange between health systems is stated."}}}
+ }
+}

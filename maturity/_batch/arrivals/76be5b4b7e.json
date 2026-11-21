@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-16-zaf-itweb-teraco-ai-innovation-lab",
+ "studies": {
+  "aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Article is about a data centre test lab; no AI rule or authority."}}},
+  "aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+  "aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No public sector AI tool stated."}}},
+  "aisystems": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "Digital Realty Innovation Lab, JB3, Isando", "country_label": "South Africa", "class": "other", "platform": "", "owner": "Teraco", "tiers": ""}], "note": "A test lab for high-density cabinets and liquid cooling; no AI model, dataset or GPU computing is stated."}}},
+  "datacentrepower": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Cooling is described, but no PUE, water use, supply or power arrangement is given."}}},
+  "datacentres": {"countries": {"ZAF": {"facts": [
+   {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "ITWeb reports Teraco runs the JB3 data centre at its Isando campus in Johannesburg, and that Teraco's parent Digital Realty provides co-location and interconnection services.", "as_of": "2026-11-16", "date_precision": "day", "system": "Teraco JB3, Isando", "class": "datacentre"}
+  ], "systems": [{"system": "Teraco JB3, Isando", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Teraco", "tiers": ""}], "note": ""}}},
+  "exchangepoints": {"countries": {"ZAF": {"facts": [
+   {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "ITWeb reports Teraco's Isando campus offers NAPAfrica, which provides access to network interconnection.", "as_of": "2026-11-16", "date_precision": "day", "system": "NAPAfrica", "class": "exchange"}
+  ], "systems": [{"system": "NAPAfrica", "country_label": "South Africa", "class": "exchange", "platform": "", "owner": "Teraco", "tiers": ""}], "note": ""}}},
+  "nationaldatacentres": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Teraco's ownership is not stated beyond its parent Digital Realty, so owner and national standing are not recorded."}}}
+ }
+}

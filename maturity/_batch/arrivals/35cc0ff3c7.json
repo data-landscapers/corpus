@@ -1,0 +1,18 @@
+{"slug": "2024-09-29-biometric-update-laxton-ethiopia-90m-digital-id", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"digitalstrategy": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only a digital government strategy soon to be launched, which is not the national class."}}},
+"electoralregister": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Voter registration is mentioned only as work done with Laxton kits; no register in service stated."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "below", "fact": "Biometric Update, citing Laxton, reports eight million people enrolled in Fayda out of nearly 130 million citizens, with about 97 percent lacking a legal or digital ID.", "as_of": "2024-09", "date_precision": "month", "system": "Fayda", "class": "idsystem"}
+], "systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "idsystem", "platform": "MOSIP", "owner": "National ID Program (NIDP)", "tiers": ""}], "note": ""}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "ownership", "value": "owned", "fact": "Biometric Update, citing Laxton, reports Ethiopia's National ID Program runs the Fayda digital ID on MOSIP, an open-source platform, with Laxton supplying registration kits, software, training and technical support.", "as_of": "2024-09", "date_precision": "month", "system": "Fayda", "class": "idsystem"}
+], "systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "idsystem", "platform": "MOSIP", "owner": "National ID Program (NIDP)", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Biometric Update, citing Laxton, reports the MOSIP-based Fayda digital ID of Ethiopia's National ID Program has enrolled eight million people.", "as_of": "2024-09", "date_precision": "month", "system": "Fayda", "class": "idsystem"}
+], "systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "idsystem", "platform": "MOSIP", "owner": "National ID Program (NIDP)", "tiers": ""}], "note": ""}}},
+"internationalstandards": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only a system said to align with ID4D practice, which places nothing."}}}
+}}

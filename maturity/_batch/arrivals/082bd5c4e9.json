@@ -1,0 +1,12 @@
+{"slug":"2026-11-13-dza-cpa-cpazonepay-electronic-payment-from-abroad","studies":{
+"businesspayments":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Nothing on government e-procurement."}}},
+"centralbank":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Nothing on the central bank."}}},
+"consumerprotection":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"DZA":{"facts":[],"systems":[{"system":"CPAzonepay","country_label":"Algeria","class":"other","platform":"Visa and Mastercard","owner":"Crédit Populaire d'Algérie","tiers":""}],"note":"A bank service accepting foreign-issued cards names no corridor or regional system."}}},
+"digitalstrategy":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Only the bank's own digital strategy is mentioned, not a national one."}}},
+"g2ppayments":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"localrecords":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Nothing on local records."}}},
+"paymentsuptake":{"countries":{"DZA":{"facts":[],"systems":[],"note":"No survey share."}}},
+"retailpayments":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Merchant acceptance of foreign cards; no mobile money or wallet service stated."}}},
+"revenuecollection":{"countries":{"DZA":{"facts":[],"systems":[],"note":"Nothing on revenue collection."}}}
+}}

@@ -1,0 +1,195 @@
+{
+ "slug": "2026-11-17-governing-the-code-comparative-ai-lessons-from-east-southern-africa",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule, draft or authority on AI harms stated for the country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule, draft or authority on AI harms stated for the country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule, draft or authority on AI harms stated for the country."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy named only as analysed by Research ICT Africa; no adoption, body set up or funding stated."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy named only as analysed by Research ICT Africa; no adoption, body set up or funding stated."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy named only as analysed by Research ICT Africa; no adoption, body set up or funding stated."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on data centres for the country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on data centres for the country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on data centres for the country."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a measured digital divide for the country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a measured digital divide for the country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a measured digital divide for the country."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a digital strategy for the country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a digital strategy for the country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a digital strategy for the country."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on disability access for the country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on disability access for the country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on disability access for the country."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on national data centres for the country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on national data centres for the country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on national data centres for the country."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "No local institution named; Research ICT Africa is not shown as based in the country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No local institution named; Research ICT Africa is not shown as based in the country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No local institution named; Research ICT Africa is not shown as based in the country."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "No named consultation on a digital law or policy for the country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No named consultation on a digital law or policy for the country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No named consultation on a digital law or policy for the country."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on the country's regional policy action."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on the country's regional policy action."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on the country's regional policy action."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{"slug": "2026-11-17-rwa-digital-id-registration-resumes-in-all-districts", "studies": {
+"authentication": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Self-service verification of personal details is registration, not an authentication service."}}},
+"birthidlink": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"idcoverage": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No count or share of people enrolled stated."}}},
+"idfrombirth": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Operator and ownership of the system not stated."}}},
+"idregisters": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."}}},
+"idrobustness": {"countries": {"RWA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The New Times reports NIDA resumed Single Digital ID registration in all districts on 17 November 2026, running to 16 January 2027, with residents bringing national identity cards and ID numbers.", "as_of": "2026-11-17", "date_precision": "day", "system": "Single Digital ID", "class": "idsystem"}], "systems": [{"system": "Single Digital ID", "country_label": "Single Digital ID", "class": "idsystem", "platform": "", "owner": "NIDA", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Irembo staff help residents verify their details; no other system checks people against the ID."}}},
+"registry": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Civil registration not mentioned."}}}
+}}

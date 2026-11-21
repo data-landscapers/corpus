@@ -1,0 +1,11 @@
+{"slug": "2026-11-18-zaf-home-affairs-passports-480-bank-branches", "studies": {
+"authentication": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No online authentication, e-signature or mobile ID service stated."}}},
+"birthidlink": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on records passing between the civil register and the ID system."}}},
+"digitalidlaw": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No identity law or bill is stated."}}},
+"idcoverage": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No count or share of the population holding an ID stated; only applications processed."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "A campaign to document every citizen by 2029 is stated; no number at birth."}}},
+"idmaintenance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Home Affairs Minister Leon Schreiber says 833 bank branches offer Smart ID replacement and that more than 1.16 million Smart ID applications have been processed at participating bank service points in eight months.", "as_of": "2026-11-18", "date_precision": "day", "system": "Smart ID", "class": "idsystem"}], "systems": [{"system": "Smart ID", "country_label": "South Africa", "class": "idsystem", "platform": "bank branches", "owner": "Department of Home Affairs", "tiers": ""}], "note": "Passport photo matching against the population register is stated, not a duplicate check at ID enrolment."}}},
+"populationregister": {"countries": {"ZAF": {"facts": [{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "Minister Leon Schreiber says that if an applicant's photo does not match the record Home Affairs holds on the population register, the passport will not be manufactured.", "as_of": "2026-11-18", "date_precision": "day", "system": "population register", "class": "population"}], "systems": [], "note": ""}}}
+}}

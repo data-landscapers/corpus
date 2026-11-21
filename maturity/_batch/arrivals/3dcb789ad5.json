@@ -1,0 +1,8 @@
+{"slug": "2026-11-18-mar-intelligence-artificielle-rahhou-prepare-une-loi-pour-encadrer-les-usages-et-pro", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Minister says a legal framework on AI use is at reflection stage with no text presented; no draft is published, so not a draft."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states no government body using AI."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states no AI tool in a public sector system."}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "National language model projects are mentioned only in passing, with no builder, site or release stated."}}},
+"dataprotectionlaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document concerns a future AI framework and states nothing on the general data protection law."}}},
+"digitalsovereignty": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Sovereignty projects are named only in passing; nothing on state data rules, hosting or contracts."}}}
+}}

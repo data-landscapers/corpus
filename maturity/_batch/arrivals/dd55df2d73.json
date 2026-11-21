@@ -1,0 +1,11 @@
+{"slug": "2024-07-03-world-bank-mocambique-documentos-identificacao-gratuitos", "studies": {
+"authentication": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"idcoverage": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "States more than one in two people lack proof of identity, which gives no count or share enrolled."}}},
+"idfrombirth": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No ID number at birth stated."}}},
+"idmaintenance": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Operator and maintenance of the system not stated."}}},
+"idregisters": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The World Bank says Mozambique's DNIC, with EDGE support, delivered at least 140,000 identification documents free in a few months from a national free-ID campaign launched on 2023-11-13.", "as_of": "2024-07-03", "date_precision": "day", "system": "DNIC national identification", "class": "idsystem"}
+], "systems": [{"system": "DNIC national identification", "country_label": "Mozambique", "class": "idsystem", "platform": "", "owner": "DNIC, Ministry of the Interior", "tiers": ""}], "note": ""}}}
+}}

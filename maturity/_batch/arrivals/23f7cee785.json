@@ -1,0 +1,12 @@
+{"slug": "2026-11-17-egy-pib-india-egypt-jtc-upi-instapay-dpi", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a discussion of Indian firms in public tenders; no e-procurement system."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on a central bank role."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on consumer rules."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A UPI-Instapay link is only acknowledged as a potential; no corridor."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Instapay is named only as a potential link; no service status stated."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on tax payment."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A startups forum is a bilateral event; no Egyptian startup law, strategy or fund."}}},
+"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Incubators attended a forum; no hub named."}}}
+}}

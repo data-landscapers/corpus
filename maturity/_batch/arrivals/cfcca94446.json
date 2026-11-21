@@ -1,0 +1,19 @@
+{"slug": "2026-11-16-mar-dgssi-15-security-operations-centres-cybersecurity-law-revision", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "Le Matin reports Morocco's DGSSI is developing AI tools to improve threat detection and analysis and speed incident handling.", "as_of": "2026-11-16", "date_precision": "day", "system": "DGSSI AI threat-detection tools", "class": "govai"}
+], "systems": [{"system": "DGSSI AI threat-detection tools", "country_label": "Morocco", "class": "govai", "platform": "", "owner": "DGSSI", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No sector AI tool stated."}}},
+"aisystems": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Le Matin reports Morocco's DGSSI is developing AI tools for threat detection and has begun creating a laboratory devoted to these technologies.", "as_of": "2026-11-16", "date_precision": "day", "system": "DGSSI AI laboratory and tools", "class": "localai"}
+], "systems": [], "note": ""}}},
+"cybersecurity": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "Le Matin says DGSSI launched maturity studies of banking, transport and energy under Morocco's national cybersecurity strategy to 2030.", "as_of": "2026-11-16", "date_precision": "day", "system": "National cybersecurity strategy 2030", "class": "response"},
+{"sub_indicator": "readiness", "aspect": "response", "value": "responded", "fact": "DGSSI published a 'critical' alert on Thursday 12 November 2026 about attacks on ConnectWise ScreenConnect users.", "as_of": "2026-11-12", "date_precision": "day", "system": "DGSSI", "class": "response"},
+{"sub_indicator": "readiness", "aspect": "cii", "value": "designated", "fact": "Minister Loudyi said a DGSSI study of critical-importance infrastructures found compliance with national requirements above average, with individual reports sent to each institution.", "as_of": "2026-11-16", "date_precision": "day", "system": "DGSSI", "class": "response"},
+{"sub_indicator": "readiness", "aspect": "figures", "value": "recorded", "fact": "DGSSI's watch centre recorded 1,070 security alerts, 81 high-risk, and flagged 2,154 threats to administrations, public bodies and critical infrastructures, in 2026.", "as_of": "2026", "date_precision": "year", "system": "DGSSI watch and response centre", "class": "response"}
+], "systems": [{"system": "DGSSI (Direction generale de la securite des systemes d'information)", "country_label": "DGSSI", "class": "response", "platform": "", "owner": "National Defence Administration", "tiers": ""}], "note": ""}}},
+"cybersecuritylaw": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Le Matin reports the National Defence Administration is working on a revision of Morocco's existing cybersecurity law to adapt it to sector developments.", "as_of": "2026-11-16", "date_precision": "day", "system": "Cybersecurity law", "class": "law"}
+], "systems": [], "note": ""}}}
+}}

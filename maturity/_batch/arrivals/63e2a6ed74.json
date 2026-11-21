@@ -1,0 +1,17 @@
+{"slug": "2026-11-17-ilraj-warns-new-data-law-could-make-it-harder-for-citizens-to-get-info", "studies": {
+"accesstoinformationlaw": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "ILRAJ asks Parliament to keep the safeguards of Sierra Leone's Right to Access Information Act of 2013, which it says scores 126 of 150 on the Global Right to Information Rating, including independent review of rejected requests and appeal to the High Court.", "as_of": "2026-11-17", "date_precision": "day", "system": "Right to Access Information Act 2013", "class": "law"},
+{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "ILRAJ sent Parliament's Legislative Committee 22 amendments to the Data Protection and Right to Access Information Bill, 2026, which would also cover access to information and which it says could weaken the 2013 Act.", "as_of": "2026-11-17", "date_precision": "day", "system": "Data Protection and Right to Access Information Bill, 2026", "class": "law"}
+], "systems": [{"system": "Right to Access Information Act 2013", "country_label": "Sierra Leone", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"authentication": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document mentions national ID numbers only as personal data to protect; no authentication service stated."}}},
+"birthidlink": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on a civil register to ID link."}}},
+"dataprotectionauthority": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The Data Protection Authority is only proposed in a bill; no law names it and no appointment is stated."}}},
+"dataprotectionlaw": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "tabled", "fact": "The Data Protection and Right to Access Information Bill, 2026 is before Parliament's Legislative Committee, which ILRAJ addressed with 22 amendments on 2026-11-17.", "as_of": "2026-11-17", "date_precision": "day", "system": "Data Protection and Right to Access Information Bill, 2026", "class": "general"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on public registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on the national ID system itself."}}}
+}}

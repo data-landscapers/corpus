@@ -1,0 +1,11 @@
+{"slug": "2026-11-19-egy-eu-eib-medusa-submarine-cable", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI rule or authority stated."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "AI named only as a service the cable will support."}}},
+"internationalbandwidth": {"countries": {"EGY": {"facts": [], "systems": [{"system": "Medusa", "country_label": "Medusa Submarine Cable System (Port Said landing)", "class": "route", "platform": "", "owner": "AFR-IX Telecom", "tiers": ""}], "note": "Egypt's Port Said landing is in the second phase, where cable deployment is underway; only the France, Morocco and Tunisia first phase is stated in service."}}},
+"nonstatefinance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The EUR 11.1m grant and EUR 60m loan are for a multi-country system and no amount is named for Egypt; the grant is also for the extension to Jordan."}}},
+"regionalpolicy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No African body or agreement on digital policy stated."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No startup law, strategy or fund stated."}}},
+"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No hub or technology park stated."}}}
+}}

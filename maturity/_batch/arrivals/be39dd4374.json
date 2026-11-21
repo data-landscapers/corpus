@@ -1,0 +1,15 @@
+{"slug": "2026-11-18-gha-mobile-money-fraud-cybersecurity-fintech-roundtable", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only a call for AI oversight; no rule or authority stated."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No public sector AI system stated."}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI built in the country stated."}}},
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "A Bank of Ghana official spoke on fraud; no licensing, switch or PAPSS role stated."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only a call to strengthen complaint handling; no rule, body or enforcement stated."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"cybersecurity": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The Cyber Security Authority is named as a co-organiser only; no incident response, designation or figures stated."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "A Bank of Ghana official said mobile money and digital banking have widened access to financial services in Ghana, and MobileMoney Fintech LTD described serving mobile money customers.", "as_of": "2026-11-18", "date_precision": "day", "system": "mobile money", "class": "retail"}], "systems": [{"system": "MobileMoney Fintech LTD", "country_label": "Ghana", "class": "retail", "platform": "", "owner": "MobileMoney Fintech LTD", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

@@ -1,0 +1,16 @@
+{"slug": "2024-03-01-businessdaily-ayugi-ecitizen-sh50-fee", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on authentication or e-signature services."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on civil register and ID."}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a general claim that data protection rules are complied with; no law named."}}},
+"egovservices": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Business Daily's interview with Webmasters CEO James Ayugi describes the e-Citizen platform as a multi-vendor platform in service for several government institutions, with collections averaging Sh350 million a day.", "as_of": "2024-03-01", "date_precision": "day", "system": "e-Citizen", "class": "eservices"}
+], "systems": [{"system": "e-Citizen", "country_label": "Kenya", "class": "eservices", "platform": "Webmasters", "owner": "Government of Kenya", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on ID enrolment."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "About e-Citizen, not the ID system."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"itcapacity": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "outsourced", "fact": "Webmasters CEO James Ayugi says that after a 2023 handover of IP rights to the government, the firm still provides technical support on e-Citizen under one-to-three-year contracts while knowledge is transferred to government officers.", "as_of": "2024-03-01", "date_precision": "day", "system": "e-Citizen", "class": "staff"}
+], "systems": [], "note": ""}}}
+}}

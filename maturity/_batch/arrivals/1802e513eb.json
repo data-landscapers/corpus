@@ -1,0 +1,7 @@
+{"slug": "2026-11-18-zwe-govt-develops-roadmap-to-implement-national-ai-strategy", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on AI harm rules or an authority."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Sectors named only as potential beneficiaries; no AI tool stated."}}},
+"aistrategy": {"countries": {"ZWE": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Herald reports Zimbabwe's inaugural National AI Strategy 2026-2030 was launched by President Mnangagwa in March 2026 with UNESCO support, and the Ministry of ICT is now drafting an implementation roadmap.", "as_of": "2026-03", "date_precision": "month", "system": "National Artificial Intelligence Strategy 2026-2030", "class": "strategy"}], "systems": [{"system": "National Artificial Intelligence Strategy 2026-2030", "country_label": "Zimbabwe", "class": "strategy", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Computational sovereignty named only as a strategy pillar; no AI model, dataset or computing stated."}}}
+}}

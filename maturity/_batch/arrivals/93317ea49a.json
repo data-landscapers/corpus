@@ -1,0 +1,16 @@
+{"slug": "2026-11-15-uga-pulse-ucc-4500-wifi-operators-licensing-extension", "studies": {
+"businesspayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Not about e-procurement."}}},
+"centralbank": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Not about the central bank or payments."}}},
+"consumerprotection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No digital finance consumer rules mentioned."}}},
+"crossborderpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Not about cross-border payments."}}},
+"dataprotectionlaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Data protection rules are named only as an agent duty, with no law or decision stated."}}},
+"ecommercelaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Not about electronic transactions law."}}},
+"exchangepoints": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No exchange point mentioned."}}},
+"fibrebackbone": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No fibre backbone mentioned."}}},
+"g2ppayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Not about government payments."}}},
+"idverification": {"countries": {"UGA": {"facts": [], "systems": [], "note": "KYC duty is named, with no check against the national ID stated."}}},
+"mobilepenetration": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No phone ownership figure."}}},
+"paymentsuptake": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No survey figure on accounts."}}},
+"retailpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No mobile money service stated beyond a passing analogy."}}},
+"revenuecollection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No tax or fee payment mentioned."}}}
+}}

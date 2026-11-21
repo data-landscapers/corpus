@@ -1,0 +1,20 @@
+{"slug": "2026-11-18-egy-sis-trade-tech-regulatory-sandbox-innovation-hub", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Digital identity named only as an area the sandbox will test; no service stated."}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Digital payments named only as a sandbox theme; no corridor stated."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"health": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A sandbox and hub for trade technology is stated; no startup law, strategy, labelling or fund."}}},
+"techhubs": {"countries": {"EGY": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The State Information Service reports that Prime Minister Madbouly launched the Trade Tech Regulatory Sandbox and Innovation Hub on 18 November 2026, a national platform for startups, universities and the private sector coordinated by the Ministry of Investment and Foreign Trade, with no incubation programme or cohort stated.", "as_of": "2026-11-18", "date_precision": "day", "system": "Trade Tech Regulatory Sandbox and Innovation Hub", "class": "hub"}], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,240 @@
+{
+ "slug": "2026-11-19-gmb-ai-is-arriving-in-the-gambia-are-we-ready-for-the-risks",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says AI use in public institutions is very limited and civil servants use tools informally; no body's system named."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "The author, a cyber security practitioner, says The Gambia has no law written specifically for AI.",
+       "as_of": "2026-11-19",
+       "date_precision": "day",
+       "system": "AI law",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "The author says The Gambia does not yet have a national AI strategy.",
+       "as_of": "2026-11-19",
+       "date_precision": "day",
+       "system": "National AI strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "The author says the current national cybersecurity strategy runs to 2026 (National Cybersecurity Strategy and Action Plan 2022-2026).",
+       "as_of": "2026-11-19",
+       "date_precision": "day",
+       "system": "National Cybersecurity Strategy and Action Plan 2022-2026",
+       "class": "response"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "The author says the Cybercrime Bill introduced in 2024 is still under debate, with press freedom groups raising concerns about some provisions.",
+       "as_of": "2026-11",
+       "date_precision": "month",
+       "system": "Cybercrime Bill",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "enacted",
+       "fact": "The author says the Personal Data Protection and Privacy Act 2025 was assented to in November 2025 and carries penalties of up to 4% of global turnover.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "Personal Data Protection and Privacy Act 2025",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks for The Gambia."
+    }
+   }
+  }
+ }
+}

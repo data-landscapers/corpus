@@ -1,0 +1,13 @@
+{"slug": "2025-09-16-mli-digitalisation-de-la-sante-l-antim-presente-openclinic-devant-le-comit", "studies": {
+"authentication": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No authentication service is stated."}}},
+"birthidlink": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No civil register to ID link is stated."}}},
+"digitalidlaw": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No digital ID law is stated."}}},
+"digitalsovereignty": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Only a general mention of digital sovereignty, with no rule, hosting or contract terms."}}},
+"idcoverage": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No ID coverage figure is stated."}}},
+"idfrombirth": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No ID system operation is stated."}}},
+"idregisters": {"countries": {"MLI": {"facts": [], "systems": [], "note": "A planned link of a hospital system to the national ID number is not a public register."}}},
+"idrobustness": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The national ID number is named with no description of the system."}}},
+"itcapacity": {"countries": {"MLI": {"facts": [], "systems": [{"system": "OpenClinic", "country_label": "Mali", "class": "other", "platform": "", "owner": "ANTIM", "tiers": ""}], "note": "The agency presented OpenClinic, but the page does not say who built or runs it."}}},
+"schoolinternet": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

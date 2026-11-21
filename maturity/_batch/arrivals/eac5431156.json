@@ -1,0 +1,54 @@
+{
+ "slug": "2026-08-12-sdn-suna-gedaref-dhis2-national-training-second-round",
+ "studies": {
+  "health": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "The federal Ministry of Health, through its primary health care and planning directorates, sponsored the second round of the national DHIS2 training workshop in Gedaref for state staff from Khartoum, River Nile and Northern states.",
+       "as_of": "2026-08-12",
+       "date_precision": "day",
+       "system": "DHIS2",
+       "class": "hmis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The federal Ministry of Health is rolling out national DHIS2 training in stages to cover all Sudan's states, with the second round for Khartoum, River Nile and Northern states opened on 12 August 2026.",
+       "as_of": "2026-08-12",
+       "date_precision": "day",
+       "system": "DHIS2",
+       "class": "hmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DHIS2",
+       "country_label": "Sudan",
+       "class": "hmis",
+       "platform": "DHIS2",
+       "owner": "Federal Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

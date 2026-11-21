@@ -1,0 +1,34 @@
+{"slug": "2026-11-18-nigeria-ghana-proposed-hosts-ecowas-regional-payment-system", "studies": {
+"businesspayments": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Not stated."},
+"LBR": {"facts": [], "systems": [], "note": "Not stated."},
+"NGA": {"facts": [], "systems": [], "note": "Not stated."}}},
+"centralbank": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Named only as proposed backup host of an ECOWAS system; a proposal, no central bank role stated."},
+"LBR": {"facts": [{"sub_indicator": "centralbank", "aspect": "regional", "value": "live", "fact": "Central Bank of Liberia Governor Henry Saamoi said on 18 November 2026 that Liberia currently uses PAPSS for settlement of payments with other participating countries.", "as_of": "2026-11-18", "date_precision": "day", "system": "PAPSS", "class": "oversight"}], "systems": [], "note": ""},
+"NGA": {"facts": [{"sub_indicator": "centralbank", "aspect": "regional", "value": "live", "fact": "Nairametrics reports that the Central Bank of Nigeria directed all banks in April 2025 to adopt PAPSS and originate transactions under it, and that a Nigerian payment service bank launched a PAPSS-powered Send to Ghana feature in March 2026.", "as_of": "2026-03", "date_precision": "month", "system": "PAPSS", "class": "oversight"}], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Not stated."},
+"LBR": {"facts": [], "systems": [], "note": "Not stated."},
+"NGA": {"facts": [], "systems": [], "note": "Not stated."}}},
+"crossborderpayments": {"countries": {
+"GHA": {"facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Nairametrics reports that since March 2026 a PAPSS-powered Send to Ghana feature lets people and businesses send and receive money between Nigeria and Ghana in local currencies.", "as_of": "2026-03", "date_precision": "month", "system": "Send to Ghana (PAPSS)", "class": "crossborder"}], "systems": [], "note": ""},
+"LBR": {"facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Central Bank of Liberia Governor Henry Saamoi said payments from Liberian traders to Nigeria or Ghana are settled in local currency through PAPSS, as is done currently.", "as_of": "2026-11-18", "date_precision": "day", "system": "PAPSS", "class": "crossborder"}, {"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "Central Bank of Liberia Governor Henry Saamoi said Liberia currently uses PAPSS for settlement with other participating countries.", "as_of": "2026-11-18", "date_precision": "day", "system": "PAPSS", "class": "crossborder"}], "systems": [], "note": ""},
+"NGA": {"facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Nairametrics reports that in March 2026 a Nigerian payment service bank launched a PAPSS-powered Send to Ghana feature for sending and receiving money between Nigeria and Ghana in local currencies.", "as_of": "2026-03", "date_precision": "month", "system": "Send to Ghana (PAPSS)", "class": "crossborder"}, {"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "Nairametrics reports that the Central Bank of Nigeria directed all banks in April 2025 to adopt PAPSS and begin originating transactions under it.", "as_of": "2025-04", "date_precision": "month", "system": "PAPSS", "class": "crossborder"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Not stated."},
+"LBR": {"facts": [], "systems": [], "note": "Not stated."},
+"NGA": {"facts": [], "systems": [], "note": "Not stated."}}},
+"paymentsuptake": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "No survey figure stated."},
+"LBR": {"facts": [], "systems": [], "note": "No survey figure stated."},
+"NGA": {"facts": [], "systems": [], "note": "No survey figure stated."}}},
+"retailpayments": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "No domestic mobile money or switch stated."},
+"LBR": {"facts": [], "systems": [], "note": "No domestic mobile money or switch stated."},
+"NGA": {"facts": [], "systems": [], "note": "No domestic mobile money or switch stated."}}},
+"revenuecollection": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Not stated."},
+"LBR": {"facts": [], "systems": [], "note": "Not stated."},
+"NGA": {"facts": [], "systems": [], "note": "Not stated."}}}
+}}

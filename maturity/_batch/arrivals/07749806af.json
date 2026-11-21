@@ -1,0 +1,13 @@
+{"slug": "2026-09-30-civ-intelligent-health-systems", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a priority on data governance and an ethical framework for future AI; no rule or authority stated."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "AI is only a future step; no government AI use stated."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "AI deployment is only prepared for; no tool piloted or in service stated."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"civilserviceskills": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a workforce digital skills score in a health maturity assessment; no civil service training stated."}}},
+"digitalskills": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No programme or measured public share stated."}}},
+"health": {"countries": {"CIV": {"facts": [], "systems": [{"system": "SIH", "country_label": "Cote d'Ivoire", "class": "other", "platform": "Hospital Information System", "owner": "DISD", "tiers": ""}, {"system": "DPI", "country_label": "Cote d'Ivoire", "class": "emr", "platform": "Electronic Medical Record", "owner": "DISD", "tiers": ""}, {"system": "OpenELIS", "country_label": "Cote d'Ivoire", "class": "other", "platform": "laboratory system", "owner": "", "tiers": ""}, {"system": "mSupply", "country_label": "Cote d'Ivoire", "class": "other", "platform": "medicines system", "owner": "", "tiers": ""}], "note": "Facility counts only (SIH in 390 facilities, DPI in 258 across 13 regions); no tier, primary clinic share or place of data entry stated."}}},
+"healthexchange": {"countries": {"CIV": {"facts": [], "systems": [{"system": "Sante CIV", "country_label": "Cote d'Ivoire", "class": "other", "platform": "appointments", "owner": "", "tiers": ""}], "note": "Document names interoperability between the platforms as the critical challenge now; no exchange stated in service or under way."}}},
+"healthmis": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No national routine reporting system named."}}},
+"interoperabilitystandards": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only an expectation of common continental standards; none stated for the country."}}},
+"schoolinternet": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on secondary schools stated."}}}
+}}

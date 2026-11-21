@@ -1,0 +1,97 @@
+{
+ "slug": "2025-12-01-civ-7-3-millions-de-dossiers-patients-numerises-en-cote-d-ivoire-pour-un-i",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The national health data centre is not stated to rent to others."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says health data protection remains a concern; no law stated."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Cote d'Ivoire."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "hosted",
+       "value": "national",
+       "fact": "The health informatics director said the Datacenter national de sante secures sensitive health data underpinning the country's 7.3 million electronic patient records in over 400 facilities.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "Datacenter national de sante",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Datacenter national de sante",
+       "country_label": "Cote d'Ivoire",
+       "class": "sovereignty",
+       "platform": "",
+       "owner": "state",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Cote d'Ivoire."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The national health data centre is not stated to rent to others."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Cote d'Ivoire."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on this study stated for Cote d'Ivoire."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,9 @@
+{"slug": "2026-11-20-sen-bad-parc-technologies-numeriques-diamniadio", "studies": {
+"businessregister": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on a business register."}}},
+"datacentres": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The park's data centre is not in service: no confirmed delivery of its IT equipment."}}},
+"nationaldatacentres": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The park's data centre is not in service: no confirmed delivery of its IT equipment."}}},
+"nonstatefinance": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The park is a state project with no private money stated."}}},
+"techhubs": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "An African Development Bank report dated 10 November 2026, relayed by Seneweb, says the Diamniadio Digital Technology Park is 86.4% complete across its four main works contracts, its training centre about 55%, and it remains unfinished and not operational.", "as_of": "2026-11-10", "date_precision": "day", "system": "Parc des technologies numeriques de Diamniadio", "class": "hub"}
+], "systems": [{"system": "Parc des technologies numeriques de Diamniadio", "country_label": "Senegal", "class": "hub", "platform": "", "owner": "Government of Senegal", "tiers": ""}], "note": ""}}}
+}}

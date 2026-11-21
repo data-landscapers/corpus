@@ -1,0 +1,15 @@
+{"slug": "2024-07-04-nimc-denies-data-breach-whistler", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "NIMC's IT director says the commission has licensed verification partners and APIs through which agencies consume NIMC identity data.", "as_of": "2024-07-04", "date_precision": "day", "system": "NIMC verification API", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "NIMC's IT director says several licensed verification partners and agencies access NIMC data through its APIs and protocols.", "as_of": "2024-07-04", "date_precision": "day", "system": "NIMC verification API", "class": "authentication"}
+], "systems": [{"system": "NIMC verification API", "country_label": "NIMC APIs and licensed verification partners", "class": "authentication", "platform": "", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Who operates or maintains the system is not stated beyond NIMC's role."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No public register keyed on the NIN stated."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIMC says it controls the biggest identity database in Africa, holding the NINs of Nigerians under its care.", "as_of": "2024-07-04", "date_precision": "day", "system": "NIMC identity database", "class": "idsystem"}
+], "systems": [{"system": "NIMC identity database", "country_label": "NIMC identity database", "class": "idsystem", "platform": "", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+"policyresearch": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Paradigm Initiative appears only as the source of a breach allegation; no research or publication stated."}}}
+}}

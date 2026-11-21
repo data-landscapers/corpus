@@ -1,0 +1,13 @@
+{"slug": "2026-11-16-gov-bw-voter-registration-omang-requirement", "studies": {
+"authentication": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No electronic authentication service stated."}}},
+"birthidlink": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No civil register to ID link stated."}}},
+"electoralregister": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "electoral", "aspect": "checked", "value": "open", "fact": "The Government of Botswana page says citizens can check the voters' roll at their constituency polling station during general registration periods and at the Principal Registration Officer's office at other times, and non-residents at embassies and consular missions.", "as_of": "2026-11-16", "date_precision": "day", "system": "voters' roll", "class": "electoral"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No ID enrolment figure stated."}}},
+"idfrombirth": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No operation or ownership of the ID system stated."}}},
+"idregisters": {"countries": {"BWA": {"facts": [], "systems": [], "note": "A valid Omang card is presented to register, but no register is said to be keyed on the ID number."}}},
+"idrobustness": {"countries": {"BWA": {"facts": [], "systems": [], "note": "The Omang is named as a requirement only; no system detail stated."}}},
+"localgov": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No local government connection stated."}}}
+}}

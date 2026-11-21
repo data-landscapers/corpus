@@ -1,0 +1,16 @@
+{"slug": "2026-11-13-mauritanie-691-millions-d-euros-de-financements-de-la-banque-mondiale", "studies": {
+"businesspayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitalstrategy": {"countries": {"MRT": {"facts": [], "systems": [], "note": "A national digital transformation agenda is named but not described; the e-commerce strategy is a thematic strategy, out of scope."}}},
+"g2ppayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Tekavoul is said to be cash transfers, with no digital payment stated."}}},
+"internationalbandwidth": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only a workshop on a second submarine cable; nothing says a cable is in service."}}},
+"paymentsuptake": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No survey share of adults with an account."}}},
+"regionalpolicy": {"countries": {"MRT": {"facts": [], "systems": [], "note": "WARDIP is a World Bank financing; no African body or agreement is named."}}},
+"retailpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Electronic payments are only a stated aim of the WARDIP financing."}}},
+"revenuecollection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes or fees."}}},
+"socialexchange": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No link between social protection systems is stated."}}},
+"socialprotection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No programme management information system is described."}}},
+"socialregistry": {"countries": {"MRT": {"facts": [{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "Le Quotidien de Nouakchott reports that a World Bank IDA financing signed 21 August 2026 is to strengthen Mauritania's Registre social, described as the tool that identifies vulnerable households to target public interventions.", "as_of": "2026-11-13", "date_precision": "day", "system": "Registre social", "class": "social"}], "systems": [{"system": "Registre social", "country_label": "Mauritania", "class": "social", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+}}

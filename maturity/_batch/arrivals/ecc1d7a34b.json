@@ -1,0 +1,9 @@
+{"slug": "2026-11-16-prado-tunisia-national-identity-card-tun-bo-01001", "studies": {
+"authentication": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A card specimen record; no authentication service is stated."}}},
+"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on a civil register link."}}},
+"idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No enrolment count or share is stated."}}},
+"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Who operates or owns the system is not stated."}}},
+"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No register keyed on the ID is stated."}}},
+"idrobustness": {"countries": {"TUN": {"facts": [], "systems": [{"system": "Carte d'identite nationale", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The record describes the card's physical features only (first issued 2008, UV overprint); no unique number, biometric check or certification is stated."}}}
+}}

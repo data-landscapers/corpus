@@ -1,0 +1,16 @@
+{"slug": "2026-11-19-ken-nairobi-forum-africa-voice-global-ai-governance", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Forum discussion of AI governance; no Kenyan AI harm rule or authority stated."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No sectoral public-system AI stated."}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in Kenya stated."}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Capital FM says Kenya has established legal safeguards under the Data Protection Act, 2019, whose Section 37 requires express consent for commercial use of personal data.", "as_of": "2026-11-19", "date_precision": "day", "system": "Data Protection Act, 2019", "class": "general"}
+], "systems": [], "note": ""}}},
+"digitaldivides": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The digital divide is mentioned only in general terms; no rural programme or survey stated."}}},
+"digitalsovereignty": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Sovereignty discussed by speakers; no government goal, rule, hosting or contract terms for state data stated."}}},
+"opendatause": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A speaker addressed open data in general; no public body portal or dataset stated."}}},
+"policyresearch": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "research", "aspect": "research", "value": "begun", "fact": "The University of Nairobi Faculty of Law hosted the inaugural Global Forum on Digital Intelligence, Rule of Law and Interdisciplinary Governance on 2026-11-17, where scholars presented research on data and AI governance, and organisers intend to sustain it through joint research.", "as_of": "2026-11-17", "date_precision": "day", "system": "University of Nairobi Faculty of Law", "class": "research"}
+], "systems": [], "note": ""}}},
+"regionalpolicy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Forum is China-Africa and academic; no African body membership or agreement stated for Kenya."}}}
+}}

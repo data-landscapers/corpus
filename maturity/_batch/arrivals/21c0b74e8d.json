@@ -1,0 +1,11 @@
+{"slug": "2025-09-21-lapresse-carte-identite-biometrique-lancement", "studies": {
+"authentication": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Article is about the biometric ID card, no authentication service stated."}}},
+"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"dataprotectionlaw": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Mentions data protection standards for the card only; no data protection law stated."}}},
+"digitalidlaw": {"countries": {"TUN": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "La Presse reports that Tunisia has adopted the law framing the biometric identity card and that implementing decrees on its model, technical specifications and security standards are being prepared, with the date of entry into force still to be announced.", "as_of": "2025-09-21", "date_precision": "day", "system": "biometric identity card law", "class": "law"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No count or share of people enrolled stated."}}},
+"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No statement of who operates or maintains the system."}}},
+"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"TUN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "La Presse reports Tunisia is preparing to launch a biometric identity card, its law adopted and decrees being prepared, with launch date awaiting legal and logistical preparations.", "as_of": "2025-09-21", "date_precision": "day", "system": "carte d'identite biometrique", "class": "idsystem"}], "systems": [{"system": "carte d'identite biometrique", "country_label": "Biometric identity card", "class": "idsystem", "platform": "", "owner": "Ministry of Interior", "tiers": ""}], "note": ""}}}
+}}

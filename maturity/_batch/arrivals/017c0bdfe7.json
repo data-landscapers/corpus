@@ -1,0 +1,9 @@
+{"slug": "2026-11-13-ben-gouv-wuhan-snaeia-mou-unesco-ai-pilot", "studies": {
+"aiabuse": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on AI rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on a government body using AI in administration."}}},
+"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on AI in a public sector system."}}},
+"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "A training pilot and an MoU; no AI model, dataset or computing built or hosted in Benin."}}},
+"civilserviceskills": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The training is for young people, not civil servants."}}},
+"digitalskills": {"countries": {"BEN": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "The Beninese government says that, with UNESCO support, Benin was designated first pilot country of the SNAEIA network's AI initiative, whose programme provides training and capacity building in digital tools and skills for young Beninese.", "as_of": "2026-11-11", "date_precision": "day", "system": "SNAEIA network AI initiative (pilot country)", "class": "publicskills"}], "systems": [{"system": "SNAEIA network AI initiative", "country_label": "Benin", "class": "publicskills", "platform": "", "owner": "Sino-North Africa Education Innovation Association, with UNESCO support", "tiers": ""}], "note": ""}}},
+"stemgraduates": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No STEM graduate share and no research and education network stated."}}}
+}}

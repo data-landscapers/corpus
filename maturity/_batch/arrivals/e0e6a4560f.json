@@ -1,0 +1,13 @@
+{"slug": "2026-11-16-gov-bw-shared-digital-services", "studies": {
+"authentication": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Identity and access management named is for the department's enterprise systems, not national ID authentication."}}},
+"birthidlink": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}},
+"datacentres": {"countries": {"BWA": {"facts": [], "systems": [{"system": "Government data centre (Department of Shared Digital Services)", "country_label": "Botswana", "class": "other", "platform": "", "owner": "Government of Botswana", "tiers": ""}], "note": "The government data centre serves ministries; renting to outside organisations and a Tier are not stated."}}},
+"idcoverage": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on a national ID system."}}},
+"idfrombirth": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on birth numbers."}}},
+"idmaintenance": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on a national ID system."}}},
+"idregisters": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on registers."}}},
+"idrobustness": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on a national ID system."}}},
+"nationaldatacentres": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "national", "aspect": "state", "value": "hosted", "fact": "Botswana's Department of Shared Digital Services runs data centre services including hosting and application hosting for ministries and co-location management, according to the government's page.", "as_of": "2026-11-16", "date_precision": "day", "system": "Government data centre (Department of Shared Digital Services)", "class": "datacentre"}
+], "systems": [{"system": "Government data centre (Department of Shared Digital Services)", "country_label": "Botswana", "class": "datacentre", "platform": "", "owner": "Government of Botswana", "tiers": ""}], "note": ""}}}
+}}

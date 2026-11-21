@@ -1,0 +1,13 @@
+{"slug": "2026-11-17-gha-bog-notice-45-unlicensed-digital-credit-providers", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Notice covers licensing of digital credit providers and cautions PSPs; it states no payments mandate, payment-provider licensing, switch or PAPSS."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "protection", "aspect": "rules", "value": "inforce", "fact": "The Bank of Ghana's Notice BG/GOV/SEC/2026/45 of 17 November 2026 names 19 mobile loan apps operating in contravention of the Directive for Digital Credit Service Providers in Ghana (September 2025), saying they violate customer data privacy and consumer protection.", "as_of": "2026-11-17", "date_precision": "day", "system": "Directive for Digital Credit Service Providers in Ghana (September 2025)", "class": "protection"}],
+"systems": [], "note": ""}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"cybersecurity": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Names the Cyber Security Authority only as a collaborator; no creation, incident response or designation stated."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No mobile money or retail payment service described."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

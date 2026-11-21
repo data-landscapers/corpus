@@ -1,0 +1,32 @@
+{
+ "slug": "2025-07-03-tcd-chad-begins-drafting-digital-health-program-to-tackle-medical-staff-ga",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DataReportal early 2025: 13.2% internet penetration",
+       "country_label": "DataReportal early 2025: 13.2% internet penetration",
+       "class": "other",
+       "platform": "",
+       "owner": "DataReportal",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a DataReportal figure, which the study notes and does not use."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{"slug": "2026-09-30-tza-tanzania-yajipanga-kufadhili-na-kupanua-afya-kidijitali", "studies": {
+"coresystems": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No finance, revenue or payroll system stated."}}},
+"customs": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on customs."}}},
+"health": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "emr", "aspect": "tiers", "value": "T1;T2;T4", "fact": "Deputy Health Minister Dr Florence Samizi said on 2026-09-30 that electronic patient records reached 100 percent in national, specialised, zonal referral and regional hospitals, nearly 99 percent in district hospitals and over 67 percent in dispensaries.", "as_of": "2026-09-30", "date_precision": "day", "system": "electronic patient records", "class": "emr"},
+{"sub_indicator": "emr", "aspect": "clinics", "value": "share:67%", "fact": "Deputy Health Minister Dr Florence Samizi said on 2026-09-30 that electronic patient records had reached over 67 percent of dispensaries in Tanzania.", "as_of": "2026-09-30", "date_precision": "day", "system": "electronic patient records", "class": "emr"}
+], "systems": [{"system": "GoTHOMIS", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": "links 7,700 facilities incl. over 6,400 dispensaries"}], "note": ""}}},
+"healthmis": {"countries": {"TZA": {"facts": [], "systems": [{"system": "GoTHOMIS", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": "links 7,700 facilities"}], "note": "GoTHOMIS is said to link 7,700 facilities but the document does not say it carries routine reporting to the ministry."}}},
+"justice": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on justice."}}},
+"police": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on police."}}}
+}}

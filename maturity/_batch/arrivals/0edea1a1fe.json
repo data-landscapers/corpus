@@ -1,0 +1,8 @@
+{"slug": "2026-11-15-sdn-suna-taxation-chamber-ends-paper-invoices-e-invoice-mandatory", "studies": {
+"coresystems": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No core finance, revenue or payroll system stated."}}},
+"customs": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Customs not mentioned."}}},
+"health": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"healthmis": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"taxadmin": {"countries": {"SDN": {"facts": [], "systems": [{"system": "electronic invoice (Baladna registration)", "country_label": "Taxation Chamber e-invoice", "class": "other", "platform": "Baladna platform", "owner": "Sudan Taxation Chamber", "tiers": ""}], "note": "Electronic invoicing with no filing or payment stated is not a tax filing system."}}},
+"taxregister": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Registration for e-invoicing is not a taxpayer register."}}}
+}}

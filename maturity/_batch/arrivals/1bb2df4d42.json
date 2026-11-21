@@ -1,0 +1,249 @@
+{
+ "slug": "2026-11-16-civ-wearetech-faba-finance-credit-platform-ghost-score",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "Faba Finance, founded in Abidjan in 2025, developed the AI scoring tool Ghost Score, which has been in pilot use since 18 May 2026 and handled over 1,000 financing requests by end-October 2026.",
+       "as_of": "2026-05-18",
+       "date_precision": "day",
+       "system": "Ghost Score",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghost Score",
+       "country_label": "Faba Finance Ghost Score",
+       "class": "localai",
+       "platform": "mobile app",
+       "owner": "Faba Finance (private company)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Ghost Score is developed by an Abidjan company; Senegal is only a pilot market."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Private credit-matching startup profile; nothing stated that answers this study."
+    }
+   }
+  }
+ }
+}

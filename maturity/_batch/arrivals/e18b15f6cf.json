@@ -1,0 +1,12 @@
+{"slug": "2026-03-25-zmb-smart-zambia-pushes-to-eliminate-paper-patient-files-to-electronic-hea", "studies": {
+"authentication": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Digital ID is only described as future; no authentication service stated."}}},
+"birthidlink": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on the civil register stated."}}},
+"egovservices": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Only a World Bank project to expand e-government services; no online service stated."}}},
+"idcoverage": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No enrolment in a national ID stated; only a target of four million digital IDs by 2030."}}},
+"idfrombirth": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on a number at birth stated."}}},
+"idmaintenance": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on who operates or owns an ID system stated."}}},
+"idregisters": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No register keyed on a national ID stated."}}},
+"idrobustness": {"countries": {"ZMB": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "SMART Zambia's national coordinator said it will be building a national digital identity ecosystem, with a plan to issue four million digital IDs by 2030 under the World Bank-funded Digital Zambia Acceleration Project.", "as_of": "2026-03-25", "date_precision": "day", "system": "national digital identity ecosystem", "class": "idsystem"}], "systems": [{"system": "national digital identity ecosystem", "country_label": "Zambia", "class": "idsystem", "platform": "", "owner": "Smart Zambia Institute", "tiers": ""}], "note": ""}}},
+"itcapacity": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "SmartCare Pro is deployed in 2,054 facilities but the document does not say who builds or runs it."}}},
+"revenuecollection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Digital ID is only said to be usable for paying taxes in future; no electronic payment stated."}}}
+}}

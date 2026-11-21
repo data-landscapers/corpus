@@ -1,0 +1,22 @@
+{"slug": "2025-01-26-shega-data-centre-oversight-eca", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on civil register and ID link."}}},
+"datacentres": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Ethiopian Communications Authority Director General Balcha Reba told Shega that Wingu Africa, Redfox and Raxio, which provide Data Center as a Service, have begun operations after investing tens of millions of dollars.", "as_of": "2025-01", "date_precision": "month", "system": "Wingu Africa, Redfox, Raxio DCaaS", "class": "datacentre"}
+], "systems": [{"system": "Wingu Africa", "country_label": "Ethiopia", "class": "datacentre", "platform": "Data Center as a Service", "owner": "Wingu Africa", "tiers": ""}, {"system": "Redfox", "country_label": "Ethiopia", "class": "datacentre", "platform": "Data Center as a Service", "owner": "Redfox", "tiers": ""}, {"system": "Raxio", "country_label": "Ethiopia", "class": "datacentre", "platform": "Data Center as a Service", "owner": "Raxio", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "Shega reports the personal data protection bill was ratified in April 2024, with the Communications Authority given oversight and codifying implementing directives; no commencement is stated.", "as_of": "2024-04", "date_precision": "month", "system": "Personal Data Protection proclamation", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Shega reports the Ethiopian Communications Authority, established under Proclamation 1148/2019, has had oversight over personal data protection added to its powers since April 2024.", "as_of": "2025-01", "date_precision": "month", "system": "Ethiopian Communications Authority", "class": "general"}
+], "systems": [], "note": ""}}},
+"gendergap": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Digital gender divide mentioned with no figure."}}},
+"gridreliability": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only generation capacity stated, which sets nothing."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on ID enrolment."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on ID operation."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on registers keyed on ID."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on the ID system."}}},
+"nationaldatacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Ownership of the three data centre providers is not stated."}}},
+"opendiscussion": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Shega cites a Center for Rights and Democracy report of at least 26 internet shutdowns in Ethiopia since 2016, with no date given for the latest.", "as_of": "2016", "date_precision": "year", "system": "Internet shutdowns", "class": "discussion"}
+], "systems": [], "note": ""}}}
+}}

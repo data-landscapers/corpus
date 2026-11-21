@@ -1,0 +1,36 @@
+{"slug": "2026-11-17-mar-ai-rural-internet-access-and-public-services-ahmed-rahhou-unveils-moroccos-next", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only planned standards and guidelines for AI use in administration; no rule, draft or authority on AI harms."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "Minister Ahmed Rahhou told the House of Representatives that his ministry is developing AI assistants, one to guide businesses through administrative procedures and a legal assistant for searching legislation and preparing draft laws and decrees, and plans pilot projects in other departments.", "as_of": "2026-11-16", "date_precision": "day", "system": "AI agents", "class": "govai"}
+], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No AI tool in a sector's public system is stated."}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Home-grown models, cloud and Jazari institutes are stated as plans or goals with no builder or site for a model, dataset or computing facility."}}},
+"authentication": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Digital identity adoption is only a stated priority."}}},
+"birthidlink": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"broadbandstrategy": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "Minister Rahhou said rural coverage in 2,000 areas in 2026 forms part of the second phase of the National Broadband and Ultra-Broadband Development Plan.", "as_of": "2026-11-16", "date_precision": "day", "system": "National Broadband and Ultra-Broadband Development Plan", "class": "plan"}
+], "systems": [], "note": ""}}},
+"businesspayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"civilserviceskills": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "Minister Rahhou said his ministry plans several rounds of digital and change-management training for officials through the Raed network, and to expand the Digital Academy platform for public administrations, with training for civil servants in AI pilot projects.", "as_of": "2026-11-16", "date_precision": "day", "system": "Raed network; Digital Academy", "class": "csskills"}
+], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"dataprotectionlaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only a general aim of strengthening personal data protection; no law stated."}}},
+"digitaldivides": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "Minister Rahhou announced internet coverage will be activated in 2026 in 2,000 rural areas with poor or no access, under the second phase of the National Broadband and Ultra-Broadband Development Plan, with VSAT considered for hard-to-reach villages.", "as_of": "2026-11-16", "date_precision": "day", "system": "National Broadband and Ultra-Broadband Development Plan, phase 2", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idcoverage": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No enrolment figure stated."}}},
+"idfrombirth": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on ID numbers at birth."}}},
+"idmaintenance": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only a stated priority to speed data sharing between departments; no register keyed on the ID number."}}},
+"idrobustness": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"paymentsuptake": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only a stated priority for electronic payments; no service described."}}},
+"revenuecollection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"satellitebroadband": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Starlink and new satellite networks are only to be explored with ANRT; nothing licensed or on sale."}}},
+"startups": {"countries": {"MAR": {"facts": [], "systems": [], "note": "A start-up financing mechanism of 2.5 billion dirhams is to be activated; no law, labelling or financing stated."}}},
+"techhubs": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Jazari institutes are research and innovation institutes, not startup hubs with programmes."}}}
+}}

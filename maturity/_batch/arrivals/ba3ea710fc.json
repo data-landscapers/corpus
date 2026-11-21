@@ -1,0 +1,11 @@
+{"slug": "2026-11-16-egy-mcit-tripartite-mou-ai-cloud", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on AI harm rules."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government body's AI use stated."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No sector system named."}}},
+"aistrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Names the Second Edition of the National AI Strategy only as a pillar; no adoption, body or funding stated."}}},
+"aisystems": {"countries": {"EGY": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Under a tripartite MoU signed with the ICT minister present, e& Business is set to introduce GPU-as-a-Service in Egypt so companies and startups can train and run AI models in the country, per MCIT.", "as_of": "2026-11-16", "date_precision": "day", "system": "GPU-as-a-Service", "class": "localai"}], "systems": [{"system": "GPU-as-a-Service", "country_label": "Egypt", "class": "localai", "platform": "cloud", "owner": "e& Business", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No data centre for hire in service is stated; e& only seeks to expand its offerings."}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No data centre, owner or tier stated."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No startup law, label or fund stated."}}},
+"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Startup Egypt is named but no hub programme is described."}}}
+}}

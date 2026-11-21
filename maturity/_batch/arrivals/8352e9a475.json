@@ -1,0 +1,6 @@
+{"slug": "2026-09-30-mdg-validation-du-cadre-national-d-architecture-d-entreprise-de-la-sante-n", "studies": {
+"coresystems": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on finance, tax or payroll systems."}}},
+"healthexchange": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Only an interoperability framework document and enterprise architecture awaiting validation; no exchange between health systems stated in service or being built."}}},
+"interoperability": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The CNISN is a framework for the health sector only, which the study notes and does not place."}}},
+"publicconsultation": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The validation workshop names ministry, institutions, donors and experts as participants, none clearly outside government."}}}
+}}

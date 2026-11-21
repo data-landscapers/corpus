@@ -1,0 +1,144 @@
+{
+ "slug": "2026-11-16-lbr-mme-trains-certifies-geologists-mining-consultancy-firms-on-licensing",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "Liberia's Deputy Minister for Operations said the Ministry of Mines and Energy's online application system for mineral exploration and mining licences and permits, introduced in 2026, was fully operational.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "MME online licensing portal",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MME online licensing portal",
+       "country_label": "MME online licensing portal",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Ministry of Mines and Energy",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a mining cadastre administration is named; not a land register."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Liberian Observer reports that consultants were briefed on the Liberia Revenue Authority's online payment system, used alongside the Ministry of Mines and Energy's online licence applications.",
+       "as_of": "2026-11-12",
+       "date_precision": "day",
+       "system": "LRA online payment system",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "LRA online payment system",
+       "country_label": "LRA online payment system",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Liberia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

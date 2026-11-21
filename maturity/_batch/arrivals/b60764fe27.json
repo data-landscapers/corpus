@@ -1,0 +1,171 @@
+{
+ "slug": "2026-11-20-airtel-money-upgrades-mobile-money-platform-in-malawi-and-tanzania",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Airtel Money's mobile money service in Malawi, on which customers send money, buy airtime and pay merchants, was moved to an enhanced platform powered by Comviva's mobiquity Pay, reported by Tech Africa News.",
+       "as_of": "2026-11-20",
+       "date_precision": "day",
+       "system": "Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Malawi",
+       "class": "retail",
+       "platform": "Comviva mobiquity Pay",
+       "owner": "Airtel Money",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Airtel Money's mobile money service in Tanzania, on which customers send money, buy airtime and pay merchants, was moved to an enhanced platform powered by Comviva's mobiquity Pay, reported by Tech Africa News.",
+       "as_of": "2026-11-20",
+       "date_precision": "day",
+       "system": "Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Tanzania",
+       "class": "retail",
+       "platform": "Comviva mobiquity Pay",
+       "owner": "Airtel Money",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  }
+ }
+}

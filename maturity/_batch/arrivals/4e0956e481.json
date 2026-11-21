@@ -1,0 +1,13 @@
+{"slug": "2025-01-23-bdi-au-burundi-la-digitalisation-pour-interconnecter-les-services-du-minis", "studies": {
+"dataexchange": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The digitalisation architecture plan aims at data exchange inside the health ministry but names no platform built or live."}}},
+"educationexchange": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document says nothing on education."}}},
+"educationmis": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document says nothing on education."}}},
+"health": {"countries": {"BDI": {"facts": [], "systems": [], "note": "55 hospitals are said to be digitised, but the document does not say they hold patient records or report routinely, nor which tiers."}}},
+"healthexchange": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only a plan to interconnect ministry services; no exchange between health systems in service is stated."}}},
+"healthmis": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "underway", "fact": "Enabel says it gave important support to setting up digital platforms for Burundi's health ministry including DHIS2, a tool for health indicators, without stating national coverage.", "as_of": "2025-01-23", "date_precision": "day", "system": "DHIS2", "class": "hmis"}],
+"systems": [{"system": "DHIS2", "country_label": "Burundi", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Public Health and the Fight against AIDS", "tiers": ""}], "note": ""}}},
+"publicconsultation": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Workshop validated an internal ministry plan with ministry departments and development partners; no outside-government participant is named."}}},
+"schoolinternet": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document says nothing on schools."}}},
+"schools": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document says nothing on schools."}}}
+}}

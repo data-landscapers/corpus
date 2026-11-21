@@ -1,0 +1,15 @@
+{"slug": "2026-11-15-mwi-mana-namalomba-ictam-agm-tech-exports", "studies": {
+"aiabuse": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No AI harm rule stated."}}},
+"aigovernment": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"MWI": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Malawi's ICT minister Shadric Namalomba cited the formulation of the National AI Policy, in line with MW2063, as a government effort.", "as_of": "2026-11-13", "date_precision": "day", "system": "National AI Policy", "class": "strategy"}], "systems": [{"system": "National AI Policy", "country_label": "National AI Policy", "class": "strategy", "platform": "", "owner": "Ministry of ICT", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No local AI build stated."}}},
+"businesspayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"centralbank": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"consumerprotection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"crossborderpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"g2ppayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"paymentsuptake": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No survey figure stated."}}},
+"retailpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "A bank sponsor is named; no payment service stated."}}},
+"revenuecollection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Not mentioned."}}}
+}}

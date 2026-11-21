@@ -1,0 +1,11 @@
+{"slug": "2026-11-17-lbr-moh-sand-technologies-assess-digital-health-progress-ahead-of-december-emr-deployment", "studies": {
+"coresystems": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on finance, tax or payroll systems."}}},
+"digitalstrategy": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The release names a digital health transformation agenda, not a national digital strategy."}}},
+"educationexchange": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on education systems."}}},
+"educationmis": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on education systems."}}},
+"health": {"countries": {"LBR": {"facts": [], "systems": [{"system": "Electronic Medical Record (EMR) systems", "country_label": "Liberia", "class": "emr", "platform": "", "owner": "Ministry of Health / Sand Technologies", "tiers": ""}], "note": "A planned December 2026 EMR deployment and a readiness review are a plan and a meeting, not a dated act on a named system."}}},
+"healthmis": {"countries": {"LBR": {"facts": [], "systems": [{"system": "National Health Intelligence Center", "country_label": "Liberia", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""}], "note": "The NHIC is described as integrating data for decisions; no national routine reporting system is stated."}}},
+"justice": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on court systems."}}},
+"schools": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"taxadmin": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on tax administration."}}}
+}}

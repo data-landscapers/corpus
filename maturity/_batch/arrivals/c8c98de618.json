@@ -1,0 +1,6 @@
+{"slug": "2026-11-18-cmr-cameroon-tribune-armp-pridesoft-formation-littoral", "studies": {
+"businesspayments": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "Cameroon Tribune reports the public procurement regulator ARMP's Littoral centre is training 20 procurement actors from 16 November 2026 to use Pridesoft, Cameroon's integrated open public procurement management system, whose use is to be consolidated in administrations.", "as_of": "2026-11-16", "date_precision": "day", "system": "Pridesoft", "class": "procurement"}
+], "systems": [{"system": "Pridesoft", "country_label": "Cameroon", "class": "procurement", "platform": "", "owner": "ARMP", "tiers": ""}], "note": ""}}},
+"egovservices": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Pridesoft is a procurement system, not a citizen service portal."}}}
+}}

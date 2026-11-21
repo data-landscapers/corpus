@@ -1,0 +1,14 @@
+{"slug": "2026-11-15-press-release-proof-of-concept-cross-border-remittance-cambodia-rwanda", "studies": {
+"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The release says the central banks launched a proof of concept; it states no licensing or switch oversight role."}}},
+"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "underway", "fact": "The National Bank of Rwanda and the National Bank of Cambodia jointly launched a proof of concept on 15 November 2026 linking Cambodia's Bakong to Rwanda's eKash, run by R-Switch, so customers in Cambodia can send money to Rwandan bank accounts and wallets.", "as_of": "2026-11-15", "date_precision": "day", "system": "Cambodia-Rwanda Bakong-eKash cross-border remittance proof of concept", "class": "crossborder"}],
+"systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "The joint central-bank release describes eKash, operated by R-Switch, as Rwanda's national payment system, through which funds reach beneficiaries' bank accounts and digital wallets.", "as_of": "2026-11-15", "date_precision": "day", "system": "eKash", "class": "retail"}],
+"systems": [{"system": "eKash", "country_label": "Rwanda", "class": "retail", "platform": "", "owner": "R-Switch", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

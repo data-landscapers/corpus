@@ -1,0 +1,138 @@
+{
+ "slug": "2026-11-19-who-is-actually-using-ai-in-africa-it-depends-on-whom-you-count",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey comparison of AI use by people; no government, sector, rule or build stated."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey comparison of AI use by people; no government, sector, rule or build stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey comparison of AI use by people; no government, sector, rule or build stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey comparison of AI use by people; no government, sector, rule or build stated."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey comparison of AI use by people; no government, sector, rule or build stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey comparison of AI use by people; no government, sector, rule or build stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey comparison of AI use by people; no government, sector, rule or build stated."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey comparison of AI use by people; no government, sector, rule or build stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey comparison of AI use by people; no government, sector, rule or build stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey comparison of AI use by people; no government, sector, rule or build stated."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey comparison of AI use by people; no government, sector, rule or build stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Survey comparison of AI use by people; no government, sector, rule or build stated."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only DataReportal penetration figures, which the study notes and never uses."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only DataReportal penetration figures, which the study notes and never uses."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only DataReportal penetration figures, which the study notes and never uses."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not covered."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Not covered."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Not covered."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not covered."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Not covered."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Not covered."
+    }
+   }
+  }
+ }
+}

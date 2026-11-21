@@ -1,0 +1,12 @@
+{"slug": "2026-11-13-civ-linfodrome-leo-satellites-mobile-rural-connectivity-panel", "studies": {
+"businesspayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No consumer rules stated."}}},
+"crossborderpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No payment corridor stated."}}},
+"domesticfinancing": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No budget amount or state fund stated; financing split for satellite solutions is only under study."}}},
+"g2ppayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government payments stated."}}},
+"paymentsuptake": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No account survey share stated."}}},
+"retailpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Mobile payment named only as a rural need, not a service status."}}},
+"revenuecollection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No revenue payment stated."}}},
+"satellitebroadband": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a PNCR and ANSUT feasibility study on satellite solutions, with no licence or sale stated."}}}
+}}

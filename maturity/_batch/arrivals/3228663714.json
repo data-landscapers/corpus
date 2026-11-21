@@ -1,0 +1,81 @@
+{
+ "slug": "2024-01-01-lby-community-health-libya-country-brief",
+ "studies": {
+  "health": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "DHIS2 is Libya's health management information system, run under the support and control of the Health Information Centre in the Ministry of Health.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "DHIS2",
+       "class": "hmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Community health paper reporting",
+       "country_label": "Libya",
+       "class": "community",
+       "platform": "paper",
+       "owner": "District Health Offices",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "DHIS2 has been the health management information system used in Libya since 2018 under the Ministry of Health's Health Information Centre, though it excludes community health data.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "DHIS2",
+       "class": "hmis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study."
+    }
+   }
+  }
+ }
+}

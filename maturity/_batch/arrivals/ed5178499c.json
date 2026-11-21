@@ -1,0 +1,15 @@
+{"slug": "2026-03-31-uga-government-takes-over-national-digital-health-systems-from-makerere-un", "studies": {
+"coresystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on finance, tax or payroll systems."}}},
+"educationexchange": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on education."}}},
+"educationmis": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on education."}}},
+"health": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "UBC reports that on 31 March 2026 the Ministry of Health took over 16 national digital health systems, including electronic medical record platforms, from Makerere University School of Public Health, with all assets fully transitioned to government ownership.", "as_of": "2026-03-31", "date_precision": "day", "system": "national digital health systems (MakSPH-METS)", "class": "emr"},
+{"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "On 31 March 2026 the Ministry of Health took over the 16 national digital health systems, including electronic medical records, which UBC says ends 15 years of US$103.8 million US-funded support, with electronic medical record coverage reported at over 86 percent nationwide.", "as_of": "2026-03-31", "date_precision": "day", "system": "national digital health systems (MakSPH-METS)", "class": "emr"}
+], "systems": [{"system": "MakSPH-METS national digital health systems (16 systems)", "country_label": "Uganda", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": ""}], "note": ""}}},
+"healthmis": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "hmis", "aspect": "completeness", "value": "published", "fact": "UBC reports health reporting rates rising from 58 percent in 2020 to 98 percent in 2025 under the national digital health systems now handed to the Ministry of Health; the system is not named.", "as_of": "2025", "date_precision": "year", "system": "national digital health systems (MakSPH-METS)", "class": "hmis"}
+], "systems": [], "note": ""}}},
+"justice": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on courts or justice."}}},
+"police": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on police."}}},
+"schools": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

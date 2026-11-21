@@ -1,0 +1,16 @@
+{"slug": "2024-12-20-idtechwire-giz-benin-digital-identity-eservices-tender", "studies": {
+"authentication": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Authentication is only part of a GIZ tender for a planned platform; none contracted, piloted or in service."}}},
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"civilserviceskills": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Civil servant training is only a planned part of a tender, not launched."}}},
+"egovservices": {"countries": {"BEN": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "ID Tech Wire reports that Benin's national e-services portal is currently offering 250 different services.", "as_of": "2024-12-20", "date_precision": "day", "system": "National e-services portal", "class": "eservices"}], "systems": [{"system": "National e-services portal", "country_label": "National e-services portal", "class": "eservices", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Gives about 10 million records but no population or share."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Not stated."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Not stated who operates or maintains the register."}}},
+"idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"BEN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "ID Tech Wire reports that Benin's National Register of Persons assigns unique Personal Identification Numbers (NPI) to individuals, holding civil status and biometric data for about 10 million people.", "as_of": "2024-12-20", "date_precision": "day", "system": "National Register of Persons (NPI)", "class": "idsystem"}], "systems": [{"system": "National Register of Persons", "country_label": "National Register of Persons (RNPP), NPI", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No other system checking against the ID stated."}}},
+"itcapacity": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No government staff running a system stated."}}},
+"nonstatefinance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "A GIZ tender is a donor project to the state, with no private amount."}}},
+"populationregister": {"countries": {"BEN": {"facts": [{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "ID Tech Wire reports that Benin's National Register of Persons maintains civil status and biometric data for about 10 million citizens and underpins its digital services.", "as_of": "2024-12-20", "date_precision": "day", "system": "National Register of Persons", "class": "population"}], "systems": [], "note": ""}}},
+"registry": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No civil registration office entry described."}}}
+}}

@@ -1,0 +1,17 @@
+{"slug": "2026-11-16-lbr-worldbank-three-levers-better-taxation", "studies": {
+"aiabuse": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document says nothing on AI harms for Liberia."}}},
+"aigovernment": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document says nothing on AI in administration for Liberia."}}},
+"aisectoral": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document says nothing on AI in sector systems for Liberia."}}},
+"aisystems": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document says nothing on AI built in Liberia."}}},
+"businesspayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document says nothing on e-procurement for Liberia."}}},
+"businessregister": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document says nothing on Liberia's business register."}}},
+"centralbank": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document says nothing on Liberia's central bank."}}},
+"consumerprotection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document says nothing on consumer protection for Liberia."}}},
+"crossborderpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document says nothing on cross-border payments for Liberia."}}},
+"g2ppayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document says nothing on government payments to people in Liberia."}}},
+"idrobustness": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document says nothing on Liberia's national ID system."}}},
+"paymentsuptake": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document gives no account-ownership survey figure for Liberia."}}},
+"retailpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document says nothing on retail digital payments in Liberia."}}},
+"revenuecollection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Liberia is named only for a property database and tax notices; no electronic payment of tax is stated."}}},
+"taxadmin": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Liberia's digital property database and notices are not online filing or payment; none is stated."}}}
+}}

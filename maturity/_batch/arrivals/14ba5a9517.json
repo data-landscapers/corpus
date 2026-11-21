@@ -1,0 +1,11 @@
+{"slug":"2026-05-17-civ-mtnit-declaration-journee-mondiale-telecommunications-2026","studies":{
+"aiabuse":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Nothing on AI harms rules."}}},
+"aigovernment":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Nothing on government AI in use."}}},
+"aisectoral":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Nothing on sector AI."}}},
+"aisystems":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Only a strategy pillar on a national AI; no builder, funder or site."}}},
+"civilserviceskills":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Nothing on civil servant training."}}},
+"digitaldivides":{"countries":{"CIV":{"facts":[{"sub_indicator":"ruralaccess","aspect":"programme","value":"underway","fact":"The digital minister's statement says the Programme National de Connectivite Rurale, already engaged, will bring telecom services to every locality of over 800 people by end-2030.","as_of":"2026-05-17","date_precision":"day","system":"Programme National de Connectivité Rurale","class":"ruralaccess"}],"systems":[{"system":"Programme National de Connectivité Rurale","country_label":"Côte d'Ivoire","class":"ruralaccess","platform":"","owner":"Government","tiers":""}],"note":""}}},
+"digitalskills":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Only a strategy pillar on skills; no programme stated."}}},
+"digitalsovereignty":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No rule, plan or hosting on state data stated."}}},
+"domesticfinancing":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No budget amount or domestic-funding act stated."}}}
+}}

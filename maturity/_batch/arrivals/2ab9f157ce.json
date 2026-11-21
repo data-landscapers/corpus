@@ -1,0 +1,15 @@
+{"slug": "2026-11-18-xaf-saviu-ii-final-close-ecofin", "studies": {
+"businesspayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}, "GAB": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on the central bank."}, "GAB": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}, "GAB": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}, "GAB": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on government payments."}, "GAB": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"nonstatefinance": {"countries": {
+"CMR": {"facts": [], "systems": [], "note": "The fund's investment in a Cameroon telemedicine firm is named with no amount for the country."},
+"GAB": {"facts": [], "systems": [], "note": "The fund's investment in a Gabon fleet software firm is named with no amount for the country."}}},
+"paymentsuptake": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on account ownership."}, "GAB": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+"retailpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on retail payments."}, "GAB": {"facts": [], "systems": [], "note": "Nothing on retail payments."}}},
+"revenuecollection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}, "GAB": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}},
+"startups": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A private fund is described, with no state law or fund."}, "GAB": {"facts": [], "systems": [], "note": "A private fund is described, with no state law or fund."}}},
+"techhubs": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No hub is named."}, "GAB": {"facts": [], "systems": [], "note": "No hub is named."}}}
+}}

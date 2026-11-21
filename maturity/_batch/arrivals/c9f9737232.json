@@ -1,0 +1,11 @@
+{"slug": "2026-11-16-gmb-senigambia-gicta-wardip-digital-engineering-training", "studies": {
+"aiabuse": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on AI harm rules."}}},
+"aigovernment": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Training only; no AI system in government stated."}}},
+"aisectoral": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on sector AI tools."}}},
+"aisystems": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on national AI models or computing."}}},
+"civilserviceskills": {"countries": {"GMB": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "Senigambia reports GICTA, with World Bank-financed WARDIP, opened a two-week AI and software-engineering training programme for government ICT personnel, reported 16 November 2026.", "as_of": "2026-11-16", "date_precision": "day", "system": "GICTA and WARDIP digital engineering training", "class": "csskills"}], "systems": [], "note": ""}}},
+"digitalskills": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Training is for government ICT staff, not the public."}}},
+"digitalstrategy": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No national digital strategy named."}}},
+"itcapacity": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Cabinet system is an expected outcome, not a system built or run."}}},
+"regionalpolicy": {"countries": {"GMB": {"facts": [], "systems": [], "note": "WARDIP is a World Bank programme; no African body agreement stated."}}}
+}}

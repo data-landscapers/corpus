@@ -1,0 +1,15 @@
+{"slug": "2026-11-13-sen-ecofin-visa-dakar-office-ministry-mou", "studies": {
+"businesspayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SEN": {"facts": [], "systems": [], "note": "BCEAO is only named as present in Senegal; no mandate, licensing, switch or PAPSS stated."}}},
+"consumerprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules."}}},
+"crossborderpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Cross-border transactions are only named as an area the Visa office could support; no corridor or figure stated."}}},
+"g2ppayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "A Visa-ministry MoU lists government-to-citizen payments as a topic of talks only."}}},
+"nonstatefinance": {"countries": {"SEN": {"facts": [], "systems": [], "note": "A memorandum and a planned office with no amount for Senegal."}}},
+"paymentsuptake": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The 66.3% is an e-money usage rate with no survey named; the 58% World Bank figure is for sub-Saharan Africa."}}},
+"retailpayments": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Agence Ecofin reports the e-money usage rate in Senegal was 66.3% in 2025, up almost three points on 2024, in a context of growing digital payments.", "as_of": "2025", "date_precision": "year", "system": "e-money", "class": "retail"}],
+"systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Citizen-to-state payments are only a topic of the MoU talks."}}},
+"startups": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No startup law, label or fund stated."}}},
+"techhubs": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No technology hub or park described."}}}
+}}

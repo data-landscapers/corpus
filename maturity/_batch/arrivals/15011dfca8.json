@@ -1,0 +1,6 @@
+{"slug": "2026-11-19-dza-dzwatch-crcc-huawei-290m-national-data-centre", "studies": {
+"datacentres": {"countries": {"DZA": {"facts": [], "systems": [{"system": "national data centre", "country_label": "Algeria", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Contract awarded to build a national data centre; construction not stated as complete or for hire."}}},
+"nationaldatacentres": {"countries": {"DZA": {"facts": [], "systems": [], "note": "National data centre only contracted, not in service."}}},
+"offsitebackup": {"countries": {"DZA": {"facts": [], "systems": [{"system": "disaster recovery center", "country_label": "Algeria", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Disaster recovery centre only contracted to be built; no place or service stated."}}},
+"regionalinfrastructure": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on infrastructure shared with another African country."}}}
+}}
