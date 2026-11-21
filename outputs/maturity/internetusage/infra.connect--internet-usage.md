@@ -74,9 +74,9 @@ In 2025, 77.3 per cent of the population used the internet, by the country's own
 
 ### Djibouti: 3 Established
 
-In 2024, 65.3 per cent of the population used the internet, by an international estimate.
+In 2026 the minister said nearly 70 per cent of the population used the internet.
 
-- 65.3 per cent of the population of Djibouti used the internet in 2024, an estimate by the International Telecommunication Union ([source, 2024](https://unstats.un.org/sdgs/dataportal)).
+- Djibouti's communications minister said internet penetration reached nearly 70% of the population ([source, 2026-11-11](https://www.adi.dj/article/139096)).
 
 ### Egypt: 3 Established
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-12-dji-adi-djibouti-chiffres-uit-pp26",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:70",
+   "fact": "Djibouti's communications minister said internet penetration reached nearly 70% of the population.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "internet usage",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

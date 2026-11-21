@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-sierra-leone-ai-readiness-diagnostic",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:25",
+   "fact": "The World Bank's AI Readiness Diagnostic says only 25 percent of Sierra Leone's population used the internet in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
