@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-lby-study-diagnoses-cybersecurity-weaknesses-in-libya-and-six-recommendations",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "Alwasat, reporting an analyst study, says Libya's National Committee for Digital Transformation is the body responsible for drafting the national digital transformation strategy.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "National Committee for Digital Transformation",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

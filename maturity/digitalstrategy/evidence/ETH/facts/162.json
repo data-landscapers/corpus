@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-13-orf-mehta-india-blueprint-africa-dpi",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ORF's Ananyaa Mehta names Digital Ethiopia 2025 as a government mandate supporting Telebirr; its scope is not described.",
+   "as_of": "2025-08-13",
+   "date_precision": "day",
+   "system": "Digital Ethiopia 2025",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2025",
+   "fact": "The strategy is named Digital Ethiopia 2025, which ORF cites as a government mandate.",
+   "as_of": "2025-08-13",
+   "date_precision": "day",
+   "system": "Digital Ethiopia 2025",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

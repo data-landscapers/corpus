@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-17-ner-sante-le-niger-connecte-ses-structures-de-sante-au-haut-debit",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "The project coordinator says the work fits within the National Digital Development Strategy launched in 2020; the document gives no adoption act.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Stratégie Nationale de Développement du Numérique",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-15-mus-defimedia-microsoft-365-outage-digital-dependence",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "The article describes the Digital Transformation Blueprint 2025-2029, unveiled in May 2025, as the country's national digital transformation strategy, with no adopting act stated.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2029",
+   "fact": "The article gives the Digital Transformation Blueprint as covering 2025-2029.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
