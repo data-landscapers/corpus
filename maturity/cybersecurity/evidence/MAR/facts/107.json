@@ -1,0 +1,56 @@
+{
+ "slug": "2026-11-16-mar-dgssi-15-security-operations-centres-cybersecurity-law-revision",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "Le Matin says DGSSI launched maturity studies of banking, transport and energy under Morocco's national cybersecurity strategy to 2030.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "National cybersecurity strategy 2030",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "DGSSI published a 'critical' alert on Thursday 12 November 2026 about attacks on ConnectWise ScreenConnect users.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "DGSSI",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "Minister Loudyi said a DGSSI study of critical-importance infrastructures found compliance with national requirements above average, with individual reports sent to each institution.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "DGSSI",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "recorded",
+   "fact": "DGSSI's watch centre recorded 1,070 security alerts, 81 high-risk, and flagged 2,154 threats to administrations, public bodies and critical infrastructures, in 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "DGSSI watch and response centre",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DGSSI (Direction generale de la securite des systemes d'information)",
+   "country_label": "DGSSI",
+   "class": "response",
+   "platform": "",
+   "owner": "National Defence Administration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

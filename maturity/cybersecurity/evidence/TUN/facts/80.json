@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-tun-kapitalis-ben-moussa-plateformes-publiques-resilience-numerique",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Kapitalis (analyst Ben Moussa) says Tunisia's National Cybersecurity Agency (ANCS) presented government circular 5/2026 on 4 September 2026, which requires public bodies to report incidents to it immediately, and that ANCS published a tender on 20 October 2026 for a vulnerability portal.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "ANCS",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCS",
+   "country_label": "Agence nationale de la cybersecurite",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No incident handled or alert issued by ANCS, and no critical infrastructure designation, is stated; the vulnerability portal is only at tender."
+}

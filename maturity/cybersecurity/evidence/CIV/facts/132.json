@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-13-civ-mtnit-presentation-projet-budget-2027-caef",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Ministry says the national information systems security agency ANSSI was created and its activities implemented, and ranks Côte d'Ivoire 3rd of 54 in Africa on cybersecurity in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ANSSI",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The Ministry reports awareness campaigns in 2025 on the national cybersecurity strategy.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "stratégie nationale de cybersécurité",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI",
+   "country_label": "Agence Nationale de Sécurité des Systèmes d'Information",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

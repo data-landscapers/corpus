@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-gmb-ai-is-arriving-in-the-gambia-are-we-ready-for-the-risks",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The author says the current national cybersecurity strategy runs to 2026 (National Cybersecurity Strategy and Action Plan 2022-2026).",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "National Cybersecurity Strategy and Action Plan 2022-2026",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

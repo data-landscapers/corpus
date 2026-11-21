@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-19-eswatini-issues-high-severity-optimizely-warning",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ITWeb Africa names the Eswatini National Computer Incident Response Team (SzCIRT) as the national response team issuing a security advisory.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "SzCIRT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "SzCIRT issued a high-severity public advisory on the 16 November 2026 Optimjack attack on Optimizely, urging local banks, merchants and government portals to audit their web code.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "SzCIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SzCIRT",
+   "country_label": "Eswatini National Computer Incident Response Team",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

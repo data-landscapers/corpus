@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-ben-cyber-africa-forum-2026-digital-trust-sovereignty",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Benin's digital minister Mahuna Akplogan cited the recent creation of the National Agency for Cybersecurity and Resilience (ANCR).",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "National Agency for Cybersecurity and Resilience (ANCR)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Agency for Cybersecurity and Resilience (ANCR)",
+   "country_label": "ANCR",
+   "class": "response",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

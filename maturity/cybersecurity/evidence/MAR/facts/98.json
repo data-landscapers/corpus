@@ -1,0 +1,56 @@
+{
+ "slug": "2026-11-14-hespress-ar-dgssi-cyber-maturity-banking-transport-energy",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Minister Delegate Abdeltif Loudiyi told the House of Representatives committee that the DGSSI carries out its annual monitoring and audit programme under Law 05.20 on cybersecurity, and that it is implementing the national cybersecurity strategy to 2030.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "DGSSI",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "Loudiyi said the DGSSI's watch and response centre received 419 reports of possible incidents from January to September 2026, 123 needing direct intervention, 47 with digital forensic analysis.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "DGSSI watch and response centre",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "Loudiyi said the DGSSI produced in 2026 the results of its study of critical infrastructures' compliance with cybersecurity legal requirements and began helping them identify, classify and declare their sensitive systems.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "critical information infrastructures",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "Loudiyi said the centre proactively notified the bodies concerned of 2,154 security threats and issued 968 bulletins in 2026, 373 of them critical, and the 123 interventions in the January to September 2026 period.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "DGSSI watch and response centre",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Direction Générale de la Sécurité des Systèmes d'Information (DGSSI)",
+   "country_label": "Morocco",
+   "class": "response",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

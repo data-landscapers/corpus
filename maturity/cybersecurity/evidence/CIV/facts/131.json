@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-15-civ-digitalmag-anssi-pki-racine-signature-electronique",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The report says decrees of 2021 and 2024 created ANSSI-CI as the governance authority for cybersecurity, on the legal base of the 2013 cybersecurity laws.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ANSSI-CI",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
