@@ -1,11 +1,11 @@
 ---
 title: East Africa — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: XEA
-ledger_rows: 20
+ledger_rows: 21
 not_held: 0
-record: c6a879e864fb
+record: dabef494942f
 ---
 
 # News, Oct – Nov 2026
@@ -77,6 +77,8 @@ A proposed EAC regulation would cut the retail voice roaming cap from 10 to 5.9 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Instruments and harmonisation">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ai">AI</a>
 </nav>
 
@@ -105,6 +107,22 @@ At a regional e-commerce meeting in Dar es Salaam on 13-15 October 2026, EAC Par
 **[EAC Ministers Adopt Regional Artificial Intelligence and Digital Transformation Strategies, Approves Establishment of Regional AI Foundational Module for Universities](https://www.eac.int/press-releases/138-education,-science-technology-news/3612-eac-ministers-adopt%20-regional-artificial-intelligence-and-digital-transformation-strategies,-approves-establishment-of-regional-ai-foundational-module-for-universities)** — East African Community, 31 October 2026
 
 East African Community ministers adopted regional strategies on artificial intelligence, digital transformation and biotechnology at a sectoral council in Kampala, 27 to 31 October 2026. They approved an AI foundational module for undergraduates in all disciplines and a regional AI network of universities. They also directed that AI certification benchmarks be developed for Kiswahili.
+
+</div>
+
+</div>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EAC single digital market — cross-border data-flow and protection rules</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[East African nations eye closer data transfer ties with each other - and perhaps Europe](https://www.mlex.com/mlex/articles/2552913/east-african-nations-eye-closer-data-transfer-ties-with-each-other-and-perhaps-europe)** — MLex, 20 November 2026
+
+An East African Community official told data protection regulators in Brussels in the week of 16 November 2026 that the community is drafting one data protection law. It covers eight Partner States and is expected for review in early 2027. The official said it could let the community negotiate EU data-transfer adequacy as a group.
 
 </div>
 
