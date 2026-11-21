@@ -1,0 +1,37 @@
+{
+ "slug": "2026-11-17-eth-addis-ababa-bars-former-bid-officials-from-public-tenders",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Birr Metrics reports the Addis Ababa Finance Bureau ordered 48 of the city's largest-spending agencies to use the Electronic Government Procurement platform.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Electronic Government Procurement platform",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "endtoend",
+   "value": "endtoend",
+   "fact": "Addis Ababa's Procurement Directive No. 197/2019 requires bid announcements, document sales, clarifications, bid openings and contract administration to be done entirely through a digital system, per Birr Metrics.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Government Procurement Implementation Directive No. 197/2019",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "Officials say over 308 billion Birr in procurement was facilitated electronically across 169 federal budgetary institutions and 93 branch offices in the 2024/25 fiscal year.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "federal e-procurement",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,business,system,coverage,inservice,2026-07-30,ETH-001;ETH-003;ETH-005;ETH-008,,
-ETH,business,endtoend,coverage,endtoend,2026-07-30,ETH-006;ETH-009,,
-ETH,business,reported,coverage,reported,2026-07-30,ETH-002;ETH-004;ETH-007;ETH-010,,
+ETH,business,system,coverage,inservice,2026-11-17,ETH-001;ETH-003;ETH-005;ETH-008;ETH-011,,
+ETH,business,endtoend,coverage,endtoend,2026-11-17,ETH-006;ETH-009;ETH-012,,
+ETH,business,reported,coverage,reported,2026-07-30,ETH-002;ETH-004;ETH-007;ETH-010;ETH-013,,

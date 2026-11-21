@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-zwe-praz-moves-to-integrate-ai-into-e-procurement-system",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "PRAZ's director of ICT described its electronic Government Procurement (e-GP) system as the platform through which procuring entities prepare procurement plans and bids are evaluated, and said PRAZ is enhancing it.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "e-GP system",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-GP system",
+   "country_label": "PRAZ electronic Government Procurement system",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Procurement Regulatory Authority of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
