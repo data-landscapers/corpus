@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: TCD
-ledger_rows: 22
+ledger_rows: 23
 not_held: 23
-record: 27468d748670
+record: c2196326e576
 ---
 
 # News, Oct – Nov 2026
@@ -34,6 +34,8 @@ record: 27468d748670
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -175,6 +177,22 @@ The digital ministers of Chad and Nigeria signed a joint letter of expression of
 **[ITU PP-26 Doha: Chad and Rwanda explore stronger digital cooperation at ITU PP-26](https://www.techreviewafrica.com/news/8254/itu-pp-26-doha-chad-and-rwanda-explore-stronger-digital-cooperation-at-itu-pp-26)** — TechReviewAfrica, 12 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
 
 Chad's telecoms minister, Haliki Choua Mahamat, met Rwanda's ICT minister at ITU PP-26 in Doha on 10 November 2026. The Chadian minister asked ADETIC and ARCEP Chad to prepare a study mission to Rwanda. ARCEP Chad is looking at cooperation with RURA on spectrum management, quality of service, competition and consumer protection.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulator service-quality audit programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : les audits se succèdent, mais la qualité des services télécoms reste défaillante](https://www.wearetech.africa/fr/fils/actualites/telecom/tchad-les-audits-se-succedent-mais-la-qualite-des-services-telecoms-reste-defaillante)** — wearetech.africa, 20 November 2026
+
+Chad's regulator ARCEP opened its 16th national quality-of-service audit of Airtel Tchad and Moov Africa Tchad on 16 November 2026, with the audit firm Directive. The 15th audit, with results in November 2025, found equipment out of service, poor maintenance and power failures. The law allows fines of up to 5% of annual turnover, doubled for a repeat breach.
 
 </div>
 
