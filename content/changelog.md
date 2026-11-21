@@ -1,3 +1,7 @@
+## 21 November 2026
+
+- Zambia's 2027 budget is on the Finance page: sixty lines from the estimates presented on 6 November, K4.3bn in all, with the new Cyber Security Agency as a vote of its own. They are proposals until Parliament passes the budget.
+
 ## 20 November 2026
 
 - Every CSV download now opens in Excel with accented names intact, such as Côte d'Ivoire and São Tomé. Files you downloaded before may still show them garbled; download them again.
