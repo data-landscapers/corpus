@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-15-raic-blows-whistle-on-data-protection-bill",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The Informant reports that national stakeholder consultations, with a final validation at the Miatta Conference Centre, were held on the Data Protection and Right to Access Information Bill before it was laid in Parliament.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "Data Protection and Right to Access Information Bill",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

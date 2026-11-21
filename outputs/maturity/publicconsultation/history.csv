@@ -26,3 +26,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-13,GNB,gov.discourse--non-governmental-contribution-to-national-policy,fact,2,3,GNB-003;GNB-001,ARN's July 2026 report on its spectrum fees consultation answers question 2
 2026-11-13,TUN,gov.discourse--non-governmental-contribution-to-national-policy,fact,2,3,TUN-006;TUN-001,INT's January 2026 synthesis of responses on value-added services answers question 2
 2026-11-13,NGA,gov.discourse--non-governmental-contribution-to-national-policy,fact,2,2,NGA-019;NGA-020;NGA-005,"NCC's 2025 public inquiries under section 57 answer question 3, but no published answer is held, so stage 2 stands"
+2026-11-21,EGY,gov.discourse--non-governmental-contribution-to-national-policy,fact,2,2,EGY-002,People of Internet record retired by OSINT; EGY-001 removed; the 2025 listening session (EGY-002) holds stage 2

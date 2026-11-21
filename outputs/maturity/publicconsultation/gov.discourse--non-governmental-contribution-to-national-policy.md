@@ -186,7 +186,6 @@ The digital ministry consulted business and civil society on the national AI str
 In 2025 the communications ministry asked over 70 companies and experts for views on an AI bill; no source found says what they said.
 
 - MP Sahar Albazar writes that the Ministry of Communications and Information Technology hosted a listening session on the AI bill for the private sector, attended by over 70 companies and experts who gave recommendations to government officials ([source, 2025-09](https://oecd.ai/en/wonk/governing-ai-with-inclusion-an-egyptian-model-for-the-global-south)).
-- People of Internet says the Draft Artificial Intelligence Law (2024) is moving through stakeholder consultation ([source, 2026-06-23](https://peopleofinternet.com/articles/egypt-reaches-for-misinformation-laws-to-fill-its-deepfake-g.html)).
 
 ### Gambia: 2 Nascent
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-tun-billet-une-alerte-de-cybers-curit-d-clench-e-la-presse-de-tunisie",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "La Presse says the national information systems security strategy 2026-2030 was drawn up with ministries, public bodies, private-sector representatives and experts, and that a broad national consultation was launched on it.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Stratégie nationale de la sécurité des systèmes informatiques 2026-2030",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
