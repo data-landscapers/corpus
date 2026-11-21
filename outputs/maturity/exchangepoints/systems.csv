@@ -213,6 +213,7 @@ SEN,SENIX,SENIX,exchange,,,,2026-06-30-isoc-senegal-snpif-2026-peering-interconn
 SEN,SENIX,SENIX,other,,,,2025-03-26-senum-sonatel-partnership
 SEN,SENIX,"SENIX, Point d'Echange Internet du Sénégal",other,,"Association SENIX (registered office at the Ministère des Postes et des Télécommunications, Dakar)","members need an ASN or public IP block; categories founding, active, adherent",2026-09-03-senix-statuts-point-echange-internet-senegal
 SEN,HubSIX,Senegal,exchange,,,,2026-05-14-sen-2-gbps-un-chiffre-une-etape-historique-pour-hubsix-et-l-internet-seneg
+SEN,Senegal national Internet exchange point,Senegal,exchange,,,,2026-11-16-tra-itu-resolution-206-ott-network-funding
 SLE,Michcom-IX,Michcom Internet Exchange Point,exchange,,Michcom Limited,"ISPs, mobile operators, CDNs, cloud, academic and government networks",2026-06-03-sierra-leone-michcom-ix-peeringdb-exchange-record
 SLE,SLIXP,Sierra Leone Internet Exchange Point,other,,MoCTI with SLDTP,,2025-08-16-slixp-feasibility-study-completed
 SLE,Michcom-IX,Michcom-IX,exchange,,"Michcom Limited, Network Services Division","ISPs, mobile operators, CDNs, cloud, academia, public sector",2025-01-01-michcom-ix
@@ -277,6 +278,9 @@ ZAF,JINX,JINX,exchange,,,,2026-06-29-starlink-africa-availability-costs-performa
 ZAF,NAPAfrica,NAPAfrica,exchange,IXP in Teraco data centres,Teraco,,2025-11-11-zaf-napafrica-and-teraco-acx-growing-africas-digital-community-as-napafric
 ZAF,NAPAfrica,South Africa,exchange,,Teraco,,2025-03-04-zaf-napafrica-achieves-5tbps-traffic-milestone-driving-africas-digital-tra
 ZAF,ZAOXI,South Africa,exchange,global exchange point,,,2025-10-17-zaf-wacren-lagos-cape-town-ren-interconnection-zaoxi
+ZAF,NAPAfrica,South Africa,exchange,,Teraco,,2026-11-16-zaf-itweb-teraco-ai-innovation-lab
+ZAF,NAPAfrica,South Africa,exchange,,Teraco,,2026-11-18-zaf-mybroadband-napafrica-7tbps-800g-ports
+ZAF,NAPAfrica,South Africa,exchange,,,,2026-11-16-zaf-teraco-dril-johannesburg-ai-innovation-lab
 ZMB,Lusaka IXP,Lusaka IXP,exchange,,,,2025-12-08-afrinic-dns-deployment-lusaka-ixp-linkedin
 ZMB,LSK-IX,Lusaka Internet Exchange Point,exchange,,,,2024-08-02-zambia-lsk-ix-exchange-record
 ZMB,LSK-IX,LSKIX,exchange,IXP Manager,,,2025-01-01-city-channels-cable-network-joins-lskix

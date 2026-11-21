@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-xaf-isoc-pulse-beyond-ixp-counts",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Internet Society Pulse says Chad's reported IXP count, memberships and coverage all rose between March 2019 and March 2026, with coverage moving from 0 to 100 percent.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

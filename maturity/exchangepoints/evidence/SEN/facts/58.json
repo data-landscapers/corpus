@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-tra-itu-resolution-206-ott-network-funding",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "The author says Senegal's national Internet exchange point, launched in 2017, appears little used, citing little public knowledge of its traffic.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Senegal national Internet exchange point",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Senegal national Internet exchange point",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

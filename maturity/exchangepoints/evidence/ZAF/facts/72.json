@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-zaf-itweb-teraco-ai-innovation-lab",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "ITWeb reports Teraco's Isando campus offers NAPAfrica, which provides access to network interconnection.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "NAPAfrica",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAPAfrica",
+   "country_label": "South Africa",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-zaf-mybroadband-napafrica-7tbps-800g-ports",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "growing",
+   "fact": "Teraco says NAPAfrica's peak traffic is now over 7Tbps, up from 6Tbps a year earlier, with more than 690 connected networks.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "NAPAfrica",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAPAfrica",
+   "country_label": "South Africa",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
