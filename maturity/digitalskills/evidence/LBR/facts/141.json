@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-22-lbr-the-news-govt-to-include-digital-literacy-in-national-curriculum",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "LTA Acting Chairperson Abdullah Kamara said the Presidential Digital Training for 10,000 young people began on 12 August 2024 at 45 centres equipped with computers, with a plan to reach about 500,000 young people.",
+   "as_of": "2024-08-12",
+   "date_precision": "day",
+   "system": "Presidential Digital Training",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Presidential Digital Training",
+   "country_label": "Presidential Digital Training",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Government of Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

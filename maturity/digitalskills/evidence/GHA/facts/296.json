@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-13-iss-ghana-digital-revolution-economic-growth",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "ISS says the government launched the One Million Coders initiative to train a million Ghanaians, especially youth, in essential digital skills, with no number trained stated.",
+   "as_of": "2025-08-13",
+   "date_precision": "day",
+   "system": "One Million Coders",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Million Coders",
+   "country_label": "Ghana",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

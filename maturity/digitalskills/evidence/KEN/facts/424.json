@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-13-le-kenya-veut-s-associer-a-oracle-pour-former-30-000-personnes-au-nume",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "wearetech.africa says the Communications Authority of Kenya plans to train 120,000 people in 19 counties over three years with KES 100 million (about USD 770,000), toward the Master Plan 2022-2032 goal of 20 million Kenyans with digital skills.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "Communications Authority of Kenya training plan",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

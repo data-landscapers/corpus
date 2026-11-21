@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-13-ben-gouv-wuhan-snaeia-mou-unesco-ai-pilot",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Beninese government says that, with UNESCO support, Benin was designated first pilot country of the SNAEIA network's AI initiative, whose programme provides training and capacity building in digital tools and skills for young Beninese.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "SNAEIA network AI initiative (pilot country)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNAEIA network AI initiative",
+   "country_label": "Benin",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Sino-North Africa Education Innovation Association, with UNESCO support",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
