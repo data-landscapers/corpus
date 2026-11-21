@@ -1,5 +1,6 @@
 ## 21 November 2026
 
+- Zambia's 2024 and 2025 budgets now include the Anti-Corruption Commission's ICT unit, K4.7m and K3.9m. Both years carry what was spent, from the government's financial reports.
 - Zambia's 2026 budget now includes the Anti-Corruption Commission's ICT unit, K4.1m. Three 2026 lines the new 2027 budget restates differently were checked against the 2026 budget itself and stand as it prints them.
 - Zambia's 2027 budget is on the Finance page: sixty lines from the estimates presented on 6 November, K4.3bn in all, with the new Cyber Security Agency as a vote of its own. They are proposals until Parliament passes the budget.
 
