@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: TZA
-ledger_rows: 59
+ledger_rows: 60
 not_held: 4
-record: 28ea0dc02057
+record: 7a010f212b83
 ---
 
 # News, Oct – Nov 2026
@@ -539,6 +539,20 @@ Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 
 **[Tanzania ponders reviewing Sh5 million mobile money transaction limit](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-ponders-reviewing-sh5-million-mobile-money-transaction-limit-5650372)** — The Citizen (Tanzania), 30 October 2026
 
 Tanzania's deputy finance minister told Parliament on 29 October 2026 that the Bank of Tanzania is assessing whether to raise mobile money transaction limits. An MP had said the daily limit of Sh5 million is too low. The minister said the central bank sets limits by customer category and risk, and warned against raising them without safeguards.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Money mobile-money platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Money Upgrades Mobile Money Platform in Malawi and Tanzania](https://techafricanews.com/2026/11/20/airtel-money-upgrades-mobile-money-platform-malawi-tanzania/)** — Tech Africa News, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
+
+Airtel Money moved its Malawi and Tanzania mobile-money platforms onto Comviva's mobiquity Pay, according to a company release reported on 20 November 2026. The upgrade includes a rebuilt USSD menu. The release says the platform can support digital lending, insurance and government disbursements.
 
 </div>
 
