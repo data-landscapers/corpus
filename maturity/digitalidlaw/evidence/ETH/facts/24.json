@@ -1,0 +1,27 @@
+{
+ "slug": "2024-11-12-cipit-ethiopia-pdpp-2024-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CIPIT says Ethiopia's Digital Identification Proclamation No. 1284/2023 established the Fayda programme, which issues registrants a unique 12-digit number.",
+   "as_of": "2024-11-12",
+   "date_precision": "day",
+   "system": "Digital Identification Proclamation No. 1284/2023",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "cover",
+   "value": "digital",
+   "fact": "CIPIT says Proclamation No. 1284/2023 sets up a digital identity regime issuing a unique 12-digit Fayda number, with registration using biometrics (facial photograph, iris, fingerprints) per the Fayda portal.",
+   "as_of": "2024-11-12",
+   "date_precision": "day",
+   "system": "Digital Identification Proclamation No. 1284/2023",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

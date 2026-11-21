@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-08-cybersecuritymag-rnpp-benin-securite-donnees-personnelles",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article says the national persons register (RNPP), run by ANIP, is established by law No. 2017-08 of 19 June 2017, and that the register is in operation.",
+   "as_of": "2017-06-19",
+   "date_precision": "day",
+   "system": "Law No. 2017-08",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "cover",
+   "value": "digital",
+   "fact": "The article says the law's register assigns every person a unique personal identification number (NPI) and holds biometric and demographic data.",
+   "as_of": "2025-01-08",
+   "date_precision": "day",
+   "system": "Law No. 2017-08",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

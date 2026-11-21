@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-18-lbr-house-rejects-us52m-national-id-deal",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "President Ellen Johnson Sirleaf signed the National Identification Registry Act into law on 1 August 2011, repealing Decree No. 65 and establishing the National Identification Registry, per the Liberian Observer.",
+   "as_of": "2011-08-01",
+   "date_precision": "day",
+   "system": "National Identification Registry Act 2011",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "cover",
+   "value": "digital",
+   "fact": "The 2011 National Identification Registry Act mandated the NIR to design, establish, maintain and administer a National Biometric Identification System, per the Liberian Observer.",
+   "as_of": "2011-08-01",
+   "date_precision": "day",
+   "system": "National Identification Registry Act 2011",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Registry (NIR)",
+   "country_label": "National Identification Registry",
+   "class": "other",
+   "platform": "",
+   "owner": "NIR, autonomous institution in the Executive Branch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

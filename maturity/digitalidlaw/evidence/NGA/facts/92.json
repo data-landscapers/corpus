@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-19-fij-ilotech-vtu-platform-nin-records-keyamo-kalu",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "FIJ says Section 14 of the NIMC Act, 2007 allows only the National Identity Management Commission and its licensed agents to register individuals or offer NIN-related services.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "NIMC Act, 2007",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
