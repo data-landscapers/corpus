@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-som-somalias-instant-payment-system-powering-economy",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Central Bank of Somalia Governor says SIPS supports government disbursements to citizens.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "SIPS",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

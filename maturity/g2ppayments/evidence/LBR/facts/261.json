@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-xwa-three-country-plan-regional-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "MyJoyOnline quotes Liberia's central bank governor saying civil servants now receive their salaries in real time through Pay Na-Na, which started with government-to-person payments.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Pay Na-Na",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

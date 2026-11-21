@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-20-lbr-cbl-four-priorities-digital-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Central Bank of Liberia Governor Henry Saamoi said government-to-person payments were the first use case of the Pay Na-Na platform launched in December 2025, so citizens receive government payments digitally.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Pay Na-Na",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Pay Na-Na",
+   "country_label": "Pay Na-Na",
+   "class": "g2p",
+   "platform": "national payment platform",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
