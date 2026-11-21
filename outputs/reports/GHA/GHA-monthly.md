@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: GHA
-ledger_rows: 81
+ledger_rows: 84
 not_held: 9
-record: a0a7de51b24b
+record: 53a9de5f4bf1
 ---
 
 # News, Oct – Nov 2026
@@ -117,6 +117,20 @@ Ghana's proposed Dig Once Policy is before Cabinet, minister Samuel Nartey Georg
 **[Ghana moves to establish space agency to strengthen local geospatial intelligence](https://techreviewafrica.com/news/8398/x)** — Tech Review Africa, 19 November 2026
 
 A Ghanaian science ministry official said at the Africa Geospatial Leadership Forum that Cabinet has approved a Ghana Space Agency, reported on 19 November 2026. It would grow out of the Ghana Space Science and Technology Institute. Drafting instructions for the enabling law are with the Attorney-General's Department. The approval date is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistical Service Act 2019 (Act 1003)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Forum urges government to expedite Statistics Bill and National Statistics Fund](https://www.graphic.com.gh/business/business-news/data-forum-urges-government-to-expedite-statistics-bill-and-national-statistics-fund.html)** — Graphic Online, 20 November 2026
+
+Ghana's Annual Forum for Data Producers, Users and Enhancers met in Accra on 17 November 2026. It urged the government to speed up the Statistics Bill and a National Statistics Fund. Three of nine priority actions agreed in 2025 are in place and six are in progress. Ministries and local assemblies were asked to set budget lines for statistics.
 
 </div>
 
@@ -816,6 +830,14 @@ The Bank of Ghana warned the public against 20 mobile loan apps operating withou
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Bank of Ghana Notice No. BG/GOV/SEC/2026/45: Unlicensed Digital Credit Services Providers](https://www.bog.gov.gh/wp-content/uploads/2026/11/Notice-No.45-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS-1.pdf)** — Bank of Ghana, 17 November 2026
+
+19 named loan apps unlicensed under the Sept 2025 DCSP Directive; issued with the Cyber Security Authority.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1475,6 +1497,34 @@ Ghana's communications minister Sam George gave Rural Telephony Project contract
 **[Ghana Pledges to Link Official Statistics With Maps](https://thevaultznews.com/2026/10/23/ghana-pledges-to-link-official-statistics-with-maps/)** — The Vaultz News, 23 October 2026
 
 Ghana's Government Statistician, writing on the opening of the tenth Statistical Commission for Africa, called for official statistics broken down to community level and tied to maps. He committed the Ghana Statistical Service to five steps, including early preparation for the 2031 census.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Administrative data-sharing agreements with ministries and agencies</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Data Forum urges government to expedite Statistics Bill and National Statistics Fund](https://www.graphic.com.gh/business/business-news/data-forum-urges-government-to-expedite-statistics-bill-and-national-statistics-fund.html)** — Graphic Online, 20 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Strategy for the Development of Statistics III</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Data Forum urges government to expedite Statistics Bill and National Statistics Fund](https://www.graphic.com.gh/business/business-news/data-forum-urges-government-to-expedite-statistics-bill-and-national-statistics-fund.html)** — Graphic Online, 20 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
