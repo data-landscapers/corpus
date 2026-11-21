@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-15-dza-jeune-independant-hcn-accompaniment-dzair-digital-services",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "HCN's national digital transformation strategy plans five data centres in total to strengthen digital sovereignty and the protection of national data.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "HCN national digital transformation strategy",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "Two operational Tier III data centres at Mohammadia (Algiers) and Blida, running active-active, host public data on national territory, per HCN expert Hassan Berrah.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "Mohammadia and Blida data centres",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

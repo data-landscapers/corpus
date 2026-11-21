@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-18-bwa-mmegi-bofinet-eimc-smart-schools",
+ "facts": [],
+ "systems": [
+  {
+   "system": "UPICtv",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "locally hosted streaming platform on BoFiNet infrastructure",
+   "owner": "BoFiNet",
+   "tiers": ""
+  }
+ ],
+ "note": "A sovereignty claim for one streaming platform; no state-data strategy, rule or government data hosted is stated."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-03-gab-egabon-sis-vers-un-systeme-de-sante-sans-papiers",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "ANINF's director general, who coordinates eGabon-SIS, said the president presided over signing a convention for two data centres to guarantee Gabon's sovereignty over its digital data, and called for data governance, storage and deletion mechanisms to be put in place.",
+   "as_of": "2025-06-28",
+   "date_precision": "day",
+   "system": "two national data centres convention",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

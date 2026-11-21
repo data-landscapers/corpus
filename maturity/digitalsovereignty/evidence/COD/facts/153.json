@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-cod-kibassa-investors-data-center-cdn-dot-cd",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The DRC digital economy minister's office says the government is seeking financing from DBSA, Ghana International Bank and D'Arrigo International for a national data centre to host data locally and strengthen state control over its digital assets, plus a national CDN, on 17 November 2026.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "National data centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

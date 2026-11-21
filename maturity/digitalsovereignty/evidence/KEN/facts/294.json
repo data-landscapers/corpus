@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-africa-is-arguing-with-itself",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "fact": "CIO Africa says section 50 and Regulation 26 require data processed for the state's strategic interests, including civil registration and public finance systems, to be held in Kenya.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Data Protection Act section 50 and Regulation 26",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -6,7 +6,7 @@
 
 **Hosted nationally.** No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud. The nearest fact is [the registry's pledge to keep ID data in Liberia](<https://www.biometricupdate.com/202611/revenue-sharing-data-sovereignty-concerns-arise-from-liberia-id-card-concession>). It says where the data will be stored, not where it is.
 
-**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest fact is [the registry head's statement that OeSD will not control the ID data](<https://www.biometricupdate.com/202611/revenue-sharing-data-sovereignty-concerns-arise-from-liberia-id-card-concession>). The concession's own terms on data are not stated.
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest fact is [the registry head's statement that OeSD will not control the ID data](<https://www.biometricupdate.com/202611/revenue-sharing-data-sovereignty-concerns-arise-from-liberia-id-card-concession>). [In September 2026 he said the signed US$54.7 million concession leaves the identity data with the state and includes technology transfer](<https://frontpageafricaonline.com/liberia-nir-us54-7m-digital-id-deal-awaits-legislative-approval/>). It awaits the legislature's approval, and its own text on data is not published.
 
 ***Also on file***. [National Identification Registry (NIR)](<https://www.liberianobserver.com/opinion/editorials/liberia-cannot-build-digital-sovereignty-by-outsourcing-its-digital-spine/article_2452ed7e-2464-42b4-a934-7de1d083c470.html>).
 

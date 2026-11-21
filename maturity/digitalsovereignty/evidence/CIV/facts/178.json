@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-01-civ-7-3-millions-de-dossiers-patients-numerises-en-cote-d-ivoire-pour-un-i",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The health informatics director said the Datacenter national de sante secures sensitive health data underpinning the country's 7.3 million electronic patient records in over 400 facilities.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Datacenter national de sante",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Datacenter national de sante",
+   "country_label": "Cote d'Ivoire",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

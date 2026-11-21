@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-nam-who-owns-namibias-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Windhoek Observer analysis says the government's proposed National Data Centre is intended to strengthen data sovereignty by storing and managing government information locally.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "National Data Centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "Namibia",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

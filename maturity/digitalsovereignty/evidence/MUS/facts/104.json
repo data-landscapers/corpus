@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-15-mus-defimedia-microsoft-365-outage-digital-dependence",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "CERT-MU's director says the national sovereign cloud, a pillar of the Digital Transformation Blueprint 2025-2029 to keep national data under Mauritian jurisdiction, is still being built.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "National sovereign cloud",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "CERT-MU's director says the government hosts its data on its own cloud located in Mauritius, with a disaster recovery site in place for the Government Data Centre.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "Government Data Centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Data Centre",
+   "country_label": "Government Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
