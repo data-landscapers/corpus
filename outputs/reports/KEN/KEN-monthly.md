@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: KEN
-ledger_rows: 113
+ledger_rows: 115
 not_held: 5
-record: cf398cf2bb6f
+record: 76483c92b6e1
 ---
 
 # News, Oct – Nov 2026
@@ -1144,6 +1144,14 @@ Kenya's health cabinet secretary urged providers to meet the timelines for movin
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Who switched off Murang'a health portal? State agencies distance themselves from move](https://nation.africa/kenya/counties/muranga/who-switched-off-murang-a-health-portal--5674470)** — Daily Nation, 18 November 2026
+
+Ministry, DHA and SHA deny owning Afya.KE or its source code; 33 of 134 systems certified by 27 Oct 2026.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1221,6 +1229,14 @@ Murang'a Governor Irungu Kang'ata accuses Kenya's national government of switchi
 **[Murang’a County sues State over patient, hospital system shutdown](https://nation.africa/kenya/counties/muranga/murang-a-county-sues-state-over-patient-hospital-system-shutdown-5634854)** — Daily Nation, 16 October 2026
 
 Murang'a County has petitioned Kenya's High Court against the Ministry of Health, the Digital Health Agency, the Health Cabinet Secretary, SHA and the Attorney-General after losing access to its Afya.KE health information system on 14 October 2026. It seeks orders restoring access and protecting clinical records across its more than 176 health facilities while the petition is heard.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Who switched off Murang'a health portal? State agencies distance themselves from move](https://nation.africa/kenya/counties/muranga/who-switched-off-murang-a-health-portal--5674470)** — Daily Nation, 18 November 2026
+
+Summarised under [Sectoral management information systems](#sectoral-management-information-systems).
 
 </div>
 
@@ -1490,6 +1506,20 @@ Summarised under [Technical Capacity](#technical-capacity).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kenya Sovereign Open Source Digital Stack (KenStack)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya Joins the Digital Public Goods Alliance](https://www.digitalpublicgoods.net/blog/kenya-joins-the-digital-public-goods-alliance)** — Digital Public Goods Alliance, 18 November 2026
+
+Membership roadmap: OSPO adoption hub, training 70 to 200+ civil servants, KenStack at Konza, two DPG nominations.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -1736,6 +1766,8 @@ A working paper from Neu-Ulm University of Applied Sciences, dated October 2026,
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
 <a href="#training-and-skills">Training and skills</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#research-institutions">Research institutions</a>
 </nav>
 
 ### Training and skills
@@ -1819,6 +1851,22 @@ Strathmore University is one of six Kenyan universities selected for the Google.
 **[Government launches NYOTA AGPO Digital Training for 600,000 entrepreneurs](https://www.kbc.co.ke/government-launches-nyota-agpo-digital-training-for-600000-entrepreneurs/)** — KBC Digital, 4 November 2026
 
 Kenya's State Department for MSMEs launched the NYOTA AGPO Digital Training Programme, reported on 4 November 2026. The free 10-week self-paced course targets more than 600,000 young entrepreneurs and teaches registration and bidding on the government's IFMIS and e-GP procurement systems. Enrolment is by USSD, with a subsidised Safaricom data bundle.
+
+</div>
+
+</div>
+
+### Research institutions
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UNESCO Chair on Ethical Artificial Intelligence, Rongo University</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rongo University awarded UNESCO chair on ethical artificial intelligence](https://www.standardmedia.co.ke/health/tech-innovation/article/2001562593/rongo-university-awarded-unesco-chair-on-ethical-artificial-intelligence)** — The Standard, 19 November 2026
+
+Four-year chair 2027-2031 with RWTH Aachen under UNITWIN; ethical AI for climate action and digital peacebuilding.
 
 </div>
 
