@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-16-dza-algerie360-dzair-digital-services-20-tourism-craft-services",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Algerie360 reports the Dzair Digital Services portal, launched 5 July 2026, carried 71 digital services for citizens and gained 20 tourism and handicraft services announced by the High Commission for Digitalisation on 16 November 2026.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Dzair Digital Services",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "Algerie360 cites a High Commission for Digitalisation expert saying the portal had nearly two million registered users, 11 million visits and over 900,000 documents downloaded four months after launch.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Dzair Digital Services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dzair Digital Services",
+   "country_label": "Algeria",
+   "class": "eservices",
+   "platform": "government portal",
+   "owner": "High Commission for Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

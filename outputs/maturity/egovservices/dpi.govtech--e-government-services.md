@@ -1,6 +1,6 @@
 # e-government services: government services online
 
-*As at 2026-11-03.*
+*As at 2026-11-21.*
 
 ## The norm
 
@@ -32,11 +32,11 @@ The Digital Transformation Strategy asks for a single digital gateway carrying g
 
 ### Algeria: 5 Mature
 
-Use of the national government services portal was published in 2026.
+Algeria's national portal carried 91 services of several ministries on one account in 2026, with about two million registered users.
 
-- The Minister of Vocational Training says 82,383 candidates had registered through the national digital government services portal by 23 August 2026 ([source, 2026-08-23](https://www.echoroukonline.com/%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D8%A5%D8%AF%D8%B1%D8%A7%D8%AC-%D8%AE%D8%AF%D9%85%D8%A9-%D8%AA%D9%83%D9%88%D9%8A%D9%86-%D8%B6%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9)).
-- The one national portal carries services of the interior, transport, labour and social security and solidarity sectors, and users sign up for a temporary digital identity with their national ID number and personal details, per Louail ([source, 2026-07-14](https://elmassar-elarabi.dz/152310)).
-- The article says the national portal currently carries 21 digital services, to rise to 62 by end-2027 and 350 by 2028 ([source, 2026-07-29](https://elhiwar.dz/event/335541/)).
+- An expert of Algeria's High Commission for Digitalisation said on Radio Algerienne that the national digital services portal offers 91 public services, with over 900,000 digital documents issued ([source, 2026-11-19](https://news.radioalgerie.dz/ar/node/99407)).
+- The same expert said citizens reach varied services with a single account on the national portal, covering the interior and local government, employment and social security, tax and justice sectors ([source, 2026-11-19](https://news.radioalgerie.dz/ar/node/99407)).
+- The expert gave portal use as about two million registered citizens, nearly 11 million visits and over 900,000 digital documents issued ([source, 2026-11-19](https://news.radioalgerie.dz/ar/node/99407)).
 
 ### Benin: 5 Mature
 
@@ -295,9 +295,11 @@ Government services were going online in 2026; ten or more online are not on rec
 
 ### Liberia: 2 Nascent
 
-The revenue authority put duty-free applications online in 2025; no source found says whether ten or more services can be completed online.
+Several agencies took applications or payments online in 2025 and 2026; no source found says ten or more services can be completed online.
 
 - The Liberia Revenue Authority says it launched an Online Duty-Free Application Platform where qualified individuals and institutions submit duty-free requests electronically ([source, 2025-07](https://revenue.lra.gov.lr/lra-digitizes-rural-customs-offices-rolls-out-online-duty-free-platform/)).
+- Liberia's Consulate General in New York introduced online payment for all consular services on its website, including visas, passports, laissez-passer and birth affidavits, announced 16 November 2026 ([source, 2026-11-16](https://www.thenewdawnliberia.com/liberias-new-york-consulate-introduces-online-payment-for-services/)).
+- Liberia's Deputy Minister for Operations said the Ministry of Mines and Energy's online application system for mineral exploration and mining licences and permits, introduced in 2026, was fully operational ([source, 2026-11-12](https://www.liberianobserver.com/news/mme-trains-certifies-geologists-mining-consultancy-firms-on-licensing-procedures/article_0216311d-d201-42e2-b3c4-c0080794ab97.html)).
 
 ### Libya: 2 Nascent
 
@@ -315,10 +317,11 @@ Government services were going online in 2024; ten or more online are not on rec
 
 ### Malawi: 2 Nascent
 
-Government services were going online in 2026; ten or more online are not on record.
+Several agencies put services online in 2026, among them business re-registration; no source found says ten or more can be completed online.
 
 - The Department of E-Government says immigration e-services are being integrated onto the Bomalathu single digital services portal so the public can access selected immigration services online, with the Malawi Revenue Authority and National Registration Bureau already using it and 25 e-services being onboarded ([source, 2026-07-07](https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km)).
 - DMAP describes the Bomalathu eService Portal as a one-stop national platform letting citizens access government services online ([source, 2026-08-06](https://dmap.pppc.mw/news/malawi-showcases-digital-transformation-and-ai-agenda-at-regional-digital-forum)).
+- Malawi24 reports applicants create an account on the CRIPC Online Services Portal and re-register businesses online, a government service completed through the portal ([source, 2026-11-16](https://malawi24.com/2026/11/16/businesses-face-december-31-deadline/)).
 
 ### Mali: 2 Nascent
 

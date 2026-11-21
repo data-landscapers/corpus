@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-29-ega-benin-staying-on-top-of-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The e-Governance Academy says Benin launched a citizen portal and e-services including a civil-servant pension service, building permits, traffic exams and university applications.",
+   "as_of": "2023-11-29",
+   "date_precision": "day",
+   "system": "citizen portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": "No count of ten or more, sign-in or usage figure."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-29-sdn-suna-health-recovery-plan-endorsed-130-baladna-e-services",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Digital Transformation and Communications Minister Ahmed Ghandour announced that arrangements were complete to bring the Medical Commission and health insurance services onto the Baladna platform for the health sector, introducing 130 e-services.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "Baladna",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Baladna",
+   "country_label": "Baladna platform",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Digital Transformation and Communications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

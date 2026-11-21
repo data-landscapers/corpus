@@ -6,7 +6,7 @@
 
 **Single gateway.** The ministry [presents Idarati e-Services as one access point to the administrations' digital services](<https://fr.assahafa.com/lancement-de-la-nouvelle-version-du-portail-national-idarati-pour-une-administration-plus-proche-et-plus-intelligente/>). No source found says how users sign in. Neither the national ID nor one shared account is named as its sign-in.
 
-**Use published.** No count of users or requests through Idarati has been found. The nearest fact: [874 services were reachable through it in September 2026](<https://fr.assahafa.com/lancement-de-la-nouvelle-version-du-portail-national-idarati-pour-une-administration-plus-proche-et-plus-intelligente/>).
+**Use published.** No count of users or requests through Idarati has been found. The interior ministry's civil status portal, Watiqa, [had logged over 1.8 million birth-extract requests by October 2026](<https://marsad.app/news/6afe277050f276281706ef9c/>). The nearest fact: [874 services were reachable through it in September 2026](<https://fr.assahafa.com/lancement-de-la-nouvelle-version-du-portail-national-idarati-pour-une-administration-plus-proche-et-plus-intelligente/>).
 
 ***Also on file***. [Simpl](<https://aujourdhui.ma/economie/e-services-la-dgi-etoffe-son-systeme-simpl>); [Chikaya.ma](<https://www.moroccoworldnews.com/2026/01/273688/moroccan-citizens-filed-163694-complaints-against-public-administrations-in-2025/>).
 

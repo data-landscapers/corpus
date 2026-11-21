@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-mwi-malawi24-cripc-reregistration-deadline",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Malawi24 reports applicants create an account on the CRIPC Online Services Portal and re-register businesses online, a government service completed through the portal.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "CRIPC Online Services Portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CRIPC Online Services Portal",
+   "country_label": "CRIPC Online Services Portal (www.cripc.gov.mw)",
+   "class": "eservices",
+   "platform": "",
+   "owner": "CRIPC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

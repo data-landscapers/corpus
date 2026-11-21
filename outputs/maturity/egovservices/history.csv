@@ -122,3 +122,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,CIV,dpi.govtech--e-government-services,fact,2,3,CIV-004,"SNDI: 315 procedures online on the national services portal by December 2025, ten or more online, stage 3"
 2026-11-12,SDN,dpi.govtech--e-government-services,fact,3,5,SDN-010;SDN-011;SDN-012,"Baldna portal: 141 services of 48 bodies, sign-in by national number or Sudapass, 265,785 completed transactions; gateway answered, stage 5"
 2026-11-13,SLE,dpi.govtech--e-government-services,fact,2,3,SLE-007;SLE-003,"NIB's Online Business Registration System, launched 10 November 2026, put 66 services online: ten or more completed online, 2 to 3"
+2026-11-21,DZA,dpi.govtech--e-government-services,fact,5,5,DZA-033;DZA-034;DZA-035,"HCN expert's November 2026 figures: 91 services on one account, two million registered users; fills the use gap, 5 holds"
+2026-11-21,LBR,dpi.govtech--e-government-services,fact,2,2,LBR-002;LBR-003;LBR-004,"Consulate payments and mines licensing online; no count of ten services, 2 holds"
+2026-11-21,MWI,dpi.govtech--e-government-services,fact,2,2,MWI-001;MWI-002;MWI-005,"Business re-registration online at CRIPC; no count of ten services, 2 holds"

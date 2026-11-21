@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-20-ben-afrilabs-2026-benin-innovation",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Minister Mahuna Akplogan said at a 18 November 2026 press conference that Benin has deployed more than 250 e-services.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "e-services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-14-ben-nouvelletribune-service-public-bj-nouvelle-version",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "La Nouvelle Tribune reports that since 1 November 2026 the criminal record certificate is issued automatically on the service-public.bj portal after sign-in with the NPI, for 1,900 FCFA.",
+   "as_of": "2026-11-01",
+   "date_precision": "day",
+   "system": "service-public.bj",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "service-public.bj",
+   "country_label": "Benin",
+   "class": "eservices",
+   "platform": "",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": "No count of services or ministries on the portal stated, so nothing on ten or more services or a single gateway."
+}

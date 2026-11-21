@@ -36,3 +36,6 @@ GAB,007,services,inservice,revalued: underway,"Stage 4c: one service, the pensio
 MAR,018,services,inservice,revalued: underway,Stage 4c: three services through Mon e-ID are not ten or more
 BDI,003,services,inservice,revalued: services:underway,"Housekeeping 73: building-permit applications taken online are one service applied for online, not ten or more government services"
 TGO,014,services,inservice,revalued: underway,"Stage 4c: two tax-agency services, a tax number and the vehicle tax, are not ten or more"
+LBR,003,services,inservice,revalued: underway,"the New York consulate's fee payments are one office's service online, not a count of ten or more; 4c 2026-11-21"
+LBR,004,services,inservice,revalued: underway,"the mines ministry's licence applications are one office's service online, not a count of ten or more; 4c 2026-11-21"
+MWI,005,services,inservice,revalued: underway,"business re-registration on the registration centre's portal is one office's service online, not a count of ten or more; 4c 2026-11-21"

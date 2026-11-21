@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-02-businessdaily-state-collects-sh127bn-ecitizen",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Treasury Cabinet Secretary John Mbadi told the Senate the e-Citizen platform stands at 16,000 services, up from 397, with payments made online through a single payment number.",
+   "as_of": "2024-10-02",
+   "date_precision": "day",
+   "system": "e-Citizen",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "Mbadi said e-Citizen processes about 120,000 transactions daily and collected Sh26.4 billion in the year to June 2023 and Sh100.8 billion in the year to June 2024.",
+   "as_of": "2024-10-02",
+   "date_precision": "day",
+   "system": "e-Citizen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Citizen",
+   "country_label": "Kenya",
+   "class": "eservices",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

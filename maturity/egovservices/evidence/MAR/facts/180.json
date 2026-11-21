@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-mar-watiqa-civil-status-portal-outage",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The Watiqa portal, run since 2012 under the Ministry of Interior, lets citizens order birth extracts, full birth certificates, marriage-file copies and consular registration certificates online for delivery by post, and had logged over 1.847 million birth-extract and 1.31 million full-copy requests by 18 October 2026, per the outlet reading the portal's homepage.",
+   "as_of": "2026-10-18",
+   "date_precision": "day",
+   "system": "Watiqa",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Watiqa",
+   "country_label": "Watiqa",
+   "class": "eservices",
+   "platform": "web portal",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

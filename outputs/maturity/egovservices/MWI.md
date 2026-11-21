@@ -2,7 +2,7 @@
 
 ## Government services online
 
-**Services online.** In July 2026 the Department of E-Government said [immigration services were being added to the Bomalathu portal](<https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km>). The revenue authority and the National Registration Bureau already use it, and 25 e-services are being onboarded. In May 2026 a minister said [businesses register and keep records online through the business registration system](<https://mwnation.com/minister-of-justice-urges-professionalism/>).
+**Services online.** In July 2026 the Department of E-Government said [immigration services were being added to the Bomalathu portal](<https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km>). The revenue authority and the National Registration Bureau already use it, and 25 e-services are being onboarded. In May 2026 a minister said [businesses register and keep records online through the business registration system](<https://mwnation.com/minister-of-justice-urges-professionalism/>). In November 2026 [firms were re-registering through the registration centre's online portal](<https://malawi24.com/2026/11/16/businesses-face-december-31-deadline/>), with a 31 December deadline.
 
 **Single gateway.** The digital project DMAP [describes Bomalathu as a one-stop national platform for government services](<https://dmap.pppc.mw/news/malawi-showcases-digital-transformation-and-ai-agenda-at-regional-digital-forum>). No source found says how users sign in to it. Neither the national ID nor one shared account is named as its sign-in.
 

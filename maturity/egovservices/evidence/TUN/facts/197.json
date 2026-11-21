@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-17-tun-tunisiens-l-tranger-les-passeports-bient-t-accessibles-via-e-consulat",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Foreign Minister Mohamed Ali Nafti told parliament that 40 diplomatic and consular posts (47% of the network) are connected to the E-Consulat system, and that the remote appointment service recorded 13,310 bookings in 2026.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "E-Consulat",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Consulat",
+   "country_label": "E-Consulat",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Foreign Affairs",
+   "tiers": ""
+  },
+  {
+   "system": "Dalil national administrative procedures platform",
+   "country_label": "Dalil",
+   "class": "other",
+   "platform": "",
+   "owner": "Presidency of the Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

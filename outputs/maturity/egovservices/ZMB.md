@@ -2,7 +2,7 @@
 
 ## Government services online
 
-**Services online.** In September 2024 ZamPortal's director, Beaton Sibulowa, said [it hosts 322 services that citizens can access and apply for online](<https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/>). According to the director, citizens can both reach and apply for these services online through the one portal. ZamPortal runs on the Government Service Bus.
+**Services online.** In September 2024 ZamPortal's director, Beaton Sibulowa, said [it hosts 322 services that citizens can access and apply for online](<https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/>). According to the director, citizens can both reach and apply for these services online through the one portal. ZamPortal runs on the Government Service Bus. On 18 November 2026 [all new passport applications and renewals moved to the online passport system](<https://www.mwebantu.com/zambia-discontinues-manual-passport-applications-moves-fully-online/>).
 
 **Single gateway.** [ZamPortal is the government platform on the Government Service Bus](<https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/>), through which citizens reach services of many bodies. [The government app signs users in through ZamPass](<https://zamgov.gsb.gov.zm/docs/ZamGov%20User%20Manual.pdf>), the national digital identity service. They then apply for e-services on the portal.
 

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-18-egy-sis-eams-online-seafarer-passport-services",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Prime Minister Madbouly said on 7 November 2026 that the Digital Egypt platform offered 261 services, up by 71 from 2025.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "Digital Egypt",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "Prime Minister Madbouly said on 7 November 2026 that the Digital Egypt platform had 13.7 million users.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "Digital Egypt",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Egypt",
+   "country_label": "Egypt",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Seafarer passport portal (EAMS) is one agency's service; no single gateway across ministries is stated."
+}

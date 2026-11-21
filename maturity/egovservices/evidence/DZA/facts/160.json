@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-19-dza-radioalgerie-derrar-portal-91-services-100-target",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "An expert of Algeria's High Commission for Digitalisation said on Radio Algerienne that the national digital services portal offers 91 public services, with over 900,000 digital documents issued.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Dzair Digital Services portal",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "gateway",
+   "value": "single",
+   "fact": "The same expert said citizens reach varied services with a single account on the national portal, covering the interior and local government, employment and social security, tax and justice sectors.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Dzair Digital Services portal",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "The expert gave portal use as about two million registered citizens, nearly 11 million visits and over 900,000 digital documents issued.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Dzair Digital Services portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dzair Digital Services portal",
+   "country_label": "Algeria",
+   "class": "eservices",
+   "platform": "national government services portal",
+   "owner": "High Commission for Digitalisation (HCN)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

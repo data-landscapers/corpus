@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-20-idtechwire-giz-benin-digital-identity-eservices-tender",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "ID Tech Wire reports that Benin's national e-services portal is currently offering 250 different services.",
+   "as_of": "2024-12-20",
+   "date_precision": "day",
+   "system": "National e-services portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National e-services portal",
+   "country_label": "National e-services portal",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

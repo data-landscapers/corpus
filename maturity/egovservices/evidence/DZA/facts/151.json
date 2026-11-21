@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-15-dza-derrar-dzair-digital-services-two-million-registered",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "HCN expert Hacene Derrar said on 2026-11-15 that the Dzair Digital Services national portal, launched on 5 July 2026, groups 71 digital services.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "Dzair Digital Services",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "Hacene Derrar of the HCN said the Dzair Digital Services portal has nearly two million registered users, eleven million visitors and over 900,000 digital documents extracted.",
+   "as_of": "2026-11-15",
+   "date_precision": "day",
+   "system": "Dzair Digital Services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dzair Digital Services",
+   "country_label": "Algeria",
+   "class": "eservices",
+   "platform": "national portal",
+   "owner": "High Commission for Digitalisation (HCN)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

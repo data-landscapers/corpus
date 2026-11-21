@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-002",
+      "stage_sources": "LBR-002;LBR-003;LBR-004",
       "gaps": "No source found since October 2023 says ten or more services can be completed online, names a single gateway with national ID sign-in, or publishes its use.",
-      "note": "The Liberia Revenue Authority launched an online duty-free application platform in July 2025, a service applied for online. No count of ten or more services online has been found, so it stops at stage 2.",
-      "as_at": "2026-10-27"
+      "note": "The revenue authority (LBR-002), the mines ministry (LBR-004) and the New York consulate (LBR-003) take applications or payments online, which answers question 1. No source counts ten or more services completed online, so it stops at stage 2.",
+      "as_at": "2026-11-21"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-zaf-itweb-inforeg-cyber-defences-ai-governance",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The Information Regulator launched an e-services platform in May 2024 and offers online registration, POPIA exemption applications, complaints and security compromise reporting, per its CIO.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Information Regulator e-services platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "myRegulator",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "internal case management",
+   "owner": "Information Regulator",
+   "tiers": ""
+  }
+ ],
+ "note": "Single gateway and usage not stated for a national portal."
+}

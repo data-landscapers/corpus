@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-05-africanmanager-carte-identite-nationale-a-distance",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "ICT minister Sofiene Hemissi told parliament committees that the national platform of administrative procedures is 50% built and that several high-demand online services are being developed.",
+   "as_of": "2025-11-04",
+   "date_precision": "day",
+   "system": "national platform of administrative procedures",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national platform of administrative procedures",
+   "country_label": "Tunisia",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
