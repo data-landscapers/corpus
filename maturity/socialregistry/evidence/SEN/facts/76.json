@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-xaf-gpsdd-statcom-10-nso-leadership",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "Senegal's ANSD is helping the government update the national registry of poor households, which guides who receives social protection support, as reported by the Global Partnership.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "national registry of poor households",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national registry of poor households",
+   "country_label": "Registre national des ménages pauvres",
+   "class": "social",
+   "platform": "",
+   "owner": "Government of Senegal, with ANSD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-16-ami-ar-assembly-ratifies-ida-resilience-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "AMI reports the economy minister told the National Assembly the IDA-financed social safety-net operation funds technical assistance to assess the continuous-update method and review the procedures of Mauritania's social registry.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Social registry",
+   "class": "social"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
