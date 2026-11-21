@@ -2,7 +2,7 @@
 
 ## Interoperability of birth registration and digital id
 
-**Civil register linked to ID.** [In June 2025 a Justice Ministry official said the MOSIP-based digital ID pilot is anchored on birth registration](<https://www.biometricupdate.com/202506/sao-tome-and-principe-pilots-mosip-based-national-digital-id-system>).
+**Civil register linked to ID.** [In June 2025 a Justice Ministry official said the MOSIP-based digital ID pilot is anchored on birth registration](<https://www.biometricupdate.com/202506/sao-tome-and-principe-pilots-mosip-based-national-digital-id-system>). [In November 2026 the World Bank-financed digital ID project foresaw closer coordination between the civil registry and civil identification](<https://www.glebatv.st/todas-noticias/servicos-de-identificacao-civil-vao-ser-emitidos-em-cinco-embaixadas-de-stp-na-diaspora>).
 
 **Both ways.** No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers. The nearest fact found: [the official said 'we started with civil registration'](<https://www.biometricupdate.com/202506/sao-tome-and-principe-pilots-mosip-based-national-digital-id-system>).
 

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-18-lbr-house-rejects-us52m-national-id-deal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NIDCRVS",
+   "country_label": "National Identification Central Digital Civil Registry and Vital Statistics System (NIDCRVS)",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": "NIDCRVS integrating ID and civil registration was a proposed concession the House rejected; no link planned, contracted or in service."
+}

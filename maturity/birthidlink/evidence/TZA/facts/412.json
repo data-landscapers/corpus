@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-tza-citizen-new-national-id-integrated-records",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The Citizen reports the 2026 national ID card, unveiled 18 November 2026, will carry birth certificate details held in the Nida system, and NIDA's director general says the integrated system will include them and capture marriage and divorce changes.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "National ID (Nida)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID card, 2026 edition (Nida)",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Authority (Nida)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

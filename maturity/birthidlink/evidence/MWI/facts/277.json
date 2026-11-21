@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-15-nation-national-id-chaos-threatens-voter-registration",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Nation Online reports Malawi's National Registration Bureau is mandated to register births, national IDs and deaths, so one body holds both registers.",
+   "as_of": "2024-09-15",
+   "date_precision": "day",
+   "system": "National Registration Bureau",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
