@@ -210,7 +210,7 @@ The central bank oversaw a national payment switch in 2026; live participation i
 
 ### Kenya: 4 Operating
 
-The central bank licenses payment providers and regulates a domestic switch; two banks connected to PAPSS in 2026, with no live payments on record.
+The central bank licenses payment providers and regulates a domestic switch; PAPSS payments reach Kenya in 2026, but none is reported going out.
 
 - In a speech published 13 March 2026, the National Bank of Rwanda says the passporting MoU applies to payment service providers licensed by their home supervisory authority, the central bank ([source, 2026-03-13](https://www.bis.org/speeches/20260313-signing-mou-between-central-bank-kenya-and-national-bank-rwanda)).
 - The Central Bank of Kenya's directory as at 6 November 2025 lists 41 authorised payment service providers, including mobile money issuers such as Safaricom, Airtel Money and Telkom Kenya ([source, 2025-11-06](https://www.centralbank.go.ke/wp-content/uploads/2025/11/Directory-of-Authorized-Payment-Service-Providers-6-November-2025.pdf)).

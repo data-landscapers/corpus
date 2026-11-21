@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-ken-pesalink-wants-cheaper-payments-but-cannot-tell-banks-what-to-charge",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "live",
+   "fact": "TechCabal quotes IPSL chief Gituku Kirika on 18 November 2026 saying PesaLink is integrated with PAPSS so people can now send money into Kenya from other PAPSS-enabled countries.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "PesaLink",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

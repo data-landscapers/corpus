@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-xwa-three-country-plan-regional-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "MyJoyOnline, citing the AfricaNenda SIIPS 2026 report, says Guinea's central bank launched the NimbaPay instant payment system on 22 July 2026, built on Mojaloop, for person-to-person payments.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "oversight",
+   "platform": "Mojaloop",
+   "owner": "Central bank of Guinea",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

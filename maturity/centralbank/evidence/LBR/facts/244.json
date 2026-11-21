@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-nigeria-ghana-proposed-hosts-ecowas-regional-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "live",
+   "fact": "Central Bank of Liberia Governor Henry Saamoi said on 18 November 2026 that Liberia currently uses PAPSS for settlement of payments with other participating countries.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

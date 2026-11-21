@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-gha-bog-develops-open-banking-framework-to-facilitate-customer-data-sharing",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "Governor Johnson Pandit Asiama told the Invest Ghana Summit that the Bank of Ghana is developing a dedicated legal and regulatory framework for fintech companies, alongside an open banking framework for consent-based data sharing.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Bank of Ghana fintech regulatory framework",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

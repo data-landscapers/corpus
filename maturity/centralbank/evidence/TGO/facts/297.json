@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-13-togo-ecobank-is-only-bank-with-certified-business-api-for-waemu-s-instant-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The BCEAO certifies business APIs for direct connection to the PI-SPI instant payment platform, and its list of 34 certified APIs across WAEMU, one of them Togo's Ecobank, was updated on 9 November 2026.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Togo institutions provide services on PI-SPI, the BCEAO's WAEMU-wide instant payment platform; the article does not mention PAPSS.",
+   "as_of": "2026-11-13",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "BCEAO instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-xwa-three-country-plan-regional-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "MyJoyOnline reports the BCEAO launched the PI-SPI regional system for the eight WAEMU states, Guinea-Bissau among them, on 30 September 2025.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

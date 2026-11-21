@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-nigeria-ghana-proposed-hosts-ecowas-regional-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "live",
+   "fact": "Nairametrics reports that the Central Bank of Nigeria directed all banks in April 2025 to adopt PAPSS and originate transactions under it, and that a Nigerian payment service bank launched a PAPSS-powered Send to Ghana feature in March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

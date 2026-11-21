@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-01-zwe-rbz-national-payment-systems-report-first-quarter-2025",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Zimswitch",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The report gives payment statistics and Zimswitch collateral balances but does not state a licensing mandate or oversight of the switch."
+}

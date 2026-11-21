@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-19-ssd-economy-finance-ministry-central-bank-advance-digital-banking",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RTGS",
+   "country_label": "Real-Time Gross Settlement system",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of South Sudan, National Payment Systems Department",
+   "tiers": ""
+  }
+ ],
+ "note": "The bank oversees preparation of an RTGS not yet launched; no mandate, licensing or switch in service stated."
+}

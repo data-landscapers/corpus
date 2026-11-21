@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-businessday-africa-cross-border-payment-rail-5bn-reality-check",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "In March 2025 the Bank of Ghana warned that MTN MoMo Ghana, run by MobileMoney Limited, was not licensed to conduct cross-border transactions to Nigeria.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Bank of Ghana licensing of MTN MoMo Ghana",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

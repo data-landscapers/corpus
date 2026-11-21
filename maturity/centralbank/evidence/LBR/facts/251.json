@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-xwa-three-country-plan-regional-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "MyJoyOnline reports the Central Bank of Liberia launched Pay Na-Na, Liberia's first instant payment system linking Lone Star MTN and Orange Liberia, on 16 December 2025.",
+   "as_of": "2025-12-16",
+   "date_precision": "day",
+   "system": "Pay Na-Na",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Pay Na-Na",
+   "country_label": "Liberia",
+   "class": "oversight",
+   "platform": "Mojaloop",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
