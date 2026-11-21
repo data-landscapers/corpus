@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: TUN
-ledger_rows: 51
+ledger_rows: 56
 not_held: 4
-record: 453cde26442d
+record: c8ec96605f7c
 ---
 
 # News, Oct – Nov 2026
@@ -69,6 +69,20 @@ Tunisia's health and communication technologies ministers signed a National Heal
 **[Poste tunisienne : l’IA et le numérique au cœur de la stratégie 2026-2030 - Tunisie Numerique](https://www.tunisienumerique.com/poste-tunisienne-lia-et-le-numerique-au-coeur-de-la-strategie-2026-2030/)** — Tunisie Numerique, 9 October 2026
 
 Tunisia's communications minister, Sofiene Hemissi, said on 9 October 2026 that La Poste tunisienne's 2026-2030 strategy will integrate artificial intelligence and digital identity into postal services. Its chief executive listed five priorities, including financial inclusion and e-commerce logistics, and an enterprise resource planning rollout under way. The minister ruled out turning the Post into a bank.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National e-commerce strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[مدير تنمية التجارة الإلكترونية والاقتصاد اللامادي بوزارة التجارة لـ«الصباح»: الاستراتيجية الوطنية للتجارة الإلكترونية ستكون جاهزة في مارس 2027](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/1122969-%D9%85%D8%AF%D9%8A%D8%B1-%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A7/)** — الصباح نيوز, 19 November 2026
+
+Consultancy due March 2027, ministerial council May 2027; seven axes incl. AfCFTA digital trade protocol.
 
 </div>
 
@@ -205,8 +219,26 @@ Tunisia's communication technologies minister presented a 2027 budget of TND 1.0
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
 </nav>
+
+### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Retirement of the copper fixed network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[سفيان الهميسي: 76 مليون دينار لتوسيع تغطية الاتصالات والتخلي عن الشبكة النحاسية قبل 2027](https://www.alchourouk.com/article/%D8%B3%D9%81%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%87%D9%85%D9%8A%D8%B3%D9%8A-76-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%84%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D8%AA%D8%BA%D8%B7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D8%AD%D8%A7%D8%B3%D9%8A%D8%A9-%D9%82%D8%A8%D9%84-2027)** — جريدة الشروق التونسية, 19 November 2026
+
+Tunisie Telecom contract; copper retired by Dec 2027; satellite kit duty exemption; coverage over 90%.
+
+</div>
+
+</div>
 
 ### Data Storage
 
@@ -380,6 +412,20 @@ Central Bank of Tunisia data show 18 million online payments worth TND 1.229bn i
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Postal bank (La Poste tunisienne)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير تكنولوجيات الاتصال: مشروع البنك البريدي يحتاج اطار قانوني خاص](https://www.alchourouk.com/article/%D9%88%D8%B2%D9%8A%D8%B1-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%AF%D9%8A-%D9%8A%D8%AD%D8%AA%D8%A7%D8%AC-%D8%A7%D8%B7%D8%A7%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A-%D8%AE%D8%A7%D8%B5)** — جريدة الشروق التونسية, 19 November 2026
+
+Special statute, not the 2016 banking law; 500,000 free e-cards; 65% of pensions drawn by ATM or card.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -457,6 +503,20 @@ Tunisia's Administrative Tribunal held its first pleading hearings in the centra
 **[Terres domaniales : 11.000 hectares mis à la disposition des sociétés communautaires](https://www.lapresse.tn/2026/11/07/terres-domaniales-11-000-hectares-mis-a-la-disposition-des-societes-communautaires/)** — La Presse de Tunisie, 7 November 2026
 
 Tunisia's minister of state domains, Wajdi Hedhili, briefed a joint parliamentary committee on 6 November 2026. Hedhili said 24 state farmland plots, over 11,000 hectares, have been given to community companies. 3,000 hectares are reserved for renewable energy projects, and a second list of plots is in preparation. State farmland totals 500,000 hectares, 38% of it leased.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">School life platform (viescolaire.education.tn)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير التربية: معطيات منصة الحياة المدرسية محفوظة في مقر سيادي](https://www.alchourouk.com/article/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9-%D9%85%D8%AD%D9%81%D9%88%D8%B8%D8%A9-%D9%81%D9%8A-%D9%85%D9%82%D8%B1-%D8%B3%D9%8A%D8%A7%D8%AF%D9%8A)** — جريدة الشروق التونسية, 18 November 2026
+
+Data hosted in a state sovereign site; no off-framework contract; built with ICT ministry; exams to follow.
 
 </div>
 
@@ -822,6 +882,8 @@ Tunisia's Ministry of Employment and Vocational Training signed a five-year rene
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
 <a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-divides">Digital divides</a>
 </nav>
 
 ### Access to services
@@ -843,6 +905,22 @@ The World Bank's Global Findex series shows that 26.6% of Tunisian women aged 15
 **[Bancarisation en Tunisie : moins de comptes, plus d'agences, quel cap ?](https://www.challenges.tn/economie/bancarisation-en-tunisie-moins-de-comptes-plus-dagences-quel-cap/)** — Challenges TN, 11 November 2026
 
 The Central Bank of Tunisia's banking supervision report shows bank accounts fell 1.8% in 2025 to 10.5 million, Challenges TN reported on 11 November 2026. The branch network grew by 17, from 2,064 to 2,081. Special savings accounts fell 5.9% and current accounts rose 1.2%; the Global Findex puts adult account ownership at 37.8% in 2024.
+
+</div>
+
+</div>
+
+### Digital divides
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">White-zones coverage programme</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[سفيان الهميسي: 76 مليون دينار لتوسيع تغطية الاتصالات والتخلي عن الشبكة النحاسية قبل 2027](https://www.alchourouk.com/article/%D8%B3%D9%81%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%87%D9%85%D9%8A%D8%B3%D9%8A-76-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%84%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D8%AA%D8%BA%D8%B7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D8%AD%D8%A7%D8%B3%D9%8A%D8%A9-%D9%82%D8%A8%D9%84-2027)** — جريدة الشروق التونسية, 19 November 2026
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
