@@ -1087,8 +1087,8 @@ BFA,52,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-a
 BFA,53,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-africa,2026-11-17,instrument,2026-11-17
 BFA,54,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 BFA,55,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
-BWA,40,2024-02-28-apc-botswana-e-government-privacy-pitfalls,2026-11-17,,
-BWA,41,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,,
+BWA,40,2024-02-28-apc-botswana-e-government-privacy-pitfalls,2026-11-17,fact,2026-11-21
+BWA,41,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,fact,2026-11-21
 BWA,42,2021-05-17-paradigm-londa-digital-rights-inclusion-botswana-2021,2026-11-17,instrument,2026-11-17
 BWA,43,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 BWA,44,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -1138,7 +1138,7 @@ COM,18,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-ven
 COM,19,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 COM,20,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-africa,2026-11-17,instrument,2026-11-17
 COM,21,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
-CPV,37,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,,
+CPV,37,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,nothing,2026-11-21
 CPV,38,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 CPV,39,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 CPV,40,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
@@ -1169,7 +1169,7 @@ ERI,19,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17
 ERI,20,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-africa,2026-11-17,instrument,2026-11-17
 ERI,21,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 ERI,22,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
-ETH,50,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,,
+ETH,50,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,nothing,2026-11-21
 ETH,51,2014-06-27-au-convention-cyber-security-personal-data-protection-text,2026-11-17,instrument,2026-11-17
 ETH,52,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 ETH,53,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -1224,7 +1224,7 @@ GNQ,27,2024-10-17-wodajo-societal-structural-risks-biometric-id,2026-11-17,instr
 GNQ,28,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
 GNQ,29,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-africa,2026-11-17,instrument,2026-11-17
 GNQ,30,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
-KEN,137,2024-01-31-amnesty-kenya-advisory-paper-rights-respecting-digital-id,2026-11-17,,
+KEN,137,2024-01-31-amnesty-kenya-advisory-paper-rights-respecting-digital-id,2026-11-17,nothing,2026-11-21
 KEN,138,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,capped,2026-11-17
 KEN,139,2025-02-01-ken-analysing-and-enhancing-digital-health-standards-in-kenya,2026-11-17,instrument,2026-11-17
 KEN,140,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
@@ -1310,7 +1310,7 @@ MWI,60,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-a
 MWI,61,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 MWI,62,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
 MWI,63,2021-11-01-ria-cis-towards-evaluation-socio-digital-id-ecosystems-africa,2026-11-17,instrument,2026-11-17
-NAM,54,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,,
+NAM,54,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,nothing,2026-11-21
 NAM,55,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 NAM,56,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 NAM,57,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -1326,7 +1326,7 @@ NER,42,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument
 NER,43,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
 NER,44,2020-03-03-privacy-international-2020-crucial-year-data-protection-africa,2026-11-17,instrument,2026-11-17
 NGA,149,2026-11-16-nga-experts-accuse-inec-failing-data-transparency-test,2026-11-17,capped,2026-11-17
-NGA,150,2026-06-26-nga-ndpc-guidance-notice-cpd-dpos,2026-11-17,,
+NGA,150,2026-06-26-nga-ndpc-guidance-notice-cpd-dpos,2026-11-17,fact,2026-11-21
 NGA,151,2026-11-14-nga-ndpc-holds-roundtable-for-dpos,2026-11-17,capped,2026-11-17
 NGA,152,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,capped,2026-11-17
 NGA,153,2026-10-01-nga-ai-and-the-digitisation-of-healthcare-services-in-nigeria,2026-11-17,instrument,2026-11-17
@@ -1345,7 +1345,7 @@ NGA,165,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-
 NGA,166,2023-05-22-ecdpm-global-approaches-digital-sovereignty,2026-11-17,instrument,2026-11-17
 NGA,167,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
 NGA,168,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
-RWA,71,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,,
+RWA,71,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,nothing,2026-11-21
 RWA,72,2021-11-01-ria-cis-towards-evaluation-socio-digital-id-ecosystems-africa,2026-11-17,instrument,2026-11-17
 RWA,73,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 RWA,74,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -1401,7 +1401,7 @@ SWZ,49,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-a
 SWZ,50,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-africa,2026-11-17,instrument,2026-11-17
 SWZ,51,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 SWZ,52,2023-05-22-ecdpm-global-approaches-digital-sovereignty,2026-11-17,instrument,2026-11-17
-SYC,30,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,,
+SYC,30,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,nothing,2026-11-21
 SYC,31,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 SYC,32,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-africa,2026-11-17,instrument,2026-11-17
 SYC,33,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
@@ -1412,7 +1412,7 @@ TCD,32,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-a
 TCD,33,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-africa,2026-11-17,instrument,2026-11-17
 TCD,34,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 TCD,35,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
-TGO,53,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,,
+TGO,53,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,nothing,2026-11-21
 TGO,54,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 TGO,55,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 TGO,56,2025-02-27-carnegie-dpi-practical-approach-africa,2026-11-17,instrument,2026-11-17
@@ -1470,7 +1470,7 @@ ZAF,111,2024-01-01-salami-oloyede-digital-identity-surveillance-data-protection-
 ZAF,112,2023-05-22-ecdpm-global-approaches-digital-sovereignty,2026-11-17,instrument,2026-11-17
 ZAF,113,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
 ZAF,114,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
-ZMB,59,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,,
+ZMB,59,2025-08-13-orf-mehta-india-blueprint-africa-dpi,2026-11-17,nothing,2026-11-21
 ZMB,60,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 ZMB,61,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 ZMB,62,2025-02-27-carnegie-dpi-practical-approach-africa,2026-11-17,instrument,2026-11-17
@@ -1514,7 +1514,7 @@ GHA,104,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-
 GIN,47,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 GMB,53,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 KEN,158,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
-LBR,42,2026-11-18-lbr-house-rejects-us52m-national-id-deal,2026-11-18,,
+LBR,42,2026-11-18-lbr-house-rejects-us52m-national-id-deal,2026-11-18,nothing,2026-11-21
 LBY,22,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 LBY,23,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 LSO,43,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
@@ -1545,11 +1545,11 @@ ZAF,115,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-
 ZMB,69,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 ZWE,98,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
 CMR,38,2026-11-19-cmr-une-mise-a-jour-indispensable-dans-la-gestion-et-la-protection-des,2026-11-20,instrument,2026-11-20
-TGO,65,2026-11-18-tgo-protection-des-donn-es-personnelles-28-correspondants-certifi-s-par-l-,2026-11-20,,
+TGO,65,2026-11-18-tgo-protection-des-donn-es-personnelles-28-correspondants-certifi-s-par-l-,2026-11-20,fact,2026-11-21
 AGO,61,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 BDI,41,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 BEN,78,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
-BFA,56,2026-11-20-bfa-lefaso-arcod-dix-membres-college-conseillers,2026-11-21,,
+BFA,56,2026-11-20-bfa-lefaso-arcod-dix-membres-college-conseillers,2026-11-21,reassessed,2026-11-21
 BFA,57,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 BWA,51,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 CIV,66,2026-05-01-civ-oidh-idea-analyse-fimi-cote-divoire,2026-11-21,instrument,2026-11-21
@@ -1564,11 +1564,11 @@ EGY,74,2026-11-19-africa-is-arguing-with-itself,2026-11-21,capped,2026-11-21
 EGY,75,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 ETH,63,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 GAB,38,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
-GHA,105,2026-11-19-africa-is-arguing-with-itself,2026-11-21,,
+GHA,105,2026-11-19-africa-is-arguing-with-itself,2026-11-21,nothing,2026-11-21
 GHA,106,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 GMB,54,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 GNQ,31,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
-KEN,159,2026-11-19-africa-is-arguing-with-itself,2026-11-21,,
+KEN,159,2026-11-19-africa-is-arguing-with-itself,2026-11-21,fact,2026-11-21
 KEN,160,2026-11-01-ken-akili-kncci-ai-readiness-in-kenya-2026,2026-11-21,instrument,2026-11-21
 KEN,161,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 LBR,43,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
@@ -1586,7 +1586,7 @@ NAM,63,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,20
 NER,45,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 NGA,171,2026-11-19-africa-is-arguing-with-itself,2026-11-21,capped,2026-11-21
 NGA,172,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
-RWA,85,2026-11-19-africa-is-arguing-with-itself,2026-11-21,,
+RWA,85,2026-11-19-africa-is-arguing-with-itself,2026-11-21,nothing,2026-11-21
 RWA,86,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 SDN,40,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 SEN,73,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21

@@ -1,0 +1,47 @@
+{
+ "slug": "2026-11-19-africa-is-arguing-with-itself",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "CIO Africa says Kenya's Data Protection Act is applied through section 50 and Regulation 26.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "CIO Africa says the Office of the Data Protection Commissioner administers the Act.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "CIO Africa says the ODPC published a Guidance Note on Cross-border Data Transfers in April 2026.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "none",
+   "fact": "CIO Africa says Kenya has not ratified the Malabo Convention.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

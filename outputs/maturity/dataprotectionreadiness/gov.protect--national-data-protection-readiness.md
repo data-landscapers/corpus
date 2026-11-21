@@ -148,6 +148,7 @@ Law in force since 2021; authority working, its merged successor given a preside
 - On 1 July 2025 the Prime Minister launched a series of CIL awareness sessions on personal data protection for ministries and public institutions, starting at the Primature, following the third national data protection day of 25-30 March 2025 ([source, 2025-07-01](https://www.sidwaya.info/protection-des-donnees-a-caractere-personnel-le-premier-ministre-sonne-la-mobilisation-au-sein-de-ladministration/)).
 - At that session the CIL validated its public report for 2024, described as covering outreach on law n°001-2021/AN, compliance controls, and the handling of complaints and authorisation requests, with no counts given ([source, 2025-06-26](https://cil.bf/?p=1506)).
 - leFaso.net reports that by decree of 16 October 2026 Wendingoudi Louis Modeste Ouedraogo, until then president of the CSC, was named president of the new authority formed by merging the CSC and the data-protection commission CIL ([source, 2026-10-16](https://lefaso.net/spip.php?article150089)).
+- Burkina Faso's Council of Ministers on 19 November 2026 named the ten councillors of ARCOD's first college under organic law 038-2026/ALP of 3 August 2026, after its president was appointed by decree on 16 October 2026 (leFaso.net) ([source, 2026-11-19](https://lefaso.net/spip.php?article150924=)).
 
 ### Cape Verde: 4 Operating
 

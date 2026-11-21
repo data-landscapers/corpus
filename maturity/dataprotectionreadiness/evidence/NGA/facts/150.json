@@ -1,0 +1,37 @@
+{
+ "slug": "2026-06-26-nga-ndpc-guidance-notice-cpd-dpos",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The Commission's 26 June 2026 notice applies section 32 of the Nigeria Data Protection Act, 2023 and GAID 2025 to Data Protection Officers.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Nigeria Data Protection Commission is acting as the body administering the Act, issuing notices and verifying Data Protection Officers.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The Commission issued guidance on 26 June 2026 setting a CPD points regime for verified Data Protection Officers, and keeps a database in which DPOs are enrolled.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "NDPC/HQ/GN/VOL.05/26",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

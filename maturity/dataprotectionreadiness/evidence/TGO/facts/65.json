@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-18-tgo-protection-des-donn-es-personnelles-28-correspondants-certifi-s-par-l-",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The IPDCP, led by its President Colonel Belei Bediani, was at work on 18 November 2026, according to its own release.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "IPDCP",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The IPDCP trained correspondents on the legal framework from June 2026, assessed them on 30 September and 1 October, and certified the first 28 on 18 November 2026, drawn from banks, insurers, telecom operators, port bodies, local authorities and digital firms.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "IPDCP correspondent certification",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": "No law named; no ruling stated."
+}
