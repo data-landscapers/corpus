@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-17-zaf-itweb-teraco-wind-wheeling-sediba-solar",
+ "facts": [
+  {
+   "sub_indicator": "power",
+   "aspect": "supply",
+   "value": "reserved",
+   "fact": "Teraco says the first wind electricity from its contracted independent power producer was wheeled to its Cape Town data centres in September 2026 under wind power purchase agreements.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Teraco wind PPA, Cape Town data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sediba solar PV plant (120MW, under construction, Free State)",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
