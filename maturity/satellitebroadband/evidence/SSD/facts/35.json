@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-03-ssd-mtn-south-sudan-brings-starlink-nationwide-to-boost-digital-access",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "TechAfrica News carries MTN South Sudan's announcement that it sells and supports Starlink kits and subscriptions through its customer service points and Connect Stores nationwide, following a September 2024 partnership with Starlink and an authorisation by the National Communications Authority.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Starlink via MTN South Sudan",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

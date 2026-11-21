@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-17-zaf-itweb-telkom-openserve-amazon-leo-distribution",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Amazon Leo",
+   "country_label": "Amazon Leo via Telkom Openserve",
+   "class": "other",
+   "platform": "low-Earth-orbit satellite",
+   "owner": "Amazon, distributed by Telkom",
+   "tiers": ""
+  }
+ ],
+ "note": "Distribution deals are signed but no licence or sale to customers is stated; Starlink is said to lack ICASA licences, with no statement that none is licensed."
+}

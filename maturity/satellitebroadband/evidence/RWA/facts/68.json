@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-rwa-thematic-snapshot-rwanda-digitizing-rural-health-facilities",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The Global Fund says Society for Family Health Rwanda's rural health posts rely primarily on internet from low-earth-orbit satellites; no licence or provider is named.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "low-earth-orbit satellite internet",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
