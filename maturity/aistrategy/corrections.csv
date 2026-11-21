@@ -58,3 +58,6 @@ MAR,004,standing,adopted,revalued: draft,"a launch, unveiling or issue by the mi
 MRT,001,standing,adopted,revalued: draft,"a launch, unveiling or issue by the minister or ministry is not adoption; formal validation is needed (Bill, messages-for-bill 132, 2026-11-16)"
 MRT,002,standing,adopted,revalued: draft,"a launch, unveiling or issue by the minister or ministry is not adoption; formal validation is needed (Bill, messages-for-bill 132, 2026-11-16)"
 MRT,008,standing,adopted,revalued: draft,"a launch, unveiling or issue by the minister or ministry is not adoption; formal validation is needed (Bill, messages-for-bill 132, 2026-11-16)"
+ZAF,042,standing,none,revalued: draft,"a withdrawn draft with a policy still to come is a strategy being written, not none; dated to publication, as the year alone fell after the as-at"
+ZWE,047,standing,draft,revalued: adopted,"a strategy the President launched is adopted; the briefing gives the launch, not a draft"
+EGY,019,standing,adopted,removed,its source record is no longer held in raw/; 4c 2026-11-21

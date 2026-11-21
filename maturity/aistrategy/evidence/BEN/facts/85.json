@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-16-ben-wearetech-ia-chine-snaeia-competences-jeunesse",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "We Are Tech Africa says Benin adopted its national AI and big data strategy (SNIAM) in January 2023, covering 2023-2027, with a 123-measure action plan.",
+   "as_of": "2023-01",
+   "date_precision": "month",
+   "system": "Stratégie nationale d'intelligence artificielle et des mégadonnées (SNIAM)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

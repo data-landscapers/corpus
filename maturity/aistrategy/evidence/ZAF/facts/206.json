@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-16-zaf-inforeg-must-not-be-ai-regulator-says-ex-member",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "ITWeb, citing Prof Sizwe Snail ka Mtuze, says South Africa's draft National AI Policy was withdrawn earlier in 2026 and an AI policy is still to come.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

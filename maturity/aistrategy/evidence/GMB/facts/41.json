@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-gmb-ai-is-arriving-in-the-gambia-are-we-ready-for-the-risks",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "The author says The Gambia does not yet have a national AI strategy.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "National AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
