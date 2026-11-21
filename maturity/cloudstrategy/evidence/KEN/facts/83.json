@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-africa-is-arguing-with-itself",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "CIO Africa says Kenya's government cloud policy keeps state data in the country.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Kenya government cloud policy",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
