@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-20-tza-citizen-digital-systems-global-outages",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The Citizen quotes Neurotech's Kalebu Gwalugano saying Tanzania has local data centre and cloud providers including Liquid, Wingu and the National Internet Data Centre, whose offerings mainly target government institutions and large organisations.",
+   "as_of": "2026-11-20",
+   "date_precision": "day",
+   "system": "Liquid, Wingu, National Internet Data Centre (NIDC)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Internet Data Centre (NIDC)",
+   "country_label": "NIDC",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No Tier or cloud region stated; a full public cloud region is only called for."
+}

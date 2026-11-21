@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-zaf-itweb-teraco-ai-innovation-lab",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "ITWeb reports Teraco runs the JB3 data centre at its Isando campus in Johannesburg, and that Teraco's parent Digital Realty provides co-location and interconnection services.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Teraco JB3, Isando",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco JB3, Isando",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-16-gov-bw-shared-digital-services",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government data centre (Department of Shared Digital Services)",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Botswana",
+   "tiers": ""
+  }
+ ],
+ "note": "The government data centre serves ministries; renting to outside organisations and a Tier are not stated."
+}

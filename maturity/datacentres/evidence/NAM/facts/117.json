@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-nam-who-owns-namibias-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The Windhek Observer analysis says Paratus's Armada data centre is a major private local hosting investment, positioned as a platform for businesses to store information within Namibia.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Paratus Armada data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Armada data centre",
+   "country_label": "Namibia",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Paratus",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

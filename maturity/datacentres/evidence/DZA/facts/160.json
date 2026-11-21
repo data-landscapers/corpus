@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-15-dza-jeune-independant-hcn-accompaniment-dzair-digital-services",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mohammadia (Algiers) data centre",
+   "country_label": "Algeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "state (HCN)",
+   "tiers": "Tier III"
+  },
+  {
+   "system": "Blida data centre",
+   "country_label": "Algeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "state (HCN)",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "Two Tier III data centres are said to host public data; the article does not say they rent space or computing to other organisations."
+}

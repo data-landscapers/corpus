@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-17-tza-serikali-yaimarisha-uwezo-wa-kituo-cha-taifa-cha-kuhifadhi-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Internet Data Centre (NIDC)",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communication and Information Technology",
+   "tiers": ""
+  }
+ ],
+ "note": "NIDC expansion is funded (TSh 39 billion for 2026/27) but the release does not say it rents capacity to outside organisations."
+}

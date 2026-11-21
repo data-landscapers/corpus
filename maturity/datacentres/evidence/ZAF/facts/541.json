@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-zaf-mybroadband-napafrica-7tbps-800g-ports",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "MyBroadband reports Teraco says its South African data centres let enterprises interconnect directly to cloud on-ramps (Azure, Alibaba Cloud, AWS, Google Cloud, Huawei Cloud, Oracle) and to cable landings, with over 29,500 interconnects.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Teraco data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

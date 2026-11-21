@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-dji-ecofin-qatar-data-centres-partnership",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Agence Ecofin reports the World Bank's September 2026 diagnostic says Djibouti's two main data centre facilities are nearing full use, with no Tier rating or cloud region stated.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Djibouti's two main data centre facilities",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-15-mus-defimedia-microsoft-365-outage-digital-dependence",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Data Centre",
+   "country_label": "Government Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": "Only the government's own data centre is named, with no hire to outside customers stated."
+}

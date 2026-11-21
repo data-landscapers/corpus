@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-zaf-itweb-teraco-wind-wheeling-sediba-solar",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Teraco, a data centre operator, says its customers deploy computing capacity in its facilities, including its Cape Town data centres.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Teraco data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
