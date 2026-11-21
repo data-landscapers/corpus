@@ -1473,7 +1473,7 @@ BFA,65,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-a
 BFA,66,2024-01-01-smart-africa-creating-foundations-africas-digital-future,2026-11-17,instrument,2026-11-17
 BFA,67,2023-12-01-ecdpm-dp360-digital-id-systems-in-africa,2026-11-17,instrument,2026-11-17
 BFA,68,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
-BWA,51,2024-02-28-apc-botswana-e-government-privacy-pitfalls,2026-11-17,,
+BWA,51,2024-02-28-apc-botswana-e-government-privacy-pitfalls,2026-11-17,reassessed,2026-11-21
 BWA,52,2021-05-17-paradigm-londa-digital-rights-inclusion-botswana-2021,2026-11-17,instrument,2026-11-17
 BWA,53,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 BWA,54,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -1808,7 +1808,7 @@ DJI,47,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instr
 DZA,35,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 EGY,67,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 LBY,25,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
-MAR,57,2026-11-18-mar-cndp-gpa-privacy-enhancing-technologies-resolution-adopted,2026-11-18,,
+MAR,57,2026-11-18-mar-cndp-gpa-privacy-enhancing-technologies-resolution-adopted,2026-11-18,nothing,2026-11-21
 MAR,58,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 TUN,55,2026-11-10-xna-world-bank-menaap-dpi-regional-assessment,2026-11-18,instrument,2026-11-18
 AGO,64,2026-11-19-xgl-un-e-government-survey-2026-report,2026-11-20,instrument,2026-11-20
@@ -1902,7 +1902,7 @@ ETH,89,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,20
 GAB,70,2026-11-19-xaf-digitalbusiness-mene-afrique-un-seul-marche-numerique,2026-11-21,instrument,2026-11-21
 GAB,71,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 GAB,72,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
-GHA,166,2026-11-19-africa-is-arguing-with-itself,2026-11-21,,
+GHA,166,2026-11-19-africa-is-arguing-with-itself,2026-11-21,nothing,2026-11-21
 GHA,167,2026-11-19-xaf-digitalbusiness-mene-afrique-un-seul-marche-numerique,2026-11-21,instrument,2026-11-21
 GHA,168,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 GHA,169,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
@@ -1912,7 +1912,7 @@ GMB,69,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,20
 GNB,49,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 GNQ,49,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 GNQ,50,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
-KEN,189,2026-11-19-africa-is-arguing-with-itself,2026-11-21,,
+KEN,189,2026-11-19-africa-is-arguing-with-itself,2026-11-21,nothing,2026-11-21
 KEN,190,2026-11-19-xaf-digitalbusiness-mene-afrique-un-seul-marche-numerique,2026-11-21,instrument,2026-11-21
 KEN,191,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 KEN,192,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
@@ -1946,7 +1946,7 @@ NGA,201,2026-11-13-xwa-guardian-ecowas-court-judicial-retreat-ecms,2026-11-21,ca
 NGA,202,2026-11-19-xaf-digitalbusiness-mene-afrique-un-seul-marche-numerique,2026-11-21,instrument,2026-11-21
 NGA,203,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 NGA,204,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
-RWA,133,2026-11-19-africa-is-arguing-with-itself,2026-11-21,,
+RWA,133,2026-11-19-africa-is-arguing-with-itself,2026-11-21,nothing,2026-11-21
 RWA,134,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 RWA,135,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 SDN,47,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
@@ -1966,7 +1966,7 @@ TCD,62,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 TCD,63,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 TGO,84,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 TGO,85,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
-TUN,57,2026-11-19-tun-assabah-national-e-commerce-strategy-march-2027,2026-11-21,,
+TUN,57,2026-11-19-tun-assabah-national-e-commerce-strategy-march-2027,2026-11-21,nothing,2026-11-21
 TUN,58,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 TUN,59,2024-11-01-xaf-atu-africa-broadband-outlook-2024,2026-11-21,instrument,2026-11-21
 TZA,96,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21

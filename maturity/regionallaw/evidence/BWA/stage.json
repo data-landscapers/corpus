@@ -1,16 +1,17 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "harmonisation",
-   "stage": "1",
-   "accepted": "none",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-001",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-regionallaw.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "harmonisation",
+      "stage": "1",
+      "accepted": "none",
+      "effect": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-001",
+      "gaps": "An APC article of February 2024 calls Botswana a signatory of the Malabo Convention (BWA-003); the African Union's register of February 2026, the newer and the depositary's own, shows no signature, so it stands.",
+      "note": "The African Union's register of 2 February 2026 shows no signature, ratification or deposit for Botswana, and no other shared African digital text is on record, so stage 1. The APC's 2024 claim of a signature is older and outweighed by the register.",
+      "as_at": "2026-11-21"
+    }
+  ]
 }
