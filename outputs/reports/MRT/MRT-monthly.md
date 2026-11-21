@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: MRT
-ledger_rows: 21
+ledger_rows: 22
 not_held: 3
-record: 6f42ef3cdc83
+record: ae521bdb8ae7
 ---
 
 # News, Oct – Nov 2026
@@ -177,6 +177,20 @@ Mauritania's regulator ARE rejected appeals by Mauritel, Mattel and Chinguitel a
 **[MATTEL lance commercialement la 5G et dévoile sa filiale de paiement mobile MATTEL MONEY - Le Quotidien](https://lequotidien.mr/?p=42746)** — Le Quotidien, 9 November 2026
 
 Mattel launched commercial 5G in Mauritania on 9 November 2026, starting in Nouakchott and Nouadhibou. It also opened a Tier III redundancy and network-supervision centre. The operator presented its e-money subsidiary Mattel Money and the Mechili wallet.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Universal-access agreement for the far north (Chinguitel)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Chinguitel et l'Autorité de Régulation renouvellent l'accord d'accès universel pour le grand Nord mauritanien](https://lequotidien.mr/?p=43393)** — Le Quotidien de Nouakchott, 20 November 2026
+
+Mauritania's regulator ARE and the operator Chinguitel renewed their universal-access agreement for the far north on 19 November 2026. It covers the Zouerate, Bir Moghrein and Ain Ben Tili border axis. The terms and duration have not been published.
 
 </div>
 
