@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: DZA
-ledger_rows: 44
+ledger_rows: 45
 not_held: 6
-record: b9c16ee092cf
+record: cec9008ea415
 ---
 
 # News, Oct – Nov 2026
@@ -477,6 +477,20 @@ UCL's Institute for Innovation and Public Purpose released its DPI Map dataset o
 **[Crédit Populaire d'Algérie Launches Electronic Payment Service from Abroad](https://news.radioalgerie.dz/en/node/98961)** — Radio Algérienne, 13 November 2026
 
 Crédit Populaire d'Algérie launched CPAzonepay on 12 November 2026. Merchants with websites can now accept Visa and Mastercard cards issued abroad. It targets exporters, tourism, transport and other sectors.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic payment modernisation roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الدفع الإلكتروني ومراقبة السلع على طاولة الحكومة](https://www.echoroukonline.com/%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%86%d8%a9-%d9%88%d8%a7%d9%84%d8%af%d9%81%d8%b9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%88%d9%85%d8%b1%d8%a7%d9%82%d8%a8%d8%a9-%d8%a7%d9%84)** — Echorouk El Yawmi, 18 November 2026
+
+9M 2026: online payments DZD 391bn (+63%), POS DZD 133bn (+48%), mobile DZD 56.4bn; ATM withdrawals down 14%.
 
 </div>
 

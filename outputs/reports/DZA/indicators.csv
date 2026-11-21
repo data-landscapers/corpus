@@ -427,13 +427,13 @@ dpi.pay--population-uptake,Movement,"[About 23m cards and 126,000 terminals were
 
 Behind the aggregate, [internet payments rose 179% in 2025 to DZD 145bn over more than 27 million transactions while terminal payments doubled to DZD 89.5bn](2026-02-18-algerie-paiements-electroniques-939-milliards), the internet channel led by telecommunications and then administrative services.
 
-On the demand side the repository now holds usage rather than instrument counts: [34% of the population used digital payments over the year, 44% of adults owned a formal account, and in a field survey 71% still paid mainly in cash](2024-10-01-siips2024-consumer-research-algeria).
+[34% of the population used digital payments over the year, 44% of adults owned a formal account, and in a field survey 71% still paid mainly in cash](2024-10-01-siips2024-consumer-research-algeria).
 
 2026-10-01 - the interbank payments body counted [about 23m cards and 126,000 terminals at the end of August 2026](2026-10-01-dza-algerie-eco-gie-monetique-23-millions-cartes-126000-tpe), against 78,000 terminals in December 2025.
 
-2026-10-01 - active web merchants [rose from 644 in December 2025 to 1,034 at the end of August 2026](2026-10-01-dza-algerie-eco-gie-monetique-23-millions-cartes-126000-tpe).
+2024 - the 2025 Global Findex [put account ownership at 35% of adults, down from 44% in the 2021 edition, with 13% making or receiving digital payments](2025-12-01-dza-selon-global-findex-2025-le-numerique-ouvre-de-nouvelles-perspectives).
 
-2024 - the 2025 Global Findex [put account ownership at 35% of adults, down from 44% in the 2021 edition, with 13% making or receiving digital payments](2025-12-01-dza-selon-global-findex-2025-le-numerique-ouvre-de-nouvelles-perspectives).",DZA-dpi.pay-cards-terminals|DZA-dpi.pay-web-merchants-connected|DZA-dpi.pay-electronic-payment-value|DZA-dpi.pay-financial-inclusion-measurement,2,,35.2901,% of adults 15+,2024,ref:findex-account-ownership@2026-07-13,,,2026-08-31,0,survey figure; no primary in the base
+2026-11-18 - reviewing its payment roadmap, the government [put online payments at DZD 391bn in the first nine months of 2026, up 63%, and cash withdrawals at ATMs down 14%](2026-11-18-dza-echorouk-government-meeting-electronic-payment-roadmap).",DZA-dpi.pay-cards-terminals|DZA-dpi.pay-web-merchants-connected|DZA-dpi.pay-electronic-payment-value|DZA-dpi.pay-financial-inclusion-measurement|DZA-dpi.pay-electronic-payment-modernisation-roadmap,2,,35.2901,% of adults 15+,2024,ref:findex-account-ownership@2026-07-13,,,2026-08-31,0,survey figure; no primary in the base
 dpi.pay--cross-border-functionality,Movement,The central bank [joined the pan-African settlement network as its eighteenth member on 15 August 2025](2025-08-15 Bank of Algeria joins PAPSS network); no transaction volume is held.,"Membership did not exist at the window's opening. 2025-08-15 - the central bank [joined as the eighteenth country, with no transaction volume held](2025-08-15 Bank of Algeria joins PAPSS network).
 
 No Algerian bank is named as live on the rail, no corridor volume or value is published, and nothing states the settlement or pricing arrangement a domestic institution would face. It is an accession rather than a working corridor, and it sits in a market whose own domestic instant rail has not launched.
