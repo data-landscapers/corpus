@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy asks for consumer protection
 |---|---|
 | 5 Mature | 8 |
 | 4 Operating | 10 |
-| 3 Established | 13 |
+| 3 Established | 14 |
 | 2 Nascent | 3 |
 | 1 Absent | 1 |
 | Unplaced | 9 |
-| No evidence | 10 |
+| No evidence | 9 |
 
 ## Countries
 
@@ -198,6 +198,12 @@ Consumer-protection rules for digital finance were in force in 2026; no source f
 
 - E-money institutions are legally required to run a 24/7 customer service handling complaints on loss, theft, fraud and unauthorised transactions, with oral complaints confirmed in writing within five working days, per 2424.mg ([source, 2026-06-11](https://2424.mg/mobile-money-les-autorites-annoncent-des-audits-du-systeme-des-etablissements-de-monnaie-electronique/)).
 
+### Mali: 3 Established
+
+Central bank rules capping fees on some electronic payments came into force in November 2026; no source found says a body takes complaints.
+
+- APAnews reports that new BCEAO tariff provisions in force since 2 November 2026 cap the fees charged on certain electronic payment operations ([source, 2026-11-02](https://fr.apanews.net/technologies/mali-sama-money-ouvre-la-reception-des-paiements-instantanes-de-luemoa/)).
+
 ### Namibia: 3 Established
 
 Consumer-protection rules for digital finance were in force in 2026; no source found reports a complaints body.
@@ -345,12 +351,6 @@ Nothing found names consumer-protection rules for digital finance or says there 
 Not established: Nothing found says whether consumer-protection rules apply to digital finance.
 
 ### Guinea-Bissau: No evidence
-
-Nothing found names consumer-protection rules for digital finance or says there is none, so no stage is set.
-
-Not established: Nothing found says whether consumer-protection rules apply to digital finance.
-
-### Mali: No evidence
 
 Nothing found names consumer-protection rules for digital finance or says there is none, so no stage is set.
 

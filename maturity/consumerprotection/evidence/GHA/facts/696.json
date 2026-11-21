@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-gha-bog-develops-open-banking-framework-to-facilitate-customer-data-sharing",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "Governor Asiama said the Bank of Ghana is implementing guidelines for digital credit service providers to make digital lending fair, transparent and sustainable for borrowers.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "Bank of Ghana digital credit guidelines",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

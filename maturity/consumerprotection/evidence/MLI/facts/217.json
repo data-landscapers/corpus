@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-16-mli-apanews-sama-money-pi-spi-reception",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "APAnews reports that new BCEAO tariff provisions in force since 2 November 2026 cap the fees charged on certain electronic payment operations.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "BCEAO fee provisions",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

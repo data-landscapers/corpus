@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "protection",
-   "stage": "no evidence",
-   "rules": "",
-   "redress": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether consumer-protection rules apply to digital finance.",
-   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "protection",
+      "stage": "3",
+      "rules": "inforce",
+      "redress": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-001",
+      "gaps": "No source found says an ombudsman or a regulator's complaints unit takes complaints about digital financial services.",
+      "note": "The regional central bank's tariff rules capping fees on some electronic payment operations are in force from 2 November 2026 (MLI-001), as for Senegal: yes to question 2. No complaints body is held, so not 4.",
+      "as_at": "2026-11-21"
+    }
+  ]
 }
