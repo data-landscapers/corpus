@@ -26,6 +26,7 @@ BWA,Births and Deaths Registration System (BDRS),Births and Deaths Registration 
 BWA,DHIS2,DHIS2,other,DHIS2,Ministry of Health,all public facilities,2019-08-01-bwa-botswana-his-indicators
 BWA,Integrated Patient Management System (IPMS),IPMS,other,,Ministry of Health,hospitals,2019-08-01-bwa-botswana-his-indicators
 BWA,The Statistical Year Book 2020/21,The Statistical Year Book 2020/21,admin,,Statistics Botswana,,2023-11-01-bwa-the-statistical-year-book-2020-21
+BWA,National Statistical Data Platform,National Statistical Data Platform (proposed),other,,Statistics Botswana,,2026-11-01-bwa-gpsdd-ohuruogu-statistics-botswana-strategic-plan-data-diamond
 CAF,"Civil registration (births, marriages, deaths), paper-based, central registry DGMEC/MATDSI",Civil registration system,other,paper forms,Ministry of the Interior and Territorial Administration,,2017-12-05-crvs-profile-central-african-republic
 CAF,"Education statistics system (school data collection, annuaires statistiques)",Education statistics (Ministry of National Education / ICASEES),admin,,Ministry of National Education; ICASEES,,2026-02-19-icasees-hiswaca-motos-chefs-secteur-scolaire
 CAF,"Annuaire statistique, Fondamental 1, Alphabétisation et Éducation de base non formelle 2021-2022",Annuaire statistique 2021-2022 (education),admin,,ICASEES; Ministry of National Education,,2024-11-15-caf-icasees-annuaire-statistique-fondamental1-2021-22
@@ -97,6 +98,7 @@ GHA,Education Management Information System (EMIS),EMIS,other,,Ministry of Educa
 GHA,Education Management Information System (EMIS),EMIS,other,,Ministry of Education (SRIM Directorate),,2024-10-01-ghana-emis-system-capacity-grant-ii-program-proposal
 GHA,2022 Statistical Report: Death Registration,Ghana,vital,,Births and Deaths Registry,,2024-01-01-gha-2022-statistical-report-death-registration
 GHA,2022 Statistical Report Birth Registration,Ghana,vital,,Births and Deaths Registry,,2024-01-01-ghana-births-and-deaths-registry-2022-statistical-report
+GHA,GSS administrative data-sharing MoUs,GSS data-sharing MoUs with 25 MDAs,other,,Ghana Statistical Service,,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership
 GIN,Registre National de l'État Civil / plateforme de numérisation de l'état civil,National Civil Registry digitisation platform,other,,Ministry of Territorial Administration and Decentralisation,,2026-08-11-guinea-etat-civil-decentralisation-npi
 GIN,Registre National des Personnes Physiques (NPI),National Register of Natural Persons,other,,,,2026-08-11-guinea-etat-civil-decentralisation-npi
 GIN,Tableau des opérations financières de l'État (TOFE),Tableau des opérations financières de l'État,other,,"Direction générale du Budget, Ministère de l'Économie, des Finances et du Budget",,2026-08-08-guinea-comite-statistiques-finances-publiques
@@ -151,6 +153,7 @@ MDG,Rahaka,Rahaka national interoperability platform,other,X-Road,UGD,,2026-04-2
 MDG,RAHAKA,RAHAKA national interoperability system,other,,UGD / Ministry of Digital Development,,2026-04-28-instat-interoperabilite-nationale
 MDG,National biometric enrolment (NUI),National biometric enrolment,other,,Ministry of the Interior,,2026-01-30-national-biometric-enrolment-begins
 MDG,Système Informatisé de l'Etat Civil Malagasy,Système Informatisé de l'Etat Civil Malagasy,other,,,,2018-11-27-loi-2018-027-etat-civil-who-int
+MDG,SE&AM,"Système de suivi et d'évaluation de l'eau, de l'assainissement et de l'hygiène (SE&AM)",other,"dashboards, indicators, infrastructure mapping, financing tracking","Ministère de l'Eau, de l'Assainissement et de l'Hygiène (MEAH)",fokontany to national,2026-11-19-mdg-madagascar-secteur-eah-les-donnees-pour-mieux-piloter-les-investissements
 MLI,SNISI,SNISI,other,,Ministry of Health,,2026-09-03-mali-snisi-a-propos-de-ce-systeme
 MLI,INSTAT microdata catalogue (NADA),Catalogue de données INSTAT,other,NADA,INSTAT,,2026-08-10-mali-instat-microdata-catalogue
 MLI,sante.gov.ml portal,Portail national de santé numérique,other,,Ministry of Health and Social Development,,2026-07-08-techgriot-mali-national-digital-health-portal

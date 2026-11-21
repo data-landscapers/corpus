@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-19-mdg-madagascar-secteur-eah-les-donnees-pour-mieux-piloter-les-investissements",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SE&AM",
+   "country_label": "Système de suivi et d'évaluation de l'eau, de l'assainissement et de l'hygiène (SE&AM)",
+   "class": "other",
+   "platform": "dashboards, indicators, infrastructure mapping, financing tracking",
+   "owner": "Ministère de l'Eau, de l'Assainissement et de l'Hygiène (MEAH)",
+   "tiers": "fokontany to national"
+  }
+ ],
+ "note": "A sector monitoring information system launched 18 Nov 2026; no published statistics from administrative records and no statistics-office work stated."
+}

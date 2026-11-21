@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-20-gha-data-forum-statistics-bill-national-statistics-fund",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "The Ghana Statistical Service has signed 33 memoranda of understanding with institutions, and the 2026 Data Forum tasked those institutions to name a statistics focal person and share at least one dataset with GSS by December 2027 to harness administrative records, while noting administrative data are under-used for statistics.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "GSS memoranda of understanding with data-holding institutions",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
