@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-18-mar-cndp-gpa-privacy-enhancing-technologies-resolution-adopted",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Morocco's CNDP took part in the work of the African Network of Data Protection Authorities (NADPA-RAPDP), of which Morocco holds the permanent secretariat, at a meeting reported on 18 November 2026.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "NADPA-RAPDP",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "The first meeting of the new executive bureau of the African Network of Data Protection Authorities (NADPA-RAPDP) was held in Rabat in September 2026, with Morocco holding the network's permanent secretariat.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "NADPA-RAPDP",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
