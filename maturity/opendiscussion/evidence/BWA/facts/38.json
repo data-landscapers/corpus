@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-28-apc-botswana-e-government-privacy-pitfalls",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "The article reports that journalist Tsaone Basimanebotlhe was detained and her devices confiscated in 2019 by state security agents seeking the sources behind an article that published photos of agents.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Corruption and Economic Crime Act",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
