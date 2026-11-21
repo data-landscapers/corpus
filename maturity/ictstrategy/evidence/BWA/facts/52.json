@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-28-apc-botswana-e-government-privacy-pitfalls",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The article says the Maitlamo ICT Policy was adopted in 2004 to facilitate ICT rollout (it also dates its adoption to 2007).",
+   "as_of": "2004",
+   "date_precision": "year",
+   "system": "Maitlamo ICT Policy",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maitlamo ICT Policy",
+   "country_label": "Botswana",
+   "class": "sector",
+   "platform": "",
+   "owner": "Government of Botswana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
