@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-21
+period: 2026-10-01 to 2026-11-21
 place: NGA
-ledger_rows: 137
+ledger_rows: 139
 not_held: 8
-record: 2a10be074a3e
+record: dae9a88c3462
 ---
 
 # News, Oct – Nov 2026
@@ -593,6 +593,20 @@ The ITU Plenipotentiary Conference in Doha elected 13 African countries to the I
 **[NAIGF inaugurates advisory council to guide responsible AI in Nigeria](https://aigovernanceafrica.com/naigf-inaugurates-advisory-council-to-guide-responsible-ai-in-nigeria/)** — AI Governance Africa, 27 October 2026
 
 The Nigeria AI Governance Forum inaugurated a 15-member advisory council chaired by Olusola Teniola, it was reported on 27 October 2026. The council will give policy advice in support of the national AI strategy. It is not a regulator, and its recommendations have no legal force.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Code of conduct for independent tabulation of election results</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INEC backs code for independent tabulation of 2027 election results](https://www.vanguardngr.com/2026/11/inec-backs-code-for-independent-tabulation-of-2027-election-results/)** — Vanguard, 19 November 2026
+
+Six principles incl. data security and error accountability; Yiaga Africa to draft practical framework.
 
 </div>
 
@@ -1263,6 +1277,20 @@ NIMC's Identity Crime Enforcement Unit arrested suspected illegal NIN enrolment 
 **[Nigeria sets December 31 deadline for airlines to adopt V-Pass biometric checks](https://www.biometricupdate.com/202611/nigeria-sets-december-31-deadline-for-airlines-to-adopt-v-pass-biometric-checks)** — Biometric Update, 17 November 2026
 
 Nigeria's aviation ministry unveiled the V-Pass facial-verification system, linked to the national identity number, for domestic flights in Lagos on 16 November 2026. Airlines have until 31 December 2026 to integrate it. Verxid delivers it under a concession with FAAN, starting at the Lagos and Abuja domestic terminals. From 1 January 2027, passengers without a valid number are to be denied boarding.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Passport Booklet Manufacturing Centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria targets May for local passport production](https://www.vanguardngr.com/2026/11/nigeria-targets-may-for-local-passport-production/)** — Vanguard, 20 November 2026
+
+Nigeria broke ground on a National Passport Booklet Manufacturing Centre in Abuja on 20 November 2026. The vendor Iris Smart is financing the plant, at about $70m, with no government money. The interior minister said it would make 6 million e-passport booklets a year from May 2027, against national demand of 1.8 to 2 million, and serve ECOWAS.
 
 </div>
 
@@ -2478,7 +2506,15 @@ Nigeria's communications regulator lists subscribers for each internet service p
 
 <div class="bulletin-item" markdown="1">
 
-**[NASRDA backs ECOWAS plans for West Africa’s first regional Earth observation satellite](https://techreviewafrica.com/news/8400/x)** — Tech Review Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+**[ECOWAS ADVANCES REGIONAL SPACE AMBITIONS WITH TECHNICAL VALIDATION MEETING ON ECOSAT-1 SATELLITE](https://www.ecowas.int/ecowas-advances-regional-space-ambitions-with-technical-validation-meeting-on-ecosat-1-satellite/)** — ECOWAS Commission, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Abuja, 18-20 Nov 2026: NASRDA architecture study up for validation before STI ministers; origin in 2018 Cotonou meeting.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[NASRDA backs ECOWAS plans for West Africa’s first regional Earth observation satellite](https://www.techreviewafrica.com/news/8400/nasrda-backs-ecowas-plans-for-west-africas-first-regional-earth-observation-satellite)** — Tech Review Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Nigeria's space agency NASRDA said it would support ECOSAT-1, a planned ECOWAS Earth observation satellite, after an ECOWAS technical experts' meeting, reported on 19 November 2026. Its director-general linked the project to data sovereignty, disaster response, agriculture and environmental monitoring. No decision or figure was reported, and the meeting date is not stated.
 
