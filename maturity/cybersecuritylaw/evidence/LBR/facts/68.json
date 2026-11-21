@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-lbr-house-endorses-committees-report-rejecting-oesd-nir-concession-agreement",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The House committees recommended that any alternative ID arrangement comply with Liberia's Cybercrime Act of 2025, treated as an existing law.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Cybercrime Act of 2025",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

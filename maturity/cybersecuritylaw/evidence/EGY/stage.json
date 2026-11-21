@@ -8,10 +8,10 @@
       "use": "regular",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-004;EGY-008;EGY-005",
+      "stage_sources": "EGY-015;EGY-008;EGY-010;EGY-005",
       "gaps": "",
-      "note": "Regular use (Bill, 2026-10-30): a series of convictions under Law 175/2018 in November 2025 (EGY-004), beside other Economic Court trials under it that month (EGY-008, EGY-010).",
-      "as_at": "2026-10-30"
+      "note": "Regular use (Bill, 2026-10-30): LDSF reports a series of rulings under Law 175/2018 against content creators in November 2025, used for years (EGY-015), beside Economic Court trials under it that month (EGY-008, EGY-010). Restated 2026-11-21 when the People of Internet record behind EGY-004 was retired.",
+      "as_at": "2026-11-21"
     }
   ]
 }

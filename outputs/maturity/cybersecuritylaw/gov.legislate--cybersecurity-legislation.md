@@ -1,6 +1,6 @@
 # Cybersecurity legislation: cybercrime and cybersecurity law
 
-*As at 2026-10-30.*
+*As at 2026-11-21.*
 
 ## The norm
 
@@ -34,8 +34,9 @@ The Malabo Convention's third chapter commits each party to legal measures again
 
 A 2018 information technology crimes law is in force; in November 2025 courts convicted a series of content creators under it.
 
-- People of Internet says Egyptian courts convicted a series of TikTok content creators under Article 25 of Law 175/2018 in November 2025, with sentences from six-month suspended terms to two years and a fine of EGP 100,000 each ([source, 2025-11](https://peopleofinternet.com/articles/egypt-reaches-for-misinformation-laws-to-fill-its-deepfake-g.html)).
+- LDSF says November 2025 brought a series of judicial rulings against content creators, an escalation in the use of the Economic Court and the Anti-Cybercrime Law, whose charges it says authorities have used systematically for years ([source, 2025-11](https://ldsf.info/blog/2025/12/01/escalates-war-on-digital11225/)).
 - LDSF reports the Cairo Economic Court on 29 November 2025 sentenced video blogger Mohamed Abdel Aaty to two years and a fine under the Anti-Cybercrime Law, and sentenced Qamar El-Wekala to six months ([source, 2025-11-29](https://ldsf.info/blog/2025/12/01/escalates-war-on-digital11225/)).
+- The Economic Court tried a blogger on a charge under article 27 of Law 175 of 2018 (running a site to commit a crime) and acquitted her on it, while sentencing her on two other counts ([source, 2025-11-28](https://www.egyptke.com/99712)).
 - The Senate legislative committee is reviewing two impact studies on the effectiveness of Law 175 of 2018 on combating information technology crimes, as an existing law ([source, 2026-04-26](https://www.cairo24.com/2413157)).
 
 ### Kenya: 5 Mature

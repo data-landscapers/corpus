@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-gmb-ai-is-arriving-in-the-gambia-are-we-ready-for-the-risks",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "The author says the Cybercrime Bill introduced in 2024 is still under debate, with press freedom groups raising concerns about some provisions.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Cybercrime Bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

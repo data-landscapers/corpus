@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-africa-is-arguing-with-itself",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CIO Africa says the Bank of Ghana's Cyber and Information Security Directive rests on the Cybersecurity Act of 2020.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Cybersecurity Act 2020",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

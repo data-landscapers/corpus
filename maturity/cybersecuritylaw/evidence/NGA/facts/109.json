@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-08-fij-nincard-illegally-provided-id-services-nimc",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "FIJ cites the Cybercrimes Act, sections 6 and 22, as the law in force against unauthorised access to systems and identity theft.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Cybercrimes Act",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "No arrest or prosecution under the Act is stated."
+}
