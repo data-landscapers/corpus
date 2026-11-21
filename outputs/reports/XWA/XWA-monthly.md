@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-21
 place: XWA
 ledger_rows: 38
 not_held: 1
-record: 7422ffcf1bba
+record: dcfb7597e9c0
 ---
 
 # News, Oct – Nov 2026
@@ -366,7 +366,7 @@ The WAEMU Council of Ministers, meeting in Dakar on 2 October 2026, gave an opin
 
 **[SIIPS 2026 : le PI-SPI dépasse les 4 millions de transactions en un an dans l’UEMOA | Financial Afrik](https://www.financialafrik.com/2026/11/20/siips-2026-le-pi-spi-depasse-les-4-millions-de-transactions-en-un-an-dans-luemoa/)** — Financial Afrik, 20 November 2026
 
-PI-SPI after one year: 175 institutions, 4m+ transactions, FCFA 300bn+; PAPSS pilot for WAEMU banks.
+The BCEAO's PI-SPI lead said on 19 November 2026 that the WAEMU instant payment platform had 175 connected institutions after one year. By then 60 million people had access. It had carried over 4 million transactions worth over FCFA 300 billion. Volunteer WAEMU banks have piloted a link to PAPSS since October 2026.
 
 </div>
 
@@ -410,7 +410,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **[L’intelligence artificielle au cœur du débat monétique](https://lesoleil.sn/actualites/lintelligence-artificielle-au-coeur-du-debat-monetique/)** — Le Soleil, 20 November 2026
 
-PI-SPI at 165 connected participants, 50m+ people reached (31 Oct 2026); interim GIM-UEMOA DG on AI fraud risk.
+The 9th regional payments fair of GIM-UEMOA opened in Dakar on 19 November 2026. The BCEAO's secretary general said its instant payment platform, launched on 30 September 2025, had 165 connected participants at 31 October 2026 and reached over 50 million people. The interim GIM-UEMOA director general said AI can both detect fraud and be turned to malicious use.
 
 </div>
 
@@ -672,7 +672,7 @@ ECOWAS statisticians are meeting in Lomé from 3 to 6 November 2026. They are re
 
 **[ECOWAS ADVANCES REGIONAL SPACE AMBITIONS WITH TECHNICAL VALIDATION MEETING ON ECOSAT-1 SATELLITE](https://www.ecowas.int/ecowas-advances-regional-space-ambitions-with-technical-validation-meeting-on-ecosat-1-satellite/)** — ECOWAS Commission, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-Abuja, 18-20 Nov 2026: NASRDA architecture study up for validation before STI ministers; origin in 2018 Cotonou meeting.
+ECOWAS convened a technical meeting in Abuja from 18 to 20 November 2026 to validate the architecture and specifications of its ECOSAT-1 satellite. Nigeria's space agency NASRDA prepared the study. After validation it goes to the region's science, technology and innovation ministers for adoption.
 
 </div>
 

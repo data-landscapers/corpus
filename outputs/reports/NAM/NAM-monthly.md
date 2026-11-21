@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-21
 place: NAM
 ledger_rows: 30
 not_held: 8
-record: 5ae4f79b17fd
+record: 7285d5b37cc1
 ---
 
 # News, Oct – Nov 2026
@@ -342,7 +342,7 @@ Payment fraud cost Namibians N$32.45 million in the first half of 2026, up 18.9%
 
 **[Namibian banks handle 25% of SADC payments](https://www.namibian.com.na/namibian-banks-handle-25-of-sadc-payments/)** — The Namibian, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
-R708bn of R2.8tn SADC-RTGS value in 2025; 88 institutions in 15 states; ISO 20022 migration Nov 2025.
+Namibian banks settled R708 billion through the SADC regional payment system in 2025, 25% of its R2.8 trillion total. The figures come from the Bank of Namibia's 2025 annual report. All Namibian participants moved to ISO 20022 messaging in November 2025. In December 2025 Namibia ranked second by value at R76.33 billion, behind South Africa.
 
 </div>
 

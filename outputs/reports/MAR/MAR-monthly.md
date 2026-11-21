@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-21
 place: MAR
 ledger_rows: 42
 not_held: 13
-record: 55213222fda6
+record: da427f0a827d
 ---
 
 # News, Oct – Nov 2026
@@ -228,7 +228,7 @@ The Global Privacy Assembly adopted a resolution on privacy-enhancing technologi
 
 **[Le Maroc et la France associent leurs efforts contre la criminalité numérique](https://www.wearetech.africa/fr/fils/actualites/tech/le-maroc-et-la-france-associent-leurs-efforts-contre-la-criminalite-numerique)** — wearetech.africa, 20 November 2026
 
-Declaration of intent signed 19 Nov 2026 in Rabat: data sharing, magistrate training, AI in criminal investigations.
+Morocco's public prosecution authority and France's Justice Ministry signed a declaration of intent in Rabat on 19 November 2026. It extends their judicial cooperation to cybercrime and AI in criminal investigations, with information exchange, magistrate training and shared infrastructure for secure data exchange. Cited DGSN data put Moroccan cybercrime cases at 8,333 in 2024, against 5,969 in 2023.
 
 </div>
 
@@ -330,7 +330,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[Morocco’s mobile subscriptions reach 61.66 million by end of September 2026](https://en.hespress.com/149548-moroccos-mobile-subscriptions-reach-61-66-million-by-end-of-september-2026.html)** — Hespress, 20 November 2026
 
-ANRT data to end-Sept 2026: internet 44.3m, FTTH up 27.2% to 1.65m, ADSL down to 1.30m, .ma domains 143,850.
+Morocco had 61.66 million mobile subscriptions and 44.3 million internet subscriptions at the end of September 2026, according to ANRT data reported on 20 November 2026. Mobile penetration stood at 165.5%, against 166% a year earlier. Fibre to the home rose 27.2% in a year to 1.65 million, and ADSL fell to 1.30 million.
 
 </div>
 

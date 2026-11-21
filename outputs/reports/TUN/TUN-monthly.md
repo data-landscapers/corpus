@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-21
 place: TUN
 ledger_rows: 56
 not_held: 4
-record: c8ec96605f7c
+record: bffe430c4e64
 ---
 
 # News, Oct – Nov 2026
@@ -82,7 +82,7 @@ Tunisia's communications minister, Sofiene Hemissi, said on 9 October 2026 that 
 
 **[مدير تنمية التجارة الإلكترونية والاقتصاد اللامادي بوزارة التجارة لـ«الصباح»: الاستراتيجية الوطنية للتجارة الإلكترونية ستكون جاهزة في مارس 2027](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/1122969-%D9%85%D8%AF%D9%8A%D8%B1-%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A7/)** — الصباح نيوز, 19 November 2026
 
-Consultancy due March 2027, ministerial council May 2027; seven axes incl. AfCFTA digital trade protocol.
+The trade ministry's e-commerce director said the consultancy work on Tunisia's national e-commerce strategy is due in March 2027. A ministerial council is to adopt the strategy in May 2027. National consultations set seven axes, including the legal framework, digital trust, cross-border trade and the AfCFTA digital trade protocol.
 
 </div>
 
@@ -234,7 +234,7 @@ Tunisia's communication technologies minister presented a 2027 budget of TND 1.0
 
 **[سفيان الهميسي: 76 مليون دينار لتوسيع تغطية الاتصالات والتخلي عن الشبكة النحاسية قبل 2027](https://www.alchourouk.com/article/%D8%B3%D9%81%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%87%D9%85%D9%8A%D8%B3%D9%8A-76-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%84%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D8%AA%D8%BA%D8%B7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D8%AD%D8%A7%D8%B3%D9%8A%D8%A9-%D9%82%D8%A8%D9%84-2027)** — جريدة الشروق التونسية, 19 November 2026
 
-Tunisie Telecom contract; copper retired by Dec 2027; satellite kit duty exemption; coverage over 90%.
+Tunisia's communication technologies minister told parliament on 19 November 2026 that TND 76 million from the ICT development fund will extend coverage. It targets areas outside operators' licence obligations, under a contract with Tunisie Telecom. The copper network is to be abandoned before December 2027. Population coverage exceeds 90% (2026). The 2027 finance bill exempts some satellite-internet equipment from customs duties.
 
 </div>
 
@@ -420,7 +420,7 @@ Central Bank of Tunisia data show 18 million online payments worth TND 1.229bn i
 
 **[وزير تكنولوجيات الاتصال: مشروع البنك البريدي يحتاج اطار قانوني خاص](https://www.alchourouk.com/article/%D9%88%D8%B2%D9%8A%D8%B1-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%AF%D9%8A-%D9%8A%D8%AD%D8%AA%D8%A7%D8%AC-%D8%A7%D8%B7%D8%A7%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A-%D8%AE%D8%A7%D8%B5)** — جريدة الشروق التونسية, 19 November 2026
 
-Special statute, not the 2016 banking law; 500,000 free e-cards; 65% of pensions drawn by ATM or card.
+Tunisia's communication technologies minister told parliament on 19 November 2026 that the postal bank project will have its own law and economic model. La Poste Tunisienne will not be placed directly under the 2016 banking law. He cited over 500,000 free e-cards issued to social-assistance recipients. He also cited 65% of pension withdrawals made by ATM and card in the last quarter.
 
 </div>
 
@@ -516,7 +516,7 @@ Tunisia's minister of state domains, Wajdi Hedhili, briefed a joint parliamentar
 
 **[وزير التربية: معطيات منصة الحياة المدرسية محفوظة في مقر سيادي](https://www.alchourouk.com/article/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9-%D9%85%D8%AD%D9%81%D9%88%D8%B8%D8%A9-%D9%81%D9%8A-%D9%85%D9%82%D8%B1-%D8%B3%D9%8A%D8%A7%D8%AF%D9%8A)** — جريدة الشروق التونسية, 18 November 2026
 
-Data hosted in a state sovereign site; no off-framework contract; built with ICT ministry; exams to follow.
+On 18 November 2026 Tunisia's education minister told parliament that school-life platform data is hosted by the state in a sovereign site. He denied any contract outside the official framework. He said the ministry built the system with the communication technologies ministry. He said it will extend to national exams.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-21
 place: NGA
 ledger_rows: 139
 not_held: 8
-record: dae9a88c3462
+record: 973300a35436
 ---
 
 # News, Oct – Nov 2026
@@ -606,7 +606,7 @@ The Nigeria AI Governance Forum inaugurated a 15-member advisory council chaired
 
 **[INEC backs code for independent tabulation of 2027 election results](https://www.vanguardngr.com/2026/11/inec-backs-code-for-independent-tabulation-of-2027-election-results/)** — Vanguard, 19 November 2026
 
-Six principles incl. data security and error accountability; Yiaga Africa to draft practical framework.
+The Independent National Electoral Commission endorsed a voluntary code of conduct for independent tabulation of 2027 election results. It did so at a Yiaga Africa roundtable in Abuja on 19 November 2026. The code sets six principles, including data security and error accountability. Independent tallies must not be presented as official results.
 
 </div>
 
@@ -2508,7 +2508,7 @@ Nigeria's communications regulator lists subscribers for each internet service p
 
 **[ECOWAS ADVANCES REGIONAL SPACE AMBITIONS WITH TECHNICAL VALIDATION MEETING ON ECOSAT-1 SATELLITE](https://www.ecowas.int/ecowas-advances-regional-space-ambitions-with-technical-validation-meeting-on-ecosat-1-satellite/)** — ECOWAS Commission, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Abuja, 18-20 Nov 2026: NASRDA architecture study up for validation before STI ministers; origin in 2018 Cotonou meeting.
+ECOWAS convened a technical meeting in Abuja from 18 to 20 November 2026 to validate the architecture and specifications of its ECOSAT-1 satellite. Nigeria's space agency NASRDA prepared the study. After validation it goes to the region's science, technology and innovation ministers for adoption.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-21
 place: EGY
 ledger_rows: 76
 not_held: 35
-record: ecd94b896091
+record: 302b51e714c6
 ---
 
 # News, Oct – Nov 2026
@@ -320,7 +320,7 @@ Egypt's telecoms regulator described an online system that scores new cities aga
 
 **[البورصة المصرية تعتمد حزمة قواعد حوكمة الذكاء الاصطناعي لدعم كفاءة التداول](https://www.youm7.com/story/2026/11/19/%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%AD%D8%B2%D9%85%D8%A9-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%AD%D9%88%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%84%D8%AF%D8%B9%D9%85-%D9%83%D9%81%D8%A7%D8%A1%D8%A9/7625009)** — Youm7, 19 November 2026
 
-First EGX rule package on AI in operations, trading and disclosure; client data confidentiality, accountability.
+On 19 November 2026 the Egyptian Exchange announced board approval of its first rules on AI tools in operations, trading and corporate disclosure. The rules cover transparency, accountability and client data confidentiality. They include AI review of listed companies' disclosures and financial statements before release to investors.
 
 </div>
 

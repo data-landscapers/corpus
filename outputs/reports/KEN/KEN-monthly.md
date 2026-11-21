@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-21
 place: KEN
 ledger_rows: 115
 not_held: 5
-record: 76483c92b6e1
+record: a75d58109773
 ---
 
 # News, Oct – Nov 2026
@@ -1148,7 +1148,7 @@ Kenya's health cabinet secretary urged providers to meet the timelines for movin
 
 **[Who switched off Murang'a health portal? State agencies distance themselves from move](https://nation.africa/kenya/counties/muranga/who-switched-off-murang-a-health-portal--5674470)** — Daily Nation, 18 November 2026
 
-Ministry, DHA and SHA deny owning Afya.KE or its source code; 33 of 134 systems certified by 27 Oct 2026.
+In affidavits reported on 18 November 2026, three Kenyan health bodies told the High Court they neither own nor control Murang'a County's Afya.KE system. They are the ministry, the Digital Health Agency and the Social Health Authority. They said they did not switch it off. The agency said Afya.KE was never submitted for certification. The court has yet to determine who disabled the platform.
 
 </div>
 
@@ -1514,7 +1514,7 @@ Summarised under [Technical Capacity](#technical-capacity).
 
 **[Kenya Joins the Digital Public Goods Alliance](https://www.digitalpublicgoods.net/blog/kenya-joins-the-digital-public-goods-alliance)** — Digital Public Goods Alliance, 18 November 2026
 
-Membership roadmap: OSPO adoption hub, training 70 to 200+ civil servants, KenStack at Konza, two DPG nominations.
+Kenya's Ministry of Information, Communications and the Digital Economy joined the Digital Public Goods Alliance, announced in Paris on 18 November 2026. Its roadmap raises open-source training from 70 to over 200 civil servants. It deploys the KenStack sovereign open-source stack at the Konza National Data Centre. It nominates two homegrown solutions for assessment against the DPG Standard.
 
 </div>
 
@@ -1866,7 +1866,7 @@ Kenya's State Department for MSMEs launched the NYOTA AGPO Digital Training Prog
 
 **[Rongo University awarded UNESCO chair on ethical artificial intelligence](https://www.standardmedia.co.ke/health/tech-innovation/article/2001562593/rongo-university-awarded-unesco-chair-on-ethical-artificial-intelligence)** — The Standard, 19 November 2026
 
-Four-year chair 2027-2031 with RWTH Aachen under UNITWIN; ethical AI for climate action and digital peacebuilding.
+Rongo University was awarded a UNESCO Chair on Ethical Artificial Intelligence for 2027 to 2031, reported on 19 November 2026. It will run the chair with Germany's RWTH Aachen University under the UNESCO/UNITWIN programme. Prof Fredrick Ogenga is chairholder. Research covers ethical AI for climate action and digital peacebuilding.
 
 </div>
 

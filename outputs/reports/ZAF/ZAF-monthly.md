@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-21
 place: ZAF
 ledger_rows: 123
 not_held: 17
-record: f653cb524754
+record: b65897a57a4a
 ---
 
 # News, Oct – Nov 2026
@@ -1102,7 +1102,7 @@ South Africa's Department of Home Affairs plans an online booking system for asy
 
 **[Government working on legislation to deactivate some phones in SA](https://www.citizen.co.za/news/kubayi-says-legislation-to-deactivate-some-phones-in-sa/)** — The Citizen, 19 November 2026
 
-Operators given to end-November to fix RICA compliance; per-person SIM cap; Operation Shanela enforcement.
+South Africa's Inter-Ministerial Committee on Migration said on 19 November 2026 that legislation is coming to deactivate untraceable basic phones. Mobile operators have until the end of November 2026 to bring SIM registration into RICA compliance. The committee also named a cap on SIMs registered per person and enforcement through Operation Shanela.
 
 </div>
 

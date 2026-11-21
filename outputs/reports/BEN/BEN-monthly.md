@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-21
 place: BEN
 ledger_rows: 47
 not_held: 4
-record: afeaa6a57377
+record: db5730319431
 ---
 
 # News, Oct – Nov 2026
@@ -712,7 +712,7 @@ Benin's Ministry of Justice and Legislation is the first ministry to apply the g
 
 **[Etude du projet de budget 2027 à l'Assemblée nationale: Les grands chantiers pour moderniser l'administration publique](https://www.lanation.bj/actualites/etude-du-projet-de-budget-2027-a-lassemblee-nationale-les-grands-chantiers-pour-moderniser-ladministration-publique)** — La Nation, 18 November 2026
 
-FCFA 18.61bn for 2027, up 51.40%; investment funds PCATNAP digitalisation and P3MAP administrative modernisation.
+On 17 November 2026 Benin's budget and civil service ministry presented a 2027 draft budget of FCFA 18.61bn to the Assembly's budget committee. This is 51.40% above the 2026 revised finance law. The increase goes to four investment projects, including PCATNAP for digital transformation of public administration and the P3MAP modernisation project.
 
 </div>
 

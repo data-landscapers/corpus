@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-21
 place: XAF
 ledger_rows: 104
 not_held: 3
-record: 892badf9799e
+record: 88fd00f4628f
 ---
 
 # News, Oct – Nov 2026
@@ -838,7 +838,7 @@ A GSMA Intelligence director said at a summit in Cape Town, reported on 19 Novem
 
 **[Beyond IXP Counts: Is Africa's Internet Exchange Ecosystem Growing Deeper?](https://pulse.internetsociety.org/en/blog/2026/11/beyond-ixp-counts-is-africas-internet-exchange-ecosystem-growing-deeper/)** — Internet Society Pulse, 19 November 2026
 
-African IXPs 31 to 71 and memberships 549 to 1,372, 2019-2026; domestic network coverage 25.5% to 45.1%.
+Internet Society Pulse compared its tracker records for 54 African countries between March 2019 and March 2026. Reported exchange points rose from 31 to 71, and reported memberships from 549 to 1,372. Average reported domestic network coverage rose from 25.5% to 45.1%, mainly because more countries reported a figure above zero. The analysis says none of these measures shows how much traffic is exchanged locally.
 
 </div>
 
@@ -852,7 +852,7 @@ African IXPs 31 to 71 and memberships 549 to 1,372, 2019-2026; domestic network 
 
 **[Landed, Not Delivered](https://cioafrica.co/landed-not-delivered/)** — CIO Africa, 19 November 2026
 
-2.1m km terrestrial fibre, 1.3m km active (2024); no published backhaul prices; Mombasa-Goma route as test case.
+This unsigned analysis says international bandwidth into Africa is growing fast but inland fibre is not keeping pace. Africa has about 2.1 million km of terrestrial fibre. About 1.3 million km was fully active in 2024, according to the Africa Broadband Outlook. No index of backhaul or transit prices is published. The analysis names the Mombasa-Goma route, activated by Paratus in February 2026, as a test case for retail tariffs in eastern Congo.
 
 </div>
 
@@ -940,7 +940,7 @@ The Institute of Internal Auditors' 2026/2027 Africa Risk in Focus report found 
 
 **[Online and Exposed: Why Governments in Africa Must Adopt rights respecting Child Online Protection Policies](https://paradigmhq.org/online-and-exposed-why-governments-in-africa-must-adopt-rights-respecting-child-online-protection-policies/)** — Paradigm Initiative, 20 November 2026
 
-Londa 2025: 10 of 29 countries with child online protection policies; call on Gabon to drop under-16 social media ban.
+Paradigm Initiative marked World Children's Day on 20 November 2026 by citing the Londa 2025 report. It found that 10 of 29 African countries assessed had child online protection policies at December 2025, and says Zimbabwe has adopted one since. The piece also calls on Gabon to withdraw its under-16 social media ban, set by Ordinance No. 0011/PR/2026.
 
 </div>
 
@@ -992,7 +992,7 @@ The 25th COMESA Summit in Harare on 22 October 2026 urged member states to suppo
 
 **[AfCFTA: Digital Trade Platforms Can Unlock Opportunities](https://newtelegraphng.com/afcfta-digital-trade-platforms-can-unlock-opportunities-for-small-traders-sirali/)** — New Telegraph, 20 November 2026
 
-TradeMark Africa's Erick Sirali: iSOKO passes 100,000 users; trade formalities cut from 97 to 31 hours, 2017-2023.
+Erick Sirali of TradeMark Africa argued in a column, reported on 20 November 2026, that digital trade platforms should be designed around small traders. He said the iSOKO platform has passed 100,000 users. He also said trade formalities in systems TradeMark Africa supports fell from an average of 97 hours in 2017 to 31 hours in 2023.
 
 </div>
 
@@ -1008,7 +1008,7 @@ TradeMark Africa's Erick Sirali: iSOKO passes 100,000 users; trade formalities c
 
 **[Bayobab and Google Firebase launch Africa's first Silent Number Authentication](https://bayobab.africa/bayobab-and-google-firebase-launch-africas-first-silent-number-authentication/)** — Bayobab, 19 November 2026
 
-First in Africa; background carrier verification replaces SMS OTP; MTN's 165m Android subscribers in reach.
+MTN's Bayobab and Google's Firebase launched carrier-based phone-number authentication for Android, announced in Cape Town on 19 November 2026 as a first for Africa. Verification runs in the background over Bayobab's network APIs instead of SMS one-time passwords. MTN's Android base is put at about 165 million subscribers in 2026.
 
 </div>
 
@@ -1322,7 +1322,7 @@ Clea launched US dollar routes that let African businesses pay suppliers in main
 
 **[The State of Inclusive Instant Payment Systems in Africa (SIIPS) 2026, 5th Edition](https://africanenda.org/wp-content/uploads/SIIPS2026-mainreport_en.pdf)** — AfricaNenda Foundation, 19 November 2026
 
-39 IPS in 43 countries; 71.42bn transactions worth USD 1,828bn in 2025; NIP the only mature system.
+AfricaNenda Foundation's fifth report on inclusive instant payment systems, launched on 19 November 2026, covers 39 systems in 43 countries. It reports 71.42 billion transactions worth USD 1,828 billion in 2025. Of 36 systems assessed in both 2025 and 2026, three advanced a tier. Nigeria's NIP is the only system at the mature level, and 12 systems are rated inclusive, serving 23 countries.
 
 </div>
 
@@ -1880,7 +1880,7 @@ Saviu announced on 17 November 2026 the final close of its second fund at EUR 40
 
 **[Wamkele Mene : « Nous devons considérer l’Afrique comme un seul et même marché numérique » - Digital Business Africa](https://www.digitalbusiness.africa/wamkele-mene-nous-devons-considerer-lafrique-comme-un-seul-et-meme-marche-numerique/)** — Digital Business Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
-Digital Trade Fund near launch; Secretariat intervened in bank data-transfer case; PAPSS rollout in CEMAC pending.
+AfCFTA Secretariat head Wamkele Mene said in an interview published on 19 November 2026 that the Digital Trade Fund is in its final stage. A board is being formed. He said the Secretariat intervened with governments over a bank's data transfer from Southern to West Africa. He said PAPSS use in Central Africa awaits central-bank authorisation of commercial banks, after BEAC's accession.
 
 </div>
 

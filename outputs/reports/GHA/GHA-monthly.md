@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-21
 place: GHA
 ledger_rows: 84
 not_held: 9
-record: 53a9de5f4bf1
+record: 4a9866c7ed16
 ---
 
 # News, Oct – Nov 2026
@@ -834,7 +834,7 @@ The Bank of Ghana warned the public against 20 mobile loan apps operating withou
 
 **[Bank of Ghana Notice No. BG/GOV/SEC/2026/45: Unlicensed Digital Credit Services Providers](https://www.bog.gov.gh/wp-content/uploads/2026/11/Notice-No.45-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS-1.pdf)** — Bank of Ghana, 17 November 2026
 
-19 named loan apps unlicensed under the Sept 2025 DCSP Directive; issued with the Cyber Security Authority.
+On 17 November 2026 the Bank of Ghana named 19 more unlicensed mobile loan apps, among them Cedi Trust, SikaPadi and SoarCredit. The notice was issued with the Cyber Security Authority. It says the apps breach the September 2025 digital credit directive. It cautions banks and payment providers against processing their transactions.
 
 </div>
 

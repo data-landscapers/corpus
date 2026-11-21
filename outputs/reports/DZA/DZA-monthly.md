@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-21
 place: DZA
 ledger_rows: 45
 not_held: 6
-record: cec9008ea415
+record: 5ba3475b5a28
 ---
 
 # News, Oct – Nov 2026
@@ -490,7 +490,7 @@ Crédit Populaire d'Algérie launched CPAzonepay on 12 November 2026. Merchants 
 
 **[الدفع الإلكتروني ومراقبة السلع على طاولة الحكومة](https://www.echoroukonline.com/%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%86%d8%a9-%d9%88%d8%a7%d9%84%d8%af%d9%81%d8%b9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%88%d9%85%d8%b1%d8%a7%d9%82%d8%a8%d8%a9-%d8%a7%d9%84)** — Echorouk El Yawmi, 18 November 2026
 
-9M 2026: online payments DZD 391bn (+63%), POS DZD 133bn (+48%), mobile DZD 56.4bn; ATM withdrawals down 14%.
+On 18 November 2026 Algeria's government reviewed its roadmap for modernising electronic payment. In the first nine months of 2026, online payments reached DZD 391bn, up 63% on 2025. Card-terminal payments reached DZD 133bn, up 48%, and mobile payments DZD 56.4bn. ATM withdrawals fell 14% to DZD 3,777bn.
 
 </div>
 

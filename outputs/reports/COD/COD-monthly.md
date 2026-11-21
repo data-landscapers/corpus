@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-21
 place: COD
 ledger_rows: 58
 not_held: 6
-record: daffe1f18062
+record: 5a04ff301331
 ---
 
 # News, Oct – Nov 2026
@@ -756,7 +756,7 @@ The city of Kinshasa began biometric identification of all professional motorcyc
 
 **[Courtoisie routière à Kinshasa : Bumba apaise les « wewa » avec une trêve jusqu’en janvier 2027, Kantu chargé de traquer les tracasseries](https://rdc-monde.com/courtoisie-routiere-a-kinshasa-bumba-apaise-les-wewa-avec-une-treve-jusquen-janvier-2027-kantu-charge-de-traquer-les-tracasseries/)** — Magazine RD CONGO-MONDE, 19 November 2026
 
-Tolerance period to Jan 2027 for moto-taxi riders; digital ID kept; joint commission on police harassment.
+On 18 November 2026 Kinshasa governor Daniel Bumba granted motorcycle-taxi riders a road-tolerance period until January 2027 while keeping their digital identification in place. Riders had raised its modalities, costs and abuses at checks. A joint commission under police commissioner Israël Kantu will examine complaints of road harassment.
 
 </div>
 
