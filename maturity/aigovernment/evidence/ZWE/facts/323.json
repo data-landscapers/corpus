@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-11-xaf-gpsdd-statcom-10-nso-leadership",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Global Partnership account says Zimbabwe is automating the coding of job descriptions to occupation codes, as Ghana proposed a shared African training set.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "automated occupation coding",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

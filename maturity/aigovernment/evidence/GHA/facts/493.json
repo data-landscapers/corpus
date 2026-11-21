@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-xaf-gpsdd-statcom-10-nso-leadership",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Ghana Statistical Service has built a machine-learning model that suggests occupation and industry codes for its labour force survey, automatically accepting confident codes and sending the rest to an official whose corrections retrain it, replacing hand coding of 27,467 workers in one 2025 quarter.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "GSS occupation and industry coding model",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GSS occupation and industry coding model",
+   "country_label": "GSS coding model",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ghana Statistical Service data science unit",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

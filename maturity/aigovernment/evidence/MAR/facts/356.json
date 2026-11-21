@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-16-mar-dgssi-15-security-operations-centres-cybersecurity-law-revision",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Le Matin reports Morocco's DGSSI is developing AI tools to improve threat detection and analysis and speed incident handling.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "DGSSI AI threat-detection tools",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DGSSI AI threat-detection tools",
+   "country_label": "Morocco",
+   "class": "govai",
+   "platform": "",
+   "owner": "DGSSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

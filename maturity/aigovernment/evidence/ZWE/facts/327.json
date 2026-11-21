@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-zwe-zimstat-opens-a-direct-line-to-the-people-as-africa-marks-statistics-d",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Herald reports that ZIMSTAT launched a chatbot, alongside a WhatsApp line and a toll-free line, on African Statistics Day so the public can query statistics, verify enumerators and give feedback.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "ZIMSTAT chatbot",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZIMSTAT chatbot",
+   "country_label": "Zimbabwe",
+   "class": "govai",
+   "platform": "",
+   "owner": "ZIMSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": "The article does not say the chatbot uses AI."
+}

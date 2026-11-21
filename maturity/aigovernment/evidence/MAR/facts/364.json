@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-17-mar-ai-rural-internet-access-and-public-services-ahmed-rahhou-unveils-moroccos-next",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Minister Ahmed Rahhou told the House of Representatives that his ministry is developing AI assistants, one to guide businesses through administrative procedures and a legal assistant for searching legislation and preparing draft laws and decrees, and plans pilot projects in other departments.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "AI agents",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

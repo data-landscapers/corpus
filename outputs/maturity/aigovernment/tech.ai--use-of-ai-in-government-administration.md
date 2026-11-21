@@ -21,9 +21,9 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 | Stage | Countries |
 |---|---|
 | 5 Mature | 0 |
-| 4 Operating | 15 |
+| 4 Operating | 16 |
 | 3 Established | 19 |
-| 2 Nascent | 6 |
+| 2 Nascent | 5 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 12 |
@@ -63,6 +63,13 @@ The social insurance fund and the state IT centre ran AI systems by 2026; no sou
 AI was in service in several government bodies in 2026; no source found reports rules or a register for it.
 
 - The same report counts more than 40 AI applications across government and banking ([source, 2026-06](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)).
+
+### Ghana: 4 Operating
+
+Ghana's disaster agency and statistics service both used AI in service in 2026; rules for government AI use are not known.
+
+- UNESCO handed over an AI-powered multi-hazard chatbot to Ghana's National Disaster Management Organization (NADMO) on 26 May 2026, now owned and run by the agency, answering public questions on seven hazards and delivering automated responses during emergencies in several languages ([source, 2026-05-26](https://www.unesco.org/en/articles/ghanas-disaster-agency-turns-ai-reach-people-water-does)).
+- Ghana Statistical Service has built a machine-learning model that suggests occupation and industry codes for its labour force survey, automatically accepting confident codes and sending the rest to an official whose corrections retrain it, replacing hand coding of 27,467 workers in one 2025 quarter ([source, 2026-10](https://www.data4sdgs.org/blog/why-africas-data-future-depends-nso-leadership)).
 
 ### Kenya: 4 Operating
 
@@ -140,6 +147,12 @@ Cape Verde's labour inspectorate launched a portal with AI features in 2026; no 
 
 - Minister Adélsia Almeida said the labour inspectorate (IGT) portal and integrated management system, launched 2026-11-03 and already complete, integrates Artificial Intelligence features for workers and employers ([source, 2026-11-03](https://www.inforpress.cv/en/nova-plataforma-digital-da-igt-permite-apresentar-queixas-laborais-e-solicitar-servicos-on-line-ministra)).
 
+### Congo: 3 Established
+
+Congo's digital economy ministry used AI agents in its daily work in 2026; AI in other bodies is not known.
+
+- Congo's minister says the Ministry of Posts, Telecommunications and the Digital Economy is the first in government to work with AI agents in its daily administration, using market solutions for now ([source, 2026-11-14](https://pp.itu.int/2026/en/itu_policy_statements/congo-rep-of-the/)).
+
 ### Cote d'Ivoire: 3 Established
 
 A government body used an AI system in service in 2026; AI in several bodies is not on record.
@@ -170,13 +183,6 @@ A government body used an AI system in service in 2025; AI in several bodies is 
 A government body used an AI system in service in 2026; AI in several bodies is not on record.
 
 - Permanent Secretary Cordu L. Jabang of the Ministry of Information said The Gambia had recently launched an AI-powered fact-checking and verification system, housed under the Ministry, that takes citizens' audio, video, text and voice messages, including in local languages, through a WhatsApp line and returns feedback on whether they are true ([source, 2026-04-28](https://gna.org.gh/2026/04/gna-gambian-officials-highlight-ai-digital-transformation-in-modern-journalism/)).
-
-### Ghana: 3 Established
-
-A government body used an AI system in service in 2026; AI in several bodies is not on record.
-
-- NCA Deputy Director-General Salifu Suleman said AI is increasingly becoming an integral tool in the NCA's processes and activities ([source, 2026-09-15](https://www.techreviewafrica.com/news/7222/us-commerce-department-engages-ghanas-nca-on-ai-regulation)).
-- UNESCO handed over an AI-powered multi-hazard chatbot to Ghana's National Disaster Management Organization (NADMO) on 26 May 2026, now owned and run by the agency, answering public questions on seven hazards and delivering automated responses during emergencies in several languages ([source, 2026-05-26](https://www.unesco.org/en/articles/ghanas-disaster-agency-turns-ai-reach-people-water-does)).
 
 ### Lesotho: 3 Established
 
@@ -258,12 +264,6 @@ AI for public administration was under way in 2025; none in service is on record
 
 - The Ministry of Digital Transition and public broadcaster RTB signed an agreement on 21 October 2025 to use AI to make public information accessible, and a live demonstration showed a Moore-French translation tool ([source, 2025-10-21](https://news.broadcastmediaafrica.com/2025/10/23/burkina-faso-pioneers-ai-integration-in-public-broadcasting-with-rtb-partnership/)).
 - Digital Transition Minister Aminata Zerbo/Sabane told parliament her department is finalising three major projects: the Djam platform, a chatbot on electronic communications regulation and a chatbot on Burkina Faso's legislative texts ([source, 2025-03-11](https://an.bf/127)).
-
-### Congo: 2 Nascent
-
-AI for public administration was under way in 2024; none in service is on record.
-
-- The DGPME says it opened an AI-based interactive information platform on the business-support schemes to users for testing, ahead of launching its chatbot ([source, 2024-09-22](https://www.linkedin.com/feed/update/urn:li:activity:7243556420925759490)).
 
 ### DR Congo: 2 Nascent
 

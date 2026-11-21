@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-zwe-praz-moves-to-integrate-ai-into-e-procurement-system",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "PRAZ's ICT director said PRAZ already uses some AI-assisted evaluation in low-value procurements, with evaluation committees keeping the final say, and is integrating AI further into its e-GP system.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "PRAZ e-GP system AI-assisted evaluation",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-GP system",
+   "country_label": "PRAZ electronic Government Procurement system",
+   "class": "govai",
+   "platform": "",
+   "owner": "Procurement Regulatory Authority of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

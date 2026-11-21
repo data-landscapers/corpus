@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MAR,govai,use,coverage,inservice,2026-09,MAR-002;MAR-007,MAR-009=underway;MAR-010=underway;MAR-008=underway;MAR-004=underway;MAR-001=underway;MAR-005=underway;MAR-003=underway;MAR-006=underway;MAR-011=underway,
-MAR,govai,bodies,coverage,,,,,nothing found
+MAR,govai,use,coverage,inservice,2026-11-10,MAR-002;MAR-012,MAR-013=underway;MAR-014=underway;MAR-009=underway;MAR-010=underway;MAR-008=underway;MAR-004=underway;MAR-001=underway;MAR-005=underway;MAR-003=underway;MAR-006=underway;MAR-011=underway,
+MAR,govai,bodies,coverage,several,2025-09-17,MAR-007,,
 MAR,govai,rules,coverage,,,,,nothing found

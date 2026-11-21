@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-ben-matinlibre-budget-2027-mtdi-11-59-milliards",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Matin Libre reports that on the government's service-public.bj portal, which carries more than 131 public services, an AI assistant called Yemi answers users around the clock.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Yemi",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Yemi",
+   "country_label": "Benin",
+   "class": "govai",
+   "platform": "service-public.bj",
+   "owner": "Ministere de la Transformation Digitale et de l'Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "2",
-      "use": "underway",
+      "stage": "3",
+      "use": "inservice",
       "bodies": "",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COG-001",
-      "gaps": "No source found since October 2023 says: is an ai system in service in administration.",
-      "note": "First pass: counted from the four questions by study-ladder-aigovernment.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "COG-002",
+      "gaps": "No source found says AI is in service in a second government body, or that rules or a register govern the government's own use of AI.",
+      "note": "Stage 4c 2026-11-21: the minister told PP-26 in November 2026 that the digital economy ministry already works with AI agents, bought from the market, in its daily administration (COG-002), one body with AI in service. No second body is held, so not 4.",
+      "as_at": "2026-11-21"
     }
   ]
 }
