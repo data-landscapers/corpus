@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-15-nation-national-id-chaos-threatens-voter-registration",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Nation Online says the Malawi Electoral Commission will for the first time require the national ID to register voters, from the 21 October 2024 registration.",
+   "as_of": "2024-10-21",
+   "date_precision": "day",
+   "system": "Voter registration with national ID",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-13-iss-ghana-digital-revolution-economic-growth",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "ISS says a biometric voter register was introduced in 2012.",
+   "as_of": "2012",
+   "date_precision": "year",
+   "system": "biometric voter register",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "ISS says the Ghana Card is the primary source for the biometric voter register.",
+   "as_of": "2025-08-13",
+   "date_precision": "day",
+   "system": "biometric voter register",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "biometric voter register",
+   "country_label": "Ghana",
+   "class": "electoral",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-16-gov-bw-voter-registration-omang-requirement",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "The Government of Botswana page says citizens can check the voters' roll at their constituency polling station during general registration periods and at the Principal Registration Officer's office at other times, and non-residents at embassies and consular missions.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "voters' roll",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

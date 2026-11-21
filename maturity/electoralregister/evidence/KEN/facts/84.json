@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-16-iebc-biometric-voter-registration-bvr",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "IEBC says it rolled out all-biometric voter registration in all 290 constituencies in 2012, with 15,000 BVR kits at 24,614 centres registering 14,352,545 voters in about a month, data held on a central server.",
+   "as_of": "2012",
+   "date_precision": "year",
+   "system": "Biometric Voter Registration System (BVR)",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "IEBC says printed registers with voter photos are distributed to polling centres for people to check their details, and the register can be verified online and by SMS.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "Biometric Voter Registration System (BVR)",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric Voter Registration System (BVR)",
+   "country_label": "Kenya",
+   "class": "electoral",
+   "platform": "laptop, fingerprint scanner and camera kits",
+   "owner": "Independent Electoral and Boundaries Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,5 +1,6 @@
 iso3,source_slug,read,merged_on
 AGO,2024-01-01-angola-modernizes-land-administration-gis-cadastre-management,,2026-11-07
+AGO,2024-04-02-ago-apenas-2-em-cada-10-cidadaos-tem-oficialmente-numero-de-identificacao,,2026-11-21
 AGO,2025-05-09-inefop-apresenta-nova-plataforma-de-registo-nominal-de-trabalhadores,,2026-11-07
 AGO,2026-04-17-plataforma-digital-legalizacao-de-40-mil-imoveis,,2026-11-07
 AGO,2026-07-01-ago-angop-16-milhoes-base-bilhete-identidade,,2026-10-19
@@ -16,6 +17,7 @@ BEN,2023-11-09-ben-banouto-gouvernement-reponse-nomination-dg-anip,,2026-11-08
 BEN,2024-03-01-ben-les-reformes-de-l-etat-civil-facilitent-la-delivrance-des-actes-de-nai,,2026-10-29
 BEN,2024-03-29-ben-lanation-interoperabilite-rnpp-npi,,2026-10-19
 BEN,2024-06-12-ben-decret-2024-978-modification-registre-social-unique,,2026-10-19
+BEN,2025-01-08-cybersecuritymag-rnpp-benin-securite-donnees-personnelles,,2026-11-21
 BEN,2025-02-17-ben-anip-de-nouvelles-solutions-numeriques-pour-des-prestations-ameliorees,,2026-10-23
 BEN,2025-02-21-ben-inquietudes-autour-de-la-fiabilite-de-la-liste-electorale-informatisee,,2026-11-04
 BEN,2025-04-01-ben-fid-ia-bien-public-recommandations,,2026-10-19
@@ -31,6 +33,7 @@ BEN,2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id,,2026-10-23
 BEN,2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben,,2026-10-19
 BEN,2026-05-06-anip-rnpp-actes-naissance-securises,,2026-10-19
 BEN,2026-05-07-anip-rnpp-nouvelles-precisions,,2026-10-19
+BEN,2026-07-01-ben-fact-sheet-benin-january-june-2026,,2026-11-21
 BEN,2026-07-16-adjinacou-maternite-identite-legale,,2026-10-19
 BEN,2026-08-10-ben-benin-journee-de-l-etat-civil-et-des-statistiques-de-l-etat-civil-2026,,2026-11-08
 BEN,2026-08-24-ben-decryptage-8400-nouveaux-refugies-6-mois,,2026-10-19
@@ -47,6 +50,7 @@ BFA,2025-03-24-bfa-declaration-des-beneficiaires-reels-des-entreprises-minieres-
 BFA,2025-09-01-bfa-sig-nouveau-code-personnes-famille,,2026-10-29
 BFA,2025-10-28-bfa-alt-dissolution-ceni-rationalisation-institutions,,2026-10-19
 BFA,2026-10-27-bfa-burkina-faso-plus-de-433-000-menages-recenses-dans-le-registre-social,,2026-11-09
+BFA,2026-11-13-bfa-cefore-preparer-votre-creation-d-entreprise,,2026-11-21
 BWA,2024-09-05-bwa-no-provision-for-availing-voters-roll-on-website,,2026-11-04
 BWA,2024-10-25-bcp-moves-to-compel-iec-digital-voters-roll,,2026-10-19
 BWA,2025-02-05-bwa-businessweekly-cipa-obrs-it-system,,2026-10-23
@@ -55,6 +59,7 @@ BWA,2026-04-01-bwa-2026-1600-12341-evr,,2026-10-19
 BWA,2026-06-22-iec-pushes-for-digital-election-reforms,,2026-10-19
 BWA,2026-08-19-allafrica-botswana-electoral-reform-electronic-roll,,2026-10-19
 BWA,2026-09-28-bwa-dailynews-crvs-strategic-plan,,2026-10-23
+BWA,2026-11-16-gov-bw-voter-registration-omang-requirement,,2026-11-21
 CAF,2024-10-08 Central African Republic in full biometric voter registration preparations,,2026-10-19
 CAF,2024-12-10 Central African Republic enrols citizens for first local elections in 36 years,,2026-10-19
 CAF,2025-01-01-caf-civipol-modero-etat-civil-rnec,,2026-10-19
@@ -131,6 +136,7 @@ COM,2026-04-18-com-rfi-seminaire-evaluation-scrutins-audit-fichier-electoral,,20
 COM,2026-07-24-com-atelier-electoral-revision-fichier-electoral,,2026-10-19
 COM,2026-10-15-com-alwatwan-etat-civil-amecc-2-84-percent,,2026-10-19
 COM,2026-10-22-com-alwatwan-conseil-ministres-strategie-gouvernance-donnees-data-center,,2026-10-29
+COM,2026-11-09-com-le-gouvernement-comorien-et-la-banque-mondiale-renforcent-leur-partena,,2026-11-21
 COM,2026-11-10-ria-bringing-more-voices-into-the-room-africa-igf-2026,,2026-11-11
 CPV,2024-01-01-rediaspora-diaspora-electoral-registration,,2026-10-19
 CPV,2024-12-19-cne-nova-base-de-dados-eleicoes-2026,,2026-10-19
@@ -171,9 +177,11 @@ EGY,2024-01-21-egy-cairo24-mohp-births-deaths-fully-automated,,2026-10-29
 EGY,2025-07-12-egy-businessmen-itda-tax-number-commercial-registry,,2026-10-23
 EGY,2025-07-17-egy-ahram-real-estate-registry-complex-alamein,,2026-10-23
 EGY,2025-09-19-egy-elwatannews-nea-voter-database-national-id,,2026-10-19
+EGY,2026-08-22-egy-social-registry-13m-households-law-12-unified-source,,2026-11-21
 EGY,2026-11-06-egy-social-registry-13m-households-27-databases,,2026-11-09
 EGY,2026-11-07-egy-cairo-ict-2026-fra-chairman-highlights-digital-transformation-in-non-b,,2026-11-09
 ERI,2026-06-08-eritrean-electoral-law-constitutionnet,,2026-10-19
+ETH,2024-09-29-biometric-update-laxton-ethiopia-90m-digital-id,,2026-11-21
 ETH,2025-06-10-eth-nebe-announces-digital-overhaul-for-upcoming-seventh-national-election,,2026-11-04
 ETH,2025-11-26-eth-dpg-heads-of-agencies-convene-to-advance-ethiopia-s-election-preparedn,,2026-11-04
 ETH,2026-01-05-nebe-mirchaye-voter-registration-system,,2026-10-19
@@ -195,9 +203,11 @@ GHA,2024-05-13-gha-full-text-deputy-commissioner-of-the-electoral-commission-bri
 GHA,2024-08-20-gha-nationwide-voters-exhibition-starts-today,,2026-11-04
 GHA,2024-11-12-ghana-ec-summary-2024-certified-voter-register,,2026-10-19
 GHA,2025-03-24-gha-be-diligent-with-financial-accounts-of-businesses-chraj-to-registrar-o,,2026-10-29
+GHA,2025-08-13-iss-ghana-digital-revolution-economic-growth,,2026-11-21
 GHA,2025-10-17-gha-ghana-unlocking-ownership-data-for-accountability-in-the-extractive-se,,2026-10-29
 GHA,2026-08-12-ghana-ec-outlines-sweeping-electoral-reforms,,2026-10-19
 GHA,2026-11-10-ria-bringing-more-voices-into-the-room-africa-igf-2026,,2026-11-11
+GHA,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,,2026-11-21
 GIN,2025-01-01-pn-ravec-site-officiel,,2026-10-19
 GIN,2025-04-01-gin-le-premier-ministre-receptionne-les-kits-d-enrolement-biometrique,,2026-11-04
 GIN,2025-04-14-gin-decret-fixant-les-conditions-de-securite-d-integrite-de-securisation-e,,2026-10-30
@@ -246,6 +256,7 @@ GNQ,2022-11-22-gnq-au-aueom-preliminary-statement-2022,,2026-10-19
 KEN,2025-07-10-ken-how-to-verify-your-iebc-voter-registration-details-online,,2026-11-04
 KEN,2025-10-04-ken-murkomen-announces-national-drive-to-accelerate-id-collection-digital,,2026-11-09
 KEN,2025-10-19-ken-commission-resumes-continuous-voter-registration-with-colourful-launch,,2026-11-04
+KEN,2026-03-05-ken-gov-t-moves-to-modernise-civil-registration-as-stakeholders-validate-b,,2026-11-21
 KEN,2026-04-10-ken-iebc-to-clean-voter-register-ahead-of-2027-polls,,2026-11-04
 KEN,2026-08-04-ken-why-ardhisasa-expansion-has-fallen-behind-ps-korir,,2026-11-13
 KEN,2026-09-20-ken-standard-iebc-voter-register-source-code-access,,2026-10-19
@@ -257,6 +268,8 @@ KEN,2026-11-02-ken-birth-registration-e-service-reduces-admin-from-months-to-day
 KEN,2026-11-03-ken-caroli-omondi-accuses-uda-odm-of-weakening-election-transparency,,2026-11-07
 KEN,2026-11-06-ken-state-turns-to-chiefs-e-citizen-to-trace-owners-of-uncollected-ids,,2026-11-08
 KEN,2026-11-10-ria-bringing-more-voices-into-the-room-africa-igf-2026,,2026-11-11
+KEN,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,,2026-11-21
+KEN,2026-11-16-iebc-biometric-voter-registration-bvr,,2026-11-21
 LBR,2024-02-05-lbr-newspublictrust-nir-mobile-teams,,2026-10-19
 LBR,2024-11-11-lbr-liberia-eyes-biometrics-for-voter-authentication,,2026-11-04
 LBR,2025-06-01-nir-relevance-national-special-elections,,2026-10-19
@@ -269,6 +282,8 @@ LBR,2026-08-14-lbr-liberia-business-registry-launches-digitalization-and-decentr
 LBR,2026-10-16-fpa-naymote-urges-legislature-tighten-52m-national-id-deal,,2026-10-19
 LBR,2026-10-16-lbr-liberian-investigator-gender-ministry-gbv-case-tracking-database,,2026-10-23
 LBR,2026-10-22-lbr-nec-seeks-us-72m-for-2029-elections,,2026-11-04
+LBR,2026-11-13-lbr-us-52m-id-deal-faces-fresh-scrutiny,,2026-11-21
+LBR,2026-11-17-lbr-liberianobserver-us52m-national-id-concession-local-firm,,2026-11-21
 LBY,2023-10-28-lby-libyaherald-unified-social-registry-launch,,2026-10-19
 LBY,2024-08-19 Libya implements biometric voter verification in municipal council elections,,2026-10-19
 LBY,2025-02-25-lby-hnec-sms-voter-registration-check,,2026-11-05
@@ -278,6 +293,8 @@ LBY,2025-09-04-lby-libyaobserver-commercial-registry-e-payment,,2026-10-23
 LBY,2025-11-05-lby-lana-commercial-registry-e-letter-company-registration-validity,,2026-10-29
 LBY,2025-12-08-lby-hnec-decision-253-2025-voter-register-update-regulation,,2026-11-04
 LBY,2026-06-21-lby-lana-wife-children-grant-arrears,,2026-10-23
+LBY,2026-08-11-lby-social-affairs-minister-reviews-unified-social-registry-progress,,2026-11-21
+LBY,2026-11-14-lby-pilot-electronic-registration-foreign-companies,,2026-11-21
 LSO,2024-01-01-lso-comsec-cog-report-lesotho-general-elections-2022,,2026-10-19
 LSO,2024-01-01-lso-undp-voter-registration-roundtable,,2026-10-19
 LSO,2024-01-30-iec-to-partner-home-affairs-ministry-in-seamless-database-project,,2026-10-19
@@ -318,6 +335,7 @@ MDG,2026-07-07-mdg-refonte-de-la-liste-electorale-la-ceni-veut-inscrire-quatorze
 MDG,2026-07-29-madagascar-ceni-full-electoral-roll-revision-2027,,2026-10-19
 MDG,2026-08-01-mdg-elections-la-digitalisation-de-la-liste-electorale-reste-en-suspens,,2026-11-08
 MDG,2026-08-05-mdg-madagascar-elections-la-digitalisation-de-la-liste-electorale-reste-en,,2026-11-04
+MDG,2026-10-15-mdg-recrutement-d-un-cabinet-pour-la-conception-le-developpement-et-l-acco,,2026-11-21
 MDG,2026-10-17-mdg-refonte-de-la-liste-electorale-plus-de-sept-millions-d-electeurs-inscrits,,2026-10-23
 MDG,2026-10-24-mdg-liste-electorale-biometrique-la-ceni-et-ses-partenaires-preparent-le-t,,2026-11-04
 MLI,2024-02-20-mli-bamada-mali-recupere-fichiers-ravec,,2026-10-19
@@ -328,12 +346,14 @@ MLI,2025-09-19-mali-revision-annuelle-listes-electorales-2025,,2026-10-19
 MLI,2026-02-04-mali-aige-formation-elector-mobile,,2026-10-19
 MLI,2026-10-06-mli-fichier-electoral-l-heure-du-grand-nettoyage,,2026-11-04
 MOZ,2023-09-01-moz-cip-relatorio-observacao-recenseamento-2023,,2026-10-19
+MOZ,2024-02-09-do-rosario-guambe-decentralising-fraud-mozambique-2019,,2026-11-21
 MOZ,2024-04-04-moz-reduz-numero-de-avarias-do-equipamento-para-recenseamento-eleitoral,,2026-11-04
 MOZ,2024-05-28-moz-promoting-land-tenure-security-in-mozambique,,2026-11-13
 MOZ,2025-09-01-moz-comsec-cog-report-elections-2024,,2026-10-19
 MOZ,2026-07-01-cne-orcamento-2026-recenseamento-permanente,,2026-10-19
 MOZ,2026-08-04-mozambique-cne-2028-municipal-polls-preparation,,2026-10-19
 MOZ,2026-08-09-mozambique-aid-recipient-digital-register,,2026-10-19
+MOZ,2026-11-18-moz-executivo-aprova-regulamento-do-cadastro-social-unico-para-organizar-informacao-,,2026-11-21
 MRT,2022-12-21-mrt-ami-conseil-ministres-decret-ravel-2023,,2026-10-19
 MRT,2023-12-26-mrt-le-president-de-la-republique-supervise-le-lancement-de-l-application,,2026-10-29
 MRT,2024-06-27-mrt-ami-ceni-liste-electorale-documents-securises,,2026-10-19
@@ -341,10 +361,13 @@ MRT,2024-06-27-mrt-rfi-ceni-justifie-procedures-fichier,,2026-10-19
 MRT,2026-06-18-ami-kassataya-enrolement-registre-national-population-service-public-permanent,,2026-10-19
 MUS,2024-05-21-mus-defimedia-liste-electorale-verifier-inscrire,,2026-10-19
 MUS,2024-08-07-mus-the-anti-money-laundering-and-combatting-the-financing-of-terrorism-an,,2026-10-29
+MWI,2024-04-15-nyasatimes-mls-fears-compulsory-national-id-voting,,2026-11-21
 MWI,2024-07-17-mwi-nation-nrb-under-scrutiny,,2026-10-19
 MWI,2024-07-20-mwi-making-national-id-work-beyond-voter-registration,,2026-10-23
 MWI,2024-08-01-mwi-12-3-million-register-for-id-cards,,2026-11-07
 MWI,2024-08-06-mwi-malawi-insists-id-card-compulsory-for-scheduled-biometric-voter-regist,,2026-11-04
+MWI,2024-09-15-nation-national-id-chaos-threatens-voter-registration,,2026-11-21
+MWI,2024-10-26-nation-court-allows-mec-to-require-ids,,2026-11-21
 MWI,2024-11-06-mwi-egpaf-value-of-a-birth-certificate,,2026-10-19
 MWI,2024-11-15-mwi-nrb-deploys-staff-to-some-voter-registration-centres,,2026-11-04
 MWI,2024-12-18-mwi-malawi-distributes-3m-national-id-cards-printed-in-country,,2026-11-08
@@ -397,6 +420,7 @@ RWA,2018-09-19-rwa-idea-biometric-voter-identification-rwanda,,2026-10-19
 RWA,2023-11-29-organic-law-001-2023-ol-amending-elections-law,,2026-10-19
 RWA,2024-05-18-rwa-rwandainnigeria-diaspora-voter-registration,,2026-10-19
 RWA,2024-06-30-rwa-9-7-mln-people-eligible-to-vote-in-rwanda-election-electoral-body,,2026-11-04
+RWA,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,,2026-11-21
 SDN,2010-06-01-sdn-eueom-final-report-elections,,2026-10-19
 SDN,2021-07-19-sdn-rvi-understanding-electoral-system-registration,,2026-10-19
 SDN,2026-10-18-sdn-sudandawn-commercial-registry-baladna-outage,,2026-10-23
@@ -412,8 +436,11 @@ SEN,2026-01-22-sen-securisation-des-donnees-de-l-etat-civil-l-anec-et-l-ansd-sce
 SEN,2026-05-16-lesoleil-senegal-reforme-code-electoral,,2026-10-19
 SEN,2026-06-02-lesoleil-revision-listes-electorales-2025-cartes-disponibles,,2026-10-19
 SEN,2026-06-17-aps-rnu-extension-996194-menages,,2026-10-19
+SEN,2026-06-22-sen-protection-sociale-le-gouvernement-accelere-la-reforme-du-registre-nat,,2026-11-21
+SEN,2026-09-08-sen-bourses-familiales-le-rnu-compte-1-000-649-menages-apres-la-recertific,,2026-11-21
 SEN,2026-09-24-sen-etat-civil-77-de-centres-digitalises-selon-le-dg-de-l-anec,,2026-10-29
 SEN,2026-10-10-sen-ledakarois-intrants-agricoles-la-distribution-passe-au-numerique-avec-l,,2026-10-19
+SEN,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,,2026-11-21
 SLE,2023-01-01-sle-eueom-final-report-general-elections,,2026-10-19
 SLE,2024-02-01-sle-what-happened-to-sierra-leone-s-biometric-property-registration-agreem,,2026-11-13
 SLE,2026-02-13-sierra-leone-tscs-ecsl-tripartite-recommendations-voter-registration,,2026-10-19
@@ -452,6 +479,7 @@ STP,2026-04-15-recenseamento-automatico-fiscalizado-anpdp,,2026-10-19
 STP,2026-04-30-stp-prese-press-note-results-automatic-voter-registration,,2026-11-09
 STP,2026-06-06-stp-eleicoes-26-pelo-menos-142-298-eleitores-inscritos-para-as-eleicoes-pr,,2026-11-04
 STP,2026-07-31-eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados,,2026-10-19
+STP,2026-08-31-stp-dpssf-inicia-4-o-pagamento-a-6-mil-familias-vulneraveis-em-stp,,2026-11-21
 STP,2026-09-25-stp-cen-anuncia-aumento-do-numero-de-eleitores-mas-reclama-pela-logistica,,2026-11-04
 SWZ,2024-01-01-swz-ebc-elections-and-the-e36-million-scandal,,2026-11-12
 SWZ,2026-08-29-ebc-electoral-process,,2026-10-19
@@ -477,6 +505,7 @@ TGO,2023-11-15-tgo-processus-electoral-l-oif-certifie-la-fiabilite-du-fichier-el
 TGO,2025-03-22-tgo-atop-revision-listes-kits-biometriques,,2026-10-19
 TGO,2025-04-01-tgo-la-revision-des-listes-electorales-annoncee-du-07-au-23-avril-2025-en,,2026-11-04
 TGO,2025-05-24-tgo-identification-biometrique-au-togo-un-projet-d-inclusion-sociale-pour,,2026-11-08
+TGO,2025-10-29-tgo-grit-lome-fait-vibrer-la-tech-africaine,,2026-11-21
 TGO,2025-12-05-tgo-transformation-numerique-au-togo-l-otr-et-le-pagdsp-saluent-l-excellen,,2026-11-13
 TGO,2026-10-15-tgo-foncier-apres-la-nomination-de-son-dg-l-andf-face-au-defi-de-son-opera,,2026-11-13
 TGO,2026-11-07-tgo-conseil-des-ministres-du-06-novembre-2026,,2026-11-13
@@ -541,6 +570,7 @@ ZAF,2026-10-20-tiktok-launches-election-centre-ahead-of-sa-local-govt-polls,,202
 ZAF,2026-10-29-zaf-itweb-iec-national-results-operations-centre-opens,,2026-10-30
 ZAF,2026-11-07-zaf-mk-party-wants-ethekwini-votes-quarantined-over-kzn-iec-system-failures,,2026-11-09
 ZAF,2026-11-08-zaf-technology-streamlines-2026-voting-process,,2026-11-11
+ZAF,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,,2026-11-21
 ZMB,2025-08-15-zmb-ecz-stakeholder-voter-registration-presentation,,2026-11-04
 ZMB,2025-08-18-zmb-speech-by-the-ecz-chairperson-at-the-stakeholders-meeting-held-on-15th,,2026-11-04
 ZMB,2026-03-06-zambia-mass-voter-registration-ministerial-statement,,2026-10-19
@@ -549,6 +579,7 @@ ZMB,2026-08-15-zambia-au-comesa-eom-preliminary-statement-digital-registration,,
 ZMB,2026-08-15-zambia-eu-eom-preliminary-statement-digital-systems,,2026-10-19
 ZMB,2026-08-15-zambia-sadc-eom-preliminary-statement-digital-systems,,2026-10-19
 ZMB,2026-10-31-zmb-judiciary-rolls-out-nationwide-electronic-case-management-system,,2026-11-12
+ZMB,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,,2026-11-21
 ZWE,2025-01-01-zwe-zimbabwe-s-data-protection-regime,,2026-10-30
 ZWE,2025-08-02-zwe-bulawayo24-zec-voter-registration-check-netone-only,,2026-11-12
 ZWE,2025-08-06-zwe-zida-launches-game-changing-e-regulations-platform,,2026-10-29
@@ -556,3 +587,5 @@ ZWE,2026-03-01-zwe-registrar-general-to-get-voters-roll-custody,,2026-11-13
 ZWE,2026-07-23-zimbabwe-registrar-general-to-take-over-voters-roll,,2026-10-19
 ZWE,2026-08-18-zwe-rg-zec-voter-registration-handover,,2026-10-19
 ZWE,2026-09-18-zwe-herald-30-new-vehicles-boost-civil-registry-services,,2026-10-19
+ZWE,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,,2026-11-21
+ZWE,2026-11-13-zwe-undp-shared-health-record-registries-hie-rfp,,2026-11-21

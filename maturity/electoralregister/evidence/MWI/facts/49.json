@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-26-nation-court-allows-mec-to-require-ids",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Nation Online reports that Section 12 of the elections Act makes the national ID from the National Registration Bureau the sole proof of eligibility for voter registration, which the High Court upheld on 25 October 2024.",
+   "as_of": "2024-10-25",
+   "date_precision": "day",
+   "system": "Presidential, Parliamentary and Local Government Elections Act s.12",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": "Whether the roll is digital is not stated."
+}
