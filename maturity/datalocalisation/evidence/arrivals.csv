@@ -716,7 +716,7 @@ DZA,19,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17
 DZA,20,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
 DZA,21,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
 DZA,22,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
-EGY,57,2026-11-16-xaf-africa-ai-infrastructure-gap-data-centre-expansion,2026-11-17,,
+EGY,57,2026-11-16-xaf-africa-ai-infrastructure-gap-data-centre-expansion,2026-11-17,nothing,2026-11-21
 EGY,58,2026-11-14-xaf-who-controls-the-compute-nvidia-crisis-africa-ai-infrastructure,2026-11-17,instrument,2026-11-17
 EGY,59,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 EGY,60,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -729,7 +729,7 @@ EGY,66,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,ins
 ERI,23,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 ERI,24,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 ERI,25,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
-ETH,62,2026-11-16-xaf-africa-ai-infrastructure-gap-data-centre-expansion,2026-11-17,,
+ETH,62,2026-11-16-xaf-africa-ai-infrastructure-gap-data-centre-expansion,2026-11-17,nothing,2026-11-21
 ETH,63,2026-11-16-bloomsbury-biometric-digital-id-ch08-ethiopia-beny,2026-11-17,instrument,2026-11-17
 ETH,64,2021-08-01-eth-moh-digital-health-blueprint-2021-2030,2026-11-17,instrument,2026-11-17
 ETH,65,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
@@ -799,7 +799,7 @@ LSO,22,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-ven
 LSO,23,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 LSO,24,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
 LSO,25,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
-MAR,48,2026-11-16-xaf-africa-ai-infrastructure-gap-data-centre-expansion,2026-11-17,,
+MAR,48,2026-11-16-xaf-africa-ai-infrastructure-gap-data-centre-expansion,2026-11-17,nothing,2026-11-21
 MAR,49,2026-11-14-xaf-who-controls-the-compute-nvidia-crisis-africa-ai-infrastructure,2026-11-17,instrument,2026-11-17
 MAR,50,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 MAR,51,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
@@ -828,7 +828,7 @@ MRT,34,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-ven
 MRT,35,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
 MRT,36,2024-05-01-paradigm-state-of-deployment-of-surveillance-technologies-in-africa,2026-11-17,instrument,2026-11-17
 MRT,37,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
-MUS,36,2026-11-15-mus-defimedia-microsoft-365-outage-digital-dependence,2026-11-17,,
+MUS,36,2026-11-15-mus-defimedia-microsoft-365-outage-digital-dependence,2026-11-17,nothing,2026-11-21
 MUS,37,2025-11-19-dfrlab-biometrics-digital-identification-africa-governance-vendors,2026-11-17,instrument,2026-11-17
 MUS,38,2025-04-01-paradigm-londa-2024-digital-rights-inclusion-africa,2026-11-17,instrument,2026-11-17
 MUS,39,2024-09-01-cipesa-state-of-internet-freedom-in-africa-2024,2026-11-17,instrument,2026-11-17
@@ -981,7 +981,7 @@ ZWE,54,2023-05-22-ecdpm-global-approaches-digital-sovereignty,2026-11-17,instrum
 ZWE,55,2022-09-29-cipesa-state-of-internet-freedom-in-africa-2022,2026-11-17,instrument,2026-11-17
 ZWE,56,2022-02-01-world-bank-id4d-g2px-2021-annual-report,2026-11-17,instrument,2026-11-17
 ZWE,57,2022-01-15-sarchi-digital-sovereignty-african-perspectives,2026-11-17,instrument,2026-11-17
-COD,47,2026-11-17-cod-kibassa-investors-data-center-cdn-dot-cd,2026-11-17,,
+COD,47,2026-11-17-cod-kibassa-investors-data-center-cdn-dot-cd,2026-11-17,nothing,2026-11-21
 SEN,84,2026-11-16-where-is-senegals-data-stored,2026-11-17,instrument,2026-11-17
 SLE,35,2026-09-28-sle-world-bank-ai-readiness-diagnostic,2026-11-17,instrument,2026-11-17
 AGO,44,2026-11-13-gsma-digital-africa-index-2026,2026-11-18,instrument,2026-11-18
@@ -1109,14 +1109,14 @@ ERI,27,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 ETH,76,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 GAB,30,2026-11-19-xaf-digitalbusiness-mene-afrique-un-seul-marche-numerique,2026-11-21,instrument,2026-11-21
 GAB,31,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
-GHA,76,2026-11-19-africa-is-arguing-with-itself,2026-11-21,,
+GHA,76,2026-11-19-africa-is-arguing-with-itself,2026-11-21,reassessed,2026-11-21
 GHA,77,2026-11-19-xaf-digitalbusiness-mene-afrique-un-seul-marche-numerique,2026-11-21,instrument,2026-11-21
 GHA,78,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 GIN,48,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 GMB,40,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 GNB,14,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 GNQ,15,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
-KEN,123,2026-11-19-africa-is-arguing-with-itself,2026-11-21,,
+KEN,123,2026-11-19-africa-is-arguing-with-itself,2026-11-21,fact,2026-11-21
 KEN,124,2026-11-19-xaf-digitalbusiness-mene-afrique-un-seul-marche-numerique,2026-11-21,instrument,2026-11-21
 KEN,125,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 LBR,30,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
@@ -1135,7 +1135,7 @@ NER,34,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 NGA,180,2026-11-19-africa-is-arguing-with-itself,2026-11-21,capped,2026-11-21
 NGA,181,2026-11-19-xaf-digitalbusiness-mene-afrique-un-seul-marche-numerique,2026-11-21,instrument,2026-11-21
 NGA,182,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
-RWA,92,2026-11-19-africa-is-arguing-with-itself,2026-11-21,,
+RWA,92,2026-11-19-africa-is-arguing-with-itself,2026-11-21,fact,2026-11-21
 RWA,93,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 SDN,32,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 SEN,87,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
@@ -1143,13 +1143,13 @@ SLE,38,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 SOM,44,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 SSD,36,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 STP,31,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
-SWZ,61,2026-11-19-swz-another-govt-online-services-blackout,2026-11-21,,
+SWZ,61,2026-11-19-swz-another-govt-online-services-blackout,2026-11-21,nothing,2026-11-21
 SWZ,62,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 SYC,37,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 TCD,37,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 TGO,39,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 TUN,44,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
-TZA,72,2026-11-20-tza-citizen-digital-systems-global-outages,2026-11-21,,
+TZA,72,2026-11-20-tza-citizen-digital-systems-global-outages,2026-11-21,nothing,2026-11-21
 TZA,73,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 UGA,79,2026-11-19-xaf-siips-2026-main-report,2026-11-21,instrument,2026-11-21
 ZAF,104,2026-11-19-africa-is-arguing-with-itself,2026-11-21,capped,2026-11-21

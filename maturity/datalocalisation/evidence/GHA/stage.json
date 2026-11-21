@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "rule",
-      "stage": "2",
-      "standing": "draft",
-      "use": "",
+      "stage": "4",
+      "standing": "in-force",
+      "use": "enforcer",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-002;GHA-001",
-      "gaps": "No source found says a rule that data must be kept in the country is in force; no source found says whether the 2024 draft framework was adopted.",
-      "note": "A draft data centre and cloud framework covering localisation was under validation in January 2024, and the minister described a localisation policy in October 2025; nothing shows a rule in force, so not stage 3.",
-      "as_at": "2026-10-26"
+      "stage_sources": "GHA-004;GHA-005",
+      "gaps": "No source from the last three years names an organisation ordered, penalised or exempted under the Bank of Ghana directive; no source found says whether the 2024 draft cloud framework was adopted.",
+      "note": "Reassessed 2026-11-21: the Bank of Ghana's Cyber and Information Security Directive of 2026 requires sensitive financial information to be stored in Ghana (GHA-004), a regulator's directive in force, and the Bank that issued it enforces it (GHA-005). No organisation named as ordered, penalised or exempted, so not 5.",
+      "as_at": "2026-11-21"
     }
   ]
 }

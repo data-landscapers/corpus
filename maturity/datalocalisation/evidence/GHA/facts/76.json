@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-africa-is-arguing-with-itself",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CIO Africa says the Bank of Ghana's Cyber and Information Security Directive, launched in 2026 to replace the 2018 one, requires sensitive financial information to be stored physically in Ghana and keeps core systems and critical data within national borders.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Bank of Ghana Cyber and Information Security Directive",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

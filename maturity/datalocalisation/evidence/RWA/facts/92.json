@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-africa-is-arguing-with-itself",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CIO Africa says Rwanda enforces data residency rules of its own, with no detail.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Rwanda data residency rules",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

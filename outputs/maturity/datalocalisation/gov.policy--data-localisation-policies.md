@@ -21,9 +21,9 @@ The African Union's Data Policy Framework, of 2022, asks states to keep only cer
 | Stage | Countries |
 |---|---|
 | 5 Mature | 0 |
-| 4 Operating | 12 |
+| 4 Operating | 13 |
 | 3 Established | 14 |
-| 2 Nascent | 3 |
+| 2 Nascent | 2 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
 | No evidence | 23 |
@@ -50,6 +50,13 @@ Ethiopia's communications authority has required telecom data to stay in the cou
 
 - Digital Policy Alert states that in August 2021 the Ethiopian Communications Authority adopted a consumer rights directive requiring telecom providers to process consumer personal data only on servers or data centres in Ethiopia ([source, 2021-08](https://digitalpolicyalert.org/digest/dpa-digital-digest-ethiopia)).
 - Digital Policy Alert states that the Ethiopian Communications Authority, which issued the telecom localisation directive, oversees compliance with data protection rules; it adds that no official enforcement sources are published ([source, 2024-07](https://digitalpolicyalert.org/digest/dpa-digital-digest-ethiopia)).
+
+### Ghana: 4 Operating
+
+A 2026 Bank of Ghana directive requires sensitive financial data to be kept in Ghana; no firm is known to be penalised under it.
+
+- CIO Africa says the Bank of Ghana's Cyber and Information Security Directive, launched in 2026 to replace the 2018 one, requires sensitive financial information to be stored physically in Ghana and keeps core systems and critical data within national borders ([source, 2026](https://cioafrica.co/africa-is-arguing-with-itself/)).
+- CIO Africa says the Bank of Ghana, the regulator that issued the 2026 Cyber and Information Security Directive, enforces Ghana's rule on where sensitive financial information and core systems may sit ([source, 2026](https://cioafrica.co/africa-is-arguing-with-itself/)).
 
 ### Libya: 4 Operating
 
@@ -211,13 +218,6 @@ Côte d'Ivoire's data governance strategy says critical data must be stored in t
 The Gambia's unsigned 2023 government cloud policy would keep classified state data in the country; it has not been issued.
 
 - The Government Cloud Policy (version 2.0, 29 June 2023, commissioned by the Ministry of Communications and Digital Economy) says government data classed 'Classified' shall be stored and processed within The Gambia, on a government private cloud or on-premises, and 'Sensitive' data on a government private cloud or public cloud hosted in The Gambia, in the absence of any law on data residence; its issue date and effective date are left blank pending sign-off ([source, 2023-06-29](https://policies.gov.gm/d/b007fc10-80d2-11ef-b086-029254d29bb1)).
-
-### Ghana: 2 Nascent
-
-A draft cloud framework covering data localisation was under review in 2024; no source found says whether any rule is in force.
-
-- NITA's Director General said a draft National Data Centre and Cloud Computing Regulatory Framework, which covers licensing, data localisation, security, sustainability and competition, was under review at a validation workshop in Accra ([source, 2024-01](https://www.graphic.com.gh/business/business-news/stakeholders-push-for-unified-ict-policies-for-africas-digital-space.html)).
-- Communications Minister Sam George said at the ACR2 opening that Ghana has a localisation policy under which local data and traffic processed on clouds outside the country will have to be hosted in Ghana; the document gives no instrument name or compliance date ([source, 2025-10-31](https://www.graphic.com.gh/news/general-news/digital-realty-opens-ghanas-largest-data-center-in-accra.html)).
 
 ### Sudan: 1 Absent
 

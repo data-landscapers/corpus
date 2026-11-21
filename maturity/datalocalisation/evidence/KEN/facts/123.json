@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-africa-is-arguing-with-itself",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CIO Africa says section 50 of Kenya's Data Protection Act, with Regulation 26, requires personal data processed for the state's strategic interests (civil registration, elections, public finance, protected systems, education, primary and secondary health care) to be processed in a Kenyan data centre or kept as at least one serving copy there.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Data Protection Act section 50 and Regulation 26",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
