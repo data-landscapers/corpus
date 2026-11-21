@@ -8,7 +8,7 @@ Work a sitting surfaced but did not settle. Each item names what to do. Strike a
 
 ## Left by the budget data review, 2026-10-02
 
-- **ZMB FY2026: four disagreements with the 2027 Yellow Book's 2026 Approved column (2026-11-21).** Civil Service Commission 3464-002 prints K568,500 against our OCR'd K489,500; Education 5599-9007 K50,663,706 against K50,563,706; INRIS K184.8m against K217.8m; the Anti-Corruption Commission's 2026 ICT unit (K4.06m) was never taken. Re-read each against the FY2026 volume's page image: correct an OCR misreading, take the ACC line, and leave a genuine revision as printed in the 2026 law.
+- **ZMB FY2024-25: the Anti-Corruption Commission's ICT unit has no row (2026-11-21).** Head 87 sub-programme 4199-049 ICT Systems Management, taken for FY2026 and FY2027, is printed in the 2026 volume's prior-year columns at 4,661,689 (2024 approved) and 3,879,181 (2025 approved), and `votes-read.csv` holds head 87 as `read, none digital` for both years. Take it from the 2024 and 2025 volumes' own Table 3, with the revised and actual from each year's Financial Report, and set the vote to `lines taken`.
 
 - **GIN FY2026 has proposed rows only (2026-10-26).** The bill was read on 2026-10-26 (113 lines); the enacted law's article 10 moves most ministries from the bill, so no line takes an appropriated stage. The répartition decree D/2026/104 of 31 March 2026, asked of OSINT in the note of 2026-10-25, would give the enacted lines; read it into the FY2026 rows when it is catalogued.
 
