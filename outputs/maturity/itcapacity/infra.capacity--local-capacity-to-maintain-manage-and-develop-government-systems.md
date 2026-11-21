@@ -21,9 +21,9 @@ The African Charter on the Values and Principles of Public Service and Administr
 | Stage | Countries |
 |---|---|
 | 5 Mature | 12 |
-| 4 Operating | 10 |
-| 3 Established | 9 |
-| 2 Nascent | 11 |
+| 4 Operating | 12 |
+| 3 Established | 8 |
+| 2 Nascent | 10 |
 | 1 Absent | 3 |
 | Unplaced | 4 |
 | No evidence | 5 |
@@ -165,6 +165,14 @@ Government staff built a system that went live in 2025; fewer than three systems
 - The Minister of Communications and Innovation said government services are currently housed at the Department of Shared Digital Services, which government intends to migrate to the new Bofinet data centre (document published 2025-11-25, no other date given) ([source, 2025-11-25](https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news)).
 - The Botswana Examinations Council's 2024/25 annual report says its in-house DataSmart application was developed and deployed to capture marks for the PSLE, JCE and BGCSE ([source, 2025-03](https://www.bec.co.bw/images/2025/annual-report/bec-annual-report-2025-final-09-12-25_.pdf)).
 
+### Chad: 4 Operating
+
+A state company built its own system in 2026 and builds ministry platforms; no source found names three systems run wholly in-house.
+
+- Tchadinfos reports that SONEMIC, the state mining and control company, presented on 20 April 2026 an integrated operations management system in use at the institution, designed internally exclusively by Chadian engineers ([source, 2026-04-20](https://tchadinfos.com/2026/04/20/tchad-la-sonemic-devoile-son-nouveau-systeme-numerique/)).
+- Tchadinfos reports that SONEMIC, a state company, handed self-financed servers, interconnection and security equipment to the education ministry and the national digital health programme on 17 November 2026 as the technical base for platforms it builds with ADETIC ([source, 2026-11-17](https://tchadinfos.com/2026/11/17/education-et-sante-la-sonemic-offre-du-materiel-informatique/)).
+- Tchadinfos reports that SONEMIC engineers unveiled on 20 April 2026 a new in-house digital system in use, plus mapping, document management, operational control, workflow and dashboard tools built by its teams ([source, 2026-04-20](https://tchadinfos.com/2026/04/20/tchad-la-sonemic-devoile-son-nouveau-systeme-numerique/)).
+
 ### Equatorial Guinea: 4 Operating
 
 The Supreme Court's own staff built a website that went live in 2025; fewer than three systems are known to be run wholly in-house.
@@ -188,6 +196,14 @@ A county ICT team built a projects tracking system that went live in 2024; fewer
 - Makueni County Government says its in-house ICT team built the Projects Monitoring and Tracking System without external vendors and it was launched in March 2024 ([source, 2024-03](https://umanyi.makueni.go.ke/storage/success_stories/68b949613618a_Success_Story.pdf)).
 - ICT Authority Kenya, a state corporation, says it runs a Network Operation Centre and Cloud Data Centre and designs integrated e-services systems for government ([source, 2026](https://icta.go.ke/faqs)).
 - Murang'a Governor Irungu Kang'ata says AfyaKE, adopted from a national government system, was enhanced by the county's in-house software developers and its staff were trained to use it; the Ministry of Health says it is a private arrangement between the county and its developers ([source, 2026-10-16](https://nation.africa/kenya/counties/muranga/afyake-system-shutdown-65-000-patient-records-at-centre-of-kang-ata-duale-showdown-5634726)).
+
+### Madagascar: 4 Operating
+
+The transport ministry's own technicians built a reporting platform that went live in 2026; no source found names three systems run wholly in-house.
+
+- Public Digital says Madagascar's Digital Governance Unit, within the Ministry of Digital Development, is responsible for managing digital projects across the government's ministries and digitising public services, with a multidisciplinary team ([source, 2024-02](https://public.digital/pd-insights/blog/2024/02/show-the-thing-9-madagascar-public-services-one-stop-counter)).
+- UNDP's 2025 terms of reference say the Gendarmerie nationale's Fichier central, the secure register of judicial-police results, was designed and developed by gendarmerie technicians and is in place ([source, 2025-06-11](https://www.ungm.org/Public/Notice/269304)).
+- Madagascar's transport minister said on 17 November 2026 that the ministry's online platform for reporting transport irregularities, open to citizens on its website, was developed by the ministry's own technicians at no cost to the state budget ([source, 2026-11-17](https://www.2424.mg/mobilite-urbaine-les-citoyens-invites-a-signaler-les-irregularites-dans-le-secteur-des-transports-via-une-plateforme-numerique)).
 
 ### Mauritania: 4 Operating
 
@@ -233,13 +249,6 @@ A government technology body runs systems for the rest of government by 2025; no
 
 - The Council of Ministers communique of 14 January 2025 approves ANSIE's 2025 budget of 556.7 million FDJ, covering its work for administrations on the E-JO and E-BALO platforms, archive digitisation, a human-resources solution and support to the social registry ([source, 2025-01-14](https://www.presidence.dj/conseil-des-ministres/2025-01-14)).
 - The Council of Ministers says ANSIE itself carries out the development of a third version of the E-JO platform and supports the PKI and X-Road systems under its 2025 budget ([source, 2025-01-14](https://www.presidence.dj/conseil-des-ministres/2025-01-14)).
-
-### Madagascar: 3 Established
-
-A government technology body runs systems for the rest of government by 2024; no in-house build is known since 2023.
-
-- Public Digital says Madagascar's Digital Governance Unit, within the Ministry of Digital Development, is responsible for managing digital projects across the government's ministries and digitising public services, with a multidisciplinary team ([source, 2024-02](https://public.digital/pd-insights/blog/2024/02/show-the-thing-9-madagascar-public-services-one-stop-counter)).
-- UNDP's 2025 terms of reference say the Gendarmerie nationale's Fichier central, the secure register of judicial-police results, was designed and developed by gendarmerie technicians and is in place ([source, 2025-06-11](https://www.ungm.org/Public/Notice/269304)).
 
 ### Mozambique: 3 Established
 
@@ -289,12 +298,6 @@ A government technology body runs systems for the rest of government by 2026; no
 The health ministry's IT unit ran its health coverage platform in 2026; no government body running systems for the rest of government is known.
 
 - The webinar record says MINSANTE's Cellule Informatique and the national universal health coverage technical cell govern and administer the CSU openIMIS platform, with day-to-day operations mastered and advanced interventions still needing outside support ([source, 2026-05-18](https://openimis.atlassian.net/wiki/spaces/OP/pages/5154603013/Webinaire+Souverainet+Appropriation+des+syst+mes+de+sant+num+riques)).
-
-### Chad: 2 Nascent
-
-Government staff run or maintain systems by 2023; no body is known to serve the rest of government.
-
-- The World Bank diagnostic states that ANATS developed a mobile application that lets the RNBP population register be used for identity verification with the NNI; the date is the document's publication year ([source, 2023](https://documents1.worldbank.org/curated/en/099062923114552178/txt/P17712007468b1040987f0e2e23aeb2064.txt)).
 
 ### Egypt: 2 Nascent
 

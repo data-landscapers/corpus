@@ -1,0 +1,36 @@
+{
+  "slug": "2026-11-17-mdg-transport-ministry-irregularity-reporting-platform",
+  "facts": [
+    {
+      "sub_indicator": "inhouse",
+      "aspect": "inhouse",
+      "value": "yes",
+      "fact": "Madagascar's transport minister says the ministry's online platform for reporting transport irregularities was developed by the ministry's own technicians at no cost to the state budget.",
+      "as_of": "2026-11-17",
+      "date_precision": "day",
+      "system": "Transport ministry irregularity reporting platform",
+      "class": "staff"
+    },
+    {
+      "sub_indicator": "inhouse",
+      "aspect": "built",
+      "value": "live",
+      "fact": "Madagascar's transport minister said on 17 November 2026 that the ministry's online platform for reporting transport irregularities, open to citizens on its website, was developed by the ministry's own technicians at no cost to the state budget.",
+      "as_of": "2026-11-17",
+      "date_precision": "day",
+      "system": "Transport ministry irregularity reporting platform",
+      "class": "staff"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Transport ministry irregularity reporting platform",
+      "country_label": "Transport ministry irregularity reporting platform",
+      "class": "staff",
+      "platform": "",
+      "owner": "Ministry of Transport and Meteorology",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

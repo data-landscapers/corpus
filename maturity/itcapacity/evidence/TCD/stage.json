@@ -1,18 +1,19 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "2",
-   "inhouse": "yes",
-   "agency": "",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-001",
-   "gaps": "No source found from 2023 or later says a government body builds or runs systems for the rest of government.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "4",
+      "inhouse": "yes",
+      "agency": "operating",
+      "built": "live",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-003;TCD-007;TCD-004",
+      "gaps": "No source found since October 2023 names three systems run wholly by government staff.",
+      "note": "SONEMIC, a state company, builds health and education platforms for ministries with the ICT agency ADETIC (TCD-006, TCD-007), and its own engineers built the operations system in use since April 2026 (TCD-004), so 4. No three systems are named as run wholly in-house, so not 5.",
+      "as_at": "2026-11-21"
+    }
+  ]
 }

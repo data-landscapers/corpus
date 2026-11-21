@@ -1,0 +1,27 @@
+{
+ "slug": "2023-11-29-ega-benin-staying-on-top-of-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "ASIN's head of eServices says the agency implemented the X-Road data exchange platform in Benin and adapted it to the country's needs.",
+   "as_of": "2023-11-29",
+   "date_precision": "day",
+   "system": "X-Road",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The e-Governance Academy says ASIN runs the interoperability infrastructure and e-services platform and encourages government agencies to use it.",
+   "as_of": "2023-11-29",
+   "date_precision": "day",
+   "system": "ASIN",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": "No system stated as live after October 2023."
+}

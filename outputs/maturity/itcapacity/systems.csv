@@ -212,6 +212,7 @@ GAB,OLIA,OLIA,staff,,"Direction Generale du Budget, DSI",,2026-09-24-gab-dgb-dig
 GAB,Vectis,Gabon budget and expenditure system,staff,Involys SA software,Involys SA (vendor),,2026-07-24-gab-dgbfip-involys-sa-vectis-4-92-milliards-entente-directe
 GAB,GTLAN (Gestion des travaux legislatifs de l'Assemblee nationale),GTLAN,staff,,National Assembly; built by ANINF,,2026-05-04-gab-gabon-s-national-assembly-launches-digital-platform-to-modernise-legis
 GAB,SIGFIP,Gabon,staff,Treasury data centre,Ministry of Budget / ANINF,,2026-01-15-gab-le-gabon-reprend-la-main-sur-sa-souverainete-financiere-et-numerique
+GAB,Unified Social Registry (RSU),Registre Social Unique,other,,ANINF,,2025-06-17-gab-gabon-moves-to-accelerate-implementation-of-unified-social-registry-rs
 GHA,Ghana Electronic Document Wallet (GEDW),Ghana Electronic Document Wallet Ecosystem,other,PKI-based digital credential layer,National Information Technology Agency (NITA),,2026-06-26-nita-gedw-stakeholder-engagement
 GHA,National Identification System,National Identification System (Ghana Card),staff,,National Identification Authority,,2025-09-21-nia-threatens-service-cut-gra-nhia-passport-debt
 GHA,National Identification System,"National Identification System (Ghana Card, National Identity Register)",staff,,National Identification Authority,,2021-10-05-nia-about-us-mandate-act-707
@@ -261,6 +262,7 @@ MAR,Epolice,Epolice,staff,,DGSN,,2025-01-26-mar-plateforme-epolice-comment-la-dg
 MDG,e-GP Madagascar,e-GP Madagascar,other,,Government of Madagascar (PRODIGY),,2025-08-14-prodigy-egp-redesign-capacity-strengthening
 MDG,i-Fanagna,Madagascar,other,web platform,BIANCO,,2026-10-31-mdg-lutte-contre-la-corruption-le-bianco-lance-i-fanagna-une-plateforme-nu
 MDG,e-Pasipaoro,Madagascar,other,web portal,Ministry of Digital Development,,2026-10-11-mdg-2424-e-pasipaoro-online-passport-test
+MDG,Transport ministry irregularity reporting platform,Transport ministry irregularity reporting platform,staff,,Ministry of Transport and Meteorology,,2026-11-17-mdg-transport-ministry-irregularity-reporting-platform
 MLI,Government Intranet,Intranet de l'administration,staff,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
 MLI,Single-window portal of public services,Guichet unique,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
 MLI,Government messaging system,messagerie gouvernementale,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
@@ -282,6 +284,7 @@ MLI,Cadastre minier,Cadastre minier,staff,,Ministère des Mines,,2026-04-18-mli-
 MLI,E-Justice casier judiciaire and certificat de nationalite,E-Justice casier judiciaire and certificat de nationalite,staff,,Ministry of Justice with AGETIC,,2026-02-11-mli-semaine-nationale-de-la-justice-la-delivrance-digitale-du-casier-judic
 MLI,SIGRH,Mali civil-service HR and payroll system,staff,"in-house software, server hosted in Mali",Government of Mali,,2025-06-25-mli-operationnalisation-du-sigrh-tres-bientot-un-outil-efficace-de-gestion
 MLI,Logiciel de gestion des dossiers judiciaires,Logiciel de gestion des dossiers judiciaires,staff,,Agetic for the Ministry of Justice,,2025-02-01-mli-troisieme-edition-de-la-semaine-de-la-justice-le-logiciel-de-gestion-d
+MLI,OpenClinic,Mali,other,,ANTIM,,2025-09-16-mli-digitalisation-de-la-sante-l-antim-presente-openclinic-devant-le-comit
 MOZ,Huawei-built data centre (Mozambique),Huawei-built data centre,other,data centre,,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
 MOZ,CloudGov,CloudGov,staff,"file storage, sharing and synchronisation",INAGE,public administration institutions,2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos
 MOZ,e-SNGD,Sistema Nacional de Gestao Documental,other,,INAGE,,2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos
@@ -448,6 +451,9 @@ TCD,SONEMIC integrated operations management system,SONEMIC system,staff,,SONEMI
 TCD,evisa.td e-Visa platform,e-Visa,staff,,National Police,,2026-10-01-tcd-visasnews-e-visa-platform-momentum
 TCD,Guidam,Guidam,other,,Secretariat general du gouvernement,,2026-08-07-chad-guidam-platform-biennial-report-accountability
 TCD,SIGFiP,SIGFiP,other,,,,2026-08-04-tchad-budget-2027-numerique-finances-publiques
+TCD,Td-connect,Td-connect,other,,SONEMIC and ADETIC,,2026-11-17-tcd-la-sonemic-offre-du-materiel-informatique
+TCD,E-Santé,E-Santé,other,,SONEMIC and ADETIC,,2026-11-17-tcd-la-sonemic-offre-du-materiel-informatique
+TCD,Td-scolar,Td-scolar,other,,SONEMIC and ADETIC,,2026-11-17-tcd-la-sonemic-offre-du-materiel-informatique
 TGO,ATD low-code/no-code integration platforms,ATD low-code/no-code platforms,staff,low-code/no-code,Agence Togo Digital,,2026-09-04-togo-atd-cadre-digitalisation-services-publics-gouvernance
 TGO,Alfresco,Alfresco electronic document management,other,Alfresco,Ministère des Finances et du Budget,,2026-04-29-togofirst-ministere-finances-numerisation-archives-ged-alfresco
 TUN,Cloud privé du Centre National de l'Informatique,Cloud privé pour le CNI,other,private cloud,Centre National de l'Informatique,national,2026-01-05-tunisie-afdb-cni-cloud-prive-attribution

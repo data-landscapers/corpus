@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-01-businessdaily-ayugi-ecitizen-sh50-fee",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "Webmasters CEO James Ayugi says that after a 2023 handover of IP rights to the government, the firm still provides technical support on e-Citizen under one-to-three-year contracts while knowledge is transferred to government officers.",
+   "as_of": "2024-03-01",
+   "date_precision": "day",
+   "system": "e-Citizen",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

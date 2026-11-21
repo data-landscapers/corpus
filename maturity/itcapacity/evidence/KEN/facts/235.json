@@ -1,0 +1,27 @@
+{
+ "slug": "2024-10-02-businessdaily-state-collects-sh127bn-ecitizen",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Mbadi said the e-Citizen system has been handed over to the government and is operated by the ICT Authority on a contractual basis, with a three-year contract after which the government will decide whether to continue.",
+   "as_of": "2024-10-02",
+   "date_precision": "day",
+   "system": "e-Citizen",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Mbadi said the ICT Authority operates the e-Citizen platform that carries services of government bodies, collecting money for government and paying the service provider.",
+   "as_of": "2024-10-02",
+   "date_precision": "day",
+   "system": "e-Citizen",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
