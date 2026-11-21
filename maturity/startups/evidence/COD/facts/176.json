@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-04-cod-fec-comite-national-labellisation-startups-premiere-reunion",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "The FEC reports the Startup Act, Ordonnance-loi n° 22/030 of 8 September 2022, is the basis for a national startup labelling committee created by Decree n° 26/022 of 5 June 2026, which met for the first time on 4 November 2026.",
+   "as_of": "2022-09-08",
+   "date_precision": "day",
+   "system": "Startup Act",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Startup Act",
+   "country_label": "DR Congo",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "Ministry of Entrepreneurship",
+   "tiers": ""
+  },
+  {
+   "system": "Comite National de Labellisation des startups",
+   "country_label": "DR Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Entrepreneurship",
+   "tiers": ""
+  }
+ ],
+ "note": "No startup is yet stated as labelled; the committee has only held its first meeting."
+}
