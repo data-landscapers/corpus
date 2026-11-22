@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: COD
-ledger_rows: 58
+ledger_rows: 59
 not_held: 6
-record: 5a04ff301331
+record: 7dbd7ad0704b
 ---
 
 # News, Oct – Nov 2026
@@ -671,6 +671,28 @@ The DRC's telecoms ministry is seeking a firm for an eight-month e-government co
 **[i-impôts DGI RDC : déclarer et payer ses impôts en ligne (guide 2026)](https://lepoint.cd/i-impots-dgi-rdc-declarer-payer-impots-en-ligne/)** — Le Point (lepoint.cd), 13 November 2026
 
 Le Point (lepoint.cd) published a guide on 13 November 2026 to i-impôts, the DR Congo's online tax filing platform. Companies use it to file and pay VAT, payroll tax and corporate tax. On 11 November its sign-up page for individuals was still under development.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-Services RDC public-services portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Modernisation de l’administration publique : le Président Tshisekedi demande de renforcer la relation État-administrés - ACP](https://acp.cd/nation/modernisation-de-ladministration-publique-le-president-tshisekedi-demande-de-renforcer-la-relation-etat-administres/)** — Agence Congolaise de Presse (ACP), 19 November 2026
+
+President's speech opening second public-service conference; E-Services RDC framed as curb on illicit charges.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : le Gouvernement annonce la création de la plateforme numérique « E-Services RDC » - ACP](https://acp.cd/nation/rdc-le-gouvernement-annonce-la-creation-de-la-plateforme-numerique-e-services-rdc/)** — Agence Congolaise de Presse (ACP), 19 November 2026
+
+Single portal for procedures and official fees; six languages; Mbulamatari app; public-sector job listings.
 
 </div>
 
