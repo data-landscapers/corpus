@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-21-nga-independent-afritech-afrigo-digital-transactions",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "AfriGO says it is integrating the NIMC multipurpose national identity card with its payment infrastructure, which it says could allow identity verification, benefit payments and transactions through one card.",
+   "as_of": "2026-11-21",
+   "date_precision": "day",
+   "system": "NIMC multipurpose national identity card with AfriGO",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIMC multipurpose national identity card",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
