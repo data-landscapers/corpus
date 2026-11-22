@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-businessday-fg-backs-eight-startups-through-idice-growth-lab",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "BusinessDay reports that the iDICE Startup Bridge Growth Lab, implemented by the Bank of Industry and co-financed by the AfDB, AFD and IsDB, has commenced and each of eight Nigerian startups is to receive $100,000 in equity investment.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "iDICE Startup Bridge Growth Lab",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iDICE Startup Bridge",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Government, implemented by Bank of Industry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
