@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-20-ken-dci-biometric-good-conduct-kakamega",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Tuko reports that Kenyan applicants for a police clearance certificate start on the eCitizen portal and pay a KSh 1,050 fee before biometric capture at a station or Huduma Centre.",
+   "as_of": "2026-11-20",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "eCitizen",
+   "class": "eservices",
+   "platform": "web portal",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

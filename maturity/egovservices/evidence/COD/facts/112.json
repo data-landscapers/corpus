@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-cod-acp-tshisekedi-modernisation-administration-e-services",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "ACP reports President Tshisekedi saying on 19 November 2026 that the new E-services RDC platform makes administrative procedures and their fees accessible and facilitates certain formalities and online payments.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "E-Services RDC",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Services RDC",
+   "country_label": "E-services RDC",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of the Civil Service",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}
