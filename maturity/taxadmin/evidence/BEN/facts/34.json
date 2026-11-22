@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-19-ben-one-platform-for-all-what-benin-s-e-tax-rollout-to-small-businesses-ca",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "ICTD says SIGIBé, which replaced SIGTAS (launched 2018), was rolled out for large and medium taxpayers in 2022 and extended to small businesses in 2024, with the Cotonou centres online since May 2024 and taxpayers able to file online.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "SIGIBé",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "ICTD says taxpayers in Benin pay online through SIGIBé, mostly by mobile money, and the DGI reports electronic payments above 96% for most taxes.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SIGIBé",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
