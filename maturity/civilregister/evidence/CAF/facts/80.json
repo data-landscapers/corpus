@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-caf-modernisation-de-letat-civil-en-rca-des-avancees-significatives-malgre",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Oubangui Médias reports that the MODERO steering committee, meeting on 17 November 2026, named the civil-status management software MbetiNet and adopted a function for collecting civil-status data in the platform and app, with 130,000 acts digitised in January-September 2026.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "MbetiNet",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MbetiNet",
+   "country_label": "MbetiNet (civil-status management software, MODERO)",
+   "class": "civil",
+   "platform": "",
+   "owner": "DGDEC",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}
