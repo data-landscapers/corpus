@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-20-mrt-mauritanie-quand-la-modernisation-administrative-devient-une-menace-sociale",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Direction generale du Budget set 31 January 2027 as the deadline for civil, military and parliamentary retirees to complete enrolment in the Registre national des populations or lose their pension, which the Kassataya opinion piece reports.",
+   "as_of": "2026-11-20",
+   "date_precision": "day",
+   "system": "Registre national des populations",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national des populations",
+   "country_label": "Mauritania",
+   "class": "population",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Houwiyeti",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "application",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

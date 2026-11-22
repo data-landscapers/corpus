@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MRT-004;MRT-003;MRT-001",
-      "gaps": "No source found since October 2023 says other registers or services take people's records from the population register.",
-      "note": "Stage 4: the register is in service with 5.1 million citizens, and the procedures portal (November 2023) enrols children born to Mauritanian parents in it, as a magistrates' official confirms civil-status facts are recorded there. Stage 5 needs other systems taking records from it, and none is held.",
-      "as_at": "2026-11-12"
+      "gaps": "No source found since October 2023 says other registers or services take people's records from the population register. The Budget directorate's order that retirees enrol by 31 January 2027 or lose their pension is a deadline, not records taken.",
+      "note": "Stage 4: the register is in service with 5.1 million citizens, and the procedures portal (November 2023) enrols children born to Mauritanian parents in it, as a magistrates' official confirms civil-status facts are recorded there. Stage 5 needs other systems taking records from it; the pension enrolment deadline of January 2027 (MRT-006) shows none yet.",
+      "as_at": "2026-11-22"
     }
   ]
 }
