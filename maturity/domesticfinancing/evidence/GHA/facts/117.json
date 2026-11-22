@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-20-gha-coalition-digital-health-investment",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Transform Health's national coalition lead said GH¢11 million is allocated to digital health development in the 2027 Budget, which he called insufficient.",
+   "as_of": "2026-11-20",
+   "date_precision": "day",
+   "system": "2027 Budget digital health allocation",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
