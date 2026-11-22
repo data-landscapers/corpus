@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: NGA
-ledger_rows: 139
+ledger_rows: 143
 not_held: 8
-record: 973300a35436
+record: 88c2b544c7e3
 ---
 
 # News, Oct – Nov 2026
@@ -307,6 +307,20 @@ TechCabal reported on 6 November 2026 that Nigeria is reviewing its cybersecurit
 **[Senate Passes Bill to Regulate Systemically Important Fintechs](https://naltf.gov.ng/senate-passes-bill-to-regulate-systemically-important-fintechs/)** — National Assembly Library Trust Fund (NALTF), 10 November 2026
 
 Nigeria's Senate passed SB. 959 on third reading on 10 November 2026. The bill amends the Banks and Other Financial Institutions Act 2020 so the Central Bank can designate and register fintechs and other non-bank institutions as Systemically Important Institutions. It requires stress tests, data-integrity assessments, cybersecurity safeguards and a public register of designated institutions.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Osun State Digital Economy Agency Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Osun, UK partner to strengthen digital economy](https://tribuneonlineng.com/osun-uk-partner-to-strengthen-digital-economy/amp/)** — Tribune Online, 21 November 2026
+
+Osogbo co-creation workshop 19 Nov 2026; Digital Economy Agency Bill advancing; about 10 tech hubs planned.
 
 </div>
 
@@ -1556,6 +1570,20 @@ The Nigerian Revenue Service has set deadlines for virtual asset service provide
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AfriGO domestic card scheme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AfriTech 6.0: AfriGO Urges Shift From Bank Account Expansion To Active Digital Transactions](https://independent.ng/afritech-6-0-afrigo-urges-shift-from-bank-account-expansion-to-active-digital-transactions/)** — Independent Newspaper Nigeria, 21 November 2026
+
+Nearly 10m AfriGO cards in under two years; NIMC multipurpose ID card integration; usage, not access, the next frontier.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -2134,6 +2162,20 @@ BusinessDay reported on 18 November 2026 commentary urging Nigeria to learn from
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">iDICE Startup Bridge</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG backs eight startups through iDICE Growth Lab to access N1bn in equity funding](https://businessday.ng/news/article/fg-backs-eight-startups-through-idice-growth-lab-to-access-n1bn-in-equity-funding/)** — BusinessDay (Nigeria), 19 November 2026
+
+USD 100,000 equity each for eight startups incl. KrosAI, Vantrace, SavvyBee; BOI-run, AfDB/AFD/IsDB co-financed.
+
+</div>
+
+</div>
+
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
@@ -2269,6 +2311,20 @@ Nigeria's federal government recruited 50,000 young people in seven North-West s
 **[34m Learners, 700,000 Teachers Now on Nation’s Digital Education Database, Says FG](https://www.thisdaylive.com/2026/11/16/34m-learners-700000-teachers-now-on-nations-digital-education-database-says-fg/)** — ThisDay, 16 November 2026
 
 Nigeria's Federal Ministry of Education said on 16 November 2026 that its Nigerian Education Data Infrastructure now holds records of more than 34 million learners and 700,000 teachers. The data was collected from schools on digital devices. The ministry said it will launch a National EdTech Strategy with five pillars, phased from late 2026 to 2030.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Netherlands Knowledge Empowers You (KEY) technical-talent programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government invests in technical talent in partner countries](https://www.government.nl/latest/news/2026/11/20/government-invests-in-technical-talent-in-partner-countries)** — Ministry of Foreign Affairs (Netherlands), 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
+
+EUR 150m over 2027-2031; seven initial countries, four outside Africa; no per-country split stated.
 
 </div>
 
