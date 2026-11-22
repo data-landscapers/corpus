@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: ZAF
-ledger_rows: 123
+ledger_rows: 125
 not_held: 17
-record: b65897a57a4a
+record: d187ce6eb6fa
 ---
 
 # News, Oct – Nov 2026
@@ -1718,6 +1718,20 @@ PRASA launched three digital passenger channels on 17 November 2026: the myprasa
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Transformation of Government Roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SA strategises to use AI for tangible benefits for citizens](https://www.sanews.gov.za/south-africa/sa-strategises-use-ai-tangible-benefits-citizens)** — SAnews (South African Government News Agency), 19 November 2026
+
+Ntshavheni: Digital Transformation Roadmap to be reworked after US visit; AI guidelines over hard policy framework.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -1866,13 +1880,35 @@ President Ramaphosa is leading a delegation to Silicon Valley to inform South Af
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Presidential AI mission: 90-day initiatives</p>
+<p class="monthly-story__name">National AI action plan</p>
 
 <div class="bulletin-item" markdown="1">
 
 **[‘We must act fast’: Ramaphosa sets 90-day deadline for AI rollout plan](https://www.citizen.co.za/news/south-africa/we-must-act-fast-ramaphosa-sets-90-day-deadline-ai-rollout-plan/)** — The Citizen, 16 November 2026
 
 President Cyril Ramaphosa told about 300 South Africans, including nine ministers, on 16 November 2026 that the delegation on his Silicon Valley AI visit should pick a focused set of AI initiatives within 90 days of returning. Each should have clear responsibilities and measurable outcomes. He named investment, research and skills partnerships, and AI in public services.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Address by President Cyril Ramaphosa at the conclusion of the Working Visit to Silicon Valley San Jose, United States of America](https://www.presidency.gov.za/address-president-cyril-ramaphosa-conclusion-working-visit-silicon-valley-san-jose-united-states)** — The Presidency of the Republic of South Africa, 20 November 2026
+
+Debrief closing San Jose visit; national AI action plan in 90 days; Presidency-led delivery team; four priorities.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Presidential AI mission: 90-day initiatives</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[‘We must act fast’: Ramaphosa sets 90-day deadline for AI rollout plan](https://www.citizen.co.za/news/south-africa/we-must-act-fast-ramaphosa-sets-90-day-deadline-ai-rollout-plan/)** — The Citizen, 16 November 2026
+
+Summarised under [AI](#ai).
 
 </div>
 
