@@ -1,12 +1,12 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-11-17
+compiled: 2026-11-22
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 260
+sources_cited: 262
 sections_written: 39
 not_established: 0
 acquire_lines: 67
@@ -40,7 +40,7 @@ On 23 July 2026 the National Bank [defined a virtual asset as any digital repres
 ### Data protection
 <!-- gov.protect -->
 
-[Proclamation No. 1321/2024 was approved on 4 April 2024 and gazetted on 24 July 2024](https://www.aln.africa/ethiopia-new-data-protection-law). [It replaced the country's piecemeal sectoral regulation of personal data](https://www.aln.africa/ethiopia-new-data-protection-law). [As of November 2025 the secondary directives needed to operate it had not been issued](https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement). [No enforcement action by the Ethiopian Communications Authority had been made public as of March 2025](https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement). [In May 2026 its director-general said a portal for reporting breaches to the Authority had been prepared](https://www.ena.et/web/amh/w/amh_8835545).
+[Proclamation No. 1321/2024 was approved on 4 April 2024 and gazetted on 24 July 2024](https://www.aln.africa/ethiopia-new-data-protection-law). [It replaced the country's piecemeal sectoral regulation of personal data](https://www.aln.africa/ethiopia-new-data-protection-law). [As of November 2025 the secondary directives needed to operate it had not been issued](https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement). [No enforcement action by the Ethiopian Communications Authority had been made public as of March 2025](https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement). [In May 2026 its director-general said a portal for reporting breaches to the Authority had been prepared](https://www.ena.et/web/amh/w/amh_8835545). [On 17 November 2026 Ethiopian Airlines detected a breach of its ShebaMiles loyalty accounts](https://addisfortune.news/news-alert/hackers-breach-shebamiles-not-its-miles-airline-says). [Whether the Authority was notified within the 72 hours the law requires had not been confirmed](https://cioafrica.co/ethiopian-airlines-breach-puts-72-hour-data-reporting-rule-under-scrutiny/) (November 2026).
 
 [The 2024 law defines personal data broadly and claims reach over foreign entities handling Ethiopians' data](https://www.aln.africa/ethiopia-new-data-protection-law). [It requires controllers to notify the Authority and affected people within 72 hours of learning of a breach](https://www.techhiveadvisory.africa/insights/review-of-ethiopias-data-protection-act). [It obliges personal data to be stored locally](https://digitalpolicyalert.org/change/12100-data-localisation-requirements-in-personal-data-protection-proclamation-proclamation-no-13212024). [This matches Digital Ethiopia 2030's principle of national anchoring for data, infrastructure and systems](https://www.pmo.gov.et/media/other/Digital_Ethiopia_2030.pdf).
 
