@@ -16,3 +16,4 @@ BEN,006,census,taken,removed,"WDI and SPI list the 2023 census as counted, but I
 BEN,009,census,taken,removed,"WDI and SPI list the 2023 census as counted, but INStaD began RGPH5 mapping in March 2024 (BEN-004, BEN-005), so 2023 is the planned year, not a count"
 TZA,008,census,taken,revalued: results:preliminary,"states the census report was released within 45 days of data collection in 2022, which answers question 3; read as the first release"
 RWA,002,census,taken,revalued: results:final,"its source is the RPHC5 Main Indicators Report itself, published February 2023, which answers question 3; it also dates the count, and RWA-007 answers question 2"
+TCD,016,census,preparing,removed,"the INSEED head says PHASAOC support enabled the RGPH-3, counted by August 2026; post-count work is not a census in preparation"
