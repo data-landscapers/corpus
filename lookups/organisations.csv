@@ -285,6 +285,7 @@ africtivistes,africtivistes,AfricTivistes,GMB,other,auto
 africultures,africultures,AfriCultuReS,XAF,other,auto
 afriex,afriex,Afriex,NGA,other,auto
 afrifiber,afrifiber,AfriFiber,DJI,other,auto
+afrigo,afrigo,AfriGO,NGA,other,auto
 afrik-creance,afrik-creance,Afrik Créance,BEN,other,auto
 afrik-info,afrik-info,Afrik Info,XAF,other,auto
 afrik-soir,afrik-soir,Afrik Soir,CIV,other,auto
@@ -1229,6 +1230,7 @@ casa-civil-presidente-angola,casa-civil-presidente-angola,Casa Civil do Presiden
 cascador,cascador,Cascador,NGA,other,auto
 case-for-nrens,case-for-nrens,Case for NRENs,XGL,other,auto
 cash-plus,cash-plus,Cash Plus,MAR,other,auto
+cashi-chad,cashi-chad,Cashi,TCD,other,auto
 casier-judiciaire-central-guinee,casier-judiciaire-central-guinee,Casier judiciaire,GIN,other,auto
 cassa-depositi-e-prestiti,cassa-depositi-e-prestiti,Cassa Depositi e Prestiti (CDP),ETH,other,auto
 cassava-ai,cassava-ai,Cassava AI,XAF,other,auto
@@ -1468,6 +1470,7 @@ cisco-networking-academy,cisco-networking-academy,Cisco Networking Academy,USA,o
 cit-egypt,cit-egypt,CIT Chamber,EGY,other,auto
 citad,citad,CITAD,NGA,other,auto
 cite,cite,CITE,,other,auto
+cite-des-sciences-et-de-l-innovation-guinee,cite-des-sciences-et-de-l-innovation-guinee,Cité des sciences et de l'innovation de Guinée,GIN,other,auto
 cite-des-sciences-innovation-guinee,cite-des-sciences-innovation-guinee,Cité des sciences et de l’innovation de la Guinée (CSIG),GIN,other,auto
 citet-tunisie,citet-tunisie,CITET,TUN,other,auto
 citi,citi,Citi,XGL,other,auto
@@ -2289,6 +2292,7 @@ ecobiz54,ecobiz54,Ecobiz54,,other,auto
 ecoblox,ecoblox,ECOBLOX,ZAF,other,auto
 ecole-42-djibouti,ecole-42-djibouti,École 42 Djibouti,DJI,other,auto
 ecole-nationale-administration-tchad,ecole-nationale-administration-tchad,ENA,TCD,other,auto
+ecole-nationale-dadministration-drc,ecole-nationale-dadministration-drc,École nationale d'administration,COD,other,auto
 ecole-nationale-dadministration-tunisie,ecole-nationale-dadministration-tunisie,"École Nationale d'Administration, Tunisie",TUN,other,auto
 ecole-nationale-superieure-cybersecurite-algerie,ecole-nationale-superieure-cybersecurite-algerie,École nationale supérieure de cybersécurité (ENSCS),DZA,other,auto
 ecole-numerique-de-dubai,ecole-numerique-de-dubai,École Numérique de Dubaï,MRT,other,auto
@@ -2513,6 +2517,7 @@ ethio-telecom,ethio-telecom,Ethio Telecom,ETH,other,auto
 ethiopia-commodity-exchange,ethiopia-commodity-exchange,Ethiopia Commodity Exchange,ETH,other,auto
 ethiopia-insider,ethiopia-insider,Ethiopia Insider,ETH,other,auto
 ethiopian-ai-institute,ethiopian-ai-institute,AI Institute,ETH,other,auto
+ethiopian-airlines,ethiopian-airlines,Ethiopian Airlines,ETH,other,auto
 ethiopian-artificial-intelligence-institute,ethiopian-artificial-intelligence-institute,Ethiopian Artificial Intelligence Institute,ETH,other,auto
 ethiopian-association-of-startup-ecosystem,ethiopian-association-of-startup-ecosystem,The Ethiopian Association for Startup Ecosystem,ETH,other,auto
 ethiopian-bankers-association,ethiopian-bankers-association,Ethiopian Bankers Association,ETH,other,auto
@@ -2829,6 +2834,7 @@ g42-presight,g42-presight,G42 Presight,CIV,other,auto
 gabac,gabac,GABAC,XCA,other,auto
 gabinfo,gabinfo,GABINFO,MOZ,other,auto
 gabix,gabix,GABIX,GAB,other,auto
+gabon-connect,gabon-connect,Gabon Connect,GAB,other,auto
 gabon-fiber,gabon-fiber,Gabon Fiber,GAB,other,auto
 gabon-info,gabon-info,Gabon Info,GAB,other,auto
 gabon-infos,gabon-infos,Gabon Infos,GAB,other,auto
@@ -4739,6 +4745,7 @@ ministere-energie-eau-mali,ministere-energie-eau-mali,"Ministère de l'Energie e
 ministere-energie-energies-renouvelables-algerie,ministere-energie-energies-renouvelables-algerie,"Ministry of Energy and Renewable Energies, Algeria",DZA,government,auto
 ministere-energie-guinea,ministere-energie-guinea,"Ministère de l'Énergie, Guinea",GIN,government,auto
 ministere-energie-hydraulique-congo,ministere-energie-hydraulique-congo,"Ministère de l’Énergie et de l’Hydraulique, Congo",COG,government,auto
+ministere-energie-mines-developpement-durable-maroc,ministere-energie-mines-developpement-durable-maroc,"Ministère de l'Énergie, des Mines et du Développement durable, Morocco",MAR,government,auto
 ministere-energie-niger,ministere-energie-niger,"Ministère de l’Energie, Niger",NER,government,auto
 ministere-energie-ressources-naturelles-djibouti,ministere-energie-ressources-naturelles-djibouti,"Ministère de l'Énergie chargé des Ressources naturelles, Djibouti",DJI,government,auto
 ministere-energie-togo,ministere-energie-togo,"Ministère délégué auprès du ministère de l’Economie, chargé de l’Energie et des Ressources minières, Togo",TGO,government,auto
@@ -4782,6 +4789,7 @@ ministere-fonction-publique-travail-burkina-faso,ministere-fonction-publique-tra
 ministere-hydraulique-algerie,ministere-hydraulique-algerie,"Ministère de l'Hydraulique, Algeria",DZA,government,auto
 ministere-inclusion-financiere-togo,ministere-inclusion-financiere-togo,"Ministère de l'inclusion financière et de l'organisation du secteur informel, Togo",TGO,government,auto
 ministere-industrie-commerce-mali,ministere-industrie-commerce-mali,"ministère de l’Industrie et du Commerce, Mali",MLI,government,auto
+ministere-industrie-commerce-maroc,ministere-industrie-commerce-maroc,"Ministère de l'Industrie, du Commerce, de l'Investissement et de l'Inclusion économique, Morocco",MAR,government,auto
 ministere-industrie-commerce-senegal,ministere-industrie-commerce-senegal,"Ministère de l'industrie et du commerce, Senegal",SEN,government,auto
 ministere-industrie-pme-rdc,ministere-industrie-pme-rdc,"Ministère de l'Industrie et du Développement des PME, DR Congo",COD,government,auto
 ministere-industrie-promotion-investissements-togo,ministere-industrie-promotion-investissements-togo,"Ministère de l’Industrie et de la Promotion des Investissements, Togo",TGO,government,auto
@@ -4951,6 +4959,7 @@ ministerio-interior-mocambique,ministerio-interior-mocambique,"Ministry of Inter
 ministerio-medio-ambiente-economia-azul-gnq,ministerio-medio-ambiente-economia-azul-gnq,"Ministerio de Medio Ambiente y Economía Azul, Equatorial Guinea",GNQ,government,auto
 ministerio-mulher-familia-solidariedade-social-guine-bissau,ministerio-mulher-familia-solidariedade-social-guine-bissau,"Ministry of Women, Family and Social Solidarity, Guinea-Bissau",GNB,government,auto
 ministerio-obras-publicas-habitacao-urbanismo-guine-bissau,ministerio-obras-publicas-habitacao-urbanismo-guine-bissau,Ministério das Obras Públicas Habitação e Urbanismo da Guiné-Bissau,GNB,government,auto
+ministerio-planificacao-desenvolvimento-mozambique,ministerio-planificacao-desenvolvimento-mozambique,"Ministério da Planificação e Desenvolvimento, Mozambique",MOZ,government,auto
 ministry-communication-algeria,ministry-communication-algeria,"Ministry of Communication, Algeria",DZA,government,auto
 ministry-communications-digital-economy-gambia,ministry-communications-digital-economy-gambia,"Ministry of Communications and Digital Economy, Gambia",GMB,government,auto
 ministry-communications-innovation-digital-economy-nigeria,nigeria-ministry-communications-innovation-digital-economy,"Ministry of Communications, Innovation and Digital Economy, Nigeria",NGA,government,auto
@@ -8062,13 +8071,14 @@ unicloud-africa,unicloud-africa,UniCloud Africa,XAF,other,auto
 unicri,unicri,UNICRI,XGL,other,auto
 unido,unido,United Nations Industrial Development Organization,XGL,other,auto
 unified-beneficiary-registry-malawi,unified-beneficiary-registry-malawi,Unified Beneficiary Registry,MWI,other,auto
-union-africaine,union-africaine,Union Africaine,CIV,other,auto
+union-africaine,union-africaine,Union africaine,CIV,other,auto
 union-des-journalistes-tchadiens,union-des-journalistes-tchadiens,Union des Journalistes Tchadiens,TCD,other,auto
 union-pour-la-defense-des-consommateurs-guinee,union-pour-la-defense-des-consommateurs-guinee,Union pour la défense des consommateurs,GIN,other,auto
 unionpay-international,unionpay-international,UnionPay International,CHN,other,auto
 uniph,uniph,Uganda National Institute of Public Health,UGA,other,auto
 unipod,unipod,UniPod,,other,auto
 unipod-botswana,unipod,UniPod,BWA,other,auto
+unique-group,unique-group,Unique Group,SLE,other,auto
 unita,unita,UNITA,AGO,other,auto
 unitar,unitar,UNITAR,SDN,other,auto
 unite-administration-electronique-tunisia,unite-administration-electronique-tunisia,unité de l'administration électronique,TUN,other,auto
