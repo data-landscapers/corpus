@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: XAF
-ledger_rows: 104
+ledger_rows: 106
 not_held: 3
-record: 88fd00f4628f
+record: f90729201533
 ---
 
 # News, Oct – Nov 2026
@@ -1549,6 +1549,8 @@ Germany's CDU/CSU-SPD coalition put a motion to the Bundestag asking the governm
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#training-and-skills">Training and skills</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#research-institutions">Research institutions</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#access-to-services">Access to services</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-divides">Digital divides</a>
@@ -1631,6 +1633,36 @@ Smart Africa and the ITU partnered to train African policymakers and telecom reg
 **[AfCFTA Digital Inclusion Programme reaches over 7,000 SMEs across 16 African countries](https://techreviewafrica.com/news/8154/afcfta-digital-inclusion-programme-reaches-over-7-000-smes-across-16-african-countries)** — Tech Review Africa, 6 November 2026
 
 The AfCFTA Secretariat closed phase 1 of its Digital Inclusion and Entrepreneurship Programme, run with Google's Hustle Academy, and reported on 6 November 2026 that it had reached more than 7,000 SMEs in 16 African countries. The programme began in November 2025. Phase 2 is in preparation.
+
+</div>
+
+</div>
+
+### Research institutions
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open Pan-African Repository (OPAR)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Shaping digital horizons together: IOI at UbuntuNet CONNECT 2026 in Malawi](https://investinopen.org/blog/shaping-digital-horizons-together-ioi-at-ubuntunet-connect-2026-in-malawi/)** — Invest in Open Infrastructure, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
+
+OPAR metadata aggregator launched in Lilongwe; DSaaS targets 400+ repositories and 960 curated datasets regionally.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UbuntuNet DSpace-as-a-service repository programme</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Shaping digital horizons together: IOI at UbuntuNet CONNECT 2026 in Malawi](https://investinopen.org/blog/shaping-digital-horizons-together-ioi-at-ubuntunet-connect-2026-in-malawi/)** — Invest in Open Infrastructure, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
+
+Summarised under [Research institutions](#research-institutions).
 
 </div>
 
