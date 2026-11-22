@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: ZWE
-ledger_rows: 45
+ledger_rows: 46
 not_held: 5
-record: 26bd0be88b35
+record: 99630a0f6df6
 ---
 
 # News, Oct – Nov 2026
@@ -795,6 +795,20 @@ Finance Minister Mthuli Ncube proposed on 19 November 2026 cutting customs duty 
 **[The 2027 National Budget Statement — "Accelerating Economic Transformation and Building Resilience to Climate and Global Shocks" (Zimbabwe)](https://t3n9sm.c2.acecdn.net/wp-content/uploads/2026/11/2027-National-Budget.pdf)** — Ministry of Finance, Economic Development and Investment Promotion (Zimbabwe), 19 November 2026
 
 Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Smartphone ownership among mobile phone users</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zimbabwe scraps mobile customs duty](https://itweb.africa/article/zimbabwe-scraps-mobile-customs-duty/kYbe9MXbBAnvAWpG)** — ITWeb Africa, 20 November 2026
+
+ICT minister Mavetera backs zero handset duty; PoTRAZ: 72% of mobile users owned a smartphone, July 2026.
 
 </div>
 
