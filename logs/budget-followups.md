@@ -27,3 +27,4 @@ One line per country, worst first, written on 2026-10-02 from checks A to C of t
 ## Queued by the budget poll
 
 One BUDGET-EXTRACT sitting a line (R106). `budget-watch.py followups` writes them; delete a line in the commit that settles it.
+- **BEN FY2026** — procurement-plan none already held — read it for a revision: [[2026-11-10-ben-an-plan-passation-marches-publics-2026-v3-companion]] (queued 2026-11-22).
