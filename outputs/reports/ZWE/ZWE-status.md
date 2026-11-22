@@ -1,6 +1,6 @@
 ---
 title: Zimbabwe: status report
-compiled: 2026-11-21
+compiled: 2026-11-22
 place: ZWE
 region: XSA
 built_by: STATUS-INIT
@@ -109,7 +109,7 @@ Zimbabwe had signed no memorandum of understanding or comparable non-binding dig
 On 5 April 2016 Parliament ratified [a US$98.6 million China Eximbank preferential buyer's credit for TelOne, repayable to January 2037](https://www.facebook.com/permalink.php?story_fbid=2059012574323134&id=2049750908582634&substory_index=0#). [Where TelOne's debt-service reserve account at China Eximbank falls short, the agreement directs surplus revenues from the separately financed third phase of the NetOne expansion to settle the loan](https://www.facebook.com/permalink.php?story_fbid=2059012574323134&id=2049750908582634&substory_index=0#).
 
 <!-- derived -->
-Eighty-three digital-sector commitments are on the record, announced between 2015 and 2026, with delivery running out to 2027 (November 2026). They come to about US$570 million (2015-2026), nearly all of it Chinese state finance — China Development Bank, China Eximbank and the Ministry of Commerce — with 16 other financiers sharing about US$20 million (November 2026). Four of the 83 are loans and 78 are grants, and the loans carry almost all of the money (November 2026). Connectivity takes the great majority, against much smaller sums for university computing, government equipment, statistics and digital skills. The largest, approved in 2015, is not recorded as moving, and two more are closed.
+Eighty-four digital-sector commitments are on the record, announced between 2015 and 2026, with delivery running out to 2027 (November 2026). They come to about US$570 million (2015-2026), nearly all of it Chinese state finance — China Development Bank, China Eximbank and the Ministry of Commerce — with 17 other financiers sharing about US$23 million (November 2026). Four of the 84 are loans and 79 are grants, and the loans carry almost all of the money (November 2026). Connectivity takes the great majority, against much smaller sums for university computing, government equipment, statistics and digital skills. The largest, approved in 2015, is not recorded as moving, and two more are closed.
 
 That is [a US$300 million loan from China Development Bank and ZTE Corporation to Econet Wireless Zimbabwe, agreed on 4 December 2015](https://www.fin24.com/Tech/Mobile/econet-zim-to-get-300m-from-china-20151204). [It was for market consolidation and new services](https://www.fin24.com/Tech/Mobile/econet-zim-to-get-300m-from-china-20151204). China Eximbank has also extended [a concessional loan for Phase 3 of NetOne's expansion](https://global.factiva.com/redir/default.aspx?P=sa&an=MEWZII0020160805ec850005p&cat=a&ep=ASE) (2021). [The state-owned operator's network has been Chinese-financed and Huawei-equipped since 2G](https://global.factiva.com/redir/default.aspx?P=sa&an=MEWZII0020160805ec850005p&cat=a&ep=ASE).
 
@@ -407,7 +407,7 @@ In 2025 there was [no online facility through which the public can request gover
 [On 4 December 2015 China Development Bank and ZTE Corporation agreed a US$300 million facility for Econet Wireless Zimbabwe](https://www.fin24.com/Tech/Mobile/econet-zim-to-get-300m-from-china-20151204). [A Chinese-built high-performance computing centre was handed to the University of Zimbabwe on 6 February 2015](http://www.china.org.cn/world/Off_the_Wire/2015-02/07/content_34758481.htm). [China's Ministry of Commerce then financed a second phase from 2018, with Inspur Group as contractor](https://www.crcc.cn/art/2017/12/8/art_549_689068.html). [It was intended to raise the centre's capacity almost tenfold and add cloud services](https://www.crcc.cn/art/2017/12/8/art_549_689068.html).
 
 <!-- derived -->
-Five of the 83 external digital financing commitments recorded for Zimbabwe come from Chinese state lenders — China Development Bank, China Eximbank and the Ministry of Commerce — and between them they account for nearly all of the money committed (November 2026).
+Five of the 84 external digital financing commitments recorded for Zimbabwe come from Chinese state lenders — China Development Bank, China Eximbank and the Ministry of Commerce — and between them they account for nearly all of the money committed (November 2026).
 
 ### EU activities
 <!-- geopol.eu -->
