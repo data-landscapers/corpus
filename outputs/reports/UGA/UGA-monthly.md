@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: UGA
-ledger_rows: 60
+ledger_rows: 62
 not_held: 11
-record: a503f2f25bb8
+record: 15688b276adc
 ---
 
 # News, Oct – Nov 2026
@@ -468,6 +468,20 @@ Savanna Telecom announced plans on 17 November 2026 for one million more fibre h
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kalangala Connect Lake Victoria subsea cable</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda launches first Lake Victoria submarine internet cable](https://www.monitor.co.ug/uganda/news/national/uganda-launches-first-lake-victoria-submarine-internet-cable-5677782)** — Daily Monitor, 20 November 2026
+
+Kalangala Connect; 6 km subsea fibre from Bukakkata to Buggala Island for the Ssese Islands.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -677,6 +691,20 @@ MTN MoMo Uganda said its MoKash savings and credit service, run with NCBA Bank U
 **[Stanbic Bank partners with ERP providers to accelerate embedded finance in Uganda](https://www.report.co.ug/articles/business/stanbic-bank-partners-with-erp-providers-to-accelerate-embedded-finance-in-uganda)** — Report.co.ug, 18 November 2026
 
 Stanbic Bank Uganda launched an embedded-finance model in Kampala on 17 November 2026. It partners with ERP providers, fintechs and technology firms to connect business systems to the bank through APIs, for payments, collections and credit records. The national IT authority urged continuous compliance rather than a one-time approval.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile money accounts, registered and active</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mobile money accounts hit 62m, but 23m go three months without transacting](https://www.monitor.co.ug/uganda/business/markets/mobile-money-accounts-hit-62m-but-23m-go-three-months-without-transacting--5677234)** — Daily Monitor, 20 November 2026
+
+Bank of Uganda September 2026 data; 39.1m active wallets; MTN MoMo lent Shs2.7 trillion in 2025; dormancy rules.
 
 </div>
 
