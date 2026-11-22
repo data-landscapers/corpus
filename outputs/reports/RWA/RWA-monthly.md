@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: RWA
-ledger_rows: 38
+ledger_rows: 39
 not_held: 7
-record: 73b9026454bb
+record: 6bf4d604dcfe
 ---
 
 # News, Oct – Nov 2026
@@ -667,6 +667,20 @@ Rwanda's National Cyber Security Authority partnered with Airtel Rwanda to suppo
 **[Rwanda Marks Completion of Smart Education Project Phase I and Launches the DigiTruck Initiative](https://www.mineduc.gov.rw/news-detail/rwanda-marks-completion-of-smart-education-project-phase-i-and-launches-the-digitruck-initiative)** — Ministry of Education (Rwanda), 27 October 2026
 
 Summarised under [Literacy](#literacy).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Coding academy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda Coding Academy opens new campus](https://www.newtimes.co.rw/article/40618/news/education/rwanda-coding-academy-opens-new-campus)** — The New Times (Rwanda), 20 November 2026
+
+KOICA-built Nyabihu campus inaugurated 20 Nov 2026; cybersecurity, embedded systems and VR labs; no cost reported.
 
 </div>
 
