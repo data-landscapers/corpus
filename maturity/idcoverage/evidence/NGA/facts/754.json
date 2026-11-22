@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-21-nga-independent-afritech-afrigo-digital-transactions",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "AfriGO's executive director said more than 100 million Nigerians hold National Identification Numbers.",
+   "as_of": "2026-11-21",
+   "date_precision": "day",
+   "system": "National Identification Number",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": "Count only; the document gives no population share."
+}
