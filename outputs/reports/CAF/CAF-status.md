@@ -1,12 +1,12 @@
 ---
 title: Central African Republic: status report
-compiled: 2026-11-14
+compiled: 2026-11-22
 place: CAF
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-26
 intersections_read: 6
-sources_cited: 164
+sources_cited: 165
 sections_written: 39
 not_established: 1
 acquire_lines: 27
@@ -185,7 +185,7 @@ The joins that exist were made at the counter rather than between the machines. 
 
 The contracted producer reaches the interior by [town-by-town missions that capture photograph, fingerprints and signature locally, with the cards printed in Bangui](https://www.radiondekeluka.org/41205-centrafrique-la-delivrance-de-la-carte-nationale-d-identite-facilitee-pour-les-habitants-de-bossangoa) (October 2023). [In July 2024 issuance reached Bambari, after being confined to Bangui since 2013](https://www.rfi.fr/fr/afrique/20240711-centre-de-la-rca-%C3%A0-bambari-les-populations-soulag%C3%A9es-de-pouvoir-enfin-faire-leur-carte-d-identit%C3%A9-sur-place). [A mission went to Birao in December 2025](https://www.journaldebangui.com/rca-carte-nationale-didentite-la-societe-al-madina-deploie-sa-mission-a-birao). [Another opened in Bria in August 2026, after an earlier one there issued more than 19,000 cards](https://corbeaunews-centrafrique.org/bria-une-operation-speciale-permet-aux-habitants-de-la-haute-kotto-dobtenir-leur-carte-nationale-didentite/).
 
-[In 2026 an EU-funded project handed over its 100,000th birth certificate](https://www.civipol.fr/fr/projets/projet-dappui-la-modernisation-de-letat-civil-en-republique-centrafricaine). [Running since January 2021, it is building a secure civil registration database in a pilot zone](https://www.civipol.fr/fr/projets/projet-dappui-la-modernisation-de-letat-civil-en-republique-centrafricaine). [Births, marriages and deaths all fall within the register under the 1997 Family Code, but processing is manual](https://data.unicef.org/crvs/central-african-republic/) (2017). [Civil registration is the country's strongest public administration measure in the 2024 Ibrahim Index, at 50.0 out of 100, unmoved over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cf.pdf).
+[In 2026 an EU-funded project handed over its 100,000th birth certificate](https://www.civipol.fr/fr/projets/projet-dappui-la-modernisation-de-letat-civil-en-republique-centrafricaine). [Between January and September 2026 the project registered 184,563 births and digitised 130,000 acts](https://oubanguimedias.com/2026/11/19/modernisation-de-letat-civil-en-rca-des-avancees-significatives-malgre-des-defis-persistants/). [Running since January 2021, it is building a secure civil registration database in a pilot zone](https://www.civipol.fr/fr/projets/projet-dappui-la-modernisation-de-letat-civil-en-republique-centrafricaine). [Births, marriages and deaths all fall within the register under the 1997 Family Code, but processing is manual](https://data.unicef.org/crvs/central-african-republic/) (2017). [Civil registration is the country's strongest public administration measure in the 2024 Ibrahim Index, at 50.0 out of 100, unmoved over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cf.pdf).
 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
