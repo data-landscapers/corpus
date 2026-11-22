@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: DJI
-ledger_rows: 15
+ledger_rows: 16
 not_held: 10
-record: 8f6e70c931b6
+record: 38785eedad3e
 ---
 
 # News, Oct – Nov 2026
@@ -32,6 +32,8 @@ record: 8f6e70c931b6
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
 </nav>
 
 ### Legislation and regulation
@@ -45,6 +47,22 @@ record: 8f6e70c931b6
 **[Le chef de l’Etat préside les travaux de la 12e séance du Conseil des ministres](https://www.adi.dj/article/139039)** — Agence Djiboutienne d'Information (ADI), 27 October 2026
 
 Djibouti's Council of Ministers approved a draft organic law on finance laws with a title on dematerialisation. It provides for an integrated public financial management system, electronic archiving, digital signatures and online publication of budget data.
+
+</div>
+
+</div>
+
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">African Forum of Official Journals (FAJO)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti veut doter l'Afrique d'un réseau permanent des journaux officiels](https://www.adi.dj/article/139127)** — Agence djiboutienne d'information (ADI), 21 November 2026
+
+Djibouti will host the second African Forum of Official Gazettes on 16 and 17 December 2026, the national news agency reported on 21 November. Organisers plan a cooperation charter, a Djibouti Declaration and a permanent secretariat. The forum is to discuss common publication standards and interoperability between national gazette platforms.
 
 </div>
 
