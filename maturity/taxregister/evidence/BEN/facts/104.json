@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-19-ben-one-platform-for-all-what-benin-s-e-tax-rollout-to-small-businesses-ca",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ICTD says taxpayers in Benin register for the tax identification number (IFU) on the SIGIBé platform.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "SIGIBé",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "ICTD says registering for the IFU now requires the national personal identification number, which the system verifies directly with ANIP.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "SIGIBé",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
