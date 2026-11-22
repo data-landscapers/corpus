@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "3",
+      "stage": "4",
       "standing": "in-force",
-      "reach": "",
+      "reach": "rules",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-004",
-      "gaps": "No source found names rules made under the law or says its oversight body is set up.",
-      "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "BEN-004;BEN-005",
+      "gaps": "The 12 appeals the government counted for 2022 fall outside the three years, and no decision or figures since have been found. The World Bank's December 2022 assessment says the HAAC had taken no initiative on access.",
+      "note": "Benin's return to UNESCO says the human rights commission, a communications regulator and a ministry oversee the law and did that work in 2022, a yes to question 3 as Burkina Faso's return is. Its 12 appeals of 2022 are outside the three years, so the stage stops at 4.",
+      "as_at": "2026-11-22"
     }
   ]
 }

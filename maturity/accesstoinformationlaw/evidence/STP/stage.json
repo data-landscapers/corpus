@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "STP-002;STP-001",
       "gaps": "No source found says an access to information law is in force.",
-      "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py.",
-      "as_at": "2026-10-13"
+      "note": "The draft put to the National Assembly in 2018 and still unadopted in 2021 is the newest draft found; UNESCO's 2026 statement that no law exists names no draft and no withdrawal, so the stage stays at 2.",
+      "as_at": "2026-11-22"
     }
   ]
 }

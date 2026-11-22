@@ -20,9 +20,9 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 
 | Stage | Countries |
 |---|---|
-| 5 Mature | 10 |
-| 4 Operating | 9 |
-| 3 Established | 13 |
+| 5 Mature | 11 |
+| 4 Operating | 10 |
+| 3 Established | 11 |
 | 2 Nascent | 13 |
 | 1 Absent | 5 |
 | Unplaced | 1 |
@@ -53,6 +53,14 @@ Malawi's Access to Information Act has run since 2020; its oversight body report
 - The commission's report for April 2024 to March 2025 says information holders processed over 36,000 requests with 11 rejections; the article is dated 11 October 2025 and the report was presented on the Friday before ([source, 2025-10-10](https://africabrief.substack.com/p/malawi-advances-information-access)).
 - The article reports that the Malawi Human Rights Commission, which the Act makes its oversight body, issued a notice to the company Mota-Engil to assess whether it had mechanisms to comply with the Act; the High Court on 6 March 2026 found the decision to assess was neither illegal nor unreasonable. The notice itself is undated; the date is the ruling's ([source, 2026-03-06](https://www.maraviexpress.com/access-to-information-act-applies-to-private-companies-undertaking-malawi-government-contracts-rules-the-high-court/)).
 - The article says the Access to Information Act (ATIA), which gives public access to government-held information, became operational in September 2020 ([source, 2020-09](https://africabrief.substack.com/p/malawi-advances-information-access)).
+
+### Mozambique: 5 Mature
+
+Mozambique's 2014 Right to Information Law is in force; the Ombudsman reported 60,433 requests under it in 2024; no rules made under it were found.
+
+- This document is the text of Lei n.º 34/2014 of 31 December 2014, the Lei do Direito à Informação, passed by the Assembleia da República to set the legal mechanisms for exercising the right to information; it applies to State bodies, direct and indirect administration, local authorities and private entities doing public-interest work or using public resources ([source, 2014-12-31](https://cscs.gov.mz/wp-content/uploads/2022/03/Lei-de-Direito-a-Informacao.pdf)).
+- Carta de Moçambique reports that Mozambique's Law 34/2014 on the Right to Information, passed by Parliament on 26 November 2014, is being implemented, per the Ombudsman's annual report to the Assembly ([source, 2024](https://cartamz.com/destaque/47502/provedor-de-justica-garante-haver-melhorias-na-implementacao-da-lei-do-direito-a-informacao/)).
+- The Ombudsman's annual report says public bodies received 60,433 information requests in 2024, of which 57,998 were granted (95%), 1,589 denied and 846 pending ([source, 2024](https://cartamz.com/destaque/47502/provedor-de-justica-garante-haver-melhorias-na-implementacao-da-lei-do-direito-a-informacao/)).
 
 ### Nigeria: 5 Mature
 
@@ -108,6 +116,13 @@ Zimbabwe's 2020 Freedom of Information Act is in force, and its oversight commis
 - MISA Zimbabwe's chairperson says the Zimbabwe Media Commission has issued release orders to public institutions that must provide the information requested under the Freedom of Information Act; no number or date of orders is given ([source, 2024](https://zimbabwe.misa.org/2025/04/26/misa-zimbabwe-2024-annual-report-now-available/)).
 - This is the text of the Freedom of Information Act, 2020 (Chapter 10:33), which gives a right to ask public entities for information; it was published and commenced on 1 July 2020 and repeals the Access to Information and Protection of Privacy Act ([source, 2020-07-01](https://zimlii.org/akn/zw/act/2020/1/eng@2020-07-01)).
 - The joint UPR submission says the Freedom of Information Act was operationalised through implementing regulations, citing the Freedom of Information (General) Regulations 2021, SI 229 of 2021; the document is dated July 2026 and the regulations' year is 2021 ([source, 2021](https://cipesa.org/wp-content/files/Zimbabwe_UPR_Review.pdf)).
+
+### Benin: 4 Operating
+
+Benin's 2015 code gives limited access rights, overseen by three existing bodies in 2022; no source found reports a decision on a request since.
+
+- The assessment says the current Beninese legislation on access to information (Loi n° 2015-07, with articles 84 and 90 limiting access rights) exists but is extremely limited, with no request procedure, no designated contact point and no annual report on requests, and that its implementation is very weak ([source, 2022-12](https://opendatatoolkit.worldbank.org/content/dam/sites/data/odk/documents/odra-benin.pdf)).
+- Benin's government response to UNESCO's SDG 16.10.2 survey says the national human rights commission, the communications regulator and a ministry or agency act as oversight bodies, and that 12 appeals were received in January-December 2022 ([source, 2022](https://www.unesco.org/sites/default/files/medias/fichiers/2024/10/Benin_SDG16102_2023.pdf)).
 
 ### Burkina Faso: 4 Operating
 
@@ -180,12 +195,6 @@ Angola's 2002 law on access to administrative documents is in force; no source f
 
 - The document is the text of Angola's Law no. 11/02 of 16 August 2002, the Law on Access to Administrative Documents (Lei de Acesso aos Documentos Administrativos), dated by its title to 16 August 2002 ([source, 2002](https://angolex.com/paginas/leis/lei-de-acesso-aos-documentos-administrativos-11a-02a.html)).
 
-### Benin: 3 Established
-
-Benin's 2015 code gives limited access rights with no request procedure; a new law was in draft in December 2022; no source found reports oversight.
-
-- The assessment says the current Beninese legislation on access to information (Loi n° 2015-07, with articles 84 and 90 limiting access rights) exists but is extremely limited, with no request procedure, no designated contact point and no annual report on requests, and that its implementation is very weak ([source, 2022-12](https://opendatatoolkit.worldbank.org/content/dam/sites/data/odk/documents/odra-benin.pdf)).
-
 ### Botswana: 3 Established
 
 Botswana's Access to Information Act of 2024 is made and starts on a date set by notice; no source reports that date and any rules.
@@ -200,7 +209,7 @@ Cabo Verde's 2022 law on access to administrative documents is in force; no sour
 
 ### Ethiopia: 3 Established
 
-Ethiopia has had a mass media and access to information proclamation since 2008; no source found reports its Ombudsman oversight is reported ineffective, and application.
+Ethiopia's 2008 mass media and access to information proclamation is in force; a 2023 study finds the Ombudsman named to implement it ineffective.
 
 - The document lists the Mass Media and Access to Information Proclamation No. 590/2008 among Ethiopia's laws and says the Ethiopian Institution of the Ombudsman was designated the organ responsible for implementing freedom of information, and that studies find it ineffective for lack of resources to evaluate public bodies; no date is given, so the document's published date is used ([source, 2023-06-01](https://www.cardeth.org/sites/default/files/New%20Media%20Legislations%20and%20their%20Implementations%20in%20Ethiopia.pdf)).
 - Proclamation No. 590/2008 on Freedom of the Mass Media and Access to Information, dated 4 December 2008, is proclaimed under Article 55(1) of the Constitution; its preamble affirms individuals' right to access information held by public bodies and a legal obligation on public officials to facilitate it (only the preamble is in the captured text) ([source, 2008-12-04](https://justice.gov.et/en/law/a-proclamation-to-provide-for-freedom-of-the-mass-media-and-access-to-information/)).
@@ -216,13 +225,6 @@ Guinea's 2020 law on access to public information is in force; no source found s
 Mali has no single access to information law; a 2026 study finds the right spread across several laws, one of 1998.
 
 - A peer-reviewed article says Mali has no single access to information law yet: the legal framework for the right is spread across several laws, among them Law no. 98-012 on relations between the administration and its users, and the article calls for a specific law; it names no draft and gives no date for this, so the document's publication date (2026-04-01) is used ([source, 2026-04-01](https://www.revue-irs.com/index.php/home/article/view/1637)).
-
-### Mozambique: 3 Established
-
-Mozambique's 2014 Right to Information Law is in force; no source found names rules made under it or the body that oversees it.
-
-- This document is the text of Lei n.º 34/2014 of 31 December 2014, the Lei do Direito à Informação, passed by the Assembleia da República to set the legal mechanisms for exercising the right to information; it applies to State bodies, direct and indirect administration, local authorities and private entities doing public-interest work or using public resources ([source, 2014-12-31](https://cscs.gov.mz/wp-content/uploads/2022/03/Lei-de-Direito-a-Informacao.pdf)).
-- Carta de Moçambique reports that Mozambique's Law 34/2014 on the Right to Information, passed by Parliament on 26 November 2014, is being implemented, per the Ombudsman's annual report to the Assembly ([source, 2024](https://cartamz.com/destaque/47502/provedor-de-justica-garante-haver-melhorias-na-implementacao-da-lei-do-direito-a-informacao/)).
 
 ### Niger: 3 Established
 
@@ -330,7 +332,7 @@ Mauritania's government bill on access to public information has been under disc
 
 ### Sao Tome and Principe: 2 Nascent
 
-Sao Tome and Principe had a draft access law before the National Assembly in 2018, still not adopted in 2021; no source reports later status.
+Sao Tome and Principe's draft access law went to the National Assembly in 2018; in 2026 UNESCO found no access law in force.
 
 - STP Digital reported on 1 December 2021 that civil society organisations were calling during the Quinzena da Cidadania (15-30 November 2021) for the draft access law to be adopted, which says it was not yet adopted ([source, 2021-11](https://stpdigital.net/sociedade/lei-de-acesso-a-documentos-e-informacoes-administrativas)).
 - A draft Lei de Acesso aos Documentos e Informações Administrativas, written by a national consultant under the Pro PALOP project, was submitted to the President of the National Assembly by civil society organisations (CIP-STP, FONG-STP, PDHEG, Wêbeto) in 2018, according to STP Digital ([source, 2018](https://stpdigital.net/sociedade/lei-de-acesso-a-documentos-e-informacoes-administrativas)).
