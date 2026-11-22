@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: MOZ
-ledger_rows: 40
+ledger_rows: 41
 not_held: 17
-record: 60bc1446370d
+record: 6feb6a733dc0
 ---
 
 # News, Oct – Nov 2026
@@ -249,8 +249,26 @@ Mozambique joined the SADC Regional Working Group on Data Protection through INT
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mous-and-other-agreements">MoUs and other agreements</a>
 </nav>
+
+### Domestic budget appropriations and expenditure
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitalisation projects in the Integrated Investment Programme 2026-30</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo Prevê Investir 845 M$ em 18 Projectos de Digitalização](https://www.diarioeconomico.co.mz/2026/11/21/desenvolvimento-2/governo-preve-investir-845-m-em-18-projectos-de-digitalizacao/)** — Diário Económico, 21 November 2026
+
+Mozambique's Planning and Development Minister, Salim Valá, said on 20 November 2026 that the Integrated Investment Programme 2026-30 reserves about USD 845 million for 18 digitalisation projects. He did not name the projects or give timetables. He also put e-money accounts at 131 per 100 adults in 2026.
+
+</div>
+
+</div>
 
 ### MoUs and other agreements
 
