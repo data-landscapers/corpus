@@ -1,11 +1,11 @@
 ---
 title: Gambia — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: GMB
-ledger_rows: 21
+ledger_rows: 22
 not_held: 2
-record: 0320800d7db5
+record: a8b58f787915
 ---
 
 # News, Oct – Nov 2026
@@ -247,6 +247,20 @@ The Gambia Public Procurement Authority held training from 8 to 10 October 2026 
 **[Senegalese Fintech InTouch Signs 10-Year Partnership With Gambia To Strengthen Tax Revenue Collection](https://gambiaj.com/economy/finance/senegalese-fintech-intouch-signs-10-year-partnership-with-gambia-to-strengthen-tax-revenue-collection/)** — The Gambia Journal, 31 October 2026
 
 The Gambia's finance ministry and the Gambia Revenue Authority signed a 10-year agreement with Senegalese fintech InTouch on 30 October 2026, after an international tender with three bidders. InTouch will run a platform that monitors transactions and processes government payments, giving the state real-time revenue data. Online gaming is the first sector targeted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SICPA Digital Market Intelligence fuel-surveillance platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gambia Revenue Authority Collecting Revenue for National Development](https://www.gra.gm/news/7a597617-e44d-11f1-96d0-029254d29bb1)** — Gambia Revenue Authority, 19 November 2026
+
+Study tour 16-20 Nov 2026; mobile-money onboarding to revenue monitoring; AI fuel platform not yet deployed.
 
 </div>
 
