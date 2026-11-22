@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: MAR
-ledger_rows: 42
+ledger_rows: 43
 not_held: 13
-record: da427f0a827d
+record: 5e0c8e90241b
 ---
 
 # News, Oct – Nov 2026
@@ -807,6 +807,20 @@ Google announced a US$2.4 million Google.org grant to INJAZ Al-Arab to take its 
 **["Cyber Academy" Cybersecurity Training Program for African Leaders Kicks off in Rabat](https://www.maroc.ma/en/news/cyber-academy-cybersecurity-training-program-african-leaders-kicks-rabat-0)** — Maroc.ma (MAP), 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Morocco's General Directorate of Information Systems Security and the World Bank, with the Smart Africa Digital Academy, opened the Cyber Academy executive training programme in Rabat on 5 October 2026 for leaders of African cybersecurity authorities. It covers strategic leadership, AI-driven threats and cyber crisis response. No participant numbers are given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Netherlands Knowledge Empowers You (KEY) technical-talent programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government invests in technical talent in partner countries](https://www.government.nl/latest/news/2026/11/20/government-invests-in-technical-talent-in-partner-countries)** — Ministry of Foreign Affairs (Netherlands), 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+EUR 150m over 2027-2031; seven initial countries, four outside Africa; no per-country split stated.
 
 </div>
 
