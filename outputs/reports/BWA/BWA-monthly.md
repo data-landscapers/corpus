@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: BWA
-ledger_rows: 24
+ledger_rows: 25
 not_held: 5
-record: 16518b0bcdc2
+record: 9f4dd81eb7b4
 ---
 
 # News, Oct – Nov 2026
@@ -180,6 +180,14 @@ Botswana Telecommunications Corporation announced on 20 November 2026 a partners
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Starlink brings satellite-to-mobile to Botswana](https://itweb.africa/article/starlink-brings-satellite-to-mobile-to-botswana/Gb3BwMWaGzDv2k6V)** — ITWeb Africa, 20 November 2026
+
+BTC Satellite to go commercial early 2027 with 100% geographic coverage; second African market after DRC.
+
+</div>
+
 </div>
 
 ### Data Storage
@@ -225,6 +233,20 @@ Summarised under [Data Storage](#data-storage).
 **[Air Botswana probes suspected cyberattack](https://www.itweb.africa/article/air-botswana-probes-suspected-cyberattack/GxwQDq1DLy8MlPVo)** — ITWeb Africa, 5 November 2026
 
 Air Botswana activated incident-response procedures after a suspected ransomware attack on 3 November 2026. Unauthorised access reached internal systems holding employee information. The airline said booking and flight-operations systems were unaffected and that it had begun meeting its Data Protection Act 2024 obligations.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Child online protection guidelines</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Children demand safer Digital Space](https://dailynews.gov.bw/news-detail/94230)** — Botswana Press Agency (BOPA) / DailyNews, 21 November 2026
+
+Botswana's communications regulator is drafting Child Online Protection Guidelines with children and other stakeholders. It said so on 21 November 2026, World Children's Day. The child welfare minister called online protection a duty shared by parents, government, schools and communities.
 
 </div>
 
