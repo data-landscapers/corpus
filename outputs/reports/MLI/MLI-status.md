@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-11-20
+compiled: 2026-11-22
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 207
+sources_cited: 208
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -165,7 +165,7 @@ In February 2024 Mali [moved its national identity database to Mali Kura Biomét
 ### Cybersecurity
 <!-- infra.cybersec -->
 
-[In December 2025 the Council of Ministers approved a national cybersecurity strategy for 2026-2030](https://www.wearetech.africa/en/fils-uk/news/public-management/mali-to-launch-national-cybersecurity-strategy-this-year). [Mali scored 29.47 out of 100 on the ITU Global Cybersecurity Index 2024, in the fourth of five tiers](https://statbase.org/data/mli-global-cybersecurity-index/). [It was relatively strong on legal measures and weak on organisational and capacity-development ones](https://statbase.org/data/mli-global-cybersecurity-index/). [On 10 June 2026 the Council of Ministers approved the creation of a national information systems security agency](https://koulouba.ml/communique-du-conseil-des-ministres-du-mercredi-10-juin-2026-cm-n2026-23-sgg/). [At the National Cybersecurity Days of 26-30 October 2026 the incident response centre ML-CERT launched a web platform for reporting incidents](https://www.wearetech.africa/fr/fils/actualites/tech/le-mali-lance-une-plateforme-web-pour-signaler-les-incidents-de-cybersecurite).
+[In December 2025 the Council of Ministers approved a national cybersecurity strategy for 2026-2030](https://www.wearetech.africa/en/fils-uk/news/public-management/mali-to-launch-national-cybersecurity-strategy-this-year). [Mali scored 29.47 out of 100 on the ITU Global Cybersecurity Index 2024, in the fourth of five tiers](https://statbase.org/data/mli-global-cybersecurity-index/). [It was relatively strong on legal measures and weak on organisational and capacity-development ones](https://statbase.org/data/mli-global-cybersecurity-index/). [An ordinance of 25 September 2026 created a national information systems security agency and transferred to it the missions of the ML-CERT incident response centre](https://sgg-mali.ml/JO/2026/mali-jo-2026-24.pdf). [The transitional council ratified it by 119 votes on 19 November 2026](https://beninwebtv.bj/mali-cnt-ratifie-creation-agence-cybersecurite-anssi-119-voix/). [At the National Cybersecurity Days of 26-30 October 2026 the incident response centre ML-CERT launched a web platform for reporting incidents](https://www.wearetech.africa/fr/fils/actualites/tech/le-mali-lance-une-plateforme-web-pour-signaler-les-incidents-de-cybersecurite).
 
 [The criminal chamber of the Pôle national de lutte contre la cybercriminalité began hearing cases on 21 May 2026](https://www.lessor.ml/posts/pole-de-lutte-contre-la-cybercriminalite-le-ministre-kassogue-salue-loperationnalisation-de-la-chambre-criminelle-6a0efcf332029). In August 2026 [it convicted Chahana Takiou, publication director of 22 septembre, of atteinte au crédit de l'État à travers l'institution judiciaire](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac). [On 14 September 2026 it sentenced a second editor, Abdrahamane Keïta, to two years in prison](https://www.maliweb.net/societe/justice/cybercriminalite-le-journaliste-abdrahamane-keita-condamne-a-deux-ans-de-prison-ferme-3119923.html). In July 2026 the justice minister [directed that networks trafficking in depraved content on social media be pursued under penal and cybercrime provisions already in force](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs). [The direction created no new offence](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs).
 

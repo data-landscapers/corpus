@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: MLI
-ledger_rows: 20
+ledger_rows: 21
 not_held: 1
-record: 67a5879f3056
+record: 70966bb49317
 ---
 
 # News, Oct – Nov 2026
@@ -152,7 +152,37 @@ Internet Society Pulse lists one active internet exchange point in Mali in Novem
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Agence nationale de la Securite des Systemes d'Information</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Journal officiel de la République du Mali, Soixante-septième Année, Numéro 24 — Ordonnance n°2026-031/PT-RM du 25 septembre 2026 portant création de l'Agence nationale de la Sécurité des Systèmes d'Information](https://sgg-mali.ml/JO/2026/mali-jo-2026-24.pdf)** — Secrétariat général du Gouvernement, 9 October 2026
+
+Ordinance creating ANSSI: absorbs ML-CERT, may suspend or disconnect non-compliant systems, regulates OIVs.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mali : le CNT ratifie à l’unanimité la création de l’agence de cybersécurité](https://beninwebtv.bj/mali-cnt-ratifie-creation-agence-cybersecurite-anssi-119-voix/)** — Bénin Web TV, 21 November 2026
+
+Mali's National Transitional Council voted on 19 November 2026, by 119 votes in favour, to ratify the ordinance creating the national information-systems security agency (ANSSI). The agency is to protect critical digital infrastructure and coordinate the response to cyberattacks. The responsible committee asked for more staff, technical means and funding for it.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">ML-CERT national incident response centre</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Journal officiel de la République du Mali, Soixante-septième Année, Numéro 24 — Ordonnance n°2026-031/PT-RM du 25 septembre 2026 portant création de l'Agence nationale de la Sécurité des Systèmes d'Information](https://sgg-mali.ml/JO/2026/mali-jo-2026-24.pdf)** — Secrétariat général du Gouvernement, 9 October 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 
