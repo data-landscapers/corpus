@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-ben-one-platform-for-all-what-benin-s-e-tax-rollout-to-small-businesses-ca",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ICTD says mobile money is the most common way to pay taxes online in Benin, with a fee of 1% capped at FCFA 1,000.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

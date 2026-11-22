@@ -1,0 +1,54 @@
+{
+ "slug": "2026-11-19-eth-ethswitch-merchant-trust-instant-payments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "EthioPay, run by EthSwitch, currently supports interoperable person-to-person payments across 51 institutions, ETHQR payments across 40 and Request to Pay across 30, per EthSwitch's marketing director.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "EthioPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "EthioPay is an interoperable instant payment platform connecting banks, microfinance institutions, payment instrument issuers and payment system operators.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "EthioPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "EthSwitch is described as Ethiopia's national payment switch operator and builds and runs EthioPay.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "EthSwitch",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EthioPay",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "instant payment platform",
+   "owner": "EthSwitch",
+   "tiers": ""
+  },
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

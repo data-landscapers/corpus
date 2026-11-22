@@ -351,6 +351,8 @@ ETH,Telebirr,Ethiopia,retail,,Ethio Telecom,,2025-11-06-eth-m-pesa-ethiopia-reac
 ETH,EthSwitch,Ethiopia,retail,,,,2025-11-06-eth-m-pesa-ethiopia-reaches-3-4mln-users-as-transactions-total-12-3bln-bir
 ETH,telebirr,Ethiopia,retail,mobile money,Ethio telecom,,2026-07-14-eth-ethiopia-expands-mobile-tax-payments-nationwide-through-telebirr
 ETH,Telebirr,Ethiopia,retail,,Ethio Telecom,,2025-08-13-orf-mehta-india-blueprint-africa-dpi
+ETH,EthioPay,Ethiopia,retail,instant payment platform,EthSwitch,,2026-11-19-eth-ethswitch-merchant-trust-instant-payments
+ETH,Fayda,Ethiopia,other,,,,2026-11-19-eth-ethswitch-merchant-trust-instant-payments
 GAB,MADIGIPAIE,Gabon,retail,QR code,,,2026-10-12-gab-biometricupdate-gabon-digital-payment-bill-beac-interoperability
 GAB,Madigipaie,Gabon,retail,QR code,Ministry of Digital Economy,,2026-07-07-gabon-lunion-madigipaie-libreville
 GAB,Madigipaie,GAB,retail,GIMAC QR code,Ministry of Digital Economy,,2026-03-01-gabon-madigipaie-taxigab
@@ -772,6 +774,7 @@ NGA,Paga,Nigeria,retail,wallet,Paga,,2026-11-05-paga-expands-direct-debit-access
 NGA,NIBSS Instant Payment (NIP),Nigeria,retail,,NIBSS,,2026-11-06-dpi-map-2026-11-12
 NGA,Nigeria Mobile money,Nigeria,retail,,,,2026-11-06-dpi-map-2026-11-12
 NGA,eNaira (CBDC),Nigeria,other,,Central Bank of Nigeria,,2026-11-06-dpi-map-2026-11-12
+NGA,AfriGO,Nigeria,other,EMV contactless card scheme,CBN and NIBSS,,2026-11-21-nga-independent-afritech-afrigo-digital-transactions
 RWA,eKash,Rwanda,retail,National Instant Payment System,National Bank of Rwanda,,2026-10-09-bnr-moves-to-tackle-delayed-ekash-transfers
 RWA,eKash,Rwanda,retail,,National Bank of Rwanda,,2026-09-02-rwandas-new-ekash-payment-system-wins-praise-but-users-repor
 RWA,e-Kash,Rwanda,retail,common payment platform,,"banks, SACCOs, other financial service providers",2026-10-08-rwa-umunota-saccos-join-rwandas-e-kash-payment-system
@@ -824,6 +827,7 @@ SDN,Domestic IPS,Sudan,retail,,,,2026-11-06-dpi-map-2026-11-12
 SDN,MTN MoMo,Sudan,retail,mobile money,MTN,,2026-03-02-sdn-digital-inclusion-interrupted-sudan-s-uneven-financial-transformation
 SDN,Bankak,Sudan,other,mobile app,Bank of Khartoum,,2026-03-02-sdn-digital-inclusion-interrupted-sudan-s-uneven-financial-transformation
 SDN,USSD banking service,Sudan,retail,USSD,Ministry of Digital Transformation and Telecommunications with TPRA and Central Bank of Sudan,,2025-03-15-sdn-telecommunications-ministry-launches-service-allowing-citizens-to-acce
+SDN,National Instant Payment System (NIPS),Sudan,other,,Central Bank of Sudan,,2026-11-19-sdn-sudanhorizon-cbos-nips-contract
 SEN,PI-SPI,Senegal,retail,instant payment,BCEAO,banks; e-money institutions; payment institutions,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,Wave,Senegal,retail,mobile money,Wave Digital Finance,,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,Orange Money,Senegal,retail,mobile,Orange Finances Mobiles Sénégal,,2024-09-30-bceao-liste-emetteurs-monnaie-electronique-umoa
@@ -981,6 +985,7 @@ TCD,Moov Money,Chad,retail,mobile money,Moov,,2026-02-19-tcd-tchad-l-etat-s-alli
 TCD,Airtel Money,Chad,retail,mobile money,Airtel,,2026-02-19-tcd-tchad-l-etat-s-allie-aux-operateurs-mobile-money-pour-encaisser-les-im
 TCD,Konoom Mobile Money,Chad,retail,mobile money,Konoom,,2026-02-19-tcd-tchad-l-etat-s-allie-aux-operateurs-mobile-money-pour-encaisser-les-im
 TCD,Cashi-Tchad,Chad,retail,mobile money,Cashi,,2026-02-19-tcd-tchad-l-etat-s-allie-aux-operateurs-mobile-money-pour-encaisser-les-im
+TCD,CASHI,Chad,other,,CASHI-SA-CA Tchad,,2026-11-19-tcd-tchad-l-anie-s-allie-a-cashi-pour-digitaliser-les-paiements
 TGO,PI-SPI,UEMOA,retail,,BCEAO,,2026-07-07-bceao-prolonge-delais-pi-spi
 TGO,PI-SPI,UEMOA,retail,,BCEAO,,2026-04-14-mixx-togo-pi-spi-uemoa
 TGO,Mixx,Togo,retail,,Yas Togo,,2026-04-14-mixx-togo-pi-spi-uemoa
@@ -1068,6 +1073,8 @@ UGA,MTN MoMo,Uganda,retail,,MTN MoMo Uganda,,2026-10-31-uga-can-ugandas-national
 UGA,Airtel Money,Uganda,retail,,Airtel,,2026-10-31-uga-can-ugandas-national-payment-switch-bring-down-digital-transaction-cos
 UGA,mobile money,Uganda,retail,,,,2026-11-12-monitor-uganda-bou-financial-inclusion-payment-switch
 UGA,Airtel Money,Uganda,retail,,Airtel,,2026-11-18-businessday-africa-cross-border-payment-rail-5bn-reality-check
+UGA,MTN Mobile Money,MTN Mobile Money,retail,mobile money,MTN Uganda,,2026-11-20-uga-mobile-money-accounts-hit-62m-but-23m-go-three-months-without-trans
+UGA,Airtel Money,Airtel Money,retail,mobile money,Airtel Uganda,,2026-11-20-uga-mobile-money-accounts-hit-62m-but-23m-go-three-months-without-trans
 ZAF,Scan to Pay,ZAF,retail,Samsung Wallet,EFT Corp,,2026-08-31-itweb-co-za-samsung-digital-wallet
 ZAF,Capitec Pay,South Africa,retail,,Capitec Bank,,2026-08-06-compcom-approves-capitecs-walletdoc-acquisition
 ZAF,PayShap,South Africa,retail,Rapid Payments Programme,,,2026-08-06-compcom-approves-capitecs-walletdoc-acquisition

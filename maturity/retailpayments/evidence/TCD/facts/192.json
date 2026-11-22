@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-19-tcd-tchad-l-anie-s-allie-a-cashi-pour-digitaliser-les-paiements",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CASHI",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "",
+   "owner": "CASHI-SA-CA Tchad",
+   "tiers": ""
+  }
+ ],
+ "note": "No retail switch or interoperability is stated."
+}

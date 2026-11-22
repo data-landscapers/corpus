@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-19-sdn-sudanhorizon-cbos-nips-contract",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Instant Payment System (NIPS)",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": "Contract to establish NIPS signed 2026-11-19; not stated in service, so no study question is answered."
+}

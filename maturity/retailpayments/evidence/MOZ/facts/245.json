@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-21-moz-governo-preve-investir-845-m-em-18-projectos-de-digitalizacao",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Minister Salim Valá said on 20 November 2026 that Mozambique has 131 e-money accounts per 100 adults, nearly four times the number of bank accounts.",
+   "as_of": "2026-11-20",
+   "date_precision": "day",
+   "system": "e-money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
