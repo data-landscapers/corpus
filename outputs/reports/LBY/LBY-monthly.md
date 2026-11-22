@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Oct – Nov 2026
-compiled: 2026-11-17
-period: 2026-10-01 to 2026-11-17
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: LBY
-ledger_rows: 28
+ledger_rows: 29
 not_held: 3
-record: 0207c3f296b5
+record: 25e7ef0c04ac
 ---
 
 # News, Oct – Nov 2026
@@ -229,6 +229,8 @@ Libya's Government of National Unity ordered the immediate temporary shutdown an
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
@@ -239,6 +241,30 @@ Libya's Government of National Unity ordered the immediate temporary shutdown an
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Libya-Egypt labour-ministry electronic link and worker database</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ليبيا ومصر تتفقان على تفعيل الربط الإلكتروني بين وزارتي العمل في البلدين،](https://lana.gov.ly/post.php?id=370414&lang=ar)** — Libyan News Agency (LANA), 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Database of Egyptian workers in Libya; joint committees to relaunch link system within a week.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير العمل: ربط إلكتروني وقاعدة بيانات مشتركة لتنظيم تشغيل العمالة المصرية في ليبيا](https://www.youm7.com/story/2026/11/20/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%B1%D8%A8%D8%B7-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%88%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D8%A9/7625973)** — Youm7, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Signed in Cairo 19 Nov 2026 during Dbeibah visit; labour offices planned in Tripoli and Benghazi.
+
+</div>
+
+</div>
 
 ### Digital Identity and CRVS
 
