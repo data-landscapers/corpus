@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,registers,register,coverage,inservice,2026-10-21,BEN-001;BEN-003;BEN-004;BEN-005;BEN-006;BEN-007,BEN-002=underway;BEN-010=underway,
-BEN,registers,several,coverage,several,2023-10-25,BEN-008,,nothing dated since 2023-11-21
-BEN,registers,matching,coverage,reported,2023-10-25,BEN-009,,nothing dated since 2023-11-21
+BEN,registers,register,coverage,inservice,2026-10,BEN-001;BEN-003;BEN-004;BEN-005;BEN-006;BEN-007;BEN-011,BEN-002=underway;BEN-010=underway,
+BEN,registers,several,coverage,several,2023-10-25,BEN-008,,nothing dated since 2023-11-22
+BEN,registers,matching,coverage,reported,2023-10-25,BEN-009,,nothing dated since 2023-11-22
