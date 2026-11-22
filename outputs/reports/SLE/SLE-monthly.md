@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: SLE
 ledger_rows: 33
 not_held: 4
-record: ed925537beda
+record: d7c5fda02906
 ---
 
 # News, Oct – Nov 2026
@@ -513,6 +513,14 @@ Summarised under [Connectivity](#connectivity).
 **[WAIIS 2026: Summit concludes with nine agreements and four announcements - Liberty Online TV](https://libertyonlinetv.com/2026/11/18/16844/)** — Liberty Online TV, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Summarised under [Connectivity](#connectivity).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government and Unique Group Partner to Advance Local Mobile Phone Assembly, Digital Inclusion and Job Creation in Sierra Leone](https://mocti.gov.sl/government-and-unique-group-partner-to-advance-local-mobile-phone-assembly-digital-inclusion-and-job-creation-in-sierra-leone/)** — Ministry of Communication, Technology and Innovation (Sierra Leone), 20 November 2026
+
+USD 21.9m indicative investment by Gambia's Unique Group; phased assembly plant plus technical training centre.
 
 </div>
 
