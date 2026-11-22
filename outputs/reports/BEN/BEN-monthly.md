@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: BEN
-ledger_rows: 47
+ledger_rows: 48
 not_held: 4
-record: db5730319431
+record: aaf8abc1250f
 ---
 
 # News, Oct – Nov 2026
@@ -619,6 +619,20 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Soigner plus vite, sauver davantage : le pari numérique dans la santé au Bénin](https://www.agenceecofin.com/actualites-numerique/1711-143501-soigner-plus-vite-sauver-davantage-le-pari-numerique-dans-la-sante-au-benin)** — Agence Ecofin, 17 November 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SIGIBé integrated tax management system and e-services portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[One platform for all? What Benin's e-tax rollout to small businesses can tell us about inclusive digital public infrastructure | ICTD](https://ictd.ac/general/benins-e-tax-rollout-small-businesses-digital-public-infrastructure/)** — International Centre for Tax and Development (ICTD), 19 November 2026
+
+SIGIBé reaches small-business tax centres; NPI-linked tax IDs, email codes and help desks shift the burden.
 
 </div>
 
