@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: TCD
-ledger_rows: 23
+ledger_rows: 25
 not_held: 23
-record: c2196326e576
+record: e78176be1268
 ---
 
 # News, Oct – Nov 2026
@@ -275,6 +275,8 @@ Summarised under [Connectivity](#connectivity).
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -291,6 +293,30 @@ Summarised under [Connectivity](#connectivity).
 **[Tchad : Haliki Choua Mahamat dévoile les grands chantiers de la poste](https://lendjampost.com/tchad-haliki-choua-mahamat-devoile-les-grands-chantiers-de-la-poste/)** — Le N'Djam Post, 9 October 2026
 
 Chad's telecoms minister set out a transformation of the state postal operator: a postal bank in the medium term, an integrated payment platform and post offices as one-stop counters. Its virtual-operator and internet-provider licences are to be put to use; no budget or date was given.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National business register and one-stop shop</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : l'ANIE s'allie à CASHI pour digitaliser les paiements du Guichet Unique](https://dari-infos.com/tchad-lanie-sallie-a-cashi-pour-digitaliser-les-paiements-du-guichet-unique/)** — Dari Infos, 19 November 2026
+
+Online payment of business-formalities fees at ANIE one-stop shop; signed by ANIE DG and CASHI deputy DG.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : Vers une simplification numérique des procédures de création d'entreprises](https://www.tachad.com/tchad-vers-une-simplification-numerique-des-procedures-de-creation-dentreprises/)** — Tachad, 20 November 2026
+
+ANIE and KONOOM: mobile payment of company registration fees in the digital GUCE; signed N'Djamena 19 Nov 2026.
 
 </div>
 
@@ -469,8 +495,26 @@ Chad began drafting a National Digital Transformation Strategy on 4 November 202
 ## Data
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#open-data">Open data</a>
 </nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Harmonising and Improving Statistics in West and Central Africa (HISWACA, PHASAOC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : la Banque mondiale évalue les avancées du système statistique national](https://tchadinfos.com/2026/11/19/tchad-la-banque-mondiale-evalue-les-avancees-du-systeme-statistique-national/)** — Tchadinfos, 19 November 2026
+
+World Bank reviews PHASAOC at INSEED, put at USD 105m; RGPH-3, enterprise census and ECOSIT survey.
+
+</div>
+
+</div>
 
 ### Open data
 
