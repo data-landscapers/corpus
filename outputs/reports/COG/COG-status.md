@@ -1,12 +1,12 @@
 ---
 title: Congo: status report
-compiled: 2026-11-20
+compiled: 2026-11-22
 place: COG
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 201
+sources_cited: 202
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -114,7 +114,7 @@ Congo has [depended on the WACS submarine cable since 2012](https://www.connecti
 
 [Drive tests across twenty interior localities in February 2026 found Airtel Congo with no 4G service in five of them](https://www.adiac-congo.com/content/qualite-de-service-des-reseaux-mobiles-larpce-monte-la-pression-sur-mtn-et-airtel-169708). [In April 2026 ARPCE gave MTN Congo and Airtel Congo six months to correct network shortfalls](https://www.adiac-congo.com/content/qualite-de-service-des-reseaux-mobiles-larpce-monte-la-pression-sur-mtn-et-airtel-169708).
 
-[In October 2025 the mid-term review of the PATN judged it "peu satisfaisant", with only twenty broadband connectivity sites operational after two years](https://www.adiac-congo.com/content/connectivite-167638). [The PATN is a joint government and World Bank operation worth US$100m (2025)](https://www.adiac-congo.com/content/patn-le-budget-exercice-2025-arrete-plus-de-21-milliards-de-fcfa-163438). [Its 2026 budget is XAF 21.872bn](https://www.journaldebrazza.com/congo-plus-de-21-milliards-fcfa-pour-accelerer-la-transformation-numerique/) (March 2026). [Backhaul spectrum fees take about 5% of operator revenue, against a sub-Saharan median of 0.5%](https://techafricanews.com/2026/07/16/why-connecting-rural-congo-costs-three-times-more-than-it-should/) (July 2026). [The fees raise the cost of rural coverage in particular](https://techafricanews.com/2026/07/16/why-connecting-rural-congo-costs-three-times-more-than-it-should/).
+[In October 2025 the mid-term review of the PATN judged it "peu satisfaisant", with only twenty broadband connectivity sites operational after two years](https://www.adiac-congo.com/content/connectivite-167638). [The PATN is a joint government and World Bank operation worth US$100m (2025)](https://www.adiac-congo.com/content/patn-le-budget-exercice-2025-arrete-plus-de-21-milliards-de-fcfa-163438). [Its 2026 budget of XAF 21.872bn (March 2026)](https://www.journaldebrazza.com/congo-plus-de-21-milliards-fcfa-pour-accelerer-la-transformation-numerique/) [was cut to XAF 8.24bn, with XAF 18.37bn approved for 2027, its final year](https://www.aci.cg/congo-numerique-le-budget-2027-du-patn-arrete-a-plus-de-18-milliards-de-fcfa/) (November 2026). [Backhaul spectrum fees take about 5% of operator revenue, against a sub-Saharan median of 0.5%](https://techafricanews.com/2026/07/16/why-connecting-rural-congo-costs-three-times-more-than-it-should/) (July 2026).
 
 ### Data Storage
 <!-- infra.store -->
