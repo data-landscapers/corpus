@@ -1,12 +1,12 @@
 ---
 title: Togo: status report
-compiled: 2026-11-20
+compiled: 2026-11-22
 place: TGO
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 279
+sources_cited: 280
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -294,7 +294,7 @@ The national [Internet Governance Forum was convened for Lomé in June 2026 arou
 ### ICT Industry
 <!-- tech.industry -->
 
-In June 2026 Agence Togo Digital said that [the great majority of Togolese firms are micro, small or medium, and only a small minority of them use digital tools at all](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme). That month the agency launched [a digital-maturity toolbox for small firms](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme). [It offers a diagnostic, a catalogue of solutions, certified advisors and a resource library](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme). [It is funded through GIZ's ProDigiT programme, with German, Luxembourgish and EU backing](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme). [The Togo Digital 2025 strategy set a target of 3,000 firms digitised](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme), and that strategy's horizon has now passed.
+In June 2026 Agence Togo Digital said that [the great majority of Togolese firms are micro, small or medium, and only a small minority of them use digital tools at all](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme). That month the agency launched [a digital-maturity toolbox for small firms](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme). [It offers a diagnostic, a catalogue of solutions, certified advisors and a resource library](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme). [It is funded through GIZ's ProDigiT programme, with German, Luxembourgish and EU backing](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme). [In November 2026 its catalogue, until then mainly international open-source tools, was opened to software from Togolese start-ups](https://actulome.com/bod-tpme-appel-startups-solutions-numeriques/). [The Togo Digital 2025 strategy set a target of 3,000 firms digitised](https://www.togofirst.com/fr/tic/1006-19196-togo-l-atd-lance-une-boite-a-outils-digitaux-pour-la-numerisation-des-tpme), and that strategy's horizon has now passed.
 
 [The digital economy was about 4% of GDP in 2022, against a target of 10%, with a new strategy in preparation for 2025–2030](https://www.wearetech.africa/fr/fils/actualites/tech/togo-une-nouvelle-strategie-numerique-en-preparation-pour-la-periode-2025-2030). [Telecommunications, computer and information services earned a trade surplus of CFA 11,956 million in 2024, almost all of it from telecommunications](https://www.bceao.int/sites/default/files/2026-09/Balance%20des%20Paiements%20et%20Position%20Ext%C3%A9rieure%20Globale%202024%20-%20Togo.pdf). [Computer services earned CFA 19 million abroad in 2024 against CFA 8,586 million spent](https://www.bceao.int/sites/default/files/2026-09/Balance%20des%20Paiements%20et%20Position%20Ext%C3%A9rieure%20Globale%202024%20-%20Togo.pdf). [The startups that founded the industry body TogoTech](https://www.togofirst.com/fr/tic/2710-17412-a-lome-lancement-officiel-de-togotech-la-synergie-nationale-des-startups-du-numerique) are Togolese-owned and consumer-facing, and employ a few hundred people between them at most. [Gozem's venture raises are the sector's largest by a distance](https://african.business/2026/03/innov-africa-deals/togos-quiet-rise-as-a-startup-contender).
 

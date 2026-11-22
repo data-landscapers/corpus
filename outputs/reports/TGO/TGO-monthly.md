@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: TGO
-ledger_rows: 38
+ledger_rows: 41
 not_held: 15
-record: ff3e10a1fc4e
+record: 4202a19d9d52
 ---
 
 # News, Oct – Nov 2026
@@ -180,6 +180,8 @@ Togo's data-protection authority hosted its Beninese counterpart in Lome on 2 an
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -209,6 +211,22 @@ Togo's regulator ARCEP opened a tender, number 004/ARCEP/PRMP/2026 of 25 Septemb
 **[Nigeria Targets Faster Artificial Intelligence Development](https://von.gov.ng/nigeria-targets-faster-artificial-intelligence-development/)** — Voice of Nigeria, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communications ministry announced plans for a Nigeria–Togo data park and wider fibre connectivity. It also proposed a continental scheme for countries to pool computing power for AI research.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Togo Cyber Arena</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité : le Togo organise son premier grand rendez-vous national](https://www.republiquetogolaise.tg/gestion-publique/2011-12515-cybersecurite-le-togo-organise-son-premier-grand-rendez-vous-national)** — République Togolaise, 20 November 2026
+
+Opened 19 Nov by Cina Lawson; 40-player CTF final; GIZ ProDigiT support; 2024 strategy's four axes recalled.
 
 </div>
 
@@ -343,6 +361,20 @@ Togo's council of ministers named notary Dominique Méméssilé Gnazo as the fir
 **[Conseil des ministres du 06 novembre 2026](https://www.republiquetogolaise.tg/gestion-publique/0711-12467-conseil-des-ministres-du-06-novembre-2026)** — Togo Officiel, République Togolaise, 7 November 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil-status records digitised with UNDP support</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[27 155 actes d'état civil numérisés : ce que le partenariat entre le Togo et le PNUD a déjà permis](https://r-freenews.com/27-155-actes-detat-civil-numerises-ce-que-le-pa/)** — R Free News, 19 November 2026
+
+UNDP 2024-2027 country programme evaluated in Lomé; 2025 results; 2028-2032 cycle to follow.
 
 </div>
 
@@ -506,6 +538,8 @@ Togo's agriculture ministry held a World Bank-supported national consultation on
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
 </nav>
 
 ### AI
@@ -585,6 +619,22 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[IA : jusqu’à 262 millions de dollars de gain potentiel pour le Togo](https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/ia-jusqu-a-262-millions-de-dollars-de-gain-potentiel-pour-le-togo)** — République Togolaise (republicoftogo.com), 5 November 2026
 
 The Ayre Think Tank published an AI readiness index at the Commonwealth summit in Antigua and Barbuda, reported on 5 November 2026. Togo scored 42.6 out of 100, against a readiness threshold of 53, and ranked 37th of 56 countries. The study puts the ten-year economic gain from AI at 83 to 262 million dollars, using IMF scenarios.
+
+</div>
+
+</div>
+
+### ICT Industry
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital toolbox for very small and medium enterprises</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BoD-TPME : les start-up togolaises peuvent déposer leur logiciel](https://actulome.com/bod-tpme-appel-startups-solutions-numeriques/)** — ActuLome, 21 November 2026
+
+Call opened week of 20 Nov 2026; catalogue had only foreign open-source tools; 3,000-firm target; no deadline set.
 
 </div>
 
