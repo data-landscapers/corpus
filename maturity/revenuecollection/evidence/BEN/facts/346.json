@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-19-ben-one-platform-for-all-what-benin-s-e-tax-rollout-to-small-businesses-ca",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "ICTD says taxpayers in Benin can create their own account, file and pay online through SIGIBé, which reached small businesses in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "SIGIBé",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "ICTD, citing the DGI's 2025 activity report, says electronic payments in Benin exceed 96% for most taxes, driven largely by medium and large firms.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SIGIBé",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

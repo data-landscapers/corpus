@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-20-tcd-tchad-vers-une-simplification-numerique-des-procedures-de-cr",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "ANIE and KONOOM SA signed an agreement to integrate mobile payment into the digital GUCE so entrepreneurs and investors can pay company registration and creation fees online.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Guichet unique de création d'entreprises (GUCE) digital",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

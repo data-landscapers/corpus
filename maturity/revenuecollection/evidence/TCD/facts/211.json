@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-tcd-tchad-l-anie-s-allie-a-cashi-pour-digitaliser-les-paiements",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The investment and export agency ANIE signed a partnership with CASHI-SA-CA Tchad to integrate digital payment so businesses can pay online the fees of administrative formalities at its Guichet Unique, per Dari Infos.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "ANIE Guichet Unique",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANIE Guichet Unique",
+   "country_label": "Chad",
+   "class": "revenue",
+   "platform": "one-stop shop",
+   "owner": "ANIE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

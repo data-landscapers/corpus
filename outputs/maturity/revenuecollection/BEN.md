@@ -6,7 +6,7 @@
 
 **Main taxes and duties.** No source found since October 2023 says the main taxes and customs duties are filed and paid electronically. The nearest fact: [in March 2026 taxpayers could declare and pay taxes online by bank transfer or mobile money](<https://anssfd.bj/benin-la-digitalisation-des-paiements-publics-double-les-ressources-de-letat-et-accelere-linclusion-financiere/>).
 
-**Share reported.** [In March 2026 a release said nearly a third of state revenue was collected through digital channels](<https://anssfd.bj/benin-la-digitalisation-des-paiements-publics-double-les-ressources-de-letat-et-accelere-linclusion-financiere/>).
+**Share reported.** [In March 2026 a release said nearly a third of state revenue was collected through digital channels](<https://anssfd.bj/benin-la-digitalisation-des-paiements-publics-double-les-ressources-de-letat-et-accelere-linclusion-financiere/>). [The tax directorate's 2025 activity report puts electronic payments above 96% for most taxes, mostly from medium and large firms](<https://ictd.ac/general/benins-e-tax-rollout-small-businesses-digital-public-infrastructure/>), ICTD reports.
 
 ***Also on file***. [MTN Mobile Money](<https://fraternite.bj/transactions-financieres-au-benin-le-mobile-money-pour-contourner-la-taxe-sur-les-paiements-en-especes/>); [Moov Money](<https://fraternite.bj/transactions-financieres-au-benin-le-mobile-money-pour-contourner-la-taxe-sur-les-paiements-en-especes/>); [Celtiis Cash](<https://fraternite.bj/transactions-financieres-au-benin-le-mobile-money-pour-contourner-la-taxe-sur-les-paiements-en-especes/>); [PI-SPI](<https://www.lanation.bj/numerique/plateforme-interoperable-du-systeme-de-paiement-instantane-banques-et-mobile-money-desormais-interconnectes-a-100-dans-luemoa>).
 

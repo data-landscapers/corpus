@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-21-moz-governo-preve-investir-845-m-em-18-projectos-de-digitalizacao",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Minister Salim Valá said on 20 November 2026 that taxes and fees can already be paid by mobile phone in Mozambique.",
+   "as_of": "2026-11-20",
+   "date_precision": "day",
+   "system": "mobile phone tax payment",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
