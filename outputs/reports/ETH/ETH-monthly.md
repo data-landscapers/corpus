@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: ETH
-ledger_rows: 38
+ledger_rows: 39
 not_held: 5
-record: d7b21c5ec92a
+record: a9189724404f
 ---
 
 # News, Oct – Nov 2026
@@ -38,6 +38,8 @@ record: d7b21c5ec92a
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -93,6 +95,38 @@ The directive bars anyone involved in preparing a bid from taking part in that t
 **[Ethiopia Orders Telecom Regulator to Prioritise Service Quality and Affordability](https://techafricanews.com/2026/10/28/ethiopia-telecom-regulator-service-quality-affordability/)** — Tech Africa News, 28 October 2026
 
 Ethiopia's Minister of Innovation and Technology, Frehiwot Tamru, told the Ethiopian Communications Authority on 27 October 2026 to judge its work by service quality, affordability, consumer protection and access. The ministry asked for measurable rural connectivity targets, firmer spectrum management and enforcement of quality-of-service rules. New postal legislation is to replace a proclamation of 1958 in the Ethiopian calendar.
+
+</div>
+
+</div>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ethiopian Airlines ShebaMiles breach of November 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopian Airlines reports cyberattack a week after Air Botswana](https://techcabal.com/2026/11/18/ethiopian-airlines-reports-cyberattack/)** — TechCabal, 18 November 2026
+
+Ethiopian Airlines told ShebaMiles frequent-flyer members on 18 November 2026 that some of their information may have been exposed in a cyberattack. It gave no date, data or numbers, and said it had no evidence that financial information was accessed. Air Botswana suffered a ransomware attack on 3 November.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Hackers Breach ShebaMiles, Not Its Miles, Airline Says](https://addisfortune.news/news-alert/hackers-breach-shebamiles-not-its-miles-airline-says)** — Addis Fortune, 19 November 2026
+
+Thousands of accounts reached, nothing altered; detected 17 Nov; under 1 in 670 of 5.38m members; ECA report unconfirmed.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopian Airlines Breach Puts 72-Hour Data Reporting Rule Under Scrutiny](https://cioafrica.co/ethiopian-airlines-breach-puts-72-hour-data-reporting-rule-under-scrutiny/)** — CIO Africa, 20 November 2026
+
+Under 8,000 ShebaMiles accounts reached; ECA notification within 72 hours under Proclamation 1321/2024 unconfirmed.
 
 </div>
 
