@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: ZMB
-ledger_rows: 37
-not_held: 32
-record: 62a27c6f7633
+ledger_rows: 40
+not_held: 31
+record: b4686c67f50d
 ---
 
 # News, Oct – Nov 2026
@@ -36,6 +36,8 @@ record: 62a27c6f7633
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -71,6 +73,22 @@ Zambia's technology and youth ministries are developing a framework for local co
 **[Zambia : Mutati Reaffirms Significance Of Technology](https://www.lusakatimes.com/2026/11/11/mutati-reaffirms-significance-of-technology/)** — Lusaka Times, 11 November 2026
 
 Zambia's government has asked Hobbiton Investments Limited to form a Ministerial Technology Advisory Panel, minister Felix Mutati said (reported 11 November 2026). The panel joins public and private stakeholders. It is to speed the digitisation of public services under the Grow Zambia Agenda.
+
+</div>
+
+</div>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Dedicated artificial-intelligence legislation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mutati Hails Absa Innovation Hub for Empowering Young Entrepreneurs in Livingstone](https://efficacynews.africa/2026/11/19/mutati-hails-absa-innovation-hub-for-empowering-young-entrepreneurs-in-livingstone/)** — Efficacy News, 19 November 2026
+
+Data Management Act to follow data-protection review; AI policy and law in preparation; AI-enabled data centre planned.
 
 </div>
 
@@ -250,6 +268,28 @@ SMART Zambia Institute and the UNDP signed a memorandum of understanding on digi
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[UNDP and SMART Zambia Institute Sign Strategic Partnership to Accelerate Zambia's Digital Transformation](https://www.undp.org/zambia/press-releases/undp-and-smart-zambia-institute-sign-strategic-partnership-accelerate-zambias-digital-transformation)** — United Nations Development Programme, 20 November 2026
+
+UNDP's own release; MoU under AA4DPI, Zambia joins Ethiopia, Rwanda, Malawi, Sierra Leone; no sum stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ATAF African-built automatic exchange of tax information platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ATAF and Zambia partner on tax technology](https://theafricandaily.com/321415/business/tax/ataf-and-zambia-partner-on-tax-technology/)** — The African Daily, 21 November 2026
+
+Agreement signed 20 Nov 2026 in Lusaka; African-built AEOI platform for tax information exchange; World Bank support.
+
+</div>
+
 </div>
 
 ### Digital Identity and CRVS
@@ -335,6 +375,20 @@ The Smart Zambia Institute opened talks with MTN MoMo on adding mobile money to 
 **[Airtel Zambia Launches Mobile Service for Buying Lusaka Securities Exchange Shares](https://techafricanews.com/2026/11/18/airtel-zambia-launches-mobile-service-for-buying-lusaka-securities-exchange-shares/)** — Tech Africa News, 18 November 2026
 
 Airtel Zambia launched Airtel Money Buy Shares, letting customers buy Lusaka Securities Exchange shares with Airtel Money on the MyAirtel App. The heads of the Securities and Exchange Commission and LuSE attended the launch.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital lending for farm inputs under FISP</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Govt explores use of digital lending platforms to finance agricultural inputs](https://diggers.news/business/2026/11/21/govt-explores-use-of-digital-lending-platforms-to-finance-agricultural-inputs/)** — News Diggers, 21 November 2026
+
+FISP to move from grants to loans; finance, agriculture and technology ministers meet mobile money operators.
 
 </div>
 
