@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-20-zwe-praz-pushes-for-unified-technology-driven-procurement-oversi",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The PRAZ board chair and chief executive said public procurement now runs through the Electronic Government Procurement (eGP) system, which PRAZ is leveraging and urging all procuring entities to use fully.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Electronic Government Procurement (eGP)",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Government Procurement (eGP)",
+   "country_label": "Zimbabwe",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Procurement Regulatory Authority of Zimbabwe (PRAZ)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
