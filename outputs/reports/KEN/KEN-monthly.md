@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: KEN
-ledger_rows: 115
+ledger_rows: 116
 not_held: 5
-record: a75d58109773
+record: a7a65e7dd3b9
 ---
 
 # News, Oct – Nov 2026
@@ -1309,6 +1309,20 @@ The Clinton Health Access Initiative reports on digitising health campaigns in B
 **[Africa Health Data Forum Opens in Nairobi with Focus on Strengthening Health Systems Through Data](https://www.health.go.ke/africa-health-data-forum-opens-nairobi-focus-strengthening-health-systems-through-data)** — Ministry of Health (Kenya), 10 November 2026
 
 The Health Cabinet Secretary announced a National Intelligence and Analytics Centre under the Digital Health Agency. He opened the first Africa Health Data Forum in Nairobi. Over 33 million Kenyans have registered with the Social Health Authority through Afya Yangu.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SHA Oncology Module</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government streamlines cancer treatment with single SHA approval](https://www.kenyanews.go.ke/government-streamlines-cancer-treatment-with-single-sha-approval/)** — Kenya News Agency, 20 November 2026
+
+One pre-authorisation per care plan; unified oncology record via SHA Oncology Module; 54,465 patients.
 
 </div>
 
