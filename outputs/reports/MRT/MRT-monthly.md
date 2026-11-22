@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: MRT
-ledger_rows: 22
+ledger_rows: 23
 not_held: 3
-record: ae521bdb8ae7
+record: ca303672f4ed
 ---
 
 # News, Oct – Nov 2026
@@ -439,6 +439,20 @@ Mauritania scored 0.99 out of 4 on the Africa AI Governance Index 2026, in the N
 **[Lancement du programme d'accompagnement des startups numériques](https://fr.linkedin.com/posts/giz-mauritanie_digital-gizmauritanie-coop%C3%A9rationallemande-activity-7516856753385316352-bRNN)** — GIZ Mauritanie, 16 October 2026
 
 GIZ's Digital-Y project in Mauritania launched a support programme for nine digital startups, run by the incubator Hadina RIMTIC from October 2026. The startups were chosen through a call for applications with the digital ministry, and include the three winners of July's Gouvathon. They will build digital services for government bodies.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BCM Fintech Program</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[البنك المركزي الموريتاني يختتم هاكاثون التكنولوجيا المالية ويكرّم الفرق الفائزة](https://www.ami.mr/archives/273515)** — Agence mauritanienne d’information (AMI), 20 November 2026
+
+BCM Fintech Program closes with six winners in digital credit, BNPL and crowdfunding; about 100 entrants; GIZ-backed.
 
 </div>
 
