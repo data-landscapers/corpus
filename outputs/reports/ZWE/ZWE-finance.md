@@ -1,6 +1,6 @@
 ---
 title: Zimbabwe: finance
-compiled: 2026-11-20
+compiled: 2026-11-22
 place: ZWE
 ---
 
@@ -15,7 +15,7 @@ place: ZWE
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">10</td><td class="num">20</td><td class="num">27</td><td class="num">1</td><td class="num total">58</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">23</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">12</td><td class="num">5</td><td class="num">3</td><td class="num total">42</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">11</td><td class="num">10</td><td class="num zero"></td><td class="num total">25</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">2</td><td class="num">4</td><td class="num">4</td><td class="num">1</td><td class="num total">11</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num zero"></td><td class="num">3</td><td class="num">2</td><td class="num">4</td><td class="num">4</td><td class="num">1</td><td class="num total">14</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">3</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num">2</td><td class="num total">3</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num total">2</td></tr>
@@ -29,10 +29,10 @@ place: ZWE
 <tr><th scope="row">Rural digital data capture</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">558</td><td class="num">1</td><td class="num">3</td><td class="num">65</td><td class="num">156</td><td class="num">135</td><td class="num">11</td><td class="num total">930</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">558</td><td class="num">1</td><td class="num">6</td><td class="num">65</td><td class="num">156</td><td class="num">135</td><td class="num">11</td><td class="num total">933</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ZWE/all-finance.html">Full table &mdash; 195 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ZWE/all-finance.html">Full table &mdash; 196 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ZWE/ZWE-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -75,18 +75,18 @@ place: ZWE
 <tr><th scope="row">Data Storage</th><td class="num">23</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">23</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">7</td><td class="num">1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">8</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">6</td><td class="num total">6</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num zero"></td><td class="num">3</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">4</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">3</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">3</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digital divides</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Rural digital data capture</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">558</td><td class="num">1</td><td class="num">3</td><td class="num">1</td><td class="num">6</td><td class="num total">570</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">558</td><td class="num">1</td><td class="num">6</td><td class="num">1</td><td class="num">6</td><td class="num total">573</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ZWE/finance.html">Full table &mdash; 83 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ZWE/finance.html">Full table &mdash; 84 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ZWE/ZWE-nonstate.csv" download>&darr; Download CSV</a>
 </div>
