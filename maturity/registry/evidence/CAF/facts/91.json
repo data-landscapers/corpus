@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-19-caf-modernisation-de-letat-civil-en-rca-des-avancees-significatives-malgre",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "Oubangui Médias says the MODERO civil-registration project is financed by the European Union and implemented by CIVIPOL with the DGDEC.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "MbetiNet",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "plan:current",
+   "fact": "Oubangui Médias says the MODERO steering committee validated a new roadmap on 17 November 2026 and that the project runs until 2028.",
+   "as_of": "2026-11-17",
+   "date_precision": "day",
+   "system": "MbetiNet",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
