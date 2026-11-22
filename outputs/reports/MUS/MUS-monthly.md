@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: MUS
-ledger_rows: 43
+ledger_rows: 44
 not_held: 7
-record: d582fc64d340
+record: 2859ad2ad022
 ---
 
 # News, Oct – Nov 2026
@@ -391,6 +391,8 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
@@ -401,6 +403,30 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Education system data infrastructure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bidding Document (Single-Stage) for the Analysis, Design, Implementation and Commissioning of a Higher Education Data Lake, IFB No: HEC/ONB/03/10/2026](https://publicprocurement.govmu.org/publicprocurement/wp-content/uploads/2026/10/OAB_Data_Lake_Project_FINAL-12-Oct-2026.docx)** — Higher Education Commission, Mauritius, 13 October 2026
+
+Full tender for HEC data lake: 45 HEIs submit via APIs or platform; offshore hosting needs HEC approval.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Analysis, Design, Implementation and Commissioning of a Higher Education Data Lake: Addendum No 2](https://publicprocurement.govmu.org/publicprocurement/wp-content/uploads/2026/11/Addendum_No_2__Data_Lake_19_11_2026.pdf)** — Higher Education Commission, Mauritius, 19 November 2026
+
+120 bidder clarifications; offshore hosting only with HEC approval and DPA 2017 s.36 compliance; no reuse of gov cloud.
+
+</div>
+
+</div>
 
 ### Digital Identity and CRVS
 
