@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: DZA
-ledger_rows: 45
+ledger_rows: 46
 not_held: 6
-record: 5ba3475b5a28
+record: d8f7657485d2
 ---
 
 # News, Oct – Nov 2026
@@ -194,6 +194,8 @@ Algeria is in advanced talks with the World Bank on a start-up financing initiat
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -293,6 +295,22 @@ Algeria's higher-education minister, Kamel Baddari, met a Chinese delegation on 
 **[Sino-Algerian Consortium Wins $290 Million Data Center Contract](https://dzwatch.dz/en/algeria/sino-algerian-consortium-wins-290-million-data-center-contract)** — DZ Watch, 19 November 2026
 
 DZ Watch reported on 19 November 2026 that a consortium led by China Railway Construction Corporation and Huawei won a USD 290 million contract to build Algeria's national data centre and a disaster recovery centre. It reports that the consortium scored full marks in the tender. The awarding authority and award date are not stated.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Child online-protection cyber-vigilance cell (green line 1111)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ONPPE : Installation de la cellule de vigilance cybernétique](https://news.radioalgerie.dz/fr/node/99439)** — Radio Algérienne, 19 November 2026
+
+Monitoring and coordination cell for children online installed 19 Nov 2026; legal framework and composition presented.
 
 </div>
 
