@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-19-tun-minister-hemissi-presents-his-record-and-it-was-anything-but",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Personal data in Tunisia is protected under the Organic Law of 27 July 2004, per African Manager.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Organic Law of 27 July 2004",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The law is overseen by the independent National Authority for the Protection of Personal Data (INPDP), per African Manager.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "INPDP",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Organic Law of 27 July 2004",
+   "country_label": "Tunisia",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -11,10 +11,10 @@
       "last12": "advancing",
       "cap": "",
       "flags": "under revision;advancing",
-      "stage_sources": "SEN-003;SEN-001;SEN-002",
+      "stage_sources": "SEN-003;SEN-035;SEN-001;SEN-002",
       "gaps": "No row states whether implementing regulations under law 2008-12 are issued or not; regulations is empty. A replacement bill is reported as drafting or in the circuit, with no stage given.",
-      "note": "Restaged under Bill's ruling of 2026-10-31 (stage 5 needs no regulation): Law 2008-12 is in force (SEN-003) and the CDP's quarterly reports count files, authorisations and complaints handled (SEN-001, April-June 2026; SEN-021, fourth quarter 2025), so stage 5; SEN-014 (named controller notice, 2024-04-20) is applied. Whether regulations exist under the law no longer bars it.",
-      "as_at": "2026-10-31"
+      "note": "Law 2008-12 is in force (SEN-003) and the CDP publishes quarterly counts of files, authorisations and complaints handled, the newest for July-September 2026 (SEN-035), so stage 5 under Bill's ruling of 2026-10-31 that stage 5 needs no regulation. SEN-014 (named controller notice, 2024-04-20) is applied.",
+      "as_at": "2026-11-22"
     }
   ]
 }

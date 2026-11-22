@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-20-sen-aps-cdp-formation-sensibilisation-donnees-personnelles",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The CDP is acting, having treated 214 files in the third quarter of 2026 and carried out five inspection missions, according to its report as given by APS.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Commission de protection des donnees personnelles (CDP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "reported",
+   "fact": "The CDP reported 214 files treated from July to September 2026, 139 declarations and 75 authorisation requests, plus 13 complaints examined and five inspection missions finding shortcomings.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Commission de protection des donnees personnelles (CDP)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

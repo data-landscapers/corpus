@@ -1,0 +1,37 @@
+{
+ "slug": "2026-11-20-nga-nation-18-countries-understudy-ndpc",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "enacted",
+   "fact": "The NDPC Act was signed into law by President Tinubu in June 2023, per the commissioner.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "NDPC Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Nigeria Data Protection Commission operates under the Act, led by its commissioner.",
+   "as_of": "2026-11-20",
+   "date_precision": "day",
+   "system": "NDPC",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The commissioner said Nigeria has over 10,000 certified data protection officers and licenses data protection compliance organisations to carry out compliance for government.",
+   "as_of": "2026-11-20",
+   "date_precision": "day",
+   "system": "NDPC",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

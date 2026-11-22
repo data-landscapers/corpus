@@ -114,11 +114,12 @@ Morocco's 2009 data protection law is in force and courts decided 80 criminal da
 
 ### Senegal: 5 Mature
 
-Senegal's 2008 data protection law is in force and its authority publishes quarterly counts of decisions, most recently April to June 2026.
+Senegal's 2008 data protection law is in force and its authority publishes quarterly counts of decisions, most recently July to September 2026.
 
 *Under revision; Advancing.*
 
 - The CDP issued receipts, authorisations and a rejection under law 2008-12 in April-June 2026, so the law is applied and in force ([source, 2026-06](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html)).
+- The CDP reported 214 files treated from July to September 2026, 139 declarations and 75 authorisation requests, plus 13 complaints examined and five inspection missions finding shortcomings ([source, 2026-09](https://aps.sn/la-cdp-mise-sur-la-formation-et-la-sensibilisation-pour-promouvoir-la-protection-des-donnees-personnelles/)).
 - The CDP published its quarterly opinion for April-June 2026: 195 files handled (154 declarations, 41 authorisation requests), 153 declaration receipts and 39 authorisations issued, 2 decisions deferred, 1 processing rejected, 2 controllers heard, and 8 complaints and 1 report received and handled ([source, 2026-06](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html)).
 - The CDP, created by law 2008-12, is described as the acting independent administrative authority, holding two plenary sessions in April-June 2026 and issuing decisions ([source, 2026-06](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html)).
 
@@ -496,7 +497,7 @@ Tunisia's 2004 data protection law is in force and a replacement has been before
 
 Zambia's Data Protection Act of 2021 is in force, applied so far through registration and training; no source found reports a decision under it.
 
-*Advancing.*
+*Advancing; Under revision.*
 
 - A tender notice dated 10 August 2026 seeks consultants to support the Data Protection Commission in developing regulatory instruments for the effective implementation of the Data Protection Act No. 3 of 2021, treating the Act as the law being implemented ([source, 2026-08-10](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461500)).
 - Africa Business Insight, 21 July 2026, describes the Data Protection Act as part of Zambia's operating legal framework alongside the Cyber Security Act and Cyber Crimes Act, which together regulate the handling of personal data and place compliance obligations on businesses; the article gives no commencement date for the Act ([source, 2026-07-21](https://africabusinessinsight.com/zambia-begins-enforcing-controversial-cyber-crimes-act-amid-digital-economy-growth/)).
