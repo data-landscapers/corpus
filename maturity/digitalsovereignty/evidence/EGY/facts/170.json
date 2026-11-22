@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-21-egy-national-data-centre-strategy-consultancy",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Minister Raafat Hindy said on 8 September 2026 that MCIT's data centre strategy, being drafted from December 2026, aims to host and process data locally while protecting vital national data and services.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "national data centre strategy",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
