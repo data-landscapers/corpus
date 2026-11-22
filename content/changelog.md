@@ -1,3 +1,8 @@
+## 22 November 2026
+
+- Tunisia rises from 3 to 4 on government-to-person payments (dpi.pay--g2p-functionality): pensions paid into Tunisia Post accounts are a second digital payment beside the AMEN social transfers. About 65% of those pensions were withdrawn by ATM, African Manager reported in November 2026.
+- Tunisia rises from 2 to 3 on the national AI strategy (gov.policy--ai-strategy): the minister told parliament in November 2026 that the strategy has been validated. Its implementation has begun.
+
 ## 21 November 2026
 
 - Who's who names the country of 129 rows that showed a three-letter code, such as AUS or PRT. Filtering by country now finds them by name.

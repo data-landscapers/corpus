@@ -1,0 +1,5 @@
+{"slug": "2026-11-20-ken-dci-biometric-good-conduct-kakamega", "studies": {
+"egovservices": {"countries": {"KEN": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Tuko reports that Kenyan applicants for a police clearance certificate start on the eCitizen portal and pay a KSh 1,050 fee before biometric capture at a station or Huduma Centre.", "as_of": "2026-11-20", "date_precision": "day", "system": "eCitizen", "class": "eservices"}], "systems": [{"system": "eCitizen", "country_label": "eCitizen", "class": "eservices", "platform": "web portal", "owner": "", "tiers": "national"}], "note": ""}}},
+"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The biometric system described is the DCI's criminal identification system, not the national ID."}}},
+"police": {"countries": {"KEN": {"facts": [], "systems": [{"system": "MBIS", "country_label": "Multi-Biometric Identification System", "class": "other", "platform": "ABIS Version 5", "owner": "DCI", "tiers": "national"}], "note": "MBIS is a fingerprint and biometric identification system, not the station case record."}}}
+}}

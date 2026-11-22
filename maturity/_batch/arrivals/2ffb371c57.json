@@ -1,0 +1,17 @@
+{"slug": "2026-11-19-gmb-gra-sicpa-digital-revenue-monitoring", "studies": {
+"aiabuse": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"GMB": {"facts": [], "systems": [], "note": "SICPA's AI platform was only presented and is not deployed in The Gambia."}}},
+"aisectoral": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The AI fuel-surveillance platform is stated not yet deployed; a presentation is not a pilot."}}},
+"aisystems": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on national AI models, data or compute."}}},
+"authentication": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Tax stamp authentication is not a person authentication service."}}},
+"businesspayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Mobile-money operator onboarding with the central bank was discussed for revenue monitoring; no licensing or switch role stated."}}},
+"consumerprotection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on financial consumer protection."}}},
+"crossborderpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"g2ppayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"localrecords": {"countries": {"GMB": {"facts": [], "systems": [], "note": "National revenue authority only; no local government records."}}},
+"paymentsuptake": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"qualitystandards": {"countries": {"GMB": {"facts": [], "systems": [], "note": "A fuel lab at the Gambia Standards Bureau is proposed; no standard or certification stated."}}},
+"retailpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Mobile-money operators are mentioned only as to be integrated into revenue monitoring."}}},
+"revenuecollection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Digital tax stamps and monitoring are not electronic payment of taxes; no payment service stated."}}}
+}}

@@ -1,0 +1,8 @@
+{"slug": "2026-11-19-sle-times-data-protection-bill-second-reading", "studies": {
+"accesstoinformationlaw": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The Ministry of Information and Civic Education says the Data Protection and Right to Access Information Bill, 2026, which also covers access to information, passed its Second Reading in Parliament on 12 November 2026 and goes on to further scrutiny.", "as_of": "2026-11-12", "date_precision": "day", "system": "Data Protection and Right to Access Information Bill, 2026", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The Ministry says the Bill would replace the existing Right to Access Information Commission with a single authority, so the Commission exists now.", "as_of": "2026-11-12", "date_precision": "day", "system": "Right to Access Information Commission", "class": "law"}
+], "systems": [{"system": "Data Protection and Right to Access Information Bill, 2026", "country_label": "Sierra Leone", "class": "law", "platform": "", "owner": "Ministry of Information and Civic Education", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "tabled", "fact": "The Ministry of Information and Civic Education says the Data Protection and Right to Access Information Bill, 2026 passed its Second Reading in Parliament on 12 November 2026 and still faces further scrutiny and legislative stages.", "as_of": "2026-11-12", "date_precision": "day", "system": "Data Protection and Right to Access Information Bill, 2026", "class": "general"}
+], "systems": [], "note": ""}}}}}

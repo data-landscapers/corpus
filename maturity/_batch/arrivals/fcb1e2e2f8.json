@@ -1,0 +1,43 @@
+{
+ "slug": "2026-11-20-tgo-cybersecurite-le-togo-organise-son-premier-grand-rendez-vous",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "The Togo Officiel article says Togo has had a national cybersecurity strategy since 2024, built on four axes.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "National cybersecurity strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANCy",
+       "country_label": "Togo",
+       "class": "response",
+       "platform": "",
+       "owner": "State",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a mention that the Observatoire national du numerique would be presented; no service portal or count stated."
+    }
+   }
+  }
+ }
+}

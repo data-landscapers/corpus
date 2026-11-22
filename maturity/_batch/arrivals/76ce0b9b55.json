@@ -1,0 +1,10 @@
+{"slug": "2026-11-21-mar-data-centers-au-maroc-trois-ministeres-se-concertent", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing stated on AI harms."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing stated on government AI use."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing stated on sector AI use."}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "AI applications are mentioned only as a driver of data centre demand."}}},
+"datacentres": {"countries": {"MAR": {"facts": [], "systems": [], "note": "A meeting on developing data centres; no centre or cloud region is stated."}}},
+"digitalsovereignty": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Sovereignty is an aim of the meeting; no rule or hosting requirement is stated."}}},
+"nationaldatacentres": {"countries": {"MAR": {"facts": [], "systems": [], "note": "A national network is only discussed; no centre, owner or state hosting is stated."}}},
+"schoolinternet": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing stated on schools."}}}
+}}

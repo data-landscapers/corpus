@@ -1,0 +1,124 @@
+{
+ "slug": "2026-11-19-zaf-sa-strategises-to-use-ai-for-tangible-benefits-for-citizens",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Government is only weighing AI guidelines with safeguards; no draft, rule or authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a mention of earlier language-technology work at the University of Limpopo; no model or dataset released stated."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "governance",
+       "value": "body:mandated",
+       "fact": "Minister Ntshavheni said the Inter-Ministerial Committee on Digital Transformation is responsible for implementing South Africa's digital transformation roadmap, which is to be reviewed.",
+       "as_of": "2026-11-19",
+       "date_precision": "day",
+       "system": "Digital Transformation Roadmap",
+       "class": "national"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Transformation Roadmap",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "Inter-Ministerial Committee on Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

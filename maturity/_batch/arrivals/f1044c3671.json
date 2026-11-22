@@ -1,0 +1,8 @@
+{"slug": "2026-11-20-gha-coalition-digital-health-investment", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "AI in health care is only called for."}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI built in the country stated."}}},
+"domesticfinancing": {"countries": {"GHA": {"facts": [{"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "Transform Health's national coalition lead said GH¢11 million is allocated to digital health development in the 2027 Budget, which he called insufficient.", "as_of": "2026-11-20", "date_precision": "day", "system": "2027 Budget digital health allocation", "class": "financing"}], "systems": [], "note": ""}}},
+"health": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No named HMIS or EMR is described; only general remarks on fragmented systems and manual records."}}}
+}}

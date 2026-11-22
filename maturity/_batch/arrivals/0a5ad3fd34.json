@@ -1,0 +1,104 @@
+{
+ "slug": "2026-11-20-zaf-presidency-ramaphosa-silicon-valley-visit-closing-address",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only general statements on needing regulatory safeguards; no rule, draft or authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only intended applications for public services; no body piloting or using an AI system stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only hypothetical sector uses and a planned priority; no tool piloted or in service stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The President decided a national AI action plan within 90 days and will set up a team; no drafting or team yet in place, so an intention only."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or AI computing built or hosted in the country is stated."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an ambition to attract data-centre investment; no facility in service stated."
+    }
+   }
+  },
+  "ictproduction": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No ICT export figure or plant stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No nationally owned data centre stated."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only commitments toward a start-up fund with no amount; no signed private money stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only commitments toward a planned start-up investment fund; no law, strategy or fund in place stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub, incubator or park stated."
+    }
+   }
+  }
+ }
+}

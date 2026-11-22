@@ -1,0 +1,10 @@
+{"slug": "2026-11-19-tcd-tchad-l-anie-s-allie-a-cashi-pour-digitaliser-les-paiements", "studies": {
+"businesspayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Fees for business formalities are not procurement payments."}}},
+"centralbank": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing stated on central bank oversight."}}},
+"consumerprotection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing stated on consumer protection."}}},
+"crossborderpayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"g2ppayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing stated on government-to-person payments."}}},
+"paymentsuptake": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No survey share is given."}}},
+"retailpayments": {"countries": {"TCD": {"facts": [], "systems": [{"system": "CASHI", "country_label": "Chad", "class": "other", "platform": "", "owner": "CASHI-SA-CA Tchad", "tiers": ""}], "note": "No retail switch or interoperability is stated."}}},
+"revenuecollection": {"countries": {"TCD": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "The investment and export agency ANIE signed a partnership with CASHI-SA-CA Tchad to integrate digital payment so businesses can pay online the fees of administrative formalities at its Guichet Unique, per Dari Infos.", "as_of": "2026-11-19", "date_precision": "day", "system": "ANIE Guichet Unique", "class": "revenue"}], "systems": [{"system": "ANIE Guichet Unique", "country_label": "Chad", "class": "revenue", "platform": "one-stop shop", "owner": "ANIE", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,13 @@
+{"slug": "2026-11-19-tun-tunisie-les-outils-de-controle-parental-sur-internet-seront", "studies": {
+"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The parental-control obligation is not about AI; no AI harm rule or authority is stated."}}},
+"aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No government body's use of AI is stated."}}},
+"ailaw": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No AI law, draft or binding rule is stated."}}},
+"aisectoral": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No AI in a sector's public system is stated."}}},
+"aistrategy": {"countries": {"TUN": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The communication technologies minister told parliament that Tunisia has validated its national AI strategy and begun implementing it.", "as_of": "2026-11-19", "date_precision": "day", "system": "national AI strategy", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No AI system is named."}}},
+"dataprotectionauthority": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The article states nothing about a data protection authority."}}},
+"dataprotectionlaw": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The article states nothing about a data protection law; the minister only says protection does not rest on laws alone."}}},
+"dataprotectionreadiness": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No law, treaty, authority or enforcement is stated."}}},
+"internetusage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No share of the population using the internet is given."}}},
+"schoolinternet": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No school internet figure or compulsory digital curriculum is stated; school workshops are planned only."}}}
+}}

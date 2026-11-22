@@ -1,0 +1,10 @@
+{"slug": "2026-11-21-moz-governo-preve-investir-845-m-em-18-projectos-de-digitalizacao", "studies": {
+"businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No consumer rules stated."}}},
+"crossborderpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No cross-border payments stated."}}},
+"g2ppayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The e-money accounts per 100 adults figure is a minister's statement, not a survey of adults holding an account."}}},
+"retailpayments": {"countries": {"MOZ": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Minister Salim Valá said on 20 November 2026 that Mozambique has 131 e-money accounts per 100 adults, nearly four times the number of bank accounts.", "as_of": "2026-11-20", "date_precision": "day", "system": "e-money", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"MOZ": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Minister Salim Valá said on 20 November 2026 that taxes and fees can already be paid by mobile phone in Mozambique.", "as_of": "2026-11-20", "date_precision": "day", "system": "mobile phone tax payment", "class": "revenue"}], "systems": [], "note": ""}}}
+}}

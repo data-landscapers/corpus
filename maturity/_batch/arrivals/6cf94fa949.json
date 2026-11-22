@@ -1,0 +1,3 @@
+{"slug": "2026-11-19-cod-acp-e-services-rdc-plateforme-lancement", "studies": {
+"egovservices": {"countries": {"COD": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "ACP reports that the vice-prime minister for the civil service announced E-Services RDC on 19 November 2026, a portal and Mbulamatari app publishing the procedures and official fees of public services in six languages.", "as_of": "2026-11-19", "date_precision": "day", "system": "E-Services RDC", "class": "eservices"}], "systems": [{"system": "E-Services RDC", "country_label": "E-Services RDC", "class": "eservices", "platform": "web portal and Mbulamatari app", "owner": "Ministry of the Civil Service", "tiers": "national"}], "note": ""}}}
+}}

@@ -1,0 +1,8 @@
+{"slug": "2026-11-20-zaf-morolong-meta-for-government-summit-keynote", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The Electoral Commission's disinformation code is not stated to address AI; AI remarks are positions."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "AI use in the public service is only suggested, not stated in use."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"disabilityaccess": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Accessibility is only a stated design principle; no rule or delivery is stated."}}},
+"localgov": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on local government connection."}}}
+}}

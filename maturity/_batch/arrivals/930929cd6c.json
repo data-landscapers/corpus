@@ -1,0 +1,17 @@
+{"slug": "2026-11-20-sen-socialnetlink-goin-digital-demo-day", "studies": {
+"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on AI rules."}}},
+"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No government body's AI use is stated."}}},
+"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No national AI model, dataset or computing is stated."}}},
+"businesspayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"centralbank": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"consumerprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"crossborderpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"digitalstrategy": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The Digital Master Plan is only named as the programme's context; no standing or text is stated."}}},
+"g2ppayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"paymentsuptake": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"retailpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"startups": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The Start-up Label is named only as a rollout priority; no labelled startups or public fund under a law are stated."}}},
+"techhubs": {"countries": {"SEN": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "Senegal's telecommunications ministry says the Goin' Digital incubation programme, run by Expertise France and GIZ under its supervision, supported a cohort of 21 start-ups from May to October 2026 and closes with a demo day on 24 November 2026.", "as_of": "2026-10", "date_precision": "month", "system": "Goin' Digital incubation programme", "class": "hub"}], "systems": [{"system": "Goin' Digital incubation programme", "country_label": "Senegal", "class": "hub", "platform": "", "owner": "Ministry of Telecommunications and Digital Economy, with Expertise France and GIZ", "tiers": ""}], "note": ""}}}
+}}

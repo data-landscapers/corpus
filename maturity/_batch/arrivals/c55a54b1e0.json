@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-19-dza-radioalgerie-onppe-cellule-vigilance-cybernetique",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Child-protection body installed a cyber-vigilance cell; no cybercrime law, bill or use under one is named."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on data protection stated."
+    }
+   }
+  }
+ }
+}

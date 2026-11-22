@@ -1,0 +1,124 @@
+{
+ "slug": "2026-11-19-businessday-fg-backs-eight-startups-through-idice-growth-lab",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "private",
+       "aspect": "money",
+       "value": "committed",
+       "fact": "BusinessDay reports that the iDICE Startup Bridge Growth Lab, implemented by the Bank of Industry and co-financed by the AfDB, AFD and IsDB, has commenced and each of eight Nigerian startups is to receive $100,000 in equity investment.",
+       "as_of": "2026-11-19",
+       "date_precision": "day",
+       "system": "iDICE Startup Bridge Growth Lab",
+       "class": "private"
+      }
+     ],
+     "systems": [
+      {
+       "system": "iDICE Startup Bridge",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "",
+       "owner": "Federal Government, implemented by Bank of Industry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The $100,000 equity per startup is said to be what each will receive; no startup act or strategy, labelling or fund payout under one is stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A programme cohort of eight startups is described; no hub, incubator or park is named."
+    }
+   }
+  }
+ }
+}

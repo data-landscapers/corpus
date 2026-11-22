@@ -1,0 +1,9 @@
+{"slug": "2026-11-19-gin-csig-health-data-sovereignty-meetup", "studies": {
+"aiabuse": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Meetup account states no AI rule or authority."}}},
+"aigovernment": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No health AI tool stated; only discussion of AI data needs."}}},
+"aisystems": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No national AI model, dataset or compute stated."}}},
+"dataprotectionlaw": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Data protection discussed generally; no law stated."}}},
+"digitalsovereignty": {"countries": {"GIN": {"facts": [], "systems": [], "note": "A meetup discussed health data sovereignty; no government strategy, rule, hosting or contract stated."}}},
+"itcapacity": {"countries": {"GIN": {"facts": [], "systems": [], "note": "A skills deficit is mentioned by a panelist; no government-run system stated."}}}
+}}

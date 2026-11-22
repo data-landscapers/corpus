@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-19-gab-gabon-digital-sigrh-midterm-review",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGRH",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of the Civil Service",
+   "tiers": ""
+  }
+ ],
+ "note": "SIGRH is still at tender stage with development planned from December 2026, so it is not a system in use."
+}

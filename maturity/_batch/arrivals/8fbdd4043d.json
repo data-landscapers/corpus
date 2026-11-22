@@ -1,0 +1,74 @@
+{
+ "slug": "2026-11-19-eth-ethiopian-airlines-shebamiles-breach",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "Ethiopia's Information Network Security Administration said it thwarted more than 50,000 cyberattacks in the first nine months of the 2025/26 fiscal year.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "INSA",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "figures",
+       "value": "recorded",
+       "fact": "INSA reported more than 50,000 cyberattacks thwarted in the first nine months of 2025/26, against 13,494 in the previous year.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "INSA",
+       "class": "response"
+      }
+     ],
+     "systems": [],
+     "note": "Critical-infrastructure law names 12 sectors but operators are designated later with reporting from July 2027, so no designation recorded."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Critical infrastructure cybersecurity law approved by Parliament in June and signed in July with incident reporting from July 2027; the document does not say it is in force, and no use is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Addis Fortune says Ethiopia's Personal Data Protection Proclamation has been in force since July 2024.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "Personal Data Protection Proclamation",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "The Proclamation names the Ethiopian Communications Authority as regulator of personal data, with a 72-hour breach notification duty to it; the article does not say the authority is constituted.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "Personal Data Protection Proclamation",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

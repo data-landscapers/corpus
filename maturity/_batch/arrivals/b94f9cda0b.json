@@ -1,0 +1,11 @@
+{"slug": "2026-11-20-mrt-banque-centrale-mauritanie-hackathon-fintech", "studies": {
+"businesspayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on business payments."}}},
+"centralbank": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Sandbox and fintech label are named; no licensing of payment providers or switch oversight is stated."}}},
+"consumerprotection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Consumer protection is only a stated aim of the sandbox; no rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"egovservices": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on e-government services."}}},
+"g2ppayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Interoperability only mentioned as a general reform; no service or switch described."}}},
+"revenuecollection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

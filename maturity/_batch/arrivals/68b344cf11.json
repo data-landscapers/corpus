@@ -1,0 +1,3 @@
+{"slug": "2026-11-20-egy-egypt-forum-2026-digital-egypt-300-services", "studies": {
+"egovservices": {"countries": {"EGY": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Youm7 reports that the Egypt Forum 2026 plan would raise the services available on the Digital Egypt platform from 250 to 300 before 30 June 2027, at about EGP 4.2 billion.", "as_of": "2026-11-20", "date_precision": "day", "system": "Digital Egypt platform", "class": "eservices"}], "systems": [{"system": "Digital Egypt platform", "country_label": "منصة مصر الرقمية (Digital Egypt)", "class": "eservices", "platform": "", "owner": "MCIT", "tiers": "national"}], "note": ""}}}
+}}

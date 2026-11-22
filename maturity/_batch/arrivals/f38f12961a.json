@@ -1,0 +1,59 @@
+{
+ "slug": "2026-11-21-dji-adi-forum-africain-journaux-officiels-fajo",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-JO",
+       "country_label": "Djibouti",
+       "class": "other",
+       "platform": "",
+       "owner": "Secretariat general du gouvernement",
+       "tiers": ""
+      }
+     ],
+     "note": "AI tools for e-JO are only planned, not in service."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on local-government connection."
+    }
+   }
+  }
+ }
+}

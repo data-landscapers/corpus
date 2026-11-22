@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-21-tgo-bod-tpme-les-start-up-togolaises-peuvent-deposer-leur-logici",
+ "facts": [],
+ "systems": [
+  {
+   "system": "BoD-TPME",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "bodtpme.gouv.tg",
+   "owner": "SN-TPME and Agence Togo Digital",
+   "tiers": ""
+  }
+ ],
+ "note": "Who built or runs the platform is not stated."
+}

@@ -1,0 +1,211 @@
+{
+ "slug": "2026-11-21-nga-independent-afritech-afrigo-digital-transactions",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Integration of the ID card with payments is described as able to facilitate verification; no authentication service is stated in service."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "UnionPay acceptance in 184 countries is a card network with no named corridor, so nothing is recorded."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital disbursement of benefits is called for and said to be facilitated by a card; no government payment is stated as made."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "AfriGO's executive director said more than 100 million Nigerians hold National Identification Numbers.",
+       "as_of": "2026-11-21",
+       "date_precision": "day",
+       "system": "National Identification Number",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": "Count only; the document gives no population share."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "AfriGO says it is integrating the NIMC multipurpose national identity card with its payment infrastructure, which it says could allow identity verification, benefit payments and transactions through one card.",
+       "as_of": "2026-11-21",
+       "date_precision": "day",
+       "system": "NIMC multipurpose national identity card with AfriGO",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIMC multipurpose national identity card",
+       "country_label": "Nigeria",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIMC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "half",
+       "fact": "Citing EFInA's 2026 survey, AfriGO's executive director said formal financial inclusion had risen to 73 per cent of adults, about 87 million, and digital financial service usage to 64 per cent.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "EFInA 2026 survey",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "AfriGO, the national domestic card scheme set up by the CBN and NIBSS, enables contactless card payments at point-of-sale terminals and says it has nearly 10 million issued cards after under two years of core operations (AfriGO keynote).",
+       "as_of": "2026-11-21",
+       "date_precision": "day",
+       "system": "AfriGO",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AfriGO",
+       "country_label": "Nigeria",
+       "class": "retail",
+       "platform": "EMV contactless card scheme",
+       "owner": "CBN and NIBSS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

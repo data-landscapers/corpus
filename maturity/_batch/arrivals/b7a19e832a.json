@@ -1,0 +1,17 @@
+{"slug": "2026-11-19-eth-ethswitch-merchant-trust-instant-payments", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Fayda is named as the digital identity system with no authentication use stated."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on a civil register to ID link."}}},
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on procurement payments."}}},
+"centralbank": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No central bank oversight is stated."}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "A merchant portal is a tool, not protection rules."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on government payments."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No enrolment count is given."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on a number at birth."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on ID operation or ownership."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on ID registers."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on biometric checks or assurance."}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No survey share is given."}}},
+"retailpayments": {"countries": {"ETH": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "EthioPay, run by EthSwitch, currently supports interoperable person-to-person payments across 51 institutions, ETHQR payments across 40 and Request to Pay across 30, per EthSwitch's marketing director.", "as_of": "2026-11-19", "date_precision": "day", "system": "EthioPay", "class": "retail"}, {"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "EthioPay is an interoperable instant payment platform connecting banks, microfinance institutions, payment instrument issuers and payment system operators.", "as_of": "2026-11-19", "date_precision": "day", "system": "EthioPay", "class": "retail"}, {"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "EthSwitch is described as Ethiopia's national payment switch operator and builds and runs EthioPay.", "as_of": "2026-11-19", "date_precision": "day", "system": "EthSwitch", "class": "retail"}], "systems": [{"system": "EthioPay", "country_label": "Ethiopia", "class": "retail", "platform": "instant payment platform", "owner": "EthSwitch", "tiers": ""}, {"system": "Fayda", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated on revenue payments."}}}
+}}
