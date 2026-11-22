@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: BEN
 ledger_rows: 48
 not_held: 4
-record: aaf8abc1250f
+record: 297c0ba707e3
 ---
 
 # News, Oct – Nov 2026
@@ -632,7 +632,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[One platform for all? What Benin's e-tax rollout to small businesses can tell us about inclusive digital public infrastructure | ICTD](https://ictd.ac/general/benins-e-tax-rollout-small-businesses-digital-public-infrastructure/)** — International Centre for Tax and Development (ICTD), 19 November 2026
 
-SIGIBé reaches small-business tax centres; NPI-linked tax IDs, email codes and help desks shift the burden.
+Researchers at the International Centre for Tax and Development reported on 19 November 2026 on an October visit to small-business tax centres in Cotonou. Registration on the SIGIBé platform now requires the national identification number, and confirmation codes go by email. Many small taxpayers lack an email address, so help desks file for them.
 
 </div>
 

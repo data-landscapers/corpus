@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: ZWE
 ledger_rows: 46
 not_held: 5
-record: 99630a0f6df6
+record: cc235eb6d944
 ---
 
 # News, Oct – Nov 2026
@@ -808,7 +808,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 **[Zimbabwe scraps mobile customs duty](https://itweb.africa/article/zimbabwe-scraps-mobile-customs-duty/kYbe9MXbBAnvAWpG)** — ITWeb Africa, 20 November 2026
 
-ICT minister Mavetera backs zero handset duty; PoTRAZ: 72% of mobile users owned a smartphone, July 2026.
+Zimbabwe's finance minister proposed in the 2027 National Budget to cut customs duty on mobile phones from 25% to zero. The ICT minister backs the measure, saying device cost is a barrier to digital inclusion. The budget gives the ICT ministry ZiG1 billion, double its 2026 allocation.
 
 </div>
 

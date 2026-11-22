@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: CAF
 ledger_rows: 16
 not_held: 5
-record: 92cf2f5d4279
+record: 2c5a0a85bb4c
 ---
 
 # News, Oct – Nov 2026
@@ -166,7 +166,7 @@ The European MODERO project, run by CIVIPOL, trained 28 officers in Bangui from 
 
 **[Modernisation de l’état civil en RCA : des avancées significatives malgré des défis persistants - Oubangui Médias](https://oubanguimedias.com/2026/11/19/modernisation-de-letat-civil-en-rca-des-avancees-significatives-malgre-des-defis-persistants/)** — Oubangui Médias, 19 November 2026
 
-MODERO, Jan-Sep 2026: 184,563 births registered, 130,000 acts digitised; registry software named MbetiNet.
+The steering committee of the EU-funded MODERO civil-registration project in the Central African Republic met in Bangui on 17 November 2026. The project reported 184,563 births registered and 130,000 acts digitised between January and September 2026. The committee adopted a new roadmap and named the civil-status software MbetiNet.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: MAR
 ledger_rows: 43
 not_held: 13
-record: 5e0c8e90241b
+record: f86a901b8588
 ---
 
 # News, Oct – Nov 2026
@@ -820,7 +820,7 @@ Morocco's General Directorate of Information Systems Security and the World Bank
 
 **[Government invests in technical talent in partner countries](https://www.government.nl/latest/news/2026/11/20/government-invests-in-technical-talent-in-partner-countries)** — Ministry of Foreign Affairs (Netherlands), 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-EUR 150m over 2027-2031; seven initial countries, four outside Africa; no per-country split stated.
+The Dutch Ministry of Foreign Affairs announced on 20 November 2026 a EUR 150 million programme, Knowledge Empowers You, for 2027 to 2031. It trains technical talent, with a chip-sector focus, in seven initial countries including Egypt, Morocco and Nigeria. No allocation per country is stated.
 
 </div>
 

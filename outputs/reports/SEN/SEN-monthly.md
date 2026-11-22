@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: SEN
 ledger_rows: 64
 not_held: 2
-record: c515d69a9467
+record: 06274a6c4425
 ---
 
 # News, Oct – Nov 2026
@@ -154,7 +154,7 @@ The president of Senegal's data protection commission, the CDP, said the state's
 
 **[Avis trimestriel N°03-2026 (Juillet - Août - Septembre)](https://sppsyrftszniuaicadvk.supabase.co/storage/v1/object/public/public_docs/avis-trimestriels/avis-trimestriel-1795183821285.pdf)** — Commission de Protection des Données Personnelles (CDP), 20 November 2026
 
-Q3 2026: 214 files, 13 complaints, 5 inspections; facial-recognition CCTV refused; one complaint sent to prosecutor.
+Senegal's data protection commission released its third-quarter 2026 notice on 20 November. It handled 214 files from July to September and rejected four requests, including facial-recognition video surveillance at an Auchan Senegal store. Of 13 complaints, one went to the public prosecutor, and five inspections were carried out.
 
 </div>
 
@@ -984,7 +984,7 @@ The African Development Bank rated Senegal's Diamniadio Digital Technology Park 
 
 **[Goin’ Digital Demo Day: 21 Senegalese start-ups in Dakar](https://www.socialnetlink.org/2026/11/20/goin-digital-demo-day-21-senegalese-startups/)** — Socialnetlink, 20 November 2026
 
-21 incubated start-ups pitch on 24 Nov 2026; EU, BMZ and MEAE funding; EUR 100,000 seed disbursed; 47.6% women-led.
+Senegal's digital economy ministry announced a demo day in Dakar on 24 November 2026. It closes an incubation programme for 21 start-ups run from May to October. The ministry reports that 47.6% are women-led and EUR 100,000 in seed funding has been disbursed.
 
 </div>
 
@@ -1008,7 +1008,7 @@ The African Development Bank rated Senegal's Diamniadio Digital Technology Park 
 
 **[West Africa disinformation project: 4 more years](https://www.socialnetlink.org/2026/11/21/giz-west-africa-information-reliability-project-new-phase-senegal-hub/)** — Socialnetlink, 21 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
-New regional phase launches 8 Dec 2026 in Dakar; current phase EUR 11.7m incl. EUR 4m EU; new budget undisclosed.
+GIZ's project on the reliability of information in Senegal and Côte d'Ivoire is to enter a four-year regional phase, with Senegal as hub. Germany and the Netherlands, supported by the European Union, have committed to extending it. The launch is set for 8 December 2026 in Dakar, and the budget for the new phase has not been disclosed.
 
 </div>
 

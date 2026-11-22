@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: ETH
 ledger_rows: 39
 not_held: 5
-record: a9189724404f
+record: 1aaf2bdce284
 ---
 
 # News, Oct – Nov 2026
@@ -118,7 +118,7 @@ Ethiopian Airlines told ShebaMiles frequent-flyer members on 18 November 2026 th
 
 **[Hackers Breach ShebaMiles, Not Its Miles, Airline Says](https://addisfortune.news/news-alert/hackers-breach-shebamiles-not-its-miles-airline-says)** — Addis Fortune, 19 November 2026
 
-Thousands of accounts reached, nothing altered; detected 17 Nov; under 1 in 670 of 5.38m members; ECA report unconfirmed.
+Ethiopian Airlines told members on 18 November 2026 of a cybersecurity incident at its ShebaMiles loyalty programme, detected on 17 November. Its chief commercial officer said thousands of accounts were reached and nothing was altered. The airline had not said whether it had notified the Ethiopian Communications Authority, as the 2024 law requires within 72 hours.
 
 </div>
 
@@ -126,7 +126,7 @@ Thousands of accounts reached, nothing altered; detected 17 Nov; under 1 in 670 
 
 **[Ethiopian Airlines Breach Puts 72-Hour Data Reporting Rule Under Scrutiny](https://cioafrica.co/ethiopian-airlines-breach-puts-72-hour-data-reporting-rule-under-scrutiny/)** — CIO Africa, 20 November 2026
 
-Under 8,000 ShebaMiles accounts reached; ECA notification within 72 hours under Proclamation 1321/2024 unconfirmed.
+Ethiopian Airlines told ShebaMiles members on 18 November 2026 that unauthorised access to customer information had occurred. Addis Fortune reported on 19 November that fewer than 8,000 accounts were reached. Proclamation 1321/2024 requires notice to the Communications Authority within 72 hours, and the airline had not said whether it gave notice.
 
 </div>
 

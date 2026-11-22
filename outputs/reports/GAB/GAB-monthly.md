@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: GAB
 ledger_rows: 42
 not_held: 11
-record: 02db9974d736
+record: 9d8ff827bd95
 ---
 
 # News, Oct – Nov 2026
@@ -586,7 +586,7 @@ Gabon's civil-service ministry asked parliament for FCFA 5.38bn for 2027, exclud
 
 **[Projet Gabon Digital : Le Ministère de la Fonction Publique et la Banque mondiale examinent les avancées et les perspectives de mise en œuvre du SIGRH](https://fonction-publique.gouv.ga/projet-gabon-digital-le-ministere-de-la-fonction-publique-et-la-banque-mondiale-examinent-les-avancees-et-les-perspectives-de-mise-en-oeuvre-du-sigrh/)** — Ministère de la Fonction publique et du Renforcement des capacités (Gabon), 19 November 2026
 
-World Bank mid-term review; SIGRH build from Dec 2026, pilot Mar 2027, live end-2027; project 20 months from close.
+Gabon's civil-service minister, Laurence Ndong, met the World Bank's representative in Libreville on 19 November 2026, during its mid-term review of Gabon Digital. She asked to start building the integrated HR system SIGRH in December 2026. She wants a pilot from March 2027 and operation by the end of 2027.
 
 </div>
 

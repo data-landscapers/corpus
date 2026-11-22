@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: TGO
 ledger_rows: 41
 not_held: 15
-record: 4202a19d9d52
+record: 88889d46100c
 ---
 
 # News, Oct – Nov 2026
@@ -226,7 +226,7 @@ Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communic
 
 **[Cybersécurité : le Togo organise son premier grand rendez-vous national](https://www.republiquetogolaise.tg/gestion-publique/2011-12515-cybersecurite-le-togo-organise-son-premier-grand-rendez-vous-national)** — République Togolaise, 20 November 2026
 
-Opened 19 Nov by Cina Lawson; 40-player CTF final; GIZ ProDigiT support; 2024 strategy's four axes recalled.
+Togo's national cybersecurity agency, ANCy, held the first Togo Cyber Arena in Lomé on 19 and 20 November 2026, supported by GIZ. The programme included a national capture-the-flag final, a demonstration of the national incident response centre and workshops.
 
 </div>
 
@@ -374,7 +374,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[27 155 actes d'état civil numérisés : ce que le partenariat entre le Togo et le PNUD a déjà permis](https://r-freenews.com/27-155-actes-detat-civil-numerises-ce-que-le-pa/)** — R Free News, 19 November 2026
 
-UNDP 2024-2027 country programme evaluated in Lomé; 2025 results; 2028-2032 cycle to follow.
+A workshop in Lomé on 18 and 19 November 2026 evaluated the 2024 to 2027 cooperation programme between Togo and the UNDP. The UNDP said it helped digitise 27,155 civil-status records in 2025. The conclusions are to shape the 2028 to 2032 programme.
 
 </div>
 
@@ -634,7 +634,7 @@ The Ayre Think Tank published an AI readiness index at the Commonwealth summit i
 
 **[BoD-TPME : les start-up togolaises peuvent déposer leur logiciel](https://actulome.com/bod-tpme-appel-startups-solutions-numeriques/)** — ActuLome, 21 November 2026
 
-Call opened week of 20 Nov 2026; catalogue had only foreign open-source tools; 3,000-firm target; no deadline set.
+Togo has invited start-ups and developers to list locally built software on BoD-TPME, its public digital toolbox for small businesses, ActuLome reported on 21 November 2026. The call opened in the week of 20 November. No selection criteria or closing date have been published, and the catalogue had mainly listed international open-source tools.
 
 </div>
 

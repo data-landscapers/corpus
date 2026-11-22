@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: COD
 ledger_rows: 59
 not_held: 6
-record: 7dbd7ad0704b
+record: 33becb5d6697
 ---
 
 # News, Oct – Nov 2026
@@ -684,7 +684,7 @@ Le Point (lepoint.cd) published a guide on 13 November 2026 to i-impôts, the DR
 
 **[Modernisation de l’administration publique : le Président Tshisekedi demande de renforcer la relation État-administrés - ACP](https://acp.cd/nation/modernisation-de-ladministration-publique-le-president-tshisekedi-demande-de-renforcer-la-relation-etat-administres/)** — Agence Congolaise de Presse (ACP), 19 November 2026
 
-President's speech opening second public-service conference; E-Services RDC framed as curb on illicit charges.
+President Tshisekedi opened the second annual public-service conference in Kinshasa on 19 November 2026. He asked for a civil service judged on results and said the new E-Services RDC platform should shorten delays. He asked the government to set responsibilities, means and deadlines for the conference's recommendations.
 
 </div>
 
@@ -692,7 +692,7 @@ President's speech opening second public-service conference; E-Services RDC fram
 
 **[RDC : le Gouvernement annonce la création de la plateforme numérique « E-Services RDC » - ACP](https://acp.cd/nation/rdc-le-gouvernement-annonce-la-creation-de-la-plateforme-numerique-e-services-rdc/)** — Agence Congolaise de Presse (ACP), 19 November 2026
 
-Single portal for procedures and official fees; six languages; Mbulamatari app; public-sector job listings.
+On 19 November 2026 the Deputy Prime Minister for the civil service announced E-Services RDC in Kinshasa. The portal publishes the procedures and official fees of public services, in four national languages, French and English. It is available through the Mbulamatari app and is also to list public-sector job openings.
 
 </div>
 

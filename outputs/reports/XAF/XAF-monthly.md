@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: XAF
 ledger_rows: 106
 not_held: 3
-record: f90729201533
+record: e91a09299824
 ---
 
 # News, Oct – Nov 2026
@@ -1648,7 +1648,7 @@ The AfCFTA Secretariat closed phase 1 of its Digital Inclusion and Entrepreneurs
 
 **[Shaping digital horizons together: IOI at UbuntuNet CONNECT 2026 in Malawi](https://investinopen.org/blog/shaping-digital-horizons-together-ioi-at-ubuntunet-connect-2026-in-malawi/)** — Invest in Open Infrastructure, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
 
-OPAR metadata aggregator launched in Lilongwe; DSaaS targets 400+ repositories and 960 curated datasets regionally.
+Invest in Open Infrastructure reported on 20 November 2026 on UbuntuNet CONNECT, held in Lilongwe in late October. UbuntuNet Alliance launched the Open Pan-African Repository, a research metadata aggregator. Its DSpace-as-a-service project aims to create over 400 open institutional repositories in Eastern and Southern Africa, and over 960 curated datasets.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: NGA
 ledger_rows: 143
 not_held: 8
-record: 88c2b544c7e3
+record: 0e47b585a4fd
 ---
 
 # News, Oct – Nov 2026
@@ -320,7 +320,7 @@ Nigeria's Senate passed SB. 959 on third reading on 10 November 2026. The bill a
 
 **[Osun, UK partner to strengthen digital economy](https://tribuneonlineng.com/osun-uk-partner-to-strengthen-digital-economy/amp/)** — Tribune Online, 21 November 2026
 
-Osogbo co-creation workshop 19 Nov 2026; Digital Economy Agency Bill advancing; about 10 tech hubs planned.
+The UK Foreign, Commonwealth and Development Office said at a workshop in Osogbo on 19 November 2026 that it would work with Osun State on digital policy and institutional reform. An Osun commissioner said the state plans about 10 technology hubs, and the UK-funded programme's implementer welcomed progress on the state's Digital Economy Agency Bill. No sum was stated.
 
 </div>
 
@@ -1578,7 +1578,7 @@ The Nigerian Revenue Service has set deadlines for virtual asset service provide
 
 **[AfriTech 6.0: AfriGO Urges Shift From Bank Account Expansion To Active Digital Transactions](https://independent.ng/afritech-6-0-afrigo-urges-shift-from-bank-account-expansion-to-active-digital-transactions/)** — Independent Newspaper Nigeria, 21 November 2026
 
-Nearly 10m AfriGO cards in under two years; NIMC multipurpose ID card integration; usage, not access, the next frontier.
+AfriGO, the domestic card scheme, said at the AfriTech 6.0 conference that it is nearing 10 million issued cards after less than two years of core operations. It is integrating the national identity commission's multipurpose ID card with its payment infrastructure. AfriGO's executive director said the next task for financial inclusion is usage rather than access.
 
 </div>
 
@@ -2170,7 +2170,7 @@ BusinessDay reported on 18 November 2026 commentary urging Nigeria to learn from
 
 **[FG backs eight startups through iDICE Growth Lab to access N1bn in equity funding](https://businessday.ng/news/article/fg-backs-eight-startups-through-idice-growth-lab-to-access-n1bn-in-equity-funding/)** — BusinessDay (Nigeria), 19 November 2026
 
-USD 100,000 equity each for eight startups incl. KrosAI, Vantrace, SavvyBee; BOI-run, AfDB/AFD/IsDB co-financed.
+Nigeria's iDICE Startup Bridge began its Growth Lab with eight startups, BusinessDay reported on 19 November 2026. Each is to receive $100,000 in equity, about N134 million. The Bank of Industry implements the programme, co-financed by the African Development Bank, Agence Française de Développement and the Islamic Development Bank.
 
 </div>
 
@@ -2324,7 +2324,7 @@ Nigeria's Federal Ministry of Education said on 16 November 2026 that its Nigeri
 
 **[Government invests in technical talent in partner countries](https://www.government.nl/latest/news/2026/11/20/government-invests-in-technical-talent-in-partner-countries)** — Ministry of Foreign Affairs (Netherlands), 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
 
-EUR 150m over 2027-2031; seven initial countries, four outside Africa; no per-country split stated.
+The Dutch Ministry of Foreign Affairs announced on 20 November 2026 a EUR 150 million programme, Knowledge Empowers You, for 2027 to 2031. It trains technical talent, with a chip-sector focus, in seven initial countries including Egypt, Morocco and Nigeria. No allocation per country is stated.
 
 </div>
 

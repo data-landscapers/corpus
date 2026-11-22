@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: GHA
 ledger_rows: 85
 not_held: 9
-record: 2c40c8868e25
+record: 2f74cac49f0d
 ---
 
 # News, Oct – Nov 2026
@@ -1048,7 +1048,7 @@ About 61% of Ghanaian children hold a birth certificate, UNICEF's representative
 
 **[Beyond Flood Prevention: How Decentralisation & Spatial Planning Strengthen Local Governance in Ghana](https://www.giz.de/en/regions/africa/ghana/news/beyond-flood-prevention-how-decentralisation-spatial-planning-strengthen-local-governance-ghana)** — GIZ, 19 November 2026
 
-BMZ-commissioned PAIReD; LUSPA planning standards revised; LUPMIS rebuilt as web platform; drone base maps.
+GIZ reported on 19 November 2026 on its PAIReD local-governance programme, which works with 60 district assemblies in Ghana. The planning authority has revised the national zoning guidelines and planning standards, with 1,589 participants in working sessions. The land-use information system LUPMIS is being rebuilt as a web platform; a prototype was shown in November 2025.
 
 </div>
 

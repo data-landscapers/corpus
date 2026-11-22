@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: SDN
 ledger_rows: 37
 not_held: 5
-record: 32985537846d
+record: 0fb154b8e352
 ---
 
 # News, Oct – Nov 2026
@@ -482,7 +482,7 @@ The Central Bank of Sudan's director general of policies spoke to Sudan Horizon 
 
 **[CBoS Governor Witnesses Signing of National Instant Payment System (NIPS) Contract](https://sudanhorizon.com/cbos-governor-witnesses-signing-of-national-instant-payment-system-nips-contract/)** — Sudan Horizon, 19 November 2026
 
-CBoS, National Technical Company and EBS sign NIPS contract, 19 Nov 2026; 24/7 bank-to-wallet transfers; no value given.
+The Central Bank of Sudan signed a contract in Khartoum on 19 November 2026 to establish a National Instant Payment System. The other parties are the National Technical Company and Electronic Banking Services. The system is to allow real-time transfers between banks and e-wallets at any hour; no value or timeline was stated.
 
 </div>
 

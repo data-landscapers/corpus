@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: MRT
 ledger_rows: 23
 not_held: 3
-record: ca303672f4ed
+record: f922fb8d133d
 ---
 
 # News, Oct – Nov 2026
@@ -452,7 +452,7 @@ GIZ's Digital-Y project in Mauritania launched a support programme for nine digi
 
 **[البنك المركزي الموريتاني يختتم هاكاثون التكنولوجيا المالية ويكرّم الفرق الفائزة](https://www.ami.mr/archives/273515)** — Agence mauritanienne d’information (AMI), 20 November 2026
 
-BCM Fintech Program closes with six winners in digital credit, BNPL and crowdfunding; about 100 entrants; GIZ-backed.
+The Central Bank of Mauritania closed its fintech hackathon in Nouakchott on 20 November 2026. About 100 entrants competed in an ideas track and a sandbox track. Six teams won, in digital credit, buy-now-pay-later and crowdfunding, with support from the PAFIID programme and GIZ.
 
 </div>
 

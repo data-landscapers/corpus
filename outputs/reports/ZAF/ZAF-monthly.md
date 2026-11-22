@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: ZAF
 ledger_rows: 125
 not_held: 17
-record: d187ce6eb6fa
+record: 369b0f124bad
 ---
 
 # News, Oct – Nov 2026
@@ -1726,7 +1726,7 @@ PRASA launched three digital passenger channels on 17 November 2026: the myprasa
 
 **[SA strategises to use AI for tangible benefits for citizens](https://www.sanews.gov.za/south-africa/sa-strategises-use-ai-tangible-benefits-citizens)** — SAnews (South African Government News Agency), 19 November 2026
 
-Ntshavheni: Digital Transformation Roadmap to be reworked after US visit; AI guidelines over hard policy framework.
+South Africa's Minister in the Presidency, Khumbudzo Ntshavheni, spoke in San Jose, California, during the President's Silicon Valley visit, reported on 19 November 2026. She said the visit's outcomes would inform a review of the Digital Transformation Roadmap. Government is weighing AI guidelines with safeguards, which she said would not be optional.
 
 </div>
 
@@ -1894,7 +1894,7 @@ President Cyril Ramaphosa told about 300 South Africans, including nine minister
 
 **[Address by President Cyril Ramaphosa at the conclusion of the Working Visit to Silicon Valley San Jose, United States of America](https://www.presidency.gov.za/address-president-cyril-ramaphosa-conclusion-working-visit-silicon-valley-san-jose-united-states)** — The Presidency of the Republic of South Africa, 20 November 2026
 
-Debrief closing San Jose visit; national AI action plan in 90 days; Presidency-led delivery team; four priorities.
+President Ramaphosa closed a Silicon Valley working visit on 20 November 2026 by announcing a national AI action plan within 90 days. A small Presidency-led team will deliver it. He set four priorities: AI in public services, AI infrastructure investment, local AI capability and risk preparedness.
 
 </div>
 

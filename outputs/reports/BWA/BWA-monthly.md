@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: BWA
 ledger_rows: 25
 not_held: 5
-record: 9f4dd81eb7b4
+record: 0b5a87f5c693
 ---
 
 # News, Oct – Nov 2026
@@ -184,7 +184,7 @@ Botswana Telecommunications Corporation announced on 20 November 2026 a partners
 
 **[Starlink brings satellite-to-mobile to Botswana](https://itweb.africa/article/starlink-brings-satellite-to-mobile-to-botswana/Gb3BwMWaGzDv2k6V)** — ITWeb Africa, 20 November 2026
 
-BTC Satellite to go commercial early 2027 with 100% geographic coverage; second African market after DRC.
+Botswana Telecommunications Corporation and Starlink plan to launch a satellite-to-mobile service, BTC Satellite, commercially in early 2027, ITWeb Africa reported on 20 November 2026. The company says it will cover the whole country for standard 4G smartphones. The Democratic Republic of the Congo launched a similar service after an August 2026 partnership between Airtel Africa and SpaceX.
 
 </div>
 

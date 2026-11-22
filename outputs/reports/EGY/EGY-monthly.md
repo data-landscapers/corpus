@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: EGY
 ledger_rows: 78
 not_held: 35
-record: 94e1ed605e81
+record: c92c50a74580
 ---
 
 # News, Oct – Nov 2026
@@ -74,7 +74,7 @@ Prime Minister Mostafa Madbouly announced the closing recommendations of Egypt F
 
 **[منتدى مصر 2026 يستهدف رفع الخدمات الحكومية على منصة مصر الرقمية إلى 300 خدمة](https://www.youm7.com/story/2026/11/20/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D9%85%D8%B5%D8%B1-2026-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9/7625919)** — Youm7, 20 November 2026
 
-Plan costed at about EGP 4.2bn; MCIT and agencies to integrate databases and systems for the expansion.
+Youm7 reported on 20 November 2026 a plan to raise Digital Egypt from 250 to 300 government services before 30 June 2027. It is costed at about EGP 4.2 billion. The communications ministry and other bodies are to choose services to digitise and link their databases.
 
 </div>
 
@@ -104,7 +104,7 @@ Youm7 published an interview on 7 November 2026 with Egypt's ICT minister, Raafa
 
 **[Egypt allocates $440,000 consultancy budget to draft national data centre strategy](https://itmagazineme.com/egypt-allocates-440000-consultancy-budget-to-draft-national-data-centre-strategy/)** — IT Magazine ME, 21 November 2026
 
-Drafting from Dec 2026, launch now Q1 2027 rather than end-2026; 28 MW commercial capacity baseline cited.
+Egypt's ICT ministry has set aside USD 440,000 for a consultant to draft a national data-centre strategy in three months. IT Magazine ME reported it on 21 November 2026, citing Masrawy. Drafting starts in December 2026, with launch planned for early 2027. In September the minister had aimed for late 2026.
 
 </div>
 
@@ -670,7 +670,7 @@ Egypt's Cabinet approved a draft resolution on 18 November 2026 establishing a C
 
 **[ليبيا ومصر تتفقان على تفعيل الربط الإلكتروني بين وزارتي العمل في البلدين،](https://lana.gov.ly/post.php?id=370414&lang=ar)** — Libyan News Agency (LANA), 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
 
-Database of Egyptian workers in Libya; joint committees to relaunch link system within a week.
+Libya's labour minister, Ali al-Abed, said on 19 November 2026 that he and his Egyptian counterpart agreed to activate an electronic ministry link. It includes a database of Egyptian workers in Libya and of those seeking work there. Joint technical committees are to start the following week.
 
 </div>
 
@@ -678,7 +678,7 @@ Database of Egyptian workers in Libya; joint committees to relaunch link system 
 
 **[وزير العمل: ربط إلكتروني وقاعدة بيانات مشتركة لتنظيم تشغيل العمالة المصرية في ليبيا](https://www.youm7.com/story/2026/11/20/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%B1%D8%A8%D8%B7-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%88%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D8%A9/7625973)** — Youm7, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
 
-Signed in Cairo 19 Nov 2026 during Dbeibah visit; labour offices planned in Tripoli and Benghazi.
+Egypt's labour minister said on 20 November 2026 that Egypt and Libya signed a labour agreement in Cairo on 19 November. It provides for a shared database of Egyptian workers in Libya and for reactivating the electronic link between the two labour ministries. Egypt is preparing labour offices in Tripoli and Benghazi, and one in Dubai.
 
 </div>
 
@@ -1310,7 +1310,7 @@ Egypt's communications and labour ministries signed a memorandum to digitise the
 
 **[Government invests in technical talent in partner countries](https://www.government.nl/latest/news/2026/11/20/government-invests-in-technical-talent-in-partner-countries)** — Ministry of Foreign Affairs (Netherlands), 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-EUR 150m over 2027-2031; seven initial countries, four outside Africa; no per-country split stated.
+The Dutch Ministry of Foreign Affairs announced on 20 November 2026 a EUR 150 million programme, Knowledge Empowers You, for 2027 to 2031. It trains technical talent, with a chip-sector focus, in seven initial countries including Egypt, Morocco and Nigeria. No allocation per country is stated.
 
 </div>
 

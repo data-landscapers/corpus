@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: MUS
 ledger_rows: 44
 not_held: 7
-record: 2859ad2ad022
+record: 62f243fca905
 ---
 
 # News, Oct – Nov 2026
@@ -414,7 +414,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Bidding Document (Single-Stage) for the Analysis, Design, Implementation and Commissioning of a Higher Education Data Lake, IFB No: HEC/ONB/03/10/2026](https://publicprocurement.govmu.org/publicprocurement/wp-content/uploads/2026/10/OAB_Data_Lake_Project_FINAL-12-Oct-2026.docx)** — Higher Education Commission, Mauritius, 13 October 2026
 
-Full tender for HEC data lake: 45 HEIs submit via APIs or platform; offshore hosting needs HEC approval.
+Mauritius's Higher Education Commission issued a single-stage bidding document on 13 October 2026 for a higher education data lake. It covers 45 institutions, 10 public and 35 private, which submit data through a platform or APIs. The contractor has nine months from the contract's effective date.
 
 </div>
 
@@ -422,7 +422,7 @@ Full tender for HEC data lake: 45 HEIs submit via APIs or platform; offshore hos
 
 **[Analysis, Design, Implementation and Commissioning of a Higher Education Data Lake: Addendum No 2](https://publicprocurement.govmu.org/publicprocurement/wp-content/uploads/2026/11/Addendum_No_2__Data_Lake_19_11_2026.pdf)** — Higher Education Commission, Mauritius, 19 November 2026
 
-120 bidder clarifications; offshore hosting only with HEC approval and DPA 2017 s.36 compliance; no reuse of gov cloud.
+The Higher Education Commission of Mauritius issued Addendum No 2 on 19 November 2026 to its data lake tender, answering 120 bidder queries. Hosting outside Mauritius needs the Commission's prior written approval and compliance with section 36 of the Data Protection Act 2017. The Commission provides no inventory of its systems, so bidders price from stated planning assumptions.
 
 </div>
 

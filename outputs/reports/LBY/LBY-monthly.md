@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: LBY
 ledger_rows: 29
 not_held: 3
-record: 25e7ef0c04ac
+record: 7e8c0773ba6d
 ---
 
 # News, Oct – Nov 2026
@@ -252,7 +252,7 @@ Libya's Government of National Unity ordered the immediate temporary shutdown an
 
 **[ليبيا ومصر تتفقان على تفعيل الربط الإلكتروني بين وزارتي العمل في البلدين،](https://lana.gov.ly/post.php?id=370414&lang=ar)** — Libyan News Agency (LANA), 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-Database of Egyptian workers in Libya; joint committees to relaunch link system within a week.
+Libya's labour minister, Ali al-Abed, said on 19 November 2026 that he and his Egyptian counterpart agreed to activate an electronic ministry link. It includes a database of Egyptian workers in Libya and of those seeking work there. Joint technical committees are to start the following week.
 
 </div>
 
@@ -260,7 +260,7 @@ Database of Egyptian workers in Libya; joint committees to relaunch link system 
 
 **[وزير العمل: ربط إلكتروني وقاعدة بيانات مشتركة لتنظيم تشغيل العمالة المصرية في ليبيا](https://www.youm7.com/story/2026/11/20/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%B1%D8%A8%D8%B7-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%88%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D8%A9/7625973)** — Youm7, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-Signed in Cairo 19 Nov 2026 during Dbeibah visit; labour offices planned in Tripoli and Benghazi.
+Egypt's labour minister said on 20 November 2026 that Egypt and Libya signed a labour agreement in Cairo on 19 November. It provides for a shared database of Egyptian workers in Libya and for reactivating the electronic link between the two labour ministries. Egypt is preparing labour offices in Tripoli and Benghazi, and one in Dubai.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: DZA
 ledger_rows: 46
 not_held: 6
-record: d8f7657485d2
+record: 5a96c5fad9f6
 ---
 
 # News, Oct – Nov 2026
@@ -310,7 +310,7 @@ DZ Watch reported on 19 November 2026 that a consortium led by China Railway Con
 
 **[ONPPE : Installation de la cellule de vigilance cybernétique](https://news.radioalgerie.dz/fr/node/99439)** — Radio Algérienne, 19 November 2026
 
-Monitoring and coordination cell for children online installed 19 Nov 2026; legal framework and composition presented.
+Aida Mecheri, Algeria's national delegate for child protection, announced on 19 November 2026 that the child-protection body ONPPE had installed a cyber-vigilance cell. The cell monitors online risks to children and coordinates the response. Its legal framework and composition were presented the same day.
 
 </div>
 

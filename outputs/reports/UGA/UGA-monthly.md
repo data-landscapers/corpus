@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: UGA
 ledger_rows: 62
 not_held: 11
-record: 15688b276adc
+record: f9e812bc5bea
 ---
 
 # News, Oct – Nov 2026
@@ -476,7 +476,7 @@ Savanna Telecom announced plans on 17 November 2026 for one million more fibre h
 
 **[Uganda launches first Lake Victoria submarine internet cable](https://www.monitor.co.ug/uganda/news/national/uganda-launches-first-lake-victoria-submarine-internet-cable-5677782)** — Daily Monitor, 20 November 2026
 
-Kalangala Connect; 6 km subsea fibre from Bukakkata to Buggala Island for the Ssese Islands.
+Uganda launched its first submarine fibre-optic cable under Lake Victoria, the Daily Monitor reported on 20 November 2026. The Kalangala Connect cable runs six kilometres from Bukakkata on the mainland to Bogoma on Buggala Island. It is meant to improve connectivity in the Ssese Islands.
 
 </div>
 
@@ -704,7 +704,7 @@ Stanbic Bank Uganda launched an embedded-finance model in Kampala on 17 November
 
 **[Mobile money accounts hit 62m, but 23m go three months without transacting](https://www.monitor.co.ug/uganda/business/markets/mobile-money-accounts-hit-62m-but-23m-go-three-months-without-transacting--5677234)** — Daily Monitor, 20 November 2026
 
-Bank of Uganda September 2026 data; 39.1m active wallets; MTN MoMo lent Shs2.7 trillion in 2025; dormancy rules.
+Bank of Uganda data reported on 20 November 2026 show 62.12 million registered mobile money accounts in September 2026, up 17.5% year on year. Accounts used in the previous 90 days numbered 39.10 million, or 62.9% of the total. That share was 67.3% a year earlier.
 
 </div>
 

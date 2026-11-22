@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: SLE
 ledger_rows: 33
 not_held: 4
-record: d7c5fda02906
+record: 526b6b382c84
 ---
 
 # News, Oct – Nov 2026
@@ -520,7 +520,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[Government and Unique Group Partner to Advance Local Mobile Phone Assembly, Digital Inclusion and Job Creation in Sierra Leone](https://mocti.gov.sl/government-and-unique-group-partner-to-advance-local-mobile-phone-assembly-digital-inclusion-and-job-creation-in-sierra-leone/)** — Ministry of Communication, Technology and Innovation (Sierra Leone), 20 November 2026
 
-USD 21.9m indicative investment by Gambia's Unique Group; phased assembly plant plus technical training centre.
+Sierra Leone's communications ministry signed an MoU with The Gambia's Unique Group, announced on 20 November 2026. They will explore a phone and electronics assembly facility at an indicative US$21.9 million, with a technical training centre. The ministry names smartphone cost as a barrier to mobile internet use.
 
 </div>
 

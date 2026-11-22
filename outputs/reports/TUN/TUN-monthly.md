@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: TUN
 ledger_rows: 58
 not_held: 4
-record: 949af18c7851
+record: ad1cad88a3c7
 ---
 
 # News, Oct – Nov 2026
@@ -150,7 +150,7 @@ Tunisia's communications ministry announced child-protection measures resting on
 
 **[Tunisie : les outils de contrôle parental sur Internet seront gratuits](https://www.lapresse.tn/2026/11/19/tunisie-les-outils-de-controle-parental-sur-internet-seront-gratuits/)** — La Presse de Tunisie, 19 November 2026
 
-Follows INT June 2026 operator obligation; national AI strategy validated, under way; 24-hour threat monitoring.
+Tunisia's communication technologies minister, Sofiene Hemissi, told parliament on 19 November 2026 that parental-control tools will be free. A June 2026 decision of the national telecommunications authority requires operators and internet providers to offer them. He said the national AI strategy has been validated and its implementation has begun.
 
 </div>
 
@@ -236,7 +236,7 @@ Tunisia's communication technologies minister presented a 2027 budget of TND 1.0
 
 **[Tunisie-Indonésie : la télémédecine et la fabrication de médicaments au cœur des discussions](https://www.lapresse.tn/2026/11/20/tunisie-indonesie-la-telemedecine-et-la-fabrication-de-medicaments-au-coeur-des-discussions/)** — La Presse de Tunisie, 20 November 2026
 
-Health minister and Indonesian envoy, 20 Nov 2026; digital hospital, e-records, health AI; MoU still in preparation.
+Tunisia's health minister met Indonesia's ambassador on 20 November 2026 to discuss telemedicine, the digital hospital, health records, health AI, vaccines and medical devices. The two sides said they would continue preparing a memorandum of understanding. No agreement was signed.
 
 </div>
 

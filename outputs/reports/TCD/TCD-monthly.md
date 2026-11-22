@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: TCD
 ledger_rows: 25
 not_held: 23
-record: e78176be1268
+record: 8d8e2af507e0
 ---
 
 # News, Oct – Nov 2026
@@ -308,7 +308,7 @@ Chad's telecoms minister set out a transformation of the state postal operator: 
 
 **[Tchad : l'ANIE s'allie à CASHI pour digitaliser les paiements du Guichet Unique](https://dari-infos.com/tchad-lanie-sallie-a-cashi-pour-digitaliser-les-paiements-du-guichet-unique/)** — Dari Infos, 19 November 2026
 
-Online payment of business-formalities fees at ANIE one-stop shop; signed by ANIE DG and CASHI deputy DG.
+Chad's investment and export agency ANIE signed a partnership with CASHI Tchad, Dari Infos reported on 19 November 2026. Entrepreneurs and investors are to pay business-formalities fees online at the agency's one-stop shop. No start date was given.
 
 </div>
 
@@ -316,7 +316,7 @@ Online payment of business-formalities fees at ANIE one-stop shop; signed by ANI
 
 **[Tchad : Vers une simplification numérique des procédures de création d'entreprises](https://www.tachad.com/tchad-vers-une-simplification-numerique-des-procedures-de-creation-dentreprises/)** — Tachad, 20 November 2026
 
-ANIE and KONOOM: mobile payment of company registration fees in the digital GUCE; signed N'Djamena 19 Nov 2026.
+Chad's national investment and export agency, ANIE, signed an agreement with KONOOM SA in N'Djamena on 19 November 2026. It integrates mobile payment into the digital one-stop shop for company creation. Entrepreneurs and investors will be able to pay registration fees online.
 
 </div>
 
@@ -510,7 +510,7 @@ Chad began drafting a National Digital Transformation Strategy on 4 November 202
 
 **[Tchad : la Banque mondiale évalue les avancées du système statistique national](https://tchadinfos.com/2026/11/19/tchad-la-banque-mondiale-evalue-les-avancees-du-systeme-statistique-national/)** — Tchadinfos, 19 November 2026
 
-World Bank reviews PHASAOC at INSEED, put at USD 105m; RGPH-3, enterprise census and ECOSIT survey.
+The World Bank's division director for Chad, Nicola Pontara, visited the statistics institute INSEED on 19 November 2026 to review the PHASAOC project. The Bank finances the project at USD 105 million. INSEED's director-general said work under way includes the third population census, an enterprise census and a consumption survey.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: ZMB
 ledger_rows: 40
 not_held: 31
-record: b4686c67f50d
+record: a17233401618
 ---
 
 # News, Oct – Nov 2026
@@ -88,7 +88,7 @@ Zambia's government has asked Hobbiton Investments Limited to form a Ministerial
 
 **[Mutati Hails Absa Innovation Hub for Empowering Young Entrepreneurs in Livingstone](https://efficacynews.africa/2026/11/19/mutati-hails-absa-innovation-hub-for-empowering-young-entrepreneurs-in-livingstone/)** — Efficacy News, 19 November 2026
 
-Data Management Act to follow data-protection review; AI policy and law in preparation; AI-enabled data centre planned.
+Zambia's Minister of Technology and Science, Felix Mutati, visited the Absa Innovation Hub in Livingstone, reported on 19 November 2026. He said government is developing an AI policy and law and reviewing data protection towards a Data Management Act. He also described plans with the private sector for an AI-enabled data centre.
 
 </div>
 
@@ -272,7 +272,7 @@ SMART Zambia Institute and the UNDP signed a memorandum of understanding on digi
 
 **[UNDP and SMART Zambia Institute Sign Strategic Partnership to Accelerate Zambia's Digital Transformation](https://www.undp.org/zambia/press-releases/undp-and-smart-zambia-institute-sign-strategic-partnership-accelerate-zambias-digital-transformation)** — United Nations Development Programme, 20 November 2026
 
-UNDP's own release; MoU under AA4DPI, Zambia joins Ethiopia, Rwanda, Malawi, Sierra Leone; no sum stated.
+UNDP and the SMART Zambia Institute signed a memorandum of understanding on digital public infrastructure in Lusaka on 20 November 2026. It sits under UNDP's Africa Accelerator for DPI. The release lists Ethiopia, Rwanda, Malawi and Sierra Leone as other participants.
 
 </div>
 
@@ -286,7 +286,7 @@ UNDP's own release; MoU under AA4DPI, Zambia joins Ethiopia, Rwanda, Malawi, Sie
 
 **[ATAF and Zambia partner on tax technology](https://theafricandaily.com/321415/business/tax/ataf-and-zambia-partner-on-tax-technology/)** — The African Daily, 21 November 2026
 
-Agreement signed 20 Nov 2026 in Lusaka; African-built AEOI platform for tax information exchange; World Bank support.
+The African Tax Administration Forum and the Zambia Revenue Authority signed a Memorandum of Agreement in Lusaka on 20 November 2026. It covers an African-built IT platform for the automatic exchange of tax information among African tax administrations. The World Bank Group is providing technical support.
 
 </div>
 
@@ -388,7 +388,7 @@ Airtel Zambia launched Airtel Money Buy Shares, letting customers buy Lusaka Sec
 
 **[Govt explores use of digital lending platforms to finance agricultural inputs](https://diggers.news/business/2026/11/21/govt-explores-use-of-digital-lending-platforms-to-finance-agricultural-inputs/)** — News Diggers, 21 November 2026
 
-FISP to move from grants to loans; finance, agriculture and technology ministers meet mobile money operators.
+Zambia's Ministry of Finance and National Planning said it is exploring digital lending platforms to finance inputs for smallholder farmers. The finance, agriculture and technology ministers met mobile money operators on 20 November 2026. The talks are part of a proposal to move the Farmer Input Support Programme from grants to loans.
 
 </div>
 

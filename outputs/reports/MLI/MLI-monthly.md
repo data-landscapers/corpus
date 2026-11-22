@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: MLI
 ledger_rows: 21
 not_held: 1
-record: 70966bb49317
+record: c6b76d8fc464
 ---
 
 # News, Oct – Nov 2026
@@ -158,7 +158,7 @@ Internet Society Pulse lists one active internet exchange point in Mali in Novem
 
 **[Journal officiel de la République du Mali, Soixante-septième Année, Numéro 24 — Ordonnance n°2026-031/PT-RM du 25 septembre 2026 portant création de l'Agence nationale de la Sécurité des Systèmes d'Information](https://sgg-mali.ml/JO/2026/mali-jo-2026-24.pdf)** — Secrétariat général du Gouvernement, 9 October 2026
 
-Ordinance creating ANSSI: absorbs ML-CERT, may suspend or disconnect non-compliant systems, regulates OIVs.
+Mali's Official Journal of 9 October 2026 published Ordinance 2026-031 of 25 September 2026, creating ANSSI, a public national agency for information-systems security. It takes over ML-CERT and the electronic-certification service. It may suspend vulnerable systems and order compromised ones disconnected.
 
 </div>
 

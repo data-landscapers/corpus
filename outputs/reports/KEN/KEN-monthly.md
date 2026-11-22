@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: KEN
 ledger_rows: 116
 not_held: 5
-record: a7a65e7dd3b9
+record: 3fe452067113
 ---
 
 # News, Oct – Nov 2026
@@ -1322,7 +1322,7 @@ The Health Cabinet Secretary announced a National Intelligence and Analytics Cen
 
 **[Government streamlines cancer treatment with single SHA approval](https://www.kenyanews.go.ke/government-streamlines-cancer-treatment-with-single-sha-approval/)** — Kenya News Agency, 20 November 2026
 
-One pre-authorisation per care plan; unified oncology record via SHA Oncology Module; 54,465 patients.
+Kenya's Health Cabinet Secretary announced on 20 November 2026 that cancer patients no longer need Social Health Authority approval for each treatment cycle. One approval covers a care plan at any contracted hospital. The reform runs through the Digital Health Agency's SHA Oncology Module for 54,465 patients.
 
 </div>
 

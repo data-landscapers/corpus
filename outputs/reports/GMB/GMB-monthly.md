@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-22
 place: GMB
 ledger_rows: 22
 not_held: 2
-record: a8b58f787915
+record: e59fbaf2a8be
 ---
 
 # News, Oct – Nov 2026
@@ -260,7 +260,7 @@ The Gambia's finance ministry and the Gambia Revenue Authority signed a 10-year 
 
 **[Gambia Revenue Authority Collecting Revenue for National Development](https://www.gra.gm/news/7a597617-e44d-11f1-96d0-029254d29bb1)** — Gambia Revenue Authority, 19 November 2026
 
-Study tour 16-20 Nov 2026; mobile-money onboarding to revenue monitoring; AI fuel platform not yet deployed.
+The Gambia Revenue Authority said on 19 November 2026 that a delegation visited SICPA in Switzerland from 16 to 20 November. SICPA holds a 2023 concession in The Gambia; topics included mobile-money onboarding for revenue monitoring, tax-stamp authentication and fuel testing. SICPA's AI-assisted fuel surveillance platform is not yet deployed there.
 
 </div>
 
