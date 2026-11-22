@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZMB-001",
-      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
-      "note": "Rebuild 2026-11-13: BongoHive's 12-month IGNITE incubator and accelerator runs cohorts of digital startups (ZMB-001, August 2026), so 3 holds. No fact places hubs with programmes in a second city, so not 4.",
-      "as_at": "2026-11-13"
+      "gaps": "No source found since October 2023 places a startup incubation or acceleration cohort in a second city: the Absa Innovation Hub in Solwezi and Livingstone runs skills and business programmes, not a startup cohort. No source found since October 2023 says a science or technology park is in service with tenants.",
+      "note": "Stage 4c 2026-11-22: BongoHive's IGNITE and GreenTech4CE cohorts of digital startups (ZMB-001) hold 3. The Absa hubs in Solwezi and Livingstone run skills and SME programmes, not a startup cohort (ZMB-008), so hubs with programmes are not shown in a second city and it is not 4.",
+      "as_at": "2026-11-22"
     }
   ]
 }

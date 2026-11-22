@@ -367,7 +367,7 @@ The national innovation hub in Kampala has supported 133 start-ups since 2024; p
 
 ### Zambia: 3 Established
 
-A hub ran a programme for startups in 2026; hubs in more than one city are not on record.
+Hubs ran startup programmes in 2026; startup programmes in a second city are not on record.
 
 - BongoHive says its 12-month IGNITE Digital Economy Incubator and Accelerator Programme, funded by the European Union and run with Self Help Africa, is recruiting facilitators and bi-weekly group coaches for cohorts of participating digital startups ([source, 2026-08-06](https://bongohive.co.zm/call-for-facilitators-and-group-coaches/)).
 
