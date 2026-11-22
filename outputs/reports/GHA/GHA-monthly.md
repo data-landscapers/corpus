@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: GHA
-ledger_rows: 84
+ledger_rows: 85
 not_held: 9
-record: 4a9866c7ed16
+record: 2c40c8868e25
 ---
 
 # News, Oct – Nov 2026
@@ -1035,6 +1035,20 @@ Ghana's Ministry of Gender, Children and Social Protection swore in a Data Revie
 **[Only 61% of Ghanaian children have birth certificates](https://3news.com/news/birth-certificates-ghana-children-unicef)** — 3News, 6 November 2026
 
 About 61% of Ghanaian children hold a birth certificate, UNICEF's representative Andy Brooks said on 4-5 November 2026, 3News reported. He partly blamed weak telecommunications and digital registration that remote communities find hard to use. The Births and Deaths Registry registered 588,972 births by the end of 2025. That is 73.4% of the expected total for the year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Land Use Planning and Management Information System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Beyond Flood Prevention: How Decentralisation & Spatial Planning Strengthen Local Governance in Ghana](https://www.giz.de/en/regions/africa/ghana/news/beyond-flood-prevention-how-decentralisation-spatial-planning-strengthen-local-governance-ghana)** — GIZ, 19 November 2026
+
+BMZ-commissioned PAIReD; LUSPA planning standards revised; LUPMIS rebuilt as web platform; drone base maps.
 
 </div>
 
