@@ -2,7 +2,7 @@
 
 ## Population uptake
 
-**Adults with an account.** [FSD Uganda, quoting Global Findex 2025, says 73% of Ugandan adults have a financial account](<https://fsduganda.or.ug/connected-but-not-included/>). The survey year is 2024. [FinScope Uganda 2023 found 64% registered for mobile money](<https://ufla.co.ug/wp-content/uploads/2025/06/Final-Finscope-Uganda-2023-Survey.pdf>), up from 46% in 2018.
+**Adults with an account.** [FSD Uganda, quoting Global Findex 2025, says 73% of Ugandan adults have a financial account](<https://fsduganda.or.ug/connected-but-not-included/>). The survey year is 2024. [FinScope Uganda 2023 found 64% registered for mobile money](<https://ufla.co.ug/wp-content/uploads/2025/06/Final-Finscope-Uganda-2023-Survey.pdf>). [In November 2026 the Monitor cited the same survey for 64% of adults using a mobile money provider](<https://www.monitor.co.ug/uganda/business/markets/mobile-money-accounts-hit-62m-but-23m-go-three-months-without-transacting--5677234>).
 
 **Account target met.** [The Findex share of 73%](<https://fsduganda.or.ug/connected-but-not-included/>) is short of four in five. FSD Uganda notes that 79% of adults own a mobile phone. No survey has been found that puts account holding at 79% or more.
 

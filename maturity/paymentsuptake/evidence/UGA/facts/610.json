@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-20-uga-mobile-money-accounts-hit-62m-but-23m-go-three-months-without-trans",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "The article says the 2023 FinScope survey found 64 percent of Ugandan adults used a mobile money provider, up from 56 percent in 2018.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "FinScope 2023",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

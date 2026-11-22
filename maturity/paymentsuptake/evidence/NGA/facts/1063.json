@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-21-nga-independent-afritech-afrigo-digital-transactions",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "half",
+   "fact": "Citing EFInA's 2026 survey, AfriGO's executive director said formal financial inclusion had risen to 73 per cent of adults, about 87 million, and digital financial service usage to 64 per cent.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "EFInA 2026 survey",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
