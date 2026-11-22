@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-21-xea-eastafrican-digital-freedom-declining-iiag-2026",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The EastAfrican, on the IIAG 2026, says Uganda's Computer Misuse Act (2011, amended 2022) is in operation, and that in March 2026 the Constitutional Court struck down several provisions of the 2022 amendments on procedural and free-expression grounds.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Computer Misuse Act (2011, 2022 amendments)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Computer Misuse Act (2011, 2022 amendments)",
+   "country_label": "Uganda",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

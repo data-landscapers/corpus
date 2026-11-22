@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-20-ssd-eyeradio-cybercrimes-act-rights-group-warns",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Eye Radio reports the Cybercrimes and Computer Misuse Act, 2026 was signed by the President on 18 February 2026, and that its Sections 42, 44 and 51 carry prison terms of up to five, five and two years.",
+   "as_of": "2026-02-18",
+   "date_precision": "day",
+   "system": "Cybercrimes and Computer Misuse Act, 2026",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrimes and Computer Misuse Act, 2026",
+   "country_label": "South Sudan",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
