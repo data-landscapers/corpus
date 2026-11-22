@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-19-tun-tunisie-les-outils-de-controle-parental-sur-internet-seront",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The communication technologies minister told parliament that Tunisia has validated its national AI strategy and begun implementing it.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

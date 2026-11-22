@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-21-egy-national-data-centre-strategy-consultancy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "IT Magazine ME says the second phase of Egypt's National AI Strategy aims to back over 250 startups and enable 36% of citizens to use AI tools by 2030.",
+   "as_of": "2026-11-21",
+   "date_precision": "day",
+   "system": "National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

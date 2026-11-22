@@ -22,8 +22,8 @@ The African Union's Continental AI Strategy, adopted in 2024, says member states
 |---|---|
 | 5 Mature | 1 |
 | 4 Operating | 8 |
-| 3 Established | 7 |
-| 2 Nascent | 27 |
+| 3 Established | 8 |
+| 2 Nascent | 26 |
 | 1 Absent | 3 |
 | Unplaced | 3 |
 | No evidence | 5 |
@@ -144,6 +144,12 @@ Libya's Government of National Unity launched a national AI strategy for 2026 to
 Senegal has adopted a national AI strategy for 2024 to 2028; no source found reports a body to carry it out.
 
 - GRAIN's comparative study, presented 2026-08-10, says Senegal followed Benin in adopting a national AI strategy, with a strategy for 2024-2028; no adoption date is given, so the as_of is the publication date ([source, 2026-08-10](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/)).
+
+### Tunisia: 3 Established
+
+Tunisia's minister said in November 2026 that its national AI strategy is validated and under way; no body is known to run it.
+
+- The communication technologies minister told parliament that Tunisia has validated its national AI strategy and begun implementing it ([source, 2026-11-19](https://www.lapresse.tn/2026/11/19/tunisie-les-outils-de-controle-parental-sur-internet-seront-gratuits/)).
 
 ### Angola: 2 Nascent
 
@@ -304,12 +310,6 @@ Tanzania was developing a national AI strategy in 2026; no source found says whe
 Togo's government named a national AI strategy in 2026; no source found says whether it has been approved or launched.
 
 - The Togolese government portal says the July 2026 project to build AI models for 50 national languages, with Togo AI Lab, Zindi and Umbaji, falls within Togo's national AI strategy, treating it as an existing framework; no adopting act or date is named ([source, 2026-07](https://www.republicoftogo.com/toutes-les-rubriques/culture/l-ia-au-service-des-langues-locales)).
-
-### Tunisia: 2 Nascent
-
-Tunisia presented the outlines of a national AI strategy for 2026 to 2030 in August 2026; it is not yet adopted.
-
-- L'Economiste Maghrébin reports that Tunisia presented the outlines (grandes lignes) of its national AI strategy for 2026-2030 at a ministerial council, carried by ICT Minister Sofiane Hemissi; the article is dated 2026-08-17 and gives no adoption or launch decision ([source, 2026-08](https://www.leconomistemaghrebin.com/2026/08/17/souverainete-numerique-le-flou-de-la-strategie-ia-tunisienne/)).
 
 ### Uganda: 2 Nascent
 

@@ -34,3 +34,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-16,DJI,gov.policy--ai-strategy,ruling,3,2,DJI-001;DJI-009;DJI-004,"messages-for-bill 132: a minister's launch is not adoption, formal validation needed; 3->2"
 2026-11-16,MAR,gov.policy--ai-strategy,ruling,3,2,MAR-004;MAR-003,"messages-for-bill 132: a minister's launch is not adoption, formal validation needed; 3->2"
 2026-11-16,MRT,gov.policy--ai-strategy,ruling,3,2,MRT-008;MRT-001;MRT-003,"messages-for-bill 132: a minister's launch is not adoption, formal validation needed; 3->2"
+2026-11-22,TUN,gov.policy--ai-strategy,fact,2,3,TUN-013,"Minister told parliament the national AI strategy is validated and being carried out (November 2026): adopted, 2 to 3"

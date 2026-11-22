@@ -1,16 +1,17 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-001",
-   "gaps": "No source found says a national AI strategy is adopted and still running.",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "3",
+      "standing": "adopted",
+      "use": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-013",
+      "gaps": "No source found names a body set up or named to carry out the strategy; in July and August 2026 the steering structures were idle or never created (TUN-002, TUN-005). No public money for it is named.",
+      "note": "Stage 4c 2026-11-22: the communication technologies minister told parliament on 19 November 2026 that Tunisia has validated its national AI strategy and begun carrying it out (TUN-013), so question 2 is met over the earlier drafts. No body named to carry it out, so not 4.",
+      "as_at": "2026-11-22"
+    }
+  ]
 }
