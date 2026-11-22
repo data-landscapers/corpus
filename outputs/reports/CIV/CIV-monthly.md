@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: CIV
-ledger_rows: 57
+ledger_rows: 58
 not_held: 9
-record: 03079aa18798
+record: f15b7da80270
 ---
 
 # News, Oct – Nov 2026
@@ -925,6 +925,20 @@ Ivana Valera founded Faba Finance in Abidjan in 2025. Its mobile application let
 **[MTN Côte d’Ivoire inaugure un centre numérique à l’Université Félix Houphouët-Boigny](https://intellivoire.net/mtn-ci-inaugure-centre-numerique-universite-fhb/)** — Intellivoire, 4 November 2026
 
 MTN Côte d'Ivoire opened its first QG Digital centre at Université Félix Houphouët-Boigny on 30 October 2026. It is the first of the digital spaces planned at 20 Ivorian universities under a FCFA 500 million programme.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Strengthening the reliability of information in West Africa (GIZ)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[West Africa disinformation project: 4 more years](https://www.socialnetlink.org/2026/11/21/giz-west-africa-information-reliability-project-new-phase-senegal-hub/)** — Socialnetlink, 21 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+GIZ's project on the reliability of information in Senegal and Côte d'Ivoire is to enter a four-year regional phase, with Senegal as hub. Germany and the Netherlands, supported by the European Union, have committed to extending it. The launch is set for 8 December 2026 in Dakar, and the budget for the new phase has not been disclosed.
 
 </div>
 
