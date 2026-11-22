@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-21-egy-industry-ministry-unified-digital-platform",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Egypt's Ministry of Industry launched a unified digital platform for manufacturers that includes an AI-powered service, 'Calculate Your Opportunity', which prepares preliminary feasibility studies within minutes (State Information Service).",
+   "as_of": "2026-11-21",
+   "date_precision": "day",
+   "system": "Calculate Your Opportunity",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Calculate Your Opportunity",
+   "country_label": "Egypt",
+   "class": "govai",
+   "platform": "Ministry of Industry unified digital platform",
+   "owner": "Ministry of Industry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
