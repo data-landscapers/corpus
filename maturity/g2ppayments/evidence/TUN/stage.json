@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "3",
+      "stage": "4",
       "payment": "inservice",
-      "streams": "",
+      "streams": "several",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-002",
-      "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-      "note": "Some AMEN cash transfers are paid by e-wallet card (World Bank, April 2024), so stage 3. University scholarships on e-Dinar wallets are not a salary, transfer or pension stream, so not stage 4.",
-      "as_at": "2026-11-05"
+      "stage_sources": "TUN-002;TUN-004",
+      "gaps": "No source found since October 2023 says government payments are checked against the national ID or a social registry.",
+      "note": "AMEN cash transfers are paid by e-wallet card (World Bank, April 2024), and about 65% of pensions are withdrawn by ATM from Tunisia Post accounts (November 2026): two main streams, so stage 4. No check against the ID or a registry is held, so not stage 5.",
+      "as_at": "2026-11-22"
     }
   ]
 }

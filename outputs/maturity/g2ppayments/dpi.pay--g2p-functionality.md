@@ -21,8 +21,8 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 | Stage | Countries |
 |---|---|
 | 5 Mature | 2 |
-| 4 Operating | 7 |
-| 3 Established | 32 |
+| 4 Operating | 8 |
+| 3 Established | 31 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
@@ -89,6 +89,13 @@ Pensions and a safety-net transfer were paid by mobile money by 2026; whether pa
 Two or more main government payment streams were digital in 2025; no source found reports checks against the ID.
 
 - The DGCPT says SenTrésor pays salaries and allowances, pensions, scholarships and social aid, and names village chiefs, students and salaried staff as beneficiaries ([source, 2025-06-02](https://www.sentresor.org/sentresor-la-plateforme-de-paiements-digitaux-lancee/)).
+
+### Tunisia: 4 Operating
+
+Social transfers by 2024 and pensions by 2026 were paid into accounts; no check against the ID or a social registry is known.
+
+- The World Bank says 44.4% of the cash transfers under Tunisia's AMEN Program have been digitalized, and a convention between the Ministry of Social Affairs and the Tunisian Post continues digital payment cards tied to an e-wallet for AMEN beneficiaries ([source, 2024-04](https://www.worldbank.org/en/programs/teri/brief/enhancing-the-social-protection-system-to-better-serve-vulnerable-populations)).
+- Tunisia Post manages about 970,000 accounts for disadvantaged families, low-income households and retirees, about 65% of pensions are withdrawn through ATMs and 400,000 e-wallets are active, per African Manager ([source, 2026-11-19](https://en.africanmanager.com/minister-hemissi-presents-his-record-and-it-was-anything-but-super/)).
 
 ### Zimbabwe: 4 Operating
 
@@ -293,12 +300,6 @@ TASAF grants were paid digitally and checked against the national ID in 2026; wh
 
 - NIDA says its system lets TASAF verify beneficiaries when making electronic payments, so only intended recipients are paid ([source, 2026-09-01](https://nida.go.tz/uploads/speeches/20260911123900_doc.pdf)).
 - TASAF reported to parliament (via the minister) that of 896,746 beneficiary households paid TZS 43.5 billion from July 2025 to March 2026, 535,536 households (60%) received grants electronically through mobile networks and bank accounts ([source, 2026-03](https://www.tasaf.go.tz/news/tasaf-disburses-sh43-5-billion-to-beneficiary-households-government-sets-new-strategies)).
-
-### Tunisia: 3 Established
-
-A government programme paid people digitally in 2024; no source found reports a second main stream.
-
-- The World Bank says 44.4% of the cash transfers under Tunisia's AMEN Program have been digitalized, and a convention between the Ministry of Social Affairs and the Tunisian Post continues digital payment cards tied to an e-wallet for AMEN beneficiaries ([source, 2024-04](https://www.worldbank.org/en/programs/teri/brief/enhancing-the-social-protection-system-to-better-serve-vulnerable-populations)).
 
 ### Zambia: 3 Established
 

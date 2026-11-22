@@ -110,3 +110,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,UGA,dpi.pay--g2p-functionality,fact,2,2,UGA-002,"Nile Post, Nov 2025: minister says SAGE payments require bank accounts linked to the NIN; older than the Oct 2026 statement that SAGE mobile money is a pilot, which stands; stays 2"
 2026-11-15,DJI,dpi.pay--g2p-functionality,fact,2,3,DJI-002,"UNHCR March 2024: 158 refugee teachers paid salaries by bank transfer; a government salary paid digitally, 2 to 3"
 2026-11-15,ETH,dpi.pay--g2p-functionality,fact,2,3,ETH-006,"PSNP5 review November 2024: e-payment in 239 of 492 woredas; a government transfer paid digitally in service, 2 to 3"
+2026-11-22,TUN,dpi.pay--g2p-functionality,fact,3,4,TUN-002;TUN-004,"Tunisia Post accounts for retirees, with about 65% of pensions withdrawn by ATM (African Manager, 2026-11-19), give a second digital stream beside AMEN transfers: 3 to 4"

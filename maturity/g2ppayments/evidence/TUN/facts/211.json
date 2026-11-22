@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-tun-minister-hemissi-presents-his-record-and-it-was-anything-but",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Tunisia Post manages about 970,000 accounts for disadvantaged families, low-income households and retirees, about 65% of pensions are withdrawn through ATMs and 400,000 e-wallets are active, per African Manager.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Tunisia Post accounts",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tunisia Post accounts",
+   "country_label": "Tunisia",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Tunisia Post",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
