@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-21-egy-national-data-centre-strategy-consultancy",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Minister Raafat Hindy told the FDC Summit in September 2026 that 20 international subsea cables cross Egypt, carrying 90% of internet traffic between Europe and Asia.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "international subsea cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
