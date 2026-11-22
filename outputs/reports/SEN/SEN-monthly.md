@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: SEN
-ledger_rows: 61
+ledger_rows: 64
 not_held: 2
-record: 00bad46395fb
+record: c515d69a9467
 ---
 
 # News, Oct – Nov 2026
@@ -141,6 +141,20 @@ Majority deputies in Senegal's National Assembly filed a proposal for a commissi
 **[JOJ : le dispositif de vidéosurveillance mis en place par l’Etat est conforme à la loi (CDP)](https://aps.sn/joj-le-dispositif-de-videosurveillance-mis-en-place-par-letat-est-conforme-a-la-loi-cdp/)** — Agence de Presse Sénégalaise (APS), 29 October 2026
 
 The president of Senegal's data protection commission, the CDP, said the state's video surveillance for the Youth Olympic Games had the commission's prior authorisation and complies with the law. The state had widened its existing camera network in Dakar, its suburbs and Saly ahead of the games. The stated aim is the security of people and property.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection commission caseload</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Avis trimestriel N°03-2026 (Juillet - Août - Septembre)](https://sppsyrftszniuaicadvk.supabase.co/storage/v1/object/public/public_docs/avis-trimestriels/avis-trimestriel-1795183821285.pdf)** — Commission de Protection des Données Personnelles (CDP), 20 November 2026
+
+Q3 2026: 214 files, 13 complaints, 5 inspections; facial-recognition CCTV refused; one complaint sent to prosecutor.
 
 </div>
 
@@ -962,11 +976,43 @@ The African Development Bank rated Senegal's Diamniadio Digital Technology Park 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Goin' Digital incubation programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Goin’ Digital Demo Day: 21 Senegalese start-ups in Dakar](https://www.socialnetlink.org/2026/11/20/goin-digital-demo-day-21-senegalese-startups/)** — Socialnetlink, 20 November 2026
+
+21 incubated start-ups pitch on 24 Nov 2026; EU, BMZ and MEAE funding; EUR 100,000 seed disbursed; 47.6% women-led.
+
+</div>
+
+</div>
+
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#research-institutions">Research institutions</a>
 </nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Strengthening the reliability of information in West Africa (GIZ project)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[West Africa disinformation project: 4 more years](https://www.socialnetlink.org/2026/11/21/giz-west-africa-information-reliability-project-new-phase-senegal-hub/)** — Socialnetlink, 21 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+
+New regional phase launches 8 Dec 2026 in Dakar; current phase EUR 11.7m incl. EUR 4m EU; new budget undisclosed.
+
+</div>
+
+</div>
 
 ### Research institutions
 
