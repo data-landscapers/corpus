@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6881d5c5ef30
+record: 504a7f71f0ec
 ---
 
 # News, Oct – Nov 2026
@@ -156,6 +156,22 @@ Angola's Ministry of Public Administration, Labour and Social Security launched 
 **[Justice au Bénin : les États-Unis mobilisent 2,3 millions de dollars pour moderniser les tribunaux](https://lanouvelletribune.info/2026/11/justice-au-benin-les-etats-unis-mobilisent-23-millions-de-dollars-pour-moderniser-les-tribunaux/)** — La Nouvelle Tribune, 8 November 2026
 
 Benin's justice ministry received equipment worth $2.3 million funded by the United States in Cotonou on 6 November 2026. The equipment is meant to modernise courts in the north of the country. Minister Yvon Détchénou said the criminal record certificate has been available online in three clicks since 1 November and that all jurisdictions are connected to the internet.
+
+</div>
+
+</div>
+
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SIGIBé integrated tax management system and e-services portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[One platform for all? What Benin's e-tax rollout to small businesses can tell us about inclusive digital public infrastructure | ICTD](https://ictd.ac/general/benins-e-tax-rollout-small-businesses-digital-public-infrastructure/)** — International Centre for Tax and Development (ICTD), 19 November 2026
+
+Researchers at the International Centre for Tax and Development reported on 19 November 2026 on an October visit to small-business tax centres in Cotonou. Registration on the SIGIBé platform now requires the national identification number, and confirmation codes go by email. Many small taxpayers lack an email address, so help desks file for them.
 
 </div>
 
@@ -911,6 +927,20 @@ The Clinton Health Access Initiative reports on digitising health campaigns in B
 **[Africa Health Data Forum Opens in Nairobi with Focus on Strengthening Health Systems Through Data](https://www.health.go.ke/africa-health-data-forum-opens-nairobi-focus-strengthening-health-systems-through-data)** — Ministry of Health (Kenya), 10 November 2026
 
 The Health Cabinet Secretary announced a National Intelligence and Analytics Centre under the Digital Health Agency. He opened the first Africa Health Data Forum in Nairobi. Over 33 million Kenyans have registered with the Social Health Authority through Afya Yangu.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SHA Oncology Module</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government streamlines cancer treatment with single SHA approval](https://www.kenyanews.go.ke/government-streamlines-cancer-treatment-with-single-sha-approval/)** — Kenya News Agency, 20 November 2026
+
+Kenya's Health Cabinet Secretary announced on 20 November 2026 that cancer patients no longer need Social Health Authority approval for each treatment cycle. One approval covers a care plan at any contracted hospital. The reform runs through the Digital Health Agency's SHA Oncology Module for 54,465 patients.
 
 </div>
 

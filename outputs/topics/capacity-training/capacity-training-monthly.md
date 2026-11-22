@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZMB; ZWE
-record: 031145cbfc02
+record: 84fed79fe3fe
 ---
 
 # News, Oct – Nov 2026
@@ -224,6 +224,20 @@ KADEA and ULB-Solvay Lifelong Learning, with DR Congo's Agence pour le Développ
 **[Communications Minister: Joint efforts to boost youth digital skills](https://sis.gov.eg/en/media-center/news/communications-minister-joint-efforts-to-boost-youth-digital-skills/)** — State Information Service (Egypt), 8 October 2026
 
 Egypt's communications and labour ministries signed a memorandum to digitise the labour ministry's work and run digital-skills programmes for its staff, graduates and job seekers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Netherlands Knowledge Empowers You (KEY) technical-talent programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government invests in technical talent in partner countries](https://www.government.nl/latest/news/2026/11/20/government-invests-in-technical-talent-in-partner-countries)** — Ministry of Foreign Affairs (Netherlands), 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+The Dutch Ministry of Foreign Affairs announced on 20 November 2026 a EUR 150 million programme, Knowledge Empowers You, for 2027 to 2031. It trains technical talent, with a chip-sector focus, in seven initial countries including Egypt, Morocco and Nigeria. No allocation per country is stated.
 
 </div>
 
@@ -567,6 +581,20 @@ Morocco's General Directorate of Information Systems Security and the World Bank
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Netherlands Knowledge Empowers You (KEY) technical-talent programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government invests in technical talent in partner countries](https://www.government.nl/latest/news/2026/11/20/government-invests-in-technical-talent-in-partner-countries)** — Ministry of Foreign Affairs (Netherlands), 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+The Dutch Ministry of Foreign Affairs announced on 20 November 2026 a EUR 150 million programme, Knowledge Empowers You, for 2027 to 2031. It trains technical talent, with a chip-sector focus, in seven initial countries including Egypt, Morocco and Nigeria. No allocation per country is stated.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -677,6 +705,20 @@ Nigeria's Federal Ministry of Education said on 16 November 2026 that its Nigeri
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Netherlands Knowledge Empowers You (KEY) technical-talent programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government invests in technical talent in partner countries](https://www.government.nl/latest/news/2026/11/20/government-invests-in-technical-talent-in-partner-countries)** — Ministry of Foreign Affairs (Netherlands), 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
+
+The Dutch Ministry of Foreign Affairs announced on 20 November 2026 a EUR 150 million programme, Knowledge Empowers You, for 2027 to 2031. It trains technical talent, with a chip-sector focus, in seven initial countries including Egypt, Morocco and Nigeria. No allocation per country is stated.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -702,6 +744,21 @@ MTN Rwanda signed a memorandum of understanding with the National Cyber Security
 **[Rwanda cyber authority boosts security with Airtel, MTN](https://www.connectingafrica.com/cybersecurity/rwanda-cyber-authority-boosts-security-with-airtel-mtn)** — Connecting Africa, 26 October 2026
 
 Rwanda's National Cyber Security Authority partnered with Airtel Rwanda to support the University of Rwanda's CyberHub with student internships, alongside an MoU with MTN Rwanda. No value or term was stated.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Coding academy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda Coding Academy opens new campus](https://www.newtimes.co.rw/article/40618/news/education/rwanda-coding-academy-opens-new-campus)** — The New Times (Rwanda), 20 November 2026
+
+Rwanda's Ministry of Education inaugurated a new Rwanda Coding Academy campus in Nyabihu District on 20 November 2026. It has laboratories for software, cybersecurity and embedded systems, and dormitories. The record says the Korean agency KOICA built it; no cost was reported.
 
 </div>
 

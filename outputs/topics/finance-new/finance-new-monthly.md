@@ -1,10 +1,10 @@
 ---
 title: New investments — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: finance.new
-places: DZA; AGO; BEN; BWA; CIV; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
-record: 24046d380917
+places: DZA; AGO; BEN; BWA; COG; CIV; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
+record: 579ad8ccfb9d
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: 24046d380917
 <a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#botswana">Botswana</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -148,6 +150,22 @@ Benin's land agency ANDF launched the TERRA BÉNIN and PPMEC II programmes in Co
 **[Botswana Tech Fund Announces First Cohort of Accelerator Program](https://www.bwtechzone.com/2026/10/botswana-tech-fund-announces-first.html)** — BW TechZone, 7 October 2026
 
 The Botswana Tech Fund named seven startups for the first cohort of its accelerator in October 2026: three from Botswana and one each from Namibia, Zambia, South Africa and Zimbabwe. Each startup can receive up to £100,000, with £25,000 on entry and £75,000 on meeting agreed targets. The three-month programme runs partly in Gaborone and partly online.
+
+</div>
+
+</div>
+
+## Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital acceleration project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Congo/Numérique : Le budget 2027 du Patn arrêté à plus de 18 milliards de Fcfa](https://www.aci.cg/congo-numerique-le-budget-2027-du-patn-arrete-a-plus-de-18-milliards-de-fcfa/)** — Agence Congolaise d'information (ACI), 21 November 2026
+
+The steering committee of Congo's digital acceleration project (PATN) approved a 2027 work plan and budget of FCFA 18.369 billion on 18 November 2026. The 2026 budget is FCFA 8.240 billion, revised down from more than FCFA 21 billion. The project is due to close in December 2027, and the E-Gouv platform is its main expected result.
 
 </div>
 

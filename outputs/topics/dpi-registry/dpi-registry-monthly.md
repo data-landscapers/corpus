@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: dpi.registry
-places: DZA; AGO; BEN; BFA; CMR; CPV; CAF; COM; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bc775dbad26b
+places: DZA; AGO; BEN; BFA; CMR; CPV; CAF; TCD; COM; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: f57ad4ce6feb
 ---
 
 # News, Oct – Nov 2026
@@ -23,6 +23,8 @@ record: bc775dbad26b
 <a href="#cape-verde">Cape Verde</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#central-african-republic">Central African Republic</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#chad">Chad</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#comoros">Comoros</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -281,13 +283,45 @@ Cabo Verde resumed its building cadastre survey in Tarrafal and São Salvador do
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Civil Status Management Software (LGEC)</p>
+<p class="monthly-story__name">Civil-status management software (MbetiNet, formerly LGEC)</p>
 
 <div class="bulletin-item" markdown="1">
 
 **[Training of civil registrars in CAR to protect civil status](https://yacanews.com/2026/11/rca-forme-agents-detat-civil-a-la-gestion-des-archives-et-protection?lang=en)** — Ya Ça News, 17 November 2026
 
 The European MODERO project, run by CIVIPOL, trained 28 officers in Bangui from 11 to 13 November 2026. They came from civil registration centres, the National Archives and the courts. Topics were registry archiving and digitising records in the civil status management software.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Modernisation de l’état civil en RCA : des avancées significatives malgré des défis persistants - Oubangui Médias](https://oubanguimedias.com/2026/11/19/modernisation-de-letat-civil-en-rca-des-avancees-significatives-malgre-des-defis-persistants/)** — Oubangui Médias, 19 November 2026
+
+The steering committee of the EU-funded MODERO civil-registration project in the Central African Republic met in Bangui on 17 November 2026. The project reported 184,563 births registered and 130,000 acts digitised between January and September 2026. The committee adopted a new roadmap and named the civil-status software MbetiNet.
+
+</div>
+
+</div>
+
+## Chad
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National business register and one-stop shop</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : l'ANIE s'allie à CASHI pour digitaliser les paiements du Guichet Unique](https://dari-infos.com/tchad-lanie-sallie-a-cashi-pour-digitaliser-les-paiements-du-guichet-unique/)** — Dari Infos, 19 November 2026
+
+Chad's investment and export agency ANIE signed a partnership with CASHI Tchad, Dari Infos reported on 19 November 2026. Entrepreneurs and investors are to pay business-formalities fees online at the agency's one-stop shop. No start date was given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : Vers une simplification numérique des procédures de création d'entreprises](https://www.tachad.com/tchad-vers-une-simplification-numerique-des-procedures-de-creation-dentreprises/)** — Tachad, 20 November 2026
+
+Chad's national investment and export agency, ANIE, signed an agreement with KONOOM SA in N'Djamena on 19 November 2026. It integrates mobile payment into the digital one-stop shop for company creation. Entrepreneurs and investors will be able to pay registration fees online.
 
 </div>
 
@@ -616,6 +650,20 @@ Ghana's Ministry of Gender, Children and Social Protection swore in a Data Revie
 **[Only 61% of Ghanaian children have birth certificates](https://3news.com/news/birth-certificates-ghana-children-unicef)** — 3News, 6 November 2026
 
 About 61% of Ghanaian children hold a birth certificate, UNICEF's representative Andy Brooks said on 4-5 November 2026, 3News reported. He partly blamed weak telecommunications and digital registration that remote communities find hard to use. The Births and Deaths Registry registered 588,972 births by the end of 2025. That is 73.4% of the expected total for the year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Land Use Planning and Management Information System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Beyond Flood Prevention: How Decentralisation & Spatial Planning Strengthen Local Governance in Ghana](https://www.giz.de/en/regions/africa/ghana/news/beyond-flood-prevention-how-decentralisation-spatial-planning-strengthen-local-governance-ghana)** — GIZ, 19 November 2026
+
+GIZ reported on 19 November 2026 on its PAIReD local-governance programme, which works with 60 district assemblies in Ghana. The planning authority has revised the national zoning guidelines and planning standards, with 1,589 participants in working sessions. The land-use information system LUPMIS is being rebuilt as a web platform; a prototype was shown in November 2025.
 
 </div>
 
@@ -1404,6 +1452,21 @@ Zanzibar plans to link Zan ID card details to land ownership records through LAR
 **[Foncier : après la nomination de son DG, l'ANDF face au défi de son opérationnalisation](https://www.togofirst.com/fr/gouvernance-economique/1510-20352-foncier-apres-la-nomination-de-son-dg-l-andf-face-au-defi-de-son-operationnalisation)** — Togo First, 15 October 2026
 
 Togo's council of ministers named notary Dominique Méméssilé Gnazo as the first director general of the national land agency, ANDF, on 6 October 2026, Togo First reported. The decree creating the agency dates from September 2025. The cadastre and land registry services keep working until the agency is fully operational. The World Bank approved $150 million in December 2025 to support the reform.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil-status records digitised with UNDP support</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[27 155 actes d'état civil numérisés : ce que le partenariat entre le Togo et le PNUD a déjà permis](https://r-freenews.com/27-155-actes-detat-civil-numerises-ce-que-le-pa/)** — R Free News, 19 November 2026
+
+A workshop in Lomé on 18 and 19 November 2026 evaluated the 2024 to 2027 cooperation programme between Togo and the UNDP. The UNDP said it helped digitise 27,155 civil-status records in 2025. The conclusions are to shape the 2028 to 2032 programme.
 
 </div>
 

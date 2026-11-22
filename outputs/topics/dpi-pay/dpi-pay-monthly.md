@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 82382017e4da
+record: cfbc655eb5d7
 ---
 
 # News, Oct – Nov 2026
@@ -1896,6 +1896,20 @@ The Nigerian Revenue Service has set deadlines for virtual asset service provide
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AfriGO domestic card scheme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AfriTech 6.0: AfriGO Urges Shift From Bank Account Expansion To Active Digital Transactions](https://independent.ng/afritech-6-0-afrigo-urges-shift-from-bank-account-expansion-to-active-digital-transactions/)** — Independent Newspaper Nigeria, 21 November 2026
+
+AfriGO, the domestic card scheme, said at the AfriTech 6.0 conference that it is nearing 10 million issued cards after less than two years of core operations. It is integrating the national identity commission's multipurpose ID card with its payment infrastructure. AfriGO's executive director said the next task for financial inclusion is usage rather than access.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -2310,6 +2324,20 @@ The Central Bank of Sudan's director general of policies spoke to Sudan Horizon 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Instant Payment System / national payment switch (NIPS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CBoS Governor Witnesses Signing of National Instant Payment System (NIPS) Contract](https://sudanhorizon.com/cbos-governor-witnesses-signing-of-national-instant-payment-system-nips-contract/)** — Sudan Horizon, 19 November 2026
+
+The Central Bank of Sudan signed a contract in Khartoum on 19 November 2026 to establish a National Instant Payment System. The other parties are the National Technical Company and Electronic Banking Services. The system is to allow real-time transfers between banks and e-wallets at any hour; no value or timeline was stated.
+
+</div>
+
+</div>
+
 ## Tanzania
 
 <div class="monthly-story" markdown="1">
@@ -2559,6 +2587,20 @@ Stanbic Bank Uganda launched an embedded-finance model in Kampala on 17 November
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile money accounts, registered and active</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mobile money accounts hit 62m, but 23m go three months without transacting](https://www.monitor.co.ug/uganda/business/markets/mobile-money-accounts-hit-62m-but-23m-go-three-months-without-transacting--5677234)** — Daily Monitor, 20 November 2026
+
+Bank of Uganda data reported on 20 November 2026 show 62.12 million registered mobile money accounts in September 2026, up 17.5% year on year. Accounts used in the previous 90 days numbered 39.10 million, or 62.9% of the total. That share was 67.3% a year earlier.
+
+</div>
+
+</div>
+
 ## Zambia
 
 <div class="monthly-story" markdown="1">
@@ -2626,6 +2668,20 @@ The Smart Zambia Institute opened talks with MTN MoMo on adding mobile money to 
 **[Airtel Zambia Launches Mobile Service for Buying Lusaka Securities Exchange Shares](https://techafricanews.com/2026/11/18/airtel-zambia-launches-mobile-service-for-buying-lusaka-securities-exchange-shares/)** — Tech Africa News, 18 November 2026
 
 Airtel Zambia launched Airtel Money Buy Shares, letting customers buy Lusaka Securities Exchange shares with Airtel Money on the MyAirtel App. The heads of the Securities and Exchange Commission and LuSE attended the launch.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital lending for farm inputs under FISP</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Govt explores use of digital lending platforms to finance agricultural inputs](https://diggers.news/business/2026/11/21/govt-explores-use-of-digital-lending-platforms-to-finance-agricultural-inputs/)** — News Diggers, 21 November 2026
+
+Zambia's Ministry of Finance and National Planning said it is exploring digital lending platforms to finance inputs for smallholder farmers. The finance, agriculture and technology ministers met mobile money operators on 20 November 2026. The talks are part of a proposal to move the Farmer Input Support Programme from grants to loans.
 
 </div>
 

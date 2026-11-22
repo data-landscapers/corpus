@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: data.statistics
-places: DZA; BWA; BDI; CAF; COG; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA; ZWE
-record: d378c54e4be1
+places: DZA; BWA; BDI; CAF; TCD; COG; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA; ZWE
+record: c4ec08d82ed3
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: d378c54e4be1
 <a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#central-african-republic">Central African Republic</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#chad">Chad</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -176,6 +178,22 @@ A World Bank supervision mission led by statistician Gervais Chamberlin Yama vis
 **[ICASEES : Lancement de la deuxième vague de collecte de l'EHCVM2 en République centrafricaine](https://www.icasees.org/index.php/actualites/430-icasees-lancement-de-la-deuxieme-vague-de-collecte-de-lehcvm2-en-republique-centrafricaine)** — ICASEES, 17 October 2026
 
 ICASEES launched the second collection wave of the Central African Republic's second harmonised household living-conditions survey (EHCVM2) at a press briefing in Bangui on 17 October 2026. The wave extends the survey to the Fertit region (Haute-Kotto, Vakaga and Bamingui-Bangoran), which the July-to-September first wave had left out for security reasons, and steps up household sensitisation; the survey runs under the World Bank-backed HISWACA-SOP2 project.
+
+</div>
+
+</div>
+
+## Chad
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Harmonising and Improving Statistics in West and Central Africa (HISWACA, PHASAOC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : la Banque mondiale évalue les avancées du système statistique national](https://tchadinfos.com/2026/11/19/tchad-la-banque-mondiale-evalue-les-avancees-du-systeme-statistique-national/)** — Tchadinfos, 19 November 2026
+
+The World Bank's division director for Chad, Nicola Pontara, visited the statistics institute INSEED on 19 November 2026 to review the PHASAOC project. The Bank finances the project at USD 105 million. INSEED's director-general said work under way includes the third population census, an enterprise census and a consumption survey.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Literacy — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: capacity.literacy
-places: AGO; CPV; CIV; COD; EGY; GMB; GHA; GIN; LBR; MLI; MAR; NAM; NGA; RWA; SYC; SSD; SDN; TGO; TUN; UGA
-record: 4dac961709ea
+places: AGO; CPV; CIV; COD; EGY; GMB; GHA; GIN; LBR; MLI; MAR; NAM; NGA; RWA; SEN; SYC; SSD; SDN; TGO; TUN; UGA
+record: 7b6a0e7bea07
 ---
 
 # News, Oct – Nov 2026
@@ -37,6 +37,8 @@ record: 4dac961709ea
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#rwanda">Rwanda</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#seychelles">Seychelles</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -94,6 +96,20 @@ Cabo Verde's economy and digital transition minister, António Baptista, said at
 **[MTN Côte d’Ivoire inaugure un centre numérique à l’Université Félix Houphouët-Boigny](https://intellivoire.net/mtn-ci-inaugure-centre-numerique-universite-fhb/)** — Intellivoire, 4 November 2026
 
 MTN Côte d'Ivoire opened its first QG Digital centre at Université Félix Houphouët-Boigny on 30 October 2026. It is the first of the digital spaces planned at 20 Ivorian universities under a FCFA 500 million programme.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Strengthening the reliability of information in West Africa (GIZ)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[West Africa disinformation project: 4 more years](https://www.socialnetlink.org/2026/11/21/giz-west-africa-information-reliability-project-new-phase-senegal-hub/)** — Socialnetlink, 21 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+GIZ's project on the reliability of information in Senegal and Côte d'Ivoire is to enter a four-year regional phase, with Senegal as hub. Germany and the Netherlands, supported by the European Union, have committed to extending it. The launch is set for 8 December 2026 in Dakar, and the budget for the new phase has not been disclosed.
 
 </div>
 
@@ -292,6 +308,22 @@ Google.org committed US$600,000 to the TechSocietal Development Foundation for N
 **[Rwanda Marks Completion of Smart Education Project Phase I and Launches the DigiTruck Initiative](https://www.mineduc.gov.rw/news-detail/rwanda-marks-completion-of-smart-education-project-phase-i-and-launches-the-digitruck-initiative)** — Ministry of Education (Rwanda), 27 October 2026
 
 The Ministry of Education, with the Ministry of ICT and Innovation and Huawei, marked the end of Phase I of the Smart Education Project. Phase I connected 1,500 schools to high-speed internet and built two data centres. The DigiTruck, a mobile solar-powered classroom, was launched to give free digital skills training to more than 5,000 people across 30 districts over three years. The page carries no date of its own.
+
+</div>
+
+</div>
+
+## Senegal
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Strengthening the reliability of information in West Africa (GIZ project)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[West Africa disinformation project: 4 more years](https://www.socialnetlink.org/2026/11/21/giz-west-africa-information-reliability-project-new-phase-senegal-hub/)** — Socialnetlink, 21 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+
+GIZ's project on the reliability of information in Senegal and Côte d'Ivoire is to enter a four-year regional phase, with Senegal as hub. Germany and the Netherlands, supported by the European Union, have committed to extending it. The launch is set for 8 December 2026 in Dakar, and the budget for the new phase has not been disclosed.
 
 </div>
 

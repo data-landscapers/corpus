@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: gov.regional
-places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 200f589f6c75
+places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; DJI; EGY; GNQ; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
+record: 08e438a3d450
 ---
 
 # News, Oct – Nov 2026
@@ -25,6 +25,8 @@ record: 200f589f6c75
 <a href="#comoros">Comoros</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#djibouti">Djibouti</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -408,6 +410,22 @@ Burkina Faso's telecoms regulator signed bilateral roaming agreements with its c
 **[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats.
+
+</div>
+
+</div>
+
+## Djibouti
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">African Forum of Official Journals (FAJO)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti veut doter l'Afrique d'un réseau permanent des journaux officiels](https://www.adi.dj/article/139127)** — Agence djiboutienne d'information (ADI), 21 November 2026
+
+Djibouti will host the second African Forum of Official Gazettes on 16 and 17 December 2026, the national news agency reported on 21 November. Organisers plan a cooperation charter, a Djibouti Declaration and a permanent secretariat. The forum is to discuss common publication standards and interoperability between national gazette platforms.
 
 </div>
 

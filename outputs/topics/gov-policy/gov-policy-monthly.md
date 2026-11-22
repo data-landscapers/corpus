@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 72d227d0a4e7
+record: 22b9a9051334
 ---
 
 # News, Oct – Nov 2026
@@ -329,6 +329,14 @@ Prime Minister Mostafa Madbouly announced the closing recommendations of Egypt F
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[منتدى مصر 2026 يستهدف رفع الخدمات الحكومية على منصة مصر الرقمية إلى 300 خدمة](https://www.youm7.com/story/2026/11/20/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D9%85%D8%B5%D8%B1-2026-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9/7625919)** — Youm7, 20 November 2026
+
+Youm7 reported on 20 November 2026 a plan to raise Digital Egypt from 250 to 300 government services before 30 June 2027. It is costed at about EGP 4.2 billion. The communications ministry and other bodies are to choose services to digitise and link their databases.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -348,6 +356,14 @@ Youm7 reported on 7 November 2026 from the opening session of Cairo ICT 2026. Th
 **[وزير الاتصالات: نمو القطاع 24.5% و12 مليار دولار مستهدف الصادرات الرقمية.. رأفت هندى: نستهدف رفع مساهمة القطاع لـ 8% من الناتج المحلى بحلول 2030.. وإنتاج 12 مليون هاتف محمول خلال 2026.. 400 خدمة حكومية مستهدفة](https://www.youm7.com/story/2026/11/7/وزير-الاتصالات-نمو-القطاع-24-5-و12-مليار-دولار-مستهدف/7608559)** — Youm7, 7 November 2026
 
 Youm7 published an interview on 7 November 2026 with Egypt's ICT minister, Raafat Hindy. The minister said the sector grew 24.5 per cent and aims for 8 per cent of GDP by 2030. The minister also described a plan for seven hyperscale data centres and a target of 400 national e-services.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt allocates $440,000 consultancy budget to draft national data centre strategy](https://itmagazineme.com/egypt-allocates-440000-consultancy-budget-to-draft-national-data-centre-strategy/)** — IT Magazine ME, 21 November 2026
+
+Egypt's ICT ministry has set aside USD 440,000 for a consultant to draft a national data-centre strategy in three months. IT Magazine ME reported it on 21 November 2026, citing Masrawy. Drafting starts in December 2026, with launch planned for early 2027. In September the minister had aimed for late 2026.
 
 </div>
 

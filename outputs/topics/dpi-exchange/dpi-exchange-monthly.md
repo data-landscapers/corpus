@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: dpi.exchange
-places: DZA; AGO; BEN; BFA; BDI; CMR; CIV; COD; EGY; GAB; GIN; GNB; KEN; LSO; MLI; MRT; MOZ; NAM; NGA; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bb144d123173
+places: DZA; AGO; BEN; BFA; BDI; CMR; CIV; COD; EGY; GAB; GIN; GNB; KEN; LSO; LBY; MLI; MRT; MUS; MOZ; NAM; NGA; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: efb1cb062e7b
 ---
 
 # News, Oct – Nov 2026
@@ -38,9 +38,13 @@ record: bb144d123173
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#lesotho">Lesotho</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mali">Mali</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritania">Mauritania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -319,6 +323,28 @@ Egypt's Cabinet approved a draft resolution on 18 November 2026 establishing a C
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Egypt-Libya labour-ministry electronic link and worker database</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ليبيا ومصر تتفقان على تفعيل الربط الإلكتروني بين وزارتي العمل في البلدين،](https://lana.gov.ly/post.php?id=370414&lang=ar)** — Libyan News Agency (LANA), 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
+
+Libya's labour minister, Ali al-Abed, said on 19 November 2026 that he and his Egyptian counterpart agreed to activate an electronic ministry link. It includes a database of Egyptian workers in Libya and of those seeking work there. Joint technical committees are to start the following week.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير العمل: ربط إلكتروني وقاعدة بيانات مشتركة لتنظيم تشغيل العمالة المصرية في ليبيا](https://www.youm7.com/story/2026/11/20/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%B1%D8%A8%D8%B7-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%88%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D8%A9/7625973)** — Youm7, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
+
+Egypt's labour minister said on 20 November 2026 that Egypt and Libya signed a labour agreement in Cairo on 19 November. It provides for a shared database of Egyptian workers in Libya and for reactivating the electronic link between the two labour ministries. Egypt is preparing labour offices in Tripoli and Benghazi, and one in Dubai.
+
+</div>
+
+</div>
+
 ## Gabon
 
 <div class="monthly-story" markdown="1">
@@ -421,6 +447,30 @@ Lesotho's ICT ministry and UNICEF held a workshop in Berea on 20-23 October 2026
 
 </div>
 
+## Libya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Libya-Egypt labour-ministry electronic link and worker database</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ليبيا ومصر تتفقان على تفعيل الربط الإلكتروني بين وزارتي العمل في البلدين،](https://lana.gov.ly/post.php?id=370414&lang=ar)** — Libyan News Agency (LANA), 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Libya's labour minister, Ali al-Abed, said on 19 November 2026 that he and his Egyptian counterpart agreed to activate an electronic ministry link. It includes a database of Egyptian workers in Libya and of those seeking work there. Joint technical committees are to start the following week.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير العمل: ربط إلكتروني وقاعدة بيانات مشتركة لتنظيم تشغيل العمالة المصرية في ليبيا](https://www.youm7.com/story/2026/11/20/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%B1%D8%A8%D8%B7-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%88%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D8%A9/7625973)** — Youm7, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+Egypt's labour minister said on 20 November 2026 that Egypt and Libya signed a labour agreement in Cairo on 19 November. It provides for a shared database of Egyptian workers in Libya and for reactivating the electronic link between the two labour ministries. Egypt is preparing labour offices in Tripoli and Benghazi, and one in Dubai.
+
+</div>
+
+</div>
+
 ## Mali
 
 <div class="monthly-story" markdown="1">
@@ -456,6 +506,30 @@ Bluesquare reported on 13 October 2026 that Mauritania's DIGISANTE MRT programme
 **[How many systems is your national health program really connecting?](https://www.linkedin.com/posts/bluesquarehub_interoperability-digitalhealth-hl7fhir-activity-7520863636727316481-egWC)** — Bluesquare, 27 October 2026
 
 Bluesquare said on 27 October 2026 that the DIGISANTE MRT programme in Mauritania brings together the health and digital ministries, the population registry authority and professional bodies. It listed early lessons. Data access splits into four decisions, and response time drives architecture. A national trust bus such as X-Road suits only a country that has or requires one.
+
+</div>
+
+</div>
+
+## Mauritius
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Education system data infrastructure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bidding Document (Single-Stage) for the Analysis, Design, Implementation and Commissioning of a Higher Education Data Lake, IFB No: HEC/ONB/03/10/2026](https://publicprocurement.govmu.org/publicprocurement/wp-content/uploads/2026/10/OAB_Data_Lake_Project_FINAL-12-Oct-2026.docx)** — Higher Education Commission, Mauritius, 13 October 2026
+
+Mauritius's Higher Education Commission issued a single-stage bidding document on 13 October 2026 for a higher education data lake. It covers 45 institutions, 10 public and 35 private, which submit data through a platform or APIs. The contractor has nine months from the contract's effective date.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Analysis, Design, Implementation and Commissioning of a Higher Education Data Lake: Addendum No 2](https://publicprocurement.govmu.org/publicprocurement/wp-content/uploads/2026/11/Addendum_No_2__Data_Lake_19_11_2026.pdf)** — Higher Education Commission, Mauritius, 19 November 2026
+
+The Higher Education Commission of Mauritius issued Addendum No 2 on 19 November 2026 to its data lake tender, answering 120 bidder queries. Hosting outside Mauritius needs the Commission's prior written approval and compliance with section 36 of the Data Protection Act 2017. The Commission provides no inventory of its systems, so bidders price from stated planning assumptions.
 
 </div>
 
@@ -804,6 +878,28 @@ COMESA's Yellow Card cross-border motor insurance scheme is piloting online sale
 **[Technology to boost Grow Zambia Agenda](https://www.lusakatimes.com/2026/11/20/technology-to-boost-grow-zambia-agenda/)** — Lusaka Times, 20 November 2026
 
 SMART Zambia Institute and the UNDP signed a memorandum of understanding on digital public infrastructure in Lusaka on 20 November 2026. It sits under the Africa Accelerator for DPI. It covers digital identity, payments, data exchange and shared platforms. The UNDP cited digitised timber traceability and Ministry of Agriculture interoperability as work already supported.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNDP and SMART Zambia Institute Sign Strategic Partnership to Accelerate Zambia's Digital Transformation](https://www.undp.org/zambia/press-releases/undp-and-smart-zambia-institute-sign-strategic-partnership-accelerate-zambias-digital-transformation)** — United Nations Development Programme, 20 November 2026
+
+UNDP and the SMART Zambia Institute signed a memorandum of understanding on digital public infrastructure in Lusaka on 20 November 2026. It sits under UNDP's Africa Accelerator for DPI. The release lists Ethiopia, Rwanda, Malawi and Sierra Leone as other participants.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ATAF African-built automatic exchange of tax information platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ATAF and Zambia partner on tax technology](https://theafricandaily.com/321415/business/tax/ataf-and-zambia-partner-on-tax-technology/)** — The African Daily, 21 November 2026
+
+The African Tax Administration Forum and the Zambia Revenue Authority signed a Memorandum of Agreement in Lusaka on 20 November 2026. It covers an African-built IT platform for the automatic exchange of tax information among African tax administrations. The World Bank Group is providing technical support.
 
 </div>
 

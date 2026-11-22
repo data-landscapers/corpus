@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2814574b8632
+record: 2a8842c50dfe
 ---
 
 # News, Oct – Nov 2026
@@ -238,6 +238,20 @@ Angola's Institute for Administrative Modernisation (IMA) opened an internationa
 **[AGT pretende integrar dois milhões de contribuintes no sistema de facturação electrónica em 2027](https://rna.ao/rna.ao/2026/11/04/agt-pretende-integrar-dois-milhoes-de-contribuintes-no-sistema-de-facturacao-electronica-em-2027/)** — RNA, 4 November 2026
 
 Angola's tax administration AGT aims to bring two million taxpayers onto electronic invoicing in 2027. More than 80,000 already issue e-invoices. On 4 November 2026 AGT met taxpayers and specialists in Luanda to assess the system before its second phase.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online border-visa applications (migration service)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Visto de fronteira em Angola passa a ser digital no SME - Diário 94](https://www.diario94.com/noticia/sme-digitaliza-pedidos-de-visto-de-fronteira-em-angola-621c)** — Diário 94, 21 November 2026
+
+Angola's Serviço de Migração e Estrangeiros has made border-visa applications fully digital, ending paper submission, according to Diário 94 on 21 November 2026. Applicants register at sme.gov.ao and profiles are activated within 48 hours. A validated request receives a RUPE payment reference.
 
 </div>
 
@@ -749,6 +763,28 @@ Le Point (lepoint.cd) published a guide on 13 November 2026 to i-impôts, the DR
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-Services RDC public-services portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Modernisation de l’administration publique : le Président Tshisekedi demande de renforcer la relation État-administrés - ACP](https://acp.cd/nation/modernisation-de-ladministration-publique-le-president-tshisekedi-demande-de-renforcer-la-relation-etat-administres/)** — Agence Congolaise de Presse (ACP), 19 November 2026
+
+President Tshisekedi opened the second annual public-service conference in Kinshasa on 19 November 2026. He asked for a civil service judged on results and said the new E-Services RDC platform should shorten delays. He asked the government to set responsibilities, means and deadlines for the conference's recommendations.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : le Gouvernement annonce la création de la plateforme numérique « E-Services RDC » - ACP](https://acp.cd/nation/rdc-le-gouvernement-annonce-la-creation-de-la-plateforme-numerique-e-services-rdc/)** — Agence Congolaise de Presse (ACP), 19 November 2026
+
+On 19 November 2026 the Deputy Prime Minister for the civil service announced E-Services RDC in Kinshasa. The portal publishes the procedures and official fees of public services, in four national languages, French and English. It is available through the Mbulamatari app and is also to list public-sector job openings.
+
+</div>
+
+</div>
+
 ## Egypt
 
 <div class="monthly-story" markdown="1">
@@ -1053,6 +1089,14 @@ Gabon's civil-service ministry asked parliament for FCFA 5.38bn for 2027, exclud
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Projet Gabon Digital : Le Ministère de la Fonction Publique et la Banque mondiale examinent les avancées et les perspectives de mise en œuvre du SIGRH](https://fonction-publique.gouv.ga/projet-gabon-digital-le-ministere-de-la-fonction-publique-et-la-banque-mondiale-examinent-les-avancees-et-les-perspectives-de-mise-en-oeuvre-du-sigrh/)** — Ministère de la Fonction publique et du Renforcement des capacités (Gabon), 19 November 2026
+
+Gabon's civil-service minister, Laurence Ndong, met the World Bank's representative in Libreville on 19 November 2026, during its mid-term review of Gabon Digital. She asked to start building the integrated HR system SIGRH in December 2026. She wants a pilot from March 2027 and operation by the end of 2027.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1167,6 +1211,20 @@ The Gambia Public Procurement Authority held training from 8 to 10 October 2026 
 **[Senegalese Fintech InTouch Signs 10-Year Partnership With Gambia To Strengthen Tax Revenue Collection](https://gambiaj.com/economy/finance/senegalese-fintech-intouch-signs-10-year-partnership-with-gambia-to-strengthen-tax-revenue-collection/)** — The Gambia Journal, 31 October 2026
 
 The Gambia's finance ministry and the Gambia Revenue Authority signed a 10-year agreement with Senegalese fintech InTouch on 30 October 2026, after an international tender with three bidders. InTouch will run a platform that monitors transactions and processes government payments, giving the state real-time revenue data. Online gaming is the first sector targeted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SICPA Digital Market Intelligence fuel-surveillance platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gambia Revenue Authority Collecting Revenue for National Development](https://www.gra.gm/news/7a597617-e44d-11f1-96d0-029254d29bb1)** — Gambia Revenue Authority, 19 November 2026
+
+The Gambia Revenue Authority said on 19 November 2026 that a delegation visited SICPA in Switzerland from 16 to 20 November. SICPA holds a 2023 concession in The Gambia; topics included mobile-money onboarding for revenue monitoring, tax-stamp authentication and fuel testing. SICPA's AI-assisted fuel surveillance platform is not yet deployed there.
 
 </div>
 
@@ -2656,6 +2714,20 @@ South Africa's Electoral Commission used 56,000 voter management devices in the 
 **[PRASA puts people at the centre of its digital transformation strategy](https://www.itweb.co.za/article/prasa-puts-people-at-the-centre-of-its-digital-transformation-strategy/VgZeyqJlDEJ7djX9)** — ITWeb South Africa, 17 November 2026
 
 PRASA launched three digital passenger channels on 17 November 2026: the myprasa.com City to City site, WhatsApp and the PRASA Connect app. Registered card holders can load weekly and monthly travel remotely. Ticket purchase will be piloted in the Western Cape from 25 November 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Transformation of Government Roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SA strategises to use AI for tangible benefits for citizens](https://www.sanews.gov.za/south-africa/sa-strategises-use-ai-tangible-benefits-citizens)** — SAnews (South African Government News Agency), 19 November 2026
+
+South Africa's Minister in the Presidency, Khumbudzo Ntshavheni, spoke in San Jose, California, during the President's Silicon Valley visit, reported on 19 November 2026. She said the visit's outcomes would inform a review of the Digital Transformation Roadmap. Government is weighing AI guidelines with safeguards, which she said would not be optional.
 
 </div>
 

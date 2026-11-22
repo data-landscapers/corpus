@@ -1,10 +1,10 @@
 ---
 title: Energy — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: infra.energy
 places: BDI; CMR; COG; MOZ; SLE; TZA
-record: bb20cc8a46a4
+record: a1758565e525
 ---
 
 # News, Oct – Nov 2026

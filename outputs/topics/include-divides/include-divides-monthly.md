@@ -1,10 +1,10 @@
 ---
 title: Digital divides — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: include.divides
 places: AGO; BFA; COD; SWZ; ETH; GMB; GHA; LBR; NGA; ZAF; TZA; ZWE
-record: 5cb4aca581fc
+record: 402f199740fe
 ---
 
 # News, Oct – Nov 2026
@@ -359,5 +359,19 @@ Finance Minister Mthuli Ncube proposed on 19 November 2026 cutting customs duty 
 
 </div>
 
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Smartphone ownership among mobile phone users</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zimbabwe scraps mobile customs duty](https://itweb.africa/article/zimbabwe-scraps-mobile-customs-duty/kYbe9MXbBAnvAWpG)** — ITWeb Africa, 20 November 2026
+
+Zimbabwe's finance minister proposed in the 2027 National Budget to cut customs duty on mobile phones from 25% to zero. The ICT minister backs the measure, saying device cost is a barrier to digital inclusion. The budget gives the ICT ministry ZiG1 billion, double its 2026 allocation.
+
+</div>
 
 </div>

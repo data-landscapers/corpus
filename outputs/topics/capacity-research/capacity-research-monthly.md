@@ -1,10 +1,10 @@
 ---
 title: Research institutions — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: capacity.research
 places: BFA; ETH; KEN; LBY; MWI; MRT; SEN; SLE; ZAF; UGA
-record: a570c711b1ff
+record: 96f4b5eb5db3
 ---
 
 # News, Oct – Nov 2026

@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: finance.mou
-places: BEN; BWA; BDI; CIV; COD; EGY; ETH; MUS; MOZ; NGA; SEN; ZAF; SDN; TZA; UGA
-record: 8dd71170375b
+places: BEN; BWA; BDI; CIV; COD; EGY; ETH; MUS; MOZ; NGA; SEN; ZAF; SDN; TZA; TUN; UGA
+record: 0f0e3dbddc6a
 ---
 
 # News, Oct – Nov 2026
@@ -37,6 +37,8 @@ record: 8dd71170375b
 <a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
 </nav>
@@ -310,6 +312,22 @@ Angola and Tanzania signed a memorandum of understanding on telecommunications a
 **[Tanzania na Estonia kuimarisha ushirikiano katika teknolojia za kidijitali](https://www.mawasiliano.go.tz/news/tanzania-na-estonia-kuimarisha-ushirikiano-katika-teknolojia-za-kidijitali)** — Ministry of Communication and Information Technology, Tanzania, 17 November 2026
 
 Tanzania and Estonia agreed on 17 November 2026 to deepen cooperation on e-services and digital systems. Estonia accepted Tanzania's proposal for a specific joint project. Ministers Kairuki and Pakosta held the talks on the sidelines of the ITU Plenipotentiary Conference in Doha.
+
+</div>
+
+</div>
+
+## Tunisia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Tunisia-Indonesia health cooperation memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tunisie-Indonésie : la télémédecine et la fabrication de médicaments au cœur des discussions](https://www.lapresse.tn/2026/11/20/tunisie-indonesie-la-telemedecine-et-la-fabrication-de-medicaments-au-coeur-des-discussions/)** — La Presse de Tunisie, 20 November 2026
+
+Tunisia's health minister met Indonesia's ambassador on 20 November 2026 to discuss telemedicine, the digital hospital, health records, health AI, vaccines and medical devices. The two sides said they would continue preparing a memorandum of understanding. No agreement was signed.
 
 </div>
 

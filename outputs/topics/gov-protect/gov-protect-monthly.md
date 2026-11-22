@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: gov.protect
-places: DZA; AGO; BEN; BFA; CMR; COG; COD; EGY; SWZ; GAB; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a23aa8016856
+places: DZA; AGO; BEN; BFA; CMR; COG; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: ef51af78f530
 ---
 
 # News, Oct – Nov 2026
@@ -27,6 +27,8 @@ record: a23aa8016856
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -229,6 +231,38 @@ Egypt's Personal Data Protection Center opened its electronic portal for accredi
 **[2026 ESCCOM Annual Report](https://esccom.org.sz/wp-content/uploads/2026/10/ESCCOM-Annual-Report-2026_Final_30.10.2026-Compressed.pdf)** — Eswatini Communications Commission, 1 October 2026
 
 The Eswatini Communications Commission has published its 2026 annual report. It covers telecoms and postal market performance, quality of service, spectrum management and the regulator's work on data protection and cybersecurity rules.
+
+</div>
+
+</div>
+
+## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ethiopian Airlines ShebaMiles breach of November 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopian Airlines reports cyberattack a week after Air Botswana](https://techcabal.com/2026/11/18/ethiopian-airlines-reports-cyberattack/)** — TechCabal, 18 November 2026
+
+Ethiopian Airlines told ShebaMiles frequent-flyer members on 18 November 2026 that some of their information may have been exposed in a cyberattack. It gave no date, data or numbers, and said it had no evidence that financial information was accessed. Air Botswana suffered a ransomware attack on 3 November.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Hackers Breach ShebaMiles, Not Its Miles, Airline Says](https://addisfortune.news/news-alert/hackers-breach-shebamiles-not-its-miles-airline-says)** — Addis Fortune, 19 November 2026
+
+Ethiopian Airlines told members on 18 November 2026 of a cybersecurity incident at its ShebaMiles loyalty programme, detected on 17 November. Its chief commercial officer said thousands of accounts were reached and nothing was altered. The airline had not said whether it had notified the Ethiopian Communications Authority, as the 2024 law requires within 72 hours.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopian Airlines Breach Puts 72-Hour Data Reporting Rule Under Scrutiny](https://cioafrica.co/ethiopian-airlines-breach-puts-72-hour-data-reporting-rule-under-scrutiny/)** — CIO Africa, 20 November 2026
+
+Ethiopian Airlines told ShebaMiles members on 18 November 2026 that unauthorised access to customer information had occurred. Addis Fortune reported on 19 November that fewer than 8,000 accounts were reached. Proclamation 1321/2024 requires notice to the Communications Authority within 72 hours, and the airline had not said whether it gave notice.
 
 </div>
 
@@ -688,6 +722,20 @@ The president of Senegal's data protection commission, the CDP, said the state's
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection commission caseload</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Avis trimestriel N°03-2026 (Juillet - Août - Septembre)](https://sppsyrftszniuaicadvk.supabase.co/storage/v1/object/public/public_docs/avis-trimestriels/avis-trimestriel-1795183821285.pdf)** — Commission de Protection des Données Personnelles (CDP), 20 November 2026
+
+Senegal's data protection commission released its third-quarter 2026 notice on 20 November. It handled 214 files from July to September and rejected four requests, including facial-recognition video surveillance at an Auchan Senegal store. Of 13 complaints, one went to the public prosecutor, and five inspections were carried out.
+
+</div>
+
+</div>
+
 ## Sierra Leone
 
 <div class="monthly-story" markdown="1">
@@ -889,6 +937,14 @@ Tunisia's Forum Chawki Gaddes for digital rights condemned the spread on social 
 **[وزارة تكنولوجيات الاتصال: إجراءات جديدة لتوفير حماية أكبر للأطفال على شبكة الإنترنت](https://www.alchourouk.com/article/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A3%D9%83%D8%A8%D8%B1-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B9%D9%84%D9%89-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA)** — Al Chourouk, 5 October 2026
 
 Tunisia's communications ministry announced child-protection measures resting on a telecommunications regulator's decision of 10 June 2026. Internet providers must offer parental controls covering site blacklists, device management and access-time limits, tell subscribers about them and write a child-protection clause into contracts.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tunisie : les outils de contrôle parental sur Internet seront gratuits](https://www.lapresse.tn/2026/11/19/tunisie-les-outils-de-controle-parental-sur-internet-seront-gratuits/)** — La Presse de Tunisie, 19 November 2026
+
+Tunisia's communication technologies minister, Sofiene Hemissi, told parliament on 19 November 2026 that parental-control tools will be free. A June 2026 decision of the national telecommunications authority requires operators and internet providers to offer them. He said the national AI strategy has been validated and its implementation has begun.
 
 </div>
 

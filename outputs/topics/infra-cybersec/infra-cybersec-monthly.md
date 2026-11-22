@@ -1,15 +1,17 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: infra.cybersec
-places: BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; ZMB; ZWE
-record: ea89152399d9
+places: DZA; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; ZMB; ZWE
+record: 9cbe10b73d0d
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#algeria">Algeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#botswana">Botswana</a>
@@ -76,10 +78,28 @@ record: ea89152399d9
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#togo">Togo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zimbabwe">Zimbabwe</a>
 </nav>
+
+## Algeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Child online-protection cyber-vigilance cell (green line 1111)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ONPPE : Installation de la cellule de vigilance cybernétique](https://news.radioalgerie.dz/fr/node/99439)** — Radio Algérienne, 19 November 2026
+
+Aida Mecheri, Algeria's national delegate for child protection, announced on 19 November 2026 that the child-protection body ONPPE had installed a cyber-vigilance cell. The cell monitors online risks to children and coordinates the response. Its legal framework and composition were presented the same day.
+
+</div>
+
+</div>
 
 ## Benin
 
@@ -108,6 +128,20 @@ Benin's National Centre for Digital Investigations, CNIN, which reports to the P
 **[Air Botswana probes suspected cyberattack](https://www.itweb.africa/article/air-botswana-probes-suspected-cyberattack/GxwQDq1DLy8MlPVo)** — ITWeb Africa, 5 November 2026
 
 Air Botswana activated incident-response procedures after a suspected ransomware attack on 3 November 2026. Unauthorised access reached internal systems holding employee information. The airline said booking and flight-operations systems were unaffected and that it had begun meeting its Data Protection Act 2024 obligations.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Child online protection guidelines</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Children demand safer Digital Space](https://dailynews.gov.bw/news-detail/94230)** — Botswana Press Agency (BOPA) / DailyNews, 21 November 2026
+
+Botswana's communications regulator is drafting Child Online Protection Guidelines with children and other stakeholders. It said so on 21 November 2026, World Children's Day. The child welfare minister called online protection a duty shared by parents, government, schools and communities.
 
 </div>
 
@@ -625,7 +659,23 @@ Madagascar's digital development ministry handed computers on 21 October 2026 to
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Agence nationale de la Securite des Systemes d'Information</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[Mali : le CNT ratifie à l’unanimité la création de l’agence de cybersécurité](https://beninwebtv.bj/mali-cnt-ratifie-creation-agence-cybersecurite-anssi-119-voix/)** — Bénin Web TV, 21 November 2026
+
+Mali's National Transitional Council voted on 19 November 2026, by 119 votes in favour, to ratify the ordinance creating the national information-systems security agency (ANSSI). The agency is to protect critical digital infrastructure and coordinate the response to cyberattacks. The responsible committee asked for more staff, technical means and funding for it.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">ML-CERT national incident response centre</p>
+
 
 <div class="bulletin-item" markdown="1">
 
@@ -1144,6 +1194,22 @@ Sudan's prime minister issued a decision on 19 October 2026 forming a National M
 **[Pakistan, Sudan to strengthen security, digital registration efforts](https://thenews.pk/print/1447584-pakistan-sudan-to-strengthen-security-digital-registration-efforts)** — The News International, 7 November 2026
 
 Pakistan and Sudan agreed to widen cooperation on security, cybercrime, police training and civil registration after interior ministers met in Islamabad, The News reported on 7 November 2026. They agreed in principle to sign a cybercrime memorandum. Pakistan's Interior Minister Mohsin Naqvi said Nadra support had helped Sudan issue 36 million citizenship cards and nine million national identity cards.
+
+</div>
+
+</div>
+
+## Togo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Togo Cyber Arena</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité : le Togo organise son premier grand rendez-vous national](https://www.republiquetogolaise.tg/gestion-publique/2011-12515-cybersecurite-le-togo-organise-son-premier-grand-rendez-vous-national)** — République Togolaise, 20 November 2026
+
+Togo's national cybersecurity agency, ANCy, held the first Togo Cyber Arena in Lomé on 19 and 20 November 2026, supported by GIZ. The programme included a national capture-the-flag final, a demonstration of the national incident response centre and workshops.
 
 </div>
 

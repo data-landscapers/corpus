@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: finance.budget
-places: BEN; CIV; GAB; LBR; LBY; MAR; SEN; SYC; TUN
-record: 92379b952f89
+places: BEN; CIV; GAB; LBR; LBY; MAR; MOZ; SEN; SYC; TUN
+record: a492f855133c
 ---
 
 # News, Oct – Nov 2026
@@ -21,6 +21,8 @@ record: 92379b952f89
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -134,6 +136,22 @@ The Central Bank of Libya's statement of state revenue and spending for January 
 **[وزارة الذكاء الاصطناعي تراهن على توفير نماذج مغربية ومنصة سيادية](https://www.hespress.com/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%aa%d9%88%d9%81%d9%8a-1840366.html)** — Hespress, 16 November 2026
 
 Morocco's AI and digital minister, Ahmed Rahhou, set out his ministry's 2027 programme to parliament, Hespress reported on 16 November 2026. It includes national language models for Darija and Amazigh. It also includes a sovereign AI platform. By mid-October the ministry had committed 6.31% of its 2026 budget.
+
+</div>
+
+</div>
+
+## Mozambique
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitalisation projects in the Integrated Investment Programme 2026-30</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo Prevê Investir 845 M$ em 18 Projectos de Digitalização](https://www.diarioeconomico.co.mz/2026/11/21/desenvolvimento-2/governo-preve-investir-845-m-em-18-projectos-de-digitalizacao/)** — Diário Económico, 21 November 2026
+
+Mozambique's Planning and Development Minister, Salim Valá, said on 20 November 2026 that the Integrated Investment Programme 2026-30 reserves about USD 845 million for 18 digitalisation projects. He did not name the projects or give timetables. He also put e-money accounts at 131 per 100 adults in 2026.
 
 </div>
 

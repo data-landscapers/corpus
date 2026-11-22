@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: tech.innovate
 places: DZA; AGO; BEN; BFA; BDI; CAF; CIV; COD; EGY; SWZ; ETH; GMB; GHA; KEN; MWI; MRT; MUS; MAR; NAM; NGA; SEN; SLE; ZAF; SSD; TZA; TUN; ZWE
-record: 9d9e0cae25f9
+record: b335c961acd3
 ---
 
 # News, Oct – Nov 2026
@@ -494,6 +494,20 @@ GIZ's Digital-Y project in Mauritania launched a support programme for nine digi
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BCM Fintech Program</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[البنك المركزي الموريتاني يختتم هاكاثون التكنولوجيا المالية ويكرّم الفرق الفائزة](https://www.ami.mr/archives/273515)** — Agence mauritanienne d’information (AMI), 20 November 2026
+
+The Central Bank of Mauritania closed its fintech hackathon in Nouakchott on 20 November 2026. About 100 entrants competed in an ideas track and a sandbox track. Six teams won, in digital credit, buy-now-pay-later and crowdfunding, with support from the PAFIID programme and GIZ.
+
+</div>
+
+</div>
+
 ## Mauritius
 
 <div class="monthly-story" markdown="1">
@@ -586,6 +600,20 @@ BusinessDay reported on 18 November 2026 commentary urging Nigeria to learn from
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">iDICE Startup Bridge</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG backs eight startups through iDICE Growth Lab to access N1bn in equity funding](https://businessday.ng/news/article/fg-backs-eight-startups-through-idice-growth-lab-to-access-n1bn-in-equity-funding/)** — BusinessDay (Nigeria), 19 November 2026
+
+Nigeria's iDICE Startup Bridge began its Growth Lab with eight startups, BusinessDay reported on 19 November 2026. Each is to receive $100,000 in equity, about N134 million. The Bank of Industry implements the programme, co-financed by the African Development Bank, Agence Française de Développement and the Islamic Development Bank.
+
+</div>
+
+</div>
+
 ## Senegal
 
 <div class="monthly-story" markdown="1">
@@ -611,6 +639,20 @@ The AIMS Jëmmal Incubator at the AIMS campus in Dakar closed its first cohort o
 **[Diamniadio : la BAD fâchée par le projet de Parc des technologies numériques](https://www.seneweb.com/fr/news/Economie/diamniadio-la-bad-fachee-par-le-projet-de-parc-des-technologies-numeriques_n_999004173.html)** — Seneweb, 20 November 2026
 
 The African Development Bank rated Senegal's Diamniadio Digital Technology Park unsatisfactory in a report dated 10 November 2026, according to Libération via Seneweb. It puts works at 86.4% complete across the four main contracts. The training centre is about 55% complete, and delivery of the data centre's IT equipment is unconfirmed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Goin' Digital incubation programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Goin’ Digital Demo Day: 21 Senegalese start-ups in Dakar](https://www.socialnetlink.org/2026/11/20/goin-digital-demo-day-21-senegalese-startups/)** — Socialnetlink, 20 November 2026
+
+Senegal's digital economy ministry announced a demo day in Dakar on 24 November 2026. It closes an incubation programme for 21 start-ups run from May to October. The ministry reports that 47.6% are women-led and EUR 100,000 in seed funding has been disbursed.
 
 </div>
 

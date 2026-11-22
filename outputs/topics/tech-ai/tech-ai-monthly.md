@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 67d5e6eb12d5
+record: b5959917d5d9
 ---
 
 # News, Oct – Nov 2026
@@ -1866,13 +1866,14 @@ President Ramaphosa is leading a delegation to Silicon Valley to inform South Af
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Presidential AI mission: 90-day initiatives</p>
+<p class="monthly-story__name">National AI action plan</p>
+
 
 <div class="bulletin-item" markdown="1">
 
-**[‘We must act fast’: Ramaphosa sets 90-day deadline for AI rollout plan](https://www.citizen.co.za/news/south-africa/we-must-act-fast-ramaphosa-sets-90-day-deadline-ai-rollout-plan/)** — The Citizen, 16 November 2026
+**[Address by President Cyril Ramaphosa at the conclusion of the Working Visit to Silicon Valley San Jose, United States of America](https://www.presidency.gov.za/address-president-cyril-ramaphosa-conclusion-working-visit-silicon-valley-san-jose-united-states)** — The Presidency of the Republic of South Africa, 20 November 2026
 
-President Cyril Ramaphosa told about 300 South Africans, including nine ministers, on 16 November 2026 that the delegation on his Silicon Valley AI visit should pick a focused set of AI initiatives within 90 days of returning. Each should have clear responsibilities and measurable outcomes. He named investment, research and skills partnerships, and AI in public services.
+President Ramaphosa closed a Silicon Valley working visit on 20 November 2026 by announcing a national AI action plan within 90 days. A small Presidency-led team will deliver it. He set four priorities: AI in public services, AI infrastructure investment, local AI capability and risk preparedness.
 
 </div>
 

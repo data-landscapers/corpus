@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: tech.industry
-places: BEN; EGY; GMB; GIN; KEN; NGA; SEN; ZAF
-record: e9e4eaee8532
+places: BEN; EGY; GMB; GIN; KEN; NGA; SEN; SLE; ZAF; TGO
+record: 0dd316e54f99
 ---
 
 # News, Oct – Nov 2026
@@ -24,7 +24,11 @@ record: e9e4eaee8532
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sierra-leone">Sierra Leone</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#togo">Togo</a>
 </nav>
 
 ## Benin
@@ -213,6 +217,23 @@ Senegal's telecommunications ministry signed a US$150 million partnership conven
 
 </div>
 
+## Sierra Leone
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unique Group mobile phone and electronics assembly plant</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[Government and Unique Group Partner to Advance Local Mobile Phone Assembly, Digital Inclusion and Job Creation in Sierra Leone](https://mocti.gov.sl/government-and-unique-group-partner-to-advance-local-mobile-phone-assembly-digital-inclusion-and-job-creation-in-sierra-leone/)** — Ministry of Communication, Technology and Innovation (Sierra Leone), 20 November 2026
+
+Sierra Leone's communications ministry signed an MoU with The Gambia's Unique Group, announced on 20 November 2026. They will explore a phone and electronics assembly facility at an indicative US$21.9 million, with a technical training centre. The ministry names smartphone cost as a barrier to mobile internet use.
+
+</div>
+
+</div>
+
 ## South Africa
 
 <div class="monthly-story" markdown="1">
@@ -270,6 +291,22 @@ ITWeb reported on 16 November 2026 that MTN Group and Telkom have entered discus
 **[Telkom SA SOC Limited - Cautionary Announcement: Discussions between Telkom and MTN Group Limited](https://www.businessday.co.za/sens/566318/)** — Telkom SA SOC Limited (JSE SENS), 16 November 2026
 
 Telkom SA issued a cautionary announcement on 16 November 2026 telling shareholders it had entered discussions with MTN Group after an approach by MTN. If they succeed, MTN would offer for all of Telkom's shares, with cash consideration and a share alternative contemplated. Terms are subject to negotiation, discussions are at an early stage and no transaction is certain.
+
+</div>
+
+</div>
+
+## Togo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital toolbox for very small and medium enterprises</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BoD-TPME : les start-up togolaises peuvent déposer leur logiciel](https://actulome.com/bod-tpme-appel-startups-solutions-numeriques/)** — ActuLome, 21 November 2026
+
+Togo has invited start-ups and developers to list locally built software on BoD-TPME, its public digital toolbox for small businesses, ActuLome reported on 21 November 2026. The call opened in the week of 20 November. No selection criteria or closing date have been published, and the catalogue had mainly listed international open-source tools.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
-record: 6a955dcf6618
+places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB
+record: 27d720226708
 ---
 
 # News, Oct – Nov 2026
@@ -89,6 +89,8 @@ record: 6a955dcf6618
 <a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zambia">Zambia</a>
 </nav>
 
 ## Algeria
@@ -1425,6 +1427,20 @@ Nigeria's Senate passed SB. 959 on third reading on 10 November 2026. The bill a
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Osun State Digital Economy Agency Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Osun, UK partner to strengthen digital economy](https://tribuneonlineng.com/osun-uk-partner-to-strengthen-digital-economy/amp/)** — Tribune Online, 21 November 2026
+
+The UK Foreign, Commonwealth and Development Office said at a workshop in Osogbo on 19 November 2026 that it would work with Osun State on digital policy and institutional reform. An Osun commissioner said the state plans about 10 technology hubs, and the UK-funded programme's implementer welcomed progress on the state's Digital Economy Agency Bill. No sum was stated.
+
+</div>
+
+</div>
+
 ## Senegal
 
 <div class="monthly-story" markdown="1">
@@ -1888,6 +1904,22 @@ Uganda's Forum for Democratic Change threatened to sue over plans to give the Ug
 **[Startup policies are underway, but what about funding for the young innovators?](https://www.monitor.co.ug/uganda/news/national/startup-policies-are-underway-but-what-about-funding-for-the-young-innovators--5654650)** — Daily Monitor, 1 November 2026
 
 Uganda's trade ministry is finalising a startup policy, the Daily Monitor reported on 1 November 2026. It goes to cabinet next. Startup Uganda, an association of support organisations, plans to use Uganda Innovation Week to bring investors and innovators together.
+
+</div>
+
+</div>
+
+## Zambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Dedicated artificial-intelligence legislation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mutati Hails Absa Innovation Hub for Empowering Young Entrepreneurs in Livingstone](https://efficacynews.africa/2026/11/19/mutati-hails-absa-innovation-hub-for-empowering-young-entrepreneurs-in-livingstone/)** — Efficacy News, 19 November 2026
+
+Zambia's Minister of Technology and Science, Felix Mutati, visited the Absa Innovation Hub in Livingstone, reported on 19 November 2026. He said government is developing an AI policy and law and reviewing data protection towards a Data Management Act. He also described plans with the private sector for an AI-enabled data centre.
 
 </div>
 

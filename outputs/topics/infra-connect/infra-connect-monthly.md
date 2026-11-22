@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: 4535120226fb
+record: 3efc95354b4b
 ---
 
 # News, Oct – Nov 2026
@@ -290,6 +290,14 @@ The African Telecommunications Union moved its IPv6 testbed for Botswana forward
 **[BTC Partners Starlink to Launch Direct-to-Mobile Satellite Service in Botswana](https://techafricanews.com/2026/11/20/btc-starlink-direct-to-mobile-satellite-service-botswana/)** — Tech Africa News, 20 November 2026
 
 Botswana Telecommunications Corporation announced on 20 November 2026 a partnership with Starlink for BTC Satellite, a direct-to-mobile service for compatible phones where terrestrial coverage is limited. No launch date, pricing or supported devices had been announced.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Starlink brings satellite-to-mobile to Botswana](https://itweb.africa/article/starlink-brings-satellite-to-mobile-to-botswana/Gb3BwMWaGzDv2k6V)** — ITWeb Africa, 20 November 2026
+
+Botswana Telecommunications Corporation and Starlink plan to launch a satellite-to-mobile service, BTC Satellite, commercially in early 2027, ITWeb Africa reported on 20 November 2026. The company says it will cover the whole country for standard 4G smartphones. The Democratic Republic of the Congo launched a similar service after an August 2026 partnership between Airtel Africa and SpaceX.
 
 </div>
 
@@ -2892,6 +2900,20 @@ Workonline Communications opened its first Ugandan point of presence at Raxio's 
 **[Savanna Targets One Million New Fibre Connections in East Africa](https://nilepost.co.ug/businesses/388110/savanna-targets-one-million-new-fibre-connections-in-east-africa)** — Nile Post, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 Savanna Telecom announced plans on 17 November 2026 for one million more fibre home passes across Uganda, Tanzania and Kenya in 2027. This would double its coverage to over two million homes. It reports over 250,000 active fibre-to-the-home subscribers, 16,000km of fibre built and 8,000km under construction. FiberHome is its equipment partner.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kalangala Connect Lake Victoria subsea cable</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda launches first Lake Victoria submarine internet cable](https://www.monitor.co.ug/uganda/news/national/uganda-launches-first-lake-victoria-submarine-internet-cable-5677782)** — Daily Monitor, 20 November 2026
+
+Uganda launched its first submarine fibre-optic cable under Lake Victoria, the Daily Monitor reported on 20 November 2026. The Kalangala Connect cable runs six kilometres from Bukakkata on the mainland to Bogoma on Buggala Island. It is meant to improve connectivity in the Ssese Islands.
 
 </div>
 
