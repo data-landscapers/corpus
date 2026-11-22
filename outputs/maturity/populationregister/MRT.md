@@ -6,7 +6,7 @@
 
 **Updated from vital events.** [The government procedures portal, updated on 21 November 2023, sets out how a child born to Mauritanian parents is enrolled in the register](<https://procedures.gov.mr/fr/procedure/1105>). Enrolment is free at citizen reception centres. In March 2025 [a magistrates' club official referred to civil-status facts recorded in the population register](<https://ami.mr/fr/archives/267622>).
 
-**Source for others.** No source found since October 2023 says other systems take records from the population register. [The Budget directorate has set 31 January 2027 as the deadline for civil, military and parliamentary retirees to enrol in the register or lose their pension](<https://kassataya.com/mauritanie-quand-la-modernisation-administrative-devient-une-menace-sociale/>).
+**Source for others.** No source found since October 2023 says other systems take records from the population register. [The Budget directorate has set 31 January 2027 as the deadline for retirees to enrol in the register](<https://kassataya.com/mauritanie-quand-la-modernisation-administrative-devient-une-menace-sociale/>). A retiree who misses it loses the pension.
 
 ***Also on file***. [Registre National des Documents Sécurisés](<https://kassataya.com/ministre-de-linterieur-lenrolement-de-la-population-est-devenu-un-service-public-permanent-qui-garantit-le-droit-de-tous-les-citoyens-a-lenregistrement/>); [Registre biométrique national (ANRPTS)](<https://procedures.gov.mr/fr/procedure/1105>).
 
