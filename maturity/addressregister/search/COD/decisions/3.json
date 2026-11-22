@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "address", "aspect": "", "fact": "", "title": "", "publisher": "", "published": "", "date_source": "source", "why_not": "Postcode portal in a pilot phase; a postcode list with no addresses, though it names an addressing-infrastructure aim."}
+{
+ "select": true,
+ "sub_indicator": "address",
+ "aspect": "addressing",
+ "fact": "On 9 October 2025 the minister of posts said the SCPT had published the postal codes of all the Republic's administrative entities.",
+ "title": "Journée mondiale de la poste : appel à l'unité lancé",
+ "publisher": "ACP",
+ "published": "2025-10-10",
+ "date_source": "source",
+ "why_not": ""
+}

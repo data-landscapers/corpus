@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "aspect": "standing",
+ "fact": "Rwanda's national UPR report of 12 November 2025 says revision of the Access to Information Law is underway, and that since 2021 twenty-two awareness campaigns on Law No. 04/2013 reached 3,040 people.",
+ "title": "National report submitted pursuant to Human Rights Council resolutions 5/1 and 16/21: Rwanda",
+ "publisher": "United Nations Human Rights Council (Government of Rwanda)",
+ "published": "2025-11-12",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": ""
 }

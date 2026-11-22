@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "law",
+ "aspect": "standing",
+ "fact": "The Council of Ministers approved on 30 December 2021 the bill establishing the regime of access to and reuse of administrative documents and information, in force 180 days after publication.",
+ "title": "Proposta de Lei que aprova o Regime de Acesso e Reutilização de Documentos e Informações Administrativas",
+ "publisher": "Conselho de Ministros, Cabo Verde",
+ "published": "2021-12-30",
+ "date_source": "source",
+ "why_not": "staging lint: capture is a Wayback copy filed under the ministry URL"
+}

@@ -1,11 +1,1 @@
-{
- "select": true,
- "sub_indicator": "law",
- "aspect": "reach",
- "fact": "The Commission du droit d'accès à l'information's report for March 2019 to March 2024 says it received 358 complaints under Law 31.13, 88 of them in 2023 and 27 in January-March 2024.",
- "title": "تقرير لجنة الحق في الحصول على المعلومات: مارس 2019 - مارس 2024",
- "publisher": "Commission du droit d'accès à l'information (CDAI)",
- "published": "2025",
- "date_source": "proxy",
- "why_not": ""
-}
+{"select": false, "sub_indicator": "law", "aspect": "", "fact": "", "title": "", "publisher": "", "published": "", "date_source": "source", "why_not": "already-held: the CDAI 2019-2024 report is held as raw/2025/2025-12-01-mar-cdai-rapport-commission-acces-information-2019-2024.md and this is its press release, undated in the text"}

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ca.go.ke/ministry-embarks-reforms-turn-around-postal-corporation-kenya,held,held as raw/2025/2025-10-10-postal-corporation-reforms-national-addressing.md,,0,,
+2,https://ict.go.ke/kenya-advances-plans-digital-national-addressing-system,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
+3,https://www.mygov.go.ke/postal-corporation-set-digital-transformation-new-national-addressing-system,unfetchable,"HTTP 404; Wayback HTTP 429, not checked",,0,,
+4,https://posta.co.ke/wp-content/uploads/2024/02/CSP-2023-2027-4.pdf,fetched,,scripts/.workroot/study/addressregister/cache/KEN/4.txt,31300,pdf,
+5,https://www.kebs.org/wp-content/uploads/2024/10/Public-review-Draft-_KS-3016_2024_National-Addressing.pdf,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
+6,https://www.citizen.digital/business/posta-increases-mpost-address-price-from-ksh400-to-ksh9450-n346122,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+7,https://nairobi.go.ke/nairobi-county-to-roll-out-physical-addressing-system,fetched,,scripts/.workroot/study/addressregister/cache/KEN/7.txt,366,html,"Nairobi County to roll out physical addressing system with precise physical identifiers for Locations, streets, residential and other property | Nairobi City County"
+8,https://ca.go.ke/national-addressing-system-kenya,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,

@@ -1,11 +1,11 @@
 {
  "select": true,
  "sub_indicator": "law",
- "aspect": "reach",
- "fact": "The Médiateur de la République's 2020 report says ordinance 2011-22 makes it responsible for access to information, records 8 complaints on access to public information in 2020 and a planning workshop on implementing the ordinance on 18 September 2020.",
- "title": "Rapport annuel d'activités 2020",
- "publisher": "Médiateur de la République du Niger",
- "published": "2021",
+ "aspect": "standing;reach",
+ "fact": "The 2025 country brief states that access to information in Niger is regulated by Ordinance No. 2011-22 but there is no active oversight body.",
+ "title": "Country Brief Niger 2025",
+ "publisher": "Transparency International Defence and Security",
+ "published": "2025",
  "date_source": "proxy",
  "why_not": ""
 }

@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing", "fact": "A 2024 article reviewing Angolan legislation lists Law 11/02 of 16 August 2002 on access to administrative documents as the law in force on access to information, while concluding there is no specific access to information law.", "title": "O acesso à Informação em Angola: Uma análise em torno do estado actual do direito à informação no país", "publisher": "Academicus Magazine", "published": "2024-04-29", "date_source": "source", "why_not": ""}

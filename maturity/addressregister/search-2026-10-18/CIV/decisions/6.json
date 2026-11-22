@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "address",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "states the database is to be integrated into other services' systems, a plan, not use"
+}

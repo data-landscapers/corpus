@@ -1,11 +1,11 @@
 {
  "select": true,
  "sub_indicator": "law",
- "aspect": "reach",
- "fact": "MISA Zimbabwe's 2024 annual report says the Zimbabwe Media Commission issued release orders to public institutions under the Freedom of Information Act.",
- "title": "MISA Zimbabwe 2024 Annual Report Now Available!",
- "publisher": "MISA Zimbabwe",
- "published": "2025-04-26",
- "date_source": "source",
+ "aspect": "reach;standing",
+ "fact": "The Zimbabwe Media Commission circular states the Freedom of Information Act was signed on 1 July 2020, regulations were gazetted as SI 229 of 2021 on 15 September 2021, and all entities must appoint information officers before 14 March 2022.",
+ "title": "Zimbabwe Media Commission General Circular Number 1 of 2021: Obligations of public entities, public commercial entities and statutory office",
+ "publisher": "Zimbabwe Media Commission",
+ "published": "2022",
+ "date_source": "proxy",
  "why_not": ""
 }

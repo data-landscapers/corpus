@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing;reach", "fact": "Organic Law No. 22 of 2016 on access to information was passed in March 2016 and the access to information authority was set up in 2017, and in August 2025 the government ordered its activities stopped, its premises closed and its staff moved elsewhere.", "title": "تونس: نهاية الشفافية وآخر ضمانات الديمقراطية", "publisher": "ARTICLE 19", "published": "2025-08-28", "date_source": "proxy", "why_not": ""}

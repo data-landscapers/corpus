@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing", "fact": "In August 2021 the Ministry of Culture and Information published draft media reform laws for consultation, including a commission to protect the right to information; they were not approved before the October 2021 coup.", "title": "Sudan: Freedom in the World 2023 Country Report", "publisher": "Freedom House", "published": "2023", "date_source": "source", "why_not": ""}

@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "address", "aspect": "", "fact": "", "title": "", "publisher": "", "published": "", "date_source": "source", "why_not": "Undated personal blog on finding addresses in Kinshasa; no government fact."}
+{
+ "select": true,
+ "sub_indicator": "address",
+ "aspect": "addressing",
+ "fact": "The UPU address format sheet for the DR Congo, dated September 2022, gives a 7-digit postcode of locality and province with urban and rural address examples.",
+ "title": "Congo (Dem. Rep.)",
+ "publisher": "Universal Postal Union",
+ "published": "2022-09",
+ "date_source": "source",
+ "why_not": ""
+}

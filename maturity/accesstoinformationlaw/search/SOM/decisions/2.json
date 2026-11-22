@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing", "fact": "On 27 September 2025 the Somali Media Association said Somalia still lacks an access-to-information law guaranteeing citizens and the press the legal right to obtain government information.", "title": "Somalia: Marking International Access to Information Day While Silencing the Truth", "publisher": "Somali Media Association (SOMA)", "published": "2025-09-27", "date_source": "source", "why_not": ""}

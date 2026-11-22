@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "address", "aspect": "", "fact": "", "title": "", "publisher": "", "published": "", "date_source": "source", "why_not": "Interview of 13 April 2025 on the Abidjan project; same facts as the selected k=1 and k=3."}
+{
+ "select": true,
+ "sub_indicator": "address",
+ "aspect": "used",
+ "fact": "La Poste and ONECI launched MaPoste on 16 January 2026, with a digital postal box linked to the national identification number mandatory from March 2026 and attached to a physical address.",
+ "title": "Côte d'Ivoire: Avoir une boîte postale sera obligatoire à partir du 1er mars 2026 pour chaque citoyen et chaque entreprise",
+ "publisher": "Le Méridien",
+ "published": "2026-01-18",
+ "date_source": "source",
+ "why_not": ""
+}

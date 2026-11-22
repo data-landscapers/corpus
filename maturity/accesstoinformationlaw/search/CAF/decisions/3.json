@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": false, "sub_indicator": "law", "aspect": "standing", "fact": "", "title": "L'accès à l'information, un droit encore bafoué en Afrique centrale", "publisher": "La Brève Online", "published": "2026-11-20", "date_source": "source", "why_not": "off-topic: regional piece on Congo and DRC, never names the Central African Republic."}

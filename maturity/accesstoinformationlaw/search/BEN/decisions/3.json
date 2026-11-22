@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "aspect": "standing",
+ "fact": "A law related to access to information was passed in 2015, though consistent application is not assured.",
+ "title": "Benin - LONDA 2025",
+ "publisher": "Paradigm Initiative",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
 }

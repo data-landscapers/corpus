@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "address", "aspect": "", "fact": "", "title": "", "publisher": "", "published": "", "date_source": "source", "why_not": "Lemba plate awareness report dated 19 February 2022; before October 2023, run by an NGO."}
+{
+ "select": true,
+ "sub_indicator": "address",
+ "aspect": "addressing",
+ "fact": "On 9 September 2023 the mayor of Likasi launched plot numbering across the whole city, with plates supplied by a mining company.",
+ "title": "Haut-Katanga : lancement à Likasi de l'opération de numérotation parcellaire",
+ "publisher": "ACP",
+ "published": "2023-09-09",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,8 +1,9 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://ciam.gov.ao/ao/noticia/3450,fetched,,scripts/.workroot/study/addressregister/cache/AGO/1.txt,816,html,Centro de Imprensa Aníbal de Melo
-2,https://luanda.gov.ao/web/noticias/processo-sobre-topon%C3%ADmia-em-luanda-re%C3%BAne-vice-governador-para-o-sector-pol%C3%ADtico-e-social-e-administradores-dos-municipios-de-talatona-e-kilamba-kiaxi,fetched,,scripts/.workroot/study/addressregister/cache/AGO/2.txt,98,html,Processo Sobre Toponímia Em Luanda Reúne Vice-Governador Para O Sector Político E Social E Administradores Dos Municipios De Talatona E Kilamba Kiaxi
-3,https://correiokianda.info/o-pais-sem-morada-a-crise-do-enderecamento-e-a-urgencia-da-georreferenciacao-em-angola,fetched,,scripts/.workroot/study/addressregister/cache/AGO/3.txt,845,html,O país sem morada: a crise do endereçamento e a urgência da georreferenciação em Angola
-4,https://angop.ao/noticias/politica/lei-da-codificacao-territoriais-harmoniza-legislacao-em-vigor/,unfetchable,"HTTP 503; Wayback HTTP 429, not checked",,0,,
-5,https://angolex.com/paginas/decreto-presidencial/regulamento-da-lei-da-toponimia-162a-19a.html,fetched,,scripts/.workroot/study/addressregister/cache/AGO/5.txt,2733,html,Decreto Presidencial n.Âº 162/19 - Regulamento da Lei da ToponÃmia
-6,https://minttics.gov.ao/ao/noticias/ministro-reafirma-necessidade-da-revisao-do-codigo-postal/,fetched,,scripts/.workroot/study/addressregister/cache/AGO/6.txt,437,html,"Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social - Notícias - MINISTRO REAFIRMA NECESSIDADE DA REVISÃO DO CÓDIGO POSTAL"
-7,https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf,held,held as raw/2026/2026-08-01-upu-general-addressing-issues.md,,0,,
+1,https://angop.ao/en/noticias/politica/falta-de-verbas-condiciona-implementacao-da-toponimia-no-zaire/,unfetchable,HTTP 503; no usable Wayback capture,,0,,
+2,https://angop.ao/noticias/politica/responsavel-defende-implementacao-efectiva-da-lei-de-toponimia/,unfetchable,HTTP 503; no usable Wayback capture,,0,,
+3,https://angop.ao/fr/noticias/politica/regiao-leste-inicia-processo-de-numeracao-de-residencias/,unfetchable,HTTP 503; no usable Wayback capture,,0,,
+4,https://angop.ao/en/noticias/sociedade/mat-capacita-tecnicos-provinciais-para-implementacao-da-toponimia/,fetched,,scripts/.workroot/study/addressregister/cache/AGO/4.txt,1089,html,MAT capacita técnicos provinciais para…
+5,https://angop.ao/en/noticias/sociedade/balombo-inicia-instalacao-de-placas-toponimicas-para-reforcar-identificacao-urbana/,unfetchable,HTTP 503; no usable Wayback capture,,0,,
+6,https://afrique54.net/2024/06/13/special-for-cafs-angola-to-regularize-capitals-street-names/,fetched,,scripts/.workroot/study/addressregister/cache/AGO/6.txt,770,html,Special for CAFS - Angola to regularize capital's street names
+7,https://angop.ao/noticias/tecnologia/ministro-reafirma-revisao-do-codigo-postal/,held,held as raw/2021/2021-08-09-ago-angop-revisao-codigo-postal.md,,0,,
+8,https://lex.ao/docs/presidente-da-republica/2019/decreto-presidencial-n-o-162-19-de-20-de-maio/,held,held as raw/2019/2019-05-20-decreto-presidencial-162-19-regulamento-da-lei-da-toponimia.md,,0,,

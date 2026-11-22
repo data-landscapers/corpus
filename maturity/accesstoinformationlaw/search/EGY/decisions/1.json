@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "aspect": "standing",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": "",
+ "fact": "The National Council for Human Rights submitted a memo on safeguards for a future access to information law to the Cabinet, the Ministry of State for Information and both houses, with no such law yet in force.",
+ "title": "«الحق في الحصول على المعلومات».. تفاصيل مذكرة القومي لحقوق الإنسان إلى الحكومة والبرلمان",
+ "publisher": "المصري اليوم",
+ "published": "2026-11-20"
 }

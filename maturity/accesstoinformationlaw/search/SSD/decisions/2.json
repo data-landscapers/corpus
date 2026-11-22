@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing;reach", "fact": "On 27 June 2025 the Secretary General of the Union of Journalists of South Sudan said the Access to Information Act is in place but is not being fully implemented or respected.", "title": "Information access still limited despite media laws- UJOSS SG", "publisher": "Eye Radio", "published": "2025-06-28", "date_source": "source", "why_not": ""}

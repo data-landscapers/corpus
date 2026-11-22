@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing", "fact": "Lesotho's government says the Constitution provides for access to information but a piece of legislation that implements this provision is not yet in place.", "title": "National report submitted pursuant to Human Rights Council resolutions 5/1 and 16/21: Lesotho", "publisher": "Government of Lesotho, UN Human Rights Council Working Group on the UPR", "published": "2025-02-13", "date_source": "source", "why_not": ""}

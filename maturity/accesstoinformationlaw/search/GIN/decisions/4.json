@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "aspect": "standing",
+ "fact": "Guinea's national report to the UPR (Geneva, April-May 2025) states the Government adopted Law L/2020/0027/AN of 19 December 2020 on the right of access to public information.",
+ "title": "A/HRC/WG.6/49/GIN/1 Rapport national, Guinée",
+ "publisher": "Conseil des droits de l'homme des Nations Unies",
+ "published": "2025-02-17",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": ""
 }

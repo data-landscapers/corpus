@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "address",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "proxy",
- "why_not": "states the database is to be integrated into other services' systems, a plan, not use"
+ "aspect": "addressing",
+ "fact": "The Council of Ministers of 26 February 2025 reported 14,279 streets identified in the Abidjan district, over 295,000 of 348,216 units surveyed, and validated a national numeric address code.",
+ "title": "Projet d'Adressage du District autonome d'Abidjan : à ce jour, 14 279 voies ont été identifiées",
+ "publisher": "Abidjan.net News / CICG-Côte d'Ivoire",
+ "published": "2025-02-28",
+ "date_source": "source",
+ "why_not": ""
 }

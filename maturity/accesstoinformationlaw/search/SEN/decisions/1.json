@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing;reach", "fact": "More than a year after law no. 2025-15 of 4 September 2025, journalists report that requests go unanswered beyond the legal 8 to 15 days and that the CONAI recourse body is not yet installed.", "title": "Accès à l'information : Un an après la loi, le mur du silence administratif persiste", "publisher": "Seneweb", "published": "2026-09-28", "date_source": "source", "why_not": ""}

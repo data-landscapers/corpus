@@ -1,1 +1,11 @@
-{"select": true, "sub_indicator": "address", "aspect": "addressing", "fact": "Kimbanseke commune in Kinshasa launched the sale of parcel numbering plates on 21 October 2025, a campaign of two to three years across its 46 quarters, already done in several quarters, to speed up address identification.", "title": "Kinshasa : la vente des plaques de numérotation de parcelles lancée dans une commune", "publisher": "Agence congolaise de presse (ACP)", "published": "2025-10-21", "date_source": "source", "why_not": ""}
+{
+ "select": false,
+ "sub_indicator": "address",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "off-topic: about toponym standardisation; states no fact on an address register, numbering or use by services."
+}

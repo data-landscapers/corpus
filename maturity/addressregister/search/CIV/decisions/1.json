@@ -1,11 +1,11 @@
 {
  "select": true,
  "sub_indicator": "address",
- "aspect": "addressing",
- "fact": "The Centrale d'adressage, set up at the BNETD, maintains the national address database (BD Adresse nationale); 11,521 plates and panels had been posted in the Abidjan district by end July 2025, and addressing has begun in Yamoussoukro, Korhogo and Daloa.",
- "title": "Adressage et Rénovation urbaine : la révolution en marche (BÂTIR, N°014)",
- "publisher": "Ministère de la Construction, du Logement et de l'Urbanisme",
- "published": "2025",
- "date_source": "source",
+ "aspect": "addressing;national",
+ "fact": "As of early 2026, 14,276 Abidjan streets were officially named, 290,805 occupancy-unit plates installed (95%), and the inland-city project PAVI extends addressing to Yamoussoukro, Bouaké, Korhogo and Daloa, targeting 15 regional hubs by 2030.",
+ "title": "Adressage des rues en Côte d'Ivoire : la ville prend enfin un nom et un numéro",
+ "publisher": "Abidjan Planet",
+ "published": "2026-03-04",
+ "date_source": "proxy",
  "why_not": ""
 }

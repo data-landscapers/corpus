@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "aspect": "standing",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": "",
+ "fact": "The NCHR eighteenth report (July 2024 to June 2025) states that to date no law regulating access to information has been enacted.",
+ "title": "The Eighteenth Report of the National Council for Human Rights (1 July 2024 – 30 June 2025)",
+ "publisher": "National Council for Human Rights",
+ "published": "2025"
 }

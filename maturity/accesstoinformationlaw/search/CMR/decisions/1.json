@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing", "fact": "In a statement for the International Day for Universal Access to Information on 28 September 2026, Cameroon's Human Rights Commission called on the Ministry of Communication to complete the proposed general legal framework on access to information and submit the bill to Parliament.", "title": "Cameroon Rights Commission Calls for Law to Improve Access to Public Information", "publisher": "StopBlaBlaCam", "published": "2026-10-02", "date_source": "source", "why_not": ""}

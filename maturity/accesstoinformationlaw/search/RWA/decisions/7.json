@@ -1,11 +1,11 @@
 {
  "select": true,
  "sub_indicator": "law",
- "aspect": "reach",
- "fact": "The Office of the Ombudsman said on 30 January 2020 that it had started the annual access to information law week campaign and held a consultative meeting on the law's implementation.",
- "title": "Rwanda has started the annual week campaign on Access to Information law",
- "publisher": "Office of the Ombudsman of Rwanda",
- "published": "2020-01-30",
- "date_source": "source",
+ "aspect": "standing",
+ "fact": "The final donor report for 2023-2025 states that a revised media policy awaits Cabinet approval and is expected to trigger revision of the 2013 Access to Information Law.",
+ "title": "Deepening Democracy through Strengthening Citizen Participation and Accountable Governance (DDAG II): Final Donor Report 2023-2025",
+ "publisher": "UNDP Rwanda",
+ "published": "2026",
+ "date_source": "proxy",
  "why_not": ""
 }

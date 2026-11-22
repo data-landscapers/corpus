@@ -1,11 +1,11 @@
 {
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "select": true,
+ "aspect": "standing;reach",
+ "fact": "The Republic filed appeals before the Access to Information Commission against six public institutions that refused requests under the Access to Information Act.",
+ "title": "The Republic takes 6 public institutions before Gambia's Access to Information Commission",
+ "publisher": "The Republic",
+ "published": "2025-02-12",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": "",
+ "sub_indicator": "law"
 }

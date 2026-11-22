@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing", "fact": "Lesotho remains one of the few SADC nations without an operational access to information law, and the Access to and Receipt of Information Bill remains stalled within the Communications Ministry.", "title": "Mapping Threats to the Media in Lesotho", "publisher": "Intelwatch", "published": "2026-02", "date_source": "source", "why_not": ""}

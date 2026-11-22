@@ -1,11 +1,11 @@
 {
  "select": false,
- "sub_indicator": "law",
  "aspect": "",
  "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "title": "الصحافيين و نفاذ المعلومة (الواقع والصعوبات)",
+ "publisher": "صحيفة فبراير",
+ "published": "2026-02-08",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": "no-development: a press panel report; it never states that no law or draft exists",
+ "sub_indicator": "law"
 }

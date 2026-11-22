@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://dailynews.gov.bw/news-detail/74321,fetched,,scripts/.workroot/study/addressregister/cache/BWA/1.txt,458,html,Search Here
+2,https://gov.bw/public-health-services/emergency-medical-services-ambulance-services,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
+3,https://botswanapost.post/mail,fetched,,scripts/.workroot/study/addressregister/cache/BWA/3.txt,445,html,Mail
+4,https://botswanapost.post/virtual-post-box-0,fetched,,scripts/.workroot/study/addressregister/cache/BWA/4.txt,102,html,Virtual Post Box
+5,https://botswanapost.post/sites/default/files/downloads/botswana_post_newsletter09_edited.pdf,fetched,,scripts/.workroot/study/addressregister/cache/BWA/5.txt,7725,pdf,

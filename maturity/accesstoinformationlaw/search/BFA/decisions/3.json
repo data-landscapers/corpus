@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing;reach", "fact": "In 2023 the submitters state that Law N°051-2015/CNT of 30 August 2015 on the right of access to public information is still not in effect because the government has issued no implementing decree, and ANAIP has not been created.", "title": "Digital Rights in Burkina Faso, UPR Submission, Session 44", "publisher": "National Press Center Norbert Zongo, Small Media Foundation", "published": "2023", "date_source": "proxy", "why_not": ""}

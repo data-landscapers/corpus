@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "aspect": "standing",
+ "fact": "On 10 June 2026 the Council of Ministers adopted the draft law on access to public information, to go to Parliament before promulgation.",
+ "title": "Communiqué de presse N°06/2026 de la réunion du Conseil des Ministres du mercredi 10 juin 2026",
+ "publisher": "Présidence de la République du Burundi, Secrétariat Général de l'Etat",
+ "published": "2026-06-10",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": ""
 }

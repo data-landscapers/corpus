@@ -1,6 +1,9 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://tiver.cv/mosteiros-e-correios-assinam-protocolo-para-modernizar-toponimia-municipal/,fetched,,scripts/.workroot/study/addressregister/cache/CPV/1.txt,209,html,MOSTEIROS E CORREIOS ASSINAM PROTOCOLO PARA MODERNIZAR TOPONÍMIA MUNICIPAL
-2,https://www.balai.cv/noticias/sociedade/santiago-norte-camara-de-sao-miguel-quer-todos-espacos-publicos-identificados-e-casas-numeradas/,fetched,,scripts/.workroot/study/addressregister/cache/CPV/2.txt,317,html,Câmara de São Miguel quer todos espaços públicos identificados e casas numeradas - Balai
-3,https://www.correios.cv/faq,unfetchable,"ConnectTimeout; Wayback HTTP 429, not checked",,0,,
-4,https://ingtgeo.gov.cv/arcgisingt/rest/services/SDI/ToponimiaNacional/MapServer,fetched,,scripts/.workroot/study/addressregister/cache/CPV/4.txt,174,html,SDI/ToponimiaNacional (MapServer)
-5,https://electra.cv/frontend/web/index.php?r=site%2Fprivacidade,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+1,https://www.balai.cv/noticias/sao-filipe-projecto-de-toponimia-avanca-para-associacao-de-nomes-as-vias-largos-e-pracas-do-municipio/,fetched,,scripts/.workroot/study/addressregister/cache/CPV/1.txt,348,html,"São Filipe: Projecto de toponímia avança para associação de nomes às vias, largos e praças do município - Balai"
+2,https://boe.incv.cv/Bulletins/DownloadAct?id=114033,fetched,,scripts/.workroot/study/addressregister/cache/CPV/2.txt,7322,pdf,"Boletim Oficial n.º 110, I Série de 12-10-2026"
+3,https://www.asemana.cv/index.php/atualidade/23341-sao-vicente-correios-de-cabo-verde-vao-apoiar-actualizacao-do-projecto-toponimico-da-ilha,fetched,,scripts/.workroot/study/addressregister/cache/CPV/3.txt,472,html,São Vicente: Correios de Cabo Verde vão apoiar actualização do projecto toponímico da ilha
+4,https://expressodasilhas.cv/pais/2026/06/15/camara-municipal-da-praia-instala-placas-toponimicas-nos-bairros-da-cidade/103203,fetched,,scripts/.workroot/study/addressregister/cache/CPV/4.txt,321,html,Câmara Municipal da Praia instala placas toponímicas nos bairros da cidade
+5,https://tiver.cv/mosteiros-e-correios-assinam-protocolo-para-modernizar-toponimia-municipal/,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+6,https://vozdoarchipelago.cv/noticias/praia-autarquia-lanca-plataforma-digital-para-nomear-ruas-e-casas/,fetched,,scripts/.workroot/study/addressregister/cache/CPV/6.txt,604,html,Praia: Autarquia lança plataforma digital para nomear ruas e casas - Voz do Archipelago
+7,https://boe.incv.cv/Bulletins/View?id=61485,fetched,,scripts/.workroot/study/addressregister/cache/CPV/7.txt,46,html,Deliberação n.º 26/AMP/2023
+8,https://unstats.un.org/unsd/ungegn/sessions/3rd_session_2023/documents/GEGN.2_2023_135_CRP135.pdf,fetched,,scripts/.workroot/study/addressregister/cache/CPV/8.txt,2985,pdf,

@@ -1,8 +1,9 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://www.incm.gov.mz/?sdm_process_download=1&download_id=556,fetched,,scripts/.workroot/study/addressregister/cache/MOZ/1.txt,1179,pdf,BR_183_I_SÉRIE_2024.indd
-2,https://consumidor.incm.gov.mz/faq-postal/,fetched,,scripts/.workroot/study/addressregister/cache/MOZ/2.txt,393,html,FAQ Postal - INCM
-3,https://www.incm.gov.mz/legislacao-postal/,held,held as raw/2025/2025-10-09-incm-legislacao-postal.md,,0,,
-4,https://university.open.ac.uk/technology/mozambique/sites/www.open.ac.uk.technology.mozambique/files/files/23%20Lei%2012-2023%20de%2026%20de%20Agosto%20-%20autarquias%20locais%20Moz-12-2023.pdf,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+1,http://www.semfronteirasfm.org/2026/10/incm-divulga-novo-codigo-de.html,fetched,,scripts/.workroot/study/addressregister/cache/MOZ/1.txt,365,html,"INCM DIVULGA NOVO CÓDIGO DE ENDEREÇAMENTO POSTAL EM PEMBA, COM IMPLEMENTAÇÃO PREVISTA PARA 2027"
+2,https://integritymagazine.co.mz/arquivos/71359,fetched,,scripts/.workroot/study/addressregister/cache/MOZ/2.txt,168,html,Executivo homologa 1.444 novos nomes geográficos para melhorar endereçamento de cidades e vilas
+3,https://infromoz.com/tecnologia/modernizacao-do-sector-postal-em-mocambique-o-que-o-incm-quer-mudar-nos-correios-privados/,fetched,,scripts/.workroot/study/addressregister/cache/MOZ/3.txt,2984,html,Modernização do sector postal em Moçambique: o que o INCM quer mudar nos Correios privados
+4,https://mznews.co.mz/en/marracuene-da-inicio-ao-processo-de-enderecamento-postal/,fetched,,scripts/.workroot/study/addressregister/cache/MOZ/4.txt,136,html,Marracuene dá início ao processo de endereçamento postal
 5,https://verdade.co.mz/governo-reve-novamente-codigos-de-enderecamento-postal-em-mocambique/,fetched,,scripts/.workroot/study/addressregister/cache/MOZ/5.txt,80,html,"Governo revê, novamente, Códigos de Endereçamento Postal em Moçambique"
-6,https://www.ufsa.gov.mz/concurso_detalhes.php?referencia=INCM/CP/109/2026,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
-7,https://www.postcode.ltd/postcodes-addresses-lda-wins-the-tender-for-revision-of-mozambiques-cep/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+6,https://cmnampula.gov.mz/wp-content/uploads/2024/11/Lei-12.2023-Nova-lei-de-Criacao-dos-Municipios.pdf,unfetchable,ConnectionError; Wayback ConnectionError,,0,,
+7,https://unstats.un.org/unsd/ungegn/sessions/3rd_session_2023/documents/GEGN.2_2023_127_CRP127.pdf,fetched,,scripts/.workroot/study/addressregister/cache/MOZ/7.txt,2118,pdf,
+8,https://opais.co.mz/lancado-instrumento-para-o-enderecamento-das-cidades-e-vilas-mocambicanas/,fetched,,scripts/.workroot/study/addressregister/cache/MOZ/8.txt,207,html,Lançado instrumento para o endereçamento das cidades e vilas moçambicanas - O País - A verdade como notícia

@@ -1,11 +1,1 @@
-{
- "select": true,
- "sub_indicator": "law",
- "aspect": "standing",
- "fact": "Freedom House's 2025 report states that Algeria lacks access-to-information legislation, the constitution nominally guaranteeing the right.",
- "title": "Algeria: Freedom in the World 2025 Country Report",
- "publisher": "Freedom House",
- "published": "2025",
- "date_source": "source",
- "why_not": ""
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing", "fact": "Algeria enacted no dedicated statute on access until Ordinance No. 21-09 of 9 June 2021 on the protection of administrative information and documents, and no single comprehensive statute regulates access to information.", "title": "The Right to Access Administrative Information", "publisher": "Journal of legal and political thought", "published": "2026-05-31", "date_source": "source", "why_not": ""}

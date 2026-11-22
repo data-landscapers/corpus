@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "address", "aspect": "", "fact": "", "title": "", "publisher": "", "published": "", "date_source": "source", "why_not": "Contractor (IGN FI) reference page, undated; states a 2021-2024 schedule, no dated fact."}
+{
+ "select": true,
+ "sub_indicator": "address",
+ "aspect": "addressing",
+ "fact": "From November 2021 to October 2023 the Abidjan District Addressing Project completed 217,000 surveys and applied 146,000 building number markings.",
+ "title": "Addressing: Progress of Surveys and Numbering in Côte d'Ivoire - PADA",
+ "publisher": "IGN FI",
+ "published": "2023-11-27",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing", "fact": "The Official Information Bill was passed by the Council of Ministers in March 2024 and forwarded to the House of the People of the Federal Parliament.", "title": "Somalia: Official Information Bill endangers the right to access information", "publisher": "International Federation of Journalists", "published": "2024-08-19", "date_source": "source", "why_not": ""}

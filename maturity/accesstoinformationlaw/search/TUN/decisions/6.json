@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing;reach", "fact": "In February 2019 advocates told Human Rights Watch that executive bodies do not always answer requests, even after being ordered to by the INAI and the administrative courts, under the organic law on the right to information.", "title": "Tunisie : La loi sur le droit à l'information à l'épreuve de la réalité", "publisher": "Human Rights Watch", "published": "2019-02-15", "date_source": "source", "why_not": ""}

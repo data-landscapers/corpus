@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing", "fact": "On 28 September 2024 the UJT announced it had lodged a bill on journalists' safety and equitable access to information, with a duty on public authorities to disclose proactively, awaiting adoption by the CNT.", "title": "Journée Internationale de l'Accès à l'Information : L'UJT Propose une Loi pour Protéger les Journalistes", "publisher": "tachad.com", "published": "2024-09-28", "date_source": "source", "why_not": ""}

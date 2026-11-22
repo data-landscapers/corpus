@@ -1,11 +1,11 @@
 {
  "select": false,
- "sub_indicator": "law",
  "aspect": "",
  "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "title": "Libya: Protect press freedom and support media reforms",
+ "publisher": "ARTICLE 19",
+ "published": "2025-05-02",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": "no-development: the same joint statement as lead 3, only calling for a law",
+ "sub_indicator": "law"
 }

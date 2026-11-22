@@ -1,11 +1,11 @@
 {
  "select": false,
- "sub_indicator": "law",
  "aspect": "",
  "fact": "",
- "title": "",
- "publisher": "",
+ "title": "The Gambia - LONDA 2025",
+ "publisher": "Paradigm Initiative",
  "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "date_source": "proxy",
+ "why_not": "already-held: held as raw/2026/2026-01-01-gmb-the-gambia-londa-2025.md",
+ "sub_indicator": "law"
 }

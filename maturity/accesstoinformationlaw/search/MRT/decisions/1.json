@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": false, "sub_indicator": "law", "aspect": "", "fact": "", "title": "", "publisher": "", "published": "", "date_source": "source", "why_not": "already-held: the same RSF statement of 2026-06-23 is held from its French address (rsf.org/fr/mauritanie-rsf-salue-le-projet-de-loi-...) in this study's evidence.csv"}

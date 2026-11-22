@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "aspect": "standing",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": "",
+ "fact": "MP Maha Abdel Nasser submitted a 24-article freedom of information bill to the House of Representatives in the last week of its first session, drafted with the Journalists Syndicate.",
+ "title": "بعد تقديمه رسميا للبرلمان من النائبة مها عبدالناصر.. ننشر نص مشروع نقابة الصحفيين لقانون حرية تداول المعلومات",
+ "publisher": "بوابة الشروق",
+ "published": "2026-08-09"
 }

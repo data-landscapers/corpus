@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing;reach", "fact": "The ministry states the right is governed by Law 31-13, adopted 22 February 2018 and published 12 March 2018, and that in 2025 the national portal was transferred by agreement to the Commission du droit d'accès à l'information.", "title": "Droit d'accès à l'information", "publisher": "Ministère de l'Intelligence artificielle, de la Transformation numérique et de la Réforme de l'Administration", "published": "2025", "date_source": "proxy", "why_not": ""}

@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "reach", "fact": "President Ramkalawan presented instruments of appointment to a reappointed Chief Information Commissioner and two new Information Commissioners under section 37(1) of the Access to Information Act.", "title": "Mumtaz Hasan reappointed as Chief Information Commissioner, Mr. Egbert Rosalie and Mr. Peter Lalande appointed as Information Commissioners", "publisher": "Constitutional Appointments Authority", "published": "2024-05-16", "date_source": "source", "why_not": ""}

@@ -1,11 +1,1 @@
-{
- "select": true,
- "sub_indicator": "law",
- "aspect": "standing",
- "fact": "UNESCO's contribution to the 45th Universal Periodic Review states that no freedom of information law has been adopted in the Central African Republic and encourages it to introduce one.",
- "title": "Universal Periodic Review (45th group working session): Contribution of UNESCO - Central African Republic",
- "publisher": "UNESCO",
- "published": "2023",
- "date_source": "proxy",
- "why_not": ""
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing", "fact": "The UNCAC review summary of 1 June 2026 states that the Central African Republic has no law on access to information, and recommends it consider adopting provisions on access to information.", "title": "Conférence des États Parties à la Convention des Nations Unies contre la corruption: Groupe d'examen de l'application, résumé analytique (République centrafricaine)", "publisher": "Nations Unies / UNODC", "published": "2026-06-01", "date_source": "source", "why_not": ""}

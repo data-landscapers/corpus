@@ -1,8 +1,7 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/musEn.pdf,fetched,,scripts/.workroot/study/addressregister/cache/MUS/1.txt,152,pdf,X
-2,https://www.mauritiuspost.mu/delivery-standards/,fetched,,scripts/.workroot/study/addressregister/cache/MUS/2.txt,353,html,Delivery Standards - Mauritius Post
-3,https://data.govmu.org/dataset/postcodes-and-localities-mauritius,fetched,,scripts/.workroot/study/addressregister/cache/MUS/3.txt,175,html,Making sure you're not a bot!
-4,https://supremecourt.govmu.org/downloadPDF/legislation/18144752,fetched,,scripts/.workroot/study/addressregister/cache/MUS/4.txt,139,pdf,
-5,https://data.govmu.org/dataset/list-post-offices-and-addresses-mauritius,fetched,,scripts/.workroot/study/addressregister/cache/MUS/5.txt,175,html,Making sure you're not a bot!
-6,https://mfrs.govmu.org/Pages/FAQs.aspx,fetched,,scripts/.workroot/study/addressregister/cache/MUS/6.txt,75,html,"Ministry of Technology, Communication and Innovation"
-7,https://mauritiusassembly.govmu.org/mauritiusassembly/index.php/download/365/seventh-national-assembly-first-session/8014/debate-no-01-of-2019-thursday-21-november-2019.pdf,fetched,,scripts/.workroot/study/addressregister/cache/MUS/7.txt,6966,pdf,
+1,https://www.mauritiuspost.mu/products-and-services/delivery-services,unfetchable,HTTP 404; Wayback ConnectionError,,0,,
+2,https://data.govmu.org/dataset/postcodes-and-localities-mauritius,fetched,,scripts/.workroot/study/addressregister/cache/MUS/2.txt,175,html,Making sure you're not a bot!
+3,https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/MUSEn.pdf,fetched,,scripts/.workroot/study/addressregister/cache/MUS/3.txt,152,pdf,X
+4,https://mitci.govmu.org/mitci/mauritius-post-ltd-to-mark-world-post-day-2025-through-a-series-of-activities/,fetched,,scripts/.workroot/study/addressregister/cache/MUS/4.txt,534,html,"Ministry of Information Technology, Communication and Innovation"
+5,https://mydodolife.com/systeme-postal-livraison-adresses-boites-postales-colis-internationaux/,fetched,,scripts/.workroot/study/addressregister/cache/MUS/5.txt,2115,html,"Système postal à Maurice : adresses, boîtes postales, colis"
+6,https://real-estate-mauritius.mu/en/receive-parcel-mauritius-address-post/,fetched,,scripts/.workroot/study/addressregister/cache/MUS/6.txt,1822,html,"Receiving a parcel in Mauritius: address, postcode, post office and couriers"

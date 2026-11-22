@@ -1,5 +1,66 @@
 [
-{"url": "https://www.ohchr.org/en/meeting-summaries/2025/06/experts-human-rights-committee-welcome-guinea-bissaus-law-regulating", "title": "Experts of the Human Rights Committee Welcome Guinea-Bissau's Law Regulating the Judiciary", "publisher": "OHCHR / United Nations Human Rights Committee", "published": "2025-06-27", "sub_indicator": "law", "why": "Q1/Q2: records the Committee asking whether the access to information law had been duly adopted and applied; check what the delegation answered on adoption and entry into force."},
-{"url": "https://mfwa.org/issues-in-focus/stakeholders-in-guinea-bissau-call-for-policy-reforms-on-media-independence-to-safeguard-freedom-of-expression", "title": "Stakeholders in Guinea Bissau call for policy reforms on media independence to safeguard freedom of expression", "publisher": "Media Foundation for West Africa", "published": "2024-10-11", "sub_indicator": "law", "why": "Q1/Q2: states the press law does not guarantee public access to information and calls for access to information provisions and accountability mechanisms; no enacted law or commissioner reported."},
-{"url": "https://www.pplaaf.org/legislationpays/guinea-bissau.html", "title": "Guinea-Bissau - 2025 - Country Legislation", "publisher": "Platform to Protect Whistleblowers in Africa (PPLAAF)", "published": "2025-06", "sub_indicator": "law", "why": "Q1: legislation list for 2025 shows no access to information law and mentions the April 2024 UNESCO workshop as drafting activity only."}
+ {
+  "url": "https://aarhusclearinghouse.unece.org/sites/default/files/2026-02/1roRN_ConvencaoAarhusRGBissau.pdf",
+  "title": "Primeiro Relatório Nacional sobre Convenção de Aarhus",
+  "publisher": "Instituto Nacional do Ambiente (Guiné-Bissau)",
+  "published": "2026-01",
+  "sub_indicator": "law",
+  "why": "No ATI law, no oversight body (Q1, Q3, Q4)"
+ },
+ {
+  "url": "https://www.unesco.org/fr/articles/guinee-bissau-validation-du-projet-de-loi-sur-lacces-linformation",
+  "title": "Guinée Bissau : Validation du projet de loi sur l'accès à l'information",
+  "publisher": "UNESCO",
+  "published": "2024-10-01",
+  "sub_indicator": "law",
+  "why": "Draft bill validated April 2024 (Q2)"
+ },
+ {
+  "url": "https://www.unesco.org/en/articles/guinea-bissau-unesco-facilitates-technical-debate-access-information-legislation",
+  "title": "Guinea-Bissau: UNESCO facilitates technical debate on access to information legislation",
+  "publisher": "UNESCO",
+  "published": "2024-04-24",
+  "sub_indicator": "law",
+  "why": "Draft law workshop 17-23 April 2024 (Q2)"
+ },
+ {
+  "url": "https://mfwa.org/wp-content/uploads/2025/03/LEGAL-OBSTACLES-TO-FIGHTING-IMPUNITY-GUINEA_BISSAU-63-1.pdf",
+  "title": "Obstáculos legais ao combate à impunidade: Guiné-Bissau",
+  "publisher": "Media Foundation for West Africa",
+  "published": "2025",
+  "sub_indicator": "law",
+  "why": "Absence of an ATI law (Q1)"
+ },
+ {
+  "url": "https://demo.mfwa.org/issues-in-focus/stakeholders-in-guinea-bissau-call-for-policy-reforms-on-media-independence-to-safeguard-freedom-of-expression/",
+  "title": "Stakeholders in Guinea Bissau call for policy reforms on media independence",
+  "publisher": "Media Foundation For West Africa",
+  "published": "2024-10-11",
+  "sub_indicator": "law",
+  "why": "Press law does not guarantee access to information (Q1)"
+ },
+ {
+  "url": "https://www.unesco.org/sites/default/files/medias/fichiers/2024/10/GuineeBissau_SDG16102_2023.pdf",
+  "title": "SDG 16.10.2 survey: Adoption of Access to Information Laws, Guinea-Bissau",
+  "publisher": "UNESCO",
+  "published": "2024",
+  "sub_indicator": "law",
+  "why": "No oversight body, no ATI guarantee (Q1, Q3-Q5)"
+ },
+ {
+  "url": "https://www.odemocratagb.com/?p=45042",
+  "title": "Ministra da justiça: Governo está empenhado em estabelecer um marco legal que garanta o acesso à informação",
+  "publisher": "O Democrata GB",
+  "published": "2023-06-29",
+  "sub_indicator": "law",
+  "why": "Government launches ATI law process (Q2)"
+ },
+ {
+  "url": "https://rsf.org/en/country/guinea-bissau",
+  "title": "Guinea Bissau",
+  "publisher": "Reporters Without Borders",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "No law guaranteeing access to information (Q1)"
+ }
 ]

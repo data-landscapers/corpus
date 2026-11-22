@@ -1,4 +1,6 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://revista.academicuspro.ao/revista/article/download/43/16/142,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
-2,https://www.rti-rating.org/country-data/Angola/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/AGO/2.txt,7410,html,Angola
-3,https://lex.ao/docs/assembleia-nacional/2024/lei-n-o-1-24-de-06-de-marco/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/AGO/3.txt,10069,html,Lei n.Âº 1/24 de 06 de marÃ§o | Direito Angolano: Acesso FÃ¡cil e Gratuito com o LEX.AO
+1,https://paradigmhq.org/londa2025/countries/angola.html,held,held as raw/2026/2026-01-01-ago-angola-londa-2025.md,,0,,
+2,https://www.pplaaf.org/legislationpays/angola.html,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/AGO/2.txt,671,html,Angola - PPLAAF
+3,https://revista.academicuspro.ao/revista/article/view/43,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/AGO/3.txt,692,html,O acesso à Informação em Angola: Uma análise em torno do estado actual do direito à informação no país
+4,https://transparenciapublica.ao/legislacao/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/AGO/4.txt,352,html,Legislação - Portal da Transparência Pública
+5,https://pt.countryeconomy.com/governo/indice-global-direito-informacao/angola,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/AGO/5.txt,379,html,Angola - Índice global de direito à informação 2024

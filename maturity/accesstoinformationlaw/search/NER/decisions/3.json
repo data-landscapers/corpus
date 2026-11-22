@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "aspect": "standing",
+ "fact": "The May 2025 study states Ordinance 2011-22 of 23 February 2011 still guarantees the right of access after the July 2023 coup and that the state launched the SANIN HAKUMA online access application on 5 February 2025.",
+ "title": "Des médias résilients, mais en sursis",
+ "publisher": "Media Support",
+ "published": "2025-05",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": ""
 }

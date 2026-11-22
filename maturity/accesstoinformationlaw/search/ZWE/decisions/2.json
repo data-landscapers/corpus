@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "aspect": "standing",
+ "fact": "On 2 October 2024 the Permanent Secretary for Information said the government repealed AIPPA and enacted the Freedom of Information Act (Chapter 10:33), and that it is reviewing media laws.",
+ "title": "Reforms in media law, policies begin",
+ "publisher": "The Herald",
+ "published": "2024-10-03",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": ""
 }

@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "aspect": "reach",
+ "fact": "The New Times reported on 28 August 2025 that, after the Ministry of Information was dissolved, the Office of the Ombudsman took charge of access to information, and that media sector coordination has now moved to the Rwanda Governance Board.",
+ "title": "Why media oversight was shifted to Rwanda Governance Board",
+ "publisher": "The New Times (via Africa-Press)",
+ "published": "2025-08-28",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": ""
 }

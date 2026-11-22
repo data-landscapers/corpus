@@ -1,7 +1,9 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://www.tap.info.tn/fr/Portail-Titres-de-l-actualit%C3%A9/17613023-l-instance-d-acc%C3%A8s,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
-2,https://www.unesco.org/sites/default/files/medias/fichiers/2024/11/Tunisia_SDG16102_2024.pdf,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/TUN/2.txt,2188,pdf,
-3,https://mjs.tn/images/Acces-Info/annee24_rapp.pdf,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/TUN/3.txt,8141,pdf,Microsoft Word - 'D*B1J1 'D3FHJ 2024
-4,http://www.reference.education.gov.tn/2025-02-25/Rapport%20Acces_Info2024.pdf,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/TUN/4.txt,5398,pdf,
-5,https://inai.tn/26584/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/TUN/5.txt,254,html,التقرير السنوي لهيئة النفاذ (2021-2022) - هيئة النفاذ إلى المعلومة في تونس
-6,https://www.opengovpartnership.org/documents/tunisia-results-report-2021-2023/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/TUN/6.txt,1068,html,Tunisia Results Report 2021–2023 - Open Government Partnership
+1,https://www.lapresse.tn/2025/12/01/donnees-personnelles-et-acces-a-linformation-lexecutif-engage-une-mise-a-jour-urgente-du-cadre-juridique/,held,held as raw/2025/2025-12-01-lapresse-inai-paralysie-revision-urgente-legislation.md,,0,,
+2,https://rsf.org/fr/tunisie-fermeture-de-l-instance-nationale-d-acc%C3%A8s-%C3%A0-l-information-un-nouveau-coup-port%C3%A9-au-droit-%C3%A0,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/TUN/2.txt,615,html,"Tunisie : fermeture de l’Instance nationale d’accès à l’information, un nouveau coup porté au droit à l’information"
+3,https://www.article19.org/ar/resources/tunisia-democracy-at-risk-as-access-to-information-authority-is-dissolved/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/TUN/3.txt,265,html,تونس: نهاية الشفافية وآخر ضمانات الديمقراطية - ARTICLE 19
+4,https://www.opengovpartnership.org/fr/members/tunisia/commitments/TN0049/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/TUN/4.txt,1403,html,Compléter le cadre réglementaire pour consacrer le droit d'accès à l'information (TN0049)
+5,https://www.coe.int/fr/web/tunis/instance-nationale-d-acces-a-l-information-inai-,unfetchable,HTTP 403; Wayback ConnectionError,,0,,
+6,https://www.hrw.org/fr/news/2019/02/15/tunisie-la-loi-sur-le-droit-linformation-lepreuve-de-la-realite,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/TUN/6.txt,1306,html,Tunisie : La loi sur le droit à l'information à l’épreuve de la réalité
+7,https://www.oecd.org/fr/publications/voix-citoyenne-en-tunisie_9789264306622-fr/full-report/component-7.html,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+8,https://inai.tn/rapports/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/TUN/8.txt,97,html,التقارير - هيئة النفاذ إلى المعلومة في تونس

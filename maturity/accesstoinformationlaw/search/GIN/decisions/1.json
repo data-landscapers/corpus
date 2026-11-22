@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "aspect": "standing;reach",
+ "fact": "Guinea's access to public information law provides for a Commission d'accès à l'information publique, but as of June 2026 the Commission is not yet operational and the implementing texts have not been adopted.",
+ "title": "Guinée Rapport National Juin 2026",
+ "publisher": "Hivos",
+ "published": "2026-06",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": ""
 }

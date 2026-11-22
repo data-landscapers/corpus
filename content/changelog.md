@@ -2,6 +2,8 @@
 
 - Tunisia rises from 3 to 4 on government-to-person payments (dpi.pay--g2p-functionality): pensions paid into Tunisia Post accounts are a second digital payment beside the AMEN social transfers. About 65% of those pensions were withdrawn by ATM, African Manager reported in November 2026.
 - Tunisia rises from 2 to 3 on the national AI strategy (gov.policy--ai-strategy): the minister told parliament in November 2026 that the strategy has been validated. Its implementation has begun.
+- Benin rises from 3 to 4 and Mozambique from 3 to 5 on access to information laws (gov.legislate--access-to-information-legislation), on a fresh reading of all 54 countries. Mozambique's Ombudsman oversees its law, and 60,433 requests were counted for 2024.
+- Niger rises from 2 to 3 on the address register (dpi.registry--address-register): a Niamey addressing geoportal covering over 3,500 streets was in service in October 2026. Nothing found shows it covers the whole country.
 
 ## 21 November 2026
 

@@ -1,11 +1,11 @@
 {
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "select": true,
+ "aspect": "standing",
+ "fact": "On 1 April 2026 the Senate's Permanent Commission on Finance, Commerce and Planning put questions to the government in second reading of the transparency, public information access and good governance bill, and accepted the Vice Minister's answers.",
+ "title": "Aclaraciones del Gobierno sobre el Proyecto de Ley de Transparencia",
+ "publisher": "Oficina de Información y Prensa de Guinea Ecuatorial",
+ "published": "2026-04-02",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": "",
+ "sub_indicator": "law"
 }

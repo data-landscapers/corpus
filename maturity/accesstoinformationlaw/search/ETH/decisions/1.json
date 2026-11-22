@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "aspect": "standing",
+ "fact": "The House of Peoples' Representatives passed the Freedom of Information Proclamation unanimously on 25 June 2026 (Sene 18, 2018 E.C.), separating freedom of information from the media law.",
+ "title": "እስከ አምስት ዓመት እስራት የሚያስቀጡ ጥፋቶች የተካተቱበት አዲሱ የመረጃ ነጻነት አዋጅ",
+ "publisher": "Ethiopia Insider",
+ "published": "2026-06-25",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": ""
 }

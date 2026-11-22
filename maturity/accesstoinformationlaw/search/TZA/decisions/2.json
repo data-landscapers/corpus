@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing;reach", "fact": "In June 2025 civil society and a law reform task force reviewed the Access to Information Act of 2016, in force but little used, with one advocate reporting no reply to an official request after more than six months.", "title": "Tanzania's access to information and NGOs laws need urgent reforms", "publisher": "The Respondent", "published": "2025-06-04", "date_source": "source", "why_not": ""}

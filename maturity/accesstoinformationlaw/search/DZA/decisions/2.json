@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing", "fact": "Egypt, Algeria and most Gulf states do not have effective RTI legislation, despite years of discussion regarding draft laws.", "title": "MENA: Setbacks and persistent challenges to the right to information", "publisher": "ARTICLE 19", "published": "2025-09-29", "date_source": "source", "why_not": ""}

@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing;reach", "fact": "LONDA 2025 states Law 2013-867 exists, the CAIDP has been operational five years, and 40% of requests were processed in 2025 against 35% in 2024.", "title": "Cote d'Ivoire — LONDA 2025", "publisher": "Paradigm Initiative", "published": "2025", "date_source": "proxy", "why_not": ""}

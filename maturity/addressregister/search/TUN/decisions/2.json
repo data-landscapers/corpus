@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "address",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "proxy",
- "why_not": "no year in the text; the date would be inferred from a weekday and a minister's tenure"
-}
+{"select": false, "sub_indicator": "address", "aspect": "", "fact": "", "title": "", "publisher": "", "published": "", "date_source": "source", "why_not": "already-held: held as raw/2023/2023-11-14-tun-commission-report-on-the-2024-budget-of-the-communication-technologies.md."}

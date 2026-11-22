@@ -1,1 +1,11 @@
-{"select": false, "sub_indicator": "address", "aspect": "", "fact": "", "title": "", "publisher": "", "published": "", "date_source": "source", "why_not": "Haut-Katanga street-naming edict report dated 25 June 2023; before October 2023, and a draft only."}
+{
+ "select": true,
+ "sub_indicator": "address",
+ "aspect": "addressing",
+ "fact": "On 10 October 2024 the SCPT reported an online postal code directory in place for the pilot-phase provinces and cities, meant to give the DRC a national addressing infrastructure.",
+ "title": "PT-Numérique : un annuaire de codes postaux pour améliorer la qualité des services",
+ "publisher": "ACP",
+ "published": "2024-10-10",
+ "date_source": "source",
+ "why_not": ""
+}

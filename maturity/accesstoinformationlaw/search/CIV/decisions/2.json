@@ -1,11 +1,1 @@
-{
- "select": true,
- "sub_indicator": "law",
- "aspect": "reach",
- "fact": "A CAIDP commissioner said in April 2025 that the CAIDP registered 45 referrals (saisines) in 2024, 12 of them from journalists, under law n°2013-867.",
- "title": "Accès à l'information publique : l'ANP forme les journalistes à mieux exercer leur droit",
- "publisher": "Presse Côte d'Ivoire",
- "published": "2025-04-24",
- "date_source": "source",
- "why_not": ""
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing;reach", "fact": "The CAIDP president stated on 24 September 2026 that the 2013 access to information law exists, created the CAIDP as an independent authority, and that a revision of the legal framework begun in 2024 is awaited.", "title": "JDAIP 2026 : la CAIDP veut faire de l’accès à l’information publique un levier d’action", "publisher": "225.ci", "published": "2026-09-27", "date_source": "source", "why_not": ""}

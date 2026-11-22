@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing", "fact": "Londa 2025 states Mozambique introduced the Right to Information Law (Act No. 34/2014) in 2014, and that civil society organisations report public bodies failing to answer or delaying information requests despite it.", "title": "Mozambique - LONDA 2025", "publisher": "Paradigm Initiative", "published": "2025", "date_source": "proxy", "why_not": ""}

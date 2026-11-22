@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "aspect": "reach",
+ "fact": "ARTICLE 19's 2025 UPR pre-session statement says no independent oversight body has been established for the Access to Information Law since the Ombudsman's ATI mandate was removed.",
+ "title": "UPR Pre-session on Rwanda: statement",
+ "publisher": "ARTICLE 19",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
 }

@@ -1,11 +1,11 @@
 {
- "select": false,
+ "select": true,
  "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
+ "aspect": "standing;reach",
+ "fact": "The joint submission of 16 July 2025 states Law No. 04/2013 relating to access to information is in place and monitored by the Ombudsman with focal points in each administrative governance sector.",
+ "title": "Joint Submission to the UN Universal Periodic Review: Rwanda",
+ "publisher": "CIVICUS and CEMIRIDE",
+ "published": "2025-07-16",
  "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+ "why_not": ""
 }

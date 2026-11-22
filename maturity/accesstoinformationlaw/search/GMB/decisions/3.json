@@ -1,11 +1,11 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
+{
+ "select": true,
+ "aspect": "standing;reach",
+ "fact": "The Commission chairperson said the Commission has received 15 complaints since its establishment and that regulations are drafted and validated and now at the Ministry of Justice for review.",
+ "title": "Access to Information Key to Combating Misinformation – Information Commission Chairperson",
+ "publisher": "Foroyaa",
+ "published": "2025-10-15",
+ "date_source": "source",
+ "why_not": "",
+ "sub_indicator": "law"
 }

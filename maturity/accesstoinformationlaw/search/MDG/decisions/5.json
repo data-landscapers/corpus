@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": true, "sub_indicator": "law", "aspect": "standing", "fact": "RFI reported that the National Assembly's ordinary session ended on 3 July 2026 without adopting the bill on public-interest information, whose examination had been adjourned.", "title": "Madagascar: l'Assemblée nationale écarte le projet de loi sur l'information censé améliorer la transparence de l'État", "publisher": "RFI", "published": "2026-07-01", "date_source": "proxy", "why_not": ""}

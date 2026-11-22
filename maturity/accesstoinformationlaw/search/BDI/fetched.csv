@@ -1,3 +1,9 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://www.unesco.org/sites/default/files/medias/fichiers/2024/11/Burundi_SDG16102_2024.pdf,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/BDI/1.txt,1898,pdf,
-2,https://unesdoc.unesco.org/ark:/48223/pf0000393865,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
+1,https://presidence.gov.bi/wp-content/uploads/2026/06/CMQ-CM-06DU-10.06.26-3.pdf,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/BDI/1.txt,2727,pdf,
+2,https://mincom.gov.bi/le-conseil-des-ministres-adopte-le-projet-de-loi-portant-acces-a-linformation-publique/,held,held as raw/2026/2026-06-13-conseil-ministres-adopte-projet-loi-acces-information-publique.md,,0,,
+3,https://abpinfo.bi/2026/10/06/vers-une-loi-portant-acces-a-linformation-publique/,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+4,https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/,held,held as raw/2026/2026-09-30-bdi-burunditimes-burundi-adopts-right-to-information-law-with-broad-exceptions.md,,0,,
+5,https://www.shikiriza.org/journee-internationale-de-lacces-a-linformation-ou-en-est-le-burundi/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/BDI/5.txt,764,html,Journée internationale de l’accès à l’information : où en est le Burundi ? - Shikiriza
+6,https://eusee.hivos.org/alert/introduction-of-a-access-to-public-information-bill-in-burundi/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/BDI/6.txt,731,html,Introduction of a access to public information bill in Burundi - Eu SEE
+7,https://www.unesco.org/sites/default/files/medias/fichiers/2024/10/Burundi_SDG16102_2023.pdf,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/BDI/7.txt,2180,pdf,
+8,https://www.yaga-burundi.com/acces-information-journalisme/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/BDI/8.txt,618,html,L’accès à l’information : le talon d’Achille du journalisme burundais ?

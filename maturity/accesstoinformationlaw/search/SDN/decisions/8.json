@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "law",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "states no dated fact on an open question that nothing held states"
-}
+{"select": false, "sub_indicator": "law", "aspect": "", "fact": "", "title": "القوانين والسياسات", "publisher": "المركز القومي للمعلومات", "published": "", "date_source": "proxy", "why_not": "headline-only-stub: a listing page with a one-line description of the law and no date."}

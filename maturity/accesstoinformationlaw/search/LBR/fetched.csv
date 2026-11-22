@@ -1,4 +1,9 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://infolib.org.lr/list,unfetchable,"HTTP 503; Wayback HTTP 429, not checked",,0,,
-2,https://analystliberiaonline.com/foi-commission-raises-red-flag-alarms-at-neglect-by-govt-at-14th-anniversary/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/LBR/2.txt,596,html,FOI Commission Raises Red Flag -Alarms at Neglect by Gov’t at 14th Anniversary - Analyst Liberia
-3,https://analystliberiaonline.com/iic-launches-foi-audit-of-public-institutions-sends-circulars-to-government-entities-on-ensuing-assessment/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/LBR/3.txt,499,html,IIC Launches FOI Audit of Public Institutions -Sends Circulars to Government Entities On Ensuing Assessment - Analyst Liberia
+1,https://allafrica.com/stories/202610130246.html,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/LBR/1.txt,401,html,Liberia: Daylight Wins Transparency Battle Against Epa
+2,https://www.liberianobserver.com/news/iic-partners-celebrate-16-years-of-foi-act/article_4c03c4e4-3f60-4209-854e-ba5eab06fd5b.html,unfetchable,HTTP 429; Wayback ConnectionError,,0,,
+3,https://eusee.hivos.org/assets/2026/08/Liberia_CFR_final-1.pdf,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/LBR/3.txt,4608,pdf,
+4,https://liberianinvestigator.com/liberia-reaffirms-access-to-information-tarkpah-democracy-cornerstone/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/LBR/4.txt,575,html,Acting Information Minister: Access to information is cornerstone of Liberia’s democracy
+5,https://frontpageafricaonline.com/internews-liberia-partners-hold-intensive-orientation-for-legislative-journalists-on-draft-data-protection-cybercrime-laws/,fetched,,scripts/.workroot/study/accesstoinformationlaw/cache/LBR/5.txt,1026,html,"Internews Liberia, Partners Hold Intensive Orientation for Legislative Journalists on Draft Data Protection, Cybercrime Laws - FrontPageAfrica"
+6,https://cipesa.org/wp-content/files/briefs/Joint_Stakeholder_Submission_to_the_Fourth_Cycle_of_the_Universal_Periodic_Review_UPR_of_the_Republic_of_Liberia_2025.pdf,held,held as raw/2025/2025-04-07-lbr-cipesa-waictanet-upr-digital-rights.md,,0,,
+7,https://iicliberia.info/,unfetchable,ConnectionError; Wayback ConnectionError,,0,,
+8,https://senate.gov.lr/storage/2024/09/Freedom-of-Information-Act-of-2010.pdf,held,held as raw/2010/2010-01-01-liberia-freedom-of-information-act-2010.md,,0,,
