@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: SDN
-ledger_rows: 36
+ledger_rows: 37
 not_held: 5
-record: 9177840dd974
+record: 32985537846d
 ---
 
 # News, Oct – Nov 2026
@@ -469,6 +469,20 @@ The Central Bank of Sudan resumed interbank electronic clearing every day of the
 **[Sudanese CBS Director General of Policies: Restoring Banking Systems was the Biggest Challenge](https://sudanhorizon.com/sudanese-cbs-director-general-of-policies-restoring-banking-systems-was-the-biggest-challenge/)** — Sudan Horizon, 9 November 2026
 
 The Central Bank of Sudan's director general of policies spoke to Sudan Horizon on 9 November 2026. He said payments were restored by reactivating the Siraj RTGS and partly reinstating the national switch. He put inflation at 28.3% in September 2026, against 68% in December 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Instant Payment System / national payment switch (NIPS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CBoS Governor Witnesses Signing of National Instant Payment System (NIPS) Contract](https://sudanhorizon.com/cbos-governor-witnesses-signing-of-national-instant-payment-system-nips-contract/)** — Sudan Horizon, 19 November 2026
+
+CBoS, National Technical Company and EBS sign NIPS contract, 19 Nov 2026; 24/7 bank-to-wallet transfers; no value given.
 
 </div>
 
