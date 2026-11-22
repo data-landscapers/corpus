@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: AGO
-ledger_rows: 32
+ledger_rows: 33
 not_held: 6
-record: dd0438a94914
+record: 9dee50098079
 ---
 
 # News, Oct – Nov 2026
@@ -473,6 +473,20 @@ Angola's Institute for Administrative Modernisation (IMA) opened an internationa
 **[AGT pretende integrar dois milhões de contribuintes no sistema de facturação electrónica em 2027](https://rna.ao/rna.ao/2026/11/04/agt-pretende-integrar-dois-milhoes-de-contribuintes-no-sistema-de-facturacao-electronica-em-2027/)** — RNA, 4 November 2026
 
 Angola's tax administration AGT aims to bring two million taxpayers onto electronic invoicing in 2027. More than 80,000 already issue e-invoices. On 4 November 2026 AGT met taxpayers and specialists in Luanda to assess the system before its second phase.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online border-visa applications (migration service)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Visto de fronteira em Angola passa a ser digital no SME - Diário 94](https://www.diario94.com/noticia/sme-digitaliza-pedidos-de-visto-de-fronteira-em-angola-621c)** — Diário 94, 21 November 2026
+
+Angola's Serviço de Migração e Estrangeiros has made border-visa applications fully digital, ending paper submission, according to Diário 94 on 21 November 2026. Applicants register at sme.gov.ao and profiles are activated within 48 hours. A validated request receives a RUPE payment reference.
 
 </div>
 
