@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-21-tgo-bod-tpme-les-start-up-togolaises-peuvent-deposer-leur-logici",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "ActuLome reports that Agence Togo Digital has just begun training 20,000 civil servants in digital skills.",
+   "as_of": "2026-11-21",
+   "date_precision": "day",
+   "system": "Agence Togo Digital civil servant digital training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
