@@ -36,10 +36,12 @@ ROOT = Path(V.ROOT)
 # Run from the repo or from the workroot: `raw/` is a junction in the latter only.
 RAW = Path(os.environ.get("CORPUS_RAW") or next(
     (p for p in (ROOT / "raw", ROOT / "scripts" / ".workroot" / "raw") if p.exists()), ROOT / "raw"))
-CATALOGUE = ROOT / "outputs" / "catalogue" / "raw-catalogue.json"
-NAMES = ROOT / "lookups" / "entity-names.csv"
-ROLES = ROOT / "lookups" / "whos-who-roles.csv"
-CACHE = ROOT / "build" / "whos-who" / "extract.csv"
+# Corpus's own files, wherever it runs from: under the workroot `lookups/` is OSINT's.
+CORPUS = Path(__file__).resolve().parent.parent
+CATALOGUE = CORPUS / "outputs" / "catalogue" / "raw-catalogue.json"
+NAMES = CORPUS / "lookups" / "entity-names.csv"
+ROLES = CORPUS / "lookups" / "whos-who-roles.csv"
+CACHE = CORPUS / "build" / "whos-who" / "extract.csv"
 WORK = Path(os.environ.get("WHOS_WHO_WORK") or r"C:\whos-who-work")
 
 # A budget volume names its minister on hundreds of pages; past this many sentences a
