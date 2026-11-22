@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-19-tun-minister-hemissi-presents-his-record-and-it-was-anything-but",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Khadamat application, officially launched in late August 2026, gives access to more than 40 administrative services through digital identity, per the African Manager account of the minister's report.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Khadamat",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "More than 40 administrative services are reached through digital identity in the Khadamat application, with a 2027 target of 150 services.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Khadamat",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Khadamat",
+   "country_label": "Tunisia",
+   "class": "authentication",
+   "platform": "application",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
