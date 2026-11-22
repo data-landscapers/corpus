@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-19-xaf-ecofin-ai-fraud-checks-block-real-customers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Airtel AI-powered spam alert service",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "A company's SMS spam-flagging service launched March 2025; no local AI development is stated."
+}

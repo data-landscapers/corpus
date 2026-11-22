@@ -94,6 +94,7 @@ EGY,Karnak,Karnak,localai,,Egypt,,2026-11-15-xaf-nineteen-african-countries-race
 EGY,GPU-as-a-Service,Egypt,localai,cloud,e& Business,,2026-11-16-egy-mcit-tripartite-mou-ai-cloud
 EGY,Karnak,Egypt,localai,,,,2026-11-17-egypt-senate-study-ai-economic-governance-data-hosting-options
 EGY,Public Prosecution AI data centre,Egypt,localai,,Public Prosecution,,2026-11-18-egy-youm7-public-prosecution-ai-limits-justice
+EGY,Sovereign AI data centre (Vodafone Business and Cassava Technologies),Egypt,localai,"Nvidia, GPU-as-a-Service",Vodafone Business and Cassava Technologies,,2026-11-21-egy-national-data-centre-strategy-consultancy
 ERI,Dahlak LMs,Eritrea,localai,research.geezlab.com,GeezLab (GLaRe),,2026-01-01-eri-geezlab-glare-eritrean-language-ai-research
 ERI,Tigrigna speech to text,Eritrea,localai,speech recognition model,EIT Mai-Nefhi graduates,,2021-11-06-eri-shabait-tigrigna-speech-to-text-ai
 ERI,DESTA-1B,DESTA-1B,localai,Hugging Face,mewaeltsegay,,2026-01-01-eri-desta-1b-dedicated-eritrean-semitic-text-autoregressor
@@ -229,6 +230,7 @@ NGA,awarri language models,Nigeria,localai,,awarri,,2026-10-29-inside-nigeria-s-
 NGA,HeliumMum,Nigeria,other,AI-powered maternal health tool,Helium Health,,2026-11-04-nga-google-org-backs-helium-health-with-2-5-million-grant-to-scale-ai-powered-matern
 NGA,N-ATLAS,Nigeria,localai,,NITDA,,2026-11-11-nga-nitda-review-digital-strategy-consultation
 NGA,National AI Glossary Project,Nigeria,localai,,Data Science Nigeria,,2026-11-10-nigeriastartupact-google-ai-nigerian-languages
+NGA,Airtel AI-powered spam alert service,Nigeria,other,,Airtel Africa,,2026-11-19-xaf-ecofin-ai-fraud-checks-block-real-customers
 RWA,NISR survey coding model,Rwanda,localai,machine learning model trained on NISR coded survey data since 2017; Android app for enumerators exists,National Institute of Statistics of Rwanda (NISR),national,2026-10-01-cenfri-award-winner-ngirinshuti-ai-model-rwanda-statistical-analysis
 RWA,UNDP country-hosted AI compute,Rwanda,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 RWA,Kinyarwanda voice dataset on Common Voice,Rwanda,localai,Mozilla Common Voice,Digital Umuganda; Mozilla Foundation,,2024-05-24-rwa-voice-technology-infrastructure-for-artificial-intelligence-engine-in
@@ -294,12 +296,14 @@ TZA,Kituo cha Taifa cha Data za Akili Unde (National AI Data Centre),Tanzania,lo
 TZA,JAMII AI,Tanzania,localai,Kiswahili large language model,Government of Tanzania (per Development Vision 2050),,2026-07-24-tanzania-mafanikio-akili-unde-ai-waico-2026-shanghai
 TZA,HostAfrica Blackwell GPUs,HostAfrica Nvidia Blackwell GPUs,localai,Nvidia Blackwell,HostAfrica,,2026-08-14-tza-hostafrica-enters-tanzania-brings-africa-s-first-local-blackwell-gpus
 TZA,CAIRI GPU workstation,Tanzania,localai,GPU workstation,Mzumbe University,,2026-04-01-tza-workshop-on-local-generative-ai-for-education-in-tanzania
+TZA,Airtel AI-powered spam alert service,Tanzania,other,,Airtel Africa,,2026-11-19-xaf-ecofin-ai-fraud-checks-block-real-customers
 UGA,openScopes AIDDiA,Uganda,localai,,Mbarara University of Science and Technology,,2026-09-23-zaf-uct-r101m-ai-microscopy-africa
 UGA,Sunflower,Uganda,localai,Alibaba Qwen 3,Ernest Mwebaze,,2026-08-07-asiae-chinese-open-source-ai-africa-developers
 UGA,Makerere AI Health Lab,Uganda,localai,,Makerere University,,2026-09-15-cipit-ai-east-africa-public-sector-regulatory-preparedness
 UGA,Sunflower v2,Uganda,localai,Hugging Face,Sunbird AI,,2026-09-24-uga-sunbird-ai-launches-sunflower-v2-expanding-open-african-language-ai-fr
 UGA,Makerere University Artificial Intelligence for Development Research Lab,Uganda,other,,Makerere University,,2024-12-31-iati-xm-dac-301-2-110476-001-makerere-university-artificial-intelligence-for-development
 UGA,UCC Testbed Hackathon,40 innovators selected to build AI child-safety solutions,other,,UCC,,2026-11-06-uganda-considers-tracking-childrens-sim-cards
+UGA,Airtel AI-powered spam alert service,Uganda,other,,Airtel Africa,,2026-11-19-xaf-ecofin-ai-fraud-checks-block-real-customers
 ZAF,UNDP country-hosted AI compute,South Africa,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 ZAF,MzansiLM / MzansiText,South Africa,localai,,University of Cape Town,,2026-05-04-zaf-uct-researchers-develop-ai-model-for-11-south-african-languages
 ZAF,African Compute Initiative (ACI),South Africa,localai,"GPU servers, multi-petabyte storage, OpenStack and Ceph",University of Cape Town,,2026-03-26-zaf-uct-to-lead-africa-s-first-higher-education-dedicated-ai-compute-initi

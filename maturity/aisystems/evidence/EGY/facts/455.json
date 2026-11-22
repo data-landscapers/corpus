@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-21-egy-national-data-centre-strategy-consultancy",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Vodafone Business and Cassava Technologies partnered on 8 September 2026 to launch Egypt's first sovereign AI data centre using Nvidia technologies and local GPU-as-a-Service capabilities, in the presence of the communications minister.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "sovereign AI data centre",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sovereign AI data centre (Vodafone Business and Cassava Technologies)",
+   "country_label": "Egypt",
+   "class": "localai",
+   "platform": "Nvidia, GPU-as-a-Service",
+   "owner": "Vodafone Business and Cassava Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
