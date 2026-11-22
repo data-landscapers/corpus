@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "address",
-   "stage": "2",
-   "addressing": "underway",
-   "national": "",
-   "used": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-001",
-   "gaps": "No source found since October 2023 says: is an address register or digital addressing system in service.",
-   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "address",
+      "stage": "2",
+      "addressing": "underway",
+      "national": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-001",
+      "gaps": "No source found since October 2023 says: is an address register or digital addressing system in service.",
+      "note": "Reassessed in the rebuild: the draft National Addressing System Bill, 2025 and national standards (September 2026) are under way, as the study settles for a draft bill. The June 2026 statement that no structured system exists agrees that none is in service.",
+      "as_at": "2026-11-22"
+    }
+  ]
 }

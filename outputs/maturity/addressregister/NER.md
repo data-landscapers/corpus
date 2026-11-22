@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is an address register or digital addressing system in service.
+***Not found***. No source found since October 2023 says the addressing system covers the whole country. None says other services use it.

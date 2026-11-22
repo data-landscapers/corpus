@@ -1,17 +1,18 @@
 {
- "iso3": "STP",
- "cells": [
-  {
-   "sub_indicator": "address",
-   "stage": "no evidence",
-   "addressing": "",
-   "national": "",
-   "used": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names an addressing system, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
-  }
- ]
+  "iso3": "STP",
+  "cells": [
+    {
+      "sub_indicator": "address",
+      "stage": "no evidence",
+      "addressing": "",
+      "national": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found names an addressing system, or says there is none.",
+      "note": "Reassessed in the rebuild: no evidence row is held on the address register, and nothing found says there is no addressing system.",
+      "as_at": "2026-11-22"
+    }
+  ]
 }

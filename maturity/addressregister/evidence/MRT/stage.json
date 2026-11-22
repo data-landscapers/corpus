@@ -1,17 +1,18 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "address",
-   "stage": "2",
-   "addressing": "underway",
-   "national": "",
-   "used": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-001",
-   "gaps": "No source found since October 2023 says: is an address register or digital addressing system in service.",
-   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "address",
+      "stage": "2",
+      "addressing": "underway",
+      "national": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-001",
+      "gaps": "No source found since October 2023 says: is an address register or digital addressing system in service.",
+      "note": "Reassessed in the rebuild: the ministry presented a national digital addressing system in September 2026 with a pilot due by end-2026, a presented project and so under way. A November 2026 article says no generalised system exists, so none is in service.",
+      "as_at": "2026-11-22"
+    }
+  ]
 }

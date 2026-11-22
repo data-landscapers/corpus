@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "COM-001",
       "gaps": "No source found since October 2023 says: is an addressing system under way.",
-      "note": "First pass: counted from the four questions by study-ladder-addressregister.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed in the rebuild: in August 2024 the Comoros had no postcodes or structured addressing, and the minister's pledge to bring in postcodes is neither a policy adopted nor work under way. So stage 1.",
+      "as_at": "2026-11-22"
     }
   ]
 }

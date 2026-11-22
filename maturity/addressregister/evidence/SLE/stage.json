@@ -1,17 +1,18 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "address",
-   "stage": "2",
-   "addressing": "underway",
-   "national": "",
-   "used": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-001",
-   "gaps": "No source found since October 2023 says: is an address register or digital addressing system in service.",
-   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "address",
+      "stage": "2",
+      "addressing": "underway",
+      "national": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-001",
+      "gaps": "No source found since October 2023 says: is an address register or digital addressing system in service.",
+      "note": "Reassessed in the rebuild: in 2024 Google Maps and DSTI were digitising physical addresses, with a residential address system still to come, so under way. Nothing found says it is in service.",
+      "as_at": "2026-11-22"
+    }
+  ]
 }

@@ -9,10 +9,10 @@
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-001;CIV-002",
+      "stage_sources": "CIV-001;CIV-002;CIV-004",
       "gaps": "No source found since October 2023 says: is an address register or digital addressing system in service.",
-      "note": "First pass: counted from the four questions by study-ladder-addressregister.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed in the rebuild: Abidjan's addressing was due to finish in December 2025 and the PAVI pilot began in Daloa in January 2025, so under way. No source says the Abidjan address database is in service, which rung 3 needs.",
+      "as_at": "2026-11-22"
     }
   ]
 }

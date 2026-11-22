@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "address",
-      "stage": "2",
-      "addressing": "underway",
+      "stage": "3",
+      "addressing": "inservice",
       "national": "",
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NER-002;NER-001",
-      "gaps": "No source found since October 2023 says: is an address register or digital addressing system in service.",
-      "note": "First pass: counted from the four questions by study-ladder-addressregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "NER-002",
+      "gaps": "No source found since October 2023 says the addressing system covers the whole country or that other services use it; the geoportal held covers Niamey.",
+      "note": "Reassessed in the rebuild: the Agence de Modernisation des Villes runs a Niamey addressing geoportal referencing over 3,500 streets (October 2026), a digital addressing system in service in a city, as Praia's platform is read, so 2 to 3. Nothing found says it covers the whole country.",
+      "as_at": "2026-11-22"
     }
   ]
 }

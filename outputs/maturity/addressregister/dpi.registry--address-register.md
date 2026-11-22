@@ -22,8 +22,8 @@ The Universal Postal Union's Addressing the World asks every country for a natio
 |---|---|
 | 5 Mature | 0 |
 | 4 Operating | 2 |
-| 3 Established | 8 |
-| 2 Nascent | 26 |
+| 3 Established | 9 |
+| 2 Nascent | 25 |
 | 1 Absent | 3 |
 | Unplaced | 9 |
 | No evidence | 6 |
@@ -91,6 +91,12 @@ Kanifing's digital addresses were in service in 2026; no source found reports na
 - Kanifing Municipal Council's GIS head says its digital address system, using Google Plus Codes displayed on compound gates, is in place across the municipality ([source, 2026-06-29](https://www.kerrfatou.com/kmc-says-digital-address-codes-will-improve-emergency-response-and-property-tax-collection/)).
 - LoGRI says Kanifing Municipality implemented a Plus Code digital addressing system for 500,000 residents, georeferencing 36,000 properties and creating a municipal address database ([source, 2025-12](https://logri.org/publication/implementing-a-comprehensive-digital-addressing-system-a-step-by-step-guide-inspired-by-the-experience-of-kanifing-municipality-the-gambia)).
 
+### Niger: 3 Established
+
+Niamey's addressing geoportal was in service in 2026; nothing found says addressing covers the whole country.
+
+- The Agence de Modernisation des Villes says its Niamey addressing geoportal, built by GéoMinds Africa with city-validated data, references 3,500+ streets of the capital, to modernise the traditional addressing system ([source, 2026-10-17](http://www.modernisation-villes.ne/geoportail/pages/about.html)).
+
 ### Tanzania: 3 Established
 
 Digital addresses were in service in Zanzibar in 2025; no source found reports national coverage.
@@ -123,6 +129,7 @@ An addressing system was under way in 2025; none in service is on record.
 
 - The director of addressing at the Ministry of Construction, Housing and Urban Planning said on 30 September 2025 that addressing of the Abidjan district (about 17,000 roads identified, 500,000 entities to receive addresses, FCFA 12bn project financed by the World Bank and the State) is due to finish on 31 December 2025 and is being duplicated nationally, with about fifteen cities to be addressed by 2030 ([source, 2025-09-30](https://www.fratmat.info/article/2637249/economie/adressage-des-voies-dans-le-district-autonome-dabidjan-loperation-prend-fin-le-31-decembre)).
 - The Ministry of Construction, Housing and Urban Planning says the Abidjan street addressing project met on 4-5 April 2024 to begin effective implementation of the address database, presented as the official address reference ([source, 2024-04](https://www.fratmat.info/article/238834/economie/adressage-des-rues-consolidation-de-la-base-de-donnees-dadresses)).
+- AIP reports that BNETD, through its addressing centre, launched the Projet d'adressage des villes de l'intérieur (PAVI) in Daloa on 15 January 2025, a three-year pilot of field surveys, door and street numbering and street-name signs, which also covers Bouaké and Korhogo ([source, 2025-01-15](https://www.aip.ci/cote-divoire-aip-le-bnetd-entame-ladressage-de-la-commune-de-daloa/)).
 
 ### Djibouti: 2 Nascent
 
@@ -209,13 +216,6 @@ An addressing system was under way in 2025; none in service is on record.
 An addressing system was under way in 2026; none in service is on record.
 
 - CRAN's Chief Executive Emilia Nghikembua says the development of a National Addressing System, alongside integrating ICT variables into national surveys, will improve service delivery, in the context of the CRAN-NSA data-sharing MoU ([source, 2026-04-27](https://economist.com.na/106279/general-news/communications-regulator-and-nsa-sign-landmark-agreement-to-bolster-national-data-integrity/)).
-
-### Niger: 2 Nascent
-
-An addressing system was under way in 2026; none in service is on record.
-
-- The Agence de Modernisation des Villes says its Niamey addressing geoportal, built by GéoMinds Africa with city-validated data, references 3,500+ streets of the capital, to modernise the traditional addressing system ([source, 2026-10-17](http://www.modernisation-villes.ne/geoportail/pages/about.html)).
-- The Agence de Modernisation des Villes issued tender notice PI_DG_009, closing 30 June 2025, for updating and extending Niamey's urban addressing system ([source, 2025-06-30](http://www.modernisation-villes.ne/fr/node/110)).
 
 ### Senegal: 2 Nascent
 
