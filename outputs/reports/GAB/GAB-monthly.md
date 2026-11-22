@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: GAB
 ledger_rows: 42
 not_held: 11
-record: ee7c3e588386
+record: 02db9974d736
 ---
 
 # News, Oct – Nov 2026
@@ -579,6 +579,14 @@ Gabon's civil-service ministry reviewed technical preparations for an integrated
 **[Fonction publique : 5,38 milliards de FCFA pour accélérer la modernisation en 2027](https://www.gabonreview.com/fonction-publique-538-milliards-de-fcfa-pour-accelerer-la-modernisation-en-2027/)** — GabonReview, 26 October 2026
 
 Gabon's civil-service ministry asked parliament for FCFA 5.38bn for 2027, excluding staff costs, to digitise five procedures, bring 150 processing stations into service and deploy the SIGRH human-resources system. Only 32% of its 2026 envelope had been executed by end-October.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Projet Gabon Digital : Le Ministère de la Fonction Publique et la Banque mondiale examinent les avancées et les perspectives de mise en œuvre du SIGRH](https://fonction-publique.gouv.ga/projet-gabon-digital-le-ministere-de-la-fonction-publique-et-la-banque-mondiale-examinent-les-avancees-et-les-perspectives-de-mise-en-oeuvre-du-sigrh/)** — Ministère de la Fonction publique et du Renforcement des capacités (Gabon), 19 November 2026
+
+World Bank mid-term review; SIGRH build from Dec 2026, pilot Mar 2027, live end-2027; project 20 months from close.
 
 </div>
 
