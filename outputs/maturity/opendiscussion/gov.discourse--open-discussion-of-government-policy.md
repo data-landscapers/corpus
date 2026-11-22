@@ -309,10 +309,9 @@ In August 2026 a court in El Obeid jailed a pharmacist for six years over a priv
 
 ### Tanzania: 1 Absent
 
-The internet was cut nationwide around the 29 October 2025 election; no source found says who ordered it and whether another cut has followed.
+The internet was slowed around an opposition leader's sentencing in November 2026, after the October 2025 election cut; a bar on cuts is not known.
 
-- The complaint filed 21 August 2026 states that the Tanzanian government shut down the internet nationwide around the 29 October 2025 election and protests; this is the plaintiff's allegation, with no end date given ([source, 2025-10](https://unicourt.com/case/ca-sm-casebm9eb4fc6d8dcd-1031959)).
-- Amnesty International says Tanzania's authorities imposed a partial internet shutdown during the October 2025 general elections ([source, 2025-10](https://www.amnesty.org/en/latest/news/2026/05/east-and-southern-africa-media-freedom-under-attack-amid-prevailing-impunity/)).
+- The EastAfrican says Tanzania's internet and communication slowdowns around major political and judicial events, such as the 6 November 2026 sentencing of Chadema leader Tundu Lissu, are part of a recurring pattern of state-managed bandwidth throttling ([source, 2026-11-06](https://www.theeastafrican.co.ke/tea/news/east-africa/digital-freedom-declining-in-east-africa-mo-ibrahim-report-5679002)).
 
 ### Tunisia: 1 Absent
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-21-xea-eastafrican-digital-freedom-declining-iiag-2026",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "The EastAfrican says Tanzania's internet and communication slowdowns around major political and judicial events, such as the 6 November 2026 sentencing of Chadema leader Tundu Lissu, are part of a recurring pattern of state-managed bandwidth throttling.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "internet slowdown",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

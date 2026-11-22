@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-21-xea-eastafrican-digital-freedom-declining-iiag-2026",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "The EastAfrican lists Uganda among countries where governments used internet shutdowns, social media throttling and platform blockades around the 2026 general elections.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "internet shutdown",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "repealed",
+   "fact": "The EastAfrican says that in March 2026 Uganda's Constitutional Court struck down several provisions of the 2022 Computer Misuse Act amendments, including those on hate speech and social media misuse, for violating free expression.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Computer Misuse Act (2022 amendments)",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -9,10 +9,10 @@
       "penalty": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-006;TZA-010",
+      "stage_sources": "TZA-022",
       "gaps": "",
-      "note": "Counted from the four questions by study-ladder-opendiscussion.py.",
-      "as_at": "2026-10-17"
+      "note": "The EastAfrican reports state throttling around the 6 November 2026 sentencing of Tundu Lissu (TZA-022), a cut inside the twelve months, so 1 whatever else is held.",
+      "as_at": "2026-11-22"
     }
   ]
 }
