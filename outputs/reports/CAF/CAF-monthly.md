@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: CAF
-ledger_rows: 15
+ledger_rows: 16
 not_held: 5
-record: 5b0185e4974b
+record: 92cf2f5d4279
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: 5b0185e4974b
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
@@ -150,13 +152,21 @@ UNDP in the Central African Republic is seeking an individual consultant to writ
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Civil Status Management Software (LGEC)</p>
+<p class="monthly-story__name">Civil-status management software (MbetiNet, formerly LGEC)</p>
 
 <div class="bulletin-item" markdown="1">
 
 **[Training of civil registrars in CAR to protect civil status](https://yacanews.com/2026/11/rca-forme-agents-detat-civil-a-la-gestion-des-archives-et-protection?lang=en)** — Ya Ça News, 17 November 2026
 
 The European MODERO project, run by CIVIPOL, trained 28 officers in Bangui from 11 to 13 November 2026. They came from civil registration centres, the National Archives and the courts. Topics were registry archiving and digitising records in the civil status management software.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Modernisation de l’état civil en RCA : des avancées significatives malgré des défis persistants - Oubangui Médias](https://oubanguimedias.com/2026/11/19/modernisation-de-letat-civil-en-rca-des-avancees-significatives-malgre-des-defis-persistants/)** — Oubangui Médias, 19 November 2026
+
+MODERO, Jan-Sep 2026: 184,563 births registered, 130,000 acts digitised; registry software named MbetiNet.
 
 </div>
 
@@ -331,6 +341,28 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 **[ICASEES : Lancement de la deuxième vague de collecte de l'EHCVM2 en République centrafricaine](https://www.icasees.org/index.php/actualites/430-icasees-lancement-de-la-deuxieme-vague-de-collecte-de-lehcvm2-en-republique-centrafricaine)** — ICASEES, 17 October 2026
 
 ICASEES launched the second collection wave of the Central African Republic's second harmonised household living-conditions survey (EHCVM2) at a press briefing in Bangui on 17 October 2026. The wave extends the survey to the Fertit region (Haute-Kotto, Vakaga and Bamingui-Bangoran), which the July-to-September first wave had left out for security reasons, and steps up household sensitisation; the survey runs under the World Bank-backed HISWACA-SOP2 project.
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#eu-activities">EU activities</a>
+</nav>
+
+### EU activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil-status modernisation programme</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Modernisation de l’état civil en RCA : des avancées significatives malgré des défis persistants - Oubangui Médias](https://oubanguimedias.com/2026/11/19/modernisation-de-letat-civil-en-rca-des-avancees-significatives-malgre-des-defis-persistants/)** — Oubangui Médias, 19 November 2026
+
+Summarised under [Registries](#registries).
 
 </div>
 
