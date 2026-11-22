@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: EGY
-ledger_rows: 76
+ledger_rows: 78
 not_held: 35
-record: 302b51e714c6
+record: 94e1ed605e81
 ---
 
 # News, Oct – Nov 2026
@@ -70,6 +70,14 @@ Prime Minister Mostafa Madbouly announced the closing recommendations of Egypt F
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[منتدى مصر 2026 يستهدف رفع الخدمات الحكومية على منصة مصر الرقمية إلى 300 خدمة](https://www.youm7.com/story/2026/11/20/%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D9%85%D8%B5%D8%B1-2026-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9/7625919)** — Youm7, 20 November 2026
+
+Plan costed at about EGP 4.2bn; MCIT and agencies to integrate databases and systems for the expansion.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -89,6 +97,14 @@ Youm7 reported on 7 November 2026 from the opening session of Cairo ICT 2026. Th
 **[وزير الاتصالات: نمو القطاع 24.5% و12 مليار دولار مستهدف الصادرات الرقمية.. رأفت هندى: نستهدف رفع مساهمة القطاع لـ 8% من الناتج المحلى بحلول 2030.. وإنتاج 12 مليون هاتف محمول خلال 2026.. 400 خدمة حكومية مستهدفة](https://www.youm7.com/story/2026/11/7/وزير-الاتصالات-نمو-القطاع-24-5-و12-مليار-دولار-مستهدف/7608559)** — Youm7, 7 November 2026
 
 Youm7 published an interview on 7 November 2026 with Egypt's ICT minister, Raafat Hindy. The minister said the sector grew 24.5 per cent and aims for 8 per cent of GDP by 2030. The minister also described a plan for seven hyperscale data centres and a target of 400 national e-services.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt allocates $440,000 consultancy budget to draft national data centre strategy](https://itmagazineme.com/egypt-allocates-440000-consultancy-budget-to-draft-national-data-centre-strategy/)** — IT Magazine ME, 21 November 2026
+
+Drafting from Dec 2026, launch now Q1 2027 rather than end-2026; 28 MW commercial capacity baseline cited.
 
 </div>
 
@@ -641,6 +657,28 @@ Egypt's Ministry of Justice said it has linked the real estate registry by netwo
 **[Cabinet approves draft resolution to establish Comprehensive National Data System](https://sis.gov.eg/en/media-center/news/cabinet-approves-draft-resolution-to-establish-comprehensive-national-data-system/)** — State Information Service (Egypt), 18 November 2026
 
 Egypt's Cabinet approved a draft resolution on 18 November 2026 establishing a Comprehensive National Data System. It is an AI-powered state database with six sub-platforms, including project spending and Cabinet decisions. A committee chaired by the cabinet's decision support centre meets monthly and reports quarterly to the prime minister.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Egypt-Libya labour-ministry electronic link and worker database</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ليبيا ومصر تتفقان على تفعيل الربط الإلكتروني بين وزارتي العمل في البلدين،](https://lana.gov.ly/post.php?id=370414&lang=ar)** — Libyan News Agency (LANA), 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
+
+Database of Egyptian workers in Libya; joint committees to relaunch link system within a week.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير العمل: ربط إلكتروني وقاعدة بيانات مشتركة لتنظيم تشغيل العمالة المصرية في ليبيا](https://www.youm7.com/story/2026/11/20/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%B1%D8%A8%D8%B7-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%88%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D8%A9/7625973)** — Youm7, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBY/LBY-monthly.html" title="LBY">Libya</a>
+
+Signed in Cairo 19 Nov 2026 during Dbeibah visit; labour offices planned in Tripoli and Benghazi.
 
 </div>
 
@@ -1259,6 +1297,20 @@ Google announced a US$2.4 million Google.org grant to INJAZ Al-Arab to take its 
 **[Communications Minister: Joint efforts to boost youth digital skills](https://sis.gov.eg/en/media-center/news/communications-minister-joint-efforts-to-boost-youth-digital-skills/)** — State Information Service (Egypt), 8 October 2026
 
 Egypt's communications and labour ministries signed a memorandum to digitise the labour ministry's work and run digital-skills programmes for its staff, graduates and job seekers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Netherlands Knowledge Empowers You (KEY) technical-talent programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government invests in technical talent in partner countries](https://www.government.nl/latest/news/2026/11/20/government-invests-in-technical-talent-in-partner-countries)** — Ministry of Foreign Affairs (Netherlands), 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+EUR 150m over 2027-2031; seven initial countries, four outside Africa; no per-country split stated.
 
 </div>
 
