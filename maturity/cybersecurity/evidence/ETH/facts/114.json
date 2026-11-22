@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-19-eth-ethiopian-airlines-shebamiles-breach",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "Ethiopia's Information Network Security Administration said it thwarted more than 50,000 cyberattacks in the first nine months of the 2025/26 fiscal year.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "INSA",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "recorded",
+   "fact": "INSA reported more than 50,000 cyberattacks thwarted in the first nine months of 2025/26, against 13,494 in the previous year.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "INSA",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": "Critical-infrastructure law names 12 sectors but operators are designated later with reporting from July 2027, so no designation recorded."
+}

@@ -2,7 +2,7 @@
 
 ## National cyber response
 
-**A strategy or a national body.** [An NTRA vice president and a deputy minister are reported saying the National Cybersecurity Strategy 2023-2027 is being implemented](<https://www.technotime.net/17231>). [The NTRA vice president for cybersecurity is reported saying Egypt established the Supreme Cybersecurity Council](<https://www.technotime.net/17231>). He is reported saying NTRA monitors cyber threats around the clock. National computer emergency response capabilities are cited.
+**A strategy or a national body.** [An NTRA vice president and a deputy minister are reported saying the National Cybersecurity Strategy 2023-2027 is being implemented](<https://www.technotime.net/17231>). [The NTRA vice president for cybersecurity is reported saying Egypt established the Supreme Cybersecurity Council](<https://www.technotime.net/17231>). He is reported saying NTRA monitors cyber threats around the clock. National computer emergency response capabilities are cited. [In November 2026 the Supreme Cybersecurity Council was reported to have started work on a third edition of the strategy](<https://itmagazineme.com/egypt-allocates-440000-consultancy-budget-to-draft-national-data-centre-strategy/>).
 
 **Responding to incidents.** No source found says the national body handled an incident or issued a public alert since October 2023. No response to an attack is on record. [An NTRA vice president said in September 2026 that NTRA monitors cyber threats around the clock](<https://www.technotime.net/17231>).
 

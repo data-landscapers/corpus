@@ -4,7 +4,7 @@
 
 **A strategy or a national body.** [INSA, with its Director General speaking, is stated on 29 September 2026 to co-chair a newly established Financial Sector Cybersecurity Forum](<https://techreviewafrica.com/news/7510/ethiopia-establishes-financial-sector-cybersecurity-forum-to-improve-digital-resilience>). It co-chairs the forum with the National Bank of Ethiopia, for threat sharing and coordinated incident response. [A National Computer Emergency Response Team is stated to exist alongside INSA](<https://www.linkedin.com/posts/information-network-security-administration_insa-digitalethiopia2030-cybersecurity-activity-7491413571923406848-yYmL>). It is the body receiving incident reports under the newly enacted Proclamation No. 1426/2026.
 
-**Responding to incidents.** [INSA Director General Tigist Hamid spoke on Ethio-CERT's work in 2018 E.C](<https://techreviewafrica.com/news/7717>). Ethio-CERT had identified, responded to and reported more than 71,000 cyberattacks that year, the Director General said.
+**Responding to incidents.** [INSA Director General Tigist Hamid spoke on Ethio-CERT's work in 2018 E.C](<https://techreviewafrica.com/news/7717>). Ethio-CERT had identified, responded to and reported more than 71,000 cyberattacks that year, the Director General said. [INSA said it thwarted more than 50,000 attacks in the first nine months of 2025/26](<https://addisfortune.news/news-alert/hackers-breach-shebamiles-not-its-miles-airline-says>).
 
 **Critical infrastructure.** [The proclamation identifies 12 critical infrastructure sectors, including ICT, finance, transport, health and energy](<https://www.ena.et/web/eng/w/eng_9359494>). It requires owners and operators to meet 18 cybersecurity obligations.
 
