@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: TUN
-ledger_rows: 56
+ledger_rows: 58
 not_held: 4
-record: bffe430c4e64
+record: 949af18c7851
 ---
 
 # News, Oct – Nov 2026
@@ -146,6 +146,14 @@ Tunisia's communications ministry announced child-protection measures resting on
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Tunisie : les outils de contrôle parental sur Internet seront gratuits](https://www.lapresse.tn/2026/11/19/tunisie-les-outils-de-controle-parental-sur-internet-seront-gratuits/)** — La Presse de Tunisie, 19 November 2026
+
+Follows INT June 2026 operator obligation; national AI strategy validated, under way; 24-hour threat monitoring.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -198,6 +206,8 @@ Access Now reviewed exam-related internet shutdowns in the Middle East and North
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
 <a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
 </nav>
 
 ### Domestic budget appropriations and expenditure
@@ -211,6 +221,22 @@ Access Now reviewed exam-related internet shutdowns in the Middle East and North
 **[Tunisie : 356,8 millions $ pour la transformation numérique en 2027 face à des défis persistants](https://www.agenceecofin.com/actualites-numerique/0911-143235-tunisie-356-8-millions-pour-la-transformation-numerique-en-2027-face-a-des-defis-persistants)** — Agence Ecofin, 9 November 2026
 
 Tunisia's communication technologies minister presented a 2027 budget of TND 1.07 billion on 6 November 2026, up 9.3%, Agence Ecofin reported. The ministry aims for 150 services on the Khadamet app, from over 40 now. It also plans 1.5 million active digital identities and 200 interoperability services.
+
+</div>
+
+</div>
+
+### MoUs and other agreements
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Tunisia-Indonesia health cooperation memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tunisie-Indonésie : la télémédecine et la fabrication de médicaments au cœur des discussions](https://www.lapresse.tn/2026/11/20/tunisie-indonesie-la-telemedecine-et-la-fabrication-de-medicaments-au-coeur-des-discussions/)** — La Presse de Tunisie, 20 November 2026
+
+Health minister and Indonesian envoy, 20 Nov 2026; digital hospital, e-records, health AI; MoU still in preparation.
 
 </div>
 
@@ -803,6 +829,20 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 **[Tunisie : six projets gouvernementaux basés sur l’IA prévus en 2027 contre deux en 2026](https://www.webmanagercenter.com/2026/11/06/576433/tunisie-six-projets-gouvernementaux-bases-sur-lia-prevus-en-2027-contre-deux-en-2026/)** — Webmanagercenter, 6 November 2026
 
 Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National artificial intelligence strategy</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Tunisie : les outils de contrôle parental sur Internet seront gratuits](https://www.lapresse.tn/2026/11/19/tunisie-les-outils-de-controle-parental-sur-internet-seront-gratuits/)** — La Presse de Tunisie, 19 November 2026
+
+Summarised under [Data protection](#data-protection).
 
 </div>
 
