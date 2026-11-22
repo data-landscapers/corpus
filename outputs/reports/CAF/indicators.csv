@@ -1,7 +1,7 @@
 indicator_id,progress,summary,developments,row_ids,stage,stage_rows,value,unit,value_year,value_source,next_milestone,due,assessed_on,reassessed,qualifier
-gov.policy--digital-transformation-strategy,No change,"The 2024-2028 national development plan [remains the frame for the digital agenda](2026-03-03-car-dunia-platform-techafricanews), cited at a ministry platform launch in February 2026.","[The national development plan has been the governing framework since 2024 and is cited as the frame for the ministry platform launched in February 2026](2026-02-11-rca-mepci-lancement-plateforme-dunia-pnd), [reported again in March](2026-03-03-car-dunia-platform-techafricanews). It did not move in the window.
+gov.policy--digital-transformation-strategy,Movement,The government's digital transformation roadmap [was validated at a workshop in Bangui on 26 August 2026](2026-08-28-caf-la-centrafrique-se-dote-dune-feuille-de-route-strategique-pour-sa-tran); no adoption instrument has been found.,"[The national development plan has been the governing framework since 2024 and is cited as the frame for the ministry platform launched in February 2026](2026-02-11-rca-mepci-lancement-plateforme-dunia-pnd), [reported again in March](2026-03-03-car-dunia-platform-techafricanews). It did not move in the window.
 
-There is no separate digital strategy on this ledger: the plan carries the agenda, and the round-table mobilisation total the ministry states for it appears in a source that reads as a rewritten press release and is not independently corroborated.
+The plan carried the agenda until the roadmap below was validated, and the round-table mobilisation total the ministry states for it appears in a source that reads as a rewritten press release and is not independently corroborated.
 
 The one sector plan that exists is for public finances, reported under data governance, and its costed operational version is still unpublished.
 
@@ -162,10 +162,14 @@ dpi.pay--p2p-p2g-and-p2b-functionality,Movement,"State electricity bills [became
 
 The report states subscribers were already paying this way before the ceremony, so the launch date belongs to the agreement rather than to first use.
 
-It is the first person-to-government payment channel on this ledger and it is a bilateral arrangement between a utility and one operator, in a country where a single operator's month-long outage has already stopped salary payments.",CAF-dpi.pay-electricity-bill-mobile-payment|CAF-dpi.pay-post-cash-fintech-platform,3,CAF-dpi.pay-electricity-bill-mobile-payment,,,,,,,2026-08-31,0,one operator's mobile money takes state utility bills; no interoperability between providers on record
+It is the first person-to-government payment channel on this ledger and it is a bilateral arrangement between a utility and one operator, in a country where a single operator's month-long outage has already stopped salary payments.
+
+2026-10-16 - UNDP [advertised for a consultant to write the functional and technical specification of a national fintech platform, POST CASH](2026-10-16-caf-undp-ungm-fintech-platform-specification); no operator, budget or launch date is stated.",CAF-dpi.pay-electricity-bill-mobile-payment|CAF-dpi.pay-post-cash-fintech-platform,3,CAF-dpi.pay-electricity-bill-mobile-payment,,,,,,,2026-08-31,0,one operator's mobile money takes state utility bills; no interoperability between providers on record
 dpi.pay--population-uptake,No change,"The country [held 0.43% of regional payment-operation volume in 2024](2026-04-08-beac-rapport-services-paiement-cemac-2024), and the regulator counts [more than 702,000 active mobile-money clients at end-June 2026](2026-09-16-caf-arcep-observatoire-marches-communications-electroniques-s1-2026).","2026-04-08 — [the regional central bank's 2024 payment-services report puts the country at 0.43% of regional payment-operation volume, the smallest but one, against the largest member state's 65.10%](2026-04-08-beac-rapport-services-paiement-cemac-2024). The report holds no value figure or account count for the country.
 
-2026-09-16 - the regulator's observatory counts [more than 702,000 active mobile-money clients at end-June 2026](2026-09-16-caf-arcep-observatoire-marches-communications-electroniques-s1-2026), the first national wallet figure the repository holds. No transaction total, agent network figure or account-ownership survey appears at any date.
+2026-09-16 - the regulator's observatory counts [more than 702,000 active mobile-money clients at end-June 2026](2026-09-16-caf-arcep-observatoire-marches-communications-electroniques-s1-2026), the first national wallet figure the repository holds. No transaction total or account-ownership survey appears at any date, and the last agent figure is [about 15 mobile money agents per 100,000 adults, concentrated in Bangui](2023-05-22-caf-carnegie-securing-digital-finance), in 2023.
+
+2026-10-19 - the digital governance project [tendered kits for mobile money service points in localities outside the capital, at an estimated US$200,000, with bids due on 13 November 2026](2026-10-19-caf-developmentaid-pgnsp-mobile-money-agent-kits-tender).
 
 The uses that do exist are narrow and state-driven: salaries for officials outside the banking network and, since August 2026, electricity bills — both reported above, both dependent on one operator.
 
@@ -347,7 +351,9 @@ tech.industry--national-capacity-in-dt-related-production,Movement,A [locally bu
 
 2026-09-16 - the regulator [put operators' combined revenue above FCFA 41.68bn including tax in the first half of 2026, 57% of it from mobile telephony and 36% from internet](2026-09-16-caf-arcep-observatoire-marches-communications-electroniques-s1-2026).
 
-No employment figure, firm count or export figure is published, so beyond operator turnover the position is one named product and a six-year-old diagnostic.",CAF-tech.industry-ict-sector-size-revenue,,,,,,,,,,,
+2025-12-11 - the National Assembly [adopted a public procurement code with a 5% preference margin for national and regional firms](2025-12-11-rca-nouveau-code-commande-publique-adopte), replacing a 2008 law; its promulgation has not been found.
+
+No employment figure, firm count or export figure is published, so beyond operator turnover the position is one named product and a six-year-old diagnostic.",CAF-tech.industry-ict-sector-size-revenue|CAF-gov.legislate-public-procurement-code,,,,,,,,,,,
 tech.innovate--technology-hubs,Movement,"The country's first youth incubator, opened in October 2024, [had trained more than 800 young entrepreneurs by March 2026](2026-03-13-caf-centrafrique-une-table-ronde-sur-l-entrepreneuriat-et-le-developpement), and [a women entrepreneurs' digital incubator opened in Bangui in October 2026](2026-10-31-caf-la-fafeca-inaugure-son-incubateur-numerique-a-bangui-en-presence-du-mi).","The President [inaugurated the Bangui Hub foundation's incubator on 30 October 2024, financed by the French embassy](2024-11-01-caf-rca-inauguration-du-premier-incubateur-d-entreprise-pour-la-jeunesse). It reported [more than 765 incubatees across 12 cohorts in 2025, in Bangui, Damara, Mbaïki and the diaspora](2025-12-26-caf-retrospective-2025-des-cohortes-bangui-hub). By March 2026 it [had trained more than 800 young entrepreneurs](2026-03-13-caf-centrafrique-une-table-ronde-sur-l-entrepreneuriat-et-le-developpement). These are the incubator's own figures.
 
 2026-02-28 - [a partnership with a national initiative was announced](2026-02-28-initiative-bangui-fondation-bangui-hub-partnership).
