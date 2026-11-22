@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-22
+period: 2026-10-01 to 2026-11-22
 place: COG
-ledger_rows: 23
+ledger_rows: 25
 not_held: 5
-record: 5e50143853dd
+record: fa14f46a7932
 ---
 
 # News, Oct – Nov 2026
@@ -14,6 +14,8 @@ record: 5e50143853dd
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -110,6 +112,28 @@ ISO lists ACONOQ, created by a 2015 law, as the Republic of Congo's national sta
 
 </div>
 
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#new-investments">New investments</a>
+</nav>
+
+### New investments
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital acceleration project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Congo/Numérique : Le budget 2027 du Patn arrêté à plus de 18 milliards de Fcfa](https://www.aci.cg/congo-numerique-le-budget-2027-du-patn-arrete-a-plus-de-18-milliards-de-fcfa/)** — Agence Congolaise d'information (ACI), 21 November 2026
+
+The steering committee of Congo's digital acceleration project (PATN) approved a 2027 work plan and budget of FCFA 18.369 billion on 18 November 2026. The 2026 budget is FCFA 8.240 billion, revised down from more than FCFA 21 billion. The project is due to close in December 2027, and the E-Gouv platform is its main expected result.
+
+</div>
+
+</div>
+
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
@@ -153,6 +177,20 @@ Congo Telecom said a repair vessel was due on 11 November 2026 at the WACS fault
 **[WACS subsea cable returns online](https://www.itweb.africa/article/wacs-subsea-cable-returns-online/lLn147mQ96Z7J6Aa)** — ITWeb Africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
 
 Congo Telecom said the WACS submarine cable was back in service on 16 November 2026, two days before its 18 November target. The fault, dated 29 October, lay on the segment between the Democratic Republic of Congo and the Republic of Congo. Repairs were made at sea, supported by teams at the Matombi and Muanda landing stations.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital transformation acceleration project</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Congo/Numérique : Le budget 2027 du Patn arrêté à plus de 18 milliards de Fcfa](https://www.aci.cg/congo-numerique-le-budget-2027-du-patn-arrete-a-plus-de-18-milliards-de-fcfa/)** — Agence Congolaise d'information (ACI), 21 November 2026
+
+Summarised under [New investments](#new-investments).
 
 </div>
 
