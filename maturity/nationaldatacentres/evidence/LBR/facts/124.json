@@ -1,27 +1,27 @@
 {
- "slug": "2026-11-20-lbr-how-a-54-million-deal-nearly-handed-liberia-s-identity-registry-to-an-austr",
- "facts": [
-  {
-   "sub_indicator": "national",
-   "aspect": "centre",
-   "value": "tier3",
-   "fact": "State-owned LIBTELCO already runs a Tier III facility where the ID system could be co-located, per LITCON testimony reported by FrontPage Africa.",
-   "as_of": "2026-11-20",
-   "date_precision": "day",
-   "system": "LIBTELCO data centre",
-   "class": "datacentre"
-  },
-  {
-   "sub_indicator": "national",
-   "aspect": "owner",
-   "value": "national",
-   "fact": "FrontPage Africa describes LIBTELCO as the state-owned Liberia Telecommunications Corporation running that Tier III facility.",
-   "as_of": "2026-11-20",
-   "date_precision": "day",
-   "system": "LIBTELCO data centre",
-   "class": "datacentre"
-  }
- ],
- "systems": [],
- "note": ""
+  "slug": "2026-11-20-lbr-how-a-54-million-deal-nearly-handed-liberia-s-identity-registry-to-an-austr",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "FrontPage Africa, reporting LITCON's testimony to the House committee, says state-owned LIBTELCO runs a Tier III facility where the ID system could be co-located; no certificate, rating or statement by the operator is given.",
+      "as_of": "2026-11-20",
+      "date_precision": "day",
+      "system": "LIBTELCO data centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "owner",
+      "value": "national",
+      "fact": "FrontPage Africa describes LIBTELCO as the state-owned Liberia Telecommunications Corporation running that Tier III facility.",
+      "as_of": "2026-11-20",
+      "date_precision": "day",
+      "system": "LIBTELCO data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [],
+  "note": ""
 }
