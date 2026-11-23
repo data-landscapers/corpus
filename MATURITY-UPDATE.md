@@ -49,7 +49,7 @@ Start one Sonnet drafter per call file, then `study-arrivals.py fan`: an arrival
    python scripts/study-update.py log {id} {ISO3} {key} --kind fact --note "what arrived and what it settled"
    ```
 
-   Run it after `stage.json` is rewritten and before `study-assess.py`: it reads the published stage as `from`.
+   Run it after `stage.json` is rewritten and before `study-assess.py`: it reads the published stage as `from`. **A moved `fact` note is public: no shorthand.**
 7. **Rewrite the short summary** in `short.json` where the stage, or the fact it rests on, changed.
 
 ### Close and publish

@@ -818,7 +818,7 @@ def method_page(data: dict, studies: list[dict]) -> str:
 
 # ---------------------------------------------------------------------------
 
-MOVEMENT_FIELDS = ["Date", "Chapter", "Topic", "Indicator", "Country", "From", "To", "Evidence"]
+MOVEMENT_FIELDS = ["Date", "Country", "Chapter", "Topic", "Indicator", "From", "To", "Evidence"]
 MOVEMENT_ALL = {"Chapter": "All chapters", "Topic": "All topics", "Indicator": "All indicators",
                 "Country": "All countries", "From": "From any stage", "To": "To any stage"}
 MOVEMENT_CHARS = {"Date": 14, "From": 15, "To": 15}   # so a date or a stage's name holds one line
@@ -843,7 +843,8 @@ def movement_rows(data: dict, studies: list[dict]) -> list[dict]:
                                  Indicator=ind["label"], Country=data["countries"].get(h["iso3"], h["iso3"]),
                                  From=stage_label(h["from"]), To=stage_label(h["to"]),
                                  Evidence=h["note"].strip()))
-    rows.sort(key=lambda r: (r["Chapter"], r["Topic"], r["Indicator"], r["Country"]))
+    # `data-sort` takes one column and the table's sort is stable, so this order breaks its ties.
+    rows.sort(key=lambda r: (r["Country"], r["Chapter"], r["Topic"], r["Indicator"]))
     rows.sort(key=lambda r: r["Date"], reverse=True)
     return rows
 
@@ -860,7 +861,7 @@ def movement_page(csv_name: str, n: int, artefacts: str) -> str:
     </header>
     <div class="dl-datatable"
       data-src="{name}"
-      data-cols="Date, Country, Chapter, Topic, Indicator, From, To, Evidence"
+      data-cols="{", ".join(MOVEMENT_FIELDS)}"
       data-filters="Country, Chapter, Topic, Indicator, From, To"
       data-filter-all="{html.escape(json.dumps(MOVEMENT_ALL), quote=True)}"
       data-col-chars="{html.escape(json.dumps(MOVEMENT_CHARS), quote=True)}"
