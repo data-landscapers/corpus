@@ -4,6 +4,7 @@ AGO,Simplifica 1.0 and 2.0,Angola,eservices,www.sepe.gov.ao,State Reform Program
 AGO,Portal dos Serviços Públicos Electrónicos (SEPE),Angola,eservices,portal,,,2026-10-29-ago-pti-homologacao-diplomas-codigo-qr-inaarees
 AGO,Portal SIMPLIFICA,Angola,eservices,,IMA,,2026-10-29-ago-pti-ima-concurso-internacional-portal-simplifica
 AGO,Sistema de facturação electrónica,AGT e-invoicing,other,,AGT,,2026-11-04-ago-agt-pretende-integrar-dois-milhoes-de-contribuintes-no-sistema-de-facturacao
+AGO,SME online border-visa application (sme.gov.ao),Angola,eservices,sme.gov.ao,Serviço de Migração e Estrangeiros,,2026-11-21-ago-visto-de-fronteira-em-angola-passa-a-ser-digital-no-sme-diario-94
 BDI,Chatbot WhatsApp OBR,Chatbot WhatsApp OBR,other,WhatsApp,OBR,,2026-09-01-bdi-l-obr-lance-officiellement-son-chatbot-whatsapp-l-assistance-fiscale-e
 BDI,Portail e-Gouv,Burundi,other,national e-government portal (tender),PAFEN / World Bank-financed,,2026-10-29-bdi-consulting-digitale-verwaltungsdienstleistungen-e-gov
 BDI,Portail e-Gouv,Burundi,eservices,,"PAFEN / SETIC, Ministry of Finance, Budget and the Digital Economy",,2026-10-20-bdi-wb-op00476457-pafen-portail-e-gouv-rfp
@@ -81,11 +82,21 @@ COD,Ministry of Finance payment-tracking platform,DR Congo,other,,Ministry of Fi
 COD,dgi-immatriculation.cd,DR Congo,eservices,,"Ministry of Finance, DGI",,2024-02-26-cod-nicolas-kazadi-lance-une-plateforme-numerique-de-demande-de-plaques-et
 COD,E-Services RDC,E-Services RDC,eservices,web portal and Mbulamatari app,Ministry of the Civil Service,national,2026-11-19-cod-acp-e-services-rdc-plateforme-lancement
 COD,E-Services RDC,E-services RDC,eservices,,Ministry of the Civil Service,national,2026-11-19-cod-acp-tshisekedi-modernisation-administration-e-services
+COD,i-impots,DR Congo,other,web portal,Direction generale des impots,,2026-11-13-cod-i-impots-dgi-rdc-declarer-et-payer-ses-impots-en-ligne-guide-2026
+COD,e-Impots,DR Congo,other,web portal,Direction generale des impots,,2026-11-11-cod-dr-congo-requires-foreign-digital-service-providers-to-register-and-pa
+COD,DGM e-visa application portal,DR Congo,eservices,web portal,Direction generale de migration,,2026-10-16-cod-wearetech-plateforme-integree-visas-electroniques
+COD,Integrated electronic visa management platform (planned),DR Congo,other,,Ministry of Digital Economy and Ministry of Foreign Affairs,,2026-10-16-cod-wearetech-plateforme-integree-visas-electroniques
+COD,Facture normalisee (e-DEF / e-MCF e-invoicing),DR Congo,other,,Direction generale des impots,,2026-08-06-cod-facture-normalisee-fwamba
+COD,GUCE,DR Congo,eservices,website and mobile app,Guichet Unique de Creation d'Entreprise,,2026-07-28-cd-guce-formalisation-numerique
+COD,KIN ALERTE,DR Congo,other,mobile app,Kinshasa provincial government,,2026-01-01-kinshasa-drones-kin-alerte-rdcmonde
+COD,passeport.gouv.cd,DR Congo,eservices,website,Ministry of Foreign Affairs,,2025-06-06-actualite-cd-passeport-biometrique-rdc
+COD,e-NIF,DR Congo,other,website,Direction Generale des Impots,,2025-06-06-actualite-cd-passeport-biometrique-rdc
 COG,Portail e-Citizen,Congo,eservices,,MPTEN,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
 COG,Identité numérique,Congo,other,open source solution,MPTEN,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
 COG,E-Bourses,E-Bourses,eservices,,Ministere du Budget with the education ministries,,2024-06-06-cog-adiac-budget-trois-projets-sigfip-paie
 COG,ADEN online government services platform,portail numerique des services gouvernementaux,other,,ADEN with Regalli subsidiary,,2024-03-14-cog-wearetech-aden-regalli-portail
 COG,e-gouv platform,Congo,eservices,government portal under construction,"Ministry of Posts, Telecommunications and Digital Economy; built by Addinn with PATN",,2024-12-20-cog-numerique-les-partenaires-appeles-a-accelerer-le-projet-e-gouv
+COG,E-Gouv platform,Congo,other,,PATN (World Bank-financed project),,2026-11-21-cog-aci-patn-ptba-2027-18-milliards
 COM,plateforme d'administration numérique (portail gouvernemental),Comoros,eservices,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
 COM,e-Bourse,Comoros,eservices,,ANADEN,,2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec
 COM,e-Msomo,Comoros,other,,ANADEN,,2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec
@@ -190,6 +201,8 @@ GAB,VECTIS,Gabon,other,Involys,"DGBFIP, Ministry of Public Accounts",,2024-02-01
 GAB,SIGIP / SNISE,Gabon,other,SIGIP module SNISE,Commissariat general au Plan,,2026-11-13-gab-guide-national-suivi-evaluation-gabonews
 GAB,Baana,plateforme numérique Baana,eservices,,CPPF,,2026-11-18-gab-gabon-prestations-familiales-koulamoutou-la-cppf-pr-pare-la-digitalisa
 GAB,Baana,Gabon,eservices,ars.cppf.ga,CPPF,,2026-11-17-gab-gabon-prestations-familiales-mouila-la-cppf-sensibilise-les-agents-pub
+GAB,SIGRH,Gabon,other,,Ministry of the Civil Service,,2026-11-19-gab-gabon-digital-sigrh-midterm-review
+GAB,e-Fonction publique portal,Gabon,other,,Ministry of the Civil Service,,2026-11-19-gab-gabon-digital-sigrh-midterm-review
 GHA,Interior Ministry online digital services portal,Ghana,eservices,,Ministry of the Interior,,2025-12-11-interior-ministry-digital-services-portal-graphic
 GHA,Ghana.gov portal,Ghana,eservices,,,,2024-01-01-ghana-digital-economy-policy-and-strategy
 GHA,e-Payment portal,Ghana,eservices,,,,2024-01-01-ghana-digital-economy-policy-and-strategy

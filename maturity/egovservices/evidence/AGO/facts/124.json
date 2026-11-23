@@ -1,26 +1,26 @@
 {
- "slug": "2026-11-21-ago-visto-de-fronteira-em-angola-passa-a-ser-digital-no-sme-diario-94",
- "facts": [
-  {
-   "sub_indicator": "eservices",
-   "aspect": "services",
-   "value": "underway",
-   "fact": "Diário 94 reports that Angola's Serviço de Migração e Estrangeiros moved border-visa applications fully online, with registration at sme.gov.ao, real-time tracking and a RUPE payment reference issued on validation.",
-   "as_of": "2026-11-21",
-   "date_precision": "day",
-   "system": "SME online border-visa application (sme.gov.ao)",
-   "class": "eservices"
-  }
- ],
- "systems": [
-  {
-   "system": "SME online border-visa application (sme.gov.ao)",
-   "country_label": "Angola",
-   "class": "eservices",
-   "platform": "sme.gov.ao",
-   "owner": "Serviço de Migração e Estrangeiros",
-   "tiers": ""
-  }
- ],
- "note": ""
+  "slug": "2026-11-21-ago-visto-de-fronteira-em-angola-passa-a-ser-digital-no-sme-diario-94",
+  "facts": [
+    {
+      "sub_indicator": "eservices",
+      "aspect": "services",
+      "value": "underway",
+      "fact": "Diario 94 reports that Angola's Servico de Migracao e Estrangeiros moved border-visa applications fully online for registered entities, with registration at sme.gov.ao, real-time tracking and a RUPE payment reference issued on validation.",
+      "as_of": "2026-11-21",
+      "date_precision": "day",
+      "system": "SME online border-visa application (sme.gov.ao)",
+      "class": "eservices"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SME online border-visa application (sme.gov.ao)",
+      "country_label": "Angola",
+      "class": "eservices",
+      "platform": "sme.gov.ao",
+      "owner": "Serviço de Migração e Estrangeiros",
+      "tiers": ""
+    }
+  ],
+  "note": ""
 }
