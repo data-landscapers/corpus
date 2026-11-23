@@ -47,6 +47,8 @@ CIV,e-Cadastre,Cote d'Ivoire,land,,Direction generale des Impots,,2026-10-09-civ
 CIV,e-mining cadastre,Cote d'Ivoire,other,Landfolio,"Ministry of Mines, Petroleum and Energy",,2025-09-23-e-mining-cadastre-portal-wearetech
 CIV,Livre Foncier Electronique (LIFE),Côte d'Ivoire,land,,Direction Générale des Impôts,notaries,2023-11-02-civ-finances-fiscalite-interieure-reformes
 CIV,SIGFU (Systeme Integre de Gestion du Foncier Urbain),Cote d'Ivoire,land,,"Ministry of Construction, Housing and Urban Planning",national,2025-02-13-civ-expanding-the-property-tax-base-innovations-in-property-identification
+CIV,Livre foncier,Livre foncier,other,,,,2024-07-02-civ-loi-2024-351-modifiant-code-urbanisme-domaine-foncier-urbain
+CIV,SIGFU,Cote d'Ivoire,land,,Government,,2025-01-01-civ-foncier-et-urbanisme
 CMR,Digital land file system (Douala City Council),Cameroon,land,,Communauté urbaine de Douala,city,2026-05-07-leconomie-douala-digital-land-registry-possession-certificate
 CMR,Cadastre National numérique (Modernisation du cadastre programme),Cameroon,land,,"Ministry of Domains, Cadastre and Land Affairs",national,2025-11-26-cmr-2026-37-380
 CMR,Cadastre National numérique (Modernisation du cadastre programme),Cameroon,land,,"Ministry of Domains, Cadastre and Land Affairs",national,2024-12-23-cmr-2025-37-026
@@ -117,6 +119,7 @@ GHA,ELIS,Ghana,land,,Lands Commission,,2025-11-01-gha-the-digital-transformation
 GHA,Enterprise Land Information System,Ghana,land,,Lands Commission,,2025-08-28-gha-lands-commission-backs-digital-reforms-to-boost-affordable-housing
 GHA,Lands Commission digitised titles,Ghana,land,,Lands Commission,,2024-11-25-gha-bawumia-hails-lands-commission-s-digital-transformation-as-new-office
 GHA,Lands Commission online services portal,Ghana,land,onlineservices.lc.gov.gh,Lands Commission,10 of 16 regions,2026-10-14-gha-lands-commission-outlines-four-steps-for-conducting-online-land-search
+GHA,Land Use Planning and Management Information System (LUPMIS),LUPMIS,other,web,LUSPA,,2026-11-19-gha-giz-paired-decentralisation-spatial-planning-governance
 GIN,e-Foncier rural,Guinea,land,digital platform (future),Ministere de l'Agriculture,national,2025-10-14-cartographie-terres-agricoles-e-foncier-rural
 GIN,"Projet de Modernisation, Securisation et Simplification du Cadastre Foncier",Guinea,other,,"Ministry of Urbanism, Housing and Land Planning; IGNFI offer under review",,2024-08-09-gin-projet-de-modernisation-securisation-et-simplification-du-cadastre-fon
 GIN,DAMANDA,Guinea,other,digital mining cadastre,Ministry of Mines and Geology with the Simandou strategic committee,,2025-12-22-gin-mines-la-guinee-lance-damanda-sa-plateforme-digitale-de-gestion-des-ti
