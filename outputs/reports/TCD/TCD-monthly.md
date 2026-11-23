@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: TCD
-ledger_rows: 25
+ledger_rows: 26
 not_held: 23
-record: 8d8e2af507e0
+record: 75ec654dc049
 ---
 
 # News, Oct – Nov 2026
@@ -77,6 +77,20 @@ Chad's higher-education ministry opened a workshop in N'Djamena on 14 October 20
 </div>
 
 ### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Journalists' union bill on access to information and journalist safety</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : l'UJT et l'Assemblée nationale veulent relancer les réformes sur la presse](https://tchadinfos.com/2026/10/07/tchad-lujt-et-lassemblee-nationale-veulent-relancer-les-reformes-sur-la-presse/)** — Tchadinfos, 7 October 2026
+
+UJT meets Assembly communications committee 5 Oct 2026 to revive press-law reform and the journalist-safety bill.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
