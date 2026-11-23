@@ -1,19 +1,20 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "no evidence",
-   "finance": "",
-   "revenue": "",
-   "payroll": "",
-   "renewed": "",
-   "architecture": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether the government's finance, tax or payroll systems are in use.",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "unplaced",
+      "finance": "",
+      "revenue": "inuse",
+      "payroll": "",
+      "renewed": "",
+      "architecture": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found says whether the government's budget, accounts and payments or its payroll run on a computer system.",
+      "note": "The tax directorate runs tax on SIGIBe (BEN-001), which is half of question 2. Question 1 asks about the finance system and nothing found answers it, so no rung is set.",
+      "as_at": "2026-11-23"
+    }
+  ]
 }

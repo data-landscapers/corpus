@@ -25,8 +25,8 @@ The African Charter on the Values and Principles of Public Service and Administr
 | 3 Established | 8 |
 | 2 Nascent | 16 |
 | 1 Absent | 0 |
-| Unplaced | 9 |
-| No evidence | 13 |
+| Unplaced | 10 |
+| No evidence | 12 |
 
 ## Countries
 
@@ -255,6 +255,12 @@ Togo runs budget execution in SIGFiP and tax returns online in 2026; no source f
 
 - Togo's finance ministry refers to the existing budget information system SIGFiP in which budget execution runs, and an EU-IMF workshop of 25-27 February 2026 specified computerising commitment plans and annual work plans within it ([source, 2026-02-25](https://finances.gouv.tg/renforcement-de-la-gestion-des-finances-publiques-au-togo/)).
 
+### Benin: Unplaced
+
+Benin's tax office has run tax on an online platform since 2022; nothing found covers finance or payroll systems, so no stage is set.
+
+Not established: Nothing found says whether the government's budget, accounts and payments or its payroll run on a computer system.
+
 ### Burundi: Unplaced
 
 No source found from 2023 or later says the government's financial system is in use, so no stage is set.
@@ -308,12 +314,6 @@ Not established: No source found from 2023 or later says the government's financ
 A civil-service records platform launched in 2026; nothing says the government's finances run on a computer system, so no stage is set.
 
 Not established: No source found from 2023 or later says the government's financial management system is in use; the Bayan civil-service records platform is held only as launched, not as in service.
-
-### Benin: No evidence
-
-Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set.
-
-Not established: Nothing found says whether the government's finance, tax or payroll systems are in use.
 
 ### Burkina Faso: No evidence
 
