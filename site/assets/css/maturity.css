@@ -355,3 +355,20 @@
 
 /* The Movement table's top scrollbar strip reads red always, as on Who's Who. */
 .mat-movement-page .dl-datatable .dt-scroll-top { background: var(--accent); border-bottom-color: var(--accent); }
+
+/* Its head is tight, has no rule, and pins with the table's controls and column headers. */
+.mat-movement-page .mat-move-head { margin-bottom: 0; padding-bottom: .45rem; }
+.mat-movement-page .mat-move-head .article-header { border-bottom: none; margin-bottom: 0; padding: .45rem 0 0; }
+.mat-movement-page .mat-move-head .article-header__crumb { margin-bottom: .15rem; }
+.mat-movement-page .mat-move-head .article-header__title { margin-bottom: 0; }
+.mat-movement-page .mat-move-head > .article-header > .feedback-ask { display: block; }
+.mat-movement-page .dl-datatable { margin-top: 0; }
+/* Paper the full window width: the table beneath breaks out wider than the title. */
+.report-head-sticky .mat-movement-page .mat-move-head {
+  box-shadow: 0 0 0 100vmax var(--paper);
+  clip-path: inset(-2px -100vmax 0);
+}
+/* On a small or short screen the controls take the room; the title scrolls away. */
+@media (max-width: 760px), (max-height: 640px) {
+  .report-head-sticky .mat-movement-page .mat-move-head { position: static; box-shadow: none; clip-path: none; }
+}

@@ -857,11 +857,13 @@ def movement_page(csv_name: str, n: int, artefacts: str) -> str:
     name = html.escape(csv_name)
     about, panel = info("Maturity movement")
     body = f"""  <div class="container">
+    <div class="report-head report-head--page mat-move-head" data-dt-above>
     <header class="article-header">
       <div class="article-header__crumb"><a href="../">Maturity Assessment</a></div>
       {feedback("Maturity Assessment: Movement", f"{SITE_BASE}/maturity/movement/")}
       <h1 class="article-header__title">Movement{about}</h1>
     </header>
+    </div>
     {panel}
     <div class="dl-datatable"
       data-src="{name}"
@@ -885,7 +887,9 @@ def movement_page(csv_name: str, n: int, artefacts: str) -> str:
     return page(title="Movement — Maturity Assessment",
                 description="Every change of stage in the Maturity Assessment, with the evidence for it.",
                 canonical=f"{SITE_BASE}/maturity/movement/", depth=2, body=body, body_class="mat-movement-page",
-                sheets=("country.css", "datatable.css", "maturity.css"), scripts=script("datatable.js", 2),
+                sheets=("country.css", "datatable.css", "maturity.css"),
+                # report-head.js first: the table measures the pinned head to park beneath it.
+                scripts=script("report-head.js", 2) + "\n" + script("datatable.js", 2),
                 active="maturity", head=artefacts)
 
 
