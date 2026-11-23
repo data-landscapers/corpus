@@ -106,6 +106,7 @@
 }
 .mat-field select:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
 .mat-buttons { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; }
+.mat-buttons .feedback-ask { float: none; margin: 0 .5rem 0 0; }   /* a float does nothing in a flex row */
 .mat-dl-note { font-size: .75rem; color: var(--ink-faint); }
 
 .mat-body {

@@ -528,6 +528,7 @@ def map_page(downloads: dict | None = None, artefacts: str = "") -> str:
       <h1 class="mat-title">Maturity Assessment{about}{uc}</h1>
       {panel}
       <div class="mat-buttons">
+        {feedback("Maturity Assessment", f"{SITE_BASE}/maturity/")}
         <a class="mat-btn" id="mat-method" href="../methodology/maturity/">Methodology</a>
         <a class="mat-btn" id="mat-movement" href="movement/">Movement</a>
         {buttons}
@@ -858,6 +859,7 @@ def movement_page(csv_name: str, n: int, artefacts: str) -> str:
     body = f"""  <div class="container">
     <header class="article-header">
       <div class="article-header__crumb"><a href="../">Maturity Assessment</a></div>
+      {feedback("Maturity Assessment: Movement", f"{SITE_BASE}/maturity/movement/")}
       <h1 class="article-header__title">Movement{about}</h1>
     </header>
     {panel}
