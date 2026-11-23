@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: LBR
-ledger_rows: 32
+ledger_rows: 33
 not_held: 6
-record: eba3229aef75
+record: 78fe3f72e9ba
 ---
 
 # News, Oct – Nov 2026
@@ -535,6 +535,20 @@ Central Bank of Liberia Governor Henry Saamoi set four priorities for the Pay Na
 </nav>
 
 ### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Information Commission ruling against the Environmental Protection Agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia: Daylight Wins Transparency Battle Against Epa](https://allafrica.com/stories/202610130246.html)** — Liberian Observer via allAfrica, 13 October 2026
+
+Information Commission orders EPA to release environmental records within 15 days, fines it L$9,000, voids its rules.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
