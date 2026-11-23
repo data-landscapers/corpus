@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-23 02:33 · **RENDER** · 35m · 301/301 reports, home, countries, catalogue 45,932, finance, datasets, maturity rendered; deployed cca9ed9 — ok
 2026-11-23 01:58 · **REBUILD** · 15m · agrisatellite agrisat: 40 cells reassessed, 1 moved; second drafter 19/20; 54 searched, 168 staged; ~69M tokens — ok
 2026-11-23 01:58 · **REBUILD** · 15m · admindata admin: 7 cells reassessed, 5 moved; 54 searched, 129 staged; ~69M tokens, run beside agrisatellite — ok
 2026-11-23 01:42 · **REVIEW** · 14m · CIV: status 7 revised, 22 trimmed, progress 3, finance 0; 1 deal queued, 0 notes. CMR: status 2, 27 trimmed, progress 12, finance 0; 0 deals, 0 notes; monthly unread, progress partly read — ok
