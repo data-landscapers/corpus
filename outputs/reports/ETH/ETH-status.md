@@ -1,12 +1,12 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-11-22
+compiled: 2026-11-23
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 262
+sources_cited: 264
 sections_written: 39
 not_established: 0
 acquire_lines: 67
@@ -36,6 +36,8 @@ On 23 July 2026 the National Bank [defined a virtual asset as any digital repres
 [Directive No. 792/2021 has governed telecommunications licensing since 9 July 2021](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf). [The Ethiopian Communications Authority made it under the Communications Service Proclamation No. 1148/2019](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf). [It creates individual, class and spectrum licences, with only two individual licences: unified telecommunications service and an internet exchange point](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf). [Individual licences run fifteen years, with a further fifteen presumed for a holder that has met every obligation](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf). Under the 2021 Directive, [a change of ownership taking a shareholder to 25 per cent or more needs the Authority's prior approval](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf). [The Directive issues the state incumbent its new licence without competitive selection](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf).
 
 [Copyright still rests on a 2004 proclamation, with sentences of one to ten years and fines of up to 25,000 Birr](https://www.thereporterethiopia.com/52113/). [Amendments were being drafted with Addis Ababa University's law school in August 2026](https://www.thereporterethiopia.com/52113/). [A comprehensive personal data protection law has been in force since July 2024](https://www.aln.africa/ethiopia-new-data-protection-law). On 28 September 2026 [the Council of Ministers approved a draft national data management proclamation and referred it to parliament](https://www.fanamc.com/english/ethiopias-council-of-ministers-advances-new-legal-frameworks-for-state-institutions-data-sovereignty-defence-and-economy/). [The draft is framed around data security, sovereignty and data sharing across government systems](https://www.fanamc.com/english/ethiopias-council-of-ministers-advances-new-legal-frameworks-for-state-institutions-data-sovereignty-defence-and-economy/).
+
+On 26 August 2026 [Proclamation No. 1427/2026 on access to information was gazetted and entered into force](https://justice.gov.et/wp-content/uploads/2026/11/%E1%8A%A0%E1%8B%8B%E1%8C%85-%E1%89%81%E1%8C%A5%E1%88%AD-1427-2018.pdf). [Parliament had passed it unanimously on 25 June 2026](https://ethiopiainsider.com/2026/18375/). [It repeals Part Three of Proclamation No. 590/2008, the earlier access-to-information provisions](https://justice.gov.et/wp-content/uploads/2026/11/%E1%8A%A0%E1%8B%8B%E1%8C%85-%E1%89%81%E1%8C%A5%E1%88%AD-1427-2018.pdf). [It gives a right to information held by public bodies and private organisations](https://justice.gov.et/wp-content/uploads/2026/11/%E1%8A%A0%E1%8B%8B%E1%8C%85-%E1%89%81%E1%8C%A5%E1%88%AD-1427-2018.pdf). [Offences under it carry up to five years' imprisonment](https://ethiopiainsider.com/2026/18375/).
 
 ### Data protection
 <!-- gov.protect -->
