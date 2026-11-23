@@ -504,6 +504,10 @@ def scan_all():
         # putting a junk row in 8 budget exports. (Found and fixed 2026-08-03, housekeeping 38.)
         if not re.search(r'^finance_origin:\s*\S', fm, re.M):
             continue
+        # A retired deal is out even if its `finance_origin:` survived the merge: counting it
+        # counts the activity it was merged into twice (osint-notes 350, CAF, 2026-11-23).
+        if re.search(r'^retired_deal_id:\s*\S', fm, re.M):
+            continue
         pm = re.search(r'places:\s*\[([^\]]*)\]', fm)
         places = re.findall(r'[A-Z]{3}|X[A-Z]{2}', pm.group(1)) if pm else []
         if not places:
