@@ -1,12 +1,12 @@
 ---
 title: DR Congo: status report
-compiled: 2026-11-22
+compiled: 2026-11-23
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 297
+sources_cited: 299
 sections_written: 39
 not_established: 1
 acquire_lines: 50
@@ -395,7 +395,7 @@ What does get published scores badly on coverage and openness together. DR Congo
 <!-- derived -->
 Across the 23 categories assessed in 2024, the average openness and coverage score is 3.3 out of 10, and nothing rises above 5.5.
 
-The institutional side is equally thin. [Nothing about how government systems handle data is published, and the body responsible for data governance sits inside another institution rather than standing on its own](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), while [neither the data protection regime nor the authority meant to oversee it publishes anything about its own work](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). A [right-to-information law is on the statute book and rated as effective](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and [a bill on access to information and transparency was declared admissible by the National Assembly on 27 March 2026 and referred to committee](https://actualite.cd/2026/03/28/assemblee-nationale-la-proposition-de-loi-sur-lacces-linformation-et-la-transparence-de). The pattern repeats in the payment system, where [there is no regular public reporting of transaction volumes or uptime for the national payment systems](https://www.bcc.cd/publications/rapports-annuels) (2025).
+The institutional side is equally thin. [Nothing about how government systems handle data is published, and the body responsible for data governance sits inside another institution rather than standing on its own](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), while [neither the data protection regime nor the authority meant to oversee it publishes anything about its own work](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [Africa Check reported in March 2025 that the country had no access-to-information law](https://www.africacheck.org/fr/fact-checks/blog/echos-rdc-atteintes-integrite-information-crise-est). [A bill on access to information and transparency was declared admissible by the National Assembly on 27 March 2026 and referred to committee](https://actualite.cd/2026/03/28/assemblee-nationale-la-proposition-de-loi-sur-lacces-linformation-et-la-transparence-de). On 28 September 2026 its sponsor said it [was before three committees and on the session's calendar](https://acp.cd/nation/rdc-le-projet-de-loi-sur-lacces-a-linformation-p-ublique-vise-aconsolider-la-democratie-linitiateur/). The pattern repeats in the payment system, where [there is no regular public reporting of transaction volumes or uptime for the national payment systems](https://www.bcc.cd/publications/rapports-annuels) (2025).
 
 ### Geospatial data
 <!-- data.geospatial -->
