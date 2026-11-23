@@ -5,8 +5,9 @@
 places each block with `<!-- stat: name -->`; `fill()` swaps each for HTML at build time, so the
 page needs no script. A directive with no block, or a missing source, stops the build.
 
-Acquisitions are `ingested` dates in `raw-catalogue.json`, which begin in July 2026, so a window
-starts at the first month held rather than showing empty months as if nothing arrived. A document
+Acquisitions are `ingested` dates in `raw-catalogue.json`, which begin in July 2026. The monthly
+chart keeps all 12 months and draws those before the first as gaps, never zeros; the six-month
+tables start at the first month held. A document
 tagged to several countries or topics counts once under each. Regional codes (`X..`) are left out
 of the country tables.
 
@@ -71,22 +72,27 @@ def nice_ticks(top: int) -> list[int]:
     return list(range(0, top + 1, step))
 
 
-def bar_chart(bars: list[tuple[str, str, int]], label: str) -> str:
-    """`bars` is (axis label or "", tooltip name, value), in order."""
-    if not bars:
+def bar_chart(bars: list[tuple[str, str, int | None]], label: str) -> str:
+    """`bars` is (axis label or "", tooltip name, value), in order. A value of None is a period
+    with no record, drawn as a gap and never as a zero."""
+    held = [v for _, _, v in bars if v is not None]
+    if not held:
         raise SystemExit(f"site_statistics: nothing to draw for {label!r}.")
-    ticks = nice_ticks(max(v for _, _, v in bars))
-    scale = max(max(v for _, _, v in bars), ticks[-1], 1)
+    ticks = nice_ticks(max(held))
+    scale = max(max(held), ticks[-1], 1)
     grid = "".join(f'<span class="stat-tick" style="bottom:{t / scale * 100:.2f}%"><b>{t:,}</b></span>'
                    for t in ticks)
     show = len(bars) <= 12
+    said = lambda v: "no record" if v is None else f"{v:,}"
     cols = "".join(
-        f'<div class="stat-col" title="{escape(name)}: {v:,}">'
-        f'<div class="stat-bar" style="height:{v / scale * 100:.2f}%">'
-        + (f'<span class="stat-val">{v:,}</span>' if show else "") + "</div></div>"
+        f'<div class="stat-col" title="{escape(name)}: {said(v)}">'
+        + ("" if v is None else
+           f'<div class="stat-bar" style="height:{v / scale * 100:.2f}%">'
+           + (f'<span class="stat-val">{v:,}</span>' if show else "") + "</div>")
+        + "</div>"
         for _, name, v in bars)
     axis = "".join(f'<span>{escape(a)}</span>' for a, _, _ in bars)
-    summary = "; ".join(f"{name}: {v:,}" for _, name, v in bars)
+    summary = "; ".join(f"{name}: {said(v)}" for _, name, v in bars)
     return (f'<figure class="stat-chart" role="img" aria-label="{escape(label)}. {escape(summary)}">'
             f'<div class="stat-plot">{grid}<div class="stat-bars">{cols}</div></div>'
             f'<div class="stat-axis">{axis}</div></figure>')
@@ -96,9 +102,9 @@ def month_table(first: str, rows: list[tuple[str, dict]], months: list[str]) -> 
     """The top rows by window total, busiest first, a column a month."""
     ranked = sorted(((name, c) for name, c in rows if sum(c.get(m, 0) for m in months)),
                     key=lambda r: (-sum(r[1].get(m, 0) for m in months), r[0]))[:TOP]
-    head = "".join(f'<th class="num">{month_label(m)}</th>' for m in months)
+    head = '<th class="num">Total</th>' + "".join(f'<th class="num">{month_label(m)}</th>' for m in months)
     body = "".join(
-        f"<tr><td>{escape(name)}</td>"
+        f'<tr><td>{escape(name)}</td><td class="num stat-total">{sum(c.get(m, 0) for m in months):,}</td>'
         + "".join(f'<td class="num">{c.get(m, 0):,}</td>' for m in months) + "</tr>"
         for name, c in ranked)
     return (f'<div class="stat-table"><table><thead><tr><th>{first}</th>{head}</tr></thead>'
@@ -158,8 +164,12 @@ def country_names() -> dict[str, str]:
 
 def monthly(data: Data) -> str:
     n = collections.Counter(i["ingested"][:7] for i in data.items)
-    bars = [(month_label(m, False), month_label(m), n[m]) for m in data.window(12)]
-    return bar_chart(bars, "Documents acquired each month") + to_date(data.last_ingest())
+    first = min(n)
+    bars = [(month_label(m, False), month_label(m), n[m] if m >= first else None)
+            for m in last_months(max(n), 12)]
+    note = "" if bars[0][2] is not None else (
+        f'<p class="stat-note">Acquisition dates begin in {date(int(first[:4]), int(first[5:7]), 1).strftime("%B %Y")}.</p>')
+    return bar_chart(bars, "Documents acquired each month") + to_date(data.last_ingest()) + note
 
 
 def acquired_countries(data: Data) -> str:
