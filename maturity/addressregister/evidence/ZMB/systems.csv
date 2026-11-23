@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 ZMB,National Addressing and Postcode Project,Zambia,address,public web-based address database,ZICTA,,2023-05-01-zmb-ungegn-national-report-addressing
 ZMB,National Addressing and Postal Code System Project,Zambia,address,national addressing database with GIS module,ZICTA,,2013-11-06-zmb-parliament-postal-addressing-statement
+ZMB,National Addressing and Postcode Project (NAPP),Zambia,address,,ZICTA,,2025-04-06-zmb-ungegn-crp119-geographical-names-standardization-zambia
+ZMB,National Addressing and Postcode Project (NAPP),Zambia,address,web-based address database,ZICTA,"national, with local authorities",2025-01-22-zmb-initial-steps-made-in-standardization-and-creation-of-a-uniform-system

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "address",
-      "stage": "unplaced",
-      "addressing": "",
+      "stage": "2",
+      "addressing": "underway",
       "national": "",
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether an addressing system is under way or in service.",
-      "note": "Reassessed in the rebuild: the rows held, of 2013 and May 2023, predate the October 2023 window and set no rung. Nothing found since October 2023 says addressing is under way, in service or absent.",
-      "as_at": "2026-11-22"
+      "stage_sources": "ZMB-003;ZMB-004",
+      "gaps": "No source found since October 2023 says an address register or digital addressing system is in service.",
+      "note": "Zambia's 2025 UN paper says ZICTA's project has addressed about 15 Lusaka neighbourhoods and is developing a web address database, so under way. It calls the project incomplete and names no database in service.",
+      "as_at": "2026-11-23"
     }
   ]
 }

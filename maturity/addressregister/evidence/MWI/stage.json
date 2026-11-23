@@ -9,10 +9,10 @@
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-001",
-      "gaps": "No source found since October 2023 says: is an address register or digital addressing system in service.",
-      "note": "Reassessed in the rebuild: MACRA coordinates a national addressing programme (2024); nothing found says a register or database is in service.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MWI-002;MWI-004",
+      "gaps": "No source found since October 2023 says an address register or digital addressing system is in service, or that the system covers the whole country.",
+      "note": "MACRA had numbered 472,674 properties and named 11,367 streets by August 2026 and describes the system as still being rolled out, so under way. No source names a register or digital system in service.",
+      "as_at": "2026-11-23"
     }
   ]
 }

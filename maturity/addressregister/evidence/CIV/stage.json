@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "address",
-      "stage": "2",
-      "addressing": "underway",
+      "stage": "3",
+      "addressing": "inservice",
       "national": "",
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-001;CIV-002;CIV-004",
-      "gaps": "No source found since October 2023 says: is an address register or digital addressing system in service.",
-      "note": "Reassessed in the rebuild: Abidjan's addressing was due to finish in December 2025 and the PAVI pilot began in Daloa in January 2025, so under way. No source says the Abidjan address database is in service, which rung 3 needs.",
-      "as_at": "2026-11-22"
+      "stage_sources": "CIV-006",
+      "gaps": "No source found since October 2023 says the addressing system covers the whole country or that other services use it.",
+      "note": "The Direction Generale de l'Economie says addressing through Google Maps is in effect in Abidjan's zones 1 and 2 (2025), a digital addressing system in service in part of a city. Nothing found says it covers the country.",
+      "as_at": "2026-11-23"
     }
   ]
 }

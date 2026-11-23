@@ -9,10 +9,10 @@
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-001;SWZ-002",
+      "stage_sources": "SWZ-001;SWZ-002;SWZ-005",
       "gaps": "No source found since October 2023 says: is an address register or digital addressing system in service.",
-      "note": "Reassessed in the rebuild: the national postcode and addressing project began in Mbabane and Matsapha in 2026; nothing found says a register is in service.",
-      "as_at": "2026-10-18"
+      "note": "ESCCOM launched the national standard in July 2026 and says Mbabane and Manzini have implemented the framework, with field pilots still to come, so under way. Nothing found says a register is in service.",
+      "as_at": "2026-11-23"
     }
   ]
 }

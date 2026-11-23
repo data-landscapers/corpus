@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "address",
-      "stage": "unplaced",
-      "addressing": "",
+      "stage": "2",
+      "addressing": "underway",
       "national": "",
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether an addressing system is under way or in service.",
-      "note": "Reassessed in the rebuild: the rows held, a 2016 toponymy law and a 2021 statement that no postcode exists, are older than three years and set no rung. Nothing found since October 2023 says addressing is under way, in service or absent.",
-      "as_at": "2026-11-22"
+      "stage_sources": "AGO-003",
+      "gaps": "No source found since October 2023 says an address register or digital addressing system is in service.",
+      "note": "A member of Luanda's toponymy commission set out in June 2024 a plan to name streets and then number doors, after a survey of 953 roads, so under way. Nothing found says a register is in service.",
+      "as_at": "2026-11-23"
     }
   ]
 }

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,address,addressing,coverage,inservice,2026-10-12,DZA-005,DZA-006=underway;DZA-001=underway;DZA-002=underway;DZA-003=underway;DZA-004=underway,
-DZA,address,national,coverage,,,,,nothing held
-DZA,address,used,coverage,,,,,nothing held
+DZA,address,addressing,coverage,inservice,2026-10-12,DZA-005;DZA-008;DZA-010,DZA-007=underway;DZA-006=underway;DZA-009=underway;DZA-001=underway;DZA-002=underway;DZA-003=underway;DZA-004=underway;DZA-012=underway,
+DZA,address,national,coverage,,,,,nothing found
+DZA,address,used,coverage,used,2026-10-12,DZA-011,,

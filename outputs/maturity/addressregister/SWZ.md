@@ -2,7 +2,7 @@
 
 ## Address register
 
-**Addresses in service.** [Matsapha became the first municipality to roll out the National Postcode and Addressing Project, giving each property a formal address](<https://eswatinipositivenews.online/matsapha-first-to-roll-out-addressing-system-in-eight-weeks/>). Street signs were due to be installed within eight weeks, per ESCCOM and the Matsapha town planner. [The Municipal Council of Mbabane says it is leading implementation of the National Street Addressing and House Numbering Programme](<https://www.linkedin.com/posts/municipal-council-of-mbabane_mbabanemycity-mbabanesmartcity-activity-7485998259241594880-9ytq>). The pilot was launched by a partnership signed by the Ministers of Housing and Urban Development and of ICT.
+**Addresses in service.** [Matsapha became the first municipality to roll out the National Postcode and Addressing Project, giving each property a formal address](<https://eswatinipositivenews.online/matsapha-first-to-roll-out-addressing-system-in-eight-weeks/>). Street signs were due to be installed within eight weeks, per ESCCOM and the Matsapha town planner. [The Municipal Council of Mbabane says it is leading implementation of the National Street Addressing and House Numbering Programme](<https://www.linkedin.com/posts/municipal-council-of-mbabane_mbabanemycity-mbabanesmartcity-activity-7485998259241594880-9ytq>). The pilot was launched by a partnership signed by the Ministers of Housing and Urban Development and of ICT. [ESCCOM launched the gazetted Eswatini National Addressing Standard on 16 July 2026](<https://eswatinipositivenews.online/every-household-set-to-get-recognised-address-as-eswatini-rolls-out-national-addressing-standard/>), with field pilots to follow. [ESCCOM said Mbabane and Manzini have implemented the framework](<https://www.finguardmagazine.com/business/national-address-system-set-to-unlock-eswatinis-digital-economy/>).
 
 **Nationwide.** No source found since October 2023 says the addressing system covers the whole country. The nearest fact: [in September 2026 Matsapha became the first municipality to roll out the National Postcode and Addressing Project](<https://eswatinipositivenews.online/matsapha-first-to-roll-out-addressing-system-in-eight-weeks/>).
 
@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is an address register or digital addressing system in service.
+***Not found***. No source found since October 2023 says an address register or digital addressing system is in service.

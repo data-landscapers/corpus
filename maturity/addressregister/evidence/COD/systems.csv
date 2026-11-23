@@ -1,1 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+COD,SCPT postcodes of all administrative entities,COD,other,,SCPT,,2025-10-10-cod-journee-mondiale-de-la-poste-appel-a-l-unite-lance
+COD,SCPT online postcode directory (portail de codes postaux),COD,other,online portal,Societe congolaise des postes et telecommunications (SCPT),pilot provinces and towns,2024-10-10-cod-pt-numerique-un-annuaire-de-codes-postaux-pour-ameliorer-la-qualite-de
+COD,SCPT postcode directory (annuaire des codes postaux),COD,other,,Societe congolaise des postes et telecommunications (SCPT),pilot provinces and towns,2025-01-21-cod-rdc-la-mise-en-place-d-un-annuaire-des-codes-postaux-annoncee

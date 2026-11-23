@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "address",
-      "stage": "no evidence",
-      "addressing": "",
+      "stage": "2",
+      "addressing": "underway",
       "national": "",
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found names an addressing system, or says there is none.",
-      "note": "Reassessed in the rebuild: no evidence row is held on the address register, and nothing found says there is no addressing system.",
-      "as_at": "2026-11-22"
+      "stage_sources": "MAR-001",
+      "gaps": "No source found since October 2023 says an address register or digital addressing system is in service.",
+      "note": "The commune of Beni Ansar opened its statutory addressing project with Barid Al-Maghrib in December 2023, so under way in one commune. Nothing found says a register is in service.",
+      "as_at": "2026-11-23"
     }
   ]
 }

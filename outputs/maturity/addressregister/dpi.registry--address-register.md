@@ -22,11 +22,11 @@ The Universal Postal Union's Addressing the World asks every country for a natio
 |---|---|
 | 5 Mature | 0 |
 | 4 Operating | 2 |
-| 3 Established | 9 |
-| 2 Nascent | 25 |
+| 3 Established | 10 |
+| 2 Nascent | 27 |
 | 1 Absent | 3 |
-| Unplaced | 9 |
-| No evidence | 6 |
+| Unplaced | 7 |
+| No evidence | 5 |
 
 ## Countries
 
@@ -77,6 +77,12 @@ N'Djamena's street addresses were in service in 2026; no source found reports na
 - The Akofena study (2026) says street numbering in N'Djamena began in 1990 across the first five arrondissements and was made official in 2016, but the administrative addressing system remains incomplete, leaving out the old quarters and most newly planned ones ([source, 2026-06](https://www.revueakofena.com/n020_vol-1_05/)).
 - The Akofena study (2026) says addressing in N'Djamena is used to locate subscribers, connection points and plots to be served with water and electricity, for fiscal and urban-service reasons ([source, 2026-06](https://www.revueakofena.com/n020_vol-1_05/)).
 
+### Cote d'Ivoire: 3 Established
+
+Digital addressing was in effect in two Abidjan zones in 2025; national coverage is not known.
+
+- The Direction Generale de l'Economie says the Abidjan addressing project (PADA) has street and unit marking under way in all five zones, over 15,000 street names approved, the Google Maps addressing system effective in zones 1 and 2 and unit plaques completed there ([source, 2025](https://www.economie-ivoirienne.ci/activites-sectorielles/foncier-et-urbanisme.html)).
+
 ### Ethiopia: 3 Established
 
 Digital addresses were in service in 73 cities in 2025; no source found reports national coverage.
@@ -104,6 +110,12 @@ Digital addresses were in service in Zanzibar in 2025; no source found reports n
 - The digital ID address system went operational in Zanzibar in June 2025 and over 450,000 digital addresses have been assigned to people and plots, says the Zanzibar Construction, Communication and Transport Minister ([source, 2025-08](https://www.biometricupdate.com/202508/tanzania-digital-id-address-system-facilitates-access-to-student-loans-other-services)).
 - The Higher Education Students' Loans Board (HESLB) has used the digital address system since June 2025, with over 489,409 students applying for loans digitally, per The Citizen ([source, 2025-06](https://www.biometricupdate.com/202508/tanzania-digital-id-address-system-facilitates-access-to-student-loans-other-services)).
 
+### Angola: 2 Nascent
+
+Luanda planned street naming and door numbering in 2024; no address register in service has been found.
+
+- Jornal de Angola, via Afrique54, reports a member of Luanda's Provincial Commission for Toponymy saying 41.6% of 953 surveyed roads in Luanda Municipality lack official names and 20.9% have unofficial names, and that the plan is to name streets first and assign door numbers in a second phase ([source, 2024-06-13](https://afrique54.net/2024/06/13/special-for-cafs-angola-to-regularize-capitals-street-names/)).
+
 ### Benin: 2 Nascent
 
 An addressing system was under way in 2026; none in service is on record.
@@ -123,14 +135,6 @@ An addressing system was under way in 2024; none in service is on record.
 
 - ARPCE's postal regulation director reported progress on the national digital addressing platform, provisionally named Système de localisation mixte, which was demonstrated at a steering committee meeting on 9 October 2024 ahead of a final presentation to the authorities in November ([source, 2024-10-09](https://www.adiac-congo.com/content/economie-postale-la-revolution-de-ladressage-national-touche-au-160394)).
 
-### Cote d'Ivoire: 2 Nascent
-
-An addressing system was under way in 2025; none in service is on record.
-
-- The director of addressing at the Ministry of Construction, Housing and Urban Planning said on 30 September 2025 that addressing of the Abidjan district (about 17,000 roads identified, 500,000 entities to receive addresses, FCFA 12bn project financed by the World Bank and the State) is due to finish on 31 December 2025 and is being duplicated nationally, with about fifteen cities to be addressed by 2030 ([source, 2025-09-30](https://www.fratmat.info/article/2637249/economie/adressage-des-voies-dans-le-district-autonome-dabidjan-loperation-prend-fin-le-31-decembre)).
-- The Ministry of Construction, Housing and Urban Planning says the Abidjan street addressing project met on 4-5 April 2024 to begin effective implementation of the address database, presented as the official address reference ([source, 2024-04](https://www.fratmat.info/article/238834/economie/adressage-des-rues-consolidation-de-la-base-de-donnees-dadresses)).
-- AIP reports that BNETD, through its addressing centre, launched the Projet d'adressage des villes de l'intérieur (PAVI) in Daloa on 15 January 2025, a three-year pilot of field surveys, door and street numbering and street-name signs, which also covers Bouaké and Korhogo ([source, 2025-01-15](https://www.aip.ci/cote-divoire-aip-le-bnetd-entame-ladressage-de-la-commune-de-daloa/)).
-
 ### Djibouti: 2 Nascent
 
 Streets were being addressed in a few parts of Djibouti city in 2023; no source found reports an address register in service.
@@ -149,6 +153,7 @@ An addressing system was under way in 2026; none in service is on record.
 
 - Matsapha became the first municipality to roll out the National Postcode and Addressing Project, giving each property a formal address, with street sign installation due within eight weeks, per ESCCOM and the Matsapha town planner ([source, 2026-09-11](https://eswatinipositivenews.online/matsapha-first-to-roll-out-addressing-system-in-eight-weeks/)).
 - The Municipal Council of Mbabane says it is leading implementation of the National Street Addressing and House Numbering Programme, a pilot launched by a partnership signed by the Ministers of Housing and Urban Development and of ICT ([source, 2026-07-23](https://www.linkedin.com/posts/municipal-council-of-mbabane_mbabanemycity-mbabanesmartcity-activity-7485998259241594880-9ytq)).
+- ESCCOM's acting chief executive said the National Addressing Standard (SZN S ISO 19160) was launched in July 2026 as the culmination of the National Addressing and Postcode System Project begun in 2021, with Ezulwini and Matsapha projects at an advanced stage and preparatory work under way with the Tinkhundla ministry to extend addressing to rural communities ([source, 2026-07-16](https://www.finguardmagazine.com/business/national-address-system-set-to-unlock-eswatinis-digital-economy/)).
 
 ### Gabon: 2 Nascent
 
@@ -189,9 +194,10 @@ Addressing was under way in Antsiranana in 2024; nothing found says an addressin
 
 ### Malawi: 2 Nascent
 
-An addressing system was under way in 2024; none in service is on record.
+MACRA had numbered 472,674 properties by August 2026; no address register in service has been found.
 
-- MACRA says it coordinates the National Addressing System Project, a multi-stakeholder national programme to give a physical address to every property in Malawi, with street naming, property numbering, a postcode directory and a national address database as deliverables ([source, 2024-02-12](https://macra.mw/national-addressing-project/)).
+- MACRA says 472,674 properties have been assigned numbers and 11,367 streets officially named under the National Addressing System, which is being rolled out nationwide, with street naming at 90% in Zomba and Blantyre, 80% in Mzuzu and 70% in Lilongwe ([source, 2026-08-29](https://thetruthmw.com/2026/08/29/472674-properties-get-addresses/)).
+- MACRA says it has rolled out a National Addressing System to all districts, which now have postcodes, with street naming being finalised and house numbering to follow ([source, 2025-04-09](https://www.nyasatimes.com/macra-rolls-out-national-addressing-system/)).
 
 ### Mali: 2 Nascent
 
@@ -204,6 +210,12 @@ An addressing system was under way in 2026; none in service is on record.
 An addressing system was under way in 2026; none in service is on record.
 
 - The Ministry of Digital Transformation and Administrative Modernization presented a World Bank-financed (WARDIP) national digital addressing system on 29 September 2026, with a pilot expected by end-2026 and postal code zoning and the addressing method still to be finalised, according to Ecofin Agency ([source, 2026-09-29](https://www.ecofinagency.com/news-digital/0110-59390-mauritania-plans-end-2026-pilot-of-digital-addressing-system-to-support-e-commerce)).
+
+### Morocco: 2 Nascent
+
+One commune, Beni Ansar, began an addressing project in 2023; no address register in service has been found.
+
+- The Beni Ansar commune held a preparatory meeting with Barid Al-Maghrib on 22 December 2023, the first of a series of workshops, on its project to produce the street naming and house numbering system required by article 85 of the organic law and decree 2.17.307 ([source, 2023-12-22](https://bninsar.ma/wp/archives/15168)).
 
 ### Mozambique: 2 Nascent
 
@@ -263,6 +275,13 @@ Kampala was numbering houses in 2025; no source found reports an address registe
 - KCCA says house numbering is under way in Kampala, with only 12,555 of 373,826 houses carrying number plates, which owners buy for UGX 50,000 from KCCA-approved providers after notifying KCCA of their number ([source, 2025-02-02](https://www.kcca.go.ug/news/918/geo-sign-and-pack-worth-donates-1000-house-number-plates-to-kcca)).
 - Nile Post reports the Uganda Communications Commission is engaging the Universal Postal Union for technical expertise for Uganda's National Addressing System, to be implemented under NDP IV ([source, 2026-10-28](https://nilepost.co.ug/business/382347/ucc-seeks-digital-upgrade-of-posta-uganda-nationwide-addressing-system)).
 
+### Zambia: 2 Nascent
+
+ZICTA had addressed about 15 Lusaka neighbourhoods by 2025; no address register in service has been found.
+
+- Zambia's draft street naming and addressing policy, covering postcode and digital addressing and a national address database, awaits final approval, and ZICTA's ongoing National Addressing and Postcode Project has addressed about 15 Lusaka neighbourhoods, according to the UNGEGN paper submitted by Zambia ([source, 2025-04-06](https://unstats.un.org/unsd/ungegn/sessions/4th_session_2025/documents/GEGN.2_2025_119_CRP119_item4c.pdf)).
+- A UN Group of Experts on Geographical Names paper of 22 January 2025 says Zambia's draft street naming and addressing policy, including postcode and digital addressing and a national address database, awaits final approval ([source, 2025-01-22](https://unstats.un.org/unsd/ungegn/sessions/4th_session_2025/documents/GEGN.2_2025_119_item4c.pdf)).
+
 ### Comoros: 1 Absent
 
 A 2024 source says there is no national addressing system.
@@ -280,12 +299,6 @@ A 2026 source says there is no national addressing system.
 A 2026 source says there is no national addressing system.
 
 - The Conversation authors state South Africa's addressing system is still not in place and there is still no authoritative register of addresses, with unclear responsibility for address data governance ([source, 2026-01-08](https://theconversation.com/south-africas-addressing-system-is-still-not-in-place-a-clear-vision-is-needed-268135)).
-
-### Angola: Unplaced
-
-Nothing found since 2023 names a national addressing system, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether an addressing system is under way or in service.
 
 ### Burundi: Unplaced
 
@@ -329,12 +342,6 @@ Nothing found since 2023 names a national addressing system, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether an addressing system is under way or in service.
 
-### Zambia: Unplaced
-
-Nothing found since 2023 names a national addressing system, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether an addressing system is under way or in service.
-
 ### DR Congo: No evidence
 
 Nothing found names a national addressing system or says there is none, so no stage is set.
@@ -348,12 +355,6 @@ Nothing found names a national addressing system or says there is none, so no st
 Not established: Nothing found names an addressing system, or says there is none.
 
 ### Eritrea: No evidence
-
-Nothing found names a national addressing system or says there is none, so no stage is set.
-
-Not established: Nothing found names an addressing system, or says there is none.
-
-### Morocco: No evidence
 
 Nothing found names a national addressing system or says there is none, so no stage is set.
 

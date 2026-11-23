@@ -2,3 +2,5 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 MRT,national digital addressing system,Mauritania,address,"mapping portal, address management portal and mobile applications (planned)",Ministry of Digital Transformation and Administrative Modernization,national,2026-10-01-mrt-ecofin-mauritania-digital-addressing
 MRT,Registre biométrique national (ANRPTS),MRT,other,,Agence Nationale du Registre des Populations et des Titres Sécurisés,,2023-11-21-mrt-procedures-enrolement-enfant-rnp
 MRT,référentiel national numérique des données cadastrales,Mauritanie,other,,Ministère des Domaines,,2026-08-27-mauritanie-conseil-ministres-referentiel-cadastral-identifiant-parcellaire-casier-judiciaire
+MRT,Commission nationale de la toponymie (CNT),CNT toponymic inventory,other,georeferenced place-name database,CNT,"national, wilaya, moughataa",2025-01-17-mrt-la-toponymie-en-mauritanie
+MRT,Application mobile de géolocalisation de Nouakchott,Nouakchott geolocation app,address,mobile app,CNT,city,2025-01-17-mrt-la-toponymie-en-mauritanie

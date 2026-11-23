@@ -1,2 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TGO,Adressage urbain (Greater Lome digital address database),Togo,address,"digital address database of coded roads, address points and certified doors",Autonomous District of Greater Lome (DAGL),city,2025-12-18 Urban addressing - modernisation effort
+TGO,Greater Lome addressing system,TGO,address,,Autonomous District of Greater Lome (DAGL),"Greater Lome, 13 communes",2026-01-05-tgo-la-bonne-adresse
+TGO,Grand Lome modernised addressing system,Togo,address,,District autonome du Grand Lome (DAGL),city,2025-12-18-tgo-vers-une-modernisation-de-l-adressage-dans-le-grand-lome
+TGO,digital addressing,Togo,address,,Societe des postes du Togo,,2026-10-27-tgo-togo-a-l-heure-du-numerique-a-quoi-sert-encore-la-poste

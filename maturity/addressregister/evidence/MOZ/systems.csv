@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MOZ,endereçamento postal (Decreto n.º 74/2024),Moçambique,address,geographic database,municipalities; Ministério da Administração Estatal e Função Pública,municipal,2025-10-04-marracuene-enderecamento-postal
+MOZ,Codigo de Enderecamento Postal (CEP),Mozambique,address,,INCM,,2026-10-21-moz-incm-divulga-novo-codigo-de-enderecamento-postal-em-pemba-com-implemen
+MOZ,Código de Endereçamento Postal (CEP),Mozambique,other,,Ministries of state administration and of transport and communications,national,2024-09-18-moz-decreto-74-2024-codigos-enderecamento-postal

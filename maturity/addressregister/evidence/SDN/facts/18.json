@@ -1,26 +1,15 @@
 {
  "slug": "2026-09-19-sdn-khartoum-moves-to-replace-foreign-street-names-with-sudanese-ones",
- "facts": [
-  {
-   "sub_indicator": "address",
-   "aspect": "addressing",
-   "value": "underway",
-   "fact": "Sudan's National Committee for Geographical Names, via its secretary-general, says it is drawing up new street-naming standards and preparing a review of Khartoum street names, with new names still needing legal procedures before adoption.",
-   "as_of": "2026-09-18",
-   "date_precision": "day",
-   "system": "National Committee for Geographical Names street naming",
-   "class": "address"
-  }
- ],
+ "facts": [],
  "systems": [
   {
    "system": "National Committee for Geographical Names",
    "country_label": "Sudan",
-   "class": "address",
+   "class": "other",
    "platform": "",
    "owner": "Government of Sudan",
    "tiers": ""
   }
  ],
- "note": ""
+ "note": "A review of existing Khartoum street names for national identity, with standards still being drafted and no naming begun: not a system giving places an address."
 }

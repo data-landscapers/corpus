@@ -79,3 +79,11 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-22,SOM,dpi.registry--address-register,review,2,2,SOM-001;SOM-002,"Rebuild: in 2024 the minister announced a postal service with a digital addressing system and Karaar ran pilots under state agreements, so under way. Neither says a system is in service."
 2026-11-22,SSD,dpi.registry--address-register,review,2,2,SSD-001,"Rebuild: in November 2024 the ICT ministry announced base mapping of Juba as the pilot for a Geographic Addressing System, so under way. Nothing found says a system is in service."
 2026-11-22,NER,dpi.registry--address-register,review,2,3,NER-002,"Rebuild: the Agence de Modernisation des Villes runs a Niamey addressing geoportal referencing over 3,500 streets (October 2026), a digital addressing system in service in a city, as Praia's platform is read, so 2 to 3. Nothing found says it covers the whole country."
+2026-11-23,AGO,dpi.registry--address-register,fact,unplaced,2,AGO-003,Luanda toponymy plan of June 2024 places the cell under way.
+2026-11-23,MAR,dpi.registry--address-register,fact,no evidence,2,MAR-001,Beni Ansar commune addressing project of December 2023 places the cell under way.
+2026-11-23,ZMB,dpi.registry--address-register,fact,unplaced,2,ZMB-003;ZMB-004,"Zambia's 2025 UN paper shows ZICTA's project addressing Lusaka neighbourhoods, so under way."
+2026-11-23,CIV,dpi.registry--address-register,fact,2,3,CIV-006,"Economy directorate says Google Maps addressing is in effect in two Abidjan zones (2025), so in service."
+2026-11-23,DZA,dpi.registry--address-register,fact,3,3,DZA-005,El Khabar names public users in October 2026; coverage of 12 of 69 wilayas keeps the cell at 3.
+2026-11-23,NGA,dpi.registry--address-register,fact,4,4,NGA-001;NGA-007;NGA-006,NIMC-NIPOST memorandum of July 2026 describes integration still to come; the cell stays at 4.
+2026-11-23,MWI,dpi.registry--address-register,fact,2,2,MWI-002;MWI-004,"MACRA's August 2026 numbering figures show rollout continuing; no register in service, so the cell stays at 2."
+2026-11-23,SWZ,dpi.registry--address-register,fact,2,2,SWZ-001;SWZ-002;SWZ-005,"National standard launched July 2026 with pilots to come; no register in service, so the cell stays at 2."

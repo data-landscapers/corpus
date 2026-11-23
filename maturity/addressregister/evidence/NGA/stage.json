@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NGA-001;NGA-007;NGA-006",
-      "gaps": "No use of the postcode by another public service is recorded.",
-      "note": "NIPOST switched on the national digital postcode on 1 October 2026, and an October 2026 report says it codes every addressable building in the country, so nationwide. Nothing says the post, emergency services, utilities or another register use it, so not stage 5.",
-      "as_at": "2026-10-30"
+      "gaps": "No use of the postcode by another public service is recorded. NIMC and NIPOST signed a memorandum in July 2026 to put postcode retrieval on the NIN platform; nothing found says it is live.",
+      "note": "The postcode is in service and codes every addressable building, so nationwide. The July 2026 NIMC memorandum describes an integration users would soon reach, which is not use, so not stage 5.",
+      "as_at": "2026-11-23"
     }
   ]
 }

@@ -8,20 +8,36 @@ BEN,national street and door addressing system (planned),Benin,address,"digital,
 BFA,Adressage de la ville de Ouagadougou,Burkina Faso,address,address database under construction,Commune de Ouagadougou,city,2025-04-02-ouagadougou-modernise-son-adressage
 BFA,PASIU urban addressing,Burkina Faso,address,Easy Geo; Webmapping grand Ouaga data,Commune de Ouagadougou with EU support,3 arrondissements of Ouagadougou and Bobo-Dioulasso,2023-10-24-bfa-communes-urbaines-des-acteurs-sapproprient-le-nouveau-plan-dadressage
 BWA,LAPCAS,Botswana,address,,,,2024-06-20-location-addressing-system-tlokweng-case-study
+BWA,Tonota West street naming project,Botswana,address,,Ministry of Local Government and Rural Development,local,2023-12-20-bwa-street-names-to-be-installed-during-current-financial-year
 CAF,AIMF-EU addressing and revenue project,Central African Republic,address,,AIMF with Mairie de Bangui,city,2015-11-16-caf-aimf-adressage-recettes-bangui
 CAF,Bangui adressage project,Central African Republic,address,,Mairie de Bangui,,2012-04-15-caf-rnl-bangui-adressage-lance
 CIV,projet d'adressage (référentiel unique d'adresse),Côte d'Ivoire,address,,"Ministère de la Construction, du Logement et de l'Urbanisme",Abidjan district,2025-10-01-civ-fratmat-adressage-abidjan-fin-31-decembre
 CIV,Projet d'adressage du District d'Abidjan (PADA),Cote d'Ivoire,address,,"Ministere de la Construction, du Logement et de l'Urbanisme",district,2023-01-25-civ-aip-convention-partage-donnees-pada
 CIV,Projet d'adressage des villes de l'intérieur (PAVI),Côte d'Ivoire,address,,BNETD,,2025-01-26-civ-cote-d-ivoire-le-bnetd-entame-l-adressage-de-la-commune-de-daloa
+CIV,Projet d'Adressage du District d'Abidjan (PADA),Cote d'Ivoire,address,,State with technical and financial partners,Abidjan district,2026-03-04-civ-adressage-des-rues-en-cote-d-ivoire-la-ville-prend-enfin-un-nom-et-un
+CIV,Projet d'Adressage des Villes de l'Interieur (PAVI),Cote d'Ivoire,address,,State,interior cities,2026-03-04-civ-adressage-des-rues-en-cote-d-ivoire-la-ville-prend-enfin-un-nom-et-un
+CIV,PADA,Cote d'Ivoire,address,Google Maps,Government,Abidjan District,2025-01-01-civ-foncier-et-urbanisme
+CIV,PAVI,Cote d'Ivoire,address,,Government,"Yamoussoukro, Korhogo, Daloa",2025-01-01-civ-foncier-et-urbanisme
+CIV,Abidjan District Addressing Project (PADA),Cote d'Ivoire,address,,"Ministry of Construction, Housing and Urban Planning",Abidjan district,2023-11-27-civ-addressing-progress-of-surveys-and-numbering-in-cote-d-ivoire-pada
 CMR,FindMe,Cameroon,address,smartphone app,"FindMe (private start-up), certified via Campost",,2025-06-19-cameroons-findme-rides-new-bank-deal-scale-digital-addressing
 CMR,Plan de Localisation Postal (PLP),Cameroon,address,,Campost,,2025-06-19-cameroons-findme-rides-new-bank-deal-scale-digital-addressing
 CMR,FindMe,Cameroon,address,,FindMe (private start-up) with Campost,,2024-11-04 Cameroon's Campost partners with FindMe to improve national address system
 CMR,Plan de Localisation Postale (PLP),PLP,address,FindMe.House app,"Campost (produced), FindMe (operated)",,2025-06-18-cmr-finance-week-2025-cca-bank-campost-et-findme-s-associent-pour-optimise
+CMR,BANOC Codes,Cameroon,address,AddressForAll grid codes with mobile app by Coeur de Web,AddressForAll Institute / Expertise France Urban Platform project,national,2025-01-06-cmr-delivering-the-banoc-codes-a-landmark-for-open-addressing-in-cameroun
+COD,SCPT postcodes of all administrative entities,COD,other,,SCPT,,2025-10-10-cod-journee-mondiale-de-la-poste-appel-a-l-unite-lance
+COD,SCPT online postcode directory (portail de codes postaux),COD,other,online portal,Societe congolaise des postes et telecommunications (SCPT),pilot provinces and towns,2024-10-10-cod-pt-numerique-un-annuaire-de-codes-postaux-pour-ameliorer-la-qualite-de
+COD,SCPT postcode directory (annuaire des codes postaux),COD,other,,Societe congolaise des postes et telecommunications (SCPT),pilot provinces and towns,2025-01-21-cod-rdc-la-mise-en-place-d-un-annuaire-des-codes-postaux-annoncee
 COG,Système de localisation mixte (SLM),Congo,address,national digital addressing platform,ARPCE,national,2024-10-09-economie-postale-adressage-national-congo
 COG,projet d'adressage postal numérique,Congo,address,,ARPCE,,2026-10-17-cog-adiac-arpce-livre-blanc-adressage-postal
 COG,projet d'adressage postal numérique,digital postal addressing project,address,,Arpce,,2026-10-17-cog-aci-arpce-livre-blanc-indicateurs-marche
+COG,Codification postale (Decret 2025-317),Republic of Congo,other,,Presidency / Ministry of Posts,,2025-07-23-cog-decret-2025-317-codification-postale
+COG,Système national de codes postaux,Congo,other,,Arpce,,2025-11-07-cog-congo-poste-le-trafic-postal-en-hausse-de-50-au-cours-des-trois-premie
 CPV,Plataforma Municipal de Toponímia,Cabo Verde,address,municipal online shop,"Câmara Municipal da Praia (Direcção de Topografia, Cadastro e SIG)",municipal,2026-04-04-cabo-verde-praia-plataforma-municipal-toponimia-disponivel
 CPV,código postal nacional (7 dígitos),Cabo Verde,other,,ARME,national,2026-10-10-unicv-cpv-plataforma-nacional-unica-comercio-eletronico
+CPV,Municipal toponymy project (São Filipe),Cabo Verde,address,,Câmara Municipal de São Filipe with Correios de Cabo Verde,municipal,2026-11-17-cpv-sao-filipe-projecto-de-toponimia-avanca-para-associacao-de-nomes-as-vi
+CPV,Plataforma Municipal de Toponimia,Cabo Verde,address,,Camara Municipal da Praia,city,2026-06-15-cpv-camara-municipal-da-praia-instala-placas-toponimicas-nos-bairros-da-ci
+CPV,Mindelo toponymic project,Cabo Verde,address,,Câmara Municipal de São Vicente,municipal,2026-04-15-cpv-sao-vicente-correios-de-cabo-verde-vao-apoiar-actualizacao-do-projecto
+CPV,Plataforma Municipal de Toponimia (Cityhub),Cabo Verde,address,Sigpraia,Camara Municipal da Praia,city,2025-10-03-cpv-praia-autarquia-lanca-plataforma-digital-para-nomear-ruas-e-casas
 DJI,Registre national des personnes physiques,Djibouti,other,,Direction générale de la Population et de la Famille,,2026-07-23-lanation-carte-nationale-identite-biometrique
 DJI,what3words,Djibouti,address,mobile app and API,"what3words, adopted by Djibouti Post",,2017-02-14-dji-what3words-djibouti-post-addressing
 DZA,Référentiel national d'adressage (RNA),Algeria,address,,"Commission nationale de l'adressage, Ministry of Interior, Local Authorities and Transport","national, wilaya, daira, commune",2026-06-26-dza-icilinfo-mostaganem-rna-ateliers
@@ -29,13 +45,19 @@ DZA,Référentiel national d'adressage (RNA),Algeria,address,national geospatial
 DZA,National Addressing Reference Project (RNA),Algeria,address,,Ministry of Interior; National Addressing Committee; Algerian Space Agency supporting,"national, wilaya, commune",2025-06-19-national-addressing-project-algeria-dzwatch
 DZA,Référentiel national d'adressage (RNA),Algeria,address,ASAL digital platform,"Ministry of Interior, Local Authorities and Regional Planning; Commission nationale d'adressage","national, wilaya, commune",2025-06-16-referentiel-national-adressage-rna
 DZA,المرجع الوطني للعنونة (national address reference),Algérie,address,,"Ministry of Interior, Local Authorities and Transport",12 wilayas; 13 funded; 69 by 2030,2026-10-12-dza-capdz-oran-1-5-million-official-geolocated-addresses
+DZA,référentiel national de l'adressage,Algérie,address,,"Ministry of Interior, Local Authorities and Transport","national, wilaya pilot",2026-10-12-dza-aps-referentiel-national-adressage-415-000-adresses-oran
+DZA,national addressing system (referentiel national de l'adressage),Algeria,address,,"Ministry of Interior, Local Authorities and Transport",12 of 69 wilayas,2026-10-12-dza-elkhabar-adressage-le-recensement-se-poursuit
+DZA,Referentiel national d'adressage (RNA),DZA,address,geospatial digital platform,"Ministry of Interior, Local Authorities and Territorial Planning, with ASAL",wilayas,2025-05-12-dza-lechodalgerie-rna-664-millions-dinars-generalisation
 EGY,Egypt Post new postcode system,Egypt,address,,Egypt Post,7-digit code per group of buildings,2020-03-09-egy-dne-egypt-post-new-postcode-system-dhl
 EGY,السجل العيني (real estate title registry),Egypt,other,,Ministry of Justice,,2026-08-04-egypt-justice-minister-delays-real-estate-registry-sohag
 EGY,National Real Estate ID,National Real Estate ID,address,,MCIT,,2025-06-01-mcit-national-real-estate-id-press-release
 ETH,National Digital Address System,Ethiopia,address,,Space Science and Geospatial Institute (SSGI),national,2026-01-01-digital-ethiopia-2030-anchors-nationwide-digital-addressing
 ETH,eDAS,Ethiopia,address,,Space Science and Geospatial Institute (SSGI),"national, city",2025-12-15-edas-for-three-cities
 ETH,digital addressing system,Ethiopia,address,,Space Science and Geospatial Institute,,2026-10-27-eth-ethiopia-prioritises-national-geospatial-data-infrastructure-in-new-st
+ETH,National Digital Address System,Ethiopia,address,,Space Science and Geospatial Institute,,2025-08-07-eth-ethiopia-accelerates-national-digital-addressing-system-rollout
+ETH,Ethiopian Digital Addressing System (EDAS),Ethiopia,address,digital map and app/website,Space Science and Geospatial Institute,city,2024-02-13-eth-embracing-digital-addressing-system
 GAB,e.CNSS,Gabon,other,e.cnss.ga,CNSS,,2026-09-17-gab-gabonclic-cnss-revolution-numerique-service-public
+GAB,Libreville addressing project,Gabon,address,,Mairie de Libreville,city,2024-05-28-gab-j-habite-derriere-la-prison-a-gauche-de-la-boutique-libreville-la-capi
 GHA,GhanaPostGPS,Ghana,address,app and web map,Ghana Post Company Limited,national,2026-08-29-ghanapostgps-official-site
 GHA,GhanaPostGPS,Ghana,address,app and web map,Ghana Post Company Limited,national,2025-10-15-ghanapostgps-mijo-ride-delivery-integration
 GHA,GhanaPostGPS,Ghana,address,app and web map,Ghana Post Company Limited,national,2024-02-19-ghanapostgps-digital-addressing-evaluation
@@ -45,6 +67,8 @@ GHA,Enterprise Land Information System (ELIS),Ghana,other,,Lands Commission,,202
 GHA,GhanaPostGPS,Ghana,address,,,,2025-08-13-iss-ghana-digital-revolution-economic-growth
 GIN,FindMe digital addressing pilot,Guinea,address,FindMe,Government of Guinea with startup FindMe,,2025-08-01-lack-of-digital-addresses-slows-africa-digital-economy
 GIN,Programme national d'adressage,Guinée,address,"geolocation app, Google Maps","Ministry of Urbanism, Housing and Territorial Planning",Kaloum done; other communes planned,2024-10-01-gin-adressage-des-rues-a-kaloum-les-explications-de-mory-conde-ministre-l
+GIN,Programme national d'adressage,Guinea,address,,"Ministère de l'Urbanisme, de l'Habitat et de l'Aménagement du Territoire",,2025-08-25-gin-arrete-a-2025-800-muhat-crdse-cab-sgg-du-25-aout-2025-portant-creation
+GIN,Programme national d'adressage physique et numérique,Guinée,address,,Primature,national,2024-04-05-gin-programme-national-d-adressage-physique-et-numerique-bah-oury-rencontr
 GMB,National Digital Addressing Project,Gambia,address,,Ministry of Communications and Digital Economy,national,2025-10-13-gambia-launch-ndasc-digital-nation-techafricanews
 GMB,KMC digital address system,Kanifing Municipality,address,Google Plus Codes,Kanifing Municipal Council,municipal,2026-06-29-kmc-digital-address-codes-property-rates-kerrfatou
 GMB,Leveraging Digital Addresses for Evidence-Based Policymaking in Kanifing,Kanifing Municipality,address,Google Plus Codes,Kanifing Municipal Council,municipal,2026-06-09-gmb-kmc-launches-digital-address-project-to-enhance-service-delivery-and-r
@@ -55,31 +79,54 @@ GMB,National Digital Addressing Initiative,The Gambia,address,,Ministry of Commu
 GNB,Bissau street-name and house-number project,Guinea-Bissau,address,,Câmara Municipal de Bissau,,2019-03-15-gnb-odemocrata-bissau-placas-nomes-ruas
 KEN,National Addressing System (NAS),Kenya,address,,Communications Authority of Kenya,,2026-09-02-techafricanews-kenya-lesotho-addressing-system
 KEN,Birth registration e-service,Kenya,other,e-birth register,State Department for Immigration and Citizen Services,,2026-11-02-ken-birth-registration-e-service-reduces-admin-from-months-to-days
+KEN,National Digital Address Infrastructure,Kenya,address,,Postal Corporation of Kenya,,2026-09-21-ken-posta-kenya-announces-plan-to-turn-post-offices-into-digital-hubs
+KEN,National Addressing System,Kenya,address,,Communications Authority of Kenya,,2026-06-17-ken-kenya-moves-towards-a-national-addressing-system-as-stakeholders-suppo
+KEN,National Addressing System,Kenya,address,,"Ministry of Information, Communications and the Digital Economy",,2025-04-29-ken-postal-corporation-set-for-digital-transformation-with-new-national-ad
 LBR,national digital postal address system,Liberia,address,,Ministry of Posts and Telecommunications,national,2026-07-23-liberia-lta-commissioner-honnah-expanding-digital-access
 LBR,national digital addressing system,Liberia,address,,Ministry of Posts and Telecommunications,national,2026-02-03 Liberia Unveils 5-Year 'Digital Liberia' Strategy to Boost Sovereignty and Innovation
+LBR,National Digital Postal Address System (NDPAS),Liberia,address,,Ministry of Posts and Telecommunications,,2026-07-08-lbr-liberia-begins-rollout-of-national-digital-address-system
 LBY,Digital Addressing Platform,Libya,address,,,,2026-08-26-libyaherald-libyan-experts-forum-recommendations
 LBY,Libya Post postal addressing project,Postal addressing project,address,geospatial address database,Libya Post,municipalities,2025-06-20-lby-lana-libya-post-postal-addressing-project
+LBY,Libya Post postal addressing programme (العنونة البريدية),LBY,address,address plates,Libya Post,municipalities,2025-03-18-lby-libya-post-postal-addressing-hay-al-andalus
+LBY,Benghazi postal addressing project,Libya,address,,Benghazi Municipality with Libya Post,city,2024-08-01-lby-libya-s-benghazi-prepares-for-new-postal-code-project
 LSO,Digital Address system (proposed),Lesotho,address,,"Ministry of Information, Communications, Science, Technology and Innovation",national,2026-10-12-lso-govls-world-bank-digital-address
 LSO,Geddit,Lesotho,other,digital address app (GDT Address),Geddit,national,2026-05-22-lesotho-geddit-digital-address-platform
+MAR,Beni Ansar commune addressing system,Morocco,address,,Commune of Beni Ansar,commune,2023-12-22-mar-beni-ansar-addressing-system-street-naming-house-numbering
 MLI,NINACAD-ADRESSE,Mali,address,geolocation application and database,Secrétariat Permanent de la Réforme Domaniale et Foncière,"Bamako District, Kati cercle, Ségou, Koulikoro, Markala, Sikasso",2026-01-08-mali-dgi-ninacad-adresse
 MLI,Ninacad-Adresse,Mali,address,"mobile app, web portal, database",Secretariat permanent de la reforme domaniale et fonciere,"Bamako, Kati, Segou",2025-03-11-mli-digitalisation-de-l-administration-ninacad-adresse-pour-vite-geolocali
 MOZ,endereçamento postal (Decreto n.º 74/2024),Moçambique,address,geographic database,municipalities; Ministério da Administração Estatal e Função Pública,municipal,2025-10-04-marracuene-enderecamento-postal
+MOZ,Codigo de Enderecamento Postal (CEP),Mozambique,address,,INCM,,2026-10-21-moz-incm-divulga-novo-codigo-de-enderecamento-postal-em-pemba-com-implemen
+MOZ,Código de Endereçamento Postal (CEP),Mozambique,other,,Ministries of state administration and of transport and communications,national,2024-09-18-moz-decreto-74-2024-codigos-enderecamento-postal
 MRT,national digital addressing system,Mauritania,address,"mapping portal, address management portal and mobile applications (planned)",Ministry of Digital Transformation and Administrative Modernization,national,2026-10-01-mrt-ecofin-mauritania-digital-addressing
 MRT,Registre biométrique national (ANRPTS),MRT,other,,Agence Nationale du Registre des Populations et des Titres Sécurisés,,2023-11-21-mrt-procedures-enrolement-enfant-rnp
 MRT,référentiel national numérique des données cadastrales,Mauritanie,other,,Ministère des Domaines,,2026-08-27-mauritanie-conseil-ministres-referentiel-cadastral-identifiant-parcellaire-casier-judiciaire
+MRT,Commission nationale de la toponymie (CNT),CNT toponymic inventory,other,georeferenced place-name database,CNT,"national, wilaya, moughataa",2025-01-17-mrt-la-toponymie-en-mauritanie
+MRT,Application mobile de géolocalisation de Nouakchott,Nouakchott geolocation app,address,mobile app,CNT,city,2025-01-17-mrt-la-toponymie-en-mauritanie
 MUS,Mauritius Post postcode pilot,Mauritius,address,,Mauritius Post Ltd,,2012-01-10-mus-lemauricien-mauritius-post-introduit-code-postal
+MUS,Mauritius postcode,Mauritius,other,,The Mauritius Post Ltd,"district, town, ward, sub-locality code",2026-01-01-mus-mauritius-postal-addressing-system
 MWI,National Addressing System (NAS) Project,Malawi,address,national address database with integrated GIS,MACRA,national,2024-02-12 National Addressing Project - MACRA Website
+MWI,National Addressing System,Malawi,address,,MACRA,,2026-08-29-mwi-472-674-properties-get-addresses
+MWI,National Addressing System (NAS),Malawi,address,,MACRA,four cities,2026-02-16-mwi-street-naming-exercise-underway-in-some-district-councils
+MWI,National Addressing System,Malawi,address,,MACRA,,2025-04-09-mwi-macra-rolls-out-national-addressing-system
+MWI,National addressing system,Malawi,address,,MACRA,national,2025-04-07-mwi-experts-emphasize-importance-of-national-addressing-system-in-malawi
 NAM,NamPost postal codes (Phase 1),Namibia,other,website code list,Namibia Post Limited,"postal region, postal area, delivery post office",2026-01-01-nampost-postal-codes
 NER,système d'adressage urbain de Niamey,Niger,address,,Agence de Modernisation des Villes,,2025-06-30-ner-amv-actualisation-plan-adressage-niamey
 NER,Géoportail d'Adressage de Niamey,Géoportail de Niamey,address,web geoportal,Agence de Modernisation des Villes (AMV),city (Niamey),2026-10-17-ner-amv-geoportail-adressage-niamey-a-propos
+NER,Niamey street renaming and addressing,Niger,address,ArcGIS database shared as KML,Niamey municipality,,2026-10-22-ner-street-addressing-and-street-renaming-in-yantala-niamey-niger-a-gis-to
 NGA,National Digital Alphanumeric Postcode,Nigeria,address,"mobile app, web finder, API; hosted on AWS",NIPOST,"five nested levels, state to building",2026-10-03-nga-spaceinafrica-digital-postcode-gis-satellite-data-aws-hosting
 NGA,National Digital Alphanumeric Postcode System,Nigeria,address,website and app,NIPOST,11-character building-level code,2026-10-02-nga-nairametrics-digital-postcodes-mixed-results
 NGA,National Digital Alphanumeric Postcode System,Nigeria,address,application,NIPOST,"state, LGA, district, area, building",2026-10-02-nga-thecable-nipost-postcode-app-exposes-homeowner-names
 NGA,National Digital Alphanumeric Postcode System (NDAPS),Nigeria,address,Milsat Technologies satellite basemaps and GIS; public lookups resolve to AWS,NIPOST,national,2026-10-29-from-informal-landmarks-to-sovereign-data-the-governance-challenge-facing-d
 NGA,National Digital Alphanumeric Postcode System,Nigeria,address,,"Federal Ministry of Communications, Innovation & Digital Economy with NIPOST",,2026-10-28-nga-federal-ministry-hosts-first-built-on-nigeria-s-postcode-pitch-session
 NGA,National Digital Addressing System (NDAPS),NDAPS,address,Galaxy Backbone (core database),NIPOST,,2026-11-10-nigeria-hybrid-cloud-postcode-database
+NGA,National Digital Alphanumeric Postcode System,Nigeria,address,GIS-enabled 11-character postcode,NIPOST,,2026-10-07-nga-nigeria-s-new-digital-postcode-isn-t-nipost-s-first-addressing-fix-wha
+NGA,Address Verification System / Digital Addressing System,Nigeria,address,,NIPOST,,2026-10-07-nga-nigeria-s-new-digital-postcode-isn-t-nipost-s-first-addressing-fix-wha
+NGA,Nigerian Digital Postcode,Nigeria,address,postcode app and web app,Nigerian Postal Service,"state, LGA, district, area, building",2026-10-07-nga-what-is-the-new-alphanumeric-postcode
+NGA,National Addressing Council framework,Nigeria,address,,"Federal Ministry of Innovation, Science and Technology (secretariat)",national,2026-08-25-nga-fg-unifies-key-agencies-to-overhaul-obsolete-national-addressing-syste
+NGA,National Digital Postcode System,Nigeria,address,,NIPOST,,2026-07-13-nga-fg-revives-digital-postcode-after-20-years-begins-nin-integration
 RWA,Iposita grid code addressing,Rwanda,address,Akutari smartphone app,Iposita,,2021-02-17-rwa-abc-iposita-codified-addressing-system
 SDN,Postal addressing and postcode project,Sudan,address,,Ministry of Information and Communications,national,2015-10-29-sdn-alnilin-postal-addressing-project-meeting
+SDN,National Committee for Geographical Names,Sudan,other,,Government of Sudan,,2026-09-19-sdn-khartoum-moves-to-replace-foreign-street-names-with-sudanese-ones
 SEN,National Digital Addressing (ANN),Senegal,address,,Ministry of Telecommunications and Digital Affairs,national,2026-08-07-senegal-relaunches-national-digital-addressing-project
 SEN,Adressage Numerique National (ANN),Senegal,address,,Ministere des Telecommunications et du Numerique,national,2026-08-10-senegal-adressage-numerique-national-wearetech
 SEN,Adressage Numerique National (ANN),Senegal,address,,Ministere des Telecommunications et du Numerique,national,2026-08-05-adressage-numerique-le-senegal-se-donne-pour-objectif-de-boucler-la-phase-pilote-en-un-an
@@ -95,19 +142,27 @@ SSD,Juba street naming,South Sudan,address,,Juba City Legislative Council,city,2
 SWZ,National Postcode and Addressing Project,Eswatini,address,Google Maps linked addresses,ESCCOM with Ministry of ICT; system developed by Eswatini Standards Authority,"national, municipal",2026-09-11-swz-positivenews-matsapha-national-postcode-addressing-rollout
 SWZ,National Street Addressing and House Numbering Programme,Eswatini,address,,Ministry of Housing and Urban Development and Ministry of ICT; Mbabane Municipal Council pilot,"national, municipal",2026-07-23-mbabane-national-addressing-pilot
 SWZ,Eswatini National Addressing Standards,Eswatini,address,,Eswatini Standards Authority with ESCCOM and ministries,national,2026-07-20-eswasa-national-addressing-standards-launch
+SWZ,Eswatini National Addressing Standard (SZNS ISO 19160),Eswatini,address,,ESCCOM,,2026-07-16-swz-every-household-set-to-get-recognised-address-as-eswatini-rolls-out-na
+SWZ,National Addressing and Postcode System Project,Eswatini,address,,ESCCOM,national standard; municipal pilots,2026-07-16-swz-national-address-system-set-to-unlock-eswatini-s-digital-economy
 SYC,National Addressing System,Seychelles,address,,National Addressing Department,national,2026-04-03-seychelles-national-addressing-system-bill-cabinet
 SYC,National Addressing and Postcode System,Seychelles,address,S42 address standard,Seychelles Postal Regulator,national,2025-01-01 National Addressing System - Seychelles Postal Regulator
 SYC,National Addressing System,Seychelles,address,,"National Addressing System Department, Ministry of Local Government and Inner Islands",national,2026-08-26-statehouse-seychelles-cabinet-business-26-august
 TCD,N'Djamena administrative addressing system,Chad,address,street naming and parcel numbering,public authorities (N'Djamena),city,2026-06-01-akofena-adressage-officiel-reperes-populaires-ndjamena
 TGO,Adressage urbain (Greater Lome digital address database),Togo,address,"digital address database of coded roads, address points and certified doors",Autonomous District of Greater Lome (DAGL),city,2025-12-18 Urban addressing - modernisation effort
+TGO,Greater Lome addressing system,TGO,address,,Autonomous District of Greater Lome (DAGL),"Greater Lome, 13 communes",2026-01-05-tgo-la-bonne-adresse
+TGO,Grand Lome modernised addressing system,Togo,address,,District autonome du Grand Lome (DAGL),city,2025-12-18-tgo-vers-une-modernisation-de-l-adressage-dans-le-grand-lome
+TGO,digital addressing,Togo,address,,Societe des postes du Togo,,2026-10-27-tgo-togo-a-l-heure-du-numerique-a-quoi-sert-encore-la-poste
 TUN,registre national des adresses,Tunisia,address,,Ministry of Communication Technologies with La Poste tunisienne,,2022-12-01-tun-thd-registre-national-des-adresses
 TZA,National Address Programme (NaP),Tanzania (Zanzibar),address,digital ID address system with smartphone app,Zanzibar government,"region, council, ward, street, village",2025-08-19-tanzania-digital-id-address-student-loans-zanzibar
 TZA,National Physical Addressing System (NaPA),Tanzania,address,digital address app for the transport sector,Tanzanian government,,2025-08-19-tanzania-digital-id-address-student-loans-zanzibar
 TZA,Physical Addressing and Postcode system,Tanzania,address,,Ministry of Communications and Information Technology,,2026-11-04-tza-tanzania-accelerates-digital-transformation
+TZA,national residential addressing system,Tanzania,address,,Ministry of Communication and Information Technology,,2026-02-09-tza-government-orders-nationwide-adoption-of-residential-addressing-system
 UGA,National Postcode and Addressing System (draft policy),Uganda,address,National GIS and addressing database (planned),Ministry of ICT and National Guidance; Uganda Post Ltd,,2019-02-01-uga-mict-draft-postcode-addressing-policy
 UGA,City Address Model (CAM),Uganda,address,,Kampala Capital City Authority,city,2021-09-27-uga-cioafrica-kcca-city-address-model
 UGA,KCCA house numbering,Uganda,address,,Kampala Capital City Authority,,2025-02-10-uga-kcca-house-number-plates-donation
 UGA,National Addressing System,Uganda,address,,Uganda Communications Commission,,2026-10-28-ucc-seeks-digital-upgrade-of-posta-uganda-nationwide-addressing-system
 ZMB,National Addressing and Postcode Project,Zambia,address,public web-based address database,ZICTA,,2023-05-01-zmb-ungegn-national-report-addressing
 ZMB,National Addressing and Postal Code System Project,Zambia,address,national addressing database with GIS module,ZICTA,,2013-11-06-zmb-parliament-postal-addressing-statement
+ZMB,National Addressing and Postcode Project (NAPP),Zambia,address,,ZICTA,,2025-04-06-zmb-ungegn-crp119-geographical-names-standardization-zambia
+ZMB,National Addressing and Postcode Project (NAPP),Zambia,address,web-based address database,ZICTA,"national, with local authorities",2025-01-22-zmb-initial-steps-made-in-standardization-and-creation-of-a-uniform-system
 ZWE,National Addressing System,Zimbabwe,address,,,,2026-04-21-potraz-call-for-book-chapters-postal-sector
