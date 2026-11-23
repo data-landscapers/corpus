@@ -1,5 +1,6 @@
 ## 23 November 2026
 
+- Methodology has a new Statistics page. It shows what the corpus has added, how the site is used and who has cited it.
 - The Maturity Assessment has a new Movement page listing every stage change on new evidence since 16 November 2026. Filter it by chapter, topic, indicator, country or stage, or download it as a CSV.
 - Each row on the Movement page now links to the Maturity map. The arrow opens that indicator with that country selected.
 

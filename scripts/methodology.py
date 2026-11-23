@@ -6,6 +6,7 @@
                                       site/methodology/document-lifecycle/index.html
                                       site/methodology/process-inventory/index.html
                                       site/methodology/changelog/index.html
+                                      site/methodology/statistics/index.html
 
 **The whole page is `content/methodology.md`.** There is no template here beyond the
 site chrome: the file is written as markdown with headings and sub-headings, and
@@ -380,6 +381,12 @@ PAGES = [
          tables=False,
          description=("Changes to Corpus that affect readers, newest first: what "
                       "changed and what it means for you.")),
+    # Charts and tables drawn at build time by `site_statistics.py` (Bill, 2026-11-23).
+    dict(source="statistics.md", slug="statistics", h1="Statistics",
+         title="Methodology — statistics", nav="Statistics", strip=True,
+         body=" article-body--stats", tables=False, stats=True,
+         description=("Documents added to the corpus by month, country and topic, "
+                      "site use by week, and recent citations.")),
     dict(source="methodology-lookups.md", slug="lookups", h1="Process lookups",
          title="Methodology — process lookups", nav="Process Lookups",
          strip=True, body="", tables=True,
@@ -391,11 +398,14 @@ PAGES = [
 
 def build(md_path: Path, out_dir: Path, *, h1: str, title: str, description: str,
           canonical: str, depth: int, bars: str = "", body_class: str = "",
-          tables: bool = False) -> int:
+          tables: bool = False, stats: bool = False) -> int:
     out_dir.mkdir(parents=True, exist_ok=True)
     text = md_path.read_text(encoding="utf-8")
     if tables:
         text = lookup_tables(text, out_dir)
+    if stats:
+        import site_statistics
+        text = site_statistics.fill(text)
     # One ⓘ for every page in the section, from content/info.md (Bill, 2026-10-22).
     about, panel = info("Methodology")
     (out_dir / "index.html").write_text(external_links(PAGE.format(
@@ -430,6 +440,7 @@ def main() -> int:
             src, out, h1=page["h1"], title=page["title"],
             description=page["description"], canonical=f"{SITE_BASE}{url}",
             depth=depth, body_class=page["body"], tables=page["tables"],
+            stats=page.get("stats", False),
             bars=see_also(url.lstrip("/"))
             + (contents_strip(src) if page["strip"] else ""))
         print(f"methodology: {words:,} words -> site{url}index.html")

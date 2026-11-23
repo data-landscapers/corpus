@@ -38,3 +38,21 @@
 .article-body--inventory th:nth-child(1), .article-body--inventory td:nth-child(1) { width: 20%; }
 .article-body--inventory th:nth-child(2), .article-body--inventory td:nth-child(2) { width: 20%; }
 .article-body--inventory td:nth-child(2) { overflow-wrap: break-word; }
+
+/* ── THE STATISTICS PAGE ── bars drawn in HTML so their labels stay legible at any width. */
+.stat-chart { margin: 2rem 0 0.5rem; }
+.stat-plot { position: relative; height: 240px; margin-left: 3.5rem; border-bottom: 1px solid var(--ink-faint); }
+.stat-tick { position: absolute; left: 0; right: 0; border-top: 1px solid var(--rule); }
+.stat-tick b { position: absolute; right: 100%; transform: translateY(-50%); padding-right: 0.5rem; font: 400 0.68rem var(--mono); color: var(--ink-light); }
+.stat-bars { position: absolute; inset: 0; display: flex; align-items: flex-end; gap: 2px; }
+.stat-col { flex: 1 1 0; min-width: 0; height: 100%; display: flex; align-items: flex-end; justify-content: center; }
+.stat-col:hover .stat-bar { background: var(--accent-dk); }
+.stat-bar { position: relative; width: min(100%, 44px); background: var(--accent); border-radius: 4px 4px 0 0; }
+.stat-val { position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); padding-bottom: 2px; font: 400 0.68rem var(--mono); color: var(--ink); white-space: nowrap; }
+.stat-axis { display: flex; gap: 2px; margin: 0.3rem 0 0 3.5rem; font: 400 0.68rem var(--mono); color: var(--ink-light); }
+.stat-axis span { flex: 1 1 0; min-width: 0; text-align: center; overflow: visible; white-space: nowrap; }
+.stat-note { font-size: 0.8rem; color: var(--ink-light); margin-top: 0.25rem; }
+.stat-table { overflow-x: auto; }
+.stat-table .num { text-align: right; font-family: var(--mono); font-size: 0.8rem; white-space: nowrap; }
+.stat-date { white-space: nowrap; font-family: var(--mono); font-size: 0.8rem; }
+.stat-url { overflow-wrap: anywhere; font-size: 0.8rem; min-width: 14rem; }
