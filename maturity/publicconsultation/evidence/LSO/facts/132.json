@@ -1,17 +1,17 @@
 {
- "slug": "2024-09-29-lso-media-statement-on-commemoration-of-the-international-day-for-universa",
- "facts": [
-  {
-   "sub_indicator": "consultation",
-   "aspect": "hearing",
-   "value": "held",
-   "fact": "MISA Lesotho and the Transformation Resource Center made submissions on the Computer Crime and Cybersecurity Bill before the National Assembly's Portfolio Committee in September 2024, and MISA had earlier made submissions to the communications ministers and to the committee in the Tenth and Eleventh Parliaments.",
-   "as_of": "2024-09",
-   "date_precision": "month",
-   "system": "Computer Crime and Cybersecurity Bill",
-   "class": "consultation"
-  }
- ],
- "systems": [],
- "note": ""
+  "slug": "2024-09-29-lso-media-statement-on-commemoration-of-the-international-day-for-universa",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "MISA Lesotho's statement of 29 September 2024 says it made submissions on the Computer Crime and Cybersecurity Bill to successive ministers and, in the Tenth and Eleventh Parliaments, to the National Assembly's Portfolio Committee; the submissions are dated by the statement.",
+      "as_of": "2024-09-29",
+      "date_precision": "day",
+      "system": "Computer Crime and Cybersecurity Bill",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": ""
 }
