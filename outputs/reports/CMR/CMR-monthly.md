@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: CMR
-ledger_rows: 37
+ledger_rows: 38
 not_held: 3
-record: 2ae654447ade
+record: 225a132d4617
 ---
 
 # News, Oct – Nov 2026
@@ -511,6 +511,20 @@ At the first e-Gov Africa Summit in Yaoundé, Cameroon's public service ministry
 **[Cameroon’s REasy and AGL Pilot Digital Payment and Logistics Service for China Imports](https://www.businesstechafrica.co.za/article/cameroon-s-reasy-and-agl-pilot-digital-payment-and-logistics-service-for-china-imports)** — Business Tech Africa, 6 October 2026
 
 Cameroonian fintech REasy and Africa Global Logistics presented to Douala traders on 1 October 2026 a pilot service for small businesses importing from China. REasy converts CFA francs to yuan to pay suppliers through Alipay, WeChat Pay or Chinese bank accounts, while AGL consolidates and ships goods. The first shared container reached Douala on 29 April; no pricing has been published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fixed FCFA 4 charge on money transfers and digital bank transactions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fiscalité bancaire : UBA Cameroun intègre le prélèvement de 4 FCFA à ses transactions numériques](https://leconomie.info/article/fiscalite-bancaire-uba-cameroun-integre-le-prelevement-de-4-fcfa-a-ses-transactions-numeriques)** — Le quotidien L'Economie, 20 November 2026
+
+Fixed FCFA 4 charge per digital bank transaction under 2025 finance law, on top of 0.2% levy; FCFA 15bn revenue target.
 
 </div>
 
