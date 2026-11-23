@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "ZAF-032;ZAF-010",
       "gaps": "No source found says a national AI strategy is adopted and still running.",
-      "note": "Counted from the four questions by study-ladder-aistrategy.py.",
-      "as_at": "2026-10-17"
+      "note": "A draft policy withdrawn in 2026 is being redrafted for Cabinet by March 2027, and in November 2026 the President announced a national AI action plan within 90 days (ZAF-043). Both are intent, so stage 2.",
+      "as_at": "2026-11-23"
     }
   ]
 }
