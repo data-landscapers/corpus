@@ -854,14 +854,13 @@ def movement_rows(data: dict, studies: list[dict]) -> list[dict]:
 
 def movement_page(csv_name: str, n: int, artefacts: str) -> str:
     name = html.escape(csv_name)
-    start = date.fromisoformat(CHANGES_FROM)
-    since = f"{start.day} {start:%B %Y}"
+    about, panel = info("Maturity movement")
     body = f"""  <div class="container">
     <header class="article-header">
       <div class="article-header__crumb"><a href="../">Maturity Assessment</a></div>
-      <h1 class="article-header__title">Movement</h1>
-      <div class="article-header__byline">Stage changes on new evidence since {since}</div>
+      <h1 class="article-header__title">Movement{about}</h1>
     </header>
+    {panel}
     <div class="dl-datatable"
       data-src="{name}"
       data-cols="{", ".join(MOVEMENT_FIELDS)}"
@@ -884,7 +883,7 @@ def movement_page(csv_name: str, n: int, artefacts: str) -> str:
     return page(title="Movement — Maturity Assessment",
                 description="Every change of stage in the Maturity Assessment, with the evidence for it.",
                 canonical=f"{SITE_BASE}/maturity/movement/", depth=2, body=body, body_class="mat-movement-page",
-                sheets=("country.css", "datatable.css"), scripts=script("datatable.js", 2),
+                sheets=("country.css", "datatable.css", "maturity.css"), scripts=script("datatable.js", 2),
                 active="maturity", head=artefacts)
 
 

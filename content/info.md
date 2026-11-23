@@ -60,6 +60,13 @@ Corpus provides country analysis in three separate reports. In addition to this 
 
 These assessments are updated overnight whenever new relevant evidence arrives. And once a month each indicator is rebuilt entirely.
 
+## Maturity movement
+
+For each country 115 indicators are assessed across five levels of maturity (Absent > Preparing > Establishing > Operating > Mature). Whenever new evidence arrives, through the nightly news sweeps, indicators are updated.
+
+This table provides a useful snapshot of progress being made. Any stage change is recorded here. The date records when corpus made the change, not necessarily when in-country changes were implemented.
+
+
 ## Methodology
 
 The methodology section explains the architecture and processes involved in maintaining the Corpus repository:

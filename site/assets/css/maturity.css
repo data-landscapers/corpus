@@ -351,3 +351,6 @@
   .mat-report .report-head { position: static; background: none; }
   .mat-report .report-family__kicker { border-bottom: none; }
 }
+
+/* The Movement table's top scrollbar strip reads red always, as on Who's Who. */
+.mat-movement-page .dl-datatable .dt-scroll-top { background: var(--accent); border-bottom-color: var(--accent); }

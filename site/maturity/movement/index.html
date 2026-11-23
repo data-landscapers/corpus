@@ -11,6 +11,7 @@
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=a2d93af9">
 <link rel="stylesheet" href="../../assets/css/country.css?v=8ad99761">
 <link rel="stylesheet" href="../../assets/css/datatable.css?v=284d32e1">
+<link rel="stylesheet" href="../../assets/css/maturity.css?v=4e6da842">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
 <script>
@@ -107,9 +108,13 @@
   <div class="container">
     <header class="article-header">
       <div class="article-header__crumb"><a href="../">Maturity Assessment</a></div>
-      <h1 class="article-header__title">Movement</h1>
-      <div class="article-header__byline">Stage changes on new evidence since 16 November 2026</div>
+      <h1 class="article-header__title">Movement<button type="button" class="info-btn" popovertarget="info-maturity-movement" aria-label="About this page">i</button></h1>
     </header>
+    <div class="info-pop" id="info-maturity-movement" popover>
+<button type="button" class="info-pop__close" popovertarget="info-maturity-movement" popovertargetaction="hide" aria-label="Close">&times;</button>
+<p>For each country 115 indicators are assessed across five levels of maturity (Absent &gt; Preparing &gt; Establishing &gt; Operating &gt; Mature). Whenever new evidence arrives, through the nightly news sweeps, indicators are updated.</p>
+<p>This table provides a useful snapshot of progress being made. Any stage change is recorded here. The date records when corpus made the change, not necessarily when in-country changes were implemented.</p>
+</div>
     <div class="dl-datatable"
       data-src="maturity-movement-2026-11-23-3.csv"
       data-cols="Date, Map, Country, Chapter, Topic, Indicator, From, To, Evidence"
