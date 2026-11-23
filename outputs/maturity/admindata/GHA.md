@@ -10,4 +10,4 @@
 
 ***Also on file***. [Strategic Sector Cooperation on Statistics (GSS and Statistics Denmark)](<https://www.ecofinagency.com/news-services/2209-59131-ghana-denmark-plan-new-phase-of-cooperation-on-government-data>). [CRVS Strategic Plan 2025-2030](<https://www.adomonline.com/births-and-deaths-registry-validates-plan-to-digitise-national-vital-statistics/>). [CloudSys SHS placement system](<https://asaaseradio.com/yaw-opoku-mensah-criticises-new-shs-placement-system/>). [Education Management Information System (EMIS)](<https://www.myjoyonline.com/education-ministry-updates-emis-indicators-to-strengthen-ict-integration-in-schools/>).
 
-***Not found***. No source found shows statistics from three administrative sources, each published twice since October 2023.
+***Not found***. No source found shows statistics from one administrative source published twice since October 2023.

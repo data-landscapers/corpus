@@ -9,10 +9,10 @@
       "series": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-008;AGO-002",
+      "stage_sources": "AGO-002;AGO-006",
       "gaps": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
-      "note": "Education records published twice since October 2023 set stage 4; the September 2026 pilot under the World Bank project publishes nothing yet, and no three sources are each published twice.",
-      "as_at": "2026-11-15"
+      "note": "The higher education yearbooks of December 2023 and October 2024 are two editions from one source, which sets stage 4. The school yearbook is a different body's records and is held once, so no three sources are each published twice.",
+      "as_at": "2026-11-23"
     }
   ]
 }

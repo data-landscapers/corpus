@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "admin",
-      "stage": "3",
+      "stage": "unplaced",
       "use": "",
-      "source": "civil-registration",
+      "source": "",
       "series": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZMB-001",
-      "gaps": "No source found shows statistics from one administrative source published twice since November 2023.",
-      "note": "ZamStats said in November 2023 that it uses administrative data to produce statistics such as annual births and deaths (ZMB-001). No edition is dated, so 3.",
-      "as_at": "2026-11-12"
+      "stage_sources": "",
+      "gaps": "No source found dates an edition of statistics from administrative records.",
+      "note": "The ZamStats page says administrative data is used to produce births and deaths statistics, and names and dates no published product, so its one row cannot set a rung.",
+      "as_at": "2026-11-23"
     }
   ]
 }
