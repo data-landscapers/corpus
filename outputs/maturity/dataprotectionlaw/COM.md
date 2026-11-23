@@ -4,14 +4,14 @@
 
 **Authority.** The law [institutes a supervisory body, which its Article 19 names the Commission nationale de l'informatique et des libertés](<https://anaden.org/uploads/media/63076edf43d1e/loi-portant-sur-la-protection-des-donnees-a-caractere-personnel-de-lunion-des-comores.pdf>), with nine members. [As of mid-2024 the authority had not been formally constituted or made operational](<https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law>).
 
-**Standing.** The Assembly of the Union [adopted Loi n°14-029/AU on the protection of personal data in plenary session on 26 June 2014](<https://anaden.org/uploads/media/63076edf43d1e/loi-portant-sur-la-protection-des-donnees-a-caractere-personnel-de-lunion-des-comores.pdf>). The law has 68 articles. The Union of Comoros [enacted its Protection of Personal Data Law on 29 June 2021](<https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law>), as a comprehensive framework.
+**Standing.** The Assembly of the Union [adopted Loi n°14-029/AU on the protection of personal data in plenary session on 26 June 2014](<https://anaden.org/uploads/media/63076edf43d1e/loi-portant-sur-la-protection-des-donnees-a-caractere-personnel-de-lunion-des-comores.pdf>). The law has 68 articles. The Union of Comoros [enacted its Protection of Personal Data Law on 29 June 2021](<https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law>), as a comprehensive framework. ESCWA's profile of the legal framework in force in December 2025 [says Comoros has no comprehensive data protection law in place](<https://www.unescwa.org/sites/default/files/inline-files/arab-business-legislative-frameworks-anti-corruption-comoros-english.pdf>).
 
 **Regulations.** Under Article 24 of the law, [the nine members of the commission are named by decree](<https://anaden.org/uploads/media/63076edf43d1e/loi-portant-sur-la-protection-des-donnees-a-caractere-personnel-de-lunion-des-comores.pdf>).
 
 **Application.** The authority that the law gives the task of supervision [was not operational as of mid-2024](<https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law>).
 
-**Last twelve months.** The latest dated position is that of mid-2024, when [the authority had not been formally constituted](<https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law>).
+**Last twelve months.** The one dated statement found is [ESCWA's profile of December 2025](<https://www.unescwa.org/sites/default/files/inline-files/arab-business-legislative-frameworks-anti-corruption-comoros-english.pdf>), on the law. The authority was last reported in mid-2024 as [not formally constituted](<https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law>).
 
 ***Also on file***. None found.
 
-***Not found***. No source has been found on whether the law has commenced, or from what date. No regulation made under it and no decision applying it has been found. Nothing dated in the twelve months to 30 September 2026 has been found. That includes whether the authority has been constituted since mid-2024.
+***Not found***. No source has been found on whether the law has commenced, or from what date. No regulation made under it and no decision applying it has been found. Nothing found since mid-2024 says whether the authority has been constituted.

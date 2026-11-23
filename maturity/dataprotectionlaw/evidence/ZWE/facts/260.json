@@ -1,26 +1,15 @@
 {
- "slug": "2024-10-03-zwe-reforms-in-media-law-policies-begin",
- "facts": [
-  {
-   "sub_indicator": "general",
-   "aspect": "standing",
-   "value": "in-force",
-   "fact": "Information Permanent Secretary Nick Mangwana said the government enacted the Cyber and Data Protection Act (Chapter 12:07) in place of the repealed AIPPA.",
-   "as_of": "2024-10-02",
-   "date_precision": "day",
-   "system": "Cyber and Data Protection Act (Chapter 12:07)",
-   "class": "general"
-  }
- ],
- "systems": [
-  {
-   "system": "Cyber and Data Protection Act (Chapter 12:07)",
-   "country_label": "Zimbabwe",
-   "class": "general",
-   "platform": "",
-   "owner": "Government of Zimbabwe",
-   "tiers": ""
-  }
- ],
- "note": ""
+  "slug": "2024-10-03-zwe-reforms-in-media-law-policies-begin",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cyber and Data Protection Act (Chapter 12:07)",
+      "country_label": "Zimbabwe",
+      "class": "general",
+      "platform": "",
+      "owner": "Government of Zimbabwe",
+      "tiers": ""
+    }
+  ],
+  "note": "Restates the held Cyber and Data Protection Act."
 }

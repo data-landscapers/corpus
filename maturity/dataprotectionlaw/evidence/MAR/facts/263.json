@@ -1,26 +1,15 @@
 {
- "slug": "2026-11-22-mar-morocco-s-personal-data-protection-law-revision-reaches-government-secr",
- "facts": [
-  {
-   "sub_indicator": "general",
-   "aspect": "standing",
-   "value": "in-force",
-   "fact": "Hespress reports that Law No. 09.08 on the processing of personal data, adopted in 2009, has remained largely unchanged, and that a draft bill amending it (prepared by the CNDP with the Ministry of Justice, covering AI, blockchain and precision medicine) has reached the General Secretariat of the Government.",
-   "as_of": "2026-11-22",
-   "date_precision": "day",
-   "system": "Law No. 09.08",
-   "class": "general"
-  }
- ],
- "systems": [
-  {
-   "system": "Law No. 09.08 on the protection of individuals with regard to the processing of personal data",
-   "country_label": "Morocco",
-   "class": "general",
-   "platform": "",
-   "owner": "",
-   "tiers": ""
-  }
- ],
- "note": ""
+  "slug": "2026-11-22-mar-morocco-s-personal-data-protection-law-revision-reaches-government-secr",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Law No. 09.08 on the protection of individuals with regard to the processing of personal data",
+      "country_label": "Morocco",
+      "class": "general",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Restates a held position: the recast of Law 09-08 was already on file as sent to the Secretariat General in August 2026."
 }
