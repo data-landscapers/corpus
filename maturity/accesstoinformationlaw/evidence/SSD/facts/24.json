@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-21-ssd-media-regulation-faulted-for-south-sudan-s-struggle-with-right-to-acce",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Advocate Johnson Juma says South Sudan's Access to Information Act, enacted in 2013, gives every citizen the right to access official information and records of government.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "Access to Information Act 2013",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Access to Information Act 2013",
+   "country_label": "South Sudan",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

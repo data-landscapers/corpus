@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-ben-one-platform-for-all-what-benin-s-e-tax-rollout-to-small-businesses-ca",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "The ICTD article says Benin's tax directorate (DGI) runs tax on its SIGIBe platform, rolled out for large and medium taxpayers in 2022 and extended to small businesses in 2024, with electronic payments above 96% for most taxes.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "SIGIBe (Systeme integre de gestion des impots du Benin)",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGIBe",
+   "country_label": "SIGIBe (Systeme integre de gestion des impots du Benin)",
+   "class": "core",
+   "platform": "",
+   "owner": "DGI Benin, owns source code, funded from national budget",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,6 +1,15 @@
 {
  "slug": "2026-07-28-car-batangafo-month-without-orange-network",
  "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on satellite broadband."
+    }
+   }
+  },
   "exchangepoints": {
    "countries": {
     "CAF": {

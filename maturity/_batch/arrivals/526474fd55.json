@@ -1,0 +1,44 @@
+{
+ "slug": "2026-11-09-civ-cote-divoire-aip-six-nouveaux-commissaires-prennent-fonction-a-la-caid",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Communication minister Amadou Coulibaly says the law of 23 December 2013 established the right of access to public documents.",
+       "as_of": "2013-12-23",
+       "date_precision": "day",
+       "system": "Loi du 23 décembre 2013",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "rules",
+       "fact": "The CAIDP, the independent authority named as guaranteeing the law, installed six new commissioners on 9 November 2026 under president Anne-Marie Konan-Payne.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "CAIDP",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CAIDP",
+       "country_label": "Côte d'Ivoire",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

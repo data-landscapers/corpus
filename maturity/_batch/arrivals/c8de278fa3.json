@@ -1,6 +1,42 @@
 {
  "slug": "2026-11-19-zaf-sa-strategises-to-use-ai-for-tangible-benefits-for-citizens",
  "studies": {
+  "aistrategy": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The minister speaks of AI guidelines or a policy framework under discussion; no strategy is being drafted or adopted."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The story says nothing on a national data policy."
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital Transformation Roadmap",
+       "country_label": "South Africa",
+       "class": "national",
+       "platform": "",
+       "owner": "Inter-Ministerial Committee on Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": "The Digital Transformation Roadmap is a national digital strategy, noted not assessed; no sector policy is stated."
+    }
+   }
+  },
   "aiabuse": {
    "countries": {
     "ZAF": {

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-mar-droit-d-acces-a-l-information",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Ministry says the right of access is governed by law no. 31-13, adopted 22 February 2018 and published in the Bulletin officiel on 12 March 2018.",
+   "as_of": "2018-03-12",
+   "date_precision": "day",
+   "system": "Loi n° 31-13",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The Ministry says a convention signed in 2025 transferred the national portal to the Commission du droit d'accès à l'information, which launched a new version at pndai.ma.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Commission du droit d'accès à l'information",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail national du droit d'accès à l'information (pndai.ma)",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "web portal",
+   "owner": "Commission du droit d'accès à l'information",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2024-12-13-gmb-information-commission-reviewing-cases-against-6-institutions",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Standard reports the National Assembly passed the ATI Bill in July 2021 and President Barrow assented to it.",
+       "as_of": "2021-07",
+       "date_precision": "month",
+       "system": "Access to Information Act",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "rules",
+       "fact": "The Standard reports the Access to Information Commission, through its chairperson, said it is reviewing complaints against six institutions and has written to all public institutions about implementation plans.",
+       "as_of": "2024-12-12",
+       "date_precision": "day",
+       "system": "Access to Information Commission",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Access to Information Act",
+       "country_label": "The Gambia",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Complaint under review, no decision stated, so nothing recorded for application."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-13-gin-atelier-de-restitution-de-l-etude-de-faisabilite-pour-l-adressage-et-l",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "WARDIP-Guinée, under the postal and digital economy ministry, presented at Coyah on 13-14 August 2025 the results of a nine-month feasibility study by the Tunisian firm GTC for a digital addressing system and postcodes for Guinea.",
+   "as_of": "2025-08-13",
+   "date_precision": "day",
+   "system": "digital addressing and postcode system feasibility study",
+   "class": "address"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

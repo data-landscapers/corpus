@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-sen-le-droit-d-acces-a-l-information-comme-pilier-democratique",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ARTICLE 19 Senegal's brief says Law 2025-15 on access to information was adopted by the National Assembly on 26 August 2025 and promulgated in September 2025 (25 September per Africa Check).",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "Loi n°2025-15 relative à l'Accès à l'Information",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission nationale d'Accès à l'Information (CONAI)",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

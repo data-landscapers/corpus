@@ -1,0 +1,13 @@
+{"slug": "2026-06-17-ken-kenya-moves-towards-a-national-addressing-system-as-stakeholders-suppo", "studies": {
+"addressregister": {"countries": {"KEN": {"facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "underway", "fact": "The National Addressing System Bill, 2025, is before the National Assembly's communication committee and stakeholders including the Ministry and the Communications Authority support it, with the Ministry also drafting a National Addressing System Policy.", "as_of": "2026-06-17", "date_precision": "day", "system": "National Addressing System", "class": "address"}], "systems": [{"system": "National Addressing System", "country_label": "Kenya", "class": "address", "platform": "", "owner": "Communications Authority of Kenya", "tiers": ""}], "note": ""}}},
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on public e-procurement."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on central bank payments role."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"digitalstrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on a national digital strategy."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"localgov": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on local government office connection."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document gives no account-ownership survey figure."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on electronic payment of taxes or fees."}}}
+}}

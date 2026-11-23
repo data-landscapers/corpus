@@ -1,0 +1,14 @@
+{"slug": "2026-10-12-dza-elkhabar-adressage-le-recensement-se-poursuit", "studies": {
+"addressregister": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "address", "aspect": "addressing", "value": "inservice", "fact": "Amel Djouamaa of Algeria's Interior Ministry says the national addressing system has so far recorded 1.5 million official unified, geolocatable addresses, rolled out in 12 wilayas, with 13 more to follow once funded in the 2026 state budget and all 69 wilayas by 2030.", "as_of": "2026-10-12", "date_precision": "day", "system": "national addressing system (referentiel national de l'adressage)", "class": "address"},
+{"sub_indicator": "address", "aspect": "used", "value": "used", "fact": "The article names users of the addressing system at the Oran study day as the security services, Protection civile, Sonelgaz, the tax services and Algerienne des eaux, with practical applications presented from Oran communes.", "as_of": "2026-10-12", "date_precision": "day", "system": "national addressing system (referentiel national de l'adressage)", "class": "address"}
+], "systems": [{"system": "national addressing system (referentiel national de l'adressage)", "country_label": "Algeria", "class": "address", "platform": "", "owner": "Ministry of Interior, Local Authorities and Transport", "tiers": "12 of 69 wilayas"}], "note": ""}}},
+"authentication": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document says nothing on authentication."}}},
+"birthidlink": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document says nothing on a civil register and ID link."}}},
+"idcoverage": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document says nothing on national ID coverage."}}},
+"idfrombirth": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document says nothing on ID numbers at birth."}}},
+"idmaintenance": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document says nothing on ID system operation or ownership."}}},
+"idregisters": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document says nothing on registers keyed on the national ID number."}}},
+"idrobustness": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document says nothing on the national ID system."}}},
+"localgov": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document says nothing on local government office connections."}}}
+}}

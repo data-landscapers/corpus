@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-dza-right-to-access-information-souk-ahras-thesis",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "A Souk Ahras University thesis abstract states the law framing the constitutional right of access to information, enshrined in 2016, is still absent in Algeria.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "access to information law",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Decree 88-131",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

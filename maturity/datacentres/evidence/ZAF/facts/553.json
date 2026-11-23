@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-21-zaf-sanews-president-explores-ai-partnerships-silicon-valley",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Microsoft data centre",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Microsoft",
+   "tiers": ""
+  }
+ ],
+ "note": "States Microsoft launched a data centre in 2019, first by a hyperscaler, but not that it rents to others, its Tier, or a cloud region."
+}

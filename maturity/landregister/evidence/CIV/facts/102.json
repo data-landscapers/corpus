@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-civ-foncier-et-urbanisme",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Direction Generale de l'Economie says the Integrated Urban Land Management System (SIGFU), created by decree in December 2021 as a computerised system for urban land data, is being put in place, with a mass parcel titling operation launched as a step of it.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Systeme Integre de Gestion du Foncier Urbain (SIGFU)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGFU",
+   "country_label": "Cote d'Ivoire",
+   "class": "land",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-21-cog-aci-patn-ptba-2027-18-milliards",
+ "facts": [],
+ "systems": [
+  {
+   "system": "E-Gouv platform",
+   "country_label": "Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "PATN (World Bank-financed project)",
+   "tiers": ""
+  }
+ ],
+ "note": "The E-Gouv platform is only expected to launch before the project closes in December 2027; no service is stated online."
+}

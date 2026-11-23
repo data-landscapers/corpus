@@ -1,0 +1,13 @@
+{"slug": "2026-09-28-sen-acces-a-l-information-un-an-apres-la-loi-le-mur-du-silence-administrat", "studies": {
+"accesstoinformationlaw": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Seneweb reports that Law No. 2025-15 of 4 September 2025 guaranteeing the right of access to information was promulgated, recognises the right of any person to information held by public bodies, and sets a response time of eight days extendable to fifteen.", "as_of": "2025-09-04", "date_precision": "day", "system": "Law No. 2025-15 on the right of access to information", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "none", "fact": "Seneweb reports that the Commission nationale d'accès à l'information (CONAI) provided for by the law was still not installed on 28 September 2026, and that articles 11 and 12 duties (monitoring committee, officer training, official request form) did not yet appear to be applied.", "as_of": "2026-09-28", "date_precision": "day", "system": "Commission nationale d'accès à l'information (CONAI)", "class": "law"}
+], "systems": [{"system": "Law No. 2025-15 on the right of access to information", "country_label": "Senegal", "class": "law", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"civilserviceskills": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on digital-skills training for civil servants."}}},
+"digitaldivides": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on rural internet programmes or rural and urban use."}}},
+"interoperabilitylaw": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on public bodies sharing data; the access law is another study's."}}},
+"opendatapolicy": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on an open data policy."}}},
+"opendatause": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on data published for download."}}},
+"opendiscussion": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only complaints of administrative delay in access requests; no named policy criticised by a named group in a way that answers a question, no cut or punishment stated."}}},
+"police": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on police station records."}}}
+}}

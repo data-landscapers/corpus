@@ -1,0 +1,10 @@
+{"slug": "2026-11-20-cmr-fiscalite-bancaire-uba-cameroun-integre-le-prelevement-de-4-fcfa", "studies": {
+"businesspayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Article covers a FCFA 4 per-transaction levy on bank digital transactions; it states nothing on e-procurement."}}},
+"centralbank": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Article is about a tax on bank transactions; it states no central bank payments mandate, licensing, switch or PAPSS role."}}},
+"consumerprotection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Article states no consumer-protection rules, complaints body or enforcement for digital finance."}}},
+"crossborderpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Article states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Article states nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Article gives no survey figure on adults with accounts or digital payments."}}},
+"retailpayments": {"countries": {"CMR": {"facts": [], "systems": [{"system": "UBA Cameroun digital channels (debit and prepaid cards, Leo assistant, Internet Banking, Push & Pull)", "country_label": "Cameroon", "class": "other", "platform": "", "owner": "United Bank for Africa Cameroun", "tiers": ""}], "note": "Article names one bank's digital channels only; no mobile money, interoperability or national switch is stated."}}},
+"revenuecollection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Article describes a tax levied on transactions, not electronic payment of taxes or fees to the state."}}}
+}}

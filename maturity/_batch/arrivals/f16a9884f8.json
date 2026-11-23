@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-09-nga-14-years-of-foi-act-how-weak-enforcement-shields-709-public-institutio",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Guardian reports the Freedom of Information Act was assented to in 2011 and is applied to public institutions, with the Justice Ministry's FoI unit confirming 91 of about 800 institutions complied in 2023.",
+       "as_of": "2011",
+       "date_precision": "year",
+       "system": "Freedom of Information Act",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Freedom of Information Act",
+       "country_label": "Nigeria",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No dated decision or request figures by an oversight body; court fine on the CBN is undated."
+    }
+   }
+  }
+ }
+}

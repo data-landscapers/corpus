@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-21-cod-rdc-la-mise-en-place-d-un-annuaire-des-codes-postaux-annoncee",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "ACP reports SCPT director general Sandra Tshibonge Mbuyi announced a postcode directory will be set up to identify addresses of quarters, communes, sectors, chiefdoms and post offices in the provinces and towns chosen for the pilot phase.",
+   "as_of": "2025-01-21",
+   "date_precision": "day",
+   "system": "SCPT annuaire des codes postaux",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SCPT postcode directory (annuaire des codes postaux)",
+   "country_label": "COD",
+   "class": "address",
+   "platform": "",
+   "owner": "Societe congolaise des postes et telecommunications (SCPT)",
+   "tiers": "pilot provinces and towns"
+  }
+ ],
+ "note": ""
+}

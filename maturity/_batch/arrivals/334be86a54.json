@@ -1,0 +1,20 @@
+{"slug": "2026-11-20-xaf-who-will-safeguard-africa-s-ai-economy", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Names no AI-harm rule or authority for Kenya."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "States no government AI use for Kenya."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "States no sectoral AI use for Kenya."}}},
+"aistrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Says nothing of a Kenyan AI strategy."}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "States no AI built or hosted in Kenya."}}},
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Not about e-procurement."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Says nothing of the central bank's payments role in Kenya."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "States no Kenyan consumer rule or complaints body for digital finance."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Names no Kenyan cross-border payment corridor."}}},
+"cybersecurity": {"countries": {"KEN": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "OLAM Africa says Kenya established its National Computer Incident Response Team-Coordination Centre as a multi-agency mechanism for coordinating cybersecurity responses.", "as_of": "2026-11-20", "date_precision": "day", "system": "National Computer Incident Response Team-Coordination Centre", "class": "response"}], "systems": [{"system": "National Computer Incident Response Team-Coordination Centre", "country_label": "National Computer Incident Response Team-Coordination Centre", "class": "response", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "States nothing of Kenya's data protection law."}}},
+"digitalstrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Names no Kenyan digital strategy."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Not about government payments to people."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Gives no Kenyan account-holding survey figure."}}},
+"policyresearch": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Names no Kenyan research institution on digital policy."}}},
+"regionalpolicy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Names no Kenyan regional agreement or membership."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Gives no Kenyan retail payment fact."}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Not about revenue collection."}}}
+}}

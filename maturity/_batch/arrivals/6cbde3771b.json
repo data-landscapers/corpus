@@ -1,6 +1,24 @@
 {
  "slug": "2026-11-19-sdn-sudanhorizon-cbos-nips-contract",
  "studies": {
+  "interoperabilitystandards": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Instant Payment System (NIPS)",
+       "country_label": "Sudan",
+       "class": "other",
+       "platform": "",
+       "owner": "Central Bank of Sudan",
+       "tiers": ""
+      }
+     ],
+     "note": "Payment system contract only; no technical standards for government systems stated."
+    }
+   }
+  },
   "businesspayments": {
    "countries": {
     "SDN": {

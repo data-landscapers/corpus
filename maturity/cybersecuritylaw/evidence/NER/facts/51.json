@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-10-ner-atelier-d-echange-sur-l-ordonnance-portant-charte-d-acces-a-l-informat",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The document says Ordinance no. 2024-28 of 7 June 2024 amending the cybercrime law was adopted and is used repressively against journalists and activists.",
+   "as_of": "2024-06-07",
+   "date_precision": "day",
+   "system": "Ordonnance n°2024-28 du 7 juin 2024 modifiant la loi sur la cybercriminalité",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

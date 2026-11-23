@@ -1,0 +1,5 @@
+{"slug": "2026-02-16-mwi-street-naming-exercise-underway-in-some-district-councils", "studies": {
+"addressregister": {"countries": {"MWI": {"facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "underway", "fact": "MACRA says a street naming exercise has been rolled out in Blantyre, Zomba, Lilongwe and Mzuzu under the National Addressing System, after the streets were digitised, with community validation and naming.", "as_of": "2026-02-16", "date_precision": "day", "system": "National Addressing System (NAS)", "class": "address"}], "systems": [{"system": "National Addressing System (NAS)", "country_label": "Malawi", "class": "address", "platform": "", "owner": "MACRA", "tiers": "four cities"}], "note": ""}}},
+"internationalstandards": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Says only that the addressing system follows 'international standards', naming none and no standards body."}}},
+"localgov": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Says nothing about local government office connections."}}}
+}}

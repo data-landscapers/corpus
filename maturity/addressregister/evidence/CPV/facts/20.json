@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-15-cpv-camara-municipal-da-praia-instala-placas-toponimicas-nos-bairros-da-ci",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "Expresso das Ilhas reports Praia's municipality is placing 100 street-name plaques in seven neighbourhoods, has approved Vila Esperança's street names, and has its Municipal Toponymy Platform open for consulting street names and door numbers.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "Plataforma Municipal de Toponimia",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plataforma Municipal de Toponimia",
+   "country_label": "Cabo Verde",
+   "class": "address",
+   "platform": "",
+   "owner": "Camara Municipal da Praia",
+   "tiers": "city"
+  }
+ ],
+ "note": ""
+}

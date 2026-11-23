@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-10-nam-minister-halts-commissioner-recruitment",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "none",
+   "fact": "The Namibian reports that ICT minister Emma Theofelus halted recruitment of an information commissioner by letter of 27 February 2026, and that the Access to Information Act's oversight body is not yet established or operational.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Access to Information Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Access to Information Act",
+   "country_label": "Namibia",
+   "class": "law",
+   "platform": "",
+   "owner": "Ministry of Information and Communication Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

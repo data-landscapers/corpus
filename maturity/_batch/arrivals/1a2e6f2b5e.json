@@ -1,6 +1,42 @@
 {
  "slug": "2026-11-03-bwa-southern-africa-s-ai-ambitions-face-reality-check",
  "studies": {
+  "datagovernance": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an AI policy is mentioned; not a data policy."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National AI policy",
+       "country_label": "Botswana",
+       "class": "other",
+       "platform": "",
+       "owner": "Government",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a national AI policy submitted to Parliament is named, a thematic strategy."
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing about an ICT sector policy."
+    }
+   }
+  },
   "ailaw": {
    "countries": {
     "BWA": {

@@ -1,6 +1,43 @@
 {
  "slug": "2026-10-16-cod-wearetech-plateforme-integree-visas-electroniques",
  "studies": {
+  "egovservices": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "Wearetech.africa states the DRC has an official electronic visa application portal operated by the Direction generale de migration, separate from the planned integrated visa-management platform.",
+       "as_of": "2026-10-16",
+       "date_precision": "day",
+       "system": "DGM e-visa application portal",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DGM e-visa application portal",
+       "country_label": "DR Congo",
+       "class": "eservices",
+       "platform": "web portal",
+       "owner": "Direction generale de migration",
+       "tiers": ""
+      },
+      {
+       "system": "Integrated electronic visa management platform (planned)",
+       "country_label": "DR Congo",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Digital Economy and Ministry of Foreign Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
   "authentication": {
    "countries": {
     "COD": {

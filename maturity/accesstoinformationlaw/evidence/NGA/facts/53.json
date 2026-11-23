@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-24-nga-court-orders-fg-to-publish-nddc-forensic-report-name-indicted-persons",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Guardian reports the Federal High Court applying the Freedom of Information Act's duties and exemptions to the NDDC forensic audit report.",
+   "as_of": "2025-11-24",
+   "date_precision": "day",
+   "system": "Freedom of Information Act",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "applied",
+   "fact": "The Guardian reports Justice Olotu ordering the President to publish the NDDC forensic audit report and the names of those indicted, in an FOI suit brought by SERAP.",
+   "as_of": "2025-11-24",
+   "date_precision": "day",
+   "system": "Freedom of Information Act",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

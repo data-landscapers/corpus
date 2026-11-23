@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-27-civ-jdaip-2026-la-caidp-veut-faire-de-lacces-a-linformation-publique-un-le",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CAIDP president Anne-Marie Konan Payne said the access to information law was adopted in 2013 and that the right exists, as reported by 225.ci.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "loi relative à l'accès à l'information d'intérêt public",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "225.ci reports that the 2013 law created the CAIDP as an independent administrative authority, which is chaired by Anne-Marie Konan Payne and has handled requests and appeals.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "CAIDP",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission d'Accès à l'Information d'Intérêt Public et aux Documents Publics (CAIDP)",
+   "country_label": "Côte d'Ivoire",
+   "class": "law",
+   "platform": "",
+   "owner": "independent administrative authority",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

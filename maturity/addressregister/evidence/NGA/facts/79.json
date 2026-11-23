@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-07-nga-nigeria-s-new-digital-postcode-isn-t-nipost-s-first-addressing-fix-wha",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "Technext reports NIPOST rolled out the National Digital Alphanumeric Postcode System on 1 October 2026, assigning an 11-character GIS-enabled code to addressable buildings, with early users reporting mixed results.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "National Digital Alphanumeric Postcode System",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Alphanumeric Postcode System",
+   "country_label": "Nigeria",
+   "class": "address",
+   "platform": "GIS-enabled 11-character postcode",
+   "owner": "NIPOST",
+   "tiers": ""
+  },
+  {
+   "system": "Address Verification System / Digital Addressing System",
+   "country_label": "Nigeria",
+   "class": "address",
+   "platform": "",
+   "owner": "NIPOST",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

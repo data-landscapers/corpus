@@ -1,0 +1,44 @@
+{
+ "slug": "2025-01-01-civ-foncier-et-urbanisme",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "The Direction Generale de l'Economie says the Abidjan addressing project (PADA) has street and unit marking under way in all five zones, over 15,000 street names approved, the Google Maps addressing system effective in zones 1 and 2 and unit plaques completed there.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Projet d'Adressage du District d'Abidjan (PADA)",
+   "class": "address"
+  },
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "The Direction Generale de l'Economie says the interior-cities addressing project (PAVI), launched in 2023, had by end June 2025 surveyed 26,840 units in Yamoussoukro, 69,188 in Korhogo and 61,779 in Daloa.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Projet d'Adressage des Villes de l'Interieur (PAVI)",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PADA",
+   "country_label": "Cote d'Ivoire",
+   "class": "address",
+   "platform": "Google Maps",
+   "owner": "Government",
+   "tiers": "Abidjan District"
+  },
+  {
+   "system": "PAVI",
+   "country_label": "Cote d'Ivoire",
+   "class": "address",
+   "platform": "",
+   "owner": "Government",
+   "tiers": "Yamoussoukro, Korhogo, Daloa"
+  }
+ ],
+ "note": ""
+}

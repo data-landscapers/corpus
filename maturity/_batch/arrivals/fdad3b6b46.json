@@ -1,0 +1,25 @@
+{
+ "slug": "2024-09-01-dji-djibouti-national-assembly-openness-and-transparency",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "IPU Parline states there is no freedom of information law in Djibouti.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "freedom of information law",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

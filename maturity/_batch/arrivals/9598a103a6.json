@@ -1,0 +1,13 @@
+{"slug": "2026-08-03-sen-la-conai-toujours-pas-installee-un-an-apres-son-adoption-un-blocage-ju", "studies": {
+"accesstoinformationlaw": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Justice Sans Frontière states that law no. 2025-15 of 4 September 2025 created the National Commission for Access to Information (CONAI), with an implementing decree no. 2025-1837 in application.", "as_of": "2025-09-04", "date_precision": "day", "system": "Loi n°2025-15 du 4 septembre 2025", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "Justice Sans Frontière cites implementing decree no. 2025-1837, article 33, made under the access to information law, which requires prior referral to CONAI before any court appeal.", "as_of": "2025", "date_precision": "year", "system": "Décret d'application n°2025-1837", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "Justice Sans Frontière says the Supreme Court, by ordinance no. 11/2026 of 16 April 2026, rejected a lawyer's request for the amount of the secret funds on the sole procedural ground that CONAI had not been seized first.", "as_of": "2026-04-16", "date_precision": "day", "system": "Cour suprême, ordonnance n°11/2026", "class": "law"}
+], "systems": [{"system": "Commission nationale d'Accès à l'Information (CONAI)", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Primature (administrative attachment)", "tiers": ""}], "note": ""}}},
+"civilserviceskills": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document says nothing about digital-skills training for civil servants."}}},
+"electoralregister": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The article itself says nothing about the voters' roll; only a reader comment mentions the electoral file."}}},
+"interoperabilitylaw": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document says nothing about public bodies sharing data."}}},
+"opendiscussion": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "Justice Sans Frontière, a Senegalese civil-society group, publicly criticised on 3 August 2026 the President's failure to appoint the CONAI president and 12 members, a year after the access to information law.", "as_of": "2026-08-03", "date_precision": "day", "system": "Justice Sans Frontière", "class": "discussion"}
+], "systems": [], "note": ""}}}
+}}

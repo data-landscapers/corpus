@@ -1,0 +1,7 @@
+{"slug": "2026-11-22-gab-aides-sociales-le-registre-social-unique-attendu-au-plus-tard-en-avril", "studies": {
+"idcoverage": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on national ID enrolment."}}},
+"schoolinternet": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"socialexchange": {"countries": {"GAB": {"facts": [], "systems": [{"system": "Registre social unique (RSU)", "country_label": "Gabon", "class": "social", "platform": "", "owner": "Ministry of Social Affairs", "tiers": ""}], "note": "No link or exchange stated."}}},
+"socialprotection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No programme MIS stated; the registry alone is not this study's."}}},
+"socialregistry": {"countries": {"GAB": {"facts": [], "systems": [{"system": "Registre social unique (RSU)", "country_label": "Gabon", "class": "social", "platform": "", "owner": "Ministry of Social Affairs", "tiers": ""}], "note": "Registry is planned: developer to be recruited by Feb 2027, service by Apr 2028; no procurement, pilot or population stated."}}}
+}}

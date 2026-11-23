@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-03-cpv-praia-autarquia-lanca-plataforma-digital-para-nomear-ruas-e-casas",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "Voz do Archipelago reports Praia's municipality launched its Municipal Toponymy Platform (Cityhub) on 2 October 2025, with an address search by street name, to assign street names and door numbers, not yet covering all neighbourhoods.",
+   "as_of": "2025-10-02",
+   "date_precision": "day",
+   "system": "Plataforma Municipal de Toponimia (Cityhub)",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plataforma Municipal de Toponimia (Cityhub)",
+   "country_label": "Cabo Verde",
+   "class": "address",
+   "platform": "Sigpraia",
+   "owner": "Camara Municipal da Praia",
+   "tiers": "city"
+  }
+ ],
+ "note": ""
+}

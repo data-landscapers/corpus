@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-08-zmb-guidance-to-information-holders-on-progressive-compliance-with-the-acc",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Human Rights Commission says the Access to Information Act, No. 24 of 2023, came into force on 25 June 2024 under Statutory Instrument No. 35 of 2024.",
+   "as_of": "2024-06-25",
+   "date_precision": "day",
+   "system": "Access to Information Act, No. 24 of 2023",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The Human Rights Commission says the Access to Information Regulations (SI No. 56 of 2025) were gazetted on 29 August 2025 and it published Guidelines under section 38 on 5 December 2025.",
+   "as_of": "2025-08-29",
+   "date_precision": "day",
+   "system": "Access to Information Act, No. 24 of 2023",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

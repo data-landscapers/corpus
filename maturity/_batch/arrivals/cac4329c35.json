@@ -1,6 +1,20 @@
 {
  "slug": "2026-11-21-sen-giz-west-africa-information-ecosystems-new-phase",
  "studies": {
+  "digitalskills": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "GIZ disinformation project mentions media literacy initiatives only; no public digital-skills programme, count or survey share."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "GIZ disinformation project mentions media literacy initiatives only; no public digital-skills programme, count or survey share."
+    }
+   }
+  },
   "aiabuse": {
    "countries": {
     "CIV": {

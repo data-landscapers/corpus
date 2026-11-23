@@ -1,0 +1,16 @@
+{"slug": "2026-11-22-gha-bog-to-introduce-new-regulatory-framework-to-boost-fintech-growth", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government body's AI use stated; only central bank departments for AI created."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No sectoral AI system stated."}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only reforms and intentions stated; no licensing, switch oversight or PAPSS statement."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [{"sub_indicator": "protection", "aspect": "rules", "value": "inforce", "fact": "Bank of Ghana Governor Asiama said guidelines for digital credit service providers were being implemented to make digital lending fair, transparent and sustainable for borrowers.", "as_of": "2026-11-22", "date_precision": "day", "system": "Guidelines for digital credit service providers", "class": "protection"}], "systems": [], "note": ""}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only collaboration and passporting talks stated; no corridor, regional system or figures."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No survey share of adults with accounts stated."}}},
+"regionallaw": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The AfCFTA mutual recognition agreement is under collaboration, not signed or ratified."}}},
+"regionalpolicy": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Rwanda passporting and AfCFTA recognition agreement are in progress; no African body membership or signed agreement stated."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only a general claim of interoperability and intent to strengthen connectivity; no specific service or switch stated."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

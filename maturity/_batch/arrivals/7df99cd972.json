@@ -1,5 +1,59 @@
-{"slug": "2026-11-21-zmb-ataf-and-zambia-partner-on-tax-technology", "studies": {
-"itcapacity": {"countries": {"ZMB": {"facts": [], "systems": [{"system": "African-built AEOI platform", "country_label": "Zambia", "class": "other", "platform": "", "owner": "ATAF and Zambia Revenue Authority", "tiers": ""}], "note": "The agreement to develop the platform was just signed; the article does not say ZRA staff built or run a system in service."}}},
-"startups": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No startup law, label or fund is stated."}}},
-"techhubs": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "ATAF's tax administration technology hub is not a hub hosting tech startups; none is stated."}}}
-}}
+{
+ "slug": "2026-11-21-zmb-ataf-and-zambia-partner-on-tax-technology",
+ "studies": {
+  "regionalinfrastructure": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "African-built IT solution for the Automatic Exchange of Information (AEOI)",
+       "country_label": "Zambia",
+       "class": "other",
+       "platform": "tax information exchange software",
+       "owner": "ATAF and Zambia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": "ATAF-ZRA agreement covers a tax-information software platform, not a link, traffic exchange or data storage facility."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "African-built AEOI platform",
+       "country_label": "Zambia",
+       "class": "other",
+       "platform": "",
+       "owner": "ATAF and Zambia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": "The agreement to develop the platform was just signed; the article does not say ZRA staff built or run a system in service."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, label or fund is stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "ATAF's tax administration technology hub is not a hub hosting tech startups; none is stated."
+    }
+   }
+  }
+ }
+}

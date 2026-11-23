@@ -1,0 +1,7 @@
+{"slug": "2025-09-03-ken-kenya-institute-of-management-complies-with-commission-s-orders-releas", "studies": {
+"accesstoinformationlaw": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Commission on Administrative Justice reports it issued orders under section 23(2)(a) of Kenya's Access to Information Act 2016, so the Act is in operation.", "as_of": "2025-06-16", "date_precision": "day", "system": "Access to Information Act 2016", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "The Commission on Administrative Justice says it ordered the Kenya Institute of Management's CEO on 16 June 2025 to release records requested under the Act, and the applicant confirmed receipt on 24 June 2025.", "as_of": "2025-06-16", "date_precision": "day", "system": "Commission on Administrative Justice", "class": "law"}
+], "systems": [{"system": "Access to Information Act 2016", "country_label": "Kenya", "class": "law", "platform": "", "owner": "Commission on Administrative Justice", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on digital financial services protection."}}}
+}}

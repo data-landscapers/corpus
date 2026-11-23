@@ -1,6 +1,33 @@
 {
  "slug": "2026-11-21-mli-mali-le-cnt-ratifie-a-lunanimite-la-creation-de-lagence-de-cybersecurite",
  "studies": {
+  "coresystems": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a cybersecurity agency; it states nothing on finance, tax or payroll systems."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ANSSI (Agence nationale de la sécurité des systèmes d'information), created by Ordinance No. 2026-031/PT-RM of 25 September 2026",
+       "country_label": "Mali",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Mali",
+       "tiers": ""
+      }
+     ],
+     "note": "The ratified ordinance creates an agency, not a cybercrime or cybersecurity law; an agency is other for this study."
+    }
+   }
+  },
   "cybersecurity": {
    "countries": {
     "MLI": {

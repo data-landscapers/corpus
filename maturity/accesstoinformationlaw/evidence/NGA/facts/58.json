@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-06-nga-communique-of-stakeholders-technical-meeting-on-foi-amendment-bill-and",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The communique of the Abuja stakeholders' meeting (IPC, PLAC, YIAGA Africa) treats the Freedom of Information Act as the law in force, with 14 years of implementation, and says a Supreme Court judgment of 11 April 2025 confirmed it applies to state-level public institutions.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "Freedom of Information Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Freedom of Information Act",
+   "country_label": "Nigeria",
+   "class": "law",
+   "platform": "",
+   "owner": "Federal Ministry of Justice / Attorney-General of the Federation",
+   "tiers": "federal and state"
+  }
+ ],
+ "note": ""
+}

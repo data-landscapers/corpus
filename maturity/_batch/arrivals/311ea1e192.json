@@ -1,4 +1,94 @@
-{"slug": "2026-11-19-gab-gabon-digital-sigrh-midterm-review", "studies": {
-"civilserviceskills": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The article covers an HR system and a change-management programme in preparation; no digital-skills training for civil servants is stated."}}},
-"coresystems": {"countries": {"GAB": {"facts": [], "systems": [{"system": "SIGRH", "country_label": "Gabon", "class": "other", "platform": "", "owner": "Ministry of the Civil Service", "tiers": ""}], "note": "SIGRH is still at tender stage with development planned from December 2026, so it is not a system in use."}}}
-}}
+{
+ "slug": "2026-11-19-gab-gabon-digital-sigrh-midterm-review",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIGRH",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of the Civil Service",
+       "tiers": ""
+      },
+      {
+       "system": "e-Fonction publique portal",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of the Civil Service",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers an HR system under build and a planned civil-servant portal; no citizen service online is stated."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not mention health data systems."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not mention health data systems."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not mention police records."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not mention school records."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers an HR system and a change-management programme in preparation; no digital-skills training for civil servants is stated."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIGRH",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of the Civil Service",
+       "tiers": ""
+      }
+     ],
+     "note": "SIGRH is still at tender stage with development planned from December 2026, so it is not a system in use."
+    }
+   }
+  }
+ }
+}

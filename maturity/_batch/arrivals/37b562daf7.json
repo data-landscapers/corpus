@@ -1,0 +1,7 @@
+{"slug": "2025-11-05-mus-lexpress-freedom-of-information-bill-en-preparation", "studies": {
+"accesstoinformationlaw": {"countries": {"MUS": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "Prime Minister Navin Ramgoolam told parliament on 28 October 2025 that only exploratory drafting of a Freedom of Information Bill had begun at the Attorney General's office and an older bill was under review, and l'express says the bill has still not been presented to the National Assembly.", "as_of": "2025-10-28", "date_precision": "day", "system": "Freedom of Information Bill", "class": "law"}], "systems": [{"system": "Freedom of Information Bill", "country_label": "Mauritius", "class": "law", "platform": "", "owner": "Attorney General's office", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Document mentions data protection only as a future constitutional right; no data protection law is stated."}}},
+"eparticipation": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only a promised future consultation; no online participation stated."}}},
+"opendatause": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No published open data stated."}}},
+"publicconsultation": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Consultation on the bill is only promised, none held, and the bill is not digital-specific."}}}
+}}

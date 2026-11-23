@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-22-dza-nashr-180-alf-jihaz-lil-daf-al-iliktroni-abr-al-watan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TPE electronic payment terminals",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "card terminals",
+   "owner": "public banks, coordinated with ABEF",
+   "tiers": ""
+  }
+ ],
+ "note": "A pledge to deploy 180,000 card terminals by 22 January 2027 is not a delivered service, and no mobile money, interoperability or switch is stated."
+}

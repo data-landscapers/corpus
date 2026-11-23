@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-18-tgo-vers-une-modernisation-de-l-adressage-dans-le-grand-lome",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "The Grand Lome autonomous district (DAGL) presented on 17 December 2025 the feasibility study of a modernised addressing project to give every street a code and every home an official number, covering 5,000 km of roads and 538,000 doors across 13 communes.",
+   "as_of": "2025-12-17",
+   "date_precision": "day",
+   "system": "Grand Lome modernised addressing system",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Grand Lome modernised addressing system",
+   "country_label": "Togo",
+   "class": "address",
+   "platform": "",
+   "owner": "District autonome du Grand Lome (DAGL)",
+   "tiers": "city"
+  }
+ ],
+ "note": ""
+}

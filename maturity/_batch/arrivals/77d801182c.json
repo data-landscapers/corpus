@@ -1,0 +1,10 @@
+{"slug": "2024-11-01-civ-section-i-adoption-of-access-to-information-laws-cote-d-ivoire-sdg-16", "studies": {
+"accesstoinformationlaw": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Côte d'Ivoire's UNESCO SDG 16.10.2 return describes an access to information legal guarantee that specifies a dedicated national Information Commission or Commissioner, public information officers in all public bodies and a list of permissible exemptions.", "as_of": "2023", "date_precision": "year", "system": "Access to information legal guarantee", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The return says the oversight institution (the CAIDP) published an annual report in 2023 and asked public bodies to keep statistics, so the body the law provides for is working.", "as_of": "2023", "date_precision": "year", "system": "CAIDP", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "The return reports that the oversight institution received 14 appeals in January-December 2023 (10 granted in full, 4 pending) and that 231,672 formal requests were received, 1,471 denied.", "as_of": "2023", "date_precision": "year", "system": "CAIDP", "class": "law"}
+], "systems": [{"system": "CAIDP (Information Commission)", "country_label": "Côte d'Ivoire", "class": "law", "platform": "", "owner": "", "tiers": "national"}], "note": ""}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document is an access to information survey return and states nothing on digital financial services."}}},
+"dataprotectionauthority": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The return says no data protection body is the access to information oversight institution; it states nothing on a data protection authority."}}},
+"dataprotectionlaw": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document states nothing on a data protection law."}}}
+}}

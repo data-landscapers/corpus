@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-09-mwi-macra-rolls-out-national-addressing-system",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "MACRA says it has rolled out a National Addressing System and the districts currently have postcodes, with street naming being finalised and house numbering to follow.",
+   "as_of": "2025-04-09",
+   "date_precision": "day",
+   "system": "National Addressing System",
+   "class": "address"
+  },
+  {
+   "sub_indicator": "address",
+   "aspect": "national",
+   "value": "nationwide",
+   "fact": "MACRA says the National Addressing System has been rolled out to all the districts in the country.",
+   "as_of": "2025-04-09",
+   "date_precision": "day",
+   "system": "National Addressing System",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Addressing System",
+   "country_label": "Malawi",
+   "class": "address",
+   "platform": "",
+   "owner": "MACRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-08-lbr-liberia-begins-rollout-of-national-digital-address-system",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "underway",
+   "fact": "Liberia's Ministry of Posts and Telecommunications announced on 6 July 2026 that rollout of the National Digital Postal Address System began in Montserrado County, to expand to all 15 counties, with temporary workers mapping addresses in the first phase.",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "National Digital Postal Address System (NDPAS)",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Postal Address System (NDPAS)",
+   "country_label": "Liberia",
+   "class": "address",
+   "platform": "",
+   "owner": "Ministry of Posts and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

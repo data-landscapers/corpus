@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-28-ssd-information-access-still-limited-despite-media-laws-ujoss-sg",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Union of Journalists of South Sudan's secretary general says the Access to Information Act is one of three media laws in place, though not fully implemented.",
+   "as_of": "2025-06-28",
+   "date_precision": "day",
+   "system": "Access to Information Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Access to Information Act",
+   "country_label": "South Sudan",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

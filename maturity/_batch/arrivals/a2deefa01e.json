@@ -1,0 +1,11 @@
+{"slug": "2026-10-27-tgo-togo-a-l-heure-du-numerique-a-quoi-sert-encore-la-poste", "studies": {
+"addressregister": {"countries": {"TGO": {"facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "underway", "fact": "allAfrica reports that the Societe des postes du Togo, with UPU support, is working on digital addressing.", "as_of": "2026-10-27", "date_precision": "day", "system": "digital addressing (Societe des postes du Togo)", "class": "address"}], "systems": [{"system": "digital addressing", "country_label": "Togo", "class": "address", "platform": "", "owner": "Societe des postes du Togo", "tiers": ""}], "note": ""}}},
+"businesspayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document says nothing on e-procurement."}}},
+"centralbank": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document says nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document says nothing on consumer protection rules or redress."}}},
+"crossborderpayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Mentions money transfers only as a postal aim; no corridor stated."}}},
+"g2ppayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document says nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No survey account-ownership figure given."}}},
+"retailpayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No mobile money or retail payment service described."}}},
+"revenuecollection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document says nothing on tax or fee payment."}}}
+}}

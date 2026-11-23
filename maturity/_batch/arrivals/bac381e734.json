@@ -1,0 +1,15 @@
+{"slug": "2025-11-27-rwa-upr-pre-session-on-rwanda-statement", "studies": {
+"accesstoinformationlaw": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "ARTICLE 19's UPR statement refers to Rwanda's existing Access to Information Law and says compliance with it is not independently monitored.", "as_of": "2025-11-27", "date_precision": "day", "system": "Access to Information Law", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "none", "fact": "ARTICLE 19 says no independent oversight body has been established to monitor compliance with the Access to Information Law since the Ombudsman's ATI mandate was removed.", "as_of": "2025-11-27", "date_precision": "day", "system": "Access to Information Law", "class": "law"}
+], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document states nothing on digital financial services."}}},
+"dataprotectionlaw": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "ARTICLE 19 lists the enactment of the Data Protection and Privacy law among Rwanda's steps in the review cycle, without saying whether it is in force.", "as_of": "2025-11-27", "date_precision": "day", "system": "Data Protection and Privacy law", "class": "general"}
+], "systems": [{"system": "Data Protection and Privacy law", "country_label": "Rwanda", "class": "general", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"opendiscussion": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "ARTICLE 19 says independent online news sites including The Rwandan and Le Prophete, and local diaspora platforms, remain blocked.", "as_of": "2025-11-27", "date_precision": "day", "system": "Blocking of independent news sites", "class": "discussion"},
+{"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "ARTICLE 19 says journalists and online commentators continue to face arrests and prosecutions for speech offences, and several independent YouTube-based journalists have been detained or intimidated.", "as_of": "2025-11-27", "date_precision": "day", "system": "Speech offences in the Penal Code", "class": "discussion"}
+], "systems": [], "note": ""}}},
+"policyresearch": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The statement names CIPESA and the University of Birmingham as co-authors of a submission; neither is shown as a Rwanda-based institution."}}}
+}}

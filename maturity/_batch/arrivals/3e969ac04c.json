@@ -1,1 +1,23 @@
-{"slug": "2025-10-01-dgpr-afis-mise-en-exploitation", "studies": {"customs": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document covers a police fingerprint system, not customs."}}}}}
+{
+ "slug": "2025-10-01-dgpr-afis-mise-en-exploitation",
+ "studies": {
+  "taxadmin": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Police fingerprint system; says nothing about tax filing or payment."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a police fingerprint system, not customs."
+    }
+   }
+  }
+ }
+}

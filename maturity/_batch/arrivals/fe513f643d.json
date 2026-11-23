@@ -1,0 +1,11 @@
+{"slug": "2026-06-08-sen-senegal-acces-a-l-information-la-loi-votee-peu-d-effet", "studies": {
+"accesstoinformationlaw": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Ouestaf News reports that Senegal's access to information law was promulgated on 4 September 2025 and has since entered into force.", "as_of": "2025-09-04", "date_precision": "day", "system": "Loi d'accès à l'information (2025)", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "Ouestaf News reports that the decree on the organisation and functioning of CONAI was signed in October 2025, though CONAI is still not operational.", "as_of": "2025-10", "date_precision": "month", "system": "Décret portant organisation et fonctionnement de la CONAI", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "Ouestaf News reports that on 16 April 2026 the Supreme Court declared inadmissible a former magistrate's request for information on political funds because he had not first seized CONAI.", "as_of": "2026-04-16", "date_precision": "day", "system": "Cour suprême", "class": "law"}
+], "systems": [{"system": "Commission nationale d'accès à l'information (Conai)", "country_label": "Senegal", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"civilserviceskills": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document says nothing about digital-skills training for civil servants."}}},
+"interoperabilitylaw": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document says nothing about public bodies sharing data."}}},
+"opendiscussion": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Criticism is of the access to information law's exceptions, which belongs to accesstoinformationlaw; no named policy criticism, cut or punishment stated."}}},
+"regionallaw": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document names the African model law and charter only in general; it states nothing on Senegal signing or ratifying a digital text."}}}
+}}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-20-lbr-how-a-54-million-deal-nearly-handed-liberia-s-identity-registry-to-an-austr",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "supplier",
+   "fact": "Liberia paid Techno Brain $5.9 million in April 2017 to build and maintain the national biometric ID platform that the NIR, NASSCORP and NEC still use.",
+   "as_of": "2017-04",
+   "date_precision": "month",
+   "system": "Techno Brain biometric platform",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Techno Brain biometric platform",
+   "country_label": "Liberia",
+   "class": "idsystem",
+   "platform": "Techno Brain",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

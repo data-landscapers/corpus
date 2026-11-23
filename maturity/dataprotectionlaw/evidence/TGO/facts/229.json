@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-29-tgo-linterview-cpj2dh-debat-loi-2016-006-acces-information",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "L'Interview lists a 2019 personal data protection law among the texts that, with Law 2016-006, govern the right to information in Togo.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Loi sur la protection des donnees personnelles (2019)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi sur la protection des donnees personnelles (2019)",
+   "country_label": "Togo",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

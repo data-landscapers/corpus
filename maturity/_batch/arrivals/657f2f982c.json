@@ -1,6 +1,15 @@
 {
  "slug": "2026-03-01-bocra-state-of-icts-2026",
  "studies": {
+  "satellitebroadband": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on satellite broadband."
+    }
+   }
+  },
   "regionalinfrastructure": {
    "countries": {
     "BWA": {

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-27-rwa-upr-pre-session-on-rwanda-statement",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "ARTICLE 19 says independent online news sites including The Rwandan and Le Prophete, and local diaspora platforms, remain blocked.",
+   "as_of": "2025-11-27",
+   "date_precision": "day",
+   "system": "Blocking of independent news sites",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "ARTICLE 19 says journalists and online commentators continue to face arrests and prosecutions for speech offences, and several independent YouTube-based journalists have been detained or intimidated.",
+   "as_of": "2025-11-27",
+   "date_precision": "day",
+   "system": "Speech offences in the Penal Code",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

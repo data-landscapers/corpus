@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-24-nga-afrigopay-afrigo-n70bn-one-million-cards",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "AfriGO, Nigeria's domestic card, was launched in 2023 by the Central Bank of Nigeria with NIBSS and has processed over N70bn in 2025 with instant credit to merchants, says NIBSS MD Premier Oiwoh.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "AfriGO",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AfriGO",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "NIBSS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,22 @@
+{"slug": "2025-09-29-dza-mena-setbacks-and-persistent-challenges-to-the-right-to-information", "studies": {
+"accesstoinformationlaw": {"countries": {
+"DZA": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "ARTICLE 19 says Algeria does not have effective right-to-information legislation, despite years of discussion of draft laws.", "as_of": "2025-09-29", "date_precision": "day", "system": "Access to information law", "class": "law"}], "systems": [], "note": ""},
+"EGY": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "ARTICLE 19 says Egypt does not have effective right-to-information legislation, despite years of discussion of draft laws.", "as_of": "2025-09-29", "date_precision": "day", "system": "Access to information law", "class": "law"}], "systems": [], "note": ""},
+"MAR": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "ARTICLE 19 says Morocco's Law 31-13 on the Right to Access Information, adopted in 2018, came into effect in March 2020.", "as_of": "2020-03", "date_precision": "month", "system": "Law 31-13 on the Right to Access Information", "class": "law"}, {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "ARTICLE 19 says the members of Morocco's Commission for the Right to Access Information (CDAI), which oversees Law 31-13, were appointed in March 2019.", "as_of": "2019-03", "date_precision": "month", "system": "Commission for the Right to Access Information (CDAI)", "class": "law"}], "systems": [{"system": "Commission for the Right to Access Information (CDAI)", "country_label": "Morocco", "class": "other", "platform": "", "owner": "Head of Government", "tiers": ""}], "note": ""},
+"TUN": {"facts": [], "systems": [], "note": "Says the oversight body INAI was dissolved in August 2025; states nothing on the law's standing or on rules made under it."}}},
+"dataprotectionlaw": {"countries": {
+"DZA": {"facts": [], "systems": [], "note": "Document states nothing on data protection law."},
+"EGY": {"facts": [], "systems": [], "note": "Document states nothing on data protection law."},
+"MAR": {"facts": [], "systems": [], "note": "Mentions only that the CDAI is chaired by the data protection commission's president; nothing on the law."},
+"TUN": {"facts": [], "systems": [], "note": "Document states nothing on data protection law."}}},
+"internationalstandards": {"countries": {
+"DZA": {"facts": [], "systems": [], "note": "Document states nothing on international standards."},
+"EGY": {"facts": [], "systems": [], "note": "Document states nothing on international standards."},
+"MAR": {"facts": [], "systems": [], "note": "Document states nothing on international standards."},
+"TUN": {"facts": [], "systems": [], "note": "Document states nothing on international standards."}}},
+"ruralelectrification": {"countries": {
+"DZA": {"facts": [], "systems": [], "note": "Document states nothing on rural electricity."},
+"EGY": {"facts": [], "systems": [], "note": "Document states nothing on rural electricity."},
+"MAR": {"facts": [], "systems": [], "note": "Document states nothing on rural electricity."},
+"TUN": {"facts": [], "systems": [], "note": "Document states nothing on rural electricity."}}}
+}}

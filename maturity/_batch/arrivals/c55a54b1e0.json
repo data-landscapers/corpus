@@ -1,6 +1,24 @@
 {
  "slug": "2026-11-19-dza-radioalgerie-onppe-cellule-vigilance-cybernetique",
  "studies": {
+  "cybersecurity": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ONPPE cyber-vigilance cell",
+       "country_label": "Algeria",
+       "class": "other",
+       "platform": "",
+       "owner": "Organe national de protection et de promotion de l'enfance",
+       "tiers": ""
+      }
+     ],
+     "note": "The cell monitors online risks to children; it is not the national body that watches for and responds to cyber attacks on the country's systems."
+    }
+   }
+  },
   "cybersecuritylaw": {
    "countries": {
     "DZA": {

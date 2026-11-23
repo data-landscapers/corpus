@@ -1,0 +1,11 @@
+{"slug": "2025-12-18-tgo-vers-une-modernisation-de-l-adressage-dans-le-grand-lome", "studies": {
+"addressregister": {"countries": {"TGO": {"facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "underway", "fact": "The Grand Lome autonomous district (DAGL) presented on 17 December 2025 the feasibility study of a modernised addressing project to give every street a code and every home an official number, covering 5,000 km of roads and 538,000 doors across 13 communes.", "as_of": "2025-12-17", "date_precision": "day", "system": "Grand Lome modernised addressing system", "class": "address"}], "systems": [{"system": "Grand Lome modernised addressing system", "country_label": "Togo", "class": "address", "platform": "", "owner": "District autonome du Grand Lome (DAGL)", "tiers": "city"}], "note": ""}}},
+"authentication": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing on authentication services."}}},
+"birthidlink": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing on a civil register to ID link."}}},
+"idcoverage": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document gives no national ID enrolment count or share."}}},
+"idfrombirth": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing on an ID number at birth."}}},
+"idmaintenance": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states no public register keyed on the national ID number; the physical address in digital identity is only an aim."}}},
+"idrobustness": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing on the national ID system itself."}}},
+"localgov": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing on local government office connections."}}}
+}}

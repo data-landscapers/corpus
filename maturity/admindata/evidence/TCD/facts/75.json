@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-19-tcd-tchad-la-banque-mondiale-evalue-les-avancees-du-systeme-stat",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RGPH-3, enterprise census, ECOSIT survey",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a census, an enterprise census and a survey are named; none draws statistics from administrative records."
+}

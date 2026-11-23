@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-22-serap-sues-ndpc-inec-ai-manipulation-voters-register",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "SERAP's suit treats the Nigeria Data Protection Act 2023 as the law now binding INEC and the NDPC, citing its sections 24, 39, 40 and 65.",
+   "as_of": "2026-11-22",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

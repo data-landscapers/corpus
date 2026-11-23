@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-14-mwi-access-to-information",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Malawi Human Rights Commission says the Access to Information Act became operational on 30 September 2020, the commencement date the Minister of Information appointed.",
+   "as_of": "2020-09-30",
+   "date_precision": "day",
+   "system": "Access to Information Act",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The Malawi Human Rights Commission says regulations for the Access to Information Act were gazetted in January 2021.",
+   "as_of": "2021-01",
+   "date_precision": "month",
+   "system": "Access to Information Act Regulations",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Access to Information Act",
+   "country_label": "Malawi",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

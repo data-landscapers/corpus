@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-03-zwe-reforms-in-media-law-policies-begin",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Information Permanent Secretary Nick Mangwana said the government repealed AIPPA and in its place enacted the Freedom of Information Act (Chapter 10:33).",
+   "as_of": "2024-10-02",
+   "date_precision": "day",
+   "system": "Freedom of Information Act (Chapter 10:33)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Freedom of Information Act (Chapter 10:33)",
+   "country_label": "Zimbabwe",
+   "class": "law",
+   "platform": "",
+   "owner": "Government of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

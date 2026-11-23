@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-22-gha-bog-to-introduce-new-regulatory-framework-to-boost-fintech-growth",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "Bank of Ghana Governor Asiama said guidelines for digital credit service providers were being implemented to make digital lending fair, transparent and sustainable for borrowers.",
+   "as_of": "2026-11-22",
+   "date_precision": "day",
+   "system": "Guidelines for digital credit service providers",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

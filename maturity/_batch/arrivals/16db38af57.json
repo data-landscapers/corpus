@@ -1,0 +1,6 @@
+{"slug": "2026-09-28-cod-acces-a-linformation-la-rdc-appelee-a-rejoindre-les-30-etats-africains", "studies": {
+"accesstoinformationlaw": {"countries": {"COD": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "Collectif 24 says the DRC is still among the states without a specific access to information law, while a bill on access to information and transparency of public life is still in process.", "as_of": "2026-09-28", "date_precision": "day", "system": "", "class": "law"}], "systems": [], "note": ""}}},
+"digitaldivides": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states nothing on rural internet access or use."}}},
+"eparticipation": {"countries": {"COD": {"facts": [], "systems": [], "note": "No online consultation or channel is stated."}}},
+"publicconsultation": {"countries": {"COD": {"facts": [], "systems": [], "note": "No consultation on a digital law or policy is stated."}}}
+}}

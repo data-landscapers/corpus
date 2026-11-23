@@ -1,0 +1,19 @@
+{"slug": "2026-07-16-swz-national-address-system-set-to-unlock-eswatini-s-digital-economy", "studies": {
+"addressregister": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "address", "aspect": "addressing", "value": "underway", "fact": "ESCCOM's acting chief executive said the National Addressing Standard (SZN S ISO 19160) was launched in July 2026 as the culmination of the National Addressing and Postcode System Project begun in 2021, with Ezulwini and Matsapha projects at an advanced stage and preparatory work under way with the Tinkhundla ministry to extend addressing to rural communities.", "as_of": "2026-07-16", "date_precision": "day", "system": "National Addressing and Postcode System Project", "class": "address"},
+{"sub_indicator": "address", "aspect": "addressing", "value": "inservice", "fact": "ESCCOM confirmed that Mbabane and Manzini have implemented the new addressing framework.", "as_of": "2026-07-16", "date_precision": "day", "system": "National Addressing Standard (SZN S ISO 19160)", "class": "address"}
+], "systems": [{"system": "National Addressing and Postcode System Project", "country_label": "Eswatini", "class": "address", "platform": "", "owner": "ESCCOM", "tiers": "national standard; municipal pilots"}], "note": ""}}},
+"businesspayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document states nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection for digital finance."}}},
+"crossborderpayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"digitaldivides": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document states nothing on rural internet programmes or survey gaps."}}},
+"digitalstrategy": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document only mentions a National E-Commerce Strategy being finalised, a thematic item with no standing stated."}}},
+"g2ppayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"idverification": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document states nothing on checks against the national ID."}}},
+"localgov": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document states nothing on local government office connections."}}},
+"nonstatefinance": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document states no private investment amount."}}},
+"paymentsuptake": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document gives no account-ownership survey figure."}}},
+"retailpayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document states nothing on mobile money or retail payment services."}}},
+"revenuecollection": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document states nothing on electronic tax or fee payment."}}}
+}}
