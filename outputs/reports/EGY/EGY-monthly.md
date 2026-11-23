@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: EGY
-ledger_rows: 78
+ledger_rows: 79
 not_held: 35
-record: c92c50a74580
+record: 6f2ad5513c5e
 ---
 
 # News, Oct – Nov 2026
@@ -219,6 +219,20 @@ Egypt's health ministry will send parliament a draft law bringing health databas
 **[Hyperscalers want clear rules before they build data centers in Egypt](https://enterpriseam.com/ai/2026/11/12/hyperscalers-want-clear-rules-before-they-build-data-centers-in-egypt/)** — Enterprise (EnterpriseAM), 12 November 2026
 
 Lawyers quoted by Enterprise say Egypt's data rules deter hyperscalers. Each transfer of data abroad needs its own permit, and limits on state access are unclear. Egypt has an estimated 15-60 MW of installed data-centre capacity against an ambition of 400-500 MW. The government plans a national data-centre strategy by the end of 2026 but has set no date for new rules.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Freedom of information bills</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[«الحق في الحصول على المعلومات».. تفاصيل مذكرة القومي لحقوق الإنسان إلى الحكومة والبرلمان](https://www.almasryalyoum.com/news/details/4415446)** — المصري اليوم, 20 November 2026
+
+Rights council sends cabinet, media ministry and both chambers its guarantees for any information law.
 
 </div>
 
