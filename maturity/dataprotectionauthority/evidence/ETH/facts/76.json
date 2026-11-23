@@ -1,26 +1,15 @@
 {
- "slug": "2026-11-19-eth-ethiopian-airlines-shebamiles-breach",
- "facts": [
-  {
-   "sub_indicator": "body",
-   "aspect": "standing",
-   "value": "provided",
-   "fact": "Addis Fortune says Ethiopia's Personal Data Protection Proclamation, in force since July 2024, names the Ethiopian Communications Authority as the regulator of personal data, to which breaches must be notified within 72 hours.",
-   "as_of": "2024-07",
-   "date_precision": "month",
-   "system": "Ethiopian Communications Authority",
-   "class": "authority"
-  }
- ],
- "systems": [
-  {
-   "system": "Ethiopian Communications Authority",
-   "country_label": "Ethiopia",
-   "class": "authority",
-   "platform": "",
-   "owner": "Government",
-   "tiers": ""
-  }
- ],
- "note": ""
+  "slug": "2026-11-19-eth-ethiopian-airlines-shebamiles-breach",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Ethiopian Communications Authority",
+      "country_label": "Ethiopia",
+      "class": "authority",
+      "platform": "",
+      "owner": "Government",
+      "tiers": ""
+    }
+  ],
+  "note": "Restates the designation held at ETH-002."
 }

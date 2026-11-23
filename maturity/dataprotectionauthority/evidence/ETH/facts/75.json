@@ -1,17 +1,6 @@
 {
- "slug": "2026-11-20-eth-ethiopian-airlines-breach-72-hour-rule",
- "facts": [
-  {
-   "sub_indicator": "body",
-   "aspect": "standing",
-   "value": "provided",
-   "fact": "CIO Africa says Proclamation No. 1321/2024, published 24 July 2024, requires data controllers to notify the Ethiopian Communications Authority of a personal data breach within 72 hours.",
-   "as_of": "2024-07-24",
-   "date_precision": "day",
-   "system": "Ethiopian Communications Authority",
-   "class": "authority"
-  }
- ],
- "systems": [],
- "note": ""
+  "slug": "2026-11-20-eth-ethiopian-airlines-breach-72-hour-rule",
+  "facts": [],
+  "systems": [],
+  "note": "Restates the designation held at ETH-002."
 }
