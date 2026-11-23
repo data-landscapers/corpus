@@ -1,12 +1,12 @@
 ---
 title: Equatorial Guinea: status report
-compiled: 2026-11-17
+compiled: 2026-11-23
 place: GNQ
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 17
-sources_cited: 240
+sources_cited: 241
 sections_written: 39
 not_established: 1
 acquire_lines: 23
@@ -229,7 +229,7 @@ In March 2024 [CNIAPGE recorded a debt to the connectivity operator GITGE and an
 ### Digitalisation of sub-national government
 <!-- digital.localgov -->
 
-On 23 March 2026 the Delegate Minister of the Interior and Local Administration [told the Chamber of Deputies that many cities still work from colonial-era or incomplete street and parcel plans](https://www.guineaecuatorialpress.com/noticias/comparecencia_del_ministro_delegado_del_interior_y_administracion_local). [Their streets lack codes and nomenclature](https://www.guineaecuatorialpress.com/noticias/comparecencia_del_ministro_delegado_del_interior_y_administracion_local). [Updated plans are the basis for the cadastre and the property register](https://www.guineaecuatorialpress.com/noticias/comparecencia_del_ministro_delegado_del_interior_y_administracion_local). [The Malabo and Bata study begun towards them was left unfinished](https://www.guineaecuatorialpress.com/noticias/comparecencia_del_ministro_delegado_del_interior_y_administracion_local). [The commission carrying it forward has no stated timetable or budget](https://www.guineaecuatorialpress.com/noticias/comparecencia_del_ministro_delegado_del_interior_y_administracion_local) (March 2026).
+On 23 March 2026 the Delegate Minister of the Interior and Local Administration [told the Chamber of Deputies that many cities still work from colonial-era or incomplete street and parcel plans](https://www.guineaecuatorialpress.com/noticias/comparecencia_del_ministro_delegado_del_interior_y_administracion_local). [Their streets lack codes and nomenclature](https://www.guineaecuatorialpress.com/noticias/comparecencia_del_ministro_delegado_del_interior_y_administracion_local). [Updated plans are the basis for the cadastre and the property register](https://www.guineaecuatorialpress.com/noticias/comparecencia_del_ministro_delegado_del_interior_y_administracion_local). [The Malabo and Bata study begun towards them was left unfinished](https://www.guineaecuatorialpress.com/noticias/comparecencia_del_ministro_delegado_del_interior_y_administracion_local). [The commission carrying it forward has no stated timetable or budget](https://www.guineaecuatorialpress.com/noticias/comparecencia_del_ministro_delegado_del_interior_y_administracion_local) (March 2026). On 26 June 2026 the Vice-President [tasked the transport ministry with a plan for a national postal address system](https://www.guineaecuatorialpress.com/noticias/el_gobierno_exige_reestructuracion_inmediata_de_getesa_ante_la_crisis_de_cobertura_en_el_pais).
 
 At its sitting of 14 July 2023 in Bata, the Council of Ministers recorded that [inspection visits found the Delegaciones Regionales short of computer equipment, office supplies and transport](https://www.guineaecuatorialpress.com/index.php/noticias/ampliacion_de_referencia_del_consejo_de_ministros_de_14_de_julio_de_2023). [The Delegaciones are the sub-national arm of central administration, and the same sitting recorded their ICT infrastructure as poor](https://www.guineaecuatorialpress.com/index.php/noticias/ampliacion_de_referencia_del_consejo_de_ministros_de_14_de_julio_de_2023).
 
