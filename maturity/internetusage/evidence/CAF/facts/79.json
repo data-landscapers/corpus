@@ -1,17 +1,6 @@
 {
- "slug": "2026-03-17-starlink-commercial-launch-affordability-agenceecofin",
- "facts": [
-  {
-   "sub_indicator": "use",
-   "aspect": "users",
-   "value": "estimate:14",
-   "fact": "The article says about 86% of the Central African population did not use the internet in 2024, citing the International Telecommunication Union, which implies about 14% used it.",
-   "as_of": "2024",
-   "date_precision": "year",
-   "system": "International Telecommunication Union",
-   "class": "use"
-  }
- ],
- "systems": [],
- "note": ""
+  "slug": "2026-03-17-starlink-commercial-launch-affordability-agenceecofin",
+  "facts": [],
+  "systems": [],
+  "note": "A rounding of the ITU 2024 figure held at CAF-003 as 13.8."
 }
