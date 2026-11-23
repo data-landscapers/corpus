@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: GHA
-ledger_rows: 85
+ledger_rows: 87
 not_held: 9
-record: 2f74cac49f0d
+record: 0eec58d90ab8
 ---
 
 # News, Oct – Nov 2026
@@ -117,6 +117,34 @@ Ghana's proposed Dig Once Policy is before Cabinet, minister Samuel Nartey Georg
 **[Ghana moves to establish space agency to strengthen local geospatial intelligence](https://techreviewafrica.com/news/8398/x)** — Tech Review Africa, 19 November 2026
 
 A Ghanaian science ministry official said at the Africa Geospatial Leadership Forum that Cabinet has approved a Ghana Space Agency, reported on 19 November 2026. It would grow out of the Ghana Space Science and Technology Institute. Drafting instructions for the enabling law are with the Attorney-General's Department. The approval date is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Right to Information applications</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Right To Information Commission at six](https://www.graphic.com.gh/features/opinion/ghana-news-right-to-information-commission-at-six.html)** — Graphic Online, 20 November 2026
+
+819 RTI applications in 2025, 75% from men; 57 of 119 review cases resolved; regulations still pending.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Right to Information regulations (Legislative Instrument)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Right To Information Commission at six](https://www.graphic.com.gh/features/opinion/ghana-news-right-to-information-commission-at-six.html)** — Graphic Online, 20 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
