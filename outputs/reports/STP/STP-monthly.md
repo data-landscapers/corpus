@@ -1,11 +1,11 @@
 ---
 title: Sao Tome and Principe — News, Oct – Nov 2026
-compiled: 2026-11-16
-period: 2026-10-01 to 2026-11-16
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: STP
-ledger_rows: 7
+ledger_rows: 8
 not_held: 5
-record: f4a28ec1af1b
+record: fe565e14a87e
 ---
 
 # News, Oct – Nov 2026
@@ -29,6 +29,20 @@ record: f4a28ec1af1b
 </nav>
 
 ### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft access-to-information law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Profissionais lamentam não aprovação da lei de acesso à informação em STP](https://rstp.st/2026/10/27/profissionais-lamentam-nao-aprovacao-da-lei-de-acesso-a-informacao-em-stp/)** — Rádio Nacional de São Tomé e Príncipe, 27 October 2026
+
+Draft ATI law held since 2019 still unadopted; access rests on Constitution art. 74 and Decree-Law 25/2005.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

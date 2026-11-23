@@ -1,12 +1,12 @@
 ---
 title: Sao Tome and Principe: status report
-compiled: 2026-11-16
+compiled: 2026-11-23
 place: STP
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-19
 intersections_read: 8
-sources_cited: 220
+sources_cited: 221
 sections_written: 39
 not_established: 0
 acquire_lines: 33
@@ -31,7 +31,7 @@ In September 2025 [a World Bank mission found no aggregated identification law i
 
 [An electronic signature law has been passed](https://documents1.worldbank.org/curated/en/099041125035024996/pdf/P177158-11847402-82b3-4460-9bf4-0fe106ed4291.pdf) (2025). [An Electronic Communications Law and a Law on Regulatory Authorities have cleared the Council of Ministers and await the National Assembly](https://documents1.worldbank.org/curated/en/099041125035024996/pdf/P177158-11847402-82b3-4460-9bf4-0fe106ed4291.pdf) (2025). In July 2025 the regulator [consulted on a draft decree replacing the 2009 national numbering plan](https://ager.st/images/PNN_-_vers%C3%A3o_CP.pdf). [Lei 01/2024, the national interoperability framework, was gazetted on 29 January 2024](https://inic.gov.st/viewdoc.php?id=26). [It gives public authorities a legal basis for sharing data](https://inic.gov.st/viewdoc.php?id=26). [A law making voter registration automatic and permanent entered into force in 2026](https://rstp.st/2026/04/01/eleicoes26-lei-do-recenseamento-eleitoral-automatico-entra-em-vigor/). In October 2026 the justice minister [named a World Bank-financed bill on electronic commerce among the government's legislative initiatives](https://rafa.tl/pt/sao-tome-e-principe-defende-mecanismos-mais-rapidos-para-obter-provas-digitais-entre-paises-da-cplp/).
 
-In January 2026 UNESCO recorded [no AI law or regulation and no national AI ethics body](https://www.unesco.org/ethics-ai/en/saotomeeprincipe). No access-to-information statute has been found. [Artigos 29, 74 and 76 of the constitution guarantee free expression and oblige office-holders to keep citizens informed](https://presidencia.st/constituicao.htm). [None of the three creates a request procedure, deadline, appeal or oversight body](https://presidencia.st/constituicao.htm).
+In January 2026 UNESCO recorded [no AI law or regulation and no national AI ethics body](https://www.unesco.org/ethics-ai/en/saotomeeprincipe). No access-to-information statute has been found. [A draft law presented to parliamentary groups in October 2019 had not been adopted by October 2026](https://rstp.st/2026/10/27/profissionais-lamentam-nao-aprovacao-da-lei-de-acesso-a-informacao-em-stp/). [Artigos 29, 74 and 76 of the constitution guarantee free expression and oblige office-holders to keep citizens informed](https://presidencia.st/constituicao.htm). [None of the three creates a request procedure, deadline, appeal or oversight body](https://presidencia.st/constituicao.htm).
 
 [Lei n. 15/2017, in force since November 2017, creates the computer-crime offences and powers over electronic evidence](https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/110002/152017.pdf). [It requires the Polícia Judiciária to keep a 24-hour contact point for international cooperation](https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/110002/152017.pdf). In May 2023 the government [asked to be invited to accede to the Budapest Convention](https://rm.coe.int/091259488026954c). [The Council of Europe put the request to its Committee of Ministers in August 2023](https://rm.coe.int/091259488026954c). No accession has been found.
 
