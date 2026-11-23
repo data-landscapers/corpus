@@ -1,17 +1,6 @@
 {
- "slug": "2026-11-20-lbr-how-a-54-million-deal-nearly-handed-liberia-s-identity-registry-to-an-austr",
- "facts": [
-  {
-   "sub_indicator": "robustness",
-   "aspect": "system",
-   "value": "inservice",
-   "fact": "Liberia's biometric national ID system, launched in 2012, runs on a platform the NIR still uses, though card issuance has been suspended since June 2025.",
-   "as_of": "2026-11-20",
-   "date_precision": "day",
-   "system": "National Identification Registry biometric ID",
-   "class": "idsystem"
-  }
- ],
- "systems": [],
- "note": ""
+  "slug": "2026-11-20-lbr-how-a-54-million-deal-nearly-handed-liberia-s-identity-registry-to-an-austr",
+  "facts": [],
+  "systems": [],
+  "note": "Restates the platform in use, held at LBR-029 and LBR-031."
 }
