@@ -860,8 +860,8 @@ def movement_page(csv_name: str, n: int, artefacts: str) -> str:
     </header>
     <div class="dl-datatable"
       data-src="{name}"
-      data-cols="{", ".join(MOVEMENT_FIELDS)}"
-      data-filters="Chapter, Topic, Indicator, Country, From, To"
+      data-cols="Date, Country, Chapter, Topic, Indicator, From, To, Evidence"
+      data-filters="Country, Chapter, Topic, Indicator, From, To"
       data-filter-all="{html.escape(json.dumps(MOVEMENT_ALL), quote=True)}"
       data-col-chars="{html.escape(json.dumps(MOVEMENT_CHARS), quote=True)}"
       data-sort="Date:desc"
