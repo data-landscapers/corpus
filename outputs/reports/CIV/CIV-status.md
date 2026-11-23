@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-11-14
+compiled: 2026-11-23
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 295
+sources_cited: 296
 sections_written: 39
 not_established: 0
 acquire_lines: 59
@@ -203,7 +203,7 @@ In July 2026 the responsible minister said [the first services put onto the plat
 
 The electoral roll is the electoral commission's own: [the Independent Electoral Commission keeps a biometric voter list, consultable on its website and by SMS, and has said the list bears the marks of how civil-status documents have been used](https://cei.ci/point-de-presse-relatif-a-larret-de-la-liste-electorale-definitive-2025/). [Registration covers roughly half the voting-age population](https://www.idea.int/data-tools/data/country?country=55&database_theme=293). Firms register online: [average online company creation took 2.4 days at mid-July 2026, against a 24-hour target for the end of the year](https://connectionivoirienne.net/2026/08/11/cote-divoire-le-delai-de-creation-dentreprise-en-ligne-ramene-a-24-jours-annonce-la-dg-du-cepici/), and [a directory of firms keyed on the single identifier joining business register, tax and social-security numbers was launched in July 2025](https://news.abidjan.net/articles/743032/environnement-des-affaires-le-cepici-lance-lannuaire-idu-un-registre-des-entreprises-ivoiriennes).
 
-[There is no single nationwide digital address register](https://www.economie-ivoirienne.ci/en/node/362). [The council of ministers validated a national numeric address code on 26 February 2025, with 14,279 Abidjan streets identified and street plates due by June 2026](https://www.presidence.ci/communique-du-conseil-des-ministres-du-mercredi-26-fevrier-2025/), and [about 17,000 roads had been named across the Abidjan district's 13 communes by September 2025, in a FCFA 12bn project for 500,000 addresses due to finish in Abidjan on 31 December 2025 and to reach 15 cities by 2030](https://www.fratmat.info/article/2637249/economie/adressage-des-voies-dans-le-district-autonome-dabidjan-loperation-prend-fin-le-31-decembre).
+[There is no single nationwide digital address register](https://www.economie-ivoirienne.ci/en/node/362). [The council of ministers validated a national numeric address code on 26 February 2025, with 14,279 Abidjan streets identified and street plates due by June 2026](https://www.presidence.ci/communique-du-conseil-des-ministres-du-mercredi-26-fevrier-2025/), and [about 17,000 roads had been named across the Abidjan district's 13 communes by September 2025, in a FCFA 12bn project for 500,000 addresses due to finish in Abidjan on 31 December 2025 and to reach 15 cities by 2030](https://www.fratmat.info/article/2637249/economie/adressage-des-voies-dans-le-district-autonome-dabidjan-loperation-prend-fin-le-31-decembre). [By March 2026, 25,750 of 87,914 street signs had been laid in Abidjan, after laying was suspended in November 2025 to correct defects](https://abidjanplanet.ci/adressage-des-rues-en-cote-divoire-la-ville-prend-enfin-un-nom-et-un-numero/).
 
 Land is two registers at two speeds. [Urban land runs on SIGFU, which centralises applications, parcel history and cadastral data under a unique parcel identifier and has used electronic signature for title deeds since January 2024, with coverage still short of nationwide](https://www.capital-foncier.com/en/blog/sigfu-and-idufci-how-cadastral-digitalization-is-transforming-ivorian-land-management). Rural land is at the beginning: [the first electronic rural land certificates were signed in March 2026, in the Moronou region](https://www.abidjaneconomie.net/2026/03/15/dematerialisation-du-foncier-rural-les-premiers-certificats-fonciers-electroniques-signes-dans-le-moronou/), [issued through the rural land agency's SIFOR-CI platform in under five months against at least eighteen before](https://afor.ci/news/nos-actualites/105).
 
