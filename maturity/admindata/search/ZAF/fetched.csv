@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.statssa.gov.za/wp-content/uploads/2026/10/Stats-SA-202526-Annual-Report-2.pdf,fetched,,scripts/.workroot/study/admindata/cache/ZAF/1.txt,17865,pdf,
+2,https://pmg.org.za/tabled-committee-report/6579/,fetched,,scripts/.workroot/study/admindata/cache/ZAF/2.txt,6772,html,"ATC260508: Report of the Portfolio Committee on Planning, Monitoring and Evaluation On Annual Performance Plans and Budget 2026/27 for Budget Vote 14: Statistics South Africa, Dated 06 May 2026 | PMG"
+3,https://www.statssa.gov.za/publications/P03093/P030932024.pdf,held,held as raw/2026/2026-09-22-zaf-mortality-and-causes-of-death-in-south-africa-findings-from-death-noti.md,,0,,
+4,https://www.statssa.gov.za/publications/P0305/P03052024.pdf,held,held as raw/2025/2025-10-30-zaf-recorded-live-births-2024-statistical-release-p0305.md,,0,,
+5,https://www.statssa.gov.za/strategy_plan/Work_Programme_2026_27.pdf,held,held as raw/2026/2026-01-01-stats-sa-work-programme-2026-27.md,,0,,
+6,https://www.saps.gov.za/services/downloads/2022-2023-Annual-Crime-Statistics-Report.pdf,fetched,,scripts/.workroot/study/admindata/cache/ZAF/6.txt,35342,pdf,
+7,https://www.sars.gov.za/wp-content/uploads/Docs/TaxStats/2024/Tax-Statistics-2024.pdf,fetched,,scripts/.workroot/study/admindata/cache/ZAF/7.txt,135420,pdf,
+8,https://www.statssa.gov.za/publications/AnnualReport/AR_Book1202324.pdf,fetched,,scripts/.workroot/study/admindata/cache/ZAF/8.txt,53689,pdf,

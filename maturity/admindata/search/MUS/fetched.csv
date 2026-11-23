@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://statsmauritius.govmu.org/Pages/Statistics/ESI/Population/Pop_Vital_Yr25.aspx,fetched,,scripts/.workroot/study/admindata/cache/MUS/1.txt,14,html,"Sorry, something went wrong"
+2,https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1934/CJS_Yr25_300626.pdf,fetched,,scripts/.workroot/study/admindata/cache/MUS/2.txt,11108,pdf,
+3,https://statsmauritius.govmu.org/Pages/Statistics/ESI/Soc_Sec/Soc_Sec_Yr24-Yr25.aspx,fetched,,scripts/.workroot/study/admindata/cache/MUS/3.txt,14,html,"Sorry, something went wrong"
+4,https://health.govmu.org/health/wp-content/uploads/2025/12/Health-Statistics-Report-2024.pdf,held,held as raw/2025/2025-11-01-mus-health-statistics-report-2024.md,,0,,
+5,https://statsmauritius.govmu.org/Documents/Statistics/ESI/2025/EI1884/Edu_Yr25_230925.pdf,fetched,,scripts/.workroot/study/admindata/cache/MUS/5.txt,3426,pdf,
+6,https://statsmauritius.govmu.org/Documents/Statistics/ESI/2025/EI1882/PFS_Yr23-24_220925.pdf,fetched,,scripts/.workroot/study/admindata/cache/MUS/6.txt,6847,pdf,
+7,https://statsmauritius.govmu.org/Documents/Statistics/ESI/2025/EI1842/Pop_Vital_Yr24_110325.pdf,fetched,,scripts/.workroot/study/admindata/cache/MUS/7.txt,3969,pdf,
+8,https://statsmauritius.govmu.org/Documents/About_US/Newsletters/Newsletter80_200125.pdf,unfetchable,HTTP 409; no usable Wayback capture,,0,,

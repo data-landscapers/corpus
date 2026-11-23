@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "agrisat",
+ "aspect": "published",
+ "fact": "The Sudan Meteorological Authority publishes a monthly agrometeorological bulletin on rainfall and vegetation cover conditions by state, with a July 2026 bulletin posted 18 October 2026.",
+ "title": "نشرة الأرصاد الزراعية الشهرية",
+ "publisher": "الهيئة العامة للأرصاد الجوية السودانية",
+ "published": "2026-10-18",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "aspect": "use;source",
+ "fact": "Civil registration pilot: birth declaration data was being integrated into DHIS2, with all public maternities and civil registry centres covered from 2021-2022.",
+ "title": "Transformer le système d'état civil en Côte d'Ivoire pour l'enregistrement universel des naissances",
+ "publisher": "Ministère de l'Intérieur et de la Sécurité (presentation to the UN Statistical Commission side event)",
+ "published": "2022",
+ "date_source": "proxy",
+ "select": true,
+ "sub_indicator": "admin",
+ "why_not": ""
+}

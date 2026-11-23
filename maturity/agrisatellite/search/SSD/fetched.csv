@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.cpc.ncep.noaa.gov/products/international/FEWS_REPORT/SouthSudan/Current.pdf,unfetchable,ConnectionError; Wayback ConnectionError,,0,,
+2,https://www.resakss.org/sites/default/files/2025_ator_individual_chapters/ATOR_2025_Chapter%203.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/SSD/2.txt,6706,pdf,ReSAKSS_ATOR_2025_text.indd
+3,https://www.nature.com/articles/s41598-025-89030-z,fetched,,scripts/.workroot/study/agrisatellite/cache/SSD/3.txt,6813,html,Sorghum yield prediction based on remote sensing and machine learning in conflict affected South Sudan - Scientific Reports
+4,https://www.worldbank.org/en/results/2024/07/29/improving-food-security-protecting-local-livelihoods-in-afe-south-sudan,fetched,,scripts/.workroot/study/agrisatellite/cache/SSD/4.txt,1654,html,"Improving Food Security, Protecting Local Livelihoods, and Strengthening Pest Control Systems in South Sudan"
+5,https://openknowledge.fao.org/server/api/core/bitstreams/6169665b-8a47-4093-bdc7-82bfc79c6dbd/content,fetched,,scripts/.workroot/study/agrisatellite/cache/SSD/5.txt,25839,pdf,Special report: 2024 FAO/WFP Crop and Food Security Assessment Mission (CFSAM) to the Republic of South Sudan
+6,https://climis-southsudan.org/uploads/publications/Crop_Watch_Bulletin_-_South_Sudan_March_-_August_202316.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/SSD/6.txt,6730,pdf,
+7,https://openknowledge.fao.org/server/api/core/bitstreams/8785bd88-bea7-47b3-95f3-a27092038bde/content,fetched,,scripts/.workroot/study/agrisatellite/cache/SSD/7.txt,16680,pdf,Land Cover Atlas of the Republic of South Sudan
+8,https://www.fao.org/giews/earthobservation/country/index.jsp?code=SSD,fetched,,scripts/.workroot/study/agrisatellite/cache/SSD/8.txt,871,html,FAO.org

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The 2022 statistical yearbook, dated December 2023 and the fourteenth edition of a series begun in 2008, publishes education, health and justice tables sourced from ministry administrative yearbooks (MEMP, MS, MESTFP).",
+ "title": "Annuaire statistique 2022",
+ "publisher": "Institut National de la Statistique et de la Démographie (INStaD)",
+ "published": "2023-12",
+ "date_source": "source",
+ "why_not": ""
+}

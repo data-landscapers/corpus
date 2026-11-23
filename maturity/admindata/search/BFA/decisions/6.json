@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Ministry of Public Service, Labour and Social Protection published its 2024 statistical dashboard in June 2025, built on its annual DGESS yearbook, covering 2020-2024 civil service, labour and social protection records.",
+ "title": "Tableau de bord statistique 2024",
+ "publisher": "Ministère de la Fonction publique, du Travail et de la Protection sociale, DGESS",
+ "published": "2025-06",
+ "date_source": "source",
+ "why_not": ""
+}

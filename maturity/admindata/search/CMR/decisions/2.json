@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The INS Centre regional agency published its Regional Statistical Yearbook, edition 2024, federating statistics of sectoral administrations including education, public health and foreign trade, and states the ten regional agencies produce one each year.",
+ "title": "Annuaire statistique de la région du Centre, édition 2024",
+ "publisher": "Institut National de la Statistique",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.mdpi.com/2225-1154/14/4/77,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+2,https://link.springer.com/article/10.1007/s00704-026-06154-6,fetched,,scripts/.workroot/study/agrisatellite/cache/BWA/2.txt,46,html,Client Challenge
+3,https://digitalearthafrica.org/en_za/how-satellite-data-is-reaching-smallholder-farmers-in-botswana/,fetched,,scripts/.workroot/study/agrisatellite/cache/BWA/3.txt,604,html,How satellite data is reaching smallholder farmers in Botswana
+4,https://cb.apps.fao.org/country.jsp?code=BWA,fetched,,scripts/.workroot/study/agrisatellite/cache/BWA/4.txt,509,html,FAO.org
+5,https://edcintl.cr.usgs.gov/downloads/sciweb1/shared/fews/web/Seasonal%20Monitors/Southern%20Africa/2025_26/SADC%20Agromet%20Update%20Issue-02%20-%20January%202026.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/BWA/5.txt,3061,pdf,Agromet Update Issue 05 - 2012-2013 Season
+6,https://www.aciar.gov.au/sites/default/files/2024-02/wac-2021-164-final-report.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/BWA/6.txt,5564,pdf,"Information for Agriculture, Food and Water Security – Digital Earth Africa - Final Report"
+7,https://www.knowledgehub.ccardesa.org/satellite-data-improved-monitoring-farm-productivity-and-early-warning-systems-botswana,fetched,,scripts/.workroot/study/agrisatellite/cache/BWA/7.txt,147,html,Satellite Data for Improved Monitoring of Farm Productivity and Early Warning Systems in Botswana
+8,https://gov.bw/sites/default/files/2020-03/Agromet_Bulletin_October_2019.pdf,unfetchable,SSLError; Wayback ConnectionError,,0,,

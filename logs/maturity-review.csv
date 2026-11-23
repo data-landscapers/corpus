@@ -1,8 +1,8 @@
 study,key,indicator_id,last_reviewed,minutes,tokens,staged
 accesstoinformationlaw,law,gov.legislate--access-to-information-legislation,2026-11-22,11,60,194
 addressregister,address,dpi.registry--address-register,2026-11-22,11,60,122
-admindata,admin,data.statistics--statistics-from-administrative-data,2026-10-19,35,114.6,204
-agrisatellite,agrisat,data.geospatial--agricultural-use-of-satellite-data,2026-10-20,11,97.4,176
+admindata,admin,data.statistics--statistics-from-administrative-data,2026-11-23,15,69,129
+agrisatellite,agrisat,data.geospatial--agricultural-use-of-satellite-data,2026-11-23,15,69,168
 aiabuse,aiharm,tech.ai--control-of-ai-abuse,2026-10-20,9,54.7,191
 aigovernment,govai,tech.ai--use-of-ai-in-government-administration,2026-10-20,11,42.2,143
 ailaw,law,gov.legislate--ai-legislation-regulations,2026-10-21,7,4.1,186

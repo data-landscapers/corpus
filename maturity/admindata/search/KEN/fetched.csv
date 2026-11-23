@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://documents1.worldbank.org/curated/en/099063026174022639/pdf/P176371-a65d090f-a612-4af1-a89c-e8f11b69aa53.pdf,fetched,,scripts/.workroot/study/admindata/cache/KEN/1.txt,5750,pdf,
+2,https://africacheck.org/sites/default/files/media/documents/2026-04/Kenya-Statistical-Abstract-2025.pdf,held,held as raw/2025/2025-01-01-ken-statistical-abstract-2025.md,,0,,
+3,https://usajili.go.ke/sites/default/files/KVSR%202024.pdf,unfetchable,SSLError; no usable Wayback capture,,0,,
+4,https://www.knbs.or.ke/wp-content/uploads/2025/05/2025-Economic-Survey.pdf,held,held as raw/2025/2025-05-01-knbs-economic-survey-2025.md,,0,,
+5,https://data.unwomen.org/sites/default/files/documents/Publications/2025/The-Second-Kenya-Strategy-for-Development-of-Statistics.pdf,held,held as raw/2025/2025-01-01-ken-the-second-kenya-strategy-for-development-of-statistics-an-agenda-for.md,,0,,
+6,https://repository.knbs.or.ke/entities/statisticalabstract/c535a383-7598-4b01-85dc-face29560557/full,fetched,,scripts/.workroot/study/admindata/cache/KEN/6.txt,140,html,Statistical Abstract 2024
+7,https://www.knbs.or.ke/wp-content/uploads/2024/05/Facts-Figures-2024.pdf,fetched,,scripts/.workroot/study/admindata/cache/KEN/7.txt,11615,pdf,
+8,https://unstats.un.org/UNSDWebsite/capacity-development/admin-data/qatraining,fetched,,scripts/.workroot/study/admindata/cache/KEN/8.txt,9,html,UNSD

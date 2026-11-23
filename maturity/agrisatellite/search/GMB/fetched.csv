@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.fao.org/giews/countrybrief/country.jsp?code=GMB,fetched,,scripts/.workroot/study/agrisatellite/cache/GMB/1.txt,705,html,FAO.org
+2,https://www.iafastro.org/assets/files/events/un-iaf-worshop/2026/3-P1B-Jallow28Sep.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/GMB/2.txt,647,pdf,UN/IAF workshop Fama Jallow Final Version(The Gambia)
+3,https://data.humdata.org/en/dataset/gmb-ndvi-subnational,unfetchable,empty extraction; no usable Wayback capture,,0,,
+4,https://www.fao.org/geospatial/news/news-detail/fao-presents-the-gambia-geolab-at-geo-for-good-summit-in-singapore/en,held,held as raw/2025/2025-12-09-gmb-fao-gambia-geolab-geo-for-good.md,,0,,
+5,https://www.weatherimpact.com/building-the-gambia-webportal/,fetched,,scripts/.workroot/study/agrisatellite/cache/GMB/5.txt,215,html,Building the Gambia Webportal | Weather Impact
+6,https://medium.com/@gi.baldassarre/turning-research-and-data-into-actionable-insights-for-agriculture-and-natural-resource-management-b2d035aa96a8,fetched,,scripts/.workroot/study/agrisatellite/cache/GMB/6.txt,1556,html,Turning Research and Data into Actionable Insights for Agriculture and Natural Resource Management…
+7,https://gca.org/gca-project/afdb-programme-for-the-reinforcement-of-resilience-to-food-and-nutrition-insecurity-in-the-sahel-p2-p2rs/,held,held as raw/2025/2025-09-02-gmb-gca-p2rs-gee-climate-advisory-platform.md,,0,,
+8,https://arcltd.org/solutions/ricar/,fetched,,scripts/.workroot/study/agrisatellite/cache/GMB/8.txt,281,html,RICAR

@@ -1,0 +1,11 @@
+{
+ "aspect": "use;source;series",
+ "fact": "The 2023 civil registration yearbook compiles births, marriages, divorces and deaths registered in 2023 from civil registries, health structures and courts.",
+ "title": "Annuaire statistique d'état civil 2023",
+ "publisher": "Ministère de l'Intérieur et de la Sécurité, DESPSE",
+ "published": "2024-06",
+ "select": true,
+ "sub_indicator": "admin",
+ "why_not": "",
+ "date_source": "source"
+}

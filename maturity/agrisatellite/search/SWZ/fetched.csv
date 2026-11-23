@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,http://swazimet.gov.sz/Agromet/dekadal_bulletin.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/SWZ/1.txt,560,pdf,
+2,https://sierraleonews.com/2026/10/09/esusfarm-africa-agricultural-data-smallholder-finance/,fetched,,scripts/.workroot/study/agrisatellite/cache/SWZ/2.txt,543,html,eSusFarm Africa Links Agricultural Data to Smallholder Finance
+3,https://gov.sz/images/CabinetMinisters/End%20of%20Year%20Statement%20Final.pdf,unfetchable,ConnectTimeout; Wayback ConnectionError,,0,,
+4,https://www.swazimet.gov.sz/Agromet/archives/Issue%2003%20Eswatini%20Agromet%20Update.pdf,fetched,,scripts/.workroot/study/agrisatellite/cache/SWZ/4.txt,790,pdf,
+5,https://wiki.cloud.akvo.org/books/droughtmap-hub/page/operational-handbook,held,held as raw/2025/2025-01-01-swz-akvo-droughtmap-hub-handbook.md,,0,,
+6,https://www.mdpi.com/2071-1050/16/1/409,fetched,,scripts/.workroot/study/agrisatellite/cache/SWZ/6.txt,8687,html,Geospatial Tools and Remote Sensing Strategies for Timely Humanitarian Response: A Case Study on Drought Monitoring in Eswatini | MDPI
+7,https://www.ctc-n.org/file-download/download/private/34724,held,held as raw/2021/2021-02-01-ctcn-swz-disaster-risk-2021-disaster-risk-assessment-technical-assistance.md,,0,,
+8,https://www.ctc-n.org/system/files/dossier/3b/Framework%20and%20Case%20Study%20Report_UAV_and_Satellite_Remote_Sensing_for_Agricultural_Monitoring_and_Vulnerability_Assessments_in_the_Kingdom_of_Eswatini_final%20%281%29.pdf,held,held as raw/2021/2021-10-01-swz-ctcn-uav-satellite-agri-monitoring.md,,0,,

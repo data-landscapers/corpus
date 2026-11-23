@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The 2023 civil registration yearbook, published November 2025, draws birth, marriage and death statistics for all 77 communes from the ANIP administrative database, as the 2020-34 law lets INStaD access the integrated civil registration system.",
+ "title": "Annuaire des statistiques des faits d'état civil au Bénin (2023)",
+ "publisher": "Institut National de la Statistique et de la Démographie (INStaD)",
+ "published": "2025-11",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "agrisat",
+ "aspect": "service",
+ "fact": "The Agricultural Research Corporation's digital agriculture programme used MODIS NDVI imagery to predict rainfed sorghum yield in Gedarif State, as reported in 2023.",
+ "title": "Climate Smart Agriculture Digital Technologies for Increased and Sustainable Agricultural Production in Sudan",
+ "publisher": "FARA Research Report",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

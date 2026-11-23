@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "agrisat",
+ "aspect": "service",
+ "fact": "FAO published a remote sensing assessment of cultivated cropland in Sudan for the June-October 2024 summer season, with WaPOR pilot work in the Gezira Scheme alongside the Ministry of Agriculture and Forests and the Agricultural Research Corporation.",
+ "title": "Sudan country activities | WaPOR, remote sensing for water productivity",
+ "publisher": "Food and Agriculture Organization of the United Nations",
+ "published": "2025-07-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

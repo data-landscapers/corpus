@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://eastafricanpolicyobserver.org/news/eca-escwa-and-the-united-nations-in-algeria-join-forces-to-support-the-modernization-of-the-national-statistical-system/,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+2,https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf,held,held as raw/2025/2025-12-30-joradp-decret-25-320-gouvernance-donnees.md,,0,,
+3,https://unstats.un.org/unsd/methodology/dataquality/meetings/training-wks-Jul2025/Session2_ALGERIA.pdf,held,held as raw/2025/2025-07-01-unsd-algeria-statistical-system-quality.md,,0,,
+4,https://econostrum.info/algerie/commerce-exterieur-algerie/,fetched,,scripts/.workroot/study/admindata/cache/DZA/4.txt,495,html,Commerce extérieur de l'Algérie en 2024 : progression des importations et recul des exportations (ONS)
+5,https://africa.unwomen.org/sites/default/files/2024-12/northern_africa_-_admin_data_on_discrimination_and_inequality.pdf,fetched,,scripts/.workroot/study/admindata/cache/DZA/5.txt,18030,pdf,Study on Administrative Data Systems on Discrimination  and Inequality in Africa
+6,https://www.ambassade-algerie.ch/decouvrir-l-algerie/04/demographie_algerienne2020_2023.pdf,fetched,,scripts/.workroot/study/admindata/cache/DZA/6.txt,12151,pdf,
+7,https://www.ambassade-algerie.ch/actualites/2026/VNR%202026%20Algeria%20Report%20FR.pdf,fetched,,scripts/.workroot/study/admindata/cache/DZA/7.txt,37706,pdf,Rapport National Volontaire 2026 - FR
+8,https://dgpp.mf.gov.dz/commerce-exterieure/,fetched,,scripts/.workroot/study/admindata/cache/DZA/8.txt,103,html,Ministere des finances

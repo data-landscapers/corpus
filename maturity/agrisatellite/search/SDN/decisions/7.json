@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "agrisat",
+ "aspect": "service",
+ "fact": "FAO geospatial unit produced satellite-based crop-type maps of the Gezira Irrigation Scheme for 2019/20-2023/24 seasons.",
+ "title": "Crop type mapping of the Gezira irrigation scheme Geospatial cropland monitoring of Sudan (September to March 2019/20-2023/24)",
+ "publisher": "FAO Geospatial",
+ "published": "2024-07-15",
+ "date_source": "source",
+ "why_not": ""
+}

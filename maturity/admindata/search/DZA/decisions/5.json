@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The study states that Algeria's national statistics office uses administrative data, such as value added tax and income tax records, to improve the accuracy and comprehensiveness of national statistics.",
+ "title": "Study on Administrative Data Related to Discrimination and Inequality - North Africa",
+ "publisher": "UN Women East and Southern Africa Regional Office",
+ "published": "2024-10",
+ "date_source": "source",
+ "why_not": ""
+}
