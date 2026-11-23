@@ -1,36 +1,26 @@
 {
- "slug": "2026-11-22-serap-sues-ndpc-inec-ai-manipulation-voters-register",
- "facts": [
-  {
-   "sub_indicator": "electoral",
-   "aspect": "roll",
-   "value": "inservice",
-   "fact": "SERAP reports INEC's Automated Biometric Identification System flagged 268 records in the preliminary Register of Voters.",
-   "as_of": "2026-11-01",
-   "date_precision": "day",
-   "system": "INEC preliminary Register of Voters (ABIS)",
-   "class": "electoral"
-  },
-  {
-   "sub_indicator": "electoral",
-   "aspect": "checked",
-   "value": "open",
-   "fact": "INEC published the preliminary Register of Voters on its website and displayed it physically nationwide from 9 to 15 October 2026, when questionable records were flagged.",
-   "as_of": "2026-10-09",
-   "date_precision": "day",
-   "system": "INEC preliminary Register of Voters",
-   "class": "electoral"
-  }
- ],
- "systems": [
-  {
-   "system": "Register of Voters",
-   "country_label": "Nigeria",
-   "class": "electoral",
-   "platform": "ABIS",
-   "owner": "INEC",
-   "tiers": ""
-  }
- ],
- "note": ""
+  "slug": "2026-11-22-serap-sues-ndpc-inec-ai-manipulation-voters-register",
+  "facts": [
+    {
+      "sub_indicator": "electoral",
+      "aspect": "roll",
+      "value": "inservice",
+      "fact": "SERAP says INEC reportedly disclosed on 1 November 2026 that its Automated Biometric Identification System had flagged 268 records in the preliminary Register of Voters for review.",
+      "as_of": "2026-11-01",
+      "date_precision": "day",
+      "system": "INEC preliminary Register of Voters (ABIS)",
+      "class": "electoral"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Register of Voters",
+      "country_label": "Nigeria",
+      "class": "electoral",
+      "platform": "ABIS",
+      "owner": "INEC",
+      "tiers": ""
+    }
+  ],
+  "note": ""
 }

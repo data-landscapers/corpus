@@ -6,7 +6,7 @@
 
 **Open for checking.** No source since October 2023 says the roll was published. None says voters could check their entries online, by text message or at centres. [The 2024 contract for a new electoral management system went to Waymark Infotech](<https://lestimes.com/?p=85440>).
 
-**Linked to ID.** [The IEC told the AU mission in July 2026 that its registration system is integrated with the National Identity and Civil Registry](<https://sundayexpress.co.ls/?p=36187>). [The link runs through each person's unique identification number](<https://sundayexpress.co.ls/?p=36187>). [The re-registration accepts the national identity card as the only form of identification](<https://publiceyenews.com/2024/10/16/800-000-ghost-voters-unearthed/>).
+**Linked to ID.** [The IEC told the AU mission in July 2026 that its registration system is integrated with the National Identity and Civil Registry](<https://sundayexpress.co.ls/?p=36187>). [The link runs through each person's unique identification number](<https://sundayexpress.co.ls/?p=36187>). [The re-registration accepts the national identity card as the only form of identification](<https://publiceyenews.com/2024/10/16/800-000-ghost-voters-unearthed/>). In November 2026 an independent audit told Parliament's Law and Justice Committee that [all 582,413 records submitted had passed Ministry of Home Affairs checks of identity, name, age and eligibility](<https://lestimes.com/?p=92095>).
 
 ***Also on file***. None found.
 
