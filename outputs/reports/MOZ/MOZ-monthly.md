@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: MOZ
-ledger_rows: 41
+ledger_rows: 43
 not_held: 17
-record: 6feb6a733dc0
+record: d64b4d8c132c
 ---
 
 # News, Oct – Nov 2026
@@ -527,6 +527,34 @@ The governor of Banco de Moçambique said on 28 October 2026 that the METIX inst
 </div>
 
 ### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Homologation of geographical names</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Executivo homologa 1.444 novos nomes geográficos para melhorar endereçamento de cidades e vilas](https://integritymagazine.co.mz/arquivos/71359)** — Integrity Magazine, 20 October 2026
+
+Council of Ministers' 30th session; street and unit names for 14 municipalities, 12 of them new, and one district.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Postal Address Code (CEP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INCM divulga novo Código de Endereçamento Postal em Pemba, com implementação prevista para 2027](http://www.semfronteirasfm.org/2026/10/incm-divulga-novo-codigo-de.html)** — Rádio Sem Fronteiras Pemba, 21 October 2026
+
+Decree 74/2024 sets an eight-digit hyphenated code replacing the Decree 28/2019 model; gradual roll-out from 2027.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
