@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: MUS
-ledger_rows: 44
+ledger_rows: 45
 not_held: 7
-record: 62f243fca905
+record: 353e99fe1395
 ---
 
 # News, Oct – Nov 2026
@@ -789,6 +789,20 @@ Summarised under [Access to services](#access-to-services).
 **[UNDP and Statistics Mauritius Collaborate to Strengthen Mauritius' Statistical Capabilities and Data Management Through Phase 2 of the MauStats Platform](https://www.undp.org/mauritius-seychelles/press-releases/undp-and-statistics-mauritius-collaborate-strengthen-mauritius-statistical-capabilities-and-data-management)** — United Nations Development Programme, 28 October 2026
 
 Statistics Mauritius trained staff on Phase 2 of its MauStats platform, built with UNDP, from 19 to 28 October 2026. Phase 2 adds 14 modules, among them prices, tourism, SDG monitoring and AI-assisted coding. It also adds data exchange through APIs.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Freedom of Information Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Programme 2025-2029 : ces grandes promesses pas encore tenues](https://defimedia.info/programme-2025-2029-ces-grandes-promesses-pas-encore-tenues)** — Defimedia, 10 November 2026
+
+FOI Act still undelivered at Nov 2026; Constitutional Review Commission final report due around March 2028.
 
 </div>
 

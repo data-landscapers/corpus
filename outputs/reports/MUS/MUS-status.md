@@ -1,12 +1,12 @@
 ---
 title: Mauritius: status report
-compiled: 2026-11-17
+compiled: 2026-11-23
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 208
+sources_cited: 209
 sections_written: 39
 not_established: 1
 acquire_lines: 29
@@ -326,7 +326,7 @@ In 2025 the World Bank recorded [a digital skills strategy and programme for the
 
 [In every area of the World Bank's 2025 GovTech assessment, Mauritius reports its supporting documentation as internal and unpublished](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The areas run from cloud and interoperability to data protection, right to information and start-up support.
 
-[The Electoral Commissioner keeps a continuously updated Register of Electors by constituency, ward, polling station, sex, age and citizenship](https://electoral.govmu.org/oec/?page_id=4616) (2024). [A Freedom of Information Bill was announced as in preparation on 28 January 2026, at the launch of the National Data Strategy](https://lexpress.mu/node/553938).
+[The Electoral Commissioner keeps a continuously updated Register of Electors by constituency, ward, polling station, sex, age and citizenship](https://electoral.govmu.org/oec/?page_id=4616) (2024). [A Freedom of Information Bill was announced as in preparation on 28 January 2026, at the launch of the National Data Strategy](https://lexpress.mu/node/553938). [Defimedia reported on 10 November 2026 that it had not been delivered](https://defimedia.info/programme-2025-2029-ces-grandes-promesses-pas-encore-tenues).
 
 ### Geospatial data
 <!-- data.geospatial -->
