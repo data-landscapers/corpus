@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "unplaced",
-      "standing": "",
+      "stage": "2",
+      "standing": "draft",
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No law or draft is on record, and no source dated in the last three years says the country has none.",
-      "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py.",
-      "as_at": "2026-10-13"
+      "stage_sources": "TCD-003;TCD-004",
+      "gaps": "No source found says an access to information law is in force. The bill's text has not been found.",
+      "note": "The journalists' union says its 2024 bill on access to information and journalists' safety is before the National Assembly, a draft before parliament, and no law is in force, so stage 2.",
+      "as_at": "2026-11-23"
     }
   ]
 }

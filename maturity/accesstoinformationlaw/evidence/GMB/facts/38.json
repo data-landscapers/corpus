@@ -15,10 +15,20 @@
    "sub_indicator": "law",
    "aspect": "reach",
    "value": "rules",
-   "fact": "The Gambia Information Commission is in operation under its chairperson, who says it has received 15 complaints since its establishment and that draft regulations, validated, are with the Ministry of Justice.",
+   "fact": "The Gambia Information Commission is in operation under its chairperson, who says draft regulations, validated, are with the Ministry of Justice.",
    "as_of": "2025-10-15",
    "date_precision": "day",
    "system": "Gambia Information Commission",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "applied",
+   "fact": "The Information Commission's chairperson, Neneh MacDouall-Gaye, said in October 2025 that the Commission had received 15 complaints since its establishment.",
+   "as_of": "2025-10-15",
+   "date_precision": "day",
+   "system": "Information Commission",
    "class": "law"
   }
  ],

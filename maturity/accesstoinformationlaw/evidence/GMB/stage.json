@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "4",
+      "stage": "5",
       "standing": "in-force",
-      "reach": "rules",
+      "reach": "applied",
       "cap": "",
       "flags": "",
-      "stage_sources": "GMB-004;GMB-006;GMB-008",
-      "gaps": "No source found dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.",
-      "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "GMB-013;GMB-004;GMB-007",
+      "gaps": "No decision, order or penalty on a request has been found.",
+      "note": "The Commission's chairperson gave 15 complaints received since its establishment in October 2025, a figure from the oversight body inside three years, read as Cote d'Ivoire's 45 referrals are, so every rung is met.",
+      "as_at": "2026-11-23"
     }
   ]
 }

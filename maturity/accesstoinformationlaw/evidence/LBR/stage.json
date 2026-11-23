@@ -1,16 +1,17 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "reach": "rules",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-002;LBR-003",
-   "gaps": "No source found dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "applied",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-013;LBR-002;LBR-001",
+      "gaps": "Nothing on the four questions.",
+      "note": "The Independent Information Commission ordered the Environmental Protection Agency in October 2026 to release requested records and fined it, a dated order and penalty on a request, so every rung is met.",
+      "as_at": "2026-11-23"
+    }
+  ]
 }

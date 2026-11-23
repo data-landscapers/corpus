@@ -1,16 +1,17 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-002;SDN-001",
-   "gaps": "No source found names rules made under the law or says its oversight body is set up.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-002;SDN-001",
+      "gaps": "A November 2025 opinion piece says the general information commission the Act provides for is still absent. No source found names rules made under the law.",
+      "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py.",
+      "as_at": "2026-11-23"
+    }
+  ]
 }

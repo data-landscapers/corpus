@@ -1,16 +1,17 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NER-001;NER-002",
-   "gaps": "No source found names rules made under the law or says its oversight body is set up.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-001;NER-002",
+      "gaps": "Transparency International's Niger chapter said in November 2025 that the ordinance's implementing decree has not been adopted. No source found says an oversight body is set up.",
+      "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py.",
+      "as_at": "2026-11-23"
+    }
+  ]
 }

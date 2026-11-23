@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "3",
+      "stage": "4",
       "standing": "in-force",
-      "reach": "",
+      "reach": "rules",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-005;SEN-002",
-      "gaps": "No source found says the commission the law creates has been appointed or is at work, or names rules made under the law.",
-      "note": "Reassessed in the rebuild: the OGP report's 'created the CONAI' is the law providing for the commission, read as Guinea's law creating its commission is, not the commission appointed; so the law is in force and the stage stops at 3.",
-      "as_at": "2026-10-18"
+      "stage_sources": "SEN-005;SEN-015;SEN-012",
+      "gaps": "The commission the law creates had not been installed by August 2026. The Supreme Court's ordinance of 16 April 2026 declared a request inadmissible for want of a referral to that commission and is not counted as the law applied.",
+      "note": "The implementing decree no. 2025-1837 and the October 2025 decree on the commission are rules made under the law, so stage 4. The Supreme Court's ruling turned on the missing commission, so question 4 is held at no and reported to Bill.",
+      "as_at": "2026-11-23"
     }
   ]
 }

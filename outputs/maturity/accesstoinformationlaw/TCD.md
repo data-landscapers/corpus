@@ -2,6 +2,10 @@
 
 ## Access to information law
 
+**Law in force.** Chad has a bill and no law. [UNESCO's contribution to Chad's Universal Periodic Review, dated January 2023, states that no freedom of information law had been adopted](<https://upr-info.org/sites/default/files/country-document/2025-12/UNESCO_org_UPR45_TCD_E_Main.pdf>). [The Union of Chadian Journalists said in September 2024 that it had filed a bill on journalists' safety and access to information](<https://www.tachad.com/journee-internationale-de-lacces-a-linformation-lujt-propose-une-loi-pour-proteger-les-journalistes/>). [Its president said on 28 September 2026 that the bill was still at the National Assembly](<https://tchadinfos.com/2026/09/28/journee-internationale-de-lacces-a-linformation-dans-les-institutions-publiques-il-est-difficile-aujourdhui-davoir-une-information-abbas-mahamoud/>). [A civic-space snapshot of July 2026 states that Chad has no law on access to information](<https://eusee.hivos.org/assets/2026/10/Final-Tchad-2026-Snapshot-_ED-2.pdf>).
+
+**Law put to work and applied.** The nearest fact found is the draft, [the union's bill, at the National Assembly in September 2026](<https://tchadinfos.com/2026/09/28/journee-internationale-de-lacces-a-linformation-dans-les-institutions-publiques-il-est-difficile-aujourdhui-davoir-une-information-abbas-mahamoud/>). A bill makes no rules and sets up no oversight body until it is passed, promulgated and in force.
+
 ***Also on file***. [Constitution of Chad 2018, Article 28 (freedom of opinion and expression)](<https://upr-info.org/sites/default/files/country-document/2025-12/UNESCO_org_UPR45_TCD_E_Main.pdf>). [Higher Authority of Media and Audiovisual (HAMA)](<https://upr-info.org/sites/default/files/country-document/2025-12/UNESCO_org_UPR45_TCD_E_Main.pdf>). [Law on the Press Regime in Chad (Law 2010-17)](<https://upr-info.org/sites/default/files/country-document/2025-12/UNESCO_org_UPR45_TCD_E_Main.pdf>). [Archive Nationale des Donnees (ANAD)](<https://anad.inseed.td/index.php/politique-dacc>). [Open Data Portal (ODP) du Tchad](<https://www.inseed.td/>).
 
-***Not found***. No law or draft is on record. No source dated in the last three years says the country has none.
+***Not found***. No source found says an access to information law is in force. The bill's text has not been found.

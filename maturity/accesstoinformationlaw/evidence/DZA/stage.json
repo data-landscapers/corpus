@@ -1,16 +1,17 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "no evidence",
-   "standing": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names an access to information law or a draft of one, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "1",
+      "standing": "none",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-002;DZA-001",
+      "gaps": "No bill or published draft has been found; ARTICLE 19 mentions discussion of draft laws and names none.",
+      "note": "A 2025 thesis and ARTICLE 19 in September 2025 say Algeria has no access to information law, and neither names a draft, so stage 1.",
+      "as_at": "2026-11-23"
+    }
+  ]
 }

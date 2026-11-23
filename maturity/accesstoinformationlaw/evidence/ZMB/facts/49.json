@@ -15,7 +15,7 @@
    "sub_indicator": "law",
    "aspect": "reach",
    "value": "rules",
-   "fact": "MakanDay reports requests under the Act are made on Form I, the official form prescribed under the Access to Information (General) Regulations, 2024.",
+   "fact": "MakanDay reports requests under the Act are made on Form I, the official form prescribed under the Act's General Regulations.",
    "as_of": "2026-05-12",
    "date_precision": "day",
    "system": "Access to Information (General) Regulations, 2024",
@@ -24,7 +24,7 @@
   {
    "sub_indicator": "law",
    "aspect": "reach",
-   "value": "applied",
+   "value": "rules",
    "fact": "MakanDay reports the Human Rights Commission, the Act's oversight body, wrote on 23 June 2026 that it had written to the Ministry of Health directing it to comply with the law on MakanDay's requests; the Ministry had still not responded.",
    "as_of": "2026-06-23",
    "date_precision": "day",

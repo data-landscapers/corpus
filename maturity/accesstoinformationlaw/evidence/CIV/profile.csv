@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,law,standing,coverage,in-force,2013,CIV-002;CIV-005;CIV-006;CIV-008,,nothing dated since 2023-11-12
-CIV,law,reach,coverage,applied,2024,CIV-007,CIV-001=rules;CIV-003=rules;CIV-004=rules;CIV-009=rules,
+CIV,law,standing,coverage,in-force,2025-01-15,CIV-002;CIV-005;CIV-006;CIV-008;CIV-010;CIV-012;CIV-015;CIV-017,CIV-014=draft,
+CIV,law,reach,coverage,applied,2024,CIV-007;CIV-019,CIV-011=rules;CIV-001=rules;CIV-003=rules;CIV-016=rules;CIV-018=rules;CIV-004=rules;CIV-009=rules;CIV-013=rules,
