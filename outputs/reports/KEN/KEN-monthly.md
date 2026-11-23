@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: KEN
-ledger_rows: 116
+ledger_rows: 117
 not_held: 5
-record: 3fe452067113
+record: 43b85c9d6338
 ---
 
 # News, Oct – Nov 2026
@@ -99,6 +99,20 @@ Kenya's ICT Cabinet Secretary William Kabogo said at a forum in Naivasha that th
 </div>
 
 ### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public awareness of the right to information</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The right to know must reach everyone: Kenya celebrates Access to Information Day](https://www.unesco.org/en/articles/right-know-must-reach-everyone-kenya-celebrates-access-information-day)** — UNESCO, 5 October 2026
+
+CAJ 2025 survey: 68.8% aware of right; first State of Openness Report in preparation; 27 African ATI laws.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
