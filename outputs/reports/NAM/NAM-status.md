@@ -1,12 +1,12 @@
 ---
 title: Namibia: status report
-compiled: 2026-11-21
+compiled: 2026-11-23
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 215
+sources_cited: 216
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -360,7 +360,7 @@ There is [no dedicated government entity for data governance or data management,
 <!-- derived -->
 No category in that 2024 profile scores above 7 out of 10, the mean across the 19 scored categories is 4.2, and 13 of the 19 sit at or below 4.5 — an open data estate that is uniformly mid-to-low rather than strong in parts.
 
-[The Access to Information Act 8 of 2022 was gazetted in December 2022](https://www.lac.org.na/laws/2022/7986.pdf) but [had not been brought into force as at May 2026, and no Information Commissioner had been appointed](https://www.nmt.africa/uploads/6a1eb6ee6167e/AMBNamibia2026.pdf). [The National Assembly invited applications for Information Commissioner and deputy in February 2026](https://www.parliament.na/wp-content/uploads/2026/02/Information-and-Deputy-Commissioners.pdf). [Nothing is published on how many information requests are received and granted](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [Accessibility of public records rose 15.4 points over 2014-2023 to 54.6 out of 100, ranking 5th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf). [Disclosure rose 8.9 points to 53.4, ranking 6th](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf) (2023).
+[The Access to Information Act 8 of 2022 was gazetted in December 2022](https://www.lac.org.na/laws/2022/7986.pdf) but [had not been brought into force as at May 2026, and no Information Commissioner had been appointed](https://www.nmt.africa/uploads/6a1eb6ee6167e/AMBNamibia2026.pdf). [The National Assembly invited applications for Information Commissioner and deputy in February 2026](https://www.parliament.na/wp-content/uploads/2026/02/Information-and-Deputy-Commissioners.pdf). [The minister halted that recruitment by a letter of 27 February 2026, citing insufficient consultation](https://www.namibian.com.na/minister-halts-commissioner-recruitment/). [Nothing is published on how many information requests are received and granted](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [Accessibility of public records rose 15.4 points over 2014-2023 to 54.6 out of 100, ranking 5th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf). [Disclosure rose 8.9 points to 53.4, ranking 6th](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf) (2023).
 
 [The e-procurement portal does not publish tender notices or contracts to the Open Contracting Data Standard](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
