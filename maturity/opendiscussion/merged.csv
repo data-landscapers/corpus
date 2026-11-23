@@ -1,4 +1,5 @@
 iso3,source_slug,read,merged_on
+AGO,2024-04-29-ago-o-acesso-a-informacao-em-angola-uma-analise-em-torno-do-estado-actual,,2026-11-23
 AGO,2024-07-19-carta-da-cplp-de-direitos-e-principios-em-ambientes-digitais,,2026-10-19
 AGO,2024-11-13-ago-ecosefactos-jornalista-angolano-condena-tres-anos,,2026-11-13
 AGO,2025-01-01-ago-angola-freedom-on-the-net-2025-country-report,,2026-11-12
@@ -33,6 +34,7 @@ BDI,2026-03-01-bdi-enabling-environment-snapshot-burundi-march-2026,,2026-11-12
 BDI,2026-04-14-bdi-burundi-fin-d-une-detention-decriee-sandra-muhoza-retrouve-la-liberte,,2026-11-12
 BDI,2026-05-29-burundian-president-mobile-phone-ban-civil-servants,,2026-10-19
 BDI,2026-08-27-burundi-social-media-influencers-law,,2026-10-19
+BDI,2026-09-28-bdi-journee-internationale-de-l-acces-a-l-information-ou-en-est-le-burundi,,2026-11-23
 BDI,2026-10-14-bdi-the-national-communications-council-suspends-programme-on-yaga-burundi,,2026-11-12
 BEN,2024-01-12-ben-contribution-a-la-relecture-du-code-du-numerique,,2026-11-12
 BEN,2024-11-07-ben-atelier-consultatif-organise-par-l-assemblee-nationale-et-ong-internet,,2026-11-12
@@ -111,12 +113,14 @@ CMR,2026-11-20-paradigm-initiative-child-online-protection-policies-africa,,2026
 COD,2024-09-28-cod-kinshasa-l-influenceuse-maria-ntumba-placee-en-detention-preventive,,2026-10-28
 COD,2025-01-01-nga-transparency-and-accountability-as-trust-builders-in-the-african-data,,2026-11-12
 COD,2025-02-03-acces-restreint-reseaux-sociaux-actualite,,2026-10-19
+COD,2025-03-14-cod-serie-echos-de-rdc-impacts-des-atteintes-a-l-integrite-de-l-informatio,,2026-11-23
 COD,2025-06-18-cod-rdc-le-journaliste-patrick-lokala-condamne-a-6-mois-de-servitude-penal,,2026-10-28
 COD,2025-08-15-cod-droits-numeriques-en-rdc-entre-protection-et-regulation,,2026-11-13
 COD,2026-01-16-cod-wacs-submarine-cable-outage-disrupts-drc-internet-access,,2026-11-12
 COD,2026-03-01 Rising Repression Meets Global Resistance Internet Shutdowns in 2025,,2026-10-19
 COD,2026-03-03-cod-rdc-des-parquets-instruits-d-engager-des-poursuites-contre-toutes-les,,2026-10-28
 COD,2026-03-31-xaf-resilience-and-resistance-internet-shutdowns-in-africa-in-2025,,2026-11-12
+COD,2026-04-09-cod-loi-sur-lacces-a-linformation-en-rdc-la-bataille-pour-la-verite-publiq,,2026-11-23
 COD,2026-04-27-tcd-internet-shutdowns-won-t-solve-central-africa-s-political-crises,,2026-11-12
 COD,2026-05-02-eth-amnesty-east-southern-africa-media-freedom,,2026-10-19
 COD,2026-08-19-acp-csac-cslc-regulateurs-medias-cooperation,,2026-10-19
@@ -125,6 +129,7 @@ COD,2026-08-30-rdc-strategie-protection-espace-informationnel,,2026-10-19
 COD,2026-09-17-cod-cpj-journalist-muntu-whatsapp-post,,2026-10-19
 COD,2026-09-21-cod-rdc-l-olpa-alerte-sur-la-multiplication-des-atteintes-a-la-liberte-de,,2026-11-12
 COD,2026-09-23-cod-drc-journalist-arrested-on-allegations-of-defaming-musician-fally-ipup,,2026-11-12
+COD,2026-09-29-cod-acces-a-linformation-patrick-muyaya-reaffirme-lengagement-du-gouvernem,,2026-11-23
 COD,2026-10-01-drc-senate-social-media-ban-under-13,,2026-10-19
 COD,2026-10-06-cod-rdc-la-diffamation-dans-les-reseaux-sociaux-punissable-par-le-code-du,,2026-10-28
 COD,2026-10-07-ago-africa-s-governments-already-treat-the-internet-as-protest-infrastruct,,2026-11-12
@@ -189,6 +194,8 @@ EGY,2026-02-20-egy-applogic-response-accessnow-egypt-exit,,2026-10-19
 EGY,2026-03-11-egy-senate-reviews-legislative-impact-of-cybercrime-law-175,,2026-10-28
 EGY,2026-04-13-egy-almanassa-scmr-block-egyptke,,2026-10-19
 EGY,2026-06-23-egy-people-of-internet-misinformation-laws-deepfake-gap,,2026-10-21
+EGY,2026-08-17-egy-aljazeera-foi-bill-after-12-years,,2026-11-23
+EGY,2026-09-22-egy-masrawy-rashwan-foi-law-social-media-regulation,,2026-11-23
 EGY,2026-10-02-egy-hrw-arrest-matsda2sh-newsroom,,2026-10-19
 EGY,2026-10-13-paradigm-initiative-statement-achpr-89th-session-human-rights-situation-africa,,2026-10-19
 EGY,2026-10-28-egy-egypt-fines-prominent-editor-lina-attalah-and-shuts-independent-news-o,,2026-11-12
@@ -259,6 +266,7 @@ GHA,2026-10-20-gha-data-protection-commission-warns-against-exposure-of-evacuate
 GHA,2026-10-21-gna-ghana-dpc-evacuee-personal-data,,2026-10-23
 GHA,2026-11-08-gha-afenyo-markin-calls-for-repeal-of-section-208-of-criminal-offences-act,,2026-11-12
 GHA,2026-11-11-gha-national-identification-authority-homepage,,2026-11-13
+GHA,2026-11-20-gha-right-to-information-commission-at-six,,2026-11-23
 GIN,2025-06-03-sen-will-the-ecowas-judgment-on-senegal-redefine-digital-rights-in-francop,,2026-11-12
 GIN,2025-07-21-lbr-liberia-ecowas-plan-second-subsea-cable-for-five-west-african-countrie,,2026-11-12
 GIN,2025-08-21-gin-wearetech-maconstitution-plateforme,,2026-10-20
@@ -286,6 +294,7 @@ GIN,2026-10-01-gin-guinea-s-media-regulator-suspends-four-web-tvs-bans-france-24
 GIN,2026-10-28-guinee-lfr-medias-publics-risques-coupure-internet,,2026-10-29
 GMB,2025-01-01-gmb-the-gambia-freedom-on-the-net-2025-country-report,,2026-11-12
 GMB,2025-07-21-lbr-liberia-ecowas-plan-second-subsea-cable-for-five-west-african-countrie,,2026-11-12
+GMB,2025-10-15-gmb-access-to-information-key-to-combating-misinformation-information-comm,,2026-11-23
 GMB,2025-10-23-gmb-new-criminal-law-and-draft-cybercrime-bill-in-the-gambia-threatens-pre,,2026-10-28
 GMB,2026-01-01-gmb-the-gambia-freedom-on-the-net-2026-country-report,,2026-11-12
 GMB,2026-04-02-pura-gambia-draft-broadcasting-and-online-content-regulations-2026,,2026-10-19
@@ -355,6 +364,7 @@ KEN,2026-09-07-kenya-cofek-high-court-quashes-ag-opinion-nightigale,,2026-10-19
 KEN,2026-09-14-ken-thestar-isaboke-national-communication-policy,,2026-10-19
 KEN,2026-09-16-gov-t-to-tackle-misinformation-through-coordinated-communication-as-ps-isaboke-u,,2026-10-19
 KEN,2026-09-29-ken-nairobiexposed-matey-v-safaricom-data-access-ruling,,2026-10-19
+KEN,2026-10-05-ken-the-right-to-know-must-reach-everyone-kenya-celebrates-access-to-infor,,2026-11-23
 KEN,2026-10-07-ago-africa-s-governments-already-treat-the-internet-as-protest-infrastruct,,2026-11-12
 KEN,2026-10-15-ssd-salc-oral-statement-cybercrime-law,,2026-10-19
 KEN,2026-10-21-how-spyware-and-digital-surveillance-undermine-democratic-participatio,,2026-10-23
@@ -550,6 +560,7 @@ NER,2024-06-13-ner-communique-de-presse-du-ministere-de-la-justice-et-des-droits
 NER,2025-02-21-globalvoices-impact-africa-meta-scrapping-fact-checking,,2026-10-29
 NER,2025-10-22-niger-strategie-desinformation,,2026-10-19
 NER,2025-11-06-niger-hrw-journalistes-arretes-cybercriminalite,,2026-10-19
+NER,2025-11-10-ner-atelier-d-echange-sur-l-ordonnance-portant-charte-d-acces-a-l-informat,,2026-11-23
 NER,2025-12-01-niger-civicus-suspension-ong,,2026-10-19
 NER,2026-01-01-freedom-house-niger-freedom-in-the-world-2026,,2026-10-19
 NER,2026-01-26-ner-niger-arrests-dw-correspondent-over-report-on-nigerian-refugees,,2026-11-12
@@ -598,6 +609,7 @@ RWA,2024-11-14-rwanda-governance-decentralisation-sector-strategic-plan-2024-202
 RWA,2025-05-09-rwa-the-innovation-hub-at-cmu-africa-boosts-new-tech-entrepreneurs,,2026-11-21
 RWA,2025-10-27-rwa-civicus-ingabire-cybercrime-ruling,,2026-10-19
 RWA,2025-11-12-rwa-rwanda-freedom-on-the-net-2025-country-report,,2026-11-12
+RWA,2025-11-27-rwa-upr-pre-session-on-rwanda-statement,,2026-11-23
 RWA,2026-02-17-rwanda-20th-umushyikirano-resolutions-2026,,2026-10-19
 RWA,2026-03-01-rwa-rwanda-s-suppression-of-information-dissemination,,2026-11-13
 RWA,2026-03-10-rwanda-upr-pre-session-statement-2026,,2026-11-12
@@ -646,17 +658,22 @@ SEN,2025-08-26-loi-2025-15-relative-acces-a-l-information,,2026-10-19
 SEN,2025-09-25-jo-senegal-7851-loi-2025-15-acces-a-linformation,,2026-10-19
 SEN,2025-10-29-conseil-des-ministres-du-29-octobre-2025,,2026-10-19
 SEN,2026-01-01-rsf-world-press-freedom-index-senegal,,2026-10-19
+SEN,2026-01-01-sen-le-droit-d-acces-a-l-information-comme-pilier-democratique,,2026-11-23
 SEN,2026-02-23-sen-senegal-tv-commentator-detained-for-disputing-prosecutor-s-statement,,2026-11-12
 SEN,2026-03-01 Rising Repression Meets Global Resistance Internet Shutdowns in 2025,,2026-10-19
 SEN,2026-03-03-aps-conseil-national-regulation-des-medias-adopte,,2026-10-19
 SEN,2026-03-31-sen-senegal-s-media-overhaul-sparks-concern,,2026-11-13
 SEN,2026-04-07-sen-conseil-constitutionnel-decision-2-c-2026-cnrm,,2026-10-19
 SEN,2026-04-10-sen-loi-2026-09-conseil-national-regulation-medias,,2026-10-19
+SEN,2026-04-16-sen-ordonnance-n11-2026-de-la-cour-supreme-du-senegal-rejet-d-une-requete,,2026-11-23
+SEN,2026-06-08-sen-senegal-acces-a-l-information-la-loi-votee-peu-d-effet,,2026-11-23
+SEN,2026-08-03-sen-la-conai-toujours-pas-installee-un-an-apres-son-adoption-un-blocage-ju,,2026-11-23
 SEN,2026-08-07-sen-senegal-three-supporters-of-opposition-party-sentenced-for-offending-t,,2026-11-12
 SEN,2026-09-06-seneweb-senegal-pylones-telecoms-tas-questions-ecrites,,2026-10-19
 SEN,2026-09-08-sen-bourses-familiales-le-rnu-compte-1-000-649-menages-apres-la-recertific,,2026-11-21
 SEN,2026-09-10-cipesa-mozambique-internet-shutdown-african-courts,,2026-10-19
 SEN,2026-09-17-sen-paradigm-initiative-conseil-constitutionnel-cnrm-ruling,,2026-10-19
+SEN,2026-09-28-sen-acces-a-l-information-un-an-apres-la-loi-le-mur-du-silence-administrat,,2026-11-23
 SEN,2026-10-07-ago-africa-s-governments-already-treat-the-internet-as-protest-infrastruct,,2026-11-12
 SEN,2026-10-13-paradigm-initiative-statement-achpr-89th-session-human-rights-situation-africa,,2026-10-19
 SEN,2026-10-15-ssd-salc-oral-statement-cybercrime-law,,2026-10-19
@@ -676,6 +693,7 @@ SOM,2024-03-18-som-speaker-madobe-launches-digital-platform-for-public-consultat
 SOM,2024-11-01-som-somaliren-showcases-the-somali-research-and-education-repository-sorer,,2026-11-21
 SOM,2024-11-18-sjs-media-organizations-condemn-facebook-cyberattacks,,2026-10-28
 SOM,2025-03-03-som-somali-government-launches-brutal-crackdown-on-free-speech-journalists,,2026-11-12
+SOM,2025-09-27-som-somalia-marking-international-access-to-information-day-while-silencin,,2026-11-23
 SOM,2025-10-28-somalia-upr-joint-submission-access-to-information,,2026-10-19
 SOM,2025-12-17-som-policy-brief-strengthening-governance-and-responsible-use-of-social-me,,2026-11-12
 SOM,2026-05-02-eth-amnesty-east-southern-africa-media-freedom,,2026-10-19
@@ -693,6 +711,9 @@ SSD,2021-11-01-analysis-of-the-south-sudan-cybercrimes-and-computer-misuse-provi
 SSD,2025-01-24-social-media-shutdown-cpj,,2026-10-19
 SSD,2025-01-28-ssd-amdiss-facebook-tiktok-ban-lifted,,2026-10-19
 SSD,2025-04-30-ssd-211check-nbs-not-recruiting-census-staff,,2026-10-19
+SSD,2025-05-04-ssd-behind-the-silence-south-sudanese-journalists-struggle-for-access-to-i,,2026-11-23
+SSD,2025-06-28-ssd-information-access-still-limited-despite-media-laws-ujoss-sg,,2026-11-23
+SSD,2025-10-21-ssd-media-regulation-faulted-for-south-sudan-s-struggle-with-right-to-acce,,2026-11-23
 SSD,2025-10-22-ssd-drf-cybercrimes-bill-ai-provisions,,2026-10-19
 SSD,2025-10-23-ssd-south-sudan-mps-advance-cybercrime-bill-to-final-vote,,2026-10-26
 SSD,2025-10-24-ssd-cybercrime-bill-faces-backlash-over-rights-concerns,,2026-11-13
@@ -729,9 +750,11 @@ SYC,2026-08-11-seychelles-afrobarometer-media-oversight-access-information,,2026
 SYC,2026-08-26-statehouse-seychelles-cabinet-business-26-august,,2026-10-19
 SYC,2026-11-21-xea-eastafrican-digital-freedom-declining-iiag-2026,,2026-11-22
 TCD,2024-01-01-tcd-projet-d-appui-au-renforcement-des-institutions-de-la-chaine-penale-20,,2026-11-12
+TCD,2024-09-28-tcd-tachad-ujt-proposition-loi-securite-journalistes-acces-information,,2026-11-23
 TCD,2024-11-22-tcd-ndjampost-hama-consultation-cahier-charges-web,,2026-10-19
 TCD,2025-02-12-coupure-internet-lac-internet-society,,2026-10-19
 TCD,2025-08-29-tcd-telecoms-ndjamena-accentue-la-pression-sur-airtel-moov-et-starlink,,2026-10-30
+TCD,2025-08-30-tcd-tchadinfos-ujt-rsf-filature-proposition-loi-protection-journalistes,,2026-11-23
 TCD,2025-11-24-tcd-tchad-la-presidence-de-la-republique-interdit-toute-deformation-des-im,,2026-10-21
 TCD,2026-03-01 Rising Repression Meets Global Resistance Internet Shutdowns in 2025,,2026-10-19
 TCD,2026-03-31-xaf-resilience-and-resistance-internet-shutdowns-in-africa-in-2025,,2026-11-12
@@ -741,11 +764,14 @@ TCD,2026-08-04-hama-suspend-demandes-creation-journaux-en-ligne-tchad,,2026-10-1
 TCD,2026-08-05-chad-amet-online-media-regulation-response,,2026-10-19
 TCD,2026-09-04-lendjampost-code-for-africa-graphika-journalistes-fantomes,,2026-10-19
 TCD,2026-09-10-tcd-toumaiwebmedias-lac-citoyen-connectivite-internet,,2026-10-19
+TCD,2026-10-07-tcd-tchadinfos-ujt-assemblee-relance-reformes-presse,,2026-11-23
 TGO,2024-03-18-tgo-capacity-equiano-togo-cls-traffic,,2026-10-19
+TGO,2024-06-30-tgo-togoreveil-conapp-atelier-loi-acces-information,,2026-11-23
 TGO,2025-06-03-sen-will-the-ecowas-judgment-on-senegal-redefine-digital-rights-in-francop,,2026-11-12
 TGO,2025-07-04-tgo-lipdcp-participe-a-linitiative-dipes,,2026-11-12
 TGO,2025-10-03-togo-justice-met-en-garde-usage-abusif-plateformes-numeriques,,2026-10-19
 TGO,2025-10-18-tgo-liberte-de-la-presse-face-a-lintelligence-artificielle-debattue-a-luni,,2026-11-12
+TGO,2025-12-29-tgo-linterview-cpj2dh-debat-loi-2016-006-acces-information,,2026-11-23
 TGO,2026-03-01 Rising Repression Meets Global Resistance Internet Shutdowns in 2025,,2026-10-19
 TGO,2026-03-31-xaf-resilience-and-resistance-internet-shutdowns-in-africa-in-2025,,2026-11-12
 TGO,2026-08-14-iati-xm-dac-7-ppr-260001238-profoe-wa-freedom-expression,,2026-10-19
@@ -761,6 +787,7 @@ TUN,2024-03-19-tun-tunisie-transformation-digitale-l-etat-accelere-les-chantiers
 TUN,2024-07-22-tunisie-circulaire-16-cloud-computing-structures-publiques,,2026-10-19
 TUN,2025-04-11-tun-snjt-contre-les-articles-liberticides-du-decret-loi-54,,2026-11-12
 TUN,2025-06-01-ipi-cybercrime-laws-lawfare-against-the-press,,2026-10-19
+TUN,2025-08-28-tun-rsf-fermeture-inai-droit-information,,2026-11-23
 TUN,2025-10-22-arp-commission-legislation-generale-mrsoum-54-2022-amendement,,2026-10-19
 TUN,2026-01-27-tunisie-parlement-revision-decret-54-priorite,,2026-10-19
 TUN,2026-04-30-tunisie-rsf-world-press-freedom-index-2026,,2026-10-19

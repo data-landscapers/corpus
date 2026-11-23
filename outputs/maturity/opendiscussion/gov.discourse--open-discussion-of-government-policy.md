@@ -24,8 +24,8 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 | 4 Operating | 0 |
 | 3 Established | 0 |
 | 2 Nascent | 28 |
-| 1 Absent | 16 |
-| Unplaced | 8 |
+| 1 Absent | 17 |
+| Unplaced | 7 |
 | No evidence | 2 |
 
 ## Countries
@@ -297,9 +297,15 @@ Mali banned the online circulation of Jeune Afrique in January 2026 and blocked 
 
 ### Niger: 1 Absent
 
-In 2026 Niger suspended nine foreign outlets and charged journalists and a lawyer for their words; no source found reports public criticism of policy.
+In 2026 Niger suspended nine foreign outlets and charged journalists and a lawyer for their words; Transparency International's chapter criticised the cybercrime ordinance in 2025.
 
 - CPJ reports the ONC suspended nine outlets from reaching audiences in Niger, with a France 24 channel screen showing 'program blocked' ([source, 2026-05-08](https://cpj.org/2026/05/niger-suspends-9-french-media-outlets-for-alleged-public-order-threat/)).
+
+### Rwanda: 1 Absent
+
+ARTICLE 19 said in November 2025 that independent news sites remained blocked in Rwanda; no public criticism of policy inside the country has been found.
+
+- ARTICLE 19 told the UPR pre-session on 27 November 2025 that independent online news sites including The Rwandan and Le Prophete, and local diaspora platforms, remain blocked; it does not say who ordered the block ([source, 2025-11-27](https://upr-info.org/sites/default/files/country-document/2025-12/Rwanda_Article_19_statement.pdf)).
 
 ### Sudan: 1 Absent
 
@@ -355,12 +361,6 @@ Not established: No source dated in the last three years says a newspaper, broad
 Two MPs were arrested in 2026 and a news site closed in 2025; policy criticism and internet cuts not known, so no stage is set.
 
 Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
-
-### Rwanda: Unplaced
-
-The only records are journalists jailed or arrested in 2021, and nothing found shows policy criticised in public, so no stage is set.
-
-Not established: Nothing found says government policy is criticised in public inside the country, or that the internet was cut. The journalists held are recorded from 2021.
 
 ### South Africa: Unplaced
 

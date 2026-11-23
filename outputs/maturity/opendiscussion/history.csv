@@ -52,3 +52,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-12,SLE,gov.discourse--open-discussion-of-government-policy,fact,unplaced,2,SLE-003,"SLAJ raised concerns over NaTCA's July 2025 withdrawal of two broadcasters' frequencies; question 1 met, unplaced to 2."
 2026-11-12,ZAF,gov.discourse--open-discussion-of-government-policy,fact,no evidence,unplaced,,"CPJ: criminal defamation repealed April 2024; question 1 not met, so no evidence to unplaced."
 2026-11-22,TZA,gov.discourse--open-discussion-of-government-policy,fact,1,1,TZA-022,"The EastAfrican reports state throttling around the 6 November 2026 Lissu sentencing: a cut inside the twelve months, so stage 1 holds"
+2026-11-23,RWA,gov.discourse--open-discussion-of-government-policy,fact,unplaced,1,RWA-004,"ARTICLE 19 said on 27 November 2025 that independent news sites remain blocked, a block in force inside the twelve months; unplaced to 1."
+2026-11-23,NER,gov.discourse--open-discussion-of-government-policy,fact,1,1,NER-011,ANLC/TI-Niger's public criticism of 10 November 2025 answers question 1; the May 2026 block keeps stage 1.

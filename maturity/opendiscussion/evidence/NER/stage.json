@@ -4,15 +4,15 @@
     {
       "sub_indicator": "discussion",
       "stage": "1",
-      "debate": "",
+      "debate": "criticised",
       "connection": "cut",
       "penalty": "punished",
       "cap": "",
       "flags": "",
       "stage_sources": "NER-011",
-      "gaps": "",
-      "note": "Counted from the four questions by study-ladder-opendiscussion.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No repeal or court ruling striking down a speech offence in the last three years has been found.",
+      "note": "The ONC's suspension of nine outlets on 8 May 2026 (NER-011) is a block inside the twelve months, which places stage 1. ANLC/TI-Niger's criticism of 10 November 2025 (NER-016) answers question 1 and does not lift it.",
+      "as_at": "2026-11-23"
     }
   ]
 }
