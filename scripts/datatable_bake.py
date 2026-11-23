@@ -99,6 +99,11 @@ def link_cell(url: str) -> str:
             f'title="{esc(url)}">{esc(label)}</a>')
 
 
+def icon_cell(url: str, icon: list[str]) -> str:
+    """`iconCell`: an on-site link shown as one mark (`data-link-icons`)."""
+    return f'<a href="{esc(url)}" title="{esc(icon[1])}" aria-label="{esc(icon[1])}">{esc(icon[0])}</a>'
+
+
 def collation_key(s: str) -> tuple:
     """Near enough to `localeCompare(…, {numeric: true})` for names and codes: accents and
     case set aside, and a run of digits read as a number."""
@@ -189,6 +194,7 @@ def table_html(a: dict[str, str], headers: list[str], rows: list[list[str]]) -> 
     grouped = {i for i in (find(c) for c in names(a.get("data-thousands"))) if i > -1}
     labels = {find(c): m for c, m in _json(a.get("data-labels")).items() if find(c) > -1}
     badges = {find(c): m for c, m in _json(a.get("data-badges")).items() if find(c) > -1}
+    icons = {find(c): m for c, m in _json(a.get("data-link-icons")).items() if find(c) > -1}
 
     def display(ci: int, v: str) -> str:
         if ci in grouped and _PLAIN_NUMBER.match(v):
@@ -198,6 +204,8 @@ def table_html(a: dict[str, str], headers: list[str], rows: list[list[str]]) -> 
     def cell(ci: int, v: str) -> str:
         if not v:
             return ""
+        if ci in icons:
+            return icon_cell(v, icons[ci])
         if ci in links:
             return link_cell(v)
         shown = display(ci, v)
@@ -229,7 +237,7 @@ def table_html(a: dict[str, str], headers: list[str], rows: list[list[str]]) -> 
         ordered = sorted(rows, key=cmp_to_key(compare))
 
     floor = float(a.get("data-min-col-width") or 0)
-    widths = [max(column_width(headers[ci], [display(ci, r[ci]) for r in rows],
+    widths = [max(column_width(headers[ci], [icons[ci][0] if ci in icons else display(ci, r[ci]) for r in rows],
                                NUM_PX * 0.6 / 0.52 if ci in numeric else CELL_PX, ci in links),
                   math.ceil(floor)) for ci in cols]
 

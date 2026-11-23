@@ -818,10 +818,11 @@ def method_page(data: dict, studies: list[dict]) -> str:
 
 # ---------------------------------------------------------------------------
 
-MOVEMENT_FIELDS = ["Date", "Country", "Chapter", "Topic", "Indicator", "From", "To", "Evidence"]
+MOVEMENT_FIELDS = ["Date", "Map", "Country", "Chapter", "Topic", "Indicator", "From", "To", "Evidence"]
 MOVEMENT_ALL = {"Chapter": "All chapters", "Topic": "All topics", "Indicator": "All indicators",
                 "Country": "All countries", "From": "From any stage", "To": "To any stage"}
-MOVEMENT_CHARS = {"Date": 14, "From": 15, "To": 15}   # so a date or a stage's name holds one line
+MOVEMENT_ICONS = {"Map": ["↗", "Show on the map"]}
+MOVEMENT_CHARS = {"Map": 4, "Date": 12, "From": 14, "To": 14}   # so a date or a stage's name holds one line
 
 
 def stage_label(raw: str) -> str:
@@ -839,7 +840,9 @@ def movement_rows(data: dict, studies: list[dict]) -> list[dict]:
         for h in s["history"]:
             ind = data["indicators"].get(h["indicator_id"])
             if ind and h["kind"] == "fact" and h["from"] != h["to"] and h["date"] >= CHANGES_FROM:
-                rows.append(dict(Date=h["date"], Chapter=chapter.get(ind["topic"], ""), Topic=ind["topic"],
+                # `maturity-map.js` opens on `#indicator|ISO3`.
+                rows.append(dict(Date=h["date"], Map=f'{SITE_BASE}/maturity/#{h["indicator_id"]}%7C{h["iso3"]}',
+                                 Chapter=chapter.get(ind["topic"], ""), Topic=ind["topic"],
                                  Indicator=ind["label"], Country=data["countries"].get(h["iso3"], h["iso3"]),
                                  From=stage_label(h["from"]), To=stage_label(h["to"]),
                                  Evidence=h["note"].strip()))
@@ -865,6 +868,7 @@ def movement_page(csv_name: str, n: int, artefacts: str) -> str:
       data-filters="Country, Chapter, Topic, Indicator, From, To"
       data-filter-all="{html.escape(json.dumps(MOVEMENT_ALL), quote=True)}"
       data-col-chars="{html.escape(json.dumps(MOVEMENT_CHARS), quote=True)}"
+      data-link-icons="{html.escape(json.dumps(MOVEMENT_ICONS, ensure_ascii=False), quote=True)}"
       data-sort="Date:desc"
       data-empty="No stage change matches those filters.">
       <div class="dt-controls">

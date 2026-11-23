@@ -1,4 +1,4 @@
-/* datatable.js — the shared data table for data-landscapers and Corpus. v6 (2026-11-20)
+/* datatable.js — the shared data table for data-landscapers and Corpus. v7 (2026-11-23)
 
    **This file is canonical.** It lives in `data-landscapers/assets/shared/` and
    Corpus carries a copy at `site/assets/js/datatable.js` with a `DATATABLE-FROM`
@@ -20,6 +20,7 @@
           data-thousands="budget_usd"              show these with thousand separators
           data-filter-all='{"aid":"Aid and non-aid"}'  a filter's unfiltered option
           data-links="url"                         render these as links
+          data-link-icons='{"map":["↗","Show on the map"]}'  an on-site link as a mark
           data-labels='{"recipient_country":{"ZAF":"South Africa"}}'
           data-tips='{"sector":"What the money is for"}'  a column header's tooltip
           data-badges='{"sovereignty_category":{"Fully African":"green"}}'
@@ -117,6 +118,13 @@
      - The sticky offset counts any sticky element marked `data-dt-above`, beside the
        site's own bars, so a page's search bar outside the table can stay put with
        the table's header parked beneath it.
+
+   ── v7 (2026-11-23) ─────────────────────────────────────────────────────────
+
+   `data-link-icons` shows a column of on-site URLs as one mark, with its words in
+   the tooltip and for a screen reader. The link opens in the same tab, and the
+   search box skips the column, since every URL in it carries the site's own name.
+   Inert elsewhere.
 */
 (function () {
   'use strict';
@@ -197,6 +205,12 @@
     if (label.length > 64) label = label.slice(0, 63) + '…';
     return '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer" title="'
       + esc(url) + '">' + esc(label) + '</a>';
+  }
+
+  /* `icon` is `[mark, words]`, from `data-link-icons`. */
+  function iconCell(url, icon) {
+    return '<a href="' + esc(url) + '" title="' + esc(icon[1]) + '" aria-label="'
+      + esc(icon[1]) + '">' + esc(icon[0]) + '</a>';
   }
 
   function debounce(fn, ms) {
@@ -494,6 +508,10 @@
     if (container.dataset.colChars) {
       try { colChars = JSON.parse(container.dataset.colChars); } catch (e) { colChars = {}; }
     }
+    var linkIcons = {};
+    if (container.dataset.linkIcons) {
+      try { linkIcons = JSON.parse(container.dataset.linkIcons); } catch (e) { linkIcons = {}; }
+    }
     var baked = container.querySelector('.dt-baked');       // the first rows, written at build
     var msg = document.createElement('p');
     msg.className = 'dt-msg';
@@ -527,6 +545,10 @@
         var linkCols = {};
         list(container.dataset.links).forEach(function (c) {
           var i = findCol(headers, c); if (i > -1) linkCols[i] = true;
+        });
+        var iconFor = {};                        // column index -> [mark, words]
+        Object.keys(linkIcons).forEach(function (c) {
+          var i = findCol(headers, c); if (i > -1) iconFor[i] = linkIcons[c];
         });
         var tipFor = {};                         // column index -> header tooltip
         Object.keys(tips).forEach(function (c) {
@@ -697,6 +719,7 @@
             }
             if (!q) return true;
             for (var i = 0; i < headers.length; i++) {        // search every field,
+              if (iconFor[i]) continue;                       // bar a column of on-site links
               if ((r[i] || '').toLowerCase().indexOf(q) > -1) return true;   // shown or not
             }
             return false;
@@ -825,6 +848,7 @@
         /* ── rows ────────────────────────────────────────────────────────── */
         function cellHtml(ci, v) {
           if (!v) return '';
+          if (iconFor[ci]) return iconCell(v, iconFor[ci]);
           if (linkCols[ci]) return linkCell(v);
           var shown = display(ci, v);
           if (badges[ci]) {
@@ -900,7 +924,8 @@
             var v = row[ci];
             if (!v) return '';
             return '<dt>' + esc(headers[ci]) + '</dt><dd>'
-              + (linkCols[ci] ? linkCell(v) : esc(display(ci, v))) + '</dd>';
+              + (iconFor[ci] ? iconCell(v, iconFor[ci])
+                 : linkCols[ci] ? linkCell(v) : esc(display(ci, v))) + '</dd>';
           }).join('');
           return '<td class="dt-detail__cell" colspan="' + (cols.length + 1) + '">'
             + (dl ? '<dl>' + dl + '</dl>' : '<p>Every field for this row is already in the table.</p>')

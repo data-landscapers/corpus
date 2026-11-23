@@ -1,6 +1,7 @@
 ## 23 November 2026
 
 - The Maturity Assessment has a new Movement page listing every stage change on new evidence since 16 November 2026. Filter it by chapter, topic, indicator, country or stage, or download it as a CSV.
+- Each row on the Movement page now links to the Maturity map. The arrow opens that indicator with that country selected.
 
 ## 22 November 2026
 
