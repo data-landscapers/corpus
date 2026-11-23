@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: NGA
-ledger_rows: 143
+ledger_rows: 144
 not_held: 8
-record: 0e47b585a4fd
+record: c85926113885
 ---
 
 # News, Oct – Nov 2026
@@ -407,6 +407,20 @@ Nigeria's Data Protection Commission held its first practical audit training for
 **[2027: Experts accuse INEC of failing data transparency test](https://guardian.ng/politics/2027-experts-accuse-inec-of-failing-data-transparency-test/)** — The Guardian Nigeria, 16 November 2026
 
 The Digital Rights Lawyers Initiative said on 16 November 2026 that Nigeria's electoral commission has not disclosed how it handles voters' data. It has also not said who runs its BVAS and IReV platforms. The data protection commission listed INEC as compliant for one past year only. The initiative has gone to court.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SERAP suit on voter-register data (FHC/ABJ/CS/2863/2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SERAP sues NDPC, INEC over alleged AI manipulation of voters' register](https://serap-nigeria.org/2026/11/22/serap-sues-ndpc-inec-over-alleged-ai-manipulation-of-voters-register/)** — Socio-Economic Rights and Accountability Project (SERAP), 22 November 2026
+
+Suit FHC/ABJ/CS/2863/2026 seeks mandamus for NDPC probe under NDPA s.65; ABIS flagged 268 records.
 
 </div>
 
