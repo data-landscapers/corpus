@@ -1,26 +1,15 @@
 {
- "slug": "2026-11-20-xaf-who-will-safeguard-africa-s-ai-economy",
- "facts": [
-  {
-   "sub_indicator": "readiness",
-   "aspect": "foundation",
-   "value": "body",
-   "fact": "OLAM Africa says Kenya established its National Computer Incident Response Team-Coordination Centre as a multi-agency mechanism for coordinating cybersecurity responses.",
-   "as_of": "2026-11-20",
-   "date_precision": "day",
-   "system": "National Computer Incident Response Team-Coordination Centre",
-   "class": "response"
-  }
- ],
- "systems": [
-  {
-   "system": "National Computer Incident Response Team-Coordination Centre",
-   "country_label": "National Computer Incident Response Team-Coordination Centre",
-   "class": "response",
-   "platform": "",
-   "owner": "",
-   "tiers": ""
-  }
- ],
- "note": ""
+  "slug": "2026-11-20-xaf-who-will-safeguard-africa-s-ai-economy",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Computer Incident Response Team-Coordination Centre",
+      "country_label": "National Computer Incident Response Team-Coordination Centre",
+      "class": "response",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "An undated mention of the body held at KEN-001."
 }
