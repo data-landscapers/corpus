@@ -1,17 +1,6 @@
 {
- "slug": "2026-11-20-lbr-how-a-54-million-deal-nearly-handed-liberia-s-identity-registry-to-an-austr",
- "facts": [
-  {
-   "sub_indicator": "law",
-   "aspect": "standing",
-   "value": "in-force",
-   "fact": "The House committee directs that any future ID vendor comply with the Cybercrime Act of 2025, treating it as a binding Liberian law.",
-   "as_of": "2025",
-   "date_precision": "year",
-   "system": "Cybercrime Act of 2025",
-   "class": "law"
-  }
- ],
- "systems": [],
- "note": ""
+  "slug": "2026-11-20-lbr-how-a-54-million-deal-nearly-handed-liberia-s-identity-registry-to-an-austr",
+  "facts": [],
+  "systems": [],
+  "note": "Same House committee recommendation as LBR-029."
 }
