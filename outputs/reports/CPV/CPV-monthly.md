@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: CPV
-ledger_rows: 16
+ledger_rows: 18
 not_held: 22
-record: 99808a2bedd1
+record: 3e80103a94d2
 ---
 
 # News, Oct – Nov 2026
@@ -39,6 +39,20 @@ record: 99808a2bedd1
 </nav>
 
 ### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Decreto-Lei 47/2026, organic law of the infrastructure ministry</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Decreto-Lei n.º 47/2026 de 12 de outubro](https://boe.incv.cv/Bulletins/DownloadAct?id=114033)** — Boletim Oficial de Cabo Verde, 12 October 2026
+
+New infrastructure ministry organic law puts toponymy and addressing policy under MIHOT; revokes DL 62/2021.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -201,6 +215,20 @@ Banco de Cabo Verde governor Óscar Santos again promised a pilot of the Speed m
 **[Retoma do cadastro predial no Tarrafal e São Salvador do Mundo](https://www.inforpress.cv/en/article-11888)** — Inforpress, 9 October 2026
 
 Cabo Verde resumed its building cadastre survey in Tarrafal and São Salvador do Mundo on 9 October 2026, Inforpress reported. Infrastructure minister Carlos Tavares said the work covers about 32,000 buildings: roughly 26,000 in Tarrafal and 6,000 in São Salvador do Mundo. Tavares said the cadastre supports legal security of property and land management.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Municipal address platforms and door numbering</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[São Filipe: Projecto de toponímia avança para associação de nomes às vias, largos e praças do município](https://www.balai.cv/noticias/sao-filipe-projecto-de-toponimia-avanca-para-associacao-de-nomes-as-vias-largos-e-pracas-do-municipio/)** — Balai (Inforpress), 17 November 2026
+
+Fogo council session on 19 November 2026 to match inventoried names to streets, squares and plazas.
 
 </div>
 
