@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: GAB
-ledger_rows: 42
+ledger_rows: 43
 not_held: 11
-record: 9d8ff827bd95
+record: 0b9905a795ce
 ---
 
 # News, Oct – Nov 2026
@@ -791,6 +791,20 @@ ST DIGITAL Gabon and Huawei Technologies Gabon signed a memorandum of understand
 **[Digitalisation : Identitysecu, une innovation au service des usagers et de la Police nationale](https://ethiquemediagabon.net/?p=15389)** — Ethique Media Gabon, 30 October 2026
 
 On 29 October 2026 the police inspectorate and Group IDENTITY signed an agreement for a pilot of the Identitysecu app. Users would file complaints online about police conduct. The pilot is to run for six months to a year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Registre social unifie du Gabon</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Aides sociales : le Registre social unique attendu au plus tard en avril 2028](https://www.gabonreview.com/aides-sociales-le-registre-social-unique-attendu-au-plus-tard-en-avril-2028/)** — GabonReview, 22 November 2026
+
+IT developer by Feb 2027, service by Apr 2028; World Bank-backed; aims to digitise ~90% of non-contributory services.
 
 </div>
 
