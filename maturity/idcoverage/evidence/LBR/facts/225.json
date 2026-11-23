@@ -1,17 +1,6 @@
 {
- "slug": "2026-11-20-lbr-how-a-54-million-deal-nearly-handed-liberia-s-identity-registry-to-an-austr",
- "facts": [
-  {
-   "sub_indicator": "coverage",
-   "aspect": "share",
-   "value": "below",
-   "fact": "Fewer than 15 percent of the population holds an official ID card, according to Biometric Update as cited by FrontPage Africa.",
-   "as_of": "2026-11-20",
-   "date_precision": "day",
-   "system": "National ID card (NIR)",
-   "class": "idsystem"
-  }
- ],
- "systems": [],
- "note": ""
+  "slug": "2026-11-20-lbr-how-a-54-million-deal-nearly-handed-liberia-s-identity-registry-to-an-austr",
+  "facts": [],
+  "systems": [],
+  "note": "Repeats the Biometric Update figure held at LBR-002."
 }
