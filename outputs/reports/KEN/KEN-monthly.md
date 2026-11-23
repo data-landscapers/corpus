@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: KEN
 ledger_rows: 117
 not_held: 5
-record: 43b85c9d6338
+record: 0ae1b8dc1d9b
 ---
 
 # News, Oct – Nov 2026
@@ -108,7 +108,7 @@ Kenya's ICT Cabinet Secretary William Kabogo said at a forum in Naivasha that th
 
 **[The right to know must reach everyone: Kenya celebrates Access to Information Day](https://www.unesco.org/en/articles/right-know-must-reach-everyone-kenya-celebrates-access-information-day)** — UNESCO, 5 October 2026
 
-CAJ 2025 survey: 68.8% aware of right; first State of Openness Report in preparation; 27 African ATI laws.
+UNESCO reported on Kenya's observance of Access to Information Day. A 2025 survey by the Commission on Administrative Justice found 68.8% of respondents aware of the right. It said a first State of Openness Report is in preparation. It also said 27 African countries have adopted access to information laws.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: STP
 ledger_rows: 8
 not_held: 5
-record: fe565e14a87e
+record: 7e4610e1743d
 ---
 
 # News, Oct – Nov 2026
@@ -38,7 +38,7 @@ record: fe565e14a87e
 
 **[Profissionais lamentam não aprovação da lei de acesso à informação em STP](https://rstp.st/2026/10/27/profissionais-lamentam-nao-aprovacao-da-lei-de-acesso-a-informacao-em-stp/)** — Rádio Nacional de São Tomé e Príncipe, 27 October 2026
 
-Draft ATI law held since 2019 still unadopted; access rests on Constitution art. 74 and Decree-Law 25/2005.
+Journalists, lawyers and civil society figures in Sao Tome and Principe said an access to information law has still not been adopted. A draft was presented to parliament in October 2019. The head of the Centre for Public Integrity said the law should first cover public contracts and administrative information.
 
 </div>
 

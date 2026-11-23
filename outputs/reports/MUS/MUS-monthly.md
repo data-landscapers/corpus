@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: MUS
 ledger_rows: 45
 not_held: 7
-record: 353e99fe1395
+record: d145b7cbabde
 ---
 
 # News, Oct – Nov 2026
@@ -802,7 +802,7 @@ Statistics Mauritius trained staff on Phase 2 of its MauStats platform, built wi
 
 **[Programme 2025-2029 : ces grandes promesses pas encore tenues](https://defimedia.info/programme-2025-2029-ces-grandes-promesses-pas-encore-tenues)** — Defimedia, 10 November 2026
 
-FOI Act still undelivered at Nov 2026; Constitutional Review Commission final report due around March 2028.
+Defi Media listed commitments in the Mauritian government's 2025-2029 programme that it says are unmet at November 2026. They include a Freedom of Information Act and a law on political party financing. Another is a stronger legal basis for appointing the Independent Broadcasting Authority's members. It reported that the Constitutional Review Commission was set up over six months late.
 
 </div>
 

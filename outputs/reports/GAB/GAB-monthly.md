@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: GAB
 ledger_rows: 43
 not_held: 11
-record: 0b9905a795ce
+record: 4d66ca3c14b6
 ---
 
 # News, Oct – Nov 2026
@@ -804,7 +804,7 @@ On 29 October 2026 the police inspectorate and Group IDENTITY signed an agreemen
 
 **[Aides sociales : le Registre social unique attendu au plus tard en avril 2028](https://www.gabonreview.com/aides-sociales-le-registre-social-unique-attendu-au-plus-tard-en-avril-2028/)** — GabonReview, 22 November 2026
 
-IT developer by Feb 2027, service by Apr 2028; World Bank-backed; aims to digitise ~90% of non-contributory services.
+Gabon's social affairs minister met World Bank representatives in Libreville on 19 November 2026 to review the single social registry. Its national coordinator said the IT developer should be recruited by February 2027 and the registry in service by April 2028. The registry aims to digitise about 90% of non-contributory social protection services.
 
 </div>
 

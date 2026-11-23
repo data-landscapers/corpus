@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: CMR
 ledger_rows: 38
 not_held: 3
-record: 225a132d4617
+record: 84df7df2a74d
 ---
 
 # News, Oct – Nov 2026
@@ -524,7 +524,7 @@ Cameroonian fintech REasy and Africa Global Logistics presented to Douala trader
 
 **[Fiscalité bancaire : UBA Cameroun intègre le prélèvement de 4 FCFA à ses transactions numériques](https://leconomie.info/article/fiscalite-bancaire-uba-cameroun-integre-le-prelevement-de-4-fcfa-a-ses-transactions-numeriques)** — Le quotidien L'Economie, 20 November 2026
 
-Fixed FCFA 4 charge per digital bank transaction under 2025 finance law, on top of 0.2% levy; FCFA 15bn revenue target.
+UBA Cameroun told customers it now applies a special charge of FCFA 4 per transaction on its digital channels. These are debit and prepaid cards, the Leo assistant, internet banking and Push & Pull. The charge comes from the 2025 finance law, article 228 quinquies of the tax code, in force since 1 January 2025.
 
 </div>
 

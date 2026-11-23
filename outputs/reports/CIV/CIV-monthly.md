@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: CIV
 ledger_rows: 61
 not_held: 9
-record: 2909e722b66f
+record: 73d9f041678c
 ---
 
 # News, Oct – Nov 2026
@@ -54,7 +54,7 @@ record: 2909e722b66f
 
 **[Côte d’Ivoire-AIP/ Six nouveaux commissaires prennent fonction à la CAIDP](https://www.aip.ci/cote-divoire-aip-six-nouveaux-commissaires-prennent-fonction-a-la-caidp/)** — Agence Ivoirienne de Presse, 9 November 2026
 
-Six commissioners replaced 9 Nov 2026 after six-year terms; strategic retreat and national ATI strategy ahead.
+Cote d'Ivoire's access to information commission, the CAIDP, installed six new commissioners on 9 November 2026. Their predecessors' six-year terms had ended. Its president, Anne-Marie Konan-Payne, said the next council meeting would consider terms of reference for a strategic retreat.
 
 </div>
 
@@ -498,7 +498,7 @@ UCL's Institute for Innovation and Public Purpose released its DPI Map dataset o
 
 **[Réforme de la CNI : L’ONECI ouvre ses accès aux enfants de 5 ans](https://www.linfodrome.com/societe/127887-reforme-de-la-cni-l-oneci-ouvre-ses-acces-aux-enfants-de-5-ans)** — Linfodrome, 21 November 2026
 
-Biometric CNI enrolment now from age 5; nationality certificate, birth extract and FCFA 5,000 stamp required.
+Cote d'Ivoire's civil registration and identification office, ONECI, now enrols children from age 5 for the national identity card. The file needs an original nationality certificate and a birth extract under two years old. It also needs a copy of a parent's identity document and an enrolment stamp of FCFA 5,000.
 
 </div>
 

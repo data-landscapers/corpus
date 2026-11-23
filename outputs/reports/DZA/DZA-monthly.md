@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: DZA
 ledger_rows: 47
 not_held: 6
-record: 07d84aa4061f
+record: aaca598db4fb
 ---
 
 # News, Oct – Nov 2026
@@ -88,7 +88,7 @@ Algeria's telecoms regulator ARPCE definitively withdrew, from 22 October 2026, 
 
 **[مشروع وطني لتوحيد العناوين و ترقيم مداخل العمارات](https://www.aljazairalyoum.dz/%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%88%d8%b7%d9%86%d9%8a-%d9%84%d8%aa%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%88%d9%8a%d9%86-%d9%88-%d8%aa%d8%b1%d9%82%d9%8a%d9%85-%d9%85%d8%af%d8%a7/)** — الجزائر اليوم, 5 November 2026
 
-Draft joint ministerial order to standardise naming plates, building numbering and municipal addressing plans.
+Al Jazair Al Youm reported, citing sources, that Algerian authorities have drafted a joint ministerial order on address signs. It would standardise street name plates, building entrance numbering and municipal addressing plans. The draft follows a government meeting on the national addressing strategy to 2030.
 
 </div>
 
@@ -432,7 +432,7 @@ Algeria's interbank card body, GIE Monétique, said on 1 October 2026 that about
 
 **[نشر 180 ألف جهاز للدفع الإلكتروني عبر الوطن](https://www.echoroukonline.com/%d9%86%d8%b4%d8%b1-180-%d8%a3%d9%84%d9%81-%d8%ac%d9%87%d8%a7%d8%b2-%d9%84%d9%84%d8%af%d9%81%d8%b9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d8%b9%d8%a8%d8%b1-%d8%a7%d9%84%d9%88)** — Echorouk El Yawmi, 22 November 2026
 
-Finance minister's instruction 3089 of 22 Nov 2026: 180,000 card terminals in service by 22 Jan 2027 via public banks.
+Algeria's finance ministry said on 22 November 2026 that the minister has ordered 180,000 electronic payment terminals deployed across the wilayas. They are to be in service by 22 January 2027. The public banks' networks will deploy them with the banks' association, ABEF. Progress will be checked weekly.
 
 </div>
 

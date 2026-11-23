@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: GHA
 ledger_rows: 87
 not_held: 9
-record: 0eec58d90ab8
+record: 1936b92c5350
 ---
 
 # News, Oct – Nov 2026
@@ -130,7 +130,7 @@ A Ghanaian science ministry official said at the Africa Geospatial Leadership Fo
 
 **[Right To Information Commission at six](https://www.graphic.com.gh/features/opinion/ghana-news-right-to-information-commission-at-six.html)** — Graphic Online, 20 November 2026
 
-819 RTI applications in 2025, 75% from men; 57 of 119 review cases resolved; regulations still pending.
+Graphic Online marked six years since Ghana's Right to Information Commission was established in October 2019. The catalogue entry gives 819 applications in 2025, 75% from men, and 57 of 119 review cases resolved. It also says the regulations under the Right to Information Act 2019 are still pending.
 
 </div>
 

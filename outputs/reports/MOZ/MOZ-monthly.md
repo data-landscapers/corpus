@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: MOZ
 ledger_rows: 43
 not_held: 17
-record: d64b4d8c132c
+record: afdfd6738c91
 ---
 
 # News, Oct – Nov 2026
@@ -536,7 +536,7 @@ The governor of Banco de Moçambique said on 28 October 2026 that the METIX inst
 
 **[Executivo homologa 1.444 novos nomes geográficos para melhorar endereçamento de cidades e vilas](https://integritymagazine.co.mz/arquivos/71359)** — Integrity Magazine, 20 October 2026
 
-Council of Ministers' 30th session; street and unit names for 14 municipalities, 12 of them new, and one district.
+Mozambique's Council of Ministers approved a resolution confirming 1,444 geographic names for roads and territorial units. The government spokesman said the names cover 14 municipalities, including 12 new ones, and one district. The stated aim is to keep toponymy current and improve town addressing.
 
 </div>
 
@@ -550,7 +550,7 @@ Council of Ministers' 30th session; street and unit names for 14 municipalities,
 
 **[INCM divulga novo Código de Endereçamento Postal em Pemba, com implementação prevista para 2027](http://www.semfronteirasfm.org/2026/10/incm-divulga-novo-codigo-de.html)** — Rádio Sem Fronteiras Pemba, 21 October 2026
 
-Decree 74/2024 sets an eight-digit hyphenated code replacing the Decree 28/2019 model; gradual roll-out from 2027.
+Mozambique's communications institute, INCM, presented the new postal address code in Pemba on 21 October 2026. Decree 74/2024 sets an eight-digit code with a hyphen, replacing the model in Decree 28/2019. Implementation is planned in stages from 2027.
 
 </div>
 

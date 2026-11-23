@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: COM
 ledger_rows: 12
 not_held: 22
-record: b1d394b35f70
+record: 3088eb215eca
 ---
 
 # News, Oct – Nov 2026
@@ -144,7 +144,7 @@ The second phase of Comoros's civil-registration modernisation project was repor
 
 **[Policies, Procedures, and Forms Updates](https://about.usps.com/postal-bulletin/2026/pb22713/html/updt_001.htm)** — United States Postal Service, 15 October 2026
 
-Comoros 5-digit postcode required on US mail from 15 October 2026, per UPU circular 126 of 24 August 2026.
+The United States Postal Service said that from 15 October 2026 mail to Comoros must carry a 5-digit postcode. It placed the code to the left of the locality name and above the country name. The change follows a request from La Poste Comores through Universal Postal Union circular 126 of 24 August 2026.
 
 </div>
 

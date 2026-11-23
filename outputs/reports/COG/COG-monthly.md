@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: COG
 ledger_rows: 26
 not_held: 6
-record: 386baeca00fc
+record: cd6c32d720d0
 ---
 
 # News, Oct – Nov 2026
@@ -88,7 +88,7 @@ Congo's money-transfer regulator ARTF will require every money-transfer operator
 
 **[CONGO/DROIT À L’INFORMATION: LE FOSSÉ QUI MAINTIENT LA LUTTE CONTRE LA CORRUPTION À QUAI EN AFRIQUE CENTRALE](https://www.groupecongomedias.com/congo-droit-a-linformation-le-fosse-qui-maintient-la-lutte-contre-la-corruption-a-quai-en-afrique-centrale/)** — Groupe Congo Médias, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
 
-RPDH-Transparency International study, 20 November 2026: Angola alone in Central Africa has a general ATI law.
+The Congolese group RPDH presented a report with Transparency International in Brazzaville on 20 November 2026 on access to information and anti-corruption in Central Africa. It calls on states in the region to enshrine access to information in general laws and enforce them. According to the catalogue entry, Angola alone in the region has such a law.
 
 </div>
 

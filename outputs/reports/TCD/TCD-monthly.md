@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: TCD
 ledger_rows: 26
 not_held: 23
-record: 75ec654dc049
+record: cde4d2efdee0
 ---
 
 # News, Oct – Nov 2026
@@ -86,7 +86,7 @@ Chad's higher-education ministry opened a workshop in N'Djamena on 14 October 20
 
 **[Tchad : l'UJT et l'Assemblée nationale veulent relancer les réformes sur la presse](https://tchadinfos.com/2026/10/07/tchad-lujt-et-lassemblee-nationale-veulent-relancer-les-reformes-sur-la-presse/)** — Tchadinfos, 7 October 2026
 
-UJT meets Assembly communications committee 5 Oct 2026 to revive press-law reform and the journalist-safety bill.
+Chad's journalists' union, the UJT, met the National Assembly's communications committee on 5 October 2026. They discussed reform of press laws, access to public information, journalist safety and media finances. The union asked for a bill on journalists' protection, filed in 2022, to be examined again.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: ZWE
 ledger_rows: 46
 not_held: 5
-record: e001b521711b
+record: 49d772bcf229
 ---
 
 # News, Oct – Nov 2026
@@ -720,7 +720,7 @@ Zimbabwe's Home Affairs Minister Kazembe Kazembe told the National Assembly that
 
 **[MP begs Government to waive traffic fines, cites AI system errors](https://www.newzimbabwe.com/mp-begs-government-to-waive-traffic-fines-cites-ai-system-errors/)** — NewZimbabwe, 22 November 2026
 
-Over 6m STMS violations since June 2026, 40,000 a day; waiver refused; fines enforced at tollgates and ZINARA.
+Opposition MP Zivai Mhetu asked Parliament to waive fines issued by Harare's AI-powered Smart Traffic Management System, citing errors and more than six million violations since June 2026. Leader of Government Business Ziyambi Ziyambi refused. He said unpaid fines are collected when drivers pass tollgates or renew vehicle licences at ZINARA.
 
 </div>
 

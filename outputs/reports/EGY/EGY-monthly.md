@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: EGY
 ledger_rows: 79
 not_held: 35
-record: 6f2ad5513c5e
+record: e6c593b61a89
 ---
 
 # News, Oct – Nov 2026
@@ -232,7 +232,7 @@ Lawyers quoted by Enterprise say Egypt's data rules deter hyperscalers. Each tra
 
 **[«الحق في الحصول على المعلومات».. تفاصيل مذكرة القومي لحقوق الإنسان إلى الحكومة والبرلمان](https://www.almasryalyoum.com/news/details/4415446)** — المصري اليوم, 20 November 2026
 
-Rights council sends cabinet, media ministry and both chambers its guarantees for any information law.
+Egypt's National Council for Human Rights sent a memorandum to the cabinet, the information ministry and both parliamentary chambers. It sets out guarantees it says any law on access to information should contain. The council cited Article 68 of the constitution and said the memo followed more than two years of consultation.
 
 </div>
 

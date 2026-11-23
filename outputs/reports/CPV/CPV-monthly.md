@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: CPV
 ledger_rows: 18
 not_held: 22
-record: 3e80103a94d2
+record: 955a65416a02
 ---
 
 # News, Oct – Nov 2026
@@ -48,7 +48,7 @@ record: 3e80103a94d2
 
 **[Decreto-Lei n.º 47/2026 de 12 de outubro](https://boe.incv.cv/Bulletins/DownloadAct?id=114033)** — Boletim Oficial de Cabo Verde, 12 October 2026
 
-New infrastructure ministry organic law puts toponymy and addressing policy under MIHOT; revokes DL 62/2021.
+Cabo Verde's Council of Ministers issued Decree-Law 47/2026 on 12 October 2026. It sets the structure and functions of the Ministry of Infrastructure, Housing and Spatial Planning. The ministry's remit includes land registry, geographic information and, according to the catalogue entry, toponymy and addressing policy. The decree revokes Decree-Law 62/2021.
 
 </div>
 
@@ -228,7 +228,7 @@ Cabo Verde resumed its building cadastre survey in Tarrafal and São Salvador do
 
 **[São Filipe: Projecto de toponímia avança para associação de nomes às vias, largos e praças do município](https://www.balai.cv/noticias/sao-filipe-projecto-de-toponimia-avanca-para-associacao-de-nomes-as-vias-largos-e-pracas-do-municipio/)** — Balai (Inforpress), 17 November 2026
 
-Fogo council session on 19 November 2026 to match inventoried names to streets, squares and plazas.
+The council of Sao Filipe, on Fogo island in Cabo Verde, scheduled a working session for 19 November 2026. It was to consider matching inventoried place names to the municipality's streets, squares and plazas. The project is run with Cabo Verde's postal service, which has agreed to support street signs and house numbering.
 
 </div>
 

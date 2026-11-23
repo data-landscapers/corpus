@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: LBR
 ledger_rows: 33
 not_held: 6
-record: 78fe3f72e9ba
+record: 023e78df2c30
 ---
 
 # News, Oct – Nov 2026
@@ -544,7 +544,7 @@ Central Bank of Liberia Governor Henry Saamoi set four priorities for the Pay Na
 
 **[Liberia: Daylight Wins Transparency Battle Against Epa](https://allafrica.com/stories/202610130246.html)** — Liberian Observer via allAfrica, 13 October 2026
 
-Information Commission orders EPA to release environmental records within 15 days, fines it L$9,000, voids its rules.
+Liberia's Independent Information Commission ruled for the newspaper The DayLight in its complaint against the Environmental Protection Agency. It ordered the agency to release environmental reports, audits and permits the paper had requested. The commission rejected the agency's blanket withholding of the records. The paper filed the complaint in April 2026.
 
 </div>
 

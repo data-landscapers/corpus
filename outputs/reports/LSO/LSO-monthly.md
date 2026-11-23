@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: LSO
 ledger_rows: 14
 not_held: 4
-record: c581cf75ec0d
+record: 7998b0439e2a
 ---
 
 # News, Oct – Nov 2026
@@ -192,7 +192,7 @@ The Central Bank of Lesotho and the CAFI project launched campaigns urging small
 
 **[IEC moves to harmonise voters' roll](https://lestimes.com/?p=92095)** — Lesotho Times, 20 November 2026
 
-Independent audit: 582,413 records pass Home Affairs verification; 1,857 reset to ineligible.
+Lesotho's Independent Electoral Commission told Parliament's Law and Justice Committee that an independent audit of the voters' roll ran from 26 October to 16 November 2026. All 582,413 records submitted passed Ministry of Home Affairs verification of identity, age and eligibility. The audit reset 1,857 records to ineligible.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-23
 place: NGA
 ledger_rows: 144
 not_held: 8
-record: c85926113885
+record: 968008c5f866
 ---
 
 # News, Oct – Nov 2026
@@ -420,7 +420,7 @@ The Digital Rights Lawyers Initiative said on 16 November 2026 that Nigeria's el
 
 **[SERAP sues NDPC, INEC over alleged AI manipulation of voters' register](https://serap-nigeria.org/2026/11/22/serap-sues-ndpc-inec-over-alleged-ai-manipulation-of-voters-register/)** — Socio-Economic Rights and Accountability Project (SERAP), 22 November 2026
 
-Suit FHC/ABJ/CS/2863/2026 seeks mandamus for NDPC probe under NDPA s.65; ABIS flagged 268 records.
+SERAP has sued Nigeria's Data Protection Commission and Independent National Electoral Commission at the Federal High Court in Abuja. It wants the data commission ordered to investigate suspected AI-generated photographs in the preliminary voters' register. It also asks for a decision on whether the Data Protection Act 2023 was breached. The electoral commission had said its biometric system flagged 268 records.
 
 </div>
 
