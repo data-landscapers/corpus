@@ -5,6 +5,7 @@
                                       -> site/maturity/index.html
                                          site/maturity/data/maturity.json, africa.json
                                          site/maturity/countries/{iso3}/index.html
+                                         site/maturity/movement/index.html + its dated CSV
                                          site/methodology/maturity/index.html
                                          maturity/preview-downloads/*.csv  (Bill's check copies)
 
@@ -50,7 +51,8 @@ import markdown
 from markdown.extensions.toc import slugify
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from chrome_lib import SITE_BASE, MAIN_SITE, chrome, external_links, feedback, foot, ga, info, script, styles  # noqa: E402
+from chrome_lib import SITE_BASE, MAIN_SITE, chrome, external_links, feedback, foot, ga, info, script, styles, with_bom  # noqa: E402
+from datatable_bake import bake  # noqa: E402
 from render import family_bar  # noqa: E402
 import methodology  # noqa: E402  - the Methodology section's page bar
 import editions  # noqa: E402
@@ -527,6 +529,7 @@ def map_page(downloads: dict | None = None, artefacts: str = "") -> str:
       {panel}
       <div class="mat-buttons">
         <a class="mat-btn" id="mat-method" href="../methodology/maturity/">Methodology</a>
+        <a class="mat-btn" id="mat-movement" href="movement/">Movement</a>
         {buttons}
       </div>
     </div>
@@ -815,6 +818,82 @@ def method_page(data: dict, studies: list[dict]) -> str:
 
 # ---------------------------------------------------------------------------
 
+MOVEMENT_FIELDS = ["Date", "Chapter", "Topic", "Indicator", "Country", "From", "To", "Evidence"]
+MOVEMENT_ALL = {"Chapter": "All chapters", "Topic": "All topics", "Indicator": "All indicators",
+                "Country": "All countries", "From": "From any stage", "To": "To any stage"}
+MOVEMENT_CHARS = {"Date": 14, "From": 15, "To": 15}   # so a date or a stage's name holds one line
+
+
+def stage_label(raw: str) -> str:
+    n, state = stage_of(raw)
+    return f'{n} {STAGES[n - 1]["label"]}' if n else state.capitalize()
+
+
+def movement_rows(data: dict, studies: list[dict]) -> list[dict]:
+    """Every stage move on a new fact since the baseline, newest first: the changes box's test
+    without its six-month window. `review` and `ladder` are reassessments, not movement
+    (`study-update.py`), and a `ruling` is never shown."""
+    chapter = {t["name"]: t["group"] for t in data["topics"]}
+    rows = []
+    for s in studies:
+        for h in s["history"]:
+            ind = data["indicators"].get(h["indicator_id"])
+            if ind and h["kind"] == "fact" and h["from"] != h["to"] and h["date"] >= CHANGES_FROM:
+                rows.append(dict(Date=h["date"], Chapter=chapter.get(ind["topic"], ""), Topic=ind["topic"],
+                                 Indicator=ind["label"], Country=data["countries"].get(h["iso3"], h["iso3"]),
+                                 From=stage_label(h["from"]), To=stage_label(h["to"]),
+                                 Evidence=h["note"].strip()))
+    rows.sort(key=lambda r: (r["Chapter"], r["Topic"], r["Indicator"], r["Country"]))
+    rows.sort(key=lambda r: r["Date"], reverse=True)
+    return rows
+
+
+def movement_page(csv_name: str, n: int, artefacts: str) -> str:
+    name = html.escape(csv_name)
+    start = date.fromisoformat(CHANGES_FROM)
+    since = f"{start.day} {start:%B %Y}"
+    body = f"""  <div class="container">
+    <header class="article-header">
+      <div class="article-header__crumb"><a href="../">Maturity Assessment</a></div>
+      <h1 class="article-header__title">Movement</h1>
+      <div class="article-header__byline">Stage changes on new evidence since {since}</div>
+    </header>
+    <div class="dl-datatable"
+      data-src="{name}"
+      data-cols="{", ".join(MOVEMENT_FIELDS)}"
+      data-filters="Chapter, Topic, Indicator, Country, From, To"
+      data-filter-all="{html.escape(json.dumps(MOVEMENT_ALL), quote=True)}"
+      data-col-chars="{html.escape(json.dumps(MOVEMENT_CHARS), quote=True)}"
+      data-sort="Date:desc"
+      data-empty="No stage change matches those filters.">
+      <div class="dt-controls">
+        <span class="dt-title">Stage changes</span>
+        <span class="dt-count">{n} rows</span>
+        <a class="btn btn--sm" href="{name}" download>&darr; CSV</a>
+      </div>
+      <noscript>
+        <p><a href="{name}">Download the CSV</a>.</p>
+      </noscript>
+    </div>
+  </div>"""
+    return page(title="Movement — Maturity Assessment",
+                description="Every change of stage in the Maturity Assessment, with the evidence for it.",
+                canonical=f"{SITE_BASE}/maturity/movement/", depth=2, body=body, body_class="mat-movement-page",
+                sheets=("country.css", "datatable.css"), scripts=script("datatable.js", 2),
+                active="maturity", head=artefacts)
+
+
+def publish_movement(data: dict, studies: list[dict]) -> int:
+    """The table's CSV is a dated edition like the map's downloads, cut only when its bytes move."""
+    out = OUT / "movement"
+    rows = movement_rows(data, studies)
+    body = with_bom(csv_bytes(rows, MOVEMENT_FIELDS))
+    path, _ = editions.publish(body, out, "maturity-movement", ".csv", page=out / "index.html")
+    meta = editions.artefact_meta("maturity-movement", editions.edition_of(path.stem) or "", editions.digest(body))
+    write(out / "index.html", bake(movement_page(path.name, len(rows), meta + "\n"), out))
+    return len(rows)
+
+
 def write(path: Path, text: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     if path.exists() and path.read_text(encoding="utf-8") == text:
@@ -900,6 +979,7 @@ def main() -> int:
     write(live, json.dumps(data, ensure_ascii=False, separators=(",", ":")))
     write(OUT / "data" / "africa.json", json.dumps(geo, separators=(",", ":")))
     write(OUT / "index.html", map_page(data["downloads"], artefacts))
+    moves = publish_movement(data, studies)
 
     iso_names = {c["iso-3"]: c["country-name"] for c in countries}
     n = 0
@@ -914,7 +994,7 @@ def main() -> int:
     write(METHOD_OUT / "index.html", method_page(data, studies))
     ids = sum(len(s["sub_indicators"]) for s in studies)
     print(f"maturity: {len(studies)} study, {ids} indicators -> site/maturity/ + {n} country reports"
-          f" + site/methodology/maturity/; {k} {where}")
+          f" + site/methodology/maturity/ + {moves} moves on site/maturity/movement/; {k} {where}")
     return 0
 
 
