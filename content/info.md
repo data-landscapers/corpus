@@ -54,7 +54,7 @@ The ***All Finance*** dataset combines the above two tables. As far as we are aw
 
 ## Maturity assessment
 
-The maturity assessment dashboard compares the progress of all 54 countries across 115 indicators. The indicators are grouped into 10 chapters and 35 topics. The criteria for classifying each indicator is derived from a norm or target stated in one of the African Union's foundational instruments. 
+The maturity assessment dashboard compares the progress of all 54 countries across 116 indicators. The indicators are grouped into 10 chapters and 35 topics. The criteria for classifying each indicator is derived from a norm or target stated in one of the African Union's foundational instruments. 
 
 Corpus provides country analysis in three separate reports. In addition to this report the ***Status Report*** provides a more detailed summary of all aspects of digital transformation, and the ***Progress Report*** tracks developments that have taken place over the past 12 months.
 
@@ -62,9 +62,9 @@ These assessments are updated overnight whenever new relevant evidence arrives. 
 
 ## Maturity movement
 
-For each country 115 indicators are assessed across five levels of maturity (Absent > Preparing > Establishing > Operating > Mature). Whenever new evidence arrives, through the nightly news sweeps, indicators are updated.
+For each country 116 indicators are assessed across five levels of maturity (Absent > Preparing > Establishing > Operating > Mature). Whenever new evidence arrives, through the nightly news sweeps, indicators are updated.
 
-This table provides a useful snapshot of progress being made. Any stage change is recorded here. The date records when corpus made the change, not necessarily when in-country changes were implemented.
+This table provides a useful snapshot of progress being made. Any stage change based on new evidence is recorded here. The date records when corpus made the change, not necessarily when in-country changes were implemented.
 
 
 ## Methodology
