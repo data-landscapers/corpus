@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: DZA
-ledger_rows: 46
+ledger_rows: 47
 not_held: 6
-record: 5a96c5fad9f6
+record: 07d84aa4061f
 ---
 
 # News, Oct – Nov 2026
@@ -75,6 +75,20 @@ Algeria's draft 2027 finance law proposes that foreign digital platforms selling
 **[Communiqué — retrait définitif de l’autorisation de cloud computing de DATAGIX](https://www.arpce.dz/fr/pub/h9v7b0)** — Autorité de régulation de la poste et des communications électroniques (ARPCE), 22 October 2026
 
 Algeria's telecoms regulator ARPCE definitively withdrew, from 22 October 2026, the general authorisation it issued to DATAGIX in February 2024 to provide cloud hosting and data storage. The regulator cited breaches of the rules in force and told the company to contact it without delay.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft joint order on address plates and plans</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[مشروع وطني لتوحيد العناوين و ترقيم مداخل العمارات](https://www.aljazairalyoum.dz/%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%88%d8%b7%d9%86%d9%8a-%d9%84%d8%aa%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%88%d9%8a%d9%86-%d9%88-%d8%aa%d8%b1%d9%82%d9%8a%d9%85-%d9%85%d8%af%d8%a7/)** — الجزائر اليوم, 5 November 2026
+
+Draft joint ministerial order to standardise naming plates, building numbering and municipal addressing plans.
 
 </div>
 
@@ -411,6 +425,14 @@ The acting director-general of Algeria's salaried workers' social insurance fund
 **[Paiement électronique en Algérie : 23 millions de cartes et 126 000 TPE jusqu’en août 2026](https://algerie-eco.com/2026/10/01/paiement-electronique-en-algerie-23-millions-de-cartes-et-126-000-tpe-a-aout-2026/)** — Algérie Eco, 1 October 2026
 
 Algeria's interbank card body, GIE Monétique, said on 1 October 2026 that about 23 million payment cards were in circulation at the end of August 2026, including 19 million Algérie Poste Edahabia cards, with over 62% active. Payment terminals rose from 78,000 in December 2025 to 126,000, and active online merchants from 644 to 1,034.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[نشر 180 ألف جهاز للدفع الإلكتروني عبر الوطن](https://www.echoroukonline.com/%d9%86%d8%b4%d8%b1-180-%d8%a3%d9%84%d9%81-%d8%ac%d9%87%d8%a7%d8%b2-%d9%84%d9%84%d8%af%d9%81%d8%b9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d8%b9%d8%a8%d8%b1-%d8%a7%d9%84%d9%88)** — Echorouk El Yawmi, 22 November 2026
+
+Finance minister's instruction 3089 of 22 Nov 2026: 180,000 card terminals in service by 22 Jan 2027 via public banks.
 
 </div>
 
