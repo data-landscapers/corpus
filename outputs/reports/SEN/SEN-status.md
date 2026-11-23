@@ -1,12 +1,12 @@
 ---
 title: Senegal: status report
-compiled: 2026-11-22
+compiled: 2026-11-23
 place: SEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 13
-sources_cited: 311
+sources_cited: 312
 sections_written: 39
 not_established: 2
 acquire_lines: 49
@@ -370,7 +370,7 @@ In July 2026 the environment ministry named [persistent gaps in the availability
 ### Open data
 <!-- data.open -->
 
-Senegal [adopted an access to information law, Loi n° 2025-15, in August 2025](https://www.article19.org/resources/senegal-access-to-information-law-will-support-transparency-and-accountability/), which ARTICLE 19 welcomed as a transparency measure. In 2023 the Ibrahim Index scored the country [53.7 out of 100.0 for accessibility of public records, 7th of 54 and up 12.4 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sn.pdf). [It scored 33.9 for disclosure of public records, 26th of 54 and down 2.8](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sn.pdf).
+Senegal [adopted an access to information law, Loi n° 2025-15, in August 2025](https://www.article19.org/resources/senegal-access-to-information-law-will-support-transparency-and-accountability/), which ARTICLE 19 welcomed as a transparency measure. [The commission the law creates had still not been installed on 28 September 2026](https://www.seneweb.com/fr/news/M%C3%A9dias/acces-a-linformation-un-an-apres-la-loi-le-mur-du-silence-administratif-persiste_n_505459.html). In 2023 the Ibrahim Index scored the country [53.7 out of 100.0 for accessibility of public records, 7th of 54 and up 12.4 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sn.pdf). [It scored 33.9 for disclosure of public records, 26th of 54 and down 2.8](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sn.pdf).
 
 [The 2024 Open Data Inventory scores Senegal 8 out of 10 for banking, national accounts and price statistics and 7.5 for balance of payments](https://odin.opendatawatch.com/data). [It scores 5 for trade and 4 for labour](https://odin.opendatawatch.com/data). [Health facilities and reproductive health score 8.5 and education facilities 8, against 6 for gender statistics](https://odin.opendatawatch.com/data). [Population statistics and education outcomes score 5.5 each](https://odin.opendatawatch.com/data). [Natural resources score 8, agriculture and pollution 7, energy 6.5 and the built environment 6](https://odin.opendatawatch.com/data).
 
