@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: ZWE
 ledger_rows: 46
 not_held: 5
-record: cc235eb6d944
+record: e001b521711b
 ---
 
 # News, Oct – Nov 2026
@@ -713,6 +713,14 @@ Zimbabwe's ICT minister Tatenda Mavetera tasked the ministry's new AI Unit with 
 **[Home Affairs Minister admits Smart Traffic Management System makes mistakes amid motorist complaints](https://www.newzimbabwe.com/home-affairs-minister-admits-smart-traffic-management-system-makes-mistakes-amid-motorist-complaints/)** — NewZimbabwe, 6 November 2026
 
 Zimbabwe's Home Affairs Minister Kazembe Kazembe told the National Assembly that the Smart Traffic Management System makes errors when it captures vehicle registration details, NewZimbabwe reported on 6 November 2026. He accepted motorists' complaints of misidentification and a lapse in police validation before tickets are issued. The number-plate system runs at 20 sites in Harare.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[MP begs Government to waive traffic fines, cites AI system errors](https://www.newzimbabwe.com/mp-begs-government-to-waive-traffic-fines-cites-ai-system-errors/)** — NewZimbabwe, 22 November 2026
+
+Over 6m STMS violations since June 2026, 40,000 a day; waiver refused; fines enforced at tollgates and ZINARA.
 
 </div>
 
