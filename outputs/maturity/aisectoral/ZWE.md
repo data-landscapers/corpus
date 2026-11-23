@@ -6,7 +6,7 @@
 
 **Several sectors.** Police use [AI traffic cameras in Harare](<https://www.zimbabwesituation.com/news/govt-pursues-traffic-violators-as-4m-offences-caught-on-camera/>). Since 2024 the health ministry has used [AI X-ray reading for TB screening in Gweru](<https://global.infervision.com/blog/boosting-tb-dectection-in-rural-zimbabwe>).
 
-**Results reported.** In September 2026 police said the traffic system had [detected over four million violations](<https://www.zimbabwesituation.com/news/govt-pursues-traffic-violators-as-4m-offences-caught-on-camera/>). The count stood at 2.3 million in mid-August.
+**Results reported.** In September 2026 police said the traffic system had [detected over four million violations](<https://www.zimbabwesituation.com/news/govt-pursues-traffic-violators-as-4m-offences-caught-on-camera/>). The count stood at 2.3 million in mid-August. In November 2026 an MP told Parliament that [more than six million violations had been recorded since June](<https://www.newzimbabwe.com/mp-begs-government-to-waive-traffic-fines-cites-ai-system-errors/>).
 
 ***Also on file***. [AI Fuel Manager](<https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3>).
 
