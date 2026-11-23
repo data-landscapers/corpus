@@ -10,4 +10,4 @@
 
 ***Also on file***. [Digital investment map](<https://sudanhorizon.com/sudan-investment-map-to-drive-transition-from-paper-based-systems-to-digital-governance/>); [Giga Project Connect](<https://www.omdena.com/blog/giga-unicef>).
 
-***Not found***. No source found since October 2023 says: is a service in use.
+***Not found***. No source found since October 2023 says a government satellite-based farming service is in use.

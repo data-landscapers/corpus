@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is a service in use.
+***Not found***. No source found since October 2023 says a government satellite-based farming service is in use.

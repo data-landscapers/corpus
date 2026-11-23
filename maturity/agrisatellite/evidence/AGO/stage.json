@@ -10,8 +10,9 @@
    "cap": "",
    "flags": "",
    "stage_sources": "AGO-003;AGO-001",
-   "gaps": "No source found since October 2023 says: is a service in use.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
+   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
+   "note": "Angola's ANGEO-1 programme and the AgriWatch agreement of September 2025 show a service being prepared. No source shows a government farming service running, so not 3.",
+   "as_at": "2026-11-23"
   }
  ]
 }

@@ -9,9 +9,10 @@
    "reach": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "UGA-001;UGA-002",
-   "gaps": "No source found since October 2023 says: is a service in use.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
+   "stage_sources": "UGA-002",
+   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
+   "note": "NASA Harvest researchers map cropland and estimate yields in Uganda, as reported in March 2026. No government service is shown, so not 3.",
+   "as_at": "2026-11-23"
   }
  ]
 }

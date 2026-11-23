@@ -9,10 +9,10 @@
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-002;KEN-001",
-      "gaps": "No source found since October 2023 says: is a service in use.",
-      "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "KEN-001;KEN-004",
+      "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
+      "note": "Kenya launched CroME in February 2026 to provide crop maps, and in 2024 the ministry planned to add ADM-Kenya products to its bulletin. Both are stated as intended, so not 3.",
+      "as_at": "2026-11-23"
     }
   ]
 }

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-001;GHA-002",
-      "gaps": "No source found since October 2023 says: is a service in use.",
-      "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
+      "note": "GMet tested CRAFT yield hindcasts in 2024 and the Space Science and Technology Institute is building GEOMAIZE. No source shows either in operation, so not 3.",
+      "as_at": "2026-11-23"
     }
   ]
 }

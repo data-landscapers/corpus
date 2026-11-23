@@ -3,15 +3,16 @@
  "cells": [
   {
    "sub_indicator": "agrisat",
-   "stage": "2",
-   "service": "underway",
+   "stage": "unplaced",
+   "service": "",
    "published": "",
    "reach": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "DJI-001",
-   "gaps": "No source found since October 2023 says: is a service in use.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
+   "stage_sources": "",
+   "gaps": "Nothing found since October 2023 names satellite data put to use in farming in Djibouti.",
+   "note": "The only row is IGAD's March 2026 notice for a consultant on the whole IGAD region, which names no work in Djibouti, so it is classed other and sets no rung. Stage 2 to unplaced.",
+   "as_at": "2026-11-23"
   }
  ]
 }

@@ -10,4 +10,4 @@
 
 ***Also on file***. [AIDA](<https://www.fao.org/agroinformatics/news/news-detail/tunisia-strengthens-geospatial-platforms-and-ai-tools-for-sustainable-water-and-oasis-management/en>); [MerWat-Libya](<https://www.agriculture.gov.ly/2020/en/1842/>).
 
-***Not found***. No source found since October 2023 says: is a service in use.
+***Not found***. No source found since October 2023 says a government satellite-based farming service is in use.

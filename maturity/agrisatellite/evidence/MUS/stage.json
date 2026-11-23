@@ -10,8 +10,9 @@
    "cap": "",
    "flags": "",
    "stage_sources": "MUS-001;MUS-002",
-   "gaps": "No source found since October 2023 says: is a service in use.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
+   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
+   "note": "FAREI has taken part in CropWatch activities since 2021 and held a training workshop in September 2025. No service in use is shown, so not 3.",
+   "as_at": "2026-11-23"
   }
  ]
 }

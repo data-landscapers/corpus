@@ -10,8 +10,9 @@
    "cap": "",
    "flags": "",
    "stage_sources": "RWA-001;RWA-002",
-   "gaps": "No source found since October 2023 says: is a service in use.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
+   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
+   "note": "The Rwanda Space Agency and the ministry are testing satellite crop maps in four districts in 2026, and a national Planet programme was announced in August 2026. No service in use is shown, so not 3.",
+   "as_at": "2026-11-23"
   }
  ]
 }

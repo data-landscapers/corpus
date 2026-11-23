@@ -10,4 +10,4 @@
 
 ***Also on file***. [Ghana Agricultural Information and Monitoring System](<https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/>); [National Forest Monitoring System](<https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/>).
 
-***Not found***. No source found since October 2023 says: is a service in use.
+***Not found***. No source found since October 2023 says a government satellite-based farming service is in use.

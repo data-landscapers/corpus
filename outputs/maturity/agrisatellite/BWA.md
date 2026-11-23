@@ -10,4 +10,4 @@
 
 ***Also on file***. [CHIRPS / CHIRTS](<https://doi.org/10.3390/cli14040077>); [CHIRPS](<https://doi.org/10.1007/s00704-026-06154-6>).
 
-***Not found***. No source found since October 2023 says: is a service in use.
+***Not found***. No source found since October 2023 says a government satellite-based farming service is in use.

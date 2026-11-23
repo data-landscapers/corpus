@@ -9,9 +9,10 @@
    "reach": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "MWI-001",
-   "gaps": "No source found since October 2023 says: is a service in use.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
+   "stage_sources": "MWI-001;MWI-003",
+   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
+   "note": "GEOCIF forecasts were adapted for the ministry in 2024 and the meteorological department piloted PRISM in five districts in 2025. No government service in use is shown, so not 3.",
+   "as_at": "2026-11-23"
   }
  ]
 }

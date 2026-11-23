@@ -10,4 +10,4 @@
 
 ***Also on file***. [ANGEO-1](<https://techreviewafrica.com/news/7726>); [ANGOSAT-2](<https://techreviewafrica.com/news/5832/angolas-secretary-of-state-for-budget-visits-national-space-programme-management-office>); [ANGEO-1 Earth Observation Satellite System](<https://www.telecomreviewafrica.com/articles/general-news/4701-angola-and-france-secure-225-million-for-satellite-and-infrastructure-projects/>).
 
-***Not found***. No source found since October 2023 says: is a service in use.
+***Not found***. No source found since October 2023 says a government satellite-based farming service is in use.

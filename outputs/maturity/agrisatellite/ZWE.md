@@ -10,4 +10,4 @@
 
 ***Also on file***. [Yieldera](<https://www.afrogazette.co.zw/from-space-to-soil-how-zimbabwes-yieldera-is-transforming-african-agriculture/>); [Farmer Registry System (prototype)](<https://www.fao.org/africa/news-stories/news-detail/zimbabwe-scales-up-satellite-based-agricultural-data-systems-with-launch-of-eostat-phase-ii/en>).
 
-***Not found***. No source found since October 2023 says: is a service in use.
+***Not found***. No source found since October 2023 says a government satellite-based farming service is in use.

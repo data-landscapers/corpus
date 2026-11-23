@@ -9,9 +9,10 @@
    "reach": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "ZAF-002",
+   "stage_sources": "ZAF-001;ZAF-002",
    "gaps": "No source found since October 2023 counts farmers or districts reached by satellite-based advice or alerts.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
+   "note": "ARC-ISCW's satellite imagery database feeds the monthly Umlindi newsletter and the Crop Estimates Committee. No count of farmers or districts reached is shown, so not 5.",
+   "as_at": "2026-11-23"
   }
  ]
 }

@@ -11,7 +11,8 @@
    "flags": "",
    "stage_sources": "",
    "gaps": "Nothing found says whether satellite data is used in farming.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
+   "note": "No row on satellite data in farming has been found, so no stage is set.",
+   "as_at": "2026-11-23"
   }
  ]
 }

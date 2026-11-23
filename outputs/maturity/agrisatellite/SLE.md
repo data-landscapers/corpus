@@ -10,4 +10,4 @@
 
 ***Also on file***. [Coordination and Visualization Platform (CVP)](<https://techafricanews.com/2026/06/30/dsti-and-crs-drive-sierra-leones-digital-transformation-through-geospatial-data/>); [Multi-Hazard Impact-based Forecasting and Early Warning and Early Action System](<https://www.greenclimate.fund/portfolio/projects/sap033>); [GeoApp/EADPAD](<https://sierraloaded.sl/news/stats-mapping-deploys-digital-system-census/>).
 
-***Not found***. No source found since October 2023 says: is a service in use.
+***Not found***. No source found since October 2023 says a government satellite-based farming service is in use.

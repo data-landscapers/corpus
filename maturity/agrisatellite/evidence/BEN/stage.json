@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BEN-001",
-      "gaps": "No source found since October 2023 says: is a service in use.",
-      "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
+      "note": "AKADEMIYA2063 developed the AAgWa crop forecasts with INRAB and PNOPPA, launched in October 2025. No government service is shown, so not 3.",
+      "as_at": "2026-11-23"
     }
   ]
 }

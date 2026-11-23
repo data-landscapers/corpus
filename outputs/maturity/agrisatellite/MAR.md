@@ -10,4 +10,4 @@
 
 ***Also on file***. [Mohammed VI A and B satellites](<https://www.unoosa.org/documents/pdf/copuos/2024/statements/9_Morocco.pdf>); [Royal Centre for Remote Sensing](<https://www.unoosa.org/documents/pdf/copuos/2024/statements/9_Morocco.pdf>).
 
-***Not found***. No source found since October 2023 says: is a service in use.
+***Not found***. No source found since October 2023 says a government satellite-based farming service is in use.

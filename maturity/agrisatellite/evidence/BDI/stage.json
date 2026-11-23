@@ -10,8 +10,9 @@
    "cap": "",
    "flags": "",
    "stage_sources": "BDI-001",
-   "gaps": "No source found since October 2023 says: is a service in use.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
+   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
+   "note": "IGEBU, the national mapping institute, says its remote-sensing map work serves to identify agricultural zones. It names no crop, drought or land-use service in operation, so not 3.",
+   "as_at": "2026-11-23"
   }
  ]
 }

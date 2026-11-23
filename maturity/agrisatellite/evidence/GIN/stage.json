@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 says whether satellite data is used in farming.",
-      "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py.",
-      "as_at": "2026-10-18"
+      "note": "The one row, the ANASA atlas of April 2023, is older than three years and sets no rung. Nothing found since October 2023 says whether satellite data is used in farming.",
+      "as_at": "2026-11-23"
     }
   ]
 }

@@ -19,3 +19,4 @@ SOM,002,service,inservice,revalued: service:underway,"FSNAU is managed by FAO (a
 SWZ,001,service,inservice,revalued: service:underway,"the Akvo handbook is a design specification (as SWZ-002): it shows a platform built or being built, not one in service; rebuild 2026-10-20"
 NER,001,service,inservice,revalued: service:underway,"the World Bank paper calls the WRSI trigger a pilot, which the ladder places at question 1, not a service in use; rebuild 2026-10-20"
 TGO,003,service,underway,revalued: service:inservice,"ANAMET, a government agency, uses satellite data in the agro-hydro-climatic forecasts it prepares each year for farmers: a government service in use; rebuild 2026-10-20"
+DJI,001,service,underway,classed other,"Rebuild 2026-11-23: a tender for a consultant on the whole IGAD region, which names no work in Djibouti and answers no question for this country"

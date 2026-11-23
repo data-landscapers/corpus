@@ -10,4 +10,4 @@
 
 ***Also on file***. [SODEXAM Direction de la Météorologie Nationale](<https://sodexam.com/climat-et-agriculture-la-sodexam-et-jool-international-misent-sur-lintelligence-artificielle/>); [Space Agency of Côte d'Ivoire (ASCI)](<https://spaceinafrica.com/2026/08/28/dr-tidiane-ouattara-appointed-inaugural-dg-of-cote-divoires-space-agency-2/>).
 
-***Not found***. No source found since October 2023 says: is a service in use.
+***Not found***. No source found since October 2023 says a government satellite-based farming service is in use.

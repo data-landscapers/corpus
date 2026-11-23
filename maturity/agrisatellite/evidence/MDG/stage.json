@@ -10,8 +10,9 @@
    "cap": "",
    "flags": "",
    "stage_sources": "MDG-001",
-   "gaps": "No source found since October 2023 says: is a service in use.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
+   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
+   "note": "UNDP used satellite data to assess cropland flooded by the February 2026 cyclones. No government service is shown, so not 3.",
+   "as_at": "2026-11-23"
   }
  ]
 }

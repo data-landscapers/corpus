@@ -9,10 +9,10 @@
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-001",
-      "gaps": "No source found since October 2023 says: is a service in use.",
-      "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "SLE-002;SLE-001",
+      "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
+      "note": "The agriculture ministry launched a satellite-triggered weather index insurance pilot in three districts in May 2025. A pilot answers question 1, so not 3.",
+      "as_at": "2026-11-23"
     }
   ]
 }

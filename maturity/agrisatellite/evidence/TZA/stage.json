@@ -11,7 +11,8 @@
    "flags": "",
    "stage_sources": "TZA-002",
    "gaps": "No source found since October 2023 says a satellite-based farming service publishes on a schedule.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
+   "note": "The Citizen reported in September 2026 that the National Food Security Bulletin already uses satellite vegetation data. No publication schedule is shown, so not 4.",
+   "as_at": "2026-11-23"
   }
  ]
 }

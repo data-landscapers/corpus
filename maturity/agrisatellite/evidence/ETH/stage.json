@@ -10,8 +10,9 @@
    "cap": "",
    "flags": "",
    "stage_sources": "ETH-001",
-   "gaps": "No source found since October 2023 says: is a service in use.",
-   "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
+   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
+   "note": "Ethiopian institutes hosted CropWatch training in June 2026, and FAO and the statistics service ran a pilot yield study in 2025. No service in use is shown, so not 3.",
+   "as_at": "2026-11-23"
   }
  ]
 }

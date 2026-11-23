@@ -10,4 +10,4 @@
 
 ***Also on file***. [SmartCane](<https://business.esa.int/projects/sc-0>).
 
-***Not found***. No source found since October 2023 says: is a service in use.
+***Not found***. No source found since October 2023 says a government satellite-based farming service is in use.

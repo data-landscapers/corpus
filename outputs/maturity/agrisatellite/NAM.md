@@ -10,4 +10,4 @@
 
 ***Also on file***. [Satellite ground data receiving station, Telecom Earth Station](<https://english.news.cn/20260213/ac98481f75d04d62940dd4f79d74b953/c.html>).
 
-***Not found***. No source found since October 2023 says: is a service in use.
+***Not found***. No source found since October 2023 says a government satellite-based farming service is in use.

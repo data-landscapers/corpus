@@ -9,10 +9,10 @@
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-004",
+      "stage_sources": "NGA-006;NGA-007",
       "gaps": "No source found since October 2023 counts farmers or districts reached by satellite-based advice or alerts.",
-      "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py.",
-      "as_at": "2026-10-18"
+      "note": "NASRDA produces Nigeria CropWatch bulletins from satellite data and shows bimonthly issues for October 2025 and February 2026. No count of farmers or districts reached is shown, so not 5.",
+      "as_at": "2026-11-23"
     }
   ]
 }
