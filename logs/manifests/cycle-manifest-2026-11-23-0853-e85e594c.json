@@ -1,0 +1,206 @@
+{
+ "schema": 3,
+ "written_utc": "2026-11-23 08:53",
+ "pass": "sweep cycle",
+ "head": "e85e594ca0018ecd62d7cceb40a64dbee89828bb",
+ "head_committed_utc": "2026-11-23 08:52",
+ "collection": {
+  "last_admission": "2026-11-22 22:30",
+  "sweep_closed": "2026-11-22 20:40",
+  "ingest_started": "2026-11-22 20:45"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "1",
+   "jobs": [
+    "SWEEP-NEWSPAPERS",
+    "SWEEP-JOURNALS",
+    "SWEEP-THINKTANKS",
+    "SWEEP-REGIONAL"
+   ],
+   "start": "2026-11-22 20:05",
+   "end": "2026-11-22 23:53",
+   "duration": "3:48",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 359,
+  "admitted": 320,
+  "dropped": 39,
+  "screened": 243,
+  "screen_dropped": 198,
+  "pages_over_line": 341,
+  "awaiting_ingest": 0,
+  "raw_sources": 51002
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-11-22 20:00",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "notes": {
+   "time_utc": "2026-11-22 20:03",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "sweep": {
+   "time_utc": "2026-11-22 20:41",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "ingest": {
+   "time_utc": "2026-11-22 21:52",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "lint": {
+   "time_utc": "2026-11-22 23:52",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "close": {
+   "time_utc": "2026-11-22 23:54",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "backlog": {
+   "time_utc": "2026-11-23 00:01",
+   "seven_day": null,
+   "five_hour": null
+  },
+  "rules-probe": {
+   "time_utc": "2026-11-23 00:02",
+   "seven_day": 12.0,
+   "five_hour": null
+  },
+  "rules": {
+   "time_utc": "2026-11-23 00:04",
+   "seven_day": 12.0,
+   "five_hour": null
+  },
+  "end": {
+   "time_utc": "2026-11-23 00:04",
+   "seven_day": 12.0,
+   "five_hour": null
+  }
+ },
+ "drops": {
+  "night": "2026-11-22",
+  "ingest_coded": true,
+  "sweeps": {
+   "acquire": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 10,
+    "ingest_drop_rate": 0.0
+   },
+   "daily": {
+    "sweep": {
+     "off-place": 11,
+     "no-development": 10,
+     "off-topic": 10,
+     "already-seen": 3,
+     "malformed": 2,
+     "already-held": 1
+    },
+    "ingest": {
+     "no-value": 1
+    },
+    "admitted": 3,
+    "ingest_drop_rate": 0.25
+   },
+   "journals": {
+    "sweep": {
+     "headline-only-stub": 3,
+     "off-place": 2,
+     "uncoded": 2,
+     "already-held": 1,
+     "already-seen": 1
+    },
+    "ingest": {
+     "already-held": 6
+    },
+    "admitted": 0,
+    "ingest_drop_rate": 1.0
+   },
+   "maturity-study-accesstoinformationlaw": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 6,
+     "inadmissible-origin": 1
+    },
+    "admitted": 185,
+    "ingest_drop_rate": 0.036
+   },
+   "maturity-study-addressregister": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 8,
+     "inadmissible-origin": 3
+    },
+    "admitted": 110,
+    "ingest_drop_rate": 0.091
+   },
+   "newspapers": {
+    "sweep": {
+     "uncoded": 46
+    },
+    "ingest": {
+     "no-value": 3,
+     "already-held": 1,
+     "syndicated-copy": 1
+    },
+    "admitted": 11,
+    "ingest_drop_rate": 0.312
+   },
+   "off-list": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 3,
+    "ingest_drop_rate": 0.0
+   },
+   "reconcile": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 5,
+    "ingest_drop_rate": 0.0
+   },
+   "regional": {
+    "sweep": {
+     "uncoded": 75,
+     "no-development": 10,
+     "date-unestablished": 3,
+     "already-seen": 1
+    },
+    "ingest": {
+     "already-held": 7
+    },
+    "admitted": 5,
+    "ingest_drop_rate": 0.583
+   },
+   "thinktanks": {
+    "sweep": {
+     "already-seen": 3,
+     "off-place": 3,
+     "off-topic": 1
+    },
+    "ingest": {},
+    "admitted": 0,
+    "ingest_drop_rate": null
+   }
+  }
+ },
+ "hygiene": {
+  "housekeeping_next": 238,
+  "trims_rows": 5959,
+  "housekeeping_registered": 0,
+  "words_trimmed": 0,
+  "pages_rewritten": 0,
+  "since": "2026-11-23 00:07"
+ }
+}
