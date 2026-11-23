@@ -5,9 +5,9 @@
 places each block with `<!-- stat: name -->`; `fill()` swaps each for HTML at build time, so the
 page needs no script. A directive with no block, or a missing source, stops the build.
 
-Acquisitions are `ingested` dates in `raw-catalogue.json`, which begin in July 2026. The monthly
-chart keeps all 12 months and draws those before the first as gaps, never zeros; the six-month
-tables start at the first month held. A document
+The monthly chart counts `published` dates in `raw-catalogue.json` (Bill, 2026-11-23), leaving out
+records dated only to a year, which are stored as 1 January and would inflate that month. The
+six-month tables count `ingested` dates, which begin in July 2026, so they start there. A document
 tagged to several countries or topics counts once under each. Regional codes (`X..`) are left out
 of the country tables.
 
@@ -72,27 +72,22 @@ def nice_ticks(top: int) -> list[int]:
     return list(range(0, top + 1, step))
 
 
-def bar_chart(bars: list[tuple[str, str, int | None]], label: str) -> str:
-    """`bars` is (axis label or "", tooltip name, value), in order. A value of None is a period
-    with no record, drawn as a gap and never as a zero."""
-    held = [v for _, _, v in bars if v is not None]
-    if not held:
+def bar_chart(bars: list[tuple[str, str, int]], label: str) -> str:
+    """`bars` is (axis label or "", tooltip name, value), in order."""
+    if not bars:
         raise SystemExit(f"site_statistics: nothing to draw for {label!r}.")
-    ticks = nice_ticks(max(held))
-    scale = max(max(held), ticks[-1], 1)
+    ticks = nice_ticks(max(v for _, _, v in bars))
+    scale = max(max(v for _, _, v in bars), ticks[-1], 1)
     grid = "".join(f'<span class="stat-tick" style="bottom:{t / scale * 100:.2f}%"><b>{t:,}</b></span>'
                    for t in ticks)
     show = len(bars) <= 12
-    said = lambda v: "no record" if v is None else f"{v:,}"
     cols = "".join(
-        f'<div class="stat-col" title="{escape(name)}: {said(v)}">'
-        + ("" if v is None else
-           f'<div class="stat-bar" style="height:{v / scale * 100:.2f}%">'
-           + (f'<span class="stat-val">{v:,}</span>' if show else "") + "</div>")
-        + "</div>"
+        f'<div class="stat-col" title="{escape(name)}: {v:,}">'
+        f'<div class="stat-bar" style="height:{v / scale * 100:.2f}%">'
+        + (f'<span class="stat-val">{v:,}</span>' if show else "") + "</div></div>"
         for _, name, v in bars)
     axis = "".join(f'<span>{escape(a)}</span>' for a, _, _ in bars)
-    summary = "; ".join(f"{name}: {said(v)}" for _, name, v in bars)
+    summary = "; ".join(f"{name}: {v:,}" for _, name, v in bars)
     return (f'<figure class="stat-chart" role="img" aria-label="{escape(label)}. {escape(summary)}">'
             f'<div class="stat-plot">{grid}<div class="stat-bars">{cols}</div></div>'
             f'<div class="stat-axis">{axis}</div></figure>')
@@ -131,8 +126,8 @@ class Data:
     def items(self) -> list[dict]:
         if self._items is None:
             d = json.load(open(CATALOGUE, encoding="utf-8"))
-            all_items = d["items"] if isinstance(d, dict) and "items" in d else d
-            self._items = [i for i in all_items if i.get("ingested")]
+            self.every_item = d["items"] if isinstance(d, dict) and "items" in d else d
+            self._items = [i for i in self.every_item if i.get("ingested")]
         return self._items
 
     @property
@@ -163,13 +158,12 @@ def country_names() -> dict[str, str]:
 
 
 def monthly(data: Data) -> str:
-    n = collections.Counter(i["ingested"][:7] for i in data.items)
-    first = min(n)
-    bars = [(month_label(m, False), month_label(m), n[m] if m >= first else None)
-            for m in last_months(max(n), 12)]
-    note = "" if bars[0][2] is not None else (
-        f'<p class="stat-note">Acquisition dates begin in {date(int(first[:4]), int(first[5:7]), 1).strftime("%B %Y")}.</p>')
-    return bar_chart(bars, "Documents acquired each month") + to_date(data.last_ingest()) + note
+    last = data.last_ingest()
+    n = collections.Counter(i["published"][:7] for i in data.every_item   # dated or not by ingest
+                            if i.get("date_precision") in ("day", "month")
+                            and len(i.get("published") or "") >= 7)
+    bars = [(month_label(m, False), month_label(m), n[m]) for m in last_months(last, 12)]
+    return bar_chart(bars, "Documents by month of publication") + to_date(last)
 
 
 def acquired_countries(data: Data) -> str:

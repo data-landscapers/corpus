@@ -1,6 +1,6 @@
 ## Monthly additions
 
-Documents added to the corpus each month.
+Documents in the corpus by month of publication. Documents dated only to a year are left out.
 
 <!-- stat: monthly -->
 
