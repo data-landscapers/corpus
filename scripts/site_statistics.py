@@ -5,9 +5,9 @@
 places each block with `<!-- stat: name -->`; `fill()` swaps each for HTML at build time, so the
 page needs no script. A directive with no block, or a missing source, stops the build.
 
-The monthly chart counts `published` dates in `raw-catalogue.json` (Bill, 2026-11-23), leaving out
-records dated only to a year, which are stored as 1 January and would inflate that month. The
-six-month tables count `ingested` dates, which begin in July 2026, so they start there. A document
+The monthly chart and the country and topic tables count `published` dates in `raw-catalogue.json`
+(Bill, 2026-11-23), leaving out records dated only to a year, which are stored as 1 January and
+would inflate that month. The newest ingest date sets the last month shown. A document
 tagged to several countries or topics counts once under each. Regional codes (`X..`) are left out
 of the country tables.
 
@@ -138,18 +138,23 @@ class Data:
         return self._access
 
     def window(self, n: int) -> list[str]:
-        held = sorted({i["ingested"][:7] for i in self.items})
-        return [m for m in last_months(held[-1], n) if m >= held[0]]
+        return last_months(self.last_ingest(), n)
 
     def last_ingest(self) -> str:
         return max(i["ingested"] for i in self.items)
 
+    def published(self) -> list[dict]:
+        """Every record dated to a month or a day, whether or not it has an ingest date."""
+        self.items
+        return [i for i in self.every_item if i.get("date_precision") in ("day", "month")
+                and len(i.get("published") or "") >= 7]
+
     def tally(self, field: str, names: dict[str, str]) -> list[tuple[str, dict]]:
         out: dict[str, collections.Counter] = collections.defaultdict(collections.Counter)
-        for i in self.items:
+        for i in self.published():
             for key in set(i.get(field) or []):
                 if key in names:
-                    out[names[key]][i["ingested"][:7]] += 1
+                    out[names[key]][i["published"][:7]] += 1
         return list(out.items())
 
 
@@ -159,9 +164,7 @@ def country_names() -> dict[str, str]:
 
 def monthly(data: Data) -> str:
     last = data.last_ingest()
-    n = collections.Counter(i["published"][:7] for i in data.every_item   # dated or not by ingest
-                            if i.get("date_precision") in ("day", "month")
-                            and len(i.get("published") or "") >= 7)
+    n = collections.Counter(i["published"][:7] for i in data.published())
     bars = [(month_label(m, False), month_label(m), n[m]) for m in last_months(last, 12)]
     return bar_chart(bars, "Documents by month of publication") + to_date(last)
 

@@ -6,13 +6,13 @@ Documents in the corpus by month of publication. Documents dated only to a year 
 
 ## Country acquisitions
 
-Top 15 countries by documents added over six months. A document about several countries counts under each.
+Top 15 countries by documents published over six months. A document about several countries counts under each. Documents dated only to a year are left out.
 
 <!-- stat: acquired-countries -->
 
 ## Topic acquisitions
 
-Top 15 topics by documents added over six months. A document on several topics counts under each.
+Top 15 topics by documents published over six months. A document on several topics counts under each. Documents dated only to a year are left out.
 
 <!-- stat: acquired-topics -->
 
