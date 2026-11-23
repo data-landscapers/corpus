@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, October – November 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 subject: include.access
 places: BFA; CPV; CIV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MWI; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: 95bb11c6cb75
+record: c38cbdb02639
 ---
 
 # News, Oct – Nov 2026
@@ -230,6 +230,20 @@ On 29 October 2026 the police inspectorate and Group IDENTITY signed an agreemen
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Registre social unifie du Gabon</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Aides sociales : le Registre social unique attendu au plus tard en avril 2028](https://www.gabonreview.com/aides-sociales-le-registre-social-unique-attendu-au-plus-tard-en-avril-2028/)** — GabonReview, 22 November 2026
+
+Gabon's social affairs minister met World Bank representatives in Libreville on 19 November 2026 to review the single social registry. Its national coordinator said the IT developer should be recruited by February 2027 and the registry in service by April 2028. The registry aims to digitise about 90% of non-contributory social protection services.
+
+</div>
+
+</div>
+
 ## Ghana
 
 <div class="monthly-story" markdown="1">
@@ -305,6 +319,20 @@ Safaricom said Fuliza, its M-PESA overdraft service, earned KES 4.9 billion in t
 </div>
 
 ## Liberia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Information Commission ruling against the Environmental Protection Agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia: Daylight Wins Transparency Battle Against Epa](https://allafrica.com/stories/202610130246.html)** — Liberian Observer via allAfrica, 13 October 2026
+
+Liberia's Independent Information Commission ruled for the newspaper The DayLight in its complaint against the Environmental Protection Agency. It ordered the agency to release environmental reports, audits and permits the paper had requested. The commission rejected the agency's blanket withholding of the records. The paper filed the complaint in April 2026.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

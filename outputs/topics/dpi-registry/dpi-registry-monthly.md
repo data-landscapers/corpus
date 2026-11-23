@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; CMR; CPV; CAF; TCD; COM; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f57ad4ce6feb
+record: 02e57d934000
 ---
 
 # News, Oct – Nov 2026
@@ -279,6 +279,20 @@ Cabo Verde resumed its building cadastre survey in Tarrafal and São Salvador do
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Municipal address platforms and door numbering</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[São Filipe: Projecto de toponímia avança para associação de nomes às vias, largos e praças do município](https://www.balai.cv/noticias/sao-filipe-projecto-de-toponimia-avanca-para-associacao-de-nomes-as-vias-largos-e-pracas-do-municipio/)** — Balai (Inforpress), 17 November 2026
+
+The council of Sao Filipe, on Fogo island in Cabo Verde, scheduled a working session for 19 November 2026. It was to consider matching inventoried place names to the municipality's streets, squares and plazas. The project is run with Cabo Verde's postal service, which has agreed to support street signs and house numbering.
+
+</div>
+
+</div>
+
 ## Central African Republic
 
 <div class="monthly-story" markdown="1">
@@ -343,6 +357,20 @@ The second phase of Comoros's civil-registration modernisation project was repor
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National addressing and directory process</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Policies, Procedures, and Forms Updates](https://about.usps.com/postal-bulletin/2026/pb22713/html/updt_001.htm)** — United States Postal Service, 15 October 2026
+
+The United States Postal Service said that from 15 October 2026 mail to Comoros must carry a 5-digit postcode. It placed the code to the left of the locality name and above the country name. The change follows a request from La Poste Comores through Universal Postal Union circular 126 of 24 August 2026.
+
+</div>
+
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -745,6 +773,20 @@ The Central Bank of Lesotho and the CAFI project launched campaigns urging small
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">General register of electors</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IEC moves to harmonise voters' roll](https://lestimes.com/?p=92095)** — Lesotho Times, 20 November 2026
+
+Lesotho's Independent Electoral Commission told Parliament's Law and Justice Committee that an independent audit of the voters' roll ran from 26 October to 16 November 2026. All 582,413 records submitted passed Ministry of Home Affairs verification of identity, age and eligibility. The audit reset 1,857 records to ineligible.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -952,6 +994,34 @@ Morocco's land conservation agency, ANCFCC, has opened an online service for own
 </div>
 
 ## Mozambique
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Homologation of geographical names</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Executivo homologa 1.444 novos nomes geográficos para melhorar endereçamento de cidades e vilas](https://integritymagazine.co.mz/arquivos/71359)** — Integrity Magazine, 20 October 2026
+
+Mozambique's Council of Ministers approved a resolution confirming 1,444 geographic names for roads and territorial units. The government spokesman said the names cover 14 municipalities, including 12 new ones, and one district. The stated aim is to keep toponymy current and improve town addressing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Postal Address Code (CEP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INCM divulga novo Código de Endereçamento Postal em Pemba, com implementação prevista para 2027](http://www.semfronteirasfm.org/2026/10/incm-divulga-novo-codigo-de.html)** — Rádio Sem Fronteiras Pemba, 21 October 2026
+
+Mozambique's communications institute, INCM, presented the new postal address code in Pemba on 21 October 2026. Decree 74/2024 sets an eight-digit code with a hyphen, replacing the model in Decree 28/2019. Implementation is planned in stages from 2027.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

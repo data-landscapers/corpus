@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — progress report, November 2025 – November 2026
-compiled: 2026-11-22
-period: 2025-11-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2025-11-01 to 2026-11-23
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9dc6ce6a098e
+record: 4068ce7afd19
 ---
 
 # Sectoral management information systems: progress report, November 2025 – November 2026

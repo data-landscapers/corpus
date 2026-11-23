@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, October – November 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 subject: data.statistics
 places: DZA; BWA; BDI; CAF; TCD; COG; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA; ZWE
-record: c4ec08d82ed3
+record: 173351dd32a6
 ---
 
 # News, Oct – Nov 2026

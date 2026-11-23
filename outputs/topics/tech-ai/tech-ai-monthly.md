@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b5959917d5d9
+record: 4eacc4f9d9f3
 ---
 
 # News, Oct – Nov 2026
@@ -2209,6 +2209,14 @@ Zimbabwe's ICT minister Tatenda Mavetera tasked the ministry's new AI Unit with 
 **[Home Affairs Minister admits Smart Traffic Management System makes mistakes amid motorist complaints](https://www.newzimbabwe.com/home-affairs-minister-admits-smart-traffic-management-system-makes-mistakes-amid-motorist-complaints/)** — NewZimbabwe, 6 November 2026
 
 Zimbabwe's Home Affairs Minister Kazembe Kazembe told the National Assembly that the Smart Traffic Management System makes errors when it captures vehicle registration details, NewZimbabwe reported on 6 November 2026. He accepted motorists' complaints of misidentification and a lapse in police validation before tickets are issued. The number-plate system runs at 20 sites in Harare.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[MP begs Government to waive traffic fines, cites AI system errors](https://www.newzimbabwe.com/mp-begs-government-to-waive-traffic-fines-cites-ai-system-errors/)** — NewZimbabwe, 22 November 2026
+
+Opposition MP Zivai Mhetu asked Parliament to waive fines issued by Harare's AI-powered Smart Traffic Management System, citing errors and more than six million violations since June 2026. Leader of Government Business Ziyambi Ziyambi refused. He said unpaid fines are collected when drivers pass tollgates or renew vehicle licences at ZINARA.
 
 </div>
 

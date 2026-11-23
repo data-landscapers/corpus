@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 subject: gov.policy
-places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 22b9a9051334
+places: AGO; BEN; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
+record: 17691358d281
 ---
 
 # News, Oct – Nov 2026
@@ -23,6 +23,8 @@ record: 22b9a9051334
 <a href="#comoros">Comoros</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#congo">Congo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -286,6 +288,22 @@ Comoros's health statistics directorate said on 27 October 2026 that only one of
 **[Livre Blanc et adressage postal : l’ARPCE pose les fondations de l’État numérique](https://www.adiac-congo.com/content/livre-blanc-et-adressage-postal-larpce-pose-les-fondations-de-letat-numerique-172016)** — Les Dépêches de Brazzaville, 17 October 2026
 
 Congo's regulator ARPCE presented the second edition of its Livre Blanc and a digital postal-addressing project in Brazzaville on 15 October 2026. The minister asked that addressing be built as public infrastructure that works with digital ID, the data-exchange platform and payments, and the Livre Blanc's conclusions go to the interministerial task force on digitalising the administration.
+
+</div>
+
+</div>
+
+## Cote d'Ivoire
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National access-to-information strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire-AIP/ Six nouveaux commissaires prennent fonction à la CAIDP](https://www.aip.ci/cote-divoire-aip-six-nouveaux-commissaires-prennent-fonction-a-la-caidp/)** — Agence Ivoirienne de Presse, 9 November 2026
+
+Cote d'Ivoire's access to information commission, the CAIDP, installed six new commissioners on 9 November 2026. Their predecessors' six-year terms had ended. Its president, Anne-Marie Konan-Payne, said the next council meeting would consider terms of reference for a strategic retreat.
 
 </div>
 

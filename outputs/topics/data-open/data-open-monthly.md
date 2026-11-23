@@ -1,10 +1,10 @@
 ---
 title: Open data — News, October – November 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 subject: data.open
 places: BFA; CPV; TCD; CIV; GMB; GNB; KEN; LBY; MDG; MUS; SEN; SLE; SOM; ZAF; TGO; TUN; UGA; ZWE
-record: 338c6e08c648
+record: 7251d02f1caa
 ---
 
 # News, Oct – Nov 2026
@@ -238,6 +238,20 @@ Madagascar's Court of Cassation selected 595 of its 3,104 rulings from 2019 to 2
 **[UNDP and Statistics Mauritius Collaborate to Strengthen Mauritius' Statistical Capabilities and Data Management Through Phase 2 of the MauStats Platform](https://www.undp.org/mauritius-seychelles/press-releases/undp-and-statistics-mauritius-collaborate-strengthen-mauritius-statistical-capabilities-and-data-management)** — United Nations Development Programme, 28 October 2026
 
 Statistics Mauritius trained staff on Phase 2 of its MauStats platform, built with UNDP, from 19 to 28 October 2026. Phase 2 adds 14 modules, among them prices, tourism, SDG monitoring and AI-assisted coding. It also adds data exchange through APIs.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Freedom of Information Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Programme 2025-2029 : ces grandes promesses pas encore tenues](https://defimedia.info/programme-2025-2029-ces-grandes-promesses-pas-encore-tenues)** — Defimedia, 10 November 2026
+
+Defi Media listed commitments in the Mauritian government's 2025-2029 programme that it says are unmet at November 2026. They include a Freedom of Information Act and a law on political party financing. Another is a stronger legal basis for appointing the Independent Broadcasting Authority's members. It reported that the Constitutional Review Commission was set up over six months late.
 
 </div>
 

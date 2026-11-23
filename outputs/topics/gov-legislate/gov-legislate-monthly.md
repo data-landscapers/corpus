@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB
-record: 27d720226708
+places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB
+record: b2daa3b21f94
 ---
 
 # News, Oct – Nov 2026
@@ -70,6 +70,8 @@ record: 27d720226708
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sao-tome-and-principe">Sao Tome and Principe</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#seychelles">Seychelles</a>
@@ -126,6 +128,20 @@ Algeria's draft 2027 finance law proposes that foreign digital platforms selling
 **[Communiqué — retrait définitif de l’autorisation de cloud computing de DATAGIX](https://www.arpce.dz/fr/pub/h9v7b0)** — Autorité de régulation de la poste et des communications électroniques (ARPCE), 22 October 2026
 
 Algeria's telecoms regulator ARPCE definitively withdrew, from 22 October 2026, the general authorisation it issued to DATAGIX in February 2024 to provide cloud hosting and data storage. The regulator cited breaches of the rules in force and told the company to contact it without delay.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft joint order on address plates and plans</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[مشروع وطني لتوحيد العناوين و ترقيم مداخل العمارات](https://www.aljazairalyoum.dz/%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%88%d8%b7%d9%86%d9%8a-%d9%84%d8%aa%d9%88%d8%ad%d9%8a%d8%af-%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%88%d9%8a%d9%86-%d9%88-%d8%aa%d8%b1%d9%82%d9%8a%d9%85-%d9%85%d8%af%d8%a7/)** — الجزائر اليوم, 5 November 2026
+
+Al Jazair Al Youm reported, citing sources, that Algerian authorities have drafted a joint ministerial order on address signs. It would standardise street name plates, building entrance numbering and municipal addressing plans. The draft follows a government meeting on the national addressing strategy to 2030.
 
 </div>
 
@@ -241,6 +257,20 @@ Burundi's mandatory SIM and eSIM registration, begun in mid-June, was about 70 p
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Decreto-Lei 47/2026, organic law of the infrastructure ministry</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Decreto-Lei n.º 47/2026 de 12 de outubro](https://boe.incv.cv/Bulletins/DownloadAct?id=114033)** — Boletim Oficial de Cabo Verde, 12 October 2026
+
+Cabo Verde's Council of Ministers issued Decree-Law 47/2026 on 12 October 2026. It sets the structure and functions of the Ministry of Infrastructure, Housing and Spatial Planning. The ministry's remit includes land registry, geographic information and, according to the catalogue entry, toponymy and addressing policy. The decree revokes Decree-Law 62/2021.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Aviso 6/2019, minimum capital of payment and electronic-money institutions</p>
 
 <div class="bulletin-item" markdown="1">
@@ -287,6 +317,20 @@ The Central African Republic's statistics institute ICASEES held a mid-term revi
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Journalists' union bill on access to information and journalist safety</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : l'UJT et l'Assemblée nationale veulent relancer les réformes sur la presse](https://tchadinfos.com/2026/10/07/tchad-lujt-et-lassemblee-nationale-veulent-relancer-les-reformes-sur-la-presse/)** — Tchadinfos, 7 October 2026
+
+Chad's journalists' union, the UJT, met the National Assembly's communications committee on 5 October 2026. They discussed reform of press laws, access to public information, journalist safety and media finances. The union asked for a bill on journalists' protection, filed in 2022, to be examined again.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Decree on electronic communication and digitised court procedure</p>
 
 <div class="bulletin-item" markdown="1">
@@ -318,6 +362,20 @@ The Republic of the Congo's money transfer regulator, ARTF, said on 5 October 20
 **[Transfert de fonds : l’usage des terminaux de paiement électronique entrera en vigueur dès janvier 2027](https://www.adiac-congo.com/content/transfert-de-fonds-lusage-des-terminaux-de-paiement-electronique-entrera-en-vigueur-des)** — Les Dépêches de Brazzaville (ADIAC), 8 October 2026
 
 Congo's money-transfer regulator ARTF will require every money-transfer operator to use electronic payment terminals from January 2027, as the finance law provides, Les Dépêches de Brazzaville reported on 8 October 2026. The terminals record each transaction in real time for tax purposes; 200 of 1,000 ordered were shown to about a hundred transfer and exchange operators in Brazzaville.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">General access-to-information law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CONGO/DROIT À L’INFORMATION: LE FOSSÉ QUI MAINTIENT LA LUTTE CONTRE LA CORRUPTION À QUAI EN AFRIQUE CENTRALE](https://www.groupecongomedias.com/congo-droit-a-linformation-le-fosse-qui-maintient-la-lutte-contre-la-corruption-a-quai-en-afrique-centrale/)** — Groupe Congo Médias, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
+
+The Congolese group RPDH presented a report with Transparency International in Brazzaville on 20 November 2026 on access to information and anti-corruption in Central Africa. It calls on states in the region to enshrine access to information in general laws and enforce them. According to the catalogue entry, Angola alone in the region has such a law.
 
 </div>
 
@@ -580,6 +638,20 @@ Lawyers quoted by Enterprise say Egypt's data rules deter hyperscalers. Each tra
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Freedom of information bills</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[«الحق في الحصول على المعلومات».. تفاصيل مذكرة القومي لحقوق الإنسان إلى الحكومة والبرلمان](https://www.almasryalyoum.com/news/details/4415446)** — المصري اليوم, 20 November 2026
+
+Egypt's National Council for Human Rights sent a memorandum to the cabinet, the information ministry and both parliamentary chambers. It sets out guarantees it says any law on access to information should contain. The council cited Article 68 of the constitution and said the memo followed more than two years of consultation.
+
+</div>
+
+</div>
+
 ## Equatorial Guinea
 
 <div class="monthly-story" markdown="1">
@@ -770,6 +842,8 @@ A Ghanaian science ministry official said at the Africa Geospatial Leadership Fo
 
 </div>
 
+
+
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">Statistical Service Act 2019 (Act 1003)</p>
@@ -825,6 +899,20 @@ Guinea-Bissau's Council of Ministers examined a draft Electronic Transactions La
 </div>
 
 ## Kenya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public awareness of the right to information</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The right to know must reach everyone: Kenya celebrates Access to Information Day](https://www.unesco.org/en/articles/right-know-must-reach-everyone-kenya-celebrates-access-information-day)** — UNESCO, 5 October 2026
+
+UNESCO reported on Kenya's observance of Access to Information Day. A 2025 survey by the Commission on Administrative Justice found 68.8% of respondents aware of the right. It said a first State of Openness Report is in preparation. It also said 27 African countries have adopted access to information laws.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1436,6 +1524,22 @@ Nigeria's Senate passed SB. 959 on third reading on 10 November 2026. The bill a
 **[Osun, UK partner to strengthen digital economy](https://tribuneonlineng.com/osun-uk-partner-to-strengthen-digital-economy/amp/)** — Tribune Online, 21 November 2026
 
 The UK Foreign, Commonwealth and Development Office said at a workshop in Osogbo on 19 November 2026 that it would work with Osun State on digital policy and institutional reform. An Osun commissioner said the state plans about 10 technology hubs, and the UK-funded programme's implementer welcomed progress on the state's Digital Economy Agency Bill. No sum was stated.
+
+</div>
+
+</div>
+
+## Sao Tome and Principe
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft access-to-information law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Profissionais lamentam não aprovação da lei de acesso à informação em STP](https://rstp.st/2026/10/27/profissionais-lamentam-nao-aprovacao-da-lei-de-acesso-a-informacao-em-stp/)** — Rádio Nacional de São Tomé e Príncipe, 27 October 2026
+
+Journalists, lawyers and civil society figures in Sao Tome and Principe said an access to information law has still not been adopted. A draft was presented to parliament in October 2019. The head of the Centre for Public Integrity said the law should first cover public contracts and administrative information.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: cfbc655eb5d7
+record: bdc269f25204
 ---
 
 # News, Oct – Nov 2026
@@ -98,6 +98,22 @@ record: cfbc655eb5d7
 </nav>
 
 ## Algeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Interbank card payments and the terminal estate (CIB, Edahabia)</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[نشر 180 ألف جهاز للدفع الإلكتروني عبر الوطن](https://www.echoroukonline.com/%d9%86%d8%b4%d8%b1-180-%d8%a3%d9%84%d9%81-%d8%ac%d9%87%d8%a7%d8%b2-%d9%84%d9%84%d8%af%d9%81%d8%b9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d8%b9%d8%a8%d8%b1-%d8%a7%d9%84%d9%88)** — Echorouk El Yawmi, 22 November 2026
+
+Algeria's finance ministry said on 22 November 2026 that the minister has ordered 180,000 electronic payment terminals deployed across the wilayas. They are to be in service by 22 January 2027. The public banks' networks will deploy them with the banks' association, ABEF. Progress will be checked weekly.
+
+</div>
+
+</div>
+
 
 <div class="monthly-story" markdown="1">
 
@@ -330,6 +346,20 @@ The East African Legislative Assembly's accounts committee reported that Burundi
 **[Cameroon’s REasy and AGL Pilot Digital Payment and Logistics Service for China Imports](https://www.businesstechafrica.co.za/article/cameroon-s-reasy-and-agl-pilot-digital-payment-and-logistics-service-for-china-imports)** — Business Tech Africa, 6 October 2026
 
 Cameroonian fintech REasy and Africa Global Logistics presented to Douala traders on 1 October 2026 a pilot service for small businesses importing from China. REasy converts CFA francs to yuan to pay suppliers through Alipay, WeChat Pay or Chinese bank accounts, while AGL consolidates and ships goods. The first shared container reached Douala on 29 April; no pricing has been published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fixed FCFA 4 charge on money transfers and digital bank transactions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fiscalité bancaire : UBA Cameroun intègre le prélèvement de 4 FCFA à ses transactions numériques](https://leconomie.info/article/fiscalite-bancaire-uba-cameroun-integre-le-prelevement-de-4-fcfa-a-ses-transactions-numeriques)** — Le quotidien L'Economie, 20 November 2026
+
+UBA Cameroun told customers it now applies a special charge of FCFA 4 per transaction on its digital channels. These are debit and prepaid cards, the Leo assistant, internet banking and Push & Pull. The charge comes from the 2025 finance law, article 228 quinquies of the tax code, in force since 1 January 2025.
 
 </div>
 
