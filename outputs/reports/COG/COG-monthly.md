@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: COG
-ledger_rows: 25
-not_held: 5
-record: fa14f46a7932
+ledger_rows: 26
+not_held: 6
+record: 386baeca00fc
 ---
 
 # News, Oct – Nov 2026
@@ -75,6 +75,20 @@ The Republic of the Congo's money transfer regulator, ARTF, said on 5 October 20
 **[Transfert de fonds : l’usage des terminaux de paiement électronique entrera en vigueur dès janvier 2027](https://www.adiac-congo.com/content/transfert-de-fonds-lusage-des-terminaux-de-paiement-electronique-entrera-en-vigueur-des)** — Les Dépêches de Brazzaville (ADIAC), 8 October 2026
 
 Congo's money-transfer regulator ARTF will require every money-transfer operator to use electronic payment terminals from January 2027, as the finance law provides, Les Dépêches de Brazzaville reported on 8 October 2026. The terminals record each transaction in real time for tax purposes; 200 of 1,000 ordered were shown to about a hundred transfer and exchange operators in Brazzaville.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">General access-to-information law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CONGO/DROIT À L’INFORMATION: LE FOSSÉ QUI MAINTIENT LA LUTTE CONTRE LA CORRUPTION À QUAI EN AFRIQUE CENTRALE](https://www.groupecongomedias.com/congo-droit-a-linformation-le-fosse-qui-maintient-la-lutte-contre-la-corruption-a-quai-en-afrique-centrale/)** — Groupe Congo Médias, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
+
+RPDH-Transparency International study, 20 November 2026: Angola alone in Central Africa has a general ATI law.
 
 </div>
 
