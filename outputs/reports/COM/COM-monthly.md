@@ -1,11 +1,11 @@
 ---
 title: Comoros — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-23
+period: 2026-10-01 to 2026-11-23
 place: COM
 ledger_rows: 12
 not_held: 22
-record: ebe8b15ec62c
+record: b1d394b35f70
 ---
 
 # News, Oct – Nov 2026
@@ -139,6 +139,14 @@ The second phase of Comoros's civil-registration modernisation project was repor
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">National addressing and directory process</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Policies, Procedures, and Forms Updates](https://about.usps.com/postal-bulletin/2026/pb22713/html/updt_001.htm)** — United States Postal Service, 15 October 2026
+
+Comoros 5-digit postcode required on US mail from 15 October 2026, per UPU circular 126 of 24 August 2026.
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
