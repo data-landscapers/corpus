@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-23 12:35 · **HOUSEKEEPING** · 20m · Job 84: traffic.py gains a crawler class for the rotating residential-proxy fleet; 518 of 1,387 daily visits removed, 20-22 Nov now 19, 10, 13 users; three analytics CSVs rebuilt
 2026-11-23 02:57 · **INDEX** · 9m · research index: 343 added or changed (332 added, 11 changed), 0 removed, 7628 chunks, 9.1 min — ok
 2026-11-23 02:33 · **RENDER** · 35m · 301/301 reports, home, countries, catalogue 45,932, finance, datasets, maturity rendered; deployed cca9ed9 — ok
 2026-11-23 01:58 · **REBUILD** · 15m · agrisatellite agrisat: 40 cells reassessed, 1 moved; second drafter 19/20; 54 searched, 168 staged; ~69M tokens — ok

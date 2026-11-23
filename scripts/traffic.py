@@ -25,6 +25,12 @@ stored, so a rule can be corrected and the whole history re-read under it:
 - **scanner** — an IP with `SCANNER_404S` or more 404s in the day: probes for `.env`, `.git`;
 - **cloud** — a data-centre network (`CLOUD_ASN`) wearing a browser's user agent, which is
   how undeclared scrapers and headless crawlers arrive;
+- **crawler** — a rendering crawler on residential proxies (job 84, 2026-11-23). It sends the
+  beacon, so one address looks like a reader, but it pins one or two stale browser builds at a
+  time and rotates them. A visit is its if it is short (`CRAWLER_SECONDS`, `CRAWLER_PAGES`) and
+  nearly all visits on that build within `CRAWLER_DAYS` are short too; real readers on the same
+  build are not. Its rows are kept, because the rule reads them, so a day's class can move while
+  its window is still filling;
 - **person** — anything else that ran the page's JavaScript, i.e. sent the `/cdn-cgi/rum`
   analytics beacon that day; the one sign a browser was really rendering the page;
 - **unknown** — the rest: a residential address that never sent the beacon (a person with
@@ -94,7 +100,12 @@ CLOUD_ASN = re.compile(r"google|amazon|microsoft|tencent|alibaba|huawei|leaseweb
                        r"blazing seo|fastly|advin|g-core|tzulo|psychz|trafficforce|"
                        r"data cent(?:er|re)|\bIDC\b", re.I)
 SCANNER_404S = 20
-CLASSES = ("person", "unknown", "bot", "cloud", "scanner", "own")
+CRAWLER_SECONDS = 15    # a visit no longer than this, first request to last, is short
+CRAWLER_PAGES = 2       # and views no more pages than this
+CRAWLER_DAYS = 14       # a build is judged on the visits this many days either side
+CRAWLER_MIN = 8         # and only with at least this many of them
+CRAWLER_SHARE = 0.9     # real builds run 30-50% short; the crawler's run 98-100%
+CLASSES = ("person", "crawler", "unknown", "bot", "cloud", "scanner", "own")
 # Bill's own networks, as address prefixes one a line, kept beside the database rather than in
 # the repository because they locate his home. His browser blocks the beacon, so he would
 # read as unknown anyway; this makes it a rule rather than an accident (Bill, 2026-10-29).
@@ -244,9 +255,10 @@ def tables() -> None:
     users, views = collections.defaultdict(set), collections.Counter()
     months, by_page = set(), collections.defaultdict(collections.Counter)
     days = sorted({d for (d,) in con.execute("SELECT DISTINCT day FROM days")})
+    fleet = crawler_visits(con)
     for day in days:
         rows = con.execute("SELECT * FROM requests WHERE day=?", (day,)).fetchall()
-        for r, k in zip(rows, classify(rows)):
+        for r, k in zip(rows, classify(rows, fleet)):
             if k != "person":
                 continue
             users[day].add(r["clientIP"])
@@ -297,8 +309,43 @@ def write(path: str, rows: list[list]) -> None:
         raise
 
 
-def classify(rows: list[sqlite3.Row]) -> list[str]:
-    fours = collections.Counter(r["clientIP"] for r in rows if r["edgeResponseStatus"] == "404")
+def browser_build(ua: str) -> str:
+    """Operating system, browser and major version: the unit the crawler pins."""
+    system = next((s for s in ("Windows", "Android", "iPhone", "iPad", "Mac OS", "Linux") if s in ua), "other")
+    m = re.search(r"(Edg|OPR|Firefox)/(\d+)", ua) or re.search(r"(Chrome|Version)/(\d+)", ua)
+    return f"{system} {m.group(1)} {m.group(2)}" if m else f"{system} ?"
+
+
+def crawler_visits(con: sqlite3.Connection) -> set[tuple[str, str]]:
+    """The (day, IP) visits that are the crawler's: short, on a build whose visits nearly all are."""
+    by_build = collections.defaultdict(list)
+    for (day,) in con.execute("SELECT DISTINCT day FROM requests ORDER BY day").fetchall():
+        rows = con.execute("SELECT * FROM requests WHERE day=?", (day,)).fetchall()
+        by_ip = collections.defaultdict(list)
+        for r, k in zip(rows, classify(rows)):
+            if k == "person":
+                by_ip[r["clientIP"]].append(r)
+        when = dt.date.fromisoformat(day).toordinal()
+        for ip, visit in by_ip.items():
+            agents = {r["userAgent"] for r in visit}
+            times = [dt.datetime.fromisoformat(r["datetime"].replace("Z", "+00:00")) for r in visit]
+            # An address with two browsers is a shared one, so it says nothing about a build.
+            short = (len(agents) == 1 and (max(times) - min(times)).total_seconds() <= CRAWLER_SECONDS
+                     and sum(1 for r in visit if page(r)) <= CRAWLER_PAGES)
+            by_build[browser_build(visit[0]["userAgent"])].append((when, short, day, ip))
+    out = set()
+    for visits in by_build.values():
+        for when, short, day, ip in visits:
+            if short:
+                near = [s for w, s, _, _ in visits if abs(w - when) <= CRAWLER_DAYS]
+                if len(near) >= CRAWLER_MIN and sum(near) / len(near) >= CRAWLER_SHARE:
+                    out.add((day, ip))
+    return out
+
+
+def classify(rows: list[sqlite3.Row], fleet: set[tuple[str, str]] = frozenset()) -> list[str]:
+    """Class each row. Without `fleet` the crawler reads as person, which is what finds it."""
+    fours =collections.Counter(r["clientIP"] for r in rows if r["edgeResponseStatus"] == "404")
     beacon = {r["clientIP"] for r in rows if r["clientRequestPath"] == "/cdn-cgi/rum"}
     own = own_networks()
     out = []
@@ -312,7 +359,7 @@ def classify(rows: list[sqlite3.Row]) -> list[str]:
         elif CLOUD_ASN.search(r["clientASNDescription"]):
             out.append("cloud")
         elif r["clientIP"] in beacon:
-            out.append("person")
+            out.append("crawler" if (r["day"], r["clientIP"]) in fleet else "person")
         else:
             out.append("unknown")
     return out
@@ -325,7 +372,7 @@ def report(day: str | None) -> int:
     if not day:
         sys.exit("traffic: nothing held yet; run pull")
     rows = con.execute("SELECT * FROM requests WHERE day=?", (day,)).fetchall()
-    cls = classify(rows)
+    cls = classify(rows, crawler_visits(con))
     tally = collections.Counter(cls)
     ips = {c: len({r["clientIP"] for r, k in zip(rows, cls) if k == c}) for c in CLASSES}
     who = collections.Counter()
