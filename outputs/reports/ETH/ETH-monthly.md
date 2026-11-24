@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: ETH
-ledger_rows: 39
+ledger_rows: 40
 not_held: 5
-record: 1aaf2bdce284
+record: da771385e0a9
 ---
 
 # News, Oct – Nov 2026
@@ -331,6 +331,20 @@ Ethiopia opened a public sandbox where developers and startups can test the Fayd
 **[FaydaVerse Expands Beyond National ID Registration](https://capitalethiopia.com/2026/11/01/faydaverse-expands-beyond-national-id-registration/)** — Capital Newspaper, 1 November 2026
 
 Ethiopia's national ID programme has renamed itself FaydaVerse and joined Ethiopian Investment Holdings, its stakeholder engagement director told Capital on 1 November 2026. He said more than 52 million citizens have registered, registration machines have grown from under 100 to 15,000, and 150 institutions work with the programme. Other countries have asked it for digital public infrastructure services.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Faydaverse digital identity wallet</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FaydaPass seeks to bring government documents into digital wallet](https://capitalethiopia.com/2026/11/22/faydapass-seeks-to-bring-government-documents-into-digital-wallet/)** — Capital Newspaper, 22 November 2026
+
+Nine institutions onboarded; certificates, licences, land records next; e-signature and consent management planned.
 
 </div>
 
