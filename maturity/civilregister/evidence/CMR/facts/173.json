@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-23-cmr-promotion-de-letat-civil-environ-168-000-demandes-de-financement-intro",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "News du Cameroun reports that by September 2026 only 60 of 432 principal civil registration centres had been brought into the digital system, an execution rate of 13.9%.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "digital civil registration programme",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital civil registration programme",
+   "country_label": "Cameroon",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

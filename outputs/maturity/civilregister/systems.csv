@@ -27,6 +27,7 @@ BFA,VENEEM,Burkina Faso,civil,smartphone-based platform,Direction générale de 
 BFA,solution informatique de déclaration systématique des faits d'Etat civil,Burkina Faso,civil,,Ministère de l'Administration territoriale et de la Mobilité,20 main and 96 secondary centres,2025-06-19-snec-taux-execution-physique-6411-2024
 BFA,digital birth registration platform,Burkina Faso,civil,,AMADE Mondiale with DGMEC,three municipalities,2025-01-01-civil-registration-children-burkina-faso-phase-ii
 BFA,VENEEM,Burkina Faso,civil,"web and smartphone, works offline",Ministry of Territorial Administration and Mobility (MATS),health facilities and civil-status centres,2024-11-12-bfa-burkina24-veneem-identifiant-unique-etat-civil
+BFA,Veneem,Veneem platform,other,,,,2026-11-21-bfa-modernisation-de-letat-civil-la-cagidh-expose-les-objectifs-de-sa-miss
 BWA,Births and Deaths Registration System (BDRS),Botswana,civil,,"Department of Civil and National Registration, Ministry of Labour and Home Affairs",35 district offices; 17 on-site registration points at health facilities,2026-08-01-statistics-botswana-vital-statistics-report-2024
 BWA,National Identification System (NIS),Botswana,other,,Department of Civil and National Registration,,2026-08-01-statistics-botswana-vital-statistics-report-2024
 BWA,Births and Deaths Registration System (BDRS),Botswana,civil,,Department of Civil and National Registration,,2021-06-01-bwa-vital-statistics-report-2019
@@ -72,6 +73,7 @@ CMR,BUNEC computerised civil registration,BUNEC digital civil status database,ci
 CMR,Logone-Birni civil registration office pilot,Logone-Birni pilot,civil,,NRC with BUNEC,,2026-03-01-cmr-nrc-birth-registration-brief
 CMR,fichier national d'etat-civil,Cameroon,civil,,,,2026-04-21-cmr-afrique-centrale-l-afrique-centrale-en-conclave-a-yaounde-pour-rationa
 CMR,SIGEC,Cameroon,civil,SIGEC,BUNEC with MINDDEVEL,commune,2025-12-19-cmr-cameroun-la-commune-de-dschang-delivre-ses-premiers-actes-de-naissance
+CMR,digital civil registration programme,Cameroon,civil,,,,2026-11-23-cmr-promotion-de-letat-civil-environ-168-000-demandes-de-financement-intro
 COD,DHIS2,Masina civil status pilot,civil,DHIS2,UN joint project with Masina municipal civil status office,commune,2025-08-18-rdc-masina-digitalisation-etat-civil
 COD,Afritech/Idemia ID card and civil registration contract,RDC,other,,ONIP,,2024-09-04-cod-actualite-contrat-carte-identite-annule
 COG,SIFEC (Système intégré des faits d'état civil),Congo,civil,software built by ACSI,Direction générale de l'administration du territoire / ACSI,,2026-09-23-cog-adiac-sifec-etat-civil-operationnalisation
@@ -128,6 +130,7 @@ GAB,Centre national d'état civil (CNEC),GAB,civil,,"Gabon Digital programme, co
 GAB,Registre biométrique des personnes physiques (RBPP),GAB,other,,,,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,carte nationale d'identité électronique (CNIE),Gabon,other,,,,2026-05-10-nzenzele-sous-prefet-autorite-etat-fiabilite-etat-civil
 GAB,e.CNSS,Gabon,other,e.cnss.ga,CNSS,,2026-09-17-gab-gabonclic-cnss-revolution-numerique-service-public
+GAB,Centre national d'état civil,Centre national d'état civil,civil,,Ministère de l'Intérieur,,2026-09-28-gab-etat-civil-le-gabon-engage-une-reforme-structurelle-pour-moderniser-so
 GHA,Births and Deaths Registry digital registration,Ghana,civil,,Births and Deaths Registry,regional and district registrars,2026-09-25-gha-unicef-bdr-and-kuami-eugene-push-for-improved-birth-registration-in-be
 GHA,Harmonised Births and Deaths Registry Portal,Ghana,civil,,Births and Deaths Registry,,2026-08-10-ghana-crvs-decade-architecture-of-visibility
 GIN,digital birth certificate system,Guinea,civil,"data centre moved from the Maison centrale to a new site, run by a contracted company",civil registry offices (communes),communes,2026-09-02-guinee-penurie-actes-naissance-numeriques
@@ -391,6 +394,7 @@ UGA,Partner Management System,Uganda,other,,NIRA,,2026-06-01-nira-birth-registra
 UGA,MVRS,Uganda,civil,,NIRA,,2026-07-18-nira-crvs-national-id-integration-egmrg
 UGA,NSIS with BDR module,Uganda,civil,OpenCRVS,NIRA,,2026-07-18-nira-crvs-national-id-integration-egmrg
 UGA,crvs.nsis.nira.go.ug,Uganda,civil,OpenCRVS,NIRA,,2026-07-18-nira-crvs-national-id-integration-egmrg
+UGA,digital birth and death registers,MoH-NIRA digital birth and death registers,civil,DHIS2 to NIRA CRVS,NIRA; Ministry of Health,,2026-01-01-uga-2025-annual-report-strengthening-civil-registration-and-vital-statisti
 ZAF,population register,South Africa,other,,Home Affairs,,2026-10-01-sa-digital-id-schreiber-demo
 ZAF,National Population Register,South Africa,other,,Department of Home Affairs,,2026-04-08-cabinet-approves-revised-white-paper-citizenship
 ZAF,e-birth registration platform,South Africa,civil,,Department of Home Affairs,,2025-07-08-zaf-govza-nzuza-home-affairs-budget-vote-2025-26
