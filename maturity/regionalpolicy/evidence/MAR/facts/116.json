@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-20-mar-la-cnpd-du-cap-vert-et-la-cndp-maroc-signent-une-convention-dadhesion",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Morocco's CNDP signed an agreement with Cabo Verde's data protection commission, CNPD, committing both to cooperate on personal data protection, with CNDP to train CNPD staff.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "DATA-TIKA agreement",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
