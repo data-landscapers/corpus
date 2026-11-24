@@ -12,9 +12,10 @@
       "cap": "",
       "flags": "advancing;community integrated",
       "stage_sources": "UGA-007;UGA-020;UGA-041;UGA-042",
-      "gaps": "No share or count of primary clinics entering their own reports is published: the ministry says only that decentralising entry to facilities continued (UGA-042), and facility entry is established by census only for HC IVs and hospitals (UGA-019, UGA-020). The newest fact (UGA-007, August 2026) has many Health Centre IIIs without computers and one carrying its report to the district, which disagrees with the facility-entry rows. Finance is not stated, and the 58 to 98 per cent DHIS2 reporting rate behind the advancing flag (UGA-012) has no stated measure or denominator.",
+      "gaps": "No share or count of primary clinics entering their own reports is published: the ministry says only that decentralising entry to facilities continued (UGA-042), and facility entry is established by census only for HC IVs and hospitals (UGA-019, UGA-020). The newest fact (UGA-007, August 2026) has many Health Centre IIIs without computers and one carrying its report to the district, which disagrees with the facility-entry rows. Finance is not stated, and the 58 to 98 per cent DHIS2 reporting rate behind the advancing flag (UGA-012) has no stated measure or denominator. The 2025 civil registration annual report records a reporting gap while paper tools were phased out before all facilities were covered (UGA-062), a transition gap that does not remove coverage, so the advancing flag stands.",
       "note": "DHIS2 takes reports from every tier down to HC IIs and clinics, but stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and none is published. The 2028 target of 80% of HC IVs and IIIs reporting in real time (UGA-036) is a plan, not a position.",
-      "parent": "Parent, 2026-10-07: digitised takes one value; the newest fact (UGA-007) stands, the facility-entry rows are in gaps."
+      "parent": "Parent, 2026-10-07: digitised takes one value; the newest fact (UGA-007) stands, the facility-entry rows are in gaps.",
+      "as_at": "2026-11-24"
     },
     {
       "sub_indicator": "emr",
