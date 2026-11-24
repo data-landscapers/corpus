@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: AGO
-ledger_rows: 33
+ledger_rows: 34
 not_held: 6
-record: 9dee50098079
+record: 41a25c1d8386
 ---
 
 # News, Oct – Nov 2026
@@ -26,6 +26,8 @@ record: 9dee50098079
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 </nav>
 
 ## Governance
@@ -629,6 +631,28 @@ A presidential despacho signed on 14 October 2026 authorises USD 50 million to e
 **[Angola seeks stronger technology, investment ties with Qatar: Minister](https://thepeninsulaqatar.com/article/10/11/2026/angola-seeks-stronger-technology-investment-ties-with-qatar-minister)** — The Peninsula Qatar, 10 November 2026
 
 Angola's minister Mário Oliveira invited Qatari investors into Angola's technology sector in November 2026. He spoke in an interview at the ITU Plenipotentiary Conference in Doha, The Peninsula reported. He said the Conecta Angola programme involves 71 small internet service providers, and ANGOSAT-2 serves Mozambique, Namibia, Zambia and South Africa. He added that the SADC Shared Satellite Programme, led by Angola, has secured eight ITU orbital positions.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+</nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Industrial Production Index, manufacturing source</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Inconsistências estatísticas ditam ruptura entre INE e Ministério da Indústria](https://expansao.co.ao/economia/detalhe/inconsistencias-estatisticas-ditam-ruptura-entre-ine-e-ministerio-da-industria-75232.html)** — Expansão, 9 October 2026
+
+INE drops the industry ministry's portal data from its industrial production index, back to a 183-firm survey.
 
 </div>
 
