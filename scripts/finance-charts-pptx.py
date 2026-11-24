@@ -356,10 +356,10 @@ if True:
         rest = [(t, v) for t, v in tops.items() if v / ctot < 0.03]
         if len(rest) == 1: keep += rest
         elif rest: keep.append(("Other", sum(v for _, v in rest)))
-        text(s, px, py, pw, 0.3, [(CHN.get(k, k), {"bold": True, "color": COL[k]}), (f"  {ctot:,.0f}", {"color": INK2})], 13)
+        text(s, px, py, pw, 0.3, [(CHN.get(k, k), {"bold": True, "color": COL[k]}), (f"  {ctot:,.0f}", {"color": INK2})], 17)
         cd = CategoryChartData(); cd.categories = [TOPIC.get(t, t) for t, _ in reversed(keep)]
         cd.add_series(k, [round(v) for _, v in reversed(keep)])
-        gf = s.shapes.add_chart(XL_CHART_TYPE.BAR_CLUSTERED, Inches(px), Inches(py + 0.3), Inches(pw), Inches(ph - 0.3), cd)
+        gf = s.shapes.add_chart(XL_CHART_TYPE.BAR_CLUSTERED, Inches(px), Inches(py + 0.4), Inches(pw), Inches(ph - 0.4), cd)
         c2 = gf.chart; c2.has_legend = False; c2.has_title = False; c2.font.name = FONT
         inner(c2, 0.62, 0.0, 0.25, 1.0)
         pl = c2.plots[0]; pl.gap_width = 40
@@ -418,7 +418,7 @@ if True:
              color=INK if t == "budget" else "FFFFFF", bold=True, align=PP_ALIGN.CENTER)
     # budgets: named beside their slice, no panel
     x_, y_ = edge(mids[3], R + 0.15)
-    text(s, x_ - 2.6, y_ - 0.5, 2.5, 0.3, [(TNAME["budget"], {"bold": True, "color": "B7801A"}), (f"  {tot_t['budget']:,.0f}", {"color": INK2})], 13, align=PP_ALIGN.RIGHT)
+    text(s, x_ - 2.6, y_ - 0.5, 2.5, 0.3, [(TNAME["budget"], {"bold": True, "color": "B7801A"}), (f"  {tot_t['budget']:,.0f}", {"color": INK2})], 17, align=PP_ALIGN.RIGHT)
     text(s, x_ - 2.6, y_ - 0.2, 2.5, 0.3, "States’ own lines: no instruments", 10.5, color=FAINT, align=PP_ALIGN.RIGHT)
     PANEL = {TYPES[0]: (8.45, 1.75, 4.3, 2.75), TYPES[1]: (8.45, 4.75, 4.3, 1.8), TYPES[2]: (0.6, 4.45, 4.1, 1.3)}
     for i, k in enumerate(TYPES):
@@ -430,10 +430,10 @@ if True:
         if len(rest) == 1: keep += rest
         elif rest: keep.append(("Other", sum(v for _, v in rest)))
         col = SRC_COL[k]
-        text(s, px, py, pw, 0.3, [(TNAME[k], {"bold": True, "color": col}), (f"  {ctot:,.0f}", {"color": INK2})], 13)
+        text(s, px, py, pw, 0.3, [(TNAME[k], {"bold": True, "color": col}), (f"  {ctot:,.0f}", {"color": INK2})], 17)
         cd = CategoryChartData(); cd.categories = [INAME.get(n, n) for n, _ in reversed(keep)]
         cd.add_series(k, [round(v) for _, v in reversed(keep)])
-        gf = s.shapes.add_chart(XL_CHART_TYPE.BAR_CLUSTERED, Inches(px), Inches(py + 0.3), Inches(pw), Inches(ph - 0.3), cd)
+        gf = s.shapes.add_chart(XL_CHART_TYPE.BAR_CLUSTERED, Inches(px), Inches(py + 0.4), Inches(pw), Inches(ph - 0.4), cd)
         c2 = gf.chart; c2.has_legend = False; c2.has_title = False; c2.font.name = FONT
         inner(c2, 0.62, 0.0, 0.25, 1.0)
         pl = c2.plots[0]; pl.gap_width = 40
