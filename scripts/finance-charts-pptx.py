@@ -15,8 +15,11 @@ Country, continent-wide XAF and XSS are merged as "Africa"). Drawn as plain rect
 python-pptx has no native treemap; the slide is skipped if the workbook is missing.
 
 The last slide is all finance by chapter and topic (Bill, 2026-11-24): a pie of chapters with a
-bar chart of each chapter's topics drawn out from its slice, from the Pivot sheet of `--pivot`.
+bar chart of each chapter's topics drawn out from its slice, from the all-finance sheet of `--pivot`.
 The smallest chapters share one "Other" slice and get no panel.
+
+After it, "the foundations" (Bill, 2026-11-24): ten of the smallest topics,
+named in the script, as 100% bars by source under a bar for all digital finance.
 
 Defaults: `site/finance/all/all-finance.csv`, and `~/Downloads/all-finance-charts-{today}.pptx`.
 Needs `python-pptx`. The subtitles are fixed text: the script prints a WARNING when the data
@@ -291,14 +294,16 @@ for ser, t in zip(pl.series, src):
 import math
 if os.path.exists(a.pivot):
     import openpyxl
-    ws = openpyxl.load_workbook(a.pivot, data_only=True)["Pivot"]
-    chap = collections.OrderedDict(); cur = None
-    for r in ws.iter_rows(values_only=True):
-        if not r[0] or r[0] in ("Row Labels", "Grand Total") or r[1] is None: continue
-        name, v = str(r[0]), float(r[1]) / 1e6
-        if cur is None or sum(chap[cur][1].values()) >= chap[cur][0] - 0.001:
-            cur = name; chap[cur] = [v, collections.OrderedDict()]
-        else: chap[cur][1][name] = v
+    ws = openpyxl.load_workbook(a.pivot, data_only=True, read_only=True)["all-finance"]
+    it = ws.iter_rows(values_only=True); hdr = list(next(it)); ix = {h: i for i, h in enumerate(hdr)}
+    cell = collections.defaultdict(lambda: collections.defaultdict(float))   # (chapter, topic) -> type -> US$ m
+    for r in it:
+        if r[ix["chapter"]] and str(r[ix["year"]]) in YEARS:
+            cell[(r[ix["chapter"]], r[ix["primary_topic"]])][r[ix["type"]]] += float(r[ix["value_usd"]] or 0) / 1e6
+    chap = collections.OrderedDict()
+    for (c, t), d in sorted(cell.items(), key=lambda kv: -sum(kv[1].values())):
+        chap.setdefault(c, [0, collections.OrderedDict()]); chap[c][0] += sum(d.values()); chap[c][1][t] = sum(d.values())
+    chap = collections.OrderedDict(sorted(chap.items(), key=lambda kv: -kv[1][0]))
     total = sum(c[0] for c in chap.values())
     big = [k for k, c in chap.items() if c[0] / total >= 0.025]
     small = [k for k in chap if k not in big]
@@ -364,6 +369,65 @@ if os.path.exists(a.pivot):
         ty = py + ph / 2
         ln = s.shapes.add_connector(1, Inches(sx), Inches(sy), Inches(tx), Inches(ty))
         ln.line.color.rgb = rgb(COL[k]); ln.line.width = Pt(1.25)
+
+# ---------- Last slide: the foundations only states and donors pay for ----------
+if os.path.exists(a.pivot):
+    cols = ["aid", "budget", "other African finance", "other non-African finance"]
+    piv = collections.defaultdict(lambda: {c: 0.0 for c in cols})
+    for (c, t), d in cell.items():
+        for k, v in d.items(): piv[t][k] += v
+    allf = {c: sum(piv[t][c] for t in piv) for c in cols}
+    found = ["Standards", "Data protection", "Digitalisation of sub-national government", "Research institutions",
+             "Legislation and regulation", "Regional collaboration", "Open data", "Digital divides",
+             "Public debate and participation in policymaking", "Rural digital data capture"]   # Bill's ten
+    found.sort(key=lambda t: -sum(piv[t].values()))
+    PRIV = ("other African finance", "other non-African finance")
+    ftot = {c: sum(piv[k][c] for k in found) for c in cols}; fsum = sum(ftot.values())
+    priv, privall = sum(ftot[c] for c in PRIV), sum(allf[c] for c in PRIV)
+    s = prs.slides.add_slide(BLANK)
+    frame(s, "The foundations only states and donors pay for",
+          f"Standards, data protection, regulation, research and public participation get {100 * fsum / sum(allf.values()):.0f}% "
+          f"of digital finance. Budgets and aid pay for nearly all of it; private finance put in US${priv:.1f} million of US${privall / 1000:.1f} billion.",
+          f"Ten of the smallest topics, 2024 to 2026, as recorded to {AS_AT}. " + DEF)
+    x = 0.6
+    for t in ["budget", "aid", "other African finance", "other non-African finance"]:
+        sw = s.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(x), Inches(1.88), Inches(0.2), Inches(0.2))
+        sw.fill.solid(); sw.fill.fore_color.rgb = rgb(SRC_COL[t]); sw.line.fill.background()
+        text(s, x + 0.28, 1.83, 2.2, 0.3, NAMES[t], 14, color=INK2)
+        x += 0.28 + len(NAMES[t]) * 0.085 + 0.45
+    text(s, 11.45, 2.2, 1.28, 0.3, "US$ millions", 12, color=FAINT, align=PP_ALIGN.RIGHT)
+    cats = ["All digital finance", "The ten below"] + [TOPIC.get(k, k).replace("Public debate and participation in policymaking", "Public debate and participation") for k in found]
+    data = [allf, ftot] + [piv[k] for k in found]
+    order_ = ["budget", "aid", "other African finance", "other non-African finance"]
+    cd = CategoryChartData(); cd.categories = list(reversed(cats))
+    for t in order_:
+        cd.add_series(NAMES[t], [round(100 * d[t] / sum(d.values()), 1) for d in reversed(data)])
+    CY_, CH_ = 2.5, 4.05
+    gf = s.shapes.add_chart(XL_CHART_TYPE.BAR_STACKED_100, Inches(0.6), Inches(CY_), Inches(10.9), Inches(CH_), cd)
+    ch = gf.chart; ch.has_legend = False; ch.has_title = False; ch.font.name = FONT
+    inner(ch, 0.3, 0.0, 0.68, 0.92)
+    pl = ch.plots[0]; pl.gap_width = 45; pl.overlap = 100
+    va, ca = ch.value_axis, ch.category_axis
+    va.has_major_gridlines = True; va.major_gridlines.format.line.color.rgb = rgb(RULE)
+    va.major_unit = 0.25; va.tick_labels.number_format = '0%'; va.tick_labels.number_format_is_linked = False
+    va.format.line.fill.background(); axis_font(va)
+    axis_font(ca, 12, INK); ca.format.line.color.rgb = rgb(INK2); ca.major_tick_mark = XL_TICK_MARK.NONE
+    for ser, t in zip(pl.series, order_):
+        ser.format.fill.solid(); ser.format.fill.fore_color.rgb = rgb(SRC_COL[t])
+        ser.format.line.color.rgb = rgb(PAPER); ser.format.line.width = Pt(1)
+        for i, d in enumerate(reversed(data)):
+            v = 100 * d[t] / sum(d.values())
+            if round(v) >= 8:
+                dl = ser.points[i].data_label; dl.has_text_frame = True; dl.text_frame.text = str(round(v))
+                dl.position = XL_LABEL_POSITION.CENTER
+                f = dl.text_frame.paragraphs[0].runs[0].font
+                f.size = Pt(11); f.bold = True; f.name = FONT; f.color.rgb = rgb(INK if t in ("budget", "aid") else "FFFFFF")
+    n_ = len(cats); rowh = CH_ * 0.92 / n_
+    for i, d in enumerate(data):
+        text(s, 11.6, CY_ + rowh * i + rowh / 2 - 0.13, 1.13, 0.26, f"{sum(d.values()):,.0f}", 12,
+             color=INK if i < 2 else INK2, bold=i < 2, align=PP_ALIGN.RIGHT)
+    ln = s.shapes.add_connector(1, Inches(0.6), Inches(CY_ + rowh * 2), Inches(12.73), Inches(CY_ + rowh * 2))
+    ln.line.color.rgb = rgb(INK2); ln.line.width = Pt(0.75)
 
 prs.save(OUT)
 print("saved", OUT, "| x", round(mult, 2), "|", n, "topics")
