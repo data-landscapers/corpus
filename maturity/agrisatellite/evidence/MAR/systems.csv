@@ -2,3 +2,6 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 MAR,Mohammed VI A and B satellites,Morocco,other,satellite,Morocco,,2024-06-01-morocco-copuos-67-statement-space-sustainable-development
 MAR,Royal Centre for Remote Sensing,Morocco,other,,Morocco,,2024-06-01-morocco-copuos-67-statement-space-sustainable-development
 MAR,Multirisque climatique (MAMDA),Morocco,agrisat,,MAMDA with Ministries of Agriculture and Finance,,2024-04-26-mar-fnh-mamda-multirisque-climatique-imagerie-satellitaire
+MAR,Géoportail sécheresse,Pôle Digital drought geoportal,agrisat,"CHIRPS, MODIS, SMAP","Pôle Digital de l'Agriculture, de la Forêt et Observatoire de la Sécheresse",,2026-01-01-mar-loa-pole-digital-fao-geoservices-agricoles-par-satellite-et-ia
+MAR,E-service agrométéorologique,Pôle Digital agrometeorological e-service,agrisat,web,Pôle Digital,,2026-01-01-mar-loa-pole-digital-fao-geoservices-agricoles-par-satellite-et-ia
+MAR,CGMS-Maroc,CGMS-Maroc,agrisat,,INRA,,2024-05-01-mar-cgms-maroc-alerte-secheresse-et-prevision-des-rendements

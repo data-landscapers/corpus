@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TUN,SWAMED,Tunisia,other,irrigation-water monitoring system with AI decision-support,Universita Vanvitelli-led consortium incl. CRTEAN,,2025-11-17-crtean-swamed-ia-agriculture-mediterranee
 TUN,WaPOR,Tunisia,agrisat,remote sensing for water productivity,FAO,,2024-11-01-fao-wapor-tunisie-activites-teledetection-agriculture
+TUN,AssurCereals (PAQ-Collabora),AssurCereals,agrisat,,ENIT / CNCT,,2024-09-01-tun-atelier-de-cloture-du-projet-suivi-elaboration-d-indices-de-secheresse
+TUN,CropSAT,APNRF-Tunisia Wheat / CropSAT,agrisat,Sentinel-2,"INGC with SLU, INAT and APNI",,2024-06-10-tun-from-field-to-satellite-advancing-nitrogen-use-for-durum-wheat-in-tuni
+TUN,SolaWISe land cover map,SolaWISe Tunisia land cover,agrisat,,FAO,,2024-05-15-tun-mapping-land-cover-in-tunisia-in-the-context-of-the-soil-land-and-wate

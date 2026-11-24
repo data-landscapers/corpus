@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-15-tun-mapping-land-cover-in-tunisia-in-the-context-of-the-soil-land-and-wate",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "FAO reports a land cover map of Tunisia made from Sentinel-2 imagery, covering cultivated land, olive trees, date palms and orchards, under the SolaWISe project.",
+   "as_of": "2024-05-15",
+   "date_precision": "day",
+   "system": "SolaWISe land cover map",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SolaWISe land cover map",
+   "country_label": "SolaWISe Tunisia land cover",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "FAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

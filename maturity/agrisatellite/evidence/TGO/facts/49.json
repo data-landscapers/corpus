@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-01-tgo-ifdc-siham-agrimarket-insights-vol-2",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Farmcover",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "",
+   "owner": "Lorica Assurances",
+   "tiers": ""
+  }
+ ],
+ "note": "Satellite use is stated only for Lorica's Farmcover insurance, a company product with no government part; SIHAM's weather and market services are not said to use satellite data."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-01-mus-edb-mauritius-newsletter-september-2024-interview-satish-purmessur",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Mauritius Cane Industry Authority and MSIRI say they have used GIS and remote sensing for sugarcane field management since the early 1990s, and in 2024 were testing drone imagery to complement satellite imagery.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "MCIA Drone Unit and Land Index",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

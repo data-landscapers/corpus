@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-04-egy-ahram-narss-crop-mapping-remote-sensing-ai",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The National Authority for Remote Sensing and Space Sciences, with the agriculture ministry, produced a crop map for winter 2023/24 and summer 2024 by governorate (wheat, clover, sugar beet) from remote sensing data and AI, the authority's chairman said on 4 November 2024.",
+   "as_of": "2024-11-04",
+   "date_precision": "day",
+   "system": "NARSS crop map",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NARSS crop mapping",
+   "country_label": "NARSS crop map",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "NARSS with Ministry of Agriculture",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

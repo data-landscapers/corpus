@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-31-mrt-bulletin-decadaire-de-suivi-de-la-saison-des-pluies-n007",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Office National de la Meteorologie's rainy-season bulletin No. 007 of 31 August 2025 reads vegetation condition from satellite NDVI data and gives advice to farmers and herders.",
+   "as_of": "2025-08-31",
+   "date_precision": "day",
+   "system": "Bulletin decadaire de suivi de la saison des pluies",
+   "class": "agrisat"
+  },
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "published",
+   "value": "scheduled",
+   "fact": "The Office National de la Meteorologie issues the rainy-season monitoring bulletin every ten days, No. 007 dated 31 August 2025.",
+   "as_of": "2025-08-31",
+   "date_precision": "day",
+   "system": "Bulletin decadaire de suivi de la saison des pluies",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bulletin decadaire de suivi de la saison des pluies",
+   "country_label": "Bulletin decadaire N007",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "Office National de la Meteorologie",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 CMR,Cartographie du cacao au Cameroun et caractérisation de son impact sur les forêts,Cameroun,agrisat,"SEPAL, Google Earth Engine, Copernicus4GEOGLAM",FAO with EU Programme Cacao Durable,,2025-07-22-cmr-fao-carte-cacao-images-satellites
 CMR,ONACC satellite products and climate database,Cameroon,other,"PostgreSQL/PostGIS; Sentinel, MODIS, GPM",ONACC,,2026-10-20-cmr-donnees-modelisation-geomatique-onacc
+CMR,ONACC plateforme numérique de suivi des risques climatiques,Plateforme ONACC,other,web,ONACC,,2026-02-03-cmr-cameroun-catastrophes-climatiques-une-plateforme-de-l-onac-pour-antici

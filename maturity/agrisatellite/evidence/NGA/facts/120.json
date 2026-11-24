@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-17-nga-fg-deploys-ai-to-track-jigawa-crops-farmland",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Punch reports the Presidency began field operations of the National Agro-Productivity System pilot in Jigawa State, using satellite imagery every five days and machine learning to track crops, with five-day monitoring due to start around January 2027.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "National Agro-Productivity System (NAPS)",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Agro-Productivity System (NAPS)",
+   "country_label": "Nigeria",
+   "class": "agrisat",
+   "platform": "Ground Truth Analytics with OCP Africa",
+   "owner": "Presidential Food Systems Coordinating Unit",
+   "tiers": "federal; pilot in Jigawa State"
+  }
+ ],
+ "note": ""
+}

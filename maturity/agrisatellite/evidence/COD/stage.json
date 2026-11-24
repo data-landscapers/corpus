@@ -1,18 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "agrisat",
-   "stage": "2",
-   "service": "underway",
-   "published": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001;COD-002",
-   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
-   "note": "SPACEBEL's contract of June 2026 and the JICA project of March 2026 prepare the national remote sensing centre, and the ministry's satellite-triggered insurance was to launch from 2025. No service in use is shown, so not 3.",
-   "as_at": "2026-11-23"
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "agrisat",
+      "stage": "2",
+      "service": "underway",
+      "published": "",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-001;COD-002;COD-004",
+      "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
+      "note": "SPACEBEL's contract of June 2026 and the JICA project of March 2026 prepare the national remote sensing centre, and the ministry's satellite-triggered insurance, paying from October 2026, is called a pilot. A pilot answers question 1, so not 3.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

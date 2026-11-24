@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-21-moz-mozambique-strengthens-use-of-satellite-data-to-assess-irrigation-perf",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "FAO says a two-day online coaching on 19 and 20 August 2026 trained technicians of the National Irrigation Institute (INIR) on IPADT, a WaPOR-based remote-sensing dashboard of irrigation performance for the Lower Limpopo schemes (Chokwe, Xai-Xai); the next step is to support INIR in applying it to real management problems.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "IPADT (Irrigation Performance Assessment and Diagnostic Tool)",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IPADT",
+   "country_label": "Mozambique",
+   "class": "agrisat",
+   "platform": "WaPOR v3 data dashboard, QGIS and Excel",
+   "owner": "INIR (tool by FAO and IWMI)",
+   "tiers": "scheme"
+  }
+ ],
+ "note": ""
+}

@@ -1,18 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "agrisat",
-   "stage": "2",
-   "service": "underway",
-   "published": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-001",
-   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
-   "note": "Ethiopian institutes hosted CropWatch training in June 2026, and FAO and the statistics service ran a pilot yield study in 2025. No service in use is shown, so not 3.",
-   "as_at": "2026-11-23"
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "agrisat",
+      "stage": "4",
+      "service": "inservice",
+      "published": "scheduled",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-005;ETH-006",
+      "gaps": "No count of farmers or districts reached by the bulletin is on record. The 2023 insurance count (ETH-004) is of a scheme run with WFP and Pula.",
+      "note": "Stage 4: the Ethiopian Meteorology Institute issues a dekadal satellite bulletin on vegetation and rainfall, newest for 21-30 September 2026. No count of farmers reached, so not 5.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

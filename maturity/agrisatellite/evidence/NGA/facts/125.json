@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-02-nga-cropwatch-country-profile-2024-nigeria",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NASRDA's Nigeria customised CropWatch platform, built with the Chinese Academy of Sciences' AIRCAS under an MoU of 4 July 2022, offers NDVI, biomass, VCI, temperature and precipitation deliverables downloadable at national, state and local government level, though NASRDA says other components are still to be completed.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "Nigeria customised CropWatch platform",
+   "class": "agrisat"
+  },
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "published",
+   "value": "scheduled",
+   "fact": "NASRDA says it has participated in publishing the quarterly CropWatch bulletin on crop production including Nigeria since the last quarter of 2021, with 7 editions to the date of the workshop.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "CropWatch quarterly bulletin",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria customised CropWatch platform",
+   "country_label": "Nigeria CropWatch",
+   "class": "agrisat",
+   "platform": "China CropWatch Cloud (AIRCAS)",
+   "owner": "NASRDA",
+   "tiers": "national, state, local government"
+  }
+ ],
+ "note": ""
+}

@@ -1,18 +1,18 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "agrisat",
-   "stage": "3",
-   "service": "inservice",
-   "published": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-001",
-   "gaps": "No source found since October 2023 says a satellite-based farming service publishes on a schedule.",
-   "note": "OSS says Mauritania has institutionalised MISLAND and SAQIYA on national servers, with the agriculture ministry among users, in 2025. No publication schedule is shown, so not 4.",
-   "as_at": "2026-11-23"
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "agrisat",
+      "stage": "4",
+      "service": "inservice",
+      "published": "scheduled",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-004;MRT-005",
+      "gaps": "No source found counts farmers, extension workers or districts reached by the bulletin. The TechghilAgro count of 102 farmers (MRT-003) is of a pilot.",
+      "note": "Stage 4: the national meteorological office issues a ten-day bulletin that reads satellite vegetation data, No. 007 of 31 August 2025. No count of farmers reached, so not 5.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

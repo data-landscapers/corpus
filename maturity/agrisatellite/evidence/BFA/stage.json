@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BFA-004;BFA-005",
-      "gaps": "No source found counts farmers, extension workers or districts reached by the bulletin. GARBAL, which counts its users, is SNV's service run with the ministry and ANAM.",
-      "note": "Stage 4 on 2026-10-21: ANAM, the government meteorological agency, publishes a ten-day agro-meteorological bulletin carrying NDVI, newest update 13-19 October 2026. No government count of farmers reached, so not 5.",
-      "as_at": "2026-10-21"
+      "gaps": "No source found counts farmers, extension workers or districts reached by the bulletin. The PPACI-BF insurance count (BFA-008) is of an insurance project that relies chiefly on ground rain-gauge data.",
+      "note": "Stage 4: ANAM publishes a ten-day bulletin carrying NDVI, newest update 13-19 October 2026. The 2025 count of insured farmers belongs to the PPACI-BF project, not to this service, so not 5.",
+      "as_at": "2026-11-24"
     }
   ]
 }

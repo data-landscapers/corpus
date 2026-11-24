@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-03-cmr-cameroun-catastrophes-climatiques-une-plateforme-de-l-onac-pour-antici",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Cameroon's national climate change observatory ONACC launched on 2026-01-14 a climate-risk monitoring platform for drought and flood early warning, built on weather observation, satellite imagery and field data, which it says serves agriculture among other sectors.",
+   "as_of": "2026-01-14",
+   "date_precision": "day",
+   "system": "ONACC plateforme numérique de suivi des risques climatiques",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONACC plateforme numérique de suivi des risques climatiques",
+   "country_label": "Plateforme ONACC",
+   "class": "other",
+   "platform": "web",
+   "owner": "ONACC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

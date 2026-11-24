@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-16-zmb-nasa-harvest-esa-worldcereal-zambia-workshop",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "NASA Harvest reports that CIMMYT's April 2025 field campaign collected 4,600 georeferenced crop samples in Zimbabwe, combined within ESA's WorldCereal system, and Zimbabwean agency participants attended the November 2025 Zambia workshop.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "ESA WorldCereal",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ESA WorldCereal",
+   "country_label": "WorldCereal crop mapping",
+   "class": "agrisat",
+   "platform": "WorldCereal cloud platform",
+   "owner": "ESA, VITO, CIMMYT, NASA Harvest",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

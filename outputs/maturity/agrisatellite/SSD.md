@@ -2,7 +2,7 @@
 
 ## Satellite data in agriculture
 
-**Satellite service.** [As at July 2026 the World Bank-led Joint Monitoring Report team runs a Joint Food Security Monitor for South Sudan](<https://microdata.worldbank.org/index.php/catalog/8024>). [It raises monthly Typical, Heightened or Critical alerts for 78 admin-2 areas](<https://microdata.worldbank.org/index.php/catalog/8024>). [The alerts use a Drought - NDVI and a Drought - rainfall indicator group](<https://microdata.worldbank.org/index.php/catalog/8024>).
+**Satellite service.** [As at July 2026 the World Bank-led Joint Monitoring Report team runs a Joint Food Security Monitor for South Sudan](<https://microdata.worldbank.org/index.php/catalog/8024>). [It raises monthly Typical, Heightened or Critical alerts for 78 admin-2 areas](<https://microdata.worldbank.org/index.php/catalog/8024>). [The alerts use a Drought - NDVI and a Drought - rainfall indicator group](<https://microdata.worldbank.org/index.php/catalog/8024>). [The World Bank says the European Space Agency is using Earth observation data to assess desert locust damage and predict breeding areas under the Emergency Locust Response Project](<https://www.worldbank.org/en/results/2024/07/29/improving-food-security-protecting-local-livelihoods-in-afe-south-sudan>).
 
 **Published regularly.** No source found since October 2023 says a government satellite-based farming service publishes on a schedule. The nearest fact found: [the Monitor raises its alerts monthly](<https://microdata.worldbank.org/index.php/catalog/8024>).
 

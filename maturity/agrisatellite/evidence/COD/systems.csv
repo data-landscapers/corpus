@@ -2,3 +2,4 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 COD,RDC-SAT,DRC,agrisat,Earth observation satellite,National Centre for Remote Sensing (CNT),national,2026-06-17-spacebel-rdc-sat-contract
 COD,CNT-JICA remote sensing project,DR Congo,agrisat,,Centre national de teledetection,,2026-03-30-cod-projet-teledetection-le-cnt-et-la-jica-mettent-en-place-le-comite-conj
 COD,PNDA parametric climate insurance,DRC,other,"TAMSAT, ERA5 rainfall indices","Ministry of Agriculture (PNDA), distributed by Mayfair Insurance Congo",three pilot provinces,2025-01-23-cod-axa-climate-contributes-to-the-launch-of-the-first-climate-insurance-p
+COD,PNDA index-based agricultural insurance scheme,DR Congo,agrisat,"satellite rainfall data, parametric triggers","Ministry of Agriculture (PNDA), with World Bank, AXA Climate, Mayfair Insurance Congo",province pilot,2026-10-22-cod-dr-congo-compensates-17-180-farmers-under-climate-insurance-scheme

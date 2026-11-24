@@ -1,18 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "agrisat",
-   "stage": "2",
-   "service": "underway",
-   "published": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-001",
-   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
-   "note": "Morocco told COPUOS in June 2024 that it is engaged in Earth-observation projects with products for agriculture. It names no farming service in operation, so not 3.",
-   "as_at": "2026-11-23"
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "agrisat",
+      "stage": "3",
+      "service": "inservice",
+      "published": "",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-002;MAR-003",
+      "gaps": "No source found since October 2023 says a government satellite-based farming service publishes on a schedule.",
+      "note": "Stage 3: the agriculture ministry's Digital Hub operates a satellite drought geoportal and a farmer e-service (2026), and CGMS-Maroc forecasts cereal yields from satellite imagery. No publication schedule is shown, so not 4.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

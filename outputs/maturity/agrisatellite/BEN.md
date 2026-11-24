@@ -2,7 +2,7 @@
 
 ## Satellite data in agriculture
 
-**Satellite service.** [In October 2025 AKADEMIYA2063 launched the AAgWa platform of satellite-based crop statistics and yield forecasts for Benin](<https://akademiya2063.org/press_releases/DERPIn_learning_event_CN_OCT_Benin.pdf>). [It built the platform with the national agricultural research institute INRAB and the farmer platform PNOPPA](<https://akademiya2063.org/press_releases/DERPIn_learning_event_CN_OCT_Benin.pdf>).
+**Satellite service.** [In October 2025 AKADEMIYA2063 launched the AAgWa platform of satellite-based crop statistics and yield forecasts for Benin](<https://akademiya2063.org/press_releases/DERPIn_learning_event_CN_OCT_Benin.pdf>). [It built the platform with the national agricultural research institute INRAB and the farmer platform PNOPPA](<https://akademiya2063.org/press_releases/DERPIn_learning_event_CN_OCT_Benin.pdf>). [INRAB, the national agricultural research institute, built a model on satellite vegetation-index series with CIRAD to map farming systems in northern and central Benin](<http://agritrop.cirad.fr/615836>). [The model reached 60% accuracy with radiometric and geographic variables combined](<http://agritrop.cirad.fr/615836>).
 
 **Published regularly.** No source found since October 2023 says a satellite-based farming service publishes on a schedule. The nearest fact found: [AAgWa gives satellite-based yield forecasts for Benin](<https://akademiya2063.org/press_releases/DERPIn_learning_event_CN_OCT_Benin.pdf>).
 

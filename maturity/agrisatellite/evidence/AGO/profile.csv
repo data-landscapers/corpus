@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,agrisat,service,coverage,underway,2026-10-13,AGO-001;AGO-002;AGO-003,,
-AGO,agrisat,published,coverage,,,,,nothing held
-AGO,agrisat,reach,coverage,,,,,nothing held
+AGO,agrisat,service,coverage,inservice,2026-10,AGO-004,AGO-002=underway;AGO-003=underway;AGO-001=underway,
+AGO,agrisat,published,coverage,,,,,nothing found
+AGO,agrisat,reach,coverage,,,,,nothing found

@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-02-tgo-agriculture-lome-sappuiera-sur-le-satellite-du-kirghizistan-pour-mieux",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Togo's ministry for public service efficiency and digital transformation announced a space cooperation with Kyrgyzstan launched on 1 October 2026, under which Kyrgyz satellite data will be supplied and local staff trained to use it for crop and pasture monitoring, drought detection and yield estimates.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "Togo-Kyrgyzstan space cooperation",
+   "class": "agrisat"
+  },
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Togo First reports that since September 2026 a UNDP and Japan supported project is testing satellite data and AI for crop monitoring and climate risk anticipation in the Savanes region, over 1,000 km2 in Cinkasse and Tone prefectures.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "UNDP-Japan Savanes satellite and AI pilot",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Togo-Kyrgyzstan space cooperation",
+   "country_label": "Kyrgyz satellite data supply",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "Togo ministry of public service efficiency and digital transformation with Kyrgyzstan",
+   "tiers": ""
+  },
+  {
+   "system": "UNDP-Japan Savanes satellite and AI pilot",
+   "country_label": "Savanes pilot",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "UNDP and Japan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

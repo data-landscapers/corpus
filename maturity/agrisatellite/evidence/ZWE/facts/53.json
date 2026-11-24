@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-19-zwe-herald-climate-change-agriculture-insurance-farmers-basket",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Herald reports that the Farmer's Basket hybrid index insurance pilot of 2024, run by the Insurance and Pensions Commission with government ministries, IFC and WFP, bases its weather index on daily satellite data.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Farmer's Basket",
+   "class": "agrisat"
+  },
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "reach",
+   "value": "counted",
+   "fact": "The Herald reports that 1,800 smallholder farmers received US$65 payouts each in the Farmer's Basket pilot, whose weather index uses daily satellite data.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Farmer's Basket",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Farmer's Basket",
+   "country_label": "Farmer's Basket",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "Insurance and Pensions Commission with Insurance Council, IFC, WFP and ministries",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

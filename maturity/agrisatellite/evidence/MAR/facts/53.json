@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-01-mar-loa-pole-digital-fao-geoservices-agricoles-par-satellite-et-ia",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Pôle Digital de l'Agriculture, de la Forêt et Observatoire de la Sécheresse says it now operates a drought-monitoring geoportal using satellite sources (CHIRPS, MODIS, SMAP), crop maps from Sentinel-2 imagery and a farmer agrometeorological e-service with NDVI, SPI and SPEI maps, developed under a FAO-funded LOA that closed 30 May 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Pôle Digital géoservices (géoportail sécheresse, e-service agrométéorologique)",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Géoportail sécheresse",
+   "country_label": "Pôle Digital drought geoportal",
+   "class": "agrisat",
+   "platform": "CHIRPS, MODIS, SMAP",
+   "owner": "Pôle Digital de l'Agriculture, de la Forêt et Observatoire de la Sécheresse",
+   "tiers": ""
+  },
+  {
+   "system": "E-service agrométéorologique",
+   "country_label": "Pôle Digital agrometeorological e-service",
+   "class": "agrisat",
+   "platform": "web",
+   "owner": "Pôle Digital",
+   "tiers": ""
+  }
+ ],
+ "note": "No schedule of publication and no count of farmers reached is stated."
+}

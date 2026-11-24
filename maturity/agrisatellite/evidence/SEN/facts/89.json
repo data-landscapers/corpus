@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-21-sen-kaolack-des-membres-de-douze-cooperatives-formes-a-l-assurance-agricol",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "APS reports that the national agricultural insurance company CNAAS, whose premiums the Senegalese state subsidises at 50%, offers a hybrid index insurance combining ground rainfall data and satellite data against drought and other climate risks.",
+   "as_of": "2026-08-21",
+   "date_precision": "day",
+   "system": "Assurance agricole indicielle hybride (CNAAS)",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Assurance agricole indicielle hybride",
+   "country_label": "CNAAS hybrid index insurance",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "CNAAS",
+   "tiers": ""
+  }
+ ],
+ "note": "The 835,000 producers figure is for CNAAS insurance generally, not tied to the satellite-based product."
+}

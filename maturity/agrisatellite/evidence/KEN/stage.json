@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "agrisat",
-      "stage": "2",
-      "service": "underway",
-      "published": "",
+      "stage": "4",
+      "service": "inservice",
+      "published": "scheduled",
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001;KEN-004",
-      "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
-      "note": "Kenya launched CroME in February 2026 to provide crop maps, and in 2024 the ministry planned to add ADM-Kenya products to its bulletin. Both are stated as intended, so not 3.",
-      "as_at": "2026-11-23"
+      "stage_sources": "KEN-007;KEN-008",
+      "gaps": "No source counts farmers, extension workers or districts reached by the drought early-warning bulletins. The livestock insurance count (KEN-006) belongs to a separate programme paid by private insurers.",
+      "note": "Stage 4: NDMA operates the Drought Early Warning System, using satellite imagery, and publishes monthly bulletins. The count of 100,000 insured people is not this service's, so not 5.",
+      "as_at": "2026-11-24"
     }
   ]
 }

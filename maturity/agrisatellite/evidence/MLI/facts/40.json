@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-mli-satellite-based-dgital-platform-for-rice-production-and-climate-impact",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "AICCRA reports that IRRI, AfricaRice and Sarmap have piloted a remote-sensing digital rice production monitoring platform in Mali since 2022 (Segou/Mopti and Sikasso Circle), with a 2024-2025 phase planned to scale it nationwide.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Satellite-based digital platform for rice production and climate impact monitoring",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Satellite-based digital platform for rice production and climate impact monitoring",
+   "country_label": "Mali rice monitoring platform (AICCRA)",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "IRRI, AfricaRice, Sarmap",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

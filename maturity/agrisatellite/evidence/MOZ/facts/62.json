@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-03-moz-statistics-from-space-a-new-approach-to-agricultural-production-data-f",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "CGIAR says the Statistics from Space project, run with Eduardo Mondlane University and stakeholders including MADER and INE, piloted satellite time-series stratified crop sampling at 92 sites in Gaza province in the 2023-2024 season, and a 2024-06-18 workshop agreed to transfer the technology to local institutions.",
+   "as_of": "2024-06-18",
+   "date_precision": "day",
+   "system": "Statistics from Space",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Statistics from Space",
+   "country_label": "Statistics from Space",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "CGIAR / IFPRI / Eduardo Mondlane University",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

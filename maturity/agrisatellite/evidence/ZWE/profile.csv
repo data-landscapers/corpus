@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZWE,agrisat,service,coverage,underway,2025-11-28,ZWE-001;ZWE-002;ZWE-003;ZWE-004,,
-ZWE,agrisat,published,coverage,,,,,nothing held
-ZWE,agrisat,reach,coverage,,,,,nothing held
+ZWE,agrisat,service,coverage,inservice,2026-10,ZWE-009,ZWE-005=underway;ZWE-001=underway;ZWE-002=underway;ZWE-004=underway;ZWE-003=underway;ZWE-006=underway;ZWE-007=underway,
+ZWE,agrisat,published,coverage,,,,,nothing found
+ZWE,agrisat,reach,coverage,counted,2024,ZWE-008,,

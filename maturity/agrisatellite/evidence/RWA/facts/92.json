@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-12-rwa-geospatial-technologies-to-inform-agricultural-production-in-rwanda",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Digital Earth Africa reports a University of Rwanda graduate's research using Landsat NDVI from its platform, with climate data, to assess crop health in the drought-prone Rwimbogo sector, with field validation still to come.",
+   "as_of": "2024-07-12",
+   "date_precision": "day",
+   "system": "Digital Earth Africa NDVI analysis, Rwimbogo",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Earth Africa NDVI analysis, Rwimbogo",
+   "country_label": "Rwimbogo Landsat NDVI study",
+   "class": "agrisat",
+   "platform": "Digital Earth Africa",
+   "owner": "University of Rwanda graduate research",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

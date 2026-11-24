@@ -9,10 +9,10 @@
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-002;DZA-005",
+      "stage_sources": "DZA-012;DZA-011;DZA-002;DZA-005",
       "gaps": "No source found since October 2023 says a satellite-based farming service publishes on a schedule.",
-      "note": "The agriculture ministry's WaPOR unit uses a satellite water-use tool, and ASAL imagery served locust control in 2025. No publication schedule is shown, so not 4.",
-      "as_at": "2026-11-23"
+      "note": "ASAL's national locust platform and early-warning system, honoured by FAO in October 2025, and the ministry's WaPOR unit are in use. No publication schedule is shown, so not 4.",
+      "as_at": "2026-11-24"
     }
   ]
 }

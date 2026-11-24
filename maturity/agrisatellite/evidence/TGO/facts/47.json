@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-06-tgo-undp-japan-solafune-climate-smart-agriculture",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Togolese government portal reports a UNDP and Japan project, implemented by Solafune, to build a digital platform combining satellite and field data for crop monitoring, currently tested over a 1,000 km2 pilot zone in Cinkasse and Tone prefectures, Savanes region.",
+   "as_of": "2026-09-06",
+   "date_precision": "day",
+   "system": "Exploiter la surveillance et l'analyse predictive pour une agriculture adaptee au climat au Togo",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Climate-adapted agriculture monitoring and predictive analytics platform",
+   "country_label": "Solafune platform, Cinkasse and Tone pilot",
+   "class": "agrisat",
+   "platform": "digital platform, satellite and field data",
+   "owner": "UNDP and Japan, implemented by Solafune",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

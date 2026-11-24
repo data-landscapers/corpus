@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-29-sdn-sudan-country-activities-wapor-remote-sensing-for-water-productivity",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "FAO's WaPOR page says Gezira Scheme is a WaPOR pilot area in Sudan, with partners including the Ministry of Agriculture and Forests, the Agricultural Research Corporation and the Sudan Meteorological Authority, and lists a July 2024 report monitoring Gezira cropland with WaPOR satellite data.",
+   "as_of": "2024-07-11",
+   "date_precision": "day",
+   "system": "WaPOR",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WaPOR",
+   "country_label": "WaPOR (FAO)",
+   "class": "other",
+   "platform": "portal",
+   "owner": "FAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

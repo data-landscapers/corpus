@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MOZ,Statistics from Space project,Mozambique,agrisat,"EO-based sampling frame, smartphone field-data app, cloud aggregation and visualization platform","University of Twente, Universidade Eduardo Mondlane, IFPRI (CGIAR)","pilot provinces Gaza, Manica, Zambezia",2026-06-10-cgiar-statistics-from-space-mozambique
 MOZ,Integrated Electrification Platform,Mozambique,other,interactive maps and dashboards,MIREME,,2026-11-09-moz-mozambique-estevao-pale-unveils-geospatial-plan-and-integrated-platform-to-guide
+MOZ,Statistics from Space,Statistics from Space,agrisat,,CGIAR / IFPRI / Eduardo Mondlane University,,2024-08-03-moz-statistics-from-space-a-new-approach-to-agricultural-production-data-f
+MOZ,IPADT,Mozambique,agrisat,"WaPOR v3 data dashboard, QGIS and Excel",INIR (tool by FAO and IWMI),scheme,2026-08-21-moz-mozambique-strengthens-use-of-satellite-data-to-assess-irrigation-perf
+MOZ,Hollard Mozambique index insurance for smallholders,Mozambique,other,"satellite index, mobile payments, embedded in seed inputs",Hollard Mozambique (company),three provinces,2025-07-08-moz-new-agricultural-insurance-book-launch-in-mozambique

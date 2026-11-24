@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-01-mar-cgms-maroc-alerte-secheresse-et-prevision-des-rendements",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "A 2024 AgriMaroc report on an INRA book says the CGMS-Maroc drought-alert and cereal-yield forecasting system, run since the early 2010s with INRA, IAV Hassan II, Maroc Météo and the statistics directorate, uses satellite imagery to monitor cereal crops in real time.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "CGMS-Maroc",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CGMS-Maroc",
+   "country_label": "CGMS-Maroc",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "INRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

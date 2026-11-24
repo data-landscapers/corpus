@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,agrisat,service,coverage,underway,2026-03-12,KEN-001;KEN-002;KEN-003;KEN-004,,
-KEN,agrisat,published,coverage,,,,,nothing held
-KEN,agrisat,reach,coverage,,,,,nothing held
+KEN,agrisat,service,coverage,inservice,2025-08-29,KEN-005;KEN-007,KEN-002=underway;KEN-001=underway;KEN-003=underway;KEN-004=underway,
+KEN,agrisat,published,coverage,scheduled,2025-08-29,KEN-008,,
+KEN,agrisat,reach,coverage,counted,2024-10-08,KEN-006,,

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-20-sle-giews-country-brief-the-republic-of-sierra-leone",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "FAO GIEWS's August 2025 country brief says remote sensing data indicates poor vegetation conditions in several areas of Sierra Leone as of end-July, and lists its Earth Observation for Crop Monitoring tool among its sources.",
+   "as_of": "2025-08-20",
+   "date_precision": "day",
+   "system": "FAO GIEWS Earth Observation for Crop Monitoring",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FAO GIEWS Earth Observation for Crop Monitoring",
+   "country_label": "Sierra Leone",
+   "class": "agrisat",
+   "platform": "fao.org/giews/earthobservation",
+   "owner": "FAO GIEWS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

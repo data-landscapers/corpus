@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-01-nga-fg-eu-inaugurate-2-7m-earth-observation-based-agricultural-project",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Federal Government and the EU inaugurated a 2.7 million pound, three-year Earth Observation agricultural project run by NASRDA and the European Space Agency, with demonstration farms in seven states and an open-source agricultural information system to be built integrating satellite data and ground sensors.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "EO-based Agricultural Innovation Project",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EO-based Agricultural Innovation Project",
+   "country_label": "EO-based Agricultural Innovation Project",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "NASRDA with ESA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

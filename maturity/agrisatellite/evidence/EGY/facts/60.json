@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-18-egy-cairo24-new-delta-satellite-pest-monitoring-48-hours",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "A workshop of the National Committee for Astronomy and Space Sciences discussed the national smart agricultural monitoring and data project in the New Delta, which uses satellite imagery and AI to measure crop health and soil moisture and detect pest hotspots within 48 hours.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "National smart agricultural monitoring and data project, New Delta",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National smart agricultural monitoring and data project, New Delta",
+   "country_label": "New Delta smart monitoring project",
+   "class": "agrisat",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

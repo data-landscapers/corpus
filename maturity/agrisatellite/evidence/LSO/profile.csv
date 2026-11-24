@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,agrisat,service,coverage,underway,2021-11-04,LSO-001,,nothing dated since 2023-10-21
-LSO,agrisat,published,coverage,,,,,nothing held
-LSO,agrisat,reach,coverage,,,,,nothing held
+LSO,agrisat,service,coverage,inservice,2026-10,LSO-002,LSO-001=underway,
+LSO,agrisat,published,coverage,scheduled,2026-10-26,LSO-003,,
+LSO,agrisat,reach,coverage,,,,,nothing found

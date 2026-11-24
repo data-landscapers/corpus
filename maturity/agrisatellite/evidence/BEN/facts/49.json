@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-ben-cartographie-des-systemes-agraires-au-nord-et-au-centre-du-benin-par-t",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "INRAB, the national agricultural research institute, with CIRAD built a Random Forest model on satellite vegetation-index series to map farming systems in northern and central Benin, reaching 60% accuracy with radiometric and geographic variables combined.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Farming systems mapping model",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
