@@ -45,6 +45,12 @@ jobs:
           path: "site"
           name: github-pages-${{ github.run_attempt }}
 
+      # deploy-pages lists the run's artifacts 0.3s after the upload finalises, and on
+      # 2026-11-24 that list lagged an attempt behind: attempt 1 found none, attempt 2 only
+      # attempt 1's ("No artifacts named github-pages-2"). A short wait lets it catch up.
+      - name: Let the artifact list catch up
+        run: sleep 30
+
       # 10 minutes is deploy-pages' ceiling: a larger value is clamped to it (every
       # timed-out attempt on 2026-11-06 and 11-10 stopped at 10m04s). A deploy that
       # works takes seconds; one that hangs is a GitHub-side stall that a re-run an
