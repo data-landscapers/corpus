@@ -1,12 +1,12 @@
 ---
 title: Morocco: status report
-compiled: 2026-11-20
+compiled: 2026-11-24
 place: MAR
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 13
-sources_cited: 283
+sources_cited: 285
 sections_written: 39
 not_established: 1
 acquire_lines: 61
@@ -366,7 +366,7 @@ On 2024 ODIN scores, coverage is strongest on [poverty and income, education fac
 
 [The meteorological directorate switched from Meteosat Second Generation to Meteosat Third Generation data in January 2025](https://aujourdhui.ma/actualite/anticipation-des-risques-meteorologiques-la-dgm-se-dote-du-systeme-meteosat-3eme-generation). [Its forecast chain combines satellite images every ten minutes with some 430 automatic stations and 44 observation centres](https://fr.le360.ma/societe/de-lobservation-aux-alertes-comment-la-dgm-prepare-ses-bulletins-meteo_74T4ZDGOOZEBTD4RQVUTJNIYPE/) (December 2025). [In July 2026 the water minister said weather alert bulletins reached all 1,503 municipalities, which receive daily forecasts by SMS](https://en.le360.ma/society/morocco-extends-weather-alerts-to-all-municipalities-sends-daily-forecasts-by-sms_MEF6DAKMDVF4TBCQX3M7KETBYI/).
 
-[A satellite drought index was put into operation for rainfed cereals and rangelands in 2021-2022 under the MENAdrought project](https://menadrought.iwmi.org/wp-content/uploads/sites/44/2023/10/menadrought_project_achievements_and_prospects_in_morocco-final_report.pdf). [The project also built a web interface for drought statistics](https://menadrought.iwmi.org/wp-content/uploads/sites/44/2023/10/menadrought_project_achievements_and_prospects_in_morocco-final_report.pdf). [The SAT'IRR irrigation platform was installed at the Royal Centre for Remote Sensing, first advising about ten farmers in the Gharb and Haouz](https://www.spaceclimateobservatory.org/irrisat-maroc).
+[A satellite drought index was put into operation for rainfed cereals and rangelands in 2021-2022 under the MENAdrought project](https://menadrought.iwmi.org/wp-content/uploads/sites/44/2023/10/menadrought_project_achievements_and_prospects_in_morocco-final_report.pdf). [The project also built a web interface for drought statistics](https://menadrought.iwmi.org/wp-content/uploads/sites/44/2023/10/menadrought_project_achievements_and_prospects_in_morocco-final_report.pdf). [The SAT'IRR irrigation platform was installed at the Royal Centre for Remote Sensing, first advising about ten farmers in the Gharb and Haouz](https://www.spaceclimateobservatory.org/irrisat-maroc). [A letter of agreement between the agriculture ministry's digital hub and FAO closed on 30 May 2026 after producing crop and parcel maps for two pilot sites and a drought-observatory prototype](https://poledigital.ma/satellite-et-intelligence-artificielle-pour-le-developpementde-geoservices-agricoles-foncier-cultures-eau/). [A 2024 book by the national agronomic research institute describes CGMS-Maroc, in use since the early 2010s, which forecasts cereal yields from satellite imagery, agro-meteorological models and artificial intelligence](https://www.agrimaroc.ma/cgms-maroc-systeme-alerte-secheresse-prevision-rendements-cerealiers/).
 
 ## Geopolitics
 
