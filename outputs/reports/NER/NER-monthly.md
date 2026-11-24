@@ -1,11 +1,11 @@
 ---
 title: Niger — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: NER
-ledger_rows: 13
+ledger_rows: 14
 not_held: 1
-record: 0e7522198484
+record: 09a7c9244b7d
 ---
 
 # News, Oct – Nov 2026
@@ -279,6 +279,20 @@ Niger scored 0.73 out of 4 on the Africa AI Governance Index 2026, in the Nascen
 </nav>
 
 ### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National statistical yearbook</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Annuaire statistique 2021-2025, édition 2026](https://www.stat-niger.org/wp-content/uploads/annuaire_bulletin/annuaire/annuaire_statistique_ins_2021_2025_vf.pdf)** — Institut National de la Statistique (INS), 1 November 2026
+
+INS compendium from ministry statistics, INS data and BCEAO, 31 chapters; quality-committee validation Oct 2026.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
