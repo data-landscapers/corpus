@@ -1,12 +1,12 @@
 ---
 title: Somalia: status report
-compiled: 2026-11-16
+compiled: 2026-11-24
 place: SOM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 225
+sources_cited: 226
 sections_written: 39
 not_established: 2
 acquire_lines: 38
@@ -328,7 +328,7 @@ Across the 23 categories assessed in 2024 the mean score is 3.7 out of 10, the w
 
 [A partner-run remote-sensing service estimates cultivable area and production and maps land use](https://faoswalim.org/information-management/information-services/remote-sensing) (August 2026). No national programme for the state's use of earth-observation or geospatial data was in place as at August 2026. One state body reads satellite data itself. [The civil aviation authority installed a Meteosat Third Generation receiver in Mogadishu and a PUMA-2025 workstation, replacing a decade-old platform](https://spaceinafrica.com/2025/07/02/somalia-launches-advanced-satellite-system-to-boost-aviation-weather-monitoring/) (July 2025). [The equipment tracks lightning and convective storms](https://spaceinafrica.com/2025/07/02/somalia-launches-advanced-satellite-system-to-boost-aviation-weather-monitoring/). [No Somali surface weather station was transmitting data to the WMO's global exchange systems in 2023](https://www.un-soff.org/wp-content/uploads/2023/09/Somalia-SOFF-Readiness-Funding-Request.pdf). [In March 2026 the CREWS initiative approved support to rehabilitate automatic weather stations](https://crews-initiative.org/project/somalia/), and [in May 2026 support to set up a national meteorological agency](https://crews-initiative.org/project/somalia-nmhs/). [A national Early Warnings for All roadmap was validated in 2025](https://www.undrr.org/implementing-sendai-framework/sendai-framework-action/early-warnings-for-all/somalia).
 
-[The African Risk Capacity's drought policy, modelled on satellite rainfall, paid about US$2.18m to the government and the Start Network after the poor 2024 Deyr rains](https://docs.wfp.org/api/documents/WFP-0000165657/download/). [The World Bank-financed DRIVE livestock insurance, triggered by a satellite pasture index, paid US$3.88m to 17,734 Somali pastoralists in March 2026 with no claims filed](https://zep-re.com/no-one-filed-a-claim-71290-pastoralist-families-got-paid-anyway/).
+[The African Risk Capacity's drought policy, modelled on satellite rainfall, paid about US$2.18m to the government and the Start Network after the poor 2024 Deyr rains](https://docs.wfp.org/api/documents/WFP-0000165657/download/). [The World Bank-financed DRIVE livestock insurance, triggered by a satellite pasture index, paid US$3.88m to 17,734 Somali pastoralists in March 2026 with no claims filed](https://zep-re.com/no-one-filed-a-claim-71290-pastoralist-families-got-paid-anyway/). [In September 2026 it paid US$3.43m to 17,373 pastoralists after poor April to June rains](https://hoadrive.info/stories/drought-takaful-payout-september-2026/).
 
 ## Geopolitics
 
