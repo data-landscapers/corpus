@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: TZA
-ledger_rows: 60
+ledger_rows: 61
 not_held: 4
-record: 7a010f212b83
+record: 767ea090f80f
 ---
 
 # News, Oct – Nov 2026
@@ -211,6 +211,20 @@ Tanzania and Estonia agreed on 17 November 2026 to deepen cooperation on e-servi
 **[Tanzania secures 441/-bn Korean loan for advanced ICT and AI University](https://businessinsider.co.tz/tanzania-secures-441-bn-korean-loan-for-advanced-ict-and-ai-university/)** — Business Insider Tanzania, 4 November 2026
 
 Tanzania's Ministry of Finance and Korea Eximbank signed a concessional loan of US$167.4 million (TSh441.12 billion) on 3 November 2026, from Korea's Economic Development Cooperation Fund. It finances a technology institute in Dodoma offering advanced training, including in AI. Korea Eximbank said it was the first EDCF project approved in 2026 and the first with support for AI.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">German financing commitment 2026 with a new Digital Transformation Centre phase</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Germany commits €116m to Tanzania’s infrastructure and business reforms](https://www.thecitizen.co.tz/tanzania/news/national/germany-commits-116m-to-tanzania-s-infrastructure-and-business-reforms-5681412)** — The Citizen, 23 November 2026
+
+EUR 100m KfW loans, EUR 16m GIZ grants; new phase of Digital Transformation Centre Tanzania, amount unstated.
 
 </div>
 

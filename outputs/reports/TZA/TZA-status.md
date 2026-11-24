@@ -1,12 +1,12 @@
 ---
 title: Tanzania: status report
-compiled: 2026-11-20
+compiled: 2026-11-24
 place: TZA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 12
-sources_cited: 299
+sources_cited: 300
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -113,6 +113,8 @@ In April 2026 the union communications ministry held [a memorandum with Viettel 
 In all, 295 digital-sector commitments to Tanzania are on record, worth about US$1.3 billion, starting between 2015 and 2026, with windows to 2034 (November 2026). Of these, 42 are active, 26 completed and three approved; 224 carry no recorded status (November 2026). The largest live commitment is the World Bank's US$150 million Digital Tanzania Project, and the largest approved is Korea's US$170 million loan for an artificial-intelligence and digital technology training institute (November 2026). Connectivity takes the most, about US$463 million in 13 commitments; training and skills is the most numerous, 81 commitments worth about US$174 million (November 2026). Of the 295, 273 are grants, worth about US$241 million, against seven concessional loans worth about US$608 million (November 2026). The largest financiers by money are Korea's Economic Development Cooperation Fund at about US$305 million and the World Bank at about US$303 million; the most frequent is KOICA, 80 grants worth about US$15 million (November 2026). Eight of the 18 commitments beginning in 2025 or 2026 are not recorded as aid (November 2026).
 
 [The World Bank's US$150 million Digital Tanzania Project runs from 2021 to 2026](https://projects.worldbank.org/en/projects-operations/project-detail/P160766). [In October 2022 Korea's development fund signed two concessional loans: US$70 million for resident registration and US$65 million to digitise land information](https://koreajoongangdaily.joins.com/2022/10/27/business/finance/korea-eximbank-exportimport-bank/20221027174722172.html). [Phase II of the digital ID build, on a Korea Eximbank loan, pays for a NIDA headquarters in Dodoma and offices in 31 districts](https://www.biometricupdate.com/202604/tanzania-seeks-biometrics-contractors-for-phase-ii-of-national-digital-id-project). [In April 2023 the state operator signed a TZS 37.3 billion contract with Huawei to extend the backbone 1,520 km into 23 further districts](https://english.news.cn/africa/20230419/3369e0b1f0e24ebb903c987db0fbbb2c/c.html). [In April 2022 Axian and Rostam Azizi bought Millicom's Tanzanian operations for US$100 million, later rebranded Yas Tanzania](https://www.connectingafrica.com/investment/millicom-exits-africa-with-tigo-tanzania-sale). [In April 2026 Vodacom completed a US$28 million rebuild of the M-Pesa platform](https://www.vodacom.com/news-article.php?articleID=16796). [MIGA's US$40 million cover for The Rise Fund II's stake in Airtel Money Tanzania is its first Tanzanian contract since 2014](https://www.miga.org/press-release/miga-boost-mobile-money-services-tanzania). [It is risk cover, not capital](https://www.miga.org/press-release/miga-boost-mobile-money-services-tanzania). [On 24 July 2026 the European Commission decided a 2026 action plan with EUR 20 million for digital infrastructure, e-commerce and e-payments](https://thechanzo.com/2026/10/20/eu-approves-sh462-billion-for-tanzania-redirects-support-to-private-sector-under-global-gateway-and-dira-2050/). [The money goes through non-government channels, with no budget support](https://thechanzo.com/2026/10/20/eu-approves-sh462-billion-for-tanzania-redirects-support-to-private-sector-under-global-gateway-and-dira-2050/).
+
+[In November 2026 Germany committed EUR 116 million at government negotiations in Berlin, including support for a new phase of the Digital Transformation Centre](https://www.thecitizen.co.tz/tanzania/news/national/germany-commits-116m-to-tanzania-s-infrastructure-and-business-reforms-5681412).
 
 ## ICT Infrastructure
 
