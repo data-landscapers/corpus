@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: SEN
-ledger_rows: 64
+ledger_rows: 65
 not_held: 2
-record: 06274a6c4425
+record: 146cc4115e75
 ---
 
 # News, Oct – Nov 2026
@@ -111,6 +111,20 @@ The manager of Senegal's national data centre at Diamniadio said 10% to 20% of t
 **[Santé numérique, le vide juridique qui fragilise la protection des données des patients](https://www.seneplus.com/article/sante-numerique-le-vide-juridique-qui-fragilise-la-protection-des-donnees-des-patients)** — SenePlus, 4 November 2026
 
 A Transform Health Senegal consultation found 65.8% of respondents unaware that Senegal has no specific health data law. The non-representative sample also found 44.7% saying their consent is never sought before their medical data is shared. A draft digital health bill remains under government review, the coalition says.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Extension of the validity of the 2016 ECOWAS biometric identity cards</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Assemblée nationale : L’annonce inattendue pour nos cartes d’identité biométriques](https://www.senenews.com/actualites/assemblee-nationale-lannonce-inattendue-pour-nos-cartes-didentite-biometriques_607132.html)** — SeneNews, 21 November 2026
+
+Bill 21/2026 on ECOWAS ID card validity: Law Committee sitting of 20 November cancelled; 2016 cards are voter cards.
 
 </div>
 
