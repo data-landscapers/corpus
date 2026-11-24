@@ -54,7 +54,8 @@ A record arriving before stage 2 is built; later ones are the next cycle's.
 4. **Run `UNIT-REVIEW.md`** if `python scripts/unit-review.py next` (with `--poll` from the loop) names units, for each in turn. Exit 1 — go to 5. **A maturity study whose handover note has closed** (`lint-prepared.py` names it) **is named in the cycle's closing report and not completed here**: step 5 opens in a fresh session (method §0). **Then `MATURITY-UPDATE.md` → *The rebuild***, two indicators, on `study-update.py next` the same way.
 5. **Run `RENDER.md` Step 0**, unchanged. A stop here ends the cycle.
 6. **Run `RENDER.md` Steps 1 to 7**, then its *Log* and its *Mirror*. Unchanged, in order.
-7. **Run `python scripts/r2-sync.py --mirror-down --weekly`** — the second copy of the editions; it does nothing inside a week of its last clean pull. When it pulls, log its line: `python scripts/log-line.py copy "<the R2 copy line>"`. Exit 1 is a message to Bill.
+7. **Run `python scripts/r2-sync.py --mirror-down --weekly`** — the editions' second copy, idle within a week of its last clean pull. Log a pull: `python scripts/log-line.py copy "<the R2 copy line>"`. Exit 1 is a message to Bill.
+7a. **`python scripts/country-reference.py --quarterly`**; `DUE` lines → `documentation/country-reference.md`.
 8. **Rebuild Research's search index, last and alone** *(Bill, 2026-10-29)* — after housekeeping. `C:\Research\handovers\index-build-for-corpus.md` is the procedure; log it as `log-line.py index`. Each failure is a new block to Bill *(message 102)*.
 
 The cycle has no stage of its own; steps 1, 4 and 8 are jobs run where they count.
