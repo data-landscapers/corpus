@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-22-eth-capital-faydapass-government-documents-digital-wallet",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Faydaverse told Capital that citizens currently access the FaydaPass digital wallet with their Fayda digital ID, free of charge.",
+   "as_of": "2026-11-22",
+   "date_precision": "day",
+   "system": "FaydaPass",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Faydaverse said nine government institutions, including those for trade and transport, have joined the FaydaPass credential platform.",
+   "as_of": "2026-11-22",
+   "date_precision": "day",
+   "system": "FaydaPass",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "Faydaverse said citizens currently use the FaydaPass digital credential wallet, reached with the Fayda digital ID, to access and verify credentials remotely.",
+   "as_of": "2026-11-22",
+   "date_precision": "day",
+   "system": "FaydaPass",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FaydaPass",
+   "country_label": "Ethiopia",
+   "class": "authentication",
+   "platform": "Fayda digital ID",
+   "owner": "Faydaverse",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
