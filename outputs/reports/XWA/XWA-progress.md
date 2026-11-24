@@ -5,7 +5,7 @@ period: 2025-11-01 to 2026-11-24
 place: XWA
 ledger_rows: 149
 not_held: 1
-record: 413166fcd70c
+record: 1553edb13758
 ---
 
 # West Africa: progress report, November 2025 – November 2026
@@ -163,7 +163,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 
 | Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
 |---|---|---|---|
-| ECOWAS Data Embassy in Sierra Leone | Sierra Leone stated it had tabled a regional data embassy framework at ECOWAS, with no text or regional decision (2026-09) | [The African Development Bank approved US$750,000 in project-preparation funding with technical assistance for an ECOWAS data embassy hosted in Sierra Leone, announced by the communications minister on 18 November 2026, ahead of construction financing from the bank; no site, capacity or construction cost is published](https://sierraloaded.sl/news/afdb-approve-750000-funding-for-sierra-leone/) | Movement |
+| ECOWAS Data Embassy in Sierra Leone | Sierra Leone stated it had tabled a regional data embassy framework at ECOWAS, with no text or regional decision (2026-09) | [The African Development Bank approved US$750,000 in project-preparation funding with technical assistance for an ECOWAS data embassy hosted in Sierra Leone, announced by the communications minister on 18 November 2026; State House said on 21 November 2026 that the Chief Minister announced an ECOWAS Data Embassy Readiness Initiative, a US$4.35 million facility backed by a US$1 million bank grant; the two accounts of the grant differ, and no site or capacity is published](https://www.einpresswire.com/article/958241032/sierra-leone-s-president-julius-maada-bio-closes-west-africa-integration-and-investment-summit-with-landmark-agreements) | Movement |
 | BCEAO private cloud for its data centres | Tendered as one indivisible lot in August 2023; no award on record (2023-08) | [The regional central bank tendered, as one indivisible lot, the supply and deployment of a private, scalable cloud on hyperconverged equipment across its two production sites and its backup site, with replication from the production sites to the backup; no award, contract value or deployment is on record](https://www.bceao.int/sites/default/files/2023-08/VF%20-%20%20AO_Z00_DBA_040_2023%20-%20Fourniture%20et%20d%C3%A9ploiement%20d%E2%80%99une%20solution%20r%C3%A9siliente%20de%20traitement%20de%20donn%C3%A9es%20%C3%A0%20la%20BCEAO.pdf) | No change |
 | Data-centre capacity gap | About 150MW to 200MW of new capacity, or 30 or more large-scale facilities, needed to reach Morocco's capacity-to-population ratio, on a regional depth of about 0.04MW per million people; the only region with no established or announced public cloud region from the top five providers (2025-05) | [About 150MW to 200MW of new capacity — 30 or more large-scale facilities — needed to reach the capacity-to-population ratio of a moderately mature market such as Morocco, on a regional depth of 0.04MW per million people; as at early 2025 the region was the only one on the continent with no established or announced public cloud region from any of the world's five largest cloud providers](https://cms.d4dhub.eu/assets/West-Africa-Data-Center-Markets-Brief.pdf) | No change, no later figure held |
 

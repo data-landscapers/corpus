@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: XWA
 ledger_rows: 38
 not_held: 1
-record: dcfb7597e9c0
+record: 4ba590ee736e
 ---
 
 # News, Oct – Nov 2026
@@ -251,6 +251,14 @@ Nigeria's communications ministry proposed a shared West African protocol to pro
 **[AfDB Approves $750,000 to Develop ECOWAS Data Embassy in Sierra Leone](https://sierraloaded.sl/news/afdb-approve-750000-funding-for-sierra-leone/)** — SierraLoaded, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
 
 The African Development Bank approved a $750,000 seed grant, with technical assistance, to prepare an ECOWAS Data Embassy in Sierra Leone. Communications minister Salima Monorma Bah announced it at WAIIS 2026 in Lungi on 18 November 2026. The grant pays for experts to structure the project before AfDB construction financing, which has not been quantified.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone’s President Julius Maada Bio Closes West Africa Integration and Investment Summit With Landmark Agreements](https://www.einpresswire.com/article/958241032/sierra-leone-s-president-julius-maada-bio-closes-west-africa-integration-and-investment-summit-with-landmark-agreements)** — State House Media and Communications Unit, Sierra Leone (via EIN Presswire), 21 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
+
+State House account: second cable USD 40m with USD 15m from World Bank; USD 4.35m ECOWAS data embassy facility.
 
 </div>
 
