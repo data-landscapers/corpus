@@ -8,7 +8,6 @@ FTS Code,OCHA Financial Tracking Service location id.,https://api.hpc.tools/v1/p
 UN M49 Code,UN Statistics Division M49 numeric country code.,https://unstats.un.org/unsd/methodology/m49/,2026,2026-11-24,manual
 IMF Code,IMF country code used in IFS and other IMF datasets.,https://data.imf.org/,2026,2026-11-24,manual
 ISO-Numeric Code,ISO 3166-1 numeric country code.,https://www.iso.org/iso-3166-country-codes.html,2026,2026-11-24,manual
-Continent,"Continent code (AF = Africa), as in GeoNames.",https://www.geonames.org/countries/,2026,2026-11-24,manual
 DAC Recipient Region,OECD DAC regional grouping the recipient belongs to.,https://www.oecd.org/en/data/insights/data-explainers/2024/06/dac-and-crs-code-lists.html,2026,2026-11-24,manual
 WB Region,World Bank geographic region.,https://datahelpdesk.worldbank.org/knowledgebase/articles/906519,2026,2026-11-24,auto
 UN Sub-region,UN M49 grouping: Northern Africa or Sub-Saharan Africa.,https://unstats.un.org/unsd/methodology/m49/,2026,2026-11-24,manual
@@ -17,9 +16,7 @@ WB Lending,"World Bank lending category: IDA, Blend or IBRD.",https://datahelpde
 HIPC Status,"Stage reached under the Heavily Indebted Poor Countries Initiative: Completion point, Decision point or Pre-decision point; blank if not a HIPC.",https://www.imf.org/en/About/Factsheets/Sheets/2023/Debt-relief-under-the-heavily-indebted-poor-countries-initiative-HIPC,2023,2026-11-24,manual
 UN LDC,LDC if on the UN list of Least Developed Countries.,https://www.un.org/ohrlls/content/list-ldcs,2026,2026-11-24,manual
 LDC Graduation Year,"Year of scheduled graduation from LDC status, set by the General Assembly.",https://policy.desa.un.org/sites/default/files/2025-06/ldc_list.pdf,2026,2026-11-24,manual
-DAC Member,Whether the country is a member of the OECD Development Assistance Committee.,https://www.oecd.org/en/about/committees/development-assistance-committee.html,2026,2026-11-24,manual
 OECD Fragility,"OECD States of Fragility classification in the report's own terms: Extreme fragility, High fragility, or Medium to low fragility outside its 61 fragile contexts.",https://www.oecd.org/en/publications/states-of-fragility-2025_81982370-en.html,2025,2026-11-24,manual
-Development status,UN World Economic Situation and Prospects development status.,https://policy.desa.un.org/sites/default/files/2026-01/wesp2026_annex.pdf,2026,2026-11-24,manual
 Fuel-exporting,Yes if WESP classifies the country as a fuel exporter; blank where WESP does not monitor it.,https://policy.desa.un.org/sites/default/files/2026-01/wesp2026_annex.pdf,2026,2026-11-24,manual
 Small island developing State,Yes if on the UN-OHRLLS list of Small Island Developing States.,https://www.un.org/ohrlls/content/list-sids,2026,2026-11-24,manual
 Landlocked developing,Yes if on the UN-OHRLLS list of Landlocked Developing Countries.,https://www.un.org/ohrlls/content/list-lldcs,2026,2026-11-24,manual
