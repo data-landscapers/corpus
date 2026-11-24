@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: MWI
-ledger_rows: 36
+ledger_rows: 37
 not_held: 28
-record: f494f02d8984
+record: 75351ef4cb84
 ---
 
 # News, Oct – Nov 2026
@@ -31,12 +31,30 @@ record: f494f02d8984
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Malawi Police Service Strategic Development Plan 2026-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mukhito backs digital overhaul of Malawi Police](https://www.nyasatimes.com/mukhito-backs-digital-overhaul-of-malawi-police/)** — Nyasa Times, 23 November 2026
+
+Police plan 2026-2031: POS fine payments at roadside, 1,000 CCTV cameras, 8,000 more officers.
+
+</div>
+
+</div>
 
 ### Legislation and regulation
 
