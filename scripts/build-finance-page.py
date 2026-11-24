@@ -32,6 +32,7 @@ it was a human-readable view of these same tables, nothing read it, and the
 website renders from the CSVs.
 """
 import os, re, sys, csv
+from decimal import Decimal, ROUND_HALF_UP
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import taxonomy_lib                                                             # noqa: E402
@@ -338,10 +339,19 @@ def usd_m_cell(usd):
 
     Three significant figures below a million is enough to keep the smallest deal held
     (US$366.85 → 0.000367) distinguishable from nothing, and an empty string stays what
-    it has always meant: no amount is held. A genuine zero is not a deal."""
+    it has always meant: no amount is held. A genuine zero is not a deal.
+
+    Whole millions round half up: Python's `.0f` rounds half to even, so KOICA's US$12.5m
+    in Cameroon printed as 12 (housekeeping 83)."""
     if not usd:
         return ""
-    return f"{usd:.0f}" if usd >= 1 else f"{usd:.3g}"
+    return half_up(usd, "1") if usd >= 1 else f"{usd:.3g}"
+
+
+def half_up(x, quantum):
+    """`x` rounded half up to `quantum` ("1", "0.1"), from its shortest repr so that a
+    float held as 12.4999… for 12.5 still rounds as the 12.5 it was written as."""
+    return str(Decimal(repr(x)).quantize(Decimal(quantum), rounding=ROUND_HALF_UP))
 
 
 def halved_cell(usd):
@@ -350,7 +360,7 @@ def halved_cell(usd):
     if not usd:
         return ""
     h = usd * SCOPE_SHARE
-    return f"{h:.1f}".rstrip("0").rstrip(".") if h >= 1 else f"{h:.3g}"
+    return half_up(h, "0.1").rstrip("0").rstrip(".") if h >= 1 else f"{h:.3g}"
 
 
 def amount_quality(rec):
