@@ -14,6 +14,10 @@ country and by financier, from Bill's workbook (`--treemaps`, sheets Country and
 Country, continent-wide XAF and XSS are merged as "Africa"). Drawn as plain rectangles, since
 python-pptx has no native treemap; the slide is skipped if the workbook is missing.
 
+The last slide is all finance by chapter and topic (Bill, 2026-11-24): a pie of chapters with a
+bar chart of each chapter's topics drawn out from its slice, from the Pivot sheet of `--pivot`.
+The smallest chapters share one "Other" slice and get no panel.
+
 Defaults: `site/finance/all/all-finance.csv`, and `~/Downloads/all-finance-charts-{today}.pptx`.
 Needs `python-pptx`. The subtitles are fixed text: the script prints a WARNING when the data
 no longer supports them, and the wording then needs revising by hand.
@@ -34,6 +38,7 @@ ap = argparse.ArgumentParser()
 ap.add_argument("--src", default=os.path.join(ROOT, "site", "finance", "all", "all-finance.csv"))
 ap.add_argument("--out", default=os.path.join(os.path.expanduser("~"), "Downloads", f"all-finance-charts-{TODAY}.pptx"))
 ap.add_argument("--treemaps", default=os.path.join(os.path.expanduser("~"), "Desktop", "african-finance.xlsx"))
+ap.add_argument("--pivot", default=os.path.join(os.path.expanduser("~"), "Desktop", "all-finance.xlsx"))
 a = ap.parse_args()
 SRC, OUT = a.src, a.out
 FONT = "Calibri"
@@ -281,6 +286,84 @@ for ser, t in zip(pl.series, src):
             f = dl.text_frame.paragraphs[0].runs[0].font
             f.size = Pt(12); f.bold = True; f.name = FONT
             f.color.rgb = rgb(INK if t == "budget" else "FFFFFF")
+
+# ---------- Last slide: chapters, with each chapter's topics drawn out ----------
+import math
+if os.path.exists(a.pivot):
+    import openpyxl
+    ws = openpyxl.load_workbook(a.pivot, data_only=True)["Pivot"]
+    chap = collections.OrderedDict(); cur = None
+    for r in ws.iter_rows(values_only=True):
+        if not r[0] or r[0] in ("Row Labels", "Grand Total") or r[1] is None: continue
+        name, v = str(r[0]), float(r[1]) / 1e6
+        if cur is None or sum(chap[cur][1].values()) >= chap[cur][0] - 0.001:
+            cur = name; chap[cur] = [v, collections.OrderedDict()]
+        else: chap[cur][1][name] = v
+    total = sum(c[0] for c in chap.values())
+    big = [k for k, c in chap.items() if c[0] / total >= 0.025]
+    small = [k for k in chap if k not in big]
+    COL = dict(zip(big, ["C84B2F", "1A63A8", "D9A23A", "5FA8DB", "6E9E5A", "8E6BB0"]))
+    CHN = {"ICT Infrastructure": "ICT infrastructure", "DPI": "Digital public infrastructure"}
+    s = prs.slides.add_slide(BLANK)
+    frame(s, "Where the money goes",
+          f"All digital finance in Africa, 2024 to 2026, by chapter and topic. ICT infrastructure takes "
+          f"{100 * chap[big[0]][0] / total:.0f}% and digital public infrastructure {100 * chap[big[1]][0] / total:.0f}%.  US$ millions",
+          "All sources: national budgets, aid, and African and non-African finance. Grey slice: " + ", ".join(k.lower() for k in small) + ". "
+          "Topics under 3% of their chapter are grouped as Other. "
+          f"Commitments, not disbursements, as recorded to {AS_AT}.")
+    # pie, pinned so its geometry is known
+    CX, CY, R = 6.55, 4.15, 1.45
+    cd = CategoryChartData(); cd.categories = [CHN.get(k, k) for k in big] + ["Other"]
+    cd.add_series("Chapters", [round(chap[k][0]) for k in big] + [round(sum(chap[k][0] for k in small))])
+    gf = s.shapes.add_chart(XL_CHART_TYPE.PIE, Inches(CX - R), Inches(CY - R), Inches(2 * R), Inches(2 * R), cd)
+    ch = gf.chart; ch.has_legend = False; ch.has_title = False; inner(ch, 0, 0, 1, 1)
+    START = 282  # puts ICT infrastructure upper right, DPI lower right, the rest on the left
+    fsa = ch.plots[0]._element.find(qn("c:firstSliceAng"))
+    if fsa is None: fsa = etree.SubElement(ch.plots[0]._element, qn("c:firstSliceAng"))
+    fsa.set("val", str(START))
+    ch.plots[0].vary_by_categories = True
+    vals = [chap[k][0] for k in big] + [sum(chap[k][0] for k in small)]
+    for i, pt in enumerate(ch.plots[0].series[0].points):
+        pt.format.fill.solid(); pt.format.fill.fore_color.rgb = rgb(COL[big[i]] if i < len(big) else GREY)
+        pt.format.line.color.rgb = rgb(PAPER); pt.format.line.width = Pt(1.5)
+    mids, acc = [], 0
+    for v in vals:
+        mids.append(math.radians(START + 360 * (acc + v / 2) / total)); acc += v
+    def edge(a_, r_): return CX + r_ * math.sin(a_), CY - r_ * math.cos(a_)
+    for i, v in enumerate(vals):   # percentages on the slices big enough to hold them
+        if v / total >= 0.05:
+            x_, y_ = edge(mids[i], R * 0.62)
+            text(s, x_ - 0.5, y_ - 0.17, 1.0, 0.34, f"{100 * v / total:.0f}%", 16, color="FFFFFF", bold=True, align=PP_ALIGN.CENTER)
+    # one panel per big chapter: (x, y, w, h)
+    PANEL = {big[0]: (8.45, 1.75, 4.3, 2.05), big[1]: (8.45, 4.05, 4.3, 2.5),
+             big[2]: (0.6, 5.15, 4.1, 1.4), big[3]: (0.6, 3.65, 4.1, 1.35), big[4]: (0.6, 1.75, 4.1, 1.75)}
+    for i, k in enumerate(big):
+        if k not in PANEL: continue
+        px, py, pw, ph = PANEL[k]; ctot, tops = chap[k][0], chap[k][1]
+        keep = [(t, v) for t, v in tops.items() if v / ctot >= 0.03]
+        rest = [(t, v) for t, v in tops.items() if v / ctot < 0.03]
+        if len(rest) == 1: keep += rest
+        elif rest: keep.append(("Other", sum(v for _, v in rest)))
+        text(s, px, py, pw, 0.3, [(CHN.get(k, k), {"bold": True, "color": COL[k]}), (f"  {ctot:,.0f}", {"color": INK2})], 13)
+        cd = CategoryChartData(); cd.categories = [TOPIC.get(t, t) for t, _ in reversed(keep)]
+        cd.add_series(k, [round(v) for _, v in reversed(keep)])
+        gf = s.shapes.add_chart(XL_CHART_TYPE.BAR_CLUSTERED, Inches(px), Inches(py + 0.3), Inches(pw), Inches(ph - 0.3), cd)
+        c2 = gf.chart; c2.has_legend = False; c2.has_title = False; c2.font.name = FONT
+        inner(c2, 0.62, 0.0, 0.25, 1.0)
+        pl = c2.plots[0]; pl.gap_width = 40
+        sr = pl.series[0]; sr.format.fill.solid(); sr.format.fill.fore_color.rgb = rgb(COL[k])
+        pl.has_data_labels = True; dls = pl.data_labels
+        dls.number_format = '#,##0'; dls.number_format_is_linked = False; dls.position = XL_LABEL_POSITION.OUTSIDE_END
+        dls.font.size = Pt(10); dls.font.color.rgb = rgb(INK2); dls.font.name = FONT
+        va, ca = c2.value_axis, c2.category_axis
+        va.visible = False; va.has_major_gridlines = False; va.minimum_scale = 0
+        axis_font(ca, 10, INK); ca.format.line.color.rgb = rgb(COL[k]); ca.major_tick_mark = XL_TICK_MARK.NONE
+        # leader from the slice to the panel
+        sx, sy = edge(mids[i], R + 0.04)
+        tx = px - 0.1 if px > CX else px + pw + 0.1
+        ty = py + ph / 2
+        ln = s.shapes.add_connector(1, Inches(sx), Inches(sy), Inches(tx), Inches(ty))
+        ln.line.color.rgb = rgb(COL[k]); ln.line.width = Pt(1.25)
 
 prs.save(OUT)
 print("saved", OUT, "| x", round(mult, 2), "|", n, "topics")
