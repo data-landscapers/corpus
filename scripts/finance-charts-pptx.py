@@ -9,6 +9,11 @@ PNGs are not touched; this writes a .pptx with native, editable charts.
 
     python scripts/finance-charts-pptx.py [--src CSV] [--out PPTX]
 
+Slide 2 is the reality check (Bill, 2026-11-24): African finance 2024-2026 as two treemaps, by
+country and by financier, from Bill's workbook (`--treemaps`, sheets Country and Financier; in
+Country, continent-wide XAF and XSS are merged as "Africa"). Drawn as plain rectangles, since
+python-pptx has no native treemap; the slide is skipped if the workbook is missing.
+
 Defaults: `site/finance/all/all-finance.csv`, and `~/Downloads/all-finance-charts-{today}.pptx`.
 Needs `python-pptx`. The subtitles are fixed text: the script prints a WARNING when the data
 no longer supports them, and the wording then needs revising by hand.
@@ -28,6 +33,7 @@ TODAY = datetime.date.today()
 ap = argparse.ArgumentParser()
 ap.add_argument("--src", default=os.path.join(ROOT, "site", "finance", "all", "all-finance.csv"))
 ap.add_argument("--out", default=os.path.join(os.path.expanduser("~"), "Downloads", f"all-finance-charts-{TODAY}.pptx"))
+ap.add_argument("--treemaps", default=os.path.join(os.path.expanduser("~"), "Desktop", "african-finance.xlsx"))
 a = ap.parse_args()
 SRC, OUT = a.src, a.out
 FONT = "Calibri"
@@ -148,7 +154,69 @@ for v, t in ends:
     text(s, 11.8, y, 0.93, 0.34, f"{v:,}", 15 if hi else 14, color=INK if hi else INK2, bold=hi, align=PP_ALIGN.RIGHT)
 text(s, 4.6, ypos(4200), 3.0, 0.4, f"×{mult:.1f} in two years", 16, color=ACCENT, bold=True)
 
-# ---------- Slide 2: who pays for what ----------
+# ---------- Slide 2: the reality check, as two treemaps ----------
+def squarify(vals, x, y, w, h):
+    """Squarified treemap (Bruls et al.); vals sorted descending, returns (x, y, w, h) each."""
+    tot = sum(vals); vals = [v * w * h / tot for v in vals]; out = []
+    def worst(row, side):
+        s_ = sum(row); return max(max(side * side * r / (s_ * s_), s_ * s_ / (side * side * r)) for r in row)
+    while vals:
+        side = min(w, h); row = [vals.pop(0)]
+        while vals and worst(row + [vals[0]], side) <= worst(row, side): row.append(vals.pop(0))
+        s_ = sum(row)
+        if w >= h:
+            cw = s_ / h; yy = y
+            for r in row: out.append((x, yy, cw, r / cw)); yy += r / cw
+            x += cw; w -= cw
+        else:
+            rh = s_ / w; xx = x
+            for r in row: out.append((xx, y, r / rh, rh)); xx += r / rh
+            y += rh; h -= rh
+    return out
+def treemap(slide, items, x, y, w, h, heading):
+    tot = sum(v for _, v in items)
+    text(slide, x, y - 0.38, w, 0.3, heading, 14, color=INK2, bold=True)
+    shades = ["C84B2F", "D4705A", "DE8E7D", "E7AB9F", "EEC5BC"]
+    for i, ((name, v), (rx, ry, rw, rh)) in enumerate(zip(items, squarify([v for _, v in items], x, y, w, h))):
+        big = v / tot >= 0.05
+        col = shades[min(i, 4)] if name != "Other" else "D8D5CC"
+        r = slide.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(rx), Inches(ry), Inches(rw), Inches(rh))
+        r.fill.solid(); r.fill.fore_color.rgb = rgb(col); r.line.color.rgb = rgb(PAPER); r.line.width = Pt(1.5)
+        r.shadow.inherit = False
+        if rw < 0.75 or rh < 0.5: continue
+        tf = r.text_frame; tf.word_wrap = True; tf.vertical_anchor = MSO_ANCHOR.TOP
+        tf.margin_left = tf.margin_right = tf.margin_top = Inches(0.06)
+        size = 14 if v / tot >= 0.15 else 11 if big else 8
+        dark = i >= 2 or name == "Other"
+        p = tf.paragraphs[0]; p.alignment = PP_ALIGN.LEFT
+        r1 = p.add_run(); r1.text = name
+        r1.font.size = Pt(size); r1.font.bold = True; r1.font.name = FONT
+        r1.font.color.rgb = rgb(INK if dark else "FFFFFF")
+        if rh >= 0.55:
+            p2 = tf.add_paragraph(); r2 = p2.add_run()
+            r2.text = f"{v / 1e6:,.0f}  ({100 * v / tot:.0f}%)" if big else f"{v / 1e6:,.0f}"
+            r2.font.size = Pt(size); r2.font.name = FONT; r2.font.color.rgb = rgb(INK if dark else "FFFFFF")
+    return tot
+if os.path.exists(a.treemaps):
+    import openpyxl
+    wb = openpyxl.load_workbook(a.treemaps, data_only=True)
+    def sheet(n): return sorted(((str(r[0]), float(r[1])) for r in wb[n].iter_rows(min_row=2, values_only=True)
+                                 if r[0] and r[1] and str(r[0]) != "Grand Total"), key=lambda t: -(t[1] if t[0] != "Other" else 0))
+    ctry, fin = sheet("Country"), sheet("Financier")
+    s = prs.slides.add_slide(BLANK)
+    ct, ft = sum(v for _, v in ctry), sum(v for _, v in fin)
+    if abs(ct - ft) > 1e6 or abs(ct / 1e6 - sum(afr)) > 5:
+        print(f"WARNING: treemap totals {ct/1e6:,.0f} / {ft/1e6:,.0f} do not match African finance 2024-2026, {sum(afr):,.0f}")
+    f3 = sum(v for _, v in fin[:3]) / ft; c3 = sum(v for _, v in ctry[:3]) / ct
+    frame(s, "But the rise rests on a few deals",
+          f"Three financiers account for {100 * f3:.0f}% of African finance since 2024, and continent-wide deals "
+          f"plus two countries take {100 * c3:.0f}%. Most African countries see little or none of it.  US$ millions",
+          f"African finance: non-state commitments other than aid by financiers from Africa, 2024 to 2026, as recorded to {AS_AT}. "
+          "Africa: continent-wide and multi-country commitments. Commitments, not disbursements.")
+    treemap(s, ctry, 0.6, 2.3, 5.9, 4.15, "By country")
+    treemap(s, fin, 6.83, 2.3, 5.9, 4.15, "By financier")
+
+# ---------- Slide 3: who pays for what ----------
 s = prs.slides.add_slide(BLANK)
 frame(s, "Who pays for what in Africa’s digital sector",
       "African and non-African financiers back connectivity, data storage and AI. Identity, statistics, "
