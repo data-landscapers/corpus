@@ -1,11 +1,11 @@
 ---
 title: East Africa — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: XEA
 ledger_rows: 21
 not_held: 0
-record: dabef494942f
+record: 17c46fc157ab
 ---
 
 # News, Oct – Nov 2026
@@ -123,6 +123,14 @@ East African Community ministers adopted regional strategies on artificial intel
 **[East African nations eye closer data transfer ties with each other - and perhaps Europe](https://www.mlex.com/mlex/articles/2552913/east-african-nations-eye-closer-data-transfer-ties-with-each-other-and-perhaps-europe)** — MLex, 20 November 2026
 
 An East African Community official told data protection regulators in Brussels in the week of 16 November 2026 that the community is drafting one data protection law. It covers eight Partner States and is expected for review in early 2027. The official said it could let the community negotiate EU data-transfer adequacy as a group.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[EAC Advances Regional Framework for Trusted Cross-Border Data Flows and Data Protection](https://www.eac.int/eadrip-news-updates/eardrip-press-releases/3625-eac-advances-regional-framework-for-trusted-cross-border-data-flows-and-data-protection)** — East African Community, 23 November 2026
+
+Moshi meeting 17-21 Nov 2026 drafts legislative scheme; Bill consolidation due 15 February 2027.
 
 </div>
 
