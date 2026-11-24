@@ -1,17 +1,18 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "2",
-   "rule": "draft",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-001;TUN-002",
-   "gaps": "No source found since October 2023 says: is a rule on ai harms in force.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "2",
+      "rule": "draft",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-001;TUN-002",
+      "gaps": "No source found says a rule on AI harms is in force or that a body is designated over AI.",
+      "note": "The ministry has begun drafting rules on AI and parliament is examining draft organic laws on personal data that regulate AI, which meets the draft rung. No rule in force is held.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

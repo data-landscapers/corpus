@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "GHA-002",
       "gaps": "No source found since October 2023 says a body is designated with a mandate over AI. The Cyber Security Authority's 2025 takedowns of deepfake accounts were the platforms' own decisions, and none is dated.",
-      "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
-      "as_at": "2026-10-23"
+      "note": "The Cybersecurity Act 2020 is said to apply to AI-assisted crimes such as voice cloning, a rule in force that meets question 2, though the source says it does not regulate AI itself. The Data Protection Bill and the AI financial-sector directive are drafts, and no body is designated over AI.",
+      "as_at": "2026-11-24"
     }
   ]
 }

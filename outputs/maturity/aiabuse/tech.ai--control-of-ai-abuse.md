@@ -1,6 +1,6 @@
 # Control of AI abuse: AI harms
 
-*As at 2026-10-21.*
+*As at 2026-11-24.*
 
 ## The norm
 
@@ -22,8 +22,8 @@ The Continental AI Strategy asks for risk-based regulation, an independent overs
 |---|---|
 | 5 Mature | 0 |
 | 4 Operating | 5 |
-| 3 Established | 12 |
-| 2 Nascent | 11 |
+| 3 Established | 13 |
+| 2 Nascent | 10 |
 | 1 Absent | 12 |
 | Unplaced | 1 |
 | No evidence | 13 |
@@ -99,6 +99,13 @@ A rule addressing a harm from AI was in force in 2026; a designated authority is
 - The Haute Autorité de la Communication's decision N°016/HAC/P/2026 of 25 April 2026, effective immediately, has article 17 strictly forbidding AI-manipulated deceptive content and deepfakes in private media coverage of the 31 May 2026 elections, with sanctions up to suspension from the campaign ([source, 2026-04-25](https://topafrica.org/elections-2026-en-guinee-la-hac-encadre-la-couverture-mediatique-des-medias-prives/)).
 - On 28 November 2025 the HAC president announced a formal ban on all media, including their social-media channels, broadcasting AI-generated speech or images during the 28 December presidential campaign, to prevent manipulation; no sanctions schedule is stated ([source, 2025-11-28](https://guineematin.com/2025/11/28/campagne-electorale-la-hac-interdit-aux-medias-de-publier-des-contenus-generes-par-lintelligence-artificielle/)).
 
+### Kenya: 3 Established
+
+A 2019 data protection act is reported to regulate automated decisions; an AI Commissioner is only in a 2026 bill a Senate committee opposed.
+
+- The draft strategy's assessment says the Data Protection Act (2019) regulates automated decision-making; it also says Kenya has no specific AI law ([source, 2019](https://ict.go.ke/sites/default/files/2025-01/Kenya%20National%20AI%20Strategy%20%28Draft%29%20for%20Public%20Validation%20%20%5B14-01-2025%5D.pdf)).
+- The Star reports the Senate ICT Committee recommended the Senate not proceed with the Artificial Intelligence Bill, 2026, which would create an Office of the AI Commissioner with powers to investigate violations, audit and impose sanctions, with fines up to Sh5 million; the article gives no date for the report, so its publication date is used ([source, 2026-10-15](https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai)).
+
 ### Mauritius: 3 Established
 
 A rule addressing a harm from AI was in force in 2026; a designated authority is not on record.
@@ -156,13 +163,6 @@ A rule or authority on harms from AI was being drafted in 2025; none in force is
 A rule or authority on harms from AI was being drafted in 2026; none in force is on record.
 
 - Kinfe Yilma's KAS policy brief says the Ethiopian Artificial Intelligence Institute (EAII) has begun drafting AI legislation, a draft showing clear influence of the EU AI Act, which the Institute is still finalising as a bill ([source, 2026-05](https://www.kas.de/documents/13332971/46464125/Policy+Brief+-+Digital+Version.pdf/fb1ec2aa-7d1f-ae0c-2d75-9843ff545476?t=1781127952232&version=1.0)).
-
-### Kenya: 2 Nascent
-
-A 2026 Senate bill would create an AI Commissioner, but a committee advised against it in October; no rule in force is known.
-
-- The Star reports the Senate ICT Committee recommended the Senate not proceed with the Artificial Intelligence Bill, 2026, which would create an Office of the AI Commissioner with powers to investigate violations, audit and impose sanctions, with fines up to Sh5 million; the article gives no date for the report, so its publication date is used ([source, 2026-10-15](https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai)).
-- Kenya is drafting an AI Bill (AI Bill, 2026) to provide a framework for regulating and governing AI, per CIPIT ([source, 2026-09-15](https://cipit.strathmore.edu/artificial-intelligence-in-east-africas-public-sector-ai-adoption-and-regulatory-preparedness-within-east-africa/)).
 
 ### Libya: 2 Nascent
 

@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "3",
-   "rule": "inforce",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-001",
-   "gaps": "No source found since October 2023 says a body is designated with a mandate over AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "3",
+      "rule": "inforce",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-001",
+      "gaps": "No source found since October 2023 says a body is designated with a mandate over AI.",
+      "note": "The data protection law explicitly covers processing based on AI, a rule in force that meets question 2. No body with a mandate over AI is named.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

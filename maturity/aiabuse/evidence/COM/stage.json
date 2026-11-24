@@ -1,17 +1,18 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "3",
-   "rule": "inforce",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COM-001",
-   "gaps": "No source found since October 2023 says a body is designated with a mandate over AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "3",
+      "rule": "inforce",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-001",
+      "gaps": "No source found since October 2023 says a body is designated with a mandate over AI.",
+      "note": "The Information and Communication Code, promulgated 2 February 2026, requires labelling of AI-generated content, a rule in force that meets question 2. No body is designated over AI.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "3",
-   "rule": "inforce",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-002",
-   "gaps": "No source found since October 2023 says a body is designated with a mandate over AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "3",
+      "rule": "inforce",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-002",
+      "gaps": "No source found since October 2023 says a body is designated with a mandate over AI.",
+      "note": "The data protection commission says AI-made voice or image copies without a legal basis are unlawful processing under Law 2008-12, a rule in force that meets question 2. The commission applies it as the data regulator, with no designation over AI shown.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

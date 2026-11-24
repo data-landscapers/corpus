@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-001",
-      "gaps": "No source found since October 2023 says: is a rule or authority on ai harms being drafted.",
-      "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
-      "as_at": "2026-10-21"
+      "gaps": "No source found reports a published bill or draft guideline on AI harms, or a rule in force or a designated authority.",
+      "note": "A February 2026 source says Namibia lacks frameworks for AI governance, which is the stage 1 claim. A draft is reported as being drafted but none is published.",
+      "as_at": "2026-11-24"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "3",
-   "rule": "inforce",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-001;UGA-003",
-   "gaps": "No source found since October 2023 says a body is designated with a mandate over AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "3",
+      "rule": "inforce",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-001;UGA-003",
+      "gaps": "No source found since October 2023 says a body is designated with a mandate over AI.",
+      "note": "The communications commission says the Computer Misuse (Amendment) Act 2022 applies to deepfake and disinformation harms, and the central bank has issued AI rules for finance, which meet question 2. No body is designated over AI.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

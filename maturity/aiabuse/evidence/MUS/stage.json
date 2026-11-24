@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "3",
-   "rule": "inforce",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-001;MUS-002",
-   "gaps": "No source found since October 2023 says a body is designated with a mandate over AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "3",
+      "rule": "inforce",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-001;MUS-002",
+      "gaps": "No source found says a body is designated with a mandate over AI; the agency in the draft amendments would be new.",
+      "note": "The Data Protection Act 2017 is said to apply to AI processing and the Cybercrime Act 2021 punishes harmful deepfakes, rules in force that meet question 2. Amendments providing for a cybercrime agency are drafted, not in force.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MOZ-002",
-      "gaps": "No source found since October 2023 says: is a rule or authority on ai harms being drafted.",
-      "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
-      "as_at": "2026-11-09"
+      "gaps": "No source found reports a rule on AI harms in force or a bill; the commission is advisory.",
+      "note": "A January 2026 article says Mozambique has no legal provision on AI-enabled crime, which is the stage 1 claim. The April 2026 decree created an advisory AI commission, but with no rule in force or draft the ladder does not reach authority.",
+      "as_at": "2026-11-24"
     }
   ]
 }

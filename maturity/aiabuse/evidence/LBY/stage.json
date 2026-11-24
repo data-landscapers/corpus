@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "2",
-   "rule": "draft",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBY-001",
-   "gaps": "No source found since October 2023 says: is a rule on ai harms in force.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "2",
+      "rule": "draft",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-001",
+      "gaps": "No source found says a rule on AI harms is in force or that a body is designated over AI.",
+      "note": "The AI ethics charter of June 2026 proposes an oversight body and a draft data protection law with an AI chapter went to parliament in October 2026, which meet the draft rung. No rule in force is held.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "3",
-   "rule": "inforce",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-004;GIN-001",
-   "gaps": "No source found since October 2023 says a body is designated with a mandate over AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "3",
+      "rule": "inforce",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-004;GIN-001",
+      "gaps": "No source found since October 2023 says a body is designated with a mandate over AI.",
+      "note": "The HAC decision of 25 April 2026 forbids AI-manipulated deceptive content in election coverage, a binding rule in force that meets question 2. The HAC is a media regulator applying it, not a body designated over AI, so the rung stops at 3.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

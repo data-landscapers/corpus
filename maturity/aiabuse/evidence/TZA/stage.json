@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TZA-002",
-      "gaps": "No source found since October 2023 says: is a rule on ai harms in force.",
-      "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found says a rule on AI harms is in force or that a body is designated over AI.",
+      "note": "The ministry's draft guidelines on secure and ethical AI of June 2024 meet the draft rung. An August 2026 source says no law regulates AI or deepfakes, and the data protection act 2022 is cited for automated decisions only outside an AI context.",
+      "as_at": "2026-11-24"
     }
   ]
 }

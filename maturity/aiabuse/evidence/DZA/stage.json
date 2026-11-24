@@ -1,17 +1,18 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "2",
-   "rule": "draft",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-001",
-   "gaps": "No source found since October 2023 says: is a rule on ai harms in force.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "2",
+      "rule": "draft",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-001",
+      "gaps": "No source found says a rule on AI harms is in force or that a body is designated over AI.",
+      "note": "The minister said in October 2025 that a legal text on the ethical use of AI is being prepared, which meets the draft rung. No rule in force is held.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "aiharm",
-      "stage": "2",
-      "rule": "draft",
+      "stage": "3",
+      "rule": "inforce",
       "authority": "",
       "enforced": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-002;KEN-001",
-      "gaps": "No source found says a rule on AI harms is in force or a body is designated over AI; the draft that would create an AI Commissioner was recommended for rejection by the Senate ICT Committee in October 2026.",
-      "note": "The AI Bill, 2026 is a published draft providing for an AI Commissioner, which meets the draft rung. Nothing found puts a rule on AI harms in force.",
-      "as_at": "2026-10-18"
+      "stage_sources": "KEN-006;KEN-002",
+      "gaps": "No source found says a body is designated by law or decree with a mandate over AI; the AI Commissioner would exist only under the AI Bill, which the Senate ICT Committee recommended not proceeding with in October 2026.",
+      "note": "The data protection act 2019 is reported to regulate automated decision-making, a rule in force that meets question 2, though the strategy says Kenya has no specific AI law. The AI Commissioner exists only in a bill the Senate committee advised against, so no authority is designated.",
+      "as_at": "2026-11-24"
     }
   ]
 }

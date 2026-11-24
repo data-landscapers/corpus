@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SLE-001",
-      "gaps": "No source found since October 2023 says: is a rule or authority on ai harms being drafted.",
-      "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
-      "as_at": "2026-10-21"
+      "gaps": "No source found reports a bill or draft guideline on AI harms, or a rule in force or a designated authority.",
+      "note": "An August 2025 fact-check says Sierra Leone has no legislation on AI-generated images, which is the stage 1 claim. No draft is reported.",
+      "as_at": "2026-11-24"
     }
   ]
 }

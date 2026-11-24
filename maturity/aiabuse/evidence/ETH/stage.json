@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ETH-001",
-      "gaps": "No source found since October 2023 says: is a rule on ai harms in force.",
-      "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found says a rule on AI harms is in force or that a body is designated over AI.",
+      "note": "The AI institute is finalising an AI bill modelled on the EU act, and a June 2026 source says a draft has been tabled, which meets the draft rung. No rule in force is held.",
+      "as_at": "2026-11-24"
     }
   ]
 }

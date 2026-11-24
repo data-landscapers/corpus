@@ -31,3 +31,38 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,TCD,tech.ai--control-of-ai-abuse,ladder,4,1,TCD-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 1."
 2026-11-11,EGY,tech.ai--control-of-ai-abuse,ladder,2,4,EGY-011;EGY-003,"Restaged under message 114 (housekeeping 57): the November 2025 PDPL executive regulations bind AI training not to harm data subjects, a rule in force; with the January 2026 AI council decree, 2 to 4."
 2026-11-12,RWA,tech.ai--control-of-ai-abuse,fact,no evidence,unplaced,,"Op-ed (November 2026): no binding AI obligation, principles only, but a National AI Agency was approved in June 2026; the stage 1 absence is not shown, so unplaced."
+2026-11-24,AGO,tech.ai--control-of-ai-abuse,review,4,4,AGO-004,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,BFA,tech.ai--control-of-ai-abuse,review,3,3,BFA-001,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,CMR,tech.ai--control-of-ai-abuse,review,1,1,CMR-001,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,COM,tech.ai--control-of-ai-abuse,review,3,3,COM-001,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,CPV,tech.ai--control-of-ai-abuse,review,1,1,CPV-001;CPV-002,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,DJI,tech.ai--control-of-ai-abuse,review,1,1,DJI-002;DJI-003,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,DZA,tech.ai--control-of-ai-abuse,review,2,2,DZA-001,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,ERI,tech.ai--control-of-ai-abuse,review,1,1,ERI-001,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,ETH,tech.ai--control-of-ai-abuse,review,2,2,ETH-001,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,GAB,tech.ai--control-of-ai-abuse,review,4,4,GAB-003,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,GHA,tech.ai--control-of-ai-abuse,review,3,3,GHA-002,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,GIN,tech.ai--control-of-ai-abuse,review,3,3,GIN-004;GIN-001,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,GNQ,tech.ai--control-of-ai-abuse,review,2,2,GNQ-002,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,LBR,tech.ai--control-of-ai-abuse,review,1,1,LBR-002,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,LBY,tech.ai--control-of-ai-abuse,review,2,2,LBY-001,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,LSO,tech.ai--control-of-ai-abuse,review,1,1,LSO-001,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,MAR,tech.ai--control-of-ai-abuse,review,4,4,MAR-008;MAR-011,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,MLI,tech.ai--control-of-ai-abuse,review,1,1,MLI-001,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,MOZ,tech.ai--control-of-ai-abuse,review,1,1,MOZ-002,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,MUS,tech.ai--control-of-ai-abuse,review,3,3,MUS-001;MUS-002,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,NAM,tech.ai--control-of-ai-abuse,review,1,1,NAM-001,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,NGA,tech.ai--control-of-ai-abuse,review,4,4,NGA-002,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,SDN,tech.ai--control-of-ai-abuse,review,2,2,SDN-001,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,SEN,tech.ai--control-of-ai-abuse,review,3,3,SEN-002,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,SLE,tech.ai--control-of-ai-abuse,review,1,1,SLE-001,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,SSD,tech.ai--control-of-ai-abuse,review,2,2,SSD-001,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,STP,tech.ai--control-of-ai-abuse,review,1,1,STP-001;STP-002,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,TCD,tech.ai--control-of-ai-abuse,review,1,1,TCD-002,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,TUN,tech.ai--control-of-ai-abuse,review,2,2,TUN-001;TUN-002,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,TZA,tech.ai--control-of-ai-abuse,review,2,2,TZA-002,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,UGA,tech.ai--control-of-ai-abuse,review,3,3,UGA-001;UGA-003,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,ZAF,tech.ai--control-of-ai-abuse,review,3,3,ZAF-001;ZAF-003,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,ZMB,tech.ai--control-of-ai-abuse,review,3,3,ZMB-001;ZMB-002,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,ZWE,tech.ai--control-of-ai-abuse,review,3,3,ZWE-002,Rebuild 2026-11-24: first-pass cell read afresh against the ladder and its neighbours; stage held.
+2026-11-24,KEN,tech.ai--control-of-ai-abuse,review,2,3,KEN-006;KEN-002,"Rebuild 2026-11-24: the data protection act 2019 on automated decisions, in the draft AI strategy's account of the rules in force, meets question 2 as Angola's and Uganda's do; 2 to 3. A second drafter staged it 3 blind."
