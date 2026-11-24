@@ -1,10 +1,10 @@
 ---
 title: Gulf/UAE activities — News, October – November 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: geopol.gulf
 places: BEN; BDI; DJI
-record: 7bfe20ccaf9b
+record: 9734cde3e1bd
 ---
 
 # News, Oct – Nov 2026

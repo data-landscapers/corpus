@@ -1,10 +1,10 @@
 ---
 title: Rural digital data capture — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: digital.rural
-places: BDI; CMR; ETH; NGA; RWA; TGO; ZMB; ZWE
-record: 32f9a9a1712b
+places: BDI; CMR; ETH; GHA; NGA; RWA; TGO; ZMB; ZWE
+record: 05b2afbe1098
 ---
 
 # News, Oct – Nov 2026
@@ -15,6 +15,8 @@ record: 32f9a9a1712b
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -70,6 +72,22 @@ Cameroon's posts and telecommunications minister handed four platforms built und
 **[Ethiopia targets four million farmers for digital registration by 2028](https://capitalethiopia.com/2026/11/08/ethiopia-targets-four-million-farmers-for-digital-registration-by-2028/)** — Capital Newspaper (Ethiopia), 8 November 2026
 
 Ethiopia's Agricultural Transformation Institute has enrolled nearly one million farmers in its Fayda-linked profile register, Capital reported on 8 November 2026. It targets four million by 2028, out of about 20 million farmers. Data is shared with lenders only with the farmer's consent.
+
+</div>
+
+</div>
+
+## Ghana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Germination Index Insurance (Ghana Agricultural Insurance Pool)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GAIP promotes Germination Index Insurance to protect farmers against climate risks](https://gna.org.gh/2026/10/gaip-promotes-germination-index-insurance-to-protect-farmers-against-climate-risks/)** — Ghana News Agency, 29 October 2026
+
+Ghana News Agency reported on 29 October 2026 that the Ghana Agricultural Insurance Pool is promoting germination index insurance. The cover compensates farmers whose seeds fail to germinate after drought or heavy rain. It was presented at an online engagement under the EU-funded TEMBO Africa project.
 
 </div>
 

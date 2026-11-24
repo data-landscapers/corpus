@@ -1,10 +1,10 @@
 ---
 title: Geospatial data — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: data.geospatial
-places: BDI; COM; CIV; DJI; KEN; LSO; LBR; NGA; SYC; TGO; ZWE
-record: a93d9447c6c3
+places: BDI; COM; CIV; DJI; COD; KEN; LSO; LBR; NGA; SYC; TGO; ZWE
+record: 996ee09d1770
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: a93d9447c6c3
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#djibouti">Djibouti</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -111,6 +113,22 @@ Djibouti's weather agency asks SOFF for US$2.01m for 2027 to 2031. Neither of it
 
 </div>
 
+## DR Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Agricultural climate index insurance under the national agricultural programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DR Congo Compensates 17,180 Farmers Under Climate Insurance Scheme](https://www.ecofinagency.com/news/2210-60021-dr-congo-compensates-17-180-farmers-under-climate-insurance-scheme)** — Ecofin Agency, 22 October 2026
+
+Ecofin Agency reported that the DR Congo agricultural development programme began paying out on 14 October 2026. Payments go to farmers in Kasai-Central under a World Bank-backed parametric insurance scheme.
+
+</div>
+
+</div>
+
 ## Kenya
 
 <div class="monthly-story" markdown="1">
@@ -192,6 +210,20 @@ Nigeria's communications regulator lists the licensed ground segment operators f
 **[Internet Service Provider Data](https://www.ncc.gov.ng/market-data-reports/internet-service-provider-data)** — Nigerian Communications Commission, 13 November 2026
 
 Nigeria's communications regulator lists subscribers for each internet service provider. For the second quarter of 2026, Spectranet shows 111,384 and Starlink 98,642. The page also carries third quarter 2026 fibre figures, led by MTN with 242,916.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Agro-Productivity System (NAPS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG deploys AI to track Jigawa crops, farmland](https://punchng.com/fg-deploys-ai-to-track-jigawa-crops-farmland/)** — Punch, 17 November 2026
+
+Nigeria's Presidency said on 16 November 2026 that it had begun field operations of the National Agro-Productivity System. The AI platform tracks farmland using satellite imagery. It deployed 25 extension agents across 59 communities in Jigawa State.
 
 </div>
 

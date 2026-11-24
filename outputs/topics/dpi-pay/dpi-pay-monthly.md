@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bdc269f25204
+record: d2225bc92efe
 ---
 
 # News, Oct – Nov 2026
@@ -607,6 +607,34 @@ The Banque centrale du Congo granted Wave an electronic-money institution licenc
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unified civil-service payroll file</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : discordances des effectifs, manque de fiabilité des bases de données et incohérences dans les listings de paie, les principales défaillances révélées par l’audit de l’état liquidatif de la paie des fonctionnaires](https://actualite.cd/2026/11/22/rdc-discordances-des-effectifs-manque-de-fiabilite-des-bases-de-donnees-et-incoherences)** — Actualite.cd, 22 November 2026
+
+Actualite.cd reported that an Inspection generale des finances audit of the DR Congo civil-service payroll was presented to the Council of Ministers on 20 November 2026. It found unreliable databases and mismatches between payroll statements and listings. President Tshisekedi ordered payroll files unified and duplicates removed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Wave electronic-money institution licence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Inclusion financière : la BCC agrée Wave, un nouvel acteur de la monnaie électronique en RDC](https://www.bcc.cd/articles/monnaie-et-paiements/bcc-agree-wave-monnaie-electronique-2026)** — Banque Centrale du Congo, 23 November 2026
+
+The Central Bank of Congo published a notice on 23 November 2026 that it has licensed Wave as an electronic money institution. The notice links the licence to its financial inclusion aims. It also links it to the reform of 9 April 2027 reserving cash commercial settlements for the Congolese franc.
+
+</div>
+
+</div>
+
 ## Egypt
 
 <div class="monthly-story" markdown="1">
@@ -646,6 +674,20 @@ Orange Egypt and the UAE fintech Botim announced on 20 October 2026 a UAE-to-Egy
 **[President El-Sisi Meets the Prime Minister and the Minister of Planning and Economic Development](https://www.presidency.eg/en/%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/news15112026/)** — Presidency of the Arab Republic of Egypt, 15 November 2026
 
 Egypt's planning minister Ahmed Rustom presented President El-Sisi with a plan to introduce and expand electronic payment tools for public services, open to citizens at home and abroad. The plan follows the outcomes of Egypt Forum 2026. The president directed an immediate study and development of digital tools to automate citizen services.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Payment-card tokenisation on mobile phones</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[«المركزي المصري» يطلق ترميز بطاقات الدفع على هواتف Android](https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%B7%D9%84%D9%82-%D8%AA%D8%B1%D9%85%D9%8A%D8%B2-%D8%A8%D8%B7%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D8%B9%D9%84%D9%89-%D9%87%D9%88%D8%A7%D8%AA%D9%81-android/)** — State Information Service (Egypt), 23 November 2026
+
+The Central Bank of Egypt announced on 23 November 2026 that payment card tokenisation is available on Android devices. The first phase ran through Apple Pay from December 2024. It had processed about 292 million transactions worth EGP 228 billion by the end of September 2026.
 
 </div>
 

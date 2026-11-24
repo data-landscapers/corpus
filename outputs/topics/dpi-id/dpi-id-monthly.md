@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; COM; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: bf7da6c245f9
+record: e7e2fc89dea5
 ---
 
 # News, Oct – Nov 2026
@@ -253,6 +253,22 @@ Burkina Faso's President launched mass enrolment in the electronic unique identi
 **[Registre de l'identifiant unique : Le Burkina Faso engage l'identification de sa population](https://lefaso.net/spip.php?article150706=)** — leFaso.net, 11 November 2026
 
 Burkina Faso launched mass enrolment in its Unique Identifier Register on 11 November 2026, Lefaso.net reported. Every resident, including foreigners in transit, is to receive an electronic identifier. Enrolment captures ten fingerprints and both irises. A pilot enrolled over 16,000 people, and a first count is due at the end of December 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina Faso – Enrôlement biométrique de masse : 2 400 agents déployés sur près de 12 000 sites](https://africa24tv.com/burkina-faso-enrolement-biometrique-de-masse-2-400-agents-deployes-sur-pres-de-12-000-sites/)** — Africa24 TV, 22 November 2026
+
+Burkina Faso began a mass biometric enrolment on 11 November 2026 to give each resident from age 5 a free twelve-digit unique identifier. The government is deploying 2,400 enrolment agents across about 12,000 planned sites, with a first batch of 966 biometric kits. A pilot had registered more than 16,000 people. Officials said the data will be hosted in the country.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina : 1 449 volontaires formés pour réussir l'enrôlement national](https://libreinfo.net/burkina-1-449-volontaires-formes-pour-reussir-lenrolement-national/)** — Libreinfo.net, 23 November 2026
+
+Burkina Faso's digital transition ministry began training 1,449 volunteers on 19 November 2026 for the national unique identifier enrolment, with the course running to 27 November. They are 483 supervisors and 966 kit operators recruited through the national volunteer programme. Minister Aminata Zerbo visited the training on 22 November.
 
 </div>
 
@@ -510,6 +526,20 @@ Ethiopia opened a public sandbox where developers and startups can test the Fayd
 **[FaydaVerse Expands Beyond National ID Registration](https://capitalethiopia.com/2026/11/01/faydaverse-expands-beyond-national-id-registration/)** — Capital Newspaper, 1 November 2026
 
 Ethiopia's national ID programme has renamed itself FaydaVerse and joined Ethiopian Investment Holdings, its stakeholder engagement director told Capital on 1 November 2026. He said more than 52 million citizens have registered, registration machines have grown from under 100 to 15,000, and 150 institutions work with the programme. Other countries have asked it for digital public infrastructure services.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Faydaverse digital identity wallet</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FaydaPass seeks to bring government documents into digital wallet](https://capitalethiopia.com/2026/11/22/faydapass-seeks-to-bring-government-documents-into-digital-wallet/)** — Capital Newspaper, 22 November 2026
+
+Faydaverse staff told the Capital newspaper, in a report of 22 November 2026, that nine government institutions have joined its FaydaPass digital wallet, including bodies for trade and transport. Education, agriculture and land administration institutions are in discussion. Electronic signatures, delegated access and consent management are planned, and citizens reach the free service with their Fayda digital ID.
 
 </div>
 

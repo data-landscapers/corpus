@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZMB; ZWE
-record: 9947822c699d
+record: f5e0cb13d1aa
 ---
 
 # News, Oct – Nov 2026
@@ -759,6 +759,14 @@ Rwanda's National Cyber Security Authority partnered with Airtel Rwanda to suppo
 **[Rwanda Coding Academy opens new campus](https://www.newtimes.co.rw/article/40618/news/education/rwanda-coding-academy-opens-new-campus)** — The New Times (Rwanda), 20 November 2026
 
 Rwanda's Ministry of Education inaugurated a new Rwanda Coding Academy campus in Nyabihu District on 20 November 2026. It has laboratories for software, cybersecurity and embedded systems, and dormitories. The record says the Korean agency KOICA built it; no cost was reported.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[코이카, 르완다 코딩 아카데미 새 캠퍼스 준공](https://koica.go.kr/bbs/koica_kr/151/391677/artclView.do)** — Korea International Cooperation Agency (KOICA), 23 November 2026
+
+The Korea International Cooperation Agency and the Rwanda TVET Board held a ceremony on 20 November 2026. The ceremony was for the new Rwanda Coding Academy campus in Nyabihu. The agency said its support project ran from 2021 to 2026.
 
 </div>
 

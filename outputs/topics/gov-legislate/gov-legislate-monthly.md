@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB
-record: b2daa3b21f94
+record: 4b6f9b7a20b1
 ---
 
 # News, Oct – Nov 2026
@@ -1556,6 +1556,20 @@ Journalists, lawyers and civil society figures in Sao Tome and Principe said an 
 **[Santé numérique, le vide juridique qui fragilise la protection des données des patients](https://www.seneplus.com/article/sante-numerique-le-vide-juridique-qui-fragilise-la-protection-des-donnees-des-patients)** — SenePlus, 4 November 2026
 
 A Transform Health Senegal consultation found 65.8% of respondents unaware that Senegal has no specific health data law. The non-representative sample also found 44.7% saying their consent is never sought before their medical data is shared. A draft digital health bill remains under government review, the coalition says.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Extension of the validity of the 2016 ECOWAS biometric identity cards</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Assemblée nationale : L’annonce inattendue pour nos cartes d’identité biométriques](https://www.senenews.com/actualites/assemblee-nationale-lannonce-inattendue-pour-nos-cartes-didentite-biometriques_607132.html)** — SeneNews, 21 November 2026
+
+SeneNews reported that a Senegalese National Assembly committee sitting on bill 21/2026 was cancelled at the last minute on 20 November 2026. The bill would allow an exceptional extension of ECOWAS biometric ID card validity. The 2016 cards also serve as voter cards.
 
 </div>
 

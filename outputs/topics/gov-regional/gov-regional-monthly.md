@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; DJI; EGY; GNQ; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: f0f07d1ba531
+record: dc9e5cd47be1
 ---
 
 # News, Oct – Nov 2026
@@ -940,6 +940,20 @@ Mozambique joined the SADC Regional Working Group on Data Protection through INT
 **[Namibia reviews digital trade framework for AfCFTA protocol implementation](https://techreviewafrica.com/news/7567/x)** — Tech Review Africa, 5 October 2026
 
 Namibia's assessment of its laws and institutions against the African free-trade area's Protocol on Digital Trade went to a validation workshop in Windhoek. It will feed a National Digital Trade Action Plan; no findings are published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Chair of the Regional Centre for Mapping of Resources for Development Governing Council</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibia calls for greater use of geospatial technology](https://neweralive.na/namibia-calls-for-greater-use-of-geospatial-technology/)** — New Era, 18 November 2026
+
+Namibia's agriculture minister Inge Zaamwani called for wider use of geospatial technology and AI. She spoke at the 14th Conference of Ministers of the Regional Centre for Mapping of Resources for Development in Swakopmund.
 
 </div>
 

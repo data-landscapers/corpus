@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; CMR; CPV; CAF; TCD; COM; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 02e57d934000
+record: 4f1e65ec368a
 ---
 
 # News, Oct – Nov 2026
@@ -263,6 +263,20 @@ Cameroon's civil registration bureau BUNEC visited Côte d'Ivoire's ONECI in Abi
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital civil-registration programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Promotion de l’état civil : Environ 168 000 demandes de financement introduites par les maires et encore en attente](https://www.newsducamer.com/promotion-de-letat-civil-environ-168-000-demandes-de-financement-introduites-par-les-maires-et-encore-en-attente/)** — News du Cameroun, 23 November 2026
+
+News du Cameroun reported that by September 2026 only 60 of 432 principal civil registration centres had joined Cameroon's digital system. The country seeks FCFA 52 billion.
+
+</div>
+
+</div>
+
 ## Cape Verde
 
 <div class="monthly-story" markdown="1">
@@ -470,6 +484,20 @@ The data page of EITI DR Congo reports 2023 extractive revenue of USD 5.85 billi
 **[DR Congo Requires Foreign Digital Service Providers to Register and Pay VAT](https://bankable.africa/en/business-climate/1111-3973-dr-congo-requires-foreign-digital-service-providers-to-register-and-pay-vat)** — Bankable, 11 November 2026
 
 The DR Congo's tax directorate told foreign digital service providers on 5 November 2026 to register and pay VAT, Bankable Africa reported. They had to open an e-Impôts account by 10 November and pay by 15 November. The rule covers streaming, cloud, software, online advertising, app stores and marketplaces.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Land-archive digitisation operation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : plus de 1,8 million de dossiers fonciers identifiés, seulement 14,8 % numérisés](https://www.congojournal.com/articles/13827/rdc-plus-de-1-8-million-de-dossiers-fonciers-identifies-seulement-14-8-numerises)** — Congo Journal, 23 November 2026
+
+The Democratic Republic of the Congo's land affairs minister reported to the Council of Ministers on 20 November 2026. Digitisation of land archives had identified 1,822,051 files, of which 14.8 per cent were digitised. The work began in Kinshasa on 17 August 2026.
 
 </div>
 
@@ -1202,6 +1230,20 @@ INEC said on 11 November 2026 that it had flagged 54 registration personnel in 1
 **[NPC Seeks Unified System For Marriage, Divorce Registration As N’ east Zonal Consultation Opens In Adamawa](https://www.thisdaylive.com/2026/10/22/npc-seeks-unified-system-for-marriage-divorce-registration-as-n-east-zonal-consultation-opens-in-adamawa/)** — ThisDay, 22 October 2026
 
 Nigeria's National Population Commission opened a North-East zonal consultation in Yola on a draft harmonised protocol for marriage and divorce registration, part of strengthening the civil registration and vital statistics system. Stakeholders from the zone's six states reviewed the draft over two days.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UNHCR Digital Gateway for refugees and asylum-seekers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The Government of Nigeria and UNHCR launch the Digital Gateway to expand access to services for displaced and stateless people](https://www.unhcr.org/africa/news/press-releases/government-nigeria-and-unhcr-launch-digital-gateway-expand-access-services)** — UNHCR, 23 November 2026
+
+UNHCR announced on 23 November 2026 that Nigeria and UNHCR launched the Digital Gateway. It is an online service for refugee and asylum-seeker pre-registration, appointments and record updates. It starts in Abuja with the national refugee commission.
 
 </div>
 

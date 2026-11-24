@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: 620ebfbbd8f4
+record: 07d777817558
 ---
 
 # News, Oct – Nov 2026
@@ -647,19 +647,7 @@ Côte d'Ivoire's Council of Ministers adopted a decree on 14 October 2026 settin
 
 </div>
 
-<div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Deployed optical fibre</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Statistiques du marché des télécommunications en Côte d'Ivoire - 3ème trimestre 2026](https://artci.ci/wp-content/uploads/2026/10/RAPPORT-ARTCI-T3-2026_31.10.26.pdf)** — ARTCI (Autorité de Régulation des Télécommunications/TIC de Côte d'Ivoire), 31 October 2026
-
-The regulator ARTCI published Côte d'Ivoire's telecoms market statistics for the third quarter of 2026. Fixed internet subscriptions passed 1 million, up 59.9%. Mobile internet stood at 41.4 million subscriptions and active mobile money accounts at 32.5 million. Starlink was licensed in July 2026.
-
-</div>
-
-</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -2640,6 +2628,34 @@ Teraco said peak traffic at its NAPAfrica Internet exchange point passed 7Tbps, 
 **[ReuNION plans subsea cable linking La Reunion to South Africa and Singapore](https://developingtelecoms.com/telecom-technology/optical-fixed-networks/21151-reunion-plans-subsea-cable-linking-la-reunion-to-south-africa-and-singapore.html)** — Developing Telecoms, 18 November 2026
 
 The ReuNION consortium, including Orange, Free, Reunicable, Telco OI and Zeop, has begun marine surveys for a subsea cable from La Réunion to South Africa. The 16-fibre-pair cable is to be laid in 2027-2028, with EU funding for a first phase. An extension to Singapore with 24 pairs is at an early stage.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Starlink offer to connect 5,000 rural schools</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[What will South Africa get from Ramaphosa’s Silicon Valley trip?](https://explain.co.za/2026/11/23/ramaphosa-took-300-people-to-silicon-valley-what-does-south-africa-hope-to-gain/)** — /explain/, 23 November 2026
+
+The explainer outlet /explain/ published a critical account on 23 November 2026 of President Ramaphosa's week-long visit to California with about 300 delegates. Code for Africa's analyst doubted the data-centre focus, and the cost and sponsors were undisclosed. A redrafted national AI policy is due at Cabinet by March 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Vodacom and Huawei upper 6GHz fixed-wireless showcase</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Vodacom, Huawei trial ‘golden’ spectrum band](https://www.itweb.co.za/article/vodacom-huawei-trial-golden-spectrum-band/KWEBbvyL2PaqmRjO)** — ITWeb South Africa, 23 November 2026
+
+Vodacom and Huawei showed Upper 6GHz fixed wireless use cases at the Africa Tech Festival in the week before 23 November 2026. The companies put commercial deployment about two years away. South Africa's communications regulator published its allocation plan for the band in July.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4eacc4f9d9f3
+record: e8999df1d209
 ---
 
 # News, Oct – Nov 2026
@@ -194,6 +194,20 @@ Nasuba described Benin's national services portal, service-public.bj, as it stoo
 **[Benin Targets 2027 Launch of Higher Education Artificial Intelligence Institute](https://www.wearetech.africa/en/fils-uk/news/tech/benin-targets-2027-launch-of-higher-education-artificial-intelligence-institute)** — wearetech.africa, 9 November 2026
 
 Benin's higher education minister, Sèdami Medegan Fagla, said Benin plans an AI Institute for Higher Education by 2027. She spoke at the rectors' conference in Cotonou on 5-6 November 2026. The institute is to offer dual degrees with partner universities.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Technical advisers on artificial intelligence in ministries</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : des conseillers en intelligence artificielle bientôt au cœur des ministères](https://africaho.bj/article/benin-des-conseillers-en-intelligence-artificielle-bientot-au-coeur-des-ministeres/)** — Africaho, 22 November 2026
+
+Benin's digital minister Mahuna Akplogan told the Cyber Africa Forum in Cotonou that AI technical advisers are being placed in several ministries. The Council of Ministers of 4 November 2026 named advisers in the commerce, energy, small business, finance and digital ministries. Their task is to identify needs, use ministry data and design applications. The report describes this as speeding up the 2023 to 2027 national AI strategy, not a new policy.
 
 </div>
 
@@ -588,6 +602,7 @@ DR Congo's land-affairs ministry launched MIMPA, an AI virtual assistant on land
 
 </div>
 
+
 </div>
 
 ## Egypt
@@ -717,6 +732,36 @@ e& Business, M-Empire Angels and Startup Egypt signed a tripartite memorandum of
 **[الحكومة تقرأ الأرقام وتختبر سيناريوهات الأزمات قبل اتخاذ القرار.. دراسة برلمانية أمام "الشيوخ" تطرح مسارا لبناء منظومة اقتصادية ذكية تعتمد على الذكاء الاصطناعي.. وتكشف بدائل استضافة البيانات واشتراطات الأمان](https://www.youm7.com/story/2026/11/17/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D9%82%D8%B1%D8%A3-%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%88%D8%AA%D8%AE%D8%AA%D8%A8%D8%B1-%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A7%D8%AA-%D9%82%D8%A8%D9%84-%D8%A7%D8%AA%D8%AE%D8%A7%D8%B0-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9/7619226)** — Youm7, 17 November 2026
 
 Ahmed Abou Hashima put a study to the Egyptian Senate's economic and financial affairs committee, Youm7 reported on 17 November 2026. It proposes an AI system for government economic decisions, built on linked state databases and the Karnak national language model. It compares sovereign, hybrid and public-cloud hosting for economic data. Language models would not produce figures used in decisions.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government procurement guidelines for AI systems and generative-AI guidelines for government</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الدليل الإرشادي المصري لمشتريات أنظمة الذكاء الاصطناعي (Egyptian Guideline for the Procurement of AI Systems), version 1.0](https://ai.gov.eg/SynchedFiles/ar/Resources/Egyptian%20Guidlines%20for%20AI%20Systems%20Procurment%20-%20Ar.pdf)** — Egyptian Center for Responsible AI (ECRAI) / Ministry of Communications and Information Technology, 17 November 2026
+
+Egypt's Ministry of Communications and Information Technology issued version 1.0 of a guideline for public-sector procurement of AI systems. Under Law 182 of 2018, its provisions bind a contractor only where tender documents and the contract include them.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[الحكومة المصرية تحدد متطلبات تأهيل شركات الذكاء الاصطناعي وتضع ضوابط لمشاركة الشركات الناشئة](https://www.fintechgate.net/258322)** — FinTech Gate, 23 November 2026
+
+FinTech Gate reported on 23 November 2026 that Egypt's guideline for government purchase of AI systems sets a default technical qualifying score for bidders and bars unjustified exclusion of startups. It also requires human review and complaint routes where AI affects individuals. The guideline binds only when written into tender documents.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[الحكومة المصرية تضع ضوابط لحماية البيانات الشخصية عند شراء أنظمة الذكاء الاصطناعي](https://www.fintechgate.net/258324)** — FinTech Gate, 23 November 2026
+
+FinTech Gate reported on 23 November 2026 the data protection rules in Egypt's guideline for buying AI systems. Third-party models may not be trained on government data without explicit authorisation. Bidders must disclose storage locations, retention periods, sub-processors and proof of deletion.
 
 </div>
 

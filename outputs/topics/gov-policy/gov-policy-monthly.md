@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: gov.policy
-places: AGO; BEN; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 17691358d281
+places: AGO; BEN; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
+record: de25f0d3f45d
 ---
 
 # News, Oct – Nov 2026
@@ -47,6 +47,8 @@ record: 17691358d281
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#malawi">Malawi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -272,6 +274,20 @@ Comoros' telecoms minister presented a national data-governance and data-centre 
 **[Santé et numérique : Onze projets pour accélérer la transformation du système sanitaire](https://www.lagazettedescomores.com/sant%C3%A9/sant%C3%A9-et-num%C3%A9rique-onze-projets-pour-acc%C3%A9l%C3%A9rer-la-transformation-du-syst%C3%A8me-sanitaire-.html)** — La Gazette des Comores, 30 October 2026
 
 Comoros's health statistics directorate said on 27 October 2026 that only one of eleven projects in the 2022 digital health plan has been substantially implemented. It cited lack of funds. DHIS2 is in use with an electronic vaccination register, and malaria forecasting is being piloted in five Ngazidja districts.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Readiness Assessment with UNDP</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transformation numérique I L’Anaden et le Pnud lancent l’évaluation de l’état de préparation des Comores](https://alwatwan.net/societe/transformation-num%C3%A9rique-i-l%E2%80%99anaden-et-le-pnud-lancent-l%E2%80%99%C3%A9valuation-de-l%E2%80%99%C3%A9tat-de-pr%C3%A9paration-des-comores.html)** — Al-Watwan, 23 November 2026
+
+Comoros' national digital development agency, Anaden, and UNDP launched a Digital Readiness Assessment in Moroni on 19 November 2026. The assessment covers five pillars: population, connectivity, government, regulatory framework and the economy. Its stated purpose is to identify gaps and priorities so that the government, development partners and the private sector can direct digital investment.
 
 </div>
 
@@ -626,6 +642,36 @@ Madagascar's Minister of Digital Development, Posts and Telecommunications, Mahe
 **[TÉLÉCOMMUNICATIONS - Les réformes au service du développement numérique](https://www.lexpress.mg/2026/11/telecommunications-les-reformes-au.html)** — L'Express de Madagascar, 5 November 2026
 
 L'Express de Madagascar reported on 5 November 2026 that the resignation of Minister Mahefa Andriamampiadana, accepted on 3 November, comes as the telecoms sector awaits regulatory reform. Bill 040/2026 aims to ease entry for new operators in a market of three. See the Madagascar entry on the minister's resignation for the main account.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National study on administrative simplification and digitisation (Conseil d'Etat)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ANDRY RABARISOA ET JOHANNA RANDRIANASOLO – Conseil d’État – « Simplifier pour lutter contre la corruption »](https://www.lexpress.mg/2026/11/andry-rabarisoa-et-johanna.html)** — L’Express de Madagascar, 23 November 2026
+
+Madagascar's Conseil d'État said a preliminary study on simplifying administrative procedures goes to the Prime Minister at the end of November 2026. A fuller study follows through 2027. No budget has been set aside for the work.
+
+</div>
+
+</div>
+
+## Malawi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Malawi Police Service Strategic Development Plan 2026-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mukhito backs digital overhaul of Malawi Police](https://www.nyasatimes.com/mukhito-backs-digital-overhaul-of-malawi-police/)** — Nyasa Times, 23 November 2026
+
+The Malawi Police Service launched its 2026-2031 Strategic Development Plan in Lilongwe, as reported on 23 November 2026. The plan proposes point-of-sale machines for paying traffic fines at the roadside. It also proposes 1,000 more CCTV cameras nationwide and 8,000 additional officers over five years.
 
 </div>
 

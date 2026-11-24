@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: infra.cybersec
 places: DZA; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; ZMB; ZWE
-record: b3ce50a2964f
+record: 4199ddb0f10c
 ---
 
 # News, Oct – Nov 2026
@@ -186,6 +186,20 @@ Burkina Faso's information systems security agency ANSSI launched a national net
 **[Cybersécurité : le Niger sollicite l’expérience du Burkina Faso pour son SOC national](https://www.wearetech.africa/fr/fils/actualites/tech/cybersecurite-le-niger-sollicite-l-experience-du-burkina-faso-pour-son-soc-national)** — wearetech.africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
 
 A Nigerien delegation led by Mohamed Ghadfi, deputy secretary-general of the communications ministry, visited Burkina Faso's information-security agency ANSSI-BF from 2 to 6 November 2026. The study mission prepares Niger's national Security Operations Centre. Niger's government created its Centre national de cybersécurité by decree in October 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybercrime victims and losses, October 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina : 261 millions FCFA perdus dans la cybercriminalité en octobre](https://fr.apanews.net/security/burkina-261-millions-fcfa-perdus-dans-la-cybercriminalite-en-octobre/)** — APAnews, 23 November 2026
+
+Burkina Faso's Ministry of Security said cybercrime caused 956 victims and losses above FCFA 261 million in October 2026. It recorded 615 ICT-enabled frauds, with mobile-money scams the largest group at 263 victims and over FCFA 104 million. The ministry reported 21 arrests, of whom 15 have been referred to court.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: New investments — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: finance.new
-places: DZA; AGO; BEN; BWA; COG; CIV; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
-record: a5648a2fc988
+places: DZA; AGO; BEN; BWA; COG; CIV; DJI; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
+record: e25b9a1f4eec
 ---
 
 # News, Oct – Nov 2026
@@ -21,6 +21,8 @@ record: a5648a2fc988
 <a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#djibouti">Djibouti</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -187,6 +189,22 @@ Italy's development agency AICS disbursed EUR 2.695 million through UNDP on 14 O
 
 </div>
 
+## Djibouti
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public finance reform support project (AREFIP, French Development Agency)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Signature d'une convention de financement de 5 millions d'euros entre la République de Djibouti et l'Agence Française de Développement pour l'appui à la réforme des finances publiques — Djiblive — Agence & Média](https://news.djiblive.dj/fr/articles/signature-dune-convention-de-financement-de-5-millions-deuros-entre-la-republique-de-djibouti-et-lag)** — Djiblive, 21 November 2026
+
+Djiblive reported that Djibouti and the French Development Agency signed a EUR 5 million financing agreement on 21 November 2026. It funds a four-year public finance reform project.
+
+</div>
+
+</div>
+
 ## DR Congo
 
 <div class="monthly-story" markdown="1">
@@ -198,6 +216,20 @@ Italy's development agency AICS disbursed EUR 2.695 million through UNDP on 14 O
 **[RDC : Vodacom veut porter à 670 millions USD ses investissements réseau pour accélérer la transformation numérique](https://zoom-eco.net/autres-actualites/rdc-vodacom-veut-porter-a-670-millions-usd-ses-investissements-reseau-pour-accelerer-la-transformation-numerique/)** — Zoom Eco, 9 October 2026
 
 Vodacom Congo said at a Kinshasa forum on 8 October 2026 that it plans a long-term US$670 million network investment programme, against an average of US$140 million a year. It reported 26.4 million subscribers, 4G coverage of 46.1 per cent and 10 million M-Pesa customers. Prime Minister Judith Suminwa said state and citizens' data must be hosted in the country.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public-finance governance support, phase IV (AFD)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : adoption de trois projets de loi de ratification d’accords de financement (Conseil des ministres) - ACP](https://acp.cd/nation/rdc-adoption-de-trois-projets-de-loi-de-ratification-daccords-de-financement-conseil-des-ministres/)** — Agence Congolaise de Presse, 21 November 2026
+
+The Democratic Republic of the Congo's Council of Ministers adopted a bill ratifying credit CCD 120503Y from the French Development Agency. The credit is worth EUR 70 million for a project supporting computerised resource mobilisation.
 
 </div>
 
@@ -510,6 +542,20 @@ Proparco announced on 9 November 2026 a EUR 600,000 investment in Cashi, a finte
 **[Tanzania secures 441/-bn Korean loan for advanced ICT and AI University](https://businessinsider.co.tz/tanzania-secures-441-bn-korean-loan-for-advanced-ict-and-ai-university/)** — Business Insider Tanzania, 4 November 2026
 
 Tanzania's Ministry of Finance and Korea Eximbank signed a concessional loan of US$167.4 million (TSh441.12 billion) on 3 November 2026, from Korea's Economic Development Cooperation Fund. It finances a technology institute in Dodoma offering advanced training, including in AI. Korea Eximbank said it was the first EDCF project approved in 2026 and the first with support for AI.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">German financing commitment 2026 with a new Digital Transformation Centre phase</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Germany commits €116m to Tanzania’s infrastructure and business reforms](https://www.thecitizen.co.tz/tanzania/news/national/germany-commits-116m-to-tanzania-s-infrastructure-and-business-reforms-5681412)** — The Citizen, 23 November 2026
+
+The Citizen reported that Germany committed EUR 116 million to Tanzania at government negotiations in Berlin on 18 and 19 November 2026. The money is mostly loans for water and energy plus technical cooperation grants. It includes a new phase of the Digital Transformation Centre, with no amount stated.
 
 </div>
 

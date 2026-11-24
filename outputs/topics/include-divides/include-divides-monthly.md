@@ -1,10 +1,10 @@
 ---
 title: Digital divides — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: include.divides
-places: AGO; BFA; COD; SWZ; ETH; GMB; GHA; LBR; NGA; ZAF; TZA; ZWE
-record: cb060c7a779e
+places: AGO; BFA; COD; SWZ; ETH; GMB; GHA; LBR; NAM; NGA; ZAF; TZA; ZWE
+record: 1eaf131b2af2
 ---
 
 # News, Oct – Nov 2026
@@ -25,6 +25,8 @@ record: cb060c7a779e
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#liberia">Liberia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -269,6 +271,22 @@ DataReportal published its Digital 2027 report for Liberia on 5 November 2026. I
 
 </div>
 
+## Namibia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MSME technology adoption survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MSMEs are Connected, but the Digital Divide Remains](https://www.thevillager.com.na/national/2026/msmes-are-connected-but-the-digital-divide-remains/)** — The Villager (Namibia), 22 November 2026
+
+A national survey by Konrad-Adenauer-Stiftung and Survey Warehouse interviewed 688 Namibian micro, small and medium businesses. It found that 86% use smartphones, 21% use accounting software and 18% use cloud storage. The cost of equipment and software was the leading barrier for 56% of respondents, and about 24% said they use some form of AI.
+
+</div>
+
+</div>
+
 ## Nigeria
 
 <div class="monthly-story" markdown="1">
@@ -294,6 +312,20 @@ Nigeria's federal government plans to extend internet connectivity to public pri
 **[CITAD trains 51 women, girls in digital entrepreneurship in Bauchi](https://citadradio.com.ng/2026/11/16/citad-trains-51-women-girls-in-digital-entrepreneurship-in-bauchi/)** — CITAD Radio, 16 November 2026
 
 CITAD trained 51 women and girls in digital entrepreneurship in Jama'are, Bauchi State, on 8 and 9 November 2026. It is the first batch of a Gates Foundation-backed project, with a target of 5,000 across Kano and Bauchi. The programme runs under CARE's SheConnects Digital Accelerator.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Device affordability</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African smartphone shipments plunge 40%](https://www.itweb.africa/article/african-smartphone-shipments-plunge-40/xA9POvNEnGVqo4J8)** — ITWeb Africa, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Omdia reported that African smartphone shipments fell 40% year on year in the third quarter of 2026. They fell to 13.7 million units from 22.8 million. Omdia forecasts a 23% fall for 2026.
 
 </div>
 

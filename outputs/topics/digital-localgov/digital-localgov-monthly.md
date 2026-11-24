@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: digital.localgov
 places: BEN; BDI; CMR; CPV; TCD; COD; EGY; ETH; GAB; KEN; MLI; MAR; NGA; ZAF; SSD; SDN; TZA
-record: 073bb2165d60
+record: af5cc6c1d45b
 ---
 
 # News, Oct – Nov 2026
@@ -337,6 +337,20 @@ Two Mombasa tuk-tuk associations went to the High Court against the county's cam
 **[From paper files to fingertips Vihiga unleashes digital revolution](https://www.kenyanews.go.ke/from-paper-files-to-fingertips-vihiga-unleashes-digital-revolution/)** — Kenya News Agency, 6 November 2026
 
 Vihiga County held its first ICT Day and Digital Innovation Expo, reported on 6 November 2026. Governor Wilber Ottichilo said procurement, job applications and payments are now fully online and that the health workforce is integrated into digital systems. He said the county Land Information System is 70 percent complete.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Konza-Makueni emergency response memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Konza Technopolis to Deploy Smart Technologies for Emergency Management](https://techafricanews.com/2026/11/23/konza-technopolis-to-deploy-smart-technologies-for-emergency-management/)** — Tech Africa News, 23 November 2026
+
+Kenya's Technopolis Development Authority and Makueni County signed a memorandum of understanding on emergency response at Konza Technopolis, reported on 23 November 2026. It provides for firefighting and ambulance services, training for emergency staff and community safety awareness. The agreement also covers IoT sensors, real-time monitoring and data analytics for early warning and coordination.
 
 </div>
 

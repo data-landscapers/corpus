@@ -1,16 +1,18 @@
 ---
 title: National statistics — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: data.statistics
-places: DZA; BWA; BDI; CAF; TCD; COG; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA; ZWE
-record: 173351dd32a6
+places: DZA; AGO; BWA; BDI; CAF; TCD; COG; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA; ZWE
+record: 61661b4e4c1e
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#algeria">Algeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#angola">Angola</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -78,6 +80,22 @@ record: 173351dd32a6
 **[Full Text of the Council of Ministers Meeting Statement](http://news.radioalgerie.dz/en/node/98524)** — Algerian Radio, 8 November 2026
 
 At the Council of Ministers on 8 November 2026, President Abdelmadjid Tebboune told ministers to load their statistics onto a national digital platform. The platform belongs to the High Commission for Digitization. The meeting also ordered a statistics department for agriculture.
+
+</div>
+
+</div>
+
+## Angola
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Industrial Production Index, manufacturing source</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Inconsistências estatísticas ditam ruptura entre INE e Ministério da Indústria](https://expansao.co.ao/economia/detalhe/inconsistencias-estatisticas-ditam-ruptura-entre-ine-e-ministerio-da-industria-75232.html)** — Expansão, 9 October 2026
+
+Angola's National Statistics Institute said it would stop using data from the industry ministry's Portal da Indústria. The index returns to direct collection from a sample of 183 industrial units.
 
 </div>
 
@@ -536,6 +554,20 @@ The Namibia Statistics Agency launched its SDG Indicator Framework Report and an
 </div>
 
 ## Niger
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National statistical yearbook</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Annuaire statistique 2021-2025, édition 2026](https://www.stat-niger.org/wp-content/uploads/annuaire_bulletin/annuaire/annuaire_statistique_ins_2021_2025_vf.pdf)** — Institut National de la Statistique (INS), 1 November 2026
+
+Niger's National Institute of Statistics published its statistical yearbook for 2021 to 2025, 2026 edition. It compiles ministry statistics, institute data and central bank figures, and records validation by its quality committee on 22 October 2026 and amendments on 29 October 2026. Publication is dated to November 2026 by inference.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

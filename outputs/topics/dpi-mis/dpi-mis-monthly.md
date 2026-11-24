@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2220a46a835c
+record: 79da2af6c7fe
 ---
 
 # News, Oct – Nov 2026
@@ -444,6 +444,20 @@ DR Congo's Ministry of Justice launched digital collection of court fees on 5 No
 **[RDC : un système connecté pour mieux organiser les interventions médicales](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-un-systeme-connecte-pour-mieux-organiser-les-interventions-medicales)** — wearetech.africa, 9 November 2026
 
 The DR Congo Ministry of Health announced on 8 November 2026 that the Etoile Bleue emergency medical response system will be inaugurated by the President, after a postponement in June 2026. It starts in Kinshasa and Matadi with a free 199 number, a mobile app, a regulation centre, 130 ambulances and 300 medical motorbikes. No launch date was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Social security fund health-centre management software</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Santé : la CNSS engage 1,5 million $ pour digitaliser la gestion de ses centres](https://bankable.africa/en/actualites/2111-4050-sante-la-cnss-engage-1-5-million-pour-digitaliser-la-gestion-de-ses-centres)** — Bankable, 21 November 2026
+
+The Democratic Republic of the Congo's social security fund, the CNSS, provisionally selected Nazounki Global Medical Network. The contract is worth USD 1.499 million to supply management software for its health centres. The public procurement regulator published the minutes on 20 November 2026.
 
 </div>
 
@@ -941,6 +955,20 @@ The Health Cabinet Secretary announced a National Intelligence and Analytics Cen
 **[Government streamlines cancer treatment with single SHA approval](https://www.kenyanews.go.ke/government-streamlines-cancer-treatment-with-single-sha-approval/)** — Kenya News Agency, 20 November 2026
 
 Kenya's Health Cabinet Secretary announced on 20 November 2026 that cancer patients no longer need Social Health Authority approval for each treatment cycle. One approval covers a care plan at any contracted hospital. The reform runs through the Digital Health Agency's SHA Oncology Module for 54,465 patients.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated Correctional Management Information System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya prisons, probation services set for digital overhaul](https://www.kbc.co.ke/kenya-prisons-probation-services-set-for-digital-overhaul/)** — Kenya Broadcasting Corporation, 23 November 2026
+
+Kenya's State Department for Correctional Services is fast-tracking an Integrated Correctional Management Information System. The World Bank funds it under the Kenya Digital Economy Acceleration Project. Principal Secretary Salome Beacco said the aim is one digital platform for prisons and probation within the current financial year.
 
 </div>
 

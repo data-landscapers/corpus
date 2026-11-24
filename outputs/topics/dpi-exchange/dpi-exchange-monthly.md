@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, October – November 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 subject: dpi.exchange
 places: DZA; AGO; BEN; BFA; BDI; CMR; CIV; COD; EGY; GAB; GIN; GNB; KEN; LSO; LBY; MLI; MRT; MUS; MOZ; NAM; NGA; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: edc5baa39332
+record: 5c15318b2875
 ---
 
 # News, Oct – Nov 2026
@@ -761,6 +761,20 @@ Operation Vulindlela's progress report for the second quarter of 2026, released 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs-to-customs data exchange</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SARS advances connected customs corridor to accelerate trade across Southern Africa | South African Revenue Service](https://www.sars.gov.za/media-release/sars-advances-connected-customs-corridor-to-accelerate-trade-across-southern-africa/)** — South African Revenue Service, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a>
+
+The South African Revenue Service said it signed an agreement with the Zambia Revenue Authority on the Friday before 23 November 2026. The agreement is to exchange customs consignment data before goods reach the border. A similar arrangement with Malawi was signed on 30 July 2026.
+
+</div>
+
+</div>
+
 ## Tanzania
 
 <div class="monthly-story" markdown="1">
@@ -900,6 +914,20 @@ UNDP and the SMART Zambia Institute signed a memorandum of understanding on digi
 **[ATAF and Zambia partner on tax technology](https://theafricandaily.com/321415/business/tax/ataf-and-zambia-partner-on-tax-technology/)** — The African Daily, 21 November 2026
 
 The African Tax Administration Forum and the Zambia Revenue Authority signed a Memorandum of Agreement in Lusaka on 20 November 2026. It covers an African-built IT platform for the automatic exchange of tax information among African tax administrations. The World Bank Group is providing technical support.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">South Africa-Zambia customs interconnectivity agreement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SARS advances connected customs corridor to accelerate trade across Southern Africa | South African Revenue Service](https://www.sars.gov.za/media-release/sars-advances-connected-customs-corridor-to-accelerate-trade-across-southern-africa/)** — South African Revenue Service, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+The South African Revenue Service said it signed an agreement with the Zambia Revenue Authority on the Friday before 23 November 2026. The agreement is to exchange customs consignment data before goods reach the border. A similar arrangement with Malawi was signed on 30 July 2026.
 
 </div>
 
