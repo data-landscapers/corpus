@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "3",
-   "use": "inservice",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-001",
-   "gaps": "No source found since October 2023 says AI is in service in two or more government bodies.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "3",
+      "use": "inservice",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-001",
+      "gaps": "No source found since October 2023 says AI is in service in two or more government bodies.",
+      "note": "Reassessed 2026-11-24: the central bank uses an AI system in service. The revenue authority's AI contact centre is still being developed, so one body and not stage 4.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

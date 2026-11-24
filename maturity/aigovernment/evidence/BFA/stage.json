@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BFA-001;BFA-002",
       "gaps": "No source found since October 2023 says: is an ai system in service in administration.",
-      "note": "First pass: counted from the four questions by study-ladder-aigovernment.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed 2026-11-24: an October 2025 agreement with the broadcaster and the minister's March 2025 statement that a platform and two chatbots were being finalised show AI under way; a later report calls them launched but rests on the same statement. Nothing shows one in service, so stage 2.",
+      "as_at": "2026-11-24"
     }
   ]
 }

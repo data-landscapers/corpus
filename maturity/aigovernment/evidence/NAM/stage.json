@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "NAM-001;NAM-002",
       "gaps": "No source found since October 2023 says AI is in service in two or more government bodies.",
-      "note": "First pass: counted from the four questions by study-ladder-aigovernment.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed 2026-11-24: the Prime Minister's office runs the Pocketbot chatbot for civil servants, launched in November 2023, one body with AI in service. No second body has been found, so not stage 4.",
+      "as_at": "2026-11-24"
     }
   ]
 }

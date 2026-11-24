@@ -1,17 +1,18 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "unplaced",
-   "use": "",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 says whether a government body uses an AI system.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "unplaced",
+      "use": "",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 says whether a government body uses an AI system.",
+      "note": "Reassessed 2026-11-24: the Huawei agreement covers AI for police work the president wants deployed, which is intent and not a body testing or using a system, so no rung is set.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }

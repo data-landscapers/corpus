@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "GMB-002",
       "gaps": "No source found since October 2023 says AI is in service in two or more government bodies.",
-      "note": "First pass: counted from the four questions by study-ladder-aigovernment.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed 2026-11-24: the Information Ministry's AI fact-checking line is in service. UNDP's e-Monitor Plus, launched in October 2026 with the electoral commission, is UNDP's platform and not shown as the commission's own, so one body and not stage 4.",
+      "as_at": "2026-11-24"
     }
   ]
 }

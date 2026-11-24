@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "unplaced",
-   "use": "",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 says whether a government body uses an AI system.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "unplaced",
+      "use": "",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 says whether a government body uses an AI system.",
+      "note": "Reassessed 2026-11-24: the government plans AI to check procurement prices, which is intent, so no body is shown testing or using a system and no rung is set.",
+      "as_at": "2026-11-24"
+    }
+  ]
 }
