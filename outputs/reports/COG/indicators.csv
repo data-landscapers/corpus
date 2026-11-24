@@ -403,6 +403,8 @@ infra.energy--sufficient-energy-and-water-for-data-centres,Movement,"A [12 MW so
 
 2026-10-17 — [the regulator said operators' sites get grid power for only 10 hours a day](2026-10-17-cog-aci-arpce-livre-blanc-indicateurs-marche).
 
+2026-10-27 - [the regulator said operators' sites averaged nine hours of grid power a day against six hours of battery autonomy, and that a diesel shortage left backup generators unfed](2026-10-27-cog-crise-du-carburant-les-reseaux-telecoms-a-bout-de-souffle).
+
 [The appraisal for the electricity strengthening project is the standing account of supply](2024-05-07-world-bank-pasel-project-appraisal-document-congo). No megawatt requirement, water requirement or power-availability figure for the data centre itself is published.",COG-infra.energy-pasel|COG-infra.energy-energy-cost-reliability-digital|COG-infra.store-data-centre,,,,,,,,,,,
 infra.energy--rural-electrification,Movement,"A national energy compact [was signed](2025-09-01-pacte-national-energetique-congo-mission-300), [hydro and solar mini-grids were taken to rural zones](2025-11-20-pezor-mini-reseaux-hydroelectriques-solaires-zones-rurales), and [a 30kV line was energised into the Pool](2026-07-17-ligne-30kv-kinkala-louingui-boko-loumo-pool).","2025-09-01 — [a national energy compact was signed under a continental access programme](2025-09-01-pacte-national-energetique-congo-mission-300).
 
@@ -480,6 +482,8 @@ dpi.pay--b2b-and-b2g-functionality,Movement,"Public revenues [were put onto a si
 
 2026-10-29 - MTN Congo [signed a partnership letting pharmacies pay the distributor UbiPharm, and customers pay pharmacies, by mobile money](2026-10-29-momo-and-ubipharm-partner-to-digitise-pharmaceutical-payments-in-congo). No volumes, fees or pharmacy count are published.
 
+2026-11-17 - on the government side, [about FCFA 107bn of public revenue was collected through the platform from 1 June to 16 November](2026-11-18-cog-congo-107-milliards-fcfa-de-recettes-publiques-collect-es-par-la-nouve).
+
 The ledger separately carries the CEMAC interoperable QR-code standard, which is the regional rail businesses would use. No business-to-business volume or value appears anywhere.",COG-dpi.pay-public-revenue-payment-platform|COG-dpi.exchange-cemac-interoperable-qr-code|COG-dpi.pay-momo-pharmaceutical-payments,3,COG-dpi.exchange-cemac-interoperable-qr-code,,,,,,,2026-08-31,0,regional interoperable QR in service; no end-to-end e-procurement on record
 dpi.pay--population-uptake,Movement,"[The 2025 financial inclusion survey is the standing measure](2025-10-01-global-findex-2025-congo-rep-catalogue-record), and an operator [reported its 2025 results](2026-03-16-mtn-group-reports-exceptional-2025-results).","[The 2025 global financial inclusion survey is the standing measure of account ownership and use](2025-10-01-global-findex-2025-congo-rep-catalogue-record).
 
@@ -553,7 +557,9 @@ dpi.mis--justice,Movement,"[A justice information system was described under an 
 No case management system, case count or court digitisation figure appears at either end of the period.",COG-dpi.mis-justice,2,COG-dpi.mis-justice,,,,,,,2026-08-31,0,Justice information system described under an earlier project; not in service on record
 dpi.mis--tax,Movement,"Public revenues [were put onto a single payment platform by order in June 2026](2026-06-11-jo-2026-24-arrete-1009-paiement-recettes-publiques-plateforme-fouta), [live from August](2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne), alongside the tax filing portal the ledger carries.","2026-06-11 — [an order set the payment of public revenues onto a single platform](2026-06-11-jo-2026-24-arrete-1009-paiement-recettes-publiques-plateforme-fouta).
 
-The standing systems are a tax filing portal and the certified electronic invoicing system, both in service. What moved in the window is the collection leg: [the payment platform went live on 3 August 2026, routing each payment to the treasury against an electronic receipt](2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne), with roll-out to all taxpayers targeted by the end of 2026.",COG-dpi.govtech-tax-filing-portal|COG-dpi.pay-public-revenue-payment-platform,3,COG-dpi.govtech-tax-filing-portal|COG-dpi.pay-public-revenue-payment-platform,,,,,,,2026-08-31,0,filing and payment live for some segments; no uptake published
+The standing systems are a tax filing portal and the certified electronic invoicing system, both in service. What moved in the window is the collection leg: [the payment platform went live on 3 August 2026, routing each payment to the treasury against an electronic receipt](2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne), with roll-out to all taxpayers targeted by the end of 2026.
+
+2026-11-17 - the finance minister told the National Assembly that [about FCFA 107bn had been collected from 1 June to 16 November, FCFA 94bn through e-Tax and FCFA 13bn through the customs system](2026-11-18-cog-congo-107-milliards-fcfa-de-recettes-publiques-collect-es-par-la-nouve).",COG-dpi.govtech-tax-filing-portal|COG-dpi.pay-public-revenue-payment-platform,3,COG-dpi.govtech-tax-filing-portal|COG-dpi.pay-public-revenue-payment-platform,,,,,,,2026-08-31,0,filing and payment live for some segments; no uptake published
 dpi.mis--customs,Movement,"[Officers and operators were briefed on the electronic customs system from 2019](2019-02-08-dsi-douaniers-operateurs-sensibilises-e-douanes-dpi), and [the customs directorate was reorganised by order in March 2026](2026-03-26-arrete-229-attributions-organisation-services-sections-dgddi).","2019-02-08 — [customs officers and operators were briefed on the electronic customs system](2019-02-08-dsi-douaniers-operateurs-sensibilises-e-douanes-dpi).
 
 2026-03-26 — [an order set the attributions and organisation of the customs directorate's services and sections](2026-03-26-arrete-229-attributions-organisation-services-sections-dgddi).
@@ -570,7 +576,9 @@ digital.localgov--ict-infrastructure-for-local-government,Movement,"The accelera
 
 [The project appraisal is the standing account of what it covers](2022-05-11-world-bank-congo-digital-acceleration-project-appraisal-document).
 
-The ledger's own local-government entry is a revenue platform in development. No count of local authorities connected or equipped appears at either end.",COG-digital.localgov-local-authority-revenue-dematerialisation,,,,,,,,,2026-08-31,0,Only a validated but undeployed revenue platform; nothing on local ICT equipment
+2026-11-17 - the state information-systems agency told the National Assembly that [its local-authority revenue platform was ready to go into production during 2027](2026-11-18-cog-assemblee-nationale-l-acsi-presente-l-etat-d-avancement-des-differents-projets).
+
+The ledger's own local-government entry is a revenue platform in piloting. No count of local authorities connected or equipped appears at either end.",COG-digital.localgov-local-authority-revenue-dematerialisation,,,,,,,,,2026-08-31,0,Only a validated but undeployed revenue platform; nothing on local ICT equipment
 digital.rural--digitalisation-of-rural-health-clinics,Movement,"[A harmonised health facility assessment was validated in June 2026](2026-06-18-congo-valide-etat-des-lieux-etablissements-de-sante-hhfa), against [the national health development plan](2024-09-01-pnds-congo-2023-2026-version-officielle).","[The national health development plan is the standing framework](2024-09-01-pnds-congo-2023-2026-version-officielle).
 
 2026-06-18 — [a harmonised assessment of health facilities was validated](2026-06-18-congo-valide-etat-des-lieux-etablissements-de-sante-hhfa). It is a survey of what exists rather than a digitisation of it.

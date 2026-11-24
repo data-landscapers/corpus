@@ -559,7 +559,7 @@ Chad's state mining company SONEMIC handed servers, interconnection equipment an
 
 **[Digitalisation de l’administration : le comité de pilotage fixe ses priorités](https://www.adiac-congo.com/content/digitalisation-de-ladministration-le-comite-de-pilotage-fixe-ses-priorites-172010)** — Les Dépêches de Brazzaville, 17 October 2026
 
-The steering committee of Congo's task force on digitalising the administration, created by decree 2026-261 of 29 January 2026, met for the first time on 15 October 2026 and chose four priorities. They are e-visas and entry authorisation before visa-free entry for Africans from January 2027, digital criminal records and birth certificates, a clean-up of the civil-service personnel file, and data sharing between revenue agencies and land administration.
+The steering committee of Congo's task force on digitalising the administration, created by decree 2026-261 of 29 July 2026, met for the first time on 15 October 2026 and chose four priorities. They are e-visas and entry authorisation before visa-free entry for Africans from January 2027, digital criminal records and birth certificates, a clean-up of the civil-service personnel file, and data sharing between revenue agencies and land administration.
 
 </div>
 
