@@ -146,6 +146,7 @@ CAF,CAR-South Sudan interconnection (planned),,other,,Central African Digital De
 CAF,Central African Backbone (CAB),Central African Backbone,route,,,,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre
 CAF,Central African Backbone,Central African Republic,route,fibre,,,2026-10-26-caf-vers-une-diversification-de-la-connectivite-en-centrafrique
 CAF,Central African Backbone (CAB),CAB,route,,,,2026-10-12-caf-central-african-republic-revives-talks-on-third-internet-route-via-drc
+CAF,Starlink,Central African Republic,other,satellite,Starlink,,2026-03-17-starlink-commercial-launch-affordability-agenceecofin
 CIV,2Africa,2Africa,route,,,,2026-08-02-2africa-ivory-coast-branch-live-again-and-wacs-under-repair
 CIV,WACS,WACS,route,,,,2026-08-02-2africa-ivory-coast-branch-live-again-and-wacs-under-repair
 CIV,Via Africa,Via Africa,other,,consortium incl. Orange Cote d'Ivoire,,2026-05-15-via-africa-cable-sous-marin-europe-afrique-fratmat
@@ -264,6 +265,8 @@ COG,WACS,Congo,route,submarine cable,,,2024-02-29-cog-economie-numerique-denis-s
 COG,WACS,Congo,route,submarine cable,,,2025-02-17-cog-itinerance-internationale-et-regionale-actions-menees-par-le-congo
 COG,2Africa,Congo,route,submarine cable,Meta,,2025-02-17-cog-itinerance-internationale-et-regionale-actions-menees-par-le-congo
 COG,WACS,West Africa Cable System,route,,,,2026-11-19-cog-wacs-subsea-cable-returns-online
+COG,WACS,Congo,route,submarine cable,Congo Telecom,,2026-11-23-cog-congo-la-panne-du-cable-wacs-a-mis-a-l-epreuve-la-resilience-des-reseaux-in
+COG,2Africa,Congo,route,submarine cable,Congo Telecom capacity,,2026-11-23-cog-congo-la-panne-du-cable-wacs-a-mis-a-l-epreuve-la-resilience-des-reseaux-in
 COM,2Africa,2Africa,route,,,,2026-01-01-comores-cables-technologies
 COM,EASSy,EASSy,other,,,,2026-01-01-comores-cables-technologies
 COM,FLY-LION3,FLY-LION3,other,,,,2026-01-01-comores-cables-technologies
@@ -1076,6 +1079,7 @@ SLE,TRANSCO CLSG fibre,,other,,TRANSCO CLSG,,2026-06-16-transco-clsg-fibre-expan
 SLE,ACE,ACE (Africa Coast to Europe),route,,ACE Consortium,,2021-09-09-ace-consortium-submarine-cable-overview
 SLE,Africa Coast to Europe (ACE),Sierra Leone,route,submarine cable,,,2025-07-21-lbr-liberia-ecowas-plan-second-subsea-cable-for-five-west-african-countrie
 SLE,second submarine cable,second submarine cable,other,,National Cable Consortium,,2026-11-18-sle-libertyonlinetv-waiis-2026-outcomes
+SLE,Second submarine fibre-optic cable,Sierra Leone,other,,Government of Sierra Leone,,2026-11-21-sle-sierra-leones-president-julius-maada-bio-closes-west-africa-integration-and-inve
 SOM,DARE1,DARE1,route,,Djibouti Telecom,,2025-09-04 DARE1 subsea cable expansion to boost internet capacity
 SOM,DARE1 extension (Mombasa to Mtunzini),,other,,Djibouti Telecom,,2025-09-04 DARE1 subsea cable expansion to boost internet capacity
 SOM,DARE1,DARE1,route,,Djibouti Telecom,,2025-09-01-dare1-extension-kenya-south-africa-connectingafrica
@@ -1122,6 +1126,7 @@ TCD,N'Djamena-Mberé fibre link,N'Djamena-Mberé link,other,,,,"2026-02-13 Chad 
 TCD,Trans-Saharan Fiber Optic Backbone (DTS),Dorsale Transsaharienne,other,,,,"2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena"
 TCD,N'Djamena-Cameroon link,Chad,route,fibre,Government of Chad,,2026-03-19-tcd-project-to-modernize-ict-electronic-communication-infrastructure-to-ac
 TCD,Chad-Sudan link via Adré,Chad,other,fibre,Government of Chad,,2026-03-19-tcd-project-to-modernize-ict-electronic-communication-infrastructure-to-ac
+TCD,Chad-Cameroon international fibre link,Chad,route,terrestrial fibre,,,2026-11-23-tcd-a-doha-le-tchad-renforce-ses-ambitions-de-desenclavement-numerique
 TGO,Equiano,Equiano,route,,Google,,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
 TGO,2Africa West,2Africa,other,,Meta-led consortium,,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
 TGO,Equiano,Equiano,route,,Google,,2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers
