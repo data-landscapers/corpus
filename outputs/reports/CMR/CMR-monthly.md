@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: CMR
-ledger_rows: 38
+ledger_rows: 39
 not_held: 3
-record: 84df7df2a74d
+record: 469ab149b248
 ---
 
 # News, Oct – Nov 2026
@@ -563,6 +563,20 @@ Cameroon's civil-registration office, BUNEC, sent a study mission to Côte d'Ivo
 **[État civil : le Cameroun s’inspire de la Côte d’Ivoire pour interconnecter ses données](https://www.wearetech.africa/fr/fils/actualites/tech/etat-civil-le-cameroun-s-inspire-de-la-cote-d-ivoire-pour-interconnecter-ses-donnees)** — We Are Tech Africa, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 Cameroon's civil registration bureau BUNEC visited Côte d'Ivoire's ONECI in Abidjan from 26 to 30 October 2026. Cameroon plans to computerise and interconnect 432 main registry centres by 2029. ONECI reported its CityWeb software in every centre, online e-certified birth extracts, and weak connectivity in some centres.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital civil-registration programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Promotion de l’état civil : Environ 168 000 demandes de financement introduites par les maires et encore en attente](https://www.newsducamer.com/promotion-de-letat-civil-environ-168-000-demandes-de-financement-introduites-par-les-maires-et-encore-en-attente/)** — News du Cameroun, 23 November 2026
+
+60 of 432 principal centres digitised by Sept 2026 (13.9%); FCFA 52bn sought; women's ministry turns to OIF.
 
 </div>
 
