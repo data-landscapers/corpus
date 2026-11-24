@@ -1,0 +1,15 @@
+{"slug": "2026-11-22-eth-capital-faydapass-government-documents-digital-wallet", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Faydaverse told Capital that citizens currently access the FaydaPass digital wallet with their Fayda digital ID, free of charge.", "as_of": "2026-11-22", "date_precision": "day", "system": "FaydaPass", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "Faydaverse said nine government institutions, including those for trade and transport, have joined the FaydaPass credential platform.", "as_of": "2026-11-22", "date_precision": "day", "system": "FaydaPass", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "Faydaverse said citizens currently use the FaydaPass digital credential wallet, reached with the Fayda digital ID, to access and verify credentials remotely.", "as_of": "2026-11-22", "date_precision": "day", "system": "FaydaPass", "class": "authentication"}],
+"systems": [{"system": "FaydaPass", "country_label": "Ethiopia", "class": "authentication", "platform": "Fayda digital ID", "owner": "Faydaverse", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on civil register and ID link."}}},
+"ecommercelaw": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on an e-commerce or electronic transactions law."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on ID at birth."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Institutions join a credential wallet, not a register keyed on the ID number."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Faydaverse told Capital that citizens currently access FaydaPass using their Fayda digital ID.", "as_of": "2026-11-22", "date_precision": "day", "system": "Fayda digital ID", "class": "idsystem"}], "systems": [{"system": "Fayda digital ID", "country_label": "Ethiopia", "class": "idsystem", "platform": "", "owner": "Faydaverse", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Land records named only as a planned wallet addition; talks with land administration, no register stated."}}}
+}}

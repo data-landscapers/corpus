@@ -1,0 +1,17 @@
+{"slug": "2026-11-23-egy-fintechgate-egypt-ai-procurement-personal-data-safeguards", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A procurement guide on data handling, with no stated legal effect on AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [{"sub_indicator": "govai", "aspect": "rules", "value": "rules", "fact": "FinTech Gate reports that the Egyptian government issued a guide for buying AI systems, requiring contracting bodies to obtain from bidders how government data is handled, storage locations, retention and deletion proof, and banning use of government data to train third-party models without permission.", "as_of": "2026-11-23", "date_precision": "day", "system": "AI procurement guide", "class": "govai"}], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on an AI tool in a sector system."}}},
+"aistrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A procurement guide, not a national AI strategy."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on AI built in the country."}}},
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement systems."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "FinTech Gate reports the Egyptian AI procurement guide requires bidders to prove compliance with Personal Data Protection Law No. 151 of 2020 and its executive regulations.", "as_of": "2026-11-23", "date_precision": "day", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"}, {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "The same report refers to the executive regulations of Law No. 151 of 2020 as an existing instrument bidders must comply with.", "as_of": "2026-11-23", "date_precision": "day", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"offsitebackup": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Backups are named only as vendor retention disclosures, with no site stated."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

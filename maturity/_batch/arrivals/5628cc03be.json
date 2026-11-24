@@ -1,0 +1,11 @@
+{"slug": "2024-05-01-mar-cgms-maroc-alerte-secheresse-et-prevision-des-rendements", "studies": {
+"agrisatellite": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "agrisat", "aspect": "service", "value": "inservice", "fact": "A 2024 AgriMaroc report on an INRA book says the CGMS-Maroc drought-alert and cereal-yield forecasting system, run since the early 2010s with INRA, IAV Hassan II, Maroc Météo and the statistics directorate, uses satellite imagery to monitor cereal crops in real time.", "as_of": "2024-05", "date_precision": "month", "system": "CGMS-Maroc", "class": "agrisat"}
+], "systems": [{"system": "CGMS-Maroc", "country_label": "CGMS-Maroc", "class": "agrisat", "platform": "", "owner": "INRA", "tiers": ""}], "note": ""}}},
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "A farming forecasting system, not AI in general administration."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "The 2024 AgriMaroc report says the CGMS-Maroc cereal yield-forecasting and drought-alert system, built by INRA and partners, has integrated artificial intelligence alongside satellite imagery and agro-meteorological modelling.", "as_of": "2024-05", "date_precision": "month", "system": "CGMS-Maroc", "class": "sectorai"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No AI model, dataset or computing facility is described beyond the sector system."}}},
+"metsatellite": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Maroc Météo is only named as a partner; no satellite use in its forecasts is stated."}}}}}

@@ -1,0 +1,6 @@
+{"slug": "2026-11-23-nga-the-government-of-nigeria-and-unhcr-launch-the-digital-gateway-to-expand-access", "studies": {
+"dataprotectionlaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No data protection law or authority is named."}}},
+"egovservices": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The Digital Gateway is a registration portal for displaced people, not a government services portal."}}},
+"refugees": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "UNHCR says it and the Government of Nigeria launched the Digital Gateway with the National Commission for Refugees, Migrants and IDPs, letting asylum-seekers start pre-registration and request registration appointments online, beginning in Abuja with gradual expansion elsewhere; about 140,000 refugees and asylum-seekers and 3.68 million IDPs are counted.", "as_of": "2026-11-23", "date_precision": "day", "system": "Digital Gateway (My Services portal)", "class": "displaced"}
+], "systems": [{"system": "Digital Gateway", "country_label": "Digital Gateway (My Services portal)", "class": "displaced", "platform": "web portal", "owner": "UNHCR with National Commission for Refugees, Migrants and IDPs", "tiers": ""}], "note": ""}}}}}

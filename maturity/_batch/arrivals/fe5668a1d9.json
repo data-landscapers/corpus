@@ -1,0 +1,8 @@
+{"slug": "2026-11-23-lbr-nec-seeks-us-89-5m-for-2029-elections-cites-biometric-technology", "studies": {
+"datacentres": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a requested NEC data centre for its own use; none for hire in service."}}},
+"electoralregister": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Biometric devices are only intended to be procured and registration is scheduled for 2028; nothing procured or in service is stated."}}},
+"idrobustness": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Election budget only; no national ID system stated."}}},
+"nationaldatacentres": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Requested NEC data centre is a plan for its own use, not a centre for hire in service."}}},
+"publicconsultation": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No consultation on a digital law or policy stated."}}},
+"satellitebroadband": {"countries": {"LBR": {"facts": [], "systems": [], "note": "NEC plans Starlink for its own links; no licence or retail sale stated."}}}
+}}

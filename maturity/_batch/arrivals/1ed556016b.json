@@ -1,0 +1,4 @@
+{"slug": "2026-11-23-sdn-nips-sudan-national-instant-payment-system-details", "studies": {
+"egovservices": {"countries": {"SDN": {"facts": [], "systems": [], "note": "NIPS lets users pay government fees, but no government service or portal is named; payments platform only."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "underway", "fact": "Al Arabiya reports Sudan is moving to develop its electronic payments through the National Instant Payment System (NIPS), owned and run by the Central Bank of Sudan, which aims to link banks, e-wallets and merchants on one platform.", "as_of": "2026-11-23", "date_precision": "day", "system": "NIPS", "class": "retail"}], "systems": [{"system": "NIPS", "country_label": "Sudan", "class": "retail", "platform": "ISO 20022", "owner": "Central Bank of Sudan", "tiers": ""}], "note": ""}}}
+}}

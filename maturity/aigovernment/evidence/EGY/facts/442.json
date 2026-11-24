@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-23-egy-fintechgate-egypt-ai-procurement-personal-data-safeguards",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "rules",
+   "value": "rules",
+   "fact": "FinTech Gate reports that the Egyptian government issued a guide for buying AI systems, requiring contracting bodies to obtain from bidders how government data is handled, storage locations, retention and deletion proof, and banning use of government data to train third-party models without permission.",
+   "as_of": "2026-11-23",
+   "date_precision": "day",
+   "system": "AI procurement guide",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

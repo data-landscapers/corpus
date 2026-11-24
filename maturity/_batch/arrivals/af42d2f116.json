@@ -1,0 +1,18 @@
+{"slug": "2026-01-01-mar-loa-pole-digital-fao-geoservices-agricoles-par-satellite-et-ia", "studies": {
+"agrisatellite": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "agrisat", "aspect": "service", "value": "inservice", "fact": "The Pôle Digital de l'Agriculture, de la Forêt et Observatoire de la Sécheresse says it now operates a drought-monitoring geoportal using satellite sources (CHIRPS, MODIS, SMAP), crop maps from Sentinel-2 imagery and a farmer agrometeorological e-service with NDVI, SPI and SPEI maps, developed under a FAO-funded LOA that closed 30 May 2026.", "as_of": "2026", "date_precision": "year", "system": "Pôle Digital géoservices (géoportail sécheresse, e-service agrométéorologique)", "class": "agrisat"}
+], "systems": [{"system": "Géoportail sécheresse", "country_label": "Pôle Digital drought geoportal", "class": "agrisat", "platform": "CHIRPS, MODIS, SMAP", "owner": "Pôle Digital de l'Agriculture, de la Forêt et Observatoire de la Sécheresse", "tiers": ""}, {"system": "E-service agrométéorologique", "country_label": "Pôle Digital agrometeorological e-service", "class": "agrisat", "platform": "web", "owner": "Pôle Digital", "tiers": ""}], "note": "No schedule of publication and no count of farmers reached is stated."}}},
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on AI harms."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "AI is used for crop mapping, a sector use, not general administration."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "The Pôle Digital says its agrometeorological dashboard takes crop maps made from satellite imagery with machine learning and deep learning, with use cases in 2024 and 2025 in Tassaout, Sidi Kacem, R'mel and Sebt El Guerdane, and that the geoservices are now integrated in the digital system it operates.", "as_of": "2025", "date_precision": "year", "system": "Solution 4 Agrométéo", "class": "sectorai"}
+], "systems": [], "note": "No measured results stated."}}},
+"aisystems": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "The Pôle Digital says it built an open-source QGIS extension that runs its crop-mapping process, comparing several AI models on Sentinel-2 imagery, with use cases in 2024 in Settat, Doukkala, Gharb, Haouz and Tadla.", "as_of": "2024", "date_precision": "year", "system": "Extension QGIS cartographie des cultures", "class": "localai"}
+], "systems": [], "note": ""}}},
+"itcapacity": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "The Pôle Digital, under the Ministry of Agriculture, says the digital system of geoservices built with the FAO LOA is now operated by the Pôle Digital itself.", "as_of": "2026", "date_precision": "year", "system": "Dispositif digital du Pôle Digital", "class": "staff"}
+], "systems": [], "note": ""}}},
+"metsatellite": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Satellite data is used for farming products, not stated for the national meteorological service."}}},
+"opendatause": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No datasets published for download are stated."}}}
+}}

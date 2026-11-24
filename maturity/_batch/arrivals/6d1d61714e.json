@@ -1,0 +1,11 @@
+{"slug": "2026-11-23-sle-sierra-leones-children-are-already-living-with-artificial-intelligence-ai-now-th", "studies": {
+"accesstoinformationlaw": {"countries": {"SLE": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "UNICEF Sierra Leone reports that children's recommendations will help strengthen the proposed Data Protection and Right to Access Information Bill, which the Information Minister Chernor Bah highlighted.", "as_of": "2026-11-23", "date_precision": "day", "system": "Data Protection and Right to Access Information Bill", "class": "law"}], "systems": [], "note": ""}}},
+"aiabuse": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Children's concerns on privacy and cyberbullying are named; no AI harm rule or authority is stated."}}},
+"aigovernment": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No government body's use of AI is stated."}}},
+"aisectoral": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No sectoral AI tool in a public system is stated."}}},
+"aistrategy": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Only a National AI Readiness Assessment that will guide policy and strategy is named; no strategy being written is stated."}}},
+"aisystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}},
+"dataprotectionlaw": {"countries": {"SLE": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "UNICEF Sierra Leone reports that a proposed Data Protection and Right to Access Information Bill is being strengthened with children's recommendations on how personal data is collected, used, stored and protected.", "as_of": "2026-11-23", "date_precision": "day", "system": "Data Protection and Right to Access Information Bill", "class": "general"}], "systems": [], "note": ""}}},
+"digitaldivides": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Digital inequality is mentioned in general terms; no rural programme or rural-urban survey figures are stated."}}},
+"disabilityaccess": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Only a minister's remark that children with disabilities must not be left behind; no accessibility rule or programme is stated."}}}
+}}

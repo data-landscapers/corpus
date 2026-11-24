@@ -1,0 +1,6 @@
+{"slug": "2026-11-23-zaf-sars-advances-connected-customs-corridor-to-accelerate-trade-across-souther", "studies": {
+"customs": {"countries": {
+"ZAF": {"facts": [{"sub_indicator": "customs", "aspect": "system", "value": "underway", "fact": "SARS says regional customs connectivity, including agreements with Zambia (signed 20 November 2026) and Malawi (30 July 2026), is a core component of its Customs and Excise Modernisation programme.", "as_of": "2026-11-20", "date_precision": "day", "system": "SARS Customs and Excise Modernisation programme", "class": "customs"}], "systems": [{"system": "SARS Customs Connectivity programme", "country_label": "South Africa", "class": "customs", "platform": "", "owner": "South African Revenue Service", "tiers": ""}], "note": ""},
+"ZMB": {"facts": [], "systems": [], "note": "The Zambia Revenue Authority agreement to exchange consignment data is not said to describe its own customs system or declarations."}}},
+"datatransfers": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Customs data exchange between revenue authorities, not a rule on sending personal data abroad."}}}
+}}

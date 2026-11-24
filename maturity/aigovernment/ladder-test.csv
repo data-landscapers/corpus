@@ -1,55 +1,55 @@
 iso3,stage,use,bodies,rules,stage_sources
-AGO,2,underway,,,AGO-001
+AGO,4,inservice,several,,AGO-006
 BDI,no evidence,,,,
-BEN,no evidence,,,,
-BFA,2,underway,,,BFA-001;BFA-002
+BEN,4,inservice,several,,BEN-003
+BFA,2,underway,,,BFA-001;BFA-004
 BWA,unplaced,,,,
 CAF,no evidence,,,,
 CIV,3,inservice,,,CIV-002;CIV-001
-CMR,4,inservice,several,,CMR-001;CMR-002
-COD,no evidence,,,,
-COG,2,underway,,,COG-001
+CMR,4,inservice,several,,CMR-002
+COD,2,underway,,,COD-002
+COG,3,inservice,,,COG-002
 COM,no evidence,,,,
-CPV,2,underway,,,CPV-001
+CPV,3,inservice,,,CPV-004
 DJI,2,underway,,,DJI-001
-DZA,3,inservice,,,DZA-001
-EGY,4,inservice,several,,EGY-002
+DZA,4,inservice,several,,DZA-002
+EGY,4,inservice,several,,EGY-007;EGY-002
 ERI,no evidence,,,,
-ETH,2,underway,,,ETH-001
+ETH,3,inservice,,,ETH-002
 GAB,3,inservice,,,GAB-001
-GHA,3,inservice,,,GHA-002;GHA-001
+GHA,4,inservice,several,,GHA-003
 GIN,unplaced,,,,
-GMB,3,inservice,,,GMB-002
+GMB,3,inservice,,,GMB-003;GMB-002
 GNB,no evidence,,,,
 GNQ,3,inservice,,,GNQ-001
-KEN,3,inservice,,,KEN-002
+KEN,4,inservice,several,,KEN-009
 LBR,3,inservice,,,LBR-001
-LBY,unplaced,,,,
-LSO,2,underway,,,LSO-001
-MAR,3,inservice,,,MAR-002
-MDG,3,inservice,,,MDG-001
+LBY,2,underway,,,LBY-001;LBY-002
+LSO,3,inservice,,,LSO-002
+MAR,4,inservice,several,,MAR-007
+MDG,4,inservice,several,,MDG-003
 MLI,no evidence,,,,
-MOZ,no evidence,,,,
-MRT,2,underway,,,MRT-001
-MUS,2,underway,,,MUS-003;MUS-004
+MOZ,3,inservice,,,MOZ-001
+MRT,4,inservice,several,,MRT-003
+MUS,3,inservice,,,MUS-002;MUS-009
 MWI,no evidence,,,,
 NAM,3,inservice,,,NAM-001;NAM-002
 NER,no evidence,,,,
-NGA,4,inservice,several,,NGA-001;NGA-002
-RWA,no evidence,,,,
-SDN,no evidence,,,,
-SEN,2,underway,,,SEN-002;SEN-001
-SLE,2,underway,,,SLE-001
+NGA,4,inservice,several,,NGA-006;NGA-008
+RWA,4,inservice,several,,RWA-003
+SDN,3,inservice,,,SDN-001
+SEN,3,inservice,,,SEN-003
+SLE,3,inservice,,,SLE-002;SLE-003
 SOM,no evidence,,,,
 SSD,no evidence,,,,
 STP,no evidence,,,,
-SWZ,no evidence,,,,
-SYC,2,underway,,,SYC-001
+SWZ,2,underway,,,SWZ-001
+SYC,3,inservice,,,SYC-002
 TCD,no evidence,,,,
-TGO,no evidence,,,,
-TUN,2,underway,,,TUN-001
-TZA,no evidence,,,,
-UGA,3,inservice,,,UGA-001
-ZAF,4,inservice,several,,ZAF-002;ZAF-004
-ZMB,no evidence,,,,
-ZWE,2,underway,,,ZWE-001
+TGO,3,inservice,,,TGO-002
+TUN,3,inservice,,,TUN-003
+TZA,4,inservice,several,,TZA-003
+UGA,4,inservice,several,,UGA-005
+ZAF,4,inservice,several,,ZAF-011
+ZMB,3,inservice,,,ZMB-002
+ZWE,4,inservice,several,,ZWE-004

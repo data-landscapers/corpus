@@ -1,0 +1,15 @@
+{"slug": "2026-11-23-cmr-promotion-de-letat-civil-environ-168-000-demandes-de-financement-intro", "studies": {
+"authentication": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+"birthidlink": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on a civil register and ID link."}}},
+"civilregister": {"countries": {"CMR": {"facts": [{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "News du Cameroun reports that by September 2026 only 60 of 432 principal civil registration centres had been brought into the digital system, an execution rate of 13.9%.", "as_of": "2026-09", "date_precision": "month", "system": "digital civil registration programme", "class": "civil"}], "systems": [{"system": "digital civil registration programme", "country_label": "Cameroon", "class": "civil", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on ID enrolment."}}},
+"idfrombirth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
+"idmaintenance": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on ID system operation."}}},
+"idregisters": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"populationregister": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on a population register."}}},
+"registry": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "By September 2026 60 of 432 principal civil registration centres were in the digital system, no event named, read as births.", "as_of": "2026-09", "date_precision": "month", "system": "digital civil registration programme", "class": "civil"},
+{"sub_indicator": "civil", "aspect": "offices", "value": "share:13.9%", "fact": "News du Cameroun reports 60 of 432 principal civil registration centres integrated into the digital system by September 2026, 13.9%.", "as_of": "2026-09", "date_precision": "month", "system": "digital civil registration programme", "class": "civil"}],
+"systems": [], "note": ""}}}
+}}

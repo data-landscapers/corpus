@@ -1,0 +1,15 @@
+{"slug": "2025-03-31-gha-inclusive-data-charter-monitoring-form-annual-champion-progress-survey", "studies": {
+"admindata": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "Ghana Statistical Service says it developed and published eight additional constituency profile reports that leverage administrative data collected at district level.", "as_of": "2025-03-31", "date_precision": "day", "system": "Constituency profile reports", "class": "admin"},
+{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "Ghana Statistical Service says it used Ministry of Education administrative data to produce one national and 10 regional education reports, which are in final preparation and not yet launched, and that a data-sharing MoU and policy were developed with 25 institutions.", "as_of": "2025-03-31", "date_precision": "day", "system": "Education reports from Ministry of Education data", "class": "admin"}
+], "systems": [
+{"system": "Constituency profile reports", "country_label": "Constituency profile reports 2024", "class": "admin", "platform": "", "owner": "Ghana Statistical Service", "tiers": ""},
+{"system": "GSS StatsBank", "country_label": "GSS StatsBank", "class": "other", "platform": "web portal", "owner": "Ghana Statistical Service", "tiers": ""}
+], "note": ""}}},
+"agrisatellite": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Earth observation is only named as explored for SDG monitoring and natural capital accounting, not farming."}}},
+"censuses": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "Ghana Statistical Service refers to the 2021 Population and Housing Census as a source for its StatsBank portal indicators.", "as_of": "2021", "date_precision": "year", "system": "2021 Population and Housing Census", "class": "census"},
+{"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "Ghana Statistical Service says its Annual Household Income and Expenditure Survey produced a report on labour force participation, and lists AHIES and GLSS8 among current surveys.", "as_of": "2025-03-31", "date_precision": "day", "system": "AHIES", "class": "survey"}
+], "systems": [], "note": ""}}},
+"police": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Police service is named only as helping develop road traffic mortality statistics; no station record system is stated."}}}
+}}

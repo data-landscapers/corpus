@@ -1,0 +1,18 @@
+{"slug": "2026-11-23-tza-germany-commits-116m-to-tanzania-s-infrastructure-and-business-reforms", "studies": {
+"aiabuse": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Responsible AI is only a focus of a planned centre phase; no rule or authority stated."}}},
+"aigovernment": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated; only a training-centre focus."}}},
+"businesspayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Procurement transparency support is a programme aim, not an e-procurement system."}}},
+"centralbank": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on the central bank stated."}}},
+"consumerprotection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance stated."}}},
+"crossborderpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments stated."}}},
+"g2ppayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on government payments to people stated."}}},
+"nonstatefinance": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The EUR 116m is loans and grants to government; the digital component has no amount."}}},
+"paymentsuptake": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No survey account share stated."}}},
+"policyresearch": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No local research institution stated."}}},
+"retailpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Digital payments named only as a planned focus area."}}},
+"revenuecollection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Tax administration programme not stated to involve electronic payment."}}},
+"startups": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No startup law, strategy or fund stated."}}},
+"techhubs": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Innovation hubs named only as partners of a planned centre phase; no hub programme described."}}}
+}}

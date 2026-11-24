@@ -1,0 +1,6 @@
+{"slug": "2026-10-29-gha-gaip-promotes-germination-index-insurance-to-protect-farmers-against-c", "studies": {
+"agrisatellite": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "agrisat", "aspect": "service", "value": "underway", "fact": "The Ghana News Agency reports that the Germination Index Insurance has been piloted among maize, soybean and rice farmers in the Northern and Upper West regions, with rainfall data from stations of TAHMO and the Ghana Meteorological Agency merged with satellite data.", "as_of": "2026-10-29", "date_precision": "day", "system": "Germination Index Insurance", "class": "agrisat"}
+], "systems": [{"system": "Germination Index Insurance", "country_label": "Germination Index Insurance (GAIP)", "class": "agrisat", "platform": "", "owner": "Ghana Agricultural Insurance Pool", "tiers": ""}], "note": "The 4,000 farmers sensitised are not stated as receiving cover or alerts."}}},
+"metsatellite": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The Ghana Meteorological Agency supplies rainfall data to an insurance scheme; its own forecast use of satellite data is not stated."}}}
+}}

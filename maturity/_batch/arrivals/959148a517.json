@@ -1,0 +1,11 @@
+{"slug": "2025-01-21-eth-iom-welcomes-the-signing-of-migration-data-sharing-memorandum-of-under", "studies": {
+"admindata": {"countries": {"ETH": {"facts": [{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "IOM reports the Ethiopian Statistical Service and government institutions including the Federal Police Commission, Ministry of Justice and National ID Program signed a migration data-sharing MoU and protocol on 15 January 2025, and that ESS set up a migration statistics unit.", "as_of": "2025-01-15", "date_precision": "day", "system": "Migration data-sharing MoU and protocol", "class": "admin"}], "systems": [], "note": ""}}},
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on authentication."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on a civil register to ID link."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document gives no ID coverage figure."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on ID system operation."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The National ID Program signs a migration data-sharing MoU; no register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on the ID system's status."}}},
+"refugees": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Refugees and Returnees Service is a signatory only; no registration or digital inclusion stated."}}}
+}}

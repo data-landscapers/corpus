@@ -1,0 +1,13 @@
+{"slug": "2026-02-03-cmr-cameroun-catastrophes-climatiques-une-plateforme-de-l-onac-pour-antici", "studies": {
+"agrisatellite": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "agrisat", "aspect": "service", "value": "inservice", "fact": "Cameroon's national climate change observatory ONACC launched on 2026-01-14 a climate-risk monitoring platform for drought and flood early warning, built on weather observation, satellite imagery and field data, which it says serves agriculture among other sectors.", "as_of": "2026-01-14", "date_precision": "day", "system": "ONACC plateforme numérique de suivi des risques climatiques", "class": "agrisat"}
+], "systems": [{"system": "ONACC plateforme numérique de suivi des risques climatiques", "country_label": "Plateforme ONACC", "class": "other", "platform": "web", "owner": "ONACC", "tiers": ""}], "note": ""}}},
+"aiabuse": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A climate platform, not AI in general administration."}}},
+"aisectoral": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "ONACC says its public climate-risk platform, launched 2026-01-14, uses a neural-network model to predict the evolution of climate parameters and anticipate hazards, and that simulations covering all of 2025 were run for Douala and Maroua.", "as_of": "2026-01-14", "date_precision": "day", "system": "ONACC plateforme numérique de suivi des risques climatiques", "class": "sectorai"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "ONACC says its climate platform, developed locally with researchers from the Ecole Nationale Supérieure Polytechnique de Yaoundé, integrates a locally built neural-network model, and was launched on 2026-01-14.", "as_of": "2026-01-14", "date_precision": "day", "system": "ONACC plateforme numérique de suivi des risques climatiques", "class": "localai"}
+], "systems": [], "note": ""}}},
+"metsatellite": {"countries": {"CMR": {"facts": [], "systems": [], "note": "ONACC is a climate observatory, not named as the national meteorological service."}}}}}

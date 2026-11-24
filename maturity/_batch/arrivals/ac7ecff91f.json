@@ -1,0 +1,29 @@
+{"slug": "2026-06-03-zmb-undp-irff-ziamis-index-insurance-mobile-payouts", "studies": {
+"agrisatellite": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "agrisat", "aspect": "service", "value": "inservice", "fact": "UNDP IRFF reports that Zambia's FISP crop index insurance, run through the Ministry of Agriculture's ZIAMIS platform, uses a weather index built on satellite-based data, with VIIRS and NDVI hybrid indices replacing degraded MODIS data.", "as_of": "2026-06-03", "date_precision": "day", "system": "FISP crop index insurance", "class": "agrisat"},
+{"sub_indicator": "agrisat", "aspect": "reach", "value": "counted", "fact": "UNDP IRFF says that by the 2023/24 season about 1.02 million FISP farmers were covered by crop index insurance, and a drought payout of over ZMW 800 million reached 500,000 farmers.", "as_of": "2024", "date_precision": "year", "system": "FISP crop index insurance", "class": "agrisat"}],
+"systems": [{"system": "FISP crop index insurance", "country_label": "FISP index insurance via ZIAMIS", "class": "agrisat", "platform": "ZIAMIS", "owner": "Ministry of Agriculture", "tiers": ""}], "note": ""}}},
+"businesspayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The Public Procurement Act 2020 is named with no e-procurement system."}}},
+"centralbank": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on a central bank role."}}},
+"consumerprotection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"dataprotectionlaw": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "UNDP IRFF lists the Data Protection Act 2021 among the laws in Zambia's regulatory framework.", "as_of": "2026-06-03", "date_precision": "day", "system": "Data Protection Act 2021", "class": "general"}],
+"systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "UNDP IRFF says that through the Ministry of Agriculture's ZIAMIS platform FISP crop index insurance payouts are paid direct to farmers' mobile money wallets, reaching 500,000 farmers in the 2023/24 drought.", "as_of": "2024", "date_precision": "year", "system": "ZIAMIS insurance module", "class": "g2p"}],
+"systems": [{"system": "ZIAMIS insurance module", "country_label": "ZIAMIS", "class": "g2p", "platform": "", "owner": "Ministry of Agriculture; Smart Zambia Institute administers", "tiers": ""}], "note": ""}}},
+"interoperabilitylaw": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The Electronic Government Act 2021 is named only in a list; nothing says it covers public bodies sharing data."}}},
+"itcapacity": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "UNDP IRFF says the Smart Zambia Institute is technical lead and system administrator for ZIAMIS, and the Ministry of Agriculture is its daily operator.", "as_of": "2026-06-03", "date_precision": "day", "system": "ZIAMIS", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "UNDP IRFF says the Smart Zambia Institute oversees ZIAMIS applications, user support and integration of external systems for the Ministry of Agriculture's programme.", "as_of": "2026-06-03", "date_precision": "day", "system": "Smart Zambia Institute", "class": "staff"}],
+"systems": [{"system": "ZIAMIS", "country_label": "ZIAMIS", "class": "staff", "platform": "", "owner": "Ministry of Agriculture; Smart Zambia Institute", "tiers": ""}], "note": ""}}},
+"paymentslaw": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "UNDP IRFF lists the National Payment Systems Act among the laws in Zambia's regulatory framework.", "as_of": "2026-06-03", "date_precision": "day", "system": "National Payment Systems Act", "class": "law"}],
+"systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No survey figure on account ownership."}}},
+"retailpayments": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "UNDP IRFF reports that mobile money wallets in Zambia receive direct payouts from the ZIAMIS platform, with banks and mobile network operators integrated, in the 2023/24 season.", "as_of": "2024", "date_precision": "year", "system": "mobile money wallets", "class": "retail"}],
+"systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Farmer deposits to a input programme are not tax or fee payments; nothing on revenue collection."}}}
+}}

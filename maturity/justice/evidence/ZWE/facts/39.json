@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-23-zwe-zimbabwe-eyes-ai-driven-public-services",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Zimbabwe Case Management System",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Public Service, Labour and Social Welfare",
+   "tiers": ""
+  }
+ ],
+ "note": "The Case Management System named is for child welfare officers, not courts."
+}

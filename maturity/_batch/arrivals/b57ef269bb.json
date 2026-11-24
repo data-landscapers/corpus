@@ -1,0 +1,15 @@
+{"slug": "2026-10-22-cod-dr-congo-compensates-17-180-farmers-under-climate-insurance-scheme", "studies": {
+"agrisatellite": {"countries": {"COD": {"facts": [{"sub_indicator": "agrisat", "aspect": "service", "value": "inservice", "fact": "A World Bank-backed parametric crop insurance scheme, whose contract is held by the Congolese Ministry of Agriculture and which uses satellite-derived rainfall data to trigger payouts, has been running in Kasai-Central since January 2025 and began paying compensation on 14 October 2026.", "as_of": "2026-10-14", "date_precision": "day", "system": "PNDA index-based agricultural insurance scheme", "class": "agrisat"}, {"sub_indicator": "agrisat", "aspect": "reach", "value": "counted", "fact": "Ecofin Agency reports the scheme's first compensation payments went to 17,180 smallholder farmers in Kasai-Central, with a pilot aiming to cover up to 300,000 farmers through September 2027.", "as_of": "2026-10-14", "date_precision": "day", "system": "PNDA index-based agricultural insurance scheme", "class": "agrisat"}], "systems": [{"system": "PNDA index-based agricultural insurance scheme", "country_label": "DR Congo", "class": "agrisat", "platform": "satellite rainfall data, parametric triggers", "owner": "Ministry of Agriculture (PNDA), with World Bank, AXA Climate, Mayfair Insurance Congo", "tiers": "province pilot"}], "note": ""}}},
+"aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document is about crop insurance and says nothing on AI harms."}}},
+"aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document says nothing on AI in administration."}}},
+"aisectoral": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document says nothing on AI in a sector's system."}}},
+"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document says nothing on AI built in the country."}}},
+"businesspayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document says nothing on e-procurement."}}},
+"centralbank": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document says nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document says nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document says nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Insurance payouts through Equity BCDC and PNDA Paie are not a government social transfer, salary or pension, so none is recorded."}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document gives no survey figure for adults with an account."}}},
+"retailpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document says nothing on mobile money or retail payment services."}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document says nothing on tax or fee payment."}}}
+}}

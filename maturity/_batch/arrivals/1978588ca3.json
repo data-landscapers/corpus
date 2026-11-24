@@ -1,0 +1,5 @@
+{"slug": "2024-05-03-eth-new-crop-insurance-initiative-offers-farmers-lifeline", "studies": {
+"agrisatellite": {"countries": {"ETH": {"facts": [{"sub_indicator": "agrisat", "aspect": "reach", "value": "counted", "fact": "The Agricultural Transformation Institute, WFP and Pula Advisors ran an area-yield index insurance scheme based on remotely sensed rainfall estimates that reached 122,000 smallholder farmers in Amhara in Meher 2023, with 39 million birr paid to 52,000 farmers.", "as_of": "2023", "date_precision": "year", "system": "Area Yield Index Insurance (ATI-WFP-Pula)", "class": "agrisat"}], "systems": [{"system": "Area Yield Index Insurance (ATI-WFP-Pula)", "country_label": "Area Yield Index Insurance", "class": "agrisat", "platform": "", "owner": "ATI, WFP and Pula Advisors", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
+"nonstatefinance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "An insurance payout, not money put into a digital business."}}}
+}}

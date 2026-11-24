@@ -1,0 +1,6 @@
+{"slug": "2025-12-31-sle-ncra-releases-2025-data-on-births-deaths-marriages-and-adoptions-in-si", "studies": {
+"birthidlink": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Vital event counts only; no link to the ID system stated."}}},
+"civilregister": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Report counts registered events but does not say the register is digital."}}},
+"idfrombirth": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No ID number at birth stated."}}},
+"registry": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on how offices make the record."}}}
+}}

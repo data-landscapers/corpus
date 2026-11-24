@@ -1,0 +1,18 @@
+{"slug": "2026-11-23-egy-fintechgate-egypt-ai-procurement-guide-vendor-requirements", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The procurement guide is technical guidance that binds a contractor only where a tender document includes it, so it is not a rule in force on AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [{"sub_indicator": "govai", "aspect": "rules", "value": "rules", "fact": "FinTech Gate reports that Egypt's guideline for government procurement of AI systems, prepared under the communications and IT ministry (MCIT) and adopted by the National Council for AI, Quantum Computing and Emerging Technologies, sets bidder qualification (a technical score of at least 75 of 100), human review and complaint routes, and binds a contractor only where a tender document includes it.", "as_of": "2026-11-23", "date_precision": "day", "system": "Egyptian guideline for procurement of AI systems", "class": "govai"}], "systems": [{"system": "Egyptian guideline for procurement of AI systems", "country_label": "Egypt", "class": "govai", "platform": "guideline", "owner": "MCIT with the Egyptian Center for Responsible AI; adopted by the National Council for AI", "tiers": "national"}], "note": ""}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document names no AI tool in a sector's public system."}}},
+"aistrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A procurement guideline is not a national AI strategy and the document mentions none."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document names no AI model, dataset or AI computing built in the country."}}},
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document is about the content of AI tenders and names no e-procurement system."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document says nothing on the central bank."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document says nothing on digital financial services."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document says nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document says nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document gives no account-ownership survey figure."}}},
+"police": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document says nothing on police stations."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document says nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document says nothing on tax or fee payment."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A procurement rule against excluding startups from tenders is not a startup law, label or fund."}}},
+"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document names no hub, incubator or park."}}}
+}}

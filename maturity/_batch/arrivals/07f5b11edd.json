@@ -1,0 +1,17 @@
+{"slug": "2026-09-28-som-drought-takaful-insurance-delivers-us-3-43-million-to-17-373-somali-pa", "studies": {
+"agrisatellite": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "agrisat", "aspect": "service", "value": "inservice", "fact": "HoA DRIVE reports that satellite monitoring of vegetation triggered drought Takaful payouts in Hiiraan, Galguduud, Lower Shabelle, Bay and Middle Shabelle under the World Bank-financed Index-Based Livestock Takaful programme, supported by the Ministry of Finance and the Ministry of Livestock, Forestry and Range, with ACRE Africa calculating payouts from satellite data.", "as_of": "2026-09", "date_precision": "month", "system": "Index-Based Livestock Takaful", "class": "agrisat"},
+{"sub_indicator": "agrisat", "aspect": "reach", "value": "counted", "fact": "HoA DRIVE reports 17,373 pastoralists received US$3.43 million in September 2026 payouts triggered by satellite vegetation monitoring, after an earlier round in March 2026 reaching about 17,734 pastoralists.", "as_of": "2026-09", "date_precision": "month", "system": "Index-Based Livestock Takaful", "class": "agrisat"}
+], "systems": [{"system": "Index-Based Livestock Takaful", "country_label": "Somalia", "class": "agrisat", "platform": "HoA DRIVE (World Bank-financed); ACRE Africa satellite data; ZEP-RE", "owner": "Ministry of Finance and Ministry of Livestock, Forestry and Range", "tiers": "five regions"}], "note": ""}}},
+"businesspayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document states nothing on the central bank."}}},
+"consumerprotection": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document states nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Insurance payouts through an insurer are not a government payment programme."}}},
+"metsatellite": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document states nothing on the national weather service."}}},
+"nonstatefinance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "World Bank financing goes to a project, and no amount to a private digital business is stated."}}},
+"paymentsuptake": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No survey share of adults with an account is given."}}},
+"retailpayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Wallet payouts are mentioned only in passing; no mobile money service status is stated."}}},
+"revenuecollection": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document states nothing on tax or fee payment."}}},
+"socialprotection": {"countries": {"SOM": {"facts": [], "systems": [], "note": "An insurance programme, not a social programme management system, is described."}}}
+}}

@@ -1,0 +1,6 @@
+{"slug": "2026-11-21-bfa-modernisation-de-letat-civil-la-cagidh-expose-les-objectifs-de-sa-miss", "studies": {
+"birthidlink": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Parliamentary mission announced; no link to the ID system stated."}}},
+"civilregister": {"countries": {"BFA": {"facts": [], "systems": [{"system": "Veneem", "country_label": "Veneem platform", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Mission will examine Veneem deployment; the document does not say it is in service or what it covers."}}},
+"idfrombirth": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No ID number at birth stated."}}},
+"registry": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Secondary centres in health facilities mentioned, but not said to enter records digitally."}}}
+}}

@@ -60,7 +60,7 @@ The social insurance fund and the state IT centre ran AI systems by 2026; no sou
 
 ### Egypt: 4 Operating
 
-AI was in service in several government bodies in 2026; no source found reports rules or a register for it.
+AI was in service in several government bodies in 2026; a 2026 procurement guideline binds only through tenders, so no binding rules are shown.
 
 - The same report counts more than 40 AI applications across government and banking ([source, 2026-06](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)).
 

@@ -1,0 +1,11 @@
+{"slug": "2025-04-17-ner-assurance-agricole-indicielle-au-niger-un-outil-strategique-et-innovan", "studies": {
+"agrisatellite": {"countries": {"NER": {"facts": [{"sub_indicator": "agrisat", "aspect": "service", "value": "underway", "fact": "Niger's government, through its national index agricultural insurance committee chaired by the humanitarian action minister, is setting up a national index insurance company whose contracts would rest on satellite rainfall and NDVI vegetation indices; the feasibility study was validated on 27-28 December 2024.", "as_of": "2025-04", "date_precision": "month", "system": "Assurance Agricole Indicielle (CNAAI)", "class": "agrisat"}], "systems": [{"system": "Assurance Agricole Indicielle (CNAAI)", "country_label": "Niger", "class": "agrisat", "platform": "satellite rainfall and NDVI indices", "owner": "Ministry of Humanitarian Action and Disaster Management", "tiers": ""}], "note": ""}}},
+"businesspayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on a central bank's payments role."}}},
+"consumerprotection": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"NER": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"retailpayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

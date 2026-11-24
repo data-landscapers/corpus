@@ -1,0 +1,23 @@
+{"slug": "2026-11-23-mdg-andry-rabarisoa-et-johanna-randrianasolo-conseil-detat-simplifier-pour", "studies": {
+"authentication": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Izaho Tokana is named as biometric identification only; no authentication service stated."}}},
+"birthidlink": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"businessregister": {"countries": {"MDG": {"facts": [{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "The Conseil d'Etat president Andry Rabarisoa said the EDBM one-stop counter lets a company be created in three days, in Antananarivo and Tolagnaro for now.", "as_of": "2026-11-23", "date_precision": "day", "system": "EDBM guichet", "class": "business"}], "systems": [{"system": "Orinasa", "country_label": "Madagascar", "class": "business", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"civilregister": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Only that civil registers are still mostly on paper; no digital system named."}}},
+"dataexchange": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "Johanna Randrianasolo said the RAHAKA data-exchange platform, run by the Digital Governance Unit (UGD), had logged over 162,000 exchanges among fourteen institutions by end April 2026.", "as_of": "2026-04", "date_precision": "month", "system": "RAHAKA", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "reach", "value": "wide", "fact": "RAHAKA connected fourteen institutions by end April 2026, per Johanna Randrianasolo of the Conseil d'Etat.", "as_of": "2026-04", "date_precision": "month", "system": "RAHAKA", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "usage", "value": "reported", "fact": "RAHAKA had recorded more than 162,000 exchanges by end April 2026, per Johanna Randrianasolo.", "as_of": "2026-04", "date_precision": "month", "system": "RAHAKA", "class": "exchange"}],
+"systems": [{"system": "RAHAKA", "country_label": "Madagascar", "class": "exchange", "platform": "", "owner": "UGD (Unite de gouvernance digitale)", "tiers": ""}], "note": ""}}},
+"egovservices": {"countries": {"MDG": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Johanna Randrianasolo said the online passport service has been in test since 11 October 2026.", "as_of": "2026-10-11", "date_precision": "day", "system": "online passport service", "class": "eservices"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
+"idmaintenance": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
+"idregisters": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"MDG": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Johanna Randrianasolo said the Izaho Tokana biometric identification has begun its deployment.", "as_of": "2026-11-23", "date_precision": "day", "system": "Izaho Tokana", "class": "idsystem"}], "systems": [{"system": "Izaho Tokana", "country_label": "Madagascar", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"internetusage": {"countries": {"MDG": {"facts": [{"sub_indicator": "use", "aspect": "users", "value": "survey:20", "fact": "Johanna Randrianasolo of the Conseil d'Etat said about 20% of the population uses the internet, without naming a source or year.", "as_of": "2026-11-23", "date_precision": "day", "system": "", "class": "use"}], "systems": [], "note": ""}}},
+"localgov": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
+"police": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on police station records."}}},
+"registry": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Only that registers are mostly on paper; no office-level digital entry stated."}}},
+"ruralelectrification": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Only a national figure of 33.7% for 2020; not rural and before 2023."}}},
+"schoolinternet": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on school internet."}}}
+}}

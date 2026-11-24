@@ -1,0 +1,5 @@
+{"slug": "2024-03-15-gha-ghana-drives-towards-national-statistical-system", "studies": {"admindata": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "The Ghana Statistical Service, Statistics Denmark and the Danish Embassy signed a three-year agreement (2024-2026) under which administrative data sets are to be evaluated by pulling them together, per the Government Statistician.", "as_of": "2024-03-13", "date_precision": "day", "system": "Strategic Sector Cooperation phase two", "class": "admin"}
+], "systems": [], "note": ""}}},
+"localgov": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
+"socialregistry": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Social register is mentioned only as an example; no status of a registry stated."}}}}}

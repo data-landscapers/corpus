@@ -1,0 +1,10 @@
+{"slug": "2026-11-23-gha-fintech-firms-urged-to-develop-financing-solutions-for-informal-businesses", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Bank of Ghana official speaks on inclusion only; no mandate, licensing, switch or PAPSS stated."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on consumer rules or complaints."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Mobile Money Fintech Limited's chief executive said at the Invest Ghana Summit that about 70 per cent of person-to-person transactions on digital payment platforms are business-related.", "as_of": "2026-11-23", "date_precision": "day", "system": "digital payment platforms (mobile money)", "class": "retail"}], "systems": [{"system": "Digital payment platforms (P2P)", "country_label": "Mobile Money Fintech Limited platforms", "class": "retail", "platform": "", "owner": "Mobile Money Fintech Limited", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

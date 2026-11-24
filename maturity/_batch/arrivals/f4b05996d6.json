@@ -1,0 +1,7 @@
+{"slug": "2024-07-11-lbr-lta-lisgis-enter-partnership-for-strategic-data-management", "studies": {
+"admindata": {"countries": {"LBR": {"facts": [{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "LISGIS and the Liberia Telecommunications Authority signed an MoU making the LTA a primary administrative data source for telecoms and ICT statistics, including operator revenue and expenditure, for periodic and annual reports.", "as_of": "2024-07-11", "date_precision": "day", "system": "LTA-LISGIS MoU", "class": "admin"}, {"sub_indicator": "admin", "aspect": "source", "value": "other", "fact": "The MoU names the Liberia Telecommunications Authority's records as the administrative source.", "as_of": "2024-07-11", "date_precision": "day", "system": "LTA-LISGIS MoU", "class": "admin"}], "systems": [], "note": ""}}},
+"censuses": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Censuses and surveys are named only as inputs; no census or survey stated."}}},
+"civilserviceskills": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on civil servant training."}}},
+"digitalskills": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Digital skills are named only as a statistic LISGIS will compile; no programme or measured share."}}},
+"schoolinternet": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No school internet figure or curriculum statement."}}}
+}}

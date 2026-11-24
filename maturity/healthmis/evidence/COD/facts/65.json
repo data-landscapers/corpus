@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-21-cod-sante-la-cnss-engage-1-5-million-pour-digitaliser-la-gestion-de-ses-ce",
+ "facts": [],
+ "systems": [
+  {
+   "system": "InfoMed SIGL App",
+   "country_label": "DR Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "ANAMED",
+   "tiers": ""
+  },
+  {
+   "system": "Logimev",
+   "country_label": "DR Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Named systems are medicine logistics and a social security fund's health-centre software, not the national routine health reporting system."
+}

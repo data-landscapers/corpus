@@ -1,0 +1,11 @@
+{"slug": "2026-11-23-egy-communications-minister-data-centre-investment-youm7", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [{"system": "Egyptian Charter for Responsible AI; national AI governance framework guide; generative-AI guidelines", "country_label": "Responsible AI charter and guidelines", "class": "other", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""}], "note": "Charter and guidelines issued with no stated legal effect; assessment tools only in development."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government body's AI system stated."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No sector system using AI stated."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only an aim to attract investment in advanced computing; no builder, funder or site named."}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "States an aim to attract data centre investment; no facility stated."}}},
+"digitalsovereignty": {"countries": {"EGY": {"facts": [], "systems": [], "note": "General statement on digital sovereignty; no strategy, rule or hosting on state data stated."}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No nationally owned data centre stated."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Says only the state supports startups; no law, strategy or fund stated."}}},
+"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No hub or park stated."}}}
+}}
