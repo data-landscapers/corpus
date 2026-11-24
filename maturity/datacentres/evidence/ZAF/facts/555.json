@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-23-zaf-zaf-silicon-valley-trip-critique",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "/explain/ reports South Africa hosts more than 60% of Africa's operational data centre capacity, and Amazon Web Services, Microsoft and Google already run cloud operations there.",
+   "as_of": "2026-11-23",
+   "date_precision": "day",
+   "system": "Data centres and cloud operations in South Africa",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
