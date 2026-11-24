@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: ZAF
-ledger_rows: 125
+ledger_rows: 128
 not_held: 17
-record: 369b0f124bad
+record: cdc4683f0c8a
 ---
 
 # News, Oct – Nov 2026
@@ -742,6 +742,34 @@ The ReuNION consortium, including Orange, Free, Reunicable, Telco OI and Zeop, h
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Starlink offer to connect 5,000 rural schools</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[What will South Africa get from Ramaphosa’s Silicon Valley trip?](https://explain.co.za/2026/11/23/ramaphosa-took-300-people-to-silicon-valley-what-does-south-africa-hope-to-gain/)** — /explain/, 23 November 2026
+
+Code for Africa sceptic on data-centre focus; cost and sponsors undisclosed; AI policy redraft to Cabinet by March 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Vodacom and Huawei upper 6GHz fixed-wireless showcase</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Vodacom, Huawei trial ‘golden’ spectrum band](https://www.itweb.co.za/article/vodacom-huawei-trial-golden-spectrum-band/KWEBbvyL2PaqmRjO)** — ITWeb South Africa, 23 November 2026
+
+Upper 6GHz fixed-wireless showcase at Africa Tech Festival; commercial deployment about two years off.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -969,6 +997,20 @@ Works have begun on a one-stop border post at Ressano Garcia on the Mozambique-S
 **[Operation Vulindlela implementation continues to make strides](https://www.sanews.gov.za/south-africa/operation-vulindlela-implementation-continues-make-strides)** — SAnews (South African Government News Agency), 30 October 2026
 
 Operation Vulindlela's progress report for the second quarter of 2026, released on 30 October, put South Africa's MyMzansi digital ID at a working prototype in testing. The Gov.za shared website platform opened for departmental testing. The MzansiXchange data-sharing pilot is due to finish in December 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs-to-customs data exchange</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SARS advances connected customs corridor to accelerate trade across Southern Africa | South African Revenue Service](https://www.sars.gov.za/media-release/sars-advances-connected-customs-corridor-to-accelerate-trade-across-southern-africa/)** — South African Revenue Service, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a>
+
+SARS-Zambia Revenue Authority pre-arrival data exchange signed; Malawi done, Zimbabwe next, DRC earmarked.
 
 </div>
 
