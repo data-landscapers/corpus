@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-eth-satellite-bulletin-21-30-september-2026",
+ "facts": [
+  {
+   "sub_indicator": "metsat",
+   "aspect": "stream",
+   "value": "inservice",
+   "fact": "The Ethiopian Meteorology Institute's dekadal satellite bulletin for 21-30 September 2026 uses TAMSAT satellite rainfall estimates and METEOSAT vegetation products.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "EMI dekadal satellite bulletin",
+   "class": "metsat"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
