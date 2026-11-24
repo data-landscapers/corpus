@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-23-zaf-zaf-silicon-valley-trip-critique",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "/explain/ reports South Africa has no formal AI policy: the draft national AI policy was gazetted in April and withdrawn weeks later after fake references, and Minister Solly Malatsi wants a redrafted policy before Cabinet by the end of March 2027.",
+   "as_of": "2026-11-23",
+   "date_precision": "day",
+   "system": "Draft national AI policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Draft national AI policy",
+   "country_label": "South Africa",
+   "class": "strategy",
+   "platform": "policy document",
+   "owner": "Department of Communications and Digital Technologies",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}
