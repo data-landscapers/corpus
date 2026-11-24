@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-03-zmb-undp-irff-ziamis-index-insurance-mobile-payouts",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "UNDP IRFF lists the National Payment Systems Act among the laws in Zambia's regulatory framework.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "National Payment Systems Act",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
