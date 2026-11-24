@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-nam-namibia-calls-for-greater-use-of-geospatial-technology",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Minister Zaamwani said Namibia is advancing the Land Bill of 2025 and modernising its cadastral systems and National Spatial Data Infrastructure.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "cadastral systems",
+   "class": "land"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
