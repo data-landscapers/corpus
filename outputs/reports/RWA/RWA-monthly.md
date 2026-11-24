@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: RWA
 ledger_rows: 39
 not_held: 7
-record: adbd3f80dd52
+record: bab0e07cced8
 ---
 
 # News, Oct – Nov 2026
@@ -681,6 +681,14 @@ Summarised under [Literacy](#literacy).
 **[Rwanda Coding Academy opens new campus](https://www.newtimes.co.rw/article/40618/news/education/rwanda-coding-academy-opens-new-campus)** — The New Times (Rwanda), 20 November 2026
 
 Rwanda's Ministry of Education inaugurated a new Rwanda Coding Academy campus in Nyabihu District on 20 November 2026. It has laboratories for software, cybersecurity and embedded systems, and dormitories. The record says the Korean agency KOICA built it; no cost was reported.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[코이카, 르완다 코딩 아카데미 새 캠퍼스 준공](https://koica.go.kr/bbs/koica_kr/151/391677/artclView.do)** — Korea International Cooperation Agency (KOICA), 23 November 2026
+
+KOICA release: Nyabihu campus opened 20 Nov 2026; 120 of 177 graduates to university, 31 abroad (June 2025).
 
 </div>
 
