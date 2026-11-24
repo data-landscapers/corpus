@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: EGY
 ledger_rows: 81
 not_held: 35
-record: 25b1b77860ba
+record: 3f262b27a68c
 ---
 
 # News, Oct – Nov 2026
@@ -788,7 +788,7 @@ Egypt's planning minister Ahmed Rustom presented President El-Sisi with a plan t
 
 **[«المركزي المصري» يطلق ترميز بطاقات الدفع على هواتف Android](https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%B7%D9%84%D9%82-%D8%AA%D8%B1%D9%85%D9%8A%D8%B2-%D8%A8%D8%B7%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D8%B9%D9%84%D9%89-%D9%87%D9%88%D8%A7%D8%AA%D9%81-android/)** — State Information Service (Egypt), 23 November 2026
 
-Second phase after Apple Pay (Dec 2024): 292m transactions, EGP 228bn to end-Sep 2026; biometric authentication.
+The Central Bank of Egypt announced on 23 November 2026 that payment card tokenisation is available on Android devices. The first phase ran through Apple Pay from December 2024. It had processed about 292 million transactions worth EGP 228 billion by the end of September 2026.
 
 </div>
 
@@ -1230,7 +1230,7 @@ Ahmed Abou Hashima put a study to the Egyptian Senate's economic and financial a
 
 **[الدليل الإرشادي المصري لمشتريات أنظمة الذكاء الاصطناعي (Egyptian Guideline for the Procurement of AI Systems), version 1.0](https://ai.gov.eg/SynchedFiles/ar/Resources/Egyptian%20Guidlines%20for%20AI%20Systems%20Procurment%20-%20Ar.pdf)** — Egyptian Center for Responsible AI (ECRAI) / Ministry of Communications and Information Technology, 17 November 2026
 
-Egypt's AI procurement guideline v1.0: technical guidance binding only via tender papers, under Law 182/2018.
+Egypt's Ministry of Communications and Information Technology issued version 1.0 of a guideline for public-sector procurement of AI systems. Under Law 182 of 2018, its provisions bind a contractor only where tender documents and the contract include them.
 
 </div>
 
@@ -1238,7 +1238,7 @@ Egypt's AI procurement guideline v1.0: technical guidance binding only via tende
 
 **[الحكومة المصرية تحدد متطلبات تأهيل شركات الذكاء الاصطناعي وتضع ضوابط لمشاركة الشركات الناشئة](https://www.fintechgate.net/258322)** — FinTech Gate, 23 November 2026
 
-75/100 technical threshold; startup evidence routes; human review and complaints; binding only via tender papers.
+FinTech Gate reported on 23 November 2026 that Egypt's guideline for government purchase of AI systems sets a default technical qualifying score for bidders and bars unjustified exclusion of startups. It also requires human review and complaint routes where AI affects individuals. The guideline binds only when written into tender documents.
 
 </div>
 
@@ -1246,7 +1246,7 @@ Egypt's AI procurement guideline v1.0: technical guidance binding only via tende
 
 **[الحكومة المصرية تضع ضوابط لحماية البيانات الشخصية عند شراء أنظمة الذكاء الاصطناعي](https://www.fintechgate.net/258324)** — FinTech Gate, 23 November 2026
 
-No training third-party models on state data without consent; storage location, retention and deletion proof required.
+FinTech Gate reported on 23 November 2026 the data protection rules in Egypt's guideline for buying AI systems. Third-party models may not be trained on government data without explicit authorisation. Bidders must disclose storage locations, retention periods, sub-processors and proof of deletion.
 
 </div>
 

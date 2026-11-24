@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: KEN
 ledger_rows: 119
 not_held: 5
-record: 591352a70e04
+record: dfe6400845c5
 ---
 
 # News, Oct – Nov 2026
@@ -1350,7 +1350,7 @@ Kenya's Health Cabinet Secretary announced on 20 November 2026 that cancer patie
 
 **[Kenya prisons, probation services set for digital overhaul](https://www.kbc.co.ke/kenya-prisons-probation-services-set-for-digital-overhaul/)** — Kenya Broadcasting Corporation, 23 November 2026
 
-ICMIS under World Bank KDEAP to link prisons and probation to justice system; transition targeted this financial year.
+Kenya's State Department for Correctional Services is fast-tracking an Integrated Correctional Management Information System. The World Bank funds it under the Kenya Digital Economy Acceleration Project. Principal Secretary Salome Beacco said the aim is one digital platform for prisons and probation within the current financial year.
 
 </div>
 
@@ -1634,7 +1634,7 @@ Vihiga County held its first ICT Day and Digital Innovation Expo, reported on 6 
 
 **[Konza Technopolis to Deploy Smart Technologies for Emergency Management](https://techafricanews.com/2026/11/23/konza-technopolis-to-deploy-smart-technologies-for-emergency-management/)** — Tech Africa News, 23 November 2026
 
-MoU with Makueni County: IoT sensors, real-time monitoring and analytics for fire, ambulance and early warning.
+Kenya's Technopolis Development Authority and Makueni County signed a memorandum of understanding on emergency response at Konza Technopolis, reported on 23 November 2026. It provides for firefighting and ambulance services, training for emergency staff and community safety awareness. The agreement also covers IoT sensors, real-time monitoring and data analytics for early warning and coordination.
 
 </div>
 

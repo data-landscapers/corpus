@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: XAF
 ledger_rows: 109
 not_held: 3
-record: 316d2d0299ca
+record: c83f8e0ce728
 ---
 
 # News, Oct – Nov 2026
@@ -698,7 +698,7 @@ Somalia, Uganda and Sierra Leone endorsed the COP31 presidency's voluntary pledg
 
 **[Africa wants AI. Can its startups afford to build it?](https://techcabal.com/2026/11/23/high-cost-building-ai-africa/)** — TechCabal, 23 November 2026
 
-GIZ-Briter study of 311 AI firms: 65% name compute as top R&D cost; median ticket USD 225,000; 15% profitable.
+TechCabal reported on a study by GIZ and Briter Bridges that mapped 311 AI businesses in Africa and surveyed 85 of them. Of those surveyed, 65% named cloud computing, GPUs and AI infrastructure as their largest research and development cost. African AI businesses raised $1.3 billion between 2016 and 2025, with a median funding ticket of $225,000.
 
 </div>
 
@@ -1410,7 +1410,7 @@ A news report of 10 November 2026 covers the WHO report on health data systems p
 
 **[Africa CDC, GSMA and Member States validate first Annual Report on Digital Health in Africa](https://techreviewafrica.com/news/8459/africa-cdc-gsma-and-member-states-validate-first-annual-report-on-digi)** — Tech Review Africa, 23 November 2026
 
-Common measurement framework for all 55 AU states; report due at AU Summit, February 2027.
+African Union member states met Africa CDC and partners in Addis Ababa. They validated country findings for the first Annual Report on the State of Digital Health in Africa. It is scheduled for presentation at the African Union Summit in February 2027.
 
 </div>
 
@@ -1744,7 +1744,7 @@ Tech Africa News reported on 19 November 2026 the International Telecommunicatio
 
 **[African smartphone shipments plunge 40%](https://www.itweb.africa/article/african-smartphone-shipments-plunge-40/xA9POvNEnGVqo4J8)** — ITWeb Africa, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-Omdia 3Q26: 13.7m units; Nigeria -47%, Egypt -41%, Kenya -35%, South Africa -20%; feature phones +27%.
+Omdia reported that African smartphone shipments fell 40% year on year in the third quarter of 2026. They fell to 13.7 million units from 22.8 million. Omdia forecasts a 23% fall for 2026.
 
 </div>
 

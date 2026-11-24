@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: CMR
 ledger_rows: 39
 not_held: 3
-record: 469ab149b248
+record: bd8e54f89789
 ---
 
 # News, Oct – Nov 2026
@@ -576,7 +576,7 @@ Cameroon's civil registration bureau BUNEC visited Côte d'Ivoire's ONECI in Abi
 
 **[Promotion de l’état civil : Environ 168 000 demandes de financement introduites par les maires et encore en attente](https://www.newsducamer.com/promotion-de-letat-civil-environ-168-000-demandes-de-financement-introduites-par-les-maires-et-encore-en-attente/)** — News du Cameroun, 23 November 2026
 
-60 of 432 principal centres digitised by Sept 2026 (13.9%); FCFA 52bn sought; women's ministry turns to OIF.
+News du Cameroun reported that by September 2026 only 60 of 432 principal civil registration centres had joined Cameroon's digital system. The country seeks FCFA 52 billion.
 
 </div>
 

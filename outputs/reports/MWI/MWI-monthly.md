@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: MWI
 ledger_rows: 37
 not_held: 28
-record: 75351ef4cb84
+record: cc1c1644bcb2
 ---
 
 # News, Oct – Nov 2026
@@ -50,7 +50,7 @@ record: 75351ef4cb84
 
 **[Mukhito backs digital overhaul of Malawi Police](https://www.nyasatimes.com/mukhito-backs-digital-overhaul-of-malawi-police/)** — Nyasa Times, 23 November 2026
 
-Police plan 2026-2031: POS fine payments at roadside, 1,000 CCTV cameras, 8,000 more officers.
+The Malawi Police Service launched its 2026-2031 Strategic Development Plan in Lilongwe, as reported on 23 November 2026. The plan proposes point-of-sale machines for paying traffic fines at the roadside. It also proposes 1,000 more CCTV cameras nationwide and 8,000 additional officers over five years.
 
 </div>
 

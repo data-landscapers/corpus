@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: MDG
 ledger_rows: 33
 not_held: 5
-record: 53fe3eeeb8db
+record: 41f7f8bfab01
 ---
 
 # News, Oct – Nov 2026
@@ -84,7 +84,7 @@ L'Express de Madagascar reported on 5 November 2026 that the resignation of Mini
 
 **[ANDRY RABARISOA ET JOHANNA RANDRIANASOLO – Conseil d’État – « Simplifier pour lutter contre la corruption »](https://www.lexpress.mg/2026/11/andry-rabarisoa-et-johanna.html)** — L’Express de Madagascar, 23 November 2026
 
-PM mission letter of 3 Nov; preliminary study end-Nov 2026; RAHAKA 162,000 exchanges; 18% asked for unofficial payments.
+Madagascar's Conseil d'État said a preliminary study on simplifying administrative procedures goes to the Prime Minister at the end of November 2026. A fuller study follows through 2027. No budget has been set aside for the work.
 
 </div>
 

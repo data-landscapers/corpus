@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: COD
 ledger_rows: 65
 not_held: 6
-record: 16e88afef2fe
+record: 3b0964f521ec
 ---
 
 # News, Oct – Nov 2026
@@ -222,7 +222,7 @@ Vodacom Congo said at a Kinshasa forum on 8 October 2026 that it plans a long-te
 
 **[RDC : adoption de trois projets de loi de ratification d’accords de financement (Conseil des ministres) - ACP](https://acp.cd/nation/rdc-adoption-de-trois-projets-de-loi-de-ratification-daccords-de-financement-conseil-des-ministres/)** — Agence Congolaise de Presse, 21 November 2026
 
-Ratification bill for AFD EUR 70m credit CCD 120503Y on computerised revenue mobilisation adopted by cabinet.
+The Democratic Republic of the Congo's Council of Ministers adopted a bill ratifying credit CCD 120503Y from the French Development Agency. The credit is worth EUR 70 million for a project supporting computerised resource mobilisation.
 
 </div>
 
@@ -494,7 +494,7 @@ The Banque centrale du Congo granted Wave an electronic-money institution licenc
 
 **[RDC : discordances des effectifs, manque de fiabilité des bases de données et incohérences dans les listings de paie, les principales défaillances révélées par l’audit de l’état liquidatif de la paie des fonctionnaires](https://actualite.cd/2026/11/22/rdc-discordances-des-effectifs-manque-de-fiabilite-des-bases-de-donnees-et-incoherences)** — Actualite.cd, 22 November 2026
 
-IGF audit flags unreliable databases and payroll-listing mismatches; unified payroll files ordered from 2027.
+Actualite.cd reported that an Inspection generale des finances audit of the DR Congo civil-service payroll was presented to the Council of Ministers on 20 November 2026. It found unreliable databases and mismatches between payroll statements and listings. President Tshisekedi ordered payroll files unified and duplicates removed.
 
 </div>
 
@@ -508,7 +508,7 @@ IGF audit flags unreliable databases and payroll-listing mismatches; unified pay
 
 **[Inclusion financière : la BCC agrée Wave, un nouvel acteur de la monnaie électronique en RDC](https://www.bcc.cd/articles/monnaie-et-paiements/bcc-agree-wave-monnaie-electronique-2026)** — Banque Centrale du Congo, 23 November 2026
 
-Central bank's own notice of Wave's e-money licence; linked to 9 April 2027 cash-settlement reform.
+The Central Bank of Congo published a notice on 23 November 2026 that it has licensed Wave as an electronic money institution. The notice links the licence to its financial inclusion aims. It also links it to the reform of 9 April 2027 reserving cash commercial settlements for the Congolese franc.
 
 </div>
 
@@ -566,7 +566,7 @@ The DR Congo's tax directorate told foreign digital service providers on 5 Novem
 
 **[RDC : plus de 1,8 million de dossiers fonciers identifiés, seulement 14,8 % numérisés](https://www.congojournal.com/articles/13827/rdc-plus-de-1-8-million-de-dossiers-fonciers-identifies-seulement-14-8-numerises)** — Congo Journal, 23 November 2026
 
-1,822,051 land files identified, 14.8% digitised; 561 staff trained; MIMPA app 7,358 first-day downloads.
+The Democratic Republic of the Congo's land affairs minister reported to the Council of Ministers on 20 November 2026. Digitisation of land archives had identified 1,822,051 files, of which 14.8 per cent were digitised. The work began in Kinshasa on 17 August 2026.
 
 </div>
 
@@ -660,7 +660,7 @@ The DR Congo Ministry of Health announced on 8 November 2026 that the Etoile Ble
 
 **[Santé : la CNSS engage 1,5 million $ pour digitaliser la gestion de ses centres](https://bankable.africa/en/actualites/2111-4050-sante-la-cnss-engage-1-5-million-pour-digitaliser-la-gestion-de-ses-centres)** — Bankable, 21 November 2026
 
-USD 1.499m health-centre software contract provisionally awarded to Nazounki Global Medical Network from own funds.
+The Democratic Republic of the Congo's social security fund, the CNSS, provisionally selected Nazounki Global Medical Network. The contract is worth USD 1.499 million to supply management software for its health centres. The public procurement regulator published the minutes on 20 November 2026.
 
 </div>
 
@@ -1184,7 +1184,7 @@ Summarised under [Registries](#registries).
 
 **[DR Congo Compensates 17,180 Farmers Under Climate Insurance Scheme](https://www.ecofinagency.com/news/2210-60021-dr-congo-compensates-17-180-farmers-under-climate-insurance-scheme)** — Ecofin Agency, 22 October 2026
 
-First payouts, 14 Oct 2026, under a satellite-rainfall index scheme; pilot to cover up to 300,000 farmers by Sept 2027.
+Ecofin Agency reported that the DR Congo agricultural development programme began paying out on 14 October 2026. Payments go to farmers in Kasai-Central under a World Bank-backed parametric insurance scheme.
 
 </div>
 

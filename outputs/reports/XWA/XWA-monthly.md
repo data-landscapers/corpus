@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: XWA
 ledger_rows: 38
 not_held: 1
-record: 4ba590ee736e
+record: 00b6bce3c862
 ---
 
 # News, Oct – Nov 2026
@@ -258,7 +258,7 @@ The African Development Bank approved a $750,000 seed grant, with technical assi
 
 **[Sierra Leone’s President Julius Maada Bio Closes West Africa Integration and Investment Summit With Landmark Agreements](https://www.einpresswire.com/article/958241032/sierra-leone-s-president-julius-maada-bio-closes-west-africa-integration-and-investment-summit-with-landmark-agreements)** — State House Media and Communications Unit, Sierra Leone (via EIN Presswire), 21 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
 
-State House account: second cable USD 40m with USD 15m from World Bank; USD 4.35m ECOWAS data embassy facility.
+Sierra Leone's State House reported the close of the West Africa Integration and Investment Summit at Lungi. It announced a second submarine cable estimated at USD 40 million and a USD 4.35 million ECOWAS data backup facility.
 
 </div>
 

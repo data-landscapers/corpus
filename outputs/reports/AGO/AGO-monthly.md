@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: AGO
 ledger_rows: 34
 not_held: 6
-record: 41a25c1d8386
+record: 98f6f528f147
 ---
 
 # News, Oct – Nov 2026
@@ -652,7 +652,7 @@ Angola's minister Mário Oliveira invited Qatari investors into Angola's technol
 
 **[Inconsistências estatísticas ditam ruptura entre INE e Ministério da Indústria](https://expansao.co.ao/economia/detalhe/inconsistencias-estatisticas-ditam-ruptura-entre-ine-e-ministerio-da-industria-75232.html)** — Expansão, 9 October 2026
 
-INE drops the industry ministry's portal data from its industrial production index, back to a 183-firm survey.
+Angola's National Statistics Institute said it would stop using data from the industry ministry's Portal da Indústria. The index returns to direct collection from a sample of 183 industrial units.
 
 </div>
 

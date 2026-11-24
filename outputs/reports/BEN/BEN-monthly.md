@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: BEN
 ledger_rows: 49
 not_held: 4
-record: c8b4a7c89718
+record: e2a26dd54e45
 ---
 
 # News, Oct – Nov 2026
@@ -802,7 +802,7 @@ Benin's higher education minister, Sèdami Medegan Fagla, said Benin plans an AI
 
 **[Bénin : des conseillers en intelligence artificielle bientôt au cœur des ministères](https://africaho.bj/article/benin-des-conseillers-en-intelligence-artificielle-bientot-au-coeur-des-ministeres/)** — Africaho, 22 November 2026
 
-Minister explains AI advisers named 4 Nov 2026 to commerce, energy, SME, finance and digital ministries.
+Benin's digital minister Mahuna Akplogan told the Cyber Africa Forum in Cotonou that AI technical advisers are being placed in several ministries. The Council of Ministers of 4 November 2026 named advisers in the commerce, energy, small business, finance and digital ministries. Their task is to identify needs, use ministry data and design applications. The report describes this as speeding up the 2023 to 2027 national AI strategy, not a new policy.
 
 </div>
 

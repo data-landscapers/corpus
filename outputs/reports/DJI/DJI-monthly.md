@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: DJI
 ledger_rows: 17
 not_held: 10
-record: 0702c818e0cc
+record: 5fbd6f87542f
 ---
 
 # News, Oct – Nov 2026
@@ -86,7 +86,7 @@ Djibouti will host the second African Forum of Official Gazettes on 16 and 17 De
 
 **[Signature d'une convention de financement de 5 millions d'euros entre la République de Djibouti et l'Agence Française de Développement pour l'appui à la réforme des finances publiques — Djiblive — Agence & Média](https://news.djiblive.dj/fr/articles/signature-dune-convention-de-financement-de-5-millions-deuros-entre-la-republique-de-djibouti-et-lag)** — Djiblive, 21 November 2026
 
-EUR 5m AFD convention signed 21 Nov 2026 for four-year AREFIP project; first axis digitalises the spending chain.
+Djiblive reported that Djibouti and the French Development Agency signed a EUR 5 million financing agreement on 21 November 2026. It funds a four-year public finance reform project.
 
 </div>
 

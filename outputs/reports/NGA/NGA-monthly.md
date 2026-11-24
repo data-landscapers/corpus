@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: NGA
 ledger_rows: 147
 not_held: 8
-record: 97a53df747cb
+record: 479558ba1644
 ---
 
 # News, Oct – Nov 2026
@@ -1722,7 +1722,7 @@ Nigeria's National Population Commission opened a North-East zonal consultation 
 
 **[The Government of Nigeria and UNHCR launch the Digital Gateway to expand access to services for displaced and stateless people](https://www.unhcr.org/africa/news/press-releases/government-nigeria-and-unhcr-launch-digital-gateway-expand-access-services)** — UNHCR, 23 November 2026
 
-Online pre-registration and record updates for refugees; first government co-launch; Abuja first, Rwanda next.
+UNHCR announced on 23 November 2026 that Nigeria and UNHCR launched the Digital Gateway. It is an online service for refugee and asylum-seeker pre-registration, appointments and record updates. It starts in Abuja with the national refugee commission.
 
 </div>
 
@@ -2514,7 +2514,7 @@ CITAD trained 51 women and girls in digital entrepreneurship in Jama'are, Bauchi
 
 **[African smartphone shipments plunge 40%](https://www.itweb.africa/article/african-smartphone-shipments-plunge-40/xA9POvNEnGVqo4J8)** — ITWeb Africa, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Omdia 3Q26: 13.7m units; Nigeria -47%, Egypt -41%, Kenya -35%, South Africa -20%; feature phones +27%.
+Omdia reported that African smartphone shipments fell 40% year on year in the third quarter of 2026. They fell to 13.7 million units from 22.8 million. Omdia forecasts a 23% fall for 2026.
 
 </div>
 
@@ -2606,7 +2606,7 @@ Nigeria's communications regulator lists subscribers for each internet service p
 
 **[FG deploys AI to track Jigawa crops, farmland](https://punchng.com/fg-deploys-ai-to-track-jigawa-crops-farmland/)** — Punch, 17 November 2026
 
-NAPS steering committee inaugurated; 25 agents in 59 Jigawa communities; rice, wheat, maize pilot to April 2027.
+Nigeria's Presidency said on 16 November 2026 that it had begun field operations of the National Agro-Productivity System. The AI platform tracks farmland using satellite imagery. It deployed 25 extension agents across 59 communities in Jigawa State.
 
 </div>
 

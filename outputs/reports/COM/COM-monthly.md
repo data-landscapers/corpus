@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: COM
 ledger_rows: 13
 not_held: 22
-record: dfa89fcb9819
+record: 173f41292770
 ---
 
 # News, Oct – Nov 2026
@@ -70,7 +70,7 @@ Comoros's health statistics directorate said on 27 October 2026 that only one of
 
 **[Transformation numérique I L’Anaden et le Pnud lancent l’évaluation de l’état de préparation des Comores](https://alwatwan.net/societe/transformation-num%C3%A9rique-i-l%E2%80%99anaden-et-le-pnud-lancent-l%E2%80%99%C3%A9valuation-de-l%E2%80%99%C3%A9tat-de-pr%C3%A9paration-des-comores.html)** — Al-Watwan, 23 November 2026
 
-Launched 19 Nov 2026 with UNDP; five pillars: people, connectivity, government, regulation, economy.
+Comoros' national digital development agency, Anaden, and UNDP launched a Digital Readiness Assessment in Moroni on 19 November 2026. The assessment covers five pillars: population, connectivity, government, regulatory framework and the economy. Its stated purpose is to identify gaps and priorities so that the government, development partners and the private sector can direct digital investment.
 
 </div>
 

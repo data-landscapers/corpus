@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: NER
 ledger_rows: 14
 not_held: 1
-record: 09a7c9244b7d
+record: 8d497c53a856
 ---
 
 # News, Oct – Nov 2026
@@ -288,7 +288,7 @@ Niger scored 0.73 out of 4 on the Africa AI Governance Index 2026, in the Nascen
 
 **[Annuaire statistique 2021-2025, édition 2026](https://www.stat-niger.org/wp-content/uploads/annuaire_bulletin/annuaire/annuaire_statistique_ins_2021_2025_vf.pdf)** — Institut National de la Statistique (INS), 1 November 2026
 
-INS compendium from ministry statistics, INS data and BCEAO, 31 chapters; quality-committee validation Oct 2026.
+Niger's National Institute of Statistics published its statistical yearbook for 2021 to 2025, 2026 edition. It compiles ministry statistics, institute data and central bank figures, and records validation by its quality committee on 22 October 2026 and amendments on 29 October 2026. Publication is dated to November 2026 by inference.
 
 </div>
 

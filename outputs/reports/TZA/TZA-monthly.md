@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: TZA
 ledger_rows: 61
 not_held: 4
-record: 767ea090f80f
+record: cdde3606ef79
 ---
 
 # News, Oct – Nov 2026
@@ -224,7 +224,7 @@ Tanzania's Ministry of Finance and Korea Eximbank signed a concessional loan of 
 
 **[Germany commits €116m to Tanzania’s infrastructure and business reforms](https://www.thecitizen.co.tz/tanzania/news/national/germany-commits-116m-to-tanzania-s-infrastructure-and-business-reforms-5681412)** — The Citizen, 23 November 2026
 
-EUR 100m KfW loans, EUR 16m GIZ grants; new phase of Digital Transformation Centre Tanzania, amount unstated.
+The Citizen reported that Germany committed EUR 116 million to Tanzania at government negotiations in Berlin on 18 and 19 November 2026. The money is mostly loans for water and energy plus technical cooperation grants. It includes a new phase of the Digital Transformation Centre, with no amount stated.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: ETH
 ledger_rows: 40
 not_held: 5
-record: da771385e0a9
+record: 521371c08c08
 ---
 
 # News, Oct – Nov 2026
@@ -344,7 +344,7 @@ Ethiopia's national ID programme has renamed itself FaydaVerse and joined Ethiop
 
 **[FaydaPass seeks to bring government documents into digital wallet](https://capitalethiopia.com/2026/11/22/faydapass-seeks-to-bring-government-documents-into-digital-wallet/)** — Capital Newspaper, 22 November 2026
 
-Nine institutions onboarded; certificates, licences, land records next; e-signature and consent management planned.
+Faydaverse staff told the Capital newspaper, in a report of 22 November 2026, that nine government institutions have joined its FaydaPass digital wallet, including bodies for trade and transport. Education, agriculture and land administration institutions are in discussion. Electronic signatures, delegated access and consent management are planned, and citizens reach the free service with their Fayda digital ID.
 
 </div>
 

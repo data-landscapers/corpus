@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: BFA
 ledger_rows: 46
 not_held: 6
-record: 1d96a8cb539c
+record: 84a028d55055
 ---
 
 # News, Oct – Nov 2026
@@ -334,7 +334,7 @@ A Nigerien delegation led by Mohamed Ghadfi, deputy secretary-general of the com
 
 **[Burkina : 261 millions FCFA perdus dans la cybercriminalité en octobre](https://fr.apanews.net/security/burkina-261-millions-fcfa-perdus-dans-la-cybercriminalite-en-octobre/)** — APAnews, 23 November 2026
 
-956 victims in October 2026; mobile-money fraud FCFA 104m of the losses; 21 arrested, 15 before the courts.
+Burkina Faso's Ministry of Security said cybercrime caused 956 victims and losses above FCFA 261 million in October 2026. It recorded 615 ICT-enabled frauds, with mobile-money scams the largest group at 263 victims and over FCFA 104 million. The ministry reported 21 arrests, of whom 15 have been referred to court.
 
 </div>
 
@@ -406,7 +406,7 @@ Burkina Faso launched mass enrolment in its Unique Identifier Register on 11 Nov
 
 **[Burkina Faso – Enrôlement biométrique de masse : 2 400 agents déployés sur près de 12 000 sites](https://africa24tv.com/burkina-faso-enrolement-biometrique-de-masse-2-400-agents-deployes-sur-pres-de-12-000-sites/)** — Africa24 TV, 22 November 2026
 
-2,400 agents across ~12,000 planned sites, 966 kits; free 12-digit Yerekun number from age 5, data kept in-country.
+Burkina Faso began a mass biometric enrolment on 11 November 2026 to give each resident from age 5 a free twelve-digit unique identifier. The government is deploying 2,400 enrolment agents across about 12,000 planned sites, with a first batch of 966 biometric kits. A pilot had registered more than 16,000 people. Officials said the data will be hosted in the country.
 
 </div>
 
@@ -414,7 +414,7 @@ Burkina Faso launched mass enrolment in its Unique Identifier Register on 11 Nov
 
 **[Burkina : 1 449 volontaires formés pour réussir l'enrôlement national](https://libreinfo.net/burkina-1-449-volontaires-formes-pour-reussir-lenrolement-national/)** — Libreinfo.net, 23 November 2026
 
-483 supervisors and 966 kit operators from the volunteer programme trained 19-27 Nov 2026 for unique-ID enrolment.
+Burkina Faso's digital transition ministry began training 1,449 volunteers on 19 November 2026 for the national unique identifier enrolment, with the course running to 27 November. They are 483 supervisors and 966 kit operators recruited through the national volunteer programme. Minister Aminata Zerbo visited the training on 22 November.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: ZAF
 ledger_rows: 128
 not_held: 17
-record: cdc4683f0c8a
+record: 0fb8d55d17b2
 ---
 
 # News, Oct – Nov 2026
@@ -750,7 +750,7 @@ The ReuNION consortium, including Orange, Free, Reunicable, Telco OI and Zeop, h
 
 **[What will South Africa get from Ramaphosa’s Silicon Valley trip?](https://explain.co.za/2026/11/23/ramaphosa-took-300-people-to-silicon-valley-what-does-south-africa-hope-to-gain/)** — /explain/, 23 November 2026
 
-Code for Africa sceptic on data-centre focus; cost and sponsors undisclosed; AI policy redraft to Cabinet by March 2027.
+The explainer outlet /explain/ published a critical account on 23 November 2026 of President Ramaphosa's week-long visit to California with about 300 delegates. Code for Africa's analyst doubted the data-centre focus, and the cost and sponsors were undisclosed. A redrafted national AI policy is due at Cabinet by March 2027.
 
 </div>
 
@@ -764,7 +764,7 @@ Code for Africa sceptic on data-centre focus; cost and sponsors undisclosed; AI 
 
 **[Vodacom, Huawei trial ‘golden’ spectrum band](https://www.itweb.co.za/article/vodacom-huawei-trial-golden-spectrum-band/KWEBbvyL2PaqmRjO)** — ITWeb South Africa, 23 November 2026
 
-Upper 6GHz fixed-wireless showcase at Africa Tech Festival; commercial deployment about two years off.
+Vodacom and Huawei showed Upper 6GHz fixed wireless use cases at the Africa Tech Festival in the week before 23 November 2026. The companies put commercial deployment about two years away. South Africa's communications regulator published its allocation plan for the band in July.
 
 </div>
 
@@ -1010,7 +1010,7 @@ Operation Vulindlela's progress report for the second quarter of 2026, released 
 
 **[SARS advances connected customs corridor to accelerate trade across Southern Africa | South African Revenue Service](https://www.sars.gov.za/media-release/sars-advances-connected-customs-corridor-to-accelerate-trade-across-southern-africa/)** — South African Revenue Service, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a>
 
-SARS-Zambia Revenue Authority pre-arrival data exchange signed; Malawi done, Zimbabwe next, DRC earmarked.
+The South African Revenue Service said it signed an agreement with the Zambia Revenue Authority on the Friday before 23 November 2026. The agreement is to exchange customs consignment data before goods reach the border. A similar arrangement with Malawi was signed on 30 July 2026.
 
 </div>
 

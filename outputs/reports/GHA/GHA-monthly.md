@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: GHA
 ledger_rows: 88
 not_held: 9
-record: e0ce2b87c3b6
+record: 5bca08cdf7cd
 ---
 
 # News, Oct – Nov 2026
@@ -1188,7 +1188,7 @@ The think tank IMANI Africa published an audit in November 2026 of 20 Ghanaian g
 
 **[GAIP promotes Germination Index Insurance to protect farmers against climate risks](https://gna.org.gh/2026/10/gaip-promotes-germination-index-insurance-to-protect-farmers-against-climate-risks/)** — Ghana News Agency, 29 October 2026
 
-4,000 farmers sensitised in 41 districts; GMet station data merged with satellite rainfall.
+Ghana News Agency reported on 29 October 2026 that the Ghana Agricultural Insurance Pool is promoting germination index insurance. The cover compensates farmers whose seeds fail to germinate after drought or heavy rain. It was presented at an online engagement under the EU-funded TEMBO Africa project.
 
 </div>
 

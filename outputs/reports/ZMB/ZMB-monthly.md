@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: ZMB
 ledger_rows: 41
 not_held: 30
-record: e9a82ca9ac82
+record: a426889faaf8
 ---
 
 # News, Oct – Nov 2026
@@ -300,7 +300,7 @@ The African Tax Administration Forum and the Zambia Revenue Authority signed a M
 
 **[SARS advances connected customs corridor to accelerate trade across Southern Africa | South African Revenue Service](https://www.sars.gov.za/media-release/sars-advances-connected-customs-corridor-to-accelerate-trade-across-southern-africa/)** — South African Revenue Service, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-SARS-Zambia Revenue Authority pre-arrival data exchange signed; Malawi done, Zimbabwe next, DRC earmarked.
+The South African Revenue Service said it signed an agreement with the Zambia Revenue Authority on the Friday before 23 November 2026. The agreement is to exchange customs consignment data before goods reach the border. A similar arrangement with Malawi was signed on 30 July 2026.
 
 </div>
 

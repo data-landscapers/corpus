@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: NAM
 ledger_rows: 32
 not_held: 8
-record: 73268ac6f0e5
+record: 5364f2c589cf
 ---
 
 # News, Oct – Nov 2026
@@ -96,7 +96,7 @@ Namibia's assessment of its laws and institutions against the African free-trade
 
 **[Namibia calls for greater use of geospatial technology](https://neweralive.na/namibia-calls-for-greater-use-of-geospatial-technology/)** — New Era, 18 November 2026
 
-Namibia takes RCMRD chair 2026-2028; ERDAS APOLLO imagery repository, Land Bill 2025 and NSDI upgrade.
+Namibia's agriculture minister Inge Zaamwani called for wider use of geospatial technology and AI. She spoke at the 14th Conference of Ministers of the Regional Centre for Mapping of Resources for Development in Swakopmund.
 
 </div>
 
@@ -570,7 +570,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[MSMEs are Connected, but the Digital Divide Remains](https://www.thevillager.com.na/national/2026/msmes-are-connected-but-the-digital-divide-remains/)** — The Villager (Namibia), 22 November 2026
 
-KAS survey of 688 firms: 86% on smartphones, 21% accounting software, 24% some AI; cost blocks 56%.
+A national survey by Konrad-Adenauer-Stiftung and Survey Warehouse interviewed 688 Namibian micro, small and medium businesses. It found that 86% use smartphones, 21% use accounting software and 18% use cloud storage. The cost of equipment and software was the leading barrier for 56% of respondents, and about 24% said they use some form of AI.
 
 </div>
 

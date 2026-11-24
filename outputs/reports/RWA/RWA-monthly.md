@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: RWA
 ledger_rows: 39
 not_held: 7
-record: bab0e07cced8
+record: 59463dd50122
 ---
 
 # News, Oct – Nov 2026
@@ -688,7 +688,7 @@ Rwanda's Ministry of Education inaugurated a new Rwanda Coding Academy campus in
 
 **[코이카, 르완다 코딩 아카데미 새 캠퍼스 준공](https://koica.go.kr/bbs/koica_kr/151/391677/artclView.do)** — Korea International Cooperation Agency (KOICA), 23 November 2026
 
-KOICA release: Nyabihu campus opened 20 Nov 2026; 120 of 177 graduates to university, 31 abroad (June 2025).
+The Korea International Cooperation Agency and the Rwanda TVET Board held a ceremony on 20 November 2026. The ceremony was for the new Rwanda Coding Academy campus in Nyabihu. The agency said its support project ran from 2021 to 2026.
 
 </div>
 

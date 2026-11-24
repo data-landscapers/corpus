@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: SEN
 ledger_rows: 65
 not_held: 2
-record: 146cc4115e75
+record: 9be39b6df7e4
 ---
 
 # News, Oct – Nov 2026
@@ -124,7 +124,7 @@ A Transform Health Senegal consultation found 65.8% of respondents unaware that 
 
 **[Assemblée nationale : L’annonce inattendue pour nos cartes d’identité biométriques](https://www.senenews.com/actualites/assemblee-nationale-lannonce-inattendue-pour-nos-cartes-didentite-biometriques_607132.html)** — SeneNews, 21 November 2026
 
-Bill 21/2026 on ECOWAS ID card validity: Law Committee sitting of 20 November cancelled; 2016 cards are voter cards.
+SeneNews reported that a Senegalese National Assembly committee sitting on bill 21/2026 was cancelled at the last minute on 20 November 2026. The bill would allow an exceptional extension of ECOWAS biometric ID card validity. The 2016 cards also serve as voter cards.
 
 </div>
 

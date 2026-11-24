@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-24
 place: XEA
 ledger_rows: 21
 not_held: 0
-record: 17c46fc157ab
+record: 2b838eb7fdb5
 ---
 
 # News, Oct – Nov 2026
@@ -130,7 +130,7 @@ An East African Community official told data protection regulators in Brussels i
 
 **[EAC Advances Regional Framework for Trusted Cross-Border Data Flows and Data Protection](https://www.eac.int/eadrip-news-updates/eardrip-press-releases/3625-eac-advances-regional-framework-for-trusted-cross-border-data-flows-and-data-protection)** — East African Community, 23 November 2026
 
-Moshi meeting 17-21 Nov 2026 drafts legislative scheme; Bill consolidation due 15 February 2027.
+The East African Community reported that legislative drafters and data protection experts from Partner States met in Moshi from 17 to 21 November 2026. They produced a legislative scheme for a proposed regional bill on cross-border data flows. The Secretariat aims to consolidate the bill by 15 February 2027.
 
 </div>
 
