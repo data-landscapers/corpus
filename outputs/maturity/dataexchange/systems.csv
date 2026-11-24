@@ -258,6 +258,7 @@ MDG,Système d'échange national (SEN),Système d'échange national,exchange,SEN
 MDG,Maritime Single Window (INTEGRATE - Madagascar),Madagascar,other,,APMF,,2026-11-09-mdg-madagascar-lapmf-lance-une-nouvelle-phase-du-programme-integ
 MDG,DGU interoperability platform,Madagascar,exchange,,DGU,,2023-12-21-mdg-implementation-status-and-results-report-digital-governance-and-identi
 MDG,Rahaka,Madagascar,exchange,X-Road,,,2026-11-06-dpi-map-2026-11-12
+MDG,RAHAKA,Madagascar,exchange,,UGD (Unite de gouvernance digitale),,2026-11-23-mdg-andry-rabarisoa-et-johanna-randrianasolo-conseil-detat-simplifier-pour
 MLI,PKI nationale,Mali,other,,,,2026-08-03-mali-semaine-du-numerique-recommandations-souverainete
 MLI,Intranet gouvernemental,Mali,other,private secured government network,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
 MLI,Single-window portal of digitalised public services,Mali,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
@@ -323,6 +324,7 @@ NAM,ITAS,Namibia,other,,Namibia Revenue Agency,,2024-02-01-namra-bipa-explore-in
 NAM,ASYCUDA,Namibia,other,,Namibia Revenue Agency,,2024-02-01-namra-bipa-explore-integrating-business-registration-and-tax-systems
 NAM,NamX,Namibia,exchange,,,,2025-12-18-worldbank-govtech-dataset-dec2025
 NAM,NamX,Namibia,exchange,UXP,Ministry of Information and Communication Technology,,2026-11-06-dpi-map-2026-11-12
+NAM,National Data Exchange Platform,National Data Exchange Platform,exchange,,Namibia Statistics Agency,,2023-12-01-nam-administrative-data-experience-in-namibia
 NER,national interoperability layer based on OpenFn,Niger,other,OpenFn,Directorate of e-Health with Data.FI Project,,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite
 NER,Registre National de la Population (RNP),Niger,other,World Bank WURI project,ANEI,to be interoperable with civil status and nationality registers,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
 NER,cadre d'interopérabilité et d'échanges sécurisés de données (WURI-Niger Component 3),Niger,exchange,,Ministère de l'Intérieur (WURI-Niger project),,2024-01-01-lesahel-wuri-niger-presentation-projet

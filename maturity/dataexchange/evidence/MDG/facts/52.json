@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-23-mdg-andry-rabarisoa-et-johanna-randrianasolo-conseil-detat-simplifier-pour",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "Johanna Randrianasolo said the RAHAKA data-exchange platform, run by the Digital Governance Unit (UGD), had logged over 162,000 exchanges among fourteen institutions by end April 2026.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "RAHAKA",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "RAHAKA connected fourteen institutions by end April 2026, per Johanna Randrianasolo of the Conseil d'Etat.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "RAHAKA",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "RAHAKA had recorded more than 162,000 exchanges by end April 2026, per Johanna Randrianasolo.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "RAHAKA",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAHAKA",
+   "country_label": "Madagascar",
+   "class": "exchange",
+   "platform": "",
+   "owner": "UGD (Unite de gouvernance digitale)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
