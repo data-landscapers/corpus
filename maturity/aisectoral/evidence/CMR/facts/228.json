@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-03-cmr-cameroun-catastrophes-climatiques-une-plateforme-de-l-onac-pour-antici",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ONACC says its public climate-risk platform, launched 2026-01-14, uses a neural-network model to predict the evolution of climate parameters and anticipate hazards, and that simulations covering all of 2025 were run for Douala and Maroua.",
+   "as_of": "2026-01-14",
+   "date_precision": "day",
+   "system": "ONACC plateforme numérique de suivi des risques climatiques",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

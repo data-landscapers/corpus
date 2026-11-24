@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-01-mar-cgms-maroc-alerte-secheresse-et-prevision-des-rendements",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The 2024 AgriMaroc report says the CGMS-Maroc cereal yield-forecasting and drought-alert system, built by INRA and partners, has integrated artificial intelligence alongside satellite imagery and agro-meteorological modelling.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "CGMS-Maroc",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-04-egy-ahram-narss-crop-mapping-remote-sensing-ai",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The National Authority for Remote Sensing and Space Sciences with the agriculture ministry used AI on remote sensing data to inventory and classify field crops for winter 2023/24 and summer 2024 across governorates, as its chairman said on 4 November 2024.",
+   "as_of": "2024-11-04",
+   "date_precision": "day",
+   "system": "NARSS crop map",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

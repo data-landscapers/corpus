@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-01-nga-fg-eu-inaugurate-2-7m-earth-observation-based-agricultural-project",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "NASRDA said farmers in seven demonstration states would be supported with AI-based tools for data collection and analysis, and the project's expert said the planned information system would include voice-based AI advisory services.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "EO-based Agricultural Innovation Project",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

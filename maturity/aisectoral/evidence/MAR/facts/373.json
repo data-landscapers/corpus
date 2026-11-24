@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-mar-loa-pole-digital-fao-geoservices-agricoles-par-satellite-et-ia",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Pôle Digital says its agrometeorological dashboard takes crop maps made from satellite imagery with machine learning and deep learning, with use cases in 2024 and 2025 in Tassaout, Sidi Kacem, R'mel and Sebt El Guerdane, and that the geoservices are now integrated in the digital system it operates.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Solution 4 Agrométéo",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": "No measured results stated."
+}
