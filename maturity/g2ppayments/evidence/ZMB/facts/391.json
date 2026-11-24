@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-03-zmb-undp-irff-ziamis-index-insurance-mobile-payouts",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "UNDP IRFF says that through the Ministry of Agriculture's ZIAMIS platform FISP crop index insurance payouts are paid direct to farmers' mobile money wallets, reaching 500,000 farmers in the 2023/24 drought.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ZIAMIS insurance module",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZIAMIS insurance module",
+   "country_label": "ZIAMIS",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Ministry of Agriculture; Smart Zambia Institute administers",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
