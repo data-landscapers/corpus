@@ -155,6 +155,7 @@ GAB,Africa Coast to Europe (ACE) cable,ACE,other,submarine cable,,,2026-08-27-te
 GAB,CAB-CORRIDOR,CAB-CORRIDOR,shared,terrestrial interconnection over the Central African Backbone (CAB),SPIN (Gabon) and CAMTEL (Cameroon),,2026-10-03-cab-corridor-la-spin-et-camtel-renforcent-la-connectivite-numerique-en
 GAB,Gabon-Equatorial Guinea fibre-optic network interconnection,interconnection of fibre-optic networks,shared,fibre-optic,"Gabon and Equatorial Guinea digital-economy ministries; ARCEP, SPIN, ANINF, Moov Africa Gabon Telecom and Airtel Gabon took part in the technical work",,2025-11-13-gabon-guinea-ecuatorial-fibra-roaming-frecuencias-techafricanews
 GAB,Central Africa Backbone (CAB4),Gabon,other,regional fibre backbone,,,2025-11-11-gab-cooperation-le-gabon-et-la-guinee-equatoriale-travaillent-pour-une-mei
+GAB,Kye-Ossi one-stop border post,Gabon,other,,,,2026-06-22-gab-afcfta-gabon-implementation-partnership-kye-ossi
 GHA,CSquared West Africa fibre backbone,Ghana,other,fibre,CSquared,,2025-08-11-tgo-csquared-west-africa-cross-border-backbone
 GHA,Lagos-to-Accra terrestrial fibre route,"Lagos-Accra via Ghana, Togo, Benin",shared,terrestrial fibre,"CSquared, Phase3, SBIN",,2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre
 GHA,Accra-IX,Ghana,other,internet exchange,,,2026-08-16-ghana-accra-ix-200gbps-three-exchanges
@@ -410,6 +411,7 @@ ZMB,Project East2West,Project East2West,other,terrestrial fibre optic cable (dar
 ZMB,LuIX,Lusaka IXP,other,,,,2024-09-19-zmb-how-does-zambia-accelerate-its-internet-resilience
 ZMB,Lake Tanganyika Burundi-Zambia fibre cable,Northern province (Zambia) to Makamba (Burundi) cable,shared,submarine fibre,,,2024-10-07-zmb-burundi-zambia-agree-underwater-fibre-connection
 ZMB,Bayobab Zambia cross-border fibre,Zambia,other,fibre,Bayobab (MTN),,2024-04-17-zmb-bayobab-zambia-achieves-milestone-completion-of-structural-separation
+ZMB,African-built IT solution for the Automatic Exchange of Information (AEOI),Zambia,other,tax information exchange software,ATAF and Zambia Revenue Authority,,2026-11-21-zmb-ataf-and-zambia-partner-on-tax-technology
 ZWE,Powertel-Paratus Zimbabwe DWDM fibre backhaul,Powertel / Paratus Zimbabwe PPP,other,DWDM fibre,Powertel and Paratus Zimbabwe,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
 ZWE,Liquid Intelligent Technologies fibre backbone,Liquid fibre backbone,other,"terrestrial fibre, 26,000 km in Zimbabwe, linked to Liquid's regional cross-border network",Liquid Intelligent Technologies,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
 ZWE,TelOne backbone,TelOne cross-border transit links,other,100G+ wavelengths,TelOne,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
