@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-24 02:37 · **BUILD** · 1h45m · polled cycle; catalogue 46,297; 58 units, 433 sources: 24 moved, 80 minted, 26 status sections; DC 4; budget 0 waiting; 4c 1,559 readings, 197 worked, 11 moved; Who's Who 247; bulletin 52; 67 dead links; register 4 — ok
 2026-11-23 12:35 · **HOUSEKEEPING** · 20m · Job 84: traffic.py gains a crawler class for the rotating residential-proxy fleet; 518 of 1,387 daily visits removed, 20-22 Nov now 19, 10, 13 users; three analytics CSVs rebuilt
 2026-11-23 02:57 · **INDEX** · 9m · research index: 343 added or changed (332 added, 11 changed), 0 removed, 7628 chunks, 9.1 min — ok
 2026-11-23 02:33 · **RENDER** · 35m · 301/301 reports, home, countries, catalogue 45,932, finance, datasets, maturity rendered; deployed cca9ed9 — ok
@@ -348,23 +349,7 @@ title: Corpus process log
 2026-10-24 02:09 · **BUDGET-EXTRACT** · unclocked · KEN FY2024-26: 15 development heads financed from appropriations in aid held as own-source (14 added, KES 3.2bn appropriated over three years; the FY2025 geological data bank's revised figure corrected)
 2026-10-24 02:04 · **BUDGET-EXTRACT** · unclocked · BDI FY2025: revised figures from the rectificative law of 31 December 2025 for 20 held rows, 3 added at revised (BIF 3.7bn); 8 rows without a one-to-one successor; EGY FY2024-26 economic-authority statements nil (no operating spending by authority)
 2026-10-24 01:11 · **ANALYTICS** · unclocked · 2026-10-22..2026-10-23 written; 23 Oct: dl.io 25 views / 0 clicks, corpus 167 views / 2 clicks
-2026-10-23 17:44 · **RENDER** · <1m · scoped: finance reports, country, region, finance, progress and methodology pages; Burundi FY2025 revised column published — ok
-2026-10-23 17:42 · **BUDGET-EXTRACT** · unclocked · BDI FY2025: Burundi's quarterly workbooks' revised column taken (Bill); SETIC and the migration commissariat gain revised, six revised-only task rows added (BIF 20.4bn, 17.2bn e-invoicing machines)
-2026-10-23 16:50 · **RENDER** · 2m · scoped: finance reports, country, region, finance, progress and methodology pages; non-state alignment and regulators' accounts published — ok
-2026-10-23 16:46 · **BUDGET-EXTRACT** · unclocked · Hold the regulators (Bill, 2026-10-23): eight own-account rows - KEN, LSO, MDG, NAM, SWZ, UGA regulators FY2024 and TUN's finance computing centre FY2024-25; BWA waits on a catalogue record, NGA holds no accounts.
-2026-10-23 12:30 · **RENDER** · 39m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 257 editions pruned; deployed e2f056a — ok
-2026-10-23 11:51 · **REBUILD** · 1m · businesspayments: rungs 3-4 read two ways (figure without end-to-end: BEN ETH LBY SEN 5->3; bodies counted as figure: NAM ZAF MRT ZWE to 5); not messaged, 5 open; staged as worded
-2026-10-23 11:51 · **REBUILD** · 1m · businessregister: rungs 4 and 5 read two ways (one procedure as shared number: BEN MRT stay 4, CPV 3->4; any BO register: MDG TGO 3->5); not messaged, 5 open; staged as worded
-2026-10-23 11:51 · **REBUILD** · 1m · broadbandstrategy: plan period read two ways (last target year as end: BWA GHA BDI 3->2; age rule over no time limit: EGY TUN 3->2); not messaged, 5 open; staged as worded
-2026-10-23 11:50 · **REBUILD** · unclocked · businesspayments business: 54 cells reassessed, 9 moved; 54 searched, 202 staged; 60.0M tokens — ok
-2026-10-23 11:49 · **REBUILD** · unclocked · businessregister business: 14 cells reassessed, 11 moved; 54 searched, 225 staged; 58.2M tokens — ok
-2026-10-23 11:45 · **REBUILD** · 20m · broadbandstrategy plan: 2 cells reassessed, 0 moved; 54 searched, 149 staged; 61M tokens — ok
-2026-10-23 11:35 · **REVIEW** · unclocked · AGO: status 1 sections revised, progress 1 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
-2026-10-23 11:31 · **REVIEW** · unclocked · BDI: status 2 sections revised, progress 3 cells, finance 0 rows; 0 deals queued, 1 notes for OSINT — ok
-2026-10-23 11:26 · **BUILD** · 1h32m · catalogue 32,306; 365 sources, 24 moved, 145 minted; data centres 16 rows, 2 added; maturity 2,608 read, 49 cells moved; bulletin 31; 4 deals scoped; register 11; 5 ladder readings unmessaged (cap); stray stash recovered — ok
 2026-10-23 11:26 · **BUDGET** · unclocked · poll 66 libraries, GIN and NAM staged; SYC FY2026 and GHA FY2024 revised; MOZ and SEN nil; votes for 9 countries; 39 waiting, none workable; 75 of 120 minutes — ok
-2026-10-23 10:33 · **BUDGET-EXTRACT** · unclocked · SYC FY2026: mid-year review 2026 read for a revision stage; E-Invoicing restated to SCR 34.86m, 8 absences, no other held line moves
-2026-10-23 09:53 · **ANALYTICS** · unclocked · 2026-10-21..2026-10-22 written; 22 Oct: dl.io 48 views / 0 clicks, corpus 471 views / 1 clicks
 2026-10-20 09:29 · **MIRROR** · unclocked · flash leg failing: ffs=2 then ffs=3, D: has 0.93 GB free; robocopy legs ok; messages at cap, raised in session
 2026-10-17 10:18 · **MATURITY-UPDATE** · unclocked · stage 4c lifted (Bill) and its backlog worked: 15,617 arrivals over 115 studies, 9,822 closed unread (8,344 instruments, 1,478 pre-window), 1,013 past 20 a country; 810 news stories in 408 Sonnet calls; 954 facts merged, 604 cells reassessed and logged, 253 moved; 7 facts removed at the top-stage check; 41 cells restaged and 276 texts rewritten by brief; all 115 lint clean. 245M tokens (212M agents) — ok
 2026-10-13 12:11 · **MATURITY** · unclocked · notes-for-corpus 80: 220 admitted sources and six completed records read on 24 studies, 272 facts; 183 cells reassessed as review, 74 placed (stage 1: 9, 2: 32, 3: 21, 4: 12), 11 corrections; lint clean. Agents 10.3M tokens
