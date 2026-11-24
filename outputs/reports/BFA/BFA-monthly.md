@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: BFA
-ledger_rows: 45
+ledger_rows: 46
 not_held: 6
-record: 13ca41afd220
+record: 1d96a8cb539c
 ---
 
 # News, Oct – Nov 2026
@@ -326,6 +326,20 @@ A Nigerien delegation led by Mohamed Ghadfi, deputy secretary-general of the com
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybercrime victims and losses, October 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina : 261 millions FCFA perdus dans la cybercriminalité en octobre](https://fr.apanews.net/security/burkina-261-millions-fcfa-perdus-dans-la-cybercriminalite-en-octobre/)** — APAnews, 23 November 2026
+
+956 victims in October 2026; mobile-money fraud FCFA 104m of the losses; 21 arrested, 15 before the courts.
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -385,6 +399,22 @@ Burkina Faso's President launched mass enrolment in the electronic unique identi
 **[Registre de l'identifiant unique : Le Burkina Faso engage l'identification de sa population](https://lefaso.net/spip.php?article150706=)** — leFaso.net, 11 November 2026
 
 Burkina Faso launched mass enrolment in its Unique Identifier Register on 11 November 2026, Lefaso.net reported. Every resident, including foreigners in transit, is to receive an electronic identifier. Enrolment captures ten fingerprints and both irises. A pilot enrolled over 16,000 people, and a first count is due at the end of December 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina Faso – Enrôlement biométrique de masse : 2 400 agents déployés sur près de 12 000 sites](https://africa24tv.com/burkina-faso-enrolement-biometrique-de-masse-2-400-agents-deployes-sur-pres-de-12-000-sites/)** — Africa24 TV, 22 November 2026
+
+2,400 agents across ~12,000 planned sites, 966 kits; free 12-digit Yerekun number from age 5, data kept in-country.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina : 1 449 volontaires formés pour réussir l'enrôlement national](https://libreinfo.net/burkina-1-449-volontaires-formes-pour-reussir-lenrolement-national/)** — Libreinfo.net, 23 November 2026
+
+483 supervisors and 966 kit operators from the volunteer programme trained 19-27 Nov 2026 for unique-ID enrolment.
 
 </div>
 
