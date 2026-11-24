@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-23-mdg-andry-rabarisoa-et-johanna-randrianasolo-conseil-detat-simplifier-pour",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Johanna Randrianasolo said the online passport service has been in test since 11 October 2026.",
+   "as_of": "2026-10-11",
+   "date_precision": "day",
+   "system": "online passport service",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
