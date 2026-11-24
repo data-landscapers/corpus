@@ -50,10 +50,8 @@ ITU Cybersecurity Index tier,"ITU Global Cybersecurity Index tier, 1 (role-model
 Data protection law year,Year the comprehensive national personal-data-protection law was enacted; blank if none or unverified.,https://unctad.org/page/data-protection-and-privacy-legislation-worldwide,2026,2026-11-24,manual
 Data protection authority,Yes if a data protection authority has been established and appointed; blank if unverified.,https://dataprotection.africa/,2026,2026-11-24,manual
 Cybercrime law year,Year of the main cybercrime law; blank if none or unverified.,https://unctad.org/page/cybercrime-legislation-worldwide,2026,2026-11-24,manual
-Malabo Convention signed,Date the AU Convention on Cyber Security and Personal Data Protection was signed.,https://au.int/en/treaties/african-union-convention-cyber-security-and-personal-data-protection,2026,2026-11-24,manual
-Malabo Convention ratified,Date the Malabo Convention instrument of ratification was deposited with the AU Commission.,https://au.int/en/treaties/african-union-convention-cyber-security-and-personal-data-protection,2026,2026-11-24,manual
-AfCFTA signed,Date the Agreement Establishing the African Continental Free Trade Area was signed.,https://au.int/en/treaties/agreement-establishing-african-continental-free-trade-area,2026,2026-11-24,manual
-AfCFTA ratified,Date the AfCFTA instrument of ratification was deposited with the AU Commission.,https://au.int/en/treaties/agreement-establishing-african-continental-free-trade-area,2026,2026-11-24,manual
+Malabo Convention,"Status of the AU Convention on Cyber Security and Personal Data Protection: Ratified (instrument deposited with the AU Commission), Signed, or blank.",https://au.int/en/treaties/african-union-convention-cyber-security-and-personal-data-protection,2026,2026-11-24,manual
+AfCFTA,"Status of the Agreement Establishing the African Continental Free Trade Area: Ratified (instrument deposited with the AU Commission), Signed, or blank.",https://au.int/en/treaties/agreement-establishing-african-continental-free-trade-area,2026,2026-11-24,manual
 AU suspended,Yes if currently suspended from African Union activities by the Peace and Security Council.,https://www.peaceau.org/en/resource/documents,2026,2026-11-24,manual
 AMU,Member of the Arab Maghreb Union (an AU-recognised REC).,https://maghrebarabe.org/,2026,2026-11-24,manual
 COMESA,Member of the Common Market for Eastern and Southern Africa (an AU-recognised REC).,https://www.comesa.int/members/,2026,2026-11-24,manual
