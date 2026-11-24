@@ -21,6 +21,11 @@ The smallest chapters share one "Other" slice and get no panel.
 After it, "the foundations" (Bill, 2026-11-24): ten of the smallest topics,
 named in the script, as 100% bars by source under a bar for all digital finance.
 
+Then connectivity per km² and per head as two maps (Bill, 2026-11-24): the Connectivity sheet's
+spend and area, and population from the "per capita" sheet. Its spend is all digital finance,
+so per head is recomputed from connectivity spend. Rows below the first blank (the smallest
+countries) and the regional codes are left out. Shapes come from site/maturity/data/africa.json.
+
 Defaults: `site/finance/all/all-finance.csv`, and `~/Downloads/all-finance-charts-{today}.pptx`.
 Needs `python-pptx`. The subtitles are fixed text: the script prints a WARNING when the data
 no longer supports them, and the wording then needs revising by hand.
@@ -429,8 +434,72 @@ if os.path.exists(a.pivot):
     ln = s.shapes.add_connector(1, Inches(0.6), Inches(CY_ + rowh * 2), Inches(12.73), Inches(CY_ + rowh * 2))
     ln.line.color.rgb = rgb(INK2); ln.line.width = Pt(0.75)
 
+# ---------- Connectivity per km² and per head, as two maps ----------
+if os.path.exists(a.pivot):
+    import json
+    wb_ = openpyxl.load_workbook(a.pivot, data_only=True)
+    conn = {}
+    for r in list(wb_["Connectivity"].iter_rows(min_row=2, values_only=True)):
+        if r[0] is None: break                        # the smallest countries sit below the first blank row
+        if not str(r[0]).startswith("X"): conn[str(r[0])] = (float(r[2]), float(r[3]))   # spend, km²
+    pop = {str(r[0]): float(r[2]) for r in wb_["per capita"].iter_rows(min_row=2, values_only=True) if r[0] and r[2]}
+    perkm = {k: v / a_ for k, (v, a_) in conn.items()}
+    perhd = {k: v / pop[k] for k, (v, _) in conn.items() if k in pop}
+    geo = json.load(io.open(os.path.join(ROOT, "site", "maturity", "data", "africa.json"), encoding="utf-8"))
+    NAME = {f["properties"]["iso3"]: f["properties"]["name"] for f in geo["features"]}
+    SHADES = ["F3D9D2", "E7AB9F", "D4705A", "C84B2F", "8E2F1B"]
+    def bins(d):
+        v = sorted(d.values()); return [v[int(len(v) * q / 5)] for q in range(1, 5)]
+    def cls(x, b): return sum(x >= t for t in b)
+    LON0, LON1, LAT0, LAT1 = -18.0, 52.0, -35.5, 38.0
+    def drawmap(slide, d, ox, oy, h, fmt, heading):
+        sc = h / (LAT1 - LAT0); b = bins(d)
+        text(slide, ox, oy - 0.42, 4.5, 0.3, heading, 14, color=INK2, bold=True)
+        for f in geo["features"]:
+            k = f["properties"]["iso3"]; g = f["geometry"]
+            polys = g["coordinates"] if g["type"] == "MultiPolygon" else [g["coordinates"]]
+            col = SHADES[cls(d[k], b)] if k in d else "E6E3DC"
+            for poly in polys:
+                ring = poly[0]
+                if len(ring) < 4: continue
+                pts = [(Inches(ox + (x - LON0) * sc), Inches(oy + (LAT1 - y) * sc)) for x, y in ring]
+                fb = slide.shapes.build_freeform(pts[0][0], pts[0][1], scale=1.0)
+                fb.add_line_segments(pts[1:], close=True)
+                shp = fb.convert_to_shape(); shp.name = k
+                shp.fill.solid(); shp.fill.fore_color.rgb = rgb(col)
+                shp.line.color.rgb = rgb(PAPER); shp.line.width = Pt(0.5); shp.shadow.inherit = False
+        # legend
+        edges = [min(d.values())] + b + [max(d.values())]
+        lx, ly = ox, oy + h + 0.08
+        for i in range(5):
+            sw = slide.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(lx + i * 0.95), Inches(ly), Inches(0.93), Inches(0.14))
+            sw.fill.solid(); sw.fill.fore_color.rgb = rgb(SHADES[i]); sw.line.fill.background(); sw.shadow.inherit = False
+            text(slide, lx + i * 0.95, ly + 0.17, 0.93, 0.22, f"{fmt(edges[i])}–{fmt(edges[i + 1])}", 9, color=INK2, align=PP_ALIGN.CENTER)
+        # top five beside the map
+        tx = ox + (LON1 - LON0) * sc + 0.1
+        text(slide, tx, oy + 0.2, 1.9, 0.3, "Highest", 11, color=FAINT, bold=True)
+        for i, (k, v) in enumerate(sorted(d.items(), key=lambda kv: -kv[1])[:5]):
+            text(slide, tx, oy + 0.5 + i * 0.3, 1.25, 0.28, NAME.get(k, k), 11, color=INK)
+            text(slide, tx + 1.2, oy + 0.5 + i * 0.3, 0.7, 0.28, fmt(v), 11, color=INK, bold=True, align=PP_ALIGN.RIGHT)
+        text(slide, tx, oy + 2.2, 1.9, 0.3, "Lowest", 11, color=FAINT, bold=True)
+        for i, (k, v) in enumerate(sorted(d.items(), key=lambda kv: kv[1])[:3]):
+            text(slide, tx, oy + 2.5 + i * 0.3, 1.25, 0.28, NAME.get(k, k), 11, color=INK2)
+            text(slide, tx + 1.2, oy + 2.5 + i * 0.3, 0.7, 0.28, fmt(v), 11, color=INK2, align=PP_ALIGN.RIGHT)
+    for k in ("NER", "SOM", "SSD", "CAF", "LBY"):
+        if cls(perkm[k], bins(perkm)) or cls(perhd[k], bins(perhd)):
+            print(f"WARNING: {k} is no longer in the lowest group on both maps; connectivity subtitle is wrong")
+    s = prs.slides.add_slide(BLANK)
+    top_a = max(perkm, key=perkm.get); top_h = max(perhd, key=perhd.get)
+    frame(s, "Connectivity: where the money lands",
+          f"Spend on connectivity by land area and by population. {NAME[top_a]} leads per square kilometre, "
+          f"{NAME[top_h]} per head. Niger, Somalia, South Sudan, the Central African Republic and Libya get almost nothing on either.",
+          f"Connectivity finance from all sources, commitments from 2024, as recorded to {AS_AT}. Regional commitments and the "
+          f"six smallest countries are left out. Grey: none recorded. Colours: five equal-count groups. Commitments, not disbursements.")
+    drawmap(s, perkm, 0.6, 2.25, 3.75, lambda v: f"{v:,.0f}", "US$ per square kilometre")
+    drawmap(s, perhd, 6.85, 2.25, 3.75, lambda v: f"{v:,.1f}" if v < 10 else f"{v:,.0f}", "US$ per head")
+
 # Bill's running order (2026-11-24): the whole picture, then the rise and its reality check
-ORDER = ["Where the money goes", "Who pays for what", "The foundations", "The rise of African finance", "But the rise"]
+ORDER = ["Where the money goes", "Who pays for what", "The foundations", "The rise of African finance", "But the rise", "Connectivity"]
 lst = prs.slides._sldIdLst
 rank = [next((i for i, t in enumerate(ORDER) if sl.shapes[0].text_frame.text.startswith(t)), 99) for sl in prs.slides]
 ids = list(lst)
