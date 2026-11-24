@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: NGA
-ledger_rows: 144
+ledger_rows: 147
 not_held: 8
-record: 968008c5f866
+record: 97a53df747cb
 ---
 
 # News, Oct – Nov 2026
@@ -1714,6 +1714,20 @@ Nigeria's National Population Commission opened a North-East zonal consultation 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UNHCR Digital Gateway for refugees and asylum-seekers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The Government of Nigeria and UNHCR launch the Digital Gateway to expand access to services for displaced and stateless people](https://www.unhcr.org/africa/news/press-releases/government-nigeria-and-unhcr-launch-digital-gateway-expand-access-services)** — UNHCR, 23 November 2026
+
+Online pre-registration and record updates for refugees; first government co-launch; Abuja first, Rwanda next.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -2492,6 +2506,20 @@ CITAD trained 51 women and girls in digital entrepreneurship in Jama'are, Bauchi
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Device affordability</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African smartphone shipments plunge 40%](https://www.itweb.africa/article/african-smartphone-shipments-plunge-40/xA9POvNEnGVqo4J8)** — ITWeb Africa, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Omdia 3Q26: 13.7m units; Nigeria -47%, Egypt -41%, Kenya -35%, South Africa -20%; feature phones +27%.
+
+</div>
+
+</div>
+
 ## Data
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
@@ -2565,6 +2593,20 @@ Nigeria's communications regulator lists the licensed ground segment operators f
 **[Internet Service Provider Data](https://www.ncc.gov.ng/market-data-reports/internet-service-provider-data)** — Nigerian Communications Commission, 13 November 2026
 
 Nigeria's communications regulator lists subscribers for each internet service provider. For the second quarter of 2026, Spectranet shows 111,384 and Starlink 98,642. The page also carries third quarter 2026 fibre figures, led by MTN with 242,916.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Agro-Productivity System (NAPS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG deploys AI to track Jigawa crops, farmland](https://punchng.com/fg-deploys-ai-to-track-jigawa-crops-farmland/)** — Punch, 17 November 2026
+
+NAPS steering committee inaugurated; 25 agents in 59 Jigawa communities; rice, wheat, maize pilot to April 2027.
 
 </div>
 
