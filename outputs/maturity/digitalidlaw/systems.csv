@@ -23,6 +23,7 @@ BFA,Unique electronic identification of the person (identifiant unique),identifi
 BFA,WURI programme,Programme WURI,other,,"Ministry of Digital Transition, Posts and Electronic Communication",national,2025-08-21-wuri-sensibilisation-bobo-dioulasso-identifiant-unique
 BFA,Unique electronic identification system (identifiant unique),système d'identification unique électronique de la personne,other,,Ministry in charge of digital transition,"national; linked to CNIB, passport, driving licence, health and bank records",2024-10-11-loi-identification-unique-electronique-personne-physique-adoptee
 BFA,CNIB,CNIB,other,,,,2024-10-11-loi-identification-unique-electronique-personne-physique-adoptee
+BFA,Yerekun (Identifiant Unique Electronique),"Yerekun, IUE",other,biometric enrolment kits,"Government of Burkina Faso, WURI programme",,2026-11-22-bfa-burkina-faso-enrolement-biometrique-de-masse-2-400-agents-deployes-sur
 BWA,National Registration Act (Chapter 01:02),National Registration Act,law,,Registrar of National Registration,,1986-12-31-national-registration-act
 BWA,National register and district registers of citizens (identity cards),National register,other,,Department of Civil and National Registration,national;district,1986-12-31-national-registration-act
 BWA,"National Registration Act, 1986 (No. 26)",National Registration Act,law,,Parliament of Botswana; Minister responsible for Home Affairs,,1986-12-24-national-registration-act-1986
@@ -256,6 +257,7 @@ NGA,National Identity Management Commission Act 2007,Nigeria,law,,NIMC,,2025-03-
 NGA,NIMC Act 2026,Nigeria,law,,NIMC,,2026-07-12-nga-tinubu-has-given-nimc-until-end-of-2026-to-enrol-every-nigerian-says-d
 NGA,National Identity Management Commission Act 2026,Nigeria,law,,NIMC,,2026-06-29-nga-thenigerialawyer-babalola-nimc-act-2026-data-protection
 NGA,NIMC Act 2026,Nigeria,law,,NIMC,,2026-07-13-nga-fg-revives-digital-postcode-after-20-years-begins-nin-integration
+NGA,NIMC Act 2026,National Identity Management Commission Act 2026,law,,National Identity Management Commission,,2026-11-23-nga-nimc-act-2026-preventing-digital-exclusion
 RWA,e-Indangamuntu (digital national ID),Digital ID,other,,National Identification Agency (NIDA),,2026-03-16 Digital IDs How registration is progressing so far
 RWA,Single Digital ID (SDID),Single Digital ID,other,Irembo account and digital wallet,National Identification Agency (NIDA),"banks, hospitals, telecom companies, government institutions",2026-03-26-govt-sets-2027-deadline-digital-id-newtimes
 RWA,Single Digital Identification System (SDIS),SDIS,other,Automated Biometric Identification System (ABIS),National Identification Agency (NIDA),public- and private-sector services,2025-08-08 Rwanda National Identification Agency begins digital ID enrollment
@@ -269,6 +271,7 @@ SEN,ECOWAS biometric national identity card,carte nationale d'identité biométr
 SEN,NEKKAL programme,Programme d'appui au renforcement du système d'information de l'état civil et à la consolidation d'un fichier national d'identité biométrique,other,,"ANEC; EU-funded, run by Civipol and Enabel",400 civil-status centres interconnected,2026-06-29-aps-nekkal-avancees-modernisation-etat-civil
 SEN,Registre national de l'Etat civil (RNEC),RNEC,other,LGEC civil-status management application,ANEC (Agence nationale de l'Etat civil),"civil-status centres and consular posts; users include DAF (identity), health, justice, passport, payroll bodies",2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall
 SEN,DAF (Identité) biometric identity system,DAF (CNI),other,,DAF,linked to the RNEC for authentication and biometric identity,2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall
+SEN,ECOWAS biometric identity card,Senegal,other,,,,2026-11-21-sen-assemblee-nationale-lannonce-inattendue-pour-nos-cartes-didentite-biometriques
 SLE,National Identification Number (NIN) and SIM registration programme,NIN,other,,,mobile subscribers; investigators,2026-08-05-government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud
 SLE,National Identification Number (NIN),NIN,other,,National Civil Registration Authority (NCRA),mobile operators,2026-07-30-natca-phase-out-unregistered-sims-link-national-id
 SOM,Civil registration and vital statistics system (Dad-dhigista iyo Tirakoobka Xaaladaha Madaniga),"Population Registration and Civil Status Statistics Law, Law No. 46",other,,"Agaasinka Adeegyada Dad-dhigista iyo Tirakoobka Xaaladaha Madaniga ah (Registrar General), under the Ministry of Interior, Federal Affairs and Reconciliation","federal, federal member states, Banadir, district, embassies and consulates",2026-04-05-somalia-population-registration-civil-status-law-46

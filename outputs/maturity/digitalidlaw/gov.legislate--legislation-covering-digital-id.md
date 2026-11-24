@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy sets a target of digital leg
 | Stage | Countries |
 |---|---|
 | 5 Mature | 6 |
-| 4 Operating | 25 |
+| 4 Operating | 26 |
 | 3 Established | 7 |
-| 2 Nascent | 9 |
+| 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 7 |
@@ -109,6 +109,13 @@ Botswana's 1986 registration law, amended in 2025, gives each registered person 
 - The 2025 amendment, not yet commenced, has the registrar assign a gender-neutral identity number to each person in the Unified Population Register and issue an identity card valid 10 years ([source, 2025-03-23](https://www.botswanalaws.com/PDF/StatutesActpdf/2025Actpdf/007.pdf)).
 - The National Registration (Amendment) Act 2025 (No. 7), assented 23 March 2025, amends the existing National Registration Act (Cap. 01:02); the amendment starts on a date the Minister sets by Gazette order, not yet stated ([source, 2025-03-23](https://www.botswanalaws.com/PDF/StatutesActpdf/2025Actpdf/007.pdf)).
 - The Minister of Labour and Home Affairs said the National Registration (Amendment) Act of 2025 now allows passports and driving licences as valid identification while identity cards (Omang) are being replaced; it is an Act of Parliament amending the national registration law ([source, 2026-03-02](https://dailynews.gov.bw/news-detail/90334)).
+
+### Burkina Faso: 4 Operating
+
+Burkina Faso's 2024 identity law frames the national enrolment begun in November 2026; no rule made under it is on record.
+
+- Africa24 TV reports that the Yerekun unique electronic identifier, enrolled nationally since 11 November 2026, is framed by a 2024 law ([source, 2024](https://africa24tv.com/burkina-faso-enrolement-biometrique-de-masse-2-400-agents-deployes-sur-pres-de-12-000-sites/)).
+- The article says the adopted law underpins a system giving each resident a random unique identifier, issued against biographic and biometric data (fingerprints and iris), and linked to the CNIB, passport, driving licence, patient file and bank account ([source, 2024-10-11](https://burkina24.com/2024/10/11/burkina-faso-la-loi-portant-identification-unique-et-electronique-de-la-personne-physique-adoptee/)).
 
 ### Cameroon: 4 Operating
 
@@ -308,13 +315,6 @@ Zimbabwe's 1976 National Registration Act is in force. No source found says whet
 
 - Statutory Instrument 10 of 2024, gazetted 30 January 2024, was made by the Minister of Home Affairs and Cultural Heritage under section 11 of the National Registration Act [Chapter 10:17], showing the Act in force ([source, 2024-01-30](https://www.veritaszim.net/sites/veritas_d/files/SI%202024-010%20National%20Registration%20%28Fees%29%20%28Amendment%29%20Regulations%2C%202024%20%28No.%2018%29.pdf)).
 - The National Registration Act [Chapter 10:17], an Act of Parliament commenced 24 September 1976, sets up the Registrar-General of National Registration, a register of residents and identity documents, and the consolidated text is stated as up to date as at 31 December 2016 ([source, 2016-12-31](https://zimlii.org/akn/zw/act/1976/36)).
-
-### Burkina Faso: 2 Nascent
-
-Burkina Faso's assembly adopted a unique electronic identification bill in October 2024. No source found says whether it has been promulgated.
-
-- At a WURI awareness workshop on 19 August 2025 the minister for digital transition said a law framing the unique electronic person identifier was adopted the previous year; the article does not say it was promulgated or in force ([source, 2025-08-19](https://www.sidwaya.info/identification-electronique-des-personnes-le-programme-wuri-sensibilise-a-bobo-dioulasso/)).
-- The transitional legislative assembly examined and adopted the bill on unique electronic identification of the natural person on 11 October 2024; the article does not mention promulgation ([source, 2024-10-11](https://burkina24.com/2024/10/11/burkina-faso-la-loi-portant-identification-unique-et-electronique-de-la-personne-physique-adoptee/)).
 
 ### Burundi: 2 Nascent
 
