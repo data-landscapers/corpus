@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-mar-loa-pole-digital-fao-geoservices-agricoles-par-satellite-et-ia",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The Pôle Digital, under the Ministry of Agriculture, says the digital system of geoservices built with the FAO LOA is now operated by the Pôle Digital itself.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Dispositif digital du Pôle Digital",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
