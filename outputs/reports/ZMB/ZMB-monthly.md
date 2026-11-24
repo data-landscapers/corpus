@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: ZMB
-ledger_rows: 40
+ledger_rows: 41
 not_held: 30
-record: e1c1d5b2ebad
+record: e9a82ca9ac82
 ---
 
 # News, Oct – Nov 2026
@@ -287,6 +287,20 @@ UNDP and the SMART Zambia Institute signed a memorandum of understanding on digi
 **[ATAF and Zambia partner on tax technology](https://theafricandaily.com/321415/business/tax/ataf-and-zambia-partner-on-tax-technology/)** — The African Daily, 21 November 2026
 
 The African Tax Administration Forum and the Zambia Revenue Authority signed a Memorandum of Agreement in Lusaka on 20 November 2026. It covers an African-built IT platform for the automatic exchange of tax information among African tax administrations. The World Bank Group is providing technical support.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">South Africa-Zambia customs interconnectivity agreement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SARS advances connected customs corridor to accelerate trade across Southern Africa | South African Revenue Service](https://www.sars.gov.za/media-release/sars-advances-connected-customs-corridor-to-accelerate-trade-across-southern-africa/)** — South African Revenue Service, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+SARS-Zambia Revenue Authority pre-arrival data exchange signed; Malawi done, Zimbabwe next, DRC earmarked.
 
 </div>
 
