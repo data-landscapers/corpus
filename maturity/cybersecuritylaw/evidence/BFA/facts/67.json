@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-23-bfa-burkina-261-millions-fcfa-perdus-dans-la-cybercriminalite-en-octobre",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "unnamed",
+   "fact": "The Ministry of Security reported 956 cybercrime victims, 21 arrests and 15 referrals to court in October 2026, without naming a law or offence.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Réflexe Sécurité tally",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
