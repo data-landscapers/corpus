@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-24 03:51 · **RENDER** · 41m · polled cycle; 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 31 editions pruned; deployed 861defb — ok
 2026-11-24 03:09 · **REBUILD** · 18m · aigovernment govai: 10 cells reassessed, 0 moved; second drafter 20/20; 54 searched, 80 staged; ~53M tokens, run beside aiabuse — ok
 2026-11-24 03:09 · **REBUILD** · 18m · aiabuse aiharm: 35 cells reassessed, 1 moved; second drafter 19/20; 54 searched, 101 staged; ~53M tokens — ok
 2026-11-24 02:46 · **REVIEW** · unclocked · COD: status 4 sections revised, 25 trimmed, progress 0 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
