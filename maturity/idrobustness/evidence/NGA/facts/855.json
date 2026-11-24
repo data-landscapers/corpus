@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-23-nga-nimc-act-2026-preventing-digital-exclusion",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "A Leadership editorial describes enrolment centres across the country operating the NIN and the NIMC database, where people pay fees to correct records.",
+   "as_of": "2026-11-23",
+   "date_precision": "day",
+   "system": "NIN / NIMC database",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN) and NIMC database",
+   "country_label": "NIN",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identity Management Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-23-mdg-andry-rabarisoa-et-johanna-randrianasolo-conseil-detat-simplifier-pour",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Johanna Randrianasolo said the Izaho Tokana biometric identification has begun its deployment.",
+   "as_of": "2026-11-23",
+   "date_precision": "day",
+   "system": "Izaho Tokana",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Izaho Tokana",
+   "country_label": "Madagascar",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

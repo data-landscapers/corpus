@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-23-bfa-burkina-1-449-volontaires-formes-pour-reussir-l-enrolement-national",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "President Traoré officially launched mass enrolment of the population into the Registre de l'identifiant unique électronique on 2026-11-11, and the digital transition ministry began training 1,449 volunteers (483 supervisors, 966 kit operators) on 2026-11-19 to run enrolment nationwide.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "Registre de l'identifiant unique électronique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre de l'identifiant unique électronique",
+   "country_label": "Registre de l'identifiant unique électronique (IU)",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministère de la Transition digitale",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
