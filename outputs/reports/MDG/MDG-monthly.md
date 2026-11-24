@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: MDG
-ledger_rows: 32
+ledger_rows: 33
 not_held: 5
-record: fd3dc06942af
+record: 53fe3eeeb8db
 ---
 
 # News, Oct – Nov 2026
@@ -71,6 +71,20 @@ Madagascar's Minister of Digital Development, Posts and Telecommunications, Mahe
 **[TÉLÉCOMMUNICATIONS - Les réformes au service du développement numérique](https://www.lexpress.mg/2026/11/telecommunications-les-reformes-au.html)** — L'Express de Madagascar, 5 November 2026
 
 L'Express de Madagascar reported on 5 November 2026 that the resignation of Minister Mahefa Andriamampiadana, accepted on 3 November, comes as the telecoms sector awaits regulatory reform. Bill 040/2026 aims to ease entry for new operators in a market of three. See the Madagascar entry on the minister's resignation for the main account.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National study on administrative simplification and digitisation (Conseil d'Etat)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ANDRY RABARISOA ET JOHANNA RANDRIANASOLO – Conseil d’État – « Simplifier pour lutter contre la corruption »](https://www.lexpress.mg/2026/11/andry-rabarisoa-et-johanna.html)** — L’Express de Madagascar, 23 November 2026
+
+PM mission letter of 3 Nov; preliminary study end-Nov 2026; RAHAKA 162,000 exchanges; 18% asked for unofficial payments.
 
 </div>
 
