@@ -31,6 +31,10 @@ stored, so a rule can be corrected and the whole history re-read under it:
   nearly all visits on that build within `CRAWLER_DAYS` are short too; real readers on the same
   build are not. Its rows are kept, because the rule reads them, so a day's class can move while
   its window is still filling;
+- **agent** — an address that sent the beacon but opened `BURST_PAGES` or more pages in one
+  second that day: a tool fetching every link on a page (an agent browser, "open all"), not
+  someone reading. One case so far, 28 October 2026: 45 country reports in a second. Its rows
+  are kept, like the crawler's;
 - **person** — anything else that ran the page's JavaScript, i.e. sent the `/cdn-cgi/rum`
   analytics beacon that day; the one sign a browser was really rendering the page;
 - **unknown** — the rest: a residential address that never sent the beacon (a person with
@@ -105,7 +109,8 @@ CRAWLER_PAGES = 2       # and views no more pages than this
 CRAWLER_DAYS = 14       # a build is judged on the visits this many days either side
 CRAWLER_MIN = 8         # and only with at least this many of them
 CRAWLER_SHARE = 0.9     # real builds run 30-50% short; the crawler's run 98-100%
-CLASSES = ("person", "crawler", "unknown", "bot", "cloud", "scanner", "own")
+BURST_PAGES = 10        # pages in one second from one address: no reader opens that many
+CLASSES = ("person", "agent", "crawler", "unknown", "bot", "cloud", "scanner", "own")
 # Bill's own networks, as address prefixes one a line, kept beside the database rather than in
 # the repository because they locate his home. His browser blocks the beacon, so he would
 # read as unknown anyway; this makes it a rule rather than an accident (Bill, 2026-10-29).
@@ -347,6 +352,8 @@ def classify(rows: list[sqlite3.Row], fleet: set[tuple[str, str]] = frozenset())
     """Class each row. Without `fleet` the crawler reads as person, which is what finds it."""
     fours =collections.Counter(r["clientIP"] for r in rows if r["edgeResponseStatus"] == "404")
     beacon = {r["clientIP"] for r in rows if r["clientRequestPath"] == "/cdn-cgi/rum"}
+    second = collections.Counter((r["clientIP"], r["datetime"][:19]) for r in rows if page(r))
+    burst = {ip for (ip, _), n in second.items() if n >= BURST_PAGES}
     own = own_networks()
     out = []
     for r in rows:
@@ -358,6 +365,8 @@ def classify(rows: list[sqlite3.Row], fleet: set[tuple[str, str]] = frozenset())
             out.append("scanner")
         elif CLOUD_ASN.search(r["clientASNDescription"]):
             out.append("cloud")
+        elif r["clientIP"] in burst:
+            out.append("agent")
         elif r["clientIP"] in beacon:
             out.append("crawler" if (r["day"], r["clientIP"]) in fleet else "person")
         else:

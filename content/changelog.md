@@ -1,3 +1,7 @@
+## 24 November 2026
+
+- Site statistics no longer count an address that opens ten or more pages in one second as a reader. One such visit on 28 October is removed: 60 fewer pages that week, one fewer user.
+
 ## 23 November 2026
 
 - Methodology has a new Statistics page. It shows what the corpus has added, how the site is used and who has cited it.
