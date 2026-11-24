@@ -1,55 +1,55 @@
 iso3,stage,use,source,series,stage_sources
-AGO,3,published,education;health,,AGO-003;AGO-002
+AGO,4,published,education;health;other,other,AGO-008;AGO-002
 BDI,4,published,education;health;other,health,BDI-005
 BEN,4,published,civil-registration,civil-registration,BEN-004
 BFA,4,published,health,health,BFA-002
-BWA,3,published,civil-registration,,BWA-001
+BWA,4,published,civil-registration,,BWA-001;BWA-004
 CAF,3,published,education,,CAF-002
-CIV,3,published,civil-registration,,CIV-001
+CIV,4,published,civil-registration,,CIV-004;CIV-001
 CMR,unplaced,,,,
-COD,2,preparing,,,COD-001
-COG,no evidence,,,,
+COD,2,preparing,,,COD-001;COD-002
+COG,2,preparing,,,COG-004
 COM,4,published,,health,COM-002
-CPV,3,published,civil-registration,,CPV-001
-DJI,no evidence,,,,
+CPV,3,published,civil-registration;health,,CPV-001;CPV-007
+DJI,unplaced,,,,
 DZA,4,published,civil-registration,,DZA-003;DZA-001
 EGY,4,published,education,civil-registration,EGY-001
 ERI,4,published,education,education,ERI-003
-ETH,3,published,education,,ETH-001
-GAB,no evidence,,,,
-GHA,4,published,civil-registration,,GHA-004;GHA-005
+ETH,3,published,education,,ETH-001;ETH-002
+GAB,2,preparing,,,GAB-002
+GHA,4,published,civil-registration;health,,GHA-004;GHA-005
 GIN,no evidence,,,,
-GMB,no evidence,,,,
-GNB,2,preparing,,,GNB-001
-GNQ,no evidence,,,,
+GMB,4,published,police;transport,police;transport,GMB-007
+GNB,3,published,civil-registration;health,,GNB-002
+GNQ,2,preparing,,,GNQ-006
 KEN,4,published,civil-registration,civil-registration,KEN-003
-LBR,3,published,education;health;police;transport,,LBR-001
+LBR,4,published,education;health;police;transport;other,,LBR-005;LBR-001
 LBY,unplaced,,,,
 LSO,4,published,civil-registration,civil-registration,LSO-005
 MAR,no evidence,,,,
-MDG,no evidence,,,,
-MLI,3,published,health;social-security,,MLI-010
-MOZ,2,preparing,,,MOZ-001
-MRT,no evidence,,,,
+MDG,4,published,health,health,MDG-004
+MLI,4,published,health;customs;social-security,customs,MLI-012
+MOZ,3,published,civil-registration,,MOZ-004;MOZ-003
+MRT,2,preparing,,,MRT-001
 MUS,3,published,civil-registration,,MUS-001
 MWI,4,published,civil-registration,,MWI-003;MWI-001
 NAM,4,published,civil-registration;education,civil-registration;education,NAM-001;NAM-004
 NER,3,published,civil-registration,,NER-002
-NGA,2,preparing,,,NGA-001
+NGA,2,preparing,,,NGA-001;NGA-004
 RWA,4,published,civil-registration;education;health,civil-registration,RWA-001;RWA-007
 SDN,no evidence,,,,
 SEN,2,preparing,,,SEN-001
-SLE,3,published,health,,SLE-003
+SLE,4,published,civil-registration;health,,SLE-006;SLE-008
 SOM,4,published,education;health;justice;other,health,SOM-002
 SSD,3,published,education;health,,SSD-001;SSD-003
 STP,unplaced,,,,
-SWZ,4,published,civil-registration,civil-registration,SWZ-003;SWZ-007
-SYC,4,published,civil-registration;health,,SYC-001;SYC-004
-TCD,2,preparing,,,TCD-001
-TGO,3,published,education;health;social-security;justice,,TGO-001
+SWZ,4,published,civil-registration;police,civil-registration,SWZ-003;SWZ-007
+SYC,4,published,civil-registration;health;other,,SYC-001;SYC-004
+TCD,2,preparing,,,TCD-004;TCD-001
+TGO,4,published,education;health;social-security;justice,,TGO-001;TGO-005
 TUN,4,published,customs;tax;social-security,,TUN-001;TUN-002
 TZA,4,published,health;tax,health,TZA-004
-UGA,3,published,police,,UGA-006
+UGA,3,published,civil-registration;health;police,,UGA-006;UGA-009
 ZAF,4,published,,police,ZAF-001
-ZMB,no evidence,,,,
-ZWE,3,published,civil-registration,,ZWE-001
+ZMB,3,published,civil-registration,,ZMB-001
+ZWE,4,published,civil-registration;transport;other,transport,ZWE-007

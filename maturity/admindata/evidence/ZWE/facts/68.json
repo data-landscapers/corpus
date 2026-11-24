@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-zwe-human-settlement-and-environmental-health-report-2025",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "ZIMSTAT's Human Settlement and Environmental Health Report 2025 says its statistics were compiled using administrative data from the Ministry of Health and Child Care and the Food and Nutrition Council, with disease case tables sourced to the health ministry.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Human Settlement and Environmental Health Report 2025",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "source",
+   "value": "health",
+   "fact": "ZIMSTAT's Human Settlement and Environmental Health Report 2025 draws its OPD acute respiratory infection, malaria, schistosomiasis, waterborne disease and cancer tables from Ministry of Health and Child Care administrative data.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Human Settlement and Environmental Health Report 2025",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Human Settlement and Environmental Health Report 2025",
+   "country_label": "Human Settlement and Environmental Health Report 2025",
+   "class": "admin",
+   "platform": "PDF report",
+   "owner": "ZIMSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

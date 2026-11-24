@@ -21,12 +21,12 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 | Stage | Countries |
 |---|---|
 | 5 Mature | 0 |
-| 4 Operating | 23 |
+| 4 Operating | 25 |
 | 3 Established | 13 |
-| 2 Nascent | 7 |
+| 2 Nascent | 8 |
 | 1 Absent | 0 |
-| Unplaced | 6 |
-| No evidence | 5 |
+| Unplaced | 5 |
+| No evidence | 3 |
 
 ## Countries
 
@@ -114,6 +114,12 @@ Statistics from education records were published twice in three years, the lates
 - The portal presents education statistics from the ministry's school and learner records for 2024-25; no other record-holder is named ([source, 2025](https://www.emis-moe-lib.org/)).
 - LISGIS published the 2023 Socioeconomic Statistical Bulletin (Vol. 4 No. 01, December 2023), compiled mainly from ministry, agency and commission administrative data (education, health, security, trade, transport and others), with most data covering 2016-2022 ([source, 2023-12](https://lisgis.gov.lr/uploads/statisticalbulletines/socialstatisticsBulletin2023.pdf)).
 
+### Madagascar: 4 Operating
+
+The health ministry's yearbook, from facility reports, has appeared since 1998, the latest in 2024; no other source is known.
+
+- The health yearbook is in its 26th edition since 1998, drawn from facility monthly activity reports ([source, 2024-02-24](https://instat.mg/p/msanp-annuaire-des-statistiques-du-secteur-sante-de-madagascar-2023)).
+
 ### Mali: 4 Operating
 
 INSTAT has published trade statistics from customs declarations every quarter since 2024; health statistics are known in one edition.
@@ -167,6 +173,13 @@ Statistics from health records were published twice in three years, the latest i
 
 - The Ministry of Health states that, since 2009, its Monitoring and Evaluation Unit has consistently published the Annual Health Statistical Tables and Figures report each year for the preceding calendar year; this edition was published September 2025 ([source, 2025-09](https://www.moh.go.tz/storage/app/uploads/public/698/4e8/b7b/6984e8b7b067c606076637.pdf)).
 
+### Togo: 4 Operating
+
+Justice records appeared in two publications, the latest in 2026; no other source is known to be published twice.
+
+- INSEED released the revised Annuaire statistique national 2024 in August 2026 (original December 2025), covering 2020 to 2024 and drawing mainly on administrative reports and sectoral information systems of ministries, with chapters on education, health, justice, social security and more; 63 of 67 targeted structures returned data ([source, 2026-08-01](https://inseed.tg/download/7668/)).
+- The ministry says the 2022 justice yearbook rests on field collection of data from judicial services, courts, penitentiary establishments and maisons de justice, compiled by its statistics unit ([source, 2023-12-06](https://justice.gouv.tg/atelier-de-validation-de-lannuaire-statistique-et-du-document-danalyse-des-indicateurs-cles-2022-du-secteur-de-la-justice/)).
+
 ### Tunisia: 4 Operating
 
 Statistics from social security records were published twice in three years, the latest in 2025; no source found reports three sources published twice.
@@ -211,6 +224,12 @@ Statistics from civil registration records were published in 2024; no administra
 - The Births and Deaths Registry published its 2022 Statistical Report: Death Registration, which presents statistics on deaths registered in 2022 drawn from all 261 districts; the preface calls it the inaugural statistical report by the Registry; as_of is the publication date 2024 (copyright 2024), the figures cover 2022 ([source, 2024-01-01](https://bdr.gov.gh/storage/formidable/7/STATISTICAL-REPORT-ON-DEATH-REGISTRATION-2022.pdf)).
 - The Births and Deaths Registry published its 2022 Statistical Report Birth Registration, with sections on birth registration process, data compilation and data source and figures on registered births in 2022 by region, sex, place of birth and mother's age; as_of is the publication date 2024 (copyright 2024), the figures cover 2022 ([source, 2024-01-01](https://bdr.gov.gh/storage/formidable/7/STATISTICAL-REPORT-ON-BIRTH-REGISTRATION-2022.pdf)).
 
+### Guinea-Bissau: 3 Established
+
+Vital statistics from civil registration and health records were published in 2024; no source is known to be published twice.
+
+- The Instituto Nacional de Estatísticas yearbook of vital statistics for 2018-2022 draws on paper civil-registration records of births, marriages and deaths held by the Ministry of Justice (databases sent to INE annually in Excel), with the RapidPro birth-registration platform, and on the DHIS2 health information system for deaths and causes; as_of is the document's published date, inferred from the PDF's creation date (2024-07-26) as the imprint carries none; the figures cover 2018-2022 ([source, 2024-07-26](https://www.stat-guinebissau.com/Menu_principal/IV_RGPH/rgph1/projecoes/Anuario%20Final_de_Estatisticas_Vitais.pdf)).
+
 ### Lesotho: 3 Established
 
 Statistics from civil registration records were published in 2024; no administrative source is known to have been published twice since 2023.
@@ -248,12 +267,6 @@ Statistics from health records were published in 2025; no administrative source 
 
 - The Ministry of Health, with the National Bureau of Statistics, published the inaugural 2025 Health Statistics Abstract covering 2021 to 2024, drawing routine facility data from DHIS2 alongside surveys and modelled estimates; the document gives no release date beyond its 2025 publication year, so the published date is used ([source, 2025](http://www.nbs.gov.ss/assets/images/2025%20Health%20Statistical%20Abstract.pdf)).
 
-### Togo: 3 Established
-
-Statistics from education records were published in 2026; no administrative source is known to have been published twice since 2023.
-
-- INSEED released the revised Annuaire statistique national 2024 in August 2026 (original December 2025), covering 2020 to 2024 and drawing mainly on administrative reports and sectoral information systems of ministries, with chapters on education, health, justice, social security and more; 63 of 67 targeted structures returned data ([source, 2026-08-01](https://inseed.tg/download/7668/)).
-
 ### Uganda: 3 Established
 
 Statistics from police records were published in 2026; no administrative source is known to have been published twice since 2023.
@@ -266,23 +279,29 @@ Work to draw statistics from administrative records was under way in 2025; nothi
 
 - The Ministry of National Education's planning, analysis and school map directorate held a validation workshop on 7 October 2025 in N'Djamena for the 2024-2025 school statistical yearbook; the document gives no release date for it ([source, 2025-10-07](https://www.ndjamenaactu.com/2025/10/07/education-la-statistique-scolaire-2024-2025-en-validation/)).
 
+### Congo: 2 Nascent
+
+Work towards sharing agency databases for trade statistics began in 2025; nothing published since 2023 is known, so the stage is early.
+
+- At a workshop on 10 November 2025 the Institut national de la statistique, customs, the BEAC, SNPC, the ports and the single window agreed to share their databases for trade statistics, adopted a draft decree on data-transmission obligations, and planned a pilot collection into an INS data warehouse from January ([source, 2025-11-10](https://congo-b.com/statistiques-export-lins-muscle-ses-outils/)).
+
 ### DR Congo: 2 Nascent
 
 Work to draw statistics from administrative records was under way in 2025; nothing published since 2023 is known.
 
 - A joint UN pilot (UNICEF, BCNUDH, UNHCR, UNFPA, funded by the Joint SDG Fund) is digitalising civil registration of births, marriages and deaths in Masina commune, Kinshasa, on DHIS2, with technical support from the national statistics institute (INS), to generate statistics for SDG monitoring; the pilot is described as under way (article published 2025-08-18, no start date given) ([source, 2025-08-18](https://drc.unfpa.org/fr/news/rdc-masina-commune-pilote-pour-la-digitalisation-des-faits-de-letat-civil)).
 
+### Equatorial Guinea: 2 Nascent
+
+A 2025 workshop assessed administrative sources of migration data; no published statistics from records are known.
+
+- STATAFRIC and Statistics Sweden ran a 16-18 December 2025 workshop with INEGE in Malabo that assessed administrative migration data sources, trained participants, drafted terms of reference for a national migration data working group and set a roadmap ([source, 2025-12-18](https://statafric.au.int/en/news/press-releases/2025-12-19/enhancing-migration-data-central-africa-statafric-statistics-sweden)).
+
 ### Gabon: 2 Nascent
 
 Work to draw statistics from administrative records was under way in 2024; nothing published since 2023 is known.
 
 - L'Union reports a Libreville workshop opened 8 July 2024 to evaluate the plan of an education statistical yearbook, following a school data collection involving several administrations including the Direction generale de la Statistique ([source, 2024-07-08](https://union.sonapresse.com/fr/education-vers-lelaboration-dun-annuaire-statistique)).
-
-### Guinea-Bissau: 2 Nascent
-
-Work to draw statistics from administrative records was under way in 2025; nothing published since 2023 is known.
-
-- UNFPA, the National Institute of Statistics (INE) and the Ministry of Justice and Human Rights ran a five-day descriptive statistics training (4-8 August 2025, Bissau) for 42 professionals, including civil registry technicians from all nine regions, to improve the accuracy of vital statistics ([source, 2025-08-08](https://guinea-bissau.unfpa.org/en/news/strengthening-guinea-bissaus-future-civil-registry-professionals-master-data-skills)).
 
 ### Mauritania: 2 Nascent
 
@@ -305,12 +324,6 @@ Work to draw statistics from administrative records was under way in 2026; nothi
 ### Cameroon: Unplaced
 
 No statistics from administrative records published since 2023, or work towards them, are on record, so no stage is set.
-
-Not established: No statistics from administrative records published, and no work towards them, is on record since October 2023.
-
-### Congo: Unplaced
-
-Yearbooks carried figures from ministry records up to 2018 to 2020; nothing published since 2023 is known, so no stage is set.
 
 Not established: No statistics from administrative records published, and no work towards them, is on record since October 2023.
 
@@ -338,19 +351,7 @@ In 2023 the statistics agency said it produces annual births and deaths statisti
 
 Not established: No source found dates an edition of statistics from administrative records.
 
-### Equatorial Guinea: No evidence
-
-Nothing found says whether the country draws statistics from administrative records, so no stage is set.
-
-Not established: Nothing found names statistics drawn from administrative records, or says there are none.
-
 ### Guinea: No evidence
-
-Nothing found says whether the country draws statistics from administrative records, so no stage is set.
-
-Not established: Nothing found names statistics drawn from administrative records, or says there are none.
-
-### Madagascar: No evidence
 
 Nothing found says whether the country draws statistics from administrative records, so no stage is set.
 

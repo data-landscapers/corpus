@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-uga-2025-annual-report-strengthening-civil-registration-and-vital-statisti",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "The Data for Health 2025 annual report says UBOS completed Uganda's first Annual Vital Statistics Report with cause-of-death analysis, reviewed by NIRA and pending dissemination after executive approval.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Annual Vital Statistics Report",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "source",
+   "value": "civil-registration;health",
+   "fact": "The report says the first Annual Vital Statistics Report, completed by UBOS, rests on cause-of-death analysis of death notification and medical certification data from health facilities, in a pipeline with NIRA.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Annual Vital Statistics Report",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Annual Vital Statistics Report",
+   "country_label": "Annual Vital Statistics Report (first, 2025)",
+   "class": "admin",
+   "platform": "WHO ANACOD3",
+   "owner": "UBOS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

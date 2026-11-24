@@ -9,6 +9,7 @@ AGO,Anuario Estatistico do Ensino Superior 2023-2024,Anuario Estatistico do Ensi
 AGO,Anuario de Estatisticas Sociais 2017-2022,Anuario de Estatisticas Sociais 2017-2022,admin,,INE,,2024-01-01-ago-anuario-de-estatisticas-sociais-2017-2022
 AGO,SIGE,Anuario Estatistico da Educacao 2022/2023,admin,SIGE,Ministry of Education (GEPE),,2025-01-01-ago-anuario-estatistico-da-educacao-2022-2023-med
 AGO,Anuário Estatístico da Educação,Anuário Estatístico da Educação,other,,"Gabinete de Estudos, Planeamento e Estatística, Ministério da Educação",,2026-08-05-ago-empresa-angolana-assume-implementacao-tecnica-do-sistema-de-dados-da-e
+AGO,Portal da Indústria,Portal da Indústria (MINDCOM),other,web portal,Ministério da Indústria e Comércio,,2026-10-09-ago-inconsistencias-estatisticas-ditam-ruptura-entre-ine-e-ministerio-da-i
 BDI,"Annuaire statistique du MCTIT, edition 2024",Annuaire statistique du MCTIT 2024,admin,,"Ministere du Commerce, du Transport, de l'Industrie et du Tourisme",,2026-01-01-mctit-annuaire-statistique-edition-2024
 BDI,"Annuaire statistique de l'education 2024-2025, Tome 2",Annuaire statistique de l'education 2024-2025,admin,,"MENRS, Bureau de la Planification et des Statistiques de l'Education",,2025-12-01-menrs-annuaire-statistique-education-2024-2025-tome-2
 BDI,"Annuaire statistique du Burundi, edition 2023",Annuaire statistique du Burundi 2023,admin,,Institut National de la Statistique du Burundi (INSBU),,2024-12-01-insbu-annuaire-statistique-du-burundi-edition-2023
@@ -46,6 +47,7 @@ COD,Masina civil registration digitalisation pilot (DHIS2),DR Congo,vital,DHIS2,
 COD,"Annuaire statistique de l'enseignement preprimaire, primaire et secondaire 2023-2024",Annuaire statistique scolaire 2023-2024,admin,,Ministry of National Education,,2026-10-03-cod-rdc-lannuaire-statistique-scolaire-2023-2024-desormais-accessible-au-p
 COG,SIGAS-TPV,SIGAS-TPV,other,digital platform built by Intercom,Pool des Transports Publics de Voyageurs (Ministry of Finance sponsored),,2026-06-30-cog-lancement-plateforme-sigas-tpv-mfbpp
 COG,Balance des paiements (BEAC),Balance des paiements 2026 collection,other,,BEAC direction nationale,,2026-04-22-beac-balance-des-paiements-collecte-donnees-ldb
+COG,INS data warehouse for foreign trade statistics,Foreign trade statistics framework (Igne workshop),admin,digital warehouse managed by INS,Institut national de la statistique,,2025-11-11-cog-commerce-exterieur-vers-des-donnees-fiables
 COM,DHIS 2 / health information system (DISS),Comoros,admin,DHIS2,"Direction de l'Information et des Statistiques Sanitaires, Ministry of Health",,2025-07-10-com-rapport-annuel-performances-et-perspectives-2024
 COM,DHIS 2 with WHO Data Quality Tool,Comoros,admin,DHIS2,Direction de l'Information et des Statistiques Sanitaires,,2024-06-01-com-mptf-sids-joint-programme-annual-report-2023
 COM,Civil registration digitisation (Amecc project) with personal identification number (NIP),Comoros,,,Government of Comoros; funded by French embassy with UNICEF support,,2026-03-27-com-wearetech-numerisation-etat-civil-nip
@@ -84,6 +86,7 @@ ETH,Education Statistics Annual Abstract 2022/2023,Education Statistics Annual A
 ETH,National eCRVS system,National eCRVS system (Civil and Family Registration System),other,"homegrown, decentralised, multi-tenant",Immigration and Citizenship Service,"federal, regions, city administrations",2026-07-01-ethiopia-national-ecrvs-system-implementation-apai-crvs
 ETH,Statistical Abstract,Statistical Abstract 2015 E.C.,admin,print; website; IMIS,Ethiopian Statistics Service,,2025-02-05-eth-ess-statistical-abstract-2015-ec-print-release
 ETH,"External Merchandise Trade Statistics, Fourth Quarter, 2023","External Merchandise Trade Statistics, Fourth Quarter, 2023",admin,,Ethiopian Statistical Service,,2024-05-01-eth-ess-external-merchandise-trade-statistics-q4-2023
+ETH,Migration data management team and migration database,Ethiopian Statistics Service migration data MoU,admin,migration database to be set up at the Service,Ethiopian Statistics Service,,2025-01-16-eth-ess-signs-migration-data-mou-with-12-federal-institutions
 GAB,Système d'information énergétique (SIE),Gabon national energy information system,other,,Ministère de l'Accès universel à l'Eau et à l'Énergie,,2026-09-23-gab-agp-sie-cemac-recensement-indicateurs
 GAB,Annuaire statistique de la santé,Gabon,admin,,Ministère de la Santé,,2024-02-23-gab-plan-national-de-developpement-sanitaire-du-gabon-2024-2028
 GAB,Annuaire statistique 2020,Annuaire statistique 2020,other,,Ministry of Health,,2024-07-09-gab-lunion-egabon-sis-annuaire-statistique-sante-2020
@@ -99,6 +102,8 @@ GHA,Education Management Information System (EMIS),EMIS,other,,Ministry of Educa
 GHA,2022 Statistical Report: Death Registration,Ghana,vital,,Births and Deaths Registry,,2024-01-01-gha-2022-statistical-report-death-registration
 GHA,2022 Statistical Report Birth Registration,Ghana,vital,,Births and Deaths Registry,,2024-01-01-ghana-births-and-deaths-registry-2022-statistical-report
 GHA,GSS administrative data-sharing MoUs,GSS data-sharing MoUs with 25 MDAs,other,,Ghana Statistical Service,,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership
+GHA,Constituency profile reports,Constituency profile reports 2024,admin,,Ghana Statistical Service,,2025-03-31-gha-inclusive-data-charter-monitoring-form-annual-champion-progress-survey
+GHA,GSS StatsBank,GSS StatsBank,other,web portal,Ghana Statistical Service,,2025-03-31-gha-inclusive-data-charter-monitoring-form-annual-champion-progress-survey
 GIN,Registre National de l'État Civil / plateforme de numérisation de l'état civil,National Civil Registry digitisation platform,other,,Ministry of Territorial Administration and Decentralisation,,2026-08-11-guinea-etat-civil-decentralisation-npi
 GIN,Registre National des Personnes Physiques (NPI),National Register of Natural Persons,other,,,,2026-08-11-guinea-etat-civil-decentralisation-npi
 GIN,Tableau des opérations financières de l'État (TOFE),Tableau des opérations financières de l'État,other,,"Direction générale du Budget, Ministère de l'Économie, des Finances et du Budget",,2026-08-08-guinea-comite-statistiques-finances-publiques
@@ -107,6 +112,7 @@ GMB,eCRVS,eCRVS (electronic civil registration),other,,Registrar General CRVS,,2
 GMB,The 2024 Gambia Statistical Abstract,The 2024 Gambia Statistical Abstract,admin,gbosdata.org,Gambia Bureau of Statistics,,2026-10-16-gmb-gbos-downloads
 GMB,MoBSE Statistical Yearbook,Statistical Yearbook 2026,admin,,Ministry of Basic and Secondary Education,,2026-09-02-gmb-the-gambia-launches-education-data-center-to-publicly-share-education-data
 GMB,Annual statistical yearbook data 2023 and 2024 (MoBSE),Gambia,other,edugambia.gm download folder,Ministry of Basic and Secondary Education,,2026-03-04-gmb-pamp-dli-5-1-mobse-datasets
+GMB,Transport Statistics 2025 Summary Report,Transport Statistics 2025 Summary Report,admin,report,Gambia Bureau of Statistics,,2026-06-01-gmb-transport-statistics-2025-summary-report
 GNB,Civil registration (civil registry offices),Registo civil,other,,Ministry of Justice and Human Rights,,2025-08-08-unfpa-guinea-bissau-civil-registry-statistics-training
 GNB,Anuário Estatísticas Vitais da Guiné-Bissau 2018-2022,Guinea-Bissau,vital,,Instituto Nacional de Estatísticas,,2022-01-01-gnb-ine-anuario-estatisticas-vitais-2018-2022
 GNB,RapidPro,Guinea-Bissau,,RapidPro,,,2022-01-01-gnb-ine-anuario-estatisticas-vitais-2018-2022
@@ -154,6 +160,7 @@ MDG,RAHAKA,RAHAKA national interoperability system,other,,UGD / Ministry of Digi
 MDG,National biometric enrolment (NUI),National biometric enrolment,other,,Ministry of the Interior,,2026-01-30-national-biometric-enrolment-begins
 MDG,Système Informatisé de l'Etat Civil Malagasy,Système Informatisé de l'Etat Civil Malagasy,other,,,,2018-11-27-loi-2018-027-etat-civil-who-int
 MDG,SE&AM,"Système de suivi et d'évaluation de l'eau, de l'assainissement et de l'hygiène (SE&AM)",other,"dashboards, indicators, infrastructure mapping, financing tracking","Ministère de l'Eau, de l'Assainissement et de l'Hygiène (MEAH)",fokontany to national,2026-11-19-mdg-madagascar-secteur-eah-les-donnees-pour-mieux-piloter-les-investissements
+MDG,Annuaire des Statistiques du Secteur Santé de Madagascar 2023,Annuaire des Statistiques du Secteur Santé 2023,admin,,Ministère de la Santé Publique,,2024-02-24-mdg-annuaire-des-statistiques-du-secteur-sante-de-madagascar-2023
 MLI,SNISI,SNISI,other,,Ministry of Health,,2026-09-03-mali-snisi-a-propos-de-ce-systeme
 MLI,INSTAT microdata catalogue (NADA),Catalogue de données INSTAT,other,NADA,INSTAT,,2026-08-10-mali-instat-microdata-catalogue
 MLI,sante.gov.ml portal,Portail national de santé numérique,other,,Ministry of Health and Social Development,,2026-07-08-techgriot-mali-national-digital-health-portal
@@ -303,11 +310,13 @@ TCD,Civil registration and vital statistics (CRVS) system,CRVS Chad,other,,,,202
 TCD,ANATS civil status digitalisation pilot,Agence nationale des titres securises,other,,ANATS,,2022-05-06-gff-enregistrement-statistiques-faits-etat-civil-tchad
 TCD,dispositif de collecte et d'analyse des données sur les faits d'état civil,Tchad (N'Djamena pilot),admin,,INSEED,N'Djamena pilot,2024-05-28-tcd-etat-civil-l-inseed-met-en-place-un-dispositif-d-enregistrement
 TCD,Statistiques des exportations du Tchad 2025; Importations 2025 (Douala and Kribi),Chad,other,,"COC-Tchad (Conseil des Chargeurs du Tchad), listed on the customs page",,2025-01-01-tcd-donnees-publiques-dgddi
+TCD,"RGPH-3, enterprise census, ECOSIT survey",Chad,other,,INSEED,,2026-11-19-tcd-tchad-la-banque-mondiale-evalue-les-avancees-du-systeme-stat
 TGO,Open Data Portal (ODP 1.0 / ODP 2.0),Plateforme de Données Ouvertes ODP 2.0,other,SDMX,INSEED,,2026-04-30-inseed-atelier-sdmx-plateforme-odp2-0
 TGO,Annuaire statistique national 2024 Version révisée,Annuaire statistique national 2024,admin,,INSEED,,2026-08-01-inseed-annuaire-statistique-national-2024
 TGO,Annuaire national 2025-2026,Annuaire national 2025-2026,other,,"DPSSE, Ministry of primary, secondary, technical education",,2026-01-01-tgo-liste-des-annuaires-nationaux
 TGO,SIGE,Togo,admin,DHIS2; StatEduc; CSPro,Ministry of Education,national; regional; inspection,2026-05-04-gpe-kix-study-tour-education-data-system
 TGO,StatEduc,Togo,admin,StatEduc; DHIS2,"Ministry of Primary, Secondary, Technical Education",,2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems
+TGO,Annuaire statistique 2022 du secteur de la justice,Annuaire statistique 2022 (justice),admin,yearbook,"Ministère de la Justice, cellule statistique",,2023-12-06-tgo-justice-validation-annuaire-statistique-2022
 TUN,La protection sociale en Tunisie a travers le RGPH 2024 : etat des lieux,Bulletin protection sociale RGPH 2024 (Sept 2025),admin,PDF bulletin,Institut National de la Statistique,,2025-09-01-ins-protection-sociale-rgph-2024-administrative
 TUN,RGPH 2024,Recensement General de la Population et de l'Habitat 2024,other,,Institut National de la Statistique,,2025-09-01-ins-protection-sociale-rgph-2024-administrative
 TUN,Statistiques issues du Repertoire National des Entreprises 2023,"Statistiques issues du RNE, edition 2024 (data to 2023)",admin,PDF publication,Institut National de la Statistique,,2025-06-03-tunisie-ins-statistiques-repertoire-national-entreprises-2023
@@ -338,6 +347,7 @@ UGA,Harmonized Data Portal,Harmonized Data Portal,other,,Uganda Bureau of Statis
 UGA,National Monitoring and Evaluation System,National Monitoring and Evaluation System,other,,Office of the Prime Minister M&E Department,,2026-07-30-uganda-pstp-secretariat-performance-reporting-quality-mdas
 UGA,Annual Crime Report 2025,Uganda,admin,,Uganda Police Force,,2026-04-02-upf-annual-crime-report-2025
 UGA,Annual Crime Report 2024,Uganda,admin,,Uganda Police Force,,2025-02-01-uga-annual-crime-report-2024
+UGA,Annual Vital Statistics Report,"Annual Vital Statistics Report (first, 2025)",admin,WHO ANACOD3,UBOS,,2026-01-01-uga-2025-annual-report-strengthening-civil-registration-and-vital-statisti
 ZAF,SAPS quarterly crime statistics,SAPS quarterly crime statistics,admin,CAS/ICDMS,South African Police Service,,2025-12-31-zaf-question-nw6007-to-the-acting-minister-of-police
 ZAF,Crime Administration System (CAS)/Investigate Case Docket Management System (ICDMS),CAS/ICDMS,other,,South African Police Service,,2025-12-31-zaf-question-nw6007-to-the-acting-minister-of-police
 ZAF,Statistics of insolvencies (P0043.2),"Statistics of insolvencies, June 2026",admin,,Statistics South Africa,,2026-07-21-data-on-insolvencies-now-available
@@ -354,3 +364,5 @@ ZWE,Vital Statistics Report 2023-2024,Vital Statistics Report 2023-2024,vital,,Z
 ZWE,Zimbabwe civil registration and vital statistics system,Zimbabwe CRVS strategic action plan 2023-2027,other,,civil registration,,2024-12-11-zwe-birth-registration-steadily-increases-worldwide-but-150-million-childr
 ZWE,2025 Annual Gross Domestic Product figures,ZIMSTAT 2025 Annual GDP release (2026-06-19),other,,ZIMSTAT,,2026-06-19-zimstat-2025-annual-gdp-figures
 ZWE,Transport Statistics Report,"Transport Statistics Report (quarterly, 2023 Q3 to 2025 Q4)",admin,,ZIMSTAT,,2026-01-01-zwe-transport-and-infrastructure-zimstat
+ZWE,Extreme Events and Disasters Report 2024,Extreme Events and Disasters Report 2024,admin,,Zimbabwe National Statistics Agency,,2026-01-01-zwe-extreme-events-and-disasters-report-2024
+ZWE,Human Settlement and Environmental Health Report 2025,Human Settlement and Environmental Health Report 2025,admin,PDF report,ZIMSTAT,,2026-01-01-zwe-human-settlement-and-environmental-health-report-2025
