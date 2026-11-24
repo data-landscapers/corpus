@@ -8,6 +8,7 @@ Reads three files and nothing else: `site/finance/all/all-finance.csv`, `lookups
 `site/maturity/data/africa.json`. Every slide covers YEARS. Bill's running order (2026-11-24):
 
 1. Where the money goes: a pie of chapters, each big chapter's topics as bars drawn out from it.
+1a. Where the money comes from: the same design, sources and their instruments; budgets get no panel.
 2. Who pays for what: topics over US$500 million, total and share by source.
 3. The foundations: FOUNDATIONS (Bill's ten) as 100% bars by source, under all digital finance.
 4. The rise of African finance: yearly totals by source.
@@ -376,6 +377,78 @@ if True:
         ln = s.shapes.add_connector(1, Inches(sx), Inches(sy), Inches(tx), Inches(ty))
         ln.line.color.rgb = rgb(COL[k]); ln.line.width = Pt(1.25)
 
+# ---------- Where the money comes from: types, with each one's instruments drawn out ----------
+if True:
+    inst = collections.defaultdict(collections.Counter)   # type -> instrument -> US$ m
+    for r in INYEARS: inst[r["type"]][r["instrument"] or "Unknown"] += usd(r)
+    TYPES = ["other non-African finance", "other African finance", "aid", "budget"]   # clockwise from START
+    TNAME = {"other non-African finance": "Non-African finance", "other African finance": "African finance",
+             "aid": "Aid", "budget": "National budgets"}
+    INAME = {"Self Funded": "Self-funded", "Unknown": "Not stated", "MoU": "MoU",
+             "Concessional Loan": "Concessional loan", "Commercial Loan": "Commercial loan",
+             "Technical Assistance": "Technical assistance", "Joint Venture": "Joint venture", "Line of Credit": "Line of credit"}
+    tot_t = {t: sum(inst[t].values()) for t in TYPES}; total = sum(tot_t.values())
+    s = prs.slides.add_slide(BLANK)
+    frame(s, "Where the money comes from",
+          f"All digital finance in Africa, {YEARS[0]} to {YEARS[-1]}, by source and instrument. Self-funded investment and "
+          f"memoranda of understanding make up {100 * sum(inst[t][i] for t in TYPES[:2] for i in ('Self Funded', 'MoU')) / (tot_t[TYPES[0]] + tot_t[TYPES[1]]):.0f}% "
+          "of African and non-African finance.  US$ millions",
+          DEF + " Instruments under 3% of their source are grouped as Other. "
+          f"National budgets have no instrument breakdown. As recorded to {AS_AT}.")
+    CX, CY, R = 6.55, 4.15, 1.45
+    cd = CategoryChartData(); cd.categories = [TNAME[t] for t in TYPES]
+    cd.add_series("Sources", [round(tot_t[t]) for t in TYPES])
+    gf = s.shapes.add_chart(XL_CHART_TYPE.PIE, Inches(CX - R), Inches(CY - R), Inches(2 * R), Inches(2 * R), cd)
+    ch = gf.chart; ch.has_legend = False; ch.has_title = False; inner(ch, 0, 0, 1, 1)
+    START = 346  # non-African finance upper right, African finance at the bottom, aid lower left, budgets upper left
+    fsa = ch.plots[0]._element.find(qn("c:firstSliceAng"))
+    if fsa is None: fsa = etree.SubElement(ch.plots[0]._element, qn("c:firstSliceAng"))
+    fsa.set("val", str(START))
+    ch.plots[0].vary_by_categories = True
+    for i, pt in enumerate(ch.plots[0].series[0].points):
+        pt.format.fill.solid(); pt.format.fill.fore_color.rgb = rgb(SRC_COL[TYPES[i]])
+        pt.format.line.color.rgb = rgb(PAPER); pt.format.line.width = Pt(1.5)
+    mids, acc = [], 0
+    for t in TYPES:
+        mids.append(math.radians(START + 360 * (acc + tot_t[t] / 2) / total)); acc += tot_t[t]
+    def edge(a_, r_): return CX + r_ * math.sin(a_), CY - r_ * math.cos(a_)
+    for i, t in enumerate(TYPES):
+        x_, y_ = edge(mids[i], R * 0.62)
+        text(s, x_ - 0.5, y_ - 0.17, 1.0, 0.34, f"{100 * tot_t[t] / total:.0f}%", 16,
+             color=INK if t == "budget" else "FFFFFF", bold=True, align=PP_ALIGN.CENTER)
+    # budgets: named beside their slice, no panel
+    x_, y_ = edge(mids[3], R + 0.15)
+    text(s, x_ - 2.6, y_ - 0.5, 2.5, 0.3, [(TNAME["budget"], {"bold": True, "color": "B7801A"}), (f"  {tot_t['budget']:,.0f}", {"color": INK2})], 13, align=PP_ALIGN.RIGHT)
+    text(s, x_ - 2.6, y_ - 0.2, 2.5, 0.3, "States’ own lines: no instruments", 10.5, color=FAINT, align=PP_ALIGN.RIGHT)
+    PANEL = {TYPES[0]: (8.45, 1.75, 4.3, 2.75), TYPES[1]: (8.45, 4.75, 4.3, 1.8), TYPES[2]: (0.6, 4.45, 4.1, 1.3)}
+    for i, k in enumerate(TYPES):
+        if k not in PANEL: continue
+        px, py, pw, ph = PANEL[k]; ctot = tot_t[k]
+        tops = [(n, v) for n, v in inst[k].most_common() if v > 0]
+        keep = [(n, v) for n, v in tops if v / ctot >= 0.03]
+        rest = [(n, v) for n, v in tops if v / ctot < 0.03]
+        if len(rest) == 1: keep += rest
+        elif rest: keep.append(("Other", sum(v for _, v in rest)))
+        col = SRC_COL[k]
+        text(s, px, py, pw, 0.3, [(TNAME[k], {"bold": True, "color": col}), (f"  {ctot:,.0f}", {"color": INK2})], 13)
+        cd = CategoryChartData(); cd.categories = [INAME.get(n, n) for n, _ in reversed(keep)]
+        cd.add_series(k, [round(v) for _, v in reversed(keep)])
+        gf = s.shapes.add_chart(XL_CHART_TYPE.BAR_CLUSTERED, Inches(px), Inches(py + 0.3), Inches(pw), Inches(ph - 0.3), cd)
+        c2 = gf.chart; c2.has_legend = False; c2.has_title = False; c2.font.name = FONT
+        inner(c2, 0.62, 0.0, 0.25, 1.0)
+        pl = c2.plots[0]; pl.gap_width = 40
+        sr = pl.series[0]; sr.format.fill.solid(); sr.format.fill.fore_color.rgb = rgb(col)
+        pl.has_data_labels = True; dls = pl.data_labels
+        dls.number_format = '#,##0'; dls.number_format_is_linked = False; dls.position = XL_LABEL_POSITION.OUTSIDE_END
+        dls.font.size = Pt(10); dls.font.color.rgb = rgb(INK2); dls.font.name = FONT
+        va, ca = c2.value_axis, c2.category_axis
+        va.visible = False; va.has_major_gridlines = False; va.minimum_scale = 0
+        axis_font(ca, 10, INK); ca.format.line.color.rgb = rgb(col); ca.major_tick_mark = XL_TICK_MARK.NONE
+        sx, sy = edge(mids[i], R + 0.04)
+        tx = px - 0.1 if px > CX else px + pw + 0.1
+        ln = s.shapes.add_connector(1, Inches(sx), Inches(sy), Inches(tx), Inches(py + ph / 2))
+        ln.line.color.rgb = rgb(col); ln.line.width = Pt(1.25)
+
 # ---------- Last slide: the foundations only states and donors pay for ----------
 if True:
     cols = ["aid", "budget", "other African finance", "other non-African finance"]
@@ -542,7 +615,7 @@ if True:
         gy += 1.12
 
 # Bill's running order (2026-11-24): the whole picture, then the rise and its reality check
-ORDER = ["Where the money goes", "Who pays for what", "The foundations", "The rise of African finance", "But the rise", "Where the money lands"]
+ORDER = ["Where the money goes", "Where the money comes from", "Who pays for what", "The foundations", "The rise of African finance", "But the rise", "Where the money lands"]
 lst = prs.slides._sldIdLst
 rank = [next((i for i, t in enumerate(ORDER) if sl.shapes[0].text_frame.text.startswith(t)), 99) for sl in prs.slides]
 ids = list(lst)
