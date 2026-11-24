@@ -431,10 +431,11 @@ if os.path.exists(a.pivot):
 
 # Bill's running order (2026-11-24): the whole picture, then the rise and its reality check
 ORDER = ["Where the money goes", "Who pays for what", "The foundations", "The rise of African finance", "But the rise"]
-lst = prs.slides._sldIdLst; ids = list(lst)
-def first(sid): return prs.slides.get(int(sid.get("id"))).shapes[0].text_frame.text
+lst = prs.slides._sldIdLst
+rank = [next((i for i, t in enumerate(ORDER) if sl.shapes[0].text_frame.text.startswith(t)), 99) for sl in prs.slides]
+ids = list(lst)
 for sid in ids: lst.remove(sid)
-for sid in sorted(ids, key=lambda e: next((i for i, t in enumerate(ORDER) if first(e).startswith(t)), 99)): lst.append(sid)
+for _, sid in sorted(zip(rank, ids), key=lambda p_: p_[0]): lst.append(sid)
 prs.save(OUT)
 print("saved", OUT, "| x", round(mult, 2), "|", n, "topics")
 for t in order: print(NAMES[t], [round(yt[(y, t)]) for y in YEARS])
