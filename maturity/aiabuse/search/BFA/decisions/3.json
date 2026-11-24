@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "On 3 August 2026 the Assemblée législative du peuple adopted the organic law creating ARCOD, a single communications and data-protection regulator with rule-making power that the minister said would let it regulate AI developments.",
+ "title": "Régulation de la communication et protection des données à caractère personnel : les députés adoptent la loi organique",
+ "publisher": "Assemblée législative du peuple",
+ "published": "2026-08-03",
+ "date_source": "source",
+ "why_not": ""
+}

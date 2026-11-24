@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "As of a review on 8 June 2026 Cameroon has no dedicated binding AI law or AI regulator in force; the SNIA proposes an AI authority, presidential council and framework law, none established.",
+ "title": "What is AI regulation in Cameroon?",
+ "publisher": "Levellers",
+ "published": "2026-06-08",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "aiharm",
+ "aspect": "rule;authority",
+ "fact": "The UNESCO readiness assessment, as analysed in February 2026, finds the DRC has no national AI strategy or AI-specific regulation, no authority dedicated to AI, and recommends a specialised prosecution unit and police for AI-related fraud and disinformation.",
+ "title": "Rapport d'Évaluation de la Préparation de la RDC à l'IA : quelles leçons pour le journalisme ?",
+ "publisher": "Patient Ligodi",
+ "published": "2026-02-16",
+ "date_source": "source",
+ "why_not": ""
+}
