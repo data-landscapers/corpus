@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: COD
-ledger_rows: 59
+ledger_rows: 65
 not_held: 6
-record: 33becb5d6697
+record: 16e88afef2fe
 ---
 
 # News, Oct – Nov 2026
@@ -209,6 +209,20 @@ DR Congo's digital economy minister, Augustin Kibassa, closed a meeting of state
 **[RDC : Vodacom veut porter à 670 millions USD ses investissements réseau pour accélérer la transformation numérique](https://zoom-eco.net/autres-actualites/rdc-vodacom-veut-porter-a-670-millions-usd-ses-investissements-reseau-pour-accelerer-la-transformation-numerique/)** — Zoom Eco, 9 October 2026
 
 Vodacom Congo said at a Kinshasa forum on 8 October 2026 that it plans a long-term US$670 million network investment programme, against an average of US$140 million a year. It reported 26.4 million subscribers, 4G coverage of 46.1 per cent and 10 million M-Pesa customers. Prime Minister Judith Suminwa said state and citizens' data must be hosted in the country.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public-finance governance support, phase IV (AFD)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : adoption de trois projets de loi de ratification d’accords de financement (Conseil des ministres) - ACP](https://acp.cd/nation/rdc-adoption-de-trois-projets-de-loi-de-ratification-daccords-de-financement-conseil-des-ministres/)** — Agence Congolaise de Presse, 21 November 2026
+
+Ratification bill for AFD EUR 70m credit CCD 120503Y on computerised revenue mobilisation adopted by cabinet.
 
 </div>
 
@@ -472,6 +486,34 @@ The Banque centrale du Congo granted Wave an electronic-money institution licenc
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unified civil-service payroll file</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : discordances des effectifs, manque de fiabilité des bases de données et incohérences dans les listings de paie, les principales défaillances révélées par l’audit de l’état liquidatif de la paie des fonctionnaires](https://actualite.cd/2026/11/22/rdc-discordances-des-effectifs-manque-de-fiabilite-des-bases-de-donnees-et-incoherences)** — Actualite.cd, 22 November 2026
+
+IGF audit flags unreliable databases and payroll-listing mismatches; unified payroll files ordered from 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Wave electronic-money institution licence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Inclusion financière : la BCC agrée Wave, un nouvel acteur de la monnaie électronique en RDC](https://www.bcc.cd/articles/monnaie-et-paiements/bcc-agree-wave-monnaie-electronique-2026)** — Banque Centrale du Congo, 23 November 2026
+
+Central bank's own notice of Wave's e-money licence; linked to 9 April 2027 cash-settlement reform.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -511,6 +553,20 @@ The data page of EITI DR Congo reports 2023 extractive revenue of USD 5.85 billi
 **[DR Congo Requires Foreign Digital Service Providers to Register and Pay VAT](https://bankable.africa/en/business-climate/1111-3973-dr-congo-requires-foreign-digital-service-providers-to-register-and-pay-vat)** — Bankable, 11 November 2026
 
 The DR Congo's tax directorate told foreign digital service providers on 5 November 2026 to register and pay VAT, Bankable Africa reported. They had to open an e-Impôts account by 10 November and pay by 15 November. The rule covers streaming, cloud, software, online advertising, app stores and marketplaces.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Land-archive digitisation operation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : plus de 1,8 million de dossiers fonciers identifiés, seulement 14,8 % numérisés](https://www.congojournal.com/articles/13827/rdc-plus-de-1-8-million-de-dossiers-fonciers-identifies-seulement-14-8-numerises)** — Congo Journal, 23 November 2026
+
+1,822,051 land files identified, 14.8% digitised; 561 staff trained; MIMPA app 7,358 first-day downloads.
 
 </div>
 
@@ -591,6 +647,20 @@ DR Congo's Ministry of Justice launched digital collection of court fees on 5 No
 **[RDC : un système connecté pour mieux organiser les interventions médicales](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-un-systeme-connecte-pour-mieux-organiser-les-interventions-medicales)** — wearetech.africa, 9 November 2026
 
 The DR Congo Ministry of Health announced on 8 November 2026 that the Etoile Bleue emergency medical response system will be inaugurated by the President, after a postponement in June 2026. It starts in Kinshasa and Matadi with a free 199 number, a mobile app, a regulation centre, 130 ambulances and 300 medical motorbikes. No launch date was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Social security fund health-centre management software</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Santé : la CNSS engage 1,5 million $ pour digitaliser la gestion de ses centres](https://bankable.africa/en/actualites/2111-4050-sante-la-cnss-engage-1-5-million-pour-digitaliser-la-gestion-de-ses-centres)** — Bankable, 21 November 2026
+
+USD 1.499m health-centre software contract provisionally awarded to Nazounki Global Medical Network from own funds.
 
 </div>
 
@@ -900,6 +970,14 @@ DR Congo's land-affairs ministry launched MIMPA, an AI virtual assistant on land
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[RDC : plus de 1,8 million de dossiers fonciers identifiés, seulement 14,8 % numérisés](https://www.congojournal.com/articles/13827/rdc-plus-de-1-8-million-de-dossiers-fonciers-identifies-seulement-14-8-numerises)** — Congo Journal, 23 November 2026
+
+Summarised under [Registries](#registries).
+
+</div>
+
 </div>
 
 ### Innovation ecosystem
@@ -1046,6 +1124,8 @@ DR Congo's posts and telecommunications ministry is promoting solar-powered micr
 <a href="#national-statistics">National statistics</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#open-data">Open data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geospatial-data">Geospatial data</a>
 </nav>
 
 ### National statistics
@@ -1089,6 +1169,22 @@ The Democratic Republic of the Congo's education ministry put its school statist
 **[ITIE-RDC Données et Divulgation Systématique](https://www.itierdc.net/donnees/)** — ITIE-RDC, 23 October 2026
 
 Summarised under [Registries](#registries).
+
+</div>
+
+</div>
+
+### Geospatial data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Agricultural climate index insurance under the national agricultural programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DR Congo Compensates 17,180 Farmers Under Climate Insurance Scheme](https://www.ecofinagency.com/news/2210-60021-dr-congo-compensates-17-180-farmers-under-climate-insurance-scheme)** — Ecofin Agency, 22 October 2026
+
+First payouts, 14 Oct 2026, under a satellite-rainfall index scheme; pilot to cover up to 300,000 farmers by Sept 2027.
 
 </div>
 
