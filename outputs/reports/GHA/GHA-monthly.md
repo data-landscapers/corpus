@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: GHA
-ledger_rows: 87
+ledger_rows: 88
 not_held: 9
-record: 1936b92c5350
+record: e0ce2b87c3b6
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: 1936b92c5350
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -1165,6 +1167,28 @@ Ghana's Petroleum Commission introduced a Digital Permit Application Platform to
 **[Digitising the Till While Leaving the Rulebook in the Dark](https://imaniafrica.org/2026/11/digitising-the-till-while-leaving-the-rulebook-in-the-dark/)** — IMANI Africa, 12 November 2026
 
 The think tank IMANI Africa published an audit in November 2026 of 20 Ghanaian government and assembly portals. They were scored out of 12.0 on six digital public infrastructure pillars. The Food and Drugs Authority ranked highest at 11.5. The author argues that agencies have digitised fee collection while leaving laws and procedures poorly published.
+
+</div>
+
+</div>
+
+## Digitalisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#rural-digital-data-capture">Rural digital data capture</a>
+</nav>
+
+### Rural digital data capture
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Germination Index Insurance (Ghana Agricultural Insurance Pool)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GAIP promotes Germination Index Insurance to protect farmers against climate risks](https://gna.org.gh/2026/10/gaip-promotes-germination-index-insurance-to-protect-farmers-against-climate-risks/)** — Ghana News Agency, 29 October 2026
+
+4,000 farmers sensitised in 41 districts; GMet station data merged with satellite rainfall.
 
 </div>
 
