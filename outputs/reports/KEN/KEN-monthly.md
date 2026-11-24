@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: KEN
-ledger_rows: 117
+ledger_rows: 119
 not_held: 5
-record: 0ae1b8dc1d9b
+record: 591352a70e04
 ---
 
 # News, Oct – Nov 2026
@@ -1342,6 +1342,20 @@ Kenya's Health Cabinet Secretary announced on 20 November 2026 that cancer patie
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated Correctional Management Information System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya prisons, probation services set for digital overhaul](https://www.kbc.co.ke/kenya-prisons-probation-services-set-for-digital-overhaul/)** — Kenya Broadcasting Corporation, 23 November 2026
+
+ICMIS under World Bank KDEAP to link prisons and probation to justice system; transition targeted this financial year.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -1607,6 +1621,20 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 **[From paper files to fingertips Vihiga unleashes digital revolution](https://www.kenyanews.go.ke/from-paper-files-to-fingertips-vihiga-unleashes-digital-revolution/)** — Kenya News Agency, 6 November 2026
 
 Vihiga County held its first ICT Day and Digital Innovation Expo, reported on 6 November 2026. Governor Wilber Ottichilo said procurement, job applications and payments are now fully online and that the health workforce is integrated into digital systems. He said the county Land Information System is 70 percent complete.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Konza-Makueni emergency response memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Konza Technopolis to Deploy Smart Technologies for Emergency Management](https://techafricanews.com/2026/11/23/konza-technopolis-to-deploy-smart-technologies-for-emergency-management/)** — Tech Africa News, 23 November 2026
+
+MoU with Makueni County: IoT sensors, real-time monitoring and analytics for fire, ambulance and early warning.
 
 </div>
 
