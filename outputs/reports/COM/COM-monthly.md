@@ -1,11 +1,11 @@
 ---
 title: Comoros — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: COM
-ledger_rows: 12
+ledger_rows: 13
 not_held: 22
-record: 3088eb215eca
+record: dfa89fcb9819
 ---
 
 # News, Oct – Nov 2026
@@ -57,6 +57,20 @@ Comoros' telecoms minister presented a national data-governance and data-centre 
 **[Santé et numérique : Onze projets pour accélérer la transformation du système sanitaire](https://www.lagazettedescomores.com/sant%C3%A9/sant%C3%A9-et-num%C3%A9rique-onze-projets-pour-acc%C3%A9l%C3%A9rer-la-transformation-du-syst%C3%A8me-sanitaire-.html)** — La Gazette des Comores, 30 October 2026
 
 Comoros's health statistics directorate said on 27 October 2026 that only one of eleven projects in the 2022 digital health plan has been substantially implemented. It cited lack of funds. DHIS2 is in use with an electronic vaccination register, and malaria forecasting is being piloted in five Ngazidja districts.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Readiness Assessment with UNDP</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transformation numérique I L’Anaden et le Pnud lancent l’évaluation de l’état de préparation des Comores](https://alwatwan.net/societe/transformation-num%C3%A9rique-i-l%E2%80%99anaden-et-le-pnud-lancent-l%E2%80%99%C3%A9valuation-de-l%E2%80%99%C3%A9tat-de-pr%C3%A9paration-des-comores.html)** — Al-Watwan, 23 November 2026
+
+Launched 19 Nov 2026 with UNDP; five pillars: people, connectivity, government, regulation, economy.
 
 </div>
 
