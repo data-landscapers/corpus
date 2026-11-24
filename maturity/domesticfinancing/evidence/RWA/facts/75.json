@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-23-acet-how-can-africa-mobilize-capital-for-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "ACET states that Rwanda allocated RWF 80.9 billion (about $58.5 million) to the ICT sector in its FY2024/25 budget.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ICT sector budget FY2024/25",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

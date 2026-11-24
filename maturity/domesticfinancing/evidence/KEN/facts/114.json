@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-23-acet-how-can-africa-mobilize-capital-for-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "ACET states that about $125.3 million was allocated to ICT projects in Kenya's national budget for FY2024/25.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ICT projects, national budget FY2024/25",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
