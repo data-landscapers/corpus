@@ -2,7 +2,7 @@
 
 ## Censuses and surveys
 
-**A census taken or in preparation.** [The Ghana Statistical Service's census page gives the 2021 Population and Housing Census as the latest national census](<https://www.statsghana.gov.gh/census-surveys/population-housing-census>). The page projects the next national census for 2030, and says that planning for it is under way.
+**A census taken or in preparation.** [The Ghana Statistical Service's census page gives the 2021 Population and Housing Census as the latest national census](<https://www.statsghana.gov.gh/census-surveys/population-housing-census>). The page projects the next national census for 2030, and says that planning for it is under way. The service's StatsBank portal [draws its indicators from the 2021 census](<https://www.data4sdgs.org/sites/default/files/file_uploads/12_Ghana%20Statistical%20Service.pdf>) among other sources.
 
 **Results published.** [The Ghana Statistical Service's census page offers the reports of the 2021 Population and Housing Census](<https://www.statsghana.gov.gh/census-surveys/population-housing-census>). The page also offers regional profiles, district profiles and population structure indicators.
 
