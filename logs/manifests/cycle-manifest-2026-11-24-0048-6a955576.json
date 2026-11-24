@@ -1,0 +1,206 @@
+{
+ "schema": 3,
+ "written_utc": "2026-11-24 00:48",
+ "pass": "sweep cycle",
+ "head": "6a95557674b45b6aa82c5cdcc819104635fa9ca4",
+ "head_committed_utc": "2026-11-24 00:48",
+ "collection": {
+  "last_admission": "2026-11-24 00:36",
+  "sweep_closed": "2026-11-23 20:28",
+  "ingest_started": "2026-11-23 20:31"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "2",
+   "jobs": [
+    "SWEEP-FINANCIERS",
+    "SWEEP-IATI",
+    "SWEEP-COUNTRY-DEEP"
+   ],
+   "start": "2026-11-23 20:08",
+   "end": "2026-11-24 00:38",
+   "duration": "4:30",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 456,
+  "admitted": 375,
+  "dropped": 81,
+  "screened": 2879,
+  "screen_dropped": 2733,
+  "pages_over_line": 341,
+  "awaiting_ingest": 0,
+  "raw_sources": 51367
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-11-23 20:02",
+   "seven_day": 12.0,
+   "five_hour": null
+  },
+  "notes": {
+   "time_utc": "2026-11-23 20:07",
+   "seven_day": 12.0,
+   "five_hour": null
+  },
+  "sweep": {
+   "time_utc": "2026-11-23 20:28",
+   "seven_day": 12.0,
+   "five_hour": null
+  },
+  "ingest": {
+   "time_utc": "2026-11-23 21:58",
+   "seven_day": 16.0,
+   "five_hour": null
+  },
+  "lint": {
+   "time_utc": "2026-11-24 00:37",
+   "seven_day": 20.0,
+   "five_hour": null
+  },
+  "close": {
+   "time_utc": "2026-11-24 00:39",
+   "seven_day": 20.0,
+   "five_hour": null
+  },
+  "backlog": {
+   "time_utc": "2026-11-24 00:46",
+   "seven_day": 20.0,
+   "five_hour": null
+  },
+  "rules": {
+   "time_utc": "2026-11-24 00:48",
+   "seven_day": 20.0,
+   "five_hour": null
+  },
+  "end": {
+   "time_utc": "2026-11-24 00:48",
+   "seven_day": 20.0,
+   "five_hour": null
+  }
+ },
+ "drops": {
+  "night": "2026-11-23",
+  "ingest_coded": true,
+  "sweeps": {
+   "acquire": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 11,
+    "ingest_drop_rate": 0.0
+   },
+   "country-deep": {
+    "sweep": {
+     "off-topic": 73,
+     "no-development": 35,
+     "already-seen": 25,
+     "date-unestablished": 7,
+     "syndicated-copy": 7,
+     "fails-record-test": 6,
+     "headline-only-stub": 5,
+     "inadmissible-origin": 5,
+     "already-held": 4,
+     "not-this-slice": 3,
+     "off-place": 3,
+     "out-of-window": 2,
+     "fetch-blocked": 1,
+     "url-dead": 1
+    },
+    "ingest": {
+     "already-held": 21,
+     "no-value": 7,
+     "no-development": 2,
+     "duplicate-in-run": 1,
+     "syndicated-copy": 1
+    },
+    "admitted": 55,
+    "ingest_drop_rate": 0.368
+   },
+   "daily": {
+    "sweep": {
+     "no-development": 54,
+     "off-place": 23,
+     "already-seen": 2,
+     "off-topic": 2
+    },
+    "ingest": {
+     "already-held": 14,
+     "no-development": 1
+    },
+    "admitted": 7,
+    "ingest_drop_rate": 0.682
+   },
+   "financiers": {
+    "sweep": {
+     "no-development": 13,
+     "already-seen": 7,
+     "off-topic": 7,
+     "already-held": 2,
+     "inadmissible-origin": 2,
+     "not-this-slice": 2,
+     "syndicated-copy": 2,
+     "fetch-blocked": 1,
+     "out-of-window": 1
+    },
+    "ingest": {
+     "already-held": 4,
+     "no-development": 1,
+     "no-value": 1
+    },
+    "admitted": 8,
+    "ingest_drop_rate": 0.429
+   },
+   "iati": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 2,
+    "ingest_drop_rate": 0.0
+   },
+   "maturity-study-admindata": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 11,
+     "already-seen": 1
+    },
+    "admitted": 112,
+    "ingest_drop_rate": 0.097
+   },
+   "maturity-study-agrisatellite": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 9,
+     "inadmissible-origin": 1
+    },
+    "admitted": 158,
+    "ingest_drop_rate": 0.06
+   },
+   "off-list": {
+    "sweep": {},
+    "ingest": {
+     "no-development": 2,
+     "syndicated-copy": 1
+    },
+    "admitted": 8,
+    "ingest_drop_rate": 0.273
+   },
+   "reconcile": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 3,
+    "ingest_drop_rate": 0.0
+   }
+  }
+ },
+ "hygiene": {
+  "housekeeping_next": 238,
+  "trims_rows": 6122,
+  "housekeeping_registered": 0,
+  "words_trimmed": 1040,
+  "pages_rewritten": 163,
+  "since": "2026-11-23 08:53"
+ }
+}
