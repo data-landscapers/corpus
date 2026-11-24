@@ -1,6 +1,6 @@
 ---
 title: Malawi: finance
-compiled: 2026-11-06
+compiled: 2026-11-24
 place: MWI
 ---
 
@@ -31,7 +31,7 @@ place: MWI
 <tfoot><tr><th scope="row">All topics</th><td class="num">367</td><td class="num">41</td><td class="num">4</td><td class="num">178</td><td class="num">37</td><td class="num">90</td><td class="num total">718</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/MWI/all-finance.html">Full table &mdash; 679 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/MWI/all-finance.html">Full table &mdash; 680 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/MWI/MWI-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -86,6 +86,6 @@ place: MWI
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/MWI/finance.html">Full table &mdash; 125 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/MWI/finance.html">Full table &mdash; 126 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/MWI/MWI-nonstate.csv" download>&darr; Download CSV</a>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: South Africa: finance
-compiled: 2026-11-06
+compiled: 2026-11-24
 place: ZAF
 ---
 
@@ -40,7 +40,7 @@ place: ZAF
 <tfoot><tr><th scope="row">All topics</th><td class="num">2,180</td><td class="num">874</td><td class="num">1,877</td><td class="num">1,893</td><td class="num">2,318</td><td class="num">2,691</td><td class="num total">11,832</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/all-finance.html">Full table &mdash; 458 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/all-finance.html">Full table &mdash; 459 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ZAF/ZAF-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -109,6 +109,6 @@ place: ZAF
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/finance.html">Full table &mdash; 223 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ZAF/finance.html">Full table &mdash; 224 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ZAF/ZAF-nonstate.csv" download>&darr; Download CSV</a>
 </div>

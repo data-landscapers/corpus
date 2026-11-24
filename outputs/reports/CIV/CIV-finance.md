@@ -1,6 +1,6 @@
 ---
 title: Côte d'Ivoire: finance
-compiled: 2026-11-06
+compiled: 2026-11-24
 place: CIV
 ---
 
@@ -37,7 +37,7 @@ place: CIV
 <tfoot><tr><th scope="row">All topics</th><td class="num">938</td><td class="num">68</td><td class="num">103</td><td class="num">171</td><td class="num">491</td><td class="num">359</td><td class="num total">2,130</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/all-finance.html">Full table &mdash; 827 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/all-finance.html">Full table &mdash; 828 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CIV/CIV-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -105,6 +105,6 @@ place: CIV
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/finance.html">Full table &mdash; 112 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/finance.html">Full table &mdash; 113 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CIV/CIV-nonstate.csv" download>&darr; Download CSV</a>
 </div>
