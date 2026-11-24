@@ -1,34 +1,24 @@
 #!/usr/bin/env python3
-"""finance-charts-pptx.py — the two all-finance charts as a PowerPoint deck.
-
-Bill's deck versions of the charts in the data-landscapers post *All finance dataset goes
-live* (2026-10-05): "The rise of African finance" (yearly totals by source, 2024-2026) and
-"Who pays for what" (topics over US$500 million, total and share by source). Built 2026-11-24
-from the October method, which reproduces the post's images from that day's table. The post's
-PNGs are not touched; this writes a .pptx with native, editable charts.
+"""finance-charts-pptx.py — the all-finance deck, rebuilt from the published tables alone.
 
     python scripts/finance-charts-pptx.py [--src CSV] [--out PPTX]
 
-Slide 2 is the reality check (Bill, 2026-11-24): African finance 2024-2026 as two treemaps, by
-country and by financier, from Bill's workbook (`--treemaps`, sheets Country and Financier; in
-Country, continent-wide XAF and XSS are merged as "Africa"). Drawn as plain rectangles, since
-python-pptx has no native treemap; the slide is skipped if the workbook is missing.
+Reads three files and nothing else: `site/finance/all/all-finance.csv`, `lookups/country-reference.csv`
+(area, population, names) and `lookups/taxonomy.csv` (topic to chapter). Map shapes come from
+`site/maturity/data/africa.json`. Every slide covers YEARS. Bill's running order (2026-11-24):
 
-The last slide is all finance by chapter and topic (Bill, 2026-11-24): a pie of chapters with a
-bar chart of each chapter's topics drawn out from its slice, from the all-finance sheet of `--pivot`.
-The smallest chapters share one "Other" slice and get no panel.
+1. Where the money goes: a pie of chapters, each big chapter's topics as bars drawn out from it.
+2. Who pays for what: topics over US$500 million, total and share by source.
+3. The foundations: FOUNDATIONS (Bill's ten) as 100% bars by source, under all digital finance.
+4. The rise of African finance: yearly totals by source.
+5. But the rise rests on a few deals: African finance as two treemaps, by country (continent-wide
+   XAF and XSS merged as "Africa") and by financier (under US$15 million grouped as Other).
+6. Where the money lands: connectivity per km² beside all digital finance per head (deliberately
+   all finance; Bill, 2026-11-24). Regional codes and countries under SMALL_KM2 are left out.
+7. The same two measures on one bivariate map.
 
-After it, "the foundations" (Bill, 2026-11-24): ten of the smallest topics,
-named in the script, as 100% bars by source under a bar for all digital finance.
-
-Then connectivity per km² and per head as two maps (Bill, 2026-11-24): the Connectivity sheet's
-spend and area, and population from the "per capita" sheet. Its spend is all digital finance,
-so per head is recomputed from connectivity spend. Rows below the first blank (the smallest
-countries) and the regional codes are left out. Shapes come from site/maturity/data/africa.json.
-
-Defaults: `site/finance/all/all-finance.csv`, and `~/Downloads/all-finance-charts-{today}.pptx`.
-Needs `python-pptx`. The subtitles are fixed text: the script prints a WARNING when the data
-no longer supports them, and the wording then needs revising by hand.
+Default output: `Claude outputs/all-finance-deck-{today}.pptx`. Needs `python-pptx`. The subtitles
+carry fixed claims: the script prints a WARNING when the data no longer supports one.
 """
 import argparse, datetime, os
 import csv, io, sys, collections
@@ -44,9 +34,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TODAY = datetime.date.today()
 ap = argparse.ArgumentParser()
 ap.add_argument("--src", default=os.path.join(ROOT, "site", "finance", "all", "all-finance.csv"))
-ap.add_argument("--out", default=os.path.join(os.path.expanduser("~"), "Downloads", f"all-finance-charts-{TODAY}.pptx"))
-ap.add_argument("--treemaps", default=os.path.join(os.path.expanduser("~"), "Desktop", "african-finance.xlsx"))
-ap.add_argument("--pivot", default=os.path.join(os.path.expanduser("~"), "Desktop", "all-finance.xlsx"))
+ap.add_argument("--out", default=os.path.join(ROOT, "Claude outputs", f"all-finance-deck-{TODAY}.pptx"))
 a = ap.parse_args()
 SRC, OUT = a.src, a.out
 FONT = "Calibri"
@@ -63,6 +51,19 @@ YEARS = ["2024", "2025", "2026"]
 AS_AT = TODAY.strftime("%B %Y")
 
 rows = list(csv.DictReader(io.open(SRC, encoding="utf-8-sig")))
+REF = {r["ISO-3 Code"]: r for r in csv.DictReader(io.open(os.path.join(ROOT, "lookups", "country-reference.csv"), encoding="utf-8-sig"))}
+CHAPTER = {r["Level 2"]: r["Level 1"] for r in csv.DictReader(io.open(os.path.join(ROOT, "lookups", "taxonomy.csv"), encoding="utf-8-sig"))}
+REGION = {"XAF": "Africa", "XSS": "Africa", "XEA": "East Africa", "XWA": "West Africa", "XCA": "Central Africa",
+          "XNA": "North Africa", "XSA": "Southern Africa"}
+FOUNDATIONS = ["Standards", "Data protection", "Digitalisation of sub-national government", "Research institutions",
+               "Legislation and regulation", "Regional collaboration", "Open data", "Digital divides",
+               "Public debate and participation in policymaking", "Rural digital data capture"]   # Bill's ten
+SMALL_KM2 = 12000      # leaves out Gambia, Cape Verde, Mauritius, Comoros, São Tomé and Seychelles
+FIN_OTHER = 15         # US$ m: African financiers below this are one "Other" box
+def usd(r): return float(r["value_usd"] or 0) / 1e6
+INYEARS = [r for r in rows if r["year"] in YEARS]
+unknown = {r["primary_topic"] for r in INYEARS} - set(CHAPTER)
+if unknown: print("WARNING: topics missing from taxonomy.csv:", sorted(unknown))
 yt = collections.defaultdict(float)
 tt = collections.defaultdict(lambda: collections.defaultdict(float))
 for r in rows:
@@ -210,12 +211,15 @@ def treemap(slide, items, x, y, w, h, heading):
             r2.text = f"{v / 1e6:,.0f}  ({100 * v / tot:.0f}%)" if big else f"{v / 1e6:,.0f}"
             r2.font.size = Pt(size); r2.font.name = FONT; r2.font.color.rgb = rgb(INK if dark else "FFFFFF")
     return tot
-if os.path.exists(a.treemaps):
-    import openpyxl
-    wb = openpyxl.load_workbook(a.treemaps, data_only=True)
-    def sheet(n): return sorted(((str(r[0]), float(r[1])) for r in wb[n].iter_rows(min_row=2, values_only=True)
-                                 if r[0] and r[1] and str(r[0]) != "Grand Total"), key=lambda t: -(t[1] if t[0] != "Other" else 0))
-    ctry, fin = sheet("Country"), sheet("Financier")
+if True:
+    tc, tf_ = collections.Counter(), collections.Counter()
+    for r in INYEARS:
+        if r["type"] != "other African finance": continue
+        c = r["country"]; tc[REGION.get(c, REF.get(c, {}).get("Country Name", c))] += usd(r) * 1e6
+        tf_[r["financier"]] += usd(r) * 1e6
+    oth = sum(v for k, v in tf_.items() if v < FIN_OTHER * 1e6)
+    ctry = tc.most_common()
+    fin = [(k, v) for k, v in tf_.most_common() if v >= FIN_OTHER * 1e6] + ([("Other", oth)] if oth else [])
     s = prs.slides.add_slide(BLANK)
     ct, ft = sum(v for _, v in ctry), sum(v for _, v in fin)
     if abs(ct - ft) > 1e6 or abs(ct / 1e6 - sum(afr)) > 5:
@@ -297,14 +301,11 @@ for ser, t in zip(pl.series, src):
 
 # ---------- Last slide: chapters, with each chapter's topics drawn out ----------
 import math
-if os.path.exists(a.pivot):
-    import openpyxl
-    ws = openpyxl.load_workbook(a.pivot, data_only=True, read_only=True)["all-finance"]
-    it = ws.iter_rows(values_only=True); hdr = list(next(it)); ix = {h: i for i, h in enumerate(hdr)}
+if True:
     cell = collections.defaultdict(lambda: collections.defaultdict(float))   # (chapter, topic) -> type -> US$ m
-    for r in it:
-        if r[ix["chapter"]] and str(r[ix["year"]]) in YEARS:
-            cell[(r[ix["chapter"]], r[ix["primary_topic"]])][r[ix["type"]]] += float(r[ix["value_usd"]] or 0) / 1e6
+    for r in INYEARS:
+        t = r["primary_topic"]
+        if t in CHAPTER: cell[(CHAPTER[t], t)][r["type"]] += usd(r)
     chap = collections.OrderedDict()
     for (c, t), d in sorted(cell.items(), key=lambda kv: -sum(kv[1].values())):
         chap.setdefault(c, [0, collections.OrderedDict()]); chap[c][0] += sum(d.values()); chap[c][1][t] = sum(d.values())
@@ -376,15 +377,13 @@ if os.path.exists(a.pivot):
         ln.line.color.rgb = rgb(COL[k]); ln.line.width = Pt(1.25)
 
 # ---------- Last slide: the foundations only states and donors pay for ----------
-if os.path.exists(a.pivot):
+if True:
     cols = ["aid", "budget", "other African finance", "other non-African finance"]
     piv = collections.defaultdict(lambda: {c: 0.0 for c in cols})
     for (c, t), d in cell.items():
         for k, v in d.items(): piv[t][k] += v
     allf = {c: sum(piv[t][c] for t in piv) for c in cols}
-    found = ["Standards", "Data protection", "Digitalisation of sub-national government", "Research institutions",
-             "Legislation and regulation", "Regional collaboration", "Open data", "Digital divides",
-             "Public debate and participation in policymaking", "Rural digital data capture"]   # Bill's ten
+    found = list(FOUNDATIONS)
     found.sort(key=lambda t: -sum(piv[t].values()))
     PRIV = ("other African finance", "other non-African finance")
     ftot = {c: sum(piv[k][c] for k in found) for c in cols}; fsum = sum(ftot.values())
@@ -435,20 +434,19 @@ if os.path.exists(a.pivot):
     ln.line.color.rgb = rgb(INK2); ln.line.width = Pt(0.75)
 
 # ---------- Connectivity per km² beside all finance per head: two maps, then one combined ----------
-if os.path.exists(a.pivot):
+if True:
     import json
-    wb_ = openpyxl.load_workbook(a.pivot, data_only=True)
-    conn, small, below = {}, set(), False
-    for r in list(wb_["Connectivity"].iter_rows(min_row=2, values_only=True)):
-        if r[0] is None: below = True; continue          # the smallest countries sit below the first blank row
-        k = str(r[0])
-        if k.startswith("X"): continue
-        if below: small.add(k)
-        else: conn[k] = (float(r[2]), float(r[3]))       # spend, km²
-    # per head is all digital finance, deliberately (Bill, 2026-11-24)
-    perhd = {str(r[0]): float(r[3]) for r in wb_["per capita"].iter_rows(min_row=2, values_only=True)
-             if r[0] and r[3] and str(r[0]) not in small and not str(r[0]).startswith("X")}
-    perkm = {k: v / a_ for k, (v, a_) in conn.items()}
+    area = {k: float(r["Area (sq km)"]) for k, r in REF.items() if r["Area (sq km)"]}
+    popn = {k: float(r["Population"]) for k, r in REF.items() if r["Population"]}
+    small = {k for k, v in area.items() if v < SMALL_KM2}
+    spc, spa = collections.Counter(), collections.Counter()
+    for r in INYEARS:
+        c = r["country"]
+        if c not in REF or c in small: continue
+        spa[c] += usd(r) * 1e6
+        if r["primary_topic"] == "Connectivity": spc[c] += usd(r) * 1e6
+    perkm = {k: v / area[k] for k, v in spc.items() if v > 0 and k in area}
+    perhd = {k: v / popn[k] for k, v in spa.items() if v > 0 and k in popn}   # all digital finance, deliberately
     geo = json.load(io.open(os.path.join(ROOT, "site", "maturity", "data", "africa.json"), encoding="utf-8"))
     NAME = {f["properties"]["iso3"]: f["properties"]["name"] for f in geo["features"]}
     NAME.update({"COD": "DR Congo", "CAF": "Central African Rep."})
@@ -496,7 +494,7 @@ if os.path.exists(a.pivot):
     def namelist(ks):
         ns = [NAME.get(k, k).replace("Central African Rep.", "the Central African Republic") for k in ks]
         return ", ".join(ns[:-1]) + " and " + ns[-1] if len(ns) > 1 else "".join(ns)
-    FOOT = (f"Commitments from 2024, as recorded to {AS_AT}; commitments, not disbursements. Regional commitments and the "
+    FOOT = (f"{YEARS[0]} to {YEARS[-1]}, as recorded to {AS_AT}; commitments, not disbursements. Regional commitments and the "
             f"{WORD.get(len(small), len(small))} smallest countries are left out. ")
     # two maps
     s = prs.slides.add_slide(BLANK)
