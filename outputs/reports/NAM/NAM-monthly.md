@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: NAM
-ledger_rows: 30
+ledger_rows: 32
 not_held: 8
-record: 7285d5b37cc1
+record: 73268ac6f0e5
 ---
 
 # News, Oct – Nov 2026
@@ -83,6 +83,20 @@ Namibia's Communications Regulatory Authority is developing a regulatory sandbox
 **[Namibia reviews digital trade framework for AfCFTA protocol implementation](https://techreviewafrica.com/news/7567/x)** — Tech Review Africa, 5 October 2026
 
 Namibia's assessment of its laws and institutions against the African free-trade area's Protocol on Digital Trade went to a validation workshop in Windhoek. It will feed a National Digital Trade Action Plan; no findings are published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Chair of the Regional Centre for Mapping of Resources for Development Governing Council</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibia calls for greater use of geospatial technology](https://neweralive.na/namibia-calls-for-greater-use-of-geospatial-technology/)** — New Era, 18 November 2026
+
+Namibia takes RCMRD chair 2026-2028; ERDAS APOLLO imagery repository, Land Bill 2025 and NSDI upgrade.
 
 </div>
 
@@ -526,6 +540,8 @@ Two AI tutoring labs, the first in a Namibian government school, opened at Angra
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
 <a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-divides">Digital divides</a>
 </nav>
 
 ### Access to services
@@ -539,6 +555,22 @@ Two AI tutoring labs, the first in a Namibian government school, opened at Angra
 **[Namibia plans two telecommunications towers in //Kharas region to improve rural connectivity](https://techreviewafrica.com/news/8366/namibia-plans-two-telecommunications-towers-in-kharas-region-to-improve-rural-connectivity)** — Tech Review Africa, 17 November 2026
 
 Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+### Digital divides
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MSME technology adoption survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MSMEs are Connected, but the Digital Divide Remains](https://www.thevillager.com.na/national/2026/msmes-are-connected-but-the-digital-divide-remains/)** — The Villager (Namibia), 22 November 2026
+
+KAS survey of 688 firms: 86% on smartphones, 21% accounting software, 24% some AI; cost blocks 56%.
 
 </div>
 
