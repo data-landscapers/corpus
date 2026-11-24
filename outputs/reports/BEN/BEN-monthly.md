@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: BEN
-ledger_rows: 48
+ledger_rows: 49
 not_held: 4
-record: 297c0ba707e3
+record: c8b4a7c89718
 ---
 
 # News, Oct – Nov 2026
@@ -789,6 +789,20 @@ Nasuba described Benin's national services portal, service-public.bj, as it stoo
 **[Benin Targets 2027 Launch of Higher Education Artificial Intelligence Institute](https://www.wearetech.africa/en/fils-uk/news/tech/benin-targets-2027-launch-of-higher-education-artificial-intelligence-institute)** — wearetech.africa, 9 November 2026
 
 Benin's higher education minister, Sèdami Medegan Fagla, said Benin plans an AI Institute for Higher Education by 2027. She spoke at the rectors' conference in Cotonou on 5-6 November 2026. The institute is to offer dual degrees with partner universities.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Technical advisers on artificial intelligence in ministries</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : des conseillers en intelligence artificielle bientôt au cœur des ministères](https://africaho.bj/article/benin-des-conseillers-en-intelligence-artificielle-bientot-au-coeur-des-ministeres/)** — Africaho, 22 November 2026
+
+Minister explains AI advisers named 4 Nov 2026 to commerce, energy, SME, finance and digital ministries.
 
 </div>
 

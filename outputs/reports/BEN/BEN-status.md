@@ -1,12 +1,12 @@
 ---
 title: Benin: status report
-compiled: 2026-11-22
+compiled: 2026-11-24
 place: BEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 9
-sources_cited: 265
+sources_cited: 266
 sections_written: 39
 not_established: 0
 acquire_lines: 41
@@ -277,7 +277,7 @@ In education, a [ministerial letter of February 2026 ordered every school direct
 
 The [National Artificial Intelligence and Big Data Strategy 2023-2027](https://numerique.gouv.bj/assets/documents/national-artificial-intelligence-and-big-data-strategy-1682673348.pdf) was adopted in January 2023. It sets out plans to equip the national data centre with cloud and AI-as-a-service capability for hosting public-sector systems. Everything else the strategy proposes runs on that hosting layer.
 
-[On 2 September 2026 the Council of Ministers appointed technical advisers on artificial intelligence at several ministries](https://sgg.gouv.bj/cm/2026-09-02/). In June 2026 ASIN issued [a legal note on the use of generative artificial intelligence tools by public agents](https://asin.bj/doc/137/download) across the administration. The note was prompted by agents already using such tools on personal accounts outside any formalised framework. In July 2026 Benin [adopted shared AI governance guidelines](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) with Burkina Faso, Côte d'Ivoire, Guinea, Mali and Senegal, submitted to the UN Global AI Dialogue. The ECOWAS digital roadmap of January 2026 [sets a regional AI governance framework for West Africa as a target](https://prnigeria.com/2026/01/24/ecowas-adopts-digital-roadmap/). [The digital agency's bulletin of September 2026 called for AI-specific rules on governance, liability and compliance, naming no legal vehicle or timetable](https://asin.bj/doc/150/download).
+[On 2 September 2026 the Council of Ministers appointed technical advisers on artificial intelligence at several ministries](https://sgg.gouv.bj/cm/2026-09-02/). [A report of 22 November 2026 says the Council of Ministers of 4 November named such advisers at the internal trade, energy, small business, finance and digital transformation ministries](https://africaho.bj/article/benin-des-conseillers-en-intelligence-artificielle-bientot-au-coeur-des-ministeres/). In June 2026 ASIN issued [a legal note on the use of generative artificial intelligence tools by public agents](https://asin.bj/doc/137/download) across the administration. The note was prompted by agents already using such tools on personal accounts outside any formalised framework. In July 2026 Benin [adopted shared AI governance guidelines](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) with Burkina Faso, Côte d'Ivoire, Guinea, Mali and Senegal, submitted to the UN Global AI Dialogue. The ECOWAS digital roadmap of January 2026 [sets a regional AI governance framework for West Africa as a target](https://prnigeria.com/2026/01/24/ecowas-adopts-digital-roadmap/). [The digital agency's bulletin of September 2026 called for AI-specific rules on governance, liability and compliance, naming no legal vehicle or timetable](https://asin.bj/doc/150/download).
 
 ### ICT Industry
 <!-- tech.industry -->
