@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: DJI
-ledger_rows: 16
+ledger_rows: 17
 not_held: 10
-record: 38785eedad3e
+record: 0702c818e0cc
 ---
 
 # News, Oct – Nov 2026
@@ -14,6 +14,8 @@ record: 38785eedad3e
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -63,6 +65,28 @@ Djibouti's Council of Ministers approved a draft organic law on finance laws wit
 **[Djibouti veut doter l'Afrique d'un réseau permanent des journaux officiels](https://www.adi.dj/article/139127)** — Agence djiboutienne d'information (ADI), 21 November 2026
 
 Djibouti will host the second African Forum of Official Gazettes on 16 and 17 December 2026, the national news agency reported on 21 November. Organisers plan a cooperation charter, a Djibouti Declaration and a permanent secretariat. The forum is to discuss common publication standards and interoperability between national gazette platforms.
+
+</div>
+
+</div>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#new-investments">New investments</a>
+</nav>
+
+### New investments
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public finance reform support project (AREFIP, French Development Agency)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Signature d'une convention de financement de 5 millions d'euros entre la République de Djibouti et l'Agence Française de Développement pour l'appui à la réforme des finances publiques — Djiblive — Agence & Média](https://news.djiblive.dj/fr/articles/signature-dune-convention-de-financement-de-5-millions-deuros-entre-la-republique-de-djibouti-et-lag)** — Djiblive, 21 November 2026
+
+EUR 5m AFD convention signed 21 Nov 2026 for four-year AREFIP project; first axis digitalises the spending chain.
 
 </div>
 
