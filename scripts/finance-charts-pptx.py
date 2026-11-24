@@ -429,6 +429,12 @@ if os.path.exists(a.pivot):
     ln = s.shapes.add_connector(1, Inches(0.6), Inches(CY_ + rowh * 2), Inches(12.73), Inches(CY_ + rowh * 2))
     ln.line.color.rgb = rgb(INK2); ln.line.width = Pt(0.75)
 
+# Bill's running order (2026-11-24): the whole picture, then the rise and its reality check
+ORDER = ["Where the money goes", "Who pays for what", "The foundations", "The rise of African finance", "But the rise"]
+lst = prs.slides._sldIdLst; ids = list(lst)
+def first(sid): return prs.slides.get(int(sid.get("id"))).shapes[0].text_frame.text
+for sid in ids: lst.remove(sid)
+for sid in sorted(ids, key=lambda e: next((i for i, t in enumerate(ORDER) if first(e).startswith(t)), 99)): lst.append(sid)
 prs.save(OUT)
 print("saved", OUT, "| x", round(mult, 2), "|", n, "topics")
 for t in order: print(NAMES[t], [round(yt[(y, t)]) for y in YEARS])
