@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-23-dza-radioalgerie-plafonds-carte-cib",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CIB interbank card",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "SATIM",
+   "owner": "ABEF / SATIM",
+   "tiers": ""
+  }
+ ],
+ "note": "CIB is a bank card scheme; a ceiling-raising instruction states no mobile money or wallet service."
+}

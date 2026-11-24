@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-03-zmb-undp-irff-ziamis-index-insurance-mobile-payouts",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "UNDP IRFF reports that mobile money wallets in Zambia receive direct payouts from the ZIAMIS platform, with banks and mobile network operators integrated, in the 2023/24 season.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "mobile money wallets",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

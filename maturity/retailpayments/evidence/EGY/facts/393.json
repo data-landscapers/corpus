@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-23-egy-sis-cbe-card-tokenisation-android",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Payment card tokenisation (Apple Pay since December 2024, Android from 23 November 2026)",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "phone wallets, contactless and online card payments",
+   "owner": "Central Bank of Egypt with banks and fintechs",
+   "tiers": "national"
+  }
+ ],
+ "note": "Card tokenisation is a card payment on a phone, not a mobile money or e-money service, so it is other under this study."
+}

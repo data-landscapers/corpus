@@ -205,6 +205,7 @@ COD,Airtel Money,DRC,retail,,Airtel,,2026-11-18-rdc-wave-decroche-le-feu-vert-re
 COD,Orange Money,DRC,retail,,Orange,,2026-11-18-rdc-wave-decroche-le-feu-vert-reglementaire-de-la-banque-centrale
 COD,Afrimoney,DRC,retail,,,,2026-11-18-rdc-wave-decroche-le-feu-vert-reglementaire-de-la-banque-centrale
 COD,Wave,DRC,retail,,Wave Mobile Money,,2026-11-18-rdc-wave-decroche-le-feu-vert-reglementaire-de-la-banque-centrale
+COD,Wave,Wave e-money,retail,mobile money,Wave,,2026-11-23-cod-inclusion-financiere-la-bcc-agree-wave-un-nouvel-acteur-de-la-monnaie
 COG,Yano,Congo,retail,payment aggregation gateway,"Yano (Regis Dilou, Elwin Gomo)",,2026-09-29-cog-aci-yano-fintech-mobile-payments
 COG,Airtel Money,COG,retail,,Airtel Congo,,2026-04-23-airtel-money-education-digitalisation-techreviewafrica
 COG,Mobile Money Congo (MMC),Congo,retail,,MTN with Ecobank,,2025-02-24-inclusion-financiere-mobile-money-tribune-okamba-ldb
@@ -281,6 +282,7 @@ DZA,DZMobPay (GIE Monétique),Algeria,retail,,GIE Monétique,,2026-11-06-dpi-map
 DZA,Djezzy Payment Services,Algeria,retail,,Optimum Telecom Algerie,,2026-09-29-dza-algeria-is-opening-the-door-to-telco-led-mobile-money-can-it-work
 DZA,GIE Monetique,Algeria,other,interbank switch,,,2026-09-29-dza-algeria-is-opening-the-door-to-telco-led-mobile-money-can-it-work
 DZA,TPE electronic payment terminals,Algeria,other,card terminals,"public banks, coordinated with ABEF",,2026-11-22-dza-nashr-180-alf-jihaz-lil-daf-al-iliktroni-abr-al-watan
+DZA,CIB interbank card,Algeria,other,SATIM,ABEF / SATIM,,2026-11-23-dza-radioalgerie-plafonds-carte-cib
 EGY,Instant Payment Network (IPN),Egypt,retail,InstaPay,Central Bank of Egypt,,2026-10-01-egypts-ipn-records-147-bln-transactions-in-2q-2026-cbe-governor
 EGY,InstaPay,Egypt,retail,,,,2026-09-23-enterpriseam-instapay-papss-egypt-integration
 EGY,InstaPay,Egypt,other,,Egyptian Banks Company,,2026-09-20-papss-meeza-card-integration-waya
@@ -313,6 +315,7 @@ EGY,InstaPay / Instant Payment Network,InstaPay (IPN),retail,,,,2026-11-08-egy-e
 EGY,Meeza Digital,Meeza Digital wallets,retail,,,,2026-11-08-egy-egypt-s-financial-inclusion-rate-rises-to-79-in-june-2026
 EGY,InstaPay/IPIN,Egypt,retail,,Central Bank of Egypt,,2026-11-06-dpi-map-2026-11-12
 EGY,InstaPay,Egypt,retail,,,,2026-11-10-egy-instapay-22-million-users-cbe-deputy-governor
+EGY,"Payment card tokenisation (Apple Pay since December 2024, Android from 23 November 2026)",Egypt,other,"phone wallets, contactless and online card payments",Central Bank of Egypt with banks and fintechs,national,2026-11-23-egy-sis-cbe-card-tokenisation-android
 ERI,EriTel-linked mobile wallets,Eritrea,retail,mobile wallet,EriTel,,2026-03-30-eritreas-fintech-ecosystem-2026-financial-inclusion
 ERI,M-Nakfa,Eritrea,retail,"mobile wallet, e-float backed by cash deposits",Himbol Community Financial Services,"individual, merchant and agent accounts",2025-01-01-eri-himbol-customers-partners-guide-m-nakfa
 ERI,M-Nakfa,M-Nakfa,retail,,Himbol Community Financial Services,,2025-11-01-eri-terms-and-conditions-of-service
@@ -408,6 +411,7 @@ GHA,Lands Commission online services portal,GHA,other,onlineservices.lc.gov.gh,L
 GHA,GhanaPay/ GIPS,,retail,,,,2026-11-06-dpi-map-2026-11-12
 GHA,eCedi (CBDC),,other,,,,2026-11-06-dpi-map-2026-11-12
 GHA,MobileMoney Fintech LTD,Ghana,retail,,MobileMoney Fintech LTD,,2026-11-18-gha-mobile-money-fraud-cybersecurity-fintech-roundtable
+GHA,Digital payment platforms (P2P),Mobile Money Fintech Limited platforms,retail,,Mobile Money Fintech Limited,,2026-11-23-gha-fintech-firms-urged-to-develop-financing-solutions-for-informal-businesses
 GIN,NimbaPay,Guinea,retail,Mojaloop,BCRG,,2026-07-28-guinea-ecofin-nimbapay-national-instant-payment-system
 GIN,NimbaPay,Guinea,retail,Mojaloop,"BCRG, implemented by Guineenne de Monetique","banks, e-money institutions, microfinance institutions",2026-07-24-guinee-nimbapay-inclusion-financiere-infrastructure-numerique
 GIN,NimbaPay,Guinea,retail,Mojaloop,"BCRG, implemented by Guineenne de Monetique","banks, e-money institutions, microfinance institutions",2026-07-23-guinea-nimbapay-instant-payment-system-launch
@@ -779,6 +783,7 @@ NGA,NIBSS Instant Payment (NIP),Nigeria,retail,,NIBSS,,2026-11-06-dpi-map-2026-1
 NGA,Nigeria Mobile money,Nigeria,retail,,,,2026-11-06-dpi-map-2026-11-12
 NGA,eNaira (CBDC),Nigeria,other,,Central Bank of Nigeria,,2026-11-06-dpi-map-2026-11-12
 NGA,AfriGO,Nigeria,other,EMV contactless card scheme,CBN and NIBSS,,2026-11-21-nga-independent-afritech-afrigo-digital-transactions
+NGA,NIBSS instant payment infrastructure,Nigeria,retail,,NIBSS,,2026-11-21-nga-nigeria-must-leverage-digital-infrastructure-to-expand-economic-opportunities-ex
 RWA,eKash,Rwanda,retail,National Instant Payment System,National Bank of Rwanda,,2026-10-09-bnr-moves-to-tackle-delayed-ekash-transfers
 RWA,eKash,Rwanda,retail,,National Bank of Rwanda,,2026-09-02-rwandas-new-ekash-payment-system-wins-praise-but-users-repor
 RWA,e-Kash,Rwanda,retail,common payment platform,,"banks, SACCOs, other financial service providers",2026-10-08-rwa-umunota-saccos-join-rwandas-e-kash-payment-system
@@ -832,6 +837,7 @@ SDN,MTN MoMo,Sudan,retail,mobile money,MTN,,2026-03-02-sdn-digital-inclusion-int
 SDN,Bankak,Sudan,other,mobile app,Bank of Khartoum,,2026-03-02-sdn-digital-inclusion-interrupted-sudan-s-uneven-financial-transformation
 SDN,USSD banking service,Sudan,retail,USSD,Ministry of Digital Transformation and Telecommunications with TPRA and Central Bank of Sudan,,2025-03-15-sdn-telecommunications-ministry-launches-service-allowing-citizens-to-acce
 SDN,National Instant Payment System (NIPS),Sudan,other,,Central Bank of Sudan,,2026-11-19-sdn-sudanhorizon-cbos-nips-contract
+SDN,NIPS,Sudan,retail,ISO 20022,Central Bank of Sudan,,2026-11-23-sdn-nips-sudan-national-instant-payment-system-details
 SEN,PI-SPI,Senegal,retail,instant payment,BCEAO,banks; e-money institutions; payment institutions,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,Wave,Senegal,retail,mobile money,Wave Digital Finance,,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,Orange Money,Senegal,retail,mobile,Orange Finances Mobiles Sénégal,,2024-09-30-bceao-liste-emetteurs-monnaie-electronique-umoa
