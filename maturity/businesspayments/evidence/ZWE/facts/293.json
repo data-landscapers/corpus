@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-23-zwe-praz-to-rebrand-egp-system-as-zepps-in-2027",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Procurement Regulatory Authority of Zimbabwe's eGP system, launched by the President in October 2023, became operational on 1 January 2024 for all public entities and bidders to conduct procurement electronically, and is to be enhanced and renamed ZEPPS from January 2027.",
+   "as_of": "2024-01-01",
+   "date_precision": "day",
+   "system": "electronic Government Procurement (eGP) system",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "electronic Government Procurement (eGP) system",
+   "country_label": "eGP / ZEPPS",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Procurement Regulatory Authority of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
