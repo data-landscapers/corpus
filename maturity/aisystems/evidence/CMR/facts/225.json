@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-03-cmr-cameroun-catastrophes-climatiques-une-plateforme-de-l-onac-pour-antici",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "ONACC says its climate platform, developed locally with researchers from the Ecole Nationale Supérieure Polytechnique de Yaoundé, integrates a locally built neural-network model, and was launched on 2026-01-14.",
+   "as_of": "2026-01-14",
+   "date_precision": "day",
+   "system": "ONACC plateforme numérique de suivi des risques climatiques",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
