@@ -5,14 +5,14 @@
       "sub_indicator": "census",
       "stage": "5",
       "census": "taken",
-      "results": "preliminary",
+      "results": "final",
       "survey": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZWE-007;ZWE-006;ZWE-005",
-      "gaps": "No source found reports the final results of the 2022 census.",
-      "note": "ZIMSTAT presented a preliminary report from the April 2022 census (ZWE-007), and the 2025 ICT household survey was published in July 2026 (ZWE-005), so all four questions are yes.",
-      "as_at": "2026-11-02"
+      "stage_sources": "ZWE-012;ZWE-006;ZWE-005",
+      "gaps": "",
+      "note": "ZIMSTAT's 2025 environment statistics report cites the 2022 census report for the population by sex and location (ZWE-012), the census was taken in April 2022 (ZWE-006), and the 2025 ICT household survey was published in July 2026 (ZWE-005), so all four questions are yes.",
+      "as_at": "2026-11-24"
     }
   ]
 }

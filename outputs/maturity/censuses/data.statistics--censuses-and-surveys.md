@@ -113,9 +113,9 @@ A national household survey published results in 2026, after final census result
 
 ### Zimbabwe: 5 Mature
 
-The 2022 census was counted and preliminary results published, and a household survey was published in 2026; final census results are not known.
+The 2022 census was counted and its results published, and a household survey was published in 2026.
 
-- Former ZIMSTAT director-general Taguma Mahonde presented the 2022 census preliminary report on functional difficulties, which counts 1.2 million people with difficulties performing physical activities and 192,000 with permanent disabilities ([source, 2022](https://www.heraldonline.co.zw/digital-inclusivity-leaving-no-place-no-person-behind/)).
+- ZIMSTAT's report cites the Zimbabwe 2022 Population and Housing Census Report for the population by sex and rural or urban location ([source, 2022](https://www.zimstat.co.zw/wp-content/uploads/production/environment/2026/2025%20Environment_Statistics_Human_Settlement_report.pdf)).
 - The Herald says the Population and Housing Census was taken in April 2022 in Zimbabwe ([source, 2022-04](https://www.heraldonline.co.zw/digital-inclusivity-leaving-no-place-no-person-behind/)).
 - The minister said the 2025 ICT Household Survey by ZIMSTAT and POTRAZ, released in July, shows 75.5 percent of households have home internet access and 11.2 percent own a computer ([source, 2026-07](https://www.heraldonline.co.zw/it-must-create-jobs-improve-services-minister/)).
 
@@ -140,7 +140,7 @@ Final results of the RGPH-3 2024 were published in 2026; no household survey pub
 
 ### Ghana: 4 Operating
 
-Final results of the 2021 PHC were published in 2026; no household survey published since 2023 is known.
+Final results of the 2021 census were published in 2026; no household survey result dated since 2023 is known.
 
 - The Ghana Statistical Service's census page offers the 2021 Population and Housing Census reports, regional and district profiles and population structure indicators ([source, 2026-10-24](https://www.statsghana.gov.gh/census-surveys/population-housing-census)).
 

@@ -60,3 +60,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-15,RWA,data.statistics--censuses-and-surveys,fact,3,5,RWA-003;RWA-002;RWA-007,"A 2025 deck cites final 2022 census figures; read with NISR's February 2023 Main Indicators Report, results are published and with the 2025 DHS the cell reaches 5"
 2026-11-15,ETH,data.statistics--censuses-and-surveys,fact,unplaced,unplaced,,"Addis Fortune (June 2026) says no census since 2007 but calls it delayed, not abandoned; rung 1 not met, stays unplaced"
 2026-11-15,SSD,data.statistics--censuses-and-surveys,fact,2,2,SSD-007;SSD-004,"Census dossier and operations manual prepared in 2025 with UNFPA: preparation confirmed, stays at 2"
+2026-11-24,ZWE,data.statistics--censuses-and-surveys,fact,5,5,ZWE-012;ZWE-006;ZWE-005,"ZIMSTAT's 2025 environment statistics report cites the final 2022 census report; the census results are final, and stage 5 stands."
+2026-11-24,GHA,data.statistics--censuses-and-surveys,fact,4,4,GHA-002,"A March 2025 GSS document cites an AHIES labour force report without a release date; not plainly published since October 2023, so stage 4 stands."
