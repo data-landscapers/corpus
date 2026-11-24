@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-24
+period: 2026-10-01 to 2026-11-24
 place: XAF
-ledger_rows: 106
+ledger_rows: 109
 not_held: 3
-record: e91a09299824
+record: 316d2d0299ca
 ---
 
 # News, Oct – Nov 2026
@@ -685,6 +685,20 @@ The African Development Bank's November 2026 macroeconomic outlook says Africa c
 **[Can AI data centres help power underserved African communities?](https://www.climatechangenews.com/2026/11/16/can-ai-data-centres-help-power-underserved-african-communities/)** — Climate Home News, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
 
 Somalia, Uganda and Sierra Leone endorsed the COP31 presidency's voluntary pledge on AI and climate at the UN climate summit in Antalya on 16 November 2026. Nine countries and more than 40 companies had signed it. Signatories commit to powering AI infrastructure sustainably, and the pledge calls for computing access for developing countries.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Compute cost and funding of African AI businesses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africa wants AI. Can its startups afford to build it?](https://techcabal.com/2026/11/23/high-cost-building-ai-africa/)** — TechCabal, 23 November 2026
+
+GIZ-Briter study of 311 AI firms: 65% name compute as top R&D cost; median ticket USD 225,000; 15% profitable.
 
 </div>
 
@@ -1388,6 +1402,20 @@ A news report of 10 November 2026 covers the WHO report on health data systems p
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Annual Report on the State of Digital Health in Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africa CDC, GSMA and Member States validate first Annual Report on Digital Health in Africa](https://techreviewafrica.com/news/8459/africa-cdc-gsma-and-member-states-validate-first-annual-report-on-digi)** — Tech Review Africa, 23 November 2026
+
+Common measurement framework for all 55 AU states; report due at AU Summit, February 2027.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -1703,6 +1731,20 @@ The International Telecommunication Union estimated in this report, issued on 3 
 **[ITU Report: Africa’s Internet Use Stands at 42% Against 76% Globally as 6.3 Billion Go Online](https://techafricanews.com/2026/11/19/itu-report-africas-internet-use-stands-at-42-against-76-globally-as-6-3-billion-go-online/)** — Tech Africa News, 19 November 2026
 
 Tech Africa News reported on 19 November 2026 the International Telecommunication Union's 2026 estimates. Internet use in Africa is 42%, up from 27% in 2020, against 76% globally. In Africa 45% of men and 38% of women use the internet, and 52% of urban residents against 23% of rural residents. 5G reaches 15% of Africa's population, against 59% worldwide.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Smartphone shipments and entry-level affordability</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African smartphone shipments plunge 40%](https://www.itweb.africa/article/african-smartphone-shipments-plunge-40/xA9POvNEnGVqo4J8)** — ITWeb Africa, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Omdia 3Q26: 13.7m units; Nigeria -47%, Egypt -41%, Kenya -35%, South Africa -20%; feature phones +27%.
 
 </div>
 
