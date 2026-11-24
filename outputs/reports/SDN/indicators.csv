@@ -821,7 +821,13 @@ A satellite land-health comparison between early 2023 and 2025 finds nearly 40,0
 
 An earlier technical report analyses cropland extent and cultivated-area trends from 2018 to 2024 ([report](2025-01-01-fao-remote-sensing-cultivated-cropland-sudan-2024)).
 
-All three are partner-produced.",SDN-data.geospatial-agricultural-monitoring,2,SDN-data.geospatial-agricultural-monitoring,,,,,,,2026-08-31,0,partner assessments using satellite data; no national service on record
+All three are partner-produced.
+
+2025-10-29 - [the company Maxat launched a Future Agriculture platform](2025-10-29-sdn-maxat-launches-future-agriculture-satellite-platform) offering crop growth tracking, moisture analysis and pest detection from satellite imagery; the account is the company's own.
+
+2025-10 - [FAO lists Gezira as the pilot area of its WaPOR water productivity programme in Sudan](2025-10-29-sdn-sudan-country-activities-wapor-remote-sensing-for-water-productivity).
+
+FAO [mapped crop types across the Gezira irrigation scheme for the 2019/20 to 2023/24 seasons](2024-07-15-sdn-crop-type-mapping-of-the-gezira-irrigation-scheme-geospatial-cropland), and its WaPOR-based [drought monitoring tool covers Gedaref State](2026-01-01-sdn-sudan-drought-monitoring-tool); no national roll-out has been found.",SDN-data.geospatial-agricultural-monitoring|SDN-data.geospatial-maxat-future-agriculture|SDN-data.geospatial-sdmt|SDN-data.geospatial-gezira-crop-type-mapping|SDN-data.geospatial-wapor,2,SDN-data.geospatial-agricultural-monitoring,,,,,,,2026-08-31,0,partner assessments using satellite data; no national service on record
 data.geospatial--meteorological-use-of-satellite-data,Movement,"The national meteorological authority [forecasts from satellite rainfall estimates](2025-05-01-sudan-suncof2-seasonal-forecast-report), and a [dekadal subnational rainfall series](2026-07-14-sudan-rainfall-indicators-subnational-hdx) runs to July 2026.","The authority's own seasonal forecast report states its rainfall forecasts use estimated rainfall data obtained from satellites, enhanced with surface rain-gauge data ([report](2025-05-01-sudan-suncof2-seasonal-forecast-report)). That is primary evidence of operational sovereign use, not a partner product.
 
 A dataset of dekadal subnational rainfall indicators computed from satellite imagery combined with station data and short-term forecasts was modified on 14 July 2026 with coverage extended to 10 July ([dataset](2026-07-14-sudan-rainfall-indicators-subnational-hdx)).
