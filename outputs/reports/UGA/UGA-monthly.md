@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: UGA
 ledger_rows: 62
 not_held: 11
-record: f9e812bc5bea
+record: de277ef7f319
 ---
 
 # News, Oct – Nov 2026
@@ -315,6 +315,14 @@ The ITU Plenipotentiary Conference in Doha elected 13 African countries to the I
 **[NITA-U's UDAP Project Supports Financial Intelligence Authority Towards ISO/IEC 27001:2022 Certification](https://www.nita.go.ug/news-updates/nita-us-udap-project-supports-financial-intelligence-authority-towards-isoiec)** — National Information Technology Authority - Uganda (NITA-U), 27 October 2026
 
 On 27 October 2026 NITA-U handed the Financial Intelligence Authority its ISO/IEC 27001:2022 information security certification. The work falls under the World Bank-funded ISMS Implementation Project of the Uganda Digital Acceleration Project. The Minister of Finance urged other government bodies to follow.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda’s URSB Receives ISO 27001 Certification to Strengthen Information Security](https://techafricanews.com/2026/11/24/ugandas-ursb-receives-iso-27001-certification-information-security/)** — Tech Africa News, 24 November 2026
+
+ISO/IEC 27001:2022 ISMS certificate handed over by NITA-U under World Bank-funded UDAP-GovNet project.
 
 </div>
 
@@ -797,6 +805,14 @@ Uganda's Judiciary is digitising the Chief Registrar's records on advocates and 
 **[Government Moves to Reduce Cost of Obtaining Land Titles](https://nilepost.co.ug/news/377216/government-moves-to-reduce-cost-of-obtaining-land-titles)** — Nile Post, 11 October 2026
 
 Uganda's minister of state for lands, Harriet Ntabazi, said new digital systems let land-title applicants enter their data at district level and have titles printed without travelling between offices. She said some landowners had paid more than Shs2.5 million to surveyors and land boards, and that surveyors will be registered in the ministry's database.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Procurement consultancy - Upgrade of the Uganda Land Information Management Solution (UGNLIS) Using Blockchain and Artificial Intelligence](https://tenderpilotug.com/t/egp-417927332)** — TenderPilot (e-GP notice by Ministry of Lands, Housing and Urban Development, Uganda), 2 November 2026
+
+MoLHUD e-GP tender for supervising a blockchain and AI upgrade of UgNLIS; closes 2 Dec 2026.
 
 </div>
 
