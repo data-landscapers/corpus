@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: tech.ai
-places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e8999df1d209
+places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 78663e1dc8a5
 ---
 
 # News, Oct – Nov 2026
@@ -65,6 +65,8 @@ record: e8999df1d209
 <a href="#mali">Mali</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritania">Mauritania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -388,6 +390,20 @@ An unsigned CamerPressAgency editorial reports that a workshop to pre-validate C
 **[La Stratégie Nationale de Transformation Digitale en gestation : Le Tchad amorce son grand virage numérique avec l'appui du PNUD | CamerPressAgency](https://camerpressagency.com/la-strategie-nationale-de-transformation-digitale-en-gestation-le-tchad-amorce-son-grand-virage-numerique-avec-lappui-du-pnud/)** — CamerPressAgency, 5 November 2026
 
 Chad began drafting a National Digital Transformation Strategy on 4 November 2026, at a framing meeting chaired by the digital economy director-general. UNDP is funding an international consultancy. Chad's data governance strategy has been validated and its AI strategy pre-validated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI for Good Lab-Tchad</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Chad Eyes ITU-Backed AI Lab to Build Local Capacity](https://www.ecofinagency.com/news-digital/2411-61140-chad-eyes-itu-backed-ai-lab-to-build-local-capacity)** — Ecofin Agency, 24 November 2026
+
+Chad's telecoms minister, Haliki Choua Mahamat, sought ITU support under its GENIE.AI initiative to set up an AI for Good Lab-Tchad. The plan includes a developer sandbox, public-sector AI computing and a backup at the national data centre. He raised it with incoming BDT director Nele Leosk at PP-26 in Doha, in the week before 24 November 2026.
 
 </div>
 
@@ -735,6 +751,22 @@ Ahmed Abou Hashima put a study to the Egyptian Senate's economic and financial a
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[أحمد أبوهشيمة: مصر لا تبدأ من الصفر فى الذكاء الاصطناعى.. وأصولها الرقمية كنز يجب استثماره](https://www.youm7.com/story/2026/11/23/أحمد-أبوهشيمة-مصر-لا-تبدأ-من-الصفر-فى-الذكاء-الاصطناعى/7629258)** — Youm7, 23 November 2026
+
+On 23 November 2026, Senator Ahmed Abou Hashima presented his study on AI in economic management to Egypt's Senate. It cites over 2.5 billion e-invoices and receipts, and InstaPay transactions of about EGP 7 trillion to September 2026. He named a digital hub linking about 100 databases across more than 105 bodies as a key asset.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير الاتصالات  أمام الشيوخ: الذكاء الاصطناعي يدخل  التنبؤ  بايرادات الدولة ورصد المؤشرات الاقتصادية.. رأفت هندي يكشف 3 تطبيقات ذات أولوية.. وربط 105 جهات حكومية و100 قاعدة بيانات قومية لدعم إدارة الاقتصاد](https://www.youm7.com/story/2026/11/23/وزير-الاتصالات-أمام-الشيوخ-الذكاء-الاصطناعي-يدخل-التنبؤ-بايرادات-الدولة/7629432)** — Youm7, 23 November 2026
+
+Egypt's communications minister, Raafat Hendy, proposed three priority AI applications to the Senate on 23 November 2026. They cover public revenue forecasting, macroeconomic indicator prediction and analysis of deviations in fiscal indicators. He said pilots would run with the finance and planning ministries before any expansion.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -762,6 +794,20 @@ FinTech Gate reported on 23 November 2026 that Egypt's guideline for government 
 **[الحكومة المصرية تضع ضوابط لحماية البيانات الشخصية عند شراء أنظمة الذكاء الاصطناعي](https://www.fintechgate.net/258324)** — FinTech Gate, 23 November 2026
 
 FinTech Gate reported on 23 November 2026 the data protection rules in Egypt's guideline for buying AI systems. Third-party models may not be trained on government data without explicit authorisation. Bidders must disclose storage locations, retention periods, sub-processors and proof of deletion.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Policy on the Responsible Use of AI in Government Entities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Policy on the Responsible Use of Artificial Intelligence in Egyptian Government Entities (first edition)](https://www.ai.gov.eg/SynchedFiles/en/Resources/Policy%20on%20the%20Responsible%20Use%20of%20Artificial%20Intelligence%20in%20Egyptian%20Government%20Entities.pdf)** — National Council for Artificial Intelligence, Quantum Computing and Emerging Technologies (Egypt), 17 November 2026
+
+Egypt's National Council for AI published a first government-wide policy on responsible AI use in November 2026. In force from 1 October 2026, it sets permitted, restricted and prohibited uses. It covers ministries, agencies, state-owned companies and their contractors, but not national security entities.
 
 </div>
 
@@ -1016,6 +1062,20 @@ Guinea's Prime Minister, Amadou Oury Bah, said the government will digitise publ
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">HAC prohibition on AI-generated media content</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinea Introduces Restrictions on AI Use in Election Media Coverage](https://apva.africa/guinea-introduces-restrictions-on-ai-use-in-election-media-coverage/)** — APVA, 16 November 2026
+
+Guinea's media regulator, the Haute Autorité de la Communication (HAC), signed election coverage rules on 6 November 2026. They bar irresponsible use of AI to distort information or manipulate candidates' statements. The rules cover the regional polls of 29 November and senatorial elections of 20 December 2026.
+
+</div>
+
+</div>
+
 ## Guinea-Bissau
 
 <div class="monthly-story" markdown="1">
@@ -1146,6 +1206,20 @@ Kenya's High Court gave the government six months to complete a national policy 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mahakama AI judicial research tool</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mahakama AI: Judiciary pilots AI tool to tackle chronic case backlog](https://www.the-star.co.ke/news/2026-11-19-judiciary-pilots-ai-tool-to-tackle-case-backlog)** — The Star, 19 November 2026
+
+In November 2026 Kenya's Judiciary reported piloting Mahakama AI, an internal legal research tool for judges. By end-June 2026, 579,954 cases were pending, 341,412 of them for over three years. It had 244 legal researchers in post against an approved 650.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -1157,6 +1231,20 @@ Kenya's High Court gave the government six months to complete a national policy 
 **[وزارة العمل والتأهيل تستعد لتشغيل منصتها الشاملة وتوحيد بياناتها ](https://lana.gov.ly/post.php?id=369567&lang=ar)** — Libyan News Agency (LANA), 8 November 2026
 
 Libya's Ministry of Labour and Rehabilitation said on 8 November 2026 that its digital platform is ready for web use, with iOS and Android versions to follow. The minister ordered staff data registration to be completed so that the platform's unified database can go live. The implementer is Nasr Global IT.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Media content monitoring authority guide to AI use</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[توصيات بسن تشريعات رقمية ومواجهة التضليل - مؤتمر الاعلام بجامعة الزيتونة يضع خارطة طريق لمواكبة الذكاء الاصطناعي](https://lana.gov.ly/post.php?id=369901&lang=ar)** — وكالة الأنباء الليبية (وال), 12 November 2026
+
+Libya's General Authority for Media Content Monitoring is drafting a guide on AI use in media. Its head, Jalal Othman, told the state news agency in November 2026 that monitors had recorded fabricated images. He said the media code of conduct bans deepfakes.
 
 </div>
 
@@ -1240,6 +1328,22 @@ Mauritania scored 0.99 out of 4 on the Africa AI Governance Index 2026, in the N
 
 </div>
 
+## Mauritius
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI-powered personalised learning platform for the education sector</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Expression of Interest (EOI) for the project "AI-Powered Personalised Learning Platform for the Education Sector"](https://education.govmu.org/Communique/2026/Press%20Communique%20EOI%20AI.pdf)** — Ministry of Education and Human Resource, 6 November 2026
+
+Mauritius's education ministry invited expressions of interest on 6 November 2026 for an AI-powered personalised learning platform. Technology firms and foreign providers with authorised local representatives could respond by 20 November 2026.
+
+</div>
+
+</div>
+
 ## Morocco
 
 <div class="monthly-story" markdown="1">
@@ -1255,6 +1359,7 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 </div>
 
 </div>
+
 
 <div class="monthly-story" markdown="1">
 
@@ -1295,6 +1400,20 @@ Morocco's AI, Digital Transition and Administrative Reform Ministry presented it
 **[بـ”الدارجة” ولجميع المغاربة.. الحكومة توظف الذكاء الاصطناعي لتبسيط 2800 مسطرة إدارية](https://al3omk.com/1208688.html)** — Al3omk, 10 November 2026
 
 Ahmed Rahhou is Morocco's Minister of AI, Digital Transition and Administrative Reform. On 10 November 2026 he presented his ministry's 2027 sub-budget to the House of Representatives' Interior Committee. He said the ministry is using AI to find which of about 2,800 administrative procedures can be simplified. Al3omk reports he also said the 1918–2026 Official Gazette archive will be opened to AI tools to speed legal drafting and research.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial intelligence authority AI-assistant platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Renseignement financier : L'ANRF intègre l'IA pour améliorer son capital informationnel](https://aujourdhui.ma/economie/renseignement-financier-lanrf-integre-lia-pour-ameliorer-son-capital-informationnel)** — Aujourd'hui le Maroc, 11 November 2026
+
+Morocco's National Financial Intelligence Authority (ANRF) launched a tender, reported on 11 November 2026, for a secure AI-assistant platform. It must work in Arabic, French and English and include a legal assistant from launch. The authority wants control of its data and models, and capacity for at least 100 simultaneous users.
 
 </div>
 
@@ -2057,6 +2176,20 @@ Togo's digital transformation ministry launched Voix du Togo in October 2026, a 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">National digital observatory AI assistant</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Développement numérique au Togo : un assistant IA permet désormais d'accéder rapidement aux données officielles](https://lanouvellerepublique.net/economie/numerique/developpement-numerique-au-togo-un-assistant-ia-permet-desormais-dacceder-rapidement-aux-donnees-officielles/)** — La Nouvelle République, 28 October 2026
+
+In October 2026 Togo's digital economy ministry added a conversational AI assistant to the National Digital Observatory platform. Users can ask questions in natural language to find statistics on the country's digital development.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Placing on the Ayre Index of AI readiness</p>
 
 <div class="bulletin-item" markdown="1">
@@ -2150,6 +2283,23 @@ Tunisian Customs spokesman Colonel-Major Chokri Jabri said on 12 October 2026 th
 **[سجل المؤسسات يدخل عصر "الروبوتات"](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/157289-%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D9%8A%D8%AF%D8%AE%D9%84-%D8%B9%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA%D8%A7%D8%AA)** — Assabah News, 5 November 2026
 
 Tunisia's National Business Registry announced two AI services on 5 November 2026. Nawarni is a chatbot that guides founders through company creation and the choice of legal form. A second bot checks and reserves trade names. The Hague Institute for Innovation of Law built them, with funding from the Dutch embassy.
+
+</div>
+
+</div>
+
+
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Court of Audit artificial-intelligence strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[محكمة المحاسبات: المصادقة على استراتيجية لتوظيف الذكاء الاصطناعي و ورقمنة الأرشيف](https://www.alchourouk.com/article/%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%AF%D9%82%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D8%AA%D9%88%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88-%D9%88%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%B4%D9%8A%D9%81)** — Al Chourouk, 24 November 2026
+
+Tunisia's Court of Audit has approved a strategy for using AI that covers 46 possible use cases, its deputy first president Fadhila Gargouri told a joint plenary of both chambers on 24 November 2026. The strategy sits alongside an integrated information system, archive digitisation and risk-management teams. The plenary was debating the court's 2027 budget.
 
 </div>
 

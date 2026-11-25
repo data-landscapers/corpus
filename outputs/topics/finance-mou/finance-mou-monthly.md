@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: finance.mou
-places: BEN; BWA; BDI; CIV; COD; EGY; ETH; MUS; MOZ; NGA; SEN; ZAF; SDN; TZA; TUN; UGA
-record: 1e48af20e9b0
+places: BEN; BWA; BDI; CIV; COD; EGY; ETH; KEN; MUS; MOZ; NGA; SEN; ZAF; SDN; TZA; TUN; UGA
+record: e9936dee95d7
 ---
 
 # News, Oct – Nov 2026
@@ -23,6 +23,8 @@ record: 1e48af20e9b0
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -121,6 +123,20 @@ Côte d'Ivoire's ministry of digital transition signed a memorandum of understan
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital-cooperation memorandum with the European Bank for Reconstruction and Development</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IA, start-up, infrastructures : la Côte d’Ivoire élargit sa coopération numérique avec la BERD](https://www.wearetech.africa/fr/fils/actualites/tech/ia-start-up-infrastructures-la-cote-d-ivoire-elargit-sa-cooperation-numerique-avec-la-berd)** — wearetech.africa, 24 November 2026
+
+Côte d'Ivoire and the EBRD signed a digital-cooperation memorandum in Abidjan on 23 November 2026. It covers technical help, project finance and start-up support for the national AI strategy to 2030. No amount was disclosed. The public-service digitisation programme targets 700 services, of which 620 are identified and 59 ranked high priority.
+
+</div>
+
+</div>
+
 ## DR Congo
 
 <div class="monthly-story" markdown="1">
@@ -164,6 +180,22 @@ Telecom Egypt and e-finance signed a memorandum at Cairo ICT 2026, held from 7 t
 **[DSRV Signs MOU with Ethiopian State-Owned Enterprise: "Blockchain-Based Financial and Public Services Cooperation"](https://www.asiae.co.kr/en/article/2026102909031800756)** — The Asia Business Daily, 29 October 2026
 
 Faydaverse, the state enterprise created from Ethiopia's national digital ID programme, signed a memorandum with South Korean blockchain firm DSRV on 26 October 2026. A joint working group will study turning its digital wallet into a verifiable-credentials wallet with a blockchain layer. The two also plan to explore public assistance based on digital ID, such as e-vouchers.
+
+</div>
+
+</div>
+
+## Kenya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EU-Kenya Digital Partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU and Kenya hold successful digital dialogue](https://digital-strategy.ec.europa.eu/en/news/eu-and-kenya-hold-successful-digital-dialogue)** — European Commission (DG CONNECT), 24 November 2026
+
+The EU and Kenya held their Digital Dialogue in Brussels on 23-24 November 2026 and launched a cooperation roadmap. They agreed AI Factories partnerships on language diversity and agriculture. Technical work on digital identity will follow the EU Digital Identity Framework. Team Europe's pipeline is to bring aerial fibre to 3,000 schools, health centres and digital hubs.
 
 </div>
 

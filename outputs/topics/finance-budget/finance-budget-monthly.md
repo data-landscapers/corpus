@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: finance.budget
 places: BEN; CIV; GAB; LBR; LBY; MAR; MOZ; SEN; SYC; TUN
-record: b5247d70ca64
+record: 7386ddc598b6
 ---
 
 # News, Oct – Nov 2026
@@ -126,6 +126,20 @@ The Central Bank of Libya's statement of state revenue and spending for January 
 </div>
 
 ## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital ministry investment appropriation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PLF 2027 : l'État branché sur l'IA](https://telquel.ma/2026/10/30/plf-2027-letat-branche-sur-lia_2015907)** — TelQuel, 30 October 2026
+
+The presentation note to Morocco's 2027 draft finance bill gives the AI ministry MAD 1.34bn, MAD 1.08bn for investment. It names GemMaroc and IsMa language models and a 50-megawatt sovereign data centre, Jazari Root, for 2027-2029. The tax directorate plans AI models to target complex fraud schemes.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

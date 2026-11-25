@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: dab8badfe60c
+record: ed80ef37b9fe
 ---
 
 # News, Oct – Nov 2026
@@ -2728,6 +2728,20 @@ PRASA launched three digital passenger channels on 17 November 2026: the myprasa
 **[SA strategises to use AI for tangible benefits for citizens](https://www.sanews.gov.za/south-africa/sa-strategises-use-ai-tangible-benefits-citizens)** — SAnews (South African Government News Agency), 19 November 2026
 
 South Africa's Minister in the Presidency, Khumbudzo Ntshavheni, spoke in San Jose, California, during the President's Silicon Valley visit, reported on 19 November 2026. She said the visit's outcomes would inform a review of the Digital Transformation Roadmap. Government is weighing AI guidelines with safeguards, which she said would not be optional.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic Movement Control System (EMCS 2.0)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[No budget for digital border control at land ports as SA faces busy festive season](https://www.citizen.co.za/news/south-africa/no-budget-digital-border-control-land-ports-busy-festive-season/)** — The Citizen, 24 November 2026
+
+South Africa's Border Management Authority told Parliament on 24 November 2026 that its biometric system, EMCS 2.0, will reach land ports only as funds allow. It has run at the Johannesburg, Cape Town and Durban airports since August 2026. Land ports have obsolete laptops and thin bandwidth. The four busiest recorded 4.1 million crossings in July-September 2026.
 
 </div>
 

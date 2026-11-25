@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: de25f0d3f45d
+record: 7aca38b0698e
 ---
 
 # News, Oct – Nov 2026
@@ -230,6 +230,20 @@ Chad validated its National Data Governance Strategy at a workshop in N'Djamena 
 **[TRANSFORMATION NUMÉRIQUE : LE TCHAD BÂTIT SA SOUVERAINETÉ DE LA DONNÉE](https://camerpressagency.com/transformation-numerique-le-tchad-batit-sa-souverainete-de-la-donnee/)** — CamerPressAgency, 7 October 2026
 
 Chad's telecoms and digital economy minister Haliki Choua Mahamat opened a workshop in N'Djamena to validate the National Data Governance Strategy, reported on 7 October 2026. The strategy runs to 2030 and has seven pillars, including institutional governance, interoperability, personal data protection and skills, with health, education, agriculture, mining and digital finance named as priority sectors. No budget is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data governance maturity on the African Union self-assessment tool</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : la stratégie de gouvernance des données validée, celle de l'IA en préparation](https://www.agenceecofin.com/actualites-numerique/1210-142318-tchad-la-strategie-de-gouvernance-des-donnees-validee-celle-de-l-ia-en-preparation)** — Agence Ecofin, 12 October 2026
+
+Chad's digital economy ministry opened pre-validation of a national AI strategy for 2026-2030 on 8 October 2026. The step followed technical validation of a national data-governance strategy. A May 2026 diagnostic on the African Union's self-assessment tool put data-governance maturity at 30.27%.
 
 </div>
 

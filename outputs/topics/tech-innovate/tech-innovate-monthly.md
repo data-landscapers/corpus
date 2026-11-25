@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: tech.innovate
-places: DZA; AGO; BEN; BFA; BDI; CAF; CIV; COD; EGY; SWZ; ETH; GMB; GHA; KEN; MWI; MRT; MUS; MAR; NAM; NGA; SEN; SLE; ZAF; SSD; TZA; TUN; ZWE
-record: e2f5ad376d5d
+places: DZA; AGO; BEN; BFA; BDI; CAF; CIV; COD; EGY; SWZ; ETH; GMB; GHA; KEN; MWI; MRT; MUS; MAR; NAM; NGA; SEN; SLE; ZAF; SSD; TZA; TGO; TUN; ZWE
+record: 600ee11c730b
 ---
 
 # News, Oct – Nov 2026
@@ -59,6 +59,8 @@ record: e2f5ad376d5d
 <a href="#south-sudan">South Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -768,6 +770,22 @@ On 19 October 2026 Vice-President Deogratius Ndejembi directed the Ministry of I
 **[Tanzania plans $50m venture capital fund for startups](https://ippmedia.co.tz/the-guardian/news/local-news/read/tanzania-plans-50m-venture-capital-fund-for-startups-2026-10-26-115005)** — The Guardian (Tanzania), 26 October 2026
 
 The Tanzania Startup Association proposed a $50 million venture capital fund at Tanzania Startup Week 2026 in Dar es Salaam. It wants 15 per cent from government and the rest from private institutional investors. The fund would back 18 local and regional funds and seek $180 million in co-investment.
+
+</div>
+
+</div>
+
+## Togo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital toolkit for micro and small enterprises (BoD-TPME)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo Opens Software Platform to Local Developers](https://www.togofirst.com/en/itc/2311-20728-togo-opens-software-platform-to-local-developers)** — Togo First, 23 November 2026
+
+Togo opened a call on 20 November 2026 for local developers to list software on the BoD-TPME platform. Applications close on 8 January 2027; small businesses buying listed tools may receive subsidies. Agence Togo Digital developed the platform, a digital toolkit for small businesses launched in Kara in June 2026.
 
 </div>
 

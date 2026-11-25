@@ -1,10 +1,10 @@
 ---
 title: Standards — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: gov.standards
 places: DZA; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; SEN; ZAF; SDN; TUN; UGA; ZMB
-record: f11287001cd7
+record: e6f63403a604
 ---
 
 # News, Oct – Nov 2026
@@ -696,6 +696,14 @@ The ITU Plenipotentiary Conference in Doha elected 13 African countries to the I
 **[NITA-U's UDAP Project Supports Financial Intelligence Authority Towards ISO/IEC 27001:2022 Certification](https://www.nita.go.ug/news-updates/nita-us-udap-project-supports-financial-intelligence-authority-towards-isoiec)** — National Information Technology Authority - Uganda (NITA-U), 27 October 2026
 
 On 27 October 2026 NITA-U handed the Financial Intelligence Authority its ISO/IEC 27001:2022 information security certification. The work falls under the World Bank-funded ISMS Implementation Project of the Uganda Digital Acceleration Project. The Minister of Finance urged other government bodies to follow.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda’s URSB Receives ISO 27001 Certification to Strengthen Information Security](https://techafricanews.com/2026/11/24/ugandas-ursb-receives-iso-27001-certification-information-security/)** — Tech Africa News, 24 November 2026
+
+Uganda's business registry, URSB, has received ISO/IEC 27001:2022 certification for information security management, reported on 24 November 2026. NITA-U handed it over under an ISMS project of the World Bank-funded Uganda Digital Acceleration Project – Government Network.
 
 </div>
 

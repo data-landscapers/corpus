@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d2225bc92efe
+record: 6b3565e650bf
 ---
 
 # News, Oct – Nov 2026
@@ -605,6 +605,14 @@ The Banque centrale du Congo granted Wave an electronic-money institution licenc
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Inclusion financière : la BCC agrée Wave, un nouvel acteur de la monnaie électronique en RDC](https://www.bcc.cd/articles/monnaie-et-paiements/bcc-agree-wave-monnaie-electronique-2026)** — Banque Centrale du Congo, 23 November 2026
+
+The Central Bank of Congo published a notice on 23 November 2026 that it has licensed Wave as an electronic money institution. The notice links the licence to its financial inclusion aims. It also links it to the reform of 9 April 2027 reserving cash commercial settlements for the Congolese franc.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -616,20 +624,6 @@ The Banque centrale du Congo granted Wave an electronic-money institution licenc
 **[RDC : discordances des effectifs, manque de fiabilité des bases de données et incohérences dans les listings de paie, les principales défaillances révélées par l’audit de l’état liquidatif de la paie des fonctionnaires](https://actualite.cd/2026/11/22/rdc-discordances-des-effectifs-manque-de-fiabilite-des-bases-de-donnees-et-incoherences)** — Actualite.cd, 22 November 2026
 
 Actualite.cd reported that an Inspection generale des finances audit of the DR Congo civil-service payroll was presented to the Council of Ministers on 20 November 2026. It found unreliable databases and mismatches between payroll statements and listings. President Tshisekedi ordered payroll files unified and duplicates removed.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Wave electronic-money institution licence</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Inclusion financière : la BCC agrée Wave, un nouvel acteur de la monnaie électronique en RDC](https://www.bcc.cd/articles/monnaie-et-paiements/bcc-agree-wave-monnaie-electronique-2026)** — Banque Centrale du Congo, 23 November 2026
-
-The Central Bank of Congo published a notice on 23 November 2026 that it has licensed Wave as an electronic money institution. The notice links the licence to its financial inclusion aims. It also links it to the reform of 9 April 2027 reserving cash commercial settlements for the Congolese franc.
 
 </div>
 
@@ -1269,6 +1263,20 @@ TechCabal reported on 17 November 2026 that stablecoins can move dollar value ac
 **[Payaza secures digital payment licence from Central Bank of Kenya](https://www.wearetech.africa/fr/fils/breves/breves-simple/payaza-decroche-une-licence-de-paiement-numerique-aupres-de-la-banque-centrale-du-kenya)** — wearetech.africa, 17 November 2026
 
 Payaza, a payment-gateway fintech, obtained Central Bank of Kenya authorisation after nearly four years of applications, reported on 17 November 2026. The company runs cross-border transaction infrastructure linking East, West and Southern Africa.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">M-PESA Shiriki Pay</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Safaricom Reports 3.7 Million Opt-Ins for M-PESA Shiriki Pay](https://techafricanews.com/2026/11/24/safaricom-shiriki-pay-records-3-7-million-customer-opt-ins/)** — Tech Africa News, 24 November 2026
+
+Safaricom reported over 3.7 million customer opt-ins for M-PESA Shiriki Pay as at 24 November 2026. The service lets an account holder authorise up to five beneficiaries to pay from the wallet, each capped at KES 20,000 a month. Beneficiaries cannot withdraw cash or see the balance.
 
 </div>
 
@@ -2236,6 +2244,20 @@ UCL's Institute for Innovation and Public Purpose released its DPI Map dataset o
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Vodacom and Absa banking and connectivity partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Vodacom, Absa to co-develop mobile financial services](https://www.connectingafrica.com/partnerships/vodacom-absa-to-co-develop-mobile-financial-services)** — Connecting Africa, 24 November 2026
+
+Vodacom South Africa and Absa Group have announced a partnership to co-develop combined banking and connectivity offers, including device financing, reported on 24 November 2026. Products will follow once commercial, technical, legal and regulatory arrangements are complete.
+
+</div>
+
+</div>
+
 ## South Sudan
 
 <div class="monthly-story" markdown="1">
@@ -2408,6 +2430,14 @@ The Central Bank of Sudan signed a contract in Khartoum on 19 November 2026 to e
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Sudan central bank plans national instant payment platform to curb cash reliance](https://sudantribune.com/article/321573)** — Sudan Tribune, 23 November 2026
+
+The Central Bank of Sudan signed a contract in November 2026 for a national instant payment system. A pilot for 10,000 to 50,000 users precedes nationwide launch within 18 months of the contract. The bank keeps ownership of the platform, brand and data.
+
+</div>
+
 </div>
 
 ## Tanzania
@@ -2481,6 +2511,7 @@ Tanzania's deputy finance minister told Parliament on 29 October 2026 that the B
 </div>
 
 </div>
+
 
 <div class="monthly-story" markdown="1">
 

@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: 07d777817558
+record: 5fc670165e58
 ---
 
 # News, Oct – Nov 2026
@@ -330,6 +330,20 @@ Burkina Faso's digital transition minister, Aminata Zerbo, said on 8 October 202
 **[Compte rendu du Conseil des ministres du jeudi 5 novembre 2026](https://burkina24.com/2026/11/05/compte-rendu-du-conseil-des-ministres-du-jeudi-5-novembre-2026/)** — Burkina24, 5 November 2026
 
 Burkina Faso's Council of Ministers adopted two decrees on 5 November 2026. One creates the foundational identification system and a national register of the unique identifier. The other designates the Ministry of Digital Transition to enrol people and issue the identifier until the competent body is operational. The council also approved CFA 15,463,900,000 of state-funded ministry projects, including a new administration network in Ouagadougou and Bobo-Dioulasso.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet subscriptions, fixed and mobile</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Semaine du numérique : Le Burkina Faso place la souveraineté technologique au cœur de la 21e édition](https://lefaso.net/spip.php?article151010=)** — leFaso.net, 24 November 2026
+
+Burkina Faso's Prime Minister opened the 21st Semaine du numérique in Ouagadougou on 24 November 2026, under a technological-sovereignty theme. He named control of infrastructure and data, simpler public services and secure, inclusive digitalisation as government priorities. He put internet subscriptions in Q2 2026 at 328,764 fixed and 20,439,942 mobile.
 
 </div>
 
@@ -677,6 +691,14 @@ Djibouti's minister Mohamed Abdoulkader Moussa reviewed two IDA-funded digital p
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti étend la fibre optique pour connecter administrations, écoles et hôpitaux](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-etend-la-fibre-optique-pour-connecter-administrations-ecoles-et-hopitaux)** — wearetech.africa, 24 November 2026
+
+Djibouti plans to connect 104 more public sites to fibre by December 2026, among them Peltier hospital, schools and administrative buildings, after a 33-site pilot. The work falls under the IDA-funded US$10m Djibouti Digital Foundations project.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -940,6 +962,14 @@ Ethio telecom extended 4G LTE to 80 more Ethiopian towns. Its 2026/27 plan targe
 **[Ethio telecom and ZTE Deploy Ethiopia’s First Pre-Commercial AI RAN Solution](https://techafricanews.com/2026/11/05/ethio-telecom-zte-deploy-ethiopias-first-pre-commercial-ai-ran-solution/)** — Tech Africa News, 5 November 2026
 
 Ethio telecom and ZTE announced on 5 November 2026 a pre-commercial AI-driven radio access network in Ethiopia, which they describe as the first. They report 11% more 4G capacity and 40% higher peak-hour user throughput than the conventional solution. The deployment date was not stated.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethio telecom extends 5G services to 43 cities in Ethiopia](https://techreviewafrica.com/news/8468/ethio-telecom-extends-5g-services-to-43-cities-in-ethiopia)** — Tech Review Africa, 24 November 2026
+
+Ethio telecom has extended 5G to 10 more cities, bringing coverage to 43 Ethiopian cities as reported on 24 November 2026. The state-owned operator launched commercial 5G at 145 sites in Addis Ababa on 9 September 2023.
 
 </div>
 
@@ -2776,6 +2806,20 @@ Paratus Tanzania set up a point of presence at the Wingu data centre in Dar es S
 **[Paratus expands its African reach with Tanzania PoP](https://www.connectingafrica.com/fiber-networking/paratus-expands-its-african-reach-with-tanzania-pop)** — Connecting Africa, 27 October 2026
 
 Paratus Tanzania launched a point of presence at the Wingu Data Centre in Dar es Salaam. It links customers to Paratus network routes north to Nairobi via Mombasa and south to Maputo, Johannesburg and Eswatini. The company will offer IP transit, Layer 2 circuits and wholesale capacity to carriers, internet service providers and enterprises.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Active mobile subscriptions and penetration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[TCRA Communications Sector Performance Report, Quarter ending September 2026](https://www.tcra.go.tz/tovuti/2026/mamlaka-website/documents/quarterly-statistics/Communications_Sector_performance_report_September_17112026_c2a82b1dd3.pdf)** — Tanzania Communications Regulatory Authority, 13 November 2026
+
+Tanzania's communications regulator (TCRA) reported 123.2 million telecom subscriptions in the quarter to September 2026, up 5.35%. Internet subscriptions rose to 64.7 million and mobile money accounts to 93.9 million. Reported fraud attempts rose 7.81% from the June quarter, to 7,907.
 
 </div>
 

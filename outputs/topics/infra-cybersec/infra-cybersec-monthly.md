@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: infra.cybersec
-places: DZA; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; ZMB; ZWE
-record: 4199ddb0f10c
+places: DZA; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; ZMB; ZWE
+record: 300907e61a52
 ---
 
 # News, Oct – Nov 2026
@@ -77,6 +77,8 @@ record: 4199ddb0f10c
 <a href="#south-sudan">South Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sudan">Sudan</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -1208,6 +1210,23 @@ Sudan's prime minister issued a decision on 19 October 2026 forming a National M
 **[Pakistan, Sudan to strengthen security, digital registration efforts](https://thenews.pk/print/1447584-pakistan-sudan-to-strengthen-security-digital-registration-efforts)** — The News International, 7 November 2026
 
 Pakistan and Sudan agreed to widen cooperation on security, cybercrime, police training and civil registration after interior ministers met in Islamabad, The News reported on 7 November 2026. They agreed in principle to sign a cybercrime memorandum. Pakistan's Interior Minister Mohsin Naqvi said Nadra support had helped Sudan issue 36 million citizenship cards and nine million national identity cards.
+
+</div>
+
+</div>
+
+## Tanzania
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Reported mobile fraud and online scam cases</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[How loopholes in SIM registration are fuelling phone scams](https://www.thecitizen.co.tz/tanzania/news/national/how-loopholes-in-sim-registration-are-fuelling-phone-scams-5681696)** — The Citizen, 23 November 2026
+
+On 18 November 2026 Tanzania's home affairs minister told operators to deactivate SIMs not linked to national ID records. A registration agent alleged some agents reuse customers' fingerprints to register extra SIMs without their knowledge. The communications regulator logged 7,907 fraud attempts in the quarter to September 2026, up 7.81%.
 
 </div>
 

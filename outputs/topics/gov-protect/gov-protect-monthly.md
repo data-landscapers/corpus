@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: gov.protect
-places: DZA; AGO; BEN; BFA; CMR; COG; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d2eafcd0bea2
+places: DZA; AGO; BEN; BFA; BDI; CMR; COG; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 11e4fa505e99
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: d2eafcd0bea2
 <a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -143,6 +145,22 @@ Burkina Faso appointed W. Louis Modeste Ouédraogo, previously president of the 
 **[ARCOD : Les dix membres du collège des conseillers nommés](https://lefaso.net/spip.php?article150924=)** — leFaso.net, 20 November 2026
 
 Burkina Faso's Council of Ministers named the ten councillors of the first college of ARCOD, the merged media and personal-data regulator, on 19 November 2026. Four come from the former Conseil supérieur de la communication and six are new. Organic law of 3 August 2026 sets non-renewable five-year terms.
+
+</div>
+
+</div>
+
+## Burundi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burundi faces data protection test as EAC advances regional rules](https://www.burunditimes.com/burundi-faces-data-protection-test-as-eac-advances-regional-rules/)** — Burundi Times, 24 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
+
+Burundi's Council of Ministers approved on 18 November 2026, subject to adjustments, a draft decree setting up the Personal Data Protection Agency under Law No. 1/03 of 10 March 2026. EAC experts met in Moshi on 17-21 November to draft a regional bill on cross-border data flows. The bill is due for consolidation by 15 February 2027.
 
 </div>
 
@@ -477,6 +495,20 @@ Kenya's High Court set aside a KSh1.25 million compensation award made by the Da
 **[Inside the regulatory decision that spared BRS a financial penalty after its massive data breach](https://techtrendske.co.ke/2026/11/17/brs-data-breach-odpc-investigation)** — TechTrends Media, 17 November 2026
 
 Kenya's Data Protection Commissioner closed its own-motion investigation into the Business Registration Service breach without a penalty notice, reported on 17 November 2026. It said the service had implemented the enforcement notice and no data subject had sought compensation. A deletion agreement was reached with Moldova's B2bhint.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Commissioner's investigation of Meta and Sama over smart-glasses footage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Meta’s privacy scandal leaves Kenya chasing the wrong defendants](https://techcabal.com/2026/11/24/meta-and-sama-privacy-probe-kenya/)** — TechCabal, 24 November 2026
+
+Kenya's data protection regulator is investigating Meta and two Sama companies over footage from Ray-Ban glasses. A witness statement in the case became public on 16 November 2026. Sama's US parent is winding down, with about USD 1 million in assets against USD 17 million in liabilities. Kenyan law caps a penalty at KES 5 million or 1% of turnover, whichever is lower.
 
 </div>
 

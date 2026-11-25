@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: infra.store
 places: DZA; BWA; BFA; CMR; EGY; SWZ; ETH; GMB; GHA; KEN; LBY; MUS; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: c04cbbbadc45
+record: a4035463a7a6
 ---
 
 # News, Oct – Nov 2026
@@ -704,6 +704,20 @@ Continent 8 Technologies, which hosts online gaming and betting operators, annou
 **[Teraco introduces Africa’s first dedicated AI infrastructure innovation lab](https://www.teraco.co.za/news/teraco-introduces-africas-first-dedicated-ai-infrastructure-innovation-lab/)** — Teraco, 16 November 2026
 
 Teraco opened a Digital Realty Innovation Lab at its JB3 data centre on the Isando campus in Johannesburg. The lab is for testing AI and high-density deployments of more than 150kW per cabinet with liquid cooling. Teraco said it is operational and taking bookings.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Google Cloud Johannesburg region</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Google outlines support for South Africa’s AI ambitions following Ramaphosa’s Silicon Valley visit](https://techreviewafrica.com/news/8471/google-outlines-support-for-south-africas-ai-ambitions-following-ramap)** — Tech Review Africa, 24 November 2026
+
+Google set out its support for South Africa's AI plans after hosting President Ramaphosa's delegation in Mountain View during his November 2026 Silicon Valley visit. Its offer includes public-sector services from its SITA-accredited Johannesburg cloud region and partnerships with 10 universities. Students get 12 months' free Gemini access, and each start-up accelerator finalist R1 million in equity-free funding.
 
 </div>
 

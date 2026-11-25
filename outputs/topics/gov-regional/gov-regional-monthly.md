@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: gov.regional
-places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; DJI; EGY; GNQ; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: dc9e5cd47be1
+places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; DJI; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
+record: d3b7d4cd3b68
 ---
 
 # News, Oct – Nov 2026
@@ -33,6 +33,8 @@ record: dc9e5cd47be1
 <a href="#equatorial-guinea">Equatorial Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -220,6 +222,28 @@ Burkina Faso's telecoms regulator signed bilateral roaming agreements with its c
 **[Numérique dans l’espace AES: la feuille de route de l’An II adoptée](https://www.sidwaya.info/2026/11/05/numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee/)** — Sidwaya, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The Alliance of Sahel States adopted the digital deliverables of its Confederation's Year II roadmap in Ouagadougou on 5 November 2026. Sixteen of 18 deliverables were finalised. A confederal network operations centre is due by 31 December 2028. Interconnection legal and tariff frameworks are to be harmonised by 30 June 2027. National cybersecurity response teams are to be funded from universal-service funds and regulatory fees.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">WAEMU feasibility study of a regional satellite network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécommunication dans l’espace UEMOA : les acteurs réfléchissent sur les enjeux de la digitalisation](https://www.sidwaya.info/2026/11/23/telecommunication-dans-lespace-uemoa-les-acteurs-reflechissent-sur-les-enjeux-de-la-digitalisation/)** — Sidwaya, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Telecom operators of the West African Economic and Monetary Union (UEMOA) met in Ouagadougou on 23-26 November 2026. The 17th COFTEL conference focused on low-orbit (LEO) satellite networks and digital sovereignty. A UEMOA commissioner said a firm will be hired in 2027 to study a regional satellite network.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécommunications dans l’UEMOA : Les acteurs plaident pour une intégration encadrée des satellites en orbite basse](https://lequotidien.mr/telecommunications-dans-luemoa-les-acteurs-plaident-pour-une-integration-encadree-des-satellites-en-orbite-basse/)** — Le Quotidien (Mauritania), 24 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+The WAEMU Commission plans to hire consultants from early 2027 to study a satellite network of its own. The plan was reported at COFTEL's general assembly in Ouagadougou, 23-26 November 2026. Operators and regulators there asked that low-orbit satellite operators carry the same licensing, tax and data-protection duties as local ones.
 
 </div>
 
@@ -516,6 +540,22 @@ Equatorial Guinea was elected to chair the UN Statistical Commission for Africa 
 **[Eswatini, Lesotho Join Forces to Tackle Cyber Threats](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/)** — Eswatini Positive News, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a>
 
 The Eswatini Communications Commission and the Lesotho Communications Authority signed a memorandum of understanding on 3 October 2026 covering information exchange, joint research, staff development and cybersecurity cooperation, including coordinated incident response, awareness campaigns, training and audits. No budget or timetable is given.
+
+</div>
+
+</div>
+
+## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">African Union AI and Digital Health Championship</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CPHIA 2026 Opens with Focus on Health Sovereignty and Action](https://africacdc.org/news-item/cphia-2026-opens-with-focus-on-health-sovereignty-and-action/)** — Africa CDC, 24 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Africa CDC and Ethiopia opened the Fifth International Conference on Public Health in Africa in Addis Ababa on 23 November 2026. It runs to 27 November. Ethiopia presented its African Union AI and Digital Health Championship, with a film on its electronic health records and AI work. An AU roadmap on maternal and child health for 2026-2030 was also launched.
 
 </div>
 
@@ -1194,6 +1234,14 @@ Burkina Faso's telecoms regulator signed bilateral roaming agreements with its c
 **[AfDB Approves $750,000 to Develop ECOWAS Data Embassy in Sierra Leone](https://sierraloaded.sl/news/afdb-approve-750000-funding-for-sierra-leone/)** — SierraLoaded, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The African Development Bank approved a $750,000 seed grant, with technical assistance, to prepare an ECOWAS Data Embassy in Sierra Leone. Communications minister Salima Monorma Bah announced it at WAIIS 2026 in Lungi on 18 November 2026. The grant pays for experts to structure the project before AfDB construction financing, which has not been quantified.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[African Development Bank Backs Sierra Leone’s bid to host regional data embassy with $750,000 grant](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-backs-sierra-leones-bid-98898)** — African Development Bank, 24 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+The African Development Bank has granted US$750,000 from the KOAFEC Trust Fund to study whether Sierra Leone can host the ECOWAS Regional Data Embassy. The grant was announced at the West Africa Integration and Investment Summit in Lungi, 16-18 November 2026. ECOWAS heads of state have approved the initiative. Regional technical consultations are set for late November 2026.
 
 </div>
 

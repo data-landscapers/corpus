@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; CMR; CPV; CAF; TCD; COM; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4f1e65ec368a
+record: a844cf033884
 ---
 
 # News, Oct – Nov 2026
@@ -1687,6 +1687,14 @@ Uganda's Judiciary is digitising the Chief Registrar's records on advocates and 
 **[Government Moves to Reduce Cost of Obtaining Land Titles](https://nilepost.co.ug/news/377216/government-moves-to-reduce-cost-of-obtaining-land-titles)** — Nile Post, 11 October 2026
 
 Uganda's minister of state for lands, Harriet Ntabazi, said new digital systems let land-title applicants enter their data at district level and have titles printed without travelling between offices. She said some landowners had paid more than Shs2.5 million to surveyors and land boards, and that surveyors will be registered in the ministry's database.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Procurement consultancy - Upgrade of the Uganda Land Information Management Solution (UGNLIS) Using Blockchain and Artificial Intelligence](https://tenderpilotug.com/t/egp-417927332)** — TenderPilot (e-GP notice by Ministry of Lands, Housing and Urban Development, Uganda), 2 November 2026
+
+Uganda's Ministry of Lands, Housing and Urban Development is tendering consultancy to supervise an upgrade of its land information system. The upgrade adopts blockchain and AI; the notice, published 2 November 2026, closes on 2 December 2026.
 
 </div>
 

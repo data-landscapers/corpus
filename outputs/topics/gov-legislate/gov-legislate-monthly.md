@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB
-record: 4b6f9b7a20b1
+record: a338a9fe2090
 ---
 
 # News, Oct – Nov 2026
@@ -666,6 +666,7 @@ Equatorial Guinea's transport and telecommunications minister reported to the pa
 
 </div>
 
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1074,6 +1075,7 @@ Madagascar's government filed bill 040/2026 on electronic communications and dig
 
 </div>
 
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1087,6 +1089,7 @@ Madagascar's government filed bill 040/2026 on electronic communications and dig
 Madagascar's 96-article cybercrime bill n° 042/2026, which would replace the 2014 law and was postponed at September's extraordinary session, returns to committee in the National Assembly on 2 November. Contested provisions include article 75, giving a new digital investigation unit (UPIN) permanent direct access to operators' systems with fines of 100 to 500 million ariary for refusal, and article 52 on criminal liability for administrators of pages and groups; the access-to-public-information bill n° 017/2025 is also on the session's agenda.
 
 </div>
+
 
 </div>
 
@@ -1750,6 +1753,20 @@ South Africa's Information Regulator fined Central Johannesburg TVET College R50
 **[FNB issued with R1m fine for POPIA violation](https://www.itweb.co.za/article/fnb-issued-with-r1m-fine-for-popia-violation/O2rQGqAEWwBqd1ea)** — ITWeb South Africa, 27 October 2026
 
 South Africa's Information Regulator fined First National Bank R1 million after a fault in its mobile app exposed the personal data of 88 home-loan applicants to 696 unauthorised people. The regulator found the bank's safeguards inadequate and its response to repeated security incidents deficient. It issued the notices on 26 October 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Dedicated Artificial Intelligence Act</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Calls grow for dedicated AI laws in South Africa](https://www.ecr.co.za/news/news/calls-grow-for-dedicated-ai-laws-in-south-africa/)** — ECR, 18 November 2026
+
+In November 2026 a position paper presented to Parliament's communications committee called for a dedicated South African AI Act. Researcher Khanyisani Xulu said existing law and policy do not fully address the auditability of AI decisions.
 
 </div>
 

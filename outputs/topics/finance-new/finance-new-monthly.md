@@ -1,10 +1,10 @@
 ---
 title: New investments — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: finance.new
 places: DZA; AGO; BEN; BWA; COG; CIV; DJI; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
-record: e25b9a1f4eec
+record: 4ccae39a821a
 ---
 
 # News, Oct – Nov 2026

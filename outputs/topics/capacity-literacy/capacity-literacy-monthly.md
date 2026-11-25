@@ -1,10 +1,10 @@
 ---
 title: Literacy — News, October – November 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 subject: capacity.literacy
 places: AGO; CPV; CIV; COD; EGY; GMB; GHA; GIN; LBR; MLI; MAR; NAM; NGA; RWA; SEN; SYC; SSD; SDN; TGO; TUN; UGA
-record: e2d391b2461a
+record: c6ead66aff9c
 ---
 
 # News, Oct – Nov 2026
@@ -86,6 +86,20 @@ Cabo Verde's economy and digital transition minister, António Baptista, said at
 </div>
 
 ## Cote d'Ivoire
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI training for public decision-makers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d'Ivoire : Assemblée nationale, Patrick Achi ouvre la voie à l'intelligence artificielle dans le travail parlementaire](https://www.koaci.com/article/2026/10/12/cote-divoire/politique/cote-divoire-assemblee-nationale-patrick-achi-ouvre-la-voie-a-lintelligence-artificielle-dans-le-travail-parlementaire_201534.html)** — KOACI, 12 October 2026
+
+Côte d'Ivoire's National Assembly held an AI training session for MPs on 12 October 2026. Its president, Patrick Achi, said AI can help research but must not replace members' judgement. The digital minister, Djibril Ouattara, said the programme aims to train over 2,000 officials in AI by the end of 2027. The session showed a WhatsApp assistant that replies in Baoulé or Malinké.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
