@@ -3,9 +3,9 @@ title: Burundi — News, Oct – Nov 2026
 compiled: 2026-11-25
 period: 2026-10-01 to 2026-11-25
 place: BDI
-ledger_rows: 30
+ledger_rows: 31
 not_held: 7
-record: 93331c18f67c
+record: cdd33da91f04
 ---
 
 # News, Oct – Nov 2026
@@ -38,6 +38,8 @@ record: 93331c18f67c
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
@@ -99,6 +101,22 @@ Burundi's mandatory SIM and eSIM registration, begun in mid-June, was about 70 p
 **[Burundi faces data protection test as EAC advances regional rules](https://www.burunditimes.com/burundi-faces-data-protection-test-as-eac-advances-regional-rules/)** — Burundi Times, 24 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
 
 Burundi's Council of Ministers approved on 18 November 2026, subject to adjustments, a draft decree setting up the Personal Data Protection Agency under Law No. 1/03 of 10 March 2026. EAC experts met in Moshi on 17-21 November to draft a regional bill on cross-border data flows. The bill is due for consolidation by 15 February 2027.
+
+</div>
+
+</div>
+
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EAC bill on cross-border data flows and data protection</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Burundi faces data protection test as EAC advances regional rules](https://www.burunditimes.com/burundi-faces-data-protection-test-as-eac-advances-regional-rules/)** — Burundi Times, 24 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
+
+Summarised under [Data protection](#data-protection).
 
 </div>
 
