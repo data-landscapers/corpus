@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "2",
-      "standing": "draft",
+      "stage": "3",
+      "standing": "in-force",
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NER-001",
-      "gaps": "No source found says a law, decree or regulation that sets a rule for AI is in force.",
-      "note": "Counted from the four questions by study-ladder-ailaw.py.",
-      "as_at": "2026-11-11"
+      "stage_sources": "NER-003;NER-002",
+      "gaps": "No source found says a law on AI itself, applying across sectors, is in force. The 2025 mandate to present a draft AI regulation names no text that has been published.",
+      "note": "Article 57 of the data protection law names AI and obliges AI developers and providers to declare to the authority, a rule in force for one use, as Nigeria's data protection directive is read. It is not a law on AI itself, so not stage 4.",
+      "as_at": "2026-11-25"
     }
   ]
 }

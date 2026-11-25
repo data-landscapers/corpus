@@ -1,16 +1,17 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "2",
-   "standing": "draft",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MOZ-003",
-   "gaps": "No source found says a law, decree or regulation that sets a rule for AI is in force.",
-   "note": "Counted from the four questions by study-ladder-ailaw.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "1",
+      "standing": "none",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-001;MOZ-004",
+      "gaps": "The education minister said in September 2026 that a law on AI in education was being written and would go to the Council of Ministers; no draft text has been found published, out for consultation or before cabinet.",
+      "note": "In August 2026 the ICT institute's chairman said Mozambique has no AI legislation and named no draft. The education law was still being written in September 2026, and a law only announced or in preparation is not a draft on the ladder's wording.",
+      "as_at": "2026-11-25"
+    }
+  ]
 }

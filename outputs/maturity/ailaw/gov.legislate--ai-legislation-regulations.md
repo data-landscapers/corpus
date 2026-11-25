@@ -22,9 +22,9 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 |---|---|
 | 5 Mature | 0 |
 | 4 Operating | 0 |
-| 3 Established | 7 |
-| 2 Nascent | 13 |
-| 1 Absent | 21 |
+| 3 Established | 8 |
+| 2 Nascent | 11 |
+| 1 Absent | 22 |
 | Unplaced | 0 |
 | No evidence | 13 |
 
@@ -62,6 +62,13 @@ The electoral law revised for the 2026 elections makes AI-made falsehoods a crim
 
 - A Hespress interview with academic Adel Ben Hamza (published 2026-07-30) says Morocco's legislator wrote into the revised electoral framework for the 2026 legislative elections provisions that criminalise use of AI and digital means to alter the truth or harm the private lives of individuals and candidates, and excluded electoral offences from alternative penalties; it names no law or article, and the date is the publication date ([source, 2026-07-30](https://www.hespress.com/%d8%a8%d9%86-%d8%ad%d9%85%d8%b2%d8%a9-%d8%aa%d8%ac%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d8%aa%d8%b6%d9%84%d9%8a%d9%84-%d8%a8%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7-1784231.html)).
 - EuroMedAI says Organic Law No. 53.25, promulgated on 16 January 2026, names artificial intelligence tools among the means by which electoral offences can be committed ([source, 2026-01-16](https://euromedai.org/en/ai-morocco-2026-elections-legal-framework/)).
+
+### Niger: 3 Established
+
+The data protection law in force obliges AI developers and providers to declare to the regulator; no law on AI itself has been found.
+
+- Law 2022-59 on personal data protection, in the HAPDP's consolidated text of April 2026, defines artificial intelligence in article 57, requires AI developers, makers and service providers to comply with the law and obliges those operating from Niger to declare to the HAPDP; article 52 requires that a person be told the criteria and data behind a processing that uses AI. The consolidated text's date is used ([source, 2026-04](https://www.hapdp.ne/uploads/files/Loi-2022-59-consolidee.pdf)).
+- Jurist Abdou Malam Garba said Niger has no specific AI framework, but Law 2022-59 specifically obliges AI developers, makers and service providers operating in Niger to declare to the HAPDP ([source, 2025-09-19](https://www.lesahel.org/lintelligence-artificielle-un-outil-benefique-avec-diverses-contraintes/)).
 
 ### Nigeria: 3 Established
 
@@ -121,18 +128,6 @@ An AI bill has been before the Senate since early 2026, its committee advising a
 - CIPESA's 24 September 2026 article refers to the AI Bill, 2026 as proposing a Commissioner-maintained public register of high-risk AI models and as addressing synthetic political content, and to a prospective AI Commissioner; the article gives no tabling date, so the date is its publication date ([source, 2026-09-24](https://cipesa.org/2026/09/cipesa-weighs-in-on-kenyas-draft-guidance-notes-on-ai-and-emerging-technologies/)).
 - CIPIT states that Kenya is in the process of drafting an AI Bill, 2026, whose main objective is a framework for the regulation and governance of AI; dated by its publication date ([source, 2026-09-15](https://cipit.strathmore.edu/artificial-intelligence-in-east-africas-public-sector-ai-adoption-and-regulatory-preparedness-within-east-africa/)).
 
-### Mozambique: 2 Nascent
-
-A law on AI in education was almost ready for cabinet in September 2026; no rule on AI is in force.
-
-- Education and Culture Minister Samaria Tovela said on 2026-09-16 that the law to regulate the use of artificial intelligence in education, covering all institutions from primary school to higher education, is almost ready and will go to the Council of Ministers for approval before the end of 2026 ([source, 2026-09-16](https://integritymagazine.co.mz/arquivos/69322)).
-
-### Niger: 2 Nascent
-
-The data protection authority was mandated in 2025 to present a draft AI regulation; no rule on AI is in force.
-
-- The HAPDP president says the authority was mandated by its Burkinabe and Malian peer authorities in the AES framework to present a draft text on the regulation of artificial intelligence; the document gives no date for the mandate, so the published date is used ([source, 2025-07-28](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/)).
-
 ### Seychelles: 2 Nascent
 
 A private member's draft bill covering AI was presented to Assembly members in 2024; no rule on AI is known to be in force.
@@ -147,9 +142,10 @@ In 2025 a cybercrimes bill carried proposed AI provisions; no source found says 
 
 ### Sudan: 2 Nascent
 
-The Council of Ministers discussed a draft data and AI law in August 2026; no rule on AI is in force.
+The Council of Ministers approved a draft data and AI bill in November 2026; no rule on AI is in force.
 
-- On 2026-08-11 the Justice Ministry's undersecretary said the ministry is preparing, with the digital transformation ministry, three draft laws for 2026, one of them a Data and Artificial Intelligence Regulation Law; no text or enactment is reported ([source, 2026-08-11](https://www.sudanindependent.com/news/politics/2026/08/11/%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%AA%D8%A7%D8%A8-%D9%85%D8%B1)).
+- Sudan's Council of Ministers approved a draft Data and Artificial Intelligence Regulation Bill 2026, presented by the Minister of Digital Transformation and Communications, SUNA reports ([source, 2026-11-01](https://suna.sd/posts/mgls-alozraaa-ydyn-alaaatdaaaat-almtkrr-aal-almnshat-alkhdmy-aabr-almsyrat-alty-tntlk-mn-dakhl-dol-athyobya)).
+- Sudan's Council of Ministers approved the draft 2026 Data and Artificial Intelligence Regulation Bill, submitted by the Ministry of Digital Transformation and Communications, which the minister says regulates the use of AI applications ([source, 2026-11-01](https://sudaray.com/172398)).
 - On 2026-08-06 the Council of Ministers discussed the digital transformation ministry's draft Data and Artificial Intelligence Law and directed that it be studied further before approval by the interim parliament, a joint sitting of the Sovereignty and Ministers councils ([source, 2026-08-06](https://sudantribune.net/article/317108)).
 
 ### Tunisia: 2 Nascent
@@ -230,6 +226,13 @@ In 2025 Libya had a legislative vacuum on AI; no draft is named.
 In 2025 Malawi had passed no dedicated AI law; an AI bill is announced but no draft is known.
 
 - Higher Education Minister Jessie Kabwila acknowledged that Malawi has not yet passed a dedicated AI law ([source, 2025-06-25](https://www.maravipost.com/malawis-higher-education-minister-dr-kabwila-reaffirms-govt-commitment-on-ethical-inclusive-ai-development/)).
+
+### Mozambique: 1 Absent
+
+In August 2026 an official said Mozambique has no AI legislation; an education AI law was still being written in September.
+
+- INTIC board chairman Lourino Chemane said at a Maputo roundtable that Mozambique does not yet have specific legislation governing artificial intelligence; he called for a dedicated AI legal framework and mentioned only a planned proposal for an Online Copyright Protection Act next year, with no AI draft named ([source, 2026-08-17](https://360mozambique.com/innovation/tech/intic-drafts-copyright-and-ai-legislation-to-protect-digital-creators/)).
+- UNESCO's Readiness Assessment profile says Mozambique has no specific AI legislation, with the Ministry of Science, Technology and Higher Education leading development of national AI policies ([source, 2025-12](https://www.unesco.org/ethics-ai/en/mozambique)).
 
 ### Namibia: 1 Absent
 

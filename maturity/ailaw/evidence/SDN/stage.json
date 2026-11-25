@@ -1,16 +1,17 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "2",
-   "standing": "draft",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-001;SDN-002",
-   "gaps": "No source found says a law, decree or regulation that sets a rule for AI is in force.",
-   "note": "Counted from the four questions by study-ladder-ailaw.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "2",
+      "standing": "draft",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-003;SDN-004;SDN-002",
+      "gaps": "No source found says a law, decree or regulation that sets a rule for AI is in force; the text of the bill approved by the Council of Ministers has not been found published.",
+      "note": "The Council of Ministers approved the draft Data and Artificial Intelligence Regulation Bill on 1 November 2026, for the interim parliament. It is still a bill, so the cell stays at 2.",
+      "as_at": "2026-11-25"
+    }
+  ]
 }
