@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: MAR
-ledger_rows: 43
+ledger_rows: 46
 not_held: 13
-record: f86a901b8588
+record: 1cf3b82c80ad
 ---
 
 # News, Oct – Nov 2026
@@ -243,6 +243,20 @@ Morocco's public prosecution authority and France's Justice Ministry signed a de
 </nav>
 
 ### Domestic budget appropriations and expenditure
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital ministry investment appropriation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PLF 2027 : l'État branché sur l'IA](https://telquel.ma/2026/10/30/plf-2027-letat-branche-sur-lia_2015907)** — TelQuel, 30 October 2026
+
+MAD 1.34bn for the AI ministry in 2027; DGI fraud-detection AI, GemMaroc and IsMa models, 50 MW Jazari Root centre.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -714,6 +728,20 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">National framework for trust and responsible artificial intelligence</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[PLF 2027 : l'État branché sur l'IA](https://telquel.ma/2026/10/30/plf-2027-letat-branche-sur-lia_2015907)** — TelQuel, 30 October 2026
+
+Summarised under [Domestic budget appropriations and expenditure](#domestic-budget-appropriations-and-expenditure).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Customs big-data and AI project with the Korea Customs Service</p>
 
 <div class="bulletin-item" markdown="1">
@@ -751,6 +779,20 @@ Morocco's AI, Digital Transition and Administrative Reform Ministry presented it
 **[بـ”الدارجة” ولجميع المغاربة.. الحكومة توظف الذكاء الاصطناعي لتبسيط 2800 مسطرة إدارية](https://al3omk.com/1208688.html)** — Al3omk, 10 November 2026
 
 Ahmed Rahhou is Morocco's Minister of AI, Digital Transition and Administrative Reform. On 10 November 2026 he presented his ministry's 2027 sub-budget to the House of Representatives' Interior Committee. He said the ministry is using AI to find which of about 2,800 administrative procedures can be simplified. Al3omk reports he also said the 1918–2026 Official Gazette archive will be opened to AI tools to speed legal drafting and research.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial intelligence authority AI-assistant platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Renseignement financier : L'ANRF intègre l'IA pour améliorer son capital informationnel](https://aujourdhui.ma/economie/renseignement-financier-lanrf-integre-lia-pour-ameliorer-son-capital-informationnel)** — Aujourd'hui le Maroc, 11 November 2026
+
+ANRF tenders a sovereign multilingual AI-assistant platform with a legal assistant; at least 100 concurrent users.
 
 </div>
 
