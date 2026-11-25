@@ -27,4 +27,3 @@ One line per country, worst first, written on 2026-10-02 from checks A to C of t
 ## Queued by the budget poll
 
 One BUDGET-EXTRACT sitting a line (R106). `budget-watch.py followups` writes them; delete a line in the commit that settles it.
-- **LSO FY2026** — implementation-report adds released or actual: [[2026-11-18-lso-2026-2027-2nd-quarter-budget-execution-bulletin-companion]] (queued 2026-11-25).

@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-25 00:56 · **BUDGET-EXTRACT** · 15d 21h · LSO FY2026: nil from the Q2 2026/27 budget performance bulletin - programme grain only, no held line printed; reconciled, swap FY2026 0->13 unchanged
 2026-11-25 00:06 · **NOTES** · unclocked · 88 closed: AidData nominal-amount entry added to the change log under 24 November; spent aiabuse and aigovernment handovers pruned from prepared/ - ok
 2026-11-24 04:52 · **INDEX** · 44m · research index: 365 added, 17 changed, 0 removed, 25,764 chunks, 44.1 min — ok
 2026-11-24 03:51 · **RENDER** · 41m · polled cycle; 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 31 editions pruned; deployed 861defb — ok
