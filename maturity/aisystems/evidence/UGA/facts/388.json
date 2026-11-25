@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-27-uga-ministry-of-local-government-partners-with-ugandan-ai-company-nile-ai",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The Ministry of Local Government says Ugandan company Nile AI Solutions is developing an AI-powered digital assistant for it, with no release stated.",
+   "as_of": "2025-12-27",
+   "date_precision": "day",
+   "system": "Ministry of Local Government AI agent",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

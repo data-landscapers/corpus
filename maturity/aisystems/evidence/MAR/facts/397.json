@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-30-mar-plf-2027-l-etat-branche-sur-l-ia",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "TelQuel says the PLF 2027 announces national AI models GemMaroc (language) and IsMa (speech transcription) for darija, amazigh and Arabic, to be developed with the R&D lab launched in January with Mistral AI.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "GemMaroc and IsMa",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "TelQuel says a protocol with Nexus Core Systems Morocco for a sovereign AI Factory (high-performance computing data centre, centre of excellence, innovation hub) is listed in the 2026 record.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "AI Factory",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GemMaroc",
+   "country_label": "Morocco",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "IsMa",
+   "country_label": "Morocco",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "AI Factory",
+   "country_label": "Morocco",
+   "class": "localai",
+   "platform": "",
+   "owner": "Nexus Core Systems Morocco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

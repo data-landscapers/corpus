@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-09-mar-maroc-ia-2030-jazari-data-centers-ia-souveraine-ou-en-est-concretement",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Medias24 reports a sovereign Moroccan language model mastering darija and Amazigh is in development or deployment under the Maroc IA 2030 strategy.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "Moroccan sovereign LLM",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

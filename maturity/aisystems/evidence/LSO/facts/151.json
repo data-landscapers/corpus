@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-lso-through-new-ai-powered-chatbots-developed-by-lesotho-government-farmer",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Minister Moorosi said efforts are ongoing to upgrade the High-Performance Computing infrastructure at the Mohale's Hoek Data Centre to support research, analytics and locally relevant AI applications.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Mohale's Hoek Data Centre HPC",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mohale's Hoek Data Centre HPC",
+   "country_label": "Lesotho",
+   "class": "localai",
+   "platform": "",
+   "owner": "Government of Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

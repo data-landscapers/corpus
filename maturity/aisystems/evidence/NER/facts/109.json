@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-01-ner-a-voice-first-ai-service-for-people-centred-justice-in-niger",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "HiiL says Illimi, a toll-free AI voice companion using a curated knowledge base developed by Niger's Rural Code Directorate, is in pilot in Dosso and Tillaberi, with 863 callers from May to November 2025.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Illimi",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Illimi",
+   "country_label": "Niger",
+   "class": "localai",
+   "platform": "toll-free voice (IVR) with a cloud LLM",
+   "owner": "National Agency for Legal and Judicial Assistance (ANAJJ)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -38,6 +38,7 @@ CIV,Centre national d'intelligence artificielle et d'innovation,Cote d'Ivoire,ot
 CIV,K-AI Voucher Project,Cote d'Ivoire,other,Elice cloud GPU/NPU,AfDB / Elice Group,,2026-11-16-civ-etnews-elice-afdb-k-ai-voucher-gpu-npu-cloud
 CIV,Ghost Score,Faba Finance Ghost Score,localai,mobile app,Faba Finance (private company),,2026-11-16-civ-wearetech-faba-finance-credit-platform-ghost-score
 CIV,JULABA,JULABA,localai,,ANSUT,,2026-11-15-ansut-lance-programme-acces-smartphones-subventionnes
+CIV,Baoule and Malinke WhatsApp assistant,Cote d'Ivoire,localai,WhatsApp,Dr Isaac Bayoh,,2026-10-12-civ-koaci-assemblee-nationale-achi-ia-formation-deputes
 CMR,GPT Cameroon,Cameroon,localai,large language model (planned),Government of Cameroon,national,2025-07-08-snia-2040-ai-roadmap-seven-pillars-techafricanews
 CMR,Edge computing nodes,Cameroon,localai,15 solar-microgrid edge nodes (planned),Government of Cameroon,national,2025-07-08-snia-2040-ai-roadmap-seven-pillars-techafricanews
 CMR,GPU Cloud Africa,Cameroon,localai,NVIDIA GPU cloud,ST Digital,,2025-02-12-st-digital-gpu-cloud-africa-itweb
@@ -151,10 +152,12 @@ KEN,HERCULES,"HERCULES power and AI data centre, Dongo Kundu, Mombasa",other,,AM
 LBR,CJ Lewis,Liberia,localai,Liblaw,Liblaw,,2026-08-03-liblaw-cj-lewis-legal-ai-liberia
 LBY,LIBIGPT,Libya,localai,generative AI model,Smart Co for Technology Projects and Artificial Intelligence,,2025-10-28-libigpt-first-generative-ai-launched-libyaherald
 LBY,Diwan Bot,Diwan Bot,other,,Libyan Audit Bureau,,2026-06-01-lby-lana-audit-bureau-diwan-bot
+LBY,LIBI GPT,Libya,localai,generative AI model,Smart Co,,2025-10-28-lby-libi-gpt-generative-ai-model-launch
 LSO,Sesotho word bank,Lesotho,localai,,National University of Lesotho,,2026-02-18-lesotho-sesotho-word-bank-ai-training
 LSO,Kobong Project,Lesotho,localai,hydropower and AI data centre,Convalt,,2026-07-31-lso-govls-kobong-launch-m100bn-investment
 LSO,SeSoDa,SeSoDa,localai,,,,2025-01-01-lso-sesoda-sesotho-english-dataset-lora-fine-tuning
 LSO,Mohale's Hoek Data Centre,Lesotho,other,,Government,,2026-10-23-lso-lesotho-urged-to-turn-innovation-into-jobs-and-economic-growth-lesotho
+LSO,Mohale's Hoek Data Centre HPC,Lesotho,localai,,Government of Lesotho,,2026-10-20-lso-through-new-ai-powered-chatbots-developed-by-lesotho-government-farmer
 MAR,Voxtral Darija speech recognition model,MAR,localai,,MTNRA and Mistral,,2026-09-30-mar-mistral-open-source-ai-bricks
 MAR,Voxtral ASR for Darija,Morocco,localai,open source,Ministry of Digital Transition and Administrative Reform with Mistral AI,,2026-09-29-mar-techreviewafrica-mistral-ai-darija-open-source-tools
 MAR,JAZARI ROOT,Morocco,localai,,Ministry of Digital Transition,,2026-09-08-mar-mmsp-instituts-jazari-assemblees-generales
@@ -174,6 +177,9 @@ MAR,DeepLeaf food-security AI foundation model,DeepLeaf,localai,AI foundation mo
 MAR,national open-source language model,Morocco,localai,,"Ministry of Artificial Intelligence, Digital Transition and Administration Reform",,2026-11-10-mar-ahmed-rahhou-annonce-une-ia-en-darija-en-commission-parlemen
 MAR,speech-recognition model with Mistral,Morocco,localai,,"Ministry of Artificial Intelligence, Digital Transition and Administration Reform",,2026-11-10-mar-ahmed-rahhou-annonce-une-ia-en-darija-en-commission-parlemen
 MAR,Core Nexus Systems computing platform,Morocco,localai,,,,2026-11-16-hespress-ar-ai-ministry-sovereign-platform
+MAR,GemMaroc,Morocco,localai,,,,2026-10-30-mar-plf-2027-l-etat-branche-sur-l-ia
+MAR,IsMa,Morocco,localai,,,,2026-10-30-mar-plf-2027-l-etat-branche-sur-l-ia
+MAR,AI Factory,Morocco,localai,,Nexus Core Systems Morocco,,2026-10-30-mar-plf-2027-l-etat-branche-sur-l-ia
 MDG,Technopole Madagascar,Madagascar,other,,Technopole Madagascar,,2026-01-01-mdg-technopole-madagascar-entrepreneuriat-numerique
 MLI,Centre d'intelligence artificielle et de robotique,Mali,other,,,,2026-09-28-mli-ai-robotics-centre-sovereignty-diallo
 MLI,Centre d'Intelligence Artificielle et Robotique du Mali,Mali,other,,,,2026-07-06-mali-discours-dialogue-mondial-gouvernance-ia
@@ -210,6 +216,7 @@ NAM,Axon AI,Namibia,localai,AI laboratory diagnostics,Axon AI startup,,2025-08-2
 NAM,Okaluli,Namibia,localai,generative AI education tools,Okaluli startup,,2025-08-28-nam-ai-innovations-take-centre-stage-at-seedr-namibia-demo-day
 NAM,National Data Centre,National Data Centre,localai,,government,,2026-11-16-nam-huawei-khaire-digital-scholarship-launch
 NER,Rayuwa,Niger,localai,Android app (Play Store),Agence de Developpement Numerique (ADN),,2025-08-29-ner-adn-rayuwa-ai-platform-training
+NER,Illimi,Niger,localai,toll-free voice (IVR) with a cloud LLM,National Agency for Legal and Judicial Assistance (ANAJJ),,2025-11-01-ner-a-voice-first-ai-service-for-people-centred-justice-in-niger
 NGA,N-ATLAS,Nigeria,localai,Llama-3 8B LLM,"Awarri, NITDA, NCAIR",national,2025-09-22-n-atlas-nigerian-llm-launch
 NGA,AGH Cloud / Africa GPU Hub,Nigeria,localai,GPU cloud,Udu Technologies,,2026-09-11-udutech-baro-ai-gpu-supply-africa
 NGA,N-ATLAS,Nigeria,localai,,Awarri Technologies (technical partner),,2026-08-10-nigeria-tops-africa-girai-responsible-ai-index
@@ -232,6 +239,7 @@ NGA,HeliumMum,Nigeria,other,AI-powered maternal health tool,Helium Health,,2026-
 NGA,N-ATLAS,Nigeria,localai,,NITDA,,2026-11-11-nga-nitda-review-digital-strategy-consultation
 NGA,National AI Glossary Project,Nigeria,localai,,Data Science Nigeria,,2026-11-10-nigeriastartupact-google-ai-nigerian-languages
 NGA,Airtel AI-powered spam alert service,Nigeria,other,,Airtel Africa,,2026-11-19-xaf-ecofin-ai-fraud-checks-block-real-customers
+NGA,NORA,Nigeria (Anambra State),localai,adapted open-source technology,Anambra State ICT Agency,state,2026-11-13-nga-von-anambra-digital-handbook-nora-ai-assistant
 RWA,NISR survey coding model,Rwanda,localai,machine learning model trained on NISR coded survey data since 2017; Android app for enumerators exists,National Institute of Statistics of Rwanda (NISR),national,2026-10-01-cenfri-award-winner-ngirinshuti-ai-model-rwanda-statistical-analysis
 RWA,UNDP country-hosted AI compute,Rwanda,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 RWA,Kinyarwanda voice dataset on Common Voice,Rwanda,localai,Mozilla Common Voice,Digital Umuganda; Mozilla Foundation,,2024-05-24-rwa-voice-technology-infrastructure-for-artificial-intelligence-engine-in
@@ -328,6 +336,7 @@ ZMB,AI/ML GPU-accelerated server platform,Zambia,localai,GPU-accelerated servers
 ZMB,"timbuktoo EDGE node, University of Zambia AI UniPod",Zambia,localai,sovereign AI compute node,"UNDP timbuktoo EDGE, University of Zambia",,2026-10-14-zmb-undp-lusaka-water-ai-non-revenue-water-pilot
 ZMB,AI Center of Excellence,Zambia,localai,,Google / Ministry of Technology and Science / ZAMREN,,2024-09-04-zmb-google-to-establish-ai-center-of-excellence-at-university-of-zambia
 ZMB,Full-software AI platform (German delegation joint ventures),Planned AI software development platform with Zambian companies,other,,German business delegation,,2026-11-06-zmb-zambia-govt-seeks-tangible-results-from-german-partnership
+ZMB,national AI data center,Zambia,localai,,Smart Zambia Institute with Huawei Technologies Zambia,,2026-11-20-zmb-zambia-explores-ai-computing-options-at-cassava-s-cape-town-facility
 ZWE,Yamurai,Zimbabwe,localai,Shona customer-support chatbot,Econet Ai,,2026-09-06-citezw-econet-ai-ndebele-chatbot
 ZWE,Econet AI,Zimbabwe,localai,"Yamurai AI, OmniContact AI, compute accessed through Cassava Technologies",Econet Wireless Zimbabwe / Econet Group,,2026-04-17-econet-ai-launch-cassava-compute
 ZWE,High Performance Computer at the University of Zimbabwe,Zimbabwe,other,,University of Zimbabwe,,2026-04-17-econet-ai-launch-cassava-compute

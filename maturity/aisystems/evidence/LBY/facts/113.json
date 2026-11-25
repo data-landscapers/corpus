@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-lby-governance-of-artificial-intelligence-and-emerging-technologies",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The National Authority for Information Security and Safety developed the Nissa AI assistant in about four months on Google's open-source Gemma 3, trained on the Authority's own knowledge base, and opened it for public testing.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Nissa AI",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-28-lby-libi-gpt-generative-ai-model-launch",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Libya's Ministry of Economy and Trade announced the launch of LIBI GPT, described as Libya's first generative AI model, implemented by the company Smart Co.",
+   "as_of": "2025-10-27",
+   "date_precision": "day",
+   "system": "LIBI GPT",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LIBI GPT",
+   "country_label": "Libya",
+   "class": "localai",
+   "platform": "generative AI model",
+   "owner": "Smart Co",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

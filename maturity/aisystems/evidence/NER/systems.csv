@@ -1,2 +1,3 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 NER,Rayuwa,Niger,localai,Android app (Play Store),Agence de Developpement Numerique (ADN),,2025-08-29-ner-adn-rayuwa-ai-platform-training
+NER,Illimi,Niger,localai,toll-free voice (IVR) with a cloud LLM,National Agency for Legal and Judicial Assistance (ANAJJ),,2025-11-01-ner-a-voice-first-ai-service-for-people-centred-justice-in-niger
