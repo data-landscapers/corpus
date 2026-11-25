@@ -493,9 +493,10 @@ TAIL = """
 
 
 def page(*, title, description, canonical, depth, body, body_class, sheets=(), scripts="",
-         active=None, band: bool = True, head: str = "") -> str:
+         active=None, band: bool = True, head: str = "", footer: bool = True) -> str:
     """`band=False` for the map, which says *Under construction* in its title instead (Bill, 2026-10-09).
-    `head` is the map's `dl-artefact` lines once it publishes editions."""
+    `head` is the map's `dl-artefact` lines once it publishes editions. `footer=False` for the map,
+    whose height it took (Bill, 2026-11-25): `maturity-map.js` then gives the row the whole window."""
     robots = "" if LAUNCHED or INDEXED else '<meta name="robots" content="noindex">\n'
     band = UNDER_CONSTRUCTION if band and SHOW_BAND and not LAUNCHED else ""
     return external_links(
@@ -503,7 +504,7 @@ def page(*, title, description, canonical, depth, body, body_class, sheets=(), s
                     canonical=canonical, styles=styles(depth, *sheets), main=MAIN_SITE, ga=ga(),
                     body_class=body_class, chrome=chrome(active, depth=depth))
         + f'  <main id="main">\n  {band}\n{body}\n  </main>\n'
-        + TAIL.format(foot=foot(depth=depth), scripts=scripts))
+        + TAIL.format(foot=foot(depth=depth) if footer else "", scripts=scripts))
 
 
 def map_page(downloads: dict | None = None, artefacts: str = "") -> str:
@@ -557,7 +558,7 @@ def map_page(downloads: dict | None = None, artefacts: str = "") -> str:
     return page(title="Maturity Assessment",
                 description="Where each African country stands on each studied indicator, on a five-stage scale.",
                 canonical=f"{SITE_BASE}/maturity/", depth=1, body=body, body_class="mat-page", band=False,
-                active="maturity", head=artefacts,
+                active="maturity", head=artefacts, footer=False,
                 sheets=("maturity.css",),
                 scripts=script("d3-7.9.0.min.js", 1) + "\n" + script("maturity-map.js", 1))
 
