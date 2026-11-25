@@ -846,7 +846,7 @@ MOVEMENT_ALL = {"Chapter": "All chapters", "Topic": "All topics", "Indicator": "
                 "Country": "All countries", "From": "From any stage", "To": "To any stage",
                 "Source type": "All source types"}
 MOVEMENT_ICONS = {"Map": ["↗", "Show on the map"], "URL": ["↗", "Open the source"]}
-MOVEMENT_CHARS = {"Map": 4, "URL": 4, "Date": 12, "From": 14, "To": 14, "Source type": 16}   # so a date or a stage's name holds one line
+MOVEMENT_CHARS = {"Map": 4, "URL": 4, "Date": 12, "From": 16, "To": 16, "Source type": 16}   # so a date or a stage's name holds one line
 
 
 def direction(was: str, now: str) -> str:
@@ -856,7 +856,7 @@ def direction(was: str, now: str) -> str:
 
 def stage_label(raw: str) -> str:
     n, state = stage_of(raw)
-    return f'{n} {STAGES[n - 1]["label"]}' if n else state.capitalize()
+    return f'{n} - {STAGES[n - 1]["label"]}' if n else state.capitalize()
 
 
 def evidence_rows(study_id: str) -> dict[str, dict]:
