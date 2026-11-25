@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-01-cmr-intelligence-artificielle-au-cameroun",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "OBS-CC says the government, under the World Bank-funded PATNUC project, launched the online platform train.patnucelearning.cm to train 15,000 public officials in AI, blockchain and digital transformation.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "train.patnucelearning.cm",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

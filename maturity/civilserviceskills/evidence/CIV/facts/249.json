@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-12-civ-koaci-assemblee-nationale-achi-ia-formation-deputes",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Minister Djibril Ouattara said the 2026-2028 digital roadmap provides for training more than 2,000 public officials in AI by the end of 2027, and an AI awareness and training session for deputies was held at the National Assembly on 12 October 2026.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "2026-2028 digital roadmap AI training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

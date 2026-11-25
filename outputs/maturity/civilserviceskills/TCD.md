@@ -2,7 +2,7 @@
 
 ## Civil service digital skills
 
-**Training for civil servants.** [In July 2025 Chad's ADETIC signed a framework accord with 2iE Ouagadougou, We are Tech Africa reported](<https://www.wearetech.africa/fr/fils/actualites/tech/le-tchad-se-rapproche-du-burkina-faso-pour-former-ses-cadres-au-numerique>). [It is to train Chadian public cadres in artificial intelligence and emerging technologies](<https://www.wearetech.africa/fr/fils/actualites/tech/le-tchad-se-rapproche-du-burkina-faso-pour-former-ses-cadres-au-numerique>).
+**Training for civil servants.** [In July 2025 Chad's ADETIC signed a framework accord with 2iE Ouagadougou, We are Tech Africa reported](<https://www.wearetech.africa/fr/fils/actualites/tech/le-tchad-se-rapproche-du-burkina-faso-pour-former-ses-cadres-au-numerique>). [It is to train Chadian public cadres in artificial intelligence and emerging technologies](<https://www.wearetech.africa/fr/fils/actualites/tech/le-tchad-se-rapproche-du-burkina-faso-pour-former-ses-cadres-au-numerique>). [In August 2026 about 60 officials and curriculum developers were trained, with UNESCO support, to use AI in school curricula](<https://www.ecofinagency.com/news-digital/2411-61140-chad-eyes-itu-backed-ai-lab-to-build-local-capacity>), Ecofin reported.
 
 **Across government.** No source found since October 2023 says digital-skills training reaches civil servants across government. The nearest fact found: [in July 2025 ADETIC agreed with 2iE to train Chad's public cadres](<https://www.wearetech.africa/fr/fils/actualites/tech/le-tchad-se-rapproche-du-burkina-faso-pour-former-ses-cadres-au-numerique>).
 
