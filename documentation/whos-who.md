@@ -3,7 +3,7 @@ type: design-note
 reader: cc
 title: whos-who.md — a Who's Who index of officeholders, built in Corpus
 last_reviewed: 2026-11-21
-status: design, owned by CC; stages 1–4 done, stage 5 live unlinked, launch owed (§15); Bill's rulings are §10, results §11–§15
+status: design, owned by CC; stages 1–5 done, launched 2026-11-25 (§15); Bill's rulings are §10, results §11–§15
 ---
 
 # Who's Who index
@@ -245,4 +245,4 @@ Nothing is open with Bill.
 - **One body of two, 2026-11-20** *(Bill: an organisation called* Google and Visa*)*. A written name that is two bodies side by side keeps the side that carries the slug (`whos-who-orgs.py` → `one_side`): *Visa*, *Meta*, *ARSO*. Held to two short names (no comma, bracket or `-and-` slug, three words a side, the dropped side sharing no slug word, never a government), because a portfolio list splits the same way. 31 names.
 - **Added on the way:** a correction or removal link under the results, the search kept in the fragment (`#q=`, `#country=`, `#org=`), and a row and source count over every result.
 - **Authors, 2026-11-21** *(Bill, 2026-11-20; OSINT's backfill, `osint-notes` 348)*. A source's author is a row, built without a model by `whos-who-authors.py` into `build/whos-who/authors.csv` (untracked), which `whos_who_lib.fact_rows` reads beside the cache: a post the piece states (`author_roles:`) wins, held to the position test bar the role word; otherwise *Journalist* at the outlet for newspaper, trade and agency, *Author* for the rest, the outlet named and placed by OSINT's `lookups/publications.csv`. A repository copy (`doi.org`, PubMed Central) is placed at the journal its `publisher` names; a LinkedIn or Medium post gets no default row. The cache no longer drops a source's own author. Lints 3 and 6 admit the author rows' outlets and posts. 15,253 author rows from 13,063 sources; 21,293 published rows became 30,075, 16,494 people 24,039.
-- **Launch, owed:** drop `ROBOTS` in `whos-who-publish.py`, add the nav item in `chrome_lib.py`, write the method section in `content/methodology.md` quoting `CAUTION`, add the change-log entry, and send the `[ACT]` note on the folded tags (§12). The two measurements left from §14 go with it.
+- **Launched 2026-11-25** *(Bill)*: `ROBOTS` dropped, so the page is indexed and in the sitemap; *Who's Who* in the nav between Finance and Catalogue, and in the shared three-bar menu (data-landscapers `cf9fc0e`); the nav's *Countries & Regions* became *Countries*. Method section in `content/methodology.md`, which points at the disclaimer rather than restating it; change-log entry; `osint-notes` 357 carries the 43 `hand` folds. The two measurements left from §14 are still owed.

@@ -59,7 +59,9 @@ NAV = [
     # so the label now names both halves of what `/countries/` holds. The URL is
     # unchanged — `active` matching below keys on the "countries" prefix rather
     # than the full label so every existing caller still lights this item up.
-    ("Countries & Regions", f"{SITE_BASE}/countries/"),
+    # Back to "Countries" on 2026-11-25 (Bill), at the Who's Who launch: eight items
+    # want the room, and the page title still names both halves.
+    ("Countries", f"{SITE_BASE}/countries/"),
     # A page of its own since 2026-08-24 (Bill), the same move the countries
     # matrix made that morning: `/topics/` held the 48 topic and category
     # folders and no index, so the one URL a reader would guess 404'd while
@@ -68,6 +70,8 @@ NAV = [
     # Finance left the bar for Datasets on 2026-09-22 and took its place back on 2026-10-22
     # (Bill); Datasets is reached from the three-bar menu and the home page.
     ("Finance", f"{SITE_BASE}/finance/"),
+    # Launched 2026-11-25 (Bill); live unlinked and `noindex` from 2026-11-20.
+    ("Who's Who", f"{SITE_BASE}/whos-who/"),
     ("Catalogue", f"{SITE_BASE}/catalogue/"),
     # Renamed from "Method" at /method/ on 2026-08-27 (Bill); /method/ keeps a
     # redirect stub because it sat in every published page's baked chrome.

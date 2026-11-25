@@ -92,6 +92,15 @@ Every finance row, budget line or non-state commitment, carries a *sector*: the 
 - **Sector is not sub-topic.** The sub-topic says what the money buys and the sector what it serves: a tax authority's IT unit is sub-topic IT and sector finance.
 - **The sector is our assessment, and still changing.** It is applied by rules on each row's own words. Where the rules misread a row, a correction is recorded for that row.
 
+## Who's Who
+
+[Who's Who](../whos-who/) lists who held which position at which organisation, as the documents in the catalogue report it. It is a by-product of reading those documents, not a separate search for people.
+
+- **A row is what the sources say.** Each row is a name, a year, a position, an organisation and its country, with the sources that state it. A year is the year a source attests, not a term of office.
+- **Names, positions and organisations are normalised.** One person's spellings are joined under the fullest name, one title however written is shown in one wording, and an organisation's abbreviations and translations are one body. Mistakes in this are possible; the correction link under the results reports one.
+- **Authors are rows too.** A journalist or author is listed at the outlet that published the piece.
+- **No personal data beyond the row.** Nothing is held about a person except name, position and organisation. The country is the organisation's, not the person's. Anyone can ask for a row about them to be removed.
+
 ## Coverage, corrections and versions
 
 - **Coverage is deliberately uneven.** Corpus goes deep where there is active work and stays thin elsewhere; a thin country page reflects collection priorities, not necessarily a quiet country. Collection intensity should never be read as a measure of a country's actual activity.

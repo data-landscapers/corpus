@@ -558,7 +558,7 @@ FINANCE = """<!DOCTYPE html>
   <div class="container container--wide">
 
     <header class="article-header">
-      <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="{parent}">{name}</a></div>
+      <div class="article-header__crumb"><a href="{base}/countries/">Countries</a> &nbsp;/&nbsp; <a href="{parent}">{name}</a></div>
       {feedback}
       <h1 class="article-header__title">Non-state finance""" + ABOUT + """</h1>
       <div class="article-header__byline">{name} &nbsp;·&nbsp; {fin_n} commitments &nbsp;·&nbsp; US${fin_total}m &nbsp;·&nbsp; {y0}&ndash;{y1}</div>
@@ -638,7 +638,7 @@ BUDGETS_PAGE = """<!DOCTYPE html>
   <div class="container container--wide">
 
     <header class="article-header">
-      <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="{parent}">{name}</a></div>
+      <div class="article-header__crumb"><a href="{base}/countries/">Countries</a> &nbsp;/&nbsp; <a href="{parent}">{name}</a></div>
       {feedback}
       <h1 class="article-header__title">National budget""" + ABOUT + """</h1>
       <div class="article-header__byline">{name} &nbsp;·&nbsp; {bud_n} budget lines &nbsp;·&nbsp; fiscal years {yr}</div>
@@ -835,7 +835,7 @@ ALL_FINANCE_PAGE = """<!DOCTYPE html>
   <div class="container container--wide">
 
     <header class="article-header">
-      <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="{parent}">{name}</a></div>
+      <div class="article-header__crumb"><a href="{base}/countries/">Countries</a> &nbsp;/&nbsp; <a href="{parent}">{name}</a></div>
       {feedback}
       <h1 class="article-header__title">All finance""" + ABOUT + """</h1>
       <div class="article-header__byline">{name} &nbsp;·&nbsp; {n} rows &nbsp;·&nbsp; US${total}m</div>

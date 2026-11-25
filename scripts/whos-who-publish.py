@@ -34,9 +34,8 @@ a position in that list, which is renumbered by every build and means nothing ou
 (§8a). The chunk files are internal and carry no stability promise; `whos-who.csv` is the
 supported download, undated and current-only, `design.md` §9's named exception.
 
-**The page is `noindex` and in no navigation** until Bill launches it *(Bill, 2026-11-20)*;
-`sitemap.py` leaves a `noindex` page out. Launch drops `ROBOTS` and adds the nav item,
-the method section and the change-log entry.
+**Launched 2026-11-25** *(Bill)*: indexed, in the sitemap and in the nav. It was live
+unlinked and `noindex` from 2026-11-20.
 """
 from __future__ import annotations
 
@@ -69,7 +68,7 @@ COLS = ["name", "year", "position", "organisation", "country", "source_url"]
 BLOCK = 1000                       # source ids per src-NNN.json
 SEP = "; "                         # between the source URLs of one published row
 URL = f"{SITE_BASE}/whos-who/"
-ROBOTS = '<meta name="robots" content="noindex, nofollow">\n'
+ROBOTS = ""                        # indexed since the launch, 2026-11-25
 
 # What every view and the download say the rows are (§8a). One copy: the page, the
 # metadata file and, at launch, the method section all quote it.
@@ -392,7 +391,7 @@ def page(b: dict) -> str:
                    for c, n in b["index"]["places"].items())
     return external_links(PAGE.format(
         url=URL, robots=ROBOTS, styles=styles(1, "datatable.css", "whos-who.css"),
-        main=MAIN_SITE, ga=ga(), chrome=chrome(None, depth=1),
+        main=MAIN_SITE, ga=ga(), chrome=chrome("Who's Who", depth=1),
         feedback=feedback("Who's Who", URL), caution=info_html("Who's Who disclaimer"),
         info_btn=info("Who's Who")[0], info_panel=info("Who's Who")[1],
         people=b["people"], orgs=b["orgs"], count=len(b["rows"]), sources=b["sources"],

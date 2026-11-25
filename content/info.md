@@ -111,6 +111,10 @@ The number in each box is a count of the number of sources held in the repositor
 
 ## Who's Who
 
+A by-product of the Corpus repository is that it is possible to harvest the names of those involved in the digital transformation of Africa - the policy-makers and practitioners as well as those writing about it.
+
+"Who's Who" may be a misleading title. These are not biographies. Firstly, because we don't do automated person-specific searches. Secondly, and more importantly, we have no legal right to hold personal data beyond name, position and organisation. 
+
 Who's Who lists who held which position at which organisation, as the news and documents in the catalogue report it. Every row links to the sources that say so.
 
 Nothing shows until you search. Search names, positions or organisations (three letters or more), or choose a country or an organisation on its own. Organisations can be found by their abbreviations too: AfDB, UEMOA, OMS. Click a row to see its sources.
@@ -119,4 +123,4 @@ Nothing shows until you search. Search names, positions or organisations (three 
 
 ## Who's Who disclaimer
 
-Each row is what one or more sources say for one year. The list holds what our sources happen to say, with gaps: a missing row is not a vacant post, and an organisation's rows are not a line of succession.
+This is an index of names extracted from the Corpus repository. It makes no claim to comprehensiveness. Its accuracy is only based on the quoted sources. For legal reasons no personal data beyond that contained in this table is held on this site. The country relates to the organisation, not the person. An attempt has been made to normalise names, positions and organisation names - mistakes in this process are possible and acknowledged.
