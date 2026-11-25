@@ -2,7 +2,7 @@
 
 ## Control of state data
 
-**Rule on state data.** In September 2026 the Ministry of Communication, Technology and Innovation [said it is developing a Data Governance Framework](<https://sierraloaded.sl/news/communication-strengthens-partnership/>). The framework is to set how government data is classified, shared and used across institutions. The ministry set out the work during a visit by a UN delegation.
+**Rule on state data.** In September 2026 the Ministry of Communication, Technology and Innovation [said it is developing a Data Governance Framework](<https://sierraloaded.sl/news/communication-strengthens-partnership/>). The framework is to set how government data is classified, shared and used across institutions. The ministry set out the work during a visit by a UN delegation. [In November 2026 the AfDB said ECOWAS heads of state had approved a Regional Data Embassy Initiative that Sierra Leone championed](<https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-backs-sierra-leones-bid-98898>). It would host critical government data across borders while keeping national jurisdiction.
 
 **Hosted nationally.** In September 2026 the minister and team [took the UN delegation through the Government Data Centre at NatCA Tower](<https://sierraloaded.sl/news/communication-strengthens-partnership/>) in Freetown. They outlined plans for a second, redundancy site at State House. The two sites are to back each other up.
 

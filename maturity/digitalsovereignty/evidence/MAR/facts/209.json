@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-30-mar-plf-2027-l-etat-branche-sur-l-ia",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "TelQuel says the PLF 2027 announces storage of Moroccans' data in a sovereign national cloud and a sovereign Jazari Root data centre for secure hosting of the state's strategic data, launching 2027-2029.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Jazari Root sovereign data centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
