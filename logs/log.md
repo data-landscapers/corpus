@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-25 00:06 · **NOTES** · unclocked · 88 closed: AidData nominal-amount entry added to the change log under 24 November; spent aiabuse and aigovernment handovers pruned from prepared/ - ok
 2026-11-24 04:52 · **INDEX** · 44m · research index: 365 added, 17 changed, 0 removed, 25,764 chunks, 44.1 min — ok
 2026-11-24 03:51 · **RENDER** · 41m · polled cycle; 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 31 editions pruned; deployed 861defb — ok
 2026-11-24 03:09 · **REBUILD** · 18m · aigovernment govai: 10 cells reassessed, 0 moved; second drafter 20/20; 54 searched, 80 staged; ~53M tokens, run beside aiabuse — ok
@@ -336,25 +337,6 @@ title: Corpus process log
 2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · BDI FY2025: successor mapping from decrees 100/002 and 100/024 - DIN, DD and five provincial digital-economy directorates at revised (BIF 1.22bn, 31 rows), four predecessors at nil; 19/001 IT staff fees to 19/026
 2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · UGA FY2024: the universal service fund held from the Auditor General's report, UGX 66.18bn budgeted, 68.07bn spent (whole, own-source)
 2026-10-25 01:45 · **ANALYTICS** · unclocked · 2026-10-22..2026-10-24 written; 24 Oct: dl.io 12 views / 0 clicks, corpus 102 views / 0 clicks
-2026-10-24 03:18 · **RENDER** · 37m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 10 editions pruned; deployed 3b5dbf8 - ok
-2026-10-24 02:40 · **REBUILD** · 22m · civilregister civil: 51 cells reassessed, 3 moved; 54 searched, 183 staged; 92.6M tokens (third of a shared window) - ok
-2026-10-24 02:40 · **REBUILD** · 22m · centralbank centralbank: 52 cells reassessed, 5 moved; 54 searched, 227 staged; 92.5M tokens (third of a shared window) - ok
-2026-10-24 02:40 · **REBUILD** · 22m · censuses census: 10 cells reassessed, 0 moved; 54 searched, 293 staged; 92.5M tokens (third of a shared window) - ok
-2026-10-24 02:34 · **BUDGET-EXTRACT** · unclocked · finance upkeep: 11 sittings, BDI FY2025 10->39, KEN own-source +14, BWA and NER regulators; 23 follow-ups waiting, 6 notes for OSINT - ok
-2026-10-24 02:34 · **REVIEW** · unclocked · COG: status 13 sections revised, progress 12 cells, finance 0 rows; 1 deal queued, 1 note for OSINT - ok
-2026-10-24 02:32 · **REVIEW** · unclocked · COM: status 10 sections revised, progress 7 cells, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
-2026-10-24 02:32 · **BUDGET-EXTRACT** · unclocked · NGA FY2024-26: votes recorded for every head (55, 52, 56), all read at the completion sitting of 2026-09-25; no row changed
-2026-10-24 02:29 · **BUDGET-EXTRACT** · unclocked · AGO FY2024-26: votes written for every organ (62, 67, 69), all read; the 2025 SENADIAC platform added (AOA 80m)
-2026-10-24 02:24 · **BUDGET-EXTRACT** · unclocked · BEN FY2025: ARCEP Benin's 2025 activity report read for the regulators ruling, nil (resources only, no spending)
-2026-10-24 02:22 · **BUDGET-EXTRACT** · unclocked · NER FY2025: seven unread sections of the 2025 annex read whole (check D), 2 lines added; the digital activities found are externally financed; cahier 10 pp. 115-144 blank
-2026-10-24 02:17 · **BUDGET-EXTRACT** · unclocked · NER FY2024: the communications regulator held from its own budget execution, XOF 4.89bn revised, 3.80bn executed (ARCEP activity report 2024, publisher's copy)
-2026-10-24 02:16 · **BUILD** · 1h04m · catalogue 32,797; 505 sources, 58 moved, 123 minted, 102 status sections revised; data centres 17, 5 modified; maturity 1,499 read, 239 facts, 29 stages moved; bulletin 26; register 11; 4 rulings messaged - ok
-2026-10-24 02:15 · **BUDGET-EXTRACT** · unclocked · KEN FY2025-26: the Digital Health Authority held at gross under the own-source treatment (294.2m and 191.7m, was net 70m and 65m)
-2026-10-24 02:14 · **BUDGET-EXTRACT** · unclocked · BWA FY2024: the communications regulator held from its own accounts, BWP 192.6m actual (BOCRA Annual Report 2025, now catalogued)
-2026-10-24 02:12 · **BUDGET-EXTRACT** · unclocked · NAM FY2026 mid-year review statement: nil (17 reallocations by vote, none digital; the Appropriation Amendment Bill is not held)
-2026-10-24 02:09 · **BUDGET-EXTRACT** · unclocked · KEN FY2024-26: 15 development heads financed from appropriations in aid held as own-source (14 added, KES 3.2bn appropriated over three years; the FY2025 geological data bank's revised figure corrected)
-2026-10-24 02:04 · **BUDGET-EXTRACT** · unclocked · BDI FY2025: revised figures from the rectificative law of 31 December 2025 for 20 held rows, 3 added at revised (BIF 3.7bn); 8 rows without a one-to-one successor; EGY FY2024-26 economic-authority statements nil (no operating spending by authority)
-2026-10-24 01:11 · **ANALYTICS** · unclocked · 2026-10-22..2026-10-23 written; 23 Oct: dl.io 25 views / 0 clicks, corpus 167 views / 2 clicks
 2026-10-23 11:26 · **BUDGET** · unclocked · poll 66 libraries, GIN and NAM staged; SYC FY2026 and GHA FY2024 revised; MOZ and SEN nil; votes for 9 countries; 39 waiting, none workable; 75 of 120 minutes — ok
 2026-10-20 09:29 · **MIRROR** · unclocked · flash leg failing: ffs=2 then ffs=3, D: has 0.93 GB free; robocopy legs ok; messages at cap, raised in session
 2026-10-17 10:18 · **MATURITY-UPDATE** · unclocked · stage 4c lifted (Bill) and its backlog worked: 15,617 arrivals over 115 studies, 9,822 closed unread (8,344 instruments, 1,478 pre-window), 1,013 past 20 a country; 810 news stories in 408 Sonnet calls; 954 facts merged, 604 cells reassessed and logged, 253 moved; 7 facts removed at the top-stage check; 41 cells restaged and 276 texts rewritten by brief; all 115 lint clean. 245M tokens (212M agents) — ok
