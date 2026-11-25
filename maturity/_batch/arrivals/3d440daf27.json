@@ -1,0 +1,15 @@
+{"slug":"2026-11-10-mar-ladsi-hamsas-ai-governance-model-eu-china","studies":{
+"aiabuse":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Decree 2.26.831 gives the new ministry AI policy and coordination duties only; no rule or authority over AI harms is stated."}}},
+"aigovernment":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing on a government body using an AI system."}}},
+"ailaw":{"countries":{"MAR":{"facts":[
+{"sub_indicator":"law","aspect":"standing","value":"none","fact":"Analyst Amal Hamsas writes that Morocco has no legislative text governing AI as a whole, its framework resting on dispersed existing laws; the draft framework law Digital X.0 is only at preparatory work.","as_of":"2026-11-10","date_precision":"day","system":"","class":"law"}],"systems":[],"note":""}}},
+"aisectoral":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing on AI in a public sector system."}}},
+"aisystems":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing on AI built or hosted in Morocco."}}},
+"cybersecuritylaw":{"countries":{"MAR":{"facts":[
+{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The article lists law no. 05-20 on cybersecurity among Morocco's laws in force.","as_of":"2026-11-10","date_precision":"day","system":"Law 05-20","class":"law"},
+{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The article lists law no. 07-03 on offences against automated data processing systems among Morocco's laws in force.","as_of":"2026-11-10","date_precision":"day","system":"Law 07-03","class":"law"}],"systems":[],"note":""}}},
+"dataprotectionlaw":{"countries":{"MAR":{"facts":[
+{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"The article lists law no. 09-08 on protection of individuals in personal data processing among Morocco's laws in force.","as_of":"2026-11-10","date_precision":"day","system":"Law 09-08","class":"general"}],"systems":[],"note":""}}},
+"internationalstandards":{"countries":{"MAR":{"facts":[],"systems":[],"note":"ISO/IEC 42001 is cited as a general standard, not as adopted or required in Morocco."}}},
+"interoperabilitylaw":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing on public bodies sharing data; law 43-20 is on trust services for electronic transactions."}}}
+}}

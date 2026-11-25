@@ -1,0 +1,12 @@
+{"slug": "2026-11-24-mdg-telecommunications-le-gouvernement-reexamine-le-projet-de-loi-sur-le-numerique", "studies": {
+"businesspayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The document is about the electronic communications bill and states nothing on e-procurement."}}},
+"centralbank": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated on the central bank or payment oversight."}}},
+"consumerprotection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Telecom bill mentions protecting consumers generally; no digital financial services rule is stated."}}},
+"crossborderpayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated on cross-border payments."}}},
+"cybersecuritylaw": {"countries": {"MDG": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "L'Express de Madagascar reports the government withdrew the cybercrime bill from the National Assembly's agenda in November 2026, at the same time as the electronic communications bill, so it is a bill not yet passed.", "as_of": "2026-11", "date_precision": "month", "system": "cybercrime bill", "class": "law"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated on government payments to people."}}},
+"internetusage": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No share of the population using the internet is given."}}},
+"paymentsuptake": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No account-ownership survey figure is given."}}},
+"retailpayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Mobile money is mentioned only as absent in 2005; no service status is stated."}}},
+"revenuecollection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated on electronic tax payment."}}}
+}}

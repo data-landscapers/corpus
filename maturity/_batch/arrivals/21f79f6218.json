@@ -1,6 +1,5 @@
-{"slug": "2026-11-23-cod-rdc-plus-de-1-8-million-de-dossiers-fonciers-identifies-seulement-14-8", "studies": {
-"aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
-"landregister": {"countries": {"COD": {"facts": [
-{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "The land minister told the Council of Ministers that archive digitisation, begun 17 August 2026 in 17 Kinshasa land districts and extended to Haut-Katanga and Lualaba, had identified 1,822,051 land files, 14.8% digitised, with 561 staff trained and a target of all 149 districts.", "as_of": "2026-11-20", "date_precision": "day", "system": "Land archive digitisation", "class": "land"}
-], "systems": [{"system": "Land archive digitisation", "country_label": "Numérisation des archives foncières", "class": "land", "platform": "", "owner": "Ministry of Land Affairs", "tiers": ""}, {"system": "MIMPA", "country_label": "MIMPA app", "class": "other", "platform": "mobile app", "owner": "Ministry of Land Affairs", "tiers": ""}], "note": ""}}}
+{"slug":"2026-11-23-cod-rdc-plus-de-1-8-million-de-dossiers-fonciers-identifies-seulement-14-8","studies":{
+"addressregister":{"countries":{"COD":{"facts":[],"systems":[],"note":"Article is about land file digitisation; nothing on addressing."}}},
+"businessregister":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on the business register."}}},
+"socialregistry":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on a social registry."}}}
 }}

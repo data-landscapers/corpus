@@ -1,0 +1,10 @@
+{"slug": "2026-11-24-ken-safaricom-reports-3-7-million-opt-ins-for-m-pesa-shiriki-pay", "studies": {
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The central bank is not named."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Opt-ins are a provider count, not a survey of adults."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Safaricom, as carried by Tech Africa News, says its M-PESA service offers Shiriki Pay, which lets a wallet holder give up to five beneficiaries delegated payments of up to KES 20,000 a month each, with over 3.7 million customer opt-ins.", "as_of": "2026-11-24", "date_precision": "day", "system": "M-PESA", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on tax payment."}}}
+}}

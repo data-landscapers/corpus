@@ -1,0 +1,6 @@
+{"slug": "2026-11-16-gin-guinea-introduces-restrictions-on-ai-use-in-election-media-coverage", "studies": {
+"aiabuse": {"countries": {"GIN": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "APVA reports that the media regulator HAC signed Decision N° 046/HAC/P/2026 on 6 November 2026, restricting irresponsible use of AI to distort information or manipulate candidates' statements in the November and December 2026 elections.", "as_of": "2026-11-06", "date_precision": "day", "system": "HAC Decision N° 046/HAC/P/2026", "class": "aiharm"}], "systems": [], "note": ""}}},
+"aigovernment": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+"aisectoral": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aisystems": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}}
+}}

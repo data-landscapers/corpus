@@ -1,0 +1,12 @@
+{"slug": "2026-11-24-zaf-google-outlines-support-for-south-africas-ai-ambitions-following-ramap", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms; only Google's own policy stance."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government body's use of AI is stated."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI tool in a public sector system is stated."}}},
+"aistrategy": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No national AI strategy is mentioned."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in the country is stated."}}},
+"datacentres": {"countries": {"ZAF": {"facts": [{"sub_indicator": "datacentre", "aspect": "cloud", "value": "region", "fact": "Google says it is scaling public sector services through its SITA-accredited Johannesburg Cloud Region.", "as_of": "2026-11-24", "date_precision": "day", "system": "Google Johannesburg Cloud Region", "class": "datacentre"}], "systems": [{"system": "Google Johannesburg Cloud Region", "country_label": "South Africa", "class": "datacentre", "platform": "cloud region", "owner": "Google", "tiers": ""}], "note": ""}}},
+"internationalbandwidth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Equiano and Umoja are named as connectivity for the cloud region, but the document does not state they land in or serve the country's traffic."}}},
+"nationaldatacentres": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only a foreign-owned (Google) region is named; no nationally owned data centre is stated."}}},
+"startups": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The R1 million accelerator funding is Google's own programme, not a public scheme."}}},
+"techhubs": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Soweto Digital Innovation Centre is named with no incubation programme or cohort stated."}}}
+}}

@@ -1,0 +1,9 @@
+{"slug": "2025-04-02-bfa-burkina-faso-alerte-une-vaste-campagne-de-desinformation-en-cours-bclc", "studies": {
+"aiabuse": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The police cybercrime brigade (BCLCC) issued an alert on AI-forged posts, but no rule, designated mandate over AI harms, or dated enforcement decision is stated."}}},
+"aigovernment": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No government use of AI stated."}}},
+"aisectoral": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No sector AI system stated."}}},
+"aisystems": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No local AI capacity stated."}}},
+"cybersecuritylaw": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No law is named and no arrest or prosecution is stated."}}},
+"feedbackportals": {"countries": {"BFA": {"facts": [], "systems": [{"system": "Alerte BCLCC", "country_label": "Burkina Faso", "class": "other", "platform": "web and mobile app", "owner": "BCLCC", "tiers": ""}], "note": "Alerte BCLCC takes reports of suspicious online content, a crime-reporting line rather than a channel on public services."}}},
+"internetusage": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No internet use figures stated."}}}
+}}

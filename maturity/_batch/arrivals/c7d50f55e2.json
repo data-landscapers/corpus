@@ -1,0 +1,6 @@
+{"slug": "2026-09-01-ssd-digital-care-companion-who-invests-in-technology-that-connects-the-las", "studies": {
+"civilserviceskills": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Health worker mentoring on a health system is not a civil service digital skills programme."}}},
+"digitalskills": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on training the public."}}},
+"satellitebroadband": {"countries": {"SSD": {"facts": [], "systems": [{"system": "Starlink at Basselia PHCC", "country_label": "South Sudan", "class": "other", "platform": "Starlink", "owner": "WHO with Ministry of Health", "tiers": ""}], "note": "Starlink equipment was installed for one health facility; no licence or sale to households or businesses is stated."}}},
+"schoolinternet": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

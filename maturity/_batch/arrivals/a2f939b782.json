@@ -1,0 +1,7 @@
+{"slug": "2026-09-25-ken-kenya-builds-foundation-for-ai-agents", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Zero Trust safeguards for government AI are stated as a principle; no rule on AI harms."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [{"system": "Enterprise Platform", "country_label": "Kenya", "class": "govai", "platform": "API-linked government platform", "owner": "Ministry of ICT and Digital Economy", "tiers": ""}], "note": "Government is building a platform and prepares to deploy AI agents; no AI system tendered, piloted or in service is stated."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No sector AI tool stated."}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built is stated."}}},
+"egovservices": {"countries": {"KEN": {"facts": [], "systems": [], "note": "eCitizen is named as progress but no launch, service count, gateway or usage figure is stated."}}}
+}}

@@ -1,0 +1,56 @@
+{"slug": "2026-11-24-bdi-burundi-faces-data-protection-test-as-eac-advances-regional-rules", "studies": {
+"businesspayments": {"countries": {
+ "BDI": {"facts": [], "systems": [], "note": "Nothing on e-procurement."},
+ "TZA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."},
+ "UGA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {
+ "BDI": {"facts": [], "systems": [], "note": "Nothing on the central bank."},
+ "TZA": {"facts": [], "systems": [], "note": "Nothing on the central bank."},
+ "UGA": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {
+ "BDI": {"facts": [], "systems": [], "note": "Nothing on digital financial consumer rules."},
+ "TZA": {"facts": [], "systems": [], "note": "Nothing on digital financial consumer rules."},
+ "UGA": {"facts": [], "systems": [], "note": "Nothing on digital financial consumer rules."}}},
+"crossborderpayments": {"countries": {
+ "BDI": {"facts": [], "systems": [], "note": "About data transfers, not payments."},
+ "TZA": {"facts": [], "systems": [], "note": "About data transfers, not payments."},
+ "UGA": {"facts": [], "systems": [], "note": "About data transfers, not payments."}}},
+"dataprotectionauthority": {"countries": {
+ "BDI": {"facts": [{"sub_indicator": "body", "aspect": "standing", "value": "provided", "fact": "Burundi Times reports that Law No. 1/03 of 10 March 2026 establishes an Agency for the Protection of Personal Data, whose operational arrangements are still being developed, and that the Council of Ministers approved a draft decree on the agency on 18 November 2026 subject to adjustments.", "as_of": "2026-11-18", "date_precision": "day", "system": "Agency for the Protection of Personal Data", "class": "authority"}], "systems": [], "note": ""},
+ "TZA": {"facts": [], "systems": [], "note": "Tanzania is named only as the meeting venue."},
+ "UGA": {"facts": [{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Burundi Times names Baker Birikujja as director of Uganda's Personal Data Protection Office, who chaired the EAC experts' meeting in Moshi on 17-21 November 2026.", "as_of": "2026-11", "date_precision": "month", "system": "Personal Data Protection Office", "class": "authority"}], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {
+ "BDI": {"facts": [
+  {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Burundi Times describes Burundi's Law No. 1/03 of 10 March 2026 on the protection of personal data as the law the country must now enforce, and says it already regulates international transfers.", "as_of": "2026-11-24", "date_precision": "day", "system": "Law No. 1/03 of 10 March 2026", "class": "general"},
+  {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The law establishes an Agency for the Protection of Personal Data, but its operational arrangements are still being developed; a draft decree on it was approved subject to adjustments by the Council of Ministers on 18 November 2026 (Burundi Times).", "as_of": "2026-11-18", "date_precision": "day", "system": "Agency for the Protection of Personal Data", "class": "general"}], "systems": [], "note": ""},
+ "TZA": {"facts": [], "systems": [], "note": "Tanzania is named only as the meeting venue."},
+ "UGA": {"facts": [{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Burundi Times names Baker Birikujja as director of Uganda's Personal Data Protection Office, who chaired the EAC experts' meeting in Moshi on 17-21 November 2026.", "as_of": "2026-11", "date_precision": "month", "system": "Personal Data Protection Office", "class": "general"}], "systems": [], "note": ""}}},
+"datatransfers": {"countries": {
+ "BDI": {"facts": [{"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Burundi Times says Article 15 of Burundi's data protection law requires countries receiving personal data from Burundi to give an adequate level of protection, and that transfers elsewhere are allowed with appropriate safeguards.", "as_of": "2026-11-24", "date_precision": "day", "system": "Law No. 1/03 of 10 March 2026, Article 15", "class": "rule"}], "systems": [], "note": ""},
+ "TZA": {"facts": [], "systems": [], "note": "No Tanzanian transfer rule is stated."},
+ "UGA": {"facts": [], "systems": [], "note": "No Ugandan transfer rule is stated."}}},
+"egovservices": {"countries": {
+ "BDI": {"facts": [], "systems": [], "note": "Nothing on government services online."},
+ "TZA": {"facts": [], "systems": [], "note": "Nothing on government services online."},
+ "UGA": {"facts": [], "systems": [], "note": "Nothing on government services online."}}},
+"g2ppayments": {"countries": {
+ "BDI": {"facts": [], "systems": [], "note": "Nothing on government payments."},
+ "TZA": {"facts": [], "systems": [], "note": "Nothing on government payments."},
+ "UGA": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {
+ "BDI": {"facts": [], "systems": [], "note": "No account survey figure."},
+ "TZA": {"facts": [], "systems": [], "note": "No account survey figure."},
+ "UGA": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"regionalpolicy": {"countries": {
+ "BDI": {"facts": [], "systems": [], "note": "Burundi is only named as an EAC Partner State preparing to take part; membership of a community alone is not a yes."},
+ "TZA": {"facts": [], "systems": [], "note": "The Moshi meeting was held in Tanzania, but the source does not say Tanzania hosted it."},
+ "UGA": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Burundi Times reports that Baker Birikujja, director of Uganda's Personal Data Protection Office, chaired the EAC experts' meeting in Moshi on 17-21 November 2026 drafting a regional bill on cross-border data flows.", "as_of": "2026-11", "date_precision": "month", "system": "EAC regional data protection bill meeting", "class": "cooperation"}], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {
+ "BDI": {"facts": [], "systems": [], "note": "Nothing on mobile money."},
+ "TZA": {"facts": [], "systems": [], "note": "Nothing on mobile money."},
+ "UGA": {"facts": [], "systems": [], "note": "Nothing on mobile money."}}},
+"revenuecollection": {"countries": {
+ "BDI": {"facts": [], "systems": [], "note": "Nothing on tax payment."},
+ "TZA": {"facts": [], "systems": [], "note": "Nothing on tax payment."},
+ "UGA": {"facts": [], "systems": [], "note": "Nothing on tax payment."}}}
+}}

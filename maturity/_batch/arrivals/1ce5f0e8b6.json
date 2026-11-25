@@ -1,0 +1,7 @@
+{"slug": "2025-03-01-nga-ai-transformation-roadmap", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only NITDA's internal AI guideline and ethics risks for its own use; no rule on AI harms."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "Nigeria's NITDA states in its March 2025 roadmap that it is developing an AI-powered Knowledge Management System to guide staff through agency processes, with ML document routing, generative-AI rule drafting and agentic coordination planned over 18 months.", "as_of": "2025-03", "date_precision": "month", "system": "NITDA Knowledge Management System", "class": "govai"}], "systems": [{"system": "NITDA Knowledge Management System", "country_label": "Nigeria", "class": "govai", "platform": "", "owner": "NITDA", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NITDA's plan covers its own regulatory and internal operations, not a sector system."}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country is stated."}}},
+"itcapacity": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NITDA says it implemented a Power Automate mail-routing workflow but does not say its own staff built or run it."}}}
+}}

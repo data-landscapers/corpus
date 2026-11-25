@@ -1,0 +1,11 @@
+{"slug": "2026-10-21-tun-administration-deux-projets-pilotes-dintelligence-artificielle-prevus", "studies": {
+"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Two AI pilots are only planned in the 2027 programme, with no uses specified; none stated as under way."}}},
+"aisectoral": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on sectoral AI."}}},
+"aisystems": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on AI built or hosted in Tunisia."}}},
+"datagovernance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A national roadmap for public data governance is only planned for 2027; no drafting stated."}}},
+"dataprotectionlaw": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document names no data protection law."}}},
+"egovservices": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only 20 further services and a national platform are planned for 2027; no service stated as online."}}},
+"opendatapolicy": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No open data policy is named; only development of the national open data portal is planned."}}},
+"opendatause": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No data published for download or licence stated."}}}
+}}

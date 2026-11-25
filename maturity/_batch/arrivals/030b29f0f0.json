@@ -1,0 +1,7 @@
+{"slug": "2025-02-13-com-alwatwan-comores-pas-de-politique-ia", "studies": {
+"aiabuse": {"countries": {"COM": {"facts": [], "systems": [], "note": "The document says nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"COM": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "none", "fact": "Al-watwan reports that AI in the Comoros is limited so far to personal uses, with no national AI policy yet, according to an Anaden official.", "as_of": "2025-02-12", "date_precision": "day", "system": "", "class": "govai"}], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"COM": {"facts": [], "systems": [], "note": "No AI tool in a public sector system is stated; agriculture and health uses are only possibilities."}}},
+"aistrategy": {"countries": {"COM": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "none", "fact": "An Anaden official told Al-watwan there is no national AI policy, 'but we are thinking about it'; the digital strategy Comores Numerique 2028 only tracks reflections on future technology including AI.", "as_of": "2025-02-12", "date_precision": "day", "system": "Comores Numerique 2028", "class": "strategy"}], "systems": [{"system": "Comores Numerique 2028", "country_label": "Comoros", "class": "other", "platform": "", "owner": "Anaden", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"COM": {"facts": [], "systems": [], "note": "Only modest student projects at the IUT are named; no model, dataset or AI computing is stated as built or in service."}}}
+}}

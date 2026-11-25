@@ -1,0 +1,15 @@
+{"slug":"2024-06-05-ben-digitalbusiness-asin-gpt-bj-african-cio-award","studies":{
+"aiabuse":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document states nothing on rules or an authority for AI harms."}}},
+"aigovernment":{"countries":{"BEN":{"facts":[{"sub_indicator":"govai","aspect":"use","value":"underway","fact":"Digital Business Africa reports that Benin's digital agency ASIN has a virtual assistant, GPT-BJ, available in an alpha version that answers questions on the tax, digital, labour and penal codes, and it won an African CIO Award on 29 May 2024.","as_of":"2024-05-29","date_precision":"day","system":"GPT-BJ","class":"govai"}],"systems":[{"system":"GPT-BJ","country_label":"Benin","class":"govai","platform":"gpt.service-public.bj","owner":"ASIN (Agence des Systèmes d'Information et du Numérique)","tiers":"alpha 0.1"}],"note":""}}},
+"aisectoral":{"countries":{"BEN":{"facts":[],"systems":[],"note":"GPT-BJ is a general legal-code assistant, not an AI tool inside a sector's system."}}},
+"aisystems":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document does not say the GPT-BJ model was built or hosted in Benin."}}},
+"businesspayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document states nothing on the central bank."}}},
+"consumerprotection":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document states nothing on financial consumer protection."}}},
+"crossborderpayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document states nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document states nothing on government payments."}}},
+"paymentsuptake":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document gives no survey share of adults with accounts."}}},
+"retailpayments":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document states nothing on retail payments."}}},
+"revenuecollection":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The tax code is only one subject the chatbot answers on; no payment service is stated."}}},
+"satellitebroadband":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The document states nothing on satellite broadband."}}}
+}}

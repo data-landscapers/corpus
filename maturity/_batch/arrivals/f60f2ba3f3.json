@@ -1,0 +1,6 @@
+{"slug": "2026-06-26-mrt-youth-ministry-launches-murshid-ai-government-assistant", "studies": {
+"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"MRT": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "Alakhbar reports that the Ministry of Youth Empowerment, Employment, Sports and Civil Service launched Murshid, an AI government assistant answering citizens in Arabic and French on jobs, civil service and youth programmes.", "as_of": "2026-06-26", "date_precision": "day", "system": "Murshid", "class": "govai"}], "systems": [{"system": "Murshid", "country_label": "Mauritania", "class": "govai", "platform": "AI assistant", "owner": "Ministry of Youth Empowerment, Employment, Sports and Civil Service", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Murshid serves general ministry information, not a sector's system."}}},
+"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No builder, model or computing is named."}}}
+}}

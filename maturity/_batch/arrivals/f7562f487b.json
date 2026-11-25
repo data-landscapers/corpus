@@ -1,0 +1,14 @@
+{"slug":"2026-10-29-sen-le-senegal-et-la-fondation-gates-en-partenariat-pour-accelerer-le-depl","studies":{
+"aiabuse":{"countries":{"SEN":{"facts":[],"systems":[],"note":"No rule or authority on AI harms is stated; an Interior ministry cyber officer only warns of technological dependence."}}},
+"aigovernment":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The partnership, launched 29 October 2026, plans AI deployment and a delivery unit; no government body is stated to use AI."}}},
+"aisectoral":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Pilot AI applications for agriculture, health and education are only planned under the new partnership, not stated as piloted or built."}}},
+"aisystems":{"countries":{"SEN":{"facts":[],"systems":[],"note":"No AI model, dataset or computing facility with a named builder or site is stated."}}},
+"authentication":{"countries":{"SEN":{"facts":[],"systems":[],"note":"A digital identity base is only planned under the partnership; no service is authorised, contracted or piloted."}}},
+"birthidlink":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The document states nothing on civil register and ID links."}}},
+"digitalstrategy":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The New Deal Technologique is named as the digital strategy, but adoption, text, period and reporting are not stated."}}},
+"idcoverage":{"countries":{"SEN":{"facts":[],"systems":[],"note":"No enrolment count or share is stated."}}},
+"idfrombirth":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The document states nothing on numbers at birth."}}},
+"idmaintenance":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The document states nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The document states nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"SEN":{"facts":[],"systems":[],"note":"A digital identity base is only planned; no national ID system is described as built or in service."}}}
+}}

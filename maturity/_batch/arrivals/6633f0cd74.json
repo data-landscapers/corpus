@@ -1,0 +1,13 @@
+{"slug": "2026-08-07-ago-angola-s-fake-news-law-reveals-a-fear-of-the-truth", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "Maka Angola says Angola's Law No. 6/26 took effect on 4 August 2026 and targets fake accounts, bots, deepfakes and coordinated campaigns, with platform reporting duties and removal orders.", "as_of": "2026-08-04", "date_precision": "day", "system": "Law No. 6/26", "class": "aiharm"},
+{"sub_indicator": "aiharm", "aspect": "authority", "value": "designated", "fact": "Maka Angola says INACOM, Angola's communications authority, is the regulator under Law No. 6/26, with enforcement and fining powers under Article 25.", "as_of": "2026-08-04", "date_precision": "day", "system": "INACOM", "class": "aiharm"}
+], "systems": [
+{"system": "Law No. 6/26", "country_label": "Angola", "class": "aiharm", "platform": "", "owner": "Government of Angola", "tiers": ""},
+{"system": "INACOM", "country_label": "Angola", "class": "other", "platform": "", "owner": "Government of Angola", "tiers": ""}
+], "note": ""}}},
+"consumerprotection": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document says nothing on digital financial services consumer protection."}}},
+"opendiscussion": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "Maka Angola, in an opinion by Rafael Marques de Morais, criticises Law No. 6/26 and its removal and fining powers as a threat to freedom of expression and urges the Bar Association and Ombudsman to seek its annulment.", "as_of": "2026-08-07", "date_precision": "day", "system": "Law No. 6/26", "class": "discussion"}
+], "systems": [], "note": "The law's penalties are noted but the document reports no one charged or punished under it, and no cut."}}}
+}}

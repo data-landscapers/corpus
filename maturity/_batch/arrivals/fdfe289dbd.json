@@ -1,0 +1,11 @@
+{"slug": "2026-11-24-cod-can-a-new-fintech-still-break-telco-dominance-in-the-drc", "studies": {
+"businesspayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"COD": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "Tech Africa News reports that the Central Bank of Congo gave Wave an electronic money licence, the first new approval in that category since 2015.", "as_of": "2026-11-24", "date_precision": "day", "system": "Wave e-money licence", "class": "oversight"}], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentslaw": {"countries": {"COD": {"facts": [{"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Tech Africa News reports the Central Bank of Congo licensed Wave, a Senegal-based fintech, to issue and manage electronic money, the first new e-money approval since 2015.", "as_of": "2026-11-24", "date_precision": "day", "system": "Wave e-money licence", "class": "law"}], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "Provider market shares are not a survey of adults with an account."}}},
+"retailpayments": {"countries": {"COD": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Tech Africa News reports that in 2025 four mobile money providers shared the DRC market: Vodacash 40.1 percent, Orange Money 34.4, Airtel Money 23.8 and Afrimobile Money 1.7.", "as_of": "2025", "date_precision": "year", "system": "Vodacash, Orange Money, Airtel Money, Afrimobile Money", "class": "retail"}], "systems": [{"system": "Wave", "country_label": "DRC", "class": "retail", "platform": "", "owner": "Wave", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on tax payment."}}}
+}}

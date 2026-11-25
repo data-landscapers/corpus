@@ -1,0 +1,8 @@
+{"slug": "2026-10-12-tcd-tchad-la-strategie-de-gouvernance-des-donnees-validee-celle-de-l-ia-en", "studies": {
+"aiabuse": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+"aisectoral": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aistrategy": {"countries": {"TCD": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Agence Ecofin reports that Chad opened pre-validation work on 8 October on its National AI Strategy 2026-2030 at a ministry workshop supported by UNECA, and that the document has not yet been definitively adopted.", "as_of": "2026-10-08", "date_precision": "day", "system": "Stratégie nationale d'intelligence artificielle 2026-2030", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}},
+"datagovernance": {"countries": {"TCD": {"facts": [{"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "Agence Ecofin reports that Chad's National Data Governance Strategy has had technical validation, with no adoption by the government stated.", "as_of": "2026-10-12", "date_precision": "day", "system": "Stratégie nationale de gouvernance des données", "class": "policy"}], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,23 @@
+{"slug":"2026-11-24-xwa-experts-raise-alarm-over-digital-violence-call-for-stronger-online-pro","studies":{
+"aiabuse":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Speakers voiced concern about AI deepfakes; no rule or authority on AI harms is stated."}}},
+"aigovernment":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The document states nothing on government use of AI."}}},
+"aisectoral":{"countries":{"NGA":{"facts":[],"systems":[],"note":"A foundation's funding of electronic medical records is not a public AI tool."}}},
+"aisystems":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The document states nothing on AI built in Nigeria."}}},
+"businesspayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The document states nothing on the central bank."}}},
+"civilserviceskills":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The document states nothing on civil service skills."}}},
+"consumerprotection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The document states nothing on financial consumer protection."}}},
+"crossborderpayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The document states nothing on cross-border payments."}}},
+"cybersecuritylaw":{"countries":{"NGA":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"Vanguard reports a speaker at a Lagos convening urging citizens and civil society to familiarise themselves with Nigeria's Cybercrime Act.","as_of":"2026-11-24","date_precision":"day","system":"Cybercrime Act","class":"law"}],"systems":[],"note":""}}},
+"dataprotectionlaw":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Speakers raised data protection concerns in health care; no law is named."}}},
+"digitaldivides":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Speakers cited unequal access and skills in general terms; no measure or figure for Nigeria is stated."}}},
+"digitalskills":{"countries":{"NGA":{"facts":[],"systems":[],"note":"A foundation's teacher training and school coding are private programmes, with no public skills programme stated."}}},
+"g2ppayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The document states nothing on government payments."}}},
+"opendiscussion":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Concerns about disruptions and restrictions are general; no dated cut, punishment or named policy criticism is stated."}}},
+"paymentsuptake":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The document gives no survey share of adults with accounts."}}},
+"policyresearch":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The convening was held by civil society and funders; no research institution publishing on digital policy is stated."}}},
+"publicconsultation":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The document states no government consultation."}}},
+"retailpayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The document states nothing on retail payment services."}}},
+"revenuecollection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The document states nothing on revenue collection."}}},
+"schoolinternet":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The document states nothing on school connectivity."}}}
+}}

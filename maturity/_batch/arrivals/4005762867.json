@@ -1,0 +1,22 @@
+{"slug":"2026-11-24-ken-eu-and-kenya-hold-successful-digital-dialogue","studies":{
+"aiabuse":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Only online safety exchanges on minors are agreed; no rule or authority on AI harms is stated."}}},
+"aigovernment":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No government body's use of AI is stated."}}},
+"aisectoral":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No AI tool in a public sector system is stated."}}},
+"aisystems":{"countries":{"KEN":{"facts":[],"systems":[],"note":"AI Factories partnerships and an open-access compute facility are only agreed or to be explored, with no builder or site named."}}},
+"authentication":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Only technical work on digital identity with the EU is agreed; no Kenyan service is stated."}}},
+"birthidlink":{"countries":{"KEN":{"facts":[],"systems":[],"note":"The document states nothing on civil register and ID links."}}},
+"datacentres":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Sovereign data centres are only discussed; no facility is stated."}}},
+"datatransfers":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Technical adequacy negotiations with the EU concluded and formal adoption is pending; an EU decision about Kenya is not Kenya's own rule."}}},
+"digitalstrategy":{"countries":{"KEN":{"facts":[],"systems":[],"note":"A roadmap for EU-Kenya cooperation and Kenya's DPI Roadmap are named, but no national digital strategy is described."}}},
+"idcoverage":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No enrolment count or share is stated."}}},
+"idfrombirth":{"countries":{"KEN":{"facts":[],"systems":[],"note":"The document states nothing on numbers at birth."}}},
+"idmaintenance":{"countries":{"KEN":{"facts":[],"systems":[],"note":"The document states nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"KEN":{"facts":[],"systems":[],"note":"The document states nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"KEN":{"facts":[],"systems":[],"note":"The document states nothing on Kenya's national ID system itself."}}},
+"internationalbandwidth":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Submarine cable projects are only discussed; no cable in service is stated."}}},
+"nationaldatacentres":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No nationally owned data centre is stated."}}},
+"policyresearch":{"countries":{"KEN":{"facts":[],"systems":[],"note":"The document names no local research institution doing digital policy research."}}},
+"regionalpolicy":{"countries":{"KEN":{"facts":[],"systems":[],"note":"The dialogue is with the EU, not an African body or government."}}},
+"startups":{"countries":{"KEN":{"facts":[],"systems":[],"note":"A B2B matchmaking partnership is private and no startup law or fund is stated."}}},
+"techhubs":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Digital hubs are named only as sites for aerial fibre, with no programme or hub stated as in service."}}}
+}}

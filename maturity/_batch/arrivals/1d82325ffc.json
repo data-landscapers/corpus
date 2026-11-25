@@ -1,0 +1,7 @@
+{"slug": "2025-12-01-tgo-gouvernance-publique-le-togo-prepare-sa-strategie-nationale-sur-l-ia", "studies": {
+"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "A symposium on AI and democracy is described; no rule or authority against AI harms is stated."}}},
+"aigovernment": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The administration is said to use data analysis and automation tools, but no AI system is named."}}},
+"aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Only an AI policy for technical education in preparation is stated; no tool in service."}}},
+"aistrategy": {"countries": {"TGO": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Togo First reports that Togo is preparing a national AI strategy for public administration, with a strategy under development, after a symposium held by the justice ministry.", "as_of": "2025-12-01", "date_precision": "day", "system": "stratégie nationale sur l'IA", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated as built or hosted."}}}
+}}

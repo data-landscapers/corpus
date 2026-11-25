@@ -1,5 +1,7 @@
 iso3,source_slug,read,merged_on
 AGO,2025-09-26-ago-missao-tecnica-reforca-implementacao-da-identidade-digital-e-assinatur,,2026-10-23
+AGO,2025-11-05-ago-governo-apresenta-proposta-de-lei-sobre-inteligencia-artificial,,2026-11-25
+AGO,2025-11-19-ago-lei-sobre-inteligencia-artificial-preve-multas-de-ate-1-500-milhoes-kz,,2026-11-25
 AGO,2025-12-08-ago-apd-apela-a-supervisao-humana-e-boas-praticas-no-uso-da-ia-pelas-empre,,2026-10-21
 AGO,2025-12-29 Review of Angola's Proposed Law on Artificial Intelligence,,2026-10-19
 AGO,2026-03-19-data-protection-africas-default-ai-policy-tool,,2026-10-19
@@ -8,10 +10,12 @@ AGO,2026-08-27-consulta-publica-do-minttics-proposta-de-lei-sobre-a-inteligencia
 AGO,2026-11-10-ago-angola-apresenta-a-uit-projectos-de-fibra-optica-satelite-e,,2026-11-11
 AGO,2026-11-10-ago-angola-seeks-stronger-technology-investment-ties-with-qatar,,2026-11-11
 AGO,2026-11-10-ago-itu-pp26-policy-statement,,2026-11-13
+BDI,2024-10-14-bdi-communication-du-tres-honorable-emmanuel-sinzohagera-president-du-sena,,2026-11-25
 BDI,2025-11-28-pnud-burundi-feuille-route-ia,,2026-10-19
 BDI,2026-04-22-abp-validation-strategie-nationale-ia,,2026-10-19
 BDI,2026-06-08-bdi-what-is-ai-regulation-in-burundi,,2026-10-22
 BDI,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026),,2026-10-19
+BDI,2026-08-29-bdi-le-burundi-veut-promouvoir-et-encadrer-l-intelligence-artificielle,,2026-11-25
 BEN,2024-11-08-ben-beninwebtv-atelier-reforme-code-numerique,,2026-10-19
 BEN,2025-04-01-ben-fid-ia-bien-public-recommandations,,2026-10-19
 BEN,2025-07-02-ben-compte-rendu-du-conseil-des-ministres-du-02-juil-2025,,2026-11-03
@@ -28,6 +32,7 @@ BEN,2026-08-10-grain-west-africa-ai-governance-comparative-study,,2026-10-19
 BEN,2026-09-01-asin-benin-billet-juridique-conformite-ia,,2026-10-19
 BEN,2026-09-01-ben-cpj-letter-to-president,,2026-10-19
 BEN,2026-09-16-sen-pressafrik-atelier-regional-regulation-ia-assemblee-nationale,,2026-10-19
+BEN,2026-10-06-ben-regulation-de-l-ia-au-benin-l-asin-appelle-a-des-regles-specifiques-de,,2026-11-25
 BEN,2026-11-13-ben-beninwebtv-article-550-code-numerique-cour-constitutionnelle,,2026-11-21
 BFA,2025-03-12-bfa-burkina-faso-outlines-ai-progress-unveils-plan-to-become-west-africa-s,,2026-10-21
 BFA,2025-09-01 National AI strategy to guide Burkina Faso's digital transformation,,2026-10-19
@@ -65,6 +70,7 @@ CIV,2025-03-01-xaf-riarc-principes-regulation-ia-communication-audiovisuelle,,20
 CIV,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report,,2026-10-19
 CIV,2026-05-18-protection-donnees-progres-cote-divoire-fratmat,,2026-10-19
 CIV,2026-05-19-civ-protection-des-donnees-personnelles-la-cote-d-ivoire-prepare-son-cadre,,2026-10-22
+CIV,2026-06-22-civ-cote-d-ivoire-aip-le-refram-et-le-riarc-adoptent-un-cadre-commun-pour,,2026-11-25
 CIV,2026-07-01-cipit-ai-and-intellectual-property-in-africa,,2026-10-19
 CIV,2026-07-16-africanenda-ai-fintech-collide,,2026-10-19
 CIV,2026-07-23-cipesa-politics-of-ai-governance-regulation,,2026-10-19
@@ -77,6 +83,7 @@ CMR,2024-06-19-minpostel-intelligence-artificielle-sandbox-reglementaire,,2026-1
 CMR,2025-07-08-snia-2040-ai-roadmap-seven-pillars-techafricanews,,2026-10-19
 CMR,2026-02-18-digitalbusiness-recommandations-ia-cameroun-strategie-nationale,,2026-10-19
 CMR,2026-02-26-cmr-at-gov-t-artificial-intelligence-workshop-cnps-director-general-showca,,2026-10-22
+CMR,2026-06-08-cmr-what-is-ai-regulation-in-cameroon,,2026-11-25
 CMR,2026-07-23-cipesa-politics-of-ai-governance-regulation,,2026-10-19
 CMR,2026-08-12-paradigm-initiative-africa-ai-cybercrime-homegrown-solutions,,2026-10-19
 CMR,2026-10-19-cmr-digitalbusiness-herve-tiwa-vide-juridique-ia,,2026-10-21
@@ -85,6 +92,7 @@ CMR,2026-11-03-africas-ai-ambitions-depend-on-stronger-digital-public-infrastruc
 CMR,2026-11-10-ria-bringing-more-voices-into-the-room-africa-igf-2026,,2026-11-11
 COD,2024-08-23-cod-droitnumerique-politiques-ia-decision-automatisee,,2026-10-19
 COD,2025-10-22-rdc-arrete-cmsnia-commission-mixte-ia,,2026-10-19
+COD,2026-06-08-cod-what-is-ai-regulation-in-the-democratic-republic-of-the-congo,,2026-11-25
 COD,2026-07-23-drc-responsible-ai-use-kinshasa-workshop,,2026-10-19
 COD,2026-07-25-cod-le-comite-professionnel-du-numerique-de-la-fec-renforce-son-engagement,,2026-11-09
 COD,2026-07-30-rdc-strategie-nationale-ia-validation-technique,,2026-10-19
@@ -142,6 +150,7 @@ EGY,2026-07-28-how-african-governments-are-regulating-ai,,2026-10-19
 EGY,2026-07-29-youm7-national-body-unit-social-media-violations,,2026-10-19
 EGY,2026-08-19-algomhor-parliament-ai-regulation-calls,,2026-10-19
 EGY,2026-10-12-egy-technotime-ehab-said-digital-transformation-beyond-services,,2026-10-19
+EGY,2026-10-16-egy-egyin-ai-law-draft-80-percent-ministry-of-justice,,2026-11-25
 EGY,2026-10-28-xaf-iss-africa-has-its-ai-strategy-now-come-the-foundations,,2026-11-01
 EGY,2026-11-03-egy-youm7-egypt-plans-dedicated-ai-law,,2026-11-04
 EGY,2026-11-08-egy-eg-darwish-egypt-needs-a-law-on-data-disclosure-and-circulation,,2026-11-09
@@ -247,6 +256,7 @@ KEN,2026-07-28-how-african-governments-are-regulating-ai,,2026-10-19
 KEN,2026-07-29-absa-kenya-invests-31-million-in-technology-automates-71-of-operations,,2026-10-22
 KEN,2026-07-31-amenya-kenya-copyright-bill-ai-age,,2026-10-19
 KEN,2026-08-01-akinsanmi-compliance-sovereignty-divide-ai-governance,,2026-10-19
+KEN,2026-08-03-ken-government-steps-up-ai-regulation-ahead-of-2027-polls,,2026-11-25
 KEN,2026-08-04-odpc-draft-guidance-offshore-ai-cross-border-data,,2026-10-22
 KEN,2026-08-06-biggest-winners-losers-kenya-ai-policy,,2026-10-19
 KEN,2026-08-14-kenya-cipesa-draft-ai-policy-submission,,2026-10-19
@@ -279,6 +289,7 @@ LBR,2026-07-16-liberia-emansion-ai-generated-documents-warning-frontpage-africa,
 LBR,2026-09-23-lbr-gin-owlpress-mariama-bangura-mru-igf-digital-laws,,2026-10-19
 LBR,2026-09-23-lbr-thenewdawn-mru-igf-cyber-cooperation,,2026-10-19
 LBY,2023-11-01-lby-libyaherald-economy-ministry-ai-draft-regulation,,2026-10-19
+LBY,2025-01-01-lby-governance-of-artificial-intelligence-and-emerging-technologies,,2026-11-25
 LBY,2025-10-30-national-ai-strategy-2025-2030-published-libyaherald,,2026-10-19
 LBY,2025-11-01-lby-jaf-ai-crimes-legislative-gaps-libya,,2026-10-21
 LBY,2026-06-01-lana-dbeibah-adopts-ai-ethics-charter-national-strategy,,2026-10-19
@@ -310,6 +321,7 @@ MAR,2026-09-11-mar-telquel-aanaiber-deepfakes-moroccan-law,,2026-10-21
 MAR,2026-09-25-hespress-publicite-meta-applique-tva-maroc-octobre,,2026-11-01
 MAR,2026-10-16-morocco-appoints-ahmed-rahhou-as-minister-of-artificial-intelligence-d,,2026-10-19
 MAR,2026-11-04-xaf-why-africas-digital-progress-must-be-grounded-in-human-rights-accountability,,2026-11-09
+MAR,2026-11-10-mar-ladsi-hamsas-ai-governance-model-eu-china,,2026-11-25
 MAR,2026-11-10-mar-morocco-develops-national-ai-roadmap-as-government-seeks-to,,2026-11-11
 MDG,2025-02-25-gouvernance-numerique-donnees-personnelles-cmil-lexpress,,2026-10-19
 MDG,2025-08-04-cmil-prestation-serment-membres,,2026-10-19
@@ -401,6 +413,7 @@ NAM,2026-11-12-cran-develops-regulatory-framework-for-ai-satellite-internet-and-
 NER,2019-12-24 Niger Data Protection Law - Loi 2019-71 (amending Loi 2017-28),,2026-10-19
 NER,2024-09-20 The High Authority for the Protection of Personal Data (HAPDP),,2026-10-19
 NER,2025-07-28-hapdp-president-interview-loi-2022-59-lesahel,,2026-11-11
+NER,2025-09-19-ner-lintelligence-artificielle-un-outil-benefique-avec-diverses-contrainte,,2026-11-25
 NER,2026-06-13-niger-africadataprotection-suppression-hapdp,,2026-10-19
 NGA,2025-09-05-nga-experts-call-for-national-policy-on-ai-development-deployment-in-niger,,2026-10-22
 NGA,2025-11-05-nga-funding-gap-threatens-nigeria-s-ai-growth-despite-strong-implementatio,,2026-10-22
@@ -452,6 +465,7 @@ RWA,2026-11-11-bmz-giz-ai-governance-global-rules,,2026-11-13
 RWA,2026-11-11-rwa-rwandas-skills-first-path-to-ai-governance,,2026-11-12
 SDN,2020-07-13-sudan-cyber-crime-prevention-amendment-act-2020,,2026-10-19
 SDN,2025-10-15-sdn-dabanga-cabinet-approves-informatics-crimes-law-amendment,,2026-10-28
+SDN,2026-07-20-sdn-sudan-privacy-gap-digital-transformation-data-protection,,2026-11-25
 SDN,2026-07-31-sudan-signs-world-ai-cooperation-organization,,2026-10-19
 SDN,2026-08-06-council-of-ministers-reviews-cybersecurity-data-and-ai-and-digital-transformation-draft-laws,,2026-10-19
 SDN,2026-08-11-sudan-justice-ministry-ai-digital-laws,,2026-10-19
@@ -586,9 +600,11 @@ UGA,2026-09-15-cipit-ai-east-africa-public-sector-regulatory-preparedness,,2026-
 UGA,2026-11-10-ria-bringing-more-voices-into-the-room-africa-igf-2026,,2026-11-11
 ZAF,2024-07-25-crs-301-20240105460001-2024-advancing-responsible-artificial-intelligence-poli,,2026-11-09
 ZAF,2024-09-30-iati-xm-dac-301-2-110546-001-advancing-responsible-artificial-intelligence-policies-in-af,,2026-11-09
+ZAF,2026-01-01-zaf-question-no-274-2026-written-reply-common-law-rights-particularly-the,,2026-11-25
 ZAF,2026-01-21 How Africa and Europe could create global AI governance rules,,2026-10-19
 ZAF,2026-01-23-okolo-raji-global-majority-international-ai-governance,,2026-10-19
 ZAF,2026-02-25-timeline-sa-national-ai-policy,,2026-10-19
+ZAF,2026-03-18-zaf-social-media-and-ai-legal-risks-and-south-africa-s-response,,2026-11-25
 ZAF,2026-03-19-data-protection-africas-default-ai-policy-tool,,2026-10-19
 ZAF,2026-07-16-africanenda-ai-fintech-collide,,2026-10-19
 ZAF,2026-07-22-ai-hallucinations-strike-again-at-sa-courts,,2026-10-19
@@ -609,6 +625,7 @@ ZAF,2026-10-25-zaf-south-africa-s-ai-strategy-must-be-pro-employment,,2026-10-26
 ZAF,2026-10-28-xaf-iss-africa-has-its-ai-strategy-now-come-the-foundations,,2026-11-01
 ZAF,2026-11-04-xaf-why-africas-digital-progress-must-be-grounded-in-human-rights-accountability,,2026-11-09
 ZAF,2026-11-16-zaf-inforeg-must-not-be-ai-regulator-says-ex-member,,2026-11-21
+ZAF,2026-11-18-zaf-calls-grow-for-dedicated-ai-laws-in-south-africa,,2026-11-25
 ZMB,2025-06-27-zmb-diggers-parley-adopts-motion-to-regulate-ai,,2026-10-19
 ZMB,2025-07-01-regulating-ai-why-and-why-not,,2026-10-19
 ZMB,2025-07-11-pap-lusaka-declaration-africa-digital-parliamentary-summit,,2026-10-19

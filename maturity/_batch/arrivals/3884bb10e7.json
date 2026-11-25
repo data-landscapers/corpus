@@ -1,0 +1,12 @@
+{"slug": "2026-11-20-zmb-zambia-explores-ai-computing-options-at-cassava-s-cape-town-facility", "studies": {
+"aiabuse": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "AI-powered services across 25 ministries are only planned under a May 2026 MoU; no pilot or service stated."}}},
+"aisectoral": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states nothing on sectoral AI."}}},
+"aisystems": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Smart Zambia and Huawei Technologies Zambia signed an MoU in May 2026 including a joint feasibility study for a national AI data center, which Ecofin says remains at feasibility stage with financing unsettled.", "as_of": "2026-05", "date_precision": "month", "system": "national AI data center", "class": "localai"}
+], "systems": [{"system": "national AI data center", "country_label": "Zambia", "class": "localai", "platform": "", "owner": "Smart Zambia Institute with Huawei Technologies Zambia", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Only a planned national AI data centre and a facility in South Africa are named; no Zambian data centre for hire."}}},
+"digitalstrategy": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document names no national digital strategy."}}},
+"itcapacity": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states nothing on who runs government systems."}}},
+"nationaldatacentres": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire in service is stated."}}}
+}}

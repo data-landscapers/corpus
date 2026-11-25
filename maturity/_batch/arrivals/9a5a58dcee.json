@@ -1,0 +1,8 @@
+{"slug": "2026-11-12-mrt-essahraa-awasir-forum-ai-strategy-data-protection", "studies": {
+"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "A former minister's call to revise the penal code for AI is not a rule or draft."}}},
+"aigovernment": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+"aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aistrategy": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The 2025-2029 National AI Strategy is named but its adoption, body or funding is not stated; the draft discussed is a forum's own diagnostic study."}}},
+"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}},
+"dataprotectionlaw": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No data protection law or bill is stated; only proposed amendments to a strategy."}}}
+}}

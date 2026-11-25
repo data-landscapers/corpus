@@ -1,0 +1,10 @@
+{"slug": "2026-02-20-cmr-newsducamer-minpostel-atelier-ia-responsable-administrations", "studies": {
+"aiabuse": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The workshop discussed ethics, legal framing and disinformation; no rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"CMR": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "Minpostel Secretary General Mohamadou Saoudi said on 17 February 2026 that decision-support mechanisms are already used in public administration for processing files, strengthening controls, planning and guiding users, though initiatives develop in isolation without common standards.", "as_of": "2026-02-17", "date_precision": "day", "system": "Administrative decision-support tools", "class": "govai"}], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Health and education applications were only discussed at the workshop; no system stated."}}},
+"aisystems": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A session on local innovation is mentioned with no model, dataset or computing named."}}},
+"cybersecurity": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on a national cyber body, alert or strategy."}}},
+"digitalsovereignty": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Public data governance and secure hosting were workshop topics only; no plan or rule stated."}}},
+"startups": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Startups only took part in a workshop session; no law, label or fund stated."}}},
+"techhubs": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No hub, incubator or park named."}}}
+}}

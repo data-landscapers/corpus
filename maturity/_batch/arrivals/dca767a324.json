@@ -1,0 +1,72 @@
+{"slug":"2026-02-23-nga-gpa-joint-statement-ai-generated-imagery-privacy","studies":{
+"accesstoinformationlaw":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"Statement is on AI imagery and privacy; says nothing on an access to information law."},
+"CPV":{"facts":[],"systems":[],"note":"Statement is on AI imagery and privacy; says nothing on an access to information law."},
+"GHA":{"facts":[],"systems":[],"note":"Statement is on AI imagery and privacy; says nothing on an access to information law."},
+"KEN":{"facts":[],"systems":[],"note":"Statement is on AI imagery and privacy; says nothing on an access to information law."},
+"MUS":{"facts":[],"systems":[],"note":"Statement is on AI imagery and privacy; says nothing on an access to information law."},
+"NGA":{"facts":[],"systems":[],"note":"Statement is on AI imagery and privacy; says nothing on an access to information law."}}},
+"aiabuse":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"A joint regulator statement of expectations; no national AI rule, authority designation or enforcement stated."},
+"CPV":{"facts":[],"systems":[],"note":"A joint regulator statement of expectations; no national AI rule, authority designation or enforcement stated."},
+"GHA":{"facts":[],"systems":[],"note":"A joint regulator statement of expectations; no national AI rule, authority designation or enforcement stated."},
+"KEN":{"facts":[],"systems":[],"note":"A joint regulator statement of expectations; no national AI rule, authority designation or enforcement stated."},
+"MUS":{"facts":[],"systems":[],"note":"A joint regulator statement of expectations; no national AI rule, authority designation or enforcement stated."},
+"NGA":{"facts":[],"systems":[],"note":"A joint regulator statement of expectations; no national AI rule, authority designation or enforcement stated."}}},
+"aigovernment":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"No government use of AI stated."},
+"CPV":{"facts":[],"systems":[],"note":"No government use of AI stated."},
+"GHA":{"facts":[],"systems":[],"note":"No government use of AI stated."},
+"KEN":{"facts":[],"systems":[],"note":"No government use of AI stated."},
+"MUS":{"facts":[],"systems":[],"note":"No government use of AI stated."},
+"NGA":{"facts":[],"systems":[],"note":"No government use of AI stated."}}},
+"aisectoral":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"No sectoral AI system stated."},
+"CPV":{"facts":[],"systems":[],"note":"No sectoral AI system stated."},
+"GHA":{"facts":[],"systems":[],"note":"No sectoral AI system stated."},
+"KEN":{"facts":[],"systems":[],"note":"No sectoral AI system stated."},
+"MUS":{"facts":[],"systems":[],"note":"No sectoral AI system stated."},
+"NGA":{"facts":[],"systems":[],"note":"No sectoral AI system stated."}}},
+"aisystems":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"No locally built AI model, dataset or compute stated."},
+"CPV":{"facts":[],"systems":[],"note":"No locally built AI model, dataset or compute stated."},
+"GHA":{"facts":[],"systems":[],"note":"No locally built AI model, dataset or compute stated."},
+"KEN":{"facts":[],"systems":[],"note":"No locally built AI model, dataset or compute stated."},
+"MUS":{"facts":[],"systems":[],"note":"No locally built AI model, dataset or compute stated."},
+"NGA":{"facts":[],"systems":[],"note":"No locally built AI model, dataset or compute stated."}}},
+"consumerprotection":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"Nothing on digital financial services consumer protection."},
+"CPV":{"facts":[],"systems":[],"note":"Nothing on digital financial services consumer protection."},
+"GHA":{"facts":[],"systems":[],"note":"Nothing on digital financial services consumer protection."},
+"KEN":{"facts":[],"systems":[],"note":"Nothing on digital financial services consumer protection."},
+"MUS":{"facts":[],"systems":[],"note":"Nothing on digital financial services consumer protection."},
+"NGA":{"facts":[],"systems":[],"note":"Nothing on digital financial services consumer protection."}}},
+"dataprotectionauthority":{"countries":{
+"BFA":{"facts":[{"sub_indicator":"body","aspect":"standing","value":"constituted","fact":"The Commission for Information Technology and Freedoms (CIL) of Burkina Faso co-signed the 23 February 2026 joint statement, represented by its Director of Legal Affairs and Litigation, as a data protection authority.","as_of":"2026-02-23","date_precision":"day","system":"Commission for Information Technology and Freedoms (CIL)","class":"authority"}],"systems":[],"note":""},
+"CPV":{"facts":[{"sub_indicator":"body","aspect":"standing","value":"constituted","fact":"Cabo Verde's National Commission of Data Protection (CNPD) co-signed the 23 February 2026 joint statement, signed by its President Faustino Varela Monteiro.","as_of":"2026-02-23","date_precision":"day","system":"National Commission of Data Protection (CNPD)","class":"authority"}],"systems":[],"note":""},
+"GHA":{"facts":[{"sub_indicator":"body","aspect":"standing","value":"constituted","fact":"Ghana's Data Protection Commission co-signed the 23 February 2026 joint statement, signed by Executive Director / Commissioner Dr Arnold Kavaarpuo and two other officers.","as_of":"2026-02-23","date_precision":"day","system":"Data Protection Commission Ghana","class":"authority"}],"systems":[],"note":""},
+"KEN":{"facts":[{"sub_indicator":"body","aspect":"standing","value":"constituted","fact":"Kenya's Office of the Data Protection Commissioner co-signed the 23 February 2026 joint statement, signed by Deputy Data Commissioner Oscar Otieno.","as_of":"2026-02-23","date_precision":"day","system":"Office of the Data Protection Commissioner","class":"authority"}],"systems":[],"note":""},
+"MUS":{"facts":[{"sub_indicator":"body","aspect":"standing","value":"constituted","fact":"The Mauritius Data Protection Office co-signed the 23 February 2026 joint statement, signed by Data Protection Commissioner Drudeisha Madhub.","as_of":"2026-02-23","date_precision":"day","system":"Mauritius Data Protection Office","class":"authority"}],"systems":[],"note":""},
+"NGA":{"facts":[{"sub_indicator":"body","aspect":"standing","value":"constituted","fact":"The Nigeria Data Protection Commission co-signed the 23 February 2026 joint statement, signed by National Commissioner / CEO Dr. Vincent Olatunji.","as_of":"2026-02-23","date_precision":"day","system":"Nigeria Data Protection Commission","class":"authority"}],"systems":[],"note":""}}},
+"dataprotectionlaw":{"countries":{
+"BFA":{"facts":[{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"The Commission for Information Technology and Freedoms (CIL) of Burkina Faso co-signed the 23 February 2026 joint statement of data protection authorities, represented by its Director of Legal Affairs and Litigation.","as_of":"2026-02-23","date_precision":"day","system":"Commission for Information Technology and Freedoms (CIL)","class":"general"}],"systems":[],"note":""},
+"CPV":{"facts":[{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"Cabo Verde's National Commission of Data Protection (CNPD) co-signed the 23 February 2026 joint statement, signed by its President Faustino Varela Monteiro.","as_of":"2026-02-23","date_precision":"day","system":"National Commission of Data Protection (CNPD)","class":"general"}],"systems":[],"note":""},
+"GHA":{"facts":[{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"Ghana's Data Protection Commission co-signed the 23 February 2026 joint statement, signed by Executive Director / Commissioner Dr Arnold Kavaarpuo and two other officers.","as_of":"2026-02-23","date_precision":"day","system":"Data Protection Commission Ghana","class":"general"}],"systems":[],"note":""},
+"KEN":{"facts":[{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"Kenya's Office of the Data Protection Commissioner co-signed the 23 February 2026 joint statement, signed by Deputy Data Commissioner Oscar Otieno.","as_of":"2026-02-23","date_precision":"day","system":"Office of the Data Protection Commissioner","class":"general"}],"systems":[],"note":""},
+"MUS":{"facts":[{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"The Mauritius Data Protection Office co-signed the 23 February 2026 joint statement, signed by Data Protection Commissioner Drudeisha Madhub.","as_of":"2026-02-23","date_precision":"day","system":"Mauritius Data Protection Office","class":"general"}],"systems":[],"note":""},
+"NGA":{"facts":[{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"The Nigeria Data Protection Commission co-signed the 23 February 2026 joint statement, signed by National Commissioner / CEO Dr. Vincent Olatunji.","as_of":"2026-02-23","date_precision":"day","system":"Nigeria Data Protection Commission","class":"general"}],"systems":[],"note":""}}},
+"localgov":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"Nothing on local government connection."},
+"CPV":{"facts":[],"systems":[],"note":"Nothing on local government connection."},
+"GHA":{"facts":[],"systems":[],"note":"Nothing on local government connection."},
+"KEN":{"facts":[],"systems":[],"note":"Nothing on local government connection."},
+"MUS":{"facts":[],"systems":[],"note":"Nothing on local government connection."},
+"NGA":{"facts":[],"systems":[],"note":"Nothing on local government connection."}}},
+"schoolinternet":{"countries":{
+"BFA":{"facts":[],"systems":[],"note":"Nothing on schools."},
+"CPV":{"facts":[],"systems":[],"note":"Nothing on schools."},
+"GHA":{"facts":[],"systems":[],"note":"Nothing on schools."},
+"KEN":{"facts":[],"systems":[],"note":"Nothing on schools."},
+"MUS":{"facts":[],"systems":[],"note":"Nothing on schools."},
+"NGA":{"facts":[],"systems":[],"note":"Nothing on schools."}}}
+}}

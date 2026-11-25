@@ -1,0 +1,19 @@
+{"slug":"2025-09-19-ner-lintelligence-artificielle-un-outil-benefique-avec-diverses-contrainte","studies":{
+"aiabuse":{"countries":{"NER":{"facts":[
+{"sub_indicator":"aiharm","aspect":"rule","value":"inforce","fact":"Jurist Abdou Malam Garba told Le Sahel that Niger has no AI-specific framework but Law 2022-59 of 16 December 2022 on personal data applies to AI and obliges AI developers and service providers operating in Niger to declare to the HAPDP.","as_of":"2025-09-19","date_precision":"day","system":"Law 2022-59","class":"aiharm"},
+{"sub_indicator":"aiharm","aspect":"authority","value":"designated","fact":"Per the same jurist, the HAPDP is the body before which AI developers, makers and service providers operating in Niger must file a declaration under Law 2022-59.","as_of":"2025-09-19","date_precision":"day","system":"HAPDP","class":"aiharm"}],
+"systems":[{"system":"HAPDP","country_label":"HAPDP","class":"other","platform":"","owner":"Niger","tiers":""}],"note":""}}},
+"aigovernment":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on a government body using an AI system."}}},
+"ailaw":{"countries":{"NER":{"facts":[
+{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"Jurist Abdou Malam Garba said Niger has no specific AI framework, but Law 2022-59 specifically obliges AI developers, makers and service providers operating in Niger to declare to the HAPDP.","as_of":"2025-09-19","date_precision":"day","system":"Law 2022-59","class":"law"}],"systems":[],"note":""}}},
+"aisectoral":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on an AI tool in a public sector system."}}},
+"aisystems":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on AI built or hosted in Niger."}}},
+"dataprotectionlaw":{"countries":{"NER":{"facts":[
+{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"Jurist Abdou Malam Garba cites Niger's law no. 2022-59 of 16 December 2022 on personal data protection as governing data processing.","as_of":"2022-12-16","date_precision":"day","system":"Law 2022-59","class":"general"},
+{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"The same jurist says the law requires AI developers and providers to declare to the HAPDP, the data protection authority.","as_of":"2025-09-19","date_precision":"day","system":"HAPDP","class":"general"}],
+"systems":[],"note":""}}},
+"digitalsovereignty":{"countries":{"NER":{"facts":[],"systems":[],"note":"A jurist calls digital sovereignty necessary; no strategy or rule on state data is stated."}}},
+"opendatause":{"countries":{"NER":{"facts":[],"systems":[],"note":"Only a suggestion to use open data; no publishing body is named."}}},
+"startups":{"countries":{"NER":{"facts":[],"systems":[],"note":"Only a hope that a legal framework will help startups; no startup law or fund is stated."}}},
+"techhubs":{"countries":{"NER":{"facts":[],"systems":[],"note":"No hub or incubator is named."}}}
+}}

@@ -1,0 +1,16 @@
+{"slug": "2026-08-01-mwi-invitation-to-express-interest-supply-deployment-and-operation-of-an-i", "studies": {
+"businesspayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Only a paper tender-box submission and a procurement act are mentioned; no e-procurement system is stated."}}},
+"centralbank": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The notice is the revenue authority's; nothing on the central bank."}}},
+"consumerprotection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules."}}},
+"crossborderpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Off-channel remittance fraud detection is an aim only; no corridor is stated."}}},
+"datacentres": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Operators' data centres are mentioned only as sites for on-premises running; nothing on hire."}}},
+"g2ppayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idrobustness": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on national ID."}}},
+"internationalstandards": {"countries": {"MWI": {"facts": [], "systems": [], "note": "ISO certificates are required of bidders only; that places nothing."}}},
+"nationaldatacentres": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on nationally owned data centres for hire."}}},
+"paymentsuptake": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No survey share of adults with an account is given."}}},
+"qualitystandards": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on the national standards body."}}},
+"retailpayments": {"countries": {"MWI": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The Malawi Revenue Authority says mobile money has become one of the largest and fastest-growing channels of financial activity in Malawi, with annual transaction values of about MWK 40 trillion.", "as_of": "2026-08", "date_precision": "month", "system": "mobile money", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"MWI": {"facts": [], "systems": [{"system": "Independent Mobile Money and Telecommunications Revenue Monitoring System", "country_label": "Malawi", "class": "other", "platform": "", "owner": "Malawi Revenue Authority", "tiers": ""}], "note": "The notice seeks a system to monitor operators' declarations of levies; it states no electronic payment of taxes."}}},
+"schoolinternet": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

@@ -1,0 +1,19 @@
+{"slug":"2026-11-01-com-itu-pp26-policy-statement-comoros","studies":{
+"aiabuse":{"countries":{"COM":{"facts":[],"systems":[],"note":"The minister states only a wish for data protection and responsibility by design in AI; no rule or authority is stated."}}},
+"aigovernment":{"countries":{"COM":{"facts":[],"systems":[],"note":"The minister says Comoros wants to experiment with AI to guide citizens through procedures; this is an intention, with no pilot stated."}}},
+"aisectoral":{"countries":{"COM":{"facts":[],"systems":[],"note":"No AI tool in a sector system is stated."}}},
+"aisystems":{"countries":{"COM":{"facts":[],"systems":[],"note":"No AI model, dataset or computing is stated."}}},
+"businesspayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"The document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"COM":{"facts":[],"systems":[],"note":"The document states nothing on the central bank."}}},
+"civilserviceskills":{"countries":{"COM":{"facts":[],"systems":[],"note":"Training of public servants is mentioned as important, with no programme stated."}}},
+"consumerprotection":{"countries":{"COM":{"facts":[],"systems":[],"note":"The statement says recourse for payment errors is needed; no rule or body is stated."}}},
+"crossborderpayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"The document states nothing on cross-border payments."}}},
+"dataprotectionlaw":{"countries":{"COM":{"facts":[],"systems":[],"note":"No data protection law or bill is stated."}}},
+"disabilityaccess":{"countries":{"COM":{"facts":[],"systems":[],"note":"Persons with disabilities are mentioned as a group to listen to; no measure is stated."}}},
+"domesticfinancing":{"countries":{"COM":{"facts":[],"systems":[],"note":"The statement asks ITU for financing; no domestic funding is stated."}}},
+"g2ppayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"The document states nothing on government payments."}}},
+"internationalbandwidth":{"countries":{"COM":{"facts":[],"systems":[],"note":"The minister says links should be diversified; no cable or route in service is stated."}}},
+"paymentsuptake":{"countries":{"COM":{"facts":[],"systems":[],"note":"The document gives no survey share of adults with accounts."}}},
+"retailpayments":{"countries":{"COM":{"facts":[],"systems":[],"note":"Digital payment for merchants is discussed in general terms; no service is stated."}}},
+"revenuecollection":{"countries":{"COM":{"facts":[],"systems":[],"note":"The document states nothing on tax or fee payment."}}}
+}}

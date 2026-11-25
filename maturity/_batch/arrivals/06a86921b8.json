@@ -1,7 +1,1 @@
-{"slug": "2026-11-18-sen-orange-open-weight-wolof-llms", "studies": {
-"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document does not name Senegal and states nothing on AI harms rules."}}},
-"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document does not name Senegal and names no government AI use."}}},
-"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document does not name Senegal and names no sectoral AI tool."}}},
-"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document names no country: Wolof is described as spoken across West Africa, and where the models were built is not stated."}}},
-"itcapacity": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document does not name Senegal and states nothing on government staff."}}}
-}}
+{"slug": "2026-11-18-sen-orange-open-weight-wolof-llms", "studies": {"disabilityaccess": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Orange's Wolof language models; no law, programme or service for persons with disabilities stated, and the body names no country."}}}, "refugees": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on refugees or displaced people."}}}}}

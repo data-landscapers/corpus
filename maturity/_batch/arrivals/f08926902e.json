@@ -1,0 +1,15 @@
+{"slug": "2026-11-24-bfa-enrolement-a-identifiant-unique-jacques-sosthene-dingara-donne-le-coup-den", "studies": {
+"authentication": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No authentication service is described."}}},
+"birthidlink": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No link between the civil register and the ID system is described."}}},
+"digitalsovereignty": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The minister's sovereignty wording is a general statement, not a strategy, rule, hosting or contract term on state data."}}},
+"idcoverage": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No count or share of people enrolled is given."}}},
+"idfrombirth": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No number given at birth is described."}}},
+"idmaintenance": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Who operates, maintains or owns the system is not stated."}}},
+"idregisters": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "Minister Jacques Sosthene Dingara said the basic-education and digital-transition ministries are working to make the electronic unique identifier the root of the national pupil file, which is to be populated from it.", "as_of": "2026-11-23", "date_precision": "day", "system": "national pupil file", "class": "register"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Sidwaya reports the head of state officially launched enrolment in the electronic unique identifier twelve days before the basic-education ministry began enrolling its own staff on 23 November 2026.", "as_of": "2026-11-23", "date_precision": "day", "system": "electronic unique identifier", "class": "idsystem"}
+], "systems": [{"system": "electronic unique identifier", "country_label": "Burkina Faso", "class": "idsystem", "platform": "", "owner": "Ministry of Digital Transition", "tiers": ""}], "note": ""}}},
+"populationregister": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No population register is named."}}}
+}}

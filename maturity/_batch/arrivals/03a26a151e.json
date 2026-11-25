@@ -1,0 +1,5 @@
+{"slug": "2026-10-07-tza-dkt-homera-azindua-mifumo-itakayowezesha-wananchi-kupata-huduma-za-ume", "studies": {
+"aigovernment": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "Energy Minister Juma Homera launched TANESCO's 'Twiga Assistant', an AI solution giving customers service 24 hours a day without calling TANESCO, in Dar es Salaam on 6 October 2026.", "as_of": "2026-10-06", "date_precision": "day", "system": "Twiga Assistant", "class": "govai"}
+], "systems": [{"system": "Twiga Assistant", "country_label": "Tanzania", "class": "govai", "platform": "", "owner": "TANESCO", "tiers": ""}], "note": ""}}}
+}}

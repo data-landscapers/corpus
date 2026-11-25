@@ -1,0 +1,6 @@
+{"slug": "2025-08-06-cod-minedu-nc-tribune-ai-grading-state-examination", "studies": {
+"aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "The AI use is in the education sector's exam grading, which is sectoral."}}},
+"aisectoral": {"countries": {"COD": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "A MINEDU-NC department head writes that since 2025 three provinces (Haut-Katanga, Kasai Oriental, Kin-Mont-Amba) have piloted AI-assisted automated grading of state exams, to be extended nationwide.", "as_of": "2025-08-06", "date_precision": "day", "system": "AI-assisted State Exam grading", "class": "sectorai"}], "systems": [{"system": "AI-assisted State Exam grading", "country_label": "DR Congo", "class": "sectorai", "platform": "automated grading", "owner": "Ministry of National Education and New Citizenship", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country is stated."}}}
+}}

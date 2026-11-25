@@ -1,0 +1,13 @@
+{"slug": "2026-11-24-gha-csa-calls-for-real-time-communication-platform-to-strengthen-ghana-s-digital", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No e-procurement system is mentioned."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No central bank payments role is stated."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No consumer rules or complaints body for digital finance is stated."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No cross-border payment corridor is mentioned."}}},
+"cybersecurity": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "MyJoyOnline names Ghana's Cyber Security Authority as the national body whose head of cybersecurity technology standards, Jake France, called for a shared real-time breach-reporting platform that does not yet exist.", "as_of": "2026-11-24", "date_precision": "day", "system": "Cyber Security Authority", "class": "response"}
+], "systems": [{"system": "Cyber Security Authority", "country_label": "Ghana", "class": "response", "platform": "", "owner": "Government of Ghana", "tiers": ""}], "note": "The proposed information-sharing platform is not in service; no incident response or critical infrastructure designation is stated."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government payments to people are mentioned."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No account ownership survey figure is given."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No retail payment service or switch is described."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No tax or fee payment is mentioned."}}}
+}}

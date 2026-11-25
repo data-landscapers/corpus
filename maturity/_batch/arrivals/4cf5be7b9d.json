@@ -1,0 +1,7 @@
+{"slug": "2025-10-25-mar-hespress-draft-organic-law-deepfakes-election-campaigns", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "draft", "fact": "Hespress reports Morocco's draft organic law on the Chamber of Representatives would penalise election-day campaign posts made through AI tools and AI-generated deepfakes or altered documents, with two to five years' prison for spreading false or altered content.", "as_of": "2025-10-25", "date_precision": "day", "system": "Draft organic law on the Chamber of Representatives", "class": "aiharm"}], "systems": [], "note": ""}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No sector system use stated."}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No AI built in the country stated."}}},
+"opendiscussion": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Draft electoral penalties are unused powers; nothing on criticism, cuts or anyone punished."}}}
+}}

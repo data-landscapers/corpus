@@ -1,0 +1,10 @@
+{"slug": "2026-09-10-civ-primature-beugre-mambe-impact-ia-vision-execution", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Governance is mentioned only as a need; no rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "AI agents for administration are named only as emerging initiatives, with no government body, pilot or service stated."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "School, agriculture and health AI initiatives are named in general terms with no public system, pilot or service stated."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Computing and data capacity are stated as aims only, with no builder, funder or site named."}}},
+"civilserviceskills": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Training of public agents is listed as a need, not a programme."}}},
+"digitalstrategy": {"countries": {"CIV": {"facts": [], "systems": [{"system": "Plan d'acceleration 2026-2028", "country_label": "Cote d'Ivoire", "class": "other", "platform": "", "owner": "Ministry of Digital Transition and Technological Innovation", "tiers": ""}], "note": "The 2026-2028 acceleration plan (seven pillars, 40 priority projects) is the digital ministry's own plan, not shown as adopted by the whole government."}}},
+"startups": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Startups are mentioned only as support to be given; no law, strategy or fund stated."}}},
+"techhubs": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No hub, incubator or park named."}}}
+}}

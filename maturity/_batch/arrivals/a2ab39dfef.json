@@ -1,0 +1,6 @@
+{"slug": "2026-10-09-tun-radionationale-customs-ai-risk-targeting-end-november", "studies": {
+"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The AI use named is in customs, a sector system."}}},
+"aisectoral": {"countries": {"TUN": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "A Tunisian customs official said on 9 October 2026 that AI in the customs risk-management and selectivity system will enter use at the end of November, and the finance ministry and customs recently disclosed trials and projects using AI to target declarations.", "as_of": "2026-10-09", "date_precision": "day", "system": "customs risk-management and selectivity system", "class": "sectorai"}], "systems": [{"system": "customs risk-management and selectivity system", "country_label": "Tunisia", "class": "sectorai", "platform": "AI and machine learning risk targeting", "owner": "General Directorate of Customs", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing facility is named."}}}
+}}

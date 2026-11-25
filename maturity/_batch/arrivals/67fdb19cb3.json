@@ -1,0 +1,6 @@
+{"slug": "2026-05-04-sle-law-reform-commission-launches-digital-consolidation-of-sierra-leone-l", "studies": {
+"aiabuse": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"SLE": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "Sierraloaded reports that the Law Reform Commission, in a notice of 30 April 2026, is developing an AI legal chatbot for its website and WhatsApp to search the consolidated laws database.", "as_of": "2026-04-30", "date_precision": "day", "system": "Law Reform Commission AI legal chatbot", "class": "govai"}], "systems": [{"system": "Law Reform Commission AI legal chatbot", "country_label": "Sierra Leone", "class": "govai", "platform": "website and WhatsApp chatbot", "owner": "Law Reform Commission", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"SLE": {"facts": [], "systems": [], "note": "A legal information chatbot for the public is general administration, not stated as part of the justice system."}}},
+"aisystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No builder, model or computing is named."}}}
+}}

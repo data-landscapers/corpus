@@ -1,0 +1,10 @@
+{"slug": "2025-01-29-zmb-zambia-introduces-e-government-portal", "studies": {
+"aigovernment": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "A chatbot is listed only as a feedback channel; the document does not say it uses AI."}}},
+"egovservices": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "ITWeb Africa reports the Zambian government unveiled the Citizen Support Portal, built by the SMART Zambia Institute, through which citizens can access government services including applications, payments and document submissions, with no count given.", "as_of": "2025-01-28", "date_precision": "day", "system": "Citizen Support Portal", "class": "eservices"}
+], "systems": [{"system": "Citizen Support Portal", "country_label": "Zambia", "class": "eservices", "platform": "website and mobile app", "owner": "SMART Zambia Institute", "tiers": ""}], "note": ""}}},
+"itcapacity": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "ITWeb Africa says the Citizen Support Portal was developed by the e-government division, the SMART Zambia Institute.", "as_of": "2025-01-28", "date_precision": "day", "system": "Citizen Support Portal", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "The Citizen Support Portal, developed by the SMART Zambia Institute, was unveiled in Lusaka by the cabinet secretary, with no contractor named.", "as_of": "2025-01-28", "date_precision": "day", "system": "Citizen Support Portal", "class": "staff"}
+], "systems": [{"system": "Citizen Support Portal", "country_label": "Citizen Support Portal", "class": "staff", "platform": "", "owner": "SMART Zambia Institute", "tiers": ""}], "note": ""}}}
+}}

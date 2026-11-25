@@ -1,0 +1,17 @@
+{"slug": "2026-11-18-zwe-zimbabwe-approves-national-ai-charter-setting-ethical-standards-and-fr", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "Ecofin Agency reports that Zimbabwe's Cyber and Data Protection Act of 2021 also applies to aspects of AI use, particularly the processing of personal data.", "as_of": "2026-11-18", "date_precision": "day", "system": "Cyber and Data Protection Act 2021", "class": "aiharm"}], "systems": [{"system": "Zimbabwe National AI Charter", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Cabinet", "tiers": ""}], "note": "The charter, approved by Cabinet on 17 November 2026, sets ethical principles and a complaints procedure but its legal effect and any named authority are not stated."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No government body's use of an AI system is stated."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "AI in farming, health, mining and education is a 2030 goal only; no tool is stated."}}},
+"aistrategy": {"countries": {"ZWE": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Ecofin Agency reports that Zimbabwe's Cabinet approved the National Artificial Intelligence Strategy for 2026-2030 in October 2025, and it was officially launched in March 2026.", "as_of": "2025-10", "date_precision": "month", "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The AI/ML SandboxHub and a planned National AI and Data Platform are named, but no model, dataset or AI computing is stated as built or in service."}}},
+"businesspayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"dataprotectionlaw": {"countries": {"ZWE": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Ecofin Agency refers to Zimbabwe's Cyber and Data Protection Act of 2021 as existing legislation that applies to the processing of personal data in AI use.", "as_of": "2026-11-18", "date_precision": "day", "system": "Cyber and Data Protection Act 2021", "class": "general"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"retailpayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}},
+"startups": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "A National AI Innovation Fund is only called for in the AI strategy; no startup law, labelling or fund is stated."}}}
+}}

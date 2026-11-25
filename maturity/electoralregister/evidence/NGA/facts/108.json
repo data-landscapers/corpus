@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-28-nga-zaen-najeriya-2027-ta-wace-hanya-inec-za-ta-iya-amfani-da-basirar-ai",
+ "facts": [],
+ "systems": [
+  {
+   "system": "BVAS",
+   "country_label": "BVAS (voter accreditation and result photo device)",
+   "class": "other",
+   "platform": "",
+   "owner": "INEC",
+   "tiers": ""
+  },
+  {
+   "system": "IReV",
+   "country_label": "IReV (result viewing portal)",
+   "class": "other",
+   "platform": "",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": "States 93 million registered voters but does not say the roll is held in a digital or biometric register; BVAS and IReV are result tools."
+}

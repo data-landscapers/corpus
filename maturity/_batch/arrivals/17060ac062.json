@@ -1,0 +1,16 @@
+{"slug": "2026-11-24-tcd-chad-eyes-itu-backed-ai-lab-to-build-local-capacity", "studies": {
+"aiabuse": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Only a planned GENIE.AI lab and training are stated; no government AI system is piloted or in service."}}},
+"aisectoral": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Priority sectors are named in the draft strategy; no sector AI tool is stated."}}},
+"aistrategy": {"countries": {"TCD": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Ecofin Agency reports that in October 2026 Chad held a workshop with the UN Economic Commission for Africa for a preliminary review of its draft National AI Strategy.", "as_of": "2026-10", "date_precision": "month", "system": "National AI Strategy", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The AI for Good Lab-Tchad and its public computing are only sought from the ITU; the LIDIA research lab is an AI research centre, not a model, dataset or computing in service."}}},
+"civilserviceskills": {"countries": {"TCD": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "Ecofin Agency reports that in August 2026 about 60 officials and curriculum developers were trained, with UNESCO support, on using AI to modernise school curricula.", "as_of": "2026-08", "date_precision": "month", "system": "", "class": "csskills"}], "systems": [], "note": ""}}},
+"datacentres": {"countries": {"TCD": {"facts": [], "systems": [], "note": "A planned backup at the national data centre is mentioned; no data centre facts are stated."}}},
+"datagovernance": {"countries": {"TCD": {"facts": [{"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Ecofin Agency reports that in October 2026 Chad's government approved a National Data Governance Strategy.", "as_of": "2026-10", "date_precision": "month", "system": "National Data Governance Strategy", "class": "policy"}], "systems": [], "note": ""}}},
+"digitalskills": {"countries": {"TCD": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Ecofin Agency reports that in August 2025 Chad launched, with ADETIC, ENASTIC and the UNESCO Chair, a programme to train 2,000 young people in AI fundamentals.", "as_of": "2025-08", "date_precision": "month", "system": "", "class": "publicskills"}], "systems": [], "note": ""}}},
+"internetusage": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The 13% internet use figure is for 2023, outside the window of 2024 or later."}}},
+"nationaldatacentres": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Only a planned backup at the national data centre is mentioned."}}},
+"policyresearch": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No policy research output is stated."}}},
+"ruralelectrification": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The 12% electricity access figure is for 2023 and is not a rural figure."}}},
+"schoolinternet": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on internet in secondary schools."}}}
+}}

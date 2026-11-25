@@ -1,0 +1,6 @@
+{"slug": "2026-09-12-civ-benews-impact-ia-11-cas-usage-prioritaires", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Eleven priority use cases were selected at IMPACT IA 2026, a planning step; no body is stated to pilot or run an AI system."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Sector use cases are only selected priorities for a roadmap; no tool is piloted or built."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated as built; Artefact and Mistral gave preparatory support only."}}}
+}}
