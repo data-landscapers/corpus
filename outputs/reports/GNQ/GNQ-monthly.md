@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: GNQ
-ledger_rows: 21
+ledger_rows: 26
 not_held: 6
-record: fdb6489038c5
+record: df57e795a44b
 ---
 
 # News, Oct – Nov 2026
@@ -46,6 +46,14 @@ Equatorial Guinea's transport and telecommunications minister reported to the pa
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[El Gobierno aprueba 15 iniciativas económicas, legislativas y de modernización institucional](https://ahoraeg.com/politica/2026/11/24/el-gobierno-aprueba-15-iniciativas-economicas-legislativas-y-de-modernizacion)** — AHORAEG, 24 November 2026
+
+Equatorial Guinea's Interministerial Council approved draft instruments on electronic communications, digital services, and cybersecurity and information security on 23 November 2026. It also approved a draft decree on shared access to public and private electronic-communications infrastructure. The same session approved the creation of a foreign-trade single window (VUCE) and a draft law for a maritime single window (VUMAR).
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -79,6 +87,34 @@ Equatorial Guinea's draft communication law would ban content inciting violence,
 **[Aprobación del Proyecto de Ley Reguladora de los Servicios de Imprenta, Comunicación Audiovisual y Digital](https://www.guineaecuatorialpress.com/noticias/aprobacion_del_proyecto_de_ley_reguladora_de_los_servicios_de_imprenta_comunicacion_audiovisual_y_digital)** — Oficina de Información y Prensa de Guinea Ecuatorial, 9 November 2026
 
 Equatorial Guinea's Chamber of Deputies unanimously passed a digital communication bill and a copyright bill on 9 November 2026. The government says the first sets obligations for digital platforms and protects minors online. The second covers computer programs and databases and creates a collective-management body.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital services draft instrument</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[El Gobierno aprueba 15 iniciativas económicas, legislativas y de modernización institucional](https://ahoraeg.com/politica/2026/11/24/el-gobierno-aprueba-15-iniciativas-economicas-legislativas-y-de-modernizacion)** — AHORAEG, 24 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic communications draft instrument</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[El Gobierno aprueba 15 iniciativas económicas, legislativas y de modernización institucional](https://ahoraeg.com/politica/2026/11/24/el-gobierno-aprueba-15-iniciativas-economicas-legislativas-y-de-modernizacion)** — AHORAEG, 24 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
@@ -162,6 +198,20 @@ Equatorial Guinea's authorities aim to sign an agreement before the end of Octob
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Decree on shared access to electronic-communications infrastructure</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[El Gobierno aprueba 15 iniciativas económicas, legislativas y de modernización institucional](https://ahoraeg.com/politica/2026/11/24/el-gobierno-aprueba-15-iniciativas-economicas-legislativas-y-de-modernizacion)** — AHORAEG, 24 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
 ### Technical Capacity
 
 <div class="monthly-story" markdown="1">
@@ -197,12 +247,44 @@ Equatorial Guinea's vice-president, Teodoro Nguema Obiang Mangue, named on X the
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Foreign trade single window</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[El Gobierno aprueba 15 iniciativas económicas, legislativas y de modernización institucional](https://ahoraeg.com/politica/2026/11/24/el-gobierno-aprueba-15-iniciativas-economicas-legislativas-y-de-modernizacion)** — AHORAEG, 24 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Maritime single window (VUMAR)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[El Gobierno aprueba 15 iniciativas económicas, legislativas y de modernización institucional](https://ahoraeg.com/politica/2026/11/24/el-gobierno-aprueba-15-iniciativas-economicas-legislativas-y-de-modernizacion)** — AHORAEG, 24 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
 
 ### Digital Identity and CRVS
 
