@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-03-civ-ecofin-mistral-ai-partnership-audit-roadmap",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2028",
+   "fact": "Ecofin Agency says the Mistral AI partnership is part of Cote d'Ivoire's 2026-2028 digital roadmap, which includes 40 major projects and names AI a key priority.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "2026-2028 digital roadmap",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
