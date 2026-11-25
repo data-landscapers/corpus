@@ -659,9 +659,9 @@ for i, (big, head, body) in enumerate(RIGHT):
     text(s, RX + 1.25, y + 0.08, RW - 1.4, 0.3, head, 14, bold=True)
     text(s, RX + 1.25, y + 0.36, RW - 1.4, 0.5, body, 11, color=INK2)
 hub = s.shapes.add_shape(MSO_SHAPE.OVAL, Inches(CX - R), Inches(CY - R), Inches(2 * R), Inches(2 * R))
-hub.fill.solid(); hub.fill.fore_color.rgb = rgb(INK); hub.line.color.rgb = rgb(PAPER); hub.line.width = Pt(4); hub.shadow.inherit = False
+hub.fill.solid(); hub.fill.fore_color.rgb = rgb(ACCENT); hub.line.color.rgb = rgb(PAPER); hub.line.width = Pt(4); hub.shadow.inherit = False
 text(s, CX - R, CY - 0.42, 2 * R, 0.5, "Corpus", 26, color="FFFFFF", bold=True, align=PP_ALIGN.CENTER)
-text(s, CX - R + 0.15, CY + 0.12, 2 * R - 0.3, 0.5, "one integrated dataset", 12, color=RULE, align=PP_ALIGN.CENTER)
+text(s, CX - R + 0.15, CY + 0.12, 2 * R - 0.3, 0.5, "one integrated dataset", 12, color="FFFFFF", align=PP_ALIGN.CENTER)
 ln = s.shapes.add_connector(1, Inches(0.6), Inches(6.62), Inches(12.73), Inches(6.62))
 ln.line.color.rgb = rgb(RULE); ln.line.width = Pt(0.75)
 text(s, 0.6, 6.68, 12.1, 0.45, "Scope: financial commitments of relevance to digital transformation in Africa, "
