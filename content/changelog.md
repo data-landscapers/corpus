@@ -1,5 +1,6 @@
 ## 24 November 2026
 
+- Chinese development-finance amounts from AidData now show the sum committed, in US dollars of the year it was committed, not AidData's inflation-adjusted figure. 41 deals in 20 countries read 1 to 18 per cent lower than before.
 - Non-state finance amounts ending in exactly half a million now round up. 35 deals read US$1m higher, or US$0.1m where shown to one decimal; totals are unchanged.
 - Site statistics no longer count an address that opens ten or more pages in one second as a reader. One such visit on 28 October is removed: 60 fewer pages that week, one fewer user.
 
