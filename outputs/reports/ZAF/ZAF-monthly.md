@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: ZAF
-ledger_rows: 128
+ledger_rows: 132
 not_held: 17
-record: 0fb8d55d17b2
+record: 0ddc3ada56b2
 ---
 
 # News, Oct – Nov 2026
@@ -239,6 +239,20 @@ South Africa's Information Regulator fined Central Johannesburg TVET College R50
 **[FNB issued with R1m fine for POPIA violation](https://www.itweb.co.za/article/fnb-issued-with-r1m-fine-for-popia-violation/O2rQGqAEWwBqd1ea)** — ITWeb South Africa, 27 October 2026
 
 South Africa's Information Regulator fined First National Bank R1 million after a fault in its mobile app exposed the personal data of 88 home-loan applicants to 696 unauthorised people. The regulator found the bank's safeguards inadequate and its response to repeated security incidents deficient. It issued the notices on 26 October 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Dedicated Artificial Intelligence Act</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Calls grow for dedicated AI laws in South Africa](https://www.ecr.co.za/news/news/calls-grow-for-dedicated-ai-laws-in-south-africa/)** — ECR, 18 November 2026
+
+Position paper to Parliament's communications committee urges an AI Act; Ramaphosa: ~70% of Africa's data centres.
 
 </div>
 
@@ -800,6 +814,20 @@ Teraco opened a Digital Realty Innovation Lab at its JB3 data centre on the Isan
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Google Cloud Johannesburg region</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Google outlines support for South Africa’s AI ambitions following Ramaphosa’s Silicon Valley visit](https://techreviewafrica.com/news/8471/google-outlines-support-for-south-africas-ai-ambitions-following-ramap)** — Tech Review Africa, 24 November 2026
+
+Google set out its support for South Africa's AI plans after hosting President Ramaphosa's delegation in Mountain View during his November 2026 Silicon Valley visit. Its offer includes public-sector services from its SITA-accredited Johannesburg cloud region and partnerships with 10 universities. Students get 12 months' free Gemini access, and each start-up accelerator finalist R1 million in equity-free funding.
+
+</div>
+
+</div>
+
 ### Energy
 
 <div class="monthly-story" markdown="1">
@@ -1342,6 +1370,20 @@ UCL's Institute for Innovation and Public Purpose released its DPI Map dataset o
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Vodacom and Absa banking and connectivity partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Vodacom, Absa to co-develop mobile financial services](https://www.connectingafrica.com/partnerships/vodacom-absa-to-co-develop-mobile-financial-services)** — Connecting Africa, 24 November 2026
+
+Vodacom South Africa and Absa Group have announced a partnership to co-develop combined banking and connectivity offers, including device financing, reported on 24 November 2026. Products will follow once commercial, technical, legal and regulatory arrangements are complete.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -1769,6 +1811,20 @@ PRASA launched three digital passenger channels on 17 November 2026: the myprasa
 **[SA strategises to use AI for tangible benefits for citizens](https://www.sanews.gov.za/south-africa/sa-strategises-use-ai-tangible-benefits-citizens)** — SAnews (South African Government News Agency), 19 November 2026
 
 South Africa's Minister in the Presidency, Khumbudzo Ntshavheni, spoke in San Jose, California, during the President's Silicon Valley visit, reported on 19 November 2026. She said the visit's outcomes would inform a review of the Digital Transformation Roadmap. Government is weighing AI guidelines with safeguards, which she said would not be optional.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic Movement Control System (EMCS 2.0)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[No budget for digital border control at land ports as SA faces busy festive season](https://www.citizen.co.za/news/south-africa/no-budget-digital-border-control-land-ports-busy-festive-season/)** — The Citizen, 24 November 2026
+
+South Africa's Border Management Authority told Parliament on 24 November 2026 that its biometric system, EMCS 2.0, will reach land ports only as funds allow. It has run at the Johannesburg, Cape Town and Durban airports since August 2026. Land ports have obsolete laptops and thin bandwidth. The four busiest recorded 4.1 million crossings in July-September 2026.
 
 </div>
 
