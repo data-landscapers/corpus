@@ -20,7 +20,8 @@
           data-thousands="budget_usd"              show these with thousand separators
           data-filter-all='{"aid":"Aid and non-aid"}'  a filter's unfiltered option
           data-links="url"                         render these as links
-          data-link-icons='{"map":["↗","Show on the map"]}'  an on-site link as a mark
+          data-link-icons='{"map":["↗","Show on the map"]}'  a link as a mark
+          data-row-class="direction"               a column whose value marks its row
           data-labels='{"recipient_country":{"ZAF":"South Africa"}}'
           data-tips='{"sector":"What the money is for"}'  a column header's tooltip
           data-badges='{"sovereignty_category":{"Fully African":"green"}}'
@@ -125,6 +126,15 @@
    the tooltip and for a screen reader. The link opens in the same tab, and the
    search box skips the column, since every URL in it carries the site's own name.
    Inert elsewhere.
+
+   ── v8 (2026-11-25) ─────────────────────────────────────────────────────────
+
+   A `data-link-icons` URL on another site opens in a new tab, as every outbound
+   link on both sites does; an on-site one still opens in the same tab.
+
+   `data-row-class` names one column whose value marks its row: `Down` gives the
+   row `dt-row--down`, for a page's own stylesheet to colour. The column need not
+   be shown. Inert elsewhere.
 */
 (function () {
   'use strict';
@@ -209,8 +219,17 @@
 
   /* `icon` is `[mark, words]`, from `data-link-icons`. */
   function iconCell(url, icon) {
-    return '<a href="' + esc(url) + '" title="' + esc(icon[1]) + '" aria-label="'
+    var away = /^https?:\/\//i.test(url) && url.split('/')[2].toLowerCase() !== location.host.toLowerCase();
+    return '<a href="' + esc(url) + '"'
+      + (away ? ' target="_blank" rel="noopener noreferrer"' : '')
+      + ' title="' + esc(icon[1]) + '" aria-label="'
       + esc(icon[1]) + '">' + esc(icon[0]) + '</a>';
+  }
+
+  /* `data-row-class`: the row's mark from one cell, as `dt-row--{value}`. */
+  function rowMark(v) {
+    var n = norm(v || '').replace(/[^a-z0-9_]/g, '');
+    return n ? ' dt-row--' + n.replace(/_/g, '-') : '';
   }
 
   function debounce(fn, ms) {
@@ -550,6 +569,7 @@
         Object.keys(linkIcons).forEach(function (c) {
           var i = findCol(headers, c); if (i > -1) iconFor[i] = linkIcons[c];
         });
+        var markCol = container.dataset.rowClass ? findCol(headers, container.dataset.rowClass) : -1;
         var tipFor = {};                         // column index -> header tooltip
         Object.keys(tips).forEach(function (c) {
           var i = findCol(headers, c); if (i > -1) tipFor[i] = tips[c];
@@ -868,7 +888,8 @@
             var ci = cols[c];
             tds += '<td' + (numeric[ci] ? ' class="num"' : '') + '>' + cellHtml(ci, row[ci]) + '</td>';
           }
-          return '<tr class="dt-row" data-i="' + r + '" tabindex="0">' + tds + '</tr>';
+          return '<tr class="dt-row' + (markCol > -1 ? rowMark(row[markCol]) : '') + '" data-i="' + r
+            + '" tabindex="0">' + tds + '</tr>';
         }
 
         /* The next PAGE of `current`, appended — so a row already open stays open

@@ -372,3 +372,7 @@
 @media (max-width: 760px), (max-height: 640px) {
   .report-head-sticky .mat-movement-page .mat-move-head { position: static; box-shadow: none; clip-path: none; }
 }
+
+/* A fall, row and links alike, in stage 1's red (Bill, 2026-11-25): `data-row-class="Direction"`. */
+.mat-movement-page .dl-datatable tr.dt-row--down td,
+.mat-movement-page .dl-datatable tr.dt-row--down td a { color: #b2182b; }

@@ -838,13 +838,20 @@ def method_page(data: dict, studies: list[dict]) -> str:
 
 # ---------------------------------------------------------------------------
 
-MOVEMENT_FIELDS = ["Date", "Map", "Country", "Chapter", "Topic", "Indicator", "From", "To", "Evidence",
-                   "Source type", "URL"]
+MOVEMENT_FIELDS = ["Date", "Map", "Country", "Chapter", "Topic", "Indicator", "From", "To", "Direction",
+                   "Evidence", "Source type", "URL"]
+# `Direction` is in the CSV and not shown: it marks a fall's row red (Bill, 2026-11-25).
+MOVEMENT_SHOWN = [f for f in MOVEMENT_FIELDS if f != "Direction"]
 MOVEMENT_ALL = {"Chapter": "All chapters", "Topic": "All topics", "Indicator": "All indicators",
                 "Country": "All countries", "From": "From any stage", "To": "To any stage",
                 "Source type": "All source types"}
 MOVEMENT_ICONS = {"Map": ["↗", "Show on the map"], "URL": ["↗", "Open the source"]}
 MOVEMENT_CHARS = {"Map": 4, "URL": 4, "Date": 12, "From": 14, "To": 14, "Source type": 16}   # so a date or a stage's name holds one line
+
+
+def direction(was: str, now: str) -> str:
+    """`Down` when a cell loses stage, a placed stage to unplaced or no evidence included."""
+    return "Down" if (stage_of(now)[0] or 0) < (stage_of(was)[0] or 0) else "Up"
 
 
 def stage_label(raw: str) -> str:
@@ -887,6 +894,7 @@ def movement_rows(data: dict, studies: list[dict]) -> list[dict]:
                                  Chapter=chapter.get(ind["topic"], ""), Topic=ind["topic"],
                                  Indicator=ind["label"], Country=data["countries"].get(h["iso3"], h["iso3"]),
                                  From=stage_label(h["from"]), To=stage_label(h["to"]),
+                                 Direction=direction(h["from"], h["to"]),
                                  Evidence=h["note"].strip(),
                                  **dict(zip(("Source type", "URL"), moving_source(
                                      h.get("sources", ""), held := held or evidence_rows(s["id"]))))))
@@ -910,7 +918,8 @@ def movement_page(csv_name: str, n: int, artefacts: str) -> str:
     {panel}
     <div class="dl-datatable"
       data-src="{name}"
-      data-cols="{", ".join(MOVEMENT_FIELDS)}"
+      data-cols="{", ".join(MOVEMENT_SHOWN)}"
+      data-row-class="Direction"
       data-filters="Country, Chapter, Topic, Indicator, From, To, Source type"
       data-filter-all="{html.escape(json.dumps(MOVEMENT_ALL), quote=True)}"
       data-col-chars="{html.escape(json.dumps(MOVEMENT_CHARS), quote=True)}"

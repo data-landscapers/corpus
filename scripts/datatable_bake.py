@@ -100,8 +100,15 @@ def link_cell(url: str) -> str:
 
 
 def icon_cell(url: str, icon: list[str]) -> str:
-    """`iconCell`: an on-site link shown as one mark (`data-link-icons`)."""
+    """`iconCell`: a link shown as one mark (`data-link-icons`). An off-site one gets its
+    new tab from `external_links()`, which every builder runs on the baked page."""
     return f'<a href="{esc(url)}" title="{esc(icon[1])}" aria-label="{esc(icon[1])}">{esc(icon[0])}</a>'
+
+
+def row_mark(v: str) -> str:
+    """`rowMark`: the row's class from its `data-row-class` cell, as `dt-row--{value}`."""
+    n = re.sub(r"[^a-z0-9_]", "", norm(v or ""))
+    return f' class="dt-row--{n.replace("_", "-")}"' if n else ""
 
 
 def collation_key(s: str) -> tuple:
@@ -247,9 +254,10 @@ def table_html(a: dict[str, str], headers: list[str], rows: list[list[str]]) -> 
             + ([("sort-asc" if asc else "sort-desc")] if vi == sort_vi else [])
         head.append(f'<th{" class=" + chr(34) + " ".join(cls) + chr(34) if cls else ""}>'
                     + esc(headers[ci]).replace("_", "_" + ZWSP) + "</th>")
+    mark = find(a["data-row-class"]) if a.get("data-row-class") else -1
     body = []
     for r in ordered[:PAGE]:
-        body.append("<tr>" + "".join(
+        body.append(f"<tr{row_mark(r[mark]) if mark > -1 else ''}>" + "".join(
             f'<td{" class=" + chr(34) + "num" + chr(34) if ci in numeric else ""}>{cell(ci, r[ci])}</td>'
             for ci in cols) + "</tr>")
     return (f'<div class="dt-baked"><table class="data-table" style="width:{sum(widths)}px">'
