@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: CIV
-ledger_rows: 62
+ledger_rows: 64
 not_held: 9
-record: 829036fd01de
+record: dc8902b2ab86
 ---
 
 # News, Oct – Nov 2026
@@ -231,6 +231,20 @@ The National Assembly's finance committee adopted the 2027 budget of Côte d'Ivo
 **[Côte d’Ivoire signs AI cooperation agreement with AISCA to strengthen skills and research](https://www.techreviewafrica.com/news/8351/cote-divoire-signs-ai-cooperation-agreement-with-aisca-to-strengthen-skills-and-research)** — Tech Review Africa, 16 November 2026
 
 Côte d'Ivoire's ministry of digital transition signed a memorandum of understanding with the AI Skills and Compute Africa Foundation during Ivoire Tech Forum 2026, as reported on 16 November 2026. It covers AI skills, sovereign computing access for researchers, AI research and priority use cases, the data ecosystem and AI policy dialogue. No computing capacity or funding was stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital-cooperation memorandum with the European Bank for Reconstruction and Development</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IA, start-up, infrastructures : la Côte d’Ivoire élargit sa coopération numérique avec la BERD](https://www.wearetech.africa/fr/fils/actualites/tech/ia-start-up-infrastructures-la-cote-d-ivoire-elargit-sa-cooperation-numerique-avec-la-berd)** — wearetech.africa, 24 November 2026
+
+EBRD MoU signed 23 Nov 2026, no amount; backs AI strategy to 2030; 700 public services slated for digitisation.
 
 </div>
 
@@ -975,6 +989,20 @@ Ivana Valera founded Faba Finance in Abidjan in 2025. Its mobile application let
 </nav>
 
 ### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI training for public decision-makers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d'Ivoire : Assemblée nationale, Patrick Achi ouvre la voie à l'intelligence artificielle dans le travail parlementaire](https://www.koaci.com/article/2026/10/12/cote-divoire/politique/cote-divoire-assemblee-nationale-patrick-achi-ouvre-la-voie-a-lintelligence-artificielle-dans-le-travail-parlementaire_201534.html)** — KOACI, 12 October 2026
+
+12 Oct 2026 MPs' AI session; 2,000+ public officials to be trained by end-2027; Baoulé and Malinké chatbot demo.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
