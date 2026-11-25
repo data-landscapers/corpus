@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-01-cmr-intelligence-artificielle-au-cameroun",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "OBS-CC says the National AI Strategy was presented and adopted at the national AI consultations (CONIA) in Yaounde, which bring together the State, universities, the private sector and local authorities.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "CONIA",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

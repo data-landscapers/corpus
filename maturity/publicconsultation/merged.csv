@@ -10,6 +10,8 @@ AGO,2025-04-15-ago-sessao-tematica-aborda-programa-de-desenvolvimento-e-expansao
 AGO,2025-05-12-ago-bna-submete-a-consulta-publica-projecto-sobre-conta-fiduciaria-para-mo,,2026-11-12
 AGO,2025-07-23-ago-protestos-corte-da-internet-levanta-suspeitas-de-censura,,2026-11-13
 AGO,2025-09-01-angola-proposta-de-lei-inteligencia-artificial,,2026-10-19
+AGO,2025-11-05-ago-governo-apresenta-proposta-de-lei-sobre-inteligencia-artificial,,2026-11-25
+AGO,2025-11-19-ago-lei-sobre-inteligencia-artificial-preve-multas-de-ate-1-500-milhoes-kz,,2026-11-25
 AGO,2025-12-05-bna-estrategia-nacional-de-inclusao-financeira-2025-2027-consulta-publica,,2026-10-19
 AGO,2025-12-08-ago-angola-s-national-financial-inclusion-strategy-aims-to-boost-economic,,2026-11-12
 AGO,2025-12-08-ago-apd-apela-a-supervisao-humana-e-boas-praticas-no-uso-da-ia-pelas-empre,,2026-10-21
@@ -177,6 +179,7 @@ CMR,2026-08-12-cmr-arsel-socadel-indicateurs-performance-2025,,2026-11-07
 CMR,2026-08-19-237online-cameroon-internet-governance-forum,,2026-10-19
 CMR,2026-08-20-cmr-digitalbusiness-fgi-interoperabilite,,2026-10-19
 CMR,2026-09-15-cmr-gouvernance-des-donnees-en-afrique-centrale-le-cameroun-sans-apdp-oper,,2026-10-30
+CMR,2026-10-01-cmr-intelligence-artificielle-au-cameroun,,2026-11-25
 CMR,2026-10-20-xca-eccas-validates-regional-data-governance-framework-to-advance-digital,,2026-10-22
 CMR,2026-10-23-cmr-cameroon-summit-calls-for-interoperable-dpi-and-sovereign-infrastructure,,2026-10-24
 CMR,2026-10-30-paradigm-initiative-partners-afigf-judicial-parliamentary-tracks-2026,,2026-11-04
@@ -341,6 +344,7 @@ ETH,2026-09-08-caribou-dpi-adoption-governance-problem,,2026-10-19
 ETH,2026-09-25-xaf-rules-on-paper-flows-in-practice-can-africas-continental-frameworks-sh,,2026-11-15
 ETH,2026-09-26-eth-wardheernews-tigray-communications-blackout,,2026-10-29
 ETH,2026-10-18-eth-faydaverse-begins-charging-banks-for-digital-id-verification,,2026-10-21
+ETH,2026-10-19-eth-the-ethiopian-statistical-service-ess-invites-expressions-of-interest,,2026-11-25
 ETH,2026-11-01-eth-faydaverse-expands-beyond-national-id-registration,,2026-11-07
 ETH,2026-11-05-eth-ethiopia-suspends-the-reporter-indefinitely-in-escalating-assault-on-i,,2026-11-13
 ETH,2026-11-09-xaf-call-for-stakeholder-inputs-vision-for-open-research-in-africa,,2026-11-10
@@ -421,6 +425,7 @@ GHA,2026-11-09-draa-child-online-protection-must-be-guaranteed,,2026-11-11
 GHA,2026-11-10-gha-nca-hosts-helios-towers-delegation,,2026-11-11
 GHA,2026-11-10-ict-regulatory-tracker-2026-11-10,,2026-11-11
 GHA,2026-11-10-ria-bringing-more-voices-into-the-room-africa-igf-2026,,2026-11-11
+GHA,2026-11-23-gha-gispa-pushes-policy-reforms-to-boost-digital-infrastructure,,2026-11-25
 GIN,2017-01-01-itie-guinee-politique-gmp-donnees-ouvertes,,2026-10-19
 GIN,2025-04-01-gin-csig-dounia-1-donnees-numeriques-ia,,2026-10-19
 GIN,2025-04-18-anssi-atelier-validation-pssie,,2026-10-19
@@ -521,6 +526,7 @@ KEN,2025-05-20-ken-ca-launches-ambitious-ksh-40b-universal-service-fund-strategy
 KEN,2025-08-13-ken-undp-validates-training-blueprint-public-service,,2026-10-19
 KEN,2025-08-14-ken-kenyan-draft-law-sparks-outrage-for-shielding-tech-companies-from-laws,,2026-11-13
 KEN,2025-08-19-ken-major-usf-transparency-update-kenya-s-communications-authority-respond,,2026-11-01
+KEN,2025-08-29-ken-drought-information,,2026-11-25
 KEN,2025-09-10-ken-kenya-s-efforts-in-ai-and-implementation-plan-of-the-kenyan-national-a,,2026-10-22
 KEN,2025-09-22-ken-draft-income-tax-sep-tax-regulations-2025,,2026-10-29
 KEN,2025-09-25-businessdaily-kra-nets-sh2-3bn-tech-giants-without-local-units,,2026-10-29
@@ -552,6 +558,7 @@ KEN,2026-07-28-kaluvu-kenya-ai-policy-debating-right-things,,2026-10-19
 KEN,2026-07-28-kictanet-kensafespace-ends-digital-rights-network,,2026-10-19
 KEN,2026-07-31-kenya-digital-piracy-framework,,2026-10-19
 KEN,2026-08-03-gcai-submission-kenya-ai-emerging-technologies-policy,,2026-10-19
+KEN,2026-08-03-ken-government-steps-up-ai-regulation-ahead-of-2027-polls,,2026-11-25
 KEN,2026-08-07-kenya-moves-to-boost-digital-inclusion-through-locally-assembled-devices,,2026-10-19
 KEN,2026-08-11-kictanet-youth-day-2026-technology,,2026-10-19
 KEN,2026-08-14-ken-mps-pass-public-participation-law-here-is-what-it-means-for-you,,2026-11-04
@@ -625,7 +632,9 @@ LBR,2026-11-10-ict-regulatory-tracker-2026-11-10,,2026-11-11
 LBR,2026-11-10-lbr-iso-member-lisa,,2026-11-11
 LBR,2026-11-13-lbr-us-52m-id-deal-faces-fresh-scrutiny,,2026-11-21
 LBR,2026-11-18-lbr-house-endorses-committees-report-rejecting-oesd-nir-concession-agreement,,2026-11-21
+LBR,2026-11-23-lbr-nec-seeks-us-89-5m-for-2029-elections-cites-biometric-technology,,2026-11-25
 LBY,2024-04-22-lby-isoc-libya-digital-policy-reform-dialogue,,2026-10-19
+LBY,2025-01-01-lby-governance-of-artificial-intelligence-and-emerging-technologies,,2026-11-25
 LBY,2025-01-01-lby-trade-facilitation-and-paperless-trade-in-libya,,2026-10-27
 LBY,2025-09-30-lby-expertisefrance-judicial-digitalisation-case-management,,2026-10-19
 LBY,2026-05-03-lby-unsmil-statement-world-press-freedom-day,,2026-11-13
@@ -801,6 +810,7 @@ MWI,2025-10-09-mwi-ministry-pppc-court-stakeholders-on-commercial-transaction-ma
 MWI,2025-10-28-mwi-media-council-for-law-backed-self-regulation,,2026-11-13
 MWI,2025-12-02-au-validation-data-governance-frameworks,,2026-10-19
 MWI,2025-12-06-cyber-security-policy-and-strategy-regional-consultations,,2026-10-19
+MWI,2026-01-01-mwi-applications-now-open-for-the-ai-for-public-good-challenge,,2026-11-25
 MWI,2026-02-19-ministry-validates-digital-transformation-and-ai-strategies,,2026-10-19
 MWI,2026-03-25-mwi-usf-supports-expansion-of-digital-connectivity,,2026-10-24
 MWI,2026-05-01-mwi-unlocking-data-newsletter-may-edition,,2026-11-15
@@ -942,8 +952,10 @@ NGA,2026-11-10-ict-regulatory-tracker-2026-11-10,,2026-11-11
 NGA,2026-11-10-ria-bringing-more-voices-into-the-room-africa-igf-2026,,2026-11-11
 NGA,2026-11-10-senate-passes-bill-to-regulate-systemically-important-fintechs,,2026-11-12
 NGA,2026-11-11-nga-nigerian-court-detains-journalist-daniel-ojukwu-on-cybercrime-charges,,2026-11-13
+NGA,2026-11-24-xwa-experts-raise-alarm-over-digital-violence-call-for-stronger-online-pro,,2026-11-25
 RWA,2024-01-01-rwa-rwandas-data-governance-navigating-data-governance-in-the-public-secto,,2026-11-13
 RWA,2024-06-01-rwa-legal-reforms-adapted-to-tech-changes-data-safeguards-vital-for-expand,,2026-11-08
+RWA,2024-07-12-rwa-geospatial-technologies-to-inform-agricultural-production-in-rwanda,,2026-11-25
 RWA,2025-01-01-ssd-the-connectivity-for-refugees-initiative-one-year-in,,2026-11-15
 RWA,2025-03-11-rwa-rwanda-invites-public-comments-on-draft-law-regulating-the-virtual-ass,,2026-11-04
 RWA,2025-03-18-rwa-leveraging-interoperability-for-social-impact-in-rwanda,,2026-11-15
@@ -1182,6 +1194,7 @@ TCD,2026-10-15-hamama-fgi-afrique-centrale-souverainete-numerique,,2026-10-19
 TCD,2026-10-15-tcd-aspa-internet-cher-fracture-numerique,,2026-10-19
 TCD,2026-10-19-tcd-digitalisation-de-leftp-le-tchad-engage-une-nouvelle-tape-avec-la-vali,,2026-10-22
 TCD,2026-11-10-ict-regulatory-tracker-2026-11-10,,2026-11-11
+TGO,2023-12-06-tgo-justice-validation-annuaire-statistique-2022,,2026-11-25
 TGO,2023-12-31-iati-xm-dac-301-2-110313-001-empowering-districts-and-schools-with-data-a-digital-platfor,,2026-11-07
 TGO,2024-01-04-tgo-inseed-validation-plan-action-revise-snds-2023-2025,,2026-10-19
 TGO,2025-01-05-tgo-boite-a-suggestions-une-plateforme-pour-impliquer-les-citoyens-dans-la,,2026-11-04
@@ -1191,6 +1204,7 @@ TGO,2025-12-19-tgo-atelier-de-restitution-des-travaux-relatifs-a-l-elaboration-d
 TGO,2026-01-01-xwa-harmonized-improved-population-statistics-west-and-central-africa-hisw,,2026-10-26
 TGO,2026-06-13-tgo-journee-detude-internationale-la-chaire-unesco-fait-de-luniversite-de,,2026-11-12
 TGO,2026-06-20-togo-ipdcp-gouvernance-donnees-togo-igf-2026,,2026-10-19
+TGO,2026-09-01-tgo-ifdc-siham-agrimarket-insights-vol-2,,2026-11-25
 TGO,2026-09-01-tgo-togo-consolidation-et-harmonisation-des-donnees-de-sante-dans-le-dhis2,,2026-11-07
 TGO,2026-09-04-togo-igf-forum-national-gouvernance-internet-12e-edition,,2026-10-19
 TGO,2026-10-16-tgo-atop-anid-kozah-comites-gestion-plaintes-wuri,,2026-10-19
@@ -1253,7 +1267,9 @@ UGA,2025-05-01-uga-digitally-trusted-uganda,,2026-10-23
 UGA,2025-05-19-uga-ura-trains-customs-agents-ahead-of-export-fiscalisation-roll-out,,2026-10-27
 UGA,2025-06-05-uga-advancing-ict-infrastructure-standards-through-stakeholder-collaborati,,2026-10-24
 UGA,2025-08-27-ict-national-ict-infrastructure-spatial-data-store,,2026-10-19
+UGA,2025-12-27-uga-ministry-of-local-government-partners-with-ugandan-ai-company-nile-ai,,2026-11-25
 UGA,2026-01-01-ken-east-african-ai-policy-hub,,2026-11-12
+UGA,2026-01-01-uga-2025-annual-report-strengthening-civil-registration-and-vital-statisti,,2026-11-25
 UGA,2026-02-11 Digital Public Infrastructure Through an Open Government Lens,,2026-10-19
 UGA,2026-02-11-uga-ucc-study-highlights-strong-impact-of-ict4pwd-programme,,2026-11-02
 UGA,2026-05-25-uga-shaping-uganda-s-data-privacy-landscape-our-submission-to-pdpo,,2026-10-30
@@ -1272,6 +1288,7 @@ UGA,2026-11-09-draa-child-online-protection-must-be-guaranteed,,2026-11-11
 UGA,2026-11-10-ict-regulatory-tracker-2026-11-10,,2026-11-11
 UGA,2026-11-10-ria-bringing-more-voices-into-the-room-africa-igf-2026,,2026-11-11
 UGA,2026-11-11-eac-communications-officers-regional-mobile-roaming,,2026-11-13
+UGA,2026-11-24-uga-government-seeks-integrated-business-registration-system-to-cut-costs,,2026-11-25
 ZAF,2020-12-19 Digital futures South Africa's readiness for the 4IR,,2026-10-19
 ZAF,2024-06-10-zaf-calls-for-finalisation-of-cyber-security-bill,,2026-10-28
 ZAF,2024-09-30-iati-xm-dac-301-2-110546-001-advancing-responsible-artificial-intelligence-policies-in-af,,2026-11-07
@@ -1381,6 +1398,7 @@ ZMB,2026-11-17-governing-the-code-comparative-ai-lessons-from-east-southern-afri
 ZWE,2024-01-25-zimbabwe-nsds-iii-2021-2025,,2026-10-19
 ZWE,2024-04-15-zwe-herald-debate-over-new-data-prices,,2026-10-19
 ZWE,2024-11-08-zwe-call-for-transparency-and-stakeholder-consultation-on-new-cyber-and-da,,2026-11-13
+ZWE,2024-12-19-zwe-herald-climate-change-agriculture-insurance-farmers-basket,,2026-11-25
 ZWE,2025-01-01-zwe-zimbabwe-s-data-protection-regime,,2026-10-30
 ZWE,2025-05-31-afigf-2025-communique-dar-es-salaam,,2026-10-19
 ZWE,2025-07-05-zwe-zimbabwean-academic-represents-civil-society-at-un-internet-governance,,2026-11-12
