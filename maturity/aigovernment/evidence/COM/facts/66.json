@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-13-com-alwatwan-comores-pas-de-politique-ia",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "none",
+   "fact": "Al-watwan reports that AI in the Comoros is limited so far to personal uses, with no national AI policy yet, according to an Anaden official.",
+   "as_of": "2025-02-12",
+   "date_precision": "day",
+   "system": "",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

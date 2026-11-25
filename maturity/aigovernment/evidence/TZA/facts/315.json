@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-16-tza-tanzania-unveils-ai-tourism-chatbot",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Minister for Natural Resources and Tourism announced in her 2026/27 budget speech the Tanzania Travel Companion platform with an AI chatbot that will give guidance in more than 56 languages.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "Tanzania Travel Companion",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tanzania Travel Companion",
+   "country_label": "Tanzania",
+   "class": "govai",
+   "platform": "AI chatbot and tourism platform",
+   "owner": "Ministry of Natural Resources and Tourism",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

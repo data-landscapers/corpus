@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "no evidence",
-   "use": "",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether government bodies use AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "2",
+      "use": "underway",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001",
+      "gaps": "No source found shows an AI system in service in a government body, or rules or a register for the government's own use of AI.",
+      "note": "Fact 2026-11-25: the Somali Bureau of Standards is building a management system with an AI chatbot for certification, as of September 2026, so AI is under way. Its rollout is still to come, so not stage 3.",
+      "as_at": "2026-11-25"
+    }
+  ]
 }

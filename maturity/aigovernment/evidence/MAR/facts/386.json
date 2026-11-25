@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-mar-maroc-ia-2030-jazari-data-centers-ia-souveraine-ou-en-est-concretement",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Medias24 reports the digital transition ministry presented the first AI tools for administration on 8 September 2026, including the Idarati AI citizen assistant and a Bulletin officiel search engine fed by nearly 400,000 OCR-processed pages.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "Idarati AI; Bulletin Officiel Search",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Idarati AI",
+   "country_label": "Morocco",
+   "class": "govai",
+   "platform": "Marketplace souveraine",
+   "owner": "Ministry of Digital Transition and Administration Reform",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

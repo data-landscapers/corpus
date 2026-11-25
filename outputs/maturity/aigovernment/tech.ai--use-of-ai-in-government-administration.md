@@ -21,12 +21,12 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 | Stage | Countries |
 |---|---|
 | 5 Mature | 0 |
-| 4 Operating | 16 |
-| 3 Established | 19 |
-| 2 Nascent | 5 |
-| 1 Absent | 0 |
+| 4 Operating | 17 |
+| 3 Established | 18 |
+| 2 Nascent | 7 |
+| 1 Absent | 1 |
 | Unplaced | 2 |
-| No evidence | 12 |
+| No evidence | 9 |
 
 ## Countries
 
@@ -126,6 +126,14 @@ Tanzania's e-Government Authority runs an AI system used by two public instituti
 
 - The e-Government Authority (e-GA) says its Msaada AI system is in use by the Tanzania Tourist Board on its website and by the President's Office Public Service Management in its e-Mrejesho system ([source, 2026-07](https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2)).
 - The e-Government Authority says Msaada AI is used by two institutions, the Tanzania Tourist Board and the President's Office Public Service Management ([source, 2026-07](https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2)).
+
+### Togo: 4 Operating
+
+Togo's digital ministry and procurement control directorate both had AI assistants in service in 2026; no rules for government AI use have been found.
+
+- UNDP Togo says a digital assistant at the Direction nationale du contrôle de la commande publique helps staff search and analyse public procurement information, cutting a task from days to under a day ([source, 2026-11-03](https://www.undp.org/fr/togo/actualites/un-supercalculateur-pour-accelerer-linnovation-technologique-lintelligence-artificielle-et-la-prise-de-decision-strategique-au-togo)).
+- Togo's Ministry of Digital Economy and Digital Transformation has made a conversational AI assistant available to the public on the National Digital Observatory platform, letting users query digital statistics in natural language ([source, 2026-10-28](https://lanouvellerepublique.net/economie/numerique/developpement-numerique-au-togo-un-assistant-ia-permet-desormais-dacceder-rapidement-aux-donnees-officielles/)).
+- YOP L-FRII reports that the new Service Public Togo portal, live from 2 September 2026, lets users call Tɔnam / S'nam, an AI-based virtual assistant that guides them through administrative procedures ([source, 2026-09-02](https://yop.l-frii.com/service-public-togo-lance-sa-nouvelle-plateforme-avec-gouvpay-et-de-nouvelles-fonctionnalites/)).
 
 ### Uganda: 4 Operating
 
@@ -240,12 +248,6 @@ Sudan's higher education ministry has run an admissions chatbot since 2026; no s
 
 - Sudan's Ministry of Higher Education and Scientific Research launched, per a ministry communique reported by allAfrica, an automated chatbot assistant on its admission.gov.sd portal giving instant Arabic answers to applicants for the 2026-2027 intake, routing complex or personal-data queries to human agents ([source, 2026-09-25](https://fr.allafrica.com/stories/202609250240.html)).
 
-### Togo: 3 Established
-
-Togo's public procurement control directorate used an AI assistant in 2026; no source found shows AI in service in a second government body.
-
-- UNDP Togo says a digital assistant at the Direction nationale du contrôle de la commande publique helps staff search and analyse public procurement information, cutting a task from days to under a day ([source, 2026-11-03](https://www.undp.org/fr/togo/actualites/un-supercalculateur-pour-accelerer-linnovation-technologique-lintelligence-artificielle-et-la-prise-de-decision-strategique-au-togo)).
-
 ### Tunisia: 3 Established
 
 Tunisia's business registry put two AI chatbots into service in 2026; no second government body with AI in service is known.
@@ -290,6 +292,24 @@ Two Libyan government bodies were building AI systems in 2026; none is known to 
 - The Audit Bureau head said it launched development of an institutional AI model, Diwan Bot, at the start of 2026 to support auditing and oversight analysis; it is described as in development ([source, 2026](https://lana.gov.ly/post.php?id=358534&lang=en)).
 - Libya Observer reports that the Minister of Labour and Rehabilitation, meeting Al-Nasr Information Technology, was told the ministry's integrated digital platform, supported by AI technologies and linking its departments, was about 30% complete, with standards and the system framework finished ([source, 2026-04-14](https://ar.libyaobserver.ly/article/36835)).
 
+### Malawi: 2 Nascent
+
+Malawi's ministries put AI use cases to a challenge for graduate teams to build in 2026; no AI system in service has been found.
+
+- UniPod Malawi says government ministries submitted 18 AI use cases, five were shortlisted by a multi-stakeholder panel and published as challenges, and recent-graduate teams will work with ministry focal points and mentors to develop, test and present AI solutions ([source, 2026](https://unipod.ac.mw/blog/applications-now-open-for-the-ai-for-public-good-challenge)).
+
+### Somalia: 2 Nascent
+
+Somalia's standards bureau was building a system with an AI chatbot in 2026; no AI system in service has been found.
+
+- HoA DRIVE Somalia says the Somali Bureau of Standards is building an integrated management information system that includes a Somali-English AI chatbot guiding users through certification, with rollout preparation still the next phase ([source, 2026-09-27](https://hoadrive.info/stories/somalia-standards-services-move-online/)).
+
+### Comoros: 1 Absent
+
+A 2025 report says AI in the Comoros is limited to personal uses; no government body has been found using or testing AI.
+
+- Al-watwan reports that AI in the Comoros is limited so far to personal uses, with no national AI policy yet, according to an Anaden official ([source, 2025-02-12](https://alwatwan.net/societe/intelligence-artificielle-i-les-comores-ne-disposent-toujours-pas-d%E2%80%99une-politique-en-mati%C3%A8re-d%E2%80%99ia.html)).
+
 ### Botswana: Unplaced
 
 Nothing found since 2023 names AI in public administration, so no stage is set.
@@ -320,12 +340,6 @@ Nothing found names AI in public administration or says there is none, so no sta
 
 Not established: Nothing found says whether government bodies use AI.
 
-### Comoros: No evidence
-
-Nothing found names AI in public administration or says there is none, so no stage is set.
-
-Not established: Nothing found says whether government bodies use AI.
-
 ### Eritrea: No evidence
 
 Nothing found names AI in public administration or says there is none, so no stage is set.
@@ -333,12 +347,6 @@ Nothing found names AI in public administration or says there is none, so no sta
 Not established: Nothing found says whether government bodies use AI.
 
 ### Guinea-Bissau: No evidence
-
-Nothing found names AI in public administration or says there is none, so no stage is set.
-
-Not established: Nothing found says whether government bodies use AI.
-
-### Malawi: No evidence
 
 Nothing found names AI in public administration or says there is none, so no stage is set.
 
@@ -359,12 +367,6 @@ Not established: Nothing found says whether government bodies use AI.
 ### Sao Tome and Principe: No evidence
 
 A donor is building an AI justice platform, but no government body is shown testing AI, so no stage is set.
-
-Not established: Nothing found says whether government bodies use AI.
-
-### Somalia: No evidence
-
-Nothing found names AI in public administration or says there is none, so no stage is set.
 
 Not established: Nothing found says whether government bodies use AI.
 

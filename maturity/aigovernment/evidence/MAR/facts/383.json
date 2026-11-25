@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-11-mar-renseignement-financier-l-anrf-integre-l-ia-pour-ameliorer-son-capital",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Morocco's National Financial Intelligence Authority (ANRF) has launched a tender to develop and deploy a secure multilingual AI platform with AI assistants, including a legal assistant, for its staff, sized for at least 100 simultaneous users.",
+   "as_of": "2026-11-11",
+   "date_precision": "day",
+   "system": "ANRF AI assistant platform",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANRF AI assistant platform (tendered)",
+   "country_label": "Morocco",
+   "class": "govai",
+   "platform": "",
+   "owner": "ANRF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

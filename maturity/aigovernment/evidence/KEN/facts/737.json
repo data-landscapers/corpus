@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-25-ken-kenya-builds-foundation-for-ai-agents",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Enterprise Platform",
+   "country_label": "Kenya",
+   "class": "govai",
+   "platform": "API-linked government platform",
+   "owner": "Ministry of ICT and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": "Government is building a platform and prepares to deploy AI agents; no AI system tendered, piloted or in service is stated."
+}

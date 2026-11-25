@@ -1,17 +1,18 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "no evidence",
-   "use": "",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether government bodies use AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "2",
+      "use": "underway",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-001",
+      "gaps": "No source found shows an AI system in service in a government body, or rules or a register for the government's own use of AI.",
+      "note": "Fact 2026-11-25: ministries submitted 18 AI use cases to the AI for Public Good Challenge in 2026 and five were published for teams to build and test, so AI in administration is under way. None is reported in service, so not stage 3.",
+      "as_at": "2026-11-25"
+    }
+  ]
 }

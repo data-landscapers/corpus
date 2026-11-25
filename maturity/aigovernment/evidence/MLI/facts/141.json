@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-20-mli-celebration-de-la-35eme-journnee-africaine-de-la-statistique-2025-jas",
+ "facts": [],
+ "systems": [
+  {
+   "system": "INSTAT statistical chatbot",
+   "country_label": "Mali",
+   "class": "govai",
+   "platform": "",
+   "owner": "INSTAT Mali",
+   "tiers": ""
+  }
+ ],
+ "note": "Chatbot was presented as a tool that is to give access to statistics, aiming at 10,000 monthly users; no pilot or service is stated."
+}

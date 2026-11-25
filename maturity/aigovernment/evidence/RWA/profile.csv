@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,govai,use,coverage,inservice,2025-11,RWA-002;RWA-003,RWA-001=underway,
-RWA,govai,bodies,coverage,,,,,nothing found
+RWA,govai,use,coverage,inservice,2025-11,RWA-002,RWA-004=underway;RWA-001=underway,
+RWA,govai,bodies,coverage,several,2025-11-04,RWA-003,,
 RWA,govai,rules,coverage,,,,,nothing found

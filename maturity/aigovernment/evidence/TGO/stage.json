@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "bodies": "",
+      "bodies": "several",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-002",
-      "gaps": "No source found shows AI in service in a second government body; the Ministry of Security tool is being built. No rules or register for the government's own use of AI found.",
-      "note": "Fact 2026-11-05: UNDP says a digital assistant on the national AI server is in use at the public procurement control directorate, so one body has AI in service. The second tool is still being built, so not stage 4.",
-      "as_at": "2026-11-05"
+      "stage_sources": "TGO-002;TGO-004;TGO-005",
+      "gaps": "No rules or register for the government's own use of AI found. The Ministry of Security tool is being built.",
+      "note": "Fact 2026-11-25: the digital economy ministry put an AI assistant on the National Digital Observatory in October 2026, beside the procurement control directorate's assistant, so two bodies in different fields have AI in service. No rules or register have been found, so not stage 5.",
+      "as_at": "2026-11-25"
     }
   ]
 }

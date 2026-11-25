@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-lby-governance-of-artificial-intelligence-and-emerging-technologies",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The National Authority for Information Security and Safety launched its first AI assistant, Nissa AI, which answers queries on national cybersecurity strategies, policies and standards and is in its launch phase, available for public testing.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Nissa AI",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nissa AI",
+   "country_label": "Nissa AI",
+   "class": "govai",
+   "platform": "built on Google Gemma 3",
+   "owner": "National Authority for Information Security and Safety",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

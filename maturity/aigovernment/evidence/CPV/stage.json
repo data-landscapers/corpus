@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CPV-004",
-      "gaps": "No source found shows AI in service in a second government body, or rules or a register for the government's own use of AI. The minister did not say what the labour portal's AI features do.",
-      "note": "Fact 2026-11-05: the labour inspectorate's portal, launched complete on 3 November 2026, has AI features in service, the minister said, so one body has AI in service. No second body has been found, so not stage 4.",
-      "as_at": "2026-11-05"
+      "gaps": "No source found shows an AI system in service in a second government body, or rules or a register for the government's own use of AI. The minister did not say what the labour portal's AI features do; the elections commission said in 2024 that it uses AI for civic education and content, naming no system.",
+      "note": "Fact 2026-11-25: the elections commission said in October 2024 that it uses AI for civic education and content creation, but named no AI system in service, so it is not a second body and the cell stays at 3.",
+      "as_at": "2026-11-25"
     }
   ]
 }

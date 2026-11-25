@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-07-tun-pour-accompagner-les-entrepreneurs-dans-leurs-demarches-le-rne-lance-d",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Tunisia's National Business Register (RNE) launched officially two AI chatbots called Nawwarni on its website, one guiding people creating a company and one for reserving company and trade names, per RNE director general Adel Chouari.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "Nawwarni",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nawwarni",
+   "country_label": "Nawwarni",
+   "class": "govai",
+   "platform": "RNE website; mobile apps planned",
+   "owner": "Registre national des entreprises (RNE)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
