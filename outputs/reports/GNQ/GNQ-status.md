@@ -1,12 +1,12 @@
 ---
 title: Equatorial Guinea: status report
-compiled: 2026-11-23
+compiled: 2026-11-25
 place: GNQ
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 17
-sources_cited: 241
+sources_cited: 242
 sections_written: 39
 not_established: 1
 acquire_lines: 23
@@ -27,7 +27,7 @@ On 2 September 2026 [eight World Bank specialists opened a four-day working week
 ### Legislation and regulation
 <!-- gov.legislate -->
 
-In June 2025 [the ministry opened an international tender for a specialist firm to lead an integral reform of Ley 7/2005](https://ahoraeg.com/tecnologia/2025/06/04/telecomunicaciones-busca-un-gabinete-especializado-para-liderar-los-trabajos-de-reforma-integral-de-la-ley-de-telecomunicaciones/), the telecommunications law the sector still runs on. [The reform is to cover artificial intelligence, cybersecurity, data protection and satellite services](https://ahoraeg.com/tecnologia/2025/06/04/telecomunicaciones-busca-un-gabinete-especializado-para-liderar-los-trabajos-de-reforma-integral-de-la-ley-de-telecomunicaciones/). In 2024 the World Bank found [the legal framework for the digital economy outdated](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P1793391f4a4c800219f0014c68aefed3c8.pdf). [Some provisions still rest on colonial-era law from 1965, and laws on data sharing and e-commerce are absent or out of date](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P1793391f4a4c800219f0014c68aefed3c8.pdf).
+In June 2025 [the ministry opened an international tender for a specialist firm to lead an integral reform of Ley 7/2005](https://ahoraeg.com/tecnologia/2025/06/04/telecomunicaciones-busca-un-gabinete-especializado-para-liderar-los-trabajos-de-reforma-integral-de-la-ley-de-telecomunicaciones/), the telecommunications law the sector still runs on. [The reform is to cover artificial intelligence, cybersecurity, data protection and satellite services](https://ahoraeg.com/tecnologia/2025/06/04/telecomunicaciones-busca-un-gabinete-especializado-para-liderar-los-trabajos-de-reforma-integral-de-la-ley-de-telecomunicaciones/). [On 23 November 2026 the Interministerial Council approved draft instruments on electronic communications, digital services, and cybersecurity and information security, and a draft decree on shared use of electronic-communications infrastructure](https://ahoraeg.com/politica/2026/11/24/el-gobierno-aprueba-15-iniciativas-economicas-legislativas-y-de-modernizacion). In 2024 the World Bank found [the legal framework for the digital economy outdated](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P1793391f4a4c800219f0014c68aefed3c8.pdf). [Some provisions still rest on colonial-era law from 1965, and laws on data sharing and e-commerce are absent or out of date](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P1793391f4a4c800219f0014c68aefed3c8.pdf).
 
 [Ley Núm. 7/2024 of 23 December 2024](https://www.guineaecuatorialpress.com/noticias/ley_por_la_que_se_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia) regulates social-network use, computer crime and cybercrime. [It defines 42 terms and sets 40 numbered offences in Título III](https://www.guineaecuatorialpress.com/noticias/ley_por_la_que_se_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia). [Identity usurpation carries three to eight years' imprisonment and fines of 1,000,000 to 50,000,000 CFA francs](https://www.guineaecuatorialpress.com/noticias/ley_por_la_que_se_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia). [Other offences cover child sexual exploitation material, cyberbullying and ICT sexual harassment](https://www.guineaecuatorialpress.com/noticias/ley_por_la_que_se_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia). [Its article 21 creates the Agencia Nacional de Ciberseguridad e Infraestructuras Críticas under the Presidencia del Gobierno, with administrative sanctions of 50,000 to 20,000,000 CFA francs](https://www.guineaecuatorialpress.com/noticias/ley_por_la_que_se_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia). [Articles 56 to 64 provide data-preservation orders of up to 90 days, search and seizure of computer systems, extradition and mutual legal assistance](https://www.guineaecuatorialpress.com/noticias/ley_por_la_que_se_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia).
 
