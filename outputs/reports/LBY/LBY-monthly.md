@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: LBY
-ledger_rows: 29
+ledger_rows: 30
 not_held: 3
-record: 7e8c0773ba6d
+record: 3df529646e6a
 ---
 
 # News, Oct – Nov 2026
@@ -469,6 +469,20 @@ Libya's Deputy Prime Minister, Salem al-Zadma, launched phase two of the General
 **[وزارة العمل والتأهيل تستعد لتشغيل منصتها الشاملة وتوحيد بياناتها ](https://lana.gov.ly/post.php?id=369567&lang=ar)** — Libyan News Agency (LANA), 8 November 2026
 
 Libya's Ministry of Labour and Rehabilitation said on 8 November 2026 that its digital platform is ready for web use, with iOS and Android versions to follow. The minister ordered staff data registration to be completed so that the platform's unified database can go live. The implementer is Nasr Global IT.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Media content monitoring authority guide to AI use</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[توصيات بسن تشريعات رقمية ومواجهة التضليل - مؤتمر الاعلام بجامعة الزيتونة يضع خارطة طريق لمواكبة الذكاء الاصطناعي](https://lana.gov.ly/post.php?id=369901&lang=ar)** — وكالة الأنباء الليبية (وال), 12 November 2026
+
+Media content monitoring authority drafting AI-use guide after fabricated images found; code bans deepfakes.
 
 </div>
 
