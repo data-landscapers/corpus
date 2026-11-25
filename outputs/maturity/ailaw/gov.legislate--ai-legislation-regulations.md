@@ -24,9 +24,9 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 | 4 Operating | 0 |
 | 3 Established | 7 |
 | 2 Nascent | 13 |
-| 1 Absent | 20 |
+| 1 Absent | 21 |
 | Unplaced | 0 |
-| No evidence | 14 |
+| No evidence | 13 |
 
 ## Countries
 
@@ -170,6 +170,12 @@ In 2026 a review said Burundi has no dedicated AI law; no draft is named.
 
 - Levellers says Burundi has no dedicated AI law or regulator as of its 8 June 2026 review; the 10 March 2026 data protection law is its main AI-relevant hard law ([source, 2026-06-08](https://www.levellers.ai/what-is/ai-regulation-burundi)).
 
+### Cameroon: 1 Absent
+
+A June 2026 account says Cameroon has no AI law and no draft; no binding rule on AI has been found.
+
+- Levellers says that as of June 2026 Cameroon has no AI-specific statute, no bill creating an AI regulator and no enacted text for the AI framework law the national strategy proposes ([source, 2026-06-08](https://www.levellers.ai/what-is/ai-regulation-cameroon)).
+
 ### Chad: 1 Absent
 
 In April 2026 a minister said Chad's digital texts cannot regulate AI and set up a committee; no draft law is known.
@@ -178,8 +184,9 @@ In April 2026 a minister said Chad's digital texts cannot regulate AI and set up
 
 ### DR Congo: 1 Absent
 
-No hard law on AI and no draft were named in 2024; soft law prevailed. No source found says whether a draft exists since.
+A June 2026 account says the DR Congo has no AI law and no AI bill before Parliament; no draft has been found.
 
+- Levellers says that as of June 2026 the DRC has no dedicated AI law, no AI Act and no AI bill before Parliament ([source, 2026-06-08](https://www.levellers.ai/what-is/ai-regulation-democratic-republic-of-congo)).
 - A law-faculty dean writing on droitnumerique.cd says the DRC has not yet developed its hard law on AI and that soft law still largely prevails; the article names no draft law, and no date is given for the statement so the published date 2024-08-23 is used ([source, 2024-08-23](https://droitnumerique.cd/politiques-de-lintelligence-artificielle-et-de-prise-de-decision-automatisee-en-rd-congo/)).
 
 ### Djibouti: 1 Absent
@@ -290,12 +297,6 @@ Nothing found names a law or binding rule on AI, or a draft of one, or says ther
 Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Burkina Faso: No evidence
-
-Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### Cameroon: No evidence
 
 Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 

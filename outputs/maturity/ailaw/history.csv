@@ -27,3 +27,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-22,DZA,gov.legislate--ai-legislation-regulations,fact,1,2,DZA-003,A private members' AI bill registered at the National People's Assembly in October 2024 arrived; a draft is before parliament
 2026-10-22,ETH,gov.legislate--ai-legislation-regulations,fact,1,2,ETH-003,The Conversation reports in June 2026 that Ethiopia has tabled a draft AI law; a draft is before parliament
 2026-11-11,NER,gov.legislate--ai-legislation-regulations,fact,no evidence,2,NER-001,HAPDP mandated by AES peers to present a draft AI regulation (2025-07-28); a cp1252 facts file merged under housekeeping 60
+2026-11-25,CMR,gov.legislate--ai-legislation-regulations,fact,no evidence,1,CMR-001,Levellers said in June 2026 that Cameroon has no law on AI and no enacted text for the framework law its AI strategy proposes: no stage to 1
+2026-11-25,COD,gov.legislate--ai-legislation-regulations,fact,1,1,COD-002;COD-001,"Levellers said in June 2026 that the DRC has no AI law and no AI bill before Parliament, renewing the 2024 statement of absence; stage unchanged at 1"

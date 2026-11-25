@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-20-sdn-sudan-privacy-gap-digital-transformation-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "The article says Sudan has no legal framework governing AI chat systems and that the Data and AI Authority created in November 2025 had issued no binding rules by mid-2026.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

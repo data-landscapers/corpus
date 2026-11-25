@@ -2,10 +2,10 @@
 
 ## AI law or binding rule
 
-**Binding rule on AI in force.** A law-faculty dean writing on [droitnumerique.cd](<https://droitnumerique.cd/politiques-de-lintelligence-artificielle-et-de-prise-de-decision-automatisee-en-rd-congo/>) published an article on 23 August 2024 about AI policy and automated decision-making in the DR Congo. The dean says the DRC has not yet developed its hard law on AI and that soft law still largely prevails. The article names no draft law. In the dean's account, soft law and not hard law is what governs AI in the DR Congo.
+**Binding rule on AI in force.** [Levellers said in June 2026 that the DR Congo has no dedicated AI law](<https://www.levellers.ai/what-is/ai-regulation-democratic-republic-of-congo>). It said no AI bill was before Parliament. [In August 2024 a law-faculty dean wrote that the country had not yet developed hard law on AI](<https://droitnumerique.cd/politiques-de-lintelligence-artificielle-et-de-prise-de-decision-automatisee-en-rd-congo/>). The dean said soft law still largely prevails.
 
-**General AI law and the law applied.** No general AI law is described in [the same 23 August 2024 article](<https://droitnumerique.cd/politiques-de-lintelligence-artificielle-et-de-prise-de-decision-automatisee-en-rd-congo/>) on droitnumerique.cd. The dean places the country's rules on AI in soft law, which still largely prevails. The dean names neither a hard law on AI nor a draft of one. The article is the dean's account of how the DR Congo governs AI and automated decision-making. It describes soft law as the instrument in use.
+**General AI law and the law applied.** No general AI law has been found. [Levellers' account of June 2026 names no AI Act](<https://www.levellers.ai/what-is/ai-regulation-democratic-republic-of-congo>), and [the dean's article of 2024 names no draft](<https://droitnumerique.cd/politiques-de-lintelligence-artificielle-et-de-prise-de-decision-automatisee-en-rd-congo/>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found says whether a draft law exists; the one source is a 2024 opinion piece.
+***Not found***. No source found names a draft law on AI.

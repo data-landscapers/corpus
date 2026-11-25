@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-16-egy-egyin-ai-law-draft-80-percent-ministry-of-justice",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "House ICT committee chair Ahmed Badawi said a draft law regulating AI use is being prepared at the Ministry of Justice, over 80% of its articles done, to go to the Cabinet and then the committee.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Ministry of Justice draft AI law",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

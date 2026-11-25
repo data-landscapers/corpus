@@ -8,10 +8,10 @@
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COD-001",
+      "stage_sources": "COD-002;COD-001",
       "gaps": "",
-      "note": "Counted from the four questions by study-ladder-ailaw.py.",
-      "as_at": "2026-10-13"
+      "note": "Fact 2026-11-25: Levellers says that as of June 2026 the DRC has no AI law and no AI bill before Parliament, which renews the statement of absence. No draft has been found, so not stage 2.",
+      "as_at": "2026-11-25"
     }
   ]
 }
