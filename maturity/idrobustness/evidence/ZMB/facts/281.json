@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-22-zmb-tanzania-s-smart-id-puts-zambia-s-ageing-nrc-under-the-spotlight",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Zambia's Ministry of Home Affairs and Internal Security says government will roll out a single identification card and has already enrolled more than one million citizens on the Integrated National Registration Information System.",
+   "as_of": "2026-11-22",
+   "date_precision": "day",
+   "system": "Integrated National Registration Information System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated National Registration Information System",
+   "country_label": "Zambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Home Affairs and Internal Security",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
