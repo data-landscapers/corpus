@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: TZA
-ledger_rows: 61
+ledger_rows: 64
 not_held: 4
-record: cdde3606ef79
+record: e7bd8800c2a5
 ---
 
 # News, Oct – Nov 2026
@@ -238,6 +238,8 @@ The Citizen reported that Germany committed EUR 116 million to Tanzania at gover
 <a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#energy">Energy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -287,6 +289,20 @@ Paratus Tanzania set up a point of presence at the Wingu data centre in Dar es S
 **[Paratus expands its African reach with Tanzania PoP](https://www.connectingafrica.com/fiber-networking/paratus-expands-its-african-reach-with-tanzania-pop)** — Connecting Africa, 27 October 2026
 
 Paratus Tanzania launched a point of presence at the Wingu Data Centre in Dar es Salaam. It links customers to Paratus network routes north to Nairobi via Mombasa and south to Maputo, Johannesburg and Eswatini. The company will offer IP transit, Layer 2 circuits and wholesale capacity to carriers, internet service providers and enterprises.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Active mobile subscriptions and penetration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[TCRA Communications Sector Performance Report, Quarter ending September 2026](https://www.tcra.go.tz/tovuti/2026/mamlaka-website/documents/quarterly-statistics/Communications_Sector_performance_report_September_17112026_c2a82b1dd3.pdf)** — Tanzania Communications Regulatory Authority, 13 November 2026
+
+123.2m subscriptions, 64.7m internet, 93.9m mobile money; 7,907 fraud attempts, Yas largest share.
 
 </div>
 
@@ -369,6 +385,30 @@ Tanzania's ICT minister told a parliamentary committee on 17 November 2026 about
 **[The Electricity Sub-Sector Performance Review Report](https://www.ewura.go.tz/uploads/documents/en-1791188214-The%20Electricity%20Sub%20Sector%20Performance%20Review%20Report%20June%202026.pdf)** — Energy and Water Utilities Regulatory Authority (EWURA), 5 October 2026
 
 EWURA's review for FY2025/26 reports that TANESCO's average interruptions per customer fell from 17.69 to 12.09. Average outage duration fell from 1,692.73 to 1,044.77 minutes. Both are within target. At transmission level, the review gives 7.4 interruptions and 2.7 hours against targets of 10.0 and 6.5 hours.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Reported mobile fraud and online scam cases</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[TCRA Communications Sector Performance Report, Quarter ending September 2026](https://www.tcra.go.tz/tovuti/2026/mamlaka-website/documents/quarterly-statistics/Communications_Sector_performance_report_September_17112026_c2a82b1dd3.pdf)** — Tanzania Communications Regulatory Authority, 13 November 2026
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[How loopholes in SIM registration are fuelling phone scams](https://www.thecitizen.co.tz/tanzania/news/national/how-loopholes-in-sim-registration-are-fuelling-phone-scams-5681696)** — The Citizen, 23 November 2026
+
+Minister orders SIMs not linked to NIDA cut; TCRA logs 7,907 fraud attempts in Q3 2026, up 7.81%.
 
 </div>
 
@@ -553,6 +593,20 @@ Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 
 **[Tanzania ponders reviewing Sh5 million mobile money transaction limit](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-ponders-reviewing-sh5-million-mobile-money-transaction-limit-5650372)** — The Citizen (Tanzania), 30 October 2026
 
 Tanzania's deputy finance minister told Parliament on 29 October 2026 that the Bank of Tanzania is assessing whether to raise mobile money transaction limits. An MP had said the daily limit of Sh5 million is too low. The minister said the central bank sets limits by customer category and risk, and warned against raising them without safeguards.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Active mobile money subscriptions</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[TCRA Communications Sector Performance Report, Quarter ending September 2026](https://www.tcra.go.tz/tovuti/2026/mamlaka-website/documents/quarterly-statistics/Communications_Sector_performance_report_September_17112026_c2a82b1dd3.pdf)** — Tanzania Communications Regulatory Authority, 13 November 2026
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
