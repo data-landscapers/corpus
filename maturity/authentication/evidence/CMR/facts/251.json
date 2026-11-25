@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-cmr-what-is-ai-regulation-in-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Levellers says ANTIC, the national ICT agency, runs the national public key infrastructure as Root Certification Authority.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "national public key infrastructure (ANTIC Root Certification Authority)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
