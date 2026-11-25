@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NER-002",
-      "gaps": "No source found since October 2023 says AI is in service in the public systems of two or more sectors.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
+      "note": "Rebuild 2026-11-25, read afresh: the national digital agency's Rayuwa platform gives crop-disease diagnoses and forecasts, with meteorology, water and plant-protection staff managing it (NER-002). That is one tool in agriculture, so 3.",
+      "as_at": "2026-11-25"
     }
   ]
 }

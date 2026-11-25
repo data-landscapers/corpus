@@ -9,10 +9,10 @@
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-001",
-      "gaps": "No source found since October 2023 says AI is in service in the public systems of two or more sectors.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "NGA-001;NGA-003",
+      "gaps": "No single source found says AI is in service in the public systems of two or more sectors. The 2022 customs fraud model is older than October 2023.",
+      "note": "Rebuild 2026-11-25, read afresh: customs' AI-enabled scanners are in service (NGA-001), and a report says AI maps urban poverty for social welfare (NGA-003), from separate sources. Health and farm tools are under way, so 3.",
+      "as_at": "2026-11-25"
     }
   ]
 }

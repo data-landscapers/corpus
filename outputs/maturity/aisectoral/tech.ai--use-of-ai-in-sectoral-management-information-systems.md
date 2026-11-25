@@ -22,8 +22,8 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 |---|---|
 | 5 Mature | 3 |
 | 4 Operating | 0 |
-| 3 Established | 38 |
-| 2 Nascent | 6 |
+| 3 Established | 37 |
+| 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 7 |
@@ -70,7 +70,7 @@ Angola's tax authority used AI to flag suspect filers in its 2026 audits; no sin
 
 - Expansão reports AGT's chair saying the tax authority's machine-learning tools, tested since 2024, cross-checked 2025 corporate income tax filings and flagged irregular filers, who were then sent messages to correct them ([source, 2026-07](https://expansao.co.ao/empresas/detalhe/inteligencia-artificial-da-agt-apanha-15-mil-empresas-suspeitas-de-fuga-ao-fisco-73137.html)).
 - AGT chair Jose Leiria said on 13 April 2026 that the audit of the 2024 tax year used AI mechanisms that automatically flagged deviations and suspect cases, which then triggered prior-hearing notifications ([source, 2026-04-13](https://pti.ao/agt-reforca-combate-a-fraude-com-ia-e-mapeamento-de-processos/)).
-- AGT's chairman José Leiria says AI is already used in the fiscal side, as it hopes to introduce in customs ([source, 2024-12](https://pti.ao/agt-anuncia-migracao-para-novo-sistema-de-processamento-aduaneiro/)).
+- AGT project coordinator Cynthia Ratle says the ASY5 customs system launched at Luanda port introduces AI-based risk management that analyses cargo from manifest submission, and AGT chair José Leiria says it uses AI and machine learning to check origin, value and consistency ([source, 2026-06-29](https://angop.ao/noticias/economia/agt-expande-sistema-automatizado-ao-porto-de-luanda/)).
 
 ### Benin: 3 Established
 
@@ -94,8 +94,9 @@ Burkina Faso's TB programme has read X-rays with AI in field campaigns since 202
 
 An AI tool was in service in a public sector's system in 2026; AI in several sectors is not on record.
 
-- Cameroon's secondary-education ministry (MINESEC) presented on 17 August 2026 the official integration of AI-generated simulations in secondary schools, with teacher demonstrations and more than 250 simulations produced, per MINESEC ([source, 2026-08-17](https://www.digitalbusiness.africa/e-education-cameroun-le-minesec-valide-la-simulation-ia-avantages-et-limites/)).
 - The CNPS director general said the pension fund runs a symbolic-AI system for automatic processing of old-age pension files, presented 17 February 2026 ([source, 2026-02-17](https://www.digitalbusiness.africa/cameroun-avancees-piliers-et-dangers-de-l-ia-presentes-a-un-atelier-du-minpostel-dedie-aux-administrations-publics/)).
+- CNPS Director General Mekulu Mvondo said AI tools in the national social insurance fund detect fraud by finding inconsistencies in declarations and contributions and calculate rights in real time ([source, 2026-02-17](https://theguardianpostcameroon.com/post/6734/en/homeat-govt-artificial-intelligence-workshop-cnps-director-general-showcases-ai-use-in-social-security-services)).
+- ONACC says its public climate-risk platform, launched 2026-01-14, uses a neural-network model to predict the evolution of climate parameters and anticipate hazards, and that simulations covering all of 2025 were run for Douala and Maroua ([source, 2026-01-14](https://africa24tv.com/cameroun-catastrophes-climatiques-une-plateforme-de-lonac-pour-anticiper-les-crises/)).
 
 ### Cape Verde: 3 Established
 
@@ -122,14 +123,15 @@ DR Congo's education ministry has marked state exam papers with AI since 2025; n
 
 - MINEDU-NC reports the education ministry's locally developed automated, AI-based correction of State Examination papers was demonstrated at CASP 2025 in Kinshasa on 17 December 2025, with inspectors keeping the decision role ([source, 2025-12-17](https://edu-nc.gouv.cd/actualites/1ere-edition-des-casp-raissa-malu-presente-lia-comme-un-outil-defficacite-au-service-de-leducation-nationale)).
 - Education minister Raissa Malu told the Council of Ministers on 15 August 2025 that an AI system automated exam-paper marking in 2025, with results published three days after the exams ([source, 2025-08-15](https://www.theeastafrican.co.ke/tea/sustainability/innovation/ai-cuts-exam-marking-time-in-congo-5161318)).
+- The Ministry of National Education press release says AI is integrated into State Exam grading at the National Grading Center in Kinshasa (inaugurated 10 April 2025) and at the Lubumbashi branch, which is operational and equipped to process more than 100,000 answer sheets, with Mbuji-Mayi as a second pilot centre ([source, 2025-07-24](https://edu-nc.gouv.cd/press-releases/decentralization-of-state-examination-correction-centers-a-first-in-the-democratic-republic-of-congo)).
 
 ### Djibouti: 3 Established
 
 Djibouti's corridor road company detects road defects with AI, and AI weather warnings run since 2025; no single source says AI serves several sectors.
 
+- The article says the Chinese Meteorological Administration supplied Djibouti an AI early-warning system, put in service in December 2025, and handed over MAZU-Djibouti 2.0 on 17 July 2026 to the authorities, with forecasts at 3 km resolution and a three-day horizon, updated every six hours ([source, 2025-12](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia)).
 - The Djibouti Ports and Free Zones Authority says DPCR Vision AI, launched in 2024, uses cameras and AI to detect potholes and cracks along regional transport corridors and locate them ([source, 2026-09-02](https://www.dawan.africa/news/djibouti-unveils-ai-tools-to-modernize-ports-and-logistics)).
 - DPCR says its CorridorVision AI, which detects road defects in vehicle video, is in deployment and calibration and has covered over 844 km on its 642 km corridor network ([source, 2026-01-15](https://dpcr.dj/2026/01/15/corridorvision-ai-ai-powered-road-condition-monitoring-for-djiboutis-trade-corridors/)).
-- The article says the Chinese Meteorological Administration supplied Djibouti an AI early-warning system, put in service in December 2025, and handed over MAZU-Djibouti 2.0 on 17 July 2026 to the authorities, with forecasts at 3 km resolution and a three-day horizon, updated every six hours ([source, 2025-12](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia)).
 
 ### Egypt: 3 Established
 
@@ -170,6 +172,7 @@ Ghana has used AI in customs valuation since March 2026 and in maternal health; 
 Lesotho's Ministry of Health has screened for TB with AI chest X-ray reading at community sites since 2022; no single source names several sectors.
 
 - Qure.ai's account says its qXR chest X-ray AI has screened for TB at seven community sites in Lesotho with Partners In Health and the Ministry of Health since July 2022 ([source, 2024-03-04](https://www.qure.ai/us/impact-stories/transforming-healthcare-in-lesotho-with-ai-a-case-study-on-combating-tuberculosis)).
+- WHO AFRO says the Government of Lesotho has implemented innovations including using artificial intelligence to aid TB screening ([source, 2024-03](https://afro.who.int/countries/lesotho/news/active-tb-case-finding-lesotho-health-facilities-stepping-challenge)).
 
 ### Liberia: 3 Established
 
@@ -182,6 +185,8 @@ AI chest X-ray reading served TB screening in hospitals in 2024-25; no source fo
 
 An AI tool was in service in a public sector's system in 2025; AI in several sectors is not on record.
 
+- Madagascar's customs director general told an IMF panel on 27 March 2025 that the AI-based Enhanced Risk Assessment tool, with a data warehouse operational since late 2024, analyses millions of Sydonia records, with automated controls cutting clearance times and predictive analysis strengthening the fight against fraud ([source, 2025-03-27](https://www.douanes.gov.mg/la-douane-malagasy-un-modele-regional-dans-lusage-de-la-donnee-et-de-lia/)).
+- Madagascar's customs directorate says it launched on 7 October 2025 the generative-AI agent SVO, which automatically analyses invoices and detects manipulations, inconsistencies and false invoices to strengthen the fight against fraud ([source, 2025-10-07](https://www.douanes.gov.mg/lagent-svo-deploye-la-douane-franchit-une-nouvelle-etape/)).
 - Midi Madagasikara says Malagasy customs presented results obtained through its Enhanced Risk Assessment (ERA) smart targeting system at an IMF panel ([source, 2025](https://midi-madagasikara.mg/douanes-madagascar-un-modele-dans-lutilisation-de-lintelligence-artificielle/)).
 
 ### Malawi: 3 Established
@@ -223,6 +228,7 @@ An AI tool was in service in a public sector's system in 2025; AI in several sec
 An AI tool was in service in a public sector's system in 2026; AI in several sectors is not on record.
 
 - Nigeria Customs Service Comptroller-General Adewale Adeniyi says it has deployed AI-enabled scanners that guide image analysts to predict the nature of imported items ([source, 2026-04-13](https://punchng.com/customs-deploy-ai-to-curb-revenue-leakages-deepen-transparency/)).
+- The report relayed by Nairametrics says AI is being applied in Nigerian social welfare programmes to map urban poverty ([source, 2025-11-05](https://nairametrics.com/2025/11/05/funding-gap-threatens-nigerias-ai-growth-despite-strong-implementation-report/)).
 
 ### Rwanda: 3 Established
 
@@ -236,6 +242,7 @@ The public health system uses AI to read chest X-rays for TB in 2026; no source 
 An AI tool was in service in a public sector's system in 2025; AI in several sectors is not on record.
 
 - The DGID says its Datamining project uses data analysis and AI for tax anomaly and fraud detection, with a data-science cell and the ASREF app tracking intelligence use ([source, 2025-01-30](https://www.impact.sn/SENEGAL-La-DGID-se-convertit-au-numerique-pour-des-pratiques-fiscales-plus-efficaces_a51008.html)).
+- AI4PEP Senegal says its AI-powered intersectoral platform for community-based zoonotic disease surveillance has gone live, with three functions Taggàt, Jottali and Gëstu ([source, 2025-02-25](https://ai4pep.org/ai4pep-senegal-launches-plateforme-3s-one-health/)).
 
 ### Seychelles: 3 Established
 
@@ -254,6 +261,7 @@ Sierra Leone's machine-learning medicine allocation tool is in service nationwid
 An AI tool was in service in a public sector's system in 2026; AI in several sectors is not on record.
 
 - Shaqodoon says its AI early warning system SAADAAL, which detects early signals of droughts and floods from environmental and climate data, is deployed with Southwest State's Ministry of Humanitarian Affairs and Disaster Management in real disaster preparedness workflows rather than left as a pilot ([source, 2026-04-29](https://shaqodoon.org/news/bbc-news-features-saadaal-shaqodoons-ai-powered-early-warning-system-protecting-somali-farmers-from-climate-disasters)).
+- Diginomica reports that the Shaqodoon Organization's AI-enhanced Saadaal early-warning system, rolled out in April 2024, runs weather and historical data through an AI agent to produce reports for the Ministry of Humanitarian Affairs and Disaster Management in a south-western state, which sends toll-free voice alerts to communities and farmers ([source, 2024-04](https://diginomica.com/using-ai-support-people-and-services-during-natural-disasters)).
 
 ### South Africa: 3 Established
 
@@ -261,6 +269,7 @@ South Africa's revenue service used AI against fraudulent tax refunds in 2025; n
 
 - SARS says machine learning and AI models manage the risk of impermissible or fraudulent refunds on returns submitted online ([source, 2025-07-20](https://www.sanews.gov.za/south-africa/over-5-million-taxpayers-auto-assessed-2025-filing-season-gets-underway)).
 - SARS says its artificial intelligence fraud-risk detection and verification work in tax refunds is operating, with the report crediting it with preventing the outflow of over R417 billion in impermissible refunds since 2020 ([source, 2025-03](https://www.sars.gov.za/wp-content/uploads/Docs/StratAnnualPerfplans/Strategic-Plan-End-Term-Report-2020-2025.pdf)).
+- Sars says machine-learning models in its compliance operations rank cases by collection probability and flag taxpayers to register or under-declaring income, passing risk signals to case selection ([source, 2026-06-18](https://techcentral.co.za/ai-is-now-hunting-tax-cheats-in-south-africa/282852/)).
 
 ### South Sudan: 3 Established
 
@@ -270,8 +279,10 @@ AI tools for TB X-rays and clinical decisions were in health facilities by 2026;
 
 ### Tanzania: 3 Established
 
-Tanzania's health insurance fund cut claims settlement time with AI in 2024/25, and AI reads TB X-rays; no source shows AI in another sector.
+Tanzania's health ministry, insurance fund and revenue authority used AI in 2025; no single source says AI serves two or more sectors.
 
+- Tanzania's Ministry of Health has introduced an AI-based triage tool in its DHIS2 event-based surveillance system, which per DHIS2 cut average time to triage for most alerts from 36 hours to almost instantaneous ([source, 2025-03](https://dhis2.org/ai-driven-alert-triage-tanzania/)).
+- The Tanzania Revenue Authority says an AI system, adopted in November 2023 on its electronic tax stamp platform, notifies it when a stamp code is scanned in different locations, flagging duplicated codes ([source, 2025-05-28](https://dailynews.co.tz/ai-transforms-tras-measures-to-curb-falsified-electronic-stamps/)).
 - A Muhimbili University researcher says Tanzania already uses AI through the Ministry of Health to support TB diagnosis from chest X-ray images ([source, 2026-08-31](https://www.mwananchi.co.tz/mw/habari/makala/afya/watafiti-waja-na-ai-kubaini-tb-kwa-wenye-vvu-5576206)).
 - The National Health Insurance Fund says it cut average claims settlement time from 120 to 50 days in 2024/25 after adopting digital systems and AI in claims processing ([source, 2025](https://www.thecitizen.co.tz/tanzania/news/national/digital-transformation-cuts-nhif-claims-payment-period-to-50-days-5661158)).
 
@@ -281,12 +292,7 @@ Togo's economy ministry put an AI fraud and smuggling detection platform into se
 
 - Sika Finance reports the economy minister officially launched the AI-based Digital Market Intelligence platform, which cross-checks tax-marking and inspection data to give inspectors predictive indications of risk zones ([source, 2026-03-12](https://www.sikafinance.com/marches/togo-letat-deploie-lintelligence-artificielle-pour-traquer-les-fraudes-et-renforcer-ses-recettes_60463)).
 - Togo-Presse reports the minister of Economy put the Digital Market Intelligence platform, built by SICPA, into service on 12 March 2026, using AI and data analysis to detect suspicious transactions and fraud and smuggling, run from a command centre staffed by tax, customs and commerce services ([source, 2026-03-12](https://togopresse.tg/le-gouvernement-lance-la-solution-digital-market-intelligence-au-profit-de-la-mobilisation-des-ressources-publiques/)).
-
-### Tunisia: 3 Established
-
-An AI tool was in service in a public sector's system in 2026; AI in several sectors is not on record.
-
-- The Direction Generale des Douanes officially integrated a machine-learning module into the national customs selectivity system to target high-risk customs declarations, per its 16 May 2026 communique ([source, 2026-05-16](https://www.lapresse.tn/2026/05/16/la-douane-integre-lia-au-sein-de-son-systeme/)).
+- ATOP reports the Economy Minister launched the Digital Market Intelligence platform, built by SICPA SA, which uses AI and data analytics to detect fraud and contraband for inspectors of the OTR, the Commerce ministry and the SAM Commission ([source, 2026-03-12](https://atop.tg/controle-des-produits-alimentaires-la-plateforme-digital-market-intelligence-lancee/)).
 
 ### Uganda: 3 Established
 
@@ -294,12 +300,14 @@ Uganda's revenue authority has used AI against tax evasion since 2024, and AI re
 
 - Uganda Revenue Authority Commissioner General John Rujoki Musinguzi said URA used AI to identify tax evasion such as undeclared imports and false VAT claims ([source, 2024](https://ura.go.ug/en/ura-cg-launches-university-ai-and-robotics-laboratory/)).
 - The Uganda Catholic Medical Bureau authors state that Uganda uses AI-assisted chest X-ray screening (CAD4TB) in TB screening, applying a national threshold of 50 to identify presumptive TB cases ([source, 2025-11-24](https://doi.org/10.37432/jieph-confpro6-00043)).
+- The Observer reports that Ugandan judicial officers now use AI-enabled platforms for legal research and case analysis, including a ULII feature that summarises judgments ([source, 2026-03](https://observer.ug/news/judiciary-goes-paperless-rolls-out-ai-systems/)).
 
 ### Zambia: 3 Established
 
 Zambia's revenue authority uses AI to detect trade fraud and set up an AI unit in 2024; no source shows AI in another sector.
 
 - ZRA Commissioner General Dingani Banda says AI helps ZRA detect importer and exporter fraud automatically, and an AI Unit is set up at ZRA headquarters ([source, 2024-06](https://www.mots.gov.zm/?p=3787)).
+- Minister Felix Mutati says AI raised ZRA's capacity to collect revenue by 60 percent in the past two years (a claim without source in the article) ([source, 2024-06-18](https://www.mots.gov.zm/?p=3787)).
 
 ### Zimbabwe: 3 Established
 
@@ -312,12 +320,14 @@ Police used AI traffic cameras in 2026 and the health ministry AI TB screening; 
 
 An AI tool for a public sector's system was under way in 2025; none in service is on record.
 
+- Enabel says the national malaria programme PNILP trained health workers in Cibitoke and Kirundo on 16 July 2025 on the AI app Malariya Pi, which reads rapid malaria tests, and calls the approach a pilot ([source, 2025-07-16](https://open.enabel.be/en/BDI/2671/3216/u/l-intelligence-artificielle-au-service-du-diagnostic-du-paludisme-au-burundi.html)).
 - The AI4Mpox Burundi team is piloting an AI-powered early-warning dashboard in three health districts of Bujumbura ([source, 2025](https://www.ai4d.ai/fr/innovations/ai-powered-surveillance-and-response-network)).
 
 ### Comoros: 2 Nascent
 
 An AI tool for a public sector's system was under way in 2026; none in service is on record.
 
+- WHO says the Comoros adopted the AI-assisted EIOS open-source surveillance initiative and trained health surveillance staff on it with the Ministry of Health in Moroni on 22-25 April 2025 ([source, 2025-04-25](https://www.afro.who.int/fr/countries/comoros/news/comores-loms-forme-sur-linitiative-dintelligence-epidemique-partir-de-sources-ouvertes-eios)).
 - The DHIS2 Community poster by four named authors says machine-learning and deep-learning models are being developed and compared on routine Comoros DHIS2 malaria data to forecast future incidence, accepted for the 2026 DHIS2 Annual Conference ([source, 2026-05-11](https://community.dhis2.org/t/ai-driven-predictive-epidemiology-for-malaria-monitoring-in-the-comoros-using-dhis2-data/72310)).
 
 ### Equatorial Guinea: 2 Nascent
@@ -325,6 +335,7 @@ An AI tool for a public sector's system was under way in 2026; none in service i
 An AI tool for a public sector's system was under way in 2025; none in service is on record.
 
 - The health ministry officially launched on 6 June 2025 'Guinea Salud', an AI chatbot answering the public on vaccines, medical evacuation, clinic licensing and HIV, in a pilot phase ([source, 2025-06-06](https://realequatorialguinea.com/salud/sanidad-lanza-el-asistente-digital-guinea-salud-primer-chatbot-sanitario-con-ia-de-guinea-ecuatorial/)).
+- Africanian reports that the transport and AI ministry has funded a pilot in which UNGE and INSTTIC students build and operate the country's first AI-integrated meteorological station, training starting 21 July 2025 for five months, with a nationwide network the stated goal ([source, 2025-07-21](https://africanian.com/livenews/equatorial-guinea-launches-climate-innovation-project-students-to-build-first-ai-powered-weather-station/)).
 
 ### Libya: 2 Nascent
 
@@ -336,6 +347,7 @@ An AI system for education was being developed in 2024; none in service is on re
 
 An AI tool for a public sector's system was under way in 2024; none in service is on record.
 
+- DHIS2 says Saudigitus installed the Chap Modelling Platform in Mozambique's production DHIS2 and, in testing with the malaria programme, its alerts flagged three possible outbreaks in two provinces four weeks ahead, but the system is not yet operational ([source, 2026-08-03](https://dhis2.org/pt-pt/climate/country-profiles/mozambique/)).
 - HISP UiO says that in early 2024 Mozambique had two climate-based malaria forecasting efforts, a Ministry of Health and CHAI early-warning dashboard pilot in DHIS2 and the national public health institute's models run manually, neither yet in routine use ([source, 2024](https://dhis2.org/pt-pt/chap-lessons-learned/)).
 
 ### Sao Tome and Principe: 2 Nascent
@@ -343,6 +355,14 @@ An AI tool for a public sector's system was under way in 2024; none in service i
 An AI health screening tool for border points of entry was being piloted in 2026; whether it is in service is not known.
 
 - An ECSA Health Community post says Sao Tome and Principe is being supported to pilot, deploy and adopt an AI-powered digital health screening tool at Points of Entry ([source, 2026-06-03](https://www.linkedin.com/posts/ayebare-timothy-836506230_digitalhealth-s%C3%A3otom%C3%A9epr%C3%ADncipe-publichealth-activity-7468039223397326848-ZxbG)).
+
+### Tunisia: 2 Nascent
+
+Customs said in October 2026 that AI risk targeting would enter use at the end of November; nothing found shows an AI tool in service.
+
+- Tunisian Customs said on 9 October 2026 that AI integrated into its risk-management and selectivity system should enter operation at the end of November 2026 to target high-risk declarations, per Colonel-Major Kais Ben Zayed ([source, 2026-10-09](https://fr.allafrica.com/stories/202610090629.html)).
+- A Tunisian customs official said on 9 October 2026 that AI in the customs risk-management and selectivity system will enter use at the end of November, and the finance ministry and customs recently disclosed trials and projects using AI to target declarations ([source, 2026-10-09](https://www.radionationale.tn/article/6ac89e5024f658fa460a9f66/%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF-%D9%82%D9%8A%D8%B3-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D8%A5%D8%AF%D8%B1%D8%A7%D8%AC-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D8%B5%D8%B1%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%B3%D9%8A%D9%81%D8%B9%D9%84-%D9%85%D9%88%D9%81%D9%89-%D8%B4%D9%87%D8%B1-%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1)).
+- Tunisian Customs spokesman Chokri Jabri said on 12 October 2026 that customs is about to integrate AI to adapt risk-targeting criteria automatically and that first trials improved targeting quality by 20 to 25 percent, with AI also to analyse container-scanner images ([source, 2026-10-12](https://businessnews.com.tn/2026/10/12/douane-lintelligence-artificielle-bientot-utilisee-pour-detecter-les-fraudes-et-controler-les-marchandises/1422415/)).
 
 ### Chad: No evidence
 

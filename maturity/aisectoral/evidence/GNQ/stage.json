@@ -9,10 +9,10 @@
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GNQ-001",
-      "gaps": "No source found since October 2023 says: is one in service.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "GNQ-001;GNQ-002",
+      "gaps": "No source found says an AI tool is in service in a public sector's system; the health chatbot and the weather station are pilots.",
+      "note": "Rebuild 2026-11-25, read afresh: the health ministry's Guinea Salud chatbot (GNQ-001) and the AI weather station (GNQ-002) are both in a pilot phase. Nothing says either is in service, so 2.",
+      "as_at": "2026-11-25"
     }
   ]
 }

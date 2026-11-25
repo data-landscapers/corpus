@@ -1,17 +1,18 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "sectorai",
-   "stage": "2",
-   "use": "underway",
-   "sectors": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COM-001",
-   "gaps": "No source found since October 2023 says: is one in service.",
-   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "sectorai",
+      "stage": "2",
+      "use": "underway",
+      "sectors": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-002;COM-001",
+      "gaps": "No source found says an AI tool is in service and producing outputs; the EIOS adoption is described as training.",
+      "note": "Rebuild 2026-11-25, read afresh: WHO says the health ministry adopted the AI-assisted EIOS surveillance tool and trained staff on it in April 2025 (COM-002), and malaria forecasting models are being built on DHIS2 data (COM-001). Neither says the tool is producing outputs, so 2.",
+      "as_at": "2026-11-25"
+    }
+  ]
 }

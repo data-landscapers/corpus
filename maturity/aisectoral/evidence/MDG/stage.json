@@ -9,10 +9,10 @@
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MDG-001",
-      "gaps": "No source found since October 2023 says AI is in service in the public systems of two or more sectors.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MDG-008;MDG-005;MDG-001",
+      "gaps": "No single source found says AI is in service in the public systems of two or more sectors. No measured result of the customs tools has been found.",
+      "note": "Rebuild 2026-11-25, read afresh: customs runs the AI-based Enhanced Risk Assessment tool (MDG-008, MDG-001) and the SVO invoice-checking agent (MDG-005). Customs is the only sector, and the judiciary's AI tools are under evaluation, so 3.",
+      "as_at": "2026-11-25"
     }
   ]
 }

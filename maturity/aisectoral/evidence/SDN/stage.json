@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "sectorai",
-   "stage": "no evidence",
-   "use": "",
-   "sectors": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether a public sector's system uses AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "sectorai",
+      "stage": "no evidence",
+      "use": "",
+      "sectors": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found says whether a public sector's system uses AI.",
+      "note": "Rebuild 2026-11-25, read afresh: no evidence row is held for this country on the sub-indicator, so no stage is set.",
+      "as_at": "2026-11-25"
+    }
+  ]
 }

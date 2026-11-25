@@ -1,17 +1,18 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "sectorai",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-003",
-   "gaps": "No source found since October 2023 says AI is in service in the public systems of two or more sectors.",
-   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "sectorai",
+      "stage": "2",
+      "use": "underway",
+      "sectors": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-004;TUN-009;TUN-001",
+      "gaps": "No source found says an AI tool is in service: customs' May 2026 communique announced the machine-learning module's integration, and customs said in October 2026 that it would enter operation at the end of November 2026.",
+      "note": "Rebuild 2026-11-25, read afresh: the May 2026 communique (TUN-003) reports the module's official integration, but customs said on 9 and 12 October 2026 (TUN-004, TUN-009, TUN-001) that AI targeting would enter operation at the end of November. The newest facts put the tool before service, so 2.",
+      "as_at": "2026-11-25"
+    }
+  ]
 }

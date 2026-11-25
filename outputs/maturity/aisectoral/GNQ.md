@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is one in service.
+***Not found***. No source found says an AI tool is in service in a public sector's system.

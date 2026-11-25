@@ -6,13 +6,13 @@
       "stage": "3",
       "use": "inservice",
       "sectors": "",
-      "results": "",
+      "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZMB-003",
-      "gaps": "No source found since October 2023 says AI is in service in the public systems of two or more sectors.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "ZMB-003;ZMB-004",
+      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
+      "note": "Rebuild 2026-11-25, read afresh: the revenue authority's AI detects importer and exporter fraud (ZMB-003), and the minister credits it with a 60% gain in collection capacity (ZMB-004). Health, education and water tools are pilots, so 3.",
+      "as_at": "2026-11-25"
     }
   ]
 }

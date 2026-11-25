@@ -9,10 +9,10 @@
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-002",
-      "gaps": "No source found since October 2023 says AI is in service in the public systems of two or more sectors.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "SEN-002;SEN-006",
+      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
+      "note": "Rebuild 2026-11-25, read afresh: the tax directorate's data-mining uses AI for fraud detection (SEN-002), and a zoonotic surveillance platform has gone live (SEN-006), from separate sources. Health, education and justice tools are under way, so 3.",
+      "as_at": "2026-11-25"
     }
   ]
 }

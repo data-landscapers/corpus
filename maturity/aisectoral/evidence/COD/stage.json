@@ -6,13 +6,13 @@
       "stage": "3",
       "use": "inservice",
       "sectors": "",
-      "results": "",
+      "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "COD-005;COD-003",
-      "gaps": "No source found since October 2023 says AI is in service in the public systems of two or more sectors.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "COD-005;COD-003;COD-007",
+      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
+      "note": "Rebuild 2026-11-25, read afresh: AI marks the State Exam in service (COD-003, COD-005, COD-007), with measured speed-ups (COD-004), and TB radiology AI is in health (COD-011), but from separate sources. Rung 4 is not met, so the results cannot lift the cell past 3.",
+      "as_at": "2026-11-25"
     }
   ]
 }

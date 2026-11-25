@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "sectorai",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "results": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-001",
-   "gaps": "No source found since October 2023 says AI is in service in the public systems of two or more sectors.",
-   "note": "First pass: counted from the four questions by study-ladder-aisectoral.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "sectorai",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "results": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001;SOM-002",
+      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
+      "note": "Rebuild 2026-11-25, read afresh: the SAADAAL AI early-warning system is in use in Southwest State's disaster-management ministry (SOM-001, SOM-002). It is one tool in one sector, so 3.",
+      "as_at": "2026-11-25"
+    }
+  ]
 }

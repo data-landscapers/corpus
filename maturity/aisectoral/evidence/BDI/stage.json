@@ -9,10 +9,10 @@
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BDI-001",
-      "gaps": "No source found since October 2023 says: is one in service.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "BDI-002;BDI-001",
+      "gaps": "No source found says an AI tool is in service in a public sector's system; the malaria test reader and the mpox dashboard are pilots.",
+      "note": "Rebuild 2026-11-25, read afresh: the national malaria programme's AI test reader (BDI-002) and the mpox early-warning dashboard (BDI-001) are both called pilots. Nothing says either is in service, so 2.",
+      "as_at": "2026-11-25"
     }
   ]
 }

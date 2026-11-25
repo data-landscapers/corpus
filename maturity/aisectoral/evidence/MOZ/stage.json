@@ -9,10 +9,10 @@
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-001",
-      "gaps": "No source found since October 2023 says: is one in service.",
-      "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MOZ-002;MOZ-001",
+      "gaps": "No source found says an AI tool is in service; the malaria forecasting platform is in testing.",
+      "note": "Rebuild 2026-11-25, read afresh: the malaria programme's forecasting platform in DHIS2 flagged outbreaks in testing but is not yet operational (MOZ-002, MOZ-001). So 2.",
+      "as_at": "2026-11-25"
     }
   ]
 }
