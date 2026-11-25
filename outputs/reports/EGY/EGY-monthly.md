@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: EGY
 ledger_rows: 82
 not_held: 34
-record: f17af3cf8373
+record: 1be23663679a
 ---
 
 # News, Oct – Nov 2026
@@ -1224,7 +1224,7 @@ Ahmed Abou Hashima put a study to the Egyptian Senate's economic and financial a
 
 **[أحمد أبوهشيمة: مصر لا تبدأ من الصفر فى الذكاء الاصطناعى.. وأصولها الرقمية كنز يجب استثماره](https://www.youm7.com/story/2026/11/23/أحمد-أبوهشيمة-مصر-لا-تبدأ-من-الصفر-فى-الذكاء-الاصطناعى/7629258)** — Youm7, 23 November 2026
 
-Study rapporteur in plenary: 2.5bn e-invoices and receipts, InstaPay EGP 7trn to Sep 2026, hub linking 100 databases.
+On 23 November 2026, Senator Ahmed Abou Hashima presented his study on AI in economic management to Egypt's Senate. It cites over 2.5 billion e-invoices and receipts, and InstaPay transactions of about EGP 7 trillion to September 2026. He named a digital hub linking about 100 databases across more than 105 bodies as a key asset.
 
 </div>
 
@@ -1232,7 +1232,7 @@ Study rapporteur in plenary: 2.5bn e-invoices and receipts, InstaPay EGP 7trn to
 
 **[وزير الاتصالات  أمام الشيوخ: الذكاء الاصطناعي يدخل  التنبؤ  بايرادات الدولة ورصد المؤشرات الاقتصادية.. رأفت هندي يكشف 3 تطبيقات ذات أولوية.. وربط 105 جهات حكومية و100 قاعدة بيانات قومية لدعم إدارة الاقتصاد](https://www.youm7.com/story/2026/11/23/وزير-الاتصالات-أمام-الشيوخ-الذكاء-الاصطناعي-يدخل-التنبؤ-بايرادات-الدولة/7629432)** — Youm7, 23 November 2026
 
-Three priority AI pilots: revenue forecasting, macro-indicator prediction, deviation analysis; with Finance and Planning.
+Egypt's communications minister, Raafat Hendy, proposed three priority AI applications to the Senate on 23 November 2026. They cover public revenue forecasting, macroeconomic indicator prediction and analysis of deviations in fiscal indicators. He said pilots would run with the finance and planning ministries before any expansion.
 
 </div>
 
@@ -1276,7 +1276,7 @@ FinTech Gate reported on 23 November 2026 the data protection rules in Egypt's g
 
 **[Policy on the Responsible Use of Artificial Intelligence in Egyptian Government Entities (first edition)](https://www.ai.gov.eg/SynchedFiles/en/Resources/Policy%20on%20the%20Responsible%20Use%20of%20Artificial%20Intelligence%20in%20Egyptian%20Government%20Entities.pdf)** — National Council for Artificial Intelligence, Quantum Computing and Emerging Technologies (Egypt), 17 November 2026
 
-Egypt's first government-wide AI use policy, in force from 1 October 2026, sets permitted, restricted and prohibited uses.
+Egypt's National Council for AI published a first government-wide policy on responsible AI use in November 2026. In force from 1 October 2026, it sets permitted, restricted and prohibited uses. It covers ministries, agencies, state-owned companies and their contractors, but not national security entities.
 
 </div>
 

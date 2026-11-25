@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: UGA
 ledger_rows: 62
 not_held: 11
-record: de277ef7f319
+record: 5a3c03d942fd
 ---
 
 # News, Oct – Nov 2026
@@ -322,7 +322,7 @@ On 27 October 2026 NITA-U handed the Financial Intelligence Authority its ISO/IE
 
 **[Uganda’s URSB Receives ISO 27001 Certification to Strengthen Information Security](https://techafricanews.com/2026/11/24/ugandas-ursb-receives-iso-27001-certification-information-security/)** — Tech Africa News, 24 November 2026
 
-ISO/IEC 27001:2022 ISMS certificate handed over by NITA-U under World Bank-funded UDAP-GovNet project.
+Uganda's business registry, URSB, has received ISO/IEC 27001:2022 certification for information security management, reported on 24 November 2026. NITA-U handed it over under an ISMS project of the World Bank-funded Uganda Digital Acceleration Project – Government Network.
 
 </div>
 
@@ -812,7 +812,7 @@ Uganda's minister of state for lands, Harriet Ntabazi, said new digital systems 
 
 **[Procurement consultancy - Upgrade of the Uganda Land Information Management Solution (UGNLIS) Using Blockchain and Artificial Intelligence](https://tenderpilotug.com/t/egp-417927332)** — TenderPilot (e-GP notice by Ministry of Lands, Housing and Urban Development, Uganda), 2 November 2026
 
-MoLHUD e-GP tender for supervising a blockchain and AI upgrade of UgNLIS; closes 2 Dec 2026.
+Uganda's Ministry of Lands, Housing and Urban Development is tendering consultancy to supervise an upgrade of its land information system. The upgrade adopts blockchain and AI; the notice, published 2 November 2026, closes on 2 December 2026.
 
 </div>
 

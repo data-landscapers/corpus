@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: TCD
 ledger_rows: 29
 not_held: 23
-record: 473527e0626f
+record: f45cbde81b9d
 ---
 
 # News, Oct – Nov 2026
@@ -72,7 +72,7 @@ Chad's telecoms and digital economy minister Haliki Choua Mahamat opened a works
 
 **[Tchad : la stratégie de gouvernance des données validée, celle de l'IA en préparation](https://www.agenceecofin.com/actualites-numerique/1210-142318-tchad-la-strategie-de-gouvernance-des-donnees-validee-celle-de-l-ia-en-preparation)** — Agence Ecofin, 12 October 2026
 
-AU self-assessment put Chad's data-governance maturity at 30.27% (May 2026); AI strategy 2026-2030 pre-validation 8 Oct.
+Chad's digital economy ministry opened pre-validation of a national AI strategy for 2026-2030 on 8 October 2026. The step followed technical validation of a national data-governance strategy. A May 2026 diagnostic on the African Union's self-assessment tool put data-governance maturity at 30.27%.
 
 </div>
 

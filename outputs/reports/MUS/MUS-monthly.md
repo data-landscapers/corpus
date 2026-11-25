@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: MUS
 ledger_rows: 46
 not_held: 7
-record: a2082c6c285c
+record: 4bed920b4342
 ---
 
 # News, Oct – Nov 2026
@@ -674,7 +674,7 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 **[Expression of Interest (EOI) for the project "AI-Powered Personalised Learning Platform for the Education Sector"](https://education.govmu.org/Communique/2026/Press%20Communique%20EOI%20AI.pdf)** — Ministry of Education and Human Resource, 6 November 2026
 
-Ref MOEHR/EOI 032/2026-2027; submissions due 20 November 2026; open to foreign providers with local agents.
+Mauritius's education ministry invited expressions of interest on 6 November 2026 for an AI-powered personalised learning platform. Technology firms and foreign providers with authorised local representatives could respond by 20 November 2026.
 
 </div>
 

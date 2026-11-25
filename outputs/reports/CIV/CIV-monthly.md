@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: CIV
 ledger_rows: 64
 not_held: 9
-record: dc8902b2ab86
+record: faa797da4b16
 ---
 
 # News, Oct – Nov 2026
@@ -244,7 +244,7 @@ Côte d'Ivoire's ministry of digital transition signed a memorandum of understan
 
 **[IA, start-up, infrastructures : la Côte d’Ivoire élargit sa coopération numérique avec la BERD](https://www.wearetech.africa/fr/fils/actualites/tech/ia-start-up-infrastructures-la-cote-d-ivoire-elargit-sa-cooperation-numerique-avec-la-berd)** — wearetech.africa, 24 November 2026
 
-EBRD MoU signed 23 Nov 2026, no amount; backs AI strategy to 2030; 700 public services slated for digitisation.
+Côte d'Ivoire and the EBRD signed a digital-cooperation memorandum in Abidjan on 23 November 2026. It covers technical help, project finance and start-up support for the national AI strategy to 2030. No amount was disclosed. The public-service digitisation programme targets 700 services, of which 620 are identified and 59 ranked high priority.
 
 </div>
 
@@ -998,7 +998,7 @@ Ivana Valera founded Faba Finance in Abidjan in 2025. Its mobile application let
 
 **[Côte d'Ivoire : Assemblée nationale, Patrick Achi ouvre la voie à l'intelligence artificielle dans le travail parlementaire](https://www.koaci.com/article/2026/10/12/cote-divoire/politique/cote-divoire-assemblee-nationale-patrick-achi-ouvre-la-voie-a-lintelligence-artificielle-dans-le-travail-parlementaire_201534.html)** — KOACI, 12 October 2026
 
-12 Oct 2026 MPs' AI session; 2,000+ public officials to be trained by end-2027; Baoulé and Malinké chatbot demo.
+Côte d'Ivoire's National Assembly held an AI training session for MPs on 12 October 2026. Its president, Patrick Achi, said AI can help research but must not replace members' judgement. The digital minister, Djibril Ouattara, said the programme aims to train over 2,000 officials in AI by the end of 2027. The session showed a WhatsApp assistant that replies in Baoulé or Malinké.
 
 </div>
 

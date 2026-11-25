@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: SDN
 ledger_rows: 37
 not_held: 5
-record: a3c6bcea3d32
+record: 8557826a7007
 ---
 
 # News, Oct – Nov 2026
@@ -490,7 +490,7 @@ The Central Bank of Sudan signed a contract in Khartoum on 19 November 2026 to e
 
 **[Sudan central bank plans national instant payment platform to curb cash reliance](https://sudantribune.com/article/321573)** — Sudan Tribune, 23 November 2026
 
-Contract with NTC and EBS; pilot of 10,000-50,000 users, nationwide within 18 months; 1,000 to 5,000 TPS.
+The Central Bank of Sudan signed a contract in November 2026 for a national instant payment system. A pilot for 10,000 to 50,000 users precedes nationwide launch within 18 months of the contract. The bank keeps ownership of the platform, brand and data.
 
 </div>
 

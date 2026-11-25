@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: TGO
 ledger_rows: 43
 not_held: 15
-record: a2cb6e155a8a
+record: be7711e8af3d
 ---
 
 # News, Oct – Nov 2026
@@ -620,7 +620,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[Développement numérique au Togo : un assistant IA permet désormais d'accéder rapidement aux données officielles](https://lanouvellerepublique.net/economie/numerique/developpement-numerique-au-togo-un-assistant-ia-permet-desormais-dacceder-rapidement-aux-donnees-officielles/)** — La Nouvelle République, 28 October 2026
 
-Digital economy ministry adds a natural-language AI assistant to the national digital observatory's statistics.
+In October 2026 Togo's digital economy ministry added a conversational AI assistant to the National Digital Observatory platform. Users can ask questions in natural language to find statistics on the country's digital development.
 
 </div>
 
@@ -666,7 +666,7 @@ Togo has invited start-ups and developers to list locally built software on BoD-
 
 **[Togo Opens Software Platform to Local Developers](https://www.togofirst.com/en/itc/2311-20728-togo-opens-software-platform-to-local-developers)** — Togo First, 23 November 2026
 
-BoD-TPME call opened 20 Nov 2026, closes 8 Jan 2027; listed software eligible for SME purchase subsidies.
+Togo opened a call on 20 November 2026 for local developers to list software on the BoD-TPME platform. Applications close on 8 January 2027; small businesses buying listed tools may receive subsidies. Agence Togo Digital developed the platform, a digital toolkit for small businesses launched in Kara in June 2026.
 
 </div>
 

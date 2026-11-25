@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: TZA
 ledger_rows: 64
 not_held: 4
-record: e7bd8800c2a5
+record: 52615daa261e
 ---
 
 # News, Oct – Nov 2026
@@ -302,7 +302,7 @@ Paratus Tanzania launched a point of presence at the Wingu Data Centre in Dar es
 
 **[TCRA Communications Sector Performance Report, Quarter ending September 2026](https://www.tcra.go.tz/tovuti/2026/mamlaka-website/documents/quarterly-statistics/Communications_Sector_performance_report_September_17112026_c2a82b1dd3.pdf)** — Tanzania Communications Regulatory Authority, 13 November 2026
 
-123.2m subscriptions, 64.7m internet, 93.9m mobile money; 7,907 fraud attempts, Yas largest share.
+Tanzania's communications regulator (TCRA) reported 123.2 million telecom subscriptions in the quarter to September 2026, up 5.35%. Internet subscriptions rose to 64.7 million and mobile money accounts to 93.9 million. Reported fraud attempts rose 7.81% from the June quarter, to 7,907.
 
 </div>
 
@@ -408,7 +408,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[How loopholes in SIM registration are fuelling phone scams](https://www.thecitizen.co.tz/tanzania/news/national/how-loopholes-in-sim-registration-are-fuelling-phone-scams-5681696)** — The Citizen, 23 November 2026
 
-Minister orders SIMs not linked to NIDA cut; TCRA logs 7,907 fraud attempts in Q3 2026, up 7.81%.
+On 18 November 2026 Tanzania's home affairs minister told operators to deactivate SIMs not linked to national ID records. A registration agent alleged some agents reuse customers' fingerprints to register extra SIMs without their knowledge. The communications regulator logged 7,907 fraud attempts in the quarter to September 2026, up 7.81%.
 
 </div>
 

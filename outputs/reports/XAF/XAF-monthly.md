@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: XAF
 ledger_rows: 113
 not_held: 3
-record: 263b292e66c1
+record: bada17a55ddc
 ---
 
 # News, Oct – Nov 2026
@@ -498,7 +498,7 @@ Summarised under [Standards](#standards).
 
 **[AFRINIC added nine Co-Chair tests to a one-sentence role](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-nine-doors-two-chair-job)** — BTW Media, 23 November 2026
 
-Board-approved 4 Feb 2026 guidelines vs CPM 3.3; Resource Member nominations and author exclusion disputed on RPD list.
+Guidelines approved by AFRINIC's Board on 4 February 2026 set nine eligibility tests for policy co-chairs. The Consolidated Policy Manual describes the role in one sentence on administrative functions. Mailing-list participants disputed the tests, including Resource Member nominations; no resolution appeared by 22 November 2026.
 
 </div>
 
@@ -512,7 +512,7 @@ Board-approved 4 Feb 2026 guidelines vs CPM 3.3; Resource Member nominations and
 
 **[Consensus claimed in mail, still open in AFRINIC's register](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-consensus-claimed-register-under-discussion)** — BTW Media, 23 November 2026
 
-AFPUB-2026-v6-001-DRAFT03: co-author claims PPM-38 consensus 22 Nov 2026; register still says Under Discussion.
+On 22 November 2026 a co-author said IPv6 proposal AFPUB-2026-v6-001-DRAFT03 reached consensus at the AFRINIC-38 meeting. AFRINIC's proposal register still listed the draft as Under Discussion, version 3.0. The AFRINIC-38 meeting page shows no policy outcome, and a participant objected the same day.
 
 </div>
 

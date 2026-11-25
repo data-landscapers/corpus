@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: MAR
 ledger_rows: 46
 not_held: 13
-record: 1cf3b82c80ad
+record: 7e69810538bf
 ---
 
 # News, Oct – Nov 2026
@@ -252,7 +252,7 @@ Morocco's public prosecution authority and France's Justice Ministry signed a de
 
 **[PLF 2027 : l'État branché sur l'IA](https://telquel.ma/2026/10/30/plf-2027-letat-branche-sur-lia_2015907)** — TelQuel, 30 October 2026
 
-MAD 1.34bn for the AI ministry in 2027; DGI fraud-detection AI, GemMaroc and IsMa models, 50 MW Jazari Root centre.
+The presentation note to Morocco's 2027 draft finance bill gives the AI ministry MAD 1.34bn, MAD 1.08bn for investment. It names GemMaroc and IsMa language models and a 50-megawatt sovereign data centre, Jazari Root, for 2027-2029. The tax directorate plans AI models to target complex fraud schemes.
 
 </div>
 
@@ -792,7 +792,7 @@ Ahmed Rahhou is Morocco's Minister of AI, Digital Transition and Administrative 
 
 **[Renseignement financier : L'ANRF intègre l'IA pour améliorer son capital informationnel](https://aujourdhui.ma/economie/renseignement-financier-lanrf-integre-lia-pour-ameliorer-son-capital-informationnel)** — Aujourd'hui le Maroc, 11 November 2026
 
-ANRF tenders a sovereign multilingual AI-assistant platform with a legal assistant; at least 100 concurrent users.
+Morocco's National Financial Intelligence Authority (ANRF) launched a tender, reported on 11 November 2026, for a secure AI-assistant platform. It must work in Arabic, French and English and include a legal assistant from launch. The authority wants control of its data and models, and capacity for at least 100 simultaneous users.
 
 </div>
 

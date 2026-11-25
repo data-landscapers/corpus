@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: LBY
 ledger_rows: 30
 not_held: 3
-record: 3df529646e6a
+record: ba97703688b0
 ---
 
 # News, Oct – Nov 2026
@@ -482,7 +482,7 @@ Libya's Ministry of Labour and Rehabilitation said on 8 November 2026 that its d
 
 **[توصيات بسن تشريعات رقمية ومواجهة التضليل - مؤتمر الاعلام بجامعة الزيتونة يضع خارطة طريق لمواكبة الذكاء الاصطناعي](https://lana.gov.ly/post.php?id=369901&lang=ar)** — وكالة الأنباء الليبية (وال), 12 November 2026
 
-Media content monitoring authority drafting AI-use guide after fabricated images found; code bans deepfakes.
+Libya's General Authority for Media Content Monitoring is drafting a guide on AI use in media. Its head, Jalal Othman, told the state news agency in November 2026 that monitors had recorded fabricated images. He said the media code of conduct bans deepfakes.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: BFA
 ledger_rows: 48
 not_held: 6
-record: 5d4bc0d005fa
+record: 494ea2e36882
 ---
 
 # News, Oct – Nov 2026
@@ -186,7 +186,7 @@ The Alliance of Sahel States adopted the digital deliverables of its Confederati
 
 **[Télécommunication dans l’espace UEMOA : les acteurs réfléchissent sur les enjeux de la digitalisation](https://www.sidwaya.info/2026/11/23/telecommunication-dans-lespace-uemoa-les-acteurs-reflechissent-sur-les-enjeux-de-la-digitalisation/)** — Sidwaya, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-COFTEL 17th session, Ouagadougou 23-26 Nov 2026; UEMOA to commission regional satellite feasibility study in 2027.
+Telecom operators of the West African Economic and Monetary Union (UEMOA) met in Ouagadougou on 23-26 November 2026. The 17th COFTEL conference focused on low-orbit (LEO) satellite networks and digital sovereignty. A UEMOA commissioner said a firm will be hired in 2027 to study a regional satellite network.
 
 </div>
 

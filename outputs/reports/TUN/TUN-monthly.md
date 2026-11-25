@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: TUN
 ledger_rows: 59
 not_held: 4
-record: d0e54e2677d0
+record: 18e1974bf0e7
 ---
 
 # News, Oct – Nov 2026
@@ -856,7 +856,7 @@ Summarised under [Data protection](#data-protection).
 
 **[محكمة المحاسبات: المصادقة على استراتيجية لتوظيف الذكاء الاصطناعي و ورقمنة الأرشيف](https://www.alchourouk.com/article/%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%AF%D9%82%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D8%AA%D9%88%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88-%D9%88%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%B4%D9%8A%D9%81)** — Al Chourouk, 24 November 2026
 
-Court of Audit AI strategy with 46 use cases, archive digitisation and risk teams, set out in 2027 budget debate.
+Tunisia's Court of Audit has approved a strategy for using AI that covers 46 possible use cases, its deputy first president Fadhila Gargouri told a joint plenary of both chambers on 24 November 2026. The strategy sits alongside an integrated information system, archive digitisation and risk-management teams. The plenary was debating the court's 2027 budget.
 
 </div>
 

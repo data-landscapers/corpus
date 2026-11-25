@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: ZAF
 ledger_rows: 132
 not_held: 17
-record: 0ddc3ada56b2
+record: c3a23cbc561e
 ---
 
 # News, Oct – Nov 2026
@@ -252,7 +252,7 @@ South Africa's Information Regulator fined First National Bank R1 million after 
 
 **[Calls grow for dedicated AI laws in South Africa](https://www.ecr.co.za/news/news/calls-grow-for-dedicated-ai-laws-in-south-africa/)** — ECR, 18 November 2026
 
-Position paper to Parliament's communications committee urges an AI Act; Ramaphosa: ~70% of Africa's data centres.
+In November 2026 a position paper presented to Parliament's communications committee called for a dedicated South African AI Act. Researcher Khanyisani Xulu said existing law and policy do not fully address the auditability of AI decisions.
 
 </div>
 

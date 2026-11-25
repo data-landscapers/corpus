@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: GIN
 ledger_rows: 26
 not_held: 2
-record: cb79b38e0426
+record: 4f1592b6b938
 ---
 
 # News, Oct – Nov 2026
@@ -446,7 +446,7 @@ Guinea's Prime Minister, Amadou Oury Bah, said the government will digitise publ
 
 **[Guinea Introduces Restrictions on AI Use in Election Media Coverage](https://apva.africa/guinea-introduces-restrictions-on-ai-use-in-election-media-coverage/)** — APVA, 16 November 2026
 
-HAC Decision 046/HAC/P/2026 of 6 Nov 2026 bars AI distortion of candidates' statements in regional and senatorial polls.
+Guinea's media regulator, the Haute Autorité de la Communication (HAC), signed election coverage rules on 6 November 2026. They bar irresponsible use of AI to distort information or manipulate candidates' statements. The rules cover the regional polls of 29 November and senatorial elections of 20 December 2026.
 
 </div>
 

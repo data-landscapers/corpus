@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-25
 place: KEN
 ledger_rows: 123
 not_held: 5
-record: d7937c1846ff
+record: 1a1406f24224
 ---
 
 # News, Oct – Nov 2026
@@ -1824,7 +1824,7 @@ Kenya's High Court gave the government six months to complete a national policy 
 
 **[Mahakama AI: Judiciary pilots AI tool to tackle chronic case backlog](https://www.the-star.co.ke/news/2026-11-19-judiciary-pilots-ai-tool-to-tackle-case-backlog)** — The Star, 19 November 2026
 
-Judiciary pilots Mahakama AI amid 579,954 pending cases (June 2026); AI adoption policy being finalised.
+In November 2026 Kenya's Judiciary reported piloting Mahakama AI, an internal legal research tool for judges. By end-June 2026, 579,954 cases were pending, 341,412 of them for over three years. It had 244 legal researchers in post against an approved 650.
 
 </div>
 
