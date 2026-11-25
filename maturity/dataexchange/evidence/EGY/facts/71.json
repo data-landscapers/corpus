@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-23-egy-aboheshima-senate-ai-economy-study-data-governance",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "Senate committee chair Ahmed Abou Hashima said Egypt's digital hub links about 100 databases across more than 105 government entities.",
+   "as_of": "2026-11-23",
+   "date_precision": "day",
+   "system": "digital hub",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The digital hub is said to link about 100 databases and more than 105 government entities.",
+   "as_of": "2026-11-23",
+   "date_precision": "day",
+   "system": "digital hub",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital hub",
+   "country_label": "Egypt",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
