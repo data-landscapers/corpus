@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-01-ner-a-voice-first-ai-service-for-people-centred-justice-in-niger",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:23",
+   "fact": "HiiL's slide deck gives Niger's internet penetration as around 23 per cent, citing World Bank data, with no year stated.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
