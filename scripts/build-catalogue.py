@@ -116,13 +116,12 @@ def entity_names():
 # `raw-catalogue.json`, which is the full record and is likewise internal. The rule is
 # one line: **anything that needs the key reads the internal table; the download is the
 # public one.**
+# `source_kind` joined on 2026-11-25 *(Bill)*: the kind of source the record was read from
+# (`source_kind.py`), published and a filter on the catalogue page.
 CSV_COLS = ["title", "publisher", "author", "published", "date_precision",
-            "places", "topics", "entities", "ingested", "url"]
+            "places", "topics", "entities", "ingested", "url", "source_kind"]
 
-# `source_kind` is the kind of source the record was read from (`source_kind.py`), for the
-# reports that break their evidence down by it (Bill, 2026-11-25). Internal like the key: a
-# derived judgement about the document, not a fact the publisher states.
-INTERNAL_COLS = ["slug"] + CSV_COLS + ["url_note", "source_kind"]
+INTERNAL_COLS = ["slug"] + CSV_COLS + ["url_note"]
 
 
 # **OECD CRS records are held but not listed** *(Bill, 2026-11-06)*. Their only `url` is a

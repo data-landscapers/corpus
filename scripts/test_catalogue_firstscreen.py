@@ -67,7 +67,7 @@ for (let i = 0; i < ENTS.length; i++)
   ENTLABEL[ENTS[i]] = DERIVED[ENTS[i]] || PRETTY[ENTS[i]] || ENTS[i];
 const PUBS = D.pubs, DATES = D.dates, PLK = D.placekeys, TPK = D.topickeys, COMP = D.comp;
 const cDate = D.date, cPub = D.pub, cPl = D.pl, cTp = D.tp, cEn = D.en,
-      cArt = D.art, cCmp = D.cmp, cDoc = D.doc;
+      cArt = D.art, cCmp = D.cmp, cDoc = D.doc, SKK = D.skkeys, cSk = D.sk;
 
 const helpers = `
   function esc(s){ return String(s).replace(/[<>&]/g, function(c){ return {'<':'&lt;','>':'&gt;','&':'&amp;'}[c]; }); }
@@ -75,11 +75,11 @@ const helpers = `
 `;
 const api = new Function(
   'D', 'ENTLABEL', 'ENTS', 'PUBS', 'DATES', 'PLK', 'TPK', 'COMP',
-  'cDate', 'cPub', 'cPl', 'cTp', 'cEn', 'cArt', 'cCmp', 'cDoc',
+  'cDate', 'cPub', 'cPl', 'cTp', 'cEn', 'cArt', 'cCmp', 'cDoc', 'SKK', 'cSk',
   helpers + grab('rowOf') + '\n' + grab('rowHTML') + '\n' + grab('optsHTML') +
   '\nreturn {rowOf, rowHTML, optsHTML};')(
   D, ENTLABEL, ENTS, PUBS, DATES, PLK, TPK, COMP,
-  cDate, cPub, cPl, cTp, cEn, cArt, cCmp, cDoc);
+  cDate, cPub, cPl, cTp, cEn, cArt, cCmp, cDoc, SKK, cSk);
 
 // ---- the rows ---------------------------------------------------------------
 // Stored order is date-descending and the page's default sort is `new`, so the first
@@ -128,6 +128,10 @@ placeKeys = keep(placeKeys, D.places, placeC);
 const topicKeys = keep(D.torder, D.topics, topicC);
 const yearKeys = Object.keys(yearL).filter(function(k){ return k !== '<2020'; }).sort().reverse();
 if (yearL['<2020']) yearKeys.push('<2020');
+// The source facet: one kind per row, in the vocabulary's own order (`D.skinds`).
+const kindC = {};
+for (let i = 0; i < D.n; i++){ const k = D.skkeys[D.sk[i]]; if (k) kindC[k] = (kindC[k] || 0) + 1; }
+const kindKeys = keep(Object.keys(D.skinds), D.skinds, kindC);
 
 function facet(key, title, keys, labels, c, groups, groupNames, searchable){
   let h = '<div class="facet"><h3>' + title + '</h3>';
@@ -140,6 +144,7 @@ function facet(key, title, keys, labels, c, groups, groupNames, searchable){
 const facets =
   facet('places', 'Country', placeKeys, D.places, placeC, pg, pgn, true) +
   facet('topics', 'Topic', topicKeys, D.topics, topicC, D.cats, null, true) +
+  facet('kinds', 'Source', kindKeys, D.skinds, kindC, null, null, false) +
   facet('years', 'Year published', yearKeys, yearL, yearC, null, null, false);
 
 const rows = {length: SHOWN};

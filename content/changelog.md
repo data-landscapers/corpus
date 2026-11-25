@@ -1,3 +1,7 @@
+## 25 November 2026
+
+- The catalogue has a new Source filter and a source_kind column in its download: portals and datasets, trade journals, news, press releases, official documents or research. It shows what kind of source each record was read from; the kinds are defined on the Process lookups page.
+
 ## 24 November 2026
 
 - Chinese development-finance amounts from AidData now show the sum committed, in US dollars of the year it was committed, not AidData's inflation-adjusted figure. 41 deals in 20 countries read 1 to 18 per cent lower than before.

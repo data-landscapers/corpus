@@ -9,3 +9,4 @@ places,iso-3 codes for the countries and/or regions covered
 topics,Ids for the Corpus taxonomy used to classify documents. The taxonomy is listed at https://corpus.data-landscapers.io/methodology/lookups/#topics
 entities,Tag ids for organisations or people regularly referenced in documents
 url,The public url of the original document
+source_kind,"The kind of source the document was read from: dataset (portals and datasets), trade (trade journals), news, press (press releases), document (official documents), research or other. Our classification, from the site it was read on; the kinds are listed at https://corpus.data-landscapers.io/methodology/lookups/#source-kinds"

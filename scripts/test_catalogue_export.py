@@ -72,13 +72,14 @@ if (rows.length !== D.n) throw new Error('the chunks hold ' + rows.length + ' of
 
 const PUBS = D.pubs, DATES = D.dates, PLK = D.placekeys, TPK = D.topickeys,
       COMP = D.comp, ENTS = D.ents;
-const cDate = D.date, cPub = D.pub, cPl = D.pl, cTp = D.tp, cEn = D.en, cCmp = D.cmp;
+const cDate = D.date, cPub = D.pub, cPl = D.pl, cTp = D.tp, cEn = D.en, cCmp = D.cmp,
+      SKK = D.skkeys, cSk = D.sk;
 
 const api = new Function('CSVCOLS', 'PUBS', 'DATES', 'PLK', 'TPK', 'COMP', 'ENTS',
-                         'cDate', 'cPub', 'cPl', 'cTp', 'cEn', 'cCmp',
+                         'cDate', 'cPub', 'cPl', 'cTp', 'cEn', 'cCmp', 'SKK', 'cSk',
   grab('itemOf') + '\n' + grab('csvCell') + '\n' + grab('toCSV') +
   '\nreturn {itemOf, toCSV};')(D.cols, PUBS, DATES, PLK, TPK, COMP, ENTS,
-                              cDate, cPub, cPl, cTp, cEn, cCmp);
+                              cDate, cPub, cPl, cTp, cEn, cCmp, SKK, cSk);
 
 // Every record, rebuilt from the payload the page fetches, keyed on the chunk's own
 // slug field — field 2 of CHUNK_FIELDS. The export itself has carried no slug since

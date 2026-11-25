@@ -18,6 +18,9 @@ Many of the decisions made by Corpus are based on the various lookup tables list
 ## Finance sectors
 <!-- table: lookups/finance-sectors.csv | label as Sector, cofog as COFOG, definition as Definition -->
 
+## Source kinds
+<!-- table: lookups/source-kinds.csv | source_kind as Kind, label as Label, definition as Definition -->
+
 ## Progress Categories
 | Value             | Meaning                                                                       |
 | ----------------- | ----------------------------------------------------------------------------- |

@@ -48,6 +48,14 @@ TITLES = CORPUS / "outputs" / "titles"
 DOC_IDS = CORPUS / "outputs" / "catalogue" / "doc-ids.csv"
 
 ENTITY_NAMES = CORPUS / "lookups" / "entity-names.csv"
+# The source-kind facet's labels and order: Corpus's own vocabulary (`source_kind.py`).
+SOURCE_KINDS = CORPUS / "lookups" / "source-kinds.csv"
+
+
+def source_kinds() -> dict:
+    """{kind: label} in the vocabulary's order, which is the facet's order."""
+    with open(SOURCE_KINDS, encoding="utf-8-sig", newline="") as fh:
+        return {r["source_kind"]: r["label"] for r in csv.DictReader(fh)}
 BUILD_CATALOGUE = CORPUS / "scripts" / "build-catalogue.py"
 
 from names_lib import KEYSTOP, shard_file, shard_key  # noqa: E402  — see there for the WIN_RESERVED rule
@@ -440,6 +448,8 @@ def first_screen(rows, ents, places, regions, topics, cats, torder, entlabel) ->
     n = len(rows)
 
     place_cnt, topic_cnt, year_cnt = Counter(), Counter(), Counter()
+    sk_cnt = Counter(r[12] for r in rows if r[12])
+    skinds = source_kinds()
     year_lab = {}
     for r in rows:
         place_cnt.update(r[3])
@@ -484,6 +494,8 @@ def first_screen(rows, ents, places, regions, topics, cats, torder, entlabel) ->
                               pg, pgn, True)
                    + facet_html("topics", "Topic", topic_keys, topics, topic_cnt,
                                 cats, None, True)
+                   + facet_html("kinds", "Source", [k for k in skinds if sk_cnt.get(k)],
+                                skinds, sk_cnt)
                    + facet_html("years", "Year published", year_keys, year_lab, year_cnt)),
         "results": "".join(row_html(r, places, topics, entlabel, ents)
                            for r in rows[:SHOWN]),
@@ -555,6 +567,8 @@ def pack_rows(cdir: Path):
         # nothing - the backfill over the older records is Bill's to commission, and
         # until it happens the page must not invent a line for them.
         i.get("catalogue_hero") or "",
+        # Field 12: the kind of source (`source_kind.py`), a facet (Bill, 2026-11-25).
+        i.get("source_kind") or "",
     ] for i in items]
     # The download's own columns, in `CHUNK_FIELDS` order from index 4 on. They are
     # sorted alongside the rows rather than after them, because a chunk and a row have
@@ -640,12 +654,14 @@ def split(rows, extra, ents, places, topics) -> tuple[dict, list]:
     tpk = list(topics) + sorted({t for r in rows for t in r[4]} - set(topics))
     pli = {k: n for n, k in enumerate(plk)}
     tpi = {k: n for n, k in enumerate(tpk)}
+    skk = list(source_kinds()) + sorted({r[12] for r in rows} - set(source_kinds()))
+    ski = {k: n for n, k in enumerate(skk)}
     comp = sorted({r[8] for r in rows})
     cmi = {v: n for n, v in enumerate(comp)}
 
     cols = {
         "dates": list(dates), "pubs": list(pubs),
-        "placekeys": plk, "topickeys": tpk, "comp": comp,
+        "placekeys": plk, "topickeys": tpk, "comp": comp, "skkeys": skk,
         "date": [dates[r[2]] for r in rows],
         "pub": [pubs[r[1]] for r in rows],
         "pl": [[pli[p] for p in r[3]] for r in rows],
@@ -653,6 +669,7 @@ def split(rows, extra, ents, places, topics) -> tuple[dict, list]:
         "en": [r[9] for r in rows],
         "art": [r[7] for r in rows],
         "cmp": [cmi[r[8]] for r in rows],
+        "sk": [ski[r[12]] for r in rows],
         "doc": [r[10] for r in rows],
         "az": az_ranks(rows),
     }
@@ -788,7 +805,7 @@ SCRIPT = r"""
   var D = null, N = 0, CH = 500;
   // The columns, once D is in: dictionaries first, then one entry per row.
   var DATES, PUBS, PUBSLC, PLK, TPK, COMP, ENTSEARCH,
-      cDate, cPub, cPl, cTp, cEn, cArt, cCmp, cDoc, cAz,
+      cDate, cPub, cPl, cTp, cEn, cArt, cCmp, cDoc, cAz, cSk, SKK,
       PLI, TPI, ENI, YEAR, YL, YO, PG, PGN, PORDER;
   // Region labels come from the place vocabulary itself — every region code is a
   // row in `countries.csv` with its own name — rather than from a hand-kept map
@@ -796,8 +813,8 @@ SCRIPT = r"""
   // XAF and XSS differently from the way the rest of the site does).
   function regionName(code){ return D.places[code] || code; }
   // Lens and Named actor are gone from the sidebar (prep/catalogue.md §6, §7).
-  var state = {q:'', places:[], topics:[], years:[], ents:[], sort:'new', shown:100};
-  var FACETS = ['places','topics','ents','years'];   // every filter the state carries
+  var state = {q:'', places:[], topics:[], years:[], ents:[], kinds:[], sort:'new', shown:100};
+  var FACETS = ['places','topics','ents','kinds','years'];   // every filter the state carries
   var PRE = '<2020';                                  // the pre-2020 year bucket
 
   // Entity slugs arrive dictionary-encoded (field 10 = offsets into D.ents).
@@ -827,6 +844,7 @@ SCRIPT = r"""
     DATES = D.dates; PUBS = D.pubs; PLK = D.placekeys; TPK = D.topickeys; COMP = D.comp;
     cDate = D.date; cPub = D.pub; cPl = D.pl; cTp = D.tp; cEn = D.en;
     cArt = D.art; cCmp = D.cmp; cDoc = D.doc; cAz = D.az;
+    SKK = D.skkeys || []; cSk = D.sk || [];      // the source kind, one per row
     PLI = index(PLK); TPI = index(TPK); ENI = index(ENTS);
 
     // **The search blob is gone.** It used to be one lowercased string per record —
@@ -891,7 +909,7 @@ SCRIPT = r"""
             cTp[i].map(function(k){ return TPK[k]; }),
             t[1], t[2], cArt[i], COMP[cCmp[i]],
             cEn[i].map(function(k){ return ENTS[k]; }),
-            cDoc[i], t[3]];
+            cDoc[i], t[3], SKK[cSk[i]]];
   }
 
   // ---- the prefix-shard indexes ----------------------------------------------
@@ -1044,7 +1062,8 @@ SCRIPT = r"""
       places: cPl[i].map(function(k){ return PLK[k]; }),
       topics: cTp[i].map(function(k){ return TPK[k]; }),
       entities: cEn[i].map(function(k){ return ENTS[k]; }),
-      ingested: t[6], url: t[1], catalogue_hero: t[3]
+      ingested: t[6], url: t[1], catalogue_hero: t[3],
+      source_kind: SKK[cSk[i]]
     };
   }
 
@@ -1239,6 +1258,7 @@ SCRIPT = r"""
     if (skip !== 'topics' && selTp.length && !anyOf(cTp[i], selTp)) return false;
     if (skip !== 'ents'   && selEn.length && !anyOf(cEn[i], selEn)) return false;
     if (skip !== 'years'  && state.years.length && state.years.indexOf(YEAR[i]) === -1) return false;
+    if (skip !== 'kinds'  && state.kinds.length && state.kinds.indexOf(SKK[cSk[i]]) === -1) return false;
     return true;
   }
   function counts(field, idx){
@@ -1246,6 +1266,7 @@ SCRIPT = r"""
     for (i = 0; i < N; i++){
       if (!passes(i, field)) continue;
       if (idx === 'y'){ v = YEAR[i]; if (v) c[v] = (c[v]||0)+1; continue; }
+      if (idx === 'k'){ v = SKK[cSk[i]]; if (v) c[v] = (c[v]||0)+1; continue; }
       vals = idx === 3 ? cPl[i] : cTp[i];
       key  = idx === 3 ? PLK : TPK;
       for (j = 0; j < vals.length; j++){ v = key[vals[j]]; c[v] = (c[v]||0)+1; }
@@ -1359,6 +1380,7 @@ SCRIPT = r"""
     f.innerHTML =
       facetHTML('places','Country', 3, D.places, PG, PGN, true, 0, PORDER, term('places')) +
       facetHTML('topics','Topic', 4, D.topics, D.cats, null, true, 0, D.torder, term('topics')) +
+      facetHTML('kinds','Source', 'k', D.skinds, null, null, false, 0, Object.keys(D.skinds), '') +
       facetHTML('years','Year published', 'y', YL, null, null, false, 0, YO, '');
     // The inputs are new elements, so what a reader had typed goes back into them.
     // The options were rendered against it above, so this restores the text and not
@@ -1374,6 +1396,7 @@ SCRIPT = r"""
     state.places.forEach(function(v){ add('places','Country', v, D.places[v]||v); });
     state.topics.forEach(function(v){ add('topics','Topic', v, D.topics[v]||v); });
     state.ents.forEach(function(v){ add('ents','Actor', v, ENTLABEL[v]||v); });
+    state.kinds.forEach(function(v){ add('kinds','Source', v, D.skinds[v]||v); });
     state.years.forEach(function(v){ add('years','Year', v, v === PRE ? 'before 2020' : v); });
     // `state.q` arrives from the URL fragment via readHash, so it is attacker-supplied
     // on a public page and must be escaped before it reaches innerHTML.
@@ -1733,7 +1756,7 @@ def main() -> int:
 
     head = {"n": len(rows), "chunk": CHUNK,
             "places": places, "regions": regions, "topics": topics, "cats": cats,
-            "torder": torder,
+            "torder": torder, "skinds": source_kinds(),
             "ents": ents, "entnames": derived, "entpretty": pretty,
             "names": payload_names, "titles": payload_titles,
             # The words a shard is never keyed on. The page has to skip exactly the
