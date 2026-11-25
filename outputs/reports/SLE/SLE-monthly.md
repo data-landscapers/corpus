@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: SLE
 ledger_rows: 33
 not_held: 4
-record: 526b6b382c84
+record: f4f965ac406e
 ---
 
 # News, Oct – Nov 2026
@@ -107,6 +107,14 @@ Sierra Leone's Parliament referred the Data Protection and Right to Access Infor
 **[AfDB Approves $750,000 to Develop ECOWAS Data Embassy in Sierra Leone](https://sierraloaded.sl/news/afdb-approve-750000-funding-for-sierra-leone/)** — SierraLoaded, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The African Development Bank approved a $750,000 seed grant, with technical assistance, to prepare an ECOWAS Data Embassy in Sierra Leone. Communications minister Salima Monorma Bah announced it at WAIIS 2026 in Lungi on 18 November 2026. The grant pays for experts to structure the project before AfDB construction financing, which has not been quantified.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[African Development Bank Backs Sierra Leone’s bid to host regional data embassy with $750,000 grant](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-backs-sierra-leones-bid-98898)** — African Development Bank, 24 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+The African Development Bank has granted US$750,000 from the KOAFEC Trust Fund to study whether Sierra Leone can host the ECOWAS Regional Data Embassy. The grant was announced at the West Africa Integration and Investment Summit in Lungi, 16-18 November 2026. ECOWAS heads of state have approved the initiative. Regional technical consultations are set for late November 2026.
 
 </div>
 
