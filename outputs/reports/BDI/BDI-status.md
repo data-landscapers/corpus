@@ -1,12 +1,12 @@
 ---
 title: Burundi: status report
-compiled: 2026-11-20
+compiled: 2026-11-25
 place: BDI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 28
-sources_cited: 278
+sources_cited: 279
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -36,7 +36,7 @@ Until then the digital statutes were [the 2022 cybercrime statute](https://amate
 ### Data protection
 <!-- gov.protect -->
 
-[The data-protection law of 10 March 2026 regulates collection and use by public and private bodies, sets out privacy rights and creates an independent supervisory authority](https://arct.gov.bi/2026/03/18/loi-n1-03-du-10-mars-2026-portant-protection-des-donnees-a-caractere-personnel/). [It attaches criminal penalties](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-lawmakers-approve-data-protection-framework-as-digitalisation-accelerates). [It places the new authority under the Ministry of Digital Economy](https://dataprotection.africa/burundi/). [It restricts transfers of personal and sensitive data to jurisdictions without adequate protection or approved safeguards](https://dataprotection.africa/burundi/). [The authority's detailed operating mandate awaits an implementing decree](https://dataprotection.africa/burundi/). [In April 2026 the authority was not operating and no adequacy list had been published](https://www.ktaadvocates.com/wp-content/uploads/2026/04/A-STRATEGIC-GUIDE-TO-DATA-PROTECTION-AND-PRIVACY-IN-EAST-AFRICA-1.pdf). [Penalties are criminal only, with no administrative fines, and there is no general requirement to store data in the country](https://www.ktaadvocates.com/wp-content/uploads/2026/04/A-STRATEGIC-GUIDE-TO-DATA-PROTECTION-AND-PRIVACY-IN-EAST-AFRICA-1.pdf).
+[The data-protection law of 10 March 2026 regulates collection and use by public and private bodies, sets out privacy rights and creates an independent supervisory authority](https://arct.gov.bi/2026/03/18/loi-n1-03-du-10-mars-2026-portant-protection-des-donnees-a-caractere-personnel/). [It attaches criminal penalties](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-lawmakers-approve-data-protection-framework-as-digitalisation-accelerates). [It places the new authority under the Ministry of Digital Economy](https://dataprotection.africa/burundi/). [It restricts transfers of personal and sensitive data to jurisdictions without adequate protection or approved safeguards](https://dataprotection.africa/burundi/). On 18 November 2026 the Council of Ministers [approved, subject to adjustments, a draft decree setting up the Personal Data Protection Agency](https://www.burunditimes.com/burundi-faces-data-protection-test-as-eac-advances-regional-rules/). [In April 2026 the authority was not operating and no adequacy list had been published](https://www.ktaadvocates.com/wp-content/uploads/2026/04/A-STRATEGIC-GUIDE-TO-DATA-PROTECTION-AND-PRIVACY-IN-EAST-AFRICA-1.pdf). [Penalties are criminal only, with no administrative fines, and there is no general requirement to store data in the country](https://www.ktaadvocates.com/wp-content/uploads/2026/04/A-STRATEGIC-GUIDE-TO-DATA-PROTECTION-AND-PRIVACY-IN-EAST-AFRICA-1.pdf).
 
 [Before 2026 confidentiality rested on scattered sectoral provisions: banking secrecy under the 2017 Banking Act, healthcare confidentiality rules, telecommunications privacy regulations and the 2022 cybercrime law](https://www.dlapiperdataprotection.com/index.html?c=BI&t=law). [None of them imposed a duty to notify users, regulators or an authority after a breach](https://www.dlapiperdataprotection.com/index.html?c=BI&t=law).
 
