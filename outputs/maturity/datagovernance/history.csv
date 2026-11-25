@@ -19,3 +19,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-29,TCD,gov.policy--data-governance-policy,fact,2,2,TCD-002;TCD-001;TCD-007,"7 Oct 2026 validation workshop for the strategy; adoption still to come, stays draft"
 2026-10-29,SLE,gov.policy--data-governance-policy,fact,3,3,SLE-003;SLE-004,"Aug 2025 validation of a separate data governance strategy; 2023 strategy still adopted, unchanged"
 2026-10-30,SEN,gov.policy--data-governance-policy,fact,3,3,SEN-004;SEN-002,"Le Tech Observateur, October 2024: National Data Strategy already adopted; dates the adoption to 2024 or earlier, stage unchanged"
+2026-11-25,TCD,gov.policy--data-governance-policy,fact,2,2,TCD-002;TCD-001;TCD-007,"An Ecofin Agency report of November 2026 says the government approved the data governance strategy in October 2026. It names no cabinet act, and on 11 November 2026 the minister described the strategy as still being developed, so it remains a validated draft."
