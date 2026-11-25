@@ -1,0 +1,37 @@
+{
+ "slug": "2026-06-08-cod-what-is-ai-regulation-in-the-democratic-republic-of-the-congo",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Levellers says the Digital Code (Ordonnance-loi 23/010) with personal data rules in Book III is in force since 11 April 2023.",
+   "as_of": "2023-04-11",
+   "date_precision": "day",
+   "system": "Digital Code (Ordonnance-loi 23/010)",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "ratified",
+   "fact": "Levellers says the DRC deposited its Malabo Convention ratification instrument at Addis Ababa on 27 June 2025, becoming the 17th state party.",
+   "as_of": "2025-06-27",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "fact": "Levellers says the data protection authority provided for in Article 262 of the Digital Code has not been established and is not operational as of June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Autorite de protection des donnees",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
