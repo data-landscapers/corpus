@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-09-egy-egyin-bahi-bill-synthetic-content-disclosure",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "MP Mostafa El-Bahy told EgyIn that his bill on protecting children from the digital influencer and regulating digital media, submitted to the House of Representatives' communications committee, targets deepfakes and would require disclosure of synthetic or altered content that could pass as real.",
+   "as_of": "2026-08-09",
+   "date_precision": "day",
+   "system": "Bill on protecting children from the digital influencer and regulating digital media",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

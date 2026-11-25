@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-11-mdg-tech-connect-loi-cybercriminalite-vote-reporte",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Tech-Connect reports that Madagascar's draft cybercrime bill 042/2026 doubles penalties for online fraud facilitated by artificial intelligence, and its examination was postponed sine die as at 5 September 2026.",
+   "as_of": "2026-09-05",
+   "date_precision": "day",
+   "system": "Projet de loi n°042/2026 sur la cybercriminalité",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

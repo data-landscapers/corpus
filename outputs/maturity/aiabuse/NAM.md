@@ -2,7 +2,7 @@
 
 ## AI harms
 
-**Rule in force.** [In February 2026 authors from the NCRST stated that Namibia lacks comprehensive data protection and cybersecurity legislation](<https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf>). [They found no frameworks for AI governance](<https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf>).
+**Rule in force.** [In January 2026 the ICT minister said consultations on the draft Cybercrime Bill would resume in February](<https://www.channelafrica.co.za/channelafrica/news/namibia-moves-to-fast-track-cybercrime-data-protection-laws/>). [The bill targets image-based abuse and malicious use of deepfakes](<https://www.channelafrica.co.za/channelafrica/news/namibia-moves-to-fast-track-cybercrime-data-protection-laws/>). [In October 2025 the Presidency called a deepfake video of the president criminal under Namibian law](<https://www.namibian.com.na/presidency-sounds-alarm-on-fake-ai-video-of-nandi-ndaitwah/>). [It named no law](<https://www.namibian.com.na/presidency-sounds-alarm-on-fake-ai-video-of-nandi-ndaitwah/>). [In February 2026 NCRST authors found no frameworks for AI governance](<https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf>).
 
 **Authority.** No source found since October 2023 says a body is designated with a mandate over AI. The nearest fact: [the NCRST authors found no AI governance frameworks in February 2026](<https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf>).
 
@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is a rule or authority on ai harms being drafted.
+***Not found***. No rule on AI harms in force has been found. No body designated over AI has been found.

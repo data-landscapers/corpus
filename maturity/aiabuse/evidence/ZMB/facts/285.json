@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-17-zmb-zambia-zicta-warns-against-misuse-of-ai-targeting-hichilema",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Lusaka Times reports ZICTA director general Collins Mbulo saying on 16 February 2026 that the Cyber Security Act of 2025 will be strictly enforced against people who misuse social media and AI to create fake images and videos of the President and others.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "Cyber Security Act 2025",
+   "class": "aiharm"
+  },
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "enforced",
+   "value": "applied",
+   "fact": "ZICTA's director general said that, working with other law enforcement agencies, it had apprehended some internet abusers, many now appearing before the courts, in the context of AI-generated fake images and videos of the President; no case is named.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "Cyber Security Act 2025",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

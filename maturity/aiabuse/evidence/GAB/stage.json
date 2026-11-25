@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GAB-003",
-      "gaps": "No source found since October 2023 gives an enforcement or redress decision about a harm from AI.",
-      "note": "The social-network ordinance and its October 2026 ratifying law ban deepfakes and require AI-content labels, and ordinance 0013 gives the HAC the task of auditing AI systems, which meets questions 2 and 3. No enforcement decision is held.",
-      "as_at": "2026-11-24"
+      "gaps": "No source found gives an enforcement or redress decision under a rule on AI harms. The November 2025 remand over an AI-made video was a charge of insulting the head of state under the Penal Code.",
+      "note": "The social-network ordinance and its October 2026 ratifying law ban deepfakes and require AI-content labels, and ordinance 0013 gives the HAC the task of auditing AI systems, which meets questions 2 and 3. A remand under a general Penal Code article is not a decision under those rules, so 4.",
+      "as_at": "2026-11-25"
     }
   ]
 }

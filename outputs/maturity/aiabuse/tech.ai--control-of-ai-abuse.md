@@ -22,11 +22,11 @@ The Continental AI Strategy asks for risk-based regulation, an independent overs
 |---|---|
 | 5 Mature | 0 |
 | 4 Operating | 5 |
-| 3 Established | 13 |
-| 2 Nascent | 10 |
-| 1 Absent | 12 |
+| 3 Established | 14 |
+| 2 Nascent | 12 |
+| 1 Absent | 11 |
 | Unplaced | 1 |
-| No evidence | 13 |
+| No evidence | 11 |
 
 ## Countries
 
@@ -113,6 +113,12 @@ A rule addressing a harm from AI was in force in 2026; a designated authority is
 - The blog by Vishal Askurn says the Data Protection Act 2017 is particularly relevant where AI systems process personal information, covering profiling and automated processing ([source, 2026-09-28](https://defimedia.info/blog-artificial-intelligence-mauritius-progress-regulation-and-road-ahead)).
 - The Director of Public Prosecutions' April 2024 newsletter, by Senior State Counsel Nisha Pem, says the Cybersecurity and Cybercrime Act 2021 makes creating and sharing obscene deepfakes with intent to harm punishable by criminal penalties ([source, 2024-04](https://lexpress.mu/node/534256)).
 
+### Niger: 3 Established
+
+Niger's 2022 data protection law applies to AI, a jurist said in 2025; a designated authority is not on record.
+
+- Jurist Abdou Malam Garba told Le Sahel that Niger has no AI-specific framework but Law 2022-59 of 16 December 2022 on personal data applies to AI and obliges AI developers and service providers operating in Niger to declare to the HAPDP ([source, 2025-09-19](https://www.lesahel.org/lintelligence-artificielle-un-outil-benefique-avec-diverses-contraintes/)).
+
 ### Senegal: 3 Established
 
 A rule addressing a harm from AI was in force in 2025; a designated authority is not on record.
@@ -170,12 +176,24 @@ A rule or authority on harms from AI was being drafted in 2026; none in force is
 
 - SMEX reports that Libya's National Charter for AI Ethics (adopted 1 June 2026) proposes a national oversight body for AI ethics, to be created by the Council of Ministers, to supervise compliance, approve high-risk systems and keep a registry of compliance certifications ([source, 2026-06-01](https://smex.org/libyas-new-ai-strategy-celebrates-participation-yet-was-built-without-it/)).
 
+### Madagascar: 2 Nascent
+
+A 2026 cybercrime bill raising penalties for AI-aided fraud was postponed in parliament; no rule on AI harms in force is on record.
+
+- Tech-Connect reports that Madagascar's draft cybercrime bill 042/2026 doubles penalties for online fraud facilitated by artificial intelligence, and its examination was postponed sine die as at 5 September 2026 ([source, 2026-09-05](https://www.tech-connect.info/madagascar-loi-cybercriminalite-vote-reporte/)).
+
 ### Malawi: 2 Nascent
 
 The government was drafting an AI Bill in 2026, to be tabled by December; no rule in force on AI harms is known.
 
 - Malawi's government announced it is drafting legislation to regulate the use of AI, addressing concerns over potential ethical risks, with ICT minister Shadric Namalomba saying the bill should be tabled in parliament before December 2026 ([source, 2026-08-10](https://www.telecompaper.com/news/malawi-drafts-ai-bill--1579445)).
 - Malawi's ICT ministry says a National AI Strategy will be supported by an AI Bill establishing a regulatory framework to promote innovation while safeguarding citizen privacy and ensuring operational accountability, per minister Shadric Namalomba ([source, 2026-08-06](https://itweb.africa/article/malawi-drafts-ai-bill-to-govern-public-sector-tech/PmxVE7KEOnpqQY85)).
+
+### Namibia: 2 Nascent
+
+A draft cybercrime bill targeting deepfakes was back in consultation in 2026; no rule on AI harms in force is on record.
+
+- Minister Emma Theofelus said consultations on the draft Cybercrime Bill, which targets image-based abuse and malicious use of deepfake technology, resume in February 2026 ([source, 2026-01-28](https://www.channelafrica.co.za/channelafrica/news/namibia-moves-to-fast-track-cybercrime-data-protection-laws/)).
 
 ### Seychelles: 2 Nascent
 
@@ -264,12 +282,6 @@ A 2026 law article says Mozambique has no legal provisions on AI harms; whether 
 
 - A law journal article by Bitone Viage says Mozambique has no specific legal provisions on AI-enabled digital crime such as deepfakes, algorithmic manipulation of data and automated attacks, a significant normative void ([source, 2026-01-27](https://www.revistas.editoraenterprising.net/index.php/rpcj/article/view/913)).
 
-### Namibia: 1 Absent
-
-A 2026 source says nothing addresses harms from AI.
-
-- The NCRST authors state Namibia lacks comprehensive data protection and cybersecurity legislation and frameworks for AI governance ([source, 2026-02](https://council.science/wp-content/uploads/2026/02/Namibia-AI.pdf)).
-
 ### Sao Tome and Principe: 1 Absent
 
 A 2026 source says nothing addresses harms from AI.
@@ -337,19 +349,7 @@ Nothing found names a rule or authority against harms from AI or says there is n
 
 Not established: Nothing found says whether anything addresses harms from AI.
 
-### Madagascar: No evidence
-
-Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
-
-Not established: Nothing found says whether anything addresses harms from AI.
-
 ### Mauritania: No evidence
-
-Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
-
-Not established: Nothing found says whether anything addresses harms from AI.
-
-### Niger: No evidence
 
 Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 

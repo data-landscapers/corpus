@@ -1,17 +1,18 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "no evidence",
-   "rule": "",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether anything addresses harms from AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "3",
+      "rule": "inforce",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-001",
+      "gaps": "No source found says a body is designated by law or decree with a mandate over AI; the HAPDP receives declarations as the data regulator. No enforcement decision is held.",
+      "note": "A jurist says Law 2022-59 on personal data applies to AI and obliges AI developers and providers to declare to the HAPDP, a rule in force that meets question 2. The HAPDP acts as the data regulator, with no designation over AI shown, as for Senegal.",
+      "as_at": "2026-11-25"
+    }
+  ]
 }

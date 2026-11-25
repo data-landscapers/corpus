@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-27-gha-ghana-to-introduce-new-regulations-to-tackle-ai-misinformation-and-dis",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Data Protection Commission executive director Dr Arnold Kavaarpuo said the Ministry is developing specific regulations under the misinformation and disinformation bill to address misuse of AI-generated images and videos.",
+   "as_of": "2026-01-27",
+   "date_precision": "day",
+   "system": "misinformation and disinformation regulations",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

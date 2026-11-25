@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,aiharm,rule,coverage,inforce,2025-12-08,AGO-003;AGO-006,AGO-002=draft;AGO-001=draft;AGO-005=draft,
-AGO,aiharm,authority,coverage,designated,2026-06,AGO-004,,
-AGO,aiharm,enforced,coverage,,,,,nothing held
+AGO,aiharm,rule,coverage,inforce,2026-08-04,AGO-003;AGO-006;AGO-009,AGO-002=draft;AGO-001=draft;AGO-005=draft;AGO-008=draft;AGO-007=draft,
+AGO,aiharm,authority,coverage,designated,2026-08-04,AGO-004;AGO-010,,
+AGO,aiharm,enforced,coverage,,,,,nothing found

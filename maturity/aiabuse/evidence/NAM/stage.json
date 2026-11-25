@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "aiharm",
-      "stage": "1",
-      "rule": "none",
+      "stage": "2",
+      "rule": "draft",
       "authority": "",
       "enforced": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-001",
-      "gaps": "No source found reports a published bill or draft guideline on AI harms, or a rule in force or a designated authority.",
-      "note": "A February 2026 source says Namibia lacks frameworks for AI governance, which is the stage 1 claim. A draft is reported as being drafted but none is published.",
-      "as_at": "2026-11-24"
+      "stage_sources": "NAM-004",
+      "gaps": "No source found says a rule on AI harms is in force; the Presidency called a deepfake of the president criminal in October 2025 without naming a law. No body is designated over AI.",
+      "note": "The draft Cybercrime Bill, which targets malicious deepfakes, was back in consultation in February 2026, which meets the draft rung. The February 2026 statement that Namibia lacks AI governance frameworks leaves no rule in force.",
+      "as_at": "2026-11-25"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-03-30-gha-police-warn-of-prosecution-as-deepfake-suspects-arrested-over-presiden",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Ghana Police Service said at a 30 March 2026 briefing that creating, sharing or promoting deepfake content targeting public figures is a criminal offence under Ghana's laws, though no specific law was cited.",
+   "as_of": "2026-03-30",
+   "date_precision": "day",
+   "system": "Ghana Police Service deepfake warning",
+   "class": "aiharm"
+  },
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "enforced",
+   "value": "applied",
+   "fact": "Police arrested two suspects on 28 March 2026 over deepfake videos impersonating President Mahama and the First Lady used to solicit investment funds, after forensic analysis by the CID Cybercrime Enforcement Team.",
+   "as_of": "2026-03-28",
+   "date_precision": "day",
+   "system": "CID Cybercrime Enforcement Team",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

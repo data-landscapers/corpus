@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-19-ago-lei-sobre-inteligencia-artificial-preve-multas-de-ate-1-500-milhoes-kz",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "draft",
+   "fact": "Angola's Ministry of Telecommunications (MINTTICS) put a draft AI law in public consultation from September 2025, with penalties for discrimination, hate via algorithms, privacy violations and harm to the democratic process, and a future AI Authority.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Proposta de Lei sobre a Inteligencia Artificial",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

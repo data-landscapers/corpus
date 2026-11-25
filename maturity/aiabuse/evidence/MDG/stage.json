@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "aiharm",
-   "stage": "no evidence",
-   "rule": "",
-   "authority": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether anything addresses harms from AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aiabuse.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "aiharm",
+      "stage": "2",
+      "rule": "draft",
+      "authority": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-001",
+      "gaps": "No source found says a rule on AI harms is in force or that a body is designated over AI.",
+      "note": "Cybercrime bill 042/2026 doubles penalties for online fraud aided by AI, a published bill on a harm from AI, which meets the draft rung. Its examination was postponed sine die in September 2026, so nothing is in force.",
+      "as_at": "2026-11-25"
+    }
+  ]
 }

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SEN-002",
-      "gaps": "No source found since October 2023 says a body is designated with a mandate over AI.",
-      "note": "The data protection commission says AI-made voice or image copies without a legal basis are unlawful processing under Law 2008-12, a rule in force that meets question 2. The commission applies it as the data regulator, with no designation over AI shown.",
-      "as_at": "2026-11-24"
+      "gaps": "No source found since October 2023 says a body is designated with a mandate over AI. The CNRM bill, adopted on 3 March 2026 with a remit over AI-generated content, is not shown promulgated.",
+      "note": "The data protection commission says AI-made voice or image copies without a legal basis are unlawful processing under Law 2008-12, a rule in force that meets question 2. The CNRM would oversee AI-generated content, but no promulgation is found, so no authority is designated yet.",
+      "as_at": "2026-11-25"
     }
   ]
 }

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,aiharm,rule,coverage,inforce,2026-04-25,GIN-001;GIN-002;GIN-004,GIN-003=none,
-GIN,aiharm,authority,coverage,,,,,nothing held
-GIN,aiharm,enforced,coverage,,,,,nothing held
+GIN,aiharm,rule,coverage,inforce,2026-11-06,GIN-001;GIN-002;GIN-004;GIN-005,GIN-003=none,
+GIN,aiharm,authority,coverage,,,,,nothing found
+GIN,aiharm,enforced,coverage,,,,,nothing found

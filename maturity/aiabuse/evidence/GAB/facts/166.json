@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-13-gab-gabon-en-prison-pour-avoir-partage-la-video-ia-de-demission-doligui-ng",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "enforced",
+   "value": "applied",
+   "fact": "Gabonmediatime reports that a 35-year-old man was remanded in Libreville central prison for sharing an AI-generated video parodying the president's resignation, charged under Penal Code articles 157 ff. on insulting the head of state, after arrest by the DGR.",
+   "as_of": "2025-11-12",
+   "date_precision": "day",
+   "system": "Penal Code articles 157 ff.",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
