@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: ETH
-ledger_rows: 40
+ledger_rows: 41
 not_held: 5
-record: 521371c08c08
+record: 66789dbcc893
 ---
 
 # News, Oct – Nov 2026
@@ -40,6 +40,8 @@ record: 521371c08c08
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -127,6 +129,22 @@ Ethiopian Airlines told members on 18 November 2026 of a cybersecurity incident 
 **[Ethiopian Airlines Breach Puts 72-Hour Data Reporting Rule Under Scrutiny](https://cioafrica.co/ethiopian-airlines-breach-puts-72-hour-data-reporting-rule-under-scrutiny/)** — CIO Africa, 20 November 2026
 
 Ethiopian Airlines told ShebaMiles members on 18 November 2026 that unauthorised access to customer information had occurred. Addis Fortune reported on 19 November that fewer than 8,000 accounts were reached. Proclamation 1321/2024 requires notice to the Communications Authority within 72 hours, and the airline had not said whether it gave notice.
+
+</div>
+
+</div>
+
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">African Union AI and Digital Health Championship</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CPHIA 2026 Opens with Focus on Health Sovereignty and Action](https://africacdc.org/news-item/cphia-2026-opens-with-focus-on-health-sovereignty-and-action/)** — Africa CDC, 24 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Africa CDC and Ethiopia opened the Fifth International Conference on Public Health in Africa in Addis Ababa on 23 November 2026. It runs to 27 November. Ethiopia presented its African Union AI and Digital Health Championship, with a film on its electronic health records and AI work. An AU roadmap on maternal and child health for 2026-2030 was also launched.
 
 </div>
 
@@ -233,6 +251,14 @@ Ethio telecom extended 4G LTE to 80 more Ethiopian towns. Its 2026/27 plan targe
 **[Ethio telecom and ZTE Deploy Ethiopia’s First Pre-Commercial AI RAN Solution](https://techafricanews.com/2026/11/05/ethio-telecom-zte-deploy-ethiopias-first-pre-commercial-ai-ran-solution/)** — Tech Africa News, 5 November 2026
 
 Ethio telecom and ZTE announced on 5 November 2026 a pre-commercial AI-driven radio access network in Ethiopia, which they describe as the first. They report 11% more 4G capacity and 40% higher peak-hour user throughput than the conventional solution. The deployment date was not stated.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethio telecom extends 5G services to 43 cities in Ethiopia](https://techreviewafrica.com/news/8468/ethio-telecom-extends-5g-services-to-43-cities-in-ethiopia)** — Tech Review Africa, 24 November 2026
+
+Ethio telecom has extended 5G to 10 more cities, bringing coverage to 43 Ethiopian cities as reported on 24 November 2026. The state-owned operator launched commercial 5G at 145 sites in Addis Ababa on 9 September 2023.
 
 </div>
 
