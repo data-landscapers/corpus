@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-20-sdn-sudan-privacy-gap-digital-transformation-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "The article says banking activity in Sudan runs on foreign-hosted apps without any legal requirement governing data localisation or cross-border transfer.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
