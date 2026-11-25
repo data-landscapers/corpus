@@ -4,6 +4,7 @@
 - The navigation bar's Countries & Regions is now Countries. The page and its address are unchanged.
 - The maturity Movement table has two new columns, Source type and URL, for the source behind each stage change, and a Source type filter. The map's country panel now gives the last assessed date to the day.
 - The catalogue has a new Source filter and a source_kind column in its download: portals and datasets, trade journals, news, press releases, official documents or research. It shows what kind of source each record was read from; the kinds are defined on the Process lookups page.
+- Forty-two government bodies that the evidence base had tagged under two names, usually once in English and once in French or Portuguese, now carry one name each, so each appears once in Who's Who and the catalogue filters.
 
 ## 24 November 2026
 
