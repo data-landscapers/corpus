@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Oct – Nov 2026
-compiled: 2026-11-21
-period: 2026-10-01 to 2026-11-21
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: GIN
-ledger_rows: 25
+ledger_rows: 26
 not_held: 2
-record: 473d57f521bf
+record: cb79b38e0426
 ---
 
 # News, Oct – Nov 2026
@@ -433,6 +433,20 @@ Guinea scored 0.76 out of 4 on the Africa AI Governance Index 2026, in the Nasce
 **[Routes en Guinée : Bah Oury veut réduire les coûts grâce à l’intelligence artificielle](https://guineejet.info/routes-en-guinee-bah-oury-veut-reduire-les-couts-grace-a-lintelligence-artificielle/)** — Guinéejet, 12 October 2026
 
 Guinea's Prime Minister, Amadou Oury Bah, said the government will digitise public procurement and use artificial intelligence to check road construction prices against market prices and flag overbilling, with technical support from Rwanda. The system is to use national statistics institute data and assessments by the major projects control body, and to be operational by the end of the year. No cost is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">HAC prohibition on AI-generated media content</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinea Introduces Restrictions on AI Use in Election Media Coverage](https://apva.africa/guinea-introduces-restrictions-on-ai-use-in-election-media-coverage/)** — APVA, 16 November 2026
+
+HAC Decision 046/HAC/P/2026 of 6 Nov 2026 bars AI distortion of candidates' statements in regional and senatorial polls.
 
 </div>
 
