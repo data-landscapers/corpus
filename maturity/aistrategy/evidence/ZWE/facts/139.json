@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-zwe-zimbabwe-approves-national-ai-charter-setting-ethical-standards-and-fr",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Ecofin Agency reports that Zimbabwe's Cabinet approved the National Artificial Intelligence Strategy for 2026-2030 in October 2025, and it was officially launched in March 2026.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-cmr-what-is-ai-regulation-in-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Minister of Posts and Telecommunications unveiled the National AI Strategy (SNIA) on 7 July 2025 at CONIA; Levellers cites OECD.AI listing its status as proposed or under development and says its proposed AI authority and council are not established.",
+   "as_of": "2025-07-07",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy (SNIA)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

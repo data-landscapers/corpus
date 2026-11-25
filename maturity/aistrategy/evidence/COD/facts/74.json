@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-16-cod-rapport-d-evaluation-de-la-preparation-de-la-rdc-a-l-ia-quelles-lecons",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Journalist Patient Ligodi, reading UNESCO's 2025 AI readiness assessment, reports that the DRC has no national AI strategy and no specific regulation of AI use.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-01-cmr-intelligence-artificielle-au-cameroun",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "OBS-CC's tracker says Cameroon's National AI Development Strategy (SNIA, seven pillars, horizon 2040) was presented and adopted at the national consultations in Yaounde, and notes no public full text has been found.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SNIA",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

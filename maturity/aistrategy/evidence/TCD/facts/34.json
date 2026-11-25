@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-24-tcd-chad-eyes-itu-backed-ai-lab-to-build-local-capacity",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Ecofin Agency reports that in October 2026 Chad held a workshop with the UN Economic Commission for Africa for a preliminary review of its draft National AI Strategy.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
