@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: XAF
-ledger_rows: 109
+ledger_rows: 113
 not_held: 3
-record: c83f8e0ce728
+record: 263b292e66c1
 ---
 
 # News, Oct – Nov 2026
@@ -490,6 +490,34 @@ Summarised under [Standards](#standards).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AFRINIC Election Guidelines 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AFRINIC added nine Co-Chair tests to a one-sentence role](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-nine-doors-two-chair-job)** — BTW Media, 23 November 2026
+
+Board-approved 4 Feb 2026 guidelines vs CPM 3.3; Resource Member nominations and author exclusion disputed on RPD list.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AFRINIC IPv6 policy proposal AFPUB-2026-v6-001 (IPv6 as a criterion in IPv4 soft landing)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Consensus claimed in mail, still open in AFRINIC's register](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-consensus-claimed-register-under-discussion)** — BTW Media, 23 November 2026
+
+AFPUB-2026-v6-001-DRAFT03: co-author claims PPM-38 consensus 22 Nov 2026; register still says Under Discussion.
+
+</div>
+
+</div>
+
 ### AI
 
 <div class="monthly-story" markdown="1">
@@ -960,6 +988,20 @@ Paradigm Initiative marked World Children's Day on 20 November 2026 by citing th
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Africa hosted signalling firewall (BICS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BICS and Airtel Africa Expand Partnership to Strengthen Roaming and Network Security](https://techafricanews.com/2026/11/24/bics-airtel-africa-expand-partnership-roaming-network-security/)** — Tech Africa News, 24 November 2026
+
+Airtel Africa has extended its partnership with BICS, reported on 24 November 2026. BICS adds a hosted signalling firewall and network threat intelligence. They cover subscribers in Airtel's 14 African markets.
+
+</div>
+
+</div>
+
 ### Data Exchange
 
 <div class="monthly-story" markdown="1">
@@ -1351,6 +1393,20 @@ AfricaNenda Foundation's fifth report on inclusive instant payment systems, laun
 **[Transsion and Visa Partner to Expand Agentic Payments and Digital Acceptance in Emerging Markets](https://techafricanews.com/2026/11/19/transsion-and-visa-partner-to-expand-agentic-payments-and-digital-acceptance-in-emerging-markets/)** — Tech Africa News, 19 November 2026
 
 Transsion and Visa signed a memorandum of cooperation on agentic commerce, consumer payments and merchant payment acceptance in emerging markets, reported on 19 November 2026. Consumer payment services are to start in Africa. The two companies have validated agentic payments between Transsion's wallet and Visa Intelligent Commerce in a live transaction environment.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AXIAN Digibank core wallet platforms (Huawei)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AXIAN Digibank & Fintech Partners Huawei to Upgrade Mobile Money Platforms Across Five Markets](https://techafricanews.com/2026/11/24/axian-digibank-fintech-huawei-upgrade-mobile-money-platforms-five-markets/)** — Tech Africa News, 24 November 2026
+
+AXIAN Digibank & Fintech has signed with Huawei for new core wallet platforms behind its Mixx and MVola mobile money brands in all five of its markets, reported on 24 November 2026. The upgrade is stated to triple transaction-processing capacity.
 
 </div>
 
