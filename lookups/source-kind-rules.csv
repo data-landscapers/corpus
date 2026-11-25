@@ -1,0 +1,24 @@
+source_kind,match,pattern,publisher_kinds,note
+dataset,url,^data-explorer\.oecd\.org/,,OECD CRS and other OECD.Stat queries
+dataset,url,^(d-portal\.(iatistandard\.)?org|iatiregistry\.org|iati\.cloud|datastore\.iatistandard\.org|countrydata\.iatistandard\.org)/,,IATI activity pages
+dataset,url,^projects\.worldbank\.org/,,World Bank projects database
+dataset,url,^(mapafrica|projectsportal|dataportal)\.afdb\.org/,,AfDB project and data portals
+dataset,url,^gatesfoundation\.org/about/committed-grants,,Gates Foundation grants database
+dataset,url,^thegef\.org/projects-operations/,,GEF projects database
+dataset,url,^(open\.undp\.org|transparency\.undp\.org|openaid\.|iati\.fcdo\.gov\.uk|devtracker\.fcdo\.gov\.uk|foreignassistance\.gov|usaspending\.gov)/?,,donor transparency portals
+dataset,url,^(eib\.org/en/projects/(all|pipelines)|ebrd\.com/work-with-us/projects/psd|ifc\.org/.*project|disclosures\.ifc\.org|miga\.org/project|ewebapps\.worldbank\.org)/?,,DFI project disclosure databases
+dataset,url,^assets\.iiag\.online/,,IIAG country profiles
+dataset,url,^(data|datahub|dataportal|opendata|open|stats|statistics)\.[^/]+/,,a host named as a data or statistics portal
+news,url,^(dailynews\.gov\.bw|newsday\.gov\.|herald\.gov\.|news\.gov\.)/?,,state newspapers on a government host
+document,url,(journal-?officiel|journalofficiel|gazette|boletim-?oficial|bulletin-?officiel|/jo/|imprensanacional|sgg\.),government|igo|ngo|company|self|,official gazettes
+press,url,^(globenewswire\.com|prnewswire\.com|businesswire\.com|africa-newsroom\.com|apo-opa\.(com|info)|einpresswire\.com|newswire\.com|prweb\.com|accesswire\.com)/,,press wires
+research,url,^(doi\.org|researchgate\.net|ssrn\.com|papers\.ssrn\.com|zenodo\.org|academia\.edu|semanticscholar\.org|hal\.science|osf\.io|figshare\.com|arxiv\.org|scielo\.|ncbi\.nlm\.nih\.gov|pmc\.ncbi\.nlm\.nih\.gov|journals\.plos\.org|link\.springer\.com|sciencedirect\.com|tandfonline\.com|onlinelibrary\.wiley\.com|mdpi\.com|frontiersin\.org|jstor\.org)/?,,paper repositories and publishers
+document,url,^(documents\d?|thedocs|openknowledge|pubdocs)\.worldbank\.org/,,World Bank document repositories
+document,url,^(faolex\.fao\.org|lex\.ao|new\.kenyalaw\.org|kenyalaw\.org|joradp\.dz|legal\.africa|ulii\.org|zimlii\.org|saflii\.org|lii\.|gazettes\.africa|lac\.org\.na|veritaszim\.net|pmg\.org\.za)/?,,law and gazette repositories
+document,url,\.(pdf|docx?|xlsx?|pptx?|zip|odt|ods)([?#]|$),government|igo|ngo|company|self|academic|thinktank|,a file on an organisation's own site
+document,url,/(sites/default/files|wp-content/uploads|fileadmin|-/media|documents?|docs?|downloads?|publications?/files|storage|uploads)/,government|igo|ngo|company|self|,an organisation's document store
+trade,kind,trade,,publications.csv: trade
+news,kind,newspaper|news|agency,,publications.csv: newspaper or news agency
+research,kind,academic|thinktank,,publications.csv: academic or think tank
+press,kind,government|igo|ngo|company|self,,publications.csv: an organisation speaking for itself
+other,kind,*,,no rule placed it

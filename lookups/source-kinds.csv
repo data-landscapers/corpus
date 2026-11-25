@@ -1,0 +1,8 @@
+source_kind,label,definition
+dataset,Portals and datasets,"A structured database or portal read row by row: OECD CRS, IATI, a financier's project or grants database, an open-data or statistics portal."
+trade,Trade journals,"A specialist publication on technology, telecoms, finance or development, such as TechCabal or ITWeb."
+news,News,"A general newspaper, broadcaster or news agency, national or international."
+press,Press releases,"An organisation's own announcement or web page: a government, intergovernmental body, NGO, foundation or company speaking for itself, including on a press wire or its own social account."
+document,Official documents,"A formal document held as a file or in a document repository: a law, gazette, budget volume, strategy, project appraisal or annual report."
+research,Research,"Academic or think-tank work: a journal article, working paper or policy report."
+other,Other,"Anything the rules do not place, such as a video, a blog or an unknown host."

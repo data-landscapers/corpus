@@ -54,6 +54,7 @@ from collections import Counter
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import vault_lib as V                                                # noqa: E402
+import source_kind                                                   # noqa: E402
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -118,7 +119,10 @@ def entity_names():
 CSV_COLS = ["title", "publisher", "author", "published", "date_precision",
             "places", "topics", "entities", "ingested", "url"]
 
-INTERNAL_COLS = ["slug"] + CSV_COLS + ["url_note"]
+# `source_kind` is the kind of source the record was read from (`source_kind.py`), for the
+# reports that break their evidence down by it (Bill, 2026-11-25). Internal like the key: a
+# derived judgement about the document, not a fact the publisher states.
+INTERNAL_COLS = ["slug"] + CSV_COLS + ["url_note", "source_kind"]
 
 
 # **OECD CRS records are held but not listed** *(Bill, 2026-11-06)*. Their only `url` is a
@@ -167,6 +171,7 @@ def items(rows):
             # `wiki/schemas.md` §4's documented absence, carried so the citation path can
             # tell it from a field nobody filled in (see the module docstring).
             "url_note": txt(fm.get("url_note")),
+            "source_kind": source_kind.classify(fm.get("url") if isinstance(fm.get("url"), str) else "")[0],
             "places": V.as_list(fm.get("places")),
             "topics": V.as_list(fm.get("topics")),
             "entities": V.as_list(fm.get("entities")),

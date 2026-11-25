@@ -5,10 +5,14 @@
 
 Reads three files and nothing else: `site/finance/all/all-finance.csv`, `lookups/country-reference.csv`
 (area, population, names) and `lookups/taxonomy.csv` (topic to chapter). Map shapes come from
-`site/maturity/data/africa.json`. Every slide covers YEARS. Bill's running order (2026-11-24):
+`site/maturity/data/africa.json`. The sources slide also reads each row's source: a non-state
+row's `source_kind` through `outputs/non-state-finance/all-nonstate.csv` (deal to record) and
+`outputs/catalogue/catalogue-internal.csv`, a budget line's `doc_type` from
+`budgets/budgets-all-countries.csv`. Every slide covers YEARS. Bill's running order (2026-11-24):
 
 0. Corpus joins up development finance: three partial sources converge on one dataset (2026-11-25).
 1. Where the money goes: a pie of chapters, each big chapter's topics as bars drawn out from it.
+0a. Where the data comes from: each type's rows by the kind of source they were read from (2026-11-25).
 1a. Where the money comes from: the same design, sources and their instruments; budgets get no panel.
 2. Who pays for what: topics over US$500 million, total and share by source.
 3. The foundations: FOUNDATIONS (Bill's ten) as 100% bars by source, under all digital finance.
@@ -668,8 +672,86 @@ text(s, 0.6, 6.68, 12.1, 0.45, "Scope: financial commitments of relevance to dig
      "from national budgets, aid, and African and non-African financiers.", 10, color=FAINT)
 text(s, 8.7, 7.08, 4.03, 0.25, "data-landscapers.io", 10, color=FAINT, align=PP_ALIGN.RIGHT)
 
+# ---------- Where the data comes from: rows by kind of source (Bill, 2026-11-25) ----------
+CAT = os.path.join(ROOT, "outputs", "catalogue", "catalogue-internal.csv")
+SKIND = {r["slug"]: r.get("source_kind", "") for r in csv.DictReader(io.open(CAT, encoding="utf-8-sig"))}
+if not any(SKIND.values()):
+    print("WARNING: catalogue-internal.csv has no source_kind; run scripts/rebuild.py --catalogue")
+REC = {r["deal_id"]: r["record"] for r in csv.DictReader(io.open(
+    os.path.join(ROOT, "outputs", "non-state-finance", "all-nonstate.csv"), encoding="utf-8-sig"))}
+DOC = {r["deal_id"]: r["doc_type"] for r in csv.DictReader(io.open(
+    os.path.join(ROOT, "budgets", "budgets-all-countries.csv"), encoding="utf-8-sig"))}
+SK_LBL = {r["source_kind"]: r["label"] for r in csv.DictReader(io.open(
+    os.path.join(ROOT, "lookups", "source-kinds.csv"), encoding="utf-8-sig"))}
+NS_KINDS = [("dataset", "2E4A62"), ("trade", "4F86A6"), ("news", "9CC3D5"), ("press", "C84B2F"),
+            ("document", "E39A84"), ("other", "C9C6BC")]                # research folds into other
+BUD_KINDS = [("Budget laws (votes)", "8A5F12", {"appropriation-act"}),
+             ("Estimates (proposals)", "D9A23A", {"budget-estimates"}),
+             ("Decrees", "EBCB86", {"executive-instrument", "board-budget"}),
+             ("Execution reports", "5C4A2A", {"implementation-report", "treasury-release", "ifmis-extract"}),
+             ("Audits", "1A1A18", {"audited-accounts"}),
+             ("Other", "C9C6BC", None)]
+sk_n = collections.defaultdict(collections.Counter); bud_n = collections.Counter(); unk = 0
+for r in INYEARS:
+    if r["type"] == "budget":
+        dt = DOC.get(r["deal_id"], "")
+        bud_n[next((l for l, _, ds in BUD_KINDS if ds and dt in ds), "Other")] += 1
+    else:
+        k = SKIND.get(REC.get(r["deal_id"], ""), "")
+        if not k: unk += 1
+        sk_n[r["type"]][k if k in dict(NS_KINDS) else "other"] += 1
+if unk: print(f"WARNING: sources slide: {unk} non-state rows with no source_kind")
+s = prs.slides.add_slide(BLANK)
+ns_tot = {t: sum(sk_n[t].values()) for t in sk_n}
+aid_ds = sk_n["aid"]["dataset"] / ns_tot["aid"]
+oth = [t for t in ("other African finance", "other non-African finance")]
+oth_ds = sum(sk_n[t]["dataset"] for t in oth) / sum(ns_tot[t] for t in oth)
+if aid_ds < 0.6 or oth_ds > 0.35:
+    print(f"WARNING: sources slide subtitle: aid from datasets {aid_ds:.0%}, other finance {oth_ds:.0%}")
+frame(s, "Where the data comes from",
+      f"{aid_ds:.0%} of aid commitments are read from datasets such as OECD CRS and IATI. Most other finance is found "
+      "in press releases, the trade press and the news. Budget lines come from the budget documents themselves.  Number of rows",
+      "Each row is counted by the source it was read from. A news story that repeats a press release counts as news. "
+      "Budget estimates are the line-item volumes, as tabled or as approved. "
+      f"Other includes research and unclassified sources. {YEARS[0]} to {YEARS[-1]}, as recorded to {AS_AT}.")
+BX, BW, BH = 3.35, 9.38, 0.62
+def bar(y, parts, lblw=0.5):
+    tot = sum(n for _, n, _ in parts); x = BX
+    for lbl, n, col in parts:
+        if not n: continue
+        w = BW * n / tot
+        sh = s.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(x), Inches(y), Inches(w), Inches(BH))
+        sh.fill.solid(); sh.fill.fore_color.rgb = rgb(col); sh.line.color.rgb = rgb(PAPER); sh.line.width = Pt(1.5)
+        sh.shadow.inherit = False
+        if w >= lblw:
+            dark = col in ("2E4A62", "4F86A6", "C84B2F", "8A5F12", "5C4A2A", "1A1A18")
+            text(s, x, y, w, BH, f"{n:,}", 13, color="FFFFFF" if dark else INK, bold=True,
+                 align=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE)
+        x += w
+def legend(y, items):
+    x = BX
+    for lbl, col in items:
+        sw = s.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(x), Inches(y + 0.05), Inches(0.18), Inches(0.18))
+        sw.fill.solid(); sw.fill.fore_color.rgb = rgb(col); sw.line.fill.background(); sw.shadow.inherit = False
+        tw = 0.074 * len(lbl) + 0.1
+        text(s, x + 0.26, y, tw, 0.28, lbl, 12, color=INK2); x += 0.26 + tw + 0.2
+def rowlabel(y, name, n):
+    text(s, 0.6, y + 0.02, 2.6, 0.3, name, 15, bold=True)
+    text(s, 0.6, y + 0.33, 2.6, 0.25, f"{n:,} rows", 11, color=FAINT)
+legend(1.95, [(SK_LBL[k], c) for k, c in NS_KINDS])
+y = 2.4
+for t in ("aid", "other non-African finance", "other African finance"):
+    rowlabel(y, NAMES[t], ns_tot[t])
+    bar(y, [(k, sk_n[t][k], c) for k, c in NS_KINDS]); y += BH + 0.25
+y += 0.1
+bt = sum(bud_n.values())                                       # a count where the bar cannot carry one
+legend(y, [(l if BW * bud_n[l] / bt >= 0.5 else f"{l} {bud_n[l]:,}", c) for l, c, _ in BUD_KINDS]); y += 0.42
+rowlabel(y, NAMES["budget"], sum(bud_n.values()))
+bar(y, [(l, bud_n[l], c) for l, c, _ in BUD_KINDS])
+print("sources:", {NAMES[t]: dict(sk_n[t]) for t in sk_n}, dict(bud_n))
+
 # Bill's running order (2026-11-24): the whole picture, then the rise and its reality check
-ORDER = ["Corpus joins up", "Where the money goes", "Where the money comes from", "Who pays for what", "The foundations", "The rise of African finance", "But the rise", "Where the money lands"]
+ORDER = ["Corpus joins up", "Where the data comes from", "Where the money goes", "Where the money comes from", "Who pays for what", "The foundations", "The rise of African finance", "But the rise", "Where the money lands"]
 lst = prs.slides._sldIdLst
 rank = [next((i for i, t in enumerate(ORDER) if sl.shapes[0].text_frame.text.startswith(t)), 99) for sl in prs.slides]
 ids = list(lst)
