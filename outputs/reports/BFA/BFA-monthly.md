@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: BFA
-ledger_rows: 46
+ledger_rows: 48
 not_held: 6
-record: 84a028d55055
+record: 5d4bc0d005fa
 ---
 
 # News, Oct – Nov 2026
@@ -178,6 +178,28 @@ The Alliance of Sahel States adopted the digital deliverables of its Confederati
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">WAEMU feasibility study of a regional satellite network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécommunication dans l’espace UEMOA : les acteurs réfléchissent sur les enjeux de la digitalisation](https://www.sidwaya.info/2026/11/23/telecommunication-dans-lespace-uemoa-les-acteurs-reflechissent-sur-les-enjeux-de-la-digitalisation/)** — Sidwaya, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+COFTEL 17th session, Ouagadougou 23-26 Nov 2026; UEMOA to commission regional satellite feasibility study in 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécommunications dans l’UEMOA : Les acteurs plaident pour une intégration encadrée des satellites en orbite basse](https://lequotidien.mr/telecommunications-dans-luemoa-les-acteurs-plaident-pour-une-integration-encadree-des-satellites-en-orbite-basse/)** — Le Quotidien (Mauritania), 24 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+The WAEMU Commission plans to hire consultants from early 2027 to study a satellite network of its own. The plan was reported at COFTEL's general assembly in Ouagadougou, 23-26 November 2026. Operators and regulators there asked that low-orbit satellite operators carry the same licensing, tax and data-protection duties as local ones.
+
+</div>
+
+</div>
+
 ### Standards
 
 <div class="monthly-story" markdown="1">
@@ -261,6 +283,20 @@ Summarised under [Connectivity](#connectivity).
 **[Compte rendu du Conseil des ministres du jeudi 5 novembre 2026](https://burkina24.com/2026/11/05/compte-rendu-du-conseil-des-ministres-du-jeudi-5-novembre-2026/)** — Burkina24, 5 November 2026
 
 Burkina Faso's Council of Ministers adopted two decrees on 5 November 2026. One creates the foundational identification system and a national register of the unique identifier. The other designates the Ministry of Digital Transition to enrol people and issue the identifier until the competent body is operational. The council also approved CFA 15,463,900,000 of state-funded ministry projects, including a new administration network in Ouagadougou and Bobo-Dioulasso.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet subscriptions, fixed and mobile</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Semaine du numérique : Le Burkina Faso place la souveraineté technologique au cœur de la 21e édition](https://lefaso.net/spip.php?article151010=)** — leFaso.net, 24 November 2026
+
+Burkina Faso's Prime Minister opened the 21st Semaine du numérique in Ouagadougou on 24 November 2026, under a technological-sovereignty theme. He named control of infrastructure and data, simpler public services and secure, inclusive digitalisation as government priorities. He put internet subscriptions in Q2 2026 at 328,764 fixed and 20,439,942 mobile.
 
 </div>
 
