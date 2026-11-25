@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SSD,sectorai,use,coverage,inservice,2023-12,SSD-001,,
-SSD,sectorai,sectors,coverage,,,,,nothing held
-SSD,sectorai,results,coverage,,,,,nothing held
+SSD,sectorai,use,coverage,inservice,2026-09,SSD-001;SSD-002,,
+SSD,sectorai,sectors,coverage,,,,,nothing found
+SSD,sectorai,results,coverage,reported,2026-09,SSD-003,,

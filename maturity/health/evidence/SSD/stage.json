@@ -18,18 +18,18 @@
     },
     {
       "sub_indicator": "emr",
-      "stage": "unplaced",
+      "stage": "2",
       "governance": "",
-      "tiers": "",
-      "digitised": "",
+      "tiers": "T3",
+      "digitised": "point-of-care",
       "last12": "",
-      "clinics": "",
+      "clinics": "not-published",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "The Bahmni EMR deployed at Juba Teaching Hospital and Nimule Hospital in 2019 did not reach routine clinical use or scale and was not accepted for wider use (SSD-042, SSD-043), so no tier has been found as using an EMR; its donor finance is dated 2019, outside the 36 months. SSD-005 is from the excluded source and sets nothing, so no dated statement of paper records at every tier has been found either. systems.csv otherwise holds a noted class, the OpenMRS ART E-register at five sites (tracker), and an unnamed, unclassified 22.4% of facilities with facility-wide electronic systems. A UNDP tender of 11 March 2026 seeks an OpenMRS pilot at Al Sabah Children's Hospital and Munuki primary health care centre (SSD-045): a procurement notice, with no award or use shown.",
-      "note": "Stage 2 needs records in use at some hospitals or a dated preparatory act inside 36 months; the 2019 deployment never reached routine use, and the March 2026 tender for a pilot is a notice, not an agreement signed or staff trained. Stage 1 needs a dated statement of absence that only the excluded source gives.",
-      "as_at": "2026-11-21"
+      "stage_sources": "SSD-047;SSD-048;SSD-049",
+      "gaps": "WHO's September 2026 series puts the Digital Care Companion, a clinical decision support system that records each encounter at the point of care, in 12 facilities in 10 states (SSD-047, SSD-048), Lafon PHCC among them (SSD-049); how many are primary clinics, who owns the system and whether it is in routine use beyond these sites are not found. Records stay in the facility: only model aggregates go to the server. The 2019 Bahmni EMR at two hospitals did not reach routine use (SSD-042).",
+      "note": "Twelve reporting facilities, which WHO says should be served in depth before any phased expansion, read as pilot sites, stage 2's row. Stage 3 needs records in use in most hospitals or in primary clinics in some districts as routine use.",
+      "as_at": "2026-11-25"
     }
   ]
 }

@@ -5,7 +5,7 @@ SSD,hmis,digitised,coverage,facility,2025,SSD-015,SSD-016=district;SSD-044=distr
 SSD,hmis,last12,qualifier,advancing,2026-07,SSD-002;SSD-009;SSD-010;SSD-020;SSD-021;SSD-022,SSD-026=no-change,
 SSD,hmis,clinics,coverage,share:30%,2025,SSD-014,SSD-036=not-published;SSD-038=none;SSD-030=not-published,
 SSD,emr,governance,qualifier,owner:partner;finance:donor,2026-03-11,SSD-043;SSD-046,,not stated: plan
-SSD,emr,tiers,coverage,T1;T2,2019,SSD-042,,nothing dated since 2023-11-21
-SSD,emr,digitised,coverage,,,,,nothing found
+SSD,emr,tiers,coverage,T1;T2,2019,SSD-042,,nothing dated since 2023-11-25
+SSD,emr,digitised,coverage,point-of-care,2026-09,SSD-047,,
 SSD,emr,last12,qualifier,,,,,nothing found
-SSD,emr,clinics,coverage,pilot,2026-03-11,SSD-045,,
+SSD,emr,clinics,coverage,count:12,2026-09,SSD-048,SSD-045=pilot,

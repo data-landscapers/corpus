@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-01-ssd-low-cost-technology-solutions-for-expanding-quality-services-into-hard",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "WHO's South Sudan knowledge series (September 2026) reports the Digital Care Companion, a clinical decision support system on symbolic AI, logging 3,168 patient visits across 12 facilities in 10 States and Administrative Areas, with clinicians accepting its diagnosis recommendations.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Digital Care Companion",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "WHO reports 64.9% of the Digital Care Companion's diagnosis recommendations were accepted by clinicians and 95.0% of 3,168 logged consultations were completed through all nine steps.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Digital Care Companion",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Care Companion",
+   "country_label": "South Sudan",
+   "class": "sectorai",
+   "platform": "offline-first thin client with Starlink and solar",
+   "owner": "not stated; WHO knowledge series",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

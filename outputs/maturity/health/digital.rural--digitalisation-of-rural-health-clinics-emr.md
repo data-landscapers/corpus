@@ -25,9 +25,9 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 | 5 Mature | 0 |
 | 4 Operating | 0 |
 | 3 Established | 14 |
-| 2 Nascent | 32 |
+| 2 Nascent | 33 |
 | 1 Absent | 2 |
-| Unplaced | 6 |
+| Unplaced | 5 |
 | No evidence | 0 |
 
 ## Countries
@@ -485,6 +485,14 @@ Electronic records run at one government hospital and one clinic (2026); no sour
 - The Government's National Health Compact gives a baseline of 5 health facilities implementing the Electronic Medical Records system against a 2030 target of 1,800, in a network it puts at about 1,463 public facilities including about 24 hospitals; the count is of facilities of all tiers, and the baseline is undated, so the Compact's own date is used ([source, 2025-12-06](https://thedocs.worldbank.org/en/doc/0273f33ab6ee48c5d842108b9b55c789-0140022025/related/National-Health-Compact-Sierra-Leone.pdf)).
 - The Ministry of Health and Sanitation states that it and Smart Systems Sierra Leone Ltd launched the pilot of an EMR at Connaught Hospital in Freetown, to be tested there before expansion to other government facilities; the document calls it a hospital and gives no tier, and gives no launch date, so its published date is used ([source, 2023-10-11](https://mohs.gov.sl/emr-system-to-improve-health-care-delivery-in-sierra-leone/)).
 
+### South Sudan: 2 Nascent
+
+A decision support tool recorded patient visits at 12 facilities in 2026; how many are primary clinics, and who owns it, is not known.
+
+- The Digital Care Companion captures the full patient encounter digitally in the facility, building structured digital profiles that link visits, per WHO's September 2026 series ([source, 2026-09](https://afro.who.int/sites/default/files/2026-09/Knowledge%20Management%20Series%20for%20Health%20-%20DCC%20low%20cost%20technology%20solutions%20for%20expanding%20quality%20services%20into%20hard%20to%20reach%20areas.pdf)).
+- WHO says the Digital Care Companion is logging visits at 12 facilities in 10 States and Administrative Areas and calls for phased expansion to more remote primary clinics ([source, 2026-09](https://afro.who.int/sites/default/files/2026-09/Knowledge%20Management%20Series%20for%20Health%20-%20DCC%20low%20cost%20technology%20solutions%20for%20expanding%20quality%20services%20into%20hard%20to%20reach%20areas.pdf)).
+- WHO's September 2026 series reports Digital Care Companion use at Lafon PHCC, a primary health care centre, among the 12 reporting facilities, with 827 visits logged there ([source, 2026-09](https://afro.who.int/sites/default/files/2026-09/Knowledge%20Management%20Series%20for%20Health%20-%20DCC%20low%20cost%20technology%20solutions%20for%20expanding%20quality%20services%20into%20hard%20to%20reach%20areas.pdf)).
+
 ### Sudan: 2 Nascent
 
 A hospital system with electronic medical records was launched at two hospital sites on 11 May 2026; routine use is not yet shown.
@@ -549,9 +557,3 @@ Not established: The only EMR row (ERI-002) is from the excluded source and sets
 The only record held is one private clinic's in Bissau (June 2023); nothing describes hospitals or primary clinics more widely, so no stage is set.
 
 Not established: Three of the four rows (GNB-003, GNB-004, GNB-005) come from the excluded source and set nothing, including the only paper statements and the only clinics value. The one remaining row (GNB-015) is a single private clinic in Bissau of unstated tier, as at June 2023: it does not carry the country, and nothing is held on tiers, primary clinics, governance or the last twelve months.
-
-### South Sudan: Unplaced
-
-An electronic record tried at two hospitals in 2019 never reached routine use; nothing else shows patient records, so no stage is set.
-
-Not established: The Bahmni EMR deployed at Juba Teaching Hospital and Nimule Hospital in 2019 did not reach routine clinical use or scale and was not accepted for wider use (SSD-042, SSD-043), so no tier has been found as using an EMR; its donor finance is dated 2019, outside the 36 months. SSD-005 is from the excluded source and sets nothing, so no dated statement of paper records at every tier has been found either. systems.csv otherwise holds a noted class, the OpenMRS ART E-register at five sites (tracker), and an unnamed, unclassified 22.4% of facilities with facility-wide electronic systems. A UNDP tender of 11 March 2026 seeks an OpenMRS pilot at Al Sabah Children's Hospital and Munuki primary health care centre (SSD-045): a procurement notice, with no award or use shown.

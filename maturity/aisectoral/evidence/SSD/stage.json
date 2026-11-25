@@ -6,13 +6,13 @@
       "stage": "3",
       "use": "inservice",
       "sectors": "",
-      "results": "",
+      "results": "reported",
       "cap": "",
       "flags": "",
       "stage_sources": "SSD-001",
       "gaps": "No source found since October 2023 says AI is in service in the public systems of two or more sectors.",
-      "note": "UNDP says the Ministry of Health installed AI-assisted X-ray machines for TB detection at two state hospitals in December 2023. No measured results or second sector have been found.",
-      "as_at": "2026-10-22"
+      "note": "UNDP says the Ministry of Health installed AI-assisted X-ray machines for TB detection in December 2023, and WHO reports the Digital Care Companion in 12 facilities in September 2026, with measured results. Both are health; no second sector is found, so 3.",
+      "as_at": "2026-11-25"
     }
   ]
 }

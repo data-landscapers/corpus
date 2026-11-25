@@ -368,6 +368,8 @@ COD,"Programme reporting modules (PNLS, PNLT, PNLP sentinel sites, blood bank)",
 COD,DHIS2,RDC,hmis,DHIS2,,T3;T4,2025-06-16-cod-gff-countdown-analyse-donnees-dhis2-2019-2024
 COD,DHIS2,DRC,hmis,DHIS2,Ministry of Health,,2025-10-15-cod-path-snapiform-ai-health-data-reporting
 COD,OpenMRS HIV module (MVP built April-September 2024 with PATH),DRC,tracker,OpenMRS,PATH DRC,,2024-01-01-cod-case-study-using-the-hiv-package-with-path-drc
+COD,InfoMed SIGL App,InfoMed SIGL App,single-function,,ANAMED,,2026-11-21-cod-sante-la-cnss-engage-1-5-million-pour-digitaliser-la-gestion-de-ses-ce
+COD,Logimev,Logimev,single-function,,,,2026-11-21-cod-sante-la-cnss-engage-1-5-million-pour-digitaliser-la-gestion-de-ses-ce
 COG,e-LMIS,Système intégré de gestion logistique électronique (e-Lmis),single-function,Open mSupply,"Ministère de la Santé et de la Population, with UNDP","54 of 92 planned pilot sites fully operational (UNDP, July 2026); equipment going to health districts, departmental directorates and the central level; extension to other health facilities planned after the pilot",2026-07-18-aci-pnud-equipements-informatiques-e-lmis-sante
 COG,DHIS2 (national HMIS),national HMIS,hmis,DHIS2,"Ministry of Health, with World Bank health project support","aggregate data entry, likely at district level from paper reports; tablets used for verification; no facility-level digital recording evidenced",2026-03-31 Africa we have a data problem
 COG,eLMIS,système électronique d'information sur la gestion logistique (eLMIS),single-function,,"Ministère de la Santé et de la Population, through a technical working group supported by UNFPA and the Global Fund",,2025-12-01-equipe-pays-nations-unies-soumission-epu-congo
@@ -681,6 +683,7 @@ GHA,GhILMIS,Ghana Integrated Logistics Management Information System (GhILMIS),s
 GHA,LHIMS,Ghana,emr,Lightwave Health Information Management System,vendor,T1;T2,2026-01-10-gha-gmj-lessons-discontinued-national-ehr
 GHA,District health information system e-tracker,Ghana,tracker,DHIS2,Ghana Health Service,CHPS;health centres;hospitals,2024-03-14-gha-bawumia-launches-ghana-card-number-at-birth
 GHA,LHIMS,Ghana,emr,Lightwave e-Healthcare Solutions,Ministry of Health (ownership disputed),T1;T2,2025-10-30-gha-akandoh-okoe-boye-trade-words-over-payment-in-national-e-health-projec
+GHA,DHIMS,District Health Information Management System,hmis,,Ministry of Health,,2026-11-24-gha-health-minister-directs-integration-of-dhims-and-ghims-to-unify-health-data-s
 GIN,OpenClinic,logiciel SIH Openclinic / Open Clinic,emr,OpenClinic,Ministry of Health and Public Hygiene (SMSI) with Enabel SAFE project support,"five health facilities in Mamou and Dalaba districts, including the Dalaba prefectural hospital",2026-08-26-lepandaguinee-guinee-a-mamou-et-dalaba-le-pari-de
 GIN,SNIS (DHIS2),système national (DHIS2) / SNIS,hmis,DHIS2,,national system receiving the facilities' reporting data,2026-08-26-lepandaguinee-guinee-a-mamou-et-dalaba-le-pari-de
 GIN,Visa Medical,Visa Medical,emr,Visa Medical (Kouma Academy),"Kouma Academy (private start-up), with Ministry of Health support","19 public establishments / about twenty hospitals, including Dubréka hospital",2026-08-13-guinea-kouma-academy-hospital-digitisation-financing

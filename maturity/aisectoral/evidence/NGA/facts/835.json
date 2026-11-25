@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-13-nga-meet-nora-anambra-s-ai-powered-guide-to-government-information-and-ser",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NORA",
+   "country_label": "Anambra State, Nigeria",
+   "class": "other",
+   "platform": "smart.anambrastate.gov.ng",
+   "owner": "Anambra State ICT Agency",
+   "tiers": ""
+  }
+ ],
+ "note": "NORA is a general government information assistant, not an AI tool inside a sector's public system."
+}

@@ -223,6 +223,8 @@ Clinics reported on paper, and regional health offices entered the figures into 
 
 District offices enter clinics' paper reports into the national system, and some community health posts enter their own (2024); how many is not published.
 
+*Advancing.*
+
 - The same survey presents community health officers' entry of data into DHIMS 2 'at the CHPS level', with routine monthly reporting compliance of 86% to 100% across the six districts (86 CHPS zones, March 2024); the authors add that facility reporting into DHIS2 is often high in Ghana ([source, 2024-03](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0341176)).
 - CHPS staff interviewed in Karaga, Mion and Sagnarigu (March 2024) said the platform is controlled from the district level, that CHPS compounds lack login details and computers, that entry depends on one or two computer-literate staff, and that paper reports are sent to the sub-district or left for the district office to upload into DHIMS2 ([source, 2024-03](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0341176)).
 - A WHO-led five-country study (fieldwork 2016-2017) reports that in the 16 randomly selected public primary facilities visited in Ghana (5 health centres, 10 CHPS or health posts, 1 maternal and child health clinic; 15 rural) monthly reporting forms were tallied on paper from registers and submitted to the district management office, where they were entered into the district management information system ([source, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC8436492/)).

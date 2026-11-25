@@ -264,7 +264,7 @@ South Africa's revenue service used AI against fraudulent tax refunds in 2025; n
 
 ### South Sudan: 3 Established
 
-AI-assisted X-ray machines for TB detection were installed at two state hospitals in 2023; no source found reports measured results.
+AI tools for TB X-rays and clinical decisions were in health facilities by 2026; no second sector with AI in service is known.
 
 - UNDP says the Ministry of Health, with UNDP and Global Fund support, installed two portable AI-assisted digital X-ray machines for TB case detection at Torit and Rumbek state hospitals in December 2023, with four more to follow ([source, 2023-12](https://www.undp.org/south-sudan/blog/technology-accelerates-tb-detection-south-sudan)).
 

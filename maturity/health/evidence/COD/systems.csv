@@ -59,3 +59,5 @@ COD,"Programme reporting modules (PNLS, PNLT, PNLP sentinel sites, blood bank)",
 COD,DHIS2,RDC,hmis,DHIS2,,T3;T4,2025-06-16-cod-gff-countdown-analyse-donnees-dhis2-2019-2024
 COD,DHIS2,DRC,hmis,DHIS2,Ministry of Health,,2025-10-15-cod-path-snapiform-ai-health-data-reporting
 COD,OpenMRS HIV module (MVP built April-September 2024 with PATH),DRC,tracker,OpenMRS,PATH DRC,,2024-01-01-cod-case-study-using-the-hiv-package-with-path-drc
+COD,InfoMed SIGL App,InfoMed SIGL App,single-function,,ANAMED,,2026-11-21-cod-sante-la-cnss-engage-1-5-million-pour-digitaliser-la-gestion-de-ses-ce
+COD,Logimev,Logimev,single-function,,,,2026-11-21-cod-sante-la-cnss-engage-1-5-million-pour-digitaliser-la-gestion-de-ses-ce
