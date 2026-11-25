@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: EGY
-ledger_rows: 81
-not_held: 35
-record: 3f262b27a68c
+ledger_rows: 82
+not_held: 34
+record: f17af3cf8373
 ---
 
 # News, Oct – Nov 2026
@@ -1220,6 +1220,22 @@ Ahmed Abou Hashima put a study to the Egyptian Senate's economic and financial a
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[أحمد أبوهشيمة: مصر لا تبدأ من الصفر فى الذكاء الاصطناعى.. وأصولها الرقمية كنز يجب استثماره](https://www.youm7.com/story/2026/11/23/أحمد-أبوهشيمة-مصر-لا-تبدأ-من-الصفر-فى-الذكاء-الاصطناعى/7629258)** — Youm7, 23 November 2026
+
+Study rapporteur in plenary: 2.5bn e-invoices and receipts, InstaPay EGP 7trn to Sep 2026, hub linking 100 databases.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير الاتصالات  أمام الشيوخ: الذكاء الاصطناعي يدخل  التنبؤ  بايرادات الدولة ورصد المؤشرات الاقتصادية.. رأفت هندي يكشف 3 تطبيقات ذات أولوية.. وربط 105 جهات حكومية و100 قاعدة بيانات قومية لدعم إدارة الاقتصاد](https://www.youm7.com/story/2026/11/23/وزير-الاتصالات-أمام-الشيوخ-الذكاء-الاصطناعي-يدخل-التنبؤ-بايرادات-الدولة/7629432)** — Youm7, 23 November 2026
+
+Three priority AI pilots: revenue forecasting, macro-indicator prediction, deviation analysis; with Finance and Planning.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1247,6 +1263,20 @@ FinTech Gate reported on 23 November 2026 that Egypt's guideline for government 
 **[الحكومة المصرية تضع ضوابط لحماية البيانات الشخصية عند شراء أنظمة الذكاء الاصطناعي](https://www.fintechgate.net/258324)** — FinTech Gate, 23 November 2026
 
 FinTech Gate reported on 23 November 2026 the data protection rules in Egypt's guideline for buying AI systems. Third-party models may not be trained on government data without explicit authorisation. Bidders must disclose storage locations, retention periods, sub-processors and proof of deletion.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Policy on the Responsible Use of AI in Government Entities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Policy on the Responsible Use of Artificial Intelligence in Egyptian Government Entities (first edition)](https://www.ai.gov.eg/SynchedFiles/en/Resources/Policy%20on%20the%20Responsible%20Use%20of%20Artificial%20Intelligence%20in%20Egyptian%20Government%20Entities.pdf)** — National Council for Artificial Intelligence, Quantum Computing and Emerging Technologies (Egypt), 17 November 2026
+
+Egypt's first government-wide AI use policy, in force from 1 October 2026, sets permitted, restricted and prohibited uses.
 
 </div>
 
