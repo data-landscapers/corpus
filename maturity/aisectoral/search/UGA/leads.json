@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://ura.go.ug/en/ura-cg-launches-university-ai-and-robotics-laboratory/",
+  "title": "URA CG launches University AI and Robotics Laboratory",
+  "publisher": "Uganda Revenue Authority",
+  "published": "2025-04-08",
+  "sub_indicator": "sectorai",
+  "why": "URA recovered 200bn shillings via AI"
+ },
+ {
+  "url": "https://grp.cepr.org/steg/projects/embedding-machine-learning-tax-authority-experimental-evidence-uganda",
+  "title": "Embedding Machine Learning into the Tax Authority",
+  "publisher": "CEPR STEG",
+  "published": "",
+  "sub_indicator": "sectorai",
+  "why": "URA rules-based, ML trial planned"
+ },
+ {
+  "url": "https://apsdpr.org/index.php/apsdpr/article/view/770/1612",
+  "title": "Artificial intelligence technologies usage for improved service delivery in Uganda",
+  "publisher": "Africa's Public Service Delivery & Performance Review",
+  "published": "2024-07-24",
+  "sub_indicator": "sectorai",
+  "why": "Six MDAs use AI"
+ },
+ {
+  "url": "https://ict.go.ug/media/news/government-pushes-for-indigenous-ai-solutions-in-health-at-2nd-ai-in-health-africa-conference",
+  "title": "Government Pushes for Indigenous AI Solutions in Health",
+  "publisher": "Ministry of ICT and National Guidance",
+  "published": "2025-11-08",
+  "sub_indicator": "sectorai",
+  "why": "Health AI lab, Mak Ocular"
+ },
+ {
+  "url": "https://www.independent.co.ug/ai70-how-uganda-is-embracing-the-technology/",
+  "title": "AI@70: How Uganda is embracing the technology",
+  "publisher": "The Independent",
+  "published": "2026-09-21",
+  "sub_indicator": "sectorai",
+  "why": "Agriculture and health AI tools"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.linfodrome.com/high-tech/127109-intelligence-artificielle-en-entreprise-a-abidjan-les-experts-appellent-a-encadrer-les-usages",
+  "title": "Intelligence artificielle en entreprise : à Abidjan, les experts appellent à encadrer les usages",
+  "publisher": "Linfodrome",
+  "published": "2026-11-01",
+  "sub_indicator": "law",
+  "why": "Q1: ministry drafting a text to regulate AI"
+ },
+ {
+  "url": "https://www.unesco.org/ethics-ai/en/global-hub/cote-divoire",
+  "title": "Côte d'Ivoire - Global Hub",
+  "publisher": "UNESCO",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "Q1-Q3: no AI-specific legislation adopted"
+ },
+ {
+  "url": "https://anssi.gouv.ci/documents/87/Strat%C3%A9gie_Nationale_de_lIntelligence_Artificielle_250321_041840.pdf",
+  "title": "Stratégie Nationale de l'Intelligence Artificielle à l'horizon 2030",
+  "publisher": "Ministère de la Transition numérique et de la Digitalisation",
+  "published": "2024",
+  "sub_indicator": "law",
+  "why": "Q1: strategy plans an AI law"
+ },
+ {
+  "url": "https://www.aip.ci/aip-la-cote-divoire-reflechit-a-un-cadre-juridique-pour-la-regulation-de-lintelligence-artificielle/",
+  "title": "La Côte d'Ivoire réfléchit à un cadre juridique pour la régulation de l'IA",
+  "publisher": "AIP",
+  "published": "2025-01-30",
+  "sub_indicator": "law",
+  "why": "Q1: legal training towards AI regulation"
+ },
+ {
+  "url": "https://digitalmag.ci/digitalisation-et-regulation-de-la-technologie-de-lintelligence-artificielle-ia-en-cote-divoire/",
+  "title": "Digitalisation et régulation de la technologie de l'IA en Côte d'Ivoire",
+  "publisher": "Digital Mag Côte d'Ivoire",
+  "published": "2026-03-13",
+  "sub_indicator": "law",
+  "why": "Q1-Q2: no specific AI law"
+ },
+ {
+  "url": "https://grain-africa.org/en/report-on-inclusive-and-responsible-artificial-intelligence-in-west-africa-a-comparative-analysis-of-political-legal-and-institutional-frameworks-in-senegal-and-benin/",
+  "title": "Report on Inclusive and Responsible AI in West Africa",
+  "publisher": "GRAIN",
+  "published": "2026-09-13",
+  "sub_indicator": "law",
+  "why": "Q3: no comprehensive AI legislation"
+ },
+ {
+  "url": "https://www.maathis.com/blog/intelligence-artificielle-cote-divoire-enjeux-juridiques",
+  "title": "L'intelligence artificielle en Côte d'Ivoire : enjeux et perspectives juridiques",
+  "publisher": "Maathis",
+  "published": "2026-08-18",
+  "sub_indicator": "law",
+  "why": "Q1-Q3: no text governs AI"
+ },
+ {
+  "url": "https://abidjanpress.com/cote-divoire-plaidoyer-pour-une-intelligence-artificielle-ethique-et-responsable/",
+  "title": "Côte d'Ivoire : plaidoyer pour une IA éthique et responsable",
+  "publisher": "AbidjanPress",
+  "published": "2026-10-27",
+  "sub_indicator": "law",
+  "why": "Q1: ethics code called for"
+ }
+]

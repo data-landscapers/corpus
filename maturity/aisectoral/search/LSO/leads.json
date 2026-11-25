@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.gov.ls/agriculture/through-new-ai-powered-chatbots-developed-by-lesotho-government-farmers-will-now-access-vital-agricultural-information-and-practical-solutions-to-address-national-challenges/",
+  "title": "AI-powered chatbots developed by Lesotho Government for farmers",
+  "publisher": "Government of Lesotho",
+  "published": "2026-10-20",
+  "sub_indicator": "sectorai",
+  "why": "Agriculture AI chatbot being developed"
+ },
+ {
+  "url": "https://www.socialscienceregistry.org/trials/19982",
+  "title": "Improving Agricultural Extension through AI in Lesotho",
+  "publisher": "AEA RCT Registry",
+  "published": "2026-10-26",
+  "sub_indicator": "sectorai",
+  "why": "AI decision support piloted with extension agents"
+ },
+ {
+  "url": "https://www.itu.int/en/ITU-D/Technology/Pages/EmergingTechnologiesPages/project9LES25007.aspx",
+  "title": "Open Source AI for Agriculture in Lesotho",
+  "publisher": "ITU",
+  "published": "",
+  "sub_indicator": "sectorai",
+  "why": "Agrivisory prototype"
+ },
+ {
+  "url": "https://lesotho.co.ls/2026/11/kanono-ramashamole-calls-for-stronger-collaboration-and-practical-innovation-at-lesothos-2nd-national-sti-forum/",
+  "title": "Kanono Ramashamole calls for stronger collaboration",
+  "publisher": "Lesotho NewsDesk",
+  "published": "2026-11-09",
+  "sub_indicator": "sectorai",
+  "why": "AI extension chatbot launch expected December"
+ },
+ {
+  "url": "https://api.oecd.ai/storage/policy-initiatives/Apr2026/117ojp2dncmoa2916t-Lesotho%20Artificial-Intelligence-Policy-Implementation-Plan_0.1.pdf",
+  "title": "Artificial Intelligence Policy and Implementation Plan",
+  "publisher": "Government of Lesotho",
+  "published": "2026",
+  "sub_indicator": "sectorai",
+  "why": "AI in health and agriculture planned"
+ }
+]

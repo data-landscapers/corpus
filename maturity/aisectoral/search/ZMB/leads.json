@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.zambiamonitor.com/techbytes-zra-turns-to-ai-research-to-strengthen-tax-administration/",
+  "title": "Techbytes: ZRA turns to AI, research to strengthen tax administration",
+  "publisher": "Zambia Monitor",
+  "published": "2026-07-16",
+  "sub_indicator": "sectorai",
+  "why": "ZRA AI unit, chatbot, nudging"
+ },
+ {
+  "url": "https://itweb.africa/article/zambia-taps-finland-to-speed-up-national-ai-strategy/wbrpOMg23G37DLZn",
+  "title": "Zambia taps Finland to speed up national AI strategy",
+  "publisher": "ITWeb Africa",
+  "published": "2025-11-27",
+  "sub_indicator": "sectorai",
+  "why": "AI health diagnostics pilot 20 institutions"
+ },
+ {
+  "url": "https://www.connectingafrica.com/ai/zambia-tests-ai-powered-learning-in-schools",
+  "title": "Zambia tests AI-powered learning in schools",
+  "publisher": "Connecting Africa",
+  "published": "2026-03-11",
+  "sub_indicator": "sectorai",
+  "why": "Education AI pilot MoU"
+ },
+ {
+  "url": "https://dailynationzambia.com/%C2%A0--ZRA,-ZAMTEL-turn-to-local-innovation-to-drive-economic-growth--%C2%A0",
+  "title": "ZRA, ZAMTEL turn to local innovation to drive economic growth",
+  "publisher": "Daily Nation Zambia",
+  "published": "2026-11-13",
+  "sub_indicator": "sectorai",
+  "why": "ZRA customs valuation risk engine"
+ },
+ {
+  "url": "https://www.mots.gov.zm/?p=3787",
+  "title": "Artificial intelligence increases ZRA revenue collection by 60 percent",
+  "publisher": "Ministry of Technology and Science",
+  "published": "",
+  "sub_indicator": "sectorai",
+  "why": "ZRA AI revenue result"
+ },
+ {
+  "url": "https://www.agriculture.gov.zm/zari-launches-app-to-diagnose-crop-pest-diseases/",
+  "title": "ZARI launches App to diagnose crop pest, diseases",
+  "publisher": "Ministry of Agriculture",
+  "published": "",
+  "sub_indicator": "sectorai",
+  "why": "PlantVillage AI app"
+ }
+]

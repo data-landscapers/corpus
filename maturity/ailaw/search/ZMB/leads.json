@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://lexlint.io/law/zm",
+  "title": "Zambia: AI, privacy and software law",
+  "publisher": "LexLint",
+  "published": "2026-10-24",
+  "sub_indicator": "law",
+  "why": "Q1-3: no enacted or proposed AI statute"
+ },
+ {
+  "url": "https://www.levellers.ai/what-is/ai-regulation-zambia",
+  "title": "What is AI regulation in Zambia?",
+  "publisher": "Levellers",
+  "published": "2026-06-08",
+  "sub_indicator": "law",
+  "why": "Q1-3: no AI statute; DP bill approved in principle"
+ },
+ {
+  "url": "https://api.oecd.ai/storage/policy-initiatives/Apr2026/117ojpi25umobje3ol-Zambia-Ai-Strategy-Book-option-2.pdf",
+  "title": "National Artificial Intelligence Strategy",
+  "publisher": "Ministry of Technology and Science",
+  "published": "2024-11",
+  "sub_indicator": "law",
+  "why": "Q1: no regulator or law for AI"
+ },
+ {
+  "url": "https://www.trust.org/toolkit/part-2-emerging-ai-governance-in-africa/ai-governance-in-zambia/",
+  "title": "AI governance in Zambia",
+  "publisher": "Thomson Reuters Foundation",
+  "published": "2025-05-07",
+  "sub_indicator": "law",
+  "why": "Q1-2: no AI law"
+ }
+]

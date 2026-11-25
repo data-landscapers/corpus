@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.undp.org/fr/mali/histoires/des-jeunes-des-idees-des-solutions",
+  "title": "Des jeunes, des idees, des solutions",
+  "publisher": "PNUD Mali",
+  "published": "2026-07-30",
+  "sub_indicator": "sectorai",
+  "why": "AI X-ray and crop tools"
+ },
+ {
+  "url": "https://gouvernement.ml/souverainete-technologique-le-president-de-la-transition-inaugure-le-centre-dintelligence-artificielle-et-de-robotique-du-mali/",
+  "title": "Le Président inaugure le CIAR-Mali",
+  "publisher": "Information Gouvernementale du Mali",
+  "published": "2026-09-21",
+  "sub_indicator": "sectorai",
+  "why": "Public AI centre for agriculture and health"
+ },
+ {
+  "url": "https://af.net/fr/realtime/ai-tools-improve-agricultural-yield-forecasting-in-mali-and-senegal/",
+  "title": "Les outils d'IA ameliorent les previsions de rendement agricole",
+  "publisher": "IPS News",
+  "published": "2026-09-22",
+  "sub_indicator": "sectorai",
+  "why": "AI yield forecasting"
+ },
+ {
+  "url": "https://lejalon.com/2026/02/15/concertation-sur-lia-cap-sur-une-adoption-responsable-et-contextualisee-au-mali/",
+  "title": "Concertation sur l'IA au Mali",
+  "publisher": "Le Jalon",
+  "published": "2026-02-15",
+  "sub_indicator": "sectorai",
+  "why": "Pilot projects planned in four sectors"
+ }
+]

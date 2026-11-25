@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.parliament.gov.za/storage/app/media/Docs/exe_rq_na/01pv5mf2cd3qxzqkhdgzclre7urxuxkh3p.pdf",
+  "title": "Written reply to question 5301 on the Draft National AI Policy",
+  "publisher": "Parliament of South Africa",
+  "published": "2026-10-14",
+  "sub_indicator": "law",
+  "why": "Q1: policy withdrawn, revision to Cabinet March 2027"
+ },
+ {
+  "url": "https://www.engineeringnews.co.za/article/revised-national-ai-policy-paper-expected-in-march-2026-10-23",
+  "title": "Revised national AI policy paper expected in March",
+  "publisher": "Engineering News",
+  "published": "2026-10-23",
+  "sub_indicator": "law",
+  "why": "Q1: existing laws being amended"
+ },
+ {
+  "url": "https://iafrica.com/sa-officials-fail-to-brief-parliament-on-ai-policy-redraft-as-mps-weigh-a-dedicated-ai-act/",
+  "title": "SA Officials Fail to Brief Parliament on AI Policy Redraft as MPs Weigh a Dedicated AI Act",
+  "publisher": "iAFRICA",
+  "published": "2026-11-24",
+  "sub_indicator": "law",
+  "why": "Q1: committee researcher proposes AI Act"
+ },
+ {
+  "url": "https://www.ecr.co.za/news/news/calls-grow-for-dedicated-ai-laws-in-south-africa/",
+  "title": "Calls grow for dedicated AI laws in South Africa",
+  "publisher": "Eyewitness News/ECR",
+  "published": "2026-11-18",
+  "sub_indicator": "law",
+  "why": "Q1: position paper calls for AI Act"
+ },
+ {
+  "url": "https://aiguide.co.za/guides/ai-regulation-south-africa",
+  "title": "AI regulation South Africa: where the law stands in 2026",
+  "publisher": "Zaiq",
+  "published": "2026-09-28",
+  "sub_indicator": "law",
+  "why": "Q1-2: no AI Act; HPCSA Booklet 20"
+ },
+ {
+  "url": "https://www.reuters.com/world/africa/south-africa-targets-january-2027-revised-ai-policy-after-earlier-withdrawal-2026-05-26/",
+  "title": "South Africa targets January 2027 for revised AI policy",
+  "publisher": "Reuters",
+  "published": "2026-05-26",
+  "sub_indicator": "law",
+  "why": "Q1: draft policy withdrawn"
+ }
+]

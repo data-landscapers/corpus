@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://finances.gouv.tg/wp-content/uploads/2026/09/SRMT_2027-2031_Version_Finale_30_09_2026.pdf",
+  "title": "Strategie de Mobilisation des Recettes (SRMT 2027-2031)",
+  "publisher": "Ministere des Finances du Togo",
+  "published": "2026-09",
+  "sub_indicator": "sectorai",
+  "why": "AI risk analysis planned for customs and tax"
+ },
+ {
+  "url": "https://lanouvellerepublique.net/diplomatie-2/eco-et-finances/ia-et-cybersecurite-le-togo-va-investir-pres-de-6-milliards-fcfa-dans-la-transformation-de-son-administration-fiscale/",
+  "title": "IA et cybersecurite : le Togo va investir pres de 6 milliards FCFA dans la transformation de son administration fiscale",
+  "publisher": "La Nouvelle Republique",
+  "published": "2026-10-04",
+  "sub_indicator": "sectorai",
+  "why": "ML scoring for tax risk funded"
+ },
+ {
+  "url": "https://numerique.gouv.tg/actualites/le-togo-mobilise-ses-citoyens-pour-creer-une-intelligence-artificielle-qui-parle-ses-50-langues-nationales",
+  "title": "Le Togo mobilise ses citoyens pour creer une intelligence artificielle qui parle ses 50 langues nationales",
+  "publisher": "Republique Togolaise",
+  "published": "2026-10-02",
+  "sub_indicator": "sectorai",
+  "why": "Local-language AI for health, justice services being built"
+ },
+ {
+  "url": "https://fundinnovation.dev/news/immersion-togo-ai-lab-service-politiques-publiques",
+  "title": "Immersion : le Togo AI Lab au service des politiques publiques",
+  "publisher": "Fonds d'Innovation pour le Developpement",
+  "published": "2026-06-16",
+  "sub_indicator": "sectorai",
+  "why": "Predictive crop models, dashboards for ~20 ministries"
+ },
+ {
+  "url": "https://datalab.gouv.tg/projets/developpement-d-un-chatbot-medical-intelligent-pour-la-prevention-du-cancer-du-sein-au-togo",
+  "title": "Development of an Intelligent Medical Chatbot for Breast Cancer Prevention in Togo",
+  "publisher": "Togo AI Lab",
+  "published": "2025-05",
+  "sub_indicator": "sectorai",
+  "why": "Health chatbot prototype"
+ },
+ {
+  "url": "https://datalab.gouv.tg/projets/cas-dusage-annotation-des-parcelles-agricoles",
+  "title": "Use case: Annotating farmland plots",
+  "publisher": "Togo AI Lab",
+  "published": "2026-04",
+  "sub_indicator": "sectorai",
+  "why": "Agricultural ML mapping model being built"
+ },
+ {
+  "url": "https://www.republicoftogo.com/toutes-les-rubriques/high-tech/ia-au-service-du-togo-sante-education-agriculture-un-futur-deja-en-marche",
+  "title": "IA au service du Togo : sante, education, agriculture... un futur deja en marche",
+  "publisher": "Republique Togolaise",
+  "published": "2025-09-02",
+  "sub_indicator": "sectorai",
+  "why": "Overview of AI uses in sectors"
+ }
+]

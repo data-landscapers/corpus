@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://ict.go.ug/site/documents/uganda-artificial-intelligence-readiness-assessment-report.pdf",
+  "title": "Uganda Artificial Intelligence Readiness Assessment Report",
+  "publisher": "Ministry of ICT and National Guidance / UNESCO",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "Q1-3: no AI-specific legal framework"
+ },
+ {
+  "url": "https://nilepost.co.ug/news/366709/government-develops-national-ai-strategy-wants-computer-misuse-act-amended",
+  "title": "Government develops national AI strategy, wants Computer Misuse Act Amended",
+  "publisher": "Nile Post",
+  "published": "2026-08-26",
+  "sub_indicator": "law",
+  "why": "Q1: strategy draft, no AI bill"
+ },
+ {
+  "url": "https://practiceguides.chambers.com/practice-guides/artificial-intelligence-2026/uganda/trends-and-developments/O25622",
+  "title": "Artificial Intelligence 2026: Uganda",
+  "publisher": "Chambers",
+  "published": "2026-05-21",
+  "sub_indicator": "law",
+  "why": "Q1-3: no AI act; pipeline none binding"
+ },
+ {
+  "url": "https://nilepost.co.ug/news/280076/uganda-law-society-pushes-for-ai-regulations-in-copyright-bill",
+  "title": "Uganda Law Society Pushes for AI Regulations in Copyright Bill",
+  "publisher": "Nile Post",
+  "published": "2025-08-13",
+  "sub_indicator": "law",
+  "why": "Q1: AI provisions proposed in copyright bill"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2026-05/rapport_annuel_2025_pnud_mauritanie.pdf",
+  "title": "Rapport Annuel 2025",
+  "publisher": "PNUD Mauritanie",
+  "published": "2026-05",
+  "sub_indicator": "sectorai",
+  "why": "AI early warning in agriculture with ONM"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2026-09/mr-impact_semestre1-2026-pnud-mauritanie.pdf",
+  "title": "IMPACT semestre 1 2026",
+  "publisher": "PNUD Mauritanie",
+  "published": "2026-09",
+  "sub_indicator": "sectorai",
+  "why": "AGRIFEMIA AI app"
+ },
+ {
+  "url": "https://rafikiai.africa/case-studies/hydrometai.html",
+  "title": "HydrometAI case study",
+  "publisher": "Rafiki AI",
+  "published": "",
+  "sub_indicator": "sectorai",
+  "why": "SAP-HydroIA early warning run for government"
+ },
+ {
+  "url": "https://mtnima.gov.mr/wp-content/uploads/2024/07/THE-NATIONAL-ARTIFICIAL-INTELLIGENCE-STRATEGY-OF-MAURITANIA-26-07-2024.pdf",
+  "title": "National AI Strategy of Mauritania",
+  "publisher": "Ministry of Digital Transformation",
+  "published": "2024-07",
+  "sub_indicator": "sectorai",
+  "why": "planned sector AI projects"
+ },
+ {
+  "url": "https://cridem.org/C_Info.php?article=798432",
+  "title": "L'intelligence artificielle au service de l'emergence",
+  "publisher": "Cridem",
+  "published": "2026-11-13",
+  "sub_indicator": "sectorai",
+  "why": "state of AI use"
+ }
+]

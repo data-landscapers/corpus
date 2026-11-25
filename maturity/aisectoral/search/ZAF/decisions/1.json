@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use;sectors;results",
+ "fact": "SARS told Parliament its suite had 20 machine learning models, 100% of standard audit cases were selected through automated risk assessment, and automated risk-engine cases yielded R62 billion in 2023/24.",
+ "title": "SARS Annual Report 2023/24 presentation to the Standing Committee on Finance",
+ "publisher": "SARS",
+ "published": "2024-10-22",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use;results",
+ "fact": "SARS's commissioner said 96% of compliance risks flagged by automated risk engines were correctly identified and detection yielded over R79 billion in 2022/23.",
+ "title": "Data-driven insights help SARS yield gains for fiscus",
+ "publisher": "ITWeb",
+ "published": "2023-10-23",
+ "date_source": "source",
+ "why_not": ""
+}

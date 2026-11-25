@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/2411-143746-ia-le-tchad-veut-renforcer-ses-capacites-nationales-avec-un-laboratoire-soutenu-par-l-uit",
+  "title": "IA : le Tchad veut renforcer ses capacites nationales avec un laboratoire soutenu par l'UIT",
+  "publisher": "Agence Ecofin",
+  "published": "2026-11-24",
+  "sub_indicator": "sectorai",
+  "why": "AI lab plans; no sector AI in service"
+ },
+ {
+  "url": "https://salaminfo.com/2026/11/18/le-tchad-sollicite-lappui-de-luit-pour-accelerer-le-developpement-de-lintelligence-artificielle/",
+  "title": "Le Tchad sollicite l'appui de l'UIT pour accelerer le developpement de l'intelligence artificielle",
+  "publisher": "SALAM Info",
+  "published": "2026-11-18",
+  "sub_indicator": "sectorai",
+  "why": "Pilots envisaged in administration, agriculture"
+ },
+ {
+  "url": "https://revues.cirad.fr/index.php/REMVT/article/view/37898",
+  "title": "Conception d'un systeme spatial d'aide a la decision pour la collecte et la surveillance des maladies animales au Mayo-Kebbi Ouest, Tchad",
+  "publisher": "Revue d'elevage et de medecine veterinaire des pays tropicaux",
+  "published": "2026-11-05",
+  "sub_indicator": "sectorai",
+  "why": "Animal health decision support pilot"
+ },
+ {
+  "url": "https://www.atpe.td/intelligence-artificielle-le-tchad-cree-un-laboratoire-interdisciplinaire-de-recherche-au-cnrd/",
+  "title": "Intelligence artificielle : Le Tchad cree un Laboratoire interdisciplinaire de recherche au CNRD",
+  "publisher": "ATPE",
+  "published": "2026-08-04",
+  "sub_indicator": "sectorai",
+  "why": "LIDIA lab created for sector AI research"
+ },
+ {
+  "url": "https://www.unesco.org/ethics-ai/fr/chad",
+  "title": "Tchad | Global AI Ethics and Governance Observatory",
+  "publisher": "UNESCO",
+  "published": "",
+  "sub_indicator": "sectorai",
+  "why": "Readiness: no sector AI systems"
+ },
+ {
+  "url": "https://primature.gouv.td/wp-content/uploads/2025/02/Projet-de-Declaration-politique-du-Gouvernement-.pdf",
+  "title": "Declaration de politique generale du Premier Ministre",
+  "publisher": "Primature du Tchad",
+  "published": "2025-02",
+  "sub_indicator": "sectorai",
+  "why": "Plans AI irrigation in agriculture"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use",
+ "fact": "The agriculture ministry's Pole Digital has developed three generative-AI agents for farmers since 2025, including one covering 22 sectors and FDA subsidies.",
+ "title": "Programme Innovation",
+ "publisher": "Pole Digital de l'Agriculture, de la Foret et Observatoire de la Secheresse",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

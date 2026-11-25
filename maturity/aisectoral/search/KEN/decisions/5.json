@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use",
+ "fact": "A machine learning model forecasting acute child malnutrition from Kenya Health Information System data reached 89% one-month accuracy, and a prototype dashboard was being prepared with the Ministry of Health.",
+ "title": "Child malnutrition in Kenya: AI model can forecast rates six months before they become critical",
+ "publisher": "Gavi VaccinesWork",
+ "published": "2025-10-13",
+ "date_source": "source",
+ "why_not": ""
+}

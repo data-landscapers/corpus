@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.aci.cg/congo-recherche-scientifique-une-nouvelle-loi-pour-structurer-le-secteur-et-encadrer-lia/",
+  "title": "Congo/Recherche scientifique : Une nouvelle loi pour structurer le secteur et encadrer l'IA",
+  "publisher": "Agence Congolaise d'information",
+  "published": "2026-04-10",
+  "sub_indicator": "law",
+  "why": "Q1-Q2: research law with AI ethics framework adopted"
+ },
+ {
+  "url": "https://www.aci.cg/congo-technologie-necessite-dintegrer-un-comite-national-dethique-dans-la-future-strategie-nationale-de-lia/",
+  "title": "Nécessité d'intégrer un Comité national d'éthique dans la future stratégie nationale de l'IA",
+  "publisher": "Agence Congolaise d'information",
+  "published": "2026-05-20",
+  "sub_indicator": "law",
+  "why": "Q2: research law awaiting promulgation"
+ },
+ {
+  "url": "https://www.aci.cg/congo-technologies-le-gouvernement-fixe-trois-priorites-pour-une-regulation-efficace/",
+  "title": "Le gouvernement fixe trois priorités pour une régulation efficace",
+  "publisher": "Agence Congolaise d'information",
+  "published": "2026-01-17",
+  "sub_indicator": "law",
+  "why": "Q1: national AI regulation framework priority"
+ },
+ {
+  "url": "https://lanouvellerepublique.cg/2026/05/10/numerique-le-congo-lance-les-travaux-de-sa-strategie-nationale-de-lintelligence-artificielle/",
+  "title": "Le Congo lance les travaux de sa stratégie nationale de l'IA",
+  "publisher": "La Nouvelle République",
+  "published": "2026-05-10",
+  "sub_indicator": "law",
+  "why": "Q1: strategy drafting"
+ },
+ {
+  "url": "https://ailawradar.com/jurisdictions/congo-brazzaville",
+  "title": "Republic of the Congo: AI regulation & deadlines",
+  "publisher": "AI Law Radar",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1-Q2: no AI-specific statute"
+ },
+ {
+  "url": "https://numerique.gouv.cg/actualites/intelligence-artificielle-et-gouvernance-des-donnees",
+  "title": "Intelligence artificielle et gouvernance des données",
+  "publisher": "MPTEN",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1: governance framework"
+ }
+]

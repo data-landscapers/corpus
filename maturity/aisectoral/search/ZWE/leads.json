@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.zimra.co.zw/about-us/strategic-plan?download=4508%3Azimra-strategic-plan-2026-2030-final",
+  "title": "ZIMRA Strategic Plan 2026-2030",
+  "publisher": "Zimbabwe Revenue Authority",
+  "published": "2026",
+  "sub_indicator": "sectorai",
+  "why": "AI-based customs risk planned"
+ },
+ {
+  "url": "https://zimbabwe.un.org/en/311859-zimbabwe-unveils-2026%E2%80%932030-ai-strategy-advance-inclusive-digital-transformation",
+  "title": "Zimbabwe Unveils 2026-2030 AI Strategy",
+  "publisher": "United Nations in Zimbabwe",
+  "published": "2026-03-14",
+  "sub_indicator": "sectorai",
+  "why": "Flagship AI projects planned"
+ },
+ {
+  "url": "https://www.fao.org/africa/news-stories/news-detail/fao-showcases-ai-driven-agriculture-solutions-at-zimbabwe-defence-university/en",
+  "title": "FAO showcases AI-driven agriculture solutions at ZDU",
+  "publisher": "FAO",
+  "published": "2026-01-30",
+  "sub_indicator": "sectorai",
+  "why": "EOSTAT AI crop monitoring in Zimbabwe"
+ },
+ {
+  "url": "https://www.fao.org/africa/news-stories/news-detail/zimbabwe-strengthens-digital-agriculture-through-genai-training-for-agricultural-extension-officers/en",
+  "title": "Zimbabwe strengthens digital agriculture through GenAI training",
+  "publisher": "FAO",
+  "published": "2025-12-15",
+  "sub_indicator": "sectorai",
+  "why": "Extension officer GenAI training"
+ }
+]

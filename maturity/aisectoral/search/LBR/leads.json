@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://pihliberia.org/news/cphia-2025",
+  "title": "At CPHIA 2025",
+  "publisher": "Partners In Health Liberia",
+  "published": "2026-02-23",
+  "sub_indicator": "sectorai",
+  "why": "AI TB screening in use at Maryland County hospital with government"
+ },
+ {
+  "url": "https://www.moa.gov.lr/media/press-releases/agriculture-ministry-and-lifaas-host-generative-ai-workshop-strengthen",
+  "title": "Agriculture Ministry and LIFAAS Host Generative AI Workshop",
+  "publisher": "Ministry of Agriculture",
+  "published": "2025-10-02",
+  "sub_indicator": "sectorai",
+  "why": "Agriculture AI extension workshop, status of use"
+ },
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/project-related-procurement/5a_reoi_international_consultants_to_develop_and_operationalize_an_automated_decision_management_system_new.pdf",
+  "title": "REOI Automated Decision Management System for Climate Services",
+  "publisher": "Environmental Protection Agency Liberia",
+  "published": "2026-02-12",
+  "sub_indicator": "sectorai",
+  "why": "AI/ML climate decision system being built for sectors"
+ },
+ {
+  "url": "https://www.undp.org/liberia/speeches/undp-liberia-ai-workshop",
+  "title": "UNDP Liberia AI workshop",
+  "publisher": "UNDP",
+  "published": "2025-11-19",
+  "sub_indicator": "sectorai",
+  "why": "State of AI in health and agriculture"
+ },
+ {
+  "url": "https://development.mfdp.gov.lr/activities/2396",
+  "title": "AI-Powered Digital Health, Education & Civic Empowerment Platform",
+  "publisher": "Liberia Development Dashboard (MFDP)",
+  "published": "2026",
+  "sub_indicator": "sectorai",
+  "why": "AI triage platform aligned to Ministry of Health"
+ }
+]

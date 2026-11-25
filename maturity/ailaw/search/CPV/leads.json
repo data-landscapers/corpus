@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://advogados.cv/en/direito-da-informatica/",
+  "title": "Digital and data law in Cabo Verde",
+  "publisher": "Advogados.cv",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1: no AI instrument"
+ },
+ {
+  "url": "https://kabuverdi.cv/noticias/37825",
+  "title": "Cabo Verde avalia condições para adoção responsável da IA através do diagnóstico AILA",
+  "publisher": "Kabu Verdi",
+  "published": "2026-11-13",
+  "sub_indicator": "law",
+  "why": "Q1: legal framework still needed"
+ },
+ {
+  "url": "https://www.rfi.fr/pt/programas/convidado/20250212-cabo-verde-participa-em-painel-sobre-papel-de-%C3%A1frica-na-governa%C3%A7%C3%A3o-global-da-ia",
+  "title": "Cabo Verde participa em painel sobre papel de África na Governação Global da IA",
+  "publisher": "RFI",
+  "published": "2025-02-12",
+  "sub_indicator": "law",
+  "why": "Q1: working on legal framework for AI regulation"
+ },
+ {
+  "url": "https://lexlint.io/law/cv",
+  "title": "Cabo Verde: AI, privacy and software law",
+  "publisher": "LexLint",
+  "published": "2026-11-14",
+  "sub_indicator": "law",
+  "why": "Q1-Q3: no AI statute"
+ },
+ {
+  "url": "https://www.cnpd.cv/declaracao-conjunta-das-autoridades-de-protecao-sobre-os-riscos-para-a-protecao-de-dados-e-vida-privada-em-relacao-ao-conteudo-gerado-pela-ia/",
+  "title": "Declaração conjunta das autoridades de proteção sobre conteúdo gerado pela IA",
+  "publisher": "CNPD",
+  "published": "2026-02-27",
+  "sub_indicator": "law",
+  "why": "Q1: regulator statement"
+ },
+ {
+  "url": "https://www.rtc.cv/rcv/audio-details/plataforma-das-ong-rsquo-s-reforma-estatutos-para-criar-conselho-consultivo-13236",
+  "title": "Governo prepara lei-quadro e estratégia nacional para a inteligência artificial",
+  "publisher": "RTC",
+  "published": "2025-02-11",
+  "sub_indicator": "law",
+  "why": "Q1: framework law being prepared"
+ }
+]

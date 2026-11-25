@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "standing",
+ "fact": "A journal article published in September 2026 states that Algerian law has no specific law or comprehensive legislative framework regulating artificial intelligence.",
+ "title": "التأطير القانوني الجزائري للذكاء الاصطناعي في البيئة الرقمية",
+ "publisher": "Algerian Journal of Legal and Political Sciences",
+ "published": "2026-09",
+ "date_source": "source",
+ "why_not": ""
+}

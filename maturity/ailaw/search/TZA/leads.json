@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.ega.go.tz/uploads/standarddocuments/sw-1788520404-FINAL%20Standards%20and%20Guidelines%20for%20Artificial%20Intelligence%20%28AI%29%20in%20Public%20Institution_Signed%20%281%29.pdf",
+  "title": "Standards and Guidelines for Management, Implementation and Responsible Use of AI in Public Institutions",
+  "publisher": "e-Government Authority",
+  "published": "2026-08",
+  "sub_indicator": "law",
+  "why": "Q2: AI standards issued under e-Government Act"
+ },
+ {
+  "url": "https://www.clydeco.com/en/insights/2026/07/the-use-of-artificial-intelligence-ai-in-tanzania",
+  "title": "The Use of AI in Tanzania: What Entities Need to Know About Data Protection",
+  "publisher": "Clyde & Co",
+  "published": "2026-07-20",
+  "sub_indicator": "law",
+  "why": "Q1-3: no AI-specific legislation"
+ },
+ {
+  "url": "https://dig.watch/event/wsis-forum-2026/tanzania-e-government-ai-initiatives-to-enhance-service-delivery",
+  "title": "Tanzania e-Government AI initiatives to enhance service delivery",
+  "publisher": "Digital Watch Observatory",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "Q1: ICT Act and AI guidelines awaiting approval"
+ },
+ {
+  "url": "https://www.mawasiliano.go.tz/uploads/documents/sw-1749982790-Guidelines%20for%20AI%20ethical%20USE%20Guideline%20MICIT%202025ver.pdf",
+  "title": "Guidelines for the Secure and Ethical Use of AI in Tanzania (draft)",
+  "publisher": "Ministry of Communication and Information Technology",
+  "published": "2024-06",
+  "sub_indicator": "law",
+  "why": "Q1: no AI legislation yet"
+ },
+ {
+  "url": "https://www.mwananchi.co.tz/mw/habari/kitaifa/wabunge-wataka-sera-sheria-ya-akili-mnemba-5036520",
+  "title": "Wabunge wataka sera, sheria ya akili mnemba",
+  "publisher": "Mwananchi",
+  "published": "2025-05-10",
+  "sub_indicator": "law",
+  "why": "Q1: no AI policy or law (Swahili)"
+ }
+]

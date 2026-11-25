@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use",
+ "fact": "The DGI uses AI-based risk scoring to detect high-risk taxpayers and runs a 24/7 chatbot for users.",
+ "title": "Les Perspectives de l'Intelligence Artificielle dans l'Administration Fiscale au Maroc",
+ "publisher": "Revue du Controle de la Comptabilite et de l'Audit",
+ "published": "2025-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

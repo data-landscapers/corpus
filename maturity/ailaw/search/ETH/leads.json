@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.ena.et/web/eng/w/eng_9629721",
+  "title": "Council of Ministers Refers Key Bills to HPR on Governance, Data, Power and Defense",
+  "publisher": "ENA",
+  "published": "2026-09-28",
+  "sub_indicator": "law",
+  "why": "Q1: data governance bill to parliament, AI research"
+ },
+ {
+  "url": "https://www.kas.de/documents/13332971/46464125/Policy+Brief+-+Digital+Version.pdf/fb1ec2aa-7d1f-ae0c-2d75-9843ff545476?version=1.0",
+  "title": "Artificial Intelligence and Cybersecurity in Ethiopia: Mapping the Interface",
+  "publisher": "Konrad Adenauer Stiftung",
+  "published": "2026-05",
+  "sub_indicator": "law",
+  "why": "Q1: draft AI proclamation 2025 being finalised"
+ },
+ {
+  "url": "https://academic.oup.com/spp/article-abstract/53/2/236/8654722",
+  "title": "Strategy as governance: the governance of AI in Africa",
+  "publisher": "Science and Public Policy",
+  "published": "2026-04-16",
+  "sub_indicator": "law",
+  "why": "Q1: Draft AI Development and Regulation Proclamation 2025"
+ },
+ {
+  "url": "https://www.unesco.org/ethics-ai/en/ethiopia",
+  "title": "Ethiopia - Global AI Ethics and Governance Observatory",
+  "publisher": "UNESCO",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "Q1/Q2: no AI-specific binding legislation"
+ },
+ {
+  "url": "https://justice.gov.et/en/law/artificial-intelligence-institute-establishment-council-of-ministers-regulation-customs-regulation-council-of-ministers-regulation-no-510-2022/",
+  "title": "Artificial Intelligence Institute Establishment Council of Ministers Regulation No. 510/2022",
+  "publisher": "Ministry of Justice",
+  "published": "2022-04-23",
+  "sub_indicator": "law",
+  "why": "Q2: regulation in force with AI authorization power"
+ }
+]

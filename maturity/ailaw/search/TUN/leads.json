@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.arp.tn/document/download/117482",
+  "title": "Compte rendu de la commission des droits et libertés, 17 février 2026",
+  "publisher": "Assemblée des représentants du peuple",
+  "published": "2026-02",
+  "sub_indicator": "law",
+  "why": "Q1: committee minutes on bill 095/2025 with a chapter on AI processing"
+ },
+ {
+  "url": "https://businessnews.com.tn/2026/02/18/arp-audition-autour-du-projet-de-loi-sur-la-protection-des-donnees-personnelles/1388983/",
+  "title": "ARP : audition autour du projet de loi sur la protection des données personnelles",
+  "publisher": "Business News",
+  "published": "2026-02-18",
+  "sub_indicator": "law",
+  "why": "Q1: bill before committee, chair says it frames use of AI"
+ },
+ {
+  "url": "https://africanmanager.com/protection-des-donnees-personnelles-larp-veut-faire-barrage-aux-risques-de-lia-et-des-algorithmes/",
+  "title": "L'ARP veut faire barrage aux risques de l'IA et des algorithmes",
+  "publisher": "African Manager",
+  "published": "2026-02-19",
+  "sub_indicator": "law",
+  "why": "Q1: draft organic law regulating AI use in committee"
+ },
+ {
+  "url": "https://www.elair-avocat.com/en/news/gdpr-tunisian-law-ai-obligations-2026/",
+  "title": "GDPR, Tunisian Law and AI: Obligations in 2026",
+  "publisher": "El Air Avocat",
+  "published": "2026-10-07",
+  "sub_indicator": "law",
+  "why": "Q1-3: no AI law; bill 095/2025 has AI provisions"
+ },
+ {
+  "url": "https://ar.tunisienumerique.com/",
+  "title": "مقترح قانون جديد يُنظّم الذكاء الاصطناعي - تونس الرقمية",
+  "publisher": "Tunisie Numérique",
+  "published": "2026-02-19",
+  "sub_indicator": "law",
+  "why": "Q1: Arabic report of the same bill"
+ }
+]

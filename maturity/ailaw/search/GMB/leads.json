@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.techandjustice.bsg.ox.ac.uk/thegambia-3447303d-c9d6-4476-963c-02898588dc35",
+  "title": "The Gambia | Limited AI deployment and regulation",
+  "publisher": "Oxford Institute of Technology and Justice",
+  "published": "2026-06",
+  "sub_indicator": "law",
+  "why": "Q1: no AI legislation or proposed legislation as at June 2026"
+ },
+ {
+  "url": "https://unctad.org/system/files/non-official-document/ecn162026_s08_ai_gambia_en.pdf",
+  "title": "Science, Technology and Innovation in the Age of AI: statement by The Gambia",
+  "publisher": "UNCTAD CSTD",
+  "published": "2026-04",
+  "sub_indicator": "law",
+  "why": "Q1: government says developing AI policy"
+ },
+ {
+  "url": "https://mofea.gov.gm/wp-content/uploads/2025/12/2026-Budget-Speech_Dec_2.pdf",
+  "title": "2026 Budget Speech",
+  "publisher": "Ministry of Finance and Economic Affairs",
+  "published": "2025-12-02",
+  "sub_indicator": "law",
+  "why": "Q1: AI policy formulation initiated"
+ },
+ {
+  "url": "https://assembly.gm/tenders/notice-of-request-for-technical-and-financial-proposals-for-consultancy-services-for-the-development-of-an-ict-policy-ai-policy-and-specialised-ict-staff-capacity-building-programme",
+  "title": "Request for proposals: ICT policy, AI policy",
+  "publisher": "National Assembly of The Gambia",
+  "published": "2026-10-29",
+  "sub_indicator": "law",
+  "why": "Q1: AI policy only"
+ }
+]

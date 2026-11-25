@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use",
+ "fact": "The Ministry of Agriculture presented Aqua Min 360, an application built with a national AI model by the northern canal company to analyse pumping-station data and recommend pumping schedules.",
+ "title": "Ministère de l'Agriculture : présentation de l'application numérique « Aqua Min 360 »",
+ "publisher": "Tunisie Numerique",
+ "published": "2026-11-24",
+ "date_source": "source",
+ "why_not": ""
+}

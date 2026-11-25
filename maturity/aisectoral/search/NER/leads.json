@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://adn.ne/formation-rayuwa-ladn-renforce-les-capacites-des-institutions-techniques-pour-une-agriculture-plus-resiliente/",
+  "title": "Formation Rayuwa",
+  "publisher": "ADN",
+  "published": "2025-08-29",
+  "sub_indicator": "sectorai",
+  "why": "AI platform for agro services"
+ },
+ {
+  "url": "https://api.oecd.ai/storage/policy-initiatives/Nov2026/f7qzmr1arjmwjcjbf2-niger-ai-companion-deck.pptx.pdf",
+  "title": "A voice-first AI service for people-centred justice in Niger",
+  "publisher": "Justice Innovation Lab",
+  "published": "2026-11",
+  "sub_indicator": "sectorai",
+  "why": "AI voice companion pilot results justice"
+ },
+ {
+  "url": "https://mcnti.gouv.ne/le-niger-renforce-lacces-aux-soins-grace-a-la-digitalisation-du-systeme-de-sante/",
+  "title": "Le Niger renforce l'acces aux soins grace a la digitalisation",
+  "publisher": "MCNTI",
+  "published": "2025-11-06",
+  "sub_indicator": "sectorai",
+  "why": "health digital projects"
+ },
+ {
+  "url": "https://core.unesco.org/fr/project/A210492031",
+  "title": "Renforcement des capacites des pouvoirs publics ... gouvernance ethique de l'IA",
+  "publisher": "UNESCO",
+  "published": "",
+  "sub_indicator": "sectorai",
+  "why": "sector workshops planned"
+ }
+]

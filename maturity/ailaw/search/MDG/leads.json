@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://parlement.mg/fr/textes/projet-de-loi-n442026-du-04-aout-2026-autorisant-ladhesion-de-la-republique-de-madagascar-a-lorganisation-mondiale-de-la-cooperation-en-matiere-dintelligence-artificielle-dite-omcia-ou-waico-shangai-chine-le-17-juillet-2026/",
+  "title": "Projet de Loi n°44/2026 autorisant l'adhésion à l'OMCIA/WAICO",
+  "publisher": "Assemblée Nationale",
+  "published": "2026-11-10",
+  "sub_indicator": "law",
+  "why": "Q1: bill on AI organisation accession"
+ },
+ {
+  "url": "https://www.unesco.org/fr/articles/les-juges-malgaches-adoptent-une-charte-ethique-pour-encadrer-lutilisation-de-lia-devant-les",
+  "title": "Les juges malgaches adoptent une Charte éthique pour encadrer l'utilisation de l'IA",
+  "publisher": "UNESCO",
+  "published": "2026-06-19",
+  "sub_indicator": "law",
+  "why": "Q2: judicial AI charter"
+ },
+ {
+  "url": "https://www.justice.mg/?page=4",
+  "title": "Ministère de la Justice: atelier IA du Conseil d'État",
+  "publisher": "Ministère de la Justice",
+  "published": "2026-10",
+  "sub_indicator": "law",
+  "why": "Q2: AI use in courts"
+ },
+ {
+  "url": "https://www.assemblee-nationale.mg/media/archives_textes/pl/2014-038/Loi-n2014-038-sur-la-protection-des-donn%C3%A9es-%C3%A0-Kre-personnel.pdf",
+  "title": "Loi n° 2014-038 sur la protection des données à caractère personnel",
+  "publisher": "Assemblée nationale",
+  "published": "2014",
+  "sub_indicator": "law",
+  "why": "Q2: automated decision rule (data protection)"
+ }
+]

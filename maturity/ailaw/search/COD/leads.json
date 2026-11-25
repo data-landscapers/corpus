@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.osiris.sn/en-rdc-le-cadre-reglementaire-de-la-cybersecurite-entre-dans-une-nouvelle-phase.html",
+  "title": "En RDC, le cadre réglementaire de la cybersécurité entre dans une nouvelle phase",
+  "publisher": "OSIRIS",
+  "published": "2026-11-04",
+  "sub_indicator": "law",
+  "why": "Q1: draft ministerial orders incl. AI registers"
+ },
+ {
+  "url": "https://www.unesco.org/fr/articles/la-rdc-se-dote-dune-strategie-nationale-pour-une-intelligence-artificielle-ethique-et-inclusive",
+  "title": "La RDC se dote d'une stratégie nationale pour une IA éthique et inclusive",
+  "publisher": "UNESCO",
+  "published": "2026-08-05",
+  "sub_indicator": "law",
+  "why": "Q1: strategy validated"
+ },
+ {
+  "url": "https://reveil-congo.net/tribunes/intelligence-artificielle-en-rdc-entre-vide-juridique-et-urgence-legislative/",
+  "title": "Intelligence artificielle en RDC : entre vide juridique et urgence législative",
+  "publisher": "Réveil Congo",
+  "published": "2026-02-10",
+  "sub_indicator": "law",
+  "why": "Q1-Q2: no dedicated AI section in Digital Code"
+ },
+ {
+  "url": "https://sg.devdantic.com/2026/08/01/economie-numerique-les-participants-a-latelier-de-validation-technique-approuvent-le-projet-de-la-strategie-nationale-de-lintelligence-artificielle/",
+  "title": "Les participants approuvent le projet de la stratégie nationale de l'IA",
+  "publisher": "Secrétariat Général à l'Économie du Numérique",
+  "published": "2026-08-01",
+  "sub_indicator": "law",
+  "why": "Q1: strategy governance and regulation pillar"
+ },
+ {
+  "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7279202",
+  "title": "AI Regulation in the DRC: Designing a Rights-Based Governance Framework",
+  "publisher": "SSRN",
+  "published": "2026-08-13",
+  "sub_indicator": "law",
+  "why": "Q1: no dedicated AI law"
+ },
+ {
+  "url": "https://www.unesco.org/ethics-ai/fr/drc",
+  "title": "La République Démocratique du Congo - Observatoire",
+  "publisher": "UNESCO",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "Q1: no coordination body"
+ },
+ {
+  "url": "https://droitnumerique.cd/wp-content/uploads/2024/08/Prof.-KODJO-Politique-dIA-et-prise-de-decision-automatisee-1.pdf",
+  "title": "Politiques de l'IA et de prise de décision automatisée en RD.Congo",
+  "publisher": "Droit-Numerique (Brozeck Kandolo)",
+  "published": "2024-08",
+  "sub_indicator": "law",
+  "why": "Q1: no hard law on AI"
+ },
+ {
+  "url": "https://gpg-pdf.chambers.com/investing-in-2026/210/",
+  "title": "Investing In 2026 - DRC Law and Practice",
+  "publisher": "Chambers",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "Q1: no specific AI regulations"
+ }
+]

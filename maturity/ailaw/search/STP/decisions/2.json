@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "standing;reach",
+ "fact": "UNESCO's profile of the readiness assessment states that Sao Tome and Principe has no AI-specific laws or regulations governing the development, use or deployment of AI.",
+ "title": "Sao Tome and Principe - Global Hub",
+ "publisher": "UNESCO Global AI Ethics and Governance Observatory",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

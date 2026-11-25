@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sectorai",
+ "aspect": "use",
+ "fact": "UNDP's August 2026 bulletin reports AGRIFEMIA, an AI-based app for women farmers' cooperatives built under the SUSTAIN programme, with training sessions at Kaédi and Rosso in June 2026.",
+ "title": "IMPACT: Bulletin semestriel du PNUD Mauritanie, premier semestre 2026",
+ "publisher": "PNUD Mauritanie",
+ "published": "2026-08",
+ "date_source": "source",
+ "why_not": ""
+}
