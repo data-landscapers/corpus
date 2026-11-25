@@ -1,12 +1,12 @@
 ---
 title: Burkina Faso: status report
-compiled: 2026-11-21
+compiled: 2026-11-25
 place: BFA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 9
-sources_cited: 225
+sources_cited: 226
 sections_written: 39
 not_established: 0
 acquire_lines: 62
@@ -123,7 +123,7 @@ Chinese state lenders are the largest bilateral source: a China Eximbank concess
 ### Connectivity
 <!-- infra.connect -->
 
-[About a fifth of the population used the internet in early 2024](https://datareportal.com/reports/digital-2024-burkina-faso). [Mobile internet costs 8.8 per cent of gross national income per capita, against an African average of 5.32 per cent](https://www.wearetech.africa/en/fils-uk/news/telecom/burkina-faso-tightens-telecom-regulations-but-affordability-concerns-persist) (2025). [Mobile connections outnumber people](https://datareportal.com/reports/digital-2025-burkina-faso) (January 2025). The [ITU's ICT Development Index placed Burkina Faso at 30.1 out of 100 in 2024, 43rd of 47 African countries](https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-invests-30-million-in-digital-infrastructure-amid-challenges). Connection is conditional on identification: [an operator must refuse service to anyone who does not present an identity document such as a national identity card or passport](https://www.burkina24.com/wp-content/uploads/2019/09/D%C3%A9cret-2018-1270-PRES-PM-MDENP-MSECU-portant-identification-des-abonn%C3%A9s.pdf) (2018).
+[About a fifth of the population used the internet in early 2024](https://datareportal.com/reports/digital-2024-burkina-faso). [In the second quarter of 2026 the country had 328,764 fixed and 20,439,942 mobile internet subscriptions, the Prime Minister said](https://lefaso.net/spip.php?article151010=). [Mobile internet costs 8.8 per cent of gross national income per capita, against an African average of 5.32 per cent](https://www.wearetech.africa/en/fils-uk/news/telecom/burkina-faso-tightens-telecom-regulations-but-affordability-concerns-persist) (2025). [Mobile connections outnumber people](https://datareportal.com/reports/digital-2025-burkina-faso) (January 2025). The [ITU's ICT Development Index placed Burkina Faso at 30.1 out of 100 in 2024, 43rd of 47 African countries](https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-invests-30-million-in-digital-infrastructure-amid-challenges). Connection is conditional on identification: [an operator must refuse service to anyone who does not present an identity document such as a national identity card or passport](https://www.burkina24.com/wp-content/uploads/2019/09/D%C3%A9cret-2018-1270-PRES-PM-MDENP-MSECU-portant-identification-des-abonn%C3%A9s.pdf) (2018).
 
 [Mobile Communications is Burkina Faso's most improved of the 96 indicators in the Ibrahim Index of African Governance](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bf.pdf), up 29.6 points over 2014-2023 to 58.6 out of 100. The index's [Internet & Computers indicator rose 21.4 points to 24.3 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bf.pdf) (2023). [Infrastructure as a whole is the country's worst-scoring of the index's sixteen sub-categories at 31.6 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bf.pdf) (2023).
 
@@ -306,7 +306,7 @@ In the 2024 Ibrahim Index Burkina Faso [scored 25.7 out of 100 on education enro
 
 [In June 2025 a national pupil file with online enrolment and school identity cards was under review, with enrolment to begin the following school year](https://www.latribunedufaso.net/?p=21538). [In May 2026 a university-run pilot in Manga and Bingo reported tracking more than 12,000 pupils by unique identifier](https://seeds.bf/post_detail/4d824034-e6d1-4182-acf5-b8088d4a5a42).
 
-[On 28 July 2026 the national inclusive finance agency and Wave Burkina opened a financial education and consumer protection campaign at Bobo-Dioulasso](https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/). [Their partnership has run since 2025 and is extending in 2026 to Ouagadougou, Bobo-Dioulasso, Kaya and Tenkodogo](https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/). [Its 72 hours of sessions cover budgeting, savings, credit and consumer protection, and participants return to their communities as relays](https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/).
+[On 28 July 2026 the national inclusive finance agency and Wave Burkina opened a financial education and consumer protection campaign at Bobo-Dioulasso](https://web.archive.org/web/20260729074730/https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/). [Their partnership has run since 2025 and is extending in 2026 to Ouagadougou, Bobo-Dioulasso, Kaya and Tenkodogo](https://web.archive.org/web/20260729074730/https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/). [Its 72 hours of sessions cover budgeting, savings, credit and consumer protection, and participants return to their communities as relays](https://web.archive.org/web/20260729074730/https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/).
 
 ### Training and skills
 <!-- capacity.training -->
