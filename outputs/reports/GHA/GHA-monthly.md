@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: GHA
-ledger_rows: 88
+ledger_rows: 89
 not_held: 9
-record: 5bca08cdf7cd
+record: 3b73d2e614c3
 ---
 
 # News, Oct – Nov 2026
@@ -1095,6 +1095,20 @@ GIZ reported on 19 November 2026 on its PAIReD local-governance programme, which
 **[Same tax, smarter collection](https://www.graphic.com.gh/business/business-news/gras-new-system-to-collect-digital-vat.html)** — Graphic Online, 8 October 2026
 
 The Ghana Revenue Authority will start collecting VAT on foreign digital services such as streaming at the point of payment from 15 October 2026, through its Sentinel real-time VAT system run with banks and mobile money providers. The 20% combined rate is unchanged, so a GH¢100 service costs GH¢120. The authority estimates GH¢2.5 billion went uncollected on 2025 data.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health management information system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Health Minister directs integration of DHIMS and GHIMS to unify health data systems](https://www.myjoyonline.com/health-minister-directs-integration-of-dhims-and-ghims-to-unify-health-data-systems/)** — MyJoyOnline, 24 November 2026
+
+Ghana's Health Minister told Parliament on 24 November 2026 that he had ordered DHIMS and GHIMS merged into one health information system. The state now owns its health-information software and middleware, he said. An earlier dispute with the vendor remains under security investigation.
 
 </div>
 
