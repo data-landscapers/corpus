@@ -14,6 +14,7 @@ row's `source_kind` through `outputs/non-state-finance/all-nonstate.csv` (deal t
 1. Where the money goes: a pie of chapters, each big chapter's topics as bars drawn out from it.
 0a. Where the data comes from: each type's rows by the kind of source they were read from (2026-11-25).
 1a. Where the money comes from: the same design, sources and their instruments; budgets get no panel.
+1b. Who the money comes from: the same again, sources and their largest financiers (2026-11-25).
 2. Who pays for what: topics over US$500 million, total and share by source.
 3. The foundations: FOUNDATIONS (Bill's ten) as 100% bars by source, under all digital finance.
 4. The rise of African finance: yearly totals by source.
@@ -382,24 +383,28 @@ if True:
         ln = s.shapes.add_connector(1, Inches(sx), Inches(sy), Inches(tx), Inches(ty))
         ln.line.color.rgb = rgb(COL[k]); ln.line.width = Pt(1.25)
 
-# ---------- Where the money comes from: types, with each one's instruments drawn out ----------
-if True:
-    inst = collections.defaultdict(collections.Counter)   # type -> instrument -> US$ m
-    for r in INYEARS: inst[r["type"]][r["instrument"] or "Unknown"] += usd(r)
-    TYPES = ["other non-African finance", "other African finance", "aid", "budget"]   # clockwise from START
-    TNAME = {"other non-African finance": "Non-African finance", "other African finance": "African finance",
-             "aid": "Aid", "budget": "National budgets"}
-    INAME = {"Self Funded": "Self-funded", "Unknown": "Not stated", "MoU": "MoU",
-             "Concessional Loan": "Concessional loan", "Commercial Loan": "Commercial loan",
-             "Technical Assistance": "Technical assistance", "Joint Venture": "Joint venture", "Line of Credit": "Line of credit"}
+# ---------- Where the money comes from: types, with each one's instruments (or financiers) drawn out ----------
+TYPES = ["other non-African finance", "other African finance", "aid", "budget"]   # clockwise from START
+TNAME = {"other non-African finance": "Non-African finance", "other African finance": "African finance",
+         "aid": "Aid", "budget": "National budgets"}
+INAME = {"Self Funded": "Self-funded", "Unknown": "Not stated", "MoU": "MoU",
+         "Concessional Loan": "Concessional loan", "Commercial Loan": "Commercial loan",
+         "Technical Assistance": "Technical assistance", "Joint Venture": "Joint venture", "Line of Credit": "Line of credit"}
+FNAME = {"International Finance Corporation (IFC)": "IFC", "US International Development Finance Corporation (DFC)": "US DFC",
+         "Bergmans Security Consultants and Supplies Limited": "Bergmans Security", "African Development Bank (AfDB)": "AfDB",
+         "Export-Import Bank of China (China Eximbank)": "China Eximbank", "Agence Française de Développement": "AFD",
+         "United Nations Development Programme (UNDP)": "UNDP", "Yas (Yas Tanzania / Yas Fibre)": "Yas",
+         "Economic Development Cooperation Fund": "Korea EDCF", "U.S. Department of State": "US State Department",
+         "Unknown": "Not stated"}
+
+def drawn_out(field, title, sub, note, names, panels, top=None):
+    """A pie of the four sources, each non-budget source's `field` drawn out as bars. `top` caps the bars
+    per source (the rest one Other bar); without it, items under 3% of their source are Other."""
+    inst = collections.defaultdict(collections.Counter)   # type -> item -> US$ m
+    for r in INYEARS: inst[r["type"]][r[field] or "Unknown"] += usd(r)
     tot_t = {t: sum(inst[t].values()) for t in TYPES}; total = sum(tot_t.values())
     s = prs.slides.add_slide(BLANK)
-    frame(s, "Where the money comes from",
-          f"All digital finance in Africa, {YEARS[0]} to {YEARS[-1]}, by source and instrument. Self-funded investment and "
-          f"memoranda of understanding make up {100 * sum(inst[t][i] for t in TYPES[:2] for i in ('Self Funded', 'MoU')) / (tot_t[TYPES[0]] + tot_t[TYPES[1]]):.0f}% "
-          "of African and non-African finance.  US$ millions",
-          DEF + " Instruments under 3% of their source are grouped as Other. "
-          f"National budgets have no instrument breakdown. As recorded to {AS_AT}.")
+    frame(s, title, sub(inst, tot_t), note)
     CX, CY, R = 6.55, 4.15, 1.45
     cd = CategoryChartData(); cd.categories = [TNAME[t] for t in TYPES]
     cd.add_series("Sources", [round(tot_t[t]) for t in TYPES])
@@ -424,25 +429,29 @@ if True:
     # budgets: named beside their slice, no panel
     x_, y_ = edge(mids[3], R + 0.15)
     text(s, x_ - 2.6, y_ - 0.5, 2.5, 0.3, [(TNAME["budget"], {"bold": True, "color": "B7801A"}), (f"  {tot_t['budget']:,.0f}", {"color": INK2})], 17, align=PP_ALIGN.RIGHT)
-    text(s, x_ - 2.6, y_ - 0.2, 2.5, 0.3, "States’ own lines: no instruments", 10.5, color=FAINT, align=PP_ALIGN.RIGHT)
-    PANEL = {TYPES[0]: (8.45, 1.75, 4.3, 2.75), TYPES[1]: (8.45, 4.75, 4.3, 1.8), TYPES[2]: (0.6, 4.45, 4.1, 1.3)}
+    text(s, x_ - 2.6, y_ - 0.2, 2.5, 0.3, f"States’ own lines: no {'instruments' if field == 'instrument' else 'financiers'}", 10.5, color=FAINT, align=PP_ALIGN.RIGHT)
     for i, k in enumerate(TYPES):
-        if k not in PANEL: continue
-        px, py, pw, ph = PANEL[k]; ctot = tot_t[k]
+        if k not in panels: continue
+        px, py, pw, ph = panels[k]; ctot = tot_t[k]
         tops = [(n, v) for n, v in inst[k].most_common() if v > 0]
-        keep = [(n, v) for n, v in tops if v / ctot >= 0.03]
-        rest = [(n, v) for n, v in tops if v / ctot < 0.03]
+        if top:
+            keep, rest = tops[:top[k]], tops[top[k]:]
+        else:
+            keep = [(n, v) for n, v in tops if v / ctot >= 0.03]
+            rest = [(n, v) for n, v in tops if v / ctot < 0.03]
         if len(rest) == 1: keep += rest
-        elif rest: keep.append(("Other", sum(v for _, v in rest)))
+        elif rest: keep.append((f"Other {len(rest)}" if top else "Other", sum(v for _, v in rest)))
         col = SRC_COL[k]
         text(s, px, py, pw, 0.3, [(TNAME[k], {"bold": True, "color": col}), (f"  {ctot:,.0f}", {"color": INK2})], 17)
-        cd = CategoryChartData(); cd.categories = [INAME.get(n, n) for n, _ in reversed(keep)]
+        cd = CategoryChartData(); cd.categories = [names.get(n, n) for n, _ in reversed(keep)]
         cd.add_series(k, [round(v) for _, v in reversed(keep)])
         gf = s.shapes.add_chart(XL_CHART_TYPE.BAR_CLUSTERED, Inches(px), Inches(py + 0.4), Inches(pw), Inches(ph - 0.4), cd)
         c2 = gf.chart; c2.has_legend = False; c2.has_title = False; c2.font.name = FONT
         inner(c2, 0.62, 0.0, 0.25, 1.0)
         pl = c2.plots[0]; pl.gap_width = 40
         sr = pl.series[0]; sr.format.fill.solid(); sr.format.fill.fore_color.rgb = rgb(col)
+        if top:   # the Other bar in grey: it is many financiers, not one
+            pt = sr.points[0]; pt.format.fill.solid(); pt.format.fill.fore_color.rgb = rgb(GREY)
         pl.has_data_labels = True; dls = pl.data_labels
         dls.number_format = '#,##0'; dls.number_format_is_linked = False; dls.position = XL_LABEL_POSITION.OUTSIDE_END
         dls.font.size = Pt(10); dls.font.color.rgb = rgb(INK2); dls.font.name = FONT
@@ -453,6 +462,27 @@ if True:
         tx = px - 0.1 if px > CX else px + pw + 0.1
         ln = s.shapes.add_connector(1, Inches(sx), Inches(sy), Inches(tx), Inches(py + ph / 2))
         ln.line.color.rgb = rgb(col); ln.line.width = Pt(1.25)
+    return inst, tot_t
+
+drawn_out("instrument", "Where the money comes from",
+          lambda inst, tot_t: f"All digital finance in Africa, {YEARS[0]} to {YEARS[-1]}, by source and instrument. Self-funded investment and "
+          f"memoranda of understanding make up {100 * sum(inst[t][i] for t in TYPES[:2] for i in ('Self Funded', 'MoU')) / (tot_t[TYPES[0]] + tot_t[TYPES[1]]):.0f}% "
+          "of African and non-African finance.  US$ millions",
+          DEF + " Instruments under 3% of their source are grouped as Other. "
+          f"National budgets have no instrument breakdown. As recorded to {AS_AT}.",
+          INAME, {TYPES[0]: (8.45, 1.75, 4.3, 2.75), TYPES[1]: (8.45, 4.75, 4.3, 1.8), TYPES[2]: (0.6, 4.45, 4.1, 1.3)})
+
+FTOP = {TYPES[0]: 7, TYPES[1]: 4, TYPES[2]: 5}   # named financiers per source; the rest one grey Other bar
+def _fsub(inst, tot_t):
+    lead = {t: sum(v for _, v in inst[t].most_common(FTOP[t])) / tot_t[t] for t in TYPES[:3]}
+    wb = inst["aid"]["World Bank"] / tot_t["aid"]
+    if wb < 0.4: print(f"WARNING: financiers slide subtitle: World Bank {wb:.0%} of aid")
+    return (f"All digital finance in Africa, {YEARS[0]} to {YEARS[-1]}, by source and financier. The World Bank alone is {100 * wb:.0f}% of aid "
+            f"and MTN Group {100 * inst[TYPES[1]]['MTN Group'] / tot_t[TYPES[1]]:.0f}% of African finance; non-African finance is spread across {len(inst[TYPES[0]])} financiers.  US$ millions")
+drawn_out("financier", "Who the money comes from", _fsub,
+          DEF + " The largest financiers of each source are named; the grey bar is the rest, with their number. "
+          f"National budgets have no financier breakdown. As recorded to {AS_AT}.",
+          FNAME, {TYPES[0]: (8.45, 1.75, 4.3, 2.75), TYPES[1]: (8.45, 4.75, 4.3, 1.8), TYPES[2]: (0.6, 3.95, 4.1, 2.1)}, top=FTOP)
 
 # ---------- Last slide: the foundations only states and donors pay for ----------
 if True:
@@ -750,8 +780,8 @@ rowlabel(y, NAMES["budget"], sum(bud_n.values()))
 bar(y, [(l, bud_n[l], c) for l, c, _ in BUD_KINDS])
 print("sources:", {NAMES[t]: dict(sk_n[t]) for t in sk_n}, dict(bud_n))
 
-# Bill's running order (2026-11-24): the whole picture, then the rise and its reality check
-ORDER = ["Corpus joins up", "Where the data comes from", "Where the money goes", "Where the money comes from", "Who pays for what", "The foundations", "The rise of African finance", "But the rise", "Where the money lands"]
+# Bill's running order (2026-11-24; sources before uses, v3 of 2026-11-25): the whole picture, then the rise and its reality check
+ORDER = ["Corpus joins up", "Where the data comes from", "Where the money comes from", "Who the money comes from", "Where the money goes", "Who pays for what", "The foundations", "The rise of African finance", "But the rise", "Where the money lands"]
 lst = prs.slides._sldIdLst
 rank = [next((i for i, t in enumerate(ORDER) if sl.shapes[0].text_frame.text.startswith(t)), 99) for sl in prs.slides]
 ids = list(lst)
