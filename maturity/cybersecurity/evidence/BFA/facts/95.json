@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-05-bfa-rapport-pour-avis-projet-de-loi-portant-securite-des-systemes-d-inform",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The finance committee's report of 5 July 2024 records MPs asking whether the bill's new cyberspace control body would duplicate the existing national information systems security agency (ANSSI), treating ANSSI as an existing national body.",
+   "as_of": "2024-07-05",
+   "date_precision": "day",
+   "system": "ANSSI (Agence nationale de securite des systemes d'information)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI",
+   "country_label": "Agence nationale de securite des systemes d'information",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

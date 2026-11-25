@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-16-cod-rapport-d-evaluation-de-la-preparation-de-la-rdc-a-l-ia-quelles-lecons",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The article says the DRC's National Cybersecurity Agency regulates cybersecurity and collaborates in the fight against cybercrime under the digital code.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "Agence Nationale de Cybersecurite",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
