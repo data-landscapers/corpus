@@ -1,5 +1,6 @@
 ## 25 November 2026
 
+- The maturity Movement table has two new columns, Source type and URL, for the source behind each stage change, and a Source type filter. The map's country panel now gives the last assessed date to the day.
 - The catalogue has a new Source filter and a source_kind column in its download: portals and datasets, trade journals, news, press releases, official documents or research. It shows what kind of source each record was read from; the kinds are defined on the Process lookups page.
 
 ## 24 November 2026

@@ -44,7 +44,7 @@ import json
 import math
 import re
 import sys
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 import markdown
@@ -57,6 +57,7 @@ from render import family_bar  # noqa: E402
 import methodology  # noqa: E402  - the Methodology section's page bar
 import editions  # noqa: E402
 import vault_lib  # noqa: E402
+import source_kind  # noqa: E402  - the Movement table's Source type
 import maturity_words  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -185,6 +186,23 @@ def stage_of(raw: str) -> tuple[int | None, str]:
     return None, ("unplaced" if raw == "unplaced" else "no evidence")
 
 
+def day(iso: str) -> str:
+    """DD MMM YYYY: *Last assessed* in the map's country panel (Bill, 2026-11-25)."""
+    try:
+        return date.fromisoformat(iso).strftime("%d %b %Y")
+    except ValueError:
+        return iso
+
+
+def month_of_day(text: str) -> str:
+    """The country report keeps *Last assessed* to the month: the day is the map panel's only
+    (Bill, 2026-11-25), and a report's text moving would cut an edition for a redesign."""
+    try:
+        return datetime.strptime(text, "%d %b %Y").strftime("%b %Y")
+    except ValueError:
+        return text
+
+
 def month(iso: str) -> str:
     try:
         return date.fromisoformat(iso).strftime("%b %Y")
@@ -279,7 +297,7 @@ def build_data(studies, indicators, countries) -> dict:
                 # R136: an issued assessment.csv keeps the words it was cut with until its study
                 # re-issues it, so the page takes R130's words here rather than cutting an edition.
                 stage=n, state=state, short=maturity_words.rewrite(r["short"].strip()),
-                assessed=month(r["as_at"]),
+                assessed=day(r["as_at"]),
                 **dict(zip(("moved", "reassessed"), last_change(s["history"], iid, iso))),
                 summary=external_links(md(sidebar_md(bodies[iso].get(iid, "")))))
     # The sidebar's second button opens the country's status report at the indicator's topic
@@ -616,7 +634,7 @@ def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> st
             parts.append(f'''    <section class="mat-report__ind" id="{iid}">
       <h4>{html.escape(i["label"])}</h4>
       <p class="mat-report__meta">{chip(cell)}
-        <span><b>Last assessed</b> {html.escape((cell or {}).get("assessed", "—"))}</span>
+        <span><b>Last assessed</b> {html.escape(month_of_day((cell or {}).get("assessed", "—")))}</span>
         <span><b>Stage last moved</b> {html.escape(moved)}</span>
         <a href="../../../methodology/maturity/#{iid}">Methodology</a> ·
         <a href="../../#{iid}|{iso3}">On the map</a></p>
@@ -820,16 +838,37 @@ def method_page(data: dict, studies: list[dict]) -> str:
 
 # ---------------------------------------------------------------------------
 
-MOVEMENT_FIELDS = ["Date", "Map", "Country", "Chapter", "Topic", "Indicator", "From", "To", "Evidence"]
+MOVEMENT_FIELDS = ["Date", "Map", "Country", "Chapter", "Topic", "Indicator", "From", "To", "Evidence",
+                   "Source type", "URL"]
 MOVEMENT_ALL = {"Chapter": "All chapters", "Topic": "All topics", "Indicator": "All indicators",
-                "Country": "All countries", "From": "From any stage", "To": "To any stage"}
-MOVEMENT_ICONS = {"Map": ["↗", "Show on the map"]}
-MOVEMENT_CHARS = {"Map": 4, "Date": 12, "From": 14, "To": 14}   # so a date or a stage's name holds one line
+                "Country": "All countries", "From": "From any stage", "To": "To any stage",
+                "Source type": "All source types"}
+MOVEMENT_ICONS = {"Map": ["↗", "Show on the map"], "URL": ["↗", "Open the source"]}
+MOVEMENT_CHARS = {"Map": 4, "URL": 4, "Date": 12, "From": 14, "To": 14, "Source type": 16}   # so a date or a stage's name holds one line
 
 
 def stage_label(raw: str) -> str:
     n, state = stage_of(raw)
     return f'{n} {STAGES[n - 1]["label"]}' if n else state.capitalize()
+
+
+def evidence_rows(study_id: str) -> dict[str, dict]:
+    """Every evidence row a study holds, by `row_id`."""
+    out = {}
+    for f in sorted((STUDIES / study_id / "evidence").glob("*/evidence.csv")):
+        out.update({r["row_id"]: r for r in read_csv(f)})
+    return out
+
+
+def moving_source(sources: str, rows: dict[str, dict]) -> tuple[str, str]:
+    """`(Source type, URL)` for a move: of the rows its history line cites, the newest by
+    `as_of`, the last cited on a tie (Bill, 2026-11-25). A move rests on the fact that arrived,
+    and the newest row is that fact; the rest were already held."""
+    held = [rows[i] for i in sources.split(";") if i.strip() in rows]
+    if not held:
+        return "", ""
+    url = max(enumerate(held), key=lambda p: (p[1].get("as_of", ""), p[0]))[1].get("url", "").strip()
+    return (source_kind.LABEL[source_kind.classify(url)[0]] if url else ""), url
 
 
 def movement_rows(data: dict, studies: list[dict]) -> list[dict]:
@@ -839,6 +878,7 @@ def movement_rows(data: dict, studies: list[dict]) -> list[dict]:
     chapter = {t["name"]: t["group"] for t in data["topics"]}
     rows = []
     for s in studies:
+        held = None
         for h in s["history"]:
             ind = data["indicators"].get(h["indicator_id"])
             if ind and h["kind"] == "fact" and h["from"] != h["to"] and h["date"] >= CHANGES_FROM:
@@ -847,7 +887,9 @@ def movement_rows(data: dict, studies: list[dict]) -> list[dict]:
                                  Chapter=chapter.get(ind["topic"], ""), Topic=ind["topic"],
                                  Indicator=ind["label"], Country=data["countries"].get(h["iso3"], h["iso3"]),
                                  From=stage_label(h["from"]), To=stage_label(h["to"]),
-                                 Evidence=h["note"].strip()))
+                                 Evidence=h["note"].strip(),
+                                 **dict(zip(("Source type", "URL"), moving_source(
+                                     h.get("sources", ""), held := held or evidence_rows(s["id"]))))))
     # `data-sort` takes one column and the table's sort is stable, so this order breaks its ties.
     rows.sort(key=lambda r: (r["Country"], r["Chapter"], r["Topic"], r["Indicator"]))
     rows.sort(key=lambda r: r["Date"], reverse=True)
@@ -869,7 +911,7 @@ def movement_page(csv_name: str, n: int, artefacts: str) -> str:
     <div class="dl-datatable"
       data-src="{name}"
       data-cols="{", ".join(MOVEMENT_FIELDS)}"
-      data-filters="Country, Chapter, Topic, Indicator, From, To"
+      data-filters="Country, Chapter, Topic, Indicator, From, To, Source type"
       data-filter-all="{html.escape(json.dumps(MOVEMENT_ALL), quote=True)}"
       data-col-chars="{html.escape(json.dumps(MOVEMENT_CHARS), quote=True)}"
       data-link-icons="{html.escape(json.dumps(MOVEMENT_ICONS, ensure_ascii=False), quote=True)}"
@@ -901,7 +943,8 @@ def publish_movement(data: dict, studies: list[dict]) -> int:
     body = with_bom(csv_bytes(rows, MOVEMENT_FIELDS))
     path, _ = editions.publish(body, out, "maturity-movement", ".csv", page=out / "index.html")
     meta = editions.artefact_meta("maturity-movement", editions.edition_of(path.stem) or "", editions.digest(body))
-    write(out / "index.html", bake(movement_page(path.name, len(rows), meta + "\n"), out))
+    # The baked rows carry each source's URL: `external_links` after the bake, so they open a new tab.
+    write(out / "index.html", external_links(bake(movement_page(path.name, len(rows), meta + "\n"), out)))
     return len(rows)
 
 
