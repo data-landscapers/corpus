@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-24-egy-visa-expands-tokenized-contactless-payments-through-bank-apps-in-egypt",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Visa Token Service tap-to-pay via bank apps",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "Android",
+   "owner": "Visa with NBE, Banque Misr and QNB",
+   "tiers": ""
+  }
+ ],
+ "note": "A card scheme for bank cardholders, still to launch after a pilot; not mobile money or a wallet switch."
+}

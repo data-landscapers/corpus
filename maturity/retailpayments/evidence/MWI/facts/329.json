@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-01-mwi-invitation-to-express-interest-supply-deployment-and-operation-of-an-i",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Malawi Revenue Authority says mobile money has become one of the largest and fastest-growing channels of financial activity in Malawi, with annual transaction values of about MWK 40 trillion.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

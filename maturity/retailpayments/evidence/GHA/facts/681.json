@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-23-gha-bog-pushes-for-cheaper-reliable-cross-border-payments-in-africa-at-sin",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "AfroAsia Media reports Ghana's mobile money transactions exceeded one billion in August 2026, worth GH¢519 billion.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

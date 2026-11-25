@@ -206,6 +206,7 @@ COD,Orange Money,DRC,retail,,Orange,,2026-11-18-rdc-wave-decroche-le-feu-vert-re
 COD,Afrimoney,DRC,retail,,,,2026-11-18-rdc-wave-decroche-le-feu-vert-reglementaire-de-la-banque-centrale
 COD,Wave,DRC,retail,,Wave Mobile Money,,2026-11-18-rdc-wave-decroche-le-feu-vert-reglementaire-de-la-banque-centrale
 COD,Wave,Wave e-money,retail,mobile money,Wave,,2026-11-23-cod-inclusion-financiere-la-bcc-agree-wave-un-nouvel-acteur-de-la-monnaie
+COD,Wave,DRC,retail,,Wave,,2026-11-24-cod-can-a-new-fintech-still-break-telco-dominance-in-the-drc
 COG,Yano,Congo,retail,payment aggregation gateway,"Yano (Regis Dilou, Elwin Gomo)",,2026-09-29-cog-aci-yano-fintech-mobile-payments
 COG,Airtel Money,COG,retail,,Airtel Congo,,2026-04-23-airtel-money-education-digitalisation-techreviewafrica
 COG,Mobile Money Congo (MMC),Congo,retail,,MTN with Ecobank,,2025-02-24-inclusion-financiere-mobile-money-tribune-okamba-ldb
@@ -316,6 +317,8 @@ EGY,Meeza Digital,Meeza Digital wallets,retail,,,,2026-11-08-egy-egypt-s-financi
 EGY,InstaPay/IPIN,Egypt,retail,,Central Bank of Egypt,,2026-11-06-dpi-map-2026-11-12
 EGY,InstaPay,Egypt,retail,,,,2026-11-10-egy-instapay-22-million-users-cbe-deputy-governor
 EGY,"Payment card tokenisation (Apple Pay since December 2024, Android from 23 November 2026)",Egypt,other,"phone wallets, contactless and online card payments",Central Bank of Egypt with banks and fintechs,national,2026-11-23-egy-sis-cbe-card-tokenisation-android
+EGY,Visa Token Service tap-to-pay via bank apps,Egypt,other,Android,"Visa with NBE, Banque Misr and QNB",,2026-11-24-egy-visa-expands-tokenized-contactless-payments-through-bank-apps-in-egypt
+EGY,InstaPay,Egypt,retail,,,,2026-11-23-egy-aboheshima-senate-ai-economy-study-data-governance
 ERI,EriTel-linked mobile wallets,Eritrea,retail,mobile wallet,EriTel,,2026-03-30-eritreas-fintech-ecosystem-2026-financial-inclusion
 ERI,M-Nakfa,Eritrea,retail,"mobile wallet, e-float backed by cash deposits",Himbol Community Financial Services,"individual, merchant and agent accounts",2025-01-01-eri-himbol-customers-partners-guide-m-nakfa
 ERI,M-Nakfa,M-Nakfa,retail,,Himbol Community Financial Services,,2025-11-01-eri-terms-and-conditions-of-service
@@ -838,6 +841,7 @@ SDN,Bankak,Sudan,other,mobile app,Bank of Khartoum,,2026-03-02-sdn-digital-inclu
 SDN,USSD banking service,Sudan,retail,USSD,Ministry of Digital Transformation and Telecommunications with TPRA and Central Bank of Sudan,,2025-03-15-sdn-telecommunications-ministry-launches-service-allowing-citizens-to-acce
 SDN,National Instant Payment System (NIPS),Sudan,other,,Central Bank of Sudan,,2026-11-19-sdn-sudanhorizon-cbos-nips-contract
 SDN,NIPS,Sudan,retail,ISO 20022,Central Bank of Sudan,,2026-11-23-sdn-nips-sudan-national-instant-payment-system-details
+SDN,National Instant Payment System (NIPS),Sudan,retail,,Central Bank of Sudan,,2026-11-23-sdn-sudan-central-bank-plans-national-instant-payment-platform-to-curb-cash-
 SEN,PI-SPI,Senegal,retail,instant payment,BCEAO,banks; e-money institutions; payment institutions,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,Wave,Senegal,retail,mobile money,Wave Digital Finance,,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,Orange Money,Senegal,retail,mobile,Orange Finances Mobiles Sénégal,,2024-09-30-bceao-liste-emetteurs-monnaie-electronique-umoa
