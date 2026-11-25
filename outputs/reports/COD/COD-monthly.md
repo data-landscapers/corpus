@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: COD
-ledger_rows: 65
+ledger_rows: 64
 not_held: 6
-record: 3b0964f521ec
+record: 3a39f16f7563
 ---
 
 # News, Oct – Nov 2026
@@ -484,6 +484,14 @@ The Banque centrale du Congo granted Wave an electronic-money institution licenc
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Inclusion financière : la BCC agrée Wave, un nouvel acteur de la monnaie électronique en RDC](https://www.bcc.cd/articles/monnaie-et-paiements/bcc-agree-wave-monnaie-electronique-2026)** — Banque Centrale du Congo, 23 November 2026
+
+The Central Bank of Congo published a notice on 23 November 2026 that it has licensed Wave as an electronic money institution. The notice links the licence to its financial inclusion aims. It also links it to the reform of 9 April 2027 reserving cash commercial settlements for the Congolese franc.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -495,20 +503,6 @@ The Banque centrale du Congo granted Wave an electronic-money institution licenc
 **[RDC : discordances des effectifs, manque de fiabilité des bases de données et incohérences dans les listings de paie, les principales défaillances révélées par l’audit de l’état liquidatif de la paie des fonctionnaires](https://actualite.cd/2026/11/22/rdc-discordances-des-effectifs-manque-de-fiabilite-des-bases-de-donnees-et-incoherences)** — Actualite.cd, 22 November 2026
 
 Actualite.cd reported that an Inspection generale des finances audit of the DR Congo civil-service payroll was presented to the Council of Ministers on 20 November 2026. It found unreliable databases and mismatches between payroll statements and listings. President Tshisekedi ordered payroll files unified and duplicates removed.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Wave electronic-money institution licence</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Inclusion financière : la BCC agrée Wave, un nouvel acteur de la monnaie électronique en RDC](https://www.bcc.cd/articles/monnaie-et-paiements/bcc-agree-wave-monnaie-electronique-2026)** — Banque Centrale du Congo, 23 November 2026
-
-The Central Bank of Congo published a notice on 23 November 2026 that it has licensed Wave as an electronic money institution. The notice links the licence to its financial inclusion aims. It also links it to the reform of 9 April 2027 reserving cash commercial settlements for the Congolese franc.
 
 </div>
 
