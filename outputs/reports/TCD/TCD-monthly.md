@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: TCD
-ledger_rows: 26
+ledger_rows: 29
 not_held: 23
-record: cde4d2efdee0
+record: 473527e0626f
 ---
 
 # News, Oct – Nov 2026
@@ -22,6 +22,8 @@ record: cde4d2efdee0
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
@@ -57,6 +59,20 @@ Chad validated its National Data Governance Strategy at a workshop in N'Djamena 
 **[TRANSFORMATION NUMÉRIQUE : LE TCHAD BÂTIT SA SOUVERAINETÉ DE LA DONNÉE](https://camerpressagency.com/transformation-numerique-le-tchad-batit-sa-souverainete-de-la-donnee/)** — CamerPressAgency, 7 October 2026
 
 Chad's telecoms and digital economy minister Haliki Choua Mahamat opened a workshop in N'Djamena to validate the National Data Governance Strategy, reported on 7 October 2026. The strategy runs to 2030 and has seven pillars, including institutional governance, interoperability, personal data protection and skills, with health, education, agriculture, mining and digital finance named as priority sectors. No budget is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data governance maturity on the African Union self-assessment tool</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : la stratégie de gouvernance des données validée, celle de l'IA en préparation](https://www.agenceecofin.com/actualites-numerique/1210-142318-tchad-la-strategie-de-gouvernance-des-donnees-validee-celle-de-l-ia-en-preparation)** — Agence Ecofin, 12 October 2026
+
+AU self-assessment put Chad's data-governance maturity at 30.27% (May 2026); AI strategy 2026-2030 pre-validation 8 Oct.
 
 </div>
 
@@ -501,6 +517,42 @@ An unsigned CamerPressAgency editorial reports that a workshop to pre-validate C
 **[La Stratégie Nationale de Transformation Digitale en gestation : Le Tchad amorce son grand virage numérique avec l'appui du PNUD | CamerPressAgency](https://camerpressagency.com/la-strategie-nationale-de-transformation-digitale-en-gestation-le-tchad-amorce-son-grand-virage-numerique-avec-lappui-du-pnud/)** — CamerPressAgency, 5 November 2026
 
 Chad began drafting a National Digital Transformation Strategy on 4 November 2026, at a framing meeting chaired by the digital economy director-general. UNDP is funding an international consultancy. Chad's data governance strategy has been validated and its AI strategy pre-validated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI for Good Lab-Tchad</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Chad Eyes ITU-Backed AI Lab to Build Local Capacity](https://www.ecofinagency.com/news-digital/2411-61140-chad-eyes-itu-backed-ai-lab-to-build-local-capacity)** — Ecofin Agency, 24 November 2026
+
+Chad's telecoms minister, Haliki Choua Mahamat, sought ITU support under its GENIE.AI initiative to set up an AI for Good Lab-Tchad. The plan includes a developer sandbox, public-sector AI computing and a backup at the national data centre. He raised it with incoming BDT director Nele Leosk at PP-26 in Doha, in the week before 24 November 2026.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#research-institutions">Research institutions</a>
+</nav>
+
+### Research institutions
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Interdisciplinary Artificial Intelligence Research Laboratory (LIDIA)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Chad Eyes ITU-Backed AI Lab to Build Local Capacity](https://www.ecofinagency.com/news-digital/2411-61140-chad-eyes-itu-backed-ai-lab-to-build-local-capacity)** — Ecofin Agency, 24 November 2026
+
+Summarised under [AI](#ai).
 
 </div>
 
