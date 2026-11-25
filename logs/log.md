@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-25 01:54 · **REVIEW** · 8m · AGO: status 4 sections revised, 0 trimmed, progress 3 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT - ok
+2026-11-25 01:49 · **REVIEW** · 4m · BDI: status 1 sections revised, 0 trimmed, progress 2 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT - ok
 2026-11-25 01:45 · **BUILD** · 1h37m · polled cycle; catalogue 46,504; 51 units, 232 sources: 25 moved, 73 minted, 18 status sections; DC 4; budget 0 waiting; 4c 1,436 readings, 267 worked, 10 moved; Who's Who 182; bulletin 41; 63 dead links; archive relink - ok
 2026-11-25 00:56 · **BUDGET-EXTRACT** · 15d 21h · LSO FY2026: nil from the Q2 2026/27 budget performance bulletin - programme grain only, no held line printed; reconciled, swap FY2026 0->13 unchanged
 2026-11-25 00:06 · **NOTES** · unclocked · 88 closed: AidData nominal-amount entry added to the change log under 24 November; spent aiabuse and aigovernment handovers pruned from prepared/ - ok
