@@ -1,6 +1,6 @@
 ---
 title: Sierra Leone: finance
-compiled: 2026-11-19
+compiled: 2026-11-25
 place: SLE
 ---
 
@@ -9,7 +9,7 @@ place: SLE
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">132</td><td class="num">51</td><td class="num">1</td><td class="num">7</td><td class="num">60</td><td class="num">26</td><td class="num total">276</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">128</td><td class="num">51</td><td class="num">1</td><td class="num">7</td><td class="num">60</td><td class="num">26</td><td class="num total">272</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">5</td><td class="num">19</td><td class="num total">29</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num">21</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">21</td></tr>
 <tr><th scope="row">Energy</th><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">14</td></tr>
@@ -27,7 +27,7 @@ place: SLE
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">159</td><td class="num">72</td><td class="num">9</td><td class="num">24</td><td class="num">73</td><td class="num">53</td><td class="num total">390</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">155</td><td class="num">72</td><td class="num">9</td><td class="num">24</td><td class="num">73</td><td class="num">53</td><td class="num total">386</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/SLE/all-finance.html">Full table &mdash; 234 rows, all 12 fields &rarr;</a>
@@ -68,7 +68,7 @@ place: SLE
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">132</td><td class="num">51</td><td class="num">1</td><td class="num zero"></td><td class="num">50</td><td class="num">17</td><td class="num total">251</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">128</td><td class="num">51</td><td class="num">1</td><td class="num zero"></td><td class="num">50</td><td class="num">17</td><td class="num total">247</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num">21</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">21</td></tr>
 <tr><th scope="row">Energy</th><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">14</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">9</td><td class="num zero"></td><td class="num zero"></td><td class="num total">9</td></tr>
@@ -84,7 +84,7 @@ place: SLE
 <tr><th scope="row">Cybersecurity</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">159</td><td class="num">72</td><td class="num">9</td><td class="num">10</td><td class="num">51</td><td class="num">18</td><td class="num total">319</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">155</td><td class="num">72</td><td class="num">9</td><td class="num">10</td><td class="num">51</td><td class="num">18</td><td class="num total">315</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">

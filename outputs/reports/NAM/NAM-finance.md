@@ -1,6 +1,6 @@
 ---
 title: Namibia: finance
-compiled: 2026-11-08
+compiled: 2026-11-25
 place: NAM
 ---
 
@@ -9,7 +9,7 @@ place: NAM
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num">7</td><td class="num">36</td><td class="num">22</td><td class="num total">65</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num">7</td><td class="num">36</td><td class="num">23</td><td class="num total">66</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">9</td><td class="num">10</td><td class="num">26</td><td class="num total">45</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">2</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">6</td><td class="num">11</td><td class="num">9</td><td class="num total">28</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num">1</td><td class="num zero"></td><td class="num">7</td><td class="num">5</td><td class="num">7</td><td class="num total">21</td></tr>
@@ -25,7 +25,7 @@ place: NAM
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">6</td><td class="num">2</td><td class="num">&lt;1</td><td class="num">35</td><td class="num">69</td><td class="num">74</td><td class="num total">186</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">6</td><td class="num">2</td><td class="num">&lt;1</td><td class="num">35</td><td class="num">69</td><td class="num">75</td><td class="num total">187</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/NAM/all-finance.html">Full table &mdash; 108 rows, all 12 fields &rarr;</a>
@@ -61,7 +61,7 @@ place: NAM
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num">1</td><td class="num">34</td><td class="num">22</td><td class="num total">58</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num">1</td><td class="num">34</td><td class="num">23</td><td class="num total">59</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">14</td><td class="num total">14</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">2</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Geospatial data</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
@@ -73,7 +73,7 @@ place: NAM
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">6</td><td class="num">2</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">34</td><td class="num">36</td><td class="num total">79</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">6</td><td class="num">2</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">34</td><td class="num">37</td><td class="num total">80</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">

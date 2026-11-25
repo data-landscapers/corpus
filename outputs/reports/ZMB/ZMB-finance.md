@@ -1,6 +1,6 @@
 ---
 title: Zambia: finance
-compiled: 2026-11-21
+compiled: 2026-11-25
 place: ZMB
 ---
 
@@ -9,8 +9,8 @@ place: ZMB
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">776</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">108</td><td class="num">18</td><td class="num">17</td><td class="num total">921</td></tr>
-<tr><th scope="row">Cybersecurity</th><td class="num">178</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">4</td><td class="num">4</td><td class="num">9</td><td class="num">17</td><td class="num total">213</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">739</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">108</td><td class="num">18</td><td class="num">17</td><td class="num total">884</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num">179</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">4</td><td class="num">4</td><td class="num">9</td><td class="num">17</td><td class="num total">214</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">21</td><td class="num">1</td><td class="num zero"></td><td class="num">19</td><td class="num">8</td><td class="num">5</td><td class="num">57</td><td class="num total">111</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">65</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">66</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num">10</td><td class="num">8</td><td class="num">8</td><td class="num">27</td><td class="num total">54</td></tr>
@@ -26,7 +26,7 @@ place: ZMB
 <tr><th scope="row">Innovation ecosystem</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Public debate and participation in policymaking</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">1,067</td><td class="num">31</td><td class="num">2</td><td class="num">48</td><td class="num">154</td><td class="num">66</td><td class="num">147</td><td class="num total">1,516</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">1,031</td><td class="num">31</td><td class="num">2</td><td class="num">48</td><td class="num">154</td><td class="num">66</td><td class="num">147</td><td class="num total">1,480</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/ZMB/all-finance.html">Full table &mdash; 280 rows, all 12 fields &rarr;</a>
@@ -65,8 +65,8 @@ place: ZMB
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">776</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">100</td><td class="num zero"></td><td class="num total">876</td></tr>
-<tr><th scope="row">Cybersecurity</th><td class="num">178</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">178</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">739</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">100</td><td class="num zero"></td><td class="num total">839</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num">179</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">179</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">65</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">65</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">6</td><td class="num">30</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">36</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">21</td><td class="num">1</td><td class="num zero"></td><td class="num">10</td><td class="num zero"></td><td class="num zero"></td><td class="num total">32</td></tr>
@@ -80,7 +80,7 @@ place: ZMB
 <tr><th scope="row">Innovation ecosystem</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Public debate and participation in policymaking</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">1,067</td><td class="num">31</td><td class="num">2</td><td class="num">10</td><td class="num">105</td><td class="num">4</td><td class="num total">1,219</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">1,031</td><td class="num">31</td><td class="num">2</td><td class="num">10</td><td class="num">105</td><td class="num">4</td><td class="num total">1,183</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">

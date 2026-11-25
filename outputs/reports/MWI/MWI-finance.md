@@ -1,6 +1,6 @@
 ---
 title: Malawi: finance
-compiled: 2026-11-24
+compiled: 2026-11-25
 place: MWI
 ---
 
@@ -9,7 +9,7 @@ place: MWI
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">276</td><td class="num">1</td><td class="num zero"></td><td class="num">74</td><td class="num">4</td><td class="num">4</td><td class="num total">360</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">252</td><td class="num">1</td><td class="num zero"></td><td class="num">74</td><td class="num">4</td><td class="num">4</td><td class="num total">336</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">9</td><td class="num">1</td><td class="num">1</td><td class="num">43</td><td class="num">17</td><td class="num">17</td><td class="num total">88</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">6</td><td class="num">15</td><td class="num zero"></td><td class="num">49</td><td class="num">7</td><td class="num">9</td><td class="num total">86</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">36</td><td class="num">1</td><td class="num">2</td><td class="num">8</td><td class="num">4</td><td class="num">4</td><td class="num total">55</td></tr>
@@ -28,7 +28,7 @@ place: MWI
 <tr><th scope="row">Data Exchange</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">367</td><td class="num">41</td><td class="num">4</td><td class="num">178</td><td class="num">37</td><td class="num">90</td><td class="num total">718</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">343</td><td class="num">41</td><td class="num">4</td><td class="num">178</td><td class="num">37</td><td class="num">90</td><td class="num total">694</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/MWI/all-finance.html">Full table &mdash; 680 rows, all 12 fields &rarr;</a>
@@ -64,7 +64,7 @@ place: MWI
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">276</td><td class="num">1</td><td class="num zero"></td><td class="num">70</td><td class="num zero"></td><td class="num zero"></td><td class="num total">347</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">252</td><td class="num">1</td><td class="num zero"></td><td class="num">70</td><td class="num zero"></td><td class="num zero"></td><td class="num total">323</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">6</td><td class="num">15</td><td class="num zero"></td><td class="num">40</td><td class="num zero"></td><td class="num">7</td><td class="num total">68</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">36</td><td class="num">1</td><td class="num">2</td><td class="num">4</td><td class="num zero"></td><td class="num zero"></td><td class="num total">43</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">40</td><td class="num total">40</td></tr>
@@ -82,7 +82,7 @@ place: MWI
 <tr><th scope="row">Cybersecurity</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">367</td><td class="num">41</td><td class="num">4</td><td class="num">118</td><td class="num">&lt;1</td><td class="num">47</td><td class="num total">578</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">343</td><td class="num">41</td><td class="num">4</td><td class="num">118</td><td class="num">&lt;1</td><td class="num">47</td><td class="num total">554</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">

@@ -1,6 +1,6 @@
 ---
 title: Algeria: finance
-compiled: 2026-11-06
+compiled: 2026-11-25
 place: DZA
 ---
 
@@ -12,7 +12,7 @@ place: DZA
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">84</td><td class="num">95</td><td class="num">94</td><td class="num total">273</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">18</td><td class="num">28</td><td class="num">29</td><td class="num total">75</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">22</td><td class="num">4</td><td class="num">8</td><td class="num total">34</td></tr>
-<tr><th scope="row">Cybersecurity</th><td class="num">6</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">12</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num">7</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num">2</td><td class="num total">13</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">4</td></tr>
 <tr><th scope="row">Geospatial data</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
@@ -22,7 +22,7 @@ place: DZA
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">7</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">127</td><td class="num">130</td><td class="num">134</td><td class="num total">399</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">8</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">127</td><td class="num">130</td><td class="num">134</td><td class="num total">400</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/DZA/all-finance.html">Full table &mdash; 69 rows, all 12 fields &rarr;</a>
@@ -57,7 +57,7 @@ place: DZA
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Cybersecurity</th><td class="num">6</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">6</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num">7</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">7</td></tr>
 <tr><th scope="row">Geospatial data</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
@@ -65,7 +65,7 @@ place: DZA
 <tr><th scope="row">National statistics</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">7</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">8</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">8</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">9</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
