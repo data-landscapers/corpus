@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-24-xwa-t-l-communications-dans-l-uemoa-les-acteurs-plaident-pour-une-int-grat",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Le Quotidien reports that Niger kept some vital services running through satellite links and neighbouring terrestrial links during the March 2024 cut of four submarine cables off Cote d'Ivoire.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "neighbouring terrestrial links",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
