@@ -2,7 +2,7 @@
 
 ## Health information system
 
-**Health information system.** [On 29 October 2025 the Health Minister said the ministry had introduced the Ghana Health Information Management System (GHIMS)](<https://www.myjoyonline.com/health-ministry-launches-new-digital-system-to-replace-failing-lhims-platform/>). [It replaces the failing LHIMS](<https://www.myjoyonline.com/health-ministry-launches-new-digital-system-to-replace-failing-lhims-platform/>). [In October 2024 the Vice President said LHIMS was deployed in about 481 health facilities, mostly hospitals, across all 16 regions](<https://gna.org.gh/2024/11/veep-launches-national-e-health-project-to-transform-ghanas-healthcare-system/>).
+**Health information system.** [On 24 November 2026 the Health Minister told Parliament that DHIMS is the public health information system](<https://www.myjoyonline.com/health-minister-directs-integration-of-dhims-and-ghims-to-unify-health-data-systems/>). He said he had directed that it be synchronised with GHIMS, the hospital system. [On 29 October 2025 the Health Minister said the ministry had introduced the Ghana Health Information Management System (GHIMS)](<https://www.myjoyonline.com/health-ministry-launches-new-digital-system-to-replace-failing-lhims-platform/>). [It replaces the failing LHIMS](<https://www.myjoyonline.com/health-ministry-launches-new-digital-system-to-replace-failing-lhims-platform/>). [In October 2024 the Vice President said LHIMS was deployed in about 481 health facilities, mostly hospitals, across all 16 regions](<https://gna.org.gh/2024/11/veep-launches-national-e-health-project-to-transform-ghanas-healthcare-system/>).
 
 **Linked.** No source found since October 2023 says the system is linked to surveillance, supply chain or a register. The nearest fact found: [in October 2025 the minister said GHIMS would manage health information across the country](<https://www.myjoyonline.com/health-ministry-launches-new-digital-system-to-replace-failing-lhims-platform/>).
 
@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says facilities across the country report to the ministry through LHIMS or GHIMS.
+***Not found***. No source found since October 2023 says facilities across the country report through DHIMS, LHIMS or GHIMS.

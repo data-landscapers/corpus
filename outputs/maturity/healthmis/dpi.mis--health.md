@@ -326,8 +326,9 @@ A health information system was under way in 2026; a national one in service is 
 
 ### Ghana: 2 Nascent
 
-A health information system was under way in 2025; a national one in service is not on record.
+The minister named DHIMS as the public health information system in 2026; whether facilities across the country report through it is not known.
 
+- Health Minister Kwabena Mintah Akandoh told Parliament on 24 November 2026 that DHIMS is the information management system for public health, long run apart from GHIMS, the hospital system, and that he had directed the two be synchronised ([source, 2026-11-24](https://www.myjoyonline.com/health-minister-directs-integration-of-dhims-and-ghims-to-unify-health-data-systems/)).
 - The Ministry of Health introduced the Ghana Health Information Management System (GHIMS) to manage health information across the country, replacing the failing LHIMS, per the Health Minister on 29 October 2025 ([source, 2025-10-29](https://www.myjoyonline.com/health-ministry-launches-new-digital-system-to-replace-failing-lhims-platform/)).
 - The Vice President said LHIMS was deployed in about 481 health facilities (teaching, regional, district, polyclinic and psychiatric hospitals) across all 16 regions, with over 1,000 health centres deployment ongoing ([source, 2024-10-31](https://gna.org.gh/2024/11/veep-launches-national-e-health-project-to-transform-ghanas-healthcare-system/)).
 

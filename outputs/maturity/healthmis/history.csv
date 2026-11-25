@@ -86,3 +86,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-21,MLI,dpi.mis--health,fact,3,4,MLI-007;MLI-002,DPM restored automatic DHIS2-OSPSANTE data transfer 17-18 Nov 2026: a link to the medicines supply chain; 3 to 4
 2026-11-21,GNQ,dpi.mis--health,fact,2,2,GNQ-001;GNQ-003,"UNDP handed DHIS2 to the ministry 16 Nov 2026, implemented in 18 districts; reporting across the country not stated; stays 2"
 2026-11-21,SWZ,dpi.mis--health,fact,no evidence,2,SWZ-001,National Health Intelligence Platform launched 16 Nov 2026; no national reporting through it stated; no evidence to 2
+2026-11-25,GHA,dpi.mis--health,fact,2,2,GHA-004;GHA-001;GHA-002,"The Health Minister told Parliament in November 2026 that DHIMS is the public health information system; no source says facilities across the country report through it, so the stage holds."

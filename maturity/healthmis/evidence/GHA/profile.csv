@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,hmis,system,coverage,underway,2025-10-29,GHA-001;GHA-002,,
+GHA,hmis,system,coverage,inservice,2026-11-24,GHA-004,GHA-001=underway;GHA-002=underway,
 GHA,hmis,linked,coverage,,,,,nothing found
 GHA,hmis,completeness,coverage,,,,,nothing found

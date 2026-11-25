@@ -56,6 +56,8 @@ COD,DHIS2 EVD Tracker,DRC,other,DHIS2 Tracker,Ministry of Health with HISP DRC a
 COD,eIDSR on national DHIS2 platform,DRC,hmis,DHIS2,"Ministry of Public Health, DSNIS and Directorate of Disease Surveillance","health centre, health zone, province",2024-07-01-rti-real-time-disease-surveillance-drc
 COD,DHIS2,DRC,hmis,DHIS2,Ministry of Health,,2025-10-15-cod-path-snapiform-ai-health-data-reporting
 COD,Etoile Bleue,Etoile Bleue emergency response,other,,Ministry of Health,,2026-11-09-rdc-un-systeme-connecte-pour-mieux-organiser-les-interventions-medical
+COD,InfoMed SIGL App,DR Congo,other,,ANAMED,,2026-11-21-cod-sante-la-cnss-engage-1-5-million-pour-digitaliser-la-gestion-de-ses-ce
+COD,Logimev,DR Congo,other,,,,2026-11-21-cod-sante-la-cnss-engage-1-5-million-pour-digitaliser-la-gestion-de-ses-ce
 COG,DHIS-2,Congo,hmis,DHIS2,Ministère de la Santé et de la Population,52 health districts to central,2022-08-12-cog-santetropicale-formation-cadres-dhis2
 COG,Systeme d'Information Communautaire (SIC),Congo,other,,Ministry of Health and Population,,2026-10-28-cog-talangai-lancement-de-la-formation-des-relais-communautaires-sur-lutil
 COG,DHIS2,Congo,hmis,DHIS2,,,2024-11-04-cog-selection-d-un-cabinet-international-pour-la-formation-de-52-gestionna
@@ -110,6 +112,7 @@ GHA,Lightwave Health Information Management System (LHIMS),LHIMS,other,,"Ministr
 GHA,Ghana Health Information Management System (GHIMS),GHIMS,other,,Ghana Health Service,,2026-10-22-gha-ghanaian-clinic-stored-patient-records-on-an-unassessed-syst
 GHA,Lightwave Health Information Management System (LHIMS),LHIMS,other,,"Ministry of Health (vendor Lightwave, India)",,2025-10-30-gha-data-protection-commission-probes-indian-owned-data-management-system
 GHA,Ghana Health Information Management System (GHIMS),GHIMS,other,,Ministry of Health,,2025-10-30-gha-data-protection-commission-probes-indian-owned-data-management-system
+GHA,GHIMS,Ghana Health Information Management System (hospital information),other,,Ministry of Health,,2026-11-24-gha-health-minister-directs-integration-of-dhims-and-ghims-to-unify-health-data-s
 GIN,DHIS2,national system (DHIS2),hmis,DHIS2,Ministry of Health and Public Hygiene,,2026-08-26-lepandaguinee-guinee-a-mamou-et-dalaba-le-pari-de
 GIN,OpenClinic,logiciel SIH Openclinic,other,OpenClinic,"five health facilities in Mamou and Dalaba, funded by Enabel",facility,2026-08-26-lepandaguinee-guinee-a-mamou-et-dalaba-le-pari-de
 GIN,SNIS,Système National d'Information Sanitaire,hmis,,Ministry of Health and Public Hygiene,,2025-11-27 Interoperability - key workshop to modernize Guinea's health information system
@@ -143,6 +146,7 @@ KEN,AdaM (All Disease Outbreak Module),AdaM,other,,ministry,,2026-10-15-ken-stan
 KEN,DHIS2 (Kenya),Kenya,hmis,DHIS2,,,2024-01-01-crs-302-2024020421a-2024-healthit-sustaining-use-of-district-health-informa
 KEN,DHIS2 (Kenya),Kenya,hmis,DHIS2,,,2024-01-01-crs-302-2024020421b-2024-healthit-sustaining-use-of-district-health-informa
 KEN,DHIS2 (Kenya),Kenya,hmis,DHIS2,,,2024-01-01-crs-302-2024020421d-2024-healthit-sustaining-use-of-district-health-informa
+KEN,SHA Oncology Module,Kenya,other,,Digital Health Agency,,2026-11-20-ken-sha-single-approval-cancer-treatment
 LBR,HMIS/DHIS2 at its national health data warehouse,Liberia,hmis,DHIS2,Ministry of Health,,2025-12-09-state-lbr-afghs-data-systems-2025-record
 LBR,eIDSR/IDSR,Liberia,other,,,,2025-12-09-state-lbr-afghs-data-systems-2025-record
 LBR,mSupply,Liberia,other,,,,2025-12-09-state-lbr-afghs-data-systems-2025-record
@@ -165,6 +169,7 @@ MDG,mTOMADY,Madagascar,other,,mTOMADY,,2025-10-07-mtomady-dhis2-interoperability
 MDG,CommCare,Madagascar,other,CommCare,"Ministry of Public Health, with USAID ACCESS/MSH/Dimagi","community health volunteers, health centers, districts",2024-05-21-msh-mobile-app-health-delivery-rural-madagascar
 MDG,National DHIS2 platform,Madagascar,hmis,DHIS2,Ministry of Public Health,,2026-10-01-mdg-hisp-centre-completes-dhis2-system-strengthening-support-in-madagascar
 MDG,One Health platform and laboratory information system,One Health DHIS2 platform,other,DHIS2,"Government of Madagascar with HISP UiO, World Bank financed",,2025-05-22-mdg-madagascar-et-le-hisp-uio-s-associent-pour-lancer-l-initiative-numeriq
+MDG,Système d'Information pour la Gestion (SIG),SIG,other,,Ministère de la Santé Publique,,2024-02-24-mdg-annuaire-des-statistiques-du-secteur-sante-de-madagascar-2023
 MLI,DISK-Mali,Mali,hmis,DHIS2,INSP / DGSHP with Vital Strategies,community health workers,2026-01-01-mali-insp-disk-mali-asc-notification-perinatal-deaths-births
 MLI,DHIS2,Mali,hmis,DHIS2,DGSHP,national,2025-09-19-muso-integrated-efficient-health-information-ecosystem
 MLI,DISC-Mali,Mali,other,,,community,2025-09-19-muso-integrated-efficient-health-information-ecosystem

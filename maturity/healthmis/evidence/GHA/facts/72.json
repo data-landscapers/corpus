@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-24-gha-health-minister-directs-integration-of-dhims-and-ghims-to-unify-health-data-s",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Health Minister Kwabena Mintah Akandoh told Parliament on 24 November 2026 that DHIMS handles public health information and that the current system has been in operation for at least the past year.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "DHIMS",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GHIMS",
+   "country_label": "Ghana Health Information Management System (hospital information)",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
