@@ -1,0 +1,27 @@
+{
+ "slug": "2024-10-11-sen-ousmane-thiongane-la-cdp-veut-renforcer-la-protection-des-donnees-des",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "APS reports that the CDP wants to present a personal-data protection bill and an implementing decree, which a workshop in Saly closing 11 October 2024 was upgrading, a reform it began in 2019.",
+   "as_of": "2024-10-11",
+   "date_precision": "day",
+   "system": "projet de loi sur la protection des données à caractère personnel",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "APS reports that the CDP, led by president Ousmane Thiongane, is acting on the data protection reform.",
+   "as_of": "2024-10-11",
+   "date_precision": "day",
+   "system": "Commission de protection des données personnelles (CDP)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

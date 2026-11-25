@@ -1,0 +1,37 @@
+{
+ "slug": "2026-06-08-cmr-what-is-ai-regulation-in-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "transition",
+   "fact": "Levellers says Law No. 2024/017 of 23 December 2024 on personal data protection is a standalone data law that becomes enforceable after an 18-month grace period ending 23 June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Law No. 2024/017 on personal data protection",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "Levellers says the law creates a Personal Data Protection Authority that had not been created by presidential decree or made operational as of mid-2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Personal Data Protection Authority",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "none",
+   "fact": "Levellers says implementing regulations under Law No. 2024/017 were still expected as of mid-2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Law No. 2024/017 on personal data protection",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

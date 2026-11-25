@@ -2,7 +2,7 @@
 
 ## General law
 
-**Authority.** The law [establishes an independent administrative authority](<https://communityvoice.bi/1489-2/>) to oversee the protection of personal data. The bill the National Assembly adopted in January 2026 [makes that authority responsible for enforcement](<https://www.wearetech.africa/en/fils-uk/news/tech/burundi-lawmakers-approve-data-protection-framework-as-digitalisation-accelerates>).
+**Authority.** The law [establishes an independent administrative authority](<https://communityvoice.bi/1489-2/>) to oversee the protection of personal data. On 18 November 2026 the Council of Ministers [approved a draft decree on the agency's duties, membership and resources](<https://www.burunditimes.com/burundi-faces-data-protection-test-as-eac-advances-regional-rules/>), subject to adjustments.
 
 **Standing.** The National Assembly [unanimously adopted a bill on personal data protection on 15 January 2026](<https://www.wearetech.africa/en/fils-uk/news/tech/burundi-lawmakers-approve-data-protection-framework-as-digitalisation-accelerates>). It governs the collection and processing of personal data in the public and private sectors. The head of state [promulgated the law on 10 March 2026](<https://communityvoice.bi/1489-2/>).
 

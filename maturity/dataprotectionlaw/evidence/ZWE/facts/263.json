@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-18-zwe-zimbabwe-approves-national-ai-charter-setting-ethical-standards-and-fr",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Ecofin Agency refers to Zimbabwe's Cyber and Data Protection Act of 2021 as existing legislation that applies to the processing of personal data in AI use.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act 2021",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

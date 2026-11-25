@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-lby-governance-of-artificial-intelligence-and-emerging-technologies",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "The Informatics Governance Forum session says Libya currently lacks a comprehensive data protection law.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "data protection law",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

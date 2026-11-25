@@ -1,0 +1,47 @@
+{
+ "slug": "2026-11-24-ken-meta-s-privacy-scandal-leaves-kenya-chasing-the-wrong-defendants",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "TechCabal states Kenya's Data Protection Act caps penalties for breaches at KES 5 million or 1% of annual turnover, whichever is lower.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Office of the Data Protection Commissioner is investigating Meta and two Sama companies, confirmed on 31 March 2026 per TechCabal.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The ODPC confirmed on 31 March 2026 an open investigation into Meta and two Sama companies over Ray-Ban glasses footage, with no decision yet reported.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "TechCabal says the ODPC imposed the full $38,000 penalty on smartphone maker OPPO in 2022, its first penalty notice.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Data Protection Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-09-19-ner-lintelligence-artificielle-un-outil-benefique-avec-diverses-contrainte",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Jurist Abdou Malam Garba cites Niger's law no. 2022-59 of 16 December 2022 on personal data protection as governing data processing.",
+   "as_of": "2022-12-16",
+   "date_precision": "day",
+   "system": "Law 2022-59",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The same jurist says the law requires AI developers and providers to declare to the HAPDP, the data protection authority.",
+   "as_of": "2025-09-19",
+   "date_precision": "day",
+   "system": "HAPDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

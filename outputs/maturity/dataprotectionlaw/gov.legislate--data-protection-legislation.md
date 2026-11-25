@@ -153,7 +153,7 @@ Cabo Verde's data protection law is in force and its commission decided 297 requ
 
 - An opinion piece by Luis Carlos Silva urges Cabo Verde to revisit its existing Data Protection Law (2001/2021) and align it with AI challenges, treating the law as the current one; no date for the stated position beyond the document's published date of 2025-04-07 ([source, 2025-04-07](https://expressodasilhas.cv/opiniao/2025/04/07/revolucao-tecnologica/96431)).
 - CNPD president Faustino Varela says the base law dates from 2001, was amended in 2013 (which led to the CNPD's constitution) and in 2021 (data protection officer obligation), and the CNPD works from the general legal regime since 2015-2016; stated in an interview published 2025-02-02 ([source, 2025-02-02](https://expressodasilhas.cv/pais/2025/02/02/a-ia-ou-o-big-data-nao-podem-por-em-causa-os-direitos-das-pessoas/95448)).
-- The CNPD president said the commission decided 297 processes out of 326 requests during 2023, and received seven complaint processes ([source, 2023](https://tiver.cv/cnpd-apresenta-relatorio-de-atividades-de-2023/)).
+- The CNPD president said the commission decided 297 processes out of 326 requests during 2023, and received seven complaint processes ([source, 2023](https://web.archive.org/web/20250512144516/https://tiver.cv/cnpd-apresenta-relatorio-de-atividades-de-2023/)).
 - The CNPD, headed by president Faustino Varela, held an international conference on personal data protection in the AI era for its 10th anniversary, with the Prime Minister opening it ([source, 2025-03-19](https://expressodasilhas.cv/pais/2025/03/19/presidente-da-cnpd-defende-dialogo-entre-os-ecossistemas-de-governanca-de-dados-para-equilibrar-regulacao-da-ia/96153)).
 
 ### Cote d'Ivoire: 4 Operating
