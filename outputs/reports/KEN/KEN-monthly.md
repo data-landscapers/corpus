@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: KEN
-ledger_rows: 119
+ledger_rows: 123
 not_held: 5
-record: dfe6400845c5
+record: d7937c1846ff
 ---
 
 # News, Oct – Nov 2026
@@ -14,6 +14,8 @@ record: dfe6400845c5
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -374,6 +376,20 @@ Kenya's Data Protection Commissioner closed its own-motion investigation into th
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Commissioner's investigation of Meta and Sama over smart-glasses footage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Meta’s privacy scandal leaves Kenya chasing the wrong defendants](https://techcabal.com/2026/11/24/meta-and-sama-privacy-probe-kenya/)** — TechCabal, 24 November 2026
+
+Kenya's data protection regulator is investigating Meta and two Sama companies over footage from Ray-Ban glasses. A witness statement in the case became public on 16 November 2026. Sama's US parent is winding down, with about USD 1 million in assets against USD 17 million in liabilities. Kenyan law caps a penalty at KES 5 million or 1% of turnover, whichever is lower.
+
+</div>
+
+</div>
+
 ### Regional collaboration
 
 <div class="monthly-story" markdown="1">
@@ -423,6 +439,28 @@ Lawyers at Bowmans, writing in CIO Africa on 12 November 2026, warn that Kenya's
 **[Governing AI in Kenya's Banking Sector: Inside CBK's Draft Guidance Notes on Artificial Intelligence](https://cipit.strathmore.edu/governing-ai-in-kenyas-banking-sector-inside-cbks-draft-guidance-notes-on-artificial-intelligence/)** — CIPIT, Strathmore University, 18 November 2026
 
 Linda Omondi of CIPIT analysed the Central Bank of Kenya's draft AI guidance for banks, issued for comment on 10 September 2026. The draft makes boards answerable for AI and requires CBK approval before deployment. Omondi faults its exclusion of payment service providers and a consent rule at odds with the Data Protection Act.
+
+</div>
+
+</div>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+</nav>
+
+### MoUs and other agreements
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EU-Kenya Digital Partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU and Kenya hold successful digital dialogue](https://digital-strategy.ec.europa.eu/en/news/eu-and-kenya-hold-successful-digital-dialogue)** — European Commission (DG CONNECT), 24 November 2026
+
+The EU and Kenya held their Digital Dialogue in Brussels on 23-24 November 2026 and launched a cooperation roadmap. They agreed AI Factories partnerships on language diversity and agriculture. Technical work on digital identity will follow the EU Digital Identity Framework. Team Europe's pipeline is to bring aerial fibre to 3,000 schools, health centres and digital hubs.
 
 </div>
 
@@ -1085,6 +1123,20 @@ TechCabal reported on 17 November 2026 that stablecoins can move dollar value ac
 **[Payaza secures digital payment licence from Central Bank of Kenya](https://www.wearetech.africa/fr/fils/breves/breves-simple/payaza-decroche-une-licence-de-paiement-numerique-aupres-de-la-banque-centrale-du-kenya)** — wearetech.africa, 17 November 2026
 
 Payaza, a payment-gateway fintech, obtained Central Bank of Kenya authorisation after nearly four years of applications, reported on 17 November 2026. The company runs cross-border transaction infrastructure linking East, West and Southern Africa.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">M-PESA Shiriki Pay</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Safaricom Reports 3.7 Million Opt-Ins for M-PESA Shiriki Pay](https://techafricanews.com/2026/11/24/safaricom-shiriki-pay-records-3-7-million-customer-opt-ins/)** — Tech Africa News, 24 November 2026
+
+Safaricom reported over 3.7 million customer opt-ins for M-PESA Shiriki Pay as at 24 November 2026. The service lets an account holder authorise up to five beneficiaries to pay from the wallet, each capped at KES 20,000 a month. Beneficiaries cannot withdraw cash or see the balance.
 
 </div>
 
@@ -1759,6 +1811,20 @@ Kenyan fintech WayaWaya announced a partnership with Choice Bank on 6 November 2
 **[Court puts State on notice over use of AI in public services](https://nation.africa/kenya/news/court-puts-state-on-notice-over-use-of-ai-in-public-services--5671740)** — Daily Nation, 15 November 2026
 
 Kenya's High Court gave the government six months to complete a national policy and legal framework for the use of artificial intelligence. Justice Edward Muriithi declined to order Parliament to enact legislation within 90 days.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mahakama AI judicial research tool</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mahakama AI: Judiciary pilots AI tool to tackle chronic case backlog](https://www.the-star.co.ke/news/2026-11-19-judiciary-pilots-ai-tool-to-tackle-case-backlog)** — The Star, 19 November 2026
+
+Judiciary pilots Mahakama AI amid 579,954 pending cases (June 2026); AI adoption policy being finalised.
 
 </div>
 
