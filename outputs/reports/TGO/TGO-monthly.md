@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: TGO
-ledger_rows: 41
+ledger_rows: 43
 not_held: 15
-record: 88889d46100c
+record: a2cb6e155a8a
 ---
 
 # News, Oct – Nov 2026
@@ -540,6 +540,8 @@ Togo's agriculture ministry held a World Bank-supported national consultation on
 <a href="#ai">AI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-industry">ICT Industry</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -612,6 +614,20 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">National digital observatory AI assistant</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Développement numérique au Togo : un assistant IA permet désormais d'accéder rapidement aux données officielles](https://lanouvellerepublique.net/economie/numerique/developpement-numerique-au-togo-un-assistant-ia-permet-desormais-dacceder-rapidement-aux-donnees-officielles/)** — La Nouvelle République, 28 October 2026
+
+Digital economy ministry adds a natural-language AI assistant to the national digital observatory's statistics.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Placing on the Ayre Index of AI readiness</p>
 
 <div class="bulletin-item" markdown="1">
@@ -635,6 +651,22 @@ The Ayre Think Tank published an AI readiness index at the Commonwealth summit i
 **[BoD-TPME : les start-up togolaises peuvent déposer leur logiciel](https://actulome.com/bod-tpme-appel-startups-solutions-numeriques/)** — ActuLome, 21 November 2026
 
 Togo has invited start-ups and developers to list locally built software on BoD-TPME, its public digital toolbox for small businesses, ActuLome reported on 21 November 2026. The call opened in the week of 20 November. No selection criteria or closing date have been published, and the catalogue had mainly listed international open-source tools.
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital toolkit for micro and small enterprises (BoD-TPME)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo Opens Software Platform to Local Developers](https://www.togofirst.com/en/itc/2311-20728-togo-opens-software-platform-to-local-developers)** — Togo First, 23 November 2026
+
+BoD-TPME call opened 20 Nov 2026, closes 8 Jan 2027; listed software eligible for SME purchase subsidies.
 
 </div>
 
