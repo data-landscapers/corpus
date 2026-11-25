@@ -1,3 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SDN,rule,standing,coverage,none,2026-07-19,SDN-001,,
-SDN,rule,use,coverage,,,,,nothing held
+SDN,rule,standing,coverage,none,2026-07-20,SDN-001;SDN-005,,
+SDN,rule,open,coverage,unlocalised,2023-10-21,SDN-002,,nothing dated since 2023-11-25
+SDN,rule,route,coverage,,,,,nothing found
+SDN,rule,africa,coverage,signed,2026-07-20,SDN-003;SDN-004;SDN-006,,

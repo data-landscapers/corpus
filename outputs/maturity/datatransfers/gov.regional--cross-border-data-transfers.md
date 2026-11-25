@@ -22,10 +22,10 @@ The African Union's Convention on Cyber Security and Personal Data Protection (t
 |---|---|
 | 5 Mature | 1 |
 | 4 Operating | 1 |
-| 3 Established | 11 |
+| 3 Established | 12 |
 | 2 Nascent | 26 |
 | 1 Absent | 3 |
-| Unplaced | 12 |
+| Unplaced | 11 |
 | No evidence | 0 |
 
 ## Countries
@@ -64,6 +64,13 @@ Transfers go to adequate countries or on consent and listed grounds since 2013; 
 Since 2021 transfers abroad rest on adequacy, safeguards or derogations; no published list is on file, and Malabo is signed only.
 
 - TechHive Advisory reports that the Comoros Protection of Personal Data Law, enacted on 29 June 2021, governs international transfers on a risk-based model (adequacy, appropriate safeguards, derogations) ([source, 2021-06-29](https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law)).
+
+### DR Congo: 3 Established
+
+The DR Congo's 2023 Digital Code lets personal data go to countries with equivalent protection; no published list or model terms has been found.
+
+- Levellers says the Digital Code, in force since 11 April 2023, generally restricts cross-border transfers of personal data unless the destination gives equivalent protection or the minister authorises it ([source, 2023-04-11](https://www.levellers.ai/what-is/ai-regulation-democratic-republic-of-congo)).
+- The source states that the Code du numerique (articles 262 to 270) creates a data protection authority whose duties include authorising or refusing cross-border transfers of personal data to third states, and that since 17 August 2024 a ministerial order gives those duties to ARPTIC because the authority itself is not yet set up; the source gives no date for the statement, so its published date 2025-01-01 is used ([source, 2025-01-01](https://droitnumerique.cd/autorite-de-protection-des-donnees/)).
 
 ### Djibouti: 3 Established
 
@@ -136,6 +143,12 @@ Sending personal data abroad needs the data authority's authorisation, per its S
 
 - The CIL's annex form is an application for authorisation to transfer personal data to a foreign country, asking about the recipient, destination authority, consent and security measures ([source, 2026-09](https://cil.bf/wp-content/uploads/2026/09/FORMULAIRE_ANNEXE-TRANSFERT-DE-DONNEES-A-LETRANGER-1.pdf)).
 
+### Burundi: 2 Nascent
+
+Burundi's 2026 data protection law requires adequate protection abroad; when the law takes effect is not known, and the Malabo Convention is unratified.
+
+- Burundi Times says Article 15 of Burundi's data protection law requires countries receiving personal data from Burundi to give an adequate level of protection, and that transfers elsewhere are allowed with appropriate safeguards ([source, 2026-11-24](https://www.burunditimes.com/burundi-faces-data-protection-test-as-eac-advances-regional-rules/)).
+
 ### Cameroon: 2 Nascent
 
 Since the 2024 law every transfer abroad needs the authority's authorisation, though the authority is not yet created; Cameroon has not ratified Malabo.
@@ -166,12 +179,6 @@ Since April 2025 the data authority can authorise cross-border transfers; no ope
 Since 2015 every transfer abroad needs the telecoms regulator's prior authorisation; Côte d'Ivoire ratified the Malabo Convention in 2023.
 
 - Decree 2015-79 of 4 February 2015, issued under law 2013-450, requires prior authorisation from the telecoms regulator ARTCI for transferring personal data to a third country that gives equal or higher protection, and sets sanctions for non-compliance (articles 6 and 8) ([source, 2015-02-04](https://www.artci.ci/wp-content/uploads/2024/05/decret_2015_79.pdf)).
-
-### DR Congo: 2 Nascent
-
-Cross-border transfers need the authority's approval, with ARPTIC acting in its place since August 2024; the DRC ratified the Malabo Convention in 2025.
-
-- The source states that the Code du numerique (articles 262 to 270) creates a data protection authority whose duties include authorising or refusing cross-border transfers of personal data to third states, and that since 17 August 2024 a ministerial order gives those duties to ARPTIC because the authority itself is not yet set up; the source gives no date for the statement, so its published date 2025-01-01 is used ([source, 2025-01-01](https://droitnumerique.cd/autorite-de-protection-des-donnees/)).
 
 ### Egypt: 2 Nascent
 
@@ -306,12 +313,6 @@ As of July 2026 no Sudanese law governs sending data abroad; the country signed 
 Benin ratified the Malabo Convention in 2024, but no source states its rule on sending personal data abroad.
 
 Not established: No source found says what Benin's law rules on sending personal data abroad.
-
-### Burundi: Unplaced
-
-No rule on sending data abroad is on file; the Malabo Convention is unratified, as of February 2026.
-
-Not established: No source found says what Burundian law rules on sending personal data abroad, or that Burundi has ratified the Malabo Convention.
 
 ### Equatorial Guinea: Unplaced
 

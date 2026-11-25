@@ -68,3 +68,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-31,ZMB,gov.regional--cross-border-data-transfers,ladder,2,2,ZMB-001,"Rescored on the new ladder (Bill, messages-for-bill 58, 2026-10-31)"
 2026-10-31,ZWE,gov.regional--cross-border-data-transfers,ladder,5,2,ZWE-001,"Rescored on the new ladder (Bill, messages-for-bill 58, 2026-10-31)"
 2026-11-01,ZMB,gov.regional--cross-border-data-transfers,fact,2,2,ZMB-006;ZMB-007,"Commissioner, Feb 2024: Act implementation began; s.71 transfer conditions and s.70(1) storage in the Republic. Standing draft -> in-force, open localised; stage 2 holds."
+2026-11-25,COD,gov.regional--cross-border-data-transfers,fact,2,3,COD-005;COD-001,"A June 2026 legal summary says the Digital Code lets personal data go without permission to a country with equivalent protection, so the DR Congo's rule is open as well as protected."
+2026-11-25,BDI,gov.regional--cross-border-data-transfers,fact,unplaced,2,BDI-003,Burundi Times reports that Article 15 of the March 2026 data protection law requires adequate protection in the receiving country. No source found says the law has taken effect.

@@ -1,3 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,rule,standing,coverage,in-force,2026-06-23,CMR-001;CMR-002,,
-CMR,rule,use,coverage,,,,,nothing found
+CMR,rule,standing,coverage,in-force,2026-06-23,CMR-001;CMR-002;CMR-008,,
+CMR,rule,open,coverage,localised,2025-12-11,CMR-003;CMR-004,,
+CMR,rule,route,coverage,,,,,nothing found
+CMR,rule,africa,coverage,signed,2026-06,CMR-005;CMR-006;CMR-007;CMR-009,,

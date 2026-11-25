@@ -4,7 +4,7 @@
 
 **Protected when sent abroad.** [The Code du numérique, articles 262 to 270](<https://droitnumerique.cd/autorite-de-protection-des-donnees/>), creates a data protection authority. Its duties include authorising or refusing cross-border transfers of personal data to third states. Since 17 August 2024 a ministerial order has given those duties to the regulator ARPTIC, because the authority is not yet set up.
 
-**Open without permission each time.** Every transfer waits on the authority's decision. The [source](<https://droitnumerique.cd/autorite-de-protection-des-donnees/>) names no route to send data without it.
+**Open without permission each time.** A [June 2026 legal summary](<https://www.levellers.ai/what-is/ai-regulation-democratic-republic-of-congo>) says the Digital Code restricts transfers of personal data abroad. A transfer may go where the destination gives equivalent protection. Otherwise the minister must authorise it. The [source on the authority](<https://droitnumerique.cd/autorite-de-protection-des-donnees/>) gives that role to the authority.
 
 **Published way to send data without asking.** No list of countries, model contract terms or general authorisation was found. The [source on the authority](<https://droitnumerique.cd/autorite-de-protection-des-donnees/>) describes authorisation or refusal as its role in transfers.
 
@@ -12,4 +12,4 @@
 
 ***Also on file***. [A ministry report of 24 July 2025](<https://sgptntic.gouv.cd/transition-numerique-le-ministre-augustin-kibassa-maliba-visite-le-data-center-du-gouvernement/>) quotes an official. The official says the telecommunications law requires all public administration data to be hosted in the government data centre in Kinshasa.
 
-***Not found***. No source found says any transfer goes without the authority's decision. No source found says a list of countries, model contract terms or a general authorisation has been published.
+***Not found***. No source found says a list of countries, model contract terms or a general authorisation has been published.

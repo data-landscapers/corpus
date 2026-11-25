@@ -1,3 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,rule,standing,coverage,in-force,2025-01-01,COD-001,,
-COD,rule,use,coverage,,,,,nothing held
+COD,rule,standing,coverage,in-force,2025-01-01,COD-001;COD-005,,
+COD,rule,open,coverage,localised,2025-07-24,COD-002,,
+COD,rule,route,coverage,,,,,nothing found
+COD,rule,africa,coverage,ratified,2026-02-02,COD-003;COD-004;COD-006,,
