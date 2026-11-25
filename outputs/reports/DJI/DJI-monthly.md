@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: DJI
 ledger_rows: 17
 not_held: 10
-record: 5fbd6f87542f
+record: 9ddf837074fe
 ---
 
 # News, Oct – Nov 2026
@@ -111,6 +111,14 @@ Djiblive reported that Djibouti and the French Development Agency signed a EUR 5
 **[Deux projets numériques de 30 millions de dollars passés en revue, avec un appel à accélérer](https://www.adi.dj/public/article/139032)** — ADI Djibouti, 25 October 2026
 
 Djibouti's minister Mohamed Abdoulkader Moussa reviewed two IDA-funded digital projects with the regulator ARMD and the state information systems agency ANSIE and called for faster implementation. The US$10 million DFN project has completed 26 of 35 activities, with nearly 80% of funds committed and 56% disbursed, before it closes on 30 June 2027; the US$20 million EARDIP's cross-border links, twelve 4G sites and fibre loops to Dikhil, Tadjourah and Obock still await approval of commercial, environmental and social studies.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti étend la fibre optique pour connecter administrations, écoles et hôpitaux](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-etend-la-fibre-optique-pour-connecter-administrations-ecoles-et-hopitaux)** — wearetech.africa, 24 November 2026
+
+Djibouti plans to connect 104 more public sites to fibre by December 2026, among them Peltier hospital, schools and administrative buildings, after a 33-site pilot. The work falls under the IDA-funded US$10m Djibouti Digital Foundations project.
 
 </div>
 
