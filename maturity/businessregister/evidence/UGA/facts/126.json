@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-24-uga-government-seeks-integrated-business-registration-system-to-cut-costs",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Nile Post reports Finance Minister Henry Musasizi saying a Central Register of Non-Individuals, a digital repository to verify companies, is intended and that URSB has digitised its services; he asked URSB, URA, the Uganda Investment Authority and local governments to build interoperable systems and a one-stop centre.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "Central Register of Non-Individuals",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

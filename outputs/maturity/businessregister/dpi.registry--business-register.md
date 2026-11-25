@@ -137,7 +137,7 @@ Guinea-Bissau's one-stop centre took company files online in 2026, with payment 
 Firms could register online in 2026; a number shared with tax is not known, and an online register of beneficial owners ran for private companies.
 
 - Kenyans.co.ke reports the Business Registration Service launched its BRS Version II online portal on eCitizen on 16 February 2026 for company changes, and digital downloadable certificates have replaced physical ones ([source, 2026-02-16](https://www.kenyans.co.ke/news/120891-huduma-kenya-clarifies-end-physical-business-certificates-after-ecitizen-integration)).
-- The Business Registration Service says name reservation and business registration are merged into one step, with three preferred names and the full application submitted online ([source, 2026](https://brs.go.ke)).
+- The Business Registration Service says name reservation and business registration are merged into one step, with three preferred names and the full application submitted online ([source, 2026](https://web.archive.org/web/20260713154444/https://brs.go.ke/)).
 
 ### Madagascar: 3 Established
 
