@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: MDG
 ledger_rows: 33
 not_held: 5
-record: 41f7f8bfab01
+record: 2c93c627ae73
 ---
 
 # News, Oct – Nov 2026
@@ -112,6 +112,14 @@ Madagascar's government filed bill 040/2026 on electronic communications and dig
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[TÉLÉCOMMUNICATIONS - Le gouvernement réexamine le projet de loi sur le numérique](https://www.lexpress.mg/2026/11/telecommunications-le-gouvernement.html)** — L’Express de Madagascar, 24 November 2026
+
+Madagascar's government withdrew bill 040/2026 on electronic communications from the National Assembly's agenda on 2 November 2026. The cybercrime bill was withdrawn with it. On 13 November the Prime Minister's office said its clauses on competition and an impartial regulator need revising. Filed on 28 August 2026 to replace the 2005 law, the bill is to return later.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -123,6 +131,14 @@ Madagascar's government filed bill 040/2026 on electronic communications and dig
 **[Lutte contre la cybercriminalité: les Parlementaires réexaminent le projet de loi](https://newsmada.com/2026/10/24/lutte-contre-la-cybercriminalite-les-parlementaires-reexaminent-le-projet-de-loi/)** — Newsmada, 24 October 2026
 
 Madagascar's 96-article cybercrime bill n° 042/2026, which would replace the 2014 law and was postponed at September's extraordinary session, returns to committee in the National Assembly on 2 November. Contested provisions include article 75, giving a new digital investigation unit (UPIN) permanent direct access to operators' systems with fines of 100 to 500 million ariary for refusal, and article 52 on criminal liability for administrators of pages and groups; the access-to-public-information bill n° 017/2025 is also on the session's agenda.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[TÉLÉCOMMUNICATIONS - Le gouvernement réexamine le projet de loi sur le numérique](https://www.lexpress.mg/2026/11/telecommunications-le-gouvernement.html)** — L’Express de Madagascar, 24 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
