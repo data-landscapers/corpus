@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: MUS
-ledger_rows: 45
+ledger_rows: 46
 not_held: 7
-record: d145b7cbabde
+record: a2082c6c285c
 ---
 
 # News, Oct – Nov 2026
@@ -665,6 +665,20 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 </nav>
 
 ### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI-powered personalised learning platform for the education sector</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Expression of Interest (EOI) for the project "AI-Powered Personalised Learning Platform for the Education Sector"](https://education.govmu.org/Communique/2026/Press%20Communique%20EOI%20AI.pdf)** — Ministry of Education and Human Resource, 6 November 2026
+
+Ref MOEHR/EOI 032/2026-2027; submissions due 20 November 2026; open to foreign providers with local agents.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
