@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-10-mar-ladsi-hamsas-ai-governance-model-eu-china",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article lists law no. 05-20 on cybersecurity among Morocco's laws in force.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Law 05-20",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article lists law no. 07-03 on offences against automated data processing systems among Morocco's laws in force.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Law 07-03",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

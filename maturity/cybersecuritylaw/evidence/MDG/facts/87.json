@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-24-mdg-telecommunications-le-gouvernement-reexamine-le-projet-de-loi-sur-le-numerique",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "L'Express de Madagascar reports the government withdrew the cybercrime bill from the National Assembly's agenda in November 2026, at the same time as the electronic communications bill, so it is a bill not yet passed.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "cybercrime bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
