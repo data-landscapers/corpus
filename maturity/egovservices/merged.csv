@@ -47,6 +47,7 @@ BDI,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 BDI,2026-11-18-bdi-digitalbusiness-nouveau-systeme-integre-gestion-finances-publiques,,2026-11-21
 BDI,2026-11-18-estdev-eac-estdev-cooperation-agreement-cross-border-e-services,,2026-11-21
 BDI,2026-11-23-xea-eac-advances-regional-framework-for-trusted-cross-border-data-flows-and-data-pro,,2026-11-24
+BDI,2026-11-24-bdi-burundi-faces-data-protection-test-as-eac-advances-regional-rules,,2026-11-25
 BEN,2023-11-29-ega-benin-staying-on-top-of-digital-transformation,,2026-11-21
 BEN,2024-01-01-ben-uxp-based-public-services-in-benin,,2026-10-28
 BEN,2024-01-01-un-e-government-survey-2024-south-africa,,2026-10-19
@@ -205,6 +206,7 @@ COD,2025-10-10-cod-la-rdc-lance-la-redaction-de-son-plan-national-du-numerique-2
 COD,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 COD,2026-01-01-kinshasa-drones-kin-alerte-rdcmonde,,2026-11-23
 COD,2026-01-26-cod-identification-numerique-97-1-millions-dinvestissements-pour-deployer,,2026-11-12
+COD,2026-02-16-cod-rapport-d-evaluation-de-la-preparation-de-la-rdc-a-l-ia-quelles-lecons,,2026-11-25
 COD,2026-03-06-cod-kinshasa-la-dgrk-lance-la-plateforme-irms-dgrk-com-pour-la-declaration,,2026-11-03
 COD,2026-03-19-cod-armp-dgcmp-concertation-sigmap,,2026-10-19
 COD,2026-04-29-cod-armp-operationnalisation-sigmap-vpm-budget,,2026-10-19
@@ -478,6 +480,7 @@ GIN,2025-11-17-sen-senegal-and-guinea-sign-digital-cooperation-agreement-at-tran
 GIN,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 GIN,2026-01-01-gin-guineegouv-guinee-connect-portail,,2026-10-19
 GIN,2026-04-07-ande-atelier-e-services-interoperabilite-systemes-publics,,2026-10-19
+GIN,2026-04-07-gin-reunion-de-cabinet-un-engagement-renforce-pour-un-service-public-de-qu,,2026-11-25
 GIN,2026-04-07-gin-wardip-atelier-eservices-interoperabilite,,2026-10-19
 GIN,2026-04-09-gin-wardip-atelier-govstack-e-services-interoperabilite,,2026-11-11
 GIN,2026-05-07-ande-deploiement-plateforme-nationale-e-services,,2026-10-19
@@ -583,6 +586,7 @@ KEN,2026-09-03-ken-digitalization-government-services-pc-indicator-guidelines-fy
 KEN,2026-09-04-ken-ruto-cites-infrastructure-technology-and-welfare-gains-in-police-refor,,2026-11-12
 KEN,2026-09-21-ken-posta-kenya-announces-plan-to-turn-post-offices-into-digital-hubs,,2026-11-23
 KEN,2026-09-24-ken-cross-border-digital-public-service-pilot,,2026-10-19
+KEN,2026-09-25-ken-kenya-builds-foundation-for-ai-agents,,2026-11-25
 KEN,2026-10-15-ken-huduma-centres-legal-framework,,2026-10-19
 KEN,2026-10-21-ken-mps-want-land-succession-done-digitally-through-e-citizen,,2026-10-22
 KEN,2026-10-22-ken-ict-ministry-puts-gov-t-agencies-on-alert-after-php-security-flaws,,2026-10-24
@@ -633,6 +637,7 @@ LBY,2024-12-09-lby-new-libyan-regulations-for-contracting-with-the-public-sector
 LBY,2024-12-26-lby-cabinet-decision-705-2024-dawlati-platform,,2026-11-03
 LBY,2025-06-22-lby-annir-internet-impact-assessment-digital-laws,,2026-11-12
 LBY,2025-08-01-lby-libyaherald-attaat-tendering-platform-operational,,2026-10-19
+LBY,2025-10-28-lby-libi-gpt-generative-ai-model-launch,,2026-11-25
 LBY,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 LBY,2026-09-23-lby-sarabic-electronic-services-cash-crisis,,2026-10-19
 LBY,2026-10-29-lby-lana-passports-authority-773-evisa-applications-week,,2026-10-31
@@ -1232,6 +1237,7 @@ TUN,2026-07-28-tunisie-enquete-observatoire-int-2026-ia-achats-en-ligne,,2026-10
 TUN,2026-09-25-egy-egypts-data-protection-deadline-a-regulator-inside-the-executive-and-a,,2026-10-30
 TUN,2026-10-16-tun-leconomistemaghrebin-int-barometre-numerique-2026-ia,,2026-10-19
 TUN,2026-10-19-tun-tunisie-moins-de-paperasse-2-250-procdures-administratives-en-cours-de,,2026-10-22
+TUN,2026-10-21-tun-administration-deux-projets-pilotes-dintelligence-artificielle-prevus,,2026-11-25
 TUN,2026-10-23-tun-cybers-curit-plusieurs-organismes-publics-tunisiens-suspendent-temporairement-le,,2026-10-26
 TUN,2026-10-24-tun-tunisie-bct-steg-atct-plusieurs-sites-institutionnels-suspendus-detail,,2026-10-28
 TUN,2026-11-04-tun-ministry-of-finance-1-8-million-invoices-received-through-the-electron,,2026-11-08
@@ -1260,6 +1266,7 @@ TZA,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 TZA,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states,,2026-10-19
 TZA,2026-01-30-tza-certified-clients-under-iso-27001-2022-information-security-management,,2026-11-15
 TZA,2026-02-20-tza-courts-adopt-ai-integrated-data-systems,,2026-10-21
+TZA,2026-03-01-tza-makala-mapinduzi-ya-kidigitali-mahakamani-hukumu-sasa-zaandikwa-kwa-ak,,2026-11-25
 TZA,2026-04-08-tza-taarifa-kwa-umma-matumizi-ya-mfumo-ulioboreshwa-wa-utoaji-huduma,,2026-10-24
 TZA,2026-06-02-tza-tanzania-isles-sets-ambitious-digital-agenda-with-53-39bn-ict-budget,,2026-11-01
 TZA,2026-06-19-tza-the-cybercrimes-protection-of-critical-information-infrastructure-orde,,2026-10-28
@@ -1277,6 +1284,7 @@ TZA,2026-11-06-tza-tanzanias-smallholder-farmers-struggle-to-benefit-from-digita
 TZA,2026-11-17-tza-tanzania-na-estonia-kuimarisha-ushirikiano-katika-teknolojia-za-kidiji,,2026-11-21
 TZA,2026-11-19-tza-fcc-banks-on-its-automation-digital-system-to-advance-efficiency-in-pu,,2026-11-21
 TZA,2026-11-23-xea-eac-advances-regional-framework-for-trusted-cross-border-data-flows-and-data-pro,,2026-11-24
+TZA,2026-11-24-bdi-burundi-faces-data-protection-test-as-eac-advances-regional-rules,,2026-11-25
 UGA,2023-01-24-uga-moict-national-cybersecurity-strategy-page,,2026-11-11
 UGA,2023-11-09-uga-ministerial-meeting-for-the-ict-infrastructure-development-9th-novembe,,2026-11-09
 UGA,2024-04-11-uga-trusted-data-exchange-is-key-to-driving-africa-s-digital-future-uganda,,2026-10-28
@@ -1316,6 +1324,7 @@ UGA,2026-11-05-uga-ursb-launches-mobile-app-for-business-registration-services,,
 UGA,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 UGA,2026-11-10-uga-what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry,,2026-11-13
 UGA,2026-11-23-xea-eac-advances-regional-framework-for-trusted-cross-border-data-flows-and-data-pro,,2026-11-24
+UGA,2026-11-24-bdi-burundi-faces-data-protection-test-as-eac-advances-regional-rules,,2026-11-25
 ZAF,2010-10-01-zaf-national-e-skills-plan-of-action-nespa-draft,,2026-11-11
 ZAF,2012-04-13-zaf-doc-ict-policy-colloquium-discussion-document,,2026-11-11
 ZAF,2015-03-01-zaf-nemisa-strategic-plan-2015-2020,,2026-11-11
@@ -1374,6 +1383,7 @@ ZMB,2024-08-28-zmb-zambia-gets-100m-world-bank-grant-and-mosip-boost-for-digital
 ZMB,2024-09-11-zmb-zamportal-director-sibulowa-introduces-gsb,,2026-10-19
 ZMB,2024-11-23-zmb-zambiamonitor-zppa-egp-sanctions-tenders,,2026-10-19
 ZMB,2024-12-11-zmb-smart-zambia-dzap-general-procurement-notice,,2026-10-23
+ZMB,2025-01-29-zmb-zambia-introduces-e-government-portal,,2026-11-25
 ZMB,2025-08-13-orf-mehta-india-blueprint-africa-dpi,,2026-11-21
 ZMB,2025-09-08-zmb-smart-zambia-unveils-six-milestones-in-drive-toward-a-digitally-empowe,,2026-11-12
 ZMB,2025-10-09-zmb-zambia-visa-sign-mou-to-accelerate-digital-payments-push,,2026-11-15
@@ -1382,6 +1392,7 @@ ZMB,2025-12-18-worldbank-govtech-dataset-dec2025,,2026-11-11
 ZMB,2026-03-24-zmb-itu-zamstats-2025-ict-survey-highlights,,2026-10-19
 ZMB,2026-03-25-zmb-smart-zambia-pushes-to-eliminate-paper-patient-files-to-electronic-hea,,2026-11-21
 ZMB,2026-05-18-zambia-id4africa-multi-sectoral-engagement,,2026-10-19
+ZMB,2026-05-27-zmb-zambia-signs-pact-with-huawei-to-drive-ai-powered-e-gov-t,,2026-11-25
 ZMB,2026-08-23-efficacynews-zambia-labour-ministry-digital-services,,2026-10-19
 ZMB,2026-08-24-govt-pushes-digitalisation-to-expand-services,,2026-10-19
 ZMB,2026-08-26-sinazongwe-smart-zambia-ict-deployment-techafricanews,,2026-10-19
