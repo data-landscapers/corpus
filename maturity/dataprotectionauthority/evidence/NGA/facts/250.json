@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-03-nga-joint-statement-on-ai-generated-imagery-and-the-protection-of-privacy",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Nigeria Data Protection Commission, represented by National Commissioner and CEO Dr. Vincent Olatunji, co-signed an international data protection authorities' joint statement released 23 February 2026.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

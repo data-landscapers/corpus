@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-cmr-what-is-ai-regulation-in-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "Levellers says Law No. 2024/017 of 23 December 2024 creates a Personal Data Protection Authority, which as of mid-2026 had not been created by presidential decree or made operational.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Personal Data Protection Authority",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

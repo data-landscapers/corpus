@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-24-bdi-burundi-faces-data-protection-test-as-eac-advances-regional-rules",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "Burundi Times reports that Law No. 1/03 of 10 March 2026 establishes an Agency for the Protection of Personal Data, whose operational arrangements are still being developed, and that the Council of Ministers approved a draft decree on the agency on 18 November 2026 subject to adjustments.",
+   "as_of": "2026-11-18",
+   "date_precision": "day",
+   "system": "Agency for the Protection of Personal Data",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

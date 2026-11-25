@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-cod-what-is-ai-regulation-in-the-democratic-republic-of-the-congo",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "Levellers says Article 262 of the Digital Code provides for a data protection authority to be set up by Prime Minister's decree, that no decree has been adopted, and that a 17 August 2024 ministerial decree provisionally gave its functions to the telecoms regulator ARPTC.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Autorite de protection des donnees",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
