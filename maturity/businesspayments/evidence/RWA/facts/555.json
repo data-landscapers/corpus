@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-rwa-call-for-proposals-ai-powered-commodity-classification-system-for-rwan",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The call for proposals describes the UMUCYO e-Procurement platform as Rwanda's existing procurement system, for which an AI classification system is sought.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "UMUCYO e-Procurement platform",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UMUCYO e-Procurement platform",
+   "country_label": "Rwanda",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Rwanda Public Procurement Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
