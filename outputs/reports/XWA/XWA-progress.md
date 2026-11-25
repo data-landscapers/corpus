@@ -1,20 +1,20 @@
 ---
 title: West Africa — progress report, November 2025 – November 2026
-compiled: 2026-11-24
-period: 2025-11-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2025-11-01 to 2026-11-25
 place: XWA
-ledger_rows: 149
+ledger_rows: 151
 not_held: 1
-record: 1553edb13758
+record: 268485adaf16
 ---
 
 # West Africa: progress report, November 2025 – November 2026
 
-*Compiled 2026-11-24 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-11-25 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 149 bodies, instruments and systems on this place's ledger, 79 changed position between 2025-11-01 and 2026-11-24, 20 did not, 49 carry no stated baseline, and 1 is ***Not held*** at both ends.*
+*Of 151 bodies, instruments and systems on this place's ledger, 79 changed position between 2025-11-01 and 2026-11-25, 20 did not, 51 carry no stated baseline, and 1 is ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 319 sources for this place in the window — 79 in the earlier half (2025-11 to 2026-04), 240 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 325 sources for this place in the window — 79 in the earlier half (2025-11 to 2026-04), 246 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -30,7 +30,7 @@ PI-SPI, the union's instant-payment rail, [gave more than 50 million people acce
 
 ### Regional collaboration
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | AES platform of media and communication regulators (PAREMEC) | Did not exist | [The media regulators of Burkina Faso, Mali and Niger adopted the founding texts of a joint platform for harmonised and sovereign media and communication regulation across the confederation](https://www.csc.bf/index.php/actualite/349-souverainete-informationnelle-dans-l-espace-aes-la-plateforme-des-autorites-de-regulation-des-medias-et-de-la-communication-portee-sur-les-fonts-baptismaux) | Movement |
 | AES regulators' cooperation convention and Conseil des Régulateurs du Sahel | Did not exist | [The telecoms regulators of Burkina Faso, Mali and Niger signed the convention creating the Council of Sahel Regulators, committing to harmonised rules, consumer protection, coordinated infrastructure, coherent tariffs and common positions in international bodies, with frequency coordination at the borders, mutual recognition of type-approved equipment, free roaming, coordinated 5G introduction and pooled spectrum, quality-of-service and fibre monitoring named as its working files; statutes, rules of procedure and a first work programme are still to be adopted](https://lefaso.net/spip.php?article149528) | Movement |
@@ -60,7 +60,7 @@ PI-SPI, the union's instant-payment rail, [gave more than 50 million people acce
 
 ### Public debate and participation in policymaking
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | Regional Feminist Data Agenda 2026-2028 | Did not exist | [Ratified with three priorities for 2026-2028, each carrying a named owner, alongside eight thematic policy briefs and a cross-border encrypted data collective with rapid-response protocols; no text is published](https://rflgd.org/2026/08/02/thanks-to-sida-l-west-africa-feminist-data-summit-2026-%c2%b7-one-hundred-delegates-%c2%b7-twenty-one-countries/) | Movement |
 
@@ -78,7 +78,7 @@ With Togo, the three AES states [set 1 January 2027 for company lists towards a 
 
 ### Strategies, plans and policies
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | BCEAO regulatory approach to cryptoassets | No recognition of cryptoassets as legal tender and repeated warnings to users, with no regulatory work under way | [The central bank opened a structured process across 2025 and 2026: a questionnaire sent to fintech operators, a dedicated committee named C-CRYPTO, and a high-level international conference in May 2026. Cryptoassets remain outside legal tender and no instrument has been issued; the legal framework is described as still incomplete, and the question the bank has set itself is how to admit the instruments without compromising monetary stability, the issuance monopoly of the CFA franc and the integrity of the regional financial system](https://www.financialafrik.com/en/2026/08/26/regulation-of-cryptoassets-in-the-uemoa-between-financial-innovation-and-preservation-of-monetary-stability/) | Movement |
 | ECOWAS Regional Digital Single Market roadmap | Did not exist | [Adopted as a commitment to harmonise policy across interoperable fintech, unified digital ID and rural broadband; no work programme, timetable or budget held](https://prnigeria.com/2026/01/24/ecowas-adopts-digital-roadmap/) | Movement |
@@ -88,7 +88,7 @@ With Togo, the three AES states [set 1 January 2027 for company lists towards a 
 
 ### Legislation and regulation
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | Cybercrime statutes in the Sahel states | Guinea's 2016 cybersecurity law used in 2019 to charge a radio station's director and founder over false information, Mali's 2019 law punishing online threats and insults with up to 10 years in prison, and Niger's 2019 law used against critical online media and journalists; Burkina Faso not covered (2025-06) | [A press-freedom organisation reports the cybercrime statutes of Burkina Faso, Mali, Niger and Guinea being used to prosecute journalists, and calls for the repeal of vague public-order and human-dignity provisions](https://thenationonlineng.net/mfwa-sahel-juntas-weaponising-cybercrime-laws-to-silence-journalists/) | No change, Burkina Faso not covered at the start |
 | ECOWAS Supplementary Act A/SA.2/01/10 on Electronic Transactions | Adopted 2010-02-16 at the Authority's thirty-seventh session, in force on publication in the Community Official Journal and national gazettes (2010-02) | [The community's own act on electronic transactions, adopted alongside the companion act on personal-data protection this ledger holds separately; the full text is now held](https://www.ecowas.int/wp-content/uploads/2025/05/SIGNED-Electronic-Transaction-Act.pdf) | No change |
@@ -96,7 +96,7 @@ With Togo, the three AES states [set 1 January 2027 for company lists towards a 
 
 ### Data protection
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | ECOWAS Supplementary Act on the Protection of Personal Data | The Supplementary Act of February 2010, the regional benchmark national bills were still being drafted against | [A revised Act adopted on 2026-07-19, superseding the Act of 16 February 2010. An analysis published in August 2026 states that it applies to twelve member states, not to the three that left the community, and that no regional enforcement body has yet been created; the text is not published with the communique](https://www.africadataprotection.org/seize-ans-apres-la-cedeao-modernise-son-cadre-regional-de-protection-des-donnees.html) | Movement |
 | AES data-protection authorities coordination framework (CC-APDP-AES) | ***Baseline not held*** | [The data-protection authorities of Burkina Faso, Mali and Niger signed an operational roadmap for their coordination framework, to plan technical cooperation and a calendar of joint activities](https://www.digitalbusiness.africa/cybersecurite-les-pays-de-laes-signent-une-feuille-de-route-sur-la-protection-des-donnees/) | ***Baseline not held*** |
@@ -105,7 +105,7 @@ With Togo, the three AES states [set 1 January 2027 for company lists towards a 
 
 ### Standards
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | Alliance ouest-africaine des noms de domaine (AOAN) | Did not exist | [Announced as an initiative to coordinate country-code domain policy across the region; no charter, membership or founding act held](https://lefaso.net/spip.php?article148370) | Movement |
 | ECOWAS free-roaming regulation C/REG.21/12/17 | In force since December 2017, implemented between Liberia, The Gambia and Sierra Leone (2025-02), with full implementation by all mobile operators due by end-2025 | [A further three-state arrangement live between Senegal, Togo and Benin from 2026-04-24, giving free incoming calls for up to 30 days and local rates on outgoing traffic, after Ghana entered the agreement with Liberia and Sierra Leone in February 2026; the end-2025 deadline passed, and seven of fifteen member states are in an arrangement](https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative) | Movement, against a missed end-2025 deadline |
@@ -115,7 +115,7 @@ With Togo, the three AES states [set 1 January 2027 for company lists towards a 
 
 ### AI
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | ECONEC guidelines on artificial intelligence in electoral processes | Did not exist | [Developed by the network's working group and adopted after a validation meeting on 12-13 October 2026; the network and Nigeria's electoral commission are discussing implementation across West African election bodies](https://dailytrust.com/inec-moves-to-implement-ai-guidelines-for-elections/) | Movement |
 | ECOWAS Regional AI Governance Framework | Did not exist | [Resolved to be developed, citing algorithmic bias, labour displacement and information disorder; no draft, drafting body or date found by August 2026; a four-country comparative study presented on 2026-08-10 found none of Benin, Senegal, Cote d'Ivoire or Burkina Faso holds AI-specific legislation in force or in draft, rating Cote d'Ivoire's strategy the most advanced of the four on inclusion and data governance and finding Burkina Faso's data-protection law the only one to name AI-based processing](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/) | Movement, marginal |
@@ -139,7 +139,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 
 ### Connectivity
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | ACE submarine cable capacity upgrade | Did not exist | [The consortium selected new optics to lift the 17,000 km cable above 30 Tb/s across its 18 landing stations serving more than 20 countries, reusing the existing submarine line terminal equipment rather than laying a new route; no completion or ready-for-service date is stated](https://subtelforum.com/ace-cable-selects-ciena-for-30-tb-s-upgrade/) | Movement |
 | Community roaming regulation implementation | Compliance with the 2017 roaming regulation reviewed by national regulators, with tariff compliance uneven (2025-08) | [Burkina Faso signed bilateral roaming accords with Benin, Cote d'Ivoire and Senegal in Ouagadougou on 23 October 2026, with operators' technical work expected to take about three months before service starts; earlier, Liberia, Ghana and Sierra Leone formally entered the free roaming agreement in February 2026 (2026-02)](https://www.ecofinagency.com/news-digital/2610-60121-west-africa-struggles-to-deliver-free-roaming-nearly-nine-years-after-regional-agreement) | Movement |
@@ -157,25 +157,26 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 | Medusa Africa extension of the Medusa submarine cable | ***Baseline not held*** | [A branch from the Mediterranean system down Africa's Atlantic coast is at study stage: an EU grant of EUR 14.3m for a branching unit and a survey of about 8,000 km to DR Congo, and a US grant of US$1,520,778 for a feasibility study covering up to 22 countries](https://www.submarinenetworks.com/en/systems/asia-europe-africa/medusa/afr-ix-telecom-secures-us-backing-and-%E2%82%AC14,3-million-eu-funding-for-medusa-africa) | ***Baseline not held*** |
 | Proposed West African protocol on submarine-cable resilience | ***Baseline not held*** | [A shared regional protocol to protect submarine cables, reroute traffic and coordinate repairs when cables fail, proposed by Nigeria to West African states; no text, signatory or regional body's adoption is on record](https://punchng.com/fg-pushes-regional-deal-to-prevent-internet-disruptions/) | ***Baseline not held*** |
 | SOGEM energy-grid fibre linking the OMVS states | ***Baseline not held*** | [Mali, Guinea, Mauritania and Senegal agreed to link their networks over the 1,728 km of fibre on the Senegal River basin authority's energy grid, managed by its energy company](https://www.digitalbusiness.africa/le-senegal-la-guinee-le-mali-et-la-mauritanie-unis-autour-dun-projet-dinfrastructure-de-fibre-optique/) | ***Baseline not held*** |
+| UEMOA feasibility study of a union-owned satellite network | ***Baseline not held*** | [The UEMOA Commission plans to recruit a consultancy from early 2027 for a technical, economic and regulatory feasibility study of a satellite network of the union's own; at the same assembly operators and regulators called for low-orbit satellite operators to carry the licensing, tax, universal-service, data-protection and cybersecurity obligations of local operators](https://lequotidien.mr/telecommunications-dans-luemoa-les-acteurs-plaident-pour-une-integration-encadree-des-satellites-en-orbite-basse/) | ***Baseline not held*** |
 | West Africa Regional Communications Infrastructure Project, phase 1B | ***Baseline not held*** | [The World Bank's completion report closed the phase covering Burkina Faso, The Gambia and Guinea, putting Gambian international bandwidth at 528 kbit/s per person, from 10](https://documents1.worldbank.org/curated/en/920521646421347997/pdf/Western-Africa-Regional-Communications-Infrastructure-Project.pdf) | ***Baseline not held*** |
 
 ### Data Storage
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
-| ECOWAS Data Embassy in Sierra Leone | Sierra Leone stated it had tabled a regional data embassy framework at ECOWAS, with no text or regional decision (2026-09) | [The African Development Bank approved US$750,000 in project-preparation funding with technical assistance for an ECOWAS data embassy hosted in Sierra Leone, announced by the communications minister on 18 November 2026; State House said on 21 November 2026 that the Chief Minister announced an ECOWAS Data Embassy Readiness Initiative, a US$4.35 million facility backed by a US$1 million bank grant; the two accounts of the grant differ, and no site or capacity is published](https://www.einpresswire.com/article/958241032/sierra-leone-s-president-julius-maada-bio-closes-west-africa-integration-and-investment-summit-with-landmark-agreements) | Movement |
+| ECOWAS Data Embassy in Sierra Leone | Sierra Leone stated it had tabled a regional data embassy framework at ECOWAS, with no text or regional decision (2026-09) | [The African Development Bank's own release states a US$750,000 grant from its KOAFEC Trust Fund for a feasibility assessment and preparatory work on an ECOWAS regional data embassy hosted in Sierra Leone, and that the initiative was endorsed by the ECOWAS ICT ministers and approved by the Authority of Heads of State and Government; State House described on 21 November 2026 a US$4.35 million readiness facility backed by a US$1 million bank grant, which the bank's release does not mention; no site or capacity is published](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-backs-sierra-leones-bid-98898) | Movement |
 | BCEAO private cloud for its data centres | Tendered as one indivisible lot in August 2023; no award on record (2023-08) | [The regional central bank tendered, as one indivisible lot, the supply and deployment of a private, scalable cloud on hyperconverged equipment across its two production sites and its backup site, with replication from the production sites to the backup; no award, contract value or deployment is on record](https://www.bceao.int/sites/default/files/2023-08/VF%20-%20%20AO_Z00_DBA_040_2023%20-%20Fourniture%20et%20d%C3%A9ploiement%20d%E2%80%99une%20solution%20r%C3%A9siliente%20de%20traitement%20de%20donn%C3%A9es%20%C3%A0%20la%20BCEAO.pdf) | No change |
 | Data-centre capacity gap | About 150MW to 200MW of new capacity, or 30 or more large-scale facilities, needed to reach Morocco's capacity-to-population ratio, on a regional depth of about 0.04MW per million people; the only region with no established or announced public cloud region from the top five providers (2025-05) | [About 150MW to 200MW of new capacity — 30 or more large-scale facilities — needed to reach the capacity-to-population ratio of a moderately mature market such as Morocco, on a regional depth of 0.04MW per million people; as at early 2025 the region was the only one on the continent with no established or announced public cloud region from any of the world's five largest cloud providers](https://cms.d4dhub.eu/assets/West-Africa-Data-Center-Markets-Brief.pdf) | No change, no later figure held |
 
 ### Energy
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | Regional Access Increase and Sustainable Energy Project | Did not exist (2025-08) | [US$160m of concessional financing was approved for electricity access in Togo and The Gambia, implemented with the Commission under the regional programme; the split between the two countries is not broken out (2026-06)](https://www.worldbank.org/en/news/press-release/2026/06/24/expanding-electricity-access-and-job-creation-in-togo-and-the-gambia) | Movement |
 
 ### Cybersecurity
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | BCEAO unified cybersecurity incident detection and response platform | Tender open, 19 March to 29 May 2026 | [The central bank awarded its tender for the supply and deployment of a unified platform for detecting, analysing and responding to cybersecurity incidents to the Groupement Neurones Technologies, announcing the result on 7 October 2026 after a call open from 19 March to 29 May 2026; no contract value or delivery date is published](https://ns2.bceao.int/sites/default/files/2026-10/R%C3%A9sultats%20-%20AO_Z00_DBA_054_2026%20-%20Fourniture%20et%20d%C3%A9ploiement%20d%E2%80%99une%20plateforme%20unifi%C3%A9e%20de%20d%C3%A9tection%2C%20d%E2%80%99analyse%20et%20de%20r%C3%A9ponse%20aux%20incidents%20de%20cybers%C3%A9curit%C3%A9%20%C3%A0%20la%20BCEAO.pdf) | Movement |
 | ECOWAS Information Sharing and Analysis Centre | Agreed by the member states' incident-response teams at Cabo Verde in November 2024 as a hub for threat and incident sharing; no founding instrument, membership or operating date (2025-03) | [Named by the Commission as established, as the region's threat-intelligence sharing platform; no founding instrument, membership, feed or published output is held (2026-08)](https://www.ecowas.int/ecowas-advances-regional-cybersecurity-cooperation-through-sim3-auditor-capacity-building-programme/) | Movement |
@@ -186,7 +187,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 
 ### Data Exchange
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | SIGMAT (ECOWAS interconnected transit management system) | Operating on major corridors since 2019 | [A forward roadmap presented to the World Customs Organization and deployment agreed at three further border posts; the e-Hub and the regional guarantee system remain roadmap items](https://www.ecowas.int/ecowas-presents-sigmat-at-the-world-customs-organization-2026-technology-conference-in-abu-dhabi/) | Movement, marginal |
 | AES and Togo customs IT interconnection | Pilot interconnection of the Togo and Mali customs systems via Burkina Faso on the Lomé-Bamako corridor, operational from 2025-03-10 | [Pilot still the operating position; the four customs administrations set 31 January 2027 for a technical unit supervising interconnected customs data flows, after committing in July 2024 to deploy the interconnection at every transit office by 15 November 2024](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination) | No change |
@@ -196,7 +197,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 
 ### Digital Identity and CRVS
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | AES biometric passport | Launched in January 2025, with no state-by-state issuance on record | [Issuing in all three states, with Mali's supplied by China's Emptech in place of France's Idemia](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move) | Movement |
 | CIB-AES (AES biometric identity card) | Did not exist | [Issuing in Burkina Faso since December 2025 and in Niger since March 2026, with mass enrolment under way and cross-border enrolment tested in Mali](https://www.biometricupdate.com/202511/burkina-faso-introduces-new-biometric-id-system-in-major-digital-leap) | Movement |
@@ -207,7 +208,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 
 ### Digital Payments and Fintech
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | BCEAO accession to the Pan-African Payment and Settlement System | The central bank's governor saying it takes an active part in the continental system, with no accession stated (2025-06) | [The Union's Council of Ministers, meeting in Dakar on 2 October 2026, gave a favourable opinion on the participation of the central bank and the Union's commercial banks in the system; the central bank's instant-payment project lead said on 19 November 2026 that a pilot giving volunteer union banks access had been under way since October, ahead of any accession decision](https://www.financialafrik.com/2026/11/20/siips-2026-le-pi-spi-depasse-les-4-millions-de-transactions-en-un-an-dans-luemoa/) | Movement, no accession decided |
 | BCEAO connection obligation for instant-payment participants | Interoperability announced as mandatory from 30 June 2026 | [Mandatory from 2 November 2026 for all interoperable electronic-money transfers in the Union, between the mobile-money operators and with banks, with person-to-person transfers free up to FCFA 8,000 a day per user and provider and fees capped at 0.8% above it; in the first days users in Senegal and Cote d'Ivoire reported transfers debited and not credited and alias conflicts between platforms, and Wave introduced a 1% cash-withdrawal fee outside the cap; microfinance institutions have until 30 June 2027](https://anp.ne/finances-la-bceao-se-dote-dun-nouveau-systeme-de-paiement-instantane/) | Movement |
@@ -234,7 +235,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 
 ### Sectoral management information systems
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | Digital monitoring platform for the continental demographic dividend roadmap | Did not exist | [Eight West African countries are taking part in the platform's pilot phase, at a regional meeting in Abidjan from 7 to 9 September 2026 whose sessions test and improve the tool before wider deployment.](https://fraternite.bj/dividende-demographique-le-benin-et-7-pays-ouest-africains-harmonisent-leurs-donnees/) | Movement |
 | West African Police Information System (WAPIS) | The programme closed and was handed over to the regional community on 8 April 2025, with EUR 38m spent, 729,000 records in national databases by early 2025 and 14 countries connected to the international police network; Benin's fingerprint identification system entered use under it on 30 September 2025 (2025-09) | [The Gambia launched a criminal fingerprint identification system under the programme on 28 April 2026, funded by the European Union and implemented by INTERPOL with ECOWAS support; no regional platform operating date, member-state coverage count or post-handover funding is held](https://www.eeas.europa.eu/delegations/gambia/gambia-launches-automated-fingerprint-identification-system-afis-strengthen-criminal-investigations_en) | Movement |
@@ -243,7 +244,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 
 ### Other GovTech and e-Gov
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | ECOWAS Community Development Programme tracking platform | Did not exist | [An automated platform to programme, coordinate and monitor regional projects and give citizens access to project data; its functions, public-access terms and indicators are not stated](https://apanews.net/ecowas-launches-platform-for-tracking-regional-projects/) | Movement |
 | Strengthening Tax Administration Capacity Project | Did not exist | [A regional tax administration forum project financed by a US$5.52m grant from a development fund's transition support facility, with implementation running to 30 July 2030 under a forum-hosted project implementation unit and a multi-stakeholder steering committee](https://www.afdb.org/en/news-and-events/press-releases/african-development-fund-provide-552-million-grant-west-african-tax-administration-forum-boost-domestic-revenue-mobilization-91508) | Movement |
@@ -252,20 +253,21 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 
 ### National statistics
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
-| ECOWAS regional statistical methodological guides | The Regional Statistical Programme 2023-2027 under implementation, with no adopted methodological guide held | [Regional methodological guides in use, with a second Abidjan workshop training national coordination and economic policy committee members to operationalise the common regional frameworks for compiling and publishing macroeconomic statistics, reviewing the two regional databases and the harmonisation of member states' 2000-2025 national statistics for multilateral surveillance](https://www.ecowas.int/ecowas-strengthens-the-harmonization-of-migration-data-and-macroeconomic-convergence-in-west-africa/) | Movement |
+| ECOWAS regional statistical methodological guides | The Regional Statistical Programme 2023-2027 under implementation, with no adopted methodological guide held | [The directors-general of the national statistical institutes approved all the methodological guides presented, subject to their observations, with the Commission's 2027 statistics work programme, at their second annual meeting in Monrovia closing on 20 November 2026; they urged member states to adopt the guides gradually and report annually, and the Commission to update the Regional Statistics Policy and set up a regional quality assurance framework](https://www.ecowas.int/in-monrovia-the-executive-directors-of-ecowas-national-statistical-institutes-commit-to-accelerating-statistical-harmonization-and-strengthening-sustainable-funding-for-statistics-in-west-africa/) | Movement |
 | Migration and macroeconomic data harmonisation | Did not exist | [Two regional statistics workshops convened at Abidjan on 18-22 August 2026 under the Commission's research and statistics directorate and its harmonisation project: the sixth Regional Coordination Meeting, which reviewed and validated the third edition of the Regional Report on International Migration in West Africa, and a capacity-building session for national committees on compiling macroeconomic statistics for the Convergence and Macroeconomic Stability Pact; participants also took up updates to the regional macroeconomic and statistical databases and harmonisation of national series for 2000-2025](https://ang.gw/cote-divoire-cedeao-rumo-a-harmonizacao-dos-dados-migratorios-e-macroeconomicos/) | Movement |
 | ECOMAC (ECOWAS Multilateral Surveillance Mechanism database) | Constituted by Regulation C/REG.30/12/07 of 2007-12-15, published in official journal 52 on 2008-01-01: thirteen Excel tables, quarterly updates with stated deadlines, supervision split between the monetary union's commission and central bank, WAMA and WAMI (2008-01) | [The database of the bloc's multilateral surveillance mechanism, constituted by a statistical and computer protocol adopted by the Council of Ministers in December 2007: thirteen Excel tables on a quarterly update cadence with stated deadlines, and supervision divided between the monetary union's commission and central bank, the West African Monetary Agency and the West African Monetary Institute; no later amendment and no operational report is held](https://africanlii.org/akn/aa-ecowas/act/reg/2007/12-30/eng@2007-12-15/source) | No change |
 | ECOWAS Community Sectoral Statistics Yearbook | ***Baseline not held*** | [A first draft reviewed by the Commission's sectoral directorates at a Lomé workshop from 3 to 6 November 2026, to check its indicators, fill data gaps and finalise it for approval by the Regional Technical Committee, under the World Bank-funded statistics harmonisation projects for West and for West and Central Africa](https://www.ecowas.int/community-sectoral-statistics-yearbook-ecowas-takes-another-step-toward-consolidating-its-harmonized-regional-system/) | ***Baseline not held*** |
 | ECOWAS leadership and statistical management training for national statistical systems | ***Baseline not held*** | [A week-long training for managers of member states' national statistical systems opened at Monrovia on 5 October 2026, where the host statistics office's head pressed for capacity to use artificial intelligence in data collection; no participant count or curriculum is published](https://frontpageafricaonline.com/liberia/liberia-lisgis-boss-cautions-against-inadequate-usage-of-ai-for-data-collection/) | ***Baseline not held*** |
 | ECOWAS practical guide for population and housing censuses | ***Baseline not held*** | [Experts from ECOWAS member states, regional institutions and partners met in Cotonou from 15 September 2026 to validate a practical guide harmonising how West African states run population and housing censuses, so that their data are comparable; the guide is not published](https://lanation.bj/societe/recensements-generaux-de-la-population-et-de-lhabitat-lafrique-de-louest-veut-harmoniser-ses-methodes) | ***Baseline not held*** |
+| ECOWAS Regional Fund for Statistical Development | ***Baseline not held*** | [A regional fund meant to mobilise lasting resources for statistics and cut reliance on external funding; the directors-general of the national statistical institutes called for it to be made operational at their Monrovia meeting closing on 20 November 2026](https://www.ecowas.int/in-monrovia-the-executive-directors-of-ecowas-national-statistical-institutes-commit-to-accelerating-statistical-harmonization-and-strengthening-sustainable-funding-for-statistics-in-west-africa/) | ***Baseline not held*** |
 | ECOWAS regional metadata framework for monetary and financial statistics | ***Baseline not held*** | [A draft framework from the West African Monetary Agency for compiling the bloc's monetary and financial statistics, put to the central banks' committee of experts for review and validation alongside progress on the regional action plan of January 2025; no validated text is published](https://www.ecowas.int/la-cedeao-renforce-lharmonisation-des-statistiques-monetaires-et-financieres-pour-soutenir-lintegration-economique-regionale/) | ***Baseline not held*** |
 | HISWACA (Harmonisation and Improvement of Statistics in West and Central Africa) | ***Baseline not held*** | [A World Bank-financed regional statistics project; its population-data component, on censuses and civil registration, is run by UNFPA's regional office through five-year partnership agreements with ECOWAS and CEMAC, developing standard manuals and tools and technical assistance; the brochure records 14 countries completing the 2020 census round and only two with adequate death registration](https://wcaro.unfpa.org/sites/default/files/pub-pdf/2026-01/Brochure%20HISWACA%20final.pdf) | ***Baseline not held*** |
 
 ### Geospatial data
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | ECOSAT-1 regional Earth observation satellite | ***Baseline not held*** | [Planned by ECOWAS as West Africa's first regional Earth observation satellite, for disaster response, agricultural planning and environmental monitoring; Nigeria's space agency conducted the study of its architecture and specifications, which member-state experts met in Abuja on 18-20 November 2026 to validate before it goes to the ECOWAS science, technology and innovation ministers; no budget or launch date published](https://www.ecowas.int/ecowas-advances-regional-space-ambitions-with-technical-validation-meeting-on-ecosat-1-satellite/) | ***Baseline not held*** |
 | SEWA West Africa nowcasting centre (Dakar RSMC) | ***Baseline not held*** | [The regional specialised meteorological centre at Dakar is to host and coordinate a nowcasting centre for West Africa from January 2027 under the Space for Early Warning in Africa project, starting with nowcasting software and training for the national meteorological agency's IT team](https://fr.linkedin.com/posts/anacim_anacim-meteosenegal-cmrs-activity-7506344576698179585-cWON) | ***Baseline not held*** |
@@ -286,19 +288,19 @@ The union's credit bureau [binds microfinance institutions to report only above 
 
 ### ICT Industry
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | World Bank E-GATE e-commerce programme for small businesses | ***Baseline not held*** | [A pilot for up to 100 small and medium enterprises in Benin, The Gambia and Guinea covering marketplace onboarding, digital and AI skills and mentoring, with onboarding and training planned for 2027, backed by the China-World Bank Partnership Facility](https://www.worldbank.org/en/brief/2026/11/13/e-gate-in-west-africa-helping-small-businesses-access-digital-markets) | ***Baseline not held*** |
 
 ### Innovation ecosystem
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | ECOWAS Startup Awards | A first edition at Niamey in November 2021 awarding 10 startups, the top three prizes USD30,000, USD20,000 and USD15,000 (2021-11) | [A second edition under way from 21 September 2026 with 60 startups selected from more than 6,000 applications across six sectors, a US$5 million target for investment and business deals, seed prizes of USD30,000, USD20,000 and USD15,000, a six-month acceleration programme and a planned digital Private Sector Development Academy](https://msmeafricaonline.com/ecowas-targets-5m-in-startup-deals-launches-regional-platform-to-scale-60-west-african-businesses/) | Movement |
 
 ### China activities
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | China-aid ECOWAS Headquarters Building | ***Baseline not held*** | [Handed over to the Commission, the second international-organisation office complex China has built in Africa; China describes cooperation extending into the digital economy and names no digital programme, figure or instrument, and the Commission's own release names no digital component](https://www.fmprc.gov.cn/mfa_eng/xw/zwbd/202605/t20260506_11905147.html) | ***Baseline not held*** |
 
@@ -312,7 +314,7 @@ West and Central African states [adopted the Cotonou Declaration on 2025-11-18](
 
 ### Training and skills
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | AGRHYMET-ENABEL land-degradation monitoring capacity programme | A 26-month Belgian-funded convention of FCFA 344.8m across Niger, Burkina Faso, Mali and Senegal launched in August 2024, its action plan still to be drawn up and nobody yet trained on record (2024-08) | [A regional project run by the AGRHYMET regional centre with Belgian development funding across Burkina Faso, Mali, Niger and Senegal has trained 236 specialists in satellite-image interpretation and land-cover mapping, the Trends.Earth tool for assessing land degradation, the EX-ACT tool for soil and vegetation carbon estimation, and mobile data collection on KoboToolbox; the countries report better harmonisation of monitoring tools and methods, and the carbon accounting it enabled found the land-use sector substantially under-estimated in earlier nationally determined contributions](https://agrhymet.cilss.int/2025/11/23/cop30-degradation-des-terres-et-sequestration-du-carbone-enabel-agrhymet-devoile-des-resultats-prometteurs-au-sahel/) | Movement |
 | BCEAO/COFEB certifying programme in digital finance | A second edition run from September 2024 to May 2025, certifying 23 staff of banks, microfinance institutions and the central bank, with eight dissertations defended (2025-06) | [In its fourth edition, run by the monetary union's central bank training centre with Luxembourg's House of Training-ATTF: four modules over about nine months and 84 hours, aimed at senior staff of credit institutions, e-money issuers and microfinance institutions, one candidate per institution, participation fees of FCFA 1.2m, an 80% pass mark per module and a final project defended before a jury at Dakar](https://cofeb.bceao.int/sites/default/files/2026-08/Brochure_Parcours_Finance_Digitale-Edition_2026_V180826_web.pdf) | Movement |
@@ -323,13 +325,13 @@ West and Central African states [adopted the Cotonou Declaration on 2025-11-18](
 
 ### Research institutions
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | GDN Inclusive Digital Transformation Hub for West Africa and the Sahel | ***Baseline not held*** | [A 2025-2026 pilot of a research network running six research consortia across seven countries on 35 research questions in six areas, drawn from a draft regional research agenda of July 2025, with a West African forum on digital transformation at Cotonou from 7 to 9 July 2026](https://ferdi.fr/dl/df-MVdqDUNqMCiL26jATkxWaYWM/telecharger-le-programme-du-forum.pdf) | ***Baseline not held*** |
 
 ### Access to services
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | Open e-money accounts in the UEMOA | 248,710,918 accounts (2024-12-31), of which 76,863,533 active | [284.8 million accounts at 31 December 2025, up 14.5% in a year, of which 92.7 million active, on central-bank figures published in October 2026](https://www.ecofinagency.com/insights/1611-60861-let-licensed-fintechs-expand-across-west-africa-without-starting-over) | Movement |
 | Registered refugees and documentation in the four Gulf of Guinea coastal states | 74,021 registered refugees and asylum-seekers in Benin, Côte d'Ivoire, Ghana and Togo (start of 2024) | [135,300 registered at December 2024, 64% of them with access to documentation](https://data.unhcr.org/en/documents/download/116170) | Movement |
@@ -343,13 +345,13 @@ West and Central African states [adopted the Cotonou Declaration on 2025-11-18](
 
 ### Domestic budget appropriations and expenditure
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | ECOWAS Community Budget provision for digital programmes | No disaggregated digital or ICT line, and nil actual on the Youth Entrepreneurship in ICT line since 2023 | [The 2026-2028 MTEF carries no disaggregated digital or ICT line; Youth Entrepreneurship in ICT is nil from 2024 through the 2028 estimates, against UA 543,953 approved and UA 407,965 actual in 2022](https://www.ecowas.int/wp-content/uploads/2026/06/ECOWAS-COMMUNITY-BUDGET-2026-2028.pdf) | No change |
 
 ### New investments
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-24 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-25 | Progress |
 |---|---|---|---|
 | Africa Connect Digital Campus | Did not exist | [A EUR 4.2m European Union and French foreign ministry project to upgrade broadband connectivity, e-learning and national research and education networks at universities in Benin, Cote d'Ivoire and Togo under the Global Gateway strategy; no university list, bandwidth target or delivery milestone is published](https://www.expertisefrance.fr/fr/projets/africa-connect-digital-campus) | Movement |
 | Co-investment in Coris Bank International | Did not exist | [A EUR 100m co-investment led by a private equity manager alongside four development finance institutions into the union's second-largest banking group; the amount is not broken out by country and no digital or financial-inclusion use of proceeds is stated](https://coris-holding.com/mediterrania-capital-partners-annonce-un-co-investissement-de-100millions-deuros-dans-coris-holding/) | Movement |
@@ -373,7 +375,7 @@ Equity did not move. A 9 August account of the continental development bank's [E
 | ECOWAS Statistical Policy and Regional Statistical Programme 2023-2027 | The policy and programme the July 2026 meeting was implementing, and the methodological guides it approved; probed 2026-08-05: neither located as a document; what was found is the World Bank statistics operation financing the work and a 2002-era secretariat programme | 2026-08-05 |
 
 <!-- narrative: gaps -->
-Six named objects carry no position at either end, and each was searched on 2026-08-05. Four searches returned published documents the repository does not hold: the region's own digital sector strategy for 2024-2029, the community budget for 2026-2028, WATRA's technical reports, and a headquarters complex China financed for the ECOWAS Commission. Two returned nothing: no regional digital skills programme of ECOWAS, the UEMOA Commission or WATRA, only single events; and neither the statistical policy nor the regional statistical programme the July 2026 meeting was implementing. These are gaps in this record rather than in the region's activity, and acquisition lines have been raised.
+Six named objects carry no position at either end, and each was searched on 2026-08-05. Four searches returned published documents the repository does not hold: the region's own digital sector strategy for 2024-2029, the community budget for 2026-2028, WATRA's technical reports, and a headquarters complex China financed for the ECOWAS Commission. Two returned nothing: no regional digital skills programme of ECOWAS, the UEMOA Commission or WATRA, only single events; and neither the statistical policy nor the regional statistical programme the July 2026 meeting was implementing.
 
 The searches expose the report's own pattern: almost every instrument here is visible through a member state, a central bank, an operator or a press account of a meeting, and almost none through a publication of the body that made it.
 <!-- /narrative -->

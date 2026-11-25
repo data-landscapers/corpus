@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-25
+period: 2026-10-01 to 2026-11-25
 place: XWA
-ledger_rows: 38
+ledger_rows: 41
 not_held: 1
-record: 00b6bce3c862
+record: 3af1af4df710
 ---
 
 # News, Oct – Nov 2026
@@ -240,6 +240,28 @@ Nigeria's communications ministry proposed a shared West African protocol to pro
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UEMOA feasibility study of a union-owned satellite network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécommunication dans l’espace UEMOA : les acteurs réfléchissent sur les enjeux de la digitalisation](https://www.sidwaya.info/2026/11/23/telecommunication-dans-lespace-uemoa-les-acteurs-reflechissent-sur-les-enjeux-de-la-digitalisation/)** — Sidwaya, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
+
+COFTEL 17th session, Ouagadougou 23-26 Nov 2026; UEMOA to commission regional satellite feasibility study in 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécommunications dans l’UEMOA : Les acteurs plaident pour une intégration encadrée des satellites en orbite basse](https://lequotidien.mr/telecommunications-dans-luemoa-les-acteurs-plaident-pour-une-integration-encadree-des-satellites-en-orbite-basse/)** — Le Quotidien (Mauritania), 24 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
+
+The WAEMU Commission plans to hire consultants from early 2027 to study a satellite network of its own. The plan was reported at COFTEL's general assembly in Ouagadougou, 23-26 November 2026. Operators and regulators there asked that low-orbit satellite operators carry the same licensing, tax and data-protection duties as local ones.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -259,6 +281,14 @@ The African Development Bank approved a $750,000 seed grant, with technical assi
 **[Sierra Leone’s President Julius Maada Bio Closes West Africa Integration and Investment Summit With Landmark Agreements](https://www.einpresswire.com/article/958241032/sierra-leone-s-president-julius-maada-bio-closes-west-africa-integration-and-investment-summit-with-landmark-agreements)** — State House Media and Communications Unit, Sierra Leone (via EIN Presswire), 21 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
 
 Sierra Leone's State House reported the close of the West Africa Integration and Investment Summit at Lungi. It announced a second submarine cable estimated at USD 40 million and a USD 4.35 million ECOWAS data backup facility.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[African Development Bank Backs Sierra Leone’s bid to host regional data embassy with $750,000 grant](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-backs-sierra-leones-bid-98898)** — African Development Bank, 24 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a>
+
+The African Development Bank has granted US$750,000 from the KOAFEC Trust Fund to study whether Sierra Leone can host the ECOWAS Regional Data Embassy. The grant was announced at the West Africa Integration and Investment Summit in Lungi, 16-18 November 2026. ECOWAS heads of state have approved the initiative. Regional technical consultations are set for late November 2026.
 
 </div>
 
@@ -665,6 +695,34 @@ The ECOWAS Commission and the West African Monetary Agency opened an experts' me
 **[Community Sectoral Statistics Yearbook: ECOWAS Takes Another Step Toward Consolidating Its Harmonized Regional System](https://www.ecowas.int/community-sectoral-statistics-yearbook-ecowas-takes-another-step-toward-consolidating-its-harmonized-regional-system/)** — ECOWAS Commission, 4 November 2026
 
 ECOWAS statisticians are meeting in Lomé from 3 to 6 November 2026. They are reviewing the first draft of the Commission's Yearbook of Sectoral Statistics. The workshop checks the indicators and fills data gaps. The draft then goes to the Regional Technical Committee. The World Bank funds the work through the PHASAO and PHASAOC projects.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS Regional Fund for Statistical Development</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[In monrovia, the executive directors of ecowas national statistical institutes commit to accelerating statistical harmonization and strengthening sustainable funding for statistics in west africa](https://www.ecowas.int/in-monrovia-the-executive-directors-of-ecowas-national-statistical-institutes-commit-to-accelerating-statistical-harmonization-and-strengthening-sustainable-funding-for-statistics-in-west-africa/)** — ECOWAS Commission, 24 November 2026
+
+The heads of ECOWAS national statistics offices met in Monrovia and closed on 20 November 2026. They approved the ECOWAS Commission's 2027 statistics work programme and methodological guides. They recommended updating the Regional Statistics Policy and starting the Regional Fund for Statistical Development, to rely less on outside money. The World Bank supported the meeting.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS regional statistical methodological guides</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[In monrovia, the executive directors of ecowas national statistical institutes commit to accelerating statistical harmonization and strengthening sustainable funding for statistics in west africa](https://www.ecowas.int/in-monrovia-the-executive-directors-of-ecowas-national-statistical-institutes-commit-to-accelerating-statistical-harmonization-and-strengthening-sustainable-funding-for-statistics-in-west-africa/)** — ECOWAS Commission, 24 November 2026
+
+Summarised under [National statistics](#national-statistics).
 
 </div>
 
