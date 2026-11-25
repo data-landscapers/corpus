@@ -340,7 +340,7 @@ Police staff built and run the Epolice platform, launched in 2024; no government
 
 The Electoral Commission's own IT Division ran its systems in 2024; no body is known to run systems for the rest of government.
 
-- The Electoral Commission of Namibia says its voter registration system is managed under its internal IT policies and that it has a fully-fledged IT Division entrusted with managing its IT systems ([source, 2024-06-06](https://omutumwa.com/2024/06/ecn-explains-slow-start-of-mobile-voter-registration-system/)).
+- The Electoral Commission of Namibia says its voter registration system is managed under its internal IT policies and that it has a fully-fledged IT Division entrusted with managing its IT systems ([source, 2024-06-06](https://web.archive.org/web/20240615064053/https://omutumwa.com/2024/06/ecn-explains-slow-start-of-mobile-voter-registration-system/)).
 
 ### Somalia: 2 Nascent
 
