@@ -14,7 +14,7 @@ row's `source_kind` through `outputs/non-state-finance/all-nonstate.csv` (deal t
 1. Where the money goes: a pie of chapters, each big chapter's topics as bars drawn out from it.
 0a. Where the data comes from: each type's rows by the kind of source they were read from (2026-11-25).
 1a. Where the money comes from: the same design, sources and their instruments; budgets get no panel.
-1b. Who the money comes from: the same again, sources and their largest financiers (2026-11-25).
+1b. Who the money comes from: the same again, sources and their largest financiers, budgets by country (2026-11-25).
 2. Who pays for what: topics over US$500 million, total and share by source.
 3. The foundations: FOUNDATIONS (Bill's ten) as 100% bars by source, under all digital finance.
 4. The rise of African finance: yearly totals by source.
@@ -398,10 +398,12 @@ FNAME = {"International Finance Corporation (IFC)": "IFC", "US International Dev
          "Unknown": "Not stated"}
 
 def drawn_out(field, title, sub, note, names, panels, top=None):
-    """A pie of the four sources, each non-budget source's `field` drawn out as bars. `top` caps the bars
-    per source (the rest one Other bar); without it, items under 3% of their source are Other."""
+    """A pie of the four sources, each source in `panels` drawn out as bars of its `field` (a column name, or
+    a dict of type to column). `top` caps the bars per source (the rest one Other bar); without it, items
+    under 3% of their source are Other. A source with no panel is named beside its slice."""
+    fld = field if isinstance(field, dict) else collections.defaultdict(lambda: field)
     inst = collections.defaultdict(collections.Counter)   # type -> item -> US$ m
-    for r in INYEARS: inst[r["type"]][r[field] or "Unknown"] += usd(r)
+    for r in INYEARS: inst[r["type"]][r[fld[r["type"]]] or "Unknown"] += usd(r)
     tot_t = {t: sum(inst[t].values()) for t in TYPES}; total = sum(tot_t.values())
     s = prs.slides.add_slide(BLANK)
     frame(s, title, sub(inst, tot_t), note)
@@ -426,10 +428,10 @@ def drawn_out(field, title, sub, note, names, panels, top=None):
         x_, y_ = edge(mids[i], R * 0.62)
         text(s, x_ - 0.5, y_ - 0.17, 1.0, 0.34, f"{100 * tot_t[t] / total:.0f}%", 16,
              color=INK if t == "budget" else "FFFFFF", bold=True, align=PP_ALIGN.CENTER)
-    # budgets: named beside their slice, no panel
-    x_, y_ = edge(mids[3], R + 0.15)
-    text(s, x_ - 2.6, y_ - 0.5, 2.5, 0.3, [(TNAME["budget"], {"bold": True, "color": "B7801A"}), (f"  {tot_t['budget']:,.0f}", {"color": INK2})], 17, align=PP_ALIGN.RIGHT)
-    text(s, x_ - 2.6, y_ - 0.2, 2.5, 0.3, f"States’ own lines: no {'instruments' if field == 'instrument' else 'financiers'}", 10.5, color=FAINT, align=PP_ALIGN.RIGHT)
+    if "budget" not in panels:   # budgets: named beside their slice, no panel
+        x_, y_ = edge(mids[3], R + 0.15)
+        text(s, x_ - 2.6, y_ - 0.5, 2.5, 0.3, [(TNAME["budget"], {"bold": True, "color": "B7801A"}), (f"  {tot_t['budget']:,.0f}", {"color": INK2})], 17, align=PP_ALIGN.RIGHT)
+        text(s, x_ - 2.6, y_ - 0.2, 2.5, 0.3, "States’ own lines: no instruments", 10.5, color=FAINT, align=PP_ALIGN.RIGHT)
     for i, k in enumerate(TYPES):
         if k not in panels: continue
         px, py, pw, ph = panels[k]; ctot = tot_t[k]
@@ -442,7 +444,9 @@ def drawn_out(field, title, sub, note, names, panels, top=None):
         if len(rest) == 1: keep += rest
         elif rest: keep.append((f"Other {len(rest)}" if top else "Other", sum(v for _, v in rest)))
         col = SRC_COL[k]
-        text(s, px, py, pw, 0.3, [(TNAME[k], {"bold": True, "color": col}), (f"  {ctot:,.0f}", {"color": INK2})], 17)
+        hcol = "B7801A" if k == "budget" else col   # the budget gold is too pale for text
+        text(s, px, py, pw, 0.3, [(TNAME[k], {"bold": True, "color": hcol}), (f"  {ctot:,.0f}", {"color": INK2})]
+             + ([("  by country", {"color": FAINT, "size": 12})] if fld[k] == "country" else []), 17)
         cd = CategoryChartData(); cd.categories = [names.get(n, n) for n, _ in reversed(keep)]
         cd.add_series(k, [round(v) for _, v in reversed(keep)])
         gf = s.shapes.add_chart(XL_CHART_TYPE.BAR_CLUSTERED, Inches(px), Inches(py + 0.4), Inches(pw), Inches(ph - 0.4), cd)
@@ -472,17 +476,19 @@ drawn_out("instrument", "Where the money comes from",
           f"National budgets have no instrument breakdown. As recorded to {AS_AT}.",
           INAME, {TYPES[0]: (8.45, 1.75, 4.3, 2.75), TYPES[1]: (8.45, 4.75, 4.3, 1.8), TYPES[2]: (0.6, 4.45, 4.1, 1.3)})
 
-FTOP = {TYPES[0]: 7, TYPES[1]: 4, TYPES[2]: 5}   # named financiers per source; the rest one grey Other bar
+FTOP = {TYPES[0]: 7, TYPES[1]: 4, TYPES[2]: 5, "budget": 6}   # named financiers (budgets: countries) per source; the rest one grey Other bar
 def _fsub(inst, tot_t):
     lead = {t: sum(v for _, v in inst[t].most_common(FTOP[t])) / tot_t[t] for t in TYPES[:3]}
     wb = inst["aid"]["World Bank"] / tot_t["aid"]
     if wb < 0.4: print(f"WARNING: financiers slide subtitle: World Bank {wb:.0%} of aid")
-    return (f"All digital finance in Africa, {YEARS[0]} to {YEARS[-1]}, by source and financier. The World Bank alone is {100 * wb:.0f}% of aid "
+    return (f"All digital finance in Africa, {YEARS[0]} to {YEARS[-1]}, by source and financier, and national budgets by country. The World Bank alone is {100 * wb:.0f}% of aid "
             f"and MTN Group {100 * inst[TYPES[1]]['MTN Group'] / tot_t[TYPES[1]]:.0f}% of African finance; non-African finance is spread across {len(inst[TYPES[0]])} financiers.  US$ millions")
-drawn_out("financier", "Who the money comes from", _fsub,
-          DEF + " The largest financiers of each source are named; the grey bar is the rest, with their number. "
-          f"National budgets have no financier breakdown. As recorded to {AS_AT}.",
-          FNAME, {TYPES[0]: (8.45, 1.75, 4.3, 2.75), TYPES[1]: (8.45, 4.75, 4.3, 1.8), TYPES[2]: (0.6, 3.95, 4.1, 2.1)}, top=FTOP)
+drawn_out({**{t: "financier" for t in TYPES[:3]}, "budget": "country"}, "Who the money comes from", _fsub,
+          DEF + " Budgets by country, all ministries and agencies combined. "
+          f"Grey bars: the rest, with their number. As recorded to {AS_AT}.",
+          {**FNAME, **{k: r["Country Name"] for k, r in REF.items()}},
+          {TYPES[0]: (8.45, 1.75, 4.3, 2.75), TYPES[1]: (8.45, 4.75, 4.3, 1.8), TYPES[2]: (0.6, 4.3, 4.1, 2.25),
+           "budget": (0.6, 1.75, 4.1, 2.35)}, top=FTOP)
 
 # ---------- Last slide: the foundations only states and donors pay for ----------
 if True:
