@@ -63,6 +63,7 @@ KEN,Causelist Portal,Kenya,other,,Judiciary of Kenya,,2024-03-11-ken-judiciary-e
 KEN,Case Tracking System,Kenya,justice,,The Judiciary of Kenya,all courts,2024-11-01-ken-judiciary-sojar-2023-24-popular-version
 KEN,E-filing system,Kenya,justice,,The Judiciary of Kenya,all court stations,2024-11-01-ken-judiciary-sojar-2023-24-popular-version
 KEN,Cause Lists Portal,Kenya,other,,The Judiciary of Kenya,,2024-11-01-ken-judiciary-sojar-2023-24-popular-version
+KEN,Integrated Correctional Management Information System (ICMIS),ICMIS,other,,"State Department for Correctional Services, World Bank KDEAP funded",,2026-11-23-ken-kenya-prisons-probation-services-set-for-digital-overhaul
 LBR,Electronic Case Management System,ECMS,justice,,Judiciary of Liberia,all circuit courts (planned),2026-07-19-informer-ngafuan-judiciary-strategic-plan-2026-2030-ecms-budget
 LBR,ECMS,Electronic Case Management System,justice,,Judiciary of Liberia,,2025-05-01-lbr-vacancy-announcement-electronic-case-management-system-ecms-administra
 LBY,digital transformation system (Attorney General's Office),Libya,justice,,Attorney General's Office,,2026-11-04-lby-vetogate-attorney-general-1-2m-cases-digital-system
@@ -158,6 +159,7 @@ TZA,NaLIS (National Legal Information System),NaLIS,other,"microservices; web, m
 TZA,e-CMS,Tanzania,justice,,Judiciary of Tanzania,,2026-07-09-tza-one-year-of-reforms-reshape-tanzania-s-judiciary-masaju
 TZA,JOT-eCMS,Tanzania,justice,,Judiciary of Tanzania,District Courts to Court of Appeal; Primary Courts use a separate platform,2026-03-04-tza-judiciary-reforms-boost-case-disposal-to-128pc
 TZA,Electronic filing,Judiciary electronic filing under the Electronic Filing Rules,justice,,Judiciary of Tanzania,,2025-10-17-tza-gn-609-2025-electronic-filing-amendment-rules
+TZA,Transcription and Translation Software (TTS),"Transcription and Translation Software, judgment writing, piloted in 11 court zones since 2024",other,,Judiciary of Tanzania,,2026-03-01-tza-makala-mapinduzi-ya-kidigitali-mahakamani-hukumu-sasa-zaandikwa-kwa-ak
 UGA,ECCMIS,Electronic Court Case Management Information System,justice,,Judiciary of Uganda,42 court stations in and around Kampala,2026-04-23-uga-nilepost-eccmis-training-42-courts
 UGA,Electronic Court Case Management Information System (ECCMIS),Uganda,justice,,Judiciary of Uganda,lower courts and Anti-Corruption Division,2025-05-16-nam-judiciary-ug-eccmis-benchmarking-visit
 UGA,ECCMIS,Uganda,justice,,Judiciary of Uganda,"Supreme Court, Court of Appeal/Constitutional Court, High Court divisions, Mengo Chief Magistrates Court",2022-03-02-uga-judiciary-launches-eccmis
@@ -186,3 +188,4 @@ ZWE,Integrated Electronic Case Management System (IECMS),Zimbabwe,justice,,Judic
 ZWE,Integrated Electronic Case Management System (IECMS),IECMS,justice,,Judicial Service Commission,,2026-06-10-zwe-justice-gwaunza-launches-phase-4-3-iecms
 ZWE,Integrated Electronic Case Management System (IECMS),IECMS,justice,,Judicial Service Commission,,2024-01-09-zwe-courts-will-not-return-to-ineffective-manual-system
 ZWE,Integrated Electronic Case Management System (IECMS),IECMS,justice,,Judicial Service Commission,High Court,2023-11-23-zwe-plc-adverse-report-si-153-of-2023-high-court-amendment-rules
+ZWE,Zimbabwe Case Management System,Zimbabwe,other,,"Ministry of Public Service, Labour and Social Welfare",,2026-11-23-zwe-zimbabwe-eyes-ai-driven-public-services
