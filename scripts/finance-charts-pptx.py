@@ -7,6 +7,7 @@ Reads three files and nothing else: `site/finance/all/all-finance.csv`, `lookups
 (area, population, names) and `lookups/taxonomy.csv` (topic to chapter). Map shapes come from
 `site/maturity/data/africa.json`. Every slide covers YEARS. Bill's running order (2026-11-24):
 
+0. Corpus joins up development finance: three partial sources converge on one dataset (2026-11-25).
 1. Where the money goes: a pie of chapters, each big chapter's topics as bars drawn out from it.
 1a. Where the money comes from: the same design, sources and their instruments; budgets get no panel.
 2. Who pays for what: topics over US$500 million, total and share by source.
@@ -614,8 +615,61 @@ if True:
         text(s, GX + 0.3, gy + 0.3, 3.2, 0.75, ", ".join(NAME.get(k, k) for k in ks) or "None", 10.5, color=INK2)
         gy += 1.12
 
+# ---------- Intro: three partial pictures converge on one dataset (Bill, 2026-11-25) ----------
+from pptx.enum.shapes import MSO_CONNECTOR
+from pptx.enum.dml import MSO_LINE_DASH_STYLE
+s = prs.slides.add_slide(BLANK)
+bg = s.background.fill; bg.solid(); bg.fore_color.rgb = rgb(PAPER)
+text(s, 0.6, 0.35, 12.1, 0.7, "Corpus joins up development finance", 34, bold=True)
+text(s, 0.6, 1.05, 11.5, 0.7, "Until now there has been no joined-up approach to understanding development finance. "
+     "Corpus is the first integrated dataset of finance for digital transformation in Africa.", 16, color=INK2)
+NSUB = len({r["subtopic_id"] for r in csv.DictReader(io.open(os.path.join(ROOT, "lookups", "finance-subtopics.csv"), encoding="utf-8-sig"))})
+NTOP = len({r["topic_id"] for r in csv.DictReader(io.open(os.path.join(ROOT, "lookups", "finance-subtopics.csv"), encoding="utf-8-sig"))})
+LEFT = [("Aid", SRC_COL["aid"], "Reported to IATI and the OECD. Misses lenders such as China, and can lag a year behind the commitment."),
+        ("National budgets", SRC_COL["budget"], "Each country publishes in its own format, with its own chart of accounts."),
+        ("Private sector", SRC_COL["other non-African finance"], "Structured data sits behind expensive paywalls.")]
+RIGHT = [("All", "Covers all sources", "Datasets, portals, trade journals, national newspapers and press releases."),
+         (f"{NTOP}·{NSUB}", "One classification", f"Every transaction classified against {NTOP} topics and {NSUB} sub-topics."),
+         ("Daily", "Up to date", "Every potential source swept every day."),
+         ("Free", "Public and transparent", "Free to all. Every row linked to its published source. Open-source code.")]
+CX, CY, R = 6.67, 4.33, 1.05                     # the Corpus hub
+text(s, 0.6, 1.95, 3.9, 0.3, "UNTIL NOW: THREE PARTIAL PICTURES", 11, color=FAINT, bold=True)
+text(s, 8.55, 1.95, 4.0, 0.3, "CORPUS: ONE DATASET", 11, color=FAINT, bold=True)
+LX, LW, LH, LY0, LG = 0.6, 3.9, 1.15, 2.35, 0.3
+for i, (head, col, body) in enumerate(LEFT):
+    y = LY0 + i * (LH + LG)
+    ln = s.shapes.add_connector(MSO_CONNECTOR.STRAIGHT, Inches(LX + LW), Inches(y + LH / 2), Inches(CX), Inches(CY))
+    ln.line.color.rgb = rgb(col); ln.line.width = Pt(3)
+    c = s.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(LX), Inches(y), Inches(LW), Inches(LH))
+    c.adjustments[0] = 0.08; c.fill.solid(); c.fill.fore_color.rgb = rgb("FFFFFF"); c.shadow.inherit = False
+    c.line.color.rgb = rgb(col); c.line.width = Pt(1.5); c.line.dash_style = MSO_LINE_DASH_STYLE.DASH
+    d = s.shapes.add_shape(MSO_SHAPE.OVAL, Inches(LX + 0.2), Inches(y + 0.2), Inches(0.24), Inches(0.24))
+    d.fill.solid(); d.fill.fore_color.rgb = rgb(col); d.line.fill.background(); d.shadow.inherit = False
+    text(s, LX + 0.55, y + 0.16, LW - 0.75, 0.3, head, 16, bold=True)
+    text(s, LX + 0.55, y + 0.5, LW - 0.75, 0.65, body, 12, color=INK2)
+RX, RW, RH, RY0, RG = 8.55, 4.18, 0.87, 2.35, 0.19
+for i, (big, head, body) in enumerate(RIGHT):
+    y = RY0 + i * (RH + RG)
+    ln = s.shapes.add_connector(MSO_CONNECTOR.STRAIGHT, Inches(CX), Inches(CY), Inches(RX), Inches(y + RH / 2))
+    ln.line.color.rgb = rgb(ACCENT); ln.line.width = Pt(2)
+    c = s.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(RX), Inches(y), Inches(RW), Inches(RH))
+    c.adjustments[0] = 0.1; c.fill.solid(); c.fill.fore_color.rgb = rgb("FFFFFF"); c.shadow.inherit = False
+    c.line.color.rgb = rgb(RULE); c.line.width = Pt(0.75)
+    text(s, RX + 0.1, y, 1.05, RH, big, 20, color=ACCENT, bold=True, align=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE)
+    text(s, RX + 1.25, y + 0.08, RW - 1.4, 0.3, head, 14, bold=True)
+    text(s, RX + 1.25, y + 0.36, RW - 1.4, 0.5, body, 11, color=INK2)
+hub = s.shapes.add_shape(MSO_SHAPE.OVAL, Inches(CX - R), Inches(CY - R), Inches(2 * R), Inches(2 * R))
+hub.fill.solid(); hub.fill.fore_color.rgb = rgb(INK); hub.line.color.rgb = rgb(PAPER); hub.line.width = Pt(4); hub.shadow.inherit = False
+text(s, CX - R, CY - 0.42, 2 * R, 0.5, "Corpus", 26, color="FFFFFF", bold=True, align=PP_ALIGN.CENTER)
+text(s, CX - R + 0.15, CY + 0.12, 2 * R - 0.3, 0.5, "one integrated dataset", 12, color=RULE, align=PP_ALIGN.CENTER)
+ln = s.shapes.add_connector(1, Inches(0.6), Inches(6.62), Inches(12.73), Inches(6.62))
+ln.line.color.rgb = rgb(RULE); ln.line.width = Pt(0.75)
+text(s, 0.6, 6.68, 12.1, 0.45, "Scope: financial commitments of relevance to digital transformation in Africa, "
+     "from national budgets, aid, and African and non-African financiers.", 10, color=FAINT)
+text(s, 8.7, 7.08, 4.03, 0.25, "data-landscapers.io", 10, color=FAINT, align=PP_ALIGN.RIGHT)
+
 # Bill's running order (2026-11-24): the whole picture, then the rise and its reality check
-ORDER = ["Where the money goes", "Where the money comes from", "Who pays for what", "The foundations", "The rise of African finance", "But the rise", "Where the money lands"]
+ORDER = ["Corpus joins up", "Where the money goes", "Where the money comes from", "Who pays for what", "The foundations", "The rise of African finance", "But the rise", "Where the money lands"]
 lst = prs.slides._sldIdLst
 rank = [next((i for i, t in enumerate(ORDER) if sl.shapes[0].text_frame.text.startswith(t)), 99) for sl in prs.slides]
 ids = list(lst)
