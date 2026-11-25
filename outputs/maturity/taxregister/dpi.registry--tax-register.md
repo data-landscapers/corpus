@@ -111,7 +111,7 @@ The taxpayer number was shared with business registration or customs in 2025; no
 The tax number was issued on computer and with company registration in 2026; no source found ties it to the national ID.
 
 - DGCI Instruction 25/2025 states that production, validation and issue of the NIF may be done only through the module in the DGCI's Kontaktu system, and bans issue through SIGEF ([source, 2025-12-03](https://kontaktu.mef.gw/instructions)).
-- The CFE page states that the NIF is issued as part of company registration at the CFE, the data being sent automatically to the DGCI, so applicants need not go to the DGCI ([source, 2026](https://cfe.gw/numero-de-identificacao-fiscal/)).
+- The CFE page states that the NIF is issued as part of company registration at the CFE, the data being sent automatically to the DGCI, so applicants need not go to the DGCI ([source, 2026](https://web.archive.org/web/20260311133337/https://cfe.gw/numero-de-identificacao-fiscal/)).
 
 ### Mauritania: 4 Operating
 

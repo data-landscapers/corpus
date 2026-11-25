@@ -160,7 +160,7 @@ Voters could check the digital roll in 2026; no source found reports a link to t
 
 Voters could check the digital roll in 2025; no source found reports a link to the ID or civil register.
 
-- The Ministry of the Interior says citizens can check their registration on the electoral roll and their polling centre online at www.consultation.listelectorale.ga by entering their NIP and name ([source, 2025-09](https://www.interieur.gouv.ga/9-actualites/601-verifiez-votre-inscription-et-consultez-votre-centre-de-vote-en-quelques-clics-/)).
+- The Ministry of the Interior says citizens can check their registration on the electoral roll and their polling centre online at www.consultation.listelectorale.ga by entering their NIP and name ([source, 2025-09](https://web.archive.org/web/20251016105802/https://www.interieur.gouv.ga/9-actualites/601-verifiez-votre-inscription-et-consultez-votre-centre-de-vote-en-quelques-clics-/)).
 
 ### Gambia: 4 Operating
 

@@ -140,7 +140,7 @@ The telecoms regulator posted a 5G consultation online in 2025, with replies by 
 Eswatini's communications regulator posted proposed decisions online for comment by email in 2024 and 2025; a portal taking comments online is not known.
 
 - The Eswatini Communications Commission published on its website a proposed broadcasting licence fee schedule and invited written comments from stakeholders and the public by email until 11 August 2025 ([source, 2025-07-01](https://www.esccom.org.sz/publications/notices/docs/Notice%207%20PROPOSED%20DECISION%20TO%20ISSUE%20BROADCASTING%20FEES%20SCHEDULE.pdf)).
-- Eswatini's Communications Commission published General Notice 12/2024 with a proposed decision to retire 2G and 3G networks, available on its website, and invited written comments by email to legal@esccom.org.sz by 9 December 2024 ([source, 2024-11-01](https://www.esccom.org.sz/publications/notices/docs/Notice%2012%20Proposed%20Decision%20to%20Retire%20Legacy%20Networks.pdf)).
+- Eswatini's Communications Commission published General Notice 12/2024 with a proposed decision to retire 2G and 3G networks, available on its website, and invited written comments by email to legal@esccom.org.sz by 9 December 2024 ([source, 2024-11-01](https://web.archive.org/web/20241110181421/https://www.esccom.org.sz/publications/notices/docs/Notice%2012%20Proposed%20Decision%20to%20Retire%20Legacy%20Networks.pdf)).
 
 ### Gambia: 2 Nascent
 

@@ -5824,6 +5824,11 @@
     "written": "2026-10-12",
     "summary": "Chad held a pre-validation workshop on its draft national artificial-intelligence strategy, drafted with the UN Economic Commission for Africa. The draft covers 2027 to 2035 and names agriculture, public administration, security and defence, education and health as priority sectors."
   },
+  "2026-10-12-tcd-tchad-la-strategie-de-gouvernance-des-donnees-validee-celle-de-l-ia-en": {
+    "published": "2026-10-12",
+    "written": "2026-11-25",
+    "summary": "Chad's digital economy ministry opened pre-validation of a national AI strategy for 2026-2030 on 8 October 2026. The step followed technical validation of a national data-governance strategy. A May 2026 diagnostic on the African Union's self-assessment tool put data-governance maturity at 30.27%."
+  },
   "2026-10-12-tun-businessnews-customs-ai-fraud-detection": {
     "published": "2026-10-12",
     "written": "2026-10-16",
@@ -10409,6 +10414,11 @@
     "written": "2026-11-20",
     "summary": "Togo signed an interministerial order on 14 October 2026, published on 28 October 2026. It requires the GUCE and GUFORD single windows to interoperate and to be replaced by a Port Community System. Data validated in one system may not be requested again. No go-live date is set."
   },
+  "2026-10-28-tgo-developpement-numerique-au-togo-un-assistant-ia-permet-desormais-d-acc": {
+    "published": "2026-10-28",
+    "written": "2026-11-25",
+    "summary": "In October 2026 Togo's digital economy ministry added a conversational AI assistant to the National Digital Observatory platform. Users can ask questions in natural language to find statistics on the country's digital development."
+  },
   "2026-10-28-ucc-seeks-digital-upgrade-of-posta-uganda-nationwide-addressing-system": {
     "published": "2026-10-28",
     "written": "2026-10-29",
@@ -10988,6 +10998,11 @@
     "published": "2026-10-30",
     "written": "2026-11-03",
     "summary": "The Central Bank of Lesotho and the CAFI project launched campaigns urging small businesses to pledge movable assets as loan collateral. Assets worth M3.7bn have been registered on LERIMA, the electronic registry of interests in movable assets. CAFI also named an electronic data reporting and supervision system among the partnership's results."
+  },
+  "2026-10-30-mar-plf-2027-l-etat-branche-sur-l-ia": {
+    "published": "2026-10-30",
+    "written": "2026-11-25",
+    "summary": "The presentation note to Morocco's 2027 draft finance bill gives the AI ministry MAD 1.34bn, MAD 1.08bn for investment. It names GemMaroc and IsMa language models and a 50-megawatt sovereign data centre, Jazari Root, for 2027-2029. The tax directorate plans AI models to target complex fraud schemes."
   },
   "2026-10-30-mli-recouvrement-digital-des-taxes-et-redevances-communales-la-mairie-de-l": {
     "published": "2026-10-30",
@@ -11678,6 +11693,11 @@
     "published": "2026-11-02",
     "written": "2026-11-05",
     "summary": "Ecobank signed an agreement with China's CIPS payment system in Beijing on 10 October 2026. The head of Ecobank Togo says the aim is direct access across its 34 African markets, with renminbi payments through fewer banks. Guinea has had indirect access via Bank of China since March 2026."
+  },
+  "2026-11-02-uga-procurement-consultancy-upgrade-of-the-uganda-land-information-managem": {
+    "published": "2026-11-02",
+    "written": "2026-11-25",
+    "summary": "Uganda's Ministry of Lands, Housing and Urban Development is tendering consultancy to supervise an upgrade of its land information system. The upgrade adopts blockchain and AI; the notice, published 2 November 2026, closes on 2 December 2026."
   },
   "2026-11-02-uga-questions-swirl-over-internet-deal-between-uganda-tanzania": {
     "published": "2026-11-02",
@@ -12818,6 +12838,11 @@
     "published": "2026-11-06",
     "written": "2026-11-09",
     "summary": "Mauritania's regulator ARE fined Mauritel, Mattel and Chinguitel a combined MRU 421,259,757 on 5 November 2026 for poor voice and data service quality. Each fine is 3% of turnover: Mauritel MRU 262.1 million, Mattel 108.8 million and Chinguitel 50.4 million. ARE also ordered a technical and financial network audit and a permanent performance-monitoring platform."
+  },
+  "2026-11-06-mus-expression-of-interest-eoi-for-the-project-ai-powered-personalised-lea": {
+    "published": "2026-11-06",
+    "written": "2026-11-25",
+    "summary": "Mauritius's education ministry invited expressions of interest on 6 November 2026 for an AI-powered personalised learning platform. Technology firms and foreign providers with authorised local representatives could respond by 20 November 2026."
   },
   "2026-11-06-mus-mauritius-explores-digital-public-infrastructure-for-better-public-ser": {
     "published": "2026-11-06",
@@ -14214,6 +14239,11 @@
     "written": "2026-11-12",
     "summary": "Morocco's land conservation agency, ANCFCC, has opened an online service for ownership certificates (reported 11 November 2026). Owners of registered property can request and download them without visiting a registry office. The agency says it aims to cut waiting times and protect personal information."
   },
+  "2026-11-11-mar-renseignement-financier-l-anrf-integre-l-ia-pour-ameliorer-son-capital": {
+    "published": "2026-11-11",
+    "written": "2026-11-25",
+    "summary": "Morocco's National Financial Intelligence Authority (ANRF) launched a tender, reported on 11 November 2026, for a secure AI-assistant platform. It must work in Arabic, French and English and include a legal assistant from launch. The authority wants control of its data and models, and capacity for at least 100 simultaneous users."
+  },
   "2026-11-11-mrt-ainmauritanie-workshop-siraj-exam-registration-review": {
     "published": "2026-11-11",
     "written": "2026-11-13",
@@ -14608,6 +14638,11 @@
     "published": "2026-11-12",
     "written": "2026-11-15",
     "summary": "Libya's Ministry of Economy and Trade launched an online system on 12 November 2026. It allows searches of registered commercial agencies by trademark, principal company or registration number, and downloads of the governing laws and decisions. The Economic Information and Documentation Centre built it. Online applications and transactions are promised in a second phase."
+  },
+  "2026-11-12-lby-zaytuna-media-conference-ai-content-monitoring-guide": {
+    "published": "2026-11-12",
+    "written": "2026-11-25",
+    "summary": "Libya's General Authority for Media Content Monitoring is drafting a guide on AI use in media. Its head, Jalal Othman, told the state news agency in November 2026 that monitors had recorded fabricated images. He said the media code of conduct bans deepfakes."
   },
   "2026-11-12-lesotho-itu-pp26-affordable-connectivity-landlocked": {
     "published": "2026-11-12",
@@ -15083,6 +15118,11 @@
     "published": "2026-11-13",
     "written": "2026-11-15",
     "summary": "In its policy statement to the ITU Plenipotentiary Conference 2026, Tanzania said broadband coverage had grown from 77% to over 94% of the population since 2022. It said its universal access fund and operators had built 758 towers. These connected 1,301 villages and about 8.5 million people. Tanzania asked the ITU to prioritise meaningful connectivity."
+  },
+  "2026-11-13-tza-tcra-communications-sector-performance-report-q-sep-2026": {
+    "published": "2026-11-13",
+    "written": "2026-11-25",
+    "summary": "Tanzania's communications regulator (TCRA) reported 123.2 million telecom subscriptions in the quarter to September 2026, up 5.35%. Internet subscriptions rose to 64.7 million and mobile money accounts to 93.9 million. Reported fraud attempts rose 7.81% from the June quarter, to 7,907."
   },
   "2026-11-13-uga-data-drive-ubos-unveils-week-long-africa-statistics-day-programme-puts": {
     "published": "2026-11-13",
@@ -15594,6 +15634,11 @@
     "written": "2026-11-18",
     "summary": "Gabon Fiber took over operation, maintenance and sales of the Lambaréné–Fougamou–Mouila fibre section on 16 November 2026, under a partnership concluded on 14 September 2026. Digital-economy minister Mark-Alexandre Doumba said the Moov Africa Gabon Telecom partnership raised FCFA 3 billion without state budget funds. It is meant to extend the national backbone from 1,782 to 3,433 km."
   },
+  "2026-11-16-gin-guinea-introduces-restrictions-on-ai-use-in-election-media-coverage": {
+    "published": "2026-11-16",
+    "written": "2026-11-25",
+    "summary": "Guinea's media regulator, the Haute Autorité de la Communication (HAC), signed election coverage rules on 6 November 2026. They bar irresponsible use of AI to distort information or manipulate candidates' statements. The rules cover the regional polls of 29 November and senatorial elections of 20 December 2026."
+  },
   "2026-11-16-gmb-senigambia-gicta-wardip-digital-engineering-training": {
     "published": "2026-11-16",
     "written": "2026-11-18",
@@ -15978,6 +16023,11 @@
     "published": "2026-11-17",
     "written": "2026-11-24",
     "summary": "Egypt's Ministry of Communications and Information Technology issued version 1.0 of a guideline for public-sector procurement of AI systems. Under Law 182 of 2018, its provisions bind a contractor only where tender documents and the contract include them."
+  },
+  "2026-11-17-egy-ncai-policy-responsible-use-ai-government-entities": {
+    "published": "2026-11-17",
+    "written": "2026-11-25",
+    "summary": "Egypt's National Council for AI published a first government-wide policy on responsible AI use in November 2026. In force from 1 October 2026, it sets permitted, restricted and prohibited uses. It covers ministries, agencies, state-owned companies and their contractors, but not national security entities."
   },
   "2026-11-17-egypt-senate-study-ai-economic-governance-data-hosting-options": {
     "published": "2026-11-17",
@@ -16579,6 +16629,11 @@
     "written": "2026-11-18",
     "summary": "World Bank Country Manager Georgia Wallen opened a meeting of ECOWAS statistics chiefs in Monrovia on 16 November 2026. The meeting, to 20 November, reviews regional methods for civil registration, censuses, national accounts and trade statistics. Wallen urged offices to combine surveys, censuses and administrative records, with investment in digital infrastructure."
   },
+  "2026-11-18-zaf-calls-grow-for-dedicated-ai-laws-in-south-africa": {
+    "published": "2026-11-18",
+    "written": "2026-11-25",
+    "summary": "In November 2026 a position paper presented to Parliament's communications committee called for a dedicated South African AI Act. Researcher Khanyisani Xulu said existing law and policy do not fully address the auditability of AI decisions."
+  },
   "2026-11-18-zaf-compcom-settlement-x-corp-xai-mdpmi": {
     "published": "2026-11-18",
     "written": "2026-11-20",
@@ -16823,6 +16878,11 @@
     "published": "2026-11-19",
     "written": "2026-11-20",
     "summary": "Tech Africa News reported on 19 November 2026 the International Telecommunication Union's 2026 estimates. Internet use in Africa is 42%, up from 27% in 2020, against 76% globally. In Africa 45% of men and 38% of women use the internet, and 52% of urban residents against 23% of rural residents. 5G reaches 15% of Africa's population, against 59% worldwide."
+  },
+  "2026-11-19-ken-mahakama-ai-judiciary-pilots-ai-tool-to-tackle-chronic-case-backlog": {
+    "published": "2026-11-19",
+    "written": "2026-11-25",
+    "summary": "In November 2026 Kenya's Judiciary reported piloting Mahakama AI, an internal legal research tool for judges. By end-June 2026, 579,954 cases were pending, 341,412 of them for over three years. It had 244 legal researchers in post against an approved 650."
   },
   "2026-11-19-ken-pesalink-wants-cheaper-payments-but-cannot-tell-banks-what-to-charge": {
     "published": "2026-11-19",
@@ -17654,6 +17714,11 @@
     "written": "2026-11-24",
     "summary": "Burkina Faso's Ministry of Security said cybercrime caused 956 victims and losses above FCFA 261 million in October 2026. It recorded 615 ICT-enabled frauds, with mobile-money scams the largest group at 263 victims and over FCFA 104 million. The ministry reported 21 arrests, of whom 15 have been referred to court."
   },
+  "2026-11-23-bfa-telecommunication-dans-l-espace-uemoa-les-acteurs-reflechissent-sur-les-enj": {
+    "published": "2026-11-23",
+    "written": "2026-11-25",
+    "summary": "Telecom operators of the West African Economic and Monetary Union (UEMOA) met in Ouagadougou on 23-26 November 2026. The 17th COFTEL conference focused on low-orbit (LEO) satellite networks and digital sovereignty. A UEMOA commissioner said a firm will be hired in 2027 to study a regional satellite network."
+  },
   "2026-11-23-cmr-promotion-de-letat-civil-environ-168-000-demandes-de-financement-intro": {
     "published": "2026-11-23",
     "written": "2026-11-24",
@@ -17704,6 +17769,11 @@
     "written": "2026-11-24",
     "summary": "Algeria's Finance Minister instructed the banks' association ABEF and the interbank payment operator SATIM, in correspondence No. 3090 of 22 November 2026, to prepare higher CIB card payment ceilings for individuals and businesses. They must send a joint proposal within fifteen days, with limits by customer category and channel and a deployment timetable. The current ceilings are not stated."
   },
+  "2026-11-23-egy-aboheshima-senate-ai-economy-study-data-governance": {
+    "published": "2026-11-23",
+    "written": "2026-11-25",
+    "summary": "On 23 November 2026, Senator Ahmed Abou Hashima presented his study on AI in economic management to Egypt's Senate. It cites over 2.5 billion e-invoices and receipts, and InstaPay transactions of about EGP 7 trillion to September 2026. He named a digital hub linking about 100 databases across more than 105 bodies as a key asset."
+  },
   "2026-11-23-egy-communications-minister-data-centre-investment-youm7": {
     "published": "2026-11-23",
     "written": "2026-11-24",
@@ -17718,6 +17788,11 @@
     "published": "2026-11-23",
     "written": "2026-11-24",
     "summary": "FinTech Gate reported on 23 November 2026 the data protection rules in Egypt's guideline for buying AI systems. Third-party models may not be trained on government data without explicit authorisation. Bidders must disclose storage locations, retention periods, sub-processors and proof of deletion."
+  },
+  "2026-11-23-egy-minister-communications-senate-ai-economy-data-sovereignty": {
+    "published": "2026-11-23",
+    "written": "2026-11-25",
+    "summary": "Egypt's communications minister, Raafat Hendy, proposed three priority AI applications to the Senate on 23 November 2026. They cover public revenue forecasting, macroeconomic indicator prediction and analysis of deviations in fiscal indicators. He said pilots would run with the finance and planning ministries before any expansion."
   },
   "2026-11-23-egy-sis-cbe-card-tokenisation-android": {
     "published": "2026-11-23",
@@ -17809,6 +17884,11 @@
     "written": "2026-11-24",
     "summary": "Al Arabiya, citing a Sudanese outlet, reported details of Sudan's National Instant Payment System. The Central Bank of Sudan owns and runs it. It describes transfers by phone number, QR merchant payments and USSD access without internet."
   },
+  "2026-11-23-sdn-sudan-central-bank-plans-national-instant-payment-platform-to-curb-cash-": {
+    "published": "2026-11-23",
+    "written": "2026-11-25",
+    "summary": "The Central Bank of Sudan signed a contract in November 2026 for a national instant payment system. A pilot for 10,000 to 50,000 users precedes nationwide launch within 18 months of the contract. The bank keeps ownership of the platform, brand and data."
+  },
   "2026-11-23-sen-al-aminou-lo-appelle-a-investir-massivement-dans-la-donnee-pour-une-gouvernance": {
     "published": "2026-11-23",
     "written": "2026-11-24",
@@ -17829,15 +17909,35 @@
     "written": "2026-11-24",
     "summary": "On 13 November 2026 Chad and Nigeria signed a letter of interest asking the World Bank to support a fibre-optic link. The report says the letter is a first approach to the donor. It is not a financing agreement."
   },
+  "2026-11-23-tgo-togo-opens-software-platform-to-local-developers": {
+    "published": "2026-11-23",
+    "written": "2026-11-25",
+    "summary": "Togo opened a call on 20 November 2026 for local developers to list software on the BoD-TPME platform. Applications close on 8 January 2027; small businesses buying listed tools may receive subsidies. Agence Togo Digital developed the platform, a digital toolkit for small businesses launched in Kara in June 2026."
+  },
   "2026-11-23-tza-germany-commits-116m-to-tanzania-s-infrastructure-and-business-reforms": {
     "published": "2026-11-23",
     "written": "2026-11-24",
     "summary": "The Citizen reported that Germany committed EUR 116 million to Tanzania at government negotiations in Berlin on 18 and 19 November 2026. The money is mostly loans for water and energy plus technical cooperation grants. It includes a new phase of the Digital Transformation Centre, with no amount stated."
   },
+  "2026-11-23-tza-how-loopholes-in-sim-registration-are-fuelling-phone-scams": {
+    "published": "2026-11-23",
+    "written": "2026-11-25",
+    "summary": "On 18 November 2026 Tanzania's home affairs minister told operators to deactivate SIMs not linked to national ID records. A registration agent alleged some agents reuse customers' fingerprints to register extra SIMs without their knowledge. The communications regulator logged 7,907 fraud attempts in the quarter to September 2026, up 7.81%."
+  },
   "2026-11-23-xaf-africa-cdc-gsma-and-member-states-validate-first-annual-report-on-digi": {
     "published": "2026-11-23",
     "written": "2026-11-24",
     "summary": "African Union member states met Africa CDC and partners in Addis Ababa. They validated country findings for the first Annual Report on the State of Digital Health in Africa. It is scheduled for presentation at the African Union Summit in February 2027."
+  },
+  "2026-11-23-xaf-afrinic-added-nine-co-chair-tests-to-a-one-sentence-role": {
+    "published": "2026-11-23",
+    "written": "2026-11-25",
+    "summary": "Guidelines approved by AFRINIC's Board on 4 February 2026 set nine eligibility tests for policy co-chairs. The Consolidated Policy Manual describes the role in one sentence on administrative functions. Mailing-list participants disputed the tests, including Resource Member nominations; no resolution appeared by 22 November 2026."
+  },
+  "2026-11-23-xaf-consensus-claimed-in-mail-still-open-in-afrinic-s-register": {
+    "published": "2026-11-23",
+    "written": "2026-11-25",
+    "summary": "On 22 November 2026 a co-author said IPv6 proposal AFPUB-2026-v6-001-DRAFT03 reached consensus at the AFRINIC-38 meeting. AFRINIC's proposal register still listed the draft as Under Discussion, version 3.0. The AFRINIC-38 meeting page shows no policy outcome, and a participant objected the same day."
   },
   "2026-11-23-xea-eac-advances-regional-framework-for-trusted-cross-border-data-flows-and-data-pro": {
     "published": "2026-11-23",
