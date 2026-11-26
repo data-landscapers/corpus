@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: BFA
 ledger_rows: 49
 not_held: 6
-record: c28fff3ca9bf
+record: b6c176dbc188
 ---
 
 # News, Oct – Nov 2026
@@ -580,7 +580,7 @@ Burkina Faso's business registration centre CEFORE runs an online guide to start
 
 **[Modernisation de l’état civil : À Koudougou, l’ALP au cœur des réalités administratives, judiciaires et sanitaires](https://www.assembleenationale.bf/996)** — Assemblée législative du peuple, 24 November 2026
 
-VENEEM demo; acts 1959-2023 digitised; Koudougou court ~2,000 late-registration requests yearly, 1,476 rulings Jan-Oct.
+A Burkina Faso parliamentary mission on civil registration was shown the VENEEM platform in Koudougou in November 2026. The platform holds digitised acts from 1959 to 2023. Koudougou's high court receives about 2,000 late-registration requests a year and issued 1,476 rulings in January-October 2026.
 
 </div>
 
@@ -588,7 +588,7 @@ VENEEM demo; acts 1959-2023 digitised; Koudougou court ~2,000 late-registration 
 
 **[Modernisation de l’état civil : À Réo, Ténado et Poa, la digitalisation face aux défis de sa mise en œuvre](https://www.assembleenationale.bf/997)** — Assemblée législative du peuple, 24 November 2026
 
-VENEEM installed in Réo but idle without internet; Ténado runs on three agents; Poa's digitised registers unexploited.
+Burkina Faso's parliament reported on 24 November 2026 that the VENEEM civil-registration platform sits idle in Réo. The commune lacks reliable internet, and staff in secondary centres still work on paper. Ténado's civil-status office has three staff, and Poa's digitised registers are not yet used on any platform.
 
 </div>
 

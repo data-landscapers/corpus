@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: BEN
 ledger_rows: 50
 not_held: 4
-record: 3c63083dc91b
+record: 80b68bff458a
 ---
 
 # News, Oct – Nov 2026
@@ -506,7 +506,7 @@ MTN Mobile Money Bénin said its interoperable e-money transactions run through 
 
 **[Bénin : la PNIF propose des crédits de 50 000 à 50 millions de FCFA en ligne](https://beninwebtv.bj/cest-possible-en-48h-lancement-officiel-de-la-pnif-permettant-dobtenir-un-microcredit-en-ligne/)** — Bénin Web TV, 24 November 2026
 
-Live 24 Nov 2026; 14 microfinance institutions; NPI login; 3-36 month terms; payout within 48 hours.
+Benin opened its National Financial Inclusion Platform (PNIF) on 24 November 2026 for online microfinance loans. Clients of 14 partner institutions can borrow FCFA 50,000 to 50 million, signing in with their ID number. Funds reach a bank or mobile-money account within 48 hours of signing.
 
 </div>
 
@@ -684,7 +684,7 @@ Benin's government launched a presidential National Administrative Simplificatio
 
 **[Prix national de la simplification administrative : Les travaux d’évaluation des propositions lancés | Gouvernement de la République du Bénin](https://www.gouv.bj/article/3753/)** — Gouvernement de la République du Bénin, 24 November 2026
 
-5,000+ proposals from 14 sectors; commissions sit 23 Nov-4 Dec 2026; all procedures online by 2030.
+Benin's evaluation commissions began reviewing over 5,000 proposals for the National Administrative Simplification Prize on 23 November 2026. The proposals came from 14 sectors between 29 October and 12 November 2026. The review runs to 4 December, towards a goal of all procedures online by 2030.
 
 </div>
 

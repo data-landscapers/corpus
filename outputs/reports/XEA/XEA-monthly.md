@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: XEA
 ledger_rows: 22
 not_held: 0
-record: ae102e1e1247
+record: da9e0431c52a
 ---
 
 # News, Oct – Nov 2026
@@ -438,7 +438,7 @@ Fifteen COMESA member states validated a Regional Digital Inclusion Strategy and
 
 **[European Union — TradeMark Africa, Horn of Africa green and digital trade corridor action, 2026](https://trademarkafrica.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — European Union, 1 November 2026
 
-EUR 20m four-year Global Gateway programme signed November 2026; TradeMark Africa implements in ETH, DJI, SOM.
+The European Union committed EUR 20 million in 2026 to a four-year Horn of Africa trade programme. TradeMark Africa implements it with Ethiopia, Djibouti and Somalia, covering digital trade systems and greener freight.
 
 </div>
 

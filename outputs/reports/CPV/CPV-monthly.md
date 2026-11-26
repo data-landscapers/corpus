@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: CPV
 ledger_rows: 19
 not_held: 22
-record: 86102e5fa5a3
+record: 109052256219
 ---
 
 # News, Oct – Nov 2026
@@ -300,7 +300,7 @@ Cabo Verde's telecommunications and digital economy directorate and the UNDP hel
 
 **[ILO supports digital transformation of Cabo Verde's General Labour Inspectorate](https://www.ilo.org/resource/article/ilo-supports-digital-transformation-cabo-verde%E2%80%99s-general-labour)** — International Labour Organization, 19 November 2026
 
-Luxembourg-funded IGT portal and case system launched 3 Nov 2026; AI assistant answers in Kriolu.
+Cabo Verde's General Labour Inspectorate launched an online portal and case-management system in Praia on 3 November 2026. Workers can file complaints and track cases, and an AI assistant answers questions in Kriolu. The tools were developed with ILO support under the Luxembourg-funded Form@Empresa project.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: GNQ
 ledger_rows: 26
 not_held: 6
-record: ccbf6c7ccc5c
+record: 57ae3e584a0e
 ---
 
 # News, Oct – Nov 2026
@@ -164,7 +164,7 @@ Equatorial Guinea's Vice-President Teodoro Nguema Obiang Mangue told the finance
 
 **[El Vicepresidente exige resultados inmediatos para mejorar la red de telecomunicaciones](https://www.guineaecuatorialpress.com/noticias/el_vicepresidente_exige_resultados_inmediatos_para_mejorar_la_red_de_telecomunicaciones)** — Vicepresidencia de la República de Guinea Ecuatorial, 23 November 2026
 
-February 2027 deadline for GETESA network optimisation; CYBERTEQ to audit; first phase already paid.
+Equatorial Guinea's Vice-President Nguema Obiang Mangue gave GETESA until February 2027 to finish optimising its network. At a meeting on 23 November 2026, the government said coverage, calls and internet had worsened. He ordered CYBERTEQ to audit the works, whose first phase had been paid.
 
 </div>
 

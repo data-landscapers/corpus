@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: CMR
 ledger_rows: 39
 not_held: 3
-record: a26c5c4948bb
+record: f69c5273b439
 ---
 
 # News, Oct – Nov 2026
@@ -280,7 +280,7 @@ Orange Cameroon commissioned rural connectivity sites in Campo-Beach on 13 Novem
 
 **[Inclusion numérique: Ekpwassong I et Bisso’o connectés au réseau MTN](https://expressioneconomique.com/conjoncture/inclusion-numerique-ekpwassong-i-et-bissoo-connectes-au-reseau-mtn)** — Expression Economique, 23 November 2026
 
-MTN builds 182 of 362 PATNUC rural sites, 30-plus live; Ekpwassong I connected 9 Nov 2026.
+MTN Cameroon connected Ekpwassong I and Bisso'o to 2G, 3G and 4G on 9 and 11 November 2026. The work falls under the World Bank-financed PATNUC, in which MTN is building 182 of 362 rural sites. More than 30 of its sites were reported operational by 23 November 2026.
 
 </div>
 
@@ -360,7 +360,7 @@ The Port Autonome de Douala plans a two-hectare modular data centre, built for A
 
 **[L’américain Cybastion inspecte le site de son futur data center à Douala](https://actucameroun.com/2026/11/23/lamericain-cybastion-inspecte-le-site-de-son-futur-data-center-a-douala/)** — Actu Cameroun, 23 November 2026
 
-Site visit 5 Nov 2026 at Dibamba port zone; USD 75m with own power plant; financing and timetable unpublished.
+A delegation of the US firm Cybastion visited its planned data-centre site near Douala on 5 November 2026. The project, announced in August 2026, is put at USD 75 million with its own power plant. Its financing, power capacity and timetable had not been published by 23 November 2026.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: NER
 ledger_rows: 15
 not_held: 1
-record: cfab545910f5
+record: 1923318b2cec
 ---
 
 # News, Oct – Nov 2026
@@ -56,7 +56,7 @@ Niger's Ministry of Commerce and Industry opened a three-day pre-validation work
 
 **[Transformation numérique, IA et souveraineté des données](https://www.f2in.ne/opportunites/transformation-numerique-ia-souverainete-donnees/)** — F2IN (Gouvernement du Niger, MCNTI), 24 November 2026
 
-FCFA 16.896bn (c. USD 28m, 48 months) for AI governance, 20+ e-services, sovereign cloud; UNDP as integrator.
+Niger's communications ministry seeks FCFA 16.896 billion, about USD 28 million, for AI governance and digital services. The 48-month project, listed for the F2IN investment forum of 24-26 November 2026, includes a sovereign cloud. It plans over 20 e-services, with UNDP named as integrator.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: SEN
 ledger_rows: 68
 not_held: 2
-record: e6177ba1303b
+record: 6b601ac3a690
 ---
 
 # News, Oct – Nov 2026
@@ -124,7 +124,7 @@ A Transform Health Senegal consultation found 65.8% of respondents unaware that 
 
 **[Projet de budget 2027 — Rapport de présentation, Ministère des Télécommunications et du Numérique](https://www.vie-publique.sn/docs/20af2016-38f3-422b-b9a2-c95a8bc51add/rapport-presentation-projet-budget-2027-mtn-senegal.pdf)** — Ministère des Télécommunications et du Numérique (Sénégal), 6 November 2026
 
-Senegal digital ministry's 2027 budget case: FCFA 64.97bn in four programmes, PAENS under 10% executed in 2026.
+Senegal's digital ministry presented its 2027 draft budget to the National Assembly finance committee on 6 November 2026. It seeks FCFA 64.97 billion in payment credits across four programmes, down 3.8% on 2026.
 
 </div>
 
@@ -512,7 +512,7 @@ Senegal's cybersecurity directorate, the DCSSI, put online a new institutional p
 
 **[ARTICULATION ENTRE PLANIFICATION DES MARCHÉS ET PROGRAMMATION BUDGÉTAIRE : Les modalités d’interconnexion entre APPEL et SYSBUDGED mobilisent plusieurs services de l’administration budgétaire](https://arcop.sn/2026/11/24/articulation-entre-planification-des-marches-et-programmation-budgetaire-les-modalites-dinterconnexion-entre-appel-et-sysbudged-mobilisent-plusieurs-services-de-ladministration-bud/)** — Autorite de Regulation de la Commande Publique (ARCOP), 24 November 2026
 
-Workshop of 17 Nov 2026 maps procurement plans on APPEL to SYSBUDGED budget tools; implementation terms still open.
+On 17 November 2026, Senegal's procurement regulator ARCOP met budget officials on linking its APPEL platform to SYSBUDGED. The workshop mapped procurement plans held on APPEL to in-year budget programming tools. Data security and traceability were discussed; implementation terms remain to be set.
 
 </div>
 
@@ -1146,7 +1146,7 @@ Senegal's statistics agency is working towards remote access for authorised rese
 
 **[Allocution du Premier Ministre Ahmadou Alhaminou Mohamed LO à l'occasion de l’ouverture des travaux du Forum international sur les données](https://primature.sn/publications/actualites/allocution-du-premier-ministre-ahmadou-alhaminou-mohamed-lo-loccasion-de)** — Primature du Senegal, 23 November 2026
 
-Primary text: African guidelines sought on statistics offices' access to private big data; statistics fund in principle.
+Senegal's Prime Minister, Ahmadou Alhaminou Mohamed Lo, opened an international data forum on 23 November 2026. His speech called for African guidelines on official statisticians' access to private big data. It also proposed a trust pact with technology firms on protecting personal data.
 
 </div>
 

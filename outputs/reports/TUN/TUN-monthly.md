@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: TUN
 ledger_rows: 63
 not_held: 4
-record: d95fa267e4f8
+record: 55b25b15c252
 ---
 
 # News, Oct – Nov 2026
@@ -720,7 +720,7 @@ Tunisia's foreign minister told parliament on 17 November 2026 that his ministry
 
 **[Sécurité alimentaire : l'INSSPA prépare une plateforme numérique pour renforcer le contrôle](https://www.lapresse.tn/2026/11/24/securite-alimentaire-linsspa-prepare-une-plateforme-numerique-pour-renforcer-le-controle/)** — La Presse de Tunisie, 24 November 2026
 
-Real-time online reporting of food-safety breaches; traceability under law 25 of 2019; EU workshop 24-25 Nov.
+On 24 November 2026, Tunisia's food-safety authority INSSPA said it is preparing a platform for its control operations. Operators and consumers will be able to report breaches and health risks online in real time. It is also seeking ISO 9001 and ISO/IEC 17020 certification, now at external audit.
 
 </div>
 
@@ -734,7 +734,7 @@ Real-time online reporting of food-safety breaches; traceability under law 25 of
 
 **[Transformation digitale : Le Comité général des assurances dématérialise les demandes d'agrément et supprime les dossiers en papier](https://www.lapresse.tn/2026/11/25/transformation-digitale-le-comite-general-des-assurances-dematerialise-les-demandes-dagrement-et-supprime-les-dossiers-en-papier/)** — La Presse de Tunisie, 25 November 2026
 
-Insurance-intermediary licensing now online only; broker applicants log in via the national digital ID.
+Tunisia's insurance regulator, the Comité général des assurances, has moved intermediary licensing fully online, as reported on 25 November 2026. It no longer accepts paper files. Broker applicants log in to the platform through the national digital identity service.
 
 </div>
 
@@ -884,7 +884,7 @@ Summarised under [Data protection](#data-protection).
 
 **[Ministère de l'Agriculture : présentation de l'application numérique « Aqua Min 360 »](https://www.tunisienumerique.com/ministere-de-lagriculture-presentation-de-lapplication-numerique-aqua-min-360/)** — Tunisie Numerique, 24 November 2026
 
-SECADENORD app built on a national AI model tracks water pumped and energy used at northern pumping stations.
+Tunisia's agriculture ministry reviewed the Aqua Min 360 app at a working session on 23 November 2026. The northern canal operator SECADENORD developed it to track water and energy use at its pumping stations. The app is built on a national AI model.
 
 </div>
 
@@ -1062,7 +1062,7 @@ Tunisia's telecoms regulator INT found in its 2026 digital barometer that 85.9% 
 
 **[Recensement agricole : la Tunisie mise sur le numérique pour actualiser ses données](https://www.webmanagercenter.com/2026/11/24/577870/recensement-agricole-la-tunisie-mise-sur-le-numerique-pour-actualiser-ses-donnees/)** — Webmanagercenter, 24 November 2026
 
-Tablets, Survey Solutions and GIS for the census; World Bank field check in Zaghouan.
+Tunisia's general agricultural census is being collected on tablets using the World Bank's Survey Solutions platform. It uses geolocation and GIS, according to a report of 24 November 2026. A World Bank team checked fieldwork in Zaghouan governorate.
 
 </div>
 

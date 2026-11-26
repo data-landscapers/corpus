@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: UGA
 ledger_rows: 63
 not_held: 11
-record: 4d16042cd0f1
+record: e7d4fb843eac
 ---
 
 # News, Oct – Nov 2026
@@ -726,7 +726,7 @@ Bank of Uganda data reported on 20 November 2026 show 62.12 million registered m
 
 **[Interswitch and Pesapal Expand Payment Interoperability and Verve Card Acceptance in Uganda](https://www.pesapal.com/blog/interswitch-and-pesapal-expand-payment-interoperability-and-verve-card-acceptance-in-uganda)** — Pesapal, 24 November 2026
 
-Pesapal POS routed locally via Interswitch to 19+ institutions; Verve at 4,900+ merchants, cross-border cards.
+Pesapal joined the Interswitch switching network in Uganda, announced on 24 November 2026. Its card transactions now route locally to more than 19 banks and non-banks on Interswitch. Over 4,900 merchant locations can accept Verve cards, including those issued in Nigeria, Kenya and the Gambia.
 
 </div>
 

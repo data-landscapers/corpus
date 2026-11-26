@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: EGY
 ledger_rows: 83
 not_held: 34
-record: de6764bb5ffa
+record: cac378ca3eee
 ---
 
 # News, Oct – Nov 2026
@@ -788,7 +788,7 @@ Egypt's planning minister Ahmed Rustom presented President El-Sisi with a plan t
 
 **[Central Bank of Egypt Launches the Payment Card Tokenization Services on Android Mobile Applications](https://cbe.org.eg/en/news-publications/news/2026/11/23/08/10/tokenization-android)** — Central Bank of Egypt, 23 November 2026
 
-CBE release; Apple Pay phase since Dec 2024 ran 292m transactions worth EGP 228bn to end-Sept 2026.
+On 23 November 2026, Egypt's central bank extended payment-card tokenisation to Android phones, working with banks and fintechs. The service opened through Apple Pay in December 2024. That first phase carried about 292 million transactions worth EGP 228 billion by end-September 2026.
 
 </div>
 
@@ -1298,7 +1298,7 @@ Egypt's National Council for AI published a first government-wide policy on resp
 
 **[ننشر نص مشروع قانون بشأن تنظيم التعليم الرقمي واستخدامات الذكاء الاصطناعي](https://www.parlgate.com/96873)** — بوابة البرلمان, 22 November 2026
 
-28-article MP bill: AI in schools and universities, human review of decisions, student data protection, 3-year rollout.
+Egyptian MP Bassam El-Sawaf has tabled a 28-article bill on digital education and AI in schools and universities. Parliament Gate published the text on 22 November 2026. It provides for human review of AI-based decisions, student data protection and a three-year rollout.
 
 </div>
 

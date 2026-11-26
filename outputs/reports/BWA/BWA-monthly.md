@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: BWA
 ledger_rows: 26
 not_held: 5
-record: 9d4924efc43e
+record: e8ac864a1344
 ---
 
 # News, Oct – Nov 2026
@@ -98,7 +98,7 @@ Botswana Fibre Networks and the Education Infrastructure and Management Company 
 
 **[BoFINET, EIMC Partner To Digitise Public Schools](https://na.co.bw/bofinet-eimc-partner-to-digitise-public-schools/)** — News&All Botswana, 23 November 2026
 
-MoU signed 11 Nov 2026; fibre, campus networks, cloud and cybersecurity for schools; UPICtv content; joint committee.
+Botswana Fibre Networks signed a memorandum with EIMC on 11 November 2026 to digitise public schools. It covers fibre links, campus networks, cloud services and cybersecurity, plus curriculum videos on the UPICtv platform. A joint working committee will oversee the work.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: ETH
 ledger_rows: 44
 not_held: 5
-record: 5054ec2cb1b0
+record: 441082c29bdb
 ---
 
 # News, Oct – Nov 2026
@@ -230,7 +230,7 @@ Kifiya Financial Technology announced on 4 November 2026, at the Africa Financia
 
 **[EU, Ethiopia, Djibouti, Somalia and TradeMark Africa launch four-year Global Gateway partnership](https://trademarkafrica.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — TradeMark Africa, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
 
-EUR 20m EU Global Gateway programme, signed 23 Nov 2026; TMA implements digital trade and transport systems.
+On 23 November 2026 the European Union signed a EUR 20 million trade programme with Ethiopia, Djibouti and Somalia. TradeMark Africa will run it over four years, covering digital trade and transport systems and greener freight. It builds on a EUR 32 million EU corridor programme between Djibouti and Ethiopia.
 
 </div>
 
@@ -712,7 +712,7 @@ Ethiopia scored 2.12 out of 4 on the Africa AI Governance Index 2026, in the Dev
 
 **[Avec Addis AI, l’Ethiopien Biniyam Daniel transcrit et vocalise sept langues africaines](https://www.wearetech.africa/fr/fils/tech-stars/avec-addis-ai-l-ethiopien-biniyam-daniel-transcrit-et-vocalise-sept-langues-africaines)** — wearetech.africa, 24 November 2026
 
-Addis AI, founded 2023: speech, transcription and text models in Amharic, Afaan Oromo and five more languages.
+Ethiopia's Addis AI, founded in 2023, builds speech and text models for seven African languages. They include Amharic, Afaan Oromo, Tigrinya, Swahili, Hausa, Sidama and Wolaytta. Its tools transcribe speech, voice text with 56 synthetic voices and generate Amharic and Afaan Oromo text.
 
 </div>
 

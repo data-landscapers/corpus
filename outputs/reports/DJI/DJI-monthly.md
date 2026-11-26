@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: DJI
 ledger_rows: 18
 not_held: 10
-record: e476785b39a9
+record: b6b766744013
 ---
 
 # News, Oct – Nov 2026
@@ -100,7 +100,7 @@ Djiblive reported that Djibouti and the French Development Agency signed a EUR 5
 
 **[EU, Ethiopia, Djibouti, Somalia and TradeMark Africa launch four-year Global Gateway partnership](https://trademarkafrica.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — TradeMark Africa, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
 
-EUR 20m EU Global Gateway programme, signed 23 Nov 2026; TMA implements digital trade and transport systems.
+On 23 November 2026 the European Union signed a EUR 20 million trade programme with Ethiopia, Djibouti and Somalia. TradeMark Africa will run it over four years, covering digital trade and transport systems and greener freight. It builds on a EUR 32 million EU corridor programme between Djibouti and Ethiopia.
 
 </div>
 

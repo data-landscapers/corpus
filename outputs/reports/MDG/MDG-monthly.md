@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: MDG
 ledger_rows: 34
 not_held: 5
-record: cad71653c938
+record: 99d61a881d24
 ---
 
 # News, Oct – Nov 2026
@@ -526,7 +526,7 @@ Madagascar's Conseil d'État has given all magistrates software that removes lit
 
 **[Madagascar et l'intelligence artificielle : ou en est le pays](https://enda-madagascar.org/madagascar-intelligence-artificielle-2026/)** — ENDA Madagascar, 16 November 2026
 
-Customs e-Tariff chatbot live; Asan'ai to train 1,300 youth by May 2027; Mihary offers USD 15,000 to start-ups.
+Madagascar's customs service runs an e-Tariff platform and a round-the-clock chatbot, presented in May 2025. The World Bank-funded Asan'ai programme aims to train 1,300 young people in AI and data by May 2027. The Mihary project offers USD 15,000 in support to young entrepreneurs and start-ups (16 November 2026).
 
 </div>
 

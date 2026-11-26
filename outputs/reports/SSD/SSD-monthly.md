@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: SSD
 ledger_rows: 11
 not_held: 7
-record: 01733ef2ad82
+record: 651895981d3b
 ---
 
 # News, Oct – Nov 2026
@@ -142,7 +142,7 @@ South Sudan's caretaker trade minister Labanya Margaret Mathya held a virtual me
 
 **[Central Bank launches electronic payment system to replace manual cheques](https://eyeradio.org/central-bank-launches-electronic-payment-system-to-replace-manual-cheques/)** — Eye Radio, 24 November 2026
 
-SSIPSS links RTGS and ACH to IFMIS; government payees must hold accounts at licensed commercial banks.
+On 24 November 2026, South Sudan's central bank and finance ministry launched the SSIPSS interbank payment system. It links real-time gross settlement and automated clearing to the government's financial management system, IFMIS. Government payments go directly to payees' accounts at licensed commercial banks, replacing manual cheques.
 
 </div>
 
@@ -150,7 +150,7 @@ SSIPSS links RTGS and ACH to IFMIS; government payees must hold accounts at lice
 
 **[Opinion| South Sudan leaps away from the cheque book](https://www.radiotamazuj.org/en/news/article/opinion-south-sudan-leaps-away-from-the-cheque-book)** — Radio Tamazuj, 24 November 2026
 
-Economist: new rails digitise arrears, not cash; urges no-cash-no-commitment rule and quarterly IFMIS reports.
+A University of Juba economist assessed South Sudan's SSIPSS payment system, launched on 24 November 2026. He argues the rails digitise arrears but do not create cash. He urges a rule of no commitment without cash and quarterly IFMIS reports.
 
 </div>
 

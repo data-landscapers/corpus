@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: CIV
 ledger_rows: 65
 not_held: 9
-record: 09aaf53a3172
+record: 29ebc847d369
 ---
 
 # News, Oct – Nov 2026
@@ -68,7 +68,7 @@ Cote d'Ivoire's access to information commission, the CAIDP, installed six new c
 
 **[Côte d’Ivoire-AIP/ Les sénateurs formés aux enjeux et aux applications de l’intelligence artificielle à Yamoussoukro - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-les-senateurs-formes-aux-enjeux-et-aux-applications-de-lintelligence-artificielle-a-yamoussoukro/)** — Agence Ivoirienne de Presse (AIP), 24 November 2026
 
-Idencity-run session for senators, 24 Nov 2026; Futur Africa helping draft national AI strategy 2026-2030.
+The digital-transition ministry ran an AI session for Côte d'Ivoire's senators in Yamoussoukro on 24 November 2026. The course covers AI assistants in parliamentary work, bias and error risks, and human control of decisions. The report says Futur Africa is helping the ministry draft a national AI strategy for 2026-2030.
 
 </div>
 
@@ -1020,7 +1020,7 @@ Côte d'Ivoire's National Assembly held an AI training session for MPs on 12 Oct
 
 **[Côte d’Ivoire-AIP/ Intelligence artificielle: les membres du CESEC outillés pour relever les défis de la transformation numérique - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-intelligence-artificielle-les-membres-du-cesec-outilles-pour-relever-les-defis-de-la-transformation-numerique/)** — Agence Ivoirienne de Presse (AIP), 24 November 2026
 
-ADOPT IA session with aivancity, 23 Nov 2026; AI for public decision-making under a seven-pillar digital plan.
+On 23 November 2026, members of Côte d'Ivoire's Economic, Social, Environmental and Cultural Council (CESEC) received AI training. The session, run by the school aivancity, falls under the digital ministry's national ADOPT IA programme. It covered AI in agriculture, health, education and public services, and data-protection risks.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: GNB
 ledger_rows: 8
 not_held: 2
-record: 1a8ed7bd2ae1
+record: 40eb6b0e0e03
 ---
 
 # News, Oct – Nov 2026
@@ -48,7 +48,7 @@ Guinea-Bissau's Council of Ministers examined a draft Electronic Transactions La
 
 **[Conselho de Ministros aprova proposta do OGE para 2027 no valor de 543,6 mil milhões de francos CFA](https://ang.gw/conselho-de-ministros-aprova-proposta-do-oge-para-2027-no-valor-de-5436-mil-milhoes-de-francos-cfa/)** — Agência de Notícias da Guiné, 24 November 2026
 
-Electronic Transactions bill approved with amendments, 24 Nov 2026; 2027 budget revenue CFA 543.6bn.
+Guinea-Bissau's Council of Ministers approved an Electronic Transactions bill, with amendments, on 24 November 2026. The bill sets a legal framework for operations and transactions carried out by electronic means. The same session approved the 2027 budget proposal, with revenue forecast at CFA 543.6 billion.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: GHA
 ledger_rows: 94
 not_held: 9
-record: 8eb998c1c1e9
+record: 66a15308c676
 ---
 
 # News, Oct – Nov 2026
@@ -514,7 +514,7 @@ MTN Ghana says it will roll out 5G once the regulator issues the spectrum licenc
 
 **[Mahama to launch Ghana’s 5G network before end of 2026 – Sam George](https://www.citinewsroom.com/2026/11/mahama-to-launch-ghanas-5g-network-before-end-of-2026-sam-george/)** — Citi Newsroom, 24 November 2026
 
-Revised 5G policy raised $240m from 700 MHz, 2.3 GHz and 3 GHz spectrum; signals expected early 2027.
+Ghana's communications minister told Parliament the revised 5G policy had raised $240 million from spectrum sales. He said President Mahama would launch 5G before the end of 2026, with service from early 2027. The bands sold were 700 MHz, 2.3 GHz and 3 GHz (reported 24 November 2026).
 
 </div>
 
@@ -1158,7 +1158,7 @@ The Ghana Revenue Authority will start collecting VAT on foreign digital service
 
 **[Government to relaunch GIFMIS | Ghana News Agency](https://gna.org.gh/2026/11/government-to-relaunch-gifmis/)** — Ghana News Agency, 20 November 2026
 
-Finance ministry readies GIFMIS relaunch; audit bodies urged into quality assurance; unified audit system planned.
+Ghana's finance minister is overseeing a relaunch of the Integrated Financial Management Information System (GIFMIS), first launched in 2009. Seth Terkper, the President's economic adviser, urged on 20 November 2026 that auditors join its quality assurance.
 
 </div>
 
@@ -1600,7 +1600,7 @@ Ghana's Ministry of Finance opened work on a 2027–2031 financial inclusion str
 
 **[More than 7,600 Kumasi residents receive flood alerts under TAHMO project | Ghana News Agency](https://gna.org.gh/2026/11/more-than-7600-kumasi-residents-receive-flood-alerts-under-tahmo-project/)** — Ghana News Agency, 23 November 2026
 
-7,600 registered, 5,893 active in 2026; voice, WhatsApp and IVR alerts in English, Twi, Dagbani; GSMA and UK funded.
+A flood early-warning project led by the Trans-African Hydro-Meteorological Observatory (TAHMO) has enrolled over 7,600 Kumasi residents. Farmerline Ghana sends the alerts by voice message, WhatsApp and interactive voice response. About 5,893 people received messages in 2026, the Ghana News Agency reported on 23 November 2026.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: NGA
 ledger_rows: 149
 not_held: 8
-record: 62cbf3ec8cec
+record: 836f7d08e8dd
 ---
 
 # News, Oct – Nov 2026
@@ -618,7 +618,7 @@ The ITU Plenipotentiary Conference in Doha elected 13 African countries to the I
 
 **[National Council on Health approves 2026 national telemedicine guidelines](https://fmino.gov.ng/national-council-on-health-approves-2026-national-telemedicine-guidelines/)** — Federal Ministry of Information and National Orientation, 23 November 2026
 
-67th NCH meeting, 16-20 Nov 2026: harmonised minimum standards; states and FCT to implement; budget lines urged.
+Nigeria's federal health ministry, states and the FCT are to adopt national telemedicine guidelines approved in November 2026. The National Council on Health approved them at its 67th meeting in Nasarawa, held 16-20 November 2026. The council named gaps in governance, interoperability, data protection and cybersecurity, and recommended budget lines.
 
 </div>
 

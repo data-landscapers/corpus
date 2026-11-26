@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: GIN
 ledger_rows: 27
 not_held: 2
-record: 049f92ae8a9f
+record: 5c6065f41bee
 ---
 
 # News, Oct – Nov 2026
@@ -282,7 +282,7 @@ Parents in Koundara, Conakry, Gaoual and Léro reported missing marks, unregiste
 
 **[Accidents de la circulation : l’AGUISER renforce le dispositif de collecte des données - Refletguinee](https://www.refletguinee.com/accidents-de-la-circulation-laguiser-renforce-le-dispositif-de-collecte-des-donnees/)** — Reflet Guinée, 24 November 2026
 
-ADAMS Guinée training for police, gendarmes, civil protection and health staff, 24-25 Nov 2026; black-spot mapping.
+Guinea's road-safety agency AGUISER trained police, gendarmes, civil-protection and health staff on 24-25 November 2026. The training covered ADAMS Guinée, its digital system for recording road accidents on phones and tablets. The system maps accident black spots and follows victims through health services.
 
 </div>
 

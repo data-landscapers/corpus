@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: RWA
 ledger_rows: 41
 not_held: 7
-record: 2cfdcd87a692
+record: 22a2dbb9d05a
 ---
 
 # News, Oct – Nov 2026
@@ -720,7 +720,7 @@ The Korea International Cooperation Agency and the Rwanda TVET Board held a cere
 
 **[From Investments to Integration: Building a Resilient Digital Learning System in Rwanda](https://www.worldbank.org/en/news/feature/2026/11/24/building-resilient-digital-learning-system-rwanda-mastercard-fdn)** — World Bank, 24 November 2026
 
-REB Moodle upgraded 3.1 to 5.1; ICT integration pilot in six model schools; EdTech Readiness Index 2.0 run.
+The World Bank reported on 24 November 2026 that Rwanda's Basic Education Board upgraded its Moodle e-learning platform. The new version adds a mobile app and serves English training across 16 Teacher Training Colleges. A pilot in six model schools includes AI literacy training for teachers.
 
 </div>
 

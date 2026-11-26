@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: KEN
 ledger_rows: 125
 not_held: 5
-record: 24d6a4ef8413
+record: 58f67928c2b1
 ---
 
 # News, Oct – Nov 2026
@@ -780,7 +780,7 @@ Kenya's ICT Principal Secretary, John Tanui, launched the SecureKE/Konza Soverei
 
 **[Probe after hackers allegedly breach eCitizen, steal millions of personal data](https://citizen.digital/article/probe-after-hackers-allegedly-breach-ecitizen-steal-millions-of-personal-data-n394464)** — Citizen Digital, 24 November 2026
 
-State Department statement of 24 Nov 2026; ByteToBreach claims 740GB; SHA, DCI and Safaricom exposure flagged.
+On 24 November 2026, Kenya's immigration and citizen services department said it was investigating a reported eCitizen breach. A threat actor named ByteToBreach claims to have taken about 740GB, including millions of identity records. The government had not confirmed the theft, and eCitizen services stayed available.
 
 </div>
 
@@ -788,7 +788,7 @@ State Department statement of 24 Nov 2026; ByteToBreach claims 740GB; SHA, DCI a
 
 **[What data is at risk in the alleged 740GB eCitizen data breach?](https://www.pulse.co.ke/story/what-data-is-at-risk-in-the-alleged-740gb-ecitizen-data-breach-2026112418263354796)** — Pulse Kenya, 24 November 2026
 
-Claimed 600GB KYC, 100GB database, 40GB source code; OAuth and SSO concern; Data Protection Act s.43 duty.
+On 24 November 2026, ByteToBreach claimed about 600GB of identity documents from Kenya's eCitizen platform. It also claims 100GB of database content and 40GB of source code. The report also flags risks to linked single sign-on services and duties under the Data Protection Act.
 
 </div>
 
@@ -1876,7 +1876,7 @@ In November 2026 Kenya's Judiciary reported piloting Mahakama AI, an internal le
 
 **[Why Does Voice AI Still Struggle With Kenyans' Speech?](https://spectrum.ieee.org/swahili-speech-recognition)** — IEEE Spectrum, 24 November 2026
 
-Sheng, code-switching and noise defeat speech models; African Next Voices 9,000 hours, Google Waxal 11,000.
+A March 2026 preprint put the word-error rate for read Swahili speech at 3.24%. Models make more errors when Kenyans mix Swahili and English, use Sheng slang or speak amid noise. New datasets cited include African Next Voices, with 9,000 hours, and Google's Waxal, with 11,000.
 
 </div>
 

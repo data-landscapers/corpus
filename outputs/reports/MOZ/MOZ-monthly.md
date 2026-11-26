@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: MOZ
 ledger_rows: 47
 not_held: 17
-record: 73168bf28225
+record: cb97bc1eb8e5
 ---
 
 # News, Oct – Nov 2026
@@ -212,7 +212,7 @@ Mozambique's Assembly of the Republic may sit on Fridays and Saturdays during it
 
 **[INTIC reforça regulação do ecossistema digital com mais de 300 entidades registadas e operadores licenciados](https://revista.tempo.co.mz/intic-reforca-regulacao-do-ecossistema-digital-com-mais-de-300-entidades-registadas-e-operadores-licenciados)** — Revista Tempo, 24 November 2026
 
-300+ platforms and intermediaries registered, 50+ licensed; Decree 59/2023 registration, licensing since January 2026.
+Mozambique's ICT institute INTIC had registered over 300 electronic service intermediaries and platform operators by 24 November 2026. More than 50 of them hold licences. Registration began in October 2023 under Decree 59/2023, and licensing in January 2026 under Decree 44/2025.
 
 </div>
 
@@ -722,7 +722,7 @@ Mozambique's Asset Management Office launched an e-auction platform for assets s
 
 **[Chapo launches PROSPERA to strengthen households' productive capacity](https://aimnews.org/2026/11/11/chapo-launches-prospera-to-strengthen-households-productive-capacity/)** — Agência de Informação de Moçambique (AIM), 11 November 2026
 
-AI-backed 'Olá Produtor' farm advisory service; QR-code national seed tracking and labelling system.
+Mozambique's PROSPERA project, launched on 11 November 2026, connects farmers with extension services, finance and markets. Its 'Olá Produtor' service uses AI, backed by experts, to answer farmers' questions, President Daniel Chapo said. A national seed tracking and labelling system will let producers check seeds by QR code and SMS.
 
 </div>
 
@@ -758,7 +758,7 @@ Mozambique scored 0.96 out of 4 on the Africa AI Governance Index 2026, in the N
 
 **[Governo prepara regras para uso de Inteligência Artificial nas escolas](https://moztoday.com/arquivo/7986)** — MozToday, 16 October 2026
 
-Education ministry council backs 19-article AI-in-schools guidelines; joint ministerial diploma to follow.
+The Coordinating Council of Mozambique's education ministry backed draft guidelines on AI in schools (reported 16 October 2026). The 19-article text covers teaching, assessment and school management, but excludes higher education. It takes effect only through a joint ministerial diploma with the labour ministry.
 
 </div>
 

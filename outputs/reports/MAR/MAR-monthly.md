@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: MAR
 ledger_rows: 49
 not_held: 13
-record: 7e4c668e0bdd
+record: 2bbaeffdf0c7
 ---
 
 # News, Oct – Nov 2026
@@ -688,7 +688,7 @@ Morocco's Watiqa portal for civil-status documents was still down on 18 November
 
 **[Présentation à Rabat de 'E-ROKHSATI', une plateforme de dématérialisation des procédures de renouvellement des permis de conduire](https://maroc.ma/fr/actualites/presentation-rabat-de-e-rokhsati-une-plateforme-de-dematerialisation-des-procedures-de-renouvellement)** — Maroc.ma, 24 November 2026
 
-NARSA platform; identity via Mon Identité Numérique; QR receipt; 11m+ licences, 4,000 certificates a day.
+On 24 November 2026, Morocco's road-safety agency NARSA presented E-ROKHSATI for renewing driving licences online. Applicants verify identity through Mon Identité Numérique and receive a QR-coded provisional receipt. Morocco has over 11 million licences, and registration centres handle over 4,000 certificates a day.
 
 </div>
 
@@ -822,7 +822,7 @@ Morocco's National Financial Intelligence Authority (ANRF) launched a tender, re
 
 **[\[Tribune\] IA en sante: le modele montpellierain, une lecon pour Rabat](https://telquel.ma/2026/11/19/tribune-ia-en-sante-le-modele-montpellierain-une-lecon-pour-rabat_2018902)** — Telquel.ma, 19 November 2026
 
-Op-ed: Jazari network lacks a health strand; AI-assisted ultrasound extending to 50 rural centres, Béni Mellal-Khénifra.
+A November 2026 TelQuel op-ed argues Morocco's Jazari institute network lacks a health strand. It cites Montpellier's hospital-led Alliance Santé IA as a model for a joint health and AI programme. It also reports AI-assisted ultrasound extending to 50 rural centres in Béni Mellal-Khénifra.
 
 </div>
 
@@ -838,7 +838,7 @@ Op-ed: Jazari network lacks a health strand; AI-assisted ultrasound extending to
 
 **[Présentation du projet de budget sectoriel 2027 du ministère de l’Intelligence artificielle, de la Transformation numérique et de la Réforme de l’administration devant la Chambre des conseillers](https://mmsp.gov.ma/fr/actualites/pr%C3%A9sentation-du-projet-de-budget-sectoriel-2027-du-minist%C3%A8re-de-l%E2%80%99intelligence-artificielle-de-la-transformation-num%C3%A9rique-et-de-la-r%C3%A9forme-de-l%E2%80%99administration-devant-la-chambre-des-conseillers)** — Ministère de l'Intelligence artificielle, de la Transformation numérique et de la Réforme de l'Administration, 24 November 2026
 
-Cloud First launch, open-source national LLMs, Jazari roll-out for 2027; offshoring MAD 27.08bn, 167,000 jobs (2025).
+On 24 November 2026, Morocco's AI and digital ministry presented its 2027 budget to the House of Councillors. Its 2027 plans include open-source national language models, more Jazari institutes and a 'Cloud First' policy. It put 2025 offshoring export receipts at MAD 27.08 billion, with 167,000 jobs.
 
 </div>
 

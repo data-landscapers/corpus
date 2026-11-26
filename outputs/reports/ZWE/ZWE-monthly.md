@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: ZWE
 ledger_rows: 49
 not_held: 5
-record: b1e4d761ace3
+record: 8f97096dca5a
 ---
 
 # News, Oct – Nov 2026
@@ -556,7 +556,7 @@ Zimbabwe's small-enterprise development corporation said a national database of 
 
 **[New digital land registry captures 1m properties, nears launch](https://www.heraldonline.co.zw/new-digital-land-registry-captures-1m-properties-nears-launch/)** — The Herald, 24 November 2026
 
-Over 1m of est. 1.3-1.4m property records captured; 60% spatially digitised; 100,000+ survey diagrams online.
+By 23 November 2026, Zimbabwe's e-Cadastre held over one million of an estimated 1.3-1.4 million property records. Spatial digitisation covers about 60% of the country, and over 100,000 survey diagrams are online. Lands minister Vangelis Haritatos targets an official launch in the first quarter of 2027.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: NAM
 ledger_rows: 34
 not_held: 8
-record: 2cd4c6e5e8e5
+record: b925a5f7a67c
 ---
 
 # News, Oct – Nov 2026
@@ -254,7 +254,7 @@ Namibia's NAM-CSIRT, housed at the regulator CRAN, recorded 506,143 vulnerabilit
 
 **[Cybersecurity summit to focus on rising digital fraud](https://neweralive.na/cybersecurity-summit-to-focus-on-rising-digital-fraud/)** — New Era, 24 November 2026
 
-BAN and Bank of Namibia summit; N$32.45m payment fraud losses H1 2026; 32,399 bank fraud incidents Q1 2026.
+Namibia's bankers' association and central bank opened a fraud and cybersecurity summit in Windhoek on 24 November 2026. The central bank put payment fraud losses at N$32.45 million in the first half of 2026. Banks recorded 32,399 fraud incidents in the first quarter of 2026, up from 3,766 the quarter before.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: CAF
 ledger_rows: 17
 not_held: 5
-record: 012c905cb158
+record: 391af3f9a4cb
 ---
 
 # News, Oct – Nov 2026
@@ -174,7 +174,7 @@ The steering committee of the EU-funded MODERO civil-registration project in the
 
 **[Modernisation de l’état civil : MbetiNet expérimenté en phase pilote dans la commune de Bimbo - LES AUTRES NOUVELLES DE CENTRAFRIQUE](https://journallanoca.com/modernisation-de-letat-civil-mbetinet-experimente-en-phase-pilote-dans-la-commune-de-bimbo/)** — Les Autres Nouvelles de Centrafrique, 23 November 2026
 
-Bimbo pilot from 16 Nov 2026; 2,500+ registers to archive and scan; acts hosted in ministry data centre.
+The Central African Republic began piloting MbetiNet, its new civil-registration software, in Bimbo commune from 16 November 2026. Teams are sorting and digitising more than 2,500 registers before any national extension. The EU-funded MODERO project, run by CIVIPOL, supports the work.
 
 </div>
 
@@ -366,7 +366,7 @@ ICASEES launched the second collection wave of the Central African Republic's se
 
 **[ICASEES : la Politique de diffusion des données et la procédure d’anonymisation soumises à la validation des acteurs du Système Statistique National](https://icasees.org/actualites/438-icasees-politique-de-diffusion-des-donnees-et-procedure-d-anonymisation-soumises-a-la-validation-du-ssn)** — Institut Centrafricain des Statistiques et des Études Économiques et Sociales (ICASEES), 24 November 2026
 
-Validation workshop 24-25 Nov 2026; graded access, open formats, three anonymisation risk classes; HISWACA-funded.
+The Central African Republic's statistics institute ICASEES sought validation of two draft data texts on 24-25 November 2026. A dissemination policy offers free aggregates and controlled access to microdata; a second text sets anonymisation rules. A ministerial instrument is to adopt them; the World Bank's HISWACA project funded the workshop.
 
 </div>
 

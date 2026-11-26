@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: ZAF
 ledger_rows: 134
 not_held: 17
-record: b80de269f206
+record: 40c78bb1c208
 ---
 
 # News, Oct – Nov 2026
@@ -680,7 +680,7 @@ ICASA opened a stakeholder questionnaire on 10 November 2026 on the second phase
 
 **[ICASA Notice 4276 of 2026: Extension of the closing date for responses to the Questionnaire on the Assignment of High-Demand Radio Frequency Spectrum, Government Gazette No. 55790](https://www.gov.za/sites/default/files/gcis_document/202611/55790gen4276.pdf)** — Independent Communications Authority of South Africa (Government Gazette No. 55790), 25 November 2026
 
-Closing date moved from 30 Nov 2026 to 29 Jan 2027; no further extension.
+ICASA moved the deadline for its high-demand spectrum questionnaire from 30 November 2026 to 29 January 2027. Notice 4276 appeared in Government Gazette 55790 of 25 November 2026. It followed a request from respondents and says no further extension will be granted.
 
 </div>
 
@@ -800,7 +800,7 @@ Vodacom and Huawei showed Upper 6GHz fixed wireless use cases at the Africa Tech
 
 **[Request for Proposals: Transaction Advisors for the SAEX East Subsea Fibre-Optic Cable Project (Phase 1)](https://www.dbsa.org/sites/default/files/media/documents/2026-11/RFP228.2026-SAEx%20East%20Subsea%20Fibre-Optic.pdf)** — Development Bank of Southern Africa, 24 November 2026
 
-RFP228/2026 for Phase 1 transaction advisors, 24 months; briefing 7 Dec, closing 15 Dec 2026.
+On 24 November 2026, the Development Bank of Southern Africa sought transaction advisers for the SAEx East subsea cable. Tender RFP228/2026 covers Phase 1 over 24 months. A compulsory online briefing is set for 7 December, and bids close on 15 December 2026.
 
 </div>
 
@@ -808,7 +808,7 @@ RFP228/2026 for Phase 1 transaction advisors, 24 months; briefing 7 Dec, closing
 
 **[RFP228/2026 Part E: Terms of Reference for the Procurement of Transaction Advisors for the SAEx East Subsea Fibre-Optic Cable Project (Phase 1)](https://www.dbsa.org/sites/default/files/media/documents/2026-11/RFP228.2026-Part%20E-SAEx%20East%20Subsea%20Fibre-Optic%20TOR.pdf)** — Development Bank of Southern Africa (Infrastructure Finance and Implementation Support Agency, IFISA), 24 November 2026
 
-Part E TOR: 11,700 km all-wet Cape Town-Singapore cable; bankability, BBI business case and BFI bid.
+SAEx East is planned as an all-wet subsea cable of about 11,700 km from Cape Town to Singapore. Advisers are to assess its bankability and build a business case for South Africa's government to take part. The case must link the cable to SA Connect Phase 3 under Broadband Infraco (DBSA, November 2026).
 
 </div>
 
@@ -1868,7 +1868,7 @@ South Africa's Border Management Authority told Parliament on 24 November 2026 t
 
 **[North West Provincial Government's e-recruitment platform to go live on 1 December 2026](https://www.gov.za/news/media-statements/north-west-provincial-governments-e-recruitment-platform-go-live-1-december)** — South African Government, 25 November 2026
 
-Live 1 Dec 2026 in Premier's Office and Health; all departments by 1 Apr 2027; Microsoft SA skills MoU planned.
+North West Provincial Government's e-Recruitment platform goes live on 1 December 2026, the Office of the Premier said on 25 November. It came free through a partnership with Gauteng. It starts in the Office of the Premier and the Department of Health. Every provincial department is to join by 1 April 2027.
 
 </div>
 

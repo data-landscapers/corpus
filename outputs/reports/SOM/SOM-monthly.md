@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: SOM
 ledger_rows: 29
 not_held: 1
-record: f810c2c5e1f1
+record: 91f2e0d83923
 ---
 
 # News, Oct – Nov 2026
@@ -94,7 +94,7 @@ Somalia's House of the People passed the Digital Transactions Bill on 21 October
 
 **[EU, Ethiopia, Djibouti, Somalia and TradeMark Africa launch four-year Global Gateway partnership](https://trademarkafrica.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — TradeMark Africa, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a>
 
-EUR 20m EU Global Gateway programme, signed 23 Nov 2026; TMA implements digital trade and transport systems.
+On 23 November 2026 the European Union signed a EUR 20 million trade programme with Ethiopia, Djibouti and Somalia. TradeMark Africa will run it over four years, covering digital trade and transport systems and greener freight. It builds on a EUR 32 million EU corridor programme between Djibouti and Ethiopia.
 
 </div>
 
@@ -414,7 +414,7 @@ Somalia scored 1.50 out of 4 on the Africa AI Governance Index 2026, in the Emer
 
 **[Southwest State digital health programme](https://us-somalia.com/programmes/southwest-state-digital-health/)** — US-Somalia Investment Intelligence (Cleanport Ventures), 27 October 2026
 
-ThinkMD triage tool: 7,871 encounters at 22 Baidoa-area facilities by 26 October 2026; scale-up to 150 sought.
+ThinkMD's phone-based triage tool logged 7,871 patient encounters at 22 facilities in Somalia's Southwest State by 26 October 2026. The figures are the programme's own, published by its implementing partner Cleanport Ventures. The programme seeks to scale up to 150 facilities.
 
 </div>
 
