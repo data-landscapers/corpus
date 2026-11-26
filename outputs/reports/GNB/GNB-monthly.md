@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — News, Oct – Nov 2026
-compiled: 2026-11-18
-period: 2026-10-01 to 2026-11-18
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: GNB
-ledger_rows: 7
+ledger_rows: 8
 not_held: 2
-record: 37086dcaf340
+record: 1a8ed7bd2ae1
 ---
 
 # News, Oct – Nov 2026
@@ -41,6 +41,28 @@ record: 37086dcaf340
 **[Governo analisa novas leis sobre economia digital e proteção social no país](https://ang.gw/governo-analisa-novas-leis-sobre-economia-digital-e-proteccao-social-no-pais/)** — Agência de Notícias da Guiné (ANG), 18 November 2026
 
 Guinea-Bissau's Council of Ministers examined a draft Electronic Transactions Law on 17 November 2026. Its communiqué says the law is to update the legal framework for electronic operations and make digital transactions more secure and trusted. No adoption has been reported.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Conselho de Ministros aprova proposta do OGE para 2027 no valor de 543,6 mil milhões de francos CFA](https://ang.gw/conselho-de-ministros-aprova-proposta-do-oge-para-2027-no-valor-de-5436-mil-milhoes-de-francos-cfa/)** — Agência de Notícias da Guiné, 24 November 2026
+
+Electronic Transactions bill approved with amendments, 24 Nov 2026; 2027 budget revenue CFA 543.6bn.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Judicial statistics and criminal identification services bill</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Conselho de Ministros aprova proposta do OGE para 2027 no valor de 543,6 mil milhões de francos CFA](https://ang.gw/conselho-de-ministros-aprova-proposta-do-oge-para-2027-no-valor-de-5436-mil-milhoes-de-francos-cfa/)** — Agência de Notícias da Guiné, 24 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
