@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-25-ago-governo-preve-aumentar-para-391-os-pontos-de-acesso-gratuito-a-interne",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Portal de T.I. reported on 25 November 2026 that Angola's 2027 State Budget proposal provides Kz 45.7 billion for the National Broadband Network implementation project, under which the Angola Online access points are to grow from 182 to 391.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "Projecto de Implementacao da Rede Nacional de Banda Larga",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
