@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: MDG
-ledger_rows: 33
+ledger_rows: 34
 not_held: 5
-record: 2c93c627ae73
+record: cad71653c938
 ---
 
 # News, Oct – Nov 2026
@@ -513,6 +513,20 @@ Madagascar scored 0.63 out of 4 on the Africa AI Governance Index 2026, in the N
 **[JUSTICE – Un logiciel d’anonymisation pour permettre aux magistrats d’utiliser l’IA sans exposer les données des justiciables](https://www.2424.mg/justice-un-logiciel-danonymisation-pour-permettre-aux-magistrats-dutiliser-lia-sans-exposer-les-donnees-des-justiciables/)** — 2424.mg, 17 October 2026
 
 Madagascar's Conseil d'État has given all magistrates software that removes litigants' personal data from case files before any AI tool is used, presented at an AI workshop at the Cour suprême on 15-16 October 2026. Built without public money, it is the first step of a Conseil d'État and ENMG programme training magistrates to use consumer AI tools, under the personal data protection law.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs e-Tariff platform and chatbot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Madagascar et l'intelligence artificielle : ou en est le pays](https://enda-madagascar.org/madagascar-intelligence-artificielle-2026/)** — ENDA Madagascar, 16 November 2026
+
+Customs e-Tariff chatbot live; Asan'ai to train 1,300 youth by May 2027; Mihary offers USD 15,000 to start-ups.
 
 </div>
 
