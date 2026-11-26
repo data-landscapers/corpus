@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,hmis,system,coverage,underway,2026-10,KEN-001;KEN-002;KEN-003;KEN-004;KEN-005;KEN-006;KEN-007;KEN-008;KEN-009;KEN-010,,
+KEN,hmis,system,coverage,inservice,2025-10-13,KEN-011,KEN-006=underway;KEN-001=underway;KEN-002=underway;KEN-004=underway;KEN-003=underway;KEN-005=underway;KEN-007=underway;KEN-008=underway;KEN-009=underway;KEN-010=underway,
 KEN,hmis,linked,coverage,,,,,nothing found
 KEN,hmis,completeness,coverage,,,,,nothing found

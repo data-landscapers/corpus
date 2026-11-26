@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hmis",
-      "stage": "2",
-      "system": "underway",
+      "stage": "3",
+      "system": "inservice",
       "linked": "",
       "completeness": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001;KEN-002",
-      "gaps": "No source found since October 2023 says: is a national one in service.",
-      "note": "All 6,427 public Level 2 to 4 facilities have moved from the SHA portal to HMIS platforms, 28 of them certified. Migration to facility systems is not reporting through one national system, which no source here shows.",
-      "as_at": "2026-11-05"
+      "stage_sources": "KEN-011;KEN-001;KEN-002",
+      "gaps": "No source found since October 2023 says the national system is linked to surveillance, the medicines supply chain or a register, or gives its reporting completeness.",
+      "note": "A research team working with the health ministry used monthly facility data, January 2019 to February 2024, from the Kenya Health Information System on DHIS2 (KEN-011), so a national system is in service: 3. The move of facilities from the SHA portal to HMIS platforms is a separate rollout; no link to surveillance, supply or a register is shown, so not 4.",
+      "as_at": "2026-11-26"
     }
   ]
 }

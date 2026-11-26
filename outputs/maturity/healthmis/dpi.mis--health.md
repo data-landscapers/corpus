@@ -22,8 +22,8 @@ The Africa CDC Digital Transformation Strategy asks for national digital health 
 |---|---|
 | 5 Mature | 11 |
 | 4 Operating | 6 |
-| 3 Established | 24 |
-| 2 Nascent | 8 |
+| 3 Established | 25 |
+| 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 4 |
@@ -220,6 +220,14 @@ Guinea-Bissau's national health information system was in service in 2026; a lin
 - The DHIS2 country profile says DHIS2 has been used as Guinea Bissau's national health management information system since 2013, covering routine data on a range of health programs ([source, 2026-08-03](https://dhis2.org/climate/country-profiles/guinea-bissau/)).
 - DHIS2 has been Guinea-Bissau's national health management information system since 2011, managed by INASA and including data from a wider range of health programs, according to DHIS2 ([source, 2026-10-06](https://dhis2.org/hisp-to-strengthen-guinea-bissaus-national-dhis2-system/)).
 
+### Kenya: 3 Established
+
+A national health information system on DHIS2 held monthly facility data to 2024; no link to other health systems has been found.
+
+- The research team says the Kenya Health Information System, built on DHIS2, holds monthly facility clinical data from across Kenya (January 2019 to February 2024) that the health ministry has collected for many years ([source, 2025-10-13](https://www.gavi.org/vaccineswork/child-malnutrition-kenya-ai-model-can-forecast-rates-six-months-they-become)).
+- The Ministry of Health says 6,427 public facilities, 38 DHA-certified private facilities and 38 of 518 faith-based facilities have completed migration from the SHA Provider Portal to the Health Management Information System ([source, 2026-10-06](https://www.health.go.ke/cs-duale-calls-timely-transition-hmis-and-sha-contracting)).
+- The Council of Governors committed to support Level 5 hospitals to complete their transition to the Health Management Information System, per the Ministry of Health ([source, 2026-10-05](https://www.health.go.ke/duale-and-governors-set-14-october-deadline-sha-facility-contracts)).
+
 ### Liberia: 3 Established
 
 A national health information system was in service in 2026; links to other health systems are not on record.
@@ -331,13 +339,6 @@ The minister named DHIMS as the public health information system in 2026; whethe
 - Health Minister Kwabena Mintah Akandoh told Parliament on 24 November 2026 that DHIMS is the information management system for public health, long run apart from GHIMS, the hospital system, and that he had directed the two be synchronised ([source, 2026-11-24](https://www.myjoyonline.com/health-minister-directs-integration-of-dhims-and-ghims-to-unify-health-data-systems/)).
 - The Ministry of Health introduced the Ghana Health Information Management System (GHIMS) to manage health information across the country, replacing the failing LHIMS, per the Health Minister on 29 October 2025 ([source, 2025-10-29](https://www.myjoyonline.com/health-ministry-launches-new-digital-system-to-replace-failing-lhims-platform/)).
 - The Vice President said LHIMS was deployed in about 481 health facilities (teaching, regional, district, polyclinic and psychiatric hospitals) across all 16 regions, with over 1,000 health centres deployment ongoing ([source, 2024-10-31](https://gna.org.gh/2024/11/veep-launches-national-e-health-project-to-transform-ghanas-healthcare-system/)).
-
-### Kenya: 2 Nascent
-
-A health information system was under way in 2026; a national one in service is not on record.
-
-- The Ministry of Health says 6,427 public facilities, 38 DHA-certified private facilities and 38 of 518 faith-based facilities have completed migration from the SHA Provider Portal to the Health Management Information System ([source, 2026-10-06](https://www.health.go.ke/cs-duale-calls-timely-transition-hmis-and-sha-contracting)).
-- The Council of Governors committed to support Level 5 hospitals to complete their transition to the Health Management Information System, per the Ministry of Health ([source, 2026-10-05](https://www.health.go.ke/duale-and-governors-set-14-october-deadline-sha-facility-contracts)).
 
 ### Lesotho: 2 Nascent
 
