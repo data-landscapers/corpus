@@ -3,9 +3,9 @@ title: Cameroon — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: CMR
-ledger_rows: 39
+ledger_rows: 40
 not_held: 3
-record: f69c5273b439
+record: 789fa4c56185
 ---
 
 # News, Oct – Nov 2026
@@ -284,6 +284,14 @@ MTN Cameroon connected Ekpwassong I and Bisso'o to 2G, 3G and 4G on 9 and 11 Nov
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon Urges Banks, Fintechs to Expand Digital Lending Beyond Mobile Payments](https://www.businessincameroon.com/public-management/2611-17282-cameroon-urges-banks-fintechs-to-expand-digital-lending-beyond-mobile-payments)** — Business in Cameroon, 26 November 2026
+
+Finance Minister Louis Paul Motaze urged banks, microfinance institutions and fintechs to offer digital savings, credit and insurance at the opening of SAFINUM 2026 in Yaounde on 26 November. The national economic and financial committee counted 2.7 billion mobile money transactions in 2025. Surveyed users numbered over 80% for payments, about 46% for savings and 36% for credit. The government targets affordable services for 65% of adults by 2027.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -541,6 +549,20 @@ Cameroonian fintech REasy and Africa Global Logistics presented to Douala trader
 **[Fiscalité bancaire : UBA Cameroun intègre le prélèvement de 4 FCFA à ses transactions numériques](https://leconomie.info/article/fiscalite-bancaire-uba-cameroun-integre-le-prelevement-de-4-fcfa-a-ses-transactions-numeriques)** — Le quotidien L'Economie, 20 November 2026
 
 UBA Cameroun told customers it now applies a special charge of FCFA 4 per transaction on its digital channels. These are debit and prepaid cards, the Leo assistant, internet banking and Push & Pull. The charge comes from the 2025 finance law, article 228 quinquies of the tax code, in force since 1 January 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile money transactions</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Cameroon Urges Banks, Fintechs to Expand Digital Lending Beyond Mobile Payments](https://www.businessincameroon.com/public-management/2611-17282-cameroon-urges-banks-fintechs-to-expand-digital-lending-beyond-mobile-payments)** — Business in Cameroon, 26 November 2026
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
