@@ -13,6 +13,9 @@ file, and what is owed him goes in it. What still binds:
 
 - **At most 80 words per block**, heading excluded. Detail belongs in git or in
   `documentation/`; a block is what would have been asked, not the analysis behind it.
+  **A block of steps Bill carries out by hand is exempt** *(Bill, 2026-11-26)*: its job
+  field ends `steps`, and the steps go in whole, because the cap keeps a question to the
+  point and cutting a procedure short only sends him elsewhere to finish it.
 - **A struck block is gone, not annotated.** The run that settles a block's subject
   deletes the block in the same commit; a block edited to say it is settled still reads
   as open to the next run.
@@ -215,6 +218,8 @@ def main() -> int:
         if words <= BLOCK_WORD_CAP:
             continue
         job = JOB.match(heading)
+        if job and job.group(1).rstrip().endswith(" steps"):
+            continue
         if job and job.group(1).startswith("OSINT"):
             print(f"lint-messages: note - '{heading}' is OSINT's and {words} words against "
                   f"the cap of {BLOCK_WORD_CAP}; OSINT's to trim.")
