@@ -46,13 +46,16 @@ COLUMNS = ["object", "kind", "purpose", "purpose_from", "read_by", "written_by"]
 QUEUES = {"logs/budget-followups.md", "logs/budget-changelog-pending.md", "logs/link-dead/",
           "logs/requests-for-osint.csv"}
 
+# Folders whose files cannot state a purpose themselves (a CSV has no docstring) keep one line each
+# in a README; that line is the file's purpose, and the README is not counted as a reader.
+INDEXES = ("lookups/README.md", "logs/README.md")
 TEXT = {".py", ".md", ".yml", ".yaml", ".js", ".mjs", ".toml", ".bat", ".ps1", ".txt", ".json", ".html"}
 WRITE = re.compile(r"\bwrit(?:e|es|ten|ing)\b|\bappend|\badds?\b|\bsav(?:e|es|ed)\b|\brecords?\b|\bdump"
                    r"|open\([^)]*['\"][wa]b?['\"]|mode=['\"][wa]|>>|\.to_csv|csv\.writer|DictWriter|write_text",
                    re.I)
 # A line that defines a data file: `- `lookups/x.csv` — what it is.` or the same with a colon, at the
 # start of a line or list item; the purpose runs to the end of that sentence, across wrapped lines.
-DEFINES = (r"^[ \t]*(?:[-*][ \t]+)?(?:\*\*)?`(?:[\w./-]*/)?{name}`(?:\*\*)?[ \t]*(?:—|–|:)[ \t]*"
+DEFINES = (r"^[ \t]*(?:[-*][ \t]+)?(?:\*\*)?`(?:[\w./-]*/)?{name}/?`(?:\*\*)?[ \t]*(?:—|–|:)[ \t]*"
            r"([^\n].{{10,280}}?)(?:\.(?=\s)|\n[ \t]*\n|\Z)")
 
 
@@ -72,9 +75,10 @@ def objects() -> list[tuple[str, str]]:
     for p in sorted((ROOT / "workers").iterdir()):
         out.append((p.relative_to(ROOT).as_posix() + "/", "worker"))
     for p in sorted((ROOT / "lookups").iterdir()):
-        out.append((p.relative_to(ROOT).as_posix(), "lookup"))
+        if p.name != "README.md":  # the folder's index of purposes, not an object
+            out.append((p.relative_to(ROOT).as_posix(), "lookup"))
     for p in sorted((ROOT / "logs").iterdir()):
-        if p.name.startswith("."):
+        if p.name.startswith(".") or p.name == "README.md":
             continue
         rel = p.relative_to(ROOT).as_posix() + ("/" if p.is_dir() else "")
         out.append((rel, "queue" if rel in QUEUES else "log"))
@@ -86,6 +90,7 @@ def objects() -> list[tuple[str, str]]:
 def referrers() -> dict[str, str]:
     """Every text file whose words can name an object: path -> text."""
     files: list[Path] = list(ROOT.glob("*.md")) + list(ROOT.glob("*.bat"))
+    files += [ROOT / i for i in INDEXES]
     for folder in ("documentation", "maturity/documentation", "content"):
         files += (ROOT / folder).glob("*.md")
     for folder in ("scripts", "workers", ".github/workflows"):
@@ -164,6 +169,12 @@ def own_purpose(path: Path) -> str:
             if line:  # a heading or a sentence; a log's first entry is not a purpose
                 return "" if line[0] in "-*|>" else re.sub(r"^#+\s*", "", line)
         return ""
+    if path.name.endswith("-FROM"):
+        return "The upstream commit this copy of a shared asset was taken from."
+    if path.suffix in (".yml", ".yaml"):
+        m = re.search(r"^name:\s*(.+)$", text, re.M)
+        if m:
+            return m.group(1).strip()
     if path.suffix in (".yml", ".yaml", ".js", ".mjs", ".bat", ".ps1", ".toml"):
         for line in text.splitlines():
             m = re.match(r"\s*(?:#|//|::|REM\b|rem\b)\s*(.+)", line)
@@ -210,10 +221,12 @@ def main() -> int:
             if pattern.fullmatch(names[0]):
                 for ref, ln in refs:
                     found.setdefault(ref, []).append(ln)
-        for ref, hits in sorted(found.items()):
+        index_file = rel.split("/")[0] + "/README.md"
+        for ref, hits in sorted(found.items(), key=lambda kv: (kv[0] != index_file, kv[0])):
             if ref == rel or (rel.endswith("/") and ref.startswith(rel)):
                 continue
-            (written_by if any(WRITE.search(h) for h in hits) else read_by).append(ref)
+            if ref not in INDEXES:  # a folder's index of purposes names everything and uses nothing
+                (written_by if any(WRITE.search(h) for h in hits) else read_by).append(ref)
             if not purpose:
                 m = re.compile(DEFINES.format(name=re.escape(names[0])), re.M | re.S).search(texts[ref])
                 if m and not m.group(1).startswith("`"):  # a column list is not a purpose

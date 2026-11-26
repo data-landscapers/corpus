@@ -57,7 +57,7 @@ A record arriving before stage 2 is built; later ones are the next cycle's.
 6. **Run `RENDER.md` Steps 1 to 7**, then its *Log* and its *Mirror*. Unchanged, in order.
 7. **Run `python scripts/r2-sync.py --mirror-down --weekly`** — the editions' second copy, idle within a week of its last clean pull. Log a pull: `python scripts/log-line.py copy "<the R2 copy line>"`. Exit 1 is a message to Bill.
 7a. **`python scripts/country-reference.py --quarterly`**; `DUE` lines → `documentation/country-reference.md`.
-7a. **Run `python scripts/inventory.py`** *(R166)*, writing the share's `documentation/inventory-corpus.*`; commit them there by path and push.
+7a. **Run `python scripts/inventory.py`, then `lint-inventory.py`** *(R166, R168)*. Commit the share's `documentation/inventory-corpus.*` by path and push; a failure is a housekeeping job.
 8. **Rebuild Research's search index, last and alone** *(Bill, 2026-10-29)* `C:\Research\handovers\index-build-for-corpus.md` is the procedure; log it as `log-line.py index`. Each failure is a new block to Bill *(message 102)*.
 
 The cycle has no stage of its own; steps 1, 4 and 8 are jobs run where they count.

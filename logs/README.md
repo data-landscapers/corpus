@@ -1,0 +1,43 @@
+# Logs — what each file is
+
+One line a file or folder, read by `scripts/inventory.py` as its purpose (R168). A new log gets its line here in the commit that adds it.
+
+- `aiddata-constant-usd/`: a one-off check of AidData's held commitments against the first dollar figure in each record's text.
+- `baseline-not-held-rows.csv`: region progress rows with movement but no baseline, the baseline filler's worklist.
+- `budget-changelog-pending.md`: budget change-log entries held back until the budgets launch.
+- `budget-extract.csv`: one row per budget document read by `BUDGET-EXTRACT.md`, with its lines, scope, stages and cost.
+- `budget-followups.md`: budget readings still owed, worked oldest first by the cycle's finance upkeep.
+- `budget-functions.csv`: check B of the budget data review, each country's core functions found or missing in its budget.
+- `budget-holes.csv`: gaps in each country-year's budget coverage, by signal.
+- `budget-names.csv`: check C of the budget data review, each country's hosting and digital bodies by name.
+- `budget-poll/`: the budget libraries' poll, every link seen and every run.
+- `cite-reread-progress.csv`: per unit, how far the citation reread has gone and what it repaired.
+- `claim-audit/`: each night's claim-audit sample, its worksheet and its verdicts.
+- `claim-audit.csv`: one row per audited claim, with its verdict, cause and repair.
+- `climate-fund-audit.csv`: the climate funds' African project pages, and what was staged for OSINT.
+- `dataset-updates.csv`: every change to a curated dataset, record by record.
+- `deleted-editions.csv`: every edition pruned, with what superseded it.
+- `external-disagreements.csv`: cells where an external register and Corpus's evidence disagree (R186).
+- `filler-batch/`: the run log of the retired progress-filler batch.
+- `fy2027-discovery.csv`: whether each country's 2027 budget has been published, and where.
+- `indicator-mapping-progress.md`: the one-off mapping of country ledgers onto the indicator frame.
+- `ladder-114-moves.tsv`: stage moves from the 2026-11-11 ladder corrections and how each was settled.
+- `link-check.csv`: every outbound source link, its state and its archive copy.
+- `link-dead/`: each day's newly dead links, for repair.
+- `log.md`: Corpus's run log, one line a job.
+- `manifests/`: the OSINT cycle manifests Corpus has read, kept for the cost and freshness history.
+- `maturity-review.csv`: per maturity study, its last review, cost, second-drafter agreement and rulings.
+- `mirror-ffs/`: FreeFileSync's reports from the nightly mirror.
+- `mirror_log.md`: one line per nightly mirror run.
+- `osint-backup.json`: the state of the second copy of OSINT's git-ignored files.
+- `page-weight.csv`: each heavy page's rows, size and element count, by date.
+- `progress-filler/`: the retired progress filler's selections per unit.
+- `prose.csv`: the prose lint's counts per unit, by date.
+- `requests-for-osint.csv`: the retired request feed to OSINT, left in place with its header.
+- `site-analytics-access.csv`: daily users and pages from the site's access log.
+- `site-analytics-countries.csv`: monthly visitors by country.
+- `site-analytics-pages.csv`: monthly views by page.
+- `status-init-progress.csv`: per country, the status initialisation's state and sizes.
+- `status.md`: the latest status line, written by `corpus-status.py`.
+- `unit-review.csv`: one row per country and region, with the date each was last reviewed.
+- `whos-who-tag-folds/`: entity slugs folded into another at the Who's Who launch.

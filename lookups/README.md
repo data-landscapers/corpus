@@ -1,0 +1,47 @@
+# Lookups — what each file is
+
+One line a file, read by `scripts/inventory.py` as the file's purpose (R168). A new lookup gets its line here in the commit that adds it.
+
+- `AFRICA-GEOJSON-FROM`: the upstream commit `africa.geojson` was copied from, checked by `lint-shared-assets.py`.
+- `africa.geojson`: country outlines for the Maturity map.
+- `all-finance-metadata.csv`: column definitions of the all-finance dataset, published beside it.
+- `budget-archetypes.csv`: the recurring shapes of national budget documents and how to read each.
+- `budget-watch.csv`: each country's budget library, its fiscal-year start and the documents polled for.
+- `countries.csv`: the 54 countries and their regions, Corpus's own country list.
+- `country-reference-metadata.csv`: column definitions and sources of the country reference table.
+- `country-reference.csv`: each country's codes in every external scheme (ISO, DAC, M49, IMF and others).
+- `deal-beneficiary-type-map.csv`: old beneficiary-type wordings mapped to controlled values, from the archived deal-vocabulary review.
+- `deal-instrument-map.csv`: old instrument wordings mapped to controlled values, from the archived deal-vocabulary review.
+- `deal-scope.csv`: whether each non-state deal is digital in whole or in part, and its digital share in US$ m.
+- `deal-status-map.csv`: old status wordings mapped to controlled values, from the archived deal-vocabulary review.
+- `deal-vocabs.csv`: the controlled values of a deal's instrument, status and beneficiary type.
+- `entity-names.csv`: display names for entity slugs in the catalogue and Who's Who.
+- `finance-sector-overrides.csv`: deals assigned a sector by hand, overriding the rules.
+- `finance-sector-rules.csv`: pattern rules that assign a finance record its COFOG sector.
+- `finance-sectors.csv`: the finance sectors, with their COFOG codes and definitions.
+- `finance-subtopic-overrides.csv`: deals assigned a finance sub-topic by hand, overriding the rules.
+- `finance-subtopic-rules.csv`: pattern rules that assign a finance record its sub-topic.
+- `finance-subtopics.csv`: the finance sub-topics, their topics, definitions and inclusion tests.
+- `iiag-profiles.csv`: each country's Ibrahim Index profile document and where it is held.
+- `indicators.csv`: the indicator frame that Maturity, Status, Methodology and the topic pages read.
+- `maturity-measures.csv`: the measured figures and cuts that cap a maturity stage.
+- `maturity-norms.csv`: the African Union or other instrument each maturity ladder takes its norm from.
+- `maturity-quintiles.csv`: quintile cuts for indicators staged by rank among the 54.
+- `maturity-rubric.csv`: each indicator's anchor text at each of the five stages.
+- `naming-conventions.csv`: each country's personal-name order and capitalisation, for Who's Who.
+- `org-abbreviations.csv`: organisation abbreviations and the slugs they stand for.
+- `org-lineage.csv`: organisations renamed or merged, and their successors.
+- `org-places.csv`: the country each organisation belongs to.
+- `organisations.csv`: one row per organisation the Who's Who index names.
+- `people.csv`: one row per person the Who's Who index names.
+- `person-aliases.csv`: other spellings of a person's name and the person they resolve to.
+- `person-rulings.csv`: rulings that two person records are the same person, or different.
+- `poll-window.csv`: nights when the automatic poll's hours differ from the default.
+- `position-glossary.csv`: job titles in other languages and their English renderings.
+- `source-kind-rules.csv`: pattern rules that assign a source its kind.
+- `source-kinds.csv`: the source kinds, with labels and definitions.
+- `taxonomy.csv`: the chapters and topics, in order, with their labels.
+- `whos-who-deny.csv`: words that mark a sentence as unfit for a Who's Who position.
+- `whos-who-gov-stems.csv`: slug stems that mark an organisation as government.
+- `whos-who-roles.csv`: role words that mark a sentence as naming a position.
+- `whos-who-suppress.csv`: people withheld from Who's Who, with the date.
