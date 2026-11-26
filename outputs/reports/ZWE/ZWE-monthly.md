@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: ZWE
-ledger_rows: 46
+ledger_rows: 49
 not_held: 5
-record: 49d772bcf229
+record: b1e4d761ace3
 ---
 
 # News, Oct – Nov 2026
@@ -548,6 +548,20 @@ Zimbabwe's small-enterprise development corporation said a national database of 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic cadastre portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[New digital land registry captures 1m properties, nears launch](https://www.heraldonline.co.zw/new-digital-land-registry-captures-1m-properties-nears-launch/)** — The Herald, 24 November 2026
+
+Over 1m of est. 1.3-1.4m property records captured; 60% spatially digitised; 100,000+ survey diagrams online.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -609,6 +623,28 @@ Summarised under [Cybersecurity](#cybersecurity).
 **[ZIMRA to buy e-TRACE system to track digital payments](https://www.techzim.co.zw/2026/11/zimra-to-buy-e-trace-system-to-track-digital-payments/)** — Techzim, 19 November 2026
 
 The 2027 Budget Statement, presented on 19 November 2026, says ZIMRA will buy an e-TRACE system by competitive tender. It is to record and monitor electronic transactions by digital service providers, to support the digital services withholding tax. Techzim reports the Statement gives no budget, timeline or data-protection terms.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Health Data Warehouse</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[TA to Develop National Health Data Ingestion, FHIR Integration and ETL/ELT](https://www.ungm.org/Public/Notice/323610)** — UNDP Zimbabwe (via UN Global Marketplace), 25 November 2026
+
+UNDP Zimbabwe opened a request for proposals on national health data ingestion on 25 November 2026, closing 30 November. The contractor is to build FHIR and REST ingestion and ETL/ELT pipelines into the National Health Data Warehouse. Priority health systems are to link through the national health information exchange. Documentation and ministry training are due within 28 days.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[TA to Develop National Health Data Warehouse, Data Marts and Analytics](https://www.ungm.org/Public/Notice/323611)** — UNDP Zimbabwe (via UN Global Marketplace), 25 November 2026
+
+UNDP Zimbabwe opened a request for proposals on 25 November 2026, closing 30 November, to build the National Health Data Warehouse (UNDP-ZWE-02224). The work covers the warehouse, domain data marts and a secure analytics and reporting platform, with health ministry training and handover within 28 calendar days. Data ingestion is to be contracted separately.
 
 </div>
 
@@ -843,6 +879,20 @@ Zimbabwe's finance minister proposed in the 2027 National Budget to cut customs 
 **[ZIMSTAT opens a direct line to the people as Africa marks Statistics Day](https://www.heraldonline.co.zw/zimstat-opens-a-direct-line-to-the-people-as-africa-marks-statistics-day/)** — The Herald, 19 November 2026
 
 The Zimbabwe National Statistics Agency launched a chatbot, a WhatsApp line and a toll-free line on 18 November 2026, African Statistics Day. The public can use them to query statistics, verify survey enumerators and give feedback.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Zimbabwe Labour Market Information System (ZLMIS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government launches system to improve labour market planning](https://www.heraldonline.co.zw/government-launches-system-to-improve-labour-market-planning/)** — The Herald, 25 November 2026
+
+Zimbabwe launched the Zimbabwe Labour Market Information System, a portal combining ZIMSTAT, NSSA and other agencies' data on jobs, wages, productivity, social security and skills, The Herald reported on 25 November 2026. The ICT ministry hosts it at the National Data Centre. The system feeds the SADC Labour Market Observatory.
 
 </div>
 
