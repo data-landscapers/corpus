@@ -1,12 +1,12 @@
 ---
 title: Somalia: status report
-compiled: 2026-11-24
+compiled: 2026-11-26
 place: SOM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 226
+sources_cited: 227
 sections_written: 39
 not_established: 2
 acquire_lines: 38
@@ -50,6 +50,8 @@ The Authority was [inaugurated on 24 February 2024](https://blog.africadataprote
 [Somalia signed ratification of the African Continental Free Trade Area in early August 2026](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx). [Later that month the AfCFTA Secretariat agreed in Mogadishu that Somalia would become the 50th state party on depositing its instrument in September 2026](https://au-afcfta.org/2026/08/from-ratification-to-the-first-shipment-the-afcfta-secretary-general-in-mogadishu/). [The agreed sequence runs through the electronic tariff book, preferential tariffs in the customs administration, outstanding EAC commitments and a first shipment](https://au-afcfta.org/2026/08/from-ratification-to-the-first-shipment-the-afcfta-secretary-general-in-mogadishu/). [The continental payment system and the AfCFTA Adjustment Fund were named as the instruments available](https://au-afcfta.org/2026/08/from-ratification-to-the-first-shipment-the-afcfta-secretary-general-in-mogadishu/).
 
 [In July 2026 the EAC Monetary Affairs Committee held the single-currency target at 2031](https://www.eac.int/documents?controller=download&task=download.file&file=84a90aa8-df68-461c-9541-d0e124507d2f&name=29th%20EAC%20MAC%20Communique.pdf.pdf). [It recorded that no partner state had met all four primary convergence criteria](https://www.eac.int/documents?controller=download&task=download.file&file=84a90aa8-df68-461c-9541-d0e124507d2f&name=29th%20EAC%20MAC%20Communique.pdf.pdf). [Somalia belongs to COMESA, CEN-SAD and IGAD](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf). [It scored 38.5 out of 100 on regional integration in 2023, 35th of 54, up 7.6 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf).
+
+[On 23 November 2026 the EU signed a EUR 20 million, four-year programme with Ethiopia, Djibouti and Somalia on digital trade and transport systems, implemented by TradeMark Africa](https://trademarkafrica.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/).
 
 [In September 2025 Puntland and Jubbaland declined to implement the federal national ID](https://www.hiiraan.com/news4/2025/Sept/202985/hassan_sheikh_says_10_million_somali_passports_issued_vows_overhaul_of_id_system.aspx). [Puntland created its own identification authority, accusing Mogadishu of overreach on data control, election influence and regional autonomy](https://www.hiiraan.com/news4/2025/Sept/202985/hassan_sheikh_says_10_million_somali_passports_issued_vows_overhaul_of_id_system.aspx). [A 15-member delegation's ten-day mission to Pakistan on digital identity closed in September 2026 with three working groups and an action matrix](https://somalistream.com/peer-learning-to-collaboration-somalia-pakistan-deepen-partnership-on-digital-infrastructure/). [A delegation studied Tanzania's labour and employment digital systems in August 2026](https://dailynews.co.tz/somalia-eyes-tanzanias-e-governance-model/).
 
