@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-25-mwi-rbm-targets-fraud-high-charges-in-digital-payment-reforms",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "draft",
+   "fact": "The Reserve Bank of Malawi said it is working on regulatory interventions on mobile money fraud, charges and failed transactions, some expected soon, to strengthen consumer protection.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The Reserve Bank of Malawi said it has received several consumer complaints over mobile money transactions, handled through its consumer protection department, after customers first approach their providers.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
