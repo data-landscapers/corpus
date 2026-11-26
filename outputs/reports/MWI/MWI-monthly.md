@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: MWI
-ledger_rows: 37
+ledger_rows: 38
 not_held: 28
-record: cc1c1644bcb2
+record: c0a6a699610f
 ---
 
 # News, Oct – Nov 2026
@@ -409,6 +409,28 @@ The bureau of COMESA's central bank governors met in Lilongwe on 11 November 202
 **[Airtel Money Upgrades Mobile Money Platform in Malawi and Tanzania](https://techafricanews.com/2026/11/20/airtel-money-upgrades-mobile-money-platform-malawi-tanzania/)** — Tech Africa News, 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
 Airtel Money moved its Malawi and Tanzania mobile-money platforms onto Comviva's mobiquity Pay, according to a company release reported on 20 November 2026. The upgrade includes a rebuilt USSD menu. The release says the platform can support digital lending, insurance and government disbursements.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central bank measures on digital payment fraud and charges</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government tells mobile money firms: fix fees, networks and trust | Nyasa Times](https://www.nyasatimes.com/government-tells-mobile-money-firms-fix-fees-networks-and-trust/)** — Nyasa Times, 25 November 2026
+
+Malawi's Principal Secretary for E-Government, Prosper Mopiwa, spoke at a payments conference in Lilongwe on 25 November 2026. He said people rely on cash because digital services fail them. He asked providers to cut fees, improve reliability and reach rural areas. Airtel Money said it runs an AI-based spam alert service.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RBM targets fraud, high charges in digital payment reforms](https://malawiguardian.com/rbm-targets-fraud-high-charges-in-digital-payment-reforms/)** — The Malawi Guardian, 25 November 2026
+
+The Reserve Bank of Malawi said on 25 November 2026 that rules on fraud, mobile money charges and failed transactions are in preparation. Some are due soon, it told a payments conference in Lilongwe. Airtel Money described a fraud task force it runs with the central bank and the regulator MACRA.
 
 </div>
 
