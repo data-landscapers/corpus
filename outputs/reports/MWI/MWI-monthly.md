@@ -3,9 +3,9 @@ title: Malawi — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: MWI
-ledger_rows: 38
+ledger_rows: 39
 not_held: 28
-record: c0a6a699610f
+record: e5b5189cc148
 ---
 
 # News, Oct – Nov 2026
@@ -267,6 +267,20 @@ SES and the ITU's Partner2Connect coalition plan to connect 30 rural schools in 
 **[Le satellite pour ouvrir l'accès aux ressources numériques dans 30 écoles africaines](https://www.wearetech.africa/fr/fils/actualites/tech/le-satellite-pour-ouvrir-lacces-aux-ressources-numeriques-dans-30-ecoles-africaines)** — wearetech.africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
 
 SES, the satellite operator, plans to connect 30 schools in Malawi, Burundi, Zambia and Zimbabwe by the end of 2026, under the ITU's Partner2Connect coalition. The project is to reach 20,000 to 30,000 pupils and teachers. In Malawi, 214 of 7,117 primary schools had an internet connection in the 2023/24 school statistics.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Additional mobile operator licensing round</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Malawi Considers New Mobile Network Operator to Boost Competition](https://techafricanews.com/2026/11/26/malawi-considers-new-mobile-network-operator-to-boost-competition/)** — Tech Africa News, 26 November 2026
+
+Malawi's ICT minister, Shadric Namalomba, said the government is exploring the entry of a new mobile network operator to increase competition. The regulator MACRA and the Malawi University of Business and Applied Sciences have researched market competitiveness. MACRA plans an investor workshop in early 2027 on spectrum management, national roaming and infrastructure sharing.
 
 </div>
 
