@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-24-uga-interswitch-and-pesapal-expand-payment-interoperability-and-verve-card",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Interswitch Switching Network",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "card and bank switch",
+   "owner": "Interswitch",
+   "tiers": ""
+  }
+ ],
+ "note": "Card switching between banks and a merchant acquirer; no mobile money or wallet interoperability stated."
+}

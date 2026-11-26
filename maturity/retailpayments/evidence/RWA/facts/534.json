@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-25-lbr-africanenda-ceo-hails-liberias-digital-payment-progress",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "AfricaNenda's October 2026 dashboard, cited by its CEO, records Rwanda person-to-person payment transactions rising from about 20.3 million to 134.1 million across reporting periods of differing length.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Rwanda national instant payment infrastructure",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rwanda national instant payment infrastructure",
+   "country_label": "Rwanda",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
