@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: TZA
-ledger_rows: 64
+ledger_rows: 65
 not_held: 4
-record: 52615daa261e
+record: 5dcfaabf5b10
 ---
 
 # News, Oct – Nov 2026
@@ -868,6 +868,8 @@ Tanzania's Fair Competition Commission is running user acceptance testing of FCC
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
 <a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#rural-digital-data-capture">Rural digital data capture</a>
 </nav>
 
 ### Digitalisation of sub-national government
@@ -881,6 +883,22 @@ Tanzania's Fair Competition Commission is running user acceptance testing of FCC
 **[Tanzania moves to e-Delivery System to ensure its development projects meet Vision 2050 goals - Daily News](https://dailynews.co.tz/tanzania-moves-to-e-delivery-system-to-ensure-its-development-projects-meet-vision-2050-goals/)** — Daily News (Tanzania), 27 October 2026
 
 Tanzania's Deputy Minister for Planning and Investment told Parliament about the e-Delivery System. About 940 public servants have been trained on it. Every ongoing development project must be registered in it. Its dashboards are to let Parliament and the public track projects against Vision 2050 targets.
+
+</div>
+
+</div>
+
+### Rural digital data capture
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Universal service fund and agricultural research institute connectivity memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Five-year deal to bring digital technology closer to farmers](https://www.thecitizen.co.tz/tanzania/news/national/five-year-deal-to-bring-digital-technology-closer-to-farmers-5683386)** — The Citizen, 25 November 2026
+
+Tanzania's Universal Communications Service Access Fund and the Tanzania Agricultural Research Institute signed a five-year memorandum of understanding on 24 November 2026. It covers connectivity and digital tools for the institute's 21 research centres and 25 sub-centres. The stated aim is for research findings and crop-disease warnings to reach rural farmers faster.
 
 </div>
 
