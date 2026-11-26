@@ -1,11 +1,11 @@
 ---
 title: Niger — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: NER
-ledger_rows: 14
+ledger_rows: 15
 not_held: 1
-record: 8d497c53a856
+record: cfab545910f5
 ---
 
 # News, Oct – Nov 2026
@@ -43,6 +43,20 @@ record: 8d497c53a856
 **[Lancement de l'atelier sur le commerce électronique](https://www.commerce-industrie.gouv.ne/?p=3463)** — Ministère du Commerce et de l'Industrie (Niger), 27 October 2026
 
 Niger's Ministry of Commerce and Industry opened a three-day pre-validation workshop on 26 October 2026. The workshop concerns its national e-commerce strategy. The strategy aims to use digital means to support financial and social inclusion. It also aims to make Niger a major West African e-commerce actor by 2035.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital transformation, AI and data sovereignty programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transformation numérique, IA et souveraineté des données](https://www.f2in.ne/opportunites/transformation-numerique-ia-souverainete-donnees/)** — F2IN (Gouvernement du Niger, MCNTI), 24 November 2026
+
+FCFA 16.896bn (c. USD 28m, 48 months) for AI governance, 20+ e-services, sovereign cloud; UNDP as integrator.
 
 </div>
 
