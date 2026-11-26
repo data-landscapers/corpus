@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-sen-senegal-global-hub",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "UNESCO's readiness profile says Senegal does not yet have a legal or regulatory framework specific to AI.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "AI legal framework",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

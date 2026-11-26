@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-28-zaf-ai-regulation-south-africa-where-the-law-stands-in-2026",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Zaiq states that POPIA section 71 is in force and bars decisions with legal or substantial effect based solely on automated processing that profiles a person, which it says touches AI credit scoring, CV screening and fraud systems.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "POPIA section 71",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
