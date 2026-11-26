@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: XAF
-ledger_rows: 113
+ledger_rows: 114
 not_held: 3
-record: bada17a55ddc
+record: 611fda23c1c9
 ---
 
 # News, Oct – Nov 2026
@@ -632,7 +632,7 @@ African public agencies are starting to buy locally built AI tools for welfare, 
 
 <div class="bulletin-item" markdown="1">
 
-**[Unblocking Domestic Resource Mobilization through AI Tools: Introducing the Optimizing African Revenue Authorities for Responsible AI Adoption Project](https://developmentgateway.org/blog/unblocking-domestic-resource-mobilization-through-ai-tools-introducing-the-optimizing-african-revenue-authorities-for-responsible-ai-adoption-project/)** — Development Gateway, 28 October 2026
+**[Unblocking Domestic Resource Mobilization through AI Tools: Introducing the Optimizing African Revenue Authorities for Responsible AI Adoption Project](https://web.archive.org/web/20261028171717/https://developmentgateway.org/blog/unblocking-domestic-resource-mobilization-through-ai-tools-introducing-the-optimizing-african-revenue-authorities-for-responsible-ai-adoption-project/)** — Development Gateway, 28 October 2026
 
 The African Tax Administration Forum and Development Gateway launched a 12-month project, backed by the Hewlett Foundation, on responsible use of AI by African revenue authorities. It will survey AI readiness across ATAF's 45 member states to set a continental benchmark. Three selected authorities will get help to draft AI strategies and roadmaps.
 
@@ -727,6 +727,20 @@ Somalia, Uganda and Sierra Leone endorsed the COP31 presidency's voluntary pledg
 **[Africa wants AI. Can its startups afford to build it?](https://techcabal.com/2026/11/23/high-cost-building-ai-africa/)** — TechCabal, 23 November 2026
 
 TechCabal reported on a study by GIZ and Briter Bridges that mapped 311 AI businesses in Africa and surveyed 85 of them. Of those surveyed, 65% named cloud computing, GPUs and AI infrastructure as their largest research and development cost. African AI businesses raised $1.3 billion between 2016 and 2025, with a median funding ticket of $225,000.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Amini Soma-1X Lite document model</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Amini wants to turn Africa’s paper archives into data for AI ](https://techcabal.com/2026/11/25/amini-africa-paper-archives-data-ai/)** — TechCabal, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a>
+
+Amini released Soma-1X Lite, an open-weight model with two billion parameters that converts scanned paper records into machine-readable data, as reported on 25 November 2026. The company is digitising Botswana's geological archives with the Ministry of Minerals and Energy. The Central African Republic is to follow.
 
 </div>
 
