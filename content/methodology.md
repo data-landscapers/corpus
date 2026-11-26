@@ -52,6 +52,15 @@ The data collection machine runs a nightly sweep cycle which consists of a stand
 		- Data exchange (content, not transport)
 		- Demand and political economy
 
+## The bulletin
+<!-- Draft for Bill to edit (R170, 2026-11-26). -->
+
+The [Bulletin](../bulletin/) lists what the archive admitted in the past two days, filterable by country and topic.
+
+- **Each item is summarised once.** A summary is written when an item first enters the window, stored, and reused; it is never rewritten.
+- **The window is yesterday and today.** The nightly sweep supplies yesterday. Some mornings a second, today-only sweep adds what has appeared since; a morning without one publishes nothing false.
+- **An empty window says so.** A day with nothing admitted still publishes a bulletin stating that.
+
 ## What qualifies as a source
 
 Corpus admits only primary or first-hand evidence: official announcements, laws and regulations, filings, court records, company statements, datasets, on-the-record reporting, primary documents, and published academic work. A source need not break news — a dated explainer or methodology note qualifies — but it must be somebody's own account, not a retelling.
@@ -91,6 +100,25 @@ Every finance row, budget line or non-state commitment, carries a *sector*: the 
 - **Unattributed is a sector.** It holds rows whose spending body names no field, such as special accounts and cross-government votes.
 - **Sector is not sub-topic.** The sub-topic says what the money buys and the sector what it serves: a tax authority's IT unit is sub-topic IT and sector finance.
 - **The sector is our assessment, and still changing.** It is applied by rules on each row's own words. Where the rules misread a row, a correction is recorded for that row.
+
+## Budget documents
+<!-- Draft for Bill to edit (R170, 2026-11-26). -->
+
+National budget figures come from the state's own documents: estimates, appropriation acts, budget statements and outturn reports.
+
+- **Each country's budget library is polled every day.** The pages where a ministry of finance or parliament publishes its budget documents are listed, and each is checked daily for a new document. A new one is collected, then read.
+- **A document is read line by line.** Every digital-transformation line is recorded with its citation and its stage: proposed, appropriated, revised, actual or audited. A year read this way replaces whatever news reports said about it.
+- **Drafts are published as they are tabled.** A budget before parliament is shown at the proposed stage and updated when it is passed.
+
+## The maturity assessment
+<!-- Draft for Bill to edit (R170, 2026-11-26). -->
+
+The [Maturity assessment](../maturity/) places each country on five stages for each of {indicators} indicators.
+
+- **One indicator, 54 countries, one ladder.** Each indicator is studied across all 54 countries at once against five stages whose criteria come from a norm in an African Union instrument, so a stage means the same thing in every country.
+- **Every night's arrivals are read for it.** A new document stating a dated fact that could move a country's stage has the stage reassessed.
+- **Two indicators are rebuilt whole each night.** All 54 countries are reassessed and searched for what the study does not yet hold, so each indicator is rebuilt about every two months.
+- **Each stage is explained in one paragraph**: what exists, dated and linked; what changed in the past twelve months; what the next stage would need. The evidence behind it sits below.
 
 ## Who's Who
 

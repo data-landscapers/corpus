@@ -1,5 +1,6 @@
 ## 26 November 2026
 
+- Methodology has three new sections, on the bulletin, budget documents and the maturity assessment, and the process inventory lists Who's Who, the claim audit, the link check, the prose check, site statistics and the finance deck. Indicator counts on these pages are now drawn from the indicator list, so they agree everywhere.
 - Each indicator in a country's maturity report now opens on one paragraph: what exists, what changed in the last twelve months, and what the next stage would need. The labelled evidence behind it is under *Show the evidence*, and the map's country panel shows the same paragraph.
 - A first audit read 500 published claims against the sources they cite and corrected 22 sentences in Status reports, maturity paragraphs and the bulletin, and six Who's Who rows. The audit now runs nightly, and its error rate by document type will go on the Statistics page after thirty nights.
 - A country's maturity report has a Stage changes button where its stages have moved. It opens the Movement table filtered to that country, and the table's address can now carry any filter, such as ?Country=Kenya.

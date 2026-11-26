@@ -83,7 +83,9 @@ The methodology section explains the architecture and processes involved in main
 
 **Maturity assessment** - the criteria used to 'score' each indicator in the maturity assessment.
 
-**Table metadata** - column definitions for downloadable datasets. 
+**Table metadata** - column definitions for downloadable datasets.
+
+**Statistics** - what the archive holds and how the site is used, month by month. 
 
 
 ## Progress
