@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-25-sen-budget-2027-du-numerique-la-pleniere-de-vendredi-est-bloquee-et-65-mil",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "NovoTech, citing the digital minister's report, says more than 400 start-ups had registered on the Startup Act platform by 30 June 2026 but none was yet labelled, as no steering committee is installed; over 120 files are ready.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "Startup Act",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

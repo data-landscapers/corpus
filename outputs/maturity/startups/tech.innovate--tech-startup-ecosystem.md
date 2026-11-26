@@ -141,10 +141,11 @@ Cabinet approved a start-ups policy in 2024 and ordered a startup act finalised;
 
 ### Senegal: 3 Established
 
-A startup law or strategy was adopted by 2025; startups labelled under it are not on record.
+A startup law took effect with its decree in 2025; over 400 startups had registered on its platform by June 2026, but none was labelled.
 
 - Prime Minister Ousmane Sonko highlighted the implementation of the Startup Act and support measures for tech entrepreneurs ([source, 2026-03-24](https://aps.sn/ousmane-sonko-prone-une-coordination-renforcee-pour-reussir-la-transformation-digitale-de-letat/)).
 - President Faye's speech commits to updating and operationalising Senegal's existing Startup Act, including labelling and an incentive framework ([source, 2025-02-24](https://www.presidence.sn/en/actualites/new-deal-technologique-a-national-ambition-to-make-senegal-a-leader-in-the-digital-economy-in-africa-1/)).
+- NovoTech, citing the digital minister's report, says more than 400 start-ups had registered on the Startup Act platform by 30 June 2026 but none was yet labelled, as no steering committee is installed; over 120 files are ready ([source, 2026-06-30](https://novotech.blog/article/budget-2027-du-numerique-la-pleniere-de-vendredi-est-bloquee-et-65-milliards-de)).
 
 ### Burkina Faso: 2 Nascent
 

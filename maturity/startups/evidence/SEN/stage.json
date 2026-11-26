@@ -9,10 +9,10 @@
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-004;SEN-003",
-      "gaps": "No source found since October 2023 says startups are labelled or registered under a startup law or strategy.",
-      "note": "Rebuild 2026-11-13: Law 2020-01 has had its implementing decree since January 2025 and its labelling platform since November 2025 (SEN-002); no startup is shown labelled, so 3 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "SEN-004;SEN-003;SEN-007",
+      "gaps": "No startup is shown labelled under the law: more than 400 had registered on its platform by 30 June 2026 but none was labelled, as no steering committee had been installed (SEN-007).",
+      "note": "Law 2020-01 has had its implementing decree since January 2025 and its platform since November 2025. Registration on the platform is read as an application for the label, which no startup had received by June 2026, so 3 holds.",
+      "as_at": "2026-11-26"
     }
   ]
 }
