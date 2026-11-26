@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-26 01:27 · **BUILD** · 1h28m · polled cycle; catalogue 46,700; 52 units, 204 sources: 33 moved, 66 minted, 12 status; DC 5 rows; budget 0 waiting; 4c 1,263 readings, 6 moved; Who's Who 176; bulletin 50; 110 dead links - ok
 2026-11-26 00:37 · **BUDGET-EXTRACT** · 2m · SLE FY2027: nil from the Fiscal Strategy Statement 2027-2029; ceilings by pillar and cluster only, no vote or programme figure; followups line struck
 2026-11-25 23:57 · **NOTES** · 12m · 89 and 90 closed: Who's Who keeps afcfta over afcfta-secretariat in organisations, org-places and org-abbreviations; OSINT's 42-tag fold entry added to the change log under 25 November; spent ailaw and aisectoral handovers pruned from prepared/ - ok
 2026-11-25 19:33 · **RENDER** · 8m · Who's Who launch: nav re-baked, 355 reports repaged, home/countries/catalogue/finance/datasets/maturity/methodology rebuilt; deployed 561325f - ok
