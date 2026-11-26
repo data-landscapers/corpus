@@ -3,9 +3,9 @@ title: Zimbabwe — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: ZWE
-ledger_rows: 49
+ledger_rows: 51
 not_held: 5
-record: 8f97096dca5a
+record: 3c5364c34173
 ---
 
 # News, Oct – Nov 2026
@@ -666,6 +666,20 @@ Zimbabwe's police said logistics for an Electronic Traffic Management System wer
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Zimpost unified digital services platform and app</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zimbabwe sets digital transformation targets for Zimpost, including AI-powered route optimisation](https://techreviewafrica.com/news/8532/zimbabwe-sets-digital-transformation-targets-for-zimpost-including-ai-powered-route-optimisation)** — Tech Review Africa, 26 November 2026
+
+ICT minister Tatenda Mavetera set targets for Zimbabwe's postal operator at its 2027 strategy workshop. Salary arrears are to be cleared by 31 December 2026. A digital services platform, a mobile app, drone deliveries and AI route planning are due by 30 June 2027. She cited a 16% fall in letter volumes.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -711,6 +725,20 @@ ITU's Bureau for Telecommunication Development director Cosmas Zavazava said ten
 </nav>
 
 ### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Operator indigenous-language customer chatbots</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Yamurai Learns To Speak Like Us - Econet Ai Launches Shona 2.0, Claims 80% Comprehension And A First For Africa](https://technomag.co.zw/yamurai-learns-to-speak-like-us-econet-ai-launches-shona-2-0-claims-80-comprehension-and-a-first-for-africa/)** — TechnoMag, 10 October 2026
+
+Econet claims 80% of queries handled in Shona, up from 70%+; six-dialect training under way, Ndebele 2.0 next.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -892,7 +920,7 @@ The Zimbabwe National Statistics Agency launched a chatbot, a WhatsApp line and 
 
 **[Government launches system to improve labour market planning](https://www.heraldonline.co.zw/government-launches-system-to-improve-labour-market-planning/)** — The Herald, 25 November 2026
 
-Zimbabwe launched the Zimbabwe Labour Market Information System, a portal combining ZIMSTAT, NSSA and other agencies' data on jobs, wages, productivity, social security and skills, The Herald reported on 25 November 2026. The ICT ministry hosts it at the National Data Centre. The system feeds the SADC Labour Market Observatory.
+Zimbabwe launched the Zimbabwe Labour Market Information System, a portal combining ZIMSTAT, NSSA and other agencies' data on jobs, wages, productivity, social security and skills, The Herald reported on 25 November 2026. The ICT ministry hosts it at the National Data Centre. The system is meant to strengthen Zimbabwe's part in the SADC Labour Market Observatory.
 
 </div>
 
