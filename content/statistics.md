@@ -36,7 +36,7 @@ Top 15 countries by views of their pages, from October 2026.
 
 ## Where readers come from
 
-Page loads by the site that sent the reader, from October 2026. Moves within our own sites are left out. Counts are Cloudflare's estimates from a sample.
+Where readers came from, as a share of each month's page loads, from October 2026. Moves within our own sites are left out. The shares come from a Cloudflare sample that also counts some automated visits, so they show the mix, not the numbers above.
 
 <!-- stat: referrers -->
 

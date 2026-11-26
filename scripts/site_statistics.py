@@ -246,15 +246,32 @@ def referrer_label(host: str) -> str:
     return h.removeprefix("www.")
 
 
+def pct(n: int, total: int) -> str:
+    share = n / total * 100
+    return "<1%" if share < 0.5 else f"{share:.0f}%"
+
+
 def referrer_sources(data: Data) -> str:
-    """R194: page loads by where the reader came from, a column a month, from October 2026."""
+    """R194: each source's share of a month's page loads, from October 2026.
+
+    **Shares, never counts** (Bill, 2026-11-26: "how can page loads be bigger than page views?").
+    The referrer comes from Cloudflare's Web Analytics, a scaled-up sample that cannot remove the
+    crawler, agents or Bill's own visits, so its totals run two to three times the people-only
+    page views above. Its mix of sources is what it is good for."""
     c = collections.defaultdict(collections.Counter)
     for r in rows_of(REFERRERS):
         if r["Date"] >= SITE_START.isoformat():
             c[referrer_label(r["Referrer"])][r["Date"][:7]] += int(r["Pageloads"])
     months = sorted({m for n in c.values() for m in n})[-6:]
+    total = {m: sum(n[m] for n in c.values()) or 1 for m in months}
+    ranked = sorted(c.items(), key=lambda kv: (-sum(kv[1][m] for m in months), kv[0]))[:TOP]
+    head = "".join(f'<th class="num">{month_label(m)}</th>' for m in months)
+    body = "".join(f"<tr><td>{escape(name)}</td>" + "".join(
+        f'<td class="num">{pct(n[m], total[m])}</td>' if n[m] else '<td class="num">–</td>'
+        for m in months) + "</tr>" for name, n in ranked)
     last = max(r["Date"] for r in rows_of(REFERRERS))
-    return month_table("Source", list(c.items()), months) + to_date(last)
+    return (f'<div class="stat-table"><table><thead><tr><th>Source</th>{head}</tr></thead>'
+            f"<tbody>{body}</tbody></table></div>" + to_date(last))
 
 
 def subscribers(data: Data) -> str:

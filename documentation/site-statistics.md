@@ -39,7 +39,7 @@ Rows = countries. Columns = months
 
 ## Where readers come from (logs\site-analytics-referrers.csv)
 
-A table of page loads by referring source, months as columns, from Oct 2026 (R194). LinkedIn, search engines, AI assistants, other social media and mail apps are each one row; other hosts stand alone.
+A table of each referring source's share of a month's page loads, months as columns, from Oct 2026 (R194). Shares, not counts: the source is a Cloudflare sample that keeps some automated visits, so its totals run above the page views. LinkedIn, search engines, AI assistants, other social media and mail apps are each one row; other hosts stand alone.
 
 ## Alert subscribers (logs\site-analytics-subscribers.csv)
 
