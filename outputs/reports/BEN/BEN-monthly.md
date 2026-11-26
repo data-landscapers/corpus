@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: BEN
-ledger_rows: 49
+ledger_rows: 50
 not_held: 4
-record: e2a26dd54e45
+record: 3c63083dc91b
 ---
 
 # News, Oct – Nov 2026
@@ -498,6 +498,20 @@ MTN Mobile Money Bénin said its interoperable e-money transactions run through 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Financial Inclusion Platform (PNIF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : la PNIF propose des crédits de 50 000 à 50 millions de FCFA en ligne](https://beninwebtv.bj/cest-possible-en-48h-lancement-officiel-de-la-pnif-permettant-dobtenir-un-microcredit-en-ligne/)** — Bénin Web TV, 24 November 2026
+
+Live 24 Nov 2026; 14 microfinance institutions; NPI login; 3-36 month terms; payout within 48 hours.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -663,6 +677,14 @@ Benin's Republican Police moved loss certificates fully online from 1 October 20
 **[Communiqué officiel | Prix national de la simplification administrative](https://prix-simplification.gouv.bj/communique)** — Gouvernement du Bénin, 12 October 2026
 
 Benin's government launched a presidential National Administrative Simplification Prize on 12 October 2026, inviting public servants, citizens and businesses to propose simpler procedures, including digitisation and data sharing between administrations. Submissions are open from 29 October to 12 November 2026. The prize supports Benin's target of having all procedures online by 2030.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Prix national de la simplification administrative : Les travaux d’évaluation des propositions lancés | Gouvernement de la République du Bénin](https://www.gouv.bj/article/3753/)** — Gouvernement de la République du Bénin, 24 November 2026
+
+5,000+ proposals from 14 sectors; commissions sit 23 Nov-4 Dec 2026; all procedures online by 2030.
 
 </div>
 
