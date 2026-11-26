@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: XWA
-ledger_rows: 41
+ledger_rows: 42
 not_held: 1
-record: 90d3112187c3
+record: 38973050a650
 ---
 
 # News, Oct – Nov 2026
@@ -605,6 +605,20 @@ The Pan-African Payment and Settlement System and the West African Monetary Inst
 **[Nigeria, Ghana proposed as hosts for ECOWAS regional payment system](https://nairametrics.com/2026/11/18/nigeria-ghana-proposed-as-hosts-for-ecowas-regional-payment-system/)** — Nairametrics, 18 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
 
 A consultant to the ECOWAS regional payment initiative has proposed that Nigeria host instant payments, the BCEAO real-time gross settlement and Ghana the backup. Central Bank of Liberia Governor Henry Saamoi described the proposal in Balaclava, Mauritius, on 18 November 2026 and backed it. The settlement currency and operating details have not been decided.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Wave active mobile money accounts</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Wave’s 25 million-user blueprint: How low fees disrupted Francophone West Africa’s mobile money ‘cartels’](https://techcabal.com/2026/11/25/wave-in-waemu-region/)** — TechCabal, 25 November 2026
+
+Wave had 25 million active accounts as at November 2026, its regional public policy lead, Awa Gueye, told TechCabal. She said its low flat fees pushed rival WAEMU operators to cut charges. She called for tiered, risk-based KYC. National rules on tax, telecoms and data protection still differ across WAEMU states, she said.
 
 </div>
 
