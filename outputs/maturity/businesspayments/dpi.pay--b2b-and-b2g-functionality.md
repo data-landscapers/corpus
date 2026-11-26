@@ -328,9 +328,9 @@ Not established: Nothing found since October 2023 says whether government e-proc
 
 ### Seychelles: Unplaced
 
-A 2026 loan funds e-procurement reform, but no system is known to be built or in service, so no stage is set.
+A 2026 loan funds e-procurement reform and an adviser was sought in November 2026; no system has been found built, so no stage is set.
 
-Not established: Nothing found since October 2023 says a Seychelles e-procurement system is procured, being built, piloted or in service.
+Not established: Nothing found since October 2023 says a Seychelles e-procurement system is procured, being built, piloted or in service; the vendor's requirements were still to be drafted in November 2026.
 
 ### Somalia: Unplaced
 

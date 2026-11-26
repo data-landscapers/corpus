@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says a Seychelles e-procurement system is procured, being built, piloted or in service.",
-      "note": "Rebuild, lowered from 2: the only row (SYC-001) is an AfDB loan whose reforms include a national e-procurement system; it names no system procured, built or piloted, so it sets no rung.",
-      "as_at": "2026-10-23"
+      "gaps": "Nothing found since October 2023 says a Seychelles e-procurement system is procured, being built, piloted or in service; the vendor's requirements were still to be drafted in November 2026.",
+      "note": "SYC-001 is an AfDB loan whose reforms include e-procurement, and SYC-002 (November 2026) seeks an adviser to help draft the requirements for the e-GP vendor. Neither shows a system procured, built or piloted, so no rung is set.",
+      "as_at": "2026-11-26"
     }
   ]
 }
