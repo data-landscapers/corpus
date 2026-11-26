@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-11-20
+compiled: 2026-11-26
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 265
+sources_cited: 266
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -311,7 +311,7 @@ In July 2026 [the Malawi University of Science and Technology commissioned an AI
 
 In February 2026 the research and education network [launched a national federated repository with digital object identifier support](https://maren.ac.mw/maren-launches-national-repository-to-elevate-malawian-research-to-global-platforms/). In April 2026 [a university began a twelve-month project evaluating large language models for primary-healthcare settings with the health ministry and the medical council](https://www.mubas.ac.mw/news/mubas-launches-moove-project-to-evaluate-ai-in-healthcare). The country's one dedicated digital-policy think tank is [a not-for-profit company whose stated mission is independent advocacy, consultancy and research](https://www.cprds.mw/). None of the three publishes a spend, a headcount or an output count.
 
-[A Malawi Low Resource Language Data Trust launched in June 2026 to gather licensed local-language content as training data for Chichewa AI models](https://techafricanews.com/2026/06/24/malawi-launches-chichewa-ai-initiative-to-drive-digital-inclusion-and-innovation/). [The World Bank and the Gates Foundation support it, and digital assistants, translation and education are the named applications](https://techafricanews.com/2026/06/24/malawi-launches-chichewa-ai-initiative-to-drive-digital-inclusion-and-innovation/).
+[A Malawi Low Resource Language Data Trust launched in June 2026 to gather licensed local-language content as training data for Chichewa AI models](https://techafricanews.com/2026/06/24/malawi-launches-chichewa-ai-initiative-to-drive-digital-inclusion-and-innovation/). [The World Bank and the Gates Foundation support it, and digital assistants, translation and education are the named applications](https://techafricanews.com/2026/06/24/malawi-launches-chichewa-ai-initiative-to-drive-digital-inclusion-and-innovation/). [A World Bank work plan for June 2026 to July 2027 moves the trust's curated Chichewa corpus from World Bank infrastructure to the Malawi Research and Education Network, under an advisory committee with binding authority over licensing](https://datapartnership.org/low-resource-language-library/wb-grant/dt-wp.html).
 
 ## Inclusion
 
