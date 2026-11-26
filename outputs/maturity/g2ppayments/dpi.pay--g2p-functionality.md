@@ -341,10 +341,11 @@ Digital government payments to people were under way in 2025; none in service is
 
 ### South Sudan: 2 Nascent
 
-Digital government payments to people were under way in 2025; none in service is on record.
+A system to pay government beneficiaries into bank accounts launched in November 2026; no salary, transfer or pension paid through it has been found.
 
 - The Ministry of Finance and Planning held a meeting in Juba on implementing a government resolution requiring all civil servant salaries to be paid through individual bank accounts, with senior officials saying the shift is already underway in many institutions but no mandatory date set ([source, 2025-08-02](https://radioyei.org/news/business/banking-and-finance/government-races-to-end-cash-salary-payments/)).
 - The Ministry of Finance and Planning and the Bank of South Sudan issued a circular asking that civil servants' salaries and payments to departmental vote heads be made cashless, and the finance minister said salaries and operating costs of ministries, departments and agencies will be paid through bank accounts ([source, 2024-09-19](https://nation.africa/africa/news/south-sudan-tests-cashless-pay-to-civil-servants-4767684)).
+- The system launched on 24 November 2026 is to pay government beneficiaries, including suppliers, contractors, institutions and individuals, directly into accounts at licensed commercial banks in place of manual cheques, per a joint statement of the Bank of South Sudan and the finance ministry ([source, 2026-11-24](https://eyeradio.org/central-bank-launches-electronic-payment-system-to-replace-manual-cheques/)).
 
 ### Uganda: 2 Nascent
 

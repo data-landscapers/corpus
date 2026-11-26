@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-24-ssd-central-bank-launches-electronic-payment-system-to-replace-manual-cheq",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The system launched on 24 November 2026 is to pay government beneficiaries, including suppliers, contractors, institutions and individuals, directly into accounts at licensed commercial banks in place of manual cheques, per a joint statement of the Bank of South Sudan and the finance ministry.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "SSIPSS",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SSIPSS",
+   "country_label": "South Sudan",
+   "class": "g2p",
+   "platform": "RTGS and ACH",
+   "owner": "Bank of South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

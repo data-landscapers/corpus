@@ -9,10 +9,10 @@
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SSD-001;SSD-002",
+      "stage_sources": "SSD-001;SSD-002;SSD-004",
       "gaps": "No source found since October 2023 says a government transfer, salary or pension is paid digitally in service.",
-      "note": "A 2024 circular and 2025 directives move civil servants' salaries onto bank accounts, so stage 2. Officials say only that the shift is under way, so not stage 3.",
-      "as_at": "2026-11-05"
+      "note": "Salary directives of 2024 and 2025 and the interbank system launched on 24 November 2026 to pay government beneficiaries into bank accounts put payments under way, so stage 2. No source yet shows a transfer, salary or pension paid through it, so not stage 3.",
+      "as_at": "2026-11-26"
     }
   ]
 }
