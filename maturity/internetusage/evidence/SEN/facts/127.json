@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-sen-senegal-global-hub",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:58.1",
+   "fact": "UNESCO's readiness profile says the ITU reported 58.10% of Senegal's population using the internet as of 2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "ITU internet use series",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
