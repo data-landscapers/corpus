@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Oct – Nov 2026
-compiled: 2026-11-15
-period: 2026-10-01 to 2026-11-15
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: SYC
-ledger_rows: 17
+ledger_rows: 18
 not_held: 6
-record: 86a37e52aa36
+record: 2bead5e52a43
 ---
 
 # News, Oct – Nov 2026
@@ -287,6 +287,20 @@ Summarised under [Domestic budget appropriations and expenditure](#domestic-budg
 **[SeyAlert: Seychelles government introduces a new digital emergency alert app](https://www.seychellesnewsagency.com/public/articles/22634/seyalert-seychelles-government-introduces-a-new-digital-emergency-alert-app)** — Seychelles News Agency, 2 November 2026
 
 Seychelles soft-launched the SeyAlert emergency app on 30 October 2026, after weeks of flooding and landslides. It sends warnings by district through the app and SMS. Users can report their location, and a route-alert feature follows them. The government expects full operation within the week.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National electronic government procurement system (e-GP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Republic of Seychelles E-Procurement Expert – Technical Assistance for the Implementation and Institutionalization of the National E-Procurement System](https://www.pou.gov.sc/tenders/consultancies/1875-republic-of-seychelles-e-procurement-expert-technical-assistance-for-the-implementation-and-institutionalization-of-the-national-e-procurement-system)** — Procurement Oversight Unit, Seychelles, 24 November 2026
+
+AfDB MIC TAF-funded 12-month e-GP adviser to POU and DICT; expressions of interest due 7 December 2026.
 
 </div>
 
