@@ -3,9 +3,9 @@ title: Benin — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: BEN
-ledger_rows: 50
+ledger_rows: 52
 not_held: 4
-record: 80b68bff458a
+record: 7c4c59a91f31
 ---
 
 # News, Oct – Nov 2026
@@ -237,6 +237,28 @@ Rwanda, Ghana and Benin completed the first phase of a Smart Africa pilot linkin
 **[Transformation numérique : Le Bénin veut accélérer avec l’IA et miser sur ses propres talents](https://cadreco.media/index.php/numerique/2026/transformation-numerique-le-benin-veut-accelerer-avec-lia-et-miser-sur-ses-propres-talents)** — CADRECO, 9 October 2026
 
 Benin's public-sector digital chiefs met in Cotonou on 8 October 2026 at a conference now covering digital transformation and innovation, where an AI cybersecurity framework with four risk tiers, an AI officer and an ethics committee was presented. Officials cited shortages of staff, equipment, servers and funding in administrations, and the minister stressed developing local solutions and talent.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Guide for information-security officers (Guide du RSSI)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guide du Responsable de la sécurité des systèmes d'information (RSSI) : Gouvernance, responsabilités et pilotage de la cybersécurité dans les organisations](https://www.asin.bj/doc/167/download)** — Agence des Systèmes d'Information et du Numérique (ASIN), Bénin, 1 November 2026
+
+ASIN's 152-page CISO guide: twenty parts on the RSSI's mandate, positioning, risk, reporting and Benin's legal frame.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin’s ASIN launches CISO guide to strengthen cybersecurity governance across Africa](https://techreviewafrica.com/news/8499/benin-s-asin-launches-ciso-guide-to-strengthen-cybersecurity-governance-across-africa)** — Tech Review Africa, 26 November 2026
+
+Benin's digital agency ASIN presented a guide for chief information security officers at its Africa CISO Forum, held alongside Cyber Africa Forum 2026 in Cotonou. The guide gives benchmarks on security governance, risk management and cyber crisis response. CISOs from Benin and other African countries attended. The presentation date is not stated.
 
 </div>
 
@@ -787,6 +809,28 @@ Benin's association of communes, ANCB, counted 35 software applications from 27 
 </nav>
 
 ### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National-language voice data collection</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[J'aime Ma Langue — Bâtir les infrastructures vocales (bilan, novembre 2026)](https://www.jaimemalangue.bj/papers/bilan-jml-2026.pdf)** — ASIN · IIDiA, 1 November 2026
+
+700 h of Fongbe speech, 2,507 contributors; ASR at 13.7% WER vs 50.9%; 19 voice-service prototypes.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin opens up its "J'aime ma langue" AI project, with 1,000 hours of data in Fon, Dendi, Bariba and Yoruba](https://iconiqafrique.com/en/ia/benin-ia-jaime-ma-langue-open-source/)** — ICONIQ Afrique, 20 November 2026
+
+Minister Akplogan at AfriLabs, Cotonou, 18 Nov 2026; Fon, Dendi, Bariba and Yoruba data opened to developers.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
