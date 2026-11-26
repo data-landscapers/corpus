@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-01-ssd-digital-care-companion-who-invests-in-technology-that-connects-the-las",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Care Companion",
+   "country_label": "South Sudan",
+   "class": "other",
+   "platform": "clinical decision support on thin client with Starlink and solar",
+   "owner": "Ministry of Health with WHO",
+   "tiers": ""
+  }
+ ],
+ "note": "This document never describes the Digital Care Companion as AI, so it states no AI use in a sector system."
+}

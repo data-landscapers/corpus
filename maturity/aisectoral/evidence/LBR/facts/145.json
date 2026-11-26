@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-27-lbr-ai-powered-digital-health-education-civic-empowerment-platform-for-lib",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Palava Innovations platform",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "mobile app with offline symptom checker and SMS/USSD triage",
+   "owner": "Palava Innovations, Inc",
+   "tiers": ""
+  }
+ ],
+ "note": "Self-reported, self-funded company platform; no public health system is stated to use it."
+}

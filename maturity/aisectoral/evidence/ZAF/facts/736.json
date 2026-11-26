@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-03-zaf-sars-doubles-down-on-ai-machine-learning-after-revenue-gains",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ITWeb reports that SARS uses data, AI and machine learning algorithms in its compliance programme to counter criminality and non-compliance and to block fraudulent refunds.",
+   "as_of": "2024-04-03",
+   "date_precision": "day",
+   "system": "SARS compliance programme AI and machine learning",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SARS compliance programme AI and machine learning",
+   "country_label": "SARS compliance AI",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "South African Revenue Service",
+   "tiers": ""
+  }
+ ],
+ "note": "The R293.7 billion is the whole compliance programme's result, not measured for the AI system alone, so no results fact."
+}

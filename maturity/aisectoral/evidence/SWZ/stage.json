@@ -6,13 +6,13 @@
       "stage": "3",
       "use": "inservice",
       "sectors": "",
-      "results": "",
+      "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-002",
-      "gaps": "No source found shows AI in service in a second sector's public system, or measured results.",
-      "note": "Fact 2026-10-21: the AI retinopathy screening system operating in six public hospitals and health centres is AI in service in health; the revenue service's fiscalisation system is a tender, so no second sector has been found.",
-      "as_at": "2026-10-21"
+      "stage_sources": "SWZ-002;SWZ-004;SWZ-005",
+      "gaps": "No source found shows AI in service in a second sector's public system.",
+      "note": "Fact 2026-11-26: the health minister's account of AI chest X-ray TB trucks, one screening 229 people and finding eight cases, reports measured results, but AI is held in service in health alone, so the cell stays at the rung below several sectors.",
+      "as_at": "2026-11-26"
     }
   ]
 }

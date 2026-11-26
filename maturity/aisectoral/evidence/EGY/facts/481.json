@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-10-egy-eta-ai-analyses-4-billion-e-documents",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Egyptian Tax Authority head Rasha Abdel Aal said the authority uses AI to analyse its data of about 4 billion e-documents and to sort and analyse taxpayers' proposals on its Al-Mashura platform.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Egyptian Tax Authority AI data and proposal analysis",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Al-Mashura platform",
+   "country_label": "Al-Mashura",
+   "class": "other",
+   "platform": "",
+   "owner": "Egyptian Tax Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

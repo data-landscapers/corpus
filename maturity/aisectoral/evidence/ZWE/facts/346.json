@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-30-zwe-fao-showcases-ai-driven-agriculture-solutions-at-zimbabwe-defence-univ",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "FAO says AI-enabled crop monitoring tools such as EOSTAT are improving the accuracy of crop statistics and yield predictions in Zimbabwe; the operating body is not named.",
+   "as_of": "2026-01-30",
+   "date_precision": "day",
+   "system": "EOSTAT",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EOSTAT",
+   "country_label": "Zimbabwe",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

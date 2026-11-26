@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-29-rwa-press-release-rwanda-biomedical-centre-ai-platform-for-community-healt",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Rwanda Biomedical Centre says it has launched a project, funded by Expertise France, to enhance the community Electronic Medical Record system with AI tools for early detection of health issues and to monitor community health worker performance.",
+   "as_of": "2025-05-29",
+   "date_precision": "day",
+   "system": "community Electronic Medical Record (cEMR)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "community Electronic Medical Record (cEMR)",
+   "country_label": "cEMR",
+   "class": "other",
+   "platform": "",
+   "owner": "Rwanda Biomedical Centre",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

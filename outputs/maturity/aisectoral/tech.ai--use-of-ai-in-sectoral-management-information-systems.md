@@ -148,9 +148,11 @@ The health ministry's AI chest X-ray units were deployed for TB screening in 202
 
 ### Eswatini: 3 Established
 
-Eswatini's public hospitals have screened for diabetic eye disease with AI since 2025; no source found reports AI in other sectors and its results.
+Eswatini's public health services have used AI for eye and TB screening since 2025; no source found reports AI in another sector.
 
 - Swazi24 reports that an AI-powered diabetic retinopathy diagnostic system, from the Taiwan Technical Mission's NCD Project, was launched and is operational at six public hospitals and health centres (Mbabane Government, Piggs Peak, Mankayane, RFM, Dvokolwako, Emkhuzweni), officiated by the Minister of Health ([source, 2025-08-07](https://swazi24.com/20702/news/health/six-hospitals-in-eswatini-roll-out-ai-eye-screening-tech/)).
+- Health Minister Mduduzi Matsebula commissioned four mobile TB trucks, three equipped with chest X-ray and computer-aided detection AI, for the National TB Control Programme's screening, to be deployed to the regions ([source, 2025-09-17](https://swazidailynews.com/3484/future/e21mln-mobile-tb-trucks-12-motorbikes-to-enhance-fight-against-tb/)).
+- The health minister said one of the CAD/AI trucks screened 229 people at the Eswatini International Trade Fair and identified eight cases referred to health facilities ([source, 2025-09](https://swazidailynews.com/3484/future/e21mln-mobile-tb-trucks-12-motorbikes-to-enhance-fight-against-tb/)).
 
 ### Gambia: 3 Established
 
