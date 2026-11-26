@@ -3,9 +3,9 @@ title: Senegal — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: SEN
-ledger_rows: 68
+ledger_rows: 69
 not_held: 2
-record: 6b601ac3a690
+record: 7dd79ad2dc03
 ---
 
 # News, Oct – Nov 2026
@@ -292,7 +292,7 @@ Committees of Senegal's National Assembly declined on 13 November 2026 to approv
 
 **[Budget 2027 du numérique : la plénière de vendredi est bloquée, et 65 milliards de FCFA de projets attendent leur sort](https://novotech.blog/article/budget-2027-du-numerique-la-pleniere-de-vendredi-est-bloquee-et-65-milliards-de)** — NovoTech, 25 November 2026
 
-Senegal's FCFA 64.97 billion 2027 digital ministry budget cannot go to its 27 November plenary, NovoTech reported on 25 November 2026. The National Assembly rejected the first part of the finance bill on 18 November, which bars debate on ministry credits. The minister's report shows the PAENS programme spent under 10% of its 2026 funds. None of over 400 Startup Act registrants had been labelled by 30 June 2026.
+Senegal's FCFA 64.97 billion 2027 digital ministry budget cannot go to its 27 November plenary, NovoTech reported on 25 November 2026. The National Assembly rejected the first part of the finance bill on 18 November, and its president said that bars debate on ministry credits. The minister's report shows the PAENS programme spent under 10% of its 2026 funds. None of over 400 Startup Act registrants had been labelled by 30 June 2026.
 
 </div>
 
@@ -399,6 +399,20 @@ Senegal's state digital company SENUM signed a partnership agreement with Univer
 **[Starlink suspended in Senegal](https://thepoint.gm/africa/gambia/headlines/starlink-suspended-in-senegal)** — The Point, 11 November 2026
 
 Senegal's Supreme Court rejected the State's appeal on 3 November 2026. The suspension of Starlink's licence stays in place. It is the State's second loss in the case in two months. A final ruling is still to come (The Point, 11 November 2026).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Active mobile and internet lines</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senegal’s ARTP pushes integration of geospatial and mobile data](https://techreviewafrica.com/news/8504/senegal-s-artp-pushes-integration-of-geospatial-and-mobile-data)** — Tech Review Africa, 26 November 2026
+
+Senegal's telecoms regulator ARTP called for geospatial and mobile data to feed national statistics. It spoke at the International Data Forum run by the statistics agency ANSD. Director General Cheikh Tidiane Sarr cited 23.9 million active mobile lines at the end of December 2025. ARTP said use of the data depends on its reliability and on personal data protection.
 
 </div>
 
