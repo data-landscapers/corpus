@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; CMR; CPV; CAF; TCD; COM; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a844cf033884
+record: e883fa8d2fe8
 ---
 
 # News, Oct – Nov 2026
@@ -225,6 +225,28 @@ Burkina Faso's business registration centre CEFORE runs an online guide to start
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil-registration platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Modernisation de l’état civil : À Koudougou, l’ALP au cœur des réalités administratives, judiciaires et sanitaires](https://www.assembleenationale.bf/996)** — Assemblée législative du peuple, 24 November 2026
+
+A Burkina Faso parliamentary mission on civil registration was shown the VENEEM platform in Koudougou in November 2026. The platform holds digitised acts from 1959 to 2023. Koudougou's high court receives about 2,000 late-registration requests a year and issued 1,476 rulings in January-October 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Modernisation de l’état civil : À Réo, Ténado et Poa, la digitalisation face aux défis de sa mise en œuvre](https://www.assembleenationale.bf/997)** — Assemblée législative du peuple, 24 November 2026
+
+Burkina Faso's parliament reported on 24 November 2026 that the VENEEM civil-registration platform sits idle in Réo. The commune lacks reliable internet, and staff in secondary centres still work on paper. Ténado's civil-status office has three staff, and Poa's digitised registers are not yet used on any platform.
+
+</div>
+
+</div>
+
 ## Cameroon
 
 <div class="monthly-story" markdown="1">
@@ -326,6 +348,14 @@ The European MODERO project, run by CIVIPOL, trained 28 officers in Bangui from 
 **[Modernisation de l’état civil en RCA : des avancées significatives malgré des défis persistants - Oubangui Médias](https://oubanguimedias.com/2026/11/19/modernisation-de-letat-civil-en-rca-des-avancees-significatives-malgre-des-defis-persistants/)** — Oubangui Médias, 19 November 2026
 
 The steering committee of the EU-funded MODERO civil-registration project in the Central African Republic met in Bangui on 17 November 2026. The project reported 184,563 births registered and 130,000 acts digitised between January and September 2026. The committee adopted a new roadmap and named the civil-status software MbetiNet.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Modernisation de l’état civil : MbetiNet expérimenté en phase pilote dans la commune de Bimbo - LES AUTRES NOUVELLES DE CENTRAFRIQUE](https://journallanoca.com/modernisation-de-letat-civil-mbetinet-experimente-en-phase-pilote-dans-la-commune-de-bimbo/)** — Les Autres Nouvelles de Centrafrique, 23 November 2026
+
+The Central African Republic began piloting MbetiNet, its new civil-registration software, in Bimbo commune from 16 November 2026. Teams are sorting and digitising more than 2,500 registers before any national extension. The EU-funded MODERO project, run by CIVIPOL, supports the work.
 
 </div>
 
@@ -1741,6 +1771,20 @@ Zambian Business Times reported on 26 October 2026 that 982 property records in 
 **[Gvt Moves to Create National Database for Small Businesses](https://www.263chat.com/gvt-moves-to-create-national-database-for-small-businesses/)** — 263Chat, 13 October 2026
 
 Zimbabwe's small-enterprise development corporation said a national database of micro, small and medium enterprises has reached minimum-viable-product stage, with an online registration portal in development. Talks are under way to link it to the revenue authority and the procurement regulator.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic cadastre portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[New digital land registry captures 1m properties, nears launch](https://www.heraldonline.co.zw/new-digital-land-registry-captures-1m-properties-nears-launch/)** — The Herald, 24 November 2026
+
+By 23 November 2026, Zimbabwe's e-Cadastre held over one million of an estimated 1.3-1.4 million property records. Spatial digitisation covers about 60% of the country, and over 100,000 survey diagrams are online. Lands minister Vangelis Haritatos targets an official launch in the first quarter of 2027.
 
 </div>
 

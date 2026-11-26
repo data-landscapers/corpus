@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2b780675c414
+record: 02bdba291408
 ---
 
 # News, Oct – Nov 2026
@@ -708,6 +708,20 @@ The Ghana Revenue Authority will start collecting VAT on foreign digital service
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Ghana Integrated Financial Management Information System (GIFMIS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government to relaunch GIFMIS | Ghana News Agency](https://gna.org.gh/2026/11/government-to-relaunch-gifmis/)** — Ghana News Agency, 20 November 2026
+
+Ghana's finance minister is overseeing a relaunch of the Integrated Financial Management Information System (GIFMIS), first launched in 2009. Seth Terkper, the President's economic adviser, urged on 20 November 2026 that auditors join its quality assurance.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Health management information system</p>
 
 <div class="bulletin-item" markdown="1">
@@ -745,6 +759,20 @@ Guinea has awarded a 12-month, USD 26,400 consultancy, signed on 7 September 202
 **[Plateforme de la DGECS : des parents guinéens alertent sur des notes non renseignées](https://educationactu.com/11224-2/)** — Educationactu, 31 October 2026
 
 Parents in Koundara, Conakry, Gaoual and Léro reported missing marks, unregistered pupils and registration numbers at the wrong grade on Guinea's DGECS school-records platform (reported October 2026). They fear pupils will have to repeat years. DGECS director general Mamady 49 Keïta defended the platform, in use since 2024, and told schools how to correct files.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ADAMS Guinee road-accident data system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Accidents de la circulation : l’AGUISER renforce le dispositif de collecte des données - Refletguinee](https://www.refletguinee.com/accidents-de-la-circulation-laguiser-renforce-le-dispositif-de-collecte-des-donnees/)** — Reflet Guinée, 24 November 2026
+
+Guinea's road-safety agency AGUISER trained police, gendarmes, civil-protection and health staff on 24-25 November 2026. The training covered ADAMS Guinée, its digital system for recording road accidents on phones and tablets. The system maps accident black spots and follows victims through health services.
 
 </div>
 
@@ -1943,6 +1971,28 @@ UNICEF Zimbabwe reported on 11 November 2026 that schools such as Masvingo Gover
 **[ZIMRA to buy e-TRACE system to track digital payments](https://www.techzim.co.zw/2026/11/zimra-to-buy-e-trace-system-to-track-digital-payments/)** — Techzim, 19 November 2026
 
 The 2027 Budget Statement, presented on 19 November 2026, says ZIMRA will buy an e-TRACE system by competitive tender. It is to record and monitor electronic transactions by digital service providers, to support the digital services withholding tax. Techzim reports the Statement gives no budget, timeline or data-protection terms.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Health Data Warehouse</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[TA to Develop National Health Data Ingestion, FHIR Integration and ETL/ELT](https://www.ungm.org/Public/Notice/323610)** — UNDP Zimbabwe (via UN Global Marketplace), 25 November 2026
+
+UNDP Zimbabwe opened a request for proposals on national health data ingestion on 25 November 2026, closing 30 November. The contractor is to build FHIR and REST ingestion and ETL/ELT pipelines into the National Health Data Warehouse. Priority health systems are to link through the national health information exchange. Documentation and ministry training are due within 28 days.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[TA to Develop National Health Data Warehouse, Data Marts and Analytics](https://www.ungm.org/Public/Notice/323611)** — UNDP Zimbabwe (via UN Global Marketplace), 25 November 2026
+
+UNDP Zimbabwe opened a request for proposals on 25 November 2026, closing 30 November, to build the National Health Data Warehouse (UNDP-ZWE-02224). The work covers the warehouse, domain data marts and a secure analytics and reporting platform, with health ministry training and handover within 28 calendar days. Data ingestion is to be contracted separately.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: infra.store
 places: DZA; BWA; BFA; CMR; EGY; SWZ; ETH; GMB; GHA; KEN; LBY; MUS; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: a4035463a7a6
+record: 801ef0de08e3
 ---
 
 # News, Oct – Nov 2026
@@ -169,13 +169,21 @@ Uptime Institute's register for Cameroon lists two Tier III design certification
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Port Autonome de Douala data centre at the Dibamba industrial-port zone</p>
+<p class="monthly-story__name">Douala artificial-intelligence data centre and power plant</p>
 
 <div class="bulletin-item" markdown="1">
 
 **[MISSOLE | : LES ÉTATS UNIS S’ENGAGENT AUX CÔTÉS DU PORT AUTONOME DE DOUALA POUR BÂTIR UN DATA CENTER DE DERNIÈRE GÉNÉRATION](https://lavoixdelacite.com/2026/11/07/missole-les-etats-unis-sengagent-aux-cotes-du-port-autonome-de-douala-pour-batir-un-data-center-de-derniere-generation/)** — La Voix de la Cité, 7 November 2026
 
 The Port Autonome de Douala plans a two-hectare modular data centre, built for AI and with its own power plant, at its Dibamba industrial-port zone. It was shown to US chargé d'affaires John G. Robinson on a visit reported on 7 November 2026. The port says the site would keep hosted data under Cameroonian sovereignty. It names no builder, financier or timeline.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[L’américain Cybastion inspecte le site de son futur data center à Douala](https://actucameroun.com/2026/11/23/lamericain-cybastion-inspecte-le-site-de-son-futur-data-center-a-douala/)** — Actu Cameroun, 23 November 2026
+
+A delegation of the US firm Cybastion visited its planned data-centre site near Douala on 5 November 2026. The project, announced in August 2026, is put at USD 75 million with its own power plant. Its financing, power capacity and timetable had not been published by 23 November 2026.
 
 </div>
 

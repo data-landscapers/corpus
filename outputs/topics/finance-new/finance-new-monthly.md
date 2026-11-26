@@ -1,10 +1,10 @@
 ---
 title: New investments — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: finance.new
 places: DZA; AGO; BEN; BWA; COG; CIV; DJI; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
-record: 4ccae39a821a
+record: 3e2b31b7c388
 ---
 
 # News, Oct – Nov 2026
@@ -205,6 +205,28 @@ Djiblive reported that Djibouti and the French Development Agency signed a EUR 5
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EU Global Gateway green and digital trade action for the Horn of Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU, Ethiopia, Djibouti, Somalia and TradeMark Africa launch four-year Global Gateway partnership](https://trademarkafrica.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — TradeMark Africa, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
+
+On 23 November 2026 the European Union signed a EUR 20 million trade programme with Ethiopia, Djibouti and Somalia. TradeMark Africa will run it over four years, covering digital trade and transport systems and greener freight. It builds on a EUR 32 million EU corridor programme between Djibouti and Ethiopia.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU commits €20 million to green and digital trade across Ethiopia, Djibouti and Somalia](https://borkena.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — Borkena, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
+
+The EU committed €20 million in Addis Ababa on 25 November 2026 to a four-year Global Gateway programme with Ethiopia, Djibouti, Somalia and TradeMark Africa. It covers digital and green trade and transport systems. It extends the existing €32 million Djibouti–Ethiopia corridor programme.
+
+</div>
+
+</div>
+
 ## DR Congo
 
 <div class="monthly-story" markdown="1">
@@ -270,6 +292,42 @@ Eswatini senators asked on 5 October whether anyone had been held to account for
 **[IFC Invests in Kifiya’s AI Infrastructure to Connect Capital to Africa’s Real Economy - Kifiya Financial Technology](https://kifiya.com/2026/11/05/ifc-invests-in-kifiyas-ai-infrastructure-to-connect-capital-to-africas-real-economy/)** — Kifiya Financial Technology, 5 November 2026
 
 Kifiya Financial Technology announced on 4 November 2026, at the Africa Financial Summit in Luanda, an investment agreement with IFC, its first investment in the company. The release says it will scale Kifiya's agricultural fintech and rural reach work. No amount was disclosed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EU Global Gateway green and digital trade action for the Horn of Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU, Ethiopia, Djibouti, Somalia and TradeMark Africa launch four-year Global Gateway partnership](https://trademarkafrica.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — TradeMark Africa, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
+
+On 23 November 2026 the European Union signed a EUR 20 million trade programme with Ethiopia, Djibouti and Somalia. TradeMark Africa will run it over four years, covering digital trade and transport systems and greener freight. It builds on a EUR 32 million EU corridor programme between Djibouti and Ethiopia.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU commits €20 million to green and digital trade across Ethiopia, Djibouti and Somalia](https://borkena.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — Borkena, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
+
+The EU committed €20 million in Addis Ababa on 25 November 2026 to a four-year Global Gateway programme with Ethiopia, Djibouti, Somalia and TradeMark Africa. It covers digital and green trade and transport systems. It extends the existing €32 million Djibouti–Ethiopia corridor programme.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Eastern Africa Regional Digital Integration Project, second phase (Djibouti and Ethiopia)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia and World Bank Review Regional Digital Integration Project](https://techafricanews.com/2026/11/25/ethiopia-world-bank-review-regional-digital-integration-project/)** — TechAfrica News, 25 November 2026
+
+Ethiopia and the World Bank agreed a joint review of the Eastern Africa Regional Digital Integration Project, reported on 25 November 2026. The review is to restructure activities and speed up implementation. It comes as the Ethiopia Digital Foundations Project closes.
 
 </div>
 

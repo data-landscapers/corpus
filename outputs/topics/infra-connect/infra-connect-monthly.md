@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: 5fc670165e58
+record: ba57caf6c8a1
 ---
 
 # News, Oct – Nov 2026
@@ -446,6 +446,14 @@ The posts and telecoms minister inspected a PATNUC connectivity site at Campo Be
 **[Orange Cameroon commissions rural connectivity sites in Campo-Beach under PATNUC project](https://techreviewafrica.com/news/8365/orange-cameroon-commissions-rural-connectivity-sites-in-campo-beach-under-patnuc-project)** — Tech Review Africa, 17 November 2026
 
 Orange Cameroon commissioned rural connectivity sites in Campo-Beach on 13 November 2026. They belong to a programme to cover 120 underserved areas with 2G, 3G and 4G, under the World Bank-supported PATNUC project. Forty sites have been commissioned so far, and all 120 are due to operate by March 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Inclusion numérique: Ekpwassong I et Bisso’o connectés au réseau MTN](https://expressioneconomique.com/conjoncture/inclusion-numerique-ekpwassong-i-et-bissoo-connectes-au-reseau-mtn)** — Expression Economique, 23 November 2026
+
+MTN Cameroon connected Ekpwassong I and Bisso'o to 2G, 3G and 4G on 9 and 11 November 2026. The work falls under the World Bank-financed PATNUC, in which MTN is building 182 of 362 rural sites. More than 30 of its sites were reported operational by 23 November 2026.
 
 </div>
 
@@ -905,6 +913,14 @@ Equatorial Guinea's Vice-President Teodoro Nguema Obiang Mangue told the finance
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[El Vicepresidente exige resultados inmediatos para mejorar la red de telecomunicaciones](https://www.guineaecuatorialpress.com/noticias/el_vicepresidente_exige_resultados_inmediatos_para_mejorar_la_red_de_telecomunicaciones)** — Vicepresidencia de la República de Guinea Ecuatorial, 23 November 2026
+
+Equatorial Guinea's Vice-President Nguema Obiang Mangue gave GETESA until February 2027 to finish optimising its network. At a meeting on 23 November 2026, the government said coverage, calls and internet had worsened. He ordered CYBERTEQ to audit the works, whose first phase had been paid.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1098,6 +1114,7 @@ MTN Ghana (Scancom PLC) told the Ghana Stock Exchange on 2 October 2026 that the
 MTN Ghana says it will roll out 5G once the regulator issues the spectrum licences it has been awarded in the 700 MHz and 3 GHz bands, at a cost of about US$202 million. The company told investors the payments are already in its cash-flow outlook.
 
 </div>
+
 
 </div>
 
@@ -1758,6 +1775,20 @@ Mauritania's regulator ARE and the operator Chinguitel renewed their universal-a
 **[Portabilité mobile : Garder son numéro en changeant d'opérateur](https://lexpress.mu/s/garder-son-numero-en-changeant-doperateur-563369)** — L'Express (Maurice), 8 October 2026
 
 Mauritius' ICT Authority opened a call for applications for a new mobile number portability licence, announced at a three-day ICTA workshop in Balaclava reported on 8 October 2026. Chairman Tassarajen Pillay Chedumbrum said subscribers will be able to keep their number and SIM when changing operator. No launch date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICTA committee on mobile mast deployment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Couverture mobile : l’ICTA met en place un comité pour accélérer l’installation des antennes-relais](https://defimedia.info/couverture-mobile-licta-met-en-place-un-comite-pour-accelerer-linstallation-des-antennes-relais)** — Defimedia, 25 November 2026
+
+Mauritius's ICTA set up a multi-stakeholder committee to speed up mobile mast installation, in a communiqué of 24 November 2026. Its first priorities are revising the PPG7 planning guidance for telecom infrastructure and new sites at Salazie and Pont-Bon-Dieu. Mauritius Telecom, Emtel and MTML are among its members.
 
 </div>
 
@@ -2596,6 +2627,14 @@ ICASA opened a stakeholder questionnaire on 10 November 2026 on the second phase
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[ICASA Notice 4276 of 2026: Extension of the closing date for responses to the Questionnaire on the Assignment of High-Demand Radio Frequency Spectrum, Government Gazette No. 55790](https://www.gov.za/sites/default/files/gcis_document/202611/55790gen4276.pdf)** — Independent Communications Authority of South Africa (Government Gazette No. 55790), 25 November 2026
+
+ICASA moved the deadline for its high-demand spectrum questionnaire from 30 November 2026 to 29 January 2027. Notice 4276 appeared in Government Gazette 55790 of 25 November 2026. It followed a request from respondents and says no further extension will be granted.
+
+</div>
+
 </div>
 
 
@@ -2686,6 +2725,28 @@ The explainer outlet /explain/ published a critical account on 23 November 2026 
 **[Vodacom, Huawei trial ‘golden’ spectrum band](https://www.itweb.co.za/article/vodacom-huawei-trial-golden-spectrum-band/KWEBbvyL2PaqmRjO)** — ITWeb South Africa, 23 November 2026
 
 Vodacom and Huawei showed Upper 6GHz fixed wireless use cases at the Africa Tech Festival in the week before 23 November 2026. The companies put commercial deployment about two years away. South Africa's communications regulator published its allocation plan for the band in July.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SAEx East subsea cable (Cape Town to Singapore)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Request for Proposals: Transaction Advisors for the SAEX East Subsea Fibre-Optic Cable Project (Phase 1)](https://www.dbsa.org/sites/default/files/media/documents/2026-11/RFP228.2026-SAEx%20East%20Subsea%20Fibre-Optic.pdf)** — Development Bank of Southern Africa, 24 November 2026
+
+On 24 November 2026, the Development Bank of Southern Africa sought transaction advisers for the SAEx East subsea cable. Tender RFP228/2026 covers Phase 1 over 24 months. A compulsory online briefing is set for 7 December, and bids close on 15 December 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RFP228/2026 Part E: Terms of Reference for the Procurement of Transaction Advisors for the SAEx East Subsea Fibre-Optic Cable Project (Phase 1)](https://www.dbsa.org/sites/default/files/media/documents/2026-11/RFP228.2026-Part%20E-SAEx%20East%20Subsea%20Fibre-Optic%20TOR.pdf)** — Development Bank of Southern Africa (Infrastructure Finance and Implementation Support Agency, IFISA), 24 November 2026
+
+SAEx East is planned as an all-wet subsea cable of about 11,700 km from Cape Town to Singapore. Advisers are to assess its bankability and build a business case for South Africa's government to take part. The case must link the cable to SA Connect Phase 3 under Broadband Infraco (DBSA, November 2026).
 
 </div>
 

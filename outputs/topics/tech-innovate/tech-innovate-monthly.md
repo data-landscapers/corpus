@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: tech.innovate
 places: DZA; AGO; BEN; BFA; BDI; CAF; CIV; COD; EGY; SWZ; ETH; GMB; GHA; KEN; MWI; MRT; MUS; MAR; NAM; NGA; SEN; SLE; ZAF; SSD; TZA; TGO; TUN; ZWE
-record: 600ee11c730b
+record: 2f770293ca13
 ---
 
 # News, Oct – Nov 2026
@@ -611,6 +611,20 @@ BusinessDay reported on 18 November 2026 commentary urging Nigeria to learn from
 **[FG backs eight startups through iDICE Growth Lab to access N1bn in equity funding](https://businessday.ng/news/article/fg-backs-eight-startups-through-idice-growth-lab-to-access-n1bn-in-equity-funding/)** — BusinessDay (Nigeria), 19 November 2026
 
 Nigeria's iDICE Startup Bridge began its Growth Lab with eight startups, BusinessDay reported on 19 November 2026. Each is to receive $100,000 in equity, about N134 million. The Bank of Industry implements the programme, co-financed by the African Development Bank, Agence Française de Développement and the Islamic Development Bank.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ambassador Babagana Kingibe Innovation Hub, Maiduguri</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Opens Innovation Hub to Boost Digital Skills and Employment in Borno](https://techafricanews.com/2026/11/25/nigeria-innovation-hub-digital-skills-employment-borno/)** — Tech Africa News, 25 November 2026
+
+Nigeria commissioned the Ambassador Babagana Kingibe Innovation Hub in Maiduguri, Borno State, with IHS Towers, as reported on 25 November 2026. It is a base for the state's 3MTT fellows. Under NUCAP, 89 rural towers in Borno are prioritised for about 230,000 unconnected people. Deployment is due from December 2026.
 
 </div>
 

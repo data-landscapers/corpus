@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: gov.protect
 places: DZA; AGO; BEN; BFA; BDI; CMR; COG; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 11e4fa505e99
+record: d52e57fe6ef5
 ---
 
 # News, Oct – Nov 2026
@@ -456,6 +456,14 @@ Immaculate Kassait leaves office as Kenya's first Data Commissioner on 16 Novemb
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Data Commissioner nominee pledges stronger privacy enforcement](https://www.the-star.co.ke/news/2026-11-25-data-commissioner-nominee-pledges-stronger-privacy-enforcement)** — The Star (Kenya), 25 November 2026
+
+Kenya's nominee for Data Commissioner, Lydia Sitienei Chelagat, appeared for vetting before the National Assembly communications committee, reported on 25 November 2026. She pledged stronger enforcement of the Data Protection Act, publication of determinations and local awareness campaigns. The committee will report its recommendation to the House.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -633,6 +641,20 @@ Mozambique's parliamentary Standing Commission on 1 October 2026 placed a Person
 **[Parlamento alarga calendário de trabalhos para responder à agenda legislativa](https://aimnews.org/2026/10/26/parlamento-alarga-calendario-de-trabalhos-para-responder-a-agenda-legislativa/)** — Agência de Informação de Moçambique (AIM), 26 October 2026
 
 Mozambique's Assembly of the Republic may sit on Fridays and Saturdays during its session from 28 October to 22 December 2026. The reason is the volume of business. The plenary agenda for 6 November includes the bill on personal data protection. It also includes bills on the Highway Code and aeronautical registration.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Registration and licensing regime for digital platforms and intermediary service providers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INTIC reforça regulação do ecossistema digital com mais de 300 entidades registadas e operadores licenciados](https://revista.tempo.co.mz/intic-reforca-regulacao-do-ecossistema-digital-com-mais-de-300-entidades-registadas-e-operadores-licenciados)** — Revista Tempo, 24 November 2026
+
+Mozambique's ICT institute INTIC had registered over 300 electronic service intermediaries and platform operators by 24 November 2026. More than 50 of them hold licences. Registration began in October 2023 under Decree 59/2023, and licensing in January 2026 under Decree 44/2025.
 
 </div>
 

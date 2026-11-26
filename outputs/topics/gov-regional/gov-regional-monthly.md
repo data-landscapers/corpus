@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: gov.regional
-places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; DJI; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: d3b7d4cd3b68
+places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; DJI; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; TZA; TGO; UGA; ZMB; ZWE
+record: 0084710e1c79
 ---
 
 # News, Oct – Nov 2026
@@ -69,6 +69,8 @@ record: d3b7d4cd3b68
 <a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -1242,6 +1244,30 @@ The African Development Bank approved a $750,000 seed grant, with technical assi
 **[African Development Bank Backs Sierra Leone’s bid to host regional data embassy with $750,000 grant](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-backs-sierra-leones-bid-98898)** — African Development Bank, 24 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The African Development Bank has granted US$750,000 from the KOAFEC Trust Fund to study whether Sierra Leone can host the ECOWAS Regional Data Embassy. The grant was announced at the West Africa Integration and Investment Summit in Lungi, 16-18 November 2026. ECOWAS heads of state have approved the initiative. Regional technical consultations are set for late November 2026.
+
+</div>
+
+</div>
+
+## Somalia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EU Global Gateway green and digital trade programme, Horn of Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU, Ethiopia, Djibouti, Somalia and TradeMark Africa launch four-year Global Gateway partnership](https://trademarkafrica.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — TradeMark Africa, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a>
+
+On 23 November 2026 the European Union signed a EUR 20 million trade programme with Ethiopia, Djibouti and Somalia. TradeMark Africa will run it over four years, covering digital trade and transport systems and greener freight. It builds on a EUR 32 million EU corridor programme between Djibouti and Ethiopia.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU commits €20 million to green and digital trade across Ethiopia, Djibouti and Somalia](https://borkena.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — Borkena, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a>
+
+The EU committed €20 million in Addis Ababa on 25 November 2026 to a four-year Global Gateway programme with Ethiopia, Djibouti, Somalia and TradeMark Africa. It covers digital and green trade and transport systems. It extends the existing €32 million Djibouti–Ethiopia corridor programme.
 
 </div>
 

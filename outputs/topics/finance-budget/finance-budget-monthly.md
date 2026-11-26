@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: finance.budget
 places: BEN; CIV; GAB; LBR; LBY; MAR; MOZ; SEN; SYC; TUN
-record: 7386ddc598b6
+record: be312dcf136b
 ---
 
 # News, Oct – Nov 2026
@@ -177,6 +177,7 @@ Mozambique's Planning and Development Minister, Salim Valá, said on 20 November
 
 <p class="monthly-story__name">Telecommunications ministry 2027 budget bill</p>
 
+
 <div class="bulletin-item" markdown="1">
 
 **[Sénégal : le numérique et la Poste au cœur du budget 2027 des Télécommunications](https://fr.apanews.net/technologies/senegal-le-numerique-et-la-poste-au-coeur-du-budget-2027/)** — APAnews, 13 November 2026
@@ -190,6 +191,14 @@ Senegal's Ministry of Telecommunications and Digital Affairs presented a 2027 bu
 **[Senegal MPs reject 2027 digital ministry budget](https://www.socialnetlink.org/2026/11/15/senegal-2027-budget-telecommunications-digital-ministry-mps/)** — Socialnetlink, 15 November 2026
 
 Committees of Senegal's National Assembly declined on 13 November 2026 to approve the 2027 draft budget of the Ministry of Telecommunications and Digital Affairs. MPs questioned the consistency of the forecasts behind FCFA 64.97 billion in payment appropriations. A committee rejection is not final, and the bill continues through parliamentary procedure.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Budget 2027 du numérique : la plénière de vendredi est bloquée, et 65 milliards de FCFA de projets attendent leur sort](https://novotech.blog/article/budget-2027-du-numerique-la-pleniere-de-vendredi-est-bloquee-et-65-milliards-de)** — NovoTech, 25 November 2026
+
+Senegal's FCFA 64.97 billion 2027 digital ministry budget cannot go to its 27 November plenary, NovoTech reported on 25 November 2026. The National Assembly rejected the first part of the finance bill on 18 November, which bars debate on ministry credits. The minister's report shows the PAENS programme spent under 10% of its 2026 funds. None of over 400 Startup Act registrants had been labelled by 30 June 2026.
 
 </div>
 

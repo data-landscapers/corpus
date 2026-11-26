@@ -1,15 +1,17 @@
 ---
 title: Access to services — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: include.access
-places: BFA; CPV; CIV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MWI; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: ea6dede2085f
+places: AGO; BFA; CPV; CIV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MWI; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
+record: e21463636236
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#angola">Angola</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cape-verde">Cape Verde</a>
@@ -54,6 +56,23 @@ record: ea6dede2085f
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
 </nav>
+
+## Angola
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public computer rooms and free internet points</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo prevê aumentar para 391 os pontos de acesso gratuito à Internet até 2027](https://pti.ao/governo-preve-aumentar-para-391-os-pontos-de-acesso-gratuito-a-internet-ate-2027/)** — Portal de T.I., 25 November 2026
+
+Angola's 2027 budget proposal would raise its Angola Online free internet points from 182 to 391, Portal de T.I. reported on 25 November 2026. The points sit under a Kz 45.7 billion line for the National Broadband Network project.
+
+</div>
+
+</div>
 
 ## Burkina Faso
 
@@ -192,7 +211,7 @@ DR Congo's telecom regulator ARPTC put the short code 1515 into service nationwi
 
 <div class="bulletin-item" markdown="1">
 
-**[Ethiopian Institution of the Ombudsman](http://ethombudsman.gov.et/)** — Ethiopian Institution of the Ombudsman, 17 October 2026
+**[Ethiopian Institution of the Ombudsman](https://web.archive.org/web/20260604073843/http://www.ethombudsman.gov.et/)** — Ethiopian Institution of the Ombudsman, 17 October 2026
 
 The Ethiopian Institution of the Ombudsman's website says it has resolved more than 48,500 complaints of maladministration through 14 regional offices. It also reports 1.5 million public enquiries and a 96.4% compliance rate by institutions; the figures carry no date.
 
@@ -269,6 +288,20 @@ Ghana's Ministry of Finance inaugurated a National Technical Working Committee o
 **[Eight in 10 Ghanaian adults have an account, but only 22% are financially healthy](https://3news.com/economy/ghana-financial-health-inclusion-strategy)** — 3News, 7 November 2026
 
 Ghana's Ministry of Finance opened work on a 2027–2031 financial inclusion strategy on 5 November 2026, 3News reported. Deputy Finance Minister Thomas Nyarko Ampem cited 81% account ownership in 2024, from the Global Findex. The 2021 FinScope survey found 22% of adults financially healthy. The ministry expects to launch the strategy in the first half of 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">TAHMO flood early-warning alerts, Kumasi</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[More than 7,600 Kumasi residents receive flood alerts under TAHMO project | Ghana News Agency](https://gna.org.gh/2026/11/more-than-7600-kumasi-residents-receive-flood-alerts-under-tahmo-project/)** — Ghana News Agency, 23 November 2026
+
+A flood early-warning project led by the Trans-African Hydro-Meteorological Observatory (TAHMO) has enrolled over 7,600 Kumasi residents. Farmerline Ghana sends the alerts by voice message, WhatsApp and interactive voice response. About 5,893 people received messages in 2026, the Ghana News Agency reported on 23 November 2026.
 
 </div>
 

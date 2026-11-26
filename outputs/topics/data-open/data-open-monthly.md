@@ -1,10 +1,10 @@
 ---
 title: Open data — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: data.open
-places: BFA; CPV; TCD; CIV; GMB; GNB; KEN; LBY; MDG; MUS; SEN; SLE; SOM; ZAF; TGO; TUN; UGA; ZWE
-record: 0679515a9e49
+places: BFA; CPV; CAF; TCD; CIV; GMB; GNB; KEN; LBY; MDG; MUS; SEN; SLE; SOM; ZAF; TGO; TUN; UGA; ZWE
+record: 02b8c84c5c6c
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: 0679515a9e49
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cape-verde">Cape Verde</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#central-african-republic">Central African Republic</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#chad">Chad</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -74,6 +76,22 @@ Burkina Faso's national statistics institute, INSD, publishes an open data licen
 **[Decreto-Lei n.º 45/2026 (Boletim Oficial, I Série, n.º 109)](https://faolex.fao.org/docs/pdf/cvi248337.pdf)** — Boletim Oficial da República de Cabo Verde, 8 October 2026
 
 Cabo Verde's Decreto-Lei 45/2026 of 8 October 2026 sets out the structure of the new state-reform ministry. Its National Directorate for State Modernisation is charged with the digital-services portal, the public-documents portal, open data and the Chave Móvel Digital. A service within it covers data, interoperability and AI in the public sector.
+
+</div>
+
+</div>
+
+## Central African Republic
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics institute data-dissemination policy and anonymisation procedure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASEES : la Politique de diffusion des données et la procédure d’anonymisation soumises à la validation des acteurs du Système Statistique National](https://icasees.org/actualites/438-icasees-politique-de-diffusion-des-donnees-et-procedure-d-anonymisation-soumises-a-la-validation-du-ssn)** — Institut Centrafricain des Statistiques et des Études Économiques et Sociales (ICASEES), 24 November 2026
+
+The Central African Republic's statistics institute ICASEES sought validation of two draft data texts on 24-25 November 2026. A dissemination policy offers free aggregates and controlled access to microdata; a second text sets anonymisation rules. A ministerial instrument is to adopt them; the World Bank's HISWACA project funded the workshop.
 
 </div>
 

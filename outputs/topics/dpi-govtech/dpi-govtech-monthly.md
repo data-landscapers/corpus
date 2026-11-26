@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ed80ef37b9fe
+record: e4920e312058
 ---
 
 # News, Oct – Nov 2026
@@ -195,6 +195,14 @@ An expert of Algeria's High Commission for Digitisation said on 19 November 2026
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Dzair Digital Services: Integration of 14 New CASNOS Digital Services | Algerian Radio](https://news.radioalgerie.dz/en/node/99841)** — Radio Algérienne, 25 November 2026
+
+Algeria's High Commission for Digitalization put 14 CASNOS services on the Dzair Digital Services portal on 24 November 2026. CASNOS is the social security fund for the self-employed. The services run from appeals and pension certificates to contribution declarations, online payment and appointments.
+
+</div>
+
 </div>
 
 ## Angola
@@ -282,6 +290,14 @@ Benin's Republican Police moved loss certificates fully online from 1 October 20
 **[Communiqué officiel | Prix national de la simplification administrative](https://prix-simplification.gouv.bj/communique)** — Gouvernement du Bénin, 12 October 2026
 
 Benin's government launched a presidential National Administrative Simplification Prize on 12 October 2026, inviting public servants, citizens and businesses to propose simpler procedures, including digitisation and data sharing between administrations. Submissions are open from 29 October to 12 November 2026. The prize supports Benin's target of having all procedures online by 2030.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Prix national de la simplification administrative : Les travaux d’évaluation des propositions lancés | Gouvernement de la République du Bénin](https://www.gouv.bj/article/3753/)** — Gouvernement de la République du Bénin, 24 November 2026
+
+Benin's evaluation commissions began reviewing over 5,000 proposals for the National Administrative Simplification Prize on 23 November 2026. The proposals came from 14 sectors between 29 October and 12 November 2026. The review runs to 4 December, towards a goal of all procedures online by 2030.
 
 </div>
 
@@ -2041,6 +2057,20 @@ Morocco's Watiqa portal for civil-status documents was still down on 18 November
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-ROKHSATI driving-licence platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Présentation à Rabat de 'E-ROKHSATI', une plateforme de dématérialisation des procédures de renouvellement des permis de conduire](https://maroc.ma/fr/actualites/presentation-rabat-de-e-rokhsati-une-plateforme-de-dematerialisation-des-procedures-de-renouvellement)** — Maroc.ma, 24 November 2026
+
+On 24 November 2026, Morocco's road-safety agency NARSA presented E-ROKHSATI for renewing driving licences online. Applicants verify identity through Mon Identité Numérique and receive a QR-coded provisional receipt. Morocco has over 11 million licences, and registration centres handle over 4,000 certificates a day.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -2391,6 +2421,20 @@ Seychelles' Vice-President, Sebastien Pillay, said on 14 October 2026, at a Stat
 **[SeyAlert: Seychelles government introduces a new digital emergency alert app](https://www.seychellesnewsagency.com/public/articles/22634/seyalert-seychelles-government-introduces-a-new-digital-emergency-alert-app)** — Seychelles News Agency, 2 November 2026
 
 Seychelles soft-launched the SeyAlert emergency app on 30 October 2026, after weeks of flooding and landslides. It sends warnings by district through the app and SMS. Users can report their location, and a route-alert feature follows them. The government expects full operation within the week.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National electronic government procurement system (e-GP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Republic of Seychelles E-Procurement Expert – Technical Assistance for the Implementation and Institutionalization of the National E-Procurement System](https://www.pou.gov.sc/tenders/consultancies/1875-republic-of-seychelles-e-procurement-expert-technical-assistance-for-the-implementation-and-institutionalization-of-the-national-e-procurement-system)** — Procurement Oversight Unit, Seychelles, 24 November 2026
+
+Seychelles is seeking a 12-month adviser to help its Procurement Oversight Unit implement a national e-procurement system. The government has applied for an African Development Bank grant from its Middle-Income Country Technical Assistance Fund. Expressions of interest are due by 7 December 2026.
 
 </div>
 
@@ -2747,6 +2791,20 @@ South Africa's Border Management Authority told Parliament on 24 November 2026 t
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">North West provincial e-recruitment platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[North West Provincial Government's e-recruitment platform to go live on 1 December 2026](https://www.gov.za/news/media-statements/north-west-provincial-governments-e-recruitment-platform-go-live-1-december)** — South African Government, 25 November 2026
+
+North West Provincial Government's e-Recruitment platform goes live on 1 December 2026, the Office of the Premier said on 25 November. It came free through a partnership with Gauteng. It starts in the Office of the Premier and the Department of Health. Every provincial department is to join by 1 April 2027.
+
+</div>
+
+</div>
+
 ## South Sudan
 
 <div class="monthly-story" markdown="1">
@@ -3058,6 +3116,34 @@ Tunisia's Minister of Social Affairs, Issam al-Ahmar, told a joint parliamentary
 **[Tunisiens à l’étranger : les passeports bientôt accessibles via E-Consulat, voici ce qui va changer en 2027 - La Presse de Tunisie](https://www.lapresse.tn/2026/11/17/tunisiens-a-letranger-les-passeports-bientot-accessibles-via-e-consulat-voici-ce-qui-va-changer-en-2027/)** — La Presse de Tunisie, 17 November 2026
 
 Tunisia's foreign minister told parliament on 17 November 2026 that his ministry is digitising consular services for Tunisians abroad. Consulates issued 180,658 passports by the end of October 2026. The ministry is working to make more services available remotely, including the criminal record extract and military-service exemption documents. The statement came during the 2027 budget debate.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Food-safety authority (INSSPA) digital control platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sécurité alimentaire : l'INSSPA prépare une plateforme numérique pour renforcer le contrôle](https://www.lapresse.tn/2026/11/24/securite-alimentaire-linsspa-prepare-une-plateforme-numerique-pour-renforcer-le-controle/)** — La Presse de Tunisie, 24 November 2026
+
+On 24 November 2026, Tunisia's food-safety authority INSSPA said it is preparing a platform for its control operations. Operators and consumers will be able to report breaches and health risks online in real time. It is also seeking ISO 9001 and ISO/IEC 17020 certification, now at external audit.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Insurance-intermediary licensing platform (Comité général des assurances)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transformation digitale : Le Comité général des assurances dématérialise les demandes d'agrément et supprime les dossiers en papier](https://www.lapresse.tn/2026/11/25/transformation-digitale-le-comite-general-des-assurances-dematerialise-les-demandes-dagrement-et-supprime-les-dossiers-en-papier/)** — La Presse de Tunisie, 25 November 2026
+
+Tunisia's insurance regulator, the Comité général des assurances, has moved intermediary licensing fully online, as reported on 25 November 2026. It no longer accepts paper files. Broker applicants log in to the platform through the national digital identity service.
 
 </div>
 

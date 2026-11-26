@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: digital.localgov
 places: BEN; BDI; CMR; CPV; TCD; COD; EGY; ETH; GAB; KEN; MLI; MAR; NGA; ZAF; SSD; SDN; TZA
-record: 1139eeada870
+record: 811f2f083d99
 ---
 
 # News, Oct – Nov 2026
@@ -367,6 +367,20 @@ Kenya's Technopolis Development Authority and Makueni County signed a memorandum
 **[Recouvrement digital des taxes et redevances communales : la mairie de la Commune V et Sama Money signent une convention de partenariat](https://malijet.com/actualite_economique_du_mali/312590-recouvrement-digital-des-taxes-et-redevances-communales-la.html)** — Malijet, 30 October 2026
 
 Commune V of Bamako signed an agreement with mobile payment operator Sama Money on 29 October 2026 to collect municipal taxes and fees digitally. Residents can pay through the Sama Money app or a USSD code. The commune says this will make revenue easier to trace.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil-registration digitisation set-ups in Bamako Communes IV and V</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DIGITALISATION DE L’ETAT CIVIL : La commune IV en tête du peloton avec 60 à 200 actes de naissance par jour](https://gouvernement.ml/digitalisation-de-letat-civil-la-commune-iv-en-tete-du-peloton-avec-60-a-200-actes-de-naissance-par-jour/)** — Information Gouvernementale du Mali, 25 November 2026
+
+Bamako's Commune IV received UNDP-backed equipment for digitising civil registration on 24 November 2026. The territorial administration ministry expects daily output of birth certificates to rise from about 60 to about 200. The same equipment, with solar power, was also installed in Commune V.
 
 </div>
 

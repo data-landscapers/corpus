@@ -1,10 +1,10 @@
 ---
 title: Rural digital data capture — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: digital.rural
-places: BDI; CMR; ETH; GHA; NGA; RWA; TGO; ZMB; ZWE
-record: f468932d0c92
+places: BDI; CMR; ETH; GHA; MOZ; NGA; RWA; TZA; TGO; ZMB; ZWE
+record: 3066d7a97e0d
 ---
 
 # News, Oct – Nov 2026
@@ -18,9 +18,13 @@ record: f468932d0c92
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mozambique">Mozambique</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#rwanda">Rwanda</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -93,6 +97,22 @@ Ghana News Agency reported on 29 October 2026 that the Ghana Agricultural Insura
 
 </div>
 
+## Mozambique
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Seed Tracking and Labelling System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Chapo launches PROSPERA to strengthen households' productive capacity](https://aimnews.org/2026/11/11/chapo-launches-prospera-to-strengthen-households-productive-capacity/)** — Agência de Informação de Moçambique (AIM), 11 November 2026
+
+Mozambique's PROSPERA project, launched on 11 November 2026, connects farmers with extension services, finance and markets. Its 'Olá Produtor' service uses AI, backed by experts, to answer farmers' questions, President Daniel Chapo said. A national seed tracking and labelling system will let producers check seeds by QR code and SMS.
+
+</div>
+
+</div>
+
 ## Nigeria
 
 <div class="monthly-story" markdown="1">
@@ -134,6 +154,22 @@ First City Monument Bank (FCMB) and Mastercard launched AgroPass in Lagos, built
 **[Inside a new infrastructure layer boosting Rwanda’s digital health expansion](https://en.igihe.com/health/article/inside-a-new-infrastructure-layer-boosting-rwandas-digital-health-expansion)** — IGIHE, 8 October 2026
 
 Signalytic, a health technology company, has installed solar-powered units supplying Wi-Fi and electricity at 65 health posts in 21 Rwandan districts, working with the Ministry of Health and Gavi. Another 85 facilities are planned, for a target of 150. The units support digital immunisation records, insurance checks and vaccine refrigerators.
+
+</div>
+
+</div>
+
+## Tanzania
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Universal service fund and agricultural research institute connectivity memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Five-year deal to bring digital technology closer to farmers](https://www.thecitizen.co.tz/tanzania/news/national/five-year-deal-to-bring-digital-technology-closer-to-farmers-5683386)** — The Citizen, 25 November 2026
+
+Tanzania's Universal Communications Service Access Fund and the Tanzania Agricultural Research Institute signed a five-year memorandum of understanding on 24 November 2026. It covers connectivity and digital tools for the institute's 21 research centres and 25 sub-centres. The stated aim is for research findings and crop-disease warnings to reach rural farmers faster.
 
 </div>
 

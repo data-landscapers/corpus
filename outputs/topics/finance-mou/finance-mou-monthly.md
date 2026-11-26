@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: finance.mou
 places: BEN; BWA; BDI; CIV; COD; EGY; ETH; KEN; MUS; MOZ; NGA; SEN; ZAF; SDN; TZA; TUN; UGA
-record: e9936dee95d7
+record: 913fd9dc3fa6
 ---
 
 # News, Oct – Nov 2026
@@ -86,6 +86,14 @@ Orange Botswana and Huawei Technologies Botswana signed a memorandum of understa
 **[BoFiNet, EIMC accelerate development of smart schools](https://www.mmegi.bw/ampArticle/124743)** — Mmegi, 18 November 2026
 
 Botswana Fibre Networks and the Education Infrastructure and Management Company signed a memorandum on smart school infrastructure the week before 18 November 2026. It covers school connectivity, campus networks, hosting, cybersecurity and maintenance, under a joint working committee. It includes UPICtv, a streaming platform hosted in Botswana that BoFiNet says keeps data under national jurisdiction.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[BoFINET, EIMC Partner To Digitise Public Schools](https://na.co.bw/bofinet-eimc-partner-to-digitise-public-schools/)** — News&All Botswana, 23 November 2026
+
+Botswana Fibre Networks signed a memorandum with EIMC on 11 November 2026 to digitise public schools. It covers fibre links, campus networks, cloud services and cybersecurity, plus curriculum videos on the UPICtv platform. A joint working committee will oversee the work.
 
 </div>
 

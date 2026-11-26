@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: capacity.training
-places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZMB; ZWE
-record: 243efd61471e
+places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZMB; ZWE
+record: 72cc88cbb8d3
 ---
 
 # News, Oct – Nov 2026
@@ -27,6 +27,8 @@ record: 243efd61471e
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#eswatini">Eswatini</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -238,6 +240,22 @@ Egypt's communications and labour ministries signed a memorandum to digitise the
 **[Government invests in technical talent in partner countries](https://www.government.nl/latest/news/2026/11/20/government-invests-in-technical-talent-in-partner-countries)** — Ministry of Foreign Affairs (Netherlands), 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 The Dutch Ministry of Foreign Affairs announced on 20 November 2026 a EUR 150 million programme, Knowledge Empowers You, for 2027 to 2031. It trains technical talent, with a chip-sector focus, in seven initial countries including Egypt, Morocco and Nigeria. No allocation per country is stated.
+
+</div>
+
+</div>
+
+## Eswatini
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Udacity Coding Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UAE-FUNDED CODERS ESWATINI TARGETS 300 000 EMASWATI – ICT MINISTER - Eswatini Positive News](https://eswatinipositivenews.online/uae-funded-coders-eswatini-targets-300-000-emaswati-ict-minister/)** — Eswatini Positive News, 25 November 2026
+
+Eswatini's Ministry of ICT handed Udacity scholarships under the UAE-funded Coders Eswatini Programme to the Ministry of Education and Training, as reported on 25 November 2026. ICT minister Savannah Maziya asked that teachers be the main beneficiaries of the courses in AI, data science, programming and Android development. The programme targets 300,000 emaSwati.
 
 </div>
 
@@ -767,6 +785,20 @@ Rwanda's Ministry of Education inaugurated a new Rwanda Coding Academy campus in
 **[코이카, 르완다 코딩 아카데미 새 캠퍼스 준공](https://koica.go.kr/bbs/koica_kr/151/391677/artclView.do)** — Korea International Cooperation Agency (KOICA), 23 November 2026
 
 The Korea International Cooperation Agency and the Rwanda TVET Board held a ceremony on 20 November 2026. The ceremony was for the new Rwanda Coding Academy campus in Nyabihu. The agency said its support project ran from 2021 to 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Basic education board e-learning platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[From Investments to Integration: Building a Resilient Digital Learning System in Rwanda](https://www.worldbank.org/en/news/feature/2026/11/24/building-resilient-digital-learning-system-rwanda-mastercard-fdn)** — World Bank, 24 November 2026
+
+The World Bank reported on 24 November 2026 that Rwanda's Basic Education Board upgraded its Moodle e-learning platform. The new version adds a mobile app and serves English training across 16 Teacher Training Colleges. A pilot in six model schools includes AI literacy training for teachers.
 
 </div>
 

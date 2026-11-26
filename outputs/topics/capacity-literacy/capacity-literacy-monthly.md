@@ -1,10 +1,10 @@
 ---
 title: Literacy — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: capacity.literacy
 places: AGO; CPV; CIV; COD; EGY; GMB; GHA; GIN; LBR; MLI; MAR; NAM; NGA; RWA; SEN; SYC; SSD; SDN; TGO; TUN; UGA
-record: c6ead66aff9c
+record: 27482b5af3f7
 ---
 
 # News, Oct – Nov 2026
@@ -98,6 +98,15 @@ Cabo Verde's economy and digital transition minister, António Baptista, said at
 Côte d'Ivoire's National Assembly held an AI training session for MPs on 12 October 2026. Its president, Patrick Achi, said AI can help research but must not replace members' judgement. The digital minister, Djibril Ouattara, said the programme aims to train over 2,000 officials in AI by the end of 2027. The session showed a WhatsApp assistant that replies in Baoulé or Malinké.
 
 </div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire-AIP/ Intelligence artificielle: les membres du CESEC outillés pour relever les défis de la transformation numérique - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-intelligence-artificielle-les-membres-du-cesec-outilles-pour-relever-les-defis-de-la-transformation-numerique/)** — Agence Ivoirienne de Presse (AIP), 24 November 2026
+
+On 23 November 2026, members of Côte d'Ivoire's Economic, Social, Environmental and Cultural Council (CESEC) received AI training. The session, run by the school aivancity, falls under the digital ministry's national ADOPT IA programme. It covered AI in agriculture, health, education and public services, and data-protection risks.
+
+</div>
+
 
 </div>
 

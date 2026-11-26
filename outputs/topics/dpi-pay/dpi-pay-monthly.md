@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6b3565e650bf
+record: a4d5d2fac20b
 ---
 
 # News, Oct – Nov 2026
@@ -254,6 +254,20 @@ Benin's finance and justice ministers set fees for 109 documents issued by the c
 **[Communiqué de MTN Mobile Money Bénin](https://www.24haubenin.info/?Communique-de-MTN-Mobile-Money-Benin=)** — 24 Heures au Bénin, 2 November 2026
 
 MTN Mobile Money Bénin said its interoperable e-money transactions run through the BCEAO's PI-SPI from 2 November 2026. National interoperable transfers are free up to FCFA 8,000 a day. Above that they cost 0.5%. The wallet ceiling rises from FCFA 2 million to 4 million. The cap on an interoperable transfer rises from FCFA 500,000 to 2 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Financial Inclusion Platform (PNIF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : la PNIF propose des crédits de 50 000 à 50 millions de FCFA en ligne](https://beninwebtv.bj/cest-possible-en-48h-lancement-officiel-de-la-pnif-permettant-dobtenir-un-microcredit-en-ligne/)** — Bénin Web TV, 24 November 2026
+
+Benin opened its National Financial Inclusion Platform (PNIF) on 24 November 2026 for online microfinance loans. Clients of 14 partner institutions can borrow FCFA 50,000 to 50 million, signing in with their ID number. Funds reach a bank or mobile-money account within 48 hours of signing.
 
 </div>
 
@@ -679,6 +693,14 @@ Egypt's planning minister Ahmed Rustom presented President El-Sisi with a plan t
 
 <div class="bulletin-item" markdown="1">
 
+**[Central Bank of Egypt Launches the Payment Card Tokenization Services on Android Mobile Applications](https://cbe.org.eg/en/news-publications/news/2026/11/23/08/10/tokenization-android)** — Central Bank of Egypt, 23 November 2026
+
+On 23 November 2026, Egypt's central bank extended payment-card tokenisation to Android phones, working with banks and fintechs. The service opened through Apple Pay in December 2024. That first phase carried about 292 million transactions worth EGP 228 billion by end-September 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
 **[«المركزي المصري» يطلق ترميز بطاقات الدفع على هواتف Android](https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%B7%D9%84%D9%82-%D8%AA%D8%B1%D9%85%D9%8A%D8%B2-%D8%A8%D8%B7%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D8%B9%D9%84%D9%89-%D9%87%D9%88%D8%A7%D8%AA%D9%81-android/)** — State Information Service (Egypt), 23 November 2026
 
 The Central Bank of Egypt announced on 23 November 2026 that payment card tokenisation is available on Android devices. The first phase ran through Apple Pay from December 2024. It had processed about 292 million transactions worth EGP 228 billion by the end of September 2026.
@@ -1022,6 +1044,20 @@ A consultant to the ECOWAS regional payment initiative has proposed that Nigeria
 **[BoG develops open banking framework to facilitate customer data sharing](https://gna.org.gh/2026/11/bog-develops-open-banking-framework-to-facilitate-customer-data-sharing/)** — Ghana News Agency, 18 November 2026
 
 Bank of Ghana Governor Johnson Pandit Asiama told the Invest Ghana Summit on 17 November 2026 that the Bank is advancing an open banking framework. It would let authorised providers share customer data with consent. A separate legal framework for fintechs and fintech innovation hubs is also being developed. The framework text had not been published by 18 November 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-money monthly transaction limits</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MoMo announces revised wallet limits in compliance with Bank of Ghana’s financial stability agenda](https://techreviewafrica.com/news/8493/momo-announces-revised-wallet-limits-in-compliance-with-bank-of-ghana-s-financia)** — Tech Review Africa, 25 November 2026
+
+MobileMoney Fintech set new monthly limits from 24 November 2026: GHS 150,000 for Medium KYC customers and GHS 300,000 for Enhanced KYC. The change follows a review covering all of Ghana's dedicated e-money issuers. It is in line with the Bank of Ghana's financial stability agenda.
 
 </div>
 
@@ -1430,6 +1466,28 @@ Airtel Money moved its Malawi and Tanzania mobile-money platforms onto Comviva's
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central bank measures on digital payment fraud and charges</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government tells mobile money firms: fix fees, networks and trust | Nyasa Times](https://www.nyasatimes.com/government-tells-mobile-money-firms-fix-fees-networks-and-trust/)** — Nyasa Times, 25 November 2026
+
+Malawi's Principal Secretary for E-Government, Prosper Mopiwa, spoke at a payments conference in Lilongwe on 25 November 2026. He said people rely on cash because digital services fail them. He asked providers to cut fees, improve reliability and reach rural areas. Airtel Money said it runs an AI-based spam alert service.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RBM targets fraud, high charges in digital payment reforms](https://malawiguardian.com/rbm-targets-fraud-high-charges-in-digital-payment-reforms/)** — The Malawi Guardian, 25 November 2026
+
+The Reserve Bank of Malawi said on 25 November 2026 that rules on fraud, mobile money charges and failed transactions are in preparation. Some are due soon, it told a payments conference in Lilongwe. Airtel Money described a fraud task force it runs with the central bank and the regulator MACRA.
+
+</div>
+
+</div>
+
 ## Mali
 
 <div class="monthly-story" markdown="1">
@@ -1680,6 +1738,20 @@ Payment fraud cost Namibians N$32.45 million in the first half of 2026, up 18.9%
 **[Namibian banks handle 25% of SADC payments](https://www.namibian.com.na/namibian-banks-handle-25-of-sadc-payments/)** — The Namibian, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 Namibian banks settled R708 billion through the SADC regional payment system in 2025, 25% of its R2.8 trillion total. The figures come from the Bank of Namibia's 2025 annual report. All Namibian participants moved to ISO 20022 messaging in November 2025. In December 2025 Namibia ranked second by value at R76.33 billion, behind South Africa.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government-to-person payments on the instant payment platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[“Cybersecurity Is No Longer Merely An Information Technology Concern,” Says Shafudah | Business Pulse 360°](https://businesspulse360.com/article/cybersecurity-is-no-longer-merely-an-information-technology-concern-shafuda-says)** — Business Pulse 360, 25 November 2026
+
+Namibia's Ministry of Finance told the Namibia Fraud & Cybersecurity Summit on 24 November 2026 that government-to-person payments through the Instant Payment System rose from about 1 million in July 2026 to 26 million in October. It gave 10 million for August and 25 million for September, without stating the unit. It put financial inclusion at about 86% in 2025.
 
 </div>
 
@@ -2274,6 +2346,28 @@ South Sudan's caretaker trade minister Labanya Margaret Mathya held a virtual me
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">South Sudan Interbank Payment and Settlement System (SSIPSS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Central Bank launches electronic payment system to replace manual cheques](https://eyeradio.org/central-bank-launches-electronic-payment-system-to-replace-manual-cheques/)** — Eye Radio, 24 November 2026
+
+On 24 November 2026, South Sudan's central bank and finance ministry launched the SSIPSS interbank payment system. It links real-time gross settlement and automated clearing to the government's financial management system, IFMIS. Government payments go directly to payees' accounts at licensed commercial banks, replacing manual cheques.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Opinion| South Sudan leaps away from the cheque book](https://www.radiotamazuj.org/en/news/article/opinion-south-sudan-leaps-away-from-the-cheque-book)** — Radio Tamazuj, 24 November 2026
+
+A University of Juba economist assessed South Sudan's SSIPSS payment system, launched on 24 November 2026. He argues the rails digitise arrears but do not create cash. He urges a rule of no commitment without cash and quarterly IFMIS reports.
+
+</div>
+
+</div>
+
 ## Sudan
 
 <div class="monthly-story" markdown="1">
@@ -2699,6 +2793,20 @@ Stanbic Bank Uganda launched an embedded-finance model in Kampala on 17 November
 **[Mobile money accounts hit 62m, but 23m go three months without transacting](https://www.monitor.co.ug/uganda/business/markets/mobile-money-accounts-hit-62m-but-23m-go-three-months-without-transacting--5677234)** — Daily Monitor, 20 November 2026
 
 Bank of Uganda data reported on 20 November 2026 show 62.12 million registered mobile money accounts in September 2026, up 17.5% year on year. Accounts used in the previous 90 days numbered 39.10 million, or 62.9% of the total. That share was 67.3% a year earlier.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Pesapal routing on the Interswitch network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Interswitch and Pesapal Expand Payment Interoperability and Verve Card Acceptance in Uganda](https://www.pesapal.com/blog/interswitch-and-pesapal-expand-payment-interoperability-and-verve-card-acceptance-in-uganda)** — Pesapal, 24 November 2026
+
+Pesapal joined the Interswitch switching network in Uganda, announced on 24 November 2026. Its card transactions now route locally to more than 19 banks and non-banks on Interswitch. Over 4,900 merchant locations can accept Verve cards, including those issued in Nigeria, Kenya and the Gambia.
 
 </div>
 

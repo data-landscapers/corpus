@@ -1,10 +1,10 @@
 ---
 title: Energy — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: infra.energy
 places: BDI; CMR; COG; MOZ; SLE; TZA
-record: 2b88a2f053c2
+record: fb22bdbd1b51
 ---
 
 # News, Oct – Nov 2026
@@ -71,7 +71,7 @@ Congo's communications regulator Arpce presented the second edition of its white
 
 <div class="bulletin-item" markdown="1">
 
-**[Crise du carburant : les réseaux télécoms à bout de souffle](https://www.adiac-congo.com/content/crise-du-carburant-les-reseaux-telecoms-bout-de-souffle-172163)** — Les Dépêches de Brazzaville (ADIAC), 27 October 2026
+**[Crise du carburant : les réseaux télécoms à bout de souffle](https://web.archive.org/web/20261027150801/https://www.adiac-congo.com/content/crise-du-carburant-les-reseaux-telecoms-bout-de-souffle-172163)** — Les Dépêches de Brazzaville (ADIAC), 27 October 2026
 
 Congo's telecoms regulator reported voice, internet and mobile-money outages on 27 October 2026. They hit all or part of the country. A diesel shortage caused them by leaving backup generators without fuel. Operators average nine hours of grid power a day against six hours of battery autonomy. Helios Towers needs about 100,000 litres of diesel a week for its 550 sites.
 

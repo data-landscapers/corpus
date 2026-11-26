@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: dpi.exchange
-places: DZA; AGO; BEN; BFA; BDI; CMR; CIV; COD; EGY; GAB; GIN; GNB; KEN; LSO; LBY; MLI; MRT; MUS; MOZ; NAM; NGA; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e13a8db23c2b
+places: DZA; AGO; BEN; BFA; BDI; CMR; CIV; COD; EGY; GAB; GIN; GNB; KEN; LSO; LBY; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: d7a3a3f806e7
 ---
 
 # News, Oct – Nov 2026
@@ -51,6 +51,10 @@ record: e13a8db23c2b
 <a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#rwanda">Rwanda</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#seychelles">Seychelles</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -634,6 +638,38 @@ Nigeria's Border Control and Immigration Management System now holds more than 1
 **[Export processing on National Single Window begins December 14 - Businessday NG](https://businessday.ng/news/article/export-processing-on-national-single-window-begins-december-14/)** — BusinessDay NG, 10 November 2026
 
 Nigeria's National Single Window will open export processing on 14 December 2026, its secretariat said on 10 November 2026. A first group of permit-issuing agencies goes live then: NAQS, SON, NAFDAC, NACCIMA, FPIS and REX. CBN, Customs, NEPZA and four ministries follow in the first quarter of 2027. Customs' regulatory HS-code list is due by 1 December 2026 and will be enforced from 1 January 2027.
+
+</div>
+
+</div>
+
+## Rwanda
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital health policy action roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[timbuktoo Africa develops policy roadmap to accelerate digital health innovation in Rwanda](https://techreviewafrica.com/news/8478/timbuktoo-africa-develops-policy-roadmap-to-accelerate-digital-health-innovation)** — Tech Review Africa, 25 November 2026
+
+The timbuktoo HealthTech Hub said in November 2026 that it is drafting a policy action roadmap for Rwanda's digital health systems, through roundtables with firms, hubs, academics, development partners and public bodies. The roadmap covers how health products connect to national systems, use health data, gain approval, run pilots and enter public procurement. No completion date was given.
+
+</div>
+
+</div>
+
+## Senegal
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Interconnection of the APPEL procurement platform with the SYSBUDGED budget systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ARTICULATION ENTRE PLANIFICATION DES MARCHÉS ET PROGRAMMATION BUDGÉTAIRE : Les modalités d’interconnexion entre APPEL et SYSBUDGED mobilisent plusieurs services de l’administration budgétaire](https://arcop.sn/2026/11/24/articulation-entre-planification-des-marches-et-programmation-budgetaire-les-modalites-dinterconnexion-entre-appel-et-sysbudged-mobilisent-plusieurs-services-de-ladministration-bud/)** — Autorite de Regulation de la Commande Publique (ARCOP), 24 November 2026
+
+On 17 November 2026, Senegal's procurement regulator ARCOP met budget officials on linking its APPEL platform to SYSBUDGED. The workshop mapped procurement plans held on APPEL to in-year budget programming tools. Data security and traceability were discussed; implementation terms remain to be set.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB
-record: a338a9fe2090
+record: c9da9296e773
 ---
 
 # News, Oct – Nov 2026
@@ -433,7 +433,7 @@ The National Assembly's economic and finance committee unanimously adopted a ban
 
 <div class="bulletin-item" markdown="1">
 
-**[Le chef de l’Etat préside les travaux de la 12e séance du Conseil des ministres](https://www.adi.dj/article/139039)** — Agence Djiboutienne d'Information (ADI), 27 October 2026
+**[Le chef de l’Etat préside les travaux de la 12e séance du Conseil des ministres](https://web.archive.org/web/20261028061335/https://www.adi.dj/article/139039)** — Agence Djiboutienne d'Information (ADI), 27 October 2026
 
 Djibouti's Council of Ministers approved a draft organic law on finance laws with a title on dematerialisation. It provides for an integrated public financial management system, electronic archiving, digital signatures and online publication of budget data.
 
@@ -468,6 +468,14 @@ A joint committee of the DRC Senate finished examining a bill amending the 2023 
 **[Sénat : examen mercredi des amendements sur la proposition de loi modifiant Code numérique](https://acp.cd/nation/senat-examen-mercredi-des-amendements-sur-la-proposition-de-loi-modifiant-code-numerique/)** — ACP (Agence Congolaise de Presse), 2 November 2026
 
 The DRC Senate adopted on 31 October 2026 the joint committee report on a bill amending the 2023 digital code to protect minors online. Twenty-two senators' amendments go to the joint committee, which has 72 hours to examine them before the sitting of 4 November. Senators raised age bands for minors, access to digital content and age verification.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sénat : adoption d’une proposition de loi protégeant les mineurs sur les réseaux sociaux - ACP](https://acp.cd/nation/senat-adoption-dune-proposition-de-loi-protegeant-les-mineurs-sur-les-reseaux-sociaux/)** — Agence Congolaise de Presse (ACP), 25 November 2026
+
+The DRC Senate voted 76 to none on 24 November 2026 to adopt a bill amending the Code du numérique of 13 March 2023 to protect minors on social networks, after adopting 23 joint-committee amendments. The text gives roles to the digital regulator, the data-protection authority and the national cybersecurity agency. It now goes to the National Assembly.
 
 </div>
 
@@ -896,6 +904,7 @@ Guinea's digital agency ANDE closed a four-day review of the national digital-tr
 Guinea-Bissau's Council of Ministers examined a draft Electronic Transactions Law on 17 November 2026. Its communiqué says the law is to update the legal framework for electronic operations and make digital transactions more secure and trusted. No adoption has been reported.
 
 </div>
+
 
 </div>
 
@@ -1559,6 +1568,20 @@ Journalists, lawyers and civil society figures in Sao Tome and Principe said an 
 **[Santé numérique, le vide juridique qui fragilise la protection des données des patients](https://www.seneplus.com/article/sante-numerique-le-vide-juridique-qui-fragilise-la-protection-des-donnees-des-patients)** — SenePlus, 4 November 2026
 
 A Transform Health Senegal consultation found 65.8% of respondents unaware that Senegal has no specific health data law. The non-representative sample also found 44.7% saying their consent is never sought before their medical data is shared. A draft digital health bill remains under government review, the coalition says.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Startup Act and labelling process</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Projet de budget 2027 — Rapport de présentation, Ministère des Télécommunications et du Numérique](https://www.vie-publique.sn/docs/20af2016-38f3-422b-b9a2-c95a8bc51add/rapport-presentation-projet-budget-2027-mtn-senegal.pdf)** — Ministère des Télécommunications et du Numérique (Sénégal), 6 November 2026
+
+Senegal's digital ministry presented its 2027 draft budget to the National Assembly finance committee on 6 November 2026. It seeks FCFA 64.97 billion in payment credits across four programmes, down 3.8% on 2026.
 
 </div>
 

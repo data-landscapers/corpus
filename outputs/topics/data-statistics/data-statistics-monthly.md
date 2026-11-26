@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: data.statistics
 places: DZA; AGO; BWA; BDI; CAF; TCD; COG; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA; ZWE
-record: 85b8345a8f73
+record: 707d41367e93
 ---
 
 # News, Oct – Nov 2026
@@ -661,6 +661,20 @@ Senegal's statistics agency is working towards remote access for authorised rese
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics development fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Allocution du Premier Ministre Ahmadou Alhaminou Mohamed LO à l'occasion de l’ouverture des travaux du Forum international sur les données](https://primature.sn/publications/actualites/allocution-du-premier-ministre-ahmadou-alhaminou-mohamed-lo-loccasion-de)** — Primature du Senegal, 23 November 2026
+
+Senegal's Prime Minister, Ahmadou Alhaminou Mohamed Lo, opened an international data forum on 23 November 2026. His speech called for African guidelines on official statisticians' access to private big data. It also proposed a trust pact with technology firms on protecting personal data.
+
+</div>
+
+</div>
+
 ## Sierra Leone
 
 <div class="monthly-story" markdown="1">
@@ -773,6 +787,20 @@ Tunisia's telecoms regulator INT found in its 2026 digital barometer that 85.9% 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">General agricultural census</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Recensement agricole : la Tunisie mise sur le numérique pour actualiser ses données](https://www.webmanagercenter.com/2026/11/24/577870/recensement-agricole-la-tunisie-mise-sur-le-numerique-pour-actualiser-ses-donnees/)** — Webmanagercenter, 24 November 2026
+
+Tunisia's general agricultural census is being collected on tablets using the World Bank's Survey Solutions platform. It uses geolocation and GIS, according to a report of 24 November 2026. A World Bank team checked fieldwork in Zaghouan governorate.
+
+</div>
+
+</div>
+
 ## Uganda
 
 <div class="monthly-story" markdown="1">
@@ -814,6 +842,20 @@ The Uganda Bureau of Statistics launched its Fourth Plan for National Statistica
 **[ZIMSTAT opens a direct line to the people as Africa marks Statistics Day](https://www.heraldonline.co.zw/zimstat-opens-a-direct-line-to-the-people-as-africa-marks-statistics-day/)** — The Herald, 19 November 2026
 
 The Zimbabwe National Statistics Agency launched a chatbot, a WhatsApp line and a toll-free line on 18 November 2026, African Statistics Day. The public can use them to query statistics, verify survey enumerators and give feedback.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Zimbabwe Labour Market Information System (ZLMIS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government launches system to improve labour market planning](https://www.heraldonline.co.zw/government-launches-system-to-improve-labour-market-planning/)** — The Herald, 25 November 2026
+
+Zimbabwe launched the Zimbabwe Labour Market Information System, a portal combining ZIMSTAT, NSSA and other agencies' data on jobs, wages, productivity, social security and skills, The Herald reported on 25 November 2026. The ICT ministry hosts it at the National Data Centre. The system feeds the SADC Labour Market Observatory.
 
 </div>
 

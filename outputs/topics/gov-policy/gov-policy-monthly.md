@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 7aca38b0698e
+record: 32fafd823b19
 ---
 
 # News, Oct – Nov 2026
@@ -334,6 +334,20 @@ Congo's regulator ARPCE presented the second edition of its Livre Blanc and a di
 **[Côte d’Ivoire-AIP/ Six nouveaux commissaires prennent fonction à la CAIDP](https://www.aip.ci/cote-divoire-aip-six-nouveaux-commissaires-prennent-fonction-a-la-caidp/)** — Agence Ivoirienne de Presse, 9 November 2026
 
 Cote d'Ivoire's access to information commission, the CAIDP, installed six new commissioners on 9 November 2026. Their predecessors' six-year terms had ended. Its president, Anne-Marie Konan-Payne, said the next council meeting would consider terms of reference for a strategic retreat.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI strategy 2026-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire-AIP/ Les sénateurs formés aux enjeux et aux applications de l’intelligence artificielle à Yamoussoukro - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-les-senateurs-formes-aux-enjeux-et-aux-applications-de-lintelligence-artificielle-a-yamoussoukro/)** — Agence Ivoirienne de Presse (AIP), 24 November 2026
+
+The digital-transition ministry ran an AI session for Côte d'Ivoire's senators in Yamoussoukro on 24 November 2026. The course covers AI assistants in parliamentary work, bias and error risks, and human control of decisions. The report says Futur Africa is helping the ministry draft a national AI strategy for 2026-2030.
 
 </div>
 
@@ -868,6 +882,20 @@ Namibia's Cabinet announced on 3 November 2026 that it had approved a revised Na
 **[Lancement de l'atelier sur le commerce électronique](https://www.commerce-industrie.gouv.ne/?p=3463)** — Ministère du Commerce et de l'Industrie (Niger), 27 October 2026
 
 Niger's Ministry of Commerce and Industry opened a three-day pre-validation workshop on 26 October 2026. The workshop concerns its national e-commerce strategy. The strategy aims to use digital means to support financial and social inclusion. It also aims to make Niger a major West African e-commerce actor by 2035.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital transformation, AI and data sovereignty programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transformation numérique, IA et souveraineté des données](https://www.f2in.ne/opportunites/transformation-numerique-ia-souverainete-donnees/)** — F2IN (Gouvernement du Niger, MCNTI), 24 November 2026
+
+Niger's communications ministry seeks FCFA 16.896 billion, about USD 28 million, for AI governance and digital services. The 48-month project, listed for the F2IN investment forum of 24-26 November 2026, includes a sovereign cloud. It plans over 20 e-services, with UNDP named as integrator.
 
 </div>
 

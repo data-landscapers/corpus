@@ -1,10 +1,10 @@
 ---
 title: Standards — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: gov.standards
 places: DZA; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; SEN; ZAF; SDN; TUN; UGA; ZMB
-record: e6f63403a604
+record: 7bc80bac8575
 ---
 
 # News, Oct – Nov 2026
@@ -395,6 +395,20 @@ Ghana's communications minister Samuel Nartey George announced a national data e
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cabinet directive on NITA certification of state technology</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana state bodies must get NITA clearance before deploying technology, says Sam George](https://ghanaguardian.com/ghana-state-bodies-must-get-nita-clearance-before-deploying-technology-says-sam-george/)** — GhanaGuardian, 25 November 2026
+
+Ghana's communications minister, Sam George, said a Cabinet directive requires every state institution to obtain technical certification from NITA before deploying a technology solution, as reported on 25 November 2026. The certification covers security, data protection and data-sovereignty compliance.
+
+</div>
+
+</div>
+
 ## Kenya
 
 <div class="monthly-story" markdown="1">
@@ -564,6 +578,20 @@ Nigeria's NITDA began its first IPv6 migration readiness training for federal mi
 **[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Telemedicine Guidelines (2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[National Council on Health approves 2026 national telemedicine guidelines](https://fmino.gov.ng/national-council-on-health-approves-2026-national-telemedicine-guidelines/)** — Federal Ministry of Information and National Orientation, 23 November 2026
+
+Nigeria's federal health ministry, states and the FCT are to adopt national telemedicine guidelines approved in November 2026. The National Council on Health approved them at its 67th meeting in Nasarawa, held 16-20 November 2026. The council named gaps in governance, interoperability, data protection and cybersecurity, and recommended budget lines.
 
 </div>
 

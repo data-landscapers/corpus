@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: tech.industry
-places: BEN; EGY; GMB; GIN; KEN; NGA; SEN; SLE; ZAF; TGO
-record: 5b93df290937
+places: BEN; EGY; GMB; GIN; KEN; MAR; NGA; SEN; SLE; ZAF; TGO; ZMB
+record: bcbbeead77a8
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: 5b93df290937
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#morocco">Morocco</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
@@ -29,6 +31,8 @@ record: 5b93df290937
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#togo">Togo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zambia">Zambia</a>
 </nav>
 
 ## Benin
@@ -150,6 +154,22 @@ Microsoft is winding down its Africa Development Centre in Nairobi, staff were t
 **[Microsoft's Nairobi Development Centre Faces Possible Closure](https://www.kenyans.co.ke/news/127805-microsofts-nairobi-development-centre-faces-possible-closure)** — Kenyans.co.ke, 13 October 2026
 
 Microsoft plans to close the engineering department of its Africa Development Centre in Nairobi after more than seven years, a Kenyan outlet reports. Between 400 and 500 employees could be affected.
+
+</div>
+
+</div>
+
+## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital offshoring employment and export revenue</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Présentation du projet de budget sectoriel 2027 du ministère de l’Intelligence artificielle, de la Transformation numérique et de la Réforme de l’administration devant la Chambre des conseillers](https://mmsp.gov.ma/fr/actualites/pr%C3%A9sentation-du-projet-de-budget-sectoriel-2027-du-minist%C3%A8re-de-l%E2%80%99intelligence-artificielle-de-la-transformation-num%C3%A9rique-et-de-la-r%C3%A9forme-de-l%E2%80%99administration-devant-la-chambre-des-conseillers)** — Ministère de l'Intelligence artificielle, de la Transformation numérique et de la Réforme de l'Administration, 24 November 2026
+
+On 24 November 2026, Morocco's AI and digital ministry presented its 2027 budget to the House of Councillors. Its 2027 plans include open-source national language models, more Jazari institutes and a 'Cloud First' policy. It put 2025 offshoring export receipts at MAD 27.08 billion, with 167,000 jobs.
 
 </div>
 
@@ -307,6 +327,22 @@ Telkom SA issued a cautionary announcement on 16 November 2026 telling sharehold
 **[BoD-TPME : les start-up togolaises peuvent déposer leur logiciel](https://actulome.com/bod-tpme-appel-startups-solutions-numeriques/)** — ActuLome, 21 November 2026
 
 Togo has invited start-ups and developers to list locally built software on BoD-TPME, its public digital toolbox for small businesses, ActuLome reported on 21 November 2026. The call opened in the week of 20 November. No selection criteria or closing date have been published, and the catalogue had mainly listed international open-source tools.
+
+</div>
+
+</div>
+
+## Zambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Startup ERP platform for small businesses (Infratel and Probase)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government Backs MSME Digitalisation Drive](https://www.lusakatimes.com/2026/11/25/government-backs-msme-digitalisation-drive/)** — Lusaka Times, 25 November 2026
+
+Zambia's Minister of Small and Medium Enterprise Development, Lackson Sichone, spoke at the 2026 Infratel MSME Digital Open Day, reported on 25 November 2026. Infratel and the fintech Probase presented Startup ERP, a tiered business system. Its invoicing meets Zambia Revenue Authority requirements, with a one-month trial. The minister urged lenders to design finance for digitally run small firms.
 
 </div>
 

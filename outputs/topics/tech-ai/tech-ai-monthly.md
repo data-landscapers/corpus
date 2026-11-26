@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 78663e1dc8a5
+record: 86b5b95edf18
 ---
 
 # News, Oct – Nov 2026
@@ -259,6 +259,20 @@ The Ayre Index of youth AI readiness was launched at the November 2026 Commonwea
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Geological archives digitisation and Kanzi mining-intelligence platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Amini wants to turn Africa’s paper archives into data for AI ](https://techcabal.com/2026/11/25/amini-africa-paper-archives-data-ai/)** — TechCabal, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Amini released Soma-1X Lite, an open-weight model with two billion parameters that converts scanned paper records into machine-readable data, as reported on 25 November 2026. The company is digitising Botswana's geological archives with the Ministry of Minerals and Energy. The Central African Republic is to follow.
+
+</div>
+
+</div>
+
 ## Burkina Faso
 
 <div class="monthly-story" markdown="1">
@@ -342,6 +356,20 @@ Cape Verde scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the N
 **[Cabo Verde reúne condições para avançar na adopção da Inteligência Artificial – especialistas](https://www.inforpress.cv/en/article-12401)** — Inforpress, 12 November 2026
 
 Cabo Verde's telecommunications and digital economy directorate and the UNDP held a validation meeting of the National AI Diagnostic in Mindelo. The meeting took place on 12 and 13 November 2026. Officials said the country has the digital infrastructure, connectivity and digitised public services to adopt AI. Gaps remain in skills, legislation and governance.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Labour inspectorate AI assistant and case system (SIGT)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ILO supports digital transformation of Cabo Verde's General Labour Inspectorate](https://www.ilo.org/resource/article/ilo-supports-digital-transformation-cabo-verde%E2%80%99s-general-labour)** — International Labour Organization, 19 November 2026
+
+Cabo Verde's General Labour Inspectorate launched an online portal and case-management system in Praia on 3 November 2026. Workers can file complaints and track cases, and an AI assistant answers questions in Kriolu. The tools were developed with ILO support under the Luxembourg-funded Form@Empresa project.
 
 </div>
 
@@ -813,6 +841,20 @@ Egypt's National Council for AI published a first government-wide policy on resp
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Private members' AI governance bills</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ننشر نص مشروع قانون بشأن تنظيم التعليم الرقمي واستخدامات الذكاء الاصطناعي](https://www.parlgate.com/96873)** — بوابة البرلمان, 22 November 2026
+
+Egyptian MP Bassam El-Sawaf has tabled a 28-article bill on digital education and AI in schools and universities. Parliament Gate published the text on 22 November 2026. It provides for human review of AI-based decisions, student data protection and a three-year rollout.
+
+</div>
+
+</div>
+
 ## Equatorial Guinea
 
 <div class="monthly-story" markdown="1">
@@ -900,6 +942,20 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 **[Country Profile on AI Governance: Ethiopia](https://www.aipolicy.africa/country-profiles/ethiopia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Ethiopia scored 2.12 out of 4 on the Africa AI Governance Index 2026, in the Developing tier and ranked 11 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (3.70) and its weakest is Innovation and Ecosystem (1.00).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Addis AI speech and language models</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Avec Addis AI, l’Ethiopien Biniyam Daniel transcrit et vocalise sept langues africaines](https://www.wearetech.africa/fr/fils/tech-stars/avec-addis-ai-l-ethiopien-biniyam-daniel-transcrit-et-vocalise-sept-langues-africaines)** — wearetech.africa, 24 November 2026
+
+Ethiopia's Addis AI, founded in 2023, builds speech and text models for seven African languages. They include Amharic, Afaan Oromo, Tigrinya, Swahili, Hausa, Sidama and Wolaytta. Its tools transcribe speech, voice text with 56 synthetic voices and generate Amharic and Afaan Oromo text.
 
 </div>
 
@@ -1220,6 +1276,20 @@ In November 2026 Kenya's Judiciary reported piloting Mahakama AI, an internal le
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">African Next Voices Kenyan speech corpus</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Why Does Voice AI Still Struggle With Kenyans' Speech?](https://spectrum.ieee.org/swahili-speech-recognition)** — IEEE Spectrum, 24 November 2026
+
+A March 2026 preprint put the word-error rate for read Swahili speech at 3.24%. Models make more errors when Kenyans mix Swahili and English, use Sheng slang or speak amid noise. New datasets cited include African Next Voices, with 9,000 hours, and Google's Waxal, with 11,000.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -1275,6 +1345,20 @@ Madagascar scored 0.63 out of 4 on the Africa AI Governance Index 2026, in the N
 **[JUSTICE – Un logiciel d’anonymisation pour permettre aux magistrats d’utiliser l’IA sans exposer les données des justiciables](https://www.2424.mg/justice-un-logiciel-danonymisation-pour-permettre-aux-magistrats-dutiliser-lia-sans-exposer-les-donnees-des-justiciables/)** — 2424.mg, 17 October 2026
 
 Madagascar's Conseil d'État has given all magistrates software that removes litigants' personal data from case files before any AI tool is used, presented at an AI workshop at the Cour suprême on 15-16 October 2026. Built without public money, it is the first step of a Conseil d'État and ENMG programme training magistrates to use consumer AI tools, under the personal data protection law.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs e-Tariff platform and chatbot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Madagascar et l'intelligence artificielle : ou en est le pays](https://enda-madagascar.org/madagascar-intelligence-artificielle-2026/)** — ENDA Madagascar, 16 November 2026
+
+Madagascar's customs service runs an e-Tariff platform and a round-the-clock chatbot, presented in May 2025. The World Bank-funded Asan'ai programme aims to train 1,300 young people in AI and data by May 2027. The Mihary project offers USD 15,000 in support to young entrepreneurs and start-ups (16 November 2026).
 
 </div>
 
@@ -1419,6 +1503,20 @@ Morocco's National Financial Intelligence Authority (ANRF) launched a tender, re
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Artificial intelligence inside sectoral systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[\[Tribune\] IA en sante: le modele montpellierain, une lecon pour Rabat](https://telquel.ma/2026/11/19/tribune-ia-en-sante-le-modele-montpellierain-une-lecon-pour-rabat_2018902)** — Telquel.ma, 19 November 2026
+
+A November 2026 TelQuel op-ed argues Morocco's Jazari institute network lacks a health strand. It cites Montpellier's hospital-led Alliance Santé IA as a model for a joint health and AI programme. It also reports AI-assisted ultrasound extending to 50 rural centres in Béni Mellal-Khénifra.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -1430,6 +1528,20 @@ Morocco's National Financial Intelligence Authority (ANRF) launched a tender, re
 **[Country Profile on AI Governance: Mozambique](https://www.aipolicy.africa/country-profiles/mozambique)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Mozambique scored 0.96 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 34 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are fellow-assigned, strongest Strategy and Vision (1.60) and weakest Implementation and Impact (0.30); the profile lists a draft AI strategy not yet adopted, an AI commission created and no data protection law.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Guidelines on artificial intelligence in schools</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo prepara regras para uso de Inteligência Artificial nas escolas](https://moztoday.com/arquivo/7986)** — MozToday, 16 October 2026
+
+The Coordinating Council of Mozambique's education ministry backed draft guidelines on AI in schools (reported 16 October 2026). The 19-article text covers teaching, assessment and school management, but excludes higher education. It takes effect only through a joint ministerial diploma with the labour ministry.
 
 </div>
 
@@ -1902,6 +2014,20 @@ Somalia scored 1.50 out of 4 on the Africa AI Governance Index 2026, in the Emer
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">ThinkMD clinical triage tool, South West State</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Southwest State digital health programme](https://us-somalia.com/programmes/southwest-state-digital-health/)** — US-Somalia Investment Intelligence (Cleanport Ventures), 27 October 2026
+
+ThinkMD's phone-based triage tool logged 7,871 patient encounters at 22 facilities in Somalia's Southwest State by 26 October 2026. The figures are the programme's own, published by its implementing partner Cleanport Ventures. The programme seeks to scale up to 150 facilities.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">National AI Hub at the SIMAD AI Institute</p>
 
 <div class="bulletin-item" markdown="1">
@@ -2290,6 +2416,20 @@ Tunisia's National Business Registry announced two AI services on 5 November 202
 
 
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Aqua Min 360 pumping-station monitoring app</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministère de l'Agriculture : présentation de l'application numérique « Aqua Min 360 »](https://www.tunisienumerique.com/ministere-de-lagriculture-presentation-de-lapplication-numerique-aqua-min-360/)** — Tunisie Numerique, 24 November 2026
+
+Tunisia's agriculture ministry reviewed the Aqua Min 360 app at a working session on 23 November 2026. The northern canal operator SECADENORD developed it to track water and energy use at its pumping stations. The app is built on a national AI model.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

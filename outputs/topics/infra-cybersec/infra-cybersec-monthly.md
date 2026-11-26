@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 subject: infra.cybersec
 places: DZA; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; ZMB; ZWE
-record: 300907e61a52
+record: b628b8df9701
 ---
 
 # News, Oct – Nov 2026
@@ -609,6 +609,36 @@ Kenya's ICT Principal Secretary, John Tanui, launched the SecureKE/Konza Soverei
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Investigation of the claimed eCitizen data breach</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Probe after hackers allegedly breach eCitizen, steal millions of personal data](https://citizen.digital/article/probe-after-hackers-allegedly-breach-ecitizen-steal-millions-of-personal-data-n394464)** — Citizen Digital, 24 November 2026
+
+On 24 November 2026, Kenya's immigration and citizen services department said it was investigating a reported eCitizen breach. A threat actor named ByteToBreach claims to have taken about 740GB, including millions of identity records. The government had not confirmed the theft, and eCitizen services stayed available.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[What data is at risk in the alleged 740GB eCitizen data breach?](https://www.pulse.co.ke/story/what-data-is-at-risk-in-the-alleged-740gb-ecitizen-data-breach-2026112418263354796)** — Pulse Kenya, 24 November 2026
+
+On 24 November 2026, ByteToBreach claimed about 600GB of identity documents from Kenya's eCitizen platform. It also claims 100GB of database content and 40GB of source code. The report also flags risks to linked single sign-on services and duties under the Data Protection Act.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya investigates 740GB breach claim](https://www.itweb.africa/article/kenya-investigates-740gb-breach-claim/KA3WwqdzbEw7rydZ)** — ITWeb Africa, 25 November 2026
+
+Kenya's Ministry of Interior said in November 2026 that it is investigating a hacker's claim, posted on 22 November, to have taken 740GB of data from the eCitizen government portal. The unverified claim includes about 600GB of identity documents and access to eCitizen's single sign-on. The government said eCitizen remained online and urged users to change reused passwords.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -893,6 +923,20 @@ Namibia's communications regulator launched DigiNam in Windhoek on 31 August as 
 **[Namibian cybersecurity risks remain elevated – NAM-CSIRT](https://neweralive.na/namibian-cybersecurity-risks-remain-elevated-nam-csirt/)** — New Era, 6 November 2026
 
 Namibia's NAM-CSIRT, housed at the regulator CRAN, recorded 506,143 vulnerabilities and 163,053 cyber events in July to September 2026, according to its newsletter reported on 6 November 2026. Vulnerabilities fell about 1.5% from 513,921 in the second quarter. Events rose 0.93% from 161,547. Exposed Open CWMP services were the most detected, at 320,664.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fraud and cybersecurity summit</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersecurity summit to focus on rising digital fraud](https://neweralive.na/cybersecurity-summit-to-focus-on-rising-digital-fraud/)** — New Era, 24 November 2026
+
+Namibia's bankers' association and central bank opened a fraud and cybersecurity summit in Windhoek on 24 November 2026. The central bank put payment fraud losses at N$32.45 million in the first half of 2026. Banks recorded 32,399 fraud incidents in the first quarter of 2026, up from 3,766 the quarter before.
 
 </div>
 
