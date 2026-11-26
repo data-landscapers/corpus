@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: BWA
-ledger_rows: 25
+ledger_rows: 26
 not_held: 5
-record: 0b5a87f5c693
+record: 9d4924efc43e
 ---
 
 # News, Oct – Nov 2026
@@ -91,6 +91,14 @@ Orange Botswana and Huawei Technologies Botswana signed a memorandum of understa
 **[BoFiNet, EIMC accelerate development of smart schools](https://www.mmegi.bw/ampArticle/124743)** — Mmegi, 18 November 2026
 
 Botswana Fibre Networks and the Education Infrastructure and Management Company signed a memorandum on smart school infrastructure the week before 18 November 2026. It covers school connectivity, campus networks, hosting, cybersecurity and maintenance, under a joint working committee. It includes UPICtv, a streaming platform hosted in Botswana that BoFiNet says keeps data under national jurisdiction.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[BoFINET, EIMC Partner To Digitise Public Schools](https://na.co.bw/bofinet-eimc-partner-to-digitise-public-schools/)** — News&All Botswana, 23 November 2026
+
+MoU signed 11 Nov 2026; fibre, campus networks, cloud and cybersecurity for schools; UPICtv content; joint committee.
 
 </div>
 
@@ -401,6 +409,20 @@ A 2026 skills survey by South Africa's IITPSA attributes 24% of the reported ski
 **[Botswana’s AI Paradox: Rich in Connectivity, Poor in Opportunity - Weekend Post](https://weekendpost.co.bw/botswanas-ai-paradox-rich-in-connectivity-poor-in-opportunity/)** — Weekend Post, 10 November 2026
 
 The Ayre Index of youth AI readiness was launched at the November 2026 Commonwealth Heads of Government Meeting. It ranks Botswana 45th of 56 Commonwealth states, scoring 38.9 out of 100 against a benchmark of 53. Botswana scores 7.2 of 10 for access to technology and 2.9 for decent work and enterprise. Weekend Post reported the study's moderate estimate of AI's possible GDP gain after ten years: USD 289 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Geological archives digitisation and Kanzi mining-intelligence platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Amini wants to turn Africa’s paper archives into data for AI ](https://techcabal.com/2026/11/25/amini-africa-paper-archives-data-ai/)** — TechCabal, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Amini released Soma-1X Lite, an open-weight model with two billion parameters that converts scanned paper records into machine-readable data, as reported on 25 November 2026. The company is digitising Botswana's geological archives with the Ministry of Minerals and Energy. The Central African Republic is to follow.
 
 </div>
 
