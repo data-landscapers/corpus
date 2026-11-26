@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: NAM
-ledger_rows: 32
+ledger_rows: 34
 not_held: 8
-record: 5364f2c589cf
+record: 2cd4c6e5e8e5
 ---
 
 # News, Oct – Nov 2026
@@ -246,6 +246,20 @@ Namibia's NAM-CSIRT, housed at the regulator CRAN, recorded 506,143 vulnerabilit
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fraud and cybersecurity summit</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersecurity summit to focus on rising digital fraud](https://neweralive.na/cybersecurity-summit-to-focus-on-rising-digital-fraud/)** — New Era, 24 November 2026
+
+BAN and Bank of Namibia summit; N$32.45m payment fraud losses H1 2026; 32,399 bank fraud incidents Q1 2026.
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -357,6 +371,20 @@ Payment fraud cost Namibians N$32.45 million in the first half of 2026, up 18.9%
 **[Namibian banks handle 25% of SADC payments](https://www.namibian.com.na/namibian-banks-handle-25-of-sadc-payments/)** — The Namibian, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 Namibian banks settled R708 billion through the SADC regional payment system in 2025, 25% of its R2.8 trillion total. The figures come from the Bank of Namibia's 2025 annual report. All Namibian participants moved to ISO 20022 messaging in November 2025. In December 2025 Namibia ranked second by value at R76.33 billion, behind South Africa.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government-to-person payments on the instant payment platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[“Cybersecurity Is No Longer Merely An Information Technology Concern,” Says Shafudah | Business Pulse 360°](https://businesspulse360.com/article/cybersecurity-is-no-longer-merely-an-information-technology-concern-shafuda-says)** — Business Pulse 360, 25 November 2026
+
+Namibia's Ministry of Finance told the Namibia Fraud & Cybersecurity Summit on 24 November 2026 that government-to-person payments through the Instant Payment System rose from about 1 million in July 2026 to 26 million in October. It gave 10 million for August and 25 million for September, without stating the unit. It put financial inclusion at about 86% in 2025.
 
 </div>
 
