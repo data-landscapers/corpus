@@ -1,6 +1,6 @@
 ---
 title: Djibouti: status report
-compiled: 2026-11-16
+compiled: 2026-11-26
 place: DJI
 region: XEA
 built_by: STATUS-INIT
@@ -418,7 +418,7 @@ The China Meteorological Administration [handed MAZU-Djibouti 2.0 to Djibouti on
 <!-- derived -->
 DJIBOUTI-1A passed that two-year mark around November 2025 and DJIBOUTI-1B reaches it in December 2026. The two postures point opposite ways on ownership: the sovereign asset is a coarse ground-station relay, while the operationally consequential capability — port and airport hazard alerting — runs on Chinese satellites, models and hardware, donated rather than procured.
 
-IGAD, headquartered in Djibouti, [issued an expression of interest on 5 March 2026](https://necjogha.net/igad-seeks-consultant-for-crop-monitoring-and-forecasting-to-strengthen-food-systems-resilience/) for a consultant to build satellite-based crop-condition monitoring across the member states. The monitoring is to use [vegetation, soil-moisture, land-surface-temperature and rainfall-anomaly indicators](https://necjogha.net/igad-seeks-consultant-for-crop-monitoring-and-forecasting-to-strengthen-food-systems-resilience/) to detect crop stress and feed ICPAC's regional early-warning dashboards. [The Council of Ministers approved a draft decree on 11 June 2024 setting one geodetic reference for all mapping and cadastral work](https://www.adi.dj/article/11947). Domestically, a [JICA-supported project to modernise the management of geospatial information closed in December 2025](https://www.lanation.dj/cloture-dun-projet-cle-pour-moderniser-la-gestion-de-linformation-geospatiale/).
+IGAD, headquartered in Djibouti, [issued an expression of interest on 5 March 2026](https://web.archive.org/web/20260714184321/https://necjogha.net/igad-seeks-consultant-for-crop-monitoring-and-forecasting-to-strengthen-food-systems-resilience/) for a consultant to build satellite-based crop-condition monitoring across the member states. The monitoring is to use [vegetation, soil-moisture, land-surface-temperature and rainfall-anomaly indicators](https://web.archive.org/web/20260714184321/https://necjogha.net/igad-seeks-consultant-for-crop-monitoring-and-forecasting-to-strengthen-food-systems-resilience/) to detect crop stress and feed ICPAC's regional early-warning dashboards. [The Council of Ministers approved a draft decree on 11 June 2024 setting one geodetic reference for all mapping and cadastral work](https://www.adi.dj/article/11947). Domestically, a [JICA-supported project to modernise the management of geospatial information closed in December 2025](https://www.lanation.dj/cloture-dun-projet-cle-pour-moderniser-la-gestion-de-linformation-geospatiale/).
 
 ## Geopolitics
 
