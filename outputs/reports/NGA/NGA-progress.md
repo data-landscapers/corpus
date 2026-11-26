@@ -3,10 +3,10 @@ title: Nigeria — progress report, November 2025 – November 2026
 compiled: 2026-11-26
 period: 2025-11-01 to 2026-11-26
 place: NGA
-ledger_rows: 729
+ledger_rows: 730
 not_held: 8
 indicators: 115
-record: 972ab55b6ae7
+record: e073bad36d75
 ---
 
 # Nigeria: progress report, November 2025 – November 2026
