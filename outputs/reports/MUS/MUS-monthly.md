@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: MUS
-ledger_rows: 46
+ledger_rows: 47
 not_held: 7
-record: 4bed920b4342
+record: ecdc4977380c
 ---
 
 # News, Oct – Nov 2026
@@ -273,6 +273,20 @@ Cassava Technologies and Mauritius Telecom signed a memorandum of understanding 
 **[Portabilité mobile : Garder son numéro en changeant d'opérateur](https://lexpress.mu/s/garder-son-numero-en-changeant-doperateur-563369)** — L'Express (Maurice), 8 October 2026
 
 Mauritius' ICT Authority opened a call for applications for a new mobile number portability licence, announced at a three-day ICTA workshop in Balaclava reported on 8 October 2026. Chairman Tassarajen Pillay Chedumbrum said subscribers will be able to keep their number and SIM when changing operator. No launch date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICTA committee on mobile mast deployment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Couverture mobile : l’ICTA met en place un comité pour accélérer l’installation des antennes-relais](https://defimedia.info/couverture-mobile-licta-met-en-place-un-comite-pour-accelerer-linstallation-des-antennes-relais)** — Defimedia, 25 November 2026
+
+Mauritius's ICTA set up a multi-stakeholder committee to speed up mobile mast installation, in a communiqué of 24 November 2026. Its first priorities are revising the PPG7 planning guidance for telecom infrastructure and new sites at Salazie and Pont-Bon-Dieu. Mauritius Telecom, Emtel and MTML are among its members.
 
 </div>
 

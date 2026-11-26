@@ -17,7 +17,9 @@ gov.policy--broadband-strategy,No change,"The [broadband policy ran to 2020](201
 
 Six years past its horizon, the instruments actually moving broadband are the regulator's: the 700 MHz band opened for IMT and 5G in December 2025 ([decision](2025-12-22-icta-700mhz-imt-5g-decision)) and the 2300-2400 MHz band in June 2026 ([decision](2026-06-04-icta-2300-2400mhz-imt-5g-decision)).
 
-No replacement policy, coverage target or universal service obligation is held. The policy layer has fallen behind the licensing layer rather than directing it.",MUS-gov.policy-broadband-policy|MUS-infra.connect-imt-spectrum,2,MUS-gov.policy-broadband-policy,,,,,,,2026-08-31,0,Broadband policy 2012-2020 expired with no successor adopted; spectrum moves by regulator decision instead
+No replacement policy, coverage target or universal service obligation is held. The policy layer has fallen behind the licensing layer rather than directing it.
+
+2026-11-24 - [the regulator set up a committee with the mobile operators to speed mast deployment, starting with a revision of the PPG7 planning guidance](2026-11-25-mus-couverture-mobile-l-icta-met-en-place-un-comite-pour-accelerer-antennes).",MUS-gov.policy-broadband-policy|MUS-infra.connect-imt-spectrum|MUS-infra.connect-mast-deployment-committee,2,MUS-gov.policy-broadband-policy,,,,,,,2026-08-31,0,Broadband policy 2012-2020 expired with no successor adopted; spectrum moves by regulator decision instead
 gov.policy--data-storage-cloud-strategy,Movement,No cloud or storage policy is held; Cabinet [explored a National Sovereign Cloud on VMware technology](2026-04-26-mus-maurice-veut-lancer-un-national-sovereign-cloud-pour-proteger-ses-donn) in April 2026 after a market sounding in 2025.,"2026-04-24 — [Cabinet explored a National Sovereign Cloud under the digital transformation blueprint, after talks with Broadcom](2026-04-26-mus-maurice-veut-lancer-un-national-sovereign-cloud-pour-proteger-ses-donn); no contract or site is held.
 
 A request for information for a sovereign cloud for government reached a second clarification in September 2025 ([clarification](2025-09-19-sovereign-cloud-rfi-clarification-no-2)).
