@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: MOZ
-ledger_rows: 43
+ledger_rows: 47
 not_held: 17
-record: afdfd6738c91
+record: 73168bf28225
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: afdfd6738c91
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -197,6 +199,20 @@ Mozambique's parliamentary Standing Commission on 1 October 2026 placed a Person
 **[Parlamento alarga calendário de trabalhos para responder à agenda legislativa](https://aimnews.org/2026/10/26/parlamento-alarga-calendario-de-trabalhos-para-responder-a-agenda-legislativa/)** — Agência de Informação de Moçambique (AIM), 26 October 2026
 
 Mozambique's Assembly of the Republic may sit on Fridays and Saturdays during its session from 28 October to 22 December 2026. The reason is the volume of business. The plenary agenda for 6 November includes the bill on personal data protection. It also includes bills on the Highway Code and aeronautical registration.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Registration and licensing regime for digital platforms and intermediary service providers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INTIC reforça regulação do ecossistema digital com mais de 300 entidades registadas e operadores licenciados](https://revista.tempo.co.mz/intic-reforca-regulacao-do-ecossistema-digital-com-mais-de-300-entidades-registadas-e-operadores-licenciados)** — Revista Tempo, 24 November 2026
+
+300+ platforms and intermediaries registered, 50+ licensed; Decree 59/2023 registration, licensing since January 2026.
 
 </div>
 
@@ -690,6 +706,28 @@ Mozambique's Asset Management Office launched an e-auction platform for assets s
 
 </div>
 
+## Digitalisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#rural-digital-data-capture">Rural digital data capture</a>
+</nav>
+
+### Rural digital data capture
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Seed Tracking and Labelling System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Chapo launches PROSPERA to strengthen households' productive capacity](https://aimnews.org/2026/11/11/chapo-launches-prospera-to-strengthen-households-productive-capacity/)** — Agência de Informação de Moçambique (AIM), 11 November 2026
+
+AI-backed 'Olá Produtor' farm advisory service; QR-code national seed tracking and labelling system.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -707,6 +745,20 @@ Mozambique's Asset Management Office launched an e-auction platform for assets s
 **[Country Profile on AI Governance: Mozambique](https://www.aipolicy.africa/country-profiles/mozambique)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Mozambique scored 0.96 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 34 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are fellow-assigned, strongest Strategy and Vision (1.60) and weakest Implementation and Impact (0.30); the profile lists a draft AI strategy not yet adopted, an AI commission created and no data protection law.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Guidelines on artificial intelligence in schools</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo prepara regras para uso de Inteligência Artificial nas escolas](https://moztoday.com/arquivo/7986)** — MozToday, 16 October 2026
+
+Education ministry council backs 19-article AI-in-schools guidelines; joint ministerial diploma to follow.
 
 </div>
 
@@ -749,6 +801,20 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 **[Study Projects US$324M Boost to Mozambique’s GDP from AI Over the Next Decade - Consulting.co.mz | Business Consulting, Procurement & Audit in Mozambique](https://consulting.co.mz/study-projects-us324m-boost-to-mozambiques-gdp-from-ai-over-the-next-decade/)** — Consulting.co.mz, 6 November 2026
 
 The 2026 Ayre Index, reported on 6 November 2026, ranks Mozambique 44th of 56 Commonwealth countries on youth readiness for AI. It scores 38.9 out of 100 against a threshold of 53. The study projects AI could add US$324 million to GDP over ten years. It cites electricity access of 36.9% and internet use of 35% among young people.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Olá Produtor farm advisory service</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Chapo launches PROSPERA to strengthen households' productive capacity](https://aimnews.org/2026/11/11/chapo-launches-prospera-to-strengthen-households-productive-capacity/)** — Agência de Informação de Moçambique (AIM), 11 November 2026
+
+Summarised under [Rural digital data capture](#rural-digital-data-capture).
 
 </div>
 
