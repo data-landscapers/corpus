@@ -3,9 +3,9 @@ title: Kenya — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: KEN
-ledger_rows: 125
+ledger_rows: 126
 not_held: 5
-record: 58f67928c2b1
+record: 785875a3fcb5
 ---
 
 # News, Oct – Nov 2026
@@ -641,6 +641,20 @@ The Star reported on 6 November 2026 that Seacom's chief technology officer, Pre
 **[Savanna Targets One Million New Fibre Connections in East Africa](https://nilepost.co.ug/businesses/388110/savanna-targets-one-million-new-fibre-connections-in-east-africa)** — Nile Post, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
 Savanna Telecom announced plans on 17 November 2026 for one million more fibre home passes across Uganda, Tanzania and Kenya in 2027. This would double its coverage to over two million homes. It reports over 250,000 active fibre-to-the-home subscribers, 16,000km of fibre built and 8,000km under construction. FiberHome is its equipment partner.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Zuku fixed internet (Wananchi Group)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cheaper Zuku wins back customers, but losses continue under Axian](https://techcabal.com/2026/11/26/zuku-wins-back-customers-under-axian/)** — TechCabal, 26 November 2026
+
+Wananchi Group, which owns Kenyan internet provider Zuku, reported a $2 million loss on $11.5 million revenue in the third quarter of 2026, a year after Axian Telecom bought it for $69.4 million. Losses since January total $8.1 million. Zuku doubled fibre speeds in May without raising prices and cut monthly rates three months later. The article reports fixed-internet subscriptions up 10.4% in the first half.
 
 </div>
 
