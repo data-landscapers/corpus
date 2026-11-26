@@ -246,6 +246,10 @@
 .mat-norm p + p { display: none; }
 .mat-norm a { color: var(--link); }
 #mat-side-country { scroll-margin-top: calc(var(--header-h) + 3.5rem); }
+/* The country box reads larger than the criteria's, to fill the room it has (Bill, 2026-11-26). */
+#mat-side-country:not(.is-empty) { font-size: .95rem; }
+#mat-side-country h2 { font-size: 1.2rem; }
+#mat-side-country .mat-side__meta { font-size: .84rem; }
 .mat-side section.is-empty { display: flex; align-items: center; justify-content: center; min-height: 8rem; padding: 1rem; }
 .mat-side__empty { margin: 0; font-family: var(--display); font-size: 1.5rem; color: var(--ink-faint); text-align: center; }
 .mat-side__meta { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem .9rem; margin: 0 0 .6rem; font-size: .74rem; color: var(--ink-light); }
