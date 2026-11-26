@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: ETH
 ledger_rows: 44
 not_held: 5
-record: 441082c29bdb
+record: 577a9395befc
 ---
 
 # News, Oct – Nov 2026
@@ -252,7 +252,7 @@ The EU committed €20 million in Addis Ababa on 25 November 2026 to a four-year
 
 **[Ethiopia and World Bank Review Regional Digital Integration Project](https://techafricanews.com/2026/11/25/ethiopia-world-bank-review-regional-digital-integration-project/)** — TechAfrica News, 25 November 2026
 
-Ethiopia and the World Bank agreed a joint review of the Eastern Africa Regional Digital Integration Project, reported on 25 November 2026. The review is to restructure activities and speed up implementation. It comes as the Ethiopia Digital Foundations Project closes.
+Ethiopia and the World Bank agreed a joint review of the Eastern Africa Regional Digital Integration Project, reported on 25 November 2026. The review is to examine whether to restructure activities and how to speed up implementation. It comes as the Ethiopia Digital Foundations Project closes.
 
 </div>
 
