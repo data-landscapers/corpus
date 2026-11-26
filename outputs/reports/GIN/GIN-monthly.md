@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: GIN
-ledger_rows: 26
+ledger_rows: 27
 not_held: 2
-record: 4f1592b6b938
+record: 049f92ae8a9f
 ---
 
 # News, Oct – Nov 2026
@@ -269,6 +269,20 @@ Guinea has awarded a 12-month, USD 26,400 consultancy, signed on 7 September 202
 **[Plateforme de la DGECS : des parents guinéens alertent sur des notes non renseignées](https://educationactu.com/11224-2/)** — Educationactu, 31 October 2026
 
 Parents in Koundara, Conakry, Gaoual and Léro reported missing marks, unregistered pupils and registration numbers at the wrong grade on Guinea's DGECS school-records platform (reported October 2026). They fear pupils will have to repeat years. DGECS director general Mamady 49 Keïta defended the platform, in use since 2024, and told schools how to correct files.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ADAMS Guinee road-accident data system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Accidents de la circulation : l’AGUISER renforce le dispositif de collecte des données - Refletguinee](https://www.refletguinee.com/accidents-de-la-circulation-laguiser-renforce-le-dispositif-de-collecte-des-donnees/)** — Reflet Guinée, 24 November 2026
+
+ADAMS Guinée training for police, gendarmes, civil protection and health staff, 24-25 Nov 2026; black-spot mapping.
 
 </div>
 
