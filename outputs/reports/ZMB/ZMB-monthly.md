@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: ZMB
-ledger_rows: 41
+ledger_rows: 42
 not_held: 30
-record: a426889faaf8
+record: 1ea056c02586
 ---
 
 # News, Oct – Nov 2026
@@ -610,6 +610,8 @@ SES and the ITU's Partner2Connect coalition plan to connect 30 rural schools in 
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
 </nav>
 
 ### AI
@@ -637,6 +639,22 @@ Zambia's technology ministry is piloting Njila.ai, an artificial-intelligence ca
 **[Lusaka's water is about to get smarter](https://www.undp.org/zambia/news/lusakas-water-about-get-smarter)** — United Nations Development Programme (Zambia), 14 October 2026
 
 UNDP Zambia and the Lusaka Water Supply and Sanitation Company launched a pilot that will use AI on the utility's production, metering, billing and network data to find where water is lost. The work will run on the timbuktoo EDGE sovereign compute node at the University of Zambia AI UniPod; the partnership MOU has not yet been signed and no amount is stated.
+
+</div>
+
+</div>
+
+### ICT Industry
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Startup ERP platform for small businesses (Infratel and Probase)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government Backs MSME Digitalisation Drive](https://www.lusakatimes.com/2026/11/25/government-backs-msme-digitalisation-drive/)** — Lusaka Times, 25 November 2026
+
+Zambia's Minister of Small and Medium Enterprise Development, Lackson Sichone, spoke at the 2026 Infratel MSME Digital Open Day, reported on 25 November 2026. Infratel and the fintech Probase presented Startup ERP, a tiered business system. Its invoicing meets Zambia Revenue Authority requirements, with a one-month trial. The minister urged lenders to design finance for digitally run small firms.
 
 </div>
 
