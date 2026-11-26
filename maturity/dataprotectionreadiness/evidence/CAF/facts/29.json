@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-24-caf-icasees-la-politique-de-diffusion-des-donnees-et-la-procedure-danonymi",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "ICASEES's draft dissemination policy of 24-25 November 2026 is stated to conform to law no. 24.001 on personal data protection, treated as existing law.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "Law no. 24.001 on personal data protection",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
