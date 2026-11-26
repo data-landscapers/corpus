@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-25-sen-budget-2027-du-numerique-la-pleniere-de-vendredi-est-bloquee-et-65-mil",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "NovoTech, citing the digital minister's report, says the World Bank-financed PAENS keeps FCFA 14 billion in 2027 to cover white zones, deploy community wifi and connect schools, with under 10% of its funds executed in 2026 and a tender for nearly 300 white-zone sites being finalised.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "PAENS",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAENS",
+   "country_label": "Senegal",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministere des Telecommunications et du Numerique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
