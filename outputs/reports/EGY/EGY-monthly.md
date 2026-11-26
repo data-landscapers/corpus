@@ -3,9 +3,9 @@ title: Egypt — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: EGY
-ledger_rows: 83
-not_held: 34
-record: cac378ca3eee
+ledger_rows: 86
+not_held: 33
+record: 9b811ce5480e
 ---
 
 # News, Oct – Nov 2026
@@ -888,6 +888,20 @@ A Cairo ICT 2026 panel on 9 November 2026 discussed medical AI in Egypt. Health 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Educational Republic platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt signs cooperation protocol to establish AI-powered Educational Republic platform](https://techreviewafrica.com/news/8527/egypt-signs-cooperation-protocol-to-establish-ai-powered-educational-republic-platform)** — Tech Review Africa, 26 November 2026
+
+Egypt's Ministry of Communications and Information Technology and the National Press Authority signed a cooperation protocol to build the Educational Republic learning platform, with the publisher Dar Al-Tahrir. The platform will use AI and data analysis to offer lessons, question banks and quizzes. The ministry will supply cloud, AI and data analysis technology and apply cybersecurity and data protection standards. The signing date is not stated.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -1342,6 +1356,20 @@ Telecom Egypt's revenue for the first nine months of 2026 rose 19% year on year 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">iQor delivery centre, New Cairo</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt’s ICT Minister inaugurates iQor delivery centre as company plans $100m investment](https://techreviewafrica.com/news/8513/egypt-s-ict-minister-inaugurates-iqor-delivery-centre-as-company-plans-100m-investment)** — Tech Review Africa, 26 November 2026
+
+Egypt's ICT minister, Raafat Hendy, inaugurated a delivery centre in New Cairo run by US outsourcing firm iQor. The centre employs about 500 people serving clients in eight languages. iQor says it plans a further $100 million investment over five to seven years, after $15 million committed in 2025 and 2026. The inauguration date is not stated.
+
+</div>
+
+</div>
+
 ### Innovation ecosystem
 
 <div class="monthly-story" markdown="1">
@@ -1367,6 +1395,20 @@ Egypt's information technology development agency ITIDA launched the fifth round
 **[PM: Technology, innovation prerequisites for developing foreign trade, boosting competitiveness](https://sis.gov.eg/en/media-center/news/pm-technology-innovation-prerequisites-for-developing-foreign-trade-boosting-competitiveness/)** — State Information Service, 18 November 2026
 
 Egypt launched a Trade Tech Regulatory Sandbox and Innovation Hub on 18 November 2026, coordinated by the Ministry of Investment and Foreign Trade. It tests trade solutions in a controlled setting, including AI, payments, digital identity and electronic documents. More than 15 ideas were received before launch.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Hackathon for government financial services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt’s Finance and ICT Ministries Launch AI Hackathon to Engage Startups in Government Innovation](https://mof.gov.eg/en/media/learn-more/news-57)** — Ministry of Finance, Egypt, 25 November 2026
+
+Four finance-ministry challenges; three-week entry window via ITIDA; cash prizes and possible implementation contracts.
 
 </div>
 
