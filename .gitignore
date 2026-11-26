@@ -175,3 +175,4 @@ logs/.link-check.lock
 build/whos-who/positions.csv
 build/whos-who/merge-candidates.csv
 build/whos-who/authors.csv
+logs/claim-audit/

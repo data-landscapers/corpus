@@ -19,7 +19,7 @@ last_reviewed: 2026-10-03
 
 **Its rules are not restated here**: `CLAUDE.md` → *The exchange* and the share's `README.md` → *Conventions*. This file says only when it runs.
 
-**An empty queue is the normal outcome and writes nothing** — no log line, no message, no commit. Where the drain did work it writes its own `· **NOTES** ·` line before the build's, naming the numbers closed.
+**An empty queue writes nothing** — no log line, message or commit. Where the drain did work it writes its own `· **NOTES** ·` line before the build's, naming the numbers closed.
 
 **A note too large for the run does not hold the cycle, and neither does one that fails.** Take the conservative option and state it, never stop to ask: annotate the note with what was established, leave it open at its number, put a line in the build half's message to Bill, and go on to the build. **Never start the build over a half-written share**: commit and push before stage 0, or leave the share untouched.
 
@@ -45,26 +45,27 @@ A record arriving before stage 2 is built; later ones are the next cycle's.
 
 ## The run
 
-1. **Drain `corpus-notes.md`**, as above. Nothing open, nothing to do — go straight to 2.
+1. **Drain `corpus-notes.md`**, as above. Nothing open — go to 2.
 1a. **Run `python scripts/traffic.py pull`**, then commit the three `logs/site-analytics-*.csv` alone if they changed, subject `Analytics: <newest day>`. A failure is a log line, never a hold.
 1b. **Send dead links** if `python scripts/link-check.py owed` exits 1: `link-check.py batch`, commit both its CSVs (`Links: dead batch <date>`), then the `[ACT]` note its docstring describes.
 2. **Read the sentinel.** If `logs/.build-in-progress` is present, an earlier build died unaccounted. **In a cycle this is a note, not a stop**: the run about to start is the repair — stage 4 resumes on a set difference. Say in the build line that it resumed.
 3. **Run `BUILD.md`, whole, stage 0 to the end of its ending sequence** — including the ending sequence, which is what puts the tree into the state the seam reads.
-3a. **Finance upkeep** *(Bill, 2026-10-01; the share's `documentation/finance-upkeep.md` is the rule and is not restated here)*. `python scripts/budget-watch.py poll`, every live library. Then budget readings: `logs/budget-followups.md` and any reading a drained note asked for, oldest first, each by `BUDGET-EXTRACT.md`, **until two hours by the clock are used or nothing is waiting — never stopping early on judgement** *(Bill, 2026-10-02)*. Then judge any deal the finance build printed as `NOT YET ASSESSED` into `lookups/deal-scope.csv`. Rebuild finance if anything moved, commit, and put the number of readings still waiting in the build line.
+3a. **Finance upkeep** *(Bill, 2026-10-01; the rule is the share's `documentation/finance-upkeep.md`)*. `python scripts/budget-watch.py poll`, every live library. Then budget readings: `logs/budget-followups.md` and any reading a drained note asked for, oldest first, each by `BUDGET-EXTRACT.md`, **until two hours by the clock are used or nothing is waiting — never stopping early on judgement** *(Bill, 2026-10-02)*. Then judge any deal the finance build printed as `NOT YET ASSESSED` into `lookups/deal-scope.csv`. Rebuild finance if anything moved, commit, and put the number of readings still waiting in the build line.
 4. **Run `UNIT-REVIEW.md`** if `python scripts/unit-review.py next` (with `--poll` from the loop) names units, for each in turn. Exit 1 — go to 5. **A maturity study whose handover note has closed** (`lint-prepared.py` names it) **is named in the cycle's closing report and not completed here**: step 5 opens in a fresh session (method §0). **Then `MATURITY-UPDATE.md` → *The rebuild***, two indicators, on `study-update.py next` the same way.
+4a. **Claim audit** *(R182)*: `claim-audit.py sample`, a fresh sub-agent a worksheet on its `brief`, `record`, failures repaired before step 5 (docstring). Commit `Audit: claims <date>`.
 5. **Run `RENDER.md` Step 0**, unchanged. A stop here ends the cycle.
 6. **Run `RENDER.md` Steps 1 to 7**, then its *Log* and its *Mirror*. Unchanged, in order.
 7. **Run `python scripts/r2-sync.py --mirror-down --weekly`** — the editions' second copy, idle within a week of its last clean pull. Log a pull: `python scripts/log-line.py copy "<the R2 copy line>"`. Exit 1 is a message to Bill.
 7a. **`python scripts/country-reference.py --quarterly`**; `DUE` lines → `documentation/country-reference.md`.
-8. **Rebuild Research's search index, last and alone** *(Bill, 2026-10-29)* — after housekeeping. `C:\Research\handovers\index-build-for-corpus.md` is the procedure; log it as `log-line.py index`. Each failure is a new block to Bill *(message 102)*.
+8. **Rebuild Research's search index, last and alone** *(Bill, 2026-10-29)* `C:\Research\handovers\index-build-for-corpus.md` is the procedure; log it as `log-line.py index`. Each failure is a new block to Bill *(message 102)*.
 
 The cycle has no stage of its own; steps 1, 4 and 8 are jobs run where they count.
 
 ## What does not change
 
-- **`· **BUILD** ·`, `· **REVIEW** ·` and `· **RENDER** ·`, exactly as each job writes them — no `· **CYCLE** ·` job name.** A `· **NOTES** ·` line sits ahead of them on the cycles where there was something to drain.
+- **`· **BUILD** ·`, `· **REVIEW** ·` and `· **RENDER** ·`, exactly as each job writes them — no `· **CYCLE** ·` job name.** A `· **NOTES** ·` line precedes them when something was drained.
 - **Two message blocks, each written by the half that owes it, when it owes it.**
-- **The `.build-in-progress` sentinel stays, and there is no cycle sentinel.** A cycle that dies during the render half is repaired by a render, or by another whole cycle.
+- **The `.build-in-progress` sentinel stays, and there is no cycle sentinel.** A cycle dying in the render half is repaired by a render or another cycle.
 - **Commit discipline is unchanged**: one commit per coherent stage in both halves; the cycle adds none.
 
 ## Running unattended — a cycle ends three ways

@@ -227,7 +227,7 @@ The EU committed €20 million in Addis Ababa on 25 November 2026 to a four-year
 
 **[Ethiopia and World Bank Review Regional Digital Integration Project](https://techafricanews.com/2026/11/25/ethiopia-world-bank-review-regional-digital-integration-project/)** — TechAfrica News, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a>
 
-Ethiopia and the World Bank agreed a joint review of the Eastern Africa Regional Digital Integration Project, reported on 25 November 2026. The review is to restructure activities and speed up implementation. It comes as the Ethiopia Digital Foundations Project closes. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+Ethiopia and the World Bank agreed a joint review of the Eastern Africa Regional Digital Integration Project, reported on 25 November 2026. The review is to examine whether to restructure activities and how to speed up implementation. It comes as the Ethiopia Digital Foundations Project closes. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
 
 </div>
 
@@ -291,7 +291,7 @@ Angola's 2027 budget proposal would raise its Angola Online free internet points
 
 **[Budget 2027 du numérique : la plénière de vendredi est bloquée, et 65 milliards de FCFA de projets attendent leur sort](https://novotech.blog/article/budget-2027-du-numerique-la-pleniere-de-vendredi-est-bloquee-et-65-milliards-de)** — NovoTech, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
-Senegal's FCFA 64.97 billion 2027 digital ministry budget cannot go to its 27 November plenary, NovoTech reported on 25 November 2026. The National Assembly rejected the first part of the finance bill on 18 November, which bars debate on ministry credits. The minister's report shows the PAENS programme spent under 10% of its 2026 funds. None of over 400 Startup Act registrants had been labelled by 30 June 2026. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [Connectivity](#connectivity).*</span>
+Senegal's FCFA 64.97 billion 2027 digital ministry budget cannot go to its 27 November plenary, NovoTech reported on 25 November 2026. The National Assembly rejected the first part of the finance bill on 18 November, and its president said that bars debate on ministry credits. The minister's report shows the PAENS programme spent under 10% of its 2026 funds. None of over 400 Startup Act registrants had been labelled by 30 June 2026. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [Connectivity](#connectivity).*</span>
 
 </div>
 
@@ -473,7 +473,7 @@ UNDP Zimbabwe opened a request for proposals on national health data ingestion o
 
 **[Government launches system to improve labour market planning](https://www.heraldonline.co.zw/government-launches-system-to-improve-labour-market-planning/)** — The Herald, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
 
-Zimbabwe launched the Zimbabwe Labour Market Information System, a portal combining ZIMSTAT, NSSA and other agencies' data on jobs, wages, productivity, social security and skills, The Herald reported on 25 November 2026. The ICT ministry hosts it at the National Data Centre. The system feeds the SADC Labour Market Observatory. <span class="bulletin-item__also">*Also under [National statistics](#national-statistics).*</span>
+Zimbabwe launched the Zimbabwe Labour Market Information System, a portal combining ZIMSTAT, NSSA and other agencies' data on jobs, wages, productivity, social security and skills, The Herald reported on 25 November 2026. The ICT ministry hosts it at the National Data Centre. The system is meant to strengthen Zimbabwe's part in the SADC Labour Market Observatory. <span class="bulletin-item__also">*Also under [National statistics](#national-statistics).*</span>
 
 </div>
 

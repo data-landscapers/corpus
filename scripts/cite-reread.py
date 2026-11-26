@@ -81,7 +81,8 @@ def sentences(para):
     """Sentences of a paragraph, split only outside links. `status_lib.sentences()` splits inside link
     text too (`S.I. No. 74`, `poa! Internet`), which cut a link in half and dropped it from the
     worksheet; masking the links first keeps every link inside exactly one sentence."""
-    masked = LINK.sub(lambda m: "x" * len(m.group(0)), para)
+    # the mask keeps the opening `[`, so a sentence that opens on a link still starts a sentence
+    masked = LINK.sub(lambda m: "[" + "x" * (len(m.group(0)) - 1), para)
     out, start = [], 0
     for b in re.finditer(r"(?<=[.!?])\s+(?=[A-Z“\"'\[])", masked):
         out.append(para[start:b.start()].strip()); start = b.end()
