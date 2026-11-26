@@ -1,12 +1,12 @@
 ---
 title: Ghana: status report
-compiled: 2026-11-25
+compiled: 2026-11-26
 place: GHA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 15
-sources_cited: 364
+sources_cited: 365
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -126,7 +126,7 @@ The [World Bank's US$200 million Ghana Digital Acceleration Project runs 2022-20
 ### Connectivity
 <!-- infra.connect -->
 
-On 11 September 2026 [both 700 MHz 5G lots went to MTN Ghana, the sole qualified applicant, for US$100.9m](https://nca.org.gh/2026/09/11/update-on-the-5g-spectrum-licensing-process/). [Telecel Ghana took the three 2.3 GHz lots it applied for](https://www.myjoyonline.com/nca-awards-5g-spectrum-to-telecel-ghana/). On 2 October 2026 [MTN Ghana announced the award of all three 3 GHz lots for US$101.1m, on 15-year licences](https://mtn.com.gh/wp-content/uploads/2026/10/MTNGH-GSE-Announcement-MTN-Ghana-Awarded-Spectrum-in-the-700MHz-and-3GHz-Bands.pdf). In the 2026 auction [MTN Ghana, the one operator designated as holding significant market power, paid a 40% premium on its reserve](https://nca.org.gh/wp-content/uploads/2026/07/RFA_5G_Spectrum_16072026.pdf). On 15 July the regulator had [deleted the exclusivity clause from NGIC's wholesale 5G licence](https://techafricanews.com/2026/07/17/ghana-ends-ngics-exclusive-wholesale-5g-licence-to-boost-competition/). Licensees must reach [70% population coverage by 6 March 2027, partly from existing networks](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf).
+On 11 September 2026 [both 700 MHz 5G lots went to MTN Ghana, the sole qualified applicant, for US$100.9m](https://nca.org.gh/2026/09/11/update-on-the-5g-spectrum-licensing-process/). [Telecel Ghana took the three 2.3 GHz lots it applied for](https://www.myjoyonline.com/nca-awards-5g-spectrum-to-telecel-ghana/). On 2 October 2026 [MTN Ghana announced the award of all three 3 GHz lots for US$101.1m, on 15-year licences](https://mtn.com.gh/wp-content/uploads/2026/10/MTNGH-GSE-Announcement-MTN-Ghana-Awarded-Spectrum-in-the-700MHz-and-3GHz-Bands.pdf). [On 24 November 2026 the communications minister told Parliament the 5G spectrum sales had raised US$240m](https://www.citinewsroom.com/2026/11/mahama-to-launch-ghanas-5g-network-before-end-of-2026-sam-george/). In the 2026 auction [MTN Ghana, the one operator designated as holding significant market power, paid a 40% premium on its reserve](https://nca.org.gh/wp-content/uploads/2026/07/RFA_5G_Spectrum_16072026.pdf). On 15 July the regulator had [deleted the exclusivity clause from NGIC's wholesale 5G licence](https://techafricanews.com/2026/07/17/ghana-ends-ngics-exclusive-wholesale-5g-licence-to-boost-competition/). Licensees must reach [70% population coverage by 6 March 2027, partly from existing networks](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf).
 
 In 2025 the GSMA reported [3G and 4G population coverage both above 99%](https://www.gsma.com/about-us/regions/africa/wp-content/uploads/2025/09/GSMA_Ghana-Report_September-2025.pdf). [Just under 70% of Ghanaians used the internet](https://data.worldbank.org/indicator/IT.NET.USER.ZS) in 2023. [About two-thirds of the population were unique mobile subscribers](https://www.gsma.com/about-us/regions/africa/wp-content/uploads/2025/09/GSMA_Ghana-Report_September-2025.pdf) (2024). [Only 48% of MTN's subscribers were on 4G at 30 June 2026](https://www.connectingafrica.com/5g-networks/ghana-extends-5g-spectrum-license-application-deadline). In October 2026 the minister put the year's programme at [800 new cell sites and 2,000 upgrades across the two largest operators](https://techafricanews.com/2026/10/16/ghana-2800-telecom-site-builds-upgrades/). In April 2024 the regulator [put the average price of a gigabyte of mobile data at GH₵6.30 a month, from GH₵1.08 to GH₵16.77](https://nca.org.gh/wp-content/uploads/2024/07/The-Cost-of-1GB-of-Data-in-Ghana.pdf).
 
