@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: ZAF
-ledger_rows: 132
+ledger_rows: 134
 not_held: 17
-record: c3a23cbc561e
+record: b80de269f206
 ---
 
 # News, Oct – Nov 2026
@@ -676,6 +676,14 @@ ICASA opened a stakeholder questionnaire on 10 November 2026 on the second phase
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[ICASA Notice 4276 of 2026: Extension of the closing date for responses to the Questionnaire on the Assignment of High-Demand Radio Frequency Spectrum, Government Gazette No. 55790](https://www.gov.za/sites/default/files/gcis_document/202611/55790gen4276.pdf)** — Independent Communications Authority of South Africa (Government Gazette No. 55790), 25 November 2026
+
+Closing date moved from 30 Nov 2026 to 29 Jan 2027; no further extension.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -779,6 +787,28 @@ The explainer outlet /explain/ published a critical account on 23 November 2026 
 **[Vodacom, Huawei trial ‘golden’ spectrum band](https://www.itweb.co.za/article/vodacom-huawei-trial-golden-spectrum-band/KWEBbvyL2PaqmRjO)** — ITWeb South Africa, 23 November 2026
 
 Vodacom and Huawei showed Upper 6GHz fixed wireless use cases at the Africa Tech Festival in the week before 23 November 2026. The companies put commercial deployment about two years away. South Africa's communications regulator published its allocation plan for the band in July.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SAEx East subsea cable (Cape Town to Singapore)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Request for Proposals: Transaction Advisors for the SAEX East Subsea Fibre-Optic Cable Project (Phase 1)](https://www.dbsa.org/sites/default/files/media/documents/2026-11/RFP228.2026-SAEx%20East%20Subsea%20Fibre-Optic.pdf)** — Development Bank of Southern Africa, 24 November 2026
+
+RFP228/2026 for Phase 1 transaction advisors, 24 months; briefing 7 Dec, closing 15 Dec 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RFP228/2026 Part E: Terms of Reference for the Procurement of Transaction Advisors for the SAEx East Subsea Fibre-Optic Cable Project (Phase 1)](https://www.dbsa.org/sites/default/files/media/documents/2026-11/RFP228.2026-Part%20E-SAEx%20East%20Subsea%20Fibre-Optic%20TOR.pdf)** — Development Bank of Southern Africa (Infrastructure Finance and Implementation Support Agency, IFISA), 24 November 2026
+
+Part E TOR: 11,700 km all-wet Cape Town-Singapore cable; bankability, BBI business case and BFI bid.
 
 </div>
 
@@ -1825,6 +1855,20 @@ South Africa's Minister in the Presidency, Khumbudzo Ntshavheni, spoke in San Jo
 **[No budget for digital border control at land ports as SA faces busy festive season](https://www.citizen.co.za/news/south-africa/no-budget-digital-border-control-land-ports-busy-festive-season/)** — The Citizen, 24 November 2026
 
 South Africa's Border Management Authority told Parliament on 24 November 2026 that its biometric system, EMCS 2.0, will reach land ports only as funds allow. It has run at the Johannesburg, Cape Town and Durban airports since August 2026. Land ports have obsolete laptops and thin bandwidth. The four busiest recorded 4.1 million crossings in July-September 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">North West provincial e-recruitment platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[North West Provincial Government's e-recruitment platform to go live on 1 December 2026](https://www.gov.za/news/media-statements/north-west-provincial-governments-e-recruitment-platform-go-live-1-december)** — South African Government, 25 November 2026
+
+Live 1 Dec 2026 in Premier's Office and Health; all departments by 1 Apr 2027; Microsoft SA skills MoU planned.
 
 </div>
 
