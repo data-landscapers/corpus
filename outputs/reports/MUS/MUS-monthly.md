@@ -3,9 +3,9 @@ title: Mauritius — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: MUS
-ledger_rows: 47
+ledger_rows: 48
 not_held: 7
-record: ecdc4977380c
+record: cb5f7b4a6ddd
 ---
 
 # News, Oct – Nov 2026
@@ -287,6 +287,20 @@ Mauritius' ICT Authority opened a call for applications for a new mobile number 
 **[Couverture mobile : l’ICTA met en place un comité pour accélérer l’installation des antennes-relais](https://defimedia.info/couverture-mobile-licta-met-en-place-un-comite-pour-accelerer-linstallation-des-antennes-relais)** — Defimedia, 25 November 2026
 
 Mauritius's ICTA set up a multi-stakeholder committee to speed up mobile mast installation, in a communiqué of 24 November 2026. Its first priorities are revising the PPG7 planning guidance for telecom infrastructure and new sites at Salazie and Pont-Bon-Dieu. Mauritius Telecom, Emtel and MTML are among its members.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Households on the incumbent's residential fibre packages</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mauritius Telecom Upgrades Fibre Internet Speeds for 300,000 Households](https://techafricanews.com/2026/11/26/mauritius-telecom-upgrades-fibre-internet-speeds-for-300000-households/)** — Tech Africa News, 26 November 2026
+
+Mauritius Telecom announced on 25 November 2026 that it had raised speeds on its residential fibre packages at no extra charge, reaching nearly 300,000 households. Some packages are two to three times faster. Customers on higher-speed packages also receive faster uploads and larger data allowances. The upgrades took effect on 25 November.
 
 </div>
 
