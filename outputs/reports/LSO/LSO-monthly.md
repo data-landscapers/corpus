@@ -1,11 +1,11 @@
 ---
 title: Lesotho — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: LSO
-ledger_rows: 14
+ledger_rows: 15
 not_held: 4
-record: 7998b0439e2a
+record: 8c83460d5b97
 ---
 
 # News, Oct – Nov 2026
@@ -59,6 +59,20 @@ Lesotho's ICT minister, Nthati Moorosi, asked the ITU to prioritise affordable c
 **[Eswatini, Lesotho Join Forces to Tackle Cyber Threats](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/)** — Eswatini Positive News, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a>
 
 The Eswatini Communications Commission and the Lesotho Communications Authority signed a memorandum of understanding on 3 October 2026 covering information exchange, joint research, staff development and cybersecurity cooperation, including coordinated incident response, awareness campaigns, training and audits. No budget or timetable is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed international framework for AI-ready unstructured and fragmented data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lesotho - PP-26 policy statement](https://pp.itu.int/2026/en/itu_policy_statements/lesotho-2/)** — ITU Plenipotentiary Conference 2026, Ministry of Information, Communications, Science, Technology and Innovation, 1 November 2026
+
+Minister Moorosi: AI policy 2025, data policy April 2026, compute roadmap Phase One under way; three asks of PP-26.
 
 </div>
 
