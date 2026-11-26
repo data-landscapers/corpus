@@ -3,9 +3,9 @@ title: Ghana — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: GHA
-ledger_rows: 94
+ledger_rows: 95
 not_held: 9
-record: 66a15308c676
+record: 1fe9998b3b5a
 ---
 
 # News, Oct – Nov 2026
@@ -378,13 +378,21 @@ The Bank of Ghana is drafting a directive on the use of artificial intelligence 
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Medical Records Strategy and Operational Guidelines</p>
+<p class="monthly-story__name">Health Data and Health Records Strategy and Operational Guidelines</p>
 
 <div class="bulletin-item" markdown="1">
 
 **[Preparing Ghana's health records for the digital future](https://www.afro.who.int/countries/ghana/news/preparing-ghanas-health-records-digital-future)** — WHO Regional Office for Africa, 12 October 2026
 
 The Ghana Health Service, supported by WHO, convened a national workshop to revise its Medical Records Strategy and Operational Guidelines, written nearly a decade ago. The revision is to cover electronic medical records, data governance, interoperability, cybersecurity and the use of artificial intelligence in healthcare.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana validates new Health Data and Health Records Strategy and Operational Guidelines to strengthen patient data protection and security](https://afro.who.int/countries/ghana/news/ghana-validates-new-health-data-and-health-records-strategy-and-operational-guidelines-strengthen)** — WHO Regional Office for Africa, 25 November 2026
+
+Replaces 2017 policy: patient record access, approval for secondary use, breach procedures; awaits GHS approval.
 
 </div>
 
@@ -623,6 +631,14 @@ Summarised under [Standards](#standards).
 **[Phase one of Ghana's first data centre to be ready in 24 months - Sam George](https://www.citinewsroom.com/2026/10/phase-one-of-ghanas-first-data-centre-to-be-ready-in-24-months-sam-george/)** — Citi Newsroom, 22 October 2026
 
 Ghana's communications minister Samuel Nartey George said phase one of the country's first national data centre should be complete within 24 months, with equipment being procured through the Public Procurement Authority. The centre is meant to give researchers, universities and industry computing capacity they now buy from abroad.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana's $250m AI centre to focus on practical applications, not rival US, China – Ato Forson](https://www.citinewsroom.com/2026/11/ghanas-250m-ai-centre-to-focus-on-practical-applications-not-rival-us-china-ato-forson/)** — Citi Newsroom, 13 November 2026
+
+Finance Minister: modest own AI system, health first; centre in US$300m 2027-28 budget line with rural 4G upgrade.
 
 </div>
 
@@ -1245,6 +1261,20 @@ Ghana's Petroleum Commission introduced a Digital Permit Application Platform to
 **[Digitising the Till While Leaving the Rulebook in the Dark](https://imaniafrica.org/2026/11/digitising-the-till-while-leaving-the-rulebook-in-the-dark/)** — IMANI Africa, 12 November 2026
 
 The think tank IMANI Africa published an audit in November 2026 of 20 Ghanaian government and assembly portals. They were scored out of 12.0 on six digital public infrastructure pillars. The Food and Drugs Authority ranked highest at 11.5. The author argues that agencies have digitised fee collection while leaving laws and procedures poorly published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Non-Tariff Barriers Reporting and Resolution Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Trade Minister launches digital platform to tackle trade barriers in Ghana](https://www.myjoyonline.com/trade-minister-launches-digital-platform-to-tackle-trade-barriers-in-ghana/)** — MyJoyOnline, 26 November 2026
+
+Ghana's Trade Minister, Elizabeth Ofosu-Adjare, launched the National Non-Tariff Barriers Reporting and Resolution Platform. Traders can report barriers by web portal, WhatsApp, social media and USSD, and the platform uses AI to process complaints. She also inaugurated an NTB Resolution Committee and thanked TradeMark Africa, the African Development Bank and the European Union for support.
 
 </div>
 
