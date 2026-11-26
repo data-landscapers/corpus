@@ -75,6 +75,7 @@ from pathlib import Path
 
 import markdown
 from chrome_lib import chrome, external_links, feedback, foot, ga, info, script, styles, with_bom  # noqa: E402
+import indicators_lib  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 CONTENT_DIR = CORPUS / "content"
@@ -400,7 +401,7 @@ def build(md_path: Path, out_dir: Path, *, h1: str, title: str, description: str
           canonical: str, depth: int, bars: str = "", body_class: str = "",
           tables: bool = False, stats: bool = False) -> int:
     out_dir.mkdir(parents=True, exist_ok=True)
-    text = md_path.read_text(encoding="utf-8")
+    text = indicators_lib.fill_counts(md_path.read_text(encoding="utf-8"))
     if tables:
         text = lookup_tables(text, out_dir)
     if stats:

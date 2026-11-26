@@ -425,7 +425,8 @@ def info_entry(key: str) -> str:
     entries = {h.strip().lower(): b.strip()
                for h, b in re.findall(r"^## ([^\n]+)\n(.*?)(?=^## |\Z)",
                                       INFO_MD.read_text(encoding="utf-8"), re.M | re.S)}
-    return entries[key.lower()]
+    import indicators_lib  # the counts the text names are emitted from the frame (R169)
+    return indicators_lib.fill_counts(entries[key.lower()])
 
 
 def info_html(key: str) -> str:

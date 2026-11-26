@@ -7,12 +7,12 @@ Corpus is a public good for researchers, analysts, funders and officials working
 
 ## What Corpus publishes
 
-- **[Country reports](https://corpus.data-landscapers.io/countries/)** for all 54 African countries: a status report, a monthly update, a progress report against [123 indicators](https://corpus.data-landscapers.io/methodology/lookups/#indicators), and a non-state finance report.
-- **Region and topic reports**: monthly updates and progress reports for the five African regions, Sub-Saharan Africa, Africa as a whole and relevant global developments, and for each [topic](https://corpus.data-landscapers.io/methodology/lookups/#topics) in a two-tier taxonomy.
+- **[Country reports](https://corpus.data-landscapers.io/countries/)** for all 54 African countries: a status report, a news page, a maturity assessment against [115 indicators](https://corpus.data-landscapers.io/methodology/lookups/#indicators), and a non-state finance report.
+- **Region and topic reports**: news pages for the five African regions, Sub-Saharan Africa, Africa as a whole and relevant global developments, and for each [topic](https://corpus.data-landscapers.io/methodology/lookups/#topics) in a two-tier taxonomy.
 - **[Progress](https://corpus.data-landscapers.io/progress/)**: movement on every indicator in every country over the past 12 months, however small.
 - **[Finance](https://corpus.data-landscapers.io/finance/)**: an integrated dataset of non-state financing commitments since 2015. National budgets, spend and audit are under development.
 - **[Bulletin](https://corpus.data-landscapers.io/bulletin/)**: what arrived yesterday, filterable by country and topic.
-- **[Catalogue](https://corpus.data-landscapers.io/catalogue/)**: metadata for every document behind every report — over 21,000 of them — so any claim can be traced to the original publication.
+- **[Catalogue](https://corpus.data-landscapers.io/catalogue/)**: metadata for every document behind every report — over 50,000 of them — so any claim can be traced to the original publication.
 
 ## How it is made
 

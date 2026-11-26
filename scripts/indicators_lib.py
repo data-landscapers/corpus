@@ -32,6 +32,7 @@ from __future__ import annotations
 
 import csv
 import os
+import re
 from pathlib import Path
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -143,6 +144,19 @@ def ids() -> set[str]:
 def assessed() -> list[dict]:
     """The frame the maturity assessment stages: every row with `assessed = 1`, in order."""
     return [r for r in frame() if r["assessed"]]
+
+
+COUNT = re.compile(r"\{(indicators|chapters|topics)\}")
+
+
+def fill_counts(text: str) -> str:
+    """`{indicators}`, `{chapters}` and `{topics}` in reader-facing prose, counted from the assessed
+    frame. **A count on a page is emitted, never typed** *(R169)*: three typed counts once read 115,
+    116 and 123 on the same day. Other braces are left alone."""
+    a = assessed()
+    n = {"indicators": len(a), "chapters": len({r["chapter"] for r in a}),
+         "topics": len({r["subject"] for r in a})}
+    return COUNT.sub(lambda m: str(n[m.group(1)]), text)
 
 
 def shown() -> list[dict]:

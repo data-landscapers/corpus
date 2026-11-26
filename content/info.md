@@ -35,7 +35,7 @@ The report only uses evidence from public sources catalogued in the Corpus repos
 
 The report is written by Claude Code and updated nightly whenever new relevant evidence arrives.
 
-Two shorter country reports are also maintained. The ***Progress Report*** tracks developments that have taken place over the past 12 months. The ***Maturity Assessment*** dashboard compares the progress of all 54 countries across 115 indicators.
+Two shorter country reports are also maintained. The ***Progress Report*** tracks developments that have taken place over the past 12 months. The ***Maturity Assessment*** dashboard compares the progress of all 54 countries across {indicators} indicators.
 
 ## Finance
 
@@ -54,7 +54,7 @@ The ***All Finance*** dataset combines the above two tables. As far as we are aw
 
 ## Maturity assessment
 
-The maturity assessment dashboard compares the progress of all 54 countries across 116 indicators. The indicators are grouped into 10 chapters and 35 topics. The criteria for classifying each indicator is derived from a norm or target stated in one of the African Union's foundational instruments. 
+The maturity assessment dashboard compares the progress of all 54 countries across {indicators} indicators. The indicators are grouped into {chapters} chapters and {topics} topics. The criteria for classifying each indicator is derived from a norm or target stated in one of the African Union's foundational instruments. 
 
 Corpus provides country analysis in three separate reports. In addition to this report the ***Status Report*** provides a more detailed summary of all aspects of digital transformation, and the ***Progress Report*** tracks developments that have taken place over the past 12 months.
 
@@ -62,7 +62,7 @@ These assessments are updated overnight whenever new relevant evidence arrives. 
 
 ## Maturity movement
 
-For each country 116 indicators are assessed across five levels of maturity (Absent > Preparing > Establishing > Operating > Mature). Whenever new evidence arrives, through the nightly news sweeps, indicators are updated.
+For each country {indicators} indicators are assessed across five levels of maturity (Absent > Preparing > Establishing > Operating > Mature). Whenever new evidence arrives, through the nightly news sweeps, indicators are updated.
 
 This table provides a useful snapshot of progress being made. Any stage change based on new evidence is recorded here. The date records when corpus made the change, not necessarily when in-country changes were implemented.
 
@@ -88,7 +88,7 @@ The methodology section explains the architecture and processes involved in main
 
 ## Progress
 
-The progress reports looks for evidence impacting on 115 indicators over the past twelve months. It is a more granular version of the ***Maturity Assessment***.  
+The progress reports looks for evidence impacting on {indicators} indicators over the past twelve months. It is a more granular version of the ***Maturity Assessment***.  
 
 **Movement** means that some form of progress, however minor, has been recorded in the period. 
 
