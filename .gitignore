@@ -74,6 +74,11 @@ logs/.cloudflare-kv.json
 # never enters git. CF_ACCOUNT_ID / CF_R2_BUCKET / CF_R2_ACCESS_KEY_ID / CF_R2_SECRET_ACCESS_KEY
 # in the environment are the other way of supplying them, and take precedence over this file.
 logs/.cloudflare-r2.json
+# The S3 key pair for the private OSINT backup bucket (scripts/osint-backup.py, R196), scoped to
+# that bucket alone; its state file and lock are rewritten every poll tick.
+logs/.cloudflare-r2-backup.json
+logs/osint-backup.json
+logs/.osint-backup.lock
 
 # OSINT-owned shared drop point — outside Corpus git (CLAUDE.md)
 osint-corpus-exchange/
