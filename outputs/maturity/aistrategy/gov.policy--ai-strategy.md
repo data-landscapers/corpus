@@ -21,11 +21,11 @@ The African Union's Continental AI Strategy, adopted in 2024, says member states
 | Stage | Countries |
 |---|---|
 | 5 Mature | 1 |
-| 4 Operating | 8 |
-| 3 Established | 8 |
-| 2 Nascent | 26 |
-| 1 Absent | 3 |
-| Unplaced | 3 |
+| 4 Operating | 6 |
+| 3 Established | 5 |
+| 2 Nascent | 31 |
+| 1 Absent | 1 |
+| Unplaced | 5 |
 | No evidence | 5 |
 
 ## Countries
@@ -36,14 +36,6 @@ Zimbabwe launched a national AI strategy for 2026 to 2030 in March 2026, with an
 
 - TechnoMag reports POTRAZ's AI4I Challenge, the implementation framework for the strategy's AI Grand Challenge, offers selected teams up to USD 80,000 in milestone-based grant funding, with 16 winners considered for POTRAZ incubation ([source, 2026-06-29](https://technomag.co.zw/zimbabwe-launches-2026-ai-for-impact-challenge-ai4i-to-drive-national-innovation/)).
 - MISA Zimbabwe, in a piece published 2026-09-28, refers to the Zimbabwe National AI Strategy (2026-2030) as in place; no event date is given ([source, 2026-09-28](https://zimbabwe.misa.org/2026/09/28/access-to-information-and-information-integrity-inseparable-in-the-digital-age/)).
-
-### Algeria: 4 Operating
-
-Algeria began carrying out its national AI strategy in August 2026, with monitoring commissions set up; no source found reports public money for it.
-
-- DZWatch reports that specialised committees (data and infrastructure, continuous training, AI doctorate, funding, international cooperation) reported progress on the strategy's roadmap; date is the published date 2026-09-22 as the meeting date is not stated ([source, 2026-09-22](https://dzwatch.dz/?p=79285)).
-- The ministry states the meeting created five thematic commissions (data and infrastructure, financing, large language models, specialised AI doctorate, continuing AI training) to monitor the strategy's main axes ([source, 2026-09-08](https://www.mesrs.dz/fr/2026/09/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-la-premiere-reunion-de-coordination-consacree-a-la-mise-en-oeuvre-de-la-strategie-nationale-de-lintelli/)).
-- DZWatch reports that a follow-up meeting reviewed implementation of Algeria's National AI Strategy, which had moved from planning to execution of priority projects; meeting date not stated, so the published date 2026-09-22 is used ([source, 2026-09-22](https://dzwatch.dz/?p=79285)).
 
 ### Egypt: 4 Operating
 
@@ -90,26 +82,12 @@ Seychelles' Cabinet adopted a digital and AI strategy to 2031 in October 2026, w
 - Seychelles' Cabinet approved the Seychelles Digital & AI Strategy 2026-2031 on 28 October 2026 as the national framework for digital and AI transformation through 2031 ([source, 2026-10-28](https://statehouse.gov.sc/news/7318/cabinet-business-wednesday-28-october-2026)).
 - Cabinet approved establishing an Inter-Ministerial Digital and AI Coordination Committee, chaired by the Minister responsible for ICT, with focal points in Ministries to support implementation of the strategy ([source, 2026-10-28](https://statehouse.gov.sc/news/7318/cabinet-business-wednesday-28-october-2026)).
 
-### Zambia: 4 Operating
-
-Zambia's national AI strategy runs to the end of 2026 and names a council and a coordinator; no source reports public money allocated to it.
-
-- The strategy sets up a National AI Council with sector Technical Working Groups, makes Smart Zambia Institute the coordinator of AI implementation within government and the Ministry of Technology and Science the lead for adoption across the economy; the date is the strategy's publication date, as the document gives none of its own ([source, 2024-11-21](https://api.oecdai.org/storage/policy-initiatives/Apr2026/117ojpi25umobje3ol-Zambia-Ai-Strategy-Book-option-2.pdf)).
-- A COMESA Secretariat telecommunications officer said in Kigali on 3 August 2026 that Zambia has developed an AI strategy and is working on additional frameworks and initiatives to support implementation; he did not give an adoption date ([source, 2026-08-03](https://rwandainspirer.com/rwanda-highlights-ai-policy-progress-as-comesa-seeks-regional-framework/)).
-
 ### Benin: 3 Established
 
 Benin adopted a national AI and big data strategy in 2023, running to 2027; no source found says whether a body carries it out.
 
 - A ministry representative on 16 July 2026 described the University of Abomey-Calavi's own AI strategy as in line with the national AI and big-data strategy (2023-2027), which is thereby shown as current; the university's own strategy is not the national one ([source, 2026-07-16](https://lanation.bj/numerique/intelligence-artificielle-luac-adopte-une-strategie-un-cadre-ethique-et-une-charte-dusage)).
 - The brochure refers to Benin's national AI and big-data strategy 2023-2027 as the existing national framework to which the April 2024 workshop adapted the recommendations ([source, 2025-04](https://informationdemocracy.org/wp-content/uploads/2025/04/FID_Plaquette-IA-BENIN_VDEF-1.pdf)).
-
-### Cote d'Ivoire: 3 Established
-
-Cote d'Ivoire has adopted a national AI strategy to 2030; in 2026 a budgeted roadmap was still awaited and no body is known.
-
-- The article refers to Côte d'Ivoire's existing national AI strategy as being turned into projects, with a three-year AI roadmap to follow; the document gives no adoption date and is published 2026-09-14 ([source, 2026-09-14](https://www.socialnetlink.org/2026/09/14/cote-divoire-letat-et-le-secteur-prive-scellent-une-alliance-pour-accelerer-ladoption-de-lintelligence-artificielle/)).
-- At the close of IMPACT IA on 11 September 2026 the minister said the government would accelerate implementation of a national AI strategy, with a budgeted roadmap expected within three weeks ([source, 2026-09-11](https://www.fratmat.info/article/2644463/economie/impact-ia-2026-la-cote-divoire-passe-de-la-reflexion-a-laction-avec-77-cas-dusage-prioritaires)).
 
 ### Ghana: 3 Established
 
@@ -118,12 +96,6 @@ Ghana's President launched a national AI strategy in April 2026; no source found
 - The Ghanaian Chronicle editorial welcomes the launch of Ghana's National Artificial Intelligence Strategy and warns it may stay on paper; no launch date given, so the published date is used ([source, 2026-10-09](https://thechronicle.com.gh/editorial-ghana-cannot-afford-to-miss-the-ai-revolution/)).
 - Minister Samuel Nartey George said on 7 September 2026 that the strategy, led by academics, was launched (a prototype was shown at the launch) and that universities are central to it ([source, 2026-09-07](https://thehighstreetjournal.com/stranded-connectivity-equipments/)).
 - The op-ed says Ghana's National AI Strategy 2023-2033 was approved by Cabinet in February 2026 ([source, 2026-02](https://www.myjoyonline.com/bold-ambitions-fragile-foundations-is-ghana-ready-for-the-ai-and-data-centre-risks-it-is-inviting/)).
-
-### Guinea: 3 Established
-
-Guinea's ministry reported in 2025 that a 2026 to 2035 AI roadmap was validated and a strategy adopted; no body to run it is known.
-
-- The ministry (MPTEN) reports that in 2025 a national AI roadmap 2026-2035 was validated and a three-phase strategy to master and regulate AI was adopted, with UNDP's AILA methodology ([source, 2025](https://www.africaguinee.com/app/uploads/2026/01/Realisations_MPTEN_2025_compressed.pdf)).
 
 ### Lesotho: 3 Established
 
@@ -139,17 +111,18 @@ Libya's Government of National Unity launched a national AI strategy for 2026 to
 - Prime Minister Dbaiba of the Government of National Unity launched the National Artificial Intelligence Strategy 2026-2030 on 1 June 2026, per LANA citing his media office ([source, 2026-06-01](https://lana.gov.ly/post.php?id=358532&lang=en)).
 - SMEX says the Government of National Unity unveiled the National Artificial Intelligence Strategy 2026-2030 on 1 June 2026 in Tripoli ([source, 2026-06-01](https://smex.org/libyas-new-ai-strategy-celebrates-participation-yet-was-built-without-it/)).
 
-### Senegal: 3 Established
-
-Senegal has adopted a national AI strategy for 2024 to 2028; no source found reports a body to carry it out.
-
-- GRAIN's comparative study, presented 2026-08-10, says Senegal followed Benin in adopting a national AI strategy, with a strategy for 2024-2028; no adoption date is given, so the as_of is the publication date ([source, 2026-08-10](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/)).
-
 ### Tunisia: 3 Established
 
 Tunisia's minister said in November 2026 that its national AI strategy is validated and under way; no body is known to run it.
 
 - The communication technologies minister told parliament that Tunisia has validated its national AI strategy and begun implementing it ([source, 2026-11-19](https://www.lapresse.tn/2026/11/19/tunisie-les-outils-de-controle-parental-sur-internet-seront-gratuits/)).
+
+### Algeria: 2 Nascent
+
+Algeria's government examined a draft AI strategy in May 2026 and ministries began carrying it out; no Council of Ministers adoption has been found.
+
+- APS, citing a Prime Minister's services communique, reports that on 25 May 2026 a Government meeting chaired by PM Sifi Ghrieb examined the draft ('projet de') national AI strategy ([source, 2026-05-25](https://www.aps.dz/fr/algerie/actualite-nationale/mpl9oi57-la-strategie-nationale-d-intelligence-artificielle-a-l-ordre-du-jour)).
+- El Moudjahid, citing a Prime Minister's office communiqué, reports a government meeting chaired by the Prime Minister examined the draft national AI strategy; action plans follow its adoption by the Council of Ministers ([source, 2026-05-25](https://www.elmoudjahid.dz/fr/actualite/reunion-du-gouvernement-la-strategie-nationale-d-intelligence-artificielle-a-l-ordre-du-jour-252722)).
 
 ### Angola: 2 Nascent
 
@@ -208,6 +181,13 @@ The Republic of the Congo began drafting a national AI strategy at a workshop in
 
 - The ACI reports that the government, with UNDP support, held a national workshop on 6-7 May 2026 in Brazzaville launching the drafting of the national AI strategy, whose final document is still to be written ([source, 2026-05-06](https://www.aci.cg/congo-technologie-necessite-dintegrer-un-comite-national-dethique-dans-la-future-strategie-nationale-de-lia/)).
 
+### Cote d'Ivoire: 2 Nascent
+
+Cote d'Ivoire's AI strategy went to the Prime Minister for adoption in March 2025; no adoption has been found since.
+
+- AIP reports that Futur Africa is supporting the digital-transition ministry in drafting Cote d'Ivoire's national artificial intelligence strategy 2026-2030 ([source, 2026-11-24](https://www.aip.ci/cote-divoire-aip-les-senateurs-formes-aux-enjeux-et-aux-applications-de-lintelligence-artificielle-a-yamoussoukro/)).
+- Digital Transition Minister Ibrahim Kalil Konaté handed the National AI Strategy to the Prime Minister on 13 March 2025, to be submitted to government for adoption and inclusion in the 2026-2030 National Development Plan ([source, 2025-03-13](https://www.digitalbusiness.africa/cote-divoire-les-axes-de-la-strategie-nationale-de-l-ia-et-de-la-strategie-nationale-de-la-gouvernance-des-donnees/)).
+
 ### DR Congo: 2 Nascent
 
 The Democratic Republic of the Congo validated its national AI strategy in August 2026; no source found reports its adoption by the Council of Ministers.
@@ -239,6 +219,13 @@ Gabon closed preparatory workshops for a national AI strategy in September 2026;
 The Gambia said in April 2026 that it was developing a national AI policy and strategy; no source found says how far it has gone.
 
 - In its national statement to the 29th session of the UN CSTD (Geneva, 20-24 April 2026), The Gambia says it is currently developing a National AI Policy and Strategy, led by the Ministry of Communications and Digital Economy; the statement carries no date of its own, so the as_of is the document's published date (2026-04), a proxy from the session dates ([source, 2026-04](https://unctad.org/system/files/non-official-document/ecn162026_s08_ai_gambia_en.pdf)).
+
+### Guinea: 2 Nascent
+
+Guinea validated a 2026 to 2035 AI roadmap at a workshop in December 2025; the strategy document was still being finalised in 2026.
+
+- Guinea's higher-education ministry and the Cité des Sciences et de l'Innovation are applying the UN Blueprint for national AI strategies, and the next steps are sector consultations and finalising the national strategy document ([source, 2026-09-23](https://www.csig.edu.gn/actualites/la-cite-des-sciences-et-de-linnovation-au-cur-du-digital-cooperation-day-la-guinee-trace-sa-voie-vers-lia-souveraine/)).
+- Guinea's ICT ministry said on 20 December 2025 that it validated a national AI roadmap for 2026-2035 after a 19 December workshop with UNDP; the source reports validation and no adoption or launch by the government ([source, 2025-12-20](https://www.ecofinagency.com/news-digital/2212-51603-guinea-validates-10-year-national-ai-roadmap)).
 
 ### Malawi: 2 Nascent
 
@@ -281,6 +268,13 @@ Nigeria's minister launched a national AI strategy in 2025; in March 2026 it was
 - Prof. Mohammed Tawfiq Ladan said NITDA developed a National AI Strategy in 2024 that is yet to be approved by the Federal Executive Council ([source, 2025-09-04](https://thefact.ng/experts-call-for-national-policy-on-ai-development-deployment-in-nigeria/)).
 - Communications, Innovation and Digital Economy Minister Bosun Tijani announced in Lagos the launch of Nigeria's National Artificial Intelligence Strategy, developed with government, academia and industry ([source, 2025-04-15](https://www.channelstv.com/2025/04/16/nigeria-launches-national-ai-strategy-to-drive-ai-development-boost-productivity/)).
 
+### Senegal: 2 Nascent
+
+Senegal's digital ministry launched a 2024 to 2028 AI strategy in September 2023; no source found says the government approved it.
+
+- UNESCO's readiness profile says the Ministry of Communication, Telecommunications and the Digital Economy launched Senegal's National Strategy for the Development of Artificial Intelligence in September 2023 ([source, 2023-09](https://www.unesco.org/ethics-ai/en/global-hub/senegal)).
+- The Ministry of Communication, Telecommunications and Digital Economy published the summary of Senegal's national AI strategy and roadmap to 2028 (four objectives, six orientations), whose formulation it launched on 17 May 2023; the document gives no month, so as_of is its publication year ([source, 2023](https://africadataprotection.org/sources/Synth%C3%A8se%20de%20la%20strat%C3%A9gie%20IA%20du%20S%C3%A9n%C3%A9gal.pdf)).
+
 ### Sierra Leone: 2 Nascent
 
 Sierra Leone was developing its first national AI strategy with the World Bank in 2026; no source found says how far it has gone.
@@ -319,24 +313,24 @@ Uganda was finalising a national AI strategy in 2026, due by the end of the fina
 
 - Nile Post reported that Uganda is developing an AI strategy, per Science, Technology and Innovation minister Jonard Asiimwe, and that it must be able to adapt to new technologies; no adoption is stated ([source, 2026-09-10](https://nilepost.co.ug/news/370019/uganda-targets-ai-sovereignty-minister-says)).
 
+### Zambia: 2 Nascent
+
+Zambia's technology ministry launched a 2024 to 2026 AI strategy in November 2024; no source found says Cabinet approved it.
+
+- The Ministry of Technology and Science launched the Artificial Intelligence Strategy in Lusaka, with Minister Felix Mutati presiding, supported by Finland and the Tony Blair Institute ([source, 2024-11-21](https://www.mots.gov.zm/?p=4492)).
+- The Minister of Technology and Science, Felix Mutati, issued Zambia's National Artificial Intelligence Strategy 2024-2026 over his foreword, thanking Cabinet colleagues for support; the document gives only the year, so as_of is its publication year ([source, 2024](https://www.africaainews.com/api/v1/file/4ebfe3b3-52f6-4616-a38f-43db36d6d88e.pdf)).
+
 ### Comoros: 1 Absent
 
 Comoros had no national AI strategy as of September 2026, and drafting one was still to start; no source found reports any body or funding.
 
 - Al-watwan, reporting the UNESCO RAM 2.0 readiness report presented in September 2026, says Comoros has no national strategy dedicated to artificial intelligence, and that drafting one is the first step still to be taken ([source, 2026-09](https://alwatwan.net/societe/intelligence-artificielle-i-le-diagnostic-ram-2.0-r%C3%A9v%C3%A8le-les-d%C3%A9fis-des-comores.html)).
 
-### Eritrea: 1 Absent
+### Eritrea: Unplaced
 
-Eritrea had no national AI strategy or policy in 2026, and nothing found says one is being written.
+A legal page of June 2026 says Eritrea has no AI strategy; whether one is being written is not known, so no stage is set.
 
-- Levellers, in a legal-status page last reviewed 8 June 2026, states that Eritrea has no national AI strategy and no published national AI policy; the African Union's continental strategy is described as non-binding ([source, 2026-06-08](https://www.levellers.ai/what-is/ai-regulation-eritrea)).
-
-### Sao Tome and Principe: 1 Absent
-
-Sao Tome and Principe had no national AI strategy in 2026, by UNESCO's readiness assessment; nothing found says one is being written.
-
-- UNESCO's country profile, drawn from the completed Readiness Assessment, states São Tomé and Príncipe currently has no national AI strategy; no date is given for the statement, so the document's published date of 2026-01-22 is used ([source, 2026-01-22](https://www.unesco.org/ethics-ai/en/saotomeeprincipe)).
-- The minister of education's preface to UNESCO's readiness report states the country has no national AI strategy; the report gives no month, so its published year of 2025 is used ([source, 2025](https://unesdoc.unesco.org/ark:/48223/pf0000394953)).
+Not established: A legal-status page of June 2026 says Eritrea has no national AI strategy, but no source says none is being written.
 
 ### Guinea-Bissau: Unplaced
 
@@ -351,6 +345,12 @@ An expert said in 2026 that Mali had no published AI strategy; no source says wh
 - Tidiani Togola says that to his knowledge Mali has no published national AI strategy, unlike about fifteen African countries, and that one should be drawn up ([source, 2026-10-23](https://amap.ml/2026/10/23/intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-defis-de-la-gouvernance-et-de-la-desinformation/)).
 
 Not established: An expert said in October 2026 that to his knowledge Mali had no published national AI strategy; no source found says whether one is being written, so the absence stage 1 asks for is not established.
+
+### Sao Tome and Principe: Unplaced
+
+UNESCO said in 2026 Sao Tome and Principe has no AI strategy; whether one is being written is not known, so no stage is set.
+
+Not established: UNESCO's readiness assessment says the country has no national AI strategy, but no source says none is being written.
 
 ### South Sudan: Unplaced
 

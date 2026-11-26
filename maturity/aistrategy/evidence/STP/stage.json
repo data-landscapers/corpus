@@ -1,16 +1,17 @@
 {
- "iso3": "STP",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "1",
-   "standing": "none",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "STP-001;STP-003",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "STP",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "unplaced",
+      "standing": "none",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "UNESCO's readiness assessment says the country has no national AI strategy, but no source says none is being written.",
+      "note": "Rebuild 2026-11-26: stage 1 needs a dated source saying there is no strategy and none is being written, as Guinea-Bissau, Mali and South Sudan were read; UNESCO and the minister's preface say only that there is none, so no stage is set.",
+      "as_at": "2026-11-26"
+    }
+  ]
 }

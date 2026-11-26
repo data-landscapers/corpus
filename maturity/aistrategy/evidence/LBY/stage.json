@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "LBY-001;LBY-005",
       "gaps": "No source found names a body set up or named to carry out the strategy: a council, office, agency, committee or ministry unit.",
-      "note": "Counted from the four questions by study-ladder-aistrategy.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild 2026-11-26: the Prime Minister of the Government of National Unity launched the 2026-2030 strategy on 1 June 2026, read as formal validation by the government, so stage 3 holds. No body named to carry it out has been found.",
+      "as_at": "2026-11-26"
     }
   ]
 }

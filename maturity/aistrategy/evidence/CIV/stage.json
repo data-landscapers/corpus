@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "strategy",
-      "stage": "3",
-      "standing": "adopted",
+      "stage": "2",
+      "standing": "draft",
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-005;CIV-006",
-      "gaps": "No source found names a body set up or named to carry out the strategy: a council, office, agency, committee or ministry unit. AIP's November 2026 passing mention of a firm helping draft a 2026-2030 strategy (CIV-017) disagrees with the adoption reports and states no withdrawal or lapse.",
-      "note": "Fact 2026-11-26: AIP mentions a firm assisting the ministry with drafting the 2026-2030 strategy, but the minister spoke of implementing the adopted strategy in September 2026 and no source says it lapsed, so the cell stays at 3.",
+      "stage_sources": "CIV-017;CIV-009",
+      "gaps": "No source found says the government adopted the strategy: it went to the Prime Minister for adoption in March 2025, and in November 2026 a firm was helping the ministry draft a 2026-2030 strategy. Ecofin's report of adoption that month (CIV-011) names no adopting act. No body named to carry it out has been found.",
+      "note": "Rebuild 2026-11-26: a launch or issue by the ministry is not adoption (messages-for-bill 132). The strategy was handed to the Prime Minister for adoption in March 2025, no government adoption is reported, and in November 2026 a 2026-2030 strategy was being drafted, so stage 2.",
       "as_at": "2026-11-26"
     }
   ]

@@ -1,16 +1,17 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "4",
-   "standing": "adopted",
-   "use": "body",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-003;ZMB-004",
-   "gaps": "No source from the last three years naming public money allocated to the strategy, or an action in it started with funding named, is held.",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-008;ZMB-011",
+      "gaps": "No source found says Cabinet approved the strategy: the ministry launched it in November 2024 and the minister issued it over his own foreword. The council and coordinator it names lift nothing until it is adopted, and no public money tied to it has been found.",
+      "note": "Rebuild 2026-11-26: a launch or issue by the minister or ministry is not adoption (messages-for-bill 132). The Ministry of Technology and Science launched and issued the 2024-2026 strategy and no source states Cabinet approval, so stage 2.",
+      "as_at": "2026-11-26"
+    }
+  ]
 }

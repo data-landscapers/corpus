@@ -1,16 +1,17 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "4",
-   "standing": "adopted",
-   "use": "body",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-002;EGY-004;EGY-001",
-   "gaps": "No source from the last three years naming public money allocated to the strategy, or an action in it started with funding named, is held.",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "4",
+      "standing": "adopted",
+      "use": "body",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-002;EGY-004;EGY-001",
+      "gaps": "No source from the last three years naming public money allocated to the strategy, or an action in it started with funding named, is held.",
+      "note": "Rebuild 2026-11-26: the President unveiled the 2025-2030 strategy in January 2025, and the National AI Council that Cabinet formed in 2019 to govern it launched it and adopted its implementation plan in March 2026; read as formal validation by the government, so stage 4 holds. No public money tied to it has been found.",
+      "as_at": "2026-11-26"
+    }
+  ]
 }

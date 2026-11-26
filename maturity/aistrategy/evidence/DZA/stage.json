@@ -1,16 +1,17 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "4",
-   "standing": "adopted",
-   "use": "body",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-002;DZA-004;DZA-001",
-   "gaps": "No source from the last three years naming public money allocated to the strategy, or an action in it started with funding named, is held.",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-009;DZA-008",
+      "gaps": "No source found says the Council of Ministers has adopted the strategy: on 25 May 2026 a government meeting examined the draft, with action plans to follow its adoption by the Council of Ministers. The commissions monitoring it since August 2026 lift nothing while it is a draft, and no public money tied to it has been found.",
+      "note": "Rebuild 2026-11-26: an announcement or launch is not adoption (messages-for-bill 132), and the newest statement of the strategy's standing is the government's May 2026 examination of a draft still to go to the Council of Ministers. The ministry's implementation meetings since then state no approval, so stage 2.",
+      "as_at": "2026-11-26"
+    }
+  ]
 }

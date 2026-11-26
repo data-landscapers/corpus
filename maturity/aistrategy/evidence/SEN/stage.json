@@ -1,16 +1,17 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "3",
-   "standing": "adopted",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-001",
-   "gaps": "No source found names a body set up or named to carry out the strategy: a council, office, agency, committee or ministry unit.",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-007;SEN-006",
+      "gaps": "No source found says the government adopted or validated the strategy: the digital ministry launched it in September 2023 and published its summary, and a 2026 comparative study that calls it adopted names no adopting act. No body named to carry it out has been found.",
+      "note": "Rebuild 2026-11-26: a launch or issue by the minister or ministry is not adoption (messages-for-bill 132). The digital ministry launched the 2024-2028 strategy in September 2023 and no cabinet approval or government validation is reported, so stage 2.",
+      "as_at": "2026-11-26"
+    }
+  ]
 }

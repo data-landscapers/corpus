@@ -1,16 +1,17 @@
 {
- "iso3": "ERI",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "1",
-   "standing": "none",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ERI-001",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "ERI",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "unplaced",
+      "standing": "none",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "A legal-status page of June 2026 says Eritrea has no national AI strategy, but no source says none is being written.",
+      "note": "Rebuild 2026-11-26: stage 1 needs a dated source saying there is no strategy and none is being written, as Guinea-Bissau, Mali and South Sudan were read; the one row says only that there is none, so no stage is set.",
+      "as_at": "2026-11-26"
+    }
+  ]
 }
