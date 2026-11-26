@@ -3,9 +3,9 @@ title: Africa — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: XAF
-ledger_rows: 114
+ledger_rows: 115
 not_held: 3
-record: 611fda23c1c9
+record: 6fc74ecc33ad
 ---
 
 # News, Oct – Nov 2026
@@ -1421,6 +1421,20 @@ Transsion and Visa signed a memorandum of cooperation on agentic commerce, consu
 **[AXIAN Digibank & Fintech Partners Huawei to Upgrade Mobile Money Platforms Across Five Markets](https://techafricanews.com/2026/11/24/axian-digibank-fintech-huawei-upgrade-mobile-money-platforms-five-markets/)** — Tech Africa News, 24 November 2026
 
 AXIAN Digibank & Fintech has signed with Huawei for new core wallet platforms behind its Mixx and MVola mobile money brands in all five of its markets, reported on 24 November 2026. The upgrade is stated to triple transaction-processing capacity.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Pan-African Payment and Settlement System (PAPSS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PAPSS Opens Cross-Border Payment Network to Direct Fintech Participation](https://birrmetrics.com/papss-opens-cross-border-payment-network-to-direct-fintech-participation/)** — Birr Metrics, 26 November 2026
+
+Afreximbank's Haytham Elmaayergi announced at the PAPSS COWRY Summit in Addis Ababa on 26 November 2026 that PAPSS will admit eligible licensed fintechs as direct participants, subject to regulatory approval. The network covers 31 countries and 24 central banks. He reported transaction volumes up about 1,000% and values up 120% between comparable periods in 2025 and 2026.
 
 </div>
 
