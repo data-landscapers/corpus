@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-24-sen-souverainete-des-donnees-un-enjeu-majeur-pour-la-transformation-numeri",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Senegal's Ministry of Telecommunications and Digital Affairs, with Minister Samba Diouf speaking at the ANSD 20th-anniversary forum, set a target of hosting 100% of the State's sensitive data in Senegal by 2034 under the New Deal Technologique.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "New Deal Technologique",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

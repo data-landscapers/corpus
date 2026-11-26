@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-24-mar-pr-sentation-du-projet-de-budget-sectoriel-2027-du-minist-re-de-l-inte",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Morocco's ministry says its 2027 data centre, cloud capacity and national 'Cloud First' policy actions aim to consolidate the Kingdom's digital sovereignty.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "Cloud First",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

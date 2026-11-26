@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-002",
-      "gaps": "No source found since October 2023 says: is a rule on state data in force.",
-      "note": "NDP6 plans a national data centre to keep critical government data in Namibia (NAM-002, 2025), so stage 2. The Bank of Namibia's 2008 core banking rule (NAM-001) is older than the window, so not 3.",
-      "as_at": "2026-10-31"
+      "gaps": "No source found since October 2023 says: is a rule on state data in force. The terms on handing over code in the 6th Grain agriculture contract (NAM-006) are the vendor chief executive's account, not the contract.",
+      "note": "NDP6 plans a national data centre to keep critical government data in Namibia (NAM-002, 2025), so stage 2. The Bank of Namibia's 2008 core banking rule (NAM-001) is older than the window, so not 3; fact 2026-11-26: a vendor's account of code handover terms cannot lift a cell with no rule in force.",
+      "as_at": "2026-11-26"
     }
   ]
 }

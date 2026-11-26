@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-13-mar-intelligence-artificielle-un-prompt-made-in-morocco",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "LesEco.ma reports announced sovereign infrastructure: a 50 MW data centre with a sovereign cloud at Rabat and a Move to Cloud programme to migrate all public administrations.",
+   "as_of": "2026-01-12",
+   "date_precision": "day",
+   "system": "Move to Cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

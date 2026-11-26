@@ -6,7 +6,7 @@
 
 **Hosted nationally.** No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud. The nearest fact: [in August 2025 NDP6 planned a National Data Centre for government information](<https://neweralive.na/namibia-targets-full-digital-transformation/>).
 
-**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest fact: [in April 2026 no procurement had started for the government data centre](<https://theissue.com.na/namibia-wallows-in-digital-sovereignty-illusion/>).
+**Contract terms.** [In July 2026 the head of 6th Grain, a US firm, spoke of its agriculture ministry contract](<https://theissue.com.na/govt-probes-n40m-us-agriculture-deal/>). He said all its code passes to the government on completion. [In April 2026 no procurement had started for the government data centre](<https://theissue.com.na/namibia-wallows-in-digital-sovereignty-illusion/>).
 
 ***Also on file***. None found.
 
