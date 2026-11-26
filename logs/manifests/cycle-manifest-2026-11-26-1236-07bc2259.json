@@ -1,0 +1,33 @@
+{
+ "schema": 3,
+ "written_utc": "2026-11-26 12:36",
+ "pass": "R197",
+ "head": "07bc22595b13537d290b07fd37f73ade5dcd1193",
+ "head_committed_utc": "2026-11-26 12:35",
+ "collection": {
+  "last_admission": "2026-11-25 21:32",
+  "sweep_closed": "2026-11-25 20:34",
+  "ingest_started": "2026-11-25 20:36"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "2",
+   "jobs": [
+    "SWEEP-FINANCIERS",
+    "SWEEP-IATI",
+    "SWEEP-COUNTRY-DEEP"
+   ],
+   "start": "2026-11-25 20:12",
+   "end": "2026-11-25 23:29",
+   "duration": "3:17",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "awaiting_ingest": 0,
+  "raw_sources": 51769
+ }
+}
