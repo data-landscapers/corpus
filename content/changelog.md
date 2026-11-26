@@ -1,3 +1,7 @@
+## 26 November 2026
+
+- Each indicator in a country's maturity report now opens on one paragraph: what exists, what changed in the last twelve months, and what the next stage would need. The labelled evidence behind it is under *Show the evidence*, and the map's country panel shows the same paragraph.
+
 ## 25 November 2026
 
 - Who's Who is launched and joins the navigation bar between Finance and Catalogue. It lists who held which position at which organisation, with the sources that say so; Methodology explains how.

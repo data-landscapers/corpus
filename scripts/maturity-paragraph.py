@@ -47,6 +47,11 @@ STUDIES = os.path.join(ROOT, "maturity")
 COUNTRIES = os.path.join(ROOT, "lookups", "countries.csv")
 NO_EVIDENCE = "no evidence"
 LINK = re.compile(r"\]\(<?([^)>\s]+)>?\)")
+# The packet's apparatus, which the page must not repeat: write about the country, not the window.
+LEDGER = ("dated item", "in the window", "the window", "falls in the last twelve months",
+          "fall in the last twelve months", "falls within the last twelve months",
+          "dated in the last twelve months", "dated inside the last twelve months", "on file",
+          "nothing further is asked", "this indicator")
 
 
 def _load(name: str, file: str):
@@ -165,10 +170,14 @@ def problems(text: str, stage: str, section: str) -> list[str]:
     stray = [u for u in LINK.findall(text) if u not in held]
     if stray:
         out.append(f"link not in the section: {stray[0]}")
-    if not LINK.search(text):
+    usable = [p for p in re.split(r"\n\s*\n", section) if not p.lstrip().startswith(mw.ALSO_ON_FILE_LABEL)]
+    if not LINK.search(text) and any(LINK.search(p) for p in usable):
         out.append("no link")
     if "twelve months" not in text:
         out.append("no sentence on the last twelve months")
+    for phrase in LEDGER:
+        if re.search(r"\b" + re.escape(phrase) + r"\b", text.lower()):
+            out.append(f"ledger wording: {phrase!r}")
     last = lp.sentences(lp.plain(text))[-1] if text.strip() else ""
     if stage.isdigit() and int(stage) < 5:
         nxt = mw.STAGE_NAMES[int(stage) + 1]
@@ -234,6 +243,27 @@ def apply(args) -> int:
     return 0
 
 
+def recheck(args) -> int:
+    """Hold every kept paragraph to today's rules; drop one that fails, so the next packet offers it."""
+    dropped = 0
+    for s in studies(args.study):
+        issued = os.path.join(ISSUED, s["id"])
+        paras = mw.read_paragraphs(issued)
+        if not paras:
+            continue
+        secs = {(r["iso3"], r["indicator_id"]): (r, sec) for r, sec, _ in cells(s)}
+        bad = [k for k, row in paras.items()
+               if k not in secs or problems(row["paragraph"], secs[k][0]["stage"].strip(), secs[k][1])]
+        for k in bad:
+            del paras[k]
+        if bad:
+            mw.write_paragraphs(issued, paras)
+            print(f"{s['id']}: {len(bad)} dropped")
+        dropped += len(bad)
+    print(f"maturity-paragraph: {dropped} paragraph(s) dropped by recheck")
+    return 0
+
+
 def tally(only=None) -> dict:
     n = {"fresh": 0, "stale": 0, "missing": 0}
     for s in studies(only):
@@ -263,8 +293,10 @@ def main() -> int:
     a.add_argument("--dry", action="store_true", help="say what would be kept and why not; write nothing")
     c = sub.add_parser("count")
     c.add_argument("--study", nargs="*")
+    r = sub.add_parser("recheck")
+    r.add_argument("--study", nargs="*")
     args = ap.parse_args()
-    return {"packet": packet, "apply": apply, "count": count}[args.cmd](args)
+    return {"packet": packet, "apply": apply, "count": count, "recheck": recheck}[args.cmd](args)
 
 
 if __name__ == "__main__":
