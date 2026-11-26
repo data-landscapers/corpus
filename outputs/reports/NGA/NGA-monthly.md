@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: NGA
-ledger_rows: 147
+ledger_rows: 149
 not_held: 8
-record: 479558ba1644
+record: 62cbf3ec8cec
 ---
 
 # News, Oct – Nov 2026
@@ -605,6 +605,20 @@ Nigeria's NITDA began its first IPv6 migration readiness training for federal mi
 **[Votes for governance and regulatory bodies close elections for key positions to advance global digital telecommunications](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-RRB-Council-Election.aspx)** — International Telecommunication Union, 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 The ITU Plenipotentiary Conference in Doha elected 13 African countries to the ITU Council on 16 November 2026. They are Algeria, Côte d'Ivoire, Egypt, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Tanzania and Tunisia. The term is 2027-2030. Ghana, Botswana and Morocco won Africa's three Radio Regulations Board seats.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Telemedicine Guidelines (2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[National Council on Health approves 2026 national telemedicine guidelines](https://fmino.gov.ng/national-council-on-health-approves-2026-national-telemedicine-guidelines/)** — Federal Ministry of Information and National Orientation, 23 November 2026
+
+67th NCH meeting, 16-20 Nov 2026: harmonised minimum standards; states and FCT to implement; budget lines urged.
 
 </div>
 
@@ -2199,6 +2213,20 @@ BusinessDay reported on 18 November 2026 commentary urging Nigeria to learn from
 **[FG backs eight startups through iDICE Growth Lab to access N1bn in equity funding](https://businessday.ng/news/article/fg-backs-eight-startups-through-idice-growth-lab-to-access-n1bn-in-equity-funding/)** — BusinessDay (Nigeria), 19 November 2026
 
 Nigeria's iDICE Startup Bridge began its Growth Lab with eight startups, BusinessDay reported on 19 November 2026. Each is to receive $100,000 in equity, about N134 million. The Bank of Industry implements the programme, co-financed by the African Development Bank, Agence Française de Développement and the Islamic Development Bank.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ambassador Babagana Kingibe Innovation Hub, Maiduguri</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Opens Innovation Hub to Boost Digital Skills and Employment in Borno](https://techafricanews.com/2026/11/25/nigeria-innovation-hub-digital-skills-employment-borno/)** — Tech Africa News, 25 November 2026
+
+Nigeria commissioned the Ambassador Babagana Kingibe Innovation Hub in Maiduguri, Borno State, with IHS Towers, as reported on 25 November 2026. It is a base for the state's 3MTT fellows. Under NUCAP, 89 rural towers in Borno are prioritised for about 230,000 unconnected people. Deployment is due from December 2026.
 
 </div>
 
