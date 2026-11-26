@@ -387,6 +387,7 @@ The Gambia enacted its first general data protection law in 2025; no source foun
 - The document refers to regulations and guidance still to be issued under the Act, on research purposes, the income base for fines and transfers, so none were in force; undated, so the publication date of 2026-02-09 is used ([source, 2026-02](https://www.africanlawbusiness.com/expert-views/key-features-of-the-gambian-personal-data-protection-and-privacy-act/)).
 - The Personal Data Protection and Privacy Act, 2025 (Act No. 11 of 2025) was assented to by the President on 7 November 2025; the excerpt shows no commencement provision ([source, 2025-11-07](https://media2.mofo.com/v3/assets/blt5775cc69c999c255/blt7a10e6071e9d3fad/69d554b553df724b615c685d/personal-data-protection-and-privacy-act-2025.pdf)).
 - Minister Lamin Jabbi said in a radio interview that The Gambia 'already ha[s] a law in place', a 2025 data protection law ([source, 2026-05-13](https://www.kerrfatou.com/gambia-has-ecowass-most-advanced-data-protection-law-minister-jabbi-says/)).
+- A GIZ interview describes the Information Commission of The Gambia, with Commissioner Ya Amie Touray, as the independent body responsible for enforcing data protection ([source, 2026-11-25](https://www.giz.de/en/newsroom/stories/interview-africa-investment-climate-data-policy-builds-trust)).
 
 ### Guinea: 3 Established
 

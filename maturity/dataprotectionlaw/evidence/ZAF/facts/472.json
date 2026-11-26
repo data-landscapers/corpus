@@ -1,0 +1,37 @@
+{
+ "slug": "2026-09-28-zaf-ai-regulation-south-africa-where-the-law-stands-in-2026",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Zaiq's status table lists POPIA as in force on 28 September 2026.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act 4 of 2013",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Zaiq says the Information Regulator enforces POPIA.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Information Regulator",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "Zaiq says the Information Regulator's published guidance notes cover direct marketing, children's information, special personal information and elections, with no AI-specific enforcement action found.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Information Regulator guidance notes",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
