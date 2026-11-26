@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GMB,law,standing,coverage,in-force,2026-10-13,GMB-001;GMB-003;GMB-005;GMB-007;GMB-008;GMB-009;GMB-011;GMB-014;GMB-016;GMB-018,,
-GMB,law,reach,coverage,applied,2025-10-15,GMB-013,GMB-004=rules;GMB-006=rules;GMB-002=rules;GMB-012=rules;GMB-010=rules;GMB-015=rules;GMB-017=rules;GMB-019=rules,
+GMB,law,reach,coverage,applied,2025-10-15,GMB-013,GMB-020=rules;GMB-004=rules;GMB-006=rules;GMB-002=rules;GMB-012=rules;GMB-010=rules;GMB-015=rules;GMB-017=rules;GMB-019=rules,
