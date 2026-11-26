@@ -3,9 +3,9 @@ title: East Africa — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: XEA
-ledger_rows: 22
+ledger_rows: 23
 not_held: 0
-record: da9e0431c52a
+record: 07393b9d22a0
 ---
 
 # News, Oct – Nov 2026
@@ -179,6 +179,20 @@ The 21st EAC Sectoral Council on Education, Science, Technology, Culture and Spo
 **[EAC Ministers Adopt Regional Artificial Intelligence and Digital Transformation Strategies, Approves Establishment of Regional AI Foundational Module for Universities](https://www.eac.int/press-releases/138-education,-science-technology-news/3612-eac-ministers-adopt%20-regional-artificial-intelligence-and-digital-transformation-strategies,-approves-establishment-of-regional-ai-foundational-module-for-universities)** — East African Community, 31 October 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">KW5 open Kiswahili language models</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[KW5-230M: the third generation, Kiswahili first](https://www.regnant.io/dispatch/kw5-230m-the-third-generation-speaks-kiswahili-first)** — Regnant, 30 October 2026
+
+230M-parameter Kiswahili base and assistant under Apache 2.0; 7.90B tokens on a Kaggle TPU; 7 of 14 preset bars met.
 
 </div>
 

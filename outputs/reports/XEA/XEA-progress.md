@@ -3,18 +3,18 @@ title: East Africa — progress report, November 2025 – November 2026
 compiled: 2026-11-26
 period: 2025-11-01 to 2026-11-26
 place: XEA
-ledger_rows: 84
+ledger_rows: 85
 not_held: 0
-record: d2331a2927d9
+record: 8aa284b1fed3
 ---
 
 # East Africa: progress report, November 2025 – November 2026
 
 *Compiled 2026-11-26 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 84 bodies, instruments and systems on this place's ledger, 45 changed position between 2025-11-01 and 2026-11-26, 10 did not, 29 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 85 bodies, instruments and systems on this place's ledger, 45 changed position between 2025-11-01 and 2026-11-26, 10 did not, 30 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 162 sources for this place in the window — 34 in the earlier half (2025-11 to 2026-04), 128 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 163 sources for this place in the window — 34 in the earlier half (2025-11 to 2026-04), 129 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -100,6 +100,7 @@ The EAC's own organs carried most of the period's institutional movement: a new 
 | EAC AI Foundational Module | ***Baseline not held*** | [Approved by the education, science and technology ministers in October 2026 as an AI course for undergraduates in every discipline; partner states were directed to consider adopting it across degree programmes, and the university council was tasked with a regional implementation framework for its rollout](https://www.eac.int/press-releases/138-education,-science-technology-news/3612-eac-ministers-adopt%20-regional-artificial-intelligence-and-digital-transformation-strategies,-approves-establishment-of-regional-ai-foundational-module-for-universities) | ***Baseline not held*** |
 | EAC Regional AI and Productivity Study | ***Baseline not held*** | [Launched at the East Africa CEO and Investment Forum, which closed in Nairobi on 18 September 2026 having put 95 pre-screened investment opportunities worth US$3.95 billion to investors. No terms of reference, author, timetable or publication date for the study is held, and the pipeline figure is the forum's own](https://eabc-online.com/chairperson-of-the-eac-heads-of-state-summit-lauds-the-regions-6-economic-growth-calls-on-the-private-sector-to-drive-shared-prosperity-as-east-africa-ceo-investment-forum-delivers-us3-95/) | ***Baseline not held*** |
 | IGAD Artificial Intelligence Centre of Excellence | ***Baseline not held*** | [The IGAD Council of Ministers endorsed establishing an AI centre of excellence in principle at its 74th extraordinary session and asked member states to bid to host it at the next ordinary session; no host, budget or mandate is set](https://igad.int/communique-of-the-74th-extraordinary-session-of-the-igad-council-of-ministers/) | ***Baseline not held*** |
+| KW5 open Kiswahili language models | ***Baseline not held*** | [A 230-million-parameter Kiswahili base model and assistant trained from the tokenizer up on 7.90 billion Kiswahili tokens, released openly under Apache 2.0 on Hugging Face; the developer reports seven of fourteen pre-set evaluation bars met](https://www.regnant.io/dispatch/kw5-230m-the-third-generation-speaks-kiswahili-first) | ***Baseline not held*** |
 | Regional higher-education quality assurance under AI | ***Baseline not held*** | [The 15th annual East African higher education quality assurance forum met in Kigali on 7 September 2026, bringing together higher education regulators and institutions from across the region to consider whether today's degrees prepare graduates for tomorrow's labour market; the host country's education minister told it the region must rethink how it defines and assures quality as artificial intelligence changes how knowledge is produced, taught and applied.](https://www.ktpress.rw/2026/09/ea-universities-rethink-quality-as-ai-puts-degrees-to-a-new-test/) | ***Baseline not held*** |
 
 <!-- narrative: instruments -->
