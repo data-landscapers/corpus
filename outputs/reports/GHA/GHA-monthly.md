@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: GHA
-ledger_rows: 89
+ledger_rows: 93
 not_held: 9
-record: 3b73d2e614c3
+record: c1f584fd4262
 ---
 
 # News, Oct – Nov 2026
@@ -412,6 +412,20 @@ Ghana's communications minister Samuel Nartey George announced a national data e
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cabinet directive on NITA certification of state technology</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana state bodies must get NITA clearance before deploying technology, says Sam George](https://ghanaguardian.com/ghana-state-bodies-must-get-nita-clearance-before-deploying-technology-says-sam-george/)** — GhanaGuardian, 25 November 2026
+
+Ghana's communications minister, Sam George, said a Cabinet directive requires every state institution to obtain technical certification from NITA before deploying a technology solution, as reported on 25 November 2026. The certification covers security, data protection and data-sovereignty compliance.
+
+</div>
+
+</div>
+
 ### Public debate and participation in policymaking
 
 <div class="monthly-story" markdown="1">
@@ -493,6 +507,14 @@ MTN Ghana (Scancom PLC) told the Ghana Stock Exchange on 2 October 2026 that the
 **[MTN set to deploy 5G services after winning spectrum licenses worth US$202m](https://www.myjoyonline.com/mtn-set-to-deploy-5g-services-after-winning-spectrum-licenses-worth-us202m/)** — MyJoyOnline (Joy Business), 3 October 2026
 
 MTN Ghana says it will roll out 5G once the regulator issues the spectrum licences it has been awarded in the 700 MHz and 3 GHz bands, at a cost of about US$202 million. The company told investors the payments are already in its cash-flow outlook.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mahama to launch Ghana’s 5G network before end of 2026 – Sam George](https://www.citinewsroom.com/2026/11/mahama-to-launch-ghanas-5g-network-before-end-of-2026-sam-george/)** — Citi Newsroom, 24 November 2026
+
+Revised 5G policy raised $240m from 700 MHz, 2.3 GHz and 3 GHz spectrum; signals expected early 2027.
 
 </div>
 
@@ -1012,6 +1034,20 @@ Bank of Ghana Governor Johnson Pandit Asiama told the Invest Ghana Summit on 17 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-money monthly transaction limits</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MoMo announces revised wallet limits in compliance with Bank of Ghana’s financial stability agenda](https://techreviewafrica.com/news/8493/momo-announces-revised-wallet-limits-in-compliance-with-bank-of-ghana-s-financia)** — Tech Review Africa, 25 November 2026
+
+MobileMoney Fintech set new monthly limits from 24 November 2026: GHS 150,000 for Medium KYC customers and GHS 300,000 for Enhanced KYC. The change follows a review covering all of Ghana's dedicated e-money issuers. It is in line with the Bank of Ghana's financial stability agenda.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -1095,6 +1131,20 @@ GIZ reported on 19 November 2026 on its PAIReD local-governance programme, which
 **[Same tax, smarter collection](https://www.graphic.com.gh/business/business-news/gras-new-system-to-collect-digital-vat.html)** — Graphic Online, 8 October 2026
 
 The Ghana Revenue Authority will start collecting VAT on foreign digital services such as streaming at the point of payment from 15 October 2026, through its Sentinel real-time VAT system run with banks and mobile money providers. The 20% combined rate is unchanged, so a GH¢100 service costs GH¢120. The authority estimates GH¢2.5 billion went uncollected on 2025 data.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ghana Integrated Financial Management Information System (GIFMIS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government to relaunch GIFMIS | Ghana News Agency](https://gna.org.gh/2026/11/government-to-relaunch-gifmis/)** — Ghana News Agency, 20 November 2026
+
+Finance ministry readies GIFMIS relaunch; audit bodies urged into quality assurance; unified audit system planned.
 
 </div>
 
@@ -1523,6 +1573,20 @@ Ghana's Ministry of Finance inaugurated a National Technical Working Committee o
 **[Eight in 10 Ghanaian adults have an account, but only 22% are financially healthy](https://3news.com/economy/ghana-financial-health-inclusion-strategy)** — 3News, 7 November 2026
 
 Ghana's Ministry of Finance opened work on a 2027–2031 financial inclusion strategy on 5 November 2026, 3News reported. Deputy Finance Minister Thomas Nyarko Ampem cited 81% account ownership in 2024, from the Global Findex. The 2021 FinScope survey found 22% of adults financially healthy. The ministry expects to launch the strategy in the first half of 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">TAHMO flood early-warning alerts, Kumasi</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[More than 7,600 Kumasi residents receive flood alerts under TAHMO project | Ghana News Agency](https://gna.org.gh/2026/11/more-than-7600-kumasi-residents-receive-flood-alerts-under-tahmo-project/)** — Ghana News Agency, 23 November 2026
+
+7,600 registered, 5,893 active in 2026; voice, WhatsApp and IVR alerts in English, Twi, Dagbani; GSMA and UK funded.
 
 </div>
 
