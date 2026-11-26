@@ -3,9 +3,9 @@ title: Central African Republic — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: CAF
-ledger_rows: 17
+ledger_rows: 18
 not_held: 5
-record: 391af3f9a4cb
+record: dd3dcb8d3ab5
 ---
 
 # News, Oct – Nov 2026
@@ -264,6 +264,8 @@ The Federation of Women Entrepreneurs' Associations of the Central African Repub
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
 <a href="#training-and-skills">Training and skills</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#research-institutions">Research institutions</a>
 </nav>
 
 ### Training and skills
@@ -277,6 +279,22 @@ The Federation of Women Entrepreneurs' Associations of the Central African Repub
 **[La Centrafrique tend la main à la Russie pour renforcer sa gouvernance numérique](https://www.afrique-sur7.fr/la-centrafrique-tend-la-main-a-la-russie-pour-renforcer-sa-gouvernance-numerique)** — Afrique Sur 7, 9 October 2026
 
 The Central African Republic signed a five-year digital governance partnership with Russia, implemented through Moscow's HSE University, on 9 October 2026 at the Global Digital Forum in Moscow. It covers training for civil servants, joint research and case studies, and seminars. No cost or funding is stated.
+
+</div>
+
+</div>
+
+### Research institutions
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">University of Bangui data, AI and cybersecurity laboratory</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Contribution à la discussion thématique de haut niveau : Technologies émergentes](https://pp.itu.int/2026/wp-content/uploads/sites/3/2026/11/CENTRAL-AFRICAN-REPUBLIC_Roger-ANDJALANDJI-Technologies.pdf)** — Ministère de l’Économie numérique, des Postes et Télécommunications (République centrafricaine), 11 November 2026
+
+ITU PP-26, Doha, 11 Nov 2026; pooled regional compute, AI in Sango, one LDC expert per AI standards group.
 
 </div>
 
