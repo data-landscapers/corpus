@@ -46,7 +46,7 @@ gov.policy--ai-strategy,No change,"A [National AI and Emerging Technologies Stra
 
 A ministry secretariat is reported operating under a named head with no budget line, staffing figure or mandate document held ([secretariat](2026-03-12-govt-crafts-national-ai-strategy)).
 
-A separate policy to regulate artificial intelligence and social media was announced to an editors' guild meeting; it is distinct from the strategy and the repository holds no other record of it ([media policy](2026-08-02-editors-raise-alarm-over-ai-misuse-journalist-identity-data-protection-gaps)).
+A separate policy to regulate AI and social media was announced to an editors' guild meeting, with no other record of it ([media policy](2026-08-02-editors-raise-alarm-over-ai-misuse-journalist-identity-data-protection-gaps)).
 
 2026-09-10 - a strategy is stated to be in development, [aimed at building national capacity to develop, govern and benefit from artificial intelligence rather than depending on foreign systems](2026-09-10-nilepost-uganda-ai-sovereignty-strategy). No draft, publication date, budget, lead institution or consultation process is named.
 
@@ -54,7 +54,9 @@ A separate policy to regulate artificial intelligence and social media was annou
 
 2025-11-03 — [the ICT state minister announced a national AI task force to shape a regulatory framework](2025-11-03-uga-uganda-forms-ai-taskforce-to-guide-safe-use-of-emerging-technologies); no constituting instrument is held.
 
-2026-11 - [a Commonwealth youth AI readiness index placed Uganda 23rd of 56 with 47.0](2026-11-13-independent-uganda-youth-ai-economy-readiness).",UGA-tech.ai-ai-emerging-technologies-strategy|UGA-tech.ai-ministry-ict-ai-secretariat|UGA-tech.ai-policy-regulate-ai-social|UGA-gov.policy-national-ai-strategy|UGA-tech.ai-national-ai-task-force|UGA-gov.policy-national-4ir-strategy|UGA-tech.ai-ayre-index-placing,2,UGA-tech.ai-ai-emerging-technologies-strategy,,,,,,,2026-08-31,0,strategy still in drafting at window close; no adopted text or gazette record
+2026-11 - [a Commonwealth youth AI readiness index placed Uganda 23rd of 56 with 47.0](2026-11-13-independent-uganda-youth-ai-economy-readiness).
+
+2025-11 - the ICT ministry [reported progress on a National AI Governance Framework](2025-11-08-uga-government-pushes-for-indigenous-ai-solutions-in-health-at-2nd-ai-in-h); no draft is published.",UGA-tech.ai-ai-emerging-technologies-strategy|UGA-tech.ai-ministry-ict-ai-secretariat|UGA-tech.ai-policy-regulate-ai-social|UGA-gov.policy-national-ai-strategy|UGA-tech.ai-national-ai-task-force|UGA-gov.policy-national-4ir-strategy|UGA-tech.ai-ayre-index-placing|UGA-tech.ai-national-ai-governance-framework,2,UGA-tech.ai-ai-emerging-technologies-strategy,,,,,,,2026-08-31,0,strategy still in drafting at window close; no adopted text or gazette record
 gov.policy--data-localisation-policies,Movement,Cross-border transfer runs on the [2019 statute](2019-05-03-data-protection-and-privacy-act); the regulator [applied it extraterritorially to a foreign platform](2026-02-20-uganda-pdpo-decision-adlegal-v-whatsapp-meta) and a satellite licence carries [localisation conditions](2026-05-22-ucc-starlink-data-sovereignty).,"The operative provision is section 19 of the [Data Protection and Privacy Act 2019](2019-05-03-data-protection-and-privacy-act), which governs transfer of personal data outside the country; no separate localisation policy or regulation exists.
 
 2026-02 - the data protection office [ordered two foreign platform companies to comply with the Act's cross-border transfer rules](2026-02-20-uganda-pdpo-decision-adlegal-v-whatsapp-meta), and by July [all five orders had been complied with inside their 90-day timelines, with no appeal and no fine](2026-07-29-whatsapp-privacy-updates-uganda-data-protection-enforcement).
@@ -568,13 +570,15 @@ dpi.pay--p2p-p2g-and-p2b-functionality,Movement,"Shared agent banking values [ro
 
 2026-03 - the largest operator [removed transaction fees on all payments below UGX 5,000](2026-03-30-mtn-momo-power-of-momo-campaign) to push everyday payments off cash.
 
-The fee removal is a commercial campaign rather than a regulated tariff, with no stated duration, and the repository holds no measure of what either the campaign or the shortcode did to volumes.
+The fee removal is a commercial campaign with no stated duration, and no measure of its effect on volumes has been found.
 
 2026-09-22 - a [microfinance bank put deposits, withdrawals, loan repayments and bill payments on a switch operator's network of more than 21,000 agents](2026-09-22-uga-pride-bank-interswitch-partnership).
 
 2026-11-04 - a mortgage bank [joined the same switch network of more than 23,000 agents](2026-11-05-interswitch-deepens-uganda-s-digital-banking-reach).
 
-2026-10 - the [national payment switch was still under consultation in the central bank's 2025/26 annual report](2026-10-31-uga-can-ugandas-national-payment-switch-bring-down-digital-transaction-cos).",UGA-dpi.pay-interbank-and-agent-platforms|UGA-dpi.pay-e-money-transaction-value|UGA-dpi.pay-tax-payment-mtn-momo|UGA-dpi.pay-pride-bank-interswitch-agency|UGA-dpi.pay-housing-finance-bank-interswitch-agency|UGA-dpi.pay-payment-switch|UGA-dpi.pay-electric-bus-cashless-route|UGA-dpi.pay-nssf-smartlife-flexi,3,UGA-dpi.pay-e-money-transaction-value|UGA-dpi.pay-interbank-and-agent-platforms|UGA-dpi.pay-tax-payment-mtn-momo,,,,,,,2026-08-31,0,central bank figures; mobile-money provider interoperability not on record
+2026-10 - the [national payment switch was still under consultation in the central bank's 2025/26 annual report](2026-10-31-uga-can-ugandas-national-payment-switch-bring-down-digital-transaction-cos).
+
+2026-11-24 - [a payments firm began routing card payments locally through the same switch](2026-11-24-uga-interswitch-and-pesapal-expand-payment-interoperability-and-verve-card).",UGA-dpi.pay-interbank-and-agent-platforms|UGA-dpi.pay-e-money-transaction-value|UGA-dpi.pay-tax-payment-mtn-momo|UGA-dpi.pay-pride-bank-interswitch-agency|UGA-dpi.pay-housing-finance-bank-interswitch-agency|UGA-dpi.pay-payment-switch|UGA-dpi.pay-electric-bus-cashless-route|UGA-dpi.pay-nssf-smartlife-flexi|UGA-dpi.pay-pesapal-interswitch-integration,3,UGA-dpi.pay-e-money-transaction-value|UGA-dpi.pay-interbank-and-agent-platforms|UGA-dpi.pay-tax-payment-mtn-momo,,,,,,,2026-08-31,0,central bank figures; mobile-money provider interoperability not on record
 dpi.pay--population-uptake,Movement,"[Electronic money transaction value grew 28.6 per cent](2025-10-06 BoU's New Payment System Cuts Delays and Boosts E-Money by 28.6%) with growth in agents and handsets while both screen-based channels contracted, and [active wallet users](2026-08-05-mtn-uganda-sustainability-report-2025) rose on the operator's own report.","The growth sits in agents and handsets; both screen-based channels contracted ([value](2025-10-06 BoU's New Payment System Cuts Delays and Boosts E-Money by 28.6%)).
 
 The operator's two transaction-value figures are not reconcilable and no growth rate is derived from them ([users](2026-08-05-mtn-uganda-sustainability-report-2025), [separation](2025-07-23-mtn-uganda-shareholders-approve-momo-separation)).
@@ -954,7 +958,9 @@ What is not held is any published research output feeding a policy document - th
 
 2025-01 - the Centre for Multilateral Affairs [called for an AI law and an inclusive task force](2025-01-01-uga-advancing-inclusive-and-contextually-relevant-ai-policies-in-uganda).
 
-2025-09 - CIPESA's country report [found no AI strategy or AI-specific law](2025-09-01-uga-state-of-internet-freedom-in-africa-2025-navigating-the-implications-o).",UGA-capacity.research-economic-policy-research-centre|UGA-capacity.research-jica-makerere-collaboration|UGA-tech.ai-ai-readiness-assessment|UGA-capacity.research-cipesa|UGA-capacity.research-centre-for-multilateral-affairs,2,UGA-capacity.research-economic-policy-research-centre|UGA-tech.ai-ai-readiness-assessment,,,,,,,2026-08-31,0,research theme named and a validation workshop; no outputs on record
+2025-09 - CIPESA's country report [found no AI strategy or AI-specific law](2025-09-01-uga-state-of-internet-freedom-in-africa-2025-navigating-the-implications-o).
+
+2024-05-30 - [an AI health laboratory set up by the government with Makerere University was launched](2025-11-08-uga-government-pushes-for-indigenous-ai-solutions-in-health-at-2nd-ai-in-h).",UGA-capacity.research-economic-policy-research-centre|UGA-capacity.research-jica-makerere-collaboration|UGA-tech.ai-ai-readiness-assessment|UGA-capacity.research-cipesa|UGA-capacity.research-centre-for-multilateral-affairs|UGA-capacity.research-makerere-ai-health-lab,2,UGA-capacity.research-economic-policy-research-centre|UGA-tech.ai-ai-readiness-assessment,,,,,,,2026-08-31,0,research theme named and a validation workshop; no outputs on record
 include.access--citizen-feedback-portals,Movement,"[Six of nineteen service centres](2026-07-27-uganda-tororo-one-stop-service-uganda-centre-inspection) were operational at a readiness inspection, and the two accounts conflict on the early-2026 operational count.","Six of nineteen were operational at the inspection, and two accounts conflict on the early-2026 count ([centres](2026-07-27-uganda-tororo-one-stop-service-uganda-centre-inspection), [construction](2026-03-13-service-uganda-centre-construction-gulu)).
 
 A further centre began construction on a USh4bn contract at the postal service's premises, on a model cabinet approved in 2019 ([centre](2026-03-13-service-uganda-centre-construction-gulu)).

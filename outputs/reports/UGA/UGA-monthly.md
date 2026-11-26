@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: UGA
-ledger_rows: 62
+ledger_rows: 63
 not_held: 11
-record: 5a3c03d942fd
+record: 4d16042cd0f1
 ---
 
 # News, Oct – Nov 2026
@@ -713,6 +713,20 @@ Stanbic Bank Uganda launched an embedded-finance model in Kampala on 17 November
 **[Mobile money accounts hit 62m, but 23m go three months without transacting](https://www.monitor.co.ug/uganda/business/markets/mobile-money-accounts-hit-62m-but-23m-go-three-months-without-transacting--5677234)** — Daily Monitor, 20 November 2026
 
 Bank of Uganda data reported on 20 November 2026 show 62.12 million registered mobile money accounts in September 2026, up 17.5% year on year. Accounts used in the previous 90 days numbered 39.10 million, or 62.9% of the total. That share was 67.3% a year earlier.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Pesapal routing on the Interswitch network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Interswitch and Pesapal Expand Payment Interoperability and Verve Card Acceptance in Uganda](https://www.pesapal.com/blog/interswitch-and-pesapal-expand-payment-interoperability-and-verve-card-acceptance-in-uganda)** — Pesapal, 24 November 2026
+
+Pesapal POS routed locally via Interswitch to 19+ institutions; Verve at 4,900+ merchants, cross-border cards.
 
 </div>
 
