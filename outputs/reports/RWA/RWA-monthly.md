@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: RWA
-ledger_rows: 39
+ledger_rows: 41
 not_held: 7
-record: 59463dd50122
+record: 2cfdcd87a692
 ---
 
 # News, Oct – Nov 2026
@@ -287,6 +287,8 @@ The National Bank of Rwanda said on 8 October 2026 that financial-sector fraud c
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
@@ -295,6 +297,22 @@ The National Bank of Rwanda said on 8 October 2026 that financial-sector fraud c
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital health policy action roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[timbuktoo Africa develops policy roadmap to accelerate digital health innovation in Rwanda](https://techreviewafrica.com/news/8478/timbuktoo-africa-develops-policy-roadmap-to-accelerate-digital-health-innovation)** — Tech Review Africa, 25 November 2026
+
+The timbuktoo HealthTech Hub said in November 2026 that it is drafting a policy action roadmap for Rwanda's digital health systems, through roundtables with firms, hubs, academics, development partners and public bodies. The roadmap covers how health products connect to national systems, use health data, gain approval, run pilots and enter public procurement. No completion date was given.
+
+</div>
+
+</div>
 
 ### Digital Identity and CRVS
 
@@ -689,6 +707,20 @@ Rwanda's Ministry of Education inaugurated a new Rwanda Coding Academy campus in
 **[코이카, 르완다 코딩 아카데미 새 캠퍼스 준공](https://koica.go.kr/bbs/koica_kr/151/391677/artclView.do)** — Korea International Cooperation Agency (KOICA), 23 November 2026
 
 The Korea International Cooperation Agency and the Rwanda TVET Board held a ceremony on 20 November 2026. The ceremony was for the new Rwanda Coding Academy campus in Nyabihu. The agency said its support project ran from 2021 to 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Basic education board e-learning platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[From Investments to Integration: Building a Resilient Digital Learning System in Rwanda](https://www.worldbank.org/en/news/feature/2026/11/24/building-resilient-digital-learning-system-rwanda-mastercard-fdn)** — World Bank, 24 November 2026
+
+REB Moodle upgraded 3.1 to 5.1; ICT integration pilot in six model schools; EdTech Readiness Index 2.0 run.
 
 </div>
 
