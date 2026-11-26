@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-24-ken-what-data-is-at-risk-in-the-alleged-740gb-ecitizen-data-breach",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Pulse Kenya reports that eCitizen runs OAuth and single sign-on authentication infrastructure that helps connected services verify users, which VECERT raised concerns about possible unauthorised access to; the claim is unconfirmed.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "eCitizen OAuth and single sign-on",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Pulse Kenya says eCitizen's OAuth and single sign-on infrastructure serves connected services, not one system alone.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "eCitizen OAuth and single sign-on",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "government services platform with OAuth and SSO",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

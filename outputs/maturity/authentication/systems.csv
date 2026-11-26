@@ -56,6 +56,7 @@ BEN,ANIP biometric authentication,ANIP,authentication,,ANIP,,2025-01-01-ben-foun
 BEN,national PKI (dual PKI system),Benin,authentication,,ASIN,,2025-06-23 Benin shares its X-Road-inspired DPI interoperability experience in peer learning webinar
 BEN,UXP,Benin,other,Cybernetica UXP,ASIN,,2025-06-23 Benin shares its X-Road-inspired DPI interoperability experience in peer learning webinar
 BEN,SIGIBé,SIGIBé (Système intégré de gestion des impôts du Bénin),other,source code owned by the tax administration,DGI,national,2026-11-19-ben-one-platform-for-all-what-benin-s-e-tax-rollout-to-small-businesses-ca
+BEN,PNIF,Benin,other,online microcredit platform,"Government, with the National Microfinance Fund",,2026-11-24-ben-benin-la-pnif-propose-des-credits-de-50-000-a-50-millions-de-fcfa-en-l
 BFA,SIM and cybercafe subscriber identification,Burkina Faso,other,operators' subscriber identification databases,electronic communications providers; regulator ARCEP,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office National d'Identification database,Burkina Faso,other,,Office National d'Identification,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office national d'identification,Burkina Faso,other,,ONI,,2026-08-03-niger-mission-technique-burkina-identite-numerique
@@ -409,6 +410,8 @@ KEN,Maisha Namba / Maisha Card,Kenya,other,,National Registration Bureau,,2024-0
 KEN,Electronic Certification Service Providers (E-CSPs),Kenya,authentication,PKI and digital certificates,Licensed by the Communications Authority of Kenya,,2025-10-07-ken-ca-orders-cii-licensed-e-csp-digital-certificates
 KEN,IPRS,Kenya,authentication,,Government of Kenya,,2026-05-01-ken-the-kenya-digital-identity-playbook-identity-as-foundation-of-digital
 KEN,Wibmo 3-D Secure Access Control Server,KEN,other,EMV 3-D Secure,Kenswitch,,2026-11-02-ken-kenswitch-wibmo-3ds-access-control-server-partnership
+KEN,eCitizen,Kenya,other,,State Department for Immigration and Citizen Services,,2026-11-24-ken-probe-after-hackers-allegedly-breach-ecitizen-steal-millions-of-person
+KEN,eCitizen,Kenya,other,government services platform with OAuth and SSO,State Department for Immigration and Citizen Services,,2026-11-24-ken-what-data-is-at-risk-in-the-alleged-740gb-ecitizen-data-breach
 LBR,SIM registration (LTA regulations),Liberia,other,NIR platform,Liberia Telecommunications Authority,,2025-04-30-no-national-id-no-transaction-eo147-observer
 LBR,National Biometric Identification System (NBIS),Liberia,other,,National Identification Registry (NIR),,2025-04-30-no-national-id-no-transaction-eo147-observer
 LBR,Civil Service payroll verification,Liberia,other,,Civil Service Agency,,"2025-03-12 Liberia says national ID system drives digital economy, facilitates service delivery"
@@ -477,6 +480,8 @@ MAR,Moutamadris Tadqiq,Morocco,other,online education portal,Ministry of Nationa
 MAR,ANCFCC electronic signature,Morocco,authentication,,ANCFCC,,2025-07-09-mar-l-ancfcc-fer-de-lance-d-un-cadastre-intelligent-au-service-d-un-etat-p
 MAR,Mon identité numérique,Morocco,authentication,NFC chip on CNIE,DGSN,,2025-01-26-mar-plateforme-epolice-comment-la-dgsn-amorce-sa-transformation-digitale-p
 MAR,Nationality certificate online service,Morocco,authentication,,Ministry of Justice,,2024-07-15-mar-morocco-s-justice-ministry-to-integrate-artificial-intelligence-in-cou
+MAR,Mon Identite Numerique,Morocco,authentication,online identity verification service,Government,,2026-11-24-mar-pr-sentation-rabat-de-e-rokhsati-une-plateforme-de-d-mat-rialisation-d
+MAR,E-ROKHSATI,Morocco,other,licence renewal platform,NARSA,,2026-11-24-mar-pr-sentation-rabat-de-e-rokhsati-une-plateforme-de-d-mat-rialisation-d
 MDG,IDMS,MDG,other,,Presidency / UGD (PRODIGY),,2026-03-02-ugd-idms-audit-tdr
 MDG,digital identity card,Madagascar digital identity,other,,Ministry of Digital Development,,2025-08-21-mdg-interview-with-hon-stephanie-delmotte-minister-of-digital-development
 MDG,PKI (ejbca.pki.gov.mg),Madagascar,authentication,EJBCA,,,2025-12-18-worldbank-govtech-dataset-dec2025
@@ -907,6 +912,8 @@ TUN,El Khadamat,Tunisia,other,mobile app,Ministry of Communication Technologies,
 TUN,Mobile ID (E-Houwiya),Mobile ID / E-Houwiya,authentication,OpenID Connect and signing APIs,Ministry of Communication Technologies,,2026-11-16-mtc-mobile-id-faq
 TUN,Mobile ID infrastructure,Tunisia,authentication,,Ministry of Communication Technologies,,2024-09-25-afdb-tunisie-mobile-id-infrastructure-attribution-contrat
 TUN,Khadamat,Tunisia,authentication,application,Ministry of Communication Technologies,,2026-11-19-tun-minister-hemissi-presents-his-record-and-it-was-anything-but
+TUN,Service national de l'identite numerique,Tunisia,authentication,national digital identity service,State,,2026-11-25-tun-transformation-digitale-le-comit-g-n-ral-des-assurances-d-mat-rialise
+TUN,CGA insurance intermediary licensing platform,Tunisia,other,online licensing portal,Comite general des assurances,,2026-11-25-tun-transformation-digitale-le-comit-g-n-ral-des-assurances-d-mat-rialise
 TZA,e-KYC against the NIDA database,TZA,other,NIDA database,National Identification Authority (NIDA),,2026-07-28-tanzania-financial-inclusion-expands-usage-gap-next-challenge
 TZA,NIDA institution connections,TZA,other,NIDA,National Identification Authority (NIDA),,2025-04-14-nida-kutoa-namba-watoto-wageni-jamii-namba
 TZA,SIM card registration,Tanzania,other,,TCRA,,2026-09-17-tza-dailynews-unclaimed-ids-law-in-offing
@@ -1003,6 +1010,7 @@ ZAF,MyMzanzi app,MyMzanzi,authentication,,Department of Home Affairs,,2026-10-26
 ZAF,Online Verification Service (OVS),South Africa,authentication,,Department of Home Affairs,,2026-08-14-zaf-question-no-876-cw623e-to-the-minister-of-home-affairs-draft-digital-i
 ZAF,Online Verification Service,South Africa,authentication,National Population Register verification,Department of Home Affairs,,2026-04-15-zaf-huge-win-for-home-affairs-after-6-500-fee-increase
 ZAF,Live Capture,South Africa,authentication,HANIS/ABIS,Department of Home Affairs,,2025-11-05-zaf-question-nw4978-to-the-minister-of-home-affairs
+ZAF,EMCS 2.0,South Africa,other,,Border Management Authority,,2026-11-24-zaf-no-budget-for-digital-border-control-at-land-ports-as-sa-faces-busy-festive-
 ZMB,FISP e-Voucher,Zambia,other,,Ministry of Agriculture,,2026-01-28-zambia-fisp-e-voucher-pdu
 ZMB,SmartCarePro Electronic Health Record System,Zambia,other,MOSIP integration,SMART Zambia,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration
 ZMB,MOSIP-based eKYC system,Zambia,other,MOSIP,SMART Zambia,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration
