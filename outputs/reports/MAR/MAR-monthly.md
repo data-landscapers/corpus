@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: MAR
-ledger_rows: 46
+ledger_rows: 49
 not_held: 13
-record: 7e69810538bf
+record: 7e4c668e0bdd
 ---
 
 # News, Oct – Nov 2026
@@ -680,6 +680,20 @@ Morocco's Watiqa portal for civil-status documents was still down on 18 November
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-ROKHSATI driving-licence platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Présentation à Rabat de 'E-ROKHSATI', une plateforme de dématérialisation des procédures de renouvellement des permis de conduire](https://maroc.ma/fr/actualites/presentation-rabat-de-e-rokhsati-une-plateforme-de-dematerialisation-des-procedures-de-renouvellement)** — Maroc.ma, 24 November 2026
+
+NARSA platform; identity via Mon Identité Numérique; QR receipt; 11m+ licences, 4,000 certificates a day.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -706,6 +720,8 @@ A Fez-Meknes summit proposed a regional micro data centre, a digital health lab,
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
@@ -793,6 +809,36 @@ Ahmed Rahhou is Morocco's Minister of AI, Digital Transition and Administrative 
 **[Renseignement financier : L'ANRF intègre l'IA pour améliorer son capital informationnel](https://aujourdhui.ma/economie/renseignement-financier-lanrf-integre-lia-pour-ameliorer-son-capital-informationnel)** — Aujourd'hui le Maroc, 11 November 2026
 
 Morocco's National Financial Intelligence Authority (ANRF) launched a tender, reported on 11 November 2026, for a secure AI-assistant platform. It must work in Arabic, French and English and include a legal assistant from launch. The authority wants control of its data and models, and capacity for at least 100 simultaneous users.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Artificial intelligence inside sectoral systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[\[Tribune\] IA en sante: le modele montpellierain, une lecon pour Rabat](https://telquel.ma/2026/11/19/tribune-ia-en-sante-le-modele-montpellierain-une-lecon-pour-rabat_2018902)** — Telquel.ma, 19 November 2026
+
+Op-ed: Jazari network lacks a health strand; AI-assisted ultrasound extending to 50 rural centres, Béni Mellal-Khénifra.
+
+</div>
+
+</div>
+
+### ICT Industry
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital offshoring employment and export revenue</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Présentation du projet de budget sectoriel 2027 du ministère de l’Intelligence artificielle, de la Transformation numérique et de la Réforme de l’administration devant la Chambre des conseillers](https://mmsp.gov.ma/fr/actualites/pr%C3%A9sentation-du-projet-de-budget-sectoriel-2027-du-minist%C3%A8re-de-l%E2%80%99intelligence-artificielle-de-la-transformation-num%C3%A9rique-et-de-la-r%C3%A9forme-de-l%E2%80%99administration-devant-la-chambre-des-conseillers)** — Ministère de l'Intelligence artificielle, de la Transformation numérique et de la Réforme de l'Administration, 24 November 2026
+
+Cloud First launch, open-source national LLMs, Jazari roll-out for 2027; offshoring MAD 27.08bn, 167,000 jobs (2025).
 
 </div>
 
