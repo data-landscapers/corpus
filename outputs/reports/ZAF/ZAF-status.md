@@ -1,12 +1,12 @@
 ---
 title: South Africa: status report
-compiled: 2026-11-25
+compiled: 2026-11-26
 place: ZAF
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 352
+sources_cited: 353
 sections_written: 39
 not_established: 1
 acquire_lines: 49
@@ -143,7 +143,7 @@ The largest sums that have actually changed hands went to the state: at the [ICA
 
 [Data took 62.4% of Telkom's group revenue in the quarter to 30 June 2026](https://techcabal.com/2026/08/04/telkom-data/). [Its data subscribers grew 15.5% to 19.8 million, while prepaid ARPU stayed broadly flat at R59](https://www.itweb.co.za/article/telkoms-data-first-strategy-lifts-q1-earnings/Olx4z7kaoPeq56km) (quarter to June 2026). [Group capital expenditure fell 19.4% to R888m in the quarter to June 2026](https://www.itweb.co.za/article/telkoms-data-first-strategy-lifts-q1-earnings/Olx4z7kaoPeq56km). [In the quarter to June 2026 Openserve passed 26,541 homes and connected 26,023, lifting its connectivity rate to 53.9%](https://www.itweb.co.za/article/telkoms-data-first-strategy-lifts-q1-earnings/Olx4z7kaoPeq56km). [The two largest operators are seeking review of Icasa's new data-bundle rules](https://www.itweb.co.za/article/malatsi-backs-consumer-sentiment-on-data-expiry-debate/RgeVDMPRkPJvKJN3).
 
-[In July 2026, 794MHz was assigned of the 1,155MHz with assignment plans or licences](https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2). [The regulator's roadmap puts national need between about 3,000MHz and above 14,000MHz, depending on how much traffic fibre and Wi-Fi carry](https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2). [On 25 September 2026 the department withdrew its 2019 policy reserving high-demand spectrum for a wireless open access network, which was never licensed](https://www.itweb.co.za/article/wireless-open-access-network-licensing-direction-withdrawn/JBwEr7n3lQwM6Db2). [On 10 November 2026 Icasa opened a questionnaire on licensing six more IMT bands, with responses due on 30 November 2026](https://www.icasa.org.za/news/2026/icasa-invites-stakeholder-input-on-the-planned-licensing-of-high-demand-spectrum). [A policy direction gazetted on 20 October 2026 orders Icasa to review the 2010 facilities-leasing rules and write rapid-deployment regulations](https://www.gov.za/sites/default/files/gcis_document/202610/55609gen4026.pdf). [Access to spectrum is the one common demand the community network sector makes of Icasa (July 2026)](https://www.apc.org/en/news/how-community-connectivity-pioneers-are-changing-south-africas-digital-policy-and-regulation).
+[In July 2026, 794MHz was assigned of the 1,155MHz with assignment plans or licences](https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2). [The regulator's roadmap puts national need between about 3,000MHz and above 14,000MHz, depending on how much traffic fibre and Wi-Fi carry](https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2). [On 25 September 2026 the department withdrew its 2019 policy reserving high-demand spectrum for a wireless open access network, which was never licensed](https://www.itweb.co.za/article/wireless-open-access-network-licensing-direction-withdrawn/JBwEr7n3lQwM6Db2). [On 10 November 2026 Icasa opened a questionnaire on licensing six more IMT bands, with responses due on 30 November 2026](https://www.icasa.org.za/news/2026/icasa-invites-stakeholder-input-on-the-planned-licensing-of-high-demand-spectrum); [on 25 November it moved the closing date to 29 January 2027](https://www.gov.za/sites/default/files/gcis_document/202611/55790gen4276.pdf). [A policy direction gazetted on 20 October 2026 orders Icasa to review the 2010 facilities-leasing rules and write rapid-deployment regulations](https://www.gov.za/sites/default/files/gcis_document/202610/55609gen4026.pdf). [Access to spectrum is the one common demand the community network sector makes of Icasa (July 2026)](https://www.apc.org/en/news/how-community-connectivity-pioneers-are-changing-south-africas-digital-policy-and-regulation).
 
 ### Data Storage
 <!-- infra.store -->
