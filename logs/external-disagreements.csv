@@ -1,0 +1,261 @@
+kind,source,iso3,indicator_id,study,fit,register,name,register_year,corpus_stage,corpus_years,url
+absent,gtmi,BWA,gov.legislate--access-to-information-legislation,accesstoinformationlaw,same,0 No,,,3,2024;2025,
+absent,gtmi,MLI,gov.legislate--access-to-information-legislation,accesstoinformationlaw,same,0 No,,,3,1998;2026,
+absent,gtmi,SEN,gov.legislate--access-to-information-legislation,accesstoinformationlaw,same,0 No,,,4,2025;2026,
+absent,gtmi,ZWE,gov.legislate--access-to-information-legislation,accesstoinformationlaw,same,0 No,,,5,2020;2021;2024;2025;2026,
+absent,gtmi,MWI,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,0 No,,,3,2023;2024;2026,
+absent,gtmi,CIV,dpi.exchange--national-data-exchange-system,dataexchange,same,0 No,,,3,2025;2026,
+absent,gtmi,DZA,dpi.exchange--national-data-exchange-system,dataexchange,same,0 No,,,3,2023;2025;2026,
+absent,gtmi,MOZ,dpi.exchange--national-data-exchange-system,dataexchange,same,0 No,,,3,2023;2026,
+absent,gtmi,SDN,dpi.exchange--national-data-exchange-system,dataexchange,same,0 No,,,5,2026,
+absent,gtmi,COG,gov.protect--data-protection-authority,dataprotectionauthority,same,0 No,,,3,2025;2026,
+absent,gtmi,GMB,gov.protect--data-protection-authority,dataprotectionauthority,same,0 No,,,3,2025;2026,
+absent,gtmi,SOM,gov.protect--data-protection-authority,dataprotectionauthority,same,0 No,,,3,2023;2024;2026,
+absent,unctad,BDI,gov.legislate--data-protection-legislation,dataprotectionlaw,same,No Legislation,,,3,2026,
+absent,gtmi,CAF,gov.legislate--data-protection-legislation,dataprotectionlaw,same,0 No,,,3,2024;2025;2026,
+absent,unctad,CAF,gov.legislate--data-protection-legislation,dataprotectionlaw,same,No Legislation,,,3,2024;2025;2026,
+absent,gtmi,COG,gov.legislate--data-protection-legislation,dataprotectionlaw,same,0 No,,,3,2019;2025;2026,
+absent,unctad,COM,gov.legislate--data-protection-legislation,dataprotectionlaw,same,No Legislation,,,3,2021;2024;2025,
+absent,gtmi,DJI,gov.legislate--data-protection-legislation,dataprotectionlaw,same,0 No,,,3,2025,
+absent,unctad,DJI,gov.legislate--data-protection-legislation,dataprotectionlaw,same,No Legislation,,,3,2025,
+absent,unctad,LBR,gov.legislate--data-protection-legislation,dataprotectionlaw,same,No Legislation,,,3,2024;2025;2026,
+absent,gtmi,SOM,gov.legislate--data-protection-legislation,dataprotectionlaw,same,0 No,,,3,2023;2024;2026,
+absent,gtmi,MOZ,gov.policy--digital-transformation-strategy,digitalstrategy,same,0 No,,,3,2019;2021;2026;2027;2028;2036,
+absent,gtmi,NAM,gov.policy--digital-transformation-strategy,digitalstrategy,same,0 No,,,3,2025;2026;2029,
+absent,unctad,CAF,gov.legislate--e-commerce-legislation,ecommercelaw,same,No Legislation,,,3,2022;2024,
+absent,unctad,COG,gov.legislate--e-commerce-legislation,ecommercelaw,same,No Legislation,,,3,2019;2026,
+absent,unctad,COM,gov.legislate--e-commerce-legislation,ecommercelaw,same,No Legislation,,,3,2021;2024,
+absent,unctad,GNQ,gov.legislate--e-commerce-legislation,ecommercelaw,same,No Legislation,,,3,2017;2022,
+absent,unctad,STP,gov.legislate--e-commerce-legislation,ecommercelaw,same,No Legislation,,,3,2025;2026,
+absent,gtmi,SDN,dpi.govtech--e-government-services,egovservices,same,0 No,,,5,2026,
+absent,gtmi,SWZ,dpi.govtech--e-government-services,egovservices,same,0 No,,,4,2025;2026,
+absent,gtmi,GHA,include.access--citizen-participation-in-policy,eparticipation,same,0 No,,,3,2021;2023;2024,
+absent,gtmi,GIN,include.access--citizen-participation-in-policy,eparticipation,same,0 No,,,3,2023;2026,
+absent,gtmi,MRT,include.access--citizen-feedback-portals,feedbackportals,same,0 No,,,3,2024;2025,
+absent,gtmi,BWA,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,3,2004;2023;2026,
+absent,gtmi,CIV,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,3,2025;2026,
+absent,gtmi,DZA,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,3,2023;2025;2026,
+absent,gtmi,GMB,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,3,2023;2025,
+absent,gtmi,LBR,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,4,2023;2024;2025;2026,
+absent,gtmi,LBY,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,3,2023;2025;2026,
+absent,gtmi,LSO,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,4,2024;2025;2026,
+absent,gtmi,MAR,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,5,2024;2025;2026,
+absent,gtmi,MWI,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,5,2025;2026,
+absent,gtmi,SDN,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,3,2023;2026,
+absent,gtmi,SEN,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,3,2023;2026,
+absent,gtmi,SLE,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,4,2023;2025;2026,
+absent,gtmi,SOM,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,5,2025;2026,
+absent,gtmi,SWZ,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,3,2021;2023;2024;2025,
+absent,gtmi,ZAF,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,5,2025;2026,
+absent,gtmi,ZMB,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,4,2025;2026,
+absent,gtmi,ZWE,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,0 No,,,4,2026,
+absent,gtmi,CIV,gov.policy--data-interoperability-framework-roadmap,interoperability,same,0 No / Unknown,,,3,2021,
+absent,gtmi,COD,gov.policy--data-interoperability-framework-roadmap,interoperability,same,0 No / Unknown,,,3,2022,
+absent,gtmi,GNB,gov.policy--data-interoperability-framework-roadmap,interoperability,same,0 No / Unknown,,,3,2025;2026,
+absent,gtmi,RWA,gov.policy--data-interoperability-framework-roadmap,interoperability,same,0 No / Unknown,,,3,2019;2025,
+absent,gtmi,GAB,dpi.pay--revenue-collection,revenuecollection,same,0 No,,,3,2023;2025;2026;2027,
+absent,gtmi,GMB,dpi.pay--revenue-collection,revenuecollection,same,0 No,,,3,2023;2025;2026,
+absent,gtmi,LBY,dpi.pay--revenue-collection,revenuecollection,same,0 No,,,3,2023;2025;2026,
+absent,gtmi,LSO,dpi.pay--revenue-collection,revenuecollection,same,0 No,,,4,2023;2024;2026,
+absent,gtmi,MOZ,dpi.pay--revenue-collection,revenuecollection,same,0 No,,,3,2023;2025;2026,
+absent,gtmi,NER,dpi.pay--revenue-collection,revenuecollection,same,0 No,,,3,2019;2023;2026,
+absent,gtmi,SDN,dpi.pay--revenue-collection,revenuecollection,same,0 No,,,3,2024;2025;2026,
+absent,gtmi,SEN,dpi.pay--revenue-collection,revenuecollection,same,0 No,,,3,2023;2026,
+absent,gtmi,SOM,dpi.pay--revenue-collection,revenuecollection,same,0 No,,,3,2023;2024;2026,
+absent,gtmi,STP,dpi.pay--revenue-collection,revenuecollection,same,0 No,,,3,2023;2025;2026,
+absent,gtmi,TCD,dpi.pay--revenue-collection,revenuecollection,same,0 No,,,4,2023;2024;2026,
+exists,gtmi,COD,gov.legislate--access-to-information-legislation,accesstoinformationlaw,same,2 Yes (Effective),,2023,2,2026,https://droitnumerique.cd/wp-content/uploads/2024/08/Code-du-numerique-I-RD-Congo.pdf
+exists,gtmi,COM,gov.legislate--access-to-information-legislation,accesstoinformationlaw,same,2 Yes (Effective),,2021,1,2026,https://lagazettedescomores.com/soci%C3%A9t%C3%A9/le-nouveau-code-de-l%E2%80%99information-est-enfin-promulgu%C3%A9-.html
+exists,gtmi,DZA,gov.legislate--access-to-information-legislation,accesstoinformationlaw,same,2 Yes (Effective),,2023,1,2016;2025,https://www.joradp.dz/FTP/JO-FRANCAIS/2023/F2023056.pdf
+exists,gtmi,MDG,gov.legislate--access-to-information-legislation,accesstoinformationlaw,same,2 Yes (Effective),,2016,2,2025;2026,https://www.assemblee-nationale.mg/wp-content/uploads/2020/11/Loi-n%C2%B0-2016-029-code-de-communication.pdf
+exists,gtmi,MUS,gov.legislate--access-to-information-legislation,accesstoinformationlaw,same,2 Yes (Effective),,2017,1,2025;2026;2029,"https://dataprotection.govmu.org/Pages/Data%20Subjects/Rights-of-Accesss.aspx https://attorneygeneral.govmu.org/Documents/Laws%20of%20Mauritius/A-Z%20Acts/C/Co/Constitution,%20GN%2054%20of%201968.pdf"
+exists,aftech,NGA,gov.policy--ai-strategy,aistrategy,same,Policy,National Artificial (AI) Intelligence Strategy,2024,2,2025;2026,https://ncair.nitda.gov.ng/wp-content/uploads/2024/08/National-AI-Strategy_01082024-copy.pdf
+exists,gtmi,AGO,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,1 Yes (Only strategy or program),Agenda Governo.AO 27,2024,2,2023;2026,https://governo.gov.ao/noticias/1347/tecnologia/projecto-de-aceleracao-digital/iniciativa-perspectiva-uma-angola-totalmente-digitalizada
+exists,gtmi,BEN,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,1 Yes (Only strategy or program),National AI Strategy > Strengthening of digital skills,2022,2,2022;2023;2024;2026,https://numerique.gouv.bj/assets/documents/strategie-nationale-d'intelligence-artificielle-et-des-megadonnees-2023-2027.pdf
+exists,gtmi,BFA,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,1 Yes (Only strategy or program),Stratégie nationale de developpement de l'économie numérique,2018,2,2024;2026;2028,https://www.mdenp.gov.bf/fileadmin/user_upload/storages/documents/UNCDF_-_Plan_de_Renforcement_de_Lexpertise_Numerique_-_V2.pdf
+exists,gtmi,COG,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,1 Yes (Only strategy or program),National Strategy for the Development of Digital Economy,2019,2,2023;2026,https://www.sgg.cg/JO/2019/congo-jo-2019-27.pdf
+exists,gtmi,CPV,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,2 Yes (Both strategy and program),Estratégia para Governação Digital de Cabo Verde,2021,2,2023;2025;2026,https://weblab.gov.cv/
+exists,gtmi,DZA,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,1 Yes (Only strategy or program),national strategy of digital transition,2023,2,2023;2024,https://hcn.dz/SNTN-En.pdf
+exists,gtmi,ETH,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,2 Yes (Both strategy and program),Digital Skills Country Action Plan,2021,2,2023;2025;2026,https://ethiocoders.et
+exists,gtmi,GIN,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,1 Yes (Only strategy or program),Renforcement des Cpmpétences et Capacités Numériques,2025,2,2023;2026,https://mosaiqueguinee.com/2025/04/enseignement-technique-latelier-delaboration-de-la-strategie-nationale-de-transformation-digitale-lance/
+exists,gtmi,GMB,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,1 Yes (Only strategy or program),ICT4D Policy,2021,2,2025,https://mocde.gov.gm/wp-content/uploads/2024/04/ICT4D-Policy-Statement.pdf
+exists,gtmi,GNB,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,1 Yes (Only strategy or program),National Digital Transformation Strategy for Guinea-Bissau (ENTD.GW),2025,2,2023;2025;2026,https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P177016084979202b08dd501a5690c82506.pdf
+exists,gtmi,LBR,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,1 Yes (Only strategy or program),Digital Liberia Strategy,2025,2,2026,https://mopt.gov.lr/documents/national-digitalstrategy2025-2029/
+exists,gtmi,LSO,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,2 Yes (Both strategy and program),National Digital Transformation Strategy Pillar 4 Digital Population,2024,2,2023;2025;2026;2027;2028,https://lsgov-my.sharepoint.com/:b:/g/personal/thapeli_tjabane_gov_ls/EdwBoGEE_ktAhxceIZJov_oB9F9hfrspiSNBEuD2zgMgtg?e=by1OfA
+exists,gtmi,MUS,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,2 Yes (Both strategy and program),National Skills Development Strategy (NSDS),2022,2,2025,https://dpc.govmu.org/dpc/
+exists,gtmi,SEN,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,2 Yes (Both strategy and program),Senegal Digital Strategy 2016-2025,2016,2,2023;2026;2029,"https://www.ecofinagency.com/news-digital/0210-49210-senegal-launches-nationwide-ai-training-for-teachers#:~:text=Senegal%20Launches%20Nationwide%20AI%20Training,computers%2C%20tablets%2C%20and%20smartphones."
+exists,gtmi,SLE,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,2 Yes (Both strategy and program),National Digital Development Strategy,2023,2,2026,https://mocti.gov.sl/sierra-leone-digital-transformation-project/
+exists,gtmi,SWZ,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,2 Yes (Both strategy and program),Eswatini Digitalization Strategy (2024-2028),2024,2,2023;2025;2026,https://uasf.esccom.org.sz/programmes/capacity-building/
+exists,gtmi,TGO,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,1 Yes (Only strategy or program),Compétences Numériques,2023,2,2023;2025;2026,https://numerique.gouv.tg/stimuler-lecosysteme-numerique-cina-lawson-soutient-les-jeunes-entrepreneurs-lors-de-la-woezon-tech-week/
+exists,gtmi,TUN,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,1 Yes (Only strategy or program),PNS 2025 digital strategic plan,2022,2,2023;2024;2025;2026,https://www.dla.tn/
+exists,gtmi,ZMB,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,2 Yes (Both strategy and program),National Digital Transformation Agenda,2023,2,2023;2025;2026,"https://www.szi.gov.zm/?p=4990#:~:text=SMART%20ZAMBIA%20INSTITUTE%20LAUNCHES%20NATIONAL,innovators%20in%20the%20digital%20age."
+exists,gtmi,ZWE,capacity.literacy--digital-literacy-civil-service,civilserviceskills,same,1 Yes (Only strategy or program),Digital Skills Training for Civil Servants,2025,2,2023;2024;2025,https://zimdigitalskills.ac.zw/
+exists,gtmi,LBY,dpi.mis--customs,customs,same,2 Yes (in use),ASYCUDA World - Automated SYstem for CUstoms DAta,2009,2,2023;2024;2025,https://customs.ly/
+exists,gtmi,MRT,dpi.mis--customs,customs,same,2 Yes (in use),SYDONIA,1960,2,2023;2026,https://www.douanes.mr/
+exists,gtmi,TUN,dpi.mis--customs,customs,same,2 Yes (in use),SINDA 2,1957,2,2023;2025;2026,https://www.douane.gov.tn/
+exists,gtmi,ZAF,dpi.mis--customs,customs,same,2 Yes (in use),iCBS - Interfront Customs Border Solutions processing system,1977,2,2013;2023;2026,https://www.sars.gov.za
+exists,gtmi,AGO,dpi.exchange--national-data-exchange-system,dataexchange,same,2 Yes (platform in use),API.GOV.AO WSO2,2021,2,2023;2026,https://servicos.api.gov.ao/
+exists,gtmi,BDI,dpi.exchange--national-data-exchange-system,dataexchange,same,2 Yes (platform in use),Government Service Bus,2024,2,2022;2023;2026;2027,"https://documents.worldbank.org/en/publication/documents-reports/documentdetail/207441655916156350/burundi-digital-foundations-project#:~:text=Burundi%20%2D%20Digital%20Foundations%20Project%20(English,iii)%20Local%20access..."
+exists,gtmi,MUS,dpi.exchange--national-data-exchange-system,dataexchange,same,2 Yes (platform in use),InfoHighway,2016,unplaced,2016;2023,https://ih.govmu.org/
+exists,gtmi,MWI,dpi.exchange--national-data-exchange-system,dataexchange,same,2 Yes (platform in use),Bomalathu Platform,2023,2,2017;2023;2024;2025;2026,"https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities#:~:text=The%20Digital%20Malawi%20Acceleration%20Project,an%20additional%20500%20government%20offices."
+exists,gtmi,NER,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,Haute autorité de protection des données à caractère personnel (HAPD),2017,1,2022;2023;2024;2026,https://www.hapdp.ne/
+exists,gtmi,LBY,gov.legislate--data-protection-legislation,dataprotectionlaw,same,2 Yes (Effective),"Chapter Seven, Law No. 6 of 2022 on Electronic Transactions",2022,2,2024;2026,https://lawsociety.ly/en/legislation/law-no-6-of-2022-concerning-electronic-transactions/#Chapter_Seven_Protection_of_Personal_Data
+exists,gtmi,BDI,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2023,2,2010;2020;2025;2026,https://setic.gov.bi/plan-directeur-de-digitalisation/
+exists,gtmi,BEN,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2016,2,2021;2025;2026;2031,https://numerique.gouv.bj/publications/documents https://asin.bj/projets/
+exists,gtmi,BFA,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2018,2,2018;2025;2027;2029;2030,https://www.mdenp.gov.bf/fileadmin/user_upload/storages/documents/Strategie_Nationale_de_Developpment_de_l_Economie_Numerique_2018-2020.pdf
+exists,gtmi,BWA,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2020,2,2020;2021;2026,https://smartbots.gov.bw/home
+exists,gtmi,CIV,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2021,2,2021;2022;2025;2026;2029;2035,https://www.telecom.gouv.ci/new/uploads/publications/171137227746.pdf https://telecom.gouv.ci/new/uploads/publications/175821477415.pdf
+exists,gtmi,COD,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2019,2,2019;2023;2025;2026;2030,https://presidence.cd/services/1/plan_national_du_numerique_horizon_2025
+exists,gtmi,COG,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2019,2,2019;2021;2025;2030,https://www.sgg.cg/JO/2019/congo-jo-2019-27.pdf
+exists,gtmi,MDG,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2019,2,2023;2024;2025;2026;2028;2031,https://digital.gov.mg/2019/12/20/notre-vision-numerique-des-services-publics/
+exists,gtmi,MLI,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2020,2,2015;2020;2021;2024;2025;2029;2034,https://communication.gouv.ml/mali-numerique-2020/
+exists,gtmi,MRT,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2022,2,2022;2024;2025;2030,https://mtnima.gov.mr/sites/default/files/Agenda%20Num%C3%A9rique%202022-25%20MTNIMA.pdf
+exists,gtmi,RWA,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2018,2,2015;2016;2020;2021;2023;2025,https://www.risa.gov.rw/index.php?eID=dumpFile&t=f&f=65363&token=5adceb3b3e4c1e51069d1ab3335e3a6fbe2f4845
+exists,gtmi,STP,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2020,2,2020;2024;2026,https://inic.gov.st/viewdoc.php?id=8
+exists,gtmi,TGO,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2021,2,2022;2025;2026;2030,https://numerique.gouv.tg/wp-content/uploads/2024/05/FR-Strategie-Togo-Digital-2025.pdf https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Togo-Digital-Economy-Diagnostic-Report.pdf
+exists,unctad,GNB,gov.legislate--e-commerce-legislation,ecommercelaw,same,Legislation,"Law nº 5/2010, of May 27 [Official Bulletin n°21] Relating to the Fundamentals Law of Information and Communication Technology (ICT)",2010,2,2026;2027,https://arn.gw/activeapp/wp-content/uploads/2015/03/3.-%C2%A6SUP.-B.-O.-N.-%C2%A6-21-2010.pdf
+exists,gtmi,AGO,dpi.govtech--e-government-services,egovservices,same,2 Yes (Transactional: Level 3 or 4),,,2,2021;2023;2026,https://www.sepe.gov.ao/
+exists,gtmi,COM,dpi.govtech--e-government-services,egovservices,same,1 Yes (Informational: Level 1 or 2),,,2,2024;2025,https://puc.gouv.km
+exists,gtmi,CPV,dpi.govtech--e-government-services,egovservices,same,2 Yes (Transactional: Level 3 or 4),,,2,2024;2026,https://portondinosilhas.gov.cv/
+exists,gtmi,DJI,dpi.govtech--e-government-services,egovservices,same,2 Yes (Transactional: Level 3 or 4),,,unplaced,2023,https://www.egouv.dj/Welcome/index/2
+exists,gtmi,GHA,dpi.govtech--e-government-services,egovservices,same,2 Yes (Transactional: Level 3 or 4),,,2,2023;2025;2026,https://www.ghana.gov.gh
+exists,gtmi,GIN,dpi.govtech--e-government-services,egovservices,same,2 Yes (Transactional: Level 3 or 4),,,2,2026,https://service-public.gov.gn/
+exists,gtmi,GNQ,dpi.govtech--e-government-services,egovservices,same,2 Yes (Transactional: Level 3 or 4),,,2,2023;2026,https://minhacienda-gob.com/ventanilla-unica/
+exists,gtmi,LBR,dpi.govtech--e-government-services,egovservices,same,1 Yes (Informational: Level 1 or 2),,,2,2023;2025;2026,https://www.evisaliberia.com/
+exists,gtmi,LBY,dpi.govtech--e-government-services,egovservices,same,1 Yes (Informational: Level 1 or 2),,,2,2024;2026,https://www.cim.gov.ly/electronic-services
+exists,gtmi,LSO,dpi.govtech--e-government-services,egovservices,same,1 Yes (Informational: Level 1 or 2),,,2,2024;2026,https://www.gov.ls/services/
+exists,gtmi,MDG,dpi.govtech--e-government-services,egovservices,same,1 Yes (Informational: Level 1 or 2),,,2,2024;2026,https://torolalana.gov.mg/
+exists,gtmi,MLI,dpi.govtech--e-government-services,egovservices,same,1 Yes (Informational: Level 1 or 2),,,2,2024;2025;2026,https://demarchesadministratives.gouv.ml
+exists,gtmi,MUS,dpi.govtech--e-government-services,egovservices,same,2 Yes (Transactional: Level 3 or 4),,,2,2023;2026;2030,https://govmu.org/EN/Pages/eservices.aspx
+exists,gtmi,MWI,dpi.govtech--e-government-services,egovservices,same,1 Yes (Informational: Level 1 or 2),,,2,2026,https://bomalathu.gov.mw
+exists,gtmi,NGA,dpi.govtech--e-government-services,egovservices,same,2 Yes (Transactional: Level 3 or 4),,,2,2024;2025;2026,https://services.gov.ng/
+exists,gtmi,SEN,dpi.govtech--e-government-services,egovservices,same,2 Yes (Transactional: Level 3 or 4),,,2,2026,https://senegalservices.sn/
+exists,gtmi,SYC,dpi.govtech--e-government-services,egovservices,same,2 Yes (Transactional: Level 3 or 4),,,2,2024;2026,https://eservice.egov.sc/egateway/homepage.aspx
+exists,gtmi,TZA,dpi.govtech--e-government-services,egovservices,same,1 Yes (Informational: Level 1 or 2),,,2,2024;2026,https://huduma.serikali.go.tz/home
+exists,gtmi,ZWE,dpi.govtech--e-government-services,egovservices,same,1 Yes (Informational: Level 1 or 2),,,unplaced,2023,https://zimeservices.pfms.gov.zw
+exists,gtmi,BDI,include.access--citizen-participation-in-policy,eparticipation,same,1 Yes,,,no evidence,,http://agasandugu.gov.bi/
+exists,gtmi,BEN,include.access--citizen-participation-in-policy,eparticipation,same,1 Yes,,,2,2023;2025,https://service-public.bj/public/report
+exists,gtmi,DZA,include.access--citizen-participation-in-policy,eparticipation,same,1 Yes,,,2,2023;2025;2026,https://www.interieur.gov.dz/index.php/fr/
+exists,gtmi,ETH,include.access--citizen-participation-in-policy,eparticipation,same,1 Yes,,,unplaced,2023;2025,https://e-consultation.gov.et/
+exists,gtmi,MUS,include.access--citizen-participation-in-policy,eparticipation,same,1 Yes,,,2,2023;2025;2026,https://www.csu.mu/index.php
+exists,gtmi,RWA,include.access--citizen-participation-in-policy,eparticipation,same,1 Yes,,,2,2023;2025;2026,https://www.gov.rw/
+exists,gtmi,TZA,include.access--citizen-participation-in-policy,eparticipation,same,1 Yes,,,2,2023;2025,https://edodoso.gov.go.tz/
+exists,gtmi,UGA,include.access--citizen-participation-in-policy,eparticipation,same,1 Yes,,,no evidence,,https://www.gcic.go.ug/
+exists,gtmi,ZMB,include.access--citizen-participation-in-policy,eparticipation,same,1 Yes,,,2,2023;2026,https://portal.citizensupport.gov.zm
+exists,gtmi,AGO,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,no evidence,,https://www.sepe.gov.ao/ao/fale-connosco/
+exists,gtmi,BDI,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,no evidence,,https://agasandugu.gov.bi/
+exists,gtmi,BWA,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,2,2022;2023;2025,https://www.botswanaspeaks.gov.bw
+exists,gtmi,CIV,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,2,2019;2023;2024;2025;2026,https://www.milie.ci/index.php?page=reclamation.Accueil
+exists,gtmi,CMR,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,2,2022;2024,https://conac.cm/fr/denoncer-la-corruption/comment-denoncer-la-corruption/
+exists,gtmi,CPV,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,2,2021;2023;2024;2026,https://eparticipa.gov.cv/
+exists,gtmi,ETH,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,2,2023;2025;2026,http://www.ecompliant.gov.et/
+exists,gtmi,KEN,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,2,2022;2023;2024,"https://cohesion.go.ke/index.php/media-center/latest-news/226-ncic-complaints-portal-live#:~:text=The%20National%20Cohesion%20and%20Integration,site%20work%20seamlessly%20and%20accurately."
+exists,gtmi,LSO,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,2,2024,https://www.gov.ls/contact-us/
+exists,gtmi,MUS,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,2,2017;2020;2026,https://www.csu.mu/index.php
+exists,gtmi,RWA,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,2,2023;2025;2026,"https://www.minaloc.gov.rw/services#:~:text=Imibereho%20Dynamic%20Social%20Registry,Read%20more%20%E2%86%92"
+exists,gtmi,SEN,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,unplaced,2023;2026,https://ofnac.sn/
+exists,gtmi,TUN,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,2,2020;2023;2025,https://e-people.gov.tn/
+exists,gtmi,ZMB,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,2,2024,https://portal.citizensupport.gov.zm
+exists,gtmi,ZWE,include.access--citizen-feedback-portals,feedbackportals,same,1 Yes,,,2,2025;2026,https://whistleblower.zimra.co.zw/
+exists,gtmi,DJI,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,1 Yes,,,2,2023;2026,https://apps.apple.com/us/app/djibouti-mobile-id/id6484163491
+exists,gtmi,GIN,dpi.exchange--use-of-digital-id-in-other-systems,idverification,same,1 Yes,,,2,2023;2026,https://www.uneca.org/sites/default/files/TCND/WURI_GUINEE_BANJUL.pdf
+exists,gtmi,AGO,gov.policy--data-interoperability-framework-roadmap,interoperability,same,2 Yes,Plano Nacional da Arquitetura Global para a Interoperabilidade da Administração Central e Local do Estado,2018,2,2025;2026,https://gov.ao/s/pKJDcXNp4sLccfW https://servicos.api.gov.ao/
+exists,aftech,GMB,infra.connect--satellite-broadband-licensing-and-availability,satellitebroadband,same,Regulation,Guidelines And Application Form To Operate And Install A VSAT,2014,1,2026,https://pura.gm/wp-content/uploads/2021/09/Guidelines-for-the-application-of-a-VSAT-2.pdf
+exists,aftech,KEN,tech.innovate--tech-startup-ecosystem,startups,same,Law,"Science, Technology and Innovation Act (2013)",2013,2,2022;2023;2025;2026,https://www.nacosti.go.ke/nacosti/Docs/Information%20Centre/Science-Technology-and-Innovation-Act-No.-28-of-20131.pdf
+exists,gtmi,AGO,dpi.mis--tax,taxadmin,same,2 Yes (in use),Portal AGT,2014,2,2023;2025;2026,https://agt.minfin.gov.ao/
+exists,gtmi,CIV,dpi.mis--tax,taxadmin,same,2 Yes (in use),E-IMPOT,1960,unplaced,2023,https://www.dgi.gouv.ci/
+exists,gtmi,LBY,dpi.mis--tax,taxadmin,same,2 Yes (in use),Forms and information,2010,2,2023;2025;2026,http://tax.gov.ly/
+exists,gtmi,NER,dpi.mis--tax,taxadmin,same,2 Yes (in use),"AFP, REC - AFP (professional tax application), REC (application for managing tax revenue collection)",1999,unplaced,2023,https://www.impots.gouv.ne/
+exists,gtmi,SYC,dpi.mis--tax,taxadmin,same,2 Yes (in use),Tax Management System (TMS),1979,2,2023;2024,https://src.gov.sc/
+exists,gtmi,ZMB,dpi.mis--tax,taxadmin,same,2 Yes (in use),e-Tax Portal,2006,unplaced,2023,https://www.zra.org.zm/
+year,gtmi,GIN,gov.legislate--access-to-information-legislation,accesstoinformationlaw,same,2 Yes (Effective),,2010,3,2020,http://www.freedominfo.org/regions/africa/guinea/ https://hacgn.org/
+year,gtmi,TZA,gov.legislate--access-to-information-legislation,accesstoinformationlaw,same,2 Yes (Effective),,2023,3,2016;2017,https://www.tcra.go.tz/documents/legislation-1 https://www.pdpc.go.tz/en/reports/
+year,aftech,KEN,gov.policy--ai-strategy,aistrategy,same,Policy,Emerging Technologies for Kenya,2019,4,2025;2026;2030,https://www.ict.go.ke/blockchain.pdf
+year,aftech,NAM,gov.policy--broadband-strategy,broadbandstrategy,same,Policy,National Broadband Internet Policy,2019,3,2020;2026;2030,https://www.npc.gov.na/wp-content/uploads/2022/06/NamibiaBroadband Internet-Policy-2018.pdf
+year,aftech,MUS,gov.legislate--cybersecurity-legislation,cybersecuritylaw,same,Law,National Computer Board Act,1988,3,2021;2023;2026,https://ncb.govmu.org/ncb/legislations/NATIONAL_COMPUTER_BOARD.pdf
+year,aftech,NGA,gov.legislate--cybersecurity-legislation,cybersecuritylaw,same,Law,National Information Technology Act Development Act 2007,2007,5,2015;2023;2024;2025;2026;2027,https://nitda.gov.ng/wp-content/uploads/2020/11/NITDA-ACT-2007-2019-Edition1.pdf
+year,aftech,NGA,gov.legislate--cybersecurity-legislation,cybersecuritylaw,same,Law,"Freedom of Information Act, 2011 (FOI Act)",2011,5,2015;2023;2024;2025;2026;2027,https://www.cbn.gov.ng/foi/freedom%20of%20information%20act.pdf
+year,aftech,NGA,gov.legislate--cybersecurity-legislation,cybersecuritylaw,same,Regulation,Lawful Interception of Communication Regulations,2019,5,2015;2023;2024;2025;2026;2027,https://ncc.gov.ng/docman-main/legal-regulatory/regulations/839-lawful-interception-of-comunications-regulations-1/file
+year,aftech,NGA,gov.legislate--cybersecurity-legislation,cybersecuritylaw,same,Regulation,NITDA Public Key Infrastructure Regulations,2020,5,2015;2023;2024;2025;2026;2027,https://nitda.gov.ng/wp-content/uploads/2020/11/NITDA-Public-Key-Infrastructure-Regulations-Final-Draft11.pdf
+year,aftech,RWA,gov.legislate--cybersecurity-legislation,cybersecuritylaw,same,Law,Law N 31/2009 of 26/10/2009 on Protection of Intellectual Property,2009,3,2018;2025;2026,https://rura.rw/fileadmin/Documents/ICT/Laws/Law__On_the_Intellectual_Property.pdf
+year,aftech,RWA,gov.legislate--cybersecurity-legislation,cybersecuritylaw,same,Regulation,Guidelines on Rwanda Internet Exchange Point (RINEX) Point,2009,3,2018;2025;2026,https://rura.rw/index.php?id=104&tx_news_pi1%5Bnews%5D=122&tx_news_pi1%5Bday%5D=17&tx_news_pi1%5Bmonth%5D=5&tx_news_pi1%5Byear%5D=2017&cHash=97f82817ba07e7f03adec4faec077e34
+year,aftech,RWA,gov.legislate--cybersecurity-legislation,cybersecuritylaw,same,Regulation,Regulation for International Gateway Traffic Verification System,2012,3,2018;2025;2026,https://rura.rw/index.php?id=104&tx_news_pi1%5Bnews%5D=112&tx_news_pi1%5Bday%5D=17&tx_news_pi1%5Bmonth%5D=5&tx_news_pi1%5Byear%5D=2017&cHash=a60eb1ba2380566599f8cb07407fcb8c
+year,aftech,RWA,gov.legislate--cybersecurity-legislation,cybersecuritylaw,same,Regulation,Regulation Governing Telecom Network Security in Rwanda,2016,3,2018;2025;2026,https://rura.rw/fileadmin/Documents/docs/Regulations_Governing__Telecom_Network_Security.pdf
+year,aftech,RWA,gov.legislate--cybersecurity-legislation,cybersecuritylaw,same,Law,Law Establishing RISA,2017,3,2018;2025;2026,https://www.minict.gov.rw/index.php?eID=dumpFile&t=f&f=1101&token=ce06c0d057b3da82d1586487a836280b2da2c1ac
+year,aftech,RWA,gov.legislate--cybersecurity-legislation,cybersecuritylaw,same,Regulation,Regulation No 010/R/Crcsi/Rura/020 Of 29/05/2020 Governing Cybersecurity,2020,3,2018;2025;2026,https://rura.rw/fileadmin/Documents/ICT/Laws/Regulation_Governing_Cybersecurity.pdf
+year,aftech,UGA,gov.legislate--cybersecurity-legislation,cybersecuritylaw,same,Law,Access to Information ACT 2005,2005,4,2011;2022;2026,http://judiciary.go.ug/files/downloads/access%20to%20informatioinformation%20Act2005.pdf
+year,aftech,UGA,gov.legislate--cybersecurity-legislation,cybersecuritylaw,same,Regulation,The Regulation of Interception of Communication Act 2010,2010,4,2011;2022;2026,https://www.ngobureau.go.ug/en/law-and-regulations/regulations-of-interception-of-communications-act-2010
+year,aftech,UGA,gov.legislate--cybersecurity-legislation,cybersecuritylaw,same,Regulation,Electronic Transactions Regulations 2013,2013,4,2011;2022;2026,https://ict.go.ug/2019/12/03/electronics-transaction-regulations-2013/
+year,gtmi,BEN,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,Personal Data Protection Authority,2009,3,2017;2025;2026,https://service.apdp.bj/
+year,gtmi,BFA,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,Commission de l’Informatique et des Libertés,2004,3,2021;2026,http://www.cil.bf/
+year,gtmi,BWA,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,Information and Data Protection Commission,2023,4,2022;2024;2026,https://www.dlapiperdataprotection.com/?t=authority&c=BW
+year,gtmi,CPV,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,"CNPD (Comissão Nacional de Proteção de Dados Pessoais, Commission for National Data Protectionauthority.)",2013,3,2016;2025;2026,https://www.cnpd.cv
+year,gtmi,DZA,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,national authority for the protection of personal data,2018,3,2026,https://anpdp.dz/fr/accueil/
+year,gtmi,ETH,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,Ethiopian Communication Authority,2023,3,2024;2025,https://www.eca.et
+year,gtmi,MLI,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,Autorité de protection des données à caractère personnel (APDP),2016,5,2013;2025;2026,https://www.apdp.ml/
+year,gtmi,MRT,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,Autorité de Protection des Données à caractère personnel (APD),2023,3,2017;2025;2026,https://www.apd.mr/fr/
+year,gtmi,RWA,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,Data Protection and Privacy Office,2020,3,2024;2026,https://dpo.gov.rw/
+year,gtmi,STP,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,National Data Protection Agency (ANPDP),2018,3,2016;2022;2024;2026,https://www.anpdp.st/
+year,gtmi,SWZ,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,Eswatini Data Protection Authority,2023,4,2022;2024;2025;2026,https://www.edpa.org.sz/
+year,gtmi,TCD,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,Agence Nationale de Sécurité Informatique et de Certification Électronique (ANSICE),2016,3,2011;2015;2026,https://ansice.td/
+year,gtmi,TZA,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,The Personal Data Protection Commission,2023,4,2025;2026,https://www.pdpc.go.tz/en/
+year,gtmi,UGA,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,Personal Data Protection Office,2021,4,2024;2025;2026,https://www.pdpo.go.ug/home
+year,gtmi,ZAF,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,Information Regulator,2014,5,2016;2023;2024;2025;2026,https://inforegulator.org.za
+year,gtmi,ZMB,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,Data Protection Commission (DPC),2022,3,2023;2025;2026,https://www.dataprotection.gov.zm
+year,gtmi,ZWE,gov.protect--data-protection-authority,dataprotectionauthority,same,2 Yes,POTRAZ,2024,3,2026,https://www.potraz.gov.zw/
+year,gtmi,BEN,gov.legislate--data-protection-legislation,dataprotectionlaw,same,2 Yes (Effective),"Law on the Protection of Personal Data Law No. 2009-09 of May 22, 2009 on the organization of the protection of personal data",2009,5,2017;2018;2025;2026,http://www.afapdp.org/wp-content/uploads/2012/01/B%C3%A9nin-LOI-SUR-PROTECTION-DES-DONNEES-A-CARACTERE-PERSONNEL-20092.pdf
+year,unctad,BEN,gov.legislate--data-protection-legislation,dataprotectionlaw,same,Legislation,"Loi n° 2009-09 of may 22, 2009Dealing with the protection of Personally Identifiable Information (PII) in the Republic of Benin.",2009,5,2017;2018;2025;2026,https://apdp.bj/wp-content/uploads/2016/08/Loi-No-2009-du-22Mai-2009-Version-Anglaise.pdf
+year,unctad,BFA,gov.legislate--data-protection-legislation,dataprotectionlaw,same,Legislation,Loi n° 010-2004/AN Portant Protection des Données à Caractère Personnel (in French),2004,3,2021;2024;2025;2026,http://www.afapdp.org/wp-content/uploads/2012/01/Burkina-Faso-Loi-portant-protection-des-donn%C3%A9es-%C3%A0-caract%C3%A8re-personnel-20042.pdf
+year,unctad,CMR,gov.legislate--data-protection-legislation,dataprotectionlaw,same,Legislation,Loi n*2010/012 du 21 décembre 2010 relative à la cybersécurité et à la cybercriminalité (in French),2010,3,2024;2026,http://www.art.cm/sites/default/files/documents/loi_2010-012_cybersecurite_cybercriminalite.pdf
+year,unctad,CMR,gov.legislate--data-protection-legislation,dataprotectionlaw,same,Legislation,loi n°2010/013 du 21 decembre 2010 regissant les communications electroniques au cameroun,2010,3,2024;2026,https://www.minpostel.gov.cm/images/Les_textes/Lois/Loi_2013-013_communications_electroniques.pdf
+year,gtmi,CPV,gov.legislate--data-protection-legislation,dataprotectionlaw,same,2 Yes (Effective),Regime Jurídico Geral de Protecção de Dados Pessoais a Pessoas Singulares,2013,4,2001;2021;2023;2026,https://www.cnpd.cv/leis/Lei%20n%2041_VIII_2013%20regime%20jur%C3%ADdico%20geral%20de%20protec%C3%A7%C3%A3o%20de%20dados%20pessoais%20das%20pessoas%20singulares.pdf
+year,gtmi,ETH,gov.legislate--data-protection-legislation,dataprotectionlaw,same,2 Yes (Effective),Personal Data Protection Proclamation No.1321/2024,2008,3,2024;2025,https://eca.et/wp-content/uploads/2024/10/personal_data_protection_proclamation_No_1321_2024.pdf
+year,unctad,GMB,gov.legislate--data-protection-legislation,dataprotectionlaw,same,Legislation,Information and Communications Act  No. 2 of 2009 (in English),2009,3,2025;2026,http://www.pura.gm/wp-content/uploads/2018/01/IC-Info-Comms-Act-2009.pdf
+year,aftech,KEN,gov.legislate--data-protection-legislation,dataprotectionlaw,same,Regulation,"The Kenya Information and Communications (Electronic Certification and Domain Name Administration) Regulations, 2010",2010,5,2019;2024;2025;2026,https://www.ca.go.ke/wp-content/uploads/2018/02/Electronic-Certification-and-Domain-Name-Administration-Regulations-2010-1.pdf
+year,aftech,KEN,gov.legislate--data-protection-legislation,dataprotectionlaw,same,Regulation,Guidelines on Prevention of Dissemination of Undesirable Bulk and Premium Rate Political Messages and Political Social Media Content Via Electronic Networks,2017,5,2019;2024;2025;2026,https://www.ca.go.ke/sites/default/files/2023-06/Guidelines-on-Prevention-of-Dissemination-of-Undesirable-Bulk-and-Premium-Rate-Political-Messages-and-Political-Social-Media-Content-Via-Electronic-Networks-1.pdf
+year,aftech,KEN,gov.legislate--data-protection-legislation,dataprotectionlaw,same,Regulation,Guidelines on the use of Internet of Things (IoT) Devices,2018,5,2019;2024;2025;2026,https://www.ca.go.ke/sites/default/files/2023-06/Guidelines-on-the-use-of-Internet-of-Things-IoT-Devices.pdf
+year,unctad,LSO,gov.legislate--data-protection-legislation,dataprotectionlaw,same,Legislation,Data Protection Act No. 19 2012 (in English),2012,3,2011;2026,http://www.nic.ls/lsnic/community/policies/Data_Protection_Act_2011_Lesotho.pdf
+year,gtmi,MRT,gov.legislate--data-protection-legislation,dataprotectionlaw,same,2 Yes (Effective),Loi n° 2017-020 sur la protection des données à caractère personnel,2022,3,2017;2025;2026,https://mtnima.gov.mr/sites/default/files/imp1fr-2.pdf
+year,unctad,MWI,gov.legislate--data-protection-legislation,dataprotectionlaw,same,Legislation,"Electronic Transactions and Cyber Security Act, 2016 (in English)",2016,3,2023;2024;2025;2026,https://www.macra.org.mw/?wpdmpro=electronic-transaction-and-cyber-security-act-2016
+year,gtmi,NER,gov.legislate--data-protection-legislation,dataprotectionlaw,same,2 Yes (Effective),Bill on the protection of personal data,2017,3,2022;2024;2025;2026,https://www.afapdp.org/wp-content/uploads/2017/02/Loi-n%C2%B02017-28-du-03-mai-2017.pdf
+year,unctad,NER,gov.legislate--data-protection-legislation,dataprotectionlaw,same,Legislation,"Loi n°2017-28 du 03 Mai 2017 relative à la protection des données à caractère personnel, révisé en 2019 (in French)",2019,3,2022;2024;2025;2026,https://www.afapdp.org/wp-content/uploads/2017/02/Loi-n%c2%b02017-28-du-03-mai-2017.pdf
+year,gtmi,UGA,gov.legislate--data-protection-legislation,dataprotectionlaw,same,2 Yes (Effective),"Data Protection and Privacy Act, 2019",2019,4,2024;2025;2026,https://ict.go.ug/site/documents/Data-Protection-and-Privacy-Act-2019.pdf https://www.pdpo.go.ug/information-center/resources
+year,unctad,UGA,gov.legislate--data-protection-legislation,dataprotectionlaw,same,Legislation,The Data Protection and Privacy Act 2019 (in English),2019,4,2024;2025;2026,https://ict.go.ug/wp-content/uploads/2019/03/Data-Protection-and-Privacy-Act-2019.pdf
+year,gtmi,ZMB,gov.legislate--data-protection-legislation,dataprotectionlaw,same,2 Yes (Effective),Data Protection Act 2021,2022,3,2021;2025;2026,https://www.dataprotection.gov.zm/services/
+year,gtmi,GMB,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2020,3,2024;2025;2026;2034,https://mocde.gov.gm/wp-content/uploads/2023/10/E-GOVERNMENT-STRATEGY.pdf
+year,gtmi,ZWE,gov.policy--digital-transformation-strategy,digitalstrategy,same,2 Yes (old/to be updated),,2022,3,2024;2025;2026;2030,https://www.ictministry.gov.zw/assets/documents/National%20ICT%20Policy%202022-2027.pdf
+year,unctad,CPV,gov.legislate--e-commerce-legislation,ecommercelaw,same,Legislation,Decree-Law No. 33/2007 Use of digital Signature  (in Portuguese),2007,3,2025,"http://www.uaipit.com/uploads/legislacion/files/1374220608_13._Decree-Law_No._33.2007_of_September_24,_2007,_regulating_the_Use_of_Digital_Signatures_PT.pdf"
+year,aftech,EGY,gov.legislate--e-commerce-legislation,ecommercelaw,same,Policy,E-Commerce Strategy,2017,4,2004;2025;2026,https://mcit.gov.eg/Upcont/Documents/Publications_1532018000_e-Commerce-Strategy-March2018.pdf
+year,unctad,ETH,gov.legislate--e-commerce-legislation,ecommercelaw,same,Legislation,Electronic Transaction Proclamation No. 1205/2020,2020,4,2017;2025,https://www.metaappz.com/References/ethiopian_laws/federal/pr_1205_2020/en/pdf#gsc.tab=0
+year,aftech,KEN,gov.legislate--e-commerce-legislation,ecommercelaw,same,Regulation,Guidelines For Postal And Courier Licensees On Promotion Of E-Commerce,2015,4,2020,https://www.ca.go.ke/sector-guidelines?page=1
+year,unctad,KEN,gov.legislate--e-commerce-legislation,ecommercelaw,same,Legislation,"Kenya Information and Communication Act, Rev. 2009 (in English)",2009,4,2020,https://infotradekenya.go.ke/media/Kenya%20Information%20Communications%20ACT.pdf
+year,unctad,KEN,gov.legislate--e-commerce-legislation,ecommercelaw,same,Legislation,"Kenya Information and Communications (Amendment) Act, 2013",2013,4,2020,http://kenyalaw.org/kl/fileadmin/pdfdownloads/AmendmentActs/2013/KenyaInformationandCommunications_Amendment_Act2013.pdf
+year,unctad,MDG,gov.legislate--e-commerce-legislation,ecommercelaw,same,Legislation,Law No. 24/2018 on electronic transaction (in French),2018,3,2014;2024;2025,https://edbm.mg/wp-content/uploads/2017/12/Loi-2014_024_transactions_electroniques.pdf
+year,unctad,MRT,gov.legislate--e-commerce-legislation,ecommercelaw,same,Legislation,loi 2021-014 relative aux services et moyens de paiement électronique,2021,3,2018;2024,https://www.droit-afrique.com/uploads/Mauritanie-Loi-2021-14-services-moyens-paiement-electronique.pdf
+year,aftech,MUS,gov.legislate--e-commerce-legislation,ecommercelaw,same,Policy,The Policy of Republic of Mauritius in Respect to the Telecommunication Sector,1999,3,2006;2026,https://mitci.govmu.org/Documents/Strategies/Policy_Of_Republic_Mauritius_Telecommunications_Sector.pdf
+year,aftech,MUS,gov.legislate--e-commerce-legislation,ecommercelaw,same,Policy,Policy Framework for Internet Service Providers 2001,2001,3,2006;2026,https://mitci.govmu.org/Documents/Strategies/Policy%20Framework.pdf
+year,unctad,MUS,gov.legislate--e-commerce-legislation,ecommercelaw,same,Legislation,Electronic Transactions Act 2000 (in English),2000,3,2006;2026,https://www.mcci.org/media/36445/electronic-transaction-act-2000.pdf
+year,unctad,NGA,gov.legislate--e-commerce-legislation,ecommercelaw,same,Legislation,"The Electronic Transaction Act, 2023",2023,3,2024;2026,https://nass.gov.ng/documents/bill/11142
+year,aftech,RWA,gov.legislate--e-commerce-legislation,ecommercelaw,same,Law,Law Establishing Rwanda Utilities Regulatory Authorities,2013,3,2026,https://rura.rw/index.php?id=104&tx_news_pi1%5Bnews%5D=452&tx_news_pi1%5Bday%5D=10&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2017&cHash=f016c00683e74ea621bbfc02e5d4545a
+year,unctad,RWA,gov.legislate--e-commerce-legislation,ecommercelaw,same,Legislation,"Law governing Information and Communication Technologies (N°24/2016 of 18/06/2016) (in French, English and Kinyarwanda)",2016,3,2026,https://rura.rw/fileadmin/Documents/ICT/Laws/Law_governing_Information_and_Communication_Technologies_in_Rwanda.pdf
+year,aftech,SEN,gov.legislate--e-commerce-legislation,ecommercelaw,same,Law,"Law No. 94-63 Of August 22, 1994, On Prices, Competition And Economic Litigation",1994,4,2008;2023;2026,"https://www.africa-laws.org/Senegal/Competition%20law/la%20loi%20n%C2%B0%2094-63%20du%2022%20Ao%C3%BBt%201994%20sur%20les%20prix,%20la%20concurrence%20et%20le%20contentieux%20%C3%A9conomique.pdf"
+year,aftech,SEN,gov.legislate--e-commerce-legislation,ecommercelaw,same,Law,"Decree No. 2015-678 of May 22, 2015",2015,4,2008;2023;2026,https://www.sec.gouv.sn/actions-et-realisations/telecommunications-et-economie-numerique/les-reformes-du-secteur-du
+year,aftech,SEN,gov.legislate--e-commerce-legislation,ecommercelaw,same,Law,"Decree No 2022-1814 relating to the powers of the Minister of Communication, Telecommunications and the Digital Economy",2022,4,2008;2023;2026,https://www.sec.gouv.sn/publications/lois-et-reglements/decret-ndeg-2022-1814-du-26-septembre-2022-relatif-aux-attributions
+year,unctad,SLE,gov.legislate--e-commerce-legislation,ecommercelaw,same,Legislation,"The electronic transactions act, 2018",2018,3,2019;2026,https://www.parliament.gov.sl/uploads/bill_files/THE%20ELECTRONIC%20TRANSACTION%20BILL%202019.pdf
+year,unctad,TZA,gov.legislate--e-commerce-legislation,ecommercelaw,same,Legislation,Electronic transaction Act 2022  (in English),2022,3,2015;2026,"https://www.mof.go.tz/uploads/documents/en-1676545044-THE%20ELECTRONIC%20TRANSACTIONS%20ACT,%20CAP%20442%20R.E.%202022.pdf"
+year,aftech,ZAF,gov.legislate--e-commerce-legislation,ecommercelaw,same,Regulation,Interconnections Regulatons 2010,2010,3,2002;2025;2026,https://www.icasa.org.za/legislation-and-regulations/interconnection-regulations
+year,unctad,ZAF,gov.legislate--e-commerce-legislation,ecommercelaw,same,Legislation,"Electronic Communications and Transactions Act, updated in 2010 (in English)",2010,3,2002;2025;2026,http://www.saflii.org/za/legis/consol_act/ecata2002427.pdf
+year,gtmi,GHA,gov.policy--data-interoperability-framework-roadmap,interoperability,same,2 Yes,eGovernment Interoperability Framework (eGIF),2009,3,2008;2022,https://nita.gov.gh/nita-resource-center/
+year,gtmi,KEN,gov.policy--data-interoperability-framework-roadmap,interoperability,same,2 Yes,Government Interoperability Framework,2019,4,2024;2026,https://cms.icta.go.ke//sites/default/files/2024-07/GEA%20-%20GIF%202nd%20Edition.pdf
+year,gtmi,NGA,gov.policy--data-interoperability-framework-roadmap,interoperability,same,2 Yes,Nigeria e-Government Interoperability Framework (Ne-GIF),2019,3,2025;2026,https://nitda.gov.ng/wp-content/uploads/2020/11/Ne-GIFFinal1.pdf
+year,gtmi,TUN,gov.policy--data-interoperability-framework-roadmap,interoperability,same,2 Yes,Cadre d’interopérabilité+plateforme d'interopérabilité,2022,3,2020,https://www.mtc.gov.tn/fileadmin//user_upload/Decret2020_777.pdf
+year,gtmi,TZA,gov.policy--data-interoperability-framework-roadmap,interoperability,same,2 Yes,e-Government Interoperability Framework – Standards and Technical Guidelines,2017,3,2016,https://www.ega.go.tz/uploads/standards/en-1574945623-inter.pdf https://www.ega.go.tz/news/waziri-mkuu-azindua-mfumo-wa-govesb
+year,gtmi,ZAF,gov.policy--data-interoperability-framework-roadmap,interoperability,same,2 Yes,Minimum Interoperability Standard,2004,3,2025;2026,https://www.dpsa.gov.za/
+year,aftech,CIV,gov.legislate--digital-payments-legislation,paymentslaw,same,Law,Law on Electronic Transactions,2013,5,2024;2026,https://telecom.gouv.ci/new/publications/sous-categorie/7
+year,aftech,EGY,gov.legislate--digital-payments-legislation,paymentslaw,same,Law,Egypt: Usage of the Non-Cash Payments’ Methods Law (Law no.18) for Year 2019,2019,4,2025,https://www.pwc.com/m1/en/tax/documents/2019/egypt-usage-of-non-cash-payments-methods-law-no-18-year-2019.pdf
+year,aftech,ETH,gov.legislate--digital-payments-legislation,paymentslaw,same,Law,National Payment System Proclamation,2011,5,2020;2025,http://www.mint.gov.et/policy-and-strategy/-/document_library/CNlICzpide2L/view_file/240383?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect=http%3A%2F%2Fwww.mint.gov.et%2Fpolicy-and-strategy%2F-%2Fdocument_library%2FCNlICzpide2L%2Fview%2F126250%3F_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect%3Dhttp%253A%252F%252Fwww.mint.gov.et%252Fpolicy-and-strategy%253Fp_p_id%253Dcom_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L%2526p_p_lifecycle%253D0%2526p_p_state%253Dnormal%2526p_p_mode%253Dview
+year,aftech,KEN,gov.legislate--digital-payments-legislation,paymentslaw,same,Regulation,The Money Remittance Regulations (2013),2013,4,2011;2014;2026,https://www.centralbank.go.ke/wp-content/uploads/2016/08/The-Money-Remittance-Regulations-2013.pdf
+year,aftech,SEN,gov.legislate--digital-payments-legislation,paymentslaw,same,Regulation,Implementing Decree No. 2008-719 On Electronic Transactions,2008,5,2024;2026,https://www.cdp.sn/sites/default/files/D%C3%A9cret_2008_719_Communications_Electroniques.pdf
+year,aftech,ZAF,gov.legislate--digital-payments-legislation,paymentslaw,same,Regulation,E-rate Regulations,2009,4,1998;2021;2024;2026,https://www.icasa.org.za/legislation-and-regulations/e-rate-regulations-2009
+year,aftech,ETH,tech.innovate--tech-startup-ecosystem,startups,same,Law,Proclamation To Provide For Start-Up Businesses,2020,3,2023;2025;2026,http://www.mint.gov.et/policy-and-strategy/-/document_library/CNlICzpide2L/view_file/240342?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect=http%3A%2F%2Fwww.mint.gov.et%2Fpolicy-and-strategy%2F-%2Fdocument_library%2FCNlICzpide2L%2Fview%2F126250%3F_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect%3Dhttp%253A%252F%252Fwww.mint.gov.et%252Fpolicy-and-strategy%253Fp_p_id%253Dcom_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L%2526p_p_lifecycle%253D0%2526p_p_state%253Dnormal%2526p_p_mode%253Dview
+year,aftech,TUN,tech.innovate--tech-startup-ecosystem,startups,same,Law,Tunisia Start-up Act,2018,5,2026;2027,https://www.mtc.gov.tn/fileadmin/StartupAct/Startup_Act_-_procedures_conditions_obtention_du_label.pdf

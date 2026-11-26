@@ -101,3 +101,7 @@ The first reading, on 2026-11-10, found three patterns:
 - **A mapping marked `partial` is read against the ladder.** ITU's regulator duty to consult is not a consultation held. GovTech's pensions system is not social assistance.
 
 **More sources.** Each source needs one adapter, one register row and a block of mappings. Look for a `datapackage.json` first: where a publisher has one, `fetch_datapackage` is the fetcher and the schema is the codebook.
+
+## 6. Disagreements, for triage
+
+**Where a register and a staged cell disagree on a fact, the cell is listed** *(R186)*: `scripts/external-disagree.py` writes `logs/external-disagreements.csv` from the registers and GTMI's answers only, at `same` fit, and its docstring defines the four kinds. A line says where to look first, never that Corpus is wrong; R187's checklist reads it.
