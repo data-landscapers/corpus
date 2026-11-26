@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "compute;shared",
+ "fact": "A cluster of more than 400 NVIDIA B300 GPUs, built by Stratos Lab, Ecoblox and Digital Parks Africa, was launched in September 2026 for rent by South African developers, enterprises and research teams.",
+ "title": "SA gets a 400-GPU AI cloud",
+ "publisher": "Gadget",
+ "published": "2026-09-16",
+ "date_source": "source",
+ "why_not": ""
+}

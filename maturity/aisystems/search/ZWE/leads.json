@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://technomag.co.zw/yamurai-learns-to-speak-like-us-econet-ai-launches-shona-2-0-claims-80-comprehension-and-a-first-for-africa/",
+  "title": "Yamurai Learns To Speak Like Us - Econet Ai Launches Shona 2.0",
+  "publisher": "TechnoMag",
+  "published": "2026-10-10",
+  "sub_indicator": "localai",
+  "why": "Shona AI model released"
+ },
+ {
+  "url": "https://techbytes.africa/zimbabwe-ai-strategy-tracker/",
+  "title": "Zimbabwe AI Strategy: Implementation Tracker",
+  "publisher": "Techbytes Africa",
+  "published": "2026-08-06",
+  "sub_indicator": "localai",
+  "why": "ZCHPC compute host; no datasets"
+ },
+ {
+  "url": "https://zimbabwe.un.org/en/311859-zimbabwe-unveils-2026%E2%80%932030-ai-strategy-advance-inclusive-digital-transformation",
+  "title": "Zimbabwe Unveils 2026-2030 AI Strategy",
+  "publisher": "United Nations in Zimbabwe",
+  "published": "2026-03-14",
+  "sub_indicator": "localai",
+  "why": "HPC centre use for AI"
+ },
+ {
+  "url": "https://zimaistrategy.net/documents/zimbabwe-national-ai-strategy.pdf",
+  "title": "Zimbabwe National Artificial Intelligence (AI) Strategy",
+  "publisher": "Ministry of ICT",
+  "published": "",
+  "sub_indicator": "localai",
+  "why": "ZCHPC, national platform"
+ },
+ {
+  "url": "https://www.billionaires.africa/2026/11/23/zimbabwean-billionaire-strive-masiyiwas-cassava-fills-ai-factory-with-nvidia-chips/",
+  "title": "Strive Masiyiwa's Cassava AI factory hits capacity",
+  "publisher": "Billionaires Africa",
+  "published": "2026-11-23",
+  "sub_indicator": "localai",
+  "why": "Cape Town, not Zimbabwe"
+ },
+ {
+  "url": "https://zchpc.ac.zw/documents/ZCHCP%20-%20High%20Performance%20Computing%20Framework.pdf",
+  "title": "ZCHPC High Performance Computing Framework",
+  "publisher": "ZCHPC",
+  "published": "2023-11",
+  "sub_indicator": "localai",
+  "why": "HPC for AI"
+ }
+]

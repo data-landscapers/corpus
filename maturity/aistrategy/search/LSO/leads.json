@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.gov.ls/download/artificial-intelligence-policy-final-17-08-2026/",
+  "title": "Artificial Intelligence Policy Final",
+  "publisher": "Government of Lesotho",
+  "published": "2026-08-17",
+  "sub_indicator": "strategy",
+  "why": "Final national AI policy published"
+ },
+ {
+  "url": "https://www.gov.ls/development/dpm-commends-advancing-digital/",
+  "title": "DPM Commends Advancing Digital",
+  "publisher": "Lesotho News Agency / Government of Lesotho",
+  "published": "2026-08-18",
+  "sub_indicator": "strategy",
+  "why": "AI strategy and data centre workshop"
+ },
+ {
+  "url": "https://lesotho.un.org/en/321104-capacity-building-workshop-national-ai-strategy-and-data-centre-blueprint",
+  "title": "Capacity-Building Workshop on the National AI Strategy and the Data Centre Blueprint",
+  "publisher": "United Nations in Lesotho",
+  "published": "2026-08-17",
+  "sub_indicator": "strategy",
+  "why": "Strategy in development after draft policy"
+ },
+ {
+  "url": "https://pp.itu.int/2026/en/itu_policy_statements/lesotho-2/",
+  "title": "Lesotho - PP-26 policy statement",
+  "publisher": "ITU / Ministry MICSTI",
+  "published": "",
+  "sub_indicator": "strategy",
+  "why": "Cabinet approved AI policy 2025; Phase One implementation 2026-2027"
+ }
+]

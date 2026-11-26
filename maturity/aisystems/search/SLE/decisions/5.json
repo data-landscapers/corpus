@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "The Directorate of Science, Technology and Innovation in the Office of the President built Kuma, a translation, text-to-speech, speech-to-text and small language model stack for Krio, Temne, Mende and Limba from locally collected data, with prototype outputs in May 2025 and compute access for large-scale training named as a limit.",
+ "title": "Building language AI for Sierra Leone's indigenous languages (Kuma research)",
+ "publisher": "Directorate of Science, Technology and Innovation (DSTI), Office of the President of Sierra Leone",
+ "published": "2025-05",
+ "date_source": "source",
+ "why_not": ""
+}

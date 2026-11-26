@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.lejournaldesarchipels.com/2026/08/27/ia-quel-avenir-pour-la-grande-ile/",
+  "title": "IA : quel avenir pour la Grande Ile ?",
+  "publisher": "Le Journal des Archipels",
+  "published": "2026-08-27",
+  "sub_indicator": "localai",
+  "why": "no local compute; local startups building Malagasy AI"
+ },
+ {
+  "url": "https://liam-ai.org/projets/grand-modele-de-langage-malgache/",
+  "title": "Grand modèle de langage en langue malgache",
+  "publisher": "LIAM",
+  "published": "",
+  "sub_indicator": "localai",
+  "why": "Malagasy LLM project"
+ },
+ {
+  "url": "https://github.com/Flo976/milo",
+  "title": "Flo976/milo",
+  "publisher": "GitHub",
+  "published": "2026-02-16",
+  "sub_indicator": "localai",
+  "why": "Malagasy voice assistant on local GPU"
+ },
+ {
+  "url": "https://zama-diaspora.com/wp-content/uploads/2026/07/Zama_2026_CR_Table_Ronde_IA_Madagascar.pdf",
+  "title": "Compte rendu table ronde IA à Madagascar",
+  "publisher": "Zama 2026",
+  "published": "2026-07",
+  "sub_indicator": "localai",
+  "why": "no data center capacity"
+ }
+]

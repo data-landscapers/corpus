@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://unesdoc.unesco.org/ark:/48223/pf0000394953",
+  "title": "Inteligência Artificial em São Tomé e Príncipe: relatório de avaliação de prontidão",
+  "publisher": "UNESCO",
+  "published": "2025",
+  "sub_indicator": "localai",
+  "why": "Q1/Q4: state data centre, computing"
+ },
+ {
+  "url": "https://inic.gov.st/viewdoc.php?id=27",
+  "title": "Desenho da Estratégia e Política de Governança de Dados",
+  "publisher": "INIC",
+  "published": "2025-07",
+  "sub_indicator": "localai",
+  "why": "Q2: data infrastructure and AI use planned"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;shared",
+ "fact": "GhanaNLP released ghana-speech, 2,247 hours of speech across 42 Ghanaian languages, open on Hugging Face under CC-BY-NC-4.0.",
+ "title": "Introducing ghana-speech: 2,247 Hours of Speech Data for 42 Ghanaian Languages",
+ "publisher": "Ghana NLP",
+ "published": "2026-08-19",
+ "date_source": "source",
+ "why_not": ""
+}

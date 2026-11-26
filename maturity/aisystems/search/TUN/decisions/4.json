@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "compute;shared",
+ "fact": "The Tunisian higher education ministry said the supercomputer, built with China at the El-Khawarizmi Computing Centre, would be made available to all Tunisian researchers.",
+ "title": "Intelligence artificielle : La Tunisie s'apprête à lancer le troisième supercalculateur le plus puissant d'Afrique",
+ "publisher": "La Presse de Tunisie",
+ "published": "2025-12-04",
+ "date_source": "source",
+ "why_not": ""
+}

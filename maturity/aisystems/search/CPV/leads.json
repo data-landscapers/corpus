@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.iscte-iul.pt/iscte-lanca-projeto-internacional-para-desenvolvimento-de-modelos-de-linguagem-crioulo-caboverdiano",
+  "title": "Iscte lança projeto internacional para o desenvolvimento de modelos de linguagem em crioulo cabo-verdiano",
+  "publisher": "Iscte",
+  "published": "2025-08-18",
+  "sub_indicator": "localai",
+  "why": "ORAL project: Kriolu LLM, open corpora"
+ },
+ {
+  "url": "https://www.unicv.edu.cv/pt/fcsha/arquivo-fcsha/5155-oral-uni-cv-e-iscte-lancam-projeto-para-levar-o-kriolu-a-era-digital",
+  "title": "Uni-CV e Iscte lançam projeto para desenvolvimento de modelos de linguagem em crioulo cabo-verdiano",
+  "publisher": "Universidade de Cabo Verde",
+  "published": "2025-08-19",
+  "sub_indicator": "localai",
+  "why": "ORAL project funding and builders"
+ },
+ {
+  "url": "https://nosi.cv/documents/20121/3002157/PAO_2025.pdf.pdf/af80ba78-d208-5551-1171-6b5a7609b71a",
+  "title": "Plano de Atividades e Orçamento 2025",
+  "publisher": "NOSi",
+  "published": "2025",
+  "sub_indicator": "localai",
+  "why": "NOSi Kriol interoperable AI project, data centre"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/3004-55172-cape-verde-starts-work-on-national-data-and-ai-strategies-for-public-sector",
+  "title": "Cape Verde Starts Work on National Data and AI Strategies",
+  "publisher": "Ecofin Agency",
+  "published": "2026-04-30",
+  "sub_indicator": "localai",
+  "why": "AI strategy process launched"
+ },
+ {
+  "url": "https://www.pwc.pt/pt/servicos/advisory/people-and-organisation/hr-for-business/7edicao-como-ia-impulsionar-futuro-tecnologico-cabo-verde.html",
+  "title": "Como a IA está a impulsionar o futuro tecnológico de Cabo Verde?",
+  "publisher": "PwC Portugal",
+  "published": "2026-03-09",
+  "sub_indicator": "localai",
+  "why": "TechPark compute, open data for AI"
+ },
+ {
+  "url": "https://www.governo.cv/wp-content/uploads/2026/04/economiadigital.pdf",
+  "title": "Governo em Ação: Economia Digital",
+  "publisher": "Governo de Cabo Verde",
+  "published": "2026-04",
+  "sub_indicator": "localai",
+  "why": "AI Centre of Excellence, technology parks"
+ }
+]

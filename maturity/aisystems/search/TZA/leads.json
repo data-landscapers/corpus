@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://dailynews.co.tz/government-develops-kiswahili-ai-model/",
+  "title": "Government develops Kiswahili AI model",
+  "publisher": "Daily News",
+  "published": "2026-05-03",
+  "sub_indicator": "localai",
+  "why": "national Swahili LLM final stages"
+ },
+ {
+  "url": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-italian-firm-partner-to-develop-swahili-ai-model-4815402",
+  "title": "Tanzania, Italian firm partner to develop Swahili AI model",
+  "publisher": "The Citizen",
+  "published": "2024-11-07",
+  "sub_indicator": "localai",
+  "why": "ICTC and Almawave MoU for Swahili LLM"
+ },
+ {
+  "url": "https://dig.watch/event/wsis-forum-2026/tanzania-e-government-ai-initiatives-to-enhance-service-delivery",
+  "title": "Tanzania e-Government AI initiatives to enhance service delivery",
+  "publisher": "Digital Watch Observatory",
+  "published": "2026",
+  "sub_indicator": "localai",
+  "why": "Swahili corpus 61m words; planned AI data centre"
+ },
+ {
+  "url": "https://tanzania.un.org/sites/default/files/2025-07/National%20AI%20Readiness%20Report.pdf",
+  "title": "National AI Readiness Report (UNESCO RAM Tanzania)",
+  "publisher": "UNESCO / UN Tanzania",
+  "published": "2025-07",
+  "sub_indicator": "localai",
+  "why": "datasets and planned data centre"
+ },
+ {
+  "url": "https://streamlinefeed.co.ke/news/tanzania-prepares-for-ai-data-centres-as-korea-and-africa-adopt-2026-tech-blueprint",
+  "title": "Tanzania Prepares for AI Data Centres as Korea and Africa Adopt 2026 Tech Blueprint",
+  "publisher": "Streamline Newsroom",
+  "published": "2026-09-11",
+  "sub_indicator": "localai",
+  "why": "planned AI data centres"
+ },
+ {
+  "url": "https://inafrika.co.tz/wing-africa-expands-data-centre-operations-in-tanzania/",
+  "title": "Wingu Africa Expands Data Centre Operations in Tanzania",
+  "publisher": "InAfrika",
+  "published": "2025-03-19",
+  "sub_indicator": "localai",
+  "why": "data centre expansion"
+ }
+]

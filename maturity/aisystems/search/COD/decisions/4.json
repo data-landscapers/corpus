@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "localai",
+ "aspect": "",
+ "fact": "",
+ "title": "Les participants à l'atelier de validation technique approuvent le projet de la stratégie nationale de l'IA",
+ "publisher": "Secrétariat Général à l'Économie du Numérique",
+ "published": "2026-08-01",
+ "date_source": "source",
+ "why_not": "off-topic: a workshop report on a draft strategy's pillars with no AI model, dataset or compute fact."
+}

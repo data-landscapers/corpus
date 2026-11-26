@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://nic.gov.sd/news/details/17",
+  "title": "بقرار من رئيس الوزراء: السودان يؤسس ثلاث هيئات وطنية",
+  "publisher": "المركز القومي للمعلومات",
+  "published": "2025-11-05",
+  "sub_indicator": "strategy",
+  "why": "Q3: Data and AI Authority created"
+ },
+ {
+  "url": "https://sudan.gov.sd/%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1%d8%8c-%d8%a7%d9%84%d8%a8%d8%b1%d9%88%d9%81%d9%8a%d8%b3%d9%88%d8%b1-%d9%83%d8%a7%d9%85%d9%84-%d8%a5%d8%af%d8%b1%d9%8a%d8%b3%d8%8c/",
+  "title": "رئيس الوزراء يصدر ثلاثة توجيهات تنفيذية",
+  "publisher": "جمهورية السودان",
+  "published": "2026-03-31",
+  "sub_indicator": "strategy",
+  "why": "Q1: AI directives, no strategy"
+ },
+ {
+  "url": "https://www.aipolicy.africa/country-profiles/sudan",
+  "title": "Country Profile on AI Governance: Sudan",
+  "publisher": "AI Policy Lab",
+  "published": "2026-10-07",
+  "sub_indicator": "strategy",
+  "why": "Q1: no strategy found"
+ },
+ {
+  "url": "https://udda.pro/en/briefs/sudan-shared-central-ai-lab-project-for-students-and-researchers",
+  "title": "Sudan: Shared Central AI Lab Project",
+  "publisher": "UDDA",
+  "published": "2026-11-19",
+  "sub_indicator": "strategy",
+  "why": "Q1/Q3: authority project, no strategy"
+ },
+ {
+  "url": "https://ainews.africa/article/sudan-data-artificial-intelligence-authority-2025",
+  "title": "Sudan Creates Data and Artificial Intelligence Authority",
+  "publisher": "Africa AI Ledger",
+  "published": "2025-11-05",
+  "sub_indicator": "strategy",
+  "why": "Q3: authority"
+ },
+ {
+  "url": "https://africanaigovernanceindex.com/tracker/sd",
+  "title": "Sudan AI Governance Profile",
+  "publisher": "AAGI",
+  "published": "2026-02",
+  "sub_indicator": "strategy",
+  "why": "Q1: no strategy yet"
+ },
+ {
+  "url": "https://imiel.dev/explore/ai-in-africa-2026/sudan/",
+  "title": "AI in Sudan 2026",
+  "publisher": "Imiel Visser",
+  "published": "2026",
+  "sub_indicator": "strategy",
+  "why": "Q1: no known strategy"
+ }
+]

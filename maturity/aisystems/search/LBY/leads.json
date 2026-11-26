@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.gia.gov.ly/en/2026/06/02/libya-adopts-the-ethical-charter-and-artificial-intelligence-strategy-with-a-2030-vision-and-ambitious-goals/",
+  "title": "Libya Adopts the Ethical Charter and Artificial Intelligence Strategy",
+  "publisher": "General Information Authority (GIA)",
+  "published": "2026-06-02",
+  "sub_indicator": "localai",
+  "why": "national AI strategy, sovereign cloud and HPC plans"
+ },
+ {
+  "url": "https://www.middleeastainews.com/p/first-libyan-national-large-language",
+  "title": "First Libyan national large language model launched",
+  "publisher": "Middle East AI News",
+  "published": "2025-11-22",
+  "sub_indicator": "localai",
+  "why": "LibiGPT model released in Libya"
+ },
+ {
+  "url": "https://www.gia.gov.ly/wp-content/uploads/2026/02/Ai-s-l-i-r_.pdf",
+  "title": "National AI Strategy of Libya 2025-2030",
+  "publisher": "General Information Authority",
+  "published": "2025-12",
+  "sub_indicator": "localai",
+  "why": "HPC centres and sovereign cloud initiatives"
+ },
+ {
+  "url": "https://www.aipolicy.africa/country-profiles/libya",
+  "title": "Country Profile on AI Governance: Libya",
+  "publisher": "AI Policy Lab",
+  "published": "",
+  "sub_indicator": "localai",
+  "why": "GPU/HPC and data center absence"
+ }
+]

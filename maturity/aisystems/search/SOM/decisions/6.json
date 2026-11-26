@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build",
+ "fact": "Researchers at Jamhuriya University of Science and Technology and partners built SomBERTa, the first monolingual Somali transformer language model, and two human-annotated Somali datasets, presented at the AfricaNLP 2025 Workshop.",
+ "title": "Detection of Somali-written Fake News and Toxic Messages on the Social Media Using Transformer-based Language Models",
+ "publisher": "AfricaNLP 2025 Workshop (ACL), via SNAIC Research Repository",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

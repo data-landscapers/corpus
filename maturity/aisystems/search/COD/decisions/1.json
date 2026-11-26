@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute;shared",
+ "fact": "The Lofoy supercomputer, a data centre of 30 servers built by the Nouveaux Horizons university in Lubumbashi for AI exercises and research, was inaugurated on 27 June 2026 and is to be open to other public and private institutions.",
+ "title": "RDC: après Kinshasa, Lubumbashi se dote d'un «data center», le super calculateur Lofoy",
+ "publisher": "RFI",
+ "published": "2026-06-27",
+ "date_source": "source",
+ "why_not": ""
+}

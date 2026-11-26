@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "On 17 November 2026 the communications minister met Cassava AI on its plan with Vodafone Business for Egypt's first AI data centre offering Nvidia computing, hosting and processing data locally, and an AI Factory.",
+ "title": "الاتصالات تبحث إنشاء مركز بيانات للذكاء الاصطناعي بالتعاون مع فودافون بيزنس",
+ "publisher": "اليوم السابع",
+ "published": "2026-11-17",
+ "date_source": "source",
+ "why_not": ""
+}

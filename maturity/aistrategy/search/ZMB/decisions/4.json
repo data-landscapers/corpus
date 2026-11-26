@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "strategy",
+ "aspect": "standing;use",
+ "fact": "Zambia's National AI Strategy 2024-2026 provides for a National AI Council and technical working groups and makes the Smart Zambia Institute coordinator of AI in government.",
+ "title": "National Artificial Intelligence Strategy",
+ "publisher": "Ministry of Technology and Science",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

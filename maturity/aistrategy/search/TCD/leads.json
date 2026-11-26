@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.uneca.org/stories/chad-moves-towards-adopting-its-national-artificial-intelligence-strategy",
+  "title": "Chad moves towards adopting its national artificial intelligence strategy",
+  "publisher": "UN Economic Commission for Africa",
+  "published": "2026-10-08",
+  "sub_indicator": "strategy",
+  "why": "Q1/Q2: draft strategy pre-validated, not yet adopted"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/1210-142318-tchad-la-strategie-de-gouvernance-des-donnees-validee-celle-de-l-ia-en-preparation",
+  "title": "Tchad : la strategie de gouvernance des donnees validee, celle de l'IA en preparation",
+  "publisher": "Agence Ecofin",
+  "published": "2026-10-12",
+  "sub_indicator": "strategy",
+  "why": "Q1/Q2: not definitively adopted"
+ },
+ {
+  "url": "https://tchadmedia.com/tchad-vers-une-strategie-nationale-de-lintelligence-artificielle-a-lhorizon-2030/",
+  "title": "Tchad : vers une strategie nationale de l'intelligence artificielle a l'horizon 2030",
+  "publisher": "Tchadmedia",
+  "published": "",
+  "sub_indicator": "strategy",
+  "why": "Q1: pre-validation launched 8 October 2026"
+ },
+ {
+  "url": "https://mten.gouv.td/la-strategie-nationale-de-transformation-digitale-en-preparation-avec-le-pnud/",
+  "title": "La Strategie nationale de transformation digitale en preparation avec le PNUD",
+  "publisher": "Ministere des Telecommunications, de l'Economie Numerique et de la Digitalisation du Tchad",
+  "published": "2026-11-04",
+  "sub_indicator": "strategy",
+  "why": "Q1: AI strategy pre-validated"
+ },
+ {
+  "url": "https://tchadinfos.com/2025/10/21/tchad-creation-dune-direction-generale-de-lintelligence-artificielle-au-ministere-du-numerique/",
+  "title": "Tchad : creation d'une Direction generale de l'Intelligence Artificielle au ministere du Numerique",
+  "publisher": "Tchadinfos",
+  "published": "2025-10-21",
+  "sub_indicator": "strategy",
+  "why": "Q3: decree creates AI directorate general"
+ },
+ {
+  "url": "https://www.wearetech.africa/fr/fils/tech-stars/tchad-zara-ahmed-sedick-nommee-a-la-tete-de-la-direction-generale-de-l-intelligence-artificielle",
+  "title": "Tchad : Zara Ahmed Sedick nommee a la tete de la Direction generale de l'Intelligence artificielle",
+  "publisher": "We are Tech",
+  "published": "2025-10-27",
+  "sub_indicator": "strategy",
+  "why": "Q3: directorate installed 24 October 2025"
+ },
+ {
+  "url": "https://pp.itu.int/2026/wp-content/uploads/sites/3/2026/11/Chad_CHOUA-MAHAMAT_FR_v2.pdf",
+  "title": "Declaration du ministre des Telecommunications du Tchad, PP-26",
+  "publisher": "ITU / Government of Chad",
+  "published": "2026-11",
+  "sub_indicator": "strategy",
+  "why": "Q1: minister says AI strategy being drawn up"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/2411-143746-ia-le-tchad-veut-renforcer-ses-capacites-nationales-avec-un-laboratoire-soutenu-par-l-uit",
+  "title": "IA : le Tchad veut renforcer ses capacites nationales avec un laboratoire soutenu par l'UIT",
+  "publisher": "Agence Ecofin",
+  "published": "2026-11-24",
+  "sub_indicator": "strategy",
+  "why": "Q1/Q3/Q4: draft strategy, DG IA, lab"
+ }
+]

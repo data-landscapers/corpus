@@ -1,0 +1,6 @@
+[
+{"url":"https://research.geezlab.com/","title":"GLaRe - GeezLab Research Program","publisher":"GeezLab","published":"","sub_indicator":"localai","why":"Open Tigrinya datasets and models; Dahlak LMs in progress"},
+{"url":"https://shabait.com/2026/10/21/building-artificial-intelligence-capabilities-for-eritreas-development-reflections-from-un-day-2026/","title":"Building Artificial Intelligence Capabilities for Eritrea's Development: Reflections from UN Day 2026","publisher":"Eritrea Ministry of Information (Shabait)","published":"2026-10-21","sub_indicator":"localai","why":"Panel on national data, language resources, compute infrastructure needs"},
+{"url":"https://www.aipolicy.africa/country-profiles/eritrea","title":"Country Profile on AI Governance: Eritrea","publisher":"AI Policy Lab","published":"2026-10-07","sub_indicator":"localai","why":"No GPU/HPC or hyperscaler evidence found, TOP500 absent"},
+{"url":"https://zenodo.org/records/5139094","title":"TLMD: Tigrinya Language Modeling Dataset","publisher":"Zenodo","published":"2021-07-27","sub_indicator":"localai","why":"Open Tigrinya dataset (KAIST authors)"}
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build",
+ "fact": "UM6P researchers released the code, data and checkpoints of GemMaroc, a Darija-tuned Gemma 3 model, trained on 8 H100 GPUs.",
+ "title": "GemMaroc: Unlocking Darija Proficiency in LLMs with Minimal Data",
+ "publisher": "Mohammed VI Polytechnic University",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

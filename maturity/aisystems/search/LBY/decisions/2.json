@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build",
+ "fact": "Libya-based Smart Co launched LibiGPT (beta), described as the country's first national LLM, at a Tripoli ceremony in late October 2025, with a public chat app and 7B, 13B and 34B models.",
+ "title": "First Libyan national large language model launched",
+ "publisher": "Middle East AI News",
+ "published": "2025-11-22",
+ "date_source": "source",
+ "why_not": ""
+}

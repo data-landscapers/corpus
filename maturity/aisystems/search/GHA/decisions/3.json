@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "The planned US$270 million Ghana AI data centre is to host and train GhanaChat, with about 2,100 GPUs and 4.3 MW IT load by Bright Simons's estimate, and 48 public registries pooling data.",
+ "title": "GhanaChat data centre could require $61m annual subsidy – Bright Simons",
+ "publisher": "MyJoyOnline",
+ "published": "2026-10-25",
+ "date_source": "source",
+ "why_not": ""
+}

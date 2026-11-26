@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://primature.sn/publications/conseil-des-ministres/conseil-des-ministres-du-24-janvier-2024",
+  "title": "Conseil des ministres du 24 janvier 2024",
+  "publisher": "Gouvernement du Sénégal",
+  "published": "2024-01-24",
+  "sub_indicator": "strategy",
+  "why": "Q2: strategy awaiting inclusive validation, financing"
+ },
+ {
+  "url": "https://www.vie-publique.sn/docs/87957d65-ca04-4fbb-ac05-7fdc8ac12263/srategie-nationale-intelligence-artificielle.pdf",
+  "title": "Stratégie nationale et feuille de route du Sénégal sur l'IA",
+  "publisher": "MCTEN",
+  "published": "2023",
+  "sub_indicator": "strategy",
+  "why": "Q1-3: strategy text, governance actions"
+ },
+ {
+  "url": "https://bie.cciad.sn/2023/09/15/intelligence-artificielle-ia-le-senegal-adopte-une-strategie-nationale/",
+  "title": "Le Sénégal adopte une Stratégie Nationale",
+  "publisher": "BIE",
+  "published": "2023-09-15",
+  "sub_indicator": "strategy",
+  "why": "Q1: presented 14 Sept 2023, 30bn FCFA"
+ },
+ {
+  "url": "https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-macky-sall-detaille-les-grandes-lignes-de-la-strategie-nationale_n_430567.html",
+  "title": "Macky Sall détaille les grandes lignes de la Stratégie nationale",
+  "publisher": "Seneweb",
+  "published": "2024-01-15",
+  "sub_indicator": "strategy",
+  "why": "Q2/Q4: 7bn FCFA"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/tech/senegal-refocuses-digital-strategy-on-sovereign-cloud-and-ai",
+  "title": "Senegal refocuses digital strategy on sovereign cloud and AI",
+  "publisher": "We are Tech",
+  "published": "2026-09-10",
+  "sub_indicator": "strategy",
+  "why": "Q1: DPG 8 Sept 2026"
+ },
+ {
+  "url": "https://www.netandpro.com/blog/afrique-ia/ia-au-senegal-le-pari-de-la-souverainete",
+  "title": "IA au Sénégal : le pari de la souveraineté",
+  "publisher": "NET&PRO",
+  "published": "2026-09-06",
+  "sub_indicator": "strategy",
+  "why": "Q2: 2023 strategy absorbed in New Deal"
+ },
+ {
+  "url": "https://www.presidence.sn/en/assets/new-deal/Doc_NDT.pdf",
+  "title": "New Deal Technologique",
+  "publisher": "Présidence / Ministère de la Communication, des Télécommunications et du Numérique",
+  "published": "2025",
+  "sub_indicator": "strategy",
+  "why": "Q3-4: AI structure, budget"
+ },
+ {
+  "url": "https://www.unesco.org/ethics-ai/en/global-hub/senegal",
+  "title": "Senegal - Global Hub",
+  "publisher": "UNESCO",
+  "published": "2026",
+  "sub_indicator": "strategy",
+  "why": "Q1-3: SNDIA launched Sept 2023"
+ }
+]

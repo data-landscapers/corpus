@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "The National AI Strategy 2024-2026 states there is no centralised platform for AI data aggregation or model deployment, limited public data sets and inadequate cloud investment limiting high performance computing.",
+ "title": "National Artificial Intelligence Strategy 2024-2026",
+ "publisher": "Ministry of Technology and Science",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

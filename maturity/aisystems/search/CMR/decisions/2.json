@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "The Cabinet Council of 30 July 2026 listed ten priority axes for AI including a national sovereign scientific data platform and a national high-performance computing centre, with a financing roadmap proposed.",
+ "title": "Intelligence artificielle : les axes du gouvernement camerounais",
+ "publisher": "Camerounlink",
+ "published": "2026-08-03",
+ "date_source": "source",
+ "why_not": ""
+}

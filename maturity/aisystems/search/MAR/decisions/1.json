@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build",
+ "fact": "Nexus Core Systems announced on 25 November 2026 that construction has begun at Nouaceur of an AI data centre for Nvidia Vera Rubin NVL72 systems, first 20 MW expected in Q3 2027.",
+ "title": "Nexus Core Systems annonce le début des travaux de sa plateforme d'IA",
+ "publisher": "Telquel",
+ "published": "2026-11-25",
+ "date_source": "source",
+ "why_not": ""
+}

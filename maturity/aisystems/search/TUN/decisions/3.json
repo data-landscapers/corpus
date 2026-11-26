@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute;shared",
+ "fact": "The El-Khawarizmi Computing Centre supercomputer, a Chinese donation of about USD 10.6 million, was inaugurated on 23 July 2026 with free access announced for the university and scientific community.",
+ "title": "IA en Tunisie : du supercalculateur au marché national du calcul",
+ "publisher": "L'Economiste Maghrébin",
+ "published": "2026-11-08",
+ "date_source": "source",
+ "why_not": ""
+}

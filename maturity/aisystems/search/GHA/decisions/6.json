@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build;compute",
+ "fact": "President Mahama announced at the 24 April 2026 launch of the National AI Strategy a US$250 million AI Computing Centre plus US$20 million for short and medium-term implementation.",
+ "title": "Ghana to invest $250m in AI Centre, launch national strategy",
+ "publisher": "Ghana News Agency",
+ "published": "2026-04-25",
+ "date_source": "source",
+ "why_not": ""
+}

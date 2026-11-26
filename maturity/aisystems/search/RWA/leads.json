@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://iol.co.za/news/brics/2026-11-19-rwanda-trains-its-ai-workforce-but-the-chips-and-power-are-still-elsewhere/",
+  "title": "Rwanda Trains Its AI Workforce, but the Chips and Power Are Still Elsewhere",
+  "publisher": "IOL",
+  "published": "2026-11-19",
+  "sub_indicator": "localai",
+  "why": "compute status"
+ },
+ {
+  "url": "https://raia.rw/wp-content/uploads/2026/10/RAIA-SEP-October-2026.pdf",
+  "title": "Simplified Stakeholder Engagement Plan (SEP)",
+  "publisher": "Rwanda AI Agency",
+  "published": "2026-10",
+  "sub_indicator": "localai",
+  "why": "GPU compute procurement"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2026-09/undp-local_ai_compute_infrastructure_in_africa_final.pdf",
+  "title": "Local AI compute infrastructure in Africa",
+  "publisher": "UNDP",
+  "published": "2026-09",
+  "sub_indicator": "localai",
+  "why": "GPU server at Bugesera, access"
+ },
+ {
+  "url": "https://www.ungm.org/Public/Notice/311474",
+  "title": "National Language Data Governance and Digitization",
+  "publisher": "UNDP Rwanda",
+  "published": "2026-08-18",
+  "sub_indicator": "localai",
+  "why": "Kinyarwanda AI datasets"
+ },
+ {
+  "url": "https://techinika.com/why-rwanda-ai-innovators-are-struggling-to-scale",
+  "title": "Why Rwanda's AI Innovators are Struggling to Scale",
+  "publisher": "Techinika",
+  "published": "2026-02-23",
+  "sub_indicator": "localai",
+  "why": "Kinyarwanda model, no local GPUs"
+ },
+ {
+  "url": "http://ai.gov.rw/enablement/compute/",
+  "title": "Pillar: Compute - Rwanda Digital AI Catalogue",
+  "publisher": "Rwanda AI Agency",
+  "published": "",
+  "sub_indicator": "localai",
+  "why": "sovereign GPUs"
+ },
+ {
+  "url": "http://ai.gov.rw/enablement/data/",
+  "title": "Pillar: Data - Rwanda Digital AI Catalogue",
+  "publisher": "Rwanda AI Agency",
+  "published": "",
+  "sub_indicator": "localai",
+  "why": "Kinyarwanda AI data"
+ },
+ {
+  "url": "https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Policies/Artificial_Intelligence_Policy.pdf",
+  "title": "National AI Policy",
+  "publisher": "MINICT",
+  "published": "2023",
+  "sub_indicator": "localai",
+  "why": "compute and data plans"
+ }
+]

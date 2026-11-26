@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://amap.ml/2026/10/23/intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-defis-de-la-gouvernance-et-de-la-desinformation/",
+  "title": "Intelligence artificielle et souveraineté numérique : le Mali face aux défis",
+  "publisher": "AMAP",
+  "published": "2026-10-23",
+  "sub_indicator": "localai",
+  "why": "CIAR-Mali, Tier III data center, Bambara ASR"
+ },
+ {
+  "url": "https://gouvernement.ml/souverainete-technologique-le-president-de-la-transition-inaugure-le-centre-dintelligence-artificielle-et-de-robotique-du-mali/",
+  "title": "Le Président de la Transition inaugure le CIAR-Mali",
+  "publisher": "Information Gouvernementale du Mali",
+  "published": "2026-09-21",
+  "sub_indicator": "localai",
+  "why": "AI centre inaugurated"
+ },
+ {
+  "url": "https://www.maliweb.net/technologie/semaine-du-numerique-2026-le-mali-adopte-une-feuille-de-route-ambitieuse-pour-accelerer-sa-transformation-digitale-3118856.html",
+  "title": "Semaine du Numérique 2026 : feuille de route",
+  "publisher": "Maliweb",
+  "published": "2026-08-01",
+  "sub_indicator": "localai",
+  "why": "AI strategy recommended"
+ },
+ {
+  "url": "https://www.un.org/global-dialogue-ai-governance/sites/default/files/2026-07/52.republic_of_mali.pdf",
+  "title": "Discours du Mali, Dialogue mondial sur la gouvernance de l'IA",
+  "publisher": "Republic of Mali / UN",
+  "published": "2026-07",
+  "sub_indicator": "localai",
+  "why": "CIAR-Mali, compute needs"
+ },
+ {
+  "url": "https://maliba-ai.org/",
+  "title": "MALIBA-AI",
+  "publisher": "MALIBA-AI",
+  "published": "",
+  "sub_indicator": "localai",
+  "why": "Bambara ASR and voice models"
+ }
+]

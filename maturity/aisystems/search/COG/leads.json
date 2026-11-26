@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://pp.itu.int/2026/en/itu_policy_statements/congo-rep-of-the/",
+  "title": "Congo (Rep. of the) - PP-26 policy statement",
+  "publisher": "ITU",
+  "published": "2026",
+  "sub_indicator": "localai",
+  "why": "National data centre, shared AI compute, own solution in national languages"
+ },
+ {
+  "url": "https://lanouvellerepublique.cg/2026/05/10/numerique-le-congo-lance-les-travaux-de-sa-strategie-nationale-de-lintelligence-artificielle/",
+  "title": "Le Congo lance les travaux de sa stratégie nationale de l'intelligence artificielle",
+  "publisher": "La Nouvelle République",
+  "published": "2026-05-10",
+  "sub_indicator": "localai",
+  "why": "Lingala and Kituba digitisation, linguistic corpus"
+ },
+ {
+  "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20251119-le-congo-brazzaville-s-%C3%A9quipe-d-un-data-center-pour-r%C3%A9pondre-au-d%C3%A9fi-des-infrastructures-de-l-ia",
+  "title": "Le Congo-Brazzaville s'équipe d'un data center pour répondre au défi des infrastructures de l'IA",
+  "publisher": "RFI",
+  "published": "2025-11-19",
+  "sub_indicator": "localai",
+  "why": "National data centre for startups to train models"
+ },
+ {
+  "url": "https://www.aci.cg/congo-numerique-le-pays-determine-a-renforcer-sa-souverainete-informatique/",
+  "title": "Congo/Numérique : Le pays déterminé à renforcer sa souveraineté informatique",
+  "publisher": "Agence Congolaise d'information",
+  "published": "2026-08-04",
+  "sub_indicator": "localai",
+  "why": "Data centre inauguration date, AfDB"
+ },
+ {
+  "url": "https://www.capmad.com/article/frederic-nze-sonde-en-chine-un-nouveau-datacenter-et-un-cloud-souverain-pour-le-congo",
+  "title": "Frédéric Nze sonde en Chine un nouveau datacenter et un cloud souverain pour le Congo",
+  "publisher": "Capmad",
+  "published": "2026-07-30",
+  "sub_indicator": "localai",
+  "why": "Additional compute and sovereign cloud discussed"
+ }
+]

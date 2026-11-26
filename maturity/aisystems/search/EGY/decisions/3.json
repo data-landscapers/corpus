@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "localai",
+ "aspect": "",
+ "fact": "",
+ "title": "Karnak-40B-v1.0",
+ "publisher": "Applied Innovation Center (Hugging Face)",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: model card carries no date, so no dated fact"
+}

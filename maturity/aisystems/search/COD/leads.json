@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.rfi.fr/fr/afrique/20260627-rdc-apr%C3%A8s-kinshasa-lubumbashi-se-dote-d-un-data-center-le-super-calculateur-lofoy",
+  "title": "RDC: après Kinshasa, Lubumbashi se dote d'un data center, le super calculateur Lofoy",
+  "publisher": "RFI",
+  "published": "2026-06-27",
+  "sub_indicator": "localai",
+  "why": "Lofoy supercomputer inaugurated, AI exercises, open to institutions"
+ },
+ {
+  "url": "https://www.unesco.org/fr/articles/la-rdc-se-dote-dune-strategie-nationale-pour-une-intelligence-artificielle-ethique-et-inclusive",
+  "title": "La RDC se dote d'une stratégie nationale pour une IA éthique et inclusive",
+  "publisher": "UNESCO",
+  "published": "2026-08-05",
+  "sub_indicator": "localai",
+  "why": "SNIA validated; sovereign data and infrastructure"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/tech/dr-congo-seeks-funding-for-three-strategic-digital-infrastructure-projects",
+  "title": "DR Congo Seeks Funding for Three Strategic Digital Infrastructure Projects",
+  "publisher": "We are Tech",
+  "published": "2026-11-18",
+  "sub_indicator": "localai",
+  "why": "National data centre project, existing data centres"
+ },
+ {
+  "url": "https://sg.devdantic.com/2026/08/01/economie-numerique-les-participants-a-latelier-de-validation-technique-approuvent-le-projet-de-la-strategie-nationale-de-lintelligence-artificielle/",
+  "title": "Les participants à l'atelier de validation technique approuvent le projet de la stratégie nationale de l'IA",
+  "publisher": "Secrétariat Général à l'Économie du Numérique",
+  "published": "2026-08-01",
+  "sub_indicator": "localai",
+  "why": "Sovereign data and infrastructure pillar"
+ },
+ {
+  "url": "https://www.unesco.org/ethics-ai/en/drc",
+  "title": "Democratic Republic of the Congo | Global AI Ethics and Governance Observatory",
+  "publisher": "UNESCO",
+  "published": "",
+  "sub_indicator": "localai",
+  "why": "Absence of training datasets in national languages, no cloud policy"
+ }
+]

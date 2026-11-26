@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.un.org/global-dialogue-ai-governance/sites/default/files/2026-07/THE%20UNITED%20REPUBLIC%20OF%20TANZANIA.pdf",
+  "title": "Tanzania country statement, Global Dialogue on AI Governance",
+  "publisher": "United Republic of Tanzania",
+  "published": "2026-07-06",
+  "sub_indicator": "strategy",
+  "why": "Q1/Q2: government statement on National AI Strategy Framework (2026)"
+ },
+ {
+  "url": "https://www.techandjustice.bsg.ox.ac.uk/tanzanias-ai-in-criminal-justice-training-and-regulation-insights-ai-atlas",
+  "title": "Tanzania's AI in Criminal Justice: Training and Regulation Insights",
+  "publisher": "Oxford Institute of Technology and Justice",
+  "published": "2026-06",
+  "sub_indicator": "strategy",
+  "why": "Q1/Q2: draft strategy still draft as at July 2026"
+ },
+ {
+  "url": "https://www.mawasiliano.go.tz/uploads/documents/sw-1753973562-Final%20Tanzania%20NAI%20Strategic%20Framework%20rev2%20wTC%20-%20AN%20Commented%20-%2031%20July%202025%20%284%29.pdf",
+  "title": "The Tanzania National Artificial Intelligence Strategy Framework (Draft Version 0.6)",
+  "publisher": "Ministry of Communication and Information Technology",
+  "published": "2025-07",
+  "sub_indicator": "strategy",
+  "why": "Q1/Q3: draft text, National AI Observatory"
+ },
+ {
+  "url": "https://tanzania.un.org/sites/default/files/2025-07/National%20AI%20Readiness%20Report.pdf",
+  "title": "National AI Readiness Report (UNESCO RAM)",
+  "publisher": "UNESCO / UN Tanzania",
+  "published": "2025-07",
+  "sub_indicator": "strategy",
+  "why": "Q1: ministry leads draft national AI strategy"
+ }
+]

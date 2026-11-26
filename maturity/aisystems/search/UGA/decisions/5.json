@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "localai",
+ "aspect": "build",
+ "fact": "Makerere AI Lab's Yogera dataset reached release 5.0.2 on 10 December 2024 with 3,885.9 recorded hours of voice clips in five Ugandan languages.",
+ "title": "Yogera Dataset",
+ "publisher": "AI-Lab-Makerere",
+ "published": "2024-12-10",
+ "date_source": "source",
+ "why_not": ""
+}
