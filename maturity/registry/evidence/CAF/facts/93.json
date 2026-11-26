@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-23-caf-modernisation-de-letat-civil-mbetinet-experimente-en-phase-pilote-dans",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "pilot",
+   "fact": "MbetiNet is in pilot at one commune civil-status centre, Bimbo, before any extension to other centres, per Les Autres Nouvelles de Centrafrique.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "MbetiNet",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The pilot is run under the authority of the Ministry of Territorial Administration, Decentralisation and Local Development (MATDDL).",
+   "as_of": "2026-11-23",
+   "date_precision": "day",
+   "system": "MbetiNet",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "The pilot is supported by the European Union's MODERO project, implemented by CIVIPOL.",
+   "as_of": "2026-11-23",
+   "date_precision": "day",
+   "system": "MbetiNet",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MODERO register scanning at Bimbo",
+   "country_label": "Central African Republic",
+   "class": "archive",
+   "platform": "",
+   "owner": "MATDDL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
