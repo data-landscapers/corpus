@@ -281,9 +281,9 @@ Not established: Nothing found since October 2023 says whether information or di
 
 ### Cape Verde: Unplaced
 
-A labour portal launched in 2026 is said to carry digital accessibility tools, not stated to serve disabled people, so no stage is set.
+A labour portal launched in November 2026 supports screen readers; no accessibility rule or programme has been found, so no stage is set.
 
-Not established: No source found says whether public information or digital services are made accessible to persons with disabilities. The labour inspectorate's portal (November 2026) is said to carry digital accessibility tools, not stated to serve them.
+Not established: No source found says a law, policy, standard or programme on digital accessibility for persons with disabilities is in force, drafted or being prepared. The labour inspectorate's portal of November 2026 carries screen-reader and other features for persons with disabilities (CPV-002).
 
 ### Ethiopia: Unplaced
 

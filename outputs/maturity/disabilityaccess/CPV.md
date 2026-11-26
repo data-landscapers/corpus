@@ -4,4 +4,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found says whether public information or digital services are made accessible to persons with disabilities. The labour inspectorate's new portal of November 2026 is said to carry digital accessibility tools, with no word of whom they serve.
+***Not found***. No law, policy, standard or programme on digital accessibility for persons with disabilities has been found. The labour inspectorate's portal of November 2026 has screen-reader support and other features for them.
