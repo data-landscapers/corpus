@@ -53,6 +53,7 @@ BFA,ATI platform,Burkina Faso,eservices,ati.gov.bf,Ministry of Digital Transitio
 BWA,1Gov1Citizen,Botswana,eservices,integrated e-services platform,Government of Botswana,national,2026-02-10-botswana-doubles-down-on-digital-transformation-2026-budget
 BWA,National Digital Identification System,Botswana,other,,Government of Botswana,national,2026-02-10-botswana-doubles-down-on-digital-transformation-2026-budget
 BWA,1Gov,Botswana,eservices,,Ministry of Communications and Innovation (digital team),,2025-12-02-bwa-case-study-botswana-1gov-platform-assessment
+BWA,SmartBots,BWA,eservices,,"Ministry of Communications, Knowledge and Technology",,2026-08-26-bwa-the-ai-question-botswana-cannot-avoid
 CAF,national digital portal,Central African Republic,eservices,,government of the Central African Republic,"transport, justice, education, healthcare, businesses, NGOs, financial operators",2026-10-15-caf-africabusinessinsight-digital-public-services-connectivity-barriers
 CIV,Unified Management System for Industrial and Commercial Information (GUCII),Cote d'Ivoire,eservices,,Ministry of Commerce and Industry,,2025-09-05-cybastion-e-government-erp-gucii-techafricanews
 CIV,e-Justice platform,Cote d'Ivoire,eservices,,Ministry of Justice,,2025-06-19 Ivory Coast strengthens e-services with digital nationality certificate
@@ -147,6 +148,7 @@ DZA,Dzaïr Digital Services,Algeria,eservices,,High Commission for Digitalisatio
 DZA,Dzair Digital Services,Algeria,eservices,national portal,High Commission for Digitalisation (HCN),,2026-11-15-dza-derrar-dzair-digital-services-two-million-registered
 DZA,Dzair Digital Services portal,Algeria,eservices,national government services portal,High Commission for Digitalisation (HCN),,2026-11-19-dza-radioalgerie-derrar-portal-91-services-100-target
 DZA,Dzair Digital Services,Algeria,eservices,government portal,High Commission for Digitalisation,,2026-11-16-dza-algerie360-dzair-digital-services-20-tourism-craft-services
+DZA,Dzair Digital Services,Algeria,eservices,National Portal of Digital Services,High Commission for Digitalization,,2026-11-25-dza-casnos-14-services
 EGY,Digital Egypt,EGY,other,,,,2026-10-12-egy-technotime-ehab-said-digital-transformation-beyond-services
 EGY,Digital Egypt (منصة مصر الرقمية),EGY,eservices,,Ministry of Communications and Information Technology,,2026-09-20-egy-alnahar-hendy-240-services-400-by-2030
 EGY,biometric electronic-verification (digital identity) system,Egypt,other,telecom operator smartphone apps,Ministry of Communications and Information Technology,national,2026-09-18-egy-elmydan-biometric-verification-digital-identity-launch
@@ -332,6 +334,7 @@ MOZ,Citizen Portal,service portal,eservices,,INAGE,,2026-04-23-moz-implementatio
 MOZ,GGA e-auction platform,Mozambique,eservices,,Gabinete de Gestao de Activos,,2026-11-06-moz-mozambique-new-e-auction-platform-strengthens-transparency-in-asset-re
 MOZ,Portal do Cidadao,Mozambique,other,,Government,,2026-02-12-moz-governo-mobiliza-o-pais-para-definir-estrategia-nacional-de-transforma
 MOZ,Sistema de Certificação Digital de Moçambique,Mozambique,other,,INTIC,,2024-08-23-moz-nao-ha-vazio-legal-para-proteger-direitos-digitais-de-cidadaos-mocambi
+MOZ,Portal do Cidadao,Mozambique,other,citizen portal,ATDI,,2026-11-24-moz-governo-defende-facilitacao-dos-servicos-de-estado
 MRT,Houwiyeti,Mauritania,eservices,TECH5 / SmartMS,"Ministry of Digital Transition, Innovation and Public Sector Modernisation (MTNIMA)",,"2024-08-15 Mauritania Launches Digital ID for e-Services, Built on TECH5 Platform (Houwiyeti)"
 MRT,STT (Systeme de Teledeclaration et Telepaiement),Mauritania,eservices,,Direction Generale des Impots,,2026-09-16-dgi-mauritanie-teleservices
 MRT,Teleservices (tele-services.gov.mr),Mauritania,eservices,,Direction Generale des Impots,,2026-09-16-dgi-mauritanie-teleservices
@@ -443,6 +446,7 @@ SOM,HALMEEL (National Unified Public Service Delivery Centre),Somalia,other,,Gov
 SOM,NIRA national identity system,Somalia,other,,NIRA,,2026-10-28-som-halmeel-can-somalia-build-a-connected-digital-government
 SOM,E-Parliament,Somalia,other,,House of the People,,2026-10-29-som-somalia-parliament-suspends-sessions-for-two-weeks-to-install-e-parlia
 SOM,Halmeel Unified Services Center,Somalia,other,,Office of the Prime Minister,,2026-04-24-som-somalia-digitizes-public-service-delivery
+SOM,SOBS Integrated Management Information System,Somalia,eservices,,Somali Bureau of Standards,,2026-09-27-som-from-paper-to-digital-somalia-s-standards-services-move-online
 SSD,NCA e-Services Platform,South Sudan,eservices,,National Communication Authority,,2026-02-13-nca-eservices-platform-revenue-onecitizendaily
 SSD,Business Registration Service (BRS),South Sudan,eservices,,Ministry of Justice and Constitutional Affairs,,2025-01-01-business-registration-service-south-sudan
 SSD,eServices.gov.ss,South Sudan,eservices,,,,2025-01-01-business-registration-service-south-sudan
@@ -559,6 +563,7 @@ ZAF,National e-Government Portal,South Africa,eservices,www.eservices.gov.za,SIT
 ZAF,e-Gov portal,South Africa,eservices,,SITA,,2024-02-16-zaf-sita-to-ramp-up-access-to-digitised-govt-services
 ZAF,Digital Asylum System,Digital Asylum System,eservices,Myhomeaffairsonline,Department of Home Affairs,,2026-11-10-gov-za-home-affairs-launches-first-phase-digital-asylum-system
 ZAF,myRegulator,South Africa,other,internal case management,Information Regulator,,2026-11-19-zaf-itweb-inforeg-cyber-defences-ai-governance
+ZAF,Electronic Travel Authorisation (ETA),South Africa,eservices,,Department of Home Affairs,,2026-11-24-zaf-no-budget-for-digital-border-control-at-land-ports-as-sa-faces-busy-festive-
 ZMB,National Public Key Infrastructure (NPKI),Zambia,other,,ZICTA,,2026-09-15-zmb-techafricanews-national-digital-trust-infrastructure-public-key
 ZMB,ZamPass,Zambia,other,"open-source SSO, OpenID Connect",Smart Zambia Institute,,2026-08-29-zambia-zampass-about
 ZMB,Citizen Support Services Portal,Zambia,other,,,,2026-08-24-govt-pushes-digitalisation-to-expand-services
@@ -577,3 +582,4 @@ ZWE,e-government procurement system,Zimbabwe,other,,Ministry of Finance,,2026-08
 ZWE,ZimConnect,Zimbabwe,eservices,,Ministry of ICT,,2016-03-04-zwe-techzim-zimconnect-online-company-registration
 ZWE,e-passport system,Zimbabwe,other,,Civil Registry Department,,2026-03-02-zwe-zimbabwe-to-fully-automate-passport-applications-before-year-end
 ZWE,Smart Traffic Management System,Smart Traffic Management System,other,ANPR cameras,Zimbabwe Republic Police,,2026-11-10-zwe-zimbabwe-smart-traffic-database
+ZWE,ZLMIS,Zimbabwe,other,,"Ministry of Public Service, Labour and Social Welfare",,2026-11-25-zwe-government-launches-system-to-improve-labour-market-planning

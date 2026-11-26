@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-24-ken-probe-after-hackers-allegedly-breach-ecitizen-steal-millions-of-person",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The State Department for Immigration and Citizen Services said eCitizen services remain available and the public can continue to access government services as usual.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "Kenya",
+   "class": "eservices",
+   "platform": "",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

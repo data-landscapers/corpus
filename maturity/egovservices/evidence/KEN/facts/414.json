@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-24-ken-what-data-is-at-risk-in-the-alleged-740gb-ecitizen-data-breach",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Pulse Kenya reports that millions of people rely on the eCitizen platform for government services, which the State Department for Immigration and Citizen Services says remain operational.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "Kenya",
+   "class": "eservices",
+   "platform": "government services portal",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
