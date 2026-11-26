@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 r"""
-maturity-render.py — the maturity assessment rendered for reading (tasks F3 and F1, first pass).
+maturity-render.py — the maturity assessment rendered for reading (task F3, first pass).
 
     python scripts/maturity-render.py indicators        # outputs/maturity/indicators/{id}.md
-    python scripts/maturity-render.py countries         # outputs/reports/{ISO3}/{ISO3}-maturity.md
     python scripts/maturity-render.py all
 
 **Why this exists before the rest of F** *(Bill, 2026-09-24)*: a stage cannot be judged in
@@ -32,7 +31,6 @@ import calendar
 import csv
 import datetime as dt
 import importlib.util
-import re
 import sys
 import urllib.parse
 from collections import Counter
@@ -283,87 +281,13 @@ def render_indicators() -> int:
     return len(frame)
 
 
-def country_page(unit: str, name: str, eds: dict, cat: dict, natures: dict, led: dict) -> str:
-    """F1: one country's assessment, by chapter and kind, with its evidence and the month's
-    movement. Counts are per kind and never across kinds (§4, §11)."""
-    last, first = eds[MONTHS[-1]].get(unit, {}), eds[MONTHS[0]].get(unit, {})
-    as_at = month_end(MONTHS[-1])
-    frame = indicators_lib.assessed()
-    o = [f"# {name}: maturity assessment", "",
-         f"*As at 31 August 2026, beside 31 July. Each indicator is placed on five stages against "
-         f"a continental norm: for a law, strategy or system, 1 Absent · 2 Nascent · 3 Established "
-         f"· 4 Operating · 5 Mature; for a measure, 1 far below · 2 below · 3 approaching · "
-         f"4 meets · 5 exceeds the norm's target. **Unplaced** means the repository holds evidence "
-         f"that meets no stage. **No evidence** means it holds none. A stage moves only on a "
-         f"source dated inside the month.*", ""]
-    for kind in indicators_lib.KINDS:
-        ids = [f["indicator_id"] for f in frame if f["kind"] == kind]
-        c = Counter(stage_cell(last.get(i), kind == "measure") for i in ids)
-        words = MEASURE_NAME if kind == "measure" else STAGE_NAME
-        order = [f"{k} {words[k]}" for k in "54321"] + ["unplaced", "—"]
-        o.append(f"- **{kind.capitalize()}s ({len(ids)})**: " + " · ".join(
-            f"{k.replace('—', 'no evidence')} {c[k]}" for k in order if c[k]))
-    moves = [(i, first.get(i), a) for i, a in last.items()
-             if first.get(i) and first[i].get("stage") != a.get("stage")]
-    o += ["", "## This month", ""]
-    if not moves:
-        o.append("No stage moved in August.")
-    ind_name = {f["indicator_id"]: f for f in frame}
-    for i, j, a in moves:
-        f = ind_name[i]
-        why = a.get("moved_by", "")
-        src = ("a correction to the rubric or a re-read" if why == "reassessed" else
-               source_link(why, cat) if ma.src_date(why) and not ma.SOURCE_AT.match(why) else esc(why))
-        o.append(f"- **{f['indicator']}**: {stage_cell(j, f['kind'] == 'measure')} → "
-                 f"{stage_cell(a, f['kind'] == 'measure')}, on {src}. {esc(a.get('qualifier'))}")
-    chapter = None
-    for f in frame:
-        if f["chapter"] != chapter:
-            chapter = f["chapter"]
-            o += ["", f"## {chapter}", "", "| Indicator | Jul | Aug | Evidence | Qualifier |",
-                  "|---|---|---|---|---|"]
-        i, meas = f["indicator_id"], f["kind"] == "measure"
-        a, j = last.get(i), first.get(i)
-        cur = a or j
-        label = f"[{esc(f['indicator'])}](../../maturity/indicators/{i}.md)<br>*{f['kind']}*"
-        if cur is None:
-            o.append(f"| {label} | — | — | *No evidence* | |")
-            continue
-        if meas:
-            n = natures.get((unit, i, cur.get("value_year", ""), cur.get("value", "")), "")
-            ev = measure_evidence(cur, cat, {cur.get("value_source", "")[4:].split("@")[0]: n})
-        else:
-            ev = row_evidence([x for x in (cur.get("stage_rows") or "").split("|") if x], led, as_at, cat)
-        moved = " ▲" if a and j and a.get("stage") != j.get("stage") else ""
-        o.append(f"| {label} | {stage_cell(j, meas)} | {stage_cell(a, meas)}{moved} | {ev} | "
-                 f"{esc(cur.get('qualifier'))} |")
-    o += ["", "*▲ the stage moved in August. Each indicator links to its page across the 54 "
-          "countries.*", ""]
-    return "\n".join(o)
-
-
-def render_countries() -> int:
-    eds, names, cat, natures = editions(), countries(), catalogue(), ref_natures()
-    n = 0
-    for unit, name in names.items():
-        if unit not in eds[MONTHS[-1]]:
-            continue
-        led = ma.ledger(REPORTS, unit)
-        (REPORTS / unit / f"{unit}-maturity.md").write_text(
-            country_page(unit, name, eds, cat, natures, led), encoding="utf-8")
-        n += 1
-    return n
-
-
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
-    ap.add_argument("what", choices=("indicators", "countries", "all"))
+    ap.add_argument("what", choices=("indicators", "all"))
     a = ap.parse_args(argv)
     sys.stdout.reconfigure(encoding="utf-8")
     if a.what in ("indicators", "all"):
         print(f"{render_indicators()} indicator pages in {OUT_IND.relative_to(CORPUS)}")
-    if a.what in ("countries", "all"):
-        print(f"{render_countries()} country documents, outputs/reports/{{ISO3}}/{{ISO3}}-maturity.md")
     return 0
 
 
