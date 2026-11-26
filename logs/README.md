@@ -14,6 +14,7 @@ One line a file or folder, read by `scripts/inventory.py` as its purpose (R168).
 - `claim-audit/`: each night's claim-audit sample, its worksheet and its verdicts.
 - `claim-audit.csv`: one row per audited claim, with its verdict, cause and repair.
 - `climate-fund-audit.csv`: the climate funds' African project pages, and what was staged for OSINT.
+- `concordance.csv`: linked sentences with a figure or date not found in the cited source (R183), rewritten each cycle.
 - `dataset-updates.csv`: every change to a curated dataset, record by record.
 - `deleted-editions.csv`: every edition pruned, with what superseded it.
 - `external-disagreements.csv`: cells where an external register and Corpus's evidence disagree (R186).
