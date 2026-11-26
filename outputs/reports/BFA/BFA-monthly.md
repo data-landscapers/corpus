@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: BFA
-ledger_rows: 48
+ledger_rows: 49
 not_held: 6
-record: 494ea2e36882
+record: c28fff3ca9bf
 ---
 
 # News, Oct – Nov 2026
@@ -567,6 +567,28 @@ AES Insider reported that Burkina Faso's social registry committee met on 27 Oct
 **[CEFORE : Préparer votre création d'entreprise](https://creerentreprise.me.bf/)** — Maison de l'Entreprise du Burkina Faso (CEFORE), 13 November 2026
 
 Burkina Faso's business registration centre CEFORE runs an online guide to starting a business. It asks founders to check that a trade name is available and then prepare their documents. It sets out the choice between a sole proprietorship and a company such as a SARL, SA or SAS.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil-registration platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Modernisation de l’état civil : À Koudougou, l’ALP au cœur des réalités administratives, judiciaires et sanitaires](https://www.assembleenationale.bf/996)** — Assemblée législative du peuple, 24 November 2026
+
+VENEEM demo; acts 1959-2023 digitised; Koudougou court ~2,000 late-registration requests yearly, 1,476 rulings Jan-Oct.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Modernisation de l’état civil : À Réo, Ténado et Poa, la digitalisation face aux défis de sa mise en œuvre](https://www.assembleenationale.bf/997)** — Assemblée législative du peuple, 24 November 2026
+
+VENEEM installed in Réo but idle without internet; Ténado runs on three agents; Poa's digitised registers unexploited.
 
 </div>
 
