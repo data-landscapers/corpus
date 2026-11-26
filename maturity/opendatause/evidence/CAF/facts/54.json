@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-24-caf-icasees-la-politique-de-diffusion-des-donnees-et-la-procedure-danonymi",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "ICASEES says it has run a national open data portal and a NADA microdata catalogue, and its draft policy gives free access to aggregate data and reports.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "ICASEES national open data portal",
+   "class": "open"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
