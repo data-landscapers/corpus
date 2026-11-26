@@ -1,6 +1,6 @@
 ---
 title: DR Congo: status report
-compiled: 2026-11-24
+compiled: 2026-11-26
 place: COD
 region: XCA
 built_by: STATUS-INIT
@@ -33,7 +33,7 @@ The instrument in force is the [Digital Code of 13 March 2023](https://dig.watch
 
 The digital economy minister [said on 28 September 2026 that the Prime Minister had signed decrees creating the certification authority](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). He [named a head and a deputy for the authority by arrêté of 19 October 2026](https://numerico.cd/fr/article/rdc-serge-kaozi-lubamba-nomme-a-la-tete-des-missions-de-l-ance). [Its missions had sat with ARPTC since August 2024](https://numerico.cd/fr/article/rdc-serge-kaozi-lubamba-nomme-a-la-tete-des-missions-de-l-ance).
 
-The Senate [declared admissible on 28 September 2026 a bill amending the Code to bar children under 13 from social platforms](https://www.wearetech.africa/en/fils-uk/news/tech/drc-senate-considers-social-media-ban-for-children-under-13). [The plenary adopted the joint committee's report on 31 October 2026, with 22 amendments sent back to the committee](https://acp.cd/nation/senat-examen-mercredi-des-amendements-sur-la-proposition-de-loi-modifiant-code-numerique/). A deputy [filed a separate special law on minors online on 21 September 2026](https://actualite.cd/2026/09/21/assemblee-nationale-le-depute-alfred-dibandi-initie-une-proposition-de-loi-relative-la).
+The Senate [declared admissible on 28 September 2026 a bill amending the Code to bar children under 13 from social platforms](https://www.wearetech.africa/en/fils-uk/news/tech/drc-senate-considers-social-media-ban-for-children-under-13). [On 24 November 2026 the Senate adopted it unanimously, 76 votes to none, and sent it to the National Assembly](https://acp.cd/nation/senat-adoption-dune-proposition-de-loi-protegeant-les-mineurs-sur-les-reseaux-sociaux/). A deputy [filed a separate special law on minors online on 21 September 2026](https://actualite.cd/2026/09/21/assemblee-nationale-le-depute-alfred-dibandi-initie-une-proposition-de-loi-relative-la).
 
 Several registers were created by decree: the [General Population File in March 2022](https://leganet.cd/Legislation/Droit%20Public/Identification/decret%2022.04.02.03.2022.html), [computerised commercial-court case management in March 2025](https://droitnumerique.cd/mise-en-place-dun-systeme-integre-de-gestion-informatisee/) and the [Registre Social Unique in December 2025](https://leganews.pro/articles/019d2bef-1d56-70af-a0b8-79e76597706d). [The President signed an ordonnance-loi organising official statistics](https://acp.cd/nation/le-president-tshisekedi-fixe-les-conditions-dorganisation-de-lactivite-statistique-en-rdc/), and [promulgated the law ratifying it in October 2026](https://acp.cd/nation/promulgation-de-la-loi-portant-organisation-de-lactivite-statistique-en-rdc/). [Land Law 25/62 of 3 December 2025 introduces provisions on digitising the cadastre](https://www.affairesfoncieres.gouv.cd/actualites/se-la-nouvelle-loi-fonciere). [No comprehensive cross-government data-sharing law exists](https://ijisrt.com/assets/upload/files/IJISRT23AUG1743.pdf).
 
