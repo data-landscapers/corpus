@@ -38,9 +38,11 @@ BWA,2026-03-20-drought-regionalization-chirps-satellite-data,,2026-10-19
 BWA,2026-03-25-crop-yield-drought-indices-agricultural-monitoring,,2026-10-19
 BWA,2026-08-19-digital-earth-africa-aws-satellite-data,,2026-10-19
 BWA,2026-10-26-lso-2026-2027-agricultural-season,,2026-11-24
+BWA,2026-11-25-xaf-amini-wants-to-turn-africa-s-paper-archives-into-data-for-ai,,2026-11-26
 CAF,2021-04-19-caf-wfp-analyse-satellitaire-surfaces-cultivees,,2026-10-19
 CAF,2025-08-07-asecna-eaip-feff-bangui-mpoko-met,,2026-10-19
 CAF,2026-10-14-caf-acdd-immersion-senum-transformation-numerique,,2026-10-19
+CAF,2026-11-25-xaf-amini-wants-to-turn-africa-s-paper-archives-into-data-for-ai,,2026-11-26
 CIV,2024-01-01-civ-towards-early-warnings-for-all-in-africa,,2026-11-12
 CIV,2025-01-01-civ-a-feat-achieved-through-the-use-of-sdmx,,2026-11-12
 CIV,2025-02-13-civ-expanding-the-property-tax-base-innovations-in-property-identification,,2026-11-12
@@ -49,6 +51,7 @@ CIV,2026-02-03-alsat-3b-second-satellite-launch--connectingafrica,,2026-10-19
 CIV,2026-05-01-civ-from-space-to-soil-cote-d-ivoire-harnesses-riice-to-secure-its-rice-fu,,2026-10-21
 CIV,2026-08-11-cote-divoire-sodexam-jool-international-convention-meteo-satellite-ia,,2026-10-19
 CIV,2026-08-28-spaceinafrica-cote-divoire-asci-dg-ouattara,,2026-10-19
+CIV,2026-09-03-civ-ecofin-mistral-ai-partnership-audit-roadmap,,2026-11-26
 CIV,2026-11-17-xaf-expertise-france-data-governance-in-africa-initiative,,2026-11-24
 CMR,2024-01-01-crs-2-2024010170-2024-pme-project-tableau-de-bord-donnees-geospatiales,,2026-11-06
 CMR,2024-07-02-cmr-minader-cropwatch-country-profile,,2026-10-19
@@ -204,6 +207,7 @@ KEN,2024-11-06-ken-kenya-space-agency-announces-plan-to-implement-agriculture-eo
 KEN,2024-11-20-ken-integrated-use-of-multisource-remote-sensing-data-for-national-scale-a,,2026-10-21
 KEN,2025-08-29-ken-drought-information,,2026-11-24
 KEN,2025-09-19-eri-fao-locust-early-warning-training,,2026-10-19
+KEN,2025-10-13-ken-child-malnutrition-in-kenya-ai-model-can-forecast-rates-six-months-bef,,2026-11-26
 KEN,2025-10-24-sewa-strengthening-early-warning-africa,,2026-10-19
 KEN,2026-02-10-crome-initiative-launch-kenya-space-agency,,2026-10-19
 KEN,2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad,,2026-10-19
@@ -328,6 +332,7 @@ NAM,2024-03-30-mwi-nasa-harvest-partners-with-fao-to-improve-agricultural-monito
 NAM,2025-09-05-digital-earth-africa-sasscal-collaborate-on-agriwatch,,2026-10-19
 NAM,2026-02-13 Namibia gets  Chinese satellite ground station,,2026-10-19
 NAM,2026-02-13-namibia-china-satellite-ground-station-handover,,2026-10-19
+NAM,2026-07-29-nam-govt-probes-n-40m-us-agriculture-deal,,2026-11-26
 NAM,2026-08-17-namibia-agriculture-ai-deal-6th-grain-transparency,,2026-10-19
 NAM,2026-08-19-observer24-namibia-cancels-agriculture-ai-deal,,2026-10-19
 NAM,2026-08-20-namibian-cabinet-blocks-us-ai-crop-monitoring-tender,,2026-10-19
@@ -376,6 +381,7 @@ NGA,2026-10-29-from-informal-landmarks-to-sovereign-data-the-governance-challeng
 NGA,2026-11-11-google-africa-applied-ai-lab-first-cohort,,2026-11-24
 NGA,2026-11-13-nga-ground-segment,,2026-11-24
 NGA,2026-11-17-nga-fg-deploys-ai-to-track-jigawa-crops-farmland,,2026-11-24
+NGA,2026-11-25-xaf-amini-wants-to-turn-africa-s-paper-archives-into-data-for-ai,,2026-11-26
 RWA,2024-02-29-rwa-unique-challenges-and-opportunities-for-earth-observation-in-rwanda,,2026-11-24
 RWA,2024-06-26-rwa-2024-01-f5,,2026-10-19
 RWA,2024-07-12-rwa-geospatial-technologies-to-inform-agricultural-production-in-rwanda,,2026-11-24
@@ -427,6 +433,7 @@ SEN,2026-10-14-caf-acdd-immersion-senum-transformation-numerique,,2026-10-19
 SEN,2026-11-11-google-africa-applied-ai-lab-first-cohort,,2026-11-24
 SEN,2026-11-17-xaf-expertise-france-data-governance-in-africa-initiative,,2026-11-24
 SEN,2026-11-23-sen-al-aminou-lo-appelle-a-investir-massivement-dans-la-donnee-pour-une-gouvernance,,2026-11-24
+SEN,2026-11-23-sen-allocution-du-premier-ministre-ahmadou-alhaminou-mohamed-lo-a-l-occasi,,2026-11-26
 SLE,2024-07-01-sle-farmerline-mocti-mou-krio-language-model,,2026-10-19
 SLE,2024-10-01-sle-africa-regional-forum-on-data-governance-and-digital-government,,2026-11-12
 SLE,2025-01-01-sle-building-data-driven-agricultural-policy-in-sierra-leone,,2026-10-22
@@ -573,7 +580,9 @@ ZWE,2025-08-17-yieldera-satellite-agriculture-zimbabwe,,2026-10-19
 ZWE,2025-09-05-digital-earth-africa-sasscal-collaborate-on-agriwatch,,2026-10-19
 ZWE,2025-11-28-fao-eostat-ict-innovator-award,,2026-10-19
 ZWE,2026-01-01-zwe-eo-handbook-zimbabwe-sen4stat-crop-monitoring,,2026-11-24
+ZWE,2026-01-30-zwe-fao-showcases-ai-driven-agriculture-solutions-at-zimbabwe-defence-univ,,2026-11-26
 ZWE,2026-03-16-zmb-nasa-harvest-esa-worldcereal-zambia-workshop,,2026-11-24
 ZWE,2026-07-01-zwe-zimbabwe-geoportal,,2026-11-24
 ZWE,2026-10-26-lso-2026-2027-agricultural-season,,2026-11-24
 ZWE,2026-10-28-zim-to-launch-a-third-satellite-newsday,,2026-11-06
+ZWE,2026-11-24-zwe-new-digital-land-registry-captures-1m-properties-nears-launch,,2026-11-26
