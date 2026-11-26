@@ -1,11 +1,11 @@
 ---
 title: East Africa — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: XEA
-ledger_rows: 21
+ledger_rows: 22
 not_held: 0
-record: 2b838eb7fdb5
+record: ae102e1e1247
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: 2b838eb7fdb5
 <a href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity-and-inclusion">Capacity and inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 </nav>
 
 ## Institutions and mandates
@@ -415,6 +417,28 @@ COMESA announced on 30 October 2026 a regional meeting in Chongwe, Zambia, from 
 **[Regional Digital Inclusion Strategy and Action Plan Validated](https://www.comesa.int/regional-digital-inclusion-strategy-and-action-plan-validated/)** — COMESA, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 Fifteen COMESA member states validated a Regional Digital Inclusion Strategy and Action Plan, with a Situational Analysis Report, at a workshop in Lusaka on 3–5 November 2026. Zambia hosted the workshop, with World Bank support under the IDEA programme. COMESA said on 10 November 2026 that the outcomes will guide the documents' finalisation, adoption and implementation.
+
+</div>
+
+</div>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#new-investments">New investments</a>
+</nav>
+
+### New investments
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EU Horn of Africa green and digital trade corridor programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[European Union — TradeMark Africa, Horn of Africa green and digital trade corridor action, 2026](https://trademarkafrica.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — European Union, 1 November 2026
+
+EUR 20m four-year Global Gateway programme signed November 2026; TradeMark Africa implements in ETH, DJI, SOM.
 
 </div>
 
