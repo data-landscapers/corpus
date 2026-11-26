@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "unplaced",
+      "stage": "2",
       "rule": "",
-      "delivered": "",
+      "delivered": "delivered",
       "audit": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source found says a law, policy, standard or programme on digital accessibility for persons with disabilities is in force, drafted or being prepared. The labour inspectorate's portal of November 2026 carries screen-reader and other features for persons with disabilities (CPV-002).",
-      "note": "The ILO says the labour inspectorate's portal, launched on 3 November 2026, has text-to-speech, keyboard navigation and screen-reader support for persons with disabilities, which answers question 3. With no rule or programme row, the first step is not met on its own evidence, so the cell stays unplaced.",
+      "stage_sources": "CPV-002",
+      "gaps": "No source found says a law, policy, standard or programme on digital accessibility for persons with disabilities is in force, drafted or being prepared.",
+      "note": "Staged 2026-11-26 on Bill's ruling (message 144: a service delivered counts). The ILO says the labour inspectorate's portal, launched on 3 November 2026, has text-to-speech, keyboard navigation and screen-reader support for persons with disabilities.",
       "as_at": "2026-11-26"
     }
   ]

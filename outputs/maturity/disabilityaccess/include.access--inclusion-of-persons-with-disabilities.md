@@ -23,9 +23,9 @@ The AU Disability Protocol asks for public information in accessible formats and
 | 5 Mature | 2 |
 | 4 Operating | 10 |
 | 3 Established | 5 |
-| 2 Nascent | 16 |
+| 2 Nascent | 17 |
 | 1 Absent | 4 |
-| Unplaced | 6 |
+| Unplaced | 5 |
 | No evidence | 11 |
 
 ## Countries
@@ -159,6 +159,12 @@ Work to make information and digital services accessible to persons with disabil
 
 - Cameroon's PATNUC project unit at MINPOSTEL, financed by IDA credit 69870-CM, sought a consultant to update the 2020 digital plan with accessibility and gender-equality considerations ([source, 2024-02-29](https://armp.cm/details?id_publication=787&type_publication=DP)).
 
+### Cape Verde: 2 Nascent
+
+A labour inspection portal launched in November 2026 supports screen readers, an accessible service in use; no accessibility rule or programme has been found.
+
+- The ILO reports that the Inspectorate's new portal, launched 3 November 2026, includes text-to-speech, keyboard navigation, screen-reader compatibility and improved colour contrast for persons with disabilities ([source, 2026-11-03](https://www.ilo.org/resource/article/ilo-supports-digital-transformation-cabo-verde%E2%80%99s-general-labour)).
+
 ### Djibouti: 2 Nascent
 
 The national disability agency was building a sign language app and accessible ID apps in 2024; no rule in force has been found.
@@ -278,12 +284,6 @@ Not established: Nothing found since October 2023 says whether information or di
 Nothing found since 2023 names digital accessibility for persons with disabilities, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
-
-### Cape Verde: Unplaced
-
-A labour portal launched in November 2026 supports screen readers; no accessibility rule or programme has been found, so no stage is set.
-
-Not established: No source found says a law, policy, standard or programme on digital accessibility for persons with disabilities is in force, drafted or being prepared. The labour inspectorate's portal of November 2026 carries screen-reader and other features for persons with disabilities (CPV-002).
 
 ### Ethiopia: Unplaced
 
