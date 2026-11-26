@@ -3,9 +3,9 @@ title: Botswana — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: BWA
-ledger_rows: 26
+ledger_rows: 27
 not_held: 5
-record: e8ac864a1344
+record: b4af8e0c4b6d
 ---
 
 # News, Oct – Nov 2026
@@ -313,6 +313,20 @@ Botswana's President Duma Boko delivered the State of the Nation Address to Parl
 **[RMB cross-border transactions system launched in Botswana](https://www.thestar.com.my/news/world/2026/11/18/rmb-cross-border-transactions-system-launched-in-botswana)** — The Star (Xinhua), 18 November 2026
 
 Stanbic Bank Botswana launched direct access to China's Cross-Border Interbank Payment System on 17 November 2026. It is the first bank in Botswana to do so. Renminbi payments settle through Standard Bank South Africa's participation, cutting the number of intermediary banks.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PayPal withdrawals to Mukuru Wallet</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mukuru Partners PayPal to Enable Direct Withdrawals to Wallets in Botswana](https://techafricanews.com/2026/11/26/mukuru-partners-paypal-direct-withdrawals-wallets-botswana/)** — Tech Africa News, 26 November 2026
+
+Mukuru and PayPal said on 26 November 2026 that eligible customers in Botswana can now move PayPal balances into a Mukuru Wallet. The service is aimed at freelancers and others paid from abroad. The wallet can be linked to a Mukuru Card. The 2024 FinScope survey cited found 94% of adults use financial products, and about four in ten have no bank account.
 
 </div>
 
