@@ -23,6 +23,8 @@ only; nothing of OSINT's beyond the mirror freshness lint already reads.
                    The cycle's step 1b sends them.
 - **prose**        narrative blocks failing the prose sheet on the newest night of `logs/prose.csv`,
                    every unit but the wiki (`lint-prose.py`, R133). The unit-review rotation clears them.
+- **paragraphs**   maturity cells with evidence and no fresh paragraph (`maturity-paragraph.py count`,
+                   R162): stale plus missing. Stage 4c and the rebuild clear them.
 - **commits**      uncommitted paths, Corpus plus share. A job commits what it changed. The share's
                    `new-queue/` is left out: Bill's ad-hoc items sit there uncommitted until OSINT
                    moves them at the night's start, and `new-queue` already counts them.
@@ -203,6 +205,13 @@ def dead_links() -> int:
     return int(m.group(1)) if m else 0
 
 
+def paragraphs() -> int:
+    """`maturity-paragraph.py count`'s stale plus missing; 0 if the script fails."""
+    _, out = py("maturity-paragraph.py", "count")
+    m = re.search(r"(\d+) stale, (\d+) missing", out)
+    return int(m.group(1)) + int(m.group(2)) if m else 0
+
+
 def tally() -> str:
     counts = [
         ("messages", messages()),
@@ -218,6 +227,7 @@ def tally() -> str:
         ("held-facts", held_facts()),
         ("dead-links", dead_links()),
         ("prose", prose()),
+        ("paragraphs", paragraphs()),
         ("commits", git_count(ROOT, "status", "--porcelain") + git_count(SHARE, "status", "--porcelain", "--", ".", ":!new-queue")),
         ("unpushed", git_count(ROOT, "log", "--oneline", "@{u}..") + git_count(SHARE, "log", "--oneline", "@{u}..")),
     ]

@@ -95,6 +95,8 @@ FIELDS = ["date", "unit", "blocks", "failing", "words", "sentences", "mean", "lo
 
 SHEET_FROM = "2026-10-28"   # the first bulletin written with BULLETIN.md's check (R138)
 MEAN_UNDER, LONGEST, CONTRAST_PER = 20, 40, 1000
+# The maturity paragraph's length, 60 to 130 words (R153; Bill raised 110 to 130 on 2026-11-26).
+from maturity_words import PARAGRAPH_WORDS as BAND  # noqa: E402
 
 LINK = re.compile(r"\[([^\]]*)\]\((?:<[^>]*>|(?:[^()\s]|\([^()]*\))*)\)")
 WIKILINK = re.compile(r"\[\[([^\[\]|]+?)(?:\|([^\[\]]*))?\]\]")
@@ -212,6 +214,8 @@ def check(paragraphs: list[str], kind: str) -> dict:
         fails.append("words")
     if mood_hits:
         fails.append("mood")
+    if kind == "paragraph" and not BAND[0] <= words <= BAND[1]:
+        fails.append("band")
     return {"words": words, "sentences": len(lens), "longest": max(lens, default=0),
             "contrast": contrast, "first": firsts, "word_hits": word_hits,
             "mood_hits": mood_hits, "fails": fails}
@@ -290,7 +294,8 @@ def status_blocks(text: str) -> dict[str, list[str]]:
 
 
 def maturity_blocks(text: str, prefix: str) -> dict[str, list[str]]:
-    """{indicator/heading/label#n: [paragraph]} with each paragraph's bold label stripped."""
+    """{indicator/heading: [paragraph, ...]}, each paragraph's bold label stripped. R162 keyed the
+    block by indicator and heading: the labels are the evidence fold's apparatus, not the block."""
     blocks, heading = {}, ""
     for p_lines in re.split(r"\n\s*\n", "\n".join(body(text))):
         p = p_lines.strip()
@@ -301,15 +306,20 @@ def maturity_blocks(text: str, prefix: str) -> dict[str, list[str]]:
             continue
         for para in paragraphs(p.splitlines()):
             m = LABEL.match(para)
-            label = re.sub(r"[*.]", "", m.group(0)).strip() if m else ""
             prose = para[m.end():] if m else para
-            if not re.search(r"\w", prose):
-                continue
-            key, n = f"{prefix}/{heading}/{label}", 1
-            while f"{key}#{n}" in blocks:
-                n += 1
-            blocks[f"{key}#{n}"] = [prose]
+            if re.search(r"\w", prose):
+                blocks.setdefault(f"{prefix}/{heading}", []).append(prose)
     return blocks
+
+
+def paragraph_blocks(text: str, prefix: str) -> dict[str, list[str]]:
+    """{indicator/ISO3: [paragraph]} from a study's `paragraphs.csv` (R162): the maturity paragraph,
+    one an indicator and country, which leads the country report."""
+    out = {}
+    for r in csv.DictReader(io.StringIO(text)):
+        if r.get("paragraph", "").strip():
+            out[f"{prefix}/{r['indicator_id']}/{r['iso3']}"] = [r["paragraph"].strip()]
+    return out
 
 
 def wiki_blocks(text: str, prefix: str) -> dict[str, list[str]]:
@@ -356,6 +366,13 @@ def sources(unit: str | None = None, wiki: bool = True):
         u, ind = os.path.basename(path)[:-3], os.path.basename(os.path.dirname(path))
         if re.fullmatch(r"[A-Z]{3}", u) and unit in (None, u):
             yield u, "maturity", path, (lambda t, ind=ind: maturity_blocks(t, ind))
+    for path in sorted(glob.glob(os.path.join(MATURITY, "*", "paragraphs.csv"))):
+        ind = os.path.basename(os.path.dirname(path))
+        if unit is None:
+            yield "paragraph", "paragraph", path, (lambda t, ind=ind: paragraph_blocks(t, ind))
+        else:
+            yield unit, "paragraph", path, (lambda t, ind=ind, u=unit: {
+                k: v for k, v in paragraph_blocks(t, ind).items() if k.endswith("/" + u)})
     if unit in (None, "bulletin") and os.path.exists(SUMMARIES):
         yield "bulletin", "bulletin", SUMMARIES, bulletin_blocks
     if wiki and unit in (None, "wiki") and os.path.isdir(WIKI):

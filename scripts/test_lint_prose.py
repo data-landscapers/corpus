@@ -105,9 +105,16 @@ check("the emitted absence block is left out",
                      "<!-- /absences -->"]), [LINKED])
 mat = "# Kenya\n\n## Tax\n\n**Online filing.** It files online. It pays online.\n\n***Not held***. None.\n"
 mb = lp.maturity_blocks(mat, "taxadmin")
-check("maturity keyed by heading and label", sorted(mb),
-      ["taxadmin/Tax/Not held#1", "taxadmin/Tax/Online filing#1"])
-check("the label is stripped", mb["taxadmin/Tax/Online filing#1"], ["It files online. It pays online."])
+check("maturity keyed by indicator and heading, not label (R162)", sorted(mb), ["taxadmin/Tax"])
+check("the labels are stripped", mb["taxadmin/Tax"], ["It files online. It pays online.", "None."])
+para = ("iso3,indicator_id,stage,digest,written,paragraph\n"
+        "KEN,tax.filing,3,abc,2026-11-26,\"" + " ".join(["Word."] * 59) + "\"\n"
+        "UGA,tax.filing,3,abc,2026-11-26,\n")
+pb = lp.paragraph_blocks(para, "taxadmin")
+check("a paragraph is keyed by indicator and country; an empty one is no block", sorted(pb),
+      ["taxadmin/tax.filing/KEN"])
+check("a paragraph under 60 words fails the band", "band" in lp.check(pb["taxadmin/tax.filing/KEN"], "paragraph")["fails"], True)
+check("a maturity block takes no band", "band" in lp.check(pb["taxadmin/tax.filing/KEN"], "maturity")["fails"], False)
 check("a citation-only list item is not prose",
       lp.paragraphs(["- [[2026-05-22 Some title]]", "- A sentence of prose here."]),
       ["A sentence of prose here."])

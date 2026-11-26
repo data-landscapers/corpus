@@ -247,6 +247,11 @@ def sidebar_md(body: str) -> str:
     return "\n\n".join(keep)
 
 
+# {(indicator_id, ISO3): paragraph markdown}, filled by `build_data` for the country reports. Kept
+# out of `maturity.json`, whose sidebar summary already carries it.
+PARAGRAPHS: dict[tuple[str, str], str] = {}
+
+
 def build_data(studies, indicators, countries) -> dict:
     """`downloads` is filled by `main()` at launch: `{indicator_id: file, "all": file}`."""
     by_id = {s["id"]: s for s in studies}
@@ -285,13 +290,18 @@ def build_data(studies, indicators, countries) -> dict:
             inds[iid] = dict(label=indicator_name(s, sub), short_label=sub["label"], topic=topic, study=s["id"],
                              ladder=lines, norm=md(sub.get("norm_short", "")))
             cells[iid], changes[iid] = {}, recent_moves(s["history"], iid, date.today())
-        bodies = {}
+        bodies, paras = {}, maturity_words.read_paragraphs(s["issued"])
         for r in s["rows"]:
             iid, iso = r["indicator_id"], r["iso3"]
             if iid not in cells:
                 continue
             if iso not in bodies:
                 bodies[iso] = country_sections(s["issued"], iso, labels)
+            # R162: the paragraph, where one stands for this stage, leads the sidebar and the report;
+            # the labelled evidence goes behind the report's fold and leaves the sidebar.
+            para = maturity_words.shown_paragraph(paras.get((iso, iid)), r["stage"].strip(),
+                                                  bodies[iso].get(iid, ""))
+            PARAGRAPHS[(iid, iso)] = para
             n, state = stage_of(r["stage"])
             cells[iid][iso] = dict(
                 # R136: an issued assessment.csv keeps the words it was cut with until its study
@@ -299,7 +309,7 @@ def build_data(studies, indicators, countries) -> dict:
                 stage=n, state=state, short=maturity_words.rewrite(r["short"].strip()),
                 assessed=day(r["as_at"]),
                 **dict(zip(("moved", "reassessed"), last_change(s["history"], iid, iso))),
-                summary=external_links(md(sidebar_md(bodies[iso].get(iid, "")))))
+                summary=external_links(md(para or sidebar_md(bodies[iso].get(iid, "")))))
     # The sidebar's second button opens the country's status report at the indicator's topic
     # (Bill, 2026-10-21). The anchor is the heading's id as `render.py`'s `toc` extension mints
     # it, and it is offered only where that report holds the topic: a status report prints only
@@ -604,6 +614,20 @@ def toc(label: str, items: list[tuple[str, str | None]], cls: str = "article-toc
                 for t, a in items) + "\n    </nav>")
 
 
+def lead(iid: str, iso3: str, cell: dict | None, bodies: dict[str, str]) -> str:
+    """R162: the paragraph under the stage, and the labelled evidence in a closed fold. A cell with
+    no paragraph for its stage keeps its short line, with the same fold."""
+    para = PARAGRAPHS.get((iid, iso3), "")
+    head = (f'      <div class="mat-report__para">\n{md(para)}\n      </div>' if para else
+            f'      <p class="mat-report__short">{html.escape((cell or {}).get("short", ""))}</p>')
+    body = bodies.get(iid)
+    if not body:
+        nothing = md(f"*{maturity_words.NOTHING_YET}*")
+        return head + f'\n      <div class="mat-report__long">\n{nothing}\n      </div>'
+    return (head + f'\n      <details class="mat-report__evidence"><summary>{maturity_words.EVIDENCE_FOLD}</summary>'
+            f'\n      <div class="mat-report__long">\n{md(body)}\n      </div>\n      </details>')
+
+
 def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> str:
     """Chapter, then topic, then indicator *(Bill, 2026-10-09)*: the page opens on a bar of every
     chapter and each chapter opens on a bar of its topics. Only what is studied has a section; what is not is
@@ -638,10 +662,7 @@ def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> st
         <span><b>Stage last moved</b> {html.escape(moved)}</span>
         <a href="../../../methodology/maturity/#{iid}">Methodology</a> ·
         <a href="../../#{iid}|{iso3}">On the map</a></p>
-      <p class="mat-report__short">{html.escape((cell or {}).get("short", ""))}</p>
-      <div class="mat-report__long">
-{md(bodies.get(iid, f"*{maturity_words.NOTHING_YET}*"))}
-      </div>
+{lead(iid, iso3, cell, bodies)}
     </section>''')
     # **Headed as the place's other reports are** *(Bill, 2026-10-17)*: the family bar, the title
     # with its actions and the sections bar, pinned under the site chrome by `report-head.js`. The

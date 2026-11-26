@@ -14,7 +14,7 @@ last_reviewed: 2026-11-15
 
 `study-update.py` → `HELD` is the switch, off since 2026-10-17 *(Bill)*.
 
-`scripts/study-update.py` is the mechanical half and its docstring holds the files and the rebuild's rules; do not re-derive them. A country is worked under the three briefs in `maturity/documentation/`: `drafter-brief.md` for a fact, `stager-brief.md` for a stage, `writer-brief.md` for the summaries, and the share's `documentation/prose-style.md` last.
+`scripts/study-update.py` is the mechanical half and its docstring holds the files and the rebuild's rules; do not re-derive them. A country is worked under the three briefs in `maturity/documentation/`: `drafter-brief.md` for a fact, `stager-brief.md` for a stage, `writer-brief.md` for the summaries, `paragraph-brief.md` for its lead, and the share's `documentation/prose-style.md` last.
 
 **The facts are in news, not in large documents** *(Bill, 2026-10-17)*: instruments, stories older than the three-year window and a country's stories past 20 are closed unread.
 
@@ -61,18 +61,20 @@ Start one Sonnet drafter per call file, then `study-arrivals.py fan`: an arrival
    python scripts/study-assess.py {id} --as-at {the study's as-at}   # a logged cell keeps its own
    python scripts/study-render.py {id}
    python scripts/lint-study.py {id}
+   python scripts/maturity-paragraph.py packet --study {id} --out {dir}
+   python scripts/maturity-paragraph.py apply {dir}/{id}.out.json
    python scripts/lint-prose.py --gate        # a paragraph this run revised, held to the sheet
    ```
+
+   Between them, one Sonnet writer a packet, under `paragraph-brief.md` *(R162)*.
 
    A lint failure is repaired before the commit; a cell that cannot be repaired is restored from git and its arrival left open.
 10. **Commit** `maturity/{id}/evidence/`, `outputs/maturity/{id}/` and nothing else; RENDER builds the pages. The log line carries the counts: arrivals, facts, reassessments, stages moved.
 
 ## The rebuild — two indicators a night
 
-**Two indicators a night are rebuilt whole** *(Bill, 2026-11-13)*: 54 cells reassessed against one ladder, then all 54 countries searched afresh. `logs/maturity-review.csv` is the control list: one row an indicator, its last rebuild, and what that rebuild cost.
+**Two indicators a night are rebuilt whole** *(Bill, 2026-11-13)*: 54 cells reassessed, then searched afresh. `logs/maturity-review.csv` is the control list: one row an indicator, its last rebuild, and what that rebuild cost.
 **The rebuild is the deep dive** *(Bill, 2026-10-16)*: most indicators were first studied in batches that skip the second drafter and stage hard cells low (`maturity/documentation/first-pass-batch.md`, `study.json` → `"pass": "first"`). For those the rebuild adds the second-drafter check of method §7.3 and a fresh reading of every cell whose `note` opens *First pass:*.
-
-**Stage 4c never looks back**; the rebuild does.
 
 ```bash
 python scripts/study-update.py next --poll    # polled
@@ -110,7 +112,7 @@ python scripts/study-update.py next           # any other cycle
     python scripts/log-line.py rebuild "{id} {key}: <n> cells reassessed, <n> moved; <n> searched, <n> staged; <M>M tokens — ok"
     ```
 
-    Minutes from the stamp, tokens as `--total` now less `--total` before. Commit `maturity/{id}/`, `outputs/maturity/{id}/` and `logs/maturity-review.csv`, explicit paths, and push.
+    Commit `maturity/{id}/`, `outputs/maturity/{id}/` and `logs/maturity-review.csv`, explicit paths, and push.
 
 **A rebuild that cannot finish** restores its files to `HEAD`, is not stamped, logs `errored` and never holds the render.
 

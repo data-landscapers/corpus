@@ -69,6 +69,70 @@ def rewrite(text: str) -> str:
         lambda m: "No source found reports " + _lower_first(m.group(1).rstrip(",")), text)
 
 
+# ---------------------------------------------------------------------------
+# The paragraph (strategic review 8, R153 and R162)
+# ---------------------------------------------------------------------------
+# *(Bill, 2026-11-26.)* One paragraph an indicator, under its stage: what exists, what changed in
+# the last twelve months, what has not been found said as what the next stage would need. 60 to
+# 130 words (R153 ruled 110; Bill raised the cap to 130 when R162 ran). The labelled evidence of
+# `{ISO3}.md` stays as written and renders in a closed fold under it.
+#
+# The paragraphs live in `outputs/maturity/{id}/paragraphs.csv`, not in `{ISO3}.md`, so the
+# writers that rebuild a cell's evidence cannot drop them. A row records the stage and a digest
+# of the section it was written from. **A paragraph is shown only while its stage still holds**;
+# when the section moves under it, it is stale and is rewritten by the next 4c or rebuild night
+# (`scripts/maturity-paragraph.py`), and shown until then. The brief is
+# `maturity/documentation/paragraph-brief.md`.
+
+PARAGRAPH_FILE = "paragraphs.csv"
+PARAGRAPH_FIELDS = ["iso3", "indicator_id", "stage", "digest", "written", "paragraph"]
+PARAGRAPH_WORDS = (60, 130)
+EVIDENCE_FOLD = "Show the evidence"
+STAGE_NAMES = {1: "Absent", 2: "Preparing", 3: "Establishing", 4: "Operating", 5: "Mature"}
+
+
+def digest(section: str) -> str:
+    """A section's fingerprint, blind to line endings and trailing space."""
+    import hashlib
+    norm = "\n".join(ln.rstrip() for ln in section.replace("\r\n", "\n").strip().splitlines())
+    return hashlib.sha1(norm.encode("utf-8")).hexdigest()[:12]
+
+
+def read_paragraphs(issued) -> dict:
+    """{(iso3, indicator_id): row} from a study's `paragraphs.csv`; empty when there is none."""
+    import csv
+    import os
+    path = os.path.join(str(issued), PARAGRAPH_FILE)
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding="utf-8", newline="") as fh:
+        return {(r["iso3"], r["indicator_id"]): r for r in csv.DictReader(fh)}
+
+
+def write_paragraphs(issued, rows: dict) -> None:
+    import csv
+    import os
+    path = os.path.join(str(issued), PARAGRAPH_FILE)
+    with open(path, "w", encoding="utf-8", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=PARAGRAPH_FIELDS, lineterminator="\n")
+        w.writeheader()
+        for key in sorted(rows):
+            w.writerow({k: rows[key].get(k, "") for k in PARAGRAPH_FIELDS})
+
+
+def paragraph_state(row: dict | None, stage: str, section: str) -> str:
+    """`fresh`, `stale` (section moved, stage holds: still shown) or `missing` (none, or the stage
+    moved under it: not shown)."""
+    if not row or row.get("stage") != stage or not row.get("paragraph", "").strip():
+        return "missing"
+    return "fresh" if row.get("digest") == digest(section) else "stale"
+
+
+def shown_paragraph(row: dict | None, stage: str, section: str) -> str:
+    """The paragraph to print, or '' when there is none whose stage still holds."""
+    return row["paragraph"].strip() if paragraph_state(row, stage, section) != "missing" else ""
+
+
 def main(paths: list[str]) -> int:
     changed = 0
     for p in paths:

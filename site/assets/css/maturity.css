@@ -332,6 +332,11 @@
 .mat-report__meta { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem 1rem; font-size: .82rem; color: var(--ink-light); }
 .mat-report__meta b { color: var(--ink); font-weight: 600; }
 .mat-report__short { font-weight: 600; }
+/* R162: the paragraph under the stage, and the labelled evidence folded beneath it. */
+.mat-report__evidence { margin: .4rem 0 1rem; }
+.mat-report__evidence > summary { cursor: pointer; font-size: .85rem; color: var(--accent); }
+.mat-report__evidence[open] > summary { margin-bottom: .4rem; }
+.mat-report__evidence .mat-report__long { font-size: .92rem; }
 
 /* ---------- the methodology page ---------- */
 
