@@ -25,6 +25,8 @@ only; nothing of OSINT's beyond the mirror freshness lint already reads.
                    every unit but the wiki (`lint-prose.py`, R133). The unit-review rotation clears them.
 - **paragraphs**   maturity cells with evidence and no fresh paragraph (`maturity-paragraph.py count`,
                    R162): stale plus missing. Stage 4c and the rebuild clear them.
+- **agreement**    studies with a ladder under 70 % second-drafter agreement in
+                   `logs/maturity-review.csv` (R185). The nightly rebuild rewrites them.
 - **commits**      uncommitted paths, Corpus plus share. A job commits what it changed. The share's
                    `new-queue/` is left out: Bill's ad-hoc items sit there uncommitted until OSINT
                    moves them at the night's start, and `new-queue` already counts them.
@@ -212,6 +214,12 @@ def paragraphs() -> int:
     return int(m.group(1)) + int(m.group(2)) if m else 0
 
 
+def low_agreement() -> int:
+    """Studies with any indicator under 70 % in `maturity-review.csv`'s `agreement` column."""
+    rows = csv.DictReader(io.StringIO(read(os.path.join(ROOT, "logs", "maturity-review.csv"))))
+    return len({r["study"] for r in rows if (r.get("agreement") or "").isdigit() and int(r["agreement"]) < 70})
+
+
 def tally() -> str:
     counts = [
         ("messages", messages()),
@@ -228,6 +236,7 @@ def tally() -> str:
         ("dead-links", dead_links()),
         ("prose", prose()),
         ("paragraphs", paragraphs()),
+        ("agreement", low_agreement()),
         ("commits", git_count(ROOT, "status", "--porcelain") + git_count(SHARE, "status", "--porcelain", "--", ".", ":!new-queue")),
         ("unpushed", git_count(ROOT, "log", "--oneline", "@{u}..") + git_count(SHARE, "log", "--oneline", "@{u}..")),
     ]

@@ -60,8 +60,11 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import study_lib  # noqa: E402
 
 ROTATION = os.path.join(study_lib.CORPUS, "logs", "maturity-review.csv")
-ROTATION_FIELDS = ["study", "key", "indicator_id", "last_reviewed", "minutes", "tokens", "staged"]
-COST_FIELDS = ROTATION_FIELDS[4:]
+ROTATION_FIELDS = ["study", "key", "indicator_id", "last_reviewed", "minutes", "tokens", "staged",
+                   "agreement", "rulings"]
+COST_FIELDS = ["minutes", "tokens", "staged"]
+AGREE_FLOOR = 70           # per cent: a ladder read two ways this often is rewritten (R185)
+RULINGS_CAP = 3            # rulings since the ladder was last rewritten (R185)
 HISTORY_FIELDS = ["date", "iso3", "indicator_id", "kind", "from", "to", "sources", "note"]
 KINDS = ("fact", "review", "ladder", "ruling")
 OUTCOMES = ("nothing", "fact", "reassessed",
@@ -121,8 +124,53 @@ def search_due(root: str | None = None, today: dt.date | None = None) -> list[st
     return out
 
 
+def _drawn(path: str) -> str:
+    """The day `agreement.csv` was drawn: its last commit, else its file date."""
+    import subprocess
+    try:
+        out = subprocess.run(["git", "log", "-1", "--format=%cs", "--", os.path.basename(path)],
+                             cwd=os.path.dirname(path), capture_output=True, text=True, timeout=30).stdout.strip()
+    except (OSError, subprocess.SubprocessError):
+        out = ""
+    return out or dt.date.fromtimestamp(os.path.getmtime(path)).isoformat()
+
+
+def agreement(sid: str, root: str | None = None) -> tuple[dict, str]:
+    """Second-drafter agreement by indicator, in whole per cent, and the day it was drawn.
+
+    The second drafter's stage in `maturity/{id}/agreement.csv` against the stage filed now in
+    `assessment.csv`, over the cells the second drafter staged. Empty where nothing was drawn."""
+    path = os.path.join(study_lib.study_dir(sid, root), "agreement.csv")
+    rows = [r for r in study_lib.read_csv(path) if r.get("second_stage", "").strip()]
+    if not rows:
+        return {}, ""
+    filed = {(r["iso3"], r["indicator_id"]): r["stage"]
+             for r in study_lib.read_csv(os.path.join(study_lib.out_dir(sid, root), "assessment.csv"))}
+    n, agree = {}, {}
+    for r in rows:
+        c = r["indicator_id"]
+        n[c] = n.get(c, 0) + 1
+        agree[c] = agree.get(c, 0) + (filed.get((r["iso3"], c)) == r["second_stage"].strip())
+    return {c: str(round(100 * agree[c] / n[c])) for c in n}, _drawn(path)
+
+
+def rulings(sid: str, since: str, root: str | None = None) -> dict:
+    """Rulings applied to each indicator since its ladder was last rewritten."""
+    out = {}
+    for r in study_lib.read_csv(history_path(sid, root)):
+        if r.get("kind") == "ruling" and r.get("date", "") > since:
+            out[r["indicator_id"]] = out.get(r["indicator_id"], 0) + 1
+    return out
+
+
 def rotation(root: str | None = None, path: str | None = None) -> list[dict]:
-    """The rotation reconciled against the studies issued: a new indicator joins unreviewed."""
+    """The rotation reconciled against the studies issued: a new indicator joins unreviewed.
+
+    `agreement` and `rulings` are recomputed on every read (R185). **A ladder under
+    `AGREE_FLOOR`, or one that has drawn `RULINGS_CAP` rulings, is rewritten at its next
+    rebuild, not ruled on again**: `rewrite` is set, and `next` names it after a rewritten
+    ladder and before the rest, whatever the gap. A rewrite stamps `ladder_rewritten`, which
+    clears it: agreement drawn before the rewrite no longer counts, and rulings count from it."""
     path = path or ROTATION
     held = {(r["study"], r["key"]): r for r in study_lib.read_csv(path)}
     for r in held.values():
@@ -131,18 +179,26 @@ def rotation(root: str | None = None, path: str | None = None) -> list[dict]:
     out = []
     for s in studies(root):
         study = study_lib.load(s, root)
+        rewritten = study.get("ladder_rewritten", "")
+        agree, drawn = agreement(s, root)
+        ruled = rulings(s, rewritten, root)
         for sub in study["sub_indicators"]:
             r = {"study": s, "key": sub["key"], "indicator_id": sub["indicator_id"],
-                 **{f: held.get((s, sub["key"]), {}).get(f, "") for f in ["last_reviewed", *COST_FIELDS]}}
+                 **{f: held.get((s, sub["key"]), {}).get(f, "") for f in ["last_reviewed", *COST_FIELDS]},
+                 "agreement": agree.get(sub["indicator_id"], ""),
+                 "rulings": str(ruled.get(sub["indicator_id"], 0))}
             # A ladder rewritten since the last rebuild is owed first and inside the gap (Bill, 2026-11-07).
-            r["ladder"] = study.get("ladder_rewritten", "") > r["last_reviewed"]
+            r["ladder"] = rewritten > r["last_reviewed"]
+            low = r["agreement"] != "" and int(r["agreement"]) < AGREE_FLOOR and drawn > rewritten
+            r["rewrite"] = low or int(r["rulings"]) >= RULINGS_CAP
             out.append(r)
     return out
 
 
 def overdue(rows: list[dict]) -> list[dict]:
-    return sorted(rows, key=lambda r: (not r.get("ladder"), r["last_reviewed"] != "", r["last_reviewed"],
-                                       r["study"], r["key"]))
+    return sorted(rows, key=lambda r: (not r.get("ladder"), not r.get("rewrite"),
+                                       int(r.get("agreement") or 100) if r.get("rewrite") else 0,
+                                       r["last_reviewed"] != "", r["last_reviewed"], r["study"], r["key"]))
 
 
 def log(sid: str, iso: str, key: str, kind: str, note: str, root: str | None = None,
@@ -248,14 +304,17 @@ def main(argv=None, now: dt.datetime | None = None, root: str | None = None,
         if not rows:
             print("not owed: no study has an issued assessment")
             return 1
-        owed = [r for r in overdue(rows) if r["ladder"] or not r["last_reviewed"] or
+        owed = [r for r in overdue(rows) if r["ladder"] or r.get("rewrite") or not r["last_reviewed"] or
                 (now.date() - dt.date.fromisoformat(r["last_reviewed"])).days >= MIN_GAP_DAYS][:PER_NIGHT]
         if not owed:
             print(f"not owed: every indicator was rebuilt inside {MIN_GAP_DAYS} days")
             return 1
         for r in owed:
             print(f"{r['study']}\t{r['key']}\t{r['indicator_id']}\t"
-                  f"last rebuilt {r['last_reviewed'] or 'never'}")
+                  f"last rebuilt {r['last_reviewed'] or 'never'}"
+                  + (f"\trewrite the ladder: agreement {r['agreement'] or '-'}%, {r['rulings']} rulings; "
+                     "stamp ladder_rewritten and redraw agreement (study-profile.py --draw)"
+                     if r.get("rewrite") else ""))
         for line in search_due(root, now.date()):
             print(line)
         return 0

@@ -73,8 +73,8 @@ Start one Sonnet drafter per call file, then `study-arrivals.py fan`: an arrival
 
 ## The rebuild — two indicators a night
 
-**Two indicators a night are rebuilt whole** *(Bill, 2026-11-13)*: 54 cells reassessed, then searched afresh. `logs/maturity-review.csv` is the control list: one row an indicator, its last rebuild, and what that rebuild cost.
-**The rebuild is the deep dive** *(Bill, 2026-10-16)*: most indicators were first studied in batches that skip the second drafter and stage hard cells low (`maturity/documentation/first-pass-batch.md`, `study.json` → `"pass": "first"`). For those the rebuild adds the second-drafter check of method §7.3 and a fresh reading of every cell whose `note` opens *First pass:*.
+**Two indicators a night are rebuilt whole** *(Bill, 2026-11-13)*: 54 cells reassessed, then searched. `logs/maturity-review.csv` is the control list: one row an indicator: last rebuild, its cost, agreement and rulings.
+**The rebuild is the deep dive** *(Bill, 2026-10-16)*: most indicators were first studied in batches that skip the second drafter and stage hard cells low (`maturity/documentation/first-pass-batch.md`, `study.json` → `"pass": "first"`). For those the rebuild adds method §7.3's second drafter and rereads every cell whose `note` opens *First pass:*.
 
 ```bash
 python scripts/study-update.py next --poll    # polled
@@ -88,20 +88,20 @@ python scripts/study-update.py next           # any other cycle
 ### Reassess
 
 0. **Adopt any `redesign.md` first** *(Bill, 2026-11-07)*: every cell `--kind ladder`.
-1. **Read the indicator whole**: the study file's ladder and its rules, then every country's rows for this sub-indicator in `evidence.csv`, its cell in `stage.json` and its row of `assessment.csv`. Read the 54 cells as a table, by stage, before judging one.
+1. **Read the indicator whole**: the study file's ladder and its rules, then every country's rows for this sub-indicator in `evidence.csv`, its cell in `stage.json` and its row of `assessment.csv`. Read the 54 cells as a table before judging one.
 2. **Ask of each cell whether the ladder, applied as to its neighbours, still puts it there**: the same evidence staged two ways in two countries, `stage_sources` that no longer support the rung, a cap or flag whose 36 or 12 months have run out.
 3. **Age does not expire a stage, and it can lower one** *(Bill)*. A cell is not moved because a window has closed. But where the only evidence for a rung is old enough that it no longer shows the country is there now, the reassessment may lower the stage, as a judgement, and says so in the note. The short summary of any cell resting on a fact older than three years prints its year.
 4. **Restage what fails** under the stager brief, and **log every cell reassessed, moved or not**, with `--kind review`. A cell read and left alone is not logged; the indicator's `done` covers it.
 5. **Rewrite what the restaging made untrue**: the short summary, and the country's paragraphs. Each cell reassessed is brought to the sheet whole, as stage 4c step 4.
-6. **A rung read two ways is not rewritten here.** That is a change to the ladder and Bill's: write it as a block in `bill-notes.md` with the two readings and the countries each would move, and stage on the wording meanwhile. Any restage applying his answer to a message is logged `--kind ruling`.
+6. **A rung read two ways is not rewritten here.** That is a change to the ladder and Bill's: write it as a block in `bill-notes.md` with the two readings and the countries each would move, and stage on the wording meanwhile. Any restage applying his answer to a message is logged `--kind ruling`. **Unless `next` says *rewrite the ladder*** *(R185)*: rewrite the rung that split the readings, restage every cell `--kind ladder`, stamp `ladder_rewritten`, then `study-profile.py --draw 20`, a fresh sub-agent stages the draw, and `--score`.
 7. **Fold and check**: step 9 of stage 4c.
 
 ### Search
 
 *(Bill, 2026-10-11.)* **What is found reaches Corpus only through ingest**: OSINT pulls it in its next sweep cycle and stage 4c reads it the night after.
 
-8. **Search every country on every question of the ladder, whatever is held** *(Bill, 2026-10-19)*, under the method's §5: one Sonnet searcher a country to `searcher-brief.md`, the brief naming tonight's sub-indicator, then `scripts/study-stage.py` to fetch and stage. If `maturity/{id}/search/` holds an earlier round, `git mv` it to `maturity/{id}/search-{that round's searched date}/` first, or `stage` hands the old selections over again. **A searcher is never waited on**: one out 20 minutes past its wave is stopped and staged as it stands.
-9. **Deliver without a note**: `python scripts/lint-staged-queue.py {folder}` passes, then `python scripts/study-stage.py {id} ready --rebuild --lint "<its line>"`. `osint-notes` 237 is the standing announcement; OSINT's cycle pulls the folder on `READY`. Delete any `prepared\maturity-study-*` folder `lint-prepared.py` calls spent, and commit and push the share. Nothing selected stages nothing.
+8. **Search every country on every question of the ladder, whatever is held** *(Bill, 2026-10-19)*, under the method's §5: one Sonnet searcher a country to `searcher-brief.md`, the brief naming tonight's sub-indicator, then `scripts/study-stage.py` to fetch and stage. An earlier `maturity/{id}/search/` is first `git mv`'d to `search-{its searched date}/`, or `stage` hands its selections over again. **A searcher 20 minutes past its wave is stopped** and staged as it stands.
+9. **Deliver without a note**: `python scripts/lint-staged-queue.py {folder}` passes, then `python scripts/study-stage.py {id} ready --rebuild --lint "<its line>"`. OSINT pulls it on `READY` (`osint-notes` 237). Delete any `prepared\maturity-study-*` folder `lint-prepared.py` calls spent, and commit and push the share. Nothing selected stages nothing.
 
 ### Close
 
@@ -118,7 +118,7 @@ python scripts/study-update.py next           # any other cycle
 
 ## What the site shows
 
-`outputs/maturity/{id}/history.csv` is the record and `scripts/maturity-site.py` reads it. A change logged `fact` is a **move**: *Stage last moved* and the changes box. A change logged `review` or `ladder` shows as *Reassessed {month}* and is not counted as movement. A `ruling` is never shown, nor anything before `CHANGES_FROM` *(Bill, 2026-11-15)*. A reassessment that left the stage alone moves only *Last assessed*. The build stops on a cell whose stage differs from its last logged one: an unlogged restaging.
+`outputs/maturity/{id}/history.csv` is the record and `scripts/maturity-site.py` reads it. A change logged `fact` is a **move**: *Stage last moved* and the changes box. A change logged `review` or `ladder` shows as *Reassessed {month}* and is not counted as movement. A `ruling` is never shown, nor anything before `CHANGES_FROM` *(Bill, 2026-11-15)*. The build stops on a cell whose stage differs from its last logged one: an unlogged restaging.
 
 ## Boundary
 
