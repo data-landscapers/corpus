@@ -1,6 +1,6 @@
 ---
 title: Côte d'Ivoire: finance
-compiled: 2026-11-25
+compiled: 2026-11-26
 place: CIV
 ---
 
@@ -14,7 +14,7 @@ place: CIV
 <tr><th scope="row">Sectoral management information systems</th><td class="num">170</td><td class="num">44</td><td class="num">2</td><td class="num">8</td><td class="num">32</td><td class="num">26</td><td class="num total">282</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">86</td><td class="num">51</td><td class="num">82</td><td class="num">58</td><td class="num total">277</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">4</td><td class="num">69</td><td class="num">107</td><td class="num total">180</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num">17</td><td class="num">20</td><td class="num">10</td><td class="num">6</td><td class="num">8</td><td class="num">11</td><td class="num total">72</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">17</td><td class="num">20</td><td class="num">10</td><td class="num">6</td><td class="num">8</td><td class="num">11</td><td class="num total">73</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">9</td><td class="num zero"></td><td class="num zero"></td><td class="num">15</td><td class="num">26</td><td class="num">21</td><td class="num total">71</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">10</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">9</td><td class="num">18</td><td class="num">18</td><td class="num total">55</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">15</td><td class="num">23</td><td class="num">14</td><td class="num total">53</td></tr>
@@ -34,10 +34,10 @@ place: CIV
 <tr><th scope="row">Regional collaboration</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">914</td><td class="num">68</td><td class="num">103</td><td class="num">171</td><td class="num">491</td><td class="num">359</td><td class="num total">2,106</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">914</td><td class="num">68</td><td class="num">103</td><td class="num">171</td><td class="num">491</td><td class="num">359</td><td class="num total">2,107</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/all-finance.html">Full table &mdash; 828 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/all-finance.html">Full table &mdash; 829 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CIV/CIV-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -86,7 +86,7 @@ place: CIV
 <tr><th scope="row">Sectoral management information systems</th><td class="num">170</td><td class="num">44</td><td class="num">2</td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num total">219</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">66</td><td class="num">104</td><td class="num total">170</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">86</td><td class="num">22</td><td class="num">47</td><td class="num zero"></td><td class="num total">155</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num">17</td><td class="num">20</td><td class="num">10</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">47</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">17</td><td class="num">20</td><td class="num">10</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">47</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">10</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">11</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">9</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">10</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num">3</td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">6</td></tr>
@@ -105,6 +105,6 @@ place: CIV
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/finance.html">Full table &mdash; 113 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/CIV/finance.html">Full table &mdash; 114 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/CIV/CIV-nonstate.csv" download>&darr; Download CSV</a>
 </div>
