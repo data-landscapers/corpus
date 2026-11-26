@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-25-giz-data-policy-builds-trust-interview",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Commissioner Ya Amie Touray says The Gambia validated its National Data Policy in 2025, giving a common framework for government and other bodies that handle data; validation is stated, not approval or launch by government.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Data Policy",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Policy",
+   "country_label": "The Gambia",
+   "class": "policy",
+   "platform": "",
+   "owner": "Government of The Gambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

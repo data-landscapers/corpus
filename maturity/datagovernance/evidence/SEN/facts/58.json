@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-sen-senegal-global-hub",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "UNESCO's readiness profile names a National Data Strategy among the recent policies the AI strategy builds on, and says there is not yet a national data sharing framework.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "National Data Strategy",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
