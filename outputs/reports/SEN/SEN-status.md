@@ -1,12 +1,12 @@
 ---
 title: Senegal: status report
-compiled: 2026-11-24
+compiled: 2026-11-26
 place: SEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 13
-sources_cited: 312
+sources_cited: 313
 sections_written: 39
 not_established: 2
 acquire_lines: 49
@@ -291,7 +291,7 @@ On 29 July 2026 the Council of Ministers recorded the Head of State directing go
 ### Innovation ecosystem
 <!-- tech.innovate -->
 
-[Decree 2025-270 of 13 February 2025 implements Senegal's startup law, replacing the 2021 decree](https://www.vie-publique.sn/docs/1c9a6fdf-2756-40e9-b6d2-97d309f9451f/JO-7814-du-15-mars-2025.pdf), five years after [Law No. 2020-01 of 6 January 2020 on the creation and promotion of startups](https://www.droit-afrique.com/uploads/Senegal-Loi-2020-01-creation-promotion-startup.pdf) was passed. The [labelling process it establishes was launched](https://lesoleil.sn/actualites/economie/un-an-apres-son-lancement-le-new-deal-technologique-commence-a-germer/) during the New Deal's first year.
+[Decree 2025-270 of 13 February 2025 implements Senegal's startup law, replacing the 2021 decree](https://www.vie-publique.sn/docs/1c9a6fdf-2756-40e9-b6d2-97d309f9451f/JO-7814-du-15-mars-2025.pdf), five years after [Law No. 2020-01 of 6 January 2020 on the creation and promotion of startups](https://www.droit-afrique.com/uploads/Senegal-Loi-2020-01-creation-promotion-startup.pdf) was passed. The [labelling process it establishes was launched](https://lesoleil.sn/actualites/economie/un-an-apres-son-lancement-le-new-deal-technologique-commence-a-germer/) during the New Deal's first year. [More than 400 startups had registered by 30 June 2026, but in November the digital ministry reported none labelled, the Startup Act's steering committee not yet installed](https://www.vie-publique.sn/docs/20af2016-38f3-422b-b9a2-c95a8bc51add/rapport-presentation-projet-budget-2027-mtn-senegal.pdf).
 
 [In March 2025 DER/FJ, the state's entrepreneurship-finance vehicle, signed a digital inclusion and innovation pact with Sonatel](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-partners-with-sonatel-to-boost-digital-entrepreneurship). Under it [the Bambey digital campus becomes an innovation hub](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-partners-with-sonatel-to-boost-digital-entrepreneurship), outside Dakar. Korean cooperation has funded [a start-up incubation centre and makerspace at ISEP Diamniadio](https://www.dakaractu.com/Developpement-du-numerique-la-KOICA-forme-et-recompense-les-startups-senegalaises_a256475.html). On 29 July 2026 the Council of Ministers [asked for a Fonds national de promotion de la recherche et de l'innovation and a Conseil national de la Recherche et de l'Innovation](https://primature.sn/publications/actualites/conseil-des-ministres-du-29-juillet-2026). No statute, budget or date has been set for either.
 
