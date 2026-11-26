@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: AGO
 ledger_rows: 34
 not_held: 6
-record: 98f6f528f147
+record: 15e267c35d6e
 ---
 
 # News, Oct – Nov 2026
@@ -593,6 +593,14 @@ Angola's higher education ministry lists 900 accredited university courses for 2
 **[Estado da Nação: Presidente destaca progressos nas telecomunicações e transformação digital](https://pti.ao/estado-da-nacao-presidente-destaca-progressos-nas-telecomunicacoes-e-transformacao-digital/)** — PTI Angola, 16 October 2026
 
 Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo prevê aumentar para 391 os pontos de acesso gratuito à Internet até 2027](https://pti.ao/governo-preve-aumentar-para-391-os-pontos-de-acesso-gratuito-a-internet-ate-2027/)** — Portal de T.I., 25 November 2026
+
+Angola's 2027 budget proposal would raise its Angola Online free internet points from 182 to 391, Portal de T.I. reported on 25 November 2026. The points sit under a Kz 45.7 billion line for the National Broadband Network project.
 
 </div>
 
