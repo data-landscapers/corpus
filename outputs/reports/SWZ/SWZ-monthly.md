@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Oct – Nov 2026
-compiled: 2026-11-20
-period: 2026-10-01 to 2026-11-20
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: SWZ
-ledger_rows: 41
+ledger_rows: 42
 not_held: 3
-record: 7acdaf195c41
+record: 70454c80397b
 ---
 
 # News, Oct – Nov 2026
@@ -719,6 +719,20 @@ UNDP, the University of Eswatini and the communications regulator ESCCOM present
 **[GOVT PLANS AI SERVICES AT YOUR FINGERTIPS](https://eswatinipositivenews.online/govt-plans-ai-services-at-your-fingertips/)** — Eswatini Positive News, 19 October 2026
 
 Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Udacity Coding Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UAE-FUNDED CODERS ESWATINI TARGETS 300 000 EMASWATI – ICT MINISTER - Eswatini Positive News](https://eswatinipositivenews.online/uae-funded-coders-eswatini-targets-300-000-emaswati-ict-minister/)** — Eswatini Positive News, 25 November 2026
+
+Eswatini's Ministry of ICT handed Udacity scholarships under the UAE-funded Coders Eswatini Programme to the Ministry of Education and Training, as reported on 25 November 2026. ICT minister Savannah Maziya asked that teachers be the main beneficiaries of the courses in AI, data science, programming and Android development. The programme targets 300,000 emaSwati.
 
 </div>
 
