@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: GNQ
 ledger_rows: 26
 not_held: 6
-record: df57e795a44b
+record: ccbf6c7ccc5c
 ---
 
 # News, Oct – Nov 2026
@@ -157,6 +157,14 @@ Equatorial Guinea was elected to chair the UN Statistical Commission for Africa 
 **[GETESA ahorrará 262 millones de francos CFA al mes para reinvertirlos en la mejora de la red nacional](https://ahoraeg.com/politica/2026/10/08/getesa-ahorrara-262-millones-de-francos-cfa-al-mes-para-reinvertirlos-en-la-mejora-de-la-red-nacional/)** — AhoraEG, 8 October 2026
 
 Equatorial Guinea's Vice-President Teodoro Nguema Obiang Mangue told the finance ministry on 7 October 2026 to investigate and urgently release financing for state operator GETESA's network expansion agreement with Huawei, which Treasury payment arrears have slowed. GETESA will cancel non-essential maintenance contracts until December, saving over 262 million CFA francs a month for reinvestment in the network.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[El Vicepresidente exige resultados inmediatos para mejorar la red de telecomunicaciones](https://www.guineaecuatorialpress.com/noticias/el_vicepresidente_exige_resultados_inmediatos_para_mejorar_la_red_de_telecomunicaciones)** — Vicepresidencia de la República de Guinea Ecuatorial, 23 November 2026
+
+February 2027 deadline for GETESA network optimisation; CYBERTEQ to audit; first phase already paid.
 
 </div>
 
