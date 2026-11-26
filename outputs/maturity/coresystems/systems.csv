@@ -14,6 +14,7 @@ AGO,SIGFE,SIGFE,core,,Ministry of Finance,,2026-10-29-ago-sistema-integrado-de-g
 AGO,SINGERH,Sistema Integrado de Gestao de Recursos Humanos da Funcao Publica (SINGERH),core,,MAPTSS,,2026-11-04-ago-vera-daves-pede-celeridade-na-actualizacao-de-dados-cadastrais-de-funcionarios-f
 AGO,SIGFE,SIGFE,core,,Ministerio das Financas,,2026-10-30-ago-proposta-de-oge-2027-resumo-da-dotacao-orcamental-por-orgao-companion
 AGO,ASY5 (Sistema Automatizado de Processamento de Dados Aduaneiros),ASY5,other,UNCTAD,AGT,,2026-06-29-ago-angop-agt-asy5-porto-luanda-ia
+AGO,tax management system,Angola,core,,AGT,,2026-07-06-ago-tax-authorities-identified-15-000-companies-with-irregular-tax-returns
 BDI,SIGFP_BI,Burundi,other,"custom-built open-source modules, Microsoft Server 2019 or later","Ministere des Finances, du Budget et de l'Economie Numerique (via PAFEN)","central and deconcentrated administration; tendered, not in use",2026-03-25-pafen-aao-sigfp-systeme-integre-gestion-finances-publiques
 BDI,SIGFP_BI,Burundi,other,Microsoft Server 2019 or later,"Ministere des Finances, du Budget et de l'Economie Numerique","all ministries and constitutional institutions; contract awarded, not in use",2026-04-20-digital-business-africa-burundi-sigfp-bi-gre-a-gre
 BDI,SIGFP,Burundi,other,,"Ministere des Finances, du Budget et de l'Economie Numerique","public administrations; deployment being prepared, not in use",2026-04-08-mfben-burundi-prepare-mise-en-place-sigfp
@@ -234,6 +235,9 @@ GHA,GIFMIS,GIFMIS,other,,Government of Ghana,,2025-12-11-gha-2026-budget-through
 GHA,Ghana.gov,Ghana,other,eGovernment Digital Services platform,"Ministry of Communication, Digital Technology and Innovations",,2026-11-03-gha-refonte-ghana-gov-cbrain-omni-strategies-contract
 GHA,e-Payslip platform,GHA,core,,Controller and Accountant-General's Department,,2026-02-15-gha-cagd-verify-ghana-card-details-by-march-15-or-face-salary-suspension
 GHA,Ghana Integrated Financial Management System,Ghana,other,,Local Government Service,,2024-06-20-gha-local-government-service-embracing-digitisation-to-enhance-operations
+GHA,DHIMS,Ghana,other,,Ministry of Health,,2026-11-24-gha-health-minister-directs-integration-of-dhims-and-ghims-to-unify-health-data-s
+GHA,GHIMS,Ghana,other,,Ministry of Health,,2026-11-24-gha-health-minister-directs-integration-of-dhims-and-ghims-to-unify-health-data-s
+GHA,GIFMIS,Ghana Integrated Financial Management Information System,core,ERP,Ministry of Finance,,2026-11-20-gha-government-to-relaunch-gifmis-ghana-news-agency
 GIN,GEDA,GEDA,other,,Presidency,,2026-08-14-guinea-geda-doumbouya-decrets-arretes
 GIN,GEME,GEME,other,,Government,,2026-08-13-guinea-geme-digitalisation-missions-etat
 GIN,RTGS,RTGS,other,,BCRG,,2026-07-31-guinee-bcrg-projets-reformes-dsmp
@@ -486,6 +490,8 @@ SEN,SENTAX,Senegal,core,sentax.dgid.sn,Direction générale des Impôts et des D
 SEN,ETAX,Senegal,core,,Direction générale des Impôts et des Domaines,,2026-01-01-sen-dgid-sentax-teledeclaration-immatriculation
 SEN,Systeme integre de gestion financiere et comptable,"new integrated financial and accounting system, go-live targeted 2 January 2026, budget module a year later",other,,Direction generale de la Comptabilite publique et du Tresor,,2025-08-24-sen-tresor-public-vers-un-systeme-integre-de-gestion-financiere-et-comptab
 SEN,financial management system (SEN-FISCALE rollout),Senegal,other,,Government of Senegal,,2025-06-24-sen-world-bank-approves-115-million-to-support-senegal-s-fiscal-reforms-an
+SEN,PIDSM,Plateforme integree des donnees du secteur minier,other,,Ministere des Mines et de la Geologie,,2026-11-10-sen-pidsm-mining-platform
+SEN,e-Justice,e-Justice,other,,Ministere de la Justice,,2026-11-06-sen-senegal-633-equipements-pour-la-justice-numerique
 SLE,Integrated Tax Administration System (ITAS),ITAS,core,,National Revenue Authority,,2025-12-01-nra-moves-to-digital-tax-and-mobile-payments-to-modernise-collection
 SLE,IFMIS,Integrated Financial Management Information System,core,,Ministry of Finance,,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
 SLE,ITAS,Integrated Tax Administration System,core,,National Revenue Authority,,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
@@ -566,6 +572,8 @@ SSD,Integrated Financial Management Information System,IFMIS,other,supplied by A
 SSD,IFMIS,South Sudan IFMIS,core,,Ministry of Finance and Planning,,2024-02-01-ssd-imf-hls-strengthening-budget-execution
 SSD,PPDAA tender portal (ppdaatenderportal.gov.ss),South Sudan,other,,Public Procurement and Disposal of Assets Authority,,2025-02-24-ssd-ppdaa-dissemination-workshop-tender-portal
 SSD,government payroll digitisation,South Sudan,other,,South Sudan e-Services board,,2024-11-11-ssd-government-to-digitize-payroll-system-in-2025
+SSD,IFMIS,South Sudan,core,,Ministry of Finance and Planning,,2026-11-24-ssd-central-bank-launches-electronic-payment-system-to-replace-manual-cheq
+SSD,IFMIS,South Sudan,core,,Ministry of Finance and Planning,,2026-11-24-ssd-opinion-south-sudan-leaps-away-from-the-cheque-book
 STP,Integrated Financial Management Information System (IFMIS),IFMIS,other,,Ministry of Economy and Finance (ISP-CAPEM management unit),,2025-09-03-stp-mef-ifmis-request-for-proposal
 SWZ,Integrated Financial Management Information System (IFMIS),Integrated Financial Management Information System (IFMIS),core,,Ministry of Finance,,2026-10-05-swz-system-glitch-stalls-civil-servants-loans
 SWZ,Performance Management System,Performance Management System,other,,Ministry of Public Service,,2026-10-05-swz-system-glitch-stalls-civil-servants-loans
