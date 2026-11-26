@@ -3,10 +3,10 @@ title: Rwanda — progress report, November 2025 – November 2026
 compiled: 2026-11-26
 period: 2025-11-01 to 2026-11-26
 place: RWA
-ledger_rows: 362
+ledger_rows: 365
 not_held: 7
 indicators: 115
-record: f165995890ba
+record: a6ae2114e596
 ---
 
 # Rwanda: progress report, November 2025 – November 2026

@@ -3,9 +3,9 @@ title: Rwanda — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: RWA
-ledger_rows: 41
+ledger_rows: 42
 not_held: 7
-record: 22a2dbb9d05a
+record: 1f5c25f99034
 ---
 
 # News, Oct – Nov 2026
@@ -567,6 +567,20 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 **[Award-winner Ngirinshuti on an AI model that serves Rwanda’s statistical analysis](https://cenfri.org/articles/award-winner-ngirinshuti-on-an-ai-model-that-serves-rwandas-statistical-analysis/)** — Cenfri, 1 October 2026
 
 The National Institute of Statistics of Rwanda built a model that assigns industry, occupation and education codes to Labour Force Survey answers in Kinyarwanda, English or French, auto-coding 96% of records in one test. Work that took about four analysts a week now needs one person. The project, which grew from an AIMS and Cenfri training course, won an ITU Innovate for Impact award; a field app awaits further testing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">World Bank project-preparation grant for AI for Economic Transformation (E6900-001)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Simplified Stakeholder Engagement Plan (SEP) - Final](https://raia.rw/wp-content/uploads/2026/10/RAIA-SEP-October-2026.pdf)** — Rwanda AI Agency (RAIA), 1 October 2026
+
+World Bank GFPP grant moves to Rwanda AI Agency, approved by Cabinet 8 June 2026; GPU compute and agentic pilots funded.
 
 </div>
 
