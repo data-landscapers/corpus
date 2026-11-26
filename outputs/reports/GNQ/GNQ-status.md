@@ -1,12 +1,12 @@
 ---
 title: Equatorial Guinea: status report
-compiled: 2026-11-25
+compiled: 2026-11-26
 place: GNQ
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 17
-sources_cited: 242
+sources_cited: 243
 sections_written: 39
 not_established: 1
 acquire_lines: 23
@@ -126,7 +126,7 @@ In 2025 [the state operator GITGE peered only at foreign exchanges](https://www.
 
 In 2019 the minister described [four fibre rings, two insular and two continental, representing more than US$30 million invested](https://www.guineaecuatorialpress.com/imgdb/2019/file/5cdr_DISCURSOMINISTROKIGALI.pdf). [Annobón joined the national fibre network in April 2023 through the ULTRAMAR cable from São Tomé](https://news.identicge.org/annobon-ya-dispone-de-internet-de-alta-velocidad/). [A digital-rights organisation reported in October 2026 that the island had had no internet or communications service since July 2024](https://www.ambolegadu.com/en/annobon-sin-internet-access-now-reune-testimonios-y-reclama-el-fin-del-apagon/). [Twenty of a planned 34 towers on the Bata–Mongomo–Ebibeyin–Evinayong road were handed over as operational on 23 September 2025](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_refuerza_su_red_de_telecomunicaciones_con_20_antenas_nuevas__ya_operativas). [A CAB-4 fibre interconnection with Gabon was launched at a signing in November 2025](https://www.guineaecuatorialpress.com/index.php/noticias/guinea_ecuatorial_y_gabon_firman_acuerdos_de_cooperacion_en_telecomunicaciones). [Internet subscriptions rose 10.9% in 2024, while mobile telephony fell 3.2% and fixed telephony 11.8%](https://www.guineaecuatorialpress.com/noticias/inege_presenta_la_octava_edicion_del_anuario_estadistico_nacional_de_guinea_ecuatorial). [In October 2025 the digital terrestrial television project was unbuilt after ten years, with more than half its budget released](https://www.guineaecuatorialpress.com/noticias/audiencia_presidencial_con_jorge_moragas_encargado_de_negocios_de_la_embajada_de_espa%C3%B1a). [On 29 July 2026 the government tendered a Treasury-financed diagnostic, rehabilitation and commissioning of the project](https://ahoraeg.com/politica/2026/07/29/el-gobierno-lanza-una-licitacion-publica-para-el-diagnostico-integral-del-proyecto-de-television-digital-terrestre-tdt/).
 
-On 7 October 2026 [the Vice-President told the finance ministry to expedite the financing file for GETESA's network agreement with Huawei](https://ahoraeg.com/politica/2026/10/08/getesa-ahorrara-262-millones-de-francos-cfa-al-mes-para-reinvertirlos-en-la-mejora-de-la-red-nacional/). [Treasury payment arrears to the operator had slowed it](https://ahoraeg.com/politica/2026/10/08/getesa-ahorrara-262-millones-de-francos-cfa-al-mes-para-reinvertirlos-en-la-mejora-de-la-red-nacional/).
+On 7 October 2026 [the Vice-President told the finance ministry to expedite the financing file for GETESA's network agreement with Huawei](https://ahoraeg.com/politica/2026/10/08/getesa-ahorrara-262-millones-de-francos-cfa-al-mes-para-reinvertirlos-en-la-mejora-de-la-red-nacional/). [Treasury payment arrears to the operator had slowed it](https://ahoraeg.com/politica/2026/10/08/getesa-ahorrara-262-millones-de-francos-cfa-al-mes-para-reinvertirlos-en-la-mejora-de-la-red-nacional/). [On 23 November 2026 the government said coverage, calls and internet service had worsened although the first phase of the optimisation was paid, and the Vice-President set February 2027 to finish it and ordered an audit by CYBERTEQ](https://www.guineaecuatorialpress.com/noticias/el_vicepresidente_exige_resultados_inmediatos_para_mejorar_la_red_de_telecomunicaciones).
 
 ### Data Storage
 <!-- infra.store -->
