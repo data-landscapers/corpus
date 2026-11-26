@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-25-zwe-government-launches-system-to-improve-labour-market-planning",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The ICT ministry says it provided the hosting environment at the National Data Centre for the government's Zimbabwe Labour Market Information System platform and its database.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "National Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "Zimbabwe",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

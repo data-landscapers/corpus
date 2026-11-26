@@ -275,6 +275,7 @@ DZA,Centre National Algérien des Services Numériques (two national data centre
 DZA,Data Center de Mohammadia,Algeria,datacentre,national cloud,High Commission for Digitalisation (supervisor),Tier III Design,2026-10-11-dza-fibre-optique-en-lalgerie-4-millions-de-foyers-raccordes
 DZA,Mohammadia (Algiers) data centre,Algeria,datacentre,,state (HCN),Tier III,2026-11-15-dza-jeune-independant-hcn-accompaniment-dzair-digital-services
 DZA,Blida data centre,Algeria,datacentre,,state (HCN),Tier III,2026-11-15-dza-jeune-independant-hcn-accompaniment-dzair-digital-services
+DZA,Centre national de reprise informatique,Algeria,other,,Haut-Commissariat a la numerisation,,2026-11-21-dza-algerie-eco-290-millions-centre-reprise-informatique
 EGY,Telecom Egypt Regional Data Hub (RDH1),RDH1,datacentre,,Telecom Egypt,,2026-08-28-fintechgate-telecom-egypt-rdh2-data-centre
 EGY,Telecom Egypt Regional Data Hub (RDH2),RDH2,other,,Telecom Egypt,"Uptime Tier III design certificate, Nov 2024; not yet in service",2026-08-28-fintechgate-telecom-egypt-rdh2-data-centre
 EGY,Telecom Egypt Regional Data Center Hub (RDH),RDH,datacentre,,Telecom Egypt,,2026-07-17-telecom-egypt-cancels-helios-data-center-stake-sale
@@ -1256,3 +1257,4 @@ ZWE,Zimbabwe Centre for High Performance Computing (ZCHPC) data center,Zimbabwe,
 ZWE,"High-Performance Computing Center, University of Zimbabwe",Zimbabwe,other,"supercomputer facility, 36 to over 300 teraflops, Phase 2 grant",University of Zimbabwe / Government of Zimbabwe (recipient),,2017-01-01-china-mofcom-zwe-002-chinese-government-provides-rmb-100-million
 ZWE,"High-Performance Computing Center, University of Zimbabwe",Zimbabwe,other,"supercomputer facility, Phase 1, handed over 2015",University of Zimbabwe,,2015-01-01-china-mofcom-zwe-001-chinese-government-provides-rmb-33-million
 ZWE,National Data Centre,National Data Centre,datacentre,Government private cloud,Government of Zimbabwe,,2025-01-08-zwe-zimbabwe-targets-digital-transformation-with-national-data-centre-upgr
+ZWE,National Data Centre,Zimbabwe,datacentre,,"Ministry of ICT, Postal and Courier Services",,2026-11-25-zwe-government-launches-system-to-improve-labour-market-planning
