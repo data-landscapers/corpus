@@ -21,9 +21,9 @@ STISA-2034 and Agenda 2063's second ten-year plan ask for research systems funde
 | Stage | Countries |
 |---|---|
 | 5 Mature | 0 |
-| 4 Operating | 4 |
+| 4 Operating | 5 |
 | 3 Established | 19 |
-| 2 Nascent | 11 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
 | No evidence | 14 |
@@ -36,6 +36,14 @@ Local research fed a digital policy process in 2026; a standing role is not on r
 
 - KICTANet submitted a memorandum to the Senate of Kenya on 5 May 2026 as a public comment on the Artificial Intelligence Bill, 2026, proposing a statutory AI Authority, a National Council and a ring-fenced fund ([source, 2026-05-05](https://www.kictanet.or.ke/wp-content/uploads/2026/05/AI-BILL-2026-Memorandum.docx.pdf)).
 - The CEO's letter in KICTANet's Annual Report 2024 says its evidence-based advocacy contributed to policy reforms, including reviews of ICT legislation and roundtables on digital taxation and cybersecurity ([source, 2024](https://www.kictanet.or.ke/?mdocs-file=52063)).
+
+### Namibia: 4 Operating
+
+A Namibian think tank published a briefing on the cybercrime bill in 2026 and advised the ministry; no standing advisory role has been found.
+
+- The National Commission on Research, Science and Technology launched the National AI Institute in Windhoek, with a research development centre, and CEO Anicia Peters said it will support research on governance approaches to AI ([source, 2026-09-23](https://neweralive.na/ncrst-opens-national-ai-institute/)).
+- The Namibian op-ed says the Institute for Public Policy Research, a Namibian think tank, described the draft Cybercrime Bill in a July briefing as incompatible with the Constitution in numerous respects ([source, 2026-07](https://www.namibian.com.na/cybercrime-bill-must-protect-women-reporters/)).
+- The Namibian says the Institute for Public Policy Research submitted its analysis of the cybercrime bill's shortcomings to the Ministry of Information and Communication Technology ([source, 2026-04](https://www.namibian.com.na/problems-with-the-cybercrime-bill/)).
 
 ### Nigeria: 4 Operating
 
@@ -225,12 +233,6 @@ A Gabonese AI research committee presented its work on AI and digital sovereignt
 Research on digital policy had begun in 2025; published research by a local institution is not on record.
 
 - Newsmada reports that Customs and the University of Antananarivo's EGS faculty held a conference on data sovereignty and AI with researchers, and that Customs set up CEDIA as a bridge turning university research into operational solutions ([source, 2025-08-21](https://newsmada.com/2025/08/22/gestion-des-donnees-donnees-ia-et-souverainete-madagascar-engage-le-debat/)).
-
-### Namibia: 2 Nascent
-
-Namibia opened a national AI institute with a research centre in 2026; whether local research on digital policy is published is not known.
-
-- The National Commission on Research, Science and Technology launched the National AI Institute in Windhoek, with a research development centre, and CEO Anicia Peters said it will support research on governance approaches to AI ([source, 2026-09-23](https://neweralive.na/ncrst-opens-national-ai-institute/)).
 
 ### Rwanda: 2 Nascent
 

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "research",
-      "stage": "2",
-      "research": "begun",
+      "stage": "4",
+      "research": "publishing",
       "policy": "contributed",
       "standing": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-002",
-      "gaps": "No source found since October 2023 says a local institution has published digital policy research or holds a standing advisory role. IPPR's 2026 submission on the cybercrime bill feeds policy, but published research must come first.",
-      "note": "The research commission opened a National AI Institute with a research centre on AI governance in September 2026, so question 1 is met. IPPR's 2023 publication is before the window, and each step must be met, so its 2026 submission does not lift the stage.",
-      "as_at": "2026-11-13"
+      "stage_sources": "NAM-002;NAM-004;NAM-003",
+      "gaps": "No source found says a local research body holds a standing advisory role in digital policy, or that a national research agenda on digital transformation is adopted. The July briefing is known from an op-ed; the briefing itself is not held.",
+      "note": "The Institute for Public Policy Research published a briefing on the draft Cybercrime Bill in July 2026 (NAM-004) and sent its analysis to the ICT ministry in April 2026 (NAM-003), so questions 2 and 3 are met. No standing advisory role is held, so not 5.",
+      "as_at": "2026-11-26"
     }
   ]
 }
