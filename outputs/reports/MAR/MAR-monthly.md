@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-26
 place: MAR
 ledger_rows: 49
 not_held: 13
-record: 2bbaeffdf0c7
+record: f84ed502c455
 ---
 
 # News, Oct – Nov 2026
@@ -361,6 +361,14 @@ Morocco had 61.66 million mobile subscriptions and 44.3 million internet subscri
 **[FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco](https://www.einpresswire.com/article/947923731/fivenines-group-partners-with-nexus-core-systems-to-develop-20mw-data-centre-in-morocco)** — EIN Presswire (FiveNines Group announcement), 7 October 2026
 
 The UK firm FiveNines Group was appointed to lead design management and procurement strategy for a 20MW AI data centre that Nexus Core Systems plans near Casablanca, Morocco, using Nvidia's Vera Rubin reference architecture. The announcement puts the wider Nexus AI Factory platform's target at 180MW on renewable power. No cost, permit or construction start is given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nexus Core Systems annonce le début des travaux de sa plateforme d'IA](https://telquel.ma/instant-t/2026/11/25/nexus-core-systems-annonce-le-debut-des-travaux-de-sa-plateforme-dia_2019760/)** — Telquel, 25 November 2026
+
+Construction begins at Nouaceur: 20 MW by Q3 2027, 180 MW by 2028, MAD 12bn, wind power via Taqa Morocco.
 
 </div>
 
