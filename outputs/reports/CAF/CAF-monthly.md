@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: CAF
-ledger_rows: 16
+ledger_rows: 17
 not_held: 5
-record: 2c5a0a85bb4c
+record: 012c905cb158
 ---
 
 # News, Oct – Nov 2026
@@ -170,6 +170,14 @@ The steering committee of the EU-funded MODERO civil-registration project in the
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Modernisation de l’état civil : MbetiNet expérimenté en phase pilote dans la commune de Bimbo - LES AUTRES NOUVELLES DE CENTRAFRIQUE](https://journallanoca.com/modernisation-de-letat-civil-mbetinet-experimente-en-phase-pilote-dans-la-commune-de-bimbo/)** — Les Autres Nouvelles de Centrafrique, 23 November 2026
+
+Bimbo pilot from 16 Nov 2026; 2,500+ registers to archive and scan; acts hosted in ministry data centre.
+
+</div>
+
 </div>
 
 ### Sectoral management information systems
@@ -278,6 +286,8 @@ The Central African Republic signed a five-year digital governance partnership w
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
 <a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#open-data">Open data</a>
 </nav>
 
 ### National statistics
@@ -341,6 +351,22 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 **[ICASEES : Lancement de la deuxième vague de collecte de l'EHCVM2 en République centrafricaine](https://www.icasees.org/index.php/actualites/430-icasees-lancement-de-la-deuxieme-vague-de-collecte-de-lehcvm2-en-republique-centrafricaine)** — ICASEES, 17 October 2026
 
 ICASEES launched the second collection wave of the Central African Republic's second harmonised household living-conditions survey (EHCVM2) at a press briefing in Bangui on 17 October 2026. The wave extends the survey to the Fertit region (Haute-Kotto, Vakaga and Bamingui-Bangoran), which the July-to-September first wave had left out for security reasons, and steps up household sensitisation; the survey runs under the World Bank-backed HISWACA-SOP2 project.
+
+</div>
+
+</div>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics institute data-dissemination policy and anonymisation procedure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASEES : la Politique de diffusion des données et la procédure d’anonymisation soumises à la validation des acteurs du Système Statistique National](https://icasees.org/actualites/438-icasees-politique-de-diffusion-des-donnees-et-procedure-d-anonymisation-soumises-a-la-validation-du-ssn)** — Institut Centrafricain des Statistiques et des Études Économiques et Sociales (ICASEES), 24 November 2026
+
+Validation workshop 24-25 Nov 2026; graded access, open formats, three anonymisation risk classes; HISWACA-funded.
 
 </div>
 
