@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-10-civ-gcpnd-ouattara-strategie-numerique-15-pourcent-pib",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "Minister Djibril Ouattara presented to investors on 9 July 2026 the broad lines of the national digital development strategy within the 2026-2030 national development plan, built on seven pillars.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "stratégie nationale de développement du numérique",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
