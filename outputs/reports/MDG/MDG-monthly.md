@@ -3,9 +3,9 @@ title: Madagascar — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: MDG
-ledger_rows: 34
+ledger_rows: 35
 not_held: 5
-record: 99d61a881d24
+record: d7357d767cfa
 ---
 
 # News, Oct – Nov 2026
@@ -213,6 +213,20 @@ Only about two in ten people in Madagascar use the internet, although 3G and 4G 
 **[ACCÈS À INTERNET - Madagascar veut réduire la fracture numérique](https://www.lexpress.mg/2026/11/acces-internet-madagascar-veut-reduire.html)** — L'Express de Madagascar, 12 November 2026
 
 A COMESA consultation on financing digital infrastructure met in Antananarivo from 10 to 13 November 2026. GSMA estimates cited there put 3G and 4G coverage at about 81% of Madagascar's population in 2026. Yet 66% of people live in covered areas without using mobile internet. 4G reaches an estimated 67% of rural people against 96% in towns.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AXIAN Telecom tower estate in Madagascar</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AXIAN Telecom Revenue Rises 23% to $1.5 Billion in Nine Months](https://techafricanews.com/2026/11/26/axian-telecom-revenue-rises-23-percent-to-1-5-billion/)** — Tech Africa News, 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
+
+AXIAN Telecom reported unaudited revenue of $1.505 billion for the nine months to September 2026, up 23% from $1.224 billion, and adjusted EBITDA of $626 million, up 20%. Digital and mobile financial services grew 38%. Nine-month profit fell to $41 million from $196 million, partly from a fair-value loss on its Jumia investment. Subscribers rose 11% to 47.8 million.
 
 </div>
 
