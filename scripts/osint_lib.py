@@ -52,8 +52,10 @@ MANIFEST = os.path.join(MIRROR, "cycle-manifest.json")
 # counts, and changes nothing this module already reads, so both numbers are accepted and the
 # reader lands before OSINT's writer does (strategic review 4, register R07). Schema 3 adds a
 # `drops` block - per sweep, drop codes from the sweep and from ingest, admissions and the
-# ingest drop rate - and again changes nothing already read (review 5, R70-R71).
-MANIFEST_SCHEMAS = (1, 2, 3)
+# ingest drop rate - and again changes nothing already read (review 5, R70-R71). Schema 4, from the
+# night of 2026-11-27, adds two night totals to `drops`, `admitted` and `already_held_share`, in
+# place of the 30 % target Bill dropped (review 8, R190; corpus-notes 91).
+MANIFEST_SCHEMAS = (1, 2, 3, 4)
 
 # Where a schema-2 manifest is kept once it has been read. The mirror holds one file and every
 # close overwrites it, so a `usage` block is on the disk for one night and then gone - and the

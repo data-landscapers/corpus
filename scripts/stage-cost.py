@@ -103,6 +103,12 @@ def print_drops() -> None:
     for s in sweeps + ["all"]:
         label = "**all sweeps**" if s == "all" else s
         print(f"| {label} | " + " | ".join(rows[s]) + f" | {rate(*pooled[s])} |")
+    # Schema 4 (R190, corpus-notes 91): the two night totals that replace the 30 % target.
+    if any("already_held_share" in b or "admitted" in b for b in blocks):
+        print("| **admitted, night** | " + " | ".join(str(b.get("admitted", "—")) for b in blocks) + " | |")
+        print("| **already held, share of drops** | " + " | ".join(
+            f"{100 * b['already_held_share']:.0f}%" if isinstance(b.get("already_held_share"), (int, float))
+            else "—" for b in blocks) + " | |")
 
 
 def deltas(usage: dict) -> dict:
@@ -111,8 +117,11 @@ def deltas(usage: dict) -> dict:
     for stage, reading in usage.items():
         if prev is not None:
             week = reading["seven_day"] - prev["seven_day"]
-            five = reading["five_hour"] - prev["five_hour"]
-            out[stage] = (week, five if five >= 0 else None, minutes(prev, reading))
+            # The endpoint has sent `five_hour: null` since November (review 8, R192): no reading
+            # prints as a roll would, never as a number.
+            five = (None if reading.get("five_hour") is None or prev.get("five_hour") is None
+                    else reading["five_hour"] - prev["five_hour"])
+            out[stage] = (week, five if five is not None and five >= 0 else None, minutes(prev, reading))
         prev = reading
     return out
 
