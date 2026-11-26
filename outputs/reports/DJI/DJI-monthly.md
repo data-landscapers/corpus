@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: DJI
-ledger_rows: 17
+ledger_rows: 18
 not_held: 10
-record: 9ddf837074fe
+record: e476785b39a9
 ---
 
 # News, Oct – Nov 2026
@@ -46,7 +46,7 @@ record: 9ddf837074fe
 
 <div class="bulletin-item" markdown="1">
 
-**[Le chef de l’Etat préside les travaux de la 12e séance du Conseil des ministres](https://www.adi.dj/article/139039)** — Agence Djiboutienne d'Information (ADI), 27 October 2026
+**[Le chef de l’Etat préside les travaux de la 12e séance du Conseil des ministres](https://web.archive.org/web/20261028061335/https://www.adi.dj/article/139039)** — Agence Djiboutienne d'Information (ADI), 27 October 2026
 
 Djibouti's Council of Ministers approved a draft organic law on finance laws with a title on dematerialisation. It provides for an integrated public financial management system, electronic archiving, digital signatures and online publication of budget data.
 
@@ -87,6 +87,28 @@ Djibouti will host the second African Forum of Official Gazettes on 16 and 17 De
 **[Signature d'une convention de financement de 5 millions d'euros entre la République de Djibouti et l'Agence Française de Développement pour l'appui à la réforme des finances publiques — Djiblive — Agence & Média](https://news.djiblive.dj/fr/articles/signature-dune-convention-de-financement-de-5-millions-deuros-entre-la-republique-de-djibouti-et-lag)** — Djiblive, 21 November 2026
 
 Djiblive reported that Djibouti and the French Development Agency signed a EUR 5 million financing agreement on 21 November 2026. It funds a four-year public finance reform project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EU Global Gateway green and digital trade action for the Horn of Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU, Ethiopia, Djibouti, Somalia and TradeMark Africa launch four-year Global Gateway partnership](https://trademarkafrica.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — TradeMark Africa, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
+
+EUR 20m EU Global Gateway programme, signed 23 Nov 2026; TMA implements digital trade and transport systems.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU commits €20 million to green and digital trade across Ethiopia, Djibouti and Somalia](https://borkena.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — Borkena, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
+
+The EU committed €20 million in Addis Ababa on 25 November 2026 to a four-year Global Gateway programme with Ethiopia, Djibouti, Somalia and TradeMark Africa. It covers digital and green trade and transport systems. It extends the existing €32 million Djibouti–Ethiopia corridor programme.
 
 </div>
 
