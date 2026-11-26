@@ -10,6 +10,6 @@
 
 **Systems run wholly in-house.** No source found since October 2023 says government staff run, maintain or built a named system with no contractor doing the work. [SETIC is the government ICT secretariat](<https://setic.gov.bi/?pages%2F10253095=>). It lists software development and hosting for public institutions among its services.
 
-***Also on file***. [Système Intégré de Gestion des Finances Publiques (SIGFP)](<https://finances.gov.bi/index.php/2026/04/08/le-burundi-prepare-la-mise-en-place-du-systeme-integre-de-gestion-des-finances-publiques/>).
+***Also on file***. [Système Intégré de Gestion des Finances Publiques (SIGFP)](<https://web.archive.org/web/20260416015545/https://finances.gov.bi/index.php/2026/04/08/le-burundi-prepare-la-mise-en-place-du-systeme-integre-de-gestion-des-finances-publiques/>).
 
 ***Not found***. No source found from 2023 or later says government staff run or maintain any of its systems.
