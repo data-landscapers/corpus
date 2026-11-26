@@ -3,9 +3,9 @@ title: Tanzania — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: TZA
-ledger_rows: 65
+ledger_rows: 67
 not_held: 4
-record: 5dcfaabf5b10
+record: b793c8c5f48b
 ---
 
 # News, Oct – Nov 2026
@@ -339,6 +339,34 @@ Tanzania's communications minister, Angellah Kairuki, told the ITU Plenipotentia
 **[Savanna Targets One Million New Fibre Connections in East Africa](https://nilepost.co.ug/businesses/388110/savanna-targets-one-million-new-fibre-connections-in-east-africa)** — Nile Post, 17 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 Savanna Telecom announced plans on 17 November 2026 for one million more fibre home passes across Uganda, Tanzania and Kenya in 2027. This would double its coverage to over two million homes. It reports over 250,000 active fibre-to-the-home subscribers, 16,000km of fibre built and 8,000km under construction. FiberHome is its equipment partner.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Tanzania home and business fibre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Tanzania Partners Huawei to Expand High-Speed Fibre Internet](https://techafricanews.com/2026/11/26/airtel-tanzania-partners-huawei-to-expand-high-speed-fibre-internet/)** — Tech Africa News, 26 November 2026
+
+Airtel Tanzania has partnered with Huawei to expand fibre internet for homes and businesses in Dar es Salaam and Arusha, with 100 Mbps and 200 Mbps plans. Coverage includes named Dar es Salaam neighbourhoods such as Mikocheni, Mbezi Beach and Kigamboni, and Moshono in Arusha. The article gives no investment figure or rollout date.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Yas Tanzania subscribers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AXIAN Telecom Revenue Rises 23% to $1.5 Billion in Nine Months](https://techafricanews.com/2026/11/26/axian-telecom-revenue-rises-23-percent-to-1-5-billion/)** — Tech Africa News, 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
+
+AXIAN Telecom reported unaudited revenue of $1.505 billion for the nine months to September 2026, up 23% from $1.224 billion, and adjusted EBITDA of $626 million, up 20%. Digital and mobile financial services grew 38%. Nine-month profit fell to $41 million from $196 million, partly from a fair-value loss on its Jumia investment. Subscribers rose 11% to 47.8 million.
 
 </div>
 
