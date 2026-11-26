@@ -1,12 +1,12 @@
 ---
 title: Burkina Faso: status report
-compiled: 2026-11-25
+compiled: 2026-11-26
 place: BFA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 9
-sources_cited: 226
+sources_cited: 227
 sections_written: 39
 not_established: 0
 acquire_lines: 62
@@ -277,7 +277,7 @@ The government ICT agency's cloud at cloud.gov.bf [runs on eight cloud nodes acr
 
 [No dedicated artificial-intelligence law had been adopted by August 2026](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/). [The personal-data law adopted on 3 August 2026 bars transferring sensitive personal data abroad](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/). [The new communications regulator was given its own rule-making power, which the government said would let it keep pace with technologies such as AI](https://www.lobspaalga.com/2026/08/03/87181/).
 
-[Automated traffic enforcement began on 1 August 2026](https://lefaso.net/spip.php?article148326). [Its cameras in Ouagadougou use AI to detect four categories of offence and read number plates against the vehicle database](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-des-cameras-intelligentes-pour-surveiller-les-infractions-routieres-a-ouagadougou). [In October 2025 the digital ministry and the state broadcaster agreed to use AI for public information, including Mooré-to-French translation](https://news.broadcastmediaafrica.com/2025/10/23/burkina-faso-pioneers-ai-integration-in-public-broadcasting-with-rtb-partnership/). [On 15 October 2026 the university AI centre CITADEL launched L'Essentiel.bf, which summarises four national news outlets in French and Mooré](https://lefaso.net/spip.php?article149991). [Since 2024 the national tuberculosis programme has read mobile chest X-rays with CAD4TB software](https://delftimaging.com/resources/webinars/advancing-tb-screening-in-burkina-faso-with-portable-x-ray-and-cad4tb/). [It screened 1,730 people from September 2024 to April 2025 and found 61 cases](https://delftimaging.com/resources/webinars/advancing-tb-screening-in-burkina-faso-with-portable-x-ray-and-cad4tb/).
+[Automated traffic enforcement began on 1 August 2026](https://lefaso.net/spip.php?article148326). [Its cameras in Ouagadougou use AI to detect four categories of offence and read number plates against the vehicle database](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-des-cameras-intelligentes-pour-surveiller-les-infractions-routieres-a-ouagadougou). [In October 2025 the digital ministry and the state broadcaster agreed to use AI for public information, including Mooré-to-French translation](https://news.broadcastmediaafrica.com/2025/10/23/burkina-faso-pioneers-ai-integration-in-public-broadcasting-with-rtb-partnership/). [In April 2026 the government was using CITADEL's French–Mooré speech system to publish health and education content in Mooré on the Burkina-en-marche portal](https://digitalmagazine.bf/2026/04/06/intelligence-artificielle-le-centre-dexcellence-interdisciplinaire-en-intelligence-artificielle-pour-le-developpement-citadel-au-cours-du-loreslm-2026-lia-burkinabe-parle-desorma/). [On 15 October 2026 the university AI centre CITADEL launched L'Essentiel.bf, which summarises four national news outlets in French and Mooré](https://lefaso.net/spip.php?article149991). [Since 2024 the national tuberculosis programme has read mobile chest X-rays with CAD4TB software](https://delftimaging.com/resources/webinars/advancing-tb-screening-in-burkina-faso-with-portable-x-ray-and-cad4tb/). [It screened 1,730 people from September 2024 to April 2025 and found 61 cases](https://delftimaging.com/resources/webinars/advancing-tb-screening-in-burkina-faso-with-portable-x-ray-and-cad4tb/).
 
 ### ICT Industry
 <!-- tech.industry -->
