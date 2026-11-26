@@ -3,9 +3,9 @@ title: Uganda — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: UGA
-ledger_rows: 63
+ledger_rows: 65
 not_held: 11
-record: e7d4fb843eac
+record: 1f29e2569460
 ---
 
 # News, Oct – Nov 2026
@@ -239,6 +239,28 @@ A TikTok user was charged in Kampala on 6 October with unlawfully obtaining and 
 **[Police, PDPO Raid SyncLend Uganda Call Centre, Arrest 13 Over Harassment of Loan Defaulters’ Relatives](https://nilepost.co.ug/crime/382650/police-pdpo-raid-synclend-uganda-call-centre-arrest-13-over-harassment-of-loan-defaulters-relatives)** — Nile Post, 29 October 2026
 
 Uganda's Personal Data Protection Office and the police raided SyncLend Uganda's Kampala call centre on 29 October 2026 and arrested 13 people. The firm's lending apps are alleged to have harassed borrowers' relatives and friends. The charges are failure to register with the office and unlawful disclosure of personal data.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection audits of public bodies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Eight Government Agencies Fail Data Protection Audit](https://nilepost.co.ug/news/390990/eight-government-agencies-fail-data-protection-audit)** — Nile Post, 26 November 2026
+
+An audit of 15 Ugandan ministries, departments and agencies, run from November 2025 to April 2026, found eight non-compliant, five partially compliant and two compliant. The average score was 63.71%, which the regulator classed as unsatisfactory. Weaknesses included breach and complaint handling, data subject rights, cross-border transfers and impact assessments. The Personal Data Protection Office released the findings on 26 November 2026 as it launched an audit and inspection manual.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Eight government institutions fail data protection audit](https://www.newvision.co.ug/category/news/eight-government-institutions-fail-data-prote-NV_244898_112026)** — New Vision, 26 November 2026
+
+Uganda's Personal Data Protection Office audited 15 public bodies between November 2025 and April 2026. Two were compliant, five partly compliant and eight non-compliant. The average rating was 63.71%. The results came at the launch of an audit manual built with World Bank support.
 
 </div>
 
@@ -485,6 +507,20 @@ Savanna Telecom announced plans on 17 November 2026 for one million more fibre h
 **[Uganda launches first Lake Victoria submarine internet cable](https://www.monitor.co.ug/uganda/news/national/uganda-launches-first-lake-victoria-submarine-internet-cable-5677782)** — Daily Monitor, 20 November 2026
 
 Uganda launched its first submarine fibre-optic cable under Lake Victoria, the Daily Monitor reported on 20 November 2026. The Kalangala Connect cable runs six kilometres from Bukakkata on the mainland to Bogoma on Buggala Island. It is meant to improve connectivity in the Ssese Islands.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AXIAN Telecom tower estate in Uganda</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AXIAN Telecom Revenue Rises 23% to $1.5 Billion in Nine Months](https://techafricanews.com/2026/11/26/axian-telecom-revenue-rises-23-percent-to-1-5-billion/)** — Tech Africa News, 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+AXIAN Telecom reported unaudited revenue of $1.505 billion for the nine months to September 2026, up 23% from $1.224 billion, and adjusted EBITDA of $626 million, up 20%. Digital and mobile financial services grew 38%. Nine-month profit fell to $41 million from $196 million, partly from a fair-value loss on its Jumia investment. Subscribers rose 11% to 47.8 million.
 
 </div>
 
