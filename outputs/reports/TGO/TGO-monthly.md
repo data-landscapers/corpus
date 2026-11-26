@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: TGO
-ledger_rows: 43
+ledger_rows: 44
 not_held: 15
-record: be7711e8af3d
+record: 5fb2e7e86251
 ---
 
 # News, Oct – Nov 2026
@@ -195,6 +195,20 @@ Togo's data-protection authority hosted its Beninese counterpart in Lome on 2 an
 **[Fibre à domicile : l’ARCEP prépare une carte pour comparer les opérateurs](https://www.togofirst.com/fr/telecoms/2710-20458-fibre-a-domicile-l-arcep-prepare-une-carte-pour-comparer-les-operateurs)** — Togo First, 27 October 2026
 
 Togo's regulator ARCEP opened a tender, number 004/ARCEP/PRMP/2026 of 25 September 2026, for a public portal mapping home fibre networks. Users could compare operators' coverage, speeds and service quality by locality and report faults on the map. Bids are due 30 October 2026, the contract is estimated at FCFA 250 million, and delivery is set within 240 days.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AXIAN Telecom tower estate in Togo</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AXIAN Telecom Revenue Rises 23% to $1.5 Billion in Nine Months](https://techafricanews.com/2026/11/26/axian-telecom-revenue-rises-23-percent-to-1-5-billion/)** — Tech Africa News, 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
+
+AXIAN Telecom reported unaudited revenue of $1.505 billion for the nine months to September 2026, up 23% from $1.224 billion, and adjusted EBITDA of $626 million, up 20%. Digital and mobile financial services grew 38%. Nine-month profit fell to $41 million from $196 million, partly from a fair-value loss on its Jumia investment. Subscribers rose 11% to 47.8 million.
 
 </div>
 
