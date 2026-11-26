@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: CMR
 ledger_rows: 39
 not_held: 3
-record: bd8e54f89789
+record: a26c5c4948bb
 ---
 
 # News, Oct – Nov 2026
@@ -276,6 +276,14 @@ Orange Cameroon commissioned rural connectivity sites in Campo-Beach on 13 Novem
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Inclusion numérique: Ekpwassong I et Bisso’o connectés au réseau MTN](https://expressioneconomique.com/conjoncture/inclusion-numerique-ekpwassong-i-et-bissoo-connectes-au-reseau-mtn)** — Expression Economique, 23 November 2026
+
+MTN builds 182 of 362 PATNUC rural sites, 30-plus live; Ekpwassong I connected 9 Nov 2026.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -338,13 +346,21 @@ Uptime Institute's register for Cameroon lists two Tier III design certification
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Port Autonome de Douala data centre at the Dibamba industrial-port zone</p>
+<p class="monthly-story__name">Douala artificial-intelligence data centre and power plant</p>
 
 <div class="bulletin-item" markdown="1">
 
 **[MISSOLE | : LES ÉTATS UNIS S’ENGAGENT AUX CÔTÉS DU PORT AUTONOME DE DOUALA POUR BÂTIR UN DATA CENTER DE DERNIÈRE GÉNÉRATION](https://lavoixdelacite.com/2026/11/07/missole-les-etats-unis-sengagent-aux-cotes-du-port-autonome-de-douala-pour-batir-un-data-center-de-derniere-generation/)** — La Voix de la Cité, 7 November 2026
 
 The Port Autonome de Douala plans a two-hectare modular data centre, built for AI and with its own power plant, at its Dibamba industrial-port zone. It was shown to US chargé d'affaires John G. Robinson on a visit reported on 7 November 2026. The port says the site would keep hosted data under Cameroonian sovereignty. It names no builder, financier or timeline.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[L’américain Cybastion inspecte le site de son futur data center à Douala](https://actucameroun.com/2026/11/23/lamericain-cybastion-inspecte-le-site-de-son-futur-data-center-a-douala/)** — Actu Cameroun, 23 November 2026
+
+Site visit 5 Nov 2026 at Dibamba port zone; USD 75m with own power plant; financing and timetable unpublished.
 
 </div>
 
