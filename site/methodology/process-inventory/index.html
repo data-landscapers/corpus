@@ -122,6 +122,7 @@
 <p><strong>Process lookups</strong> - taxonomies, and lists that can be configured to alter the behaviour of the repository.</p>
 <p><strong>Maturity assessment</strong> - the criteria used to 'score' each indicator in the maturity assessment.</p>
 <p><strong>Table metadata</strong> - column definitions for downloadable datasets.</p>
+<p><strong>Statistics</strong> - what the archive holds and how the site is used, month by month.</p>
 </div>
       <nav class="article-toc" aria-label="Pages in this section">
       <a href="../../methodology/">Methodology</a>
@@ -380,6 +381,41 @@
       <td><strong>Publish the pages</strong></td>
       <td><code>scripts/<wbr>home.py</code>, <code>country.py</code>, <code>region.py</code>, <code>topic-<wbr>page.py</code>, <code>progress.py</code>, <code>maturity-<wbr>site.py</code>, <code>catalogue.py</code>, <code>alerts.py</code>, <code>finance.py</code>, <code>datasets.py</code>, <code>methodology.py</code></td>
       <td>The home page, the country and region pages and the topics matrix, the two progress tables, the Maturity Assessment map with its country reports and criteria, the searchable catalogue and its alert sign-up, the finance pages, the datasets and these methodology pages. Counts on every page are drawn from the same catalogue, so they cannot disagree.</td>
+      </tr>
+      <tr>
+      <td><strong>Index who held which post</strong></td>
+      <td><code>WHOS-<wbr>WHO-<wbr>UPDATE.md</code>, <code>scripts/<wbr>whos-<wbr>who-<wbr>candidates.py</code>, <code>whos-<wbr>who-<wbr>people.py</code>, <code>whos-<wbr>who-<wbr>publish.py</code>, <code>lint-<wbr>whos-<wbr>who.py</code></td>
+      <td>Each night's new sources are read for named people, their positions and organisations, a batch of at most 150 sources to a reader. Spellings of one person, one title and one organisation are joined, and the page lists each row with the sources that state it. Nothing about a person is held beyond name, position and organisation.</td>
+      </tr>
+      <tr>
+      <td><strong>Check every claim's figures against its source</strong></td>
+      <td><code>CYCLE.md</code> step 4a, <code>scripts/<wbr>claim-<wbr>audit.py</code>, <code>scripts/<wbr>lint-<wbr>concordance.py</code></td>
+      <td>Each night a random sample of published claims, stratified by document type and source language, is judged by a fresh reader who sees only the sentence and the source's held text; failures are repaired the same night. A second check, with no model, looks for every figure and date of every linked sentence in the source it cites and lists what it cannot find.</td>
+      </tr>
+      <tr>
+      <td><strong>Hold the prose to the house sheet</strong></td>
+      <td><code>scripts/<wbr>lint-<wbr>prose.py</code></td>
+      <td>Counts sentence length, banned words and mood across every narrative block, per country, each night, so the reports' prose can be seen to improve or slip.</td>
+      </tr>
+      <tr>
+      <td><strong>Check the source links still open</strong></td>
+      <td><code>scripts/<wbr>link-<wbr>check.py</code></td>
+      <td>Works through every catalogued source link a slice at a time. A link is dead only after two failed checks some days apart, and never when its whole host is down; dead links go to the collection side to be replaced.</td>
+      </tr>
+      <tr>
+      <td><strong>Record how the site is used</strong></td>
+      <td><code>scripts/<wbr>traffic.py</code>, <code>scripts/<wbr>site_statistics.py</code></td>
+      <td>Keeps the page host's request log, separates people from machines, and draws the monthly counts on the <a href="../statistics/">Statistics</a> page beside what the archive holds. Visitors' addresses stay off the repository.</td>
+      </tr>
+      <tr>
+      <td><strong>Cut the finance deck</strong></td>
+      <td><code>scripts/<wbr>finance-<wbr>charts-<wbr>pptx.py</code></td>
+      <td>Rebuilds the all-finance slide deck from the published tables alone, so every chart matches a downloadable file.</td>
+      </tr>
+      <tr>
+      <td><strong>List every object the pipeline runs on</strong></td>
+      <td><code>scripts/<wbr>inventory.py</code>, <code>scripts/<wbr>lint-<wbr>inventory.py</code></td>
+      <td>Writes one row per runbook, script, lookup, log and document, with its purpose and what reads and writes it, each cycle. An object with no stated purpose fails; one nothing names is listed for deletion.</td>
       </tr>
       <tr>
       <td><strong>Retire editions nobody took</strong></td>
