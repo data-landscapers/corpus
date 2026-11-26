@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-26 00:37 · **BUDGET-EXTRACT** · 2m · SLE FY2027: nil from the Fiscal Strategy Statement 2027-2029; ceilings by pillar and cluster only, no vote or programme figure; followups line struck
 2026-11-25 23:57 · **NOTES** · 12m · 89 and 90 closed: Who's Who keeps afcfta over afcfta-secretariat in organisations, org-places and org-abbreviations; OSINT's 42-tag fold entry added to the change log under 25 November; spent ailaw and aisectoral handovers pruned from prepared/ - ok
 2026-11-25 19:33 · **RENDER** · 8m · Who's Who launch: nav re-baked, 355 reports repaged, home/countries/catalogue/finance/datasets/maturity/methodology rebuilt; deployed 561325f - ok
 2026-11-25 02:59 · **INDEX** · unclocked · research index: 206 added, 123 changed, 0 removed, 3557 chunks, 4.1 min - ok
@@ -328,24 +329,6 @@ title: Corpus process log
 2026-10-26 05:57 · **BUILD** · 2h44m · catalogue 33,696; 432 sources, 50 moved, 179 minted, 66 status sections revised; data centres 61, 24 modified, 2 added; maturity 443 facts, 44 stages moved; bulletin 11; finance 3 sittings, 0 waiting; register 10; notes 264-265; messages 31-37 - ok
 2026-10-26 05:32 · **BUDGET-EXTRACT** · 46m · finance upkeep, 3 sittings: GIN FY2026 113 lines proposed from the PLF 2026 (whole GNF 357.3bn, partial 105.8bn); CMR FY2025 postal CAS to activity grain (900m partial -> 36m); ZAF MTBPS 2026 nil; 0 readings waiting
 2026-10-26 03:12 · **ANALYTICS** · unclocked · 2026-10-24..2026-10-25 written; 25 Oct: dl.io 11 views / 0 clicks, corpus 107 views / 1 clicks
-2026-10-25 10:47 · **RENDER** · 21m · reports+home+countries+catalogue+maturity rendered (301 documents, 0 failed), deployed — ok
-2026-10-25 02:58 · **RENDER** · 33m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 16,417 files moved to R2; pushed 94fa00f, deploy stuck (no run created)
-2026-10-25 02:24 · **REBUILD** · unclocked · consumerprotection protection: 6 cells reassessed, 6 moved; 54 searched, 151 staged; 66.0M tokens (third of a shared window) - ok
-2026-10-25 02:24 · **REBUILD** · unclocked · cloudstrategy policy: 2 cells reassessed, 2 moved; 54 searched, 104 staged; 65.9M tokens (third of a shared window) - ok
-2026-10-25 02:24 · **REBUILD** · 17m · civilserviceskills csskills: 3 cells reassessed, 2 moved; 54 searched, 171 staged; 65.9M tokens (third of a shared window) - ok
-2026-10-25 02:21 · **REVIEW** · 13m · CPV: status 13 sections revised, progress 4 cells, finance 0 rows; 0 deals queued, 1 notes for OSINT — ok
-2026-10-25 02:16 · **REVIEW** · 8m · DJI: status 11 sections revised (6 trimmed), progress 0 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
-2026-10-25 02:07 · **BUILD** · 1h22m · catalogue 33,288; 518 sources, 46 moved, 143 minted, 89 status sections revised; data centres 3, 1 added; maturity 37 facts, 23 stages moved; bulletin 6; finance 12 sittings, 10 waiting; register 10; notes 260-262 - ok
-2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · finance upkeep: 9 readings, follow-ups struck (13 items), 3 deals judged into deal-scope; 10 items still waiting, each on a document or a decision
-2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · KEN FY2024: Supplementary II development volumes read, nil (Supp III and the 2025/26 prior-year column stand); BEN/LSO 2027 documents logged nil
-2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · CPV FY2024-26: votes recorded, 31/32/33 organs plus Mapa VII pillars and earmarked items; no row changed
-2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · BEN FY2024: ARCEP Benin 2024 report, nil (resources only)
-2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · MLI FY2024: AMRTP held from its 2024 income statement, operating charges XOF 24.40bn (partial)
-2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · GIN FY2026: half-year execution report read, nil (ministry envelopes, in-year); the March 2026 bill with line detail found on dgb.gov.gn, asked of OSINT
-2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · KEN FY2025: Digital Health Authority revised gross 394,200,000 from Supplementary I recurrent
-2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · BDI FY2025: successor mapping from decrees 100/002 and 100/024 - DIN, DD and five provincial digital-economy directorates at revised (BIF 1.22bn, 31 rows), four predecessors at nil; 19/001 IT staff fees to 19/026
-2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · UGA FY2024: the universal service fund held from the Auditor General's report, UGX 66.18bn budgeted, 68.07bn spent (whole, own-source)
-2026-10-25 01:45 · **ANALYTICS** · unclocked · 2026-10-22..2026-10-24 written; 24 Oct: dl.io 12 views / 0 clicks, corpus 102 views / 0 clicks
 2026-10-23 11:26 · **BUDGET** · unclocked · poll 66 libraries, GIN and NAM staged; SYC FY2026 and GHA FY2024 revised; MOZ and SEN nil; votes for 9 countries; 39 waiting, none workable; 75 of 120 minutes — ok
 2026-10-20 09:29 · **MIRROR** · unclocked · flash leg failing: ffs=2 then ffs=3, D: has 0.93 GB free; robocopy legs ok; messages at cap, raised in session
 2026-10-17 10:18 · **MATURITY-UPDATE** · unclocked · stage 4c lifted (Bill) and its backlog worked: 15,617 arrivals over 115 studies, 9,822 closed unread (8,344 instruments, 1,478 pre-window), 1,013 past 20 a country; 810 news stories in 408 Sonnet calls; 954 facts merged, 604 cells reassessed and logged, 253 moved; 7 facts removed at the top-stage check; 41 cells restaged and 276 texts rewritten by brief; all 115 lint clean. 245M tokens (212M agents) — ok
