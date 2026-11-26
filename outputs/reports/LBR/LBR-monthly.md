@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: LBR
-ledger_rows: 33
+ledger_rows: 34
 not_held: 6
-record: 023e78df2c30
+record: 5a2017cb9132
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: 023e78df2c30
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -499,6 +501,28 @@ Liberia's Consulate General in New York now takes online payment through its web
 **[MME Trains, Certifies Geologists, Mining Consultancy Firms on Licensing Procedures](https://www.liberianobserver.com/news/mme-trains-certifies-geologists-mining-consultancy-firms-on-licensing-procedures/article_0216311d-d201-42e2-b3c4-c0080794ab97.html)** — Liberian Observer, 16 November 2026
 
 The Ministry of Mines and Energy says its online mining licence and permit system is fully operational. It trained and certified geologists and consultancy firms on the platform. The training also covered the Revenue Authority's online payment system.
+
+</div>
+
+</div>
+
+## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI Policy 2027-2032</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministry of Posts and Telecommunications Establishes National AI Policy Development Committee to Lead Liberia's AI Transformation](https://www.govserv.org/LR/Monrovia/611768712185175/Ministry-of-Posts-%26-Telecommunications%2C-Republic-of-Liberia)** — Republic of Liberia, Ministry of Posts and Telecommunications, 10 October 2026
+
+11-member committee set up 18 September 2026 to draft the National AI Policy 2027-2032 within six months.
 
 </div>
 
