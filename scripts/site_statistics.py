@@ -232,7 +232,9 @@ def referrer_label(host: str) -> str:
     """One name for a family of referrers: LinkedIn's site, short links and app are one source."""
     h = host.lower()
     if h == "(none)":
-        return "Direct, bookmark or app"
+        # LinkedIn's mobile apps send no referrer, so most LinkedIn clicks land here (Bill,
+        # 2026-11-26: most views follow his LinkedIn posts). Only a tagged link can count them.
+        return "No referrer: apps (LinkedIn's included), bookmarks, typed"
     if "linkedin" in h or h == "lnkd.in":
         return "LinkedIn"
     if re.search(r"(^|\.)(google|bing|duckduckgo|baidu|yandex|ecosia|search\.yahoo)\.", h):
