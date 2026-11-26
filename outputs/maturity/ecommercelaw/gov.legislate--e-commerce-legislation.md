@@ -34,9 +34,9 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 
 Burundi's 2024 communications code governs e-commerce, and in June 2026 the regulator ordered online sellers to declare conformity; no declaration received is known.
 
-- ARCT issued a communiqué on 26 June 2026 calling e-commerce platforms and merchant sites to declare conformity, with a procedures manual, a conformity checklist and a declaration form annexed; it reports no declaration received or penalty ([source, 2026-06-26](https://arct.gov.bi/2026/06/26/appel-a-la-declaratio-n-de-conformite-des-plateformes-et-sites-marchands-de-commerce-electronique-au-burundi/)).
+- ARCT issued a communiqué on 26 June 2026 calling e-commerce platforms and merchant sites to declare conformity, with a procedures manual, a conformity checklist and a declaration form annexed; it reports no declaration received or penalty ([source, 2026-06-26](https://web.archive.org/web/20260729212203/https://arct.gov.bi/2026/06/26/appel-a-la-declaratio-n-de-conformite-des-plateformes-et-sites-marchands-de-commerce-electronique-au-burundi/)).
 - ARCT published national e-commerce ecosystem guidelines on 29 May 2026, drawn from the regulation in force, setting technical, operational and organisational standards for interoperability, transaction security and consumer protection ([source, 2026-05-29](https://arct.gov.bi/2026/05/29/lignes-directrices-de-lecosysteme-national-de-commerce-electronique-du-burundi/)).
-- ARCT states that e-commerce activity on Burundi's territory is subject to a prior conformity obligation, applying the provisions of the code des communications électroniques et postales ([source, 2026-06-26](https://arct.gov.bi/2026/06/26/appel-a-la-declaratio-n-de-conformite-des-plateformes-et-sites-marchands-de-commerce-electronique-au-burundi/)).
+- ARCT states that e-commerce activity on Burundi's territory is subject to a prior conformity obligation, applying the provisions of the code des communications électroniques et postales ([source, 2026-06-26](https://web.archive.org/web/20260729212203/https://arct.gov.bi/2026/06/26/appel-a-la-declaratio-n-de-conformite-des-plateformes-et-sites-marchands-de-commerce-electronique-au-burundi/)).
 
 ### Morocco: 5 Mature
 
