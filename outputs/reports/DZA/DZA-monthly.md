@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: DZA
 ledger_rows: 47
 not_held: 6
-record: aaca598db4fb
+record: 7c0e3dc75a3b
 ---
 
 # News, Oct – Nov 2026
@@ -701,6 +701,14 @@ Algeria's High Commission for Digitalisation added 20 services on 16 November 20
 **[مليونا مواطن مسجلون في البوابة الوطنية للخدمات الرقمية مع توفير 91 خدمة | الإذاعة الجزائرية](https://news.radioalgerie.dz/ar/node/99407)** — الإذاعة الجزائرية, 19 November 2026
 
 An expert of Algeria's High Commission for Digitisation said on 19 November 2026 that the national digital services portal offered 91 services. He gave about two million registered users and about 11 million visits. The 15 November account gave 71 services. The commission's target is 100 services by the end of 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Dzair Digital Services: Integration of 14 New CASNOS Digital Services | Algerian Radio](https://news.radioalgerie.dz/en/node/99841)** — Radio Algérienne, 25 November 2026
+
+Algeria's High Commission for Digitalization put 14 CASNOS services on the Dzair Digital Services portal on 24 November 2026. CASNOS is the social security fund for the self-employed. The services run from appeals and pension certificates to contribution declarations, online payment and appointments.
 
 </div>
 
