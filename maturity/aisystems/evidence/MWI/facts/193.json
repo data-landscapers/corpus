@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-24-mwi-unima-leads-ai-model-development-for-agrometeorological-advisory-syste",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The University of Malawi says it leads development and validation of an AI model for an agrometeorological advisory system under the NORAD-backed ARCS initiative, which was in expert review and farmer pretesting in September 2026.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "AI-enabled agrometeorological advisory system",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

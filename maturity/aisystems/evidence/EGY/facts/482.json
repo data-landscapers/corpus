@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-24-egy-alwafd-data-exchange-ai",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National AI Centre",
+   "country_label": "EGY",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The National AI Centre is named only as a body with a role; no model, dataset or computing is stated."
+}

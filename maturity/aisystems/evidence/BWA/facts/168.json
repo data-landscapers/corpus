@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-25-xaf-amini-wants-to-turn-africa-s-paper-archives-into-data-for-ai",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "TechCabal reports Amini's data science head saying Amini is working with Botswana's Ministry of Minerals and Energy to digitise decades of geological records with its Soma model, feeding the Kanzi platform that runs on national infrastructure.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "Kanzi",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kanzi",
+   "country_label": "Botswana",
+   "class": "localai",
+   "platform": "Soma-1X Lite",
+   "owner": "Amini with Ministry of Minerals and Energy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-25-xaf-amini-wants-to-turn-africa-s-paper-archives-into-data-for-ai",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "TechCabal describes Nigeria's Minetrix AI as a platform that aggregates government and other public records and makes them searchable through a multilingual AI platform.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "Minetrix AI",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Minetrix AI",
+   "country_label": "Nigeria",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

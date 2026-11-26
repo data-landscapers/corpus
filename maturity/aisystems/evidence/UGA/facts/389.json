@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-21-uga-ai-70-how-uganda-is-embracing-the-technology",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The Independent describes IntelliFarmAI as a Ugandan-built AI-powered farmer decision-support system, in use by a farmer in Napak district.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "IntelliFarmAI",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The Independent says the Mak Ocular System, developed at Makerere University with Google.org support, uses AI object detection on blood smears to spot malaria, tuberculosis and cervical cancer.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "Mak Ocular System",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

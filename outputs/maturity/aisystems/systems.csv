@@ -16,10 +16,12 @@ BFA,Sahal African Language Data Platform (SALDP),Burkina Faso,localai,language d
 BFA,Watige,Burkina Faso,localai,,,,2026-11-09-bfa-intelligence-artificielle-et-langues-nationales-le-burkina-faso-face-a
 BFA,LangueAfrique,Burkina Faso,localai,,,,2026-11-09-bfa-intelligence-artificielle-et-langues-nationales-le-burkina-faso-face-a
 BFA,KIX-ALERTE,Burkina Faso,localai,seeds.bf,ISSP / Universite Joseph KI-ZERBO,,2026-05-02-bfa-actualites-kix-seeds-burkina-faso
+BFA,NLLB-based national language models,CITADEL language models,localai,adapted NLLB models,"CITADEL, Universite virtuelle du Burkina Faso",,2026-11-25-bfa-semaine-du-numerique-2026-lopen-source-lia-les-langues-nationales-et-l
 BWA,Setswana AI,Botswana,localai,,Kitso Speaks and Glen Mokoka,,2025-02-07-bwa-speaks-mokoka-the-brains-behind-setswana-artificial-intelligence
 BWA,Uhuru,Botswana,localai,"WhatsApp, SMS, USSD, web app",Orion X,free; Pro,2025-07-23-bwa-how-uhuru-sets-to-resist-digital-imperialism
 BWA,Lesedi high-density computational facility,Botswana,localai,containerised computing on gas-fired power,Kala Data FZCO (operator) with Tlou Energy,,2025-03-11-bwa-agreement-for-data-centre-development-at-lesedi
 BWA,AskMolemi,AskMolemi,localai,WhatsApp,Chipo Mazhani,,2025-07-16-bwa-how-satellite-data-is-reaching-smallholder-farmers-in-botswana
+BWA,Kanzi,Botswana,localai,Soma-1X Lite,Amini with Ministry of Minerals and Energy,,2026-11-25-xaf-amini-wants-to-turn-africa-s-paper-archives-into-data-for-ai
 CAF,SangoAI,Central African Republic,localai,sangoai.sbs,MEYNG,,2026-05-13-caf-huggingface-sangoai-vocabulary-augmented-prompting
 CAF,MEYNG/sango-vocabulary,Central African Republic,localai,Hugging Face,MEYNG,,2026-05-13-caf-huggingface-sangoai-vocabulary-augmented-prompting
 CAF,AI centre of excellence,Central African Republic,other,,Government with Dure Technologie,,2025-06-25-caf-la-republique-centrafricaine-prepare-la-creation-d-un-centre-d-excelle
@@ -97,6 +99,7 @@ EGY,GPU-as-a-Service,Egypt,localai,cloud,e& Business,,2026-11-16-egy-mcit-tripar
 EGY,Karnak,Egypt,localai,,,,2026-11-17-egypt-senate-study-ai-economic-governance-data-hosting-options
 EGY,Public Prosecution AI data centre,Egypt,localai,,Public Prosecution,,2026-11-18-egy-youm7-public-prosecution-ai-limits-justice
 EGY,Sovereign AI data centre (Vodafone Business and Cassava Technologies),Egypt,localai,"Nvidia, GPU-as-a-Service",Vodafone Business and Cassava Technologies,,2026-11-21-egy-national-data-centre-strategy-consultancy
+EGY,National AI Centre,EGY,other,,,,2026-11-24-egy-alwafd-data-exchange-ai
 ERI,Dahlak LMs,Eritrea,localai,research.geezlab.com,GeezLab (GLaRe),,2026-01-01-eri-geezlab-glare-eritrean-language-ai-research
 ERI,Tigrigna speech to text,Eritrea,localai,speech recognition model,EIT Mai-Nefhi graduates,,2021-11-06-eri-shabait-tigrigna-speech-to-text-ai
 ERI,DESTA-1B,DESTA-1B,localai,Hugging Face,mewaeltsegay,,2026-01-01-eri-desta-1b-dedicated-eritrean-semitic-text-autoregressor
@@ -110,6 +113,7 @@ ETH,Ethiopian Artificial Intelligence Institute (EAII),Ethiopia,localai,,EAII,,2
 ETH,Ethiopian AI Institute language technologies,Ethiopia,localai,,Ethiopian Artificial Intelligence Institute,,2025-11-17-eth-ethiopian-ai-institute-becoming-africa-s-most-visible-influential-inst
 ETH,Ethiopian Artificial Intelligence Institute,Ethiopia,localai,,government,,2026-11-08-eth-digital-sovereignty-priority-for-africa-s-future-innovation-technology-state-m
 ETH,AI UniPod,Ethiopia,localai,GPUs via UNDP EDGE,"EAII, UNDP and Addis Ababa University",,2026-11-09-ethiopia-eaii-ai-hub-2030-medemer-unipod
+ETH,Addis-Aleph-1,Ethiopia,localai,,Addis AI,,2026-11-24-eth-avec-addis-ai-l-ethiopien-biniyam-daniel-transcrit-et-vocalise-sept-langues-africaines
 GAB,Obone AI,Obone AI,localai,,CSGR-IA,,2026-07-07-gab-institutions-consultatives-le-csgr-ia-recu-en-audience-par-le-2eme-vic
 GHA,national AI compute centre,Ghana,localai,,"Government of Ghana (Ministry of Communication, Digital Technology and Innovations)",,2026-10-15-gha-myjoyonline-sam-george-ai-5bn-compute-centre
 GHA,Twi language model,Ghana,localai,,KNUST,,2026-10-12-gha-myjoyonline-sam-george-knust-twi-ai-model
@@ -149,6 +153,9 @@ KEN,"Microsoft-G42 data centre, Olkaria",Kenya,other,,Microsoft and G42,,2026-08
 KEN,"Centre for Data Science and Artificial Intelligence, Dedan Kimathi University of Technology",Kenya,other,,Dedan Kimathi University of Technology,,2024-12-31-iati-xm-dac-301-2-110473-001-centre-for-data-science-and-artificial-intelligence-multidis
 KEN,AI Cloud Data Project (Phase One),Kenya,localai,"AI and cloud computing infrastructure, Eldoret",Government of Kenya with Chinese support (proposed),,2026-11-05-ken-kenya-seeks-chinese-support-for-digital-economy-and-ai-development
 KEN,HERCULES,"HERCULES power and AI data centre, Dongo Kundu, Mombasa",other,,AMACO Energy; ARISE IIP Kenya,,2026-11-06-ken-amaco-and-arise-iip-advance-us700-million-power-and-ai-infrastructure
+KEN,African Next Voices (Kenya component),Kenya,localai,speech dataset,Maseno University Centre for Applied AI,,2026-11-24-ieee-why-does-voice-ai-still-struggle-with-kenyans-speech
+KEN,Nia Voice Agent,Kenya,localai,voice agent,MsingiAI,,2026-11-24-ieee-why-does-voice-ai-still-struggle-with-kenyans-speech
+KEN,Fikra Swahili AI models,Kenya,localai,language models,Zabibu Technika,,2026-11-24-ieee-why-does-voice-ai-still-struggle-with-kenyans-speech
 LBR,CJ Lewis,Liberia,localai,Liblaw,Liblaw,,2026-08-03-liblaw-cj-lewis-legal-ai-liberia
 LBY,LIBIGPT,Libya,localai,generative AI model,Smart Co for Technology Projects and Artificial Intelligence,,2025-10-28-libigpt-first-generative-ai-launched-libyaherald
 LBY,Diwan Bot,Diwan Bot,other,,Libyan Audit Bureau,,2026-06-01-lby-lana-audit-bureau-diwan-bot
@@ -180,6 +187,7 @@ MAR,Core Nexus Systems computing platform,Morocco,localai,,,,2026-11-16-hespress
 MAR,GemMaroc,Morocco,localai,,,,2026-10-30-mar-plf-2027-l-etat-branche-sur-l-ia
 MAR,IsMa,Morocco,localai,,,,2026-10-30-mar-plf-2027-l-etat-branche-sur-l-ia
 MAR,AI Factory,Morocco,localai,,Nexus Core Systems Morocco,,2026-10-30-mar-plf-2027-l-etat-branche-sur-l-ia
+MAR,Jazari institutes,Morocco,other,,"Ministry of AI, Digital Transition and Administration Reform",,2026-11-24-mar-pr-sentation-du-projet-de-budget-sectoriel-2027-du-minist-re-de-l-inte
 MDG,Technopole Madagascar,Madagascar,other,,Technopole Madagascar,,2026-01-01-mdg-technopole-madagascar-entrepreneuriat-numerique
 MLI,Centre d'intelligence artificielle et de robotique,Mali,other,,,,2026-09-28-mli-ai-robotics-centre-sovereignty-diallo
 MLI,Centre d'Intelligence Artificielle et Robotique du Mali,Mali,other,,,,2026-07-06-mali-discours-dialogue-mondial-gouvernance-ia
@@ -240,6 +248,7 @@ NGA,N-ATLAS,Nigeria,localai,,NITDA,,2026-11-11-nga-nitda-review-digital-strategy
 NGA,National AI Glossary Project,Nigeria,localai,,Data Science Nigeria,,2026-11-10-nigeriastartupact-google-ai-nigerian-languages
 NGA,Airtel AI-powered spam alert service,Nigeria,other,,Airtel Africa,,2026-11-19-xaf-ecofin-ai-fraud-checks-block-real-customers
 NGA,NORA,Nigeria (Anambra State),localai,adapted open-source technology,Anambra State ICT Agency,state,2026-11-13-nga-von-anambra-digital-handbook-nora-ai-assistant
+NGA,Minetrix AI,Nigeria,localai,,,,2026-11-25-xaf-amini-wants-to-turn-africa-s-paper-archives-into-data-for-ai
 RWA,NISR survey coding model,Rwanda,localai,machine learning model trained on NISR coded survey data since 2017; Android app for enumerators exists,National Institute of Statistics of Rwanda (NISR),national,2026-10-01-cenfri-award-winner-ngirinshuti-ai-model-rwanda-statistical-analysis
 RWA,UNDP country-hosted AI compute,Rwanda,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 RWA,Kinyarwanda voice dataset on Common Voice,Rwanda,localai,Mozilla Common Voice,Digital Umuganda; Mozilla Foundation,,2024-05-24-rwa-voice-technology-infrastructure-for-artificial-intelligence-engine-in
@@ -271,6 +280,7 @@ SOM,Natural Language Processing for Somalia,Somalia,localai,,SIMAD AI Institute,
 SOM,Himilo 7B,Somalia,localai,,Sykli Intelligence,,2025-03-13-som-himilo-7b-our-pioneering-somali-language-model
 SOM,Somali-Language AI & Innovation Lab (SAIL),SAIL,localai,,Jamhuuriya University and University of Djibouti,,2026-04-12-dji-djibouti-and-somalia-launch-joint-initiative-to-advance-ai-in-the-soma
 SOM,SomBERTa,Somalia,localai,,Jamhuriya University of Science and Technology,,2026-04-07-som-jamhuriya-university-launches-somalia-s-first-somali-language-ai-lab-t
+SOM,National AI centre at Somali National University,SOM,other,,Somali National University,,2026-10-23-som-somalia-s-government-needs-ai-rules-before-buying
 SSD,YoGage AI,South Sudan,localai,Juba Arabic dataset for AI,Go Girl ICT Initiative,,2025-06-20-ssd-eyeradio-yogage-ai-juba-arabic-dataset
 SSD,JunubAI,South Sudan,localai,AI platform for building businesses online,,,2025-07-29-ssd-indabax-south-sudan-2025-igniting-the-future-of-ai-in-south-sudan
 STP,DireitosAoPovo,DireitosAoPovo,localai,AI-augmented access-to-justice platform,UNODC,,2026-06-26-stp-un-convenes-sao-tome-and-principe-s-justice-and-security-leaders-on-cy
@@ -313,6 +323,7 @@ UGA,Sunflower v2,Uganda,localai,Hugging Face,Sunbird AI,,2026-09-24-uga-sunbird-
 UGA,Makerere University Artificial Intelligence for Development Research Lab,Uganda,other,,Makerere University,,2024-12-31-iati-xm-dac-301-2-110476-001-makerere-university-artificial-intelligence-for-development
 UGA,UCC Testbed Hackathon,40 innovators selected to build AI child-safety solutions,other,,UCC,,2026-11-06-uganda-considers-tracking-childrens-sim-cards
 UGA,Airtel AI-powered spam alert service,Uganda,other,,Airtel Africa,,2026-11-19-xaf-ecofin-ai-fraud-checks-block-real-customers
+UGA,Mak Ocular,Mak Ocular,localai,AI-powered mobile microscopy,Makerere University,,2025-11-08-uga-government-pushes-for-indigenous-ai-solutions-in-health-at-2nd-ai-in-h
 ZAF,UNDP country-hosted AI compute,South Africa,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 ZAF,MzansiLM / MzansiText,South Africa,localai,,University of Cape Town,,2026-05-04-zaf-uct-researchers-develop-ai-model-for-11-south-african-languages
 ZAF,African Compute Initiative (ACI),South Africa,localai,"GPU servers, multi-petabyte storage, OpenStack and Ceph",University of Cape Town,,2026-03-26-zaf-uct-to-lead-africa-s-first-higher-education-dedicated-ai-compute-initi
@@ -345,3 +356,4 @@ ZWE,High-performance computing facility,Zimbabwe,other,,Government,,2026-02-08-z
 ZWE,Chillmine solar-powered data centres (planned),Zimbabwe,localai,AI Infrastructure-as-a-Service and cryptomining hosting,Chillmine,,2025-04-28-zwe-chillmine-energywise-to-develop-solar-powered-data-centers-in-zimbabwe
 ZWE,Pangolin AI,Zimbabwe,localai,national AI and data platform,"Ministry of ICT, Postal and Courier Services",,2026-10-28-zimbabwe-to-fully-operationalise-pangolin-ai-platform-by-q1-2027
 ZWE,AI for Impact programme,Zimbabwe,localai,,POTRAZ,,2026-10-29-zwe-potraz-says-it-is-now-a-gateway-for-investors-not-a-gatekeeper
+ZWE,CROPFIX,Zimbabwe,localai,WhatsApp and text messages,Zimbabwean youth-led startup,,2026-01-30-zwe-fao-showcases-ai-driven-agriculture-solutions-at-zimbabwe-defence-univ
