@@ -43,7 +43,7 @@ from status_lib import EXCHANGE  # noqa: E402
 COLUMNS = ["object", "kind", "purpose", "purpose_from", "read_by", "written_by"]
 
 # Logs that a runbook works down, oldest first, until empty: a queue, not a record.
-QUEUES = {"logs/budget-followups.md", "logs/budget-changelog-pending.md", "logs/link-dead/",
+QUEUES = {"logs/budget-followups.md", "logs/link-dead/",
           "logs/requests-for-osint.csv"}
 
 # Folders whose files cannot state a purpose themselves (a CSV has no docstring) keep one line each

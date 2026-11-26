@@ -4,7 +4,6 @@ One line a file or folder, read by `scripts/inventory.py` as its purpose (R168).
 
 - `aiddata-constant-usd/`: a one-off check of AidData's held commitments against the first dollar figure in each record's text.
 - `baseline-not-held-rows.csv`: region progress rows with movement but no baseline, the baseline filler's worklist.
-- `budget-changelog-pending.md`: budget change-log entries held back until the budgets launch.
 - `budget-extract.csv`: one row per budget document read by `BUDGET-EXTRACT.md`, with its lines, scope, stages and cost.
 - `budget-followups.md`: budget readings still owed, worked oldest first by the cycle's finance upkeep.
 - `budget-functions.csv`: check B of the budget data review, each country's core functions found or missing in its budget.

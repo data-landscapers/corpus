@@ -63,9 +63,8 @@ Then, from the repo root:
 
 1. `python scripts/rebuild.py --all` if more than one country moved, else the single-place build above is enough.
 2. Commit the source file and the rebuilt `outputs/` together — they are one change: `BUDGET-EXTRACT {ISO3} FY{year}: N lines from {document}`.
-3. **A change-log entry, in the same commit.** Two terse sentences under today's date in `content/changelog.md`: what was read, and what it means for a reader — which years, which stages, and whether it replaced a thinner reading.
-4. Run a cycle's *Render* and *Mirror* so the Finance page and its dated CSV carry it.
-5. One line in `logs/log.md` via `python scripts/log-line.py budget-extract "…"`, and one row in `logs/budget-extract.csv`.
+3. Run a cycle's *Render* and *Mirror* so the Finance page and its dated CSV carry it.
+4. One line in `logs/log.md` via `python scripts/log-line.py budget-extract "…"`, and one row in `logs/budget-extract.csv`.
 
 ## The log
 

@@ -90,7 +90,7 @@ The reason is the direction of dependency. The site is a derived view of the wik
 
 ## The change log
 
-**A change a reader could notice gets an entry in `content/changelog.md` in the same commit** *(Bill, 2026-09-17)*: a new feature, a page or link that moves, a correction across many reports. Routine builds and renders, and changes readers cannot see, get none. Dated to the day under a `## D Month YYYY` heading, newest first; **two terse sentences an entry** — what changed, then what it means for the reader. `scripts/methodology.py` publishes it at `/methodology/changelog/` on the next render. **OSINT drafts its own entries** and sends them as a `corpus-notes` note titled *Add to change log* (`osint-notes` 142): add them as sent, editing only for length or house style, and close the note.
+**The change log carries site changes only** *(Bill, 2026-09-17; narrowed 2026-11-26, R171)*: a new feature, a page or link that moves, a correction across many reports, in `content/changelog.md` in the same commit. Stage changes, budget publications, moved figures, routine builds and changes readers cannot see get none; entries already published stay. Dated to the day under a `## D Month YYYY` heading, newest first; **two terse sentences an entry** — what changed, then what it means for the reader. `scripts/methodology.py` publishes it at `/methodology/changelog/` on the next render. **OSINT drafts its own entries** and sends them as a `corpus-notes` note titled *Add to change log* (`osint-notes` 142): add one that passes the same test, editing only for length or house style; close one that does not, unadded.
 
 ## Documentation caps
 
