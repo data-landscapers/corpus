@@ -162,6 +162,7 @@ Angola's national AI strategy was drafted and awaiting formal approval in 2026; 
 Botswana's national AI policy was a draft submitted to Parliament in 2026; no source found says it has been adopted.
 
 - A Parliament of Botswana researcher writes that the Government of Botswana is advancing toward finalizing its first National Artificial Intelligence Policy, which the brief calls the draft AI Policy ([source, 2026-07-28](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7263340)).
+- The Probe Journal's essay says the Ministry describes a National AI Policy as in its final stage of development, informed by a UNESCO AI Readiness Assessment ([source, 2026](https://theprobe.co.bw/the-ai-question-botswana-cannot-avoid/)).
 
 ### Burkina Faso: 2 Nascent
 
@@ -288,9 +289,10 @@ Sierra Leone was developing its first national AI strategy with the World Bank i
 
 ### Somalia: 2 Nascent
 
-Somalia began work on a national AI strategy with UN-ESCWA in 2025; no source found says whether it has been adopted.
+Somalia began work on a national AI strategy with UN-ESCWA in 2025; in October 2026 none had been adopted.
 
 - UN-ESCWA's terms of reference say the National Communication Authority asked ESCWA to help develop Somalia's national AI strategy and ESCWA is hiring a local consultant to draft it, for review at a national workshop ([source, 2025](https://untalent.org/jobs/local-consultant-for-the-development-of-artificial-intelligence-strategy-in-somalia)).
+- Sombiz states that Somalia has no adopted AI strategy or policy, and that OECD.AI lists no AI policy initiative for the country ([source, 2026-10-23](https://sombiz.so/insights/somalia-ai-rules-for-government)).
 
 ### South Africa: 2 Nascent
 

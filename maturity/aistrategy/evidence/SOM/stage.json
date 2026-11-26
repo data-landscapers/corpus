@@ -8,10 +8,10 @@
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SOM-002",
-      "gaps": "No source found says a national AI strategy is adopted and still running.",
-      "note": "ESCWA was hiring a consultant in 2025, at the National Communication Authority's request, to draft the national AI strategy, so one is being written and the May 2026 report of no adopted strategy does not hold stage 1; nothing says it was adopted.",
-      "as_at": "2026-10-22"
+      "stage_sources": "SOM-002;SOM-003",
+      "gaps": "No source found says a national AI strategy is adopted and still running. Sombiz said in October 2026 that none is adopted (SOM-003); it does not say none is being written.",
+      "note": "Fact 2026-11-26: Sombiz's October 2026 report that Somalia has no adopted AI strategy confirms no adoption, and ESCWA's 2025 drafting stands, so the cell stays at 2 and not at 1.",
+      "as_at": "2026-11-26"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-13-mar-intelligence-artificielle-un-prompt-made-in-morocco",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "LesEco.ma reports Minister Amal El Fallah Seghrouchni presenting the 'AI Made in Morocco' strategy, built on three pillars and 18 priority sectors, at an event in Rabat.",
+   "as_of": "2026-01-12",
+   "date_precision": "day",
+   "system": "AI Made in Morocco",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "LesEco.ma reports the creation of the Jazari Institutes network of centres of excellence, led by Jazari Root, as a strategic pillar of the Morocco 2030 strategy to build lasting national AI capacity for the state.",
+   "as_of": "2026-01-12",
+   "date_precision": "day",
+   "system": "Jazari Institutes",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jazari Institutes",
+   "country_label": "MAR",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

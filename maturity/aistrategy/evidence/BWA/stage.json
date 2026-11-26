@@ -1,16 +1,17 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-002",
-   "gaps": "No source found says a national AI strategy is adopted and still running.",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-002;BWA-007",
+      "gaps": "No source found says a national AI strategy is adopted and still running. An unsigned essay of August 2026 says a strategy was released in 2023 (BWA-006), but names no cabinet approval or validation, and the same essay calls the AI policy still in its final stage.",
+      "note": "Fact 2026-11-26: the essay's 2023 release names no approval and the ministry still describes its AI policy as in final development in 2026, so the newest facts hold the policy in draft and the cell stays at 2.",
+      "as_at": "2026-11-26"
+    }
+  ]
 }

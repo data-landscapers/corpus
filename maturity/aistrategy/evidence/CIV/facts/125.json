@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-24-civ-cote-divoire-aip-les-senateurs-formes-aux-enjeux-et-aux-applications-d",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "AIP reports that Futur Africa is supporting the digital-transition ministry in drafting Cote d'Ivoire's national artificial intelligence strategy 2026-2030.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "National AI strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-28-zaf-ai-regulation-south-africa-where-the-law-stands-in-2026",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Zaiq says a draft National AI Policy approved by Cabinet on 25 March 2026 and gazetted on 10 April was withdrawn on 26 April, an independent panel was appointed in May to rebuild it, and a revised draft is targeted for comment in January 2027.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

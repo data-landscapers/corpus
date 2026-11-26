@@ -9,9 +9,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MAR-004;MAR-003",
-      "gaps": "No source found says Morocco AI 2030 has been adopted or validated: the minister told parliament on 10 November 2026 that he was launching it. Digital Morocco 2030 names AI as one lever of a digital strategy, which does not count. No body named to carry it out has been found.",
-      "note": "Bill's ruling (messages-for-bill 132): a minister's launch is not adoption, and formal validation is needed. The minister launched the roadmap in November 2026 with no adoption stated, so stage 2.",
-      "as_at": "2026-11-16"
+      "gaps": "No source found says Morocco AI 2030 has been adopted or validated: the minister presented AI Made in Morocco in January 2026 (MAR-007) and told parliament on 10 November 2026 that he was launching Morocco AI 2030, with no adoption stated. Digital Morocco 2030 names AI as one lever of a digital strategy. The JAZARI network (MAR-008) is a pillar of the roadmap, not a body named to carry it out.",
+      "note": "Bill's ruling (messages-for-bill 132): a minister's launch is not adoption, and formal validation is needed. Fact 2026-11-26: the January 2026 presentation of AI Made in Morocco states no adoption either, so stage 2.",
+      "as_at": "2026-11-26"
     }
   ]
 }

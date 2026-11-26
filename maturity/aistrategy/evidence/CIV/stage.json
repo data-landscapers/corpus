@@ -1,16 +1,17 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "3",
-   "standing": "adopted",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-005;CIV-006",
-   "gaps": "No source found names a body set up or named to carry out the strategy: a council, office, agency, committee or ministry unit.",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "3",
+      "standing": "adopted",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-005;CIV-006",
+      "gaps": "No source found names a body set up or named to carry out the strategy: a council, office, agency, committee or ministry unit. AIP's November 2026 passing mention of a firm helping draft a 2026-2030 strategy (CIV-017) disagrees with the adoption reports and states no withdrawal or lapse.",
+      "note": "Fact 2026-11-26: AIP mentions a firm assisting the ministry with drafting the 2026-2030 strategy, but the minister spoke of implementing the adopted strategy in September 2026 and no source says it lapsed, so the cell stays at 3.",
+      "as_at": "2026-11-26"
+    }
+  ]
 }
