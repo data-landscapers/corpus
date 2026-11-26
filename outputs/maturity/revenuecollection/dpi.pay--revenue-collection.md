@@ -378,7 +378,7 @@ Some taxes or fees could be paid electronically in 2025; no source found reports
 Electronic payment of taxes or fees was under way in 2026; none in service is on record.
 
 - The Directorate General of Taxes launched a three-day workshop on 15 April 2026, funded by AFD's PAGFSI project, to validate the legal framework for fiscal teleprocedures and prepare the progressive rollout of tax e-filing (télédéclaration) and e-payment (télépaiement) under the 2026 finance law ([source, 2026-04-15](https://finances.gouv.km/actualite_post/atelier-dgi-au-retaj-sur-la-validation-du-cadre-juridique-des-teleprocedures-fiscales-2026/)).
-- The Directorate General of Taxes launched a three-day workshop on 15 April 2026, supported by AFD's PAGFSI project, to validate the legal framework for fiscal teleprocedures and prepare the progressive rollout of tax e-filing (télédéclaration) and e-payment (télépaiement) under the 2026 finance law ([source, 2026-04-15](https://dgi.gouv.km/fr/actualite.php?article_id=93)).
+- The Directorate General of Taxes launched a three-day workshop on 15 April 2026, supported by AFD's PAGFSI project, to validate the legal framework for fiscal teleprocedures and prepare the progressive rollout of tax e-filing (télédéclaration) and e-payment (télépaiement) under the 2026 finance law ([source, 2026-04-15](https://web.archive.org/web/20260520073604/http://dgi.gouv.km/fr/actualite.php?article_id=93)).
 
 ### Djibouti: 2 Nascent
 
