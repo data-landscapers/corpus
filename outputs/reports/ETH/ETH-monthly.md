@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: ETH
-ledger_rows: 41
+ledger_rows: 44
 not_held: 5
-record: 66789dbcc893
+record: 5054ec2cb1b0
 ---
 
 # News, Oct – Nov 2026
@@ -217,6 +217,42 @@ Faydaverse, the state enterprise created from Ethiopia's national digital ID pro
 **[IFC Invests in Kifiya’s AI Infrastructure to Connect Capital to Africa’s Real Economy - Kifiya Financial Technology](https://kifiya.com/2026/11/05/ifc-invests-in-kifiyas-ai-infrastructure-to-connect-capital-to-africas-real-economy/)** — Kifiya Financial Technology, 5 November 2026
 
 Kifiya Financial Technology announced on 4 November 2026, at the Africa Financial Summit in Luanda, an investment agreement with IFC, its first investment in the company. The release says it will scale Kifiya's agricultural fintech and rural reach work. No amount was disclosed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EU Global Gateway green and digital trade action for the Horn of Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU, Ethiopia, Djibouti, Somalia and TradeMark Africa launch four-year Global Gateway partnership](https://trademarkafrica.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — TradeMark Africa, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
+
+EUR 20m EU Global Gateway programme, signed 23 Nov 2026; TMA implements digital trade and transport systems.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU commits €20 million to green and digital trade across Ethiopia, Djibouti and Somalia](https://borkena.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — Borkena, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a>
+
+The EU committed €20 million in Addis Ababa on 25 November 2026 to a four-year Global Gateway programme with Ethiopia, Djibouti, Somalia and TradeMark Africa. It covers digital and green trade and transport systems. It extends the existing €32 million Djibouti–Ethiopia corridor programme.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Eastern Africa Regional Digital Integration Project, second phase (Djibouti and Ethiopia)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia and World Bank Review Regional Digital Integration Project](https://techafricanews.com/2026/11/25/ethiopia-world-bank-review-regional-digital-integration-project/)** — TechAfrica News, 25 November 2026
+
+Ethiopia and the World Bank agreed a joint review of the Eastern Africa Regional Digital Integration Project, reported on 25 November 2026. The review is to restructure activities and speed up implementation. It comes as the Ethiopia Digital Foundations Project closes.
 
 </div>
 
@@ -668,6 +704,20 @@ Ethiopia scored 2.12 out of 4 on the Africa AI Governance Index 2026, in the Dev
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Addis AI speech and language models</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Avec Addis AI, l’Ethiopien Biniyam Daniel transcrit et vocalise sept langues africaines](https://www.wearetech.africa/fr/fils/tech-stars/avec-addis-ai-l-ethiopien-biniyam-daniel-transcrit-et-vocalise-sept-langues-africaines)** — wearetech.africa, 24 November 2026
+
+Addis AI, founded 2023: speech, transcription and text models in Amharic, Afaan Oromo and five more languages.
+
+</div>
+
+</div>
+
 ### Innovation ecosystem
 
 <div class="monthly-story" markdown="1">
@@ -722,7 +772,7 @@ Ethiopia's AI Institute opened a residency for 51 AI start-up founders from 12 A
 
 <div class="bulletin-item" markdown="1">
 
-**[Ethiopian Institution of the Ombudsman](http://ethombudsman.gov.et/)** — Ethiopian Institution of the Ombudsman, 17 October 2026
+**[Ethiopian Institution of the Ombudsman](https://web.archive.org/web/20260604073843/http://www.ethombudsman.gov.et/)** — Ethiopian Institution of the Ombudsman, 17 October 2026
 
 The Ethiopian Institution of the Ombudsman's website says it has resolved more than 48,500 complaints of maladministration through 14 regional offices. It also reports 1.5 million public enquiries and a 96.4% compliance rate by institutions; the figures carry no date.
 
