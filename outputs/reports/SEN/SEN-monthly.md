@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-24
-period: 2026-10-01 to 2026-11-24
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: SEN
-ledger_rows: 65
+ledger_rows: 68
 not_held: 2
-record: 9be39b6df7e4
+record: e6177ba1303b
 ---
 
 # News, Oct – Nov 2026
@@ -111,6 +111,20 @@ The manager of Senegal's national data centre at Diamniadio said 10% to 20% of t
 **[Santé numérique, le vide juridique qui fragilise la protection des données des patients](https://www.seneplus.com/article/sante-numerique-le-vide-juridique-qui-fragilise-la-protection-des-donnees-des-patients)** — SenePlus, 4 November 2026
 
 A Transform Health Senegal consultation found 65.8% of respondents unaware that Senegal has no specific health data law. The non-representative sample also found 44.7% saying their consent is never sought before their medical data is shared. A draft digital health bill remains under government review, the coalition says.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Startup Act and labelling process</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Projet de budget 2027 — Rapport de présentation, Ministère des Télécommunications et du Numérique](https://www.vie-publique.sn/docs/20af2016-38f3-422b-b9a2-c95a8bc51add/rapport-presentation-projet-budget-2027-mtn-senegal.pdf)** — Ministère des Télécommunications et du Numérique (Sénégal), 6 November 2026
+
+Senegal digital ministry's 2027 budget case: FCFA 64.97bn in four programmes, PAENS under 10% executed in 2026.
 
 </div>
 
@@ -250,6 +264,14 @@ Senegal's Special Cybersecurity Division detained Sen TV columnist Mamadou 'Momo
 
 <p class="monthly-story__name">Telecommunications ministry 2027 budget bill</p>
 
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Projet de budget 2027 — Rapport de présentation, Ministère des Télécommunications et du Numérique](https://www.vie-publique.sn/docs/20af2016-38f3-422b-b9a2-c95a8bc51add/rapport-presentation-projet-budget-2027-mtn-senegal.pdf)** — Ministère des Télécommunications et du Numérique (Sénégal), 6 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
 <div class="bulletin-item" markdown="1">
 
 **[Sénégal : le numérique et la Poste au cœur du budget 2027 des Télécommunications](https://fr.apanews.net/technologies/senegal-le-numerique-et-la-poste-au-coeur-du-budget-2027/)** — APAnews, 13 November 2026
@@ -263,6 +285,14 @@ Senegal's Ministry of Telecommunications and Digital Affairs presented a 2027 bu
 **[Senegal MPs reject 2027 digital ministry budget](https://www.socialnetlink.org/2026/11/15/senegal-2027-budget-telecommunications-digital-ministry-mps/)** — Socialnetlink, 15 November 2026
 
 Committees of Senegal's National Assembly declined on 13 November 2026 to approve the 2027 draft budget of the Ministry of Telecommunications and Digital Affairs. MPs questioned the consistency of the forecasts behind FCFA 64.97 billion in payment appropriations. A committee rejection is not final, and the bill continues through parliamentary procedure.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Budget 2027 du numérique : la plénière de vendredi est bloquée, et 65 milliards de FCFA de projets attendent leur sort](https://novotech.blog/article/budget-2027-du-numerique-la-pleniere-de-vendredi-est-bloquee-et-65-milliards-de)** — NovoTech, 25 November 2026
+
+Senegal's FCFA 64.97 billion 2027 digital ministry budget cannot go to its 27 November plenary, NovoTech reported on 25 November 2026. The National Assembly rejected the first part of the finance bill on 18 November, which bars debate on ministry credits. The minister's report shows the PAENS programme spent under 10% of its 2026 funds. None of over 400 Startup Act registrants had been labelled by 30 June 2026.
 
 </div>
 
@@ -459,6 +489,8 @@ Senegal's cybersecurity directorate, the DCSSI, put online a new institutional p
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
@@ -469,6 +501,22 @@ Senegal's cybersecurity directorate, the DCSSI, put online a new institutional p
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Interconnection of the APPEL procurement platform with the SYSBUDGED budget systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ARTICULATION ENTRE PLANIFICATION DES MARCHÉS ET PROGRAMMATION BUDGÉTAIRE : Les modalités d’interconnexion entre APPEL et SYSBUDGED mobilisent plusieurs services de l’administration budgétaire](https://arcop.sn/2026/11/24/articulation-entre-planification-des-marches-et-programmation-budgetaire-les-modalites-dinterconnexion-entre-appel-et-sysbudged-mobilisent-plusieurs-services-de-ladministration-bud/)** — Autorite de Regulation de la Commande Publique (ARCOP), 24 November 2026
+
+Workshop of 17 Nov 2026 maps procurement plans on APPEL to SYSBUDGED budget tools; implementation terms still open.
+
+</div>
+
+</div>
 
 ### Digital Identity and CRVS
 
@@ -1085,6 +1133,20 @@ Senegal's parliamentary commission of inquiry into the One Student, One Computer
 **[L’ANSD envisage de faciliter l’accès à distance aux données anonymisées (DG)](https://aps.sn/lansd-envisage-de-faciliter-lacces-a-distance-aux-donnees-anonymisees-dg/)** — Agence de Presse Sénégalaise, 13 October 2026
 
 Senegal's statistics agency is working towards remote access for authorised researchers to the anonymised detailed data now consulted on site in its data-access centres. Its director-general named personal-data protection, access security and conditions of use as the questions to settle.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics development fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Allocution du Premier Ministre Ahmadou Alhaminou Mohamed LO à l'occasion de l’ouverture des travaux du Forum international sur les données](https://primature.sn/publications/actualites/allocution-du-premier-ministre-ahmadou-alhaminou-mohamed-lo-loccasion-de)** — Primature du Senegal, 23 November 2026
+
+Primary text: African guidelines sought on statistics offices' access to private big data; statistics fund in principle.
 
 </div>
 
