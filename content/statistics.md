@@ -34,6 +34,18 @@ Top 15 countries by views of their pages, from October 2026.
 
 <!-- stat: site-countries -->
 
+## Where readers come from
+
+Page loads by the site that sent the reader, from October 2026. Moves within our own sites are left out. Counts are Cloudflare's estimates from a sample.
+
+<!-- stat: referrers -->
+
+## Alert subscribers
+
+Confirmed subscribers to catalogue alerts, at the last reading each month.
+
+<!-- stat: subscribers -->
+
 ## Citations
 
 Most recent citations of this work, up to 10.

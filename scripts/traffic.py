@@ -77,6 +77,9 @@ LOGS = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
 ACCESS = os.path.join(LOGS, "site-analytics-access.csv")
 PAGES = os.path.join(LOGS, "site-analytics-pages.csv")
 COUNTRIES = os.path.join(LOGS, "site-analytics-countries.csv")
+REFERRERS = os.path.join(LOGS, "site-analytics-referrers.csv")
+SUBSCRIBERS = os.path.join(LOGS, "site-analytics-subscribers.csv")
+BUTTONDOWN_KEY = os.path.join(os.path.dirname(LOGS), "prep", "Buttondown-api-key.txt")
 ISO3 = os.path.join(os.path.dirname(LOGS), "lookups", "countries.csv")
 API = "https://api.cloudflare.com/client/v4/graphql"
 ZONES = {"data-landscapers.io": "e6663237e18dfc5241e44003a2b1d976",
@@ -230,6 +233,14 @@ def pull(quiet: bool) -> int:
         con.execute("VACUUM")
     con.close()
     note = ""
+    # Distribution on the record (R194): failures here are noted, never stop the request pull.
+    try:
+        if (n := referrers(tok or token())):
+            added.append(f"referrers {n} day(s)")
+        if subscribers():
+            added.append("subscribers")
+    except (OSError, RuntimeError, KeyError, ValueError) as e:
+        note += f" · referrers or subscribers not pulled: {e}"
     if any(not os.path.exists(f) or os.path.getmtime(f) < os.path.getmtime(DB) for f in (ACCESS, PAGES, COUNTRIES)):
         try:
             tables()
@@ -403,6 +414,77 @@ def report(day: str | None) -> int:
     for p, n in pages.most_common(15):
         print(f"  {n:6}  {p}")
     return 0
+
+
+RUM_QUERY = ("query($t:String!,$a:Time!,$b:Time!){viewer{accounts(filter:{accountTag:$t}){"
+             "rumPageloadEventsAdaptiveGroups(limit:10000,filter:{datetime_geq:$a,datetime_lt:$b}){"
+             "count dimensions{date requestHost refererHost}}}}}")
+RUM_DAYS = 90           # the account may ask 13 weeks of the beacon dataset at once
+
+
+def own_host(host: str) -> bool:
+    return host == "data-landscapers.io" or host.endswith((".data-landscapers.io", "data-landscapers.com"))
+
+
+def referrers(tok: str) -> int:
+    """R194. Page loads by the site that sent the reader, a row a day, site and referrer, appended
+    to REFERRERS for every complete day not yet held, back to `RUM_DAYS`. The request log has no
+    referrer on the Free plan; the beacon dataset (Web Analytics) does. Beacon page loads are
+    browsers that ran the page, so bots are mostly out, but Bill's own views are in: the beacon
+    carries no address. The dataset is sampled, so a count is Cloudflare's estimate, often a round ten.
+    A move inside the two sites is not a referral and is not kept; no referrer is `(none)`, which
+    is typed addresses, bookmarks, mail clients and apps that strip it."""
+    held = {r["Date"] for r in csv.DictReader(open(REFERRERS, encoding="utf-8"))} if os.path.exists(REFERRERS) else set()
+    today = dt.datetime.now(dt.timezone.utc).date()
+    days = [today - dt.timedelta(days=n) for n in range(RUM_DAYS, 0, -1)]
+    last = max(held, default="")          # a day with no page loads writes no row, so key on the last
+    want = [d for d in days if d.isoformat() > last]
+    if not want:
+        return 0
+    zone = json.load(urllib.request.urlopen(urllib.request.Request(
+        "https://api.cloudflare.com/client/v4/zones/" + ZONES["data-landscapers.io"],
+        headers={"Authorization": f"Bearer {tok}"}), timeout=60))
+    body = json.dumps({"query": RUM_QUERY, "variables": {
+        "t": zone["result"]["account"]["id"], "a": f"{want[0]}T00:00:00Z", "b": f"{today}T00:00:00Z"}})
+    with urllib.request.urlopen(urllib.request.Request(API, data=body.encode(), headers={
+            "Authorization": f"Bearer {tok}", "Content-Type": "application/json"}), timeout=120) as r:
+        d = json.load(r)
+    if d.get("errors"):
+        raise RuntimeError(d["errors"][0].get("message"))
+    n = collections.Counter()
+    for g in d["data"]["viewer"]["accounts"][0]["rumPageloadEventsAdaptiveGroups"]:
+        x = g["dimensions"]
+        if x["date"] in held or own_host(x["refererHost"]):
+            continue
+        n[(x["date"], x["requestHost"], x["refererHost"] or "(none)")] += g["count"]
+    rows = [["Date", "Site", "Referrer", "Pageloads"]] if not held else []
+    rows += [[*k, v] for k, v in sorted(n.items())]
+    with open(REFERRERS, "a", encoding="utf-8", newline="") as fh:
+        csv.writer(fh, lineterminator="\n").writerows(rows)
+    return len({k[0] for k in n})
+
+
+def subscribers() -> int:
+    """R194. The alert list's confirmed subscribers, one row a day in SUBSCRIBERS, from Buttondown's
+    API. The key is the first word of the git-ignored `prep/Buttondown-api-key.txt`. 0 when today
+    is held or the key cannot be read."""
+    today = dt.date.today().isoformat()
+    held = {r["Date"] for r in csv.DictReader(open(SUBSCRIBERS, encoding="utf-8"))} if os.path.exists(SUBSCRIBERS) else set()
+    if today in held:
+        return 0
+    try:
+        key = open(BUTTONDOWN_KEY, encoding="utf-8").read().split()[0]
+    except (OSError, IndexError):
+        return 0
+    req = urllib.request.Request("https://api.buttondown.com/v1/subscribers?type=regular&page_size=1",
+                                 headers={"Authorization": f"Token {key}"})
+    count = json.load(urllib.request.urlopen(req, timeout=60))["count"]
+    with open(SUBSCRIBERS, "a", encoding="utf-8", newline="") as fh:
+        w = csv.writer(fh, lineterminator="\n")
+        if not held:
+            w.writerow(["Date", "Subscribers"])
+        w.writerow([today, count])
+    return 1
 
 
 def main() -> int:

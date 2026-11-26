@@ -37,6 +37,14 @@ A table of the top 15 countries whose pages were visited over the past six month
 Selection - top 15 by six-month total
 Rows = countries. Columns = months
 
+## Where readers come from (logs\site-analytics-referrers.csv)
+
+A table of page loads by referring source, months as columns, from Oct 2026 (R194). LinkedIn, search engines, AI assistants, other social media and mail apps are each one row; other hosts stand alone.
+
+## Alert subscribers (logs\site-analytics-subscribers.csv)
+
+Confirmed subscribers at the last reading of each month (R194). Search impressions join this section once a Search Console account exists (R176).
+
 ## Citations (corpus-osint-xfer\citations.csv)
 
 Most recent 10 citations.

@@ -46,7 +46,7 @@ A record arriving before stage 2 is built; later ones are the next cycle's.
 ## The run
 
 1. **Drain `corpus-notes.md`**, as above. Nothing open — go to 2.
-1a. **Run `python scripts/traffic.py pull`**, then commit the three `logs/site-analytics-*.csv` alone if they changed, subject `Analytics: <newest day>`. A failure is a log line, never a hold.
+1a. **Run `python scripts/traffic.py pull`**, then commit the `logs/site-analytics-*.csv` alone if they changed, subject `Analytics: <newest day>`. A failure is a log line, never a hold.
 1b. **Send dead links** if `python scripts/link-check.py owed` exits 1: `link-check.py batch`, commit both its CSVs (`Links: dead batch <date>`), then the `[ACT]` note its docstring describes.
 2. **Read the sentinel.** If `logs/.build-in-progress` is present, an earlier build died unaccounted. **In a cycle this is a note, not a stop**: the run about to start is the repair — stage 4 resumes on a set difference. Say in the build line that it resumed.
 3. **Run `BUILD.md`, whole, stage 0 to the end of its ending sequence** — including the ending sequence, which is what puts the tree into the state the seam reads.

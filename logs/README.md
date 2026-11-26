@@ -37,6 +37,8 @@ One line a file or folder, read by `scripts/inventory.py` as its purpose (R168).
 - `site-analytics-access.csv`: daily users and pages from the site's access log.
 - `site-analytics-countries.csv`: monthly visitors by country.
 - `site-analytics-pages.csv`: monthly views by page.
+- `site-analytics-referrers.csv`: daily page loads by referring site, from Cloudflare's Web Analytics (R194).
+- `site-analytics-subscribers.csv`: the alert list's confirmed subscribers, a reading a day (R194).
 - `status-init-progress.csv`: per country, the status initialisation's state and sizes.
 - `status.md`: the latest status line, written by `corpus-status.py`.
 - `unit-review.csv`: one row per country and region, with the date each was last reviewed.

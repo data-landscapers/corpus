@@ -32,6 +32,8 @@ CORPUS = Path(__file__).resolve().parent.parent
 CATALOGUE = CORPUS / "outputs" / "catalogue" / "raw-catalogue.json"
 ACCESS = CORPUS / "logs" / "site-analytics-access.csv"
 SITE_COUNTRIES = CORPUS / "logs" / "site-analytics-countries.csv"
+REFERRERS = CORPUS / "logs" / "site-analytics-referrers.csv"
+SUBSCRIBERS = CORPUS / "logs" / "site-analytics-subscribers.csv"
 COUNTRIES = CORPUS / "lookups" / "countries.csv"
 TAXONOMY = CORPUS / "lookups" / "taxonomy.csv"
 CITATIONS = Path(EXCHANGE) / "citations.csv"
@@ -226,9 +228,51 @@ def citations(data: Data) -> str:
             f"<th>Author</th><th>URL</th></tr></thead><tbody>{body}</tbody></table></div>")
 
 
+def referrer_label(host: str) -> str:
+    """One name for a family of referrers: LinkedIn's site, short links and app are one source."""
+    h = host.lower()
+    if h == "(none)":
+        return "Direct, bookmark or app"
+    if "linkedin" in h or h == "lnkd.in":
+        return "LinkedIn"
+    if re.search(r"(^|\.)(google|bing|duckduckgo|baidu|yandex|ecosia|search\.yahoo)\.", h):
+        return "Search engines"
+    if re.search(r"chatgpt|openai|perplexity|claude\.ai|copilot|gemini", h):
+        return "AI assistants"
+    if re.search(r"facebook|twitter|t\.co$|x\.com|bsky|mastodon|whatsapp|reddit", h):
+        return "Other social media"
+    if re.search(r"mail|\.gm$|outlook|teams\.|officeapps", h):
+        return "Mail and office apps"
+    return h.removeprefix("www.")
+
+
+def referrer_sources(data: Data) -> str:
+    """R194: page loads by where the reader came from, a column a month, from October 2026."""
+    c = collections.defaultdict(collections.Counter)
+    for r in rows_of(REFERRERS):
+        if r["Date"] >= SITE_START.isoformat():
+            c[referrer_label(r["Referrer"])][r["Date"][:7]] += int(r["Pageloads"])
+    months = sorted({m for n in c.values() for m in n})[-6:]
+    last = max(r["Date"] for r in rows_of(REFERRERS))
+    return month_table("Source", list(c.items()), months) + to_date(last)
+
+
+def subscribers(data: Data) -> str:
+    """R194: the alert list's confirmed subscribers at the last reading of each month."""
+    by_month = {}
+    for r in rows_of(SUBSCRIBERS):
+        by_month[r["Date"][:7]] = (r["Date"], int(r["Subscribers"]))
+    head = "".join(f'<th class="num">{month_label(m)}</th>' for m in sorted(by_month))
+    body = "".join(f'<td class="num">{n:,}</td>' for _, n in (by_month[m] for m in sorted(by_month)))
+    last = max(d for d, _ in by_month.values())
+    return (f'<div class="stat-table"><table><thead><tr><th></th>{head}</tr></thead>'
+            f"<tbody><tr><td>Subscribers</td>{body}</tr></tbody></table></div>" + to_date(last))
+
+
 BLOCKS = {"monthly": monthly, "acquired-countries": acquired_countries,
           "acquired-topics": acquired_topics, "site-users": site_users, "site-pages": site_pages,
-          "site-countries": site_countries, "citations": citations}
+          "site-countries": site_countries, "referrers": referrer_sources,
+          "subscribers": subscribers, "citations": citations}
 
 
 def fill(text: str) -> str:
