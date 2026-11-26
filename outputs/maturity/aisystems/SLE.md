@@ -10,4 +10,4 @@
 
 ***Also on file***. [Krio language model, Darli AI and Krio AI Agronomist](<https://farmerline.co/revolutionizing-sierra-leones-agriculture-farmerline-group-and-moctis-groundbreaking-tech-partnership/>).
 
-***Not found***. No source found since October 2023 says a GPU or AI-accelerator facility is in service in the country.
+***Not found***. No source found says where Africell's AI-EVA was built. No source found since October 2023 says a GPU or AI-accelerator facility is in service in the country.

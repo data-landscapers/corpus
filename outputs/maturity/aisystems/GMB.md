@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says a GPU or AI-accelerator facility is in service in the country.
+***Not found***. No source found says where Jollof Lab built its Mandinka-English model. No source found since October 2023 says a GPU or AI-accelerator facility is in service in the country.

@@ -22,8 +22,8 @@ The Continental AI Strategy asks that a country can manage its own data and AI, 
 |---|---|
 | 5 Mature | 5 |
 | 4 Operating | 9 |
-| 3 Established | 28 |
-| 2 Nascent | 10 |
+| 3 Established | 25 |
+| 2 Nascent | 13 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 2 |
@@ -161,12 +161,6 @@ An AI model or dataset built in the country was in service in 2024; AI computing
 
 - The Ministry of Finance says an AI application for financial and accounting management, developed by NOSi with the national company SINTAXY, was launched in Cabo Verde on 19 November 2024 ([source, 2024-11-19](https://www.mf.gov.cv/-/vice-primeiro-ministro-destaca-transforma%C3%A7%C3%A3o-digital-como-pilar-do-desenvolvimento-de-cabo-verde)).
 
-### Central African Republic: 3 Established
-
-An AI model or dataset built in the country was in service in 2026; AI computing is not on record.
-
-- MEYNG (founder Michel Wenezoui) says its SangoAI translation system for Sango, built by people rooted in Central Africa, is in production, using a frontier LLM with a 581-entry verified Sango vocabulary and native-speaker testing since launch ([source, 2026-05-13](https://huggingface.co/blog/MEYNG/sangoai)).
-
 ### Comoros: 3 Established
 
 An AI model or dataset built in the country was in service in 2026; AI computing is not on record.
@@ -205,12 +199,6 @@ An AI model or dataset built in the country was in service in 2026; AI computing
 Open Tigrinya datasets for AI were published by 2026; no source found reports AI computing in the country.
 
 - GeezLab's GLaRe programme lists open Tigrinya datasets, including the TiNC24 NER corpus (200K+ words) and the TiPOSC24 part-of-speech corpus (118K+ tokens), both led by students at Mai Nefhi College of Engineering ([source, 2026](https://research.geezlab.com/)).
-
-### Gambia: 3 Established
-
-An AI model or dataset built in the country was in service in 2026; AI computing is not on record.
-
-- Jollof Lab says it released an open-source Mandinka-English translation model on HuggingFace, fine-tuned from NLLB-200 on a curated corpus of 5,797 sentence pairs, with BLEU 21.12 (developer's LinkedIn post) ([source, 2026-04-10](https://www.linkedin.com/posts/sheikh-tijan-cham-000966197_nlp-machinetranslation-mandinka-activity-7448293716806586368-q-iI)).
 
 ### Ghana: 3 Established
 
@@ -275,12 +263,6 @@ An AI model or dataset built in the country was in service in 2025; AI computing
 
 - ADN describes itself as a key actor in developing and operationalising Rayuwa, an AI platform available free on the Play Store, targeting 600,000 Nigerien producers within 2.3 million beneficiaries in West Africa ([source, 2025-08-29](https://adn.ne/formation-rayuwa-ladn-renforce-les-capacites-des-institutions-techniques-pour-une-agriculture-plus-resiliente/)).
 
-### Sierra Leone: 3 Established
-
-An AI model or dataset built in the country was in service in 2025; AI computing is not on record.
-
-- Financial Standard reports that mobile operator Africell launched AI-EVA, a multilingual voice assistant for feature phones and smartphones, in Sierra Leone at the 2025 Sierra Leone Innovates Tech Summit ([source, 2025-06](https://www.financialstandardsl.com/article.php?title=africell-unveils-ai-eva-and-afrogpt-at-summit)).
-
 ### Somalia: 3 Established
 
 An AI model or dataset built in the country was in service in 2026; AI computing is not on record.
@@ -312,6 +294,12 @@ A national AI model, dataset or computing facility was under way in 2026; none i
 
 - AGT says it is building its own in-house AI system trained on internally supplied data, with machine-learning tests since 2024 ([source, 2026-02-11](https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/)).
 
+### Central African Republic: 2 Nascent
+
+A national AI model, dataset or computing facility was under way in 2024; none built in the country is on record as in service.
+
+- Institut Pasteur de Bangui says its MEDICINE project will develop AI-based diagnostic aid tools for fever in under-fives, over four years from August 2024 ([source, 2024-08-01](https://www.afrique-sur7.fr/diagnostic-de-la-fievre-infantile-lintelligence-artificielle-descend-dans-larene-en-centrafrique)).
+
 ### Chad: 2 Nascent
 
 A national AI model, dataset or computing facility was under way in 2026; none in service is on record.
@@ -336,6 +324,13 @@ A Gabonese research committee was developing a Fang-language AI system in 2026; 
 
 - The CSGR-IA, the Gabonese scientific committee on AI research, told the CESEC of its work developing Obone AI, described as the first Gabonese AI system able to process and answer in the Fang language; no release is stated ([source, 2026-07-07](https://www.csgria.ga/actualites/article/le-csgr-ia-recu-en-audience/)).
 
+### Gambia: 2 Nascent
+
+A national AI model, dataset or computing facility was under way in 2026; none built in the country is on record as in service.
+
+- LingoAI and Jokkolabs Banjul signed a three-year MoU under which Jokkolabs will mobilise contributors to create curated Mandinka, Wolof and Fula datasets for AI, with LingoAI supplying annotation and corpus methods ([source, 2026-05-24](https://lingoai.io/blog/cmshc4wo600009kgnfjhb3q5u)).
+- The Standard reports that a locally developed CUBE AI Tutor was piloted with 150 students at three secondary schools in May 2026 ([source, 2026-05](https://standard.gm/gambia-to-gain-38m-gdp-boost-if-it-capitalises-on-ai-revolution-report/)).
+
 ### Madagascar: 2 Nascent
 
 A national AI model, dataset or computing facility was under way in 2025; none in service is on record.
@@ -354,6 +349,13 @@ A national AI model, dataset or computing facility was under way in 2026; none i
 A government cloud to host AI computing was planned in 2026 with World Bank support; nothing in service has been found.
 
 - The government cloud project approved under the strategy will provide AI computing infrastructure located in Seychelles for government use, with implementation expected mid-2027 to mid-2028 and World Bank support, says Principal Secretary Choppy ([source, 2026-10-30](https://www.seychellesnewsagency.com/articles/22623/ai-to-support-permits-healthcare-and-fraud-detection-under-seychelles-50-million-digital-plan)).
+
+### Sierra Leone: 2 Nascent
+
+A national AI model, dataset or computing facility was under way in 2026; none built in the country is on record as in service.
+
+- EDITH was developed by Sierra Leonean AI specialist Mohamed Alpha for the education ministry with a GBP 50,000 EdTech Hub support package, and is being prepared for handover, not yet released ([source, 2026-03](https://thecalabashnewspaper.com/mbsse-develops-revolutionary-ai-platform-to-transform-education-management/)).
+- Farmerline says its five-year MoU of 12 June 2024 with the Ministry of Communication, Technology and Innovation commits it to develop language and speech models (speech recognition, text-to-speech) for Sierra Leone's agricultural sector, and it claims a first-of-its-kind Krio language model ([source, 2024-06-12](https://farmerline.co/revolutionizing-sierra-leones-agriculture-farmerline-group-and-moctis-groundbreaking-tech-partnership/)).
 
 ### South Sudan: 2 Nascent
 

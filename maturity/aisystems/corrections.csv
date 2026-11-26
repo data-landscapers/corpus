@@ -28,3 +28,7 @@ LSO,007,build,underway,removed,"Stage 4c: the national compute roadmap's first p
 EGY,016,build,underway,removed,"Stage 4c: Applied Innovation Center language projects in February 2025, underway and since in service (Karnak), held"
 KEN,017,build,underway,removed,"Stage 4c: early Swahili and Kikuyu model work, underway; models in service and computing held"
 CIV,009,build,inservice,revalued: underway,"the scoring tool is in pilot use, which the ladder reads as piloted, not released; 4c 2026-11-21"
+CAF,001,,,removed,"Rebuild 2026-11-26 (build:inservice): SangoAI is built by people rooted in Central Africa, not stated to be built in the country"
+CAF,003,,,removed,Rebuild 2026-11-26 (build:inservice): a model card that does not say where the model was built
+SLE,003,,,removed,"Rebuild 2026-11-26 (build:inservice): an operator's assistant launched in the country, not stated to be built there"
+GMB,002,,,removed,Rebuild 2026-11-26 (build:inservice): a model released by a lab the source does not place in the country

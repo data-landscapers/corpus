@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "3",
-      "build": "inservice",
+      "stage": "2",
+      "build": "underway",
       "compute": "",
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-003",
-      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "Africell launched AI-EVA, a voice assistant in local languages, in Sierra Leone in June 2025. No AI computing in the country has been found.",
-      "as_at": "2026-10-23"
+      "stage_sources": "SLE-002;SLE-001",
+      "gaps": "No source found says Africell's AI-EVA was built in the country, so no AI model built in the country is shown in service. No facility with GPUs or AI accelerators has been found.",
+      "note": "EDITH, built by a Sierra Leonean specialist for the education ministry, was being prepared for handover in March 2026, and Farmerline's 2024 MoU commits it to speech models: AI under way. Africell's AI-EVA was launched in Sierra Leone, but no source says it was built there, so not 3.",
+      "as_at": "2026-11-26"
     }
   ]
 }

@@ -10,4 +10,4 @@
 
 ***Also on file***. [AI centre of excellence](<https://www.agenceecofin.com/actualites-numerique/2506-129534-la-republique-centrafricaine-prepare-la-creation-d-un-centre-d-excellence-en-ia>).
 
-***Not found***. No source found since October 2023 says a GPU or AI-accelerator facility is in service in the country.
+***Not found***. No source found says where SangoAI or MEYNG's Sango-French model was built. No source found since October 2023 says a GPU or AI-accelerator facility is in service in the country.

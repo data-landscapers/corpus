@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "3",
-      "build": "inservice",
+      "stage": "2",
+      "build": "underway",
       "compute": "",
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GMB-002",
-      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "Jollof Lab released an open-source Mandinka-English translation model in April 2026. No AI computing in the country has been found.",
-      "as_at": "2026-10-22"
+      "stage_sources": "GMB-001;GMB-003",
+      "gaps": "No source found says where Jollof Lab built its Mandinka-English model, so no AI model built in the country is shown in service. No facility with GPUs or AI accelerators has been found.",
+      "note": "Jokkolabs Banjul's May 2026 MoU to build Mandinka, Wolof and Fula datasets, and the locally developed CUBE AI Tutor piloted in May 2026, are AI under way. Jollof Lab's Mandinka model is released, but no source places its building in the country, so not 3.",
+      "as_at": "2026-11-26"
     }
   ]
 }

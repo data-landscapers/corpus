@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "3",
-      "build": "inservice",
+      "stage": "2",
+      "build": "underway",
       "compute": "",
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CAF-001",
-      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "SangoAI, a Sango translation system built by people rooted in Central Africa, is in production. It prompts a frontier model rather than training one, and no AI computing in the country has been found.",
-      "as_at": "2026-10-22"
+      "stage_sources": "CAF-002",
+      "gaps": "No source found says where SangoAI or MEYNG's Sango-French model was built, so no AI model built in the country is shown in service. No facility with GPUs or AI accelerators has been found.",
+      "note": "Institut Pasteur de Bangui's MEDICINE project, from August 2024, is AI under way with a named builder. SangoAI and MEYNG's Sango model are in service, but no source places their building in the country, so not 3.",
+      "as_at": "2026-11-26"
     }
   ]
 }
