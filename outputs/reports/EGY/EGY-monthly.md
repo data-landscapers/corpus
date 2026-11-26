@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: EGY
-ledger_rows: 82
+ledger_rows: 83
 not_held: 34
-record: 1be23663679a
+record: de6764bb5ffa
 ---
 
 # News, Oct – Nov 2026
@@ -786,6 +786,14 @@ Egypt's planning minister Ahmed Rustom presented President El-Sisi with a plan t
 
 <div class="bulletin-item" markdown="1">
 
+**[Central Bank of Egypt Launches the Payment Card Tokenization Services on Android Mobile Applications](https://cbe.org.eg/en/news-publications/news/2026/11/23/08/10/tokenization-android)** — Central Bank of Egypt, 23 November 2026
+
+CBE release; Apple Pay phase since Dec 2024 ran 292m transactions worth EGP 228bn to end-Sept 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
 **[«المركزي المصري» يطلق ترميز بطاقات الدفع على هواتف Android](https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%B7%D9%84%D9%82-%D8%AA%D8%B1%D9%85%D9%8A%D8%B2-%D8%A8%D8%B7%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D8%B9%D9%84%D9%89-%D9%87%D9%88%D8%A7%D8%AA%D9%81-android/)** — State Information Service (Egypt), 23 November 2026
 
 The Central Bank of Egypt announced on 23 November 2026 that payment card tokenisation is available on Android devices. The first phase ran through Apple Pay from December 2024. It had processed about 292 million transactions worth EGP 228 billion by the end of September 2026.
@@ -1277,6 +1285,20 @@ FinTech Gate reported on 23 November 2026 the data protection rules in Egypt's g
 **[Policy on the Responsible Use of Artificial Intelligence in Egyptian Government Entities (first edition)](https://www.ai.gov.eg/SynchedFiles/en/Resources/Policy%20on%20the%20Responsible%20Use%20of%20Artificial%20Intelligence%20in%20Egyptian%20Government%20Entities.pdf)** — National Council for Artificial Intelligence, Quantum Computing and Emerging Technologies (Egypt), 17 November 2026
 
 Egypt's National Council for AI published a first government-wide policy on responsible AI use in November 2026. In force from 1 October 2026, it sets permitted, restricted and prohibited uses. It covers ministries, agencies, state-owned companies and their contractors, but not national security entities.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Private members' AI governance bills</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ننشر نص مشروع قانون بشأن تنظيم التعليم الرقمي واستخدامات الذكاء الاصطناعي](https://www.parlgate.com/96873)** — بوابة البرلمان, 22 November 2026
+
+28-article MP bill: AI in schools and universities, human review of decisions, student data protection, 3-year rollout.
 
 </div>
 
