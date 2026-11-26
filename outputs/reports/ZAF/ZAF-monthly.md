@@ -3,9 +3,9 @@ title: South Africa — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: ZAF
-ledger_rows: 134
+ledger_rows: 138
 not_held: 17
-record: 40c78bb1c208
+record: bd02285f0928
 ---
 
 # News, Oct – Nov 2026
@@ -267,6 +267,20 @@ In November 2026 a position paper presented to Parliament's communications commi
 **[Commission Settles with X Corp. and Concludes Voluntary Undertaking with X.AI](https://www.compcom.co.za/wp-content/uploads/2026/11/Media-Statement-Commission-reaches-settlement-agreement-with-XCorp-and-undertaking-with-XAI-18-November-2026.pdf)** — Competition Commission of South Africa, 18 November 2026
 
 South Africa's Competition Commission announced on 18 November 2026 a settlement with X Corp. and a voluntary undertaking from X.AI. Both companies withdrew their Competition Tribunal appeals against the media inquiry's remedies. X Corp's publisher support and digital literacy duties become two-year commitments. X.AI will train publishers twice a year on Grok settings.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">High Court interim order against a pseudonymous Facebook account (Kubayi)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government welcomes High Court ruling against pseudonymous Facebook account](https://www.gov.za/news/media-statements/government-welcomes-high-court-ruling-against-pseudonymous-facebook-account)** — South African Government, 26 November 2026
+
+On 24 November 2026 the High Court in Tshwane granted Justice Minister Mmamoloko Kubayi an interim order against the Facebook account "Baas Kruger". Its operators must remove specified posts. Meta must remove or restrict the content in South Africa until a final ruling. Government welcomed the order on 26 November.
 
 </div>
 
@@ -846,6 +860,20 @@ Teraco opened a Digital Realty Innovation Lab at its JB3 data centre on the Isan
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Cassava AI factory, Cape Town</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Strive Masiyiwa's AI bet pays off as Cassava factory hits full capacity](https://www.businessday.co.za/companies/2026-11-23-strive-masiyiwas-ai-gamble-pays-off-as-cassava-factory-hits-full-capacity/)** — BusinessDay, 23 November 2026
+
+3MW, just over 2,000 GPUs fully used as of 2026-11-01; South African enterprise uptake slower than expected.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Google Cloud Johannesburg region</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1009,6 +1037,20 @@ South Africa's GCIS told applicants that its e-recruitment system had been compr
 **[Accommodation booking platform LekkeSlaap suffers cyber attack](https://www.itweb.co.za/article/accommodation-booking-platform-lekkeslaap-suffers-cyber-attack/KBpdgvpmwV47LEew)** — ITWeb South Africa, 6 November 2026
 
 South African booking platform LekkeSlaap told guests on 6 November 2026 that their names, e-mail addresses, phone numbers and booking references were accessed through its calendar-syncing system. It says no payment data, ID numbers or passwords were taken and warns of phishing. The notice follows a separate breach at accommodation-technology provider NightsBridge days earlier.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SA Home Loans breach</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SA Home Loans hit by second data breach](https://www.itweb.co.za/article/sa-home-loans-hit-by-second-data-breach/j5alrvQAXBzvpYQk)** — ITWeb South Africa, 26 November 2026
+
+SA Home Loans detected unauthorised access to some of its systems, including a collections system, on 13 November 2026. Customers' names, bank account numbers, branch codes and some payment details may have been exposed. The company says it found no evidence that loan accounts were accessed or records altered, and has not said how many customers are affected. A September breach at its verification provider RelyComply was the first.
 
 </div>
 
@@ -1409,6 +1451,20 @@ UCL's Institute for Innovation and Public Purpose released its DPI Map dataset o
 **[Vodacom, Absa to co-develop mobile financial services](https://www.connectingafrica.com/partnerships/vodacom-absa-to-co-develop-mobile-financial-services)** — Connecting Africa, 24 November 2026
 
 Vodacom South Africa and Absa Group have announced a partnership to co-develop combined banking and connectivity offers, including device financing, reported on 24 November 2026. Products will follow once commercial, technical, legal and regulatory arrangements are complete.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Payment System Framework and Strategy: Vision Update</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[National Payment System Framework and Strategy: Vision Update](https://www.resbank.co.za/en/home/publications/publication-detail-pages/other-publications/2026/nps-vision-update)** — South African Reserve Bank, 26 November 2026
+
+The South African Reserve Bank updated its National Payment System Framework and Strategy on 26 November 2026. It sets three years of priorities under five pillars. Of 106 Vision 2025 actions, 53 are complete, 44 in progress, 2 on hold and 7 cancelled. It names five trends to watch, including tokenisation and agentic AI, and expects a new vision in 2029.
 
 </div>
 
