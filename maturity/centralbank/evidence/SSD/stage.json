@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "centralbank",
-      "stage": "3",
+      "stage": "4",
       "mandate": "licensing",
-      "switch": "",
+      "switch": "overseen",
       "regional": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SSD-002;SSD-003",
-      "gaps": "No source found since October 2023 says the central bank runs or oversees a national switch.",
-      "note": "The Bank of South Sudan licenses e-money issuers and digital financial service providers (2025 and 2026). Its RTGS is not counted as a switch and no other has been found.",
-      "as_at": "2026-10-24"
+      "stage_sources": "SSD-004;SSD-005;SSD-002",
+      "gaps": "No source found since October 2023 says the country takes part in PAPSS.",
+      "note": "On 24 November 2026 the Bank of South Sudan and the finance ministry launched SSIPSS, an interbank RTGS and automated clearing house, read as a switch it runs, as for Uganda's RTGS and ACH: stage 4. No PAPSS participation has been found, so not 5.",
+      "as_at": "2026-11-26"
     }
   ]
 }

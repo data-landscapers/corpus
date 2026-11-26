@@ -21,8 +21,8 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 | Stage | Countries |
 |---|---|
 | 5 Mature | 7 |
-| 4 Operating | 42 |
-| 3 Established | 5 |
+| 4 Operating | 43 |
+| 3 Established | 4 |
 | 2 Nascent | 0 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -325,6 +325,14 @@ The central bank oversaw a national payment switch in 2025; live participation i
 - TechCentral reports the South African Reserve Bank took a 50% interest in PayInc, operator of PayShap, in late 2025, and the 2026 budget speech named PayInc the shared digital payments infrastructure supporting interoperability across providers ([source, 2025-12](https://techcentral.co.za/three-years-in-payshap-pivots-to-merchants/281687/)).
 - The South African Reserve Bank bought a 50% stake in BankservAfrica in November 2025, renamed PayInc, the automated clearing house for national and pan-African retail, government, banking and corporate transactions, and says it wants PayInc to be a payment utility ([source, 2025-11](https://www.businessday.co.za/business-times/2026-08-01-no-plans-to-add-non-banks-to-payinc-shareholding-kganyago/)).
 
+### South Sudan: 4 Operating
+
+The central bank licenses payment providers and launched an interbank clearing and settlement system in November 2026; no PAPSS participation has been found.
+
+- The Bank of South Sudan and the Ministry of Finance and Planning launched the South Sudan Interbank Payment and Settlement System on 24 November 2026, combining RTGS for high-value payments and an ACH for low-value and bulk payments ([source, 2026-11-24](https://eyeradio.org/central-bank-launches-electronic-payment-system-to-replace-manual-cheques/)).
+- The Bank of South Sudan and the Ministry of Finance and Planning launched the South Sudan Interbank Payment and Settlement System on 24 November 2026, linking RTGS and ACH rails to IFMIS, per University of Juba economist Bec George Anyak ([source, 2026-11-24](https://www.radiotamazuj.org/en/news/article/opinion-south-sudan-leaps-away-from-the-cheque-book)).
+- The Bank of South Sudan requires non-bank electronic money issuers to obtain its regulatory approval under the amended Electronic Money Regulation, and must assess applications within 60 days ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
+
 ### Sudan: 4 Operating
 
 The central bank licensed payment providers in 2026 and supervised the national switch linking all banks; live payments through PAPSS are not known.
@@ -387,10 +395,3 @@ The central bank licensed payment providers in 2025; no source found reports a n
 The central bank licensed payment providers in 2026; no source found reports a national switch it oversees.
 
 - The CSBF, attached to the Banky foiben'i Madagasikara, holds the legal power under the e-money institutions law to grant or withdraw licences, issue regulatory instructions and audit e-money institutions, per 2424.mg ([source, 2026-06-11](https://2424.mg/mobile-money-les-autorites-annoncent-des-audits-du-systeme-des-etablissements-de-monnaie-electronique/)).
-
-### South Sudan: 3 Established
-
-The central bank licensed payment providers in 2026; no source found reports a national switch it oversees.
-
-- The Bank of South Sudan requires non-bank electronic money issuers to obtain its regulatory approval under the amended Electronic Money Regulation, and must assess applications within 60 days ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
-- The Bank of South Sudan issued a regulatory notice putting digital financial service providers, including mobile money operators, under the same licensing-linked requirements as banks, with licence suspension or cancellation as the sanction ([source, 2025-09-29](https://jakony.com/digital-money-operators-face-new-security-and-reporting-rules/)).

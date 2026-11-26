@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-24-ssd-central-bank-launches-electronic-payment-system-to-replace-manual-cheq",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Bank of South Sudan and the Ministry of Finance and Planning launched the South Sudan Interbank Payment and Settlement System on 24 November 2026, combining RTGS for high-value payments and an ACH for low-value and bulk payments.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "SSIPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SSIPSS",
+   "country_label": "South Sudan",
+   "class": "oversight",
+   "platform": "RTGS and ACH",
+   "owner": "Bank of South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

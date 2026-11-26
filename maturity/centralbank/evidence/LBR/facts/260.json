@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-19-lbr-cbl-outlines-priorities-for-advancing-liberia-s-digital-payments-ecosy",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Central Bank of Liberia, which is onboarding more banks and fintechs, reported continued growth in use of Pay Na-Na, the national instant payment platform launched in December 2025, per Governor Saamoi.",
+   "as_of": "2026-11-19",
+   "date_precision": "day",
+   "system": "Pay Na-Na",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Pay Na-Na",
+   "country_label": "Liberia",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
