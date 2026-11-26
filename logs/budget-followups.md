@@ -27,3 +27,4 @@ One line per country, worst first, written on 2026-10-02 from checks A to C of t
 ## Queued by the budget poll
 
 One BUDGET-EXTRACT sitting a line (R106). `budget-watch.py followups` writes them; delete a line in the commit that settles it.
+- **SLE FY2027** — mtef adds proposed: [[2026-10-01-sle-fiscal-strategy-statement-fss-2027-companion]] (queued 2026-11-26).
