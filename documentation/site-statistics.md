@@ -41,6 +41,10 @@ Rows = countries. Columns = months
 
 A table of each referring source's share of a month's page loads, months as columns, from Oct 2026 (R194). Shares, not counts: the source is a Cloudflare sample that keeps some automated visits, so its totals run above the page views. LinkedIn, search engines, AI assistants, other social media and mail apps are each one row; other hosts stand alone.
 
+## From LinkedIn posts (logs\site-analytics-linkedin.csv)
+
+Visitors arriving on a link tagged `?ref=li` (or `ref=linkedin`, `utm_source=linkedin`) and their page views that day, months as columns, people only (Bill, 2026-11-26).
+
 ## Alert subscribers (logs\site-analytics-subscribers.csv)
 
 Confirmed subscribers at the last reading of each month (R194). Search impressions join this section once a Search Console account exists (R176).

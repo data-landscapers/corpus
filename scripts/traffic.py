@@ -77,6 +77,10 @@ LOGS = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
 ACCESS = os.path.join(LOGS, "site-analytics-access.csv")
 PAGES = os.path.join(LOGS, "site-analytics-pages.csv")
 COUNTRIES = os.path.join(LOGS, "site-analytics-countries.csv")
+LINKEDIN = os.path.join(LOGS, "site-analytics-linkedin.csv")
+# A link Bill posts on LinkedIn carries `?ref=li` (Bill, 2026-11-26). LinkedIn's apps send no
+# referrer, so the tag is the only way their clicks can be counted; `utm_source=linkedin` counts too.
+LINKEDIN_TAG = re.compile(r"(?:^|[?&])(?:ref=(?:li|linkedin)|utm_source=linkedin)(?:&|$)", re.I)
 REFERRERS = os.path.join(LOGS, "site-analytics-referrers.csv")
 SUBSCRIBERS = os.path.join(LOGS, "site-analytics-subscribers.csv")
 BUTTONDOWN_KEY = os.path.join(os.path.dirname(LOGS), "prep", "Buttondown-api-key.txt")
@@ -241,7 +245,7 @@ def pull(quiet: bool) -> int:
             added.append("subscribers")
     except (OSError, RuntimeError, KeyError, ValueError) as e:
         note += f" · referrers or subscribers not pulled: {e}"
-    if any(not os.path.exists(f) or os.path.getmtime(f) < os.path.getmtime(DB) for f in (ACCESS, PAGES, COUNTRIES)):
+    if any(not os.path.exists(f) or os.path.getmtime(f) < os.path.getmtime(DB) for f in (ACCESS, PAGES, COUNTRIES, LINKEDIN)):
         try:
             tables()
         except PermissionError:
@@ -265,21 +269,28 @@ def page(r: sqlite3.Row) -> str | None:
 
 
 def tables() -> None:
-    """Write ACCESS and PAGES from the person rows."""
+    """Write ACCESS, PAGES, COUNTRIES and LINKEDIN from the person rows.
+
+    LINKEDIN is a row a day: the people who arrived on a link tagged `LINKEDIN_TAG`, and every page
+    they viewed that day, the tagged one and the ones they went on to, which carry no tag."""
     con = connect()
     con.row_factory = sqlite3.Row
     users, views = collections.defaultdict(set), collections.Counter()
     months, by_page = set(), collections.defaultdict(collections.Counter)
     days = sorted({d for (d,) in con.execute("SELECT DISTINCT day FROM days")})
     fleet = crawler_visits(con)
+    tagged, per_ip = collections.defaultdict(set), collections.defaultdict(collections.Counter)
     for day in days:
         rows = con.execute("SELECT * FROM requests WHERE day=?", (day,)).fetchall()
         for r, k in zip(rows, classify(rows, fleet)):
             if k != "person":
                 continue
             users[day].add(r["clientIP"])
+            if LINKEDIN_TAG.search(r["clientRequestQuery"] or ""):
+                tagged[day].add(r["clientIP"])
             if (pg := page(r)):
                 views[day] += 1
+                per_ip[day][r["clientIP"]] += 1
                 months.add(day[:7])
                 by_page[pg][day[:7]] += 1
     con.close()
@@ -287,6 +298,8 @@ def tables() -> None:
     latest = months[-1] if months else ""
     write(ACCESS, [["Date", "Users", "Pages"]]
           + [[day, len(users[day]), views[day]] for day in days])
+    write(LINKEDIN, [["Date", "Visitors", "Pages"]]
+          + [[day, len(tagged[day]), sum(per_ip[day][ip] for ip in tagged[day])] for day in days])
     busiest = lambda x: (-x[1][latest], -sum(x[1].values()), x[0])
     write(PAGES, [["Page", *months]]
           + [[pg, *(n[m] for m in months)] for pg, n in sorted(by_page.items(), key=busiest)])

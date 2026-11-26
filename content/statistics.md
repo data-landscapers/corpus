@@ -40,6 +40,12 @@ Where readers came from, as a share of each month's page loads, from October 202
 
 <!-- stat: referrers -->
 
+## From LinkedIn posts
+
+People who arrived on a link posted on LinkedIn and tagged `?ref=li`, and every page they viewed that day. LinkedIn's apps hide where a reader came from, so only tagged links can be counted.
+
+<!-- stat: linkedin -->
+
 ## Alert subscribers
 
 Confirmed subscribers to catalogue alerts, at the last reading each month.

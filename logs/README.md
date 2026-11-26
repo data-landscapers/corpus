@@ -36,6 +36,7 @@ One line a file or folder, read by `scripts/inventory.py` as its purpose (R168).
 - `requests-for-osint.csv`: the retired request feed to OSINT, left in place with its header.
 - `site-analytics-access.csv`: daily users and pages from the site's access log.
 - `site-analytics-countries.csv`: monthly visitors by country.
+- `site-analytics-linkedin.csv`: daily people arriving on a `?ref=li` link from Bill's LinkedIn posts, and their page views.
 - `site-analytics-pages.csv`: monthly views by page.
 - `site-analytics-referrers.csv`: daily page loads by referring site, from Cloudflare's Web Analytics (R194).
 - `site-analytics-subscribers.csv`: the alert list's confirmed subscribers, a reading a day (R194).

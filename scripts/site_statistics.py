@@ -34,6 +34,7 @@ ACCESS = CORPUS / "logs" / "site-analytics-access.csv"
 SITE_COUNTRIES = CORPUS / "logs" / "site-analytics-countries.csv"
 REFERRERS = CORPUS / "logs" / "site-analytics-referrers.csv"
 SUBSCRIBERS = CORPUS / "logs" / "site-analytics-subscribers.csv"
+LINKEDIN = CORPUS / "logs" / "site-analytics-linkedin.csv"
 COUNTRIES = CORPUS / "lookups" / "countries.csv"
 TAXONOMY = CORPUS / "lookups" / "taxonomy.csv"
 CITATIONS = Path(EXCHANGE) / "citations.csv"
@@ -276,6 +277,27 @@ def referrer_sources(data: Data) -> str:
             f"<tbody>{body}</tbody></table></div>" + to_date(last))
 
 
+def linkedin(data: Data) -> str:
+    """People who arrived on a link Bill posted on LinkedIn, tagged `?ref=li`, and the pages they
+    viewed that day, a column a month from the first tagged visit (Bill, 2026-11-26). People only,
+    so these sit inside the page views above, unlike the referrer shares."""
+    rows = [r for r in rows_of(LINKEDIN) if int(r["Visitors"])]
+    if not rows:
+        return '<p class="stat-note">No visits from tagged LinkedIn links yet.</p>'
+    months = sorted({r["Date"][:7] for r in rows})[-6:]
+    v, p = collections.Counter(), collections.Counter()
+    for r in rows:
+        v[r["Date"][:7]] += int(r["Visitors"])
+        p[r["Date"][:7]] += int(r["Pages"])
+    table = [("Visitors", dict(v)), ("Pages they viewed", dict(p))]
+    head = "".join(f'<th class="num">{month_label(m)}</th>' for m in months)
+    body = "".join(f"<tr><td>{name}</td>" + "".join(f'<td class="num">{c.get(m, 0):,}</td>' for m in months)
+                   + "</tr>" for name, c in table)
+    last = max(r["Date"] for r in rows_of(LINKEDIN))
+    return (f'<div class="stat-table"><table><thead><tr><th></th>{head}</tr></thead>'
+            f"<tbody>{body}</tbody></table></div>" + to_date(last))
+
+
 def subscribers(data: Data) -> str:
     """R194: the alert list's confirmed subscribers at the last reading of each month."""
     by_month = {}
@@ -290,7 +312,7 @@ def subscribers(data: Data) -> str:
 
 BLOCKS = {"monthly": monthly, "acquired-countries": acquired_countries,
           "acquired-topics": acquired_topics, "site-users": site_users, "site-pages": site_pages,
-          "site-countries": site_countries, "referrers": referrer_sources,
+          "site-countries": site_countries, "referrers": referrer_sources, "linkedin": linkedin,
           "subscribers": subscribers, "citations": citations}
 
 
