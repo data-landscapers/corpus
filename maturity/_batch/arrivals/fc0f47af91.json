@@ -1,0 +1,13 @@
+{"slug": "2026-11-24-ieee-why-does-voice-ai-still-struggle-with-kenyans-speech", "studies": {
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Article is about voice AI for Kenyan speech; no government body use of AI is stated."}}},
+"aisystems": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "IEEE Spectrum reports the African Next Voices project, backed by a US$2.2 million Gates Foundation grant, has Maseno University's Centre for Applied AI collecting Kenyan speech, roughly 3,000 hours of transcribed speech according to its lead Lilian Wanzare.", "as_of": "2026-11-24", "date_precision": "day", "system": "African Next Voices (Kenya component)", "class": "localai"},
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "IEEE Spectrum reports Nairobi startup MsingiAI has piloted its Nia Voice Agent, a Swahili speech AI, with farmers in western Kenya.", "as_of": "2026-11-24", "date_precision": "day", "system": "Nia Voice Agent", "class": "localai"}
+], "systems": [
+{"system": "African Next Voices (Kenya component)", "country_label": "Kenya", "class": "localai", "platform": "speech dataset", "owner": "Maseno University Centre for Applied AI", "tiers": ""},
+{"system": "Nia Voice Agent", "country_label": "Kenya", "class": "localai", "platform": "voice agent", "owner": "MsingiAI", "tiers": ""},
+{"system": "Fikra Swahili AI models", "country_label": "Kenya", "class": "localai", "platform": "language models", "owner": "Zabibu Technika", "tiers": ""}
+], "note": ""}}},
+"startups": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Startups are mentioned but no startup law, label or public fund is stated."}}},
+"techhubs": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No hub, incubator or technology park is described."}}}
+}}

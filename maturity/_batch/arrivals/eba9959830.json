@@ -1,0 +1,120 @@
+{
+  "slug": "2026-11-25-sen-budget-2027-du-numerique-la-pleniere-de-vendredi-est-bloquee-et-65-mil",
+  "studies": {
+    "addressregister": {
+      "countries": {
+        "SEN": {
+          "facts": [
+            {
+              "sub_indicator": "address",
+              "aspect": "addressing",
+              "value": "underway",
+              "fact": "NovoTech, citing the digital minister's 6 November 2026 budget report, says the 2027 postal programme includes about FCFA 485 million for the sorting centre and digital addressing; the budget is blocked and unvoted.",
+              "as_of": "2026-11-06",
+              "date_precision": "day",
+              "system": "adressage numerique",
+              "class": "address"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    },
+    "authentication": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Digital identity is named only as a 2027 item left in suspense; no service is described."}}},
+    "birthidlink": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No link between civil register and ID system is described."}}},
+    "datacentres": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only the state's own data centre under PRODAP is named, with no sale to outside customers."}}},
+    "digitaldivides": {
+      "countries": {
+        "SEN": {
+          "facts": [
+            {
+              "sub_indicator": "ruralaccess",
+              "aspect": "programme",
+              "value": "underway",
+              "fact": "NovoTech, citing the digital minister's report, says the World Bank-financed PAENS keeps FCFA 14 billion in 2027 to cover white zones, deploy community wifi and connect schools, with under 10% of its funds executed in 2026 and a tender for nearly 300 white-zone sites being finalised.",
+              "as_of": "2026-11-06",
+              "date_precision": "day",
+              "system": "PAENS",
+              "class": "ruralaccess"
+            }
+          ],
+          "systems": [
+            {"system": "PAENS", "country_label": "Senegal", "class": "ruralaccess", "platform": "", "owner": "Ministere des Telecommunications et du Numerique", "tiers": ""}
+          ],
+          "note": ""
+        }
+      }
+    },
+    "idcoverage": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No ID enrolment figure is given."}}},
+    "idfrombirth": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No number at birth is described."}}},
+    "idmaintenance": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Who operates or owns the ID system is not stated."}}},
+    "idregisters": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number is described."}}},
+    "idrobustness": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No national ID system is described."}}},
+    "itcapacity": {
+      "countries": {
+        "SEN": {
+          "facts": [
+            {
+              "sub_indicator": "inhouse",
+              "aspect": "agency",
+              "value": "operating",
+              "fact": "NovoTech, citing the digital minister's report, says Senegal Numerique SA would receive FCFA 5.3 billion in 2027 to run the single window and maintain infrastructure the minister calls critical for the state.",
+              "as_of": "2026-11-06",
+              "date_precision": "day",
+              "system": "Senegal Numerique SA",
+              "class": "staff"
+            }
+          ],
+          "systems": [
+            {"system": "Senegal Numerique SA", "country_label": "Senegal", "class": "staff", "platform": "", "owner": "State", "tiers": ""}
+          ],
+          "note": ""
+        }
+      }
+    },
+    "nationaldatacentres": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire is described; the Diamniadio park is under construction and the state data centre is for its own use."}}},
+    "startups": {
+      "countries": {
+        "SEN": {
+          "facts": [
+            {
+              "sub_indicator": "startuppolicy",
+              "aspect": "law",
+              "value": "adopted",
+              "fact": "NovoTech, citing the digital minister's report, says more than 400 start-ups had registered on the Startup Act platform by 30 June 2026 but none was yet labelled, as no steering committee is installed; over 120 files are ready.",
+              "as_of": "2026-06-30",
+              "date_precision": "day",
+              "system": "Startup Act",
+              "class": "startuppolicy"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    },
+    "techhubs": {
+      "countries": {
+        "SEN": {
+          "facts": [
+            {
+              "sub_indicator": "hub",
+              "aspect": "hubs",
+              "value": "underway",
+              "fact": "NovoTech, citing the digital minister's report, says the Diamniadio Digital Technology Park stood at 95% physical progress at end October 2026 with 69% of funds disbursed, and the ministry had opened talks with Ewan Asset to operate it.",
+              "as_of": "2026-10",
+              "date_precision": "month",
+              "system": "Parc des technologies numeriques de Diamniadio",
+              "class": "hub"
+            }
+          ],
+          "systems": [
+            {"system": "Parc des technologies numeriques de Diamniadio", "country_label": "Senegal", "class": "hub", "platform": "", "owner": "Ministere des Telecommunications et du Numerique", "tiers": ""}
+          ],
+          "note": ""
+        }
+      }
+    }
+  }
+}

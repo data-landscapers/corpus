@@ -1,0 +1,6 @@
+{"slug": "2026-11-24-tun-ministere-de-l-agriculture-presentation-de-l-application-numerique-aqu", "studies": {
+"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on rules or authority against AI harms."}}},
+"aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The app serves a water utility, a sector system."}}},
+"aisectoral": {"countries": {"TUN": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The agriculture ministry presented Aqua Min 360, an app by the state water-transfer company SECADENORD, built with a national AI model, that analyses pumping station data and recommends pumping hours and pump settings.", "as_of": "2026-11-23", "date_precision": "day", "system": "Aqua Min 360", "class": "sectorai"}], "systems": [{"system": "Aqua Min 360", "country_label": "Aqua Min 360", "class": "sectorai", "platform": "", "owner": "SECADENORD", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A national AI model is mentioned without a name, builder or release."}}}
+}}

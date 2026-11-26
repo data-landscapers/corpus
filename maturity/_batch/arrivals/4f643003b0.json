@@ -1,0 +1,8 @@
+{"slug": "2026-11-24-civ-cote-divoire-aip-intelligence-artificielle-les-membres-du-cesec-outill", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Responsible use named only as a discussion theme; no rule or authority."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [{"system": "ADOPT IA", "country_label": "Cote d'Ivoire", "class": "other", "platform": "", "owner": "Ministry of Digital Transition and Technological Innovation", "tiers": ""}], "note": "ADOPT IA is a training programme for decision makers; no AI system in use is stated."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "AI uses in sectors were only discussed; no tool stated."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country stated."}}},
+"dataprotectionlaw": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Data protection named only as a discussion theme."}}},
+"digitalsovereignty": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Digital sovereignty named only as a discussion theme; no plan or rule on state data."}}}
+}}

@@ -1,0 +1,6 @@
+{"slug": "2026-11-23-cmr-lamericain-cybastion-inspecte-le-site-de-son-futur-data-center-a-doual", "studies": {
+"datacentrepower": {"countries": {"CMR": {"facts": [], "systems": [{"system": "Cybastion sovereign data centre, Missole 1-Dibamba", "country_label": "Cameroon", "class": "other", "platform": "", "owner": "Cybastion (US)", "tiers": ""}], "note": "The data centre is planned, not in service; its dedicated power plant is a plan."}}},
+"datacentres": {"countries": {"CMR": {"facts": [], "systems": [{"system": "Cybastion sovereign data centre, Missole 1-Dibamba", "country_label": "Cameroon", "class": "other", "platform": "", "owner": "Cybastion (US)", "tiers": ""}], "note": "A data centre announced in August 2026 whose site was visited on 5 November 2026; not in service."}}},
+"digitalsovereignty": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A private US firm's planned data centre; no government strategy, rule or hosting of state data is stated."}}},
+"nationaldatacentres": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Planned US-owned data centre, not in service and not nationally owned."}}}
+}}

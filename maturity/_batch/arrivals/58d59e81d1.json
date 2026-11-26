@@ -1,0 +1,13 @@
+{"slug": "2026-03-13-civ-digitalisation-et-regulation-de-la-technologie-de-l-intelligence-artif", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "States no AI-specific law; general digital laws are said to apply by extension, with no rule or authority on AI harms named."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government AI system is described."}}},
+"ailaw": {"countries": {"CIV": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "Digital Mag reports digital-law expert Dr Ibrahim Coulibaly saying at a 11 March 2026 conference that Cote d'Ivoire has no AI-specific law and relies on soft law over existing digital texts.", "as_of": "2026-03-11", "date_precision": "day", "system": "AI legislation", "class": "law"}], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No sector AI system is described."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is described."}}},
+"dataprotectionlaw": {"countries": {"CIV": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Digital Mag reports the conference listing a personal data protection law among the texts already in force that require respect for privacy and confidentiality of data collected.", "as_of": "2026-03-11", "date_precision": "day", "system": "Personal data protection law", "class": "general"}], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The national AI strategy is said to rest on digital sovereignty, with no rule or plan on state data stated."}}},
+"ecommercelaw": {"countries": {"CIV": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Digital Mag reports Law No. 2013-546 of 30 July 2013 on electronic transactions as framing digital exchanges and imposing security obligations.", "as_of": "2013-07-30", "date_precision": "day", "system": "Law No. 2013-546 on electronic transactions", "class": "law"}], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on school internet or the secondary curriculum."}}},
+"startups": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only the EU's sandboxes for startups are mentioned; nothing for Cote d'Ivoire."}}},
+"techhubs": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated on technology hubs."}}}
+}}

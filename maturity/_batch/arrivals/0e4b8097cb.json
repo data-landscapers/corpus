@@ -1,0 +1,42 @@
+{"slug": "2026-11-25-xaf-meta-launches-us-700-000-ai-grant-to-support-innovation-across-africa", "studies": {
+"aiabuse": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "A company grant; no rule or authority on AI harms stated."},
+"KEN": {"facts": [], "systems": [], "note": "A company grant; no rule or authority on AI harms stated."},
+"NGA": {"facts": [], "systems": [], "note": "A company grant; no rule or authority on AI harms stated."},
+"ZAF": {"facts": [], "systems": [], "note": "A company grant; no rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "No government AI system stated."},
+"KEN": {"facts": [], "systems": [], "note": "No government AI system stated."},
+"NGA": {"facts": [], "systems": [], "note": "No government AI system stated."},
+"ZAF": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."},
+"KEN": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."},
+"NGA": {"facts": [], "systems": [{"system": "DAWN AI Study", "country_label": "Nigeria", "class": "other", "platform": "Meta Llama", "owner": "", "tiers": ""}], "note": "DAWN AI Study is a private education project on Meta's model, not stated as a public system."},
+"ZAF": {"facts": [], "systems": [{"system": "dpclVR", "country_label": "South Africa", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "dpclVR is a virtual lab assistant shown at a summit; no public system use stated."}}},
+"aisystems": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country stated."},
+"KEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country stated."},
+"NGA": {"facts": [], "systems": [], "note": "The DAWN AI Study runs on Meta's Llama; no locally built model, dataset or computing stated."},
+"ZAF": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country stated."}}},
+"digitaldivides": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "Nothing on rural internet programmes or surveys."},
+"KEN": {"facts": [], "systems": [], "note": "Nothing on rural internet programmes or surveys."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing on rural internet programmes or surveys."},
+"ZAF": {"facts": [], "systems": [], "note": "Nothing on rural internet programmes or surveys."}}},
+"startups": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "A private company grant only; no public startup law or fund."},
+"KEN": {"facts": [], "systems": [], "note": "A private company grant only; no public startup law or fund."},
+"NGA": {"facts": [], "systems": [], "note": "A private company grant only; no public startup law or fund."},
+"ZAF": {"facts": [], "systems": [], "note": "A private company grant only; no public startup law or fund."}}},
+"stemgraduates": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "No STEM graduate figure or research network stated."},
+"KEN": {"facts": [], "systems": [], "note": "No STEM graduate figure or research network stated."},
+"NGA": {"facts": [], "systems": [], "note": "No STEM graduate figure or research network stated."},
+"ZAF": {"facts": [], "systems": [], "note": "No STEM graduate figure or research network stated."}}},
+"techhubs": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "Meta's AI Impact Hub is an online platform, not a technology hub in the country."},
+"KEN": {"facts": [], "systems": [], "note": "Meta's AI Impact Hub is an online platform, not a technology hub in the country."},
+"NGA": {"facts": [], "systems": [], "note": "Meta's AI Impact Hub is an online platform, not a technology hub in the country."},
+"ZAF": {"facts": [], "systems": [], "note": "Meta's AI Impact Hub is an online platform, not a technology hub in the country."}}}
+}}

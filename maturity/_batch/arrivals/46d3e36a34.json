@@ -1,11 +1,1 @@
-{"slug":"2026-08-29-bdi-le-burundi-veut-promouvoir-et-encadrer-l-intelligence-artificielle","studies":{
-"aiabuse":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Panel speakers warn of AI fakes and call for rules, but state no rule, draft or authority on AI harms."}}},
-"aigovernment":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No government body's use of AI is stated."}}},
-"ailaw":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Officials call for an AI legal framework; no draft or rule is stated."}}},
-"aisectoral":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No AI tool in a public sector system is stated."}}},
-"aisystems":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Only a university teaching department on AI; no model, dataset or AI computing is stated."}}},
-"civilserviceskills":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No training for civil servants is stated."}}},
-"cybersecuritylaw":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Only a call to strengthen the fight against cybercrime; no law is stated."}}},
-"digitalskills":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Only a University of Burundi department for teaching AI use, which is a degree course, and a call for digital skills; no public programme is stated."}}},
-"opendiscussion":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No cut, punishment or criticism of a named government policy is stated."}}}
-}}
+{"slug": "2026-08-29-bdi-le-burundi-veut-promouvoir-et-encadrer-l-intelligence-artificielle", "studies": {"stemgraduates": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No STEM graduate share and no research and education network is stated; a new AI department at the University of Burundi is a single programme."}}}}}

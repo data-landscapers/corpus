@@ -1,0 +1,31 @@
+{
+  "slug": "2026-11-23-sen-allocution-du-premier-ministre-ahmadou-alhaminou-mohamed-lo-a-l-occasi",
+  "studies": {
+    "agrisatellite": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Satellite images appear only as an example of real-time data; no farming service is described."}}},
+    "aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "AI risks are named in general terms; no rule or authority is stated."}}},
+    "aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No government AI system is described."}}},
+    "aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No sectoral AI tool is described."}}},
+    "aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is described."}}},
+    "digitalsovereignty": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The speech calls for African guidelines on private data access and a pact with tech firms; no strategy, rule or draft on state data is stated."}}},
+    "statisticslaw": {
+      "countries": {
+        "SEN": {
+          "facts": [
+            {
+              "sub_indicator": "law",
+              "aspect": "standing",
+              "value": "draft",
+              "fact": "Prime Minister Ahmadou Alhaminou Mohamed Lo said in his 23 November 2026 speech that the revision of Senegal's statistics law is well advanced, and asked the finance and economy minister to see it through so the revised texts can enter into force.",
+              "as_of": "2026-11-23",
+              "date_precision": "day",
+              "system": "loi statistique",
+              "class": "law"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    }
+  }
+}

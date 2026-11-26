@@ -1,0 +1,7 @@
+{"slug": "2026-11-25-bfa-aminata-zerbo-sabane-devoile-les-priorites-de-la-transformat", "studies": {
+"digitalsovereignty": {"countries": {"BFA": {"facts": [], "systems": [{"system": "RESINA", "country_label": "Burkina Faso", "class": "other", "platform": "government administration network", "owner": "Ministry of Digital Transition", "tiers": ""}], "note": "Only a network upgrade planned for the 2027 budget is stated; no rule or plan on control of state data."}}},
+"idcoverage": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Biometric enrolment is said to continue, with no count or share."}}},
+"idrobustness": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Continued biometric enrolment is mentioned without saying the system issues unique credentials."}}},
+"localgov": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The network upgrade covers administrative buildings in general, with no local government office named."}}},
+"schoolinternet": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

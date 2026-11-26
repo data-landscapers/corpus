@@ -1,0 +1,10 @@
+{"slug": "2026-10-16-moz-governo-prepara-regras-para-uso-de-inteligencia-artificial-nas-escolas", "studies": {
+"aiabuse": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "aiharm", "aspect": "rule", "value": "draft", "fact": "Mozambique's education ministry coordinating council reviewed favourably a draft of 19-article guidelines on AI use in schools, raised by concerns over academic integrity and personal data protection, still to be formalised by a joint ministerial diploma and not yet in force.", "as_of": "2026-10-16", "date_precision": "day", "system": "directrizes para o uso de Inteligencia Artificial nas escolas", "class": "aiharm"}],
+"systems": [], "note": ""}}},
+"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Draft guidelines are a rule on AI in schools; no government AI system in use or piloted is stated."}}},
+"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Guidelines only; no AI tool working in a public education system is stated."}}},
+"aisystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country stated."}}},
+"dataprotectionlaw": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Personal data protection is named only as a concern behind the AI guidelines; no general law stated."}}},
+"schools": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on school learner records or an EMIS."}}}
+}}

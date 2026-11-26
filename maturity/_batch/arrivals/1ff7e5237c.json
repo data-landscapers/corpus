@@ -1,0 +1,10 @@
+{"slug": "2026-11-24-moz-governo-defende-facilitacao-dos-servicos-de-estado", "studies": {
+"authentication": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "A digital identity workshop and a stated aim to accelerate digital identity; no authentication service is stated as piloted or in use."}}},
+"birthidlink": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No link between civil register and ID system is stated."}}},
+"egovservices": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "Portal do Cidadao", "country_label": "Mozambique", "class": "other", "platform": "citizen portal", "owner": "ATDI", "tiers": ""}], "note": "The Citizen Portal is named only as a priority to accelerate, with services still to be chosen; no service is stated online."}}},
+"idcoverage": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID is stated."}}},
+"idfrombirth": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Who operates or owns the ID system is not stated."}}},
+"idregisters": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Data sharing is a stated aim only; no register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No national ID system is described as procured, piloted or in service."}}}
+}}

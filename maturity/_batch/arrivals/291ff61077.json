@@ -1,0 +1,7 @@
+{"slug": "2024-04-03-zaf-sars-doubles-down-on-ai-machine-learning-after-revenue-gains", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is mentioned."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The AI named is inside the tax authority's compliance system, a sector system."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "ITWeb reports that SARS uses data, AI and machine learning algorithms in its compliance programme to counter criminality and non-compliance and to block fraudulent refunds.", "as_of": "2024-04-03", "date_precision": "day", "system": "SARS compliance programme AI and machine learning", "class": "sectorai"}], "systems": [{"system": "SARS compliance programme AI and machine learning", "country_label": "SARS compliance AI", "class": "sectorai", "platform": "", "owner": "South African Revenue Service", "tiers": ""}], "note": "The R293.7 billion is the whole compliance programme's result, not measured for the AI system alone, so no results fact."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is named."}}},
+"taxregister": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The tax register is said to have grown by 411,000 companies and 1.1 million individuals, but nothing says it is computerised, shared or tied to the ID."}}}
+}}

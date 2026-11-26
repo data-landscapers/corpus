@@ -1,0 +1,71 @@
+{
+  "slug": "2026-07-29-nam-govt-probes-n-40m-us-agriculture-deal",
+  "studies": {
+    "agrisatellite": {
+      "countries": {
+        "NAM": {
+          "facts": [
+            {
+              "sub_indicator": "agrisat",
+              "aspect": "service",
+              "value": "underway",
+              "fact": "The Issue reports that the Ministry of Agriculture signed an agreement with US firm 6th Grain, worth US$2.4 million (about N$40 million), to deploy AI and satellite imagery crop monitoring across Namibia's staple crops; the government has opened a probe into the award.",
+              "as_of": "2026-07",
+              "date_precision": "month",
+              "system": "6th Grain crop monitoring system",
+              "class": "agrisat"
+            }
+          ],
+          "systems": [
+            {"system": "6th Grain crop monitoring system", "country_label": "Namibia", "class": "agrisat", "platform": "6th Grain", "owner": "Ministry of Agriculture, Fisheries, Water and Land Reform", "tiers": ""}
+          ],
+          "note": ""
+        }
+      }
+    },
+    "aiabuse": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is described."}}},
+    "aigovernment": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The only AI system named is an agriculture sector tool, which belongs to the sectoral study."}}},
+    "aisectoral": {
+      "countries": {
+        "NAM": {
+          "facts": [
+            {
+              "sub_indicator": "sectorai",
+              "aspect": "use",
+              "value": "underway",
+              "fact": "The Issue reports that 6th Grain is to supply AI and satellite crop monitoring for crop mapping, land suitability and pasture monitoring under an agreement with the Ministry of Agriculture; no system is reported in service.",
+              "as_of": "2026-07",
+              "date_precision": "month",
+              "system": "6th Grain crop monitoring system",
+              "class": "sectorai"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    },
+    "aisystems": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The AI system is a foreign company's product with no local development or AI computing stated."}}},
+    "digitalsovereignty": {
+      "countries": {
+        "NAM": {
+          "facts": [
+            {
+              "sub_indicator": "sovereignty",
+              "aspect": "terms",
+              "value": "carried",
+              "fact": "The Issue quotes 6th Grain CEO Vlad Eskin saying that on completion every line of code and the full intellectual property rights will be handed to the Namibian government, with no software or licensing costs afterwards; the contract itself is not published.",
+              "as_of": "2026-07",
+              "date_precision": "month",
+              "system": "6th Grain crop monitoring system",
+              "class": "sovereignty"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    },
+    "publicconsultation": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on consultation of outside parties on a digital law or policy; the complaints concern procurement."}}}
+  }
+}

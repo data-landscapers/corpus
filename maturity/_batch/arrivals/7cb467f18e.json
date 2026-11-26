@@ -1,0 +1,12 @@
+{"slug": "2026-11-25-gha-momo-announces-revised-wallet-limits-in-compliance-with-bank-of-ghana", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Article cites a Bank of Ghana agenda but does not state licensing, switch oversight or PAPSS."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Wallet limits are stated, not consumer rules or complaints."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"idverification": {"countries": {"GHA": {"facts": [], "systems": [], "note": "KYC tiers named but no check against the national ID is stated."}}},
+"paymentslaw": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The Bank of Ghana instrument behind the limits is not named, so no law or rules fact."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No survey share of adults."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "MobileMoney Fintech Ltd (MoMo) runs mobile money wallets for customers, merchants and agents, with revised monthly limits of GHS 150,000 (Medium KYC) and GHS 300,000 (Enhanced KYC) from 24 November 2026, per Tech Review Africa.", "as_of": "2026-11-24", "date_precision": "day", "system": "MoMo", "class": "retail"}], "systems": [{"system": "MoMo", "country_label": "Ghana", "class": "retail", "platform": "mobile money wallet (USSD, app)", "owner": "MobileMoney Fintech Ltd", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

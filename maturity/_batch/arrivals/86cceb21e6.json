@@ -1,0 +1,13 @@
+{"slug": "2026-07-06-ago-tax-authorities-identified-15-000-companies-with-irregular-tax-returns", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The AI use stated is inside the tax administration, a sector system, so it is not general administration."}}},
+"aisectoral": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "AGT chair José Leiria says Angola's tax management system uses artificial intelligence to cross-reference electronic invoices with import documents and detect inconsistencies.", "as_of": "2026-07-06", "date_precision": "day", "system": "tax intelligence system", "class": "sectorai"},
+{"sub_indicator": "sectorai", "aspect": "results", "value": "reported", "fact": "AGT chair José Leiria says the tax intelligence system found that 15,000 of about 40,000 zero-value company declarations received in April and May carried out transactions.", "as_of": "2026-07-06", "date_precision": "day", "system": "tax intelligence system", "class": "sectorai"}],
+"systems": [{"system": "tax intelligence system", "country_label": "Angola", "class": "sectorai", "platform": "", "owner": "AGT", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in the country is stated."}}},
+"coresystems": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "core", "aspect": "revenue", "value": "inuse", "fact": "AGT chair José Leiria describes a tax management system in use that uses AI and lets the tax administration cross-reference electronic invoices with import documents.", "as_of": "2026-07-06", "date_precision": "day", "system": "tax management system", "class": "core"}],
+"systems": [{"system": "tax management system", "country_label": "Angola", "class": "core", "platform": "", "owner": "AGT", "tiers": ""}], "note": ""}}},
+"taxregister": {"countries": {"AGO": {"facts": [], "systems": [], "note": "NIF suspensions and registrations are described, but no computerised register is stated."}}}
+}}

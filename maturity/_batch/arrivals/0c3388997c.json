@@ -1,0 +1,7 @@
+{"slug": "2026-11-24-sen-souverainete-des-donnees-un-enjeu-majeur-pour-la-transformation-numeri", "studies": {
+"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only a general statement on data value through AI; no government AI system stated."}}},
+"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No AI tool in a sector system stated."}}},
+"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country stated."}}},
+"digitalsovereignty": {"countries": {"SEN": {"facts": [{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "Senegal's Ministry of Telecommunications and Digital Affairs, with Minister Samba Diouf speaking at the ANSD 20th-anniversary forum, set a target of hosting 100% of the State's sensitive data in Senegal by 2034 under the New Deal Technologique.", "as_of": "2026-11-24", "date_precision": "day", "system": "New Deal Technologique", "class": "sovereignty"}], "systems": [], "note": ""}}}
+}}

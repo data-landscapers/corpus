@@ -1,0 +1,6 @@
+{"slug": "2026-04-17-rwa-screening-performance-and-implementation-determinants-of-an-ai-assiste", "studies": {
+"aiabuse": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Regulatory approval is named only as a barrier; no rule or authority stated."}}},
+"aigovernment": {"countries": {"RWA": {"facts": [], "systems": [], "note": "A health screening study, not general administration."}}},
+"aisectoral": {"countries": {"RWA": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "A preprint reports an AI-assisted visual inspection app for cervical cancer screening was tested on 251 women at Kicukiro Health Center in Kigali, with AI sensitivity 33.3% against nurses' 51.5%.", "as_of": "2025-07", "date_precision": "month", "system": "AI-assisted VIA mobile application", "class": "sectorai"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The abstract does not say who built the algorithm or that it was built in Rwanda."}}}
+}}

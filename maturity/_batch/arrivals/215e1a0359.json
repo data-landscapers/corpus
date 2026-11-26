@@ -1,19 +1,3 @@
 {"slug": "2026-09-01-ssd-low-cost-technology-solutions-for-expanding-quality-services-into-hard", "studies": {
-"aiabuse": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules."}}},
-"aigovernment": {"countries": {"SSD": {"facts": [], "systems": [], "note": "The only AI tool is a clinical decision system in health facilities, which belongs to the sectoral study."}}},
-"aisectoral": {"countries": {"SSD": {"facts": [
-{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "WHO's South Sudan knowledge series (September 2026) reports the Digital Care Companion, a clinical decision support system on symbolic AI, logging 3,168 patient visits across 12 facilities in 10 States and Administrative Areas, with clinicians accepting its diagnosis recommendations.", "as_of": "2026-09", "date_precision": "month", "system": "Digital Care Companion", "class": "sectorai"},
-{"sub_indicator": "sectorai", "aspect": "results", "value": "reported", "fact": "WHO reports 64.9% of the Digital Care Companion's diagnosis recommendations were accepted by clinicians and 95.0% of 3,168 logged consultations were completed through all nine steps.", "as_of": "2026-09", "date_precision": "month", "system": "Digital Care Companion", "class": "sectorai"}
-], "systems": [{"system": "Digital Care Companion", "country_label": "South Sudan", "class": "sectorai", "platform": "offline-first thin client with Starlink and solar", "owner": "not stated; WHO knowledge series", "tiers": ""}], "note": ""}}},
-"aisystems": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document does not say the Digital Care Companion was built in South Sudan or by whom."}}},
-"digitaldivides": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No rural connectivity programme or rural and urban internet use figures stated; Starlink is only a facility link."}}},
-"health": {"countries": {"SSD": {"facts": [
-{"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "The Digital Care Companion captures the full patient encounter digitally in the facility, building structured digital profiles that link visits, per WHO's September 2026 series.", "as_of": "2026-09", "date_precision": "month", "system": "Digital Care Companion", "class": "emr"},
-{"sub_indicator": "emr", "aspect": "clinics", "value": "count:12", "fact": "WHO says the Digital Care Companion is logging visits at 12 facilities in 10 States and Administrative Areas and calls for phased expansion to more remote primary clinics.", "as_of": "2026-09", "date_precision": "month", "system": "Digital Care Companion", "class": "emr"}
-], "systems": [], "note": ""}}},
-"healthmis": {"countries": {"SSD": {"facts": [
-{"sub_indicator": "hmis", "aspect": "completeness", "value": "published", "fact": "WHO's September 2026 series states South Sudan's routine health reporting completeness is approximately 63% and timeliness approximately 52%.", "as_of": "2026-09", "date_precision": "month", "system": "routine health reporting", "class": "hmis"}
-], "systems": [], "note": ""}}},
-"qualitystandards": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document names no national standards body or national IT standard."}}},
-"satellitebroadband": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Starlink is used as a facility link; no licence or sale to households or businesses is stated."}}}
+"ailaw": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document is a WHO health decision-support brief; it states no AI law, draft or binding rule."}}}
 }}

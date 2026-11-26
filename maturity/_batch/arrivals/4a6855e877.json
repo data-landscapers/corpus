@@ -1,0 +1,19 @@
+{"slug": "2026-11-25-bfa-innovation-et-technologie-la-21e-edition-de-la-semaine-du-numerique-ou", "studies": {
+"authentication": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No authentication, e-signature or PKI service is mentioned."}}},
+"birthidlink": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No link between civil register and ID is stated."}}},
+"datacentres": {"countries": {"BFA": {"facts": [], "systems": [{"system": "Two modular government data centres", "country_label": "Burkina Faso", "class": "other", "platform": "modular data centres", "owner": "Administration", "tiers": ""}], "note": "The two modular data centres are the administration's own; none is said to rent space to others."}}},
+"dataprotectionlaw": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Data protection is mentioned only in passing; no law is stated."}}},
+"digitalsovereignty": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Sovereignty is stated as a government priority only in general terms; no plan, rule, hosting of state data or contract terms is stated."}}},
+"digitalstrategy": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No national digital strategy is named."}}},
+"idcoverage": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No count or share of people enrolled is stated."}}},
+"idfrombirth": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Who operates or owns the identifier is not stated."}}},
+"idregisters": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No public register is said to use the identifier."}}},
+"idrobustness": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Sidwaya reports Prime Minister Rimtalba Jean Emmanuel Ouedraogo listing among the government's gains, at the opening of the 21st Semaine du numerique, the launch of the unique identifier of persons.", "as_of": "2026-11-24", "date_precision": "day", "system": "Identifiant unique des personnes", "class": "idsystem"}
+], "systems": [{"system": "Identifiant unique des personnes", "country_label": "Burkina Faso", "class": "idsystem", "platform": "unique person identifier", "owner": "Government", "tiers": ""}], "note": ""}}},
+"itcapacity": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No statement of who builds or runs the government's systems."}}},
+"nationaldatacentres": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The two government modular data centres are not said to be for hire or to host state data."}}},
+"startups": {"countries": {"BFA": {"facts": [], "systems": [], "note": "A Village Startup at the event is not a startup law, label or fund."}}},
+"techhubs": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No hub, incubator or park is described."}}}
+}}

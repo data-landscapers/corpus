@@ -1,0 +1,10 @@
+{"slug": "2026-02-13-nga-guidance-notes-for-the-implementation-and-enforcement-of-the-internet", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "aiharm", "aspect": "rule", "value": "inforce", "fact": "Nigeria's NCC says its Internet Code of Practice 2026, re-issued as Guidelines under section 70 of the Nigerian Communications Act and binding on licensees as subsidiary legislation, requires licensees to notify the Commission before deploying any AI tool or algorithm, with a 15-day review.", "as_of": "2026-02-13", "date_precision": "day", "system": "Internet Code of Practice 2026", "class": "aiharm"},
+{"sub_indicator": "aiharm", "aspect": "authority", "value": "designated", "fact": "Nigeria's NCC states in the Code's guidance notes that the Commission has governance management over the deployment of AI and emerging technologies on the networks.", "as_of": "2026-02-13", "date_precision": "day", "system": "Nigerian Communications Commission", "class": "aiharm"}],
+"systems": [{"system": "Internet Code of Practice 2026", "country_label": "Nigeria", "class": "aiharm", "platform": "", "owner": "NCC", "tiers": ""}], "note": ""}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No government body's use of an AI system stated."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No AI tool in a sector system stated."}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country stated."}}},
+"dataprotectionlaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only says NCC will work with the NDPC on personal data; no law, standing or decision on a general data protection law stated."}}}
+}}

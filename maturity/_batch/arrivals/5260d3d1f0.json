@@ -1,0 +1,8 @@
+{"slug": "2026-04-29-ago-contrato-de-producao-petrolifera-domina-sessao-do-conselho-de-ministro", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The AI bill is named only by title, with no harm or authority stated."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No government AI system is described."}}},
+"ailaw": {"countries": {"AGO": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Angop reports that the 29 April 2026 agenda of the Council of Ministers included appraising the proposed Law on Artificial Intelligence, an initiative of the Ministry of Telecommunications, Information Technologies and Social Communication.", "as_of": "2026-04-29", "date_precision": "day", "system": "Proposta de Lei sobre a Inteligencia Artificial", "class": "law"}], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No sector AI system is described."}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is described."}}},
+"police": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated on police digital systems."}}}
+}}

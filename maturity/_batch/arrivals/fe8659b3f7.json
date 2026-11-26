@@ -1,0 +1,9 @@
+{"slug": "2025-11-08-uga-government-pushes-for-indigenous-ai-solutions-in-health-at-2nd-ai-in-h", "studies": {
+"aiabuse": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only says progress on a National AI Governance Framework; no draft published, rule, authority or enforcement stated."}}},
+"aigovernment": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No government body's own AI use is described."}}},
+"aisectoral": {"countries": {"UGA": {"facts": [], "systems": [{"system": "Mak Ocular", "country_label": "Mak Ocular", "class": "other", "platform": "AI-powered mobile microscopy", "owner": "Makerere University", "tiers": ""}], "note": "Mak Ocular is not stated to be piloted or in service in a public health system; the AI Health Lab is a research facility."}}},
+"aisystems": {"countries": {"UGA": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "The Ministry of ICT article says Mak Ocular, a locally developed AI-powered mobile microscopy system built at Makerere University with a USD 1.5 million Google.org grant, automates diagnosis of malaria, tuberculosis and cervical cancer.", "as_of": "2025-11-08", "date_precision": "day", "system": "Mak Ocular", "class": "localai"}], "systems": [{"system": "Mak Ocular", "country_label": "Mak Ocular", "class": "localai", "platform": "AI-powered mobile microscopy", "owner": "Makerere University", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Names a Digital Transformation Roadmap only in passing; no standing, text, period, plan or reporting stated."}}},
+"itcapacity": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No government staff running or building systems is stated."}}},
+"publicconsultation": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Conference reported; no named digital law or policy put to outside people."}}}
+}}

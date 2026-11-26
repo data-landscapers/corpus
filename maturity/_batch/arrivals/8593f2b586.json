@@ -1,1 +1,5 @@
-{"slug": "2026-11-24-bfa-semaine-du-numerique-le-burkina-faso-place-la-souverainete-technologique-au", "studies": {"digitalsovereignty": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The Prime Minister calls digital sovereignty a government priority in general terms; no strategy, plan, rule or hosting stated."}}}}}
+{"slug": "2026-11-24-bfa-semaine-du-numerique-le-burkina-faso-place-la-souverainete-technologique-au", "studies": {
+"exchangepoints": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No exchange point is mentioned."}}},
+"fibrebackbone": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No backbone contract, works or service is stated."}}},
+"internetusage": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Only subscription counts are given, which are not a share of people using the internet."}}}
+}}

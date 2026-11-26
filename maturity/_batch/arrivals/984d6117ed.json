@@ -1,5 +1,1 @@
-{"slug": "2026-11-24-dji-djibouti-tend-la-fibre-optique-pour-connecter-administrations-coles-et-h-pi", "studies": {
-"civilserviceskills": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Skills are named only as an aim of the World Bank project; no civil servant training is stated."}}},
-"digitalskills": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Skills are named only as an aim of the World Bank project; no programme for the public is stated."}}},
-"nonstatefinance": {"countries": {"DJI": {"facts": [], "systems": [], "note": "The US$10m IDA project funds the government; no private money is stated."}}}
-}}
+{"slug": "2026-11-24-dji-djibouti-tend-la-fibre-optique-pour-connecter-administrations-coles-et-h-pi", "studies": {"coresystems": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Fibre to public sites only; no finance, revenue or payroll system stated."}}}, "fibrebackbone": {"countries": {"DJI": {"facts": [], "systems": [{"system": "Djibouti Fondement numerique public-site fibre", "country_label": "Djibouti", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Fibre to hospitals, schools and administrative buildings is not a capital-to-regions backbone."}}}}}

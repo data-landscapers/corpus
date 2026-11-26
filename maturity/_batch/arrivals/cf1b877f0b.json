@@ -1,0 +1,9 @@
+{"slug": "2025-09-18-swz-e21mln-mobile-tb-trucks-12-motorbikes-to-enhance-fight-against-tb", "studies": {
+"aiabuse": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on rules or authority against AI harms."}}},
+"aigovernment": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The AI use stated is inside the health sector, not general administration."}}},
+"aisectoral": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "Health Minister Mduduzi Matsebula commissioned four mobile TB trucks, three equipped with chest X-ray and computer-aided detection AI, for the National TB Control Programme's screening, to be deployed to the regions.", "as_of": "2025-09-17", "date_precision": "day", "system": "Mobile TB trucks with CAD/AI chest X-ray", "class": "sectorai"},
+{"sub_indicator": "sectorai", "aspect": "results", "value": "reported", "fact": "The health minister said one of the CAD/AI trucks screened 229 people at the Eswatini International Trade Fair and identified eight cases referred to health facilities.", "as_of": "2025-09", "date_precision": "month", "system": "Mobile TB trucks with CAD/AI chest X-ray", "class": "sectorai"}
+], "systems": [{"system": "Mobile TB trucks with CAD/AI chest X-ray", "country_label": "Mobile TB trucks", "class": "sectorai", "platform": "CAD/AI chest X-ray, GeneXpert", "owner": "Ministry of Health, National TB Control Programme", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No local AI development stated; the AI technology was procured through Global Fund."}}}
+}}

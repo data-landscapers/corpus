@@ -1,12 +1,3 @@
 {"slug": "2026-11-24-xwa-african-development-bank-backs-sierra-leone-s-bid-to-host-regional-dat", "studies": {
-"aiabuse": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules."}}},
-"aigovernment": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document states nothing on government use of AI."}}},
-"aisectoral": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document states nothing on sectoral AI."}}},
-"aisystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "A feasibility grant for hosting a regional data embassy is not AI computing; no AI model, dataset or facility is named."}}},
-"digitalsovereignty": {"countries": {"SLE": {"facts": [
-{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "AfDB says the ECOWAS Regional Data Embassy Initiative, which Sierra Leone championed and which ECOWAS heads of state approved, would create trusted cross-border hosting of critical government data while preserving national jurisdiction and ownership.", "as_of": "2026-11", "date_precision": "month", "system": "ECOWAS Regional Data Embassy Initiative", "class": "sovereignty"}
-], "systems": [{"system": "ECOWAS Regional Data Embassy Initiative", "country_label": "Sierra Leone", "class": "sovereignty", "platform": "", "owner": "ECOWAS", "tiers": ""}], "note": ""}}},
-"regionalpolicy": {"countries": {"SLE": {"facts": [
-{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Minister Salima Monorma Bah said Sierra Leone championed the ECOWAS Regional Data Embassy Initiative through ECOWAS, which its ICT Council of Ministers endorsed, and AfDB granted US$750,000 for a feasibility assessment of Sierra Leone hosting it.", "as_of": "2026-11", "date_precision": "month", "system": "ECOWAS Regional Data Embassy Initiative", "class": "cooperation"}
-], "systems": [], "note": ""}}}
+"datatransfers": {"countries": {"SLE": {"facts": [], "systems": [], "note": "A regional data embassy for hosting government data is not a rule on sending personal data abroad."}}}
 }}

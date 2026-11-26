@@ -1,0 +1,31 @@
+{
+ "slug": "2026-01-13-mar-intelligence-artificielle-un-prompt-made-in-morocco",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Dakhla green data centre mega campus",
+   "country_label": "MAR",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Rabat 50 MW data centre and sovereign cloud",
+   "country_label": "MAR",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Benguerir data centre extension",
+   "country_label": "MAR",
+   "class": "other",
+   "platform": "",
+   "owner": "UM6P",
+   "tiers": ""
+  }
+ ],
+ "note": "Data centres are named only as announced projects, none stated in service or for hire."
+}
