@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "no evidence",
-      "standing": "",
+      "stage": "1",
+      "standing": "none",
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.",
-      "note": "Counted from the four questions by study-ladder-ailaw.py.",
-      "as_at": "2026-10-13"
+      "stage_sources": "CIV-001",
+      "gaps": "No source found names a bill, draft decree or draft regulation on AI; the 2026 statement says only that there is no specific law.",
+      "note": "A dated 2026 statement says Cote d'Ivoire has no AI-specific law and names no draft, which sets stage 1. No bill or draft on AI is named.",
+      "as_at": "2026-11-26"
     }
   ]
 }

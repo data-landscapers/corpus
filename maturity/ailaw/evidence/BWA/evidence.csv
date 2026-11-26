@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BWA-001,BWA,law,standing,none,"The Probe Journal's essay states that as of mid-2026 Botswana has no enacted AI-specific legislation, and that a National AI Policy is still being developed; the essay's published date of 2026-08-26 is used.",2026-08-26,day,AI legislation,law,2026-08-26-bwa-the-ai-question-botswana-cannot-avoid,https://theprobe.co.bw/the-ai-question-botswana-cannot-avoid/

@@ -24,9 +24,9 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 | 4 Operating | 0 |
 | 3 Established | 8 |
 | 2 Nascent | 11 |
-| 1 Absent | 22 |
+| 1 Absent | 24 |
 | Unplaced | 0 |
-| No evidence | 13 |
+| No evidence | 11 |
 
 ## Countries
 
@@ -160,6 +160,12 @@ In 2025 the Forum on Information and Democracy said Benin has no binding AI rule
 
 - Forum on Information and Democracy and ALCRER state that outside the national AI and big-data strategy 2023-2027, Benin has no specific and sufficiently binding regulation on developing, deploying or using AI systems ([source, 2025-04](https://informationdemocracy.org/wp-content/uploads/2025/04/FID_Plaquette-IA-BENIN_VDEF-1.pdf)).
 
+### Botswana: 1 Absent
+
+In 2026 a source said Botswana has no law on AI in force; no draft has been found.
+
+- The Probe Journal's essay states that as of mid-2026 Botswana has no enacted AI-specific legislation, and that a National AI Policy is still being developed; the essay's published date of 2026-08-26 is used ([source, 2026-08-26](https://theprobe.co.bw/the-ai-question-botswana-cannot-avoid/)).
+
 ### Burundi: 1 Absent
 
 In 2026 a review said Burundi has no dedicated AI law; no draft is named.
@@ -177,6 +183,12 @@ A June 2026 account says Cameroon has no AI law and no draft; no binding rule on
 In April 2026 a minister said Chad's digital texts cannot regulate AI and set up a committee; no draft law is known.
 
 - On 27 April 2026 the telecoms minister said existing digital texts no longer allow AI to be regulated, and installed a 34-member committee with 45 days to propose updated texts; no draft text on AI is named, and the article describes the current legal vacuum on AI ([source, 2026-04-27](https://www.digitalbusiness.africa/tchad-le-gouvernement-accelere-la-refonte-du-cadre-juridique-du-numerique-pour-encadrer-lia-et-renforcer-la-souverainete-digitale/)).
+
+### Cote d'Ivoire: 1 Absent
+
+In March 2026 an expert said Cote d'Ivoire has no AI-specific law; no draft has been found.
+
+- Digital Mag reports digital-law expert Dr Ibrahim Coulibaly saying at a 11 March 2026 conference that Cote d'Ivoire has no AI-specific law and relies on soft law over existing digital texts ([source, 2026-03-11](https://digitalmag.ci/digitalisation-et-regulation-de-la-technologie-de-lintelligence-artificielle-ia-en-cote-divoire/)).
 
 ### DR Congo: 1 Absent
 
@@ -293,12 +305,6 @@ An analyst wrote in July 2026 that Zimbabwe has no AI law and no draft; no sourc
 
 - African Law Matters analyst Tashinga Magaya writes that the National AI Strategy is not a law, that the proposed regulator has no enabling Act, and that the Cyber and Data Protection Act is the law that applies to AI today, so no AI-specific rule is in force and she urges that a draft AI Act be introduced within twelve to eighteen months ([source, 2026-07-27](https://www.africanlawmatters.com/blog/strategy-without-statute-reading-zimbabwes-national-ai-strategy)).
 
-### Botswana: No evidence
-
-Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
-
 ### Burkina Faso: No evidence
 
 Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
@@ -312,12 +318,6 @@ Nothing found names a law or binding rule on AI, or a draft of one, or says ther
 Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Central African Republic: No evidence
-
-Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### Cote d'Ivoire: No evidence
 
 Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
