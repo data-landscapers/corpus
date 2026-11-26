@@ -292,13 +292,14 @@ africultures,africultures,AfriCultuReS,XAF,other,auto
 afriex,afriex,Afriex,NGA,other,auto
 afrifiber,afrifiber,AfriFiber,DJI,other,auto
 afrigo,afrigo,AfriGO,NGA,other,auto
+afrik-com,afrik-com,Afrik.com,FRA,other,auto
 afrik-creance,afrik-creance,Afrik Créance,BEN,other,auto
 afrik-info,afrik-info,Afrik Info,XAF,other,auto
 afrik-soir,afrik-soir,Afrik Soir,CIV,other,auto
 afrik-times,afrik-times,Afrik Times,,other,auto
 afrikactu,afrikactu,Afrikactu,BFA,other,auto
 afrikinfos-mali,afrikinfos-mali,Afrikinfos-Mali,MLI,other,auto
-afrilabs,afrilabs,AfriLabs,XAF,other,auto
+afrilabs,afrilabs,AfriLabs,,other,auto
 afriland-first-bank,afriland-first-bank,Afriland First Bank,CMR,other,auto
 afrimoney,afrimoney,Afrimoney,SLE,other,auto
 afrinic,afrinic,AFRINIC,MUS,other,auto
@@ -333,6 +334,7 @@ agence-congolaise-dinformation,agence-congolaise-dinformation,Agence Congolaise 
 agence-de-developpement-municipal-senegal,agence-de-developpement-municipal-senegal,Agence de développement municipal (ADM),SEN,other,auto
 agence-de-developpement-seme-city,agence-de-developpement-seme-city,Agence de développement de Sémé City,BEN,other,auto
 agence-de-presse-senegalaise,agence-de-presse-senegalaise,Agence de Presse Sénégalaise,SEN,other,auto
+agence-des-systemes-dinformation-et-du-numerique,agence-des-systemes-dinformation-et-du-numerique-benin,Agence des Systèmes d'Information et du Numérique,BEN,other,auto
 agence-des-systemes-dinformation-et-du-numerique-benin,agence-des-systemes-dinformation-et-du-numerique-benin,Agence des Systèmes d'Information et du numérique,BEN,other,auto
 agence-developpement-burundi,agence-developpement-burundi,Agence de Développement du Burundi,BDI,other,auto
 agence-ecofin,agence-ecofin,Agence Ecofin,CHE,other,auto
@@ -736,7 +738,7 @@ artci,artci,ARTCI,CIV,other,auto
 artec-madagascar,artec-madagascar,ARTEC,MDG,other,auto
 artf-congo,artf-congo,ARTF. Ils,COG,other,auto
 article-19,article-19,ARTICLE 19,XGL,other,auto
-artp-senegal,artp-senegal,L'ARTP,SEN,other,auto
+artp-senegal,artp-senegal,Autorité de régulation des télécommunications et des postes (ARTP),SEN,other,auto
 arxiv,arxiv,arXiv,USA,other,auto
 asa-ci,asa-ci,ASA-CI,CIV,other,auto
 asaase-radio,asaase-radio,Asaase Radio,GHA,other,auto
@@ -750,7 +752,7 @@ aser-senegal,aser-senegal,ASER II,SEN,other,auto
 asharq-al-awsat,asharq-al-awsat,Asharq Al-Awsat,GBR,other,auto
 ashe-news-daily,ashe-news-daily,Ashe News Daily,,other,auto
 asia-business-daily,asia-business-daily,Asia Business Daily,KOR,other,auto
-asin-benin,asin-benin,L’ASIN,BEN,other,auto
+asin-benin,asin-benin,Asin,BEN,other,auto
 ask-africa,ask-africa,Ask Africa,XAF,other,auto
 askani-gambia,askani-gambia,Askani Gambia,GMB,other,auto
 askanwi,askanwi,Askanwi,LBR,other,auto
@@ -1728,7 +1730,6 @@ conseil-economique-social-et-environnemental,conseil-economique-social-et-enviro
 conseil-etat-madagascar,conseil-etat-madagascar,Conseil d’État,MDG,other,auto
 conseil-federal-des-commercants-cote-divoire,conseil-federal-des-commercants-cote-divoire,Conseil fédéral des commerçants de Côte d'Ivoire (CFC-CI),CIV,other,auto
 conseil-guineen-des-chargeurs,conseil-guineen-des-chargeurs,Conseil Guinéen des Chargeurs,GIN,other,auto
-conseil-national-de-la-communication-cameroon,conseil-national-de-la-communication-cameroon,Conseil National de la Communication,CMR,other,auto
 conseil-national-de-la-statistique-cameroun,conseil-national-de-la-statistique-cameroun,Conseil National de la Statistique,CMR,other,auto
 conseil-national-de-la-statistique-mali,conseil-national-de-la-statistique-mali,Conseil National de la Statistique,MLI,other,auto
 conseil-national-de-la-statistique-tunisie,conseil-national-de-la-statistique-tunisie,Conseil national de la statistique,TUN,other,auto
@@ -1747,7 +1748,6 @@ conseil-superieur-magistrature-drc,conseil-superieur-magistrature-drc,Conseil su
 conseil-superieur-pouvoir-judiciaire-morocco,conseil-superieur-pouvoir-judiciaire-morocco,Conseil supérieur du pouvoir judiciaire,MAR,other,auto
 consejo-nacional-de-estadistica-gnq,consejo-nacional-de-estadistica-gnq,Consejo Nacional de Estadística,GNQ,other,auto
 conselho-de-ministros-angola,conselho-de-ministros-angola,Conselho de Ministros,AGO,other,auto
-conselho-de-ministros-mozambique,conselho-de-ministros-mozambique,Conselho de Ministros,MOZ,other,auto
 conselho-municipal-da-beira,conselho-municipal-da-beira,Conselho Municipal da Beira,MOZ,other,auto
 conselho-municipal-de-nampula,conselho-municipal-de-nampula,Conselho Municipal de Nampula. Pereira,MOZ,other,auto
 conselho-nacional-de-estatistica-angola,conselho-nacional-de-estatistica-angola,Conselho Nacional de Estatística,AGO,other,auto
@@ -2526,7 +2526,6 @@ escopil-internacional,escopil-internacional,Escopil Internacional,MOZ,other,auto
 escwa,escwa,Economic and Social Commission for Western Asia,LBN,other,auto
 eseparc,eseparc,ESEPARC,SWZ,other,auto
 eset,eset,ESET,KEN,other,auto
-eshec,eshec,ESHEC,SWZ,other,auto
 eskom,eskom,Eskom,ZAF,other,auto
 espacemanager,espacemanager,Espacemanager,TUN,other,auto
 esppra,esppra,ESPPRA,SWZ,other,auto
@@ -3300,6 +3299,7 @@ hespress,hespress,Hespress,MAR,other,auto
 hewlett-packard-enterprise,hewlett-packard-enterprise,Hewlett Packard Enterprise,USA,other,auto
 hexaract-network-experts,hexaract-network-experts,Hexaract Network Experts,BWA,other,auto
 hezron-insights,hezron-insights,Hezron Insights,,other,auto
+hi-tech-afrique-tv,hi-tech-afrique-tv,Hi-Tech Afrique TV,COD,other,auto
 hiascope,hiascope,Hiascope,XAF,other,auto
 high-commission-digitalisation-algeria,high-commission-digitalisation-algeria,"High Commission for Digitalization, Algeria",DZA,government,auto
 high-commission-of-india-zambia,high-commission-of-india-zambia,"Indian High Commission, Zambia",ZMB,government,auto
@@ -3410,6 +3410,7 @@ icilome,icilome,Icilome,TGO,other,auto
 icj-kenya,icj-kenya,International Commission of Jurists,KEN,other,auto
 icn-ghana,icn-ghana,ICN Ghana,GHA,other,auto
 icolo,icolo,IColo,KEN,other,auto
+iconiq-afrique,iconiq-afrique,ICONIQ Afrique,XAF,other,auto
 icosnet,icosnet,ICOSNET,DZA,other,auto
 icpau,icpau,Institute of Certified Public Accountants of Uganda,UGA,other,auto
 icpc,icpc,ICPC Chairman,NGA,other,auto
@@ -4397,7 +4398,7 @@ maadi-technology-park,maadi-technology-park,Maadi Technology Park,EGY,other,auto
 maaif-uganda,maaif-uganda,MAAIF,UGA,other,auto
 maastricht-graduate-school-of-governance-mgsog-maastricht-university,maastricht-graduate-school-of-governance-mgsog-maastricht-university,"Maastricht Graduate School of Governance (MGSoG), Maastricht University",,other,auto
 machel-fidus-association,machel-fidus-association,Machel Fidus Association,MOZ,other,auto
-macra-malawi,macra-malawi,Macra,MWI,other,auto
+macra-malawi,macra-malawi,MACRA,MWI,other,auto
 mada-masr,mada-masr,Mada Masr,EGY,other,auto
 madagascar-tribune,madagascar-tribune,Madagascar-Tribune,MDG,other,auto
 madar,madar,MADAR,MRT,other,auto
@@ -4614,6 +4615,7 @@ mercury-telecom-angola,mercury-telecom-angola,Mercury,AGO,other,auto
 meridiam,meridiam,Meridiam,FRA,other,auto
 mescti-angola,mescti-angola,MESCTI,AGO,other,auto
 mesob-platform,mesob-platform,MESOB One Stop Service,ETH,other,auto
+mesrs-guinee,mesrs-guinee,MESRS,GIN,other,auto
 mesrsfp-tchad,mesrsfp-tchad,"Ministère de l’Enseignement Supérieur, de la Recherche Scientifique et de la Formation Professionnelle",TCD,other,auto
 mesrsi-guinea,mesrsi-guinea,MESRSI,GIN,other,auto
 mesupres-madagascar,mesupres-madagascar,Mesupres,MDG,other,auto
@@ -4732,7 +4734,7 @@ ministere-communication-togo,ministere-communication-togo,"Ministère de la Comm
 ministere-construction-logement-urbanisme-civ,ministere-construction-logement-urbanisme-civ,"Ministère de la Construction, du Logement et de l'Urbanisme, Cote d'Ivoire",CIV,government,auto
 ministere-construction-patrie-burkina-faso,ministere-construction-patrie-burkina-faso,Ministère de la Construction de la Patrie du Burkina Faso,BFA,government,auto
 ministere-de-l-economie-du-plan-et-de-la-cooperation-senegal,ministere-de-l-economie-du-plan-et-de-la-cooperation-senegal,"Ministère de l'Economie, du Plan et de la Coopération, Senegal",SEN,government,auto
-ministere-de-l-economie-numerique-des-postes-et-telecommunications-rca,ministere-de-l-economie-numerique-des-postes-et-telecommunications-rca,"Ministère de l'Économie numérique, des Postes et Télécommunications, Central African Republic",CAF,government,auto
+ministere-de-l-economie-numerique-des-postes-et-telecommunications-rca,ministere-de-l-economie-numerique-des-postes-et-telecommunications-rca,"ET TELECOMMUNICATIONS, Central African Republic",CAF,government,auto
 ministere-de-l-environnement-et-du-developpement-durable-rca,ministere-de-l-environnement-et-du-developpement-durable-rca,"Ministère de l'environnement et du développement durable, Central African Republic",CAF,government,auto
 ministere-de-la-communication-burkina-faso,ministere-de-la-communication-burkina-faso,"Ministère de la Communication, Burkina Faso",BFA,government,auto
 ministere-de-la-communication-de-leconomie-numerique-et-de-linnovation-guinee,ministere-de-la-communication-de-leconomie-numerique-et-de-linnovation-guinee,"Ministère de la Communication, de l'Économie numérique et de l'Innovation, Guinea",GIN,government,auto
@@ -5090,7 +5092,7 @@ ministry-of-commerce-industry-and-trade-eswatini,ministry-of-commerce-industry-a
 ministry-of-commerce-trade-and-industry-zambia,ministry-of-commerce-trade-and-industry-zambia,"Ministry of Commerce, Trade and Industry, Zambia",ZMB,government,auto
 ministry-of-communication-and-digital-economy-gambia,ministry-of-communication-and-digital-economy-gambia,"Ministry of Communication and Digital Economy and UNICEF, Gambia",GMB,government,auto
 ministry-of-communication-and-information-technology-ethiopia,ministry-of-communication-and-information-technology-ethiopia,"Ministry of Communication and Information Technology, Ethiopia",ETH,government,auto
-ministry-of-communication-and-information-technology-tanzania,ministry-of-communication-and-information-technology-tanzania,"Ministry of Communication and Information Technology Chair, Tanzania",TZA,government,auto
+ministry-of-communication-and-information-technology-tanzania,ministry-of-communication-and-information-technology-tanzania,"Ministry of Communication and Information Technology, Tanzania",TZA,government,auto
 ministry-of-communication-and-media-burundi,ministry-of-communication-and-media-burundi,"Ministry of Communication and Media, Burundi",BDI,government,auto
 ministry-of-communication-chad,ministry-of-communication-chad,"Ministère de la Communication, Chad",TCD,government,auto
 ministry-of-communication-digital-technology-and-innovation-ghana,ministry-of-communication-digital-technology-and-innovation-ghana,"Ministry of Communication, Digital Technology and Innovation, Ghana",GHA,government,auto
@@ -5498,7 +5500,7 @@ ministry-of-post-and-telecommunications-algeria,ministry-of-post-and-telecommuni
 ministry-of-posts-and-telecommunications,ministry-of-posts-and-telecommunications,"Ministry of Posts and Telecommunications, DR Congo",COD,government,auto
 ministry-of-posts-and-telecommunications-algeria,ministry-of-posts-and-telecommunications-algeria,Algerian Ministry of Posts and Telecommunications,DZA,government,auto
 ministry-of-posts-and-telecommunications-cameroon,ministry-of-posts-and-telecommunications-cameroon,"Ministry of Posts and Telecommunications, Cameroon",CMR,government,auto
-ministry-of-posts-and-telecommunications-liberia,ministry-of-posts-and-telecommunications-liberia,"Ministry of Posts and Telecommunications, Liberia",LBR,government,auto
+ministry-of-posts-and-telecommunications-liberia,ministry-of-posts-and-telecommunications-liberia,Liberia The Ministry of Posts and Telecommunications,LBR,government,auto
 ministry-of-posts-digital-economy-and-technological-innovation,ministere-economie-numerique-togo,"Ministry of the Digital Economy and Digital Transformation, Togo",TGO,government,hand
 ministry-of-posts-telecoms-comoros,ministry-of-posts-telecoms-comoros,"Ministère des Télécommunications, Comoros",COM,government,auto
 ministry-of-primary-and-secondary-education-zimbabwe,ministry-of-primary-and-secondary-education-zimbabwe,"Ministry of Primary and Secondary Education, Zimbabwe",ZWE,government,auto
@@ -5637,7 +5639,7 @@ mit-governance-lab,mit-governance-lab,MIT Governance Lab,KEN,other,auto
 mit-news,mit-news,MIT News,USA,other,auto
 mitader-mozambique,mitader-mozambique,MITADER,MOZ,other,auto
 mitrelli-group,mitrelli-group,Mitrelli,AGO,other,auto
-mixx-by-yas,mixx-by-yas,Mixx by Yas,TZA,other,auto
+mixx-by-yas,mixx-by-yas,Mixx by Yas,,other,auto
 mixx-togo,mixx-togo,Mixx Togo,TGO,other,auto
 mk-party,mk-party,MK Party,ZAF,other,auto
 ml-anthology,ml-anthology,ML Anthology,XGL,other,auto
@@ -5749,7 +5751,7 @@ mubadala,mubadala,Mubadala,ARE,other,auto
 mubas,mubas,Malawi University of Business and Applied Sciences,MWI,other,auto
 muhimbili-orthopaedic-institute,muhimbili-orthopaedic-institute,Muhimbili Orthopedic Institute (MOI),TZA,other,auto
 muhlbauer,muhlbauer,Muhlbauer,DEU,other,auto
-mukuru,mukuru,Mukuru,,other,auto
+mukuru,mukuru,Mukuru,BWA,other,auto
 multichoice,multichoice,MultiChoice,ZAF,other,auto
 multichoice-uganda,multichoice-uganda,MultiChoice Uganda,UGA,other,auto
 multilateral-investment-guarantee-agency,multilateral-investment-guarantee-agency,Multilateral Investment Guarantee Agency. Task,MAR,other,auto
@@ -6032,6 +6034,7 @@ nerc,nerc,Nigerian Electricity Regulatory Commission,NGA,other,auto
 nerdc-nigeria,nerdc-nigeria,NIGERIAN EDUCATIONAL RESEARCH AND DEVELOPMENT COUNCIL,NGA,other,auto
 nesa-rwanda,nesa-rwanda,NESA Inspectors,RWA,other,auto
 nesg,nesg,NESG,NGA,other,auto
+net-pro,net-pro,NET&PRO,XAF,other,auto
 netafrique-net,netafrique-net,NetAfrique.net,BEN,other,auto
 netblocks,netblocks,NetBlocks,,other,auto
 netflix,netflix,Netflix,USA,other,auto
@@ -6219,7 +6222,7 @@ nust-namibia,nust-namibia,Namibia University of Science and Technology,NAM,other
 nust-zimbabwe,nust-zimbabwe,National University of Science and Technology,ZWE,other,auto
 nuvexa,nuvexa,Nuvexa,EGY,other,auto
 nvccz,nvccz,National Venture Capital Company of Zimbabwe,ZWE,other,auto
-nvidia,nvidia,NVIDIA,USA,other,auto
+nvidia,nvidia,Nvidia,USA,other,auto
 nxtra-africa,nxtra-africa,Africa. Nxtra,XAF,other,auto
 nyakundi-report,nyakundi-report,Nyakundi Report,KEN,other,auto
 nyandarua-county-government,nyandarua-county-government,Nyandarua County,KEN,other,auto
@@ -6541,7 +6544,7 @@ paylogic,paylogic,PayLogic,COM,other,auto
 payments-association-of-namibia,payments-association-of-namibia,Payments Association of Namibia,NAM,other,auto
 payments-association-of-south-africa,payments-association-of-south-africa,Payments Association of South Africa,ZAF,other,auto
 paymob,paymob,Paymob,EGY,other,auto
-paypal,paypal,PayPal,TZA,other,auto
+paypal,paypal,PayPal,,other,auto
 payrollorg,payrollorg,PayrollOrg,USA,other,auto
 paystack,paystack,Paystack,NGA,other,auto
 paythegrants,paythegrants,PayTheGrants,ZAF,other,auto
@@ -7056,7 +7059,6 @@ saaff,saaff,South African Association of Freight Forwarders,ZAF,other,auto
 sabc,sabc,South African Broadcasting Corporation,ZAF,other,auto
 sabc-news,sabc-news,SABC News,ZAF,other,auto
 saboutech,saboutech,Saboutech,GIN,other,auto
-sabs,sabs,South African Bureau of Standards,ZAF,other,auto
 sacer,sacer,SACER,TGO,other,auto
 sacomi,sacomi,Sacomi,DZA,other,auto
 sacramento-state-university,sacramento-state-university,Sacramento State University,ZAF,other,auto
@@ -7729,6 +7731,7 @@ techghil-mauritania,techghil-mauritania,TECHGHIL,MRT,other,auto
 techgriot,techgriot,TechGriot,,other,auto
 techhive-advisory,techhive-advisory,TechHive Advisory,ZAF,other,auto
 techies,techies,Techies,GAB,other,auto
+techinika,techinika,Techinika,RWA,other,auto
 techjaja,techjaja,Techjaja,,other,auto
 techloy,techloy,Techloy,XAF,other,auto
 techmoonshot,techmoonshot,TechMoonshot,XAF,other,auto
@@ -7824,7 +7827,6 @@ the-anchor,the-anchor,The Anchor,ZWE,other,auto
 the-asset,the-asset,The Asset,HKG,other,auto
 the-authority-news,the-authority-news,The Authority News,NGA,other,auto
 the-bengaluru-live,the-bengaluru-live,The Bengaluru Live,IND,other,auto
-the-bizlens,the-bizlens,The BizLens,TZA,other,auto
 the-brief,the-brief,The Brief,NAM,other,auto
 the-brink,the-brink,The Brink,UGA,other,auto
 the-bureau-of-investigative-journalism,the-bureau-of-investigative-journalism,The Bureau of Investigative Journalism,GBR,other,auto
@@ -8166,6 +8168,7 @@ un-commission-human-rights-south-sudan,un-commission-human-rights-south-sudan,Co
 un-cstd,un-cstd,UN Commission on Science and Technology for Development (CSTD),GMB,other,auto
 un-environment-programme,un-environment-programme,UN Environment Programme,XGL,other,auto
 un-habitat,un-habitat,UN-Habitat,XGL,other,auto
+un-lesotho,un-lesotho,United Nations,LSO,other,auto
 un-odet,un-odet,UN Secretary-General's Special Envoy for Digital and Emerging Technologies,XGL,other,auto
 un-technology-bank-for-ldcs,un-technology-bank-for-ldcs,UN Technology Bank for the Least Developed Countries,MWI,other,auto
 un-women,un-women,UN Women,XGL,other,auto
@@ -8219,7 +8222,7 @@ united-bank-for-africa,united-bank-for-africa,United Bank for Africa,XAF,other,a
 united-nations,united-nations,United Nations,XGL,other,auto
 united-nations-economic-commission-for-africa,uneca,United Nations Economic Commission for Africa,XAF,other,auto
 united-nations-health-industry-foundation,united-nations-health-industry-foundation,United Nations Health Industry Foundation,UGA,other,auto
-united-nations-kenya,united-nations,United Nations,KEN,other,auto
+united-nations-kenya,united-nations-kenya,United Nations,KEN,other,auto
 united-nations-university,united-nations-university,United Nations University,XGL,other,auto
 united-party-for-national-development,united-party-for-national-development,United Party for National Development,ZMB,other,auto
 united-sa,united-sa,United SA,COD,other,auto
@@ -8302,6 +8305,7 @@ university-of-the-gambia,university-of-the-gambia,University of The Gambia,GMB,o
 university-of-tripoli,university-of-tripoli,University of Tripoli,LBY,other,auto
 university-of-victoria,university-of-victoria,University of Victoria,CAN,other,auto
 university-of-zambia,university-of-zambia,University of Zambia,ZMB,other,auto
+university-world-news,university-world-news,University World News,GBR,other,auto
 university-yaounde-ii,university-yaounde-ii,University of Yaoundé II,CMR,other,auto
 unlocking-data-initiative,unlocking-data-initiative,Unlocking Data Initiative,XAF,other,auto
 unma-uganda,unma-uganda,Uganda National Meteorological Authority,UGA,other,auto
