@@ -1,6 +1,6 @@
 ---
 title: Lesotho: status report
-compiled: 2026-11-16
+compiled: 2026-11-26
 place: LSO
 region: XSA
 built_by: STATUS-INIT
@@ -220,7 +220,7 @@ A single [Land Administration Authority has held registration, cadastre, mapping
 
 There is [no national address register](https://lesotholii.org/akn/ls/act/ln/2011/21/eng@2011-02-24) under the 2011 regulations. In September 2026 the communications regulator [studied Kenya's National Addressing System and its legal framework](https://techafricanews.com/2026/09/02/kenya-and-lesotho-deepen-ict-regulatory-cooperation-on-national-addressing-system/). In October 2026 a World Bank urban and land team [told the ICT ministry it is interested in supporting a nationwide digital address system](https://www.gov.ls/development/lesotho-government-is-poised-to-benefit-significantly-from-world-bank-as-its-on-a-vital-mission-to-tackle-youth-unemployment-through-innovative-digital-public-works-programs/).
 
-In November 2025 a [single window was deployed at the One-Stop Business Facilitation Centre](https://lestimes.com/?p=89016). [The Registrar of Companies runs an online registry with free public search](http://www.obfc.org.ls/registry/). [Beneficial owners above a 10% threshold must be filed with the Registrar within seven days under regulations of 2024](https://zmayetlaw.co.ls/beneficial-ownership-in-lesotho/). [Assets valued at M3.7 billion had been registered on the electronic collateral registry for movable assets by October 2026](https://www.thereporter.co.ls/2026/10/30/movable-assets-unlock-loans-for-businesses/). [The electoral commission's Voter Registration Strategy was endorsed on 28 May 2026](https://www.idea.int/news/lesotho-takes-strategic-step-towards-inclusive-electoral-participation). In September 2026 [the commission hired a private auditor to test the roll's records, the security of its servers and networks, and its systems' performance](https://lestimes.com/?p=91669).
+In November 2025 a [single window was deployed at the One-Stop Business Facilitation Centre](https://lestimes.com/?p=89016). [The Registrar of Companies runs an online registry with free public search](http://www.obfc.org.ls/registry/). [Beneficial owners above a 10% threshold must be filed with the Registrar within seven days under regulations of 2024](https://web.archive.org/web/20250711003048/https://zmayetlaw.co.ls/beneficial-ownership-in-lesotho/). [Assets valued at M3.7 billion had been registered on the electronic collateral registry for movable assets by October 2026](https://www.thereporter.co.ls/2026/10/30/movable-assets-unlock-loans-for-businesses/). [The electoral commission's Voter Registration Strategy was endorsed on 28 May 2026](https://www.idea.int/news/lesotho-takes-strategic-step-towards-inclusive-electoral-participation). In September 2026 [the commission hired a private auditor to test the roll's records, the security of its servers and networks, and its systems' performance](https://lestimes.com/?p=91669).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->
