@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-24-ken-what-data-is-at-risk-in-the-alleged-740gb-ecitizen-data-breach",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "Pulse Kenya says that under section 43 of the Data Protection Act, 2019 a data controller must notify the Office of the Data Protection Commissioner within 72 hours of an unauthorised access with real risk of harm.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

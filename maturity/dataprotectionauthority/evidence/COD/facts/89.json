@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-25-cod-senat-adoption-dune-proposition-de-loi-protegeant-les-mineurs-sur-les",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "Senate President Sama Lukonde said the Autorite de protection des donnees is among institutions already provided for by the Code du numerique and other legal texts, with no appointment or ruling stated.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "Autorite de protection des donnees",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite de protection des donnees",
+   "country_label": "Autorite de protection des donnees",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-25-ken-kenya-investigates-740gb-breach-claim",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Office of the Data Protection Commissioner investigated a breach at the Business Registration Service and closed the case, so it is acting as the supervisory body.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The ODPC issued an enforcement notice to the Business Registration Service over the breach of records of over two million businesses; BRS complied and the case closed without a fine.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
