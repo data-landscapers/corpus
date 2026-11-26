@@ -1,11 +1,11 @@
 ---
 title: South Sudan — News, Oct – Nov 2026
-compiled: 2026-11-14
-period: 2026-10-01 to 2026-11-14
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: SSD
-ledger_rows: 10
+ledger_rows: 11
 not_held: 7
-record: d15cda8169cb
+record: 01733ef2ad82
 ---
 
 # News, Oct – Nov 2026
@@ -129,6 +129,28 @@ The Bank of South Sudan and the National Communication Authority signed an updat
 **[MTN, Government Discuss Reopening of MoMo Services](https://radioyei.org/news/technology/mtn-government-discuss-reopening-of-momo-services/)** — Access Radio, 8 October 2026
 
 South Sudan's caretaker trade minister Labanya Margaret Mathya held a virtual meeting with MTN's senior management on reopening Mobile Money transactions, connectivity problems and digital banking, and said the government would urgently address the company's difficulties. The report does not say when or why Mobile Money transactions were halted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">South Sudan Interbank Payment and Settlement System (SSIPSS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Central Bank launches electronic payment system to replace manual cheques](https://eyeradio.org/central-bank-launches-electronic-payment-system-to-replace-manual-cheques/)** — Eye Radio, 24 November 2026
+
+SSIPSS links RTGS and ACH to IFMIS; government payees must hold accounts at licensed commercial banks.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Opinion| South Sudan leaps away from the cheque book](https://www.radiotamazuj.org/en/news/article/opinion-south-sudan-leaps-away-from-the-cheque-book)** — Radio Tamazuj, 24 November 2026
+
+Economist: new rails digitise arrears, not cash; urges no-cash-no-commitment rule and quarterly IFMIS reports.
 
 </div>
 
