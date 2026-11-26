@@ -1,4 +1,4 @@
-/* datatable.js — the shared data table for data-landscapers and Corpus. v7 (2026-11-23)
+/* datatable.js — the shared data table for data-landscapers and Corpus. v8 (2026-11-26)
 
    **This file is canonical.** It lives in `data-landscapers/assets/shared/` and
    Corpus carries a copy at `site/assets/js/datatable.js` with a `DATATABLE-FROM`
@@ -37,6 +37,10 @@
                                                    window.dlDatatable.build(el)
        <noscript>...</noscript>
      </div>
+
+   A filter can be set from the page's address: `?Country=Kenya` opens the table
+   filtered to Kenya. The key is a filter column's name, matched as `data-filters`
+   is; a value the column does not hold is ignored.
 
    **The toolbar can come from either side.** Where the page supplies a
    `.dt-controls` block — Corpus does, because its download links are dated
@@ -623,6 +627,19 @@
           }
         }
         var search = '';
+
+        /* Filters preset from the address (`?Country=Kenya`), before the dropdowns are
+           drawn so each opens on its value. Corpus's maturity reports link a country's
+           moves this way (strategic review 8, R163). */
+        if (window.URLSearchParams && location.search) {
+          new URLSearchParams(location.search).forEach(function (v, k) {
+            var ci = findCol(headers, k);
+            if (ci > -1 && filterState.hasOwnProperty(ci)
+                && rows.some(function (r) { return r[ci] === v; })) {
+              filterState[ci] = v;
+            }
+          });
+        }
 
         /* ── controls: filters and search, injected before the count ─────── */
         function uniq(ci) {

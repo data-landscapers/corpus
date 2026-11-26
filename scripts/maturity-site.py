@@ -44,6 +44,7 @@ import json
 import math
 import re
 import sys
+import urllib.parse
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
@@ -250,6 +251,8 @@ def sidebar_md(body: str) -> str:
 # {(indicator_id, ISO3): paragraph markdown}, filled by `build_data` for the country reports. Kept
 # out of `maturity.json`, whose sidebar summary already carries it.
 PARAGRAPHS: dict[tuple[str, str], str] = {}
+# Country names with a row on the Movement table, filled by `publish_movement` (R163).
+MOVED: set[str] = set()
 
 
 def build_data(studies, indicators, countries) -> dict:
@@ -674,7 +677,11 @@ def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> st
     pdf_url = f"{SITE_BASE}/reports/{iso3}/{iso3}-maturity-{edition}.pdf"
 
     def build(for_pdf: bool) -> str:
-        actions = (feedback(f"{name} — Maturity Assessment", canonical)
+        # R163: the country's stage changes, as the Movement table filtered to it. Offered only
+        # where it has one, since the table ignores a country it does not hold and shows all.
+        moves = (f'<a href="../../movement/?Country={urllib.parse.quote(name)}" class="btn">Stage changes</a>'
+                 if name in MOVED else "")
+        actions = (feedback(f"{name} — Maturity Assessment", canonical) + moves
                    + f'<a href="{pdf_url}" class="btn btn--accent">&darr; PDF</a>')
         # The ⓘ from info.md's Maturity assessment entry (Bill, 2026-10-22); the PDF carries none.
         about, panel = ("", "") if for_pdf else info("Maturity assessment")
@@ -970,6 +977,7 @@ def publish_movement(data: dict, studies: list[dict]) -> int:
     """The table's CSV is a dated edition like the map's downloads, cut only when its bytes move."""
     out = OUT / "movement"
     rows = movement_rows(data, studies)
+    MOVED.update(r["Country"] for r in rows)
     body = with_bom(csv_bytes(rows, MOVEMENT_FIELDS))
     path, _ = editions.publish(body, out, "maturity-movement", ".csv", page=out / "index.html")
     meta = editions.artefact_meta("maturity-movement", editions.edition_of(path.stem) or "", editions.digest(body))

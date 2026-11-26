@@ -1,6 +1,7 @@
 ## 26 November 2026
 
 - Each indicator in a country's maturity report now opens on one paragraph: what exists, what changed in the last twelve months, and what the next stage would need. The labelled evidence behind it is under *Show the evidence*, and the map's country panel shows the same paragraph.
+- A country's maturity report has a Stage changes button where its stages have moved. It opens the Movement table filtered to that country, and the table's address can now carry any filter, such as ?Country=Kenya.
 
 ## 25 November 2026
 
