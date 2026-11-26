@@ -1,12 +1,12 @@
 ---
 title: Angola: status report
-compiled: 2026-11-25
+compiled: 2026-11-26
 place: AGO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-04
 intersections_read: 12
-sources_cited: 311
+sources_cited: 312
 sections_written: 39
 not_established: 0
 acquire_lines: 47
@@ -340,7 +340,7 @@ Education is [Angola's worst-scoring sub-category in the 2024 Ibrahim Index of A
 
 [Kwenda had reached more than 1.3 million households, about 6.5 million people, by July 2026](https://angop.ao/noticias/sociedade/lancamento-do-cadastro-social-unico-marca-a-semana-social/). [In 2025 beneficiaries with disabilities received a Multicaixa-linked payment card alongside assistive items such as wheelchairs](https://angop.ao/noticias/sociedade/kwenda-beneficia-mais-de-duas-pessoas-com-necessidades-especiais/). [Community workers delivered benefits to the homes of those who could not travel to distribution points](https://angop.ao/noticias/sociedade/kwenda-beneficia-mais-de-duas-pessoas-com-necessidades-especiais/).
 
-[In October 2026 the President put free internet access points in 18 provinces at about eight million citizens reached](https://pti.ao/estado-da-nacao-presidente-destaca-progressos-nas-telecomunicacoes-e-transformacao-digital/). [Conecta Angola had delivered 32 public access points and connected six universities by June 2026](https://angop.ao/noticias/economia/angola-pretende-consolidar-se-como-referencia-africana-em-tecnologias-espaciais/). [In November 2026 the minister said 71 small internet service providers were taking part in it](https://thepeninsulaqatar.com/article/10/11/2026/angola-seeks-stronger-technology-investment-ties-with-qatar-minister). [More than 5,600 University of Namibe students were set to get free internet over ANGOSAT-2 from June 2026](https://techreviewafrica.com/news/5761/over-5600-university-of-namibe-students-gain-free-internet-access-through-angosat-2). [Satellite capacity with TV White Space connected 3,972 students in Ramiros in July 2026](https://techreviewafrica.com/news/6298/angola-connects-nearly-4000-students-through-angosat-2-and-tv-white-space-connectivity-project).
+[In October 2026 the President put free internet access points in 18 provinces at about eight million citizens reached](https://pti.ao/estado-da-nacao-presidente-destaca-progressos-nas-telecomunicacoes-e-transformacao-digital/). [In November 2026 the 2027 budget proposal counted 182 Angola Online free access points and planned 391 by 2027](https://pti.ao/governo-preve-aumentar-para-391-os-pontos-de-acesso-gratuito-a-internet-ate-2027/). [Conecta Angola had delivered 32 public access points and connected six universities by June 2026](https://angop.ao/noticias/economia/angola-pretende-consolidar-se-como-referencia-africana-em-tecnologias-espaciais/). [In November 2026 the minister said 71 small internet service providers were taking part in it](https://thepeninsulaqatar.com/article/10/11/2026/angola-seeks-stronger-technology-investment-ties-with-qatar-minister). [More than 5,600 University of Namibe students were set to get free internet over ANGOSAT-2 from June 2026](https://techreviewafrica.com/news/5761/over-5600-university-of-namibe-students-gain-free-internet-access-through-angosat-2). [Satellite capacity with TV White Space connected 3,972 students in Ramiros in July 2026](https://techreviewafrica.com/news/6298/angola-connects-nearly-4000-students-through-angosat-2-and-tv-white-space-connectivity-project).
 
 [Digitising passport, driving-licence and vehicle-document services in mid-2025 cleared the crowds and the informal "mixeiros" fixer economy from the doors of the migration service and the traffic directorate](https://www.novojornal.co.ao/sociedade/detalhe/entrada-dos-servicos-digitais-no-sme-e-na-dtser-acaba-com-enchentes-e-mixeiros-a-porta-mas-utentes-queixam-se-de-dificuldades-no-acesso-ao-cadastramento-no-portal-da-dtser-68093.html). [In November 2025 users could not follow the steps for a first driving licence on the traffic portal, and documents still arrived slowly after the digital application](https://www.novojornal.co.ao/sociedade/detalhe/entrada-dos-servicos-digitais-no-sme-e-na-dtser-acaba-com-enchentes-e-mixeiros-a-porta-mas-utentes-queixam-se-de-dificuldades-no-acesso-ao-cadastramento-no-portal-da-dtser-68093.html).
 
