@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: CPV
-ledger_rows: 18
+ledger_rows: 19
 not_held: 22
-record: 955a65416a02
+record: 86102e5fa5a3
 ---
 
 # News, Oct – Nov 2026
@@ -287,6 +287,20 @@ Cape Verde scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the N
 **[Cabo Verde reúne condições para avançar na adopção da Inteligência Artificial – especialistas](https://www.inforpress.cv/en/article-12401)** — Inforpress, 12 November 2026
 
 Cabo Verde's telecommunications and digital economy directorate and the UNDP held a validation meeting of the National AI Diagnostic in Mindelo. The meeting took place on 12 and 13 November 2026. Officials said the country has the digital infrastructure, connectivity and digitised public services to adopt AI. Gaps remain in skills, legislation and governance.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Labour inspectorate AI assistant and case system (SIGT)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ILO supports digital transformation of Cabo Verde's General Labour Inspectorate](https://www.ilo.org/resource/article/ilo-supports-digital-transformation-cabo-verde%E2%80%99s-general-labour)** — International Labour Organization, 19 November 2026
+
+Luxembourg-funded IGT portal and case system launched 3 Nov 2026; AI assistant answers in Kriolu.
 
 </div>
 
