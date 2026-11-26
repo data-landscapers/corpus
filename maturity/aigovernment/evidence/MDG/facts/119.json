@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-16-mdg-madagascar-et-l-intelligence-artificielle-ou-en-est-le-pays",
+ "facts": [],
+ "systems": [
+  {
+   "system": "customs chatbot with e-Tariff",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction generale des douanes",
+   "tiers": ""
+  }
+ ],
+ "note": "The only AI system stated is the customs chatbot, a sector system for customs, so it is not general administration."
+}

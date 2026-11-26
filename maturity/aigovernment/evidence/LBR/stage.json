@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "bodies": "",
+      "bodies": "several",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-001",
-      "gaps": "No source found since October 2023 says AI is in service in two or more government bodies.",
-      "note": "Reassessed 2026-11-24: the central bank uses an AI system in service. The revenue authority's AI contact centre is still being developed, so one body and not stage 4.",
-      "as_at": "2026-11-24"
+      "stage_sources": "LBR-001;LBR-004",
+      "gaps": "No source found since October 2023 says the government has issued rules or a register for its own use of AI.",
+      "note": "Fact 2026-11-26: the Civil Service Agency said in August 2026 that its channels include an AI-powered virtual information assistant, a second body with AI in service beside the central bank. No rules or register have been found, so not stage 5.",
+      "as_at": "2026-11-26"
     }
   ]
 }

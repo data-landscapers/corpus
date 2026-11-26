@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-14-egy-eta-ai-real-estate-tax-calculation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AI real estate tax calculation",
+   "country_label": "Egyptian Tax Authority AI",
+   "class": "other",
+   "platform": "",
+   "owner": "Egyptian Tax Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "The AI is inside the tax system, a sector system, so not staged here."
+}

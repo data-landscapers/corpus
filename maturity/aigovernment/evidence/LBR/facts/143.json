@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-06-lbr-civil-service-agency-launches-monthly-electronic-newsletter",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Civil Service Agency Director General Josiah Joekai said the agency's existing information channels include an AI-powered virtual information assistant.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "AI-powered virtual information assistant",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI-powered virtual information assistant",
+   "country_label": "CSA virtual information assistant",
+   "class": "govai",
+   "platform": "",
+   "owner": "Civil Service Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

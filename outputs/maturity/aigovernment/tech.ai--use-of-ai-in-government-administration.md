@@ -21,8 +21,8 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 | Stage | Countries |
 |---|---|
 | 5 Mature | 0 |
-| 4 Operating | 17 |
-| 3 Established | 18 |
+| 4 Operating | 18 |
+| 3 Established | 17 |
 | 2 Nascent | 7 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
@@ -77,6 +77,13 @@ The tax authority and a government security centre used AI in service in 2026; r
 
 - The Kenya Revenue Authority says it has unveiled a WhatsApp tax filing service powered by an AI chatbot, Shuru, through which taxpayers access pre-filled details, file returns, generate invoices and obtain compliance certificates ([source, 2026-04-07](https://www.kra.go.ke/news-center/press-release/2362-kra-surpasses-ksh-2-trillion-revenue-milestone,-records11-4-growth-in-nine-months)).
 - The Technopolis Development Authority with the State Department for ICT launched the SecureKE Sovereign SOC, which uses AI-enabled analytics to identify suspicious activity across government networks, servers, endpoints and cloud ([source, 2026-11-10](https://www.kbc.co.ke/kenya-launches-sovereign-cybersecurity-centre-to-shield-govt-systems-from-threats/)).
+
+### Liberia: 4 Operating
+
+In 2026 the central bank and the Civil Service Agency had AI systems in service; no rules for government use of AI were found.
+
+- FrontPage Africa reports that a Central Bank of Liberia employee invented a banking system, the 'First Sovereign AI Infrastructure for Predicting Macroeconomic Forecasting and Financial Intelligence in the Region', which the bank is currently using ([source, 2026-07-22](https://fpa.news/undp-reaffirms-commitment-to-liberias-digital-transformation-at-tech-summit/)).
+- Civil Service Agency Director General Josiah Joekai said the agency's existing information channels include an AI-powered virtual information assistant ([source, 2026-08-05](https://elbcnews.com/2026/08/06/civil-service-agency-launches-monthly-electronic-newsletter/)).
 
 ### Madagascar: 4 Operating
 
@@ -197,12 +204,6 @@ A government body used an AI system in service in 2026; AI in several bodies is 
 Lesotho's revenue authority has used AI in customer service since 2025; no source found says whether other government bodies use AI.
 
 - Newsday reports that Revenue Services Lesotho has incorporated artificial intelligence into its customer service operations, per Commissioner General Mokoko ([source, 2025-10-07](https://newsdayonline.co.ls/lesotho-cautioned-over-reliance-on-foreign-aid/)).
-
-### Liberia: 3 Established
-
-A government body used an AI system in service in 2026; AI in several bodies is not on record.
-
-- FrontPage Africa reports that a Central Bank of Liberia employee invented a banking system, the 'First Sovereign AI Infrastructure for Predicting Macroeconomic Forecasting and Financial Intelligence in the Region', which the bank is currently using ([source, 2026-07-22](https://fpa.news/undp-reaffirms-commitment-to-liberias-digital-transformation-at-tech-summit/)).
 
 ### Mauritius: 3 Established
 

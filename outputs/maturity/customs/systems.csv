@@ -29,6 +29,8 @@ BEN,SIGMAT,SIGMAT,customs,,ECOWAS,,2026-10-30-lbr-ecowas-parliament-calls-for-ex
 BEN,SIGMAT,Benin,customs,,ECOWAS / Benin Directorate General of Customs,,2026-11-11-xwa-ecowas-etls-task-force-third-group-inaugural-meeting-cotonou
 BEN,GUCE,Benin,other,,,,2026-11-12-ben-transit-transport-digitalisation-quatre-chantiers
 BEN,SIGMAT national node,SIGMAT,customs,ECOWAS SIGMAT,Benin Customs Administration,,2026-11-17-tma-benin-digital-backbone-customs-servers-handover
+BEN,Customs Webb,Benin,customs,Webb Fontaine,Benin customs,,2025-04-30-ben-interview-avec-anicet-houngbo-le-benin-un-modele-numerique-pour-l-afri
+BEN,GUCE,Benin,customs,Webb Fontaine,,,2025-04-30-ben-interview-avec-anicet-houngbo-le-benin-un-modele-numerique-pour-l-afri
 BFA,Sydonia World,Burkina Faso,customs,ASYCUDA World,Direction generale des douanes,,2018-05-16-bfa-otr-togo-burkina-transit-interconnection
 BFA,Sydonia World,Burkina Faso,customs,ASYCUDA World,Direction generale des douanes,,2019-11-25-bfa-economistefaso-sydonia-world-online
 BFA,Sylvie 2,Burkina Faso,customs,,Direction generale des douanes / SOGESY,,2025-02-18-bfa-jumelages-sylvie-2-launch
@@ -186,6 +188,7 @@ GNQ,ASYCUDAWorld,ASYCUDAWorld,customs,ASYCUDA,Direccion General de Aduanas,natio
 GNQ,ventanilla unica de comercio exterior,Foreign trade single window (planned),other,,Ministry of Commerce,,2025-01-21-gnq-el-gobierno-de-guinea-ecuatorial-sigue-firme-con-la-idea-de-crear-la-v
 GNQ,Sidunea World,Sidunea World,customs,ASYCUDA,Direccion General de Aduanas,,2024-12-28-gnq-lanzamiento-oficial-de-la-plataforma-digital-sidunea-world-en-las-adua
 GNQ,SIDUNEA World,Equatorial Guinea,customs,,,,2025-12-18-worldbank-govtech-dataset-dec2025
+GNQ,Ventanilla Unica de Comercio Exterior (VUCE),VUCE,other,,Government of Equatorial Guinea,,2026-11-24-gnq-el-gobierno-aprueba-15-iniciativas-economicas-legislativas-y-de-moderniza
 KEN,RECTS,Kenya,other,,Kenya Revenue Authority,,2026-09-16-xea-thestar-rects-multi-vendor-cargo-tracking
 KEN,Regional Electronic Cargo Tracking System (RECTS),KEN,other,,Kenya Revenue Authority,,2026-09-11-ken-kra-public-notice-approved-vendors-rects-multi-vendor-eseals
 KEN,iCMS,Integrated Customs Management System,customs,,Kenya Revenue Authority,,2025-08-25-ken-businessdaily-kra-itax-icms-upgrade
@@ -216,6 +219,7 @@ LBR,SIGMAT,Interconnected System for the Management of Goods in Transit,other,,L
 LBR,SIGMAT,SIGMAT,customs,,ECOWAS,,2026-10-30-lbr-ecowas-parliament-calls-for-expansion-of-sigmat-across-west-africa-cit
 LBR,ASYCUDA World,Liberia,customs,,Liberia Revenue Authority,,2025-12-18-worldbank-govtech-dataset-dec2025
 LBR,ASYCUDA,Liberia,customs,,Liberia Revenue Authority,,2026-04-15-lbr-lra-hosts-first-digital-symposium-to-showcase-technology-driving-tax-c
+LBR,ASYCUDA,Liberia,customs,ASYCUDA,Liberia Revenue Authority,,2026-11-24-lbr-trapped-on-a-single-fiber-optic-wire-why-the-ltas-cyber-marathon-leave
 LBY,ASYCUDA,Libya,customs,UNCTAD ASYCUDA,Customs Authority,,2025-08-25-lby-libyaherald-asycuda-full-launch
 LBY,ASYCUDA World,ASYCUDA World,customs,ASYCUDA World,Libyan Customs Authority,,2025-01-01-lby-metac-fy25-capacity-development-customs-asycuda
 LBY,customs declaration e-portal,Libya,customs,,Customs Authority,,2023-09-21-lby-libyaherald-customs-declaration-e-portal-pilot

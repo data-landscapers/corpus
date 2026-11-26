@@ -1,0 +1,44 @@
+{
+ "slug": "2025-04-30-ben-interview-avec-anicet-houngbo-le-benin-un-modele-numerique-pour-l-afri",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Webb Fontaine's Benin director says Customs Webb is operational in all 49 of 49 customs offices, having processed 91,000 declarations as at 14 April 2025.",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "Customs Webb",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "Webb Fontaine's Benin director lists the foreign trade single window (GUCE) among the operational solutions deployed in Benin.",
+   "as_of": "2025-04-30",
+   "date_precision": "day",
+   "system": "GUCE",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Customs Webb",
+   "country_label": "Benin",
+   "class": "customs",
+   "platform": "Webb Fontaine",
+   "owner": "Benin customs",
+   "tiers": ""
+  },
+  {
+   "system": "GUCE",
+   "country_label": "Benin",
+   "class": "customs",
+   "platform": "Webb Fontaine",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
