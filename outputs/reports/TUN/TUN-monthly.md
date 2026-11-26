@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: TUN
-ledger_rows: 59
+ledger_rows: 63
 not_held: 4
-record: 18e1974bf0e7
+record: d95fa267e4f8
 ---
 
 # News, Oct – Nov 2026
@@ -712,6 +712,34 @@ Tunisia's foreign minister told parliament on 17 November 2026 that his ministry
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Food-safety authority (INSSPA) digital control platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sécurité alimentaire : l'INSSPA prépare une plateforme numérique pour renforcer le contrôle](https://www.lapresse.tn/2026/11/24/securite-alimentaire-linsspa-prepare-une-plateforme-numerique-pour-renforcer-le-controle/)** — La Presse de Tunisie, 24 November 2026
+
+Real-time online reporting of food-safety breaches; traceability under law 25 of 2019; EU workshop 24-25 Nov.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Insurance-intermediary licensing platform (Comité général des assurances)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Transformation digitale : Le Comité général des assurances dématérialise les demandes d'agrément et supprime les dossiers en papier](https://www.lapresse.tn/2026/11/25/transformation-digitale-le-comite-general-des-assurances-dematerialise-les-demandes-dagrement-et-supprime-les-dossiers-en-papier/)** — La Presse de Tunisie, 25 November 2026
+
+Insurance-intermediary licensing now online only; broker applicants log in via the national digital ID.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -843,6 +871,20 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 **[Tunisie : les outils de contrôle parental sur Internet seront gratuits](https://www.lapresse.tn/2026/11/19/tunisie-les-outils-de-controle-parental-sur-internet-seront-gratuits/)** — La Presse de Tunisie, 19 November 2026
 
 Summarised under [Data protection](#data-protection).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Aqua Min 360 pumping-station monitoring app</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministère de l'Agriculture : présentation de l'application numérique « Aqua Min 360 »](https://www.tunisienumerique.com/ministere-de-lagriculture-presentation-de-lapplication-numerique-aqua-min-360/)** — Tunisie Numerique, 24 November 2026
+
+SECADENORD app built on a national AI model tracks water pumped and energy used at northern pumping stations.
 
 </div>
 
@@ -1007,6 +1049,20 @@ Tunisia's telecoms regulator, the Instance Nationale des Télécommunications, p
 **[Tunisie : près de 86 % des 10-70 ans sont connectés et près d’un internaute sur deux utilise l’IA](https://www.leconomistemaghrebin.com/2026/10/16/86pc-10-70-ans-tunisie-connectes/)** — L'Économiste Maghrébin Tunisie, 16 October 2026
 
 Tunisia's telecoms regulator INT found in its 2026 digital barometer that 85.9% of people aged 10 to 70 use the internet, 10.9 points more than in 2023, and that 47.9% of users use AI applications, ahead of e-commerce (36.9%) and online government services (26.5%). The face-to-face survey of 5,077 people ran from 15 May to 10 June 2026; fibre accounts for 4% of connections.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">General agricultural census</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Recensement agricole : la Tunisie mise sur le numérique pour actualiser ses données](https://www.webmanagercenter.com/2026/11/24/577870/recensement-agricole-la-tunisie-mise-sur-le-numerique-pour-actualiser-ses-donnees/)** — Webmanagercenter, 24 November 2026
+
+Tablets, Survey Solutions and GIS for the census; World Bank field check in Zaghouan.
 
 </div>
 
