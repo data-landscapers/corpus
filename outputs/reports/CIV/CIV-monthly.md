@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: CIV
-ledger_rows: 64
+ledger_rows: 65
 not_held: 9
-record: faa797da4b16
+record: 09aaf53a3172
 ---
 
 # News, Oct – Nov 2026
@@ -55,6 +55,20 @@ record: faa797da4b16
 **[Côte d’Ivoire-AIP/ Six nouveaux commissaires prennent fonction à la CAIDP](https://www.aip.ci/cote-divoire-aip-six-nouveaux-commissaires-prennent-fonction-a-la-caidp/)** — Agence Ivoirienne de Presse, 9 November 2026
 
 Cote d'Ivoire's access to information commission, the CAIDP, installed six new commissioners on 9 November 2026. Their predecessors' six-year terms had ended. Its president, Anne-Marie Konan-Payne, said the next council meeting would consider terms of reference for a strategic retreat.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI strategy 2026-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire-AIP/ Les sénateurs formés aux enjeux et aux applications de l’intelligence artificielle à Yamoussoukro - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-les-senateurs-formes-aux-enjeux-et-aux-applications-de-lintelligence-artificielle-a-yamoussoukro/)** — Agence Ivoirienne de Presse (AIP), 24 November 2026
+
+Idencity-run session for senators, 24 Nov 2026; Futur Africa helping draft national AI strategy 2026-2030.
 
 </div>
 
@@ -999,6 +1013,22 @@ Ivana Valera founded Faba Finance in Abidjan in 2025. Its mobile application let
 **[Côte d'Ivoire : Assemblée nationale, Patrick Achi ouvre la voie à l'intelligence artificielle dans le travail parlementaire](https://www.koaci.com/article/2026/10/12/cote-divoire/politique/cote-divoire-assemblee-nationale-patrick-achi-ouvre-la-voie-a-lintelligence-artificielle-dans-le-travail-parlementaire_201534.html)** — KOACI, 12 October 2026
 
 Côte d'Ivoire's National Assembly held an AI training session for MPs on 12 October 2026. Its president, Patrick Achi, said AI can help research but must not replace members' judgement. The digital minister, Djibril Ouattara, said the programme aims to train over 2,000 officials in AI by the end of 2027. The session showed a WhatsApp assistant that replies in Baoulé or Malinké.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire-AIP/ Intelligence artificielle: les membres du CESEC outillés pour relever les défis de la transformation numérique - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-intelligence-artificielle-les-membres-du-cesec-outilles-pour-relever-les-defis-de-la-transformation-numerique/)** — Agence Ivoirienne de Presse (AIP), 24 November 2026
+
+ADOPT IA session with aivancity, 23 Nov 2026; AI for public decision-making under a seven-pillar digital plan.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Côte d’Ivoire-AIP/ Les sénateurs formés aux enjeux et aux applications de l’intelligence artificielle à Yamoussoukro - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-les-senateurs-formes-aux-enjeux-et-aux-applications-de-lintelligence-artificielle-a-yamoussoukro/)** — Agence Ivoirienne de Presse (AIP), 24 November 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
