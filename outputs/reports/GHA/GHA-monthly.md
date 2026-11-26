@@ -3,9 +3,9 @@ title: Ghana — News, Oct – Nov 2026
 compiled: 2026-11-26
 period: 2026-10-01 to 2026-11-26
 place: GHA
-ledger_rows: 93
+ledger_rows: 94
 not_held: 9
-record: c1f584fd4262
+record: 8eb998c1c1e9
 ---
 
 # News, Oct – Nov 2026
@@ -571,6 +571,20 @@ CSquared Ghana invited US firms to bid for a feasibility study on fibre strung a
 **[Ghana - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/ghana/)** — International Telecommunication Union (statement by Ghana), 10 November 2026
 
 Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Shared 5G wholesale network</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Mahama to launch Ghana’s 5G network before end of 2026 – Sam George](https://www.citinewsroom.com/2026/11/mahama-to-launch-ghanas-5g-network-before-end-of-2026-sam-george/)** — Citi Newsroom, 24 November 2026
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
