@@ -28,6 +28,11 @@ The unit checks also run under `report-render.py --check`.
   R  lookups (estate)  every assessed indicator has one norms row and five rubric rows
   T  frame count       no frame count (117, 121, 123) as a number in any script's logic
   U  history           outputs/reports/maturity-history.csv equals its rebuild from the editions
+  V  implications      (listed, never failing) cells that break a rule in
+                       `lookups/indicator-implications.csv`: where one indicator stands at or
+                       above its stage, another should stand at or above its own (R184). A rule
+                       Bill strikes (`status` struck) is skipped; a draft or kept one is listed.
+                       A broken rule is a cell pair to look at, not an error: either may be wrong.
 
 Some §11 checks are not here yet, because they check outputs that do not exist yet: no count
 crossing kinds, published counts matching the lookups, and status/assessment agreement. They
@@ -196,7 +201,34 @@ def check_history(reports: Path = ma.REPORTS) -> list[str]:
 
 
 TITLE = {"U": "history", "N": "stage domain", "O": "stability", "P": "citation", "Q": "measure values",
-         "S": "current position", "R": "lookups", "T": "frame count"}
+         "S": "current position", "R": "lookups", "T": "frame count", "V": "implications"}
+
+
+IMPLICATIONS = HERE.parent / "lookups" / "indicator-implications.csv"
+
+
+def check_implications(root: Path = HERE.parent) -> list[str]:
+    """Every country whose cells break an unstruck rule, against the current assessments in
+    `outputs/maturity/*/assessment.csv`. A `then` cell with no stage is listed too: the rule
+    says evidence should exist."""
+    import csv
+    rules = [r for r in csv.DictReader(open(IMPLICATIONS, encoding="utf-8-sig"))
+             if r["status"].strip() != "struck"] if IMPLICATIONS.exists() else []
+    stage = {}
+    for f in (root / "outputs" / "maturity").glob("*/assessment.csv"):
+        for r in csv.DictReader(open(f, encoding="utf-8-sig")):
+            stage[(r["iso3"], r["indicator_id"])] = r["stage"]
+    out = []
+    for rule in rules:
+        hi, lo = int(rule["if_stage"]), int(rule["then_stage"])
+        for (iso, ind), st in sorted(stage.items()):
+            if ind != rule["if_indicator"] or not st.isdigit() or int(st) < hi:
+                continue
+            then = stage.get((iso, rule["then_indicator"]), "")
+            if not then.isdigit() or int(then) < lo:
+                out.append(f"{rule['rule']} {iso}: {ind.split('--')[1]} {st} but "
+                           f"{rule['then_indicator'].split('--')[1]} {then or 'unstaged'} (wants {lo}+)")
+    return out
 
 
 def report(letter: str, problems: list[str], scope: str = "") -> int:
@@ -240,6 +272,10 @@ def main(argv=None) -> int:
     rc |= report("R", check_lookups())
     rc |= report("T", check_frame_count())
     rc |= report("U", check_history())
+    broken = check_implications()          # listed, never failing (R184)
+    print(f"check V ({TITLE['V']}): {len(broken)} cell pair(s) break an unstruck rule")
+    for p in broken:
+        print(f"     {p}")
     return rc
 
 
