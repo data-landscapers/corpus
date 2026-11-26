@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-26 23:03 · **NOTES** · unclocked · Closed corpus-notes 92 (manifest classify block: no change). OSINT's resolution of osint-notes 362 is housekeeping 93.
 2026-11-26 17:51 · **RENDER** · unclocked · methodology, statistics, maturity and progress pages rendered for 3b R-lines; MUS, RWA maturity editions to R2; deployed 21a457b - ok
 2026-11-26 02:59 · **INDEX** · 11m · research index: 595 added or changed, 0 removed, 7179 chunks, 11.1 min - ok
 2026-11-26 02:41 · **COPY** · 2m · R2 copy: 10,145 objects, 3,782.0 MB; pulled 2 (0.7 MB); 0 faults - ok

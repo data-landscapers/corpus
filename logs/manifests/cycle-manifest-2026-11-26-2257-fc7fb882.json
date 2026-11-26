@@ -1,0 +1,210 @@
+{
+ "schema": 3,
+ "written_utc": "2026-11-26 22:57",
+ "pass": "sweep cycle",
+ "head": "fc7fb882f0cc00f493479fe378f4457103313182",
+ "head_committed_utc": "2026-11-26 22:57",
+ "collection": {
+  "last_admission": "2026-11-26 21:07",
+  "sweep_closed": "2026-11-26 20:33",
+  "ingest_started": "2026-11-26 20:37"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "1",
+   "jobs": [
+    "SWEEP-NEWSPAPERS",
+    "SWEEP-JOURNALS",
+    "SWEEP-THINKTANKS",
+    "SWEEP-REGIONAL"
+   ],
+   "start": "2026-11-26 20:05",
+   "end": "2026-11-26 22:48",
+   "duration": "2:43",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 221,
+  "admitted": 136,
+  "dropped": 85,
+  "screened": 429,
+  "screen_dropped": 346,
+  "pages_over_line": 325,
+  "awaiting_ingest": 0,
+  "raw_sources": 51903
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-11-26 20:00",
+   "seven_day": 34.0,
+   "five_hour": null
+  },
+  "notes": {
+   "time_utc": "2026-11-26 20:04",
+   "seven_day": 34.0,
+   "five_hour": null
+  },
+  "sweep": {
+   "time_utc": "2026-11-26 20:33",
+   "seven_day": 35.0,
+   "five_hour": null
+  },
+  "ingest": {
+   "time_utc": "2026-11-26 21:14",
+   "seven_day": 37.0,
+   "five_hour": null
+  },
+  "lint": {
+   "time_utc": "2026-11-26 22:47",
+   "seven_day": 40.0,
+   "five_hour": null
+  },
+  "close": {
+   "time_utc": "2026-11-26 22:48",
+   "seven_day": 40.0,
+   "five_hour": null
+  },
+  "backlog": {
+   "time_utc": "2026-11-26 22:53",
+   "seven_day": 40.0,
+   "five_hour": null
+  },
+  "rules": {
+   "time_utc": "2026-11-26 22:54",
+   "seven_day": 40.0,
+   "five_hour": null
+  },
+  "end": {
+   "time_utc": "2026-11-26 22:55",
+   "seven_day": 40.0,
+   "five_hour": null
+  }
+ },
+ "drops": {
+  "night": "2026-11-26",
+  "ingest_coded": true,
+  "sweeps": {
+   "acquire": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 1,
+    "ingest_drop_rate": 0.0
+   },
+   "daily": {
+    "sweep": {
+     "no-development": 48,
+     "off-place": 27,
+     "already-seen": 20,
+     "off-topic": 13
+    },
+    "ingest": {
+     "already-held": 10,
+     "no-value": 7,
+     "no-development": 2,
+     "off-topic": 1
+    },
+    "admitted": 16,
+    "ingest_drop_rate": 0.556
+   },
+   "journals": {
+    "sweep": {
+     "off-place": 11,
+     "uncoded": 9,
+     "already-seen": 3,
+     "off-topic": 3,
+     "no-development": 1
+    },
+    "ingest": {},
+    "admitted": 0,
+    "ingest_drop_rate": null
+   },
+   "maturity-study-aistrategy": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 14,
+     "already-seen": 1
+    },
+    "admitted": 41,
+    "ingest_drop_rate": 0.268
+   },
+   "maturity-study-aisystems": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 22,
+     "inadmissible-origin": 5,
+     "already-seen": 1,
+     "no-development": 1
+    },
+    "admitted": 51,
+    "ingest_drop_rate": 0.362
+   },
+   "newspapers": {
+    "sweep": {
+     "uncoded": 28,
+     "no-development": 4,
+     "off-topic": 2,
+     "already-seen": 1,
+     "fetch-blocked": 1
+    },
+    "ingest": {
+     "already-held": 6,
+     "no-development": 1,
+     "syndicated-copy": 1
+    },
+    "admitted": 7,
+    "ingest_drop_rate": 0.533
+   },
+   "off-list": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 1
+    },
+    "admitted": 7,
+    "ingest_drop_rate": 0.125
+   },
+   "reconcile": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 1,
+    "ingest_drop_rate": 0.0
+   },
+   "regional": {
+    "sweep": {
+     "uncoded": 82
+    },
+    "ingest": {
+     "already-held": 4,
+     "off-topic": 4,
+     "no-development": 2,
+     "no-value": 2
+    },
+    "admitted": 7,
+    "ingest_drop_rate": 0.632
+   },
+   "thinktanks": {
+    "sweep": {
+     "no-development": 5,
+     "already-seen": 3,
+     "off-place": 3,
+     "off-topic": 2,
+     "syndicated-copy": 1
+    },
+    "ingest": {},
+    "admitted": 3,
+    "ingest_drop_rate": 0.0
+   }
+  }
+ },
+ "hygiene": {
+  "housekeeping_next": 238,
+  "trims_rows": 6540,
+  "housekeeping_registered": 0,
+  "words_trimmed": 0,
+  "pages_rewritten": 0,
+  "since": "2026-11-26 22:55"
+ }
+}
