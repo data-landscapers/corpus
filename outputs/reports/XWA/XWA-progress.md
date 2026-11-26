@@ -5,7 +5,7 @@ period: 2025-11-01 to 2026-11-26
 place: XWA
 ledger_rows: 153
 not_held: 1
-record: 176d893a1650
+record: 0be7ba968a85
 ---
 
 # West Africa: progress report, November 2025 – November 2026
@@ -14,7 +14,7 @@ record: 176d893a1650
 
 *Of 153 bodies, instruments and systems on this place's ledger, 79 changed position between 2025-11-01 and 2026-11-26, 20 did not, 53 carry no stated baseline, and 1 is ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 326 sources for this place in the window — 79 in the earlier half (2025-11 to 2026-04), 247 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 331 sources for this place in the window — 79 in the earlier half (2025-11 to 2026-04), 252 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
