@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-25-bfa-innovation-et-technologie-la-21e-edition-de-la-semaine-du-numerique-ou",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Sidwaya reports Prime Minister Rimtalba Jean Emmanuel Ouedraogo listing among the government's gains, at the opening of the 21st Semaine du numerique, the launch of the unique identifier of persons.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "Identifiant unique des personnes",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identifiant unique des personnes",
+   "country_label": "Burkina Faso",
+   "class": "idsystem",
+   "platform": "unique person identifier",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
