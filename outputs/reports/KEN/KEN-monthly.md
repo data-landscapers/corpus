@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: KEN
-ledger_rows: 123
+ledger_rows: 125
 not_held: 5
-record: 1a1406f24224
+record: 24d6a4ef8413
 ---
 
 # News, Oct – Nov 2026
@@ -329,6 +329,14 @@ President Ruto nominated Lydia Sitienei, director of legal services at the Commu
 **[Kassait calls for reforms, central data pool as she exits data protection office](https://www.kbc.co.ke/kassait-calls-for-reforms-central-data-pool-as-she-exits-data-protection-office/)** — Kenya Broadcasting Corporation, 13 November 2026
 
 Immaculate Kassait leaves office as Kenya's first Data Commissioner on 16 November 2026 after six years at the Office of the Data Protection Commissioner. She says Kenya should establish a central anonymised data pool to support innovation. She also points to reforms to the office and ratification of the Malabo Convention.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Commissioner nominee pledges stronger privacy enforcement](https://www.the-star.co.ke/news/2026-11-25-data-commissioner-nominee-pledges-stronger-privacy-enforcement)** — The Star (Kenya), 25 November 2026
+
+Kenya's nominee for Data Commissioner, Lydia Sitienei Chelagat, appeared for vetting before the National Assembly communications committee, reported on 25 November 2026. She pledged stronger enforcement of the Data Protection Act, publication of determinations and local awareness campaigns. The committee will report its recommendation to the House.
 
 </div>
 
@@ -759,6 +767,36 @@ Kenya's National Cybersecurity Agency Board, chaired by Martin Koyabe, was inaug
 **[Launch of the SecureKE/Konza Sovereign Security Operations Centre (SOC)](https://ict.go.ke/launch-securekekonza-sovereign-security-operations-centre-soc)** — Ministry of Information, Communications and the Digital Economy (Kenya), 10 November 2026
 
 Kenya's ICT Principal Secretary, John Tanui, launched the SecureKE/Konza Sovereign Security Operations Centre, reported on 10 November 2026. The centre is a partnership between the Konza Technopolis Development Authority and SecureKE. It offers public and private institutions continuous monitoring, threat detection, incident investigation and coordinated response, according to the ICT ministry.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Investigation of the claimed eCitizen data breach</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Probe after hackers allegedly breach eCitizen, steal millions of personal data](https://citizen.digital/article/probe-after-hackers-allegedly-breach-ecitizen-steal-millions-of-personal-data-n394464)** — Citizen Digital, 24 November 2026
+
+State Department statement of 24 Nov 2026; ByteToBreach claims 740GB; SHA, DCI and Safaricom exposure flagged.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[What data is at risk in the alleged 740GB eCitizen data breach?](https://www.pulse.co.ke/story/what-data-is-at-risk-in-the-alleged-740gb-ecitizen-data-breach-2026112418263354796)** — Pulse Kenya, 24 November 2026
+
+Claimed 600GB KYC, 100GB database, 40GB source code; OAuth and SSO concern; Data Protection Act s.43 duty.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya investigates 740GB breach claim](https://www.itweb.africa/article/kenya-investigates-740gb-breach-claim/KA3WwqdzbEw7rydZ)** — ITWeb Africa, 25 November 2026
+
+Kenya's Ministry of Interior said in November 2026 that it is investigating a hacker's claim, posted on 22 November, to have taken 740GB of data from the eCitizen government portal. The unverified claim includes about 600GB of identity documents and access to eCitizen's single sign-on. The government said eCitizen remained online and urged users to change reused passwords.
 
 </div>
 
@@ -1825,6 +1863,20 @@ Kenya's High Court gave the government six months to complete a national policy 
 **[Mahakama AI: Judiciary pilots AI tool to tackle chronic case backlog](https://www.the-star.co.ke/news/2026-11-19-judiciary-pilots-ai-tool-to-tackle-case-backlog)** — The Star, 19 November 2026
 
 In November 2026 Kenya's Judiciary reported piloting Mahakama AI, an internal legal research tool for judges. By end-June 2026, 579,954 cases were pending, 341,412 of them for over three years. It had 244 legal researchers in post against an approved 650.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">African Next Voices Kenyan speech corpus</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Why Does Voice AI Still Struggle With Kenyans' Speech?](https://spectrum.ieee.org/swahili-speech-recognition)** — IEEE Spectrum, 24 November 2026
+
+Sheng, code-switching and noise defeat speech models; African Next Voices 9,000 hours, Google Waxal 11,000.
 
 </div>
 
