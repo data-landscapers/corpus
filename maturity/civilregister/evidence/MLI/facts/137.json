@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-25-mli-digitalisation-de-letat-civil-la-commune-iv-en-tete-du-peloton-avec-60",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "A UNDP-supported digital set-up of computers, printers and solar power for civil-status services was handed over at Commune IV of Bamako on 24 November 2026, with the same equipment in Commune V, per the territorial administration ministry.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-24-bfa-modernisation-de-letat-civil-a-reo-tenado-et-poa-la-digitalisation-fac",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The VENEEM platform has been introduced in Reo commune but is not operational for want of reliable internet, power and consumables, per a parliamentary mission report.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "VENEEM",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VENEEM",
+   "country_label": "Burkina Faso",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
