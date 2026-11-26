@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Oct – Nov 2026
-compiled: 2026-11-19
-period: 2026-10-01 to 2026-11-19
+compiled: 2026-11-26
+period: 2026-10-01 to 2026-11-26
 place: SOM
-ledger_rows: 27
+ledger_rows: 29
 not_held: 1
-record: ca6fdce0b415
+record: f810c2c5e1f1
 ---
 
 # News, Oct – Nov 2026
@@ -34,6 +34,8 @@ record: ca6fdce0b415
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -77,6 +79,30 @@ Somalia's parliament is reviewing a draft Penal Code to replace the 1962 code, a
 **[Somalia’s House of the People Approves the Digital Transactions Bill with 137 Votes in Favour](https://www.africa-newsroom.com/press/somalias-house-of-the-people-approves-the-digital-transactions-bill-with-137-votes-in-favour)** — Ministry of Communications and Technology, Somalia (via Africa Newsroom), 21 October 2026
 
 Somalia's House of the People passed the Digital Transactions Bill on 21 October 2026 with 137 votes in favour, giving a legal framework to digital transactions and mobile money. The bill was drafted by the communications ministry; the release does not mention the Senate stage or assent.
+
+</div>
+
+</div>
+
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EU Global Gateway green and digital trade programme, Horn of Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU, Ethiopia, Djibouti, Somalia and TradeMark Africa launch four-year Global Gateway partnership](https://trademarkafrica.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — TradeMark Africa, 23 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a>
+
+EUR 20m EU Global Gateway programme, signed 23 Nov 2026; TMA implements digital trade and transport systems.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU commits €20 million to green and digital trade across Ethiopia, Djibouti and Somalia](https://borkena.com/eu-commits-e20-million-to-green-and-digital-trade-across-ethiopia-djibouti-and-somalia/)** — Borkena, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a>
+
+The EU committed €20 million in Addis Ababa on 25 November 2026 to a four-year Global Gateway programme with Ethiopia, Djibouti, Somalia and TradeMark Africa. It covers digital and green trade and transport systems. It extends the existing €32 million Djibouti–Ethiopia corridor programme.
 
 </div>
 
@@ -375,6 +401,20 @@ Somalia's House of the People will suspend sessions for two weeks from 31 Octobe
 **[Country Profile on AI Governance: Somalia](https://www.aipolicy.africa/country-profiles/somalia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Somalia scored 1.50 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 19 of 54 states, in a country profile version 1.2 dated 7 October 2026, with 56 of 80 indicators scored. Its strongest pillar is Infrastructure and Data (2.22) and its weakest is Implementation and Impact (0.44); it has no published AI strategy but a Data Protection Act 2023 with rules on transfers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ThinkMD clinical triage tool, South West State</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Southwest State digital health programme](https://us-somalia.com/programmes/southwest-state-digital-health/)** — US-Somalia Investment Intelligence (Cleanport Ventures), 27 October 2026
+
+ThinkMD triage tool: 7,871 encounters at 22 Baidoa-area facilities by 26 October 2026; scale-up to 150 sought.
 
 </div>
 
