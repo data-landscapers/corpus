@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-26 01:45 · **REVIEW** · 17m · CPV: status 5 sections revised, 16 trimmed, progress 4 cells, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
+2026-11-26 01:45 · **REVIEW** · 17m · COM: status 15 sections revised, 12 trimmed, progress 7 cells, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
 2026-11-26 01:40 · **REBUILD** · 12m · aistrategy strategy: 10 cells reassessed, 7 moved; aisystems localai: 3 reassessed, 3 moved, second drafter 18/20; 108 searched, 136 staged; ~70M tokens - ok
 2026-11-26 01:27 · **BUILD** · 1h28m · polled cycle; catalogue 46,700; 52 units, 204 sources: 33 moved, 66 minted, 12 status; DC 5 rows; budget 0 waiting; 4c 1,263 readings, 6 moved; Who's Who 176; bulletin 50; 110 dead links - ok
 2026-11-26 00:37 · **BUDGET-EXTRACT** · 2m · SLE FY2027: nil from the Fiscal Strategy Statement 2027-2029; ceilings by pillar and cluster only, no vote or programme figure; followups line struck
