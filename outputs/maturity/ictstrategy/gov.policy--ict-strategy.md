@@ -421,7 +421,7 @@ Not established: evidence.csv holds no row and instruments.csv names no instrume
 
 ### DR Congo: Unplaced
 
-DR Congo's 2009 telecommunications and ICT sector policy lapsed in 2014; no source says whether a successor is being prepared, so no stage is set.
+DR Congo's 2009 telecommunications and ICT sector policy lapsed in 2014; the government validated a successor in August 2026, so no stage is set.
 
 *Lapsed; Under the national strategy.*
 
