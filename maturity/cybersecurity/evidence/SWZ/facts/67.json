@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-26-swz-eswatini-trains-40-police-officers-on-responsible-use-of-ai-to-strengthen-law-en",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Cybersecurity Incident Response Team (ESCCOM)",
+   "country_label": "ESCCOM National Cybersecurity Incident Response Team",
+   "class": "other",
+   "platform": "",
+   "owner": "Eswatini Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "Names the national CIRT only as the provider of a training course; no creation, incident response, designation or figures stated."
+}

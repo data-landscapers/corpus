@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-01-civ-fiche-d-opportunite-d-investissement-op-5-03-034-transition-numerique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ANSSI",
+   "country_label": "Agence Nationale de la Sécurité des Systèmes d'Information",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "ANSSI is only listed among public institutions; creation, incidents and critical infrastructure are not stated."
+}
