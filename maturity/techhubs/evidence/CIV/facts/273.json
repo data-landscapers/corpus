@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-civ-fiche-d-opportunite-d-investissement-op-5-03-034-transition-numerique",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The sheet names Orange Digital Center, CIPMEN and CIV Tech as private incubators and the state-run Hub Ivoire Tech (HIT), with no programme or cohort stated.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Hub Ivoire Tech",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
