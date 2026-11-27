@@ -5,14 +5,14 @@
       "sub_indicator": "aiharm",
       "stage": "4",
       "rule": "inforce",
-      "authority": "",
+      "authority": "designated",
       "enforced": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-011;EGY-003",
+      "stage_sources": "EGY-011;EGY-003;EGY-017",
       "gaps": "No source found since October 2023 gives an enforcement or redress decision about a harm from AI.",
-      "note": "Restaged by hand 2026-11-11 (housekeeping 57): the data protection law's executive regulations of November 2025 bind processors training AI to avoid harm to data subjects (EGY-011), a rule in force; the National Council for AI was set up by decree in January 2026 (EGY-003). No enforcement is held, so 4.",
-      "as_at": "2026-11-11"
+      "note": "Fact 2026-11-26: the communications ministry says the Egyptian Center for Responsible AI is the National Council for AI's executive arm and enforces the national AI governance framework (EGY-017), beside the data protection regulations binding AI training (EGY-011) and the council set up by decree (EGY-003). No enforcement is held, so 4.",
+      "as_at": "2026-11-26"
     }
   ]
 }

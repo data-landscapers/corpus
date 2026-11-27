@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-11-moz-governo-de-mocambique-cria-comissao-nacional-de-inteligencia-artificia",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "authority",
+   "value": "designated",
+   "fact": "INTIC reports that the Council of Ministers, at its 7th ordinary session, approved creation of the National Artificial Intelligence Commission (CNIA), tasked with setting AI ethics principles, issuing opinions and technical guidance to public and private bodies, and assessing the risks and social impacts of AI.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Comissão Nacional de Inteligência Artificial (CNIA)",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Comissão Nacional de Inteligência Artificial (CNIA)",
+   "country_label": "Moçambique",
+   "class": "aiharm",
+   "platform": "",
+   "owner": "Conselho de Ministros",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

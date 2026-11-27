@@ -38,10 +38,11 @@ A body was designated with a mandate over AI in 2026; enforcement is not on reco
 
 ### Egypt: 4 Operating
 
-Egypt's data protection rules bind AI training not to harm people, and a 2026 decree set up an AI council; no enforcement is known.
+Egypt's data protection rules bar harmful AI training, and a 2026 decree set up an AI council with an enforcing centre; no enforcement is known.
 
 - Masaar and EIPR's commentary says the data protection law's executive regulations, issued by MCIT Decree 816 of 2025 on 1 November 2025, require processors using personal data to train AI to follow recognised principles so that no harm results to the data subject (Article 4(7)) ([source, 2025-11-01](https://masaar.net/ar/testing-the-executive-regulations-data-protection-law/)).
 - Prime Ministerial Decree No. 207 of 2026, published in the Official Gazette on 18 January 2026, establishes the National Council for Artificial Intelligence, Quantum Computing and Emerging Technologies under the Prime Minister, chaired by the ICT minister ([source, 2026-01-18](https://www.elwatannews.com/news/details/8210438)).
+- The MCIT page says the Egyptian Center for Responsible AI (ECRAI) was established as the technical and executive arm of the National Council for AI and is responsible for enforcing the National AI Governance Framework, with an AI Audit Lab for testing and auditing AI systems ([source, 2026-01-01](https://mcit.gov.eg/en/Artificial_Intelligence)).
 
 ### Gabon: 4 Operating
 
