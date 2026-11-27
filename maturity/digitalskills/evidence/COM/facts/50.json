@@ -1,0 +1,23 @@
+{
+ "slug": "2025-06-09-e-msomo-e-shiyo-education-digitisation-anaden-unicef-lagazette",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-Msomo",
+   "country_label": "e-Msomo",
+   "class": "other",
+   "platform": "online grading and report platform",
+   "owner": "Ministry of Education with ANADEN",
+   "tiers": ""
+  },
+  {
+   "system": "e-Shiyo",
+   "country_label": "e-Shiyo",
+   "class": "other",
+   "platform": "digital textbook library",
+   "owner": "Ministry of Education with ANADEN, UNICEF",
+   "tiers": ""
+  }
+ ],
+ "note": "School platforms, not a programme teaching the public digital skills."
+}
