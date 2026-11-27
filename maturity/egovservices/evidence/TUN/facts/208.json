@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-25-tun-transformation-digitale-le-comit-g-n-ral-des-assurances-d-mat-rialise",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Tunisia's Comité général des assurances launched an online platform on which applications for insurance-intermediary licences are filed and tracked, and paper files are abandoned, according to its official communiqué.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "Comité général des assurances intermediary licensing platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Comité général des assurances intermediary licensing platform",
+   "country_label": "Tunisia",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Comité général des assurances",
+   "tiers": ""
+  },
+  {
+   "system": "national digital identity service",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

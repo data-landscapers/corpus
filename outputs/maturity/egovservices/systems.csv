@@ -302,6 +302,8 @@ MAR,ANCFCC online services,Morocco,eservices,ancfcc.gov.ma,ANCFCC,,2024-04-07-ma
 MAR,Epolice,Morocco,eservices,epolice.ma,DGSN,,2025-01-26-mar-plateforme-epolice-comment-la-dgsn-amorce-sa-transformation-digitale-p
 MAR,E-Police,E-Police,eservices,,DGSN,,2026-06-04-mar-morocco-expands-digital-reform-drive-with-police-service-modernization
 MAR,Watiqa,Watiqa,eservices,web portal,Ministry of Interior,,2026-11-18-mar-watiqa-civil-status-portal-outage
+MAR,E-ROKHSATI,Morocco,eservices,online platform,NARSA,,2026-11-24-mar-pr-sentation-rabat-de-e-rokhsati-une-plateforme-de-d-mat-rialisation-d
+MAR,Mon Identite Numerique,Morocco,other,,,,2026-11-24-mar-pr-sentation-rabat-de-e-rokhsati-une-plateforme-de-d-mat-rialisation-d
 MDG,Torolalana,Madagascar,eservices,portal,Unite de Gouvernance Digitale,,2024-05-15-mdg-ugd-torolalana-portal-releases
 MDG,Torolalana,Torolalana,eservices,"multi-channel portal (digital, telephone, post-office counter)","Digital Governance Unit, Ministry of Digital Development","digital channel, telephone channel, physical channel (Mahatoky)",2024-02-16-mdg-publicdigital-mahatoky-one-stop-counter
 MDG,Mahatoky,Mahatoky,eservices,agent-operated helpdesk in post offices,Digital Governance Unit with Paositra Malagasy,pilot in 4 post offices,2024-02-16-mdg-publicdigital-mahatoky-one-stop-counter
@@ -435,6 +437,7 @@ SLE,Online Business Registration System,Sierra Leone,eservices,,National Investm
 SLE,Central Government Service Portal,Unified website and Central Government Service Portal,eservices,,Government of Sierra Leone,,2024-10-01-sle-africa-regional-forum-on-data-governance-and-digital-government
 SLE,Online Business Registration System (OBRS),Online Business Registration System,eservices,,National Investment Board,,2026-11-11-sle-business-registration-75pct-unregistered
 SLE,Online Business Registration System (OBRS),Online Business Registration System,eservices,,National Investment Board,,2026-11-11-sle-online-business-registration-launch
+SLE,WanGov,Sierra Leone,eservices,,DSTI,,2025-05-01-sle-building-language-ai-for-sierra-leone-s-indigenous-languages-kuma-rese
 SOM,Content Management System (CMS),Somalia,eservices,Typo3,Ministry of Communication and Technology,,2024-09-29-som-govstack-digital-leaders-spotlight-somalia
 SOM,High School Records (HSR),Somalia,eservices,Joget,Ministry of Education,,2024-09-29-som-govstack-digital-leaders-spotlight-somalia
 SOM,Halmeel unified digital government services platform,Halmeel,other,,Unified Public Service Delivery Center (Halmeel),,2026-10-19-som-biometricupdate-halmeel-unified-platform-national-id
@@ -528,6 +531,9 @@ TUN,national platform of administrative procedures,Tunisia,eservices,,Ministry o
 TUN,E-Consulat,E-Consulat,eservices,,Ministry of Foreign Affairs,,2026-11-17-tun-tunisiens-l-tranger-les-passeports-bient-t-accessibles-via-e-consulat
 TUN,Dalil national administrative procedures platform,Dalil,other,,Presidency of the Government,,2026-11-17-tun-tunisiens-l-tranger-les-passeports-bient-t-accessibles-via-e-consulat
 TUN,Khadamat,Tunisia,eservices,application,Ministry of Communication Technologies,,2026-11-19-tun-minister-hemissi-presents-his-record-and-it-was-anything-but
+TUN,Comité général des assurances intermediary licensing platform,Tunisia,eservices,,Comité général des assurances,,2026-11-25-tun-transformation-digitale-le-comit-g-n-ral-des-assurances-d-mat-rialise
+TUN,national digital identity service,Tunisia,other,,,,2026-11-25-tun-transformation-digitale-le-comit-g-n-ral-des-assurances-d-mat-rialise
+TUN,INSSPA digital platform,Tunisia,other,,INSSPA,,2026-11-24-tun-s-curit-alimentaire-l-insspa-pr-pare-une-plateforme-num-rique-pour-ren
 TZA,Ajira Portal,Tanzania,eservices,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
 TZA,NeST,Tanzania,eservices,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
 TZA,GovESB,Tanzania,other,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
@@ -564,6 +570,7 @@ ZAF,e-Gov portal,South Africa,eservices,,SITA,,2024-02-16-zaf-sita-to-ramp-up-ac
 ZAF,Digital Asylum System,Digital Asylum System,eservices,Myhomeaffairsonline,Department of Home Affairs,,2026-11-10-gov-za-home-affairs-launches-first-phase-digital-asylum-system
 ZAF,myRegulator,South Africa,other,internal case management,Information Regulator,,2026-11-19-zaf-itweb-inforeg-cyber-defences-ai-governance
 ZAF,Electronic Travel Authorisation (ETA),South Africa,eservices,,Department of Home Affairs,,2026-11-24-zaf-no-budget-for-digital-border-control-at-land-ports-as-sa-faces-busy-festive-
+ZAF,North West e-Recruitment platform,South Africa,other,,North West Provincial Government,,2026-11-25-zaf-north-west-provincial-government-s-e-recruitment-platform-to-go-live-o
 ZMB,National Public Key Infrastructure (NPKI),Zambia,other,,ZICTA,,2026-09-15-zmb-techafricanews-national-digital-trust-infrastructure-public-key
 ZMB,ZamPass,Zambia,other,"open-source SSO, OpenID Connect",Smart Zambia Institute,,2026-08-29-zambia-zampass-about
 ZMB,Citizen Support Services Portal,Zambia,other,,,,2026-08-24-govt-pushes-digitalisation-to-expand-services

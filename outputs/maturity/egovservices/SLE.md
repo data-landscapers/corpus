@@ -6,7 +6,7 @@
 
 **Single gateway.** In June 2025 the minister said the ministry [had created the One Government Platform, a one-stop portal for all government services and information](<https://statehouse.gov.sl/2025/06/04/sierra-leones-president-bio-champions-technological-innovation-at-the-2025-digital-innovation-summit/>). A 2024 government presentation [listed a central government service portal among its e-government work](<https://publicadministration.desa.un.org/sites/default/files/list-of-files/2024/presentation%204%29%20UN-DESA-ADGF-Pretoria-2024.pdf>). No source found says how users sign in to it. Neither the national ID nor one shared account is named as its sign-in.
 
-**Use published.** No count of users or payments through WanGov has been found. The nearest fact: [WanGov takes payment for services at the border post](<https://sierraloaded.sl/news/sierra-leone-digital-platform-border-trade-guinea/>).
+**Use published.** No count of users or payments through WanGov has been found. In May 2025 DSTI said [its Government Services Portal has more than 800,000 SMS and WhatsApp users](<https://kuma.dsti.gov.sl/research>). The nearest fact for WanGov: [WanGov takes payment for services at the border post](<https://sierraloaded.sl/news/sierra-leone-digital-platform-border-trade-guinea/>).
 
 ***Also on file***. None found.
 
