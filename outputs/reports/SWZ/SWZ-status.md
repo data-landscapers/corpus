@@ -1,6 +1,6 @@
 ---
 title: Eswatini: status report
-compiled: 2026-11-26
+compiled: 2026-11-27
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
@@ -89,7 +89,7 @@ In 2026 [the standards authority's catalogue listed 28 domesticated information-
 <!-- derived -->
 The digital lines of the 2026/27 estimates come to about E471 million proposed, 88.5% of it the state's own money and the rest World Bank and Taiwanese financing (2026/27).
 
-[The largest of the state's own lines in 2026/27 are E130.5 million for the 2027 population and housing census and E119.1 million for the Royal Science and Technology Park](https://parliament.gov.sz/media/speeches/docs/2602-223%20Ministry%20of%20Finance%20Estimates%202026.pdf). [The Park's sum is a recurrent subvention, and the recurrent estimates print no financing source against their digital lines](https://parliament.gov.sz/media/speeches/docs/2602-223%20Ministry%20of%20Finance%20Estimates%202026.pdf). [Taiwanese grants financed a E36 million 5G government network in 2024/25, with no local funds beside them](https://www.gov.sz/images/FinanceDocuments/Budget-Estimates-2024-25-Final-Print-Version.pdf). [Taiwanese grants also pay for rural school computer laboratories and computers, E14.4 million in 2026/27](https://parliament.gov.sz/media/speeches/docs/2602-223%20Ministry%20of%20Finance%20Estimates%202026.pdf).
+[The largest of the state's own lines proposed in the draft 2026/27 estimates are E130.5 million for the 2027 population and housing census and E119.1 million for the Royal Science and Technology Park](https://parliament.gov.sz/media/speeches/docs/2602-223%20Ministry%20of%20Finance%20Estimates%202026.pdf). [The Park's sum is a recurrent subvention, and the recurrent estimates print no financing source against their digital lines](https://parliament.gov.sz/media/speeches/docs/2602-223%20Ministry%20of%20Finance%20Estimates%202026.pdf). [Taiwanese grants financed a E36 million 5G government network in 2024/25, with no local funds beside them](https://www.gov.sz/images/FinanceDocuments/Budget-Estimates-2024-25-Final-Print-Version.pdf). [Taiwanese grants also pay for rural school computer laboratories and computers, E14.4 million in 2026/27](https://parliament.gov.sz/media/speeches/docs/2602-223%20Ministry%20of%20Finance%20Estimates%202026.pdf).
 
 [In 2024/25 the Universal Access and Service Fund took in about E10 million from the operators' levy and E10 million from the regulator](https://esccom.org.sz/wp-content/uploads/2026/08/ANNUAL-REPORT-2025.pdf). [The fund was set up under the Electronic Communications Act 2013 and is administered by the communications regulator](https://esccom.org.sz/wp-content/uploads/2026/08/ANNUAL-REPORT-2025.pdf). [It spent E14.2 million in 2024/25, E3.7 million of it on last-mile connectivity at 20 sites and E0.8 million on e-government support](https://esccom.org.sz/wp-content/uploads/2026/08/ANNUAL-REPORT-2025.pdf). [Under section 49(10) of the Communications Act 2013, revenue the regulator leaves unused at year-end goes to the universal service programme](https://esccom.org.sz/wp-content/uploads/2026/08/ANNUAL-REPORT-2025.pdf).
 

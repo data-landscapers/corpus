@@ -3,7 +3,7 @@ type: bulletin
 title: Bulletin
 subtitle: Last updated 26-11-2026 at 20:33 — Covering sources published on 26 November 2026
 window_start: 2026-11-26
-window_end: 2026-11-26
+window_end: 2026-11-27
 items: 29
 collected_to: 2026-11-26 20:33
 compiled: 2026-11-26 21:07
@@ -312,7 +312,7 @@ Summarised under [Standards](#standards).
 
 **[Visa deepens Central Africa footprint](https://www.itweb.africa/article/visa-deepens-central-africa-footprint/dgp45MaBAJmqX9l8)** — ITWeb Africa, 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
 
-Visa is opening a representative office in Douala, serving 23 countries. It is its fifth in West and Central Africa, after Abidjan, Lagos, Accra and Kinshasa. The central bank's latest payments report, cited here, counts 30.99 million mobile money accounts and 2.73 billion transactions. Cameroon carries 65.1% of payment volumes in the six-country CEMAC bloc.
+Visa is opening a representative office in Douala. It is one of five Visa offices serving 23 countries in West and Central Africa, alongside Abidjan, Lagos, Accra and Kinshasa. The central bank's latest payments report, cited here, counts 30.99 million mobile money accounts and 2.73 billion transactions. Cameroon carries 65.1% of payment volumes in the six-country CEMAC bloc.
 
 </div>
 
