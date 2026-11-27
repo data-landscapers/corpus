@@ -6,14 +6,14 @@
       "stage": "5",
       "inhouse": "yes",
       "agency": "operating",
-      "built": "",
+      "built": "live",
       "own": "entire",
       "cap": "",
       "flags": "",
       "stage_sources": "GAB-022;GAB-023;GAB-024",
       "gaps": "",
       "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-      "as_at": "2026-10-26"
+      "as_at": "2026-11-27"
     }
   ]
 }

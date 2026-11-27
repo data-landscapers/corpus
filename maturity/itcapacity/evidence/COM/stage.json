@@ -13,7 +13,7 @@
       "stage_sources": "COM-001",
       "gaps": "No source found from 2023 or later says government staff run or maintain any of its systems.",
       "note": "Counted from the four questions by study-ladder-itcapacity.py. The health insurer's openIMIS system still depends heavily on external developers (May 2026), so 1.",
-      "as_at": "2026-11-12"
+      "as_at": "2026-11-27"
     }
   ]
 }

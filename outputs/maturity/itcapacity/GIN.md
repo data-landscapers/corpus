@@ -8,7 +8,7 @@
 
 **Built in-house.** [On 20 May 2026 the finance ministry launched SICOM](<https://www.mef.gov.gn/modernisation-des-finances-publiques-la-guinee-lance-sicom-son-nouvel-outil-numerique-souverain-de-gestion-du-patrimoine-public/>), a public-asset accounting system. The ministry says Guinean staff of its IT directorate developed it entirely. No source says who runs it.
 
-**Systems run wholly in-house.** No source found names a system run wholly by government staff. The nearest fact is [the eLMIS handover the health ministry was still preparing in December 2023](<https://www.ghsupplychain.org/news/guinean-computer-scientists-trained-manage-health-logistics-system>).
+**Systems built or run in-house.** No source found names a system that government staff built, run or maintain. The nearest fact is [the eLMIS handover the health ministry was still preparing in December 2023](<https://www.ghsupplychain.org/news/guinean-computer-scientists-trained-manage-health-logistics-system>).
 
 ***Also on file***. [FUGAS (fichier unique de gestion administrative et de la solde)](<https://www.africaguinee.com/ministere-de-la-modernisation-de-ladministration-le-president-doumbouya-nomme-plusieurs-hauts-cadres/>); [State intranet](<https://ande.gov.gn/mission-et-attributions/>); [Integrated financial and administrative management system](<https://ande.gov.gn/mission-et-attributions/>).
 

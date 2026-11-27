@@ -8,8 +8,8 @@
 
 **Built in-house.** [The Vice President launched the CitizenApp on 7 October 2024](<https://gna.org.gh/2024/10/bawumia-unveils-new-citizenapp-to-promote-efficiency-in-public-service-delivery/>). No contractor is named. It gathers public services, from water bills to passports, in one app.
 
-**Systems run wholly in-house.** No source found since October 2023 names three systems run wholly by government staff. [The CitizenApp is the one named](<https://gna.org.gh/2024/10/bawumia-unveils-new-citizenapp-to-promote-efficiency-in-public-service-delivery/>), and a private partner runs the national identity system.
+**Systems built or run in-house.** No source found since November 2023 names three systems that government staff built, run or maintain. [The CitizenApp is the one named](<https://gna.org.gh/2024/10/bawumia-unveils-new-citizenapp-to-promote-efficiency-in-public-service-delivery/>), and a private partner runs the national identity system.
 
 ***Also on file***. [Ghana Electronic Document Wallet (GEDW)](<https://nita.gov.gh/gedw-stakeholder-engagement/>); [G-Cloud](<https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/>).
 
-***Not found***. No sources found since October 2023 name three systems run wholly by government staff.
+***Not found***. No sources found since November 2023 name three systems that government staff built, run or maintain.

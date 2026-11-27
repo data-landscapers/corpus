@@ -12,8 +12,8 @@
       "flags": "",
       "stage_sources": "MLI-010;MLI-013;MLI-016;MLI-009;MLI-006;MLI-008",
       "gaps": "",
-      "note": "Government staff built the mining cadastre (April 2026) and SIGRH, and AGETIC the court case-management software, each with no contractor named. Three systems run wholly in-house, so 5.",
-      "as_at": "2026-11-12"
+      "note": "Government staff built the mining cadastre (April 2026) and SIGRH, and AGETIC the court case-management software, each with no contractor named. Three systems built or run by government staff, so 5.",
+      "as_at": "2026-11-27"
     }
   ]
 }

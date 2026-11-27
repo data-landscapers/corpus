@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "inhouse",
+ "aspect": "inhouse",
+ "fact": "A DHIS2 tracker for the Gaza emergency was rolled out in under 10 working days at 30 hospitals by the Ministry of Health and Population, after a first locally developed DHIS2 platform built by experts from the ministry, the planning ministry, UNICEF Egypt and HISP MENA, hosted on a local data centre, as at January 2024.",
+ "title": "Egypt deploys DHIS2 for emergency and humanitarian response",
+ "publisher": "DHIS2",
+ "published": "2024-01-30",
+ "date_source": "proxy",
+ "why_not": ""
+}

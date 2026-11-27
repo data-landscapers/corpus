@@ -13,7 +13,7 @@
       "stage_sources": "CIV-018;CIV-019;CIV-020;CIV-015;CIV-004;CIV-010",
       "gaps": "",
       "note": "Counted from the four questions by study-ladder-itcapacity.py. The state company SNDI built SIGFIP, SIGOMAP and the CEPICI one-stop system, naming no contractor (June 2026), and SIGOMAP has replaced SIGMAP, so every rung to 5 is shown.",
-      "as_at": "2026-11-12"
+      "as_at": "2026-11-27"
     }
   ]
 }

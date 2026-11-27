@@ -8,8 +8,8 @@
 
 **Built in-house.** In November 2026 the transport minister said [the ministry's own technicians developed its online platform for reporting irregularities](<https://www.2424.mg/mobilite-urbaine-les-citoyens-invites-a-signaler-les-irregularites-dans-le-secteur-des-transports-via-une-plateforme-numerique>), at no cost to the state budget. Citizens reach it on the ministry's website, and each report gets a code to follow its handling. [The digital unit's Mahatoky counters were a pilot in four post offices in 2024](<https://public.digital/pd-insights/blog/2024/02/show-the-thing-9-madagascar-public-services-one-stop-counter>).
 
-**Systems run wholly in-house.** No source found since October 2023 names three systems run wholly by government staff. [The Fichier central is the one named](<https://www.ungm.org/Public/Notice/269304>).
+**Systems built or run in-house.** No source found since November 2023 names three systems that government staff built, run or maintain. [The Fichier central is the one named](<https://www.ungm.org/Public/Notice/269304>).
 
 ***Also on file***. [e-GP Madagascar](<https://digital.gov.mg/2025/08/14/avis-demande-propositions-egp/>); [i-Fanagna](<https://www.2424.mg/news/lutte-contre-la-corruption-le-bianco-lance-i-fanagna-une-plateforme-numerique-de-declaration-de-patrimoine>); [e-Pasipaoro](<https://www.2424.mg/administration-le-site-de-demande-de-passeport-en-ligne-en-cours-de-test-selon-le-ministere-en-charge-du-developpement-numerique/>).
 
-***Not found***. No source found since October 2023 names three systems run wholly by government staff.
+***Not found***. No source found since November 2023 names three systems that government staff built, run or maintain.

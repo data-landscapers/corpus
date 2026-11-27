@@ -6,9 +6,9 @@
 
 **A technology body for government.** No source found from 2023 or later says a government body builds or runs systems for the rest of government. The one fact found is [the health ministry's own running of openIMIS](<https://openimis.atlassian.net/wiki/spaces/OP/pages/5154603013/Webinaire+Souverainet+Appropriation+des+syst+mes+de+sant+num+riques>).
 
-**Built in-house.** No source found says a system built by government staff went live since October 2023. [The health ministry runs openIMIS](<https://openimis.atlassian.net/wiki/spaces/OP/pages/5154603013/Webinaire+Souverainet+Appropriation+des+syst+mes+de+sant+num+riques>) but is not said to have built it.
+**Built in-house.** No source found says a system built by government staff went live since November 2023. [The health ministry runs openIMIS](<https://openimis.atlassian.net/wiki/spaces/OP/pages/5154603013/Webinaire+Souverainet+Appropriation+des+syst+mes+de+sant+num+riques>) but is not said to have built it.
 
-**Systems run wholly in-house.** No source found names a system run wholly by government staff. [openIMIS still needs outside support for advanced work](<https://openimis.atlassian.net/wiki/spaces/OP/pages/5154603013/Webinaire+Souverainet+Appropriation+des+syst+mes+de+sant+num+riques>).
+**Systems built or run in-house.** No source found names a system that government staff built, run or maintain. [openIMIS still needs outside support for advanced work](<https://openimis.atlassian.net/wiki/spaces/OP/pages/5154603013/Webinaire+Souverainet+Appropriation+des+syst+mes+de+sant+num+riques>).
 
 ***Also on file***. [train.patnucelearning.cm](<https://www.digitalbusiness.africa/cameroun-train-patnucelearning-cm-la-plateforme-numerique-lancee-pour-former-15-000-agents-publics-a-lia-la-blockchain-et-la-transformation-digitale/>); [Learning Management System (MINFOPRA-KOICA project)](<https://globalinfosnews.com/smart-campus-lms-formation-4-0-la-mutation-numerique-des-agents-publics-camerounais-est-en-marche/>).
 

@@ -8,8 +8,8 @@
 
 **Built in-house.** [INE launched the census portal and app on 2 July 2026 in Uíge](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>). Its head said INE's own staff built them.
 
-**Systems run wholly in-house.** No source found since October 2023 names three systems run wholly by government staff. [Two are on file, INE's census portal and its app](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>), and AGT's system is not yet live.
+**Systems built or run in-house.** No source found since November 2023 names three systems that government staff built, run or maintain. [Two are on file, INE's census portal and its app](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>), and AGT's system is not yet live.
 
 ***Also on file***. [SIGFE](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>); [CAPI/CATI census platform](<https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf>).
 
-***Not found***. No sources found since October 2023 name three systems run wholly by government staff.
+***Not found***. No sources found since November 2023 name three systems that government staff built, run or maintain.

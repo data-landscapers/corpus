@@ -8,7 +8,7 @@
 
 **Built in-house.** The acting director general [launched the customs valuation database at North Port in January 2025](<https://sagiapress.net/2025/01/07/%d9%85%d8%af%d9%8a%d8%b1-%d8%b9%d8%a7%d9%85-%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b1%d9%83-%d8%a7%d9%84%d9%85%d9%83%d9%84%d9%81-%d9%8a%d8%af%d8%b4%d9%86-%d9%86%d8%b8%d8%a7%d9%85/>). Customs IT officers built it, not a contractor.
 
-**Systems run wholly in-house.** No source found names three systems run wholly by government staff. [The valuation database is the one found](<https://sagiapress.net/2025/01/07/%d9%85%d8%af%d9%8a%d8%b1-%d8%b9%d8%a7%d9%85-%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b1%d9%83-%d8%a7%d9%84%d9%85%d9%83%d9%84%d9%81-%d9%8a%d8%af%d8%b4%d9%86-%d9%86%d8%b8%d8%a7%d9%85/>).
+**Systems built or run in-house.** No source found names three systems that government staff built, run or maintain. [The valuation database is the one found](<https://sagiapress.net/2025/01/07/%d9%85%d8%af%d9%8a%d8%b1-%d8%b9%d8%a7%d9%85-%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b1%d9%83-%d8%a7%d9%84%d9%85%d9%83%d9%84%d9%81-%d9%8a%d8%af%d8%b4%d9%86-%d9%86%d8%b8%d8%a7%d9%85/>).
 
 ***Also on file***. None found.
 

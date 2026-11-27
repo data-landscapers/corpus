@@ -8,7 +8,7 @@
 
 **Built in-house.** In August 2026 the Agency for Combating Illegal Migration [unveiled a unified digital system linking its headquarters and branches](<https://libyareview.com/67705/libya-launches-unified-digital-system-to-monitor-migration-operations/>). The agency says its own engineers built it entirely.
 
-**Systems run wholly in-house.** No source found since October 2023 names three systems run wholly by government staff. [The central bank's payroll platform is one it runs itself](<https://alwasat.ly/news/libya/485074>).
+**Systems built or run in-house.** No source found since November 2023 names three systems that government staff built, run or maintain. [The central bank's payroll platform is one it runs itself](<https://alwasat.ly/news/libya/485074>).
 
 ***Also on file***. None found.
 

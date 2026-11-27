@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "4",
+      "stage": "5",
       "inhouse": "yes",
       "agency": "operating",
       "built": "live",
-      "own": "",
+      "own": "entire",
       "cap": "",
       "flags": "",
-      "stage_sources": "TCD-003;TCD-007;TCD-004",
-      "gaps": "No source found since October 2023 names three systems run wholly by government staff.",
-      "note": "SONEMIC, a state company, builds health and education platforms for ministries with the ICT agency ADETIC (TCD-006, TCD-007), and its own engineers built the operations system in use since April 2026 (TCD-004), so 4. No three systems are named as run wholly in-house, so not 5.",
-      "as_at": "2026-11-21"
+      "stage_sources": "TCD-010;TCD-011;TCD-009;TCD-004;TCD-007;TCD-006",
+      "gaps": "",
+      "note": "SONEMIC built its operations system, the police e-Visa department runs evisa.td, and SONEMIC and ADETIC engineers build Td-connect and E-Santé, none naming a contractor, so 5. Rung 5 was reworded on 2026-11-27 (R185): a system government staff built counts.",
+      "as_at": "2026-11-27"
     }
   ]
 }

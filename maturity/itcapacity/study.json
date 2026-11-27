@@ -105,9 +105,9 @@
     "A source from 2023 or later says government's own staff run, maintain or built one of its systems.",
     "A government agency or state company builds, hosts or runs systems for the rest of government, by a source from 2023 or later.",
     "A system built by government staff, not a contractor, went live in the last three years.",
-    "Three or more of the government's systems are run, maintained and changed by its own staff, with no contractor doing the work, by a source from the past three years."
+    "Three or more of the government's systems, each named, were built, run or maintained by its own staff, with no contractor named doing the work, by a source from the past three years."
    ],
-   "criteria_of": "add0ae28ee4a"
+   "criteria_of": "660df542d559"
   }
  ],
  "classes": [
@@ -156,7 +156,7 @@
   },
   {
    "key": "own",
-   "name": "Systems run wholly in-house",
+   "name": "Systems built or run in-house",
    "role": "coverage",
    "defer": [],
    "prefer": [
@@ -168,5 +168,6 @@
   }
  ],
  "flags": [],
- "searched": "2026-11-11"
+ "searched": "2026-11-27",
+ "ladder_rewritten": "2026-11-27"
 }

@@ -8,7 +8,7 @@
 
 **Built in-house.** [Epolice was launched in December 2024](<https://fr.le360.ma/societe/plateforme-epolice-comment-la-dgsn-amorce-sa-transformation-digitale-pour-etre-au-plus-pres-et-en_KBP6WMVA5ZF3ZLZRDOTOE3GSDI/>). The police's own teams built and run it, and no contractor is named.
 
-**Systems run wholly in-house.** No source found names three systems run wholly by government staff. [Epolice is the one found](<https://fr.le360.ma/societe/plateforme-epolice-comment-la-dgsn-amorce-sa-transformation-digitale-pour-etre-au-plus-pres-et-en_KBP6WMVA5ZF3ZLZRDOTOE3GSDI/>), built and run by the police's own teams.
+**Systems built or run in-house.** No source found names three systems that government staff built, run or maintain. [Epolice is the one found](<https://fr.le360.ma/societe/plateforme-epolice-comment-la-dgsn-amorce-sa-transformation-digitale-pour-etre-au-plus-pres-et-en_KBP6WMVA5ZF3ZLZRDOTOE3GSDI/>), built and run by the police's own teams.
 
 ***Also on file***. None found.
 

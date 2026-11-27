@@ -8,8 +8,8 @@
 
 **Built in-house.** On 19 November 2025 the Supreme Court [launched its institutional website](<https://ahoraeg.com/sociedad/2025/11/19/la-corte-suprema-de-justicia-presenta-su-pagina-web-institucional/>). The court's own Directorate General of Archives designed it.
 
-**Systems run wholly in-house.** No source found since October 2023 names three systems run wholly by government staff. Two are found built by government teams: [GEX](<https://realequatorialguinea.com/destacado/cniapge-forma-a-funcionarios-de-la-primatura-en-el-uso-de-la-plataforma-de-gestion-de-expedientes/>) and [the Supreme Court website](<https://ahoraeg.com/sociedad/2025/11/19/la-corte-suprema-de-justicia-presenta-su-pagina-web-institucional/>).
+**Systems built or run in-house.** No source found since November 2023 names three systems that government staff built, run or maintain. Two are found built by government teams: [GEX](<https://realequatorialguinea.com/destacado/cniapge-forma-a-funcionarios-de-la-primatura-en-el-uso-de-la-plataforma-de-gestion-de-expedientes/>) and [the Supreme Court website](<https://ahoraeg.com/sociedad/2025/11/19/la-corte-suprema-de-justicia-presenta-su-pagina-web-institucional/>).
 
 ***Also on file***. [National video-surveillance system](<https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_y_huawei_concluyen_exitosamente_las_negociaciones_sobre_los_anexos_del_contrato>).
 
-***Not found***. No source found since October 2023 names three systems run wholly by government staff.
+***Not found***. No source found since November 2023 names three systems that government staff built, run or maintain.

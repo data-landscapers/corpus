@@ -11,9 +11,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MDG-001;MDG-002;MDG-004",
-      "gaps": "No source found since October 2023 names three systems run wholly by government staff.",
-      "note": "The transport ministry's irregularity-reporting platform, open to citizens in November 2026, was developed by the ministry's own technicians (MDG-004), so a system built by government staff went live: 4. No three systems are named as run wholly in-house, so not 5.",
-      "as_at": "2026-11-21"
+      "gaps": "No source found since November 2023 names three systems that government staff built, run or maintain with no contractor named.",
+      "note": "The transport ministry's irregularity-reporting platform, open to citizens in November 2026, was developed by the ministry's own technicians (MDG-004), so a system built by government staff went live: 4. No three systems are named as built or run by government staff, so not 5.",
+      "as_at": "2026-11-27"
     }
   ]
 }

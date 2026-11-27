@@ -11,9 +11,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GNQ-008;GNQ-005;GNQ-003",
-      "gaps": "No sources found since October 2023 name three systems run wholly by government staff.",
-      "note": "Counted from the four questions by study-ladder-itcapacity.py. CNIAPGE's own team built GEX and the centre serves the administration, and the Supreme Court's website, built by its own archives directorate, went live in November 2025, so 4. Fewer than three systems are named as run wholly in-house.",
-      "as_at": "2026-11-12"
+      "gaps": "No source found since November 2023 names three systems that government staff built, run or maintain with no contractor named.",
+      "note": "Counted from the four questions by study-ladder-itcapacity.py. CNIAPGE's own team built GEX and the centre serves the administration, and the Supreme Court's website, built by its own archives directorate, went live in November 2025, so 4. Fewer than three systems are named as built or run by government staff.",
+      "as_at": "2026-11-27"
     }
   ]
 }

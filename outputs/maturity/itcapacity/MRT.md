@@ -8,8 +8,8 @@
 
 **Built in-house.** [AN-État's road-safety system went into service on 26 December 2025](<https://www.agenceecofin.com/actualites-numerique/2612-134553-la-mauritanie-met-en-service-une-solution-d-ia-dediee-a-la-securite-routiere>). It covers the whole national road network. [ANRPTS launched Houwiyeti on 26 December 2023](<https://ami.mr/fr/archives/237149>).
 
-**Systems run wholly in-house.** No source found since October 2023 names three systems run wholly by government staff. [Two are named, Houwiyeti and the road-safety system](<https://www.agenceecofin.com/actualites-numerique/2612-134553-la-mauritanie-met-en-service-une-solution-d-ia-dediee-a-la-securite-routiere>). Houwiyeti takes applications for identity cards, passports and civil-status extracts.
+**Systems built or run in-house.** No source found since November 2023 names three systems that government staff built, run or maintain. [Two are named, Houwiyeti and the road-safety system](<https://www.agenceecofin.com/actualites-numerique/2612-134553-la-mauritanie-met-en-service-une-solution-d-ia-dediee-a-la-securite-routiere>). Houwiyeti takes applications for identity cards, passports and civil-status extracts.
 
 ***Also on file***. [Plateforme numerique des services consulaires](<https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/>); [Communautes](<https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/>); [Khadematy](<https://lequotidien.mr/?p=40000&lang=fr>); [Khidmaty](<https://www.ami.mr/archives/266841>); [Houwiyeti](<https://ami.mr/fr/archives/290261>); [Plateforme de la commission nationale des concours](<https://ami.mr/fr/archives/290261>).
 
-***Not found***. No sources found since October 2023 name three systems run wholly by government staff.
+***Not found***. No sources found since November 2023 name three systems that government staff built, run or maintain.

@@ -33,7 +33,9 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Do government staff run or maintain any of its computer systems? | A source from 2023 or later states a government body's own technical staff run, maintain, support or built a named system *(Bill, 2026-11-16, message 133)* |
 | 2 | Does a government technology body build or run systems for the rest of government? | A source from 2023 or later states a government agency or state company builds, hosts or runs systems for ministries |
 | 3 | Has a government team built a system that went live in the last three years? | A source states a system built by government staff, not a contractor, went live in October 2023 or later |
-| 4 | Do government staff wholly run three or more of its systems? | Sources from the last three years name three or more systems that government staff run, maintain or built, with no contractor named doing the work |
+| 4 | Do government staff build or run three or more of its systems? | Sources from the last three years name three or more systems, each by name, that government staff built, run or maintain, with no contractor named doing the work |
+
+**Government staff** are the staff of a ministry, a regional or local government, a state agency or a state company, a utility or central bank among them *(2026-11-27, R185)*. A donor that funds or advises on a system is not a contractor.
 
 ## 3. The ladders
 
@@ -45,12 +47,13 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: government staff run a system |
 | 3 Establishing | Yes to 2: a government technology body serves the rest of government |
 | 4 Operating | Yes to 3: a system built in-house went live in the last three years |
-| 5 Mature | Yes to 4: three or more systems run wholly by government staff |
+| 5 Mature | Yes to 4: three or more named systems that government staff built, run or maintain, with no contractor named |
 
 - **Stage 2 changes.** The row put a training exercise, a programme announced or a body needing technical help at stage 2. Training says nothing of who runs the systems, so it is `other`; a body needing help is stage 1.
 - **Stage 3 changes.** The row's "in-house teams on some systems" becomes question 1. Its place is taken by a body whose job is the rest of government's systems, which is what separates one team from a capacity.
 - **Stage 4 keeps the row's "systems built in-house"** as one fact a story states: a launch built by government staff. The row's cadre moves up.
-- **Stage 5 is three or more systems run wholly by government staff** *(Bill, 2026-10-26, message 31)*: the cadre went, as a career structure says nothing of who runs the systems. A system counts where a source says government staff or a state technology body built it, or run and maintain it, and names no contractor doing the work; donor funding is not a contractor. A network, a data centre, a hosting service or a security team is not a system.
+- **Stage 5 is three or more systems that government staff built, run or maintain** *(Bill, 2026-10-26, message 31; reworded 2026-11-27 under R185)*: the cadre went, as a career structure says nothing of who runs the systems. A system counts where a source names it, says government staff built it or run or maintain it, and names no contractor doing the work. Built is enough: no source need also say who runs it now. A system is an application people work in; a network, a data centre, a hosting or cloud service, a security team, and a list of tools that names none, are not. Each system counts once.
+- **Why the rung was reworded** *(R185: agreement 35 per cent)*: "run wholly" was read two ways. Twelve countries were placed at 5 on systems a state body built with no contractor named; Benin, Chad, Nigeria and South Africa were held at 4 on the same kind of evidence, read as asking a source to rule out any outside hand. The first reading is Bill's of message 31 and stands; the four are restaged.
 - **A system government staff built answers question 1** *(Bill, 2026-11-16, message 133)*: so Guinea's SICOM and Niger's SIGEPAP-GNN.
 - **Window**: three years for every question.
 

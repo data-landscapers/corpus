@@ -8,8 +8,8 @@
 
 **Built in-house.** Makueni County's in-house ICT team [built its Projects Monitoring and Tracking System without outside vendors](<https://umanyi.makueni.go.ke/storage/success_stories/68b949613618a_Success_Story.pdf>). It was launched in March 2024.
 
-**Systems run wholly in-house.** No source found since October 2023 names three systems run wholly by government staff. [Makueni's tracking system is one](<https://umanyi.makueni.go.ke/storage/success_stories/68b949613618a_Success_Story.pdf>). The county buys only cloud hosting, SSL, bulk SMS and email hosting as services.
+**Systems built or run in-house.** No source found since November 2023 names three systems that government staff built, run or maintain. [Makueni's tracking system is one](<https://umanyi.makueni.go.ke/storage/success_stories/68b949613618a_Success_Story.pdf>). The county buys only cloud hosting, SSL, bulk SMS and email hosting as services.
 
 ***Also on file***. [Digital Literacy Programme Phase II](<https://techafricanews.com/2026/09/16/kenya-begins-digital-literacy-programme-phase-ii-device-rollout-in-nairobi/>); [Digital Superhighway](<https://www.pulse.co.ke/story/ag-opinion-clearing-sh15bn-digital-superhighway-tender-quashed-2026090416090271184>); [National ICT Broadband Backbone](<https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/>); [AfyaKE](<https://nation.africa/kenya/counties/muranga/afyake-system-shutdown-65-000-patient-records-at-centre-of-kang-ata-duale-showdown-5634726>).
 
-***Not found***. No source found since October 2023 names three systems run wholly by government staff.
+***Not found***. No source found since November 2023 names three systems that government staff built, run or maintain.

@@ -8,8 +8,8 @@
 
 **Built in-house.** [SONEMIC's teams also built mapping, document management, workflow and dashboard tools](<https://tchadinfos.com/2026/04/20/tchad-la-sonemic-devoile-son-nouveau-systeme-numerique/>), unveiled in April 2026 with the main system.
 
-**Systems run wholly in-house.** No source found since October 2023 names three systems run wholly by government staff. [SONEMIC's system is the one found](<https://tchadinfos.com/2026/04/20/tchad-la-sonemic-devoile-son-nouveau-systeme-numerique/>).
+**Systems built or run in-house.** [SONEMIC's own engineers designed its operations management system](<https://tchadinfos.com/2026/04/20/tchad-la-sonemic-devoile-son-nouveau-systeme-numerique/>), in use from April 2026. [The police e-Visa department runs evisa.td with its own IT unit](<https://visasnews.com/en/chad-e-visa-platform-continues-to-gain-momentum/>). [SONEMIC and ADETIC engineers design and build the Td-connect and E-Santé platforms](<https://tchadinfos.com/2026/11/17/education-et-sante-la-sonemic-offre-du-materiel-informatique/>), Tchadinfos reported in November 2026. None of these sources names a contractor.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 names three systems run wholly by government staff.
+***Not found***. Nothing further is asked of this indicator.

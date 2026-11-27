@@ -11,9 +11,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MWI-001;MWI-002",
-      "gaps": "No source found since October 2023 says a government body builds or runs systems for the rest of government.",
+      "gaps": "No source found since November 2023 says a government body builds or runs systems for the rest of government.",
       "note": "Government staff build or run systems of their own: the revenue authority is developing its tax system in-house (2026) and the election commission's ICT Directorate loads its register (2025). Nothing names a body running systems for the rest of government, so not 3.",
-      "as_at": "2026-11-04"
+      "as_at": "2026-11-27"
     }
   ]
 }

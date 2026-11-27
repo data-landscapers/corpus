@@ -8,8 +8,8 @@
 
 **Built in-house.** On 17 November 2025 the Namibia Revenue Agency [launched Onyofi, a customer service system its own developer built](<https://namibiabusinessreview.com/revenue-agency-launches-customer-service-system/>). It had 1,443 registered officials and 11 service points. [The Electoral Commission's voter registration system was upgraded through public procurement](<https://web.archive.org/web/20240615064053/https://omutumwa.com/2024/06/ecn-explains-slow-start-of-mobile-voter-registration-system/>) ahead of 2024 registration.
 
-**Systems run wholly in-house.** No source found since October 2023 names a system that government staff run with no contractor doing the work. [The financial management system is maintained with outside consultants](<https://cpbn.com.na/index/bid/78>).
+**Systems built or run in-house.** No source found since November 2023 names a system that government staff run with no contractor doing the work. [The financial management system is maintained with outside consultants](<https://cpbn.com.na/index/bid/78>).
 
 ***Also on file***. [X-Road / UXP interoperability solution](<https://ega.ee/project/governmental-interoperability-in-namibia/>); [Namibia Integrated Employment Information System (NIEIS)](<https://mol.gov.na/documents/53329/5009470/Develpoment+of+NIEIS.pdf/58f2b2c3-6e98-8208-9719-be6f46d550ee>); [Integrated Financial Management System (IFMS)](<https://cpbn.com.na/index/bid/78>).
 
-***Not found***. No source found since October 2023 says a government body builds or runs systems for the rest of government.
+***Not found***. No source found since November 2023 says a government body builds or runs systems for the rest of government.

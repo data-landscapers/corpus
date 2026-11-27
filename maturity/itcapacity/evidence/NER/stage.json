@@ -11,9 +11,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NER-002;NER-001",
-      "gaps": "Only one system, SIGEPAP-GNN, is named as built or run by government staff; no source names three or more. No source says who runs SIGEPAP-GNN after its handover.",
+      "gaps": "No source found since November 2023 names three systems that government staff built, run or maintain with no contractor named.",
       "note": "ANSI's technical teams built SIGEPAP-GNN for the National Guard and handed it over on 23 April 2025, which answers questions 1, 2 and 3. Under message 133 a system government staff built answers question 1. Only one such system is named, so 4.",
-      "as_at": "2026-11-16"
+      "as_at": "2026-11-27"
     }
   ]
 }

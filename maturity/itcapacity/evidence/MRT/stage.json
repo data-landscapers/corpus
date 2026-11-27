@@ -11,9 +11,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MRT-004;MRT-003;MRT-002",
-      "gaps": "No sources found since October 2023 name three systems run wholly by government staff.",
+      "gaps": "No source found since November 2023 names three systems that government staff built, run or maintain with no contractor named.",
       "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-      "as_at": "2026-11-10"
+      "as_at": "2026-11-27"
     }
   ]
 }

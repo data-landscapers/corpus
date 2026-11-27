@@ -13,7 +13,7 @@
       "stage_sources": "UGA-025;UGA-028;UGA-027;UGA-035;UGA-011;UGA-032",
       "gaps": "",
       "note": "Counted from the four questions by study-ladder-itcapacity.py. NITA-U built the UG Support service desk itself and launched it on 5 March 2026, which answers the built-in-house question; UGPass, ECCMIS and the national PKI are run by government staff.",
-      "as_at": "2026-11-11"
+      "as_at": "2026-11-27"
     }
   ]
 }

@@ -43,15 +43,30 @@ ZMB,028,added,"Rung 5 rewritten (Bill, 2026-10-26, message 31): one row per syst
 ZMB,029,added,"Rung 5 rewritten (Bill, 2026-10-26, message 31): one row per system that ZMB-013's source says government staff run, maintain or built, with no contractor doing the work."
 ZMB,030,added,"Rung 5 rewritten (Bill, 2026-10-26, message 31): one row per system that ZMB-018's source says government staff run, maintain or built, with no contractor doing the work."
 GMB,001,removed,"Rung 5 rewritten (Bill, 2026-10-26, message 31): a cadre is no longer asked; three systems run wholly by government staff are."
-GNQ,006,removed,"CNIAPGE 'established' the corruption-reporting platform; the hearing report does not say its own staff built it rather than a contractor (stage 4 asks for that)."
-GNQ,007,removed,"Maintaining a platform with no contractor named does not state that no contractor does the work (stage 5 asks for that)."
+GNQ,006,removed,CNIAPGE 'established' the corruption-reporting platform; the hearing report does not say its own staff built it rather than a contractor (stage 4 asks for that).
+GNQ,007,removed,Maintaining a platform with no contractor named does not state that no contractor does the work (stage 5 asks for that).
 BEN,007,removed,"a foreign national hired to direct ANIP because identity expertise is rare: says nothing of who runs its systems, so not outsourced (stage 4c 2026-11-08)"
 ETH,010,added,"Stage 4c 2026-11-08: one row per system run wholly by government staff; ETH-007's source says state-owned FaydaVerse, not a supplier, manages the national identity system."
-ETH,011,added,"Stage 4c 2026-11-08: one row per system run wholly by government staff; ETH-004's source says the election board's own team designed its registration applications entirely."
-ETH,012,added,"Stage 4c 2026-11-08: one row per system run wholly by government staff; ETH-006's source says INSA experts built the cyber drill platform entirely."
-CIV,018,added,"Stage 4c 2026-11-12: one row per system run wholly by government staff; CIV-016's source says the state company SNDI built it and names no contractor."
-CIV,019,added,"Stage 4c 2026-11-12: one row per system run wholly by government staff; CIV-016's source says the state company SNDI built it and names no contractor."
-CIV,020,added,"Stage 4c 2026-11-12: one row per system run wholly by government staff; CIV-016's source says the state company SNDI built it and names no contractor."
-CIV,021,added,"Stage 4c 2026-11-12: one row per system run wholly by government staff; CIV-016's source says the state company SNDI built it and names no contractor."
-MLI,016,added,"Stage 4c 2026-11-12: one row per system run wholly by government staff; MLI-015's source says the state agency Agetic developed the court case-management software and names no contractor."
-LBR,005,removed,"Built by agency employees in partnership with the Liberian firm Mwentana: not a system built by government staff rather than a contractor (stage 4 asks for that)."
+ETH,011,added,Stage 4c 2026-11-08: one row per system run wholly by government staff; ETH-004's source says the election board's own team designed its registration applications entirely.
+ETH,012,added,Stage 4c 2026-11-08: one row per system run wholly by government staff; ETH-006's source says INSA experts built the cyber drill platform entirely.
+CIV,018,added,Stage 4c 2026-11-12: one row per system run wholly by government staff; CIV-016's source says the state company SNDI built it and names no contractor.
+CIV,019,added,Stage 4c 2026-11-12: one row per system run wholly by government staff; CIV-016's source says the state company SNDI built it and names no contractor.
+CIV,020,added,Stage 4c 2026-11-12: one row per system run wholly by government staff; CIV-016's source says the state company SNDI built it and names no contractor.
+CIV,021,added,Stage 4c 2026-11-12: one row per system run wholly by government staff; CIV-016's source says the state company SNDI built it and names no contractor.
+MLI,016,added,Stage 4c 2026-11-12: one row per system run wholly by government staff; MLI-015's source says the state agency Agetic developed the court case-management software and names no contractor.
+LBR,005,removed,Built by agency employees in partnership with the Liberian firm Mwentana: not a system built by government staff rather than a contractor (stage 4 asks for that).
+BEN,015,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that BEN-001's source names as built, run or maintained by government staff, with no contractor named."
+BEN,016,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that BEN-005's source names as built, run or maintained by government staff, with no contractor named."
+BEN,017,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that BEN-008's source names as built, run or maintained by government staff, with no contractor named."
+BEN,018,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that BEN-012's source names as built, run or maintained by government staff, with no contractor named."
+NGA,027,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that NGA-001's source names as built, run or maintained by government staff, with no contractor named."
+NGA,028,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that NGA-004's source names as built, run or maintained by government staff, with no contractor named."
+NGA,029,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that NGA-025's source names as built, run or maintained by government staff, with no contractor named."
+NGA,030,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that NGA-013's source names as built, run or maintained by government staff, with no contractor named."
+ZAF,020,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that ZAF-016's source names as built, run or maintained by government staff, with no contractor named."
+ZAF,021,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that ZAF-013's source names as built, run or maintained by government staff, with no contractor named."
+ZAF,022,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that ZAF-014's source names as built, run or maintained by government staff, with no contractor named."
+TCD,008,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that TCD-003's source names as built, run or maintained by government staff, with no contractor named."
+TCD,009,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that TCD-005's source names as built, run or maintained by government staff, with no contractor named."
+TCD,010,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that TCD-006's source names as built, run or maintained by government staff, with no contractor named."
+TCD,011,added,"Rung 5 reworded (R185, 2026-11-27): one row per system that TCD-006's source names as built, run or maintained by government staff, with no contractor named."

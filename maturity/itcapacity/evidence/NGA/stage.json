@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "4",
+      "stage": "5",
       "inhouse": "yes",
       "agency": "operating",
       "built": "live",
-      "own": "",
+      "own": "entire",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-004;NGA-001;NGA-013",
-      "gaps": "No source found since October 2023 names three systems run wholly by government staff; the 1Gov cloud ECMS and the Government Service Portal are not shown free of an outside partner.",
-      "note": "Rebuild 2026-11-11: Galaxy Backbone built the Government Service Portal, soft-launched July 2026, and runs shared platforms for ministries; Anambra's state ICT agency runs SolutionLens. No three systems are shown run wholly in-house with no supplier, so not 5.",
-      "as_at": "2026-11-11"
+      "stage_sources": "NGA-029;NGA-027;NGA-030;NGA-026;NGA-022;NGA-025",
+      "gaps": "",
+      "note": "Galaxy Backbone runs the federal paperless approval platform and built the Government Service Portal, and Anambra's ICT agency built NORA and runs SolutionLens, none naming a contractor, so 5. KOICA, an aid agency, is not a contractor under the rung as reworded on 2026-11-27 (R185).",
+      "as_at": "2026-11-27"
     }
   ]
 }
