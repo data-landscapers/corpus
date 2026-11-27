@@ -225,7 +225,7 @@ Lesotho's revenue authority has used AI in customer service since 2025; no sourc
 The ICT ministry ran a government chatbot it was upgrading as DIVA in 2025; no source found reports AI in service in several bodies.
 
 - L'Express reports the ICT ministry is upgrading the existing government chatbot, whose new version keeps the name DIVA, and that Cabinet approved DIVA as the official chatbot for all ministries and departments, to roll out in phases starting with 15 ([source, 2025-12-08](https://lexpress.mu/node/552290)).
-- The Pay Research Bureau refers to an existing Government Chatbot, to be revamped into DIVA ([source, 2026](https://prb2026.govmu.org/downloads/volume1/digital.pdf)).
+- The Pay Research Bureau refers to an existing Government Chatbot, to be revamped into DIVA ([source, 2026](https://web.archive.org/web/20260103022043/https://prb2026.govmu.org/downloads/volume1/digital.pdf)).
 
 ### Mozambique: 3 Established
 

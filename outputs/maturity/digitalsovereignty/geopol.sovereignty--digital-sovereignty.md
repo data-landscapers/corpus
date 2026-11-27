@@ -232,7 +232,7 @@ Morocco hosts its social aid systems in a ministry data centre and plans a sover
 
 Mozambique consulted on a draft cloud regulation in 2025; no rule in force covers state data.
 
-- INTIC's draft Regulamento dos Servicos de Computacao em Nuvem, in public consultation from 2025-02-24 (day inferred from the consultation window, the document's published date), says in Art. 11(2) that classified information may be handled only in private clouds and must always stay in national territory unless the regulator expressly authorises otherwise ([source, 2025-02-24](https://intic.gov.mz/wp-content/uploads/2025/02/INTIC-Regulamento-dos-Provedores-de-Servic%CC%A7os-de-Computac%CC%A7a%CC%83o-em-Nuvem-23-12-2024-versa%CC%83o-consulta-pu%CC%81blica-1.pdf)).
+- INTIC's draft Regulamento dos Servicos de Computacao em Nuvem, in public consultation from 2025-02-24 (day inferred from the consultation window, the document's published date), says in Art. 11(2) that classified information may be handled only in private clouds and must always stay in national territory unless the regulator expressly authorises otherwise ([source, 2025-02-24](https://web.archive.org/web/20250331090445/https://intic.gov.mz/wp-content/uploads/2025/02/INTIC-Regulamento-dos-Provedores-de-Servic%CC%A7os-de-Computac%CC%A7a%CC%83o-em-Nuvem-23-12-2024-versa%CC%83o-consulta-pu%CC%81blica-1.pdf)).
 
 ### Namibia: 2 Nascent
 

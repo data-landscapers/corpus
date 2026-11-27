@@ -147,7 +147,7 @@ A digital channel for complaints about public services was under way in 2026; on
 
 A digital channel for complaints about public services was under way in 2026; one in service is not on record.
 
-- The Ethiopian Institution of the Ombudsman's home page offers a 'Submit Complaint' service to file administrative grievances online and track response status, with no count of complaints received through it ([source, 2026-10-17](http://ethombudsman.gov.et/)).
+- The Ethiopian Institution of the Ombudsman's home page offers a 'Submit Complaint' service to file administrative grievances online and track response status, with no count of complaints received through it ([source, 2026-10-17](https://web.archive.org/web/20260604073843/http://www.ethombudsman.gov.et/)).
 - Ethiopian Investment Holdings launched the online platform Adera in January 2026 for citizens to report complaints and corruption at the state-owned enterprises it manages, with mobile apps planned later; no case numbers are given ([source, 2026-01-01](https://birrmetrics.com/eih-introduces-online-platform-adera-to-rein-in-corruption-in-the-wake-of-leadership-overhaul/)).
 
 ### Gabon: 2 Nascent
