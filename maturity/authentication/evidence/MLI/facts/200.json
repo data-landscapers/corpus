@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-01-mli-semaine-du-numerique-2026-le-mali-adopte-une-feuille-de-route-ambitieu",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Participants in the Semaine du Numerique 2026 validated the progressive rollout of the first public services based on electronic signature, per Maliweb.",
+   "as_of": "2026-08-01",
+   "date_precision": "day",
+   "system": "electronic signature public services",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "electronic signature public services",
+   "country_label": "Mali",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

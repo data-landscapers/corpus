@@ -23,8 +23,8 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 | 5 Mature | 14 |
 | 4 Operating | 13 |
 | 3 Established | 10 |
-| 2 Nascent | 10 |
-| 1 Absent | 1 |
+| 2 Nascent | 11 |
+| 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 5 |
 
@@ -356,6 +356,12 @@ A digital signature rule and a key infrastructure were in place but unused in 20
 
 - The government told the World Bank's GovTech survey (2025) that a digital signature regulation and a PKI are in place but not yet used; the line gives no earlier year, so as_of is the survey round's 2025 ([source, 2025](https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset)).
 
+### Mali: 2 Nascent
+
+In August 2026 a rollout of the first electronic-signature public services was validated; no source found says any is in use.
+
+- Participants in the Semaine du Numerique 2026 validated the progressive rollout of the first public services based on electronic signature, per Maliweb ([source, 2026-08-01](https://www.maliweb.net/technologie/semaine-du-numerique-2026-le-mali-adopte-une-feuille-de-route-ambitieuse-pour-accelerer-sa-transformation-digitale-3118856.html)).
+
 ### Niger: 2 Nascent
 
 An authentication or e-signature service was under way in 2026; none in service is on record.
@@ -369,12 +375,6 @@ An authentication or e-signature service was under way in 2026; none in service 
 
 - India's Ministry of External Affairs says Ooru Digital is implementing a MOSIP-based National Digital Identity system and a National Citizen Portal for São Tomé and Príncipe, enabling access to public services through National ID-based login, and that the portal was launched on 27 March 2026 ([source, 2026-03-27](https://www.mea.gov.in/Portal/ForeignRelation/India-SaoTome26.pdf)).
 - The World Bank mission reports a contracted System Integrator (Ooru) building a digital ID with working prototypes of a Verifiable Credentials Infrastructure and an electronic Signature service, with e-signature planned for May 2026 ([source, 2025-09](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf)).
-
-### Mali: 1 Absent
-
-In 2025 the national ID had no digital authentication function; no source found says whether the 2026 online platforms check it.
-
-- DPI Map records that NINA has no digital authentication function and no authentication through a government portal ([source, 2025-06-17](https://dpimap.org/mali/)).
 
 ### Comoros: Unplaced
 
