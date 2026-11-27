@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 place: GHA
 ledger_rows: 95
 not_held: 9
-record: 1fe9998b3b5a
+record: 3fdbd3333df7
 ---
 
 # News, Oct – Nov 2026
@@ -392,7 +392,7 @@ The Ghana Health Service, supported by WHO, convened a national workshop to revi
 
 **[Ghana validates new Health Data and Health Records Strategy and Operational Guidelines to strengthen patient data protection and security](https://afro.who.int/countries/ghana/news/ghana-validates-new-health-data-and-health-records-strategy-and-operational-guidelines-strengthen)** — WHO Regional Office for Africa, 25 November 2026
 
-Replaces 2017 policy: patient record access, approval for secondary use, breach procedures; awaits GHS approval.
+Ghana Health Service validated the new strategy and guidelines on 24 November 2026. They replace the 2017 policy. They cover patient access to records, approval for secondary use of data and breach procedures. Management approval is still awaited.
 
 </div>
 
@@ -638,7 +638,7 @@ Ghana's communications minister Samuel Nartey George said phase one of the count
 
 **[Ghana's $250m AI centre to focus on practical applications, not rival US, China – Ato Forson](https://www.citinewsroom.com/2026/11/ghanas-250m-ai-centre-to-focus-on-practical-applications-not-rival-us-china-ato-forson/)** — Citi Newsroom, 13 November 2026
 
-Finance Minister: modest own AI system, health first; centre in US$300m 2027-28 budget line with rural 4G upgrade.
+The Finance Minister said the National AI Centre will not compete with China or the United States. It will build applications for local needs, starting with healthcare. The 2027 Budget set aside US$300 million for 2027 and 2028, shared with a rural 4G upgrade.
 
 </div>
 

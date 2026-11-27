@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 place: ZAF
 ledger_rows: 138
 not_held: 17
-record: bd02285f0928
+record: 8a668d7a9a0e
 ---
 
 # News, Oct – Nov 2026
@@ -866,7 +866,7 @@ Teraco opened a Digital Realty Innovation Lab at its JB3 data centre on the Isan
 
 **[Strive Masiyiwa's AI bet pays off as Cassava factory hits full capacity](https://www.businessday.co.za/companies/2026-11-23-strive-masiyiwas-ai-gamble-pays-off-as-cassava-factory-hits-full-capacity/)** — BusinessDay, 23 November 2026
 
-3MW, just over 2,000 GPUs fully used as of 2026-11-01; South African enterprise uptake slower than expected.
+Cassava's AI factory has been at full capacity since 1 November 2026. It is a 3-megawatt site with just over 2,000 GPUs. The company plans to install 12,000 Nvidia GPUs in total.
 
 </div>
 

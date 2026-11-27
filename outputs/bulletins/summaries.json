@@ -1934,6 +1934,11 @@
     "written": "2026-10-16",
     "summary": "President Bola Tinubu has approved a renewed National Strategy on Public Service Reforms, the director general of Nigeria's Bureau of Public Service Reforms, Dasuki Arabi, said in Abuja on 30 September 2026. The three-yearly revision will add government policies on AI and blockchain in the public service. No approval date or text was given."
   },
+  "2026-10-01-rwa-simplified-stakeholder-engagement-plan-sep-final": {
+    "published": "2026-10-01",
+    "written": "2026-11-27",
+    "summary": "The plan covers a World Bank project-preparation grant for AI in Rwanda. The grant moved to the new Rwanda AI Agency after a Cabinet decision on 8 June 2026. It funds GPU compute equipment, data assets and pilots of AI use cases."
+  },
   "2026-10-01-sdn-alghad-baladna-new-commercial-legal-services-investment": {
     "published": "2026-10-01",
     "written": "2026-10-16",
@@ -4949,6 +4954,11 @@
     "written": "2026-10-16",
     "summary": "Lagos State's special adviser on technology, Ganiyu Oseni, delivered Governor Babajide Sanwo-Olu's address to the 11th Nigeria Innovation Summit in Lagos on 6 October 2026, saying Nigeria should build AI rather than depend on computing done in Europe. The address cited US$3.9 billion of venture capital in five years, more than one million connections on the state's fibre network and a planned innovation bill."
   },
+  "2026-10-10-lbr-ministry-of-posts-and-telecommunications-establishes-national-ai-polic": {
+    "published": "2026-10-10",
+    "written": "2026-11-27",
+    "summary": "The ministry set up an 11-member committee on 18 September 2026. It has six months to draft Liberia's first National AI Policy, covering 2027 to 2032. The Minister chairs it, with Dr Darren Wilkins as technical lead."
+  },
   "2026-10-10-lby-lana-al-baour-fcc-meetings": {
     "published": "2026-10-10",
     "written": "2026-10-10",
@@ -5113,6 +5123,11 @@
     "published": "2026-10-10",
     "written": "2026-10-10",
     "summary": "Zimbabwe's ICT minister said the government is working to end fragmented digital systems across public bodies, and called for common standards so that citizens are not asked for the same information twice."
+  },
+  "2026-10-10-zwe-yamurai-learns-to-speak-like-us-econet-ai-launches-shona-2-0-claims-80": {
+    "published": "2026-10-10",
+    "written": "2026-11-27",
+    "summary": "Econet Ai released Shona 2.0, the model behind its Yamurai customer-support chatbot. The company says it now understands 80% of customer queries, up from just over 70%. The outlet notes it has not verified the claim. Training on further dialects is under way."
   },
   "2026-10-11-ago-deliberacao-sobre-processos-contravencionais": {
     "published": "2026-10-11",
@@ -10649,6 +10664,11 @@
     "written": "2026-10-31",
     "summary": "ITU Deputy Secretary-General Tomas Lamanauskas wrote on 30 October 2026 on who gains from AI investment, drawing on his World Investment Forum remarks. He cited World Bank figures giving Latin America and Africa 3.3% of data-centre capacity. He said ITU, UNCTAD and eight development banks had launched a Digital Infrastructure Investment Catalyser."
   },
+  "2026-10-30-ken-kw5-230m-the-third-generation-kiswahili-first": {
+    "published": "2026-10-30",
+    "written": "2026-11-27",
+    "summary": "The developer released a 230-million-parameter Kiswahili base model and assistant under the Apache 2.0 licence. Both are public on Hugging Face. The developer set fourteen benchmark targets before training and reports meeting seven."
+  },
   "2026-10-30-kenya-rolls-out-30-000-kilometres-of-fibre-infrastructure-since-2022": {
     "published": "2026-10-30",
     "written": "2026-10-31",
@@ -10979,6 +10999,16 @@
     "written": "2026-11-14",
     "summary": "Angola's higher education ministry lists 900 accredited university courses for 2026/27, of which 242, or 27%, are in science, technology, engineering and mathematics, Expansão reported in November 2026. Humanities, arts and social sciences account for 320 courses. Of 218,544 graduates between 2014 and 2024, 10% were in STEM fields."
   },
+  "2026-11-01-ben-asin-guide-du-rssi": {
+    "published": "2026-11-01",
+    "written": "2026-11-27",
+    "summary": "This 152-page guide for chief information security officers was written for Benin's digital agency. It covers the role's mandate, its place in an organisation, risk and reporting. It also sets out Benin's legal framework for cybersecurity."
+  },
+  "2026-11-01-ben-j-aime-ma-langue-batir-les-infrastructures-vocales-bilan-novembre-2026": {
+    "published": "2026-11-01",
+    "written": "2026-11-27",
+    "summary": "The progress report covers a project to build voice services in Benin's languages. Its executors report 700 hours of Fongbe speech from 2,507 contributors. Their speech recognition reaches a 13.7% word error rate. They list 19 voice-service prototypes."
+  },
   "2026-11-01-bruno-kone-digitalisation-agriculture": {
     "published": "2026-11-01",
     "written": "2026-11-04",
@@ -11068,6 +11098,11 @@
     "published": "2026-11-01",
     "written": "2026-11-05",
     "summary": "Internet Society Pulse lists one active internet exchange point in Guinea in November 2026, with 10 members. The country scores 39 out of 100 for resilience. The exchange serves one of the two cities with over 300,000 people."
+  },
+  "2026-11-01-lso-lesotho-pp-26-policy-statement": {
+    "published": "2026-11-01",
+    "written": "2026-11-27",
+    "summary": "Lesotho's minister told the ITU conference that the country adopted an AI policy in 2025 and a data policy in April 2026. A compute roadmap is in its first phase. She asked the Union to back shared regional compute and data infrastructure for small states."
   },
   "2026-11-01-mli-ixp-tracker-mali": {
     "published": "2026-11-01",
@@ -13774,6 +13809,11 @@
     "written": "2026-11-13",
     "summary": "Acting President Ndaba Gaolathe launched Statistics Botswana's 2026–2030 corporate strategic plan in Tlokweng, the Daily News reported on 11 November 2026. The plan has four pillars: statistical excellence and leadership, data use and impact, institutional resilience, and innovation. The Acting President tied it to monitoring the Botswana Economic Transformation Programme."
   },
+  "2026-11-11-caf-contribution-a-la-discussion-thematique-de-haut-niveau-technologies-em": {
+    "published": "2026-11-11",
+    "written": "2026-11-27",
+    "summary": "The minister spoke at the ITU conference in Doha on 11 November 2026. He called for pooled regional computing capacity and AI in African languages. He also asked the ITU to fund one expert from each least developed country in its AI standards groups."
+  },
   "2026-11-11-citinewsroom-ghana-infrastructure-resilience-itu-pp26": {
     "published": "2026-11-11",
     "written": "2026-11-13",
@@ -14648,6 +14688,11 @@
     "published": "2026-11-13",
     "written": "2026-11-15",
     "summary": "Gabon's Commissariat général au Plan presented a national monitoring-and-evaluation guide for policies, programmes and projects on 11 November 2026, prepared with UNDP. The guide is to run on SNISE, a module of the SIGIP public-investment management system. Field data would be collected digitally on tablets using KoboToolbox."
+  },
+  "2026-11-13-gha-ghana-s-250m-ai-centre-to-focus-on-practical-applications-not-rival-us": {
+    "published": "2026-11-13",
+    "written": "2026-11-27",
+    "summary": "The Finance Minister said the National AI Centre will not compete with China or the United States. It will build applications for local needs, starting with healthcare. The 2027 Budget set aside US$300 million for 2027 and 2028, shared with a rural 4G upgrade."
   },
   "2026-11-13-gin-maroc-telecom-relance-operateurs": {
     "published": "2026-11-13",
@@ -16929,6 +16974,11 @@
     "written": "2026-11-21",
     "summary": "Benin's digital minister Mahuna Akplogan said at the AfriLabs gathering in Cotonou on 18 November 2026 that Benin has deployed more than 250 e-services. He described a project for voice-based models so services work in Fon, Dendi, Bariba, Yoruba and English. About 34% of Beninese speak French. He said the state should be an early customer for local products."
   },
+  "2026-11-20-ben-benin-opens-up-its-j-aime-ma-langue-ai-project-with-1-000-hours-of-dat": {
+    "published": "2026-11-20",
+    "written": "2026-11-27",
+    "summary": "The minister announced on 18 November 2026 that the project is now open source. It has collected 1,000 hours of data in Fon, Dendi, Bariba and Yoruba. Developers and researchers are invited to extend these resources."
+  },
   "2026-11-20-bfa-lefaso-arcod-dix-membres-college-conseillers": {
     "published": "2026-11-20",
     "written": "2026-11-21",
@@ -17724,6 +17774,11 @@
     "written": "2026-11-24",
     "summary": "Former Statistician-General Pali Lehohla argued that national and city averages in the UN E-Government Survey 2026 hide differences between wards in South Africa. The survey was released on 19 November. He used Maluti-a-Phofung municipality as an example."
   },
+  "2026-11-23-zaf-strive-masiyiwa-s-ai-bet-pays-off-as-cassava-factory-hits-full-capacit": {
+    "published": "2026-11-23",
+    "written": "2026-11-27",
+    "summary": "Cassava's AI factory has been at full capacity since 1 November 2026. It is a 3-megawatt site with just over 2,000 GPUs. The company plans to install 12,000 Nvidia GPUs in total."
+  },
   "2026-11-23-zaf-vodacom-huawei-trial-golden-spectrum-band": {
     "published": "2026-11-23",
     "written": "2026-11-24",
@@ -18159,6 +18214,11 @@
     "written": "2026-11-26",
     "summary": "Egypt's Planning Minister, Ahmed Rostom, met AFD's Africa director, Sandra Kassab, in Paris on 25 November 2026. He proposed that the Digital Africa initiative of AFD and Proparco contribute to Egypt's startup and entrepreneurship financing fund. No amount or agreement was reported."
   },
+  "2026-11-25-egy-egypt-s-finance-and-ict-ministries-launch-ai-hackathon-to-engage-start": {
+    "published": "2026-11-25",
+    "written": "2026-11-27",
+    "summary": "The two ministries opened a hackathon on 25 November 2026. Startups have three weeks to build AI tools for tax, property valuation, financial analysis and social media. Winners receive cash prizes and may win contracts to implement their solutions."
+  },
   "2026-11-25-gab-dialogue-tiktok": {
     "published": "2026-11-25",
     "written": "2026-11-26",
@@ -18168,6 +18228,11 @@
     "published": "2026-11-25",
     "written": "2026-11-26",
     "summary": "Ghana's communications minister, Sam George, said a Cabinet directive requires every state institution to obtain technical certification from NITA before deploying a technology solution, as reported on 25 November 2026. The certification covers security, data protection and data-sovereignty compliance."
+  },
+  "2026-11-25-gha-ghana-validates-new-health-data-and-health-records-strategy-and-operat": {
+    "published": "2026-11-25",
+    "written": "2026-11-27",
+    "summary": "Ghana Health Service validated the new strategy and guidelines on 24 November 2026. They replace the 2017 policy. They cover patient access to records, approval for secondary use of data and breach procedures. Management approval is still awaited."
   },
   "2026-11-25-gha-momo-announces-revised-wallet-limits-in-compliance-with-bank-of-ghana": {
     "published": "2026-11-25",
@@ -18198,6 +18263,11 @@
     "published": "2026-11-25",
     "written": "2026-11-26",
     "summary": "AfricaNenda's chief executive, Robert Ochola, launched its SIIPS 2026 report in Mauritius in November 2026. He said Liberia delivered government-to-person payments in 72 days and person-to-person interoperability in 111 days. He cited Rwanda's person-to-person transactions rising from about 20.3 million to 134.1 million. The reporting periods differ in length, he noted."
+  },
+  "2026-11-25-mar-nexus-core-systems-annonce-le-debut-des-travaux-de-sa-plateforme-d-ia": {
+    "published": "2026-11-25",
+    "written": "2026-11-27",
+    "summary": "Construction began on an AI computing campus at Nouaceur on 25 November 2026. The first 20 MW are due in the third quarter of 2027, and 180 MW by 2028. The investment is 12 billion dirhams. In April the first phase was planned at 36 MW."
   },
   "2026-11-25-mli-digitalisation-de-letat-civil-la-commune-iv-en-tete-du-peloton-avec-60": {
     "published": "2026-11-25",

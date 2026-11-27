@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 place: EGY
 ledger_rows: 86
 not_held: 33
-record: 9b811ce5480e
+record: e14d394de364
 ---
 
 # News, Oct – Nov 2026
@@ -1408,7 +1408,7 @@ Egypt launched a Trade Tech Regulatory Sandbox and Innovation Hub on 18 November
 
 **[Egypt’s Finance and ICT Ministries Launch AI Hackathon to Engage Startups in Government Innovation](https://mof.gov.eg/en/media/learn-more/news-57)** — Ministry of Finance, Egypt, 25 November 2026
 
-Four finance-ministry challenges; three-week entry window via ITIDA; cash prizes and possible implementation contracts.
+The two ministries opened a hackathon on 25 November 2026. Startups have three weeks to build AI tools for tax, property valuation, financial analysis and social media. Winners receive cash prizes and may win contracts to implement their solutions.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: East Africa — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 place: XEA
 ledger_rows: 23
 not_held: 0
-record: 07393b9d22a0
+record: f158c8b402a6
 ---
 
 # News, Oct – Nov 2026
@@ -192,7 +192,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[KW5-230M: the third generation, Kiswahili first](https://www.regnant.io/dispatch/kw5-230m-the-third-generation-speaks-kiswahili-first)** — Regnant, 30 October 2026
 
-230M-parameter Kiswahili base and assistant under Apache 2.0; 7.90B tokens on a Kaggle TPU; 7 of 14 preset bars met.
+The developer released a 230-million-parameter Kiswahili base model and assistant under the Apache 2.0 licence. Both are public on Hugging Face. The developer set fourteen benchmark targets before training and reports meeting seven.
 
 </div>
 

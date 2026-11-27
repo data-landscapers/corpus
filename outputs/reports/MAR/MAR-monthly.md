@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 place: MAR
 ledger_rows: 49
 not_held: 13
-record: f84ed502c455
+record: 72f400bc7b47
 ---
 
 # News, Oct – Nov 2026
@@ -368,7 +368,7 @@ The UK firm FiveNines Group was appointed to lead design management and procurem
 
 **[Nexus Core Systems annonce le début des travaux de sa plateforme d'IA](https://telquel.ma/instant-t/2026/11/25/nexus-core-systems-annonce-le-debut-des-travaux-de-sa-plateforme-dia_2019760/)** — Telquel, 25 November 2026
 
-Construction begins at Nouaceur: 20 MW by Q3 2027, 180 MW by 2028, MAD 12bn, wind power via Taqa Morocco.
+Construction began on an AI computing campus at Nouaceur on 25 November 2026. The first 20 MW are due in the third quarter of 2027, and 180 MW by 2028. The investment is 12 billion dirhams. In April the first phase was planned at 36 MW.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 place: RWA
 ledger_rows: 42
 not_held: 7
-record: 1f5c25f99034
+record: d03c59a7f347
 ---
 
 # News, Oct – Nov 2026
@@ -580,7 +580,7 @@ The National Institute of Statistics of Rwanda built a model that assigns indust
 
 **[Simplified Stakeholder Engagement Plan (SEP) - Final](https://raia.rw/wp-content/uploads/2026/10/RAIA-SEP-October-2026.pdf)** — Rwanda AI Agency (RAIA), 1 October 2026
 
-World Bank GFPP grant moves to Rwanda AI Agency, approved by Cabinet 8 June 2026; GPU compute and agentic pilots funded.
+The plan covers a World Bank project-preparation grant for AI in Rwanda. The grant moved to the new Rwanda AI Agency after a Cabinet decision on 8 June 2026. It funds GPU compute equipment, data assets and pilots of AI use cases.
 
 </div>
 

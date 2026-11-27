@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 place: CAF
 ledger_rows: 18
 not_held: 5
-record: dd3dcb8d3ab5
+record: 6fc46fcb41b4
 ---
 
 # News, Oct – Nov 2026
@@ -294,7 +294,7 @@ The Central African Republic signed a five-year digital governance partnership w
 
 **[Contribution à la discussion thématique de haut niveau : Technologies émergentes](https://pp.itu.int/2026/wp-content/uploads/sites/3/2026/11/CENTRAL-AFRICAN-REPUBLIC_Roger-ANDJALANDJI-Technologies.pdf)** — Ministère de l’Économie numérique, des Postes et Télécommunications (République centrafricaine), 11 November 2026
 
-ITU PP-26, Doha, 11 Nov 2026; pooled regional compute, AI in Sango, one LDC expert per AI standards group.
+The minister spoke at the ITU conference in Doha on 11 November 2026. He called for pooled regional computing capacity and AI in African languages. He also asked the ITU to fund one expert from each least developed country in its AI standards groups.
 
 </div>
 

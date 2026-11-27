@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 place: LBR
 ledger_rows: 34
 not_held: 6
-record: 5a2017cb9132
+record: be7c8c950f7f
 ---
 
 # News, Oct – Nov 2026
@@ -522,7 +522,7 @@ The Ministry of Mines and Energy says its online mining licence and permit syste
 
 **[Ministry of Posts and Telecommunications Establishes National AI Policy Development Committee to Lead Liberia's AI Transformation](https://www.govserv.org/LR/Monrovia/611768712185175/Ministry-of-Posts-%26-Telecommunications%2C-Republic-of-Liberia)** — Republic of Liberia, Ministry of Posts and Telecommunications, 10 October 2026
 
-11-member committee set up 18 September 2026 to draft the National AI Policy 2027-2032 within six months.
+The ministry set up an 11-member committee on 18 September 2026. It has six months to draft Liberia's first National AI Policy, covering 2027 to 2032. The Minister chairs it, with Dr Darren Wilkins as technical lead.
 
 </div>
 

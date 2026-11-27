@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 place: ZWE
 ledger_rows: 51
 not_held: 5
-record: 3c5364c34173
+record: 8c2f2e58d866
 ---
 
 # News, Oct – Nov 2026
@@ -734,7 +734,7 @@ ITU's Bureau for Telecommunication Development director Cosmas Zavazava said ten
 
 **[Yamurai Learns To Speak Like Us - Econet Ai Launches Shona 2.0, Claims 80% Comprehension And A First For Africa](https://technomag.co.zw/yamurai-learns-to-speak-like-us-econet-ai-launches-shona-2-0-claims-80-comprehension-and-a-first-for-africa/)** — TechnoMag, 10 October 2026
 
-Econet claims 80% of queries handled in Shona, up from 70%+; six-dialect training under way, Ndebele 2.0 next.
+Econet Ai released Shona 2.0, the model behind its Yamurai customer-support chatbot. The company says it now understands 80% of customer queries, up from just over 70%. The outlet notes it has not verified the claim. Training on further dialects is under way.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 place: BEN
 ledger_rows: 52
 not_held: 4
-record: 7c4c59a91f31
+record: 015c79a05c19
 ---
 
 # News, Oct – Nov 2026
@@ -250,7 +250,7 @@ Benin's public-sector digital chiefs met in Cotonou on 8 October 2026 at a confe
 
 **[Guide du Responsable de la sécurité des systèmes d'information (RSSI) : Gouvernance, responsabilités et pilotage de la cybersécurité dans les organisations](https://www.asin.bj/doc/167/download)** — Agence des Systèmes d'Information et du Numérique (ASIN), Bénin, 1 November 2026
 
-ASIN's 152-page CISO guide: twenty parts on the RSSI's mandate, positioning, risk, reporting and Benin's legal frame.
+This 152-page guide for chief information security officers was written for Benin's digital agency. It covers the role's mandate, its place in an organisation, risk and reporting. It also sets out Benin's legal framework for cybersecurity.
 
 </div>
 
@@ -818,7 +818,7 @@ Benin's association of communes, ANCB, counted 35 software applications from 27 
 
 **[J'aime Ma Langue — Bâtir les infrastructures vocales (bilan, novembre 2026)](https://www.jaimemalangue.bj/papers/bilan-jml-2026.pdf)** — ASIN · IIDiA, 1 November 2026
 
-700 h of Fongbe speech, 2,507 contributors; ASR at 13.7% WER vs 50.9%; 19 voice-service prototypes.
+The progress report covers a project to build voice services in Benin's languages. Its executors report 700 hours of Fongbe speech from 2,507 contributors. Their speech recognition reaches a 13.7% word error rate. They list 19 voice-service prototypes.
 
 </div>
 
@@ -826,7 +826,7 @@ Benin's association of communes, ANCB, counted 35 software applications from 27 
 
 **[Benin opens up its "J'aime ma langue" AI project, with 1,000 hours of data in Fon, Dendi, Bariba and Yoruba](https://iconiqafrique.com/en/ia/benin-ia-jaime-ma-langue-open-source/)** — ICONIQ Afrique, 20 November 2026
 
-Minister Akplogan at AfriLabs, Cotonou, 18 Nov 2026; Fon, Dendi, Bariba and Yoruba data opened to developers.
+The minister announced on 18 November 2026 that the project is now open source. It has collected 1,000 hours of data in Fon, Dendi, Bariba and Yoruba. Developers and researchers are invited to extend these resources.
 
 </div>
 

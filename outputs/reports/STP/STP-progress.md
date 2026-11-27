@@ -1,12 +1,12 @@
 ---
 title: Sao Tome and Principe — progress report, November 2025 – November 2026
-compiled: 2026-11-23
-period: 2025-11-01 to 2026-11-23
+compiled: 2026-11-27
+period: 2025-11-01 to 2026-11-27
 place: STP
 ledger_rows: 182
 not_held: 5
 indicators: 115
-record: abf8dc889ee5
+record: 39e2d7c8eae3
 ---
 
 # Sao Tome and Principe: progress report, November 2025 – November 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-11-01 to 2026-11-23.*
+*The period is 2025-11-01 to 2026-11-27.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -59,7 +59,7 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Domestic budget appropriations and expenditure | Sustainable domestic financing of digital transformation | The state budget is published each year, most recently as [Lei n. 3/2026](https://cipstp.st/wp-content/uploads/2026/05/Lei-OGE-2026_23-marco-2026.pdf), and no digital-transformation appropriation line is identified in anything the repository holds. <details><summary>Full record</summary>The 2025 budget document, published by the finance ministry's budget directorate, covers the year's budget, technical explanations and the balance of 2024 execution ([budget](https://ministerio.financas.st/phocadownload/Orcamento/oge/A-2025/Aprovado/1%20-%20STP%20OGE%202025.pdf)), and the 2026 budget was enacted as a law gazetted in March 2026 ([law](https://cipstp.st/wp-content/uploads/2026/05/Lei-OGE-2026_23-marco-2026.pdf)).<br>A civil-society citizen's budget for 2026 summarises how the State plans to raise and spend public resources and links to the official text ([citizen's budget](https://cipstp.st/orcamento-cidadao-2026-app/)).<br>None of the three identifies an appropriation for digital transformation. Every system recorded in this unit is donor-financed, and the budget documents held do not show the domestic side of that ledger at all.</details> | No change |
+| Domestic budget appropriations and expenditure | Sustainable domestic financing of digital transformation | The state budget is published each year, most recently as [Lei n. 3/2026](https://cipstp.st/wp-content/uploads/2026/05/Lei-OGE-2026_23-marco-2026.pdf), and no digital-transformation appropriation line is identified in anything the repository holds. <details><summary>Full record</summary>The 2025 budget document, published by the finance ministry's budget directorate, covers the year's budget, technical explanations and the balance of 2024 execution ([budget](https://web.archive.org/web/20260516202057/https://ministerio.financas.st/phocadownload/Orcamento/oge/A-2025/Aprovado/1%20-%20STP%20OGE%202025.pdf)), and the 2026 budget was enacted as a law gazetted in March 2026 ([law](https://cipstp.st/wp-content/uploads/2026/05/Lei-OGE-2026_23-marco-2026.pdf)).<br>A civil-society citizen's budget for 2026 summarises how the State plans to raise and spend public resources and links to the official text ([citizen's budget](https://cipstp.st/orcamento-cidadao-2026-app/)).<br>None of the three identifies an appropriation for digital transformation. Every system recorded in this unit is donor-financed, and the budget documents held do not show the domestic side of that ledger at all.</details> | No change |
 | New investments | Mobilisation of non-state finance | The one instrument on record bringing non-state capital into infrastructure is the [2012 tender](https://arctel-cplp.org/wp-content/uploads/2022/01/Decreto-n.o-38-de-2012-concurso-publico-para-atribuicao-de-licenca-de-um-segundo-operador-de-telecomunicacoes.pdf) of a second telecommunications licence and the state's cable holding, settled through a [shared vehicle](https://documents1.worldbank.org/curated/en/234391468190440376/txt/ICR3141-P117652-Box391488B-OUO-9.txt). <details><summary>Full record</summary>The tender's stated object was both the award of a second licence to establish and operate a public telecommunications network and the cession, in whole or in part, of the State's holding in the cable company together with the corresponding capacity in the submarine cable ([decree](https://arctel-cplp.org/wp-content/uploads/2022/01/Decreto-n.o-38-de-2012-concurso-publico-para-atribuicao-de-licenca-de-um-segundo-operador-de-telecomunicacoes.pdf)).<br>The completion report records that government and operator contributions were made into the vehicle as a long-term shareholder loan, enabling national access to cable capacity ([report](https://documents1.worldbank.org/curated/en/234391468190440376/txt/ICR3141-P117652-Box391488B-OUO-9.txt)).<br>Nothing since brings private capital into a digital asset on this record. The citizenship-fund contract reported in October 2025 names a ten-billion-dollar ambition and no counterparty document was located ([contract](https://saotomeprincipe.de/2025/10/13/ki-investitionen-in-sao-tome-e-principe/)).</details> | No change |
 
 

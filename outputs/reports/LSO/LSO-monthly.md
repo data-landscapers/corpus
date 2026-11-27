@@ -1,11 +1,11 @@
 ---
 title: Lesotho — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 place: LSO
 ledger_rows: 15
 not_held: 4
-record: 8c83460d5b97
+record: f8d37d38a3ef
 ---
 
 # News, Oct – Nov 2026
@@ -72,7 +72,7 @@ The Eswatini Communications Commission and the Lesotho Communications Authority 
 
 **[Lesotho - PP-26 policy statement](https://pp.itu.int/2026/en/itu_policy_statements/lesotho-2/)** — ITU Plenipotentiary Conference 2026, Ministry of Information, Communications, Science, Technology and Innovation, 1 November 2026
 
-Minister Moorosi: AI policy 2025, data policy April 2026, compute roadmap Phase One under way; three asks of PP-26.
+Lesotho's minister told the ITU conference that the country adopted an AI policy in 2025 and a data policy in April 2026. A compute roadmap is in its first phase. She asked the Union to back shared regional compute and data infrastructure for small states.
 
 </div>
 
