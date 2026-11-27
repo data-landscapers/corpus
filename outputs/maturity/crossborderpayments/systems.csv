@@ -47,6 +47,7 @@ BWA,PAPSS,Botswana,other,,Afreximbank,,2026-11-16-bwa-bob-moseki-afreximbank-com
 BWA,SADC-RTGS,Botswana,other,,SADC,,2026-11-16-bwa-bob-moseki-afreximbank-compliance-forum-remarks
 BWA,CIPS direct access,Stanbic Bank Botswana CIPS access,crossborder,CIPS,Stanbic Bank Botswana,,2026-11-18-rmb-cross-border-transactions-system-launched-in-botswana
 BWA,SADC-RTGS,Botswana,crossborder,,South African Reserve Bank for SADC central banks,,2026-11-19-nam-namibian-banks-handle-25-of-sadc-payments
+BWA,Mukuru Wallet,Botswana,other,Mukuru,Mukuru,,2026-11-26-bwa-mukuru-partners-paypal-to-enable-direct-withdrawals-to-wallets-in-botswana
 CAF,PAPSS,Central African Republic,crossborder,,Afreximbank,,2026-07-08-beac-joins-papss
 CAF,Tranglo,Central African Republic,crossborder,Tranglo payment hub,Tranglo,,2025-07-01-tcd-tranglo-grows-footprint-in-africa-with-5-new-countries
 CIV,SimoCash,Cote d'Ivoire,crossborder,"mobile app (Android, iOS)",SimoCash,,2026-07-29-avec-simocash-l-ivoirien-wilfried-kouame-interconnecte-les-reseaux-d-argent-mobile
@@ -126,6 +127,7 @@ ETH,M-Pesa Global,Ethiopia,crossborder,mobile money,Safaricom Ethiopia,,2024-10-
 ETH,telebirr Remit / Visa Direct,telebirr,crossborder,,Ethio telecom,,2024-08-19-eth-ethio-telecom-in-collaboration-with-visa-inc-has-launched-the-first-wa
 ETH,M-PESA,Ethiopia,crossborder,Onafriq network,Safaricom Ethiopia,,2024-03-19-eth-m-pesa-onafriq-partner-to-send-remittances-to-ethiopia
 ETH,EthSwitch,Ethiopia,other,,,,2026-11-06-dpi-map-2026-11-12
+ETH,PAPSS,Ethiopia,crossborder,,Afreximbank,,2026-11-26-xaf-afreximbank-pushes-african-banks-to-integrate
 GAB,GIMAC,CEMAC,crossborder,,,,2026-07-30-ga-moov-gabon-premier-emetteur-paiements-cemac
 GAB,GIMACPAY,Gabon,crossborder,QR code,,,2026-10-12-gab-biometricupdate-gabon-digital-payment-bill-beac-interoperability
 GAB,CLIKPAY,Gabon,crossborder,,,,2026-05-08-uncdf-clikpay-gabon-fintech-capital
@@ -185,6 +187,7 @@ KEN,HoneyCoin,HoneyCoin,crossborder,stablecoin settlement rails,HoneyCoin (priva
 KEN,PesaLink,Kenya,crossborder,,,,2026-11-06-dpi-map-2026-11-12
 KEN,MPesa,Kenya,crossborder,,Safaricom,,2026-11-06-dpi-map-2026-11-12
 KEN,PAPSS,Kenya,other,Pan-African Payment and Settlement System,Afreximbank/PAPSS,,2026-11-12-papss-bets-on-local-currencies-to-unlock-kenyas-africa-trade
+KEN,Cloud9 / Monix Pay,Kenya,other,digital bank with Canadian MSB subsidiary,Cloud9,,2026-11-25-ken-cloud9-acquires-canadian-fintech-monix-pay-to-expand-cross-border-paym
 LBR,PAPSS,PAPSS,crossborder,Afreximbank,Afreximbank,,2025-04-02-cbl-eg-saamoi-remarks-papss-rollout-financial-education-launch
 LBR,Orange Money,Orange Money Liberia,other,,Orange Liberia,,2026-06-10-lbr-bnb-liberia-and-orange-money-launch-cross-border-mobile-remittance-ser
 LBR,Lonestar Cell MTN MoMo,Liberia,other,,Lonestar Cell MTN,,2024-08-05-lbr-new-partnership-aims-to-boost-liberia-s-mobile-money-transfer-services
@@ -246,6 +249,7 @@ MUS,UPI-RuPay partnership,Mauritius-India,crossborder,UPI / RuPay,Bank of Maurit
 MUS,COMESA Digital Retail Payment Platform,Mauritius,crossborder,,COMESA,,2025-03-01-comesa-eu-partnership-shaping-a-digital-future
 MUS,blink by Emtel,Mauritius,crossborder,PSP app,Emtel,,2026-09-17-mus-platformafrica-pulse-of-fintech-2026-collaboration
 MUS,MauCAS (Mauritius Central Automated Swtich),Mauritius,other,,,,2026-11-06-dpi-map-2026-11-12
+MUS,Korridor,Mauritius,other,fleet en-route payments,Korridor (majority owner Apis Partners),,2026-11-23-mus-korridor-gets-investment-from-private-equity-firm-apis
 MWI,Digital Retail Payments Platform,Malawi,crossborder,COMESA DRPP,COMESA,"banks, fintechs, mobile-money operators","2025-10-13 Comesa payment system connects Malawi, Zambia"
 MWI,COMESA Digital Retail Payment Platform,Malawi,crossborder,,COMESA,,2025-03-01-comesa-eu-partnership-shaping-a-digital-future
 MWI,Malawi Police electronic traffic fine payment,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
