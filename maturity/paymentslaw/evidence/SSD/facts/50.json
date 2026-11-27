@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-24-ssd-central-bank-launches-electronic-payment-system-to-replace-manual-cheq",
+ "facts": [],
+ "systems": [
+  {
+   "system": "South Sudan Interbank Payment and Settlement System (SSIPSS)",
+   "country_label": "SSIPSS",
+   "class": "other",
+   "platform": "RTGS and ACH linked to IFMIS",
+   "owner": "Bank of South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes a payment system launch, not a payments law or e-money rules."
+}
