@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-01-gin-ecofin-guinea-launches-work-national-ai-strategy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Ecofin Agency reports that Guinea's digital-economy ministry (MPTEN) met its sectoral Strategic Development Bureaus to start drafting a national AI strategy, following an October 2025 UNDP-supported assessment.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

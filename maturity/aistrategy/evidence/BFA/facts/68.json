@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-07-bfa-lintelligence-artificielle-au-burkina-faso-mise-a-jour-2026",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "A national workshop convened by SP-IVTEN in Ouagadougou on 17 June 2026 validated the national AI roadmap 2026-2030, with six work areas, per TIC Magazine BF; no cabinet approval is stated.",
+   "as_of": "2026-06-17",
+   "date_precision": "day",
+   "system": "National AI roadmap 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

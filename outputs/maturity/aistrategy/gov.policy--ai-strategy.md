@@ -183,7 +183,7 @@ The Republic of the Congo began drafting a national AI strategy at a workshop in
 
 ### Cote d'Ivoire: 2 Nascent
 
-Cote d'Ivoire's AI strategy went to the Prime Minister for adoption in March 2025; no adoption has been found since.
+Cote d'Ivoire's AI strategy went to the Prime Minister in March 2025 and officials call it adopted; no adopting act has been found.
 
 - AIP reports that Futur Africa is supporting the digital-transition ministry in drafting Cote d'Ivoire's national artificial intelligence strategy 2026-2030 ([source, 2026-11-24](https://www.aip.ci/cote-divoire-aip-les-senateurs-formes-aux-enjeux-et-aux-applications-de-lintelligence-artificielle-a-yamoussoukro/)).
 - Digital Transition Minister Ibrahim Kalil Konaté handed the National AI Strategy to the Prime Minister on 13 March 2025, to be submitted to government for adoption and inclusion in the 2026-2030 National Development Plan ([source, 2025-03-13](https://www.digitalbusiness.africa/cote-divoire-les-axes-de-la-strategie-nationale-de-l-ia-et-de-la-strategie-nationale-de-la-gouvernance-des-donnees/)).

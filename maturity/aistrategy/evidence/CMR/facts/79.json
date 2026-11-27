@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-23-cmr-at-close-of-conia-2025-stakeholders-adopt-inclusive-sovereign-national",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Guardian Post reports that the 2nd National Consultations on Artificial Intelligence (CONIA 2025, Yaounde, 7-8 July 2025, under MINPOSTEL) ended with stakeholders adopting a national AI strategy, with no cabinet approval or government validation stated.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy",
+   "country_label": "Cameroon",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Posts and Telecommunications (MINPOSTEL)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

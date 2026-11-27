@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-05-zwe-zimbabwe-ai-strategy-implementation-tracker",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Techbytes Africa states that Zimbabwe's National Artificial Intelligence Strategy 2026-2030 was approved by cabinet in October 2025 and launched by President Mnangagwa at Parliament in March 2026.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy 2026-2030",
+   "country_label": "Zimbabwe",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Information Communication Technology, Postal and Courier Services",
+   "tiers": ""
+  }
+ ],
+ "note": "The National AI Council and Implementation Office are scored only 'announced', so no body is recorded; no funding is stated."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-16-zwe-new-governance-structure-to-drive-national-ai-adoption",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "TechnoMag reports the AI Strategy Implementation Office within the lead ICT ministry, with specialised units, is named to drive the flagship initiatives and monitoring of the National AI Strategy 2026-2030.",
+   "as_of": "2026-03-16",
+   "date_precision": "day",
+   "system": "AI Strategy Implementation Office (AISIO)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": "Strategy described as newly launched by the minister; no cabinet approval stated, so no standing fact. The Mugove/Umgele fund is named with no amount."
+}

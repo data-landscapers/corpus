@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-04-cod-rdc-s-e-augustin-kibassa-lance-la-politique-sectorielle-de-l-economie",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The minister of the digital economy, Augustin Kibassa Maliba, says the National AI Strategy (SNIA, horizon 2030) was presented and validated by the government at a ceremony in Kinshasa, and will go to the Council of Ministers in the coming days for adoption.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Stratégie nationale de l'intelligence artificielle (SNIA)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie nationale de l'intelligence artificielle (SNIA)",
+   "country_label": "RDC",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministère de l'Économie numérique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
