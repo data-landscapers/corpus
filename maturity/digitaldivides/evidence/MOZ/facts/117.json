@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-11-moz-chapo-launches-prospera-to-strengthen-households-productive-capacity",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PROSPERA",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "agricultural advisory service (Olá Produtor, AI-backed)",
+   "owner": "Government of Mozambique",
+   "tiers": ""
+  }
+ ],
+ "note": "Agricultural advisory and seed-tracking project; no rural internet access programme or rural-urban use figures stated."
+}

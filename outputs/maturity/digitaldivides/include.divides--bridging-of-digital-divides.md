@@ -71,7 +71,7 @@ Over 400 rural white-zone localities were connected in 2025; rural and urban int
 
 ### Cameroon: 3 Established
 
-Forty rural sites were connected under a World Bank-backed programme by November 2026; internet use in rural and urban areas is not known.
+Sixty-seven rural sites were in service under a World Bank-backed programme by November 2026; internet use in rural and urban areas is not known.
 
 - Orange Cameroon says 40 of 120 white-zone sites under the government-led, World Bank-supported PATNUC project had been commissioned by 13 November 2026, with all 120 due by March 2027 ([source, 2026-11-13](https://techreviewafrica.com/news/8365/orange-cameroon-commissions-rural-connectivity-sites-in-campo-beach-under-patnuc-project)).
 - Cameroon Tribune reports that the posts and telecoms minister assessed the connectivity infrastructure installed at Campo Beach, under the PATNUC rural connectivity programme planned for 362 under-served localities, with nine such infrastructures in the Ocean department ([source, 2026-11-13](https://www.cameroon-tribune.cm/articles/12210/fr/acces-aux-services-numeriques-au-tour-de-campo-beach)).
