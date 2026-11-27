@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-15-tun-conseil-ministeriel",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The ministerial council listed among first-half 2026 achievements the generalisation of the electronic fiscal stamp.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Timbre fiscal électronique",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Timbre fiscal électronique",
+   "country_label": "Tunisia",
+   "class": "revenue",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
