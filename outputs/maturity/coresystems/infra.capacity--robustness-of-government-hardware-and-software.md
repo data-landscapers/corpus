@@ -247,7 +247,7 @@ The government budgets and pays through a computer system by 2025; no source fou
 
 The government pays through a computer system by 2025; no source found says whether tax and payroll do too.
 
-- The Ministry of Finance says Tanzania has integrated the CS-Meridian debt system with MUSE, the Government Payment System, and Kenyan officials were trained on the operating integration ([source, 2025-02-27](https://thebizlens.co.tz/2025/02/27/tanzania-leads-africa-in-debt-management-payment-systems-integration/)).
+- The Ministry of Finance says Tanzania has integrated the CS-Meridian debt system with MUSE, the Government Payment System, and Kenyan officials were trained on the operating integration ([source, 2025-02-27](https://web.archive.org/web/20250311233007/https://thebizlens.co.tz/2025/02/27/tanzania-leads-africa-in-debt-management-payment-systems-integration/)).
 
 ### Togo: 2 Nascent
 

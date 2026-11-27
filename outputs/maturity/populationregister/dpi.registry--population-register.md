@@ -53,7 +53,7 @@ The national register of persons was in service in 2026, fed from the digitised 
 
 Other systems drew on the population register in 2026.
 
-- The State Department for Immigration and Citizen Services says public and private entities with a signed MOU access the register for identity verification, at a Ksh. 20 fee per hit ([source, 2026-08-30](https://usajili.go.ke/integrated-population-registration-service)).
+- The State Department for Immigration and Citizen Services says public and private entities with a signed MOU access the register for identity verification, at a Ksh. 20 fee per hit ([source, 2026-08-30](https://web.archive.org/web/20260510014831/https://usajili.go.ke/integrated-population-registration-service)).
 
 ### Namibia: 5 Mature
 

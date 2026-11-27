@@ -133,7 +133,7 @@ A data centre ran on dedicated power lines from the substation in 2025; power se
 
 Power cuts and diesel shortages disrupted data centres in October 2026; the solar farm for the national data centre is not yet built.
 
-- ARPCE's 27 October 2026 communiqué says nationwide power cuts and scarce diesel strongly disrupt technical sites, core networks and data centres in Congo ([source, 2026-10-27](https://www.adiac-congo.com/content/crise-du-carburant-les-reseaux-telecoms-bout-de-souffle-172163)).
+- ARPCE's 27 October 2026 communiqué says nationwide power cuts and scarce diesel strongly disrupt technical sites, core networks and data centres in Congo ([source, 2026-10-27](https://web.archive.org/web/20261027150801/https://www.adiac-congo.com/content/crise-du-carburant-les-reseaux-telecoms-bout-de-souffle-172163)).
 
 ### Morocco: Unplaced
 
