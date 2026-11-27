@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TUN-001;TUN-002",
-      "gaps": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
+      "gaps": "No source found shows statistics from three administrative sources, each published twice in the last three years.",
       "note": "The enterprise register statistics of June 2025 and the social protection bulletin of September 2025 both publish figures from social security records. No other source is shown twice, so 4.",
       "as_at": "2026-11-27"
     }

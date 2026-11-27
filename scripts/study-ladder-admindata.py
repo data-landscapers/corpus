@@ -5,8 +5,8 @@ r"""study-ladder-admindata.py — the admindata study's four questions, counted.
     python scripts/study-ladder-admindata.py --as-at 2026-09-30 --dry
 
 `maturity/documentation/maturity-study-method.md` §7, as `study-ladder-censuses.py` does it.
-The ladder is `maturity-study-admindata.md` §2 and §3 as changed on 2026-10-19 *(Bill)*, every
-window three years:
+The ladder is `maturity-study-admindata.md` §2 and §3 as changed on 2026-10-19 *(Bill)*, with
+Bill's rulings 159-161 of 2026-11-27, every window a rolling three years back from the as-at:
 
 1. **Preparing**: a `use` of `preparing`, or a yes to any later question.
 2. **Published**: a `use` of `published`, or any `source` or `series` row.
@@ -14,15 +14,18 @@ window three years:
 4. **Mature**: three administrative sources, each published twice.
 
 **A publication is a `source` row's product**, `system` read as its set of words, so one report
-named two ways or carried by two rows counts once. A `series` row, a dated statement that a
-product is published regularly, counts as two for each source it names. A `use` of `published`
+named two ways or carried by two rows counts once, and two different products from one source
+count as two *(ruling 160)*. A `series` row, a dated statement that a product is published
+regularly, counts as two for each source it names *(ruling 159)*. A `use` of `published`
 names no source; its product, `system` without its years, counts towards question 3 only.
 
 **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later
 yes no longer answers the earlier ones, and a cell takes the last rung its evidence reaches
 without a gap. A publication still answers question 1, and a source published twice question 2:
 each is a higher value of the same thing. Stage 1 is a `use` of `none` with no
-other yes. A fact dated after the as-at sets nothing. A year or a month stands for its last day.
+other yes. A fact dated after the as-at sets nothing. A year or a month counts inside the window
+only where it opens on or after the window's first day *(ruling 161)*: `2023-11` shows nothing at
+an as-at of 2026-11-27. Cells staged by hand are kept by `study_lib.write_stage`.
 
 `corrections.csv`, where the parent's reading removed or revalued a row, is applied to
 `evidence.csv` first, once. Writes each `stage.json` and `ladder-test.csv`.
@@ -46,9 +49,9 @@ SOURCES = ["civil-registration", "education", "health", "customs", "tax", "socia
            "police", "transport", "other"]   # study.json -> aspects, source
 GAPS = {
     "5": "",
-    "4": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
-    "3": "No source found shows statistics from one administrative source published twice since October 2023.",
-    "2": "No source found reports statistics from administrative records published since October 2023.",
+    "4": "No source found shows statistics from three administrative sources, each published twice in the last three years.",
+    "3": "No source found shows statistics from one administrative source published twice in the last three years.",
+    "2": "No source found reports statistics from administrative records published in the last three years.",
     "1": "",
 }
 YEAR = re.compile(r"(?<!\d)((?:19|20)\d{2})(?!\d)")
@@ -61,6 +64,11 @@ def last_day(as_of: str) -> dt.date:
     if len(p) == 2:
         return dt.date(p[0], p[1], calendar.monthrange(p[0], p[1])[1])
     return dt.date(*p)
+
+
+def first_day(as_of: str) -> dt.date:
+    p = [int(x) for x in as_of.split("-")]
+    return dt.date(p[0], p[1] if len(p) > 1 else 1, p[2] if len(p) > 2 else 1)
 
 
 def correct(rows: list[dict], fixes: list[dict]) -> tuple[list[dict], int]:
@@ -85,7 +93,7 @@ def words(r: dict, years: bool = True) -> frozenset:
 
 def stage(rows: list[dict], as_at: dt.date) -> dict:
     three = study_lib.months_back(as_at, 36)
-    live = [(last_day(r["as_of"]), r) for r in rows if r.get("as_of") and three <= last_day(r["as_of"]) <= as_at]
+    live = [(last_day(r["as_of"]), r) for r in rows if r.get("as_of") and three <= first_day(r["as_of"]) and last_day(r["as_of"]) <= as_at]
     live.sort(key=lambda p: p[0], reverse=True)
     pick = lambda aspect, values: [  # noqa: E731
         r["row_id"] for d, r in live if r["aspect"] == aspect and r["value"] in values]
@@ -126,7 +134,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     else:
         return {"stage": "unplaced", "sources": [], "source": "", "series": "",
                 "gaps": "No statistics from administrative records published, and no work towards them, "
-                        "is on record since October 2023."}
+                        "is on record in the last three years."}
     return {"stage": s, "sources": list(dict.fromkeys(src)), "gaps": GAPS[s],
             "source": ";".join(order(k for k in pubs if isinstance(k, str))),
             "series": ";".join(order(series))}
@@ -158,7 +166,7 @@ def main(argv=None) -> int:
                 "use": "published" if s in ("3", "4", "5") else "preparing" if s == "2" else "none" if s == "1" else "",
                 "source": cell["source"], "series": cell["series"], "cap": "", "flags": "",
                 "stage_sources": ";".join(cell["sources"]), "gaps": cell["gaps"],
-                "note": "Counted from the four questions by study-ladder-admindata.py, on the ladder of 2026-10-19."}
+                "note": "Counted from the four questions by study-ladder-admindata.py, on the ladder of 2026-10-19 with rulings 159-161."}
         test.append({"iso3": iso, **{k: line[k] for k in ("stage", "use", "source", "series", "stage_sources")}})
         if a.dry:
             continue

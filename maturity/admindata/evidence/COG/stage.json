@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "COG-004",
-      "gaps": "No source found reports statistics from administrative records published since October 2023.",
-      "note": "Agencies agreed in November 2025 to share their databases for trade statistics, which is work under way. Nothing published since October 2023 is held, so not 3.",
+      "gaps": "No source found reports statistics from administrative records published in the last three years.",
+      "note": "Agencies agreed in November 2025 to share their databases for trade statistics, which is work under way. Nothing published in the last three years is held, so not 3.",
       "as_at": "2026-11-27"
     }
   ]

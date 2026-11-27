@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TGO-001;TGO-005",
-      "gaps": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
+      "gaps": "No source found shows statistics from three administrative sources, each published twice in the last three years.",
       "note": "The justice ministry's 2022 yearbook of December 2023 and INSEED's 2024 national yearbook both publish figures from justice records: one source shown twice. No other source is shown twice, so 4.",
       "as_at": "2026-11-27"
     }

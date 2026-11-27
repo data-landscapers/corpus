@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "admin",
-      "stage": "4",
+      "stage": "3",
       "use": "published",
       "source": "civil-registration",
-      "series": "civil-registration",
+      "series": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BWA-001;BWA-004",
-      "gaps": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
-      "note": "The yearbook of November 2023 and the vital statistics report of August 2026 both publish civil registration figures: one source shown twice. No other source is shown, so 4.",
+      "stage_sources": "BWA-001",
+      "gaps": "No source found shows statistics from one administrative source published twice in the last three years.",
+      "note": "The Vital Statistics Report 2024, of August 2026, is drawn from civil registration and sets stage 3. The yearbook's preface of November 2023, with figures for 2020, is not shown inside the three years back from 27 November 2026, so no source is shown twice and not 4.",
       "as_at": "2026-11-27"
     }
   ]

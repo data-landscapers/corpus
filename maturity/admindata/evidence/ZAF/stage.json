@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "admin",
-      "stage": "3",
+      "stage": "4",
       "use": "published",
       "source": "police",
-      "series": "",
+      "series": "police",
       "cap": "",
       "flags": "",
       "stage_sources": "ZAF-001",
-      "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
-      "note": "A December 2025 reply states that SAPS compiles quarterly crime statistics from its case records and releases them, which shows one current edition and sets stage 3. No edition is named or dated, so none is shown twice and not 4.",
+      "gaps": "No source found shows statistics from three administrative sources, each published twice in the last three years.",
+      "note": "A December 2025 reply states that SAPS compiles quarterly crime statistics from its case records and releases them, which shows one current edition of a stated series and counts as two. No other source is held, so 4.",
       "as_at": "2026-11-27"
     }
   ]

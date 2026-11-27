@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "COM-005",
-      "gaps": "No source found reports statistics from administrative records published since October 2023.",
-      "note": "A June 2024 report records a mission on trade statistics from customs records and a health yearbook still to be drafted, which is work under way. The quarterly health bulletins are dated only to 2023 and no edition is shown since October 2023, so not 3.",
+      "gaps": "No source found reports statistics from administrative records published in the last three years.",
+      "note": "A June 2024 report records a mission on trade statistics from customs records and a health yearbook still to be drafted, which is work under way. The quarterly health bulletins are called a series, but none is dated in the last three years, so no edition is counted and not 3.",
       "as_at": "2026-11-27"
     }
   ]

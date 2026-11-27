@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "admin",
-      "stage": "3",
+      "stage": "4",
       "use": "published",
       "source": "health",
-      "series": "",
+      "series": "health",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-001",
-      "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
-      "note": "The health yearbook for 2024, of April 2025, is drawn from facility reports and sets stage 3. It says it follows earlier editions but names none, so only one edition is shown and not 4.",
+      "stage_sources": "BFA-001;BFA-002",
+      "gaps": "No source found shows statistics from three administrative sources, each published twice in the last three years.",
+      "note": "The health yearbook for 2024, of April 2025, is drawn from facility reports and says it follows earlier editions in an annual series: one edition dated in a stated series counts as two. No other source is held, so 4.",
       "as_at": "2026-11-27"
     }
   ]

@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SSD-002",
-      "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
-      "note": "The inaugural Health Statistics Abstract of 2025, drawn on routine facility data, sets stage 3. The education census report carries a proxy date of 2023 and shows no publication since October 2023, so not 4.",
+      "gaps": "No source found shows statistics from one administrative source published twice in the last three years.",
+      "note": "The inaugural Health Statistics Abstract of 2025, drawn on routine facility data, sets stage 3. The education census report carries a proxy date of 2023 and shows no publication in the last three years, so not 4.",
       "as_at": "2026-11-27"
     }
   ]

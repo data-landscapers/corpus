@@ -5,13 +5,13 @@
       "sub_indicator": "admin",
       "stage": "3",
       "use": "published",
-      "source": "education",
+      "source": "",
       "series": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-001",
-      "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
-      "note": "The education abstract of October 2023, from EMIS records, sets stage 3. No second edition from one source is shown, so not 4.",
+      "stage_sources": "ETH-002",
+      "gaps": "No source found shows statistics from one administrative source published twice in the last three years.",
+      "note": "The statistics service's 2015 E.C. abstract, released in February 2025 and drawn in part from administrative records, sets stage 3. The education abstract of October 2023 falls before the three-year window, and no source is shown twice, so not 4.",
       "as_at": "2026-11-27"
     }
   ]

@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-admindata.md — official statistics drawn from administrative records, in four questions
 last_reviewed: 2026-11-27
-status: run 2026-10-15; ladder changed and rebuilt 2026-10-19; stage 4's editions rewritten 2026-11-27
+status: run 2026-10-15; ladder changed and rebuilt 2026-10-19; stage 4's editions rewritten 2026-11-27; rulings 159-161 applied 2026-11-27
 ---
 
 # Maturity study: admindata
@@ -29,11 +29,11 @@ Asked in order. Each is answered with a date and a link.
 | # | Question | A yes is |
 |---|---|---|
 | 1 | Is work under way to draw statistics from administrative records? | A source from the last three years states a register assessed for statistical use, staff trained, a data-sharing agreement between the statistics office and a record-holder, a pilot, or a project funded to that end. A plan only announced is not a yes |
-| 2 | Have statistics compiled from administrative records been published in the last three years? | A yearbook, bulletin, abstract or report of statistics drawn from those records, published since 1 October 2023 |
-| 3 | Has one source's statistics been published twice? | Two editions of statistics drawn from the same administrative source, each shown published since 1 October 2023 |
-| 4 | Have three sources' statistics each been published twice? | Three distinct administrative sources, each with two editions published since 1 October 2023 |
+| 2 | Have statistics compiled from administrative records been published in the last three years? | A yearbook, bulletin, abstract or report of statistics drawn from those records, published in the three years to the as-at |
+| 3 | Has one source's statistics been published twice? | Two editions of statistics drawn from the same administrative source, each shown published in the three years to the as-at |
+| 4 | Have three sources' statistics each been published twice? | Three distinct administrative sources, each with two editions published in the three years to the as-at |
 
-**A source is one body's records kept for one service**: civil registration, customs declarations, school returns, health facility reports, tax returns, police records. Two products from the same records are one source; a yearbook drawing on five registers is five. **A product counts only where its source says the figures are drawn from the records** *(Bill, 2026-10-19)*: a body named as a table's source, or as supplying data, does not show that, since the figures could be estimates, surveys or censuses. A statistical compendium that shows no more is unplaced.
+**A source is one body's records kept for one service**: civil registration, customs declarations, school returns, health facility reports, tax returns, police records. Two products from the same records are one source, and two editions of it *(Bill, message 160)*; a yearbook drawing on five registers is five. **A product counts only where its source says the figures are drawn from the records** *(Bill, 2026-10-19)*: a body named as a table's source, or as supplying data, does not show that, since the figures could be estimates, surveys or censuses. A statistical compendium that shows no more is unplaced.
 
 ## 3. The ladders
 
@@ -50,7 +50,10 @@ Asked in order. Each is answered with a date and a link.
 - **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*. The four questions measure one yearbook at rising levels, so a higher answer is the same fact.
 - **One yearbook published twice can carry stage 5** where each edition draws on three sources or more.
 - **Two editions are two publications**: one report covering two years is one edition.
-- **An edition counts only where it is shown** *(R185, 2026-11-27)*: by its own publication date since 1 October 2023, or by figures for a period ending after that day, which cannot have been published earlier; a date given only as the year 2023 shows nothing on its own. A source saying a product is annual, or giving its place in a series, shows the edition it speaks of, or one current edition where it names none, and no other; an earlier edition it names by year counts under the same test. The first reading counted such a statement as two editions; the second drafter did not, and 13 of 20 cells split.
+- **The window is a rolling three years** *(Bill, message 161)*: editions are counted back from the as-at, not from a fixed 1 October 2023. At the as-at of 27 November 2026 it opens on 27 November 2023.
+- **An edition counts only where it is shown** *(R185, 2026-11-27)*: by its own publication date inside the window, or by figures for a period ending inside it, which cannot have been published earlier; a date given only as the month or year in which the window opens shows nothing on its own. A source saying a product is annual, or giving its place in a series, shows the edition it speaks of, or one current edition where it names none.
+- **A stated regular series counts as two editions** *(Bill, message 159)*: a source saying a product is annual, quarterly or the Nth in a series answers question 3 for its source where one edition of it is dated in the window. A volume or issue number of a general compendium, or a title such as *Annual Report*, is not such a statement.
+- **Two different products from the same records are two editions** *(Bill, message 160)*: the enterprise register statistics and a social protection bulletin drawn from one social security file count twice. Two volumes of one report, or one report revised, are one edition.
 - **Civil registration is one source among the rest** *(Bill, 2026-10-19)*. The ladder of 2026-10-15 put vital statistics at 4 and their yearly publication at 5; it is replaced by the count of sources and editions above.
 
 `study.json` holds this as aspects: `use` (`published`, `preparing`, `none`) for questions 1 and 2, and `vital` and `series` from the 2026-10-15 ladder until the rebuild of 2026-10-19 replaces them (§7, D6). **For the drafter**: the product and its edition go in `country_label` (e.g. *Annuaire statistique 2023*), the year its figures cover in the fact beside the date it was published, and every administrative source it draws on in the fact.
@@ -79,6 +82,7 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 - [x] **D7. A named source is not administrative data**, 2026-10-19 *(Bill, on Libya)*: §2. 33 facts that named a body as a table's source, or listed a product, without saying its figures come from records were removed (`corrections.csv`), and the 18 cells they touched were logged `--kind review`. Staged: 4 nineteen; 3 fifteen; 2 six; unplaced three (Cameroon, Libya, São Tomé and Príncipe); no evidence eleven.
 - [x] **D4. Written, rendered and linted**, by `study-admindata-write.py`; on the soft-launch map. **D5. Reported to Bill.** Tokens 35.5M of 40M, step 1's thread counted.
 - [x] **D8. Stage 4's editions rewritten**, 2026-11-27 *(R185: second-drafter agreement 35%)*: §3. A statement that a product is annual or numbered in a series no longer counts as two editions. Every cell restaged `--kind ladder`; eleven moved, ten from 4 to 3 and Comoros from 4 to 2. A fresh draw of 20 agreed on 16.
+- [x] **D9. Bill's rulings 159-161 applied**, 2026-11-27: §2 and §3. A stated series with one edition dated counts as two, two products from one source's records count as two, and the window rolls back three years from the as-at. Fourteen cells reassessed `--kind ruling`: Benin, Burkina Faso, Cabo Verde, Egypt, Eritrea, Gambia, Kenya, Madagascar, Somalia, Tanzania and South Africa 3 to 4; Botswana 4 to 3; Ethiopia and Comoros unmoved, Comoros because no bulletin is dated in the window.
 
 **Decided in the run**:
 

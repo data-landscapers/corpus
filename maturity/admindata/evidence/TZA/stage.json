@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "admin",
-      "stage": "3",
+      "stage": "4",
       "use": "published",
       "source": "health;tax",
-      "series": "",
+      "series": "health",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-003;TZA-001",
-      "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
-      "note": "The health statistical tables for 2024, of September 2025, and the business register report of 2025 are drawn from records and set stage 3. The tables are said to be annual since 2009, but only one edition is shown, so not 4.",
+      "stage_sources": "TZA-003;TZA-004",
+      "gaps": "No source found shows statistics from three administrative sources, each published twice in the last three years.",
+      "note": "The health statistical tables for 2024, of September 2025, are said to be published every year since 2009: one edition dated in a stated series counts as two. The business register report is held once and the police series is last dated 2021, so 4.",
       "as_at": "2026-11-27"
     }
   ]

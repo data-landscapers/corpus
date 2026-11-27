@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "LSO-001",
-      "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
-      "note": "The 2022 vital statistics report, published in 2024, sets stage 3. The 2020 and 2021 reports are listed without dates, so no second edition is shown since October 2023.",
+      "gaps": "No source found shows statistics from one administrative source published twice in the last three years.",
+      "note": "The 2022 vital statistics report, published in 2024, sets stage 3. The 2020 and 2021 reports are listed without dates, so no second edition is shown in the last three years.",
       "as_at": "2026-11-27"
     }
   ]

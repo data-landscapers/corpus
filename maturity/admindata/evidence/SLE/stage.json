@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SLE-005;SLE-007",
-      "gaps": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
+      "gaps": "No source found shows statistics from three administrative sources, each published twice in the last three years.",
       "note": "The registration authority's vital events reports for 2023, 2024 and 2025, whose figures end after October 2023, are editions from one source. No other source is shown twice, so 4.",
       "as_at": "2026-11-27"
     }

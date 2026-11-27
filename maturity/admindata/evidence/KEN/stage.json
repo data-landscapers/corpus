@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "admin",
-      "stage": "3",
+      "stage": "4",
       "use": "published",
       "source": "civil-registration",
-      "series": "",
+      "series": "civil-registration",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-002;KEN-001",
-      "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
-      "note": "The vital statistics report for 2023, published in 2024 from the civil registration system, sets stage 3. Being the eleventh in a series shows that edition only, so not 4.",
+      "stage_sources": "KEN-002;KEN-003",
+      "gaps": "No source found shows statistics from three administrative sources, each published twice in the last three years.",
+      "note": "The vital statistics report for 2023, published in 2024 from the civil registration system, is the eleventh in an annual series: one edition dated in a stated series counts as two. No other source is shown twice, so 4.",
       "as_at": "2026-11-27"
     }
   ]

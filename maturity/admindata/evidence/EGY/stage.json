@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "admin",
-      "stage": "3",
+      "stage": "4",
       "use": "published",
       "source": "civil-registration;education",
-      "series": "",
+      "series": "civil-registration",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-003;EGY-001",
-      "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
-      "note": "The education yearbook for 2024/25 and a 2026 statement that CAPMAS issues birth and death reports each show one current edition, which sets stage 3. The statement names no report or year, so no source is shown twice and not 4.",
+      "stage_sources": "EGY-001;EGY-002",
+      "gaps": "No source found shows statistics from three administrative sources, each published twice in the last three years.",
+      "note": "A 2026 presentation states CAPMAS issues annual and monthly birth and death reports from the civil register, which shows one current edition of a stated series and counts as two. The education yearbook for 2024/25 is held once, so 4.",
       "as_at": "2026-11-27"
     }
   ]

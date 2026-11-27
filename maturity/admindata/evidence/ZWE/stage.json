@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZWE-007;ZWE-005",
-      "gaps": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
+      "gaps": "No source found shows statistics from three administrative sources, each published twice in the last three years.",
       "note": "ZIMSTAT's quarterly transport reports from administrative data are listed from late 2023 to 2025: one source shown twice. The 2023-2024 vital statistics report is one edition, so not 5.",
       "as_at": "2026-11-27"
     }

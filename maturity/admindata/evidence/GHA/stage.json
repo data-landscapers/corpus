@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-004;GHA-005",
-      "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
+      "gaps": "No source found shows statistics from one administrative source published twice in the last three years.",
       "note": "The Registry's birth and death reports for 2022, both of 2024, set stage 3. They are two volumes of one inaugural report, so no second edition is shown and not 4.",
       "as_at": "2026-11-27"
     }

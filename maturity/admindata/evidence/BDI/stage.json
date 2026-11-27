@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BDI-004;BDI-005",
-      "gaps": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
+      "gaps": "No source found shows statistics from three administrative sources, each published twice in the last three years.",
       "note": "The health yearbook for 2024, of August 2025, follows a 2023 edition, whose figures for 2023 end after October 2023: one source shown twice. No other source is shown twice, so 4.",
       "as_at": "2026-11-27"
     }

@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NER-002",
-      "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
+      "gaps": "No source found shows statistics from one administrative source published twice in the last three years.",
       "note": "The civil-status events report for 2023, of December 2024, sets stage 3. No second edition is shown, so not 4.",
       "as_at": "2026-11-27"
     }
