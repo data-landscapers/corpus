@@ -1,0 +1,19 @@
+{"slug": "2026-04-04-com-technopole-numerique-des-comores-note-de-synthese", "studies": {
+"businesspayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on the central bank or payments."}}},
+"consumerprotection": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"datacentres": {"countries": {"COM": {"facts": [], "systems": [{"system": "Technopole Numerique des Comores data center", "country_label": "Comoros", "class": "other", "platform": "", "owner": "Ministry of Posts, Telecommunications, Digital Economy and Transparency", "tiers": ""}], "note": "A data center is only planned (works from Q1 2027); none for hire in service is stated."}}},
+"digitalsovereignty": {"countries": {"COM": {"facts": [{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The Comoros ministry's 2026 Technopole project note sets an objective to equip the country with a data center and a national cloud, with a sovereign cloud among its infrastructure components.", "as_of": "2026-04-04", "date_precision": "day", "system": "Technopole Numerique des Comores", "class": "sovereignty"}], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document only lists e-government as an expected impact; no service stated online."}}},
+"g2ppayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
+"ictjobs": {"countries": {"COM": {"facts": [], "systems": [], "note": "No ICT employment share or graduate unemployment figure stated; only a target of 2,000 jobs."}}},
+"nationaldatacentres": {"countries": {"COM": {"facts": [], "systems": [], "note": "Data center only planned; none in service stated."}}},
+"paymentsuptake": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on account ownership."}}},
+"publicconsultation": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states no consultation on a digital law or policy; the advisory council is only planned."}}},
+"retailpayments": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on retail payments."}}},
+"revenuecollection": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}},
+"schoolinternet": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states nothing on school internet or curriculum."}}},
+"startups": {"countries": {"COM": {"facts": [], "systems": [], "note": "No startup law, label or fund stated; 100 startups is a target."}}},
+"techhubs": {"countries": {"COM": {"facts": [], "systems": [{"system": "Technopole Numerique des Comores", "country_label": "Comoros", "class": "other", "platform": "", "owner": "Ministry of Posts, Telecommunications, Digital Economy and Transparency", "tiers": ""}], "note": "Hub is planned: financing sought to Q1 2027, works from Q1 2027, opening 2028; nothing being built or open."}}}
+}}

@@ -1,10 +1,133 @@
-{"slug": "2026-11-25-nam-cybersecurity-is-no-longer-merely-an-information-technology-concern-sa", "studies": {
-"businesspayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
-"centralbank": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Finance ministry speech; no central bank role stated."}}},
-"consumerprotection": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Only a call to embed consumer protection and a strategy mention; no rules, body or enforcement stated."}}},
-"crossborderpayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
-"g2ppayments": {"countries": {"NAM": {"facts": [{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "Namibia's Ministry of Finance told the Fraud & Cybersecurity Summit that government-to-person payments processed through the Instant Payment System rose from about 1 million in July 2026 to 10 million in August, 25 million in September and 26 million in October (unit not stated).", "as_of": "2026-10", "date_precision": "month", "system": "Instant Payment System", "class": "g2p"}], "systems": [{"system": "Instant Payment System", "country_label": "Namibia", "class": "g2p", "platform": "national instant payment infrastructure", "owner": "Instant Payments Namibia", "tiers": ""}], "note": ""}}},
-"paymentsuptake": {"countries": {"NAM": {"facts": [], "systems": [], "note": "A financial inclusion rate of about 86% is given with no survey named as an account-holding share."}}},
-"retailpayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "IPS is said only to have potential for merchant and P2P payments; no wallet or interoperability service stated."}}},
-"revenuecollection": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
-}}
+{
+ "slug": "2026-11-25-nam-cybersecurity-is-no-longer-merely-an-information-technology-concern-sa",
+ "studies": {
+  "idregisters": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Says nothing of registers keyed on the national ID."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Instant Payment System",
+       "country_label": "Namibia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Describes the instant payment system and its volumes, not a payments law or e-money rules."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "G2P payment volumes through the instant payment system are not tied to a social protection registry or programme link."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on e-procurement."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Finance ministry speech; no central bank role stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a call to embed consumer protection and a strategy mention; no rules, body or enforcement stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing cross-border."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Namibia's Ministry of Finance told the Fraud & Cybersecurity Summit that government-to-person payments processed through the Instant Payment System rose from about 1 million in July 2026 to 10 million in August, 25 million in September and 26 million in October (unit not stated).",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Instant Payment System",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Instant Payment System",
+       "country_label": "Namibia",
+       "class": "g2p",
+       "platform": "national instant payment infrastructure",
+       "owner": "Instant Payments Namibia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "A financial inclusion rate of about 86% is given with no survey named as an account-holding share."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "IPS is said only to have potential for merchant and P2P payments; no wallet or interoperability service stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on tax or fee payment."
+    }
+   }
+  }
+ }
+}

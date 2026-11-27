@@ -1,1 +1,41 @@
-{"slug": "2026-11-25-zmb-government-backs-msme-digitalisation-drive", "studies": {"startups": {"countries": {"ZMB": {"facts": [], "systems": [{"system": "Startup ERP", "country_label": "Zambia", "class": "other", "platform": "business management software", "owner": "Infratel and Probase (private)", "tiers": ""}], "note": "A private MSME software launch backed by the minister's remarks; no startup law, label or fund is stated."}}}, "techhubs": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No hub, incubator or park is named."}}}}}
+{
+ "slug": "2026-11-25-zmb-government-backs-msme-digitalisation-drive",
+ "studies": {
+  "ictproduction": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Covers an MSME software product launch; no ICT export figure and no equipment plant."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Startup ERP",
+       "country_label": "Zambia",
+       "class": "other",
+       "platform": "business management software",
+       "owner": "Infratel and Probase (private)",
+       "tiers": ""
+      }
+     ],
+     "note": "A private MSME software launch backed by the minister's remarks; no startup law, label or fund is stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub, incubator or park is named."
+    }
+   }
+  }
+ }
+}

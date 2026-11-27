@@ -1,0 +1,10 @@
+{"slug": "2026-04-30-civ-cote-d-ivoire-aip-intelligence-artificielle-djibrill-ouattara-met-en-a", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document states nothing on AI harm rules or an authority."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document states no government use of AI."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document states no sectoral AI tool; cocoa is mentioned only as a need."}}},
+"aistrategy": {"countries": {"CIV": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Minister of Digital Transition Djibrill Ouattara, speaking on 30 April 2026, referred to the national artificial intelligence strategy as adopted in 2025.", "as_of": "2025", "date_precision": "year", "system": "National AI strategy", "class": "strategy"}], "systems": [{"system": "stratégie nationale de l'intelligence artificielle", "country_label": "Côte d'Ivoire", "class": "strategy", "platform": "", "owner": "Ministère de la Transition numérique et de l'Innovation technologique", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document names no AI model, dataset or AI computing built or in service; the data centre is under construction with no AI computing named."}}},
+"datacentres": {"countries": {"CIV": {"facts": [], "systems": [{"system": "Grand-Bassam data centre", "country_label": "Côte d'Ivoire", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Grand-Bassam data centre is under construction, not in service or stated for hire."}}},
+"digitalsovereignty": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a general sovereignty statement and a data centre under construction; no rule, plan or hosting of state data is stated."}}},
+"nationaldatacentres": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Grand-Bassam data centre is under construction; no ownership or in-service facility stated."}}}
+}}

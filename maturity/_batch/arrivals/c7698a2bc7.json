@@ -1,9 +1,88 @@
-{"slug": "2026-04-27-lbr-ai-powered-digital-health-education-civic-empowerment-platform-for-lib", "studies": {
-"aisectoral": {"countries": {"LBR": {"facts": [], "systems": [
-{"system": "Palava Innovations platform", "country_label": "Liberia", "class": "other", "platform": "mobile app with offline symptom checker and SMS/USSD triage", "owner": "Palava Innovations, Inc", "tiers": ""}
-], "note": "Self-reported, self-funded company platform; no public health system is stated to use it."}}},
-"civilserviceskills": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No training for civil servants is stated."}}},
-"digitaldivides": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No government rural connectivity programme or rural-urban internet figures are stated."}}},
-"digitalskills": {"countries": {"LBR": {"facts": [], "systems": [], "note": "A company's app education module, not a government programme with a stated count."}}},
-"schoolinternet": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No school internet figure or curriculum rule is stated."}}}
-}}
+{
+ "slug": "2026-04-27-lbr-ai-powered-digital-health-education-civic-empowerment-platform-for-lib",
+ "studies": {
+  "aisystems": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Palava Innovations, self-reporting to the MFDP dashboard, lists its AI health platform (status Implementation, 2026-01-01 to 2026-12-31) as including an offline symptom checker with on-device condition classifier and severity predictor models.",
+       "as_of": "2026-04-27",
+       "date_precision": "day",
+       "system": "Palava Innovations platform",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Palava Innovations platform",
+       "country_label": "Liberia",
+       "class": "localai",
+       "platform": "mobile app, SMS/USSD",
+       "owner": "Palava Innovations, Inc",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Palava Innovations platform",
+       "country_label": "Liberia",
+       "class": "other",
+       "platform": "mobile app with offline symptom checker and SMS/USSD triage",
+       "owner": "Palava Innovations, Inc",
+       "tiers": ""
+      }
+     ],
+     "note": "Self-reported, self-funded company platform; no public health system is stated to use it."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "No training for civil servants is stated."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "No government rural connectivity programme or rural-urban internet figures are stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "A company's app education module, not a government programme with a stated count."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "No school internet figure or curriculum rule is stated."
+    }
+   }
+  }
+ }
+}

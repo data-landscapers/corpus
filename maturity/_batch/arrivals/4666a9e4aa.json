@@ -1,0 +1,21 @@
+{
+  "slug": "2026-03-16-zwe-new-governance-structure-to-drive-national-ai-adoption",
+  "studies": {
+    "aiabuse": {"countries": {"ZWE": {"facts": [
+      {"sub_indicator": "aiharm", "aspect": "authority", "value": "designated", "fact": "TechnoMag reports that the National AI Strategy 2026-2030 sets up the National Digital Regulatory Committee, hosted in POTRAZ, as Zimbabwe's independent regulatory body for AI and emerging technologies, with a mandate to develop and enforce regulatory frameworks.", "as_of": "2026-03-16", "date_precision": "day", "system": "National Digital Regulatory Committee (NDRC)", "class": "aiharm"}
+    ], "systems": [
+      {"system": "National Digital Regulatory Committee (NDRC)", "country_label": "Zimbabwe", "class": "aiharm", "platform": "", "owner": "POTRAZ (host)", "tiers": ""}
+    ], "note": ""}}},
+    "aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Governance structure of the AI strategy only; no government body using an AI system is stated."}}},
+    "aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Sector working groups and projects such as AI diagnostics are listed as planned focus, none stated in service or under way."}}},
+    "aistrategy": {"countries": {"ZWE": {"facts": [
+      {"sub_indicator": "strategy", "aspect": "use", "value": "body", "fact": "TechnoMag reports the AI Strategy Implementation Office within the lead ICT ministry, with specialised units, is named to drive the flagship initiatives and monitoring of the National AI Strategy 2026-2030.", "as_of": "2026-03-16", "date_precision": "day", "system": "AI Strategy Implementation Office (AISIO)", "class": "strategy"}
+    ], "systems": [], "note": "Strategy described as newly launched by the minister; no cabinet approval stated, so no standing fact. The Mugove/Umgele fund is named with no amount."}}},
+    "aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+    "localgov": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on local government office connection; district Community AI Councils are not connections."}}},
+    "nonstatefinance": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The Mugove/Umgele co-investment fund is described with no amount and no signed deal."}}},
+    "schoolinternet": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on school internet or a compulsory subject."}}},
+    "startups": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No startup law or strategy; the AI innovation fund and regulatory sandbox are part of the AI strategy, not a startup measure with labelling or financing stated."}}},
+    "techhubs": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No hub, incubator or park stated."}}}
+  }
+}

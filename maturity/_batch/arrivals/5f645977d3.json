@@ -1,0 +1,9 @@
+{"slug": "2025-02-04-nga-minister-in-a-world-s-first-nigeria-establishes-national-ai-trust", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "States no rule, authority or enforcement on AI harms."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "States no government body using an AI system."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "States no AI tool in a public sector system."}}},
+"aistrategy": {"countries": {"NGA": {"facts": [], "systems": [{"system": "National AI Trust", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "Federal Executive Council / Federal Ministry of Communications, Innovation and Digital Economy", "tiers": ""}], "note": "Trust is not tied by the document to the strategy; the NAIS was only 'unveiled' in August 2024, not stated adopted."}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "States no AI model, dataset or AI computing built or hosted."}}},
+"dataprotectionlaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "States nothing on a data protection law, only that the strategy stresses data protection."}}},
+"fibrebackbone": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Project Bridge is only said to be initiated and aimed at 90,000 km; no contract, works or service stated."}}}
+}}

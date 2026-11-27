@@ -1,7 +1,77 @@
-{"slug": "2026-11-11-moz-chapo-launches-prospera-to-strengthen-households-productive-capacity", "studies": {
-"aiabuse": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is mentioned."}}},
-"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The only AI named is a farm advisory service, a sector tool, and is future tense."}}},
-"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "Olá Produtor", "country_label": "Olá Produtor", "class": "other", "platform": "", "owner": "Government of Mozambique, PROSPERA", "tiers": ""}], "note": "The President says Olá Produtor will use AI; no pilot, build or service in use is stated."}}},
-"aisystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country is stated."}}},
-"nonstatefinance": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The cotton and oilseed financing line is a domestic credit facility, not private money into a digital business."}}}
-}}
+{
+ "slug": "2026-11-11-moz-chapo-launches-prospera-to-strengthen-households-productive-capacity",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PROSPERA",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "agricultural advisory service (Olá Produtor, AI-backed)",
+       "owner": "Government of Mozambique",
+       "tiers": ""
+      }
+     ],
+     "note": "Agricultural advisory and seed-tracking project; no rural internet access programme or rural-urban use figures stated."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms is mentioned."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The only AI named is a farm advisory service, a sector tool, and is future tense."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Olá Produtor",
+       "country_label": "Olá Produtor",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Mozambique, PROSPERA",
+       "tiers": ""
+      }
+     ],
+     "note": "The President says Olá Produtor will use AI; no pilot, build or service in use is stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing built in the country is stated."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The cotton and oilseed financing line is a domestic credit facility, not private money into a digital business."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,8 @@
+{"slug": "2026-05-03-civ-la-cote-d-ivoire-veut-lancer-sa-propre-ia", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government body using AI stated."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Sector AI for agriculture and cocoa is only an announced aim, no tool piloted or built."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Minister's announced plan for a national AI names no builder, funder or site; a plan, not under way."}}},
+"datacentres": {"countries": {"CIV": {"facts": [], "systems": [], "note": "New data centres only announced; none in service stated."}}},
+"nationaldatacentres": {"countries": {"CIV": {"facts": [], "systems": [], "note": "New data centres only announced; no nationally owned facility in service stated."}}}
+}}

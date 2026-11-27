@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-24-gin-accidents-de-la-circulation-laguiser-renforce-le-dispositif-de-collect",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ADAMS Guinée",
+   "country_label": "ADAMS Guinée",
+   "class": "other",
+   "platform": "phone and tablet app for recording road accidents and following victims",
+   "owner": "AGUISER (Agence guinéenne de la sécurité routière)",
+   "tiers": "police, gendarmerie, civil protection, health services"
+  }
+ ],
+ "note": "ADAMS Guinée is a digital accident-collection system; the document states no statistics published from administrative records and no statistics-office work on them."
+}

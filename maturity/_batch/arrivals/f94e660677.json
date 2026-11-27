@@ -1,0 +1,23 @@
+{"slug": "2026-05-01-eth-state-to-forge-a-knowledge-based-economy-with-ai-university", "studies": {
+"aiabuse": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The Media Authority's AI misinformation monitor is a use of AI, not a rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "University World News says the Ethiopian Media Authority this year introduced the use of an AI system to try to eradicate misinformation and hate speech.", "as_of": "2026", "date_precision": "year", "system": "Ethiopian Media Authority AI system", "class": "govai"},
+{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "University World News says the National Election Board of Ethiopia began to use AI tools in planning and conducting the election and in voter and candidate registration.", "as_of": "2026", "date_precision": "year", "system": "National Election Board AI tools", "class": "govai"},
+{"sub_indicator": "govai", "aspect": "bodies", "value": "several", "fact": "University World News names AI in use at both the Ethiopian Media Authority (misinformation monitoring) and the National Election Board (election planning and registration), two bodies in different sectors.", "as_of": "2026", "date_precision": "year", "system": "Media Authority AI system; Election Board AI tools", "class": "govai"}
+], "systems": [
+{"system": "Ethiopian Media Authority AI system", "country_label": "Ethiopia", "class": "govai", "platform": "", "owner": "Ethiopian Media Authority", "tiers": ""},
+{"system": "National Election Board AI tools", "country_label": "Ethiopia", "class": "govai", "platform": "", "owner": "National Election Board of Ethiopia", "tiers": ""},
+{"system": "Smart Police Station", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "Government of Ethiopia", "tiers": ""}
+], "note": ""}}},
+"aisectoral": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only AI monitoring of Grand Ethiopian Renaissance Dam water levels is named, a dam rather than a sector's public system; no sector tool is described."}}},
+"aisystems": {"countries": {"ETH": {"facts": [], "systems": [{"system": "AI University Innovation Pod (AI UniPod)", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "UNDP at the Ethiopian Artificial Intelligence Institute", "tiers": ""}], "note": "The AI university and UniPod are not an AI model, dataset or named AI computing; GPU clusters are only a call by a founder."}}},
+"datacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Wingu Africa is called Djibouti-based and no Ethiopian facility for hire is stated; the AII data centre is not said to rent to others."}}},
+"digitalsovereignty": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only a prime minister's statement on data sovereignty in general; no rule, hosting or contract terms."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "University World News says the government champions a mandatory digital identification card using biometric technology with US$350 million from the World Bank, and this month blocked bank accounts and denied services to citizens refusing to obtain the cards.", "as_of": "2026-05", "date_precision": "month", "system": "digital identification card", "class": "idsystem"}
+], "systems": [{"system": "digital identification card", "country_label": "Ethiopia", "class": "idsystem", "platform": "", "owner": "Government of Ethiopia", "tiers": ""}], "note": ""}}},
+"nationaldatacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The AII's data centre is a government research unit's, not stated to be for hire."}}},
+"police": {"countries": {"ETH": {"facts": [], "systems": [{"system": "Smart Police Station", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "Government of Ethiopia", "tiers": ""}], "note": "An unmanned AI police station in Addis Ababa is named; the document does not say it records reports or cases."}}},
+"startups": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No startup law, label or fund stated."}}},
+"techhubs": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No hub or park programme stated; the AI university is not a hub."}}}
+}}

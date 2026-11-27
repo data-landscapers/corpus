@@ -1,11 +1,133 @@
-{"slug": "2026-11-25-tun-transformation-digitale-le-comit-g-n-ral-des-assurances-d-mat-rialise", "studies": {
-"authentication": {"countries": {"TUN": {"facts": [
-{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "La Presse reports the Comite general des assurances' new online licensing platform lets broker applicants in only through the national digital identity service.", "as_of": "2026-11-25", "date_precision": "day", "system": "Service national de l'identite numerique", "class": "authentication"}
-], "systems": [{"system": "Service national de l'identite numerique", "country_label": "Tunisia", "class": "authentication", "platform": "national digital identity service", "owner": "State", "tiers": ""}, {"system": "CGA insurance intermediary licensing platform", "country_label": "Tunisia", "class": "other", "platform": "online licensing portal", "owner": "Comite general des assurances", "tiers": ""}], "note": ""}}},
-"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
-"idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID is stated."}}},
-"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
-"idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on who runs the national ID system."}}},
-"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The intermediaries register is the regulator's own and is not said to be keyed on the national ID number."}}},
-"idrobustness": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on the national ID system's issuance, biometrics or certification."}}}
-}}
+{
+ "slug": "2026-11-25-tun-transformation-digitale-le-comit-g-n-ral-des-assurances-d-mat-rialise",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Tunisia's Comité général des assurances launched an online platform on which applications for insurance-intermediary licences are filed and tracked, and paper files are abandoned, according to its official communiqué.",
+       "as_of": "2026-11-25",
+       "date_precision": "day",
+       "system": "Comité général des assurances intermediary licensing platform",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Comité général des assurances intermediary licensing platform",
+       "country_label": "Tunisia",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Comité général des assurances",
+       "tiers": ""
+      },
+      {
+       "system": "national digital identity service",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "La Presse reports the Comite general des assurances' new online licensing platform lets broker applicants in only through the national digital identity service.",
+       "as_of": "2026-11-25",
+       "date_precision": "day",
+       "system": "Service national de l'identite numerique",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Service national de l'identite numerique",
+       "country_label": "Tunisia",
+       "class": "authentication",
+       "platform": "national digital identity service",
+       "owner": "State",
+       "tiers": ""
+      },
+      {
+       "system": "CGA insurance intermediary licensing platform",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "online licensing portal",
+       "owner": "Comite general des assurances",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil register and ID links."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No count or share of people holding a national ID is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a number at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on who runs the national ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The intermediaries register is the regulator's own and is not said to be keyed on the national ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on the national ID system's issuance, biometrics or certification."
+    }
+   }
+  }
+ }
+}

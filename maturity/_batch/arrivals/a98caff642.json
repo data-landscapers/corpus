@@ -1,0 +1,17 @@
+{"slug": "2026-08-01-mli-semaine-du-numerique-2026-le-mali-adopte-une-feuille-de-route-ambitieu", "studies": {
+"aiabuse": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Only a proposed memorandum on AI governance among Confederation states is mentioned; no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The document states no government body using AI."}}},
+"aisectoral": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The document states no AI tool in a public sector system."}}},
+"aistrategy": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Participants only recommended developing a national AI strategy; no drafting is stated."}}},
+"aisystems": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The document states no AI model, dataset or AI computing built or hosted in Mali."}}},
+"authentication": {"countries": {"MLI": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Participants in the Semaine du Numerique 2026 validated the progressive rollout of the first public services based on electronic signature, per Maliweb.", "as_of": "2026-08-01", "date_precision": "day", "system": "electronic signature public services", "class": "authentication"}], "systems": [{"system": "electronic signature public services", "country_label": "Mali", "class": "authentication", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"civilserviceskills": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Only a recommendation to build sector actors' capacity, cybersecurity in particular; no civil-service programme stated."}}},
+"digitalskills": {"countries": {"MLI": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Prime Minister Abdoulaye Maiga announced a partnership with the Kamako association to train 15,000 young Malians in digital trades this year, with the first phase opening during the Semaine du Numerique.", "as_of": "2026-08-01", "date_precision": "day", "system": "Kamako youth digital training programme", "class": "publicskills"}], "systems": [{"system": "Kamako youth digital training programme", "country_label": "Mali", "class": "publicskills", "platform": "", "owner": "Government of Mali with Kamako", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Strategy, framework data law and SMTD as sole operator are participants' recommendations, not a government adoption or announcement."}}},
+"digitalstrategy": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No national digital strategy adopted or drafted is stated; the roadmap is a set of conference recommendations."}}},
+"ecommercelaw": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No law on electronic transactions or e-commerce is stated."}}},
+"fibrebackbone": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Only recommendations to continue a national backbone; no contract or works or service stated."}}},
+"localgov": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The document states nothing on local government office connection."}}},
+"startups": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Only a recommended fund for national digital initiatives; no startup law, strategy or fund stated."}}},
+"techhubs": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The document states no hub, incubator or park."}}}
+}}

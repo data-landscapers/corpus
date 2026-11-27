@@ -1,4 +1,32 @@
-{"slug": "2026-11-23-nga-national-council-on-health-approves-2026-national-telemedicine-guideli", "studies": {
-"dataprotectionlaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Data protection is named only as a gap in telemedicine; no law, authority or decision is stated."}}},
-"digitaldivides": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A health-sector guideline; no rural connectivity programme or rural-urban internet figure is stated."}}}
-}}
+{
+ "slug": "2026-11-23-nga-national-council-on-health-approves-2026-national-telemedicine-guideli",
+ "studies": {
+  "healthmis": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Telemedicine guidelines only; no national health management information system is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Data protection is named only as a gap in telemedicine; no law, authority or decision is stated."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A health-sector guideline; no rural connectivity programme or rural-urban internet figure is stated."
+    }
+   }
+  }
+ }
+}

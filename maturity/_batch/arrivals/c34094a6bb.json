@@ -1,0 +1,11 @@
+{"slug": "2026-10-13-tgo-intelligence-artificielle-le-togo-prepare-des-modeles-adaptes-aux-lang", "studies": {
+"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing on AI harm rules or an authority."}}},
+"aigovernment": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document describes a data-collection challenge, not an AI system in use in administration."}}},
+"aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Applications in health, administration and justice are future possibilities only; no sectoral AI tool is piloted or in service."}}},
+"aistrategy": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document refers to a national AI strategy with local-language data among its priorities and a 2030 West African AI hub aim, but does not say it was approved or validated by the government."}}},
+"aisystems": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The Ministry of Public Service Efficiency and Digital Transformation launched on 5 October 2026 a national local-languages challenge, first stage of the three-year Voix du Togo programme, collecting voice and text data (50 validated audio hours, 6,000 translated sentence pairs, 500 speakers per language) to train AI models, with a one-month pilot on Ewe, Kabye and Moba.", "as_of": "2026-10-05", "date_precision": "day", "system": "Voix du Togo", "class": "localai"}
+], "systems": [{"system": "Voix du Togo", "country_label": "Togo", "class": "localai", "platform": "online contribution platform", "owner": "Ministry of Public Service Efficiency and Digital Transformation", "tiers": ""}], "note": ""}}},
+"startups": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states nothing on startup law, labelling or funds; startups are only named as future competition participants."}}},
+"techhubs": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document names no hub, incubator or technology park."}}}
+}}

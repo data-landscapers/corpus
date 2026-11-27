@@ -1,0 +1,16 @@
+{"slug": "2026-11-25-ago-angola-quer-desenvolver-industria-nacional-de-software-e-equipamentos", "studies": {
+"businesspayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on central bank role."}}},
+"civilserviceskills": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No civil-service training stated."}}},
+"consumerprotection": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"AGO": {"facts": [], "systems": [{"system": "Data Center e Cloud do Governo de Angola", "country_label": "Angola", "class": "other", "platform": "", "owner": "Government of Angola", "tiers": ""}], "note": "Government data centre inaugurated April 2026; no statement that it rents to outside organisations."}}},
+"digitalskills": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Angola Digital centres named as oriented to digital skills, with no programme detail or count."}}},
+"digitalsovereignty": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No state-data rule or hosting of state data stated."}}},
+"g2ppayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"internationalbandwidth": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only a general reference to joining submarine cables; no cable or in-service route named."}}},
+"nationaldatacentres": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Government data centre named but no for-hire service or hosting of state systems stated."}}},
+"paymentsuptake": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Minister's wish for an interoperable payments ecosystem is an ambition, no service or switch stated."}}},
+"revenuecollection": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

@@ -1,0 +1,15 @@
+{"slug": "2025-04-16-nga-nigeria-launches-national-ai-strategy-to-drive-ai-development-and-prod", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Mentions responsible AI and ethics as a pillar only; no rule or authority against AI harms stated."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No government body's use of an AI system stated."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Sector champions are invited; no AI tool in a public sector system stated."}}},
+"aistrategy": {"countries": {"NGA": {"facts": [], "systems": [{"system": "National Artificial Intelligence Strategy", "country_label": "Nigeria", "class": "strategy", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": ""}], "note": "Launched by the minister in Lagos; the document states no cabinet approval or formal validation, and no body or public money tied to the strategy."}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document is about AI strategy; nothing on procurement."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on central bank payments role."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No account-ownership survey figure stated."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on retail payments."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

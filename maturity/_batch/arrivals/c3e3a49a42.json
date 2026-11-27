@@ -1,0 +1,14 @@
+{"slug": "2026-09-21-civ-la-cote-d-ivoire-potentiel-leader-regional-en-matiere-d-intelligence-a", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document states a governance pillar for ethical AI but no rule, authority or enforcement."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government body's use of AI is stated; only plans for administration use cases."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Agriculture AI examples named are start-up products, with no public sector system using them."}}},
+"aistrategy": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The ministry's director of innovation says Cote d'Ivoire has adopted a national AI strategy, resting on three pillars (investment in foundations, inclusion, governance), with a roadmap of seven pillars and forty structuring projects.", "as_of": "2026-09", "date_precision": "month", "system": "National AI strategy", "class": "strategy"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "The ministry's director of innovation says local teams in Cote d'Ivoire developed their own AI models to detect plant diseases from photographs, given as an example already effective in the country.", "as_of": "2026-09", "date_precision": "month", "system": "plant disease detection models", "class": "localai"}
+], "systems": [{"system": "plant disease detection from photographs", "country_label": "Plant disease detection models", "class": "localai", "platform": "", "owner": "local teams", "tiers": ""}], "note": ""}}},
+"itcapacity": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document says nothing on government technical staff running systems."}}},
+"startups": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Government support for start-ups at events is stated, but no startup law, labelling or public fund."}}},
+"techhubs": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No hub, incubator or park is described; only a tech forum and event support."}}}
+}}

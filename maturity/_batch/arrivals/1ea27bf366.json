@@ -1,3 +1,52 @@
-{"slug": "2026-11-25-ago-governo-preve-aumentar-para-391-os-pontos-de-acesso-gratuito-a-interne", "studies": {
-"domesticfinancing": {"countries": {"AGO": {"facts": [{"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "Portal de T.I. reported on 25 November 2026 that Angola's 2027 State Budget proposal provides Kz 45.7 billion for the National Broadband Network implementation project, under which the Angola Online access points are to grow from 182 to 391.", "as_of": "2026-11-25", "date_precision": "day", "system": "Projecto de Implementacao da Rede Nacional de Banda Larga", "class": "financing"}], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-11-25-ago-governo-preve-aumentar-para-391-os-pontos-de-acesso-gratuito-a-interne",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Angola Online",
+       "country_label": "Angola",
+       "class": "other",
+       "platform": "free public wifi access points",
+       "owner": "INFOSI with FADCOM",
+       "tiers": "182 points in 18 of 21 provinces"
+      }
+     ],
+     "note": "Free public wifi points are not stated to serve rural or underserved areas, and no rural/urban figure is given."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on persons with disabilities."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "financing",
+       "aspect": "budget",
+       "value": "allocated",
+       "fact": "Portal de T.I. reported on 25 November 2026 that Angola's 2027 State Budget proposal provides Kz 45.7 billion for the National Broadband Network implementation project, under which the Angola Online access points are to grow from 182 to 391.",
+       "as_of": "2026-11-25",
+       "date_precision": "day",
+       "system": "Projecto de Implementacao da Rede Nacional de Banda Larga",
+       "class": "financing"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,9 @@
+{"slug": "2026-11-25-egy-egypt-s-finance-and-ict-ministries-launch-ai-hackathon-to-engage-start", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A hackathon launch; no rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [{"system": "AI Hackathon (impacthackathon.itida.gov.eg)", "country_label": "Egypt", "class": "other", "platform": "ITIDA online competition platform", "owner": "Ministry of Finance, MCIT, ITIDA", "tiers": ""}], "note": "A competition inviting startups to build tools; no government AI system is stated as piloted, tested or in service."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A hackathon only; no AI tool stated in a public sector system."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted is stated."}}},
+"regionalpolicy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A national initiative; no African body or agreement is named."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A hackathon on its own is not a startup law, labelling or fund."}}},
+"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No hub, incubator or park is described as running programmes; the hackathon is a one-off."}}}
+}}

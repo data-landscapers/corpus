@@ -1,0 +1,8 @@
+{"slug": "2026-11-25-ken-hurricane-electric-expands-global-network-with-new-point-of-presence-at", "studies": {
+"datacentres": {"countries": {"KEN": {"facts": [{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Hurricane Electric's press release describes iXAfrica NBOX1 on Mombasa Road, Nairobi, as a carrier-neutral data center serving cloud providers, hyperscalers and enterprises, where Hurricane Electric has opened a point of presence.", "as_of": "2026-11-25", "date_precision": "day", "system": "iXAfrica NBOX1", "class": "datacentre"}], "systems": [{"system": "iXAfrica NBOX1", "country_label": "Kenya", "class": "datacentre", "platform": "", "owner": "iXAfrica", "tiers": ""}], "note": ""}}},
+"exchangepoints": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Names exchange points only worldwide; none in Kenya."}}},
+"fibrebackbone": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No national backbone stated."}}},
+"internationalbandwidth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Mentions subsea access through Mombasa but names no cable or route in service."}}},
+"nationaldatacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "iXAfrica's ownership and Tier are not stated."}}},
+"regionalinfrastructure": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No arrangement between African countries stated."}}}
+}}

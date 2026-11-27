@@ -1,7 +1,172 @@
-{"slug": "2026-11-19-cpv-ilo-supports-digital-transformation-of-cabo-verde-s-general-labour-ins", "studies": {
-"aigovernment": {"countries": {"CPV": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "The ILO says the General Labour Inspectorate's portal, launched in Praia on 3 November 2026, includes an AI-powered virtual assistant that answers workers' and employers' questions on labour law, including in Kriolu.", "as_of": "2026-11-03", "date_precision": "day", "system": "IGT portal AI-powered virtual assistant", "class": "govai"}], "systems": [{"system": "IGT portal AI-powered virtual assistant", "country_label": "Portal IGT", "class": "govai", "platform": "web portal", "owner": "Inspeccao-Geral do Trabalho", "tiers": ""}, {"system": "SIGT", "country_label": "Labour Inspection Management Information System", "class": "other", "platform": "", "owner": "Inspeccao-Geral do Trabalho", "tiers": ""}], "note": ""}}},
-"aisectoral": {"countries": {"CPV": {"facts": [], "systems": [], "note": "The assistant answers general questions on labour law and is a public-facing chatbot, not a tool giving diagnoses, scores or decisions inside a sector system."}}},
-"civilserviceskills": {"countries": {"CPV": {"facts": [], "systems": [], "note": "The 20 inspectors' capacity-building is on extending inspection to the informal economy, not digital skills."}}},
-"digitalskills": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No programme teaching the public digital skills is stated; training for users is only to follow the launch."}}},
-"disabilityaccess": {"countries": {"CPV": {"facts": [{"sub_indicator": "accessibility", "aspect": "delivered", "value": "delivered", "fact": "The ILO reports that the Inspectorate's new portal, launched 3 November 2026, includes text-to-speech, keyboard navigation, screen-reader compatibility and improved colour contrast for persons with disabilities.", "as_of": "2026-11-03", "date_precision": "day", "system": "IGT portal", "class": "accessibility"}], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-11-19-cpv-ilo-supports-digital-transformation-of-cabo-verde-s-general-labour-ins",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names no rule, authority or enforcement on AI harms."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names no AI law, decree or draft."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names no national AI strategy."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IGT portal AI virtual assistant",
+       "country_label": "Cabo Verde",
+       "class": "other",
+       "platform": "igt.gov.cv",
+       "owner": "General Labour Inspectorate (IGT), with ILO support and Luxembourg funding",
+       "tiers": ""
+      }
+     ],
+     "note": "The AI assistant is named but the document does not say it is built or hosted in the country."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The ILO says a new General Labour Inspectorate portal, launched in Praia on 3 November 2026, lets users submit complaints about labour violations, attach documents and track case status online, with no complaint counts given.",
+       "as_of": "2026-11-03",
+       "date_precision": "day",
+       "system": "IGT portal and Labour Inspection Management Information System (SIGT)",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IGT portal and SIGT",
+       "country_label": "Cabo Verde",
+       "class": "feedback",
+       "platform": "web portal (igt.gov.cv)",
+       "owner": "General Labour Inspectorate (IGT)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing about refugees or displaced people."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The ILO says the General Labour Inspectorate's portal, launched in Praia on 3 November 2026, includes an AI-powered virtual assistant that answers workers' and employers' questions on labour law, including in Kriolu.",
+       "as_of": "2026-11-03",
+       "date_precision": "day",
+       "system": "IGT portal AI-powered virtual assistant",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IGT portal AI-powered virtual assistant",
+       "country_label": "Portal IGT",
+       "class": "govai",
+       "platform": "web portal",
+       "owner": "Inspeccao-Geral do Trabalho",
+       "tiers": ""
+      },
+      {
+       "system": "SIGT",
+       "country_label": "Labour Inspection Management Information System",
+       "class": "other",
+       "platform": "",
+       "owner": "Inspeccao-Geral do Trabalho",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The assistant answers general questions on labour law and is a public-facing chatbot, not a tool giving diagnoses, scores or decisions inside a sector system."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The 20 inspectors' capacity-building is on extending inspection to the informal economy, not digital skills."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "No programme teaching the public digital skills is stated; training for users is only to follow the launch."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "delivered",
+       "value": "delivered",
+       "fact": "The ILO reports that the Inspectorate's new portal, launched 3 November 2026, includes text-to-speech, keyboard navigation, screen-reader compatibility and improved colour contrast for persons with disabilities.",
+       "as_of": "2026-11-03",
+       "date_precision": "day",
+       "system": "IGT portal",
+       "class": "accessibility"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

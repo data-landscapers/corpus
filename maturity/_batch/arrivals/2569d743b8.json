@@ -1,1 +1,164 @@
-{"slug": "2026-11-24-ssd-central-bank-launches-electronic-payment-system-to-replace-manual-cheq", "studies": {"businesspayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No government e-procurement is mentioned."}}}, "centralbank": {"countries": {"SSD": {"facts": [{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The Bank of South Sudan and the Ministry of Finance and Planning launched the South Sudan Interbank Payment and Settlement System on 24 November 2026, combining RTGS for high-value payments and an ACH for low-value and bulk payments.", "as_of": "2026-11-24", "date_precision": "day", "system": "SSIPSS", "class": "oversight"}], "systems": [{"system": "SSIPSS", "country_label": "South Sudan", "class": "oversight", "platform": "RTGS and ACH", "owner": "Bank of South Sudan", "tiers": ""}], "note": ""}}}, "consumerprotection": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No consumer-protection rules or complaints body are stated."}}}, "coresystems": {"countries": {"SSD": {"facts": [{"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The government's Integrated Financial Management Information System is linked to the new payment system, and the Ministry of Finance and Planning initiates, authorises and processes government payments, per a joint statement of the Bank of South Sudan and the ministry.", "as_of": "2026-11-24", "date_precision": "day", "system": "IFMIS", "class": "core"}], "systems": [{"system": "IFMIS", "country_label": "South Sudan", "class": "core", "platform": "", "owner": "Ministry of Finance and Planning", "tiers": ""}], "note": ""}}}, "crossborderpayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No cross-border corridor or regional link is stated."}}}, "g2ppayments": {"countries": {"SSD": {"facts": [{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The system launched on 24 November 2026 is to pay government beneficiaries, including suppliers, contractors, institutions and individuals, directly into accounts at licensed commercial banks in place of manual cheques, per a joint statement of the Bank of South Sudan and the finance ministry.", "as_of": "2026-11-24", "date_precision": "day", "system": "SSIPSS", "class": "g2p"}], "systems": [{"system": "SSIPSS", "country_label": "South Sudan", "class": "g2p", "platform": "RTGS and ACH", "owner": "Bank of South Sudan", "tiers": ""}], "note": ""}}}, "paymentsuptake": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No survey share of adults with an account is given."}}}, "retailpayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "An interbank settlement system is described; no mobile money or retail wallet service is stated."}}}, "revenuecollection": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No payment of taxes or fees is stated."}}}}}
+{
+ "slug": "2026-11-24-ssd-central-bank-launches-electronic-payment-system-to-replace-manual-cheq",
+ "studies": {
+  "paymentslaw": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "South Sudan Interbank Payment and Settlement System (SSIPSS)",
+       "country_label": "SSIPSS",
+       "class": "other",
+       "platform": "RTGS and ACH linked to IFMIS",
+       "owner": "Bank of South Sudan",
+       "tiers": ""
+      }
+     ],
+     "note": "Describes a payment system launch, not a payments law or e-money rules."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No government e-procurement is mentioned."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The Bank of South Sudan and the Ministry of Finance and Planning launched the South Sudan Interbank Payment and Settlement System on 24 November 2026, combining RTGS for high-value payments and an ACH for low-value and bulk payments.",
+       "as_of": "2026-11-24",
+       "date_precision": "day",
+       "system": "SSIPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SSIPSS",
+       "country_label": "South Sudan",
+       "class": "oversight",
+       "platform": "RTGS and ACH",
+       "owner": "Bank of South Sudan",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No consumer-protection rules or complaints body are stated."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "finance",
+       "value": "inuse",
+       "fact": "The government's Integrated Financial Management Information System is linked to the new payment system, and the Ministry of Finance and Planning initiates, authorises and processes government payments, per a joint statement of the Bank of South Sudan and the ministry.",
+       "as_of": "2026-11-24",
+       "date_precision": "day",
+       "system": "IFMIS",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IFMIS",
+       "country_label": "South Sudan",
+       "class": "core",
+       "platform": "",
+       "owner": "Ministry of Finance and Planning",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No cross-border corridor or regional link is stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The system launched on 24 November 2026 is to pay government beneficiaries, including suppliers, contractors, institutions and individuals, directly into accounts at licensed commercial banks in place of manual cheques, per a joint statement of the Bank of South Sudan and the finance ministry.",
+       "as_of": "2026-11-24",
+       "date_precision": "day",
+       "system": "SSIPSS",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SSIPSS",
+       "country_label": "South Sudan",
+       "class": "g2p",
+       "platform": "RTGS and ACH",
+       "owner": "Bank of South Sudan",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No survey share of adults with an account is given."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "An interbank settlement system is described; no mobile money or retail wallet service is stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No payment of taxes or fees is stated."
+    }
+   }
+  }
+ }
+}

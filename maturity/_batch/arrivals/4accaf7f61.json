@@ -1,9 +1,97 @@
-{"slug": "2026-11-19-mar-tribune-ia-en-sante-le-modele-montpellierain-une-lecon-pour-rabat", "studies": {
-"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
-"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The AI use named is in health, a sector system; no general administration use is stated."}}},
-"aisectoral": {"countries": {"MAR": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The op-ed reports that Morocco's Ministry of Health and Social Protection ran an experiment with AI-assisted ultrasound in two rural health centres, being extended to 40 more to reach 50 in the Beni Mellal-Khenifra region.", "as_of": "2026-11-19", "date_precision": "day", "system": "AI-assisted ultrasound", "class": "sectorai"}], "systems": [{"system": "AI-assisted ultrasound", "country_label": "AI-assisted ultrasound, Beni Mellal-Khenifra", "class": "sectorai", "platform": "", "owner": "Ministry of Health and Social Protection", "tiers": ""}], "note": ""}}},
-"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No Moroccan-built AI model, dataset or computing is stated; the Jazari network and roadmap are strategy only."}}},
-"schoolinternet": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No school internet figure or compulsory curriculum is stated."}}},
-"startups": {"countries": {"MAR": {"facts": [], "systems": [], "note": "A 2.5 billion dirham mobilisation target and 1.3 billion envelope are named with no startup law, labelling or fund under it stated."}}},
-"techhubs": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No technology hub, incubator or park is described; the Jazari institutes are education and industry research."}}}
-}}
+{
+ "slug": "2026-11-19-mar-tribune-ia-en-sante-le-modele-montpellierain-une-lecon-pour-rabat",
+ "studies": {
+  "taxregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "An op-ed on AI in health; it says nothing about a taxpayer register or taxpayer number."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The AI use named is in health, a sector system; no general administration use is stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "The op-ed reports that Morocco's Ministry of Health and Social Protection ran an experiment with AI-assisted ultrasound in two rural health centres, being extended to 40 more to reach 50 in the Beni Mellal-Khenifra region.",
+       "as_of": "2026-11-19",
+       "date_precision": "day",
+       "system": "AI-assisted ultrasound",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI-assisted ultrasound",
+       "country_label": "AI-assisted ultrasound, Beni Mellal-Khenifra",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Ministry of Health and Social Protection",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No Moroccan-built AI model, dataset or computing is stated; the Jazari network and roadmap are strategy only."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No school internet figure or compulsory curriculum is stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "A 2.5 billion dirham mobilisation target and 1.3 billion envelope are named with no startup law, labelling or fund under it stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No technology hub, incubator or park is described; the Jazari institutes are education and industry research."
+    }
+   }
+  }
+ }
+}

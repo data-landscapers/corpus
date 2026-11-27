@@ -1,0 +1,7 @@
+{"slug": "2026-11-26-egy-egypt-s-ict-minister-inaugurates-iqor-delivery-centre-as-company-plans-100m-inve", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government body's AI use is stated; iQor's AI tools are a company's."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No public sector system using AI is stated."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "iQor deploys AI tools in client operations; no model, dataset or AI computing is built or hosted in Egypt."}}},
+"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A BPO delivery centre is not a hub, incubator or technology park for startups."}}}
+}}

@@ -1,0 +1,8 @@
+{"slug": "2025-05-01-sle-building-language-ai-for-sierra-leone-s-indigenous-languages-kuma-rese", "studies": {
+"aisystems": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "DSTI's Kuma page says it built initial Krio and Mende text-to-speech prototypes with audio samples in a playground, an initial Sierra Leonean language model, and a functional Whisper-based speech-to-text pipeline, all below production quality.", "as_of": "2025-05", "date_precision": "month", "system": "Kuma", "class": "localai"}
+], "systems": [{"system": "Kuma", "country_label": "Sierra Leone", "class": "localai", "platform": "fine-tuned CSM-1B, Whisper, XLM-R", "owner": "DSTI, Office of the President", "tiers": ""}], "note": ""}}},
+"egovservices": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "eservices", "aspect": "usage", "value": "published", "fact": "DSTI says its Government Services Portal has 800,000+ SMS/WhatsApp users.", "as_of": "2025-05", "date_precision": "month", "system": "Government Services Portal", "class": "eservices"}
+], "systems": [{"system": "WanGov", "country_label": "Sierra Leone", "class": "eservices", "platform": "", "owner": "DSTI", "tiers": ""}], "note": ""}}}
+}}

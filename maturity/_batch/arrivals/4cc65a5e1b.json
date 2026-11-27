@@ -1,13 +1,162 @@
-{"slug": "2026-11-25-zwe-government-launches-system-to-improve-labour-market-planning", "studies": {
-"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
-"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "AI is mentioned only as a workplace trend to be tracked; no government AI use."}}},
-"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No sector AI tool stated."}}},
-"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in Zimbabwe stated."}}},
-"civilserviceskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on civil servant digital-skills training."}}},
-"datacentres": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The National Data Centre hosts a government platform; no renting to other organisations is stated."}}},
-"dataprotectionlaw": {"countries": {"ZWE": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The ICT minister, speaking at the launch, said management of the labour market information system must follow the Cyber and Data Protection Act, treating it as an applicable law.", "as_of": "2026-11-25", "date_precision": "day", "system": "Cyber and Data Protection Act", "class": "general"}], "systems": [], "note": ""}}},
-"digitalskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only a remark that the system will inform training; no public digital-skills programme stated."}}},
-"egovservices": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "ZLMIS", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Ministry of Public Service, Labour and Social Welfare", "tiers": ""}], "note": "The labour market portal is a statistics platform for policymakers and researchers, not a service people complete online."}}},
-"nationaldatacentres": {"countries": {"ZWE": {"facts": [{"sub_indicator": "national", "aspect": "state", "value": "hosted", "fact": "The ICT ministry says it provided the hosting environment at the National Data Centre for the government's Zimbabwe Labour Market Information System platform and its database.", "as_of": "2026-11-25", "date_precision": "day", "system": "National Data Centre", "class": "datacentre"}], "systems": [{"system": "National Data Centre", "country_label": "Zimbabwe", "class": "datacentre", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""}], "note": ""}}},
-"schoolinternet": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
-}}
+{
+ "slug": "2026-11-25-zwe-government-launches-system-to-improve-labour-market-planning",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Zimbabwe Labour Market Information System (ZLMIS)",
+       "country_label": "ZLMIS",
+       "class": "other",
+       "platform": "portal hosted at the National Data Centre",
+       "owner": "Ministry of Public Service, Labour and Social Welfare; hosted by the ICT ministry",
+       "tiers": "consolidates ZIMSTAT, NSSA and other agency data"
+      }
+     ],
+     "note": "ZLMIS is an information portal; the document does not say published statistics are drawn from administrative records, nor name a source or edition."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "AI is mentioned only as a workplace trend to be tracked; no government AI use."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No sector AI tool stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing built in Zimbabwe stated."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil servant digital-skills training."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The National Data Centre hosts a government platform; no renting to other organisations is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The ICT minister, speaking at the launch, said management of the labour market information system must follow the Cyber and Data Protection Act, treating it as an applicable law.",
+       "as_of": "2026-11-25",
+       "date_precision": "day",
+       "system": "Cyber and Data Protection Act",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a remark that the system will inform training; no public digital-skills programme stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ZLMIS",
+       "country_label": "Zimbabwe",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Public Service, Labour and Social Welfare",
+       "tiers": ""
+      }
+     ],
+     "note": "The labour market portal is a statistics platform for policymakers and researchers, not a service people complete online."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "state",
+       "value": "hosted",
+       "fact": "The ICT ministry says it provided the hosting environment at the National Data Centre for the government's Zimbabwe Labour Market Information System platform and its database.",
+       "as_of": "2026-11-25",
+       "date_precision": "day",
+       "system": "National Data Centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Data Centre",
+       "country_label": "Zimbabwe",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Ministry of ICT, Postal and Courier Services",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
+    }
+   }
+  }
+ }
+}

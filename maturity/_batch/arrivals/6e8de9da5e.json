@@ -1,0 +1,37 @@
+{
+  "slug": "2026-06-18-bfa-ia-le-burkina-se-dote-d-une-feuille-de-route-nationale",
+  "studies": {
+    "aiabuse": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Mentions ethical and responsible AI use only as a roadmap priority; no rule or authority on AI harms stated."}}},
+    "aigovernment": {"countries": {"BFA": {"facts": [], "systems": [], "note": "States no government body using an AI system; only a roadmap on modernising administration."}}},
+    "aisectoral": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Names health only as a domain for ethical AI use in the roadmap; no sectoral AI tool stated."}}},
+    "aistrategy": {"countries": {"BFA": {
+      "facts": [
+        {
+          "sub_indicator": "strategy",
+          "aspect": "standing",
+          "value": "draft",
+          "fact": "The Ministry of Digital Transition says stakeholders from administration, private sector, academia and civil society met at the Virtual University in Ouagadougou on 17 June 2026 and validated the national AI roadmap 2026-2030, drafted by SPIVTEN; no cabinet approval or government launch is stated.",
+          "as_of": "2026-06-17",
+          "date_precision": "day",
+          "system": "Feuille de route nationale de l'intelligence artificielle 2026-2030",
+          "class": "strategy"
+        }
+      ],
+      "systems": [
+        {
+          "system": "Feuille de route nationale de l'intelligence artificielle 2026-2030",
+          "country_label": "Feuille de route nationale de l'IA 2026-2030",
+          "class": "strategy",
+          "platform": "",
+          "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques (SPIVTEN)",
+          "tiers": ""
+        }
+      ],
+      "note": ""
+    }}},
+    "aisystems": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Lists infrastructure and data as roadmap priorities only; no AI model, dataset or computing stated."}}},
+    "cybersecurity": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Mentions ANSSI only as a site link; no strategy, body, incident or designation stated."}}},
+    "internationalbandwidth": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on international fibre routes."}}},
+    "itcapacity": {"countries": {"BFA": {"facts": [], "systems": [], "note": "States no government staff running or building a named system; SPIVTEN drafting a roadmap is not a system."}}}
+  }
+}

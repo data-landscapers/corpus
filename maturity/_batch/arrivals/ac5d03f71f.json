@@ -1,1 +1,88 @@
-{"slug": "2026-11-24-ken-probe-after-hackers-allegedly-breach-ecitizen-steal-millions-of-person", "studies": {"authentication": {"countries": {"KEN": {"facts": [], "systems": [{"system": "eCitizen", "country_label": "Kenya", "class": "other", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": ""}], "note": "Only a security firm's claim that institutions rely on eCitizen to verify users; no authentication service stated."}}}, "egovservices": {"countries": {"KEN": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "The State Department for Immigration and Citizen Services said eCitizen services remain available and the public can continue to access government services as usual.", "as_of": "2026-11-24", "date_precision": "day", "system": "eCitizen", "class": "eservices"}], "systems": [{"system": "eCitizen", "country_label": "Kenya", "class": "eservices", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": ""}], "note": ""}}}, "idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document says nothing on who operates or maintains the national ID system."}}}, "idverification": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only VECERT's warning that institutions relying on eCitizen to verify users could be exposed; no check against the national ID is stated."}}}, "police": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No police station record system is described."}}}}}
+{
+ "slug": "2026-11-24-ken-probe-after-hackers-allegedly-breach-ecitizen-steal-millions-of-person",
+ "studies": {
+  "dataprotectionreadiness": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers the alleged eCitizen breach and says nothing on the data protection law or authority."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "eCitizen",
+       "country_label": "Kenya",
+       "class": "other",
+       "platform": "",
+       "owner": "State Department for Immigration and Citizen Services",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a security firm's claim that institutions rely on eCitizen to verify users; no authentication service stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The State Department for Immigration and Citizen Services said eCitizen services remain available and the public can continue to access government services as usual.",
+       "as_of": "2026-11-24",
+       "date_precision": "day",
+       "system": "eCitizen",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eCitizen",
+       "country_label": "Kenya",
+       "class": "eservices",
+       "platform": "",
+       "owner": "State Department for Immigration and Citizen Services",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on who operates or maintains the national ID system."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only VECERT's warning that institutions relying on eCitizen to verify users could be exposed; no check against the national ID is stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No police station record system is described."
+    }
+   }
+  }
+ }
+}

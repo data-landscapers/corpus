@@ -1,0 +1,31 @@
+{
+  "slug": "2026-11-26-cmr-visa-deepens-central-africa-footprint",
+  "studies": {
+    "businesspayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+    "centralbank": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Cites the central bank's payment services report only for figures; states no mandate, licensing, switch or PAPSS role."}}},
+    "consumerprotection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection rules or redress."}}},
+    "crossborderpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Cross-border payments are named only as room for growth; no corridor or figure stated."}}},
+    "g2ppayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+    "paymentsuptake": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Gives counts of mobile money accounts, not a survey share of adults."}}},
+    "publicconsultation": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on consultation."}}},
+    "retailpayments": {"countries": {"CMR": {
+      "facts": [
+        {
+          "sub_indicator": "retail",
+          "aspect": "service",
+          "value": "inservice",
+          "fact": "The central bank's latest payment services report, as cited by ITWeb Africa, recorded 30.99 million mobile money accounts processing 2.73 billion transactions worth CFA 26,773 billion in Cameroon.",
+          "as_of": "2026-11-26",
+          "date_precision": "day",
+          "system": "mobile money",
+          "class": "retail"
+        }
+      ],
+      "systems": [
+        {"system": "mobile money", "country_label": "Cameroon", "class": "retail", "platform": "", "owner": "", "tiers": ""}
+      ],
+      "note": ""
+    }}},
+    "revenuecollection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on tax or fee payment."}}}
+  }
+}

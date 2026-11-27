@@ -1,0 +1,9 @@
+{"slug": "2026-08-18-lso-dpm-commends-advancing-digital", "studies": {
+"aiabuse": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Mentions risks and an ethical AI policy framework but no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No government AI system in use is stated."}}},
+"aisectoral": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aistrategy": {"countries": {"LSO": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Lesotho's Ministry of Information, Communications, Science, Technology and Innovation hosted a five-day AI Strategy and Data Centre Blueprint workshop with UN support, and the foreign minister spoke of the national AI strategy that the exercise will produce, per the Lesotho News Agency.", "as_of": "2026-08-18", "date_precision": "day", "system": "National AI strategy", "class": "strategy"}], "systems": [{"system": "National AI strategy", "country_label": "Lesotho", "class": "strategy", "platform": "", "owner": "MICSTI", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"LSO": {"facts": [], "systems": [], "note": "A national data centre blueprint is discussed, with no named builder, site or AI computing in service."}}},
+"datacentres": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Only a planned national data centre blueprint; no data centre for hire stated."}}},
+"nationaldatacentres": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Only a planned national data centre blueprint; no data centre in service stated."}}}
+}}

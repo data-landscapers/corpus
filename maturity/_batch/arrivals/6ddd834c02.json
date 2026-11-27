@@ -1,0 +1,18 @@
+{"slug": "2026-09-22-nga-national-ai-innovation-challenge-2026-build-with-n-atlas", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Challenge page states nothing on AI harm rules or authority."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only a prospective priority for government AI pilots; no government body use stated."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Sector fine-tuning is a challenge brief for builders; no public sector system using AI is stated."}}},
+"aisystems": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "The NCAIR challenge page describes N-ATLAS as Nigeria's first open-source, multilingual large language model, fine-tuned from Llama-3 8B, supporting Yoruba, Hausa, Igbo and Nigerian-accented English, with an Automatic Speech Recognition service, and says it is open-source and downloadable.", "as_of": "2026-09-22", "date_precision": "day", "system": "N-ATLAS", "class": "localai"}
+], "systems": [{"system": "N-ATLAS", "country_label": "Nigeria", "class": "localai", "platform": "open-source multilingual LLM and ASR service fine-tuned from Llama-3 8B", "owner": "NCAIR / Federal Ministry of Communications, Innovation and Digital Economy, with Awarri Technologies", "tiers": ""}], "note": "No users counted or AI compute facility stated, so nothing for compute or shared."}}},
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not stated."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not stated."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not stated."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not stated."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not stated."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not stated."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not stated."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not stated."}}},
+"startups": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A build challenge and prize with no startup law, labelling or fund stated."}}},
+"techhubs": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Mentions ONDI incubation support as a prize only; no hub programme or cohort stated."}}}
+}}

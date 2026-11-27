@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-25-zwe-ta-to-develop-national-health-data-ingestion-fhir-integration-and-etl-",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Health Data Warehouse ingestion (FHIR/REST, ETL/ELT)",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "MoHCC",
+   "tiers": ""
+  }
+ ],
+ "note": "An open UNDP tender for data ingestion into a warehouse; not a health management information system procured, piloted or in service."
+}

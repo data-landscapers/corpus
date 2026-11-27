@@ -1,0 +1,225 @@
+{
+ "slug": "2026-05-03-tza-government-develops-kiswahili-ai-model",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Minister Angellah Kairuki told parliament the government, through the ICT Commission, is in the final stages of developing a Swahili Large Language Model, with stakeholders collaborating, and not yet released.",
+       "as_of": "2026-05-03",
+       "date_precision": "day",
+       "system": "Swahili Large Language Model",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Swahili Large Language Model",
+       "country_label": "Tanzania",
+       "class": "localai",
+       "platform": "",
+       "owner": "ICT Commission (ICTC)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Internet users figure (58.9 million) is a ministry count of users, not a share of population from a survey or the ITU; not used."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Minister Angellah Kairuki told parliament mobile money transactions rose from 476.7 million in July 2025 to 742.7 million in March 2026, and mobile money users from 66.5 million to 81.0 million.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Tanzania."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,13 @@
+{"slug": "2026-08-01-mus-myt-ai-cloud-and-the-shape-of-a-sovereign-platform", "studies": {
+"aisystems": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "localai", "aspect": "compute", "value": "compute", "fact": "At the July 2026 allmyt Summit Mauritius Telecom's CEO Veemal Gungadin said H200 GPUs were already available in the company's data centre in Mauritius, as reported by devfactory.mu.", "as_of": "2026-07", "date_precision": "month", "system": "myt AI Cloud", "class": "localai"},
+{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "devfactory.mu observed on 8 August 2026 that Mauritius Telecom's public myt AI Cloud catalogue lists seven models, including its own myt_asr speech-to-text and myt_tts text-to-speech services, with H200 compute in Mauritius behind the platform.", "as_of": "2026-08-08", "date_precision": "day", "system": "myt AI Cloud", "class": "localai"}
+], "systems": [{"system": "myt AI Cloud", "country_label": "Mauritius", "class": "localai", "platform": "multi-model AI API with OpenAI-compatible endpoint", "owner": "Mauritius Telecom", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The Mauritius Telecom data centre is named only as hosting H200 GPUs; the document does not say it rents space or computing to others."}}},
+"datalocalisation": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No rule that data must be kept in the country is stated."}}},
+"digitalsovereignty": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only a company's sovereignty framing and an unproven residency claim; nothing on state data rules, hosting or contract terms."}}},
+"nationaldatacentres": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No statement that a data centre for hire is nationally owned or Tier rated."}}},
+"offsitebackup": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on government backup sites."}}},
+"startups": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Mentions startups only as potential customers; no startup law, labelling or fund."}}},
+"techhubs": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No hub, incubator or park is described."}}}
+}}

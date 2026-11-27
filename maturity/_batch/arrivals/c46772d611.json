@@ -1,0 +1,16 @@
+{"slug": "2026-02-23-rwa-why-rwanda-s-ai-innovators-are-struggling-to-scale", "studies": {
+"aiabuse": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on AI harm rules or an authority."}}},
+"aigovernment": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states no government use of AI."}}},
+"aisectoral": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states no AI in a public sector system."}}},
+"aisystems": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Techinika (republishing The New Times) reports Yali Labs has spent close to US$0.5 million training a Kinyarwanda large language model on external GPUs and has not yet got the accurate model it wanted.", "as_of": "2026-02-23", "date_precision": "day", "system": "Yali Labs Kinyarwanda LLM", "class": "localai"}
+], "systems": [{"system": "Yali Labs Kinyarwanda LLM", "country_label": "Rwanda", "class": "localai", "platform": "", "owner": "Yali Labs", "tiers": ""}], "note": "No local GPUs ('We don't have our own GPUs here'), so no compute or shared fact."}}},
+"dataexchange": {"countries": {"RWA": {"facts": [], "systems": [{"system": "Centralized Data Sharing Platform", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "Ministry of ICT and Innovation", "tiers": ""}], "note": "The Centralized Data Sharing Platform in final development lets startups and researchers request public datasets; the document does not say it carries data between public bodies' systems."}}},
+"datagovernance": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The Ministry of ICT and Innovation says a National Data Sharing Policy was approved in 2025, giving a legal framework for data exchange between public institutions.", "as_of": "2025", "date_precision": "year", "system": "National Data Sharing Policy", "class": "policy"}
+], "systems": [], "note": "Data Governance Unit is not tied by the document to the policy's implementation, so no use fact."}}},
+"dataprotectionlaw": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document mentions only compliance with data protection laws in passing; states nothing on the law."}}},
+"interoperabilitylaw": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only a policy is named, no law or decree on public bodies sharing data."}}},
+"startups": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on startup law, labelling or public funds."}}},
+"techhubs": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document states nothing on hubs, incubators or parks."}}}
+}}

@@ -1,0 +1,8 @@
+{"slug": "2026-05-28-som-somalia-drives-ai-governance-agenda-with-national-readiness-assessment", "studies": {
+"aiabuse": {"countries": {"SOM": {"facts": [], "systems": [], "note": "States nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"SOM": {"facts": [], "systems": [], "note": "States no government body using AI."}}},
+"aisectoral": {"countries": {"SOM": {"facts": [], "systems": [], "note": "States no AI tool in a sector's public system."}}},
+"aistrategy": {"countries": {"SOM": {"facts": [], "systems": [{"system": "AI Readiness Assessment", "country_label": "Somalia", "class": "other", "platform": "", "owner": "Ministry of Communications and Technology with UNESCO", "tiers": ""}], "note": "A UNESCO readiness assessment under way as the basis for a future policy framework; no strategy drafting is stated, so it is noted only."}}},
+"aisystems": {"countries": {"SOM": {"facts": [], "systems": [], "note": "States no AI model, dataset or AI computing built or hosted in the country."}}},
+"internationalstandards": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Mentions alignment with international standards only in general terms; no membership, adopted standard or rule is stated."}}}
+}}

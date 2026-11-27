@@ -1,0 +1,8 @@
+{"slug": "2026-11-26-swz-eswatini-trains-40-police-officers-on-responsible-use-of-ai-to-strengthen-law-en", "studies": {
+"aiabuse": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Awareness training on AI-enabled crime for police; no rule, authority or enforcement on AI harms stated."}}},
+"aigovernment": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "A training course for police officers; no government AI system in use is stated."}}},
+"aisectoral": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "A training course; no AI tool in a sector's public system is stated."}}},
+"aisystems": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "A training course run by the UNESWA AI Academy; no model, dataset or AI computing is stated."}}},
+"cybersecurity": {"countries": {"SWZ": {"facts": [], "systems": [{"system": "National Cybersecurity Incident Response Team (ESCCOM)", "country_label": "ESCCOM National Cybersecurity Incident Response Team", "class": "other", "platform": "", "owner": "Eswatini Communications Commission", "tiers": ""}], "note": "Names the national CIRT only as the provider of a training course; no creation, incident response, designation or figures stated."}}},
+"police": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "AI awareness training for a police unit; no station record system is stated."}}}
+}}

@@ -1,0 +1,8 @@
+{"slug": "2026-11-13-gha-ghana-s-250m-ai-centre-to-focus-on-practical-applications-not-rival-us", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government body is stated to pilot or use an AI system; the centre is planned."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Healthcare AI is an intention only, no tool is piloted or in service."}}},
+"aisystems": {"countries": {"GHA": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Finance Minister Ato Forson said the 2027 Budget presented on 12 November 2026 allocates US$300 million over 2027-2028 to establish a National AI Centre (with a rural 2G-to-4G upgrade), to provide shared high-performance computing, secure data environments and model-testing infrastructure.", "as_of": "2026-11-12", "date_precision": "day", "system": "National AI Centre", "class": "localai"}], "systems": [{"system": "National AI Centre", "country_label": "Ghana", "class": "localai", "platform": "", "owner": "Government of Ghana (Ministry of Finance budget)", "tiers": ""}], "note": ""}}},
+"startups": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Centre support for start-ups is a plan, not a startup law, label or fund."}}},
+"techhubs": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No hub, incubator or park with programmes is stated."}}}
+}}

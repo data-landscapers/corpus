@@ -1,0 +1,43 @@
+{
+  "slug": "2026-07-31-cod-rdc-le-projet-de-strategie-nationale-de-l-intelligence-artificielle-va",
+  "studies": {
+    "aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document states no rule or authority on AI harms."}}},
+    "aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document states no government body using an AI system."}}},
+    "aisectoral": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document states no AI tool in a public sector system."}}},
+    "aistrategy": {"countries": {"COD": {
+      "facts": [
+        {
+          "sub_indicator": "strategy",
+          "aspect": "standing",
+          "value": "draft",
+          "fact": "Hi-Tech Afrique TV reports that participants at a technical workshop run by the Ministry of Digital Economy in Kinshasa validated, subject to amendments, the draft national AI strategy (SNIA-RDC), built on four pillars with World Bank support.",
+          "as_of": "2026-07",
+          "date_precision": "month",
+          "system": "SNIA-RDC",
+          "class": "strategy"
+        }
+      ],
+      "systems": [
+        {"system": "SNIA-RDC (Stratégie nationale de l'intelligence artificielle)", "country_label": "RDC", "class": "strategy", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": ""}
+      ],
+      "note": ""
+    }}},
+    "aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document states no AI model, dataset or AI computing built or hosted in the country."}}},
+    "publicconsultation": {"countries": {"COD": {
+      "facts": [
+        {
+          "sub_indicator": "consultation",
+          "aspect": "hearing",
+          "value": "held",
+          "fact": "Hi-Tech Afrique TV reports that the Ministry of Digital Economy's 23-27 July 2026 technical workshop on the draft national AI strategy in Kinshasa brought together national experts, public institutions, the private sector, academia and civil society.",
+          "as_of": "2026-07",
+          "date_precision": "month",
+          "system": "SNIA-RDC",
+          "class": "consultation"
+        }
+      ],
+      "systems": [],
+      "note": ""
+    }}}
+  }
+}

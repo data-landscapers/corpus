@@ -1,3 +1,41 @@
-{"slug": "2026-11-23-com-alwatwan-anaden-pnud-evaluation-preparation-numerique", "studies": {
-"digitalstrategy": {"countries": {"COM": {"facts": [], "systems": [], "note": "Anaden and UNDP launched a Digital Readiness Assessment on 19 November 2026; it is a diagnostic, and no national digital strategy is stated."}}}
-}}
+{
+ "slug": "2026-11-23-com-alwatwan-anaden-pnud-evaluation-preparation-numerique",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital Readiness Assessment (DRA)",
+       "country_label": "Comores",
+       "class": "other",
+       "platform": "",
+       "owner": "Anaden and UNDP",
+       "tiers": ""
+      }
+     ],
+     "note": "Document concerns a UNDP digital readiness assessment; it names no AI strategy."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "No national data policy mentioned."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Anaden and UNDP launched a Digital Readiness Assessment on 19 November 2026; it is a diagnostic, and no national digital strategy is stated."
+    }
+   }
+  }
+ }
+}

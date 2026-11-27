@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-som-datasets-somast",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Somali NLP Corpus (Somast datasets)",
+   "country_label": "somast.so/en/datasets; huggingface.co/datasets/somast/somali-nlp-corpus",
+   "class": "other",
+   "platform": "Hugging Face",
+   "owner": "Somast",
+   "tiers": ""
+  }
+ ],
+ "note": "Page does not say Somast is a public body, so its datasets are not a public body's open data."
+}
