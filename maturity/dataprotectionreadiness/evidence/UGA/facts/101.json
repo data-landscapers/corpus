@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-26-uga-eight-government-institutions-fail-data-protection-audit",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Uganda's Personal Data Protection Office, led by Director Baker Birikujja, is operating and presented audit findings on 15 government bodies.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The Personal Data Protection Office audited 15 government bodies between November 2025 and April 2026 and launched an audit and inspection manual.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": "The document does not state that a law is in force or any ratification."
+}

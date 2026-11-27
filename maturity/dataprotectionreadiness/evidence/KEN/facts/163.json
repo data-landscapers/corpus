@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-25-ken-kenya-investigates-740gb-breach-claim",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "fact": "ITWeb Africa reports the Office of the Data Protection Commissioner issued an enforcement notice to the Business Registration Service over a breach exposing records of more than two million businesses, BRS complied, and the case was closed without a fine.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "ITWeb Africa reports the Office of the Data Protection Commissioner investigated a Business Registration Service breach and closed it after an enforcement notice.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
