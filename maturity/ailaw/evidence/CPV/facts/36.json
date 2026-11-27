@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-12-cpv-aila-ai-readiness-diagnostic-validation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National AI Diagnostic (AILA)",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "DGTED with UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": "A readiness diagnostic noting legislation gaps in general terms; no law, draft or statement of absence is stated."
+}
