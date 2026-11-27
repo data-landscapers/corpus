@@ -23,10 +23,10 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 | 5 Mature | 0 |
 | 4 Operating | 0 |
 | 3 Established | 8 |
-| 2 Nascent | 11 |
-| 1 Absent | 24 |
+| 2 Nascent | 14 |
+| 1 Absent | 22 |
 | Unplaced | 0 |
-| No evidence | 11 |
+| No evidence | 10 |
 
 ## Countries
 
@@ -127,6 +127,26 @@ An AI bill has been before the Senate since early 2026, its committee advising a
 - The Star reports the Senate ICT Committee recommended the Senate not proceed with the Artificial Intelligence Bill, 2026, sponsored by Senator Karen Nyamu and introduced in April, which seeks a comprehensive legal framework for AI; the article gives no date for the report, so its publication date is used ([source, 2026-10-15](https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai)).
 - CIPESA's 24 September 2026 article refers to the AI Bill, 2026 as proposing a Commissioner-maintained public register of high-risk AI models and as addressing synthetic political content, and to a prospective AI Commissioner; the article gives no tabling date, so the date is its publication date ([source, 2026-09-24](https://cipesa.org/2026/09/cipesa-weighs-in-on-kenyas-draft-guidance-notes-on-ai-and-emerging-technologies/)).
 - CIPIT states that Kenya is in the process of drafting an AI Bill, 2026, whose main objective is a framework for the regulation and governance of AI; dated by its publication date ([source, 2026-09-15](https://cipit.strathmore.edu/artificial-intelligence-in-east-africas-public-sector-ai-adoption-and-regulatory-preparedness-within-east-africa/)).
+
+### Lesotho: 2 Nascent
+
+A proposed AI bill was reported in 2025, not yet tabled; no AI rule is known to be in force.
+
+- Analyst Sekatle Sekatle writes that Lesotho has a proposed Artificial Intelligence Bill (cited to Government of Lesotho, 2025) not yet tabled, and urges the government to table it ([source, 2025-05-22](https://www.meig.ch/highlight-26-2025-why-strengthening-information-governance-is-crucial-how-good-intentions-can-compromise-personal-data-and-human-rights/)).
+
+### Mozambique: 2 Nascent
+
+The education minister said in September 2026 that a law on AI in schools was almost ready; no AI rule is known in force.
+
+- Mozambique's education ministry coordinating council positively appraised a proposed 19-article, four-chapter text of guidelines on AI use in schools (excluding higher education), which is still to be refined before being formalised as a Joint Ministerial Diploma with the labour, gender and social action ministry ([source, 2026-10-16](https://moztoday.com/arquivo/7986)).
+- Education and Culture Minister Samaria Tovela said on 2026-09-16 that the law to regulate the use of artificial intelligence in education, covering all institutions from primary school to higher education, is almost ready and will go to the Council of Ministers for approval before the end of 2026 ([source, 2026-09-16](https://integritymagazine.co.mz/arquivos/69322)).
+
+### Namibia: 2 Nascent
+
+The ICT ministry said in 2025 it had drafted an AI bill; none was introduced by August 2026, and no AI rule is in force.
+
+- New Era reports that ICT Minister Emma Theofelus told Parliament Namibia is developing an Artificial Intelligence Act, and that the ministry has already developed a draft bill, per its director Frans Nghitila ([source, 2025-09](https://neweralive.na/ai-law-on-the-cards/)).
+- The Speaker of the National Assembly said Namibia is finalising a Draft Artificial Intelligence Bill ([source, 2025-06-04](https://thebrief.com.na/2025/06/namibia-finalising-ai-data-security-laws/)).
 
 ### Seychelles: 2 Nascent
 
@@ -239,20 +259,6 @@ In 2025 Malawi had passed no dedicated AI law; an AI bill is announced but no dr
 
 - Higher Education Minister Jessie Kabwila acknowledged that Malawi has not yet passed a dedicated AI law ([source, 2025-06-25](https://www.maravipost.com/malawis-higher-education-minister-dr-kabwila-reaffirms-govt-commitment-on-ethical-inclusive-ai-development/)).
 
-### Mozambique: 1 Absent
-
-In August 2026 an official said Mozambique has no AI legislation; an education AI law was still being written in September.
-
-- INTIC board chairman Lourino Chemane said at a Maputo roundtable that Mozambique does not yet have specific legislation governing artificial intelligence; he called for a dedicated AI legal framework and mentioned only a planned proposal for an Online Copyright Protection Act next year, with no AI draft named ([source, 2026-08-17](https://360mozambique.com/innovation/tech/intic-drafts-copyright-and-ai-legislation-to-protect-digital-creators/)).
-- UNESCO's Readiness Assessment profile says Mozambique has no specific AI legislation, with the Ministry of Science, Technology and Higher Education leading development of national AI policies ([source, 2025-12](https://www.unesco.org/ethics-ai/en/mozambique)).
-
-### Namibia: 1 Absent
-
-The minister said in August 2026 that no AI legislation has been introduced; a strategy comes first.
-
-- ITWeb Africa reports the ICT minister saying government has prioritised a national AI strategy before introducing legislation, so no AI legislation has yet been introduced; the document's own date, 2026-08-05, is used ([source, 2026-08-05](https://itweb.africa/article/namibia-taps-deloitte-for-ai/KzQenMjyxWY7Zd2r)).
-- Tech Africa News reports the ICT minister saying at a 3 August 2026 meeting that government has prioritised a national AI strategy before introducing legislation, so no AI legislation has yet been introduced ([source, 2026-08-03](https://techafricanews.com/2026/08/05/namibia-and-deloitte-discuss-ai-strategy-and-digital-infrastructure-development/)).
-
 ### Rwanda: 1 Absent
 
 A review of September 2026 says Rwanda has no AI act and relies on its 2023 AI policy; no draft is named.
@@ -330,12 +336,6 @@ Nothing found names a law or binding rule on AI, or a draft of one, or says ther
 Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Guinea-Bissau: No evidence
-
-Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### Lesotho: No evidence
 
 Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 

@@ -2,8 +2,8 @@
 type: task
 reader: cc
 title: maturity-study-ailaw.md — the twenty-third maturity study: the law or binding rule on artificial intelligence, in four questions
-last_reviewed: 2026-10-12
-status: run on Bill's word of 2026-10-12; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
+last_reviewed: 2026-11-27
+status: run on Bill's word of 2026-10-12; staged, written and on the soft-launch map as at 2026-09-30; ruling 171 applied 2026-11-27
 ---
 
 # Maturity study: ailaw
@@ -28,7 +28,7 @@ Asked in order. Each is answered with a date and a link.
 
 | # | Question | A yes is |
 |---|---|---|
-| 1 | Is there a law or binding rule on AI, or a draft of one? | A bill, draft decree or draft regulation published, before parliament or cabinet, or passed, or a law, decree or regulation made. A stated intention to legislate, with no draft begun, is not a yes |
+| 1 | Is there a law or binding rule on AI, or a draft of one? | A bill, draft decree or draft regulation begun in a ministry, published, before parliament or cabinet, or passed, or a law, decree or regulation made. A stated intention to legislate, with no draft begun, is not a yes |
 | 2 | Is a binding rule on AI in force? | A law, decree or regulation in force that names AI and sets a rule for it, in one sector or for one use or across all. A bill or draft is not a yes |
 | 3 | Is there a law in force on AI itself, and not only for one sector or one use? | An AI act, decree or regulation in force that applies to AI across sectors |
 | 4 | Has that law been applied in the last three years? | A dated regulation or order made under it, or a dated registration, licence, decision or penalty by the body it names |
@@ -52,6 +52,7 @@ Asked in order. Each is answered with a date and a link.
 - **A rule for one sector or one use is a yes to question 2 and no more**: AI in higher education, in broadcasting, in elections, in banking. It must name AI.
 - **A data protection law's rule on automated decisions places nothing**, and is noted: it is the data protection law row's. This is one change from the row as it stands, which places Cabo Verde at stage 3 on one.
 - **A strategy, a policy or ethics guidelines place nothing**, however detailed: they are the AI strategy row's. A strategy that sets out a timetable for a law is not a draft. This is a second change: the row's stage 2 counts guidance without legal effect, and places Libya and Guinea at stage 3 on a strategy and a summit.
+- **A text begun in a ministry is a draft** *(Bill, message 171)*: a law or regulation a source says is being written, drafted, prepared or finalised, or a draft the ministry holds, is a yes to question 1 though it is not yet published, out for consultation or before cabinet. A plan or promise to legislate, or work said to have begun on a legal framework with no text, is still not a yes.
 - **A consultation or a gap analysis is a yes to question 1 only where a draft text is named.**
 - **A private member's bill counts as a bill** while it is before parliament.
 - **A law passed but not yet in effect is a yes to question 2**, and the summary gives the date it starts.
@@ -83,6 +84,7 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 - [x] **D2. Read**: the 129 stories in 49 calls and the 166 cited in 57; then one call each for 14 countries with no answer whose held news names an AI law twice or more, and the Seychelles act's passages. 57 facts held.
 - [x] **D3. Staged**: six at stage 3, six at 2, nine at 1, none at 4 or 5, and 33 with no evidence, as at 2026-09-30; six facts removed by the parent (`corrections.csv`); agreement 20 of 20.
 - [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-12.
+- [x] **D6. Bill's ruling 171 applied**, 2026-11-27: §2 and §3. A text begun in a ministry is a draft. Three cells restaged `--kind ruling`: Mozambique 1 to 2 (the education law being written), Namibia 1 to 2 (the draft bill the ICT ministry holds) and Lesotho from no evidence to 2 (a proposed bill not yet tabled); the drafts removed on 2026-10-21 and 2026-10-22 are restored. Malawi's bill, only announced, stays at 1.
 
 **Decided in the run**:
 

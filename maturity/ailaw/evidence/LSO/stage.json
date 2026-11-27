@@ -1,16 +1,17 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "no evidence",
-   "standing": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-ailaw.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "2",
+      "standing": "draft",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-001",
+      "gaps": "No source found says a law, decree or regulation that sets a rule for AI is in force.",
+      "note": "An analyst wrote in May 2025 that Lesotho has a proposed AI Bill, cited to the government and not yet tabled: a text begun in government is a draft (ruling 171). No rule on AI in force is on record, so not 3.",
+      "as_at": "2026-11-27"
+    }
+  ]
 }

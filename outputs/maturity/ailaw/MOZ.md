@@ -8,4 +8,4 @@
 
 ***Also on file***. [National Artificial Intelligence Strategy](<https://360mozambique.com/innovation/tech/intic-drafts-copyright-and-ai-legislation-to-protect-digital-creators/>). [Online Copyright Protection Act (planned proposal)](<https://360mozambique.com/innovation/tech/intic-drafts-copyright-and-ai-legislation-to-protect-digital-creators/>). [National Intellectual Property Policy and Strategy (PEPI) 2026-2035](<https://patentlawyermagazine.com/mozambique-to-examine-ai-patentability-under-new-national-intellectual-property-strategy/>). [Intellectual Property Policy and Strategy (PEPI) 2026-2035](<https://360mozambique.com/development/mozambique-approves-ip-strategy-to-study-ai-patentability-and-digital-rights/>).
 
-***Not found***. No draft of the education law has been found published, out for consultation or before the Council of Ministers.
+***Not found***. No source says the education law or the school guidelines have been published, put out for consultation or adopted, or that any rule on AI is in force.

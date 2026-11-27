@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "1",
-      "standing": "none",
+      "stage": "2",
+      "standing": "draft",
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-001;MOZ-004",
-      "gaps": "The education minister said in September 2026 that a law on AI in education was being written and would go to the Council of Ministers; no draft text has been found published, out for consultation or before cabinet.",
-      "note": "In August 2026 the ICT institute's chairman said Mozambique has no AI legislation and named no draft. The education law was still being written in September 2026, and a law only announced or in preparation is not a draft on the ladder's wording.",
-      "as_at": "2026-11-25"
+      "stage_sources": "MOZ-005;MOZ-003",
+      "gaps": "No source found says a law, decree or regulation that sets a rule for AI is in force.",
+      "note": "The education minister said in September 2026 that the law on AI in education was almost ready for the Council of Ministers, and in October the ministry's council appraised draft guidelines for schools: texts begun in a ministry are drafts (ruling 171). No rule on AI is in force, so not 3.",
+      "as_at": "2026-11-27"
     }
   ]
 }

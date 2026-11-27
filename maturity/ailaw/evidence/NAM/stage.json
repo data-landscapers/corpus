@@ -1,16 +1,17 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "1",
-   "standing": "none",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-003;NAM-004",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-ailaw.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "2",
+      "standing": "draft",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-005;NAM-006",
+      "gaps": "No source found says a law, decree or regulation that sets a rule for AI is in force.",
+      "note": "The ICT ministry said in September 2025 that it had developed a draft AI bill, which the Speaker had said in June was being finalised: a text begun in a ministry is a draft (ruling 171). The minister's word of August 2026 that no legislation has been introduced does not undo it, and no rule is in force, so not 3.",
+      "as_at": "2026-11-27"
+    }
+  ]
 }
