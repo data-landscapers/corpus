@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The National Education Census Summary Report 2023 gives enrolment, teacher and school figures from the 2023 Annual Education Census of schools run by the Ministry of General Education and Instruction, whose data collection started in October 2023; the report states no publication date, so it cannot predate October 2023.",
+ "title": "National Education Census Summary Report 2023",
+ "publisher": "Ministry of General Education and Instruction",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

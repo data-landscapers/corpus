@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Ministry of Health's Annual Vital Statistics Report 2023, validated at a meeting in February 2024, reports 1,553 live births and 879 deaths registered in 2023 from Department of Civil Status records.",
+ "title": "Annual Vital Statistics Report 2023",
+ "publisher": "Ministry of Health, Seychelles",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

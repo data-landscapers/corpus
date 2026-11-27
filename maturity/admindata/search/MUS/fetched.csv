@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://statsmauritius.govmu.org/Pages/Statistics/ESI/Population/Pop_Vital_Yr25.aspx,fetched,,scripts/.workroot/study/admindata/cache/MUS/1.txt,327,html,"// <![CDATA[ _spBodyOnLoadFunctionNames.push(""setupPageDescriptionCallout""); // ]]>"
+2,https://statsmauritius.govmu.org/Documents/Statistics/ESI/2025/EI1842/Pop_Vital_Yr24_110325.pdf,held,held as raw/2025/2025-03-11-mus-population-and-vital-statistics-republic-of-mauritius-year-2024-econom.md,,0,,
+3,https://statsmauritius.govmu.org/Pages/Statistics/ESI/Population/Pop_Vital_Yr23.aspx,fetched,,scripts/.workroot/study/admindata/cache/MUS/3.txt,322,html,"// <![CDATA[ _spBodyOnLoadFunctionNames.push(""setupPageDescriptionCallout""); // ]]>"
+4,https://statsmauritius.govmu.org/Pages/Statistics/ESI/Transport/RT_RTA_Yr25.aspx,fetched,,scripts/.workroot/study/admindata/cache/MUS/4.txt,206,html,"// <![CDATA[ _spBodyOnLoadFunctionNames.push(""setupPageDescriptionCallout""); // ]]>"
+5,https://statsmauritius.govmu.org/Documents/Statistics/ESI/2025/EI1848/RT_RTA_Yr24_270325.pdf,fetched,,scripts/.workroot/study/admindata/cache/MUS/5.txt,3150,pdf,
+6,https://statsmauritius.govmu.org/Pages/Statistics/By_Subject/CJS/SB_CJS.aspx,fetched,,scripts/.workroot/study/admindata/cache/MUS/6.txt,168,html,"SB_CJS // <![CDATA[ _spBodyOnLoadFunctionNames.push(""setupPageDescriptionCallout""); // ]]>"
+7,https://statsmauritius.govmu.org/Pages/Statistics/ESI/CJS/CJS_Yr25.aspx,fetched,,scripts/.workroot/study/admindata/cache/MUS/7.txt,620,html,"// <![CDATA[ _spBodyOnLoadFunctionNames.push(""setupPageDescriptionCallout""); // ]]>"
+8,https://health.govmu.org/health/wp-content/uploads/2025/12/Health-Statistics-Report-2024.pdf,held,held as raw/2025/2025-11-01-mus-health-statistics-report-2024.md,,0,,

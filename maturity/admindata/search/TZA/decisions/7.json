@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The January-December 2024 crime and traffic incidents report is compiled by the Tanzania Police Force statistics unit from data received from all police stations, giving 3,721,287 cases in 2024 against 3,778,908 in 2023; the document carries no publication date and the April 2025 date is from NBS's listing page.",
+ "title": "Crime and Traffic Incidents Statistics January - December 2024",
+ "publisher": "Tanzania Police Force / National Bureau of Statistics",
+ "published": "2025-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

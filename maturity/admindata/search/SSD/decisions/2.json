@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "The 2025 Health Statistics Abstract, the inaugural edition covering 2021 to 2024 with 2025 service-delivery indicators, presents routine health facility data from DHIS2 for selected indicators by state, alongside modelled estimates, with reporting completeness of about 60 percent.",
+ "title": "2025 Health Statistics Abstract",
+ "publisher": "Republic of South Sudan, Ministry of Health",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

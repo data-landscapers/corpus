@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "School Realities 2025, published February 2026, reports 13 596 869 learners in 24 766 schools from databases uploaded to LURITS and provincial data warehouses as at July 2025, with 2023 and 2024 comparisons from earlier School Realities editions.",
+ "title": "School Realities 2025",
+ "publisher": "Department of Basic Education",
+ "published": "2026-02",
+ "date_source": "source",
+ "why_not": ""
+}

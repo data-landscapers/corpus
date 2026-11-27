@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The NBS Population and Vital Statistics December 2023 bulletin, released 1 March 2024, reports 1,553 births and 879 deaths registered in 2023, stating the figures are obtained from the Civil Status office; the December 2024 edition follows the same series.",
+ "title": "Population and Vital Statistics December 2023",
+ "publisher": "National Bureau of Statistics Seychelles",
+ "published": "2024-03-01",
+ "date_source": "source",
+ "why_not": ""
+}

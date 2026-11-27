@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Ministry of Health's Annual Vital Statistics Report 2025, dated April 2026, reports 830 deaths registered in Seychelles in 2025 from Department of Civil Status records cross-verified with hospital records.",
+ "title": "Annual Vital Statistics Report 2025",
+ "publisher": "Ministry of Health, Seychelles",
+ "published": "2026-04",
+ "date_source": "source",
+ "why_not": ""
+}

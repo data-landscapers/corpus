@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source;series",
+ "fact": "The Central Bank of Sudan's Foreign Trade Statistical Digest, January-December 2024 (Issue 1, Volume 60), states that its foreign trade statistics are derived from export and import data recorded at all customs stations across Sudan, with tables sourced to the Sudan Customs Authority.",
+ "title": "Foreign Trade Statistical Digest, January-December 2024",
+ "publisher": "Central Bank of Sudan",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

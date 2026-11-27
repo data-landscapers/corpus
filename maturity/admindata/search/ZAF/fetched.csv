@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.statssa.gov.za/publications/P03093/P030932024.pdf,held,held as raw/2026/2026-09-22-zaf-mortality-and-causes-of-death-in-south-africa-findings-from-death-noti.md,,0,,
+2,https://www.statssa.gov.za/publications/P03093/P030932023.pdf,held,held as raw/2026/2026-03-25-zaf-mortality-and-causes-of-death-in-south-africa-findings-from-death-noti.md,,0,,
+3,https://www.statssa.gov.za/publications/P0305/P03052024.pdf,held,held as raw/2025/2025-10-30-zaf-recorded-live-births-2024-statistical-release-p0305.md,,0,,
+4,https://www.statssa.gov.za/publications/P0305/P03052023.pdf,fetched,,scripts/.workroot/study/admindata/cache/ZAF/4.txt,10952,pdf,
+5,https://www.sars.gov.za/latest-news/media-release-joint-media-statement-national-treasury-and-the-south-african-revenue-service-on-the-release-of-the-18th-annual-edition-of-tax-statistics/,fetched,,scripts/.workroot/study/admindata/cache/ZAF/5.txt,1171,html,Media release - Joint media statement National Treasury and the South African Revenue Service on the release of the 18th annual edition of Tax Statistics | South African Revenue Service
+6,https://www.sars.gov.za/wp-content/uploads/Docs/TaxStats/2024/Tax-Statistics-2024.pdf,held,held as raw/2024/2024-12-01-zaf-tax-statistics-2024.md,,0,,
+7,https://www.education.gov.za/Portals/0/Documents/Publications/2026/School%20Realities%20February%202025.pdf,fetched,,scripts/.workroot/study/admindata/cache/ZAF/7.txt,5180,pdf,
+8,https://www.statssa.gov.za/publications/AnnualReport/AR_BOOK12024_2025.pdf,fetched,,scripts/.workroot/study/admindata/cache/ZAF/8.txt,55037,pdf,

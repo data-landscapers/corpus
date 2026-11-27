@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://mozdata.ine.gov.mz/index.php/catalog/119/pdf-documentation,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+2,https://mozdata.ine.gov.mz/index.php/catalog/119/download/958,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+3,https://dossiersefactos.com/2026/08/28/mocambique-falha-registo-de-9-em-cada-10-bebes-que-nascem/,held,held as raw/2026/2026-08-28-moz-ine-mocambique-falha-registo-de-9-em-cada-10-bebes-que-nascem.md,,0,,
+4,https://www.unicef.org/innocenti/media/13591/file/UNICEF-Innocenti-CRVS-climate-Mozambique-case-study-2026.pdf,held,held as raw/2026/2026-01-01-moz-securing-and-adapting-birth-registration-systems-in-response-to-climat.md,,0,,
+5,https://www.ine.gov.mz/web/guest/d/relatorio-de-estatisticas-vitais-2021-2022,fetched,,scripts/.workroot/study/admindata/cache/MOZ/5.txt,40,html,Relatório de Estatísticas Vitais 2021-2022
+6,https://statafric.au.int/en/news/press-releases/2025-01-10/transforming-mozambiques-national-statistical-system-peer-review,fetched,,scripts/.workroot/study/admindata/cache/MOZ/6.txt,371,html,TRANSFORMING MOZAMBIQUE'S NATIONAL STATISTICAL SYSTEM: PEER REVIEW REPORT NOW AVAILABLE
+7,https://unstats.un.org/unsd/envstats/Compendia/Mozambique_Environmental_Statistics_2024_Portuguese.pdf,held,held as raw/2025/2025-08-01-moz-estatisticas-do-ambiente-2024.md,,0,,
+8,https://biblioteca.unisced.edu.mz/items/0f297a28-62f5-4ba4-973a-0abd821e96d9/full,fetched,,scripts/.workroot/study/admindata/cache/MOZ/8.txt,165,html,Anuário Estatístico 2023- Moçambique

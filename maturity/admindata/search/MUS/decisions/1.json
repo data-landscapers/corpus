@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "admin",
+ "aspect": "use;source",
+ "fact": "Statistics Mauritius published Population and Vital Statistics, Year 2025, on 11 March 2026, reporting 13,250 live births, 12,685 deaths and 7,715 marriages registered in 2025.",
+ "title": "Population and Vital Statistics - Republic of Mauritius, Year 2025",
+ "publisher": "Statistics Mauritius",
+ "published": "2026-03-11",
+ "date_source": "source",
+ "why_not": ""
+}
