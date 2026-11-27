@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: infra.cybersec
 places: DZA; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; ZMB; ZWE
-record: b628b8df9701
+record: b700bcc4ca42
 ---
 
 # News, Oct – Nov 2026
@@ -1207,6 +1207,20 @@ South Africa's GCIS told applicants that its e-recruitment system had been compr
 **[Accommodation booking platform LekkeSlaap suffers cyber attack](https://www.itweb.co.za/article/accommodation-booking-platform-lekkeslaap-suffers-cyber-attack/KBpdgvpmwV47LEew)** — ITWeb South Africa, 6 November 2026
 
 South African booking platform LekkeSlaap told guests on 6 November 2026 that their names, e-mail addresses, phone numbers and booking references were accessed through its calendar-syncing system. It says no payment data, ID numbers or passwords were taken and warns of phishing. The notice follows a separate breach at accommodation-technology provider NightsBridge days earlier.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SA Home Loans breach</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SA Home Loans hit by second data breach](https://www.itweb.co.za/article/sa-home-loans-hit-by-second-data-breach/j5alrvQAXBzvpYQk)** — ITWeb South Africa, 26 November 2026
+
+SA Home Loans detected unauthorised access to some of its systems, including a collections system, on 13 November 2026. Customers' names, bank account numbers, branch codes and some payment details may have been exposed. The company says it found no evidence that loan accounts were accessed or records altered, and has not said how many customers are affected. A September breach at its verification provider RelyComply was the first.
 
 </div>
 

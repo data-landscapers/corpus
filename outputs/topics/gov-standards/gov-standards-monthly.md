@@ -1,10 +1,10 @@
 ---
 title: Standards — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: gov.standards
 places: DZA; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; SEN; ZAF; SDN; TUN; UGA; ZMB
-record: 7bc80bac8575
+record: a78f0020a875
 ---
 
 # News, Oct – Nov 2026
@@ -90,6 +90,28 @@ The ISO membership page, on file under 9 November 2026, lists the Institut Algé
 **[Transformation numérique : Le Bénin veut accélérer avec l’IA et miser sur ses propres talents](https://cadreco.media/index.php/numerique/2026/transformation-numerique-le-benin-veut-accelerer-avec-lia-et-miser-sur-ses-propres-talents)** — CADRECO, 9 October 2026
 
 Benin's public-sector digital chiefs met in Cotonou on 8 October 2026 at a conference now covering digital transformation and innovation, where an AI cybersecurity framework with four risk tiers, an AI officer and an ethics committee was presented. Officials cited shortages of staff, equipment, servers and funding in administrations, and the minister stressed developing local solutions and talent.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Guide for information-security officers (Guide du RSSI)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guide du Responsable de la sécurité des systèmes d'information (RSSI) : Gouvernance, responsabilités et pilotage de la cybersécurité dans les organisations](https://www.asin.bj/doc/167/download)** — Agence des Systèmes d'Information et du Numérique (ASIN), Bénin, 1 November 2026
+
+This 152-page guide for chief information security officers was written for Benin's digital agency. It covers the role's mandate, its place in an organisation, risk and reporting. It also sets out Benin's legal framework for cybersecurity.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin’s ASIN launches CISO guide to strengthen cybersecurity governance across Africa](https://techreviewafrica.com/news/8499/benin-s-asin-launches-ciso-guide-to-strengthen-cybersecurity-governance-across-africa)** — Tech Review Africa, 26 November 2026
+
+Benin's digital agency ASIN presented a guide for chief information security officers at its Africa CISO Forum, held alongside Cyber Africa Forum 2026 in Cotonou. The guide gives benchmarks on security governance, risk management and cyber crisis response. CISOs from Benin and other African countries attended. The presentation date is not stated.
 
 </div>
 
@@ -361,13 +383,21 @@ The Bank of Ghana is drafting a directive on the use of artificial intelligence 
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Medical Records Strategy and Operational Guidelines</p>
+<p class="monthly-story__name">Health Data and Health Records Strategy and Operational Guidelines</p>
 
 <div class="bulletin-item" markdown="1">
 
 **[Preparing Ghana's health records for the digital future](https://www.afro.who.int/countries/ghana/news/preparing-ghanas-health-records-digital-future)** — WHO Regional Office for Africa, 12 October 2026
 
 The Ghana Health Service, supported by WHO, convened a national workshop to revise its Medical Records Strategy and Operational Guidelines, written nearly a decade ago. The revision is to cover electronic medical records, data governance, interoperability, cybersecurity and the use of artificial intelligence in healthcare.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana validates new Health Data and Health Records Strategy and Operational Guidelines to strengthen patient data protection and security](https://afro.who.int/countries/ghana/news/ghana-validates-new-health-data-and-health-records-strategy-and-operational-guidelines-strengthen)** — WHO Regional Office for Africa, 25 November 2026
+
+Ghana Health Service validated the new strategy and guidelines on 24 November 2026. They replace the 2017 policy. They cover patient access to records, approval for secondary use of data and breach procedures. Management approval is still awaited.
 
 </div>
 

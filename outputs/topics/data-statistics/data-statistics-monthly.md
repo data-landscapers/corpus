@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: data.statistics
 places: DZA; AGO; BWA; BDI; CAF; TCD; COG; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA; ZWE
-record: 707d41367e93
+record: bc3b09ebbfb5
 ---
 
 # News, Oct – Nov 2026
@@ -855,7 +855,7 @@ The Zimbabwe National Statistics Agency launched a chatbot, a WhatsApp line and 
 
 **[Government launches system to improve labour market planning](https://www.heraldonline.co.zw/government-launches-system-to-improve-labour-market-planning/)** — The Herald, 25 November 2026
 
-Zimbabwe launched the Zimbabwe Labour Market Information System, a portal combining ZIMSTAT, NSSA and other agencies' data on jobs, wages, productivity, social security and skills, The Herald reported on 25 November 2026. The ICT ministry hosts it at the National Data Centre. The system feeds the SADC Labour Market Observatory.
+Zimbabwe launched the Zimbabwe Labour Market Information System, a portal combining ZIMSTAT, NSSA and other agencies' data on jobs, wages, productivity, social security and skills, The Herald reported on 25 November 2026. The ICT ministry hosts it at the National Data Centre. The system is meant to strengthen Zimbabwe's part in the SADC Labour Market Observatory.
 
 </div>
 

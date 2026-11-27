@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: infra.store
 places: DZA; BWA; BFA; CMR; EGY; SWZ; ETH; GMB; GHA; KEN; LBY; MUS; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: 801ef0de08e3
+record: 949b04d23c98
 ---
 
 # News, Oct – Nov 2026
@@ -377,6 +377,14 @@ Ghana's communications minister Samuel Nartey George said phase one of the count
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Ghana's $250m AI centre to focus on practical applications, not rival US, China – Ato Forson](https://www.citinewsroom.com/2026/11/ghanas-250m-ai-centre-to-focus-on-practical-applications-not-rival-us-china-ato-forson/)** — Citi Newsroom, 13 November 2026
+
+The Finance Minister said the National AI Centre will not compete with China or the United States. It will build applications for local needs, starting with healthcare. The 2027 Budget set aside US$300 million for 2027 and 2028, shared with a rural 4G upgrade.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -474,6 +482,14 @@ Mauritius Telecom's chief executive Veemal Gungadin said the operator is committ
 **[FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco](https://www.einpresswire.com/article/947923731/fivenines-group-partners-with-nexus-core-systems-to-develop-20mw-data-centre-in-morocco)** — EIN Presswire (FiveNines Group announcement), 7 October 2026
 
 The UK firm FiveNines Group was appointed to lead design management and procurement strategy for a 20MW AI data centre that Nexus Core Systems plans near Casablanca, Morocco, using Nvidia's Vera Rubin reference architecture. The announcement puts the wider Nexus AI Factory platform's target at 180MW on renewable power. No cost, permit or construction start is given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nexus Core Systems annonce le début des travaux de sa plateforme d'IA](https://telquel.ma/instant-t/2026/11/25/nexus-core-systems-annonce-le-debut-des-travaux-de-sa-plateforme-dia_2019760/)** — Telquel, 25 November 2026
+
+Construction began on an AI computing campus at Nouaceur on 25 November 2026. The first 20 MW are due in the third quarter of 2027, and 180 MW by 2028. The investment is 12 billion dirhams. In April the first phase was planned at 36 MW.
 
 </div>
 
@@ -712,6 +728,20 @@ Continent 8 Technologies, which hosts online gaming and betting operators, annou
 **[Teraco introduces Africa’s first dedicated AI infrastructure innovation lab](https://www.teraco.co.za/news/teraco-introduces-africas-first-dedicated-ai-infrastructure-innovation-lab/)** — Teraco, 16 November 2026
 
 Teraco opened a Digital Realty Innovation Lab at its JB3 data centre on the Isando campus in Johannesburg. The lab is for testing AI and high-density deployments of more than 150kW per cabinet with liquid cooling. Teraco said it is operational and taking bookings.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cassava AI factory, Cape Town</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Strive Masiyiwa's AI bet pays off as Cassava factory hits full capacity](https://www.businessday.co.za/companies/2026-11-23-strive-masiyiwas-ai-gamble-pays-off-as-cassava-factory-hits-full-capacity/)** — BusinessDay, 23 November 2026
+
+Cassava's AI factory has been at full capacity since 1 November 2026. It is a 3-megawatt site with just over 2,000 GPUs. The company plans to install 12,000 Nvidia GPUs in total.
 
 </div>
 

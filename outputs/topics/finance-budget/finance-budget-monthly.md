@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: finance.budget
 places: BEN; CIV; GAB; LBR; LBY; MAR; MOZ; SEN; SYC; TUN
-record: be312dcf136b
+record: cc0c10d73d95
 ---
 
 # News, Oct – Nov 2026
@@ -198,7 +198,7 @@ Committees of Senegal's National Assembly declined on 13 November 2026 to approv
 
 **[Budget 2027 du numérique : la plénière de vendredi est bloquée, et 65 milliards de FCFA de projets attendent leur sort](https://novotech.blog/article/budget-2027-du-numerique-la-pleniere-de-vendredi-est-bloquee-et-65-milliards-de)** — NovoTech, 25 November 2026
 
-Senegal's FCFA 64.97 billion 2027 digital ministry budget cannot go to its 27 November plenary, NovoTech reported on 25 November 2026. The National Assembly rejected the first part of the finance bill on 18 November, which bars debate on ministry credits. The minister's report shows the PAENS programme spent under 10% of its 2026 funds. None of over 400 Startup Act registrants had been labelled by 30 June 2026.
+Senegal's FCFA 64.97 billion 2027 digital ministry budget cannot go to its 27 November plenary, NovoTech reported on 25 November 2026. The National Assembly rejected the first part of the finance bill on 18 November, and its president said that bars debate on ministry credits. The minister's report shows the PAENS programme spent under 10% of its 2026 funds. None of over 400 Startup Act registrants had been labelled by 30 June 2026.
 
 </div>
 

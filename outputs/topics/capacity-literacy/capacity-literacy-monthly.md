@@ -1,10 +1,10 @@
 ---
 title: Literacy — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: capacity.literacy
 places: AGO; CPV; CIV; COD; EGY; GMB; GHA; GIN; LBR; MLI; MAR; NAM; NGA; RWA; SEN; SYC; SSD; SDN; TGO; TUN; UGA
-record: 27482b5af3f7
+record: 23568c860692
 ---
 
 # News, Oct – Nov 2026

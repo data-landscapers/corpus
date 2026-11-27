@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: tech.innovate
 places: DZA; AGO; BEN; BFA; BDI; CAF; CIV; COD; EGY; SWZ; ETH; GMB; GHA; KEN; MWI; MRT; MUS; MAR; NAM; NGA; SEN; SLE; ZAF; SSD; TZA; TGO; TUN; ZWE
-record: 2f770293ca13
+record: 0a89c9957509
 ---
 
 # News, Oct – Nov 2026
@@ -371,6 +371,20 @@ Egypt's information technology development agency ITIDA launched the fifth round
 **[PM: Technology, innovation prerequisites for developing foreign trade, boosting competitiveness](https://sis.gov.eg/en/media-center/news/pm-technology-innovation-prerequisites-for-developing-foreign-trade-boosting-competitiveness/)** — State Information Service, 18 November 2026
 
 Egypt launched a Trade Tech Regulatory Sandbox and Innovation Hub on 18 November 2026, coordinated by the Ministry of Investment and Foreign Trade. It tests trade solutions in a controlled setting, including AI, payments, digital identity and electronic documents. More than 15 ideas were received before launch.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Hackathon for government financial services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt’s Finance and ICT Ministries Launch AI Hackathon to Engage Startups in Government Innovation](https://mof.gov.eg/en/media/learn-more/news-57)** — Ministry of Finance, Egypt, 25 November 2026
+
+The two ministries opened a hackathon on 25 November 2026. Startups have three weeks to build AI tools for tax, property valuation, financial analysis and social media. Winners receive cash prizes and may win contracts to implement their solutions.
 
 </div>
 

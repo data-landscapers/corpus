@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: tech.industry
 places: BEN; EGY; GMB; GIN; KEN; MAR; NGA; SEN; SLE; ZAF; TGO; ZMB
-record: bcbbeead77a8
+record: 15d94c8745f4
 ---
 
 # News, Oct – Nov 2026
@@ -84,6 +84,20 @@ MNT-Halan listed its Egyptian business on the Cairo Stock Exchange in Egypt's la
 **[Telecom Egypt Revenue Rises 19% to EGP 93.6 Billion in 9M 2026](https://techafricanews.com/2026/11/13/telecom-egypt-revenue-rises-19-percent-egp-93-6-billion-9m-2026/)** — Tech Africa News, 13 November 2026
 
 Telecom Egypt's revenue for the first nine months of 2026 rose 19% year on year to EGP 93.6 billion, and net profit rose 44% to EGP 24.4 billion. Data revenue grew 30% and international incoming calls 25%, and cash capex was EGP 26.3 billion. The chief executive credited NTRA-approved tariff adjustments for part of the data growth.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">iQor delivery centre, New Cairo</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt’s ICT Minister inaugurates iQor delivery centre as company plans $100m investment](https://techreviewafrica.com/news/8513/egypt-s-ict-minister-inaugurates-iqor-delivery-centre-as-company-plans-100m-investment)** — Tech Review Africa, 26 November 2026
+
+Egypt's ICT minister, Raafat Hendy, inaugurated a delivery centre in New Cairo run by US outsourcing firm iQor. The centre employs about 500 people serving clients in eight languages. iQor says it plans a further $100 million investment over five to seven years, after $15 million committed in 2025 and 2026. The inauguration date is not stated.
 
 </div>
 

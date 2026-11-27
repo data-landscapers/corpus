@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB
-record: c9da9296e773
+record: c2a519f552b1
 ---
 
 # News, Oct – Nov 2026
@@ -1804,6 +1804,20 @@ In November 2026 a position paper presented to Parliament's communications commi
 **[Commission Settles with X Corp. and Concludes Voluntary Undertaking with X.AI](https://www.compcom.co.za/wp-content/uploads/2026/11/Media-Statement-Commission-reaches-settlement-agreement-with-XCorp-and-undertaking-with-XAI-18-November-2026.pdf)** — Competition Commission of South Africa, 18 November 2026
 
 South Africa's Competition Commission announced on 18 November 2026 a settlement with X Corp. and a voluntary undertaking from X.AI. Both companies withdrew their Competition Tribunal appeals against the media inquiry's remedies. X Corp's publisher support and digital literacy duties become two-year commitments. X.AI will train publishers twice a year on Grok settings.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">High Court interim order against a pseudonymous Facebook account (Kubayi)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government welcomes High Court ruling against pseudonymous Facebook account](https://www.gov.za/news/media-statements/government-welcomes-high-court-ruling-against-pseudonymous-facebook-account)** — South African Government, 26 November 2026
+
+On 24 November 2026 the High Court in Tshwane granted Justice Minister Mmamoloko Kubayi an interim order against the Facebook account "Baas Kruger". Its operators must remove specified posts. Meta must remove or restrict the content in South Africa until a final ruling. Government welcomed the order on 26 November.
 
 </div>
 

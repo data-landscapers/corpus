@@ -1,10 +1,10 @@
 ---
 title: New investments — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: finance.new
 places: DZA; AGO; BEN; BWA; COG; CIV; DJI; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
-record: 3e2b31b7c388
+record: ceda25fbd3cd
 ---
 
 # News, Oct – Nov 2026
@@ -327,7 +327,7 @@ The EU committed €20 million in Addis Ababa on 25 November 2026 to a four-year
 
 **[Ethiopia and World Bank Review Regional Digital Integration Project](https://techafricanews.com/2026/11/25/ethiopia-world-bank-review-regional-digital-integration-project/)** — TechAfrica News, 25 November 2026
 
-Ethiopia and the World Bank agreed a joint review of the Eastern Africa Regional Digital Integration Project, reported on 25 November 2026. The review is to restructure activities and speed up implementation. It comes as the Ethiopia Digital Foundations Project closes.
+Ethiopia and the World Bank agreed a joint review of the Eastern Africa Regional Digital Integration Project, reported on 25 November 2026. The review is to examine whether to restructure activities and how to speed up implementation. It comes as the Ethiopia Digital Foundations Project closes.
 
 </div>
 

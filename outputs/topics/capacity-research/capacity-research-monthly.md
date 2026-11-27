@@ -1,16 +1,18 @@
 ---
 title: Research institutions — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: capacity.research
-places: BFA; ETH; KEN; LBY; MWI; MRT; SEN; SLE; ZAF; UGA
-record: 752592bf8a32
+places: BFA; CAF; ETH; KEN; LBY; MWI; MRT; SEN; SLE; ZAF; UGA
+record: 319ad994f1cc
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#burkina-faso">Burkina Faso</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#central-african-republic">Central African Republic</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -42,6 +44,22 @@ record: 752592bf8a32
 **[Burkina Faso : Le projet Digit OACS lancé pour analyser la transition numérique dans les universités](https://lefaso.net/spip.php?article150452=)** — leFaso.net, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 A four-year research project on the digital transition of university work in Burkina Faso, Kenya and Nigeria was launched in Ouagadougou on 2 November 2026. Called Digit OACS, it is led by the Africa Multiple pole of excellence at Université Joseph Ki-Zerbo. German development cooperation provides about FCFA 200 million.
+
+</div>
+
+</div>
+
+## Central African Republic
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">University of Bangui data, AI and cybersecurity laboratory</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Contribution à la discussion thématique de haut niveau : Technologies émergentes](https://pp.itu.int/2026/wp-content/uploads/sites/3/2026/11/CENTRAL-AFRICAN-REPUBLIC_Roger-ANDJALANDJI-Technologies.pdf)** — Ministère de l’Économie numérique, des Postes et Télécommunications (République centrafricaine), 11 November 2026
+
+The minister spoke at the ITU conference in Doha on 11 November 2026. He called for pooled regional computing capacity and AI in African languages. He also asked the ITU to fund one expert from each least developed country in its AI standards groups.
 
 </div>
 

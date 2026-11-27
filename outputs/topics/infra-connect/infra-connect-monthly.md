@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: ba57caf6c8a1
+record: 4f5079220a70
 ---
 
 # News, Oct – Nov 2026
@@ -454,6 +454,14 @@ Orange Cameroon commissioned rural connectivity sites in Campo-Beach on 13 Novem
 **[Inclusion numérique: Ekpwassong I et Bisso’o connectés au réseau MTN](https://expressioneconomique.com/conjoncture/inclusion-numerique-ekpwassong-i-et-bissoo-connectes-au-reseau-mtn)** — Expression Economique, 23 November 2026
 
 MTN Cameroon connected Ekpwassong I and Bisso'o to 2G, 3G and 4G on 9 and 11 November 2026. The work falls under the World Bank-financed PATNUC, in which MTN is building 182 of 362 rural sites. More than 30 of its sites were reported operational by 23 November 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon Urges Banks, Fintechs to Expand Digital Lending Beyond Mobile Payments](https://www.businessincameroon.com/public-management/2611-17282-cameroon-urges-banks-fintechs-to-expand-digital-lending-beyond-mobile-payments)** — Business in Cameroon, 26 November 2026
+
+Finance Minister Louis Paul Motaze urged banks, microfinance institutions and fintechs to offer digital savings, credit and insurance at the opening of SAFINUM 2026 in Yaounde on 26 November. The national economic and financial committee counted 2.7 billion mobile money transactions in 2025. Surveyed users numbered over 80% for payments, about 46% for savings and 36% for credit. The government targets affordable services for 65% of adults by 2027.
 
 </div>
 
@@ -1380,6 +1388,20 @@ Savanna Telecom announced plans on 17 November 2026 for one million more fibre h
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Zuku fixed internet (Wananchi Group)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cheaper Zuku wins back customers, but losses continue under Axian](https://techcabal.com/2026/11/26/zuku-wins-back-customers-under-axian/)** — TechCabal, 26 November 2026
+
+Wananchi Group, which owns Kenyan internet provider Zuku, reported a $2 million loss on $11.5 million revenue in the third quarter of 2026, a year after Axian Telecom bought it for $69.4 million. Losses since January total $8.1 million. Zuku doubled fibre speeds in May without raising prices and cut monthly rates three months later. The article reports fixed-internet subscriptions up 10.4% in the first half.
+
+</div>
+
+</div>
+
 ## Lesotho
 
 <div class="monthly-story" markdown="1">
@@ -1552,6 +1574,20 @@ A COMESA consultation on financing digital infrastructure met in Antananarivo fr
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AXIAN Telecom tower estate in Madagascar</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AXIAN Telecom Revenue Rises 23% to $1.5 Billion in Nine Months](https://techafricanews.com/2026/11/26/axian-telecom-revenue-rises-23-percent-to-1-5-billion/)** — Tech Africa News, 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
+
+AXIAN Telecom reported unaudited revenue of $1.505 billion for the nine months to September 2026, up 23% from $1.224 billion, and adjusted EBITDA of $626 million, up 20%. Digital and mobile financial services grew 38%. Nine-month profit fell to $41 million from $196 million, partly from a fair-value loss on its Jumia investment. Subscribers rose 11% to 47.8 million.
+
+</div>
+
+</div>
+
 ## Malawi
 
 <div class="monthly-story" markdown="1">
@@ -1661,6 +1697,20 @@ SES and the ITU's Partner2Connect coalition plan to connect 30 rural schools in 
 **[Le satellite pour ouvrir l'accès aux ressources numériques dans 30 écoles africaines](https://www.wearetech.africa/fr/fils/actualites/tech/le-satellite-pour-ouvrir-lacces-aux-ressources-numeriques-dans-30-ecoles-africaines)** — wearetech.africa, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
 
 SES, the satellite operator, plans to connect 30 schools in Malawi, Burundi, Zambia and Zimbabwe by the end of 2026, under the ITU's Partner2Connect coalition. The project is to reach 20,000 to 30,000 pupils and teachers. In Malawi, 214 of 7,117 primary schools had an internet connection in the 2023/24 school statistics.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Additional mobile operator licensing round</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Malawi Considers New Mobile Network Operator to Boost Competition](https://techafricanews.com/2026/11/26/malawi-considers-new-mobile-network-operator-to-boost-competition/)** — Tech Africa News, 26 November 2026
+
+Malawi's ICT minister, Shadric Namalomba, said the government is exploring the entry of a new mobile network operator to increase competition. The regulator MACRA and the Malawi University of Business and Applied Sciences have researched market competitiveness. MACRA plans an investor workshop in early 2027 on spectrum management, national roaming and infrastructure sharing.
 
 </div>
 
@@ -1789,6 +1839,20 @@ Mauritius' ICT Authority opened a call for applications for a new mobile number 
 **[Couverture mobile : l’ICTA met en place un comité pour accélérer l’installation des antennes-relais](https://defimedia.info/couverture-mobile-licta-met-en-place-un-comite-pour-accelerer-linstallation-des-antennes-relais)** — Defimedia, 25 November 2026
 
 Mauritius's ICTA set up a multi-stakeholder committee to speed up mobile mast installation, in a communiqué of 24 November 2026. Its first priorities are revising the PPG7 planning guidance for telecom infrastructure and new sites at Salazie and Pont-Bon-Dieu. Mauritius Telecom, Emtel and MTML are among its members.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Households on the incumbent's residential fibre packages</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mauritius Telecom Upgrades Fibre Internet Speeds for 300,000 Households](https://techafricanews.com/2026/11/26/mauritius-telecom-upgrades-fibre-internet-speeds-for-300000-households/)** — Tech Africa News, 26 November 2026
+
+Mauritius Telecom announced on 25 November 2026 that it had raised speeds on its residential fibre packages at no extra charge, reaching nearly 300,000 households. Some packages are two to three times faster. Customers on higher-speed packages also receive faster uploads and larger data allowances. The upgrades took effect on 25 November.
 
 </div>
 
@@ -2329,6 +2393,20 @@ Senegal's state digital company SENUM signed a partnership agreement with Univer
 **[Starlink suspended in Senegal](https://thepoint.gm/africa/gambia/headlines/starlink-suspended-in-senegal)** — The Point, 11 November 2026
 
 Senegal's Supreme Court rejected the State's appeal on 3 November 2026. The suspension of Starlink's licence stays in place. It is the State's second loss in the case in two months. A final ruling is still to come (The Point, 11 November 2026).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Active mobile and internet lines</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senegal’s ARTP pushes integration of geospatial and mobile data](https://techreviewafrica.com/news/8504/senegal-s-artp-pushes-integration-of-geospatial-and-mobile-data)** — Tech Review Africa, 26 November 2026
+
+Senegal's telecoms regulator ARTP called for geospatial and mobile data to feed national statistics. It spoke at the International Data Forum run by the statistics agency ANSD. Director General Cheikh Tidiane Sarr cited 23.9 million active mobile lines at the end of December 2025. ARTP said use of the data depends on its reliability and on personal data protection.
 
 </div>
 
@@ -2922,6 +3000,34 @@ Savanna Telecom announced plans on 17 November 2026 for one million more fibre h
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Tanzania home and business fibre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Tanzania Partners Huawei to Expand High-Speed Fibre Internet](https://techafricanews.com/2026/11/26/airtel-tanzania-partners-huawei-to-expand-high-speed-fibre-internet/)** — Tech Africa News, 26 November 2026
+
+Airtel Tanzania has partnered with Huawei to expand fibre internet for homes and businesses in Dar es Salaam and Arusha, with 100 Mbps and 200 Mbps plans. Coverage includes named Dar es Salaam neighbourhoods such as Mikocheni, Mbezi Beach and Kigamboni, and Moshono in Arusha. The article gives no investment figure or rollout date.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Yas Tanzania subscribers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AXIAN Telecom Revenue Rises 23% to $1.5 Billion in Nine Months](https://techafricanews.com/2026/11/26/axian-telecom-revenue-rises-23-percent-to-1-5-billion/)** — Tech Africa News, 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
+
+AXIAN Telecom reported unaudited revenue of $1.505 billion for the nine months to September 2026, up 23% from $1.224 billion, and adjusted EBITDA of $626 million, up 20%. Digital and mobile financial services grew 38%. Nine-month profit fell to $41 million from $196 million, partly from a fair-value loss on its Jumia investment. Subscribers rose 11% to 47.8 million.
+
+</div>
+
+</div>
+
 ## Togo
 
 <div class="monthly-story" markdown="1">
@@ -2933,6 +3039,20 @@ Savanna Telecom announced plans on 17 November 2026 for one million more fibre h
 **[Fibre à domicile : l’ARCEP prépare une carte pour comparer les opérateurs](https://www.togofirst.com/fr/telecoms/2710-20458-fibre-a-domicile-l-arcep-prepare-une-carte-pour-comparer-les-operateurs)** — Togo First, 27 October 2026
 
 Togo's regulator ARCEP opened a tender, number 004/ARCEP/PRMP/2026 of 25 September 2026, for a public portal mapping home fibre networks. Users could compare operators' coverage, speeds and service quality by locality and report faults on the map. Bids are due 30 October 2026, the contract is estimated at FCFA 250 million, and delivery is set within 240 days.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AXIAN Telecom tower estate in Togo</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AXIAN Telecom Revenue Rises 23% to $1.5 Billion in Nine Months](https://techafricanews.com/2026/11/26/axian-telecom-revenue-rises-23-percent-to-1-5-billion/)** — Tech Africa News, 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
+
+AXIAN Telecom reported unaudited revenue of $1.505 billion for the nine months to September 2026, up 23% from $1.224 billion, and adjusted EBITDA of $626 million, up 20%. Digital and mobile financial services grew 38%. Nine-month profit fell to $41 million from $196 million, partly from a fair-value loss on its Jumia investment. Subscribers rose 11% to 47.8 million.
 
 </div>
 
@@ -3035,6 +3155,20 @@ Savanna Telecom announced plans on 17 November 2026 for one million more fibre h
 **[Uganda launches first Lake Victoria submarine internet cable](https://www.monitor.co.ug/uganda/news/national/uganda-launches-first-lake-victoria-submarine-internet-cable-5677782)** — Daily Monitor, 20 November 2026
 
 Uganda launched its first submarine fibre-optic cable under Lake Victoria, the Daily Monitor reported on 20 November 2026. The Kalangala Connect cable runs six kilometres from Bukakkata on the mainland to Bogoma on Buggala Island. It is meant to improve connectivity in the Ssese Islands.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AXIAN Telecom tower estate in Uganda</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AXIAN Telecom Revenue Rises 23% to $1.5 Billion in Nine Months](https://techafricanews.com/2026/11/26/axian-telecom-revenue-rises-23-percent-to-1-5-billion/)** — Tech Africa News, 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+AXIAN Telecom reported unaudited revenue of $1.505 billion for the nine months to September 2026, up 23% from $1.224 billion, and adjusted EBITDA of $626 million, up 20%. Digital and mobile financial services grew 38%. Nine-month profit fell to $41 million from $196 million, partly from a fair-value loss on its Jumia investment. Subscribers rose 11% to 47.8 million.
 
 </div>
 

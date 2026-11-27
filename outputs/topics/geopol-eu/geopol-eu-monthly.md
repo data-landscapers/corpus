@@ -1,10 +1,10 @@
 ---
 title: EU activities — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: geopol.eu
 places: CPV; EGY; KEN
-record: 156118b6f660
+record: 5a864755c9ce
 ---
 
 # News, Oct – Nov 2026

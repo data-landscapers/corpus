@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: tech.ai
-places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 86b5b95edf18
+places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 96d225f7b4c7
 ---
 
 # News, Oct – Nov 2026
@@ -55,6 +55,8 @@ record: 86b5b95edf18
 <a href="#guinea-bissau">Guinea-Bissau</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -172,6 +174,28 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 </div>
 
 ## Benin
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National-language voice data collection</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[J'aime Ma Langue — Bâtir les infrastructures vocales (bilan, novembre 2026)](https://www.jaimemalangue.bj/papers/bilan-jml-2026.pdf)** — ASIN · IIDiA, 1 November 2026
+
+The progress report covers a project to build voice services in Benin's languages. Its executors report 700 hours of Fongbe speech from 2,507 contributors. Their speech recognition reaches a 13.7% word error rate. They list 19 voice-service prototypes.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin opens up its "J'aime ma langue" AI project, with 1,000 hours of data in Fon, Dendi, Bariba and Yoruba](https://iconiqafrique.com/en/ia/benin-ia-jaime-ma-langue-open-source/)** — ICONIQ Afrique, 20 November 2026
+
+The minister announced on 18 November 2026 that the project is now open source. It has collected 1,000 hours of data in Fon, Dendi, Bariba and Yoruba. Developers and researchers are invited to extend these resources.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1290,6 +1314,22 @@ A March 2026 preprint put the word-error rate for read Swahili speech at 3.24%. 
 
 </div>
 
+## Liberia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI Policy 2027-2032</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministry of Posts and Telecommunications Establishes National AI Policy Development Committee to Lead Liberia's AI Transformation](https://www.govserv.org/LR/Monrovia/611768712185175/Ministry-of-Posts-%26-Telecommunications%2C-Republic-of-Liberia)** — Republic of Liberia, Ministry of Posts and Telecommunications, 10 October 2026
+
+The ministry set up an 11-member committee on 18 September 2026. It has six months to draft Liberia's first National AI Policy, covering 2027 to 2032. The Minister chairs it, with Dr Darren Wilkins as technical lead.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -1729,6 +1769,20 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 **[Award-winner Ngirinshuti on an AI model that serves Rwanda’s statistical analysis](https://cenfri.org/articles/award-winner-ngirinshuti-on-an-ai-model-that-serves-rwandas-statistical-analysis/)** — Cenfri, 1 October 2026
 
 The National Institute of Statistics of Rwanda built a model that assigns industry, occupation and education codes to Labour Force Survey answers in Kinyarwanda, English or French, auto-coding 96% of records in one test. Work that took about four analysts a week now needs one person. The project, which grew from an AIMS and Cenfri training course, won an ITU Innovate for Impact award; a field app awaits further testing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">World Bank project-preparation grant for AI for Economic Transformation (E6900-001)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Simplified Stakeholder Engagement Plan (SEP) - Final](https://raia.rw/wp-content/uploads/2026/10/RAIA-SEP-October-2026.pdf)** — Rwanda AI Agency (RAIA), 1 October 2026
+
+The plan covers a World Bank project-preparation grant for AI in Rwanda. The grant moved to the new Rwanda AI Agency after a Cabinet decision on 8 June 2026. It funds GPU compute equipment, data assets and pilots of AI use cases.
 
 </div>
 
@@ -2520,6 +2574,21 @@ UNDP Zambia and the Lusaka Water Supply and Sanitation Company launched a pilot 
 </div>
 
 ## Zimbabwe
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Operator indigenous-language customer chatbots</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Yamurai Learns To Speak Like Us - Econet Ai Launches Shona 2.0, Claims 80% Comprehension And A First For Africa](https://technomag.co.zw/yamurai-learns-to-speak-like-us-econet-ai-launches-shona-2-0-claims-80-comprehension-and-a-first-for-africa/)** — TechnoMag, 10 October 2026
+
+Econet Ai released Shona 2.0, the model behind its Yamurai customer-support chatbot. The company says it now understands 80% of customer queries, up from just over 70%. The outlet notes it has not verified the claim. Training on further dialects is under way.
+
+</div>
+
+</div>
+
 
 <div class="monthly-story" markdown="1">
 

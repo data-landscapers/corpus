@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: gov.protect
 places: DZA; AGO; BEN; BFA; BDI; CMR; COG; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d52e57fe6ef5
+record: 5fbeae2f87ea
 ---
 
 # News, Oct – Nov 2026
@@ -1065,6 +1065,28 @@ A TikTok user was charged in Kampala on 6 October with unlawfully obtaining and 
 **[Police, PDPO Raid SyncLend Uganda Call Centre, Arrest 13 Over Harassment of Loan Defaulters’ Relatives](https://nilepost.co.ug/crime/382650/police-pdpo-raid-synclend-uganda-call-centre-arrest-13-over-harassment-of-loan-defaulters-relatives)** — Nile Post, 29 October 2026
 
 Uganda's Personal Data Protection Office and the police raided SyncLend Uganda's Kampala call centre on 29 October 2026 and arrested 13 people. The firm's lending apps are alleged to have harassed borrowers' relatives and friends. The charges are failure to register with the office and unlawful disclosure of personal data.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection audits of public bodies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Eight Government Agencies Fail Data Protection Audit](https://nilepost.co.ug/news/390990/eight-government-agencies-fail-data-protection-audit)** — Nile Post, 26 November 2026
+
+An audit of 15 Ugandan ministries, departments and agencies, run from November 2025 to April 2026, found eight non-compliant, five partially compliant and two compliant. The average score was 63.71%, which the regulator classed as unsatisfactory. Weaknesses included breach and complaint handling, data subject rights, cross-border transfers and impact assessments. The Personal Data Protection Office released the findings on 26 November 2026 as it launched an audit and inspection manual.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Eight government institutions fail data protection audit](https://www.newvision.co.ug/category/news/eight-government-institutions-fail-data-prote-NV_244898_112026)** — New Vision, 26 November 2026
+
+Uganda's Personal Data Protection Office audited 15 public bodies between November 2025 and April 2026. Two were compliant, five partly compliant and eight non-compliant. The average rating was 63.71%. The results came at the launch of an audit manual built with World Bank support.
 
 </div>
 

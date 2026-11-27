@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; CMR; CPV; CAF; TCD; COM; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e883fa8d2fe8
+record: a8217b02aca0
 ---
 
 # News, Oct – Nov 2026

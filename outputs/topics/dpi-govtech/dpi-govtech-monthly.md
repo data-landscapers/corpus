@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e4920e312058
+record: fc6b21524362
 ---
 
 # News, Oct – Nov 2026
@@ -1313,6 +1313,20 @@ Ghana's Petroleum Commission introduced a Digital Permit Application Platform to
 **[Digitising the Till While Leaving the Rulebook in the Dark](https://imaniafrica.org/2026/11/digitising-the-till-while-leaving-the-rulebook-in-the-dark/)** — IMANI Africa, 12 November 2026
 
 The think tank IMANI Africa published an audit in November 2026 of 20 Ghanaian government and assembly portals. They were scored out of 12.0 on six digital public infrastructure pillars. The Food and Drugs Authority ranked highest at 11.5. The author argues that agencies have digitised fee collection while leaving laws and procedures poorly published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Non-Tariff Barriers Reporting and Resolution Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Trade Minister launches digital platform to tackle trade barriers in Ghana](https://www.myjoyonline.com/trade-minister-launches-digital-platform-to-tackle-trade-barriers-in-ghana/)** — MyJoyOnline, 26 November 2026
+
+Ghana's Trade Minister, Elizabeth Ofosu-Adjare, launched the National Non-Tariff Barriers Reporting and Resolution Platform. Traders can report barriers by web portal, WhatsApp, social media and USSD, and the platform uses AI to process complaints. She also inaugurated an NTB Resolution Committee and thanked TradeMark Africa, the African Development Bank and the European Union for support.
 
 </div>
 
@@ -3262,6 +3276,20 @@ Zambia's Ministry of Home Affairs and Internal Security ended manual passport ap
 **[Electronic traffic system being finalised](https://www.zimbabwesituation.com/news/electronic-traffic-system-being-finalised/)** — Zimbabwe Situation, 13 October 2026
 
 Zimbabwe's police said logistics for an Electronic Traffic Management System were being finalised. The system is linked to the vehicle and civil registries to identify offenders and issue penalties electronically.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Zimpost unified digital services platform and app</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zimbabwe sets digital transformation targets for Zimpost, including AI-powered route optimisation](https://techreviewafrica.com/news/8532/zimbabwe-sets-digital-transformation-targets-for-zimpost-including-ai-powered-route-optimisation)** — Tech Review Africa, 26 November 2026
+
+ICT minister Tatenda Mavetera set targets for Zimbabwe's postal operator at its 2027 strategy workshop. Salary arrears are to be cleared by 31 December 2026. A digital services platform, a mobile app, drone deliveries and AI route planning are due by 30 June 2027. She cited a 16% fall in letter volumes.
 
 </div>
 

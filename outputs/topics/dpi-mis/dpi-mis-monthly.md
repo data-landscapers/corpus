@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 02bdba291408
+record: 0a819ded6732
 ---
 
 # News, Oct – Nov 2026
@@ -518,6 +518,20 @@ Assabah reported on 6 November 2026 that Egypt's national social registry holds 
 **[From Digital Records to Home-Grown Medical AI: Cairo ICT Panel Maps the Future of Egyptian Healthcare](https://cairoict.com/news/from-digital-records-to-home-grown-medical-ai)** — Cairo ICT 2026 (Tradefairs International), 10 November 2026
 
 A Cairo ICT 2026 panel on 9 November 2026 discussed medical AI in Egypt. Health Care Authority chairman Ahmed El Sobky cited about 6.2 million electronic health files. Hospital automation in the authority exceeds 85%, the chairman said. Noha Adly of the Applied Innovation Center called for sensitive health data to stay in Egypt.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Educational Republic platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt signs cooperation protocol to establish AI-powered Educational Republic platform](https://techreviewafrica.com/news/8527/egypt-signs-cooperation-protocol-to-establish-ai-powered-educational-republic-platform)** — Tech Review Africa, 26 November 2026
+
+Egypt's Ministry of Communications and Information Technology and the National Press Authority signed a cooperation protocol to build the Educational Republic learning platform, with the publisher Dar Al-Tahrir. The platform will use AI and data analysis to offer lessons, question banks and quizzes. The ministry will supply cloud, AI and data analysis technology and apply cybersecurity and data protection standards. The signing date is not stated.
 
 </div>
 

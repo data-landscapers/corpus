@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a4d5d2fac20b
+record: 285ba8b773bb
 ---
 
 # News, Oct – Nov 2026
@@ -298,6 +298,20 @@ Botswana's President Duma Boko delivered the State of the Nation Address to Parl
 **[RMB cross-border transactions system launched in Botswana](https://www.thestar.com.my/news/world/2026/11/18/rmb-cross-border-transactions-system-launched-in-botswana)** — The Star (Xinhua), 18 November 2026
 
 Stanbic Bank Botswana launched direct access to China's Cross-Border Interbank Payment System on 17 November 2026. It is the first bank in Botswana to do so. Renminbi payments settle through Standard Bank South Africa's participation, cutting the number of intermediary banks.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PayPal withdrawals to Mukuru Wallet</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mukuru Partners PayPal to Enable Direct Withdrawals to Wallets in Botswana](https://techafricanews.com/2026/11/26/mukuru-partners-paypal-direct-withdrawals-wallets-botswana/)** — Tech Africa News, 26 November 2026
+
+Mukuru and PayPal said on 26 November 2026 that eligible customers in Botswana can now move PayPal balances into a Mukuru Wallet. The service is aimed at freelancers and others paid from abroad. The wallet can be linked to a Mukuru Card. The 2024 FinScope survey cited found 94% of adults use financial products, and about four in ten have no bank account.
 
 </div>
 
@@ -2325,6 +2339,20 @@ UCL's Institute for Innovation and Public Purpose released its DPI Map dataset o
 **[Vodacom, Absa to co-develop mobile financial services](https://www.connectingafrica.com/partnerships/vodacom-absa-to-co-develop-mobile-financial-services)** — Connecting Africa, 24 November 2026
 
 Vodacom South Africa and Absa Group have announced a partnership to co-develop combined banking and connectivity offers, including device financing, reported on 24 November 2026. Products will follow once commercial, technical, legal and regulatory arrangements are complete.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Payment System Framework and Strategy: Vision Update</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[National Payment System Framework and Strategy: Vision Update](https://www.resbank.co.za/en/home/publications/publication-detail-pages/other-publications/2026/nps-vision-update)** — South African Reserve Bank, 26 November 2026
+
+The South African Reserve Bank updated its National Payment System Framework and Strategy on 26 November 2026. It sets three years of priorities under five pillars. Of 106 Vision 2025 actions, 53 are complete, 44 in progress, 2 on hold and 7 cancelled. It names five trends to watch, including tokenisation and agentic AI, and expects a new vision in 2029.
 
 </div>
 

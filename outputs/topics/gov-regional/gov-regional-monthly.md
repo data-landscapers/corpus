@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-27
+period: 2026-10-01 to 2026-11-27
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; DJI; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 0084710e1c79
+record: f6d24e545a17
 ---
 
 # News, Oct – Nov 2026
@@ -768,6 +768,20 @@ Nigeria's trade minister, Jumoke Oduwole, told Reuters on 16 November 2026 that 
 **[Eswatini, Lesotho Join Forces to Tackle Cyber Threats](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/)** — Eswatini Positive News, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a>
 
 The Eswatini Communications Commission and the Lesotho Communications Authority signed a memorandum of understanding on 3 October 2026 covering information exchange, joint research, staff development and cybersecurity cooperation, including coordinated incident response, awareness campaigns, training and audits. No budget or timetable is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed international framework for AI-ready unstructured and fragmented data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lesotho - PP-26 policy statement](https://pp.itu.int/2026/en/itu_policy_statements/lesotho-2/)** — ITU Plenipotentiary Conference 2026, Ministry of Information, Communications, Science, Technology and Innovation, 1 November 2026
+
+Lesotho's minister told the ITU conference that the country adopted an AI policy in 2025 and a data policy in April 2026. A compute roadmap is in its first phase. She asked the Union to back shared regional compute and data infrastructure for small states.
 
 </div>
 
