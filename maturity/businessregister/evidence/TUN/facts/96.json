@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-15-tun-conseil-ministeriel",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The ministerial council listed among first-half 2026 achievements the full digitalisation of the transactions of the Registre national des entreprises.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Registre national des entreprises",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national des entreprises",
+   "country_label": "Tunisia",
+   "class": "business",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
