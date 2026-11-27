@@ -1,6 +1,6 @@
 # Use of AI in sectoral management information systems: AI in sector systems
 
-*As at 2026-11-10.*
+*As at 2026-11-26.*
 
 ## The norm
 
@@ -20,15 +20,25 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 
 | Stage | Countries |
 |---|---|
-| 5 Mature | 3 |
+| 5 Mature | 4 |
 | 4 Operating | 0 |
-| 3 Established | 37 |
+| 3 Established | 36 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 7 |
 
 ## Countries
+
+### Angola: 5 Mature
+
+Angola's tax authority and a space programme office ran AI in several sectors in 2026; no measured results of the office's platforms have been found.
+
+- Expansão reports AGT's chair saying the tax authority's machine-learning tools, tested since 2024, cross-checked 2025 corporate income tax filings and flagged irregular filers, who were then sent messages to correct them ([source, 2026-07](https://expansao.co.ao/empresas/detalhe/inteligencia-artificial-da-agt-apanha-15-mil-empresas-suspeitas-de-fuga-ao-fisco-73137.html)).
+- AGT chair Jose Leiria said on 13 April 2026 that the audit of the 2024 tax year used AI mechanisms that automatically flagged deviations and suspect cases, which then triggered prior-hearing notifications ([source, 2026-04-13](https://pti.ao/agt-reforca-combate-a-fraude-com-ia-e-mapeamento-de-processos/)).
+- AGT project coordinator Cynthia Ratle says the ASY5 customs system launched at Luanda port introduces AI-based risk management that analyses cargo from manifest submission, and AGT chair José Leiria says it uses AI and machine learning to check origin, value and consistency ([source, 2026-06-29](https://angop.ao/noticias/economia/agt-expande-sistema-automatizado-ao-porto-de-luanda/)).
+- MINTTICS says the national space programme office GGPEN developed AI platforms in use, including Tech Minas supporting and monitoring mining activity and Tech Ecologia detecting and alerting on offshore oil spills ([source, 2026-04-30](https://minttics.gov.ao/ao/noticias/minttics-destaca-potencial-do-data-center-e-cloud-nacional-para-reforcar-a-adopcao-da-ia-no-pais/)).
+- MINTTICS says GGPEN's AI platforms serve mining (Tech Minas), offshore oil (Tech Ecologia) and agriculture (Tech Agro, analysing fields from satellite and drone data) ([source, 2026-04-30](https://minttics.gov.ao/ao/noticias/minttics-destaca-potencial-do-data-center-e-cloud-nacional-para-reforcar-a-adopcao-da-ia-no-pais/)).
 
 ### Ethiopia: 5 Mature
 
@@ -63,14 +73,6 @@ Algeria has used AI since 2024 in trade checks, customs risk analysis and univer
 - The Ministry of Foreign Trade and Export Promotion said its automated data analysis and cross-checking system, built into its digital platform and boosted by AI, detected anomalies in import programme files ([source, 2026-09-02](https://www.algerie360.com/importations-suspectes-en-algerie-lia-demasque-des-documents-identiques-chez-plus-de-1000-operateurs/)).
 - The Ministry of Finance says the customs information system ALCES, used at all customs offices and posts, covers risk management that relies on AI techniques to analyse risks in imports and exports ([source, 2025-02-06](https://www.mf.gov.dz/index.php/ar/documentation-ar/grands-dossiers-ar/2174-2025-02-06-14-39-01)).
 - On 29 April 2024 the Minister of Higher Education and Scientific Research launched a digital platform using artificial intelligence and data mining that simulates study-field choices for new baccalaureate holders from their subject marks and gives estimated efficiency rates ([source, 2024-04-29](https://www.mesrs.dz/en/2024/04/the-launch-of-a-new-digital-platform-to-assist-new-baccalaureate-holders/)).
-
-### Angola: 3 Established
-
-Angola's tax authority used AI to flag suspect filers in its 2026 audits; no single source says AI is in service in several sectors.
-
-- Expansão reports AGT's chair saying the tax authority's machine-learning tools, tested since 2024, cross-checked 2025 corporate income tax filings and flagged irregular filers, who were then sent messages to correct them ([source, 2026-07](https://expansao.co.ao/empresas/detalhe/inteligencia-artificial-da-agt-apanha-15-mil-empresas-suspeitas-de-fuga-ao-fisco-73137.html)).
-- AGT chair Jose Leiria said on 13 April 2026 that the audit of the 2024 tax year used AI mechanisms that automatically flagged deviations and suspect cases, which then triggered prior-hearing notifications ([source, 2026-04-13](https://pti.ao/agt-reforca-combate-a-fraude-com-ia-e-mapeamento-de-processos/)).
-- AGT project coordinator Cynthia Ratle says the ASY5 customs system launched at Luanda port introduces AI-based risk management that analyses cargo from manifest submission, and AGT chair José Leiria says it uses AI and machine learning to check origin, value and consistency ([source, 2026-06-29](https://angop.ao/noticias/economia/agt-expande-sistema-automatizado-ao-porto-de-luanda/)).
 
 ### Benin: 3 Established
 

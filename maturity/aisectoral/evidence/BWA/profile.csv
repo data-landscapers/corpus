@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BWA,sectorai,use,coverage,inservice,2025-04,BWA-004,BWA-001=underway;BWA-003=underway;BWA-002=underway,
+BWA,sectorai,use,coverage,inservice,2025-04,BWA-004,BWA-005=underway;BWA-001=underway;BWA-003=underway;BWA-002=underway,
 BWA,sectorai,sectors,coverage,,,,,nothing found
 BWA,sectorai,results,coverage,,,,,nothing found

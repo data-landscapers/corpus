@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "5",
       "use": "inservice",
-      "sectors": "",
+      "sectors": "several",
       "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-002;AGO-004;AGO-007",
-      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
-      "note": "Rebuild 2026-11-25: the tax authority's AI audit flags (AGO-002, AGO-004) and the ASY5 customs risk engine (AGO-007) are each in service, from separate sources, so rung 4 is not met. The several-sectors value is cleared to match.",
-      "as_at": "2026-11-25"
+      "stage_sources": "AGO-002;AGO-004;AGO-007;AGO-010;AGO-011",
+      "gaps": "The several-sectors yes rests on one ministry statement (AGO-011) on the space programme office's platforms; it gives no measured results for them.",
+      "note": "Fact 2026-11-26: the telecoms ministry says the national space programme office runs AI platforms in service for mining, offshore oil and agriculture (AGO-010, AGO-011), AI in public systems of several sectors, and the tax authority's AI audit flags report measured results (AGO-002, AGO-004). Every rung is met, so 5.",
+      "as_at": "2026-11-26"
     }
   ]
 }
