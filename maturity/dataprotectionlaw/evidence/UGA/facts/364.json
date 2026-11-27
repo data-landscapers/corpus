@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-26-uga-eight-government-agencies-fail-data-protection-audit",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Nile Post reports the Personal Data Protection Office, headed by director Baker Birikujja, is acting: it ran audits of 15 government bodies from November 2025 to April 2026 and has more than 16,000 entities registered.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Personal Data Protection Office audited 15 ministries, departments and agencies between November 2025 and April 2026, finding eight non-compliant, five partially compliant and two compliant (average score 63.71%), with no decision against a named body, and launched an inspection manual on 26 November 2026.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

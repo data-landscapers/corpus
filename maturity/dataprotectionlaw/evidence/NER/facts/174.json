@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-30-ner-semaine-de-l-intelligence-artificielle-et-des-technologies-geospatiale",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The HAPDP, headed by its president Iro Adamou, took part in the opening of the second SIATeG and described its role in protecting personal data and privacy.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "Haute Autorité de Protection des Données à caractère Personnel (HAPDP)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Haute Autorité de Protection des Données à caractère Personnel (HAPDP)",
+   "country_label": "Niger",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
