@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-03-tza-government-develops-kiswahili-ai-model",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Minister Angellah Kairuki told parliament mobile money transactions rose from 476.7 million in July 2025 to 742.7 million in March 2026, and mobile money users from 66.5 million to 81.0 million.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

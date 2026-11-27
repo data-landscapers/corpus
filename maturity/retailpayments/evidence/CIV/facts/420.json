@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-26-xwa-linfodrome-nff-cotonou-pi-spi-fintechs-uemoa-portefeuille-electronique",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "A Wave Cote d'Ivoire representative said Wave joined the BCEAO's PI-SPI interoperability system somewhat late but caught up, with central-bank caps allowing users to transact and nearly 75% of transactions in baskets under 8,000 francs free.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "BCEAO interoperability platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
