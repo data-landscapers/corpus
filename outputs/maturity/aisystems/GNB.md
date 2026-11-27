@@ -2,7 +2,7 @@
 
 ## AI built at home
 
-**Model, dataset or computing.** [In April 2025 Rowe, Gow-Smith and Hepple introduced a machine translation dataset for Guinea-Bissau Creole (Kiriol)](<https://arxiv.org/abs/2504.02674>). [It holds around 40 thousand parallel sentences with English and Portuguese](<https://arxiv.org/abs/2504.02674>). [The authors trained transformer models on it](<https://arxiv.org/abs/2504.02674>).
+**Model, dataset or computing.** [In April 2025 Rowe, Gow-Smith and Hepple introduced a machine translation dataset for Guinea-Bissau Creole (Kiriol)](<https://arxiv.org/abs/2504.02674>). [It holds around 40 thousand parallel sentences with English and Portuguese](<https://arxiv.org/abs/2504.02674>). [The authors trained transformer models on it](<https://arxiv.org/abs/2504.02674>). [In 2026 the OKINKA site presented a national AI assistant in service in Portuguese, Kriol, French, Balanta, Fula and Mandinka](<https://guineia.com/>). [The site says the state owns it and that it was developed with Estonia's Goldenseal Group](<https://guineia.com/>).
 
 **AI computing.** No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country. The nearest fact found: [in April 2025 the authors trained transformer models on the Kiriol dataset](<https://arxiv.org/abs/2504.02674>).
 

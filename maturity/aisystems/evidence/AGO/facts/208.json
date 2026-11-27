@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-13-ago-angola-cables-lanca-plataforma-de-ia-e-aposta-na-soberania-digital-do",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Angola Cables launched GO4AI on 12 June 2026 at ANGOTIC 2026 in Luanda, a self-service marketplace offering on-demand GPUs (NVIDIA L40S, A100, B200) and NPUs for AI training and inference, billed in local currency, per Forbes Africa Lusofona.",
+   "as_of": "2026-06-12",
+   "date_precision": "day",
+   "system": "GO4AI",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GO4AI",
+   "country_label": "Angola",
+   "class": "localai",
+   "platform": "GPU and NPU marketplace with a Token Factory",
+   "owner": "Angola Cables",
+   "tiers": ""
+  }
+ ],
+ "note": "The document does not say where the GPUs are hosted or name users, so compute and shared are not recorded."
+}

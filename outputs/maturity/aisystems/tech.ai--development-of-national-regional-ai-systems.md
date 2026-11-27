@@ -22,8 +22,8 @@ The Continental AI Strategy asks that a country can manage its own data and AI, 
 |---|---|
 | 5 Mature | 5 |
 | 4 Operating | 9 |
-| 3 Established | 25 |
-| 2 Nascent | 13 |
+| 3 Established | 27 |
+| 2 Nascent | 11 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 2 |
@@ -123,6 +123,13 @@ AI computing was in service in the country in 2026; no source found reports its 
 AI computing was in service in the country in 2026; no source found reports its use by others.
 
 - The Herald reports the National Information Access Centre at Zimbabwe Open University, Hatcliffe, opened with an Nvidia GPU-powered AI server that Minister Shava says enables practical AI training and advanced analytics ([source, 2026-03-20](https://www.heraldonline.co.zw/minister-shava-launches-ai-hub-at-zimbabwe-open-university/)).
+
+### Angola: 3 Established
+
+Angola Cables launched an on-demand GPU service for AI in June 2026; whether any GPUs are placed in the country is not known.
+
+- Angola Cables launched GO4AI on 12 June 2026 at ANGOTIC 2026 in Luanda, a self-service marketplace offering on-demand GPUs (NVIDIA L40S, A100, B200) and NPUs for AI training and inference, billed in local currency, per Forbes Africa Lusofona ([source, 2026-06-12](https://forbesafricalusofona.com/angola-cables-lanca-plataforma-de-ia-e-aposta-na-soberania-digital-do-pais/)).
+- AGT says it is building its own in-house AI system trained on internally supplied data, with machine-learning tests since 2024 ([source, 2026-02-11](https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/)).
 
 ### Benin: 3 Established
 
@@ -263,6 +270,13 @@ An AI model or dataset built in the country was in service in 2025; AI computing
 
 - ADN describes itself as a key actor in developing and operationalising Rayuwa, an AI platform available free on the Play Store, targeting 600,000 Nigerien producers within 2.3 million beneficiaries in West Africa ([source, 2025-08-29](https://adn.ne/formation-rayuwa-ladn-renforce-les-capacites-des-institutions-techniques-pour-une-agriculture-plus-resiliente/)).
 
+### Sierra Leone: 3 Established
+
+A Sierra Leonean language model and speech prototypes were built in 2025; no AI computing facility is known in service.
+
+- DSTI's Kuma page says it built initial Krio and Mende text-to-speech prototypes with audio samples in a playground, an initial Sierra Leonean language model, and a functional Whisper-based speech-to-text pipeline, all below production quality ([source, 2025-05](https://kuma.dsti.gov.sl/research)).
+- EDITH was developed by Sierra Leonean AI specialist Mohamed Alpha for the education ministry with a GBP 50,000 EdTech Hub support package, and is being prepared for handover, not yet released ([source, 2026-03](https://thecalabashnewspaper.com/mbsse-develops-revolutionary-ai-platform-to-transform-education-management/)).
+
 ### Somalia: 3 Established
 
 An AI model or dataset built in the country was in service in 2026; AI computing is not on record.
@@ -287,12 +301,6 @@ A national AI model, dataset or computing facility was under way in 2026; none i
 
 - An updated draft decree creating a National Research Center for Artificial Intelligence and Data was approved for further legal procedures, and the Data and Infrastructure Committee set 17 infrastructure and 14 data operations for 2026 to localize AI applications (DZWatch) ([source, 2026-09-22](https://dzwatch.dz/?p=79285)).
 - The ministry's coordination meeting decided to create a national research centre for AI and data and a multisectoral Algerian system for AI tools, with a commission on large language models ([source, 2026-09-08](https://www.mesrs.dz/fr/2026/09/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-la-premiere-reunion-de-coordination-consacree-a-la-mise-en-oeuvre-de-la-strategie-nationale-de-lintelli/)).
-
-### Angola: 2 Nascent
-
-A national AI model, dataset or computing facility was under way in 2026; none in service is on record.
-
-- AGT says it is building its own in-house AI system trained on internally supplied data, with machine-learning tests since 2024 ([source, 2026-02-11](https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/)).
 
 ### Central African Republic: 2 Nascent
 
@@ -349,13 +357,6 @@ A national AI model, dataset or computing facility was under way in 2026; none i
 A government cloud to host AI computing was planned in 2026 with World Bank support; nothing in service has been found.
 
 - The government cloud project approved under the strategy will provide AI computing infrastructure located in Seychelles for government use, with implementation expected mid-2027 to mid-2028 and World Bank support, says Principal Secretary Choppy ([source, 2026-10-30](https://www.seychellesnewsagency.com/articles/22623/ai-to-support-permits-healthcare-and-fraud-detection-under-seychelles-50-million-digital-plan)).
-
-### Sierra Leone: 2 Nascent
-
-A national AI model, dataset or computing facility was under way in 2026; none built in the country is on record as in service.
-
-- EDITH was developed by Sierra Leonean AI specialist Mohamed Alpha for the education ministry with a GBP 50,000 EdTech Hub support package, and is being prepared for handover, not yet released ([source, 2026-03](https://thecalabashnewspaper.com/mbsse-develops-revolutionary-ai-platform-to-transform-education-management/)).
-- Farmerline says its five-year MoU of 12 June 2024 with the Ministry of Communication, Technology and Innovation commits it to develop language and speech models (speech recognition, text-to-speech) for Sierra Leone's agricultural sector, and it claims a first-of-its-kind Krio language model ([source, 2024-06-12](https://farmerline.co/revolutionizing-sierra-leones-agriculture-farmerline-group-and-moctis-groundbreaking-tech-partnership/)).
 
 ### South Sudan: 2 Nascent
 

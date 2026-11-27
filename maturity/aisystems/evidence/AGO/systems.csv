@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,AGT in-house AI system,Angola,localai,machine learning,AGT (Administração Geral Tributária),,2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt
 AGO,Angola AI factory (Angola Telecom data centres),Angola,localai,Mistral AI models; Le Chat instance for Angola Telecom,Angola Telecom,,2025-06-17-ago-initiative-to-roll-out-ai-infrastructure-and-services-in-angola
+AGO,Clouds2Africa,Angola,localai,"cloud with Kubernetes, GPUs announced",Angola Cables,,2025-11-30-ago-angola-cables-anuncia-kubernetes-e-prepara-gpus-para-inteligencia-arti
+AGO,GO4AI,Angola,localai,GPU and NPU marketplace with a Token Factory,Angola Cables,,2026-06-13-ago-angola-cables-lanca-plataforma-de-ia-e-aposta-na-soberania-digital-do

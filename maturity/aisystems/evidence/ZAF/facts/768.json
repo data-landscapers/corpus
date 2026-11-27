@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-23-zaf-strive-masiyiwa-s-ai-bet-pays-off-as-cassava-factory-hits-full-capacit",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Africa Data Centres CEO Boyd Chislett says Cassava's AI Factory, a 3-megawatt facility with just over 2,000 Nvidia GPUs, has been at full capacity since 1 November 2026.",
+   "as_of": "2026-11-01",
+   "date_precision": "day",
+   "system": "Cassava AI Factory",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "compute",
+   "value": "compute",
+   "fact": "Africa Data Centres CEO Boyd Chislett says the Cassava AI Factory, a 3-megawatt facility with just over 2,000 GPUs, is fully utilised as of 1 November 2026, supplying computing for companies to build and run AI models locally.",
+   "as_of": "2026-11-01",
+   "date_precision": "day",
+   "system": "Cassava AI Factory",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cassava AI Factory",
+   "country_label": "South Africa",
+   "class": "localai",
+   "platform": "Nvidia GPUs, HPE",
+   "owner": "Cassava Technologies / Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

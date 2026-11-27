@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,localai,build,coverage,underway,2026-02-11,AGO-001;AGO-002,,
+AGO,localai,build,coverage,inservice,2026-06-12,AGO-004,AGO-001=underway;AGO-003=underway;AGO-002=underway,
 AGO,localai,compute,coverage,,,,,nothing found
 AGO,localai,shared,coverage,,,,,nothing found

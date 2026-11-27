@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-gab-jean-francis-ahanda-la-souverainete-numerique-et-l-etat",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "ST Digital's CTO Jean-Francis Ahanda says the Nkok data centre in Gabon 'will also host' computing capacity for sovereign AI, with no GPUs or date given.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "ST Digital Nkok sovereign data centre",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ST Digital Nkok sovereign data centre",
+   "country_label": "Gabon",
+   "class": "localai",
+   "platform": "data centre",
+   "owner": "ST Digital",
+   "tiers": "Tier III design, certification pending"
+  }
+ ],
+ "note": ""
+}

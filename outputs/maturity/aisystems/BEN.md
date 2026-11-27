@@ -6,7 +6,7 @@
 
 **AI computing.** No source found since October 2023 says a GPU or AI-accelerator facility is in service in the country. The nearest fact: [in June 2025 a Fon-language AI model was to be trained on NVIDIA A100/H100 GPUs](<https://techafricanews.com/2025/06/30/benin-launches-first-local-language-voice-ai-to-bridge-digital-divide>).
 
-**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest fact: [in June 2026 GPT BJ was a public-service chatbot trained on legal and administrative texts](<https://www.levellers.ai/what-is/ai-regulation-benin>).
+**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest fact: [on 18 November 2026 the minister announced that the J'aime ma langue project, with 1,000 hours of language data in Fon, Dendi, Bariba and Yoruba, is open source](<https://iconiqafrique.com/en/ia/benin-ia-jaime-ma-langue-open-source/>).
 
 ***Also on file***. None found.
 

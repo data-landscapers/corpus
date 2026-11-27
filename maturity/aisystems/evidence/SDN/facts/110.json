@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-20-sdn-national-shared-ai-lab-for-100-researchers",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Almandara News reports the Sudanese data and AI authority under the digital transformation ministry is finishing a shared national AI lab hosted inside Sudan and offline, for about 100 concurrent users running mid-size models, expected to be fully operating within three months.",
+   "as_of": "2026-11-20",
+   "date_precision": "day",
+   "system": "National shared AI lab",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National shared AI lab",
+   "country_label": "Sudan",
+   "class": "localai",
+   "platform": "",
+   "owner": "Sudanese data and AI authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Not yet in service, so compute and shared are not recorded."
+}

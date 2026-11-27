@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-18-zaf-cassava-scales-african-ai-infrastructure-with-nvidia-powered-ai-factor",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Cassava Technologies says it plans to scale its NVIDIA-powered AI Factory to Morocco after South Africa.",
+   "as_of": "2026-03-18",
+   "date_precision": "day",
+   "system": "Cassava AI Factory",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -32,3 +32,4 @@ CAF,001,,,removed,"Rebuild 2026-11-26 (build:inservice): SangoAI is built by peo
 CAF,003,,,removed,Rebuild 2026-11-26 (build:inservice): a model card that does not say where the model was built
 SLE,003,,,removed,"Rebuild 2026-11-26 (build:inservice): an operator's assistant launched in the country, not stated to be built there"
 GMB,002,,,removed,Rebuild 2026-11-26 (build:inservice): a model released by a lab the source does not place in the country
+CIV,012,build,inservice,removed,"Stage 4c 2026-11-26: a ministry director's mention of unnamed plant-disease models built by local teams names no model, builder or release, which question 2 asks"

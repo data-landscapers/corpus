@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-23-egy-launch-of-karnak-chat",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The Applied Innovation Center of Egypt's communications ministry announced on 23 August 2026 the pilot launch of Karnak Chat, built on its own Karnak large language model, with a free version of Karnak released on Hugging Face.",
+   "as_of": "2026-08-23",
+   "date_precision": "day",
+   "system": "Karnak",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Karnak",
+   "country_label": "Egypt",
+   "class": "localai",
+   "platform": "Hugging Face; Google Play (Karnak Chat)",
+   "owner": "Applied Innovation Center (MCIT)",
+   "tiers": ""
+  }
+ ],
+ "note": "Open free version stated, but no users named or counted, so nothing on sharing."
+}

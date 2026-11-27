@@ -14,3 +14,6 @@ KEN,HERCULES,"HERCULES power and AI data centre, Dongo Kundu, Mombasa",other,,AM
 KEN,African Next Voices (Kenya component),Kenya,localai,speech dataset,Maseno University Centre for Applied AI,,2026-11-24-ieee-why-does-voice-ai-still-struggle-with-kenyans-speech
 KEN,Nia Voice Agent,Kenya,localai,voice agent,MsingiAI,,2026-11-24-ieee-why-does-voice-ai-still-struggle-with-kenyans-speech
 KEN,Fikra Swahili AI models,Kenya,localai,language models,Zabibu Technika,,2026-11-24-ieee-why-does-voice-ai-still-struggle-with-kenyans-speech
+KEN,UlizaLlama (AskLlama),Kenya,localai,PROMPTS,Jacaranda Health,,2024-08-16-ken-jacaranda-launches-open-source-llm-in-five-african-languages
+KEN,G42 Swahili-English open-source LLM,Kenya,localai,,G42 with local universities,,2025-03-12-ken-microsoft-g42-s-1-billion-ai-plan-starts-to-take-shape-in-kenya
+KEN,LughaGen Multilingual Kenyan Language Corpus,Hugging Face (LughaGen-Organization),localai,Hugging Face,LughaGen / JHUB Africa (JKUAT),,2025-01-01-ken-lughagen-multilingual-kenyan-language-corpus

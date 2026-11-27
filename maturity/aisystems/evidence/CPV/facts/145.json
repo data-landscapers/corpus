@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-19-cpv-ilo-supports-digital-transformation-of-cabo-verde-s-general-labour-ins",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IGT portal AI virtual assistant",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "igt.gov.cv",
+   "owner": "General Labour Inspectorate (IGT), with ILO support and Luxembourg funding",
+   "tiers": ""
+  }
+ ],
+ "note": "The AI assistant is named but the document does not say it is built or hosted in the country."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-01-lso-lesotho-pp-26-policy-statement",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Minister Moorosi says Phase One (2026 to 2027) of Lesotho's National Compute Roadmap is under way, anchored in the existing national data centre, to give public services and innovators AI capacity.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "National Compute Roadmap Phase One",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Compute Roadmap",
+   "country_label": "Lesotho",
+   "class": "localai",
+   "platform": "existing national data centre",
+   "owner": "Government of Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

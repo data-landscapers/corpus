@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-01-bwa-ngari-botswana-the-setswana-ai-commons",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "NGARi says it is building a Setswana AI commons at Botswana University of Agriculture and Natural Resources, with a US$27,000 offline GPU kit scoped and not yet installed, MOUs drafted not signed, and completion targeted for 2027.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "NGARi Botswana / The Setswana AI Commons",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

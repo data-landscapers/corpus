@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "2",
-      "build": "underway",
+      "stage": "3",
+      "build": "inservice",
       "compute": "",
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-002;SLE-001",
-      "gaps": "No source found says Africell's AI-EVA was built in the country, so no AI model built in the country is shown in service. No facility with GPUs or AI accelerators has been found.",
-      "note": "EDITH, built by a Sierra Leonean specialist for the education ministry, was being prepared for handover in March 2026, and Farmerline's 2024 MoU commits it to speech models: AI under way. Africell's AI-EVA was launched in Sierra Leone, but no source says it was built there, so not 3.",
-      "as_at": "2026-11-26"
+      "stage_sources": "SLE-006;SLE-002",
+      "gaps": "No source found says a facility with GPUs or AI accelerators is in service in Sierra Leone. DSTI's Kuma models are prototypes below production quality, and no source says Africell's AI-EVA was built in the country.",
+      "note": "Fact 2026-11-26: DSTI's Kuma project has built initial Krio and Mende text-to-speech prototypes, an initial Sierra Leonean language model and a working speech-to-text pipeline, shown in a public playground (SLE-006, May 2025): a model built in the country and released. No AI computing in the country is found, so 3.",
+      "as_at": "2026-11-27"
     }
   ]
 }

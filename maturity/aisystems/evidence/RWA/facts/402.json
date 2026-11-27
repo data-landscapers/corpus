@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-rwa-simplified-stakeholder-engagement-plan-sep-final",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The Rwanda AI Agency's World Bank GFPP grant (E6900-001) is to finance GPU compute equipment with co-location, hosting and maintenance, and consulting for foundational AI-ready data assets and registries, to support piloting of AI use cases in priority sectors (plan dated October 2026).",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "GFPP-financed GPU compute and foundational data assets",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GFPP AI for Economic Transformation in Rwanda preparation grant",
+   "country_label": "Rwanda",
+   "class": "localai",
+   "platform": "GPU compute with co-location and cloud and AI model services",
+   "owner": "Rwanda AI Agency (RAIA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

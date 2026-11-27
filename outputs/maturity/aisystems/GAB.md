@@ -4,7 +4,7 @@
 
 **Model, dataset or computing.** The Gabonese Scientific Committee for AI Research (CSGR-IA) met the Economic, Social, Environmental and Cultural Council on 7 July 2026. There it presented [its work on Obone AI](<https://www.csgria.ga/actualites/article/le-csgr-ia-recu-en-audience/>). The committee calls Obone AI the first Gabonese AI system able to process and answer in the Fang language. Its research covers how national languages are represented in AI systems.
 
-**AI computing.** No facility with GPUs or other AI accelerators has been found in Gabon. The nearest fact: [the CSGR-IA works on the representation of national languages in AI systems](<https://www.csgria.ga/actualites/article/le-csgr-ia-recu-en-audience/>), with no computing site named.
+**AI computing.** No facility with GPUs or other AI accelerators has been found in Gabon. The nearest fact: [in July 2026 the chief technology officer of ST Digital said its Nkok data centre will also host computing capacity for sovereign AI](<https://www.digitalbusiness.africa/jean-francis-ahanda-la-souverainete-numerique-ne-se-decrete-pas-elle-se-construit-avec-letat/>), with no GPUs or date given.
 
 **Shared with users.** No Gabonese AI model, dataset or computing has been found open to researchers or startups. The nearest fact: [Obone AI is still in development](<https://www.csgria.ga/actualites/article/le-csgr-ia-recu-en-audience/>).
 
