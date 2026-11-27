@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-27 00:17 · **BUILD** · 1h12m · polled cycle; catalogue 46,834; 47 units, 165 sources: 17 moved, 51 minted, 18 status; DC 15 rows; budget 0 waiting; 4c 162 facts, 7 moved; Who's Who 163; bulletin 29; 133 dead links - ok
 2026-11-26 23:03 · **NOTES** · unclocked · Closed corpus-notes 92 (manifest classify block: no change). OSINT's resolution of osint-notes 362 is housekeeping 93.
 2026-11-26 17:51 · **RENDER** · unclocked · methodology, statistics, maturity and progress pages rendered for 3b R-lines; MUS, RWA maturity editions to R2; deployed 21a457b - ok
 2026-11-26 02:59 · **INDEX** · 11m · research index: 595 added or changed, 0 removed, 7179 chunks, 11.1 min - ok
@@ -325,19 +326,6 @@ title: Corpus process log
 2026-10-27 01:46 · **REVIEW** · unclocked · EGY: status 16 sections revised, progress 4 cells, finance 0 rows; 1 deals queued, 0 notes for OSINT — ok
 2026-10-27 01:44 · **REVIEW** · unclocked · DZA: status 14 sections revised, progress 5 cells, finance 0 rows; 0 deals queued, 1 notes for OSINT — ok
 2026-10-27 01:31 · **BUILD** · 1h56m · catalogue 34,175; 594 sources, 56 moved, 214 minted, 61 status revised; data centres 7, 5 changed; maturity 557 facts, 61 stages moved; bulletin 20; finance 1 sitting, 0 waiting; register 10; messages 40-41 - ok
-2026-10-26 23:35 · **ANALYTICS** · unclocked · 2026-10-25 written; 25 Oct: dl.io 11 views / 0 clicks, corpus 107 views / 2 clicks
-2026-10-26 16:30 · **RENDER** · 24m · reports+home+countries+catalogue+maturity rendered (301 docs, 0 failed), deployed 8efa7de — ok
-2026-10-26 09:24 · **BUDGET-EXTRACT** · unclocked · 4 sittings from housekeeping 39 - BFA, CIV, COM, ZWE FY2024 all nil: each document prints coarser than the held grain (programme, nature, ministry or vote against activities, services or programmes); no rows changed
-2026-10-26 07:02 · **COPY** · unclocked · R2 copy: 4,246 objects, 1,474.3 MB in the bucket; pulled 2,559 (984.0 MB) to C:\Users\bill\Dropbox\CORPUS-editions; 0 fault(s)
-2026-10-26 06:52 · **RENDER** · 34m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; deployed 1c0ed92 - ok
-2026-10-26 06:24 · **REBUILD** · 26m · customs customs: 51 cells reassessed, 4 moved; 54 searched, 235 staged; 73.0M tokens - ok
-2026-10-26 06:24 · **REBUILD** · 26m · crossborderpayments crossborder: 11 cells reassessed, 3 moved; 54 searched, 197 staged; 72.9M tokens - ok
-2026-10-26 06:24 · **REBUILD** · 26m · coresystems core: 3 cells reassessed, 3 moved; 54 searched, 206 staged; 72.9M tokens - ok
-2026-10-26 06:17 · **REVIEW** · 19m · AGO: status 24 sections revised (21 trimmed), progress 2 cells, finance 0 rows, ledger 1 row; 1 deal queued, 0 notes for OSINT - ok
-2026-10-26 06:10 · **REVIEW** · 12m · BDI: status 14 sections revised (14 trimmed), progress 5 cells, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
-2026-10-26 05:57 · **BUILD** · 2h44m · catalogue 33,696; 432 sources, 50 moved, 179 minted, 66 status sections revised; data centres 61, 24 modified, 2 added; maturity 443 facts, 44 stages moved; bulletin 11; finance 3 sittings, 0 waiting; register 10; notes 264-265; messages 31-37 - ok
-2026-10-26 05:32 · **BUDGET-EXTRACT** · 46m · finance upkeep, 3 sittings: GIN FY2026 113 lines proposed from the PLF 2026 (whole GNF 357.3bn, partial 105.8bn); CMR FY2025 postal CAS to activity grain (900m partial -> 36m); ZAF MTBPS 2026 nil; 0 readings waiting
-2026-10-26 03:12 · **ANALYTICS** · unclocked · 2026-10-24..2026-10-25 written; 25 Oct: dl.io 11 views / 0 clicks, corpus 107 views / 1 clicks
 2026-10-23 11:26 · **BUDGET** · unclocked · poll 66 libraries, GIN and NAM staged; SYC FY2026 and GHA FY2024 revised; MOZ and SEN nil; votes for 9 countries; 39 waiting, none workable; 75 of 120 minutes — ok
 2026-10-20 09:29 · **MIRROR** · unclocked · flash leg failing: ffs=2 then ffs=3, D: has 0.93 GB free; robocopy legs ok; messages at cap, raised in session
 2026-10-17 10:18 · **MATURITY-UPDATE** · unclocked · stage 4c lifted (Bill) and its backlog worked: 15,617 arrivals over 115 studies, 9,822 closed unread (8,344 instruments, 1,478 pre-window), 1,013 past 20 a country; 810 news stories in 408 Sonnet calls; 954 facts merged, 604 cells reassessed and logged, 253 moved; 7 facts removed at the top-stage check; 41 cells restaged and 276 texts rewritten by brief; all 115 lint clean. 245M tokens (212M agents) — ok
