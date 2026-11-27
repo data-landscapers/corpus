@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-23-mwi-govt-admits-global-youth-ai-readiness-index-a-wake-up-call",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "Malawi's Ministry of Education says it hopes the development of the National Digital Transformation Strategy, with the AI strategy and AI RAM, will guide AI adoption across sectors.",
+   "as_of": "2026-11-23",
+   "date_precision": "day",
+   "system": "National Digital Transformation Strategy",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Transformation Strategy",
+   "country_label": "Malawi",
+   "class": "national",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
