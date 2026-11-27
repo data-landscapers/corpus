@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MOZ-004;MOZ-003",
       "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
-      "note": "Stage 4c 2026-11-07: INE's Estatisticas Vitais 2024-2025, reported in August 2026, draws its births and deaths from civil registration records (MOZ-004). One edition is held, so not stage 4.",
-      "as_at": "2026-11-07"
+      "note": "INE's vital statistics for 2024-2025, of August 2026, are drawn from civil registration records and set stage 3. One edition is held, so not 4.",
+      "as_at": "2026-11-27"
     }
   ]
 }

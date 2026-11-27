@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "UGA-006",
       "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
-      "note": "Counted from the four questions by study-ladder-admindata.py, on the ladder of 2026-10-19.",
-      "as_at": "2026-10-19"
+      "note": "The police Annual Crime Report 2025, of April 2026, sets stage 3. The first vital statistics report is completed but not shown published, so no source is shown twice.",
+      "as_at": "2026-11-27"
     }
   ]
 }

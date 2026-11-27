@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "admin",
-      "stage": "4",
+      "stage": "3",
       "use": "published",
-      "source": "education",
-      "series": "civil-registration",
+      "source": "civil-registration;education",
+      "series": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-001",
-      "gaps": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
-      "note": "Counted from the four questions by study-ladder-admindata.py, on the ladder of 2026-10-19.",
-      "as_at": "2026-10-19"
+      "stage_sources": "EGY-003;EGY-001",
+      "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
+      "note": "The education yearbook for 2024/25 and a 2026 statement that CAPMAS issues birth and death reports each show one current edition, which sets stage 3. The statement names no report or year, so no source is shown twice and not 4.",
+      "as_at": "2026-11-27"
     }
   ]
 }

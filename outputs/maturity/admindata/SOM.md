@@ -10,4 +10,4 @@
 
 ***Also on file***. [Somalia CRVS system](<https://sonna.so/en/article/interior-minister-receives-update-on-progress-of-civil-registration-and-vital-statistics-system>); [Digital crime statistics system](<https://www.unodc.org/documents/commissions/CCPCJ/CCPCJ_Sessions/CCPCJ_31/TD_presentations/UNODC_Somalia_Elena_JULVE_session_1_PM.pdf>); [National Transformation Plan digital monitoring system](<https://www.dawan.africa/news/somalia-launches-digital-system-to-track-national-transformation-plan>); [DHIS2 HMIS](<https://moh.gov.so/so/wp-content/uploads/2023/12/Quarterly-Healtrh-Statistics-Bulletin.-final_signed.pdf>).
 
-***Not found***. No source found shows statistics from three administrative sources, each published twice since October 2023.
+***Not found***. No source found shows statistics from one administrative source published twice since October 2023.

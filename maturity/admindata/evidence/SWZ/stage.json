@@ -9,10 +9,10 @@
       "series": "civil-registration",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-003;SWZ-007",
+      "stage_sources": "SWZ-005;SWZ-007;SWZ-003",
       "gaps": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
-      "note": "Counted from the four questions by study-ladder-admindata.py, on the ladder of 2026-10-19.",
-      "as_at": "2026-10-19"
+      "note": "The vital statistics reports of October 2023, August 2025 and August 2026 are editions from civil registration. Police figures were stated but not published as a product, so not 5.",
+      "as_at": "2026-11-27"
     }
   ]
 }

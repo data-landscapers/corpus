@@ -6,13 +6,13 @@
       "stage": "4",
       "use": "published",
       "source": "civil-registration;education",
-      "series": "civil-registration;education",
+      "series": "civil-registration",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-001;NAM-004",
+      "stage_sources": "NAM-004;NAM-001",
       "gaps": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
-      "note": "Counted from the four questions by study-ladder-admindata.py, on the ladder of 2026-10-19.",
-      "as_at": "2026-10-19"
+      "note": "The vital statistics report of April 2024 and the 2023 report a June 2025 study cites, whose figures end after October 2023, are two editions from civil registration. The school reports are not dated, so no three sources and 4.",
+      "as_at": "2026-11-27"
     }
   ]
 }

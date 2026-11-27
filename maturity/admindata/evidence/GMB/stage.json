@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "admin",
-      "stage": "4",
+      "stage": "3",
       "use": "published",
-      "source": "education",
-      "series": "education",
+      "source": "education;transport;police",
+      "series": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GMB-004;GMB-003",
-      "gaps": "No source found shows statistics from three administrative sources each published twice since November 2023.",
-      "note": "The education ministry has published its Statistical Yearbook from school returns every year since 2014, the 2026 edition among them (GMB-003, GMB-004): one source published twice. No other source is held, so 4.",
-      "as_at": "2026-11-12"
+      "stage_sources": "GMB-003;GMB-006",
+      "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
+      "note": "The 2026 education yearbook, from school questionnaires, and the transport statistics of June 2026 set stage 3. The yearbook is said to be annual since 2014, but no earlier edition since October 2023 is shown, so not 4.",
+      "as_at": "2026-11-27"
     }
   ]
 }

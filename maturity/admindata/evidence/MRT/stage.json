@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MRT-001",
       "gaps": "No source found reports statistics from administrative records published since October 2023.",
-      "note": "Stage 4c 2026-11-07: a health ministry workshop in July 2025 reviewed health information system data to prepare the 2024 national statistical yearbook (MRT-001), which is work under way. No published edition is held, so not stage 3.",
-      "as_at": "2026-11-07"
+      "note": "A July 2025 workshop reviewed health information data for the 2024 yearbook, which is work under way. No published edition is held, so not 3.",
+      "as_at": "2026-11-27"
     }
   ]
 }

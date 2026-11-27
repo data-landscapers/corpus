@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MLI-012;MLI-013",
-      "gaps": "No source found shows statistics from three administrative sources each published twice since November 2023; the health and social yearbook is held in one edition.",
-      "note": "INSTAT's foreign trade bulletins and yearbooks, drawn from customs declarations, were published quarterly from 2024 to 2026 (MLI-012, MLI-013): one source published twice. The health and social yearbook is held once, so 4.",
-      "as_at": "2026-11-12"
+      "gaps": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
+      "note": "INSTAT's foreign trade bulletins from customs declarations are listed for each quarter from early 2024, whose figures all end after October 2023: one source shown twice. The health and social yearbook is held once, so 4.",
+      "as_at": "2026-11-27"
     }
   ]
 }

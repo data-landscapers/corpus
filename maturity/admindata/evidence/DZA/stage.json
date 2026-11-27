@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "DZA-003",
       "gaps": "No source found shows statistics from one administrative source published twice since October 2023.",
-      "note": "The ONS bulletin of July 2024 is drawn from civil-status records, which sets stage 3. DZA-001 to DZA-003 report that one bulletin, so no second edition is shown.",
-      "as_at": "2026-11-23"
+      "note": "The ONS demography bulletin of July 2024 is drawn from civil-status records and sets stage 3. No second edition is shown, so not 4.",
+      "as_at": "2026-11-27"
     }
   ]
 }

@@ -6,13 +6,13 @@
       "stage": "4",
       "use": "published",
       "source": "civil-registration",
-      "series": "",
+      "series": "civil-registration",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-004;CIV-001",
+      "stage_sources": "CIV-001;CIV-004",
       "gaps": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
-      "note": "Stage 4c 2026-11-07: the civil status yearbook for 2025, presented on 31 July 2026 (CIV-003, CIV-004), is a second edition after the 2024 yearbook of 30 June 2025, so one source is published twice. Stage 5 needs three sources.",
-      "as_at": "2026-11-07"
+      "note": "The civil-status yearbooks for 2024 and 2025, presented in June 2025 and July 2026, are two editions from one source. No other source is held, so 4.",
+      "as_at": "2026-11-27"
     }
   ]
 }
