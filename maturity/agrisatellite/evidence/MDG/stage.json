@@ -1,18 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "agrisat",
-   "stage": "2",
-   "service": "underway",
-   "published": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MDG-001",
-   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
-   "note": "UNDP used satellite data to assess cropland flooded by the February 2026 cyclones. No government service is shown, so not 3.",
-   "as_at": "2026-11-23"
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "agrisat",
+      "stage": "4",
+      "service": "inservice",
+      "published": "scheduled",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-003;MDG-005",
+      "gaps": "No source found since October 2023 counts farmers or districts reached by satellite-based advice or alerts.",
+      "note": "UNICEF runs a satellite drought monitoring system for the south with ANDEA and the Ministry of Water, and its bulletin goes out monthly; a partner-built tool in government use (ruling 162), and one region is enough for question 2. No count of farmers reached is held, so not 5.",
+      "as_at": "2026-11-27"
+    }
+  ]
 }

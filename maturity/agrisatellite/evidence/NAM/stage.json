@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "agrisat",
-      "stage": "2",
-      "service": "underway",
+      "stage": "3",
+      "service": "inservice",
       "published": "",
       "reach": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-002;NAM-001",
-      "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
-      "note": "Rebuild 2026-10-20: the 6th Grain crop-monitoring contract was cancelled, so stage 2 rests on the SASSCAL AgriWatch work and the new ground station, not on the contract.",
-      "as_at": "2026-10-20"
+      "stage_sources": "NAM-008",
+      "gaps": "No source found since October 2023 says a satellite-based farming service publishes on a schedule.",
+      "note": "NASA Harvest says satellite tools and cropland masks provided to the agriculture ministry were used operationally in 2023 and still support its crop monitoring, a partner-built tool in government use (ruling 162). No source says it publishes on a schedule, so not 4.",
+      "as_at": "2026-11-27"
     }
   ]
 }

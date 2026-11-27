@@ -1,18 +1,18 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "agrisat",
-   "stage": "2",
-   "service": "underway",
-   "published": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-002;CIV-001",
-   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
-   "note": "AICCRA says the agriculture ministry can access seasonal RIICE rice maps, on a tool its partners adapted. No source shows a government body running it, so not 3.",
-   "as_at": "2026-11-23"
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "agrisat",
+      "stage": "3",
+      "service": "inservice",
+      "published": "",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-002",
+      "gaps": "No source found since October 2023 says a satellite-based farming service publishes on a schedule.",
+      "note": "AICCRA says the agriculture ministry now draws seasonal RIICE rice maps and forecasts from a tool its partners adapted, a partner-built tool in government use (ruling 162). No source says they are published on a schedule, so not 4.",
+      "as_at": "2026-11-27"
+    }
+  ]
 }

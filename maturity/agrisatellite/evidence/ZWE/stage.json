@@ -1,18 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "agrisat",
-   "stage": "2",
-   "service": "underway",
-   "published": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-001;ZWE-002",
-   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
-   "note": "FAO's EOSTAT produced crop maps with the ministry for 2023 and 2023/24, and its second phase of June 2025 aims to make this routine. No source shows a government body running it, so not 3.",
-   "as_at": "2026-11-23"
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "agrisat",
+      "stage": "3",
+      "service": "inservice",
+      "published": "",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-005;ZWE-004",
+      "gaps": "No source found since October 2023 says a satellite-based farming service publishes on a schedule.",
+      "note": "Technicians at ZCHPC operate Sen4Stat to produce national crop type maps and maize acreage for the ministry and ZIMSTAT, on a system FAO built, a partner-built tool in government use (ruling 162). No source says the maps are published on a schedule, so not 4.",
+      "as_at": "2026-11-27"
+    }
+  ]
 }

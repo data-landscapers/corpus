@@ -1,18 +1,18 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "agrisat",
-   "stage": "2",
-   "service": "underway",
-   "published": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-001;MWI-003",
-   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
-   "note": "GEOCIF forecasts were adapted for the ministry in 2024 and the meteorological department piloted PRISM in five districts in 2025. No government service in use is shown, so not 3.",
-   "as_at": "2026-11-23"
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "agrisat",
+      "stage": "4",
+      "service": "inservice",
+      "published": "scheduled",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-002;MWI-001",
+      "gaps": "No source found since October 2023 counts farmers or districts reached by satellite-based advice or alerts.",
+      "note": "GEOCIF, adapted by NASA Harvest and FAO at the ministry's request, gave it monthly yield forecasts through the 2024 season, a partner-built tool in government use (ruling 162). No count of farmers or districts reached is held, so not 5.",
+      "as_at": "2026-11-27"
+    }
+  ]
 }

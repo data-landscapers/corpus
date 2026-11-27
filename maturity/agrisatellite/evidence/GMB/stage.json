@@ -1,18 +1,18 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "agrisat",
-   "stage": "2",
-   "service": "underway",
-   "published": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-001",
-   "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
-   "note": "The ROOTS project's GeoLab, shown by FAO in 2025, turns satellite data into farming indicators. No source shows a government body running it as a service, so not 3.",
-   "as_at": "2026-11-23"
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "agrisat",
+      "stage": "3",
+      "service": "inservice",
+      "published": "",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-002;GMB-001",
+      "gaps": "No source found since October 2023 says a satellite-based farming service publishes on a schedule.",
+      "note": "The Gambia GeoLab, a national platform built under the government's ROOTS project, turns satellite data into indicators of rice production and land cover, a partner-built tool in government use (ruling 162). No source says it publishes on a schedule, so not 4.",
+      "as_at": "2026-11-27"
+    }
+  ]
 }
