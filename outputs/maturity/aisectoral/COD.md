@@ -10,4 +10,4 @@
 
 ***Also on file***. [Voyage Santé](<https://afro.who.int/countries/democratic-republic-of-congo/news/who-deploys-pdx-preparedness-intelligence-platform-democratic-republic-congo>).
 
-***Not found***. No source found since October 2023 says AI is in service in two or more sectors. Each source names one.
+***Not found***. AI is found in service in education and health only; no source shows it in a third sector.

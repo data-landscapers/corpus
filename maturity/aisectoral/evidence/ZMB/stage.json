@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZMB-003;ZMB-004",
-      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
+      "gaps": "AI is found in service in one sector only, tax; no source found shows it in service in a second.",
       "note": "Rebuild 2026-11-25, read afresh: the revenue authority's AI detects importer and exporter fraud (ZMB-003), and the minister credits it with a 60% gain in collection capacity (ZMB-004). Health, education and water tools are pilots, so 3.",
-      "as_at": "2026-11-25"
+      "as_at": "2026-11-27"
     }
   ]
 }

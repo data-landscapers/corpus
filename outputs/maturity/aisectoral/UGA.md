@@ -10,4 +10,4 @@
 
 ***Also on file***. [ISBAT University AI and Robotics Laboratory](<https://ura.go.ug/en/ura-cg-launches-university-ai-and-robotics-laboratory/>).
 
-***Not found***. No source from the last three years says AI serves two or more sectors.
+***Not found***. No measured results have been found for the judiciary's AI platforms.

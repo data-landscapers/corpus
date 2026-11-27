@@ -10,4 +10,4 @@
 
 ***Also on file***. [local AI application for judicial archives](<https://www.rts.sn/actualite/detail/a-la-une/justice-le-tgi-de-pikine-guediawaye-experimente-une-ia-pour-les-archives-judiciaires>); [ASREF](<https://www.impact.sn/SENEGAL-La-DGID-se-convertit-au-numerique-pour-des-pratiques-fiscales-plus-efficaces_a51008.html>).
 
-***Not found***. No single source found says AI is in service in two or more sectors. No source found reports measured results.
+***Not found***. No source found reports measured results of a sectoral AI system.

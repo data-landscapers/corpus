@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "LSO-002;LSO-005",
-      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
-      "note": "Rebuild 2026-11-25: AI TB screening with the Ministry of Health (LSO-002, LSO-005) is the only tool in service; the tax and farm-advice tools are under way. The several-sectors value is cleared to match.",
-      "as_at": "2026-11-25"
+      "gaps": "AI is found in service in one sector only, health; no source found shows it in service in a second.",
+      "note": "AI TB screening with the Ministry of Health (LSO-002, LSO-005) is the only tool in service; the tax and farm-advice tools are under way. No second sector, so 3.",
+      "as_at": "2026-11-27"
     }
   ]
 }

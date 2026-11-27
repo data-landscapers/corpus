@@ -50,10 +50,10 @@
         "A source from the past three years says no public sector's system uses AI.",
         "An AI tool for a public health, education, agriculture, tax, customs or other sector's system is piloted, tested or being built.",
         "An AI tool is in service in a public sector's system and producing outputs, such as diagnoses, risk scores, forecasts or notices.",
-        "AI tools are in service in the public systems of two or more sectors.",
-        "Measured results of a sectoral AI system in service are reported, such as cases detected, revenue recovered or accuracy."
+        "AI tools are in service in the public systems of two or more sectors, shown by one source or several.",
+        "Measured results of a sectoral AI system in service are reported, such as cases detected, revenue recovered or accuracy, and AI tools are in service in three or more sectors."
       ],
-      "criteria_of": "4d9ad3ca3e2a"
+      "criteria_of": "3829e3320156"
     }
   ],
   "classes": [

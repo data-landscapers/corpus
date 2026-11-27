@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TGO-004;TGO-002;TGO-008",
-      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
-      "note": "Rebuild 2026-11-25: the Digital Market Intelligence platform (TGO-002, TGO-004, TGO-008) is one system shared by tax, customs and commerce inspectors, not AI in the systems of two sectors, and Novissi's targeting (TGO-006) predates the window. The several-sectors value is cleared to match.",
-      "as_at": "2026-11-25"
+      "gaps": "AI is found in service in one sector only, revenue; no source found shows it in service in a second.",
+      "note": "The Digital Market Intelligence platform (TGO-002, TGO-004, TGO-008) is one system shared by tax, customs and commerce inspectors, so one sector, and Novissi's targeting (TGO-006) predates the window. No second sector, so 3.",
+      "as_at": "2026-11-27"
     }
   ]
 }

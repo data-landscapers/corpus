@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "5",
       "use": "inservice",
-      "sectors": "",
+      "sectors": "several",
       "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-004;GHA-003;GHA-009",
-      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
-      "note": "Rebuild 2026-11-25: customs' Publican tool (GHA-003, GHA-004), the revenue authority's tax analytics (GHA-002) and health's PROMPTS (GHA-009) are each in service, from separate sources, so rung 4 is not met. The several-sectors value is cleared to match.",
-      "as_at": "2026-11-25"
+      "stage_sources": "GHA-005;GHA-004;GHA-002;GHA-009",
+      "gaps": "",
+      "note": "Customs' Publican tool (GHA-003, GHA-004), the revenue authority's tax analytics (GHA-002) and maternal-health PROMPTS (GHA-009) put AI in service in three sectors, read across sources (ruling 170), and Publican's clearances are measured (GHA-005). Every rung is met, so 5.",
+      "as_at": "2026-11-27"
     }
   ]
 }

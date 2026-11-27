@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "sectors": "",
+      "sectors": "several",
       "results": "",
       "cap": "",
       "flags": "",
       "stage_sources": "GMB-001;GMB-002",
-      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
-      "note": "Held at 3, housekeeping 71: GMB-001 (the revenue authority's machine-learning risk scores, 2026) and GMB-002 (the higher education ministry's AI timetabling, 2025) are each AI in service giving outputs, but they come from separate sources, and no single source says AI serves two or more sectors, as ruling 114 and the Ghana cell require.",
-      "as_at": "2026-11-13"
+      "gaps": "No source found since October 2023 reports measured results of a sectoral AI system in service.",
+      "note": "The revenue authority's machine-learning risk scores (GMB-001) and the higher education ministry's AI timetabling (GMB-002) are AI in service in two sectors, read across sources (ruling 170). No measured results are reported, so not 5.",
+      "as_at": "2026-11-27"
     }
   ]
 }

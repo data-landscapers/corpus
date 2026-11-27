@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BFA-002",
-      "gaps": "No source found says AI is in service in the public systems of two or more sectors; the education dropout-prediction module and the ANAM forecasting work are pilots.",
+      "gaps": "AI is found in service in one sector only, health; no source found shows it in service in a second.",
       "note": "The TB programme's CAD4TB has read X-rays in field campaigns since 2024, so AI is in service in health. Rung 4 needs AI in service in a second sector, and the May 2026 KIX-SEEDS dropout module is a pilot in two communes, so the measured TB results cannot lift the cell.",
-      "as_at": "2026-11-15"
+      "as_at": "2026-11-27"
     }
   ]
 }

@@ -2,8 +2,8 @@
 type: task
 reader: cc
 title: maturity-study-aisectoral.md — AI at work in a sector's public system, in four questions
-last_reviewed: 2026-10-16
-status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
+last_reviewed: 2026-11-27
+status: first pass run 2026-10-16; staged, written and on the soft-launch map; ruling 170 applied 2026-11-27
 ---
 
 # Maturity study: aisectoral
@@ -30,8 +30,8 @@ Asked in order. Each is answered with a date and a link.
 |---|---|---|
 | 1 | Is a sectoral AI tool under way? | A source from the last three years says an AI tool for a public health, education, agriculture, tax, customs or other sector's system is piloted, tested or being built |
 | 2 | Is one in service? | A source from the last three years says an AI tool is in service in a public sector's system and producing outputs, such as diagnoses, risk scores, forecasts or notices |
-| 3 | Is AI in service in several sectors? | A source from the last three years says AI tools are in service in the public systems of two or more sectors |
-| 4 | Are its results reported? | A source from the last three years reports measured results of a sectoral AI system in service, such as cases detected, revenue recovered or accuracy |
+| 3 | Is AI in service in several sectors? | Sources from the last three years show AI tools in service in the public systems of two or more sectors; each sector may be shown by its own source |
+| 4 | Are its results reported? | A source from the last three years reports measured results of a sectoral AI system in service, such as cases detected, revenue recovered or accuracy, and AI tools are shown in service in three or more sectors |
 
 ## 3. The ladders
 
@@ -43,9 +43,11 @@ Asked in order. Each is answered with a date and a link.
 | 2 Under way | Yes to 1 |
 | 3 In service | Yes to 2 |
 | 4 Several sectors | Yes to 3 |
-| 5 Results reported | Yes to 4 |
+| 5 Results reported | Yes to 4: measured results, and AI in service in three or more sectors |
 
 **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. `study.json` holds this as three aspects: `use` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `sectors` (`several`) for 3 and `results` (`reported`) for 4.
+
+**Sectors are counted across sources** *(Bill, message 170)*: one source need not name two sectors; the in-service rows in the window are pooled, and **stage 5 also needs AI in service in three or more sectors**. `scripts/study-ladder-aisectoral.py` → `SECTOR` names each in-service row's sector. Tax and customs are two sectors, even under one authority (the reading staged before the ruling; Bill did not rule on it). One system shared by several bodies is one sector, as Togo's Digital Market Intelligence platform. A tool whose operating body is not named shows no public sector.
 
 ## 4. The norm
 
@@ -67,6 +69,7 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 - [x] **D1. Read**, 2026-10-16: the batch's shared calls and this study's own, Sonnet drafters; 49 facts after the parent's corrections (`corrections.csv`).
 - [x] **D2. Staged** as at 2026-09-30: 1 at 5, 8 at 3, 15 at 2; unplaced 1, no evidence 29. Every cell is a first pass; no second drafter.
 - [x] **D3. Written, rendered and linted**, by `study-first-write.py`; on the soft-launch map. Reported to Bill.
+- [x] **D4. Bill's ruling 170 applied**, 2026-11-27: §2, §3. Sectors are counted across sources, and stage 5 also needs three sectors. Fifteen cells moved `--kind ruling`: Côte d'Ivoire, Cameroon, DR Congo, Djibouti, Egypt, Gambia, Namibia, Nigeria, Senegal and Zimbabwe 3 to 4; Algeria, Ghana, Malawi, Tanzania and Uganda 3 to 5. DR Congo, Djibouti and Zimbabwe have measured results but two sectors. Eleven one-sector cells reassessed, unmoved. Angola, Ethiopia, Kenya and Morocco keep 5 with three sectors or more.
 
 **Decided in the run**: Removed: a flood model's validation results read as a system in service (Mauritania, which stays at 3).
 

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "5",
       "use": "inservice",
-      "sectors": "",
+      "sectors": "several",
       "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-005;DZA-009;DZA-007",
-      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
-      "note": "Rebuild 2026-11-25: trade (DZA-005), customs (DZA-009) and higher education (DZA-007) each have AI in service, from separate sources, so rung 4 is not met. The several-sectors value is cleared to match.",
-      "as_at": "2026-11-25"
+      "stage_sources": "DZA-006;DZA-005;DZA-009;DZA-007",
+      "gaps": "",
+      "note": "Trade (DZA-005), customs (DZA-009) and higher education (DZA-007) each have AI in service, three sectors read across sources (ruling 170), and the trade ministry's cross-checking flagged 1,013 operators (DZA-006), a measured result. Every rung is met, so 5.",
+      "as_at": "2026-11-27"
     }
   ]
 }

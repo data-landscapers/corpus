@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "sectors": "",
+      "sectors": "several",
       "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZWE-001;ZWE-006",
-      "gaps": "No single source found says AI is in service in the public systems of two or more sectors; the traffic and TB screening facts are separate sources.",
-      "note": "Reassessed 2026-11-13 under ruling 114: AI traffic enforcement in Harare (ZWE-001) and TB screening for the health ministry (ZWE-006) answer question 2. No source says AI is in service in two or more sectors, so question 3 fails and the violation count (ZWE-002) cannot lift the cell past 3.",
-      "as_at": "2026-11-13"
+      "stage_sources": "ZWE-007;ZWE-006",
+      "gaps": "AI is found in service in two sectors, traffic policing and health; stage 5 needs a third beside the measured results.",
+      "note": "AI traffic enforcement (ZWE-001, ZWE-007) and the health ministry's TB screening (ZWE-006) are AI in service in two sectors, read across sources (ruling 170). The violation counts (ZWE-002, ZWE-008) are measured, but stage 5 also needs a third sector, and FAO names no body running EOSTAT (ZWE-009), so 4.",
+      "as_at": "2026-11-27"
     }
   ]
 }

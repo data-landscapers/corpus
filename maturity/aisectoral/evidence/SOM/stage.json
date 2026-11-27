@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SOM-001;SOM-002",
-      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
+      "gaps": "AI is found in service in one sector only, disaster management; no source found shows it in service in a second.",
       "note": "Rebuild 2026-11-25, read afresh: the SAADAAL AI early-warning system is in use in Southwest State's disaster-management ministry (SOM-001, SOM-002). It is one tool in one sector, so 3.",
-      "as_at": "2026-11-25"
+      "as_at": "2026-11-27"
     }
   ]
 }

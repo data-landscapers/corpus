@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No single source found says AI is in service in several sectors. No source found reports measured results from a sectoral AI system in service.
+***Not found***. No source found reports measured results from a sectoral AI system in service.

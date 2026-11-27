@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MRT-002;MRT-001",
-      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
+      "gaps": "AI is found in service in one sector only, weather and climate early warning; no source found shows it in service in a second.",
       "note": "Rebuild 2026-11-25, read afresh: the meteorological office's AI early-warning system with UNDP produces risk scores in production (MRT-002) and serves cooperatives (MRT-001). The farm and education tools are pilots, so 3.",
-      "as_at": "2026-11-25"
+      "as_at": "2026-11-27"
     }
   ]
 }

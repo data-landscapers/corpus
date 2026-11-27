@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "5",
       "use": "inservice",
-      "sectors": "",
+      "sectors": "several",
       "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-005;UGA-002;UGA-007",
-      "gaps": "No source from the last three years says AI is in service in two or more sectors; a 2024 study does, from interviews before August 2023.",
-      "note": "Rebuild 2026-11-25: the revenue authority (UGA-005), TB screening (UGA-002) and the judiciary (UGA-007) each have AI in service, from separate sources, so rung 4 is not met. The several-sectors value is cleared to match.",
-      "as_at": "2026-11-25"
+      "stage_sources": "UGA-006;UGA-005;UGA-002;UGA-007",
+      "gaps": "",
+      "note": "The revenue authority (UGA-005), TB screening (UGA-002) and the judiciary (UGA-007) each have AI in service, three sectors read across sources (ruling 170), and URA's recovered revenue and the TB reader's accuracy are measured (UGA-006, UGA-003). Every rung is met, so 5.",
+      "as_at": "2026-11-27"
     }
   ]
 }

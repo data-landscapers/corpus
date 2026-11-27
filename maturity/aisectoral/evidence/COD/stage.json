@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "sectors": "",
+      "sectors": "several",
       "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "COD-005;COD-003;COD-007",
-      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
-      "note": "Rebuild 2026-11-25, read afresh: AI marks the State Exam in service (COD-003, COD-005, COD-007), with measured speed-ups (COD-004), and TB radiology AI is in health (COD-011), but from separate sources. Rung 4 is not met, so the results cannot lift the cell past 3.",
-      "as_at": "2026-11-25"
+      "stage_sources": "COD-007;COD-011",
+      "gaps": "AI is found in service in two sectors, education and health; stage 5 needs a third beside the measured results.",
+      "note": "AI marks the State Exam (COD-003, COD-005, COD-007) and reads TB X-rays for the national programme (COD-011): two sectors, read across sources (ruling 170). The marking speed-ups (COD-004) are measured, but stage 5 also needs AI in three sectors, so 4.",
+      "as_at": "2026-11-27"
     }
   ]
 }

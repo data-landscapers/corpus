@@ -10,4 +10,4 @@
 
 ***Also on file***. [AI Doctor](<https://www.cnps.cm/fr/post/visite-medicale-preventive-la-cnps-deploie-le-dispositif-ai-doctor.html>).
 
-***Not found***. No single source says AI is in service in the public systems of two or more sectors.
+***Not found***. No source found reports measured results of a sectoral AI system in service.

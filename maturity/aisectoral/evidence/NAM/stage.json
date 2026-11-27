@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "sectors": "",
+      "sectors": "several",
       "results": "",
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-005;NAM-006",
-      "gaps": "No source found since October 2023 says AI is in service in the public systems of two or more sectors.",
-      "note": "The Health Minister said in March 2025 that AI chest X-ray screening for TB has been introduced, and AI tutoring labs opened at a government school in September 2026. No single source names two sectors and no measured results have been found.",
-      "as_at": "2026-10-22"
+      "gaps": "No source found since October 2023 reports measured results of a sectoral AI system in service.",
+      "note": "AI chest X-ray screening for TB (NAM-005) and AI tutoring labs at a government school (NAM-006) are AI in service in two sectors, read across sources (ruling 170). No measured results are reported, so not 5.",
+      "as_at": "2026-11-27"
     }
   ]
 }

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "sectors": "",
+      "sectors": "several",
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CMR-002;CMR-003;CMR-005",
-      "gaps": "No single source found says AI is in service in the public systems of two or more sectors. The tax fraud model was tested by researchers and not confirmed by the tax directorate.",
-      "note": "Rebuild 2026-11-25, read afresh: the national social insurance fund's AI processes pension files and flags fraud (CMR-002, CMR-003), and ONACC's climate platform runs a neural-network forecast (CMR-005), each in service from its own source. No one source names two sectors, so 3.",
-      "as_at": "2026-11-25"
+      "stage_sources": "CMR-001;CMR-002;CMR-005",
+      "gaps": "No source found since October 2023 reports measured results of a sectoral AI system in service.",
+      "note": "The social insurance fund's AI (CMR-002, CMR-003), MINESEC's AI simulations in schools (CMR-001) and ONACC's neural-network climate forecast (CMR-005) are AI in service in three sectors, read across sources (ruling 170). No measured result of a system in service is reported, so not 5.",
+      "as_at": "2026-11-27"
     }
   ]
 }

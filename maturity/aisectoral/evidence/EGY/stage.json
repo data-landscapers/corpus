@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "sectors": "",
+      "sectors": "several",
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-001;EGY-003",
-      "gaps": "No single source found says AI is in service in two or more sectors; the judicial assistant and the NARSS crop map are separate sources, and the Senate study of November 2026 lists initiatives without saying they are in service. No measured results are reported.",
-      "note": "Review 2026-10-21: the judicial assistant and the NARSS crop inventory are each AI in service; rung 4 asks for a source saying AI is in service in two or more sectors, and no one source found says so.",
-      "as_at": "2026-11-25"
+      "stage_sources": "EGY-001;EGY-006;EGY-007",
+      "gaps": "No source found since October 2023 reports measured results of a sectoral AI system in service.",
+      "note": "Justice (EGY-001, EGY-011), customs (EGY-006), health (EGY-007), social protection (EGY-009), agriculture (EGY-016) and tax (EGY-021) each have AI in service, read across sources (ruling 170). No measured results are reported, so not 5.",
+      "as_at": "2026-11-27"
     }
   ]
 }

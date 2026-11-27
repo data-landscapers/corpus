@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "sectors": "",
+      "sectors": "several",
       "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "DJI-001;DJI-002;DJI-003",
-      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
-      "note": "Rebuild 2026-11-25: the meteorological early-warning system (DJI-001) and the corridor road-defect AI (DJI-002, DJI-003) are each in service, from separate sources, so rung 4 is not met. The several-sectors value is cleared to match.",
-      "as_at": "2026-11-25"
+      "stage_sources": "DJI-003;DJI-001",
+      "gaps": "AI is found in service in two sectors, road transport and weather; stage 5 needs a third beside the measured results.",
+      "note": "The corridor road-defect AI (DJI-002, DJI-003) and the meteorological early-warning system (DJI-001) are AI in service in two sectors, read across sources (ruling 170). Its 2,174 detections (DJI-004) are measured, but stage 5 also needs a third sector, so 4.",
+      "as_at": "2026-11-27"
     }
   ]
 }

@@ -10,4 +10,4 @@
 
 ***Also on file***. [AI Fuel Manager](<https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3>).
 
-***Not found***. No source found says AI is in service in the public systems of two or more sectors.
+***Not found***. AI is found in service in traffic policing and health only; no source shows it in a public system of a third sector.
