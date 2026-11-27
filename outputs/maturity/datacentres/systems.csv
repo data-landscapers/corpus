@@ -61,6 +61,7 @@ AGO,Cloud Nacional,Cloud Nacional,other,unified government cloud on government d
 AGO,Government's Data Center and Cloud,Angola,other,,Government,,2026-04-28-ago-new-government-data-center-reinforces-the-country-s-digital-sovereignt
 AGO,Data Center e Cloud Nacional do Governo de Angola,Angola,datacentre,"208 racks, 13,000 vCPU, Camama, Luanda",Government of Angola (MINTTICS),,2026-04-27-ago-data-center-e-cloud-nacional-acelera-transformacao-digital-de-angola
 AGO,Unified Government Cloud,Angola National Cloud,other,government data centres,Government of Angola,,2026-11-10-ago-itu-pp26-policy-statement
+AGO,Data Center e Cloud do Governo de Angola,Angola,other,,Government of Angola,,2026-11-25-ago-angola-quer-desenvolver-industria-nacional-de-software-e-equipamentos
 BDI,ADB data center (server room),data center de l'ADB,other,,Agence de Développement du Burundi,,2026-02-18-adb-appel-offres-racks-data-center-stabilisateurs-projecteurs
 BDI,BBS national data center,national data center,datacentre,,Burundi Backbone System (BBS),level-3 (not stated as Uptime or TIA-942),2020-01-01-world-bank-burundi-digital-economy-assessment
 BDI,Burundi IXP,Burundi Internet Exchange Point,other,,BBS,,2020-01-01-world-bank-burundi-digital-economy-assessment
@@ -121,6 +122,8 @@ BFA,Orange Burkina Faso data centre,data center majeur au Burkina Faso,other,,Or
 BFA,"Two modular government data centres (3,000 TB, sites about 100 km apart)",Burkina Faso,other,,ANPTIC / State,state use; not stated for hire,2026-01-23-bfa-souverainete-numerique-le-burkina-faso-inaugure-deux-data-center-de-3
 BFA,PARGFM land datacenter,Burkina Faso,other,,"Government (land services, World Bank project)",,2025-05-26-bfa-burkina-gestion-du-foncier-le-coordonnateur-du-projet-d-appui-au-renfo
 BFA,State data centres,Burkina Faso,other,,State,,2026-11-11-bfa-registre-identifiant-unique-lefaso
+BFA,Two modular government data centres,Burkina Faso,other,modular data centres,Administration,,2026-11-25-bfa-innovation-et-technologie-la-21e-edition-de-la-semaine-du-numerique-ou
+BFA,two modular data centres,Burkina Faso,other,,government,,2026-11-24-bfa-21e-semaine-du-numerique-le-burkina-faso-reaffirme-son-ambition-de-sou
 BWA,Kala Data Centre,Kala Data Centre,other,,Kala Data FZCO (equipment); Tlou Energy supplies gas,,2026-10-05-itweb-tlou-kala-data-centre-expansion
 BWA,Kala Data Centre,Kala Data Centre,other,,Kala Data FZCO (equipment); Tlou Energy supplies gas,,2026-08-03-itweb-tlou-energy-kala-data-centre-botswana
 BWA,Palapye solar data centre campus (ChillMine/AAAS Energy),,other,,ChillMine; AAAS Energy,,2025-10-06-dutch-us-firms-solar-powered-data-centre-palapye
@@ -158,6 +161,7 @@ BWA,Orange Botswana data centre,Botswana,datacentre,,Orange Botswana,Tier III,20
 BWA,Digital Delta Data Centre,Botswana,datacentre,,Botswana Fibre Networks (BoFiNet),Tier III,2025-10-01-bwa-bofinet-s-digital-delta-data-centre-achieves-tier-iii-certification-fr
 BWA,"Orange Botswana tier three facility, Gaborone",Botswana,datacentre,,Orange Botswana,Tier III,2026-11-12-botswana-positions-data-as-diamonds
 BWA,Government data centre (Department of Shared Digital Services),Botswana,other,,Government of Botswana,,2026-11-16-gov-bw-shared-digital-services
+BWA,NGARi+ Thor sovereign appliance,"Gaborone, BUAN (planned, not a data centre for hire)",other,NVIDIA Jetson AGX Thor,BUAN (donated),,2026-08-01-bwa-ngari-botswana-the-setswana-ai-commons
 CAF,ECCAS regional data centre project,,other,,ECCAS,,2026-08-25-pida-eccas-data-centre-infrastructures-digital-economy
 CAF,National Tier III data centre (Huawei),centre de données national,other,Huawei,State,state,2026-06-03-huawei-egovernance-partnership-four-axes-mbetimedia
 CAF,National Tier III data centre (Huawei),centre de données national,other,Huawei,State,state,2026-05-27-huawei-tier-iii-data-centre-egov-modernisation-agenceecofin
@@ -270,6 +274,7 @@ CIV,Orange CI colocation rooms,Cote d'Ivoire,datacentre,,Orange Cote d'Ivoire,,2
 CIV,ST Digital data centre,Cote d'Ivoire,datacentre,,ST Digital (pan-African group),Tier III,2025-10-02-civ-inauguration-d-un-data-center-du-groupe-panafricain-st-digital
 CIV,RAXIO Datacenter,Cote d'Ivoire,datacentre,,RAXIO Group,Tier III,2026-07-16-civ-stockage-de-donnees-les-10-datacenters-en-cote-d-ivoire-pour-un-debut
 CIV,ST Digital Datacenter,Cote d'Ivoire,datacentre,,ST Digital,Tier III,2026-07-16-civ-stockage-de-donnees-les-10-datacenters-en-cote-d-ivoire-pour-un-debut
+CIV,Grand-Bassam data centre,Côte d'Ivoire,other,,,,2026-04-30-civ-cote-d-ivoire-aip-intelligence-artificielle-djibrill-ouattara-met-en-a
 CMR,CAMTEL Zamengoe data center,CMR,datacentre,,CAMTEL,Tier III,2026-09-07-cmr-businessincameroon-cybastion-75m
 CMR,ST Digital Douala data center,CMR,datacentre,,ST Digital,,2026-09-07-cmr-businessincameroon-cybastion-75m
 CMR,Cybastion Douala AI data center (planned),CMR,other,,Cybastion,,2026-09-07-cmr-businessincameroon-cybastion-75m
@@ -334,6 +339,7 @@ CMR,CAMTEL Data Center,Cameroon,datacentre,,CAMTEL,Tier III,2026-01-01-cmr-trans
 CMR,Zamengoé data centre,Cameroon,datacentre,,Camtel,Tier III,2026-06-10-cmr-telecoms-camtel-devoile-le-data-center-de-zamengoe-prouesse-de-souvera
 CMR,Zamengoue Data Center,Cameroon,datacentre,,Camtel,,2026-06-01-cmr-digital-sovereignty-public-applauds-strides-of-camtel-s-zamengoue-data
 CMR,CAMTEL national data centre,CAMTEL,datacentre,,CAMTEL,,2026-05-18-com-webinaire-souverainete-appropriation-des-systemes-de-sante-numeriques
+CMR,"Cybastion sovereign data centre, Missole 1-Dibamba",Cameroon,other,,Cybastion (US),,2026-11-23-cmr-lamericain-cybastion-inspecte-le-site-de-son-futur-data-center-a-doual
 COD,"Lofoyi HPC data centre (Universite Nouveaux Horizons, Lubumbashi)",HPC Lofoyi,other,,Universite Nouveaux Horizons,,2026-06-28-laguardia-unh-lubumbashi-datacenter-supercalculateur-lofoyi
 COD,Raxio DRC1,"Raxio DRC1, Limete, Kinshasa",datacentre,,Raxio Group,Tier III,2026-06-27-decrypteco-lubumbashi-data-center-lofoy-unh
 COD,"OADC Silikin Village, Kinshasa",OADC Kinshasa,datacentre,,Open Access Data Centres,,2026-06-27-decrypteco-lubumbashi-data-center-lofoy-unh
@@ -464,6 +470,7 @@ COM,State data centre,Comoros,other,,State,,2026-10-22-com-alwatwan-conseil-mini
 COM,AWS cloud (AMG openIMIS hosting),AWS,other,AWS,Amazon Web Services,,2026-05-18-com-webinaire-souverainete-appropriation-des-systemes-de-sante-numeriques
 COM,PADEC main data centre,Comoros,other,,ANADEN,to be built,2025-06-18-com-avis-general-de-passation-de-marches-projet-d-appui-a-la-digitalisatio
 COM,Data center de l'administration publique,Comoros,other,,ANADEN and Comores Cables,,2025-05-20-com-journee-mondiale-des-telecommunications-i-une-journee-pour-une-double
+COM,Technopole Numerique des Comores data center,Comoros,other,,"Ministry of Posts, Telecommunications, Digital Economy and Transparency",,2026-04-04-com-technopole-numerique-des-comores-note-de-synthese
 CPV,Praia state data centre (Data Center do Estado de Cabo Verde),Data Center do Estado,datacentre,,"NOSi, E.P.E.",,2024-12-31-nosi-relatorio-de-gestao-e-contas-2024
 CPV,Praia state data centre (Data Center do Estado de Cabo Verde),Data Center do Estado,datacentre,,"NOSi, E.P.E.",,2026-02-17-cpv-nosi-sistema-fotovoltaico-data-center
 CPV,Technology Park Data Center (DC3),DC3,other,,UGPE / Cabo Verde Technology Park Phase II,,2024-09-09-cabo-verde-technology-park-phase-ii-ifb-011-dc3-datacom
@@ -792,6 +799,7 @@ GAB,premier datacenter national,GAB,other,,ANINF (government),,2025-12-22-gab-al
 GAB,"ST Digital data center, Nkok",GAB,other,,ST Digital,,2025-07-01-gabon-lunion-digital-subregional-reference
 GAB,ST Digital data centre (Gabon),GAB,other,,ST Digital,,2026-06-11 Can Africa supply it's own digital infrastructure
 GAB,National Data Centre (feasibility study),GAB,other,,Government of Gabon,,2018-02-20-iati-46002-p-z1-gz0-001-gabon-ict-backbone-feasibility-study
+GAB,ST Digital Nkok sovereign data centre,Gabon,datacentre,colocation and sovereign cloud,ST Digital,"Tier III design, certification pending",2026-07-01-gab-jean-francis-ahanda-la-souverainete-numerique-et-l-etat
 GHA,Agility Logistics Park Data Centre Campus,Agility Logistics Park Data Centre Campus,other,,,,2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline
 GHA,ACR2,ACR2,datacentre,,Digital Realty,,2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)
 GHA,ACR2,ACR2,datacentre,,Digital Realty,,2025-10-31-digital-realty-opens-accra-data-center-graphic
@@ -1077,6 +1085,7 @@ KEN,"iColo Data Center, Mombasa",Mombasa,datacentre,,,,2025-01-25-tza-utekelezaj
 KEN,National Data Centre at Konza Technopolis,National Data Centre,datacentre,"cloud-based, tier 3",Government of Kenya,3,2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery
 KEN,Konza Technopolis Data Center,Konza Technopolis Data Center,datacentre,,Ministry of ICT through Konza Technopolis Development Authority,Tier III (as stated),2024-02-08-ken-nakuru-county-explores-partnership-with-konza-technopolis-data-center
 KEN,Konza Data Center,Kenya,datacentre,,Konza Technopolis Development Authority,,2025-07-08-ken-konza-cloud-partners
+KEN,iXAfrica NBOX1,Kenya,datacentre,,iXAfrica,,2026-11-25-ken-hurricane-electric-expands-global-network-with-new-point-of-presence-at
 LBR,Cable Consortium of Liberia Monrovia landing facility,Co-location services,datacentre,,Cable Consortium of Liberia,,2025-04-29-cable-consortium-of-liberia-co-location-services
 LBR,National data center (planned),national data center,other,,Government of Liberia (Ministry of Posts and Telecommunications),,2026-09-30-liberia-national-data-center-investors-power
 LBR,National data center (planned),national data center,other,,Government of Liberia,,2026-07-23-liberia-lta-commissioner-honnah-expanding-digital-access
@@ -1118,6 +1127,7 @@ LSO,Project Kobong AI data centre,Project Kobong,other,,Convalt Energy,,2026-07-
 LSO,Kobong Project AI data centre,Kobong Project,other,,Convalt Energy,,2026-09-15-lso-lesotho-s-biggest-foreign-investment-deal-faces-scrutiny
 LSO,Kobong Project AI data centre,Kobong Project,other,,Convalt Energy,,2026-09-15-lso-minister-may-benefit-from-lesotho-s-r100-billion-ai
 LSO,Mohale's Hoek Data Centre,Lesotho,other,,Government,,2026-10-23-lso-lesotho-urged-to-turn-innovation-into-jobs-and-economic-growth-lesotho
+LSO,national data centre,Lesotho,other,,,,2026-11-01-lso-lesotho-pp-26-policy-statement
 MAR,"Nouaceur AI data centre (Naver Cloud, Nvidia, Nexus Core Systems)",,other,,Naver Cloud/Nvidia/Nexus Core Systems consortium,,2026-08-09-maroc-data-centers-leader-ia
 MAR,Dakhla green data centre,,other,,,,2026-08-09-maroc-data-centers-leader-ia
 MAR,Oracle Cloud Casablanca Region,,datacentre,Oracle Cloud Infrastructure,Oracle,,2026-04-10-oracle-launches-cloud-region-in-casablanca-morocco
@@ -1202,6 +1212,9 @@ MAR,N+One Datacenters,Morocco,datacentre,,N+One,,2025-06-03-mar-morocco-boom-in-
 MAR,Medasys data centre,Morocco,datacentre,,Medasys,,2025-06-03-mar-morocco-boom-in-data-centers
 MAR,Oracle cloud region Casablanca,Morocco,datacentre,Oracle,Oracle,,2026-11-16-hespress-ar-ai-ministry-sovereign-platform
 MAR,Jazari Root sovereign data centre,Morocco,other,,Jazari Root,,2026-10-30-mar-plf-2027-l-etat-branche-sur-l-ia
+MAR,Dakhla green data centre mega campus,MAR,other,,,,2026-01-13-mar-intelligence-artificielle-un-prompt-made-in-morocco
+MAR,Rabat 50 MW data centre and sovereign cloud,MAR,other,,,,2026-01-13-mar-intelligence-artificielle-un-prompt-made-in-morocco
+MAR,Benguerir data centre extension,MAR,other,,UM6P,,2026-01-13-mar-intelligence-artificielle-un-prompt-made-in-morocco
 MDG,PRODIGY Tsimbazaza primary data centre,Data Center principal Tsimbazaza,other,,UGD / PRODIGY (state),,2026-04-21-publication-documents-gres-prodigy-datacenters
 MDG,PRODIGY Iavoloha secondary data centre,Data Center secondaire Iavoloha,other,,UGD / PRODIGY (state),,2026-04-21-publication-documents-gres-prodigy-datacenters
 MDG,STELLARIX data centres (Galaxy Andraharo; Analakely),Nos Datacenters,datacentre,,STELLARIX,"described as Tier III ready, not certified",2025-12-11-stellarix-colocation-housing-antananarivo
@@ -1773,6 +1786,8 @@ SEN,Data centers at Diamniadio and Orana,Senegal,other,,,,2026-03-24-sen-new-dea
 SEN,Apsara Stack private cloud (Dakar 2026),Senegal,other,Alibaba Cloud Apsara Stack,Dakar 2026 Organizing Committee,,2026-11-02-alibaba-cloud-ai-dakar-youth-olympic-games
 SEN,Pikine-Guediawaye court mini data centre,Senegal,other,,Ministry of Justice,Tier III equipment,2025-08-27-sen-digital-justice-in-senegal-e-justice-pilot-brings-courts-online-in-dak
 SEN,Diamniadio Digital Park data center,Senegal,other,,Government of Senegal,,2026-11-21-sen-senegal-diamniadio-digital-park-remains-unfinished-after-ten-years-acco
+SEN,Yas Diamniadio data centre,site Tier 3 de Yas a Diamniadio,other,,Yas,Tier 3,2026-09-06-sen-ia-au-senegal-le-pari-de-la-souverainete
+SEN,PAIX Dakar site,PAIX,other,"1.2 MW, 330 racks, first phase due 2026, under construction",PAIX,,2026-09-06-sen-ia-au-senegal-le-pari-de-la-souverainete
 SLE,NCRA Tier III-compliant data centre,NCRA data centre,other,,National Civil Registration Authority (NCRA),government,2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure
 SLE,National Data Centre,National Data Centre,other,,"NatCA / MoCTI (Southridge HQ, Freetown)",government,2026-04-18-sierra-leone-statehouse-natca-hq-national-data-centre-commissioning
 SLE,National Data Centre,National Data Centre,other,,"NatCA / MoCTI (Southridge HQ, Freetown)",government,2026-04-17-natca-hq-national-data-centre

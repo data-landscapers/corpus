@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-25-ken-hurricane-electric-expands-global-network-with-new-point-of-presence-at",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Hurricane Electric's press release describes iXAfrica NBOX1 on Mombasa Road, Nairobi, as a carrier-neutral data center serving cloud providers, hyperscalers and enterprises, where Hurricane Electric has opened a point of presence.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "iXAfrica NBOX1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iXAfrica NBOX1",
+   "country_label": "Kenya",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iXAfrica",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

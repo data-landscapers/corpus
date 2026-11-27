@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-01-gab-jean-francis-ahanda-la-souverainete-numerique-et-l-etat",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "ST Digital's CTO says hosting and colocation are the base offer of its Nkok sovereign data centre, inaugurated by the president days earlier, and that the site is ramping up.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "ST Digital Nkok sovereign data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "ST Digital's CTO calls the Nkok data centre Tier III by design (N+1, dual power path) while Uptime Institute certification is still in progress and targeted within months.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "ST Digital Nkok sovereign data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ST Digital Nkok sovereign data centre",
+   "country_label": "Gabon",
+   "class": "datacentre",
+   "platform": "colocation and sovereign cloud",
+   "owner": "ST Digital",
+   "tiers": "Tier III design, certification pending"
+  }
+ ],
+ "note": ""
+}
