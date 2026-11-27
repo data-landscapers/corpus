@@ -413,6 +413,7 @@ NER,HAPDP,Haute Autorité de Protection des Données à Caractère Personnel,aut
 NER,HAPDP,Niger,authority,,,,2024-09-18-ner-haute-autorite-de-protection-des-donnees-a-caractere-personnel-le-pres
 NER,Haute autorite de protection des donnees a caractere personnel,Niger,authority,,,,2024-01-03-ner-niger-le-fichier-biometrique-electoral-une-garantie-pour-des-elections
 NER,HAPDP,Haute Autorite de Protection des Donnees a caractere personnel,authority,,,,2025-02-27-ner-bilan-2024-du-ministere-de-la-communication-adoption-d-une-politique-n
+NER,Haute Autorité de Protection des Données à caractère Personnel (HAPDP),Niger,authority,,,,2025-07-30-ner-semaine-de-l-intelligence-artificielle-et-des-technologies-geospatiale
 NGA,Nigeria Data Protection Act 2023,Nigeria Data Protection Act 2023,other,,,,2026-09-28-nga-premiumtimes-court-dismisses-meta-privacy-suit-imo
 NGA,Nigeria Data Protection Commission,NDPC,authority,,,,2026-09-28-nga-premiumtimes-court-dismisses-meta-privacy-suit-imo
 NGA,Nigeria Data Protection Act 2023,Nigeria Data Protection Act 2023,other,,,,2026-09-16-nga-digitalbusiness-etat-reprend-ndpc-recettes-9-millions
@@ -599,6 +600,8 @@ UGA,Personal Data Protection Office (PDPO),Uganda,authority,,,,2025-08-31-uga-ug
 UGA,Personal Data Protection Office (PDPO),Uganda,authority,,,,2025-03-12-uga-pdpo-decision-061-2024-simbwa-v-chipper
 UGA,Personal Data Protection Office (PDPO),Uganda,authority,,state,,2026-10-29-uga-police-pdpo-raid-synclend-uganda-call-centre-arrest-13-over-harassment
 UGA,Personal Data Protection Office,Personal Data Protection Office,authority,,NITA-U,,2026-11-04-uga-minister-gives-colleague-ultimatum-on-ubos-chief-s-conduct
+UGA,Personal Data Protection Office,Personal Data Protection Office (PDPO),authority,,,,2026-11-26-uga-eight-government-agencies-fail-data-protection-audit
+UGA,Personal Data Protection Office,Uganda,authority,,Government of Uganda,,2026-11-26-uga-eight-government-institutions-fail-data-protection-audit
 ZAF,Protection of Personal Information Act (POPIA),POPIA,other,,Information Regulator (enforcer),,2026-09-17-itweb-co-za-inforeg-ai-regulatory-complexities
 ZAF,Information Regulator,InfoReg,authority,,Information Regulator,,2026-09-17-itweb-co-za-inforeg-ai-regulatory-complexities
 ZAF,Promotion of Access to Information Act (PAIA),PAIA,other,,Information Regulator (enforcer),,2026-09-17-itweb-co-za-inforeg-ai-regulatory-complexities
