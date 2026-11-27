@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-27 00:37 · **REVIEW** · unclocked · DJI: status 11 sections revised, 23 trimmed, progress 1 cells, finance 0 rows; 1 deals queued, 0 notes for OSINT — ok
 2026-11-27 00:28 · **REVIEW** · 10m · DZA: status 1 sections revised, 21 trimmed, progress 2 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-11-27 00:17 · **BUILD** · 1h12m · polled cycle; catalogue 46,834; 47 units, 165 sources: 17 moved, 51 minted, 18 status; DC 15 rows; budget 0 waiting; 4c 162 facts, 7 moved; Who's Who 163; bulletin 29; 133 dead links - ok
 2026-11-26 23:03 · **NOTES** · unclocked · Closed corpus-notes 92 (manifest classify block: no change). OSINT's resolution of osint-notes 362 is housekeeping 93.
