@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-civ-fiche-d-opportunite-d-investissement-op-5-03-034-transition-numerique",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The sheet lists Loi n° 2013-451 on cybersecurity and the fight against cybercrime as part of Côte d'Ivoire's regulatory framework.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "Loi n° 2013-451",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
