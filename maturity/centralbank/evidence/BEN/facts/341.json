@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-26-xwa-a-cotonou-le-next-fintech-forum-2026-met-l-industrialisation-de-la-fin",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The BCEAO's list records 4 licensed payment institutions established in this country at 31 August 2026, out of 34 in the WAEMU, as relayed by Agence Ecofin.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "BCEAO payment institution licensing",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
