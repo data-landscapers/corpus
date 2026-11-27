@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "bodies": "",
+      "bodies": "several",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-002",
-      "gaps": "No source found shows AI in service in a second government body, or rules or a register for the government's own use of AI.",
-      "note": "Fact 2026-10-21: the Customs Commission's AI chatbot, unveiled in October 2025, is AI in service in one government body; the Addis Ababa registration system was announced to start, so no second body has been found.",
-      "as_at": "2026-10-21"
+      "stage_sources": "ETH-002;ETH-003;ETH-004",
+      "gaps": "No source found says the government has issued rules or a register for its own use of AI.",
+      "note": "Fact 2026-11-26: University World News says the Ethiopian Media Authority uses AI against misinformation and the National Election Board uses it in election planning and registration (ETH-003, ETH-004), beside the Customs Commission's chatbot (ETH-002): AI in service in several bodies across sectors. No rules or register, so not 5.",
+      "as_at": "2026-11-26"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-26-gha-trade-minister-launches-digital-platform-to-tackle-trade-barriers-in-ghana",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "MyJoyOnline reports Trade Minister Elizabeth Ofosu-Adjare launched the National Non-Tariff Barriers Reporting and Resolution Platform, which takes complaints by web, WhatsApp, social media and USSD and has AI capabilities to process them.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "National NTB Reporting and Resolution Platform",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National NTB Reporting and Resolution Platform",
+   "country_label": "Ghana",
+   "class": "govai",
+   "platform": "web, WhatsApp, USSD",
+   "owner": "Ministry of Trade, Agribusiness and Industry",
+   "tiers": ""
+  }
+ ],
+ "note": "Launch date not stated; publication date used."
+}

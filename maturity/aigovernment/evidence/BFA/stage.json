@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "2",
-      "use": "underway",
+      "stage": "3",
+      "use": "inservice",
       "bodies": "",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-001;BFA-002",
-      "gaps": "No source found since October 2023 says: is an ai system in service in administration.",
-      "note": "Reassessed 2026-11-24: an October 2025 agreement with the broadcaster and the minister's March 2025 statement that a platform and two chatbots were being finalised show AI under way; a later report calls them launched but rests on the same statement. Nothing shows one in service, so stage 2.",
-      "as_at": "2026-11-24"
+      "stage_sources": "BFA-006;BFA-005",
+      "gaps": "No source found says AI is in service in two or more government bodies in different sectors, or that rules or a register for government AI are published.",
+      "note": "Fact 2026-11-26: the government broadcasts information in Mooré on Burkina-en-marche.gov.bf through CITADEL's speech translation system (BFA-006, April 2026), and the government secretary general presented LegiChat on legislative texts in October 2025 (BFA-005): AI in service in government. Both serve the central government, so not several bodies across sectors.",
+      "as_at": "2026-11-26"
     }
   ]
 }

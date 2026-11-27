@@ -1,17 +1,18 @@
 {
- "iso3": "GNB",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "no evidence",
-   "use": "",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether government bodies use AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "3",
+      "use": "inservice",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNB-001",
+      "gaps": "The OKINKA site is the only source: it calls the assistant state property and names no government body that runs it. No second body, rules or register has been found.",
+      "note": "Fact 2026-11-26: the OKINKA site presents a live national AI assistant answering citizens, which it calls property of the Guinean state (GNB-001), read as AI in service in government. Its claim is its own, and no second body is found, so 3.",
+      "as_at": "2026-11-26"
+    }
+  ]
 }

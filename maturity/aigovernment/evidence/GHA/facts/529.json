@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-28-gha-ghanafact-national-ai-strategy-key-points",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GhanaChat",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "GhanaChat is named only as an action within the AI strategy, with no pilot or service stated."
+}

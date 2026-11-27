@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-25-egy-egypt-s-finance-and-ict-ministries-launch-ai-hackathon-to-engage-start",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AI Hackathon (impacthackathon.itida.gov.eg)",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "ITIDA online competition platform",
+   "owner": "Ministry of Finance, MCIT, ITIDA",
+   "tiers": ""
+  }
+ ],
+ "note": "A competition inviting startups to build tools; no government AI system is stated as piloted, tested or in service."
+}

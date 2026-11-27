@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-07-bfa-lintelligence-artificielle-au-burkina-faso-mise-a-jour-2026",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The government's secretary general presented LegiChat, a platform that eases access to the country's legislative and regulatory texts, at the national AI campaign launch at Joseph Ki-Zerbo University on 28 October 2025, according to TIC Magazine BF.",
+   "as_of": "2025-10-28",
+   "date_precision": "day",
+   "system": "LegiChat",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LegiChat",
+   "country_label": "LegiChat",
+   "class": "govai",
+   "platform": "",
+   "owner": "Secretariat general of the government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

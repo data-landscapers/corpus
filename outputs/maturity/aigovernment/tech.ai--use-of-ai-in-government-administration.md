@@ -21,12 +21,12 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 | Stage | Countries |
 |---|---|
 | 5 Mature | 0 |
-| 4 Operating | 18 |
-| 3 Established | 17 |
-| 2 Nascent | 7 |
+| 4 Operating | 19 |
+| 3 Established | 18 |
+| 2 Nascent | 6 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
-| No evidence | 9 |
+| No evidence | 8 |
 
 ## Countries
 
@@ -63,6 +63,14 @@ The social insurance fund and the state IT centre ran AI systems by 2026; no sou
 AI was in service in several government bodies in 2026; a 2026 procurement guideline binds only through tenders, so no binding rules are shown.
 
 - The same report counts more than 40 AI applications across government and banking ([source, 2026-06](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)).
+
+### Ethiopia: 4 Operating
+
+Ethiopia's customs commission, media authority and election board use AI, reported in 2025 and 2026; rules or a register are not known.
+
+- Addis Fortune reports that the Ministry of Revenues and the Ethiopian Customs Commission unveiled eight digital systems on 12 October 2025, including an AI-based Customs Chatbot ([source, 2025-10-12](https://addisfortune.news/revenue-customs-launch-eight-new-tech-systems)).
+- University World News says the Ethiopian Media Authority this year introduced the use of an AI system to try to eradicate misinformation and hate speech ([source, 2026](https://www.universityworldnews.com/post.php?story=20260420161404216)).
+- University World News names AI in use at both the Ethiopian Media Authority (misinformation monitoring) and the National Election Board (election planning and registration), two bodies in different sectors ([source, 2026](https://www.universityworldnews.com/post.php?story=20260420161404216)).
 
 ### Ghana: 4 Operating
 
@@ -156,6 +164,13 @@ Zimbabwe's education ministry and a local government scoring platform used AI in
 - The Ministry of Primary and Secondary Education launched the Learner's Hub Chatbot at the Zimbabwe International Trade Fair, giving learners, teachers and parents academic and psychosocial support, with an AI academic assistant, built by consultants UChat Africa ([source, 2026-04-22](https://www.heraldonline.co.zw/government-launches-learners-hub-chatbot-at-zitf/)).
 - Gemnation reports that the Citizens Engagement and Scoring Platform, launched by President Mnangagwa on 18 June 2026, has a built-in AI model that analysed live Harare council scores and produced a recommendation ([source, 2026-06-18](https://gemnation.co.zw/harare-residents-can-now-score-their-council-in-real-time-heres-how/)).
 
+### Burkina Faso: 3 Established
+
+The government used AI speech translation in 2026 and presented a legal-text platform in 2025; use across several bodies is not known.
+
+- Digital Magazine Burkina, citing Lefaso.net, says the Burkinabe government already uses CITADEL's French-Moore speech translation system to broadcast information in Moore on the Burkina-en-marche.gov.bf platform ([source, 2026-04-06](https://digitalmagazine.bf/2026/04/06/intelligence-artificielle-le-centre-dexcellence-interdisciplinaire-en-intelligence-artificielle-pour-le-developpement-citadel-au-cours-du-loreslm-2026-lia-burkinabe-parle-desorma/)).
+- The government's secretary general presented LegiChat, a platform that eases access to the country's legislative and regulatory texts, at the national AI campaign launch at Joseph Ki-Zerbo University on 28 October 2025, according to TIC Magazine BF ([source, 2025-10-28](https://ticmagazine.bf/intelligence-artificielle-burkina-faso-2026/)).
+
 ### Cape Verde: 3 Established
 
 Cape Verde's labour inspectorate launched a portal with AI features in 2026; no source found shows AI in service in a second government body.
@@ -181,12 +196,6 @@ A government body used an AI system in service in 2025; AI in several bodies is 
 
 - The column says the Ministry of Health had just launched 'Chatbot Guinea Salud', a virtual assistant for public queries ([source, 2025-06](https://ahoraeg.com/sociedad/opinion/2025/06/13/como-podria-mejorar-la-inteligencia-artificial-ia-la-gestion-administrativa-en-guinea-ecuatorial/)).
 
-### Ethiopia: 3 Established
-
-Ethiopia's customs commission has run an AI chatbot since October 2025; no source found says whether other government bodies use AI.
-
-- Addis Fortune reports that the Ministry of Revenues and the Ethiopian Customs Commission unveiled eight digital systems on 12 October 2025, including an AI-based Customs Chatbot ([source, 2025-10-12](https://addisfortune.news/revenue-customs-launch-eight-new-tech-systems)).
-
 ### Gabon: 3 Established
 
 A government body used an AI system in service in 2025; AI in several bodies is not on record.
@@ -198,6 +207,12 @@ A government body used an AI system in service in 2025; AI in several bodies is 
 A government body used an AI system in service in 2026; AI in several bodies is not on record.
 
 - Permanent Secretary Cordu L. Jabang of the Ministry of Information said The Gambia had recently launched an AI-powered fact-checking and verification system, housed under the Ministry, that takes citizens' audio, video, text and voice messages, including in local languages, through a WhatsApp line and returns feedback on whether they are true ([source, 2026-04-28](https://gna.org.gh/2026/04/gna-gambian-officials-highlight-ai-digital-transformation-in-modern-journalism/)).
+
+### Guinea-Bissau: 3 Established
+
+In 2026 a site presents a national AI assistant that it calls state property; no government body running it has been found.
+
+- The OKINKA landing page presents a live national AI assistant answering questions from citizens, diaspora, investors and tourists, and describes it as property of the Guinean state, a claim made by the site itself ([source, 2026](https://guineia.com/)).
 
 ### Lesotho: 3 Established
 
@@ -260,13 +275,6 @@ Tunisia's business registry put two AI chatbots into service in 2026; no second 
 Zambia's revenue authority has run an AI chatbot since 2026; no source found reports other bodies have tendered or tested AI, and rules.
 
 - Zambia Monitor quotes the Zambia Revenue Authority's Commissioner-General saying that on 16 July 2026 the ZRA already has an Artificial Intelligence Unit and has introduced an AI-powered chatbot, an HS Code search engine and a taxpayer nudging system ([source, 2026-07-16](https://www.zambiamonitor.com/techbytes-zra-turns-to-ai-research-to-strengthen-tax-administration/)).
-
-### Burkina Faso: 2 Nascent
-
-AI for public administration was under way in 2025; none in service is on record.
-
-- The Ministry of Digital Transition and public broadcaster RTB signed an agreement on 21 October 2025 to use AI to make public information accessible, and a live demonstration showed a Moore-French translation tool ([source, 2025-10-21](https://news.broadcastmediaafrica.com/2025/10/23/burkina-faso-pioneers-ai-integration-in-public-broadcasting-with-rtb-partnership/)).
-- Digital Transition Minister Aminata Zerbo/Sabane told parliament her department is finalising three major projects: the Djam platform, a chatbot on electronic communications regulation and a chatbot on Burkina Faso's legislative texts ([source, 2025-03-11](https://an.bf/127)).
 
 ### DR Congo: 2 Nascent
 
@@ -342,12 +350,6 @@ Nothing found names AI in public administration or says there is none, so no sta
 Not established: Nothing found says whether government bodies use AI.
 
 ### Eritrea: No evidence
-
-Nothing found names AI in public administration or says there is none, so no stage is set.
-
-Not established: Nothing found says whether government bodies use AI.
-
-### Guinea-Bissau: No evidence
 
 Nothing found names AI in public administration or says there is none, so no stage is set.
 

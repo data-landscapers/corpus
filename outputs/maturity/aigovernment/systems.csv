@@ -4,6 +4,7 @@ AGO,SEP360,Angola,govai,AI and Robotic Process Automation,IGAPE,,2026-01-06-ago-
 AGO,INACOM portal AI chatbot,Angola,govai,INACOM portal and WhatsApp,INACOM,,2025-06-12-ago-novo-portal-do-inacom-destaca-inovacao-ao-servico-do-cidadao
 AGO,Portal SIMPLIFICA,Angola,govai,single window portal for public services,Instituto de Modernização Administrativa (IMA),,2026-10-29-ago-pti-ima-concurso-internacional-portal-simplifica
 AGO,Audimus,Assembleia Nacional,govai,VoiceInteraction speech recognition,Assembleia Nacional,,2025-11-19-ago-expansao-ia-banca-assembleia-nacional-ende
+AGO,"Tech Minas, Tech Ecologia, Tech Agro, Tech Gest",Angola,other,AI platforms on satellite and drone data,Gabinete de Gestão do Programa Espacial Nacional (GGPEN),,2026-04-30-ago-minttics-destaca-potencial-do-data-center-e-cloud-nacional-para-reforc
 BDI,Chatbot WhatsApp de l'OBR,Burundi,govai,WhatsApp,Office Burundais des Recettes,,2026-09-01-bdi-l-obr-lance-officiellement-son-chatbot-whatsapp-l-assistance-fiscale-e
 BEN,"Billet juridique (ASIN, advisory)",Benin,other,,ASIN,,2026-06-01-asin-benin-billet-juridique-ia-generative-agents-publics
 BEN,Seyna,Benin,govai,ANIP BJ app,ANIP,,2025-02-17-ben-anip-de-nouvelles-solutions-numeriques-pour-des-prestations-ameliorees
@@ -23,6 +24,9 @@ BFA,Chatbot on legislative texts,Burkina Faso,govai,,Ministry of Digital Transit
 BFA,DJAM platform,DJAM,govai,,"Ministry of Digital Transition, Posts and Electronic Communications",,2025-03-12-bfa-burkina-faso-outlines-ai-progress-unveils-plan-to-become-west-africa-s
 BFA,DJAM,Burkina Faso,govai,,Ministry of Digital Transition,,2025-03-12-bfa-la-ministre-a-formule-une-recommandation-a-l-endroit-du-gouvernement-p
 BFA,Chatbot on legislative texts (LegiBurkina),Burkina Faso,govai,LegiBurkina,Ministry of Digital Transition,,2025-03-12-bfa-la-ministre-a-formule-une-recommandation-a-l-endroit-du-gouvernement-p
+BFA,LegiChat,LegiChat,govai,,Secretariat general of the government,,2026-07-07-bfa-lintelligence-artificielle-au-burkina-faso-mise-a-jour-2026
+BFA,CITADEL French-Moore speech translation,Burkina Faso,govai,Burkina-en-marche.gov.bf,CITADEL,,2026-04-06-bfa-intelligence-artificielle-le-centre-dexcellence-interdisciplinaire-en
+BWA,Pula Assistant,"Pula Assistant (planned citizen assistant of the Batswana AI Trust, pilot late 2027)",other,offline voice assistant,Batswana AI Trust,,2026-08-01-bwa-ngari-botswana-the-setswana-ai-commons
 CIV,EMY 101,Côte d'Ivoire,govai,WhatsApp and Messenger,Government of Côte d'Ivoire,,2026-03-20-emy-101-ai-chatbot-public-services-techafricanews
 CIV,EMY 101,Côte d'Ivoire,govai,"WhatsApp, Messenger, toll-free 101",Government of Côte d'Ivoire,,2026-03-19-emy-101-ai-chatbot-wearetech
 CIV,national apprenticeship placement platform,Cote d'Ivoire,govai,,"Ministry of Youth Promotion, Professional Integration and Civic Service",,2025-07-17-civ-journee-mondiale-des-competences-des-jeunes-51601-jeunes-formes-aux-me
@@ -50,6 +54,7 @@ DJI,e-JO,Djibouti,other,,Secretariat general du gouvernement,,2026-11-21-dji-adi
 DZA,Private Digital Adviser,Algeria,govai,,Ministry of Higher Education and Scientific Research,,2025-04-30-dza-univ-khenchela-mesrs-ai-digital-adviser
 DZA,AI-boosted automated data analysis and cross-checking system on the import platform,Algeria,other,ministry digital platform,Ministry of Foreign Trade and Export Promotion,,2026-09-03-dza-importations-suspectes-en-algerie-l-ia-demasque-des-documents-identiqu
 DZA,APN AI transcription and translation tools,Algeria,govai,,Assemblee Populaire Nationale,,2024-10-01-dza-contribution-de-m-salim-djalal-secretaire-general-de-l-assemblee-popul
+DZA,Dzair Digital Services,Algeria,other,national public-services portal,Government of Algeria,,2026-05-26-dza-itmag-gouvernement-valide-strategie-ia-dzair-digital-services
 EGY,EG-CERT,Egypt,govai,,National Telecom Regulatory Authority,national,2026-06-10-egypt-ai-national-security-strategy-karnak-ahram
 EGY,Karnak Chat,Egypt,govai,chatbot on the Karnak large language model,Ministry of Communications and Information Technology,national,2026-08-24-ahram-gate-egypt-karnak-chat-llm-digital-sovereignty
 EGY,KMT,KMT,govai,"CAOA website, WhatsApp, Facebook",Central Agency for Organization and Administration (CAOA),,2024-02-25-egy-caoa-kmt-ai-chatbot-civil-service-launch
@@ -66,12 +71,17 @@ EGY,Public Prosecution AI data centre and case-file tools,Egypt,other,,Public Pr
 EGY,Calculate Your Opportunity,Egypt,govai,Ministry of Industry unified digital platform,Ministry of Industry,,2026-11-21-egy-industry-ministry-unified-digital-platform
 EGY,Egyptian guideline for procurement of AI systems,Egypt,govai,guideline,MCIT with the Egyptian Center for Responsible AI; adopted by the National Council for AI,national,2026-11-23-egy-fintechgate-egypt-ai-procurement-guide-vendor-requirements
 EGY,AI real estate tax calculation,Egyptian Tax Authority AI,other,,Egyptian Tax Authority,,2026-09-14-egy-eta-ai-real-estate-tax-calculation
+EGY,Educational Republic platform,Egypt,other,AI and data-analysis learning platform,"National Press Authority / Dar Al-Tahrir, with MCIT technical support",,2026-11-26-egy-egypt-signs-cooperation-protocol-to-establish-ai-powered-educational-republic-pl
+EGY,AI Hackathon (impacthackathon.itida.gov.eg),Egypt,other,ITIDA online competition platform,"Ministry of Finance, MCIT, ITIDA",,2026-11-25-egy-egypt-s-finance-and-ict-ministries-launch-ai-hackathon-to-engage-start
 ETH,AI-enriched integrated digital civil registration and resident services system,Ethiopia,other,,Addis Ababa City Administration,,2025-12-06-eth-ebc-addis-ai-civil-registration-system
 ETH,AI-based Customs Chatbot,Ethiopia,govai,,Ethiopian Customs Commission,,2025-10-12-eth-addisfortune-revenue-customs-eight-tech-systems
 ETH,AI-powered Passenger Risk Management System,Ethiopia,other,,Ethiopian Customs Commission,,2025-10-12-eth-addisfortune-revenue-customs-eight-tech-systems
 ETH,Mesob,Ethiopia,other,,Ethiopian Artificial Intelligence Institute,,2025-11-17-eth-ethiopian-ai-institute-becoming-africa-s-most-visible-influential-inst
 ETH,Smart Court solutions,Ethiopia,other,,Ethiopian Artificial Intelligence Institute / Oromia Supreme Court,,2026-11-04-eth-oromia-supreme-court-partners-ethiopian-ai-institute-to-modernise-judicial-servi
 ETH,Smart Police Station,Smart Police Station,govai,,Ethiopian AI Institute / Ethiopian Federal Police,,2025-07-13-eth-ai-institute-federal-police-ink-deal-for-smart-station
+ETH,Ethiopian Media Authority AI system,Ethiopia,govai,,Ethiopian Media Authority,,2026-05-01-eth-state-to-forge-a-knowledge-based-economy-with-ai-university
+ETH,National Election Board AI tools,Ethiopia,govai,,National Election Board of Ethiopia,,2026-05-01-eth-state-to-forge-a-knowledge-based-economy-with-ai-university
+ETH,Smart Police Station,Ethiopia,other,,Government of Ethiopia,,2026-05-01-eth-state-to-forge-a-knowledge-based-economy-with-ai-university
 GAB,Missamou,Missamou,govai,Facebook Messenger,Government of Gabon,,2025-07-17-gab-wearetech-missamou-chatbot-gouvernemental
 GHA,AI-powered multi-hazard chatbot,Ghana,govai,chatbot,NADMO,"national, ten regional offices trained",2026-07-30-ghanas-disaster-agency-turns-to-ai-to-reach-people-before-the-water-does
 GHA,GhanaChat,Ghana,other,,"Ministry of Communication, Digital Technology and Innovations",,2026-10-25-gha-bright-simons-flags-computing-capacity-error-in-ghanas-ai-strategy-and-ques
@@ -80,12 +90,15 @@ GHA,TraffiTech-GH,Ghana,other,speed cameras with SMS notices,"Motor Traffic and 
 GHA,GSS occupation and industry coding model,GSS coding model,govai,,Ghana Statistical Service data science unit,,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership
 GHA,NADMO AI-powered WhatsApp chatbot,Ghana,govai,WhatsApp,NADMO,,2026-05-28-gha-nadmo-partners-launch-ai-powered-chatbot-to-improve-disaster-risk-comm
 GHA,AMA Migrant Desk Management Platform,Ghana,govai,digital app with AI chatbot,Accra Metropolitan Assembly,,2026-08-17-gha-ama-iom-outdoors-multilingual-digital-app-to-improve-migrant-services
+GHA,National NTB Reporting and Resolution Platform,Ghana,govai,"web, WhatsApp, USSD","Ministry of Trade, Agribusiness and Industry",,2026-11-26-gha-trade-minister-launches-digital-platform-to-tackle-trade-barriers-in-ghana
+GHA,GhanaChat,Ghana,other,,,,2026-04-28-gha-ghanafact-national-ai-strategy-key-points
 GIN,AI price control for public procurement,Guinea,govai,,Government of Guinea,,2026-10-12-gin-guineejet-bah-oury-marches-publics-ia-routes
 GIN,NGAYNAAKO,Ministère de l'Élevage,other,,Ministère de l'Élevage,,2026-10-23-gin-ministere-de-lelevage-alpha-bacar-barry-presente-la-plateforme-ngaynaa
 GMB,LocaleNLP Wolof/Mandinka voice pilot,The Gambia,govai,National e-Government iPortal,LocaleNLP,,2026-04-01-gmb-localenlp-sovereign-nlp-pilot
 GMB,AI-powered fact-checking and verification system,The Gambia,govai,WhatsApp line,"Ministry of Information, Media and Broadcasting Services",,2026-04-29-gmb-gna-moi-ai-fact-checking-system
 GMB,Rental Tax Compliance System (rTCS),Gambia,other,ML valuation model built by RippleNami,Ministry of Finance and Economic Affairs / Gambia Revenue Authority,,2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study
 GMB,e-Monitor Plus,The Gambia,govai,,UNDP with the Independent Electoral Commission,,2026-10-18-gmb-undp-launches-e-monitor-plus-platform-to-safeguard-electoral-information-integri
+GNB,OKINKA,Guinea-Bissau,govai,guineia.com,Guinea-Bissau state (site's own claim),national,2026-01-01-gnb-okinka-a-inteligencia-artificial-nacional-da-guine-bissau
 GNQ,Chatbot Guinea Salud,Equatorial Guinea,govai,,Ministry of Health,,2025-06-13-gnq-ahoraeg-ia-gestion-administrativa-opinion
 KEN,Kabogo.AI,Kenya,govai,AI assistant on the Cabinet Secretary's official website,"Ministry of Information, Communications and the Digital Economy",,2026-08-27-kenyans-co-ke-kabogo-ai-platform
 KEN,Shuru,Kenya,govai,WhatsApp,Kenya Revenue Authority,,2026-04-07-ken-kra-ksh-2-trillion-nine-months
@@ -192,6 +205,7 @@ NGA,INEC public-query chatbot,Nigeria,govai,,INEC,,2026-11-02-inecs-ai-photo-pro
 NGA,INEC AI chatbots,Nigeria,govai,,INEC,,2026-10-31-nga-inec-receives-5-400-claims-objections-to-voter-register-targets-decemb
 NGA,NORA,Nigeria (Anambra State),govai,adapted open-source technology,Anambra State ICT Agency,state,2026-11-13-nga-von-anambra-digital-handbook-nora-ai-assistant
 NGA,NITDA Knowledge Management System,Nigeria,govai,,NITDA,,2025-03-01-nga-ai-transformation-roadmap
+NGA,Service-Wise GPT,Nigeria,govai,,Office of the Head of the Civil Service of the Federation,,2026-11-26-xaf-wearetech-shadow-ai-souverainete-numerique-afrique
 RWA,Mbaza,Mbaza,govai,Proto AI agent,MINALOC with RISA,,2026-02-01-rwa-rwanda-s-government-and-proto-partner-to-deploy-integrated-ai-citizen
 RWA,Intumwa,Intumwa,govai,Proto AI agent,National Bank of Rwanda,,2026-02-01-rwa-rwanda-s-government-and-proto-partner-to-deploy-integrated-ai-citizen
 RWA,Kubaka AI agent,Rwanda,govai,Kubaka.gov.rw,MININFRA and Rwanda Housing Authority,,2025-11-05-rwa-yesterday-our-team-at-the-rwanda-ministry-of-infrastructure-mininfra-a
