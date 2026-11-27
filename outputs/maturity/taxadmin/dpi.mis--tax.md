@@ -56,7 +56,7 @@ Large and medium taxpayers must file tax returns online, and taxes can be paid b
 
 Online filing was mandatory or used by most taxpayers in 2026.
 
-- The Mauritius Revenue Authority says all VAT returns from foreign digital-service suppliers must be submitted electronically through its systems ([source, 2026-01-01](https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers)).
+- The Mauritius Revenue Authority says all VAT returns from foreign digital-service suppliers must be submitted electronically through its systems ([source, 2026-01-01](https://web.archive.org/web/20260318220034/https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers)).
 
 ### Morocco: 5 Mature
 
@@ -304,7 +304,7 @@ Since 2026 taxes are paid electronically through the tax portal; no source found
 An electronic tax system was under way in 2026; online filing is not on record.
 
 - The Directorate General of Taxes launched a three-day workshop on 15 April 2026, funded by AFD through PAGFSI, to prepare the progressive deployment of tax e-filing (télédéclaration) and e-payment (télépaiement) under the 2026 finance law ([source, 2026-04-15](https://finances.gouv.km/actualite_post/atelier-dgi-au-retaj-sur-la-validation-du-cadre-juridique-des-teleprocedures-fiscales-2026/)).
-- The Directorate General of Taxes, with AFD support through PAGFSI, opened a three-day workshop on 15 April 2026 to validate the legal framework and prepare the progressive deployment of tax e-filing and e-payment ([source, 2026-04-15](https://dgi.gouv.km/fr/actualite.php?article_id=93)).
+- The Directorate General of Taxes, with AFD support through PAGFSI, opened a three-day workshop on 15 April 2026 to validate the legal framework and prepare the progressive deployment of tax e-filing and e-payment ([source, 2026-04-15](https://web.archive.org/web/20260520073604/http://dgi.gouv.km/fr/actualite.php?article_id=93)).
 
 ### Djibouti: 2 Nascent
 
