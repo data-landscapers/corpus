@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-26-cod-rdc-le-numerique-doit-renforcer-la-souverainete-nationale-sans-creer-de-nouvelle",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "DR Congo's foreign minister said on 26 November 2026 that the ministry's Digital Master Plan 2026-2028, launched 18 June 2026 with EU support, puts data control and digital autonomy at the centre and requires securing data, per ACP.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "Schema directeur numerique 2026-2028",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": "A ministry's own plan, no rule, hosting or contract terms stated."
+}

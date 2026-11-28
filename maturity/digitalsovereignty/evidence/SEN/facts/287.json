@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-27-sen-restic-warns-of-delays-in-senegals-data-strategy",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "fact": "Law No. 25/2026, passed by the National Assembly on 20 August 2026, establishes that state data must be hosted on national territory, in public facilities or with approved private providers, per Socialnetlink citing Vie-publique.sn.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "Law No. 25/2026 on the protection of critical information infrastructure and digital security",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": "No hosting or contract-terms fact stated."
+}

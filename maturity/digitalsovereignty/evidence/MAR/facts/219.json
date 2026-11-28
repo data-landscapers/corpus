@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-27-mar-ai-digital-strategy-ahmed-rahhous-pragmatic-blueprint",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The minister said the government's strategic data will be hosted at the planned Jazari Root sovereign data centre (built 2027-2029) and that Moroccans' data must be hosted on a sovereign national cloud, alongside a Cloud First directive for government projects.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "Jazari Root sovereign data center; Cloud First directive",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

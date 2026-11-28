@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-25-civ-modernisation-numerique-le-ministere-restitue-son-schema-directeur-du",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Ministry of Economy, Plan and Development presented its 2026-2030 information systems master plan on 25 November 2025, with six programmes and 44 projects (FCFA 10.156 billion) covering data centre modernisation and a sovereign cloud.",
+   "as_of": "2025-11-25",
+   "date_precision": "day",
+   "system": "SDSI 2026-2030",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

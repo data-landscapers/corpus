@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-27-nga-edo-state-prepares-for-edo-cloud-deployment",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Techeconomy reports the Edo State Government decided to develop a fully state-owned e-governance platform, Edo Cloud, that it says guarantees data sovereignty and unrestricted backend access, rolling out in phases (state level, not national).",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Edo Cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

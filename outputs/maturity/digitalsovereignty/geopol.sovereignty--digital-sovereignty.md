@@ -306,7 +306,7 @@ Not established: No source found since October 2023 says control of state data i
 
 Nothing found since 2023 names control of state data, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether control of state data is a stated goal or a rule.
+Not established: Nothing found since October 2023 says whether control of state data is a stated goal or a rule; Decree 2020-146 (DJI-001) is older than the three-year window.
 
 ### Eritrea: Unplaced
 
