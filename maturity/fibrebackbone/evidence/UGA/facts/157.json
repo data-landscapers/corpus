@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-26-uga-nita-u-revamps-district-websites-to-bring-services-closer-to-citizens",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "The Oyam District IT officer told the Daily Monitor that some districts are still not connected to the national backbone infrastructure, implying other districts are.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "national backbone infrastructure",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
