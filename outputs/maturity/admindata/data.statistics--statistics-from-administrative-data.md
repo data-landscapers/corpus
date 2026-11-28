@@ -21,12 +21,12 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 | Stage | Countries |
 |---|---|
 | 5 Mature | 0 |
-| 4 Operating | 24 |
-| 3 Established | 13 |
-| 2 Nascent | 9 |
+| 4 Operating | 26 |
+| 3 Established | 12 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
-| Unplaced | 5 |
-| No evidence | 3 |
+| Unplaced | 4 |
+| No evidence | 2 |
 
 ## Countries
 
@@ -64,6 +64,13 @@ Statistics from civil registration records were published twice in three years, 
 
 - The Instituto Nacional de Estatistica released its fifth Estatisticas Vitais report on 1 October 2025, covering 2023 (6,760 births, 2,925 deaths, 2,435 marriages), compiled from administrative records of the Registos, Notariado e Identificacao ([source, 2025-10-01](https://expressodasilhas.cv/pais/2025/10/01/estatisticas-vitais-de-2023-registam-queda-na-natalidade-obitos-e-casamentos/99233)).
 - INE released the Estatisticas Vitais 2023 report on 1 October 2025, built on civil register administrative records and covering 2016-2023 ([source, 2025-10-01](https://expressodasilhas.cv/pais/2025/10/01/estatisticas-vitais-de-2023-registam-queda-na-natalidade-obitos-e-casamentos/99233)).
+
+### Central African Republic: 4 Operating
+
+Statistics from education records were published twice in three years, the latest in 2025; no source found reports three sources published twice.
+
+- ICASEES published on 15 November 2024 the statistical yearbook for pre-school, Fondamental 1 and non-formal basic education, covering school year 2021-2022, from the 2022 statistical campaign of all schools ([source, 2024-11-15](https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale/annuaire-satistique-fondamental-1-alphabetisation-et-education-de-base-non-formelle-2021-2022)).
+- ICASEES published its Education Annuaire Statistique 2023-2024 (198 pages, imprint September 2025), a school census yearbook compiled from school questionnaires across 20 inspectorates ([source, 2025-09](https://icasees.org/publications/tableau-de-bord/publications/education-annuaire-statistique-2023-2024-2)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -129,6 +136,14 @@ INSTAT has published trade statistics from customs declarations every quarter si
 - INSTAT's customs-declaration trade statistics appear as quarterly bulletins for Q1 2024 to Q1 2026 and as yearbooks for 2023, 2024 and 2025, so more than two editions fall after October 2023 on the listing's labels ([source, 2026-10-05](https://www.instat-mali.org/fr/publications/statistiques-du-commerce-exterieur)).
 - INSTAT says its quarterly foreign trade bulletin values goods from the information collected on customs declarations ([source, 2026-10-05](https://www.instat-mali.org/fr/publications/statistiques-du-commerce-exterieur)).
 
+### Mauritius: 4 Operating
+
+Statistics from civil registration records were published twice in three years, the latest in 2026; no source found reports three sources published twice.
+
+- Statistics Mauritius published Population and Vital Statistics for 2025 on 11 March 2026, giving 13,250 live births and 12,685 deaths registered in 2025 ([source, 2026-03-11](https://statsmauritius.govmu.org/Pages/Statistics/ESI/Population/Pop_Vital_Yr25.aspx)).
+- Statistics Mauritius published Population and Vital Statistics for 2023 on 11 March 2024, giving 12,872 live births and 11,839 deaths registered in 2023 ([source, 2024-03-11](https://statsmauritius.govmu.org/Pages/Statistics/ESI/Population/Pop_Vital_Yr23.aspx)).
+- Statistics Mauritius published Economic and Social Indicators Issue No 1949, Population and Vital Statistics Jan-Jun 2026, on 28 August 2026, with vital statistics drawn from the Civil Status Division's computerised system ([source, 2026-08-28](https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1949/Pop_Vital_Midyr26_280826.pdf)).
+
 ### Namibia: 4 Operating
 
 Statistics from civil registration records were published twice in three years, the latest in 2025; no source found reports three sources published twice.
@@ -181,7 +196,7 @@ Statistics from health records were published twice in three years, the latest i
 
 Justice records appeared in two publications, the latest in 2026; no other source is known to be published twice.
 
-- INSEED released the revised Annuaire statistique national 2024 in August 2026 (original December 2025), covering 2020 to 2024 and drawing mainly on administrative reports and sectoral information systems of ministries, with chapters on education, health, justice, social security and more; 63 of 67 targeted structures returned data ([source, 2026-08-01](https://inseed.tg/download/7668/)).
+- INSEED released the revised Annuaire statistique national 2024 in August 2026 (original December 2025), covering 2020 to 2024 and drawing mainly on administrative reports and sectoral information systems of ministries, with chapters on education, health, justice, social security and more; 63 of 67 targeted structures returned data ([source, 2026-08-01](https://web.archive.org/web/20260418122127/https://inseed.tg/download/7668/)).
 - The ministry says the 2022 justice yearbook rests on field collection of data from judicial services, courts, penitentiary establishments and maisons de justice, compiled by its statistics unit ([source, 2023-12-06](https://justice.gouv.tg/atelier-de-validation-de-lannuaire-statistique-et-du-document-danalyse-des-indicateurs-cles-2022-du-secteur-de-la-justice/)).
 
 ### Tunisia: 4 Operating
@@ -193,10 +208,11 @@ Statistics from social security records were published twice in three years, the
 
 ### Zimbabwe: 4 Operating
 
-Statistics from transport records were published twice in three years, the latest in 2026; no source found reports three sources published twice.
+Statistics from transport and police records were each published twice in three years, the latest in 2026; no third source is known to have been.
 
 - ZIMSTAT's Transport and Infrastructure page says its quarterly statistics are compiled from administrative data obtained from relevant institutions; Transport Statistics Reports are listed for 2023 Q3, 2023 Q4, 2024 Q4, 2025 Q1, 2025 Q2 and 2025 Q4; the page is undated, so it is dated to its retrieval on 19 October 2026 ([source, 2026-10-19](https://zimstat.co.zw/transport-and-infrastructure/)).
 - ZIMSTAT's Transport and Infrastructure page says its quarterly statistics are compiled from administrative data obtained from relevant institutions, and lists Transport Statistics Reports for 2023 Q3 and Q4, 2024 Q4, and 2025 Q1, Q2 and Q4; the page is undated, so it is dated to its retrieval on 19 October 2026 ([source, 2026-10-19](https://zimstat.co.zw/transport-and-infrastructure/)).
+- ZIMSTAT's page lists six quarterly crime statistics reports from the police system, published between March 2025 and November 2026 (Q4 2024 to Q2 2026) ([source, 2026-11](https://zimstat.co.zw/crime-statistics/)).
 
 ### Algeria: 3 Established
 
@@ -210,11 +226,11 @@ Statistics from civil registration records were published in 2026; no administra
 
 - Statistics Botswana released its Vital Statistics Report 2024 in August 2026, compiled from the Births and Deaths Registration System and Department of Civil and National Registration records, covering births, deaths and marriages registered in 2024 (49,180 births, 14,070 deaths) ([source, 2026-08](https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf)).
 
-### Central African Republic: 3 Established
+### Cameroon: 3 Established
 
-Statistics from education records were published in 2024; no administrative source is known to have been published twice since 2023.
+A regional yearbook drawn mainly from administrative records was published in 2024; no administrative source is known to have been published twice since 2023.
 
-- ICASEES published on 15 November 2024 the statistical yearbook for pre-school, Fondamental 1 and non-formal basic education, covering school year 2021-2022, from the 2022 statistical campaign of all schools ([source, 2024-11-15](https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale/annuaire-satistique-fondamental-1-alphabetisation-et-education-de-base-non-formelle-2021-2022)).
+- The Institut National de la Statistique published the Annuaire Statistique de la Region du Nord-Ouest, Edition 2023, an annual regional compilation whose data it says come generally from local administrative sources and national surveys, without naming the sources ([source, 2024-08-12](https://ins-cameroun.cm/statistique/annuaire-statistique-de-la-region-du-nord-ouest-edition-2023/)).
 
 ### Ethiopia: 3 Established
 
@@ -228,6 +244,7 @@ Statistics from civil registration records were published in 2024; no administra
 
 - The Births and Deaths Registry published its 2022 Statistical Report: Death Registration, which presents statistics on deaths registered in 2022 drawn from all 261 districts; the preface calls it the inaugural statistical report by the Registry; as_of is the publication date 2024 (copyright 2024), the figures cover 2022 ([source, 2024-01-01](https://bdr.gov.gh/storage/formidable/7/STATISTICAL-REPORT-ON-DEATH-REGISTRATION-2022.pdf)).
 - The Births and Deaths Registry published its 2022 Statistical Report Birth Registration, with sections on birth registration process, data compilation and data source and figures on registered births in 2022 by region, sex, place of birth and mother's age; as_of is the publication date 2024 (copyright 2024), the figures cover 2022 ([source, 2024-01-01](https://bdr.gov.gh/storage/formidable/7/STATISTICAL-REPORT-ON-BIRTH-REGISTRATION-2022.pdf)).
+- The Ghana Statistical Service published its Annual Trade Report with 2023 trade statistics (exports GHC 186.0 bn, imports with a GHC 5.3 bn surplus), which the report says were computed using administrative data from the Customs Division of the Ghana Revenue Authority ([source, 2024-05-31](https://www.ceditalk.com/2024/05/ghana-records-ghc-5-3-bn-2023-trade-surplus-driven-by-high-export-commodity-prices/)).
 
 ### Guinea-Bissau: 3 Established
 
@@ -240,18 +257,13 @@ Vital statistics from civil registration and health records were published in 20
 Statistics from civil registration records were published in 2024; no administrative source is known to have been published twice since 2023.
 
 - The Bureau of Statistics published Statistical Report No. 04, the 2022 Vital Statistics Report (figures cover 2022), compiled from civil registration records collected by Ministry of Home Affairs staff; release date given only as 2024 (document published date used) ([source, 2024](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/lesotho-2022-vital-statistics-report.pdf)).
+- The Lesotho Mounted Police Service has a Serious Crime Statistics report for January to May 2024 against the same months of 2023, shared by the Commissioner of Police with the Lesotho Times, giving 4,960 serious crimes reported and 880 detected ([source, 2024-07-20](https://lestimes.com/?p=84436)).
 
 ### Malawi: 3 Established
 
 Statistics from civil registration records were published in 2025; no administrative source is known to have been published twice since 2023.
 
 - The National Statistics Office, National Registration Bureau and Ministry of Health published Malawi's first vital statistics report from civil registration records (births 2015-2022, deaths 2017-2022, with causes of death), launched in April 2025; the date is the month of publication, not the years the figures cover ([source, 2025-04](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/malawi-vital-statistics-report-2024.pdf)).
-
-### Mauritius: 3 Established
-
-Statistics from civil registration records were published in 2026; no administrative source is known to have been published twice since 2023.
-
-- Statistics Mauritius published Economic and Social Indicators Issue No 1949, Population and Vital Statistics Jan-Jun 2026, on 28 August 2026, with vital statistics drawn from the Civil Status Division's computerised system ([source, 2026-08-28](https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1949/Pop_Vital_Midyr26_280826.pdf)).
 
 ### Mozambique: 3 Established
 
@@ -320,6 +332,12 @@ Health data were being prepared for a statistical yearbook in 2025; no statistic
 
 - A health ministry workshop in July 2025 reviewed 2024 and first-half 2025 SNIS data in preparation for the 2024 national statistical yearbook and a first-quarter 2025 bulletin ([source, 2025-07](https://elhadeth.mr/node/31262)).
 
+### Morocco: 2 Nascent
+
+Work with Statistics Denmark on using administrative records has run since 2024; no statistics from records are known to have been published since 2023.
+
+- Statistics Denmark and Morocco's High Commission for Planning cooperate, in a 2024-2026 partnership funded by the Danish Ministry of Foreign Affairs, on the use of administrative data, and a 2025 peer review made recommendations on access to administrative data; no published statistics from administrative records are stated ([source, 2025](https://www.dst.dk/en/OmDS/consulting/projects/morocco-2024-2026)).
+
 ### Nigeria: 2 Nascent
 
 Work to draw statistics from administrative records was under way in 2025; nothing published since 2023 is known.
@@ -332,12 +350,6 @@ Work to draw statistics from administrative records was under way in 2025; nothi
 Work to draw statistics from administrative records was under way in 2026; nothing published since 2023 is known.
 
 - ANEC (civil registration agency) and ANSD (statistics agency) signed an interoperability protocol, stated to allow better management of civil-status data; scope and timetable not given. Dated from the post of 2026-01-23, which says the signing was 'this Thursday' ([source, 2026-01-22](https://fr.linkedin.com/posts/anec-senegal_signature-de-protocole-dinterop%C3%A9rabilit%C3%A9-activity-7420402217897242624-ZsgU)).
-
-### Cameroon: Unplaced
-
-No statistics from administrative records published since 2023, or work towards them, are on record, so no stage is set.
-
-Not established: No statistics from administrative records published, and no work towards them, is on record in the last three years.
 
 ### Djibouti: Unplaced
 
@@ -364,12 +376,6 @@ In 2023 the statistics agency said it produces annual births and deaths statisti
 Not established: No source found dates an edition of statistics from administrative records.
 
 ### Guinea: No evidence
-
-Nothing found says whether the country draws statistics from administrative records, so no stage is set.
-
-Not established: Nothing found names statistics drawn from administrative records, or says there are none.
-
-### Morocco: No evidence
 
 Nothing found says whether the country draws statistics from administrative records, so no stage is set.
 

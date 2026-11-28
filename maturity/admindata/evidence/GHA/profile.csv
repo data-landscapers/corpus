@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,admin,use,coverage,published,2025-03-31,GHA-012,GHA-011=preparing;GHA-007=preparing;GHA-010=preparing;GHA-002=preparing;GHA-001=preparing;GHA-003=preparing;GHA-013=preparing;GHA-006=preparing;GHA-014=preparing,
-GHA,admin,source,coverage,civil-registration;health,2024-01-01,GHA-004;GHA-005;GHA-009,GHA-008=education,
+GHA,admin,use,coverage,published,2025-03-31,GHA-012;GHA-015,GHA-011=preparing;GHA-007=preparing;GHA-010=preparing;GHA-002=preparing;GHA-001=preparing;GHA-003=preparing;GHA-013=preparing;GHA-006=preparing;GHA-014=preparing,
+GHA,admin,source,coverage,civil-registration;health;customs,2024-05-31,GHA-004;GHA-005;GHA-009;GHA-016,GHA-008=education,
 GHA,admin,series,coverage,,,,,nothing found

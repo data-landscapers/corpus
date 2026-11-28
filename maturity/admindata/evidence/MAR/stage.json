@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "admin",
-      "stage": "no evidence",
-      "use": "",
+      "stage": "2",
+      "use": "preparing",
       "source": "",
       "series": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found names statistics drawn from administrative records, or says there are none.",
-      "note": "No evidence row is held on this sub-indicator.",
-      "as_at": "2026-11-27"
+      "stage_sources": "MAR-002",
+      "gaps": "No source found shows statistics from administrative records published in the last three years.",
+      "note": "The 2024-2026 partnership with Statistics Denmark on the use of administrative data, with a peer review in 2025, shows work under way. No publication from records is shown, so not 3.",
+      "as_at": "2026-11-28"
     }
   ]
 }

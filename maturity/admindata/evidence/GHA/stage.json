@@ -5,14 +5,14 @@
       "sub_indicator": "admin",
       "stage": "3",
       "use": "published",
-      "source": "civil-registration",
+      "source": "civil-registration;customs",
       "series": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-004;GHA-005",
+      "stage_sources": "GHA-004;GHA-005;GHA-015",
       "gaps": "No source found shows statistics from one administrative source published twice in the last three years.",
-      "note": "The Registry's birth and death reports for 2022, both of 2024, set stage 3. They are two volumes of one inaugural report, so no second edition is shown and not 4.",
-      "as_at": "2026-11-27"
+      "note": "The Registry's birth and death reports for 2022 and the trade report of May 2024, from customs records, set stage 3. No source is shown published twice, so not 4.",
+      "as_at": "2026-11-28"
     }
   ]
 }

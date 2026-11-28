@@ -5,14 +5,14 @@
       "sub_indicator": "admin",
       "stage": "3",
       "use": "published",
-      "source": "civil-registration",
+      "source": "civil-registration;police",
       "series": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-001",
+      "stage_sources": "LSO-001;LSO-007",
       "gaps": "No source found shows statistics from one administrative source published twice in the last three years.",
-      "note": "The 2022 vital statistics report, published in 2024, sets stage 3. The 2020 and 2021 reports are listed without dates, so no second edition is shown in the last three years.",
-      "as_at": "2026-11-27"
+      "note": "The 2022 vital statistics report of 2024 and the police serious-crime figures of July 2024 set stage 3. No source is shown published twice in the last three years, so not 4.",
+      "as_at": "2026-11-28"
     }
   ]
 }

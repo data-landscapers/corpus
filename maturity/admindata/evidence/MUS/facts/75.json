@@ -1,0 +1,46 @@
+{
+ "slug": "2024-03-11-mus-population-and-vital-statistics-republic-of-mauritius-year-2023",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "Statistics Mauritius published Population and Vital Statistics for 2023 on 11 March 2024, giving 12,872 live births and 11,839 deaths registered in 2023.",
+   "as_of": "2024-03-11",
+   "date_precision": "day",
+   "system": "Population and Vital Statistics - Republic of Mauritius, Year 2023",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "source",
+   "value": "civil-registration",
+   "fact": "Statistics Mauritius' 2023 vital statistics report counts births, deaths, still births, infant deaths and marriages registered in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Population and Vital Statistics - Republic of Mauritius, Year 2023",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "series",
+   "value": "civil-registration",
+   "fact": "Statistics Mauritius' report for 2023 compares each vital statistic with 2022, the same figures series of registered events.",
+   "as_of": "2024-03-11",
+   "date_precision": "day",
+   "system": "Population and Vital Statistics - Republic of Mauritius, Year 2023",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Population and Vital Statistics - Republic of Mauritius, Year 2023",
+   "country_label": "Population and Vital Statistics 2023",
+   "class": "admin",
+   "platform": "",
+   "owner": "Statistics Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

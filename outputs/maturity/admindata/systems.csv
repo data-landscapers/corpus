@@ -32,6 +32,7 @@ CAF,"Civil registration (births, marriages, deaths), paper-based, central regist
 CAF,"Education statistics system (school data collection, annuaires statistiques)",Education statistics (Ministry of National Education / ICASEES),admin,,Ministry of National Education; ICASEES,,2026-02-19-icasees-hiswaca-motos-chefs-secteur-scolaire
 CAF,"Annuaire statistique, Fondamental 1, Alphabétisation et Éducation de base non formelle 2021-2022",Annuaire statistique 2021-2022 (education),admin,,ICASEES; Ministry of National Education,,2024-11-15-caf-icasees-annuaire-statistique-fondamental1-2021-22
 CAF,SIGE (education management information system),SIGE,other,,Ministry of National Education,,2024-11-15-caf-icasees-annuaire-statistique-fondamental1-2021-22
+CAF,Annuaire statistique Education 2023-2024,Annuaire statistique Education 2023-2024,admin,,ICASEES,,2025-09-01-caf-education-annuaire-statistique-2023-2024
 CIV,Annuaire statistique d'état civil 2024,Annuaire statistique d'état civil 2024,vital,,Ministère de l'Intérieur et de la Sécurité,,2025-07-01-annuaire-statistique-etat-civil-2024-fratmat
 CIV,city web,city web,other,software,Ministère de l'Intérieur et de la Sécurité,,2025-07-01-annuaire-statistique-etat-civil-2024-fratmat
 CIV,SIMT (Système d'Information sur le Marché du Travail),SIMT,other,SDMX-compliant data platform,ONEF (Observatoire national de l'emploi et de la formation),,2026-06-23-cote-divoire-lancement-simt
@@ -42,6 +43,7 @@ CMR,Système d'enregistrement des faits d'état civil (ESEC),Système ESEC,other
 CMR,Fichier national de l'état civil,Fichier national de l'état civil,other,,BUNEC,,2026-08-10-cameroon-cdhc-civil-registry-interoperability
 CMR,Rapport sur les statistiques de l'état civil au Cameroun (2018-2022),Cameroon,vital,,INS with BUNEC and MINSANTE,,2023-08-01-ins-cameroun-rapport-statistiques-etat-civil-2018-2022
 CMR,DHIS2,Cameroon,other,DHIS2,MINSANTE,,2023-08-01-ins-cameroun-rapport-statistiques-etat-civil-2018-2022
+CMR,"Annuaire statistique de la region du Nord-Ouest, edition 2023",Annuaire statistique de la region du Nord-Ouest 2023,admin,,Institut National de la Statistique,,2024-08-12-cmr-annuaire-statistique-de-la-region-du-nord-ouest-edition-2023
 COD,"Fonction Publique en Chiffres, Edition 2025",Fonction Publique en Chiffres 2025,other,,"Cellule de Mise en Oeuvre de la Réforme de l'Administration (CMRAP), Ministère de la Fonction Publique",,2026-05-14-fonction-publique-en-chiffres-2025
 COD,Masina civil registration digitalisation pilot (DHIS2),DR Congo,vital,DHIS2,"UNICEF, BCNUDH, UNHCR, UNFPA with INS and Masina civil registry",commune,2025-08-18-rdc-masina-digitalisation-etat-civil
 COD,"Annuaire statistique de l'enseignement preprimaire, primaire et secondaire 2023-2024",Annuaire statistique scolaire 2023-2024,admin,,Ministry of National Education,,2026-10-03-cod-rdc-lannuaire-statistique-scolaire-2023-2024-desormais-accessible-au-p
@@ -104,10 +106,12 @@ GHA,2022 Statistical Report Birth Registration,Ghana,vital,,Births and Deaths Re
 GHA,GSS administrative data-sharing MoUs,GSS data-sharing MoUs with 25 MDAs,other,,Ghana Statistical Service,,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership
 GHA,Constituency profile reports,Constituency profile reports 2024,admin,,Ghana Statistical Service,,2025-03-31-gha-inclusive-data-charter-monitoring-form-annual-champion-progress-survey
 GHA,GSS StatsBank,GSS StatsBank,other,web portal,Ghana Statistical Service,,2025-03-31-gha-inclusive-data-charter-monitoring-form-annual-champion-progress-survey
+GHA,Annual Trade Report 2023,Annual Trade Report 2023,admin,GSS StatsBank,Ghana Statistical Service,,2024-05-31-gha-ghana-records-ghc-5-3-bn-2023-trade-surplus-driven-by-high-export-comm
 GIN,Registre National de l'État Civil / plateforme de numérisation de l'état civil,National Civil Registry digitisation platform,other,,Ministry of Territorial Administration and Decentralisation,,2026-08-11-guinea-etat-civil-decentralisation-npi
 GIN,Registre National des Personnes Physiques (NPI),National Register of Natural Persons,other,,,,2026-08-11-guinea-etat-civil-decentralisation-npi
 GIN,Tableau des opérations financières de l'État (TOFE),Tableau des opérations financières de l'État,other,,"Direction générale du Budget, Ministère de l'Économie, des Finances et du Budget",,2026-08-08-guinea-comite-statistiques-finances-publiques
 GIN,Annuaire statistique 2024,GIN,admin,,Institut National de la Statistique,,2025-10-01-gin-ins-annuaire-statistique-2024
+GIN,ADAMS Guinée,ADAMS Guinée,other,phone and tablet app for recording road accidents and following victims,AGUISER (Agence guinéenne de la sécurité routière),"police, gendarmerie, civil protection, health services",2026-11-24-gin-accidents-de-la-circulation-laguiser-renforce-le-dispositif-de-collect
 GMB,eCRVS,eCRVS (electronic civil registration),other,,Registrar General CRVS,,2026-07-18-uneca-fatty-overview-of-crvs-in-the-gambia
 GMB,The 2024 Gambia Statistical Abstract,The 2024 Gambia Statistical Abstract,admin,gbosdata.org,Gambia Bureau of Statistics,,2026-10-16-gmb-gbos-downloads
 GMB,MoBSE Statistical Yearbook,Statistical Yearbook 2026,admin,,Ministry of Basic and Secondary Education,,2026-09-02-gmb-the-gambia-launches-education-data-center-to-publicly-share-education-data
@@ -151,6 +155,7 @@ LSO,NISSA (National Information System for Social Assistance),NISSA,other,,"Mini
 LSO,Digital birth registration system (Ntlafatsa Bana),Digital birth registration,other,tablet-based,Civil Registration Officers and Village Health Workers,,2025-06-19-lesotho-ntlafatsa-bana-nissa-digital-birth-registration
 LSO,NISSA,NISSA,other,,,,2025-06-19-lesotho-ntlafatsa-bana-nissa-digital-birth-registration
 LSO,Vital Statistics Report 2022,Vital Statistics Report 2022,admin,,Bureau of Statistics Lesotho,,2025-04-01-lso-bos-publications
+LSO,Serious Crime Statistics report,"LMPS Serious Crime Statistics report, January-May 2024",admin,,Lesotho Mounted Police Service,,2024-07-20-lso-upsurge-in-serious-crimes
 MAR,National digital civil registration system (Law 36.21),National digital civil registration system,other,,Ministry of the Interior,,2026-09-15-crvs-laws-morocco-coordination-technology
 MAR,Massar,Massar,other,,Ministry of National Education,,2024-11-01-mar-le-ministere-de-l-education-nationale-lance-le-processus-global-de-rec
 MDG,Rahaka,Rahaka national interoperability platform,other,X-Road,Unite de Gouvernance Digitale (UGD),,2026-04-29-guichet-unique-en-ligne-interoperabilite-rahaka-lexpress
@@ -208,6 +213,8 @@ MUS,Fisheries Information System (FIS),Fisheries Information System (proposed),o
 MUS,computerised system at the Civil Status Division,Civil Status Division computerised system,other,,Civil Status Division,,2026-08-28-mus-statsmauritius-pop-vital-jan-jun-2026
 MUS,Statistical Business Register,Mauritius,admin,,Statistics Mauritius,,2024-10-01-mus-statsmauritius-annual-report-2023-2024
 MUS,MauStats Phase 2,MauStats Phase 2,other,MauStats,Statistics Mauritius,,2026-10-28-mus-undp-and-statistics-mauritius-maustats-platform-phase-2
+MUS,"Population and Vital Statistics - Republic of Mauritius, Year 2025",Population and Vital Statistics 2025,admin,,Statistics Mauritius,,2026-03-11-mus-population-and-vital-statistics-republic-of-mauritius-year-2025
+MUS,"Population and Vital Statistics - Republic of Mauritius, Year 2023",Population and Vital Statistics 2023,admin,,Statistics Mauritius,,2024-03-11-mus-population-and-vital-statistics-republic-of-mauritius-year-2023
 MWI,National Payments System Report,National Payments System Report,other,,Reserve Bank of Malawi,,2026-03-30-mobile-money-k38tn-2025-nps-report-times
 MWI,National Payments System Report,National Payments System Report,other,,Reserve Bank of Malawi,,2025-11-18 Malawi Hits 20 Million Mobile Money Subscribers Amid Rising Digital Payments
 MWI,National Payments System Report,National Payments System Report,other,,Reserve Bank of Malawi,,2025-04-16 Mobile money deals hit K19.5tn in 2024
@@ -267,6 +274,7 @@ SLE,DHIS2 routine health facility reporting,Sierra Leone,admin,DHIS2,Ministry of
 SLE,SPRINT (Social Protection Registry for Integrated National Targeting),Sierra Leone,admin,,National Commission for Social Action (NaCSA),,2026-05-08-sierra-leone-nacsa-statistics-sl-amended-mou-sprint
 SLE,Provisional Annual Report on Vital Events 2024,Sierra Leone,admin,,National Civil Registration Authority,,2025-01-01-sle-ncra-releases-2024-provisional-report-on-vital-statistics
 SLE,Provisional Annual Report on Vital Events 2023,Sierra Leone,admin,,National Civil Registration Authority,,2023-12-31-sle-ncra-reveals-vital-statistics-for-sierra-leone-in-2023
+SLE,2024 Crime Statistics Report,Sierra Leone Police Crime Statistics Report 2024,admin,,Sierra Leone Police,,2025-03-06-sle-sierra-leone-police-unveils-2024-crime-statistics-report
 SOM,Somalia CRVS system,Civil Registration and Vital Statistics system,other,,"Directorate General of Civil Registration and Vital Statistics, Ministry of Interior",,2026-06-07-somalia-interior-minister-crvs-update
 SOM,Somalia CRVS system,Civil registration (municipal),other,,Municipalities; MoIFAR,,2021-12-01-somalia-unfpa-crvs-country-profile
 SOM,Digital crime statistics system,Digital crime statistics system,other,,Somali Police Force; created with UNODC,,2022-07-05-somalia-unodc-criminal-investigation-programme
@@ -366,3 +374,5 @@ ZWE,2025 Annual Gross Domestic Product figures,ZIMSTAT 2025 Annual GDP release (
 ZWE,Transport Statistics Report,"Transport Statistics Report (quarterly, 2023 Q3 to 2025 Q4)",admin,,ZIMSTAT,,2026-01-01-zwe-transport-and-infrastructure-zimstat
 ZWE,Extreme Events and Disasters Report 2024,Extreme Events and Disasters Report 2024,admin,,Zimbabwe National Statistics Agency,,2026-01-01-zwe-extreme-events-and-disasters-report-2024
 ZWE,Human Settlement and Environmental Health Report 2025,Human Settlement and Environmental Health Report 2025,admin,PDF report,ZIMSTAT,,2026-01-01-zwe-human-settlement-and-environmental-health-report-2025
+ZWE,Zimbabwe Labour Market Information System (ZLMIS),ZLMIS,other,portal hosted at the National Data Centre,"Ministry of Public Service, Labour and Social Welfare; hosted by the ICT ministry","consolidates ZIMSTAT, NSSA and other agency data",2026-11-25-zwe-government-launches-system-to-improve-labour-market-planning
+ZWE,ZRP Crime Report and Disposal System,ZIMSTAT Crime Statistics Report,admin,,Zimbabwe Republic Police; ZIMSTAT compiles,,2026-11-01-zwe-crime-statistics-zimstat

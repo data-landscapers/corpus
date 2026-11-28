@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "admin",
-      "stage": "3",
+      "stage": "4",
       "use": "published",
       "source": "civil-registration",
-      "series": "",
+      "series": "civil-registration",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-001",
-      "gaps": "No source found shows statistics from one administrative source published twice in the last three years.",
-      "note": "The population and vital statistics issue of August 2026, from the Civil Status Division's system, sets stage 3. No second edition is shown, so not 4.",
-      "as_at": "2026-11-27"
+      "stage_sources": "MUS-004;MUS-007;MUS-001",
+      "gaps": "No source found shows statistics from three administrative sources, each published twice in the last three years.",
+      "note": "Annual vital statistics from registered events were published in March 2024 and March 2026, with a half-year issue in August 2026: one source shown repeatedly. No other source is shown, so not 5.",
+      "as_at": "2026-11-28"
     }
   ]
 }
