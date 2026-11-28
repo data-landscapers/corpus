@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-27-mar-ai-digital-strategy-ahmed-rahhous-pragmatic-blueprint",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Morocco's AI and digital transition minister told the House of Representatives that the ministry is working on AI assistants, one to help businesses with administrative procedures and a legal assistant for searching legal texts and drafting bills, and that the National Social Support Agency will gradually roll out a chatbot.",
+   "as_of": "2026-11-16",
+   "date_precision": "day",
+   "system": "ministry AI assistants; ANSS chatbot",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
