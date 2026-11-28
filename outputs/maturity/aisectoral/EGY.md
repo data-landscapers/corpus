@@ -6,8 +6,8 @@
 
 **Several sectors.** Each sector's AI is reported in a separate account. [The AI council's 2026 report lists a smart judicial assistant](<https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/>). [In November 2024 the remote sensing authority mapped winter crops with AI](<https://www.dailynewsegypt.com/2024/11/05/narss-agriculture-ministry-launch-map-of-winter-crops/>). [In November 2026 a Senate study listed government AI initiatives in health, agriculture, planning and banking](<https://www.youm7.com/story/2026/11/23/أحمد-أبوهشيمة-مصر-لا-تبدأ-من-الصفر-فى-الذكاء-الاصطناعى/7629258>). [They include MASA for early breast cancer detection and GEO AI for state property](<https://www.youm7.com/story/2026/11/23/أحمد-أبوهشيمة-مصر-لا-تبدأ-من-الصفر-فى-الذكاء-الاصطناعى/7629258>).
 
-**Results reported.** No measured results of a sectoral AI system are on file. [The customs systems' start was reported without figures](<https://www.elwatannews.com/news/details/8169196>).
+**Results reported.** In August 2025 the justice and ICT ministers [launched remote criminal hearings at East Alexandria Court with AI speech-to-text minutes](<https://www.technotime.net/10747>). The ICT minister said the [speech-to-text reaches an accuracy above 96%](<https://www.technotime.net/10747>).
 
 ***Also on file***. None found.
 
-***Not found***. No measured results of a sectoral AI system are on file.
+***Not found***. Measured results are found for court transcription only; none for the customs, health, social protection, tax or farming systems.

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "4",
+      "stage": "5",
       "use": "inservice",
       "sectors": "several",
-      "results": "",
+      "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-001;EGY-006;EGY-007",
-      "gaps": "No source found since October 2023 reports measured results of a sectoral AI system in service.",
-      "note": "Justice (EGY-001, EGY-011), customs (EGY-006), health (EGY-007), social protection (EGY-009), agriculture (EGY-016) and tax (EGY-021) each have AI in service, read across sources (ruling 170). No measured results are reported, so not 5.",
-      "as_at": "2026-11-27"
+      "stage_sources": "EGY-001;EGY-006;EGY-007;EGY-022;EGY-023",
+      "gaps": "Measured results are reported for the courts' AI speech-to-text only (EGY-023); none for the customs, health, social protection, tax or agriculture systems.",
+      "note": "Justice (EGY-001, EGY-011, EGY-022), customs (EGY-006), health (EGY-007), social protection (EGY-009), agriculture (EGY-016) and tax (EGY-021) each have AI in service, read across sources (ruling 170). The ICT minister reported in August 2025 that the courts' AI speech-to-text in service at East Alexandria Court exceeds 96% accuracy (EGY-023), a measured result, so stage 5.",
+      "as_at": "2026-11-28"
     }
   ]
 }

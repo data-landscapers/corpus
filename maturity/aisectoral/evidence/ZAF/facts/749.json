@@ -1,0 +1,44 @@
+{
+ "slug": "2026-11-27-zaf-sars-supports-president-ramaphosas-call-to-turn-ai-ambition-into-actio",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "SARS says its entity compliance models segment its base of more than 36 million tax entities, detect anomalies and potential fraud, and support risk assessment and case selection, and that it has applied advanced analytics and AI for more than a decade.",
+   "as_of": "2026-11-27",
+   "date_precision": "day",
+   "system": "SARS entity compliance models",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "SARS says its debt-collection propensity models help prioritise its debt book and target interventions, enabling it to collect more than R110 billion a year.",
+   "as_of": "2026-11-27",
+   "date_precision": "day",
+   "system": "SARS debt propensity models",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SARS entity compliance models",
+   "country_label": "SARS entity compliance models",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "South African Revenue Service",
+   "tiers": ""
+  },
+  {
+   "system": "SARS debt propensity models",
+   "country_label": "SARS debt propensity models",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "South African Revenue Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

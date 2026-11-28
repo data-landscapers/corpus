@@ -82,6 +82,7 @@ EGY,GEO AI,Egypt,sectorai,,Ministry of Planning and Economic Development,,2026-1
 EGY,Al-Mashura platform,Al-Mashura,other,,Egyptian Tax Authority,,2026-11-10-egy-eta-ai-analyses-4-billion-e-documents
 EGY,AI real estate tax calculation,Egyptian Tax Authority AI,sectorai,,Egyptian Tax Authority,,2026-09-14-egy-eta-ai-real-estate-tax-calculation
 EGY,Educational Republic platform,Egypt,other,AI and data-analysis learning platform,"National Press Authority / Dar Al-Tahrir, with MCIT technical support",,2026-11-26-egy-egypt-signs-cooperation-protocol-to-establish-ai-powered-educational-republic-pl
+EGY,Remote criminal litigation system speech-to-text,Egypt,sectorai,remote criminal litigation system,Ministry of Justice and MCIT,,2025-08-13-egy-ict-justice-ministers-introduce-remote-criminal-litigation-system
 ERI,CAD4TB,CAD4TB,sectorai,offline software,Thirona and Delft Imaging,,2020-03-06-eri-delft-cad4tb-moh-tb-screening
 ERI,CAD4TB,Eritrea,sectorai,Delft Light,Ministry of Health,,2026-01-01-eri-delft-imaging-impact-eritrea-cad4tb
 ETH,national monitoring and evaluation platform,Ethiopia,sectorai,"unified digital platform ('One Plan, One Report')",Ministry of Planning and Development,national,2026-05-18-ethiopia-data-sovereignty-ai-monitoring-platform
@@ -213,6 +214,7 @@ RWA,Chidi,Rwanda,sectorai,Anthropic Claude model,ALX,pilot with educators and hi
 RWA,Tunga,Rwanda,sectorai,voice assistant in the MINAGRI call centre,Ministry of Agriculture and Animal Resources,,2026-09-01-rwa-rwanda-expands-use-of-ai-to-reach-millions-of-farmers-with-timely-advi
 RWA,eBuzima,Rwanda,sectorai,digital health platform,Ministry of Health,primary health facilities,2026-11-04-rwa-rwanda-advances-horizon-1000-initiative-to-integrate-ai-into-primary-healthcare
 RWA,community Electronic Medical Record (cEMR),cEMR,other,,Rwanda Biomedical Centre,,2025-05-29-rwa-press-release-rwanda-biomedical-centre-ai-platform-for-community-healt
+RWA,Chidi,Chidi,other,"ALX Savanna, runs on Anthropic's Claude",ALX,,2026-11-27-rwanda-tests-ai-education-tool
 SDN,Project Connect,Sudan,other,Giga real-time school connectivity map,Giga (UNICEF and ITU),,2026-08-10-omdena-giga-unicef-sudan-ai-school-detection
 SDN,mobile-first AI tool for detecting manipulated narratives and bot-amplified disinformation,Sudan,other,Valent,CDAC Network with Valent,,2025-11-04-cdac-network-sudan-ai-information-environment
 SEN,local AI application for judicial archives,Senegal,other,NVIDIA DGX Spark,"Direction de la Dematerialisation et de l'Automatisation, Ministry of Justice",TGI Pikine-Guediawaye pilot,2026-10-06-sen-rts-tgi-pikine-ia-archives-judiciaires
@@ -292,6 +294,8 @@ ZAF,AI-Driven Digital Twinning (Cognitive Decision Automation) Solution,South Af
 ZAF,Sars machine-learning compliance models,South Africa,sectorai,,Sars,,2026-06-18-zaf-ai-is-now-hunting-tax-cheats-in-south-africa
 ZAF,SARS compliance programme AI and machine learning,SARS compliance AI,sectorai,,South African Revenue Service,,2024-04-03-zaf-sars-doubles-down-on-ai-machine-learning-after-revenue-gains
 ZAF,dpclVR,South Africa,other,,,,2026-11-25-xaf-meta-launches-us-700-000-ai-grant-to-support-innovation-across-africa
+ZAF,SARS entity compliance models,SARS entity compliance models,sectorai,,South African Revenue Service,,2026-11-27-zaf-sars-supports-president-ramaphosas-call-to-turn-ai-ambition-into-actio
+ZAF,SARS debt propensity models,SARS debt propensity models,sectorai,,South African Revenue Service,,2026-11-27-zaf-sars-supports-president-ramaphosas-call-to-turn-ai-ambition-into-actio
 ZMB,Obrizum AI education pilot,Zambia,sectorai,Obrizum,Ministry of Technology and Science,,2026-03-09-mutati-launches-ai-pilot-in-education
 ZMB,NRW Decision Intelligence Platform,Zambia,sectorai,"timbuktoo EDGE node, University of Zambia AI UniPod",Lusaka Water Supply and Sanitation Company,,2026-10-14-zmb-undp-lusaka-water-ai-non-revenue-water-pilot
 ZMB,ZRA AI fraud detection,Zambia,sectorai,,Zambia Revenue Authority,,2024-06-18-zmb-mots-ai-increases-zra-revenue-collection

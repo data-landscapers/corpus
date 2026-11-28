@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-27-rwanda-tests-ai-education-tool",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Chidi",
+   "country_label": "Chidi",
+   "class": "other",
+   "platform": "ALX Savanna, runs on Anthropic's Claude",
+   "owner": "ALX",
+   "tiers": ""
+  }
+ ],
+ "note": "Chidi is ALX's tool; a schools version is only being developed; no public sector system stated using AI."
+}

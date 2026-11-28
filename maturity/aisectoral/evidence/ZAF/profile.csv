@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZAF,sectorai,use,coverage,inservice,2026-06-18,ZAF-001;ZAF-002;ZAF-004;ZAF-007;ZAF-009,ZAF-006=underway,
+ZAF,sectorai,use,coverage,inservice,2026-11-27,ZAF-001;ZAF-002;ZAF-004;ZAF-007;ZAF-009;ZAF-010,ZAF-006=underway,
 ZAF,sectorai,sectors,coverage,,,,,nothing found
-ZAF,sectorai,results,coverage,reported,2026-06-18,ZAF-003;ZAF-005;ZAF-008,,
+ZAF,sectorai,results,coverage,reported,2026-11-27,ZAF-003;ZAF-005;ZAF-008;ZAF-011,,

@@ -20,8 +20,8 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 
 | Stage | Countries |
 |---|---|
-| 5 Mature | 9 |
-| 4 Operating | 10 |
+| 5 Mature | 10 |
+| 4 Operating | 9 |
 | 3 Established | 21 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
@@ -48,6 +48,16 @@ Angola's tax authority and a space programme office ran AI in several sectors in
 - AGT project coordinator Cynthia Ratle says the ASY5 customs system launched at Luanda port introduces AI-based risk management that analyses cargo from manifest submission, and AGT chair José Leiria says it uses AI and machine learning to check origin, value and consistency ([source, 2026-06-29](https://angop.ao/noticias/economia/agt-expande-sistema-automatizado-ao-porto-de-luanda/)).
 - MINTTICS says the national space programme office GGPEN developed AI platforms in use, including Tech Minas supporting and monitoring mining activity and Tech Ecologia detecting and alerting on offshore oil spills ([source, 2026-04-30](https://minttics.gov.ao/ao/noticias/minttics-destaca-potencial-do-data-center-e-cloud-nacional-para-reforcar-a-adopcao-da-ia-no-pais/)).
 - MINTTICS says GGPEN's AI platforms serve mining (Tech Minas), offshore oil (Tech Ecologia) and agriculture (Tech Agro, analysing fields from satellite and drone data) ([source, 2026-04-30](https://minttics.gov.ao/ao/noticias/minttics-destaca-potencial-do-data-center-e-cloud-nacional-para-reforcar-a-adopcao-da-ia-no-pais/)).
+
+### Egypt: 5 Mature
+
+Egypt runs AI in six sectors, and its court transcription reported over 96% accuracy in 2025; results in other sectors are not known.
+
+- The council's first-half 2026 report lists the launch of a smart judicial assistant among achievements ([source, 2026-06](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)).
+- Customs head Ahmed Amoy said Egypt has begun running three smart systems on the Nafeza platform, including automated tariff classification using AI algorithms, automated valuation against past records, and a risk system that scores each shipment before arrival ([source, 2025-11-07](https://www.elwatannews.com/news/details/8169196)).
+- Dr Mohamed Fawzy, adviser to the Minister of Health and Population for radiology, said AI applications are used daily in some hospitals and institutes to diagnose breast, prostate and brain tumours, with expansion to other devices under way ([source, 2025-09-06](https://www.masrtimes.com/587268)).
+- The ICT and Justice ministers launched the remote criminal litigation system at East Alexandria Court, using AI speech-to-text to turn hearings into written minutes ([source, 2025-08-13](https://www.technotime.net/10747)).
+- The ICT Minister said the AI speech-to-text has achieved an accuracy rate exceeding 96% ([source, 2025-08-13](https://www.technotime.net/10747)).
 
 ### Ethiopia: 5 Mature
 
@@ -140,14 +150,6 @@ Djibouti runs AI for road defects and weather warnings, with road detections cou
 
 - DPCR says its CorridorVision AI, which detects road defects in vehicle video, is in deployment and calibration and has covered over 844 km on its 642 km corridor network ([source, 2026-01-15](https://dpcr.dj/2026/01/15/corridorvision-ai-ai-powered-road-condition-monitoring-for-djiboutis-trade-corridors/)).
 - The article says the Chinese Meteorological Administration supplied Djibouti an AI early-warning system, put in service in December 2025, and handed over MAZU-Djibouti 2.0 on 17 July 2026 to the authorities, with forecasts at 3 km resolution and a three-day horizon, updated every six hours ([source, 2025-12](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia)).
-
-### Egypt: 4 Operating
-
-Egypt has AI in service in justice, customs, health, social protection, farming and tax; no measured results have been found.
-
-- The council's first-half 2026 report lists the launch of a smart judicial assistant among achievements ([source, 2026-06](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)).
-- Customs head Ahmed Amoy said Egypt has begun running three smart systems on the Nafeza platform, including automated tariff classification using AI algorithms, automated valuation against past records, and a risk system that scores each shipment before arrival ([source, 2025-11-07](https://www.elwatannews.com/news/details/8169196)).
-- Dr Mohamed Fawzy, adviser to the Minister of Health and Population for radiology, said AI applications are used daily in some hospitals and institutes to diagnose breast, prostate and brain tumours, with expansion to other devices under way ([source, 2025-09-06](https://www.masrtimes.com/587268)).
 
 ### Gambia: 4 Operating
 
