@@ -72,6 +72,7 @@ BFA,Registre de l'identifiant unique électronique,Registre de l'identifiant uni
 BFA,Projet d'identification unique electronique de la personne,Burkina Faso,idsystem,,Ministry of Digital Transition,,2026-07-26-burkina-faso-zero-data-abroad-120-platforms
 BFA,electronic unique identifier,Burkina Faso,idsystem,,Ministry of Digital Transition,,2026-11-24-bfa-enrolement-a-identifiant-unique-jacques-sosthene-dingara-donne-le-coup-den
 BFA,Identifiant unique des personnes,Burkina Faso,idsystem,unique person identifier,Government,,2026-11-25-bfa-innovation-et-technologie-la-21e-edition-de-la-semaine-du-numerique-ou
+BFA,WURI,WURI,idsystem,,,,2026-11-26-bfa-sitico-2026-des-imprimantes-3d-aux-plateformes-numeriques-un-ecosysteme-en-const
 BWA,Omang,Botswana,idsystem,,Ministry of Labour and Home Affairs,,2026-08-26-bwa-omang-fake-documents-cartel
 BWA,Omang,Botswana,idsystem,,Ministry of Labour and Home Affairs,,2026-07-29-botswana-national-id-replacement-delays
 BWA,Electronic National Identification System (Biometric Omang),Botswana,idsystem,,Ministry of Labour and Home Affairs,,2026-04-01-bwa-2026-0400-12061
@@ -238,6 +239,7 @@ ETH,Fayda,Fayda (National ID Program),idsystem,,National ID Program,,2024-10-25-
 ETH,Fayda,Fayda,idsystem,,National ID Program,,2026-11-15-eth-fayda-digital-id-agricultural-rural
 ETH,Fayda digital ID,Ethiopia,idsystem,,Faydaverse,,2026-11-22-eth-capital-faydapass-government-documents-digital-wallet
 ETH,digital identification card,Ethiopia,idsystem,,Government of Ethiopia,,2026-05-01-eth-state-to-forge-a-knowledge-based-economy-with-ai-university
+ETH,Fayda,Fayda national digital ID,idsystem,,,,2026-11-25-eth-ethiopias-returnee-support-model-emerges-as-regional-benchmark-says-io
 GAB,Carte nationale d'identité électronique (CNIE),Gabon,idsystem,,Ministry of Interior,,2026-06-03-gabon-cnie-enrolment-figures-assembly
 GAB,Gabon national digital ID system,Gabon,idsystem,,Government of Gabon,,2026-09-11-gabon-digital-id-interoperability-implementation
 GAB,National Digital Identity System,Gabon,idsystem,,ANINF,,2026-09-09-techafricanews-gabon-four-digital-projects
@@ -645,6 +647,7 @@ SOM,National Identification Number (NIN),Somalia,idsystem,,NIRA,,2026-05-01-som-
 SOM,Somali National ID system,Somalia,idsystem,,NIRA,,2026-01-15-som-from-exclusion-to-identity
 SOM,NIRA national ID system,NIRA,idsystem,,NIRA,,2026-04-02-som-promoting-innovation-and-digital-transformation-in-somalia
 SOM,Somali National ID system (NIRA),Somalia,idsystem,,NIRA,,2024-08-26-som-somalia-introduces-modern-digital-identification-to-enhance-banking-se
+SOM,Somali national ID card,Somalia,idsystem,,Immigration and Citizenship Agency,,2026-11-26-som-somalia-unveils-new-eac-aligned-passport-in-uganda
 SSD,"Directorate of Civil Registry, Nationality, Passports and Immigration digital registry",South Sudan,other,,"Directorate of Civil Registry, Nationality, Passports and Immigration",,2026-07-28-civil-registry-digital-system-birth-death-marriage
 SSD,National ID,South Sudan,idsystem,,"Directorate of Civil Registry, Nationality, Passport and Immigration",,2026-05-08-govt-procures-5-machine-systems-id-passport-onecitizendaily
 SSD,National ID card,South Sudan,idsystem,,,,2026-10-12-ssd-nec-chiefs-verify-voters-without-ids
@@ -818,6 +821,7 @@ ZAF,Digital ID system,South Africa,idsystem,,Department of Home Affairs,,2026-02
 ZAF,Smart ID Card,South Africa,idsystem,,Department of Home Affairs,"ABSA, Capitec, FNB, Standard Bank branches as application channel",2026-11-11-zaf-home-affairs-smart-id-753-bank-branches
 ZAF,Smart ID,South Africa,idsystem,bank branches,Department of Home Affairs,,2026-11-18-zaf-home-affairs-passports-480-bank-branches
 ZAF,EMCS 2.0,"Electronic Movement Control System 2.0 (biometric border control, live at three airports since August 2026)",other,,Border Management Authority,,2026-11-24-zaf-no-budget-for-digital-border-control-at-land-ports-as-sa-faces-busy-festive-
+ZAF,digital ID,Digital ID,idsystem,,Department of Home Affairs,,2025-02-11-zaf-dha-home-affairs-walks-the-talk-on-digital-transformation
 ZMB,Integrated National Registration Information System (INRIS),Zambia,idsystem,,,,2026-07-27-zambia-from-rails-to-routine-national-financial-switch
 ZMB,MOSIP-based digital ID,Zambia,idsystem,MOSIP,Smart Zambia Institute,,2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project
 ZMB,INRIS,Zambia,idsystem,,"Department of National Registration, Passport and Citizenship",,2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS
@@ -838,6 +842,7 @@ ZMB,MOSIP-based digital ID platform,Zambia,idsystem,MOSIP,Smart Zambia Institute
 ZMB,National digital Identity,Zambia,idsystem,,,,2026-11-06-dpi-map-2026-11-12
 ZMB,national digital identity ecosystem,Zambia,idsystem,,Smart Zambia Institute,,2026-03-25-zmb-smart-zambia-pushes-to-eliminate-paper-patient-files-to-electronic-hea
 ZMB,Integrated National Registration Information System,Zambia,idsystem,,Ministry of Home Affairs and Internal Security,,2026-11-22-zmb-tanzania-s-smart-id-puts-zambia-s-ageing-nrc-under-the-spotlight
+ZMB,Integrated National Registration Information System (INRIS),Zambia,idsystem,,,,2026-11-25-zmb-zambia-accelerates-national-digital-id-plans
 ZWE,Digital ID,Zimbabwe,idsystem,,Registrar-General / Ministry of Home Affairs,,2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform
 ZWE,Online Border Management System (OBMS),Zimbabwe,other,Garsu Pasaulis,Department of Immigration,,2024-05-15 Zimbabwe implements biometric border posts for automating immigration processes
 ZWE,national identity documents,Zimbabwe,idsystem,,Civil Registry Department,,2026-09-18-zwe-herald-30-new-vehicles-boost-civil-registry-services
