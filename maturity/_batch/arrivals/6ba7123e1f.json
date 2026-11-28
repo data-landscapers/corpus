@@ -1,0 +1,196 @@
+{
+ "slug": "2026-11-24-ken-eu-kenya-digital-dialogue-joint-communique",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The EU-Kenya joint communique of 24 November 2026 says the two sides are building on the Kenya National Artificial Intelligence Strategy 2025-2030.",
+       "as_of": "2026-11-24",
+       "date_precision": "day",
+       "system": "Kenya National Artificial Intelligence Strategy 2025-2030",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The communique states nothing that answers this study's questions for Kenya."
+    }
+   }
+  }
+ }
+}

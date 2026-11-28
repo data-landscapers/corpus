@@ -1,0 +1,11 @@
+{"slug": "2026-11-26-sle-salpost-and-felei-techcity-present-investment-proposals-at-waiis-2026", "studies": {
+"addressregister": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Digital addressing through post offices is only a proposal seeking finance."}}},
+"civilserviceskills": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing stated on civil service training."}}},
+"digitalskills": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Digital skills named only as a general goal; no programme or measure."}}},
+"internationalbandwidth": {"countries": {"SLE": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "The Minister said Sierra Leone's backbone fibre is already connected to Guinea's; a further submarine cable is only being sought through pooled demand with Guinea, Liberia and The Gambia.", "as_of": "2026-11-15", "date_precision": "day", "system": "Backbone fibre link to Guinea", "class": "route"}], "systems": [{"system": "Backbone fibre link to Guinea", "country_label": "Sierra Leone", "class": "route", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Only a title deed for the Felei site is mentioned; no land register stated."}}},
+"nonstatefinance": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Proposals seek sums with no commitment by any financier."}}},
+"regionalpolicy": {"countries": {"SLE": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The Minister said Sierra Leone is working through ECOWAS on a regional data embassy framework, whose work ECOWAS Heads of State have approved.", "as_of": "2026-11-15", "date_precision": "day", "system": "ECOWAS regional data embassy framework", "class": "cooperation"}], "systems": [], "note": ""}}},
+"startups": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No startup law, label or fund stated; Felei TechCity is an investment pitch."}}},
+"techhubs": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Felei TechCity is planned, with feasibility studies underway and Phase I unfunded; nothing built or running."}}}
+}}

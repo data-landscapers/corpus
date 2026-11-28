@@ -1,0 +1,79 @@
+{
+ "slug": "2026-11-26-nga-c-river-opens-digital-doors-for-2-500-young-women",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Cross River State Government reports signing an MoU on 2026-11-26 for the Technology Talent Service programme, backed by the Mastercard Foundation, to train 2,500 young women in ICT and digital literacy across its 18 local government areas.",
+       "as_of": "2026-11-26",
+       "date_precision": "day",
+       "system": "Technology Talent Service (TTS)",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": "State-level programme, not yet shown trained."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "ictjobs": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Reserved training places for IDPs; no registration or digital service access for the displaced stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

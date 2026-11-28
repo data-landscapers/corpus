@@ -1,0 +1,16 @@
+{"slug": "2026-11-26-ago-metade-dos-internautas-em-4-prov-ncias-de-angola-j-usa-aplicac-es-banc-rias-e-ca", "studies": {
+"businesspayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"AGO": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "FinTechs Angola reports that mobile wallets such as Unitel Money and Afrimoney are licensed by the National Bank of Angola (BNA).", "as_of": "2026-11-26", "date_precision": "day", "system": "Unitel Money; Afrimoney", "class": "oversight"}], "systems": [], "note": ""}}},
+"civilserviceskills": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on civil service training."}}},
+"consumerprotection": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on consumer rules or complaints."}}},
+"crossborderpayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitalskills": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on digital skills programmes."}}},
+"educationexchange": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on education."}}},
+"educationmis": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on education."}}},
+"g2ppayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"internetusage": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The 78% daily-use figure is for internet users in four provinces, not a share of the population."}}},
+"paymentsuptake": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The 50% figure is of internet users in four provinces, not of adults nationally."}}},
+"retailpayments": {"countries": {"AGO": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "EMIS's October 2026 monthly report, as relayed by FinTechs Angola, says MULTICAIXA Express passed 2.6 million active users and carried about 70% of the network's operations; BNA-licensed mobile wallets Unitel Money and Afrimoney also operate.", "as_of": "2026-10", "date_precision": "month", "system": "MULTICAIXA Express", "class": "retail"}], "systems": [{"system": "MULTICAIXA Express", "country_label": "MULTICAIXA Express", "class": "retail", "platform": "", "owner": "EMIS", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"schools": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

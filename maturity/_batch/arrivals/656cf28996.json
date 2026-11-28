@@ -1,0 +1,196 @@
+{
+ "slug": "2026-11-27-sen-senegal-signs-mou-with-presight-on-ai-and-sovereign-cloud",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "MoU draws on Presight AI expertise; no government AI system tendered, piloted or in service stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "MoU only says it will target training public servants need; a pledge, not a programme."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Senegal's telecoms and digital ministry says the cloud built for the Dakar 2026 Youth Olympic Games is set to become a national platform run by Sénégal Numérique, and that sovereign-cloud talks with Presight will define the conditions for the State to keep control of data and infrastructure.",
+       "as_of": "2026-11-24",
+       "date_precision": "day",
+       "system": "national cloud platform (Sénégal Numérique)",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Dakar 2026 Youth Olympic Games cloud",
+       "country_label": "Senegal",
+       "class": "sovereignty",
+       "platform": "cloud",
+       "owner": "Sénégal Numérique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "MoU only to examine remote identity verification solutions; nothing contracted or in use."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "MoU provides only a joint review of e-commerce and digital payments; no service stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Senegal."
+    }
+   }
+  }
+ }
+}

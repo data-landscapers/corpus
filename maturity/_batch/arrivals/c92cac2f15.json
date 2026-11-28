@@ -1,0 +1,52 @@
+{
+ "slug": "2024-11-21-zaf-question-nw1853-to-the-minister-in-the-presidency",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only lists authentication products as an optional SITA service; no service stated in use or under way."
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says SITA is mandated to provide interoperability standards; no standards named or published."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "Statistics SA's Statistician-General said in a reply signed 11 November 2024 that under the SITA Act the State Information Technology Agency must provide national and provincial departments with a private telecoms network and transversal and department-specific information systems (Persal, BAS, LOGIS), and data processing for them.",
+       "as_of": "2024-11-11",
+       "date_precision": "day",
+       "system": "State Information Technology Agency (SITA)",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Persal, BAS and LOGIS",
+       "country_label": "South Africa",
+       "class": "staff",
+       "platform": "",
+       "owner": "SITA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

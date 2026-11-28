@@ -1,0 +1,9 @@
+{"slug": "2024-08-12-cmr-annuaire-statistique-de-la-region-du-nord-ouest-edition-2023", "studies": {
+"admindata": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The Institut National de la Statistique published the Annuaire Statistique de la Region du Nord-Ouest, Edition 2023, an annual regional compilation whose data it says come generally from local administrative sources and national surveys, without naming the sources.", "as_of": "2024-08-12", "date_precision": "day", "system": "Annuaire statistique de la region du Nord-Ouest, edition 2023", "class": "admin"}
+], "systems": [{"system": "Annuaire statistique de la region du Nord-Ouest, edition 2023", "country_label": "Annuaire statistique de la region du Nord-Ouest 2023", "class": "admin", "platform": "", "owner": "Institut National de la Statistique", "tiers": ""}], "note": "No individual administrative source is named, so no source or series value."}}},
+"health": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document says nothing on health information systems."}}},
+"healthmis": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document says nothing on a health management information system."}}},
+"localgov": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document says nothing on local government office connection."}}},
+"schools": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document says nothing on learner records."}}}
+}}

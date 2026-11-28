@@ -1,23 +1,50 @@
-{"slug": "2026-10-01-rwa-simplified-stakeholder-engagement-plan-sep-final", "studies": {
-"aiabuse": {"countries": {"RWA": {"facts": [], "systems": [], "note": "States nothing on a rule or authority against AI harms."}}},
-"aisectoral": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only planned proofs of concept for agentic workflows and an education centre; no sectoral AI tool stated as piloted or in service."}}},
-"aisystems": {"countries": {"RWA": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The Rwanda AI Agency's World Bank GFPP grant (E6900-001) is to finance GPU compute equipment with co-location, hosting and maintenance, and consulting for foundational AI-ready data assets and registries, to support piloting of AI use cases in priority sectors (plan dated October 2026).", "as_of": "2026-10", "date_precision": "month", "system": "GFPP-financed GPU compute and foundational data assets", "class": "localai"}], "systems": [{"system": "GFPP AI for Economic Transformation in Rwanda preparation grant", "country_label": "Rwanda", "class": "localai", "platform": "GPU compute with co-location and cloud and AI model services", "owner": "Rwanda AI Agency (RAIA)", "tiers": ""}], "note": ""}}},
-"authentication": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Mentions digital ID only as a general foundation; no authentication service described."}}},
-"birthidlink": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
-"civilserviceskills": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only planned AI literacy and skilling approaches, not stated as civil-servant training."}}},
-"datacentres": {"countries": {"RWA": {"facts": [], "systems": [], "note": "States no data centre for hire or cloud region; only that National Data Center design studies are dropped from the activities."}}},
-"dataprotectionlaw": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Mentions data protection safeguards only as a pillar of a follow-on operation; no law stated."}}},
-"digitalskills": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only a planned design and piloting of AI literacy approaches; no programme launched or counted."}}},
-"feedbackportals": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only a project grievance mechanism to be designed for the grant, not a channel on public services."}}},
-"idcoverage": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
-"idfrombirth": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
-"idmaintenance": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
-"idregisters": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
-"idrobustness": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Digital ID mentioned only in passing as a foundation."}}},
-"itcapacity": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only a PIU being established and staff seconded from RISA for a grant; no government-run system stated."}}},
-"localgov": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on local government connection."}}},
-"nationaldatacentres": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire stated."}}},
-"publicconsultation": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Describes consultations planned under the grant; none held or published."}}},
-"startups": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on startup law or funding."}}},
-"techhubs": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on hubs or parks."}}}
-}}
+{
+ "slug": "2026-10-01-rwa-simplified-stakeholder-engagement-plan-sep-final",
+ "studies": {
+  "aigovernment": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a World Bank grant plan to fund agentic-workflow proofs of concept; no pilot or service stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "broadbandstrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

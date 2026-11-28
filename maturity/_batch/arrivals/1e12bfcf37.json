@@ -1,0 +1,6 @@
+{"slug": "2025-04-29-rwa-kubaka-risa-powers-the-future-of-smart-building-services", "studies": {
+"itcapacity": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "Rwanda's Ministry of Infrastructure launched the KUBAKA building-permit platform on 29 April 2025, developed with critical support from the Rwanda Information Society Authority (RISA).", "as_of": "2025-04-29", "date_precision": "day", "system": "KUBAKA", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "KUBAKA, which replaces the old BPMIS, went live on 29 April 2025 for online zoning checks, permit applications and tracking, with RISA support and no contractor named.", "as_of": "2025-04-29", "date_precision": "day", "system": "KUBAKA", "class": "staff"}
+], "systems": [{"system": "KUBAKA", "country_label": "KUBAKA (kubaka.gov.rw)", "class": "staff", "platform": "", "owner": "Ministry of Infrastructure with RISA", "tiers": ""}], "note": ""}}}
+}}

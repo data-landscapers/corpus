@@ -1,0 +1,8 @@
+{"slug": "2026-11-26-mrt-tashghil-employment-agency-launches-ai-job-platforms", "studies": {
+"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only the minister's remark that human oversight is kept in assessment and selection; no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"MRT": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "The national employment agency Techghil launched three AI-based digital platforms matching job seekers with employers on 26 November 2026, per the Mauritanian news agency via Madar.", "as_of": "2026-11-26", "date_precision": "day", "system": "Techghil AI job-matching platforms", "class": "govai"}], "systems": [{"system": "Techghil AI job-matching platforms", "country_label": "Techghil AI job-matching platforms", "class": "govai", "platform": "", "owner": "Agence nationale pour l'emploi (Techghil)", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Job-matching platforms are general administration, not a listed sector's system."}}},
+"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No locally built model, dataset or AI computing stated."}}},
+"disabilityaccess": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Specialised service offers for persons with disabilities are named, but nothing on accessible information or digital services."}}},
+"itcapacity": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Who built or runs the platforms is not stated."}}}
+}}

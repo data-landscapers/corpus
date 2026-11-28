@@ -1,0 +1,9 @@
+{"slug": "2026-11-25-nga-nigeria-ai-governance-forum-launched-at-abuja-tech-week-2026-a-strateg", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"NGA": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Nigeria AI Governance Forum's open letter of 24 November 2026 called for stronger coordination in implementing Nigeria's National Artificial Intelligence Strategy (NAIS), whose Pillar 5 provides for a national AI governance framework.", "as_of": "2026-11-24", "date_precision": "day", "system": "National Artificial Intelligence Strategy (NAIS)", "class": "strategy"}], "systems": [{"system": "National Artificial Intelligence Strategy (NAIS)", "country_label": "Nigeria", "class": "strategy", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No AI built or hosted at home stated."}}},
+"digitalsovereignty": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Sovereignty only in general terms; no state data rule or hosting stated."}}},
+"publicconsultation": {"countries": {"NGA": {"facts": [], "systems": [{"system": "Nigeria AI Governance Forum (NAIGF)", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "Global Network for Cybersolution", "tiers": ""}], "note": "The forum is a non-government initiative, not set up by government, and no government consultation is stated."}}}
+}}

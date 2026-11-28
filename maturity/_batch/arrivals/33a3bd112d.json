@@ -1,0 +1,10 @@
+{"slug": "2026-11-27-rwanda-tests-ai-education-tool", "studies": {
+"aiabuse": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on AI harm rules or an authority."}}},
+"aigovernment": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only an MOU giving government developers Claude Code and API credits; no AI system stated in service or piloted in administration."}}},
+"aisectoral": {"countries": {"RWA": {"facts": [], "systems": [{"system": "Chidi", "country_label": "Chidi", "class": "other", "platform": "ALX Savanna, runs on Anthropic's Claude", "owner": "ALX", "tiers": ""}], "note": "Chidi is ALX's tool; a schools version is only being developed; no public sector system stated using AI."}}},
+"aistrategy": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only that pilot findings will feed a national policy on AI in education; no national AI strategy stated."}}},
+"aisystems": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No model, dataset or AI computing built or hosted in Rwanda; Chidi runs on Anthropic's Claude."}}},
+"civilserviceskills": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Civil-servant AI training is only mentioned as being explored by the partners; teacher training is not civil-service training."}}},
+"itcapacity": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on government staff building or running systems."}}},
+"schoolinternet": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No school internet figure or compulsory curriculum stated."}}}
+}}

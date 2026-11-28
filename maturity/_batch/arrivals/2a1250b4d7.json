@@ -1,0 +1,163 @@
+{
+ "slug": "2024-09-07-syc-dict-what-s-new-new-online-tools-to-help-push-seychelles-towards-digit",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Seychelles News Agency reports that the SeyID app, launched in 2022 by the Department of ICT, lets people create a digital identity with an accredited identity app to prove who they are online and is required to access government online services.",
+       "as_of": "2024-09-06",
+       "date_precision": "day",
+       "system": "SeyID",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "reach",
+       "value": "several",
+       "fact": "DICT presented Mon Servis, the Biz Auth Portal, CertExpress, online driving-licence renewal and SeyID features, all reached through SeyID, per the Seychelles News Agency.",
+       "as_of": "2024-09-06",
+       "date_precision": "day",
+       "system": "SeyID",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "remote",
+       "value": "wallet",
+       "fact": "The SeyID app, launched in 2022, gives a digital identity with an accredited identity app that can be used to prove who you are online, per the Seychelles News Agency.",
+       "as_of": "2024-09-06",
+       "date_precision": "day",
+       "system": "SeyID",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SeyID",
+       "country_label": "Seychelles",
+       "class": "authentication",
+       "platform": "app",
+       "owner": "DICT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "DICT announced government services now accessible online, including the Mon Servis catalogue, CertExpress for requesting and paying for birth and marriage certificates, and online driving-licence renewal; some services are already available.",
+       "as_of": "2024-09-06",
+       "date_precision": "day",
+       "system": "Mon Servis",
+       "class": "eservices"
+      },
+      {
+       "sub_indicator": "eservices",
+       "aspect": "gateway",
+       "value": "single",
+       "fact": "Mon Servis is described as a catalogue of all online services the government provides, with a SeyID required to access them, covering licences and certificates.",
+       "as_of": "2024-09-06",
+       "date_precision": "day",
+       "system": "Mon Servis",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mon Servis",
+       "country_label": "Seychelles",
+       "class": "eservices",
+       "platform": "portal",
+       "owner": "DICT",
+       "tiers": ""
+      },
+      {
+       "system": "CertExpress",
+       "country_label": "Seychelles",
+       "class": "eservices",
+       "platform": "portal",
+       "owner": "DICT",
+       "tiers": ""
+      },
+      {
+       "system": "Biz Auth Portal",
+       "country_label": "Seychelles",
+       "class": "other",
+       "platform": "portal",
+       "owner": "DICT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  }
+ }
+}

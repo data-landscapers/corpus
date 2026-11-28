@@ -1,0 +1,211 @@
+{
+ "slug": "2026-11-27-mrt-digital-zakat-platform-khidmati",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Minister of Islamic Affairs said the zakat platform launch translates the national digital transformation strategy into practical services; adoption date and period are not given.",
+       "as_of": "2026-11-27",
+       "date_precision": "day",
+       "system": "national digital transformation strategy",
+       "class": "national"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Madar, citing the Agence Mauritanienne d'Information, reports the digital minister saying anyone can now pay zakat through their mobile phone and electronic wallet on the new government platform launched 27 November 2026.",
+       "as_of": "2026-11-27",
+       "date_precision": "day",
+       "system": "digital zakat platform (Khidmati)",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "digital zakat platform",
+       "country_label": "Mauritania",
+       "class": "other",
+       "platform": "Khidmati",
+       "owner": "Ministry of Islamic Affairs; Ministry of Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "The digital minister said the zakat platform is linked to the civil status register and the social registry to identify beneficiaries; no figures given.",
+       "as_of": "2026-11-27",
+       "date_precision": "day",
+       "system": "digital zakat platform (Khidmati)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "digital zakat platform",
+       "country_label": "Mauritania",
+       "class": "other",
+       "platform": "Khidmati",
+       "owner": "Ministry of Islamic Affairs; Ministry of Digital Transformation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "The digital minister said the zakat platform's link to the social registry lets beneficiaries be identified, so a social registry is in use.",
+       "as_of": "2026-11-27",
+       "date_precision": "day",
+       "system": "social registry",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "social registry",
+       "country_label": "Mauritania",
+       "class": "social",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

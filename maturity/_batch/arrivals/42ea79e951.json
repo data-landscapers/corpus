@@ -1,1 +1,3 @@
-{"slug": "2026-11-26-sen-senegal-s-artp-pushes-integration-of-geospatial-and-mobile-data", "studies": {"agrisatellite": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document is about telecom and geospatial data for national statistics; no farming use of satellite data stated."}}}, "dataprotectionlaw": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Mentions personal data protection only as a condition; states nothing on the law, its standing, regulations or application."}}}}}
+{"slug": "2026-11-26-sen-senegal-s-artp-pushes-integration-of-geospatial-and-mobile-data", "studies": {
+"mobilepenetration": {"countries": {"SEN": {"facts": [], "systems": [{"system": "ARTP active mobile lines", "country_label": "Nearly 23.9 million active mobile lines, end December 2025 (ARTP)", "class": "other", "platform": "", "owner": "ARTP", "tiers": ""}], "note": "A count of active mobile lines is not a share of people owning a phone."}}}
+}}

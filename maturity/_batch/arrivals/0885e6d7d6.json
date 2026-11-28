@@ -1,17 +1,6 @@
 {"slug": "2026-11-26-cmr-cameroon-urges-banks-fintechs-to-expand-digital-lending-beyond-mobile", "studies": {
-"aiabuse": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules or authority."}}},
-"aigovernment": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states no AI use in government administration."}}},
-"aisectoral": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states no sectoral AI tool."}}},
-"aisystems": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states no AI model, dataset or computing built in the country."}}},
-"businesspayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
-"centralbank": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document names no central bank role over payments."}}},
-"consumerprotection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Only a call for stronger consumer protection; no rule, body or enforcement stated."}}},
-"crossborderpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
-"dataprotectionlaw": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on a data protection law, only a survey of security concerns."}}},
-"digitaldivides": {"countries": {"CMR": {"facts": [{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "delivering", "fact": "Posts and Telecommunications Minister Minette Libom Li Likeng said 67 telecommunications sites had been brought into service under a World Bank-backed programme targeting 362 rural communities with limited or no coverage.", "as_of": "2026-11-26", "date_precision": "day", "system": "World Bank-backed rural connectivity programme", "class": "ruralaccess"}], "systems": [], "note": ""}}},
-"g2ppayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
-"landregister": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Land titles mentioned only as collateral; no register stated."}}},
-"paymentsuptake": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Figures are shares of surveyed users and a target, not adults with an account."}}},
-"retailpayments": {"countries": {"CMR": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Pierre-Emmanuel Nkoa Ayissi of the CNEF said Cameroon recorded 2.7 billion mobile money transactions in 2025.", "as_of": "2025", "date_precision": "year", "system": "mobile money", "class": "retail"}], "systems": [], "note": ""}}},
-"revenuecollection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document states nothing on electronic payment of taxes or fees."}}}
+"broadbandstrategy": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Only a rural telecom sites programme is named; no national broadband plan stated."}}},
+"localgov": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
+"police": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on police station records."}}},
+"registry": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}}
 }}

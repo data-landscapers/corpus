@@ -1,0 +1,288 @@
+{
+ "slug": "2026-11-25-zmb-zambia-accelerates-national-digital-id-plans",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Africa Briefing says Zambia's Data Protection Act of 2021 establishes a legal framework for handling personal information.",
+       "as_of": "2026-11-25",
+       "date_precision": "day",
+       "system": "Data Protection Act of 2021",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Africa Briefing reports Zambia earmarked ZK367.8 million for national digital identity in its proposed 2027 budget and is preparing to accelerate implementation of INRIS, which underpins the digital identity programme.",
+       "as_of": "2026-11-06",
+       "date_precision": "day",
+       "system": "Integrated National Registration Information System (INRIS)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Integrated National Registration Information System (INRIS)",
+       "country_label": "Zambia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  }
+ }
+}

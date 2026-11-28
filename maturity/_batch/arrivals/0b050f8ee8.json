@@ -1,0 +1,30 @@
+{"slug": "2025-09-17-mli-mali-administration-publique-six-solutions-digitales-pour-un-mali-mode", "studies": {
+"authentication": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on identity authentication."}}},
+"birthidlink": {"countries": {"MLI": {"facts": [], "systems": [], "note": "OpenClinic link to NINA and AMO is not a civil register link."}}},
+"businesspayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"customs": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Sigui-Dolo is said to connect to SYDONIA, but no customs declaration processing is stated."}}},
+"digitalsovereignty": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Sovereignty is stated only in general terms; no rule or hosting stated."}}},
+"egovservices": {"countries": {"MLI": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "The Transport ministry's Sigui-Dolo platform, presented to the Malian government on 16 September 2025, offers users online services connected to TrésorPay and the SYDONIA customs system.", "as_of": "2025-09-16", "date_precision": "day", "system": "Sigui-Dolo", "class": "eservices"}], "systems": [{"system": "Sigui-Dolo", "country_label": "Sigui-Dolo", "class": "eservices", "platform": "", "owner": "Direction générale des Transports", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idcoverage": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No ID coverage figure."}}},
+"idfrombirth": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on ID at birth."}}},
+"idmaintenance": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on who runs the national ID system."}}},
+"idregisters": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Biometric driving licences are not the national ID system."}}},
+"itcapacity": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "Nouvelle Afrique reports that six digital tools presented to the Malian government on 16 September 2025 by the Transport, Health and Territorial Administration ministries, including Sigui-Dolo, were designed and developed locally by Malian experts.", "as_of": "2025-09-16", "date_precision": "day", "system": "Sigui-Dolo", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "own", "value": "entire", "fact": "Sigui-Dolo, the Transport directorate's central platform for secure transport titles, biometric driving licences and online services, is named as locally designed and developed by Malian experts, with no contractor named.", "as_of": "2025-09-16", "date_precision": "day", "system": "Sigui-Dolo", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "own", "value": "entire", "fact": "OpenClinic, the health ministry's hospital information system covering patient records, finance, pharmacy and laboratory and already used in several hospitals, is named as locally designed and developed by Malian experts, with no contractor named.", "as_of": "2025-09-16", "date_precision": "day", "system": "OpenClinic", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "own", "value": "entire", "fact": "SIGIP, the territorial administration ministry's prefectural information management system, is named as locally designed and developed by Malian experts, with no contractor named.", "as_of": "2025-09-16", "date_precision": "day", "system": "SIGIP", "class": "staff"}
+], "systems": [
+{"system": "Sigui-Dolo", "country_label": "Sigui-Dolo", "class": "staff", "platform": "", "owner": "Direction générale des Transports", "tiers": ""},
+{"system": "OpenClinic", "country_label": "OpenClinic", "class": "staff", "platform": "", "owner": "Ministère de la Santé et du Développement social", "tiers": ""},
+{"system": "SIGIP", "country_label": "SIGIP", "class": "staff", "platform": "", "owner": "Ministère de l'Administration territoriale et de la Décentralisation", "tiers": ""}
+], "note": ""}}},
+"paymentsuptake": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No survey share of account holders."}}},
+"retailpayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Mobile money mentioned only as a payment option at an airport car park; no service status stated."}}},
+"revenuecollection": {"countries": {"MLI": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "Nouvelle Afrique reports that the digitisation of ANASER fees, based on a ticketing management system, includes a mobile payment application still being rolled out as of the 16 September 2025 presentation.", "as_of": "2025-09-16", "date_precision": "day", "system": "ANASER ticketing management system", "class": "revenue"}], "systems": [{"system": "ANASER Ticketing Management System", "country_label": "ANASER fees", "class": "revenue", "platform": "", "owner": "ANASER", "tiers": ""}], "note": ""}}}
+}}

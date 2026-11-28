@@ -1,0 +1,5 @@
+{"slug": "2025-03-25-gha-education-access-in-ghana-improves-but-quality-remains-uneven-gss-repo", "studies": {
+"educationexchange": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on data exchange between education systems."}}},
+"educationmis": {"countries": {"GHA": {"facts": [{"sub_indicator": "emis", "aspect": "system", "value": "inservice", "fact": "The Ghana Statistical Service and the Ministry of Education released a report on 25 March 2025 analysing enrolment, teachers and performance for 2000-2023 from data in the Education Management Information System.", "as_of": "2025-03-25", "date_precision": "day", "system": "Education Management Information System", "class": "emis"}], "systems": [], "note": ""}}},
+"schools": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Aggregate EMIS statistics only; no daily school-level entry stated."}}}
+}}

@@ -1,0 +1,8 @@
+{"slug": "2024-07-20-lso-upsurge-in-serious-crimes", "studies": {
+"admindata": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The Lesotho Mounted Police Service has a Serious Crime Statistics report for January to May 2024 against the same months of 2023, shared by the Commissioner of Police with the Lesotho Times, giving 4,960 serious crimes reported and 880 detected.", "as_of": "2024-07-20", "date_precision": "day", "system": "Serious Crime Statistics report", "class": "admin"},
+{"sub_indicator": "admin", "aspect": "source", "value": "police", "fact": "The Lesotho Mounted Police Service's Serious Crime Statistics report counts crimes the police recorded and cases detected, so it is drawn from police records.", "as_of": "2024-07-20", "date_precision": "day", "system": "Serious Crime Statistics report", "class": "admin"}
+], "systems": [{"system": "Serious Crime Statistics report", "country_label": "LMPS Serious Crime Statistics report, January-May 2024", "class": "admin", "platform": "", "owner": "Lesotho Mounted Police Service", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document says nothing on local government office connection."}}},
+"police": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Crime counts only (statistics class); no station-level digital record stated."}}}
+}}

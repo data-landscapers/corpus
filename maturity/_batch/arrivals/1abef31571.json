@@ -1,0 +1,9 @@
+{"slug": "2026-11-27-gab-tiktok-au-gabon-la-protection-des-utilisateurs-au-cur-du-dialogue-avec", "studies": {
+"dataprotectionauthority": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Gabonreview reports that the vice-president of the personal data and privacy protection authority (APDPVP), Samuel Moussounda Ikamou, received a TikTok delegation on 26 November 2026.", "as_of": "2026-11-26", "date_precision": "day", "system": "APDPVP", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The APDPVP, led on the day by its vice-president, met a TikTok delegation on 26 November 2026 on compliance with Gabonese rules and user protection.", "as_of": "2026-11-26", "date_precision": "day", "system": "APDPVP", "class": "general"}
+], "systems": [], "note": "No law named; the meeting is talks, not a decision."}}},
+"opendiscussion": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No criticism, cut or punishment stated."}}}
+}}

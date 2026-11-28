@@ -1,0 +1,11 @@
+{"slug": "2026-11-26-mwi-malawi-tops-region-in-money-transfer-costs", "studies": {
+"businesspayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MWI": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "drafting", "fact": "The Reserve Bank of Malawi's Director of National Payments System said proposed regulations were being developed to address emerging challenges in the payments sector.", "as_of": "2026-11-25", "date_precision": "day", "system": "Reserve Bank of Malawi payments regulations", "class": "oversight"}], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Fees and fraud are discussed; no consumer rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Remittance fee figures name no corridor or channel; a fee level is not a measured corridor cost."}}},
+"egovservices": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on online government services."}}},
+"g2ppayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"MWI": {"facts": [], "systems": [], "note": "An 88% financial inclusion rate is given with no survey or account measure named."}}},
+"retailpayments": {"countries": {"MWI": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Registered mobile money subscribers reached 20 million by the second quarter of 2025, with transactions valued at K8.6 trillion, mostly airtime, cash-in and cash-out, person-to-person and merchant payments.", "as_of": "2025", "date_precision": "year", "system": "Mobile money (Airtel Money)", "class": "retail"}], "systems": [{"system": "Airtel Money", "country_label": "Malawi", "class": "retail", "platform": "", "owner": "Airtel", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Only taxes on digital transactions are discussed, not electronic payment of taxes."}}}
+}}

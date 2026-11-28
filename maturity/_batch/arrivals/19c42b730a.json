@@ -1,0 +1,17 @@
+{"slug": "2026-11-26-tza-tanzania-leads-africa-in-health-systems-but-gaps-remain", "studies": {
+"aiabuse": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on government AI use."}}},
+"aisectoral": {"countries": {"TZA": {"facts": [], "systems": [], "note": "AI mentioned only as potential, no tool stated."}}},
+"aisystems": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on AI built at home."}}},
+"authentication": {"countries": {"TZA": {"facts": [], "systems": [], "note": "NHIF verifies member information with NIDA, but no authentication service is described."}}},
+"birthidlink": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID link."}}},
+"civilserviceskills": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only health graduate training is mentioned, not civil servants."}}},
+"digitalskills": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on public digital skills."}}},
+"health": {"countries": {"TZA": {"facts": [], "systems": [{"system": "DHIS2", "country_label": "Tanzania", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""}], "note": "Only 2% of all facilities with facility-wide electronic systems, which is not a share of primary clinics; no tier or digitisation point stated."}}},
+"healthmis": {"countries": {"TZA": {"facts": [{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "The Citizen, reporting WHO's 2026 assessment, says DHIS2 has been implemented nationally and at district and subnational levels in Tanzania, though information from all health programmes is not yet in a single repository.", "as_of": "2026-11-26", "date_precision": "day", "system": "DHIS2", "class": "hmis"}], "systems": [{"system": "DHIS2", "country_label": "Tanzania", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No ID coverage figure."}}},
+"idfrombirth": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on ID at birth."}}},
+"idmaintenance": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"TZA": {"facts": [], "systems": [], "note": "NHIF shares data with NIDA, but the article does not say the register is keyed on the ID number."}}},
+"idrobustness": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on the ID system's build or checks."}}}
+}}

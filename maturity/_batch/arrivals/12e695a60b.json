@@ -1,0 +1,12 @@
+{"slug": "2026-11-25-moz-bolsa-de-valores-pr-quer-alargar-acesso-ao-investimento-atraves-de-platafor", "studies": {
+"businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document says nothing on e-procurement."}}},
+"centralbank": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document says nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document says nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document says nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document says nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Only a count of mobile wallet accounts, not a survey share of adults."}}},
+"retailpayments": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "President Daniel Chapo said Mozambique has close to 26 million mobile wallet accounts, speaking at the opening of the ASEA annual conference on 25 November 2026.", "as_of": "2026-11-25", "date_precision": "day", "system": "mobile wallets", "class": "retail"}
+], "systems": [{"system": "mobile wallets", "country_label": "Mozambique mobile wallets", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document says nothing on electronic payment of taxes or fees."}}}
+}}

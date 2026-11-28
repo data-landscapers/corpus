@@ -1,0 +1,12 @@
+{"slug": "2025-09-01-caf-education-annuaire-statistique-2023-2024", "studies": {
+"admindata": {"countries": {"CAF": {"facts": [
+{"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "ICASEES published its Education Annuaire Statistique 2023-2024 (198 pages, imprint September 2025), a school census yearbook compiled from school questionnaires across 20 inspectorates.", "as_of": "2025-09", "date_precision": "month", "system": "Annuaire statistique Education 2023-2024", "class": "admin"},
+{"sub_indicator": "admin", "aspect": "source", "value": "education", "fact": "The ICASEES Education yearbook 2023-2024 draws on school questionnaires returned by schools across 20 inspectorates.", "as_of": "2025-09", "date_precision": "month", "system": "Annuaire statistique Education 2023-2024", "class": "admin"}
+], "systems": [{"system": "Annuaire statistique Education 2023-2024", "country_label": "Annuaire statistique Education 2023-2024", "class": "admin", "platform": "", "owner": "ICASEES", "tiers": ""}], "note": ""}}},
+"censuses": {"countries": {"CAF": {"facts": [
+{"sub_indicator": "census", "aspect": "census", "value": "preparing", "fact": "The ICASEES site lists a workshop analysing the results of the light pilot census (RPA) of the RGPH-4, dated 25 July 2025, and a March 2025 test of enumerator candidates for the next phase on tablets.", "as_of": "2025-07-25", "date_precision": "day", "system": "RGPH-4", "class": "census"}
+], "systems": [{"system": "RGPH-4", "country_label": "RGPH-4", "class": "census", "platform": "tablets", "owner": "ICASEES", "tiers": ""}], "note": ""}}},
+"educationexchange": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The document states no data exchange between education systems."}}},
+"educationmis": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The page body names no EMIS; the SIGE restoration appears only in a catalogue line, not as a stated build or pilot."}}},
+"schools": {"countries": {"CAF": {"facts": [], "systems": [], "note": "A census yearbook from paper questionnaires is census class, noted and not assessed."}}}
+}}

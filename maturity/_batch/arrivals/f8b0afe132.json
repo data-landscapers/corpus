@@ -1,0 +1,50 @@
+{
+ "slug": "2024-02-14-mli-mali-kura-biometrie-une-plateforme-digitale-fiable",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers RAVEC data migration to Mali kura biometrie; no civil-registry office entry, birth number link or school internet stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers RAVEC data migration to Mali kura biometrie; no civil-registry office entry, birth number link or school internet stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers RAVEC data migration to Mali kura biometrie; no civil-registry office entry, birth number link or school internet stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers RAVEC data migration to Mali kura biometrie; no civil-registry office entry, birth number link or school internet stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers RAVEC data migration to Mali kura biometrie; no civil-registry office entry, birth number link or school internet stated."
+    }
+   }
+  }
+ }
+}

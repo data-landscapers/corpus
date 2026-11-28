@@ -1,0 +1,192 @@
+{
+ "slug": "2025-03-27-som-shortcut-to-a-brighter-future-how-technology-is-transforming-education",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "BMZ Digital.Global says students log in to the HSC with their national digital ID through the ID-verification app eAqoonsi, with NIRA as partner.",
+       "as_of": "2025-03-27",
+       "date_precision": "day",
+       "system": "eAqoonsi",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eAqoonsi",
+       "country_label": "eAqoonsi",
+       "class": "authentication",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "BMZ Digital.Global says the HSC integrates the MOECHE Examination System registry with NIRA's eAqoonsi identity verification and payments services.",
+       "as_of": "2025-03-27",
+       "date_precision": "day",
+       "system": "High School Certificate System (HSC)",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "BMZ Digital.Global says students use their national digital ID to retrieve exam results automatically in the HSC.",
+       "as_of": "2025-03-27",
+       "date_precision": "day",
+       "system": "High School Certificate System (HSC)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "High School Certificate System (HSC)",
+       "country_label": "High School Certificate System (HSC)",
+       "class": "exchange",
+       "platform": "GovStack, open source",
+       "owner": "MOECHE with MoCT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The HSC is a certificate service, not the national EMIS; the EMIS department only leads it."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "BMZ Digital.Global says the HSC verifies students against the national digital ID via eAqoonsi (NIRA) to retrieve exam results; the HSC launched by 27 March 2025.",
+       "as_of": "2025-03-27",
+       "date_precision": "day",
+       "system": "High School Certificate System (HSC)",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "High School Certificate System (HSC)",
+       "country_label": "High School Certificate System (HSC)",
+       "class": "relying",
+       "platform": "GovStack, open source",
+       "owner": "MOECHE with MoCT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

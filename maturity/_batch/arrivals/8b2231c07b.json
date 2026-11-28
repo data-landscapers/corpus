@@ -1,0 +1,5 @@
+{"slug": "2026-03-27-ago-setic-fp-lanca-i-lab-para-acelerar-transformacao-digital-das-financas", "studies": {
+"itcapacity": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "Menos Fios reports the Sistema Integrado de Gestao Documental (SIGD), developed internally by the Finance Ministry's SETIC-FP, has about 200 active users.", "as_of": "2026-03-26", "date_precision": "day", "system": "SIGD", "class": "staff"}
+], "systems": [{"system": "SIGD", "country_label": "Sistema Integrado de Gestao Documental (SIGD)", "class": "staff", "platform": "", "owner": "SETIC-FP, Ministry of Finance", "tiers": ""}], "note": ""}}}
+}}

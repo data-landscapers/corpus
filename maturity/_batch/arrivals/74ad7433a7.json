@@ -1,7 +1,14 @@
-{"slug": "2026-01-01-som-national-policy-and-partnerships", "studies": {
-"aiabuse": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
-"aigovernment": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No government AI system is stated."}}},
-"aisectoral": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No sector AI tool is stated."}}},
-"aistrategy": {"countries": {"SOM": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The Somali National AI Center says the National Communications Authority, the communications ministry and Somali National University developed the Somalia National AI Strategy 2026-2030, which is still to be launched.", "as_of": "2026", "date_precision": "year", "system": "Somalia National Artificial Intelligence Strategy (2026-2030)", "class": "strategy"}], "systems": [], "note": ""}}},
-"aisystems": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}}
-}}
+{
+ "slug": "2026-01-01-som-national-policy-and-partnerships",
+ "studies": {
+  "ailaw": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "An AI strategy only; no law or draft rule stated."
+    }
+   }
+  }
+ }
+}

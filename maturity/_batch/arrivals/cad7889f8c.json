@@ -1,0 +1,6 @@
+{"slug": "2025-12-14-zaf-question-nw7141-to-the-minister-of-home-affairs", "studies": {
+"digitalstrategy": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "Home Affairs Digital Transformation Strategy", "country_label": "South Africa", "class": "ministry-plan", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": "The strategy and roadmap named are the Department of Home Affairs' own, not the government's."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Population management and biometric platforms are named only as legacy systems under contract; issuing, biometric checks and certification are not stated."}}},
+"itcapacity": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "An in-house-developed ecosystem is mentioned with no named system, and legacy systems are under support contracts."}}},
+"refugees": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Refugee services are mentioned only as a function affected by outages; no registration or digital access stated."}}}
+}}

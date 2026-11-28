@@ -1,68 +1,7 @@
-{
-  "slug": "2026-03-18-zaf-cassava-scales-african-ai-infrastructure-with-nvidia-powered-ai-factor",
-  "studies": {
-    "aiabuse": {"countries": {
-      "EGY": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules."},
-      "KEN": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules."},
-      "MAR": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules."},
-      "NGA": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules."},
-      "ZAF": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules."}
-    }},
-    "aigovernment": {"countries": {
-      "EGY": {"facts": [], "systems": [], "note": "Document names no government body using AI."},
-      "KEN": {"facts": [], "systems": [], "note": "Document names no government body using AI."},
-      "MAR": {"facts": [], "systems": [], "note": "Document names no government body using AI."},
-      "NGA": {"facts": [], "systems": [], "note": "Document names no government body using AI."},
-      "ZAF": {"facts": [], "systems": [], "note": "Document names no government body using AI."}
-    }},
-    "aisectoral": {"countries": {
-      "EGY": {"facts": [], "systems": [], "note": "Document names no sectoral public AI system."},
-      "KEN": {"facts": [], "systems": [], "note": "Document names no sectoral public AI system."},
-      "MAR": {"facts": [], "systems": [], "note": "Document names no sectoral public AI system."},
-      "NGA": {"facts": [], "systems": [], "note": "Document names no sectoral public AI system."},
-      "ZAF": {"facts": [], "systems": [], "note": "Document names no sectoral public AI system."}
-    }},
-    "aisystems": {"countries": {
-      "EGY": {"facts": [
-        {"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Cassava Technologies says it plans to scale its NVIDIA-powered AI Factory to Egypt after South Africa.", "as_of": "2026-03-18", "date_precision": "day", "system": "Cassava AI Factory", "class": "localai"}
-      ], "systems": [], "note": ""},
-      "KEN": {"facts": [
-        {"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Cassava Technologies says it plans to scale its NVIDIA-powered AI Factory to Kenya after South Africa.", "as_of": "2026-03-18", "date_precision": "day", "system": "Cassava AI Factory", "class": "localai"}
-      ], "systems": [], "note": ""},
-      "MAR": {"facts": [
-        {"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Cassava Technologies says it plans to scale its NVIDIA-powered AI Factory to Morocco after South Africa.", "as_of": "2026-03-18", "date_precision": "day", "system": "Cassava AI Factory", "class": "localai"}
-      ], "systems": [], "note": ""},
-      "NGA": {"facts": [
-        {"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Cassava Technologies says it plans to scale its NVIDIA-powered AI Factory to Nigeria after South Africa.", "as_of": "2026-03-18", "date_precision": "day", "system": "Cassava AI Factory", "class": "localai"}
-      ], "systems": [], "note": ""},
-      "ZAF": {"facts": [
-        {"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "Cassava Technologies says it is deploying its NVIDIA-powered AI Factory in South Africa, offering GPU-as-a-service and AI APIs as local compute, and the CSIR's NICIS centre manager speaks of the launch of the first Cassava AI Factory in the country.", "as_of": "2026-03-18", "date_precision": "day", "system": "Cassava AI Factory", "class": "localai"},
-        {"sub_indicator": "localai", "aspect": "compute", "value": "compute", "fact": "Cassava Technologies says its AI Factory in South Africa, powered by NVIDIA, provides local GPUaaS and AIaaS/API compute.", "as_of": "2026-03-18", "date_precision": "day", "system": "Cassava AI Factory", "class": "localai"},
-        {"sub_indicator": "localai", "aspect": "shared", "value": "shared", "fact": "Zindi's CEO says Cassava AI Factory compute is helping the Zindi developer community build AI solutions, and the CSIR's NICIS centre manager says it lets the CSIR extend partnership to South African research communities.", "as_of": "2026-03-18", "date_precision": "day", "system": "Cassava AI Factory", "class": "localai"}
-      ], "systems": [
-        {"system": "Cassava AI Factory", "country_label": "South Africa", "class": "localai", "platform": "NVIDIA AI platform; CAIMEx", "owner": "Cassava Technologies", "tiers": ""}
-      ], "note": ""}
-    }},
-    "digitalsovereignty": {"countries": {
-      "EGY": {"facts": [], "systems": [], "note": "Document states nothing on government data or systems control."},
-      "KEN": {"facts": [], "systems": [], "note": "Document states nothing on government data or systems control."},
-      "MAR": {"facts": [], "systems": [], "note": "Document states nothing on government data or systems control."},
-      "NGA": {"facts": [], "systems": [], "note": "Document states nothing on government data or systems control."},
-      "ZAF": {"facts": [], "systems": [], "note": "Private cloud; no government policy, rule, hosting of state data or contract terms stated."}
-    }},
-    "startups": {"countries": {
-      "EGY": {"facts": [], "systems": [], "note": "Document states nothing on startup law or funds."},
-      "KEN": {"facts": [], "systems": [], "note": "Document states nothing on startup law or funds."},
-      "MAR": {"facts": [], "systems": [], "note": "Document states nothing on startup law or funds."},
-      "NGA": {"facts": [], "systems": [], "note": "Document states nothing on startup law or funds."},
-      "ZAF": {"facts": [], "systems": [], "note": "Document states nothing on startup law or funds."}
-    }},
-    "techhubs": {"countries": {
-      "EGY": {"facts": [], "systems": [], "note": "Document names no hub or park."},
-      "KEN": {"facts": [], "systems": [], "note": "Document names no hub or park."},
-      "MAR": {"facts": [], "systems": [], "note": "Document names no hub or park."},
-      "NGA": {"facts": [], "systems": [], "note": "Document names no hub or park."},
-      "ZAF": {"facts": [], "systems": [], "note": "Document names no hub or park."}
-    }}
-  }
-}
+{"slug": "2026-03-18-zaf-cassava-scales-african-ai-infrastructure-with-nvidia-powered-ai-factor", "studies": {
+"datacentres": {"countries": {
+"MAR": {"facts": [], "systems": [], "note": "Morocco is only named as a planned later site; nothing in service."},
+"ZAF": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Cassava Technologies said on 18 March 2026 it is deploying its NVIDIA-powered AI Factory in South Africa, offering GPU-as-a-service and AI APIs to enterprises and governments, with the CSIR and Zindi named as partners.", "as_of": "2026-03-18", "date_precision": "day", "system": "Cassava AI Factory", "class": "datacentre"}
+], "systems": [{"system": "Cassava AI Factory", "country_label": "South Africa", "class": "datacentre", "platform": "NVIDIA", "owner": "Cassava Technologies", "tiers": ""}], "note": ""}}}
+}}

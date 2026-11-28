@@ -1,0 +1,10 @@
+{"slug":"2026-11-27-cmr-funding-shortfalls-delay-cameroons-cfa21-2-billion-digital-finance-transformatio","studies":{
+"businesspayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"CMR":{"facts":[],"systems":[],"note":"BEAC figures cited, but no licensing, switch or PAPSS role stated."}}},
+"consumerprotection":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Only a CNEF survey of user security concerns; no rule or complaints body stated."}}},
+"crossborderpayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Nothing on cross-border corridors."}}},
+"g2ppayments":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Only a count of mobile money accounts and shares of users using savings or credit; no survey share of adults with an account."}}},
+"retailpayments":{"countries":{"CMR":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"The Bank of Central African States (BEAC) 2024 payment services report, cited by Business in Cameroon, records nearly 31 million mobile money accounts in Cameroon at end-December 2024 and 2.73 billion mobile money transactions worth CFA26.773 trillion.","as_of":"2024-12","date_precision":"month","system":"mobile money","class":"retail"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}
+}}

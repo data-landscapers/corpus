@@ -1,0 +1,72 @@
+{
+ "slug": "2026-11-27-ken-high-court-orders-banks-agencies-to-preserve-ecitizen-records-in-sh9-4-billion-p",
+ "studies": {
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Court order on eCitizen records; no central bank role stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "The Eastleigh Voice reports public funds are collected through the eCitizen platform and remitted to government agencies, with the court acting on 26 November 2026.",
+       "as_of": "2026-11-26",
+       "date_precision": "day",
+       "system": "eCitizen",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eCitizen",
+       "country_label": "eCitizen",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The Eastleigh Voice reports the High Court on 26 November 2026 ordered records preserved for public funds collected, settled and disbursed through the eCitizen platform, including via Pesaflow and Equity Bank.",
+       "as_of": "2026-11-26",
+       "date_precision": "day",
+       "system": "eCitizen",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eCitizen",
+       "country_label": "eCitizen",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

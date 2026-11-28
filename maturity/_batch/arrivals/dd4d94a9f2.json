@@ -1,0 +1,50 @@
+{
+ "slug": "2024-09-16-civ-cote-d-ivoire-la-plateforme-econseil-2-0-vitrine-de-la-numerisation-de",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "eConseil",
+       "country_label": "Cote d'Ivoire",
+       "class": "other",
+       "platform": "",
+       "owner": "ANSUT",
+       "tiers": ""
+      }
+     ],
+     "note": "eConseil e-signature feature is reported only conditionally and within one records platform."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2026-11-26-sen-statistiques-au-senegal-le-financement-ce-grand-defi-qui-inquiete-lans",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop report on statistics funding and data gaps; nothing delivered for this study."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop report on statistics funding and data gaps; nothing delivered for this study."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop report on statistics funding and data gaps; nothing delivered for this study."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Senego reports that at a CONGAD workshop on 26 November 2026 an ANSD representative called the national statistics development strategy a reference framework and said resources are needed to implement it; no adoption date or period is given.",
+       "as_of": "2026-11-26",
+       "date_precision": "day",
+       "system": "Strat\u00e9gie nationale de d\u00e9veloppement de la statistique",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

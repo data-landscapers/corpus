@@ -1,0 +1,11 @@
+{"slug": "2026-03-11-mus-population-and-vital-statistics-republic-of-mauritius-year-2025", "studies": {
+"admindata": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "Statistics Mauritius published Population and Vital Statistics for 2025 on 11 March 2026, giving 13,250 live births and 12,685 deaths registered in 2025.", "as_of": "2026-03-11", "date_precision": "day", "system": "Population and Vital Statistics - Republic of Mauritius, Year 2025", "class": "admin"},
+{"sub_indicator": "admin", "aspect": "source", "value": "civil-registration", "fact": "Statistics Mauritius' 2025 vital statistics report counts births, deaths, still births, infant deaths and marriages registered in 2025.", "as_of": "2025", "date_precision": "year", "system": "Population and Vital Statistics - Republic of Mauritius, Year 2025", "class": "admin"},
+{"sub_indicator": "admin", "aspect": "series", "value": "civil-registration", "fact": "Statistics Mauritius' report for 2025 compares each vital statistic with 2024, a further edition of the registered-events series after the 2023 report.", "as_of": "2026-03-11", "date_precision": "day", "system": "Population and Vital Statistics - Republic of Mauritius, Year 2025", "class": "admin"}
+], "systems": [{"system": "Population and Vital Statistics - Republic of Mauritius, Year 2025", "country_label": "Population and Vital Statistics 2025", "class": "admin", "platform": "", "owner": "Statistics Mauritius", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The document states nothing on a link between the civil register and the ID system."}}},
+"civilregister": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The document says nothing on whether civil registration is digital."}}},
+"idfrombirth": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The document says nothing on an ID number given at birth."}}},
+"registry": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The document says nothing on how local registry offices enter births or deaths."}}}
+}}

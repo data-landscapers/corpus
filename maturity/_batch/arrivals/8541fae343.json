@@ -1,0 +1,13 @@
+{"slug": "2024-06-05-syc-launch-of-the-child-care-benefit-information-system-seychelles-cbiss", "studies": {
+"businesspayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document says nothing on e-procurement."}}},
+"centralbank": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document says nothing on the central bank."}}},
+"civilserviceskills": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document says nothing on civil servant digital-skills training."}}},
+"consumerprotection": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document says nothing on consumer protection in financial services."}}},
+"crossborderpayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document says nothing on cross-border payments."}}},
+"digitalskills": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document says nothing on public digital-skills programmes."}}},
+"g2ppayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "CBISS tracks payments under a childcare scheme to service providers, not to people; no payment to people stated."}}},
+"itcapacity": {"countries": {"SYC": {"facts": [], "systems": [{"system": "CCBISS", "country_label": "Child Care Benefit Information System Seychelles", "class": "other", "platform": "", "owner": "Institute of Early Childhood Development; built by contractor SPACE95 for DICT", "tiers": ""}], "note": "System was built by a contractor, SPACE95; no government staff build or run stated."}}},
+"paymentsuptake": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document gives no survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document says nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document says nothing on electronic payment of taxes or fees."}}}
+}}

@@ -1,0 +1,18 @@
+{"slug": "2026-11-26-lbr-pay-na-na-s-next-test-is-the-money-that-does-not-arrive", "studies": {
+"businesspayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The op-ed says the Central Bank of Liberia's directive provides for government-to-person mobile-money payments to pass through the national electronic payment switch from 27 October 2025, and that Pay Na-Na, the national platform introduced in December 2025, is growing in use.", "as_of": "2025-12", "date_precision": "month", "system": "Pay Na-Na", "class": "oversight"}
+], "systems": [{"system": "Pay Na-Na", "country_label": "Liberia", "class": "oversight", "platform": "national electronic payment switch", "owner": "Central Bank of Liberia", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Opinion calls for dispute rules; none stated as drafted or in force."}}},
+"crossborderpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No cross-border payment stated."}}},
+"g2ppayments": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "underway", "fact": "The op-ed says a Central Bank of Liberia directive provides for government-to-person mobile-money payments to go through the national electronic payment switch from 27 October 2025; no payments made are reported.", "as_of": "2025-10-27", "date_precision": "day", "system": "Pay Na-Na", "class": "g2p"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The op-ed says Pay Na-Na, the national platform introduced in December 2025, is in growing use, according to the Central Bank of Liberia's Executive Governor.", "as_of": "2025-12", "date_precision": "month", "system": "Pay Na-Na", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "The op-ed says the Central Bank's directive has mobile-money collections for government following from 1 December 2025; no collections in service are reported.", "as_of": "2025-12-01", "date_precision": "day", "system": "Pay Na-Na", "class": "revenue"}
+], "systems": [], "note": ""}}}
+}}

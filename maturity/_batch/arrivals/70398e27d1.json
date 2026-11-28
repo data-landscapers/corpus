@@ -1,4 +1,6 @@
 {"slug": "2026-11-26-zaf-sa-home-loans-hit-by-second-data-breach", "studies": {
-"dataprotectionauthority": {"countries": {"ZAF": {"facts": [{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "ITWeb reports the Information Regulator was notified by SA Home Loans of its November 2026 breach and has reported more than 8,000 security compromise incidents by August 2026.", "as_of": "2026-11", "date_precision": "month", "system": "Information Regulator", "class": "authority"}], "systems": [], "note": ""}}},
-"idverification": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "RelyComply is named as an identity-verification provider but the document does not say it checks against the national ID."}}}
+"dataprotectionreadiness": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "ITWeb reports that South Africa's Information Regulator received breach notifications, including from SA Home Loans after its 13 November 2026 intrusion, and reported over 8,000 security compromise incidents by August 2026.", "as_of": "2026-11-26", "date_precision": "day", "system": "Information Regulator", "class": "system"},
+{"sub_indicator": "system", "aspect": "practice", "value": "implementing", "fact": "ITWeb reports the Information Regulator counted more than 8,000 security compromise incidents by August 2026, and that SA Home Loans notified it of its November 2026 breach.", "as_of": "2026-08", "date_precision": "month", "system": "Information Regulator", "class": "system"}
+], "systems": [{"system": "Information Regulator", "country_label": "Information Regulator (South Africa)", "class": "system", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
 }}

@@ -1,0 +1,17 @@
+{"slug": "2024-07-15-zmb-drought-relief-management-system-being-developed", "studies": {
+"authentication": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "SMART Zambia Institute (E-Government Division) said on 15 July 2024 it is developing, with MOSIP and OpenG2P partners, an eKYC platform for identity verification of beneficiaries of the drought relief management system under the Disaster Management and Mitigation Unit.", "as_of": "2024-07-15", "date_precision": "day", "system": "eKYC platform (drought relief management system)", "class": "authentication"}
+], "systems": [{"system": "eKYC platform (drought relief management system)", "country_label": "Zambia", "class": "authentication", "platform": "MOSIP, OpenG2P", "owner": "SMART Zambia Institute", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"egovservices": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No online citizen service stated."}}},
+"g2ppayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Identity check for relief beneficiaries only; no payment stated."}}},
+"idcoverage": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Concerns a relief platform, not the national ID system's operation."}}},
+"idregisters": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No register keyed on the national ID number stated."}}},
+"idrobustness": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No national ID system described."}}},
+"idverification": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Platform verifies beneficiary identities but the document does not say against the national ID."}}},
+"itcapacity": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "SMART Zambia Institute, the Office of the President's E-Government Division mandated to implement e-government within government, said on 15 July 2024 it is developing an eKYC platform for the Disaster Management and Mitigation Unit and aims for it to be fully owned and supported by the Institute.", "as_of": "2024-07-15", "date_precision": "day", "system": "eKYC platform (drought relief management system)", "class": "staff"}
+], "systems": [], "note": ""}}}
+}}

@@ -1,75 +1,60 @@
 {
  "slug": "2026-11-25-gha-ghana-state-bodies-must-get-nita-clearance-before-deploying-technology",
  "studies": {
-  "coresystems": {
+  "internationalstandards": {
    "countries": {
     "GHA": {
      "facts": [],
      "systems": [],
-     "note": "NITA certification rule for new deployments; no finance, revenue or payroll system named."
+     "note": "No international standard or membership stated."
     }
    }
   },
-  "civilserviceskills": {
+  "interoperabilitystandards": {
    "countries": {
     "GHA": {
      "facts": [],
      "systems": [],
-     "note": "Teacher digital literacy remarks only; no civil-service training programme stated."
+     "note": "Certification of solutions is stated, but no data-exchange standards."
     }
    }
   },
-  "dataprotectionauthority": {
+  "qualitystandards": {
    "countries": {
     "GHA": {
-     "facts": [],
-     "systems": [],
-     "note": "Data Protection Commission mentioned only as to be involved; no appointment or ruling stated."
-    }
-   }
-  },
-  "dataprotectionlaw": {
-   "countries": {
-    "GHA": {
-     "facts": [],
-     "systems": [],
-     "note": "No data protection law, regulation or application stated."
-    }
-   }
-  },
-  "digitalskills": {
-   "countries": {
-    "GHA": {
-     "facts": [],
-     "systems": [],
-     "note": "One Million Coders is a university graduation requirement and 181 learning centres have no trained count; nothing for the public programme questions."
-    }
-   }
-  },
-  "digitalsovereignty": {
-   "countries": {
-    "GHA": {
-     "facts": [],
-     "systems": [],
-     "note": "Cabinet directive is a certification rule on deploying technology, not a rule classifying or locating state data."
-    }
-   }
-  },
-  "itcapacity": {
-   "countries": {
-    "GHA": {
-     "facts": [],
-     "systems": [],
-     "note": "NITA certifies and regulates; no staff run or build a named system stated."
-    }
-   }
-  },
-  "schoolinternet": {
-   "countries": {
-    "GHA": {
-     "facts": [],
-     "systems": [],
-     "note": "No share of secondary schools with internet and no compulsory curriculum stated."
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "standing",
+       "value": "body",
+       "fact": "GhanaGuardian describes NITA as Ghana's technology regulator, responsible for developing the digital ecosystem through standards, shared infrastructure and partnerships; the law creating it is not cited.",
+       "as_of": "2026-11-25",
+       "date_precision": "day",
+       "system": "NITA",
+       "class": "body"
+      },
+      {
+       "sub_indicator": "standards",
+       "aspect": "certification",
+       "value": "offered",
+       "fact": "Ghana's communications minister said a Cabinet directive requires every state institution to obtain technical certification from NITA before deploying a technology solution, checked for security, data protection and national data sovereignty standards.",
+       "as_of": "2026-11-25",
+       "date_precision": "day",
+       "system": "NITA technical certification",
+       "class": "body"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NITA",
+       "country_label": "Ghana",
+       "class": "body",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
     }
    }
   }

@@ -1,0 +1,213 @@
+{
+ "slug": "2026-11-27-sdn-the-future-of-digitalisation-in-sudan-amid-recent-developments",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "Al Arabiya, cited by the article, reported on 23 November 2026 that the Central Bank of Sudan owns the National Instant Payment System, which connects banks and digital wallets around the clock.",
+       "as_of": "2026-11-23",
+       "date_precision": "day",
+       "system": "National Instant Payment System",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "passed",
+       "fact": "The article quotes the Sudan News Agency as saying the Digital Transformation Authority's director-general announced in November 2026 that laws on digital transformation, cybersecurity, data protection and AI were approved.",
+       "as_of": "2026-11",
+       "date_precision": "month",
+       "system": "Data protection law (approved, per SUNA)",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The article says the Bankak mobile banking app has more than ten million users and that Oo-Cash and other wallet apps are in use, citing Google Play data.",
+       "as_of": "2026-11-27",
+       "date_precision": "day",
+       "system": "Bankak",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Al Arabiya, cited by the article, reported on 23 November 2026 that the National Instant Payment System connects banks and digital wallets and lets users transfer by mobile number within seconds, including by USSD.",
+       "as_of": "2026-11-23",
+       "date_precision": "day",
+       "system": "National Instant Payment System",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "The article says the Central Bank of Sudan's National Instant Payment System is a unified infrastructure connecting banks and digital wallets, operating around the clock.",
+       "as_of": "2026-11-23",
+       "date_precision": "day",
+       "system": "National Instant Payment System",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing that answers this study's questions for this country."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "sale",
+       "fact": "The article says Starlink has become Sudan's second-largest internet service provider, citing Torch Media Africa.",
+       "as_of": "2026-11-27",
+       "date_precision": "day",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

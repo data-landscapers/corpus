@@ -1,0 +1,6 @@
+{"slug": "2024-01-24-mli-digitalisation-de-la-delivrance-du-quitus-fiscal-le-ministre-de-l-econ", "studies": {
+"itcapacity": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "The Ministry of Economy and Finance said the E-Quitus tax clearance platform was developed by the ministry's own IT teams, coordinated by the CAISFF, with the administration's own means.", "as_of": "2024-01-23", "date_precision": "day", "system": "E-Quitus", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "The Minister of Economy and Finance officially launched E-Quitus on 23 January 2024, a platform built by ministry staff that issues tax clearance within three working days at most.", "as_of": "2024-01-23", "date_precision": "day", "system": "E-Quitus", "class": "staff"}
+], "systems": [{"system": "E-Quitus", "country_label": "E-Quitus fiscal", "class": "staff", "platform": "", "owner": "Ministere de l'Economie et des Finances (CAISFF)", "tiers": ""}], "note": ""}}}
+}}

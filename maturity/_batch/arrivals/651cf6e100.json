@@ -1,0 +1,6 @@
+{"slug": "2025-07-03-mwi-ppda-embraces-digital-era-with-launch-of-in-house-e-memo-system", "studies": {
+"itcapacity": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "Nyasa Times reports the Public Procurement and Disposal of Assets Authority's e-Memo system was developed entirely in-house by the Authority's own ICT team.", "as_of": "2025-06-30", "date_precision": "day", "system": "e-Memo", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "The PPDA's in-house e-Memo system was launched on 30 June 2025 at its Lilongwe headquarters, with staff training at the launch.", "as_of": "2025-06-30", "date_precision": "day", "system": "e-Memo", "class": "staff"}
+], "systems": [{"system": "e-Memo", "country_label": "PPDA e-Memo system", "class": "staff", "platform": "", "owner": "Public Procurement and Disposal of Assets Authority", "tiers": ""}], "note": ""}}}
+}}

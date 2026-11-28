@@ -1,0 +1,41 @@
+{
+ "slug": "2026-11-27-moz-mozambique-launches-electronic-auction-platform-for-recovered-assets",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a confiscated property repurposed to house birth registration services; no digital register stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a confiscated property repurposed to house birth registration services; no digital register stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a confiscated property repurposed to house birth registration services; no digital register stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a confiscated property repurposed to house birth registration services; no digital register stated."
+    }
+   }
+  }
+ }
+}

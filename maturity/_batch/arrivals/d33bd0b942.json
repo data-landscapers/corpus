@@ -1,1 +1,25 @@
-{"slug": "2026-01-01-som-datasets-somast", "studies": {"opendatause": {"countries": {"SOM": {"facts": [], "systems": [{"system": "Somali NLP Corpus (Somast datasets)", "country_label": "somast.so/en/datasets; huggingface.co/datasets/somast/somali-nlp-corpus", "class": "other", "platform": "Hugging Face", "owner": "Somast", "tiers": ""}], "note": "Page does not say Somast is a public body, so its datasets are not a public body's open data."}}}}}
+{
+ "slug": "2026-01-01-som-datasets-somast",
+ "studies": {
+  "aisystems": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "Somast publishes an open Somali NLP text corpus on Hugging Face, with sources including NLLB (52%) and Glot500 (17%), and says it also publishes models.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Somali NLP Corpus",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,20 @@
+{"slug": "2025-02-11-zaf-dha-home-affairs-walks-the-talk-on-digital-transformation", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The Electronic Travel Authorisation using machine learning and AI is only a stated wish to introduce, not a pilot or tender."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI tool in a sector system is stated."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}},
+"authentication": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The digital wallet is described as a possibility; no authentication service is authorised, contracted or piloted."}}},
+"birthidlink": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No link between civil register and ID system is stated."}}},
+"civilregister": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No digital civil registration is stated."}}},
+"idcoverage": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No count or share of people holding the ID is given."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No ID number at birth is stated."}}},
+"idmaintenance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated on who operates or maintains the ID system."}}},
+"idregisters": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated; grant fraud is only a possibility."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Minister Leon Schreiber told Parliament in February 2025 that Home Affairs is building the first components of a biometrically secured digital ID.", "as_of": "2025-02-11", "date_precision": "day", "system": "digital ID", "class": "idsystem"}
+], "systems": [{"system": "digital ID", "country_label": "Digital ID", "class": "idsystem", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"itcapacity": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "Minister Schreiber said the Trusted Tour Operator Scheme visa portal was built in-house by Home Affairs' own software development team.", "as_of": "2025-02-11", "date_precision": "day", "system": "Trusted Tour Operator Scheme portal", "class": "staff"}
+], "systems": [{"system": "Trusted Tour Operator Scheme portal", "country_label": "Trusted Tour Operator Scheme (TTOS) portal", "class": "staff", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated on local civil registration offices entering events digitally."}}}
+}}

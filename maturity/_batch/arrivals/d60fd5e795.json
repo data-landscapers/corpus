@@ -1,138 +1,39 @@
 {
  "slug": "2026-07-24-european-union-tza-2026-tantech-digital-economy-connectivity",
  "studies": {
-  "authentication": {
+  "egovservices": {
    "countries": {
     "TZA": {
      "facts": [],
      "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
+     "note": "The record is an EU financing decision for planned work and states no delivered fact for this study."
     }
    }
   },
-  "birthidlink": {
+  "opendatause": {
    "countries": {
     "TZA": {
      "facts": [],
      "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
+     "note": "The record is an EU financing decision for planned work and states no delivered fact for this study."
     }
    }
   },
-  "businesspayments": {
+  "regionallaw": {
    "countries": {
     "TZA": {
      "facts": [],
      "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
+     "note": "The record is an EU financing decision for planned work and states no delivered fact for this study."
     }
    }
   },
-  "centralbank": {
+  "regionalpolicy": {
    "countries": {
     "TZA": {
      "facts": [],
      "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
-    }
-   }
-  },
-  "consumerprotection": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
-    }
-   }
-  },
-  "crossborderpayments": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
-    }
-   }
-  },
-  "g2ppayments": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
-    }
-   }
-  },
-  "idcoverage": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
-    }
-   }
-  },
-  "idfrombirth": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
-    }
-   }
-  },
-  "idmaintenance": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
-    }
-   }
-  },
-  "idregisters": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
-    }
-   }
-  },
-  "idrobustness": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
-    }
-   }
-  },
-  "paymentsuptake": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
-    }
-   }
-  },
-  "retailpayments": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
-    }
-   }
-  },
-  "revenuecollection": {
-   "countries": {
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Document records an EUR 20m funding decision (digital infrastructure, e-payments support), a pledge not a delivered service."
+     "note": "The record is an EU financing decision for planned work and states no delivered fact for this study."
     }
    }
   }

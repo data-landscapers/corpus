@@ -1,0 +1,308 @@
+{
+ "slug": "2026-11-26-mwi-malawi-just-relaunched-its-power-of-data",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "preparing",
+       "fact": "Malawi's National Statistical Office is preparing the 2028 Population and Housing Census, estimated at US$52 million with US$10 million committed by government, and has used AI and geospatial methods to cut estimated mapping costs from MWK 6 billion to MWK 2 billion.",
+       "as_of": "2026-11-24",
+       "date_precision": "day",
+       "system": "2028 Population and Housing Census",
+       "class": "census"
+      }
+     ],
+     "systems": [
+      {
+       "system": "2028 Population and Housing Census",
+       "country_label": "Malawi",
+       "class": "census",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "enacted",
+       "fact": "The author lists a Data Protection Act among what Malawi has delivered since joining the Power of Data in late 2024; commencement is not stated.",
+       "as_of": "2026-11-24",
+       "date_precision": "day",
+       "system": "Data Protection Act",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "The author lists an Open Data Portal giving citizens access to budgets, projects and service delivery data, and a new NSO website and data platform opening survey, agricultural and business data, launched 24 November 2026.",
+       "as_of": "2026-11-24",
+       "date_precision": "day",
+       "system": "Open Data Portal; NSO data platform",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Open Data Portal",
+       "country_label": "Malawi",
+       "class": "open",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "NSO website and data platform",
+       "country_label": "Malawi",
+       "class": "open",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an exploration of a population register from civil registration and national ID; no register under way."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's questions for this country."
+    },
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Malawi relaunched its National Strategy for the Development of Statistics in Lilongwe on 24 November 2026, per a participant's account; no period is stated.",
+       "as_of": "2026-11-24",
+       "date_precision": "day",
+       "system": "National Strategy for the Development of Statistics",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Strategy for the Development of Statistics",
+       "country_label": "Malawi",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

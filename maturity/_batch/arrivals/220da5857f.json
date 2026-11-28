@@ -1,0 +1,17 @@
+{"slug": "2026-01-22-bdi-burundi-le-projet-d-appui-aux-filets-sociaux-adopte-des-technologies-i", "studies": {
+"feedbackportals": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "feedback", "aspect": "channel", "value": "underway", "fact": "The World Bank team said in a January 2026 blog that complaint-handling mechanisms of the Merankabandi social safety net project were strengthened and field complaints are integrated into its CORE-MIS system, with dashboards tracking progress and complaints; no number of complaints is given.", "as_of": "2026-01-22", "date_precision": "day", "system": "CORE-MIS (Merankabandi)", "class": "feedback"}
+], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The World Bank team said in January 2026 that Merankabandi's CORE-MIS, hosted by the government, is interconnected with several payment service providers for payment processing and reconciliation and delivered emergency transfers to over 30,000 beneficiaries.", "as_of": "2026-01-22", "date_precision": "day", "system": "CORE-MIS (Merankabandi)", "class": "g2p"}
+], "systems": [], "note": ""}}},
+"paymentslaw": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No payments law or rules stated."}}},
+"socialexchange": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The World Bank team said in January 2026 that the CORE-MIS system of the Merankabandi project is interconnected with several payment service providers, and that field data from KoboToolbox flows into it automatically.", "as_of": "2026-01-22", "date_precision": "day", "system": "CORE-MIS (Merankabandi)", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"socialprotection": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "socialmis", "aspect": "system", "value": "inservice", "fact": "The World Bank team said in January 2026 that Merankabandi runs on CORE-MIS, an open-source management information system after migrating over one million beneficiary records, hosted by the government at SETIC, covering over 315,000 households.", "as_of": "2026-01-22", "date_precision": "day", "system": "CORE-MIS (Merankabandi)", "class": "socialmis"},
+{"sub_indicator": "socialmis", "aspect": "payments", "value": "electronic", "fact": "The World Bank team said in January 2026 that CORE-MIS manages disbursements and is interconnected with several payment service providers for payment processing and reconciliation.", "as_of": "2026-01-22", "date_precision": "day", "system": "CORE-MIS (Merankabandi)", "class": "socialmis"}
+], "systems": [{"system": "CORE-MIS (Merankabandi)", "country_label": "Burundi", "class": "socialmis", "platform": "CORE-MIS (open source)", "owner": "Government, hosted at SETIC", "tiers": ""}], "note": ""}}},
+"socialregistry": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The Unified Social Registry is only envisaged; no procurement, pilot or population stated."}}}
+}}

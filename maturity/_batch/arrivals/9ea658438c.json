@@ -1,0 +1,12 @@
+{"slug": "2025-05-16-sle-government-of-sierra-leone-to-introduce-new-digital-unified-e-resident", "studies": {
+"authentication": {"countries": {"SLE": {"facts": [], "systems": [], "note": "A permit system contract only; no identity authentication service stated."}}},
+"birthidlink": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No civil register to ID link stated."}}},
+"civilregister": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No digital civil registration stated."}}},
+"digitalstrategy": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Only a mention that the system supports the MTNDP 2024-2030; no digital strategy stated."}}},
+"idcoverage": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Not covered."}}},
+"idmaintenance": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Constrat prints ID cards under contract with NCRA, but who operates or maintains the ID system is not stated."}}},
+"idregisters": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The permit system is to integrate with NCRA's foreigner database; no register keyed on the national ID number stated."}}},
+"idrobustness": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No national ID system status, biometrics or audit stated."}}},
+"registry": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Not covered."}}}
+}}

@@ -1,0 +1,7 @@
+{"slug": "2024-06-01-nga-nhmis-bulletin-june-2024-edition", "studies": {
+"health": {"countries": {"NGA": {"facts": [], "systems": [{"system": "NHMIS (DHIS-2)", "country_label": "National Health Management Information System", "class": "hmis", "platform": "DHIS2", "owner": "Federal Ministry of Health", "tiers": ""}], "note": "No tier, digitisation point or share of primary clinics stated."}}},
+"healthmis": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "The Federal Ministry of Health's NHMIS bulletin for June 2024 reports monthly national figures from health facilities across Nigeria through DHIS-2, and urges states to deploy devices for direct reporting into it.", "as_of": "2024-06", "date_precision": "month", "system": "NHMIS (DHIS-2)", "class": "hmis"},
+{"sub_indicator": "hmis", "aspect": "completeness", "value": "published", "fact": "The NHMIS bulletin gives a national health facility reporting rate of 85.2% for June 2024, against 91.8 to 93.5% for January to May 2024.", "as_of": "2024-06", "date_precision": "month", "system": "NHMIS (DHIS-2)", "class": "hmis"}
+], "systems": [{"system": "NHMIS (DHIS-2)", "country_label": "National Health Management Information System", "class": "hmis", "platform": "DHIS2", "owner": "Federal Ministry of Health", "tiers": ""}], "note": ""}}}
+}}

@@ -1,1 +1,25 @@
-{"slug": "2026-09-30-gin-intelligence-artificielle-la-guinee-poursuit-la-preparation-d-une-stra", "studies": {"aiabuse": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document covers a national data and AI strategy still in preparation; no rule or authority on AI harms."}}}, "aigovernment": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No government body's use of AI is stated."}}}, "aisectoral": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}}, "aisystems": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated; only a strategy blueprint in preparation."}}}, "regionalpolicy": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Only a UN office blueprint and a New York event are named; no African body or agreement."}}}}}
+{
+ "slug": "2026-09-30-gin-intelligence-artificielle-la-guinee-poursuit-la-preparation-d-une-stra",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Gnakry Live reports that the higher-education minister met the UN Office for Emerging Technologies on 16 September 2026 about a blueprint for a future national digital data and AI strategy, and says the strategy is not yet adopted and Guinea is still preparing it.",
+       "as_of": "2026-09-16",
+       "date_precision": "day",
+       "system": "National strategy on digital data and artificial intelligence (in preparation)",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

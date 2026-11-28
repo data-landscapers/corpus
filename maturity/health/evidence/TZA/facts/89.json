@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-26-tza-tanzania-leads-africa-in-health-systems-but-gaps-remain",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Tanzania",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only 2% of all facilities with facility-wide electronic systems, which is not a share of primary clinics; no tier or digitisation point stated."
+}

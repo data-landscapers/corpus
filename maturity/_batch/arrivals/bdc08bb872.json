@@ -1,0 +1,17 @@
+{"slug": "2026-06-18-gab-aninf-comment-lagence-construit-le-numerique", "studies": {
+"businesspayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"crossborderpayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"datalocalisation": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Local data hosting named only as a service the infrastructure enables; no rule."}}},
+"digitalsovereignty": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Sovereignty is stated generally; no policy, rule or hosting of state data is described."}}},
+"digitalstrategy": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No national strategy described."}}},
+"fibrebackbone": {"countries": {"GAB": {"facts": [], "systems": [], "note": "A national fibre backbone is named as one ANINF acts on, with nothing on regions linked or in service."}}},
+"g2ppayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on payments to people."}}},
+"internationalbandwidth": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The ACE submarine cable is named as one ANINF acts on; the page does not say it lands or carries traffic."}}},
+"itcapacity": {"countries": {"GAB": {"facts": [{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "ANINF, Gabon's national digital agency, says on its own site that it designs digital tools itself: the electronic driving licence, the Marigest merchant-navy application and the KEWA platform.", "as_of": "2026-06-18", "date_precision": "day", "system": "ANINF", "class": "staff"}, {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "ANINF says it works on the Gabonese Administration Network (RAG) and builds digital tools for administrations and citizens.", "as_of": "2026-06-18", "date_precision": "day", "system": "ANINF", "class": "staff"}, {"sub_indicator": "inhouse", "aspect": "own", "value": "entire", "fact": "ANINF says it designed the electronic driving licence; no contractor is named.", "as_of": "2026-06-18", "date_precision": "day", "system": "electronic driving licence", "class": "staff"}, {"sub_indicator": "inhouse", "aspect": "own", "value": "entire", "fact": "ANINF says it designed the Marigest application for the merchant navy; no contractor is named.", "as_of": "2026-06-18", "date_precision": "day", "system": "Marigest", "class": "staff"}, {"sub_indicator": "inhouse", "aspect": "own", "value": "entire", "fact": "ANINF says it designed the KEWA platform; no contractor is named.", "as_of": "2026-06-18", "date_precision": "day", "system": "KEWA", "class": "staff"}], "systems": [], "note": ""}}},
+"localgov": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
+"paymentsuptake": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"retailpayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Electronic payments named only as a service the infrastructure enables."}}},
+"revenuecollection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing stated."}}}
+}}

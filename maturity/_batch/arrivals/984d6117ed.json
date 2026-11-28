@@ -1,1 +1,14 @@
-{"slug": "2026-11-24-dji-djibouti-tend-la-fibre-optique-pour-connecter-administrations-coles-et-h-pi", "studies": {"coresystems": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Fibre to public sites only; no finance, revenue or payroll system stated."}}}, "fibrebackbone": {"countries": {"DJI": {"facts": [], "systems": [{"system": "Djibouti Fondement numerique public-site fibre", "country_label": "Djibouti", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Fibre to hospitals, schools and administrative buildings is not a capital-to-regions backbone."}}}}}
+{
+ "slug": "2026-11-24-dji-djibouti-tend-la-fibre-optique-pour-connecter-administrations-coles-et-h-pi",
+ "studies": {
+  "localgov": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Fibre goes to central public sites, schools and a hospital; no local government office is named."
+    }
+   }
+  }
+ }
+}

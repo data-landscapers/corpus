@@ -1,0 +1,63 @@
+{
+ "slug": "2026-11-27-mli-12eme-session-conseil-dadministration-de-lagefau-le-premier-ministre-abdoul",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "The Mali government's universal access fund agency AGEFAU adopted a 2027 budget of about FCFA 58.75 billion on 26 November 2026, to extend network coverage to 162 localities and build 48 universal access centres in public secondary schools.",
+       "as_of": "2026-11-26",
+       "date_precision": "day",
+       "system": "AGEFAU",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AGEFAU",
+       "country_label": "AGEFAU (universal access fund agency)",
+       "class": "ruralaccess",
+       "platform": "",
+       "owner": "Government of Mali",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "financing",
+       "aspect": "budget",
+       "value": "allocated",
+       "fact": "The board of AGEFAU, Mali's universal access fund agency, adopted a 2027 budget of FCFA 58,754,653,000 on 26 November 2026, chaired by the prime minister.",
+       "as_of": "2026-11-26",
+       "date_precision": "day",
+       "system": "AGEFAU 2027 budget",
+       "class": "financing"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Solar phone-charging stations are mentioned; no rural electricity access figure given."
+    }
+   }
+  }
+ }
+}

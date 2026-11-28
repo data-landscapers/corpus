@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-30-sdn-from-paper-files-to-platforms-can-sudan-build-a-digital-government",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Bayan",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "civil service personnel platform",
+   "owner": "Ministry of Human Resources and Social Welfare",
+   "tiers": ""
+  }
+ ],
+ "note": "Bayan holds civil servants' data, but no source says it is keyed on the national ID number."
+}

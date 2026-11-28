@@ -1,8 +1,3 @@
 {"slug": "2026-11-26-zwe-zimbabwe-sets-digital-transformation-targets-for-zimpost-including-ai-powered-ro", "studies": {
-"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Document says nothing on AI harms rules or an authority."}}},
-"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "AI route optimisation for Zimpost is a minister's target for June 2027, a directive and not a system tendered, piloted or in service."}}},
-"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No AI tool in a sector's public system is stated."}}},
-"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in the country is stated."}}},
-"civilserviceskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No training for civil servants is stated."}}},
-"digitalskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only a call to turn Zimpost Digital Centres into hubs for digital skills development; no programme launched, piloted or counted."}}}
+"egovservices": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Zimpost's unified digital platform and app is a target for June 2027 and Digital Centres as government hubs a request; nothing in service stated."}}}
 }}
