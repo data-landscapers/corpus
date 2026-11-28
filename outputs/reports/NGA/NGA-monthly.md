@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: NGA
-ledger_rows: 149
+ledger_rows: 152
 not_held: 8
-record: 836f7d08e8dd
+record: 6342179d5d1d
 ---
 
 # News, Oct – Nov 2026
@@ -638,6 +638,14 @@ The Nigeria AI Governance Forum inaugurated a 15-member advisory council chaired
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[NIGERIA AI GOVERNANCE FORUM LAUNCHED AT ABUJA TECH WEEK 2026: A STRATEGIC CALL TO SHAPE NIGERIA'S AI FUTURE | Newspot Nigeria](https://newspotng.com/nigeria-ai-governance-forum-launched-at-abuja-tech-week-2026-a-strategic-call-to-shape-nigerias-ai-future/)** — Newspot Nigeria, 25 November 2026
+
+Open letter to President Tinubu: seven proposals on AI strategy Pillar 5 coordination; launched 24 Nov 2026.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1024,6 +1032,22 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria and Togo Sign Memorandum of Understanding to Develop Twinned Data Park](https://fmcide.gov.ng/nigeria-and-togo-sign-memorandum-of-understanding-to-develop-twinned-data-park/)** — Federal Ministry of Communications, Innovation and Digital Economy (Nigeria), 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
+
+MoU signed Lagos 26 Nov 2026; Egbin site for Nigeria, Togo as backup and disaster-recovery site; joint SPV.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria, Togo Target $50m Data Parks To Retain West Africa's Digital Economy](https://leadership.ng/nigeria-togo-target-50m-data-parks-to-retain-west-africas-digital-economy/)** — Leadership, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
+
+First phase put at US$30-50m; state equity 25-49% on NLNG model; ECOWAS data embassy framework explored.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1161,6 +1185,20 @@ Nigeria's Border Control and Immigration Management System now holds more than 1
 **[Export processing on National Single Window begins December 14 - Businessday NG](https://businessday.ng/news/article/export-processing-on-national-single-window-begins-december-14/)** — BusinessDay NG, 10 November 2026
 
 Nigeria's National Single Window will open export processing on 14 December 2026, its secretariat said on 10 November 2026. A first group of permit-issuing agencies goes live then: NAQS, SON, NAFDAC, NACCIMA, FPIS and REX. CBN, Customs, NEPZA and four ministries follow in the first quarter of 2027. Customs' regulatory HS-code list is due by 1 December 2026 and will be enforced from 1 January 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National labour data exchange (Labour Force Intelligence working group)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG moves to integrate national labour data to address skills-employment gap](https://guardian.ng/news/fg-moves-to-integrate-national-labour-data-to-address-skills-employment-gap/)** — The Guardian Nigeria, 25 November 2026
+
+Working group led by NECA with NBS and UNDP; interoperable labour data exchange to link federal and state systems.
 
 </div>
 
@@ -1828,6 +1866,20 @@ TechCabal profiles eHealth Africa, a non-profit that maps settlements and plans 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NIN verification of agricultural programme beneficiaries</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG moves to build unified digital agric architecture](https://businessaffairs.com.ng/fg-moves-to-build-unified-digital-agric-architecture/)** — Business Affairs, 26 November 2026
+
+AGROW committee inaugurated 26 Nov 2026 to inventory farmer systems and set registry and data-sharing rules.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -2381,6 +2433,28 @@ Nigeria's Federal Ministry of Education said on 16 November 2026 that its Nigeri
 **[Government invests in technical talent in partner countries](https://www.government.nl/latest/news/2026/11/20/government-invests-in-technical-talent-in-partner-countries)** — Ministry of Foreign Affairs (Netherlands), 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
 
 The Dutch Ministry of Foreign Affairs announced on 20 November 2026 a EUR 150 million programme, Knowledge Empowers You, for 2027 to 2031. It trains technical talent, with a chip-sector focus, in seven initial countries including Egypt, Morocco and Nigeria. No allocation per country is stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Foundation-funded digital skills programmes, 2026 intake</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[C'River Opens Digital Doors For 2,500 Young Women](https://news.crossriverstate.gov.ng/criver-opens-digital-doors-for-2-500-young-women/)** — Cross River State Government, Ministry of Information, 26 November 2026
+
+Mastercard Foundation TTS MoU; 2,000 job placements; 10% of places for women with disabilities, 5% for IDPs.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mastercard Foundation Opens Free Skills Applications for 30,000 Nigerian Women With Job Opportunities](https://www.nigeriastartupact.ng/mastercard-foundation-opens-free-skills-applications-for-30000-nigerian-women-with-job-opportunities/)** — Nigeria Startup Act, 27 November 2026
+
+TTS Nigeria pilot: 30,000 women to train, 25,000 to place in jobs, 18 months across 12 named states.
 
 </div>
 

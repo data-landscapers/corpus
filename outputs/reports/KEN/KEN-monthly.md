@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: KEN
-ledger_rows: 126
+ledger_rows: 130
 not_held: 5
-record: 785875a3fcb5
+record: 651472fcaa45
 ---
 
 # News, Oct – Nov 2026
@@ -469,6 +469,36 @@ Linda Omondi of CIPIT analysed the Central Bank of Kenya's draft AI guidance for
 **[EU and Kenya hold successful digital dialogue](https://digital-strategy.ec.europa.eu/en/news/eu-and-kenya-hold-successful-digital-dialogue)** — European Commission (DG CONNECT), 24 November 2026
 
 The EU and Kenya held their Digital Dialogue in Brussels on 23-24 November 2026 and launched a cooperation roadmap. They agreed AI Factories partnerships on language diversity and agriculture. Technical work on digital identity will follow the EU Digital Identity Framework. Team Europe's pipeline is to bring aerial fibre to 3,000 schools, health centres and digital hubs.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Joint Communiqué — EU-Kenya Digital Dialogue (Brussels, 23-24 November 2026)](https://ec.europa.eu/newsroom/dae/redirection/document/135283)** — European Commission and Government of Kenya, 24 November 2026
+
+Adequacy talks concluded, first EU deal of its kind in Africa; AI Factories; 3,000km aerial fibre; Blue Raman open.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya–EU Digital Dialogue Concludes with a Joint Communiqué](https://ict.go.ke/kenya-eu-digital-dialogue-concludes-joint-communique)** — Ministry of Information, Communications and the Digital Economy, 25 November 2026
+
+Kenyan ministry account; EUR 10M AI support, 3,000 km aerial fibre, Wi-Fi for 400 communities, adequacy talks closed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Korea Economic Development Cooperation Fund framework (US$1bn)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya Welcomes Korea's Extension of $1bn EDCF as Ties Elevated to Strategic Level](https://www.dawan.africa/news/kenya-welcomes-koreas-extension-of-dollar1bn-edcf-as-ties-elevated-to-strategic-level)** — Dawan Africa, 26 November 2026
+
+USD 1bn 2022-2026 loan framework to run past December 2026; term, ceiling and projects unstated.
 
 </div>
 
@@ -1666,6 +1696,34 @@ Kenya's Ministry of Information, Communications and the Digital Economy joined t
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Election technology contract award to Smartmatic</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya court asked to block Smartmatic election tech award](https://www.biometricupdate.com/202611/kenya-court-asked-to-block-smartmatic-election-tech-award)** — Biometric Update, 26 November 2026
+
+KSh 17.6bn (USD 136M) IEBC award challenged over US bribery indictment and a bid KSh 3bn cheaper; directions 30 Nov.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">High Court petition on eCitizen collections (HCCHRPET/E015/2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[High Court orders banks, agencies to preserve eCitizen records in Sh9.4 billion probe](https://eastleighvoice.co.ke/news/428879/high-court-orders-banks-agencies-to-preserve-ecitizen-records-in-sh94-billion-probe)** — The Eastleigh Voice, 27 November 2026
+
+Justice Micheni's orders, 2026-11-26; KSh 6.3bn via Pesaflow and Equity Bank queried; hearing 16 December 2026.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -2174,6 +2232,8 @@ Expertise France's project page describes its part in the Data Governance in Afr
 <a href="#china-activities">China activities</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eu-activities">EU activities</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-sovereignty">Digital sovereignty</a>
 </nav>
 
 ### China activities
@@ -2225,6 +2285,22 @@ The European Commission and Kenya's Office of the Data Protection Commissioner a
 **[Kenya and EU Advance Digital Partnership Talks to Unlock Investment Opportunities](https://techafricanews.com/2026/11/16/kenya-eu-digital-partnership-investment-opportunities/)** — TechAfrica News, 16 November 2026
 
 Kenya's ICT Principal Secretary expects technical talks on an EU data-adequacy decision to end positively. He spoke on 13 November 2026 before the EU-Kenya Digital Dialogue. The meeting also covered digital public infrastructure, AI, digital identity and cybersecurity.
+
+</div>
+
+</div>
+
+### Digital sovereignty
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Middle Powers (AIM) initiative</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya advances AI Middle Powers initiative to strengthen shared sovereignty and trusted interdependence](https://techreviewafrica.com/news/8550/kenya-advances-ai-middle-powers-initiative-to-strengthen-shared-sovereignty-and-trusted-interdependence)** — Tech Review Africa, 27 November 2026
+
+Envoy Philip Thigo at Chatham House pitches AIM as plurilateral effort; shared sovereignty, trusted interdependence.
 
 </div>
 

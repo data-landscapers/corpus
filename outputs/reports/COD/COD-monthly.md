@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: COD
-ledger_rows: 64
+ledger_rows: 65
 not_held: 6
-record: 226f1a2a786e
+record: 8b220caba1ec
 ---
 
 # News, Oct – Nov 2026
@@ -765,6 +765,20 @@ President Tshisekedi opened the second annual public-service conference in Kinsh
 **[RDC : le Gouvernement annonce la création de la plateforme numérique « E-Services RDC » - ACP](https://acp.cd/nation/rdc-le-gouvernement-annonce-la-creation-de-la-plateforme-numerique-e-services-rdc/)** — Agence Congolaise de Presse (ACP), 19 November 2026
 
 On 19 November 2026 the Deputy Prime Minister for the civil service announced E-Services RDC in Kinshasa. The portal publishes the procedures and official fees of public services, in four national languages, French and English. It is available through the Mbulamatari app and is also to list public-sector job openings.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Foreign ministry digital master plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : le numérique doit renforcer la souveraineté nationale, sans créer de nouvelles dépendances (Ministre d’Etat Kayikwamba)](https://acp.cd/nation/rdc-le-numerique-doit-renforcer-la-souverainete-nationale-sans-creer-de-nouvelles-dependances-ministre-detat-kayikwamba/)** — Agence congolaise de presse (ACP), 26 November 2026
+
+Deadline pulled from 2030 to 2028; 27 initiatives on four axes; e-mail management live; data control as priority.
 
 </div>
 

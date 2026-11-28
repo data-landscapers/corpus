@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: EGY
-ledger_rows: 86
+ledger_rows: 88
 not_held: 33
-record: e14d394de364
+record: 529cc9415f52
 ---
 
 # News, Oct – Nov 2026
@@ -674,6 +674,14 @@ Egypt's Cabinet approved a draft resolution on 18 November 2026 establishing a C
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Egypt’s Comprehensive National Data System: How Will It Integrate Government Data and Protect Citizens’ Privacy?](https://www.technotime.net/18938)** — Techno Time, 27 November 2026
+
+Egypt issued Prime Ministerial Decree No. 3746 of 2026 establishing the Comprehensive National Data System. It was published in the Official Gazette on 24 November 2026 and took effect on 25 November. The presidential-directives platform is due to operate from 1 January 2027 and the full system from 1 July 2027. All system data is classed confidential under Article 9.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -797,6 +805,20 @@ On 23 November 2026, Egypt's central bank extended payment-card tokenisation to 
 **[«المركزي المصري» يطلق ترميز بطاقات الدفع على هواتف Android](https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%B7%D9%84%D9%82-%D8%AA%D8%B1%D9%85%D9%8A%D8%B2-%D8%A8%D8%B7%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D8%B9%D9%84%D9%89-%D9%87%D9%88%D8%A7%D8%AA%D9%81-android/)** — State Information Service (Egypt), 23 November 2026
 
 The Central Bank of Egypt announced on 23 November 2026 that payment card tokenisation is available on Android devices. The first phase ran through Apple Pay from December 2024. It had processed about 292 million transactions worth EGP 228 billion by the end of September 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central bank memorandum with the Central Bank of Sudan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[محافظ بنك السودان المركزي توقع مذكرة تفاهم مع محافظ البنك المركزي المصري](https://cbos.gov.sd/ar/news/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%AA%D9%88%D9%82%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%85%D8%B9-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A)** — Central Bank of Sudan, 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
+
+Signed Cairo 26 Nov 2026; trade-payment settlement, supervisory data exchange, payment-systems cooperation.
 
 </div>
 
@@ -1049,6 +1071,20 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 **[Egypt to launch online seafarer passport and certificate services Thursday](https://sis.gov.eg/en/media-center/news/egypt-to-launch-online-seafarer-passport-and-certificate-services-thursday/)** — State Information Service, 18 November 2026
 
 The transport minister announced that Egypt's maritime safety authority would offer online issuance and renewal of seafarer passports and some certificates from Thursday 19 November 2026. There are no extra fees. Users can verify certificates by QR code, and more services are to follow gradually.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Economic Entities Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt to launch unified digital platform for economic entities in 2027](https://sis.gov.eg/en/media-center/news/egypt-to-launch-unified-digital-platform-for-economic-entities-in-2027/)** — State Information Service (Egypt), 26 November 2026
+
+Single system for business approvals and licences due 2027; stated by the investment minister to Turkish investors.
 
 </div>
 

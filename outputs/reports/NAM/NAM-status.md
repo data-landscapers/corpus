@@ -1,12 +1,12 @@
 ---
 title: Namibia: status report
-compiled: 2026-11-26
+compiled: 2026-11-28
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 216
+sources_cited: 218
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -204,7 +204,7 @@ Namibia's digital-sector financing from 2016 to 2026 runs to 38 commitments, wor
 
 [Namibian banks settled R708 billion through the regional SADC-RTGS system in 2025, a quarter of its R2.8 trillion](https://www.bon.com.na/getattachment/Publications/Annual-Reports/BON-ANNUAL-REPORT-30-MARCH.pdf.aspx?lang=en-ZA). [All Namibian participants moved to the ISO 20022 standard with the system's upgrade in November 2025](https://www.bon.com.na/getattachment/Publications/Annual-Reports/BON-ANNUAL-REPORT-30-MARCH.pdf.aspx?lang=en-ZA).
 
-[Access to banking scores 45.9 out of 100 in the 2024 IIAG and ranks 6th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf). [It is among Namibia's ten weakest measures and its ten most improved](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf) (2023). [The Bank of Namibia's 2025 annual report put banking fraud losses at N$73.9 million for the year, against roughly N$8.7 million in 2020](https://www.namibian.com.na/namibias-digital-economy-needs-cybersecurity-as-much-as-it-needs-connectivity/).
+[Access to banking scores 45.9 out of 100 in the 2024 IIAG and ranks 6th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf). [It is among Namibia's ten weakest measures and its ten most improved](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf) (2023). [The Bank of Namibia's 2025 annual report put banking fraud losses at N$73.9 million for the year, against roughly N$8.7 million in 2020](https://www.namibian.com.na/namibias-digital-economy-needs-cybersecurity-as-much-as-it-needs-connectivity/). [The central bank said N$50.3 million was reported lost to fraud from January to October 2026, against more than N$65 million a year earlier](https://www.namibian.com.na/bank-of-namibia-n50-3-million-lost-to-fraud/). [On 9 November 2026 an Anti-Scam Command Centre began a pilot with banks to trace suspicious payments and hold funds not yet moved](https://sekotech.com.na/2026/11/25/youve-been-scammed-can-namibia-stop-the-money-in-time/).
 
 ### Registries
 <!-- dpi.registry -->

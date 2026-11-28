@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-23
-period: 2026-10-01 to 2026-11-23
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: GAB
-ledger_rows: 43
+ledger_rows: 44
 not_held: 11
-record: 4d66ca3c14b6
+record: 791dd3c22bb5
 ---
 
 # News, Oct – Nov 2026
@@ -725,6 +725,20 @@ Libreville's town hall reviewed its E-Tax market tax platform on 30 October 2026
 **[Gabon: Digitalisation des collectivités locales - Le Haut-Ogooué, première étape de l'inventaire national du parc informatique](https://fr.allafrica.com/stories/202610300423.html)** — allAfrica, 29 October 2026
 
 Gabon's digital economy ministry began a national mission on 26 October 2026 to inventory the IT equipment of local administrations, starting in Haut-Ogooué. Arnaud Ona Ndong leads the team, which visits town halls, prefectures and the governorate. This is phase 2 of a national diagnosis. Phase 1 ran from 22 April to 6 May 2026 in the nine provincial capitals.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Libreville digital census and enrolment of market traders</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Recensement numérique : la mairie de Libreville part à la rencontre des commerçants](https://agpgabon.ga/gabon-recensement-numerique-la-mairie-de-libreville-part-a-la-rencontre-des-commercants/)** — AGP - Agence Gabonaise de Presse, 25 November 2026
+
+Pilot digital enrolment of traders at Mont-Bouët, Nkembo, Nzeng-Ayong markets; app built and run by the city's DCSI.
 
 </div>
 

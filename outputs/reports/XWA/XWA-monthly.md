@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: XWA
-ledger_rows: 42
+ledger_rows: 43
 not_held: 1
-record: 38973050a650
+record: 00e435b6e181
 ---
 
 # News, Oct – Nov 2026
@@ -119,6 +119,28 @@ The Alliance of Sahel States adopted the digital deliverables of its Confederati
 **[Let Licensed Fintechs Expand Across West Africa Without Starting Over](https://www.ecofinagency.com/insights/1611-60861-let-licensed-fintechs-expand-across-west-africa-without-starting-over)** — Ecofin Agency, 16 November 2026
 
 Three West African fintech associations published a joint article on 16 November 2026. They represent Nigeria, Ghana and the UEMOA zone. They propose a pilot fintech licensing passport in ECOWAS. The Africa Fintech Network would coordinate it with central banks.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AES framework convention on digital and postal cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AES : Le Burkina Faso, le Mali et le Niger valident une convention de coopération dans le numérique et la poste](https://burkina24.com/2026/11/27/aes-le-burkina-faso-le-mali-et-le-niger-valident-une-convention-de-cooperation-dans-le-numerique-et-la-poste/)** — Burkina24, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
+
+Ministers for digital affairs and posts of Burkina Faso, Mali and Niger validated a draft framework convention on cooperation in these fields in Ouagadougou on 27 November 2026. It would give the three Alliance of Sahel States members a legal framework for cooperation. It aims at interconnecting their digital and postal platforms and building a secure digital space.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[L'AES se dotent d’un cadre commun de coopération dans le Numérique et les Postes](https://www.wakatsera.com/laes-se-dotent-dun-cadre-commun-de-cooperation-dans-le-numerique-et-les-postes/)** — Wakat Séra, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
+
+Burkina Faso, Mali and Niger signed a framework convention on digital and postal cooperation in Ouagadougou on 27 November 2026. It covers shared digital infrastructure, connectivity, cybersecurity, e-government, AI and training. It also covers postal network interconnection and the PosTransfer money-transfer platform. A technical committee of the Alliance of Sahel States is to prepare implementing conventions.
 
 </div>
 

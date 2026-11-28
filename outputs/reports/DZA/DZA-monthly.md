@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: DZA
-ledger_rows: 47
+ledger_rows: 51
 not_held: 6
-record: 7c0e3dc75a3b
+record: 65a9c031e272
 ---
 
 # News, Oct – Nov 2026
@@ -209,6 +209,8 @@ Algeria is in advanced talks with the World Bank on a start-up financing initiat
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technical-capacity">Technical Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
@@ -314,6 +316,36 @@ DZ Watch reported on 19 November 2026 that a consortium led by China Railway Con
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Agency for the Development of Data Centres</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Décrets présidentiels n° 26-359, 26-362 et 26-363 : autorité nationale de certification électronique, agence nationale de développement des centres de données, agence nationale de développement des systèmes d'information et des solutions numériques](https://www.joradp.dz/FTP/jo-francais/2026/F2026081.pdf)** — Journal officiel de la République algérienne (Secrétariat général du Gouvernement), 22 November 2026
+
+Data-centre and software-systems agencies created under the digitalisation commission; e-certification body reorganised.
+
+</div>
+
+</div>
+
+### Technical Capacity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Agency for the Development of Information Systems and Digital Solutions</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Décrets présidentiels n° 26-359, 26-362 et 26-363 : autorité nationale de certification électronique, agence nationale de développement des centres de données, agence nationale de développement des systèmes d'information et des solutions numériques](https://www.joradp.dz/FTP/jo-francais/2026/F2026081.pdf)** — Journal officiel de la République algérienne (Secrétariat général du Gouvernement), 22 November 2026
+
+Summarised under [Data Storage](#data-storage).
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -409,6 +441,20 @@ Algeria's digitalisation commission set out how the national digital identity is
 **[La CNAS examine l'intégration de la certification électronique dans le traitement des documents](https://algerie-eco.com/2026/10/22/la-cnas-examine-lintegration-de-la-certification-electronique-dans-le-traitement-des-documents/)** — Algérie Eco, 22 October 2026
 
 The acting director-general of Algeria's salaried workers' social insurance fund (CNAS) met the head of the government electronic certification authority (AGCE) to work out the technical and organisational steps for bringing electronic signatures into document handling. The project is meant to move the fund's payment centres gradually from paper to electronic processing, guard against forgery and fraud, and prepare a wider rollout of electronic document management and archiving.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National electronic-certification authority (ARPCE) and the governmental authority (AGCE)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Décrets présidentiels n° 26-359, 26-362 et 26-363 : autorité nationale de certification électronique, agence nationale de développement des centres de données, agence nationale de développement des systèmes d'information et des solutions numériques](https://www.joradp.dz/FTP/jo-francais/2026/F2026081.pdf)** — Journal officiel de la République algérienne (Secrétariat général du Gouvernement), 22 November 2026
+
+Summarised under [Data Storage](#data-storage).
 
 </div>
 
@@ -531,6 +577,20 @@ Crédit Populaire d'Algérie launched CPAzonepay on 12 November 2026. Merchants 
 **[الدفع الإلكتروني ومراقبة السلع على طاولة الحكومة](https://www.echoroukonline.com/%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%86%d8%a9-%d9%88%d8%a7%d9%84%d8%af%d9%81%d8%b9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%88%d9%85%d8%b1%d8%a7%d9%82%d8%a8%d8%a9-%d8%a7%d9%84)** — Echorouk El Yawmi, 18 November 2026
 
 On 18 November 2026 Algeria's government reviewed its roadmap for modernising electronic payment. In the first nine months of 2026, online payments reached DZD 391bn, up 63% on 2025. Card-terminal payments reached DZD 133bn, up 48%, and mobile payments DZD 56.4bn. ATM withdrawals fell 14% to DZD 3,777bn.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Social-insurance benefit transfers to postal accounts (CNAS and Algérie Poste)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La CNAS et Algérie Poste renforcent leur coopération dans le paiement électronique](https://www.expressdz.dz/2026/11/25/la-cnas-et-algerie-poste-renforcent-leur-cooperation-dans-le-paiement-electronique/)** — L’Express DZ, 25 November 2026
+
+Framework agreement 24 Nov 2026; interoperability, secured data exchange; follows 2024 deal for 58 terminals.
 
 </div>
 

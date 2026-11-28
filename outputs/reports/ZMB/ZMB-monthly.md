@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: ZMB
-ledger_rows: 42
+ledger_rows: 44
 not_held: 30
-record: 1ea056c02586
+record: 12d43ffdd412
 ---
 
 # News, Oct – Nov 2026
@@ -150,6 +150,20 @@ ZICTA, Zambia's ICT regulator, wants comments on revised type approval rules for
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Pharmaceutical Authentication and Traceability System (ZNPATS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guideline on the Zambia National Pharmaceutical Authentication and Traceability System (ZNPATS-006)](https://www.zamra.co.zm/wp-content/uploads/2026/11/Guideline-ZNPATS-006_25-Nov-2026_Final.pdf)** — Zambia Medicines Regulatory Authority (ZAMRA), 25 November 2026
+
+Serialised security labels via online portal; local products 1 Feb 2027, imports 1 May 2027, final deadline 1 Jan 2028.
+
+</div>
+
+</div>
+
 ### Public debate and participation in policymaking
 
 <div class="monthly-story" markdown="1">
@@ -169,8 +183,34 @@ Paradigm Initiative's Londa 2025 report ranks Zambia 6th of 29 African countries
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#new-investments">New investments</a>
 </nav>
+
+### Domestic budget appropriations and expenditure
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed 2027 allocation for digitalising government services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[2027 Budget Address by Honourable Dr. Situmbeko Musokotwane, MP, Minister of Finance and National Planning, Delivered to the National Assembly on Friday, 6th November, 2026](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/2027%20Budget%20Speech_Final.pdf)** — National Assembly of Zambia (Ministry of Finance and National Planning), 6 November 2026
+
+K284.8bn 2027 budget, 28.4% of GDP; digital ID and government digitalisation lines; 572 services onboarded to date.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia accelerates national digital ID plans](https://africabriefing.com/zambia-accelerates-national-digital-id-plans/)** — Africa Briefing, 25 November 2026
+
+ZK367.8m for digital ID in 2027 budget proposal; 572 of 1,578 services integrated; UNDP MoU, no new funding.
+
+</div>
+
+</div>
 
 ### New investments
 
@@ -509,6 +549,22 @@ Chief Justice Mumba Malila opened a training-of-trainers workshop for Zambia's E
 **[Zamportal revenue crosses $500m mark](https://itweb.africa/article/zamportal-revenue-crosses-500m-mark/Pero3MZ361bqQb6m)** — ITWeb Africa, 1 October 2026
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[2027 Budget Address by Honourable Dr. Situmbeko Musokotwane, MP, Minister of Finance and National Planning, Delivered to the National Assembly on Friday, 6th November, 2026](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/2027%20Budget%20Speech_Final.pdf)** — National Assembly of Zambia (Ministry of Finance and National Planning), 6 November 2026
+
+Summarised under [Domestic budget appropriations and expenditure](#domestic-budget-appropriations-and-expenditure).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Zambia accelerates national digital ID plans](https://africabriefing.com/zambia-accelerates-national-digital-id-plans/)** — Africa Briefing, 25 November 2026
+
+Summarised under [Domestic budget appropriations and expenditure](#domestic-budget-appropriations-and-expenditure).
 
 </div>
 

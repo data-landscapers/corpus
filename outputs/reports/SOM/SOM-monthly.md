@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: SOM
-ledger_rows: 29
+ledger_rows: 31
 not_held: 1
-record: 91f2e0d83923
+record: 7b84424baf7c
 ---
 
 # News, Oct – Nov 2026
@@ -266,6 +266,20 @@ Somalia's National Identification and Registration Authority announced in late O
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National passport</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia Unveils New EAC-Aligned Passport In Uganda](https://www.dawan.africa/news/somalia-unveils-new-eac-aligned-passport-in-uganda)** — Dawan Africa, 26 November 2026
+
+Polycarbonate ICAO-standard passport in three types; ID card proposed as EAC travel document; launch undated.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -379,6 +393,20 @@ Somalia's civil aviation authority said its dispute with Somaliland over the nat
 **[Somalia Parliament Suspends Sessions for Two Weeks to Install E-Parliament System](https://www.dawan.africa/news/somalia-parliament-suspends-sessions-for-two-weeks-to-install-e-parliament-system)** — Dawan Africa, 29 October 2026
 
 Somalia's House of the People will suspend sessions for two weeks from 31 October 2026 to install an E-Parliament system. The Speaker said it would take members' requests online and bring digital attendance and electronic voting.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SOFIA online aviation licensing platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia Moves Aviation Licensing Online in Step Towards EAC Safety Standards](https://www.dawan.africa/news/somalia-moves-aviation-licensing-online-in-step-towards-eac-safety-standards)** — Dawan Africa, 27 November 2026
+
+Somalia's civil aviation authority launched the first phase of SOFIA, an online licensing platform, announced on 26 November 2026. It follows the rules of CASSOA, the East African Community's aviation oversight body. Personal licensing is live and implementation is past 50%. The director general said at least US$500,000 was spent on servers and equipment.
 
 </div>
 

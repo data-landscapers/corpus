@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: XAF
 ledger_rows: 115
 not_held: 3
-record: 6fc74ecc33ad
+record: 68e5891fd960
 ---
 
 # News, Oct – Nov 2026
@@ -169,6 +169,14 @@ African heads of delegation met in Doha during the ITU Plenipotentiary Conferenc
 **[ITU PP-26 Doha: African Ministers coordinate common positions ahead of ITU elections at PP-26](https://www.techreviewafrica.com/news/8264/itu-pp-26-doha-african-ministers-coordinate-common-positions-ahead-of-itu-elections-at-pp-26)** — Tech Review Africa, 14 November 2026
 
 More than 15 African ministers and officials met in Doha at the ITU Plenipotentiary Conference to coordinate positions, Tech Review Africa reported on 14 November 2026. Nigeria's communications minister chaired the meeting. Africa submitted 50 common proposals backed by 32 member states, and 19 African countries are contesting 13 ITU Council seats.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[African Telecommunications Union reviews continent’s gains at 2026 ITU Plenipotentiary Conference](https://techreviewafrica.com/news/8543/african-telecommunications-union-reviews-continents-gains-at-2026-itu-plenipotentiary-conference)** — Tech Review Africa, 27 November 2026
+
+The African Telecommunications Union reported agreement on most African priorities at the 2026 ITU Plenipotentiary Conference in Doha. New proposals on cybersecurity and quantum computing still need consensus. Thirteen African states were elected to the ITU Council for 2027-2030.
 
 </div>
 

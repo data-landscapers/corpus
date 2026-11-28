@@ -1,12 +1,12 @@
 ---
 title: Egypt: status report
-compiled: 2026-11-25
+compiled: 2026-11-28
 place: EGY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 10
-sources_cited: 260
+sources_cited: 261
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -172,7 +172,7 @@ Telecom Egypt's board [withdrew on 17 July 2026 from the agreed sale of 75–80 
 ### Data Exchange
 <!-- dpi.exchange -->
 
-[Egypt's government digital switch connected 105 government bodies by July 2026](https://gate.ahram.org.eg/News/5813424.aspx). [A parallel data-integration effort had linked 100 national databases](https://gate.ahram.org.eg/News/5813424.aspx) (July 2026). [The framework meant to govern that exchange was still in draft](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [The interoperability platform itself was recorded as only partially used](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [On 18 November 2026 Cabinet approved creating a Comprehensive National Data System, a central state database across ministries](https://sis.gov.eg/en/media-center/news/cabinet-approves-draft-resolution-to-establish-comprehensive-national-data-system/).
+[Egypt's government digital switch connected 105 government bodies by July 2026](https://gate.ahram.org.eg/News/5813424.aspx). [A parallel data-integration effort had linked 100 national databases](https://gate.ahram.org.eg/News/5813424.aspx) (July 2026). [The framework meant to govern that exchange was still in draft](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [The interoperability platform itself was recorded as only partially used](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [On 18 November 2026 Cabinet approved creating a Comprehensive National Data System, a central state database across ministries](https://sis.gov.eg/en/media-center/news/cabinet-approves-draft-resolution-to-establish-comprehensive-national-data-system/). [The decree establishing it took effect on 25 November 2026, with full operation due on 1 July 2027](https://www.technotime.net/18938).
 
 [A Government Service Bus links financial management, tax administration, customs, human resources, social insurance and debt management](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [Separate point-to-point interfaces run alongside it](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [The Unified National Registry, a World Bank-supported platform, connects 114 government databases through the national ID number](https://documents1.worldbank.org/curated/en/099205012052226857/pdf/BOSIB01e105ebc01e0a059000b4715dc353.pdf) (2022). [It covers all Egyptian households](https://documents1.worldbank.org/curated/en/099205012052226857/pdf/BOSIB01e105ebc01e0a059000b4715dc353.pdf) (2022). [E-invoicing requires every document to carry either a company registration number or an individual's national ID number](https://sdk.invoicing.eta.gov.eg/), binding tax records to the identity system.
 
@@ -345,7 +345,7 @@ The communications ministry's [Digital Egypt Generations initiatives trained mor
 
 Egypt's [Equal Access to Public Services score is unchanged over 2014–2023 at 42.5 of 100, 24th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-eg.pdf).
 
-[In December 2024 the National Telecom Regulatory Authority extended accessibility requirements to mobile e-wallet services](https://www.tra.gov.eg/en/ntra-issues-instructions-to-facilitate-the-use-of-mobile-e-wallet-services-for-people-of-determination/). [They require accessible app interfaces, sign-language interpreters and Braille contracts, on top of an earlier 50% discount on mobile packages for people with disabilities, in force by December 2024](https://www.tra.gov.eg/en/ntra-issues-instructions-to-facilitate-the-use-of-mobile-e-wallet-services-for-people-of-determination/). [Under Central Bank instructions, banks offer sign-language service by video call, screen-reader-compatible channels, Braille forms and ATMs with Braille keypads](https://www.cbe.org.eg/en/news-publications/news/2024/08/19/09/24/better-than-cash-blog). [Accounts can be opened free, with no minimum balance, on an annual inclusion day](https://www.cbe.org.eg/en/news-publications/news/2024/08/19/09/24/better-than-cash-blog).
+[In December 2024 the National Telecom Regulatory Authority extended accessibility requirements to mobile e-wallet services](https://web.archive.org/web/20241205124851/https://www.tra.gov.eg/en/ntra-issues-instructions-to-facilitate-the-use-of-mobile-e-wallet-services-for-people-of-determination/). [They require accessible app interfaces, sign-language interpreters and Braille contracts, on top of an earlier 50% discount on mobile packages for people with disabilities, in force by December 2024](https://web.archive.org/web/20241205124851/https://www.tra.gov.eg/en/ntra-issues-instructions-to-facilitate-the-use-of-mobile-e-wallet-services-for-people-of-determination/). [Under Central Bank instructions, banks offer sign-language service by video call, screen-reader-compatible channels, Braille forms and ATMs with Braille keypads](https://www.cbe.org.eg/en/news-publications/news/2024/08/19/09/24/better-than-cash-blog). [Accounts can be opened free, with no minimum balance, on an annual inclusion day](https://www.cbe.org.eg/en/news-publications/news/2024/08/19/09/24/better-than-cash-blog).
 
 [In July 2026 ration-card grievances and data updates ran through 500 post offices](https://www.elwatannews.com/news/details/8325610). [In August 2026 the social insurance authority still had employers attending its offices in person while its services waited to move online](https://gate.ahram.org.eg/News/5882131.aspx). Flagging an unrecognised mobile line in the regulator's app [still ends with a visit to the carrier and the physical ID card](https://business.ahram.org.eg/News/121565.aspx) (August 2026). [Universal health insurance enrolment requires photo ID for every family member over 16](https://p4h.world/app/uploads/2025/07/Automatic-Health-Insurance-Enrollment-for-Vulnerable-Individuals-Opportunities-for-Egypts-Universal-Health-Insurance-System.x73677.pdf) and, as at June 2024, ran in the first-phase governorates only.
 

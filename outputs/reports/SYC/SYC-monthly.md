@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: SYC
-ledger_rows: 18
+ledger_rows: 20
 not_held: 6
-record: b48718aa427c
+record: 071460f6487a
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: b48718aa427c
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
@@ -238,6 +240,20 @@ Seychelles' Department of Blue Economy signed two open-ended data-sharing memora
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Environment ministry and statistics bureau data-sharing memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MECENR and NBS strengthen collaboration on climate and environmental data](https://www.nation.sc/articles/33377/mecenr-and-nbs-strengthen-collaboration-on-climate-and-environmental-data)** — Seychelles Nation, 27 November 2026
+
+Framework for timely, secure data sharing for climate monitoring; free lede only, signing date not stated.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -359,6 +375,28 @@ Seychelles scored 0.84 out of 4 on the Africa AI Governance Index 2026, in the N
 **[27 civil servants head to India for executive training programme](https://nation.sc/articles/32585/27-civil-servants-head-to-india-for-executive-training-programme)** — Seychelles Nation, 2 October 2026
 
 A second cohort of 27 Seychelles civil servants was sent off at the Indian High Commission ahead of a two-week executive course in Delhi and Mussoorie from 5 to 16 October, focused on technology and its use in governance. The rest of the article is behind a paywall.
+
+</div>
+
+</div>
+
+## Inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+</nav>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Government E-Participation Portal (proposed third OGP action plan commitment)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Open Government Reform: Seychelles Advances Plans to Strengthen Food Security, Citizen Participation and Public Accountability](https://www.statehouse.gov.sc/news/7387/open-government-reform-seychelles-advances-plans-to-strengthen-food-security-citizen-participation-and-public-accountability)** — Office of the President (State House Seychelles), 26 November 2026
+
+Validated 20 Nov 2026; e-participation portal, agriculture council, National Integrity Coalition; Cabinet approval next.
 
 </div>
 

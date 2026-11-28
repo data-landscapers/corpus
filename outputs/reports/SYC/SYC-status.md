@@ -1,12 +1,12 @@
 ---
 title: Seychelles: status report
-compiled: 2026-11-14
+compiled: 2026-11-28
 place: SYC
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-01
 intersections_read: 6
-sources_cited: 197
+sources_cited: 198
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -67,7 +67,7 @@ In July 2026 Cabinet decided on [amendments to the Foreign Exchange Act 2009 wid
 ### Public debate and participation in policymaking
 <!-- gov.discourse -->
 
-[Seychelles ranked first in Africa for deliberative and participatory governance in 2023, at 89.6 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sc.pdf). [Its score rose 27.7 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sc.pdf). [In 2025 no national platform let a citizen or business take part in a policy decision](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [There were no petitions, no anonymous feedback, no omnichannel access and no published government responses](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Citizens and businesses had no hand in designing the public service, tax and social insurance portals](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The 2023-2025 Open Government Partnership action plan's commitment to an e-engagement portal has not begun](https://www.opengovpartnership.org/wp-content/uploads/2024/02/Seychelles_Action-Plan_2023-2025_December.pdf).
+[Seychelles ranked first in Africa for deliberative and participatory governance in 2023, at 89.6 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sc.pdf). [Its score rose 27.7 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sc.pdf). [In 2025 no national platform let a citizen or business take part in a policy decision](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [There were no petitions, no anonymous feedback, no omnichannel access and no published government responses](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Citizens and businesses had no hand in designing the public service, tax and social insurance portals](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The 2023-2025 Open Government Partnership action plan's commitment to an e-engagement portal has not begun](https://www.opengovpartnership.org/wp-content/uploads/2024/02/Seychelles_Action-Plan_2023-2025_December.pdf). [In November 2026 stakeholders validated an e-participation portal for consultations, e-petitions and participatory budgeting as a commitment of the third action plan, which goes to Cabinet next](https://www.statehouse.gov.sc/news/7387/open-government-reform-seychelles-advances-plans-to-strengthen-food-security-citizen-participation-and-public-accountability).
 
 [Media freedom fell 5.6 points over 2014-2023 to 79.3 out of 100, though Seychelles still ranked 3rd of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sc.pdf). [Freedom of expression and belief stood at 93.1 in 2023, 2nd of 54 and up 16.7 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sc.pdf). [A June 2026 amendment gave the President greater powers to appoint and dismiss the public broadcaster's board](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/). [In a 2025 survey 45% said the media was somewhat or completely free, against 52% who said it was not](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/). [The ICT department opened a public consultation on the draft data protection bill in August 2023](https://www.techhiveadvisory.africa/insights/review-of-seychelles-dpa), four months before the Act passed the National Assembly.
 

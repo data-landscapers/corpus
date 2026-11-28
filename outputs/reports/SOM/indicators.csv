@@ -141,7 +141,9 @@ dpi.id--national-maintenance-of-id-and-credentials-systems,Movement,"Cabinet [ap
 
 No cost, supplier, issuance target or personalisation site is published, and nothing states whether the passport draws on the national identity register.
 
-2025-05-07 - NIRA [launched a Certificate Delivery System for downloading registration certificates, built in-house](2025-05-01-som-nira-launches-key-digital-public-infrastructure-for-national-id-system); no download count is published.",SOM-dpi.id-passport|SOM-dpi.id-certificate-delivery-system,,,,,,,,,2026-08-31,0,Only a passport plan held; nothing on who builds or operates the ID system
+2025-05-07 - NIRA [launched a Certificate Delivery System for downloading registration certificates, built in-house](2025-05-01-som-nira-launches-key-digital-public-infrastructure-for-national-id-system); no download count is published.
+
+2026-11-26 - [samples of the EAC-aligned third-generation e-passport were presented to East African heads of immigration](2026-11-26-som-somalia-unveils-new-eac-aligned-passport-in-uganda); no launch date was given.",SOM-dpi.id-passport|SOM-dpi.id-certificate-delivery-system,,,,,,,,,2026-08-31,0,Only a passport plan held; nothing on who builds or operates the ID system
 dpi.pay--population-uptake,Movement,"[Mobile money runs about 155m transactions a month worth US$2.7bn](2026-06-18-hormuud-anchors-somalia-digital-economy), and [87% of adults use it against 19% holding a bank account](2026-01-01-som-somalia-financial-access-survey-2026) on the central bank's 2026 survey.","The dominant service was re-certified against the industry mobile money standard in August 2025 ([certification](2025-08-20-hormuud-evc-plus-gsma-recertification)).
 
 Nationally, mobile money runs about 155 million transactions a month worth US$2.7bn on lender figures, against formal banking reaching about 15 per cent of the population ([scale](2026-06-18-hormuud-anchors-somalia-digital-economy)).
@@ -191,7 +193,7 @@ dpi.govtech--e-government-services,Movement,"A [national job portal](2026-02-25-
 
 The job portal launched in February 2026 as a centralised platform hosted in the country ([portal](2026-02-25-somalia-national-job-portal-dpi)).
 
-The electronic visa is in force and contested: a fee exemption for one region was under negotiation in August 2026, and no issuance count, fee schedule or outcome is published ([visa](2026-08-16-raxanreeb-somalia-somaliland-e-visa-dispute)).
+The electronic visa is in force and contested: a fee exemption for one region was under negotiation in August 2026, and no issuance count or fee schedule is published ([visa](2026-08-16-raxanreeb-somalia-somaliland-e-visa-dispute)).
 
 2026-10-28 - [the Speaker suspended sittings of the House of the People for two weeks to install an e-parliament system with digital attendance and electronic voting](2026-10-29-som-somalia-parliament-suspends-sessions-for-two-weeks-to-install-e-parlia).
 
@@ -201,7 +203,9 @@ The electronic visa is in force and contested: a fee exemption for one region wa
 
 2026-11-15 - the communications minister [said up to 45 agencies would join the state network in 2027 and the national portal would be ready that year](2026-11-15-som-dawan-45-government-agencies-state-network-2027).
 
-2026-09 - [the standards bureau's certification platform, with a Somali-English AI chatbot, reached rollout preparation](2026-09-27-som-from-paper-to-digital-somalia-s-standards-services-move-online), with links to customs and the national single window planned.",SOM-dpi.govtech-job-portal|SOM-dpi.govtech-electronic-visa|SOM-dpi.govtech-procurement-portal|SOM-dpi.govtech-halmeel-platform|SOM-dpi.exchange-api-gateway-sso-portal|SOM-dpi.govtech-e-parliament-system|SOM-dpi.govtech-security-ministries-erp|SOM-infra.connect-government-network|SOM-dpi.govtech-sobs-integrated-mis,2,SOM-dpi.govtech-job-portal,,,,,,,2026-08-31,0,A few transactional services; not tens of services dematerialised
+2026-09 - [the standards bureau's certification platform, with a Somali-English AI chatbot, reached rollout preparation](2026-09-27-som-from-paper-to-digital-somalia-s-standards-services-move-online).
+
+2026-11-26 - [the civil aviation authority put personal licensing online on its SOFIA platform](2026-11-27-som-somalia-moves-aviation-licensing-online-in-step-towards-eac-safety-sta), other modules to follow.",SOM-dpi.govtech-job-portal|SOM-dpi.govtech-electronic-visa|SOM-dpi.govtech-procurement-portal|SOM-dpi.govtech-halmeel-platform|SOM-dpi.exchange-api-gateway-sso-portal|SOM-dpi.govtech-e-parliament-system|SOM-dpi.govtech-security-ministries-erp|SOM-infra.connect-government-network|SOM-dpi.govtech-sobs-integrated-mis|SOM-dpi.govtech-sofia-aviation-licensing,2,SOM-dpi.govtech-job-portal,,,,,,,2026-08-31,0,A few transactional services; not tens of services dematerialised
 dpi.mis--customs,Movement,"The customs system was [audited for the first time](2025-01-01-independent-audit-report-somali-customs-automated-system) with 34 findings, 23 of them high risk, while a [National Single Window](2026-08-03-somalia-trade-facilitation-digital-systems) stays an agenda item.","The Somali Customs Automated System is in service at Mogadishu Port, built by the Revenue Directorate with donor support to handle declarations, duty and tax assessment, accounting, warehousing and transit; the finance ministry publishes a business process guide for clearing goods through it ([guide](2024-01-01-business-process-guide-clearance-of-goods-somcas)).
 
 The Auditor General audited it for the year ended 31 December 2023 and returned 34 findings, 23 high risk and 11 medium risk: no IT governance framework and no formal IT policies, no formal controls over data centre operations, no formalised backup and recovery process, and no escrow agreement over the source code ([audit](2025-01-01-independent-audit-report-somali-customs-automated-system)).

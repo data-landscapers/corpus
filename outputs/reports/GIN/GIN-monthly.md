@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: GIN
-ledger_rows: 27
+ledger_rows: 28
 not_held: 2
-record: 5c6065f41bee
+record: 382d34e1442d
 ---
 
 # News, Oct – Nov 2026
@@ -223,6 +223,28 @@ Guinea's WARDIP project, under the digital economy ministry, invited expressions
 **[Guinée : NimbaPay traite 7,6 millions $ de transactions et connecte 7 établissements en 4 mois](https://www.agenceecofin.com/actualites/2610-142742-guinee-nimbapay-traite-7-6-millions-de-transactions-et-connecte-7-etablissements-en-4-mois)** — Agence Ecofin, 26 October 2026
 
 Guinea's central bank said on 22 October 2026 that its instant payment system NimbaPay had seven connected institutions by 15 October. It had handled about 67,000 transactions worth over GNF 68bn. The bank is also drafting a payment-systems bill and a 2027–2030 payments strategy with World Bank support.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paiement numérique et inclusion financière : la GuiM accélère avec NimbaPay et fixe le cap vers Simandou 2040](https://www.africaguinee.com/paiement-numerique-et-inclusion-financiere-la-guim-accelere-avec-nimbapay-et-fixe-le-cap-vers-simandou-2040/)** — Africa Guinée, 26 November 2026
+
+NimbaPay passes GNF 100bn in four months; card switch 139,934 transactions in 2025, seven banks live.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Payment Systems and Instruments Strategy 2027-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paiements : la BCRG lance la stratégie nationale 2027-2030 pour faire reculer le cash](https://convergencegn.com/2026/11/26/paiements-la-bcrg-lance-la-strategie-nationale-2027-2030-pour-faire-reculer-le-cash/)** — Convergence Guinée, 26 November 2026
+
+SNDSMP 2027-2030 work opens 24 Nov 2026; AfricaNenda backing; five pillars to push payments off cash.
 
 </div>
 

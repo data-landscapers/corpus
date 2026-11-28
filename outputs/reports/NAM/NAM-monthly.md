@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: NAM
-ledger_rows: 34
+ledger_rows: 36
 not_held: 8
-record: b925a5f7a67c
+record: d70352e434e5
 ---
 
 # News, Oct – Nov 2026
@@ -260,6 +260,20 @@ Namibia's bankers' association and central bank opened a fraud and cybersecurity
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Banking fraud losses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bank of Namibia: N$50.3 million lost to fraud](https://www.namibian.com.na/bank-of-namibia-n50-3-million-lost-to-fraud/)** — The Namibian, 25 November 2026
+
+N$50.3m reported fraud Jan-Oct 2026, down from over N$65m a year earlier; TransUnion: 65% of Namibians targeted.
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -371,6 +385,20 @@ Payment fraud cost Namibians N$32.45 million in the first half of 2026, up 18.9%
 **[Namibian banks handle 25% of SADC payments](https://www.namibian.com.na/namibian-banks-handle-25-of-sadc-payments/)** — The Namibian, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 Namibian banks settled R708 billion through the SADC regional payment system in 2025, 25% of its R2.8 trillion total. The figures come from the Bank of Namibia's 2025 annual report. All Namibian participants moved to ISO 20022 messaging in November 2025. In December 2025 Namibia ranked second by value at R76.33 billion, behind South Africa.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Anti-Scam Command Centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[You’ve Been Scammed. Can Namibia Stop the Money in Time?](https://sekotech.com.na/2026/11/25/youve-been-scammed-can-namibia-stop-the-money-in-time/)** — SekoTech, 25 November 2026
+
+Anti-Scam Command Centre bank pilot from 2026-11-09; H1 2026 recoveries N$34 per N$100 EFT fraud, N$80 card.
 
 </div>
 

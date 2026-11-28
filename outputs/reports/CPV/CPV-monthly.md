@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: CPV
-ledger_rows: 19
+ledger_rows: 20
 not_held: 22
-record: 109052256219
+record: 59a8df01c2ad
 ---
 
 # News, Oct – Nov 2026
@@ -310,6 +310,8 @@ Cabo Verde's General Labour Inspectorate launched an online portal and case-mana
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
 <a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#training-and-skills">Training and skills</a>
 </nav>
 
 ### Literacy
@@ -323,6 +325,22 @@ Cabo Verde's General Labour Inspectorate launched an online portal and case-mana
 **[Uni-CV assinala Dia Mundial dos Correios com debate sobre comércio eletrónico](https://unicv.edu.cv/pt/fct/arquivo-fct/6037-uni-cv-assinala-dia-mundial-dos-correios-com-debate-sobre-comercio-eletronico)** — Universidade de Cabo Verde, 9 October 2026
 
 Cabo Verde's economy and digital transition minister, António Baptista, said at a University of Cabo Verde debate on e-commerce in Praia on 9 October 2026 that his ministry will run four national programmes, including digital and financial literacy. He said the Carteira Digital and 5G are in testing and a single government portal is in preparation.
+
+</div>
+
+</div>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National citizenship and digital-safety education programme for schools, 2027-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministério da Educação anuncia Programa Nacional de Educação para Cidadania e Segurança Digital](https://radioeducativa.gov.cv/noticias/401)** — Rádio Educativa (Cabo Verde), 27 November 2026
+
+Cabo Verde's education ministry announced a national programme of citizenship and digital-safety education in schools for 2027-2031. It was announced at the launch of a national cybersecurity campaign, reported on 27 November 2026. Its five priorities include digital literacy, responsible AI use, preventing cyberbullying and fraud, teacher training and reporting mechanisms. Each school is encouraged to draw up its own digital-safety plan.
 
 </div>
 
