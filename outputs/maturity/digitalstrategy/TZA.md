@@ -6,7 +6,7 @@
 
 **Standing.** The President, Dr Samia Suluhu Hassan, [launched the framework on 29 July 2024](<https://dpi.africa.com/wp-content/uploads/2024/11/Tanzania_case_study.pdf>). The ministry's [catalogue page](<https://ictc.go.tz/storage/44/01J5TJNDHDVTA3AHVQN9CR6BV7.pdf>) gives the same date.
 
-**Text.** The Ministry [publishes the framework on ictc.go.tz](<https://www.ictc.go.tz/public/documents/tanzania_digital_economy_strategy.pdf>), with a statement from the President.
+**Text.** The Ministry [publishes the framework on ictc.go.tz](<https://web.archive.org/web/20240915175939/https://ictc.go.tz/public/documents/tanzania_digital_economy_strategy.pdf>), with a statement from the President.
 
 **Period.** It runs for [ten years, 2024 to 2034](<https://ictc.go.tz/storage/44/01J5TJNDHDVTA3AHVQN9CR6BV7.pdf>). A [ministerial statement of 13 May 2026](<https://www.tcra.go.tz/uploads/text-editor/files/MINISTERS%20STATEMENT%20WITSD%202026_1779118337.pdf>) cites it as in force.
 
