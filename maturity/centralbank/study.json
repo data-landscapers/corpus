@@ -146,5 +146,18 @@
     }
   ],
   "flags": [],
-  "searched": "2026-10-24"
+  "searched": "2026-10-24",
+ "ladder": {
+  "counter": "first",
+  "sub": "centralbank",
+  "gaps": {
+   "4": "No source found since October 2023 says the country is live on PAPSS.",
+   "3": "No source found since October 2023 says the central bank runs or oversees a national switch.",
+   "2": "No source found since October 2023 says: does the central bank license payment providers.",
+   "1": "No source found since October 2023 says: is a payments mandate being set up.",
+   "5": ""
+  },
+  "empty": "Nothing found says what the central bank does over payments.",
+  "unplaced": "Nothing found since October 2023 says what the central bank does over payments."
+ }
 }

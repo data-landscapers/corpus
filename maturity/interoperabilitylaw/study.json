@@ -230,5 +230,9 @@
     }
   ],
   "flags": [],
-  "searched": "2026-11-10"
+  "searched": "2026-11-10",
+ "ladder": {
+  "counter": "own",
+  "why": "A bespoke rule in scripts/study-ladder-interoperabilitylaw.py, not yet moved into a shared counter; it moves at the study's next whole rebuild (R172)."
+ }
 }

@@ -75,5 +75,8 @@
    ]
   }
  ],
- "flags": []
+ "flags": [],
+ "ladder": {
+  "counter": "figure"
+ }
 }

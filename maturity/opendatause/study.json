@@ -115,5 +115,9 @@
   }
  ],
  "flags": [],
- "searched": "2026-11-12"
+ "searched": "2026-11-12",
+ "ladder": {
+  "counter": "own",
+  "why": "A bespoke rule in scripts/study-ladder-opendatause.py, not yet moved into a shared counter; it moves at the study's next whole rebuild (R172)."
+ }
 }

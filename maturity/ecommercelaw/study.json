@@ -258,5 +258,9 @@
     }
   ],
   "flags": [],
-  "searched": "2026-11-02"
+  "searched": "2026-11-02",
+ "ladder": {
+  "counter": "own",
+  "why": "A bespoke rule in scripts/study-ladder-ecommercelaw.py, not yet moved into a shared counter; it moves at the study's next whole rebuild (R172)."
+ }
 }

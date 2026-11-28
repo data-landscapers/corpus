@@ -109,5 +109,18 @@
   }
  ],
  "flags": [],
- "searched": "2026-10-31"
+ "searched": "2026-10-31",
+ "ladder": {
+  "counter": "first",
+  "sub": "publicskills",
+  "gaps": {
+   "4": "No source found since October 2023 gives a measured share of half or more of adults with basic digital skills.",
+   "3": "No source found since October 2023 gives a measured share of people with basic digital skills.",
+   "2": "No source found since October 2023 says: is one in service and counted.",
+   "1": "No source found since October 2023 says: is a national digital-skills programme under way.",
+   "5": ""
+  },
+  "empty": "Nothing found says whether the public is taught digital skills.",
+  "unplaced": "Nothing found since October 2023 says whether a national digital-skills programme is under way or in service."
+ }
 }

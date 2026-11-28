@@ -107,5 +107,18 @@
   }
  ],
  "flags": [],
- "searched": "2026-11-13"
+ "searched": "2026-11-13",
+ "ladder": {
+  "counter": "first",
+  "sub": "displaced",
+  "gaps": {
+   "4": "No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.",
+   "3": "No source found since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+   "2": "No source found since October 2023 says: are they registered and documented.",
+   "1": "No source found since October 2023 says: is registration or digital inclusion under way.",
+   "5": ""
+  },
+  "empty": "Nothing found says whether refugees or displaced people are registered or can use digital services.",
+  "unplaced": "Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services."
+ }
 }

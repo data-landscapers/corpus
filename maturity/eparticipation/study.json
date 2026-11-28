@@ -114,5 +114,18 @@
   }
  ],
  "flags": [],
- "searched": "2026-11-03"
+ "searched": "2026-11-03",
+ "ladder": {
+  "counter": "first",
+  "sub": "eparticipation",
+  "gaps": {
+   "4": "No source found since October 2023 says a rule requires drafts to be put online for public comment.",
+   "3": "No source found since October 2023 says the government published what it was told in an online consultation.",
+   "2": "No source found since October 2023 says: is a standing online channel in service.",
+   "1": "No source found since October 2023 says: has the government asked the public for views online.",
+   "5": ""
+  },
+  "empty": "Nothing found says whether the public takes part in making policy online.",
+  "unplaced": "Nothing found since October 2023 says whether the government has asked the public for views online."
+ }
 }

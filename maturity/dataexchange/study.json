@@ -115,5 +115,18 @@
   }
  ],
  "flags": [],
- "searched": "2026-10-28"
+ "searched": "2026-10-28",
+ "ladder": {
+  "counter": "first",
+  "sub": "exchange",
+  "gaps": {
+   "4": "No source found since October 2023 gives a figure for the exchanges through the platform.",
+   "3": "No source found since October 2023 counts ten or more institutions or systems connected.",
+   "2": "No source found since October 2023 says the platform is in service.",
+   "1": "No source found since October 2023 says a government data exchange platform is under way.",
+   "5": ""
+  },
+  "empty": "Nothing found names a government data exchange platform, or says there is none.",
+  "unplaced": "Nothing found since October 2023 names a government data exchange platform."
+ }
 }

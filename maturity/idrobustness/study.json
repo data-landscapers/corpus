@@ -145,5 +145,9 @@
   }
  ],
  "flags": [],
- "searched": "2026-11-08"
+ "searched": "2026-11-08",
+ "ladder": {
+  "counter": "own",
+  "why": "A bespoke rule in scripts/study-ladder-idrobustness.py, not yet moved into a shared counter; it moves at the study's next whole rebuild (R172)."
+ }
 }

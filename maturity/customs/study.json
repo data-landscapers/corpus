@@ -114,5 +114,18 @@
   }
  ],
  "flags": [],
- "source_dated": ["system", "window", "exchange"]
+ "source_dated": ["system", "window", "exchange"],
+ "ladder": {
+  "counter": "first",
+  "sub": "customs",
+  "gaps": {
+   "4": "No source found since October 2023 says customs exchanges data through a system open to its whole regional community.",
+   "3": "No source found since October 2023 says a trade single window is in service.",
+   "2": "No source found since October 2023 says: are declarations processed electronically.",
+   "1": "No source found since October 2023 says: is an automated customs system under way.",
+   "5": ""
+  },
+  "empty": "Nothing found says how customs declarations are processed.",
+  "unplaced": "Nothing found since October 2023 says whether customs declarations are processed electronically."
+ }
 }

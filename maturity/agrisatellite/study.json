@@ -114,5 +114,18 @@
  ],
  "flags": [],
  "source_dated": ["service", "published"],
- "searched": "2026-11-23"
+ "searched": "2026-11-23",
+ "ladder": {
+  "counter": "first",
+  "sub": "agrisat",
+  "gaps": {
+   "4": "No source found since October 2023 counts farmers or districts reached by satellite-based advice or alerts.",
+   "3": "No source found since October 2023 says a satellite-based farming service publishes on a schedule.",
+   "2": "No source found since October 2023 says: is a service in use.",
+   "1": "No source found since October 2023 says: is satellite data being put to use in farming.",
+   "5": ""
+  },
+  "empty": "Nothing found says whether satellite data is used in farming.",
+  "unplaced": "Nothing found since October 2023 says whether satellite data is used in farming."
+ }
 }

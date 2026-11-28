@@ -118,5 +118,18 @@
     }
   ],
   "flags": [],
-  "searched": "2026-10-24"
+  "searched": "2026-10-24",
+ "ladder": {
+  "counter": "first",
+  "sub": "civil",
+  "gaps": {
+   "4": "No source found since October 2023 puts birth registration at 90% or more.",
+   "3": "No source found since October 2023 says deaths are registered in the digital system.",
+   "2": "No source found since October 2023 says: are births registered digitally across the country.",
+   "1": "No source found since October 2023 says: is digital civil registration under way.",
+   "5": ""
+  },
+  "empty": "Nothing found says how births and deaths are registered.",
+  "unplaced": "Nothing found since October 2023 says whether births are registered digitally."
+ }
 }

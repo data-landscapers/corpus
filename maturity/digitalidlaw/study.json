@@ -196,5 +196,9 @@
     }
   ],
   "flags": [],
-  "searched": "2026-10-31"
+  "searched": "2026-10-31",
+ "ladder": {
+  "counter": "own",
+  "why": "A bespoke rule in scripts/study-ladder-digitalidlaw.py, not yet moved into a shared counter; it moves at the study's next whole rebuild (R172)."
+ }
 }

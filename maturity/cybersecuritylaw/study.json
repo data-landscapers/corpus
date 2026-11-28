@@ -109,5 +109,9 @@
       ]
     }
   ],
-  "flags": []
+  "flags": [],
+ "ladder": {
+  "counter": "own",
+  "why": "A bespoke rule in scripts/study-ladder-cybersecuritylaw.py, not yet moved into a shared counter; it moves at the study's next whole rebuild (R172)."
+ }
 }

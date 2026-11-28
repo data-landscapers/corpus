@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 r"""study_first_ladder.py — the ladder of a first-pass study whose four questions are three aspects.
 
-    python scripts/study-ladder-dataexchange.py --as-at 2026-09-30
+    python scripts/study-ladder.py dataexchange --as-at 2026-09-30
 
 `maturity/documentation/first-pass-batch.md`. The Data Exchange batch of 2026-10-16 asks the
-same shape of question five times, so one counter serves the five studies and each
-`study-ladder-{id}.py` names its own aspects:
+same shape of question five times, so one counter serves the five studies and each study's
+`study.json` → `ladder` names its own sub-indicator and texts:
 
 1. **Under way**: the first aspect at `underway`, or a yes to any later question.
 2. **In service**: the first aspect at `inservice`.
@@ -24,7 +24,7 @@ the last question answered in an unbroken run from question 1. `inservice` still
 does not answer; the stage's sources are that question's own rows, else the later yes that
 answered it. Stage 1 is the first aspect at `none` with no other yes. Every window is three years, except for the rows the held cell cites (`carried`); a fact dated after the as-at
 sets nothing, and a year or a month stands for its last day; a row of class `other` answers nothing. `corrections.csv` (`removed`, or `revalued: aspect:value`)
-is applied to `evidence.csv` first, once, as `study-ladder-opendatause.py` does. Writes each
+is applied to `evidence.csv` first, once. Writes each
 `stage.json` and `ladder-test.csv`.
 
 Exit: 0 written, 2 the study cannot be read.

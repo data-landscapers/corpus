@@ -168,5 +168,9 @@
   }
  ],
  "flags": [],
- "searched": "2026-11-27"
+ "searched": "2026-11-27",
+ "ladder": {
+  "counter": "own",
+  "why": "A bespoke rule in scripts/study-ladder-admindata.py, not yet moved into a shared counter; it moves at the study's next whole rebuild (R172)."
+ }
 }

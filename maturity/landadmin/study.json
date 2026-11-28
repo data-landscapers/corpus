@@ -114,5 +114,18 @@
   }
  ],
  "flags": [],
- "searched": "2026-11-11"
+ "searched": "2026-11-11",
+ "ladder": {
+  "counter": "first",
+  "sub": "landmis",
+  "gaps": {
+   "4": "No source found since October 2023 says land or property tax is assessed or paid through the land system.",
+   "3": "No source found since October 2023 says the land system joins records to survey maps or valuation.",
+   "2": "No source found since October 2023 says: are land transactions processed electronically.",
+   "1": "No source found since October 2023 says: is a land information system under way.",
+   "5": ""
+  },
+  "empty": "Nothing found says how land transactions are processed.",
+  "unplaced": "Nothing found since October 2023 says whether land transactions are processed electronically."
+ }
 }

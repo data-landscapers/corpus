@@ -116,5 +116,18 @@
   }
  ],
  "flags": [],
- "searched": "2026-11-11"
+ "searched": "2026-11-11",
+ "ladder": {
+  "counter": "first",
+  "sub": "justice",
+  "gaps": {
+   "4": "No source found since October 2023 says judgments are published or case status can be looked up online.",
+   "3": "No source found since October 2023 says cases can be filed with the courts online.",
+   "2": "No source found since October 2023 says: do courts manage cases electronically.",
+   "1": "No source found since October 2023 says: is a court case management system under way.",
+   "5": ""
+  },
+  "empty": "Nothing found says how courts manage their cases.",
+  "unplaced": "Nothing found since October 2023 says whether courts manage cases electronically."
+ }
 }

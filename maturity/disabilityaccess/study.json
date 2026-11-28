@@ -111,5 +111,18 @@
    ]
   }
  ],
- "flags": []
+ "flags": [],
+ "ladder": {
+  "counter": "first",
+  "sub": "accessibility",
+  "gaps": {
+   "4": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
+   "3": "No source found since October 2023 says accessible digital services or assistive technology were delivered.",
+   "2": "No source found since October 2023 says: is a rule in force.",
+   "1": "No source found since October 2023 says: is digital accessibility under way.",
+   "5": ""
+  },
+  "empty": "Nothing found says whether information and digital services are made accessible to persons with disabilities.",
+  "unplaced": "Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities."
+ }
 }

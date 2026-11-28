@@ -112,5 +112,18 @@
   }
  ],
  "flags": [],
- "searched": "2026-11-13"
+ "searched": "2026-11-13",
+ "ladder": {
+  "counter": "first",
+  "sub": "socialmis",
+  "gaps": {
+   "4": "No source found since October 2023 says one information system serves several social programmes.",
+   "3": "No source found since October 2023 says the programme's system pays beneficiaries electronically.",
+   "2": "No source found since October 2023 says: is a programme run on one.",
+   "1": "No source found since October 2023 says: is a programme management information system under way.",
+   "5": ""
+  },
+  "empty": "Nothing found says how social programmes are administered.",
+  "unplaced": "Nothing found since October 2023 says whether a social programme runs on an information system."
+ }
 }

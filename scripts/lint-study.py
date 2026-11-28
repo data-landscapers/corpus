@@ -246,24 +246,32 @@ LADDER_HELD = {
 
 
 def ladder_problems(sid: str, study: dict, rows: list[dict]) -> list[str]:
-    """**The ladder agrees with the page** (housekeeping 73): where `study-ladder-{id}.py` counts
-    by `study_first_ladder`, its stage for each country, counted at the cell's own as-at, is the
+    """**The ladder agrees with the page** (housekeeping 73): where the study's ladder counts by
+    `study_first_ladder` (its `study.json` → `ladder` names `first`, or an `own` script calls it), its stage for each country, counted at the cell's own as-at, is the
     published one. A disagreement means a row valued against its fact, a rule the script lacks or
     a published cell that is wrong, and a full ladder run would silently move it."""
     import datetime as dt
     import importlib.util
-    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), f"study-ladder-{sid}.py")
-    try:
-        src = open(path, encoding="utf-8").read()
-    except OSError:
-        return []
-    if "study_first_ladder" not in src:
-        return []
     import study_first_ladder as sfl
-    spec = importlib.util.spec_from_file_location("ladder_" + sid, path)
-    mod = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(mod)
-    stager = getattr(mod, "stage", None) if "stager=stage" in src else sfl.stage
+    block = study.get("ladder") or {}
+    if block.get("counter") == "first":
+        sub, gaps, empty, unplaced, stager = (block["sub"], block["gaps"], block["empty"],
+                                              block["unplaced"], sfl.stage)
+    elif block.get("counter") == "own":
+        path = os.path.join(os.path.dirname(os.path.abspath(__file__)), f"study-ladder-{sid}.py")
+        try:
+            src = open(path, encoding="utf-8").read()
+        except OSError:
+            return []
+        if "study_first_ladder" not in src:
+            return []
+        spec = importlib.util.spec_from_file_location("ladder_" + sid, path)
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        stager = getattr(mod, "stage", None) if "stager=stage" in src else sfl.stage
+        sub, gaps, empty, unplaced = mod.SUB, mod.GAPS, mod.EMPTY, mod.UNPLACED
+    else:
+        return []
     dates = [r["as_at"] for r in rows if r.get("as_at")]
     if not dates:
         return []
@@ -275,9 +283,9 @@ def ladder_problems(sid: str, study: dict, rows: list[dict]) -> list[str]:
         ev, _ = sfl.correct(study_lib.read_csv(os.path.join(here, "evidence", iso, "evidence.csv")),
                             [f for f in fixes if f["iso3"] == iso])
         sp = os.path.join(here, "evidence", iso, "stage.json")
-        cell = study_lib.held_cells(sp).get(mod.SUB)
-        at = study_lib.counted_at(sp, as_at, mod.SUB)
-        got = str(stager(study, sfl.carried(ev, cell), at, mod.GAPS, mod.EMPTY, mod.UNPLACED)["stage"])
+        cell = study_lib.held_cells(sp).get(sub)
+        at = study_lib.counted_at(sp, as_at, sub)
+        got = str(stager(study, sfl.carried(ev, cell), at, gaps, empty, unplaced)["stage"])
         pub = str((cell or {}).get("stage", "(none)"))
         held = LADDER_HELD.get((sid, iso))
         if got != pub and not held:

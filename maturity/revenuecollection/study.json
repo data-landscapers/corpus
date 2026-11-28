@@ -152,5 +152,18 @@
  ],
  "flags": [],
  "source_dated": ["payment", "main"],
-  "searched": "2026-11-13"
+  "searched": "2026-11-13",
+ "ladder": {
+  "counter": "first",
+  "sub": "revenue",
+  "gaps": {
+   "4": "No source found since October 2023 gives a figure for revenue paid electronically.",
+   "3": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
+   "2": "No source found since October 2023 says: can some taxes or fees be paid electronically.",
+   "1": "No source found since October 2023 says: is electronic payment of taxes or fees under way.",
+   "5": ""
+  },
+  "empty": "Nothing found says how taxes and fees are paid.",
+  "unplaced": "Nothing found since October 2023 says whether taxes or fees can be paid electronically."
+ }
 }

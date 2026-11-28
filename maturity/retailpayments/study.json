@@ -143,5 +143,18 @@
   }
  ],
  "flags": [],
- "searched": "2026-11-13"
+ "searched": "2026-11-13",
+ "ladder": {
+  "counter": "first",
+  "sub": "retail",
+  "gaps": {
+   "4": "No source found since October 2023 says a national switch connects wallets and bank accounts.",
+   "3": "No source found since October 2023 says payments between providers, or between wallets and banks, are in service.",
+   "2": "No source found since October 2023 says: are people paying by mobile money or e-money.",
+   "1": "No source found since October 2023 says: is a mobile money service starting.",
+   "5": ""
+  },
+  "empty": "Nothing found names a mobile money service, or says there is none.",
+  "unplaced": "Nothing found since October 2023 says whether mobile money is in service."
+ }
 }

@@ -89,5 +89,8 @@
   }
  ],
  "flags": [],
- "searched": "2026-11-13"
+ "searched": "2026-11-13",
+ "ladder": {
+  "counter": "figure"
+ }
 }

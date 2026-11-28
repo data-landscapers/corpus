@@ -163,5 +163,18 @@
    ]
   }
  ],
- "flags": []
+ "flags": [],
+ "ladder": {
+  "counter": "first",
+  "sub": "link",
+  "gaps": {
+   "4": "No source found since October 2023 gives a figure for records exchanged between the two.",
+   "3": "No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+   "2": "No source found since October 2023 says: is one link in service.",
+   "1": "No source found since October 2023 says: is a link under way.",
+   "5": ""
+  },
+  "empty": "Nothing found says whether the civil register and the ID system are linked.",
+  "unplaced": "Nothing found since October 2023 says whether the civil register and the ID system are linked."
+ }
 }
