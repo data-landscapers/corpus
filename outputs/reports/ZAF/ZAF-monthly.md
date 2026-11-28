@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: ZAF
 ledger_rows: 139
 not_held: 17
-record: 7c0c1549aa16
+record: d835f1cbc3ef
 ---
 
 # News, Oct – Nov 2026
@@ -940,7 +940,7 @@ South Africa's domain registry reports 1.5 million active registrations across i
 
 **[International Relations Committee Welcomes Progress Report on Digitalisation of South Africa’s Embassies](https://www.parliament.gov.za/news/international-relations-committee-welcomes-progress-report-digitalisation-south-africas-embassies)** — Parliament of South Africa, 27 November 2026
 
-Three data centres in Pretoria, Washington DC and London; mission travel app; ETA ends visa-printer failures.
+South Africa's Department of International Relations and Cooperation told Parliament's international relations committee it has set up three data centres, in Pretoria, Washington DC and London. They belong to its ICT modernisation project for foreign missions. A travel app is being launched. An electronic travel authorisation system is ending the use of failing visa-printing machines in missions.
 
 </div>
 

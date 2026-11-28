@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: infra.cybersec
 places: DZA; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; ZMB; ZWE
-record: b700bcc4ca42
+record: b3f3f8edf718
 ---
 
 # News, Oct – Nov 2026
@@ -685,6 +685,20 @@ Libya's Government of National Unity ordered the immediate temporary shutdown an
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybersecurity cooperation framework with the United States State Department</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tripoli Government Delegation Holds Economic and Security Talks in DC](https://libyaherald.com/2026/11/high-level-tripoli-government-delegation-to-washington-dc-holds-several-key-meetings)** — Libya Herald, 27 November 2026
+
+A delegation of the Tripoli government held talks in Washington. They discussed a cybersecurity cooperation framework between Libya's National Cybersecurity Authority and the US State Department. It covers threat monitoring, incident response and training. With the IMF, they discussed unifying Libya's two banking clearing and payment systems.
+
+</div>
+
+</div>
+
 ## Madagascar
 
 <div class="monthly-story" markdown="1">
@@ -937,6 +951,20 @@ Namibia's NAM-CSIRT, housed at the regulator CRAN, recorded 506,143 vulnerabilit
 **[Cybersecurity summit to focus on rising digital fraud](https://neweralive.na/cybersecurity-summit-to-focus-on-rising-digital-fraud/)** — New Era, 24 November 2026
 
 Namibia's bankers' association and central bank opened a fraud and cybersecurity summit in Windhoek on 24 November 2026. The central bank put payment fraud losses at N$32.45 million in the first half of 2026. Banks recorded 32,399 fraud incidents in the first quarter of 2026, up from 3,766 the quarter before.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Banking fraud losses</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bank of Namibia: N$50.3 million lost to fraud](https://www.namibian.com.na/bank-of-namibia-n50-3-million-lost-to-fraud/)** — The Namibian, 25 November 2026
+
+The Bank of Namibia says N$50.3 million was reported lost to fraud from January to October 2026, down from over N$65 million a year earlier. A TransUnion survey found 65% of Namibians had been targeted.
 
 </div>
 

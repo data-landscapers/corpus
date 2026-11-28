@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: TGO
 ledger_rows: 45
 not_held: 15
-record: 6e34aa7dfd2d
+record: bf46534d0e00
 ---
 
 # News, Oct – Nov 2026
@@ -466,7 +466,7 @@ Togo's Ministry of Territorial Planning and Urban Development put two new servic
 
 **[Urbanisme : deux nouvelles démarches accessibles en ligne](https://www.republiquetogolaise.tg/services-publics/2611-12536-urbanisme-deux-nouvelles-demarches-accessibles-en-ligne)** — République Togolaise (Togo Officiel), 26 November 2026
 
-Building-permit complaints and planning-decision appeals now filed on national public services portal.
+Togo's urban planning ministry added two procedures to the national public services portal. Users can now file a complaint about a building permit and appeal a planning decision online.
 
 </div>
 

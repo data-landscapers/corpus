@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: CMR
 ledger_rows: 43
 not_held: 3
-record: 6ad4faf886d9
+record: 1a1366091317
 ---
 
 # News, Oct – Nov 2026
@@ -58,7 +58,7 @@ The Minister of Posts and Telecommunications spoke at the World Bank's summit in
 
 **[Finance numérique: Un moteur pour l’inclusion financière](https://www.cameroon-tribune.cm/article.html/82982/fr.html/finance-numerique-un-moteur-pour-linclusion-financiere)** — Cameroon Tribune, 27 November 2026
 
-Lede only: 31m mobile-money accounts; FCFA 32,667bn moved in 2025; 61% of adults banked; 65% inclusion by 2027.
+Cameroon's Finance Minister opened the first digital finance fair, Safinum 2026, in Yaounde on 26 November 2026. The three-day event is run by the national economic and financial committee. Its theme is promoting fintech to speed financial inclusion. Cameroon had about 31 million mobile money accounts at the end of 2024.
 
 </div>
 
@@ -66,7 +66,7 @@ Lede only: 31m mobile-money accounts; FCFA 32,667bn moved in 2025; 61% of adults
 
 **[Funding Shortfalls Delay Cameroon’s CFA21.2 Billion Digital Finance Transformation Program](https://www.businessincameroon.com/finance/2711-17286-funding-shortfalls-delay-cameroon-s-cfa21-2-billion-digital-finance-transformation-program)** — Business in Cameroon, 27 November 2026
 
-Most of 36 roadmap activities unstarted at end-2025; funding gaps; Cameroon 77% of CEMAC mobile-money value (2024).
+Cameroon's Finance Minister Louis Paul Motaze said on 26 November 2026 that the CFA21.245 billion programme to digitalise the financial sector is behind schedule. Most of its 36 activities had not begun by the end of 2025. He attributed this partly to insufficient funding and to governance bodies not being set up. He spoke at the opening of the SAFINUM digital finance exhibition in Yaounde.
 
 </div>
 
@@ -80,7 +80,7 @@ Most of 36 roadmap activities unstarted at end-2025; funding gaps; Cameroon 77% 
 
 **[STRATEGIC PERFORMANCE PLAN 2026–2030: A NEW ERA FOR DIGITAL REGULATION IN CAMEROON](https://art.cm/en/article/strategic-performance-plan-2026%E2%80%932030-new-era-digital-regulation-cameroon)** — Telecommunications Regulatory Board (TRB), Cameroon, 27 November 2026
 
-Board adoption 27 Nov 2026; succeeds 2022–2025 plan; performance model, measured service quality, reliable data.
+Cameroon's telecoms regulator adopted its 2026-2030 Strategic Performance Plan at its 71st extraordinary board session on 27 November 2026. The plan succeeds the 2022-2025 plan and follows a decree of 29 December 2025 on strategic planning in public institutions. It stresses reliable data production, data sharing with government and digitalised operations.
 
 </div>
 
@@ -88,7 +88,7 @@ Board adoption 27 Nov 2026; succeeds 2022–2025 plan; performance model, measur
 
 **[TRB Refines Its Strategic Vision for the 2026–2030 Period](https://art.cm/en/article/trb-refines-its-strategic-vision-2026%E2%80%932030-period)** — Telecommunications Regulatory Board (TRB), Cameroon, 27 November 2026
 
-CFAF 420.6bn envelope; 85% broadband coverage by 2030; QoS monitoring in 25 cities; four pillars.
+Cameroon's Telecommunications Regulatory Board held a working session on 26 November 2026 in Mbankomo to review its 2026-2030 Strategic Performance Plan. The plan succeeds the 2022-2025 Strategic Development Plan. It follows the alignment framework of the Ministry of Economy, Planning and Regional Development.
 
 </div>
 
@@ -672,7 +672,7 @@ News du Cameroun reported that by September 2026 only 60 of 432 principal civil 
 
 **[Cameroon to verify over 580,000 birth certificates in family allowance audit](https://www.biometricupdate.com/202611/cameroon-to-verify-over-580000-birth-certificates-in-family-allowance-audit)** — Biometric Update, 26 November 2026
 
-580,856 of 968,275 certificates collected; BUNEC cross-check next; FCFA 27.9bn yearly saving projected.
+Cameroon's finance ministry has collected 580,856 birth certificates of an expected 968,275 for its family allowance audit. A second phase will check them against civil registration centres with BUNEC. The ministry projects a saving of FCFA 27.9 billion a year.
 
 </div>
 
@@ -732,7 +732,7 @@ Cameroon's public-service minister Joseph Le reviewed the servicepublic.gov.cm p
 
 **[servicepublic.gov.cm: Cameroon's public services move towards a digital future](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2400-servicepublic-gov-cm-cameroon-s-public-services-move-towards-a-digital-future)** — MINFOPRA, 11 November 2026
 
-~1,250 procedures from 40 institutions in 25 categories; built by ADWA SARL; launch set 18 Dec 2026; CAMTEL hosts.
+Cameroon's civil service ministry held a validation meeting on 10 November 2026 for its national public service portal. The portal lists about 1,250 procedures from 40 institutions in 25 categories. ADWA SARL built it, CAMTEL hosts it, and launch is set for 18 December 2026.
 
 </div>
 

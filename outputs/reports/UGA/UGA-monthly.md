@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: UGA
 ledger_rows: 67
 not_held: 11
-record: 16b2548151ed
+record: a5c1c0f60e96
 ---
 
 # News, Oct – Nov 2026
@@ -960,7 +960,7 @@ Uganda's President moved ICT Permanent Secretary Aminah Zawedde to the Office of
 
 **[NITA-U revamps district websites to bring services closer to citizens](https://www.monitor.co.ug/uganda/news/national/nita-u-revamps-district-websites-to-bring-services-closer-to-citizens-5684672)** — Daily Monitor, 26 November 2026
 
-IT officers from 145 districts trained on new website template; unfunded IT units, districts off the backbone.
+NITA-U began training IT officers from 145 districts on a new district website template. District officers cited unfunded IT units and districts not yet connected to the national backbone.
 
 </div>
 

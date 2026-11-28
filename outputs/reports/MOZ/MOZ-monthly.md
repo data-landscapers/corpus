@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: MOZ
 ledger_rows: 49
 not_held: 17
-record: 9b32e7c933b4
+record: 27a58c3f0d15
 ---
 
 # News, Oct – Nov 2026
@@ -116,7 +116,7 @@ Mozambique's draft National Digital Transformation Strategy of 22 August 2026 st
 
 **[Governo quer abandonar sistemas digitais isolados e apostar em infra-estruturas partilhadas](https://aimnews.org/2026/11/26/governo-quer-abandonar-sistemas-digitais-isolados-e-apostar-em-infra-estruturas-partilhadas/)** — Agência de Informação de Moçambique (AIM), 26 November 2026
 
-eGov Global-facilitated workshop; DPI Blue Book, three use cases, Centre of Excellence; data bill before parliament.
+Mozambique's digital transformation ministry opened a workshop facilitated by eGov Global in Maputo. It is to agree a national DPI Blue Book, three sector use cases and a proposed DPI Centre of Excellence. A data bill is before parliament.
 
 </div>
 
@@ -572,7 +572,7 @@ The governor of Banco de Moçambique said on 28 October 2026 that the METIX inst
 
 **[Inquérito FinScope às Micro, Pequenas e Médias Empresas — Moçambique 2025 (Relatório)](https://clubofmozambique.com/wp-content/uploads/2026/11/Portuguese_FinScope_MSME_Mozambique_2025-VF.pdf)** — FSD Moçambique (Financial Sector Deepening Moçambique), Banco de Moçambique and INE, with FinMark Trust, 19 November 2026
 
-5.2m owners, 5.9m firms, 12% formal; 88% financially included, 87% on mobile money, 19% banked; 42% use any technology.
+The FinScope survey counts 5.2 million MSME owners and 5.9 million firms in Mozambique, of which 12% are formal. It finds 88% of owners financially included, 87% using mobile money and 19% banked. Only 42% use any technology.
 
 </div>
 

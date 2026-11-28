@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: gov.regional
-places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; DJI; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: f6d24e545a17
+places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; DJI; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
+record: 1d59bd953052
 ---
 
 # News, Oct – Nov 2026
@@ -73,6 +73,8 @@ record: f6d24e545a17
 <a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -246,6 +248,28 @@ Telecom operators of the West African Economic and Monetary Union (UEMOA) met in
 **[Télécommunications dans l’UEMOA : Les acteurs plaident pour une intégration encadrée des satellites en orbite basse](https://lequotidien.mr/telecommunications-dans-luemoa-les-acteurs-plaident-pour-une-integration-encadree-des-satellites-en-orbite-basse/)** — Le Quotidien (Mauritania), 24 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The WAEMU Commission plans to hire consultants from early 2027 to study a satellite network of its own. The plan was reported at COFTEL's general assembly in Ouagadougou, 23-26 November 2026. Operators and regulators there asked that low-orbit satellite operators carry the same licensing, tax and data-protection duties as local ones.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Confederation of Sahel States framework convention on digital and postal cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AES : Le Burkina Faso, le Mali et le Niger valident une convention de coopération dans le numérique et la poste](https://burkina24.com/2026/11/27/aes-le-burkina-faso-le-mali-et-le-niger-valident-une-convention-de-cooperation-dans-le-numerique-et-la-poste/)** — Burkina24, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Ministers for digital affairs and posts of Burkina Faso, Mali and Niger validated a draft framework convention on cooperation in these fields in Ouagadougou on 27 November 2026. It would give the three Alliance of Sahel States members a legal framework for cooperation. It aims at interconnecting their digital and postal platforms and building a secure digital space.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[L'AES se dotent d’un cadre commun de coopération dans le Numérique et les Postes](https://www.wakatsera.com/laes-se-dotent-dun-cadre-commun-de-cooperation-dans-le-numerique-et-les-postes/)** — Wakat Séra, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Burkina Faso, Mali and Niger signed a framework convention on digital and postal cooperation in Ouagadougou on 27 November 2026. It covers shared digital infrastructure, connectivity, cybersecurity, e-government, AI and training. It also covers postal network interconnection and the PosTransfer money-transfer platform. A technical committee of the Alliance of Sahel States is to prepare implementing conventions.
 
 </div>
 
@@ -901,6 +925,28 @@ Maliweb reported on 8 November 2026 that Bamako hosted the second coordination m
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Confederation of Sahel States framework convention on digital and postal cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AES : Le Burkina Faso, le Mali et le Niger valident une convention de coopération dans le numérique et la poste](https://burkina24.com/2026/11/27/aes-le-burkina-faso-le-mali-et-le-niger-valident-une-convention-de-cooperation-dans-le-numerique-et-la-poste/)** — Burkina24, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Ministers for digital affairs and posts of Burkina Faso, Mali and Niger validated a draft framework convention on cooperation in these fields in Ouagadougou on 27 November 2026. It would give the three Alliance of Sahel States members a legal framework for cooperation. It aims at interconnecting their digital and postal platforms and building a secure digital space.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[L'AES se dotent d’un cadre commun de coopération dans le Numérique et les Postes](https://www.wakatsera.com/laes-se-dotent-dun-cadre-commun-de-cooperation-dans-le-numerique-et-les-postes/)** — Wakat Séra, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Burkina Faso, Mali and Niger signed a framework convention on digital and postal cooperation in Ouagadougou on 27 November 2026. It covers shared digital infrastructure, connectivity, cybersecurity, e-government, AI and training. It also covers postal network interconnection and the PosTransfer money-transfer platform. A technical committee of the Alliance of Sahel States is to prepare implementing conventions.
+
+</div>
+
+</div>
+
 ## Mauritius
 
 <div class="monthly-story" markdown="1">
@@ -1040,6 +1086,28 @@ Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou 
 **[Numérique dans l’espace AES: la feuille de route de l’An II adoptée](https://www.sidwaya.info/2026/11/05/numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee/)** — Sidwaya, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The Alliance of Sahel States adopted the digital deliverables of its Confederation's Year II roadmap in Ouagadougou on 5 November 2026. Sixteen of 18 deliverables were finalised. A confederal network operations centre is due by 31 December 2028. Interconnection legal and tariff frameworks are to be harmonised by 30 June 2027. National cybersecurity response teams are to be funded from universal-service funds and regulatory fees.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Confederation of Sahel States framework convention on digital and postal cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AES : Le Burkina Faso, le Mali et le Niger valident une convention de coopération dans le numérique et la poste](https://burkina24.com/2026/11/27/aes-le-burkina-faso-le-mali-et-le-niger-valident-une-convention-de-cooperation-dans-le-numerique-et-la-poste/)** — Burkina24, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Ministers for digital affairs and posts of Burkina Faso, Mali and Niger validated a draft framework convention on cooperation in these fields in Ouagadougou on 27 November 2026. It would give the three Alliance of Sahel States members a legal framework for cooperation. It aims at interconnecting their digital and postal platforms and building a secure digital space.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[L'AES se dotent d’un cadre commun de coopération dans le Numérique et les Postes](https://www.wakatsera.com/laes-se-dotent-dun-cadre-commun-de-cooperation-dans-le-numerique-et-les-postes/)** — Wakat Séra, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Burkina Faso, Mali and Niger signed a framework convention on digital and postal cooperation in Ouagadougou on 27 November 2026. It covers shared digital infrastructure, connectivity, cybersecurity, e-government, AI and training. It also covers postal network interconnection and the PosTransfer money-transfer platform. A technical committee of the Alliance of Sahel States is to prepare implementing conventions.
 
 </div>
 
@@ -1328,6 +1396,22 @@ The ITU Plenipotentiary Conference in Doha elected 13 African countries to the I
 **[Nigeria expects six-country African digital trade accord this month, minister says](https://www.cnbcafrica.com/2026/nigeria-expects-six-country-african-digital-trade-accord-this-month-minister-says)** — CNBC Africa (Reuters), 16 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
 Nigeria's trade minister, Jumoke Oduwole, told Reuters on 16 November 2026 that Nigeria expects to sign a digital-services accord this month. The other parties are Ghana, Rwanda, Kenya, South Africa and Egypt. It would ease expansion by digital-service firms across those markets. She gave no terms.
+
+</div>
+
+</div>
+
+## Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central bank memorandum with the Central Bank of Egypt</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[محافظ بنك السودان المركزي توقع مذكرة تفاهم مع محافظ البنك المركزي المصري](https://cbos.gov.sd/ar/news/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%AA%D9%88%D9%82%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%85%D8%B9-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A)** — Central Bank of Sudan, 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
+
+The central banks of Sudan and Egypt signed a memorandum of understanding in Cairo on 26 November 2026. It covers settlement of trade payments, exchange of supervisory data and cooperation on payment systems.
 
 </div>
 

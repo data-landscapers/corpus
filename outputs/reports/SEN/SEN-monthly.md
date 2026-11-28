@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: SEN
 ledger_rows: 72
 not_held: 2
-record: 4647aba4f4f3
+record: 10dd59cb5e9b
 ---
 
 # News, Oct – Nov 2026
@@ -108,7 +108,7 @@ The manager of Senegal's national data centre at Diamniadio said 10% to 20% of t
 
 **[RESTIC warns of delays in Senegal’s data strategy](https://www.socialnetlink.org/2026/11/27/restic-senegal-national-data-strategy-delays/)** — Socialnetlink, 27 November 2026
 
-Industry group's five priorities incl. data-governance authority, data repatriation; no sovereign-data framework law.
+Senegal's ICT business grouping RESTIC called in November 2026 for an urgent review of the National Data Strategy 2023-2028. It says the data-governance authority, the data-sharing platform, data-centre upgrades and data repatriation are behind schedule. It also says no framework law on sovereign data or data-centre regulation exists. It names no missed milestone.
 
 </div>
 
@@ -124,7 +124,7 @@ Industry group's five priorities incl. data-governance authority, data repatriat
 
 **[Loi n° 2026-20 du 10 septembre 2026 sur la protection des Infrastructures d'Information critiques et la sécurité numérique](https://www.vie-publique.sn/docs/83318790-e7fb-46b2-b193-928873e16474/JO-7939-du-17-octobre-2026.pdf)** — République du Sénégal — Journal officiel (Imprimerie nationale), 17 October 2026
 
-55 articles; CII regime under a national cybersecurity authority; state data hosted in Senegal; 24-hour incident notice.
+Senegal's Law 2026-20 of 10 September 2026 has 55 articles. It sets a regime for critical information infrastructure under a national cybersecurity authority, requires state data to be hosted in Senegal, and sets a 24-hour deadline for incident notice.
 
 </div>
 
@@ -132,7 +132,7 @@ Industry group's five priorities incl. data-governance authority, data repatriat
 
 **[Cybersécurité : publication de la loi n° 2026-20 sur la sécurité numérique](https://www.osiris.sn/cybersecurite-publication-de-la-loi-no-2026-20-sur-la-securite-numerique.html)** — OSIRIS, 27 November 2026
 
-National Cybersecurity Authority, critical-infrastructure duties, 24-hour incident reporting, licensed providers.
+Senegal published Law No. 2026-20 on digital security in its Journal officiel. It sets up a National Cybersecurity Authority. Operators of critical infrastructure must name information-security officers, run audits and continuity plans, and notify incidents within 24 hours. Cybersecurity providers are to be licensed.
 
 </div>
 
@@ -1266,7 +1266,7 @@ Summarised under [Data Storage](#data-storage).
 
 **[Senegal signs MoU with Presight on AI and sovereign cloud](https://www.socialnetlink.org/2026/11/27/senegal-uae-presight-mou-ai-sovereign-cloud/)** — Socialnetlink, 27 November 2026
 
-Signed 24 Nov 2026 at Senegal–UAE joint commission; remote ID verification, sovereign cloud, civil-servant training.
+Senegal's telecoms and digital ministry signed a memorandum of understanding with the Emirati AI firm Presight in Dakar on 24 November 2026. It was signed at the third Senegal-UAE Joint Cooperation Commission. It covers simpler administrative procedures, remote identity verification, civil-servant training, sovereign cloud and SME e-commerce. No sum was stated.
 
 </div>
 

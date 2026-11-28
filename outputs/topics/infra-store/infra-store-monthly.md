@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: infra.store
 places: DZA; BWA; BFA; CMR; EGY; SWZ; ETH; GMB; GHA; KEN; LBY; MUS; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: 949b04d23c98
+record: 6a0bd9a85afe
 ---
 
 # News, Oct – Nov 2026
@@ -100,6 +100,20 @@ Algeria's higher-education minister, Kamel Baddari, met a Chinese delegation on 
 **[Sino-Algerian Consortium Wins $290 Million Data Center Contract](https://dzwatch.dz/en/algeria/sino-algerian-consortium-wins-290-million-data-center-contract)** — DZ Watch, 19 November 2026
 
 DZ Watch reported on 19 November 2026 that a consortium led by China Railway Construction Corporation and Huawei won a USD 290 million contract to build Algeria's national data centre and a disaster recovery centre. It reports that the consortium scored full marks in the tender. The awarding authority and award date are not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Agency for the Development of Data Centres</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Décrets présidentiels n° 26-359, 26-362 et 26-363 : autorité nationale de certification électronique, agence nationale de développement des centres de données, agence nationale de développement des systèmes d'information et des solutions numériques](https://www.joradp.dz/FTP/jo-francais/2026/F2026081.pdf)** — Journal officiel de la République algérienne (Secrétariat général du Gouvernement), 22 November 2026
+
+Algeria published three presidential decrees in Journal officiel no. 81. They create agencies for data centres and for information systems and digital solutions under the digitalisation commission, and reorganise the national electronic certification authority.
 
 </div>
 
@@ -530,6 +544,29 @@ Niger's national information society agency ANSI inspected the site of the natio
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Nigeria-Togo data park</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria and Togo Sign Memorandum of Understanding to Develop Twinned Data Park](https://fmcide.gov.ng/nigeria-and-togo-sign-memorandum-of-understanding-to-develop-twinned-data-park/)** — Federal Ministry of Communications, Innovation and Digital Economy (Nigeria), 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
+
+Nigeria and Togo signed a memorandum of understanding in Lagos on 26 November 2026 to develop twinned data parks. Nigeria's would sit on land beside Egbin Power Station, and Togo's would serve as a backup and disaster-recovery site. A joint special purpose vehicle with government and private equity would own them. The World Bank is engaged on assessment and structuring.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria, Togo Target $50m Data Parks To Retain West Africa's Digital Economy](https://leadership.ng/nigeria-togo-target-50m-data-parks-to-retain-west-africas-digital-economy/)** — Leadership, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
+
+Nigeria and Togo signed an agreement in Lagos on 26 November 2026 to develop interconnected data parks. The first phase is estimated at between $30 million and $50 million, with initial milestones targeted for the second quarter of 2027, subject to funding. The two governments plan a joint special purpose vehicle. The World Bank took part in the discussions.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">AFRIDATA Nigeria data centres, Lagos and Delta</p>
 
 <div class="bulletin-item" markdown="1">
@@ -802,6 +839,22 @@ Tanzania's ICT minister told a parliamentary committee on 17 November 2026 about
 **[Nigeria Targets Faster Artificial Intelligence Development](https://von.gov.ng/nigeria-targets-faster-artificial-intelligence-development/)** — Voice of Nigeria, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communications ministry announced plans for a Nigeria–Togo data park and wider fibre connectivity. It also proposed a continental scheme for countries to pool computing power for AI research.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria and Togo Sign Memorandum of Understanding to Develop Twinned Data Park](https://fmcide.gov.ng/nigeria-and-togo-sign-memorandum-of-understanding-to-develop-twinned-data-park/)** — Federal Ministry of Communications, Innovation and Digital Economy (Nigeria), 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Nigeria and Togo signed a memorandum of understanding in Lagos on 26 November 2026 to develop twinned data parks. Nigeria's would sit on land beside Egbin Power Station, and Togo's would serve as a backup and disaster-recovery site. A joint special purpose vehicle with government and private equity would own them. The World Bank is engaged on assessment and structuring.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria, Togo Target $50m Data Parks To Retain West Africa's Digital Economy](https://leadership.ng/nigeria-togo-target-50m-data-parks-to-retain-west-africas-digital-economy/)** — Leadership, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Nigeria and Togo signed an agreement in Lagos on 26 November 2026 to develop interconnected data parks. The first phase is estimated at between $30 million and $50 million, with initial milestones targeted for the second quarter of 2027, subject to funding. The two governments plan a joint special purpose vehicle. The World Bank took part in the discussions.
 
 </div>
 

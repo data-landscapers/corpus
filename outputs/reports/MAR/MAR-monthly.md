@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: MAR
 ledger_rows: 52
 not_held: 13
-record: 5db39db08b82
+record: 6b95f93f0056
 ---
 
 # News, Oct – Nov 2026
@@ -280,7 +280,7 @@ Morocco's AI and digital minister, Ahmed Rahhou, set out his ministry's 2027 pro
 
 **[AI & digital strategy: Ahmed Rahhou’s pragmatic blueprint](https://telquel.ma/2026/11/27/ai-digital-strategy-ahmed-rahhous-pragmatic-blueprint_2020171)** — TelQuel, 27 November 2026
 
-2027 Finance Bill: MAD 1.339bn to the ministry, 1.02bn to the modernisation fund; DGI AI audit agent, TijarIA.
+Morocco's Minister of Artificial Intelligence and Digital Transformation, Ahmed Rahhou, addressed the House of Representatives on 16 November 2026. He said Morocco will not compete with the firms building AI platforms, and will choose the stages where sovereignty is attainable. The AI Made in Morocco roadmap and Morocco Digital 2030 remain the framework. The January targets set by his predecessor were absent from his remarks.
 
 </div>
 
@@ -310,7 +310,7 @@ Morocco's Bulletin officiel of 1 October 2026 published decrees approving two Wo
 
 **[EBRD Project Summary Document 55857 — ONDA's digital transformation](https://www.ebrd.com/home/work-with-us/projects/psd/55857.html)** — European Bank for Reconstruction and Development, 23 November 2026
 
-EUR 80m EBRD finance of EUR 100m cost; board 2 Dec 2026; passenger-data protection lead and e-gate accessibility tests.
+The EBRD project summary describes a EUR 100 million programme for the Moroccan airports office ONDA, with EUR 80 million from the bank. It has a board date of 2 December 2026. The summary lists passenger-data protection and e-gate accessibility tests.
 
 </div>
 
@@ -318,7 +318,7 @@ EUR 80m EBRD finance of EUR 100m cost; board 2 Dec 2026; passenger-data protecti
 
 **[Aéroports : La BERD envisage un financement de 80 millions d’euros pour la digitalisation de l’ONDA](https://fnh.ma/articles/aeroports-la-berd-envisage-un-financement-de-80-millions-d-euros-pour-la-digitalisation-de-l-onda)** — Finances News Hebdo, 25 November 2026
 
-EUR 100m programme for 24 airports; e-gates, cybersecurity, data protection; EBRD board review 2 December 2026.
+The EBRD is due to consider EUR 80 million for the digital transformation of Morocco's airports operator ONDA on 2 December 2026. The EUR 100 million programme covers 24 airports, with e-gates, cybersecurity and personal-data protection.
 
 </div>
 
@@ -500,7 +500,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Protection sociale : la CMR et trois mutuelles s’allient pour simplifier les démarches des bénéficiaires](https://lenew.ma/protection-sociale-cmr-mutuelles-simplification-demarches/)** — LeNew.ma, 26 November 2026
 
-Services from March 2027; pension certificate replaced by direct data exchange; ACAPS oversight, Law 55-19.
+Morocco's civil pension fund CMR signed agreements with three mutual insurers under ACAPS supervision. Beneficiary data will pass directly between them, so members no longer need to supply a pension certificate. Services start in March 2027.
 
 </div>
 

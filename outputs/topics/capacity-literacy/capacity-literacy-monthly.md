@@ -1,10 +1,10 @@
 ---
 title: Literacy — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: capacity.literacy
 places: AGO; CPV; CIV; COD; EGY; GMB; GHA; GIN; LBR; MLI; MAR; NAM; NGA; RWA; SEN; SYC; SSD; SDN; TGO; TUN; UGA
-record: 23568c860692
+record: 5823263f798e
 ---
 
 # News, Oct – Nov 2026
@@ -108,6 +108,14 @@ On 23 November 2026, members of Côte d'Ivoire's Economic, Social, Environmental
 </div>
 
 
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire : Le ministre Djibril Ouattara veut former plus de 3 830 décideurs et élus à l’intelligence artificielle](https://www.koaci.com/article/2026/11/27/cote-divoire/technologie/cote-divoire-le-ministre-djibril-ouattara-veut-former-plus-de-3-830-decideurs-et-elus-a-lintelligence-artificielle_203124.html)** — KOACI, 27 November 2026
+
+Cote d'Ivoire's digital-transition ministry trained the heads and boards of its supervised bodies in AI in Abidjan on 26 November 2026. The session belongs to a national leaders' AI programme run with aivancity. The programme aims to reach more than 3,830 decision-makers and elected officials. It sits within the 2026-2028 digital roadmap.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -183,6 +191,7 @@ Google announced a US$2.4 million Google.org grant to INJAZ Al-Arab to take its 
 GICTA opened a two-week training programme in AI and software engineering for government ICT staff, financed by the World Bank's WARDIP project. It aims to produce in-house government systems, including a cabinet management system. Director General Abdou Karim Jallow said it should be built locally so that sensitive cabinet documents stay off external platforms.
 
 </div>
+
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: finance.mou
 places: BEN; BWA; BDI; CIV; COD; EGY; ETH; KEN; MUS; MOZ; NGA; SEN; ZAF; SDN; TZA; TUN; UGA
-record: 66f191a24604
+record: 192be1ef7c28
 ---
 
 # News, Oct – Nov 2026
@@ -115,6 +115,20 @@ Burundi's finance and digital economy minister met South Korea's science and ICT
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Memorandum on tax-administration cooperation with Russia's Federal Tax Service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FTS of Russia and Burundi’s Ministry of Finance, Budget and Digital Economy Sign Memorandum of Understanding and Technical Cooperation](https://www.nalog.gov.ru/eng/media/news/16679221/)** — Federal Tax Service of Russia, 26 November 2026
+
+Burundi's finance and digital economy ministry signed a memorandum with Russia's Federal Tax Service on 26 November 2026. It names three priorities: tax digitalisation, technical assistance and training. Russian VAT, cash-register and civil register systems were shown to the Burundian delegation.
+
+</div>
+
+</div>
+
 ## Cote d'Ivoire
 
 <div class="monthly-story" markdown="1">
@@ -204,6 +218,36 @@ Faydaverse, the state enterprise created from Ethiopia's national digital ID pro
 **[EU and Kenya hold successful digital dialogue](https://digital-strategy.ec.europa.eu/en/news/eu-and-kenya-hold-successful-digital-dialogue)** — European Commission (DG CONNECT), 24 November 2026
 
 The EU and Kenya held their Digital Dialogue in Brussels on 23-24 November 2026 and launched a cooperation roadmap. They agreed AI Factories partnerships on language diversity and agriculture. Technical work on digital identity will follow the EU Digital Identity Framework. Team Europe's pipeline is to bring aerial fibre to 3,000 schools, health centres and digital hubs.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Joint Communiqué — EU-Kenya Digital Dialogue (Brussels, 23-24 November 2026)](https://ec.europa.eu/newsroom/dae/redirection/document/135283)** — European Commission and Government of Kenya, 24 November 2026
+
+The EU and Kenya met in Brussels on 23 and 24 November 2026 for their digital dialogue. The communique says adequacy talks have concluded, the first such EU agreement in Africa. It also covers AI Factories, 3,000 km of aerial fibre and the Blue Raman cable.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya–EU Digital Dialogue Concludes with a Joint Communiqué](https://ict.go.ke/kenya-eu-digital-dialogue-concludes-joint-communique)** — Ministry of Information, Communications and the Digital Economy, 25 November 2026
+
+Kenya's ICT ministry reports that the EU digital dialogue closed adequacy talks. It lists EUR 10 million of EU support for AI, 3,000 km of aerial fibre and Wi-Fi for 400 communities.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Korea Economic Development Cooperation Fund framework (US$1bn)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya Welcomes Korea's Extension of $1bn EDCF as Ties Elevated to Strategic Level](https://www.dawan.africa/news/kenya-welcomes-koreas-extension-of-dollar1bn-edcf-as-ties-elevated-to-strategic-level)** — Dawan Africa, 26 November 2026
+
+Kenya welcomed South Korea's decision to extend its USD 1 billion EDCF loan framework beyond December 2026. The framework ran 2022 to 2026. The term, ceiling and projects of the extension were not stated.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: GAB
 ledger_rows: 44
 not_held: 11
-record: 791dd3c22bb5
+record: e48c2e3f1814
 ---
 
 # News, Oct – Nov 2026
@@ -738,7 +738,7 @@ Gabon's digital economy ministry began a national mission on 26 October 2026 to 
 
 **[Gabon/Recensement numérique : la mairie de Libreville part à la rencontre des commerçants](https://agpgabon.ga/gabon-recensement-numerique-la-mairie-de-libreville-part-a-la-rencontre-des-commercants/)** — AGP - Agence Gabonaise de Presse, 25 November 2026
 
-Pilot digital enrolment of traders at Mont-Bouët, Nkembo, Nzeng-Ayong markets; app built and run by the city's DCSI.
+The mayor of Libreville launched a pilot digital enrolment of traders at the Mont-Bouet, Nkembo and Nzeng-Ayong markets on 24 November 2026. The city's information systems directorate built and runs the application.
 
 </div>
 

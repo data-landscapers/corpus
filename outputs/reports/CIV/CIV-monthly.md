@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: CIV
 ledger_rows: 66
 not_held: 9
-record: e042674cf32d
+record: 11dd6fd42275
 ---
 
 # News, Oct – Nov 2026
@@ -606,7 +606,7 @@ Wave announced on 6 November 2026 that its customers in Senegal and Côte d'Ivoi
 
 **[Ecobank, Mobile Money Fintech Ltd launch cross-border MoMo transfers between Ghana and Côte d’Ivoire](https://www.myjoyonline.com/ecobank-mobile-money-fintech-ltd-launch-cross-border-momo-transfers-between-ghana-and-cote-divoire/)** — MyJoyOnline, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
-Côte d'Ivoire senders to Ghana MoMo wallets via Ecobank Rapid Transfer; BoG-approved; more corridors planned.
+Ecobank Ghana and Mobile Money Fintech Limited launched a cross-border service on Ecobank Rapid Transfer. Senders in Cote d'Ivoire can pay straight into Ghanaian MoMo wallets. The Bank of Ghana approved it, and more corridors are planned.
 
 </div>
 

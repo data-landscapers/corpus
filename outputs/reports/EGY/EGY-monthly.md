@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: EGY
 ledger_rows: 88
 not_held: 33
-record: 529cc9415f52
+record: ca92545203e2
 ---
 
 # News, Oct – Nov 2026
@@ -818,7 +818,7 @@ The Central Bank of Egypt announced on 23 November 2026 that payment card tokeni
 
 **[محافظ بنك السودان المركزي توقع مذكرة تفاهم مع محافظ البنك المركزي المصري](https://cbos.gov.sd/ar/news/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%AA%D9%88%D9%82%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%85%D8%B9-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A)** — Central Bank of Sudan, 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
 
-Signed Cairo 26 Nov 2026; trade-payment settlement, supervisory data exchange, payment-systems cooperation.
+The central banks of Sudan and Egypt signed a memorandum of understanding in Cairo on 26 November 2026. It covers settlement of trade payments, exchange of supervisory data and cooperation on payment systems.
 
 </div>
 
@@ -1084,7 +1084,7 @@ The transport minister announced that Egypt's maritime safety authority would of
 
 **[Egypt to launch unified digital platform for economic entities in 2027](https://sis.gov.eg/en/media-center/news/egypt-to-launch-unified-digital-platform-for-economic-entities-in-2027/)** — State Information Service (Egypt), 26 November 2026
 
-Single system for business approvals and licences due 2027; stated by the investment minister to Turkish investors.
+Egypt's investment minister spoke to Turkish investors. He said a single digital platform for business approvals and licences will launch in 2027.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: DJI
 ledger_rows: 20
 not_held: 10
-record: 68d0cd0d0510
+record: e68b500dc660
 ---
 
 # News, Oct – Nov 2026
@@ -244,7 +244,7 @@ Djibouti Ports Corridor Road (DPCR SA) announced on 13 November 2026 that Mobile
 
 **[Le chef de l’Etat préside les travaux de la 15e séance du Conseil des ministres](https://www.adi.dj/public/article/139144)** — Agence Djiboutienne d’Information (ADI), 25 November 2026
 
-GBVIMS cases up 25% to 971 in 2025; 2027 budget FDJ 188bn; minister reports on ITU PP-26.
+Djibouti's Council of Ministers heard that gender-based violence cases recorded by GBVIMS rose 25% to 971 in 2025. It reviewed the 2027 budget at FDJ 188 billion, and a minister reported on the ITU Plenipotentiary Conference.
 
 </div>
 

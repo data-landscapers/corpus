@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: digital.localgov
-places: BEN; BDI; CMR; CPV; TCD; COD; EGY; ETH; GAB; KEN; MLI; MAR; NGA; ZAF; SSD; SDN; TZA
-record: fcc196a35541
+places: BEN; BDI; CMR; CPV; TCD; COD; EGY; ETH; GAB; KEN; MLI; MAR; NGA; ZAF; SSD; SDN; TZA; UGA
+record: 9126980cf92e
 ---
 
 # News, Oct – Nov 2026
@@ -43,6 +43,8 @@ record: fcc196a35541
 <a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#uganda">Uganda</a>
 </nav>
 
 ## Benin
@@ -292,6 +294,20 @@ Libreville's town hall reviewed its E-Tax market tax platform on 30 October 2026
 **[Gabon: Digitalisation des collectivités locales - Le Haut-Ogooué, première étape de l'inventaire national du parc informatique](https://fr.allafrica.com/stories/202610300423.html)** — allAfrica, 29 October 2026
 
 Gabon's digital economy ministry began a national mission on 26 October 2026 to inventory the IT equipment of local administrations, starting in Haut-Ogooué. Arnaud Ona Ndong leads the team, which visits town halls, prefectures and the governorate. This is phase 2 of a national diagnosis. Phase 1 ran from 22 April to 6 May 2026 in the nine provincial capitals.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Libreville digital census and enrolment of market traders</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Recensement numérique : la mairie de Libreville part à la rencontre des commerçants](https://agpgabon.ga/gabon-recensement-numerique-la-mairie-de-libreville-part-a-la-rencontre-des-commercants/)** — AGP - Agence Gabonaise de Presse, 25 November 2026
+
+The mayor of Libreville launched a pilot digital enrolment of traders at the Mont-Bouet, Nkembo and Nzeng-Ayong markets on 24 November 2026. The city's information systems directorate built and runs the application.
 
 </div>
 
@@ -641,6 +657,22 @@ A joint meeting of Khartoum locality and two Khartoum State councils agreed that
 **[Tanzania moves to e-Delivery System to ensure its development projects meet Vision 2050 goals - Daily News](https://dailynews.co.tz/tanzania-moves-to-e-delivery-system-to-ensure-its-development-projects-meet-vision-2050-goals/)** — Daily News (Tanzania), 27 October 2026
 
 Tanzania's Deputy Minister for Planning and Investment told Parliament about the e-Delivery System. About 940 public servants have been trained on it. Every ongoing development project must be registered in it. Its dashboards are to let Parliament and the public track projects against Vision 2050 targets.
+
+</div>
+
+</div>
+
+## Uganda
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">District local government website template</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITA-U revamps district websites to bring services closer to citizens](https://www.monitor.co.ug/uganda/news/national/nita-u-revamps-district-websites-to-bring-services-closer-to-citizens-5684672)** — Daily Monitor, 26 November 2026
+
+NITA-U began training IT officers from 145 districts on a new district website template. District officers cited unfunded IT units and districts not yet connected to the national backbone.
 
 </div>
 

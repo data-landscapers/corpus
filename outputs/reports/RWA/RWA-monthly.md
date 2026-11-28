@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: RWA
 ledger_rows: 45
 not_held: 7
-record: 845077f071ee
+record: 4c0eebc927d7
 ---
 
 # News, Oct – Nov 2026
@@ -212,7 +212,7 @@ FAO reported a USD 100,000 grant to Rwanda in its IATI file, committed on 31 Oct
 
 **[Communiqué of the Cabinet Meeting of 26 November 2026](https://www.primature.gov.rw/fileadmin/user_upload/Primature/Publications/Cabinet_Decisions/English/2026_Cabinet_Resolutions/Cabinet_Communique_26.11.2026.pdf)** — Office of the Prime Minister (Rwanda), 26 November 2026
 
-Mobile number portability incl. mobile money wallets; ADF and AfDB e-health centre loans sent for ratification.
+Rwanda's Cabinet was briefed on 26 November 2026 on mobile number portability, which includes mobile money wallets. It approved draft laws ratifying African Development Fund and AfDB loans for the Centre of Excellence for Biomedical Engineering and E-Health.
 
 </div>
 

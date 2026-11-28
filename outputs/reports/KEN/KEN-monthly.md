@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: KEN
 ledger_rows: 130
 not_held: 5
-record: 651472fcaa45
+record: 1b546e1eb7a7
 ---
 
 # News, Oct – Nov 2026
@@ -476,7 +476,7 @@ The EU and Kenya held their Digital Dialogue in Brussels on 23-24 November 2026 
 
 **[Joint Communiqué — EU-Kenya Digital Dialogue (Brussels, 23-24 November 2026)](https://ec.europa.eu/newsroom/dae/redirection/document/135283)** — European Commission and Government of Kenya, 24 November 2026
 
-Adequacy talks concluded, first EU deal of its kind in Africa; AI Factories; 3,000km aerial fibre; Blue Raman open.
+The EU and Kenya met in Brussels on 23 and 24 November 2026 for their digital dialogue. The communique says adequacy talks have concluded, the first such EU agreement in Africa. It also covers AI Factories, 3,000 km of aerial fibre and the Blue Raman cable.
 
 </div>
 
@@ -484,7 +484,7 @@ Adequacy talks concluded, first EU deal of its kind in Africa; AI Factories; 3,0
 
 **[Kenya–EU Digital Dialogue Concludes with a Joint Communiqué](https://ict.go.ke/kenya-eu-digital-dialogue-concludes-joint-communique)** — Ministry of Information, Communications and the Digital Economy, 25 November 2026
 
-Kenyan ministry account; EUR 10M AI support, 3,000 km aerial fibre, Wi-Fi for 400 communities, adequacy talks closed.
+Kenya's ICT ministry reports that the EU digital dialogue closed adequacy talks. It lists EUR 10 million of EU support for AI, 3,000 km of aerial fibre and Wi-Fi for 400 communities.
 
 </div>
 
@@ -498,7 +498,7 @@ Kenyan ministry account; EUR 10M AI support, 3,000 km aerial fibre, Wi-Fi for 40
 
 **[Kenya Welcomes Korea's Extension of $1bn EDCF as Ties Elevated to Strategic Level](https://www.dawan.africa/news/kenya-welcomes-koreas-extension-of-dollar1bn-edcf-as-ties-elevated-to-strategic-level)** — Dawan Africa, 26 November 2026
 
-USD 1bn 2022-2026 loan framework to run past December 2026; term, ceiling and projects unstated.
+Kenya welcomed South Korea's decision to extend its USD 1 billion EDCF loan framework beyond December 2026. The framework ran 2022 to 2026. The term, ceiling and projects of the extension were not stated.
 
 </div>
 
@@ -1704,7 +1704,7 @@ Kenya's Ministry of Information, Communications and the Digital Economy joined t
 
 **[Kenya court asked to block Smartmatic election tech award](https://www.biometricupdate.com/202611/kenya-court-asked-to-block-smartmatic-election-tech-award)** — Biometric Update, 26 November 2026
 
-KSh 17.6bn (USD 136M) IEBC award challenged over US bribery indictment and a bid KSh 3bn cheaper; directions 30 Nov.
+Kenya's High Court agreed to hear urgently a petition against the IEBC's award of a KSh 17.6 billion (USD 136 million) election technology contract to Smartmatic. The petition cites a US bribery indictment and a rival bid KSh 3 billion lower. Directions are set for 30 November.
 
 </div>
 
@@ -1718,7 +1718,7 @@ KSh 17.6bn (USD 136M) IEBC award challenged over US bribery indictment and a bid
 
 **[High Court orders banks, agencies to preserve eCitizen records in Sh9.4 billion probe](https://eastleighvoice.co.ke/news/428879/high-court-orders-banks-agencies-to-preserve-ecitizen-records-in-sh94-billion-probe)** — The Eastleigh Voice, 27 November 2026
 
-Justice Micheni's orders, 2026-11-26; KSh 6.3bn via Pesaflow and Equity Bank queried; hearing 16 December 2026.
+Kenya's High Court ordered agencies, banks and private entities linked to eCitizen to preserve the platform's collection, settlement and disbursement records on 26 November 2026. A petition queries about KSh 9.4 billion, including KSh 6.3 billion through Pesaflow and Equity Bank accounts. The hearing is set for 16 December 2026.
 
 </div>
 
@@ -2300,7 +2300,7 @@ Kenya's ICT Principal Secretary expects technical talks on an EU data-adequacy d
 
 **[Kenya advances AI Middle Powers initiative to strengthen shared sovereignty and trusted interdependence](https://techreviewafrica.com/news/8550/kenya-advances-ai-middle-powers-initiative-to-strengthen-shared-sovereignty-and-trusted-interdependence)** — Tech Review Africa, 27 November 2026
 
-Envoy Philip Thigo at Chatham House pitches AIM as plurilateral effort; shared sovereignty, trusted interdependence.
+Kenya's Special Envoy on Technology, Philip Thigo, described the AI Middle Powers initiative at Chatham House in London. He presented it as a plurilateral effort aimed at strategic autonomy, with shared sovereignty as its organising principle. He said countries can cooperate on financing, infrastructure and capacity and diversify technology supply chains.
 
 </div>
 

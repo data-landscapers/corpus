@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: AGO
 ledger_rows: 36
 not_held: 6
-record: f3831bac0341
+record: 595f56f809f8
 ---
 
 # News, Oct – Nov 2026
@@ -376,7 +376,7 @@ Africa has 36 active instant payment systems in 31 countries, which processed mo
 
 **[EMIS — Relatório Sintético Mensal MCX, Outubro de 2026 (Sistema Multicaixa)](https://emis.ao/media/p4wk0ofb/relatorio_sintetico_mensal_mcx.pdf)** — EMIS — Empresa Interbancária de Serviços, S.A., 13 November 2026
 
-435.7m operations worth Kz 5.54trn in October, up 31.9% y/y; 2.6m active Express users; 9.5m valid cards.
+EMIS reported 435.7 million Multicaixa operations worth Kz 5.54 trillion in October 2026, up 31.9% in number on a year earlier. Multicaixa Express had 2.6 million active users, and 9.5 million cards were valid.
 
 </div>
 
@@ -384,7 +384,7 @@ Africa has 36 active instant payment systems in 31 countries, which processed mo
 
 **[Metade dos internautas em 4 províncias de Angola, já usa aplicações bancárias e carteiras digitais](https://fintechs.ao/metade-dos-internautas-em-4-provincias-de-angola-ja-usa-aplicacoes-bancarias-e-carteiras-digitais/)** — FinTechs Angola, 26 November 2026
 
-Adds EMIS October 2026 count: Multicaixa Express over 2.6m active users, about 70% of network operations.
+A MIRA Audiencias study published on 24 November 2026 covers Luanda, Benguela, Huambo and Huila. About half of internet users there use banking apps or digital wallets. The article adds EMIS's October 2026 count. Multicaixa Express had over 2.6 million active users, about 70% of network operations.
 
 </div>
 

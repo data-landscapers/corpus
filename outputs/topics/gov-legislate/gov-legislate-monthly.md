@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB
-record: c2a519f552b1
+record: 960a126e16da
 ---
 
 # News, Oct – Nov 2026
@@ -1116,6 +1116,20 @@ Madagascar's National Assembly put off the vote on access-to-public-information 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-commerce bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-COMMERCE – Un projet de loi attendu d’ici un an pour encadrer les ventes en ligne, selon le ministère du Commerce et de la consommation](https://www.2424.mg/e-commerce-un-projet-de-loi-attendu-dici-un-an-pour-encadrer-les-ventes-en-ligne-selon-le-ministere-du-commerce-et-de-la-consommation)** — 2424.mg, 26 November 2026
+
+Madagascar's commerce ministry held consultations on 25 and 26 November 2026 on an e-commerce law. The MCI / XPR Digital consortium drafted it under the World Bank-backed PIC3 project. A bill is targeted within a year.
+
+</div>
+
+</div>
+
 ## Malawi
 
 <div class="monthly-story" markdown="1">
@@ -1558,6 +1572,28 @@ Journalists, lawyers and civil society figures in Sao Tome and Principe said an 
 </div>
 
 ## Senegal
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Critical-infrastructure protection legal framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Loi n° 2026-20 du 10 septembre 2026 sur la protection des Infrastructures d'Information critiques et la sécurité numérique](https://www.vie-publique.sn/docs/83318790-e7fb-46b2-b193-928873e16474/JO-7939-du-17-octobre-2026.pdf)** — République du Sénégal — Journal officiel (Imprimerie nationale), 17 October 2026
+
+Senegal's Law 2026-20 of 10 September 2026 has 55 articles. It sets a regime for critical information infrastructure under a national cybersecurity authority, requires state data to be hosted in Senegal, and sets a 24-hour deadline for incident notice.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité : publication de la loi n° 2026-20 sur la sécurité numérique](https://www.osiris.sn/cybersecurite-publication-de-la-loi-no-2026-20-sur-la-securite-numerique.html)** — OSIRIS, 27 November 2026
+
+Senegal published Law No. 2026-20 on digital security in its Journal officiel. It sets up a National Cybersecurity Authority. Operators of critical infrastructure must name information-security officers, run audits and continuity plans, and notify incidents within 24 hours. Cybersecurity providers are to be licensed.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: ETH
 ledger_rows: 46
 not_held: 5
-record: 5ecbdb24ef3f
+record: 0f9bd273c2be
 ---
 
 # News, Oct – Nov 2026
@@ -420,7 +420,7 @@ Faydaverse staff told the Capital newspaper, in a report of 22 November 2026, th
 
 **[Ethiopia’s Returnee Support Model Emerges as Regional Benchmark, Says IOM Officer](https://www.ena.et/web/eng/w/eng_9982178)** — Ethiopian News Agency (ENA), 25 November 2026
 
-About 7,000 returnees a year at the Addis transit centre; all now leave with a Fayda ID and access to banking.
+Every returnee passing through the IOM transit centre in Addis Ababa now leaves with a Fayda digital ID and access to banking. The centre receives about 7,000 returnees a year, and many used to leave without identity documents.
 
 </div>
 
@@ -756,7 +756,7 @@ The National Bank of Ethiopia issued a regulatory sandbox directive, in force fr
 
 **[EIH to invest $10 million in startups that solve problems at state enterprises](https://www.ethiopianbusinessreview.net/eih-to-invest-10-million-in-startups-that-solve-problems-at-state-enterprises/)** — Ethiopian Business Review, 26 November 2026
 
-US$10m equity pool with ALX Africa; eight SOE challenge briefs; applications 26 Nov 2026 to 7 Jan 2027.
+Ethiopian Investment Holdings launched KAMA with ALX Africa on 26 November 2026. Startups can respond to challenge briefs from eight state-owned enterprises, with US$10 million of equity for those that succeed. Applications close on 7 January 2027.
 
 </div>
 

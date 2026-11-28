@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: TCD
 ledger_rows: 30
 not_held: 23
-record: 2edab7e3898c
+record: 1f27f6a6ba1c
 ---
 
 # News, Oct – Nov 2026
@@ -252,7 +252,7 @@ Chad's digital minister Haliki Choua Mahamat told German, EU and GIZ representat
 
 **[Déclaration du ministre des Télécommunications du Tchad, Conférence de plénipotentiaires de l'UIT (PP-26)](https://pp.itu.int/2026/wp-content/uploads/sites/3/2026/11/Chad_CHOUA-MAHAMAT_FR_v2.pdf)** — Ministère des Télécommunications, de l'Économie numérique et de la Digitalisation du Tchad, 1 November 2026
 
-PP-26 statement: AI, e-administration and data-governance strategies in drafting; 4,400 of 14,000 km fibre built.
+At the ITU Plenipotentiary Conference in Doha, Chad's telecommunications minister said 4,400 km of a targeted 14,000 km of optical fibre is built. He said strategies on AI, e-administration and data governance are being drafted.
 
 </div>
 
@@ -324,7 +324,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[Tchad : un atelier de consultation sur l’intégration numérique en Afrique centrale](https://tchadinfos.com/2026/11/25/tchad-un-atelier-de-consultation-sur-lintegration-numerique-en-afrique-centrale/)** — Tchadinfos, 25 November 2026
 
-Stakeholder engagement plan consultation, N'Djamena, 25 Nov 2026; prepared via PATN; no figure stated.
+Chad's telecommunications ministry held a public consultation in N'Djamena on 25 November 2026 on the stakeholder engagement plan for the World Bank-supported Central Africa Regional Digital Integration Program. The government is preparing it through the PATN project. No amount or timetable was stated.
 
 </div>
 

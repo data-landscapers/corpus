@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: TZA
 ledger_rows: 69
 not_held: 4
-record: ea386bc29dc8
+record: 023b7f258c49
 ---
 
 # News, Oct – Nov 2026
@@ -814,7 +814,7 @@ Tanzania's National Health Insurance Fund cut its average claims settlement time
 
 **[Tanzania leads Africa in health systems, but gaps remain](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-leads-africa-in-health-systems-but-gaps-remain-5684938)** — The Citizen, 26 November 2026
 
-WHO 2026: Tanzania 93% vs 59% regional average; 2% of facilities fully electronic; HIS financing 53%.
+WHO's 2026 assessment gave Tanzania 93% for health information system maturity, against a regional average of 59%. Only 2% of its health facilities have facility-wide electronic systems, and HIS financing scored 53%.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; COM; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 6b8d982e16a5
+record: 54d7b0f9300c
 ---
 
 # News, Oct – Nov 2026
@@ -540,6 +540,20 @@ Ethiopia's national ID programme has renamed itself FaydaVerse and joined Ethiop
 **[FaydaPass seeks to bring government documents into digital wallet](https://capitalethiopia.com/2026/11/22/faydapass-seeks-to-bring-government-documents-into-digital-wallet/)** — Capital Newspaper, 22 November 2026
 
 Faydaverse staff told the Capital newspaper, in a report of 22 November 2026, that nine government institutions have joined its FaydaPass digital wallet, including bodies for trade and transport. Education, agriculture and land administration institutions are in discussion. Electronic signatures, delegated access and consent management are planned, and citizens reach the free service with their Fayda digital ID.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fayda enrolment of returning migrants at the Addis Ababa transit centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia’s Returnee Support Model Emerges as Regional Benchmark, Says IOM Officer](https://www.ena.et/web/eng/w/eng_9982178)** — Ethiopian News Agency (ENA), 25 November 2026
+
+Every returnee passing through the IOM transit centre in Addis Ababa now leaves with a Fayda digital ID and access to banking. The centre receives about 7,000 returnees a year, and many used to leave without identity documents.
 
 </div>
 
@@ -1300,6 +1314,20 @@ Somalia's Unified Public Service Delivery Center, known as Halmeel, plans to lau
 **[Somalia puts Hubiye national ID verification platform into operation](https://www.biometricupdate.com/202611/somalia-puts-hubiye-national-id-verification-platform-into-operation)** — Biometric Update, 2 November 2026
 
 Somalia's National Identification and Registration Authority announced in late October 2026 that its Hubiye ID verification platform is in operation. Service providers check credentials against the national database by one-time-password consent. Integration is free for now, though the authority says some providers may eventually pay. UNDP put Hubiye at 25 integrated services and about 1.2 million citizens in May 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National passport</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia Unveils New EAC-Aligned Passport In Uganda](https://www.dawan.africa/news/somalia-unveils-new-eac-aligned-passport-in-uganda)** — Dawan Africa, 26 November 2026
+
+Somalia showed samples of its new third-generation electronic passport to EAC immigration heads in Kampala. It is made of polycarbonate to ICAO standards and comes in ordinary, service and diplomatic types. Somalia proposes its ID card as an EAC travel document. No launch date was given.
 
 </div>
 

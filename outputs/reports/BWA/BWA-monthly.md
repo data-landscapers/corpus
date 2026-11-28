@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: BWA
 ledger_rows: 29
 not_held: 5
-record: 63a2adfd7557
+record: 59273429afda
 ---
 
 # News, Oct – Nov 2026
@@ -46,7 +46,7 @@ record: 63a2adfd7557
 
 **[Botswana moves to establish National Data Exchange Hub](https://dailynews.gov.bw/news-detail/94332)** — Botswana Press Agency (BOPA) / Daily News, 26 November 2026
 
-Data Policy and Strategy 2027-2032 in validation, 25 Nov 2026; chief data officers asked of institutions.
+Botswana opened validation of its draft National Data Policy and National Data Strategy 2027-2032 in Gaborone on 25 November 2026. An assistant minister said a National Data Exchange Hub would let institutions find, verify and share data. He asked institutions to appoint chief data officers.
 
 </div>
 

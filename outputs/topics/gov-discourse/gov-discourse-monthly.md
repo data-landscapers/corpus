@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: gov.discourse
 places: DZA; AGO; CIV; EGY; ETH; GAB; GHA; MWI; NGA; SEN; TUN; ZMB; ZWE
-record: 054a4d8b5e9b
+record: 23f587684c5a
 ---
 
 # News, Oct – Nov 2026
@@ -214,6 +214,14 @@ Malawi launched its 2026-2029 Open Government Partnership National Action Plan i
 **[NAIGF inaugurates advisory council to guide responsible AI in Nigeria](https://aigovernanceafrica.com/naigf-inaugurates-advisory-council-to-guide-responsible-ai-in-nigeria/)** — AI Governance Africa, 27 October 2026
 
 The Nigeria AI Governance Forum inaugurated a 15-member advisory council chaired by Olusola Teniola, it was reported on 27 October 2026. The council will give policy advice in support of the national AI strategy. It is not a regulator, and its recommendations have no legal force.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[NIGERIA AI GOVERNANCE FORUM LAUNCHED AT ABUJA TECH WEEK 2026: A STRATEGIC CALL TO SHAPE NIGERIA'S AI FUTURE | Newspot Nigeria](https://newspotng.com/nigeria-ai-governance-forum-launched-at-abuja-tech-week-2026-a-strategic-call-to-shape-nigerias-ai-future/)** — Newspot Nigeria, 25 November 2026
+
+The Nigeria AI Governance Forum launched at Abuja Tech Week on 24 November 2026. An open letter to President Tinubu makes seven proposals on coordination under Pillar 5 of the national AI strategy.
 
 </div>
 

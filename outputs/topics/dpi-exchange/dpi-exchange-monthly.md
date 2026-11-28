@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: dpi.exchange
-places: DZA; AGO; BEN; BFA; BDI; CMR; CIV; COD; EGY; GAB; GIN; GNB; KEN; LSO; LBY; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b901fcd8febb
+places: DZA; AGO; BEN; BFA; BDI; CMR; TCD; CIV; DJI; COD; EGY; GAB; GHA; GIN; GNB; KEN; LSO; LBY; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: fce6b696b7e7
 ---
 
 # News, Oct – Nov 2026
@@ -22,13 +22,19 @@ record: b901fcd8febb
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#chad">Chad</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#djibouti">Djibouti</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#guinea">Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -45,6 +51,8 @@ record: b901fcd8febb
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -237,6 +245,22 @@ Nigeria Customs said on 14 November 2026 that it is piloting a joint digital cus
 
 </div>
 
+## Chad
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Accession to the regional digital integration programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tchad : un atelier de consultation sur l’intégration numérique en Afrique centrale](https://tchadinfos.com/2026/11/25/tchad-un-atelier-de-consultation-sur-lintegration-numerique-en-afrique-centrale/)** — Tchadinfos, 25 November 2026
+
+Chad's telecommunications ministry held a public consultation in N'Djamena on 25 November 2026 on the stakeholder engagement plan for the World Bank-supported Central Africa Regional Digital Integration Program. The government is preparing it through the PATN project. No amount or timetable was stated.
+
+</div>
+
+</div>
+
 ## Cote d'Ivoire
 
 <div class="monthly-story" markdown="1">
@@ -248,6 +272,22 @@ Nigeria Customs said on 14 November 2026 that it is piloting a joint digital cus
 **[Côte d'Ivoire-AIP/Commerce extérieur : le gouvernement digitalise la délivrance des autorisations d'exportation des produits vivriers](https://www.aip.ci/cote-divoire-aip-commerce-exterieur-le-gouvernement-digitalise-la-delivrance-des-autorisations-dexportation-des-produits-vivriers/)** — Agence Ivoirienne de Presse, 19 November 2026
 
 Côte d'Ivoire's trade ministry launched online issuance of prior export authorisations for food crops on 19 November 2026, through the GUCE CI single window. Requests rose from 245 in 2022 to 421 in 2025. Exported volumes rose from 3,230 to 10,413 tonnes over the same period.
+
+</div>
+
+</div>
+
+## Djibouti
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic single window for trade</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Douanes : Le guichet unique électronique de Djibouti prend corps](https://www.adi.dj/public/article/139148)** — Agence Djiboutienne d’Information (ADI), 27 November 2026
+
+Djibouti's customs administration and its partners are to review the consultation report for the planned electronic single window, ADI reported on 27 November 2026. The partners include the Ministry of Commerce, the AfCFTA Secretariat and Korea's CUPIA. CUPIA has worked in Ethiopia, Tanzania and Ghana and carries much of the technical delivery.
 
 </div>
 
@@ -325,6 +365,14 @@ Egypt's Cabinet approved a draft resolution on 18 November 2026 establishing a C
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Egypt’s Comprehensive National Data System: How Will It Integrate Government Data and Protect Citizens’ Privacy?](https://www.technotime.net/18938)** — Techno Time, 27 November 2026
+
+Egypt issued Prime Ministerial Decree No. 3746 of 2026 establishing the Comprehensive National Data System. It was published in the Official Gazette on 24 November 2026 and took effect on 25 November. The presidential-directives platform is due to operate from 1 January 2027 and the full system from 1 July 2027. All system data is classed confidential under Article 9.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -382,6 +430,22 @@ Gabon's transport minister Ulrich Manfoumbi Manfoumbi visited Securiport LLC's i
 **[Gabon Connect : TrésorPay, DUS… le Gabon mise sur le numérique pour mieux encaisser](https://www.gabonreview.com/gabon-connect-tresorpay-dus-le-gabon-mise-sur-le-numerique-pour-mieux-encaisser/)** — GabonReview, 22 October 2026
 
 Gabon's vice-president of the government, Hermann Immongault, presented the next phase of the Gabon Connect single digital window in Libreville on 22 October 2026, deploying the single salary declaration (DUS) and TrésorPay portals. The platform groups eTax, eEmployeur, TrésorPay for non-tax and local-government revenue, eDouane and ePropriété, with full deployment due by December 2027.
+
+</div>
+
+</div>
+
+## Ghana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Credit bureau coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Turn GH¢4.99trn MoMo data into credit for informal sector – BoG](https://gna.org.gh/2026/11/turn-gh%c2%a24-99trn-momo-data-into-credit-for-informal-sector-bog-2/)** — Ghana News Agency, 25 November 2026
+
+Ghana recorded 1.093 billion mobile money transactions worth GH¢552.1 billion in October 2026. The Bank of Ghana asked credit data providers to design products for informal traders. Credit bureau coverage rose from 33.2% in 2019 to 60% in December 2025.
 
 </div>
 
@@ -539,6 +603,22 @@ The Higher Education Commission of Mauritius issued Addendum No 2 on 19 November
 
 </div>
 
+## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Pension fund and public-sector mutuals beneficiary data-exchange platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Protection sociale : la CMR et trois mutuelles s’allient pour simplifier les démarches des bénéficiaires](https://lenew.ma/protection-sociale-cmr-mutuelles-simplification-demarches/)** — LeNew.ma, 26 November 2026
+
+Morocco's civil pension fund CMR signed agreements with three mutual insurers under ACAPS supervision. Beneficiary data will pass directly between them, so members no longer need to supply a pension certificate. Services start in March 2027.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -643,6 +723,20 @@ Nigeria's National Single Window will open export processing on 14 December 2026
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National labour data exchange (Labour Force Intelligence working group)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG moves to integrate national labour data to address skills-employment gap](https://guardian.ng/news/fg-moves-to-integrate-national-labour-data-to-address-skills-employment-gap/)** — The Guardian Nigeria, 25 November 2026
+
+Nigeria's government inaugurated a technical working group on a national labour force intelligence system. NECA leads it, with the National Bureau of Statistics and UNDP. It is to build an interoperable labour data exchange linking federal and state systems.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -686,6 +780,20 @@ On 17 November 2026, Senegal's procurement regulator ARCOP met budget officials 
 **[Blue economy department signs MoUs with SRC, registration division to strengthen data sharing](https://www.nation.sc/articles/33129/blue-economy-department-signs-mous-with-src-registration-division-to-strengthen-data-sharing)** — Seychelles Nation, 11 November 2026
 
 Seychelles' Department of Blue Economy signed two open-ended data-sharing memoranda of understanding on 10 November 2026, Seychelles Nation reported. The partners are the Seychelles Revenue Commission and the Registration Division. Principal Secretary Veronique Nibourette, Acting Commissioner General Fred Morel and Registrar General Suleiman Athanasius signed them.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Environment ministry and statistics bureau data-sharing memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MECENR and NBS strengthen collaboration on climate and environmental data](https://www.nation.sc/articles/33377/mecenr-and-nbs-strengthen-collaboration-on-climate-and-environmental-data)** — Seychelles Nation, 27 November 2026
+
+Seychelles' environment, climate and energy ministry and the National Bureau of Statistics signed a memorandum of understanding on climate, environmental and energy data, reported on 27 November 2026. It sets a framework for timely and secure data sharing between them. The signing date is not stated.
 
 </div>
 

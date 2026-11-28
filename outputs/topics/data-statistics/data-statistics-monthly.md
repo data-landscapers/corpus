@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: data.statistics
 places: DZA; AGO; BWA; BDI; CAF; TCD; COG; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA; ZWE
-record: bc3b09ebbfb5
+record: 1a9382daed76
 ---
 
 # News, Oct – Nov 2026
@@ -466,6 +466,7 @@ IOM committed US$300,000 from its Development Fund on 1 October 2026 to a projec
 WorldPop and the UK Office for National Statistics ran a five-day workshop in Blantyre for staff of Malawi's National Statistical Office on high-resolution household population estimates, combining census and survey data with geospatial models, ahead of the 2028 census. The training covered Bayesian modelling in R and tools for updating and partitioning enumeration areas.
 
 </div>
+
 
 </div>
 

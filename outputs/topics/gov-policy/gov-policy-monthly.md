@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: gov.policy
-places: AGO; BEN; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 115d79bbeb59
+places: AGO; BEN; BWA; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
+record: 3b2ff9cea967
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: 115d79bbeb59
 <a href="#angola">Angola</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -179,6 +181,22 @@ Benin's health minister Benjamin Hounkpatin set out a digital health roadmap at 
 
 </div>
 
+## Botswana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Data Strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Botswana moves to establish National Data Exchange Hub](https://dailynews.gov.bw/news-detail/94332)** — Botswana Press Agency (BOPA) / Daily News, 26 November 2026
+
+Botswana opened validation of its draft National Data Policy and National Data Strategy 2027-2032 in Gaborone on 25 November 2026. An assistant minister said a National Data Exchange Hub would let institutions find, verify and share data. He asked institutions to appoint chief data officers.
+
+</div>
+
+</div>
+
 ## Cameroon
 
 <div class="monthly-story" markdown="1">
@@ -190,6 +208,50 @@ Benin's health minister Benjamin Hounkpatin set out a digital health roadmap at 
 **[Cameroon Eyes AI-Led Growth with New Digital Economy Strategy](https://www.businessincameroon.com/public-management/2610-17054-cameroon-eyes-ai-led-growth-with-new-digital-economy-strategy)** — Business in Cameroon, 26 October 2026
 
 The Minister of Posts and Telecommunications spoke at the World Bank's summit in Seoul on 19-22 October 2026. The Minister said a draft national digital-economy strategy is being finalised. It rests on national AI consultations. Its pillars are digital infrastructure, data governance, skills, research and responsible-AI rules.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Agenda for Accelerating the Digital Transformation of the Financial Sector</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Finance numérique: Un moteur pour l’inclusion financière](https://www.cameroon-tribune.cm/article.html/82982/fr.html/finance-numerique-un-moteur-pour-linclusion-financiere)** — Cameroon Tribune, 27 November 2026
+
+Cameroon's Finance Minister opened the first digital finance fair, Safinum 2026, in Yaounde on 26 November 2026. The three-day event is run by the national economic and financial committee. Its theme is promoting fintech to speed financial inclusion. Cameroon had about 31 million mobile money accounts at the end of 2024.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Funding Shortfalls Delay Cameroon’s CFA21.2 Billion Digital Finance Transformation Program](https://www.businessincameroon.com/finance/2711-17286-funding-shortfalls-delay-cameroon-s-cfa21-2-billion-digital-finance-transformation-program)** — Business in Cameroon, 27 November 2026
+
+Cameroon's Finance Minister Louis Paul Motaze said on 26 November 2026 that the CFA21.245 billion programme to digitalise the financial sector is behind schedule. Most of its 36 activities had not begun by the end of 2025. He attributed this partly to insufficient funding and to governance bodies not being set up. He spoke at the opening of the SAFINUM digital finance exhibition in Yaounde.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Telecoms regulator's Strategic Performance Plan 2026-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[STRATEGIC PERFORMANCE PLAN 2026–2030: A NEW ERA FOR DIGITAL REGULATION IN CAMEROON](https://art.cm/en/article/strategic-performance-plan-2026%E2%80%932030-new-era-digital-regulation-cameroon)** — Telecommunications Regulatory Board (TRB), Cameroon, 27 November 2026
+
+Cameroon's telecoms regulator adopted its 2026-2030 Strategic Performance Plan at its 71st extraordinary board session on 27 November 2026. The plan succeeds the 2022-2025 plan and follows a decree of 29 December 2025 on strategic planning in public institutions. It stresses reliable data production, data sharing with government and digitalised operations.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[TRB Refines Its Strategic Vision for the 2026–2030 Period](https://art.cm/en/article/trb-refines-its-strategic-vision-2026%E2%80%932030-period)** — Telecommunications Regulatory Board (TRB), Cameroon, 27 November 2026
+
+Cameroon's Telecommunications Regulatory Board held a working session on 26 November 2026 in Mbankomo to review its 2026-2030 Strategic Performance Plan. The plan succeeds the 2022-2025 Strategic Development Plan. It follows the alignment framework of the Ministry of Economy, Planning and Regional Development.
 
 </div>
 
@@ -855,6 +917,28 @@ Mozambique's draft National Digital Transformation Strategy of 22 August 2026 st
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Public Infrastructure Blue Book</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo quer abandonar sistemas digitais isolados e apostar em infra-estruturas partilhadas](https://aimnews.org/2026/11/26/governo-quer-abandonar-sistemas-digitais-isolados-e-apostar-em-infra-estruturas-partilhadas/)** — Agência de Informação de Moçambique (AIM), 26 November 2026
+
+Mozambique's digital transformation ministry opened a workshop facilitated by eGov Global in Maputo. It is to agree a national DPI Blue Book, three sector use cases and a proposed DPI Centre of Excellence. A data bill is before parliament.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[INTIC destaca importância da infra-estrutura pública digital para a modernização dos serviços e benefício dos cidadãos](https://intic.gov.mz/intic-destaca-importancia-da-infra-estrutura-publica-digital-para-a-modernizacao-dos-servicos-e-beneficio-dos-cidadaos/)** — Instituto Nacional de Tecnologias de Informação e Comunicação (INTIC), 27 November 2026
+
+The head of Mozambique's information technology institute, INTIC, presented the strategic, legal and regulatory instruments for digital public infrastructure on 26 and 27 November 2026 in Maputo. He spoke at a workshop on reimagining the country's digital public infrastructure. The instruments include a proposed National Digital Transformation Strategy.
+
+</div>
+
+</div>
+
 ## Namibia
 
 <div class="monthly-story" markdown="1">
@@ -1088,6 +1172,20 @@ Senegal's Prime Minister installed the Comité de gouvernance du numérique (Gou
 **[Données publiques : Jusqu'à 20 % des données sénégalaises encore hébergées hors du pays](https://senego.com/donnees-publiques-jusqua-20-des-donnees-senegalaises-encore-hebergees-hors-du-pays_2015891.html)** — Senego, 21 October 2026
 
 The manager of Senegal's national data centre at Diamniadio said 10% to 20% of the country's public data is still hosted abroad (reported October 2026). Some hosting contracts run for ten years, which delays moving the data home. Paying off the contracts early or waiting for them to expire are both under study, and no date has been set.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National data strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RESTIC warns of delays in Senegal’s data strategy](https://www.socialnetlink.org/2026/11/27/restic-senegal-national-data-strategy-delays/)** — Socialnetlink, 27 November 2026
+
+Senegal's ICT business grouping RESTIC called in November 2026 for an urgent review of the National Data Strategy 2023-2028. It says the data-governance authority, the data-sharing platform, data-centre upgrades and data repatriation are behind schedule. It also says no framework law on sovereign data or data-centre regulation exists. It names no missed milestone.
 
 </div>
 

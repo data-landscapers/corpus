@@ -1,10 +1,10 @@
 ---
 title: Technical Capacity — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: infra.capacity
-places: BDI; COD; KEN; LSO; ZAF; ZWE
-record: 59c757912210
+places: BDI; COD; GHA; KEN; LSO; ZAF; ZWE
+record: 73d02d97c55f
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: 59c757912210
 <a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -77,6 +79,22 @@ The steering committee of the DRC's digital transformation project met for the f
 
 </div>
 
+## Ghana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central bank Enterprise Currency Operations Management Software (ECOMS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bank of Ghana unveils homegrown currency management software](https://www.myjoyonline.com/bank-of-ghana-unveils-homegrown-currency-management-software/)** — MyJoyOnline, 12 November 2026
+
+The Bank of Ghana has launched ECOMS, a currency-operations system built by its own staff. The governor said other central banks want to learn from it.
+
+</div>
+
+</div>
+
 ## Kenya
 
 <div class="monthly-story" markdown="1">
@@ -120,6 +138,20 @@ Opening Lesotho's third National Science, Technology and Innovation Week, ICT an
 **[ZARC reaches 1.5m active .ZA domains](https://www.itweb.co.za/article/zarc-reaches-15m-active-za-domains/Gb3BwMWaOG1v2k6V)** — ITWeb South Africa, 5 October 2026
 
 South Africa's domain registry reports 1.5 million active registrations across its four commercial second-level namespaces. It says that makes .ZA the first African country-code domain to reach the mark.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Foreign ministry ICT Modernisation Project for missions abroad</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[International Relations Committee Welcomes Progress Report on Digitalisation of South Africa’s Embassies](https://www.parliament.gov.za/news/international-relations-committee-welcomes-progress-report-digitalisation-south-africas-embassies)** — Parliament of South Africa, 27 November 2026
+
+South Africa's Department of International Relations and Cooperation told Parliament's international relations committee it has set up three data centres, in Pretoria, Washington DC and London. They belong to its ICT modernisation project for foreign missions. A travel app is being launched. An electronic travel authorisation system is ending the use of failing visa-printing machines in missions.
 
 </div>
 

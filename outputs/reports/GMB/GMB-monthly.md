@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: GMB
 ledger_rows: 24
 not_held: 2
-record: 3e6485443f89
+record: 7854390c5110
 ---
 
 # News, Oct – Nov 2026
@@ -220,7 +220,7 @@ The Gambia's lands ministry briefed the press on National Land Policy implementa
 
 **[New In-House Scheme Saves SSHFC D51.8m And Builds Gambia’s First Informal Sector Social Security System](https://standard.gm/new-in-house-scheme-saves-sshfc-d51-8m-and-builds-gambias-first-informal-sector-social-security-system/)** — The Standard, 12 October 2026
 
-Taye Sama informal-sector MIS built by SSHFC staff; offline enrolment, Wave payments; ready for rollout April 2026.
+The Social Security and Housing Finance Corporation built the management information system for its Taye Sama informal-sector scheme with its own staff. The system supports offline enrolment and Wave payments, and was reported ready for rollout in April 2026. The Standard reports a saving of D51.8 million.
 
 </div>
 

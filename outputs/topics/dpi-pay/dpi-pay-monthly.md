@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 285ba8b773bb
+record: d1a01515f8f4
 ---
 
 # News, Oct – Nov 2026
@@ -199,6 +199,20 @@ On 18 November 2026 Algeria's government reviewed its roadmap for modernising el
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Social-insurance benefit transfers to postal accounts (CNAS and Algérie Poste)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La CNAS et Algérie Poste renforcent leur coopération dans le paiement électronique](https://www.expressdz.dz/2026/11/25/la-cnas-et-algerie-poste-renforcent-leur-cooperation-dans-le-paiement-electronique/)** — L’Express DZ, 25 November 2026
+
+Algeria's social insurance fund CNAS and Algerie Poste signed a framework agreement in Algiers on 24 November 2026. It covers electronic payment, interoperability and secured data exchange, and follows a 2024 agreement that supplied 58 payment terminals.
+
+</div>
+
+</div>
+
 ## Angola
 
 <div class="monthly-story" markdown="1">
@@ -210,6 +224,28 @@ On 18 November 2026 Algeria's government reviewed its roadmap for modernising el
 **[África já tem 36 sistemas de pagamentos instantâneos, o próximo desafio é fazê-los conversar](https://fintechs.ao/africa-ja-tem-36-sistemas-de-pagamentos-instantaneos-o-proximo-desafio-e-faze-los-conversar/)** — FinTechs, 8 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Africa has 36 active instant payment systems in 31 countries, which processed more than 64 billion transactions worth nearly US$2 trillion in 2024, according to an AfricaNenda, World Bank and UN Economic Commission for Africa report cited by FinTechs. Angola's KWiK service processed 4.48 million transfers worth 123.85 billion kwanzas in August 2026, up 53.3% in a year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic payment volume</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EMIS — Relatório Sintético Mensal MCX, Outubro de 2026 (Sistema Multicaixa)](https://emis.ao/media/p4wk0ofb/relatorio_sintetico_mensal_mcx.pdf)** — EMIS — Empresa Interbancária de Serviços, S.A., 13 November 2026
+
+EMIS reported 435.7 million Multicaixa operations worth Kz 5.54 trillion in October 2026, up 31.9% in number on a year earlier. Multicaixa Express had 2.6 million active users, and 9.5 million cards were valid.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Metade dos internautas em 4 províncias de Angola, já usa aplicações bancárias e carteiras digitais](https://fintechs.ao/metade-dos-internautas-em-4-provincias-de-angola-ja-usa-aplicacoes-bancarias-e-carteiras-digitais/)** — FinTechs Angola, 26 November 2026
+
+A MIRA Audiencias study published on 24 November 2026 covers Luanda, Benguela, Huambo and Huila. About half of internet users there use banking apps or digital wallets. The article adds EMIS's October 2026 count. Multicaixa Express had over 2.6 million active users, about 70% of network operations.
 
 </div>
 
@@ -575,6 +611,20 @@ Wave announced on 6 November 2026 that its customers in Senegal and Côte d'Ivoi
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ecobank Rapid Transfer corridor into Ghanaian mobile money wallets</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ecobank, Mobile Money Fintech Ltd launch cross-border MoMo transfers between Ghana and Côte d’Ivoire](https://www.myjoyonline.com/ecobank-mobile-money-fintech-ltd-launch-cross-border-momo-transfers-between-ghana-and-cote-divoire/)** — MyJoyOnline, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+
+Ecobank Ghana and Mobile Money Fintech Limited launched a cross-border service on Ecobank Rapid Transfer. Senders in Cote d'Ivoire can pay straight into Ghanaian MoMo wallets. The Bank of Ghana approved it, and more corridors are planned.
+
+</div>
+
+</div>
+
 ## Djibouti
 
 <div class="monthly-story" markdown="1">
@@ -718,6 +768,20 @@ On 23 November 2026, Egypt's central bank extended payment-card tokenisation to 
 **[«المركزي المصري» يطلق ترميز بطاقات الدفع على هواتف Android](https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%B7%D9%84%D9%82-%D8%AA%D8%B1%D9%85%D9%8A%D8%B2-%D8%A8%D8%B7%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D8%B9%D9%84%D9%89-%D9%87%D9%88%D8%A7%D8%AA%D9%81-android/)** — State Information Service (Egypt), 23 November 2026
 
 The Central Bank of Egypt announced on 23 November 2026 that payment card tokenisation is available on Android devices. The first phase ran through Apple Pay from December 2024. It had processed about 292 million transactions worth EGP 228 billion by the end of September 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central bank memorandum with the Central Bank of Sudan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[محافظ بنك السودان المركزي توقع مذكرة تفاهم مع محافظ البنك المركزي المصري](https://cbos.gov.sd/ar/news/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%AA%D9%88%D9%82%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%85%D8%B9-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A)** — Central Bank of Sudan, 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
+
+The central banks of Sudan and Egypt signed a memorandum of understanding in Cairo on 26 November 2026. It covers settlement of trade payments, exchange of supervisory data and cooperation on payment systems.
 
 </div>
 
@@ -1077,6 +1141,20 @@ MobileMoney Fintech set new monthly limits from 24 November 2026: GHS 150,000 fo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ecobank Rapid Transfer corridor from Côte d'Ivoire into mobile money wallets</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ecobank, Mobile Money Fintech Ltd launch cross-border MoMo transfers between Ghana and Côte d’Ivoire](https://www.myjoyonline.com/ecobank-mobile-money-fintech-ltd-launch-cross-border-momo-transfers-between-ghana-and-cote-divoire/)** — MyJoyOnline, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+
+Ecobank Ghana and Mobile Money Fintech Limited launched a cross-border service on Ecobank Rapid Transfer. Senders in Cote d'Ivoire can pay straight into Ghanaian MoMo wallets. The Bank of Ghana approved it, and more corridors are planned.
+
+</div>
+
+</div>
+
 ## Guinea
 
 <div class="monthly-story" markdown="1">
@@ -1102,6 +1180,28 @@ Guinea's WARDIP project, under the digital economy ministry, invited expressions
 **[Guinée : NimbaPay traite 7,6 millions $ de transactions et connecte 7 établissements en 4 mois](https://www.agenceecofin.com/actualites/2610-142742-guinee-nimbapay-traite-7-6-millions-de-transactions-et-connecte-7-etablissements-en-4-mois)** — Agence Ecofin, 26 October 2026
 
 Guinea's central bank said on 22 October 2026 that its instant payment system NimbaPay had seven connected institutions by 15 October. It had handled about 67,000 transactions worth over GNF 68bn. The bank is also drafting a payment-systems bill and a 2027–2030 payments strategy with World Bank support.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paiement numérique et inclusion financière : la GuiM accélère avec NimbaPay et fixe le cap vers Simandou 2040](https://www.africaguinee.com/paiement-numerique-et-inclusion-financiere-la-guim-accelere-avec-nimbapay-et-fixe-le-cap-vers-simandou-2040/)** — Africa Guinée, 26 November 2026
+
+Guineenne de Monetique shareholders met on 25 November 2026. They heard that NimbaPay processed over GNF 100 billion in its first four months. The national card switch handled 139,934 transactions in 2025, up from 29,419 in 2024, with seven banks live.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Payment Systems and Instruments Strategy 2027-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paiements : la BCRG lance la stratégie nationale 2027-2030 pour faire reculer le cash](https://convergencegn.com/2026/11/26/paiements-la-bcrg-lance-la-strategie-nationale-2027-2030-pour-faire-reculer-le-cash/)** — Convergence Guinée, 26 November 2026
+
+Guinea's central bank began work on its 2027-2030 national payment systems strategy on 24 November 2026, with AfricaNenda as partner. It has five pillars: interoperability, security and resilience, inclusion, innovation and governance. The aim is to reduce cash use.
 
 </div>
 
@@ -1502,6 +1602,34 @@ The Reserve Bank of Malawi said on 25 November 2026 that rules on fraud, mobile 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Money transfer costs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Malawi tops region in money transfer costs](https://times.mw/malawi-tops-region-in-money-transfer-costs/)** — The Times Group (Malawi), 26 November 2026
+
+Remittance fees to Malawi run up to 31.5%, the highest in the region according to the article. Airtime makes up 44% of mobile money transactions, and the sector had 20 million subscribers in the second quarter of 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Malawi Interbank Transfer and Settlement System (MITASS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Reserve Bank of Malawi Targets Safer Digital Payments Under 2026–2030 Strategy](https://techafricanews.com/2026/11/27/reserve-bank-malawi-targets-safer-digital-payments/)** — Tech Africa News, 27 November 2026
+
+The Reserve Bank of Malawi's upgraded interbank transfer and settlement system, MITASS, went live on 9 November 2026. It adopts ISO 20022 messaging and phases out cheques. The bank's payments director told a stakeholder conference on 25 November that financial inclusion is about 88%. He reported over 22.8 million registered mobile money wallets, more than 13 million of them active.
+
+</div>
+
+</div>
+
 ## Mali
 
 <div class="monthly-story" markdown="1">
@@ -1527,6 +1655,20 @@ New BCEAO rules on interoperable transfers took effect in Mali on 2 November 202
 **[Numérique : 545 tablettes remises pour étendre la plateforme de paiement TresorPay](https://malijet.com/actualite_economique_du_mali/312858-numerique-545-tablettes-remises-pour-etendre-la-plateforme.html)** — Malijet, 16 November 2026
 
 Mali's Ministry of Economy and Finance handed over 545 tablets on 16 November 2026 to extend the TresorPay public payment platform. The largest shares went to the security ministry (160), territorial administration (150), higher education (100) and transport (100). The data protection authority APDP received 35.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Decree 2024-0429 on digital payment in public services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paiements numériques en Commune IV : des avancées, des centres encore à la peine](https://www.maliweb.net/economie/developpement/paiements-numeriques-en-commune-iv-des-avancees-des-centres-encore-a-3121931.html)** — Maliweb, 26 November 2026
+
+Eight civil registry centres visited in Commune IV of Bamako have been using digital payment since Decree 2024-0429, with the switch dated 5 August 2024. Maliweb reports one payment terminal, power cuts and kiosks that still handle payments.
 
 </div>
 
@@ -1719,6 +1861,20 @@ The governor of Banco de Moçambique said on 28 October 2026 that the METIX inst
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Small-business owners using mobile money</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Inquérito FinScope às Micro, Pequenas e Médias Empresas — Moçambique 2025 (Relatório)](https://clubofmozambique.com/wp-content/uploads/2026/11/Portuguese_FinScope_MSME_Mozambique_2025-VF.pdf)** — FSD Moçambique (Financial Sector Deepening Moçambique), Banco de Moçambique and INE, with FinMark Trust, 19 November 2026
+
+The FinScope survey counts 5.2 million MSME owners and 5.9 million firms in Mozambique, of which 12% are formal. It finds 88% of owners financially included, 87% using mobile money and 19% banked. Only 42% use any technology.
+
+</div>
+
+</div>
+
 ## Namibia
 
 <div class="monthly-story" markdown="1">
@@ -1752,6 +1908,20 @@ Payment fraud cost Namibians N$32.45 million in the first half of 2026, up 18.9%
 **[Namibian banks handle 25% of SADC payments](https://www.namibian.com.na/namibian-banks-handle-25-of-sadc-payments/)** — The Namibian, 19 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 Namibian banks settled R708 billion through the SADC regional payment system in 2025, 25% of its R2.8 trillion total. The figures come from the Bank of Namibia's 2025 annual report. All Namibian participants moved to ISO 20022 messaging in November 2025. In December 2025 Namibia ranked second by value at R76.33 billion, behind South Africa.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Anti-Scam Command Centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[You’ve Been Scammed. Can Namibia Stop the Money in Time?](https://sekotech.com.na/2026/11/25/youve-been-scammed-can-namibia-stop-the-money-in-time/)** — SekoTech, 25 November 2026
+
+Namibian banks began piloting an Anti-Scam Command Centre on 9 November 2026. It traces and stops scam payments. In the first half of 2026, recoveries were N$34 per N$100 lost to EFT fraud. On card fraud they were N$80 per N$100.
 
 </div>
 
@@ -2308,7 +2478,7 @@ DIDx, a South African digital identity firm with a commercial stake in the outco
 
 <div class="bulletin-item" markdown="1">
 
-**[eZAR opens rand stablecoin to SA public](https://www.itweb.co.za/article/ezar-opens-rand-stablecoin-to-sa-public/8OKdWMDXO8jMbznQ)** — ITWeb South Africa, 2 November 2026
+**[eZAR opens rand stablecoin to SA public](https://web.archive.org/web/20261103032051/https://www.itweb.co.za/article/ezar-opens-rand-stablecoin-to-sa-public/8OKdWMDXO8jMbznQ)** — ITWeb South Africa, 2 November 2026
 
 eZAR, a rand-backed stablecoin, opened to the South African public after almost a year as a pilot. It is run by eZAR Ltd, Ninety One and AVBOB Financial Services. R303 million of tokens were in circulation on 30 October 2026. Reserves sit mainly in the Ninety One Money Market Fund. The issuer states that eZAR is a crypto asset, not legal tender or a bank deposit.
 

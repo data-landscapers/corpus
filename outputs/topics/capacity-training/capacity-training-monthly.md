@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: capacity.training
-places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZMB; ZWE
-record: 2dfc71dd78ea
+places: DZA; AGO; BEN; BFA; CPV; CAF; CIV; DJI; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN; ZMB; ZWE
+record: 85631278659e
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: 2dfc71dd78ea
 <a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cape-verde">Cape Verde</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#central-african-republic">Central African Republic</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -146,6 +148,22 @@ Benin was named the first pilot country of a UNESCO-backed AI initiative at a Ch
 **[Burkina/Économie : La DGI renforce les capacités de ses agents pour accélérer sa digitalisation](https://lefaso.net/spip.php?article150547)** — leFaso.net, 5 November 2026
 
 Burkina Faso's tax directorate began training more than 400 agents on 4 November 2026 in three digital systems: e-filing, certified e-invoicing and the online cadastre. Sessions are held in four cities. The DISMEFIP project, co-funded by Swiss cooperation and the government, pays for it.
+
+</div>
+
+</div>
+
+## Cape Verde
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National citizenship and digital-safety education programme for schools, 2027-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministério da Educação anuncia Programa Nacional de Educação para Cidadania e Segurança Digital](https://radioeducativa.gov.cv/noticias/401)** — Rádio Educativa (Cabo Verde), 27 November 2026
+
+Cabo Verde's education ministry announced a national programme of citizenship and digital-safety education in schools for 2027-2031. It was announced at the launch of a national cybersecurity campaign, reported on 27 November 2026. Its five priorities include digital literacy, responsible AI use, preventing cyberbullying and fraud, teacher training and reporting mechanisms. Each school is encouraged to draw up its own digital-safety plan.
 
 </div>
 
@@ -732,6 +750,28 @@ Nigeria's Federal Ministry of Education said on 16 November 2026 that its Nigeri
 **[Government invests in technical talent in partner countries](https://www.government.nl/latest/news/2026/11/20/government-invests-in-technical-talent-in-partner-countries)** — Ministry of Foreign Affairs (Netherlands), 20 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
 
 The Dutch Ministry of Foreign Affairs announced on 20 November 2026 a EUR 150 million programme, Knowledge Empowers You, for 2027 to 2031. It trains technical talent, with a chip-sector focus, in seven initial countries including Egypt, Morocco and Nigeria. No allocation per country is stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Foundation-funded digital skills programmes, 2026 intake</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[C'River Opens Digital Doors For 2,500 Young Women](https://news.crossriverstate.gov.ng/criver-opens-digital-doors-for-2-500-young-women/)** — Cross River State Government, Ministry of Information, 26 November 2026
+
+Cross River State will train 2,500 young women in ICT skills under an MoU with the Mastercard Foundation's TTS programme. It guarantees job placements for 2,000. Ten per cent of places go to women with disabilities and 5% to internally displaced women.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mastercard Foundation Opens Free Skills Applications for 30,000 Nigerian Women With Job Opportunities](https://www.nigeriastartupact.ng/mastercard-foundation-opens-free-skills-applications-for-30000-nigerian-women-with-job-opportunities/)** — Nigeria Startup Act, 27 November 2026
+
+Applications opened for the Mastercard Foundation Technology Talent Services programme in Nigeria. It aims to give free skills training to 30,000 women and connect at least 25,000 to jobs. A consortium led by Tech4Dev runs the 18-month pilot in 12 states. Courses include software engineering, customer service, AI and data operations.
 
 </div>
 

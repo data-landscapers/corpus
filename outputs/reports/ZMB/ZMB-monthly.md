@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: ZMB
 ledger_rows: 44
 not_held: 30
-record: 12d43ffdd412
+record: 8dd35b8db1c6
 ---
 
 # News, Oct – Nov 2026
@@ -158,7 +158,7 @@ ZICTA, Zambia's ICT regulator, wants comments on revised type approval rules for
 
 **[Guideline on the Zambia National Pharmaceutical Authentication and Traceability System (ZNPATS-006)](https://www.zamra.co.zm/wp-content/uploads/2026/11/Guideline-ZNPATS-006_25-Nov-2026_Final.pdf)** — Zambia Medicines Regulatory Authority (ZAMRA), 25 November 2026
 
-Serialised security labels via online portal; local products 1 Feb 2027, imports 1 May 2027, final deadline 1 Jan 2028.
+ZAMRA's guideline sets up a pharmaceutical authentication and traceability system. Products carry serialised security labels, applied through an online portal. Local products must comply from 1 February 2027. Imports must comply from 1 May 2027. The final deadline is 1 January 2028.
 
 </div>
 
@@ -198,7 +198,7 @@ Paradigm Initiative's Londa 2025 report ranks Zambia 6th of 29 African countries
 
 **[2027 Budget Address by Honourable Dr. Situmbeko Musokotwane, MP, Minister of Finance and National Planning, Delivered to the National Assembly on Friday, 6th November, 2026](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/2027%20Budget%20Speech_Final.pdf)** — National Assembly of Zambia (Ministry of Finance and National Planning), 6 November 2026
 
-K284.8bn 2027 budget, 28.4% of GDP; digital ID and government digitalisation lines; 572 services onboarded to date.
+Zambia's 2027 budget address sets spending at K284.8bn, 28.4% of GDP. It carries lines for digital ID and government digitalisation, and says 572 services have been onboarded to date.
 
 </div>
 
@@ -206,7 +206,7 @@ K284.8bn 2027 budget, 28.4% of GDP; digital ID and government digitalisation lin
 
 **[Zambia accelerates national digital ID plans](https://africabriefing.com/zambia-accelerates-national-digital-id-plans/)** — Africa Briefing, 25 November 2026
 
-ZK367.8m for digital ID in 2027 budget proposal; 572 of 1,578 services integrated; UNDP MoU, no new funding.
+Zambia's 2027 budget proposal earmarks ZK367.8 million ($17.8 million) for digital ID. Africa Briefing reports 572 of 1,578 government services integrated, a UNDP memorandum of understanding without new funding, and continuing gaps in registration and data protection.
 
 </div>
 

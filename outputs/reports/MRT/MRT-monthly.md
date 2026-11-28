@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: MRT
 ledger_rows: 25
 not_held: 3
-record: d095db5faa3f
+record: 035756cad7a9
 ---
 
 # News, Oct – Nov 2026
@@ -450,7 +450,7 @@ Mauritania scored 0.99 out of 4 on the Africa AI Governance Index 2026, in the N
 
 **[وكالة «تشغيل»: 3 منصات بالذكاء الاصطناعي و4 برامج للإدماج المهني](https://madar.mr/mauritanie/mauritania-techghil-employment-agency-launches-ai-job-platforms-four-integration-programmes-20261126)** — Madar, 26 November 2026
 
-Three AI job-matching platforms, a skills-assessment platform and four integration programmes; human oversight kept.
+Mauritania's employment agency Techghil launched three AI-based job-matching platforms on 26 November 2026. It also launched a skills-assessment platform and four professional-integration programmes. The employment minister said human oversight stays in assessment and selection.
 
 </div>
 

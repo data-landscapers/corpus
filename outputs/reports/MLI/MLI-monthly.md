@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: MLI
 ledger_rows: 25
 not_held: 1
-record: d46db62766a2
+record: 7ec6f7f7c1ca
 ---
 
 # News, Oct – Nov 2026
@@ -88,7 +88,7 @@ Maliweb reported on 8 November 2026 that Bamako hosted the second coordination m
 
 **[AES : Le Burkina Faso, le Mali et le Niger valident une convention de coopération dans le numérique et la poste](https://burkina24.com/2026/11/27/aes-le-burkina-faso-le-mali-et-le-niger-valident-une-convention-de-cooperation-dans-le-numerique-et-la-poste/)** — Burkina24, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Ministerial session, Ouagadougou, 27 Nov 2026; three postal platforms to connect; implementation action plan drafted.
+Ministers for digital affairs and posts of Burkina Faso, Mali and Niger validated a draft framework convention on cooperation in these fields in Ouagadougou on 27 November 2026. It would give the three Alliance of Sahel States members a legal framework for cooperation. It aims at interconnecting their digital and postal platforms and building a secure digital space.
 
 </div>
 
@@ -96,7 +96,7 @@ Ministerial session, Ouagadougou, 27 Nov 2026; three postal platforms to connect
 
 **[L'AES se dotent d’un cadre commun de coopération dans le Numérique et les Postes](https://www.wakatsera.com/laes-se-dotent-dun-cadre-commun-de-cooperation-dans-le-numerique-et-les-postes/)** — Wakat Séra, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Convention signed Ouagadougou 27 Nov 2026; infrastructure sharing, cybersecurity, PosTransfer; AES technical committee.
+Burkina Faso, Mali and Niger signed a framework convention on digital and postal cooperation in Ouagadougou on 27 November 2026. It covers shared digital infrastructure, connectivity, cybersecurity, e-government, AI and training. It also covers postal network interconnection and the PosTransfer money-transfer platform. A technical committee of the Alliance of Sahel States is to prepare implementing conventions.
 
 </div>
 
@@ -120,7 +120,7 @@ Convention signed Ouagadougou 27 Nov 2026; infrastructure sharing, cybersecurity
 
 **[12ème Session Conseil d’Administration de L’AGEFAU : Le Premier Ministre Abdoulaye MAIGA invite l’agence à poursuivre les reformes pour l’amélioration de la gouvernance](https://gouvernement.ml/12eme-session-conseil-dadministration-de-lagefau-le-premier-ministre-abdoulaye-maiga-invite-lagence-a-poursuivre-les-reformes-pour-lamelioration-de-la-gouvernanc/)** — Information Gouvernementale du Mali, 27 November 2026
 
-FCFA 58.75bn for 2027; coverage to 162 localities, solar charging stations, 48 school access centres.
+Mali's universal access fund agency, AGEFAU, adopted a 2027 budget of FCFA 58.75bn on 26 November 2026. The prime minister chaired the board session. The budget extends network coverage to 162 localities. It also funds public solar phone-charging stations there. It builds 48 universal access centres in public secondary schools.
 
 </div>
 
@@ -300,7 +300,7 @@ Mali's Ministry of Economy and Finance handed over 545 tablets on 16 November 20
 
 **[Paiements numériques en Commune IV : des avancées, des centres encore à la peine](https://www.maliweb.net/economie/developpement/paiements-numeriques-en-commune-iv-des-avancees-des-centres-encore-a-3121931.html)** — Maliweb, 26 November 2026
 
-Decree 2024-0429; switch from 5 Aug 2024; eight centres visited, one payment terminal, power cuts and kiosks.
+Eight civil registry centres visited in Commune IV of Bamako have been using digital payment since Decree 2024-0429, with the switch dated 5 August 2024. Maliweb reports one payment terminal, power cuts and kiosks that still handle payments.
 
 </div>
 

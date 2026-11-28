@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: SOM
 ledger_rows: 31
 not_held: 1
-record: 7b84424baf7c
+record: e591585774f8
 ---
 
 # News, Oct – Nov 2026
@@ -274,7 +274,7 @@ Somalia's National Identification and Registration Authority announced in late O
 
 **[Somalia Unveils New EAC-Aligned Passport In Uganda](https://www.dawan.africa/news/somalia-unveils-new-eac-aligned-passport-in-uganda)** — Dawan Africa, 26 November 2026
 
-Polycarbonate ICAO-standard passport in three types; ID card proposed as EAC travel document; launch undated.
+Somalia showed samples of its new third-generation electronic passport to EAC immigration heads in Kampala. It is made of polycarbonate to ICAO standards and comes in ordinary, service and diplomatic types. Somalia proposes its ID card as an EAC travel document. No launch date was given.
 
 </div>
 

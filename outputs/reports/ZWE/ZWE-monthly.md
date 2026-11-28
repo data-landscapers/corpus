@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: ZWE
 ledger_rows: 52
 not_held: 5
-record: 63f5a738d61d
+record: 67db771d6614
 ---
 
 # News, Oct – Nov 2026
@@ -674,7 +674,7 @@ Zimbabwe's police said logistics for an Electronic Traffic Management System wer
 
 **[ZMC pilots online media accreditation system, seeks stakeholder input](https://hararepost.com/2026/11/26/zmc-pilots-online-media-accreditation-system-seeks-stakeholder-input/)** — HararePost, 26 November 2026
 
-Pilot lets journalists outside Harare apply online; stakeholder feedback sought; Masvingo and Mutare offices planned.
+The Zimbabwe Media Commission has begun piloting an online accreditation system. Journalists outside Harare can apply online. The commission seeks stakeholder feedback and plans offices in Masvingo and Mutare.
 
 </div>
 

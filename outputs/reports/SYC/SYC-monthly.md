@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: SYC
 ledger_rows: 20
 not_held: 6
-record: 071460f6487a
+record: d116d1d0a73b
 ---
 
 # News, Oct – Nov 2026
@@ -248,7 +248,7 @@ Seychelles' Department of Blue Economy signed two open-ended data-sharing memora
 
 **[MECENR and NBS strengthen collaboration on climate and environmental data](https://www.nation.sc/articles/33377/mecenr-and-nbs-strengthen-collaboration-on-climate-and-environmental-data)** — Seychelles Nation, 27 November 2026
 
-Framework for timely, secure data sharing for climate monitoring; free lede only, signing date not stated.
+Seychelles' environment, climate and energy ministry and the National Bureau of Statistics signed a memorandum of understanding on climate, environmental and energy data, reported on 27 November 2026. It sets a framework for timely and secure data sharing between them. The signing date is not stated.
 
 </div>
 
@@ -396,7 +396,7 @@ A second cohort of 27 Seychelles civil servants was sent off at the Indian High 
 
 **[Open Government Reform: Seychelles Advances Plans to Strengthen Food Security, Citizen Participation and Public Accountability](https://www.statehouse.gov.sc/news/7387/open-government-reform-seychelles-advances-plans-to-strengthen-food-security-citizen-participation-and-public-accountability)** — Office of the President (State House Seychelles), 26 November 2026
 
-Validated 20 Nov 2026; e-participation portal, agriculture council, National Integrity Coalition; Cabinet approval next.
+Seychelles stakeholders validated three commitments for the Third OGP National Action Plan on 20 November 2026. They cover an e-participation portal, an agriculture council and a National Integrity Coalition. Cabinet approval is next.
 
 </div>
 

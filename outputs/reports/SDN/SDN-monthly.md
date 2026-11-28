@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: SDN
 ledger_rows: 39
 not_held: 5
-record: 972c9c1d526a
+record: 42c49de091ed
 ---
 
 # News, Oct – Nov 2026
@@ -166,7 +166,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[محافظ بنك السودان المركزي توقع مذكرة تفاهم مع محافظ البنك المركزي المصري](https://cbos.gov.sd/ar/news/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%AA%D9%88%D9%82%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%85%D8%B9-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A)** — Central Bank of Sudan, 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a>
 
-Signed Cairo 26 Nov 2026; trade-payment settlement, supervisory data exchange, payment-systems cooperation.
+The central banks of Sudan and Egypt signed a memorandum of understanding in Cairo on 26 November 2026. It covers settlement of trade payments, exchange of supervisory data and cooperation on payment systems.
 
 </div>
 
@@ -216,7 +216,7 @@ The ISO membership page, on file under 9 November 2026, lists the Sudanese Stand
 
 **[Sudan: State Minister of Finance Discusses AfDB Support for Public Financial Management Reform and TSA Systems Development](https://allafrica.com/stories/202611270628.html)** — Sudan News Agency via allAfrica, 26 November 2026
 
-AfDB support sought for Treasury Single Account systems; IPSAS capacity programme for about 200 staff.
+Sudan's state finance minister met the AfDB regional director to seek support for Treasury Single Account systems. The talks included an IPSAS capacity programme for about 200 staff.
 
 </div>
 

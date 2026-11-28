@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: SLE
 ledger_rows: 34
 not_held: 4
-record: da9dae41ccb3
+record: aea05bddf0a0
 ---
 
 # News, Oct – Nov 2026
@@ -558,7 +558,7 @@ A FinTech Innovation Lab has been set up at Sierra Leone's University Innovation
 
 **[SALPOST and Felei TechCity Present Investment Proposals at WAIIS 2026 Pre-Summit](https://mocti.gov.sl/salpost-and-felei-techcity-present-investment-proposals-at-waiis-2026-pre-summit/)** — Sierra Leone Ministry of Communication, Technology and Innovation, 26 November 2026
 
-Pitched 15 Nov 2026; Felei Phase I seeks US$30m on 130-acre Bo site; SALPOST seeks US$6.8m for 25-site network.
+Sierra Leone's communications ministry presented two investment proposals at WAIIS on 15 November 2026. Felei TechCity Phase I seeks US$30 million for a 130-acre site in Bo. SALPOST seeks US$6.8 million for a 25-site network.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: MDG
 ledger_rows: 36
 not_held: 5
-record: 536a9fc438b7
+record: da87e0cd3d61
 ---
 
 # News, Oct – Nov 2026
@@ -166,7 +166,7 @@ Madagascar's National Assembly put off the vote on access-to-public-information 
 
 **[E-COMMERCE – Un projet de loi attendu d’ici un an pour encadrer les ventes en ligne, selon le ministère du Commerce et de la consommation](https://www.2424.mg/e-commerce-un-projet-de-loi-attendu-dici-un-an-pour-encadrer-les-ventes-en-ligne-selon-le-ministere-du-commerce-et-de-la-consommation)** — 2424.mg, 26 November 2026
 
-Consultation 25-26 Nov 2026; drafted by MCI / XPR Digital under World Bank PIC3; bill targeted within a year.
+Madagascar's commerce ministry held consultations on 25 and 26 November 2026 on an e-commerce law. The MCI / XPR Digital consortium drafted it under the World Bank-backed PIC3 project. A bill is targeted within a year.
 
 </div>
 

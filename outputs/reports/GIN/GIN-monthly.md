@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: GIN
 ledger_rows: 28
 not_held: 2
-record: 382d34e1442d
+record: a3818a120e74
 ---
 
 # News, Oct – Nov 2026
@@ -230,7 +230,7 @@ Guinea's central bank said on 22 October 2026 that its instant payment system Ni
 
 **[Paiement numérique et inclusion financière : la GuiM accélère avec NimbaPay et fixe le cap vers Simandou 2040](https://www.africaguinee.com/paiement-numerique-et-inclusion-financiere-la-guim-accelere-avec-nimbapay-et-fixe-le-cap-vers-simandou-2040/)** — Africa Guinée, 26 November 2026
 
-NimbaPay passes GNF 100bn in four months; card switch 139,934 transactions in 2025, seven banks live.
+Guineenne de Monetique shareholders met on 25 November 2026. They heard that NimbaPay processed over GNF 100 billion in its first four months. The national card switch handled 139,934 transactions in 2025, up from 29,419 in 2024, with seven banks live.
 
 </div>
 
@@ -244,7 +244,7 @@ NimbaPay passes GNF 100bn in four months; card switch 139,934 transactions in 20
 
 **[Paiements : la BCRG lance la stratégie nationale 2027-2030 pour faire reculer le cash](https://convergencegn.com/2026/11/26/paiements-la-bcrg-lance-la-strategie-nationale-2027-2030-pour-faire-reculer-le-cash/)** — Convergence Guinée, 26 November 2026
 
-SNDSMP 2027-2030 work opens 24 Nov 2026; AfricaNenda backing; five pillars to push payments off cash.
+Guinea's central bank began work on its 2027-2030 national payment systems strategy on 24 November 2026, with AfricaNenda as partner. It has five pillars: interoperability, security and resilience, inclusion, innovation and governance. The aim is to reduce cash use.
 
 </div>
 

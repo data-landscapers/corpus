@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: NAM
 ledger_rows: 36
 not_held: 8
-record: d70352e434e5
+record: 836029675b10
 ---
 
 # News, Oct – Nov 2026
@@ -268,7 +268,7 @@ Namibia's bankers' association and central bank opened a fraud and cybersecurity
 
 **[Bank of Namibia: N$50.3 million lost to fraud](https://www.namibian.com.na/bank-of-namibia-n50-3-million-lost-to-fraud/)** — The Namibian, 25 November 2026
 
-N$50.3m reported fraud Jan-Oct 2026, down from over N$65m a year earlier; TransUnion: 65% of Namibians targeted.
+The Bank of Namibia says N$50.3 million was reported lost to fraud from January to October 2026, down from over N$65 million a year earlier. A TransUnion survey found 65% of Namibians had been targeted.
 
 </div>
 
@@ -398,7 +398,7 @@ Namibian banks settled R708 billion through the SADC regional payment system in 
 
 **[You’ve Been Scammed. Can Namibia Stop the Money in Time?](https://sekotech.com.na/2026/11/25/youve-been-scammed-can-namibia-stop-the-money-in-time/)** — SekoTech, 25 November 2026
 
-Anti-Scam Command Centre bank pilot from 2026-11-09; H1 2026 recoveries N$34 per N$100 EFT fraud, N$80 card.
+Namibian banks began piloting an Anti-Scam Command Centre on 9 November 2026. It traces and stops scam payments. In the first half of 2026, recoveries were N$34 per N$100 lost to EFT fraud. On card fraud they were N$80 per N$100.
 
 </div>
 

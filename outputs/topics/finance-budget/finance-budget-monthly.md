@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: finance.budget
-places: BEN; CIV; GAB; LBR; LBY; MAR; MOZ; SEN; SYC; TUN
-record: cc0c10d73d95
+places: BEN; CIV; GAB; LBR; LBY; MLI; MAR; MOZ; SEN; SYC; SDN; TUN; ZMB
+record: be475d59d830
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: cc0c10d73d95
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mali">Mali</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
@@ -28,7 +30,11 @@ record: cc0c10d73d95
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#seychelles">Seychelles</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sudan">Sudan</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zambia">Zambia</a>
 </nav>
 
 ## Benin
@@ -125,6 +131,22 @@ The Central Bank of Libya's statement of state revenue and spending for January 
 
 </div>
 
+## Mali
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Universal access fund budget</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[12ème Session Conseil d’Administration de L’AGEFAU : Le Premier Ministre Abdoulaye MAIGA invite l’agence à poursuivre les reformes pour l’amélioration de la gouvernance](https://gouvernement.ml/12eme-session-conseil-dadministration-de-lagefau-le-premier-ministre-abdoulaye-maiga-invite-lagence-a-poursuivre-les-reformes-pour-lamelioration-de-la-gouvernanc/)** — Information Gouvernementale du Mali, 27 November 2026
+
+Mali's universal access fund agency, AGEFAU, adopted a 2027 budget of FCFA 58.75bn on 26 November 2026. The prime minister chaired the board session. The budget extends network coverage to 162 localities. It also funds public solar phone-charging stations there. It builds 48 universal access centres in public secondary schools.
+
+</div>
+
+</div>
+
 ## Morocco
 
 <div class="monthly-story" markdown="1">
@@ -150,6 +172,20 @@ The presentation note to Morocco's 2027 draft finance bill gives the AI ministry
 **[وزارة الذكاء الاصطناعي تراهن على توفير نماذج مغربية ومنصة سيادية](https://www.hespress.com/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%aa%d9%88%d9%81%d9%8a-1840366.html)** — Hespress, 16 November 2026
 
 Morocco's AI and digital minister, Ahmed Rahhou, set out his ministry's 2027 programme to parliament, Hespress reported on 16 November 2026. It includes national language models for Darija and Amazigh. It also includes a sovereign AI platform. By mid-October the ministry had committed 6.31% of its 2026 budget.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public administration modernisation and digital transition fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AI & digital strategy: Ahmed Rahhou’s pragmatic blueprint](https://telquel.ma/2026/11/27/ai-digital-strategy-ahmed-rahhous-pragmatic-blueprint_2020171)** — TelQuel, 27 November 2026
+
+Morocco's Minister of Artificial Intelligence and Digital Transformation, Ahmed Rahhou, addressed the House of Representatives on 16 November 2026. He said Morocco will not compete with the firms building AI platforms, and will choose the stages where sovereignty is attainable. The AI Made in Morocco roadmap and Morocco Digital 2030 remain the framework. The January targets set by his predecessor were absent from his remarks.
 
 </div>
 
@@ -228,6 +264,22 @@ Seychelles' Ministry of Finance published Part 1 of its 2027 budget book. It con
 
 </div>
 
+## Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Treasury Single Account (TSA) implementation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sudan: State Minister of Finance Discusses AfDB Support for Public Financial Management Reform and TSA Systems Development](https://allafrica.com/stories/202611270628.html)** — Sudan News Agency via allAfrica, 26 November 2026
+
+Sudan's state finance minister met the AfDB regional director to seek support for Treasury Single Account systems. The talks included an IPSAS capacity programme for about 200 staff.
+
+</div>
+
+</div>
+
 ## Tunisia
 
 <div class="monthly-story" markdown="1">
@@ -239,6 +291,30 @@ Seychelles' Ministry of Finance published Part 1 of its 2027 budget book. It con
 **[Tunisie : 356,8 millions $ pour la transformation numérique en 2027 face à des défis persistants](https://www.agenceecofin.com/actualites-numerique/0911-143235-tunisie-356-8-millions-pour-la-transformation-numerique-en-2027-face-a-des-defis-persistants)** — Agence Ecofin, 9 November 2026
 
 Tunisia's communication technologies minister presented a 2027 budget of TND 1.07 billion on 6 November 2026, up 9.3%, Agence Ecofin reported. The ministry aims for 150 services on the Khadamet app, from over 40 now. It also plans 1.5 million active digital identities and 200 interoperability services.
+
+</div>
+
+</div>
+
+## Zambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed 2027 allocation for digitalising government services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[2027 Budget Address by Honourable Dr. Situmbeko Musokotwane, MP, Minister of Finance and National Planning, Delivered to the National Assembly on Friday, 6th November, 2026](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/2027%20Budget%20Speech_Final.pdf)** — National Assembly of Zambia (Ministry of Finance and National Planning), 6 November 2026
+
+Zambia's 2027 budget address sets spending at K284.8bn, 28.4% of GDP. It carries lines for digital ID and government digitalisation, and says 572 services have been onboarded to date.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia accelerates national digital ID plans](https://africabriefing.com/zambia-accelerates-national-digital-id-plans/)** — Africa Briefing, 25 November 2026
+
+Zambia's 2027 budget proposal earmarks ZK367.8 million ($17.8 million) for digital ID. Africa Briefing reports 572 of 1,578 government services integrated, a UNDP memorandum of understanding without new funding, and continuing gaps in registration and data protection.
 
 </div>
 

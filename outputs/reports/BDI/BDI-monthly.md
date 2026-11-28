@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: BDI
 ledger_rows: 32
 not_held: 7
-record: 852225e9301e
+record: 555ab0cb9275
 ---
 
 # News, Oct – Nov 2026
@@ -168,7 +168,7 @@ Burundi's finance and digital economy minister met South Korea's science and ICT
 
 **[FTS of Russia and Burundi’s Ministry of Finance, Budget and Digital Economy Sign Memorandum of Understanding and Technical Cooperation](https://www.nalog.gov.ru/eng/media/news/16679221/)** — Federal Tax Service of Russia, 26 November 2026
 
-Three priorities: tax digitalisation, technical assistance, training; Russian VAT, cash-register, civil registers shown.
+Burundi's finance and digital economy ministry signed a memorandum with Russia's Federal Tax Service on 26 November 2026. It names three priorities: tax digitalisation, technical assistance and training. Russian VAT, cash-register and civil register systems were shown to the Burundian delegation.
 
 </div>
 

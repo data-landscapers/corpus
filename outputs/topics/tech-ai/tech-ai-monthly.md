@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 96d225f7b4c7
+record: e8db3e329f80
 ---
 
 # News, Oct – Nov 2026
@@ -1045,6 +1045,14 @@ Ghana Police's TraffiTech-GH camera enforcement system went live on 1 November 2
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Traffitech records 13,699 offences, GH¢4m fines in first week – Interior Minister](https://www.myjoyonline.com/traffitech-records-13699-offences-gh%c2%a24m-fines-in-first-week-interior-minister/)** — MyJoyOnline, 26 November 2026
+
+Ghana's interior minister said the TraffiTech-GH system recorded 13,699 offences in its first week, with fines of nearly GH¢4 million. He reported fewer road crashes. The system enforces speed limits only at present.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1452,6 +1460,20 @@ Mauritania scored 0.99 out of 4 on the Africa AI Governance Index 2026, in the N
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Employment agency AI job-matching platforms</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وكالة «تشغيل»: 3 منصات بالذكاء الاصطناعي و4 برامج للإدماج المهني](https://madar.mr/mauritanie/mauritania-techghil-employment-agency-launches-ai-job-platforms-four-integration-programmes-20261126)** — Madar, 26 November 2026
+
+Mauritania's employment agency Techghil launched three AI-based job-matching platforms on 26 November 2026. It also launched a skills-assessment platform and four professional-integration programmes. The employment minister said human oversight stays in assessment and selection.
+
+</div>
+
+</div>
+
 ## Mauritius
 
 <div class="monthly-story" markdown="1">
@@ -1833,6 +1855,20 @@ Rwanda's ICT ministry signed a memorandum with the AI Skills and Compute Africa 
 **[Rwanda’s First Voice AI Companion ‘Miss Baza’ Launched by MTN and Viamo](https://radiotv10.rw/en/rwandas-first-voice-ai-companion-miss-baza-launched-by-mtn-and-viamo/)** — RADIOTV10, 31 October 2026
 
 MTN Rwanda and Viamo launched Miss Baza on 29 October 2026, a voice AI assistant reached by dialling 845 on an ordinary phone without internet. It answers in Kinyarwanda, English, French and Kiswahili, with 30 free minutes a month and Rwf45 a minute after that. MTN said it had more than 500,000 users.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Chidi AI learning companion and educator AI training pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda tests AI education tool](https://itweb.africa/article/rwanda-tests-ai-education-tool/kLgB17ezQr2M59N4)** — ITWeb Africa, 27 November 2026
+
+One year into a partnership between ALX, Anthropic and Rwanda's Ministry of Education, 85% of a first cohort of 146 teachers had completed AI Career Essentials training. Up to 2,000 educators are to follow. Findings from the pilot are to inform Rwanda's national policy on AI in education.
 
 </div>
 

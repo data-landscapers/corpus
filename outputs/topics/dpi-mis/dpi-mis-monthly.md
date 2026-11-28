@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0a819ded6732
+places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 812bc9763948
 ---
 
 # News, Oct – Nov 2026
@@ -32,6 +32,8 @@ record: 0a819ded6732
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#djibouti">Djibouti</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
@@ -45,6 +47,8 @@ record: 0a819ded6732
 <a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gambia">Gambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -364,6 +368,22 @@ Congo's health ministry began training community health workers in Brazzaville's
 **[Communiqué du conseil des ministres 14 octobre 2026](https://www.fratmat.info/article/2645204/politique/communique-du-conseil-des-ministres-14-octobre-2026)** — Fraternite Matin, 15 October 2026
 
 Côte d'Ivoire's Council of Ministers adopted the decree on clearing the 3.3–3.6 GHz band for 5G and ratified a EUR 189.6 million IDA loan. Part of the loan will make the employment observatory's labour-market data platform operational.
+
+</div>
+
+</div>
+
+## Djibouti
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Gender-based violence information management system (GBVIMS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le chef de l’Etat préside les travaux de la 15e séance du Conseil des ministres](https://www.adi.dj/public/article/139144)** — Agence Djiboutienne d’Information (ADI), 25 November 2026
+
+Djibouti's Council of Ministers heard that gender-based violence cases recorded by GBVIMS rose 25% to 971 in 2025. It reviewed the 2027 budget at FDJ 188 billion, and a minister reported on the ITU Plenipotentiary Conference.
 
 </div>
 
@@ -699,6 +719,22 @@ IKA Technologie presented on 29 September 2026 the integrated customs operations
 **[Gabon/Agriculture : AGRI-TRACK 241, une plateforme numérique pour accompagner la filière avicole](https://agpgabon.ga/gabon-agriculture-agri-track-241-une-plateforme-numerique-pour-accompagner-la-filiere-avicole/)** — Agence Gabonaise de Presse, 7 November 2026
 
 Gabon's agriculture and digital-economy ministries signed a cooperation protocol on 3 November 2026 to deploy AGRI-TRACK 241, a platform for agricultural data. AGP reported it on 7 November 2026. Its first module, SYSTEP, will support 150 poultry farms, starting with a cohort of 79. This is ahead of a halt to broiler imports set for 1 January 2027.
+
+</div>
+
+</div>
+
+## Gambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Taye Sama informal-sector social security system (ISMIS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[New In-House Scheme Saves SSHFC D51.8m And Builds Gambia’s First Informal Sector Social Security System](https://standard.gm/new-in-house-scheme-saves-sshfc-d51-8m-and-builds-gambias-first-informal-sector-social-security-system/)** — The Standard, 12 October 2026
+
+The Social Security and Housing Finance Corporation built the management information system for its Taye Sama informal-sector scheme with its own staff. The system supports offline enrolment and Wave payments, and was reported ready for rollout in April 2026. The Standard reports a saving of D51.8 million.
 
 </div>
 
@@ -1420,6 +1456,20 @@ TechCabal profiles eHealth Africa, a non-profit that maps settlements and plans 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NIN verification of agricultural programme beneficiaries</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG moves to build unified digital agric architecture](https://businessaffairs.com.ng/fg-moves-to-build-unified-digital-agric-architecture/)** — Business Affairs, 26 November 2026
+
+Nigeria's agriculture minister inaugurated a joint technical committee on digital agriculture architecture on 26 November 2026, under the AGROW project. It is to inventory farmer data systems and set rules for registries and data sharing.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -1739,6 +1789,34 @@ Tech Africa News reported on 6 November 2026 on Tanzania's M-Mama emergency refe
 **[Digital transformation cuts NHIF claims payment period to 50 days](https://www.thecitizen.co.tz/tanzania/news/national/digital-transformation-cuts-nhif-claims-payment-period-to-50-days-5661158)** — The Citizen, 6 November 2026
 
 Tanzania's National Health Insurance Fund cut its average claims settlement time from 120 to 50 days in FY2024/25, according to its briefing of 6 November 2026. It credits digitised claims processing and AI. It reports paper claim forms down 75% and card costs down 80%, with systems linked to NIDA and RITA.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health facilities with facility-wide electronic systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania leads Africa in health systems, but gaps remain](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-leads-africa-in-health-systems-but-gaps-remain-5684938)** — The Citizen, 26 November 2026
+
+WHO's 2026 assessment gave Tanzania 93% for health information system maturity, against a regional average of 59%. Only 2% of its health facilities have facility-wide electronic systems, and HIS financing scored 53%.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Attorney General's Legal Sector Management Information System (LSMIS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Attorney General launches digital systems and strategic documents toward the implementation of Vision 2050](https://www.oag.go.tz/news/attorney-general-launches-digital-systems-and-strategic-documents-toward-the-implementation-of-vision-2050)** — Office of the Attorney General (Tanzania), 27 November 2026
+
+Tanzania's Office of the Attorney General launched three items in Arusha on 26 November 2026. They are a Legal Sector Management Information System, an electronic library system and its 2026/27-2030/31 Strategic Plan. It also signed a memorandum of understanding with the Public Procurement Regulatory Authority. The memorandum covers oversight of public procurement.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: tech.innovate
 places: DZA; AGO; BEN; BFA; BDI; CAF; CIV; COD; EGY; SWZ; ETH; GMB; GHA; KEN; MWI; MRT; MUS; MAR; NAM; NGA; SEN; SLE; ZAF; SSD; TZA; TGO; TUN; ZWE
-record: 0a89c9957509
+record: 434c65a88729
 ---
 
 # News, Oct – Nov 2026
@@ -430,6 +430,20 @@ The National Bank of Ethiopia issued a regulatory sandbox directive, in force fr
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">KAMA open-innovation programme (Ethiopian Investment Holdings)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EIH to invest $10 million in startups that solve problems at state enterprises](https://www.ethiopianbusinessreview.net/eih-to-invest-10-million-in-startups-that-solve-problems-at-state-enterprises/)** — Ethiopian Business Review, 26 November 2026
+
+Ethiopian Investment Holdings launched KAMA with ALX Africa on 26 November 2026. Startups can respond to challenge briefs from eight state-owned enterprises, with US$10 million of equity for those that succeed. Applications close on 7 January 2027.
+
+</div>
+
+</div>
+
 ## Gambia
 
 <div class="monthly-story" markdown="1">
@@ -699,6 +713,20 @@ Senegal's digital economy ministry announced a demo day in Dakar on 24 November 
 **[Sierra Leone Advances FinTech Innovation as UniPod Becomes Startup Acceleration Hub](https://spearnewssl.com/sierra-leone-advances-fintech-innovation-as-unipod-becomes-startup-acceleration-hub/)** — The Spear News SL, 10 November 2026
 
 A FinTech Innovation Lab has been set up at Sierra Leone's University Innovation Pod (UniPod) by UNCDF, the EU and the Bank of Sierra Leone, The Spear News SL reported on 10 November 2026. It gives early-stage fintech startups acceleration support and access to the central bank's regulatory sandbox. The date it was set up is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Felei TechCity, Tikonko special economic zone</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SALPOST and Felei TechCity Present Investment Proposals at WAIIS 2026 Pre-Summit](https://mocti.gov.sl/salpost-and-felei-techcity-present-investment-proposals-at-waiis-2026-pre-summit/)** — Sierra Leone Ministry of Communication, Technology and Innovation, 26 November 2026
+
+Sierra Leone's communications ministry presented two investment proposals at WAIIS on 15 November 2026. Felei TechCity Phase I seeks US$30 million for a 130-acre site in Bo. SALPOST seeks US$6.8 million for a 25-site network.
 
 </div>
 

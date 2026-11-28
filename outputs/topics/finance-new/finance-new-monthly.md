@@ -1,10 +1,10 @@
 ---
 title: New investments — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: finance.new
 places: DZA; AGO; BEN; BWA; COG; CIV; DJI; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
-record: ceda25fbd3cd
+record: 9e252ef4a05b
 ---
 
 # News, Oct – Nov 2026
@@ -445,6 +445,28 @@ Morocco's Bulletin officiel of 1 October 2026 published decrees approving two Wo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EBRD financing for the airports operator's digital transformation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EBRD Project Summary Document 55857 — ONDA's digital transformation](https://www.ebrd.com/home/work-with-us/projects/psd/55857.html)** — European Bank for Reconstruction and Development, 23 November 2026
+
+The EBRD project summary describes a EUR 100 million programme for the Moroccan airports office ONDA, with EUR 80 million from the bank. It has a board date of 2 December 2026. The summary lists passenger-data protection and e-gate accessibility tests.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Aéroports : La BERD envisage un financement de 80 millions d’euros pour la digitalisation de l’ONDA](https://fnh.ma/articles/aeroports-la-berd-envisage-un-financement-de-80-millions-d-euros-pour-la-digitalisation-de-l-onda)** — Finances News Hebdo, 25 November 2026
+
+The EBRD is due to consider EUR 80 million for the digital transformation of Morocco's airports operator ONDA on 2 December 2026. The EUR 100 million programme covers 24 airports, with e-gates, cybersecurity and personal-data protection.
+
+</div>
+
+</div>
+
 ## Nigeria
 
 <div class="monthly-story" markdown="1">
@@ -508,6 +530,20 @@ Rwanda's parliament ratified EUR 17 million of World Bank financing for digital 
 **[Digitalization of Rwanda`s urban and fruit trees value chain](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-766203)** — Food and Agriculture Organization (FAO), 31 October 2026
 
 FAO reported a USD 100,000 grant to Rwanda in its IATI file, committed on 31 October 2026. It funds a digital monitoring system for the fruit tree value chain. The system serves planning, extension services and market links, from October 2026 to October 2028.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">African Development Bank loans for the Centre of Excellence for Biomedical Engineering and E-Health, Phase 2</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Communiqué of the Cabinet Meeting of 26 November 2026](https://www.primature.gov.rw/fileadmin/user_upload/Primature/Publications/Cabinet_Decisions/English/2026_Cabinet_Resolutions/Cabinet_Communique_26.11.2026.pdf)** — Office of the Prime Minister (Rwanda), 26 November 2026
+
+Rwanda's Cabinet was briefed on 26 November 2026 on mobile number portability, which includes mobile money wallets. It approved draft laws ratifying African Development Fund and AfDB loans for the Centre of Excellence for Biomedical Engineering and E-Health.
 
 </div>
 

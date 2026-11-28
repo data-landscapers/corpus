@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: gov.protect
 places: DZA; AGO; BEN; BFA; BDI; CMR; COG; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5fbeae2f87ea
+record: 37028a0cfdc3
 ---
 
 # News, Oct – Nov 2026
@@ -357,6 +357,28 @@ Ghana's Data Protection Commission directed an Accra hospital to report to the p
 **[Data Protection Commission clamps down on organisations breaching regulations, microfinance firm and health facility referred to police for prosecution](https://www.graphic.com.gh/news/general-news/data-protection-commission-clamps-down-on-organisations-breaching-regulations-microfinance-firm-and-health-facility-referred-to-police-for-prosecution.html)** — Graphic Online, 13 October 2026
 
 Ghana's Data Protection Commission began field enforcement in Accra on 12 October 2026, finding two hospitals operating with expired certificates; a microfinance firm and a health facility were referred to police for prosecution. Executive director Arnold Kavaarpuo said 2,575 data controllers registered in 2026, more than in any previous year, and that registration alone is not compliance.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Protection Act 2012</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government moves to review Data Protection Act](https://www.myjoyonline.com/government-moves-to-review-data-protection-act/)** — MyJoyOnline, 27 November 2026
+
+Ghana's Communications Minister Samuel Nartey George said on 26 November 2026 that the government will review the Data Protection Act. He spoke at the 8th Privacy Symposium Africa in Accra. The review will involve Parliament's Select Committee on Communication. The Data Protection Commission set 2027 targets for stronger enforcement and legislative reform.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sam George Warns Ministries and State Agencies of Strict Sanctions Over Data Breaches](https://gitficonline.com/sam-george-warns-ministries-and-state-agencies-of-strict-sanctions-over-data-breaches/)** — GITFiConline, 27 November 2026
+
+Ghana's Communications Minister Sam George said on 27 November 2026 that public institutions face sanctions for data breaches. He said the Data Protection Commission may penalise state bodies. He cited cautions already issued to the Ministry of Foreign Affairs and to Parliament. He said the Data Protection Act, 2012 is being updated with Parliament and the Commission.
 
 </div>
 

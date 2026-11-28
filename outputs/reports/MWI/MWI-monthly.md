@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: MWI
 ledger_rows: 42
 not_held: 28
-record: 5c3dccdbb84e
+record: 37033f1fadd8
 ---
 
 # News, Oct – Nov 2026
@@ -458,7 +458,7 @@ The Reserve Bank of Malawi said on 25 November 2026 that rules on fraud, mobile 
 
 **[Malawi tops region in money transfer costs](https://times.mw/malawi-tops-region-in-money-transfer-costs/)** — The Times Group (Malawi), 26 November 2026
 
-Remittance fees up to 31.5%, highest in region; airtime 44% of mobile money transactions; 20m subscribers Q2 2025.
+Remittance fees to Malawi run up to 31.5%, the highest in the region according to the article. Airtime makes up 44% of mobile money transactions, and the sector had 20 million subscribers in the second quarter of 2025.
 
 </div>
 
@@ -764,7 +764,7 @@ WorldPop and the UK Office for National Statistics ran a five-day workshop in Bl
 
 **[Malawi Just Relaunched Its Power of Data. Here's Why the World Should Pay Attention](https://www.linkedin.com/pulse/malawi-just-relaunched-its-power-data-heres-why-world-ohuruogu-phd-igsjc/)** — LinkedIn (Victor Ohuruogu), 26 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
-Power of Data and NSDS relaunched 24 Nov 2026; 2028 census US$52m, US$15m gap; Ghana data MoUs 5 to 34.
+Malawi relaunched the Power of Data initiative and its National Strategy for the Development of Statistics in Lilongwe on 24 November 2026. The author puts the 2028 census at US$52 million, with a US$15 million gap. Ghana's data-sharing MoUs rose from 5 to 34.
 
 </div>
 

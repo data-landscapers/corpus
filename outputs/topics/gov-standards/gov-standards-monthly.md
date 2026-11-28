@@ -1,10 +1,10 @@
 ---
 title: Standards — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: gov.standards
 places: DZA; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; SEN; ZAF; SDN; TUN; UGA; ZMB
-record: a78f0020a875
+record: b7e356f824d5
 ---
 
 # News, Oct – Nov 2026
@@ -778,6 +778,20 @@ Uganda's business registry, URSB, has received ISO/IEC 27001:2022 certification 
 **[Public Notice: Draft Revised Type Approval Guidelines for Electronic Communications Equipment](https://ib-lenhardt.com/media/pages/news/consultation-on-draft-revised-type-approval-guidelines/3220b471e8-1792662126/public-notice-draft-revised-type-approval-guidelines_20102026.pdf)** — Zambia Information and Communications Technology Authority, 21 October 2026
 
 ZICTA, Zambia's ICT regulator, wants comments on revised type approval rules for telecoms equipment by 20 November 2026. The draft splits equipment into high-risk and low-risk classes. Some goods could leave customs before approval.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Pharmaceutical Authentication and Traceability System (ZNPATS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guideline on the Zambia National Pharmaceutical Authentication and Traceability System (ZNPATS-006)](https://www.zamra.co.zm/wp-content/uploads/2026/11/Guideline-ZNPATS-006_25-Nov-2026_Final.pdf)** — Zambia Medicines Regulatory Authority (ZAMRA), 25 November 2026
+
+ZAMRA's guideline sets up a pharmaceutical authentication and traceability system. Products carry serialised security labels, applied through an online portal. Local products must comply from 1 February 2027. Imports must comply from 1 May 2027. The final deadline is 1 January 2028.
 
 </div>
 

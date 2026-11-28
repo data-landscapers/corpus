@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fc6b21524362
+record: 0de1dba099ea
 ---
 
 # News, Oct – Nov 2026
@@ -265,6 +265,20 @@ Angola's Serviço de Migração e Estrangeiros has made border-visa applications
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">O Meu Parlamento app and National Assembly portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Parlamento inaugura nova era de proximidade digital](https://www.parlamento.ao/noticias/72506)** — Assembleia Nacional de Angola, 27 November 2026
+
+Angola's National Assembly launched the O Meu Parlamento mobile app and a redesigned web portal on 26 November 2026. Citizens can follow the work of deputies and committees, consult laws and submit petitions, complaints and concerns. Both are available in Portuguese, English and French.
+
+</div>
+
+</div>
+
 ## Benin
 
 <div class="monthly-story" markdown="1">
@@ -467,6 +481,14 @@ Cameroon's public-service minister Joseph Le reviewed the servicepublic.gov.cm p
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[servicepublic.gov.cm: Cameroon's public services move towards a digital future](https://www.minfopra.gov.cm/index.php/fr/a-la-une/2400-servicepublic-gov-cm-cameroon-s-public-services-move-towards-a-digital-future)** — MINFOPRA, 11 November 2026
+
+Cameroon's civil service ministry held a validation meeting on 10 November 2026 for its national public service portal. The portal lists about 1,250 procedures from 40 institutions in 25 categories. ADWA SARL built it, CAMTEL hosts it, and launch is set for 18 December 2026.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -576,6 +598,14 @@ Chad's state mining company SONEMIC handed servers, interconnection equipment an
 **[Digitalisation de l’administration : le comité de pilotage fixe ses priorités](https://www.adiac-congo.com/content/digitalisation-de-ladministration-le-comite-de-pilotage-fixe-ses-priorites-172010)** — Les Dépêches de Brazzaville, 17 October 2026
 
 The steering committee of Congo's task force on digitalising the administration, created by decree 2026-261 of 29 July 2026, met for the first time on 15 October 2026 and chose four priorities. They are e-visas and entry authorisation before visa-free entry for Africans from January 2027, digital criminal records and birth certificates, a clean-up of the civil-service personnel file, and data sharing between revenue agencies and land administration.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Compte rendu du Conseil des ministres du mercredi 25 novembre 2026](https://sgg.cg/ccm/compte-rendu-cm-25-novembre-2026.pdf)** — Secrétariat général du Gouvernement (République du Congo), 25 November 2026
+
+Congo's Council of Ministers met on 25 November 2026. It heard that about 100 public services are listed for digitalisation. E-Visa is a priority. The meeting also covered the rebasing of national accounts to SNA 2008. Congo is a founding state of WAICO.
 
 </div>
 
@@ -801,6 +831,20 @@ On 19 November 2026 the Deputy Prime Minister for the civil service announced E-
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Foreign ministry digital master plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : le numérique doit renforcer la souveraineté nationale, sans créer de nouvelles dépendances (Ministre d’Etat Kayikwamba)](https://acp.cd/nation/rdc-le-numerique-doit-renforcer-la-souverainete-nationale-sans-creer-de-nouvelles-dependances-ministre-detat-kayikwamba/)** — Agence congolaise de presse (ACP), 26 November 2026
+
+The DR Congo foreign ministry moved the deadline of its EU-supported digital master plan from 2030 to 2028, the minister said on 26 November 2026. The roadmap has 27 initiatives on four axes. Electronic mail management is live, and control of data is a priority.
+
+</div>
+
+</div>
+
 ## Egypt
 
 <div class="monthly-story" markdown="1">
@@ -928,6 +972,20 @@ Egypt's foreign ministry said on 4 November 2026 that the first phase of the Uni
 **[Egypt to launch online seafarer passport and certificate services Thursday](https://sis.gov.eg/en/media-center/news/egypt-to-launch-online-seafarer-passport-and-certificate-services-thursday/)** — State Information Service, 18 November 2026
 
 The transport minister announced that Egypt's maritime safety authority would offer online issuance and renewal of seafarer passports and some certificates from Thursday 19 November 2026. There are no extra fees. Users can verify certificates by QR code, and more services are to follow gradually.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Economic Entities Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt to launch unified digital platform for economic entities in 2027](https://sis.gov.eg/en/media-center/news/egypt-to-launch-unified-digital-platform-for-economic-entities-in-2027/)** — State Information Service (Egypt), 26 November 2026
+
+Egypt's investment minister spoke to Turkish investors. He said a single digital platform for business approvals and licences will launch in 2027.
 
 </div>
 
@@ -1241,6 +1299,20 @@ The Gambia's finance ministry and the Gambia Revenue Authority signed a 10-year 
 **[Gambia Revenue Authority Collecting Revenue for National Development](https://www.gra.gm/news/7a597617-e44d-11f1-96d0-029254d29bb1)** — Gambia Revenue Authority, 19 November 2026
 
 The Gambia Revenue Authority said on 19 November 2026 that a delegation visited SICPA in Switzerland from 16 to 20 November. SICPA holds a 2023 concession in The Gambia; topics included mobile-money onboarding for revenue monitoring, tax-stamp authentication and fuel testing. SICPA's AI-assisted fuel surveillance platform is not yet deployed there.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated Digital Cabinet Management System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GICTA develops digital cabinet system to cut meeting hours, boost efficiency](https://thepoint.gm/africa/gambia/national-news/gicta-develops-digital-cabinet-system-to-cut-meeting-hours-boost-efficiency)** — The Point, 27 November 2026
+
+The Gambia's GICTA unveiled a prototype Integrated Digital Cabinet Management System, built in-house, on 25 November 2026. It came at the close of a WARDIP-funded software engineering course for 17 government staff. The Director General put its cost under USD 150,000, against USD 1-5m through international procurement.
 
 </div>
 
@@ -1616,6 +1688,34 @@ Kenya's Ministry of Information, Communications and the Digital Economy joined t
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Election technology contract award to Smartmatic</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya court asked to block Smartmatic election tech award](https://www.biometricupdate.com/202611/kenya-court-asked-to-block-smartmatic-election-tech-award)** — Biometric Update, 26 November 2026
+
+Kenya's High Court agreed to hear urgently a petition against the IEBC's award of a KSh 17.6 billion (USD 136 million) election technology contract to Smartmatic. The petition cites a US bribery indictment and a rival bid KSh 3 billion lower. Directions are set for 30 November.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">High Court petition on eCitizen collections (HCCHRPET/E015/2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[High Court orders banks, agencies to preserve eCitizen records in Sh9.4 billion probe](https://eastleighvoice.co.ke/news/428879/high-court-orders-banks-agencies-to-preserve-ecitizen-records-in-sh94-billion-probe)** — The Eastleigh Voice, 27 November 2026
+
+Kenya's High Court ordered agencies, banks and private entities linked to eCitizen to preserve the platform's collection, settlement and disbursement records on 26 November 2026. A petition queries about KSh 9.4 billion, including KSh 6.3 billion through Pesaflow and Equity Bank accounts. The hearing is set for 16 December 2026.
+
+</div>
+
+</div>
+
 ## Lesotho
 
 <div class="monthly-story" markdown="1">
@@ -1963,6 +2063,20 @@ Mauritania's national solidarity agency launched Sanad, a single digital platfor
 **[E-gouvernance : le Bénin et la Mauritanie à l'école estonienne, et vice versa](https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne)** — TransContinents Africa, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
 Benin and Mauritania compared their digital government programmes at Estonia's embassy in Paris on 28 October 2026. Benin reported more than 210 end-to-end online services, up from five at launch in March 2020, and digital identity for over 99% of the population. Mauritania reported about 40 transactional services out of nearly 900 targeted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital zakat management platform on Khidmati</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الزكاة عبر الهاتف: إطلاق منصة رقمية لإدارتها على بوابة «خدماتي»](https://madar.mr/mauritanie/mauritania-digital-zakat-platform-launch-khidmati-20261127)** — Madar, 27 November 2026
+
+Mauritania launched a digital zakat management platform on its Khidmati portal on 27 November 2026. Payers can settle zakat by mobile phone and e-wallet. The platform links to the civil register and the social registry to identify beneficiaries. No user or collection figures were given.
 
 </div>
 
@@ -2528,6 +2642,20 @@ Somalia's House of the People will suspend sessions for two weeks from 31 Octobe
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SOFIA online aviation licensing platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia Moves Aviation Licensing Online in Step Towards EAC Safety Standards](https://www.dawan.africa/news/somalia-moves-aviation-licensing-online-in-step-towards-eac-safety-standards)** — Dawan Africa, 27 November 2026
+
+Somalia's civil aviation authority launched the first phase of SOFIA, an online licensing platform, announced on 26 November 2026. It follows the rules of CASSOA, the East African Community's aviation oversight body. Personal licensing is live and implementation is past 50%. The director general said at least US$500,000 was spent on servers and equipment.
+
+</div>
+
+</div>
+
 ## South Africa
 
 <div class="monthly-story" markdown="1">
@@ -2982,6 +3110,14 @@ Togo's Ministry of Territorial Planning and Urban Development put two new servic
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Urbanisme : deux nouvelles démarches accessibles en ligne](https://www.republiquetogolaise.tg/services-publics/2611-12536-urbanisme-deux-nouvelles-demarches-accessibles-en-ligne)** — République Togolaise (Togo Officiel), 26 November 2026
+
+Togo's urban planning ministry added two procedures to the national public services portal. Users can now file a complaint about a building permit and appeal a planning decision online.
+
+</div>
+
 </div>
 
 
@@ -3031,6 +3167,20 @@ Togo's public-sector pension fund, the Caisse de retraite du Togo, is moving the
 **[BIOSECU CRT / Le contrôle de vie des retraités entre dans l'ère du numérique - Ministère des Finances et du Budget](https://finances.gouv.tg/biosecu-crt-le-controle-de-vie-des-retraites-entre-dans-lere-du-numerique/)** — Ministère des Finances et du Budget, Togo, 17 November 2026
 
 Togo's finance minister launched BIOSECU-CRT on 16 November 2026, an online facial-recognition check that pensioners are alive. It covers the Caisse de Retraites du Togo's 40,043 beneficiaries as at end-October 2026. It reuses the CNSS's BIOSECU system, built with the Togolese integrator LIKSOFT, and enrolment is open to 16 February 2027. The CRT and INAM are to merge into one social security institute.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Togocham online certificates of origin</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Commerce extérieur : les demandes d'attestation et de certificat d'origine digitalisées](https://www.republiquetogolaise.tg/tic/2711-12541-commerce-exterieur-les-demandes-dattestation-et-de-certificat-dorigine-digitalisees)** — République Togolaise (Togo Officiel), 27 November 2026
+
+Togo's Chamber of Commerce and Industry will take applications for the attestation of origin and the Form A certificate of origin only online from 30 November 2026. Firms apply on the Togocham platform, free of charge. An exporters' training session was held on 24 November.
 
 </div>
 
@@ -3276,6 +3426,20 @@ Zambia's Ministry of Home Affairs and Internal Security ended manual passport ap
 **[Electronic traffic system being finalised](https://www.zimbabwesituation.com/news/electronic-traffic-system-being-finalised/)** — Zimbabwe Situation, 13 October 2026
 
 Zimbabwe's police said logistics for an Electronic Traffic Management System were being finalised. The system is linked to the vehicle and civil registries to identify offenders and issue penalties electronically.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Media commission online accreditation system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZMC pilots online media accreditation system, seeks stakeholder input](https://hararepost.com/2026/11/26/zmc-pilots-online-media-accreditation-system-seeks-stakeholder-input/)** — HararePost, 26 November 2026
+
+The Zimbabwe Media Commission has begun piloting an online accreditation system. Journalists outside Harare can apply online. The commission seeks stakeholder feedback and plans offices in Masvingo and Mutare.
 
 </div>
 

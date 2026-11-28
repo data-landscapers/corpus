@@ -1,10 +1,10 @@
 ---
 title: Gulf/UAE activities — News, October – November 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: geopol.gulf
-places: BEN; BDI; DJI
-record: f8a0acb5fedf
+places: BEN; BDI; DJI; SEN
+record: 0caf51554ff4
 ---
 
 # News, Oct – Nov 2026
@@ -15,6 +15,8 @@ record: f8a0acb5fedf
 <a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#djibouti">Djibouti</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#senegal">Senegal</a>
 </nav>
 
 ## Benin
@@ -60,6 +62,22 @@ Burundi's finance and digital economy minister, Alain Ndikumana, asked Saudi Ara
 **[Développement des centres de données : ce que le Qatar peut apporter à Djibouti](https://www.agenceecofin.com/actualites-numerique/1711-143485-developpement-des-centres-de-donnees-ce-que-le-qatar-peut-apporter-a-djibouti)** — Agence Ecofin, 17 November 2026
 
 Djibouti's telecoms minister discussed a data-centre partnership with Qatar's ICT minister in Doha on 13 November 2026. No modalities were stated. The World Bank's September 2026 diagnostic found Djibouti's two main data centres close to full use.
+
+</div>
+
+</div>
+
+## Senegal
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Memorandum with Presight on AI, remote identity verification and sovereign cloud</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senegal signs MoU with Presight on AI and sovereign cloud](https://www.socialnetlink.org/2026/11/27/senegal-uae-presight-mou-ai-sovereign-cloud/)** — Socialnetlink, 27 November 2026
+
+Senegal's telecoms and digital ministry signed a memorandum of understanding with the Emirati AI firm Presight in Dakar on 24 November 2026. It was signed at the third Senegal-UAE Joint Cooperation Commission. It covers simpler administrative procedures, remote identity verification, civil-servant training, sovereign cloud and SME e-commerce. No sum was stated.
 
 </div>
 

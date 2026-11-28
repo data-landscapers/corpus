@@ -1,19 +1,37 @@
 ---
 title: Digital sovereignty — News, October – November 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 subject: geopol.sovereignty
-places: NGA; SLE
-record: 230cab58cccc
+places: KEN; NGA; SLE
+record: 9d468e067a3b
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#kenya">Kenya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 </nav>
+
+## Kenya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Middle Powers (AIM) initiative</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya advances AI Middle Powers initiative to strengthen shared sovereignty and trusted interdependence](https://techreviewafrica.com/news/8550/kenya-advances-ai-middle-powers-initiative-to-strengthen-shared-sovereignty-and-trusted-interdependence)** — Tech Review Africa, 27 November 2026
+
+Kenya's Special Envoy on Technology, Philip Thigo, described the AI Middle Powers initiative at Chatham House in London. He presented it as a plurilateral effort aimed at strategic autonomy, with shared sovereignty as its organising principle. He said countries can cooperate on financing, infrastructure and capacity and diversify technology supply chains.
+
+</div>
+
+</div>
 
 ## Nigeria
 

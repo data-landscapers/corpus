@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: DZA
 ledger_rows: 51
 not_held: 6
-record: 65a9c031e272
+record: 67ca5ba71e2f
 ---
 
 # News, Oct – Nov 2026
@@ -324,7 +324,7 @@ DZ Watch reported on 19 November 2026 that a consortium led by China Railway Con
 
 **[Décrets présidentiels n° 26-359, 26-362 et 26-363 : autorité nationale de certification électronique, agence nationale de développement des centres de données, agence nationale de développement des systèmes d'information et des solutions numériques](https://www.joradp.dz/FTP/jo-francais/2026/F2026081.pdf)** — Journal officiel de la République algérienne (Secrétariat général du Gouvernement), 22 November 2026
 
-Data-centre and software-systems agencies created under the digitalisation commission; e-certification body reorganised.
+Algeria published three presidential decrees in Journal officiel no. 81. They create agencies for data centres and for information systems and digital solutions under the digitalisation commission, and reorganise the national electronic certification authority.
 
 </div>
 
@@ -590,7 +590,7 @@ On 18 November 2026 Algeria's government reviewed its roadmap for modernising el
 
 **[La CNAS et Algérie Poste renforcent leur coopération dans le paiement électronique](https://www.expressdz.dz/2026/11/25/la-cnas-et-algerie-poste-renforcent-leur-cooperation-dans-le-paiement-electronique/)** — L’Express DZ, 25 November 2026
 
-Framework agreement 24 Nov 2026; interoperability, secured data exchange; follows 2024 deal for 58 terminals.
+Algeria's social insurance fund CNAS and Algerie Poste signed a framework agreement in Algiers on 24 November 2026. It covers electronic payment, interoperability and secured data exchange, and follows a 2024 agreement that supplied 58 payment terminals.
 
 </div>
 

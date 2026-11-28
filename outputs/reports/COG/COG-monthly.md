@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: COG
 ledger_rows: 27
 not_held: 6
-record: d92b7d915032
+record: 6d05769f8d03
 ---
 
 # News, Oct – Nov 2026
@@ -378,7 +378,7 @@ The steering committee of Congo's task force on digitalising the administration,
 
 **[Compte rendu du Conseil des ministres du mercredi 25 novembre 2026](https://sgg.cg/ccm/compte-rendu-cm-25-novembre-2026.pdf)** — Secrétariat général du Gouvernement (République du Congo), 25 November 2026
 
-About 100 public services listed for digitalisation; e-Visa a priority; SNA 2008 rebasing; WAICO founding state.
+Congo's Council of Ministers met on 25 November 2026. It heard that about 100 public services are listed for digitalisation. E-Visa is a priority. The meeting also covered the rebasing of national accounts to SNA 2008. Congo is a founding state of WAICO.
 
 </div>
 

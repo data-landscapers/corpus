@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-28
 place: COD
 ledger_rows: 65
 not_held: 6
-record: 8b220caba1ec
+record: 4ad863558c68
 ---
 
 # News, Oct – Nov 2026
@@ -778,7 +778,7 @@ On 19 November 2026 the Deputy Prime Minister for the civil service announced E-
 
 **[RDC : le numérique doit renforcer la souveraineté nationale, sans créer de nouvelles dépendances (Ministre d’Etat Kayikwamba)](https://acp.cd/nation/rdc-le-numerique-doit-renforcer-la-souverainete-nationale-sans-creer-de-nouvelles-dependances-ministre-detat-kayikwamba/)** — Agence congolaise de presse (ACP), 26 November 2026
 
-Deadline pulled from 2030 to 2028; 27 initiatives on four axes; e-mail management live; data control as priority.
+The DR Congo foreign ministry moved the deadline of its EU-supported digital master plan from 2030 to 2028, the minister said on 26 November 2026. The roadmap has 27 initiatives on four axes. Electronic mail management is live, and control of data is a priority.
 
 </div>
 
