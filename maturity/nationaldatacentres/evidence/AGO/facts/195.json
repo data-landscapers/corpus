@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-30-ago-angola-cables-anuncia-kubernetes-e-prepara-gpus-para-inteligencia-arti",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Clouds2Africa Luanda-02 node",
+   "country_label": "Clouds2Africa, Luanda-02",
+   "class": "other",
+   "platform": "Clouds2Africa",
+   "owner": "Angola Cables",
+   "tiers": ""
+  }
+ ],
+ "note": "Ownership of the cloud node and any tier rating are not stated."
+}

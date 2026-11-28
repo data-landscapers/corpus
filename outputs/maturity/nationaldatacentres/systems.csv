@@ -21,6 +21,7 @@ AGO,National cloud platform,Angola,other,,INFOSI (state),,2025-09-10 Angola adva
 AGO,Centro Informatico Seguro #2 (CIS II),Angola,other,,EMIS,Tier III Constructed Facility (Uptime Institute),2025-11-19-ago-certificacao-tier-iii-de-instalacao-construida
 AGO,national data center and government cloud,national data center and government cloud,other,,"Ministry of Telecommunications, Information Technologies and Social Communication",,2026-04-29-ago-angola-launches-national-data-center-to-support-digital-strategy
 AGO,Government's Data Center and Cloud,Angola,datacentre,,Government,national,2026-04-28-ago-new-government-data-center-reinforces-the-country-s-digital-sovereignt
+AGO,Clouds2Africa Luanda-02 node,"Clouds2Africa, Luanda-02",other,Clouds2Africa,Angola Cables,,2025-11-30-ago-angola-cables-anuncia-kubernetes-e-prepara-gpus-para-inteligencia-arti
 BDI,BBS national data center,national data center,datacentre,,Burundi Backbone System (BBS),level-3 (not stated as Uptime or TIA-942),2020-01-01-world-bank-burundi-digital-economy-assessment
 BDI,Burundi IXP,Burundi Internet Exchange Point,other,,BBS,,2020-01-01-world-bank-burundi-digital-economy-assessment
 BDI,OBR data center,,other,,Burundi Revenue Authority (OBR),,2020-01-01-world-bank-burundi-digital-economy-assessment
@@ -199,6 +200,7 @@ COG,Brazzaville data center,Congo,other,,Congolese state,,2025-11-20-cog-le-cong
 COG,"Congo national data centre (Brazzaville, Bacongo)",Congo,datacentre,,State of Congo; contractor Sumec,"Tier III-equivalent design target, not in service",2026-09-24-cog-congo-le-nouveau-datacenter-national-livre-d-ici-la-fin-de-l-annee-202
 COG,National data centre of Brazzaville,Brazzaville national data centre,datacentre,,state,Tier III,2026-08-04-cog-congo-numerique-le-pays-determine-a-renforcer-sa-souverainete-informat
 COG,ARPCE Pointe-Noire Tier 3+ data centre,Congo,datacentre,,"ARPCE, for the State",Tier 3+,2024-02-29-cog-economie-numerique-denis-sassou-n-guesso-connecte-le-congo-au-cable-2a
+COG,"Ministry of Finance data centres (Brazzaville, Pointe-Noire)",Congo,datacentre,,Ministry of Finance,,2025-12-06-cog-le-sivl-est-un-instrument-de-transformation-et-un-pilier-de-la-perform
 COM,Comores Câbles data centre,Centre de données,datacentre,,Comores Câbles,,2026-01-01-comores-cables-technologies
 COM,Neutral data centre (under construction),data center neutre,other,,Comores Câbles,,2026-01-01-comores-cables-technologies
 COM,Data Center of the Public Administration,Data Center of the Public Administration,datacentre,,ANADEN and Comores Câbles (co-managed),"described as Tier 3, unattributed",2024-01-01-digwatch-comoros-country-profile
@@ -238,6 +240,7 @@ DJI,LinkWise 100 MW AI compute centre (AIDC),DJI,other,,Shanghai LinkWise and Sh
 DJI,LinkWise 100 MW AI compute centre (AIDC),DJI,other,,LinkWise Group (China),,2026-07-23-lanation-partenariat-linkwise-pole-innovation
 DJI,LinkWise 100 MW AI compute centre (AIDC),DJI,other,,LinkWise Group (China),,2026-07-19-linkwise-group-dji-2026-record
 DJI,PAIX Djibouti (JIB1),PAIX Djibouti JIB1,datacentre,carrier- and cloud-neutral colocation,PAIX Data Centres with Djibouti Sovereign Fund (joint venture),,2024-05-15-dji-paix-data-centres-announces-joint-venture-with-djibouti-sovereign-fund
+DJI,DGDDI data centre,DGDDI Data Center,other,,Direction Générale des Douanes et Droits Indirects,,2024-12-17-dji-la-douane-djiboutienne-souveraine-de-son-destin-numerique
 DZA,I-Cloud Akbou,I-Cloud,datacentre,,I-Cloud development group,,2026-10-04-dza-dzwatch-akbou-i-cloud-sovereign-data-center
 DZA,Centre national des services numériques (Mohammadia and Blida),CNSN,other,Huawei,Government of Algeria / Huawei partnership,state,2026-07-05-jeune-independant-centre-national-services-numeriques
 DZA,Mohammadia Data Center,Centre de données de Mohammadia,other,Huawei,Government of Algeria / Huawei,state,2026-07-05-jeune-independant-centre-national-services-numeriques
@@ -521,6 +524,7 @@ LBY,Misrata Free Zone data hosting centre,,datacentre,,Misrata Free Zone,,2023-0
 LBY,LITC data centres,Libya,datacentre,,Libyan International Telecommunications Company,Tier III certified,2024-08-09-lby-litc-data-centres-awarded-uptime-tier-iii-certification
 LSO,Vodacom Lesotho data centres (Maseru West and Lekokoaneng),Vodacom data centres,datacentre,,Vodacom Lesotho,,2026-08-29-vodacom-fixed-solutions
 LSO,LCA Disaster Recovery Site,LSO,other,,Lesotho Communications Authority,,2025-08-01-lca-rfp-dr-site-it-equipment
+LSO,national data centre,Lesotho,other,,,,2026-11-01-lso-lesotho-pp-26-policy-statement
 MAR,Oracle Cloud Casablanca Region,,datacentre,Oracle Cloud Infrastructure,Oracle,,2026-04-10-oracle-launches-cloud-region-in-casablanca-morocco
 MAR,N+One Datacenters,,datacentre,,N+One,,2026-04-10-oracle-launches-cloud-region-in-casablanca-morocco
 MAR,Oracle Settat region (planned),,other,,Oracle,,2026-04-10-oracle-launches-cloud-region-in-casablanca-morocco
@@ -597,6 +601,7 @@ MRT,Nouakchott Data Center,Mauritania,datacentre,,state (national),Tier III,2025
 MRT,Government data centre (Ministry of Digital Transformation),Mauritania,datacentre,hyperconverged infrastructure,Ministry of Digital Transformation and Modernisation of Administration,,2026-07-02-mrt-ami-minister-national-cloud-launch-national-assembly
 MRT,Nouakchott data centre,Mauritania,datacentre,,,Tier III,2026-06-04-mrt-aned-data-localisation-agreement-nouakchott-data-centre
 MRT,Government data centre,Mauritania,datacentre,,Ministry of Digital Transformation,,2024-11-12-mrt-decret-2024-154-portail-khidmaty
+MRT,National government cloud,Mauritania,datacentre,,Government,,2026-09-28-mrt-standardisation-de-l-architecture-numerique-de-l-etat-de-la-formulatio
 MUS,Mauritius Telecom Rose-Belle data centre,data centre de Rose-Belle,datacentre,,Mauritius Telecom,,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,"Government Online Centre (GOC), Ebene",GOC,other,,Government of Mauritius,government only; about 80 racks,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,Aphelion DC3,Aphelion DC3,datacentre,,Aphelion,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
@@ -850,6 +855,7 @@ SDN,Sudatel Data Center (SDC),SDC,datacentre,,Sudatel (Sudani),Tier IV stated by
 SDN,Sudatel data center,Sudatel data center,datacentre,,Sudatel,,2025-04-05-sudan-tax-chamber-core-system-projects
 SDN,Tax Authority Tower data center,Tax Authority data center,other,,Sudan Taxation Chamber,,2025-04-05-sudan-tax-chamber-core-system-projects
 SDN,Red Sea University data centre,Sudan,other,,Red Sea University,,2024-08-23-sdn-sudren-university-network-restored-from-red-sea-university
+SDN,State data centre,State data centre (Khartoum),other,,Ministry of Digital Transformation and Communications,,2025-10-13-sdn-cabinet-approves-cybercrime-amendment-state-data-centre-restored
 SEN,STELLARIX Senegal data centre,STELLARIX Senegal,datacentre,,STELLARIX (AXIAN Group),,2026-10-02-sen-techafricanews-stellarix-data-centre-expansion
 SEN,"STELLARIX Senegal data centre, Diamniadio",datacenter tiers 3 Stellarix,datacentre,,Stellarix Senegal (Axian),,2025-10-27-aps-stellarix-senegal-datacenter-diamniadio
 SEN,Senegal Numerique and Senegal Connect government facilities,,other,,Senegal Numerique (ex-ADIE); Senegal Connect,,2025-07-01-xalam-d4d-data-centre-market-brief-senegal-2025
@@ -881,6 +887,7 @@ SEN,Data Center national de Diamniadio,Data Center national de Diamniadio,datace
 SEN,Dakar 2026 private cloud (Alibaba Cloud Apsara Stack),Senegal,other,Alibaba Cloud Apsara Stack,Dakar 2026 Organizing Committee; to be handed to Senegal after the Games,,2026-11-02-alibaba-cloud-ai-dakar-youth-olympic-games
 SEN,Diamniadio data centre,Senegal,datacentre,,Government of Senegal,,2024-10-01-sen-senegal-state-agencies-comply-with-policy-on-public-data-management-af
 SEN,Diamniadio Digital Park data center,Senegal,other,,Government of Senegal,,2026-11-21-sen-senegal-diamniadio-digital-park-remains-unfinished-after-ten-years-acco
+SEN,Datacenter national de Diamniadio,datacenter national,other,inaugurated 2021,Senegal Numerique,,2026-09-06-sen-ia-au-senegal-le-pari-de-la-souverainete
 SLE,ECOWAS Data Embassy,ECOWAS Data Embassy,other,data centre (planned),"Ministry of Communication, Technology and Innovation",,2026-11-18-sle-afdb-750000-ecowas-data-embassy
 SOM,Dalkom Somalia colocation and web hosting service,SOM,other,,,,2026-08-29-dalkom-somalia-disaster-recovery
 SOM,"Hormuud Telecom data centres (11, 10 MW combined)",Somalia,other,,Hormuud Telecom,,2025-11-27-som-garowe-hormuud-oped-solar-data-centres

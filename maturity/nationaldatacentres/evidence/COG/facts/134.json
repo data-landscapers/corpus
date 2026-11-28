@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-06-cog-le-sivl-est-un-instrument-de-transformation-et-un-pilier-de-la-perform",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The finance ministry's director of information systems said the SIVL system is entirely hosted in the Ministry of Finance's data centres in Brazzaville and Pointe-Noire, 5 December 2025.",
+   "as_of": "2025-12-05",
+   "date_precision": "day",
+   "system": "Ministry of Finance data centres (Brazzaville, Pointe-Noire)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ministry of Finance data centres (Brazzaville, Pointe-Noire)",
+   "country_label": "Congo",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
