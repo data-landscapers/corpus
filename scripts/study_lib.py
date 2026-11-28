@@ -273,7 +273,7 @@ def months_back(day: dt.date, months: int) -> dt.date:
 # --------------------------------------------------------------------------- #
 # A page describes the country, never its own evidence or method: an old fact carries its
 # date in the sentence, not a tag about the window, and an empty aspect names a part of the
-# nearest fact rather than pointing back at "the one given above".
+# nearest fact rather than pointing back at an earlier sentence.
 
 _MONTHS = ("January February March April May June July August September October November December").split()
 _LOWER = {"the", "a", "an", "this", "these", "that", "those", "its", "their", "some", "all", "over",

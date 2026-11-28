@@ -56,7 +56,7 @@ FIGURES = {
         unit="per cent of secondary schools", what="secondary schools with internet for teaching",
         cond_none="No source found since October 2023 says digital literacy or computing is a compulsory subject in the national secondary curriculum.",
         cond_short="and digital literacy or computing is compulsory in the secondary curriculum",
-        cond_low="The curriculum is asked about only once half of secondary schools have internet for teaching, so with {link} none was looked for in this first pass.",
+        cond_low="With {link}, the curriculum has not been searched: it counts only once half of secondary schools have internet for teaching.",
         caveat="The figure counts schools with a connection used for teaching, not how well it serves them or what is taught."),
     "stemgraduates": dict(
         owner="UNESCO Institute for Statistics", dataset="uis-stem-graduates", sub="graduates", cls="stemgraduates",
@@ -67,7 +67,7 @@ FIGURES = {
         unit="per cent of tertiary graduates", what="STEM graduates as a share of tertiary graduates",
         cond_none="No source found since October 2023 says a national research and education network is in service connecting the public universities.",
         cond_short="and a research and education network connects the public universities",
-        cond_low="A research and education network is asked about only once STEM graduates reach 40 per cent, so with {link} none was looked for in this first pass.",
+        cond_low="With {link}, no research and education network has been searched for: it counts only once STEM graduates reach 40 per cent.",
         caveat="The figure counts graduates in science, technology, engineering and mathematics, ICT among them; it says nothing of where they find work."),
     "ictjobs": dict(
         owner="International Labour Organization", dataset="ilostat-isic-j-employment", sub="ictjobs", cls="ictjobs",
@@ -78,7 +78,7 @@ FIGURES = {
         unit="per cent of employment", what="employment in information and communication",
         cond_none="No credible statistic found since October 2023 gives graduate unemployment of 14 per cent or less.",
         cond_short="and graduate unemployment is 14 per cent or less",
-        cond_low="Graduate unemployment is asked about only once information and communication employs 1 per cent of workers, so with {link} none was looked for in this first pass.",
+        cond_low="With {link}, graduate unemployment has not been searched: it counts only once information and communication employs 1 per cent of workers.",
         caveat="The figure counts all employment in publishing, broadcasting, telecommunications and IT services, not graduates alone."),
     "gendergap": dict(
         owner="International Telecommunication Union", dataset="itu-internet-use-gender-gap", sub="gender", cls="gendergap",
@@ -311,7 +311,7 @@ def figure_paragraph(c: dict, name: str, rows: list[dict], best: dict) -> str:
     else:
         out.append(f"At {fmt(c['lines'][-1])} or {'less' if c.get('lower') else 'more'}, it is past the study's highest line for the figure.")
     out.append(f"The study's lines are {listed([fmt(x) for x in c['lines']])} {c['unit']}, "
-               f"the frame's own cuts, and the latest figure for {FROM} or later sets the stage, so a "
+               f"the frame's own cuts, and the latest figure for {FROM} or later is the one counted, so a "
                f"{'rise is a rise' if c.get('lower') else 'fall is a fall'}.")
     out.append(c["caveat"])
     if c.get("reading"):
@@ -324,7 +324,7 @@ def cond_paragraph(c: dict, name: str, conds: list[dict], top: bool, url: str) -
     if conds:
         out += [link(r["url"], r["fact"].rstrip(".")) + "." for r in conds[:4]]
     elif top:
-        out.append(c["cond_none"] + f" The figure {link(url, 'alone')} set the stage.")
+        out.append(c["cond_none"] + f" The figure {link(url, 'alone')} is counted.")
     else:
         out.append(c["cond_low"].format(link=link(url, "the figure below that line")))
     return " ".join(out)

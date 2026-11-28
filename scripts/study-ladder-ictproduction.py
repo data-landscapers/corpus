@@ -9,7 +9,7 @@ does it. The ladder is `maturity-study-ictproduction.md` §2 and §3. **One figu
 to 4**: the latest ICT service exports over GDP, for 2023 or later and by the as-at, against
 lines of 0.05, 0.2 and 0.5 per cent, the frame's own cuts. **Stage 5 adds a plant**: a fact
 from the last three years that ICT equipment is assembled or made in the country, counted only
-where the figure has cleared 0.5; a plant alone sets no stage, since it is not a step beyond
+where the figure has cleared 0.5; a plant alone does not count, since it is not a step beyond
 the figure but the frame's condition beside it.
 
 `corrections.csv` is applied to `evidence.csv` first, once. Writes each `stage.json` and

@@ -215,7 +215,7 @@ def plan(sid: str, per_call: int, out_dir: str) -> int:
                 r = on_list.get(slug)
                 if r and r.get("pass") != "external" and os.path.exists(os.path.join(facts_dir, f"{r['n']}.json")):
                     led[c["claim"]] = dict(base, outcome="read-before", slug=slug,
-                                           note=f"reading list {r['n']}, already read for this study")
+                                           note=f"reading list {r['n']}, already read for this indicator")
                     continue
                 if slug not in docs:
                     fm = front(prim)
@@ -244,7 +244,7 @@ def plan(sid: str, per_call: int, out_dir: str) -> int:
                 r = on_list.get(slug)
                 if r and r.get("pass") != "external" and os.path.exists(os.path.join(facts_dir, f"{r['n']}.json")):
                     led[c["claim"]] = dict(base, outcome="read-before", slug=slug,
-                                           note=f"reading list {r['n']}, the record already read for this study")
+                                           note=f"reading list {r['n']}, the record already read for this indicator")
                     continue
                 if slug not in docs:
                     cut = os.path.relpath(os.path.join(PASSAGES, sid, "passages", "external", iso, slug + ".md"),

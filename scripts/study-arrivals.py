@@ -18,7 +18,7 @@ an arrival unread, and says why, where:
 - `instrument` — the reading list's `tier` says the document runs past `NEWS_WORDS` in the
   original: a law, a strategy, a report. The rotation opens one for a rung that needs its text;
   stage 4c never does;
-- `old`        — published before the three-year window, so it can set no stage;
+- `old`        — published more than three years before the as-at, so it cannot count;
 - `capped`     — `plan --cap N` keeps each country's N best-ranked stories across every study
   (news before the rest of the ranking, a titled story first, the country's own before a
   regional one, then newest), and closes the rest.
@@ -215,7 +215,7 @@ def plan(cap: int, today: dt.date) -> int:
 RULES = r"""You are a drafter for a Corpus maturity study, reading news that arrived after the study was made. Everything you need is in this file: do not open any study file, brief or reading list. Read the documents named below and no others, opening them all in your first turn. C:\OSINT is read-only: never write, move or delete anything there.
 
 What to record
-- A fact is one thing the document itself states that answers one of the study's questions, or settles one of its aspects, for one named country: a value from that aspect's list below. Nothing from another document or from what you know. Skip everything else; most documents state nothing a study asks.
+- A fact is one thing the document itself states that answers a question the study asks, or settles one of its aspects, for one named country: a value from that aspect's list below. Nothing from another document or from what you know. Skip everything else; most documents state nothing a study asks.
 - fact: one English sentence giving what the document states, with its figures and who says so. Quote no more than a few words.
 - as_of: when the stated thing was true, YYYY, YYYY-MM or YYYY-MM-DD: the event's date, not the document's. Where none is given, use the document's publication date.
 - date_precision: year, month or day.

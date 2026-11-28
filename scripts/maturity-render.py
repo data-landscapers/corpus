@@ -10,7 +10,7 @@ isolation. It is judged beside the same indicator in the other 53 countries, wit
 in front of the reader as it will be published, not as slugs and row ids. So the one-indicator
 view comes first, and every cell carries its evidence:
 
-- for an instrument or a system, the ledger rows the stage rests on, by name and status, each
+- for an instrument or a system, the ledger rows behind the stage, by name and status, each
   linked to its latest source visible at the month end;
 - for a measure, the figure, its unit and year, and where it comes from in words: the
   publisher and date of a cited source, Corpus's own compile, or the reference dataset with the
@@ -265,7 +265,7 @@ def render_indicators() -> int:
     frame = indicators_lib.assessed()
     index = ["# Maturity assessment — by indicator", "",
              "*Each page shows one indicator across the 54 countries, July and August 2026, with "
-             "the evidence each stage rests on.*", ""]
+             "the evidence behind each stage.*", ""]
     chapter = None
     for ind in frame:
         if ind["chapter"] != chapter:
