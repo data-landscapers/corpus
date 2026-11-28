@@ -67,6 +67,7 @@ CMR,Cameroon Online E-Procurement System (Coleps),Coleps,other,,Ministry of Publ
 CMR,servicepublic.gov.cm,Cameroon,other,web portal and mobile app,MINFOPRA,,2026-10-20-cmr-servicepublic-gov-cm-minfopra-seeks-homepage-redesign-and-new-portal-id
 CMR,AIGLES,Cameroun,other,,MINFOPRA,,2026-10-27-aigles-le-ministre-joseph-le-motive-l-appropriation-de-loutil-et-annonce-la
 CMR,registrations.dgi.cm,Cameroon,eservices,Harmony SSO,Direction Generale des Impots,3 acts live of 120+ catalogued,2026-08-15-cmr-registrations-dgi-cm-enregistrer-un-acte-en-ligne
+CMR,servicepublic.gov.cm,servicepublic.gov.cm,eservices,,MINFOPRA,,2026-11-11-cmr-servicepublic-gov-cm-cameroon-s-public-services-move-towards-a-digital
 COD,DRCPass,DRC,other,blockchain digital ID,government with Trident,,2026-05-06-drc-seeks-consultant-digital-transformation-dpi-biometricupdate
 COD,DRCPass,DRC,other,blockchain digital ID,"Ministry of Posts, Telecommunications and Digital Affairs",,2025-05-06 DRC e-government initiative makes bold blockchain bet
 COD,eCitizen,Kenya,other,,Pesaflow (cited),,2026-08-12-drc-digital-registries-pesaflow-recommendation
@@ -98,6 +99,7 @@ COG,E-Bourses,E-Bourses,eservices,,Ministere du Budget with the education minist
 COG,ADEN online government services platform,portail numerique des services gouvernementaux,other,,ADEN with Regalli subsidiary,,2024-03-14-cog-wearetech-aden-regalli-portail
 COG,e-gouv platform,Congo,eservices,government portal under construction,"Ministry of Posts, Telecommunications and Digital Economy; built by Addinn with PATN",,2024-12-20-cog-numerique-les-partenaires-appeles-a-accelerer-le-projet-e-gouv
 COG,E-Gouv platform,Congo,other,,PATN (World Bank-financed project),,2026-11-21-cog-aci-patn-ptba-2027-18-milliards
+COG,Portail des services publics,Portail national des services publics,eservices,built by ADDINN,Agence de developpement de l'economie numerique; PATN (World Bank financed),,2024-09-16-cog-congo-vers-la-mise-en-place-dun-portail-national-de-services-publics
 COM,plateforme d'administration numérique (portail gouvernemental),Comoros,eservices,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
 COM,e-Bourse,Comoros,eservices,,ANADEN,,2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec
 COM,e-Msomo,Comoros,other,,ANADEN,,2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec
@@ -216,6 +218,7 @@ GHA,Ghana.gov eGovernment Digital Services platform,Ghana.gov eGovernment Digita
 GHA,Lands Commission online services portal,GHA,eservices,onlineservices.lc.gov.gh,Lands Commission,,2026-10-14-gha-lands-commission-outlines-four-steps-for-conducting-online-land-search
 GHA,Digital Permit Application Platform,Ghana,eservices,,Petroleum Commission,,2026-11-11-gha-ghana-petroleum-commission-introduces-digital-permit-platform
 GHA,tiKa Secure Government Virtual Meeting Platform,Ghana,other,NITA Data Centre,Government of Ghana,,2026-09-08-gha-gra-s-ai-platform-collects-gh1bn-in-one-month-nana-oye
+GHA,National Non-Tariff Barriers Reporting and Resolution Platform,National NTB Reporting and Resolution Platform,other,,"Ministry of Trade, Agribusiness and Industry",,2026-11-26-gha-trade-minister-launches-digital-platform-to-tackle-trade-barriers-in-ghana
 GIN,e-Services,Guinea,eservices,national e-Services platform,Agence Nationale de Digitalisation de l'État (ANDE),national,2026-05-07-ande-deploiement-plateforme-nationale-e-services
 GIN,Ngaynaako,Guinea,eservices,,Ministry of Livestock,,2026-10-22-gin-guinee-le-ministere-de-lelevage-lance-ngaynaako-son-guichet-unique-num
 GIN,Konkoé (SIGPEM),Guinea,other,Konkoé,Ministry of Fisheries and Maritime Economy,,2026-10-27-gin-djiba-diakite-un-etat-moderne-se-mesure-a-la-qualite-du-service-qu-il-rend
@@ -225,6 +228,7 @@ GIN,KONKOE (SIGPEM),Guinée,eservices,web and phone,Ministère de la Pêche et d
 GIN,Guichet Unique du Service Public,Guinea,other,"physical centres, mobile buses, national portal",Ministry of Modernisation of Administration and Public Service,,2026-07-15-gin-faya-francois-bourouno-le-guichet-unique-va-simplifier-toutes-les-dema
 GIN,portail national de services publics / GUSP,Guinea,eservices,web portal,Ministry of Modernisation of Administration and Civil Service,,2026-05-18-gin-la-guinee-lance-neuf-chantiers-numeriques-pour-moderniser-l-administra
 GIN,FUGAS,Guinea,other,HR management platform,Ministry of Civil Service,,2026-05-18-gin-la-guinee-lance-neuf-chantiers-numeriques-pour-moderniser-l-administra
+GIN,Konkoe (SIGPEM),Guinea,other,,Ministry of Fisheries and Maritime Economy,,2026-11-26-gin-p-che-et-conomie-maritime-konk-vise-une-int-gration-au-dispositif-national-de-si
 GMB,MYGOV - Digital Gambia Platform,The Gambia,eservices,,Ministry of Communications and Digital Economy,,2025-01-01-mocde-data-governance-trends-gambia
 GMB,Government Web Portal,The Gambia,other,,Ministry of Communications and Digital Economy,,2025-01-01-mocde-data-governance-trends-gambia
 GMB,one-stop-shop government service platform,Gambia,eservices,app,Government of The Gambia,,2024-09-09-gmb-standard-ceesay-govt-building-capacities
@@ -317,6 +321,7 @@ MLI,SYGOCE,Mali,other,,,,2025-05-27-mli-apanews-quatre-plateformes-numeriques
 MLI,casiercasier.gouv.ml (criminal record),Mali,eservices,,Ministry of Justice and AGETIC,,2026-02-13-mli-mali-launches-online-criminal-record-and-nationality-certificate-servi
 MLI,nationalitenationalite.gouv.ml (nationality certificate),Mali,eservices,,Ministry of Justice and AGETIC,,2026-02-13-mli-mali-launches-online-criminal-record-and-nationality-certificate-servi
 MLI,Ministry of Justice e-justice platform,Mali,other,,Ministry of Justice and Human Rights,,2026-11-09-netherlands-dgis-mli-2026-justice-e-justice-equipment
+MLI,Sigui-Dolo,Sigui-Dolo,eservices,,Direction générale des Transports,,2025-09-17-mli-mali-administration-publique-six-solutions-digitales-pour-un-mali-mode
 MOZ,Portal do Cidadão,Mozambique,eservices,national citizen portal,ATDI,national,2026-09-04-mozambique-atdi-portal-do-cidadao-launch
 MOZ,Portal do Cidadão,Mozambique,eservices,national citizen portal,ATDI,national,2026-09-04-mznews-mozambique-portal-cidadao-atdi
 MOZ,Portal do Cidadão,Mozambique,eservices,national citizen portal,ATDI,national,2026-09-03-atdi-portal-do-cidadao-mocambique
@@ -337,6 +342,7 @@ MOZ,GGA e-auction platform,Mozambique,eservices,,Gabinete de Gestao de Activos,,
 MOZ,Portal do Cidadao,Mozambique,other,,Government,,2026-02-12-moz-governo-mobiliza-o-pais-para-definir-estrategia-nacional-de-transforma
 MOZ,Sistema de Certificação Digital de Moçambique,Mozambique,other,,INTIC,,2024-08-23-moz-nao-ha-vazio-legal-para-proteger-direitos-digitais-de-cidadaos-mocambi
 MOZ,Portal do Cidadao,Mozambique,other,citizen portal,ATDI,,2026-11-24-moz-governo-defende-facilitacao-dos-servicos-de-estado
+MOZ,Portal do Cidadão,Portal do Cidadão,eservices,,Government of Mozambique,,2026-11-26-moz-governo-quer-abandonar-sistemas-digitais-isolados-e-apostar-em-infra-estrut
 MRT,Houwiyeti,Mauritania,eservices,TECH5 / SmartMS,"Ministry of Digital Transition, Innovation and Public Sector Modernisation (MTNIMA)",,"2024-08-15 Mauritania Launches Digital ID for e-Services, Built on TECH5 Platform (Houwiyeti)"
 MRT,STT (Systeme de Teledeclaration et Telepaiement),Mauritania,eservices,,Direction Generale des Impots,,2026-09-16-dgi-mauritanie-teleservices
 MRT,Teleservices (tele-services.gov.mr),Mauritania,eservices,,Direction Generale des Impots,,2026-09-16-dgi-mauritanie-teleservices
@@ -366,6 +372,7 @@ MUS,KOREK,Mauritius,eservices,mobile app,"Ministry of Information Technology, Co
 MUS,MauPass,Mauritius,eservices,,,,2025-07-03-mus-au-1er-juin-2025-300-000-personnes-se-sont-enregistrees-sur-maupass
 MUS,RGD online search module and e-vouchers,Mauritius,eservices,RGD online services,Registrar General's Department,,2025-01-01-mus-upcoming-projects
 MUS,KOREK Super App,Mauritius,other,mobile app,Government of Mauritius,,2026-11-09-mus-transport-osman-mahomed-mise-sur-la-modernisation-et-la-s-curit-routi
+MUS,Energy Efficiency Information Management System (EEIMS),EEIMS,eservices,"Drupal 7, hosted at Government Online Centre","Energy Efficiency Management Office, Ministry of Energy and Public Utilities",,2025-04-01-mus-request-for-information-from-potential-service-providers-for-the-maint
 MWI,Enterprise Service Bus,Malawi,other,,Department of e-Government,,2026-01-13-ict-sector-2025-implementation-woes-times
 MWI,National Registration and Identification System (NRIS),Malawi,other,,National Registration Bureau,,2026-07-13-mwi-undp-digital-innovation-egovernment-recognition
 MWI,Bomalathu,Malawi,eservices,locally hosted servers,Department of E-Government,,2026-07-07 Malawi integrates immigration e-services
@@ -376,6 +383,8 @@ MWI,Bomalathu e-services portal,Malawi,eservices,,Ministry of Information and Co
 MWI,Boma Lathu,Malawi,eservices,web portal,Ministry of Information and Digitalisation,,2024-09-20-mwi-govt-advocates-for-improved-digital-service-delivery
 MWI,MANePS,Malawi,other,,PPDA,,2026-11-03-mwi-ppda-tough-on-registration
 MWI,CRIPC Online Services Portal,CRIPC Online Services Portal (www.cripc.gov.mw),eservices,,CRIPC,,2026-11-16-mwi-malawi24-cripc-reregistration-deadline
+MWI,e-Visa,e-Visa (evisa.gov.mw),eservices,,Department of Immigration and Citizenship Services,,2026-11-27-mwi-malawi-network-outage-disrupts-electronic-visa-e-visa-services
+MWI,e-Permit,e-Permit Public Portal,eservices,,Department of Immigration and Citizenship Services,,2026-11-27-mwi-malawi-network-outage-disrupts-electronic-visa-e-visa-services
 NAM,Interoperability Platform (X-Road model),Namibia,other,X-Road,Office of the Prime Minister (DPSITM),,2024-10-01-namibia-eec-egovernment-consultancy-interoperability-framework
 NAM,Nam-X,Namibia,other,Cybernetica UXP,Office of the Prime Minister (DPSeGM),,2024-01-01-namibia-governmental-interoperability-framework-nam-x
 NAM,mySSC,Namibia,eservices,web portal and Self-Serve Point kiosks,Social Security Commission,,2025-06-05-nam-social-security-commission-enhances-efficiency-with-new-digital-platfo
@@ -417,6 +426,7 @@ SDN,Baladna,Sudan,eservices,,Digital Transformation Authority,,2026-11-06-sdn-su
 SDN,Baldna,Sudan,eservices,,Ministry of Digital Transformation and Communications,,2026-11-11-sdn-baldna-portal-home-and-login-national-id-sudapass
 SDN,Sudapass,Sudan,other,,,,2026-11-11-sdn-baldna-portal-home-and-login-national-id-sudapass
 SDN,Baladna,Baladna platform,eservices,,Ministry of Digital Transformation and Communications,,2026-07-29-sdn-suna-health-recovery-plan-endorsed-130-baladna-e-services
+SDN,Baladna,Sudan,eservices,national unified platform,Ministry of Digital Transformation and Telecommunications,,2026-10-30-sdn-from-paper-files-to-platforms-can-sudan-build-a-digital-government
 SEN,e-Senegal,Senegal,eservices,web portal,Presidency / Prime Minister,national,2026-03-27-biometricupdate-e-senegal-portal
 SEN,ETAX,Senegal,other,web application,DGID,national,2026-09-03-dgid-e-dgid-plateformes-teleprocedures
 SEN,MON ESPACE PERSO,Senegal,other,web platform,DGID,national,2026-09-03-dgid-e-dgid-plateformes-teleprocedures
@@ -492,6 +502,10 @@ SYC,monServis,monServis,eservices,,DICT,,2026-04-25-syc-import-and-export-servic
 SYC,E-Services Gateway,E-Services Gateway,eservices,,,,2026-04-25-syc-import-and-export-services-to-transition-to-monservis-portal-on-may-1
 SYC,SeyAlert,Seychelles,other,mobile app and SMS,Department of Risk and Disaster Management,,2026-11-02-syc-seyalert-seychelles-government-introduces-a-new-digital-emergency-alert-app
 SYC,E-Services Gateway (eservice.egov.sc),Seychelles,eservices,,Government of Seychelles,,2025-12-18-worldbank-govtech-dataset-dec2025
+SYC,egov.sc,Seychelles Government Portal (egov.sc),eservices,,Department of Information and DICT,,2026-06-23-syc-vice-president-pillay-launches-revamped-seychelles-government-portal-i
+SYC,Mon Servis,Seychelles,eservices,portal,DICT,,2024-09-07-syc-dict-what-s-new-new-online-tools-to-help-push-seychelles-towards-digit
+SYC,CertExpress,Seychelles,eservices,portal,DICT,,2024-09-07-syc-dict-what-s-new-new-online-tools-to-help-push-seychelles-towards-digit
+SYC,Biz Auth Portal,Seychelles,other,portal,DICT,,2024-09-07-syc-dict-what-s-new-new-online-tools-to-help-push-seychelles-towards-digit
 TCD,e-Notaire,Tchad,eservices,online platform,Ministry of Finance,,2024-12-03-tcd-portail-td-lancement-e-notaire
 TCD,eVisa.td,Chad,eservices,,Ministry of Finance / National Police,,2024-12-11-tcd-chad-launches-electronic-visa-system
 TGO,national public services portal,Togo,eservices,,Ministry of Public Service Efficiency and Digital Transformation,,2026-09-29-tgo-togofirst-online-public-services-portal-adds-procedures
@@ -511,6 +525,7 @@ TGO,Services publics,Togo,eservices,web portal service-public.gouv.tg,government
 TGO,Géoportail national,Togo,other,geoportail.gouv.tg / geodata.gouv.tg,Ministry of Digital Economy,secured institutional tier; open public tier,2025-05-07-tgo-numerique-le-togo-lance-son-geoportail-national-une-carte-digitale-des
 TGO,nif.otr.tg,Togo,other,web,OTR,,2023-12-18-tgo-otr-la-creation-du-numero-dimmatriculation-fiscale-et-le-paiement-de-l
 TGO,OTR TVM,Togo,other,mobile app and web,OTR,,2023-12-18-tgo-otr-la-creation-du-numero-dimmatriculation-fiscale-et-le-paiement-de-l
+TGO,Portail national des services publics,Portail national des services publics,eservices,,Government of Togo,,2026-11-26-tgo-urbanisme-deux-nouvelles-demarches-accessibles-en-ligne
 TUN,E-Bawaba,Tunisia,eservices,,,,2026-03-09-telecomreviewafrica-north-africa-digital-generation
 TUN,Madrassati,Tunisia,other,,Ministry of Education,primary,2023-12-01-tun-cnte-strategie-ministere-education-transformation-numerique
 TUN,EduservPlus,Tunisia,other,,Ministry of Education,preparatory and secondary,2023-12-01-tun-cnte-strategie-ministere-education-transformation-numerique

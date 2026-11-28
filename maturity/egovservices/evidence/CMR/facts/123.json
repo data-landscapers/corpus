@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-11-cmr-servicepublic-gov-cm-cameroon-s-public-services-move-towards-a-digital",
+ "facts": [],
+ "systems": [
+  {
+   "system": "servicepublic.gov.cm",
+   "country_label": "servicepublic.gov.cm",
+   "class": "eservices",
+   "platform": "",
+   "owner": "MINFOPRA",
+   "tiers": ""
+  }
+ ],
+ "note": "National public service portal validated 10 November 2026 and not yet launched (launch set for 18 December 2026); it lists about 1,250 procedures from 40 institutions for consultation, and no service is stated as completed online."
+}

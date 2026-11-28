@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-17-mli-mali-administration-publique-six-solutions-digitales-pour-un-mali-mode",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The Transport ministry's Sigui-Dolo platform, presented to the Malian government on 16 September 2025, offers users online services connected to TrésorPay and the SYDONIA customs system.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "Sigui-Dolo",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sigui-Dolo",
+   "country_label": "Sigui-Dolo",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Direction générale des Transports",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

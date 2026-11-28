@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-27-ken-high-court-orders-banks-agencies-to-preserve-ecitizen-records-in-sh9-4-billion-p",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The Eastleigh Voice reports public funds are collected through the eCitizen platform and remitted to government agencies, with the court acting on 26 November 2026.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "eCitizen",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
