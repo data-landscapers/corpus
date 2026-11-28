@@ -16,7 +16,7 @@ status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendere
 
 *Digital* means telecommunications, the internet, data, digital identity, digital government, digital payments, digital trade, cybersecurity and artificial intelligence. *An African body* is the African Union, one of its regional communities, or a body whose members are mostly African states: the African Telecommunications Union, Smart Africa, a regional association of regulators or of data protection authorities.
 
-The study redraws `gov.regional--regional-policy-collaboration`, which as at 2026-08-31 puts 29 countries at stage 3, 14 at stage 2 and one at stage 1, none at 4 or 5, and leaves ten unplaced. It touches no other row.
+The study redraws `gov.regional--regional-policy-collaboration` and touches no other row.
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
@@ -81,21 +81,17 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 
 ## 7. Tasks, in order
 
-- [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [x] **D1. Bill's word**: run on it, 2026-10-13.
-- [x] **D2. Read**: 127 calls in two fan-outs, 285 facts.
-- [x] **D3. Staged** as at 2026-09-30: 5: 5, 4: 10, 3: 23, 2: 15, none at 1, none unplaced, one without evidence; ten rows revalued or removed and two added (`corrections.csv`); agreement 17 of 20.
-- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+*(Each step's counts are in git and `history.csv`.)*
+
+- [x] **D0-D5.** Prepared and approved by Bill, 2026-10-13; read in 127 calls, 285 facts; staged as at 2026-09-30, ten rows revalued or removed and two added (`corrections.csv`), agreement 17 of 20; written, rendered and reported, 2026-10-13.
 
 **Decided in the run**:
 
-- **Stage 5**: Burundi, Kenya, Rwanda, Tanzania and Uganda, on the East African regulators' published 2025 figures of calls under the shared roaming area.
-- **Stage 4**: a roaming cut in effect for Benin, Botswana, Ghana, The Gambia, Liberia, Namibia, Senegal and Togo; the joint commission for Algeria and Tunisia.
-- **Burkina Faso, Mali and Niger are stage 3** on the Sahel regulators' convention.
-- **Nigeria is stage 3**: a national forum to plan for the continental digital trade protocol is preparation.
-- **South Africa is stage 2**: hosting the regional community's general summit is not a digital policy meeting.
-- **Egypt and Libya are stage 2**: their Arab roles, and Libya's audit roadmap with Tunisia, are noted.
-- **Eritrea is without evidence.**
+- **Published regional figures set stage 5**: the East African regulators' 2025 counts of calls under the shared roaming area.
+- **A roaming cut in effect, or a joint commission, is stage 4**; a regulators' convention, such as the Sahel one, is stage 3.
+- **A national forum to plan for the continental digital trade protocol is preparation** (Nigeria).
+- **Hosting a regional community's general summit is not a digital policy meeting** (South Africa).
+- **Arab roles are noted, not counted** (Egypt; Libya's audit roadmap with Tunisia).
 - **The second reading differed** on Algeria, Equatorial Guinea and Sudan.
 - **Tokens: about 43 million at the map**, ceiling 50 million.
 

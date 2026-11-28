@@ -79,25 +79,23 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 
 ## 7. Tasks, in order
 
-- [x] **D0. Prepare**: this file and `study.json`, 2026-10-12.
-- [x] **D1. Bill's word**: run on it, 2026-10-12.
-- [x] **D2. Read**: the 129 stories in 49 calls and the 166 cited in 57; then one call each for 14 countries with no answer whose held news names an AI law twice or more, and the Seychelles act's passages. 57 facts held.
-- [x] **D3. Staged**: six at stage 3, six at 2, nine at 1, none at 4 or 5, and 33 with no evidence, as at 2026-09-30; six facts removed by the parent (`corrections.csv`); agreement 20 of 20.
-- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-12.
-- [x] **D6. Bill's ruling 171 applied**, 2026-11-27: §2 and §3. A text begun in a ministry is a draft. Three cells restaged `--kind ruling`: Mozambique 1 to 2 (the education law being written), Namibia 1 to 2 (the draft bill the ICT ministry holds) and Lesotho from no evidence to 2 (a proposed bill not yet tabled); the drafts removed on 2026-10-21 and 2026-10-22 are restored. Malawi's bill, only announced, stays at 1.
+*(Each step's counts are in git and `history.csv`.)*
+
+- [x] **D0-D5.** Prepared and approved by Bill, 2026-10-12; read (the 129 stories in 49 calls, the 166 cited in 57, and one call each for 14 countries whose news names an AI law twice or more); staged as at 2026-09-30, agreement 20 of 20; written, rendered and reported, 2026-10-12.
+- [x] **D6. Ruling 171**, 2026-11-27: a text begun in a ministry is a draft. Mozambique, Namibia and Lesotho restaged to 2 `--kind ruling`, and the drafts removed on 21 and 22 October restored; Malawi's bill, only announced, stays at 1.
 
 **Decided in the run**:
 
-- **Stage 3**: Comoros (media code), Gabon (ordinance on AI-generated content), Morocco (electoral law), Mauritius (higher education), Nigeria, Tanzania (online content). **No country has a law on AI itself in force.**
-- **Nigeria's data protection directive of 2025 counts**: its articles 43 and 44 name AI and set duties for whoever deploys it. The source is dated after the as-at; the directive is not.
-- **A bill announced is not a draft** (Malawi); nor is work said to have begun on a legal framework, with no text named (Algeria, Tunisia). All three hold no fact.
-- **A ban for one election campaign is not a rule in force** (Guinea's regulator, 2025).
+- **No country has an AI law in force**; stage 3 is a law in another field that rules on AI.
+- **Nigeria's 2025 data protection directive counts**: its articles 43 and 44 name AI and set duties for whoever deploys it.
+- **A bill announced is not a draft** (Malawi); nor is work said to have begun on a framework with no text named (Algeria, Tunisia).
+- **A ban for one election campaign is not a rule in force** (Guinea, 2025).
 - **A body saying the country needs an AI law does not say there is none** (Cabo Verde).
-- **A draft for one sector is a draft** (Mozambique, education), as is a wider bill that regulates AI among other technologies (Ghana, Nigeria).
-- **A statement of no law that names no draft sets stage 1**; only The Gambia's says in terms that none is proposed.
-- **A "no law" statement found only in a record's ingest note, not its body, is no fact** (Botswana, Madagascar): six of the row's ten stage 1 cells now hold no evidence.
+- **A draft for one sector is a draft** (Mozambique, education), as is a wider bill regulating AI among other technologies (Ghana, Nigeria).
+- **A statement of no law that names no draft sets stage 1**; only The Gambia's says none is proposed.
+- **A "no law" statement found only in a record's ingest note is no fact** (Botswana, Madagascar).
 - **Seychelles holds no fact**: the passages held of its Broadcasting Corporation Act do not carry the AI clause.
-- **The summaries were written by the parent.** **Tokens: 41.3 million at the map**, ceiling 50 million.
+- **Tokens: 41.3 million at the map**, ceiling 50 million.
 
 ## Boundary
 

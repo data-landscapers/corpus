@@ -64,7 +64,7 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 
 ## 5. What the run reads
 
-- **Read**: **128 news stories about statistics from administrative records that no study has read**, in 39 countries (none for Algeria, Benin, Comoros, Congo, Gabon, Guinea-Bissau, Libya, Malawi, Mali, Mauritius, Niger, São Tomé and Príncipe, South Sudan, Togo or Tunisia), one call of them regional and read once; then the 138 news stories and 37 documents that the row's current cells cite, in 53 countries. 107 drafters.
+- **Read**: **128 news stories about statistics from administrative records that no study has read**, in 39 countries, one call of them regional and read once; then the 138 news stories and 37 documents that the row's current cells cite, in 53 countries. 107 drafters.
 - **No earlier study is carried**: the registry study read civil registration for its digitisation and holds no answer to whether vital statistics were published; the census and statistics studies noted administrative data as `other`.
 - **Not read**: yearbooks and reports themselves beyond those listed, and passing mentions. A question nothing answers is printed as *Not held*.
 
@@ -74,24 +74,22 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 
 ## 7. Tasks, in order
 
-- [x] **D0. Prepare**: this file, `study.json` and the reading lists, 2026-10-15.
-- [x] **D1. Bill's word**, 2026-10-15, the questions as prepared.
-- [x] **D2. Read**: 107 drafters, four regional stories read once; 82 facts after the parent's corrections (`corrections.csv`).
-- [x] **D3. Staged** as at 2026-09-30: stage 5 Egypt, Eswatini; 4 Botswana, Cabo Verde, Côte d'Ivoire, Equatorial Guinea, Lesotho, Namibia, Rwanda, Seychelles, Uganda, Zimbabwe; 3 fourteen; 2 Ghana, Guinea-Bissau, Mozambique, Senegal, Sierra Leone; none at 1; unplaced Eritrea, Libya, São Tomé and Príncipe; no evidence twenty. The second drafter agreed on 19 of 20.
-- [x] **D6. Ladder changed and rebuilt**, 2026-10-19 *(Bill)*: §2 and §3. `vital` and `series` became `source` and `series`, each naming the records a product draws on, and the 100 held facts were retagged by hand. All 54 countries were searched with standard Exa searches: 204 documents went to ingest. 59 held yearbooks and reports the search found, which no drafter had read, were read through their opening and source notes, and 9 facts were removed as weaker than the rung (`corrections.csv`). Staged: 5 Libya; 4 twenty-three; 3 eighteen; 2 four; unplaced São Tomé and Príncipe; no evidence seven. Every cell holding evidence is logged `--kind ladder`.
-- [x] **D7. A named source is not administrative data**, 2026-10-19 *(Bill, on Libya)*: §2. 33 facts that named a body as a table's source, or listed a product, without saying its figures come from records were removed (`corrections.csv`), and the 18 cells they touched were logged `--kind review`. Staged: 4 nineteen; 3 fifteen; 2 six; unplaced three (Cameroon, Libya, São Tomé and Príncipe); no evidence eleven.
-- [x] **D4. Written, rendered and linted**, by `study-admindata-write.py`; on the soft-launch map. **D5. Reported to Bill.** Tokens 35.5M of 40M, step 1's thread counted.
-- [x] **D8. Stage 4's editions rewritten**, 2026-11-27 *(R185: second-drafter agreement 35%)*: §3. A statement that a product is annual or numbered in a series no longer counts as two editions. Every cell restaged `--kind ladder`; eleven moved, ten from 4 to 3 and Comoros from 4 to 2. A fresh draw of 20 agreed on 16.
-- [x] **D9. Bill's rulings 159-161 applied**, 2026-11-27: §2 and §3. A stated series with one edition dated counts as two, two products from one source's records count as two, and the window rolls back three years from the as-at. Fourteen cells reassessed `--kind ruling`: Benin, Burkina Faso, Cabo Verde, Egypt, Eritrea, Gambia, Kenya, Madagascar, Somalia, Tanzania and South Africa 3 to 4; Botswana 4 to 3; Ethiopia and Comoros unmoved, Comoros because no bulletin is dated in the window.
+*(Each step's counts are in git and `history.csv`.)*
+
+- [x] **D0-D5.** Prepared and approved by Bill, 2026-10-15; read (107 drafters); staged as at 2026-09-30, the second drafter agreeing on 19 of 20; written, rendered and reported. 35.5M of 40M tokens.
+- [x] **D6. Ladder rebuilt**, 2026-10-19 *(Bill)*: `source` and `series` name the records a product draws on; all 54 countries searched; every cell with evidence logged `--kind ladder`.
+- [x] **D7. A named source is not administrative data**, 2026-10-19 *(Bill, on Libya)*: 33 facts naming a body as a table's source, without saying its figures come from records, removed; 18 cells logged `--kind review`.
+- [x] **D8. Editions rewritten**, 2026-11-27 *(R185, agreement 35%)*: a product called annual or numbered in a series is not two editions. Every cell restaged `--kind ladder`, eleven moved; a fresh draw agreed on 16 of 20.
+- [x] **D9. Rulings 159-161**, 2026-11-27: a stated series with one edition dated counts as two, two products from one source's records count as two, and the window rolls back three years from the as-at. Fourteen cells logged `--kind ruling`.
 
 **Decided in the run**:
 
-- **Morocco's fact is removed**: cooperation conventions "being finalised" in October 2025 are not signed. It held nothing else and is *No evidence*.
-- **Uganda's three budget-report facts are redated to December 2025**, the end of the half-year the report covers; dated to the document's year they fell after the as-at. Its 2024 vital statistics report puts it at 4.
-- **Namibia's stage 4 rests on one passing reference** to the 2023 vital statistics report in a 2025 synthesis report; the summary says so.
-- **Egypt's stage 5 rests on a 2026 presentation stating CAPMAS issues annual and monthly birth and death reports**, with no report years named. It stands: the source states the series. Eswatini's 2022 report calls itself the seventh annual one.
-- **Twenty countries are *No evidence***: what the cells cite and the news read named information systems, laws and registration drives, not a published product. Finding their yearbooks and vital statistics is the rotation's search (method §5), not this study's.
-- **Zimbabwe's one report covering 2023 and 2024 is one edition**, not two years running.
+- **Conventions count once signed**: Morocco's, "being finalised" in October 2025, are not, and it is *No evidence*.
+- **A half-year report is dated to the end of its half-year** (Uganda, December 2025).
+- **A passing reference to a report counts as the report** (Namibia's 2023 vital statistics), and the summary says so.
+- **A source stating a series stands without report years** (Egypt, CAPMAS); a report calling itself the seventh annual one is a series (Eswatini).
+- **One report covering two years is one edition** (Zimbabwe).
+- ***No evidence* means no published product was found**: finding yearbooks is the search's work (method §5), not this study's.
 
 ## Boundary
 
