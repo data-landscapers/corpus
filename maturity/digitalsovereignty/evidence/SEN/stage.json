@@ -9,10 +9,10 @@
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-011;SEN-012",
-      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The rule in force is the 2021 policy requiring state agencies to move their data to the Diamniadio data centre, stated in force by MFWA in 2024 (SEN-011); bill 25/2026 (SEN-003) is adopted, not said to be in force, and 10 to 20 per cent of public data was still held abroad in October 2026 (SEN-007).",
-      "note": "MFWA (2024) states a policy in force since 2021 requiring state agencies to transfer their data to the Diamniadio national data centre (SEN-011), and agencies have been moving data there since November 2023, the health ministry over 80% by January 2024 (SEN-012), so stage 4. No contract with data terms is on file, so not 5.",
-      "as_at": "2026-11-12"
+      "stage_sources": "SEN-018;SEN-011;SEN-012",
+      "gaps": "No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. 10 to 20 per cent of public data was still held abroad in October 2026 (SEN-007).",
+      "note": "Law 2026-20, promulgated on 10 September 2026, requires state data to be hosted and processed in Senegal (SEN-018), beside the 2021 policy moving agencies' data to the Diamniadio national data centre (SEN-011), and agencies have moved data there since November 2023 (SEN-012), so stage 4. No contract with data terms is on file, so not 5.",
+      "as_at": "2026-11-28"
     }
   ]
 }

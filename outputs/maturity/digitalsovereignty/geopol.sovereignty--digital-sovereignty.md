@@ -73,8 +73,9 @@ Nigeria's 2025 cloud policy keeps sensitive government data at home and its iden
 
 ### Senegal: 4 Operating
 
-State agencies moved their data to the national data centre under a 2021 policy, by 2024 reports; contract terms on data are not on record.
+A 2026 law requires state data to be hosted in Senegal, where agencies have moved data since 2023; contract terms on data are not known.
 
+- Article 12 of Law No. 2026-20 of 10 September 2026, promulgated that day and printed in Journal officiel No. 7939 of 17 October 2026, requires data produced, collected or held by State services, or by private partners on a public-service mission, to be hosted and processed on national territory, with temporary exceptions only by regulation ([source, 2026-09-10](https://www.vie-publique.sn/docs/83318790-e7fb-46b2-b193-928873e16474/JO-7939-du-17-octobre-2026.pdf)).
 - MFWA says a policy in force since 2021 requires state agencies to transfer the data they hold to the national Diamniadio data centre ([source, 2021](https://mfwa.org/impact-stories/senegal-state-agencies-comply-with-policy-on-public-data-management-after-mfwa-fellows-report/)).
 - MFWA says state agencies have been moving their data to the Diamniadio national storage centre since November 2023, the health ministry reportedly over 80% of its data by January 2024 ([source, 2024-01](https://mfwa.org/impact-stories/senegal-state-agencies-comply-with-policy-on-public-data-management-after-mfwa-fellows-report/)).
 
