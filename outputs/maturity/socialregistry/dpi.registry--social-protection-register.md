@@ -301,7 +301,7 @@ A social registry was under way in 2025; none in service is on record.
 
 A social registry was under way in 2026; none in service is on record.
 
-- NaCSA's Commissioner said the amended MoU with Statistics Sierra Leone would enable NaCSA to expand the Social Protection Registry for Integrated National Targeting (SPRINT) and achieve national coverage ([source, 2026-04-08](https://www.nacsa.gov.sl/post/nacsa-ancollaborationd-statistics-sierra-leone-sign-amended-mou-to-strengthen-data-for-pssnye-proje)).
+- NaCSA's Commissioner said the amended MoU with Statistics Sierra Leone would enable NaCSA to expand the Social Protection Registry for Integrated National Targeting (SPRINT) and achieve national coverage ([source, 2026-04-08](https://web.archive.org/web/20260606132947/https://www.nacsa.gov.sl/post/nacsa-ancollaborationd-statistics-sierra-leone-sign-amended-mou-to-strengthen-data-for-pssnye-proje)).
 
 ### South Africa: 2 Nascent
 
