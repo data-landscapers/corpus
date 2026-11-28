@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: AGO
-ledger_rows: 34
+ledger_rows: 36
 not_held: 6
-record: 15e267c35d6e
+record: f3831bac0341
 ---
 
 # News, Oct – Nov 2026
@@ -368,6 +368,28 @@ Africa has 36 active instant payment systems in 31 countries, which processed mo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic payment volume</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EMIS — Relatório Sintético Mensal MCX, Outubro de 2026 (Sistema Multicaixa)](https://emis.ao/media/p4wk0ofb/relatorio_sintetico_mensal_mcx.pdf)** — EMIS — Empresa Interbancária de Serviços, S.A., 13 November 2026
+
+435.7m operations worth Kz 5.54trn in October, up 31.9% y/y; 2.6m active Express users; 9.5m valid cards.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Metade dos internautas em 4 províncias de Angola, já usa aplicações bancárias e carteiras digitais](https://fintechs.ao/metade-dos-internautas-em-4-provincias-de-angola-ja-usa-aplicacoes-bancarias-e-carteiras-digitais/)** — FinTechs Angola, 26 November 2026
+
+Adds EMIS October 2026 count: Multicaixa Express over 2.6m active users, about 70% of network operations.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -489,6 +511,20 @@ Angola's tax administration AGT aims to bring two million taxpayers onto electro
 **[Visto de fronteira em Angola passa a ser digital no SME - Diário 94](https://www.diario94.com/noticia/sme-digitaliza-pedidos-de-visto-de-fronteira-em-angola-621c)** — Diário 94, 21 November 2026
 
 Angola's Serviço de Migração e Estrangeiros has made border-visa applications fully digital, ending paper submission, according to Diário 94 on 21 November 2026. Applicants register at sme.gov.ao and profiles are activated within 48 hours. A validated request receives a RUPE payment reference.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">O Meu Parlamento app and National Assembly portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Parlamento inaugura nova era de proximidade digital](https://www.parlamento.ao/noticias/72506)** — Assembleia Nacional de Angola, 27 November 2026
+
+Angola's National Assembly launched the O Meu Parlamento mobile app and a redesigned web portal on 26 November 2026. Citizens can follow the work of deputies and committees, consult laws and submit petitions, complaints and concerns. Both are available in Portuguese, English and French.
 
 </div>
 

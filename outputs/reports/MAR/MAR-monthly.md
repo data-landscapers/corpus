@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: MAR
-ledger_rows: 49
+ledger_rows: 52
 not_held: 13
-record: 72f400bc7b47
+record: 5db39db08b82
 ---
 
 # News, Oct – Nov 2026
@@ -272,6 +272,20 @@ Morocco's AI and digital minister, Ahmed Rahhou, set out his ministry's 2027 pro
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public administration modernisation and digital transition fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AI & digital strategy: Ahmed Rahhou’s pragmatic blueprint](https://telquel.ma/2026/11/27/ai-digital-strategy-ahmed-rahhous-pragmatic-blueprint_2020171)** — TelQuel, 27 November 2026
+
+2027 Finance Bill: MAD 1.339bn to the ministry, 1.02bn to the modernisation fund; DGI AI audit agent, TijarIA.
+
+</div>
+
+</div>
+
 ### New investments
 
 <div class="monthly-story" markdown="1">
@@ -283,6 +297,28 @@ Morocco's AI and digital minister, Ahmed Rahhou, set out his ministry's 2027 pro
 **[Numérique et climat : le Maroc consolide deux chantiers de long terme avec 567,3 M€](https://www.laverite.ma/maroc-567-millions-numerique-risques-climatiques-banque-mondiale/)** — La Vérité, 4 October 2026
 
 Morocco's Bulletin officiel of 1 October 2026 published decrees approving two World Bank loans: €218.2 million, signed on 25 June, for the Digital Transformation Acceleration Program, and €349.1 million, signed on 30 June, for climate and risk finance. The digital programme plans a single public services portal and a digital wallet linked to the electronic ID card, with results expected by 2031.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">EBRD financing for the airports operator's digital transformation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EBRD Project Summary Document 55857 — ONDA's digital transformation](https://www.ebrd.com/home/work-with-us/projects/psd/55857.html)** — European Bank for Reconstruction and Development, 23 November 2026
+
+EUR 80m EBRD finance of EUR 100m cost; board 2 Dec 2026; passenger-data protection lead and e-gate accessibility tests.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Aéroports : La BERD envisage un financement de 80 millions d’euros pour la digitalisation de l’ONDA](https://fnh.ma/articles/aeroports-la-berd-envisage-un-financement-de-80-millions-d-euros-pour-la-digitalisation-de-l-onda)** — Finances News Hebdo, 25 November 2026
+
+EUR 100m programme for 24 airports; e-gates, cybersecurity, data protection; EBRD board review 2 December 2026.
 
 </div>
 
@@ -443,6 +479,8 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
@@ -451,6 +489,22 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Pension fund and public-sector mutuals beneficiary data-exchange platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Protection sociale : la CMR et trois mutuelles s’allient pour simplifier les démarches des bénéficiaires](https://lenew.ma/protection-sociale-cmr-mutuelles-simplification-demarches/)** — LeNew.ma, 26 November 2026
+
+Services from March 2027; pension certificate replaced by direct data exchange; ACAPS oversight, Law 55-19.
+
+</div>
+
+</div>
 
 ### Digital Payments and Fintech
 

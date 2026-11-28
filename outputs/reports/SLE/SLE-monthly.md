@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: SLE
-ledger_rows: 33
+ledger_rows: 34
 not_held: 4
-record: f4f965ac406e
+record: da9dae41ccb3
 ---
 
 # News, Oct – Nov 2026
@@ -545,6 +545,20 @@ Sierra Leone's communications ministry signed an MoU with The Gambia's Unique Gr
 **[Sierra Leone Advances FinTech Innovation as UniPod Becomes Startup Acceleration Hub](https://spearnewssl.com/sierra-leone-advances-fintech-innovation-as-unipod-becomes-startup-acceleration-hub/)** — The Spear News SL, 10 November 2026
 
 A FinTech Innovation Lab has been set up at Sierra Leone's University Innovation Pod (UniPod) by UNCDF, the EU and the Bank of Sierra Leone, The Spear News SL reported on 10 November 2026. It gives early-stage fintech startups acceleration support and access to the central bank's regulatory sandbox. The date it was set up is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Felei TechCity, Tikonko special economic zone</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SALPOST and Felei TechCity Present Investment Proposals at WAIIS 2026 Pre-Summit](https://mocti.gov.sl/salpost-and-felei-techcity-present-investment-proposals-at-waiis-2026-pre-summit/)** — Sierra Leone Ministry of Communication, Technology and Innovation, 26 November 2026
+
+Pitched 15 Nov 2026; Felei Phase I seeks US$30m on 130-acre Bo site; SALPOST seeks US$6.8m for 25-site network.
 
 </div>
 

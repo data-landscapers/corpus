@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Oct – Nov 2026
-compiled: 2026-11-22
-period: 2026-10-01 to 2026-11-22
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: MRT
-ledger_rows: 23
+ledger_rows: 25
 not_held: 3
-record: f922fb8d133d
+record: d095db5faa3f
 ---
 
 # News, Oct – Nov 2026
@@ -404,6 +404,20 @@ Benin and Mauritania compared their digital government programmes at Estonia's e
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital zakat management platform on Khidmati</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الزكاة عبر الهاتف: إطلاق منصة رقمية لإدارتها على بوابة «خدماتي»](https://madar.mr/mauritanie/mauritania-digital-zakat-platform-launch-khidmati-20261127)** — Madar, 27 November 2026
+
+Mauritania launched a digital zakat management platform on its Khidmati portal on 27 November 2026. Payers can settle zakat by mobile phone and e-wallet. The platform links to the civil register and the social registry to identify beneficiaries. No user or collection figures were given.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -423,6 +437,20 @@ Benin and Mauritania compared their digital government programmes at Estonia's e
 **[Country Profile on AI Governance: Mauritania](https://www.aipolicy.africa/country-profiles/mauritania)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Mauritania scored 0.99 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 33 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (2.22) and its weakest is Implementation and Impact (0.22); the profile notes an AI strategy adopted in March 2024 and a 2017 data protection law still lacking implementing decrees.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Employment agency AI job-matching platforms</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وكالة «تشغيل»: 3 منصات بالذكاء الاصطناعي و4 برامج للإدماج المهني](https://madar.mr/mauritanie/mauritania-techghil-employment-agency-launches-ai-job-platforms-four-integration-programmes-20261126)** — Madar, 26 November 2026
+
+Three AI job-matching platforms, a skills-assessment platform and four integration programmes; human oversight kept.
 
 </div>
 

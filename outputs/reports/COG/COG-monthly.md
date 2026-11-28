@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: COG
-ledger_rows: 26
+ledger_rows: 27
 not_held: 6
-record: 4f01aa7e909d
+record: d92b7d915032
 ---
 
 # News, Oct – Nov 2026
@@ -374,6 +374,14 @@ The steering committee of Congo's task force on digitalising the administration,
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Compte rendu du Conseil des ministres du mercredi 25 novembre 2026](https://sgg.cg/ccm/compte-rendu-cm-25-novembre-2026.pdf)** — Secrétariat général du Gouvernement (République du Congo), 25 November 2026
+
+About 100 public services listed for digitalisation; e-Visa a priority; SNA 2008 rebasing; WAICO founding state.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -507,6 +515,20 @@ Congo's statistics institute held a workshop in Brazzaville on 2 October to set 
 **[L’Ins et Mtn Télécom s’unissent pour digitaliser les statistiques nationales](https://labreveonline.com/lins-et-mtn-tlcom-sunissent-pour-digitaliser-les-statistiques-nationales/)** — La Brève Online, 8 November 2026
 
 Congo's statistics institute and MTN Congo agreed to form a joint working group, La Breve Online reported on 8 November 2026. The group is to diagnose the institute's digitalisation needs and draft a roadmap for a memorandum. Its scope includes SIM-based field collection, data-centre hosting and SMS dissemination, under SDMX standards.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Rebasing of the national accounts to the 2008 System of National Accounts</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Compte rendu du Conseil des ministres du mercredi 25 novembre 2026](https://sgg.cg/ccm/compte-rendu-cm-25-novembre-2026.pdf)** — Secrétariat général du Gouvernement (République du Congo), 25 November 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 

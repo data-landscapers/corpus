@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: CIV
-ledger_rows: 65
+ledger_rows: 66
 not_held: 9
-record: 29ebc847d369
+record: e042674cf32d
 ---
 
 # News, Oct – Nov 2026
@@ -598,6 +598,20 @@ Wave announced on 6 November 2026 that its customers in Senegal and Côte d'Ivoi
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ecobank Rapid Transfer corridor into Ghanaian mobile money wallets</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ecobank, Mobile Money Fintech Ltd launch cross-border MoMo transfers between Ghana and Côte d’Ivoire](https://www.myjoyonline.com/ecobank-mobile-money-fintech-ltd-launch-cross-border-momo-transfers-between-ghana-and-cote-divoire/)** — MyJoyOnline, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
+
+Côte d'Ivoire senders to Ghana MoMo wallets via Ecobank Rapid Transfer; BoG-approved; more corridors planned.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -1029,6 +1043,14 @@ On 23 November 2026, members of Côte d'Ivoire's Economic, Social, Environmental
 **[Côte d’Ivoire-AIP/ Les sénateurs formés aux enjeux et aux applications de l’intelligence artificielle à Yamoussoukro - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-les-senateurs-formes-aux-enjeux-et-aux-applications-de-lintelligence-artificielle-a-yamoussoukro/)** — Agence Ivoirienne de Presse (AIP), 24 November 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire : Le ministre Djibril Ouattara veut former plus de 3 830 décideurs et élus à l’intelligence artificielle](https://www.koaci.com/article/2026/11/27/cote-divoire/technologie/cote-divoire-le-ministre-djibril-ouattara-veut-former-plus-de-3-830-decideurs-et-elus-a-lintelligence-artificielle_203124.html)** — KOACI, 27 November 2026
+
+Cote d'Ivoire's digital-transition ministry trained the heads and boards of its supervised bodies in AI in Abidjan on 26 November 2026. The session belongs to a national leaders' AI programme run with aivancity. The programme aims to reach more than 3,830 decision-makers and elected officials. It sits within the 2026-2028 digital roadmap.
 
 </div>
 

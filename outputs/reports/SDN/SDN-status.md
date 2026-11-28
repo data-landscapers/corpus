@@ -1,12 +1,12 @@
 ---
 title: Sudan: status report
-compiled: 2026-11-25
+compiled: 2026-11-28
 place: SDN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 214
+sources_cited: 215
 sections_written: 39
 not_established: 3
 acquire_lines: 49
@@ -43,7 +43,7 @@ A [draft data protection bill proposed around 2018 was never passed, and no inde
 ### Regional collaboration
 <!-- gov.regional -->
 
-Sudan [signed the African Union's Malabo Convention on Cyber Security and Personal Data Protection in March 2023 and has not ratified it](https://dataprotection.africa/sudan/). [Its Regional Integration score rose 3.8 points over 2014-2023 to 22.0 of 100, 47th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). [The score spans its memberships of COMESA, CEN-SAD and IGAD](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). A 2023 assessment found the national payment rails had [no connectivity outside the country](https://migrantmoney.uncdf.org/wp-content/uploads/2023/05/Sudan-Infrastructure-Assessment-Report-ENG.pdf). [A 400-km fibre cable from Egypt opened in October 2004](https://sudantribune.com/article/6899). [In April 2021 the state operator agreed with the Egyptian incumbent to carry international traffic over it](https://developingtelecoms.com/telecom-business/operator-news/10989-telecom-egypt-and-sudatel-plan-connectivity-cooperation.html). In August 2026 the government [resolved to replace its bilateral border-trade protocols with neighbouring states with a single national framework](https://sudantribune.net/article/317080).
+Sudan [signed the African Union's Malabo Convention on Cyber Security and Personal Data Protection in March 2023 and has not ratified it](https://dataprotection.africa/sudan/). [Its Regional Integration score rose 3.8 points over 2014-2023 to 22.0 of 100, 47th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). [The score spans its memberships of COMESA, CEN-SAD and IGAD](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sd.pdf). A 2023 assessment found the national payment rails had [no connectivity outside the country](https://migrantmoney.uncdf.org/wp-content/uploads/2023/05/Sudan-Infrastructure-Assessment-Report-ENG.pdf). On 26 November 2026 the central banks of Sudan and Egypt [signed a memorandum to create channels for settling trade payments](https://cbos.gov.sd/ar/news/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%AA%D9%88%D9%82%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%85%D8%B9-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A). [A 400-km fibre cable from Egypt opened in October 2004](https://sudantribune.com/article/6899). [In April 2021 the state operator agreed with the Egyptian incumbent to carry international traffic over it](https://developingtelecoms.com/telecom-business/operator-news/10989-telecom-egypt-and-sudatel-plan-connectivity-cooperation.html). In August 2026 the government [resolved to replace its bilateral border-trade protocols with neighbouring states with a single national framework](https://sudantribune.net/article/317080).
 
 ### Standards
 <!-- gov.standards -->

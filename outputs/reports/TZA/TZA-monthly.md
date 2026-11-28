@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: TZA
-ledger_rows: 67
+ledger_rows: 69
 not_held: 4
-record: b793c8c5f48b
+record: ea386bc29dc8
 ---
 
 # News, Oct – Nov 2026
@@ -801,6 +801,34 @@ Tech Africa News reported on 6 November 2026 on Tanzania's M-Mama emergency refe
 **[Digital transformation cuts NHIF claims payment period to 50 days](https://www.thecitizen.co.tz/tanzania/news/national/digital-transformation-cuts-nhif-claims-payment-period-to-50-days-5661158)** — The Citizen, 6 November 2026
 
 Tanzania's National Health Insurance Fund cut its average claims settlement time from 120 to 50 days in FY2024/25, according to its briefing of 6 November 2026. It credits digitised claims processing and AI. It reports paper claim forms down 75% and card costs down 80%, with systems linked to NIDA and RITA.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health facilities with facility-wide electronic systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania leads Africa in health systems, but gaps remain](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-leads-africa-in-health-systems-but-gaps-remain-5684938)** — The Citizen, 26 November 2026
+
+WHO 2026: Tanzania 93% vs 59% regional average; 2% of facilities fully electronic; HIS financing 53%.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Attorney General's Legal Sector Management Information System (LSMIS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Attorney General launches digital systems and strategic documents toward the implementation of Vision 2050](https://www.oag.go.tz/news/attorney-general-launches-digital-systems-and-strategic-documents-toward-the-implementation-of-vision-2050)** — Office of the Attorney General (Tanzania), 27 November 2026
+
+Tanzania's Office of the Attorney General launched three items in Arusha on 26 November 2026. They are a Legal Sector Management Information System, an electronic library system and its 2026/27-2030/31 Strategic Plan. It also signed a memorandum of understanding with the Public Procurement Regulatory Authority. The memorandum covers oversight of public procurement.
 
 </div>
 

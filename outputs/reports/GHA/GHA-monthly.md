@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-27
-period: 2026-10-01 to 2026-11-27
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: GHA
-ledger_rows: 95
+ledger_rows: 100
 not_held: 9
-record: 3fdbd3333df7
+record: 644242180f5d
 ---
 
 # News, Oct – Nov 2026
@@ -221,6 +221,28 @@ Ghana's Data Protection Commission directed an Accra hospital to report to the p
 **[Data Protection Commission clamps down on organisations breaching regulations, microfinance firm and health facility referred to police for prosecution](https://www.graphic.com.gh/news/general-news/data-protection-commission-clamps-down-on-organisations-breaching-regulations-microfinance-firm-and-health-facility-referred-to-police-for-prosecution.html)** — Graphic Online, 13 October 2026
 
 Ghana's Data Protection Commission began field enforcement in Accra on 12 October 2026, finding two hospitals operating with expired certificates; a microfinance firm and a health facility were referred to police for prosecution. Executive director Arnold Kavaarpuo said 2,575 data controllers registered in 2026, more than in any previous year, and that registration alone is not compliance.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Protection Act 2012</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government moves to review Data Protection Act](https://www.myjoyonline.com/government-moves-to-review-data-protection-act/)** — MyJoyOnline, 27 November 2026
+
+Minister George at 8th Privacy Symposium Africa, 26 Nov 2026; DPC seeks 66% target rise and law reform for 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sam George Warns Ministries and State Agencies of Strict Sanctions Over Data Breaches](https://gitficonline.com/sam-george-warns-ministries-and-state-agencies-of-strict-sanctions-over-data-breaches/)** — GITFiConline, 27 November 2026
+
+No exemption for state bodies; cautions to Foreign Affairs and Parliament; Act 843 update for AI, cross-border flows.
 
 </div>
 
@@ -493,6 +515,8 @@ Italy's development agency AICS committed EUR 20 million through UNDP on 29 Octo
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technical-capacity">Technical Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
@@ -658,6 +682,22 @@ Ghana's communications minister, Sam George, spoke at the Africa Virtual Asset S
 
 </div>
 
+### Technical Capacity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central bank Enterprise Currency Operations Management Software (ECOMS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bank of Ghana unveils homegrown currency management software](https://www.myjoyonline.com/bank-of-ghana-unveils-homegrown-currency-management-software/)** — MyJoyOnline, 12 November 2026
+
+ECOMS currency-operations system built entirely by BoG staff; other central banks seeking to learn from it.
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -777,6 +817,8 @@ Bank of Ghana Governor Johnson Asiama addressed the 30th National Banking and Et
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
@@ -787,6 +829,22 @@ Bank of Ghana Governor Johnson Asiama addressed the 30th National Banking and Et
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Credit bureau coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Turn GH¢4.99trn MoMo data into credit for informal sector – BoG](https://gna.org.gh/2026/11/turn-gh%c2%a24-99trn-momo-data-into-credit-for-informal-sector-bog-2/)** — Ghana News Agency, 25 November 2026
+
+1.093bn MoMo transactions worth GH¢552.1bn in Oct 2026; credit bureau coverage 33.2% (2019) to 60% (Dec 2025).
+
+</div>
+
+</div>
 
 ### Digital Identity and CRVS
 
@@ -1078,6 +1136,34 @@ MobileMoney Fintech set new monthly limits from 24 November 2026: GHS 150,000 fo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ecobank Rapid Transfer corridor from Côte d'Ivoire into mobile money wallets</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ecobank, Mobile Money Fintech Ltd launch cross-border MoMo transfers between Ghana and Côte d’Ivoire](https://www.myjoyonline.com/ecobank-mobile-money-fintech-ltd-launch-cross-border-momo-transfers-between-ghana-and-cote-divoire/)** — MyJoyOnline, 25 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+
+Côte d'Ivoire senders to Ghana MoMo wallets via Ecobank Rapid Transfer; BoG-approved; more corridors planned.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile money transaction value</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Turn GH¢4.99trn MoMo data into credit for informal sector – BoG](https://gna.org.gh/2026/11/turn-gh%c2%a24-99trn-momo-data-into-credit-for-informal-sector-bog-2/)** — Ghana News Agency, 25 November 2026
+
+Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -1337,6 +1423,14 @@ Ghana's Motor Traffic and Transport Department said on 31 October 2026 that its 
 **[Ghana : la police déploie des caméras connectées pour automatiser le contrôle routier](https://www.wearetech.africa/fr/fils/actualites/tech/ghana-la-police-deploie-des-cameras-connectees-pour-automatiser-le-controle-routier)** — wearetech.africa, 2 November 2026
 
 Ghana Police's TraffiTech-GH camera enforcement system went live on 1 November 2026, starting with speeding on crash-prone routes. The Motor Traffic and Transport Department reviews offences captured by fixed, vehicle-mounted and laser devices and notifies drivers by SMS. Drivers have 14 days to pay by mobile money or card, or to contest the fine.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Traffitech records 13,699 offences, GH¢4m fines in first week – Interior Minister](https://www.myjoyonline.com/traffitech-records-13699-offences-gh%c2%a24m-fines-in-first-week-interior-minister/)** — MyJoyOnline, 26 November 2026
+
+13,699 offences and nearly GH¢4m in fines in first week; crashes down; speed limits only for now.
 
 </div>
 

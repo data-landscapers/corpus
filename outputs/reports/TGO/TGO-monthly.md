@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: TGO
-ledger_rows: 44
+ledger_rows: 45
 not_held: 15
-record: 5fb2e7e86251
+record: 6e34aa7dfd2d
 ---
 
 # News, Oct – Nov 2026
@@ -228,6 +228,22 @@ Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communic
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria and Togo Sign Memorandum of Understanding to Develop Twinned Data Park](https://fmcide.gov.ng/nigeria-and-togo-sign-memorandum-of-understanding-to-develop-twinned-data-park/)** — Federal Ministry of Communications, Innovation and Digital Economy (Nigeria), 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Nigeria and Togo signed a memorandum of understanding in Lagos on 26 November 2026 to develop twinned data parks. Nigeria's would sit on land beside Egbin Power Station, and Togo's would serve as a backup and disaster-recovery site. A joint special purpose vehicle with government and private equity would own them. The World Bank is engaged on assessment and structuring.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria, Togo Target $50m Data Parks To Retain West Africa's Digital Economy](https://leadership.ng/nigeria-togo-target-50m-data-parks-to-retain-west-africas-digital-economy/)** — Leadership, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Nigeria and Togo signed an agreement in Lagos on 26 November 2026 to develop interconnected data parks. The first phase is estimated at between $30 million and $50 million, with initial milestones targeted for the second quarter of 2027, subject to funding. The two governments plan a joint special purpose vehicle. The World Bank took part in the discussions.
+
+</div>
+
 </div>
 
 ### Cybersecurity
@@ -446,6 +462,14 @@ Togo's Ministry of Territorial Planning and Urban Development put two new servic
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Urbanisme : deux nouvelles démarches accessibles en ligne](https://www.republiquetogolaise.tg/services-publics/2611-12536-urbanisme-deux-nouvelles-demarches-accessibles-en-ligne)** — République Togolaise (Togo Officiel), 26 November 2026
+
+Building-permit complaints and planning-decision appeals now filed on national public services portal.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -521,6 +545,20 @@ Togo's public-sector pension fund, the Caisse de retraite du Togo, is moving the
 **[BIOSECU CRT / Le contrôle de vie des retraités entre dans l'ère du numérique - Ministère des Finances et du Budget](https://finances.gouv.tg/biosecu-crt-le-controle-de-vie-des-retraites-entre-dans-lere-du-numerique/)** — Ministère des Finances et du Budget, Togo, 17 November 2026
 
 Togo's finance minister launched BIOSECU-CRT on 16 November 2026, an online facial-recognition check that pensioners are alive. It covers the Caisse de Retraites du Togo's 40,043 beneficiaries as at end-October 2026. It reuses the CNSS's BIOSECU system, built with the Togolese integrator LIKSOFT, and enrolment is open to 16 February 2027. The CRT and INAM are to merge into one social security institute.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Togocham online certificates of origin</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Commerce extérieur : les demandes d'attestation et de certificat d'origine digitalisées](https://www.republiquetogolaise.tg/tic/2711-12541-commerce-exterieur-les-demandes-dattestation-et-de-certificat-dorigine-digitalisees)** — République Togolaise (Togo Officiel), 27 November 2026
+
+Togo's Chamber of Commerce and Industry will take applications for the attestation of origin and the Form A certificate of origin only online from 30 November 2026. Firms apply on the Togocham platform, free of charge. An exporters' training session was held on 24 November.
 
 </div>
 

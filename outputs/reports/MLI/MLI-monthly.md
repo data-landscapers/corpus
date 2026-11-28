@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: MLI
-ledger_rows: 22
+ledger_rows: 25
 not_held: 1
-record: f8db7c761b88
+record: d46db62766a2
 ---
 
 # News, Oct – Nov 2026
@@ -80,11 +80,51 @@ Maliweb reported on 8 November 2026 that Bamako hosted the second coordination m
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Confederation of Sahel States framework convention on digital and postal cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AES : Le Burkina Faso, le Mali et le Niger valident une convention de coopération dans le numérique et la poste](https://burkina24.com/2026/11/27/aes-le-burkina-faso-le-mali-et-le-niger-valident-une-convention-de-cooperation-dans-le-numerique-et-la-poste/)** — Burkina24, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Ministerial session, Ouagadougou, 27 Nov 2026; three postal platforms to connect; implementation action plan drafted.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[L'AES se dotent d’un cadre commun de coopération dans le Numérique et les Postes](https://www.wakatsera.com/laes-se-dotent-dun-cadre-commun-de-cooperation-dans-le-numerique-et-les-postes/)** — Wakat Séra, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Convention signed Ouagadougou 27 Nov 2026; infrastructure sharing, cybersecurity, PosTransfer; AES technical committee.
+
+</div>
+
+</div>
+
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#new-investments">New investments</a>
 </nav>
+
+### Domestic budget appropriations and expenditure
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Universal access fund budget</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[12ème Session Conseil d’Administration de L’AGEFAU : Le Premier Ministre Abdoulaye MAIGA invite l’agence à poursuivre les reformes pour l’amélioration de la gouvernance](https://gouvernement.ml/12eme-session-conseil-dadministration-de-lagefau-le-premier-ministre-abdoulaye-maiga-invite-lagence-a-poursuivre-les-reformes-pour-lamelioration-de-la-gouvernanc/)** — Information Gouvernementale du Mali, 27 November 2026
+
+FCFA 58.75bn for 2027; coverage to 162 localities, solar charging stations, 48 school access centres.
+
+</div>
+
+</div>
 
 ### New investments
 
@@ -247,6 +287,20 @@ New BCEAO rules on interoperable transfers took effect in Mali on 2 November 202
 **[Numérique : 545 tablettes remises pour étendre la plateforme de paiement TresorPay](https://malijet.com/actualite_economique_du_mali/312858-numerique-545-tablettes-remises-pour-etendre-la-plateforme.html)** — Malijet, 16 November 2026
 
 Mali's Ministry of Economy and Finance handed over 545 tablets on 16 November 2026 to extend the TresorPay public payment platform. The largest shares went to the security ministry (160), territorial administration (150), higher education (100) and transport (100). The data protection authority APDP received 35.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Decree 2024-0429 on digital payment in public services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paiements numériques en Commune IV : des avancées, des centres encore à la peine](https://www.maliweb.net/economie/developpement/paiements-numeriques-en-commune-iv-des-avancees-des-centres-encore-a-3121931.html)** — Maliweb, 26 November 2026
+
+Decree 2024-0429; switch from 5 Aug 2024; eight centres visited, one payment terminal, power cuts and kiosks.
 
 </div>
 

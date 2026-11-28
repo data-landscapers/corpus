@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Oct – Nov 2026
-compiled: 2026-11-25
-period: 2026-10-01 to 2026-11-25
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: LBY
-ledger_rows: 30
+ledger_rows: 31
 not_held: 3
-record: ba97703688b0
+record: d3d553edf7cc
 ---
 
 # News, Oct – Nov 2026
@@ -221,6 +221,20 @@ Libya's Attorney General's Office ordered two National Oil Corporation officials
 **[Libya’s GNU orders immediate shutdown of government systems over critical cybersecurity vulnerabilities](https://libyaobserver.ly/news/libyas-gnu-orders-immediate-shutdown-government-systems-over-critical-cybersecurity)** — The Libya Observer, 22 October 2026
 
 Libya's Government of National Unity ordered the immediate temporary shutdown and isolation of all government systems, websites and databases running on PHP, in a circular from the Minister of State for Cabinet Affairs. It cited US NSA warnings of two critical vulnerabilities allowing attackers to take over servers without authentication, and put cybersecurity teams on alert.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybersecurity cooperation framework with the United States State Department</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tripoli Government Delegation Holds Economic and Security Talks in DC](https://libyaherald.com/2026/11/high-level-tripoli-government-delegation-to-washington-dc-holds-several-key-meetings)** — Libya Herald, 27 November 2026
+
+A delegation of the Tripoli government held talks in Washington. They discussed a cybersecurity cooperation framework between Libya's National Cybersecurity Authority and the US State Department. It covers threat monitoring, incident response and training. With the IMF, they discussed unifying Libya's two banking clearing and payment systems.
 
 </div>
 

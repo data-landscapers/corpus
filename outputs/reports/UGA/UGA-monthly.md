@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: UGA
-ledger_rows: 65
+ledger_rows: 67
 not_held: 11
-record: 1f29e2569460
+record: 16b2548151ed
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: 1f29e2569460
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -942,6 +944,28 @@ Uganda's President moved ICT Permanent Secretary Aminah Zawedde to the Office of
 
 </div>
 
+## Digitalisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+</nav>
+
+### Digitalisation of sub-national government
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">District local government website template</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITA-U revamps district websites to bring services closer to citizens](https://www.monitor.co.ug/uganda/news/national/nita-u-revamps-district-websites-to-bring-services-closer-to-citizens-5684672)** — Daily Monitor, 26 November 2026
+
+IT officers from 145 districts trained on new website template; unfunded IT units, districts off the backbone.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -1097,6 +1121,20 @@ Uganda's gender ministry said, as reported on 19 October 2026, that about 43,000
 **[Request for Bids | Small Works (One-Envelope Bidding Process) · National Information Technology Authority- Uganda (NITA-U) · TenderPilot](https://tenderpilotug.com/t/gu-110198)** — TenderPilot (NITA-U notice), 9 November 2026
 
 Uganda's NITA-U invited bids on 9 November 2026 for telecentre infrastructure and connectivity in refugee-host communities. The contract, under the World Bank-financed Uganda Digital Acceleration Project, has three regional lots. Bids close on 3 December 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Buy-now-pay-later smartphone financing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN Uganda Teams Up with MOGO to Offer Smartphone Financing Plans](https://www.telecomreviewafrica.com/articles/telecom-operators/29523-mtn-uganda-teams-up-with-mogo-to-offer-smartphone-financing-plans/)** — Africa Telecom Review, 27 November 2026
+
+MTN Uganda and MOGO launched instalment financing for TECNO, Infinix and itel smartphones. Repayment runs up to 52 weeks, with 3GB of monthly data for three months. MOGO says it has financed more than 300,000 smartphones in Uganda since April 2025. It says only 38% of internet-capable devices in Uganda are smartphones.
 
 </div>
 

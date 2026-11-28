@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-11-22
+compiled: 2026-11-28
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 208
+sources_cited: 209
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -93,7 +93,7 @@ In 2025 [Mali had no dedicated data exchange or interoperability strategy and no
 ### Financial sustainability
 <!-- finance.sustain -->
 
-In July 2026 [the AGEFAU board cut the universal access fund's 2026 budget from FCFA 41.15 billion to FCFA 27.89 billion](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/). [By July 2026 the agency had collected FCFA 23.18 billion and spent FCFA 3.19 billion](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/). [The government told the UN that the fund mobilised US$72 million in 2025 for network extension and telemedicine](https://www.un.org/global-dialogue-ai-governance/sites/default/files/2026-07/52.republic_of_mali.pdf). [Under four-year conventions with the education and employment ministries, it has committed to connect every secondary, technical and vocational school by the end of 2027](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/).
+In July 2026 [the AGEFAU board cut the universal access fund's 2026 budget from FCFA 41.15 billion to FCFA 27.89 billion](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/). On 26 November 2026 [it adopted FCFA 58.75 billion for 2027, to extend coverage to 162 localities and build 48 school access centres](https://gouvernement.ml/12eme-session-conseil-dadministration-de-lagefau-le-premier-ministre-abdoulaye-maiga-invite-lagence-a-poursuivre-les-reformes-pour-lamelioration-de-la-gouvernanc/). [By July 2026 the agency had collected FCFA 23.18 billion and spent FCFA 3.19 billion](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/). [The government told the UN that the fund mobilised US$72 million in 2025 for network extension and telemedicine](https://www.un.org/global-dialogue-ai-governance/sites/default/files/2026-07/52.republic_of_mali.pdf). [Under four-year conventions with the education and employment ministries, it has committed to connect every secondary, technical and vocational school by the end of 2027](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/).
 
 [The 2025 credit-opening order carries FCFA 163.5 billion of external financing across 46 projects, none of them a digital line](https://finances.ml/sites/default/files/2025-02/Arr%C3%AAt%C3%A9%20d%27Ouverture%20des%20Credits%20-1er%20semestre%202025.pdf). [In 2025 it gives the ICT agency AGETIC FCFA 2.49 billion and the data-protection authority FCFA 2.06 billion](https://finances.ml/sites/default/files/2025-02/Arr%C3%AAt%C3%A9%20d%27Ouverture%20des%20Credits%20-1er%20semestre%202025.pdf). [The finance ministry's tax and financial IT unit receives FCFA 1.56 billion in 2025](https://finances.ml/sites/default/files/2025-02/Arr%C3%AAt%C3%A9%20d%27Ouverture%20des%20Credits%20-1er%20semestre%202025.pdf) (FY2025).
 

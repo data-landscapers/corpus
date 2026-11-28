@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: DJI
-ledger_rows: 18
+ledger_rows: 20
 not_held: 10
-record: b6b766744013
+record: 68d0cd0d0510
 ---
 
 # News, Oct – Nov 2026
@@ -193,10 +193,30 @@ Djibouti's communications and telecoms minister, Mohamed Abdoulkader Moussa, spo
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic single window for trade</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Douanes : Le guichet unique électronique de Djibouti prend corps](https://www.adi.dj/public/article/139148)** — Agence Djiboutienne d’Information (ADI), 27 November 2026
+
+Djibouti's customs administration and its partners are to review the consultation report for the planned electronic single window, ADI reported on 27 November 2026. The partners include the Ministry of Commerce, the AfCFTA Secretariat and Korea's CUPIA. CUPIA has worked in Ethiopia, Tanzania and Ghana and carries much of the technical delivery.
+
+</div>
+
+</div>
 
 ### Digital Payments and Fintech
 
@@ -209,6 +229,22 @@ Djibouti's communications and telecoms minister, Mohamed Abdoulkader Moussa, spo
 **[Corridor Djibouti-Ethiopie : paiement mobile et numéro vert pour les usagers](https://www.adi.dj/article/139102)** — Agence Djiboutienne d'Information (ADI), 13 November 2026
 
 Djibouti Ports Corridor Road (DPCR SA) announced on 13 November 2026 that Mobile Money is the only accepted payment for road-use fees on the Djibouti-Ethiopia corridor. Cash is refused at collection points. It also opened a 24-hour multilingual hotline on 5151. The hotline is run from the call centre of La Poste de Djibouti.
+
+</div>
+
+</div>
+
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Gender-based violence information management system (GBVIMS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le chef de l’Etat préside les travaux de la 15e séance du Conseil des ministres](https://www.adi.dj/public/article/139144)** — Agence Djiboutienne d’Information (ADI), 25 November 2026
+
+GBVIMS cases up 25% to 971 in 2025; 2027 budget FDJ 188bn; minister reports on ITU PP-26.
 
 </div>
 

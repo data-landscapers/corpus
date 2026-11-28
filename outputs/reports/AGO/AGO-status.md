@@ -1,12 +1,12 @@
 ---
 title: Angola: status report
-compiled: 2026-11-26
+compiled: 2026-11-28
 place: AGO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-04
 intersections_read: 12
-sources_cited: 312
+sources_cited: 313
 sections_written: 39
 not_established: 0
 acquire_lines: 47
@@ -212,7 +212,7 @@ Commercial capacity is thin and sits in Luanda, where [Raxio opened AG1 at Cacua
 
 [The central bank's annual accounts put KWiK at Kz 590.36 thousand million across 35,000,724 transfers in 2025, up 725.4% in value on 2024](https://revistaoutside.com/2026/05/18/sistema-de-transferencias-instantaneas-kwik-processa-59036-mil-milhoes-de-kwanzas-em-2025-crescimento-de-725-em-valor/). [They record the effective end of the cheque in 2025, with 4,989 items cleared against 38,664 in 2024](https://revistaoutside.com/2026/05/18/sistema-de-transferencias-instantaneas-kwik-processa-59036-mil-milhoes-de-kwanzas-em-2025-crescimento-de-725-em-valor/). [By number, Paypay handled 52.2% of KWiK transfers in February 2026, against 21.9% for Banco BAI and 12.6% for Unitel Money](https://angop.ao/noticias/economia/paypay-ultrapassa-1-6-milhoes-de-transferencias-mensais-no-kwik/). [Of the Kz 557.4bn moved over KWiK in the first half of 2026, banks originated about 62% and digital wallets about 38%](https://www.expansao.co.ao/angola/detalhe/movimentos-entre-carteiras-digitais-valem-apenas-06-no-kwik-74789.html). [Wallet-to-wallet transfers were 0.6% of the total in the first half of 2026](https://www.expansao.co.ao/angola/detalhe/movimentos-entre-carteiras-digitais-valem-apenas-06-no-kwik-74789.html).
 
-[Financial inclusion stood at 51.7% in the first quarter of 2026, against a 65% target for 2027, with banking at 32%](https://angop.ao/noticias/economia/governo-anuncia-nova-etapa-na-estrategia-nacional-de-inclusao-financeira/). [The identity card is a prerequisite for opening a bank account or obtaining a loan](https://openknowledge.worldbank.org/bitstreams/d1c06154-9015-4e69-9112-ccf5b7092b4a/download) (2024). [In its first three years to August 2023, Kwenda made 77% of its payments in cash and 0.4% by mobile money](https://angop.ao/es/noticias/economia/programa-kwenda-entrega-mais-de-akz-44-mil-milhoes-as-familias/). [Afrimoney counted 3 million wallet users among Africell's 8 million subscribers in September 2026](https://www.opais.ao/sociedade/operadora-de-telefonia-quer-combater-enchentes-em-atm-com-afrimoney/).
+[Financial inclusion stood at 51.7% in the first quarter of 2026, against a 65% target for 2027, with banking at 32%](https://angop.ao/noticias/economia/governo-anuncia-nova-etapa-na-estrategia-nacional-de-inclusao-financeira/). [The identity card is a prerequisite for opening a bank account or obtaining a loan](https://openknowledge.worldbank.org/bitstreams/d1c06154-9015-4e69-9112-ccf5b7092b4a/download) (2024). [In its first three years to August 2023, Kwenda made 77% of its payments in cash and 0.4% by mobile money](https://angop.ao/es/noticias/economia/programa-kwenda-entrega-mais-de-akz-44-mil-milhoes-as-familias/). [Afrimoney counted 3 million wallet users among Africell's 8 million subscribers in September 2026](https://www.opais.ao/sociedade/operadora-de-telefonia-quer-combater-enchentes-em-atm-com-afrimoney/). In October 2026 the Multicaixa network [carried 435.7 million operations, 69.7% of them on the Express app, which had 2,603,063 active users](https://emis.ao/media/p4wk0ofb/relatorio_sintetico_mensal_mcx.pdf).
 
 [Aviso 4/25 of 22 August 2025 set the central bank's rules for electronic-money accounts, graded by how the holder proves identity](https://lex.ao/docs/banco-nacional-de-angola/2025/aviso-n-o-4-25-de-22-de-agosto/). [Aviso 1/26 of 28 January 2026 required every non-bank acquirer of payment terminals or ATMs to be an authorised payment service provider](https://lex.ao/docs/banco-nacional-de-angola/2026/aviso-n-o-1-26-de-28-de-janeiro/). [The central bank oversees the payment system under a new Payments System Law](https://documents1.worldbank.org/curated/en/099062425124033726/pdf/P166564-d9f6cb90-2c8e-400b-95b5-562e367be0a1.pdf). [Instrutivo n.º 02/2025 caps Multicaixa payments at Kz 30m a day and credit transfers at Kz 50m](https://emis.ao/media/zhcpwuer/iinstrutivo-n%C2%BA-02_2025-sistema-de-pagamentos-limites-de-valor-em-opera%C3%A7%C3%B5es-realizadas.pdf). [It exempts the finance ministry, the social-security institute and the central bank from the credit-transfer limit](https://emis.ao/media/zhcpwuer/iinstrutivo-n%C2%BA-02_2025-sistema-de-pagamentos-limites-de-valor-em-opera%C3%A7%C3%B5es-realizadas.pdf).
 

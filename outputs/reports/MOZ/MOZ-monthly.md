@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Oct – Nov 2026
-compiled: 2026-11-26
-period: 2026-10-01 to 2026-11-26
+compiled: 2026-11-28
+period: 2026-10-01 to 2026-11-28
 place: MOZ
-ledger_rows: 47
+ledger_rows: 49
 not_held: 17
-record: cb97bc1eb8e5
+record: 9b32e7c933b4
 ---
 
 # News, Oct – Nov 2026
@@ -103,6 +103,28 @@ Mozambique's government approved a Public Finance Management Strategy for 2026�
 **[Mozambique’s Digital Plan Has 2030 Targets. Its Approval Date Says “XX”.](https://btw.media/en/mozambique-digital-roadmap-2030-targets-approval-xx)** — BTW Media, 27 October 2026
 
 Mozambique's draft National Digital Transformation Strategy of 22 August 2026 still shows a blank Cabinet approval date, BTW Media reported on 27 October 2026. The ITU had scheduled approval for June 2026 and a launch for October. The draft puts financing needs at US$1.5–2.0bn across six pillars.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Public Infrastructure Blue Book</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo quer abandonar sistemas digitais isolados e apostar em infra-estruturas partilhadas](https://aimnews.org/2026/11/26/governo-quer-abandonar-sistemas-digitais-isolados-e-apostar-em-infra-estruturas-partilhadas/)** — Agência de Informação de Moçambique (AIM), 26 November 2026
+
+eGov Global-facilitated workshop; DPI Blue Book, three use cases, Centre of Excellence; data bill before parliament.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[INTIC destaca importância da infra-estrutura pública digital para a modernização dos serviços e benefício dos cidadãos](https://intic.gov.mz/intic-destaca-importancia-da-infra-estrutura-publica-digital-para-a-modernizacao-dos-servicos-e-beneficio-dos-cidadaos/)** — Instituto Nacional de Tecnologias de Informação e Comunicação (INTIC), 27 November 2026
+
+The head of Mozambique's information technology institute, INTIC, presented the strategic, legal and regulatory instruments for digital public infrastructure on 26 and 27 November 2026 in Maputo. He spoke at a workshop on reimagining the country's digital public infrastructure. The instruments include a proposed National Digital Transformation Strategy.
 
 </div>
 
@@ -537,6 +559,20 @@ The Bank of Mozambique licensed payments aggregator PawaPay as a payment service
 **[Governor Felisberto Navalha delivers opening address at 51st Banco de Moçambique Advisory Board Meeting in Tete](https://www.bancomoc.mz/en/media/highlights/governor-felisberto-navalha-delivers-opening-address-at-51st-banco-de-mocambique-advisory-board-meeting-in-tete/)** — Banco de Moçambique, 28 October 2026
 
 The governor of Banco de Moçambique said on 28 October 2026 that the METIX instant payment system handles about 12,000 transactions a day. It handled about 3,000 a day at its launch in March 2026. He also said a central foreign-exchange platform will operate by December 2026, alongside a digital transformation strategy and an internal AI policy.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Small-business owners using mobile money</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Inquérito FinScope às Micro, Pequenas e Médias Empresas — Moçambique 2025 (Relatório)](https://clubofmozambique.com/wp-content/uploads/2026/11/Portuguese_FinScope_MSME_Mozambique_2025-VF.pdf)** — FSD Moçambique (Financial Sector Deepening Moçambique), Banco de Moçambique and INE, with FinMark Trust, 19 November 2026
+
+5.2m owners, 5.9m firms, 12% formal; 88% financially included, 87% on mobile money, 19% banked; 42% use any technology.
 
 </div>
 
