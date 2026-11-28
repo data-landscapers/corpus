@@ -1,16 +1,17 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "reach": "rules",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-003;DZA-001",
-   "gaps": "No source found dates an act done under the law in the last three years: its council or board appointed or meeting, a standard or calendar issued, a rule made or a penalty.",
-   "note": "Counted from the four questions by study-ladder-statisticslaw.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "4",
+      "standing": "in-force",
+      "reach": "rules",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-003;DZA-001",
+      "gaps": "No source found says the National Statistics Council met, or dates a rule, standard, calendar or penalty under the law, in the last three years. A March 2025 reply says the council set up working committees, one reviewing the 1994 texts; it does not say the council itself met.",
+      "note": "Legislative Decree 94-01 is in force and Executive Decree 95-159 was made under it, so stage 4. The council's working committees of 2025 do not plainly show the council appointed or meeting, so not 5.",
+      "as_at": "2026-11-28"
+    }
+  ]
 }
