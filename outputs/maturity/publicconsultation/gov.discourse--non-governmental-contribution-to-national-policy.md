@@ -305,7 +305,7 @@ A workshop on the data protection bill was held with civil society, reported in 
 
 In 2026 regulators and academic institutions gave views on a draft data governance strategy at a workshop; no source found says whether they were published.
 
-- On 12 March 2026 UNECA, in collaboration with the Government of Tanzania, convened a national validation workshop on the draft Tanzania Electronic Data Governance Strategy in Dodoma, where regulatory authorities, academic institutions and sectoral agencies gave feedback that informed refinements to the strategy, and the Ministry of Communication and Information Technology closed it ([source, 2026-03-12](https://www.uneca.org/stories/the-blueprint-for-a-digital-sovereign-nation-tanzania-validates-its-landmark-electronic-data)).
+- On 12 March 2026 UNECA, in collaboration with the Government of Tanzania, convened a national validation workshop on the draft Tanzania Electronic Data Governance Strategy in Dodoma, where regulatory authorities, academic institutions and sectoral agencies gave feedback that informed refinements to the strategy, and the Ministry of Communication and Information Technology closed it ([source, 2026-03-12](https://web.archive.org/web/20260417192221/https://www.uneca.org/stories/the-blueprint-for-a-digital-sovereign-nation-tanzania-validates-its-landmark-electronic-data)).
 - Minister Jerry Silaa opened a stakeholder forum in Arusha and questionnaires for entrepreneurs and investors on the national startup policy, to expand to major cities, The Citizen reports ([source, 2025-03-15](https://www.thecitizen.co.tz/tanzania/news/national/government-kicks-off-consultations-for-tanzania-s-first-startup-policy-4966048)).
 
 ### Togo: 2 Nascent
