@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-26-mar-data-centers-leldorado-sous-conditions",
+ "facts": [
+  {
+   "sub_indicator": "power",
+   "aspect": "supply",
+   "value": "reserved",
+   "fact": "Challenge.ma says TAQA Morocco signed a power purchase agreement for renewable supply to the Nouaceur data centre project in June 2025, before the project launched.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "TAQA Morocco PPA for Nouaceur data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nouaceur data centre",
+   "country_label": "Nouaceur data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Nexus Core Systems",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -139,7 +139,7 @@ Power cuts and diesel shortages disrupted data centres in October 2026; the sola
 
 A data centre stated a PUE of 1.5 in 2024; how any data centre gets its power is not known, so no stage is set.
 
-Not established: No source found says a data centre in service has two grid feeds, its own substation or line, or its own power plant, and none from the past three years says one went short of power or water.
+Not established: No source found says a data centre in service has two grid feeds, its own substation or line, or its own power plant. TAQA Morocco's power purchase agreement of June 2025 is for the Nouaceur project, signed before it launched, so it supplies no data centre in service.
 
 ### Botswana: No evidence
 

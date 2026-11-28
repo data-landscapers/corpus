@@ -4,15 +4,15 @@
     {
       "sub_indicator": "power",
       "stage": "unplaced",
-      "supply": "",
+      "supply": "reserved",
       "pue": "",
       "water": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "No source found says a data centre in service has two grid feeds, its own substation or line, or its own power plant, and none from the past three years says one went short of power or water.",
-      "note": "Counted from the four questions by study-ladder-datacentrepower.py.",
-      "as_at": "2026-10-28"
+      "gaps": "No source found says a data centre in service has two grid feeds, its own substation or line, or its own power plant. TAQA Morocco's power purchase agreement of June 2025 is for the Nouaceur project, signed before it launched, so it supplies no data centre in service.",
+      "note": "The June 2025 agreement sets power aside for a data-centre project, which answers question 2, but question 1 needs a data centre in service on a secured supply. Each question needs the one before, so the cell stays unplaced.",
+      "as_at": "2026-11-28"
     }
   ]
 }
