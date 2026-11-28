@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-26-mar-data-centers-leldorado-sous-conditions",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Challenge.ma reports a 1.2 billion dollar Nouaceur data centre project carried by Nexus Core Systems with NVIDIA GPUs, financing backed by Lloyds Capital, a first phase of 16 MW and 500 MW targeted.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "Nouaceur data centre (Nexus Core Systems)",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -145,6 +145,7 @@ GHA,UAE-Ghana AI and tech hub,Ghana,localai,,,,2025-08-13-iss-ghana-digital-revo
 GHA,Moremi Bio,Ghana,localai,,MinoHealth AI Labs,,2026-11-16-gha-restofworld-minohealth-ai-bioweapons-dna-synthesis
 GHA,National AI Centre,Ghana,localai,,Government of Ghana (Ministry of Finance budget),,2026-11-13-gha-ghana-s-250m-ai-centre-to-focus-on-practical-applications-not-rival-us
 GHA,AI computing center,Ghana,localai,,Government of Ghana,,2026-04-28-gha-ghanafact-national-ai-strategy-key-points
+GHA,ghana-speech,Ghana,localai,Hugging Face,Ghana NLP,,2026-08-19-gha-introducing-ghana-speech-2-247-hours-of-speech-data-for-42-ghanaian-la
 GIN,projet de supercalculateur,Guinea,localai,,Cite des sciences et de l'innovation de Guinee,,2025-05-01-gin-lelynx-dounia-supercalculateur-ia
 GIN,Nma Xui,Guinée,localai,,,,2024-03-16-gin-le360-nma-xui-ia-langues-locales
 GIN,224 N'Lambé API,Guinea,localai,translation API,224 N'Lambé,,2026-09-10-gin-224-n-lambe-api-l-infrastructure-linguistique-pour-les-technologies-gu
@@ -237,6 +238,7 @@ MWI,MlimiVoice Malawi,Malawi,localai,,AGRA,,2026-08-14-gates-foundation-xaf-2026
 MWI,Bris AI weather prediction model (forecast-in-a-box),Malawi,localai,forecast-in-a-box at DCCMS,"MET Norway with DCCMS, implemented via WMO",,2025-07-01-mwi-crews-ai-ew4all-pilot-note
 MWI,CTN Micro Data Centre (MDC),Malawi,localai,"NVIDIA A100 GPUs, GPU-as-a-Service; link to Africa GPU Hub",Converged Technology Networks (CTN),,2026-02-18-mwi-malawi-plans-to-launch-micro-data-centre
 MWI,Malawi Voice Data Commons,Malawi Voice Data Commons (MVDC),localai,Whisper fine-tuned on Chichewa; local servers; NYU Greene HPC for off-peak analysis,"NYU and Mozilla, moving to Malawian universities by 2027",,2026-01-22-mwi-introducing-the-malawi-voice-data-commons
+MWI,Chichewa language data trust,Malawi,localai,"World Bank infrastructure, to move to MAREN open-source stack","World Bank, then MAREN",,2026-01-01-mwi-operationalizing-the-world-s-first-national-language-data-trust
 NAM,National Artificial Intelligence Institute,Namibia,localai,,NCRST,,2026-09-27-nam-namibian-national-ai-institute-launched
 NAM,ATLAS Umoja AI,Namibia,localai,,GSMA and five governments,,2026-07-31-gsma-atlas-umoja-ai-launch
 NAM,National Artificial Intelligence Institute,Namibia,localai,,NCRST,national,2026-09-25-nam-neweralive-ncrst-ai-institute-opens
