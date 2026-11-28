@@ -1,17 +1,18 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "3",
-   "standing": "adopted",
-   "review": "",
-   "evaluation": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-001",
-   "gaps": "No source found dates a review of progress on the strategy in the last three years.",
-   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "2",
+      "standing": "preparing",
+      "review": "",
+      "evaluation": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-003",
+      "gaps": "No adopted strategy is shown current: PARIS21's January 2026 table lists the 2015-2025 strategy, now ended (DZA-002), and no source shows the 2024-2028 strategy the ONS head named adopted (DZA-001). No review of progress is found.",
+      "note": "Reassessed 2026-11-28: the Prime Minister's written reply of March 2025 says the National Statistics Council is still drawing up the national statistics strategy (DZA-003), and the 2015-2025 strategy has ended, so stage 2.",
+      "as_at": "2026-11-28"
+    }
+  ]
 }

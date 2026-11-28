@@ -22,8 +22,8 @@ The African Charter on Statistics (2009) and the Strategy for the Harmonisation 
 |---|---|
 | 5 Mature | 2 |
 | 4 Operating | 3 |
-| 3 Established | 30 |
-| 2 Nascent | 11 |
+| 3 Established | 29 |
+| 2 Nascent | 12 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
 | No evidence | 2 |
@@ -69,12 +69,6 @@ Progress on the TSMP II 2022/23-2026/27 was reviewed in 2026; no completed evalu
 
 - The fourth meeting of the TSMP II Steering Committee, chaired by the Ministry of Finance Permanent Secretary, met on 15 July 2026 and reviewed implementation for 2025/26, reporting 88.9% implementation since 2022/23, and approved the 2026/27 work plan and budget ([source, 2026-07-15](https://www.nbs.go.tz/index.php/events/kamati-ya-uongozi-mof-yapitia-utekelezaji-mradi-wa-tsmp-ii-kupitisha-bajeti-mwaka-wa-fedha-2026-2027)).
 - The document states the Tanzania Statistical Master Plan Phase Two (TSMP II) has been under implementation since 2022/23 and will end in June 2027; it is dated to the document's publication date as it states the plan in force ([source, 2026-07-15](https://www.nbs.go.tz/index.php/events/kamati-ya-uongozi-mof-yapitia-utekelezaji-mradi-wa-tsmp-ii-kupitisha-bajeti-mwaka-wa-fedha-2026-2027)).
-
-### Algeria: 3 Established
-
-The National statistics strategy 2024-2028 is current; no review of its progress since 2023 is known.
-
-- The ONS Director General recalled the national statistics strategy 2024-2028, stated as existing and resting on technological infrastructure, statistics training and wider cooperation, at a Finance Ministry information day held on Tuesday 19 November 2024 ([source, 2024-11-19](http://news.radioalgerie.dz/fr/node/55477)).
 
 ### Botswana: 3 Established
 
@@ -275,6 +269,12 @@ The NSDS 2023-2027 is current; no review of its progress since 2023 is known.
 The NSDS IV is current; no review of its progress since 2023 is known.
 
 - The DFDI Technical Working Group meeting in Harare is described as held amid the implementation of NSDS IV; no period or adoption date is given, so the article's published date is used ([source, 2025-12-05](https://www.newsday.co.zw/local-news/article/200049318/zimstat-un-team-up-to-boost-data-driven-development)).
+
+### Algeria: 2 Nascent
+
+Algeria was still drawing up its national statistics strategy in 2025, after the 2015-2025 one; whether a new one is adopted is not known.
+
+- El Mouid reports the Prime Minister's written reply saying the National Statistics Council is drawing up the national statistics strategy through special working committees ([source, 2025-03-29](https://elmaouid.dz/%D8%A7%D9%84%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AA%D8%B7/)).
 
 ### Angola: 2 Nascent
 
