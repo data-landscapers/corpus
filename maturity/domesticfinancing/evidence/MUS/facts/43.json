@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-05-mus-estimates-2025-26-mitci-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the 59 digital line(s) also held for 2026/27 total 2,465,710,000 MUR for 2025/26. Dated by the budget document.",
+   "as_of": "2025-06-05",
+   "date_precision": "day",
+   "system": "State budget, 2025/26",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

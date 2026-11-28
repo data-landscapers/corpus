@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-01-mwi-approved-detailed-estimates-2025-26-vol-3-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the 131 digital line(s) also held for 2026/27 total 67,220,261,503 MWK for 2025/26. Dated by the budget document.",
+   "as_of": "2025-06-01",
+   "date_precision": "day",
+   "system": "State budget, 2025/26",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

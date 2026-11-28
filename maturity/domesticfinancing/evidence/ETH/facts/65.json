@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-03-eth-federal-budget-proclamation-efy2018-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the 73 digital line(s) also held for 2019 Budget Year total 14,643,622,841 ETB for 2018 Budget Year. Dated by the budget document.",
+   "as_of": "2025-07-03",
+   "date_precision": "day",
+   "system": "State budget, 2018 Budget Year",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

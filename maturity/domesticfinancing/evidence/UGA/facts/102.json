@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-24-uga-approved-estimates-2025-26-vol-1-central-government-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the 113 digital line(s) also held for 2026/27 total 861,988,880,000 UGX for 2025/26. Dated by the budget document.",
+   "as_of": "2025-07-24",
+   "date_precision": "day",
+   "system": "State budget, 2025/26",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

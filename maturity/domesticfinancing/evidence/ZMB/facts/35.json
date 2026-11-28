@@ -10,6 +10,16 @@
    "date_precision": "day",
    "system": "State budget, 2025",
    "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the 44 digital line(s) also held for 2026 total 1,594,453,467 ZMW for 2025. Dated by the budget document.",
+   "as_of": "2025-01-16",
+   "date_precision": "day",
+   "system": "State budget, 2025",
+   "class": "financing"
   }
  ],
  "systems": [],

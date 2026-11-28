@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-28-cod-lfr-2025-n25-044-vol2-depenses-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the 72 digital line(s) also held for Exercice 2026 total 432,043,491,504 CDF for Exercice 2025. Dated by the budget document.",
+   "as_of": "2025-06-28",
+   "date_precision": "day",
+   "system": "State budget, Exercice 2025",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

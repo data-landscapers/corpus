@@ -10,6 +10,16 @@
    "date_precision": "day",
    "system": "State budget, gestion 2025",
    "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the 18 digital line(s) also held for gestion 2026 total 8,333,855,351 XOF for gestion 2025. Dated by the budget document.",
+   "as_of": "2025-01-16",
+   "date_precision": "day",
+   "system": "State budget, gestion 2025",
+   "class": "financing"
   }
  ],
  "systems": [],

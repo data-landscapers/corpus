@@ -10,6 +10,16 @@
    "date_precision": "day",
    "system": "State budget, FY2025",
    "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the 40 digital line(s) also held for FY2026 total 684,090,124 SLE for FY2025. Dated by the budget document.",
+   "as_of": "2024-11-01",
+   "date_precision": "day",
+   "system": "State budget, FY2025",
+   "class": "financing"
   }
  ],
  "systems": [],

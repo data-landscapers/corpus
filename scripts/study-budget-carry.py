@@ -13,7 +13,8 @@ questions are answered for most countries with no document opened:
 - `budget` = `allocated`: the latest budget year with an amount against a digital line;
 - `budget` = `rose` or `fell`: the lines held in both of the last two budget years, added
   up and compared, in the country's own currency. Flat is `fell`: question 2 asks for
-  higher. A country with no line in both years gets neither;
+  higher. A country with no line in both years gets neither. The older year's total is a
+  fact of its own, `allocated`, under the document it was read from;
 - `budget` = `spent`: the latest budget year with an amount actually spent or audited, **read
   only from a document dated after that year ended** (an outturn, audit or execution report, or
   a later year's estimates giving it as a past year). An estimates volume or finance law prints
@@ -103,6 +104,7 @@ def facts(rows: list[dict], held: set[str], start_month: int = 1) -> dict[str, l
         if amount:
             given[r["fy"]][key(r)] = given[r["fy"]].get(key(r), 0) + amount
             source[("given", r["fy"])][r["source_slug"]] += amount
+            source[("line", r["fy"], key(r))][r["source_slug"]] += amount
         out = num(r["audited"]) or num(r["actual"])
         if out and r["source_slug"][:10] >= year_closed(r["fy"], start_month):
             spent[r["fy"]] += out
@@ -110,8 +112,8 @@ def facts(rows: list[dict], held: set[str], start_month: int = 1) -> dict[str, l
     order = lambda fy: (int(YEAR.search(fy).group()), fy)  # noqa: E731
     out: dict[str, list[dict]] = collections.defaultdict(list)
 
-    def add(kind: str, fy: str, value: str, text: str) -> None:
-        slug = source[(kind, fy)].most_common(1)[0][0]
+    def add(kind: str, fy: str, value: str, text: str, slug: str = "") -> None:
+        slug = slug or source[(kind, fy)].most_common(1)[0][0]
         system = f"State budget outturn, {fy}" if kind == "spent" else f"State budget, {fy}"
         out[slug].append({"sub_indicator": SUB, "aspect": "budget", "value": value, "fact": text,
                           "as_of": slug[:10], "date_precision": "day",
@@ -127,12 +129,25 @@ def facts(rows: list[dict], held: set[str], start_month: int = 1) -> dict[str, l
         a, b = years[-2], years[-1]
         both = set(given[a]) & set(given[b])
         if both:
+            # **Each year's total is filed under the document it was read from** (housekeeping 97):
+            # the comparison under the newer budget, the older year's total under its own, so a
+            # writer linking the fact cannot put last year's figure on this year's document.
             was, now = sum(given[a][k] for k in both), sum(given[b][k] for k in both)
+            def lines_src(fy):
+                c = collections.Counter()
+                for k in both:
+                    c.update(source[("line", fy, k)])
+                return c.most_common(1)[0][0]
+            newer, older = lines_src(b), lines_src(a)
             add("given", b, "rose" if now > was else "fell",
-                f"Budget tables: the {len(both)} digital line(s) held in both years total "
-                f"{now:,.0f} {cur} for {b} against {was:,.0f} for {a}"
+                f"Budget tables: the {len(both)} digital line(s) held in both {a} and {b} total "
+                f"{now:,.0f} {cur} for {b}, {'higher' if now > was else 'no higher'} than the same "
+                f"lines for {a}"
                 + (f", {100 * (now - was) / was:+.1f} per cent" if was else "")
-                + f"; {len(given[b])} lines are held for {b}. Dated by the budget document.")
+                + f"; {len(given[b])} lines are held for {b}. Dated by the budget document.", newer)
+            add("given", a, "allocated",
+                f"Budget tables: the {len(both)} digital line(s) also held for {b} total "
+                f"{was:,.0f} {cur} for {a}. Dated by the budget document.", older)
     if spent:
         fy = sorted(spent, key=order)[-1]
         add("spent", fy, "spent",
