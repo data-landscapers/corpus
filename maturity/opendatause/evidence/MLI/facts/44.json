@@ -10,6 +10,16 @@
    "date_precision": "day",
    "system": "Mali national open data portal (mali.opendataforafrica.org) and INSTAT microdata catalogue (microdata.instat.ml)",
    "class": "open"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "breadth",
+   "value": "several",
+   "fact": "FAO names two public bodies publishing the 2023-24 agricultural survey results on Mali's national open data portal and INSTAT's microdata catalogue: the statistics institute INSTAT and the rural development sector's planning unit CPS/SDR.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Mali national open data portal (mali.opendataforafrica.org) and INSTAT microdata catalogue (microdata.instat.ml)",
+   "class": "open"
   }
  ],
  "systems": [],

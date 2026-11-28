@@ -21,8 +21,8 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 | Stage | Countries |
 |---|---|
 | 5 Mature | 4 |
-| 4 Operating | 7 |
-| 3 Established | 6 |
+| 4 Operating | 8 |
+| 3 Established | 5 |
 | 2 Nascent | 31 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
@@ -100,6 +100,13 @@ The National Assembly published open-licensed data in 2026 and the finance minis
 - The Assemblée nationale de Madagascar publishes five parliamentary datasets (deputies, legislative texts, sittings, commissions, parliamentary groups) as JSON and CSV on its open data page and read-only REST API; the page was captured 2026-08-09 and carries no date of its own ([source, 2026-08-09](https://parlement.mg/opendata/)).
 - UNDP says Madagascar's Ministry of Economy and Finance officially launched PortES, a socio-economic data portal with six components, giving data access to all development actors ([source, 2025-02-04](https://www.undp.org/fr/madagascar/actualites/portes-transparence-des-donnees-et-informations-socioeconomiques-madagascar)).
 
+### Mali: 4 Operating
+
+Government data is published under INSTAT's open licence, and INSTAT and CPS/SDR publish on the national portal; four or more bodies are not on record.
+
+- INSTAT's open data licence agreement grants a free, worldwide, non-exclusive licence to use, copy, modify, distribute and build derived products from its datasets, tables, indicators and dashboards, for commercial and non-commercial use, with source attribution; the document carries no date of its own and 2026-08-04 is its published date ([source, 2026-08-04](https://www.instat-mali.org/laravel-filemanager/files/shares/doc/conditions-utilisation-donnees-ouvertes_doc.pdf)).
+- FAO names two public bodies publishing the 2023-24 agricultural survey results on Mali's national open data portal and INSTAT's microdata catalogue: the statistics institute INSTAT and the rural development sector's planning unit CPS/SDR ([source, 2026-11-03](https://www.fao.org/in-action/agrisurvey/news/news-detail/mali-releases-2023-24-agricultural-data-under-the-50x2030-initiative/en)).
+
 ### Senegal: 4 Operating
 
 The statistics agency put its data under an open licence by 2026 and two bodies publish geodata; whether four or more do is not known.
@@ -131,12 +138,6 @@ The procurement authority published open-licensed data in 2026 and the statistic
 Government data was published under an open licence on the Plateforme de Données Ouvertes (INSBU) in 2025; several publishing bodies are not on record.
 
 - INSBU's Accord de Licence Ouverte grants a free, worldwide, non-exclusive licence to use, copy, modify, distribute and build derivative products from the platform's data, commercially or not, with attribution; dated by the proxy capture date 2025-06-10 ([source, 2025-06-10](https://www.insbu.bi/useragreement)).
-
-### Mali: 3 Established
-
-Government data was published under an open licence on the INSTAT open data licence agreement in 2026; several publishing bodies are not on record.
-
-- INSTAT's open data licence agreement grants a free, worldwide, non-exclusive licence to use, copy, modify, distribute and build derived products from its datasets, tables, indicators and dashboards, for commercial and non-commercial use, with source attribution; the document carries no date of its own and 2026-08-04 is its published date ([source, 2026-08-04](https://www.instat-mali.org/laravel-filemanager/files/shares/doc/conditions-utilisation-donnees-ouvertes_doc.pdf)).
 
 ### Mozambique: 3 Established
 

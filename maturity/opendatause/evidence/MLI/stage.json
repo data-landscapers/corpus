@@ -1,16 +1,17 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "access": "licensed",
-   "breadth": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-002",
-   "gaps": "No source found since October 2023 names two or more public bodies publishing data.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "4",
+      "access": "licensed",
+      "breadth": "several",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-002;MLI-006",
+      "gaps": "No source from the last two years names four or more public bodies publishing.",
+      "note": "Reassessed 2026-11-28, 3 to 4: INSTAT licenses its data openly (MLI-002), and FAO names INSTAT and CPS/SDR publishing on the national portal in November 2026 (MLI-006). Four or more bodies are not on record.",
+      "as_at": "2026-11-28"
+    }
+  ]
 }
