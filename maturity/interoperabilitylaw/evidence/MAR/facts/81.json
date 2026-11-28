@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-26-mar-protection-sociale-la-cmr-et-trois-mutuelles-sallient-pour-simplifier-les-d",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article says the CMR and mutual insurers' data exchanges will be governed by Law No. 55-19 on the simplification of administrative procedures and formalities.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "Law No. 55-19",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "The source does not say the law requires bodies to share data."
+}
