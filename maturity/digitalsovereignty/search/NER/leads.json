@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://ansi.ne/?p=1698",
+  "title": "Visite technique du chantier du Datacenter National",
+  "publisher": "ANSI",
+  "published": "2026-10-29",
+  "sub_indicator": "sovereignty",
+  "why": "Q2/Q4: national data centre under construction to host state data"
+ },
+ {
+  "url": "https://fr.apanews.net/news/niger-digitalisation-et-datacenter-les-priorites-du-ministre-du-numerique/",
+  "title": "Niger : Digitalisation et Datacenter, les priorités du Numérique",
+  "publisher": "APAnews",
+  "published": "2025-02-27",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: minister announces national data centre"
+ },
+ {
+  "url": "https://lobservateur.info/article/117559/afrique/numeriquele-niger-veut-devenir-un-hub-sous-regional",
+  "title": "Numérique. Le Niger veut devenir un hub sous-régional",
+  "publisher": "L'Observateur",
+  "published": "2026-03-16",
+  "sub_indicator": "sovereignty",
+  "why": "Q2: PNDN 2026-2035 and national data centre"
+ },
+ {
+  "url": "https://www.f2in.ne/wp-content/uploads/fiches-sectorielles/F2IN-2026-fiche-S08-numerique.pdf",
+  "title": "F2IN 2026 fiche sectorielle numérique",
+  "publisher": "F2IN",
+  "published": "2026",
+  "sub_indicator": "sovereignty",
+  "why": "Q2/Q4: ANSI refounded 8 June 2026 to run state datacenter"
+ }
+]

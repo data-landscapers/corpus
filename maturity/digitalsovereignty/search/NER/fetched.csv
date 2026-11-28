@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ansi.ne/?p=1698,held,held as raw/2026/2026-10-29-ner-visite-technique-du-chantier-du-datacenter-national.md,,0,,
+2,https://fr.apanews.net/news/niger-digitalisation-et-datacenter-les-priorites-du-ministre-du-numerique/,fetched,,scripts/.workroot/study/digitalsovereignty/cache/NER/2.txt,456,html,"Niger : Digitalisation et Datacenter, les priorités du Numérique"
+3,https://lobservateur.info/article/117559/afrique/numeriquele-niger-veut-devenir-un-hub-sous-regional,fetched,,scripts/.workroot/study/digitalsovereignty/cache/NER/3.txt,677,html,Numérique. Le Niger veut devenir un hub sous-régional
+4,https://www.f2in.ne/wp-content/uploads/fiches-sectorielles/F2IN-2026-fiche-S08-numerique.pdf,unfetchable,ConnectTimeout; no usable Wayback capture,,0,,

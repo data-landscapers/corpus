@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.ict.go.ke/sites/default/files/2026-07/Final%20%20Kenya%20Cloud%20Policy%202025%20Implementation%20Guidelines.pdf",
+  "title": "Kenya Cloud Policy (2025) Implementation Guidelines",
+  "publisher": "Ministry of Information, Communications and the Digital Economy",
+  "published": "2026-06",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: classification and in-country hosting of state data"
+ },
+ {
+  "url": "https://www.odpc.go.ke/wp-content/uploads/2026/04/Guidance-Note-on-Cross-border-Data-Transfers.pdf",
+  "title": "Guidance Note on Cross Border Data Transfer",
+  "publisher": "Office of the Data Protection Commissioner",
+  "published": "2026-04",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: localisation for strategic state interests"
+ },
+ {
+  "url": "https://new.kenyalaw.org/akn/ke/act/ln/2021/263",
+  "title": "The Data Protection (General) Regulations, Legal Notice 263 of 2021",
+  "publisher": "Kenya Law",
+  "published": "2022-01-14",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: reg 26 in-country processing for state systems"
+ },
+ {
+  "url": "https://www.businessdailyafrica.com/bd/corporate/technology/search-for-firm-to-host-sensitive-state-data-on-cloud-begins-5549208",
+  "title": "Search for firm to host sensitive State data on cloud begins",
+  "publisher": "Business Daily",
+  "published": "2026-08-06",
+  "sub_indicator": "sovereignty",
+  "why": "Q4/Q5: government cloud hosting procurement, cancelled G42 project"
+ },
+ {
+  "url": "https://konza.go.ke/wp-content/uploads/2026/04/Updated-ADDENDUM-III-TRANSACTION-ADVISORY-SERVICES_260413_055629.pdf",
+  "title": "Addendum 3: RFP Transaction Advisory Services for the Konza Cloud Expansion",
+  "publisher": "The National Treasury",
+  "published": "2026-04-13",
+  "sub_indicator": "sovereignty",
+  "why": "Q4: Konza sovereign cloud, government data hosted in Kenya"
+ }
+]

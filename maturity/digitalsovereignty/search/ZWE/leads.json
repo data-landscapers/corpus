@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.heraldonline.co.zw/government-to-expand-national-data-centre/",
+  "title": "Government to expand National Data Centre",
+  "publisher": "The Herald",
+  "published": "2025-08-11",
+  "sub_indicator": "sovereignty",
+  "why": "Q4: national data centre expansion, local data hosting"
+ },
+ {
+  "url": "https://technomag.co.zw/new-ai-strategy-mandates-local-storage-for-national-data/",
+  "title": "New AI Strategy Mandates Local Storage for National Data",
+  "publisher": "TechnoMag",
+  "published": "2026-03-16",
+  "sub_indicator": "sovereignty",
+  "why": "Q2/Q3: AI strategy sovereign national cloud, local storage"
+ },
+ {
+  "url": "https://veritaszim.net/sites/veritas_d/files/Cyber%20and%20Data%20Protection%20Act%20Implementation%20Guidlines.pdf",
+  "title": "Cyber and Data Protection Act Implementation Guidelines (cross-border transfer)",
+  "publisher": "POTRAZ",
+  "published": "",
+  "sub_indicator": "sovereignty",
+  "why": "Q3: sensitive information must be hosted locally"
+ },
+ {
+  "url": "https://www.heraldonline.co.zw/digital-borders-why-data-localisation-is-zimbabwes-new-national-security-battle/",
+  "title": "Digital borders: Why data localisation is Zimbabwe's new national security battle",
+  "publisher": "The Herald",
+  "published": "2025-10-03",
+  "sub_indicator": "sovereignty",
+  "why": "Q2/Q3: data localisation"
+ }
+]

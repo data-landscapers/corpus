@@ -1,12 +1,12 @@
 study,key,indicator_id,last_reviewed,minutes,tokens,staged,agreement,rulings
 accesstoinformationlaw,law,gov.legislate--access-to-information-legislation,2026-11-22,11,60,194,60,3
 addressregister,address,dpi.registry--address-register,2026-11-22,11,60,122,95,0
-admindata,admin,data.statistics--statistics-from-administrative-data,2026-11-27,31,84,74,80,0
-agrisatellite,agrisat,data.geospatial--agricultural-use-of-satellite-data,2026-11-23,15,69,168,85,0
+admindata,admin,data.statistics--statistics-from-administrative-data,2026-11-27,31,84,74,45,0
+agrisatellite,agrisat,data.geospatial--agricultural-use-of-satellite-data,2026-11-23,15,69,168,75,6
 aiabuse,aiharm,tech.ai--control-of-ai-abuse,2026-11-24,18,53.1,101,100,0
 aigovernment,govai,tech.ai--use-of-ai-in-government-administration,2026-11-24,18,53.1,80,90,0
-ailaw,law,gov.legislate--ai-legislation-regulations,2026-11-25,10,32,28,95,0
-aisectoral,sectorai,tech.ai--use-of-ai-in-sectoral-management-information-systems,2026-11-25,10,33,65,60,0
+ailaw,law,gov.legislate--ai-legislation-regulations,2026-11-25,10,32,28,95,3
+aisectoral,sectorai,tech.ai--use-of-ai-in-sectoral-management-information-systems,2026-11-25,10,33,65,80,26
 aistrategy,strategy,gov.policy--ai-strategy,2026-11-26,12,35,56,80,5
 aisystems,localai,tech.ai--development-of-national-regional-ai-systems,2026-11-26,12,35,80,90,0
 authentication,authentication,dpi.id--authentication,2026-10-22,20,4.7,180,75,0
@@ -37,7 +37,7 @@ datatransfers,rule,gov.regional--cross-border-data-transfers,2026-10-30,12,55.0,
 digitaldivides,ruralaccess,include.divides--bridging-of-digital-divides,2026-10-30,12,55.0,152,,0
 digitalidlaw,law,gov.legislate--legislation-covering-digital-id,2026-10-31,46,47.4,76,85,0
 digitalskills,publicskills,capacity.literacy--digital-literacy-general-population,2026-10-31,46,47.4,119,60,0
-digitalsovereignty,sovereignty,geopol.sovereignty--digital-sovereignty,2026-10-31,46,47.4,50,50,0
+digitalsovereignty,sovereignty,geopol.sovereignty--digital-sovereignty,2026-11-28,10,32,52,100,0
 digitalstrategy,national,gov.policy--digital-transformation-strategy,2026-11-01,14,52.6,90,90,0
 disabilityaccess,accessibility,include.access--inclusion-of-persons-with-disabilities,2026-11-01,14,52.6,110,,1
 domesticfinancing,financing,finance.budget--sustainable-domestic-financing-of-digital-transformation,2026-11-01,14,52.6,79,100,0
@@ -72,7 +72,7 @@ internetusage,use,infra.connect--internet-usage,2026-11-09,16,67,34,100,0
 interoperability,framework,gov.policy--data-interoperability-framework-roadmap,2026-11-10,31,101,57,90,0
 interoperabilitylaw,law,gov.legislate--legislation-enabling-data-interoperability,2026-11-10,31,101,50,100,0
 interoperabilitystandards,standards,gov.standards--national-interoperability-standards,2026-11-10,31,101,15,94,0
-itcapacity,inhouse,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,2026-11-27,26,77,134,100,0
+itcapacity,inhouse,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,2026-11-27,26,77,134,90,0
 justice,justice,dpi.mis--justice,2026-11-11,16,75,210,,0
 landadmin,landmis,dpi.mis--land,2026-11-11,16,75,211,,0
 landregister,land,dpi.registry--land-register,2026-11-11,13,42.2,189,75,0
@@ -97,7 +97,7 @@ qualitystandards,standards,gov.standards--national-quality-standards,2026-11-13,
 refugees,displaced,include.access--inclusion-of-refugees-and-idps,2026-11-13,40,95,171,,10
 regionalinfrastructure,shared,gov.regional--shared-regional-infrastructure,2026-11-08,18,66.6,118,45,0
 regionallaw,harmonisation,gov.regional--regional-legal-harmonisation,2026-11-13,45,90,67,90,0
-regionalpolicy,cooperation,gov.regional--regional-policy-collaboration,2026-11-13,95,110,202,45,1
+regionalpolicy,cooperation,gov.regional--regional-policy-collaboration,2026-11-28,10,32,81,100,0
 registry,civil,digital.rural--digitalisation-of-rural-registry-offices,2026-11-13,110,75,76,85,0
 retailpayments,retail,dpi.pay--p2p-p2g-and-p2b-functionality,2026-11-13,120,60,176,85,0
 revenuecollection,revenue,dpi.pay--revenue-collection,2026-11-13,100,60,184,80,2
