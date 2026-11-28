@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-25-dza-lanpdp-salue-linitiative-de-lopgi-de-chlef-sollicitant-une-autorisatio",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Algeria's ANPDP, the national personal data protection authority, was acting on 25 November 2026, issuing a communiqué on a prior-authorisation request for a transfer of personal data abroad.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "ANPDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": "No law is named or described."
+}
