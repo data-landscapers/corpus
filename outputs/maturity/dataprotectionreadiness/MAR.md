@@ -2,7 +2,7 @@
 
 ## Data protection system
 
-**Law in force.** The president of the CNDP was interviewed on 4 August 2026. The president [speaks of Law 09-08](<https://fnh.ma/article/actualite-economique/protection-donnes-confiance-moteur-economique-numerique>) as in force for more than fifteen years, with its paradigms still applicable.
+**Law in force.** The president of the CNDP was interviewed on 4 August 2026. The president [speaks of Law 09-08](<https://fnh.ma/article/actualite-economique/protection-donnes-confiance-moteur-economique-numerique>) as in force for more than fifteen years, with its paradigms still applicable. In November 2026 [Challenge.ma reported that its reform had still not been adopted](<https://www.challenge.ma/data-centers-leldorado-sous-conditions-327173/>).
 
 **Malabo Convention.** The [African Union status list](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) of 2 February 2026 records no signature of the Malabo Convention by Morocco. It records no ratification either.
 

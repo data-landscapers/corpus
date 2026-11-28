@@ -2,7 +2,7 @@
 
 ## Data protection system
 
-**Law in force.** The [Data Protection Act, 2012 (Act 843)](<https://gna.org.gh/2026/10/dpc-begins-checks-on-data-protection-compliance/>) is the law the Data Protection Commission enforces in 2026. A [Circuit Court in Accra applied it](<https://superlawgh.com/judgements/justice-noah-adade-vrs-bolt-ghana-limited/>) in a judgment of 18 September 2024.
+**Law in force.** The [Data Protection Act, 2012 (Act 843)](<https://gna.org.gh/2026/10/dpc-begins-checks-on-data-protection-compliance/>) is the law the Data Protection Commission enforces in 2026. A [Circuit Court in Accra applied it](<https://superlawgh.com/judgements/justice-noah-adade-vrs-bolt-ghana-limited/>) in a judgment of 18 September 2024. On 26 November 2026 the Communications Minister said [the Act, in place for eight years, is to be reviewed](<https://www.myjoyonline.com/government-moves-to-review-data-protection-act/>).
 
 **Malabo Convention.** The [African Union status list of 2 February 2026](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) records that Ghana ratified the Malabo Convention on 13 May 2019. It deposited its instrument on 3 June 2019.
 

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-27-gha-government-moves-to-review-data-protection-act",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Communications Minister Samuel Nartey George said on 26 November 2026 that Ghana's Data Protection Act, in existence for eight years, is to be reviewed.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, was acting as the supervisory body on 26 November 2026, setting 2027 enforcement targets.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

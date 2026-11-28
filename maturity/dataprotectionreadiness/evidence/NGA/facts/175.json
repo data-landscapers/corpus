@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-27-nga-nigeria-strengthens-public-sector-data-governance-with-meta-partnershi",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Nigeria Data Protection Commission is led by national commissioner and chief executive Vincent Olatunji, who opened its public-sector training on 27 October 2026.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The NDPC ran a three-day compliance training for about 380 public officers, including 80 data protection officers, covering records of processing, lawful bases, breach detection and incident management, and plans further sessions.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "NDPC Initiatives for Data Protection",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
