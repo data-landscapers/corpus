@@ -6,14 +6,14 @@
       "stage": "2",
       "foundation": "body",
       "response": "",
-      "cii": "",
+      "cii": "designated",
       "figures": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-002",
-      "gaps": "No source found says the national body handled an incident or issued a public alert since October 2023. The bill creating a national cybersecurity authority and naming critical information infrastructure, adopted on 20 August 2026, is not stated promulgated.",
-      "note": "Rebuild: SEN-005 and SEN-006 removed as SEN-003 and SEN-004 were, the bill not being stated promulgated, so it creates and designates nothing yet. DCSSI is a national body and no response by it has been found.",
-      "as_at": "2026-10-27"
+      "stage_sources": "SEN-002;SEN-009",
+      "gaps": "No source found says the national body handled an incident or issued a public alert since October 2023.",
+      "note": "Fact 2026-11-28: Law 2026-20, published in the Journal officiel in November 2026, sets up a National Cybersecurity Authority and binds critical infrastructure operators to report incidents within 24 hours (SEN-009, SEN-010). No response by a national body is found, so 2.",
+      "as_at": "2026-11-28"
     }
   ]
 }

@@ -340,9 +340,10 @@ The country had a cybersecurity strategy by 2025; no incident response by a nati
 
 ### Senegal: 2 Nascent
 
-The country had a national cyber body by 2026; no incident response by a national body is known since 2023.
+A 2026 law set up a national cybersecurity authority and binds critical operators to report incidents; no incident response by a national body is known.
 
 - The Direction générale du chiffre et de la sécurité des systèmes d'information (DCSSI) is stated to co-organise the second cybersecurity providers forum and to set the course and norms for cybersecurity ([source, 2026-10-07](https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/)).
+- OSIRIS, citing Vie publique, reports Law No. 2026-20 on digital security, published in the Journal officiel, sets up a National Cybersecurity Authority ([source, 2026-11-27](https://www.osiris.sn/cybersecurite-publication-de-la-loi-no-2026-20-sur-la-securite-numerique.html)).
 
 ### Seychelles: 2 Nascent
 
