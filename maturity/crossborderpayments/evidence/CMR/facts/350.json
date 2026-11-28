@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-27-cmr-finance-numerique-un-moteur-pour-linclusion-financiere",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Cameroon Tribune reports that electronic payment systems for international trade such as PAPSS 'ont été mis en place' in Cameroon, as the finance ministry opened the Safinum 2026 salon.",
+   "as_of": "2026-11-27",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "PAPSS",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

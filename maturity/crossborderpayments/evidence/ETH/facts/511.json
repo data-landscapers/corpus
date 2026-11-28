@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-27-eth-ethswitch-chief-urges-africa-to-phase-out-bilateral-payment-connection",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Birr Metrics reports the National Bank of Ethiopia formally joined PAPSS on 15 October 2026, and EthSwitch has a cross-border payment scheme to connect Ethiopian institutions to regional networks.",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Ethiopia",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-25-gha-ecobank-mobile-money-fintech-ltd-launch-cross-border-momo-transfers-be",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "MyJoyOnline reports that Ecobank Ghana and Mobile Money Fintech Limited launched a service letting customers in Cote d'Ivoire send money directly to mobile money wallets in Ghana, approved by the Bank of Ghana.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "Ecobank Rapid Transfer, Ghana-Cote d'Ivoire corridor",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
