@@ -4,7 +4,7 @@
 
 **Governance and finance.** The [National Digital Transformation Strategy 2023-2027](<https://www.mots.gov.zm/wp-content/uploads/2023/10/National-Digital-Transformation-Strategy.pdf>) makes the technology and science ministry the coordinating agency, responsible for quarterly monitoring and reporting. It is to be financed by the Government with cooperating partners, with no amount given.
 
-**Standing.** A [2023 journal study](<https://doi.org/10.51867/ajernet.7.1.89>) says the strategy was adopted in 2023. The [Ministry of Technology and Science](<https://www.mots.gov.zm/wp-content/uploads/2023/10/National-Digital-Transformation-Strategy.pdf>) published it on 12 October 2023.
+**Standing.** A [2026 journal study](<https://doi.org/10.51867/ajernet.7.1.89>) says the strategy was adopted in 2023. The [Ministry of Technology and Science](<https://www.mots.gov.zm/wp-content/uploads/2023/10/National-Digital-Transformation-Strategy.pdf>) published it on 12 October 2023.
 
 **Text.** The strategy's [full text](<https://www.mots.gov.zm/wp-content/uploads/2023/10/National-Digital-Transformation-Strategy.pdf>) is hosted on the Ministry of Technology and Science's site, from October 2023.
 

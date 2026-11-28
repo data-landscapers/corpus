@@ -110,7 +110,7 @@ Cameroon's telecoms regulator adopted its 2026-2030 Strategic Performance Plan a
 
 **[Statement on the Cabinet meeting of Wednesday, 25 November 2026](https://www.gov.za/news/cabinet-statements/media-briefings/statement-cabinet-meeting-wednesday-27-november-2026-27-nov)** — Government of South Africa, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
-South Africa's Cabinet met on 25 November 2026 and welcomed the President's directive for a multi-sectoral AI action plan within 90 days of the Silicon Valley delegation's return. The plan is to set institutional responsibilities, start-up funding and infrastructure partnerships. Cabinet also noted progress on biometric movement control at ports of entry and on government digital services. <span class="bulletin-item__also">*Also under [AI](#ai) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+South Africa's Cabinet statement on its 25 November 2026 meeting records that the President directed a multi-sectoral AI action plan within 90 days of the Silicon Valley delegation's return. The plan is to set institutional responsibilities, start-up funding and infrastructure partnerships. Cabinet welcomed the visit's strategic importance and noted progress on biometric movement control at ports of entry and on government digital services. <span class="bulletin-item__also">*Also under [AI](#ai) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
 
 </div>
 
@@ -192,7 +192,7 @@ Ghana's Communications Minister Samuel Nartey George said on 26 November 2026 th
 
 **[Cybersécurité : publication de la loi n° 2026-20 sur la sécurité numérique](https://www.osiris.sn/cybersecurite-publication-de-la-loi-no-2026-20-sur-la-securite-numerique.html)** — OSIRIS, 27 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
-Senegal published Law No. 2026-20 on digital security in its Journal officiel. It sets up a National Cybersecurity Authority. Operators of critical infrastructure must name information-security officers, run audits and continuity plans, and notify incidents within 24 hours. Cybersecurity providers are to be licensed. <span class="bulletin-item__also">*Also under [Cybersecurity](#cybersecurity).*</span>
+Senegal published Law No. 2026-20 on digital security in its Journal officiel. It sets up a National Cybersecurity Authority. Operators of critical infrastructure must name information-security officers, run audits and continuity plans, and notify incidents within 24 hours. Cybersecurity providers working on critical infrastructure are to be licensed. <span class="bulletin-item__also">*Also under [Cybersecurity](#cybersecurity).*</span>
 
 </div>
 

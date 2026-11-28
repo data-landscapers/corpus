@@ -184,7 +184,8 @@ def pool_finance(held):
             u = (r.get("url") or "").strip()
             if not u.startswith("http"):
                 continue
-            amt = r["original_amount"] or "an unstated amount"
+            # a USD-native record has no original amount; its US$ figure is said only when whole
+            amt = r["original_amount"] or ("an amount" if r["commitment_usd_m"] else "an unstated amount")
             # a partial or unclear row counts a share of the deal: derived, so not put to the reader
             usd = f" (US${r['commitment_usd_m']}m)" if r["commitment_usd_m"] and r["scope"] == "whole" else ""
             yrs = "-".join(x for x in (r["start_year"], r["end_year"]) if x)
