@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-15-zwe-zim-unveils-indigenous-higher-education-system",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The Herald reports that on 14 April 2025 the Zimbabwean government launched DuraIsiphala263, a home-designed and home-made higher education management information system built through local expertise from Zimbabwean institutions, with no outside contractor named.",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "DuraIsiphala263",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The Herald reports DuraIsiphala263, designed and developed locally, was launched on 14 April 2025 after piloting with 89 percent of higher and tertiary institutions, and is providing summary statistics.",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "DuraIsiphala263",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DuraIsiphala263",
+   "country_label": "DuraIsiphala263",
+   "class": "staff",
+   "platform": "",
+   "owner": "Ministry of Higher and Tertiary Education, Innovation, Science and Technology Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

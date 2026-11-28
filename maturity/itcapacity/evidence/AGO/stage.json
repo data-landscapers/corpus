@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "4",
+      "stage": "5",
       "inhouse": "yes",
       "agency": "operating",
       "built": "live",
-      "own": "",
+      "own": "entire",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-002;AGO-004;AGO-001",
-      "gaps": "No source found since November 2023 names three systems that government staff built, run or maintain with no contractor named.",
-      "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-      "as_at": "2026-11-27"
+      "stage_sources": "AGO-006;AGO-007;AGO-008;AGO-002;AGO-004;AGO-001",
+      "gaps": "",
+      "note": "Fact 2026-11-28: the Finance Ministry's SETIC-FP built SIGD in-house (March 2026), and INE's own staff built the Census 2024 Portal and the INE Angola app (July 2026), none naming a contractor: three named systems, so 5.",
+      "as_at": "2026-11-28"
     }
   ]
 }

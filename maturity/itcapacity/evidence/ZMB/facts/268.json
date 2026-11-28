@@ -1,0 +1,46 @@
+{
+ "slug": "2025-11-07-zmb-digital-transformation-for-equality-how-gmis-and-e-learning-platform-a",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "UNDP says the Zambia Police Service E-Learning Platform was developed with Smart Zambia and the ZPS ICT and Research Team, with donor support from Global Affairs Canada and UNDP.",
+   "as_of": "2025-06-27",
+   "date_precision": "day",
+   "system": "ZPS E-Learning Platform",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The ZPS E-Learning Platform, developed with Smart Zambia and the police's own ICT team, was launched with the Gender Management Information System on 27 June 2025, and 207 officers in six districts have used it.",
+   "as_of": "2025-06-27",
+   "date_precision": "day",
+   "system": "ZPS E-Learning Platform",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "UNDP names only Smart Zambia and the ZPS ICT and Research Team as developers of the E-Learning Platform, with no contractor named.",
+   "as_of": "2025-06-27",
+   "date_precision": "day",
+   "system": "ZPS E-Learning Platform",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZPS E-Learning Platform",
+   "country_label": "ZPS E-Learning Platform",
+   "class": "staff",
+   "platform": "",
+   "owner": "Zambia Police Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

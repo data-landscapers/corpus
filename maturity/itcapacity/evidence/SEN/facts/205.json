@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-24-sen-remonter-la-sonaged-mise-sur-le-numerique-pour-revolutionner-la-gestio",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "SeneNews reports that SONAGED's Directorate of Information Systems developed the REMONTER waste-collection web and mobile application in house, launched as a pilot in Dakar, Pikine and Guediawaye.",
+   "as_of": "2025-04-24",
+   "date_precision": "day",
+   "system": "REMONTER",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "REMONTER",
+   "country_label": "REMONTER (waste collection app, pilot)",
+   "class": "staff",
+   "platform": "",
+   "owner": "SONAGED",
+   "tiers": ""
+  }
+ ],
+ "note": "Pilot only, so no system gone live."
+}

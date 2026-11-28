@@ -1,0 +1,56 @@
+{
+ "slug": "2024-01-01-ken-kenya-country-case-digital-pfm",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "CABRI's case study says Kenya's IFMIS is run by an in-house IFMIS department of the National Treasury, in charge of implementing and managing the ERP.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "IFMIS",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "CABRI's case study says the Government ICT Development Team built the Bajeti Yetu budget transparency tool for the National Treasury's budget department, and that Ministry of ICT and ICT Authority staff support PFM systems.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Government ICT Development Team",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "CABRI's case study says Bajeti Yetu was developed in December 2022 using in-house government ICT talent, avoiding commercial off-the-shelf software; no contractor is named.",
+   "as_of": "2022-12",
+   "date_precision": "month",
+   "system": "Bajeti Yetu",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "CABRI's case study says IFMIS is implemented and managed by an in-house National Treasury department; no contractor is named for its operation.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "IFMIS",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bajeti Yetu",
+   "country_label": "Bajeti Yetu",
+   "class": "staff",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

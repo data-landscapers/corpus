@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-12-gha-bank-of-ghana-unveils-homegrown-currency-management-software",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Governor Johnson Pandit Asiama said the Bank of Ghana developed its Enterprise Currency Operations Management Software (ECOMS) entirely in-house with its own technical expertise and internal capacity.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "ECOMS",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "The Bank of Ghana's Governor said ECOMS was built entirely by the bank's own staff, and no contractor is named.",
+   "as_of": "2026-11-12",
+   "date_precision": "day",
+   "system": "ECOMS",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ECOMS",
+   "country_label": "Enterprise Currency Operations Management Software",
+   "class": "staff",
+   "platform": "",
+   "owner": "Bank of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

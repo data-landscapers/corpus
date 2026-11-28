@@ -1,0 +1,34 @@
+{
+ "slug": "2024-10-31-mli-focus-sur-la-division-des-systemes-d-information-dsi-de-l-anict",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "ANICT states that its own Information Systems Division staff administer the databases and maintain and improve the agency's in-house management tools PANEX and SPIDER.",
+   "as_of": "2024-10-31",
+   "date_precision": "day",
+   "system": "PANEX; SPIDER",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PANEX",
+   "country_label": "PANEX",
+   "class": "staff",
+   "platform": "",
+   "owner": "ANICT",
+   "tiers": ""
+  },
+  {
+   "system": "SPIDER",
+   "country_label": "SPIDER",
+   "class": "staff",
+   "platform": "",
+   "owner": "ANICT",
+   "tiers": ""
+  }
+ ],
+ "note": "The division serves ANICT itself, not the rest of government; two systems named."
+}

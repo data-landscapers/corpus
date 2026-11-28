@@ -6,7 +6,7 @@
 
 **A technology body for government.** No source found from 2023 or later says a government agency or state company runs systems for the rest of government. [The revenue authority built the police platform](<https://gnnliberia.com/lnp-lra-digitize-police-clearance-in-major-reform/>) for one other body.
 
-**Built in-house.** [The police clearance platform was launched at police headquarters on 1 May 2026](<https://gnnliberia.com/lnp-lra-digitize-police-clearance-in-major-reform/>). It replaced a manual process. The revenue authority says [its own tech team built and launched its online duty-free application platform](<https://revenue.lra.gov.lr/lra-digitizes-rural-customs-offices-rolls-out-online-duty-free-platform/>) in July 2025.
+**Built in-house.** [The police clearance platform was launched at police headquarters on 1 May 2026](<https://gnnliberia.com/lnp-lra-digitize-police-clearance-in-major-reform/>). It replaced a manual process. The revenue authority says [its own tech team built and launched its online duty-free application platform](<https://revenue.lra.gov.lr/lra-digitizes-rural-customs-offices-rolls-out-online-duty-free-platform/>) in July 2025. [On 18 May 2026 it launched an ERP built entirely by its own IT staff](<https://gnnliberia.com/124384-2/>).
 
 **Systems built or run in-house.** No source found since November 2023 names three systems that government staff built, run or maintain. [The police clearance platform is one built by government staff](<https://gnnliberia.com/lnp-lra-digitize-police-clearance-in-major-reform/>).
 

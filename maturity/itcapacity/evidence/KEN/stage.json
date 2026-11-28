@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "4",
+      "stage": "5",
       "inhouse": "yes",
       "agency": "operating",
       "built": "live",
-      "own": "",
+      "own": "entire",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-004;KEN-001;KEN-002",
-      "gaps": "No source found since November 2023 names three systems that government staff built, run or maintain with no contractor named.",
-      "note": "Counted from the four questions by study-ladder-itcapacity.py. Makueni County's own ICT team built its projects tracking system without vendors, live from March 2024, and the ICT Authority runs systems for government, so 4. Only that one system is named as built or run by government staff.",
-      "as_at": "2026-11-27"
+      "stage_sources": "KEN-005;KEN-012;KEN-013;KEN-004;KEN-001",
+      "gaps": "",
+      "note": "Fact 2026-11-28: a 2024 CABRI case study says the National Treasury's in-house department runs IFMIS and government ICT staff built Bajeti Yetu, none naming a contractor; with Makueni's projects tracking system that is three named systems, so 5.",
+      "as_at": "2026-11-28"
     }
   ]
 }

@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,inhouse,inhouse,coverage,yes,2026-10-12,MWI-001;MWI-002,,
+MWI,inhouse,inhouse,coverage,yes,2026-10-12,MWI-001;MWI-002;MWI-003;MWI-005,,
 MWI,inhouse,agency,coverage,,,,,nothing found
-MWI,inhouse,built,coverage,,,,,nothing found
+MWI,inhouse,built,coverage,live,2025-12-11,MWI-004;MWI-006,,
 MWI,inhouse,own,coverage,,,,,nothing found

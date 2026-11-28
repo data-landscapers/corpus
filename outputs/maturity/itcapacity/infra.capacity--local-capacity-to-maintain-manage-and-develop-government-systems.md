@@ -20,13 +20,13 @@ The African Charter on the Values and Principles of Public Service and Administr
 
 | Stage | Countries |
 |---|---|
-| 5 Mature | 16 |
-| 4 Operating | 8 |
+| 5 Mature | 18 |
+| 4 Operating | 6 |
 | 3 Established | 8 |
-| 2 Nascent | 10 |
+| 2 Nascent | 11 |
 | 1 Absent | 3 |
 | Unplaced | 4 |
-| No evidence | 5 |
+| No evidence | 4 |
 
 ## Countries
 
@@ -40,6 +40,17 @@ Government staff run, maintain or built three or more of its systems by 2026, no
 - The health minister launched the national rollout of the electronic medical record on 25 July 2026 and said the system was entirely designed and developed by engineers and staff of the ministry's information systems directorate ([source, 2026-07-26](https://interlignes.dz/sante-lancement-du-deploiement-du-dossier-medical-electronique-a-travers-les-69-wilayas/)).
 - Dzair Digital Services, the national portal launched on 5 July 2026 that groups the digital services of several ministries and public bodies, is developed by the Haut-commissariat a la numerisation ([source, 2026-10-18](https://www.algerie360.com/dzair-digital-services-documents-en-ligne/)).
 - The Haut Commissariat a la Numerisation states its own services designed and developed the mechanism for verifying electronic documents issued through the Dzair Digital Services portal, which it trained sector information-system managers to deploy and operate ([source, 2026-09-17](https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381)).
+
+### Angola: 5 Mature
+
+Government staff built three or more named systems, among them a census portal in 2026, no contractor named.
+
+- INE's head said the Census 2024 Portal was developed by INE's own technical staff; no contractor is named ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
+- INE's head said the 'INE Angola' mobile statistics app was developed by INE's own technical staff; no contractor is named ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
+- The Finance Ministry's SETIC-FP developed the Sistema Integrado de Gestao Documental (SIGD) internally; it has about 200 active users and no contractor is named ([source, 2026-03-26](https://www.menosfios.com/setic-fp-lanca-i-lab-para-acelerar-transformacao-digital-das-financas-publicas/)).
+- INE launched the Census 2024 Portal and the 'INE Angola' app on 2 July 2026 in Uíge; its head said they were developed by INE's own technical staff ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
+- PTI reports that INFOSI manages the government's Data Center and Cloud, opened in April 2026, which offers more than 80 technology services on the state's data centres and network linking every ministerial department ([source, 2026-04-28](https://pti.ao/mario-oliveira-inauguracao-do-data-center-e-cloud-do-governo-constitui-um-passo-gigante-rumo-a-soberania-digital/)).
+- Angop reports INE's head said the Census 2024 Portal and the 'INE Angola' mobile app were developed by INE's own technical staff ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
 
 ### Benin: 5 Mature
 
@@ -105,6 +116,16 @@ Government staff run, maintain or built three or more of its systems by 2026, no
 - ANINF, the state digital agency, designed the FUR civil-service HR and payroll application and is fixing its coding failures ([source, 2026-08-25](https://union.sonapresse.com/fr/fonction-publique-redynamiser-le-fichier-unique-de-reference)).
 - The KEWA platform, which published the 2026 primary-school certificate results, is run by the state agency ANINF, its engineers credited for it ([source, 2026-06-27](https://gabonactu.com/blog/2026/06/27/cep-2026-kewa-revolutionne-la-publication-des-resultats-laninf-confirme-son-leadership-dans-la-transformation-numerique-du-gabon/)).
 - ANINF's own directorates manage its SecBOM digital-asset mapping system; no outside vendor is named ([source, 2025-06-01](https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/)).
+
+### Kenya: 5 Mature
+
+Government staff built or run three or more named systems, among them the financial management system in 2024, no contractor named.
+
+- Makueni County Government says the Projects Monitoring and Tracking System was developed by the county's ICT and M&E teams without external vendors and is supported by the ICT directorate, with only cloud hosting, SSL, bulk SMS and email hosting bought as services ([source, 2025-09](https://umanyi.makueni.go.ke/storage/success_stories/68b949613618a_Success_Story.pdf)).
+- CABRI's case study says Bajeti Yetu was developed in December 2022 using in-house government ICT talent, avoiding commercial off-the-shelf software; no contractor is named ([source, 2022-12](https://www.cabri-sbo.org/uploads/files/Documents/Kenya-Country-Case-Study.pdf)).
+- CABRI's case study says IFMIS is implemented and managed by an in-house National Treasury department; no contractor is named for its operation ([source, 2024](https://www.cabri-sbo.org/uploads/files/Documents/Kenya-Country-Case-Study.pdf)).
+- Makueni County Government says its in-house ICT team built the Projects Monitoring and Tracking System without external vendors and it was launched in March 2024 ([source, 2024-03](https://umanyi.makueni.go.ke/storage/success_stories/68b949613618a_Success_Story.pdf)).
+- ICT Authority Kenya, a state corporation, says it runs a Network Operation Centre and Cloud Data Centre and designs integrated e-services systems for government ([source, 2026](https://icta.go.ke/faqs)).
 
 ### Mali: 5 Mature
 
@@ -185,14 +206,6 @@ Government staff run, maintain or built three or more of its systems by 2026, no
 - SmartCare Pro was developed by the Ministry of Health and the Smart Zambia Institute ([source, 2026-07-16](https://itweb.africa/article/zambia-launches-govlink-private-4g-network/G98YdMLGBZw7X2PD)).
 - SMART Zambia's e-Government Division developed the SMART Office Management System in-house ([source, 2025-06-23](https://techafricanews.com/2025/06/23/zambia-advances-public-sector-digitisation-with-smart-office-system-rollout/)).
 
-### Angola: 4 Operating
-
-Government staff built a system that went live in 2026; fewer than three systems are known to be built or run by government staff.
-
-- INE launched the Census 2024 Portal and the 'INE Angola' app on 2 July 2026 in Uíge; its head said they were developed by INE's own technical staff ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
-- PTI reports that INFOSI manages the government's Data Center and Cloud, opened in April 2026, which offers more than 80 technology services on the state's data centres and network linking every ministerial department ([source, 2026-04-28](https://pti.ao/mario-oliveira-inauguracao-do-data-center-e-cloud-do-governo-constitui-um-passo-gigante-rumo-a-soberania-digital/)).
-- Angop reports INE's head said the Census 2024 Portal and the 'INE Angola' mobile app were developed by INE's own technical staff ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
-
 ### Botswana: 4 Operating
 
 Government staff built a system that went live in 2025; fewer than three systems are known to be built or run by government staff.
@@ -216,14 +229,6 @@ Government staff built a system that went live in 2024; fewer than three systems
 - The Vice President launched the CitizenApp Data Interoperability System on 7 October 2024; it was developed by the Ghana Revenue Authority and NITA, and no contractor is named ([source, 2024-10-07](https://gna.org.gh/2024/10/bawumia-unveils-new-citizenapp-to-promote-efficiency-in-public-service-delivery/)).
 - The analyst says NITA, mandated under Act 771 to provide core government IT infrastructure, runs the Government Cloud (G-Cloud) and the NITA Data Centre that ministries, departments and agencies can host on or bypass ([source, 2026-10-19](https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/)).
 - The Ghana News Agency reports that the CitizenApp Data Interoperability System, an upgrade of Ghana.gov, was developed by the Ghana Revenue Authority and NITA with other state agencies ([source, 2024-10-07](https://gna.org.gh/2024/10/bawumia-unveils-new-citizenapp-to-promote-efficiency-in-public-service-delivery/)).
-
-### Kenya: 4 Operating
-
-A county ICT team built a projects tracking system live in 2024; fewer than three systems are known to be built or run in-house.
-
-- Makueni County Government says its in-house ICT team built the Projects Monitoring and Tracking System without external vendors and it was launched in March 2024 ([source, 2024-03](https://umanyi.makueni.go.ke/storage/success_stories/68b949613618a_Success_Story.pdf)).
-- ICT Authority Kenya, a state corporation, says it runs a Network Operation Centre and Cloud Data Centre and designs integrated e-services systems for government ([source, 2026](https://icta.go.ke/faqs)).
-- Murang'a Governor Irungu Kang'ata says AfyaKE, adopted from a national government system, was enhanced by the county's in-house software developers and its staff were trained to use it; the Ministry of Health says it is a private arrangement between the county and its developers ([source, 2026-10-16](https://nation.africa/kenya/counties/muranga/afyake-system-shutdown-65-000-patient-records-at-centre-of-kang-ata-duale-showdown-5634726)).
 
 ### Madagascar: 4 Operating
 
@@ -317,6 +322,13 @@ Government staff run or maintain systems by 2026; no body is known to serve the 
 
 - NOSI states its own specialists are working round the clock, with the implementing company, the project consultant and the data centre, to fix slow performance in its digital transformation system, live since 24 February 2026 ([source, 2026-04-22](https://www.nosi.gov.eg/ar/News/Pages/2026-04-22.aspx)).
 
+### Gambia: 2 Nascent
+
+The social security fund's staff built an information system in 2026; whether a body runs systems for the rest of government is not known.
+
+- The Standard reports the SSHFC's own staff built the ISMIS for its Taye Sama informal-sector scheme in-house, with no contractor named, and presented it to management on 1 April 2026 ([source, 2026-04-01](https://standard.gm/new-in-house-scheme-saves-sshfc-d51-8m-and-builds-gambias-first-informal-sector-social-security-system/)).
+- The Immigration Commissioner says the MRP passport system, built by De La Rue and transferred, has been operated 100% by the Gambia Immigration Department since inception, and that locally built software was added after a server migration of over a million records ([source, 2025-01-16](https://thepoint.gm/africa/gambia/headlines/gid-commences-processing-mrp-passports-commissioner-2)).
+
 ### Guinea: 2 Nascent
 
 In 2026 the finance ministry's own staff built and launched an asset accounting system; who runs it is not known.
@@ -341,6 +353,7 @@ The revenue authority was building its tax system in-house in 2026; no body is k
 
 - The Malawi Revenue Authority's representative said MRA is developing its second Integrated Tax Administration System, ITAS II, in-house; no date is given for the statement, so the article's published date is used ([source, 2026-10-12](https://www.liberianobserver.com/business/mra-credits-ataf-support-for-tax-administration-reforms-data-improvements/article_46cb9644-8810-4649-be0a-d358dbf91606.html)).
 - The Commission authorised its ICT Directorate to upload 2,563 outstanding records onto the Election Management System database ([source, 2025-04-02](https://mec.org.mw/wp-content/uploads/2025/04/20250408-Speech-for-press-briefing-on-Voter-Transfers-and-Inspection-of-Voters-Register.pdf)).
+- Nyasa Times reports the Public Procurement and Disposal of Assets Authority's e-Memo system was developed entirely in-house by the Authority's own ICT team ([source, 2025-06-30](https://www.nyasatimes.com/ppda-embraces-digital-era-with-launch-of-in-house-e-memo-system/)).
 
 ### Morocco: 2 Nascent
 
@@ -415,12 +428,6 @@ Nothing found says who builds or runs the government's systems, so no stage is s
 Not established: Nothing found says who builds or runs the government's computer systems.
 
 ### Eritrea: No evidence
-
-Nothing found says who builds or runs the government's systems, so no stage is set.
-
-Not established: Nothing found says who builds or runs the government's computer systems.
-
-### Gambia: No evidence
 
 Nothing found says who builds or runs the government's systems, so no stage is set.
 

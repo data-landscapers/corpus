@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-17-dji-la-douane-djiboutienne-souveraine-de-son-destin-numerique",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "ADI reports that Djibouti's customs directorate DGDDI built its own data centre in 2010 after the DP World-run Mirsal system, adopted SydoniaWorld in 2012 on it, and invested in training its teams to use it.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "SydoniaWorld",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SydoniaWorld",
+   "country_label": "SydoniaWorld (ASYCUDA World)",
+   "class": "staff",
+   "platform": "ASYCUDA World",
+   "owner": "Direction Générale des Douanes et Droits Indirects",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

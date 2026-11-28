@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-27-gmb-gicta-develops-digital-cabinet-system-to-cut-meeting-hours-boost-efficiency",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "GICTA unveiled on 25 November 2026 a prototype Integrated Digital Cabinet Management System developed in-house by its staff and staff from other government bodies, which the Director General says cost under US$150,000 against US$1-5 million through international procurement; the course was delivered by Business Automation Limited and funded by the World Bank under WARDIP.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "Integrated Digital Cabinet Management System (IDCMS)",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Digital Cabinet Management System (IDCMS)",
+   "country_label": "Integrated Digital Cabinet Management System (IDCMS)",
+   "class": "staff",
+   "platform": "",
+   "owner": "Gambia Information and Communications Technology Agency (GICTA)",
+   "tiers": ""
+  }
+ ],
+ "note": "Prototype only, not stated live."
+}

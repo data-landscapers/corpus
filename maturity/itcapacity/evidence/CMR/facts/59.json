@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-19-cmr-appel-a-candidatures-n-00016-ac-armp-2025-du-19-fevrier-2025-relatif-a",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Cameroon's public procurement regulator ARMP says that since 2014 it has analysed, designed, developed and deployed the Pridesoft public procurement management platform, and on 19 February 2025 called for five developers and a statistician to continue developing it.",
+   "as_of": "2025-02-19",
+   "date_precision": "day",
+   "system": "Pridesoft",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Pridesoft",
+   "country_label": "Pridesoft (pridesoft.cm)",
+   "class": "staff",
+   "platform": "Pridesoft",
+   "owner": "Agence de Régulation des Marchés Publics (ARMP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

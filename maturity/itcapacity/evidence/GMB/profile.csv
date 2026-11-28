@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GMB,inhouse,inhouse,coverage,,,,,nothing held
-GMB,inhouse,agency,coverage,,,,,nothing held
-GMB,inhouse,built,coverage,,,,,nothing held
-GMB,inhouse,cadre,coverage,adopted,2019,GMB-001,,nothing dated since 2023-10-26
+GMB,inhouse,inhouse,coverage,yes,2026-04-01,GMB-002;GMB-005,,
+GMB,inhouse,agency,coverage,,,,,nothing found
+GMB,inhouse,built,coverage,,,,,nothing found
+GMB,inhouse,own,coverage,entire,2026-04-01,GMB-003,,

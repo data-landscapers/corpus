@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-25-cpv-projecto-coop4int-nosi-apresenta-plataforma-integrado-de-registro-de-a",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "NOSi presented the Sistema Integrado de Registro de Atendimento dos Imigrantes (SIRA) on 24 July 2025, a platform the immigration authority's president said NOSi developed with the authority.",
+   "as_of": "2025-07-24",
+   "date_precision": "day",
+   "system": "SIRA",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "NOSi developed the immigrant-service registry platform SIRA for the Alta Autoridade para a Imigracao.",
+   "as_of": "2025-07-24",
+   "date_precision": "day",
+   "system": "SIRA",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIRA",
+   "country_label": "Sistema Integrado de Registro de Atendimento dos Imigrantes (SIRA)",
+   "class": "staff",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

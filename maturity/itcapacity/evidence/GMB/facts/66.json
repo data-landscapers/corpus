@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-12-gmb-new-in-house-scheme-saves-sshfc-d51-8m-and-builds-gambias-first-inform",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The Standard reports the SSHFC's own staff built the ISMIS for its Taye Sama informal-sector scheme in-house, with no contractor named, and presented it to management on 1 April 2026.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "Taye Sama Informal Sector Management Information System (ISMIS)",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "The Standard reports the SSHFC's own staff built the ISMIS for its Taye Sama informal-sector scheme in-house, with no contractor named, and presented it to management on 1 April 2026.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "Taye Sama Informal Sector Management Information System (ISMIS)",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ISMIS",
+   "country_label": "Taye Sama Informal Sector Management Information System (ISMIS)",
+   "class": "staff",
+   "platform": "",
+   "owner": "SSHFC",
+   "tiers": ""
+  }
+ ],
+ "note": "Not stated live: field-tested and ready for rollout, pilots about to launch."
+}

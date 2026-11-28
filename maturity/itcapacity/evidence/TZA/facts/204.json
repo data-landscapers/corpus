@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-07-tza-mfumo-wa-ngao-kuimarisha-zaidi-usalama-wa-mifumo-ya-tehama-serikali",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The e-Government Authority (e-GA) said in November 2024 that it developed the NGAO multi-factor authentication system itself and uses it on a trial basis on the e-Office and ERMS systems.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "NGAO",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

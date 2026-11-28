@@ -1,0 +1,15 @@
+{
+ "slug": "2024-06-05-syc-launch-of-the-child-care-benefit-information-system-seychelles-cbiss",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CCBISS",
+   "country_label": "Child Care Benefit Information System Seychelles",
+   "class": "other",
+   "platform": "",
+   "owner": "Institute of Early Childhood Development; built by contractor SPACE95 for DICT",
+   "tiers": ""
+  }
+ ],
+ "note": "System was built by a contractor, SPACE95; no government staff build or run stated."
+}

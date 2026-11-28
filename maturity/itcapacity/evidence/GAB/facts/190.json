@@ -1,0 +1,57 @@
+{
+ "slug": "2026-06-18-gab-aninf-comment-lagence-construit-le-numerique",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "ANINF, Gabon's national digital agency, says on its own site that it designs digital tools itself: the electronic driving licence, the Marigest merchant-navy application and the KEWA platform.",
+   "as_of": "2026-06-18",
+   "date_precision": "day",
+   "system": "ANINF",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "ANINF says it works on the Gabonese Administration Network (RAG) and builds digital tools for administrations and citizens.",
+   "as_of": "2026-06-18",
+   "date_precision": "day",
+   "system": "ANINF",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "ANINF says it designed the electronic driving licence; no contractor is named.",
+   "as_of": "2026-06-18",
+   "date_precision": "day",
+   "system": "electronic driving licence",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "ANINF says it designed the Marigest application for the merchant navy; no contractor is named.",
+   "as_of": "2026-06-18",
+   "date_precision": "day",
+   "system": "Marigest",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "ANINF says it designed the KEWA platform; no contractor is named.",
+   "as_of": "2026-06-18",
+   "date_precision": "day",
+   "system": "KEWA",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
