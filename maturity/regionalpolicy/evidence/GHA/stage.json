@@ -9,9 +9,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-031;GHA-011;GHA-030;GHA-002",
-      "gaps": "No source found gives figures of roaming use, a decision of a joint body or a review of what an agreement delivered.",
-      "note": "Free roaming with Liberia started in July 2026 under an agreement of May 2026, beside roaming with Benin and Togo since 2024, so something agreed is in effect. No figures of use, joint decision or review are held, so not 5.",
-      "as_at": "2026-11-15"
+      "gaps": "No source found gives figures of roaming use or a review of what an agreement delivered.",
+      "note": "Free roaming with Liberia started in July 2026 under an agreement of May 2026, beside roaming with Benin and Togo since 2024, so something agreed is in effect. No figures of use or review are held, so not 5.",
+      "as_at": "2026-11-28"
     }
   ]
 }

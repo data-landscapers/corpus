@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-regionalpolicy.md — the twenty-seventh maturity study: the country's part in regional digital policy, in four questions
-last_reviewed: 2026-10-13
+last_reviewed: 2026-11-28
 status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
@@ -33,7 +33,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Does the country belong to an African body that makes digital policy? | A source naming the country as a member of such a body, as joining it, or as taking part in its meeting. Membership of the African Union or a regional community alone is not a yes |
 | 2 | Has it taken an active part in the last three years? | A dated agreement, memorandum, protocol or declaration on digital policy signed with another African government or an African body; or a meeting of such a body hosted or chaired; or a seat or office in one won. Talks opened, a visit, or a meeting attended is not a yes |
 | 3 | Has anything it agreed been put into effect? | A dated source saying a thing agreed has started in the country: roaming charges cut or removed with a neighbour, a joint committee or council set up, a regional guideline or strategy adopted as a national rule or plan, a shared service opened |
-| 4 | Is that reported in use in the last three years? | Published figures of its use; a dated decision of the joint body; or a published review of what the agreement has delivered. A launch, a renewal or a statement of intent is not a yes |
+| 4 | Is that reported in use in the last three years? | Figures of its use published in the last three years (calls, traffic, users or transactions under the thing put into effect, for the country or for a named group of countries that includes it), or a review published in the last three years that evaluates what it has delivered in the country, with its findings. A launch, a renewal, a tariff cut, an implementation rate, a meeting or decision of the joint body, projects it agreed, or a statement that the thing works or has cut costs is not a yes |
 
 ## 3. The ladders
 
@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: a member, and nothing more on record |
 | 3 Establishing | Yes to 1 and 2: an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years |
 | 4 Operating | Yes to 1, 2 and 3: something agreed put into effect |
-| 5 Mature | Yes to all four: reported in use in the last three years |
+| 5 Mature | Yes to all four: figures of its use, or a review of what it delivered, published in the last three years |
 
 - **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*.
 - **Membership has no time limit**; it stands, with its year, until a dated source says the country has left or is suspended.
@@ -59,7 +59,7 @@ Asked in order. Each is answered with a date and a link.
 - **A donor's regional programme counts where an African body runs it**, and then as that body's: joining it is a yes to question 1, a financing agreement signed under it a yes to question 2.
 - **A declaration that lists the country among many signatories, with no act of its own reported, is a yes to question 1 only** *(added in the run, for the Africa Declaration on Artificial Intelligence and its 49 signatories)*.
 - **A body created by signature, its statutes and work programme still to be adopted, is not yet a joint body set up** *(added in the run, for the Council of Sahel Regulators)*. A joint commission that has met is.
-- **Projects agreed by a joint body are a statement of intent, not a decision in use** *(added in the run, for Algeria and Tunisia)*.
+- **Question 4 asks for figures of use or a review, never a joint body's own meeting or decision** *(rung 5 rewritten 2026-11-28, R185: "a dated decision of the joint body" read as stage 4 and stage 5 alike, since a joint body meeting already answers question 3)*. Projects a joint body agrees are a statement of intent *(added in the run, for Algeria and Tunisia)*.
 - **A body of countries that share a language is `other`** *(added in the run)*, as the Francophonie is.
 - **A statistics body is not digital policy** *(Bill, 2026-10-26)*.
 - **What an agreement covers is taken from what a source says of it**, never from reading its text for the purpose.

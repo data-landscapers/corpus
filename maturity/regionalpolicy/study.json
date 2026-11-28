@@ -135,9 +135,9 @@
         "The country belongs to an African body that makes digital policy, or takes part in its meetings, and nothing more is on record. Membership of the African Union or a regional community alone does not count.",
         "In the past three years the country has signed a digital agreement or declaration with another African government or African body, hosted or chaired a meeting of such a body, or won a seat or office in one. Talks, visits and meetings attended do not count.",
         "Something the country agreed has been put into effect: roaming charges cut with a neighbour, a joint body set up and meeting, a regional guideline adopted as a national rule, or a shared service opened.",
-        "What was put into effect is reported in use in the past three years: published figures of its use, a decision of the joint body, or a review of what the agreement delivered. A launch, a renewal or projects agreed do not reach this stage."
+        "What was put into effect is reported in use in the past three years: published figures of its use, or a published review of what it delivered in the country. A launch, a tariff cut, an implementation rate, a joint body's meeting or decision, or a statement that it works does not reach this stage."
       ],
-      "criteria_of": "e907dba038b3"
+      "criteria_of": "1365c8c68f5b"
     }
   ],
   "classes": [
@@ -181,5 +181,6 @@
     }
   ],
   "flags": [],
-  "searched": "2026-11-13"
+  "searched": "2026-11-13",
+  "ladder_rewritten": "2026-11-28"
 }

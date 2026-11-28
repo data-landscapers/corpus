@@ -1,16 +1,17 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "4",
-   "part": "active",
-   "effect": "in-effect",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-007;TUN-006",
-   "gaps": "No source found gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "4",
+      "part": "active",
+      "effect": "in-effect",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-007;TUN-006",
+      "gaps": "No source found gives figures of use, or a review of what an agreement has delivered, in the last three years.",
+      "note": "The Algerian-Tunisian Joint Technical Commission on communications and ICT held its fourth session in June 2026, so a joint body set up under the two governments' cooperation is in effect. A joint body's meeting and the projects it agreed are not figures of use or a review, so not 5.",
+      "as_at": "2026-11-28"
+    }
+  ]
 }

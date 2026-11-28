@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "cooperation",
-      "stage": "5",
+      "stage": "4",
       "part": "active",
-      "effect": "in-use",
+      "effect": "in-effect",
       "cap": "",
       "flags": "",
-      "stage_sources": "SSD-008;SSD-007;SSD-003",
-      "gaps": "No figures of South Sudan's own traffic under the One Network Area have been found; the 900-fold rise is for the partner states together, and its communique of 9 November 2023 is now just over three years old.",
-      "note": "Reassessed 2026-11-13: the 2023 figures of use (SSD-008) are now just past three years, but in November 2026 an EAC official said the One Network Area South Sudan put into effect (SSD-007) had cut cross-border costs, so the country is still shown there and the stage holds at 5.",
-      "as_at": "2026-11-13"
+      "stage_sources": "SSD-007;SSD-009",
+      "gaps": "No figures of use or review published in the last three years: the Northern Corridor ministers' 900-fold traffic rise for the partner states dates from 9 November 2023, and no figures of South Sudan's own traffic are found.",
+      "note": "An EAC official said in November 2026 that South Sudan has put the One Network Area roaming framework into effect and that it cut cross-border costs, which answers question 3, not question 4. The only figures of use, the ministers' communique of 9 November 2023, are now more than three years old, so stage 4.",
+      "as_at": "2026-11-28"
     }
   ]
 }

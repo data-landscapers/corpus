@@ -1,6 +1,6 @@
 # Regional policy collaboration: regional cooperation on digital policy
 
-*As at 2026-11-15.*
+*As at 2026-11-28.*
 
 ## The norm
 
@@ -14,14 +14,14 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 | 2 Preparing | Yes to 1: a member, and nothing more on record |
 | 3 Establishing | Yes to 1 and 2: an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years |
 | 4 Operating | Yes to 1, 2 and 3: something agreed put into effect |
-| 5 Mature | Yes to all four: reported in use in the last three years |
+| 5 Mature | Yes to all four: figures of its use, or a review of what it delivered, published in the last three years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Mature | 8 |
-| 4 Operating | 21 |
+| 5 Mature | 7 |
+| 4 Operating | 22 |
 | 3 Established | 15 |
 | 2 Nascent | 9 |
 | 1 Absent | 0 |
@@ -67,14 +67,6 @@ Rwanda is in East Africa's shared roaming area, with rising cross-border calls r
 - The EACO report publishes Rwanda's One Network Area cross-border voice figures for 2025: inbound 107.4 million minutes (+41.0%) and outbound 74.0 million minutes (+35.4%), and says roaming tariffs were reduced under the ONA Project ([source, 2025](https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf)).
 - Uganda, Kenya, Rwanda and South Sudan opened a joint bank account at Standard Chartered Bank Uganda to fund a feasibility study of a jointly owned communications satellite, with a 30 September 2026 deposit deadline; the date of opening is not given, so the report date 2026-08-24 is used ([source, 2026-08-24](https://chimpreports.com/east-african-states-open-bank-account-to-fund-joint-communications-satellite-study/)).
 - The Africa Declaration on Artificial Intelligence was signed on 4 April 2025 in Kigali at the Global AI Summit on Africa hosted by Rwanda's C4IR and Ministry of ICT & Innovation; African Law & Business reports 52 of 54 African states signed with the African Union and Smart Africa, only Tanzania and Western Sahara absent, so Rwanda is among the signatories ([source, 2025-04-04](https://www.africanlawbusiness.com/news/optimism-but-uncertainty-over-africas-ai-declaration/)).
-
-### South Sudan: 5 Mature
-
-South Sudan is in East Africa's shared roaming area, its traffic up 900 times across members by 2023; South Sudan's own figures are not known.
-
-- The joint communique of the Northern Corridor Integration Projects ICT ministers (Kenya, Uganda, South Sudan, Rwanda) says One Network Area for voice, data and SMS is operational among the Partner States and has led to over 900 times traffic increase ([source, 2023-11-09](https://www.mofa.go.ug/article/ministerial-meeting-ict-infrastructure-development-9th-november-2023-nairobi-kenya)).
-- An EAC ICT and performance management professional told an EALA oversight meeting that South Sudan is one of six of eight Partner States that have implemented the 2014 One Network Area roaming framework, which he said had helped reduce cross-border communication costs ([source, 2026-11-03](https://www.the-star.co.ke/news/2026-11-03-eac-moves-to-slash-cross-border-call-data-charges)).
-- The Minister of Information, ICT and Postal Services signed a declaration of trust with the Smart Africa alliance to cooperate on the digital economy, cybersecurity and artificial intelligence, in a ceremony reported by the ministry on 2025-05-30 ([source, 2025-05-30](https://mictps.gov.ss/south-sudan-inks-smart-africa-declaration-of-trust-to-commence-cooperation-on-digital-trade/)).
 
 ### Tanzania: 5 Mature
 
@@ -229,6 +221,13 @@ Sierra Leone introduced free roaming with Liberia in 2025 and signed more roamin
 - The Liberia Telecommunications Authority says the Liberia-Sierra Leone free roaming agreement takes effect the Wednesday after 4 August 2025, with calls at local rates across the border ([source, 2025-08-06](https://lta.gov.lr/liberia-and-sierra-leone-roll-out-free-roaming-agreement/)).
 - Liberia, Ghana and Sierra Leone entered the ECOWAS Free Roaming Agreement at a signing ceremony, to remove roaming charges among the three; the page carries no date, so the published date 2026-02-20 is used ([source, 2026-02-20](https://lta.gov.lr/liberia-ghana-sierra-leone-move-toward-borderless-mobile-communication/)).
 - A Sierra Leone Ministry of Communication Technology and Innovation official, Director of Communications Nyakeh Yormah, chaired the ECOWAS workshop in Accra validating the review of the roaming regulation ([source, 2026-02-03](https://www.ecowas.int/ecowas-validates-implementation-review-of-its-regulation-on-roaming/)).
+
+### South Sudan: 4 Operating
+
+South Sudan has East Africa's shared roaming area in effect, cutting cross-border call costs by 2026; no figures of its use since 2023 are known.
+
+- An EAC ICT and performance management professional told an EALA oversight meeting that South Sudan is one of six of eight Partner States that have implemented the 2014 One Network Area roaming framework, which he said had helped reduce cross-border communication costs ([source, 2026-11-03](https://www.the-star.co.ke/news/2026-11-03-eac-moves-to-slash-cross-border-call-data-charges)).
+- South Sudan's National Communication Authority hosted EACO's 1st Advisory Council and 30th General Assemblies in Juba, and its Director-General Gieth Kon Mathiang took over the EACO chairmanship from Burundi's Samuel Muhizi (iPRIS) ([source, 2025-06-13](https://ipris.digital/south-sudan-hosts-1st-eaco-advisory-council-and-30th-general-assemblies/)).
 
 ### Togo: 4 Operating
 

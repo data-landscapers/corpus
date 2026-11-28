@@ -1,16 +1,17 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "2",
-   "part": "member",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBY-001",
-   "gaps": "No source found dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "2",
+      "part": "member",
+      "effect": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-001",
+      "gaps": "No source found dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.",
+      "note": "Counted from the four questions by study-ladder-regionalpolicy.py.",
+      "as_at": "2026-11-28"
+    }
+  ]
 }
