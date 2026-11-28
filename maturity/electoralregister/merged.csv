@@ -1,8 +1,10 @@
 iso3,source_slug,read,merged_on
 AGO,2024-01-01-angola-modernizes-land-administration-gis-cadastre-management,,2026-11-07
 AGO,2024-04-02-ago-apenas-2-em-cada-10-cidadaos-tem-oficialmente-numero-de-identificacao,,2026-11-21
+AGO,2024-06-13-ago-special-for-cafs-angola-to-regularize-capital-s-street-names,,2026-11-28
 AGO,2025-05-09-inefop-apresenta-nova-plataforma-de-registo-nominal-de-trabalhadores,,2026-11-07
 AGO,2026-04-17-plataforma-digital-legalizacao-de-40-mil-imoveis,,2026-11-07
+AGO,2026-05-04-ago-mat-capacita-tecnicos-provinciais-para-implementacao-da-toponimia,,2026-11-28
 AGO,2026-07-01-ago-angop-16-milhoes-base-bilhete-identidade,,2026-10-19
 AGO,2026-07-25-angola-cadastro-social-unico-launch,,2026-11-07
 AGO,2026-08-15-angola-intelwatch-biometric-surveillance-report,,2026-10-19
@@ -272,6 +274,7 @@ KEN,2026-11-06-ken-state-turns-to-chiefs-e-citizen-to-trace-owners-of-uncollecte
 KEN,2026-11-10-ria-bringing-more-voices-into-the-room-africa-igf-2026,,2026-11-11
 KEN,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,,2026-11-21
 KEN,2026-11-16-iebc-biometric-voter-registration-bvr,,2026-11-21
+KEN,2026-11-26-kenya-court-asked-to-block-smartmatic-election-tech-award,,2026-11-28
 LBR,2024-02-05-lbr-newspublictrust-nir-mobile-teams,,2026-10-19
 LBR,2024-11-11-lbr-liberia-eyes-biometrics-for-voter-authentication,,2026-11-04
 LBR,2025-06-01-nir-relevance-national-special-elections,,2026-10-19
@@ -286,6 +289,7 @@ LBR,2026-10-16-lbr-liberian-investigator-gender-ministry-gbv-case-tracking-datab
 LBR,2026-10-22-lbr-nec-seeks-us-72m-for-2029-elections,,2026-11-04
 LBR,2026-11-13-lbr-us-52m-id-deal-faces-fresh-scrutiny,,2026-11-21
 LBR,2026-11-17-lbr-liberianobserver-us52m-national-id-concession-local-firm,,2026-11-21
+LBR,2026-11-23-lbr-nec-seeks-us-89-5m-for-2029-elections-cites-biometric-technology,,2026-11-28
 LBY,2023-10-28-lby-libyaherald-unified-social-registry-launch,,2026-10-19
 LBY,2024-08-19 Libya implements biometric voter verification in municipal council elections,,2026-10-19
 LBY,2025-02-25-lby-hnec-sms-voter-registration-check,,2026-11-05
@@ -408,6 +412,7 @@ NGA,2026-06-20-nga-tech-firm-to-tackle-delays-in-c-of-o-processing,,2026-11-12
 NGA,2026-07-17-nga-six-months-to-presidential-poll-inec-raises-preparation-tempo,,2026-11-04
 NGA,2026-09-15-nga-thecabal-inec-nin-integration-national-voter-register,,2026-10-19
 NGA,2026-09-16-nga-authorityngr-au-pre-election-mission-inec-voter-registration,,2026-10-19
+NGA,2026-09-28-nga-zaen-najeriya-2027-ta-wace-hanya-inec-za-ta-iya-amfani-da-basirar-ai,,2026-11-28
 NGA,2026-10-05-nga-vanguard-inec-voter-register-103-million,,2026-10-19
 NGA,2026-10-26-nga-how-to-check-your-name-on-inec-s-voters-register-online,,2026-11-04
 NGA,2026-10-28-nigeria-tests-upgraded-biometric-voter-system-ahead-of-2027-elections,,2026-10-30
@@ -534,11 +539,13 @@ TUN,2026-04-30-tunisie-rne-full-digital-mobile-id,,2026-10-19
 TUN,2026-05-01-tun-id4africa-iuc-country-playbook,,2026-10-19
 TUN,2026-07-16-tun-depot-immatriculation-mise-a-jour-le-registre-national-des-entreprises,,2026-10-29
 TUN,2026-07-23-tunisie-registre-national-des-societes-communautaires-alahlia,,2026-10-19
+TUN,2026-08-15-tun-conseil-ministeriel,,2026-11-28
 TUN,2026-08-15-tunisia-conseil-ministeriel-restreint-interoperabilite-tunisienumerique,,2026-10-19
 TUN,2026-09-26-tun-rne-rejoint-ebra,,2026-10-19
 TUN,2026-10-29-tun-adel-chouari-dici-2027-fini-les-copies-conformes-dans-les-administrati,,2026-10-30
 TUN,2026-10-29-tun-thomas-denfer-un-registre-fiable-permet-de-renforcer-lentrepreneuriat,,2026-10-30
 TUN,2026-11-06-tun-sofiene-hemissi-annonce-la-numerisation-de-plusieurs-services-administ,,2026-11-12
+TUN,2026-11-07-tun-pour-accompagner-les-entrepreneurs-dans-leurs-demarches-le-rne-lance-d,,2026-11-28
 TZA,2023-12-13-tza-simplified-birth-registration-implemented-in-all-26-regions-of-mainlan,,2026-10-29
 TZA,2024-06-08-tza-inec-unveils-upgraded-bvr-kits-for-smooth-register-update,,2026-11-04
 TZA,2024-06-29-tza-inec-approves-191-csos-to-conduct-voter-education,,2026-11-04
@@ -596,3 +603,4 @@ ZWE,2026-08-18-zwe-rg-zec-voter-registration-handover,,2026-10-19
 ZWE,2026-09-18-zwe-herald-30-new-vehicles-boost-civil-registry-services,,2026-10-19
 ZWE,2026-11-11-xaf-gpsdd-statcom-10-nso-leadership,,2026-11-21
 ZWE,2026-11-13-zwe-undp-shared-health-record-registries-hie-rfp,,2026-11-21
+ZWE,2026-11-23-zwe-kazembe-calls-for-integrated-digital-systems-to-improve-service-delivery,,2026-11-28

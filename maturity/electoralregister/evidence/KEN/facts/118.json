@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-26-kenya-court-asked-to-block-smartmatic-election-tech-award",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "Biometric Update reports that Smartmatic, contracted by Kenya's IEBC since 2021, supplied the Kenya Integrated Election Management System (KIEMS) biometric kits used in the 2022 general elections.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "KIEMS",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya Integrated Election Management System (KIEMS)",
+   "country_label": "KIEMS",
+   "class": "electoral",
+   "platform": "Smartmatic",
+   "owner": "Independent Electoral and Boundaries Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

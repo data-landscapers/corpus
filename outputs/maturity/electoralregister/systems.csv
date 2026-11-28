@@ -85,6 +85,7 @@ KEN,voter register,Kenya,electoral,registration kits,IEBC,,2026-04-10-ken-iebc-t
 KEN,KIEMS,KEN,electoral,,IEBC,,2025-10-19-ken-commission-resumes-continuous-voter-registration-with-colourful-launch
 KEN,Birth registration e-service,Kenya,other,e-birth register,State Department for Immigration and Citizen Services,,2026-11-02-ken-birth-registration-e-service-reduces-admin-from-months-to-days
 KEN,Biometric Voter Registration System (BVR),Kenya,electoral,"laptop, fingerprint scanner and camera kits",Independent Electoral and Boundaries Commission,,2026-11-16-iebc-biometric-voter-registration-bvr
+KEN,Kenya Integrated Election Management System (KIEMS),KIEMS,electoral,Smartmatic,Independent Electoral and Boundaries Commission,,2026-11-26-kenya-court-asked-to-block-smartmatic-election-tech-award
 LBR,NEC voter registration system,Liberia,electoral,biometric voter registration,National Elections Commission,,2025-06-01-nir-relevance-national-special-elections
 LBR,National Identification Registry (NIR),Liberia,other,biometric national ID,National Identification Registry,,2025-06-01-nir-relevance-national-special-elections
 LBR,Biometric voter registry,Liberia,electoral,Laxton and Neurotechnology,National Elections Commission,,2024-11-11-lbr-liberia-eyes-biometrics-for-voter-authentication
@@ -136,6 +137,8 @@ NGA,Automated Biometric Identification System (ABIS),Nigeria,electoral,,INEC,,20
 NGA,Bimodal Voter Accreditation System (BVAS),Nigeria,other,,INEC,,2026-11-10-nigeria-biometric-election-cleanup
 NGA,Voters' Register,Nigeria,electoral,biometric register with BVAS accreditation,INEC,,2026-11-09-nga-inec-battles-to-clean-voters-register
 NGA,Register of Voters,Nigeria,electoral,ABIS,INEC,,2026-11-22-serap-sues-ndpc-inec-ai-manipulation-voters-register
+NGA,BVAS,BVAS (voter accreditation and result photo device),other,,INEC,,2026-09-28-nga-zaen-najeriya-2027-ta-wace-hanya-inec-za-ta-iya-amfani-da-basirar-ai
+NGA,IReV,IReV (result viewing portal),other,,INEC,,2026-09-28-nga-zaen-najeriya-2027-ta-wace-hanya-inec-za-ta-iya-amfani-da-basirar-ai
 RWA,amatora.nec.gov.rw,Rwanda,electoral,,National Electoral Commission,,2024-05-18-rwa-rwandainnigeria-diaspora-voter-registration
 RWA,voter register,Rwanda,electoral,,National Electoral Commission,,2024-06-30-rwa-9-7-mln-people-eligible-to-vote-in-rwanda-election-electoral-body
 SEN,ECOWAS biometric ID card,Senegal,other,,,,2025-02-18 Senegal targets 3M ECOWAS biometric ID holders for voter registration
