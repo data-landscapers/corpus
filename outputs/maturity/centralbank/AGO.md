@@ -2,7 +2,7 @@
 
 ## Governance role of central bank
 
-**Licensing providers.** The Banco Nacional de Angola authorises payment service providers. [Its Aviso 1/26 of January 2026 lets only payment companies it has authorised act as non-bank acquirers](<https://lex.ao/docs/banco-nacional-de-angola/2026/aviso-n-o-1-26-de-28-de-janeiro/>). [O País reports that Africell's Afrimoney wallet holds payment service provider status from the BNA](<https://www.opais.ao/sociedade/operadora-de-telefonia-quer-combater-enchentes-em-atm-com-afrimoney/>).
+**Licensing providers.** The Banco Nacional de Angola authorises payment service providers. [Its Aviso 1/26 of January 2026 lets only payment companies it has authorised act as non-bank acquirers](<https://lex.ao/docs/banco-nacional-de-angola/2026/aviso-n-o-1-26-de-28-de-janeiro/>). [O País reports that Africell's Afrimoney wallet holds payment service provider status from the BNA](<https://www.opais.ao/sociedade/operadora-de-telefonia-quer-combater-enchentes-em-atm-com-afrimoney/>). [In November 2026 FinTechs Angola reported that wallets such as Unitel Money and Afrimoney are licensed by the BNA](<https://fintechs.ao/metade-dos-internautas-em-4-provincias-de-angola-ja-usa-aplicacoes-bancarias-e-carteiras-digitais/>).
 
 **Overseeing a switch.** [Angop reports the BNA completed the move of domestic payments in its real-time payment system to ISO 20022](<https://angop.ao/noticias/economia/bna-conclui-migracao-para-padrao-internacional-iso-20022/>). [Expansão reports the BNA launched the Kwik instant-payment platform in June 2023](<https://www.expansao.co.ao/angola/detalhe/movimentos-entre-carteiras-digitais-valem-apenas-06-no-kwik-74789.html>). Kwik carried Kz 557.4bn in the first half of 2026.
 

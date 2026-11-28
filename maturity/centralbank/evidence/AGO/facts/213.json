@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-26-ago-metade-dos-internautas-em-4-prov-ncias-de-angola-j-usa-aplicac-es-banc-rias-e-ca",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "FinTechs Angola reports that mobile wallets such as Unitel Money and Afrimoney are licensed by the National Bank of Angola (BNA).",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "Unitel Money; Afrimoney",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

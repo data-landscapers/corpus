@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-26-lbr-pay-na-na-s-next-test-is-the-money-that-does-not-arrive",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The op-ed says the Central Bank of Liberia's directive provides for government-to-person mobile-money payments to pass through the national electronic payment switch from 27 October 2025, and that Pay Na-Na, the national platform introduced in December 2025, is growing in use.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Pay Na-Na",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Pay Na-Na",
+   "country_label": "Liberia",
+   "class": "oversight",
+   "platform": "national electronic payment switch",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-26-gin-paiements-la-bcrg-lance-la-strat-gie-nationale-2027-2030-pour-faire-reculer-le-c",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The BCRG's First Deputy Governor cited the Guinéenne de Monétique as operator of the national switch and the NimbaPay instant payment system, in production since summer and linking seven institutions, among recent advances in the central bank's payment systems.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "NimbaPay and national switch",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "BCRG",
+   "tiers": ""
+  },
+  {
+   "system": "National switch (Guinéenne de Monétique)",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "Guinéenne de Monétique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
