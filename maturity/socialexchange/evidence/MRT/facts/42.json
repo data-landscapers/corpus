@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-27-mrt-digital-zakat-platform-khidmati",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The digital minister said the zakat platform is linked to the civil status register and the social registry to identify beneficiaries; no figures given.",
+   "as_of": "2026-11-27",
+   "date_precision": "day",
+   "system": "digital zakat platform (Khidmati)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital zakat platform",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "Khidmati",
+   "owner": "Ministry of Islamic Affairs; Ministry of Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

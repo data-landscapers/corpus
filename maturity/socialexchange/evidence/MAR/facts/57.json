@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-26-mar-protection-sociale-la-cmr-et-trois-mutuelles-sallient-pour-simplifier-les-d",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "Morocco's pension fund CMR and mutuals MGEN, MGPAP and OMFAM signed a framework agreement and two specific agreements on 26 November 2026 for a platform sharing beneficiaries' data, so members no longer supply a pension certificate, with services due from March 2027.",
+   "as_of": "2026-11-26",
+   "date_precision": "day",
+   "system": "CMR-mutuelles secure data exchange platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-22-bdi-burundi-le-projet-d-appui-aux-filets-sociaux-adopte-des-technologies-i",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The World Bank team said in January 2026 that the CORE-MIS system of the Merankabandi project is interconnected with several payment service providers, and that field data from KoboToolbox flows into it automatically.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "CORE-MIS (Merankabandi)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
