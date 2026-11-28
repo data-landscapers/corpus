@@ -9,10 +9,10 @@
       "park": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-001",
-      "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-      "note": "Rebuild 2026-11-13: LiYEPA, a six-month pilot accelerator, was launched in June 2026 with applications open and no cohort on record (LBR-001), so 2 holds.",
-      "as_at": "2026-11-13"
+      "stage_sources": "LBR-001;LBR-002;LBR-003",
+      "gaps": "No source found since October 2023 says a hub runs an incubation or acceleration programme with a cohort of startups.",
+      "note": "Fact 2026-11-28: UniPod Liberia started a two-month prototype programme for 60 innovators in November 2026 (LBR-003), but they are not shown as startups, and LiYEPA's pilot accelerator has no cohort on record (LBR-001), so 2 holds.",
+      "as_at": "2026-11-28"
     }
   ]
 }

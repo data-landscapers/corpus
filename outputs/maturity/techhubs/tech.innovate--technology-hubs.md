@@ -385,9 +385,11 @@ A youth innovation hub ran training for school students in 2025; no incubation p
 
 ### Liberia: 2 Nascent
 
-A technology hub or park was under way in 2026; none running programmes is on record.
+A university hub began a prototype programme for 60 innovators in 2026; no programme with a cohort of startups is on record.
 
 - UNDP with iCampus Liberia, the Ministry of Commerce and Industry, the University of Liberia and UniPod launched LiYEPA, a six-month pilot accelerator with incubation, mentorship and prototype support, on 30 June 2026, aiming at 100-120 innovators, with applications open ([source, 2026-06-30](https://www.undp.org/liberia/news/ideas-impact)).
+- The University Innovation Pod-Liberia (UniPod), a makerspace with digital media labs and workstations run by iCampus Liberia with UNDP, was officially launched by Vice President Koung; no incubation cohort is described ([source, 2024-07-17](https://www.liberianobserver.com/digital-skills-crucial-for-liberia-s-future/article_37d0f1ea-48d2-11ef-b457-7b5bb65625db.html)).
+- UNDP's timbuktoo initiative and the University of Liberia launched a two-month prototype and product development programme on 12 November 2026 at UniPod Liberia, an innovation hub, for 60 innovators, with 10 student interns inducted ([source, 2026-11-12](https://frontpageafricaonline.com/liberia-undp-university-of-liberia-launch-unipod-innovation-programme-induct-student-interns/)).
 
 ### Seychelles: 2 Nascent
 
