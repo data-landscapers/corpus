@@ -8,10 +8,10 @@
       "use": "used",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-005;SEN-002",
-      "gaps": "No source found shows the law in regular use in the last two years.",
-      "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py.",
-      "as_at": "2026-10-30"
+      "stage_sources": "SEN-005;SEN-002;SEN-007",
+      "gaps": "No source found shows either law in regular use in the last two years; no use of Law 2026-20 is on record.",
+      "note": "The 2008 cybercrime law is in force and was used in a November 2024 conviction (SEN-005), so stage 4; Law 2026-20 on digital security, promulgated on 10 September 2026 and gazetted on 17 October 2026 (SEN-007), adds a second law in force. Stage 5 needs regular use, and two cases are on record at most.",
+      "as_at": "2026-11-28"
     }
   ]
 }

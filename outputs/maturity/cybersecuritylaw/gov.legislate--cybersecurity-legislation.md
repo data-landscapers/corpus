@@ -155,6 +155,7 @@ A cybercrime law has been in force since 2008; a man was sentenced in 2024 for a
 
 - Le Soleil reports Moustapha Diakhate was tried and sentenced on 28 November 2024 to two months in prison after a hearing at the Division speciale de cybersecurite for an insult committed through a computer system ([source, 2024-11-28](https://lesoleil.sn/actualites/societe-fait-divers/division-speciale-de-cybersecurite-police-des-reseaux-sociaux-gardien-des-moeurs/)).
 - A 2018 practitioner Q&A states Senegal adopted the Cybercrime Law (Law 2008-10 of 25 January 2008), completing the Penal Code and Penal Procedure Code, and lists the offences and penalties of six months to 10 years; it says no separate cybersecurity act was yet adopted ([source, 2008-01-25](https://www.mondaq.com/data-protection/693598/data-security-and-cybercrime-in-senegal)).
+- Law No. 2026-20 of 10 September 2026 on the protection of critical information infrastructure and digital security, adopted by the National Assembly on 20 August 2026 and promulgated on 10 September 2026, is printed in Journal officiel No. 7939 of 17 October 2026; it sets up a National Cybersecurity Authority and a 24-hour incident notice ([source, 2026-09-10](https://www.vie-publique.sn/docs/83318790-e7fb-46b2-b193-928873e16474/JO-7939-du-17-octobre-2026.pdf)).
 
 ### Sierra Leone: 4 Operating
 
