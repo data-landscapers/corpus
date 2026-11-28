@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-27-cmr-funding-shortfalls-delay-cameroons-cfa21-2-billion-digital-finance-transformatio",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Bank of Central African States (BEAC) 2024 payment services report, cited by Business in Cameroon, records nearly 31 million mobile money accounts in Cameroon at end-December 2024 and 2.73 billion mobile money transactions worth CFA26.773 trillion.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-26-gin-paiements-la-bcrg-lance-la-strat-gie-nationale-2027-2030-pour-faire-reculer-le-c",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The BCRG's First Deputy Governor said the NimbaPay instant payment system has been in production since summer and already links seven institutions, with a second wave of connections being prepared.",
+   "as_of": "2026-11-24",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-27-eth-ethswitch-chief-urges-africa-to-phase-out-bilateral-payment-connection",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "EthSwitch runs Ethiopia's national payment switch and its EthioPay platform supports instant transfers, and person-to-person transfers were migrated to the instant payment system in 2025/26.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "EthioPay",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "EthioPay is described as supporting interoperable merchant payments across financial institutions, per Birr Metrics.",
+   "as_of": "2026-11-27",
+   "date_precision": "day",
+   "system": "EthioPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EthioPay",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "",
+   "owner": "EthSwitch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,37 @@
+{
+ "slug": "2026-11-27-sdn-the-future-of-digitalisation-in-sudan-amid-recent-developments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The article says the Bankak mobile banking app has more than ten million users and that Oo-Cash and other wallet apps are in use, citing Google Play data.",
+   "as_of": "2026-11-27",
+   "date_precision": "day",
+   "system": "Bankak",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Al Arabiya, cited by the article, reported on 23 November 2026 that the National Instant Payment System connects banks and digital wallets and lets users transfer by mobile number within seconds, including by USSD.",
+   "as_of": "2026-11-23",
+   "date_precision": "day",
+   "system": "National Instant Payment System",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The article says the Central Bank of Sudan's National Instant Payment System is a unified infrastructure connecting banks and digital wallets, operating around the clock.",
+   "as_of": "2026-11-23",
+   "date_precision": "day",
+   "system": "National Instant Payment System",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

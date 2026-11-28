@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-26-mwi-malawi-tops-region-in-money-transfer-costs",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Registered mobile money subscribers reached 20 million by the second quarter of 2025, with transactions valued at K8.6 trillion, mostly airtime, cash-in and cash-out, person-to-person and merchant payments.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Mobile money (Airtel Money)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "",
+   "owner": "Airtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-25-gha-ecobank-mobile-money-fintech-ltd-launch-cross-border-momo-transfers-be",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MyJoyOnline reports that the cross-border transfer works through the existing MoMo application, whose mobile money wallets receive money in Ghana.",
+   "as_of": "2026-11-25",
+   "date_precision": "day",
+   "system": "MoMo (Mobile Money Fintech Limited)",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

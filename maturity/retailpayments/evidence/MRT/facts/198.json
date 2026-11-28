@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-27-mrt-digital-zakat-platform-khidmati",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Madar, citing the Agence Mauritanienne d'Information, reports the digital minister saying anyone can now pay zakat through their mobile phone and electronic wallet on the new government platform launched 27 November 2026.",
+   "as_of": "2026-11-27",
+   "date_precision": "day",
+   "system": "digital zakat platform (Khidmati)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital zakat platform",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "Khidmati",
+   "owner": "Ministry of Islamic Affairs; Ministry of Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

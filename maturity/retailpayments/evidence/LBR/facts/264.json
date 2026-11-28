@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-26-lbr-pay-na-na-s-next-test-is-the-money-that-does-not-arrive",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The op-ed says Pay Na-Na, the national platform introduced in December 2025, is in growing use, according to the Central Bank of Liberia's Executive Governor.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Pay Na-Na",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

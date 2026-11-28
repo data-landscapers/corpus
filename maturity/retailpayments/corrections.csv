@@ -20,3 +20,5 @@ SDN,018,service,underway,removed,"Stage 4c: USSD access to bank apps announced i
 MUS,006,interop,interop,revalued: service:inservice,"Stage 4c: the governor describes MauCAS linking banking, e-commerce and mobile payments, with no wallet or second mobile money provider named, as MUS-002"
 KEN,040,switch,national,revalued: interop:interop,"4c 2026-11-21: Pesalink reaches all banks and took in Airtel Money, but M-PESA and payments to government are not shown on it and Kenswitch runs alongside, so no one national switch (Bill, 2026-11-09, message 110)"
 NGA,020,service,inservice,removed,"Stage 4c: AfriGO is a domestic bank card scheme, not a mobile money or e-money service"
+SDN,021,interop,interop,removed,Stage 4c: an opinion piece's second-hand reading; Al Arabiya's own report (SDN-019) says NIPS is still to link banks and wallets
+SDN,022,switch,national,removed,"Stage 4c: an opinion piece's second-hand reading; the Central Bank is preparing to launch NIPS, not running it (SDN-019)"

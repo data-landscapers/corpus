@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-25-gha-turn-ghc4-99trn-momo-data-into-credit-for-informal-sector-bog",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Ghana recorded 1.093 billion mobile money transactions worth GH¢552.1bn in October 2026, per the Bank of Ghana's Second Deputy Governor.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

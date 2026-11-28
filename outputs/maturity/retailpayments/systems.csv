@@ -22,6 +22,7 @@ AGO,Paypay,Angola,retail,,,,2025-12-17-ago-afrimoney-lidera-queixas-de-clientes-
 AGO,KWiK,Angola,retail,,,,2025-07-01-ago-bna-electronic-payments-2024-74-trillion-kwanzas
 AGO,Kwik,Angola,retail,instant transfer system,Banco Nacional de Angola,,2025-08-27-ago-kwik-ganha-asas-e-transacciona-214-2-mil-milhoes-kz-em-seis-meses
 AGO,KWiK,Angola,retail,instant payment arrangement,BNA,,2024-08-29-ago-dezasseis-empresas-autorizadas-pelo-bna-a-emitir-moeda-electronica
+AGO,MULTICAIXA Express,MULTICAIXA Express,retail,,EMIS,,2026-11-26-ago-metade-dos-internautas-em-4-prov-ncias-de-angola-j-usa-aplicac-es-banc-rias-e-ca
 BDI,BurundiPay,Burundi,retail,,Bank of the Republic of Burundi,,2026-08-06-burundi-burundipay-instant-payment-uptake-brb
 BDI,BurundiPay,Burundi,retail,"national instant payment system, ISO 20022, USSD",Banque de la Republique du Burundi,"banks, microfinance, payment service providers",2026-04-28-burundipay-real-time-payments-platform-wearetech
 BDI,BurundiPay,Burundi,retail,national instant payments platform,Bank of the Republic of Burundi,"banks, microfinance, mobile money",2026-04-25-burundipay-platform-connects-banks-microfinance-mobile-money
@@ -33,6 +34,7 @@ BDI,BurundiPay,Burundi,retail,USSD,Banque de la Republique du Burundi,,2026-11-0
 BDI,Lumicash,Burundi,retail,e-money,Lumicash S.U,,2026-02-09-bdi-liste-des-etablissements-de-paiements
 BDI,Ecocash,Burundi,retail,e-money,Sasai Fintech Burundi SA,,2026-02-09-bdi-liste-des-etablissements-de-paiements
 BDI,LUMICASH,Burundi,other,,,,2025-08-01-bdi-lancement-du-paiement-des-impots-et-taxes-via-la-plateforme-cashtel-ce
+BDI,BurundiPay,BurundiPay,retail,,Banque de la Republique du Burundi,,2026-11-27-bdi-la-brb-tranquillise-les-commercants-sur-la-securite-des-transactions-via-burundi
 BEN,PI-SPI,Benin,retail,,BCEAO,,2025-10-07-lancement-pi-spi-uemoa
 BEN,Mobile Money,Benin,retail,,,,2026-08-31-wearetech-benin-phital-azah-whatsapp-mobile-money
 BEN,PI-SPI,UEMOA (Benin),retail,instant payment platform,BCEAO,"banks, microfinance, e-money issuers, payment institutions",2026-05-29-pi-spi-banques-mobile-money-interconnectes
@@ -187,6 +189,7 @@ CMR,MTN Mobile Money,Cameroon,retail,mobile money,MTN,,2025-06-13-cmr-wave-entre
 CMR,Orange Money,Cameroon,retail,mobile money,Orange,,2025-06-13-cmr-wave-entre-officiellement-sur-le-marche-des-paiements-mobiles-au-camer
 CMR,"UBA Cameroun digital channels (debit and prepaid cards, Leo assistant, Internet Banking, Push & Pull)",Cameroon,other,,United Bank for Africa Cameroun,,2026-11-20-cmr-fiscalite-bancaire-uba-cameroun-integre-le-prelevement-de-4-fcfa
 CMR,mobile money,Cameroon,retail,,,,2026-11-26-cmr-visa-deepens-central-africa-footprint
+CMR,Mobile money,Mobile money,retail,,,,2026-11-27-cmr-finance-numerique-un-moteur-pour-linclusion-financiere
 COD,FlashApp,DRC,retail,,Flash,,2026-07-14-mastercard-flash-digital-financial-inclusion-drc-techafricanews
 COD,MainMoney,COD,retail,Keyo palm biometrics,AI.Tech,,2026-05-11-mainmoney-palm-biometrics-financial-inclusion-drc-biometricupdate
 COD,MainMoney,DR Congo,retail,palm-vein payment terminal,MainMoney,,2026-04-30-mainmoney-palm-vein-lancement-actualite
@@ -368,6 +371,8 @@ ETH,Telebirr,Ethiopia,retail,,Ethio Telecom,,2025-08-13-orf-mehta-india-blueprin
 ETH,EthioPay,Ethiopia,retail,instant payment platform,EthSwitch,,2026-11-19-eth-ethswitch-merchant-trust-instant-payments
 ETH,Fayda,Ethiopia,other,,,,2026-11-19-eth-ethswitch-merchant-trust-instant-payments
 ETH,EthSwitch,Ethiopia,retail,,,,2026-11-26-xaf-afreximbank-pushes-african-banks-to-integrate
+ETH,mobile banking platforms,Ethiopia mobile banking,retail,,,,2026-11-26-eth-ethiopias-digital-finance-transactions-reach-11-trillion-birr-as-mobil
+ETH,EthioPay,Ethiopia,retail,,EthSwitch,,2026-11-27-eth-ethswitch-chief-urges-africa-to-phase-out-bilateral-payment-connection
 GAB,MADIGIPAIE,Gabon,retail,QR code,,,2026-10-12-gab-biometricupdate-gabon-digital-payment-bill-beac-interoperability
 GAB,Madigipaie,Gabon,retail,QR code,Ministry of Digital Economy,,2026-07-07-gabon-lunion-madigipaie-libreville
 GAB,Madigipaie,GAB,retail,GIMAC QR code,Ministry of Digital Economy,,2026-03-01-gabon-madigipaie-taxigab
@@ -651,6 +656,9 @@ MLI,PI-SPI,Mali,retail,instant payment system connecting banks and mobile money,
 MLI,Orange Money,Mali,retail,mobile money,Orange Finances Mobiles Mali,,2026-07-31-mli-bank-to-wallet-un-partenariat-strategique-scelle-entre-la-direction-ge
 MLI,Bank to Wallet,Mali,retail,bank-wallet link,Orange Finances Mobiles Mali and BCS-SA,,2026-07-31-mli-bank-to-wallet-un-partenariat-strategique-scelle-entre-la-direction-ge
 MLI,SAMA Money,SAMA Money,retail,,SAMA Money,,2026-11-16-mli-apanews-sama-money-pi-spi-reception
+MLI,Orange Mali mobile money,Orange Mali,retail,,Orange Mali,,2026-11-26-mli-paiements-numeriques-en-commune-iv-des-avancees-des-centres-encore-a-la-pei
+MLI,Moov Malitel mobile money,Moov Malitel,retail,,Moov Malitel,,2026-11-26-mli-paiements-numeriques-en-commune-iv-des-avancees-des-centres-encore-a-la-pei
+MLI,Sama Money,Sama Money,retail,,,,2026-11-26-mli-paiements-numeriques-en-commune-iv-des-avancees-des-centres-encore-a-la-pei
 MOZ,Metix,Mozambique,retail,,SIMO,,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
 MOZ,SIMOrede,Mozambique,retail,,SIMO,,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
 MOZ,M-Pesa,Mozambique,retail,,,,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
@@ -703,12 +711,14 @@ MOZ,SIMORede,Mozambique,retail,Euronet,Banco de Moçambique,,2023-11-19-moz-nati
 MOZ,mKesh,Mozambique,retail,mobile wallet,Tmcel,,2024-02-27-moz-mobile-financial-services-up-10-5-in-three-months
 MOZ,M-Pesa,Mozambique,retail,mobile wallet,Vodacom,,2024-02-27-moz-mobile-financial-services-up-10-5-in-three-months
 MOZ,e-Mola,Mozambique,retail,mobile wallet,Movitel,,2024-02-27-moz-mobile-financial-services-up-10-5-in-three-months
+MOZ,mobile wallets,Mozambique mobile wallets,retail,,,,2026-11-25-moz-bolsa-de-valores-pr-quer-alargar-acesso-ao-investimento-atraves-de-platafor
 MRT,QR code payment,Mauritania,retail,,,,2026-04-13-bad-pamif-mauritanie-secteur-financier-telecompensation-paiement-qr
 MRT,QR code payment,Mauritania,retail,,,,2026-04-13-pamif-financial-inclusion-afdb
 MRT,GIMTEL interconnection,Mauritania,retail,interbank switch for bank apps and e-wallets,GIMTEL,,2024-10-14-gimtel-interbank-transactions-launch
 MRT,Mechili,Mauritania,retail,,Mattel Money,,2026-11-09-mrt-mattel-lance-commercialement-la-5g-et-devoile-sa-filiale-de
 MRT,mobile payment applications,Mauritania,retail,mobile,,,2024-03-03-mrt-la-bcm-fixe-le-montant-quotidien-autorise-pour-les-transferts-au-nivea
 MRT,approved e-wallets,Mauritania,retail,e-wallet,,,2026-01-20-mrt-ministry-of-finance-remote-tax-filing-and-payment-via-e-wallets
+MRT,digital zakat platform,Mauritania,other,Khidmati,Ministry of Islamic Affairs; Ministry of Digital Transformation,,2026-11-27-mrt-digital-zakat-platform-khidmati
 MUS,MAUCAS QR,Mauritius,retail,Juice app,Bank of Mauritius,,2026-01-19-mcb-qr-payments-67pc-growth-lexpress
 MUS,Juice,Mauritius,retail,mobile app,MCB,,2026-01-19-mcb-qr-payments-67pc-growth-lexpress
 MUS,MauCAS,Mauritius,retail,national instant-payment switch,,,2024-01-01 SIIPS 2024 Case Study - MauCAS (Mauritius)
@@ -750,6 +760,7 @@ MWI,Airtel Money,Malawi,retail,,Airtel,,2026-11-18-businessday-africa-cross-bord
 MWI,Airtel Money,Malawi,retail,Comviva mobiquity Pay,Airtel Money,,2026-11-20-airtel-money-upgrades-mobile-money-platform-in-malawi-and-tanzania
 MWI,Airtel Money,Malawi,retail,,Airtel,,2026-11-25-mwi-government-tells-mobile-money-firms-fix-fees-networks-and-trust
 MWI,Airtel Money,Malawi,retail,,Airtel,,2026-11-25-mwi-rbm-targets-fraud-high-charges-in-digital-payment-reforms
+MWI,Airtel Money,Malawi,retail,,Airtel,,2026-11-26-mwi-malawi-tops-region-in-money-transfer-costs
 NAM,NamQR,Namibia,retail,,Payments Association of Namibia,,2026-07-29-namibia-instant-payments-namqr-open-banking
 NAM,Instant Payment Solution (IPS),Namibia,retail,,Bank of Namibia,,2026-07-29-namibia-launches-instant-payments-system
 NAM,Instant Payments Namibia,Namibia,retail,,Bank of Namibia (initiative),,2025-07-01-namibia-weighs-biometrics-instant-payment-biometricupdate
