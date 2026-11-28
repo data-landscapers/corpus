@@ -121,6 +121,11 @@ COUNT_ACROSS = [    # an amount and the count it spans, stated as the whole
                rf"(?:{ADJ}\s+){{0,4}}{NOUN}", re.I),
     re.compile(rf"(?P<ah>{HEDGE}\s+)?{AMT}\s+of\s+(?:[\w-]+\s+){{0,5}}?commitments?\s+"
                rf"(?:to\s+[\w'’ -]+?\s+)?across\s+(?P<n>{NUM})\s+(?:{ADJ}\s+){{0,4}}{NOUN}", re.I),
+    # "The seven that carry an amount come to about US$3.7 million" (housekeeping 96, ERI)
+    re.compile(rf"\b(?:the|those)\s+(?P<n>{NUM})\s+(?:(?:{ADJ}\s+){{0,4}}{NOUN}\s+)?"
+               rf"(?:(?:that|which)\s+(?:carry|have|state|give)|with)\s+(?:an?\s+)?(?:stated\s+|recorded\s+)?"
+               rf"(?:amount|value|figure)s?\s+(?:come|comes|add\s+up|adds\s+up|total|totals)\s+(?:to\s+)?"
+               rf"(?P<ah>{HEDGE}\s+)?{AMT}", re.I),
 ]
 AMT_AFTER_COUNT = re.compile(rf"\b(?:worth|value\s+of|come\s+to|comes\s+to|together|"
                              rf"at\s+a\s+combined)\s+(?P<ah>{HEDGE}\s+)?{AMT}", re.I)

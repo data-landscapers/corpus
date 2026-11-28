@@ -57,6 +57,11 @@ case("link text kept, target dropped",
      parse("[Nine commitments are on record](https://example.org/2019/9), worth US$545 million.")
      == (9, False, 545.0))
 
+case("the N that carry an amount come to (housekeeping 96)",
+     parse("The seven that carry an amount come to about US$4.7 million (November 2026).") == (7, False, 4.7)
+     and parse("The six commitments with a stated amount total US$12 million.") == (6, False, 12.0)
+     and parse("Those nine which have a value add up to roughly US$1.2 billion.") == (9, False, 1200.0))
+
 print("subsets are not parsed")
 case("narrowing adjective",
      parse("Five Chinese-financed commitments to Cabo Verde are on the record, worth about USD 48 "
