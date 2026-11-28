@@ -2,8 +2,6 @@
 
 One line a file or folder, read by `scripts/inventory.py` as its purpose (R168). A new log gets its line here in the commit that adds it.
 
-- `aiddata-constant-usd/`: a one-off check of AidData's held commitments against the first dollar figure in each record's text.
-- `baseline-not-held-rows.csv`: region progress rows with movement but no baseline, the baseline filler's worklist.
 - `budget-extract.csv`: one row per budget document read by `BUDGET-EXTRACT.md`, with its lines, scope, stages and cost.
 - `budget-followups.md`: budget readings still owed, worked oldest first by the cycle's finance upkeep.
 - `budget-functions.csv`: check B of the budget data review, each country's core functions found or missing in its budget.
@@ -13,15 +11,12 @@ One line a file or folder, read by `scripts/inventory.py` as its purpose (R168).
 - `cite-reread-progress.csv`: per unit, how far the citation reread has gone and what it repaired.
 - `claim-audit/`: each night's claim-audit sample, its worksheet and its verdicts.
 - `claim-audit.csv`: one row per audited claim, with its verdict, cause and repair.
-- `climate-fund-audit.csv`: the climate funds' African project pages, and what was staged for OSINT.
 - `concordance.csv`: linked sentences with a figure or date not found in the cited source (R183), rewritten each cycle.
 - `dataset-updates.csv`: every change to a curated dataset, record by record.
 - `deleted-editions.csv`: every edition pruned, with what superseded it.
 - `external-disagreements.csv`: cells where an external register and Corpus's evidence disagree (R186).
-- `filler-batch/`: the run log of the retired progress-filler batch.
 - `fy2027-discovery.csv`: whether each country's 2027 budget has been published, and where.
 - `indicator-mapping-progress.md`: the one-off mapping of country ledgers onto the indicator frame.
-- `ladder-114-moves.tsv`: stage moves from the 2026-11-11 ladder corrections and how each was settled.
 - `link-check.csv`: every outbound source link, its state and its archive copy.
 - `link-dead/`: each day's newly dead links, for repair.
 - `log.md`: Corpus's run log, one line a job.

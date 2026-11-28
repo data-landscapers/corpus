@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 r"""study_lib.py — what the maturity-study scripts share: the study's definition, its paths and its files.
 
-`maturity/documentation/maturity-study-method.md` is the procedure. A study states its typology,
+`maturity/documentation/maturity-study-method.md` is the procedure. What leaves git, and the one
+`facts.jsonl` a cell this module will read: `documentation/git-weight.md` (R173). A ladder as data
+read by one entry point: `maturity/documentation/ladders-as-data.md` (R172). A study states its typology,
 aspects and ladders in prose, in `maturity/{id}/maturity-study-{id}.md`; **what a script has to
 count against is stated once more as data, in `maturity/{id}/study.json`**, and nowhere else:
 subjects, the term list, the sub-indicators, the classes, each aspect with its role and closed

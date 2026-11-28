@@ -93,6 +93,8 @@ def referrers() -> dict[str, str]:
     files += [ROOT / i for i in INDEXES]
     for folder in ("documentation", "maturity/documentation", "content"):
         files += (ROOT / folder).glob("*.md")
+    # The R&D register and its pilots' notes name the scripts and designs a sitting uses.
+    files += [p for p in (ROOT / "R&D").rglob("*.md") if "cache" not in p.parts]
     for folder in ("scripts", "workers", ".github/workflows"):
         # Prune before descending: `scripts/.workroot` is a junction into OSINT (300,000 files).
         for here, dirs, names in os.walk(ROOT / folder):

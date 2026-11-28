@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 r"""study_afford.py — a mobile-data figure as a share of income, for the mobile affordability study.
 
-`maturity-study-mobileaffordability.md` §3, read by `study-ladder-mobileaffordability.py` and
-`study-affordability-write.py` so both turn a fact into the same number.
+`maturity-study-mobileaffordability.md` §3, read by `study-ladder-mobileaffordability.py`.
 
 A `cost` value is one of two things:
 

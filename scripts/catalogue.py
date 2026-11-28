@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """catalogue.py — the catalogue browse page (documentation/design.md §4).
 
+Its cost at 60,000 and 100,000 records, and the query service that replaces the whole filter
+index: `documentation/catalogue-recosting.md` (R193).
+
     python scripts/catalogue.py
       -> site/catalogue/index.html                    the browse-and-filter surface
       -> site/catalogue/data/filter-index.json        facets, counts and sorts

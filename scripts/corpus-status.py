@@ -46,7 +46,7 @@ status" is `cat logs/status.md` without recomputing.
 
 **It commits the manifest copies its own reading writes** *(Bill, 2026-10-30)*. The cycle gate
 reads OSINT's manifest, and `osint_lib` keeps a dated copy in `logs/manifests/` for every one
-it meets. A daytime OSINT pass therefore leaves a copy no job changed and no job's explicit
+it meets (`scripts/stage-cost.py` reads them for each stage's cost). A daytime OSINT pass therefore leaves a copy no job changed and no job's explicit
 staging picks up, so this commits and pushes new copies itself, those paths and nothing else.
 A refused commit (another session holding the index) is left for the next reading.
 
