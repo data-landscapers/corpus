@@ -23,9 +23,9 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 | 5 Mature | 9 |
 | 4 Operating | 18 |
 | 3 Established | 12 |
-| 2 Nascent | 8 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
-| Unplaced | 5 |
+| Unplaced | 4 |
 | No evidence | 2 |
 
 ## Countries
@@ -313,6 +313,12 @@ An electronic tax system was under way in 2026; online filing is not on record.
 - The World Bank implementation status report for the Economic and Financial Governance Project sets a PDO indicator on the percentage of tax returns filed and paid on time via ITAS, at 0 as of 9 January 2026 against a 70% target for December 2029, so the system is not yet in use ([source, 2026-01-09](https://documents1.worldbank.org/curated/en/099012726115520907/pdf/P180696-28ecf2f4-34e9-4559-9695-f14bd83f8798.pdf)).
 - The World Bank project record for the US$20m Djibouti Economic and Financial Governance Project says it includes tax administration system modernization and revenue administration digitalization ([source, 2025](https://projects.worldbank.org/en/projects-operations/project-detail/P180696)).
 
+### Eritrea: 2 Nascent
+
+An integrated tax system was being installed in 2025; whether returns can be filed online is not known.
+
+- An AfDB report of 19 May 2025 says a firm was recruited on 9 October 2024 to design, supply and install the Eritrea Integrated Tax Administration System, whose software and licences have been delivered, with equipment expected in Q3 2025 ([source, 2025-05-19](https://www.afdb.org/sites/default/files/documents/projects-and-operations/eritrea_-_strengthening_tax_administration_project_estap_-_p-er-k00-002_-_ipr_may_2025.pdf)).
+
 ### Gambia: 2 Nascent
 
 An electronic tax system was under way in 2026; online filing is not on record.
@@ -346,12 +352,6 @@ An e-tax system for filing and payment was being rolled out in 2026, with taxes 
 - One Citizen Daily reports the SSRA review of its E-Tax reform, a platform designed for tax registration, filing and payment, noting strides in automating tax filing alongside limited infrastructure and low taxpayer awareness ([source, 2025-09-25](https://www.onecitizendaily.com/index.php/2025/09/26/ssra-pushes-digital-reforms-to-boost-transparency-efficiency/)).
 
 ### Cote d'Ivoire: Unplaced
-
-Nothing found since 2023 names online tax filing and payment, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether tax returns can be filed online.
-
-### Eritrea: Unplaced
 
 Nothing found since 2023 names online tax filing and payment, so no stage is set.
 

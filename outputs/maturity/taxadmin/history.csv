@@ -92,3 +92,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-15,BDI,dpi.mis--tax,fact,2,4,BDI-002;BDI-003,"OBR, November 2023: large and medium taxpayers file and pay online on the Umutangakori portal; 2 to 4."
 2026-11-15,AGO,dpi.mis--tax,fact,2,2,AGO-001;AGO-002,"AGT, July 2026: taxes are paid electronically through the Portal do Contribuinte; online filing still not shown, so 2 holds."
 2026-11-15,BWA,dpi.mis--tax,fact,3,3,BWA-001;BWA-004,"BURS, July 2024: 77% of 38,000 individual returns filed online; payment through BURS still not shown, so 3 holds."
+2026-11-28,ERI,dpi.mis--tax,fact,unplaced,2,ERI-002,"An African Development Bank progress report of May 2025 says a firm was hired in October 2024 to supply and install EriTAS, Eritrea's integrated tax administration system, and had delivered its software licences. A tax system is being built, which meets stage 2."

@@ -9,6 +9,8 @@ BEN,e-services Bénin (e-services.impots.bj),Bénin,taxsystem,DGI tax portal,Dir
 BEN,eservices.impots.bj,Benin,taxsystem,,Direction Generale des Impots,,2020-02-04-ben-gouvbj-declaration-unique-impots-salaires-cnss
 BEN,Integrated Tax and Assimilated Management System (SIGTAS),Benin,taxsystem,,,,2025-12-18-worldbank-govtech-dataset-dec2025
 BEN,e-services.impots.bj,Benin,taxsystem,web portal,Direction generale des Impots,,2025-09-19-ben-benin-la-dgi-dematerialise-les-timbres-fiscaux-et-l-enregistrement-des
+BEN,SIGRHP,Benin,other,,Ministry of Economy and Finance / Public Service,,2026-03-09-ben-dgb-solde-sigrhp
+BEN,Webb Customs,Benin,other,Webb Fontaine,Benin customs,,2025-04-15-ben-webbfontaine-national-rollout-customs-system
 BFA,eSINTAX,Burkina Faso,taxsystem,,Direction generale des impots,"DGE, DME",2019-12-30-bfa-burkina24-dgi-esintax-teledeclaration-obligatoire
 BFA,SECeF,Burkina Faso,other,certified electronic invoicing system,Direction générale des impôts,large and medium enterprises,2026-11-04-bfa-communiqu-dgi-facturation-lectronique-certifi-e-obligatoire-pour-les-g
 BFA,eSINTAX JAVA,portail de teleprocedures fiscales,taxsystem,,Direction generale des impots,national,2026-11-05-bfa-burkina-economie-la-dgi-renforce-les-capacites-de-ses-agents-pour-accelerer-sa-d
@@ -79,6 +81,7 @@ EGY,Unified payroll tax system,Egypt,taxsystem,ETA website,Egyptian Tax Authorit
 EGY,Egyptian Tax Authority e-filing system,Egypt,taxsystem,,Egyptian Tax Authority,,2020-08-01-egy-enterprise-eta-e-filing-second-phase-1q2021
 EGY,ITMAS,Egypt,taxsystem,,ETA,,2025-12-18-worldbank-govtech-dataset-dec2025
 ERI,ERITAS,Eritrea,other,,Inland Revenue Department,,2019-05-01-eri-afdb-estap-tax-administration-appraisal
+ERI,EriTAS,Eritrea,taxsystem,COTS,Ministry of Finance,,2025-05-19-eri-implementation-progress-and-results-report-strengthening-tax-administr
 ETH,Integrated Tax Administration System (ITAS),ETH,taxsystem,,Ministry of Revenue,,2026-10-08-eth-getchereta-mor-itas-chief-architect-reoi
 ETH,Integrated Tax Adminstration System-ITAS,ETH,taxsystem,,Ministry of Revenue,,2024-07-04-eth-2024-156-01-pr034
 ETH,e-filing system,ETH,taxsystem,,,,2024-01-31 E-tax adoption and tax compliance in Ethiopia (ICTD WP180)
@@ -111,6 +114,7 @@ GMB,ITAS,Gambia,taxsystem,Sogema Technologies,Gambia Revenue Authority,,2024-05-
 GMB,Integrated Tax Administration System (ITAS),The Gambia,taxsystem,,Gambia Revenue Authority,,2025-12-18-worldbank-govtech-dataset-dec2025
 GMB,GamTax Net,The Gambia,,,Gambia Revenue Authority,,2025-12-18-worldbank-govtech-dataset-dec2025
 GMB,Integrated Tax Administration System (ITAS),ITAS,taxsystem,World Bank-funded Public Administration Modernisation for Citizen-Centric Service Delivery Project,Gambia Revenue Authority,,2026-06-23-gmb-gra-hosts-workshop-on-itas
+GMB,SICPA digital tax stamps and revenue monitoring concession,The Gambia,other,SICPA,Gambia Revenue Authority,,2026-11-19-gmb-gra-sicpa-digital-revenue-monitoring
 GNB,Kontaktu,Guinea-Bissau,,,Direcção-Geral das Contribuições e Impostos,,2025-12-18-worldbank-govtech-dataset-dec2025
 GNB,Kontaktu,Guinea-Bissau,taxsystem,web,DGCI,,2024-07-23-gnb-tecnicos-da-dgci-e-contribuintes-debatem-a-introducao-de-impostos-na-p
 GNB,Kontaktu,Guinea-Bissau,taxsystem,electronic filing and payment platform,DGCI,,2024-05-01 Guinea-Bissau - Further Improvements in Tax Compliance (IMF technical assistance)
@@ -185,6 +189,7 @@ MWI,ASYCUDA World,ASYCUDA World 4.4.0,other,UNCTAD,Malawi Revenue Authority,,202
 MWI,ITAS,Malawi,,,Malawi Revenue Authority,,2025-12-18-worldbank-govtech-dataset-dec2025
 MWI,Msonkho Online,Malawi,taxsystem,,Malawi Revenue Authority,,2025-12-18-worldbank-govtech-dataset-dec2025
 MWI,SPSIS,Malawi,other,,Ministry of Agriculture,,2026-05-22-mwi-malawi-unveils-digital-spsis-to-transform-agricultural-trade
+MWI,Independent Mobile Money and Telecommunications Revenue Monitoring System,Malawi,other,,Malawi Revenue Authority,,2026-08-01-mwi-invitation-to-express-interest-supply-deployment-and-operation-of-an-i
 NAM,Integrated Tax Administration System (ITAS),Namibia,taxsystem,,Namibia Revenue Agency,,2025-01-01-integrated-tax-administration-system-e-portal
 NAM,ITAS (Integrated Tax Administration System),Integrated Tax Administration System,taxsystem,,Namibia Revenue Agency,,2026-06-18-nam-economist-itas-deadline-extended
 NAM,Integrated Tax Administration System,Namibia,taxsystem,,Namibia Revenue Agency,,2025-04-22-nam-namra-sets-four-year-target-to-fully-digitize-services

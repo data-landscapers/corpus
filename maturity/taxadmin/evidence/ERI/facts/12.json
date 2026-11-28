@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-19-eri-implementation-progress-and-results-report-strengthening-tax-administr",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "An AfDB report of 19 May 2025 says a firm was recruited on 9 October 2024 to design, supply and install the Eritrea Integrated Tax Administration System, whose software and licences have been delivered, with equipment expected in Q3 2025.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "EriTAS",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EriTAS",
+   "country_label": "Eritrea",
+   "class": "taxsystem",
+   "platform": "COTS",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

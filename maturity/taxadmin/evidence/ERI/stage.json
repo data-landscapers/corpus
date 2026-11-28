@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxsystem",
-      "stage": "unplaced",
-      "filing": "",
+      "stage": "2",
+      "filing": "underway",
       "payment": "",
       "uptake": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether tax returns can be filed online.",
-      "note": "Rebuild 2026-11-13: The only fact is the 2019 AfDB grant to replace ERITAS, older than three years, so it sets nothing. The cell stays unplaced.",
-      "as_at": "2026-11-13"
+      "stage_sources": "ERI-002",
+      "gaps": "No source found since October 2023 says tax returns can be filed online.",
+      "note": "Fact 2026-11-28: a firm was hired in October 2024 to supply and install the EriTAS integrated tax system and had delivered its software licences by May 2025 (ERI-002), so a system is being built. Nothing shows returns filed online, so not 3.",
+      "as_at": "2026-11-28"
     }
   ]
 }
