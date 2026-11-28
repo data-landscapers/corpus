@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-17-mli-mali-administration-publique-six-solutions-digitales-pour-un-mali-mode",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Nouvelle Afrique reports that the digitisation of ANASER fees, based on a ticketing management system, includes a mobile payment application still being rolled out as of the 16 September 2025 presentation.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "ANASER ticketing management system",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANASER Ticketing Management System",
+   "country_label": "ANASER fees",
+   "class": "revenue",
+   "platform": "",
+   "owner": "ANASER",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
