@@ -1,16 +1,17 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-001",
-   "gaps": "No source found says a national data policy is adopted and still running.",
-   "note": "Counted from the four questions by study-ladder-datagovernance.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-002;BWA-001",
+      "gaps": "No source found says a national data policy is adopted and still running.",
+      "note": "Fact 2026-11-25: the draft National Data Policy was completed and put to a validation workshop with the 2027-2032 strategy, ahead of formal approval, so it is still a draft. Nothing shows it adopted, so stage 3 is not met.",
+      "as_at": "2026-11-28"
+    }
+  ]
 }

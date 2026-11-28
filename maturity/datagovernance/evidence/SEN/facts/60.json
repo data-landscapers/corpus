@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-27-sen-restic-warns-of-delays-in-senegals-data-strategy",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Senegal's National Data Strategy (SND 2023-2028) is published on the government portal Vie-publique.sn and dated 20 December 2023, per Socialnetlink.",
+   "as_of": "2023-12-20",
+   "date_precision": "day",
+   "system": "National Data Strategy (SND 2023-2028)",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Strategy (SND 2023-2028)",
+   "country_label": "SND 2023-2028",
+   "class": "policy",
+   "platform": "",
+   "owner": "Government of Senegal",
+   "tiers": ""
+  }
+ ],
+ "note": "The data governance authority is only demanded by RESTIC, so no body fact."
+}

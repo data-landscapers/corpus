@@ -100,8 +100,9 @@ Mauritius launched its National Data Strategy 2025-2029 in January 2026; no body
 
 ### Senegal: 3 Established
 
-Senegal had adopted a national data strategy by 2024; who carries it out is not known.
+Senegal issued a national data strategy for 2023 to 2028 in December 2023; who carries it out is not known.
 
+- Senegal's National Data Strategy (SND 2023-2028) is published on the government portal Vie-publique.sn and dated 20 December 2023, per Socialnetlink ([source, 2023-12-20](https://www.socialnetlink.org/2026/11/27/restic-senegal-national-data-strategy-delays/)).
 - Le Tech Observateur says the authorities have adopted the Stratégie Nationale des Données (SND) among their recent strategies ([source, 2024-10-03](https://letechobservateur.sn/mise-a-niveau-du-projet-de-loi-sur-la-protection-des-donnees-personnelles-une-avancee-majeure-pour-le-cadre-legal-senegalais/)).
 - The article says Senegal has adopted its National Data Strategy (SND) and AI Strategy (SNIA), without giving the adoption date; the date used is the article's published date, which the file marks as an ingest-date proxy ([source, 2026-07-20](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/)).
 
@@ -114,8 +115,9 @@ Sierra Leone published its first National Data Strategy in January 2023 and was 
 
 ### Botswana: 2 Nascent
 
-Botswana was drafting a national data strategy in September 2026; no source found says whether the government has approved it.
+Botswana's draft national data policy went to a validation workshop in November 2026; when the government will approve it is not known.
 
+- Assistant Minister Shawn Ntlhaile said government has completed its draft National Data Policy, which with the National Data Strategy 2027-2032 was being validated at a Gaborone workshop on 25 November 2026 ahead of formal approval ([source, 2026-11-25](https://dailynews.gov.bw/news-detail/94332)).
 - Botswana's Ministry of Communications and Innovation held a five-day data governance training and stakeholder engagement on 7-11 September 2026 to support developing the National Data Strategy, which is being drafted with African Union Commission and EU support; the source does not say the strategy or the National Data Policy it follows has been adopted ([source, 2026-09](https://dig.watch/updates/botswana-national-data-strategy-engagement)).
 
 ### Burundi: 2 Nascent
@@ -220,7 +222,7 @@ Somalia validated a national data policy framework in 2026; no source found says
 
 Tanzania's electronic data governance strategy was validated at a workshop in March 2026; no source found reports formal adoption.
 
-- The UN Economic Commission for Africa reports that a national validation workshop for the Tanzania Electronic Data Governance Strategy (TZeDGS) was held in Dodoma on 12 March 2026, and that the Ministry of Communication and Information Technology's director reaffirmed commitment to advancing it toward formal adoption, so it was not yet adopted ([source, 2026-03-12](https://www.uneca.org/stories/the-blueprint-for-a-digital-sovereign-nation-tanzania-validates-its-landmark-electronic-data)).
+- The UN Economic Commission for Africa reports that a national validation workshop for the Tanzania Electronic Data Governance Strategy (TZeDGS) was held in Dodoma on 12 March 2026, and that the Ministry of Communication and Information Technology's director reaffirmed commitment to advancing it toward formal adoption, so it was not yet adopted ([source, 2026-03-12](https://web.archive.org/web/20260417192221/https://www.uneca.org/stories/the-blueprint-for-a-digital-sovereign-nation-tanzania-validates-its-landmark-electronic-data)).
 
 ### Tunisia: 2 Nascent
 

@@ -8,10 +8,10 @@
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-004;SEN-002",
-      "gaps": "No source found names a body set up to carry out the strategy. The exact date it was adopted is not given.",
-      "note": "Le Tech Observateur lists the National Data Strategy as adopted by October 2024, and a July 2026 report says the same, which meets stage 3. No body named to carry it out is held, so stage 4 is not met.",
-      "as_at": "2026-10-30"
+      "stage_sources": "SEN-008;SEN-004;SEN-002",
+      "gaps": "No source found names a body set up to carry out the strategy.",
+      "note": "Fact 2026-11-27: the National Data Strategy 2023-2028 was published on the government portal dated 20 December 2023, and its period runs to 2028, which meets stage 3. No body named to carry it out is held, so stage 4 is not met.",
+      "as_at": "2026-11-28"
     }
   ]
 }
